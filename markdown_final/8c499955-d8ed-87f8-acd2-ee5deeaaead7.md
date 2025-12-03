@@ -15,47 +15,47 @@ How does the duration of uric acid control impact the decision to continue or di
 
 > Let's see… What do we have here? The user is asking how the duration of uric acid control impacts the decision to continue or discontinue colchicine prophylaxis in gout. Let's break this down step-by-step. First, I need to think about the clinical context and why colchicine is used with urate-lowering therapy. Then, I should verify what high-quality guidelines say about duration of prophylaxis and whether there is any role for extending it. Next, I will examine the evidence base for 3–6 months versus longer prophylaxis, including randomized and observational data. After that, I need to check how serum urate targets and ongoing disease activity modify the decision. Finally, I should consider special populations, safety, and synthesize a practical, stepwise recommendation with monitoring checkpoints.
 
-> Let me first confirm the clinical context. Colchicine prophylaxis is used to mitigate mobilization flares that occur when urate-lowering therapy lowers serum urate and redissolves monosodium urate crystals; this flare risk is highest in the first 3–6 months after ULT initiation or dose escalation, which is why guidelines recommend concurrent anti-inflammatory prophylaxis during that window [^d59375bb] [^10bfe735] [^a2c6b00a].
+> Let me first confirm the clinical context. Colchicine prophylaxis is used to mitigate mobilization flares that occur when urate-lowering therapy lowers serum urate and redissolves monosodium urate crystals; this flare risk is highest in the first 3–6 months after ULT initiation or dose escalation, which is why guidelines recommend concurrent anti-inflammatory prophylaxis during that window [^116Tdtmx] [^111RqG5r] [^115AKjQD].
 
-> I should confirm the standard duration. The ACR 2020 guideline strongly recommends continuing anti-inflammatory prophylaxis for at least 3–6 months after starting or uptitrating ULT, with ongoing evaluation and extension if flares continue, and this is echoed by BSR and EULAR guidance recommending approximately 6 months of prophylaxis in many cases [^d59375bb] [^10bfe735] [^fae70caf] [^189ffde1].
+> I should confirm the standard duration. The ACR 2020 guideline strongly recommends continuing anti-inflammatory prophylaxis for at least 3–6 months after starting or uptitrating ULT, with ongoing evaluation and extension if flares continue, and this is echoed by BSR and EULAR guidance recommending approximately 6 months of prophylaxis in many cases [^116Tdtmx] [^111RqG5r] [^117QyWfG] [^111dWSet].
 
-> Wait, let me verify the evidence base for 3–6 months versus shorter courses. A post hoc analysis of three phase III febuxostat trials showed that 6 months of prophylaxis yielded lower flare rates than 8 weeks, with flare risk rising sharply after 8 weeks and remaining low through 6 months, supporting the longer prophylaxis window [^a2afff65]. A randomized, placebo-controlled trial of colchicine 0.5 mg daily for 6 months during allopurinol initiation also demonstrated reduced flares with prophylaxis, reinforcing the 6-month paradigm in routine practice [^notfound].
+> Wait, let me verify the evidence base for 3–6 months versus shorter courses. A post hoc analysis of three phase III febuxostat trials showed that 6 months of prophylaxis yielded lower flare rates than 8 weeks, with flare risk rising sharply after 8 weeks and remaining low through 6 months, supporting the longer prophylaxis window [^115AC7N4]. A randomized, placebo-controlled trial of colchicine 0.5 mg daily for 6 months during allopurinol initiation also demonstrated reduced flares with prophylaxis, reinforcing the 6-month paradigm in routine practice [^notfound].
 
-> Hold on, let's not jump to conclusions about stopping at 6 months for everyone. I need to check modifiers: if serum urate is not yet at target, if flares are ongoing, or if there are tophi, extending prophylaxis is reasonable because crystal burden remains high and mobilization flares persist. Conversely, if serum urate has been at target for 6–12 months without flares and there are no tophi, discontinuation is appropriate, with shared decision-making about risks and benefits [^d59375bb] [^10bfe735] [^e3121626].
+> Hold on, let's not jump to conclusions about stopping at 6 months for everyone. I need to check modifiers: if serum urate is not yet at target, if flares are ongoing, or if there are tophi, extending prophylaxis is reasonable because crystal burden remains high and mobilization flares persist. Conversely, if serum urate has been at target for 6–12 months without flares and there are no tophi, discontinuation is appropriate, with shared decision-making about risks and benefits [^116Tdtmx] [^111RqG5r] [^116oeGKo].
 
-> I should double-check the role of treat-to-target urate control. Maintaining serum urate below 6 mg/dL is associated with crystal dissolution and fewer flares over time; however, even after years of good control, a meaningful fraction of patients will flare if ULT is stopped, underscoring that prophylaxis decisions should align with ongoing urate control and disease activity rather than a fixed calendar alone [^e3121626] [^33fcefdb].
+> I should double-check the role of treat-to-target urate control. Maintaining serum urate below 6 mg/dL is associated with crystal dissolution and fewer flares over time; however, even after years of good control, a meaningful fraction of patients will flare if ULT is stopped, underscoring that prophylaxis decisions should align with ongoing urate control and disease activity rather than a fixed calendar alone [^116oeGKo] [^112L5Kyt].
 
-> Let me consider special populations. In chronic kidney disease, colchicine toxicity risk rises, so dose reductions are essential and NSAIDs are generally avoided; KDIGO recommends low-dose colchicine or glucocorticoids for flare management and supports 3–6 months of prophylaxis when starting ULT, with careful renal dosing and monitoring for myelotoxicity and neuromyotoxicity [^0b58b93f] [^239532e4] [^8495cb16]. In older adults or those on interacting drugs, I should confirm medication reconciliation and consider lower colchicine doses or alternative prophylaxis if risk is high [^2f3fbfbd] [^893983d0].
+> Let me consider special populations. In chronic kidney disease, colchicine toxicity risk rises, so dose reductions are essential and NSAIDs are generally avoided; KDIGO recommends low-dose colchicine or glucocorticoids for flare management and supports 3–6 months of prophylaxis when starting ULT, with careful renal dosing and monitoring for myelotoxicity and neuromyotoxicity [^111HpfaN] [^111ukgVR] [^114PZgQd]. In older adults or those on interacting drugs, I should confirm medication reconciliation and consider lower colchicine doses or alternative prophylaxis if risk is high [^112D3qBA] [^114WSd67].
 
-> Next, I should review safety signals that might prompt earlier discontinuation. Common adverse effects are gastrointestinal, while serious toxicity such as myopathy, neuropathy, and bone marrow suppression is rare but more likely with renal impairment or interacting drugs; periodic CBC and CK checks can be considered with prolonged prophylaxis, and any concerning symptoms should trigger reassessment of dose or cessation [^10533441] [^fa27c448] [^93938647].
+> Next, I should review safety signals that might prompt earlier discontinuation. Common adverse effects are gastrointestinal, while serious toxicity such as myopathy, neuropathy, and bone marrow suppression is rare but more likely with renal impairment or interacting drugs; periodic CBC and CK checks can be considered with prolonged prophylaxis, and any concerning symptoms should trigger reassessment of dose or cessation [^111RCkTS] [^117PsGAs] [^114mnjSE].
 
-> But wait, what if prophylaxis is continued beyond 6 months — does it still help? Evidence is limited; a randomized trial of 6 months of colchicine prophylaxis did not show a remission advantage versus placebo in the subsequent 6 months, suggesting no clear benefit from routine extension once urate is controlled and flares cease, though selected patients with ongoing activity may still benefit from individualized extension [^f392c965]. Observational data also highlight that many patients are prescribed prophylaxis inappropriately without concurrent ULT or beyond the point of need, reinforcing the importance of aligning continuation with urate target attainment and flare status [^cffa0448].
+> But wait, what if prophylaxis is continued beyond 6 months — does it still help? Evidence is limited; a randomized trial of 6 months of colchicine prophylaxis did not show a remission advantage versus placebo in the subsequent 6 months, suggesting no clear benefit from routine extension once urate is controlled and flares cease, though selected patients with ongoing activity may still benefit from individualized extension [^117E7J7e]. Observational data also highlight that many patients are prescribed prophylaxis inappropriately without concurrent ULT or beyond the point of need, reinforcing the importance of aligning continuation with urate target attainment and flare status [^116KLR43].
 
-> I will now examine practical decision points. I should confirm that colchicine is being used with active ULT, reassess flare frequency and serum urate at 3 and 6 months, and if serum urate is at target, there have been no flares for 3–6 months, and there are no tophi, discontinue prophylaxis; if serum urate is not yet at target or flares persist, extend prophylaxis to 9–12 months and reassess again, with ongoing vigilance for adverse effects and drug interactions [^d59375bb] [^10bfe735] [^6239eda6].
+> I will now examine practical decision points. I should confirm that colchicine is being used with active ULT, reassess flare frequency and serum urate at 3 and 6 months, and if serum urate is at target, there have been no flares for 3–6 months, and there are no tophi, discontinue prophylaxis; if serum urate is not yet at target or flares persist, extend prophylaxis to 9–12 months and reassess again, with ongoing vigilance for adverse effects and drug interactions [^116Tdtmx] [^111RqG5r] [^113WdF9o].
 
-> In summary, I need to ensure the decision is dynamic: start prophylaxis for 3–6 months with ULT initiation or escalation, extend if urate remains above target or flares continue, and discontinue once serum urate has been at goal for 6–12 months without flares and there are no tophi, recognizing that the duration of uric acid control — specifically sustained target urate with quiescent disease — is the key determinant of when colchicine prophylaxis can be safely stopped [^d59375bb] [^10bfe735] [^e3121626].
+> In summary, I need to ensure the decision is dynamic: start prophylaxis for 3–6 months with ULT initiation or escalation, extend if urate remains above target or flares continue, and discontinue once serum urate has been at goal for 6–12 months without flares and there are no tophi, recognizing that the duration of uric acid control — specifically sustained target urate with quiescent disease — is the key determinant of when colchicine prophylaxis can be safely stopped [^116Tdtmx] [^111RqG5r] [^116oeGKo].
 
 ---
 
-Colchicine prophylaxis is **indicated for 3–6 months** after initiating or intensifying urate-lowering therapy (ULT) to prevent mobilization flares, and should be continued only if flares persist or serum urate remains above target [^d59375bb] [^10bfe735]. Once serum urate has been stably at **< 6 mg/dL for ≥ 6 months without flares**, colchicine can be discontinued; prolonged prophylaxis beyond 6 months is not routinely recommended unless flares continue or tophi are present [^e3121626] [^f392c965]. Ongoing flares or inadequate urate control warrant continued prophylaxis and ULT optimization [^d59375bb] [^b2544b44].
+Colchicine prophylaxis is **indicated for 3–6 months** after initiating or intensifying urate-lowering therapy (ULT) to prevent mobilization flares, and should be continued only if flares persist or serum urate remains above target [^116Tdtmx] [^111RqG5r]. Once serum urate has been stably at **< 6 mg/dL for ≥ 6 months without flares**, colchicine can be discontinued; prolonged prophylaxis beyond 6 months is not routinely recommended unless flares continue or tophi are present [^116oeGKo] [^117E7J7e]. Ongoing flares or inadequate urate control warrant continued prophylaxis and ULT optimization [^116Tdtmx] [^115ZP7Lo].
 
 ---
 
 ## Rationale for colchicine prophylaxis during urate-lowering therapy
 
-Initiating or intensifying ULT lowers serum urate and mobilizes monosodium urate crystals, transiently increasing flare risk; colchicine mitigates this by inhibiting neutrophil recruitment and activation, thereby reducing flare frequency and severity [^a2c6b00a] [^fa27c448].
+Initiating or intensifying ULT lowers serum urate and mobilizes monosodium urate crystals, transiently increasing flare risk; colchicine mitigates this by inhibiting neutrophil recruitment and activation, thereby reducing flare frequency and severity [^115AKjQD] [^117PsGAs].
 
 ---
 
 ## Recommended duration of colchicine prophylaxis
 
-Current guidelines recommend **colchicine prophylaxis for 3–6 months** after starting or intensifying ULT, with extension if flares persist or serum urate remains above target [^d59375bb] [^10bfe735] [^fae70caf].
+Current guidelines recommend **colchicine prophylaxis for 3–6 months** after starting or intensifying ULT, with extension if flares persist or serum urate remains above target [^116Tdtmx] [^111RqG5r] [^117QyWfG].
 
 | **Guideline** | **Recommended duration of colchicine prophylaxis** |
 |-|-|
-| American College of Rheumatology (ACR) 2020 | 3–6 months; extend if flares persist or serum urate is not at target [^d59375bb] [^10bfe735] |
-| British Society for Rheumatology (BSR) 2017 | Up to 6 months [^fae70caf] |
-| European League Against Rheumatism (EULAR) 2016 | 6 months [^189ffde1] |
+| American College of Rheumatology (ACR) 2020 | 3–6 months; extend if flares persist or serum urate is not at target [^116Tdtmx] [^111RqG5r] |
+| British Society for Rheumatology (BSR) 2017 | Up to 6 months [^117QyWfG] |
+| European League Against Rheumatism (EULAR) 2016 | 6 months [^111dWSet] |
 
 ---
 
@@ -64,14 +64,14 @@ Current guidelines recommend **colchicine prophylaxis for 3–6 months** after s
 The decision to stop colchicine depends on the **duration and stability of urate control** and the absence of ongoing flares:
 
 - **Stable urate control**: Serum urate < 6 mg/dL for ≥ 6 months without flares supports discontinuation.
-- **Inadequate control**: Persistent hyperuricemia or ongoing flares justify continued prophylaxis until targets are met and flares cease [^d59375bb] [^10bfe735].
-- **Long-term suppression**: Even after years of control, stopping ULT can lead to relapse, so prophylaxis should align with active ULT and disease activity [^e3121626].
+- **Inadequate control**: Persistent hyperuricemia or ongoing flares justify continued prophylaxis until targets are met and flares cease [^116Tdtmx] [^111RqG5r].
+- **Long-term suppression**: Even after years of control, stopping ULT can lead to relapse, so prophylaxis should align with active ULT and disease activity [^116oeGKo].
 
 ---
 
 ## Clinical evidence supporting colchicine discontinuation
 
-Evidence shows that **continuing ULT indefinitely** reduces flares and improves outcomes compared with stopping, whereas stopping ULT even after prolonged control often leads to relapse [^e3121626]. A case series found that only 13% remained flare-free for 5 years after stopping ULT despite prior good control, underscoring the need to maintain ULT and reassess prophylaxis only when stable targets are achieved [^e3121626].
+Evidence shows that **continuing ULT indefinitely** reduces flares and improves outcomes compared with stopping, whereas stopping ULT even after prolonged control often leads to relapse [^116oeGKo]. A case series found that only 13% remained flare-free for 5 years after stopping ULT despite prior good control, underscoring the need to maintain ULT and reassess prophylaxis only when stable targets are achieved [^116oeGKo].
 
 ---
 
@@ -84,7 +84,7 @@ Several factors guide whether to **continue or stop colchicine**:
 | Duration of urate control | ≥ 6 months at target supports discontinuation |
 | Frequency of gout flares | Ongoing flares warrant continued prophylaxis |
 | Presence of tophi | Tophi justify continued prophylaxis until resolution |
-| Patient-specific factors | Comorbidities, drug interactions, and tolerance influence choice and duration [^2f3fbfbd] [^893983d0] |
+| Patient-specific factors | Comorbidities, drug interactions, and tolerance influence choice and duration [^112D3qBA] [^114WSd67] |
 
 ---
 
@@ -92,14 +92,14 @@ Several factors guide whether to **continue or stop colchicine**:
 
 Prolonged prophylaxis reduces flares but increases exposure to adverse effects; **balancing risks and benefits** is essential:
 
-- **Benefits**: Reduced flares, improved adherence, and protection during ULT titration [^a2afff65] [^f96c1caf].
-- **Risks**: Gastrointestinal upset, myopathy, neuropathy, and bone marrow suppression, especially with renal impairment or drug interactions [^fa27c448] [^10533441] [^93938647].
+- **Benefits**: Reduced flares, improved adherence, and protection during ULT titration [^115AC7N4] [^117NnEN2].
+- **Risks**: Gastrointestinal upset, myopathy, neuropathy, and bone marrow suppression, especially with renal impairment or drug interactions [^117PsGAs] [^111RCkTS] [^114mnjSE].
 
 ---
 
 ## Clinical guidelines summary
 
-Guidelines converge on **3–6 months of prophylaxis** with ULT, with extension for persistent flares or suboptimal urate control, and discontinuation once serum urate is stably at target without flares for ≥ 6 months [^d59375bb] [^10bfe735] [^fae70caf] [^189ffde1].
+Guidelines converge on **3–6 months of prophylaxis** with ULT, with extension for persistent flares or suboptimal urate control, and discontinuation once serum urate is stably at target without flares for ≥ 6 months [^116Tdtmx] [^111RqG5r] [^117QyWfG] [^111dWSet].
 
 ---
 
@@ -107,20 +107,20 @@ Guidelines converge on **3–6 months of prophylaxis** with ULT, with extension 
 
 A **stepwise approach** is recommended:
 
-- **Initiate**: Colchicine 0.5–1 mg daily with ULT start or dose escalation [^2f3fbfbd] [^d59375bb].
-- **Monitor**: Reassess at 3–6 months; continue if flares persist or serum urate is not at target [^d59375bb] [^10bfe735].
+- **Initiate**: Colchicine 0.5–1 mg daily with ULT start or dose escalation [^112D3qBA] [^116Tdtmx].
+- **Monitor**: Reassess at 3–6 months; continue if flares persist or serum urate is not at target [^116Tdtmx] [^111RqG5r].
 - **Discontinue**: Stop when serum urate is < 6 mg/dL for ≥ 6 months without flares and no tophi [^notfound].
-- **Adjust**: Modify ULT and reassess if flares recur or serum urate rises [^b2544b44] [^49c48f96].
+- **Adjust**: Modify ULT and reassess if flares recur or serum urate rises [^115ZP7Lo] [^112tN7tR].
 
 ---
 
-Colchicine prophylaxis is **time-limited to 3–6 months** with ULT, with continuation only if disease activity persists. Discontinuation is appropriate once serum urate is stably at target and there have been no flares for ≥ 6 months, with ongoing ULT as the cornerstone of long-term control [^d59375bb] [^10bfe735] [^e3121626].
+Colchicine prophylaxis is **time-limited to 3–6 months** with ULT, with continuation only if disease activity persists. Discontinuation is appropriate once serum urate is stably at target and there have been no flares for ≥ 6 months, with ongoing ULT as the cornerstone of long-term control [^116Tdtmx] [^111RqG5r] [^116oeGKo].
 
 ---
 
 ## References
 
-### Colchicine PO indications [^85753cc8]. FDA (2025). Medium credibility.
+### Colchicine PO indications [^114QrjT5]. FDA (2025). Medium credibility.
 
 Labeled indications
 - Treatment of familial Mediterranean fever
@@ -140,26 +140,26 @@ Off-label indications
 
 ---
 
-### Probenecid / colchicine PO indications [^03f4e082]. FDA (2025). Medium credibility.
+### Probenecid / colchicine PO indications [^1116sDS9]. FDA (2025). Medium credibility.
 
 Labeled indications
 - Treatment of gout (frequent, recurrent flares)
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^e3121626]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^116oeGKo]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — duration of ULT and outcomes with cessation: Continuing ULT indefinitely over stopping ULT is conditionally recommended, and in a single case series where ULT was withheld after years of well-controlled SU concentrations, only 13% (27 of 211) whose SU remained at < 7 mg/dl while not receiving ULT had no flares during a 5-year follow-up period.
 
 ---
 
-### The British Society for Rheumatology guideline for the management of gout [^fae70caf]. Rheumatology (2017). Medium credibility.
+### The British Society for Rheumatology guideline for the management of gout [^117QyWfG]. Rheumatology (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, BSR 2017 guidelines recommend to consider initiating colchicine 500 mcg 1–2 times daily as prophylaxis against acute attacks resulting from initiation or uptitration of any urate-lowering therapy and continue for up to 6 months.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^647133e7]. Arthritis Care & Research (2020). Medium credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^113ZunYn]. Arthritis Care & Research (2020). Medium credibility.
 
 Objective
 
@@ -179,19 +179,19 @@ Using GRADE methodology and informed by a consensus process based on evidence fr
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^d59375bb]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^116Tdtmx]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — antiinflammatory prophylaxis when starting ULT — initiating concomitant antiinflammatory prophylaxis therapy (e.g., colchicine, NSAIDs, prednisone/prednisolone) over no antiinflammatory prophylaxis is strongly recommended; the choice of specific antiinflammatory prophylaxis should be based upon patient factors; and continuing prophylaxis for 3–6 months rather than < 3 months is strongly recommended, with ongoing evaluation and continued prophylaxis as needed if the patient continues to experience flares.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^bea6ab4b]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^115sedX8]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology gout guideline — strong recommendations included initiation of urate-lowering therapy (ULT) for all patients with tophaceous gout, radiographic damage due to gout, or frequent gout flares; allopurinol as the preferred first-line ULT, including for those with moderate-to-severe chronic kidney disease (CKD; stage ≥ 3); using a low starting dose of allopurinol (≤ 100 mg/day, and lower in CKD) or febuxostat (≤ 40 mg/day); and a treat-to-target management strategy with ULT dose titration guided by serial serum urate (SU) measurements, with an SU target of < 6 mg/dl. When initiating ULT, concomitant antiinflammatory prophylaxis therapy for a duration of at least 3–6 months was strongly recommended, and for management of gout flares, colchicine, nonsteroidal antiinflammatory drugs, or glucocorticoids (oral, intraarticular, or intramuscular) were strongly recommended.
 
 ---
 
-### Management of acute and recurrent gout: a clinical practice guideline from the American College of Physicians [^cbb6c3f8]. Annals of Internal Medicine (2017). Low credibility.
+### Management of acute and recurrent gout: a clinical practice guideline from the American College of Physicians [^116D1smR]. Annals of Internal Medicine (2017). Low credibility.
 
 Description
 
@@ -223,19 +223,19 @@ ACP recommends that clinicians discuss benefits, harms, costs, and individual pr
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^947be412]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^114o8nJD]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, EULAR 2017 guidelines recommend to initiate prophylaxis with low-dose NSAIDs, if not contraindicated, in patients with contraindications to or not tolerating colchicine.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^268ef8a1]. Arthritis Care & Research (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^111zAZ1i]. Arthritis Care & Research (2020). High credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, ACR 2020 guidelines recommend to select low-dose colchicine in patients with gout when colchicine is the chosen agent.
 
 ---
 
-### Management of gout: a systematic review in support of an American College of Physicians clinical practice guideline [^5168a7c3]. Annals of Internal Medicine (2017). Low credibility.
+### Management of gout: a systematic review in support of an American College of Physicians clinical practice guideline [^1135h9gE]. Annals of Internal Medicine (2017). Low credibility.
 
 Background
 
@@ -275,19 +275,19 @@ Agency for Healthcare Research and Quality. (Protocol registration: http://effec
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^10bfe735]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^111RqG5r]. Arthritis & Rheumatology (2020). High credibility.
 
 Antiinflammatory prophylaxis during urate-lowering therapy (ULT) — Administering concomitant antiinflammatory prophylaxis therapy (e.g., colchicine, nonsteroidal antiinflammatory drugs [NSAIDs], prednisone/prednisolone) over no antiinflammatory prophylaxis therapy is strongly recommended, and continuing concomitant antiinflammatory prophylaxis therapy for 3–6 months over < 3 months, with ongoing evaluation and continued prophylaxis as needed if the patient continues to experience gout flares, is strongly recommended.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^58d2085f]. Arthritis Care & Research (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^113GgTZp]. Arthritis Care & Research (2020). High credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, ACR 2020 guidelines recommend to continue prophylaxis for 3–6 months, with ongoing evaluation and continued prophylaxis as needed if the patient with gout continues to experience flares.
 
 ---
 
-### Management of gout: update from the American college… [^458183a9]. AAFP (2021). Medium credibility.
+### Management of gout: update from the American college… [^112n3eb2]. AAFP (2021). Medium credibility.
 
 - Titrating urate-lowering therapy to reach a serum urate level of 6 mg per dL decreases flare-ups and increases treatment adherence.
 - During acute flare-ups, low-dose colchicine, NSAIDs, and glucocorticoids delivered orally, intramuscularly, or intra-articularly are similarly effective. When to Consider Urate-Lowering Therapy Urate-lowering therapy is recommended for patients with two or more gout flare-ups per year, tophaceous gout, or damage attributable to gout visible on radiography. Consider starting therapy for patients with a second flare-up even if not within one year. With a first gout flare-up, shared decision-making is appropriate in patients at high risk because of a serum urate level of 9 mg per dL or higher, urolithiasis, or stage 3 or greater chronic kidney disease. Urate-lowering therapy has not been shown to be beneficial for patients with asymptomatic hyperuricemia.
@@ -298,13 +298,13 @@ Concurrent Medications and Lifestyle Modifications Patients with hypertension an
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^5b3e28b5]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^113LGkbn]. Arthritis & Rheumatology (2020). High credibility.
 
 Timing of urate-lowering therapy (ULT) initiation — When the decision is made that ULT is indicated, starting ULT during the gout flare over starting ULT after the gout flare has resolved is conditionally recommended.
 
 ---
 
-### Gout [^0ae802d2]. BMJ Clinical Evidence (2015). Medium credibility.
+### Gout [^111HAoku]. BMJ Clinical Evidence (2015). Medium credibility.
 
 Introduction
 
@@ -324,74 +324,74 @@ In this systematic review, we present information relating to the effectiveness 
 
 ---
 
-### How would you manage this patient with gout? grand rounds discussion from beth Israel deaconess medical center [^8071efc0]. Annals of Internal Medicine (2018). Low credibility.
+### How would you manage this patient with gout? grand rounds discussion from beth Israel deaconess medical center [^114HRgjZ]. Annals of Internal Medicine (2018). Low credibility.
 
 Gout is the most common form of inflammatory arthritis. In 2012, the American College of Rheumatology (ACR) issued a guideline, which was followed in 2017 by one from the American College of Physicians (ACP). The guidelines agree on treating acute gout with a corticosteroid, nonsteroidal anti-inflammatory drug, or colchicine and on not initiating long-term urate-lowering therapy (ULT) for most patients after a first gout attack and in those whose attacks are infrequent (< 2 per year). However, they differ on treatment of both recurrent gout and problematic gout. The ACR advocates a "treat-to-target" approach, and the ACP did not find enough evidence to support this approach and offered an alternative strategy that bases intensity of ULT on the goal of avoiding recurrent gout attacks ("treat-to-avoid-symptoms") with no monitoring of urate levels. They also disagree on the role of a gout-specific diet. Here, a general internist and a rheumatologist discuss these guidelines; they debate how they would manage an acute attack of gout, if and when to initiate ULT, and the goals for ULT. Lastly, they offer specific advice for a patient who is uncertain about whether to begin this therapy.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^7e8e216f]. Arthritis Care & Research (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^114EdBSE]. Arthritis Care & Research (2020). High credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, ACR 2020 guidelines recommend to initiate concomitant anti-inflammatory prophylaxis therapy (such as colchicine, NSAIDs, prednisone/prednisolone) in patients with gout. Select the specific agent of anti-inflammatory prophylaxis based on patient factors.
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^2f3fbfbd]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^112D3qBA]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, EULAR 2017 guidelines recommend to initiate colchicine (0.5–1 mg/day, reduced in renal impairment) as first-line prophylactic treatment. Recognize the potential neurotoxicity and/or muscular toxicity with prophylactic colchicine in patients with renal impairment or on statin therapy. Avoid co-prescribing colchicine with strong P-glycoprotein and/or CYP3A4 inhibitors.
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^3d0ffebe]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^112ZXcoP]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, EULAR 2017 guidelines recommend to consider initiating IL-1 inhibitors for the treatment of flares in patients with frequent flares and contraindications to colchicine, NSAIDs and corticosteroids (oral and injectable). Do not initiate IL-1 inhibitors in patients with a current infection. Adjust urate-lowering therapy to achieve the uricemia target following an IL-1 inhibitor treatment for flare.
 
 ---
 
-### Treat-to-target (T2T) recommendations for gout [^189ffde1]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### Treat-to-target (T2T) recommendations for gout [^111dWSet]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, T2T 2017 guidelines recommend to initiate prophylaxis against attacks and continue for at least 6 months after starting urate-lowering therapy.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^a2ca3215]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^115ALujz]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout flare management — Using colchicine, NSAIDs, or glucocorticoids (oral, intraarticular, or intramuscular) as appropriate first-line therapy for gout flares over IL-1 inhibitors or adrenocorticotropic hormone (ACTH) is strongly recommended for patients experiencing a gout flare, and given similar efficacy and a lower risk of adverse effects, low-dose colchicine over high-dose colchicine is strongly recommended when colchicine is the chosen agent.
 
 ---
 
-### The British Society for Rheumatology guideline for the management of gout [^4369ae21]. Rheumatology (2017). Medium credibility.
+### The British Society for Rheumatology guideline for the management of gout [^112iwfhS]. Rheumatology (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, BSR 2017 guidelines recommend to initiate an NSAID at maximum dose or colchicine in doses of 500 mcg 2–4 times daily as first-line therapy, with the drug choice depending on patient preference, renal function and comorbidities, if not contraindicated. Coprescribe a gastroprotective agent in patients on NSAIDs or COX-2 inhibitors.
 
 ---
 
-### Treatment guidelines in gout [^07985e5e]. Rheumatic Diseases Clinics of North America (2022). Medium credibility.
+### Treatment guidelines in gout [^111CG6MT]. Rheumatic Diseases Clinics of North America (2022). Medium credibility.
 
 The range of drug treatment options to treat acute and chronic gout has changed dramatically over the last 20 years. Yet, there is general consensus that drug therapy selection, dosing and dose titration, of both traditional and novel agents is far from optimally delivered in clinical practice. Updated guidelines disseminated in the last 5 years, from the American College of Physicians, the European League Against Rheumatism, and the American College of Rheumatology, provide clear guidance to the medical community on how and when to optimally integrate these therapeutic options into practice to improve the medical management of gout.
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^0b58b93f]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^111HpfaN]. Kidney International (2025). High credibility.
 
 ADPKD — gout pharmacologic therapy and dosing: For patients starting any urate-lowering therapy (ULT), the guideline states "we strongly recommend allopurinol over all other ULT as the preferred first-line agent for all patients, including those with CKD stage ≥ 3". For allopurinol and febuxostat, it further "strongly recommend[s] starting at a low dose with subsequent dose titration to target" such as " ≤ 100 mg/d for allopurinol [and lower in patients with CKD] or ≤ 40 mg/d for febuxostat". In moderate-to-severe chronic kidney disease (CKD), people "require initiation with a low dose of allopurinol (50 mg)… and slow up titration… by 50–100 mg/d every 4 weeks". When initiating ULT, "anti-inflammatory prophylaxis for 3–6 months" is recommended with colchicine "0.6 mg/d for CKD G1–G3, 0.3 mg/d for CKD G4, and 0.3 mg twice a week for CKD G5". The American College of Rheumatology also recommends targeting "a serum uric acid level of < 6 mg/dl [< 0.36 mmol/l]", and febuxostat "starting at 40 mg/d and uptitrating to 80 mg, if needed", noting it "may be associated with a slightly higher risk of cardiovascular events".
 
 ---
 
-### Probenecid and colchicine [^7204050e]. FDA (2016). Low credibility.
+### Probenecid and colchicine [^113v2wSM]. FDA (2016). Low credibility.
 
 Regarding the use of probenecid / colchicine PO in patients with eGFR ≥ 30 mL/min/1.73 m²:
 - Consider increasing the dose for gout in 500/0.5 mg increments every 4 weeks (maximum dose of 2,000/2 mg per day) if symptoms of arthritis are not controlled or the 24-hour uric acid excretion is not > 700 mg.
 
 ---
 
-### Treating to target: a strategy to cure gout [^84e0df15]. Rheumatology (2009). Low credibility.
+### Treating to target: a strategy to cure gout [^114Pzu3i]. Rheumatology (2009). Low credibility.
 
 Acute gout attacks and the long-term complications of gout are associated with the deposition of monosodium urate (MSU) monohydrate crystals in the joints and soft tissues, causing acute and chronic inflammation. The aim of long-term treatment is to reduce the serum urate (sUA) level to 6 mg/dl (≤ 360 micromol/l), below the saturation point of MSU, so that new crystals cannot form and existing crystals are dissolved. Serial joint aspiration studies confirmed the disappearance of crystals with effective urate-lowering therapy. There is good evidence that achieving sUA < 6 mg/dl (360 micromol/l) results in freedom from acute gout attacks, and shrinkage and eventual disappearance of tophi. Gout patients must be informed about their diagnosis and educated about gout management including the importance of compliance with long-term treatment. Patients starting urate-lowering therapy need to understand the importance of prophylactic therapy with colchicine or NSAIDs to reduce the risk of 'mobilization flares' in the first few months. In the long term, reduction in the sUA below the target level will result in gout being effectively cured.
 
 ---
 
-### Effect of prophylaxis on gout flares after the initiation of urate-lowering therapy: analysis of data from three phase III trials [^a2afff65]. Clinical Therapeutics (2010). Low credibility.
+### Effect of prophylaxis on gout flares after the initiation of urate-lowering therapy: analysis of data from three phase III trials [^115AC7N4]. Clinical Therapeutics (2010). Low credibility.
 
 Background
 
@@ -415,7 +415,7 @@ This analysis of gout flare data from the 3 Phase III trials of febuxostat found
 
 ---
 
-### Perspective of Dutch patients with gout on continuation or discontinuation of urate-lowering therapy during remission: a mixed-methods study [^da92edfd]. Arthritis Care & Research (2024). Medium credibility.
+### Perspective of Dutch patients with gout on continuation or discontinuation of urate-lowering therapy during remission: a mixed-methods study [^116b3erY]. Arthritis Care & Research (2024). Medium credibility.
 
 Objective
 
@@ -435,7 +435,7 @@ These results can aid shared decision-making and provide input for what is impor
 
 ---
 
-### Management of gout in chronic kidney disease: a G-CAN consensus statement on the research priorities [^87471a25]. Nature Reviews: Rheumatology (2021). High credibility.
+### Management of gout in chronic kidney disease: a G-CAN consensus statement on the research priorities [^114TZDE4]. Nature Reviews: Rheumatology (2021). High credibility.
 
 Drugs used for flares and prophylaxis
 
@@ -492,13 +492,13 @@ G-CAN, Gout, Hyperuricemia and Crystal-Associated Disease Network. a The AGREE t
 
 ---
 
-### The British Society for Rheumatology guideline for the management of gout [^be398c38]. Rheumatology (2017). Medium credibility.
+### The British Society for Rheumatology guideline for the management of gout [^115s1yfV]. Rheumatology (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to anti-inflammatory therapy, BSR 2017 guidelines recommend to consider initiating a low-dose NSAID or COX-2 inhibitor (with gastroprotection), if not contraindicated, as an alternative in patients not tolerating colchicine.
 
 ---
 
-### EULAR evidence based recommendations for gout. part II: management. report of a task force of the EULAR standing committee for international clinical studies including therapeutics (ESCISIT) [^25f55c58]. Annals of the Rheumatic Diseases (2006). Low credibility.
+### EULAR evidence based recommendations for gout. part II: management. report of a task force of the EULAR standing committee for international clinical studies including therapeutics (ESCISIT) [^111yGxST]. Annals of the Rheumatic Diseases (2006). Low credibility.
 
 Objective
 
@@ -518,37 +518,37 @@ Conclusions
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^8495cb16]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114PZgQd]. Kidney International (2024). High credibility.
 
 Regarding medical management for chronic kidney disease, more specifically with respect to uric acid-lowering agents, KDIGO 2024 guidelines recommend to prefer low-dose colchicine or intra-articular/oral corticosteroids over NSAIDs for symptomatic management of acute gout in patients with CKD.
 
 ---
 
-### KDOQI US commentary on the KDIGO 2024 clinical practice guideline for the evaluation and management of CKD [^aeabc10e]. American Journal of Kidney Diseases (2025). High credibility.
+### KDOQI US commentary on the KDIGO 2024 clinical practice guideline for the evaluation and management of CKD [^115TxY5K]. American Journal of Kidney Diseases (2025). High credibility.
 
 KDIGO 2024 CKD — hyperuricemia recommendations and practice points state that "We recommend people with CKD and symptomatic hyperuricemia should be offered uric acid–lowering intervention (1C)". Practice Point 3.14.1 advises to "Consider initiating urate acid-lowering therapy for people with CKD after their first episode of gout… serum uric acid concentration is > 9 mg/dl [535 μmol/l])". Practice Point 3.14.2 directs to "Prefer xanthine oxidase inhibitors in preference to uricosuric agents in people with CKD and symptomatic hyperuricemia". Practice Point 3.14.3 notes that "low-dose colchicine or intra-articular/oral glucocorticoids are preferable to nonsteroidal anti-inflammatory drugs (NSAIDs)", and Practice Point 3.14.4 adds that "Nonpharmacological interventions… include limiting alcohol, meats, and high-fructose corn syrup intake". Additionally, "We suggest not using agents to lower serum uric acid in people with CKD and asymptomatic hyperuricemia to delay CKD progression (2D)".
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^4f057803]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^11329roc]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — starting ULT during an acute flare — when the decision is made that ULT is indicated while the patient is experiencing a gout flare, starting ULT during the gout flare over starting ULT after the gout flare has resolved is conditionally recommended.
 
 ---
 
-### Updates in the management of gout [^b56ff43f]. The American Journal of Medicine (2007). Low credibility.
+### Updates in the management of gout [^115dzN3p]. The American Journal of Medicine (2007). Low credibility.
 
 The majority of patients with gout are cared for by primary care physicians. Although both the physician and patient may easily recognize the acute arthritis of gout, errors in selecting the most appropriate medication and proper dose are common. The clinical stages of gout include asymptomatic hyperuricemia, intermittent gouty arthritis, and chronic tophaceous gout. Treatment of gout is usually considered after the first attack of arthritis, typically podagra. The aims of treatment are to alleviate the pain and inflammation associated with acute attacks, prevent future attacks, and decrease uric acid levels. Confusion frequently arises because certain medications such as colchicine may have dual purposes: to treat an acute attack and to suppress future attacks. The purpose of this management update is to provide practical advice about prescribing the proper medication considering both treatment goals and patient comorbidities.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^6239eda6]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^113WdF9o]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology 2020 gout guideline — urate-lowering therapy (ULT) titration, monitoring, and flare prophylaxis — states that ULT titration should occur over weeks to months and cites prior guidance to titrate every 2–5 weeks, with serum urate (SU) checked after each dose titration; to limit ULT-related flares, it reinforces using concurrent antiinflammatory prophylaxis for 3–6 months' duration, which should be extended in the setting of frequent ongoing flares.
 
 ---
 
-### Evolution of management of gout: a comparison of recent guidelines [^815e9aaa]. Current Opinion in Rheumatology (2015). Low credibility.
+### Evolution of management of gout: a comparison of recent guidelines [^114JoBPf]. Current Opinion in Rheumatology (2015). Low credibility.
 
 Purpose Of Review
 
@@ -564,25 +564,25 @@ Most guidelines are in agreement with recommendations for management of gout and
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^38ac58f7]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112T2CP8]. Kidney International (2024). High credibility.
 
 Hyperuricemia management in chronic kidney disease (CKD) — We recommend people with CKD and symptomatic hyperuricemia should be offered uric acid–lowering intervention (1C). Consider initiating uric acid–lowering therapy for people with CKD after their first episode of gout particularly where there is no avoidable precipitant or serum uric acid concentration is > 9 mg/dl [535 μmol/l]. Prescribe xanthine oxidase inhibitors in preference to uricosuric agents in people with CKD and symptomatic hyperuricemia. For symptomatic treatment of acute gout in CKD, low-dose colchicine or intra-articular/oral glucocorticoids are preferable to nonsteroidal anti-inflammatory drugs (NSAIDs). Nonpharmacological interventions which may help prevent gout include limiting alcohol, meats, and high-fructose corn syrup intake. We suggest not using agents to lower serum uric acid in people with CKD and asymptomatic hyperuricemia to delay CKD progression (2D).
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^893983d0]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^114WSd67]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, EULAR 2017 guidelines recommend to avoid using colchicine and NSAIDs in patients with severe renal impairment. Do not use colchicine in patients receiving strong P-glycoprotein and/or CYP3A4 inhibitors, such as cyclosporin or clarithromycin.
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^53f529f0]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^1139UKZq]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to management of acute flares, EULAR 2017 guidelines recommend to initiate colchicine (within 12 hours of flare onset) at a loading dose of 1 mg followed 1 hour later by 0.5 mg on day 1 and/or an NSAID (plus PPIs if appropriate), oral corticosteroid (30–35 mg/day of equivalent prednisolone for 3–5 days) or performing articular aspiration and administering intra-articular corticosteroids as first-line options for the management of acute flares.
 
 ---
 
-### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^10533441]. Arthritis Care & Research (2025). Medium credibility.
+### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^111RCkTS]. Arthritis Care & Research (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -598,19 +598,19 @@ Impaired kidney function, which is common in people with gout, is reported to be
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^44adb76c]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^112kpWS7]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology gout flare management — For patients experiencing a gout flare, the guideline states "we strongly recommend using oral colchicine, NSAIDs, or glucocorticoids (oral, intramuscular, or intraarticular) as appropriate first-line therapy for gout flares over IL-1 inhibitors or ACTH", and "when colchicine is the chosen agent, we strongly recommend low-dose colchicine over high-dose colchicine given its similar efficacy and fewer adverse effects". For patients who are unable to take oral medications, "we strongly recommend glucocorticoids (intramuscular, intravenous, or intraarticular) over IL-1 inhibitors or ACTH". If other antiinflammatory therapies are poorly tolerated or contraindicated, "we conditionally recommend using IL-1 inhibition over no therapy (beyond supportive/analgesic treatment)". As adjunctive care for a flare, "we conditionally recommend using topical ice as an adjuvant treatment over no adjuvant treatment". For colchicine dosing during flares, the guideline notes "the FDA-approved dosing should be followed (1.2 mg immediately followed by 0.6 mg an hour later, with ongoing antiinflammatory therapy until the flare resolves)".
 
 ---
 
-### 2016 updated EULAR evidence-based recommendations for the management of gout [^7f996b19]. Annals of the Rheumatic Diseases (2017). Medium credibility.
+### 2016 updated EULAR evidence-based recommendations for the management of gout [^114GAxcx]. Annals of the Rheumatic Diseases (2017). Medium credibility.
 
 Regarding medical management for gout, more specifically with respect to indications for urate-lowering therapy, EULAR 2017 guidelines recommend to discuss and consider initiating urate-lowering therapy in the first presentation of all patients with a definite diagnosis of gout.
 
 ---
 
-### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^7649a7a0]. Arthritis Care & Research (2025). Medium credibility.
+### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^1142NHAX]. Arthritis Care & Research (2025). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -622,7 +622,7 @@ Participants were seen in person every three months by study coordinators, with 
 
 ---
 
-### Allopurinol [^757142af]. FDA (2025). Medium credibility.
+### Allopurinol [^11417bTt]. FDA (2025). Medium credibility.
 
 2.1 Recommended Testing Prior to Treatment Initiation
 
@@ -634,7 +634,7 @@ Gout flares may occur after initiation of allopurinol tablets due to changing se
 
 ---
 
-### Failure to reach uric acid target of… [^377e60c1]. RMD Open (2019). Medium credibility.
+### Failure to reach uric acid target of… [^112RGmYL]. RMD Open (2019). Medium credibility.
 
 Variability in the number of sUA determinations during the first year, as well as their timing before or after 12 months after up-titrating treatment could have some effect on mortality. In order to avoid this limitation, all patients in the cohort had a minimum of three urate (UA) levels during the first year (3, 6 and 12 months). Besides, in the majority of patients, follow-up sUA levels were obtained after ULT had worked (84% had a follow-up time longer than 12 months).
 
@@ -642,13 +642,13 @@ The impact of ULT on CV events is controversial, with studies showing allopurino
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^8a7b5f11]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^114YJjMi]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology gout guideline — outcome prioritization and follow-up windows: Gout flare was specified as the only critical outcome for management of lifestyle factors, and based on Patient Panel input, longer-term outcomes (e.g., 24 months) were critical, shorter durations (e.g., ≤ 12 months) were important, and very short time points (e.g., < 6 months) may reflect expected flares during urate-lowering therapy (ULT) initiation.
 
 ---
 
-### Allopurinol [^cc93d1f4]. FDA (2025). Medium credibility.
+### Allopurinol [^116EJ8Fu]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -666,13 +666,13 @@ Inform patients that gout flares may occur during initiation of treatment with a
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^aba0e820]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^115PSvuV]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — asymptomatic hyperuricemia and ULT initiation — initiating urate-lowering therapy (ULT) is conditionally recommended against in patients with asymptomatic hyperuricemia; randomized controlled trials reported low incident gout in both arms over 3 years (< 1% versus 5%), with an estimated 24 patients needing ULT for 3 years to prevent a single incident gout flare, and observational data indicate that among patients with serum urate (SU) concentrations of > 9 mg/dl only 20% developed gout within 5 years.
 
 ---
 
-### Probenecid and colchicine [^32ea8973]. FDA (2023). Medium credibility.
+### Probenecid and colchicine [^112JVAEn]. FDA (2023). Medium credibility.
 
 DOSAGE & ADMINISTRATION
 
@@ -692,13 +692,13 @@ Probenecid and colchicine (or probenecid) should be continued at the dosage that
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^c9b7306e]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^116A43TT]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology 2020 gout guideline — indications for urate-lowering therapy (ULT) — expands indications to include individuals with evidence of radiographic damage attributable to gout as a strong recommendation and adds conditional recommendations for ULT use in patients with either infrequent flares (< 2 flares/year) or a first flare with marked hyperuricemia (SU > 9 mg/dl).
 
 ---
 
-### Relationship between gout flare States and patient-reported outcomes after allopurinol initiation [^cd19fad8]. Arthritis Care & Research (2025). Medium credibility.
+### Relationship between gout flare States and patient-reported outcomes after allopurinol initiation [^116F5Bu9]. Arthritis Care & Research (2025). Medium credibility.
 
 It is important to note that the study population was 93% male. Although this reflects a typical gout trial population, women often experience higher disease severity, have more negative illness perceptions, and experience higher impact on daily activities. Although the number of women in our study were too small to enable analysis by gender, we would expect the observed effects to be even more pronounced in women.
 
@@ -710,13 +710,13 @@ The majority of people (57%) were able to achieve PASS or LDA in the second six 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^5171daf1]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1135kEuW]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD — Practice Point 3.14.1 on initiating uric acid–lowering therapy after a first gout episode — Consider initiating uric acid–lowering therapy for people with chronic kidney disease (CKD) after their first episode of gout, particularly if there is no avoidable precipitant or the serum uric acid concentration is > 9 mg/dl [535 μmol/l], with suggested initiation in CKD G3–G5 or with uricolithiasis at the first episode; counsel that there is an increased risk of a gout flare during the first 3 months after initiation, starting during a gout flare does not appear to extend flare duration, and once initiated, therapy is suggested to continue indefinitely by the American College of Rheumatology.
 
 ---
 
-### Development of a patient decision aid for the initiation of urate-lowering therapy in gout patients [^79d58c58]. RMD Open (2022). Medium credibility.
+### Development of a patient decision aid for the initiation of urate-lowering therapy in gout patients [^1147dEMV]. RMD Open (2022). Medium credibility.
 
 Patient needs for information on ULT attributes
 
@@ -739,13 +739,13 @@ When comparing the rank order of attributes between patients and rheumatologist,
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^a3f9b726]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^115C6rnR]. Arthritis & Rheumatology (2020). High credibility.
 
 ACR gout management — strong indications to start pharmacologic urate-lowering therapy (ULT) are present with ≥ 1 subcutaneous tophi, evidence of radiographic damage (any modality) attributable to gout, or frequent gout flares defined as ≥ 2 annually; initiating ULT is strongly recommended in these scenarios.
 
 ---
 
-### Colchicine (Colcrys) [^9e694958]. FDA (2025). Medium credibility.
+### Colchicine (Colcrys) [^1153rQfy]. FDA (2025). Medium credibility.
 
 Regarding the use of colchicine PO (also known as Colcrys, Lodoco, Mitigare, Gloperba) in patients with any modality:
 
@@ -754,7 +754,7 @@ Regarding the use of colchicine PO (also known as Colcrys, Lodoco, Mitigare, Glo
 
 ---
 
-### Comparative risk of gout flares when initiating or escalating various urate-lowering therapy: a systematic review with network meta-analysis [^f96c1caf]. Arthritis Care & Research (2024). Medium credibility.
+### Comparative risk of gout flares when initiating or escalating various urate-lowering therapy: a systematic review with network meta-analysis [^117NnEN2]. Arthritis Care & Research (2024). Medium credibility.
 
 Objective
 
@@ -774,7 +774,7 @@ The RR of flares when introducing ULT varies depending on ULT drug and dosing st
 
 ---
 
-### Spontaneous resolution of acute gout: mechanisms and therapeutic targets [^589bebfa]. RMD Open (2023). Medium credibility.
+### Spontaneous resolution of acute gout: mechanisms and therapeutic targets [^113GNHQD]. RMD Open (2023). Medium credibility.
 
 Conclusion
 
@@ -782,7 +782,7 @@ At present, the number of patients with refractory gout is continuing to increas
 
 ---
 
-### Colchicine for acute gout [^5138ace2]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Colchicine for acute gout [^1135R2x9]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -814,7 +814,7 @@ Based upon only two published trials, there is low-quality evidence that low-dos
 
 ---
 
-### Colchicine: the good, the bad, the ugly and how to minimize the risks [^fa27c448]. Rheumatology (2024). Medium credibility.
+### Colchicine: the good, the bad, the ugly and how to minimize the risks [^117PsGAs]. Rheumatology (2024). Medium credibility.
 
 Clinical uses of colchicine and dosing
 
@@ -832,7 +832,7 @@ The adverse effects of low-dose colchicine are also well known. The most common 
 
 ---
 
-### Evaluating appropriate use of prophylactic colchicine for gout flare prevention [^cffa0448]. Arthritis Care & Research (2014). Low credibility.
+### Evaluating appropriate use of prophylactic colchicine for gout flare prevention [^116KLR43]. Arthritis Care & Research (2014). Low credibility.
 
 Objective
 
@@ -852,7 +852,7 @@ We found a high prevalence of what we considered inappropriate prophylactic colc
 
 ---
 
-### Management of gout in chronic kidney disease: a G-CAN consensus statement on the research priorities [^93938647]. Nature Reviews: Rheumatology (2021). High credibility.
+### Management of gout in chronic kidney disease: a G-CAN consensus statement on the research priorities [^114mnjSE]. Nature Reviews: Rheumatology (2021). High credibility.
 
 Drugs used for flare prophylaxis
 
@@ -860,7 +860,7 @@ Although the medications used for flare prophylaxis are the same as those used t
 
 ---
 
-### Gout, hyperuricaemia and crystal-associated disease network (G-CAN) common language definition of gout [^7043fabc]. RMD Open (2021). Medium credibility.
+### Gout, hyperuricaemia and crystal-associated disease network (G-CAN) common language definition of gout [^113sSSuh]. RMD Open (2021). Medium credibility.
 
 Management
 
@@ -872,7 +872,7 @@ A treat-to-target serum urate approach is recommended by the ACR guidelinesand E
 
 ---
 
-### Analysis of gout remission definitions in a randomized controlled trial of colchicine prophylaxis for people with gout initiating allopurinol [^f392c965]. The Journal of Rheumatology (2024). Medium credibility.
+### Analysis of gout remission definitions in a randomized controlled trial of colchicine prophylaxis for people with gout initiating allopurinol [^117E7J7e]. The Journal of Rheumatology (2024). Medium credibility.
 
 Objective
 
@@ -892,31 +892,31 @@ Using either definition, 6 months of colchicine prophylaxis when initiating ULT 
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^8af18ccb]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^114YzRfQ]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology 2020 gout guideline — serum urate (SU) targets and thresholds — clarifies that the guideline does not specify SU thresholds beyond < 6 mg/dl for severe disease subsets, acknowledges evidence linking lower SU with improved outcomes but notes there are no trial data to support lower specific thresholds, and identifies a research need regarding the safety of prolonged hypouricemia at SU ≤ 3 mg/dl.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^239532e4]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^111ukgVR]. Kidney International (2024). High credibility.
 
 Hyperuricemia in CKD — Recommendation 3.14.1 states, "We recommend people with CKD and symptomatic hyperuricemia should be offered uric acid–lowering intervention (1C)". Practice Point 3.14.1 says to consider initiating uric acid–lowering therapy for people with CKD after their first episode of gout, particularly where there is no avoidable precipitator or serum uric acid concentration is > 9 mg/dl [535 μmol/l]. Practice Point 3.14.2 states to prescribe xanthine oxidase inhibitors in preference to uricosuric agents in people with CKD and symptomatic hyperuricemia. Practice Point 3.14.3 states that for symptomatic treatment of acute gout in CKD, low-dose colchicine or intra-articular/oral glucocorticoids are preferable to nonsteroidal anti-inflammatory drugs (NSAIDs). Practice Point 3.14.4 notes that nonpharmacological interventions which may help prevent gout include limiting alcohol, meats, and high-fructose corn syrup intake. Recommendation 3.14.2 states, "We suggest not using agents to lower serum uric acid in people with CKD and asymptomatic hyperuricemia to delay CKD progression (2D)".
 
 ---
 
-### An update on the management of gout [^98645b9a]. Drug and Therapeutics Bulletin (2018). Low credibility.
+### An update on the management of gout [^114tvpxq]. Drug and Therapeutics Bulletin (2018). Low credibility.
 
 Gout is the most common form of inflammatory arthritis and its incidence in the UK has steadily increased from 1.5% in 1997 to 2.5% in 2012. 1,2 It is characterised by deposition of monosodium urate crystals in joints and tissues and usually presents with intermittent painful attacks followed by long periods of remission. 3 It has been suggested that the management of gout in the UK remains suboptimal. 1 In 2004, we concluded that there was a woeful lack of evidence to guide treatment or prophylaxis for gout, particularly with regard to choice of drug or doses. 4 The introduction of new drugs and new evidence on the efficacy and safety of treatment options has led the European League Against Rheumatism (EULAR) and the British Society of Rheumatology (BSR) to update their guidelines on the management of gout. 2,5 Nevertheless, there are differing views on target serum uric acid (SUA) levels and the role of urate lowering treatment (ULT). 2,5–7 Here, we review the latest guidance on the management of gout and consider the role of long-term ULT.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^b2544b44]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^115ZP7Lo]. Arthritis & Rheumatology (2020). High credibility.
 
 Treat-to-target urate-lowering therapy (ULT) — For patients receiving ULT, a treat-to-target management strategy that includes ULT dose titration and serial serum urate (SU) measurements to achieve a target SU, over a fixed-dose ULT strategy, is strongly recommended for all patients receiving ULT; achieving and maintaining an SU target of < 6 mg/dl over the use of no target is strongly recommended for all patients receiving ULT, and ULT titration should occur over a reasonable time frame (e.g., weeks to months, not years).
 
 ---
 
-### Colchicine (Colcrys) [^35c64fbf]. FDA (2025). Medium credibility.
+### Colchicine (Colcrys) [^112NixMc]. FDA (2025). Medium credibility.
 
 Regarding the use of colchicine PO (also known as Colcrys, Lodoco, Mitigare, Gloperba) in patients with chronic liver disease, Child-Pugh C (severe):
 - Reduce dose.
@@ -925,13 +925,13 @@ Regarding the use of colchicine PO (also known as Colcrys, Lodoco, Mitigare, Glo
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^29230ad4]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^1123zGEX]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology gout guideline — management of concurrent medications states: Switching hydrochlorothiazide to an alternate antihypertensive when feasible is conditionally recommended for patients with gout, regardless of disease activity. Choosing losartan preferentially as an antihypertensive agent when feasible is conditionally recommended for patients with gout, regardless of disease activity. Stopping low-dose aspirin (for patients who are taking this medication for appropriate indications) is conditionally recommended against for patients with gout, regardless of disease activity. Adding or switching cholesterol-lowering agents to fenofibrate is conditionally recommended against for patients with gout, regardless of disease activity. Switching, stopping, or adding a medication should only be considered when the potential SU concentration/gout benefits exceed the potential risks or harms of the medication change. Recognizing that there are few practical alternatives to low-dose aspirin, the Voting Panel specifically recommended against its cessation as a means of SU reduction when a patient is taking it for an appropriate indication.
 
 ---
 
-### Limitations of the current standards of care for treating gout and crystal deposition in the primary care setting: a review [^3de76f6c]. Clinical Therapeutics (2017). Low credibility.
+### Limitations of the current standards of care for treating gout and crystal deposition in the primary care setting: a review [^112amyuu]. Clinical Therapeutics (2017). Low credibility.
 
 Purpose
 
@@ -951,13 +951,13 @@ Patients need to be educated about their diagnosis and management of the disease
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^062ed15f]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^111AAen2]. Kidney International (2024). High credibility.
 
 Practice Point 3.14.1 — Uric acid–lowering therapy initiation after first gout in CKD: Consider initiating uric acid–lowering therapy after the first episode of gout in people with chronic kidney disease (CKD), particularly when there is no avoidable precipitant or serum uric acid concentration is > 9 mg/dl [535 μmol/l]. Uric acid–lowering therapy use was suggested to be initiated in people with CKD G3–G5, serum uric acid concentration > 9 mg/dl (> 535 μmol/l), or urolithiasis at the time of their first episode of gout. The ERT evidence review identified that uric acid–lowering therapy results in an increased risk of a gout flare during the first 3 months after initiation in people with CKD; this is an expected short-term risk of uric acid lowering that people should be counseled about when initiating such therapy. Two relatively small randomized trials have suggested that starting uric acid–lowering therapy during a gout flare does not appear to extend flare duration, and once initiated, the American College of Rheumatology suggests continuing uric acid–lowering therapy indefinitely.
 
 ---
 
-### Treatment of chronic gout. can we determine when urate stores are depleted enough to prevent attacks of gout? [^5c118806]. The Journal of Rheumatology (2001). Low credibility.
+### Treatment of chronic gout. can we determine when urate stores are depleted enough to prevent attacks of gout? [^113MVkTw]. The Journal of Rheumatology (2001). Low credibility.
 
 Objective
 
@@ -977,25 +977,25 @@ A majority of patients were able to deplete urate crystal stores in their knee j
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^33fcefdb]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^112L5Kyt]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — urate-lowering therapy (ULT) treat-to-target strategy and serum urate goal: For all patients taking ULT, we strongly recommend a treat-to-target strategy of ULT dose management that includes dose titration and subsequent dosing guided by serial serum urate (SU) values to achieve an SU target over a fixed, standard-dose ULT strategy, and we strongly recommend continuing ULT to achieve and maintain an SU target of < 6 mg/dl.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^3603e5c5]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^112P5e9a]. Arthritis & Rheumatology (2020). High credibility.
 
 ACR gout — patients with prior flares but infrequent activity: initiating ULT is conditionally recommended for patients who have previously experienced > 1 flare but have infrequent flares (< 2/year).
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^49c48f96]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^112tN7tR]. Arthritis & Rheumatology (2020). High credibility.
 
 American College of Rheumatology gout guideline — When to change urate‑lowering therapy (ULT) strategy: switching to a second xanthine oxidase inhibitor (XOI) or adding a uricosuric agent is conditionally recommended for patients taking their first XOI who have persistently high serum urate (SU) concentrations (> 6 mg/dl) despite maximum‑tolerated or FDA‑indicated XOI dose and who have continued frequent gout flares (≥ 2 flares/year) or have nonresolving subcutaneous tophi.
 
 ---
 
-### Febuxostat tablets 40 mg (febuxostat) [^a2c6b00a]. FDA (2023). Medium credibility.
+### Febuxostat tablets 40 mg (febuxostat) [^115AKjQD]. FDA (2023). Medium credibility.
 
 5.1 Cardiovascular Death
 
@@ -1013,7 +1013,7 @@ In order to prevent gout flares when febuxostat is initiated, concurrent prophyl
 
 ---
 
-### Cost-effectiveness of low dose colchicine prophylaxis when starting allopurinol using the "start-low go-slow" approach for gout: evidence from a non-inferiority randomised double-blind placebo-controlled trial [^4023bbc2]. Arthritis Care & Research (2025). Medium credibility.
+### Cost-effectiveness of low dose colchicine prophylaxis when starting allopurinol using the "start-low go-slow" approach for gout: evidence from a non-inferiority randomised double-blind placebo-controlled trial [^112e6DBP]. Arthritis Care & Research (2025). Medium credibility.
 
 Objective
 
@@ -1033,7 +1033,7 @@ Six months of low-dose colchicine prophylaxis when starting allopurinol using th
 
 ---
 
-### Cost-effectiveness of colchicine prophylaxis for gout flares when commencing allopurinol [^36c1ccff]. Arthritis Care & Research (2021). Medium credibility.
+### Cost-effectiveness of colchicine prophylaxis for gout flares when commencing allopurinol [^112QBRm8]. Arthritis Care & Research (2021). Medium credibility.
 
 Objective
 
@@ -1053,13 +1053,13 @@ Colchicine prophylaxis to prevent gout flares while commencing allopurinol in go
 
 ---
 
-### New ACR guidelines for gout management hold some surprises [^8d64ce31]. Nature Reviews: Rheumatology (2013). Medium credibility.
+### New ACR guidelines for gout management hold some surprises [^114cd7ap]. Nature Reviews: Rheumatology (2013). Medium credibility.
 
 Despite exciting progress in the understanding and treatment of gout, management of this condition remains suboptimal. In the face of this inadequacy, new guidelines provide recommendations both for therapeutic approaches to hyperuricaemia and for the management and anti-inflammatory prophylaxis of acute gouty arthritis.
 
 ---
 
-### Non-adherence to urate lowering therapy in gout after 5 years is related to poor outcomes: results from the NOR-gout study [^2217bc76]. Rheumatology (2025). Medium credibility.
+### Non-adherence to urate lowering therapy in gout after 5 years is related to poor outcomes: results from the NOR-gout study [^111sYYzy]. Rheumatology (2025). Medium credibility.
 
 Methods
 
@@ -1069,7 +1069,7 @@ This study reports on patients completing a 5-year follow-up examination in the 
 
 ---
 
-### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^81b4cdd4]. Rheumatology (2025). Medium credibility.
+### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^114KJ8hZ]. Rheumatology (2025). Medium credibility.
 
 Conclusion
 
@@ -1079,7 +1079,7 @@ Future research is needed to determine which patients are at greatest risk of ad
 
 ---
 
-### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^6bab3320]. Rheumatology (2025). Medium credibility.
+### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^113kdBPm]. Rheumatology (2025). Medium credibility.
 
 Rheumatology key messages
 Colchicine prophylaxis was commonly prescribed in people already taking medications with potential to interact with colchicine.
@@ -1088,7 +1088,7 @@ Overall statin use was not associated with adverse events.
 
 ---
 
-### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^247bb94e]. Arthritis Care & Research (2025). Medium credibility.
+### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^111w67Uq]. Arthritis Care & Research (2025). Medium credibility.
 
 DISCUSSION
 
@@ -1098,13 +1098,13 @@ From a clinical perspective TDM is likely to be more useful when colchicine is b
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^9e9d913f]. Arthritis Care & Research (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^11549yBk]. Arthritis Care & Research (2020). High credibility.
 
 Regarding medical management for gout, more specifically with respect to uricosuric therapy, ACR 2020 guidelines recommend to consider starting probenecid at a low dose (500 mg once or BID) with dose titration in patients with gout.
 
 ---
 
-### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^a39ac2f6]. Rheumatology (2025). Medium credibility.
+### Prognostic factors for colchicine prophylaxis-related adverse events when initiating allopurinol for gout: retrospective cohort study [^115BYxw7]. Rheumatology (2025). Medium credibility.
 
 Introduction
 
@@ -1118,13 +1118,13 @@ In this study, we aimed to assess to what degree co-prescriptions and other pote
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^4e9e571a]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^1131ZDhT]. Arthritis & Rheumatology (2020). High credibility.
 
 Methods — ACR guideline development used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology to rate the certainty of evidence and strength of recommendations. The Core Team, Expert Panel, and Voting Panel generated 57 population, intervention, comparator, and outcomes (PICO) questions covering indications for ULT (5 questions), approaches to initiating ULT (7 questions), ongoing management (18 questions), gout flares (10 questions), and lifestyle and other medication strategies in patients with gout (9 questions) and in individuals with asymptomatic hyperuricemia (8 questions), which were posted for public comment (October 30–November 30, 2018). An in-person Patient Panel of 8 male patients with gout reviewed the evidence report and discussed the desirable and undesirable outcomes for decision making; then prespecified outcomes were obtained for each PICO question from a systematic literature review, and both patient-identified outcomes and serum urate (SU) concentration (and tophus for PICO question 1) were specified as critical outcomes for all PICO questions specific to ULT.
 
 ---
 
-### Probenecid [^64c98991]. FDA (2025). Medium credibility.
+### Probenecid [^113aRTSp]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -1142,7 +1142,7 @@ As uric acid tends to crystallize out of an acid urine, a liberal fluid intake i
 
 ---
 
-### Febuxostat [^27cf64fa]. FDA (2025). Medium credibility.
+### Febuxostat [^11222BMs]. FDA (2025). Medium credibility.
 
 5.1 Cardiovascular Death
 
@@ -1160,7 +1160,7 @@ In order to prevent gout flares when febuxostat is initiated, concurrent prophyl
 
 ---
 
-### Predicting gout flares in people starting allopurinol using the start-low Go-slow dose escalation strategy [^f89f9331]. Arthritis Care & Research (2024). Medium credibility.
+### Predicting gout flares in people starting allopurinol using the start-low Go-slow dose escalation strategy [^117MbXfE]. Arthritis Care & Research (2024). Medium credibility.
 
 Objective
 
@@ -1180,19 +1180,19 @@ Anti-inflammatory prophylaxis when starting allopurinol using the "start-low go-
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^345f2cd5]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^112LeKpG]. Arthritis & Rheumatology (2020). High credibility.
 
 Gout — allopurinol starting dose: Starting allopurinol in daily doses of ≤ 100 mg (and lower doses in patients with chronic kidney disease [CKD]) is strongly recommended over starting at a higher dose.
 
 ---
 
-### 2020 American College of Rheumatology guideline for the management of gout [^a260077c]. Arthritis & Rheumatology (2020). High credibility.
+### 2020 American College of Rheumatology guideline for the management of gout [^1159jFTH]. Arthritis & Rheumatology (2020). High credibility.
 
 ACR gout — patients with ≤ 2 previous flares and no more than 1 flare in the preceding year randomized to febuxostat were less likely to experience a subsequent flare (30% versus 41%; P < 0.05) compared with placebo.
 
 ---
 
-### Probenecid and colchicine [^fb515c0f]. FDA (2023). Medium credibility.
+### Probenecid and colchicine [^117RbDkJ]. FDA (2023). Medium credibility.
 
 INDICATIONS & USAGE
 
@@ -1200,13 +1200,13 @@ For the treatment of chronic gouty arthritis when complicated by frequent, recur
 
 ---
 
-### Prophylaxis for acute gout flares after initiation of urate-lowering therapy [^60cff61c]. Rheumatology (2014). Low credibility.
+### Prophylaxis for acute gout flares after initiation of urate-lowering therapy [^113UXfU7]. Rheumatology (2014). Low credibility.
 
 This review summarizes evidence relating to prophylaxis for gout flares after the initiation of urate-lowering therapy (ULT). We searched MEDLINE via PubMed for articles published in English from 1963 to 2013 using MEsH terms covering all aspects of prophylaxis for flares. Dispersion of monosodium urate crystals during the initial phase of deposit dissolution with ULT exposes the patient to an increased rate of acute flares that could contribute to poor treatment adherence. Slow titration of ULT might decrease the risk of flares. According to the most recent international recommendation, the two first-line options for prophylaxis are low-dose colchicine (0.5 mg once or twice a day) or low-dose NSAIDs such as naproxen 250 mg orally twice a day. They can be given for up to 6 months. If these drugs are contraindicated, not tolerated or ineffective, low-dose corticosteroids (prednisone or prednisolone) might be used. Recently, reports for four trials described the efficacy of canakinumab and rilonacept, two IL-1 inhibitors, for preventing flares during the initiation of allopurinol therapy. Prophylaxis for flares induced by ULT is an important consideration in gout management. Low-dose colchicine and low-dose NSAIDs are the recommended first-line therapies. Although no IL-1 blockers are approved as prophylactic treatment, this class of drug could become an interesting option for patients with gout with intolerance or contraindication to colchicine, NSAIDs or corticosteroids.
 
 ---
 
-### Allopurinol for chronic gout [^eb86b515]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Allopurinol for chronic gout [^1172BLY4]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -1238,7 +1238,7 @@ Our review found low- to moderate-quality evidence indicating similar effects on
 
 ---
 
-### Probenecid and colchicine [^14383c48]. FDA (2016). Low credibility.
+### Probenecid and colchicine [^111WyeC7]. FDA (2016). Low credibility.
 
 Labeled indications for Probenecid / colchicine include:
 
@@ -1246,7 +1246,7 @@ Labeled indications for Probenecid / colchicine include:
 
 ---
 
-### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^3314142c]. Arthritis Care & Research (2025). Medium credibility.
+### Colchicine concentrations and relationship with colchicine efficacy and adverse events: post hoc analysis of a randomized clinical trial of colchicine for gout flare prophylaxis [^112Jj7YF]. Arthritis Care & Research (2025). Medium credibility.
 
 RESULTS
 

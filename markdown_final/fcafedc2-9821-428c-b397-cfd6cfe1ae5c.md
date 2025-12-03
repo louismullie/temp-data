@@ -15,27 +15,27 @@ Allowable mme state of Florida
 
 > Let's see… What do we have here? The user is asking about the "allowable MME" in the state of Florida and how to interpret prescribing limits and thresholds. Let's break this down step-by-step. First, I need to think about whether Florida law sets a hard MME cap or only duration limits. Then, I should verify what the CDC 2022 guideline says about MME thresholds and whether those are mandatory or advisory. Next, I will check how Florida's House Bill 21 (HB21) actually restricts prescribing and whether it mentions MME. After that, I should review the evidence on overdose risk by dose and reconcile it with real-world practice. Finally, I will synthesize a clear, clinically actionable answer with caveats and monitoring recommendations.
 
-> Let me first confirm the legal framework in Florida. Florida's HB21, implemented July 1, 2018, limits Schedule II opioid prescriptions for acute pain to a 3-day supply, with a 7-day supply allowed only if the prescriber documents an "acute pain exception", and it explicitly exempts chronic pain, cancer, palliative care, and certain traumatic injuries; critically, HB21 does not impose a maximum daily MME limit or a total MME cap per prescription, so there is no statutory "allowable MME" ceiling in Florida law [^b4a4924f] [^e9a8152b].
+> Let me first confirm the legal framework in Florida. Florida's HB21, implemented July 1, 2018, limits Schedule II opioid prescriptions for acute pain to a 3-day supply, with a 7-day supply allowed only if the prescriber documents an "acute pain exception", and it explicitly exempts chronic pain, cancer, palliative care, and certain traumatic injuries; critically, HB21 does not impose a maximum daily MME limit or a total MME cap per prescription, so there is no statutory "allowable MME" ceiling in Florida law [^115cp3qY] [^116yQaBC].
 
-> Wait, let me verify the scope so I don't overgeneralize. HB21 applies to Schedule II opioids for acute pain and does not regulate non-Schedule II opioids or chronic pain prescriptions; thus, any MME-based thresholds for chronic therapy are not codified in Florida statute, even though clinicians may still consider professional guidelines and payer policies in practice [^b4a4924f].
+> Wait, let me verify the scope so I don't overgeneralize. HB21 applies to Schedule II opioids for acute pain and does not regulate non-Schedule II opioids or chronic pain prescriptions; thus, any MME-based thresholds for chronic therapy are not codified in Florida statute, even though clinicians may still consider professional guidelines and payer policies in practice [^115cp3qY].
 
-> Next, I should review the CDC 2022 Clinical Practice Guideline. The CDC recommends avoiding dosage increases to 50 MME/day or higher without careful reassessment, and to avoid increasing to 90 MME/day or higher unless benefits clearly outweigh risks; importantly, these are voluntary, evidence-based recommendations intended to guide shared decision-making, not rigid legal limits, and they emphasize individualized care and risk mitigation rather than a hard cap [^3fdd4290] [^05e434d4] [^39613356].
+> Next, I should review the CDC 2022 Clinical Practice Guideline. The CDC recommends avoiding dosage increases to 50 MME/day or higher without careful reassessment, and to avoid increasing to 90 MME/day or higher unless benefits clearly outweigh risks; importantly, these are voluntary, evidence-based recommendations intended to guide shared decision-making, not rigid legal limits, and they emphasize individualized care and risk mitigation rather than a hard cap [^112dgYFH] [^1119jbEB] [^112U4wgZ].
 
-> Hold on, let's not jump to conclusions about "allowable" meaning "legal". I initially thought Florida might have adopted a 90 MME/day statutory limit like some states, but that would be incorrect; Florida's law is duration-limited for acute pain and does not set an MME ceiling, so any numeric MME threshold clinicians use reflects guideline-based practice rather than state law [^b4a4924f] [^c6787c64].
+> Hold on, let's not jump to conclusions about "allowable" meaning "legal". I initially thought Florida might have adopted a 90 MME/day statutory limit like some states, but that would be incorrect; Florida's law is duration-limited for acute pain and does not set an MME ceiling, so any numeric MME threshold clinicians use reflects guideline-based practice rather than state law [^115cp3qY] [^1165F243].
 
-> I need to check the dose–risk evidence to contextualize thresholds. Multiple studies and guidelines show that overdose risk rises progressively with higher daily MME: risk approximately doubles at 50–99 MME/day and increases several-fold at 100 MME/day or more compared with less than 20 MME/day; this supports using 50 and 90 MME/day as cautionary benchmarks rather than legal cutoffs, and underscores the need for enhanced monitoring, naloxone, and reassessment as doses approach or exceed these levels [^6959957d] [^3fdd4290] [^05e434d4].
+> I need to check the dose–risk evidence to contextualize thresholds. Multiple studies and guidelines show that overdose risk rises progressively with higher daily MME: risk approximately doubles at 50–99 MME/day and increases several-fold at 100 MME/day or more compared with less than 20 MME/day; this supports using 50 and 90 MME/day as cautionary benchmarks rather than legal cutoffs, and underscores the need for enhanced monitoring, naloxone, and reassessment as doses approach or exceed these levels [^113hBnpt] [^112dgYFH] [^1119jbEB].
 
-> Let me consider real-world impacts in Florida to ensure I'm not missing unintended effects. After HB21, studies show reductions in days' supply and total MME per prescription for acute pain, with no increase in emergency department visits or additional prescriptions in several settings, suggesting that duration limits can reduce exposure without worsening short-term outcomes; however, these studies do not demonstrate a state-imposed MME cap because none exists in Florida law [^e9a8152b] [^696aa88d] [^32576238].
+> Let me consider real-world impacts in Florida to ensure I'm not missing unintended effects. After HB21, studies show reductions in days' supply and total MME per prescription for acute pain, with no increase in emergency department visits or additional prescriptions in several settings, suggesting that duration limits can reduce exposure without worsening short-term outcomes; however, these studies do not demonstrate a state-imposed MME cap because none exists in Florida law [^116yQaBC] [^113hHXTr] [^112HdjTm].
 
-> I should double-check chronic pain guidance so I don't understate complexity. For chronic non-cancer pain, professional societies advise using the lowest effective dose, generally avoiding escalation beyond 50–90 MME/day, and implementing risk mitigation at or above 50 MME/day; again, these are clinical recommendations, not Florida statutory limits, and they call for shared decision-making, functional goals, and periodic reassessment rather than automatic dose reductions [^3fdd4290] [^05e434d4] [^39613356].
+> I should double-check chronic pain guidance so I don't understate complexity. For chronic non-cancer pain, professional societies advise using the lowest effective dose, generally avoiding escalation beyond 50–90 MME/day, and implementing risk mitigation at or above 50 MME/day; again, these are clinical recommendations, not Florida statutory limits, and they call for shared decision-making, functional goals, and periodic reassessment rather than automatic dose reductions [^112dgYFH] [^1119jbEB] [^112U4wgZ].
 
-> But wait, what if a payer or health system imposes its own MME limits? I need to ensure I distinguish law from policy. Some insurers and health systems operationalize 50 or 90 MME/day thresholds for prior authorization or safety triggers; these are contractual or institutional policies and do not create a state-law "allowable MME" in Florida, though they can shape prescribing behavior in practice [^230de018].
+> But wait, what if a payer or health system imposes its own MME limits? I need to ensure I distinguish law from policy. Some insurers and health systems operationalize 50 or 90 MME/day thresholds for prior authorization or safety triggers; these are contractual or institutional policies and do not create a state-law "allowable MME" in Florida, though they can shape prescribing behavior in practice [^111tyEBH].
 
-> Putting this together, I should confirm the bottom line. In Florida, there is no statutorily defined "allowable MME" cap; HB21 restricts Schedule II opioid duration for acute pain to 3 days (extendable to 7 days with documentation), while chronic pain prescribing is not limited by MME in state law. Clinicians should apply CDC 2022 guidance to avoid routine escalation beyond 50 MME/day and to justify doses at or above 90 MME/day with careful risk–benefit assessment, enhanced monitoring, and overdose risk mitigation, recognizing these as professional standards rather than legal mandates [^b4a4924f] [^3fdd4290] [^05e434d4].
+> Putting this together, I should confirm the bottom line. In Florida, there is no statutorily defined "allowable MME" cap; HB21 restricts Schedule II opioid duration for acute pain to 3 days (extendable to 7 days with documentation), while chronic pain prescribing is not limited by MME in state law. Clinicians should apply CDC 2022 guidance to avoid routine escalation beyond 50 MME/day and to justify doses at or above 90 MME/day with careful risk–benefit assessment, enhanced monitoring, and overdose risk mitigation, recognizing these as professional standards rather than legal mandates [^115cp3qY] [^112dgYFH] [^1119jbEB].
 
 ---
 
-Florida does not have a **statutory MME limit** for opioid prescriptions. The state's main restriction is a **3-day supply limit** for acute pain prescriptions, extendable to 7 days with documentation [^b4a4924f] [^e9a8152b]. For chronic pain, there is **no legal MME cap**, but prescribers should follow clinical guidelines that recommend caution at or above 50 MME/day and avoid exceeding 90 MME/day without strong justification [^3fdd4290] [^05e434d4]. Prescribers must also consult the PDMP and document medical necessity for higher doses [^notfound].
+Florida does not have a **statutory MME limit** for opioid prescriptions. The state's main restriction is a **3-day supply limit** for acute pain prescriptions, extendable to 7 days with documentation [^115cp3qY] [^116yQaBC]. For chronic pain, there is **no legal MME cap**, but prescribers should follow clinical guidelines that recommend caution at or above 50 MME/day and avoid exceeding 90 MME/day without strong justification [^112dgYFH] [^1119jbEB]. Prescribers must also consult the PDMP and document medical necessity for higher doses [^notfound].
 
 ---
 
@@ -43,11 +43,11 @@ Florida does not have a **statutory MME limit** for opioid prescriptions. The st
 
 Florida's opioid prescribing laws focus on **duration limits** for acute pain and do not impose a specific MME limit:
 
-- **House Bill 21 (HB 21)**: Effective July 1, 2018, HB 21 limits the supply of Schedule II opioids for acute pain to 3 days, extendable to 7 days only if the prescriber documents medical necessity [^b4a4924f] [^e9a8152b].
+- **House Bill 21 (HB 21)**: Effective July 1, 2018, HB 21 limits the supply of Schedule II opioids for acute pain to 3 days, extendable to 7 days only if the prescriber documents medical necessity [^115cp3qY] [^116yQaBC].
 
-- **Exemptions**: The law does not apply to chronic pain, cancer pain, palliative care, or traumatic injuries with an Injury Severity Score of 9 or greater [^b4a4924f].
+- **Exemptions**: The law does not apply to chronic pain, cancer pain, palliative care, or traumatic injuries with an Injury Severity Score of 9 or greater [^115cp3qY].
 
-- **PDMP requirement**: Prescribers must consult the Prescription Drug Monitoring Program (PDMP) before prescribing controlled substances [^9e968d6f].
+- **PDMP requirement**: Prescribers must consult the Prescription Drug Monitoring Program (PDMP) before prescribing controlled substances [^11547cXQ].
 
 ---
 
@@ -55,11 +55,11 @@ Florida's opioid prescribing laws focus on **duration limits** for acute pain an
 
 Although Florida law does not set an MME limit, clinical guidelines provide **evidence-based recommendations**:
 
-- **CDC guideline**: Recommends caution when prescribing opioids at or above 50 MME/day and advises against exceeding 90 MME/day without strong justification [^3fdd4290] [^05e434d4].
+- **CDC guideline**: Recommends caution when prescribing opioids at or above 50 MME/day and advises against exceeding 90 MME/day without strong justification [^112dgYFH] [^1119jbEB].
 
-- **VA/DoD guideline**: Emphasizes individualized dosing, with careful risk assessment and monitoring, and does not specify a hard MME limit [^aa603d74].
+- **VA/DoD guideline**: Emphasizes individualized dosing, with careful risk assessment and monitoring, and does not specify a hard MME limit [^115MbDpF].
 
-- **ASIPP guideline**: Recommends low-dose opioid therapy with careful monitoring and risk mitigation strategies [^ac7776c3].
+- **ASIPP guideline**: Recommends low-dose opioid therapy with careful monitoring and risk mitigation strategies [^115QgzpJ].
 
 ---
 
@@ -67,11 +67,11 @@ Although Florida law does not set an MME limit, clinical guidelines provide **ev
 
 Higher opioid doses are associated with **increased risks** of overdose, misuse, and adverse effects:
 
-- **Overdose risk**: Increases progressively with higher doses, particularly at or above 50 MME/day [^6959957d].
+- **Overdose risk**: Increases progressively with higher doses, particularly at or above 50 MME/day [^113hBnpt].
 
-- **Misuse and dependence**: Higher doses are associated with increased risk of opioid use disorder and dependence [^9ea2c137].
+- **Misuse and dependence**: Higher doses are associated with increased risk of opioid use disorder and dependence [^1154BiF8].
 
-- **Adverse effects**: Higher doses increase risks of respiratory depression, sedation, and other serious adverse effects [^05e434d4].
+- **Adverse effects**: Higher doses increase risks of respiratory depression, sedation, and other serious adverse effects [^1119jbEB].
 
 ---
 
@@ -79,11 +79,11 @@ Higher opioid doses are associated with **increased risks** of overdose, misuse,
 
 Prescribers in Florida must adhere to **monitoring and documentation requirements**:
 
-- **PDMP checks**: Required before prescribing controlled substances [^9e968d6f].
+- **PDMP checks**: Required before prescribing controlled substances [^11547cXQ].
 
-- **Medical necessity**: Documentation of medical necessity is required for prescriptions exceeding the acute pain supply limits [^b4a4924f].
+- **Medical necessity**: Documentation of medical necessity is required for prescriptions exceeding the acute pain supply limits [^115cp3qY].
 
-- **Patient assessment**: Regular assessment of pain, function, and risk factors is recommended, especially at higher doses [^39613356].
+- **Patient assessment**: Regular assessment of pain, function, and risk factors is recommended, especially at higher doses [^112U4wgZ].
 
 ---
 
@@ -108,7 +108,7 @@ Florida does not have a **statutory MME limit** for opioid prescriptions. Prescr
 
 ## References
 
-### Safety concerns with the centers for disease control opioid calculator [^221577f3]. Journal of Pain Research (2018). Low credibility.
+### Safety concerns with the centers for disease control opioid calculator [^111sXnpi]. Journal of Pain Research (2018). Low credibility.
 
 Introduction
 
@@ -118,7 +118,7 @@ There has been controversy regarding the methodology used to develop the CDC opi
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^b4a4924f]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^115cp3qY]. Pain Medicine (2021). Medium credibility.
 
 Introduction
 
@@ -126,7 +126,7 @@ According to the Centers for Disease Control and Prevention (CDC), there were ne
 
 ---
 
-### Opioid taper practices among clinicians [^b333ccfb]. Journal of Pain Research (2021). Medium credibility.
+### Opioid taper practices among clinicians [^115agBbx]. Journal of Pain Research (2021). Medium credibility.
 
 The target audience for these guidelines was primary care providers treating chronic pain patients. The guidelines provided recommendations to limit morphine milligram equivalents (MME) and, more specifically, to avoid increasing > 90 mg/day without careful justification or guidance as to how to taper patients to these doses. Statements regarding MME are concerning as they were made without acknowledging the pharmacokinetic and pharmacodynamic variability among different opioids. The guidelines also failed to note the variability among MME calculations/calculators which limits standardized conversion from one opioid to another. Subsequent data has indicated that providers, payers and policy makers have misapplied these recommendations. For this reason we have included questions pertaining to comfort level tapering at various MME in the survey.
 
@@ -134,13 +134,13 @@ Prior to and in response to these guidelines several states passed laws establis
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^b8147edb]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^115huc8z]. Pain Physician (2023). High credibility.
 
 Prescription opioids and opioid epidemic — United States prescription trends show declines in morphine milligram equivalents (MME) dispensed and in high daily-dose segments. Use of prescription opioids, measured by MME dispensed, increased from 27 billion MME in 1992 to 246 billion MME in 2011, then decreased to an estimated 100 billion MME in 2020. From 2018 to 2019, every state experienced a decline in MME per capita, and declines were largest in states that previously had the highest rates of opioid prescribing. Segmented by daily MME, 2011–2019 changes were a 70% decline for 90+ MME per day, 52% for 50 to 90 MME per day, 32% for 20 to 50 MME per day, and 11% for less than 20 MME per day; the figure shows a total -51% change. CDC dispensing data are available from 2006 to 2020 at national, state (per 100 persons), and county levels.
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^40272f2a]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^112e7NQZ]. Pain Medicine (2021). Medium credibility.
 
 Change in Morphine Milligram Equivalents
 
@@ -153,19 +153,19 @@ Vertical dashed line indicates implementation of opioid restriction law.
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^608794b0]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^113U7MP5]. Pain Medicine (2021). Medium credibility.
 
 Legislative policies that limit both the allowed MMEs and the total day's supply to be prescribed for new prescription orders for Schedule II controlled substances indicated for acute pain exist in other states in the United States (Arizona, Maine, Nevada, Ohio, Rhode Island, Tennessee, and Vermont). In addition to those 7 states mentioned above that have legislation restricting both the MME/day and the day's supply of initial opioid prescriptions that can be prescribed, there are currently a total of 30 other states in the United States that have legislation in place restricting only the day's supply allowed to be prescribed for initial opioid prescriptions. Some states with unique legislation include Pennsylvania with a 7-day's supply limit only in Schedule II prescriptions prescribed to children, Maryland with a requirement for health professionals to prescribe the lowest effective dose of an opioid, and Illinois with a maximum day's supply limit of 30 days.
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^40794e4e]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^112eaxGM]. Pain Physician (2023). High credibility.
 
 ASIPP dose descriptions — morphine milligram equivalents (MME) thresholds and overdose risk note that, with overwhelming evidence for the risk of misuse and limited efficacy of chronic opioid therapy, the rationale for high-dose opioids is limited and absolute MME cut offs remain inconsistent. Generally, patients who do not respond to low or medium opioid doses are unlikely to respond to higher doses. Guidance thresholds cited include State of Washington advice that the daily dose of opioids should not exceed 120 mg of MME; American Pain Society/AAPM defining "high doses" as 100 mg MME; CDC guidelines recommended a limit of 50–90 MME; ASIPP designation of low dose as 40 MME; and a Canadian "watchful dose" at 200 MME. Reported overdose risk signals include increased risk when dose is equivalent to 50 MME or higher, a 9-fold increase in overdoses at higher doses of opioids (> 100 MME) versus lower doses (< 20 MME), greater overdose risk if daily doses are above 40 MME, and much higher overdose death rates at higher doses (200–400 MME) and at very high doses > 400 MME).
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^3fdd4290]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^112dgYFH]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Implementation Considerations
 
@@ -179,7 +179,7 @@ Additional dosage increases beyond 50 MME/day are progressively more likely to y
 
 ---
 
-### Physician dispensing of oxycodone and other commonly used opioids, 2000–2015, United States [^5d875dfd]. Pain Medicine (2018). Low credibility.
+### Physician dispensing of oxycodone and other commonly used opioids, 2000–2015, United States [^113PfKNc]. Pain Medicine (2018). Low credibility.
 
 Objective
 
@@ -199,13 +199,13 @@ This study presents the first state estimates of office-based dispensing of opio
 
 ---
 
-### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^7ab6e930]. Journal of Addiction Medicine (2020). High credibility.
+### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^1148vvmm]. Journal of Addiction Medicine (2020). High credibility.
 
 Opioid dosing considerations — MME guidance does not apply to opioid use disorder: Guidelines for morphine milligram equivalents (MME) for chronic pain are not applicable to opioid use disorder; higher MME dosages are necessary and clinically indicated, and the Centers for Disease Control and Prevention specifically advises against misapplication of chronic pain guidelines to patients receiving or starting treatment for opioid use disorder.
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^696aa88d]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^113hHXTr]. Pain Medicine (2021). Medium credibility.
 
 Objective
 
@@ -225,7 +225,7 @@ Among a group of privately-insured plan enrollees in Florida, and as a result of
 
 ---
 
-### Impact of opioid dose reduction on individuals with chronic pain: results of an online survey [^ff7d00a2]. Journal of Pain Research (2018). Low credibility.
+### Impact of opioid dose reduction on individuals with chronic pain: results of an online survey [^117Xmq77]. Journal of Pain Research (2018). Low credibility.
 
 The 2016 Centers for Disease Control and Prevention (CDC) guideline on opioid prescribing suggests that clinicians "should use caution when prescribing opioids at any dosage, should carefully reassess the evidence of individual benefits and risks when considering increasing dosage to ≥ 50 morphine milligram equivalents (MME)/day, and should avoid increasing dosage to ≥ 90 MME/day or carefully justify a decision to titrate dosage to ≥ 90 MME/day". These recommendations are presented as "voluntary, rather than prescriptive standards", and the guideline asserts that "clinical decision-making should be based on a relationship between the clinician and patient and an understanding of the patient's clinical situation, functioning, and life context".
 
@@ -235,7 +235,7 @@ The objective of this study, which was conducted after the publication of the CD
 
 ---
 
-### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^24b8addc]. JAMA Network Open (2023). High credibility.
+### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^111wSaz7]. JAMA Network Open (2023). High credibility.
 
 High-Dose Dispensing Rate
 
@@ -248,13 +248,13 @@ High dosage was defined as a prescription for an opioid of 90 morphine milligram
 
 ---
 
-### Damaging state legislation regarding opioids: the need to scrutinize sources of inaccurate information provided to lawmakers [^e29ff8cb]. Journal of Pain Research (2019). Medium credibility.
+### Damaging state legislation regarding opioids: the need to scrutinize sources of inaccurate information provided to lawmakers [^116nywC6]. Journal of Pain Research (2019). Medium credibility.
 
 Contrary to popular belief, ill-informed state legislation may be more responsible for the current plight of patients with pain than is the oft-blamed CDC Guideline, the United States Drug Enforcement Administration, or regulations imposed on physicians by state medical boards. Gilson and Rich have recently noted that state laws regarding opioid prescribing, unlike federal laws, generally fail to recognize the importance of opioid analgesia to public health. Consequently, a great deal of individual state legislation pertaining to opioid prescribing that "misses the forest for the trees" has been passed and enacted. For example, the state of Rhode Island instituted a law in 2017, limiting daily prescription of opioids for acute pain to 30 milligrams morphine equivalents (MME). Besides being arbitrary and without evidence-basis, this law fails to take into account that "a regulatory approach that takes into account prescriber intent and patient-specific factors that influence prescribing is likely more effective than a strict limitation on the amount or duration of opioid prescribing".
 
 ---
 
-### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^7fe908ad]. JAMA Network Open (2023). High credibility.
+### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^114Gdhf2]. JAMA Network Open (2023). High credibility.
 
 Mean MME per Capita
 
@@ -271,13 +271,13 @@ In eFigure 5 in Supplement 1 we show scatterplots of the dispensing rates in eac
 
 ---
 
-### Errors in eFigure title and caption in the supplement [^21ea1cb4]. JAMA Network Open (2019). High credibility.
+### Errors in eFigure title and caption in the supplement [^111sHEAw]. JAMA Network Open (2019). High credibility.
 
 In the Original Investigation titled "Trends and Patterns of Geographic Variation in Opioid Prescribing Practices by State, United States, 2006–2017", 1 published March 15, 2019, a typographical error appeared in the title of the Supplement's eFigure, and descriptions of 2 symbols used in the eFigure's graphs were reversed. The eFigure's title should have read as follows: "eFigure. (A) Mean Dosage in Morphine Milligram Equivalent (MME) per Day per Prescription and (B) Mean Duration per Prescription by Formulation in All Ages, by State, United States, 2017". In the caption, the descriptions of what is represented in the graphs by the black triangle and the red square were reversed. The last sentence should have read, "Blue diamond represents extended release and long acting (ER/LA) formulations; black triangle represents immediate release (IR) formulations, and red square represents all opioids". This article has been corrected. 1
 
 ---
 
-### Changes in opioid use after Florida's restriction law for acute pain prescriptions [^e9a8152b]. JAMA Network Open (2020). High credibility.
+### Changes in opioid use after Florida's restriction law for acute pain prescriptions [^116yQaBC]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -285,7 +285,7 @@ Several US states have enacted laws to limit either opioid prescription days' su
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^d2e57309]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^116PfUDN]. Pain Medicine (2021). Medium credibility.
 
 Discussion
 
@@ -297,7 +297,7 @@ The intention of this policy was to restrict initial Schedule II opioid prescrip
 
 ---
 
-### Effect of Florida's prescription drug monitoring program and pill mill laws on opioid prescribing and use [^e04fdd30]. JAMA Internal Medicine (2015). Medium credibility.
+### Effect of Florida's prescription drug monitoring program and pill mill laws on opioid prescribing and use [^116jZ415]. JAMA Internal Medicine (2015). Medium credibility.
 
 Importance
 
@@ -325,7 +325,7 @@ Florida's PDMP and pill mill laws were associated with modest decreases in opioi
 
 ---
 
-### Trends in use of prescription nonsteroidal anti-inflammatory medications before vs after implementation of a Florida law restricting opioid prescribing for acute pain [^a30312bd]. JAMA Network Open (2021). High credibility.
+### Trends in use of prescription nonsteroidal anti-inflammatory medications before vs after implementation of a Florida law restricting opioid prescribing for acute pain [^115Ag1oi]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -335,7 +335,7 @@ On July 1, 2018, Florida implemented House Bill 21 (HB21), which limited the pre
 
 ---
 
-### Standardizing research methods for opioid dose comparison: the NIH HEAL morphine milligram equivalent calculator [^3b8742a3]. Pain (2025). Medium credibility.
+### Standardizing research methods for opioid dose comparison: the NIH HEAL morphine milligram equivalent calculator [^112XFhiA]. Pain (2025). Medium credibility.
 
 Abstract
 
@@ -343,7 +343,7 @@ We developed the National Institutes of Health helping to end addiction long-ter
 
 ---
 
-### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^fb39b398]. Journal of General Internal Medicine (2024). Medium credibility.
+### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^117RTGrK]. Journal of General Internal Medicine (2024). Medium credibility.
 
 Table 3
 Estimated associations between monthly opioid dose and fatal opioid overdose (n = 797) among patients in California, March-December 2013 (N = 68,829,519 analyzing samples)
@@ -358,13 +358,13 @@ Tables 4 a summarizes overdose risk associated with 30-day prescribed opioid dos
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^b6f95300]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^115gGVWw]. Pain Physician (2023). High credibility.
 
 ASIPP opioid dose–risk evidence indicates that higher morphine milligram equivalents (MME) and tramadol dosing are associated with adverse outcomes. In patients on moderate doses (< 200 MME), an overdose rate of 7.92 (9.94 per 1,000 population) was reported, and patients receiving > 120 MME per day were more likely to have drug-related encounters than those getting lower doses. Implementation of guidelines that considered 120 MME as a high dose reduced overall opioids per day by 27% and long-acting Schedule II opioids by 37% among those on > 120 MME per day, and the number of deaths was reduced by 50% from 2009 to 2010. High dose tramadol (> 400 mg) showed an increasing frequency of adverse effects with 2 patients experiencing seizures. Doses > 100 MME per day have not been validated in clinical trials and should be considered excessive, and available literature correlates increasing mortality with increasing doses.
 
 ---
 
-### Laws limiting prescribing and dispensing of opioids in the United States, 1989–2019 [^c6787c64]. Addiction (2021). Medium credibility.
+### Laws limiting prescribing and dispensing of opioids in the United States, 1989–2019 [^1165F243]. Addiction (2021). Medium credibility.
 
 Background and Aims
 
@@ -384,7 +384,7 @@ The number of US states with opioid limitation laws nearly quadrupled between 20
 
 ---
 
-### Relationship between high-risk patients receiving prescription opioids and high-volume opioid prescribers [^fa5281ce]. Addiction (2018). Low credibility.
+### Relationship between high-risk patients receiving prescription opioids and high-volume opioid prescribers [^117Q7cpV]. Addiction (2018). Low credibility.
 
 Aims
 
@@ -416,7 +416,7 @@ In the United States, high-risk patients obtain a substantial proportion of pres
 
 ---
 
-### Opioid moderatism and the imperative of rapprochement in pain medicine [^64b7e786]. Journal of Pain Research (2019). Medium credibility.
+### Opioid moderatism and the imperative of rapprochement in pain medicine [^113aKXvm]. Journal of Pain Research (2019). Medium credibility.
 
 Washington State's Medical Director of workers compensation began his war on opioids in 2005, publishing a retrospective study in which he and his colleagues found a positive correlation between high-dosage opioids and overdose death in workers compensation patients. In 2007, a group that he led developed an "educational" opioid prescribing guideline, followed by a "recommended" guideline in 2010and an updated guideline in 2015. Each iteration was more restrictive regarding its recommended arbitrary opioid limits or "triggers" than the previous one, and was based on "consensus" rather than "evidence". Although these guidelines were promoted as "voluntary", their "chilling effect" resulted in widespread fear among Washington physicians, thereby reducing prescribing.
 
@@ -424,7 +424,7 @@ As soon as the 2015 Washington State guideline was published, many of its author
 
 ---
 
-### Overview of current applicationsand uses of MMEs… [^230de018]. FDA (2025). Medium credibility.
+### Overview of current applicationsand uses of MMEs… [^111tyEBH]. FDA (2025). Medium credibility.
 
 4 Policies and Regulations State Prescribing Limits Related to MMEs
 - 43 states have limits on the amount of opioid prescribed or dispensed
@@ -434,7 +434,7 @@ As soon as the 2015 Washington State guideline was published, many of its author
 
 ---
 
-### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^a0352ef8]. JAMA Network Open (2021). High credibility.
+### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^1156WtBq]. JAMA Network Open (2021). High credibility.
 
 Importance
 
@@ -466,7 +466,7 @@ This cohort study found that patients who were opioid naive continued to initiat
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^89e7ec27]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^114XTCpe]. Pain Medicine (2021). Medium credibility.
 
 A recent paper that evaluated the impact on opioid restricting policies in Massachusetts, Connecticut, and New York, all with a seven-day restriction on new opioid prescriptions, identified reductions in prescription duration immediately following implementation, along with reductions of MMEs in the subsequent months. These new laws, along with similarly structured payer and health-system restriction policies, have the potential to impact care decisions and access to opioid therapies for several million patients.
 
@@ -474,7 +474,7 @@ Our previous evaluation of the Florida HB21 law showed a significant decrease in
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^05e434d4]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^1119jbEB]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Clinicians should generally avoid unnecessary dosage increases, use caution when increasing opioid dosages, and increase dosage by the smallest practical amount because overdose risk increases with increases in opioid dosage. Although evidence to recommend specific intervals for dosage titration is limited, rapid dosage increases put patients at greater risk for sedation, respiratory depression, and overdose. For opioid-naïve outpatients with acute pain treated with an opioid for a few days or less, dosage increases are usually unnecessary and should not be attempted without close monitoring because of the risks for respiratory depression. In the context of long-term opioid use, when dosage is increased, clinicians should reevaluate patients after increasing dosage for changes in pain, function, and risk for harm (see Recommendation 7).
 
@@ -486,19 +486,19 @@ Certain states require clinicians to implement clinical protocols at specific do
 
 ---
 
-### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^ef02a797]. The Journal of Emergency Medicine (2020). High credibility.
+### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^1177Lw4z]. The Journal of Emergency Medicine (2020). High credibility.
 
 Chronic pain patients taking daily opioids — factors indicating when benefit likely exceeds harm versus when harm likely exceeds benefit are outlined: benefit likely exceeds harm with single prescriber, stable dose, low dose, infrequent visits for breakthrough pain, high occupational/social function, no opioid misuse, and no evidence of addiction; harm likely exceeds benefit with multiple prescribers, escalating dose, high dose (> 90 MME/day), frequent visits for breakthrough pain, use of CNS depressants or stimulants, poor occupational/social function, evidence of misuse, and evidence of addiction, with MME defined as morphine milligram equivalents and CNS as central nervous system.
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^dd807425]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^116fPQm2]. Pain Physician (2023). High credibility.
 
 Centers for Disease Control and Prevention (CDC) opioid prescribing guidelines — observed effects on prescribing patterns include that prior to the release, the rate of first-time opioid prescriptions with extended-release opioids decreased to 5.84 in every 10,000 prescriptions, and after release payer prior authorizations and other changes were associated with an immediate reduction in first-time opioid prescriptions at doses of at least 50 MME per day across specialties; influence extended beyond primary care, with adoption by state legislatures, licensing boards, and payer groups, and restrictions also applied to benzodiazepines.
 
 ---
 
-### Efficacy and durability of opioid restrictive state legislation two years after implementation for total knee arthroplasty [^ded5970f]. The Journal of Arthroplasty (2022). Medium credibility.
+### Efficacy and durability of opioid restrictive state legislation two years after implementation for total knee arthroplasty [^116hMzdc]. The Journal of Arthroplasty (2022). Medium credibility.
 
 Background
 
@@ -518,7 +518,7 @@ Restrictive opioid state policy implementation was associated with reduced overa
 
 ---
 
-### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^9d7cda35]. JAMA Network Open (2019). High credibility.
+### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^1152UzZi]. JAMA Network Open (2019). High credibility.
 
 Definitions and Variables
 
@@ -528,19 +528,19 @@ We defined high-dosage prescriptions as those filled for 90 or more MME/d, above
 
 ---
 
-### Clinical policy: critical issues related to opioids in adult patients presenting to the emergency department [^cd20ac8e]. Annals of Emergency Medicine (2020). High credibility.
+### Clinical policy: critical issues related to opioids in adult patients presenting to the emergency department [^116F7SK7]. Annals of Emergency Medicine (2020). High credibility.
 
 Emergency department discharge prescribing — consumption, early long‑term risk, and exposure sources show that the median amount of opioid actually consumed after an opioid prescription is less than 50 morphine milligram equivalents (MME), and that there is increased risk for opioid‑naive patients to develop long‑term use beginning with the third day of therapy. Among ED patients with current opioid dependence, greater than one third reported first exposure via legitimate prescriptions for acute painful conditions, and in 11% the index prescription came from an ED visit. The policy scope focuses on prescribing at discharge rather than administration during the visit, and the document notes there is not an accurate method of predicting which patients will develop opioid use disorder (OUD) or experience adverse effects versus benefit at discharge.
 
 ---
 
-### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^aa603d74]. Annals of Internal Medicine (2023). High credibility.
+### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^115MbDpF]. Annals of Internal Medicine (2023). High credibility.
 
 Morphine milligram equivalent (MME) dosing — conversion method and cautions for full opioid receptor agonists state that all doses are expressed as mg/d except for fentanyl, and to multiply the daily opioid dose by the conversion factor to determine the equianalgesic dose in MME, recognizing these conversions are only estimates and cannot account for individual variability. The guidance specifies not to use the calculated MME dose to set the dose of a new opioid when converting; the new opioid is typically dosed at substantially lower than the calculated MME dose (33–50% less) to avoid accidental overdose due to incomplete cross-tolerance and individual variability in opioid pharmacokinetics. Particular caution is advised with fentanyl because it is dosed in mcg/hr instead of mg/d, and absorption is affected by heat and other factors. The HHS conversion factors table does not have an associated MME conversion factor for buprenorphine products.
 
 ---
 
-### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^aa754604]. JAMA Network Open (2019). High credibility.
+### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^115MiHab]. JAMA Network Open (2019). High credibility.
 
 Introduction
 
@@ -550,7 +550,7 @@ Large variation among states has been observed in opioid-related overdose rates 
 
 ---
 
-### Five year financial plan-prescription drug user fee act program 2020 update… [^2c4ea11c]. FDA (2025). Medium credibility.
+### Five year financial plan-prescription drug user fee act program 2020 update… [^1128gsDu]. FDA (2025). Medium credibility.
 
 prescription drugs are available to the American public. FY 2018 – FY 2022 PDUFA Five-Year Financial Plan 4. $10, 000, 000 $12, 857, 171 $9, 000, 000 $9, 000, 000 $9, 000, 000 Carryover Available for Use, Beginning of Year $232, 969, 623 $125, 372, 943† $125, 372.
 943. $136, 237, 817† $133, 219, 097 $128, 916, 297 Total Budgetary Resources $1, 154, 196, 945 $1, 145, 694, 943 $1, 153, 382, 126 $1, 219, 951, 817 $1, 264, 022, 097. $830, 514, 303 $884, 553, 090 $930, 904, 375 $969, 782, 924 Total Rent Note 4 $49, 964, 883 $65, 278, 320 $52, 437, 964 $65, 931, 103 $66, 590.
@@ -560,13 +560,13 @@ $1, 074, 714, 000 $1, 121, 803, 000 $1, 168, 054, 000 Target Revenue has been ro
 
 ---
 
-### Postoperative opioid prescribing after female pelvic medicine and reconstructive surgery [^ae08021b]. Female Pelvic Medicine & Reconstructive Surgery (2021). High credibility.
+### Postoperative opioid prescribing after female pelvic medicine and reconstructive surgery [^115T1Y3k]. Female Pelvic Medicine & Reconstructive Surgery (2021). High credibility.
 
 Opioid definitions and morphine milligram equivalent (MME) conversions — this document uses the term opioid(s) to refer to the drugs most commonly prescribed after surgery: hydrocodone-acetaminophen, oxycodone-acetaminophen, oxycodone, codeine, hydromorphone, and morphine, and when appropriate, doses are converted to oral MME; for example, 5 tablets of 5 mg of oxycodone are equivalent to 37.5 MME, 10 tablets to 75 MME, and 15 tablets to 112.5 MME.
 
 ---
 
-### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^93dd15cb]. JAMA Network Open (2023). High credibility.
+### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^114nDSWe]. JAMA Network Open (2023). High credibility.
 
 Importance
 
@@ -598,13 +598,13 @@ The 2016 CDC Guideline release was associated with broad reductions in prescript
 
 ---
 
-### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^8c0d68ec]. Pain Physician (2021). High credibility.
+### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^114admhV]. Pain Physician (2021). High credibility.
 
 Appendix Fig. 3 — Prescription opioid use segmented by morphine milligram equivalents (MME) per capita, 2011–2019 reports "% Change 2011–2019" as follows: Total -51%, < 20 MME per day -11%, 20–50 MME per day -35%, 50–90 MME per day -32%, and 90+ MME per day -70%.
 
 ---
 
-### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^734fcd5e]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^113wxP5f]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 Results
 
@@ -617,7 +617,7 @@ From 2010 to 2015, the amount of opioids prescribed in the United States decreas
 
 ---
 
-### Changes in prescribing by provider type following a state prescription opioid restriction law [^2634d8c2]. Journal of General Internal Medicine (2022). Medium credibility.
+### Changes in prescribing by provider type following a state prescription opioid restriction law [^111yeHFF]. Journal of General Internal Medicine (2022). Medium credibility.
 
 Background
 
@@ -649,7 +649,7 @@ Pre-policy opioid prescribing varied by provider type with a differential impact
 
 ---
 
-### Trends and rapidity of dose tapering among patients prescribed long-term opioid therapy, 2008–2017 [^1a3aa39a]. JAMA Network Open (2019). High credibility.
+### Trends and rapidity of dose tapering among patients prescribed long-term opioid therapy, 2008–2017 [^111ftNi5]. JAMA Network Open (2019). High credibility.
 
 Importance
 
@@ -677,13 +677,13 @@ Patients using long-term opioid therapy are increasingly undergoing dose taperin
 
 ---
 
-### Principles for ensuring the safe management of pain medication prescriptions by occupational and environmental physicians [^06703c6a]. ACOEM (2016). Medium credibility.
+### Principles for ensuring the safe management of pain medication prescriptions by occupational and environmental physicians [^111AYdE1]. ACOEM (2016). Medium credibility.
 
 Pain medication prescription safety — prior to a trial of opioids for chronic use or after 4 weeks of opioid use, the following should occur: Comprehensive history and physical; screening for abuse potential and psychological associated issues; baseline and random drug screening with appropriate interpretations and action; Doctor-patient agreement; doses not exceeding 50 morphine equivalents per day in opioid naïve patients; regular functional assessments to determine the success of opioid use — providers must understand the patient's job duties to determine if they present a hazard to the patient when using opioids; and continuation of active therapy, cognitive behavioral or other supportive psychological therapy as prescribed. Benzodiazepines as well as other sedating medications should generally not be prescribed with opioids as they increase the risk for respiratory depression. During the course of treatment, prescribing physicians should regularly consult their state's prescription drug monitoring program (PDMP), and PDMPs should be required to: 1) interact over state boundaries; 2) allow trained and registered provider staff to access information to assist providers when prescribing opioids; and 3) integrate with EHRs as consistent with other federal requirements. Functional goals should be addressed with patients from the outset and assessed at every visit and functional improvements documented to assure that patients have the highest quality of life, and drug screening for drugs of abuse and metabolites of the drug being prescribed are also essential at intervals to assure safe medication use and identify non-use, diversion, and other substance use which would require the opioid to be withdrawn. Providers should always be especially vigilant of patients on doses of 50 or greater morphine equivalent milligrams per day or greater as they are at a high risk of unintentional deaths, and additional research should be conducted under the auspices of the federal government on the long-term efficacy of opioids for chronic non-cancer pain to provide an evidence-based foundation to inform public policy.
 
 ---
 
-### High opioid doses, naloxone, and central nervous system active medications received by Medicare-enrolled adults [^7c41411c]. Journal of the American Geriatrics Society (2023). Medium credibility.
+### High opioid doses, naloxone, and central nervous system active medications received by Medicare-enrolled adults [^114BDPCf]. Journal of the American Geriatrics Society (2023). Medium credibility.
 
 RESULTS
 
@@ -696,13 +696,13 @@ A multivariate logistic regression found age (p < 0.001), sex (p = 0.003), and n
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^927d1179]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^114kBCfr]. Pain Physician (2023). High credibility.
 
 Opioid dose–overdose relationships (United States 2010–2019) — The page reports that "the relationships between total opioid doses, any opioid deaths (AOD), prescription opioid deaths (POD), opioid treatment admissions (OTA), and annual prescription opioid sales (i.e., morphine milligram equivalents (MME) per capita) are either non-existent, or significantly negative/inverse", and that "the data from 2010 to 2019 – notably concurrent with initiation of CDC guidelines in 2016 – demonstrate that TOD, AOD, and OTA in 1,000s continued to escalate with distinct decline in both POD and MME per capita of prescription opioids". It adds that "the CDC assertion of a continued direct relationship between these factors simply is not valid", consistent with findings "in the United States from 2010 to 2019" that "there is no longer a direct correlation", with TOD defined as total overdose deaths (TOD).
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^82650ada]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^114LKL6m]. Pain Medicine (2021). Medium credibility.
 
 Methods
 
@@ -722,7 +722,7 @@ We calculated: 1) the mean number of units dispensed of the initial opioid presc
 
 ---
 
-### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^3df39a7d]. Pain Medicine (2021). Medium credibility.
+### Changes in quantity of opioids dispensed following Florida's restriction law for acute pain prescriptions [^112ar4yA]. Pain Medicine (2021). Medium credibility.
 
 Results
 
@@ -730,13 +730,13 @@ Overall, there were a total of 54,409 individual opioid prescriptions dispensed 
 
 ---
 
-### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^315014a8]. Journal of Addiction Medicine (2020). High credibility.
+### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^112G7HuZ]. Journal of Addiction Medicine (2020). High credibility.
 
 Opioid use disorder — dosing guidance, adherence, monitoring, and overdose reversal: Opioid dosing guidelines developed for chronic pain, expressed in morphine milligram equivalents (MME), are not applicable to medications for the treatment of opioid use disorders. Oral naltrexone for the treatment of opioid use disorder is often adversely affected by poor medication adherence and should not be used except under very limited circumstances; clinicians should reserve its use for patients who would be able to comply with special techniques to enhance their adherence, for example, observed dosing, and extended-release injectable naltrexone reduces, but does not eliminate, issues with medication adherence. The Prescription Drug Monitoring Program (PDMP) should be checked regularly for the purpose of confirming medication adherence and to monitor for the prescribing of other controlled substances. Naloxone, for the reversal of opioid overdose, should be provided to patients being treated for, or with a history of, opioid use disorder, and patients and family members/significant others should be trained in the use of naloxone in overdose.
 
 ---
 
-### Association of the 2016 US centers for disease control and prevention opioid prescribing guideline with changes in opioid dispensing after surgery [^97edf276]. JAMA Network Open (2021). High credibility.
+### Association of the 2016 US centers for disease control and prevention opioid prescribing guideline with changes in opioid dispensing after surgery [^114tF48u]. JAMA Network Open (2021). High credibility.
 
 Figure 1.
 Opioids Prescribed Before and After 2016 US Centers for Disease Control and Prevention Guideline
@@ -747,7 +747,7 @@ Our interrupted times series analysis (Table 2) included all patients in the ana
 
 ---
 
-### Effects of state opioid prescribing laws on use of opioid and other pain treatments among commercially insured U.S. adults [^7256e2be]. Annals of Internal Medicine (2022). Medium credibility.
+### Effects of state opioid prescribing laws on use of opioid and other pain treatments among commercially insured U.S. adults [^113vWmoB]. Annals of Internal Medicine (2022). Medium credibility.
 
 Background
 
@@ -791,7 +791,7 @@ National Institute on Drug Abuse.
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^39613356]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^112U4wgZ]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Implementation Considerations
 
@@ -812,7 +812,7 @@ Clinicians should maximize pain treatment with nonpharmacologic and nonopioid ph
 
 ---
 
-### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^3a9676d9]. JAMA Network Open (2021). High credibility.
+### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^112VrpdE]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -822,7 +822,7 @@ The voluntary CDC guideline provides evidence-based recommendations to encourage
 
 ---
 
-### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^57a4f9d0]. JAMA Health Forum (2024). High credibility.
+### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^113EwLWK]. JAMA Health Forum (2024). High credibility.
 
 Exposure and Outcomes
 
@@ -834,7 +834,7 @@ We excluded monoproduct buprenorphine products (ie, Probuphine and Subutex) and 
 
 ---
 
-### Drug approvals and databases… [^4b34e837]. FDA (2025). Medium credibility.
+### Drug approvals and databases… [^112vVqrE]. FDA (2025). Medium credibility.
 
 Acronyms and Abbreviations Search More information Approved Risk Evaluation and Mitigation Strategies Bioresearch Monitoring Information System Search More information Dissolution Methods Database Search More information Drug Establishments Current Registration Site Search More information Drug Safety-related Labeling Changes. More information Drug Shortages More information Drugs@FDA Search More information FDA Adverse Event Reporting System Quarterly Data Files Downloadable data files. FDA Adverse Event Reporting System Public Dashboard Inactive Ingredient Search for Approved Drug Products Search.
 
@@ -853,13 +853,13 @@ Resources
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^d889cc55]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^116Y2cPv]. Pain Physician (2023). High credibility.
 
 American Society of Interventional Pain Physicians (ASIPP) opioid prescribing guidelines — background and scope state that opioid prescribing in the United States is decreasing while the opioid epidemic is "continuing at an uncontrollable rate", with "a significant number of opioid deaths, primarily associated with illicit fentanyl use", and that "the data show no clear correlation between opioid prescribing (either number of prescriptions or morphine milligram equivalent [MME] per capita), opioid hospitalizations, and deaths". The document states that "the 2016 guidelines from the Centers for Disease Control and Prevention (CDC) have resulted in notable problems including increased hospitalizations and mental health disorders" related to "lack of appropriate opioid prescribing" and "inaptly rapid tapering or weaning processes", and notes that "a fourth wave of the opioid epidemic has been emerging". Objectives are "to provide guidance for the prescription of opioids for the management of chronic non-cancer pain", based upon "a systematic review of both clinical and epidemiological evidence" by a multidisciplinary panel "assessing the quality of the evidence and the strength of recommendations". Methods included developing objectives and key questions, use of "trustworthy standards" with "appropriate disclosures of conflicts of interest(s)", literature review of opioid use, abuse, effectiveness, and adverse consequences, and panel review with tabulated comments and incorporated changes. The multidisciplinary panel "finalized 20 guideline recommendations for prescription of opioids for chronic non-cancer pain", and the summary reports "over 90% agreement for the final 20 recommendations".
 
 ---
 
-### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^cee9f437]. JAMA Network Open (2021). High credibility.
+### Changes in initial opioid prescribing practices after the 2016 release of the CDC guideline for prescribing opioids for chronic pain [^116Hm2qt]. JAMA Network Open (2021). High credibility.
 
 Initial Prescribing Dosage
 
@@ -874,13 +874,13 @@ eTable 9 in the Supplement shows rates of initial dosages of 50 MME/d or more by
 
 ---
 
-### Responsible, safe, and effective use of biologics in the management of low back pain: American Society of Interventional Pain Physicians (ASIPP) guidelines [^40534062]. Pain Physician (2019). High credibility.
+### Responsible, safe, and effective use of biologics in the management of low back pain: American Society of Interventional Pain Physicians (ASIPP) guidelines [^112eNAuX]. Pain Physician (2019). High credibility.
 
 U.S. opioid prescription trends and dosage reductions — mandated production cuts by the Drug Enforcement Administration of 25% in 2017 and 20% in 2018 and other measures showed a decline in total opioid prescriptions from 252 million in 2013 to 196 million in 2017, with a decreasing rate of prescriptions of over 9% annually; in 2017, 23.3 billion fewer morphine milligram equivalents (MME) were dispensed, dispensed prescriptions decreased 12.2%, and patients receiving high doses (greater than 90 MMEs per day) declined by 16.1%, yet opioid abuse and death rates are not decreasing because of the availability of illicit narcotics.
 
 ---
 
-### A proposed opioid tapering tool [^b496bb03]. Journal of the American Board of Family Medicine (2020). Medium credibility.
+### A proposed opioid tapering tool [^115cjQCA]. Journal of the American Board of Family Medicine (2020). Medium credibility.
 
 Introduction
 
@@ -896,7 +896,7 @@ Our group plans to use this software in an upcoming pilot study to taper patient
 
 ---
 
-### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^584e438c]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^113FvCW7]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 FIGURE 2
 Morphine milligram equivalents (MMEs) of opioids prescribed per capita in 2015 and change in MMEs per capita during 2010–2015, by county — United States, 2010–2015
@@ -925,7 +925,7 @@ Abbreviations: MME = morphine milligram equivalents; NA = not applicable (variab
 
 ---
 
-### Impact of prescription drug monitoring programs (PDMPs) on opioid utilization among Medicare beneficiaries in 10 US States [^8c248fff]. Addiction (2017). Low credibility.
+### Impact of prescription drug monitoring programs (PDMPs) on opioid utilization among Medicare beneficiaries in 10 US States [^114amYkN]. Addiction (2017). Low credibility.
 
 Background and Aims
 
@@ -957,13 +957,13 @@ Prescription drug monitoring programs (PDMPs) are associated with reductions in 
 
 ---
 
-### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^c250da1b]. Journal of Addiction Medicine (2020). High credibility.
+### The ASAM national practice guideline for the treatment of opioid use disorder: 2020 focused update [^115y5ko4]. Journal of Addiction Medicine (2020). High credibility.
 
 Summary of recommendations – treatment options (5–10) — Patients with active co-occurring alcohol use disorder or sedative, hypnotic, or anxiolytic use disorder may need a more intensive level of care than can be provided in an office-based setting, and persons who are regularly using alcohol or other sedatives but do not meet criteria for a specific substance use disorder should be carefully monitored. The prescribing of benzodiazepines or other sedative-hypnotics should be used with caution in patients who are prescribed methadone or buprenorphine for the treatment of an opioid use disorder, and while combined use increases the risk of serious side effects, the harm caused by untreated opioid use disorder can outweigh these risks. Methadone is recommended for patients who may benefit from daily dosing and supervision in an OTP or for those for whom buprenorphine has been used unsuccessfully in an OTP or OBOT setting. Opioid dosing guidelines developed for chronic pain, expressed in morphine milligram equivalents (MME), are not applicable to medications for the treatment of opioid use disorders. Regarding naltrexone, oral naltrexone should not be used except under very limited circumstances due to poor medication adherence; clinicians should reserve its use for patients who have been unable to comply with special adherence techniques (e.g., observed dosing), and extended-release injectable naltrexone reduces, but does not eliminate, adherence issues. The Prescription Drug Monitoring Program (PDMP) should be checked regularly to confirm medication adherence and to monitor the prescribing of other controlled substances.
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^ac7776c3]. Pain Physician (2023). Medium credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^115QgzpJ]. Pain Physician (2023). Medium credibility.
 
 Background
 
@@ -987,7 +987,7 @@ These guidelines were developed based upon a comprehensive review of the literat
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^75ffaa4b]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^1141wRjQ]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 If risks outweigh benefits of continued opioid therapy (e.g. if patients do not experience meaningful, sustained improvements in pain and function compared with before initiation of opioid therapy; if patients are taking higher-risk regimens [e.g. dosages of ≥ 50 MME/day or opioids combined with benzodiazepines] without evidence of benefit; if patients believe benefits no longer outweigh risks; if patients request dosage reduction or discontinuation; or if patients experience overdose or other serious adverse events), clinicians should work with patients to taper and reduce opioid dosage or to taper and discontinue opioids when possible (see Recommendation 5). Clinicians should maximize pain treatment with nonpharmacologic and nonopioid pharmacologic treatments as appropriate (see Recommendation 2).
 
@@ -999,19 +999,19 @@ Before starting and periodically during continuation of opioid therapy, clinicia
 
 ---
 
-### Effects of state opioid prescribing cap laws on providers' opioid prescribing patterns among patients with chronic non-cancer pain [^1e2846ea]. Preventive Medicine (2023). Medium credibility.
+### Effects of state opioid prescribing cap laws on providers' opioid prescribing patterns among patients with chronic non-cancer pain [^111miA7b]. Preventive Medicine (2023). Medium credibility.
 
 Prior work suggests opioid prescribing cap laws are not associated with changes in opioid prescribing among patients with chronic pain. It is unknown how these effects differ by provider specialty, provider opioid prescribing volume, or patient insurer. This study assessed effects of state opioid prescribing cap laws on opioid prescribing among providers of patients with chronic non-cancer pain, by high volume prescribing, provider specialty, and patient insurer. We identified 224,290 providers of patients with low back pain, fibromyalgia, or headache from the IQVIA administrative database. Using a difference-in-differences approach, we examined impacts of opioid prescribing cap laws implemented between 2016 and 2018 on the annual proportion of a provider's patient panel who received any opioid prescription, as well as on dose and duration of opioid prescriptions. For providers overall, high volume prescribers, all specialties, and patient insurance categories, prescribing cap laws were associated with non-significant changes of < 1.0, 1.5, and 3.5 percentage points in the proportion of chronic non-cancer patients receiving any opioid prescription, a prescription with 7 days' supply, or with > 50 morphine milligram equivalents (MME)/day, per year, respectively. There were two exceptions with high dose prescribing: prescribing cap laws were associated with a 1.5 percentage point increase in the proportion of high-volume prescribers' patient panel receiving an opioid prescription with ≥ 50 MME/day, and a 3.0 percentage point decrease in the same measure among surgeons. Among nearly all measured subgroups of providers and patient insurers, opioid prescribing cap laws were not associated with changes in opioid prescribing.
 
 ---
 
-### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^8f4983b9]. Pain Physician (2021). High credibility.
+### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^114fRvUg]. Pain Physician (2021). High credibility.
 
 U.S. prescription opioid utilization — morphine milligram equivalents (MME) trends show sustained declines with redistribution across payers. Prescription opioid use in the US continues to decline rapidly, with only 100 billion MME expected to be dispensed in 2020, a 60% decline from 246 billion MME in 2011. Between 2019 and 2020, there is an expected 17.1% decline in MME, marking the ninth consecutive year of declines and the third year of double-digit change. Historically, use was approximately 16 pills or 134 MME per adult Americans in 1992, rose to a peak of 55 pills or 790 MME in 2011, then declined by 54% to 29 pills and 366 MME per capita in 2019, while population growth has been 5.4% since 2011. In 2020, the projected decline in MME per capita is 17.1%, and by the end of 2020 MME per capita is expected to drop to 298, nearing 2000 levels, which was 270 MME per capita. Despite overall reductions, Medicare Part D prescriptions have increased by 2% since 2011, rising from 53 million to 54 million in 2019; the Medicare Part D share increased from 21% to 35% as the over 65 population increased by 31%. Even then, compared to 2019, prescriptions have declined 17% from 66 million in 2014, and commercial prescriptions still comprised the largest share of prescription opioids, with 48% of the volume in 2019 down from 58% in 2011.
 
 ---
 
-### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^22b18ba7]. JAMA Network Open (2023). High credibility.
+### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^111tSDSv]. JAMA Network Open (2023). High credibility.
 
 Introduction
 
@@ -1021,7 +1021,7 @@ Prior evaluations of the 2016 CDC Guideline have estimated changes in opioid pre
 
 ---
 
-### Effects of state law limiting postoperative opioid prescription in patients after cesarean delivery [^32576238]. Anesthesia and Analgesia (2021). Medium credibility.
+### Effects of state law limiting postoperative opioid prescription in patients after cesarean delivery [^112HdjTm]. Anesthesia and Analgesia (2021). Medium credibility.
 
 Background
 
@@ -1041,7 +1041,7 @@ Implementation of Florida Law HB 21 was associated with a lower total prescribed
 
 ---
 
-### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^6c2cb4a0]. JAMA Network Open (2019). High credibility.
+### Trends and patterns of geographic variation in opioid prescribing practices by state, United States, 2006–2017 [^113mNgNT]. JAMA Network Open (2019). High credibility.
 
 This study raises several issues. Because duration of use is the factor most often associated with opioid use disorder and overdose, the increase in mean duration per prescription and prescribing rate for 30 or more days is notable and worth further investigation. However, the decline in short-duration prescriptions may indicate a growing awareness by prescribers that nonopioid medications and other pain-control measures, such as exercise and cognitive behavioral therapy, can be effective for short-term pain relief. Physician surveys or medical record reviews could help assess this effectiveness. If that is the case, some risk of early-onset opioid use disorder from prescription opioids may be lessened.
 
@@ -1053,7 +1053,7 @@ This study is subject to several limitations. This administrative database conta
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^9ea2c137]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^1154BiF8]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Clinical evidence reviews identified an observational study finding long-term (> 90 days' supply) opioid prescription to be associated with considerably increased risk for a new opioid use disorder diagnosis for all dosages of long-term (> 90 days' supply) opioids prescribed compared with no opioids prescribed, with adjusted odds ratios of 15, 29, and 122 at low (1–36 MME/day), medium (36–120 MME/day), and high (≥ 120 MME/day) opioid dosages, respectively. Compared with no opioid use, opioid use was associated with increased risk for opioid use disorder, overdose, all-cause deaths, fractures, falls, and myocardial infarction.
 
@@ -1063,7 +1063,7 @@ Opioids should not be considered first-line or routine therapy for subacute or c
 
 ---
 
-### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^7439bd88]. Journal of General Internal Medicine (2024). Medium credibility.
+### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^113yJxZd]. Journal of General Internal Medicine (2024). Medium credibility.
 
 Background
 
@@ -1095,7 +1095,7 @@ Large (≥ 2 categories) 30-day dose increases and decreases were both associate
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^d33ab12b]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^116QA6sk]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Experts from OWG noted that although little evidence exists for specific follow-up time frames, the recommendation was reasonable and reflects common practice and therefore supported the recommendation. Experts further noted that social determinants of health affecting ability to return frequently for care (e.g. role as unpaid caregiver or work at a job with minimal paid time off) or payer issues (e.g. copays) could have consequences when recommending frequent visits and should be considered.
 
@@ -1103,7 +1103,7 @@ Clinicians should evaluate patients to assess benefits and risks of opioids with
 
 ---
 
-### Impact of state opioid regulation on postoperative opioid prescribing patterns for total knee arthroplasty: a retrospective analysis [^03ce2e8f]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
+### Impact of state opioid regulation on postoperative opioid prescribing patterns for total knee arthroplasty: a retrospective analysis [^1116eDbL]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
 
 Background
 
@@ -1127,7 +1127,7 @@ Level III retrospective cohort.
 
 ---
 
-### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^e4f877ff]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^116rTdpA]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 Background
 
@@ -1147,7 +1147,7 @@ Despite reductions in opioid prescribing in some parts of the country, the amoun
 
 ---
 
-### Application of the 2022 CDC guidelines-does in-hospital opioid dosage after lumbar fusion affect long-term opioid use and outcomes for opioid Naïve patients? [^0d9a1484]. Spine (2025). Medium credibility.
+### Application of the 2022 CDC guidelines-does in-hospital opioid dosage after lumbar fusion affect long-term opioid use and outcomes for opioid Naïve patients? [^111MAbPR]. Spine (2025). Medium credibility.
 
 Study Design
 
@@ -1175,7 +1175,7 @@ Daily MME consumption after lumbar fusion was an independent predictor of post-d
 
 ---
 
-### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^ccdfb5d3]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Vital signs: changes in opioid prescribing in the United States, 2006–2015 [^116EjciW]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 Background
 
@@ -1195,7 +1195,7 @@ Despite reductions in opioid prescribing in some parts of the country, the amoun
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^9e968d6f]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^11547cXQ]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Experts raised varying points regarding frequency of PDMP use, with many agreeing that PDMPs should be consulted before every opioid prescription, several agreeing that universal application would mitigate bias in application to different patients, and others believing it might not be warranted or feasible to check the PDMP in all cases, particularly before prescribing opioids for acute pain for a small number of days. Ideally, PDMP data should be reviewed before every opioid prescription for acute, subacute, or chronic pain. This practice is recommended in all jurisdictions where PDMP availability and access policies make it practicable (e.g. clinician and delegate access permitted). At a minimum, PDMP data should be reviewed before initial opioid prescriptions for subacute or chronic pain and then every 3 months or more frequently during long-term opioid therapy. Recommendation category B acknowledges variation in PDMP availability and circumstances (e.g. a clinician might reasonably determine that a patient with severe acute pain in the emergency department during a PDMP system access failure would be adversely affected by waiting hours for a prescription). However, because PDMP information can be most helpful when results are unexpected and, to minimize bias in application, clinicians should apply this recommendation when feasible to all patients rather than differentially on the basis of assumptions about what they will learn about specific patients.
 
@@ -1207,7 +1207,7 @@ When prescribing opioids for subacute or chronic pain, clinicians should conside
 
 ---
 
-### Changes in single-specialty postoperative opioid prescribing patterns in response to legislation: single-institution analysis over time [^6c1f7498]. Otolaryngology — Head and Neck Surgery (2021). Medium credibility.
+### Changes in single-specialty postoperative opioid prescribing patterns in response to legislation: single-institution analysis over time [^113mJEEj]. Otolaryngology — Head and Neck Surgery (2021). Medium credibility.
 
 Objectives
 
@@ -1235,7 +1235,7 @@ Legislative restrictions on the length of opioid prescriptions were associated w
 
 ---
 
-### Characteristics of initial prescription episodes and likelihood of long-term opioid use-United States, 2006–2015 [^5795bd44]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Characteristics of initial prescription episodes and likelihood of long-term opioid use-United States, 2006–2015 [^113ErDg7]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 Patients were followed from the date of their first prescription until loss of enrollment, study end date, or discontinuation of opioids, which was defined as ≥ 180 days without opioid use. The duration of use and number of prescriptions and cumulative dose (expressed in morphine milligram equivalents*) for the first episode of opioid use (defined as continuous use of opioids with a gap of no greater than 30 days) were calculated. The number of days' supply and average daily dose in morphine milligram equivalents for the first prescription were also calculated. The first opioid prescription was categorized into six mutually exclusive categories: long-acting; oxycodone short-acting; hydrocodone short-acting; other Schedule II short-acting; Schedule III–IV and nalbuphine; and tramadol. †
 
@@ -1243,7 +1243,7 @@ The Kaplan-Meier statistic was used to estimate median time to discontinuation o
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^244df656]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^111vpjyP]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Patients who started opioid therapy for acute pain and are continuing to receive opioids for subacute pain might be at a particularly critical point for potential transition to chronic pain and potential transition to long-term opioid therapy. Clinicians should follow up with and evaluate patients with subacute pain who have been treated with opioid therapy for 30 days. Clinicians should ensure that opioid prescribing for acute pain does not unintentionally become long-term opioid therapy simply because medications are continued without reassessment, but only as an intentional decision that benefits are likely to outweigh risks after discussion between the clinician and patient. Clinicians should reassess the patient's pain, function, and treatment course; ensure that potentially reversible causes of chronic pain are addressed; and optimize pain management as needed (see Recommendation 2).
 
@@ -1251,7 +1251,7 @@ In analyses of placebo-controlled trials, the clinical evidence reviews found th
 
 ---
 
-### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^f7061ca2]. Journal of General Internal Medicine (2024). Medium credibility.
+### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^117KDzg9]. Journal of General Internal Medicine (2024). Medium credibility.
 
 RESULTS
 
@@ -1275,19 +1275,19 @@ MME = milligram morphine equivalents
 
 ---
 
-### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^d55e9730]. Annals of Internal Medicine (2023). High credibility.
+### The use of opioids in the management of chronic pain: synopsis of the 2022 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^116TL8oH]. Annals of Internal Medicine (2023). High credibility.
 
 Military Health System (MHS) opioid prescribing trends — declines are noted across MHS with the most dramatic decline among ADSMs; from April 2017 to July 2021, ADSMs saw a 69% decline in prescriptions filled for opioids at a strength of 50 morphine milligrams equivalent (MME) per day or more, and reductions also occurred among non-active duty beneficiaries under age 65 and those 65 and over.
 
 ---
 
-### Nonpharmacologic and pharmacologic management of acute pain from non-low back, musculoskeletal injuries in adults: a clinical guideline from the American College of Physicians and American Academy of Family Physicians [^c3c659ab]. Annals of Internal Medicine (2020). High credibility.
+### Nonpharmacologic and pharmacologic management of acute pain from non-low back, musculoskeletal injuries in adults: a clinical guideline from the American College of Physicians and American Academy of Family Physicians [^1161FD8N]. Annals of Internal Medicine (2020). High credibility.
 
 Acute non–low back musculoskeletal injury — predictors of prolonged opioid use: Low-certainty evidence indicates that longer prescribing periods (> 7 days compared with 1 to 3 days) and higher morphine milligram equivalents per day are predictors of risk for prolonged use.
 
 ---
 
-### High-dose opioid utilization and mortality among individuals initiating hemodialysis [^8b454386]. BMC Nephrology (2021). Medium credibility.
+### High-dose opioid utilization and mortality among individuals initiating hemodialysis [^114ZUYYD]. BMC Nephrology (2021). Medium credibility.
 
 Trend of high-dose opioid utilization
 
@@ -1298,13 +1298,13 @@ Average percentage of days on opioids by dose* of total days observed among adul
 
 ---
 
-### Clinical policy: critical issues related to opioids in adult patients presenting to the emergency department [^28026f04]. Annals of Emergency Medicine (2020). High credibility.
+### Clinical policy: critical issues related to opioids in adult patients presenting to the emergency department [^1122KKgf]. Annals of Emergency Medicine (2020). High credibility.
 
 Emergency department opioid prescribing — retrospective national insurance claims analysis (Delgado et al., 2018) evaluated the association between initial opioid prescription intensity and transition to prolonged use from 2011 to 2015, defining prolonged use as ≥ 4 opioid prescriptions 30 to 180 days after index visit and including dosing thresholds such as > 225 MMEs. Among 30,832 included patients, 7,739 (25.1%) received an opioid with median MME of 100 (IQR 75 to 113), a tab quantity of 15 (IQR 12 to 20), for a median of 3 days (IQR 2 to 4 days). Among 25,849 with 6-mo continuous enrollment after the index emergency department (ED) visit, 6,463 (25%) received an opioid prescription MMEs > 225 (≥ 30 tabs of oxycodone 5 mg). Adjusted prolonged opioid use was 4.9% (95% CI 1.8% to 8.1%) compared with 1.1% (95% CI 0.7% to 1.5%), and limitations noted that there appears there is no adjustment for clustering by provider or state.
 
 ---
 
-### Association between initial opioid prescribing patterns and subsequent long-term use among opioid-Naïve patients: a statewide retrospective cohort study [^430bd066]. Journal of General Internal Medicine (2017). Low credibility.
+### Association between initial opioid prescribing patterns and subsequent long-term use among opioid-Naïve patients: a statewide retrospective cohort study [^112iQ93B]. Journal of General Internal Medicine (2017). Low credibility.
 
 Background
 
@@ -1340,7 +1340,7 @@ Early opioid prescribing patterns are associated with long-term use. While patie
 
 ---
 
-### Alternatives to opioid education and a prescription drug monitoring program cumulatively decreased outpatient opioid prescriptions [^644ab501]. Pain Medicine (2021). Medium credibility.
+### Alternatives to opioid education and a prescription drug monitoring program cumulatively decreased outpatient opioid prescriptions [^113ZgrbJ]. Pain Medicine (2021). Medium credibility.
 
 Introduction
 
@@ -1360,7 +1360,7 @@ Initiating a PDMP and instituting an aggressive ALTO program along with EHR-modi
 
 ---
 
-### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^cd2203b6]. JAMA Health Forum (2024). High credibility.
+### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^116F7tRj]. JAMA Health Forum (2024). High credibility.
 
 IMPORTANCE
 
@@ -1392,7 +1392,7 @@ The results of this cohort study suggest that opioid prescribing limits are not 
 
 ---
 
-### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^0269303e]. JAMA Health Forum (2024). High credibility.
+### Changes in postpartum opioid prescribing after implementation of state opioid prescribing limits [^1114aJoP]. JAMA Health Forum (2024). High credibility.
 
 Importance
 
@@ -1424,7 +1424,7 @@ The results of this cohort study suggest that opioid prescribing limits are not 
 
 ---
 
-### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^02d71bdd]. Journal of General Internal Medicine (2024). Medium credibility.
+### Impact of 30-day prescribed opioid dose trajectory on fatal overdose risk: a population-based, statewide cohort study [^1115DEDr]. Journal of General Internal Medicine (2024). Medium credibility.
 
 DISCUSSION
 
@@ -1436,13 +1436,13 @@ Most importantly, our results underscore that, for patients taking ≥ 90 MME pe
 
 ---
 
-### An exploratory analysis of differential prescribing of high-risk opioids by insurance type among patients seen by the same clinician [^9fd9ce46]. Journal of General Internal Medicine (2023). Medium credibility.
+### An exploratory analysis of differential prescribing of high-risk opioids by insurance type among patients seen by the same clinician [^1155zC1K]. Journal of General Internal Medicine (2023). Medium credibility.
 
 For each payer group, we performed bivariate analyses to identify associations between prescriber status (balanced, moderate, unbalanced, high-risk) and prescriber and county characteristics. To identify factors associated with being an unbalanced prescriber, we used multivariable regression to compare unbalanced prescribers to all other prescribers, by specialty and controlling for county urbanicity, opioid per capita dispensed, fatal overdose rate, and percent of non-White residents. We controlled for minimum log-transformed volume of patients of each prescriber receiving opioids to correct uncertainty in the unbalanced group that could be introduced by disproportionately high-volume prescribers. We included state fixed effects and robust standard errors clustered at the county level to account for unobserved correlation structures across observations within a county. We performed bivariate analyses of patient characteristics by episode overall and by prescriber status for each dyad, and conducted sensitivity analyses where high-dose prescriptions were defined as MME daily dose > 90. The study was approved with a waiver of consent by the corresponding author's IRB.
 
 ---
 
-### Electronic advisories increase naloxone prescribing across health care settings [^daea8a30]. Journal of General Internal Medicine (2023). Medium credibility.
+### Electronic advisories increase naloxone prescribing across health care settings [^116bZ5dy]. Journal of General Internal Medicine (2023). Medium credibility.
 
 Background
 
@@ -1474,7 +1474,7 @@ EHR advisories are an effective systems-level intervention to enhance the safety
 
 ---
 
-### Total inpatient morphine milligram equivalents can predict long-term opioid use after transforaminal lumbar interbody fusion [^b9beca30]. Spine (2019). Medium credibility.
+### Total inpatient morphine milligram equivalents can predict long-term opioid use after transforaminal lumbar interbody fusion [^115kNo27]. Spine (2019). Medium credibility.
 
 Study Design
 
@@ -1502,7 +1502,7 @@ Exceeding the threshold of 500 total MMEs in the immediate postoperative period 
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^509130ca]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^1134Sn5w]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Patients with Previous Overdose
 
@@ -1512,13 +1512,13 @@ If patients experience nonfatal opioid overdose, clinicians should evaluate them
 
 ---
 
-### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^6959957d]. MMWR: Recommendations and Reports (2022). Medium credibility.
+### CDC clinical practice guideline for prescribing opioids for pain-United States, 2022 [^113hBnpt]. MMWR: Recommendations and Reports (2022). Medium credibility.
 
 Four observational studies identified in the clinical evidence reviews consistently found an association between higher doses of long-term opioids and risk for overdose or overdose death. Opioid dosages for chronic pain of 50 to < 100 MME/day in observational studies have been associated with increased risks for opioid overdose by factors of 1.9–4.6 compared with dosages of 1 to < 20 MME/day, and dosages of ≥ 100 MME/day were found to be associated with increased risks for overdose 2.0–8.9 times the risk at 1 to < 20 MME/day, after adjusting for confounders on the basis of demographics, comorbidities, concomitant medications, and other factors. When opioids are prescribed for acute pain, similar associations have been found, with dosages of 50 to < 100 MME/day associated with 4.73 times the risk for overdose and dosages of ≥ 100 MME/day associated with 6.64 times the risk, compared with dosages of 1 to < 20 MME/day. The MME cut points in these studies (e.g. 20 MME, 50 MME, and 100 MME) were selected by the authors for research purposes, and whereas their findings are consistent with progressive increases in overdose risk being associated with increases in prescribed opioid dosages, they do not demonstrate a specific dosage threshold below which opioids are never associated with overdose. In a national sample of Veterans Health Administration patients with chronic pain who were prescribed opioids, mean prescribed daily opioid dosage among patients who died from opioid overdose was 98 MME (median: 60 MME), compared with mean prescribed daily opioid dosage of 48 MME (median: 25 MME) among patients not experiencing fatal overdose. A narrative review conducted by FDA staff concluded that, although there is not a single dosage threshold below which overdose risk is eliminated, the studies included in the review indicated an increasing risk for serious adverse health outcomes, including misuse, overdose, and death associated with increasing opioid dose. These studies examined dose-response risk for overdose for full agonist opioids and not for partial agonist opioids such as buprenorphine, which is unlikely to have the same continuous association between dosage and overdose risk because respiratory depressant effects of buprenorphine reach a plateau.
 
 ---
 
-### Opioid prescribing patterns among medical providers in the United States, 2003–17: retrospective, observational study [^d37128d5]. BMJ (2020). Excellent credibility.
+### Opioid prescribing patterns among medical providers in the United States, 2003–17: retrospective, observational study [^116QUPzC]. BMJ (2020). Excellent credibility.
 
 Objective
 
@@ -1550,6 +1550,6 @@ Most prescriptions written by the majority of providers are under the recommende
 
 ---
 
-### ACOEM practice guidelines: opioids for treatment of acute, subacute, chronic, and postoperative pain [^804eb642]. Journal of Occupational and Environmental Medicine (2014). Medium credibility.
+### ACOEM practice guidelines: opioids for treatment of acute, subacute, chronic, and postoperative pain [^114HDrWD]. Journal of Occupational and Environmental Medicine (2014). Medium credibility.
 
 ACOEM opioids — Dose threshold notes statistical significance for acute and chronic pain at and above 50 mg/day of morphine equivalent dose, and states that the maximum daily oral dose recommended based on risk of overdose/death is 50-mg morphine equivalent daily dose (MED).

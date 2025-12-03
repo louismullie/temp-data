@@ -15,7 +15,7 @@ is blood 90% water
 
 > Let's see… What do we have here? The user is asking whether blood is 90% water. Let's break this down step-by-step. First, I need to think about what exactly "blood" includes and whether the question refers to whole blood or to plasma. Then, I should verify the water content of plasma and the water content of whole blood. Next, I will check how hematocrit influences the overall water percentage. Finally, I will reconcile any conflicting statements and state the correct answer with supporting references.
 
-> Let me first confirm the terminology so I don't misstate the answer. Blood is composed of plasma, the liquid portion, and formed elements, primarily red blood cells, along with white cells and platelets; plasma typically accounts for about 55% of whole blood volume, while red cells comprise most of the remaining 45%, a relationship captured by the hematocrit, which is roughly 40–45% in healthy adults [^e5bda63b] [^6ae4e230].
+> Let me first confirm the terminology so I don't misstate the answer. Blood is composed of plasma, the liquid portion, and formed elements, primarily red blood cells, along with white cells and platelets; plasma typically accounts for about 55% of whole blood volume, while red cells comprise most of the remaining 45%, a relationship captured by the hematocrit, which is roughly 40–45% in healthy adults [^116sbsCe] [^113jUZtB].
 
 > Now, I should verify the water content of plasma itself. Multiple authoritative sources state that plasma is about 90% water, which aligns with standard teaching and pathophysiology references; for example, a high-quality review notes that blood plasma consists of about 90% water, and this figure is echoed in discussions of dehydration physiology and exercise-related hemoconcentration, where plasma water content is central to viscosity and volume changes.
 
@@ -35,7 +35,7 @@ Blood is **not 90% water**; whole blood is about **60% water** by volume, while 
 
 ## Composition of whole blood
 
-Whole blood consists of **plasma and formed elements** (red blood cells, white blood cells, and platelets). Plasma accounts for approximately 55% of total blood volume, while formed elements account for the remaining 45% [^e5bda63b].
+Whole blood consists of **plasma and formed elements** (red blood cells, white blood cells, and platelets). Plasma accounts for approximately 55% of total blood volume, while formed elements account for the remaining 45% [^116sbsCe].
 
 | **Component** | **Percentage of total blood volume** |
 |-|-|
@@ -46,7 +46,7 @@ Whole blood consists of **plasma and formed elements** (red blood cells, white b
 
 ## Water content in plasma
 
-Plasma is the liquid portion of blood and is **approximately 90% water** [^8b50dc5e]. The remaining 10% consists of proteins, electrolytes, hormones, vitamins, and other dissolved substances. This high water content is essential for transporting nutrients, hormones, and waste products throughout the body.
+Plasma is the liquid portion of blood and is **approximately 90% water** [^114ZYSU5]. The remaining 10% consists of proteins, electrolytes, hormones, vitamins, and other dissolved substances. This high water content is essential for transporting nutrients, hormones, and waste products throughout the body.
 
 ---
 
@@ -60,9 +60,9 @@ Whole blood, which includes both plasma and formed elements, has a **lower water
 
 Understanding the water content of blood is clinically significant for several reasons:
 
-- **Hydration assessment**: Clinicians use blood tests, such as hematocrit and plasma osmolality, to assess hydration status. Changes in plasma water content can indicate dehydration or overhydration [^0700d5fb].
+- **Hydration assessment**: Clinicians use blood tests, such as hematocrit and plasma osmolality, to assess hydration status. Changes in plasma water content can indicate dehydration or overhydration [^111BPCFt].
 
-- **Fluid therapy**: Knowledge of blood water content is essential for calculating fluid requirements in patients, particularly in critical care settings [^d62870a3].
+- **Fluid therapy**: Knowledge of blood water content is essential for calculating fluid requirements in patients, particularly in critical care settings [^116UVw9C].
 
 - **Medication dosing**: Drug distribution and dosing calculations often consider plasma volume and water content to ensure accurate therapeutic levels.
 
@@ -76,7 +76,7 @@ Blood is **not 90% water**; whole blood is approximately 60% water, while plasma
 
 ## References
 
-### Blood lead concentrations of children in the United States: a comparison of States using two very large databases [^af4a3b32]. The Journal of Pediatrics (2017). Low credibility.
+### Blood lead concentrations of children in the United States: a comparison of States using two very large databases [^115UsmTX]. The Journal of Pediatrics (2017). Low credibility.
 
 Objectives
 
@@ -96,13 +96,13 @@ The data presented in this study can be a resource for pediatricians and public 
 
 ---
 
-### Prevention of childhood lead toxicity [^aacb79d7]. Pediatrics (2016). Medium credibility.
+### Prevention of childhood lead toxicity [^115NDEwQ]. Pediatrics (2016). Medium credibility.
 
 Drinking water lead exposure — water is an important but often overlooked source for children, especially for infants who are formula fed; water typically contributes to approximately 20% of a child's blood lead concentrations if the water lead concentration exceeds 5 ppb, and the contribution can be much higher for some children, especially for infants who ingest large quantities of tap water; children who reside in communities with lead service lines and inadequate anticorrosion control are also at increased risk for elevated blood lead concentrations.
 
 ---
 
-### Fluid therapy in mechanically ventilated critically ill children: the sodium, chloride and water burden of fluid creep [^17f6691c]. BMC Pediatrics (2020). Medium credibility.
+### Fluid therapy in mechanically ventilated critically ill children: the sodium, chloride and water burden of fluid creep [^111cXUwu]. BMC Pediatrics (2020). Medium credibility.
 
 Table 3
 Daily Water, Sodium, Chloride input, and source
@@ -120,19 +120,19 @@ The three pie charts represent the percentage contribution of each fluid categor
 
 ---
 
-### Physiologic basis for understanding quantitative dehydration assessment [^a9cba35c]. The American Journal of Clinical Nutrition (2013). Low credibility.
+### Physiologic basis for understanding quantitative dehydration assessment [^115LjJpK]. The American Journal of Clinical Nutrition (2013). Low credibility.
 
 Dehydration (body water deficit) is a physiologic state that can have profound implications for human health and performance. Unfortunately, dehydration can be difficult to assess, and there is no single, universal gold standard for decision making. In this article, we review the physiologic basis for understanding quantitative dehydration assessment. We highlight how phenomenologic interpretations of dehydration depend critically on the type (dehydration compared with volume depletion) and magnitude (moderate compared with severe) of dehydration, which in turn influence the osmotic (plasma osmolality) and blood volume-dependent compensatory thresholds for antidiuretic and thirst responses. In particular, we review new findings regarding the biological variation in osmotic responses to dehydration and discuss how this variation can help provide a quantitative and clinically relevant link between the physiology and phenomenology of dehydration. Practical measures with empirical thresholds are provided as a starting point for improving the practice of dehydration assessment.
 
 ---
 
-### Pediatricians and public health: optimizing the health and well-being of the nation's children [^7c2b4a2f]. Pediatrics (2018). Medium credibility.
+### Pediatricians and public health: optimizing the health and well-being of the nation's children [^114B61JE]. Pediatrics (2018). Medium credibility.
 
 Flint water contamination crisis — after officials changed Flint, Michigan's water supply without corrosion control, pediatric data showed increased lead exposure: the number of children < 5 years old with blood lead concentrations of > 5 μg/dL increased, and the percentage of Flint children with blood lead concentrations of > 5 μg/dL increased from 2.4% to 4.9%; in areas with higher water-lead content, it increased from 4% to 10.6%. The > 5 μg/dL threshold corresponds to the concentration, based on the US population, of children ages 1–5 years who are in the top 2.5% when tested for blood lead. In January 2016, both the state and federal governments declared a state of emergency and authorized aid to address the crisis and its effects on child development.
 
 ---
 
-### Evaluation and review of body fluids saliva, sweat and tear compared to biochemical hydration assessment markers within blood and urine [^77c04769]. European Journal of Clinical Nutrition (2018). Low credibility.
+### Evaluation and review of body fluids saliva, sweat and tear compared to biochemical hydration assessment markers within blood and urine [^1144Y7Rz]. European Journal of Clinical Nutrition (2018). Low credibility.
 
 Introduction
 
@@ -142,13 +142,13 @@ Changes in body mass (BMc) are often used as measures of (de)hydration. This mea
 
 ---
 
-### Multinational Association of Supportive Care in Cancer (MASCC) expert opinion / guidance on the use of clinically assisted hydration in patients with advanced cancer [^76adfdfe]. Supportive Care in Cancer (2024). High credibility.
+### Multinational Association of Supportive Care in Cancer (MASCC) expert opinion / guidance on the use of clinically assisted hydration in patients with advanced cancer [^1142wytq]. Supportive Care in Cancer (2024). High credibility.
 
 Fluid requirements — body water composition indicates that water makes up ~ 60% of human body weight, equating to 42 l in a 70-kg man; two-thirds (28 l) is intracellular and one-third (14 l) is extracellular, with extracellular water comprising 10 l of interstitial fluid (including lymph), 3 l of plasma, and 1 l of "transcellular" fluid; homeostatic mechanisms normally maintain relatively constant levels of body water (± 0.2% body weight during a 24-h period).
 
 ---
 
-### Dehydration is how you define it: comparison of 318 blood and urine athlete spot checks [^0700d5fb]. BMJ Open Sport & Exercise Medicine (2018). Medium credibility.
+### Dehydration is how you define it: comparison of 318 blood and urine athlete spot checks [^111BPCFt]. BMJ Open Sport & Exercise Medicine (2018). Medium credibility.
 
 Introduction
 
@@ -160,7 +160,7 @@ In contrast to non-invasive measures of hydration status, clinical medicine is r
 
 ---
 
-### Outcomes in randomized clinical trials testing changes in daily water intake: a systematic review [^c7146ef4]. JAMA Network Open (2024). High credibility.
+### Outcomes in randomized clinical trials testing changes in daily water intake: a systematic review [^11669Q9y]. JAMA Network Open (2024). High credibility.
 
 Weight Loss
 
@@ -174,7 +174,7 @@ Two studies (11%), assessed the effect of a water intervention on fasting blood 
 
 ---
 
-### Quantitative theory for the longitudinal relaxation time of blood water [^3595958b]. Magnetic Resonance in Medicine (2016). Low credibility.
+### Quantitative theory for the longitudinal relaxation time of blood water [^112NSb54]. Magnetic Resonance in Medicine (2016). Low credibility.
 
 Purpose
 
@@ -194,13 +194,13 @@ The model provides physical and physiological parameters describing the effects 
 
 ---
 
-### Analysis of blood lead levels of young children in flint, Michigan before and during the 18-month switch to flint river water [^681dcd09]. Clinical Toxicology (2019). Medium credibility.
+### Analysis of blood lead levels of young children in flint, Michigan before and during the 18-month switch to flint river water [^113fMisr]. Clinical Toxicology (2019). Medium credibility.
 
 Background: The toxicity of lead, like any xenobiotic, is directly linked to the duration of exposure and toxin concentration in the body. The elevation in blood lead levels (BLLs) in young Flint, Michigan children noted in time-periods before, and during the 18-month exposure to Flint River water (FRW) from 25 April 2014 to 15 October 2015 is well-known internationally. The length of time BLLs were elevated is unknown, yet key in understanding the potential health impact of the event. The objective of this study was to evaluate whether BLLs in Flint children were increased during the entire 18-month FRW exposure compared to similar earlier time periods. Methods: We conducted a retrospective study analyzing BLLs from Flint children aged 5 years and under. The geometric mean (GM) BLLs and percentages of BLLs ≥ 5.0μg/dL in Period I: 25 April 2006 to 15 October 2007 (earliest timeframe available for study) and Period II: 25 April 2012 to 15 October 2013 (timeframe immediately before the water switch), were compared to Period III, 25 April 2014 to 15 October 2015 (FRW exposure). Results: There were 5663 BLLs available for study. GM ± SE BLLs decreased from 2.19 ± 0.03μg/dL in Period I to 1.47 ± 0.02μg/dL in Period II [95% CI, 0.64, 0.79]; p < .001 and decreased further to 1.32 ± 0.02 µg/dL during the FRW Period III [95% CI, 0.79, 0.95]; p < .001. The percentage of BLLs ≥ 5.0μg/dL decreased from Period I (10.6%) to Period II (3.3%) [95% CI, 5.7, 8.8]; p < .001 and from Period I to Period III (3.9%) [95% CI, 5.0, 8.2]; p = .002. The 0.6% increase from Period II to Period III was not statistically significant [95% CI, -1.9, 0.57]; p = .30. Conclusion: Analyses of GM and percentages ≥ 5.0μg/dL of BLLs do not support the occurrence of a global increase in BLLs in young children of Flint during the entire 18-month period of FRW exposure.
 
 ---
 
-### IOC consensus statement on recommendations and regulations for sport events in the heat [^df80ce43]. British Journal of Sports Medicine (2023). Medium credibility.
+### IOC consensus statement on recommendations and regulations for sport events in the heat [^116iMWBU]. British Journal of Sports Medicine (2023). Medium credibility.
 
 Hydration principles
 
@@ -213,13 +213,13 @@ A simple way to monitor hydration status during a period of training/competing i
 
 ---
 
-### Thirst neurons anticipate the homeostatic consequences of eating and drinking [^9e8f3c3b]. Nature (2016). Excellent credibility.
+### Thirst neurons anticipate the homeostatic consequences of eating and drinking [^115459yU]. Nature (2016). Excellent credibility.
 
 Thirst motivates animals to drink in order to maintain fluid balance. Thirst has conventionally been viewed as a homeostatic response to changes in blood volume or tonicity. However, most drinking behaviour is regulated too rapidly to be controlled by blood composition directly, and instead seems to anticipate homeostatic imbalances before they arise. How this is achieved remains unknown. Here we reveal an unexpected role for the subfornical organ (SFO) in the anticipatory regulation of thirst in mice. By monitoring deep-brain calcium dynamics, we show that thirst-promoting SFO neurons respond to inputs from the oral cavity during eating and drinking and then integrate these inputs with information about the composition of the blood. This integration allows SFO neurons to predict how ongoing food and water consumption will alter fluid balance in the future and then to adjust behaviour pre-emptively. Complementary optogenetic manipulations show that this anticipatory modulation is necessary for drinking in several contexts. These findings provide a neural mechanism to explain longstanding behavioural observations, including the prevalence of drinking during meals, the rapid satiation of thirst, and the fact that oral cooling is thirst-quenching.
 
 ---
 
-### Water injection (sterile water) [^3b69d421]. FDA (2025). Medium credibility.
+### Water injection (sterile water) [^112X5pLQ]. FDA (2025). Medium credibility.
 
 Clinical Pharmacology
 
@@ -231,13 +231,13 @@ The small volume of fluid provided by Sterile Water for Injection, USP when used
 
 ---
 
-### Water as an essential nutrient: the physiological basis of hydration [^1b42cdd1]. European Journal of Clinical Nutrition (2010). Low credibility.
+### Water as an essential nutrient: the physiological basis of hydration [^111hR74C]. European Journal of Clinical Nutrition (2010). Low credibility.
 
 How much water we really need depends on water functions and the mechanisms of daily water balance regulation. The aim of this review is to describe the physiology of water balance and consequently to highlight the new recommendations with regard to water requirements. Water has numerous roles in the human body. It acts as a building material; as a solvent, reaction medium and reactant; as a carrier for nutrients and waste products; in thermoregulation; and as a lubricant and shock absorber. The regulation of water balance is very precise, as a loss of 1% of body water is usually compensated within 24 h. Both water intake and water losses are controlled to reach water balance. Minute changes in plasma osmolarity are the main factors that trigger these homeostatic mechanisms. Healthy adults regulate water balance with precision, but young infants and elderly people are at greater risk of dehydration. Dehydration can affect consciousness and can induce speech incoherence, extremity weakness, hypotonia of ocular globes, orthostatic hypotension and tachycardia. Human water requirements are not based on a minimal intake because it might lead to a water deficit due to numerous factors that modify water needs (climate, physical activity, diet and so on). Water needs are based on experimentally derived intake levels that are expected to meet the nutritional adequacy of a healthy population. The regulation of water balance is essential for the maintenance of health and life. On an average, a sedentary adult should drink 1.5 l of water per day, as water is the only liquid nutrient that is really essential for body hydration.
 
 ---
 
-### Hypernatremia [^05a765fe]. The New England Journal of Medicine (2000). Excellent credibility.
+### Hypernatremia [^1119PAbP]. The New England Journal of Medicine (2000). Excellent credibility.
 
 The clinical calculator "Free Water Deficit in Hypernatremia" for hypernatremia.
 
@@ -267,7 +267,7 @@ This calculator offers a tailored analysis essential for the customized manageme
 
 ---
 
-### New compartment model for hepatic blood flow quantification in humans from 15O-water PET images [^a74225be]. European Journal of Nuclear Medicine and Molecular Imaging (2025). Medium credibility.
+### New compartment model for hepatic blood flow quantification in humans from 15O-water PET images [^115Gy9id]. European Journal of Nuclear Medicine and Molecular Imaging (2025). Medium credibility.
 
 Discussion
 
@@ -275,7 +275,7 @@ In this article, we introduced a new compartment model for HBF quantification fr
 
 ---
 
-### Bacteriostatic water [^e2fc4edb]. FDA (2025). Medium credibility.
+### Bacteriostatic water [^116oWx3c]. FDA (2025). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -287,7 +287,7 @@ The small volume of fluid provided by Bacteriostatic Water for Injection, USP wh
 
 ---
 
-### Water injection (sterile water) [^ffcf389d]. FDA (2025). Medium credibility.
+### Water injection (sterile water) [^117YFSrY]. FDA (2025). Medium credibility.
 
 Warnings
 
@@ -295,7 +295,7 @@ Intravenous administration of Sterile Water for Injection without a solute may r
 
 ---
 
-### Relation between urinary hydration biomarkers and total fluid intake in healthy adults [^14454c11]. European Journal of Clinical Nutrition (2013). Low credibility.
+### Relation between urinary hydration biomarkers and total fluid intake in healthy adults [^111X42et]. European Journal of Clinical Nutrition (2013). Low credibility.
 
 Introduction
 
@@ -305,7 +305,7 @@ Establishing the adequacy of fluid intake based on physiological indicators of h
 
 ---
 
-### Outcomes in randomized clinical trials testing changes in daily water intake: a systematic review [^d9dc2f69]. JAMA Network Open (2024). High credibility.
+### Outcomes in randomized clinical trials testing changes in daily water intake: a systematic review [^116ZzGhv]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -315,7 +315,7 @@ Behavioral factors and hydration status have been widely studied in relation to 
 
 ---
 
-### Mapping human brain capillary water lifetime: high-resolution metabolic neuroimaging [^f61b21fc]. NMR in Biomedicine (2015). Low credibility.
+### Mapping human brain capillary water lifetime: high-resolution metabolic neuroimaging [^117Hs4uy]. NMR in Biomedicine (2015). Low credibility.
 
 Mean brain intra‐capillary blood water molecule lifetime (τ b)
 
@@ -323,7 +323,7 @@ The average erythrocyte speed through cerebral cortical capillaries is 2 mm s �
 
 ---
 
-### Principles of tracer kinetic analysis in oncology, part II: examples and future directions [^d202392e]. Journal of Nuclear Medicine (2022). Medium credibility.
+### Principles of tracer kinetic analysis in oncology, part II: examples and future directions [^116NM9Vf]. Journal of Nuclear Medicine (2022). Medium credibility.
 
 Additional Applications of Blood Flow and 18 F-FDG Kinetic Analysis
 
@@ -331,7 +331,7 @@ The ability of both 18 F-FDG K 1 and blood flow, as estimated by 15 O-water, mot
 
 ---
 
-### Intravascular volume therapy in adults: guidelines from the Association of the Scientific Medical Societies in Germany [^d62870a3]. European Journal of Anaesthesiology (2016). Low credibility.
+### Intravascular volume therapy in adults: guidelines from the Association of the Scientific Medical Societies in Germany [^116UVw9C]. European Journal of Anaesthesiology (2016). Low credibility.
 
 Chapter 1: Diagnosis of hypovolaemia
 
@@ -350,7 +350,7 @@ Total body water is held enclosed in various fluid spaces (compartments): two-th
 
 ---
 
-### A neuroradiologist's guide to arterial spin labeling MRI in clinical practice [^16cca6fc]. Neuroradiology (2015). Low credibility.
+### A neuroradiologist's guide to arterial spin labeling MRI in clinical practice [^111aoU9Z]. Neuroradiology (2015). Low credibility.
 
 Arterial labeling efficiency is the first key aspect to a good ASL acquisition. How effectively we invert the longitudinal magnetisation directly affects the eventually acquired signal. Efficiencies, designated with α, can range from 80 to 98% with currently available pulse sequences, which need to be taken into account when quantifying CBF.
 
@@ -362,7 +362,7 @@ Three main categories of ASL pulse sequences have been developed, each aiming to
 
 ---
 
-### 50% dextrose [^35f8e8d5]. FDA (2024). Medium credibility.
+### 50% dextrose [^112P1x5r]. FDA (2024). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -376,13 +376,13 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### SHEA practice update: infection prevention and control (IPC) in residential facilities for pediatric patients and their families [^04b060a0]. Infection Control and Hospital Epidemiology (2024). High credibility.
+### SHEA practice update: infection prevention and control (IPC) in residential facilities for pediatric patients and their families [^1117xCEj]. Infection Control and Hospital Epidemiology (2024). High credibility.
 
 SHEA IPC in pediatric residential facilities — environmental disinfection and bleach use provides specific product selection, dilution, and contact-time instructions. For areas that require disinfection, such as toilet and diapering areas and food preparation areas, use hospital-grade germicides, and follow manufacturers' instructions for use when mixing liquids for disinfecting floors and surfaces. Use regular, unscented household bleach containing 5%–9% sodium hypochlorite, and do not use a bleach product if the percentage is not in this range or if it is not specified on the label; if bottle directions are absent, a bleach solution can be made by mixing 5 tablespoons (1/3 cup) of bleach per gallon of room temperature water. Always follow the manufacturer's instructions for keeping the surface wet for at least 1 minute before removing or wiping the surface, and make a new diluted bleach solution daily. For blood or other potentially infectious body fluid spills, disinfect the surface with an EPA-registered disinfectant labeled to kill tuberculosis ("tuberculocidal") or a bleach solution; a more concentrated bleach solution of 1 part bleach to 9 parts water is used with large blood spills and when disinfecting the room of a guest with recent C. difficile infection (CDI). When using EPA-registered products, adhere to contact or "dwell" time and keep surfaces wet during the entire contact time, and note that the US Occupational Safety and Health Administration (OSHA) requires that employers provide their workers with the Safety Data Sheet for any cleaning products employees should use.
 
 ---
 
-### Protective role of aquaporin-4 water channels after contusion spinal cord injury [^8e1a6634]. Annals of Neurology (2010). Low credibility.
+### Protective role of aquaporin-4 water channels after contusion spinal cord injury [^114dg7KH]. Annals of Neurology (2010). Low credibility.
 
 Objective
 
@@ -402,25 +402,25 @@ These results suggest that AQP4 plays a protective role after contusion SCI by f
 
 ---
 
-### Non-invasive MRI of blood-cerebrospinal fluid barrier function [^9f3277f5]. Nature Communications (2020). High credibility.
+### Non-invasive MRI of blood-cerebrospinal fluid barrier function [^11551z1r]. Nature Communications (2020). High credibility.
 
 In the context of this work, it is important to consider the difference between water exchange and net secretion. Our quantitative estimates of the rate of labelled water delivery by the BCSFB to ventricular CSF do not represent a measure of CSF secretion, but primarily reflects the exchange of labelled blood water across the BCSFB. Thus, our measure reflects the rate of perfusion of the CP convolved with its permeability to labelled blood water. Given the huge CSF-facing surface area of the CP and its high vascular density, and based on the high extraction fraction of blood water in the brain tissue (~90%,–), we surmise that 100% of labelled blood water crosses from the CP to ventricular CSF. There is wide ranging evidence to suggest that the rate of CSF secretion is coupled to perfusion of the choroid plexus. Thus, it is likely that the BCSFB-ASL measures in this work represent a correlate of CSF secretion. Indeed the observed correlations between our estimates of BCSFB function and ventricular volume suggest that this is the case (given wide ranging evidence that CSF secretion plays a role in determining ventricle size). However, further studies that more fully explore this relationship using invasive measures of CSF secretion (e.g. Masserman or Papenheimer technique) would be valuable. Taking the average rate of BCSFB-mediated labelled water delivery to the lateral ventricles and incorporating the total size of the functional voxels (11.25 mm 3) returns a total BCSFB-labelled water delivery rate to the lateral ventricles of 2.7 µl/min. Unsurprisingly, this is markedly greater than previous estimates of CSF secretion in the mouse brain (~0.3 µl/min) which reflects higher rates of water exchange/flux vs. net secretion across blood vessels (see Hladky et al.for detailed discussion). However, it is also important to consider that the previous estimates of CSF secretion will include contribution from CP tissue in the third and fourth ventricle as well as possible extra-choroidal sources such as the BBBmaking it difficult to directly relate previous estimates of CSF secretion to rates of BCSFB-mediated labelled blood water delivery from the lateral ventricles that is estimated in this work.
 
 ---
 
-### Long-term health outcomes associated with hydration status [^89aa43b8]. Nature Reviews: Nephrology (2024). High credibility.
+### Long-term health outcomes associated with hydration status [^114X6VdR]. Nature Reviews: Nephrology (2024). High credibility.
 
 Body water balance is determined by fundamental homeostatic mechanisms that maintain stable volume, osmolality and the composition of extracellular and intracellular fluids. Water balance is maintained by multiple mechanisms that continuously match water losses through urine, the skin, the gastrointestinal tract and respiration with water gains achieved through drinking, eating and metabolic water production. Hydration status is determined by the state of the water balance. Underhydration occurs when a decrease in body water availability, due to high losses or low gains, stimulates adaptive responses within the water balance network that are aimed at decreasing losses and increasing gains. This stimulation is also accompanied by cardiovascular adjustments. Epidemiological and experimental studies have linked markers of low fluid intake and underhydration - such as increased plasma concentration of vasopressin and sodium, as well as elevated urine osmolality - with an increased risk of new-onset chronic diseases, accelerated aging and premature mortality, suggesting that persistent activation of adaptive responses may be detrimental to long-term health outcomes. The causative nature of these associations is currently being tested in interventional trials. Understanding of the physiological responses to underhydration may help to identify possible mechanisms that underlie potential adverse, long-term effects of underhydration and inform future research to develop preventative and treatment approaches to the optimization of hydration status.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the treatment and prevention of drowning: 2024 update [^3750d52e]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the treatment and prevention of drowning: 2024 update [^112R1UFP]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Alcohol use and drowning risk — alcohol is a known contributing factor to drowning deaths, with a 2004 review finding that 30% to 70% of drowning fatalities have a measurable blood alcohol level and 10% to 30% of deaths directly attributed to alcohol use; in 2017, alcohol was a leading factor in boating-related deaths. We recommend avoiding alcohol and other intoxicating substances before and during water activities. Strong recommendation, low-quality evidence.
 
 ---
 
-### Shortwave-infrared meso-patterned imaging enables label-free mapping of tissue water and lipid content [^23309d4e]. Nature Communications (2020). High credibility.
+### Shortwave-infrared meso-patterned imaging enables label-free mapping of tissue water and lipid content [^111uAtx5]. Nature Communications (2020). High credibility.
 
 Phantom validation studies
 
@@ -430,13 +430,13 @@ A series of homogenous phantoms with varying water and lipid content were measur
 
 ---
 
-### ACSM expert consensus statement on weight loss in weight-category sports [^9e6eda27]. Current Sports Medicine Reports (2021). High credibility.
+### ACSM expert consensus statement on weight loss in weight-category sports [^1153tH6n]. Current Sports Medicine Reports (2021). High credibility.
 
 ACSM expert consensus — rapid weight loss via body water manipulation lists methods (passive sweating, active sweating, fluid restriction, water loading, diuretics, and blood withdrawal) with highlighted benefits and disadvantages. Methods include "Passive sweating (thermally stressful conditions e.g., sauna, hot bath, sweat suits etc.)", "Active sweating (exercise induced)", "Fluid restriction", "Water loading (intake of large volumes of fluid for days, followed by sudden fluid restriction on the day before weigh-in)", "Diuretics", and "Blood withdrawal preweigh-in (for reinfusion post weigh-in)". Benefits listed include "Relatively simple method of weight loss", "Promotes high sweat rates and thus weight loss", and "Better maintains plasma volume (than passive sweating)", while disadvantages include "Preferential loss of plasma volume", "Thermally stressful environment exacerbates risk of hyperthermia", "Banned in most sports", "Electrolyte imbalance and risk of muscle cramps", and "Requires sterile conditions to mitigate infection risk".
 
 ---
 
-### Plasma and serum volume remain unchanged following a 12-h fast from food and drink despite changes in blood and urinary hydration markers [^92e39cd7]. European Journal of Clinical Nutrition (2025). Medium credibility.
+### Plasma and serum volume remain unchanged following a 12-h fast from food and drink despite changes in blood and urinary hydration markers [^114kmePx]. European Journal of Clinical Nutrition (2025). Medium credibility.
 
 Fig. 2
 Graphs showing differences in the variables of age.
@@ -445,7 +445,7 @@ A Body mass (B), urine color (C), urine specific gravity (D), urine osmolality (
 
 ---
 
-### 5% dextrose [^995db1f9]. FDA (2020). Medium credibility.
+### 5% dextrose [^114vNaSt]. FDA (2020). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -461,13 +461,13 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^751e5b8a]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^113zdkPK]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Exercise-associated hyponatremia (EAH) — scope and prevention/treatment focus — notes it is beyond the scope of this guideline to provide an in-depth discussion of fluid hydration to prevent EAH and minimize the occurrence of ≥ 2% total body water loss, and states there is no single recommendation (drinking to thirst or preplanned scheduled drinking) that fits all individuals. The intent is to provide evidence to mitigate morbidity and mortality, recommend safe hydration guidance for preventing overhydration during exertional activities, and present evidence for the most effective treatment protocols when overhydration leads to mild to severe EAH.
 
 ---
 
-### Blood lead levels of children in flint, Michigan: 2006–2016 [^e0639b92]. The Journal of Pediatrics (2018). Low credibility.
+### Blood lead levels of children in flint, Michigan: 2006–2016 [^116jfge5]. The Journal of Pediatrics (2018). Low credibility.
 
 Objective
 
@@ -487,13 +487,13 @@ These findings suggest that the 11 year trend of annual decreases in BLLs in chi
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the treatment and prevention of drowning: 2019 update [^0bed8107]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the treatment and prevention of drowning: 2019 update [^111Jge3x]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Alcohol use — alcohol is a known contributing factor to drowning deaths, and in 2017, alcohol was a leading factor in boating-related deaths; a 2004 review found that 30 to 70% of drowning fatalities have a measurable blood alcohol level, with 10 to 30% of deaths being directly attributed to alcohol use. Alcohol and other intoxicating substances should be avoided before and during water activities. Recommendation Grade: 1C.
 
 ---
 
-### Atlas of plasma NMR biomarkers for health and disease in 118, 461 individuals from the UK biobank [^bffdfe16]. Nature Communications (2023). High credibility.
+### Atlas of plasma NMR biomarkers for health and disease in 118, 461 individuals from the UK biobank [^115udwzu]. Nature Communications (2023). High credibility.
 
 Plasma sample dilution issue
 
@@ -501,7 +501,7 @@ All UK Biobank blood samples are known to suffer from unintended dilution during
 
 ---
 
-### Sodium chloride, potassium chloride, and calcium chloride (Ringer's) [^01ce2879]. FDA (2023). Medium credibility.
+### Sodium chloride, potassium chloride, and calcium chloride (Ringer's) [^1113gEZn]. FDA (2023). Medium credibility.
 
 Normally about 80 to 90% of the potassium intake is excreted in the urine; the remainder in the stools and to a small extent, in the perspiration. The kidney does not conserve potassium well so that during fasting or in patients on a potassium free diet, potassium loss from the body continues resulting in potassium depletion.
 
@@ -513,13 +513,13 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### Quantitative blood loss in obstetric hemorrhage: ACOG COMMITTEE OPINION, number 794 [^6e883c57]. Obstetrics and Gynecology (2019). High credibility.
+### Quantitative blood loss in obstetric hemorrhage: ACOG COMMITTEE OPINION, number 794 [^113psQ5t]. Obstetrics and Gynecology (2019). High credibility.
 
 Tips for quantification of blood loss during cesarean births — begin the process of quantification of blood loss when the amniotic membranes are ruptured or after the infant is born; after delivery of the placenta, measure the amount of blood loss in the suction canister and drapes, notify the team, and document the amount of blood loss in milliliters; before adding irrigation fluid, ensure that the scrub team communicates when irrigation is beginning and note that some normal saline will be absorbed into tissues; one of two methods can be used to suction the irrigation fluid: continue to suction into the same canister and measure the amount of irrigation fluid or provide another suction tube to collect the irrigation separately into another canister; weigh all blood-soaked materials and clots, calculate the weight and convert to milliliters; at the end of the surgery, add the volume of quantified blood calculated by weight with the volume of quantified blood in the suction canister to determine total quantification of blood loss; note that lap pads dampened with normal saline contain minimal fluid and when saturated with blood, weigh them as you would a dry lap pad.
 
 ---
 
-### Drinking water: the saltier the better? [^f7079299]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^117KEV8k]. Journal of the American Heart Association (2019). Medium credibility.
 
 Figure 1
 The network of minerals (sodium [Na +], calcium [Ca 2+], magnesium [Mg 2+], and potassium [K +]) infiltrating the drinking groundwater supply, potential sources of water and mineral intake through diet, potential water and mineral excretion through physical activity, and their incompletely understood role in blood pressure and cardiovascular health.
@@ -528,7 +528,7 @@ Because this study assessed water samples and blood pressure at a single time po
 
 ---
 
-### Drinking water: the saltier the better? [^273831a5]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^11219Pji]. Journal of the American Heart Association (2019). Medium credibility.
 
 Despite some key limitations, this study offers interesting insights. With almost 40% of the world's population living within 100 km of an ocean or sea, 16 there is a high demand for fresh groundwater extraction. In fact, half a billion people in the world face severe freshwater scarcity year‐round. 17 Sea level rise associated with global climate change, coupled with increased demand for groundwater, may increase water salinity via saltwater intrusion in coastal regions. 2 The severity of such saltwater intrusion may compromise groundwater supply, increasing the need for consideration of water desalination. Managed aquifer recharge is a valuable technique to manage groundwater quantity and quality, including preventing some of the negative consequences of saltwater intrusion. 18 Managed aquifer recharge is likely a key solution for managing salinity in the drinking water in southwest coastal Bangladesh, but effectiveness can vary by season, as well as management of the process. 19 Another factor impacting groundwater supply is the location and depth of the well. The degree to which seawater infiltrates the groundwater can depend on the porosity or clay‐like conditions of the surrounding soil. Shallow wells may be more susceptible to seawater intrusion than deeper‐drilled wells. 19 There can also be seasonal differences affecting the drinking water supply, which may be exacerbated by climate change. These are all important considerations, not only for future clinical research on this topic, but for geologists, hydrologists, and public health officials alike.
 
@@ -536,7 +536,7 @@ This study highlights an important public health issue. If more people will be c
 
 ---
 
-### Perioperative water and electrolyte balance and water homeostasis regulation in children with acute surgery [^0b838e1a]. Pediatric Research (2023). Medium credibility.
+### Perioperative water and electrolyte balance and water homeostasis regulation in children with acute surgery [^111J53zy]. Pediatric Research (2023). Medium credibility.
 
 Discussion
 
@@ -546,13 +546,13 @@ Of equal importance to mention is that when the patients were admitted to the Em
 
 ---
 
-### Quantitative theory for the transverse relaxation time of blood water [^ea0b5db2]. NMR in Biomedicine (2020). Medium credibility.
+### Quantitative theory for the transverse relaxation time of blood water [^116yyvNV]. NMR in Biomedicine (2020). Medium credibility.
 
 An integrative model is proposed to describe the dependence of the transverse relaxation rate of blood water protons (R 2blood = 1/T 2blood) on hematocrit fraction and oxygenation fraction (Y). This unified model takes into account (a) the diamagnetic effects of albumin, hemoglobin and the cell membrane; (b) the paramagnetic effect of hemoglobin; (c) the effect of compartmental exchange between plasma and erythrocytes under both fast and slow exchange conditions that vary depending on field strength and compartmental relaxation rates and (d) the effect of diffusion through field gradients near the erythrocyte membrane. To validate the model, whole-blood and lysed-blood R 2 data acquired previously using Carr-Purcell-Meiboom-Gill measurements as a function of inter-echo spacing τ cp at magnetic fields of 3.0, 7.0, 9.4 and 11.7 T were fitted to determine the lifetimes (field-independent physiological constants) for water diffusion and exchange, as well as several physical constants, some of which are field-independent (magnetic susceptibilities) and some are field-dependent (relaxation rates for water protons in solutions of albumin and oxygenated and deoxygenated hemoglobin, ie, blood plasma and erythrocytes, respectively). This combined exchange-diffusion model allowed excellent fitting of the curve of the τ cp -dependent relaxation rate dispersion at all four fields using a single average erythrocyte water lifetime, τ ery = 9.1 ± 1.4 ms, and an averaged diffusional correlation time, τ D = 3.15 ± 0.43 ms. Using this model and the determined physiological time constants and relaxation parameters, blood T 2 values published by multiple groups based on measurements at magnetic field strengths of 1.5 T and higher could be predicted correctly within error. Establishment of this theory is a fundamental step for quantitative modeling of the BOLD effect underlying functional MRI.
 
 ---
 
-### Best practices for the design, laboratory analysis, and reporting of trials involving fatty acids [^e91df883]. The American Journal of Clinical Nutrition (2018). Low credibility.
+### Best practices for the design, laboratory analysis, and reporting of trials involving fatty acids [^116xcBYE]. The American Journal of Clinical Nutrition (2018). Low credibility.
 
 REPORTING
 
@@ -572,7 +572,7 @@ Expressing fatty acid concentrations in terms of concentration in a fluid (e.g. 
 
 ---
 
-### Blood concentration and its treatment… [^419775b2]. JAMA Network (2024). Excellent credibility.
+### Blood concentration and its treatment… [^112gF4zV]. JAMA Network (2024). Excellent credibility.
 
 The universal necessity of water for biologic processes is generally recognized; the consequences of deprivation of this medium in which the chemical changes of metabolism occur are not so clearly appreciated. In discussing the water balance of the body, Rowntree1 has pointed out that for the maintenance of health the intake must be sufficient to maintain the amount of water in the body tissues necessary for maximal efficiency in metabolism and in the execution of other physiologic processes. This involves the removal of waste products and the dissipation of heat. A certain degree of desiccation of various organs, tissues and fluids ensues when the amount of water eliminated from the body exceeds the amount ingested, plus that produced through metabolic processes. The untoward consequences of such situations have only begun in recent years to receive the serious consideration they deserve. The blood tends to maintain its integrity of composition BLOOD CONCENTRATION AND ITS TREATMENT.
 
@@ -580,7 +580,7 @@ JAMA. 1928; 90: 295–296.
 
 ---
 
-### Dehydration is how you define it: comparison of 318 blood and urine athlete spot checks [^5110d332]. BMJ Open Sport & Exercise Medicine (2018). Medium credibility.
+### Dehydration is how you define it: comparison of 318 blood and urine athlete spot checks [^1135Bec1]. BMJ Open Sport & Exercise Medicine (2018). Medium credibility.
 
 Another commonly used definition to assess 'dehydration' is USG, which takes into account both urine solute mass as well as concentration. Using the threshold of any USG value ≥ 1.020 to define dehydration,27% of our athletes were classified as 'dehydrated' at the time of measurement (table 4). This incidence is much lower than previous rates demonstrated in other athletic cohorts such as 90% of 107 male adolescent soccer players measured before practiceand 66% of 263 (138 male, 125 female) NCAA D1 athletes who provided random urine samples. Similar to the UOsm findings, there were no mathematical or clinically relevant differences in either serum markers ([Na +], [K +] and osmolality) or thirst rating, since blood tonicity is a physiologically regulated variable.
 
@@ -588,7 +588,7 @@ The previous literature has been consistent with our blood versus urine findings
 
 ---
 
-### Body fluid composition [^14506253]. Pediatrics in Review (2015). Low credibility.
+### Body fluid composition [^111X7keN]. Pediatrics in Review (2015). Low credibility.
 
 Unlabelled
 
@@ -600,7 +600,7 @@ After completing this article, readers should be able to: 1. Understand the dist
 
 ---
 
-### Estimated childhood lead exposure from drinking water in Chicago [^8b691fcf]. JAMA Pediatrics (2024). High credibility.
+### Estimated childhood lead exposure from drinking water in Chicago [^114ZgbA6]. JAMA Pediatrics (2024). High credibility.
 
 Disparities in Screening Rates and Lead Exposure
 
@@ -620,13 +620,13 @@ Abbreviation: BLL, blood lead level.
 
 ---
 
-### CDC yellow book 2026: health information for international travel. chapter 3 environmental hazards and risks [^e13b2186]. CDC (2025). High credibility.
+### CDC yellow book 2026: health information for international travel. chapter 3 environmental hazards and risks [^116kv5NV]. CDC (2025). High credibility.
 
 CDC Yellow Book 2026 — dehydration and sweat losses in heat-related illness: Apart from environmental conditions and intensity of exercise, dehydration is the most important predisposing factor in heat-related illness. Dehydration reduces exercise performance, decreases time to exhaustion, and increases internal heat load, and temperature and heart rate increase in direct proportion to the level of dehydration. Sweat is a fluid containing sodium and chloride; although it is hypotonic (contains lower concentration of sodium than blood), sweat rates may reach 1 liter per hour, resulting in substantial fluid and sodium loss.
 
 ---
 
-### Drugs for preventing red blood cell dehydration in people with sickle cell disease [^5bc18bfd]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### Drugs for preventing red blood cell dehydration in people with sickle cell disease [^113M2tEx]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -658,13 +658,13 @@ While the results of zinc for reducing sickle-related crises are encouraging, la
 
 ---
 
-### Effect of inflow of fresh blood on vascular-space-occupancy (VASO) contrast [^0b2f7b61]. Magnetic Resonance in Medicine (2009). Low credibility.
+### Effect of inflow of fresh blood on vascular-space-occupancy (VASO) contrast [^111Hap88]. Magnetic Resonance in Medicine (2009). Low credibility.
 
 In vascular-space-occupancy (VASO)-MRI, cerebral blood volume (CBV)-weighted contrast is generated by applying a nonselective inversion pulse followed by imaging when blood water magnetization is zero. An uncertainty in VASO relates to the completeness of blood water nulling. Specifically, radio frequency (RF) coils produce a finite inversion volume, rendering the possibility of fresh, non-nulled blood. Here, VASO-functional MRI (fMRI) was performed for varying inversion volume and TR using body coil RF transmission. For thin inversion volume thickness (delta(tot) < 10 mm), VASO signal changes were positive (DeltaS/S = 2.1–2.6%). Signal changes were negative and varied in magnitude for intermediate inversion volumes (delta(tot) = 100–300 mm), yet did not differ significantly (P > 0.05) for delta(tot) > 300 mm. These data suggest that blood water is in steady state for delta(tot) > 300 mm. In this appropriate range, long-TR VASO data converged to a less negative value (DeltaS/S = -1.4% ± 0.2%) than short-TR data (DeltaS/S = -2.2% ± 0.2%), implying that cerebral blood flow or transit-state effects may influence VASO contrast at short TR.
 
 ---
 
-### Sodium chloride (Alfa 0.9% sodium chloride) [^231b7605]. FDA (2025). Medium credibility.
+### Sodium chloride (Alfa 0.9% sodium chloride) [^111u3nr8]. FDA (2025). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -682,13 +682,13 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### Comparison of clinical and biochemical markers of dehydration with the clinical dehydration scale in children: a case comparison trial [^e1dc4480]. BMC Pediatrics (2014). Low credibility.
+### Comparison of clinical and biochemical markers of dehydration with the clinical dehydration scale in children: a case comparison trial [^116mrCZm]. BMC Pediatrics (2014). Low credibility.
 
 In total, six biochemical and two clinical parameters distinguished dehydrated patients from the comparison group. As expected, these included: diastolic blood pressure z-score, heart rate z-score, urine Na/K ratio, urine Na, FeNA, blood urea and serum bicarbonate and creatinine. It should be noted that the urea differences, albeit significant, were not clinically relevant. Unforeseen, however, were the categories that did not identify children with dehydration. These included percent dehydration and urine osmolality. Numerous studies have used percent dehydration as a gold standard to quantify the degree of dehydration in a child, Unfortunately, despite the assistance of trained and dedicated research nurses to perform and ensure adequate and consistent weight measurement prior to and following treatment, the difference in percent dehydration did not reach statistical significance. This further supports the subjectivity of this parameter despite employing specific training. Furthermore, other factors that contribute to weight gain or loss during an acute illness episode may have influenced these findings, including the amount of rehydration, decreased intake, ongoing oral/rectal and urinary losses, increased insensible losses and an increased catabolic rate. Additionally, intravascular volume may be the most important factor in complications associated with dehydration such as hypo-volemic shock or acute kidney injury. Severe dehydration requires prompt restoration of intravascular volume through intravenous administration of fluids followed by oral rehydration therapy. Body water movement from compartment to compartment during any time period can be attributed to forces active within and upon each space. These forces lead to water transfer between intravascular and extravascular compartments and shifts between extracellular and intracellular spaces, and may be independent of body weight.
 
 ---
 
-### Exertional heat stroke: pathophysiology and risk factors [^8b50dc5e]. BMJ Medicine (2022). High credibility.
+### Exertional heat stroke: pathophysiology and risk factors [^114ZYSU5]. BMJ Medicine (2022). High credibility.
 
 Risk factors
 
@@ -703,7 +703,7 @@ No direct evidence indicates that dehydration has a causative role in EHS. But t
 
 ---
 
-### Central regulation of drinking water in divergently selected high-water-efficient young broiler chickens: a minireview [^7972444b]. Journal of Neuroendocrinology (2025). Medium credibility.
+### Central regulation of drinking water in divergently selected high-water-efficient young broiler chickens: a minireview [^11473tCJ]. Journal of Neuroendocrinology (2025). Medium credibility.
 
 1 INTRODUCTION
 
@@ -713,13 +713,13 @@ The animal body procures water from various sources, including drinking water, f
 
 ---
 
-### Drinking water: the saltier the better? [^40415bd2]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^112eGAKs]. Journal of the American Heart Association (2019). Medium credibility.
 
 See Article Naser et al.
 
 ---
 
-### Sodium chloride, potassium chloride, and calcium chloride irrigant (Ringer's irrigation) [^fec73dc1]. FDA (2021). Medium credibility.
+### Sodium chloride, potassium chloride, and calcium chloride irrigant (Ringer's irrigation) [^117Win7S]. FDA (2021). Medium credibility.
 
 Normally about 80 to 90% of the potassium intake is excreted in the urine; the remainder in the stools and to a small extent, in the perspiration. The kidney does not conserve potassium well so that during fasting or in patients on a potassium free diet, potassium loss from the body continues resulting in potassium depletion.
 
@@ -731,7 +731,7 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### Sodium and water perturbations in patients who had an acute stroke: clinical relevance and management strategies for the neurologist [^0fe6a0ff]. Stroke and Vascular Neurology (2022). Medium credibility.
+### Sodium and water perturbations in patients who had an acute stroke: clinical relevance and management strategies for the neurologist [^111QaHEv]. Stroke and Vascular Neurology (2022). Medium credibility.
 
 Physiological regulation of water homeostasis
 
@@ -742,7 +742,7 @@ Physiological regulation of sodium and water homeostasis.; inhibitory effect, �
 
 ---
 
-### Drinking water: the saltier the better? [^ff481db4]. Journal of the American Heart Association (2019). Medium credibility.
+### Drinking water: the saltier the better? [^117XU4o5]. Journal of the American Heart Association (2019). Medium credibility.
 
 Groundwater supplies nearly half of all drinking water in the world. 1 Freshwater from rain, lakes, and rivers absorbs into the ground by a process referred to as infiltration. The geological formations through which the water infiltrates can have varying mineral content, thereby impacting the groundwater salinity. However, global climate change likely has impacts on mineral composition of groundwater. Particularly in coastal regions at risk of rising sea levels, more frequent cyclones, and reduced upstream river flow, 2 changes in drinking water salinity should be expected. The varying mineral content that contributes to water salinity may also impact health. It is generally well accepted that increased dietary sodium intake is associated with hypertension in the general population. 3 Higher drinking water salinity is also associated with elevated blood pressure. 4, 5 However, most published research has only measured sodium content as a proxy to water salinity, so it is unclear what effect the other minerals in groundwater may have on blood pressure.
 
@@ -750,7 +750,7 @@ In this issue of the Journal of the American Heart Association (JAHA), Nasser et
 
 ---
 
-### Plasma and serum volume remain unchanged following a 12-h fast from food and drink despite changes in blood and urinary hydration markers [^5e88fe53]. European Journal of Clinical Nutrition (2025). Medium credibility.
+### Plasma and serum volume remain unchanged following a 12-h fast from food and drink despite changes in blood and urinary hydration markers [^113R9rLa]. European Journal of Clinical Nutrition (2025). Medium credibility.
 
 Introduction
 
@@ -762,13 +762,13 @@ This study was conducted for two primary purposes: 1. To determine if dehydratio
 
 ---
 
-### Markers of hydration status [^4151a784]. European Journal of Clinical Nutrition (2003). Low credibility.
+### Markers of hydration status [^112fqd5D]. European Journal of Clinical Nutrition (2003). Low credibility.
 
 Many indices have been investigated to establish their potential as markers of hydration status. Body mass changes, blood indices, urine indices and bioelectrical impedance analysis have been the most widely investigated. The current evidence and opinion tend to favour urine indices, and in particular urine osmolality, as the most promising marker available.
 
 ---
 
-### Characterization of the diffusion coefficient of blood [^809a9b6d]. Magnetic Resonance in Medicine (2018). Low credibility.
+### Characterization of the diffusion coefficient of blood [^114HfM4Y]. Magnetic Resonance in Medicine (2018). Low credibility.
 
 RESULTS
 
@@ -781,7 +781,7 @@ Although ADCs measured in the water reference agree within error margins across 
 
 ---
 
-### Sodium chloride [^f79de7af]. FDA (2025). Medium credibility.
+### Sodium chloride [^117L6yqx]. FDA (2025). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -799,7 +799,7 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### Sodium chloride (0.9% sodium chloride) [^4ced245c]. FDA (2021). Medium credibility.
+### Sodium chloride (0.9% sodium chloride) [^112y3iKM]. FDA (2021). Medium credibility.
 
 CLINICAL PHARMACOLOGY
 
@@ -817,7 +817,7 @@ Water balance is maintained by various regulatory mechanisms. Water distribution
 
 ---
 
-### A simplified empirical model to estimate oxygen relaxivity at different magnetic fields [^fd77c3c3]. NMR in Biomedicine (2022). Medium credibility.
+### A simplified empirical model to estimate oxygen relaxivity at different magnetic fields [^117Un6W6]. NMR in Biomedicine (2022). Medium credibility.
 
 Furthermore, for the fitting of this model, we have combined values from water, saline, plasma, and vitreous fluids. In reality, there are factors that would cause the relaxivity in these solutions to differ, even amongst saline solutions with different compositions and concentrations. The decision to combine them was due to a lack of sufficient data points at a range of field strengths and temperatures in each solution; however, this is a considerable limitation, as it seems to fit more accurately to the water samples (R 2 = 0.94) than saline samples (R 2 = 0.73) alone (Supplementary Figure S3). Most importantly, values from the vitreous fluid and plasma would ideally be fit with separate models, as there are extra proteins in the plasma and vitreous fluid that have been shown to decrease the relaxivity slightly. However, this simply was not possible due to a lack of available data points in the literature. As above, we very much hope that this issue will be addressed as new data are acquired by future researchers.
 
@@ -825,19 +825,19 @@ Finally, this model does not represent the r 1Ox in blood and tissues, where the
 
 ---
 
-### Prevention of childhood lead toxicity [^f116eea0]. Pediatrics (2016). Medium credibility.
+### Prevention of childhood lead toxicity [^117ARifq]. Pediatrics (2016). Medium credibility.
 
 Lead paint hazards by housing age and regulatory context — hazard prevalence rises in older homes and current standards are insufficient. "Age of the housing is a major determinant of lead paint hazards". "For housing built from 1978 to 1998, 2.7% contained one or more lead paint hazards, whereas the prevalence of residential hazards increased to 11.4% of housing built from 1960 to 1977, 39% of housing built from 1940 to 1959, and 67% of housing units built before 1940". Although "Federal agencies have set environmental lead standards to protect children from having a blood lead concentration ≥ 10 μg/dL (≥ 100 ppb)", the report states "it is now recognized that there is no safe level of lead exposure" and "because the current standards for lead in house dust, water, and soil remain too high to protect children,31,38 the percentage of housing that contains one or more lead paint hazards described above is an underestimate".
 
 ---
 
-### Quantification of myocardial blood flow with 82Rb positron emission tomography: clinical validation with 15O-water [^f49828e3]. European Journal of Nuclear Medicine and Molecular Imaging (2012). Low credibility.
+### Quantification of myocardial blood flow with 82Rb positron emission tomography: clinical validation with 15O-water [^117Fd658]. European Journal of Nuclear Medicine and Molecular Imaging (2012). Low credibility.
 
 82 Rb-derived MBF quantification has not yet been compared directly with the gold standard for measuring MBF in humans, 15 O-water, a radiotracer 100% of which can be extracted from the circulation, even at very high flow rates. Therefore, validation of 82 Rb-derived MBF against MBF measured using 15 O-water is an important step, as quantification using 82 Rb is ready to enter daily clinical practice. Whether MBF quantification with 82 Rb is accurate enough even at high flow rates as compared to quantification with 15 O-water has not been determined in humans in a clinical setting with modern PET/CT. To this aim, we wanted to derive an appropriate 82 Rb extraction function as compared to the 100%-extractible 15 O-water and determine whether a one-tissue compartment model could provide adequate MBF quantification in a group of healthy control subjects and patients with mild, stable CAD.
 
 ---
 
-### Measuring water distribution in the heart: preventing edema reduces ischemia-reperfusion injury [^c3aa8c53]. Journal of the American Heart Association (2016). Low credibility.
+### Measuring water distribution in the heart: preventing edema reduces ischemia-reperfusion injury [^11615sVt]. Journal of the American Heart Association (2016). Low credibility.
 
 Measurement of Total Water Content
 
@@ -845,7 +845,7 @@ Once the hearts were removed from the perfusion system or, in the case of in sit
 
 ---
 
-### The half-life of infusion fluids: an educational review [^d00d0ddb]. European Journal of Anaesthesiology (2016). Low credibility.
+### The half-life of infusion fluids: an educational review [^116KSovz]. European Journal of Anaesthesiology (2016). Low credibility.
 
 Measuring half-life
 
@@ -859,19 +859,19 @@ An alternative to measuring haemoglobin concentration is desiccation. A tube is 
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2024 update [^b5e372ea]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2024 update [^115efA4y]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Regarding preventative measures for heat-related illness, more specifically with respect to hydration, WMS 2024 guidelines recommend to advise following a "drink-to-thirst" approach during activity to prevent > 2% loss of body weight.
 
 ---
 
-### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^cfca1566]. CDC (2008). Medium credibility.
+### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^116K4KEu]. CDC (2008). Medium credibility.
 
 Cleaning — definition and pre-disinfection rationale — states that cleaning is the removal of foreign material from objects using water with detergents or enzymatic products, and thorough cleaning is required before high-level disinfection and sterilization because residual materials interfere with these processes; if soils dry or bake onto instruments the processes become less effective or ineffective, and surgical instruments should be presoaked or rinsed to prevent drying of blood and to soften or remove blood from instruments.
 
 ---
 
-### Evaluation and review of body fluids saliva, sweat and tear compared to biochemical hydration assessment markers within blood and urine [^9e8f4beb]. European Journal of Clinical Nutrition (2018). Low credibility.
+### Evaluation and review of body fluids saliva, sweat and tear compared to biochemical hydration assessment markers within blood and urine [^11545BAi]. European Journal of Clinical Nutrition (2018). Low credibility.
 
 Blood plasma osmolality (BP osm — concentration of plasma, milliosmoles of solute particles per kilogram of water), plasma sodium concentration BP[Na +] or blood serum osmolality (BS osm) are regularly used blood markers for evaluating hydration status. In this regard, when body fluids are steady and balanced, BP osm combined with the TBW (fluid in intracellular and extracellular areas; approximately 0.6 l/kg≈63.3% of body mass) value describe the most accurate and exact hydration assessment values. But these hydration assessment techniques, such as stable isotope dilution and neutron activation analysis for TBW and BP osm, are time-consuming, expensive and invasive. Fluid concentrations are regulated in complex and dynamic processes. The intracellular fluid is measured indirectly by means of the assumption that the isotope distributes equally throughout intracellular fluid and ECFand that the hydration status is changed by volume and timing of water, sodium and osmolyte consumption.
 
@@ -883,7 +883,7 @@ There might be other potential biochemical markers present within saliva, sweat 
 
 ---
 
-### Composition of the blood-SEER training modules… [^e5bda63b]. training.seer.cancer.gov (2025). Medium credibility.
+### Composition of the blood-SEER training modules… [^116sbsCe]. training.seer.cancer.gov (2025). Medium credibility.
 
 Composition of the Blood When a sample of blood is spun in a centrifuge, the cells and cell fragments are separated from the liquid intercellular matrix. Because the formed elements are heavier than the liquid matrix, they are packed in the bottom of the tube by the centrifugal force. The light yellow colored liquid on the top is the plasma, which accounts for about 55 percent of the blood volume and red blood cells is called the hematocrit, or packed cell volume. The white blood cells and platelets form a thin white layer, called the "buffy coat", between plasma and red blood cells. Plasma The watery fluid portion of blood in which the corpuscular elements are suspended. It transports nutrients as well as wastes throughout the body. Various compounds, including proteins, electrolytes, carbohydrates, minerals, and fats, are dissolved in it. Formed Elements The formed elements are cells and cell fragments suspended in the plasma.
 
@@ -893,7 +893,7 @@ Eosinophils have granules and help counteract the effects of histamine. Basophil
 
 ---
 
-### Sodium as an important regulator of immunometabolism [^cef8fcb1]. Hypertension (2024). Medium credibility.
+### Sodium as an important regulator of immunometabolism [^116Hr5iG]. Hypertension (2024). Medium credibility.
 
 WHITHER SODIUM?
 
@@ -901,7 +901,7 @@ Earlier, all was clear. The intracellular composition (muscle for instance) exhi
 
 ---
 
-### Best practices for the design, laboratory analysis, and reporting of trials involving fatty acids [^850d580c]. The American Journal of Clinical Nutrition (2018). Low credibility.
+### Best practices for the design, laboratory analysis, and reporting of trials involving fatty acids [^114QFqSb]. The American Journal of Clinical Nutrition (2018). Low credibility.
 
 Blood sample collection conditions
 
@@ -913,7 +913,7 @@ Appropriate storage of plasma or blood samples collected during an RCT, a cross-
 
 ---
 
-### Randomised clinical study comparing the effectiveness and physiological effects of hypertonic and isotonic polyethylene glycol solutions for bowel cleansing [^03ad3b81]. BMJ Open Gastroenterology (2016). Medium credibility.
+### Randomised clinical study comparing the effectiveness and physiological effects of hypertonic and isotonic polyethylene glycol solutions for bowel cleansing [^1116T9gk]. BMJ Open Gastroenterology (2016). Medium credibility.
 
 The percentage changes (in absolute values) of blood urea nitrogen from baseline to the end of dosing in the PEG-ES group were significantly greater than that in the PEG-Asc-S and PEG-Asc-M groups, and the difference between the PEG-Asc-S and PEG-Asc-M groups was not significant. The cleansing almost completely evacuates stools from the bowel, which results in a decrease in blood urea nitrogen, possibly with the same degree of decrease in all three groups. Dehydration during the cleansing would increase blood urea nitrogen, with larger increases in the PEG-Asc-S and PEG-Asc-M groups compared with the PEG-ES group. These defecation and dehydration effects may explain the trend of the percentage changes in blood urea nitrogen at the end of dosing in the three groups.
 
@@ -921,13 +921,13 @@ In conclusion, the use of lower volume 1.5 L PEG-Asc with one-spilt and four-spl
 
 ---
 
-### Sodium and water disorders [^6e9798b2]. Advances in Kidney Disease and Health (2025). Medium credibility.
+### Sodium and water disorders [^113pxZLV]. Advances in Kidney Disease and Health (2025). Medium credibility.
 
 The balancing of fluids and electrolytes is a core function of the kidneys. There are redundant mechanisms within the body to sense the adequacy of organ perfusion and the composition of body fluids aimed at maintaining hemodynamics and protecting an environment for optimal cellular function. Sodium and water are key components of extracellular fluid and are regulated in response to end-organ perfusion and serum tonicity. Baroreceptors activate the renin-angiotensin-aldosterone system, sympathetic nervous system, vasopressin, and atrial natriuretic peptide to adjust sodium handling to alter extracellular volume. Osmoreceptors affect anti-diuretic hormone release and aquaporin activity in the medullary collecting duct to modify the handling of water. Disordered handling of sodium and/or water may be adaptive or maladaptive, and understanding the stimuli and responses to clinical scenarios assists clinicians in developing appropriate treatment strategies.
 
 ---
 
-### VinCRIStine sulfate injection, USP… [^56f0214f]. FDA (DailyMed) (2024). Medium credibility.
+### VinCRIStine sulfate injection, USP… [^113DtbM8]. FDA (DailyMed) (2024). Medium credibility.
 
 The molecular formula for Vincristine Sulfate, USP is C46H56N4O10∙H2SO4. It has a molecular weight of 923.
 04. The structural formula is as follows: Vincristine Sulfate, USP is a white to off–white powder. It is soluble in methanol, freely soluble in water, but only slightly soluble in 95% ethanol. In 98% ethanol, Vincristine Sulfate, USP has an ultraviolet spectrum with maxima at 221 nm. Pharmacokinetic studies in patients with cancer have shown a triphasic serum decay pattern following rapid intravenous injection. The initial, middle and terminal half–lives are 5 minutes, 2. 3 hours, and 85 hours respectively; however, the range of the terminal half–life in humans is from 19 to 155 hours. About 80% of an injected dose of vincristine sulfate appears in the feces and 10% to 20% can be found in the urine. Within 15 to 30 minutes after injection, over 90% of the drug is distributed from the blood into tissue, where it remains tightly, but not irreversibly, bound.
@@ -939,13 +939,13 @@ See PRECAUTIONS section. Acute respiratory distress syndrome has been reported. 
 
 ---
 
-### Clinical practice guidelines for hemodialysis adequacy, update 2006 [^3f5d659f]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for hemodialysis adequacy, update 2006 [^112cwbGr]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Dietary water restriction counseling — Attempts at water restriction commonly are futile if sodium limitation is not observed simultaneously, and reducing a patient's water intake alone is not prudent most of the time because excessive sodium ingestion increases ECF osmolality and stimulates thirst; advising water limitation without curtailing sodium intake will cause suffering from unnecessary thirst.
 
 ---
 
-### Topiramate is more effective than acetazolamide at lowering intracranial pressure [^dfa64b12]. Cephalalgia (2019). Medium credibility.
+### Topiramate is more effective than acetazolamide at lowering intracranial pressure [^116ia6Vo]. Cephalalgia (2019). Medium credibility.
 
 Oral dosing and effect on ICP
 
@@ -960,7 +960,7 @@ Acetazolamide significantly lowered blood pH (7.08 ± 0.04 pH, p < 0.01), and le
 
 ---
 
-### The effects of 6 months of increased water intake on blood sodium, glomerular filtration rate, blood pressure, and quality of life in elderly (aged 55–75) men [^534606d4]. Journal of the American Geriatrics Society (2006). Low credibility.
+### The effects of 6 months of increased water intake on blood sodium, glomerular filtration rate, blood pressure, and quality of life in elderly (aged 55–75) men [^1138TVcw]. Journal of the American Geriatrics Society (2006). Low credibility.
 
 Objectives
 
@@ -996,7 +996,7 @@ The advice to increase fluid intake by 1.5 L had no negative effects in reasonab
 
 ---
 
-### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^b3dcf576]. Endocrine Reviews (2023). Medium credibility.
+### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^115bf14y]. Endocrine Reviews (2023). Medium credibility.
 
 Figure 1.
 Classification of hyponatremia according to tonicity. Syndrome of inappropriate antidiuresis (SIAD) is the most common cause of hypotonic hyponatremia. Adapted from Sahay 2014 with permission, with reference to Spasovski 2014.
@@ -1010,25 +1010,25 @@ Useful formulae in the management of hyponatremia. Cr, creatinine; FEUA, fractio
 
 ---
 
-### Quantitative blood loss in obstetric hemorrhage: ACOG COMMITTEE OPINION, number 794 [^533e92d2]. Obstetrics and Gynecology (2019). High credibility.
+### Quantitative blood loss in obstetric hemorrhage: ACOG COMMITTEE OPINION, number 794 [^1138QzRP]. Obstetrics and Gynecology (2019). High credibility.
 
 Quantification of maternal blood loss during vaginal delivery — stepwise tips and conversion are as follows: Quantification of maternal blood loss is a team effort, and teams should begin quantification immediately after the infant's birth (before delivery of the placenta) using a calibrated under-buttocks drape, record the total volume collected, subtract any irrigation and subtract the preplacental from the post placenta fluid volume to estimate actual blood loss, then add drape fluid volume to the blood volume from weighed soaked items to determine cumulative loss; weigh all blood-soaked materials and clots using the conversion 1 gram weight = 1 milliliter blood loss volume and apply the equation WET Item Gram Weight - DRY Item Gram Weight = Milliliters of Blood Within the Item, noting the simple 1-to-1 conversion.
 
 ---
 
-### Hematocrit and oxygenation dependence of blood (1) H (2) O T (1) at 7 tesla [^6ae4e230]. Magnetic Resonance in Medicine (2013). Low credibility.
+### Hematocrit and oxygenation dependence of blood (1) H (2) O T (1) at 7 tesla [^113jUZtB]. Magnetic Resonance in Medicine (2013). Low credibility.
 
 Knowledge of blood (1)H2O T1 is critical for perfusion-based quantification experiments such as arterial spin labeling and cerebral blood volume-weighted MRI using vascular space occupancy. The dependence of blood (1)H2O T1 on hematocrit fraction (Hct) and oxygen saturation fraction (Y) was determined at 7 T using in vitro bovine blood in a circulating system under physiological conditions. Blood (1)H2O R1 values for different conditions could be readily fitted using a two-compartment (erythrocyte and plasma) model, which are described by a monoexponential longitudinal relaxation rate constant dependence. It was found that T1 = 2171 ± 39 ms for Y = 1 (arterial blood) and 2010 ± 41 ms for Y = 0.6 (venous blood), for a typical Hct of 0.42. The blood (1)H2O T1 values in the normal physiological range (Hct from 0.35 to 0.45, and Y from 0.6 to 1.0) were determined to range from 1900 to 2300 ms. The influence of oxygen partial pressure (pO2) and the effect of plasma osmolality for different anticoagulants were also investigated. It is discussed why blood (1)H2O T1 values measured in vivo for human blood may be about 10–20% larger than found in vitro for bovine blood at the same field strength.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^268f80d2]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^111zAjNq]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Wilderness Medical Society exercise-associated hyponatremia definitions — This table standardizes key terms and thresholds relevant to exercise and heat illness. Exercise-associated hyponatremia is defined as "A serum, plasma, or blood sodium concentration below the normal reference range of 135 mmol·L-1 that occurs during or up to 24 h after prolonged physical activity", while the severe variant with encephalopathy is "A severe form of exercise-associated hyponatremia associated with neurologic changes resulting from cerebral edema". Exercise-associated hypernatremia is "A serum, plasma, or blood sodium concentration > 145 mmol·L-1 that occurs during or up to 24 h after prolonged physical activity". Heat stroke is "A core temperature above 40°C (104°F) with altered mental status and generally divided into 2 categories: classic heat stroke… and exertional heat stroke". Hypohydration during exercise is described as "hypohydration during exercise with > 2% of body mass can occur from sweat loss during exercise and high environmental temperatures and is usually characterized as hyperosmotic hypovolemia". Hypertonic saline is "Any crystalloid solution containing more than 0.9% sodium chloride (ie, 3% sodium chloride)". Overhydration is "Excessive oral intake of hypotonic fluids (eg, water and sport electrolyte drinks) resulting in the amount of salt and other electrolytes in the body becoming diluted (ie, hyponatremia)", and hyponatremic encephalopathy occurs when "serum sodium rapidly decreases (eg, exercise-associated hyponatremia), there is an osmotic shift of fluid into the intracellular spaces, resulting in cerebral edema and increased intracranial pressure".
 
 ---
 
-### Composition of the blood… [^8d4fa19d]. training.seer.cancer.gov (2025). Medium credibility.
+### Composition of the blood… [^114cW15W]. training.seer.cancer.gov (2025). Medium credibility.
 
 Composition of the Blood When a sample of blood is spun in a centrifuge, the cells and cell fragments are separated from the liquid intercellular matrix. Because the formed elements are heavier than the liquid matrix, they are packed in the bottom of the tube by the centrifugal force. The light yellow colored liquid on the top is the plasma, which accounts for about 55 percent of the blood volume and red blood cells is called the hematocrit, or packed cell volume. The white blood cells and platelets form a thin white layer, called the "buffy coat", between plasma and red blood cells. Plasma The watery fluid portion of blood in which the corpuscular elements are suspended. It transports nutrients as well as wastes throughout the body. Various compounds, including proteins, electrolytes, carbohydrates, minerals, and fats, are dissolved in it. Formed Elements The formed elements are cells and cell fragments suspended in the plasma.
 
@@ -1038,13 +1038,13 @@ Eosinophils have granules and help counteract the effects of histamine. Basophil
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^18f1beb2]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^111dyuLM]. Kidney International (2025). High credibility.
 
 Table 8 — Approaches to reduce arginine vasopressin (AVP) activity in autosomal dominant polycystic kidney disease (ADPKD) compares increased water intake with the V2 receptor antagonist tolvaptan, noting administration as drinking water during waking hours versus a split-dose tablet (1 tablet upon waking and 1 tablet 8 h later), water intake as voluntary increase ≥ 2 l/d versus involuntary increase ≥ 3–7 l/d, and indications as all people with eGFR ≥ 30 ml/min per 1.73 m2 versus selected high-risk groups due to cost and side effects. Efficacy entries show no effect on TKV or long-term eGFR decline for increased water intake, versus yes for tolvaptan including Yes (TEMPO 3:4) for TKV and Yes (~1 ml/min per 1.73 m2) for long-term eGFR decline. Adherence is ~50% over 3 yr for increased water intake versus real-world adherence declines over time and ~75% after 3 yr for tolvaptan. Monitoring and harms include environmental issues for water versus blood tests every 1–3 mo, hypernatremia, hyperuricemia, and risk of hepatotoxicity for tolvaptan.
 
 ---
 
-### Electrolyte disorders related emergencies in children [^b46f9e5c]. BMC Nephrology (2024). Medium credibility.
+### Electrolyte disorders related emergencies in children [^115cWGEP]. BMC Nephrology (2024). Medium credibility.
 
 Sodium
 
@@ -1057,25 +1057,25 @@ Abnormalities of plasma sodium are one of the most common electrolyte disorders.
 
 ---
 
-### Prevention of childhood lead toxicity [^0670bea4]. Pediatrics (2016). Medium credibility.
+### Prevention of childhood lead toxicity [^111AYo8o]. Pediatrics (2016). Medium credibility.
 
 Prevention of childhood lead toxicity — government recommendations emphasize resource expansion and regulatory revisions, stating that the federal government should expand the resources currently offered by the HUD and should provide both financial and nonfinancial resources and technical guidance through the CDC, the EPA, and the HUD. The US EPA and HUD should revise downward allowable levels of lead in house dust, soil, paint, and water to conform with the recognition that there are no safe levels of lead. The Centers for Medicare & Medicaid Services should expeditiously revise allowable laboratory error in blood lead proficiency testing programs from ± 4 μg/dL (± 40 ppb) to ± 2 μg/dL (± 20 ppb) for blood lead concentrations ≤ 20 μg/dL (≤ 200 ppb), with future reduction, when feasible, to ± 1 μg/dL (± 10 ppb) for blood lead concentrations ≤ 20 μg/dL (≤ 200 ppb). State and local governments should collect, analyze, and publish blood lead test results and should regularly publish reports of age of housing and other risk factors for children having blood lead concentrations ≥ 5 μg/dL (≥ 50 ppb); federal, state, and local governments should provide resources for environmental evaluations and case management of children who have blood lead concentrations ≥ 5 μg/dL (≥ 50 ppb); and state and local governments should take steps to ensure that water fountains in schools do not exceed water lead concentrations of 1 ppb.
 
 ---
 
-### Effect of ultrafiltration during hemodialysis on hepatic and total-body water: an observational study [^0db90e9c]. BMC Nephrology (2018). Low credibility.
+### Effect of ultrafiltration during hemodialysis on hepatic and total-body water: an observational study [^111MLzsD]. BMC Nephrology (2018). Low credibility.
 
 In health, in response to a reduction in circulating volume, there is immediate contraction of liver volume and expulsion of pooled blood. In this study, not only did we observe that liver water content reduced to a lesser extent than peripheral fluid, actually in many patients it increased. The changes in liver water content in our subjects were larger than expected by the confidence interval alone. Our observations suggest this physiological reaction does not occur in all patients undergoing HD. This response is not associated with comorbidities, drugs (such as antiplatelet, antihypertensive and erythropoietin agents) and blood hematocrit, although our study may be underpowered to really study this. This may be due to differing levels of circulatory stress endured, with some subjects not meeting the requirements for activation of hepatic venoconstriction. Another explanation is that some subjects exhibited an abnormal hepatic response to the circulatory stress of dialysis, with a diversion of blood flow into the hepatic circulation. This is supported by the observation that liver water concentration increased significantly more in patients who sustained a considerable fall in their blood pressure during HD. The negative impacts of ultrafiltration on myocardial perfusion have been well described. The presence of both cardiac and baseline autonomic dysfunction is also variable in HD patients and this may additionally explain the heterogeneity observed.
 
 ---
 
-### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^4d746d42]. Diabetes Care (2011). Low credibility.
+### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^112yq9so]. Diabetes Care (2011). Low credibility.
 
 Glucose can be measured in whole blood, serum, or plasma, but plasma is recommended for diagnosis [note that although both the ADA and WHO recommend venous plasma, the WHO also accepts measurement of glucose in capillary blood]. The molality of glucose (i.e. the amount of glucose per unit water mass) in whole blood is identical to that in plasma. Although erythrocytes are essentially freely permeable to glucose (glucose is taken up by facilitated transport), the concentration of water (in kilograms per liter) in plasma is approximately 11% higher than in whole blood. Therefore, glucose concentrations are approximately 11% higher in plasma than in whole blood if the hematocrit is normal. Glucose concentrations in heparinized plasma were reported in 1974 to be 5% lower than in serum. The reasons for the difference are not apparent but have been attributed to the shift in fluid from erythrocytes to plasma caused by anticoagulants. In contrast, some more recent studies found that glucose concentrations are slightly higher in plasma than in serum. The observed differences were approximately 0.2 mmol/L (3.6 mg/dL), or approximately 2%, or 0.9%. Other studies have found that glucose values measured in serum and plasma are essentially the same. Given these findings, it is unlikely that values for plasma and serum glucose will be substantially different when glucose is assayed with current instruments, and any differences will be small compared with the day-to-day biological variation of glucose. Clinical organizations do not recommend the measurement of glucose in serum (rather than plasma) for the diagnosis of diabetes. Use of plasma allows samples to be centrifuged promptly to prevent glycolysis without waiting for the blood to clot. The glucose concentrations in capillary blood obtained during an OGTT are significantly higher than those in venous blood [mean, 1.7 mmol/L (30 mg/dL), which is equivalent to 20%–25% higher], probably owing to glucose consumption in the tissues. In contrast, the mean difference in fasting samples is only 0.1 mmol/L (2 mg/dL).
 
 ---
 
-### Albumin human — albumin — human [^faf991e8]. FDA (2008). Low credibility.
+### Albumin human — albumin — human [^117R5jU3]. FDA (2008). Low credibility.
 
 12 CLINICAL PHARMACOLOGY
 
@@ -1093,13 +1093,13 @@ The colloid osmotic effect of ALBUMIN (HUMAN) 20% and 25% is approximately 5 tim
 
 ---
 
-### Prevention of childhood lead toxicity [^a4a7b5c6]. Pediatrics (2016). Medium credibility.
+### Prevention of childhood lead toxicity [^115D7JUM]. Pediatrics (2016). Medium credibility.
 
 Prevention of childhood lead toxicity — evidence and policy emphasize that commonly encountered blood lead concentrations, even those below 5 μg/dL (50 ppb), impair cognition and there is no identified threshold or safe level of lead in blood. From 2007 to 2010, approximately 2.6% of preschool children in the United States had a blood lead concentration ≥ 5 μg/dL (≥ 50 ppb), which represents about 535 000 US children 1 to 5 years of age. Very high blood lead concentrations (eg, > 100 μg/dL) can cause significant overt symptoms, such as protracted vomiting and encephalopathy, and even death. Low-level lead exposure, even at blood lead concentrations below 5 μg/dL (50 ppb), is a causal risk factor for diminished intellectual and academic abilities, higher rates of neurobehavioral disorders such as hyperactivity and attention deficits, and lower birth weight in children. No effective treatments ameliorate the permanent developmental effects of lead toxicity, so primary prevention, reducing or eliminating the myriad sources of lead in the environment of children before exposure occurs, is the most reliable and cost-effective measure to protect children. Reducing sources of lead in the environment, including lead in housing, soil, water, and consumer products, has been shown to be cost-beneficial, and lead poisoning prevention education directed at hand-washing or dust control fails to reduce children's blood lead concentrations. Primary prevention should be the focus of policy on childhood lead toxicity.
 
 ---
 
-### Water (sterile water) [^ac421f0a]. FDA (2025). Medium credibility.
+### Water (sterile water) [^115QP5cm]. FDA (2025). Medium credibility.
 
 WARNINGS
 
@@ -1113,18 +1113,18 @@ Research indicates that patients with impaired kidney function, including premat
 
 ---
 
-### Antiarrhythmic drugs-clinical use and clinical decision making: a consensus document from the European Heart Rhythm Association (EHRA) and European Society of Cardiology (ESC) working group on cardiovascular pharmacology, endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS) and international society of cardiovascular pharmacotherapy (ISCP) [^2d9afae2]. Europace (2018). Medium credibility.
+### Antiarrhythmic drugs-clinical use and clinical decision making: a consensus document from the European Heart Rhythm Association (EHRA) and European Society of Cardiology (ESC) working group on cardiovascular pharmacology, endorsed by the Heart Rhythm Society (HRS), Asia-Pacific Heart Rhythm Society (APHRS) and international society of cardiovascular pharmacotherapy (ISCP) [^112AcVwF]. Europace (2018). Medium credibility.
 
 Pharmacokinetics alterations in elderly — absorption changes include Reduced gastric acid, Reduced gastric emptying rate, Reduced GI motility, Reduced GI blood flow, and Reduced absorptive surface with effects including Reduced tablet dissolution, Reduced solubility for basic drugs, Decreased absorption of acid drugs, and Less drug absorption. Distribution changes include Decreased body mass, Increased body fat, Decreased proportion of body water, and Decreased plasma albumin with effects Increased Vd of lipid soluble drugs, Decrease Vd of water-soluble drugs, and Changed proportion of free drug. Metabolism changes include Reduced liver mass, Reduced liver blood flow, and Reduced liver metabolism rate/capacity with effect Accumulation of metabolized drugs. Excretion changes include Reduced glomerular filtration, Reduced renal tubular function, and Reduced renal blood flow with effect Accumulation of renal cleared drugs.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2024 update [^a5e21b33]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2024 update [^115EvuQN]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Individual factors — hydration and cooling strategies: The most readily modifiable physiologic risk factor is hydration status, with endurance athletes comfortably tolerating weight losses of 3–4% during events but fluid losses causing a 2–3% decrease in body weight correlating with greater core temperatures; dehydration increases physiologic strain, decreases sweat rates, increases perceived exertion, and increases core temperatures; maintaining euhydration is done via a "drink-to-thirst" approach or a scheduled regimen, but scheduled regimens risk accidental over or underconsumption; an increase in plasma osmolality by 2% triggers thirst and renal water retention, and thirst during activity indicates avid renal free water retention, a key step toward exercise-associated hyponatremia; adequate hydration cannot prevent heat accumulation in all circumstances; some hyperhydration methods decrease physiologic strain but have not reliably been proven protective from heat illness; precooling may help for short exertion in hot environments but is unlikely to benefit longer activity.
 
 ---
 
-### AMSSM position statement update: blood-borne pathogens in the context of sports participation [^104bf00b]. Clinical Journal of Sport Medicine (2020). High credibility.
+### AMSSM position statement update: blood-borne pathogens in the context of sports participation [^111RAJtr]. Clinical Journal of Sport Medicine (2020). High credibility.
 
 Sports-related blood exposure precautions — During events and training, participants with bleeding should be removed promptly, bleeding controlled, mucous membranes flushed with water, and wounds cleansed with soap and water; antiseptic products are not recommended due to lack of benefit and potential tissue damage. Gloves are required when direct contact with blood or blood-containing fluids can be anticipated, gloves must be changed after treating each participant, and hands should be washed after glove removal; personal protective equipment (PPE) such as gloves, goggles, masks, fluid-resistant gowns, and airway devices should be readily accessible. Contaminated equipment or surfaces should be wiped and disinfected with a daily-prepared 1:10 ratio of bleach to water solution or an EPA-approved germicide, and blood-soiled uniforms and towels should be laundered in hot water at a temperature of at least 71°C (160°F) for 25-minute cycles. Procedures in the training room and during practices must adhere to standard infectious precautions, and all personnel involved with sports should be trained in basic first aid and infection control, including the preventative measures outlined here.

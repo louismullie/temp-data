@@ -15,31 +15,31 @@ Vertical diplopia
 
 > Let's see… What do we have here? The user is asking about vertical diplopia. Let's break this down step-by-step. First, I need to think about confirming whether the diplopia is monocular or binocular. Then, I should verify the core history elements that localize the problem. Next, I will examine the neuro-ophthalmic exam with attention to torsion, comitance, and gaze-dependent changes. After that, I need to construct a prioritized differential diagnosis and decide when to image. Finally, I will outline management pathways, including conservative options, surgical indications, and special scenarios like thyroid eye disease and post-cataract diplopia, and I will close with prognosis and follow-up considerations.
 
-> Let me first confirm the nature of the diplopia, because monocular diplopia points to refractive or media issues rather than ocular motor pathology, whereas binocular diplopia implies misalignment and mandates a strabismic workup. I should double-check by asking the patient to close one eye; if the double image persists, that supports monocular causes such as cataract, corneal irregularity, or higher-order aberrations, whereas resolution with monocular occlusion supports binocular etiologies like cranial nerve palsy, thyroid eye disease, myasthenia gravis, or skew deviation [^6fa5b5f4] [^9220824a].
+> Let me first confirm the nature of the diplopia, because monocular diplopia points to refractive or media issues rather than ocular motor pathology, whereas binocular diplopia implies misalignment and mandates a strabismic workup. I should double-check by asking the patient to close one eye; if the double image persists, that supports monocular causes such as cataract, corneal irregularity, or higher-order aberrations, whereas resolution with monocular occlusion supports binocular etiologies like cranial nerve palsy, thyroid eye disease, myasthenia gravis, or skew deviation [^113rXHb1] [^114je7UD].
 
-> Next, I should review the history with a structured approach, and I need to ensure I capture onset and tempo, pain, associated neurologic or systemic symptoms, and any prior strabismus, trauma, or surgery. Sudden painless vertical diplopia suggests microvascular cranial neuropathy, painful diplopia raises concern for compressive lesions or inflammatory disease, and fluctuating or fatigable symptoms point toward myasthenia gravis. I should also ask about head tilt compensation, which is common in superior oblique palsy, and about recent cataract surgery or vision changes that could unmask latent strabismus or fixation switch diplopia [^81e7d7c7] [^9ca4c9ae] [^ddb2231e] [^f65de386].
+> Next, I should review the history with a structured approach, and I need to ensure I capture onset and tempo, pain, associated neurologic or systemic symptoms, and any prior strabismus, trauma, or surgery. Sudden painless vertical diplopia suggests microvascular cranial neuropathy, painful diplopia raises concern for compressive lesions or inflammatory disease, and fluctuating or fatigable symptoms point toward myasthenia gravis. I should also ask about head tilt compensation, which is common in superior oblique palsy, and about recent cataract surgery or vision changes that could unmask latent strabismus or fixation switch diplopia [^114KbH1x] [^1151ERHf] [^116fg6fw] [^117JFVRf].
 
-> Hold on, let's not jump to conclusions. I should verify the examination sequence to localize the lesion. I will start with visual acuity and refraction, then perform a careful motility exam in nine positions of gaze, measure vertical deviations with prism and alternate cover testing, and assess for torsion using double Maddox rods or fundus photography. I should confirm comitance versus incomitance, because comitant vertical deviations are more typical of skew deviation or decompensated phoria, whereas incomitant deviations with gaze-dependent changes suggest superior oblique palsy or restrictive myopathy. I will also check for ptosis, pupillary changes, and other cranial neuropathies, and I should remember that a positive three-step test supports superior oblique palsy but can be falsely positive in thyroid eye disease or myasthenia, so I must interpret it in context [^d5e22221] [^e5482e05] [^9ca4c9ae].
+> Hold on, let's not jump to conclusions. I should verify the examination sequence to localize the lesion. I will start with visual acuity and refraction, then perform a careful motility exam in nine positions of gaze, measure vertical deviations with prism and alternate cover testing, and assess for torsion using double Maddox rods or fundus photography. I should confirm comitance versus incomitance, because comitant vertical deviations are more typical of skew deviation or decompensated phoria, whereas incomitant deviations with gaze-dependent changes suggest superior oblique palsy or restrictive myopathy. I will also check for ptosis, pupillary changes, and other cranial neuropathies, and I should remember that a positive three-step test supports superior oblique palsy but can be falsely positive in thyroid eye disease or myasthenia, so I must interpret it in context [^116U6KTW] [^116rvQi8] [^1151ERHf].
 
-> I will now examine the differential diagnosis, and I need to prioritize by prevalence and danger. Fourth nerve palsy is a leading cause of vertical diplopia in adults, often traumatic or microvascular, with hypertropia worsening in contralateral downgaze and excyclotorsion of the hypertropic eye. Thyroid eye disease frequently causes restrictive vertical diplopia from inferior rectus restriction and can mimic superior oblique palsy. Skew deviation produces a vertical misalignment with torsion and an ocular tilt reaction and warrants neuroimaging when central features are present. Third nerve palsy can cause vertical and horizontal diplopia with ptosis and pupillary involvement, prompting urgent aneurysm evaluation. Myasthenia gravis presents with fluctuating ptosis and diplopia that do not fit a single cranial nerve pattern. And fixation switch diplopia can emerge after cataract surgery or other vision-improving procedures in patients with latent strabismus [^735dfa1e] [^ba0c677a] [^f56c06c7] [^9193f024] [^68203190] [^f65de386].
+> I will now examine the differential diagnosis, and I need to prioritize by prevalence and danger. Fourth nerve palsy is a leading cause of vertical diplopia in adults, often traumatic or microvascular, with hypertropia worsening in contralateral downgaze and excyclotorsion of the hypertropic eye. Thyroid eye disease frequently causes restrictive vertical diplopia from inferior rectus restriction and can mimic superior oblique palsy. Skew deviation produces a vertical misalignment with torsion and an ocular tilt reaction and warrants neuroimaging when central features are present. Third nerve palsy can cause vertical and horizontal diplopia with ptosis and pupillary involvement, prompting urgent aneurysm evaluation. Myasthenia gravis presents with fluctuating ptosis and diplopia that do not fit a single cranial nerve pattern. And fixation switch diplopia can emerge after cataract surgery or other vision-improving procedures in patients with latent strabismus [^113x39ED] [^115kps53] [^117GrFZx] [^114iptvo] [^113fNXVR] [^117JFVRf].
 
-> Wait, let me verify the imaging thresholds so I do not over- or under-image. For isolated fourth nerve palsy in a patient over 50 with vascular risk factors, observation is reasonable, but I should image if there is no improvement by 3 to 6 months, if the palsy is non-isolated, or if there are atypical features. For third nerve palsy, I should obtain urgent brain MRI with contrast and neurovascular imaging to exclude aneurysm. For skew deviation or any central ocular motor sign, I should image promptly. And for thyroid eye disease, orbital imaging helps confirm restrictive myopathy and guide management [^9193f024] [^e5482e05] [^8cc19a56].
+> Wait, let me verify the imaging thresholds so I do not over- or under-image. For isolated fourth nerve palsy in a patient over 50 with vascular risk factors, observation is reasonable, but I should image if there is no improvement by 3 to 6 months, if the palsy is non-isolated, or if there are atypical features. For third nerve palsy, I should obtain urgent brain MRI with contrast and neurovascular imaging to exclude aneurysm. For skew deviation or any central ocular motor sign, I should image promptly. And for thyroid eye disease, orbital imaging helps confirm restrictive myopathy and guide management [^114iptvo] [^116rvQi8] [^114bgJ9B].
 
-> Let me consider conservative management first, because many cases improve spontaneously or can be managed non-surgically. For small vertical deviations, prisms can reduce diplopia, though lateral incomitance and torsion can limit success. For superior oblique palsy, I should observe for 6 to 12 months to allow for spontaneous recovery, using prisms or occlusion in the interim. For thyroid eye disease, I should optimize systemic management and consider prism or temporary occlusion while inflammation is active. And for myasthenia gravis, I should coordinate neurologic care and consider pyridostigmine or immunotherapy, recognizing that diplopia may persist despite treatment [^29911364] [^646b2989] [^ba0c677a] [^240802dd].
+> Let me consider conservative management first, because many cases improve spontaneously or can be managed non-surgically. For small vertical deviations, prisms can reduce diplopia, though lateral incomitance and torsion can limit success. For superior oblique palsy, I should observe for 6 to 12 months to allow for spontaneous recovery, using prisms or occlusion in the interim. For thyroid eye disease, I should optimize systemic management and consider prism or temporary occlusion while inflammation is active. And for myasthenia gravis, I should coordinate neurologic care and consider pyridostigmine or immunotherapy, recognizing that diplopia may persist despite treatment [^1124dDrj] [^113ZsksS] [^115kps53] [^111vRFDW].
 
-> I should confirm surgical indications and options when conservative measures fail or when a compensatory head posture causes neck pain or social burden. For superior oblique palsy, inferior oblique weakening procedures such as myectomy, recession, or anterior transposition are effective, and randomized data suggest anterior transposition may better reduce hypertropia in adduction, though evidence quality is limited. For thyroid eye disease, strabismus surgery is typically deferred until the disease is quiescent, and adjustable sutures are often used to titrate alignment. For small vertical deviations, targeted rectus muscle surgery or tenotomy can improve alignment and reduce prism dependence. And for post-cataract fixation switch diplopia, I should reverse monovision when feasible and consider prisms or surgery if diplopia persists [^95475ff7] [^e5482e05] [^92c893c0] [^68203190].
+> I should confirm surgical indications and options when conservative measures fail or when a compensatory head posture causes neck pain or social burden. For superior oblique palsy, inferior oblique weakening procedures such as myectomy, recession, or anterior transposition are effective, and randomized data suggest anterior transposition may better reduce hypertropia in adduction, though evidence quality is limited. For thyroid eye disease, strabismus surgery is typically deferred until the disease is quiescent, and adjustable sutures are often used to titrate alignment. For small vertical deviations, targeted rectus muscle surgery or tenotomy can improve alignment and reduce prism dependence. And for post-cataract fixation switch diplopia, I should reverse monovision when feasible and consider prisms or surgery if diplopia persists [^114pK8V4] [^116rvQi8] [^114kcZhh] [^113fNXVR].
 
-> But wait, what if the vertical diplopia is actually a manifestation of a central process rather than a peripheral ocular motor nerve palsy. I should double-check for red flags such as vertigo, skew deviation, internuclear ophthalmoplegia, or other brainstem signs, because these features shift the pretest probability toward a central lesion and mandate neuroimaging. In acute vestibular presentations, a pathologic skew greater than about 3 degrees is strongly associated with stroke, whereas smaller skews may be peripheral; this distinction guides urgency and the need for MRI and stroke pathways [^8cc19a56] [^d4dcec7e].
+> But wait, what if the vertical diplopia is actually a manifestation of a central process rather than a peripheral ocular motor nerve palsy. I should double-check for red flags such as vertigo, skew deviation, internuclear ophthalmoplegia, or other brainstem signs, because these features shift the pretest probability toward a central lesion and mandate neuroimaging. In acute vestibular presentations, a pathologic skew greater than about 3 degrees is strongly associated with stroke, whereas smaller skews may be peripheral; this distinction guides urgency and the need for MRI and stroke pathways [^114bgJ9B] [^116Saagm].
 
-> I need to ensure I address special scenarios that commonly confound the workup. After cataract surgery, new-onset vertical diplopia may reflect unmasked latent strabismus, aniseikonia, or fixation switch diplopia; careful refraction, prism trial, and review of preoperative records are essential. In patients with high myopia, strabismus fixus and heavy eye syndrome can cause large-angle esotropia with vertical components and may require specialized surgical approaches. And in older adults, sagging eye syndrome produces distance esotropia with modest vertical misalignment and responds well to prism or surgery [^f65de386] [^68203190] [^92a4c7b9].
+> I need to ensure I address special scenarios that commonly confound the workup. After cataract surgery, new-onset vertical diplopia may reflect unmasked latent strabismus, aniseikonia, or fixation switch diplopia; careful refraction, prism trial, and review of preoperative records are essential. In patients with high myopia, strabismus fixus and heavy eye syndrome can cause large-angle esotropia with vertical components and may require specialized surgical approaches. And in older adults, sagging eye syndrome produces distance esotropia with modest vertical misalignment and responds well to prism or surgery [^117JFVRf] [^113fNXVR] [^114kQYKa].
 
-> Let me reconsider prognosis so I counsel accurately. Microvascular fourth nerve palsies recover spontaneously in roughly 80 percent within about 1.5 months, though recovery is slower and less complete with larger initial deviations or non-vascular etiologies. Thyroid eye disease diplopia often fluctuates with disease activity and may require staged surgery after medical optimization. And post-cataract diplopia related to fixation switch or aniseikonia may improve with refractive or prism adjustments, but persistent cases may need strabismus surgery [^367913c0] [^ba0c677a] [^68203190].
+> Let me reconsider prognosis so I counsel accurately. Microvascular fourth nerve palsies recover spontaneously in roughly 80 percent within about 1.5 months, though recovery is slower and less complete with larger initial deviations or non-vascular etiologies. Thyroid eye disease diplopia often fluctuates with disease activity and may require staged surgery after medical optimization. And post-cataract diplopia related to fixation switch or aniseikonia may improve with refractive or prism adjustments, but persistent cases may need strabismus surgery [^112PkzzT] [^115kps53] [^113fNXVR].
 
-> Finally, I should confirm follow-up cadence and safety netting. For presumed microvascular cranial neuropathies, reassessment at 6 to 12 weeks is reasonable, with earlier imaging if new neurologic signs emerge or if there is no improvement. For thyroid eye disease, coordination with endocrinology and periodic orthoptic reassessment are key. And for all patients, I should document baseline measurements, educate about warning symptoms, and set expectations that the goal is comfortable single binocular vision in primary and reading positions, recognizing that some residual diplopia in extreme gaze is often acceptable [^9193f024] [^ba0c677a] [^0231957f].
+> Finally, I should confirm follow-up cadence and safety netting. For presumed microvascular cranial neuropathies, reassessment at 6 to 12 weeks is reasonable, with earlier imaging if new neurologic signs emerge or if there is no improvement. For thyroid eye disease, coordination with endocrinology and periodic orthoptic reassessment are key. And for all patients, I should document baseline measurements, educate about warning symptoms, and set expectations that the goal is comfortable single binocular vision in primary and reading positions, recognizing that some residual diplopia in extreme gaze is often acceptable [^114iptvo] [^115kps53] [^1114FdYA].
 
 ---
 
-Vertical diplopia is most often due to **superior oblique palsy** (cranial nerve IV) [^735dfa1e], **thyroid eye disease** (inferior rectus restriction) [^ba0c677a], or **skew deviation** (vestibular/brainstem) [^f56c06c7]. A **focused history and exam** — including the Parks-Bielschowsky three-step test [^d5e22221], torsion assessment [^e5482e05], and forced ductions — localizes the cause and guides imaging [^e5482e05]. Neuroimaging is indicated for non-isolated palsies, atypical features, or suspected central causes [^9193f024]. Management is cause-specific: observation or prisms for small/stable deviations [^29911364]; surgery for persistent or large deviations [^95475ff7]; and urgent care for compressive or inflammatory etiologies [^4e387aa6].
+Vertical diplopia is most often due to **superior oblique palsy** (cranial nerve IV) [^113x39ED], **thyroid eye disease** (inferior rectus restriction) [^115kps53], or **skew deviation** (vestibular/brainstem) [^117GrFZx]. A **focused history and exam** — including the Parks-Bielschowsky three-step test [^116U6KTW], torsion assessment [^116rvQi8], and forced ductions — localizes the cause and guides imaging [^116rvQi8]. Neuroimaging is indicated for non-isolated palsies, atypical features, or suspected central causes [^114iptvo]. Management is cause-specific: observation or prisms for small/stable deviations [^1124dDrj]; surgery for persistent or large deviations [^114pK8V4]; and urgent care for compressive or inflammatory etiologies [^112zy1HP].
 
 ---
 
@@ -49,10 +49,10 @@ Vertical diplopia arises from **misalignment of the visual axes in the vertical 
 
 | **Category** | **Common causes** | **Pathophysiology** |
 |-|-|-|
-| Cranial nerve palsies | - Superior oblique (CN IV) palsy [^735dfa1e] <br/> - Inferior rectus (CN III) palsy [^9f800a07] | - Neurogenic weakness or paralysis of extraocular muscles [^4e387aa6] <br/> - Often ischemic, traumatic, or compressive [^9ca4c9ae] |
-| Orbital restrictive disease | - Thyroid eye disease (TED) [^ba0c677a] <br/> - Orbital trauma/fracture [^d01c067f] <br/> - Orbital masses [^b0a3395a] | - Mechanical restriction of extraocular muscle movement [^ba0c677a] <br/> - Often due to inflammation, fibrosis, or entrapment [^d01c067f] |
-| Supranuclear/vestibular | - Skew deviation [^f56c06c7] <br/> - Brainstem lesions [^8cc19a56] <br/> - Cerebellar disease [^d4dcec7e] | - Asymmetric vestibulo-ocular input causing vertical misalignment and torsion [^f56c06c7] [^d4dcec7e] |
-| Neuromuscular junction | - Myasthenia gravis [^240802dd] | - Fluctuating muscle weakness affecting extraocular muscles [^240802dd] |
+| Cranial nerve palsies | - Superior oblique (CN IV) palsy [^113x39ED] <br/> - Inferior rectus (CN III) palsy [^1155U3DG] | - Neurogenic weakness or paralysis of extraocular muscles [^112zy1HP] <br/> - Often ischemic, traumatic, or compressive [^1151ERHf] |
+| Orbital restrictive disease | - Thyroid eye disease (TED) [^115kps53] <br/> - Orbital trauma/fracture [^116KXqbU] <br/> - Orbital masses [^115WseTb] | - Mechanical restriction of extraocular muscle movement [^115kps53] <br/> - Often due to inflammation, fibrosis, or entrapment [^116KXqbU] |
+| Supranuclear/vestibular | - Skew deviation [^117GrFZx] <br/> - Brainstem lesions [^114bgJ9B] <br/> - Cerebellar disease [^116Saagm] | - Asymmetric vestibulo-ocular input causing vertical misalignment and torsion [^117GrFZx] [^116Saagm] |
+| Neuromuscular junction | - Myasthenia gravis [^111vRFDW] | - Fluctuating muscle weakness affecting extraocular muscles [^111vRFDW] |
 
 ---
 
@@ -60,18 +60,18 @@ Vertical diplopia arises from **misalignment of the visual axes in the vertical 
 
 A **structured approach** is essential:
 
-- **History**: onset, duration, pain, trauma, systemic symptoms, comorbidities, prior surgery [^81e7d7c7].
-- **Examination**: cover-uncover, prism and alternate cover testing, motility, torsion, forced ductions, pupils, lids [^3159a7c4].
-- **Three-step test**: Parks-Bielschowsky test to localize vertical deviations, especially for superior oblique palsy [^d5e22221].
-- **Torsion assessment**: double Maddox rod, fundus photography, or synoptophore to distinguish excyclotorsion (SO palsy) from incyclotorsion (skew) [^e5482e05] [^f56c06c7].
+- **History**: onset, duration, pain, trauma, systemic symptoms, comorbidities, prior surgery [^114KbH1x].
+- **Examination**: cover-uncover, prism and alternate cover testing, motility, torsion, forced ductions, pupils, lids [^112GAWSF].
+- **Three-step test**: Parks-Bielschowsky test to localize vertical deviations, especially for superior oblique palsy [^116U6KTW].
+- **Torsion assessment**: double Maddox rod, fundus photography, or synoptophore to distinguish excyclotorsion (SO palsy) from incyclotorsion (skew) [^116rvQi8] [^117GrFZx].
 
 ---
 
 ## Diagnostic approach
 
-- **Neuroimaging**: MRI brain and orbits with contrast for non-isolated palsies, atypical features, or suspected central causes [^9193f024].
+- **Neuroimaging**: MRI brain and orbits with contrast for non-isolated palsies, atypical features, or suspected central causes [^114iptvo].
 - **Laboratory tests**: thyroid function, acetylcholine receptor antibodies if myasthenia suspected [^notfound].
-- **Forced duction testing**: differentiates restrictive from neurogenic causes [^e5482e05].
+- **Forced duction testing**: differentiates restrictive from neurogenic causes [^116rvQi8].
 
 ---
 
@@ -79,8 +79,8 @@ A **structured approach** is essential:
 
 Management depends on **etiology, severity, and chronicity**:
 
-- **Observation/prisms**: for small, stable deviations or neurogenic palsies with expected spontaneous recovery [^29911364].
-- **Surgery**: for persistent, large, or symptomatic deviations; options include inferior oblique weakening, superior oblique tuck, or vertical rectus surgery [^95475ff7].
+- **Observation/prisms**: for small, stable deviations or neurogenic palsies with expected spontaneous recovery [^1124dDrj].
+- **Surgery**: for persistent, large, or symptomatic deviations; options include inferior oblique weakening, superior oblique tuck, or vertical rectus surgery [^114pK8V4].
 - **Medical therapy**: immunosuppression for TED or myasthenia gravis [^notfound].
 - **Urgent intervention**: for compressive lesions (e.g. aneurysm, tumor) or acute inflammatory disease [^notfound].
 
@@ -88,7 +88,7 @@ Management depends on **etiology, severity, and chronicity**:
 
 ## Prognosis
 
-Prognosis varies by **cause**: microvascular cranial neuropathies often recover spontaneously within months [^7be20848], whereas restrictive or compressive etiologies may require surgery and carry variable outcomes [^bb7719af]. Early, accurate diagnosis and **targeted therapy** optimize recovery and reduce chronic diplopia [^44a1be1b].
+Prognosis varies by **cause**: microvascular cranial neuropathies often recover spontaneously within months [^114AfQ8P], whereas restrictive or compressive etiologies may require surgery and carry variable outcomes [^115nvgxe]. Early, accurate diagnosis and **targeted therapy** optimize recovery and reduce chronic diplopia [^112kkVAS].
 
 ---
 
@@ -98,13 +98,13 @@ Vertical diplopia reflects diverse causes; a **focused history and exam**, judic
 
 ## References
 
-### Clinical reasoning: an unusual cause of diplopia and ptosis in a 67-year-old woman [^1319ad26]. Neurology (2023). Medium credibility.
+### Clinical reasoning: an unusual cause of diplopia and ptosis in a 67-year-old woman [^111VKPa5]. Neurology (2023). Medium credibility.
 
 Diplopia is a relatively common chief complaint encountered in an outpatient neurology clinic and carries a broad differential diagnosis. In this case, a 67-year-old woman presented with new horizontal, binocular diplopia and ptosis of 8-month duration, which persisted without significant progression. This case highlights the need for a comprehensive list of differential diagnoses for patients with acquired ophthalmoplegia and ptosis. Key learning points include an illustration of the stepwise diagnostic approach to evaluate for common etiologies, the importance of interpreting test results in the appropriate clinical setting, and the significance of recognizing specific signs and symptoms in achieving the correct diagnosis.
 
 ---
 
-### Acute binocular diplopia: peripheral or central? [^4f1bae65]. Journal of Neurology (2020). Medium credibility.
+### Acute binocular diplopia: peripheral or central? [^1132HKY8]. Journal of Neurology (2020). Medium credibility.
 
 Introduction
 
@@ -120,13 +120,13 @@ In this study, we focus on the clinical differentiation of peripheral versus cen
 
 ---
 
-### Comprehensive adult eye and vision examination [^81e7d7c7]. AOA (2023). High credibility.
+### Comprehensive adult eye and vision examination [^114KbH1x]. AOA (2023). High credibility.
 
 Diplopia evaluation — A focused patient history can often provide a framework for accurately localizing the cause of any diplopia and help to direct the examination to an underlying cause.
 
 ---
 
-### Acute binocular diplopia: peripheral or central? [^8cc19a56]. Journal of Neurology (2020). Medium credibility.
+### Acute binocular diplopia: peripheral or central? [^114bgJ9B]. Journal of Neurology (2020). Medium credibility.
 
 Objectives
 
@@ -146,19 +146,19 @@ In acute diplopia due to central OMP, the most important accompanying symptom is
 
 ---
 
-### Clinical reasoning: a 73-year-old man with progressive proximal muscle weakness and binocular diplopia [^910d8b4b]. Neurology (2025). Medium credibility.
+### Clinical reasoning: a 73-year-old man with progressive proximal muscle weakness and binocular diplopia [^114i3kiv]. Neurology (2025). Medium credibility.
 
 Progressive weakness and diplopia have a wide differential diagnosis, which can be narrowed by obtaining a detailed history and performing a careful physical examination. It is essential to determine whether these 2 symptoms are due to a single, unifying process or separate processes. We review the case of a 73-year-old man with progressive proximal lower than upper extremity weakness, followed by binocular horizontal diplopia. Clinical history, with attention to rate of progression and associated symptomatology, guided our diagnostic approach and final diagnosis.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^de857359]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116gu5PW]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — rationale for treatment and patient outcome criteria: Control of disabling diplopia and perceived tilt of the subjective visual vertical warrant treatment. Treatment of skew deviation in adult strabismus is symptom directed, and targeted outcomes may include improved binocular vision, improved control of diplopia, and reduced tilt of the subjective visual vertical.
 
 ---
 
-### Surgical interventions for vertical strabismus in superior oblique palsy [^95475ff7]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Surgical interventions for vertical strabismus in superior oblique palsy [^114pK8V4]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -190,13 +190,13 @@ The two trials included in this review evaluated four inferior oblique weakening
 
 ---
 
-### Clinical reasoning: a 51-year-old woman with diplopia and headache [^bfcca7d2]. Neurology (2022). Medium credibility.
+### Clinical reasoning: a 51-year-old woman with diplopia and headache [^115uMNqX]. Neurology (2022). Medium credibility.
 
 A 51-year-old woman presented with a pressure-like headache behind her right eye and horizontal diplopia. On examination, she was unable to abduct or adduct the right eye but had intact vertical eye movements. Her deficits could not be overcome using the oculocephalic reflex. Imaging initially was interpreted as optic neuritis, but on careful review with radiology, a diffuse enhancing hyperintense signal within the orbital apex confirmed an orbital infiltrate. The focus of this case study is to review the localization approach for diplopia and build a differential diagnosis for orbital processes. Another key point is the importance of relying on the physical examination as the guide to a patient's management rather than imaging findings, which can often be misleading.
 
 ---
 
-### Eyes and stroke: the visual aspects of cerebrovascular disease [^45cc16e0]. Stroke and Vascular Neurology (2017). Low credibility.
+### Eyes and stroke: the visual aspects of cerebrovascular disease [^112nUhRh]. Stroke and Vascular Neurology (2017). Low credibility.
 
 Diplopia equally occurs in right versus left-sided strokes. Diplopia can be a consequence of horizontal or vertical ocular misalignment, either from third, fourth, or sixth cranial nerve palsy (figure 5) or from skew deviation. A prospective multicentre observational case cohort study by conducted by Rowe et al found that 16.5% of patients with poststroke had ocular misalignment with diplopia.
 
@@ -205,7 +205,7 @@ Sixth nerve palsy. In this image, the patient is asked to look right. His right 
 
 ---
 
-### Clinical outcomes and aetiology of fourth cranial nerve palsy with acute vertical diplopia in adults [^367913c0]. Eye (2020). Medium credibility.
+### Clinical outcomes and aetiology of fourth cranial nerve palsy with acute vertical diplopia in adults [^112PkzzT]. Eye (2020). Medium credibility.
 
 Background
 
@@ -225,7 +225,7 @@ The recovery rate of acute CN4 palsy was about 80% and duration of recovery was 
 
 ---
 
-### Painful vertical diplopia as a presentation of a pituitary mass [^ab4bdba1]. BMC Ophthalmology (2007). Low credibility.
+### Painful vertical diplopia as a presentation of a pituitary mass [^115NxN2C]. BMC Ophthalmology (2007). Low credibility.
 
 Conclusion
 
@@ -233,13 +233,13 @@ In our case there was an initial sudden onset of vertical diplopia which may hav
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^035d1d98]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^1115zEtF]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — binocular central diplopia management — Treatment for binocular central diplopia includes diminishing the diplopia, and the patient should be monitored/observed if symptoms are mild or occasional or if the patient is opposed to treatment. Although cover testing often shows small-angle strabismus that is nearly always vertical, prismatic or surgical correction of this deviation is not curative because it does not resolve the mismatch of distorted macular images or the conflict between foveal and peripheral alignment, though intervention can sometimes reduce symptoms. Reduced diplopia awareness has been reported with the use of prism correction or fogging in some patients, and fogging the vision in one eye, which eliminates the foveal conflict by producing a central scotoma, may be successful. Any diplopia relief from prism correction is most often transient, although in rare patients it may prove helpful.
 
 ---
 
-### Painful vertical diplopia as a presentation of a pituitary mass [^7dd7a643]. BMC Ophthalmology (2007). Low credibility.
+### Painful vertical diplopia as a presentation of a pituitary mass [^114DZtR8]. BMC Ophthalmology (2007). Low credibility.
 
 Background
 
@@ -255,7 +255,7 @@ Awareness of different modes of presentation of pituitary lesions is important s
 
 ---
 
-### Acute binocular diplopia: peripheral or central? [^9595cf33]. Journal of Neurology (2020). Medium credibility.
+### Acute binocular diplopia: peripheral or central? [^114pmUWe]. Journal of Neurology (2020). Medium credibility.
 
 Methods
 
@@ -265,7 +265,7 @@ At the time of presentation, all patients underwent a complete clinical–neurol
 
 ---
 
-### Acute binocular diplopia: peripheral or central? [^5be3ea33]. Journal of Neurology (2020). Medium credibility.
+### Acute binocular diplopia: peripheral or central? [^113MERnS]. Journal of Neurology (2020). Medium credibility.
 
 Both patient groups had their first medical contact on average 2 days after diplopia onset and were seen in our department on the same day or a day later. 70% of the patients had acute onset diplopia, in 23% the diplopia was progressive, and 7% of patients woke up with the symptoms (no difference between groups).
 
@@ -284,7 +284,7 @@ According to our data, the concomitant presence of all three factors has a 100% 
 
 ---
 
-### Painful vertical diplopia as a presentation of a pituitary mass [^2edc3994]. BMC Ophthalmology (2007). Low credibility.
+### Painful vertical diplopia as a presentation of a pituitary mass [^112CUQHq]. BMC Ophthalmology (2007). Low credibility.
 
 Background
 
@@ -292,13 +292,13 @@ It is rare for a pituitary tumour to present with painful diplopia due to a part
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^b3770e57]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^115b4mqp]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — skew deviation diagnosis (history): Skew deviation is almost always acute to subacute in onset; however, if the etiology is demyelination or a slow-growing tumor, onset may be more insidious. Skew associated with acute end-organ vestibular neuronitis will likely be associated with severe vertigo, dizziness, nausea, and vomiting, whereas skew in association with brainstem or cerebellar demyelination, stroke, or a mass lesion will demonstrate associated neurologic features (e.g., nystagmus, internuclear ophthalmoplegia (INO), hemiparesis, sensory loss, ataxia, and Horner's syndrome) and may be acute to subacute in onset. A history of neurological symptoms or symptoms of vertigo and nausea, in addition to the classic vertical diplopia and head tilt, may help guide additional evaluation, and vertical diplopia and commonly torticollis and subjective tilting of the perceived visual world are characteristic.
 
 ---
 
-### Recurrent diplopia after consuming alcoholic beverages… [^7a65e8d4]. AAFP (2004). Low credibility.
+### Recurrent diplopia after consuming alcoholic beverages… [^1148Tijm]. AAFP (2004). Low credibility.
 
 to the editor: A 67-year-old night watchman was referred to our clinic by an ophthalmologist because of a one-month history of recurrent vertical diplopia. The diplopia usually occurred after work when he was exhausted or after he had consumed sake. The diplopia always resolved spontaneously after sleeping, but this time it persisted for several weeks, and he finally consulted an ophthalmologist. On examination, his right eye was higher than the left, which produced the vertical diplopia, but there was no facial swelling. Three-dimensional computed tomography showed a complete bone defect in the orbital floor and a mucocele displacing the eyeball superiorly, which resulted in the symptom of vertical diplopia. Despite the defect in his orbital floor, the periosteum was intact. The mucocele was drained by aspiration through the gingivobuccal sulcus.
 
@@ -309,7 +309,7 @@ Even without those symptoms, recurrent diplopia would occur. The history of sinu
 
 ---
 
-### Adult hypertropia: a guide to diagnostic evaluation based on review of 300 patients [^735dfa1e]. Eye (2011). Low credibility.
+### Adult hypertropia: a guide to diagnostic evaluation based on review of 300 patients [^113x39ED]. Eye (2011). Low credibility.
 
 Purpose
 
@@ -329,79 +329,79 @@ In the majority of patients, the aetiologies of hypertropias can be ascertained 
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^ada45371]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^115SS45e]. Ophthalmology (2024). High credibility.
 
 Natural history — postoperative diplopia may be transient, but if it has not resolved or shown improvement within 6 months of the procedure, diplopia is less likely to resolve on its own.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^3fde85da]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^112dgxrD]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — treatment rationale and outcomes indicate that diplopia warrants treatment to resolve new-onset symptoms, with the patient outcome criterion being reduction or elimination of symptomatic diplopia.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^bfc9743f]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^115uLJU6]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — diagnosis history notes subacute onset binocular diplopia from esotropia that is worse at distance and may have modest vertical misalignment; the disorders are progressive and may begin to impact alignment at near, a detailed medical history should include the use of prism correction in glasses, symptoms first become apparent with distant fixation and most commonly after age 50 years for classic divergence insufficiency, symptoms are similar for sagging eye syndrome and presentation is more common in the seventh decade of life or older, associated changes include blepharoptosis (29%) and deep superior lid sulcus defect (64%), a history of blepharoplasty, brow lift, or facelift surgery has been noted in some cases, heavy eye or myopic strabismus fixus is associated with very high axial myopia of more than 27mm, and onset may begin earlier in adult life with chronic progression to more extreme esotropia and possible hypotropia often associated with mechanical restriction.
 
 ---
 
-### Diplopia in autoimmune thyroid disease… [^ba0c677a]. JAMA Network (2025). Excellent credibility.
+### Diplopia in autoimmune thyroid disease… [^115kps53]. JAMA Network (2025). Excellent credibility.
 
 Diplopia without obvious exophthalmos, caused by infiltrative endocrine ophthalmopathy, developed in 12 patients with clinical and laboratory confirmation of autoimmune thyroid disease. In eight patients, the diplopia alone prompted medical attention, which led to the diagnosis of autoimmune thyroid disease. A hypotropia secondary to restrictive tightening of the inferior rectus muscle, producing vertical diplopia, was the most common manifestation of the disorder. The ocular muscle imbalance in autoimmune thyroid disease is caused by mechanical orbital restriction of the extraocular muscle, not by an innervational defect. Evidence of orbital restriction of the eye muscles can establish the diagnosis, regardless of the patient's thyroid function. Appen RE, Wendelborn D, Nolten WE. Diplopia in Autoimmune Thyroid Disease. Arch Intern Med. 1982; 142: 898–901.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^de9d7ad2]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116h39Wq]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — binocular central diplopia diagnosis and testing — Binocular central diplopia develops within days to weeks of worsening maculopathy or foveal abnormality because the foveal image in the two eyes becomes too dissimilar to fuse. A detailed medical history should include information on ocular conditions and specifically retinal disease involving the macula, and an examination should include eliciting any history of retinal disease affecting the macula of one or both eyes. A full orthoptic examination is warranted because a proportion of patients who have maculopathy and diplopia have other forms of treatable strabismus, and prism and alternate cover testing demonstrates either no strabismus or a small vertical deviation. Metamorphopsia may be identified on the Amsler grid test and quantified using M-Charts, and aniseikonia (unequal images) can be quantified using the Awaya test. For dragged-fovea diplopia syndrome, the lights on/off test is pathognomonic, but this test is not effective unless the entire room is darkened with no cues to peripheral fusion; an alternative is the optotype-frame test in which diplopia of the letter with a single monitor frame indicates that peripheral fusion has taken over and foveal diplopia syndrome is present.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^92a4c7b9]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^114kQYKa]. Ophthalmology (2024). High credibility.
 
 Sagging eye syndrome (divergence insufficiency esotropia) — features and management: This variant results from aging and weakening of circumferential supportive bands between the superior and lateral rectus muscles, where the superior rectus shifts medially and the lateral rectus shifts inferiorly, producing esotropia with diplopia at distance and occasionally very modest vertical misalignment; facial aging signs are common, it is a very common cause of acquired binocular diplopia in patients presenting between 60 and 80 years of age, is more frequent in myopes, and is well managed with prism or strabismus surgery.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^86fb9d86]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^114T7rdB]. Ophthalmology (2024). High credibility.
 
 Rationale for treatment — diplopia, loss of binocular vision, compensatory head position, and inability to make eye contact with poor eye alignment all warrant treatment.
 
 ---
 
-### How do I manage functional visual loss [^546ece8a]. Eye (2024). Medium credibility.
+### How do I manage functional visual loss [^113ABBN1]. Eye (2024). Medium credibility.
 
 b Prisms can be used in several ways to assess for functional vision loss in monocular cases. In severe monocular functional visual loss, a 10-dioptre vertical prism test can be used to displace an image vertically towards the apex of the prism, thus leading to recognition of diplopia. Even if the patient denies experiencing diplopia, the diplopic images are difficult to ignore or 'suppress' and the patient can often be observed looking from one image to the other where visual acuity is near equal. Similarly, a prism reflex test, typically with a 20-dioptre horizontal prism, can be used in an adult patient to induce a motor fusion response. The prism is placed base out before one eye whilst the patient fixes on a near target. This induces diplopia and the eye behind the prism adducts towards the apex of the prism to move the prismatic image to the fovea. The fellow eye will make a corresponding abduction but due to ongoing diplopia it will make a positive fusional adduction after a second or so to restore binocular single vision. This fusional movement confirms the patient has binocular vision even if they don't report experiencing diplopia - only patients with severe unilateral visual loss will not overcome the prism and therefore not make the second fusional movement. In unilateral cases with less severe impairment the similar monocular vertical prism dissociation test using a 4-dioptre vertical prism can be used over to induce vertical diplopia whilst fixating on a high acuity target (eg single 6/6 Snellen optotype at distance). This relies on the patient reporting they observe diplopia and if so to compare the sharpness of the two letters. If they are reported as similar, then this confirms good acuity in both eyes.
 
 ---
 
-### Pearls&Oy-sters: vertical diplopia and ocular torsion: peripheral vs central localization [^83734513]. Neurology (2022). Medium credibility.
+### Pearls&Oy-sters: vertical diplopia and ocular torsion: peripheral vs central localization [^114Mt6Z8]. Neurology (2022). Medium credibility.
 
 We describe a case with torsional deviation of the eyes from a brainstem lesion. Torsional eye movement refers to changes in the position of the eyes in the roll plane around the visual axis. When the head is tilted laterally (that is, rolled toward the shoulder), the eyes roll in the opposite direction as part of the torsional vestibulo-ocular reflex known as the ocular counter-roll. Pathologies that affect the otolith-ocular pathway can lead to a torsional deviation of the eyes as part of the ocular tilt reaction (OTR) that also causes vertical deviation of the eyes (skew deviation) and head tilt. Lesions caudal to the pontomedullary junction (such as the labyrinth, eighth cranial nerve, or vestibular nucleus) result in an OTR with ipsiversive torsional deviation, whereas lesions rostral to the junction result in an OTR with contraversive torsional deviation. Furthermore, torsional deviation of the eyes in the OTR is conjugate (incyclotorsion in the higher eye and excyclotorsion in the lower eye), whereas torsional deviation from ocular palsy in peripheral lesions is disconjugate (e.g., exyclotorsion only in the higher eye with superior oblique palsy). Therefore, the pattern of torsional eye deviation can be helpful in localizing the lesion. Several techniques including fundus photography, double Maddox rod testing, optical coherence tomography, and video-oculography are used to measure torsional eye position.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^0231957f]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^1114FdYA]. Ophthalmology (2024). High credibility.
 
 Provider and setting — diagnosis and management of 6th nerve palsy require the training and clinical judgment of an experienced ophthalmologist, and orthoptists working under ophthalmologist supervision can be an asset; counseling and referral guidance state that neuroimaging should be considered in all young patients or in any patient with other cranial neuropathies, other neurologic change or elevated intraocular pressure (IOP), signs of elevated intracranial pressure, or if there are no compelling vasculopathic risk factors, and in the aging population with risk factors, lack of resolution over time suggests a need for neuroimaging; if the primary diagnosis is uncertain, referral should also be considered to providers with expertise in neuro-ophthalmology and adult strabismus, the ophthalmologist should discuss findings, diagnosis, and management options, patients should be advised that the goal of treatment is to eliminate diplopia in the primary position and to create a reasonable field of single binocular vision, and patients will most likely continue to have diplopia in extreme lateral gaze.
 
 ---
 
-### Isolated inferior rectus muscle palsy from a solitary metastasis to the oculomotor nucleus… [^9f800a07]. JAMA Network (2025). Excellent credibility.
+### Isolated inferior rectus muscle palsy from a solitary metastasis to the oculomotor nucleus… [^1155U3DG]. JAMA Network (2025). Excellent credibility.
 
 - A 55-year-old man with squamous cell carcinoma of the esophagus had vertical diplopia secondary to metastasis to the brain stem. The lesion was detected by magnetic resonance scanning but not by computed tomography. Clinically, the disturbance in ocular motility localized to the right inferior rectus muscle. At autopsy, a single metastasis was present in the brain stem, contiguous with the right oculomotor nucleus and involving a small portion of the nucleus. The findings in this case support the concept that, in humans, the oculomotor nucleus is organized into functional subnuclei. Pusateri TJ, Sedwick LA, Margo CE. Isolated Inferior Rectus Muscle Palsy From a Solitary Metastasis to the Oculomotor Nucleus. Arch Ophthalmol. 1987; 105: 675–677.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^889bc6d3]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^114VXe6n]. Ophthalmology (2024). High credibility.
 
 Adult strabismus PPP — management of skew deviation emphasizes that the primary diagnostician should refer the patient for evaluation by indicated neurology or otolaryngology specialists, that initial treatment with prisms may be helpful to manage diplopia while waiting for possible recovery, and that botulinum toxin, prism, or strabismus surgery may be considered for cases that do not resolve; the goals of surgery should be customized for the individual patient, and these interventions may help reduce both vertical and torsional diplopia, may reduce the perceived tilting of the visual field, and in select cases may prove successful at resolving head tilt.
 
 ---
 
-### Nonneurologic causes of binocular diplopia for the neurologist [^ea7d719c]. Current Opinion in Neurology (2023). Medium credibility.
+### Nonneurologic causes of binocular diplopia for the neurologist [^116zeEnX]. Current Opinion in Neurology (2023). Medium credibility.
 
 Purpose Of Review
 
@@ -417,25 +417,25 @@ Diplopia can be a difficult symptom for the neurologist to evaluate. A systemati
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^646b2989]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^113ZsksS]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — superior oblique muscle palsy background notes that superior oblique muscle palsy is one of the common types of vertical strabismus seen in adults, and annual incidence has been reported to be 6.3 cases per 100,000 people with a higher incidence among males than females; risk factors include head trauma and increasing age (in age-related decompensation of congenital weakness). In long-standing and presumed congenital superior oblique palsy (SOP), patients may experience no diplopia or intermittent diplopia and a long-standing effective compensatory head position minimizes diplopia awareness; based on later-decade presentations, the natural history of presumed congenital SOP is deterioration in some cases. Treatment is warranted for diplopia, compensatory head position sometimes associated with neck pain, and asthenopia.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^4e387aa6]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^112zy1HP]. Ophthalmology (2024). High credibility.
 
 Oculomotor palsy — disease definition and clinical features — is also known as a 3rd nerve palsy and is the second most common cranial neuropathy; patients usually present with diplopia from misalignment that has both a horizontal and vertical component and sometimes with difficulty reading secondary to accommodative deficiency, and the presentation is an incomitant deviation with ptosis and extraocular muscle paresis that typically leaves the eye abducted, infraducted, and incyclotorted due to preserved lateral rectus and superior oblique function; the pupil may or may not be involved, which should be noted to help direct evaluation, and aberrant re-innervation is more common with prior trauma or a compressive lesion but can also occur with other etiologies.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^8880a763]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^114VNXht]. Ophthalmology (2024). High credibility.
 
 Care process — patient outcome criterion focuses on reduction of diplopia.
 
 ---
 
-### Diplopia due to skew deviation following neurotologic procedures [^2f107284]. Otology & Neurotology (2012). Low credibility.
+### Diplopia due to skew deviation following neurotologic procedures [^112CmwfZ]. Otology & Neurotology (2012). Low credibility.
 
 Objective
 
@@ -459,19 +459,19 @@ Patients undergoing CPA surgery or labyrinthectomy can develop postoperative dip
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^68203190]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^113fNXVR]. Ophthalmology (2024). High credibility.
 
 Fixation switch diplopia — population, objectives, epidemiology, and course are summarized as follows: The patient population includes adults with fixation switch diplopia. Clinical objectives are to counsel the patient on the diagnosis and treatment options, manage diplopia, and inform the patient's other health care providers of the diagnosis and treatment plan. Prevalence and incidence are unknown, and risk factors include any ophthalmic disorder or intervention that switches fixation to the previously nondominant eye in a patient with latent or manifest strabismus. The natural history is a subacute complaint of new-onset diplopia after any ophthalmic disorder or intervention that switches fixation to the previously nondominant eye in a patient with latent or manifest strabismus.
 
 ---
 
-### Comatic aberration as a cause of monocular diplopia [^9220824a]. Journal of Cataract and Refractive Surgery (2006). Low credibility.
+### Comatic aberration as a cause of monocular diplopia [^114je7UD]. Journal of Cataract and Refractive Surgery (2006). Low credibility.
 
 Three patients (5 eyes) presented with complaints of monocular diplopia and no history of ocular trauma or surgery. The patients had comprehensive neuroophthalmic evaluation including manifest refraction, anterior segment and dilated fundus examination, and corneal topography. All patients also had wavefront analysis using the LADARWave system (Alcon). Two patients (4 eyes) also had hard contact lens overrefraction. The patients had a normal initial examination including corneal topography. One patient (2 eyes) did not experience resolution of diplopia with pinhole. No eye improved with manifest refraction or hard contact lens overrefraction. However, each patient had a significant amount of coma on wavefront analysis. Moreover, eyes with horizontal diplopia had horizontal coma and eyes with vertical diplopia had vertical coma as measured with the wavefront device. Higher-order optical aberrations such as coma may be associated with monocular diplopia. Wavefront technology may be useful in the workup of monocular diplopia.
 
 ---
 
-### Persistent vertical binocular diplopia after cataract surgery [^1ee61790]. American Journal of Ophthalmology (2001). Low credibility.
+### Persistent vertical binocular diplopia after cataract surgery [^111nov1V]. American Journal of Ophthalmology (2001). Low credibility.
 
 Purpose
 
@@ -495,7 +495,7 @@ In this study, persistent binocular vertical diplopia after cataract surgery occ
 
 ---
 
-### Current concepts in acute vestibular syndrome and video-oculography [^d4dcec7e]. Current Opinion in Neurology (2022). Medium credibility.
+### Current concepts in acute vestibular syndrome and video-oculography [^116Saagm]. Current Opinion in Neurology (2022). Medium credibility.
 
 Video test of skew
 
@@ -511,19 +511,19 @@ Crosstalk occurs when we observe simultaneous and synchronous vertical eye movem
 
 ---
 
-### "Retinal diplopia" associated with macular wrinkling [^59187d29]. Neurology (2004). Low credibility.
+### "Retinal diplopia" associated with macular wrinkling [^113H68AU]. Neurology (2004). Low credibility.
 
 Binocular diplopia is usually due to misalignment from ocular motor dysfunction. Three patients with chronic binocular vertical diplopia and small comitant hypotropic deviations due to macular displacement (heterotopia) associated with monocular retinal wrinkling are described. This maculopathy was idiopathic in two and secondary to treated retinal detachment in the third. Displacement of the macula by vitreoretinal traction is an unusual cause of binocular diplopia that requires careful ophthalmoscopy to diagnose.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^e5482e05]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116rvQi8]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — evaluation of torsion and superior oblique palsy (SOP) should include refractive assessment and selective neuroimaging based on clinical features. Determination of refractive error should be included in the examination, and assessment of torsion does not require, but is enhanced by, evaluation on a synoptophore using fusable targets with square edges; that assessment determines whether torsion is a barrier to fusion and the amount to correct. Fundus torsion by indirect ophthalmoscopy or with fundus photography is less useful because normal values have a wide range, and therefore it is almost always impossible to assess the change from a previous undocumented state to the current state. Neuroimaging is rarely indicated in isolated unilateral SOP or bilateral cases in which trauma is the known cause, but acquired symptomatic diplopia with poor fusional amplitudes may be an indication for brain and/or orbital MR imaging with contrast, and neuroimaging should always be performed if there are additional central nervous system signs or symptoms. Occult thyroid eye disease (TED) can present as new-onset vertical diplopia with a positive three-step test that resembles SOP, and acute-onset SOP may be caused by giant cell arteritis. Intraoperative exaggerated forced ductions often reveal a lax superior oblique tendon in presumed congenital SOP; quantitative torsion forced ductions help quantify lax or tight oblique muscles, and vertical rectus forced ductions in clinic or at surgery may reveal ipsilateral limitation of downgaze from superior rectus contracture or contralateral restriction of elevation from inferior rectus contracture, which many consider important to address in any surgical plan.
 
 ---
 
-### A computerized red glass test for quantifying diplopia [^644cbc56]. BMC Ophthalmology (2017). Low credibility.
+### A computerized red glass test for quantifying diplopia [^113ZhY7X]. BMC Ophthalmology (2017). Low credibility.
 
 Results
 
@@ -538,31 +538,31 @@ CRT computerized red glass test, Rt right, Lt left, IO inferior oblique muscle, 
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^9ca4c9ae]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^1151ERHf]. Ophthalmology (2024). High credibility.
 
 Superior oblique palsy (SOP) — disease definition, presentation, differential features, and common causes are outlined as follows: SOP is due to partial or complete paralysis of the 4th cranial nerve (trochlear nerve), producing a motility disturbance with vertical, torsional, and to a lesser degree horizontal incomitance; both congenital and acquired forms exist, with the presumed congenital type sometimes first presenting in adulthood. Patients may show hypertropia of the involved eye with compensatory head tilt and report diplopia, asthenopia, and/or anomalous head posture. Decompensated congenital SOP can include facial asymmetry with a shorter maxilla on the side opposite the SOP, and some chronic vertical deviations consistent with SOP lack a decreased superior oblique muscle belly on neuroimaging, sometimes showing only compartmental atrophy; these may be referred to as presumed SOP or masquerading SOP. Non-inflammatory or post-inflammatory TED with unilateral or bilaterally asymmetric inferior rectus enlargement can present with a three-step test mimicking SOP. Head trauma (including concussion) is among the most common identifiable causes of unilateral or bilateral acquired SOP, though isolated trochlear schwannomas and giant cell arteritis are extremely rare causes. Skew deviation can resemble SOP and is more frequently associated with less benign etiology and more often warrants neuroimaging.
 
 ---
 
-### Transient vertical diplopia and nystagmus associated with acute thalamic infarction [^e64f5ba1]. Clinical Imaging (2005). Low credibility.
+### Transient vertical diplopia and nystagmus associated with acute thalamic infarction [^116tSoqJ]. Clinical Imaging (2005). Low credibility.
 
 We describe a patient who presented with a 1-h history of vertical diplopia and nystagmus and was found to have acute left ventrolateral thalamic infarction on the diffusion-weighted magnetic resonance imaging (DWI MRI). This is the first case report demonstrating that vertical diplopia and nystagmus, which typically suggest a lesion in the brainstem or cerebellum, may also occur in acute thalamic infarction. DWI MRI can detect thalamic infarction as early as 1 h after its clinical manifestations.
 
 ---
 
-### Internuclear ophthalmoplegia as a presenting feature in a COVID-19-positive patient [^f1dd6eb6]. BMJ Case Reports (2021). High credibility.
+### Internuclear ophthalmoplegia as a presenting feature in a COVID-19-positive patient [^117BaPmX]. BMJ Case Reports (2021). High credibility.
 
 A 58-year-old man presented with vertical diplopia for 10 days which was sudden in onset. Extraocular movement examination revealed findings suggestive of internuclear ophthalmoplegia. Investigations were suggestive of diabetes mellitus, and reverse transcription-PCR for SARS-CoV-2 was positive. At 3 weeks of follow-up, his diplopia had resolved. Neuro-ophthalmic manifestations in COVID-19 are increasingly being recognised around the world. Ophthalmoplegia due to cranial nerve palsy and cerebrovascular accident in COVID-19 has been reported. We report a case of internuclear ophthalmoplegia in a patient with COVID-19.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^5d35ef77]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^113PBxxN]. Ophthalmology (2024). High credibility.
 
 Rationale for treatment — indications to treat: "Diplopia, the inability to make eye contact, and severe ocular misalignment preventing proper eye examinations or other needed ophthalmic surgery (in the case of strabismus fixus) warrant treatment".
 
 ---
 
-### Vertical diplopia and ptosis from removal of the orbital roof in pterional craniotomy [^a95608c4]. Ophthalmology (2015). Low credibility.
+### Vertical diplopia and ptosis from removal of the orbital roof in pterional craniotomy [^115L3oi3]. Ophthalmology (2015). Low credibility.
 
 Purpose
 
@@ -594,7 +594,7 @@ After pterional craniotomy, ptosis, diplopia, and vertical gaze limitation can r
 
 ---
 
-### A cyclic vertical deviation with dysthyroid ophthalmopathy: a case report [^69aac0a2]. BMC Ophthalmology (2016). Low credibility.
+### A cyclic vertical deviation with dysthyroid ophthalmopathy: a case report [^113hf47j]. BMC Ophthalmology (2016). Low credibility.
 
 Case presentation
 
@@ -602,31 +602,31 @@ A 40-year-old woman was referred to our strabismus clinic with a complaint of do
 
 ---
 
-### The two-minute approach to monocular diplopia [^6fa5b5f4]. Malaysian Family Physician (2010). Low credibility.
+### The two-minute approach to monocular diplopia [^113rXHb1]. Malaysian Family Physician (2010). Low credibility.
 
 Among other possible causes, monocular diplopia can be caused by cataract, ocular pterygium, keratoconus, conjunctivitis, astigmatism, ocular trauma, orbital mass and lens dislocation.
 
 ---
 
-### Eye care of the patient with diabetes mellitus [^2df1eb50]. AOA (2019). High credibility.
+### Eye care of the patient with diabetes mellitus [^112B7heX]. AOA (2019). High credibility.
 
 Ocular motility in diabetes mellitus — ocular motility disorders may occur in individuals with diabetes secondary to diabetic neuropathy involving the third, fourth, or sixth cranial nerves, and mononeuropathies may present a diagnostic challenge because many are not due to diabetes and other causes need to be ruled out. Pupillary involvement in diabetes-associated oculomotor nerve palsy occurs in about one fourth of all cases; the resolution can be variable depending on pupillary involvement and (Evidence Grade: B) these patients can generally be treated conservatively and monitored on a regular basis. Palsies of the third nerve are generally more common and are usually accompanied by ptosis of the eyelid with exotropia and hypotropia; acute pain may be associated with onset, and pupil sparing helps distinguish diabetes-related third nerve palsy from intracranial aneurysms or tumors. Sixth nerve palsy usually presents with horizontal diplopia; the affected eye is esotropic and is generally unable to be moved past the mid-line, and patients may turn their heads in the direction of their paretic field of action in order to eliminate diplopia. Fourth nerve palsy usually causes vertical diplopia that is typically sudden in onset and initially worsens; vertical deviation increases with downward gaze or lateral gaze away from the affected muscle when the head is tilted toward the affected side. Full ocular motility recovery generally occurs within two to six months; however, recurrences are common.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^a73263d9]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^115Gsrjr]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — provider and setting indicate that a complaint of diplopia normally prompts referral to a pediatric ophthalmologist, orthoptist, or neuro-ophthalmologist, many of whom are familiar with the diagnosis and management of this perplexing problem.
 
 ---
 
-### Poorly differentiated orbital neuroendocrine carcinoma [^b0a3395a]. BMJ Case Reports (2023). High credibility.
+### Poorly differentiated orbital neuroendocrine carcinoma [^115WseTb]. BMJ Case Reports (2023). High credibility.
 
 A man in his 70s presented with painless bilateral eyelid oedema and vertical diplopia. Evaluation showed a restrictive pattern of extraocular motility testing with MRI demonstrating significant enlargement of the right superior rectus and left superior oblique muscles along with right orbital fat stranding. Subsequent right orbital biopsy revealed poorly differentiated high-grade neuroendocrine carcinoma without a systemic primary site on further diagnostic workup. The patient was treated with carboplatin and etoposide and passed away from an infection a month after diagnosis. This case along with a review of other published cases highlights the varied presentation of orbital neuroendocrine carcinomas that may mimic a broad differential of orbital processes, thus requiring careful diagnostic workup. Subsequently, additional considerations in metastatic evaluation should be based on tumour histological features.
 
 ---
 
-### A conflicting case of ophthalmoparesis… [^5f273931]. JAMA Network (2025). Excellent credibility.
+### A conflicting case of ophthalmoparesis… [^113S4zuW]. JAMA Network (2025). Excellent credibility.
 
 A 37-year-old Asian nonsmoking man with no known medical or drug history presented with an insidious onset of left-eye ptosis and subsequent painless vertical diplopia for 1 year. He did not complain of headaches, facial numbness, dysarthria, facial droop, dysphagia, or limb weakness or numbness. There was no history of joint pain or constitutional symptoms. Neurological examination revealed a nonfatigable partial left-eyelid ptosis, left-eye hypotropia at primary position, and impaired left eye supraduction with a nonreactive left pupil on direct and consensual light reflexes. There were no other cranial nerve deficits. Limb reflexes, motor testing, and sensory testing results were normal, and the plantar responses were flexor. Cheng N. A Conflicting Case of Ophthalmoparesis. JAMA Neurol. 2022; 79: 1202–1203. doi: 10.1001/jamaneurol.2022
 
@@ -634,43 +634,43 @@ A 37-year-old Asian nonsmoking man with no known medical or drug history present
 
 ---
 
-### Summary benchmarks-full set – 2024 [^ddb2231e]. AAO (2024). High credibility.
+### Summary benchmarks-full set – 2024 [^116fg6fw]. AAO (2024). High credibility.
 
 Adult strabismus with a history of childhood strabismus — management plan specifies that the patient "should be monitored/observed if symptoms are mild, occasional, and well tolerated or if patient is opposed to treatment". It advises to "Consider if alignment might be improved with changing optical correction (e.g., correction of hyperopia and appropriate bifocal or progressive lenses for adults approaching presbyopia)". It further notes that "Reversal of monovision may be necessary and may resolve symptoms", and that "Prisms to address some forms of diplopia, and orthoptic exercises to address some forms of diplopia and asthenopia can be considered".
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^3d649af7]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^112a2398]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — common causes lists notable causes such as recurrent, decompensated, or unresolved childhood strabismus; sensory strabismus; convergence insufficiency; divergence insufficiency; sagging eye syndrome; strabismus associated with high axial myopia, including strabismus fixus; Graves' disease; orbital trauma; strabismus associated with other ophthalmic surgery; 4th nerve palsy; skew deviation; 6th nerve palsy; 3rd nerve palsy; myasthenia gravis; fixation switch diplopia; and foveal misregistration (binocular central diplopia).
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^f56c06c7]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^117GrFZx]. Ophthalmology (2024). High credibility.
 
 Skew deviation — definition and characteristic signs: Skew deviation is a vertical strabismus linked to vestibular end-organ or supranuclear utriculo-ocular pathway disorders in the posterior fossa, and the vertical strabismus may be comitant or incomitant with vertical diplopia, ocular torsion, torticollis, and an ocular tilt reaction characterized by head tilt toward the hypotropic shoulder with both eyes rotating in the direction of the head tilt; if present, vertical visual field tilt is in the same direction as the head tilt. With skew deviation the hypertropic eye shows fundus incyclotorsion and the hypotropic eye shows fundus excyclotorsion, helping distinguish it from 4th nerve palsy in which the hypertropic eye is most typically excyclotorted; ocular torsion in skew may be conjugate or disconjugate.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^92c893c0]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^114kcZhh]. Ophthalmology (2024). High credibility.
 
 Adult strabismus surgery — management of small deviations notes that surgeons will frequently encounter microtropias in adults, and that small deviations (≤ 8 prism diopters horizontally and < 3 prism diopters vertically) may prove clinically significant, causing diplopia or asthenopia; small horizontal or vertical deviations may be successfully treated using a tenotomy procedure (partial, central snip) or a single rectus muscle recession to obviate the need for prism correction.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^70c1d582]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^113tAikh]. Ophthalmology (2024). High credibility.
 
 Oculomotor palsy — patient population and clinical objectives — The patient population is adults with strabismus caused by oculomotor palsy; clinical objectives are to determine the etiology of the 3rd nerve palsy, counsel the patient on the diagnosis and treatment options, provide goal-directed management of strabismus (reconstruction, binocular vision, or reduction of diplopia), and inform the patient's other health care providers of the diagnosis and treatment plan.
 
 ---
 
-### Consensus statement on visual rehabilitation in mild traumatic brain injury [^f6d4351c]. Neurology: Clinical Practice (2022). High credibility.
+### Consensus statement on visual rehabilitation in mild traumatic brain injury [^117JwETd]. Neurology: Clinical Practice (2022). High credibility.
 
 Diplopia in mTBI — diplopia is described frequently after mTBI, ocular motor nerve injuries are rare yet diplopia has been reported by over 40% of US military veterans with mTBI from blast and nonblast causes; injury to cranial nerves III, IV, and VI may occur, small angles of strabismus including phorias are better appreciated with Maddox rod testing than with prism cover evaluation, ocular motor alignment is important for daily activities, and correlation of diplopia with afferent TBI symptoms has not been demonstrated.
 
 ---
 
-### Prevalence of non-strabismic binocular vision anomalies and age-related changes in binocular vision among middle-aged and older adults: a systematic review [^fef86e68]. BMC Ophthalmology (2025). Medium credibility.
+### Prevalence of non-strabismic binocular vision anomalies and age-related changes in binocular vision among middle-aged and older adults: a systematic review [^117X1JQo]. BMC Ophthalmology (2025). Medium credibility.
 
 Clinical diagnosis of NSBVAs in middle-aged and older adults
 
@@ -680,25 +680,25 @@ The Convergence Insufficiency Symptom Survey (CISS) questionnaire measures treat
 
 ---
 
-### Refractive errors preferred practice pattern ® [^9851b1f8]. Ophthalmology (2023). High credibility.
+### Refractive errors preferred practice pattern ® [^114tpZPM]. Ophthalmology (2023). High credibility.
 
 Anisometropia — eyeglass correction tolerance and management is described, noting that the majority of adults can tolerate up to 3.00 D of difference in eyeglass refractive correction between the two eyes, and that occasionally individuals may tolerate more than 3.00 D of difference. Reduction of symptomatic aniseikonia may be accomplished either by undercorrecting at the expense of acuity or modifying the lens base curve or lens thickness to alter relative image size. Vertical prism-induced diplopia can be a problem in presbyopic patients who wear bifocals; small amounts of induced prism can be corrected by either slabbing-off or slabbing-on the bifocal segment, and dissimilar segment types can also be used; a separate pair of reading eyeglasses, although less convenient, will avoid the problem of vertical anisophoria.
 
 ---
 
-### Adult strabismus summary benchmarks 2024 [^3159a7c4]. AAO (2024). High credibility.
+### Adult strabismus summary benchmarks 2024 [^112GAWSF]. AAO (2024). High credibility.
 
 Adult strabismus with a history of childhood strabismus — initial exam history and physical evaluation prioritize documenting chronicity and targeted testing. Initial exam history includes "History of chronicity, review past clinical, surgical and imaging records" and "Neuro-ophthalmic evaluation in cases where presentation suggests neurologic or systemic disease". The physical exam includes "Optical correction (glasses) and presence of any ground-in or overlay prism, and impact that the current correction might have on alignment", "Dry manifest and cycloplegic refraction providing clues to original oculomotor disturbance", and a "Complete motility examination, including cover-uncover, alternate-cover testing, prism and alternate cover measurements, and testing for binocular fusion and stereopsis, and assessment of alignment by light reflex testing (e.g. Krimsky) to compare with cover test and identification of abnormal angle kappa". Additional evaluation includes "Inspection of the ocular surface for conjunctival scars (prior incision sites) and exposure of the thinned sclera behind anatomical insertions (evidence of likely muscle recession)", "Inspection of the interpalpebral fissures for evidence of prior vertical or horizontal rectus muscle resection (smaller interpalpebral fissure) or recession (larger interpalpebral fissure)", and "Prism testing to simulate desired postsurgical alignment and range of overcorrection and undercorrection comfortably tolerated and unlikely to result in diplopia". Torsion assessment is advised with "Assessment for ocular torsion by sensory testing or anatomic evidence of torsion noted during indirect ophthalmoscopy, particularly in patients with vertical strabismus", and imaging options — computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, or optical coherence tomography (OCT) — are noted as "Imaging (e.g. CT, MRI, ultrasound or OCT) although nearly all cases can be managed without imaging".
 
 ---
 
-### Approach to patient with diplopia [^9193f024]. Journal of the Neurological Sciences (2020). Medium credibility.
+### Approach to patient with diplopia [^114iptvo]. Journal of the Neurological Sciences (2020). Medium credibility.
 
 This article presents an overview of the most important points a neurologist must remember when dealing with a patient complaining of diplopia. Patients with monocular diplopia and those with full ocular motility and comitant misalignment should be referred to an ophthalmologist and do not require further testing. Patients with recent onset of binocular diplopia who have associated "brainstem" symptoms should have an urgent brain MRI. All patients with 3rd cranial nerve palsy require urgent brain CTA to rule out compressive aneurysmal lesion. Management of patients over 50 years of age with microvascular risk factors with new onset of 6th nerve palsy is controversial: some image these patients at presentation while others choose a short period of observation as most of these patients would have a microvascular etiology for the 6th nerve palsy which should improve spontaneous in 2–3 months. All others with 6th nerve palsy require brain MRI with contrast. Patients with 4th palsy with hyperdeviation that worsens in downgaze should have an MRI with contrast and all others referred to an ophthalmologist. If there is more than one cranial nerve palsy, urgent neuroimaging should be performed with attention to cavernous sinus and superior orbital fissure. Ocular myasthenia should be suspected in patients with eye misalignment that does not fit a pattern for any cranial nerve palsy. Orbital pathology (most commonly thyroid eye disease) can result in restriction of ocular motility and has specific clinical signs associated with it.
 
 ---
 
-### A cyclic vertical deviation with dysthyroid ophthalmopathy: a case report [^4add23dd]. BMC Ophthalmology (2016). Low credibility.
+### A cyclic vertical deviation with dysthyroid ophthalmopathy: a case report [^112uzN1a]. BMC Ophthalmology (2016). Low credibility.
 
 Background
 
@@ -714,7 +714,7 @@ This case illustrates that cyclic vertical deviation may spontaneously resolve a
 
 ---
 
-### Outcomes of extraocular muscle surgery for diplopia or abnormal head posture after treatment of brain disease [^44a1be1b]. Clinical Ophthalmology (2020). Medium credibility.
+### Outcomes of extraocular muscle surgery for diplopia or abnormal head posture after treatment of brain disease [^112kkVAS]. Clinical Ophthalmology (2020). Medium credibility.
 
 Conclusion
 
@@ -722,13 +722,13 @@ Ocular alignment in most patients after treatment of SCVD or BT showed not only 
 
 ---
 
-### Best practices guidelines for trauma center recognition of child abuse, elder abuse, and intimate partner violence [^fbe25d4b]. ACS (2019). High credibility.
+### Best practices guidelines for trauma center recognition of child abuse, elder abuse, and intimate partner violence [^117SRvfk]. ACS (2019). High credibility.
 
 Orbital and adnexal trauma — Key clinical indicators and management triggers are described. Pain with motility and diplopia can be indicative of orbital trauma. In children, orbital floor fractures are often caused by significant blunt trauma to the face and orbits and, unlike in adults, may present without significant lid edema and ecchymosis. These fractures are often greenstick-type with entrapment of intra-orbital contents leading to restricted vertical ocular movements, and if accompanied by nausea, vomiting, bradycardia and/or syncope (oculocardiac reflex) urgent surgical repair is needed.
 
 ---
 
-### Clinical course and prognosis of trochlear nerve schwannomas [^58827340]. Ophthalmology (2009). Low credibility.
+### Clinical course and prognosis of trochlear nerve schwannomas [^113GDjB5]. Ophthalmology (2009). Low credibility.
 
 Purpose
 
@@ -760,7 +760,7 @@ Patients with isolated fourth nerve palsy and small lesions of the fourth nerve 
 
 ---
 
-### Strabismus following uncomplicated cataract surgery… [^f65de386]. JAMA Network (1997). Excellent credibility.
+### Strabismus following uncomplicated cataract surgery… [^117JFVRf]. JAMA Network (1997). Excellent credibility.
 
 During the PAST several years the incidence of bothersome postoperative diplopia in some patients following otherwise uneventful and successful cataract surgery has increased. Typically, these patients show outstanding improvement in visual acuity but are troubled by persistent incapacitating vertical and, occasionally, horizontal diplopia noted during the first few postoperative days. Usually, the cataract surgeon is surprised and perplexed by these new complaints. The diplopia has no single cause; rather, a variety of different reasons accounts for these distressing strabismic problems. The cataract surgeon is familiar with monocular causes of postoperative diplopia, such as corneal irregularities or lens decentration, as well as binocular problems related to anisometropia. In my experience, these causes for postoperative diplopia are uncommon, and a search for a true strabismic cause is frequently required.
 
@@ -768,19 +768,19 @@ Some patients may have previously unrecognized strabismic conditions that become
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^1182a6ad]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^111Sxg5a]. Ophthalmology (2024). High credibility.
 
 Adult strabismus diagnosis — history indicates that the medical history should include the following elements: a description of ocular misalignment in an adult with a history of persistent or recurrent childhood strabismus; strabismus angle and direction may be the same as the original presentation in childhood or different as a result of aging of the extraocular muscles or the impact of prior strabismus surgery; history of chronicity is important, and an acute change or newly symptomatic diplopia may warrant evaluation for other causes such as cranial nerve palsy, thyroid eye disease (TED), and myasthenia gravis; formal neuro-ophthalmic evaluation may be indicated in some cases where presentation suggests other neurologic or systemic disease; and an attempt should be made to acquire and review past clinical and surgical records as well as any prior imaging studies, although this is not always possible.
 
 ---
 
-### Emergence of diplopia and oscillopsia due to heimann-bielschowsky phenomenon after cataract surgery [^4bf21ac6]. The British Journal of Ophthalmology (2008). Low credibility.
+### Emergence of diplopia and oscillopsia due to heimann-bielschowsky phenomenon after cataract surgery [^112wbPiM]. The British Journal of Ophthalmology (2008). Low credibility.
 
 The Heimann-Bielschowsky phenomenon (HBP) refers to coarse vertical oscillation of the eye with impaired vision. The ocular movements are strictly monocular, occurring only in the eye with amblyopia. The vertical oscillation is of equal velocity in both vertical directions, or may sometimes be greater in the downward than upward direction. HBP develops several years after loss of vision. It can be differentiated from dissociated nystagmus in spasmus nutans, congenital nystagmus and internuclear ophthalmoplegia based on the strict unilaterality, vertical direction and low frequency. Previously, only a few reports described the development of oscillopsia due to HBP after cataract surgery, which resolved spontaneously or responded to gabapentin. However, visual impairments due to diplopia or oscillopsia from HBP after cataract surgery have received little attention. We report a man who developed persistent vertical diplopia and oscillopsia due to HBP after a cataract operation, which markedly impaired his vision.
 
 ---
 
-### A case of skew deviation and downbeat nystagmus induced by lithium [^4dd98e79]. BMC Ophthalmology (2019). Medium credibility.
+### A case of skew deviation and downbeat nystagmus induced by lithium [^112zR83S]. BMC Ophthalmology (2019). Medium credibility.
 
 Skew deviation is defined as vertical misalignment of the eyes due to asymmetric supranuclear input involving otolith-ocular pathways. It can occur with a variety of abnormalities in the vestibular system, brainstem, or cerebellum and can be associated with other neurologic symptoms. Skew deviation and downbeat nystagmus in a patient with a lesion in the NPH, a key constituent of the vestibular-cerebellar-brainstem neural network, have been also reported previously. However, to the best of our knowledge, this is the first report of skew deviation in addition to downbeat nystagmus in a potential case of lithium toxicity.
 
@@ -792,37 +792,37 @@ In conclusion, skew deviation and downbeat nystagmus can occur in patients with 
 
 ---
 
-### Neuro-ophthalmology in emergency medicine [^e424fde0]. Emergency Medicine Clinics of North America (2016). Low credibility.
+### Neuro-ophthalmology in emergency medicine [^116qEbuh]. Emergency Medicine Clinics of North America (2016). Low credibility.
 
 Understanding the anatomy and physiology of the eye, the orbit, and the central connections is key to understanding neuro-ophthalmologic emergencies. Anisocoria is an important sign that requires a systematic approach to avoid misdiagnosis of serious conditions, including carotid dissection (miosis) and aneurysmal third nerve palsy (mydriasis). Ptosis may be a sign of either Horner syndrome or third nerve palsy. An explanation should be pursued for diplopia since the differential diagnosis ranges from the trivial to life-threatening causes.
 
 ---
 
-### Diplopia following sub-tenon's infiltration of local anesthesia [^4834f9dd]. Journal of Cataract and Refractive Surgery (2002). Low credibility.
+### Diplopia following sub-tenon's infiltration of local anesthesia [^112r3uM6]. Journal of Cataract and Refractive Surgery (2002). Low credibility.
 
 A series of 3 patients with persistent diplopia following sub-Tenon's local anesthesia is presented. All 3 patients showed a pattern of vertical diplopia consistent with restriction of the inferior rectus muscle. The pathogenesis and significance of this complication are discussed.
 
 ---
 
-### Clinical reasoning: progressive headache and diplopia in an 89-year-old man [^5eed58fb]. Neurology (2025). Medium credibility.
+### Clinical reasoning: progressive headache and diplopia in an 89-year-old man [^113RjZPp]. Neurology (2025). Medium credibility.
 
 An 89-year-old man presented with a 3-year history of chronic daily headaches that significantly worsened over the past 4 months. Initially episodic, the left-sided headaches became continuous and were accompanied by systemic symptoms such as weight loss and elevated inflammatory markers, specifically C-reactive protein and erythrocyte sedimentation rate. Over subsequent weeks, the neurologic examination revealed new-onset left-sided ophthalmoplegia, ptosis, and marked visual acuity loss. This article explores the differential diagnosis for such a complex clinical presentation and highlights how a systematic diagnostic approach can guide clinicians toward the correct diagnosis.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^4410b110]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^112jumLs]. Ophthalmology (2024). High credibility.
 
 Adult Strabismus Preferred Practice Pattern glossary — diagnostic tests and instruments: Awaya Test uses adjacent calibrated half moons — one red and one green — to determine the degree of difference in image size and appearance, with images presented in any meridian enabling quantification of vertical, horizontal, and oblique aniseikonia. Bagolini Lenses are striated lenses used to test for suppression and normal or abnormal retinal correspondence. Optotype-Frame Test assesses central versus peripheral fusion by asking the patient to fixate an isolated Snellen optotype on an illuminated monitor and describe whether the letter is single or double; if maintaining a single frame causes diplopia of the letter, peripheral fusion has taken over and foveal diplopia syndrome is present, a disorder wherein stronger peripheral fusion makes it impossible to maintain single binocular vision centrally when foveal image disparity is sufficient to disrupt central fusion. Synoptophore is an instrument that measures the manifest strabismus angle in all planes, can fix the misalignment and test the ability to fuse superimposed images, and can be used for orthoptic training, exercising fusional vergences, and predicting whether strabismus surgery may result in binocular fusion; the field of view is only 20 to 24 degrees in diameter, which can limit peripheral fusion.
 
 ---
 
-### Clinical reasoning: a 63-year-old man with progressive multicranial neuropathy and leptomeningeal enhancement [^8096e1d4]. Neurology (2024). Medium credibility.
+### Clinical reasoning: a 63-year-old man with progressive multicranial neuropathy and leptomeningeal enhancement [^114He6VZ]. Neurology (2024). Medium credibility.
 
 A 63-year-old man, with a history of melanoma and basal cell carcinoma, presented with progressive right-sided facial numbness, vertical diplopia, and headache. Brain MRI revealed leptomeningeal enhancement of multiple cranial nerves and an enhancing mass-like lesion along the anterolateral surface of the pons and midbrain. Subsequent brain biopsy demonstrated the final diagnosis. This case highlights the broad differential diagnosis of leptomeningeal disease, emphasizing the role of specific clinical, laboratory, and imaging cues in guiding clinical reasoning.
 
 ---
 
-### Interventions for dissociated vertical deviation [^1d6bbbe0]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Interventions for dissociated vertical deviation [^111kcpzs]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -854,7 +854,7 @@ The four trials included in this review assessed the effectiveness of five diffe
 
 ---
 
-### Persistent diplopia after retrobulbar anesthesia [^f8a22cbb]. Journal of Cataract and Refractive Surgery (2004). Low credibility.
+### Persistent diplopia after retrobulbar anesthesia [^117McQJn]. Journal of Cataract and Refractive Surgery (2004). Low credibility.
 
 Purpose
 
@@ -878,7 +878,7 @@ Fifty percent of the cases of diplopia were associated with either direct trauma
 
 ---
 
-### Superior rectus transposition in the management of duane retraction syndrome: current insights [^8a8ea2d2]. Clinical Ophthalmology (2022). Medium credibility.
+### Superior rectus transposition in the management of duane retraction syndrome: current insights [^114YRCfT]. Clinical Ophthalmology (2022). Medium credibility.
 
 Induced Cyclotorsion
 
@@ -890,7 +890,7 @@ Vertical misalignment in the affected lateral gaze has also been reported follow
 
 ---
 
-### A new gene for autosomal dominant facial palsy / migraine identified in a family by whole exome sequencing [^b0de4b8a]. European Journal of Neurology (2024). Medium credibility.
+### A new gene for autosomal dominant facial palsy / migraine identified in a family by whole exome sequencing [^115XDVFo]. European Journal of Neurology (2024). Medium credibility.
 
 Abstract
 
@@ -912,13 +912,13 @@ These findings suggest that TRPM8 could be a new causative gene further linking 
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^d01c067f]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116KXqbU]. Ophthalmology (2024). High credibility.
 
 Strabismus after orbital trauma — disease definition and etiologies are described as follows: Strabismus after orbital trauma is common and may be present along with other ophthalmic, medical, and surgical conditions, and determining the cause of diplopia after orbital trauma requires a detailed history, examination, and often imaging. The etiology may be multifactorial, including direct damage to the extraocular muscles and their associated nerves, surrounding orbital structures or contemporaneous central nervous system trauma, with mechanisms such as rectus or oblique muscle avulsion, tear, or flap tear, hemorrhage, edema, or paresis, orbital bone fracture with and without entrapment of muscle, fat, or muscle pulleys; cranial neuropathies; disorders of accommodation or convergence; disruption of fusion, fusional amplitudes, saccades and smooth pursuit; decompensation of previous heterophoria; and other supranuclear defects that may result in diplopia.
 
 ---
 
-### Superior rectus transposition in the management of duane retraction syndrome: current insights [^8c671e29]. Clinical Ophthalmology (2022). Medium credibility.
+### Superior rectus transposition in the management of duane retraction syndrome: current insights [^114b9uMJ]. Clinical Ophthalmology (2022). Medium credibility.
 
 Complications
 
@@ -947,7 +947,7 @@ Often, these vertical deviations are small and asymptomatic. However, some of th
 
 ---
 
-### Factors influencing the self-reported sense of deviation in adults with successful surgical outcomes for strabismus [^06d4623e]. BMC Ophthalmology (2020). Medium credibility.
+### Factors influencing the self-reported sense of deviation in adults with successful surgical outcomes for strabismus [^111B8GG5]. BMC Ophthalmology (2020). Medium credibility.
 
 There were some limitations to this study. First, we used criteria for a successful outcome that included motor alignment (no greater than 10 pd. horizontal and 5 pd. vertical deviations) and the desired diplopia (no diplopia/visual confusion at primary and reading positions), whereas some previous studies use a lower threshold for vertical alignment (2 pd). When we used the stricter definition (within 10 pd. horizontal and 5 pd. vertical deviations), we didn't find any factors associated with subjects' sense of deviation. Further evaluations should be combined with more factors in future studies.
 
@@ -955,19 +955,19 @@ Second, although social anxiety levels have been reported to be related to the j
 
 ---
 
-### Binocular diplopia. A practical approach [^bb197bb3]. The Neurologist (2005). Low credibility.
+### Binocular diplopia. A practical approach [^115nPF9k]. The Neurologist (2005). Low credibility.
 
 Among other possible causes, binocular diplopia can be caused by thyroid eye disease, multiple sclerosis, Wernicke's encephalopathy, botulism, extraocular muscle entrapment, progressive external ophthalmoplegia, IgG4-related ophthalmic disease, complication of eye surgery, vitamin E deficiency, internuclear ophthalmoplegia, myasthenia gravis, trochlear nerve palsy, abducens nerve palsy, intracranial hypertension, oculomotor nerve palsy, orbital cellulitis, orbital fracture, nasopharyngeal cancer, maxillary sinus carcinoma, temporal arteritis, orbital mass and acute ischemic stroke. In addition, binocular diplopia can be caused by medications such as temozolomide, oxcarbazepine, lacosamide, gabapentin, flecainide, rufinamide and lacosamide ER.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^061a0067]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^111A3fF4]. Ophthalmology (2024). High credibility.
 
 Divergence insufficiency — definition, presentation, and associations: Divergence insufficiency is defined as an esotropia that increases with distance fixation, with patients typically having an acquired comitant esotropia that is typically 10 prism diopters larger at distance than at near and complaints of distance diplopia while rarely having diplopia at near; primary cases may be associated with decompensation of a long-standing esodeviation, loss of fusion, or chronically increased convergence tonus, with myopia common and hypertension and cardiovascular disease possible risk factors, whereas secondary cases are associated with neurological disease including lesions to a supranuclear divergence center, subtle 6th nerve palsy, neurologic abnormality associated with pontine tumors, or head trauma.
 
 ---
 
-### Functional outcomes of late posttraumatic enophthalmos correction [^bb7719af]. Plastic and Reconstructive Surgery (2018). Low credibility.
+### Functional outcomes of late posttraumatic enophthalmos correction [^115nvgxe]. Plastic and Reconstructive Surgery (2018). Low credibility.
 
 Background
 
@@ -991,7 +991,7 @@ Therapeutic, IV.
 
 ---
 
-### Causes and outcomes for patients presenting with diplopia to an eye casualty department [^7be20848]. Eye (2007). Low credibility.
+### Causes and outcomes for patients presenting with diplopia to an eye casualty department [^114AfQ8P]. Eye (2007). Low credibility.
 
 Purpose
 
@@ -1011,25 +1011,25 @@ Patients with clinically isolated single cranial nerve palsies associated with d
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^e5926f54]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116sMMKH]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — convergence insufficiency diagnosis — a comprehensive examination includes detailed sensorimotor evaluation, assessment of refractive status, and dilated fundus examination; history should include prior ocular surgery and diseases or trauma to the central nervous system, and symptoms can be quantified using the Convergence Insufficiency Symptom Survey and/or the Diplopia Questionnaire.
 
 ---
 
-### Adult strabismus surgery-2017 [^e0b7f317]. AAO (2017). Medium credibility.
+### Adult strabismus surgery-2017 [^116kA1ka]. AAO (2017). Medium credibility.
 
 Adult strabismus — overall benefits and recommendations: Adult strabismus results in visual, physical, and psychosocial disabilities, and successful strabismus surgery can relieve diplopia and visual confusion, restore or establish depth perception, expand the visual field, eliminate an abnormal head posture, and improve psychosocial function and employability; adults with strabismus should consult their ophthalmologist about the relative risks and benefits of surgery, recognizing that recommendations in this policy statement do not indicate an exclusive course for treatment or procedure to be followed and that alternative treatments that take into account individual circumstances may be appropriate and should be considered.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^d5e22221]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116U6KTW]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — diagnosis of superior oblique muscle palsy (SOP) emphasizes history and examination, including a detailed medical and ocular history with specific questions about prior head trauma, diplopia, and compensatory head posture and review of prior photos for a pattern of long-standing and potentially worsening compensatory head posture. Examination includes a sensorimotor evaluation with special attention to measuring torsion and the magnitude of misalignment in nine gaze positions to determine the position of gaze with the greatest deviation; the Parks-Bielschowsky three-step test is often used to confirm the diagnosis, and hypertropia is greatest in lateral gaze to the opposite side and head tilt to the same side. The three-step test may appear to confirm SOP where neuroimaging of the muscle belly fails to confirm involvement; these cases may be referred to as presumed SOP or masquerading SOP, but the surgical approach is the same as when addressing confirmed SOP and the associated vertical, torsional and horizontal deviations; quantifying the magnitude and direction of torsion enhances surgical planning, and extorsion is commonly found and may be quantified using Double Maddox Rods or Lancaster red–green testing and by noting fundus torsion.
 
 ---
 
-### Medical and surgical treatment for ocular myasthenia [^240802dd]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Medical and surgical treatment for ocular myasthenia [^111vRFDW]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1061,7 +1061,7 @@ The available randomized controlled literature does not permit any meaningful co
 
 ---
 
-### Clinical characteristics and surgical outcomes of isolated inferior rectus palsy [^29c52a97]. BMC Ophthalmology (2021). Medium credibility.
+### Clinical characteristics and surgical outcomes of isolated inferior rectus palsy [^1124vifY]. BMC Ophthalmology (2021). Medium credibility.
 
 A complete cure was defined as a vertical deviation of ≤ 3 PD in primary and reading positions, an absence of diplopia and normal head posture. An improvement was considered to be present when the vertical deviation was > 3 PD but ≤ 10 PD in primary position with an anomalous head posture. Failures were defined as > 10 PD vertical deviation and persistent diplopia in the primary position or downward gaze.
 
@@ -1069,7 +1069,7 @@ Statistical analysis was performed with use of the SPSS version 23.0 (SPSS Inc. 
 
 ---
 
-### Medical and surgical treatment for ocular myasthenia [^27a7d143]. The Cochrane Database of Systematic Reviews (2006). Low credibility.
+### Medical and surgical treatment for ocular myasthenia [^1121ntLa]. The Cochrane Database of Systematic Reviews (2006). Low credibility.
 
 Background
 
@@ -1101,24 +1101,24 @@ There are no data from randomized controlled trials on the impact of any form of
 
 ---
 
-### Esotropia and exotropia preferred practice pattern ® [^eecf7597]. Ophthalmology (2023). High credibility.
+### Esotropia and exotropia preferred practice pattern ® [^11773jhp]. Ophthalmology (2023). High credibility.
 
 Diagnosis — initial comprehensive strabismus evaluation aims to confirm the diagnosis, establish baseline status, inform the patient and/or family/caregiver, and determine therapy, and secondary causes for the strabismus should be considered, including restrictive and paralytic deviations caused by head trauma or increased intracranial pressure.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^29911364]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^1124dDrj]. Ophthalmology (2024). High credibility.
 
 Adult strabismus — conservative management includes observation and prisms for select small deviations. The patient should be monitored/observed if symptoms are mild, occasional, and not bothering the patient or if the patient is opposed to treatment. Small vertical deviations may be managed with prism glasses, although lateral incomitance of the vertical deviation, if present, often precludes successful implementation.
 
 ---
 
-### Adult strabismus preferred practice pattern ® [^e08c1d26]. Ophthalmology (2024). High credibility.
+### Adult strabismus preferred practice pattern ® [^116juHmF]. Ophthalmology (2024). High credibility.
 
 Abducens palsy (adult strabismus) patient population and clinical objectives: The patient population is adults with strabismus caused by 6th nerve palsy. Clinical objectives include: Determine the etiology of the 6th nerve palsy; Counsel the patient on the diagnosis and treatment options; Provide goal-directed management of strabismus (typically to reduce symptoms of diplopia or secondary compensatory head posture diplopia); and Inform the patient's other health care providers of the diagnosis and treatment plan.
 
 ---
 
-### Esotropia and exotropia preferred practice pattern ® [^1e78cb59]. Ophthalmology (2023). High credibility.
+### Esotropia and exotropia preferred practice pattern ® [^111nBCic]. Ophthalmology (2023). High credibility.
 
 Esotropia and Exotropia Preferred Practice Pattern — Individual study evidence levels use a SIGN-based scale with these definitions: I++ "High-quality meta-analyses, systematic reviews of randomized controlled trials (RCTs), or RCTs with a very low risk of bias"; I+ "Well-conducted meta-analyses, systematic reviews of RCTs, or RCTs with a low risk of bias"; I- "Meta-analyses, systematic reviews of RCTs, or RCTs with a high risk of bias"; II++ "High-quality systematic reviews of case-control or cohort studies"; II+ "High-quality case-control or cohort studies with a very low risk of confounding or bias and a high probability that the relationship is causal"; II "Well-conducted case-control or cohort studies with a low risk of confounding or bias and a moderate probability that the relationship is causal"; II- "Case-control or cohort studies with a high risk of confounding or bias and a significant risk that the relationship is not causal"; and III "Nonanalytic studies (e.g., case reports, case series)". All studies used to form a recommendation for care are graded for strength of evidence individually, and that grade is listed with the study citation.

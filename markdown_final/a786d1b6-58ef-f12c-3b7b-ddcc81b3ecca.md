@@ -15,63 +15,63 @@ Depakote dosing for siezures
 
 > Let's see… What do we have here? The user is asking about Depakote (divalproex sodium) dosing for seizures. Let's break this down step-by-step. First, I need to think about the drug formulations and labeled indications. Then, I should verify the universal mg/kg dosing framework and titration cadence. Next, I will examine dose adjustments by seizure type, including complex partial, absence, and generalized tonic-clonic seizures. After that, I need to check special populations such as pediatrics, the elderly, hepatic and renal impairment, and pregnancy. I will then review drug–drug interactions that alter levels and require monitoring. Finally, I should confirm safety thresholds, monitoring, and a practical dosing algorithm, and I will double-check any conflicting sources before concluding.
 
-> Let me first confirm the formulation landscape and labeled uses, because dosing and titration differ between delayed-release and extended-release products and by indication. Depakote delayed-release is indicated for complex partial seizures and absence seizures, and as adjunctive therapy in multiple seizure types, whereas Depakote ER is indicated for complex partial seizures and absence seizures, with some sources listing generalized tonic-clonic seizures as an additional indication, though I should verify whether that is on-label or commonly used off-label in practice [^ec0d8407] [^22960ab8].
+> Let me first confirm the formulation landscape and labeled uses, because dosing and titration differ between delayed-release and extended-release products and by indication. Depakote delayed-release is indicated for complex partial seizures and absence seizures, and as adjunctive therapy in multiple seizure types, whereas Depakote ER is indicated for complex partial seizures and absence seizures, with some sources listing generalized tonic-clonic seizures as an additional indication, though I should verify whether that is on-label or commonly used off-label in practice [^1172xcpE] [^111tGydh].
 
-> I need to verify the universal dosing framework. The FDA labeling consistently recommends starting at 10–15 mg/kg/day and titrating by 5–10 mg/kg/week toward a usual effective range below 60 mg/kg/day, with therapeutic total valproate concentrations typically falling between 50 and 100 mcg/mL; if control is inadequate, levels should be checked and dosing adjusted accordingly, keeping in mind the nonlinear relationship between dose and total concentration due to saturable protein binding [^31385aa8] [^ec0d8407] [^4ca0799b].
+> I need to verify the universal dosing framework. The FDA labeling consistently recommends starting at 10–15 mg/kg/day and titrating by 5–10 mg/kg/week toward a usual effective range below 60 mg/kg/day, with therapeutic total valproate concentrations typically falling between 50 and 100 mcg/mL; if control is inadequate, levels should be checked and dosing adjusted accordingly, keeping in mind the nonlinear relationship between dose and total concentration due to saturable protein binding [^112FyKgB] [^1172xcpE] [^112xbxiv].
 
-> Hold on, let's not jump to conclusions about seizure-type specifics. For complex partial seizures, both monotherapy and adjunctive therapy follow the 10–15 mg/kg/day start with 5–10 mg/kg/week titration, targeting below 60 mg/kg/day and using divided doses when the total exceeds 250 mg/day; I should confirm that this applies across DR and ER formulations, which it does in the FDA materials [^31385aa8] [^ec0d8407] [^2aa2d856].
+> Hold on, let's not jump to conclusions about seizure-type specifics. For complex partial seizures, both monotherapy and adjunctive therapy follow the 10–15 mg/kg/day start with 5–10 mg/kg/week titration, targeting below 60 mg/kg/day and using divided doses when the total exceeds 250 mg/day; I should confirm that this applies across DR and ER formulations, which it does in the FDA materials [^112FyKgB] [^1172xcpE] [^1126DBKB].
 
-> For absence seizures, I initially thought the starting dose was uniformly 15 mg/kg/day, but wait, let me verify the formulation nuance. The DR labeling recommends 15 mg/kg/day with 5–10 mg/kg/week increases, whereas the ER monograph aligns with the 10–15 mg/kg/day start for epilepsy broadly; practically, many clinicians use 15 mg/kg/day for absence seizures given the traditional guidance, but I should note that the ER epilepsy sections still anchor to the 10–15 mg/kg/day framework, so I will present both and emphasize clinical judgment and level monitoring [^4ca0799b] [^7061407f].
+> For absence seizures, I initially thought the starting dose was uniformly 15 mg/kg/day, but wait, let me verify the formulation nuance. The DR labeling recommends 15 mg/kg/day with 5–10 mg/kg/week increases, whereas the ER monograph aligns with the 10–15 mg/kg/day start for epilepsy broadly; practically, many clinicians use 15 mg/kg/day for absence seizures given the traditional guidance, but I should note that the ER epilepsy sections still anchor to the 10–15 mg/kg/day framework, so I will present both and emphasize clinical judgment and level monitoring [^112xbxiv] [^113scHBc].
 
-> For generalized tonic-clonic seizures, I should confirm whether the ER formulation provides explicit dosing. The ER monograph includes a fixed-dose adult regimen starting at 250 mg daily with maintenance commonly 1,000–2,000 mg daily, which is a practical approach when weight-based dosing is less critical or when converting from other regimens; I need to ensure this is framed as an ER-specific pathway rather than replacing the mg/kg framework used for other indications [^df10936f] [^7061407f].
+> For generalized tonic-clonic seizures, I should confirm whether the ER formulation provides explicit dosing. The ER monograph includes a fixed-dose adult regimen starting at 250 mg daily with maintenance commonly 1,000–2,000 mg daily, which is a practical approach when weight-based dosing is less critical or when converting from other regimens; I need to ensure this is framed as an ER-specific pathway rather than replacing the mg/kg framework used for other indications [^116hhomY] [^113scHBc].
 
-> Next, I should review special populations, starting with pediatrics. Children 10 years and older follow the same mg/kg principles as adults, and younger children have slower clearance early in life, necessitating cautious titration; pediatric PK studies of ER show similar exposure profiles to adults with once-daily dosing, supporting the same mg/kg framework in older children and adolescents, though I should double-check that the ER formulation is appropriate for the specific seizure type and age [^ec0d8407] [^7b477a27] [^635d99a8].
+> Next, I should review special populations, starting with pediatrics. Children 10 years and older follow the same mg/kg principles as adults, and younger children have slower clearance early in life, necessitating cautious titration; pediatric PK studies of ER show similar exposure profiles to adults with once-daily dosing, supporting the same mg/kg framework in older children and adolescents, though I should double-check that the ER formulation is appropriate for the specific seizure type and age [^1172xcpE] [^1149mV9g] [^113YKDNw].
 
-> For older adults, I need to ensure dose reduction and slower titration are emphasized. The FDA advises lower starting doses, slower titration, and closer monitoring for somnolence, dehydration, and nutrition, reflecting reduced unbound clearance and increased sensitivity; I should confirm that this applies across formulations, which it does in the general dosing advice sections [^5dc008e1] [^5c704635].
+> For older adults, I need to ensure dose reduction and slower titration are emphasized. The FDA advises lower starting doses, slower titration, and closer monitoring for somnolence, dehydration, and nutrition, reflecting reduced unbound clearance and increased sensitivity; I should confirm that this applies across formulations, which it does in the general dosing advice sections [^113PzMM2] [^113N3aCt].
 
-> Hepatic impairment requires a strict contraindication, and I should confirm that both DR and ER carry this warning. The labels advise against use in patients with significant liver disease due to risk of hepatotoxicity and hyperammonemia, so I need to ensure baseline liver function testing and ongoing surveillance are standard, and avoid use when liver disease is present [^8633d1a9] [^1f2df4ba].
+> Hepatic impairment requires a strict contraindication, and I should confirm that both DR and ER carry this warning. The labels advise against use in patients with significant liver disease due to risk of hepatotoxicity and hyperammonemia, so I need to ensure baseline liver function testing and ongoing surveillance are standard, and avoid use when liver disease is present [^114RxkH6] [^111oE42m].
 
-> Renal impairment is different; I should verify whether dose adjustment is needed. The FDA materials indicate no routine dose adjustment is required for renal impairment, though clinical monitoring remains prudent, particularly for fluid status and concomitant medications that may affect clearance or protein binding [^8c138b55].
+> Renal impairment is different; I should verify whether dose adjustment is needed. The FDA materials indicate no routine dose adjustment is required for renal impairment, though clinical monitoring remains prudent, particularly for fluid status and concomitant medications that may affect clearance or protein binding [^114afqCx].
 
-> Pregnancy warrants a dedicated pause, because I need to ensure teratogenic risk counseling and preconception planning are front and center. Guidelines recommend optimizing ASM selection and dosing preconception, favoring lower teratogenic-risk options when feasible, and if valproate is necessary, using the lowest effective dose with close monitoring; I should confirm that this is a Level B recommendation in the AAN/AES/SMFM guidance, which it is [^4495f987].
+> Pregnancy warrants a dedicated pause, because I need to ensure teratogenic risk counseling and preconception planning are front and center. Guidelines recommend optimizing ASM selection and dosing preconception, favoring lower teratogenic-risk options when feasible, and if valproate is necessary, using the lowest effective dose with close monitoring; I should confirm that this is a Level B recommendation in the AAN/AES/SMFM guidance, which it is [^112kgXuY].
 
-> I will now examine drug–drug interactions that materially alter valproate exposure and thus dosing strategy. Enzyme-inducing AEDs such as carbamazepine, phenytoin, and phenobarbital increase valproate clearance and may necessitate higher doses and more frequent level checks; conversely, felbamate can raise valproate levels and may require dose reduction, and carbapenems can markedly decrease valproate concentrations and are generally not recommended with valproate; estrogen-containing contraceptives can also increase valproate clearance, so I should confirm level monitoring when these are introduced or withdrawn [^7b477a27] [^c83a698a] [^e1802714] [^ceb88627].
+> I will now examine drug–drug interactions that materially alter valproate exposure and thus dosing strategy. Enzyme-inducing AEDs such as carbamazepine, phenytoin, and phenobarbital increase valproate clearance and may necessitate higher doses and more frequent level checks; conversely, felbamate can raise valproate levels and may require dose reduction, and carbapenems can markedly decrease valproate concentrations and are generally not recommended with valproate; estrogen-containing contraceptives can also increase valproate clearance, so I should confirm level monitoring when these are introduced or withdrawn [^1149mV9g] [^1167r9Ko] [^116mKG2F] [^116HURsU].
 
-> Safety thresholds and monitoring must be explicit. Thrombocytopenia risk rises significantly at total trough valproate concentrations above about 110 mcg/mL in females and 135 mcg/mL in males, so I should confirm that levels are checked when control is suboptimal or adverse effects emerge; baseline and periodic CBC, liver function tests, and coagulation parameters are advised, with heightened vigilance in the elderly and those with nutritional compromise [^ec0d8407] [^5dc008e1] [^a50202f2].
+> Safety thresholds and monitoring must be explicit. Thrombocytopenia risk rises significantly at total trough valproate concentrations above about 110 mcg/mL in females and 135 mcg/mL in males, so I should confirm that levels are checked when control is suboptimal or adverse effects emerge; baseline and periodic CBC, liver function tests, and coagulation parameters are advised, with heightened vigilance in the elderly and those with nutritional compromise [^1172xcpE] [^113PzMM2] [^115Dddgm].
 
-> Let me consider formulation-specific practicalities, because absorption and peak/trough behavior can influence tolerability and once-daily feasibility. ER formulations provide smoother exposure and may permit once-daily dosing in some patients, but I should confirm that dose adjustments may be needed when switching from DR to ER; clinical data suggest that maintaining similar total levels may require a modest increase in total daily dose when converting DR to ER, so I should plan for level checks after switching and adjust accordingly [^c5f47b2d] [^0ede0ab5] [^8dc2cc5f].
+> Let me consider formulation-specific practicalities, because absorption and peak/trough behavior can influence tolerability and once-daily feasibility. ER formulations provide smoother exposure and may permit once-daily dosing in some patients, but I should confirm that dose adjustments may be needed when switching from DR to ER; clinical data suggest that maintaining similar total levels may require a modest increase in total daily dose when converting DR to ER, so I should plan for level checks after switching and adjust accordingly [^1164UgPn] [^111P3Qfn] [^114dAgiJ].
 
-> I should double-check the practical dosing algorithm to ensure it is coherent and actionable. Start at 10–15 mg/kg/day, titrate by 5–10 mg/kg/week toward control or a maximum of 60 mg/kg/day, divide doses when the total exceeds 250 mg/day, and check trough valproate levels if seizures persist or adverse effects occur; adjust to the 50–100 mcg/mL range while integrating clinical response, and modify for special populations and interactions as above [^31385aa8] [^ec0d8407] [^7b477a27].
+> I should double-check the practical dosing algorithm to ensure it is coherent and actionable. Start at 10–15 mg/kg/day, titrate by 5–10 mg/kg/week toward control or a maximum of 60 mg/kg/day, divide doses when the total exceeds 250 mg/day, and check trough valproate levels if seizures persist or adverse effects occur; adjust to the 50–100 mcg/mL range while integrating clinical response, and modify for special populations and interactions as above [^112FyKgB] [^1172xcpE] [^1149mV9g].
 
-> But wait, what if a source conflicts with this synthesis? Some ER summaries list generalized tonic-clonic seizures as an indication, yet the core FDA epilepsy sections for ER emphasize complex partial and absence seizures; I should clarify that GTCC dosing appears in ER materials and is clinically used, but it may be off-label in some contexts, so I will present it as an ER-specific regimen with the caveat to verify local formularies and payer policies [^22960ab8] [^7061407f].
+> But wait, what if a source conflicts with this synthesis? Some ER summaries list generalized tonic-clonic seizures as an indication, yet the core FDA epilepsy sections for ER emphasize complex partial and absence seizures; I should clarify that GTCC dosing appears in ER materials and is clinically used, but it may be off-label in some contexts, so I will present it as an ER-specific regimen with the caveat to verify local formularies and payer policies [^111tGydh] [^113scHBc].
 
-> In conclusion, I need to ensure the plan remains patient-centered and safety-focused: use the mg/kg framework with slow titration, monitor levels when control is inadequate, avoid valproate in significant liver disease, adjust for age and interacting drugs, and apply the GTCC fixed-dose ER pathway when appropriate; this balances efficacy with the key risks of hepatotoxicity, hyperammonemia, thrombocytopenia, and teratogenicity, and aligns with FDA labeling and contemporary guidance [^31385aa8] [^ec0d8407] [^4495f987].
+> In conclusion, I need to ensure the plan remains patient-centered and safety-focused: use the mg/kg framework with slow titration, monitor levels when control is inadequate, avoid valproate in significant liver disease, adjust for age and interacting drugs, and apply the GTCC fixed-dose ER pathway when appropriate; this balances efficacy with the key risks of hepatotoxicity, hyperammonemia, thrombocytopenia, and teratogenicity, and aligns with FDA labeling and contemporary guidance [^112FyKgB] [^1172xcpE] [^112kgXuY].
 
 ---
 
-Depakote (divalproex sodium) dosing for seizures is **10–15 mg/kg/day** [^31385aa8] orally in divided doses, titrated by 5–10 mg/kg/week [^ec0d8407] to a usual maintenance of 30–60 mg/kg/day [^dabedc0a], not exceeding 60 mg/kg/day [^7061407f]. For absence seizures, start at **15 mg/kg/day** [^4ca0799b] and titrate similarly. Monitor trough valproate levels [^ec0d8407] to guide dosing, targeting 50–100 mcg/mL [^ec0d8407]; adjust for clinical response and tolerability. In elderly patients, start lower and titrate more slowly due to increased sensitivity [^5dc008e1]. Avoid abrupt discontinuation to prevent status epilepticus [^4ca0799b].
+Depakote (divalproex sodium) dosing for seizures is **10–15 mg/kg/day** [^112FyKgB] orally in divided doses, titrated by 5–10 mg/kg/week [^1172xcpE] to a usual maintenance of 30–60 mg/kg/day [^116bJQgH], not exceeding 60 mg/kg/day [^113scHBc]. For absence seizures, start at **15 mg/kg/day** [^112xbxiv] and titrate similarly. Monitor trough valproate levels [^1172xcpE] to guide dosing, targeting 50–100 mcg/mL [^1172xcpE]; adjust for clinical response and tolerability. In elderly patients, start lower and titrate more slowly due to increased sensitivity [^113PzMM2]. Avoid abrupt discontinuation to prevent status epilepticus [^112xbxiv].
 
 ---
 
 ## Initial dosing
 
-- **Standard initial dose**: 10–15 mg/kg/day orally, divided into two or three doses [^31385aa8] [^ec0d8407].
-- **Absence seizures**: Start at 15 mg/kg/day [^4ca0799b], divided into two or three doses.
-- **Maximum initial dose**: 60 mg/kg/day [^7061407f].
+- **Standard initial dose**: 10–15 mg/kg/day orally, divided into two or three doses [^112FyKgB] [^1172xcpE].
+- **Absence seizures**: Start at 15 mg/kg/day [^112xbxiv], divided into two or three doses.
+- **Maximum initial dose**: 60 mg/kg/day [^113scHBc].
 
 ---
 
 ## Titration and maintenance dosing
 
-- **Titration**: Increase by 5–10 mg/kg/day at weekly intervals [^31385aa8] based on clinical response and tolerability [^ec0d8407].
-- **Maintenance dose**: Typically 30–60 mg/kg/day [^dabedc0a], divided into two or three doses.
-- **Maximum maintenance dose**: 60 mg/kg/day [^7061407f].
+- **Titration**: Increase by 5–10 mg/kg/day at weekly intervals [^112FyKgB] based on clinical response and tolerability [^1172xcpE].
+- **Maintenance dose**: Typically 30–60 mg/kg/day [^116bJQgH], divided into two or three doses.
+- **Maximum maintenance dose**: 60 mg/kg/day [^113scHBc].
 
 ---
 
 ## Therapeutic drug monitoring
 
-Therapeutic range: **50–100 mcg/mL** [^ec0d8407] (total valproate concentration) [^fdfe851e]. Monitoring: Check trough levels [^fdfe851e] when steady state is reached (approximately 3–4 days after initiation or dose change) [^notfound] and adjust dosing to maintain therapeutic levels [^ec0d8407].
+Therapeutic range: **50–100 mcg/mL** [^1172xcpE] (total valproate concentration) [^117VZMkH]. Monitoring: Check trough levels [^117VZMkH] when steady state is reached (approximately 3–4 days after initiation or dose change) [^notfound] and adjust dosing to maintain therapeutic levels [^1172xcpE].
 
 ---
 
@@ -79,27 +79,27 @@ Therapeutic range: **50–100 mcg/mL** [^ec0d8407] (total valproate concentratio
 
 ### Elderly patients
 
-Start lower and titrate more slowly due to increased sensitivity and risk of adverse effects [^5dc008e1]. Monitor closely for **sedation, dehydration, and nutritional status** [^5dc008e1].
+Start lower and titrate more slowly due to increased sensitivity and risk of adverse effects [^113PzMM2]. Monitor closely for **sedation, dehydration, and nutritional status** [^113PzMM2].
 
 ---
 
 ### Pediatric patients
 
-Pharmacokinetics in older children and adolescents are similar to adults, allowing once-daily dosing with extended-release formulations [^82817ac5]. Younger children may require more frequent dosing due to shorter half-life and faster clearance [^notfound].
+Pharmacokinetics in older children and adolescents are similar to adults, allowing once-daily dosing with extended-release formulations [^114LUt6p]. Younger children may require more frequent dosing due to shorter half-life and faster clearance [^notfound].
 
 ---
 
 ### Patients with hepatic impairment
 
-Contraindicated in patients with significant hepatic disease due to risk of hepatotoxicity [^8633d1a9] [^1f2df4ba].
+Contraindicated in patients with significant hepatic disease due to risk of hepatotoxicity [^114RxkH6] [^111oE42m].
 
 ---
 
 ## Clinical considerations
 
-- **Abrupt discontinuation**: Avoid to prevent status epilepticus [^4ca0799b].
-- **Drug interactions**: Valproate interacts with other antiepileptic drugs (e.g. carbamazepine, phenytoin, lamotrigine) [^ec0d8407], necessitating careful monitoring and dose adjustments [^7b477a27].
-- **Adverse effects**: Common adverse effects include gastrointestinal disturbances, weight gain, tremor, and sedation [^a48a7f7a] [^6ee4f1f6].
+- **Abrupt discontinuation**: Avoid to prevent status epilepticus [^112xbxiv].
+- **Drug interactions**: Valproate interacts with other antiepileptic drugs (e.g. carbamazepine, phenytoin, lamotrigine) [^1172xcpE], necessitating careful monitoring and dose adjustments [^1149mV9g].
+- **Adverse effects**: Common adverse effects include gastrointestinal disturbances, weight gain, tremor, and sedation [^115CwVNh] [^113qQYDB].
 
 ---
 
@@ -116,13 +116,13 @@ Contraindicated in patients with significant hepatic disease due to risk of hepa
 
 ---
 
-Depakote dosing for seizures starts at **10–15 mg/kg/day** [^31385aa8], titrated to 30–60 mg/kg/day [^dabedc0a], with a maximum of 60 mg/kg/day [^7061407f]. Monitor levels and adjust for response and tolerability, and use caution in special populations [^5dc008e1].
+Depakote dosing for seizures starts at **10–15 mg/kg/day** [^112FyKgB], titrated to 30–60 mg/kg/day [^116bJQgH], with a maximum of 60 mg/kg/day [^113scHBc]. Monitor levels and adjust for response and tolerability, and use caution in special populations [^113PzMM2].
 
 ---
 
 ## References
 
-### Divalproex sodium (Depakote) [^31385aa8]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^112FyKgB]. FDA (2025). Medium credibility.
 
 Conversion to Monotherapy
 
@@ -134,7 +134,7 @@ Depakote may be added to the patient's regimen at a dosage of 10 to 15 mg/kg/day
 
 ---
 
-### Divalproex sodium (Depakote) [^ec0d8407]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1172xcpE]. FDA (2025). Medium credibility.
 
 2.2 Epilepsy
 
@@ -152,7 +152,7 @@ The probability of thrombocytopenia increases significantly at total trough valp
 
 ---
 
-### Divalproex sodium (Depakote) [^4ca0799b]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^112xbxiv]. FDA (2025). Medium credibility.
 
 In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
@@ -176,7 +176,7 @@ Depakote tablets are administered orally. The recommended starting dose is 250 m
 
 ---
 
-### Divalproex sodium (Depakote) [^db6b7f23]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^116cJPvJ]. FDA (2025). Medium credibility.
 
 Figure 2
 
@@ -192,7 +192,7 @@ Information on pediatric studies is presented in section 8.
 
 ---
 
-### Divalproex sodium (Depakote) [^c5f47b2d]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1164UgPn]. FDA (2025). Medium credibility.
 
 12.3 Pharmacokinetics
 
@@ -206,7 +206,7 @@ While the absorption rate from the G. I. tract and fluctuation in valproate plas
 
 ---
 
-### Divalproex sodium (Depakote) [^5dc008e1]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^113PzMM2]. FDA (2025). Medium credibility.
 
 2.4 General Dosing Advice
 
@@ -228,7 +228,7 @@ Patients stabilized on rufinamide before being prescribed valproate should begin
 
 ---
 
-### Divalproex sodium (Depakote) [^7061407f]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^113scHBc]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of epilepsy in adults (complex partial seizures) is:
 
@@ -238,7 +238,7 @@ The dosage of divalproex sodium ER PO for treatment of epilepsy in adults (compl
 
 ---
 
-### Divalproex sodium (Depakote) [^78ef56b1]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1146HuWY]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of absence seizures in adults (simple or complex) is:
 
@@ -248,7 +248,7 @@ The dosage of divalproex sodium ER PO for treatment of absence seizures in adult
 
 ---
 
-### Divalproex sodium (Depakote) [^f1280cca]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^117AXU9o]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for absence seizure in adults (complex absence seizures, simple) is:
 
@@ -257,7 +257,7 @@ The dosage of divalproex sodium DR PO for adjunctive treatment for absence seizu
 
 ---
 
-### Divalproex sodium (Depakote) [^df10936f]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^116hhomY]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for treatment of generalized tonic-clonic seizures in adults is:
 
@@ -266,7 +266,7 @@ The dosage of divalproex sodium ER PO for treatment of generalized tonic-clonic 
 
 ---
 
-### Divalproex sodium (Depakote) [^7b477a27]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1149mV9g]. FDA (2025). Medium credibility.
 
 The relationship between dose and total valproate concentration is nonlinear; concentration does not increase proportionally with the dose, but rather, increases to a lesser extent due to saturable plasma protein binding. The kinetics of unbound drug are linear.
 
@@ -286,7 +286,7 @@ Children within the first two months of life have a markedly decreased ability t
 
 ---
 
-### Divalproex sodium (divalproex sodium extended-release) [^0a7b084c]. FDA (2015). Low credibility.
+### Divalproex sodium (divalproex sodium extended-release) [^111GYCgb]. FDA (2015). Low credibility.
 
 Conversion to Monotherapy
 
@@ -300,7 +300,7 @@ Divalproex sodium extended-release tablets may be added to the patient's regimen
 
 ---
 
-### Divalproex sodium (Depakote) [^048abe27]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1117jZ4A]. FDA (2025). Medium credibility.
 
 Depakote was statistically significantly superior to placebo on all three measures of outcome. An exploratory analysis for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or gender.
 
@@ -322,7 +322,7 @@ Figure 2 presents the proportion of patients (X axis) whose percentage reduction
 
 ---
 
-### Divalproex sodium (Depakote) [^576c78d7]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^113EcMiv]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (complex partial seizures) is:
 
@@ -331,7 +331,7 @@ The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (compl
 
 ---
 
-### Divalproex sodium (Depakote) [^3ec5b89e]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^112c4ePf]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in adults (complex partial seizures) is:
 
@@ -340,7 +340,7 @@ The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in a
 
 ---
 
-### Divalproex sodium (Depakote) [^2e82e65b]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^112BxQ6e]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of juvenile myoclonic epilepsy in adults is:
 
@@ -350,13 +350,13 @@ The dosage of divalproex sodium DR PO for treatment of juvenile myoclonic epilep
 
 ---
 
-### Divalproex sodium (Depakote) [^0457951c]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1117SNNX]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for seizures in adults (complex partial seizures, simple) is 10–60 mg/kg PO daily, in 2–3 divided doses
 
 ---
 
-### Divalproex sodium (Depakote) [^2aa2d856]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1126DBKB]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium ER PO for adjunctive treatment for seizures in adults (complex partial seizures, simple) is:
 
@@ -366,7 +366,7 @@ The dosage of divalproex sodium ER PO for adjunctive treatment for seizures in a
 
 ---
 
-### Divalproex sodium (Depakote) [^7f3808d5]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^114FcFRv]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of generalized tonic-clonic seizures in adults is:
 
@@ -376,7 +376,7 @@ The dosage of divalproex sodium DR PO for treatment of generalized tonic-clonic 
 
 ---
 
-### Divalproex sodium (Depakote) [^1fdc51ac]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^111pEcu1]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in adults (complex partial seizures) is:
 
@@ -386,7 +386,7 @@ The dosage of divalproex sodium DR PO for adjunctive treatment for epilepsy in a
 
 ---
 
-### Divalproex sodium (divalproex sodiumDelayed-release) [^71f89576]. FDA (2013). Low credibility.
+### Divalproex sodium (divalproex sodiumDelayed-release) [^113uy6eZ]. FDA (2013). Low credibility.
 
 The probability of thrombocytopenia increases significantly at total trough valproate plasma concentrations above 110 mcg/mL in females and 135 mcg/mL in males. The benefit of improved seizure control with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
@@ -398,7 +398,7 @@ Adjunctive Therapy Divalproex sodium delayed-release tablets may be added to the
 
 ---
 
-### Divalproex sodium (Depakote) [^a37d41fd]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^115BP49r]. FDA (2025). Medium credibility.
 
 Co-administration of oral valproate products with food and substitution among the various Depakote and valproic acid formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)]. Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
 
@@ -418,7 +418,7 @@ Valproate is metabolized almost entirely by the liver. In adult patients on mono
 
 ---
 
-### Divalproex sodium (Depakote) [^dabedc0a]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^116bJQgH]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (complex partial seizures) is:
 
@@ -428,7 +428,7 @@ The dosage of divalproex sodium DR PO for treatment of epilepsy in adults (compl
 
 ---
 
-### Divalproex sodium (Depakote) [^22960ab8]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^111tGydh]. FDA (2025). Medium credibility.
 
 Labeled indications for Divalproex sodium ER (also known as Depakote ER) include:
 
@@ -444,7 +444,7 @@ Off-label indications for Divalproex sodium ER (also known as Depakote ER) inclu
 
 ---
 
-### Divalproex sodium (Depakote) [^78a4de1c]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1145rthR]. FDA (2025). Medium credibility.
 
 Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with any modality:
 
@@ -453,7 +453,7 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 ---
 
-### Divalproex sodium (Depakote) [^a50202f2]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^115Dddgm]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of divalproex sodium DR PO (also known as Depakote):
 - **Decreased platelet count**: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
@@ -466,7 +466,7 @@ Warnings and precautions regarding the use of divalproex sodium DR PO (also know
 
 ---
 
-### Divalproex sodium (Depakote) [^9ef9814c]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1154grH1]. FDA (2025). Medium credibility.
 
 Labeled indications for Divalproex sodium DR (also known as Depakote) include:
 
@@ -484,7 +484,7 @@ Off-label indications for Divalproex sodium DR (also known as Depakote) include:
 
 ---
 
-### Divalproex sodium (Depakote) [^f767f7a2]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^117Kns45]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of divalproex sodium ER PO (also known as Depakote ER):
 - **Decreased platelet count**: use caution in all patients. Take CBCs and coagulation test before initiating therapy and at periodic intervals.
@@ -497,7 +497,7 @@ Warnings and precautions regarding the use of divalproex sodium ER PO (also know
 
 ---
 
-### Divalproex sodium (Depakote) [^8c138b55]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^114afqCx]. FDA (2025). Medium credibility.
 
 Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with eGFR 0–90 mL/min/1.73 m²:
 - Use acceptable.
@@ -505,13 +505,13 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 ---
 
-### Divalproex sodium (Depakote) [^de58d69e]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^116ge6Gm]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for treatment of bipolar disorder in adults (manic episodes) is 750 mg PO daily, in 2–3 divided doses
 
 ---
 
-### Divalproex sodium (divalproex sodiumDelayed-release) [^7ad0f3aa]. FDA (2013). Low credibility.
+### Divalproex sodium (divalproex sodiumDelayed-release) [^11495g6D]. FDA (2013). Low credibility.
 
 In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
@@ -535,7 +535,7 @@ Divalproex sodium delayed-release tablets are administered orally. The recommend
 
 ---
 
-### Divalproex sodium (Depakote) [^c83a698a]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^1167r9Ko]. FDA (2025). Medium credibility.
 
 Carbapenem Antibiotics
 
@@ -559,7 +559,7 @@ A study involving the administration of a single dose of valproate (7 mg/kg) 36 
 
 ---
 
-### Divalproex sodium (Depakote) [^7c77ac52]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^114BXfN9]. FDA (2025). Medium credibility.
 
 6.2 Epilepsy
 
@@ -595,7 +595,7 @@ Urogenital System: Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, ur
 
 ---
 
-### Divalproex sodium (Depakote) [^6e4c85ad]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^113pXLmi]. FDA (2025). Medium credibility.
 
 14.3 Migraine
 
@@ -609,19 +609,19 @@ In the first study, a total of 107 patients (24 M, 83 F), ranging in age from 26
 
 ---
 
-### Divalproex sodium (Depakote) [^4ca315a1]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^112xcqZS]. FDA (2025). Medium credibility.
 
 The drug Divalproex sodium ER (also known as Depakote ER).
 
 ---
 
-### Divalproex sodium (Depakote) [^7d084f99]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^114CNF8t]. FDA (2025). Medium credibility.
 
 The dosage of divalproex sodium DR PO for prevention of headache episodes in adults with chronic tension-type headache is 1,000–2,000 mg PO daily, in 2–3 divided doses
 
 ---
 
-### Divalproex sodium (divalproex sodium extended-release) [^635d99a8]. FDA (2015). Low credibility.
+### Divalproex sodium (divalproex sodium extended-release) [^113YKDNw]. FDA (2015). Low credibility.
 
 The relationship between dose and total valproate concentration is nonlinear; concentration does not increase proportionally with the dose, but rather, increases to a lesser extent due to saturable plasma protein binding. The kinetics of unbound drug are linear.
 
@@ -641,7 +641,7 @@ The valproate pharmacokinetic profile following administration of divalproex sod
 
 ---
 
-### Divalproex sodium (divalproex sodiumDelayed-release) [^0625257e]. FDA (2013). Low credibility.
+### Divalproex sodium (divalproex sodiumDelayed-release) [^111A7QN1]. FDA (2013). Low credibility.
 
 6.2 Epilepsy
 
@@ -653,7 +653,7 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 
 ---
 
-### Divalproex sodium [^5c704635]. FDA (2025). Medium credibility.
+### Divalproex sodium [^113N3aCt]. FDA (2025). Medium credibility.
 
 2.4 General Dosing Advice
 
@@ -675,7 +675,7 @@ Patients stabilized on rufinamide before being prescribed valproate should begin
 
 ---
 
-### Divalproex sodium [^c47d74a8]. FDA (2025). Medium credibility.
+### Divalproex sodium [^1162JiJs]. FDA (2025). Medium credibility.
 
 1.1 Mania
 
@@ -697,19 +697,19 @@ Divalproex sodium delayed-release tablets are indicated for prophylaxis of migra
 
 ---
 
-### Divalproex sodium (Depakote) [^a48a7f7a]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^115CwVNh]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of divalproex sodium DR PO (also known as Depakote) include: abdominal pain, asthenia, diarrhea, diplopia, dizziness, drowsiness, dyspepsia, insomnia, loss of appetite, nausea, oligomenorrhea, ↓ platelet count and vomiting.
 
 ---
 
-### Divalproex sodium (Depakote) [^6ee4f1f6]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^113qQYDB]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of divalproex sodium ER PO (also known as Depakote ER) include: abdominal pain, asthenia, diarrhea, diplopia, dizziness, drowsiness, dyspepsia, insomnia, loss of appetite, nausea, oligomenorrhea, ↓ platelet count and vomiting.
 
 ---
 
-### Divalproex sodium (Depakote) [^8633d1a9]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^114RxkH6]. FDA (2025). Medium credibility.
 
 Regarding the use of divalproex sodium DR PO (also known as Depakote) in patients with chronic liver disease, any severity:
 
@@ -717,7 +717,7 @@ Regarding the use of divalproex sodium DR PO (also known as Depakote) in patient
 
 ---
 
-### Divalproex sodium (divalproex sodiumDelayed-release) [^375241bf]. FDA (2013). Low credibility.
+### Divalproex sodium (divalproex sodiumDelayed-release) [^112R1wzW]. FDA (2013). Low credibility.
 
 1.1 Mania
 
@@ -739,7 +739,7 @@ Divalproex sodium delayed-release tablets, USP are indicated for prophylaxis of 
 
 ---
 
-### Divalproex sodium (Depakote) [^1f2df4ba]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^111oE42m]. FDA (2025). Medium credibility.
 
 Regarding the use of divalproex sodium ER PO (also known as Depakote ER) in patients with chronic liver disease, any severity:
 
@@ -747,7 +747,7 @@ Regarding the use of divalproex sodium ER PO (also known as Depakote ER) in pati
 
 ---
 
-### Valproic acid [^29633597]. FDA (2025). Medium credibility.
+### Valproic acid [^1124MpJr]. FDA (2025). Medium credibility.
 
 6.1 Epilepsy
 
@@ -761,7 +761,7 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 
 ---
 
-### Valproic acid (valproic) [^ff969fe4]. FDA (2025). Medium credibility.
+### Valproic acid (valproic) [^117XvSGK]. FDA (2025). Medium credibility.
 
 6.1 Epilepsy
 
@@ -775,13 +775,13 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 
 ---
 
-### Evidence-based guideline update: pharmacologic treatment for episodic migraine prevention in adults: report of the quality standards subcommittee of the American Academy of Neurology and the American Headache Society [^d2c11bf8]. Neurology (2012). Medium credibility.
+### Evidence-based guideline update: pharmacologic treatment for episodic migraine prevention in adults: report of the quality standards subcommittee of the American Academy of Neurology and the American Headache Society [^116PTGFZ]. Neurology (2012). Medium credibility.
 
 Antiepileptic drugs — divalproex sodium extended-release (ER) — In a randomized Class I placebo-controlled 12-week trial, ER divalproex sodium 500–1,000 mg/day reduced the 4-week migraine headache rate from 4.4/week to 3.2/week (−1.2 attacks/week) versus 4.2/week to 3.6/week (−0.6 attacks/week) with placebo (CI 0.2–1.2; p = 0.006), and no significant differences were detected between groups in treatment-emergent AEs; contextually, "In most headache trials, patients taking divalproex sodium or sodium valproate reported no more AEs than those on placebo", but "weight gain has been clinically observed with divalproex sodium long-term use", and "Treatment with these agents requires careful follow-up and testing because of pancreatitis, liver failure, and teratogenicity risks".
 
 ---
 
-### Valproic acid (valproic) [^665cce9c]. FDA (2025). Medium credibility.
+### Valproic acid (valproic) [^113ckumm]. FDA (2025). Medium credibility.
 
 Figure 1
 
@@ -797,7 +797,7 @@ Information on pediatric studies presented in section 8.
 
 ---
 
-### Valproate sodium [^ede375f4]. FDA (2025). Medium credibility.
+### Valproate sodium [^1175gU5h]. FDA (2025). Medium credibility.
 
 2.1 Epilepsy
 
@@ -825,19 +825,19 @@ The probability of thrombocytopenia increases significantly at total trough valp
 
 ---
 
-### Divalproex sodium (Depakote) [^d9da48d6]. FDA (2025). Medium credibility.
+### Divalproex sodium (Depakote) [^116ZydgH]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of divalproex sodium ER PO (also known as Depakote ER) include: agranulocytosis, aplastic anemia, arthralgia, asterixis, azoospermia, ↑bleeding time, ↑ blood ammonia, ↑ blood lymphocyte count, ↓ blood neutrophil count, bone fracture, bone pain, bradycardia, breast enlargement, cognitive impairment, coma, DRESS syndrome, encephalopathy, erythema multiforme, Fanconi syndrome, folate deficiency, galactorrhea, gastritis, hair discoloration, hallucinations, hostility, hyperactivity, hypothyroidism, interstitial nephritis, irritability, jaundice, lethargy, macrocytosis, osteopenia, osteoporosis, pancytopenia, photosensitivity of skin, pseudoparkinsonism, psychosis, pure red cell aplasia, ↓ serum sodium, Stevens-Johnson syndrome, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretions, teratogenesis, toxic epidermal necrolysis, vasculitis, visual disturbances, vitamin D deficiency, ↓ WBC count, weakness and weight loss.
 
 ---
 
-### Divalproex sodium in children with partial seizures: 12-month safety study [^935edae2]. Pediatric Neurology (2009). Low credibility.
+### Divalproex sodium in children with partial seizures: 12-month safety study [^114mV3MK]. Pediatric Neurology (2009). Low credibility.
 
 This phase III, open-label, multicenter, outpatient study evaluated the 12-month safety of valproate using divalproex sodium sprinkle capsules for partial seizures, with or without secondary generalization, in children aged 3–10 years (n = 169). Laboratory parameters and vital signs were assessed, and the Wechsler Scales of Intelligence, the Developmental Profile-II, movement-related items from the Udvalg for Kliniske Undersøgelser, and the Behavior Assessment System for Children were administered. Efficacy was measured by the 4-week seizure rate. The most common treatment-emergent adverse events in the 169 study patients were typical childhood illnesses: pyrexia (18%), cough (17%), and nasopharyngitis (14%). The most common adverse events not considered typical childhood illnesses were vomiting (14%), tremor (9%), somnolence (8%), and diarrhea (8%). Of the 169 patients, 11 (6.5%) were hospitalized with serious treatment-emergent adverse events. Although elevated ammonia levels were observed in 31 treated patients, and mean increases in uric acid concentrations and decreases in platelets were observed, the majority of patients were asymptomatic. Except for tremor, no increases in movement-related adverse effects were observed. Small numeric improvements were reported in the Wechsler Scales and the Behavior Assessment System for Children. The safety findings in this 12-month study are generally consistent with previous reports of valproate in adult and pediatric epilepsy patients.
 
 ---
 
-### Valproic acid [^bea6ced3]. FDA (2025). Medium credibility.
+### Valproic acid [^115segDx]. FDA (2025). Medium credibility.
 
 In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
@@ -855,13 +855,13 @@ The following table is a guide for the initial daily dose of valproic acid oral 
 
 ---
 
-### Divalproex-ER pharmacokinetics in older children and adolescents [^82817ac5]. Pediatric Neurology (2004). Low credibility.
+### Divalproex-ER pharmacokinetics in older children and adolescents [^114LUt6p]. Pediatric Neurology (2004). Low credibility.
 
 Valproic acid pharmacokinetic profile and tolerability after administration of divalproex sodium extended-release tablets was characterized in older children and adolescents. In this multiple-dose, open-label, pharmacokinetic study, the patients were divided into two age groups, 8–11 years (older children; n = 15) and 12–17 years (adolescents; n = 14). Once-daily administration of divalproex sodium extended-release tablets (doses ranged from 250 to 1750 mg) in older children and adolescents produced relatively flat plasma valproic acid concentration-time profiles over the entire 24-hour dosing interval, similar to the pharmacokinetic performance of this formulation in adults. The mean (standard deviation) oral clearance values for unbound valproic acid were 94.3 (51.8) and 82.3 (28.2) mL/h/kg and for total valproic acid were 11.2 (3.77) and 9.06 (2.03) mL/h/kg in older children and adolescents, respectively. Two patients discontinued for administrative reasons, whereas one discontinued for an adverse event (flulike syndrome). Adverse events reported by three or more patients were flu syndrome (5 patients, 17.2%) and headache (3 patients, 10.3%). Reported adverse events were generally mild to moderate in severity and similar to those reported in previous divalproex studies. This study demonstrates that in older children and adolescents, once-daily administration of divalproex sodium extended-release tablets may potentially be used to sustain plasma valproic acid concentrations within the usually accepted therapeutic ranges for various indications.
 
 ---
 
-### Comparative absorption profiles of divalproex sodium delayed-release versus extended-release tablets – clinical implications [^0ede0ab5]. The Annals of Pharmacotherapy (2006). Low credibility.
+### Comparative absorption profiles of divalproex sodium delayed-release versus extended-release tablets – clinical implications [^111P3Qfn]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Background
 
@@ -885,7 +885,7 @@ VPA absorption from enteric-coated divalproex-DR is rapid following a lag-time o
 
 ---
 
-### Meropenem [^e1802714]. FDA (2025). Medium credibility.
+### Meropenem [^116mKG2F]. FDA (2025). Medium credibility.
 
 5.4 Seizure Potential
 
@@ -901,13 +901,13 @@ The concomitant use of meropenem and valproic acid or divalproex sodium is gener
 
 ---
 
-### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^dda9783b]. Annals of Internal Medicine (2024). High credibility.
+### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^116fdBpE]. Annals of Internal Medicine (2024). High credibility.
 
 VA/DoD Headache CPG — anticonvulsants for preventive dosing specify topiramate 25 mg/day with a usual range of 50–200 mg/day in divided doses and "Increase by 25 mg/week"; and valproic acid/divalproex sodium 250–500 mg/day in divided doses or daily for extended release with a usual range of 500–1,500 mg/day in divided doses or daily for extended release and "May monitor levels if adherence is an issue".
 
 ---
 
-### Valproic acid (valproic) [^68a24e2e]. FDA (2025). Medium credibility.
+### Valproic acid (valproic) [^113g8EGm]. FDA (2025). Medium credibility.
 
 In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to divalproex sodium tablets, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14)]. However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
@@ -925,7 +925,7 @@ The following Table is a guide for the initial daily dose of Valproic Acid (15 m
 
 ---
 
-### Meropenem and sodium chloride [^ceb88627]. FDA (2025). Medium credibility.
+### Meropenem and sodium chloride [^116HURsU]. FDA (2025). Medium credibility.
 
 5.4 Seizure Potential
 
@@ -941,7 +941,7 @@ The concomitant use of meropenem and valproic acid or divalproex sodium is gener
 
 ---
 
-### Divalproex sodium [^d065c695]. FDA (2025). Medium credibility.
+### Divalproex sodium [^116KxcNG]. FDA (2025). Medium credibility.
 
  Carbamazepine/carbamazepine-10,11-Epoxide
 
@@ -961,7 +961,7 @@ Valproate inhibits the metabolism of ethosuximide. Administration of a single et
 
 ---
 
-### Lower effectiveness of divalproex versus valproic acid in a prospective, quasi-experimental clinical trial involving 9, 260 psychiatric admissions [^7939cade]. The American Journal of Psychiatry (2005). Low credibility.
+### Lower effectiveness of divalproex versus valproic acid in a prospective, quasi-experimental clinical trial involving 9, 260 psychiatric admissions [^1146iuzD]. The American Journal of Psychiatry (2005). Low credibility.
 
 Objective
 
@@ -981,7 +981,7 @@ Lower peak valproate concentrations with divalproex sodium may have enhanced tol
 
 ---
 
-### An open trial of divalproex sodium in autism spectrum disorders [^8ae68692]. The Journal of Clinical Psychiatry (2001). Low credibility.
+### An open trial of divalproex sodium in autism spectrum disorders [^114Yvith]. The Journal of Clinical Psychiatry (2001). Low credibility.
 
 Background
 
@@ -1001,13 +1001,13 @@ Divalproex sodium may be beneficial to patients with autism spectrum disorders, 
 
 ---
 
-### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^68e61352]. The American Journal of Psychiatry (2007). Medium credibility.
+### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^113gWzYH]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Alzheimer's disease and other dementias — anticonvulsants for agitation and behavioral symptoms: Carbamazepine is not recommended for the routine treatment of agitation in patients with dementia, and routine use of valproate to treat behavioral symptoms in dementia is not recommended based on the current evidence; most randomized placebo-controlled trials showed no benefit of valproate compared with placebo and a 2004 Cochrane review concluded that valproate formulations were no more effective than placebo and that side effects were more common. Nonetheless, a therapeutic trial of carbamazepine or valproate may be considered in individual cases, and given the potential toxicity of both agents it is important to identify and monitor target symptoms and to discontinue the medication if no improvement is observed. If used, carbamazepine may be given in two to four doses per day, started at a total dosage of 50–100 mg/day, and increased gradually as warranted by behavioral response and side effects or until blood levels reach 8–12 ng/ml; divalproex sodium may be given in two or three doses per day and should be started at 125–250 mg/day, with gradual increases based on behavioral response and side effects or until blood levels reach 50–60 ng/ml (or, in rare cases, 100 ng/ml). Principal adverse effects of carbamazepine include ataxia, falls, sedation, and confusion, with drug interactions through the cytochrome P450 system and rare bone marrow suppression or hyponatremia; valproate's principal side effects are sedation, gastrointestinal disturbances, and confusion.
 
 ---
 
-### Conversion to eslicarbazepine acetate monotherapy: a pooled analysis of 2 phase III studies [^d1d06e2c]. Neurology (2016). Low credibility.
+### Conversion to eslicarbazepine acetate monotherapy: a pooled analysis of 2 phase III studies [^116N4RT1]. Neurology (2016). Low credibility.
 
 US vs non-US patients.
 
@@ -1020,7 +1020,7 @@ Note that for age, baseline body weight, and maximum 2- or 28-day seizure rate, 
 
 ---
 
-### Valproate sodium [^fdfe851e]. FDA (2025). Medium credibility.
+### Valproate sodium [^117VZMkH]. FDA (2025). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -1040,7 +1040,7 @@ Equivalent doses of Valproate Sodium Injection and divalproex sodium yield equiv
 
 ---
 
-### Divalproex sodium [^95db9eee]. FDA (2025). Medium credibility.
+### Divalproex sodium [^114qAvYm]. FDA (2025). Medium credibility.
 
  Data
 
@@ -1054,7 +1054,7 @@ A prospective observational multicenter study evaluated the long-term neurodevel
 
 ---
 
-### Pilot comparison of extended-release and standard preparations of divalproex sodium in patients with bipolar and schizoaffective disorders [^edb4787a]. The American Journal of Psychiatry (2003). Low credibility.
+### Pilot comparison of extended-release and standard preparations of divalproex sodium in patients with bipolar and schizoaffective disorders [^1175Qge5]. The American Journal of Psychiatry (2003). Low credibility.
 
 Objective
 
@@ -1074,19 +1074,19 @@ Use of extended-release divalproex once a day was as well tolerated as the stand
 
 ---
 
-### Practice parameter for the psychiatric assessment and management of physically ill children and adolescents [^e14b878e]. Journal of the American Academy of Child and Adolescent Psychiatry (2009). Medium credibility.
+### Practice parameter for the psychiatric assessment and management of physically ill children and adolescents [^116m1aqj]. Journal of the American Academy of Child and Adolescent Psychiatry (2009). Medium credibility.
 
 Psychotropic medication selection and pharmacokinetics in physically ill children and adolescents emphasize that "psychotropic medication levels are not consistent indicators of either efficacy or toxicity in physically ill patients" and "it is generally preferable to choose a medication with a short half-life and attempt to avoid introducing more than one medication at a time". When possible, medications "should be selected that can be administered in a single or divided dose, are easily titrated to an ideal dose, and do not require frequent laboratory monitoring", and "Multiple medications and demanding treatment regimens threaten adherence". It is helpful to follow the maxim "start low, go slow" when initiating medication in children with "hepatic, gastrointestinal, renal, and cardiac diseases", and to consider routes and side effects; medications can be given by "oral, intravenous, intramuscular, subcutaneous, rectal, transdermal, and sublingual" routes. Most psychoactive drugs are "80% to 95% bound to protein" "with the exception of lithium, methylphenidate, venlafaxine, divalproex sodium, gabapentin, and topiramate"; "The unbound drug is typically pharmacologically active" and reduced "albumin binding… necessitating adjustments to medication dosages". Medications are "absorbed in the gastrointestinal tract and excreted through the kidneys", and clinicians should be aware of effects on hepatic metabolism, renal excretion, and discontinuation effects such as "selective serotonin reuptake inhibitor discontinuation syndrome". For interactions, "The hepatic CYP450 system is responsible for most metabolic drug interactions", uridine glucuronosyltransferase enzymes generally play "a minor metabolic role" though lamotrigine, morphine, and lorazepam are primarily metabolized by them, and "P-glycoproteins… function as 'gatekeepers' for CYP3A4 metabolism".
 
 ---
 
-### Valproic acid poisoning: an evidence-based consensus guideline for out-of-hospital management [^cc6df274]. Clinical Toxicology (2008). Low credibility.
+### Valproic acid poisoning: an evidence-based consensus guideline for out-of-hospital management [^116E5QRy]. Clinical Toxicology (2008). Low credibility.
 
 A review of US poison center data for 2004 showed over 9000 ingestions of valproic acid. A guideline that determines the conditions for emergency department referral and prehospital care could potentially optimize patient outcome, avoid unnecessary emergency department visits, reduce health care costs, and reduce life disruption for patients and caregivers. An evidence-based expert consensus process was used to create the guideline. Relevant articles were abstracted by a trained physician researcher. The first draft of the guideline was created by the lead author. The entire panel discussed and refined the guideline before distribution to secondary reviewers for comment. The panel then made changes based on the secondary review comments. The objective of this guideline is to assist poison center personnel in the appropriate out-of-hospital triage and initial out-of-hospital management of patients with a suspected ingestion of valproic acid by 1) describing the process by which an ingestion of valproic acid might be managed, 2) identifying the key decision elements in managing cases of valproic acid ingestion, 3) providing clear and practical recommendations that reflect the current state of knowledge, and 4) identifying needs for research. This guideline applies to the acute ingestion and acute-on-chronic ingestion of immediate-release and extended-release dosage forms of valproic acid, divalproex, and valproate sodium alone. Co-ingestion of additional substances could require different referral and management recommendations depending on the combined toxicities of the substances. This review focuses on the ingestion of more than a single therapeutic dose and the effects of an overdose. Although therapeutic doses of valproic acid can cause adverse effects in adults and children, some idiosyncratic and some dose-dependent, these cases are not considered. This guideline is based on an assessment of current scientific and clinical information. The expert consensus panel recognizes that specific patient care decisions might be at variance with this guideline and are the prerogative of the patient and the health professionals providing care, considering all of the circumstances involved. This guideline does not substitute for clinical judgment. Recommendations are in chronological order of likely clinical use. The grade of recommendation is in parentheses. 1) All patients with suicidal intent, intentional abuse, or in whom a malicious intent is suspected (e.g., child abuse or neglect) should be referred to an emergency department (Grade D). 2) Patients who are symptomatic (more than somnolence or exhibiting coma or seizures) after a valproic acid ingestion should be referred to an emergency department (Grade C). 3) Asymptomatic patients with an unintentional acute ingestion of 50 mg/kg or more or asymptomatic patients who are taking the drug therapeutically and who take an additional single acute ingestion of 50 mg/kg or more of any valproic acid formulation should be referred to an emergency department for evaluation (Grade C). 4) Patients with unintentional ingestions of immediate-release valproic acid formulations, who are asymptomatic, and more than 6 hours has elapsed since the time of ingestion, can be observed at home (Grade C). 5) Patients with unintentional ingestions of delayed-release or extended-release formulations of valproic acid who are asymptomatic, and more than 12 hours has elapsed since the time of ingestion, can be observed at home (Grade C). 6) Pregnant women who ingest below the dose for emergency department referral and do not have other referral conditions should be directed to their primary care obstetrical provider for evaluation of potential maternal and fetal risk. Routine referral to an emergency department for immediate care is not required (Grade D). 7) Do not induce emesis (Grade C). 8) Activated charcoal can be administered to asymptomatic patients who have ingested valproic acid within the preceding hour (Grade C). Prehospital activated charcoal administration, if available, should only be carried out by health professionals and only if no contraindications are present. Poison centers should follow local protocols and experience with its use. Do not delay transportation in order to administer activated charcoal (Grades D). 9) In patients who have ingested valproic acid and who are comatose, naloxone can be considered for prehospital administration in the doses used for treatment of opioid overdose, particularly if the patient has respiratory depression (Grade C). 10) A benzodiazepine can be administered by EMS personnel if convulsions are present and if authorized by EMS medical direction, expressed by written treatment protocol or policy, or if there is direct medical oversight (Grade C).
 
 ---
 
-### Weight change associated with valproate and lamotrigine monotherapy in patients with epilepsy [^e9e42dee]. Neurology (2001). Low credibility.
+### Weight change associated with valproate and lamotrigine monotherapy in patients with epilepsy [^116ykkxM]. Neurology (2001). Low credibility.
 
 Objective
 
@@ -1106,13 +1106,13 @@ Valproate monotherapy was associated with significantly greater weight gain than
 
 ---
 
-### Pharmacological management of obesity: an endocrine society clinical practice guideline [^1cc4eeac]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Pharmacological management of obesity: an endocrine society clinical practice guideline [^111jeoSb]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Antiepileptic drugs (AEDs) and weight effects — We recommend considering weight gain potential in choosing an AED for any given patient and using shared decision-making with quantitative estimates of expected weight effects. AEDs associated with weight loss are felbamate, topiramate, and zonisamide; AEDs associated with weight gain are gabapentin, pregabalin, valproic acid, vigabatrin, and carbamazepine; weight-neutral AEDs are lamotrigine, levetiracetam, and phenytoin. Valproic acid studies reported mild-to-moderate weight gain (5 to 10% of baseline weight) in 24% of patients and marked weight gain (> 10% gain of baseline weight) in 47% of patients. In a gabapentin cohort of 44 patients, 57% gained more than 5% of baseline body weight and 10 patients (23%) gained more than 10%. A systematic review suggested weight gain with gabapentin (2.2 kg after 1.5 mo of use) and divalproex (relative risk for weight gain, 2.8; 95% CI, 1.30, 6.02). For carbamazepine, 66.7% had gained an average of 1.5 kg at a 6- to 8-month follow-up visit.
 
 ---
 
-### A randomized trial of divalproex sodium extended-release tablets in migraine prophylaxis [^e2d0a99c]. Neurology (2002). Low credibility.
+### A randomized trial of divalproex sodium extended-release tablets in migraine prophylaxis [^116oGHmD]. Neurology (2002). Low credibility.
 
 Objective
 
@@ -1132,7 +1132,7 @@ Extended-release divalproex sodium is an efficacious, well-tolerated, safe, and 
 
 ---
 
-### A pharmacokinetic and clinical evaluation of switching patients with bipolar I disorder from delayed-release to extended-release divalproex [^8dc2cc5f]. The Journal of Clinical Psychiatry (2007). Low credibility.
+### A pharmacokinetic and clinical evaluation of switching patients with bipolar I disorder from delayed-release to extended-release divalproex [^114dAgiJ]. The Journal of Clinical Psychiatry (2007). Low credibility.
 
 Objective
 
@@ -1152,7 +1152,7 @@ When converting stable bipolar patients from twice-daily divalproex DR to once-d
 
 ---
 
-### Rapid oral loading of extended release divalproex in patients with acute mania [^b27ae26a]. General Hospital Psychiatry (2005). Low credibility.
+### Rapid oral loading of extended release divalproex in patients with acute mania [^115Zc59K]. General Hospital Psychiatry (2005). Low credibility.
 
 Background
 
@@ -1172,13 +1172,13 @@ The results suggest that divalproex ER can be safely administered by oral loadin
 
 ---
 
-### Epilepsy benchmarks area III: improved treatment options for controlling seizures and epilepsy-related conditions without side effects [^a0c735bc]. Epilepsy Currents (2020). Medium credibility.
+### Epilepsy benchmarks area III: improved treatment options for controlling seizures and epilepsy-related conditions without side effects [^1157Mw1d]. Epilepsy Currents (2020). Medium credibility.
 
 Taken to its logical albeit futuristic conclusion, one might envision a paradigm shift from ASMs in the form of multiple doses of a drug per day and steady-state blood levels (with attendant side effects) to delivery systems that provide anticonvulsants to the brain at the site they are needed and only when they are needed, improving the quality of life of the patient. Further, each patient's treatment would be customized based on genetic and molecular profiles. This form of precision medicine would eliminate the need for chronic and systemic nonspecific and side effect-laden pharmacotherapy, improving efficacy and possibly reducing the development of pharmacoresistance.
 
 ---
 
-### Valproate (valproic acid or sodium valproate or a combination of the two) for the prophylaxis of episodic migraine in adults [^92e674aa]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
+### Valproate (valproic acid or sodium valproate or a combination of the two) for the prophylaxis of episodic migraine in adults [^114knbnR]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
 
 Background
 
@@ -1210,7 +1210,7 @@ Valproate is effective in reducing headache frequency and is reasonably well tol
 
 ---
 
-### Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder [^d60a9706]. Bipolar Disorders (2018). Low credibility.
+### Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder [^116UKuch]. Bipolar Disorders (2018). Low credibility.
 
 8.1 Medical evaluation and laboratory investigations
 
@@ -1223,7 +1223,7 @@ For those on maintenance therapy with lithium, thyroid and renal function as wel
 
 ---
 
-### Valproate sodium [^dd4027c8]. FDA (2025). Medium credibility.
+### Valproate sodium [^116f1p8P]. FDA (2025). Medium credibility.
 
 Conversion to Monotherapy
 
@@ -1237,7 +1237,7 @@ In a study of adjunctive therapy for complex partial seizures in which patients 
 
 ---
 
-### Linear relationship of valproate serum concentration to response and optimal serum levels for acute mania [^7008793c]. The American Journal of Psychiatry (2006). Low credibility.
+### Linear relationship of valproate serum concentration to response and optimal serum levels for acute mania [^113s6TeB]. The American Journal of Psychiatry (2006). Low credibility.
 
 Objective
 
@@ -1257,13 +1257,13 @@ The results of this study suggest that there is a linear relationship between va
 
 ---
 
-### Practice guideline update summary: efficacy and tolerability of the new antiepileptic drugs II: treatment-resistant epilepsy: report of the guideline development, dissemination, and implementation subcommittee of the American Academy of Neurology and the American Epilepsy Society [^67868f62]. Neurology (2018). Medium credibility.
+### Practice guideline update summary: efficacy and tolerability of the new antiepileptic drugs II: treatment-resistant epilepsy: report of the guideline development, dissemination, and implementation subcommittee of the American Academy of Neurology and the American Epilepsy Society [^113eUvU9]. Neurology (2018). Medium credibility.
 
 Vigabatrin (VGB) — trial and dosing context: VGB and placebo were assessed in 2 Class I studies, with VGB doses at 1, 3, and 6 g/d evaluated.
 
 ---
 
-### Comprehensive review and meta-analysis of psychological and pharmacological treatment for intermittent explosive disorder: insights from both case studies and randomized controlled trials [^f2674e0b]. Clinical Psychology & Psychotherapy (2025). Medium credibility.
+### Comprehensive review and meta-analysis of psychological and pharmacological treatment for intermittent explosive disorder: insights from both case studies and randomized controlled trials [^117CNhjp]. Clinical Psychology & Psychotherapy (2025). Medium credibility.
 
 Fluoxetine is typically administered in oral capsules or liquid form, with initial doses ranging from 10 to 20 mg daily, and the dose can be gradually increased depending on the patient's response and tolerance (Sohel et al.). Other SSRIs, such as sertraline (Zoloft), citalopram (Celexa) and escitalopram (Lexapro), have also been used off‐label for IED (Edinoff et al; Sanchez, Reines, and Montgomery). These drugs share similar mechanisms of action as fluoxetine, but they differ in terms of adverse effect profiles and individual response rates. For instance, while all SSRIs enhance serotonergic transmission, the incidence of side effects such as nausea, insomnia or sexual dysfunction may vary across medications, and treatment decisions are often tailored to patient‐specific needs (Chu and Wadhwa).
 
@@ -1271,7 +1271,7 @@ In addition to SSRIs, mood stabilizers are another prominent class of drugs used
 
 ---
 
-### Drug dosing recommendations for all patients: a roadmap for change [^2c317786]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Drug dosing recommendations for all patients: a roadmap for change [^1128X56M]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 Recommendation: Clinical specialist (e.g. cardiology, neurology, and clinical pharmacology‐pharmacy) societies should create a high priority drug‐disease target list where more precise dosing is likely to result in improved patient outcome. High priority criteria should be created by physicians and pharmacists who use the drugs to treat patients. General criteria to consider are drug‐disease targets dosing risks include death and/or significant morbidity from underdosing or overdosing and also where patient characteristics are known to significantly influence drug PKs and/or PDs. It is important to create/maintain a drug‐disease model public library, including computer code and prospective qualification testing. 31
 
@@ -1279,13 +1279,13 @@ Recommendation: Clinical specialist (e.g. cardiology, neurology, and clinical ph
 
 ---
 
-### Teratogenesis, perinatal, and neurodevelopmental outcomes after in utero exposure to antiseizure medication: practice guideline from the AAN, AES, and SMFM [^4495f987]. Neurology (2024). High credibility.
+### Teratogenesis, perinatal, and neurodevelopmental outcomes after in utero exposure to antiseizure medication: practice guideline from the AAN, AES, and SMFM [^112kgXuY]. Neurology (2024). High credibility.
 
 AAN/AES/SMFM antiseizure medication in pregnancy — Recommendation 1 statements and context: 1(A) Clinicians should engage in joint decision-making with PWCEP, taking individual preferences into account when selecting ASMs and monitoring their dosing (Level B); 1(B) when treating PWCEP, clinicians should recommend ASMs and doses that optimize both seizure control and fetal outcomes should pregnancy occur, at the earliest possible opportunity preconceptionally (Level B); this is underscored by risks associated with discontinuing or changing ASMs, that more than 65% of pregnancies among PWCEP are unintended, and that the ASM regimen in unplanned pregnancy is often the regimen at conception.
 
 ---
 
-### Effectiveness analysis of three-drug combination therapies for refractory focal epilepsy [^5fc677cf]. Neurotherapeutics (2024). Medium credibility.
+### Effectiveness analysis of three-drug combination therapies for refractory focal epilepsy [^113SzVEv]. Neurotherapeutics (2024). Medium credibility.
 
 Table 4
 Prescription dosages and the overall drug load of the 10 most frequently prescribed three-drug combination regimens.
@@ -1295,7 +1295,7 @@ Patient-reported side effects of the top 10 commonly used three-drug combination
 
 ---
 
-### Valproic acid for agitation in dementia [^43655b35]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Valproic acid for agitation in dementia [^112ivDTi]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -1327,19 +1327,19 @@ The trials reviewed should be regarded as preliminary. Individual reports sugges
 
 ---
 
-### Diazepam (Valium) [^5616b8f6]. FDA (2025). Medium credibility.
+### Diazepam (Valium) [^113CdZuX]. FDA (2025). Medium credibility.
 
 The dosage of diazepam PO for adjunctive treatment for seizure disorders in adults is 2–10 mg PO q6-12h
 
 ---
 
-### Methylphenidate and continuous spike and wave during sleep in a child with attention deficit hyperactivity disorder [^d03504cb]. Pediatric Neurology (2013). Low credibility.
+### Methylphenidate and continuous spike and wave during sleep in a child with attention deficit hyperactivity disorder [^116KgEWE]. Pediatric Neurology (2013). Low credibility.
 
 Attention-deficit/hyperactivity disorder is the most common neurobehavioral disorder in children and frequently associated with epilepsy. For patients with both conditions, methylphenidate remains a mainstay in the treatment of behavioral problems. Most studies demonstrate that methylphenidate is effective in treating children with well-controlled epilepsy, and that methylphenidate does not increase the risk of having seizures in patients with EEG abnormalities without epilepsy. However, in patients with active seizures, the results are somewhat contradictory. This article presents the case of a young girl with attention-deficit/hyperactivity disorder and behavioral problems on Depakote (valproic acid) who had an abnormal EEG with left centroparietal spikes but no history of electrographic seizures. She experienced a convulsion the day after her first dose of methylphenidate, and repeat EEG demonstrated continuous spike and slow wave during sleep. This case report suggests that children with continuous spike and slow wave during sleep may have a higher risk of developing seizures with methylphenidate treatment.
 
 ---
 
-### Gabapentin dosing in the treatment of epilepsy [^37b87b24]. Clinical Therapeutics (2003). Low credibility.
+### Gabapentin dosing in the treatment of epilepsy [^112RcHUo]. Clinical Therapeutics (2003). Low credibility.
 
 Background
 
@@ -1363,7 +1363,7 @@ Based in the literature here, in most adult patients, gabapentin may be initiate
 
 ---
 
-### Dose-ranging effect of adjunctive oral cannabidiol vs placebo on convulsive seizure frequency in dravet syndrome: a randomized clinical trial [^09417350]. JAMA Neurology (2020). High credibility.
+### Dose-ranging effect of adjunctive oral cannabidiol vs placebo on convulsive seizure frequency in dravet syndrome: a randomized clinical trial [^111Eiscb]. JAMA Neurology (2020). High credibility.
 
 Introduction
 
@@ -1375,13 +1375,13 @@ In previous randomized clinical trials, cannabidiol demonstrated efficacy with a
 
 ---
 
-### Valproate-associated hyperammonemic encephalopathy [^016ede6c]. Journal of the American Board of Family Medicine (2007). Low credibility.
+### Valproate-associated hyperammonemic encephalopathy [^11138EBV]. Journal of the American Board of Family Medicine (2007). Low credibility.
 
 The use of valproic acid (VPA) (also known as Depakote, Depakene, and others) frequently results in elevated plasma ammonia. In some people, hyperammonemia may be clinically significant, resulting in hyperammonemic encephalopathy, which may be severe. Valproic acid-induced hyperammonemic encephalopathy may occur in people with normal liver function, despite normal doses and serum levels of VPA. We describe 2 cases of valproic acid-induced hyperammonemic encephalopathy in patients with supratherapeutic VPA levels, although the condition has been described in people with normal VPA levels. With the increasing indications and off-label uses of VPA, family physicians should be aware of this potential complication of VPA and check ammonia levels in patients taking VPA who present with alterations in mental status. Treatment with L-carnitine may be beneficial in reducing ammonia levels.
 
 ---
 
-### Valproate sodium [^053cc6d3]. FDA (2024). Medium credibility.
+### Valproate sodium [^1118mMSA]. FDA (2024). Medium credibility.
 
 The dosage of valproate sodium IV for treatment of absence seizures in adults (simple or complex) is:
 
@@ -1390,13 +1390,13 @@ The dosage of valproate sodium IV for treatment of absence seizures in adults (s
 
 ---
 
-### Clinical policy: critical issues in the management of adult patients presenting to the emergency department with seizures: approved by the ACEP board of directors, April 17, 2024 [^50852c8f]. Annals of Emergency Medicine (2024). High credibility.
+### Clinical policy: critical issues in the management of adult patients presenting to the emergency department with seizures: approved by the ACEP board of directors, April 17, 2024 [^1134Njz6]. Annals of Emergency Medicine (2024). High credibility.
 
 Known seizure disorder — route of antiepileptic medication resumption in the emergency department (ED) is addressed with Level C guidance. Level A recommendations: None specified. Level B recommendations: None specified. Level C recommendations: When resuming antiepileptic medication in the ED is deemed appropriate, the emergency physician may administer intravenous (IV) or oral medication at their discretion. The emergency physician is often faced with determining how best to resume antiepileptic medications in patients with known seizure disorders, and strategies often become an issue under one of 2 circumstances: the patient could in theory benefit from rapid administration of prescribed medication (loading) to improve the likelihood of a safe, seizure-free discharge, or the patient has a contraindication to oral administration medications; patients who might potentially benefit from loading include those noted to have a subtherapeutic serum level of medication or to be noncompliant with a medication when a serum level cannot be readily assessed. The literature reviewed for this clinical question is limited because the only studies found did not use early seizure recurrence as a primary outcome measure, and most studies investigated loading dose strategies with attainment of drug levels, using serum levels as a surrogate outcome measure for efficacy.
 
 ---
 
-### Strategy for utilization of new antiepileptic drugs [^31294f97]. Current Opinion in Neurology (2008). Low credibility.
+### Strategy for utilization of new antiepileptic drugs [^112FtGcN]. Current Opinion in Neurology (2008). Low credibility.
 
 Purpose Of Review
 
@@ -1412,12 +1412,12 @@ Comparative studies are needed to elucidate the specific weaknesses and strength
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^ad801ef8]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^115SDtkX]. Academic Emergency Medicine (2012). Medium credibility.
 
 Tricyclic antidepressant (TCA)/sodium channel blocker overdose — prehospital care emphasizes airway support, sodium bicarbonate for conduction toxicity, hemodynamic support, agitation management, and seizure management: "Consider early airway management"; "If widened QRS (100 msec or greater), consider sodium bicarbonate 1–2 mEq/kg IV, this can be repeated as needed to narrow QRS and improve blood pressure"; for hypotension, "Consider fluid challenge (20 mL/kg)" and "Consider vasopressors after adequate fluid resuscitation (1–2 liters of crystalloid) for the hypotensive patient [See Shock Guideline]"; for agitation, "For agitation, consider midazolam" with adult dosing "Adult: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 5 mg" and "Reduce by 50% for patients 69 years or older", and pediatric dosing "Pediatric: midazolam 0.1 mg/kg in 2 mg increments slow IV push over one to two minutes per increment with maximum single dose 4 mg or midazolam 0.2 mg/kg IN to maximum single dose of 10 mg"; seizures: "For seizure, treat per Seizures Guideline".
 
 ---
 
-### Limitations of monotherapy trials in epilepsy [^b7f42c82]. Neurology (2003). Low credibility.
+### Limitations of monotherapy trials in epilepsy [^115hikTj]. Neurology (2003). Low credibility.
 
 Monotherapy is considered optimal management for most patients with epilepsy, but designing monotherapy trials in epilepsy has proved to be a complex endeavor. Consideration of the validity of evidence for efficacy, potential risks to patients, clinical applicability of results, and effects of dosing and titration rates on efficacy and tolerability creates unique challenges. This article reviews pertinent aspects of trials of conversion to monotherapy in refractory patients and equivalence trials in newly diagnosed patients to better understand their limitations. Despite the inherent difficulties in designing monotherapy trials in epilepsy, previous monotherapy studies have provided important information for clinical management with new treatments.

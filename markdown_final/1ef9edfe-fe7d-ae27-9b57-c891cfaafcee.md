@@ -17,41 +17,41 @@ Based on current guidelines, how should the portal hypertension in this patient 
 
 > Let's see… What do we have here? The user is asking how to manage portal hypertension due to extrahepatic portal vein obstruction in a 14-year-old with recurrent hematemesis and large esophageal varices. Let's break this down step-by-step. First, I need to think about confirming the diagnosis and excluding cirrhosis. Then, I should stage the severity of portal hypertension and variceal risk. Next, I will decide on primary prophylaxis versus definitive therapy, including Meso-Rex bypass candidacy. After that, I need to outline acute bleeding management and secondary prophylaxis. Finally, I should address etiologic workup, surveillance, and special pediatric considerations, and I will double-check where adult guidance can be extrapolated safely to non-cirrhotic children.
 
-> Let me first confirm the diagnosis and exclude cirrhosis, because management hinges on preserving normal liver function and recognizing that EHPVO is a prehepatic, non-cirrhotic cause of portal hypertension. Normal liver tests and a normal-appearing liver on imaging support non-cirrhotic EHPVO, and Doppler ultrasound with cavernous transformation is classic for chronic portal vein thrombosis; I should confirm with contrast-enhanced cross-sectional imaging to define extent and collaterals, and I need to ensure there is no underlying liver disease or porto-sinusoidal vascular disorder before proceeding [^a94929d0] [^1ac7c348] [^64ff068e].
+> Let me first confirm the diagnosis and exclude cirrhosis, because management hinges on preserving normal liver function and recognizing that EHPVO is a prehepatic, non-cirrhotic cause of portal hypertension. Normal liver tests and a normal-appearing liver on imaging support non-cirrhotic EHPVO, and Doppler ultrasound with cavernous transformation is classic for chronic portal vein thrombosis; I should confirm with contrast-enhanced cross-sectional imaging to define extent and collaterals, and I need to ensure there is no underlying liver disease or porto-sinusoidal vascular disorder before proceeding [^115KyUxo] [^111ghn2B] [^113ajRUq].
 
-> Next, I should review the severity and risk stratification. Large esophageal varices carry a high risk of first bleeding, and in children, high-risk endoscopic features such as grade 3 varices or grade 2 with red wale marks correlate strongly with spontaneous bleeding; I should also screen for gastric varices and portal hypertensive gastropathy during endoscopy because they alter management and prognostication [^a0b83f6e] [^25aa5263].
+> Next, I should review the severity and risk stratification. Large esophageal varices carry a high risk of first bleeding, and in children, high-risk endoscopic features such as grade 3 varices or grade 2 with red wale marks correlate strongly with spontaneous bleeding; I should also screen for gastric varices and portal hypertensive gastropathy during endoscopy because they alter management and prognostication [^1157GuXT] [^111xqkZg].
 
-> Hold on, let's not jump to conclusions about primary prophylaxis. Adult cirrhosis guidance supports NSBB or EVL for medium-large varices, but pediatric data are limited and controversial; the Baveno VI pediatric satellite concluded that routine primary prophylaxis with NSBB or EVL cannot be recommended universally in children due to insufficient evidence, even though some pediatric series suggest benefit in high-risk phenotypes, so I need to weigh local expertise, patient preference, and the high-risk endoscopic pattern carefully [^4aab782e] [^a0b83f6e] [^d08a5094] [^11a337b5].
+> Hold on, let's not jump to conclusions about primary prophylaxis. Adult cirrhosis guidance supports NSBB or EVL for medium-large varices, but pediatric data are limited and controversial; the Baveno VI pediatric satellite concluded that routine primary prophylaxis with NSBB or EVL cannot be recommended universally in children due to insufficient evidence, even though some pediatric series suggest benefit in high-risk phenotypes, so I need to weigh local expertise, patient preference, and the high-risk endoscopic pattern carefully [^112uhgMB] [^1157GuXT] [^116LAtCs] [^111T9cXW].
 
-> I will now examine definitive therapy, because in non-cirrhotic EHPVO the most durable approach is restoring hepatopetal portal flow via a Meso-Rex bypass if anatomy is favorable. Let me verify candidacy: I need to confirm patency of the Rex recessus and intrahepatic left portal vein, typically with Doppler and cross-sectional imaging, and then refer to a pediatric hepatobiliary center with MRB expertise; Baveno VI pediatric consensus and contemporary series support offering MRB for primary and secondary prophylaxis when feasible, with excellent long-term outcomes and low encephalopathy risk compared with portosystemic shunts [^4aab782e] [^a62c67f8] [^73ff48d3].
+> I will now examine definitive therapy, because in non-cirrhotic EHPVO the most durable approach is restoring hepatopetal portal flow via a Meso-Rex bypass if anatomy is favorable. Let me verify candidacy: I need to confirm patency of the Rex recessus and intrahepatic left portal vein, typically with Doppler and cross-sectional imaging, and then refer to a pediatric hepatobiliary center with MRB expertise; Baveno VI pediatric consensus and contemporary series support offering MRB for primary and secondary prophylaxis when feasible, with excellent long-term outcomes and low encephalopathy risk compared with portosystemic shunts [^112uhgMB] [^115FMrt7] [^113xyKkW].
 
-> Wait, let me verify alternatives if MRB is not anatomically feasible. Surgical portosystemic shunts such as a distal splenorenal shunt can be considered in expert centers, and in refractory cases, percutaneous portal vein recanalization or TIPS may be attempted, acknowledging lower success in cavernoma and the need for pediatric interventional radiology expertise; I should also remember that TIPS is not first-line in non-cirrhotic EHPVO and is generally reserved for rescue or when MRB is not possible [^0bfe3d25] [^73ff48d3] [^a62c67f8].
+> Wait, let me verify alternatives if MRB is not anatomically feasible. Surgical portosystemic shunts such as a distal splenorenal shunt can be considered in expert centers, and in refractory cases, percutaneous portal vein recanalization or TIPS may be attempted, acknowledging lower success in cavernoma and the need for pediatric interventional radiology expertise; I should also remember that TIPS is not first-line in non-cirrhotic EHPVO and is generally reserved for rescue or when MRB is not possible [^111JnG5A] [^113xyKkW] [^115FMrt7].
 
-> For acute variceal bleeding, I need to ensure standard resuscitation and pharmacologic therapy are instituted promptly. Restrictive transfusion with a hemoglobin threshold around 7 g/dL in stable patients, vasoactive agents such as octreotide or terlipressin, and prophylactic antibiotics are foundational; urgent endoscopy within 12–24 hours with band ligation is preferred for esophageal varices, and if gastric varices are present, cyanoacrylate injection is indicated; if endoscopic and pharmacologic therapy fail, rescue options include TIPS or BRTO depending on anatomy and local expertise [^126af471] [^7e2362e1] [^0ac257d1] [^a1f49f82].
+> For acute variceal bleeding, I need to ensure standard resuscitation and pharmacologic therapy are instituted promptly. Restrictive transfusion with a hemoglobin threshold around 7 g/dL in stable patients, vasoactive agents such as octreotide or terlipressin, and prophylactic antibiotics are foundational; urgent endoscopy within 12–24 hours with band ligation is preferred for esophageal varices, and if gastric varices are present, cyanoacrylate injection is indicated; if endoscopic and pharmacologic therapy fail, rescue options include TIPS or BRTO depending on anatomy and local expertise [^111UJhip] [^114E1KtU] [^111Gx9vg] [^11597B1j].
 
-> For secondary prophylaxis after a first bleed, I should confirm that NSBB plus EVL is standard unless a definitive procedure is pursued. NSBB reduce portal pressure and rebleeding risk, and EVL should be repeated every 2–4 weeks until obliteration with surveillance every 6–12 months; if rebleeding occurs despite optimized medical-endoscopic therapy, I should reconsider MRB candidacy or escalate to TIPS/BRTO in a multidisciplinary setting [^e2a40972] [^6a175efe] [^dba090fa].
+> For secondary prophylaxis after a first bleed, I should confirm that NSBB plus EVL is standard unless a definitive procedure is pursued. NSBB reduce portal pressure and rebleeding risk, and EVL should be repeated every 2–4 weeks until obliteration with surveillance every 6–12 months; if rebleeding occurs despite optimized medical-endoscopic therapy, I should reconsider MRB candidacy or escalate to TIPS/BRTO in a multidisciplinary setting [^116o1JPK] [^113iHYBF] [^116ccDoP].
 
-> But wait, what if the first bleed was already the sentinel event and the child is now stable? I should double-check that MRB evaluation is not delayed, because early referral to a pediatric center with MRB capability can change long-term outcomes; indeed, pediatric vascular liver disease guidance emphasizes early evaluation for definitive interventions in EHPVO, and long-term cohorts show excellent survival with low rebleeding after MRB when anatomy is suitable [^5c6f87fd] [^73ff48d3].
+> But wait, what if the first bleed was already the sentinel event and the child is now stable? I should double-check that MRB evaluation is not delayed, because early referral to a pediatric center with MRB capability can change long-term outcomes; indeed, pediatric vascular liver disease guidance emphasizes early evaluation for definitive interventions in EHPVO, and long-term cohorts show excellent survival with low rebleeding after MRB when anatomy is suitable [^113N3KjJ] [^113xyKkW].
 
-> Next, I should review etiologic workup and anticoagulation decisions. In children with EHPVO, I need to screen for prothrombotic conditions and local risk factors such as umbilical catheterization or sepsis; permanent anticoagulation is generally not required unless there is a strong prothrombotic disorder, recurrent thrombosis, or mesenteric ischemia, so I should tailor anticoagulation to identified risks and reassess over time [^9dc4fac1] [^bddae40c] [^29c1362d].
+> Next, I should review etiologic workup and anticoagulation decisions. In children with EHPVO, I need to screen for prothrombotic conditions and local risk factors such as umbilical catheterization or sepsis; permanent anticoagulation is generally not required unless there is a strong prothrombotic disorder, recurrent thrombosis, or mesenteric ischemia, so I should tailor anticoagulation to identified risks and reassess over time [^1152uDiQ] [^115rUBbh] [^1124uPcx].
 
-> I need to ensure surveillance is planned for complications beyond varices. Portal hypertensive biliopathy can develop in chronic EHPVO and may require endoscopic or surgical management if symptomatic, and growth and developmental monitoring is essential; long-term pediatric cohorts highlight the burden of portal hypertension complications and the need for coordinated follow-up into adulthood, even when variceal bleeding is controlled [^cf412394] [^7dbac8db].
+> I need to ensure surveillance is planned for complications beyond varices. Portal hypertensive biliopathy can develop in chronic EHPVO and may require endoscopic or surgical management if symptomatic, and growth and developmental monitoring is essential; long-term pediatric cohorts highlight the burden of portal hypertension complications and the need for coordinated follow-up into adulthood, even when variceal bleeding is controlled [^116JGKLw] [^114DQC5p].
 
-> Hold on, I should verify where adult guidance can be extrapolated. EASL vascular guidance states that portal hypertension in EHPVO should be managed per cirrhosis protocols for variceal bleeding, which supports NSBB, EVL, and rescue strategies; however, I must remember that definitive therapy differs in children due to preserved liver function and the unique role of MRB, so I should apply acute care principles while prioritizing pediatric-specific definitive options when available [^cc7bcb6d] [^4aab782e].
+> Hold on, I should verify where adult guidance can be extrapolated. EASL vascular guidance states that portal hypertension in EHPVO should be managed per cirrhosis protocols for variceal bleeding, which supports NSBB, EVL, and rescue strategies; however, I must remember that definitive therapy differs in children due to preserved liver function and the unique role of MRB, so I should apply acute care principles while prioritizing pediatric-specific definitive options when available [^116EA4Ck] [^112uhgMB].
 
-> Putting this together, my prioritized plan is as follows: confirm non-cirrhotic EHPVO with appropriate imaging and liver assessment; refer urgently to a pediatric center for Meso-Rex bypass evaluation given large esophageal varices and recurrent bleeding; in the interim, initiate secondary prophylaxis with NSBB and schedule EVL until obliteration if MRB is delayed; manage any future acute bleeding with restrictive transfusion, vasoactives, antibiotics, and timely endoscopic therapy with clear rescue pathways; and complete a prothrombotic workup to guide anticoagulation decisions, all aligned with pediatric consensus and contemporary series [^4aab782e] [^e2a40972] [^126af471] [^9dc4fac1] [^73ff48d3].
+> Putting this together, my prioritized plan is as follows: confirm non-cirrhotic EHPVO with appropriate imaging and liver assessment; refer urgently to a pediatric center for Meso-Rex bypass evaluation given large esophageal varices and recurrent bleeding; in the interim, initiate secondary prophylaxis with NSBB and schedule EVL until obliteration if MRB is delayed; manage any future acute bleeding with restrictive transfusion, vasoactives, antibiotics, and timely endoscopic therapy with clear rescue pathways; and complete a prothrombotic workup to guide anticoagulation decisions, all aligned with pediatric consensus and contemporary series [^112uhgMB] [^116o1JPK] [^111UJhip] [^1152uDiQ] [^113xyKkW].
 
 ---
 
-For a 14-year-old with extrahepatic portal vein obstruction and large esophageal varices, **primary prophylaxis with nonselective beta-blockers (NSBB) or endoscopic variceal ligation (EVL) is indicated** to prevent first variceal bleeding [^notfound]. NSBB is preferred if tolerated, with EVL for those who cannot take or do not respond to beta-blockers [^notfound]. Meso-Rex bypass should be considered if anatomy is favorable and expertise is available, as it restores physiologic portal flow and reduces long-term complications [^4aab782e] [^f6481a2e]. TIPS is not first-line in children and is reserved for refractory cases or when surgery is not feasible [^0bfe3d25]. Lifelong surveillance for variceal recurrence and complications is essential [^6a175efe].
+For a 14-year-old with extrahepatic portal vein obstruction and large esophageal varices, **primary prophylaxis with nonselective beta-blockers (NSBB) or endoscopic variceal ligation (EVL) is indicated** to prevent first variceal bleeding [^notfound]. NSBB is preferred if tolerated, with EVL for those who cannot take or do not respond to beta-blockers [^notfound]. Meso-Rex bypass should be considered if anatomy is favorable and expertise is available, as it restores physiologic portal flow and reduces long-term complications [^112uhgMB] [^117J8AzR]. TIPS is not first-line in children and is reserved for refractory cases or when surgery is not feasible [^111JnG5A]. Lifelong surveillance for variceal recurrence and complications is essential [^113iHYBF].
 
 ---
 
 ## Diagnostic evaluation
 
-- **Confirm EHPVO and exclude cirrhosis**: Doppler ultrasound is first-line to confirm portal vein thrombosis and cavernous transformation; contrast-enhanced CT or MRI defines extent and collaterals [^a94929d0].
-- **Assess liver function**: Normal LFTs support non-cirrhotic EHPVO; if abnormal, evaluate for underlying liver disease [^1ac7c348].
-- **Endoscopy**: Document variceal size, features, and gastric involvement to guide therapy [^3be82422].
+- **Confirm EHPVO and exclude cirrhosis**: Doppler ultrasound is first-line to confirm portal vein thrombosis and cavernous transformation; contrast-enhanced CT or MRI defines extent and collaterals [^115KyUxo].
+- **Assess liver function**: Normal LFTs support non-cirrhotic EHPVO; if abnormal, evaluate for underlying liver disease [^111ghn2B].
+- **Endoscopy**: Document variceal size, features, and gastric involvement to guide therapy [^112XpF6q].
 
 ---
 
@@ -59,27 +59,27 @@ For a 14-year-old with extrahepatic portal vein obstruction and large esophageal
 
 ### Primary prophylaxis
 
-- **Nonselective beta-blockers (NSBB)**: Propranolol or nadolol reduce portal pressure and are first-line if tolerated; monitor for bradycardia, asthma, and fatigue [^ba446761].
-- **Endoscopic variceal ligation (EVL)**: Alternative for NSBB intolerance or nonresponse; repeat every 2–4 weeks until obliteration, then surveillance every 6–12 months [^6a175efe].
+- **Nonselective beta-blockers (NSBB)**: Propranolol or nadolol reduce portal pressure and are first-line if tolerated; monitor for bradycardia, asthma, and fatigue [^115m9g2k].
+- **Endoscopic variceal ligation (EVL)**: Alternative for NSBB intolerance or nonresponse; repeat every 2–4 weeks until obliteration, then surveillance every 6–12 months [^113iHYBF].
 - **No role for TIPS**: TIPS is not indicated for primary prophylaxis in children [^notfound].
 
 ---
 
 ## Surgical management
 
-Meso-Rex bypass is the **preferred definitive therapy** in children with favorable anatomy (patent Rex recessus and intrahepatic portal vein), restoring physiologic portal flow and reducing recurrent bleeding, hypersplenism, and portal biliopathy [^4aab782e] [^f6481a2e]. Portal-systemic shunts (e.g. distal splenorenal) are reserved for **anatomy unsuitable for Meso-Rex** or when it is unavailable [^a62c67f8].
+Meso-Rex bypass is the **preferred definitive therapy** in children with favorable anatomy (patent Rex recessus and intrahepatic portal vein), restoring physiologic portal flow and reducing recurrent bleeding, hypersplenism, and portal biliopathy [^112uhgMB] [^117J8AzR]. Portal-systemic shunts (e.g. distal splenorenal) are reserved for **anatomy unsuitable for Meso-Rex** or when it is unavailable [^115FMrt7].
 
 ---
 
 ## Endovascular interventions
 
-TIPS is reserved for **refractory bleeding or when surgery is not feasible**, with lower success in cavernous transformation and higher encephalopathy risk in children [^0bfe3d25]. Portal vein recanalization is an emerging option in **selected cases** with chronic portal vein occlusion, though evidence is limited [^73ff48d3].
+TIPS is reserved for **refractory bleeding or when surgery is not feasible**, with lower success in cavernous transformation and higher encephalopathy risk in children [^111JnG5A]. Portal vein recanalization is an emerging option in **selected cases** with chronic portal vein occlusion, though evidence is limited [^113xyKkW].
 
 ---
 
 ## Long-term surveillance and follow-up
 
-Regular endoscopy is needed to detect **variceal recurrence** after obliteration or to monitor for new varices [^6a175efe]. Ongoing clinical monitoring should track growth, development, and complications such as **hypersplenism, portal biliopathy, and encephalopathy** [^cf412394]. Patient and family education should emphasize adherence, recognition of **bleeding**, and when to seek care [^notfound].
+Regular endoscopy is needed to detect **variceal recurrence** after obliteration or to monitor for new varices [^113iHYBF]. Ongoing clinical monitoring should track growth, development, and complications such as **hypersplenism, portal biliopathy, and encephalopathy** [^116JGKLw]. Patient and family education should emphasize adherence, recognition of **bleeding**, and when to seek care [^notfound].
 
 ---
 
@@ -101,44 +101,44 @@ Primary prophylaxis with NSBB or EVL is indicated for a 14-year-old with EHPVO a
 
 ## References
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^cc7bcb6d]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^116EA4Ck]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding medical management for extrahepatic portal vein obstruction, more specifically with respect to management of portal hypertension, EASL 2016 guidelines recommend to treat portal hypertension according to established guidelines for cirrhosis.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^c6aa43a7]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^1165XjpA]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to initiate nonselective β-blocker or perform endoscopic variceal ligation for primary prophylaxis in patients with large esophageal varices with high-risk stigmata or Child-Pugh class B/C cirrhosis.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^d0e7c325]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^116LiGi8]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to use Child-Pugh class B > 7 with active bleeding during initial endoscopy despite vasoactive drug use, Child-Pugh class C < 14, or documented hepatic venous pressure gradient ≥ 20 mmHg at the time of bleeding to define high-risk patients with cirrhosis and bleeding from esophageal varices or type 1 gastroesophageal varices who may obtain a survival benefit from a preemptive TIPS.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^2249a447]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^111sqKEn]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of variceal hemorrhage, EASL 2018 guidelines recommend to initiate primary prophylaxis upon detection of high-risk varices, i.e., small varices with red signs, medium or large varices irrespective of Child-Pugh classification, or small varices in Child-Pugh C patients, in patients with decompensated cirrhosis,
 ascites, or an acute intercurrent condition.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^4e087f1f]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^112zgtWS]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to perform endoscopic variceal ligation in patients with large esophageal varices unable to tolerate or having contraindications to nonselective β-blockers.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^b5c607d4]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^115eVGxK]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of variceal hemorrhage, EASL 2018 guidelines recommend to initiate nonselective β-blockers in patients with small varices with red wale marks or Child-Pugh C.
 
 ---
 
-### Extrahepatic portal vein obstruction in Egyptian children [^d57c2680]. Journal of Pediatric Gastroenterology and Nutrition (2015). Low credibility.
+### Extrahepatic portal vein obstruction in Egyptian children [^116TW4fq]. Journal of Pediatric Gastroenterology and Nutrition (2015). Low credibility.
 
 Background and Aim
 
@@ -158,7 +158,7 @@ This large study of children with EHPVO demonstrates the efficacy of propranolol
 
 ---
 
-### Portal hypertension in infants and children… [^430dc55b]. JAMA Network (2025). Excellent credibility.
+### Portal hypertension in infants and children… [^112iQoAJ]. JAMA Network (2025). Excellent credibility.
 
 Portal hypertension may be defined as a condition which develops in response to obstruction to portal blood flow. This may be caused by thrombosis or abnormalities in the portal vein or its tributaries or by obstruction within the liver itself. The primary clinical manifestations are splenomegaly and hemorrhage from varices. Both develop in direct response to the increased portal pressure. Ascites, although commonly seen in patients with cirrhosis, does not bear as direct a relationship to elevated portal pressure as was formerly believed, developing as a manifestation of hepatic decompensation frequently seen in association with portal hypertension.
 
@@ -168,19 +168,19 @@ Portal Hypertension in Infants and Children. AMA Am J Dis Child. 1955; 90: 290�
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^36e41fba]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^112QNxRw]. Gut (2015). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, BSG 2015 guidelines recommend to treat patients with gastroesophageal varices type 1 as for patients with esophageal varices.
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^221e4546]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^111sakJR]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding screening and diagnosis for extrahepatic portal vein obstruction, more specifically with respect to clinical presentation, EASL 2016 guidelines recommend to assess for extrahepatic portal vein obstruction in any patient presenting with features of portal hypertension, hypersplenism or abdominal pain, or biliary tract disease.
 
 ---
 
-### Long-term outcomes and health perceptions in pediatric-onset portal hypertension complicated by varices [^cf412394]. Journal of Pediatric Gastroenterology and Nutrition (2020). Medium credibility.
+### Long-term outcomes and health perceptions in pediatric-onset portal hypertension complicated by varices [^116JGKLw]. Journal of Pediatric Gastroenterology and Nutrition (2020). Medium credibility.
 
 Objectives
 
@@ -200,32 +200,32 @@ Pediatric-onset portal hypertension is a heterogeneous disease with significant 
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^4aa76ba2]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^112ugKU5]. Hepatology (2017). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of gastroesophageal varices, AASLD 2017 guidelines recommend to insufficient evidence to support the use of nonselective β-blockers for the prevention of varices formation.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^871032e5]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^114TEmd6]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, EASL 2018 guidelines recommend to consider performing selective embolization (balloon-occluded retrograde transvenous obliteration/balloon-occluded antegrade transvenous obliteration) to treat bleeding from fundal varices associated with large gastro/splenorenal collaterals.
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^9dc4fac1]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^1152uDiQ]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding medical management for extrahepatic portal vein obstruction, more specifically with respect to management of prothrombotic conditions, EASL 2016 guidelines recommend to manage any underlying prothrombotic condition(s) according to established guidelines.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^ba446761]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^115m9g2k]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of variceal hemorrhage, EASL 2018 guidelines recommend to initiate nonselective β-blockers or perform endoscopic band ligation in patients with medium-large varices. Consider choosing treatment based on local resources and expertise, patient preference, contraindications, and adverse events.
 Consider preferring nonselective β-blockers because, in addition to lowering portal pressure, they also exert other potentially beneficial effects.
 
 ---
 
-### Risk factors and management outcome of chronic portal vein thrombosis in children… [^29c1362d]. ClinicalTrials (2023). Medium credibility.
+### Risk factors and management outcome of chronic portal vein thrombosis in children… [^1124uPcx]. ClinicalTrials (2023). Medium credibility.
 
 Risk Factors and Management Outcome of Chronic Portal Vein Thrombosis in ChildrenClinicalTrials. gov ID Study Overview. Chronic Portal vein thrombosis is deﬁned as thrombosis that develops in the trunk of the portal vein, including its right and/or left intrahepatic branches of more than 5 weeks duration. This thrombus may extend to the splenic or superior mesenteric veins. The causes of chronic PVT in children are not entirely known, but several factors that predispose to this pathology are described. These are classiﬁed into three categories: local factors that can cause injury to the portal vein, general factors, and, less often, vascular malformation. The most common cause is umbilical vein catheterization. Among the general factors that predispose to venous thrombosis are thrombophilia, sepsis, and dehydration.
 
@@ -237,7 +237,7 @@ PVT should be suspected in all children with splenomegaly, without hepatomegaly 
 
 ---
 
-### Idiopathic portal hypertension and extrahepatic portal venous obstruction [^7dbac8db]. Hepatology International (2018). Low credibility.
+### Idiopathic portal hypertension and extrahepatic portal venous obstruction [^114DQC5p]. Hepatology International (2018). Low credibility.
 
 The following constitutes key background information on extrahepatic portal vein obstruction:
 
@@ -248,31 +248,31 @@ The following constitutes key background information on extrahepatic portal vein
 
 ---
 
-### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^7e2362e1]. Endoscopy (2022). High credibility.
+### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^114E1KtU]. Endoscopy (2022). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, ESGE 2022 guidelines recommend to consider performing urgent rescue TIPS placement (where available) in patients with persistent esophageal variceal bleeding despite vasoactive pharmacological and endoscopic hemostasis therapy.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^1de9eddc]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^111mMDUo]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to offer a preemptive TIPS within the first 72 hours to improve survival in patients with cirrhosis and portal hypertension-related bleeding who fulfill high-risk criteria.
 
 ---
 
-### Creation of a percutaneous mesocaval shunt to control variceal bleeding in a child [^49e73bf0]. Pediatric Radiology (2013). Low credibility.
+### Creation of a percutaneous mesocaval shunt to control variceal bleeding in a child [^112tZmNo]. Pediatric Radiology (2013). Low credibility.
 
 Although transjugular intrahepatic portosystemic shunt (TIPS) placement is the standard procedure for the treatment of portal hypertension, it is often impossible to perform in patients with extrahepatic portal vein occlusion. In these patients, options for decompressing the liver are few. In this report, we present a novel solution for managing gastro-esophageal hemorrhage in a child with portal hypertension and extrahepatic portal vein occlusion, through the creation of a percutaneous mesocaval shunt.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^23b7d531]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^111uxKDS]. Hepatology (2024). High credibility.
 
 Bleeding risk determinants for cardiofundal varices: Risk factors mirror esophageal varices and include size (> 10 mm for cardiofundal varices), presence of red marks, and liver disease severity.
 
 ---
 
-### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^38e9f297]. World Journal of Emergency Surgery (2008). Low credibility.
+### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^112TNtSz]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Conclusion
 
@@ -280,7 +280,7 @@ Patients who present with esophageal variceal hemorrhage and portal thrombosis a
 
 ---
 
-### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^fa96094e]. Pediatric Radiology (2025). Medium credibility.
+### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^117QWJPw]. Pediatric Radiology (2025). Medium credibility.
 
 Technique 2
 
@@ -288,19 +288,19 @@ A 14-year-old boy with known portal cavernoma and severe portal hypertension was
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^1e6d1978]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^111n7GtF]. Hepatology (2024). High credibility.
 
 AASLD practice guidance — gastric and ectopic varices management: Initial management of bleeding gastric or ectopic varices should be identical to bleeding esophageal varices, including vasoactive therapy, antimicrobials, conservative transfusion strategy, and endoscopic evaluation within 12 hours. Patients with bleeding gastric or ectopic varices should have contrast-enhanced cross-sectional imaging to define anatomy of portosystemic collaterals or venous thrombosis. In patients who underwent ECI as the main therapy, the addition of NSBBs is recommended to prevent rebleeding, in absence of contraindications, and repeat endoscopic treatment at intervals every 2–4 weeks until obliteration with long-term surveillance should be performed. Patients with bleeding GV from isolated splenic vein thrombosis should be evaluated for splenectomy, splenic vein stenting, or splenic artery embolization.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^149d8806]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^111XZfbT]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, ASGE 2014 guidelines recommend to perform alternative interventions when gastric variceal hemorrhage cannot be controlled with endoscopic and pharmacological therapy.
 
 ---
 
-### Primary prophylaxis of variceal bleeding in children and the role of mesoRex bypass: summary of the baveno VI pediatric satellite symposium [^4aab782e]. Hepatology (2016). Low credibility.
+### Primary prophylaxis of variceal bleeding in children and the role of mesoRex bypass: summary of the baveno VI pediatric satellite symposium [^112uhgMB]. Hepatology (2016). Low credibility.
 
 Unlabelled
 
@@ -312,7 +312,7 @@ There are few pediatric data to indicate the efficacy and safety of pharmacologi
 
 ---
 
-### Endoscopic sclerotherapy in children: experience with 257 cases of extrahepatic portal venous obstruction [^47019a36]. Gastrointestinal Endoscopy (2003). Low credibility.
+### Endoscopic sclerotherapy in children: experience with 257 cases of extrahepatic portal venous obstruction [^112pGfE5]. Gastrointestinal Endoscopy (2003). Low credibility.
 
 Background
 
@@ -332,19 +332,19 @@ Endoscopic sclerotherapy effectively eradicates varices in children with extrahe
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^bddae40c]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^115rUBbh]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding medical management for extrahepatic portal vein obstruction, more specifically with respect to anticoagulant therapy, EASL 2016 guidelines recommend to consider permanent anticoagulation in patients with a strong prothrombotic condition, past history suggesting intestinal ischemia, or recurrent thrombosis on follow-up.
 
 ---
 
-### Endoscopic treatment of patients with portal hypertension [^9ab816d6]. Gastrointestinal Endoscopy Clinics of North America (2001). Low credibility.
+### Endoscopic treatment of patients with portal hypertension [^114xNvkD]. Gastrointestinal Endoscopy Clinics of North America (2001). Low credibility.
 
 This article discusses endoscopic treatment of patients with sequelae from portal hypertension. The literature on endoscopic therapy for primary and secondary prophylaxis of esophageal varices is reviewed. Therapeutic approaches to less commonly seen entities, such as portal gastropathy and portal colopathy, are discussed.
 
 ---
 
-### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^97546c3e]. World Journal of Emergency Surgery (2008). Low credibility.
+### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^114sMVF3]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Discussion
 
@@ -352,37 +352,37 @@ Although biliary complications can occasionally develop after open cholecystecto
 
 ---
 
-### Cavernous transformation of portal vein a missed cause of extrahepatic portal hypertension [^b34b534b]. BMJ Case Reports (2012). Medium credibility.
+### Cavernous transformation of portal vein a missed cause of extrahepatic portal hypertension [^115ap5uC]. BMJ Case Reports (2012). Medium credibility.
 
 The portal vein thrombosis is an important and well-known cause of portal hypertension in young patients. Cavernous transformation of portal vein may be a sequel of portal vein thrombosis. Here the author reports a case of a 14-year-old boy presented with haemetemesis and melena, which was due to rupture of oesophageal varices as a result of portal hypertension. On further investigation, cavernous transformation of portal vein was identified on CT portovenogram and normal liver structure was evident on histology.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^11388fdf]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^111SXni2]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to consider performing TIPS creation as a first-line alternative to nonselective β-blockers with endoscopic treatment or balloon-occluded retrograde transvenous obliteration to prevent rebleeding in patients with bleeding related to gastric varices or ectopic varices especially if the bleeding is from type 2 gastroesophageal varices or type 1 isolated gastric varices.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^eb8d3bef]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^1172DXgr]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to consider performing TIPS creation in patients with portal hypertension-related gastropathy refractory to standard treatment with nonselective β-blockers and endoscopic therapy.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^e2a40972]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^116o1JPK]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to initiate standard secondary prophylaxis with nonselective β-blockers and endoscopic band ligation as the first line of treatment. Consider performing a TIPS creation in selected patients in case of secondary prophylaxis failure.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^dba090fa]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^116ccDoP]. Hepatology (2024). High credibility.
 
 Prevention of recurrent hemorrhage after initial bleeding — timing and risk: After a first AVH, patients are at high risk of rebleeding (up to 60% at 1 y without prophylaxis), and secondary prophylaxis to prevent rebleeding should be instituted immediately after control of the index bleed, within 7 days from admission, because the highest risk period for rebleeding is the first 6 weeks after presentation; in patients who underwent preemptive TIPS, no further measures are required.
 
 ---
 
-### Hematemesis from varices in a 14-year-old without hepatobiliary disease: a "Wandering" diagnosis… [^97461a78]. publications.aap.org (2022). Medium credibility.
+### Hematemesis from varices in a 14-year-old without hepatobiliary disease: a "Wandering" diagnosis… [^114sGgH5]. publications.aap.org (2022). Medium credibility.
 
 Hematemesis, especially when severe enough to cause hemodynamic instability, typically occurs in patients with hepatobiliary pathology associated with portal hypertension and varices. However, hematemesis can rarely be the presenting symptom of a wandering spleen, via the development of varices from sinistral portal hypertension. This case report describes a 14-year-old previously healthy male with acute hematemesis, who was found to have a WS and variceal hemorrhage that required emergent resuscitation and splenectomy. Hematemesis because of variceal bleeding is a common diagnosis in adults with cirrhosis or other causes of generalized portal hypertension. In children and adolescents, hematemesis is most frequently because of Mallory-Weiss tears or peptic ulcer disease. Severe pediatric upper gastrointestinal bleeds are most often because of varices.
 
@@ -398,19 +398,19 @@ He was intubated for airway protection and underwent esophagogastroduodenoscopy 
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^1ac7c348]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^111ghn2B]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding diagnostic investigations for extrahepatic portal vein obstruction, more specifically with respect to evaluation for liver disease, EASL 2016 guidelines recommend to exclude underlying cirrhosis or obliterative portal venopathy in patients with abnormal liver tests, dysmorphic appearance of the liver on imaging, or abnormal liver elastometry results.
 
 ---
 
-### Diagnosis and management of ectopic varices in portal hypertension [^6c78df73]. The Lancet: Gastroenterology & Hepatology (2023). High credibility.
+### Diagnosis and management of ectopic varices in portal hypertension [^113mpGEE]. The Lancet: Gastroenterology & Hepatology (2023). High credibility.
 
 Ectopic variceal bleeding is a rare cause of gastrointestinal bleeding that can occur in settings of cirrhotic and non-cirrhotic portal hypertension and is characterised by its development at locations remote from the oesophagus and stomach. Ectopic varices can be difficult to identify and access, and, although a relatively uncommon cause of portal hypertensive bleeding, can represent a difficult diagnostic and therapeutic challenge associated with considerable mortality. Low incidence and variance in variceal anatomy preclude large randomised controlled trials, and clinical practice is based on experience from case reports, case series, and specialist centre expertise. Optimisation of survival outcomes relies on understanding a patient's portal venous anatomy and functional hepatic reserve to guide timely and targeted endoscopic and endovascular interventions to facilitate the rapid control of ectopic variceal bleeding.
 
 ---
 
-### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^b8c6610a]. Pediatric Radiology (2025). Medium credibility.
+### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^115iwMb7]. Pediatric Radiology (2025). Medium credibility.
 
 Portal hypertension resulting from non-cirrhotic extrahepatic portal vein obstruction is a cause of severe morbidity related to variceal bleeding in children. In patients not eligible for Meso-Rex bypass, rescue interventions for refractory variceal bleeding have traditionally included surgical porto-systemic shunts or transjugular intrahepatic porto-systemic shunt (TIPS), which alter the normal physiology of liver perfusion and expose children to long-term complications. Portal vein recanalization is a recently described technique which aims to restore the hepatopetal flow through the native portal system but its feasibility is often limited. We aim to present two innovative techniques of percutaneous non-anatomical portal vein recanalization for treating non-cirrhotic extrahepatic portal vein obstruction in children who failed anatomical revascularization.
 
@@ -418,7 +418,7 @@ Graphical abstract
 
 ---
 
-### Endoscopic variceal ligation in children with extrahepatic portal vein thrombosis: long-term follow up of 2 cases [^a026b00f]. Annals of Gastroenterology (2015). Low credibility.
+### Endoscopic variceal ligation in children with extrahepatic portal vein thrombosis: long-term follow up of 2 cases [^1156S1ne]. Annals of Gastroenterology (2015). Low credibility.
 
 Endoscopic methods such as sclerotherapy and endoscopic variceal ligation (EVL) are considered highly effective in the treatment and prophylaxis of recurrent esophageal variceal bleeding. EVL is a treatment of option for preventing a first bleeding episode and for the treatment of acute and recurrent variceal bleeding in adult patients. Limited data are available regarding this treatment option in children, although it is considered highly effective and is recommended by most pediatric experts. We report our experience regarding two pediatric patients who suffered from extrahepatic portal vein obstruction (EHPVO).
 
@@ -426,25 +426,25 @@ The first case is a 3-year-old boy referred to our department for evaluation of 
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^64ff068e]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^113ajRUq]. Hepatology (2024). High credibility.
 
 Portal hypertension classification — portal hypertension is categorized by site as prehepatic at the portal vein and branches with portal vein thrombosis; intrahepatic presinusoidal (portal triads) including schistosomiasis, primary biliary cholangitis, sarcoidosis, and portosinusoidal vascular disorder; sinusoidal from cirrhosis (all causes) and alcohol-associated hepatitis; postsinusoidal (central veins) sinusoidal obstruction syndrome; and posthepatic involving hepatic veins or inferior vena cava with Budd-Chiari syndrome and congestive hepatopathy (multiple causes including but not limited to pulmonary hypertension, heart failure, constrictive pericarditis).
 
 ---
 
-### Vascular liver disorders, portal vein thrombosis, and procedural bleeding in patients with liver disease: 2020 practice guidance by the American Association for the Study of Liver Diseases [^3be82422]. Hepatology (2021). High credibility.
+### Vascular liver disorders, portal vein thrombosis, and procedural bleeding in patients with liver disease: 2020 practice guidance by the American Association for the Study of Liver Diseases [^112XpF6q]. Hepatology (2021). High credibility.
 
 American Association for the Study of Liver Diseases (AASLD) 2020 portal vein thrombosis (PVT) evaluation and management — when "PVT suspected on ultrasound", if there is "Evidence for mesenteric ischemia or severe portal hypertension bleed?" the Yes branch directs "Admit to hospital for emergent evaluation and therapy", whereas No leads to "Obtain contrast-enhanced multiphase cross-sectional imaging to rule out malignant obstruction and confirm diagnosis of partially occlusive or complete main trunk PVT". Next, assess "Does the patient have an accepted indication for TIPS?"; if Yes, "Refer for TIPS to a center with advanced interventional radiology expertise", and if No, "Perform upper endoscopy to assess for high-risk varices and treat if present as per practice guidelines". Then determine "Is the patient an anticoagulation candidate?"; if No, "Follow clinically and manage portal hypertension complications", and if Yes, "If individual patient benefits outweigh risks, initiate therapeutic anticoagulation; consider transplant referral". During therapy, "Repeat cross-sectional imaging every 2 to 3 months on therapy to assess for treatment response or failure".
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^83b9ef3c]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^114NHqDM]. Hepatology (2024). High credibility.
 
 Transjugular intrahepatic portosystemic shunt (TIPS) — primary prevention position: TIPS should not be used for the prevention of decompensation of cirrhosis or as primary prophylaxis for variceal hemorrhage.
 
 ---
 
-### Bleeding esophagogastric varices from extrahepatic portal hypertension: 40 years' experience with portal-systemic shunt [^adf51cbd]. Journal of the American College of Surgeons (2002). Low credibility.
+### Bleeding esophagogastric varices from extrahepatic portal hypertension: 40 years' experience with portal-systemic shunt [^115SuBvc]. Journal of the American College of Surgeons (2002). Low credibility.
 
 Background
 
@@ -464,7 +464,7 @@ PSS is the only consistently effective therapy for bleeding esophagogastric vari
 
 ---
 
-### Portal thrombosis with hemorrhagic infarction and necrosis of the liver… [^88d6375f]. JAMA Network (2025). Excellent credibility.
+### Portal thrombosis with hemorrhagic infarction and necrosis of the liver… [^114VsGbY]. JAMA Network (2025). Excellent credibility.
 
 Acute thrombosis of the portal vein is characterized clinically by the occurrence of severe abdominal pain and copious hypostatic hemorrhage from the organs whose vessels unite to form the portal vein. When such acute obstruction is complete, death results rapidly from loss of blood; but if the obstruction is only partial, ascites, enlargement of the spleen and recurrent hemorrhage develop. The condition is usually dependent on disease of the walls of the portal vein, and this may be associated with other morbid states of the liver or in the vicinity of the portal vein. The most important etiologic factor in this connection is syphilis, involving either the liver or the vein itself. Among other causative influences are cicatricial processes in the transverse fissure secondary to chronic peritonitis, compression by tumors, enlarged glands or gallstones, atheroma and sclerosis. Acute thrombosis of the portal vein does not give rise to any considerable.
 
@@ -472,31 +472,31 @@ PORTAL THROMBOSIS WITH HEMORRHAGIC INFARCTION AND NECROSIS OF THE LIVER. JAMA. 1
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^4ab2a9ae]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^112uk6VB]. Hepatology (2024). High credibility.
 
 Stage-specific management of portal hypertension — compensated cirrhosis without CSPH but with mild portal hypertension is categorized as HVPG 6–9 mm Hg.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^7fd74f66]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^114GXkNR]. Hepatology (2024). High credibility.
 
 AASLD portal hypertension — natural history and surveillance intervals in compensated cirrhosis: In the absence of imaging surrogates of CSPH and when TE is not available, patients with cACLD should undergo surveillance endoscopy. In compensated patients, the prevalence of varices at baseline endoscopy was approximately 25%; among those without varices, new varices were detected at approximately 4.4–5% per year, conversion from small to medium or large occurred within 1–2 years in 10–20% of individuals, and annual incident bleeding within 1 year occurred in approximately 15% of cases with large varices; the natural history is significantly impacted by ongoing liver injury, in particular continued alcohol use. Based on this, consensus guidelines recommend that patients with cACLD without varices who have ongoing liver injury should have endoscopy repeated every 2 years, and those without varices with quiescent liver injury should undergo variceal surveillance every 3 years; emerging data suggest that particularly post-SVR, surveillance may be discontinued after the first surveillance endoscopy shows no varices.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^2ac2db10]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^1126Pvw1]. Hepatology (2017). Medium credibility.
 
 Primary prophylaxis of variceal hemorrhage — high-risk groups — is indicated for patients at a high risk of bleeding and includes patients with medium/large varices, patients with small varices with red wale signs, and decompensated patients with small varices.
 
 ---
 
-### Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the north American society for pediatric gastroenterology, hepatology and nutrition [^f6481a2e]. Hepatology (2014). Medium credibility.
+### Evaluation of the pediatric patient for liver transplantation: 2014 practice guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the north American society for pediatric gastroenterology, hepatology and nutrition [^117J8AzR]. Hepatology (2014). Medium credibility.
 
 Noncirrhotic portal hypertension (NCPH) — classification, presentation, and management options: NCPH is often classified based on the level of the vascular obstruction into suprahepatic, intrahepatic, or prehepatic, and is the result of an obliterative vasculopathy resulting from a variety of insults such as infections, drugs or toxins, immune disorders, or thrombophilic states; patients of all age groups will typically present with gastrointestinal hemorrhage and splenomegaly, and less commonly with hepatic synthetic failure. Endoscopic control of variceal hemorrhage, transjugular intrahepatic portosystemic shunts (TIPS), or surgical shunts are usually available as options in the management of patients with NCPH, and the meso-Rex bypass is an excellent option if the child has an accessible intrahepatic left portal vein. Increasingly, hepatopulmonary syndrome (HPS) is recognized as a complication of NCPH, and if HPS is present prior to initiating a management strategy for portal hypertension associated with NCPH, the clinical features of HPS may worsen.
 
 ---
 
-### Percutaneous transhepatic treatment of a unique portal vein malformation with portal hypertension in a pediatric patient [^7d6b364a]. CVIR Endovascular (2021). Medium credibility.
+### Percutaneous transhepatic treatment of a unique portal vein malformation with portal hypertension in a pediatric patient [^114CwTtM]. CVIR Endovascular (2021). Medium credibility.
 
 Case presentation
 
@@ -508,25 +508,25 @@ Based on these findings and no liver disease history, abdominal Computed Tomogra
 
 ---
 
-### A case of extrahepatic portal hypertension [^0c240372]. Pediatric Emergency Care (2006). Low credibility.
+### A case of extrahepatic portal hypertension [^111Jzwys]. Pediatric Emergency Care (2006). Low credibility.
 
 Bleeding from the proximal part of the gastrointestinal (GI) tract is not uncommon in children. Children could present with anemia secondary to chronic occult bleeding in the gastrointestinal tract or as anemia secondary to acute exsanguinations and can present in hypovolemic shock. There are various causes of upper GI bleeding in children. A systematic approach in evaluating these children is essential so that the diagnosis is made in timely manner and appropriate management is begun early.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^0ac257d1]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^111Gx9vg]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, ASGE 2014 guidelines recommend to consider performing gastric variceal obturation with a cyanoacrylate-based compound for the treatment of acute gastric variceal hemorrhage at centers familiar with this technique. Otherwise, consider performing endoscopic variceal ligation.
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^a94929d0]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^115KyUxo]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding diagnostic investigations for extrahepatic portal vein obstruction, more specifically with respect to diagnostic imaging, EASL 2016 guidelines recommend to obtain Doppler ultrasound as first line investigation for the diagnosis of extrahepatic portal vein obstruction. Obtain CT for diagnostic confirmation and extension assessment.
 
 ---
 
-### Portal hypertension in children: high-risk varices, primary prophylaxis and consequences of bleeding [^a0b83f6e]. Journal of Hepatology (2017). Low credibility.
+### Portal hypertension in children: high-risk varices, primary prophylaxis and consequences of bleeding [^1157GuXT]. Journal of Hepatology (2017). Low credibility.
 
 Background & Aims
 
@@ -550,19 +550,19 @@ In children with liver disease, the risk of bleeding from varices in the esophag
 
 ---
 
-### Primary prophylaxis of variceal hemorrhage in children with portal hypertension: a framework for future research [^6ca75e8b]. Journal of Pediatric Gastroenterology and Nutrition (2011). Low credibility.
+### Primary prophylaxis of variceal hemorrhage in children with portal hypertension: a framework for future research [^113n5t42]. Journal of Pediatric Gastroenterology and Nutrition (2011). Low credibility.
 
 Nonselective β-blocker therapy and endoscopic variceal ligation reduce the incidence of variceal hemorrhage in cirrhotic adults, but their use in children is controversial. There are no evidence-based recommendations for the prophylactic management of children at risk of variceal hemorrhage due to the lack of appropriate randomized controlled trials. In a recent gathering of experts at the American Association for the Study of Liver Diseases annual meeting, significant challenges were identified in attempting to design and implement a clinical trial of primary prophylaxis in children using either of these therapies. These challenges render such a trial unfeasible, primarily due to the large sample size required, inadequate knowledge of appropriate dosing of β-blockers, and difficulty in recruiting to a trial of endoscopic variceal ligation. Pediatric research should focus on addressing questions of natural history and diagnosis of varices, prediction of variceal bleeding, optimal approaches to β-blocker and ligation therapy, and alternative study designs to explore therapeutic efficacy in children.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^a2f944b3]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115Acinv]. Hepatology (2017). Medium credibility.
 
 Portal hypertensive bleeding — surveillance and monitoring advises that patients with CC without varices or with small varices who develop decompensation should have a repeat endoscopy when this occurs, and that monitoring changes in HVPG should not be performed routinely (outside clinical trials); noninvasive tests do not correlate well with changes in HVPG.
 
 ---
 
-### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^0471522b]. World Journal of Emergency Surgery (2008). Low credibility.
+### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^1117b1oG]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Background
 
@@ -575,7 +575,7 @@ We describe a case of severe recurrent hemorrhage from esophageal varices in a p
 
 ---
 
-### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^4df8407d]. World Journal of Emergency Surgery (2008). Low credibility.
+### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^112zbS36]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Although Japanese investigators have suggested that patients with portal thrombosis should undergo esophageal devascularization according to Sugiura a US experience reports a percentage of postoperative recurrent bleeding ranging from 35 to 50%.
 
@@ -583,49 +583,49 @@ Our patient's continued bleeding and the unsuccessful sclerotherapy necessitated
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^24ea7993]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^111wjK5t]. Hepatology (2024). High credibility.
 
 Indicators of complete disease resolution in cirrhosis-related portal hypertension: Example features listed include LSM < 12 kPa and platelet > 150 K/mm³ as markers of complete disease resolution context.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^fdd510ba]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^117VKS9P]. Hepatology (2024). High credibility.
 
 Clinical staging and prognosis in cirrhosis — Cirrhosis presents as compensated or decompensated; decompensation is defined by clinically overt ascites, variceal hemorrhage or overt hepatic encephalopathy, and while median survival in compensated patients exceeds 12 years, once a decompensating event occurs median survival decreases to less than 1.5 years, with successive complications denoted as "further decompensation".
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^ff478eff]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^117XTswC]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding medical management for idiopathic noncirrhotic portal hypertension, more specifically with respect to management of portal hypertension, EASL 2016 guidelines recommend to manage portal hypertension according to guidelines elaborated for patients with cirrhosis.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^b2af628d]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^115ZuhwJ]. Hepatology (2024). High credibility.
 
 Gastric and ectopic varices with isolated splenic vein thrombosis — management of left‑sided portal hypertension: In cases due to isolated splenic vein thrombosis, splenectomy, splenic vein stenting, and splenic artery embolization should be considered.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^db1c21f5]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^116bqjnU]. Hepatology (2017). Medium credibility.
 
 Portal hypertensive bleeding in cirrhosis — AASLD practice guidance purpose and scope — provides a data-supported approach for risk stratification, diagnosis, and management in cirrhosis and portal hypertension (PH), clarifying that a guidance document is different from a guideline and that "guidance statements, not recommendations, are put forward to help clinicians understand and implement the most recent evidence". The focus is on PH, varices, and variceal hemorrhage (VH), with statements based on "review of the recent literature using PubMed, giving more weight to large, well-designed, prospective trials and well-performed meta-analyses" and on "the authors' years of experience caring for patients with cirrhosis and varices". Management of ascites and encephalopathy is addressed in other documents.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^6a175efe]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^113iHYBF]. Hepatology (2024). High credibility.
 
 Endoscopic variceal ligation (EVL) — primary prophylaxis scheduling and surveillance: If EVL is selected for primary prophylaxis of high-risk varices, EVL should be repeated until eradication, with trial intervals ranging from 1 to 8 weeks; based on limited data, an interval of 2–4 weeks is recommended, favoring 4 weeks to allow banding ulcers to heal, and after eradication, periodic endoscopy should be considered every 6–12 months; guidance further specifies band ligation every 2–4 weeks until obliteration, then endoscopy at 6 months and then every 12 months for recurrence assessment.
 
 ---
 
-### Diagnosis and treatment of portal hypertension [^122ef9af]. Digestive and Liver Disease (2004). Low credibility.
+### Diagnosis and treatment of portal hypertension [^111TxZE6]. Digestive and Liver Disease (2004). Low credibility.
 
 Prevention of the first variceal haemorrhage should start when the patients have developed medium-sized to large varices. Non-selective beta-blockers and band ligation are equally effective in preventing the first bleeding episode. Rubber band ligation is the first choice for patients with contraindications or intolerance to beta-blockers. Treatment of acute bleeding should aim at controlling bleeding and preventing early rebleeding and complications, especially infections. Combined endoscopic (band ligation or sclerotherapy) and pharmacological treatment with vasoactive drugs can control bleeding in up to 90% of patients. Antibiotic prophylaxis is an integral part of the treatment of acute variceal haemorrhage, and must be started as soon as possible. Emergency transjugular intrahepatic portosystemic stent shunt (TIPS) is the standard rescue therapy for patients failing combined endoscopic and pharmacological treatment. All patients who survive a variceal bleed should be treated with beta-blockers or band ligation to prevent rebleeding. All patients in whom bleeding cannot be controlled or who continue to rebleed can be treated with salvage TIPS or, in selected cases, with surgical shunts. Liver transplantation should be considered for patients with severe liver insufficiency in which first-line treatments fail.
 
 ---
 
-### Sclerotherapy versus sham or no intervention for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^95906b97]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Sclerotherapy versus sham or no intervention for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^114pjfXL]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -657,7 +657,7 @@ The evidence, obtained from one randomised clinical trial at high risk of bias, 
 
 ---
 
-### Value of preoperative computed tomography for meso-rex bypass in children with extrahepatic portal vein obstruction [^a62c67f8]. Insights Into Imaging (2021). Medium credibility.
+### Value of preoperative computed tomography for meso-rex bypass in children with extrahepatic portal vein obstruction [^115FMrt7]. Insights Into Imaging (2021). Medium credibility.
 
 Methods
 
@@ -669,19 +669,19 @@ The clinical data included the age at surgery, sex, disease course, symptoms, as
 
 ---
 
-### Considerations in the development of the international multicenter pediatric portal hypertension registry [^6db344f7]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
+### Considerations in the development of the international multicenter pediatric portal hypertension registry [^113odsAe]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
 
 Portal hypertension, a common sequela of chronic liver disease, is complicated by variceal hemorrhage, one of its most serious complications. Evidence-based approaches to managing variceal hemorrhage are limited by the scarcity of data related to this rare entity. Multicenter international registries are increasingly utilized to garner critical information about rare diseases. The International Multicenter Pediatric Portal Hypertension Registry (IMPPHR) was developed to acquire pediatric data about the mortality of first variceal hemorrhage and approaches to primary and second prophylaxis of variceal hemorrhage with a goal of improving outcomes in children with portal hypertension. IMPPHR evolved from pediatric portal hypertension symposia at the Baveno V and VI meetings in 2010 and 2015, with a formal executive committee initiating the development of IMPPHR in 2019. The registry opened in 2020, with data closure in 2024, including information from 44 centers and > 700 subjects. The complexities and approaches to developing IMPPHR are described.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^fd3c631b]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^117US9jY]. Hepatology (2017). Medium credibility.
 
 Prevention of rebleeding after first variceal hemorrhage while on primary prophylaxis — Patients failing primary prophylaxis for variceal hemorrhage may be treated with the combination of nonselective beta-blockers and endoscopic variceal ligation or, alternatively, with transjugular intrahepatic portosystemic shunt, and randomized trials are required in this group of patients to clarify the best therapeutic strategy.
 
 ---
 
-### Percutaneous transhepatic treatment of a unique portal vein malformation with portal hypertension in a pediatric patient [^4e7ac94c]. CVIR Endovascular (2021). Medium credibility.
+### Percutaneous transhepatic treatment of a unique portal vein malformation with portal hypertension in a pediatric patient [^1131MH3y]. CVIR Endovascular (2021). Medium credibility.
 
 Background
 
@@ -697,7 +697,7 @@ Prompt non-invasive imaging characterization allowed to understand the singular 
 
 ---
 
-### Band ligation versus sclerotherapy for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^d08a5094]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Band ligation versus sclerotherapy for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^116LAtCs]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -729,37 +729,37 @@ Randomised clinical trials assessing the benefits or harms of band ligation vers
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^a8f2310b]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115KUGci]. Hepatology (2017). Medium credibility.
 
 Gastric varices — risk factors and imaging considerations: The main factors associated with a higher risk of bleeding are localization (IGV1 > GOV2 > GOV1), large size, presence of red spots, and severity of liver dysfunction, and cardiofundal varices are much more frequent in patients with portal vein and/or splenic vein thrombosis, so the finding of these varices should prompt imaging to investigate the presence of such thromboses; in patients with bleeding cardiofundal varices, cross-sectional vascular imaging is preferred given that it would investigate both thrombosis and the presence of gastro- or splenorenal collaterals and would guide management accordingly.
 
 ---
 
-### ACG clinical guideline: liver disease and pregnancy [^d2f6e8ce]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: liver disease and pregnancy [^116PmLN1]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 Regarding specific circumstances for portal hypertension, more specifically with respect to pregnant patients, ACG 2016 guidelines recommend to initiate treatment with β-blockers and/or offer band ligation in pregnant patients with large esophageal varices.
 
 ---
 
-### Complications of portal hypertension in adults: a French consensus [^1b675807]. European Journal of Gastroenterology & Hepatology (2005). Low credibility.
+### Complications of portal hypertension in adults: a French consensus [^111hdNuk]. European Journal of Gastroenterology & Hepatology (2005). Low credibility.
 
 Portal hypertension is responsible for different severe complications such as variceal bleeding, ascites and pulmonary disorders. Different pharmacological and endoscopic treatments have been proposed but some recommendations may differ. The conclusions of a French consensus conference on the prevention and treatments of the main complications of portal hypertension in adults are reported.
 
 ---
 
-### AGA clinical practice update on management of bleeding gastric varices: expert review [^0c9e443b]. Clinical Gastroenterology and Hepatology (2021). High credibility.
+### AGA clinical practice update on management of bleeding gastric varices: expert review [^111Ki1fQ]. Clinical Gastroenterology and Hepatology (2021). High credibility.
 
 Gastric varices (GV) epidemiology and bleeding risk in portal hypertension (pHTN) show that the prevalence of GV is estimated between 17% and 25% in patients with pHTN, whereas esophageal varices (EV) are present in up to 65%. GV bleeding is often more severe, with an incidence of 16%–45% at 3 years and associated with higher mortality, and similar rates of bleeding and mortality from GV are reported for patients with noncirrhotic compared with cirrhotic pHTN.
 
 ---
 
-### Baveno VII-renewing consensus in portal hypertension [^086cccb4]. Journal of Hepatology (2022). High credibility.
+### Baveno VII-renewing consensus in portal hypertension [^111DVSqq]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to HVPG measurement (considerations in various etiologies), Baveno VII 2022 guidelines recommend to rule out porto-sinusoidal vascular disorder in patients with chronic liver disease and clinical signs of portal hypertension (gastroesophageal varices, ascites, portosystemic collateral vessels) but with hepatic venous pressure gradient < 10 mmHg.
 
 ---
 
-### Percutaneous recanalization of non-cirrhotic extrahepatic portal vein obstruction in children: technical considerations in a preliminary cohort [^73ff48d3]. European Radiology (2025). Medium credibility.
+### Percutaneous recanalization of non-cirrhotic extrahepatic portal vein obstruction in children: technical considerations in a preliminary cohort [^113xyKkW]. European Radiology (2025). Medium credibility.
 
 Introduction
 
@@ -767,7 +767,7 @@ Non-cirrhotic extrahepatic portal vein obstruction (EHPVO) resulting from portal
 
 ---
 
-### Sclerotherapy versus β-blockers for primary prophylaxis of oesophageal variceal bleeding in children and adolescents with chronic liver disease or portal vein thrombosis [^11a337b5]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Sclerotherapy versus β-blockers for primary prophylaxis of oesophageal variceal bleeding in children and adolescents with chronic liver disease or portal vein thrombosis [^111T9cXW]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -799,13 +799,13 @@ Randomised clinical trials assessing the benefits or harms of sclerotherapy vers
 
 ---
 
-### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^126af471]. Endoscopy (2022). High credibility.
+### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^111UJhip]. Endoscopy (2022). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, blood product transfusion, ESGE 2022 guidelines recommend to use a restrictive RBC transfusion strategy, with a hemoglobin threshold of ≤ 70 g/L prompting RBC transfusion in hemodynamically stable patients with acute upper gastrointestinal hemorrhage and no history of CVD. Set a post-transfusion target hemoglobin of 70–90 g/L.
 
 ---
 
-### Large left varicocele in a patient with portal hypertension treated via transjugular intrahepatic portosystemic shunt placement and both variceal and varicocele embolization [^417ccbb5]. BMC Urology (2023). Medium credibility.
+### Large left varicocele in a patient with portal hypertension treated via transjugular intrahepatic portosystemic shunt placement and both variceal and varicocele embolization [^112g67Xz]. BMC Urology (2023). Medium credibility.
 
 Conclusion
 
@@ -813,7 +813,7 @@ In patients presenting with a varicocele with a history of cirrhosis/portal hype
 
 ---
 
-### Percutaneous management of chronic total occlusion of the portal vein: a retrospective analysis of technical aspects and outcomes [^998025f1]. CVIR Endovascular (2024). Medium credibility.
+### Percutaneous management of chronic total occlusion of the portal vein: a retrospective analysis of technical aspects and outcomes [^114va9eQ]. CVIR Endovascular (2024). Medium credibility.
 
 Fig. 2
 Portal vein CTO in a 16-year-old boy with a history of portal hypertension 15 years after liver transplantation (whole graft) for Alagille syndrome. a Portal phase coronal CT image shows the complete portal vein thrombosis involving the portal extrahepatic trunk with cavernous transformation (arrow). b Anteroposterior view of a percutaneous transhepatic portography image shows a regular representation of the intrahepatic portal branches. Complete occlusion of the extrahepatic portal vein at the hepatic hilum (arrow) is demonstrated. c Portography image shows the opacification of a very tiny vascular structure (arrow) which represents the main portal vein fibrotic vestige. d Inferior mesenteric portography image obtained through a 5Fr catheter which was advanced across the obstructed tract confirms the total occlusion of the main portal vein, with opacification of enlarged porto-mesenteric varices (black arrow) and portal cavernoma (white arrow). e Fluoroscopic image shows angioplasty of the main portal vein, performed through a 12-mm non-compliant balloon catheter. The focal notch (arrow) represents the tight anastomotic stenosis that probably led to secondary thrombosis. f Control portography shows a re-expanded extrahepatic portal vein (arrow) with normal opacification of intrahepatic portal branches. g Color-Doppler Ultrasound follow-up image shows regular hepatopetal flow of the main portal vein
@@ -822,13 +822,13 @@ Additional extrahepatic portal vein stents were deployed in 8 patients: in patie
 
 ---
 
-### Vascular liver disorders, portal vein thrombosis, and procedural bleeding in patients with liver disease: 2020 practice guidance by the American Association for the Study of Liver Diseases [^5c6f87fd]. Hepatology (2021). High credibility.
+### Vascular liver disorders, portal vein thrombosis, and procedural bleeding in patients with liver disease: 2020 practice guidance by the American Association for the Study of Liver Diseases [^113N3KjJ]. Hepatology (2021). High credibility.
 
 Guidance statements — pediatric vascular liver disease recommend that in children with congenital or acquired vascular diseases of the liver, early referral to centers with expertise in pediatric liver disease, hepatobiliary surgery, and liver transplantation (LT) is recommended, and that in children with extrahepatic portal vein obstruction (EHPVO), evaluation for early intervention in the presymptomatic stage is recommended at a center with expertise in treating this disorder.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^a1f49f82]. Gut (2015). Low credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^11597B1j]. Gut (2015). Low credibility.
 
 Recommendations: management of active haemorrhage from gastric varices (Figure 3)
 What is the optimal management of bleeding gastro-oesophageal varices? Gastro-oesophageal varices (GOV)-1: treat as for oesophageal varices (level 2b, grade B). GOV-2 and isolated gastric varices (IGV): We recommend initial endoscopic therapy with cyanoacrylate injection (level 1a, grade A). Thrombin may also be considered (level 4, grade C). TIPSS can be considered, depending on local resources and clinical judgement (level 3a, grade B).
@@ -839,37 +839,37 @@ Areas requiring further study: Role of thrombin in gastric varices, comparing th
 
 ---
 
-### APASL clinical practice guidance: the diagnosis and management of patients with primary biliary cholangitis [^fe144fe7]. Hepatology International (2022). High credibility.
+### APASL clinical practice guidance: the diagnosis and management of patients with primary biliary cholangitis [^117VggHt]. Hepatology International (2022). High credibility.
 
 APASL PBC guidance — Portal hypertension screening and prophylaxis: A screening esophagogastroduodenoscopy (EGD) should be performed in patients with cirrhotic features at the time of the diagnosis, and patients with features of portal hypertension (ie. splenomegaly, thrombocytopenia) should be screened for gastroesophageal varices (II, 2). The Baveno-VI criteria (LSM by TE < 20 kPa and platelet count > 150×10⁹/L) can identify patients who may not need screening EGD, with one study showing this strategy could avoid 39% of screening EGD with a false negative rate of 0%. Nonselective beta-blockers and/or endoscopic band ligation is indicated for large esophageal varices or variceal hemorrhage.
 
 ---
 
-### Baveno VII-renewing consensus in portal hypertension [^ab5160f9]. Journal of Hepatology (2022). High credibility.
+### Baveno VII-renewing consensus in portal hypertension [^115NzDaQ]. Journal of Hepatology (2022). High credibility.
 
 Regarding diagnostic investigations for portal hypertension, more specifically with respect to HVPG measurement (technical considerations), Baveno VII 2022 guidelines recommend to rule out the presence of a hepatic vein outflow obstruction by injecting a small amount of contrast medium if free hepatic vein pressure is > 2 mmHg above IVC pressures.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^c2e374b6]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115yvzsP]. Hepatology (2017). Medium credibility.
 
 Cirrhosis — noninvasive triage for screening endoscopy: Patients with an LS < 20 kPa and platelet count > 150,000/mm³ have a very low probability (< 5%) of having high-risk varices, and EGD can be circumvented, whereas in patients who do not meet these criteria, screening endoscopy for the diagnosis of GEV is recommended when the diagnosis of cirrhosis is made.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^f8e5b0df]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^117N15dQ]. Hepatology (2017). Medium credibility.
 
 Balloon-occluded retrograde transvenous obliteration (BRTO) for fundal varices — procedure features and hemodynamic considerations — are summarized as follows: "BRTO is a procedure for treatment of fundal varices associated with a large gastro-/splenorenal collateral", and the technique "involves retrograde cannulation of the left renal vein by the jugular or femoral vein, followed by balloon occlusion and slow infusion of sclerosant to obliterate the gastro-/splenorenal collateral and fundal varices", with variations such as balloon-occluded antegrade transvenous obliteration or coil occlusion. It has the theoretical advantage over TIPS that "it does not divert portal blood inflow from the liver", but BRTO and its variations "might increase portal pressure and might worsen complications, such as ascites or bleeding from EV", so "some centers will measure portal pressure and place a TIPS in cases in which the HVPG exceeds 12 mm Hg post-BRTO". "No randomized trials have compared BRTO with other therapies".
 
 ---
 
-### Endovascular management of bleeding ectopic varices [^a116f54e]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
+### Endovascular management of bleeding ectopic varices [^1157pidj]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
 
 Ectopic varices are dilated nongastroesophageal mesoportal veins that occur due to hepatic portal hypertension, portomesenteric occlusion, or prior abdominal surgeries, with less common causes including congenital conditions. These varices can occur in various locations, including the duodenum, jejunum, large bowel, and biliary system, and can lead to clinically significant gastrointestinal hemorrhages warranting intervention. An understanding of ectopic variceal anatomy and the etiology of variceal bleeding is imperative to optimal treatment. Despite a lack of standardized treatment guidelines, endovascular management remains vital for controlling bleeding and improving patient outcomes.
 
 ---
 
-### Band ligation versus β-blockers for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^1c967973]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Band ligation versus β-blockers for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis [^111jPCNN]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -901,7 +901,7 @@ Randomised clinical trials assessing the benefits or harms of band ligation vers
 
 ---
 
-### Impact of timing of endoscopy on clinical outcomes in cirrhotic patients with esophageal variceal bleeding: a monocentric retrospective study from Vietnam [^bc1be903]. BMC Gastroenterology (2025). Medium credibility.
+### Impact of timing of endoscopy on clinical outcomes in cirrhotic patients with esophageal variceal bleeding: a monocentric retrospective study from Vietnam [^115ot3iS]. BMC Gastroenterology (2025). Medium credibility.
 
 Introduction
 
@@ -911,7 +911,7 @@ It is undeniable that endoscopic variceal ligation (EVL) is the mainstay treatme
 
 ---
 
-### Transjugular intrahepatic portosystemic stent-shunt in the management of portal hypertension [^0bfe3d25]. Gut (2020). Medium credibility.
+### Transjugular intrahepatic portosystemic stent-shunt in the management of portal hypertension [^111JnG5A]. Gut (2020). Medium credibility.
 
 Recommendations: TIPSS in portal vein thrombosis
 
@@ -921,7 +921,7 @@ Cirrhotic patients with PVT and variceal bleeding should be discussed with exper
 
 ---
 
-### Endoscopic variceal ligation in children with extrahepatic portal vein thrombosis: long-term follow up of 2 cases [^69d45032]. Annals of Gastroenterology (2015). Low credibility.
+### Endoscopic variceal ligation in children with extrahepatic portal vein thrombosis: long-term follow up of 2 cases [^113hu1nZ]. Annals of Gastroenterology (2015). Low credibility.
 
 The second case is a 6-year-old boy presented at our emergency department with hematemesis and hypovolemic shock. On clinical examination the child's spleen was palpable 3 cm below the left costal margin. After resuscitation, the patient underwent an upper GI endoscopy revealing grade II gastroesophageal varices. PVT was confirmed by MRV, with normal blood clotting tests. The patient underwent 3 successive EVL sessions until variceal obliteration was achieved. In ultrasonography 7 years later the liver appeared cirrhotic. The liver synthetic function has been well preserved and the endoscopy of the gastroesophageal junction revealed normal findings during the follow up.
 
@@ -931,7 +931,7 @@ In conclusion, our two cases indicate that EVL for primary or secondary prophyla
 
 ---
 
-### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^471d73f7]. Pediatric Radiology (2025). Medium credibility.
+### Non-anatomical revascularization of the portal vein in children with non-cirrhotic extrahepatic portal vein obstruction [^112pS1oL]. Pediatric Radiology (2025). Medium credibility.
 
 Discussion
 
@@ -941,31 +941,31 @@ We described two innovative techniques for portal vein recanalization which allo
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^f67801e5]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^117JQGFv]. Hepatology (2017). Medium credibility.
 
 Endoscopic variceal ligation (EVL) — advantages, limitations, and surveillance — can theoretically be done in the same session as screening endoscopy and has few contraindications, but carries risks related to sedation and risks of dysphagia, esophageal ulcerations, strictures, and bleeding; although overall side effects are more frequent with NSBBs, the number of severe side effects is greater with EVL, and because EVL is a local therapy, after eradication surveillance endoscopies are necessary to detect variceal recurrence, which approaches 90%; physician practice patterns may influence choice, with gastroenterologists who spent at least half their time performing endoscopy more likely to choose EVL.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^d993a2fe]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^116ZZuM7]. Hepatology (2024). High credibility.
 
 AASLD portal hypertension — management of compensated cirrhosis with a contraindication to or intolerance of beta-blockers: Patients with compensated cirrhosis who have contraindication for beta-blockers or who do not tolerate beta-blockers have at present no further therapeutic options to avoid clinical decompensation other than control of the underlying disease. Although a possible benefit of statins to prevent decompensation in this setting is pathophysiologically plausible and retrospective studies suggest that statins reduce the incidence of decompensation, there are insufficient data to recommend its routine use. Patients with a standard indication for statin therapy should continue treatment, and statins should not be discouraged when indicated. In patient with cACLD with CSPH for whom beta-blockers cannot be safely administered, endoscopic surveillance should be initiated with an intent to prevent first variceal hemorrhage (primary prophylaxis) through prophylactic endoscopic band ligation of high-risk varices. Performance of an endoscopy every 2 years is recommended; however, if cause of the liver disease is under control (alcohol abstinence, weight control, viral suppression or elimination, etc.), endoscopic surveillance may be done every 3 years. In some cases, cessation of surveillance may be considered after negative serial endoscopic assessments.
 
 ---
 
-### Cystic fibrosis screening, evaluation, and management of hepatobiliary disease consensus recommendations [^ed83b154]. Hepatology (2024). High credibility.
+### Cystic fibrosis screening, evaluation, and management of hepatobiliary disease consensus recommendations [^11758JNP]. Hepatology (2024). High credibility.
 
 Portal hypertension and varices in cystic fibrosis–associated liver disease: The CFF cannot recommend for or against the use of nonselective beta-blocker treatment for the prevention or treatment of variceal bleeding in PwCF and advanced liver disease with portal hypertension due to insufficient evidence, whereas in adults with portal hypertension and gastro-esophageal varices, nonselective beta-blocker treatment is recommended for both primary and secondary prophylaxis of variceal bleeding; randomized clinical trials for primary prophylaxis are lacking for children with chronic liver disease and in children or adults with aCFLD, and although nonselective beta-blockers may have potential adverse pulmonary effects, no studies assessing the worsening of CF lung disease were identified.
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^25aa5263]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^111xqkZg]. Hepatology (2024). High credibility.
 
 Gastric and ectopic varices — classification, prevalence, and bleeding risk are outlined as follows: Gastric varices (GV) are commonly classified as varices along the lesser curvature (GOV1) or greater curvature (GOV2) and isolated GV in the fundus (IGV1) or other gastric areas (IGV2). Varices along the lesser curvature (GOV1) share a natural history and can be treated comparably with esophageal varices, whereas varices along the greater curvature (GOV2) and in the fundus (IGV1) are referred to as cardiofundal or gastric fundal varices and have a different natural history than esophageal varices, with bleeding cardiofundal varices associated with higher rates of treatment failure, rebleeding, and mortality. The prevalence of GV ranges between 17% and 25% among patients with cirrhosis that have not bled, and GV are more common among patients with prehepatic portal hypertension, particularly in those with splenic vein thrombosis causing left-sided or sinistral portal hypertension, than among those with sinusoidal portal hypertension. When GV are identified, contrast-enhanced cross-sectional imaging should be performed to rule out vascular thrombosis; the presence of GV or ectopic varices indicate the presence of CSPH, and GV typically develop at lower portal pressure than esophageal varices. The incidence of bleeding from cardiofundal varices is reported around 16% and 45% at 3 years.
 
 ---
 
-### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^a6a18386]. World Journal of Emergency Surgery (2008). Low credibility.
+### Severe bleeding from esophageal varices resistant to endoscopic treatment in a non cirrhotic patient with portal hypertension [^115G3CKf]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Case presentation
 

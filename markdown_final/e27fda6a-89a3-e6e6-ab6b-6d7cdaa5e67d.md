@@ -15,21 +15,21 @@ What condition is represented by ICD-10 code F50.2?
 
 > Let's see… What do we have here? The user is asking what condition is represented by ICD-10 code F50.2. Let's break this down step-by-step. First, I need to think about the ICD-10 category structure to confirm where F50.2 sits. Then, I should verify the exact diagnostic label assigned to F50.2. Next, I will review how F50.2 is used in epidemiologic and clinical studies to ensure consistency. Finally, I will consider related codes and any nuances that might confuse F50.2 with nearby subtypes, and then synthesize a concise, accurate answer.
 
-> Let me first confirm the category. F50 falls under the Mental, Behavioral and Neurodevelopmental Disorders chapter, specifically the F50–F59 block for behavioral syndromes associated with physiological disturbances and physical factors, with F50 designated for eating disorders, so F50.2 is an eating disorder code within that block [^eb4e1b12] [^53104356].
+> Let me first confirm the category. F50 falls under the Mental, Behavioral and Neurodevelopmental Disorders chapter, specifically the F50–F59 block for behavioral syndromes associated with physiological disturbances and physical factors, with F50 designated for eating disorders, so F50.2 is an eating disorder code within that block [^1171rKr9] [^11389SDj].
 
-> Wait, let me verify the exact label for F50.2. Multiple authoritative sources consistently map F50.2 to bulimia nervosa, including nutrition practice guidance that lists F50.2 as bulimia nervosa and large epidemiologic studies that operationalize bulimia nervosa using F50.2 and its atypical variant F50.3, which aligns with standard ICD-10 usage in research and clinical settings [^53104356] [^793c7a87] [^e279564e].
+> Wait, let me verify the exact label for F50.2. Multiple authoritative sources consistently map F50.2 to bulimia nervosa, including nutrition practice guidance that lists F50.2 as bulimia nervosa and large epidemiologic studies that operationalize bulimia nervosa using F50.2 and its atypical variant F50.3, which aligns with standard ICD-10 usage in research and clinical settings [^11389SDj] [^1146jpKQ] [^116nkxXX].
 
-> Hold on, let's not jump to conclusions; I should confirm how F50.2 is used in real-world datasets. Registry-based studies frequently define bulimia nervosa using F50.2 (sometimes together with F50.3 for atypical presentations), and validation work in Danish registers supports high accuracy for F50.2-coded bulimia nervosa when compared with chart review, reinforcing that F50.2 indeed corresponds to bulimia nervosa in practice [^793c7a87] [^1c179561] [^e279564e].
+> Hold on, let's not jump to conclusions; I should confirm how F50.2 is used in real-world datasets. Registry-based studies frequently define bulimia nervosa using F50.2 (sometimes together with F50.3 for atypical presentations), and validation work in Danish registers supports high accuracy for F50.2-coded bulimia nervosa when compared with chart review, reinforcing that F50.2 indeed corresponds to bulimia nervosa in practice [^1146jpKQ] [^111ieaLQ] [^116nkxXX].
 
-> I need to check for potential confusion with nearby codes. F50.0 and F50.1 represent anorexia nervosa and atypical anorexia nervosa, respectively, whereas F50.2 is the typical bulimia nervosa diagnosis; F50.3 denotes atypical bulimia nervosa, and F50.8/F50.9 capture other specified and unspecified eating disorders, so F50.2 is distinct from anorexia and from residual eating disorder categories [^793c7a87] [^53104356].
+> I need to check for potential confusion with nearby codes. F50.0 and F50.1 represent anorexia nervosa and atypical anorexia nervosa, respectively, whereas F50.2 is the typical bulimia nervosa diagnosis; F50.3 denotes atypical bulimia nervosa, and F50.8/F50.9 capture other specified and unspecified eating disorders, so F50.2 is distinct from anorexia and from residual eating disorder categories [^1146jpKQ] [^11389SDj].
 
-> Let me reconsider whether any source contradicts this. I briefly wondered if F50.2 might be a residual or unspecified code, but that would be incorrect; F50.9 is the unspecified eating disorder code, whereas F50.2 is specifically bulimia nervosa, and that distinction is consistently maintained across coding references and research applications [^53104356] [^793c7a87].
+> Let me reconsider whether any source contradicts this. I briefly wondered if F50.2 might be a residual or unspecified code, but that would be incorrect; F50.9 is the unspecified eating disorder code, whereas F50.2 is specifically bulimia nervosa, and that distinction is consistently maintained across coding references and research applications [^11389SDj] [^1146jpKQ].
 
-> Final answer: ICD-10 code F50.2 represents bulimia nervosa [^53104356] [^793c7a87].
+> Final answer: ICD-10 code F50.2 represents bulimia nervosa [^11389SDj] [^1146jpKQ].
 
 ---
 
-ICD-10 code F50.2 denotes **bulimia nervosa** [^53104356], an eating disorder characterized by recurrent binge eating followed by compensatory behaviors (vomiting, laxatives, fasting, or excessive exercise). It is distinct from anorexia nervosa (F50.0–F50.1) and is used in clinical and research settings to identify cases for diagnosis, treatment, and epidemiology [^793c7a87] [^e279564e]. Accurate coding supports care pathways, reimbursement, and public health surveillance [^681631bc] [^439852f4].
+ICD-10 code F50.2 denotes **bulimia nervosa** [^11389SDj], an eating disorder characterized by recurrent binge eating followed by compensatory behaviors (vomiting, laxatives, fasting, or excessive exercise). It is distinct from anorexia nervosa (F50.0–F50.1) and is used in clinical and research settings to identify cases for diagnosis, treatment, and epidemiology [^1146jpKQ] [^116nkxXX]. Accurate coding supports care pathways, reimbursement, and public health surveillance [^113fKAgs] [^112jDLPm].
 
 ---
 
@@ -84,13 +84,13 @@ Bulimia nervosa is associated with significant medical and psychiatric comorbidi
 
 ## Epidemiology and prevalence
 
-Bulimia nervosa is more common in females and often begins in adolescence or early adulthood. Epidemiologic studies using ICD-10 codes report varying prevalence depending on cohort and methodology, with registry-based estimates showing stable or declining incidence in some regions and increases in others, particularly among younger females [^011a9c72] [^e279564e] [^f13738c3].
+Bulimia nervosa is more common in females and often begins in adolescence or early adulthood. Epidemiologic studies using ICD-10 codes report varying prevalence depending on cohort and methodology, with registry-based estimates showing stable or declining incidence in some regions and increases in others, particularly among younger females [^1112dvi5] [^116nkxXX] [^117AcZir].
 
 ---
 
 ## Coding accuracy and validation
 
-Validation studies show high accuracy for ICD-10 bulimia nervosa codes (F50.2, F50.3) versus chart review, supporting their use in research and surveillance [^1c179561]. However, clinicians should ensure documentation meets ICD-10 criteria to avoid misclassification [^cd4941f1].
+Validation studies show high accuracy for ICD-10 bulimia nervosa codes (F50.2, F50.3) versus chart review, supporting their use in research and surveillance [^111ieaLQ]. However, clinicians should ensure documentation meets ICD-10 criteria to avoid misclassification [^116FM4wi].
 
 ---
 
@@ -98,31 +98,31 @@ Validation studies show high accuracy for ICD-10 bulimia nervosa codes (F50.2, F
 
 ICD-10 coding for bulimia nervosa facilitates:
 
-- **Standardized diagnosis**: Enables consistent identification and treatment planning [^cd4941f1].
-- **Reimbursement**: Supports appropriate billing and coverage for evidence-based care [^cd4941f1].
-- **Public health surveillance**: Tracks prevalence, trends, and outcomes to inform policy and resource allocation [^439852f4].
+- **Standardized diagnosis**: Enables consistent identification and treatment planning [^116FM4wi].
+- **Reimbursement**: Supports appropriate billing and coverage for evidence-based care [^116FM4wi].
+- **Public health surveillance**: Tracks prevalence, trends, and outcomes to inform policy and resource allocation [^112jDLPm].
 
 ---
 
 ## Limitations and challenges
 
-Despite benefits, ICD-10 coding has limitations: clinicians may misclassify atypical presentations or comorbid conditions, and administrative data may under- or overestimate prevalence without validation [^1c179561]. Ongoing education and auditing are essential to maintain accuracy [^cd4941f1].
+Despite benefits, ICD-10 coding has limitations: clinicians may misclassify atypical presentations or comorbid conditions, and administrative data may under- or overestimate prevalence without validation [^111ieaLQ]. Ongoing education and auditing are essential to maintain accuracy [^116FM4wi].
 
 ---
 
-ICD-10 code F50.2 denotes **bulimia nervosa**, supporting accurate diagnosis, treatment, and surveillance. Clinicians should apply ICD-10 criteria carefully and document comprehensively to optimize care and data quality [^53104356].
+ICD-10 code F50.2 denotes **bulimia nervosa**, supporting accurate diagnosis, treatment, and surveillance. Clinicians should apply ICD-10 criteria carefully and document comprehensively to optimize care and data quality [^11389SDj].
 
 ---
 
 ## References
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^b7ad7b35]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^115hK1Fz]. JAMA Network Open (2020). High credibility.
 
 Key Points
 
@@ -140,31 +140,31 @@ These findings suggest that diagnostic classification systems developed with ICD
 
 ---
 
-### ICD-10: history and context [^7f4e391d]. AJNR: American Journal of Neuroradiology (2016). Low credibility.
+### ICD-10: history and context [^114FjhhW]. AJNR: American Journal of Neuroradiology (2016). Low credibility.
 
 In recent months, organized medicine has been consumed by the anticipated transition to the 10th iteration of the International Classification of Disease system. Implementation has come and gone without the disruptive effects predicted by many. Despite the fundamental role the International Classification of Disease system plays in health care delivery and payment policy, few neuroradiologists are familiar with the history of its implementation and implications beyond coding for diseases.
 
 ---
 
-### Low back pain [^48e5e007]. The Journal of Orthopaedic and Sports Physical Therapy (2012). Medium credibility.
+### Low back pain [^112s5Kcr]. The Journal of Orthopaedic and Sports Physical Therapy (2012). Medium credibility.
 
 Low back pain — ICD-10 diagnostic codes associated with low back pain are listed, including M99.0 Lumbosacral segmental/somatic dysfunction, M53.2 Spinal instabilities, M40.3 Flatback syndrome, M51.2 Other specified intervertebral disc displacement (lumbago due to displacement of intervertebral disc), M54.1 Lumbar radiculopathy (neuritis or radiculitis), M54.4 Lumbago with sciatica, G96.8 Disorder of central nervous system, specified as central nervous system sensitivity to pain, and F45.4 Persistent somatoform pain disorder.
 
 ---
 
-### International classification of disease coding for obstructive lung disease: does it reflect appropriate clinical documentation? [^3fb71031]. Chest (2010). Low credibility.
+### International classification of disease coding for obstructive lung disease: does it reflect appropriate clinical documentation? [^112dTi7a]. Chest (2010). Low credibility.
 
 International Classification of Disease coding is widely used by physicians, hospitals, health-care payers, and governments to assess the health of populations and as a means of reimbursement for medical care based on diagnosis and severity of illness. The current classification system, International Classification of Diseases, 9th ed (ICD-9), will soon be replaced by International Classification of Diseases, 10th ed (ICD-10). When the codes that relate to COPD and asthma are examined, the clinical relevance of the categories in International Classification of Disease coding must be questioned. In the future, a more simplified terminology that is consistent with clinical usage could improve accuracy and ease of coding. At present, however, clinicians should become familiar with the present ICD-9 and future ICD-10 codes so that their descriptions of illnesses in the medical records more accurately reflect current coding terminology.
 
 ---
 
-### Health policy basics: implementation of the international classification of disease, 10th revision [^489ad2ef]. Annals of Internal Medicine (2015). Low credibility.
+### Health policy basics: implementation of the international classification of disease, 10th revision [^112re7WE]. Annals of Internal Medicine (2015). Low credibility.
 
 The International Classification of Diseases (ICD) standardizes diagnostic codes into meaningful criteria to enable the storage and retrieval of information regarding patient care. Whereas other countries have been using ICD, 10th Revision (ICD-10), for years, the United States will transition from ICD, Ninth Revision, Clinical Modification (ICD-9-CM), to ICD-10, on 1 October 2015. This transition is one of the largest and most technically challenging changes that the medical community has experienced in the past several decades. This article outlines the implications of moving to ICD-10 and recommends resources to facilitate the transition.
 
 ---
 
-### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^cd4941f1]. The Journal of Arthroplasty (2016). Low credibility.
+### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^116FM4wi]. The Journal of Arthroplasty (2016). Low credibility.
 
 Background
 
@@ -184,7 +184,7 @@ Now is the time to use the ICD-10 diagnostic codes to improve the management of 
 
 ---
 
-### Comparing the ICD-11 chronic pain classification with ICD-10: how can the new coding system make chronic pain visible? A study in a tertiary care pain clinic setting [^8463e321]. Pain (2021). Medium credibility.
+### Comparing the ICD-11 chronic pain classification with ICD-10: how can the new coding system make chronic pain visible? A study in a tertiary care pain clinic setting [^114PGvAC]. Pain (2021). Medium credibility.
 
 Abstract
 
@@ -192,7 +192,7 @@ Pain is a frequent reason for patients to ask for medical services. However, sys
 
 ---
 
-### Life years lost associated with mental illness: a cohort study of beneficiaries of a South African medical insurance scheme [^5f1d41b3]. Journal of Affective Disorders (2023). Medium credibility.
+### Life years lost associated with mental illness: a cohort study of beneficiaries of a South African medical insurance scheme [^113S1ejk]. Journal of Affective Disorders (2023). Medium credibility.
 
 2.2. Procedures
 
@@ -204,7 +204,7 @@ We ascertained the vital status of beneficiaries based on mortality records from
 
 ---
 
-### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^a5ef0d27]. JAMA Network Open (2020). High credibility.
+### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^115F1FbU]. JAMA Network Open (2020). High credibility.
 
 ICD-10 Classification Process
 
@@ -212,7 +212,7 @@ We extracted all ICD-10 codes associated with the SARS-CoV-2 testing visit for e
 
 ---
 
-### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^cd2006c6]. BMC Medicine (2019). Medium credibility.
+### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^116F7DhP]. BMC Medicine (2019). Medium credibility.
 
 In developing the ICD-11 chapter on Mental, Behavioral, and Neurodevelopmental Disorders, the WHO Department of Mental Health and Substance Abuse identified clinical utility and global applicability as guiding principles. To this end, a Working Group convened by WHO reviewed the extant research base on feeding and eating disorders and proposed changes to the ICD-10 guidelines with the following aims: (a) to improve communication among users (e.g. practitioners, patients, families, administrators), (b) to foster conceptualization and understanding of feeding and eating disorders, (c) to accurately and easily describe actual clinical presentations, (d) to assist with clinical management, and (e) to enhance clinical outcomes at the individual and population levels.
 
@@ -222,13 +222,13 @@ To address the first shortcoming of the ICD-10, and consistent with the Diagnost
 
 ---
 
-### Esotropia and exotropia preferred practice pattern ® [^38cbc533]. Ophthalmology (2023). High credibility.
+### Esotropia and exotropia preferred practice pattern ® [^112TCkYi]. Ophthalmology (2023). High credibility.
 
 Esotropia ICD-10 CM codes — entities and laterality rules are specified as follows: Nonaccommodative (unspecified) H50.00; Accommodative H50.43; Alternating H50.05; Alternating with A pattern H50.06; Alternating with V pattern H50.07; Alternating with X or Y pattern (with other noncomitancies) H50.08; Monocular H50.01–; Monocular with A pattern H50.02–; Monocular with V pattern H50.03–; Monocular with X or Y pattern (with other noncomitancies) H50.04–; Intermittent, alternating H50.32; Intermittent, monocular H50.31–; Unspecified H50.00. CM = Clinical Modification used in the United States; = 1, right eye; 2, left eye. For bilateral sites, the final character of the codes indicates laterality. Esotropia and exotropia do not have bilateral codes. Therefore, if the condition is bilateral, assign separate codes for both the left and right side. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), most often you will find: Right is 1 Left is 2.
 
 ---
 
-### Validation of anorexia nervosa and bulimia nervosa diagnosis coding in Danish hospitals assisted by a natural language processing model [^1c179561]. Journal of Psychiatric Research (2024). Medium credibility.
+### Validation of anorexia nervosa and bulimia nervosa diagnosis coding in Danish hospitals assisted by a natural language processing model [^111ieaLQ]. Journal of Psychiatric Research (2024). Medium credibility.
 
 Introduction
 
@@ -252,7 +252,7 @@ We found that the accuracy of a diagnosis code F50.0, F50.1, F50.2, and F50.3 to
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^439852f4]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^112jDLPm]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -260,13 +260,13 @@ Diagnostic codes are widely used within health care in the US for reimbursement,
 
 ---
 
-### Esotropia and exotropia preferred practice pattern ® [^30383e9a]. Ophthalmology (2023). High credibility.
+### Esotropia and exotropia preferred practice pattern ® [^112EVJG1]. Ophthalmology (2023). High credibility.
 
 Exotropia ICD-10 CM classifications — the page lists specific coding categories and codes: Alternating (H50.15), Alternating with A pattern (H50.16), Alternating with specified noncomitancy not elsewhere classifiable (includes alphabetical patterns) (H50.18), Alternating with V pattern (H50.17), Monocular (H50.11–), Monocular with A pattern (H50.12–), Intermittent unspecified (H50.30), Alternating, intermittent (H50.34), Monocular, intermittent (H50.33–), and Unspecified (H50.10). The notation states "CM = Clinical Modification used in the United States; = 1, right eye; 2, left eye", and additional guidance explains that "the final character of the codes indicates laterality", that "Esotropia and exotropia do not have bilateral codes", so "if the condition is bilateral, assign separate codes for both the left and right side", and that when laterality is specified "most often you will find: Right is 1" and "Left is 2".
 
 ---
 
-### Predictors of anorexia nervosa and obsessive-compulsive disorder comorbidity and order of diagnosis in a Danish national cohort [^bf9e56ee]. The International Journal of Eating Disorders (2025). Medium credibility.
+### Predictors of anorexia nervosa and obsessive-compulsive disorder comorbidity and order of diagnosis in a Danish national cohort [^115u5pXf]. The International Journal of Eating Disorders (2025). Medium credibility.
 
 5 Strengths and Limitations
 
@@ -274,7 +274,7 @@ Using register data allows for the analysis of large sample sizes, along with co
 
 ---
 
-### The impact of gender-affirming interventions on eating disorder diagnosis risk among transgender and gender-diverse individuals [^869e0c8e]. Communications Medicine (2024). Medium credibility.
+### The impact of gender-affirming interventions on eating disorder diagnosis risk among transgender and gender-diverse individuals [^114SaRoj]. Communications Medicine (2024). Medium credibility.
 
 Study population
 
@@ -282,13 +282,13 @@ In this retrospective cohort study, we queried the database to select patients w
 
 ---
 
-### Necessity and implications of ICD-10: facts and fallacies [^9d2fadcf]. Pain Physician (2011). Low credibility.
+### Necessity and implications of ICD-10: facts and fallacies [^11523574]. Pain Physician (2011). Low credibility.
 
 The International Classification of Diseases-10 (ICD-10 is a new system that is expected to be implemented effective on October 1, 2013. This new system is a federally mandated change affecting all payers and providers, and is expected to exceed both the Health Insurance Portability and Accountability Act (HIPAA) and Y2K in terms of costs and risks. However, the Administration is poised to implement these changes at a rapid pace which could be problematic for health care in the United States. In 2003, HIPAA named ICD-9 as the code set for supporting diagnoses and procedures in electronic administrative transactions. However, on January 16, 2009, the Department of Health and Human Services (HHS) published a regulation requiring the replacement of ICD-9 with ICD-10 as of October 1, 2013. While ICD-9 and 10 have a similar type of hierarchy in their structures, the ICD-10 is more complex and incorporates numerous changes. Overall, ICD-10 contains over 141,000 codes, a whopping 712% increase over the less than 20,000 codes in ICD-9, creating enormous complexities, confusion, and expense. Multiple published statistics illustrate that there are approximately 119 instances where a single ICD-9 code can map to more than 100 distinct ICD-10 codes, whereas there are 255 instances where a single ICD-9 code can map to more than 50 ICD-10 codes. To add to the confusion, there are 3,684 instances in the mapping for diseases where a single ICD-10 code can map to more than one ICD-9 code. Proponents of the new ICD-10 system argue that the granularity should lead to improvements in the quality of health care, since more precise coding that more accurately reflects actual patient conditions will permit smarter and more effective disease management in pay-for-performance programs. This, in essence, encapsulates the benefits that supporters of this new system believe will be realized, even though many of these experts may not be involved in actual day-to-day medical practices. Detractors of the system see the same granularity as burdensome. The estimated cost per physician is projected to range from $25,000 to $50,000. Further, they argue that the ICD-10 classification is extremely complicated, and expensive. Concerns exist that it is being implemented without establishing either the necessity or thinking through the unintended consequences. Opponents also argue that beyond financial expense, it is also costly in terms of human toll, hardware and software expenses and has the potential to delay reimbursement. There is also concern that an unintended consequence of granularity would be the potential for enhanced and unnecessary fraud and abuse investigations. The authors of this article favor postponing the implementation of the ICD-10 until such time as its necessity is proven and implications are understood.
 
 ---
 
-### Association of etiological factors across the extreme end and continuous variation in disordered eating in female Swedish twins [^793c7a87]. Psychological Medicine (2021). Medium credibility.
+### Association of etiological factors across the extreme end and continuous variation in disordered eating in female Swedish twins [^1146jpKQ]. Psychological Medicine (2021). Medium credibility.
 
 ED diagnoses (categorical measurement)
 
@@ -296,13 +296,13 @@ ED diagnoses were identified from three sources. First, we used lifetime diagnos
 
 ---
 
-### Physical therapy evaluation and treatment after concussion / mild traumatic brain injury [^02378fed]. The Journal of Orthopaedic and Sports Physical Therapy (2020). High credibility.
+### Physical therapy evaluation and treatment after concussion / mild traumatic brain injury [^1114He1A]. The Journal of Orthopaedic and Sports Physical Therapy (2020). High credibility.
 
 Concussion classification and ICD-10 coding — The primary International Classification of Diseases, 10th revision (ICD-10) code associated with concussion is S06.0 Concussion, and additional brain-injury codes include S06.9X Unspecified intracranial injury, S06.2X Diffuse traumatic brain injury, and F07.81 Postconcussional syndrome; Table 1 lists ICD-10 Codes Related to Physical Impairments Associated With Concussive Events, with examples such as H81.1 Benign positional vertigo, M54.2 Cervicalgia, R42 Dizziness and giddiness, and R51 Headaches.
 
 ---
 
-### Development of a customised programme to standardise comorbidity diagnosis codes in a large-scale database [^7b265eb9]. BMJ Health & Care Informatics (2022). High credibility.
+### Development of a customised programme to standardise comorbidity diagnosis codes in a large-scale database [^1149aNAt]. BMJ Health & Care Informatics (2022). High credibility.
 
 Introduction
 
@@ -310,7 +310,7 @@ On 1 October 2015, the department of Health and Human Services updated the Inter
 
 ---
 
-### Trends in US patients receiving care for eating disorders and other common behavioral health conditions before and during the COVID-19 pandemic [^a3fe576a]. JAMA Network Open (2021). High credibility.
+### Trends in US patients receiving care for eating disorders and other common behavioral health conditions before and during the COVID-19 pandemic [^115C8QuX]. JAMA Network Open (2021). High credibility.
 
 Methods
 
@@ -320,7 +320,7 @@ We counted the unique individuals per 100 000 members per month with outpatient 
 
 ---
 
-### Maternal eating disorders, body mass index, and offspring psychiatric diagnoses [^81b59843]. JAMA Network Open (2024). High credibility.
+### Maternal eating disorders, body mass index, and offspring psychiatric diagnoses [^114KJQ74]. JAMA Network Open (2024). High credibility.
 
 Outcomes
 
@@ -332,7 +332,7 @@ Maternal prepregnancy BMI was calculated as weight in kilograms divided by heigh
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -346,19 +346,19 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Pediatric application of coding and valuation systems [^d495525c]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116SAXmM]. Pediatrics (2019). High credibility.
 
 ICD-10-CM impact on payment — Pediatricians "should use the specificity of the ICD-10-CM to accurately reflect the child's conditions and complexity", and when "sufficient clinical information is not known or available about a particular health condition, the payer should recognize that the clinician can appropriately report an unspecified code without the claim being summarily denied solely on the basis of specificity". Furthermore, payers "should not use ICD-10-CM specificity to deny payment to appropriately trained pediatricians performing those specialized services within their scope of practice". New payment models "incorporate elaborate risk-adjustment algorithms based on diagnostic completeness", and such risk-based models "must appropriately represent the risk contributed by children with special health care needs". To support diagnostic comprehensiveness, "claim-form formatting should be expanded (such as doubling to 8) to accommodate more than 4 diagnoses per line-item service", exceeding "the current line-item limitation for the version 5010 CMS 837P electronic and 1500 paper claim forms".
 
 ---
 
-### The E-cigarette or vaping product use-associated lung injury epidemic: pathogenesis, management, and future directions: an official American Thoracic Society workshop report [^6cf4a283]. Annals of the American Thoracic Society (2023). High credibility.
+### The E-cigarette or vaping product use-associated lung injury epidemic: pathogenesis, management, and future directions: an official American Thoracic Society workshop report [^113nXqJi]. Annals of the American Thoracic Society (2023). High credibility.
 
 E-cigarette or vaping product use–associated lung injury (EVALI) ICD-10 coding guidelines — For encounters, an umbrella diagnosis of U07.0 Vaping-related disorder should be used, and examples of additional specific condition diagnoses include J68.0 Bronchitis and pneumonitis due to chemicals, gases, fumes, and vapors; J69.1 Pneumonitis due to inhalation of oils and essences; J80 Acute respiratory distress syndrome; J82 Pulmonary eosinophilia, not elsewhere classified; J84.114 Acute interstitial pneumonitis; J84.89 Other specified interstitial pulmonary disease; R04.89 Diffuse pulmonary alveolar hemorrhage; and, when no additional condition is specified, J68.9 Unspecified respiratory condition due to chemicals, gases, fumes, and vapors. Other codes that may be relevant in combination include F12.- Cannabis related disorders and F17.29- Nicotine dependence, other tobacco product, with a clinical note describing the type of e-cigarette used; in addition, T65.291- Toxic effect of other tobacco and nicotine, accidental (unintentional) or T40.7X1- Poisoning by cannabis (derivatives), accidental (unintentional), may also be appropriate, and additional codes may be needed to fully characterize an event so that encounters fully comply with ICD-10 coding rules.
 
 ---
 
-### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^12e9dff6]. Pain (2022). Medium credibility.
+### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^111V3LKf]. Pain (2022). Medium credibility.
 
 2.2.1. Line coding
 
@@ -368,7 +368,7 @@ For each line presented, the participant had to determine the appropriate codes 
 
 ---
 
-### F50.25 bulimia nervosa, in remission-ICD-10-CM diagnosis codes… [^eb4e1b12]. Find-A-Code (2025). Medium credibility.
+### F50.25 bulimia nervosa, in remission-ICD-10-CM diagnosis codes… [^1171rKr9]. Find-A-Code (2025). Medium credibility.
 
 ICD-10-CM 5. Mental, Behavioral and Neurodevelopmental disorders F50-F59 Behavioral syndromes associated with physiological disturbances and physical factors F50 Eating disorders. F50. 2 Bulimia nervosa F50. 25 Bulimia nervosa, in remission. Code Added 2024-10-01 F50. 25- Bulimia nervosa, in remission The above description is abbreviated. This code description may also have Includes, Excludes, Notes, Guidelines, Examplesand other information. Access to this feature is available in the following products:
 
@@ -382,7 +382,7 @@ ICD-10-CM Index Entries Code History Dictionary Definitions My Notes Alerts Codi
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^d719b817]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^116Vtydx]. JAMA Network Open (2020). High credibility.
 
 Conclusions
 
@@ -390,7 +390,7 @@ The findings of this interrupted time series analysis and cross-sectional study 
 
 ---
 
-### Racial inequalities in mental healthcare use and mortality: a cross-sectional analysis of 1.2 million low-income individuals in rio de janeiro, Brazil 2010–2016 [^9e284669]. BMJ Global Health (2023). High credibility.
+### Racial inequalities in mental healthcare use and mortality: a cross-sectional analysis of 1.2 million low-income individuals in rio de janeiro, Brazil 2010–2016 [^1153Ua9W]. BMJ Global Health (2023). High credibility.
 
 Outcomes
 
@@ -398,7 +398,7 @@ Three outcomes were considered for mental health: PHC usage (number of consultat
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^5ad88265]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^113KgcJg]. JAMA Network Open (2020). High credibility.
 
 Limitations
 
@@ -406,7 +406,7 @@ This study has several limitations. First, we only examined the association of d
 
 ---
 
-### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^8a6194c6]. Pain (2022). Medium credibility.
+### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^114YA4vZ]. Pain (2022). Medium credibility.
 
 4. Discussion
 
@@ -416,7 +416,7 @@ In the line coding, the new ICD-11 classification was tested against the establi
 
 ---
 
-### Mapping diagnostic trajectories from the first hospital diagnosis of a psychiatric disorder: a Danish nationwide cohort study using sequence analysis [^8ecc3da9]. The Lancet: Psychiatry (2023). High credibility.
+### Mapping diagnostic trajectories from the first hospital diagnosis of a psychiatric disorder: a Danish nationwide cohort study using sequence analysis [^114ehqx4]. The Lancet: Psychiatry (2023). High credibility.
 
 Background
 
@@ -444,7 +444,7 @@ For the Danish translation of the abstract see Supplementary Materials section.
 
 ---
 
-### Eating disorders in children, adolescents, and young adults during and after the COVID-19 pandemic: a Danish Nationwide register-based study [^e279564e]. The International Journal of Eating Disorders (2024). Medium credibility.
+### Eating disorders in children, adolescents, and young adults during and after the COVID-19 pandemic: a Danish Nationwide register-based study [^116nkxXX]. The International Journal of Eating Disorders (2024). Medium credibility.
 
 2 Method
 
@@ -456,7 +456,7 @@ Interrupted time‐series analyses were used to examine the association between 
 
 ---
 
-### Maternal diabetes and the risk of feeding and eating disorders in offspring: a national population-based cohort study [^11e3d2b0]. BMJ Open Diabetes Research & Care (2020). High credibility.
+### Maternal diabetes and the risk of feeding and eating disorders in offspring: a national population-based cohort study [^111TXK99]. BMJ Open Diabetes Research & Care (2020). High credibility.
 
 Gestational diabetes has been coded independently throughout the study period (ICD-8: 63474, Y6449; ICD-10: O244, O249). If a mother was recorded with different diabetes types at various hospital contacts, she was classified based on the first diagnosis type. Diabetic complications, such as diabetic coma, ketoacidosis, nephropathy, ophthalmic, neurological, circulatory, and unspecified, or multiple complications, could in part reflect poor glycemic regulation. We used DNPR to identify mothers with pregestational diabetes who had diabetic complications (ICD-10 codes: E100–E108, E110–E118, and H36.0).
 
@@ -466,7 +466,7 @@ FED, specific to infancy and early childhood, are characterized by refusal of fo
 
 ---
 
-### Prevalence of epilepsy in frontotemporal dementia and timing of dementia diagnosis [^f43598bf]. JAMA Neurology (2025). High credibility.
+### Prevalence of epilepsy in frontotemporal dementia and timing of dementia diagnosis [^117F3yug]. JAMA Neurology (2025). High credibility.
 
 Examination of ICD-10 codes revealed that the most common ICD-10 codes in the FTD group were G40.2, G40.1, and G40.9, indicating that the epilepsy type either was focal onset epilepsy or could not be further defined. Detailed ICD-10 code results are shown in Figure 2.
 
@@ -477,19 +477,19 @@ Diagnosis codes are from the International Statistical Classification of Disease
 
 ---
 
-### International classification of diseases (ICD-11) and neurologic disorders: the future [^cd55411e]. Neurology (2013). Low credibility.
+### International classification of diseases (ICD-11) and neurologic disorders: the future [^116FR6fF]. Neurology (2013). Low credibility.
 
 When the WHO's Topic Advisory Group for Neurology (TAG) started work on revision of the ICD-10 diagnostic codes in June 2009, the issues were daunting. The existing classification was produced a generation ago and the need to move to the digital age was becoming imperative. Appreciating modern advances in genetics and immunology, and the consequent changes in understanding of the pathophysiology of disorders of the nervous system, WHO's charge to the TAG was to produce a comprehensive, up-to-date disease classification, while providing published or consensus evidence for each coding change. In addition, the task would be to focus on ways to reduce the treatment gap while considering the utility of ICD-11 when used in primary care and nonspecialist settings. The project mushroomed over the 3 years since our first meeting and continues to do so. The work was made even more difficult as the group needed to add "content models" for the major codes for the first time (i.e., providing a definition for each disorder, along with appropriate diagnostic tests and outcome). The ICD-11 is meant to be updated as new knowledge develops, rather than waiting some years for another whole-scale revision, but this process has yet to be defined.
 
 ---
 
-### Knee pain and mobility impairments: meniscal and articular cartilage lesions [^1ee2cbef]. The Journal of Orthopaedic and Sports Physical Therapy (2010). Medium credibility.
+### Knee pain and mobility impairments: meniscal and articular cartilage lesions [^111nnoot]. The Journal of Orthopaedic and Sports Physical Therapy (2010). Medium credibility.
 
 ICD-10 and ICF codes associated with knee pain and mobility disorders — ICD-10 diagnoses: Diagnostic codes listed for meniscal and articular cartilage conditions include S83.2 Tear of meniscus, current; S83.3 Tear of articular cartilage of knee, current; M23.2 Derangement of meniscus due to old tear or injury; and M93.2 Osteochondritis dissecans.
 
 ---
 
-### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^6ece3d7b]. JAMA Network Open (2020). High credibility.
+### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^113qGut6]. JAMA Network Open (2020). High credibility.
 
 Conclusions
 
@@ -497,7 +497,7 @@ Rapid access to well-characterized, large SARS-CoV-2 and COVID-19 cohorts is cri
 
 ---
 
-### Impact of the COVID-19 pandemic on eating disorders diagnoses among adolescents and young adults in catalonia: a population-based cohort study [^13c6fc11]. The International Journal of Eating Disorders (2023). Medium credibility.
+### Impact of the COVID-19 pandemic on eating disorders diagnoses among adolescents and young adults in catalonia: a population-based cohort study [^111WKbtU]. The International Journal of Eating Disorders (2023). Medium credibility.
 
 2.3 Variables
 
@@ -509,7 +509,7 @@ We assessed socioeconomic status using the Mortalidad en áreas pequeñas Españ
 
 ---
 
-### Use of and comorbidities associated with diagnostic codes for COVID-19 in US health insurance claims [^4cec95fd]. JAMA Network Open (2021). High credibility.
+### Use of and comorbidities associated with diagnostic codes for COVID-19 in US health insurance claims [^112y3XUx]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -517,13 +517,13 @@ Accurate identification of COVID-19 diagnosis in patient medical records is esse
 
 ---
 
-### Death certificate-based ICD-10 diagnosis codes for COVID-19 mortality surveillance-United States, January-December 2020 [^558158a2]. MMWR: Morbidity and Mortality Weekly Report (2021). Medium credibility.
+### Death certificate-based ICD-10 diagnosis codes for COVID-19 mortality surveillance-United States, January-December 2020 [^113BmPpd]. MMWR: Morbidity and Mortality Weekly Report (2021). Medium credibility.
 
 Approximately 375,000 deaths during 2020 were attributed to COVID-19 on death certificates reported to CDC (1). Concerns have been raised that some deaths are being improperly attributed to COVID-19 (2). Analysis of International Classification of Diseases, Tenth Revision (ICD-10) diagnoses on official death certificates might provide an expedient and efficient method to demonstrate whether reported COVID-19 deaths are being overestimated. CDC assessed documentation of diagnoses co-occurring with an ICD-10 code for COVID-19 (U07.1) on U.S. death certificates from 2020 that had been reported to CDC as of February 22, 2021. Among 378,048 death certificates listing U07.1, a total of 357,133 (94.5%) had at least one other ICD-10 code; 20,915 (5.5%) had only U07.1. Overall, 97.3% of 357,133 death certificates with at least one other diagnosis (91.9% of all 378,048 death certificates) were noted to have a co-occurring diagnosis that was a plausible chain-of-event condition (e.g., pneumonia or respiratory failure), a significant contributing condition (e.g., hypertension or diabetes), or both. Overall, 70%-80% of death certificates had both a chain-of-event condition and a significant contributing condition or a chain-of-event condition only; this was noted for adults aged 18–84 years, both males and females, persons of all races and ethnicities, those who died in inpatient and outpatient or emergency department settings, and those whose manner of death was listed as natural. These findings support the accuracy of COVID-19 mortality surveillance in the United States using official death certificates. High-quality documentation of co-occurring diagnoses on the death certificate is essential for a comprehensive and authoritative public record. Continued messaging and training (3) for professionals who complete death certificates remains important as the pandemic progresses. Accurate mortality surveillance is critical for understanding the impact of variants of SARS-CoV-2, the virus that causes COVID-19, and of COVID-19 vaccination and for guiding public health action.
 
 ---
 
-### Accuracy of the modified global burden of disease international classification of diseases coding methods for identifying sepsis: a prospective multicentre cohort study [^d97f2020]. Critical Care (2025). Medium credibility.
+### Accuracy of the modified global burden of disease international classification of diseases coding methods for identifying sepsis: a prospective multicentre cohort study [^116ZT1ks]. Critical Care (2025). Medium credibility.
 
 Results
 
@@ -536,25 +536,25 @@ Study flow. Clinical sepsis: Number of patients who met Sepsis-3 criteria. *Pres
 
 ---
 
-### Consensus recommendations for optimizing electronic health records for nutrition care [^e38c3b60]. Journal of the Academy of Nutrition and Dietetics (2020). High credibility.
+### Consensus recommendations for optimizing electronic health records for nutrition care [^116pMHuh]. Journal of the Academy of Nutrition and Dietetics (2020). High credibility.
 
 Malnutrition diagnosis documentation — Malnutrition diagnoses "have been mapped to ICD-10 codes: mild protein-calorie malnutrition is E44.1, moderate protein-calorie malnutrition is E44.0, and (unspecified) severe protein-calorie malnutrition is E43", and compliant documentation includes "the diagnosis and its severity,… documented by a provider (physician, advanced practitioner provider)"; "the clinical indicators to support the diagnosis, for example, weight loss of 10% in a 3-month time frame"; and "development of a treatment plan… for example, initiation of enteral nutrition (EN)". Malnutrition may be coded as "a secondary diagnosis that can affect the Medicare Severity–Diagnosis Related Group Complications or Comorbidities and Major Complications or Comorbidities", and "Accurate documentation by physicians and advanced practice providers must be present to support coding, reimbursement, benchmarking, and high-quality patient care".
 
 ---
 
-### Hand pain and sensory deficits: carpal tunnel syndrome [^c2a8e245]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Hand pain and sensory deficits: carpal tunnel syndrome [^115ybKo2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Carpal tunnel syndrome (CTS) classification — International Classification of Diseases-10th Revision-Clinical Modification (ICD-10-CM) codes that "could be used when managing individuals with CTS" include G56.00, G56.01, G56.02, M79.641, M79.642, M79.643, M79.644, M79.645, M79.646, R20.1, R20.2, and R20.9, as listed under "ICD-10-CM".
 
 ---
 
-### One size does not fit all. genomics differentiates among anorexia nervosa, bulimia nervosa, and binge-eating disorder [^0d2dfc45]. The International Journal of Eating Disorders (2021). Medium credibility.
+### One size does not fit all. genomics differentiates among anorexia nervosa, bulimia nervosa, and binge-eating disorder [^111LYHXr]. The International Journal of Eating Disorders (2021). Medium credibility.
 
 In the UK Biobank data set, we identified 1,550 individual participants with any eating disorder. They either self‐reported one or multiple of the three primary eating disorders anorexia nervosa (n = 720), bulimia nervosa (n = 402), or binge‐eating disorder (n = 561) in the mental health questionnaire (Davis et al.) or had an International Classification of Diseases, version 10 (ICD‐10) (World Health Organization,) hospital diagnosis recorded in the Hospital Episode Statistics of F50.0 or F50.1 for anorexia nervosa (n = 48), F50.2 or F50.3 for bulimia nervosa (n = 21), or F50.5 for vomiting associated with other psychological disturbances, F50.8 for other eating disorders, including pica or F50.9 for eating disorder, unspecified (n = 15). We excluded the 15 participants with F50.5, F50.8, and F50.9 from this analysis due to insufficient numbers to perform analyses. This resulted in 768 (4.7%) participants with anorexia nervosa, 423 (2.7%) with bulimia nervosa, and 561 (3.5%), with binge‐eating disorder because if participants self‐reported more than one eating disorder diagnosis (n = 194), they were assigned to all applicable primary eating disorder groups. We randomly sampled one set of controls in the ratio of 1–10, resulting in 15,500 controls by using the following exclusion criteria: Controls must have answered the mental health questionnaire (Davis et al.), were not diagnosed with a psychiatric disorder (i.e. self‐report or ICD‐10 diagnosis), or taking any psychotropic medication. The subsample included 17,050 (92% female) European participants (for full descriptives of the UK Biobank sample, see Table S1) representing 3.4% of the UK Biobank participants (n = 502,682). This study was completed under the UK Biobank approved study application 27546.
 
 ---
 
-### Genetic and environmental contributions to diagnostic fluctuation in anorexia nervosa and bulimia nervosa [^cc2a9856]. Psychological Medicine (2021). Medium credibility.
+### Genetic and environmental contributions to diagnostic fluctuation in anorexia nervosa and bulimia nervosa [^116DgnJq]. Psychological Medicine (2021). Medium credibility.
 
 Methods and materials
 
@@ -568,7 +568,7 @@ Anorexia nervosa diagnosis was identified with ICD-9 code 307B or ICD-10 codes F
 
 ---
 
-### Comorbid mental disorders during long-term course in a nationwide cohort of patients with anorexia nervosa [^1c9cfa64]. The International Journal of Eating Disorders (2021). Medium credibility.
+### Comorbid mental disorders during long-term course in a nationwide cohort of patients with anorexia nervosa [^111jRP55]. The International Journal of Eating Disorders (2021). Medium credibility.
 
 2 METHOD
 
@@ -578,7 +578,7 @@ The study was based on the complete nationwide cohort of all individuals born 19
 
 ---
 
-### Substantial health and economic burden of COVID-19 during the year after acute illness among US adults at high risk of severe COVID-19 [^65c6a3fa]. BMC Medicine (2024). Medium credibility.
+### Substantial health and economic burden of COVID-19 during the year after acute illness among US adults at high risk of severe COVID-19 [^113btUHw]. BMC Medicine (2024). Medium credibility.
 
 Diagnoses
 
@@ -598,7 +598,7 @@ a The baseline phase was the 12 months before the index date, and the post-acute
 
 ---
 
-### Analysis of neurodevelopmental disorders in offspring of mothers with eating disorders in Sweden [^ae4e1619]. JAMA Network Open (2022). High credibility.
+### Analysis of neurodevelopmental disorders in offspring of mothers with eating disorders in Sweden [^115TR5HA]. JAMA Network Open (2022). High credibility.
 
 Exposed Cohorts and Matched Comparators
 
@@ -608,7 +608,7 @@ All exposed children were matched with 5 comparator children, free of any matern
 
 ---
 
-### Migraine and the development of additional psychiatric and pain disorders in the transition from adolescence to adulthood [^532f04cf]. Cephalalgia (2021). Medium credibility.
+### Migraine and the development of additional psychiatric and pain disorders in the transition from adolescence to adulthood [^1138KmPc]. Cephalalgia (2021). Medium credibility.
 
 Results
 
@@ -629,13 +629,13 @@ Furthermore the risk for adolescents diagnosed with migraine for suffering from 
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Descriptive exploration of overdose codes in hospital and emergency department discharge data to inform development of drug overdose morbidity surveillance indicator definitions in ICD-10-CM [^f0ecb9a3]. Injury Prevention (2021). Medium credibility.
+### Descriptive exploration of overdose codes in hospital and emergency department discharge data to inform development of drug overdose morbidity surveillance indicator definitions in ICD-10-CM [^117ABYQr]. Injury Prevention (2021). Medium credibility.
 
 Background
 
@@ -655,7 +655,7 @@ Results highlight considerations for adapting and standardising drug overdose in
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^2079c164]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^111q9W1H]. JAMA Network Open (2020). High credibility.
 
 Importance
 
@@ -687,25 +687,25 @@ These findings suggest that the ICD-10-CM transition was associated with large p
 
 ---
 
-### Dry eye syndrome preferred practice pattern ® [^cd799048]. Ophthalmology (2024). High credibility.
+### Dry eye syndrome preferred practice pattern ® [^116FdJ2B]. Ophthalmology (2024). High credibility.
 
 Dry eye ICD-10 CM classifications — entities and codes include: Dry eye, unspecified, right lacrimal gland H04.121; left lacrimal gland H04.122; bilateral lacrimal gland H04.123; keratoconjunctivitis sicca (not specified as Sjögren) H16.22-; Sjögren syndrome, sicca syndrome M35.00; Sjögren syndrome with keratoconjunctivitis M35.01; filamentary keratitis H16.12-; exposure keratoconjunctivitis H16.21-; punctate keratitis H11.14-. Certain ICD-10 CM categories have applicable 7th characters, and the applicable 7th character is required for all codes within the category, or as the notes in the Tabular List instruct; the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder x must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Nonarthritic hip joint pain [^43fdb678]. The Journal of Orthopaedic and Sports Physical Therapy (2014). Medium credibility.
+### Nonarthritic hip joint pain [^112joPc3]. The Journal of Orthopaedic and Sports Physical Therapy (2014). Medium credibility.
 
 Nonarthritic hip joint pain — classification codes include the primary International Classification of Diseases, Tenth Revision (ICD-10) codes "M25.5 Pain in joint, M24.7 Protrusio acetabuli, M24.0 Loose body in joint, and M24.2 Disorder of ligament". The corresponding ICD-9-CM codes and conditions are "719.45 Joint pain, 718.65 Unspecified intrapelvic protrusion of acetabulum, 718.15 Loose body in joint, and 718.5 Other derangement of joint pelvic region and thigh". Other ICD-10 codes that may be associated are "M21.0 Valgus deformity, not elsewhere classified", "M21.1 Varus deformity, not elsewhere classified", "M21.2 Flexion deformity", "M24.3 Pathological dislocation and subluxation of joint, not elsewhere classified", and "M24.4 Recurrent dislocation and subluxation of joint".
 
 ---
 
-### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^d7a684c7]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
+### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^116WiGdk]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
 
 Recurrent urinary tract infection — coding and documentation: Women who meet the criteria for rUTI should have this diagnosis added to their problem list to help alert other providers and ensure best practices, and the International Classification of Disease, 10th Revision, Clinical Modification (ICD-10-CM) is important for correct classification; the ICD-10 code of "positive urine culture" can be used instead of UTI or asymptomatic bacteriuria when a urine culture is positive but the clinical criteria are not met for a UTI.
 
 ---
 
-### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^af82f35e]. Pain (2022). Medium credibility.
+### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^115VCpSZ]. Pain (2022). Medium credibility.
 
 2.3. Data analysis
 
@@ -723,7 +723,7 @@ Frequencies for coverage, ease of use, and level of detail were calculated. The 
 
 ---
 
-### Patterns of medical diagnoses before and after a diagnosis of anorexia nervosa: a Danish nationwide cohort study [^cf7b369d]. The International Journal of Eating Disorders (2025). Medium credibility.
+### Patterns of medical diagnoses before and after a diagnosis of anorexia nervosa: a Danish nationwide cohort study [^116Jbpix]. The International Journal of Eating Disorders (2025). Medium credibility.
 
 3 Method
 
@@ -749,7 +749,7 @@ A comparison cohort was generated from the CRS and the DNPR and randomly matched
 
 ---
 
-### Trends in the observed versus expected incidence of eating disorders before, during, and after the COVID-19 pandemic: a national patient registry study [^f13738c3]. The International Journal of Eating Disorders (2025). Medium credibility.
+### Trends in the observed versus expected incidence of eating disorders before, during, and after the COVID-19 pandemic: a national patient registry study [^117AcZir]. The International Journal of Eating Disorders (2025). Medium credibility.
 
 FIGURE 1
 Annual age‐stratified observed incidence in eating disorders per 100,000 for females aged 10–59 years from 2010 to 2023. The graph depicts the observed annual age‐stratified observed incidence rates (IRs) per 100,000 from 2010 to 2023 for females and included all ICD‐10 diagnoses: Anorexia nervosa (AN; F50.0 + 50.1), bulimia nervosa (BN; F50.2 + 50.3), and other EDs (F50.4–50.9).
@@ -763,13 +763,13 @@ As shown in Table 1, the total excess incidence for any ED in females in 2020 wa
 
 ---
 
-### Conjunctivitis preferred practice pattern [^5e1c6ada]. Ophthalmology (2024). High credibility.
+### Conjunctivitis preferred practice pattern [^113QXP77]. Ophthalmology (2024). High credibility.
 
 Conjunctivitis PPP — ICD-10 CM coding rules for seventh characters and laterality state that the applicable 7th character is required for all codes within the category and must always be the 7th character in the data field; if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^75e6b150]. Pain (2022). Medium credibility.
+### Classification of chronic pain for the international classification of diseases (ICD-11): results of the 2017 international World Health Organization field testing [^1141o3E7]. Pain (2022). Medium credibility.
 
 3. Results
 
@@ -781,19 +781,19 @@ Six of the lines referred to what is called "chronic primary pain" in the ICD-11
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^d79581de]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^116WcZE5]. GOLD (2025). High credibility.
 
 Mortality in COPD — The World Health Organization (WHO) publishes mortality statistics for selected causes of death annually for all WHO regions, and in ICD-10 deaths from COPD or chronic airways obstruction are included under "COPD and allied conditions" (ICD-10 codes J42-46). Under-recognition and under-diagnosis of COPD reduces the accuracy of mortality data, and COPD may be listed as a contributory cause or omitted from death certificates. In 2011, COPD was the third leading cause of death in the United States. Data from the GBD Study 2017 estimated a COPD-attributable death rate was 42/100,000 (4.72% of all-cause deaths). With these caveats, globally there are around three million deaths annually due to COPD, and projections estimate over 5.4 million annual deaths from COPD and related conditions by 2060.
 
 ---
 
-### AGA clinical practice update on the role of diet in irritable bowel syndrome: expert review [^53104356]. Gastroenterology (2022). High credibility.
+### AGA clinical practice update on the role of diet in irritable bowel syndrome: expert review [^11389SDj]. Gastroenterology (2022). High credibility.
 
 Supplementary Table 2 — other diagnosis codes used in MNT practices — lists: E78.0 Pure hypercholesterolemia; E78.1 Pure hyperglyceridemia; E78.2 Mixed Hyperlipidemia; E78.3 Hyperchylomicronemia; E78.4 Other hyperlipidemia; E78.5 Hyperlipidemia, unspecified; E78.8 Other disorders of lipoprotein metabolism; E78.9 Disorders of lipoprotein metabolism, unspecified; E88.81 Metabolic syndrome; E03.9 Hypothyroidism, unspecified; E05.90 Thyrotoxicosis, unspecified; E16.1 Other hypoglycemia; E16.2 Hypoglycemia, unspecified; E28.2 Polycystic ovarian syndrome; E73.0 Congenital lactase deficiency; E73.1 Secondary lactase deficiency; E73.8 Other lactose intolerance; E73.9 Lactose intolerance, unspecified; E84 Cystic fibrosis; M1A.3 Chronic gout due to renal impairment; M1A.9 Chronic gout, unspecified; M10.3 Gout due to renal impairment; M10.4 Other secondary gout; M10.9 Gout, unspecified; under 'Diseases of the genitourinary system' N20.0 Calculus of the kidney; under 'Mental, behavioral, and neurodevelopmental disorders' F50.00 Anorexia nervosa, unspecified; F50.02 Anorexia nervosa, binge eating/purging type; F50.2 Bulimia nervosa; F50.8 Other eating disorder; F50.9 Eating disorder, unspecified; 'Pregnancy' codes O21.0, O21.1, O21.2, O24.01, O24.11, O24.410, O24.414, O26.00, O26.10, O99.210; 'Disease of the blood' D50.8, D50.9, D51.3, D52.0, D53.0, D53.9, D64.9; 'Disease of the musculoskeletal system' M81.0, M81.8; and 'Diseases of the nervous system' G47.30.
 
 ---
 
-### Pediatric patients hospitalized with eating disorders in Ontario, Canada, over time [^2c573bd1]. JAMA Network Open (2023). High credibility.
+### Pediatric patients hospitalized with eating disorders in Ontario, Canada, over time [^1128jkrC]. JAMA Network Open (2023). High credibility.
 
 Outcome Measure and Exposure
 
@@ -801,7 +801,7 @@ The primary outcome was the annual rate of hospitalization of individuals aged 5
 
 ---
 
-### Machine learning model to predict mental health crises from electronic health records [^c57e51b9]. Nature Medicine (2022). Excellent credibility.
+### Machine learning model to predict mental health crises from electronic health records [^1163nzQx]. Nature Medicine (2022). Excellent credibility.
 
 Features generation
 
@@ -815,7 +815,7 @@ Status features. For specific EHRs that are characterized by the start–end dat
 
 ---
 
-### Assessment of unmet health-related social needs among patients with mental illness enrolled in Medicare advantage [^f6a7eb83]. JAMA Network Open (2022). High credibility.
+### Assessment of unmet health-related social needs among patients with mental illness enrolled in Medicare advantage [^117JgMfp]. JAMA Network Open (2022). High credibility.
 
 Study Outcomes and Variables
 
@@ -825,7 +825,7 @@ The major independent variable for the adjusted logistic regression models was t
 
 ---
 
-### Validity of international classification of diseases (ICD)-10 diagnosis codes for identification of acute heart failure hospitalization and heart failure with reduced versus preserved ejection fraction in a national Medicare sample [^808a2516]. Circulation: Cardiovascular Quality and Outcomes (2023). Medium credibility.
+### Validity of international classification of diseases (ICD)-10 diagnosis codes for identification of acute heart failure hospitalization and heart failure with reduced versus preserved ejection fraction in a national Medicare sample [^114HZpMK]. Circulation: Cardiovascular Quality and Outcomes (2023). Medium credibility.
 
 Background
 
@@ -845,13 +845,13 @@ ICD-10 principal diagnosis identified acute HF hospitalization with a high posit
 
 ---
 
-### Mediators and adverse effects of child poverty in the United States [^1107af4b]. Pediatrics (2016). Medium credibility.
+### Mediators and adverse effects of child poverty in the United States [^111SFNW6]. Pediatrics (2016). Medium credibility.
 
 Tracking socioeconomic risk in health care settings using ICD-10-CM — compared with the International Classification of Diseases, Ninth Revision, Clinical Modification, the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) provides a more robust classification system that enables clinicians to track socioeconomic factors in patient care that may be related to families' annual income level; by using the ICD-10-CM, child health clinicians can submit supplemental codes that include not only diagnosis, such as acute asthma exacerbation, but additional socioeconomic factors related to the asthma exacerbation and treatment, such as childhood poverty or the family's inability to afford the recommended medical regimen; it will be important to capture this additional socioeconomic information with the sole use of ICD-10-CM codes to enable investigators to examine the putative impact of expanded codes on children's health care.
 
 ---
 
-### Pediatric complex chronic condition system version 3 [^8b6d266d]. JAMA Network Open (2024). High credibility.
+### Pediatric complex chronic condition system version 3 [^114Zhwb2]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -859,13 +859,13 @@ In the US, the International Classification of Diseases (ICD) system with clinic
 
 ---
 
-### Blepharitis preferred practice pattern ® [^ccf9d77a]. Ophthalmology (2024). High credibility.
+### Blepharitis preferred practice pattern ® [^116EtPoF]. Ophthalmology (2024). High credibility.
 
 Blepharitis ICD-10 CM coding — Blepharitis, which includes entities with the following ICD-10 classifications, lists Ulcerative (H01.01-), Squamous (H01.02-), Stye (H00.01-), Meibomitis (H01.02-), Abscess of eyelid (H00.03-), and Parasitic infestation of eyelid (B89). CM = Clinical Modification used in the United States; "(-) = 1, right upper eyelid; 2, right lower eyelid; 4, left upper eyelid; 5, left lower eyelid", and when laterality is specified "Right upper eyelid is always 1", "Right lower eyelid is always 2", "Left upper eyelid is always 4", and "Left lower eyelid is always 5". "Certain ICD-10 CM categories have applicable 7th characters" and "The 7th character must always be the 7th character in the data field"; if a 7th character is required and the code is "not 6 characters, a placeholder X must be used to fill in the empty characters". For bilateral sites, "the final character of the codes in the ICD-10 CM indicates laterality"; if no bilateral code exists and the condition is bilateral, "separate codes for both the left and right side should be assigned" and "Unspecified codes should only be used when there is no other code option available". A starred note instructs to "Code first underlying disease, as leishmaniasis (085.0–085.9), loiasis (125.2), onchocerciasis (125.3), or pediculosis (132.0)".
 
 ---
 
-### Validation of ICD-10-CM codes for injuries complicating pregnancy, childbirth and the puerperium: a medical record review [^46dfe7de]. Injury Prevention (2021). Medium credibility.
+### Validation of ICD-10-CM codes for injuries complicating pregnancy, childbirth and the puerperium: a medical record review [^112p5LmB]. Injury Prevention (2021). Medium credibility.
 
 The ability of the O9A.2-O9A.5 codes to identify true injury cases is unknown. Furthermore, per the ICD-10-CM guidelines for Coding and Reporting, codes from Chapter 15, PCP (O00-O9A) 'have sequencing priority over codes from other chapters. Additional codes from other chapters may be used in conjunction with Chapter 15 codes to further specify conditions'. Specifically, O9A.2 'should be sequenced first, followed by the appropriate injury, poisoning, toxic effect, adverse effect or under-dosing code, and then the additional code(s) that specifies the condition caused by the poisoning, toxic effect, adverse effect or underdosing'. Similarly, O9A.3-O9A.4 should be sequenced first, followed by the appropriate codes to identify any associated current injury due to physical abuse or sexual abuse. However, it has not been studied how often and why the O9A.2-O9A.5 are listed as a secondary diagnosis, and what percentage of injuries complicating pregnancy-related outcomes are potentially missed when the definition for injury hospitalisations captures only principal diagnoses of O9A.2-O9A.5.
 
@@ -875,7 +875,7 @@ This analysis evaluates the ability of O9A.2-O9A.5 codes to identify injuries in
 
 ---
 
-### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^b35102a9]. BMC Medicine (2019). Medium credibility.
+### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^115aqzet]. BMC Medicine (2019). Medium credibility.
 
 Conclusion
 
@@ -883,7 +883,7 @@ Overall, the results in this study indicate that the proposed ICD-11 diagnostic 
 
 ---
 
-### Postdischarge mortality in a cohort hospitalized with anorexia nervosa [^5505e6b9]. The International Journal of Eating Disorders (2024). Medium credibility.
+### Postdischarge mortality in a cohort hospitalized with anorexia nervosa [^113B3vvL]. The International Journal of Eating Disorders (2024). Medium credibility.
 
 2 Methods
 
@@ -893,13 +893,13 @@ We restricted our sample to hospital discharges from acute care settings and exc
 
 ---
 
-### Consensus recommendations for optimizing electronic health records for nutrition care [^681631bc]. Journal of the Academy of Nutrition and Dietetics (2020). High credibility.
+### Consensus recommendations for optimizing electronic health records for nutrition care [^113fKAgs]. Journal of the Academy of Nutrition and Dietetics (2020). High credibility.
 
 Nutrition diagnosis and malnutrition coding — nutrition screening and assessment identify problems requiring treatment, and the Academy's Nutrition Care Process utilizes nutrition diagnoses to standardize nutrition diagnostic terminology; a nutrition diagnosis as defined by the Academy describes a specific nutrition problem that can be improved or resolved through nutrition interventions. The domains of nutrition diagnoses include "intake", "clinical", and "behavioral-environmental" as defined on-page, while a medical diagnosis is used by health care providers and coders as described in the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) codes. Malnutrition is one nutrition clinical domain and medical diagnosis (ICD-10 code) that affects patient care as well as appropriate coding, billing, and reimbursement; patients can be diagnosed with malnutrition in any health care setting, organizations should adopt explicit malnutrition criteria that all health care professionals can apply consistently, and the Academy and ASPEN published recommended criteria for the identification of adult and pediatric malnutrition.
 
 ---
 
-### Sex differences in psychopathology following potentially traumatic experiences [^b0088b8a]. JAMA Network Open (2024). High credibility.
+### Sex differences in psychopathology following potentially traumatic experiences [^115Vyh53]. JAMA Network Open (2024). High credibility.
 
 Variable Definitions
 
@@ -913,19 +913,19 @@ Nine psychiatric disorder categories were determined using ICD-10 codes in the D
 
 ---
 
-### The complexity and challenges of the international classification of diseases, ninth revision, clinical modification to international classification of diseases, 10th revision, clinical modification transition in EDs [^9b81e000]. The American Journal of Emergency Medicine (2015). Low credibility.
+### The complexity and challenges of the international classification of diseases, ninth revision, clinical modification to international classification of diseases, 10th revision, clinical modification transition in EDs [^114yYhrF]. The American Journal of Emergency Medicine (2015). Low credibility.
 
 Beginning October 2015, the Center for Medicare and Medicaid Services will require medical providers to use the vastly expanded International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) system. Despite wide availability of information and mapping tools for the next generation of the ICD classification system, some of the challenges associated with transition from ICD-9-CM to ICD-10-CM are not well understood. To quantify the challenges faced by emergency physicians, we analyzed a subset of a 2010 Illinois Medicaid database of emergency department ICD-9-CM codes, seeking to determine the accuracy of existing mapping tools in order to better prepare emergency physicians for the change to the expanded ICD-10-CM system. We found that 27% of 1830 codes represented convoluted multidirectional mappings. We then analyzed the convoluted transitions and found that 8% of total visit encounters (23% of the convoluted transitions) were clinically incorrect. The ambiguity and inaccuracy of these mappings may impact the workflow associated with the translation process and affect the potential mapping between ICD codes and Current Procedural Codes, which determine physician reimbursement.
 
 ---
 
-### Cataract in the adult eye preferred practice pattern [^c79aace6]. Ophthalmology (2022). High credibility.
+### Cataract in the adult eye preferred practice pattern [^1166vVQ9]. Ophthalmology (2022). High credibility.
 
 Cataract ICD-10 coding — age-related cataract (ARC) categories and laterality are specified, listing Cortical ARC (H25.01–), Anterior subcapsular polar ARC (H25.03–), Posterior subcapsular polar ARC (H25.04–), Other age-related incipient cataract (H25.09–), Age-related nuclear cataract (H25.1–), ARC, morgagnian type (hypermature cataract) (H25.2–), Combined forms of ARC (H25.81–), Total or mature cataract (H25.89 Other ARC), and ARC; exfoliation of lens capsule (H25.89 Other ARC). For bilateral sites, the final character of the codes indicates laterality, and if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned; unspecified codes should be used only when there is no other code option available. When the diagnosis code specifies laterality, Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### Rates of neuropsychiatric disorders and gestational age at birth in a Danish population [^5c6cfd79]. JAMA Network Open (2021). High credibility.
+### Rates of neuropsychiatric disorders and gestational age at birth in a Danish population [^113N2UE4]. JAMA Network Open (2021). High credibility.
 
 Neuropsychiatric Disorders in Offspring
 
@@ -933,13 +933,13 @@ We used International Statistical Classification of Diseases and Related Health 
 
 ---
 
-### Obesity definition, diagnosis, bias, standard operating procedures (SOPs), and telehealth: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^f8729690]. Obesity Pillars (2022). High credibility.
+### Obesity definition, diagnosis, bias, standard operating procedures (SOPs), and telehealth: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^117MLRFD]. Obesity Pillars (2022). High credibility.
 
 Obesity Medicine Association diagnostic metrics and ICD-10 coding — obesity is defined as body mass index (BMI) ≥ 30 kg/m² and overweight as BMI = 25–29 kg/m²; percent body fat thresholds include female ≥ 35% and male ≥ 30%; abdominal obesity thresholds include female ≥ 35 inches (≥ 88 centimeters) and male ≥ 40 inches (≥ 102 centimeters); coding guidance advises to begin with coding the complications and then consider an additional/secondary BMI code, and lists E66 Overweight and obesity codes including E66.01, E66.09, E66.1, E66.2, E66.3, E66.8, and E66.9; the note states E66.0 is a non-billable code.
 
 ---
 
-### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^6cf86e4d]. JAMA Network Open (2020). High credibility.
+### Comparison of international classification of diseases and related health problems, tenth revision codes with electronic medical records among patients with symptoms of coronavirus disease 2019 [^113nZ7Fz]. JAMA Network Open (2020). High credibility.
 
 Importance
 
@@ -967,13 +967,13 @@ These findings suggest that ICD-10 codes lack sensitivity and have poor NPV for 
 
 ---
 
-### Coding update of the SMFM definition of low risk for cesarean delivery from ICD-9-CM to ICD-10-CM [^9ece1f72]. American Journal of Obstetrics and Gynecology (2017). Low credibility.
+### Coding update of the SMFM definition of low risk for cesarean delivery from ICD-9-CM to ICD-10-CM [^1154SH85]. American Journal of Obstetrics and Gynecology (2017). Low credibility.
 
 In 2015, the Society for Maternal-Fetal Medicine developed a low risk for cesarean delivery definition based on administrative claims-based diagnosis codes described by the International Classification of Diseases, Ninth Revision, Clinical Modification. The Society for Maternal-Fetal Medicine definition is a clinical enrichment of 2 available measures from the Joint Commission and the Agency for Healthcare Research and Quality measures. The Society for Maternal-Fetal Medicine measure excludes diagnosis codes that represent clinically relevant risk factors that are absolute or relative contraindications to vaginal birth while retaining diagnosis codes such as labor disorders that are discretionary risk factors for cesarean delivery. The introduction of the International Statistical Classification of Diseases, 10th Revision, Clinical Modification in October 2015 expanded the number of available diagnosis codes and enabled a greater depth and breadth of clinical description. These coding improvements further enhance the clinical validity of the Society for Maternal-Fetal Medicine definition and its potential utility in tracking progress toward the goal of safely lowering the US cesarean delivery rate. This report updates the Society for Maternal-Fetal Medicine definition of low risk for cesarean delivery using International Statistical Classification of Diseases, 10th Revision, Clinical Modification coding.
 
 ---
 
-### Prevalence of maternal mental illness among children and adolescents in the UK between 2005 and 2017: a national retrospective cohort analysis [^d7c7edfa]. The Lancet: Public Health (2019). High credibility.
+### Prevalence of maternal mental illness among children and adolescents in the UK between 2005 and 2017: a national retrospective cohort analysis [^116WuVXo]. The Lancet: Public Health (2019). High credibility.
 
 This study was approved by the Independent Scientific Advisory Committee for CPRD research (17_187). The requirement for informed consent was waived because the study used de-identified patient data.
 
@@ -985,13 +985,13 @@ Four data fields were used to classify mental disorder: diagnosis of a mental di
 
 ---
 
-### Neck pain: revision 2017 [^3d863687]. The Journal of Orthopaedic and Sports Physical Therapy (2017). Medium credibility.
+### Neck pain: revision 2017 [^112aDKsU]. The Journal of Orthopaedic and Sports Physical Therapy (2017). Medium credibility.
 
 Neck pain classification (ICD-10) and functional problem linkage — The page lists the primary International Classification of Diseases-10 (ICD-10) codes and conditions associated with neck pain, including M54.2 Cervicalgia, M54.6 Pain in the thoracic spine, R51 Cervicogenic headache, M53.0 Cervicocranial syndrome, M53.1 Cervicobrachial syndrome, M53.2 Spinal instability, S13.4 Sprain of ligaments of cervical spine, S13.8 Sprain of joints and ligaments of other parts of neck, M54.1x Dorsalgia with cervical radiculopathy, M47.2x Cervical spondylosis with radiculopathy, M47.1x Cervical spondylosis with myelopathy, M50.x Cervical disc disorders, M62.5 Muscle wasting and atrophy, M79.1 Myalgia, and M99.01 Segmental and somatic dysfunction; it also notes that International Classification of Functioning (ICF) categories were linked to functional problems reported with the Patient-Specific Functional Scale (PSFS) by 249 participants with neck pain in Norway, and that categories linking to 10% or more functional problems were labeled as more frequent while those linking to fewer were less frequent.
 
 ---
 
-### Time trends in treatment modes of anorexia nervosa in a nationwide cohort with free and equal access to treatment [^21586e0c]. The International Journal of Eating Disorders (2020). Medium credibility.
+### Time trends in treatment modes of anorexia nervosa in a nationwide cohort with free and equal access to treatment [^111rSJ43]. The International Journal of Eating Disorders (2020). Medium credibility.
 
 2 METHODS
 
@@ -1003,19 +1003,19 @@ Each patient in the study sample was followed for 5 years after diagnosis in the
 
 ---
 
-### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^d40700dd]. Ophthalmology (2025). High credibility.
+### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^116RLjBS]. Ophthalmology (2025). High credibility.
 
 Retinal arterial occlusion ICD-10 CM codes — Central retinal artery occlusion includes H34.11, H34.12, and H34.13; arterial branch occlusion includes H34.231, H34.232, and H34.233; partial retinal artery occlusion includes H34.211, H34.212, and H34.213; and transient retinal artery occlusion includes H34.01, H34.02, and H34.03. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality, and if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in, right is always 1, left is always 2, and bilateral is always 3; ICD = International Classification of Diseases and CM = Clinical Modification used in the United States.
 
 ---
 
-### International consensus guidelines for the diagnosis and management of food protein-induced enterocolitis syndrome: executive summary-workgroup report of the adverse reactions to foods committee, American Academy of Allergy, Asthma&Immunology [^e89385c5]. The Journal of Allergy and Clinical Immunology (2017). Medium credibility.
+### International consensus guidelines for the diagnosis and management of food protein-induced enterocolitis syndrome: executive summary-workgroup report of the adverse reactions to foods committee, American Academy of Allergy, Asthma&Immunology [^116wogMJ]. The Journal of Allergy and Clinical Immunology (2017). Medium credibility.
 
 Food protein–induced enterocolitis syndrome (FPIES) epidemiology and coding — available data — note that "There is limited, wide-scale epidemiologic information regarding FPIES", and that "FPIES was recognized and formally defined in the mid-1970s". Coding was standardized when "A 10th revision of the International Statistical Classification of Diseases and Related Health Problems code for FPIES (K52.2) was implemented in October 2015", while "Before this, no uniform International Classification of Diseases code existed". The only prospective birth cohort cited reported "a cumulative incidence of infants with CM-induced FPIES of 3 per 1000 newborns born at a single hospital over 2 years (0.34%)".
 
 ---
 
-### Eating disorders in times of the COVID-19 pandemic-results from an online survey of patients with anorexia nervosa [^53c057f7]. The International Journal of Eating Disorders (2020). Medium credibility.
+### Eating disorders in times of the COVID-19 pandemic-results from an online survey of patients with anorexia nervosa [^1139AaYe]. The International Journal of Eating Disorders (2020). Medium credibility.
 
 2 METHODS
 
@@ -1025,7 +1025,7 @@ Former inpatients with AN who had received treatment at Schoen Clinic Roseneck (
 
 ---
 
-### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^0cc21327]. BMC Medicine (2019). Medium credibility.
+### The classification of feeding and eating disorders in the ICD-11: results of a field study comparing proposed ICD-11 guidelines with existing ICD-10 guidelines [^111Kv3GJ]. BMC Medicine (2019). Medium credibility.
 
 Eight core questions (Table 4)
 
@@ -1038,7 +1038,7 @@ Note: AN anorexia nervosa, ARFID avoidant-restrictive food intake disorder, BN b
 
 ---
 
-### Associations between parental socioeconomic-, family-, and sibling status and risk of eating disorders in offspring in a Danish national female cohort [^f5a732a2]. The International Journal of Eating Disorders (2022). Medium credibility.
+### Associations between parental socioeconomic-, family-, and sibling status and risk of eating disorders in offspring in a Danish national female cohort [^117HC8KT]. The International Journal of Eating Disorders (2022). Medium credibility.
 
 2.3 Exposures
 
@@ -1050,7 +1050,7 @@ The outcomes were defined as ICD‐10 diagnoses (World Health Organization,), wh
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^3f880b19]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^112dBv6L]. JAMA Network Open (2020). High credibility.
 
 Results
 
@@ -1067,7 +1067,7 @@ Abbreviations: AHRQ-CCS, Agency for Healthcare Research and Quality Clinical Cla
 
 ---
 
-### The transition to ICD-10-CM: challenges for pediatric practice [^51ad6a56]. Pediatrics (2014). Low credibility.
+### The transition to ICD-10-CM: challenges for pediatric practice [^11366FEM]. Pediatrics (2014). Low credibility.
 
 Background and Objectives
 
@@ -1087,13 +1087,13 @@ The potential for financial disruption and administrative errors from 8% of reim
 
 ---
 
-### 2022 AHA / ACC key data elements and definitions for cardiovascular and noncardiovascular complications of COVID-19: a report of the American college of cardiology / American Heart Association task force on clinical data standards [^3d036628]. Journal of the American College of Cardiology (2022). High credibility.
+### 2022 AHA / ACC key data elements and definitions for cardiovascular and noncardiovascular complications of COVID-19: a report of the American college of cardiology / American Heart Association task force on clinical data standards [^112ZTPQj]. Journal of the American College of Cardiology (2022). High credibility.
 
 American College of Cardiology/American Heart Association COVID-19 data standards — scope and special considerations: This document provides data standards for cardiovascular and other complications related to COVID-19 infection caused by SARS-CoV-2, and the intent is to provide data elements consistent with current practice guidance and to include updated terminology and attributes in compliance with Task Force methodology and ACC/AHA policies for harmonization. The document is intended for use by researchers, registry developers, and clinicians and is proposed as a framework for ICD-10 code development of COVID-19–related cardiovascular conditions. In this document, data elements were not differentiated for specific encounters such as for inpatients versus outpatients, dates of encounter, number of encounters, baseline or repeated data elements, and databases can be built and customized according to users' needs to capture such information. The intent was not to provide recommendations regarding COVID-19 treatment, and the writing committee recommends that readers follow prevailing COVID-19 management guidelines.
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^e325508b]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^116okivE]. JAMA Network Open (2020). High credibility.
 
 Methods
 
@@ -1113,7 +1113,7 @@ The World Health Organization (WHO) maps codes into chapters, which are commonly
 
 ---
 
-### Time trends in healthcare-detected incidence of anorexia nervosa and bulimia nervosa in the Norwegian national patient register (2010–2016) [^011a9c72]. The International Journal of Eating Disorders (2018). Low credibility.
+### Time trends in healthcare-detected incidence of anorexia nervosa and bulimia nervosa in the Norwegian national patient register (2010–2016) [^1112dvi5]. The International Journal of Eating Disorders (2018). Low credibility.
 
 Objective
 
@@ -1133,7 +1133,7 @@ Although register-based studies provide an underestimate of the true incidence a
 
 ---
 
-### Exploring comorbidity within mental disorders among a Danish national population [^668f258a]. JAMA Psychiatry (2019). High credibility.
+### Exploring comorbidity within mental disorders among a Danish national population [^113d3pU1]. JAMA Psychiatry (2019). High credibility.
 
 Importance
 

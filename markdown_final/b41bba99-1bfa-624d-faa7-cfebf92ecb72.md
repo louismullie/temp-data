@@ -87,13 +87,13 @@ There are **7** seven-digit numbers whose digits sum to 2. These numbers are 100
 
 ## References
 
-### Making sense of number words and Arabic digits: does order count more? [^10cd7b6e]. Child Development (2020). Medium credibility.
+### Making sense of number words and Arabic digits: does order count more? [^111RupdB]. Child Development (2020). Medium credibility.
 
 The ability to choose the larger between two numbers reflects a mature understanding of the magnitude associated with numerical symbols. The present study explores how the knowledge of the number sequence and memory capacity (verbal and visuospatial) relate to number comparison skills while controlling for cardinal knowledge. Preschool children's (N = 140, M age-in-months = 58.9, range = 41–75) knowledge of the directional property of the counting list as well as the spatial mapping of digits on the visual line were assessed. The ability to order digits on the visual line mediated the relation between memory capacity and number comparison skills while controlling for cardinal knowledge. Beyond cardinality, the knowledge of the (spatial) order of numbers marks the understanding of the magnitude associated with numbers.
 
 ---
 
-### Number processing induces spatial performance biases [^177809db]. Neurology (2001). Low credibility.
+### Number processing induces spatial performance biases [^111bo32A]. Neurology (2001). Low credibility.
 
 Background
 
@@ -113,7 +113,7 @@ These results extend previous findings and support the notion of an automatic as
 
 ---
 
-### Too many digits: the presentation of numerical data [^a41454ae]. Archives of Disease in Childhood (2015). Low credibility.
+### Too many digits: the presentation of numerical data [^115CFoHw]. Archives of Disease in Childhood (2015). Low credibility.
 
 Thus a decimal places rule that ignores significant digits does not work. But equally, and perhaps surprisingly, a significant digits rule that ignores decimal places does not always work either. Reporting risk ratios to three significant digits for example leads to the largest ratio below 1 being reported as 0.999 and the smallest above 1 as 1.01, with three and two decimal places, respectively. This is clearly unsatisfactory as they differ in precision by a factor of ten. In this instance a combination of significant digits and decimal places, the rule of four, works best: round the risk ratio to two significant digits if the leading non-zero digit is four or more, otherwise round to three.
 
@@ -125,7 +125,7 @@ When comparing group means or percentages in tables, rounding should not blur th
 
 ---
 
-### A DNA-based system for selecting and displaying the combined result of two input variables [^98a5cd1c]. Nature Communications (2015). Medium credibility.
+### A DNA-based system for selecting and displaying the combined result of two input variables [^114uJouM]. Nature Communications (2015). Medium credibility.
 
 If the method should be used to process the input of two biological sequences it would require that X and Y be decoupled to allow input of arbitrary sequences. For this purpose we have introduced a third capture–linker strand as shown in Fig. 3a. This sequence contains two 8-nt domains that are each complementary to the two inputs, and furthermore it contains the capture sequence that allows binding to the MBs. This forms an incomplete four-way junction that is completed by selecting the fully complementary result sequence on the two 8-nt domains on X and Y to form a stable four-way junction. To demonstrate the principle we have used two short synthetic input strands. As shown with native PAGE in Fig. 3b, lane 4, inputs X and Y are independent. In lane 7, inputs X, Y and the capture–linker form a stable complex. In the native PAGE result shown in Fig. 3c, lanes 3 and 4, neither X nor Y alone binds with the result strand. In lane 5, where both X and Y are present, the input complex can bind to the correct result. This means that the correct result is only selected in the presence of both inputs X and Y. In lane 6 it is demonstrated, using three results where only one of the domains is correct, that wrong results do not bind to the input complex. Finally, in lane 7 the correct result is selected in the mixture with three wrong result sequences.
 
@@ -135,7 +135,7 @@ The mechanism of the output generation proceeds by selection of translator stran
 
 ---
 
-### A DNA-based system for selecting and displaying the combined result of two input variables [^cc2b6a14]. Nature Communications (2015). Medium credibility.
+### A DNA-based system for selecting and displaying the combined result of two input variables [^116Dh4Gb]. Nature Communications (2015). Medium credibility.
 
 Results
 
@@ -145,7 +145,7 @@ The mechanism of the DNA-based system is outlined in more detail in Fig. 1. The 
 
 ---
 
-### Measuring global functioning in older adults with cognitive impairments using the rasch model [^2a380024]. BMC Geriatrics (2020). Medium credibility.
+### Measuring global functioning in older adults with cognitive impairments using the rasch model [^1125bHpF]. BMC Geriatrics (2020). Medium credibility.
 
 Methods
 
@@ -166,13 +166,13 @@ The ENB encompasses 16 tasks. The following description of each test reflects th
 
 ---
 
-### Calculation impairment in neurodegenerative diseases [^54dd331e]. Journal of the Neurological Sciences (2003). Low credibility.
+### Calculation impairment in neurodegenerative diseases [^113ApFzM]. Journal of the Neurological Sciences (2003). Low credibility.
 
 We examined oral calculation in patients with corticobasal degeneration (CBD; N = 17), frontotemporal dementia (FTD; N = 17), and Alzheimer's disease (AD; N = 20), as well as 17 healthy seniors matched for age and education. Our calculation model involves at least three components: numerosity, combinatorial processes, and executive resources such as working memory. We assessed addition, subtraction, multiplication, and division involving small numbers (small, single-digit answers) and large numbers (larger, single- and double-digit answers). We also assessed dot counting for small numbers (2–5) and large numbers (6–9), as well as a measure of working memory. All patient groups differed from healthy seniors in oral calculation. CBD (36% correct) and FTD (65% correct) demonstrated a significant overall impairment in oral calculation relative to AD (76% correct). CBD (66% correct) had more difficulty counting dots overall relative to AD (94% correct) and FTD (86% correct), consistent with our hypothesis that the calculation deficit in CBD is due in large part to a numerosity deficit. FTD had more difficulty relative to AD in their performance of reverse digit span, consistent with our hypothesis that FTD patients' executive resource limitation contributes to their pattern of calculation impairment.
 
 ---
 
-### Sex-differences in network level brain dynamics associated with pain sensitivity and pain interference [^44634bf9]. Human Brain Mapping (2021). Medium credibility.
+### Sex-differences in network level brain dynamics associated with pain sensitivity and pain interference [^112kPWcx]. Human Brain Mapping (2021). Medium credibility.
 
 2.3 Effect of pain on a cognitive test
 
@@ -180,13 +180,13 @@ To define the effect of pain on a cognitive task, we performed a task which was 
 
 ---
 
-### A DNA-based system for selecting and displaying the combined result of two input variables [^7e2cb168]. Nature Communications (2015). Medium credibility.
+### A DNA-based system for selecting and displaying the combined result of two input variables [^114E4TCT]. Nature Communications (2015). Medium credibility.
 
 The system we have devised, furthermore, converts the selected result to Arabic numerals with one or two digits that are displayed on different templates, from the nanoscale to the macroscale. With few exceptions, other DNA-computing networks provide the output in the form of optical signals such as absorption or emission, which significantly limits the number of outputs that can be differentiated in the same solution. In other examples the readout has been observed by mobility shifts in gels or by sequencing, which are slow and laborious methods. On other occasions the result of DNA logic operations has been readout using atomic force microscopy (AFM), showing single-nucleotide polymorphisms as a letter symbol on DNA origami. In other work electrochemical readout has been applied for detection of the output of logic operations. In our system the digit is formed by segregating the output value from the first selection in a set of sequences that will address the lines in a seven-segmented display that are required to write the result number. Recently, Poje et al. reported on a system that also provides the output of a DNA-based system in a macroscopic fluorescence-based seven-segmented display; however, in this system the input was based on Boolean logic gates. In our work we also show the readout of the seven-segmented display at the nanoscale on DNA origami and a display that can be read by the naked eye.
 
 ---
 
-### An iterative approach for estimating domain-specific cognitive abilities from large scale online cognitive data [^07189726]. NPJ Digital Medicine (2024). Medium credibility.
+### An iterative approach for estimating domain-specific cognitive abilities from large scale online cognitive data [^111BXB2u]. NPJ Digital Medicine (2024). Medium credibility.
 
 Digits Span is a cognitive task designed to measure working memory capacity. Participants are presented with a sequence of numbers that they must recall. The first sequence is always 2 numbers long, and at each trial, if the participant replies correctly, the length of the next sequence increases by one. If the participant incorrectly recalls the sequence of numbers, then another string of the same length is presented. This is repeated until the participant replies incorrectly 3 times consecutively, when the task terminates. Spatial Span has a similar design to Digits Span, but instead of digits participants recall the location of sequences of flashes on a 4 × 4 grid of squares, testing their spatial working memory capacity. As shown in Fig. 3c for Digits Span, the derived DS measure suggested that the more numbers participants must remember, the harder is the trial (correlation between sequence length and DS is r = 0.92). Similarly for Spatial Span, the more squares participants have to remember, the harder is the trial (correlation between sequence length and DS is r = 0.84) (Fig. 3d).
 
@@ -196,13 +196,13 @@ Motor Control is designed to measure motor abilities. Participants are shown a m
 
 ---
 
-### Spontaneous sparse learning for PCM-based memristor neural networks [^db590afb]. Nature Communications (2021). High credibility.
+### Spontaneous sparse learning for PCM-based memristor neural networks [^116cCCQr]. Nature Communications (2021). High credibility.
 
 To identify the improvement in accuracy, we examined the confusion matrix as shown in Fig. 3b and e. The confusion matrix indicated how many times the neural network classified each input digit image into each class. The diagonal number indicates correct classifications for each digit while the off-diagonal number means the total occurrence of the confusion (i.e. the discrepancy between the prediction and the truth). The numbers at the top and right (single row and column, respectively) are the sum of each row and column except diagonal value. For example, the highest value '205' (sum of values surrounded by black lines in the confusion matrix) at the top means that the neural network mispredicted the input digit images as '3' mostly (denoted by 'misprediction as '3"), and the highest value '222' (sum of values surrounded by red lines in confusion matrix) at the right means that the class '8' is mostly mispredicted by the neural network (denoted by 'misprediction of '8"). Because some specific digits like '3' and '8' showed distinctive results in confusion matrix, we compared a digit-wise accuracy during the training. The digit-wise accuracy is defined as the number of correct predictions divided by the number of actual images for each digit. Digit '0' and '1' outperform in accuracy while digit '8' shows low accuracy overall in Fig. 3c. Although '3' and '8' show the top-2 highest attempt/success ratio (shown in Fig. 3d), the accuracy of '3' is much higher than the accuracy of '8'. The improved result (denoted by 'Drift') shows that the number of misprediction as '3' is reduced from 205 to 109 and the number of misprediction of '8' is reduced from 222 to 76 significantly. The SSL shows accuracy improvement for most of the digits, especially better for '8' as found in Fig. 3f.
 
 ---
 
-### The impact of learning multiple real-world skills on cognitive abilities and functional independence in healthy older adults [^c2f01534]. The Journals of Gerontology: Series B, Psychological Sciences and Social Sciences (2023). Medium credibility.
+### The impact of learning multiple real-world skills on cognitive abilities and functional independence in healthy older adults [^115z1Erw]. The Journals of Gerontology: Series B, Psychological Sciences and Social Sciences (2023). Medium credibility.
 
 Measures
 
@@ -210,7 +210,7 @@ A baseline assessment (Week 0) was added in Study 2, so that the participants co
 
 ---
 
-### Perceived stress and cognitive decline: the moderating role of emotion regulation [^c517b75a]. Innovation in Aging (2025). Medium credibility.
+### Perceived stress and cognitive decline: the moderating role of emotion regulation [^1163CXYd]. Innovation in Aging (2025). Medium credibility.
 
 Emotion regulation
 
@@ -226,13 +226,13 @@ Participants self-reported their status on sociodemographic variables as part of
 
 ---
 
-### Predictors of hand function following digit replantation: quantitative review and meta-analysis [^032ffa4f]. Hand (2021). Medium credibility.
+### Predictors of hand function following digit replantation: quantitative review and meta-analysis [^1115j5Xc]. Hand (2021). Medium credibility.
 
 Background: Digit replantation affords the opportunity to restore hand function following amputation. To date, however, few studies have evaluated functional outcomes following replantation. Therefore, it was the objective of this study to perform a meta-analysis to better characterize the predictors of hand function. Methods: A literature search was performed using the PubMed database to identify studies that focused on digit amputation/replantation and functional outcomes. Studies were evaluated for patient- and injury-related factors and their respective effects on clinical outcomes of sensation, grip strength, and Disabilities of the Arm, Shoulder, and Hand (DASH) scores. Statistical analysis was conducted across the pooled data set to identify significant trends. Results: Twenty-eight studies representing 618 replanted digits were included in this study. We found the average grip strength was 78.7% (relative to contralateral), the average 2-point discrimination (2PD) was 7.8 mm, and the average DASH score was 12.81. After conducting statistical analysis, we found patients with more proximal injuries had lower grip strength scores (P < .05). We found 2PD scores were influenced by age, mechanism of injury, and amputation level (P < .05). Finally, we found DASH scores after replantation were predicted by mechanism of injury and level of amputation (P < .05). The following variables did not influence outcomes: gender, tobacco use, ischemia time, and digit number. Conclusions: Digit replant does not restore premorbid hand function but does result in adequate hand function. Expected functional outcomes following replant should be considered in the decision-making process. These data can help risk-stratify patients, guide postreplant expectations, and influence the decision for replantation.
 
 ---
 
-### A randomised controlled intervention trial evaluating the efficacy of a mediterranean dietary pattern on cognitive function and psychological wellbeing in healthy older adults: the medLey study [^b1f1af58]. BMC Geriatrics (2015). Low credibility.
+### A randomised controlled intervention trial evaluating the efficacy of a mediterranean dietary pattern on cognitive function and psychological wellbeing in healthy older adults: the medLey study [^115YozHM]. BMC Geriatrics (2015). Low credibility.
 
 Short-term memory and working memory
 
@@ -242,7 +242,7 @@ For the LNS task, participants are presented with strings of numbers and letters
 
 ---
 
-### Depression, anxiety and cognitive function in persons with inflammatory rheumatic diseases: cross-sectional results from the German national cohort (NAKO) [^c0d3d9a1]. RMD Open (2024). Medium credibility.
+### Depression, anxiety and cognitive function in persons with inflammatory rheumatic diseases: cross-sectional results from the German national cohort (NAKO) [^115vsnHE]. RMD Open (2024). Medium credibility.
 
 Generalised Anxiety Disorder Questionnaire (GAD-7)
 
@@ -258,7 +258,7 @@ In the word list recall tests 1–3, participants were asked three times, one de
 
 ---
 
-### Testing bidirectionality in associations of awareness of age-related gains and losses with physical, mental, and cognitive functioning across 1 year: the role of age [^46f079ce]. The Journals of Gerontology: Series B, Psychological Sciences and Social Sciences (2023). Medium credibility.
+### Testing bidirectionality in associations of awareness of age-related gains and losses with physical, mental, and cognitive functioning across 1 year: the role of age [^112pAuaD]. The Journals of Gerontology: Series B, Psychological Sciences and Social Sciences (2023). Medium credibility.
 
 Mental Health
 
@@ -272,7 +272,7 @@ Cognitive functioning was measured with the PROTECT Cognitive Test Battery, whic
 
 ---
 
-### Melanoma staging: varying precision and terminal digit clustering in breslow thickness data is evident in a population-based study [^8b72dbf3]. Journal of the American Academy of Dermatology (2018). Low credibility.
+### Melanoma staging: varying precision and terminal digit clustering in breslow thickness data is evident in a population-based study [^114Zjrot]. Journal of the American Academy of Dermatology (2018). Low credibility.
 
 Background
 
@@ -300,7 +300,7 @@ The Norwegian recommendation of measurement to the nearest 0.1 mm was not follow
 
 ---
 
-### A soft photopolymer cuboid that computes with binary strings of white light [^3d3bff3f]. Nature Communications (2019). High credibility.
+### A soft photopolymer cuboid that computes with binary strings of white light [^112ZnQ2a]. Nature Communications (2019). High credibility.
 
 Fig. 5
 Binary arithmetic. Schemes of addition of a 01 + 10 and b 01 + 01. Addends are input as binary strings through Beams Y and Z; place values are indicated. The result is contained in the antidiagonal of the output (yz plane). Carrier configurations 0D (red spots) = 0, 1DV (green spots), 1DH (blue spots) = 1, 2D (gray spots) = 0C1. c Addition is commutative and different addend pairs generate different output patterns but the same sum; examples from the 2² × 2² system are tabulated. Any addend may be added on the grid, provided that the sum does not exceed N digits for a 2ᴺ × 2ᴺ grid. Shorter binary strings are accommodated by appending leading zeroes as shown in d for the sum of 10010 and 1010 performed on a 2⁵ × 2⁵ system. Subtraction is accomplished by adding the two's complement of the minuend. We determine e the difference between 10010 and 1010 by adding 10110 and dropping the leftmost digit. This occurs naturally as the bottom–left voxel signifies a carried digit that cannot be contained within the grid. f A flowchart summarizing the steps of an addition algorithm including the treatment of carried over digits as exemplified in the accompanying output pattern corresponding to the sum of 01011 and 00110. (c – f scale bar = 500 μm)
@@ -309,7 +309,7 @@ The system is scalable. For a 2ᴺ × 2ᴺ system, the maximum computable sum = 
 
 ---
 
-### Cognitive performance in dialysis patients-"when is the right time to test? " [^c099248e]. BMC Nephrology (2021). Medium credibility.
+### Cognitive performance in dialysis patients-"when is the right time to test? " [^115vY4a1]. BMC Nephrology (2021). Medium credibility.
 
 RBANS
 
@@ -349,7 +349,7 @@ All subtests of the RBANS were scored according to standardized age-adjusted cri
 
 ---
 
-### Impact of left-digit age bias in the treatment of localized prostate cancer [^a5ab9f4c]. The Journal of Urology (2022). Medium credibility.
+### Impact of left-digit age bias in the treatment of localized prostate cancer [^115EcbyD]. The Journal of Urology (2022). Medium credibility.
 
 Purpose
 
@@ -369,19 +369,19 @@ In patients with localized prostate cancer, left-digit age change from 69 to 70 
 
 ---
 
-### Pediatric application of coding and valuation systems [^ed7257ad]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^11752UMr]. Pediatrics (2019). High credibility.
 
 Pediatric coding — CPT within HCPCS and National Drug Code (NDC) usage explains that the American Medical Association (AMA) maintains and annually publishes CPT, CPT is level I of HCPCS, and HCPCS level II identifies products/services not in CPT and is produced and maintained by CMS; CMS often creates G codes within level II. For medications, drug products are reported by an NDC, a "10-digit, 3-segment number"; the first segment has "4 to 5 numbers" for the labeler, the second has "3 to 4 numbers" for strength and form, and the third is a "1- to 2-digit number" for package size/types; Medicare and many payers require NDC code reporting on medication claims.
 
 ---
 
-### Use of ICD-10 diagnoses in Danish psychiatric hospital-based services in 2001–2007 [^341dd951]. World Psychiatry (2010). Low credibility.
+### Use of ICD-10 diagnoses in Danish psychiatric hospital-based services in 2001–2007 [^112LGPA8]. World Psychiatry (2010). Low credibility.
 
 The Danish version of the ICD-10 chapter on mental and behavioural disorders has 380 different diagnoses when three digits are used. This study examines how many of the available diagnoses were used and to what extent in Danish psychiatric hospital-based services in the period from 2001 to 2007, through an analysis of the total number of diagnoses reported to the Danish Psychiatric Central Research Register (n = 1,260,097). The 50th percentile (50.1%) was reached by using 16 diagnoses (4.2% of 380 available). The three most frequently registered diagnoses were paranoid schizophrenia, alcohol dependence and adjustment disorder, used 10.2%, 8.3% and 5.9% of the times, respectively. Seven diagnoses (1.8%) were used between 1 and 4 times during the 7-year period. One hundred nine (28.7% of available diagnoses) were used less than 100 times each. These data suggest that it may be sensible to reconsider the number of diagnoses needed in the revision of the ICD-10 chapter on mental and behavioural disorders.
 
 ---
 
-### Working memory training restores aberrant brain activity in adult attention-deficit hyperactivity disorder [^d0bbb80f]. Human Brain Mapping (2020). Medium credibility.
+### Working memory training restores aberrant brain activity in adult attention-deficit hyperactivity disorder [^116LTUgE]. Human Brain Mapping (2020). Medium credibility.
 
 2.3.3 Digit and visuospatial running memory
 
@@ -397,7 +397,7 @@ In the continuous performance test (CPT) task, participants were presented with 
 
 ---
 
-### Distributed functional connectivity predicts neuropsychological test performance among older adults [^79e1903f]. Human Brain Mapping (2021). Medium credibility.
+### Distributed functional connectivity predicts neuropsychological test performance among older adults [^1147hGRt]. Human Brain Mapping (2021). Medium credibility.
 
 2.2.2 KSHAP neuropsychological test
 
@@ -405,7 +405,7 @@ To test the generalizability of the predictive model, we identified eight homolo
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^3c9a2b7d]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^112Yr3P2]. BMJ (2021). Excellent credibility.
 
 Statistical analysis
 
@@ -427,7 +427,7 @@ Conversations with members of the public inspired this study, because many indic
 
 ---
 
-### Association between recent real-life exposure to hypoglycaemia and cognitive function during hypoglycaemia in people with type 1 diabetes: findings from the hypo-RESOLVE clamp study [^befa4a5b]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
+### Association between recent real-life exposure to hypoglycaemia and cognitive function during hypoglycaemia in people with type 1 diabetes: findings from the hypo-RESOLVE clamp study [^115t8ibU]. Diabetes, Obesity & Metabolism (2025). Medium credibility.
 
 2.4 Cognitive tests
 
@@ -437,7 +437,7 @@ On the procedure day, 11 of the included participants did not complete the TAP V
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^baf32a8c]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^115nANgB]. BMJ (2021). Excellent credibility.
 
 Results
 
@@ -452,7 +452,7 @@ Reliability of rater measurement of the second-to-fourth digit ratio, by measure
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^c387b577]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^115ztAmt]. BMJ (2021). Excellent credibility.
 
 Digit ratio data collection
 
@@ -469,7 +469,7 @@ Poker hands were classified and ranked according to standard poker rules (that i
 
 ---
 
-### Review of the molecular development of the thumb: digit primera [^b2463083]. Clinical Orthopaedics and Related Research (2014). Low credibility.
+### Review of the molecular development of the thumb: digit primera [^115ZJNZg]. Clinical Orthopaedics and Related Research (2014). Low credibility.
 
 Background
 
@@ -477,7 +477,7 @@ The thumb, or digit 1, is not a typical digit. In addition to its unusual mobili
 
 ---
 
-### Prevalence of tuberculosis in children after natural disasters, bohol, Philippines [^50f4b513]. Emerging Infectious Diseases (2019). Medium credibility.
+### Prevalence of tuberculosis in children after natural disasters, bohol, Philippines [^11352Cpz]. Emerging Infectious Diseases (2019). Medium credibility.
 
 Using 7 households per cluster and an estimated minimum average of 3 children per household, we determined we needed 200 clusters to obtain our sample size. The 200 clusters comprised 100 clusters chosen from the municipalities that suffered the greatest effects of the natural disasters (heavily affected areas) and 100 clusters from municipalities that suffered fewer effects (less affected areas) based on data from the Provincial Health Office (Reymoses Cabagnot, Provincial Health Officer, pers. comm. 2015 Aug 17). We randomly selected 7 municipalities each from heavily affected and less affected areas, providing 14 municipalities total for sampling.
 
@@ -485,7 +485,7 @@ To select the 200 clusters, we alphabetically arranged the names of all villages
 
 ---
 
-### Clinical decision support and cardiometabolic medication adherence: a randomized clinical trial [^61d00d0b]. JAMA Network Open (2025). High credibility.
+### Clinical decision support and cardiometabolic medication adherence: a randomized clinical trial [^113W1gVg]. JAMA Network Open (2025). High credibility.
 
 The diabetes cohort included individuals with hemoglobin A 1c (HbA 1c) greater than or equal to 8% (to convert to proportion of total hemoglobin, multiply by 0.01) and PDC less than 80% for all medications in at least 1 of the noninsulin glucose-lowering medication classes (metformin, sulfonylurea, meglitinide, glucagonlike peptide-1 receptor agonist, sodium-glucose cotransporter 2 inhibitor, dipeptidyl peptidase-4 inhibitor, or thiazolidinedione).
 
@@ -499,7 +499,7 @@ Patient-level randomization of study-eligible patients was done at the time of a
 
 ---
 
-### The genetic relationship between educational attainment and cognitive performance in major psychiatric disorders [^fc60a14a]. Translational Psychiatry (2019). Medium credibility.
+### The genetic relationship between educational attainment and cognitive performance in major psychiatric disorders [^117TALXB]. Translational Psychiatry (2019). Medium credibility.
 
 Trail-Making-Test (TMT)
 
@@ -519,7 +519,7 @@ The VLMT is the German version of the Auditory Verbal Learning Test. This word-l
 
 ---
 
-### Second to fourth digit ratio (2D: 4D), breast cancer risk factors, and breast cancer risk: a prospective cohort study [^6b941821]. British Journal of Cancer (2012). Low credibility.
+### Second to fourth digit ratio (2D: 4D), breast cancer risk factors, and breast cancer risk: a prospective cohort study [^113kVRGC]. British Journal of Cancer (2012). Low credibility.
 
 Results
 
@@ -529,7 +529,7 @@ Of the 9044 women available for this study, we identified 573 incident breast ca
 
 ---
 
-### Distinct and convergent beneficial effects of estrogen and insulin on cognitive function in healthy young men [^1b7a181e]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Distinct and convergent beneficial effects of estrogen and insulin on cognitive function in healthy young men [^111hjgCM]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Short-term memory and recognition
 
@@ -541,7 +541,7 @@ Participants performed the digit span subtest of the Hamburg-Wechsler Adult Inte
 
 ---
 
-### The neural basis of metacognitive monitoring during arithmetic in the developing brain [^01e6e3ca]. Human Brain Mapping (2020). Medium credibility.
+### The neural basis of metacognitive monitoring during arithmetic in the developing brain [^1113pYNu]. Human Brain Mapping (2020). Medium credibility.
 
 FIGURE 1
 Schematic overview of the arithmetic task. Overview of (a) run, (b) block, and (c) trial
@@ -556,7 +556,7 @@ Each participant was presented with a set of 150 multiplication items. A list of
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^e344c654]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^116owHoy]. BMJ (2021). Excellent credibility.
 
 Comparison of 2D:4D by sex, hand, and measurement technique
 
@@ -570,7 +570,7 @@ Histograms of second-to-fourth digit ratios (2D:4D) by participant hand measured
 
 ---
 
-### Long-term effects of compulsory schooling on physical, mental and cognitive ageing: a natural experiment [^9042a05c]. Journal of Epidemiology and Community Health (2019). Medium credibility.
+### Long-term effects of compulsory schooling on physical, mental and cognitive ageing: a natural experiment [^114gsbZu]. Journal of Epidemiology and Community Health (2019). Medium credibility.
 
 Outcomes
 
@@ -582,7 +582,7 @@ Physical functioning is assessed based on three objective health measures. Hand 
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^d20e34c0]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^116NRAwH]. BMJ (2021). Excellent credibility.
 
 Discussion
 
@@ -595,7 +595,7 @@ Readers unaware of our study's intent could interpret our results as showing tha
 
 ---
 
-### Effect of age on the protein profile of healthy malay adults and its association with cognitive function competency [^ef2bc27f]. Journal of Alzheimer's Disease (2019). Medium credibility.
+### Effect of age on the protein profile of healthy malay adults and its association with cognitive function competency [^1177ajrv]. Journal of Alzheimer's Disease (2019). Medium credibility.
 
 Forward Digit Span (FDS)
 
@@ -615,7 +615,7 @@ There were two parts of this task, VRI and VRII. In VRI, four different cards we
 
 ---
 
-### Neural association between non-verbal number sense and arithmetic fluency [^3b9765a4]. Human Brain Mapping (2020). Medium credibility.
+### Neural association between non-verbal number sense and arithmetic fluency [^112XM85Z]. Human Brain Mapping (2020). Medium credibility.
 
 2.3.2 Numerosity comparison
 
@@ -635,7 +635,7 @@ Two Chinese characters were presented simultaneously on the screen. Participants
 
 ---
 
-### Cognitive-motor multitasking in older adults: a randomized controlled study on the effects of individual differences on training success [^eb4e118e]. BMC Geriatrics (2022). Medium credibility.
+### Cognitive-motor multitasking in older adults: a randomized controlled study on the effects of individual differences on training success [^1171rK89]. BMC Geriatrics (2022). Medium credibility.
 
 Global cognition is assessed using the Digit-Symbol-Substitution test (DSST). This test is part of the Wechsler Adult Intelligence Scale and is performed as paper-and-pencil tests. It consists of nine digit-symbol pairs followed by a list of digits with blank cells below. Participants are required to write the corresponding symbol in each blank cell below the digits as quickly as possible. The number of correct symbols within 90 sec is analyzed.
 
@@ -649,13 +649,13 @@ Bimanual dexterity is measured with the Purdue Pegboard test. The Pegboard consi
 
 ---
 
-### Transcriptomic analysis of avian digits reveals conserved and derived digit identities in birds [^9abef665]. Nature (2011). Excellent credibility.
+### Transcriptomic analysis of avian digits reveals conserved and derived digit identities in birds [^114xREeY]. Nature (2011). Excellent credibility.
 
 Morphological characters are the result of developmental gene expression. The identity of a character is ultimately grounded in the gene regulatory network directing development and thus whole-genome gene expression data can provide evidence about character identity. This approach has been successfully used to assess cell-type identity. Here we use transcriptomic data to address a long-standing uncertainty in evolutionary biology, the identity of avian wing digits. Embryological evidence clearly identifies the three wing digits as developing from digit positions 2, 3 and 4 (ref. 6), whereas palaeontological data suggest that they are digits I, II and III. We compare the transcriptomes of the wing and foot digits and find a strong signal that unites the first wing digit with the first foot digit, even though the first wing digit develops from embryological position 2. Interestingly, our transcriptomic data of the posterior digits show a higher degree of differentiation among forelimb digits compared with hindlimb digits. These data show that in the stem lineage of birds the first digit underwent a translocation from digit position 1 to position 2, and further indicate that the posterior wing digits have unique identities contrary to any model of avian digit identity proposed so far.
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^4ab12be2]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^112ujbS1]. BMJ (2021). Excellent credibility.
 
 Abstract
 
@@ -689,7 +689,7 @@ Greater prenatal exposure to testosterone, as estimated by a lower 2D:4D, signif
 
 ---
 
-### United States medical licensing examination step 1 two-digit score: a correlation with the American board of pathology first-time test taker pass / fail rate at the university of Pittsburgh medical center [^e3df6a29]. Archives of Pathology & Laboratory Medicine (2011). Low credibility.
+### United States medical licensing examination step 1 two-digit score: a correlation with the American board of pathology first-time test taker pass / fail rate at the university of Pittsburgh medical center [^116pqESU]. Archives of Pathology & Laboratory Medicine (2011). Low credibility.
 
 Context
 
@@ -713,7 +713,7 @@ In the UPMC pathology program, 2-digit scores on USMLE step 1 of 90 or more and 
 
 ---
 
-### Vortioxetine (Trintellix) [^c7cea8f6]. FDA (2025). Medium credibility.
+### Vortioxetine (Trintellix) [^1167Dx9B]. FDA (2025). Medium credibility.
 
 Time Course of Treatment Response
 
@@ -733,7 +733,7 @@ The effects observed on DSST may reflect improvement in depression. Comparative 
 
 ---
 
-### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^8cd59f23]. BMJ (2021). Excellent credibility.
+### Giving science the finger-is the second-to-fourth digit ratio (2D: 4D) a biomarker of good luck? A cross sectional study [^114bo28z]. BMJ (2021). Excellent credibility.
 
 Relation between 2D:4D and outcome measures
 
@@ -750,13 +750,13 @@ Scatter plots of second-to-fourth digit ratios (2D:4D) versus poker hand rank by
 
 ---
 
-### Smartphone-based symbol-digit modalities test reliably captures brain damage in multiple sclerosis [^e39208e0]. NPJ Digital Medicine (2021). Medium credibility.
+### Smartphone-based symbol-digit modalities test reliably captures brain damage in multiple sclerosis [^116pPExP]. NPJ Digital Medicine (2021). Medium credibility.
 
 As the burden of neurodegenerative diseases increases, time-limited clinic encounters do not allow quantification of complex neurological functions. Patient-collected digital biomarkers may remedy this, if they provide reliable information. However, psychometric properties of digital tools remain largely un-assessed. We developed a smartphone adaptation of the cognitive test, the Symbol-Digit Modalities Test (SDMT) by randomizing the test's symbol-number codes and testing sequences. The smartphone SDMT showed comparable psychometric properties in 154 multiple sclerosis (MS) patients and 39 healthy volunteers (HV). E.g., smartphone SDMT achieved slightly higher correlations with cognitive subscores of neurological examinations and with brain injury measured by MRI (R² = 0.75, Rho = 0.83, p < 0.0001) than traditional SDMT. Mathematical adjustment for motoric disability of the dominant hand, measured by another smartphone test, compensates for the disadvantage of touch-based test. Averaging granular home measurements of the digital biomarker also increases accuracy of identifying true neurological decline.
 
 ---
 
-### 1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans [^67dd627b]. Translational Psychiatry (2021). Medium credibility.
+### 1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans [^113ez5wx]. Translational Psychiatry (2021). Medium credibility.
 
 For the copy number dosage effect analysis (i.e. the effect on brain structure of 1q21.1 distal copy number variation), a linear regression on the copy number status of the individuals (deletion = 1, normal = 2, duplication = 3) was performed using the following model: covariance-corrected, normalized brain measure ~ copy number (deletion = 1, non-carrier = 2, duplication = 3). For comparison between groups, a two-sample, two-sided t test assuming equal variance in all carrier/non-carrier groups was employed (R v3.3.2) where deletion or duplication carriers were compared either to each other or to non-carriers. To correct for the multiple comparisons, we calculated the number of independent outcome measures through the spectral decomposition of a correlation matrix using MatSpDlite of the three global, seven subcortical and 68 regional cortical measures. Based on the ratio of observed eigenvalue variance to its theoretical maximum, the estimated equivalent of independent measures was 36. Thus, we set the significance threshold at α = 0.05/36 = 0.0014. We report the uncorrected P values throughout the manuscript.
 
@@ -770,7 +770,7 @@ We downloaded behavioural performance measures on seven cognitive tests (the pai
 
 ---
 
-### Determinants of cognitive dysfunction in adults with sickle cell-related stroke or suspected neurological morbidity [^a3d0da40]. Blood Advances (2024). Medium credibility.
+### Determinants of cognitive dysfunction in adults with sickle cell-related stroke or suspected neurological morbidity [^115Bs8iB]. Blood Advances (2024). Medium credibility.
 
 Executive functioning
 
@@ -782,7 +782,7 @@ The Hospital Anxiety and Depression Scalewas used to assess the patient's curren
 
 ---
 
-### Neuropsychological test performance of cognitively healthy centenarians: normative data from the Dutch 100-plus study [^20228cd9]. Journal of the American Geriatrics Society (2019). Medium credibility.
+### Neuropsychological test performance of cognitively healthy centenarians: normative data from the Dutch 100-plus study [^111peD7N]. Journal of the American Geriatrics Society (2019). Medium credibility.
 
 Neuropsychological Tests
 
@@ -792,7 +792,7 @@ The MMSE was used to evaluate global cognition. 21 We addressed premorbid intell
 
 ---
 
-### 20140714.NGHP. ErrorCodes.txt-cob.cms.hhs.gov… [^7b711676]. cob.cms.hhs.gov (2025). Medium credibility.
+### 20140714.NGHP. ErrorCodes.txt-cob.cms.hhs.gov… [^114A1Tnm]. cob.cms.hhs.gov (2025). Medium credibility.
 
 CC07 Claimant 1 Mailing Address Line 2 "Optional. If field greater than spaces, field must contain at least 2 alphanumeric characters". CC30 Claimant 2 Zip "If Claimant 2 Relationship is not equal to spaces, field must contain a valid 5-digit numeric US Zip Code. If Claimant 2 Relationship equal to spaces, field must be equal to zeroes. If Claimant 2 State = "FC", field must be equal to all zeroes". CC32 Claimant 2 Phone "If Claimant 2 Relationship is not equal to spaces, field must contain a non-zero 10-digit numeric value. If Claimant 2 Relationship equal to spaces, field must be equal to zeroes. If Claimant 2 State = "FC", field must be equal to all zeroes". CC34 Claimant 2 Entity/Organization Name "If Claimant 2 Relationship equal to space, field must contain spaces. If Claimant 2 Relationship = "X", "Y", or "Z", field must contain alpha and/or numeric characters, spaces, commas, &
 - '. @ /: ;. and field must contain at least 2 non-space alphanumeric characters".
@@ -801,7 +801,7 @@ CC52 Claimant 3 Phone "If Claimant 3 Relationship is not equal to spaces, field 
 
 ---
 
-### The association of APOE genotype and cognitive decline in interaction with risk factors in a 65–69 year old community sample [^ed76fecc]. BMC Geriatrics (2008). Low credibility.
+### The association of APOE genotype and cognitive decline in interaction with risk factors in a 65–69 year old community sample [^1175431D]. BMC Geriatrics (2008). Low credibility.
 
 Cognitive tests
 
@@ -829,7 +829,7 @@ Cognitive change scores were calculated for each test by subtracting Wave 1 scor
 
 ---
 
-### NHANES 2011–2012: cognitive functioning data documentation, codebook, and frequencies… [^fb540e14]. wwwn.cdc.gov (2011). Low credibility.
+### NHANES 2011–2012: cognitive functioning data documentation, codebook, and frequencies… [^117Rc8Fu]. wwwn.cdc.gov (2011). Low credibility.
 
 Each assessment is described, in brief: The CERAD Word Learning subtest assesses immediate and delayed learning ability for new verbal information. It has been used in major epidemiologic studies with diverse racial and cultural communities. The test consists of three consecutive learning trials, and a delayed recall. For the learning trials, participants are instructed to read aloud 10 unrelated words, one at a time, as they are presented. Immediately following the presentation of the words, participants recall as many words as possible. In each of the three learning trials, the order of the 10 words is changed. The maximum score possible on each trial is 10. In NHANES, the words for the learning trials were presented in large bolded letters on a computer monitor. Participants who were unable to read, due to literacy or visual impairment, were asked to repeat each word after it was read by the interviewer.
 
@@ -839,7 +839,7 @@ The score is the total number of correct matches. A sample practice test is admi
 
 ---
 
-### Alternatives for measuring sitting accumulation in workplace surveys [^550a39ae]. Journal of Occupational and Environmental Medicine (2021). Medium credibility.
+### Alternatives for measuring sitting accumulation in workplace surveys [^113B5PAD]. Journal of Occupational and Environmental Medicine (2021). Medium credibility.
 
 The final questionnaire can be found in Supplemental Digital Content (Text, Supplemental Digital Content 1, copy of questionnaire). Briefly it contained seven candidate measures of sitting accumulation, some that enquire directly regarding accumulation (1 to 3) and some (4 to 7) that may capture accumulation indirectly while enquiring about other facets of sedentary behavior. These were:
 
@@ -852,13 +852,13 @@ The final questionnaire can be found in Supplemental Digital Content (Text, Supp
 
 ---
 
-### Index finger pollicization [^9dd7d354]. The Journal of Hand Surgery (2011). Low credibility.
+### Index finger pollicization [^11531Ys5]. The Journal of Hand Surgery (2011). Low credibility.
 
 The thumb is a specialized organ with unique functions that cannot be replicated by any other digit. The most powerful technique for construction of a missing thumb is index finger pollicization. In this article, we outline our technique for index finger pollicization. Over a 30-year period, certain technical refinements have improved the function and appearance of these transposed digits.
 
 ---
 
-### Broadband generation of perfect poincarébeams via dielectric spin-multiplexed metasurface [^11d04e36]. Nature Communications (2021). High credibility.
+### Broadband generation of perfect poincarébeams via dielectric spin-multiplexed metasurface [^111TQkuj]. Nature Communications (2021). High credibility.
 
 Optical information encryption
 
@@ -866,7 +866,7 @@ In the previous section, using a dielectric metasurface we have demonstrated the
 
 ---
 
-### Meta-analysis shows associations of digit ratio (2d: 4d) and transgender identity are small at best [^ad289c49]. Endocrine Practice (2018). Low credibility.
+### Meta-analysis shows associations of digit ratio (2d: 4d) and transgender identity are small at best [^115RiVui]. Endocrine Practice (2018). Low credibility.
 
 Abbreviations
 
@@ -874,14 +874,14 @@ Abbreviations
 
 ---
 
-### Augmented manipulation ability in humans with six-fingered hands [^3491940a]. Nature Communications (2019). High credibility.
+### Augmented manipulation ability in humans with six-fingered hands [^112LwFkM]. Nature Communications (2019). High credibility.
 
 Fig. 3
 Hands with supernumerary fingers perform more complex movements. Subplots (a – f) report on analyses of hand movements recorded during manipulation of objects of various shapes. The movement task was carried out by two six- and 13 five-fingered subjects. a Dependency between individual fingers quantified by the mutual information between the movements of pairs of fingers, with a value of 0 indicating complete independence between fingers and positive values an increasing dependency. Note that the mutual information is symmetric, i.e. b The cumulative amount of explained variance of hand movements as a function of an increasing number of principal components. Error bars depict SDs across subjects. c The number of effective dof (computed using the principle components, see Methods) was higher in six-fingered than in five-fingered subjects. d Information entropy of the discretized movements where each finger is either resting, flexing or extending. Entropy is shown for an increasing number of fingers, starting with thumb only ("T") and successively adding one finger (index "I", middle "M", ring "R", little "L" and supernumerary "S"). Dotted lines indicate the theoretically maximum possible entropy for five- and six-fingered hands. e Percentage of times thumb and index finger ("T + I"), thumb only ("T"), index only ("I") were moving when the supernumerary finger moved. From left to right: different percentiles of the speed distribution were used as thresholds to separate rest from movement. f Median movement speed of individual fingers for five- and six-fingered subjects. Subplots (g, h) show results from the video game experiment. g Schematic of the task, subjects were required to press a button corresponding to the bottom white targets every time an oscillating cursor (green or red) entered the box. The target boxes flashed blue if a correctly timed press occurred and displayed as red if an incorrectly timed press occurred. Horizontal bars at the bottom of the screen displayed the fraction of correct key presses (top) and one minus the fraction of missed (bottom) key presses. h Subjects' learning curve for the 5 + 1 (dotted) and 6 finger (solid) control. Digits used shown in the inset in dark gray
 
 ---
 
-### Similar somatotopy for active and passive digit representation in primary somatosensory cortex [^ef95feea]. Human Brain Mapping (2023). Medium credibility.
+### Similar somatotopy for active and passive digit representation in primary somatosensory cortex [^1178CRWH]. Human Brain Mapping (2023). Medium credibility.
 
 2.6 Key analyses
 
@@ -893,7 +893,7 @@ To assess the spatial correspondence between digit representations in the active
 
 ---
 
-### Peripheral microangiopathy in precapillary pulmonary hypertension: a nailfold video capillaroscopy prospective study [^60f69ff0]. Respiratory Research (2021). Medium credibility.
+### Peripheral microangiopathy in precapillary pulmonary hypertension: a nailfold video capillaroscopy prospective study [^113Ukeh5]. Respiratory Research (2021). Medium credibility.
 
 As irregularly enlarged were characterized capillaries with apical limb width > 20 μm and < 50 μm and as giant, homogeneously enlarged capillaries with apical limb width ≥ 50 μm. The mean of each capillaroscopic feature was calculated from the sum of consecutive images for each digit. Subsequently, the average values from eight fingers were added together and divided by the number of studied digits. The resulting value indicated the number of this capillaroscopic feature adjusted by each millimeter of the nailfold.
 
@@ -901,7 +901,7 @@ The "overall pattern recognition" was qualitatively assessed based on capillary 
 
 ---
 
-### A phase 1c trial comparing the efficacy and safety of a new aqueous formulation of alphaxalone with propofol [^bf68faf8]. Anesthesia and Analgesia (2015). Low credibility.
+### A phase 1c trial comparing the efficacy and safety of a new aqueous formulation of alphaxalone with propofol [^115tmu1R]. Anesthesia and Analgesia (2015). Low credibility.
 
 Digit Symbol Substitution Test
 
@@ -917,13 +917,13 @@ Venous blood was taken for the measurement of total blood count, liver function 
 
 ---
 
-### Impaired digit span can predict further cognitive decline in older people with subjective memory complaint: a preliminary result [^17ad9424]. Aging & Mental Health (2011). Low credibility.
+### Impaired digit span can predict further cognitive decline in older people with subjective memory complaint: a preliminary result [^111c724s]. Aging & Mental Health (2011). Low credibility.
 
 Subjective memory complaint (SMC) is common among elderly people, and is thought to be part of mild cognitive impairment (MCI). We evaluated whether impaired digit span (IDS) in older people with SMC can predict wider impairment in future neuropsychological tests that correspond to MCI. After a mean of 6.6 years from the initial assessment, we reevaluated 16 subjects with SMC and normal digit span (NDS) scores (mean age 57.6 ± 8.1 years) and 28 subjects with SMC and IDS scores (mean age 59.7 ± 9.9 years). The IDS group showed wider cognitive decline in tests of short-term verbal memory and category verbal fluency compared to the NDS group. IDS scores indicate an earlier step for conversion of SMC to MCI.
 
 ---
 
-### The Montreal cognitive assessment: normative data from a large Swedish population-based cohort [^26b036c6]. Journal of Alzheimer's Disease (2017). Low credibility.
+### The Montreal cognitive assessment: normative data from a large Swedish population-based cohort [^111zMidj]. Journal of Alzheimer's Disease (2017). Low credibility.
 
 MoCA administration and scoring
 
@@ -935,7 +935,7 @@ We screened for cognitive impairment with the MMSE and AQT. The MMSE assesses gl
 
 ---
 
-### Second to fourth digit ratio and prostate cancer severity [^27d0a2f0]. Prostate Cancer and Prostatic Diseases (2013). Low credibility.
+### Second to fourth digit ratio and prostate cancer severity [^11222bZH]. Prostate Cancer and Prostatic Diseases (2013). Low credibility.
 
 Background
 
@@ -955,19 +955,19 @@ Conclusion
 
 ---
 
-### Neuropsychological functioning and jumping to conclusions in delusions [^6490482d]. Schizophrenia Research (2013). Low credibility.
+### Neuropsychological functioning and jumping to conclusions in delusions [^113a6E28]. Schizophrenia Research (2013). Low credibility.
 
 There were no differences in premorbid IQ between those who jumped to conclusions and those who did not. When the JTC group was defined by the more difficult (60:40) version of the task, those who jumped to conclusions performed significantly worse (p values < 0.05) on tests of working memory (Digit Span total and forwards, and Letter–Number Sequencing) and also at trend level (p = 0.09) on Digit Span backwards. Those with the JTC bias on the easy (85:15) version likewise performed more poorly on the tests of working memory (Digit Span total and backwards, and Letter–Number Sequencing), but at trend level (0.05 < p values < 0.1). Both JTC (easy and hard) groups showed poorer performance on the Rey test of verbal learning and memory (RAVLT), but this failed to reach significance (0.05 < p values < 0.1). In order to explore whether working memory contributed to the (non-significant) difference between the groups in performance on this test, we ran a further analysis, in which we controlled for digit span forwards and letter–number sequencing. While there was no evidence for a contribution from digit span forwards, there was an effect of letter–number sequencing. The mean differences were very little changed by adding in digit span forwards as a covariate, and digit span itself was not a significant predictor of RAVLT. However, letter–number sequencing had an impact, reducing the effect of JTC on the mean differences and significantly predicting RAVLT (see Tables 1 and 2). A check on whether JTC performance differed by current level of medication (none, low, medium or high dosage) found no differences on either version of the task. Finally, whatever the version of the task, there were no differences between those who jumped to conclusions and those who did not in total positive and negative psychotic symptom scores (SAPS and SANS), in the SAPS global severity of delusions rating or in depression or anxiety (BDI and BAI) (see Tables 1 and 2). However, those who jumped to conclusions on the 85:15 version, but not the 60:40 version, scored significantly more highly than those who did not on a sum of all SAPS delusions items (see Tables 1 and 2).
 
 ---
 
-### Guidance on community viral load: a family of measures, definitions, and method for calculation [^5f767c11]. CDC (2011). Medium credibility.
+### Guidance on community viral load: a family of measures, definitions, and method for calculation [^113SXd3E]. CDC (2011). Medium credibility.
 
 Table 2 — additional community viral load (VL) measures — includes a cumulative measure defined as "Sum of VLs for all cases" that reflects "The number of virus particles in the population who have a VL; affected by the number of cases; reflects both prevalence of HIV cases and burden of viremia". A suppression proportion is defined by "The numerator is the number of cases whose most recent VL was suppressed; the denominator is the number of cases with a VL" and interpreted as "Maximal Virologic Suppression, or the percent virologically suppressed reflects ART uptake, adherence, and effectiveness in clinical settings; a quality of HIV care measure; in jurisdictions offering universal treatment, an important marker of uptake of universal ART guidelines". Calculation timing guidance notes "Time needs to be defined for each calculation, usually a 12-month period. Pooling over a few years can increase VL completeness but is harder to interpret". The abbreviation is specified as "ART, antiretroviral treatment".
 
 ---
 
-### The relationship between IQ, memory, executive function, and processing speed in recent-onset psychosis: 1-year stability and clinical outcome [^11ee0d95]. Schizophrenia Bulletin (2010). Low credibility.
+### The relationship between IQ, memory, executive function, and processing speed in recent-onset psychosis: 1-year stability and clinical outcome [^111TakSQ]. Schizophrenia Bulletin (2010). Low credibility.
 
 Predictors of 1-Year Clinical Outcome From Baseline WAIS-III Subscale Scores
 
@@ -975,7 +975,7 @@ We used the significant (P < .05) correlations between baseline clinical and WAI
 
 ---
 
-### Hand pattern indicates prostate cancer risk [^198eb9d5]. British Journal of Cancer (2011). Low credibility.
+### Hand pattern indicates prostate cancer risk [^111etda4]. British Journal of Cancer (2011). Low credibility.
 
 Background
 
@@ -995,7 +995,7 @@ Pattern of finger lengths may be a simple marker of prostate cancer risk, with l
 
 ---
 
-### Second to fourth digit ratio (2D: 4D) and prostate cancer risk in the melbourne collaborative cohort study [^0e92928f]. British Journal of Cancer (2011). Low credibility.
+### Second to fourth digit ratio (2D: 4D) and prostate cancer risk in the melbourne collaborative cohort study [^111Nc4Qe]. British Journal of Cancer (2011). Low credibility.
 
 Background
 
@@ -1015,7 +1015,7 @@ Our results are not consistent with an association between 2D:4D and overall pro
 
 ---
 
-### Hand burns surface area: a rule of thumb [^98e6dcae]. Burns (2018). Low credibility.
+### Hand burns surface area: a rule of thumb [^114ugfPb]. Burns (2018). Low credibility.
 
 Introduction
 
@@ -1035,7 +1035,7 @@ We have demonstrated how thumbprint area serves as a simple method for evaluatin
 
 ---
 
-### The Montreal cognitive assessment: normative data from a large Swedish population-based cohort [^3566efb1]. Journal of Alzheimer's Disease (2017). Low credibility.
+### The Montreal cognitive assessment: normative data from a large Swedish population-based cohort [^112NAvJC]. Journal of Alzheimer's Disease (2017). Low credibility.
 
 MOCA scores
 
@@ -1053,7 +1053,7 @@ Raw MoCA-scores not including an extra point for low education. Arrows show cut-
 
 ---
 
-### Sensory recovery 1 year after bridging digital nerve defects with collagen tubes [^71232475]. The Journal of Hand Surgery (2013). Low credibility.
+### Sensory recovery 1 year after bridging digital nerve defects with collagen tubes [^113tjQUU]. The Journal of Hand Surgery (2013). Low credibility.
 
 Purpose
 
@@ -1077,13 +1077,13 @@ Therapeutic IV.
 
 ---
 
-### ASGE guideline on the management of achalasia [^82912cb7]. Gastrointestinal Endoscopy (2020). High credibility.
+### ASGE guideline on the management of achalasia [^114La9sC]. Gastrointestinal Endoscopy (2020). High credibility.
 
 Wiley Cochrane Library search strategy for achalasia — numbered queries and yields are listed. MeSH descriptor "[Esophageal Achalasia] explode all trees" (#1) had 111, a text-word search "(cardiospasm or achalasia or megaesophagus or mega-esophagus or megaesophagus or mega-oesophagus); ti, ab" (#2) had 226, and "#1 or #2" (#3) had 231. With surgical qualifiers, "MeSH descriptor: [Esophageal Achalasia] explode all trees and with qualifier(s): [Surgery - SU]" (#4) had 38 and "MeSH descriptor: [Esophageal Sphincter, Lower] explode all trees and with qualifier(s): [Surgery - SU]" (#5) had 7. The procedure-term query "(myotomy or heller or peroral or per oral or poem or lhm); ti, ab" (#6) had 8540; combining these as "#4 or #5 or #6" (#7) had 8553; and the final combination "#3 and #7" (#8) had 114.
 
 ---
 
-### Finger counting training enhances addition performance in kindergarteners [^2bd5ff1d]. Child Development (2024). Medium credibility.
+### Finger counting training enhances addition performance in kindergarteners [^1127zM7A]. Child Development (2024). Medium credibility.
 
 This interaction was further modulated by Finger use group (i.e. Group × Finger use group × Testing point, F (1, 324) = 16.4, = .05, p < .001). Indeed, the experimental effect just described was higher in the group of 86 non‐finger users than in the group of 105 finger users. In fact, the positive effect of the training was significant only for non‐finger users (as seen above, from 37.3% at pre‐test to 77.1% at immediate post‐test, +39.8%, t (129) = 4.83, d = 0.89, p < .001) and not for finger users (from 81.8% at pre‐test to 92.4% at immediate post‐test, +10.6%, t (195) = 1.71, d = 0.24, p = .089).
 
@@ -1091,7 +1091,7 @@ Finally, analyses in the sub‐samples of non‐finger users from the experiment
 
 ---
 
-### Diagnosis of learning disabilities but not academic difficulties alone is associated with neurocognitive impairment in people living with HIV: evidence from clinical research to support and refine the current HAND diagnostic guidelines [^860b4e4f]. AIDS and Behavior (2025). Medium credibility.
+### Diagnosis of learning disabilities but not academic difficulties alone is associated with neurocognitive impairment in people living with HIV: evidence from clinical research to support and refine the current HAND diagnostic guidelines [^114Rj926]. AIDS and Behavior (2025). Medium credibility.
 
 No participant had a severe LD. It is probable that patients with severe LD would have received care in a different facility. In addition, all participants were able to complete the test battery further corroborating that none had a severe LD.
 
@@ -1101,7 +1101,7 @@ Individual raw neuropsychological test scores were converted into demographicall
 
 ---
 
-### Augmented manipulation ability in humans with six-fingered hands [^9b746492]. Nature Communications (2019). High credibility.
+### Augmented manipulation ability in humans with six-fingered hands [^114yUBCM]. Nature Communications (2019). High credibility.
 
 Next, we investigated the functional organization of the motor cortex in P1 using an individual finger tapping task and functional MRI at 7T high resolution. In order to highlight the specific representations of each finger, we compared the activity patterns generated by individual finger movements (Supplementary Fig. 3). The results show that the representation of the SF in the primary sensorimotor cortices was distinct from the representations of all other fingers, including the thumb (Fig. 2e, Supplementary Fig. 4). This demonstrates that separate neural resources are used to control movements of the SF in this six-fingered subject.
 
@@ -1111,19 +1111,19 @@ To infer the mental representation of the hand in our polydactyly subjects, we a
 
 ---
 
-### AASLD practice guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma [^4bbc4a51]. Hepatology (2023). High credibility.
+### AASLD practice guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma [^112wHKKv]. Hepatology (2023). High credibility.
 
 AASLD hepatocellular carcinoma — proposed expanded criteria for liver transplantation and associated outcomes include the following examples: UCSF criteria define "One tumor < 6.5 cm or 2–3 tumors, each < 4.5 cm, with total tumor volume ≤ 8 cm" with "81% 5-year survival"; a total tumor volume approach specifies "Sum of volume for each tumor ≤ 115 cm³" with "75% 4-year survival"; the up-to-seven criteria require "Diameter or largest tumor (cm) + number of tumors ≤ 7" with "71% 5-year survival"; the extended Toronto criteria state "Biopsy demonstrating well-to-moderate differentiation for patients beyond Milan criteria and ECOG performance status 0–1" with "68% 5-year survival"; and the Kyoto criteria use "Number of tumors ≤ 10, maximum diameter of each tumor ≤ 5 cm, and serum DCP ≤ 400 mAU/ml" with "65% 5-year survival".
 
 ---
 
-### Initial diagnostic workup of acute leukemia: guideline from the college of American pathologists and the American Society of Hematology [^fccc9899]. Archives of Pathology & Laboratory Medicine (2017). Medium credibility.
+### Initial diagnostic workup of acute leukemia: guideline from the college of American pathologists and the American Society of Hematology [^117TnbsN]. Archives of Pathology & Laboratory Medicine (2017). Medium credibility.
 
 Supplemental Table 12: Quality assessment for Statement 13 — prospective cohort studies summarizes six studies and evaluates domains including balance between treatment/assessment groups, reporting of baseline characteristics and of any adjustment when differences were present, funding source, and overall risk of bias assessment; the header specifies "Prospective Cohort Studies (N = 6)", and an example row documents responses such as "No (N)", "Yes (Y)", and "Not reported".
 
 ---
 
-### Norethindrone (Errin) [^469b60c1]. FDA (2024). Medium credibility.
+### Norethindrone (Errin) [^112ogKjW]. FDA (2024). Medium credibility.
 
 INSTRUCTIONS TO PATIENTS
 
@@ -1147,7 +1147,7 @@ Rev. 10/2023
 
 ---
 
-### Process and treatment of pedometer data collection for youth: the Canadian physical activity levels among youth study [^a2a5c058]. Medicine and Science in Sports and Exercise (2010). Low credibility.
+### Process and treatment of pedometer data collection for youth: the Canadian physical activity levels among youth study [^115A8fkT]. Medicine and Science in Sports and Exercise (2010). Low credibility.
 
 Background
 
@@ -1167,13 +1167,13 @@ The Canadian Physical Activity Levels among Youth demonstrates the feasibility o
 
 ---
 
-### Lateralized neural responses to letters and digits in first graders [^6163fb29]. Child Development (2019). Medium credibility.
+### Lateralized neural responses to letters and digits in first graders [^113VPP8C]. Child Development (2019). Medium credibility.
 
 The emergence of visual cortex specialization for culturally acquired characters like letters and digits, both arbitrary shapes related to specific cognitive domains, is yet unclear. Here, 20 young children (6.12 years old) were tested with a frequency-tagging paradigm coupled with electroencephalogram recordings to assess discrimination responses of letters from digits and vice-versa. One category of stimuli (e.g., letters) was periodically inserted (1/5) in streams of the other category (e.g., digits) presented at a fast rate (6 Hz). Results show clear right-lateralized discrimination responses at 6 Hz/5 for digits within letters, and a trend for left-lateralization for letters. These results support an early developmental emergence of ventral occipito-temporal cortex specialization for visual recognition of digits and letters, potentially in relation with relevant coactivated brain networks.
 
 ---
 
-### A randomized, controlled pilot trial of the emotional faces memory task: a digital therapeutic for depression [^d9e5ba9d]. NPJ Digital Medicine (2018). Low credibility.
+### A randomized, controlled pilot trial of the emotional faces memory task: a digital therapeutic for depression [^116a3Udi]. NPJ Digital Medicine (2018). Low credibility.
 
 Procedure
 
@@ -1183,7 +1183,7 @@ Participants were randomly assigned to the EFMT or CT groups by a research coord
 
 ---
 
-### Neurocognitive deficits in survivors of childhood acute myeloid leukemia [^41c737f7]. BMC Pediatrics (2022). Medium credibility.
+### Neurocognitive deficits in survivors of childhood acute myeloid leukemia [^112gX7Qi]. BMC Pediatrics (2022). Medium credibility.
 
 Fig. 2
 Wechsler Intelligence Scale for Children-Fourth Edition (WISC-IV) and Wechsler Adult Intelligence Scale-Fourth Edition (WAIS-IV) subtest scores. In the WISC-IV cases, the Letter-Number Sequencing subtest score was the lowest (mean [M] = 6.9, standard deviation [SD] = 3.2), and the Coding subtest score was the highest (M = 12.0, SD = 2.9). In the WAIS-IV cases, the Digit Span subtest score was the lowest (M = 9.5, SD = 2.3), and the Arithmetic subtest score was the highest (M = 12.0, SD = 3.7)
@@ -1192,13 +1192,13 @@ The associations between FSIQ and all demographic and clinical variables listed 
 
 ---
 
-### Intact finger representation within primary sensorimotor cortex of musician's dystonia [^e457504d]. Brain (2023). Medium credibility.
+### Intact finger representation within primary sensorimotor cortex of musician's dystonia [^116qXWG4]. Brain (2023). Medium credibility.
 
 We then investigated whether there were any changes in the relative structure of the dissimilarities between controls and patients, which can be visualized by plotting the normalized dissimilarities across all digit pairs (Fig. 5A and B), or in two dimensions using multidimensional scaling (Fig. 5C). Replicating earlier studies, we found that this structure was highly invariant across subjects, with the largest dissimilarities for thumb and ring fingers and smallest for the middle and ring fingers. Importantly, we did not find any group difference in the pattern of dissimilarities [S1: F (9,135) = 0.26, P = 0.9831, M1: F (9,135) = 0.03, P = 0.999]. We also tested for a difference between the distances involving the affected fingers compared to the non-affected fingers in the dystonic group. We did not find a significant difference, [S1: t (8) = −1.672, P = 0.133, M1: t (8) = −0.504, P = 0.627], and if anything, the distances involving affected fingers were larger than those only involving unaffected fingers, contrary to the idea dystonia is associated with a loss of separation between cortical digit representation.
 
 ---
 
-### The measure of a man: associations between digit ratio and disordered eating in males [^a1d3507b]. The International Journal of Eating Disorders (2010). Low credibility.
+### The measure of a man: associations between digit ratio and disordered eating in males [^1158uz7C]. The International Journal of Eating Disorders (2010). Low credibility.
 
 Objective
 
@@ -1218,7 +1218,7 @@ This suggests that greater prenatal testosterone exposure may be protective fact
 
 ---
 
-### Serum sodium, cognition and incident dementia in the general population [^edf2790e]. Age and Ageing (2023). Medium credibility.
+### Serum sodium, cognition and incident dementia in the general population [^1175mWYM]. Age and Ageing (2023). Medium credibility.
 
 Assessment of cognitive function
 
@@ -1226,7 +1226,7 @@ Cognitive function was assessed using a neuropsychological test battery administ
 
 ---
 
-### Is prolonged use of antibiotic prophylaxis and postoperative antithrombotic and antispasmodic treatments necessary after digit replantation or revascularization? [^4dd0e38a]. Clinical Orthopaedics and Related Research (2023). Medium credibility.
+### Is prolonged use of antibiotic prophylaxis and postoperative antithrombotic and antispasmodic treatments necessary after digit replantation or revascularization? [^112zNDBX]. Clinical Orthopaedics and Related Research (2023). Medium credibility.
 
 Background
 
@@ -1254,13 +1254,13 @@ Level III, therapeutic study.
 
 ---
 
-### Geriatric emergency department guidelines [^a38d649e]. Annals of Emergency Medicine (2014). Medium credibility.
+### Geriatric emergency department guidelines [^115BUUVb]. Annals of Emergency Medicine (2014). Medium credibility.
 
 Geriatric emergency department guidelines — cognitive screening instructions state: "Now I would like to ask you some questions to check your memory and concentration. Some of them may be easy and some of them may be hard". Items include "1) What year is it now?" and "2) What month is this?" with scoring "(0) (1)". The patient repeats "John Brown, 42 Market Street, Chicago" with "Trials to learning ______ (if unable to do in 3 trials = C)". For time, "Without looking at your watch or the clock, tell me what time it is", with "(within 1-hour) ______ Correct Incorrect (0) (1)" and "Actual time: ________". "4) Count aloud backwards from 20 to 1" is scored "0 1 2 Errors", with the note "If subject starts counting forward or forgets the task, repeat instructions and score one error", and the sequence "20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1". "5) Say the months of the year in reverse order", showing "D N O S A JL JN MY AP MR F J" and "0 1 2 Errors", with the rule "If the tester needs to prompt with the last name of the month of the year, one error should be scored". "6) Repeat the name and address you were asked to remember" shows "(John Brown, 42 Market Street, Chicago) 0 1 2 3 4 5 Errors".
 
 ---
 
-### Can user testing of a clinical trial patient information sheet make it fit-for-purpose? – a randomized controlled trial [^15dfe5bb]. BMC Medicine (2011). Low credibility.
+### Can user testing of a clinical trial patient information sheet make it fit-for-purpose? – a randomized controlled trial [^111ZRwnr]. BMC Medicine (2011). Low credibility.
 
 Procedure
 
@@ -1278,7 +1278,7 @@ Data analysis looked at: the scores for each of the 21 questions to determine ho
 
 ---
 
-### Comparing cognitive tests and smartphone-based assessment in 2 US community-based cohorts [^b557b01b]. Journal of the American Heart Association (2024). Medium credibility.
+### Comparing cognitive tests and smartphone-based assessment in 2 US community-based cohorts [^115drDJi]. Journal of the American Heart Association (2024). Medium credibility.
 
 In the BHS, like the FHS protocol, the neuropsychological test evaluation requires trained personnel and takes ≈45 minutes to complete. The BHS examinations are conducted every 4 to 5 years and evaluate executive control, attention/information processing speed, and verbal episodic memory domains. The specific neuropsychological tests analyzed for the current research included the most recent examination, including the Digit Span Forward and Digit Span Backward tests (WAIS‐IV), TMT‐A and TMT‐B, WAIS‐IV Logical Memory Immediate and Delayed Free Recall, Delayed Recognition (Wechsler Memory Scale‐IV), and WAIS‐IV Digit Symbol Coding tests.
 
@@ -1292,25 +1292,25 @@ Sociodemographic data were collected in accordance with established FHS and BHS 
 
 ---
 
-### Cognitive executive function in dystonia [^6e11b5d7]. Movement Disorders (2003). Low credibility.
+### Cognitive executive function in dystonia [^113pBb2N]. Movement Disorders (2003). Low credibility.
 
 Dystonia is a movement disorder considered to result from basal ganglia dysfunction. The aim of this study was to investigate the functional significance of frontal hyperactivity demonstrated in dystonia in imaging studies by examining executive function and working memory, in which the prefrontal cortex is known to be involved. We assessed 10 patients with idiopathic dystonia and 12 age- and IQ-matched normal controls. All subjects completed tests of first letter, category, and alternating category word fluency, the Wisconsin Card Sorting Test, the Stroop Colour Word Naming Test, the Missing Digit Test of working memory, a test of random number generation, a test requiring generation of self-ordered random number sequences, the Paced Serial Addition Test, a test of conditional associative learning, and finger tapping and peg insertion under unimanual, bimanual, and dual task conditions. The patients with dystonia did not differ significantly from controls on any measures of executive function or working memory used other than category word fluency and the extent of decline in tapping with one hand under dual task conditions when simultaneously inserting pegs with the other hand. For this small sample, the results suggest that unlike other movement disorders associated with fronto-striatal dysfunction such as Parkinson's disease or Huntington's disease, dystonia was not associated with deficits on the tests of executive function or working memory used. A more detailed investigation of cognitive function in a larger sample of patients is required.
 
 ---
 
-### Quantitative sensory testing: report of the therapeutics and technology assessment subcommittee of the American Academy of Neurology [^ef0ef5f5]. Neurology (2003). Medium credibility.
+### Quantitative sensory testing: report of the therapeutics and technology assessment subcommittee of the American Academy of Neurology [^1177R4p4]. Neurology (2003). Medium credibility.
 
 Strength of recommendations — For rating A, the page defines "Established as useful/predictive or not useful/predictive for the given condition in the specified population" and states that "Level A rating requires at least one convincing Class I study or at least two consistent, convincing Class II studies"; for rating B, it defines "Probably useful/predictive or not useful/predictive for the given condition in the specified population" and that "Level B rating requires at least one convincing Class II study or at least three consistent Class III studies"; for rating C, it defines "Possibly useful/predictive or not useful/predictive for the given condition in the specified population" with "Level C rating requires at least two convincing and consistent Class III studies"; rating U indicates "Data inadequate or conflicting. Given current knowledge, test/predictor is unproven".
 
 ---
 
-### Digit distribution of proper digital nerve action potential [^9b1181ae]. Muscle & Nerve (2001). Low credibility.
+### Digit distribution of proper digital nerve action potential [^114xtxjf]. Muscle & Nerve (2001). Low credibility.
 
 Antidromic sensory nerve action potential testing is well characterized and commonly used to assess the sensory component of the upper limb median and ulnar nerves. The final terminal segments of these nerves are the proper digital nerves. Ring recording electrodes are commonly used to detect the proper digital nerves' antidromic responses. Attempts to record the separate contributions of individual digital nerves along the lateral aspects of each finger, using small surface electrodes, is shown to be unreliable for determining the integrity of a single terminal digital branch. We found between 50% to 77% of the stimulated terminal branch's response amplitude when recorded at electrodes positioned over the nonstimulated branch located 180 degrees from the activated terminal branch. Detecting a single terminal nerve response was achieved by using the fourth digit and the second digit with one of the second digit's branches neurophysiologically blocked by local anesthetic. The volume-conducted response from the opposite side of the finger resulted in this relatively large recorded response, which remains within the range of reference values precluding the simple use of antidromic techniques to assess injury to a single proper digital nerve. Techniques are proposed to avoid such pitfalls and to assess most accurately the desired response.
 
 ---
 
-### Association of prenatal depression with second to fourth digit ratio in children aged 4 and 6 years [^c0506c59]. Depression and Anxiety (2025). Medium credibility.
+### Association of prenatal depression with second to fourth digit ratio in children aged 4 and 6 years [^115v7dsv]. Depression and Anxiety (2025). Medium credibility.
 
 3.3. Association Between Prenatal Depressive Symptoms and 2D:4D Ratios in Children
 
@@ -1318,7 +1318,7 @@ Table 2 demonstrates a general pattern that prenatal depressive symptoms were as
 
 ---
 
-### Codesigned standardised referral form: simplifying the complexity [^42ef48fc]. BMJ Health & Care Informatics (2024). High credibility.
+### Codesigned standardised referral form: simplifying the complexity [^112iEZFR]. BMJ Health & Care Informatics (2024). High credibility.
 
 Table 3
 Categories of unique referral data on referral forms and in referral guidelines
@@ -1333,6 +1333,6 @@ Mean number of referral data types requested within each category for paper and 
 
 ---
 
-### Differences in spatial acuity between digits [^869ebc5f]. Neurology (2001). Low credibility.
+### Differences in spatial acuity between digits [^114SafBk]. Neurology (2001). Low credibility.
 
 The spatial acuity of the index, middle, and ring distal finger pads of eight right-handed men, aged 22 to 57 years, was measured by using gratings and raised letters. Acuity declined significantly from the index to the middle finger and from the middle to the ring finger. There were no significant differences between homologous fingers of the two hands. Letter recognition and grating orientation threshold measures were highly correlated.

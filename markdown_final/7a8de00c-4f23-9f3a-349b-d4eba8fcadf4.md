@@ -15,33 +15,33 @@ Diastolic hypertension treatment
 
 > Let's see… What do we have here? The user is asking about diastolic hypertension treatment. Let's break this down step-by-step. First, I need to think about defining diastolic hypertension and its prevalence. Then, I should verify the strength of evidence for treating isolated diastolic hypertension versus systolic-diastolic hypertension. Next, I will review guideline thresholds for initiation and targets by age and risk. After that, I need to check the J-curve concern and what to do when diastolic pressure gets too low. Then, I will examine first-line drug choices and how to monitor. Finally, I will integrate special populations and synthesize a practical, risk-stratified approach with caveats about evidence gaps and future directions.
 
-> Let me first confirm the definition and epidemiology so I don't anchor on a misleading premise. Diastolic hypertension is typically defined as diastolic blood pressure (DBP) ≥ 90 mm Hg, and isolated diastolic hypertension (IDH) is DBP ≥ 90 mm Hg with systolic blood pressure (SBP) < 140 mm Hg; IDH accounts for a minority of hypertension cases and is more common in younger adults and men, with relatively low awareness and treatment rates in large cohorts, which underscores a clinical gap that I should keep in mind as I proceed [^eb7095c5] [^b3025371].
+> Let me first confirm the definition and epidemiology so I don't anchor on a misleading premise. Diastolic hypertension is typically defined as diastolic blood pressure (DBP) ≥ 90 mm Hg, and isolated diastolic hypertension (IDH) is DBP ≥ 90 mm Hg with systolic blood pressure (SBP) < 140 mm Hg; IDH accounts for a minority of hypertension cases and is more common in younger adults and men, with relatively low awareness and treatment rates in large cohorts, which underscores a clinical gap that I should keep in mind as I proceed [^11723uZN] [^115aPZkt].
 
-> Wait, let me verify the evidence base for treating IDH specifically, because I need to ensure I'm not overgeneralizing from systolic-focused trials. The PROGRESS trial subgroup analysis suggested that blood pressure lowering reduced major vascular events in patients with isolated diastolic hypertension by about 28%, with a point estimate similar to systolic or combined hypertension, although the confidence interval was wide and the analysis was underpowered, so I should be cautious about inferring definitive benefit from this single subgroup analysis [^37cfc109]. Hold on, I should also note that contemporary reviews emphasize heterogeneity in IDH risk and call for individualized, risk-based management rather than a one-size-fits-all approach, which aligns with the limited direct trial evidence in IDH [^45be8c21].
+> Wait, let me verify the evidence base for treating IDH specifically, because I need to ensure I'm not overgeneralizing from systolic-focused trials. The PROGRESS trial subgroup analysis suggested that blood pressure lowering reduced major vascular events in patients with isolated diastolic hypertension by about 28%, with a point estimate similar to systolic or combined hypertension, although the confidence interval was wide and the analysis was underpowered, so I should be cautious about inferring definitive benefit from this single subgroup analysis [^112Rk6si]. Hold on, I should also note that contemporary reviews emphasize heterogeneity in IDH risk and call for individualized, risk-based management rather than a one-size-fits-all approach, which aligns with the limited direct trial evidence in IDH [^112nQ9cC].
 
-> Next, I should review guideline thresholds for initiating pharmacotherapy, and I need to be precise about age-stratified recommendations. JNC 8 recommends initiating treatment at DBP ≥ 90 mm Hg for adults ≥ 60 years and for adults 30–59 years, with a target DBP < 90 mm Hg; for adults 18–29 years, the recommendation is expert opinion–based and also targets DBP < 90 mm Hg, reflecting limited direct evidence in this youngest group [^2547998a] [^7a4f4bda]. The VA/DoD guideline similarly recommends treating to DBP < 90 mm Hg for patients ≥ 30 years and suggests treatment at DBP ≥ 90 mm Hg for ages 18–29, again reflecting weaker evidence in younger adults [^87871d31] [^80e3f9c1]. In contrast, the 2017 ACC/AHA guideline lowers diagnostic thresholds and recommends treatment at ≥ 130/80 mm Hg for adults with high cardiovascular risk, which would capture many with IDH who are ≥ 65 years or have ASCVD risk ≥ 10%, even though the strength of direct IDH outcome evidence remains limited [^36fc626f] [^1a022f91].
+> Next, I should review guideline thresholds for initiating pharmacotherapy, and I need to be precise about age-stratified recommendations. JNC 8 recommends initiating treatment at DBP ≥ 90 mm Hg for adults ≥ 60 years and for adults 30–59 years, with a target DBP < 90 mm Hg; for adults 18–29 years, the recommendation is expert opinion–based and also targets DBP < 90 mm Hg, reflecting limited direct evidence in this youngest group [^111xGbJZ] [^1148L8CR]. The VA/DoD guideline similarly recommends treating to DBP < 90 mm Hg for patients ≥ 30 years and suggests treatment at DBP ≥ 90 mm Hg for ages 18–29, again reflecting weaker evidence in younger adults [^114TviH6] [^114J5zPr]. In contrast, the 2017 ACC/AHA guideline lowers diagnostic thresholds and recommends treatment at ≥ 130/80 mm Hg for adults with high cardiovascular risk, which would capture many with IDH who are ≥ 65 years or have ASCVD risk ≥ 10%, even though the strength of direct IDH outcome evidence remains limited [^112QX74i] [^111fZQun].
 
-> I will now examine treatment targets, and I should double-check the J-curve concern because overtreatment can be harmful. Multiple analyses suggest a J-shaped relationship for DBP, with increased cardiovascular risk when on-treatment DBP falls below about 60 mm Hg, particularly in patients whose SBP is already controlled to < 130 mm Hg; this argues for avoiding excessive diastolic lowering and reassessing therapy if DBP drifts into the 50s or lower [^9d2afb84] [^76ab7261]. But wait, what if the apparent harm is just confounding? Mediation analyses from SPRINT suggest that the association of very low DBP with worse outcomes attenuates after adjustment, implying that very low DBP may be a marker of underlying vascular disease rather than a direct causal harm from therapy; still, prudence dictates avoiding iatrogenic diastolic hypotension when feasible [^20a969f7] [^463c82c6].
+> I will now examine treatment targets, and I should double-check the J-curve concern because overtreatment can be harmful. Multiple analyses suggest a J-shaped relationship for DBP, with increased cardiovascular risk when on-treatment DBP falls below about 60 mm Hg, particularly in patients whose SBP is already controlled to < 130 mm Hg; this argues for avoiding excessive diastolic lowering and reassessing therapy if DBP drifts into the 50s or lower [^11521VcP] [^1142w8Jk]. But wait, what if the apparent harm is just confounding? Mediation analyses from SPRINT suggest that the association of very low DBP with worse outcomes attenuates after adjustment, implying that very low DBP may be a marker of underlying vascular disease rather than a direct causal harm from therapy; still, prudence dictates avoiding iatrogenic diastolic hypotension when feasible [^111qRWU6] [^112o8TaD].
 
-> Let me think about first-line drug choices and whether any class is superior for diastolic hypertension. The totality of evidence indicates that lowering blood pressure itself drives most of the cardiovascular benefit, and no class has proven superiority for diastolic-specific outcomes; therefore, thiazide/thiazide-like diuretics, ACE inhibitors, ARBs, and calcium channel blockers are all reasonable first-line options, with selection tailored to comorbidity, race/ethnicity, and patient preference [^a633a2d5] [^f30b22ff]. I should confirm that in Black patients, thiazides or calcium channel blockers are preferred initially, and in chronic kidney disease, ACE inhibitors or ARBs are indicated for renal protection, which can guide class selection even when the presenting phenotype is diastolic hypertension [^b8cf1ba0] [^a4680c5c].
+> Let me think about first-line drug choices and whether any class is superior for diastolic hypertension. The totality of evidence indicates that lowering blood pressure itself drives most of the cardiovascular benefit, and no class has proven superiority for diastolic-specific outcomes; therefore, thiazide/thiazide-like diuretics, ACE inhibitors, ARBs, and calcium channel blockers are all reasonable first-line options, with selection tailored to comorbidity, race/ethnicity, and patient preference [^115FQHjS] [^117DKjSW]. I should confirm that in Black patients, thiazides or calcium channel blockers are preferred initially, and in chronic kidney disease, ACE inhibitors or ARBs are indicated for renal protection, which can guide class selection even when the presenting phenotype is diastolic hypertension [^115izHe7] [^115CjvEw].
 
-> Next, I should review monitoring and titration so I don't miss safety signals. Home blood pressure monitoring or validated automated office measurement improves accuracy and helps detect excessive diastolic lowering; if DBP falls below about 60 mm Hg with symptoms or adverse effects, I should reconsider regimen intensity, and if DBP remains ≥ 90 mm Hg despite adherence and appropriate doses, I should escalate therapy or add a second agent per guideline algorithms [^9d2afb84] [^b8cf1ba0]. Hold on, I should verify that the practical target for most adults remains DBP < 90 mm Hg, while acknowledging that some high-risk patients may be managed within broader frameworks that prioritize overall cardiovascular risk reduction rather than a single diastolic number [^2547998a] [^1a022f91].
+> Next, I should review monitoring and titration so I don't miss safety signals. Home blood pressure monitoring or validated automated office measurement improves accuracy and helps detect excessive diastolic lowering; if DBP falls below about 60 mm Hg with symptoms or adverse effects, I should reconsider regimen intensity, and if DBP remains ≥ 90 mm Hg despite adherence and appropriate doses, I should escalate therapy or add a second agent per guideline algorithms [^11521VcP] [^115izHe7]. Hold on, I should verify that the practical target for most adults remains DBP < 90 mm Hg, while acknowledging that some high-risk patients may be managed within broader frameworks that prioritize overall cardiovascular risk reduction rather than a single diastolic number [^111xGbJZ] [^111fZQun].
 
-> I need to ensure I address special populations where thresholds or targets differ. In pregnancy, treatment is generally reserved for persistent SBP ≥ 160 mm Hg or DBP ≥ 110 mm Hg, with preferred agents including methyldopa, labetalol, nifedipine, and hydralazine; tighter DBP targets such as < 85 mm Hg have not shown clear fetal benefit and may carry maternal risks, so less aggressive control is reasonable unless severe hypertension emerges [^f19d5470] [^04448021]. In older adults, especially those ≥ 80 years or frail, overly aggressive diastolic lowering may worsen perfusion; therefore, tolerating slightly higher DBP may be appropriate if it preserves cognition, balance, and renal perfusion, consistent with ESH guidance to individualize targets in the elderly [^12762716] [^0b0b0009].
+> I need to ensure I address special populations where thresholds or targets differ. In pregnancy, treatment is generally reserved for persistent SBP ≥ 160 mm Hg or DBP ≥ 110 mm Hg, with preferred agents including methyldopa, labetalol, nifedipine, and hydralazine; tighter DBP targets such as < 85 mm Hg have not shown clear fetal benefit and may carry maternal risks, so less aggressive control is reasonable unless severe hypertension emerges [^117BCrwy] [^1117KxdE]. In older adults, especially those ≥ 80 years or frail, overly aggressive diastolic lowering may worsen perfusion; therefore, tolerating slightly higher DBP may be appropriate if it preserves cognition, balance, and renal perfusion, consistent with ESH guidance to individualize targets in the elderly [^111UNTsb] [^111HNZQC].
 
-> Let me synthesize a practical approach, but I should confirm it aligns with the evidence and guidelines. For adults ≥ 30 years with persistent DBP ≥ 90 mm Hg, I would initiate pharmacotherapy and titrate to DBP < 90 mm Hg if tolerated, while monitoring for symptoms, orthostasis, and cognitive changes; if DBP drifts below 60 mm Hg, I would reduce dose or de-prescribe when feasible, recognizing that the harm signal is stronger in those with already controlled SBP [^2547998a] [^9d2afb84]. For adults 18–29 years with DBP ≥ 90 mm Hg, I would individualize, favoring lifestyle therapy first and reserving medication for those with high risk, symptoms, or progressive elevation, given the weaker evidence base in this group [^7a4f4bda] [^87871d31]. For high-risk adults who meet ACC/AHA criteria, I would treat at ≥ 130/80 mm Hg while still avoiding excessive diastolic lowering and reassessing net clinical benefit over time [^36fc626f] [^1a022f91].
+> Let me synthesize a practical approach, but I should confirm it aligns with the evidence and guidelines. For adults ≥ 30 years with persistent DBP ≥ 90 mm Hg, I would initiate pharmacotherapy and titrate to DBP < 90 mm Hg if tolerated, while monitoring for symptoms, orthostasis, and cognitive changes; if DBP drifts below 60 mm Hg, I would reduce dose or de-prescribe when feasible, recognizing that the harm signal is stronger in those with already controlled SBP [^111xGbJZ] [^11521VcP]. For adults 18–29 years with DBP ≥ 90 mm Hg, I would individualize, favoring lifestyle therapy first and reserving medication for those with high risk, symptoms, or progressive elevation, given the weaker evidence base in this group [^1148L8CR] [^114TviH6]. For high-risk adults who meet ACC/AHA criteria, I would treat at ≥ 130/80 mm Hg while still avoiding excessive diastolic lowering and reassessing net clinical benefit over time [^112QX74i] [^111fZQun].
 
-> But wait, what about the future of IDH management and where the evidence is weakest? I should acknowledge that direct, adequately powered randomized trials focused on isolated diastolic hypertension are lacking, and current guidance extrapolates from mixed-hypertension populations; ongoing and future pragmatic trials, as well as better phenotyping of IDH by age, vascular stiffness, and biomarkers, are needed to clarify who benefits most from treatment and what the optimal diastolic targets should be across subgroups [^fbbd0447] [^45be8c21]. Until then, I will continue to apply a risk-stratified, guideline-concordant approach that treats DBP ≥ 90 mm Hg in appropriate adults, avoids iatrogenic diastolic hypotension, and remains vigilant for emerging evidence that could refine thresholds and targets in IDH [^2547998a] [^9d2afb84].
+> But wait, what about the future of IDH management and where the evidence is weakest? I should acknowledge that direct, adequately powered randomized trials focused on isolated diastolic hypertension are lacking, and current guidance extrapolates from mixed-hypertension populations; ongoing and future pragmatic trials, as well as better phenotyping of IDH by age, vascular stiffness, and biomarkers, are needed to clarify who benefits most from treatment and what the optimal diastolic targets should be across subgroups [^117SDP5Q] [^112nQ9cC]. Until then, I will continue to apply a risk-stratified, guideline-concordant approach that treats DBP ≥ 90 mm Hg in appropriate adults, avoids iatrogenic diastolic hypotension, and remains vigilant for emerging evidence that could refine thresholds and targets in IDH [^111xGbJZ] [^11521VcP].
 
 ---
 
-Treat diastolic hypertension by **initiating pharmacologic therapy when DBP is ≥ 90 mm Hg** [^7a4f4bda] in adults ≥ 30 years, with a **target DBP < 90 mm Hg** [^87871d31]. Use first-line agents such as thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^a633a2d5], and add a second agent if the goal is not reached [^b8cf1ba0]. In adults ≥ 60 years, treat to **< 150/90 mm Hg** [^2547998a]; in younger adults, aim for **< 140/90 mm Hg** [^7a4f4bda]. Avoid excessive DBP lowering below 60 mm Hg [^9d2afb84] due to increased cardiovascular risk [^76ab7261]. Combine lifestyle measures — sodium restriction, weight loss, and regular exercise — with medication to optimize control [^f30b22ff].
+Treat diastolic hypertension by **initiating pharmacologic therapy when DBP is ≥ 90 mm Hg** [^1148L8CR] in adults ≥ 30 years, with a **target DBP < 90 mm Hg** [^114TviH6]. Use first-line agents such as thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^115FQHjS], and add a second agent if the goal is not reached [^115izHe7]. In adults ≥ 60 years, treat to **< 150/90 mm Hg** [^111xGbJZ]; in younger adults, aim for **< 140/90 mm Hg** [^1148L8CR]. Avoid excessive DBP lowering below 60 mm Hg [^11521VcP] due to increased cardiovascular risk [^1142w8Jk]. Combine lifestyle measures — sodium restriction, weight loss, and regular exercise — with medication to optimize control [^117DKjSW].
 
 ---
 
 ## Definition and clinical significance
 
-Diastolic hypertension is defined as a **DBP ≥ 90 mm Hg** [^7a4f4bda]; isolated diastolic hypertension (IDH) is DBP ≥ 90 mm Hg with SBP < 140 mm Hg. IDH is common in younger adults and is associated with increased cardiovascular risk, particularly stroke and coronary heart disease [^eb7095c5] [^37cfc109].
+Diastolic hypertension is defined as a **DBP ≥ 90 mm Hg** [^1148L8CR]; isolated diastolic hypertension (IDH) is DBP ≥ 90 mm Hg with SBP < 140 mm Hg. IDH is common in younger adults and is associated with increased cardiovascular risk, particularly stroke and coronary heart disease [^11723uZN] [^112Rk6si].
 
 ---
 
@@ -51,9 +51,9 @@ Treatment thresholds and targets vary by age and risk:
 
 | **Population** | **Treatment threshold** | **Target dbp** |
 |-|-|-|
-| General adult population ≥ 30 years | ≥ 90 mm Hg [^7a4f4bda] | < 90 mm Hg [^87871d31] |
-| Adults ≥ 60 years | ≥ 90 mm Hg [^2547998a] | < 90 mm Hg (with SBP < 150 mm Hg) [^2547998a] |
-| Adults 18–29 years | ≥ 90 mm Hg (expert opinion) [^7a4f4bda] | < 90 mm Hg (expert opinion) [^87871d31] |
+| General adult population ≥ 30 years | ≥ 90 mm Hg [^1148L8CR] | < 90 mm Hg [^114TviH6] |
+| Adults ≥ 60 years | ≥ 90 mm Hg [^111xGbJZ] | < 90 mm Hg (with SBP < 150 mm Hg) [^111xGbJZ] |
+| Adults 18–29 years | ≥ 90 mm Hg (expert opinion) [^1148L8CR] | < 90 mm Hg (expert opinion) [^114TviH6] |
 
 ---
 
@@ -75,36 +75,36 @@ Lifestyle modifications are foundational and **reduce DBP by 4–10 mm Hg**:
 
 First-line options include:
 
-- **Thiazide diuretics**: chlorthalidone or hydrochlorothiazide [^a633a2d5].
-- **ACE inhibitors**: lisinopril, enalapril [^a4680c5c].
-- **ARBs**: losartan, valsartan [^b8cf1ba0].
-- **Calcium channel blockers**: amlodipine, diltiazem [^a633a2d5].
+- **Thiazide diuretics**: chlorthalidone or hydrochlorothiazide [^115FQHjS].
+- **ACE inhibitors**: lisinopril, enalapril [^115CjvEw].
+- **ARBs**: losartan, valsartan [^115izHe7].
+- **Calcium channel blockers**: amlodipine, diltiazem [^115FQHjS].
 
 ---
 
 ### Selection considerations
 
-Selection should be guided by comorbidities: **ACE inhibitors/ARBs** for diabetes or CKD [^b8cf1ba0], and **calcium channel blockers or thiazides** for isolated diastolic hypertension without compelling indications [^notfound].
+Selection should be guided by comorbidities: **ACE inhibitors/ARBs** for diabetes or CKD [^115izHe7], and **calcium channel blockers or thiazides** for isolated diastolic hypertension without compelling indications [^notfound].
 
 ---
 
 ### Combination therapy
 
-Add a second agent from a different class if the target is not achieved after 4–6 weeks of monotherapy [^b8cf1ba0].
+Add a second agent from a different class if the target is not achieved after 4–6 weeks of monotherapy [^115izHe7].
 
 ---
 
 ## Risks and benefits of intensive diastolic blood pressure lowering
 
-Intensive DBP lowering reduces cardiovascular events, but **excessive lowering below 60 mm Hg** increases risk of myocardial infarction, ischemic stroke, and mortality [^9d2afb84] [^76ab7261]. The optimal DBP appears to be 70–80 mm Hg in patients with treated SBP < 130 mm Hg [^9d2afb84].
+Intensive DBP lowering reduces cardiovascular events, but **excessive lowering below 60 mm Hg** increases risk of myocardial infarction, ischemic stroke, and mortality [^11521VcP] [^1142w8Jk]. The optimal DBP appears to be 70–80 mm Hg in patients with treated SBP < 130 mm Hg [^11521VcP].
 
 ---
 
 ## Special populations and considerations
 
 - **Elderly patients**: higher DBP targets may be appropriate due to increased risk of hypotension and falls [^notfound].
-- **Pregnancy**: treat when DBP ≥ 90 mm Hg; preferred agents include methyldopa, labetalol, and nifedipine [^0dfc08a8].
-- **Comorbidities**: tailor therapy to diabetes, CKD, or cardiovascular disease [^b8cf1ba0].
+- **Pregnancy**: treat when DBP ≥ 90 mm Hg; preferred agents include methyldopa, labetalol, and nifedipine [^111MjVgK].
+- **Comorbidities**: tailor therapy to diabetes, CKD, or cardiovascular disease [^115izHe7].
 
 ---
 
@@ -116,21 +116,21 @@ Monitor **BP at 2–4 week intervals** until control, then every 3–6 months. U
 
 ## Summary of recommendations
 
-- **Initiate pharmacologic therapy**: DBP ≥ 90 mm Hg in adults ≥ 30 years [^7a4f4bda].
-- **Target DBP**: < 90 mm Hg for most adults; < 80 mm Hg may be considered in high-risk patients [^87871d31] [^4beaa030].
-- **First-line agents**: thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^a633a2d5].
-- **Lifestyle modifications**: essential adjuncts to medication [^f30b22ff].
-- **Avoid excessive DBP lowering**: maintain DBP ≥ 60 mm Hg when possible [^9d2afb84].
+- **Initiate pharmacologic therapy**: DBP ≥ 90 mm Hg in adults ≥ 30 years [^1148L8CR].
+- **Target DBP**: < 90 mm Hg for most adults; < 80 mm Hg may be considered in high-risk patients [^114TviH6] [^112wYt1m].
+- **First-line agents**: thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^115FQHjS].
+- **Lifestyle modifications**: essential adjuncts to medication [^117DKjSW].
+- **Avoid excessive DBP lowering**: maintain DBP ≥ 60 mm Hg when possible [^11521VcP].
 
 ---
 
-Diastolic hypertension treatment centers on **initiating therapy at DBP ≥ 90 mm Hg** [^7a4f4bda], targeting **DBP < 90 mm Hg** [^87871d31], and using lifestyle plus first-line agents, while avoiding excessive DBP lowering below 60 mm Hg [^9d2afb84]. Therapy should be individualized by age, comorbidities, and tolerance, with regular monitoring to balance efficacy and safety.
+Diastolic hypertension treatment centers on **initiating therapy at DBP ≥ 90 mm Hg** [^1148L8CR], targeting **DBP < 90 mm Hg** [^114TviH6], and using lifestyle plus first-line agents, while avoiding excessive DBP lowering below 60 mm Hg [^11521VcP]. Therapy should be individualized by age, comorbidities, and tolerance, with regular monitoring to balance efficacy and safety.
 
 ---
 
 ## References
 
-### US hypertension management guidelines: a review of the recent past and recommendations for the future [^8eb2328e]. Journal of the American Heart Association (2015). Low credibility.
+### US hypertension management guidelines: a review of the recent past and recommendations for the future [^114eZ6aq]. Journal of the American Heart Association (2015). Low credibility.
 
 Introduction
 
@@ -142,7 +142,7 @@ The panel aimed to answer 3 questions: Does initiating antihypertensive treatmen
 
 ---
 
-### Evaluation of optimal diastolic blood pressure range among adults with treated systolic blood pressure less than 130 mm Hg [^9d2afb84]. JAMA Network Open (2021). High credibility.
+### Evaluation of optimal diastolic blood pressure range among adults with treated systolic blood pressure less than 130 mm Hg [^11521VcP]. JAMA Network Open (2021). High credibility.
 
 Key Points
 
@@ -160,7 +160,7 @@ The findings suggest that a DBP of less than 60 mm Hg may be harmful and a DBP b
 
 ---
 
-### What is the most important component of blood pressure: systolic, diastolic or pulse pressure? [^b1de9b18]. Current Opinion in Nephrology and Hypertension (2003). Low credibility.
+### What is the most important component of blood pressure: systolic, diastolic or pulse pressure? [^115YhabH]. Current Opinion in Nephrology and Hypertension (2003). Low credibility.
 
 Purpose Of Review
 
@@ -176,7 +176,7 @@ Epidemiological and treatment studies suggest that systolic blood pressure shoul
 
 ---
 
-### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^c202a50b]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^115xdVCE]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
 
 Background
 
@@ -208,7 +208,7 @@ We found there is probably little to no difference in total mortality and cardio
 
 ---
 
-### Association between baseline diastolic blood pressure and the efficacy of intensive vs standard blood pressure-lowering therapy [^760b4e0f]. JAMA Network Open (2021). High credibility.
+### Association between baseline diastolic blood pressure and the efficacy of intensive vs standard blood pressure-lowering therapy [^11421LVU]. JAMA Network Open (2021). High credibility.
 
 Key Points
 
@@ -226,7 +226,7 @@ The findings of this study suggest that further work is needed to determine whet
 
 ---
 
-### Treatment blood pressure targets for hypertension [^bf16a63f]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
+### Treatment blood pressure targets for hypertension [^115tJF58]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
 
 Background
 
@@ -258,7 +258,7 @@ Treating patients to lower than standard BP targets, ≤ 140–160/90–100 mmHg
 
 ---
 
-### Pharmacotherapy for hypertension in adults 60 years or older [^be8c7562]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Pharmacotherapy for hypertension in adults 60 years or older [^115sVpty]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -286,19 +286,19 @@ Treating healthy adults 60 years or older with moderate to severe systolic and/o
 
 ---
 
-### Management of stage 1 hypertension in adults with a low 10-year risk for cardiovascular disease: filling a guidance gap: a scientific statement from the American Heart Association [^922ef231]. Hypertension (2021). Medium credibility.
+### Management of stage 1 hypertension in adults with a low 10-year risk for cardiovascular disease: filling a guidance gap: a scientific statement from the American Heart Association [^114jixjA]. Hypertension (2021). Medium credibility.
 
 High blood pressure (BP) is the leading cause of worldwide cardiovascular disease morbidity and mortality. Patients and clinicians dealing with hypertension have benefited from the evidence of event-based randomized controlled clinical trials. One result from those trials has been the development of evidence-based guidelines. The commitment to using evidence from these event-based randomized trials has been a cornerstone in the development of guideline treatment recommendations. However, in some situations, evidence from event-based trials is not available to guideline writers or clinicians for assistance in treatment decision making. Such is the case for the management of many patients with stage 1 hypertension. The purpose of this scientific statement is to provide information complementary to the 2017 Hypertension Clinical Practice Guidelines for the patient with untreated stage 1 hypertension (systolic BP/diastolic BP, 130–139/80–89 mmHg) with a 10-year risk for atherosclerotic cardiovascular disease < 10% who fails to meet the systolic BP/diastolic goal (< 130/80 mmHg) after 6 months of guideline-recommended lifestyle therapy. This statement provides evidence from sources other than event-based randomized controlled clinical trials and offers therapy options for consideration by clinicians.
 
 ---
 
-### Isolated diastolic hypertension and risk of cardiovascular disease: controversies in hypertension-pro side of the argument [^45be8c21]. Hypertension (2022). Medium credibility.
+### Isolated diastolic hypertension and risk of cardiovascular disease: controversies in hypertension-pro side of the argument [^112nQ9cC]. Hypertension (2022). Medium credibility.
 
 Isolated diastolic hypertension (IDH), defined as diastolic blood pressure in the hypertensive range but systolic blood pressure not in the hypertensive range, is not uncommon (< 20%) among adults with hypertension. IDH often manifests in concurrence with other cardiovascular risk factors. Individuals with IDH tend to have lower awareness of their hypertension compared with those with both systolic and diastolic hypertension. IDH appears to be a largely underrated risk factor for cardiovascular disease events, which may be explained by inconsistent association of IDH with cardiovascular disease events. The inconsistency suggests that IDH is heterogeneous. One size does not seem to fit all in the clinical management of individuals with IDH. Rather than treating IDH as a monolithic low-risk condition, detailed phenotyping in the context of individual comprehensive cardiovascular risk would seem to be most useful to assess an individual's expected net benefit from therapy. In this review, we highlight that the clinical relevance of IDH differs by individual clinical characteristics, and elucidate groups of individuals with IDH that should be wary of cardiovascular disease risks.
 
 ---
 
-### JNC 8 guidelines for the management of hypertension in… [^5d59f71b]. AAFP (2014). Low credibility.
+### JNC 8 guidelines for the management of hypertension in… [^113PQ4sc]. AAFP (2014). Low credibility.
 
 - Initial antihypertensive treatment should include a thiazide diuretic, calcium channel blocker, ACE inhibitor, or ARB in the general nonblack population or a thiazide diuretic or calcium channel blocker in the general black population.
 - If the target blood pressure is not reached within one month after initiating therapy, the dosage of the initial medication should be increased, or a second medication should be added. In the general population of adults 60 years and older, pharmacologic treatment should be initiated when the systolic pressure is 150 mm Hg or higher, or when the diastolic pressure is 90 mm Hg or higher. Patients should be treated to a target systolic pressure of less than 150 mm Hg and a target diastolic pressure of less than 90 mm Hg. Treatment does not need to be adjusted if it results in a systolic pressure lower than 140 mm Hg, as long as it is not associated with adverse effects on health or quality of life.
@@ -309,7 +309,7 @@ If the target blood pressure is not reached within one month after initiating th
 
 ---
 
-### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^a54c5853]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^115E4bpW]. Journal of the American Heart Association (2024). Medium credibility.
 
 Clinical Perspective
 
@@ -323,13 +323,13 @@ To answer this question, we conducted a secondary analysis of SPRINT to determin
 
 ---
 
-### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^84854d86]. Journal of Hypertension (2023). High credibility.
+### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^114PU99X]. Journal of Hypertension (2023). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with isolated diastolic HTN, ESH 2023 guidelines recommend to follow the general treatment strategy for BP-lowering drug treatment in patients with isolated diastolic HTN.
 
 ---
 
-### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^5e3ad0b6]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^113QhbJd]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -361,7 +361,7 @@ We found there is probably little to no difference in total mortality and cardio
 
 ---
 
-### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^ad0feaf0]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### Blood pressure targets for the treatment of people with hypertension and cardiovascular disease [^115RaCrb]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -393,19 +393,19 @@ We found no evidence of a difference in total mortality, serious adverse events,
 
 ---
 
-### Hypertension pharmacological treatment in adults: a World Health Organization guideline executive summary [^b5cad91b]. Hypertension (2022). Medium credibility.
+### Hypertension pharmacological treatment in adults: a World Health Organization guideline executive summary [^115eWtok]. Hypertension (2022). Medium credibility.
 
 Hypertension is a major cause of cardiovascular disease and deaths worldwide especially in low- and middle-income countries. Despite the availability of safe, well-tolerated, and cost-effective blood pressure (BP)-lowering therapies, < 14% of adults with hypertension have BP controlled to a systolic/diastolic BP < 140/90 mm Hg. We report new hypertension treatment guidelines, developed in accordance with the World Health Organization Handbook for Guideline Development. Overviews of reviews of the evidence were conducted and summary tables were developed according to the Grading of Recommendations, Assessment, Development, and Evaluations approach. In these guidelines, the World Health Organization provides the most current and relevant evidence-based guidance for the pharmacological treatment of nonpregnant adults with hypertension. The recommendations pertain to adults with an accurate diagnosis of hypertension who have already received lifestyle modification counseling. The guidelines recommend BP threshold to initiate pharmacological therapy, BP treatment targets, intervals for follow-up visits, and best use of health care workers in the management of hypertension. The guidelines provide guidance for choice of monotherapy or dual therapy, treatment with single pill combination medications, and use of treatment algorithms for hypertension management. Strength of the recommendations was guided by the quality of the underlying evidence; the tradeoffs between desirable and undesirable effects; patient's values, resource considerations and cost-effectiveness; health equity; acceptability, and feasibility consideration of different treatment options. The goal of the guideline is to facilitate standard approaches to pharmacological treatment and management of hypertension which, if widely implemented, will increase the hypertension control rate world-wide.
 
 ---
 
-### Debate on the 2025 guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: emphasis on defense against the BP threshold and why we may not get there easily [^80e7fed8]. Hypertension (2025). Medium credibility.
+### Debate on the 2025 guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: emphasis on defense against the BP threshold and why we may not get there easily [^114J7Li3]. Hypertension (2025). Medium credibility.
 
 Elevated blood pressure (BP) is the most important noncommunicable disorder worldwide. Finding and effectively managing elevated BP is the single greatest public health benefit we can accomplish, as it will reduce premature death and enable patients to live longer free of the disabilities that target organ damage inflicts on the brain, heart, kidneys, and legs. Hypertension guidelines are an invaluable source of information on how to detect elevated BP, how to evaluate people for situations where hypertension is a symptom of other disorders, and how to apply the various treatments that lower BP effectively in patients. Determining the point at which treating high BP is more likely to result in benefit than harm is a marriage of science and art. There is no right answer to what clearly constitutes hypertension when using a systolic or diastolic BP to define it. The science shows the mathematics behind the reduction of BP and the number of lives saved and target organs preserved. The art comes into play when a decision is made that, when a systolic or diastolic BP exceeds a certain level, it becomes reasonable to intervene at that point with treatment. Caregivers play an important role in monitoring and educating patients with hypertension-especially in the detection of unintended effects of treatment, such as excessive BP lowering, symptomatic hypotension, and impacts on laboratory tests and well-being. Nonadherence to prescribed therapies is a barrier to effectively managing chronic disorders like hypertension. Having a solid foundation in the science behind the guidelines and recognizing that the application of guidelines requires some clinical judgment gleaned from balancing the risks and benefits of treatment in each individual patient, is the basis for healthy exchanges of ideas, like this pro and con series which discusses the science and furthers the art. This review has taken the con side of several issues in the latest American College of Cardiology/American Heart Association 2025 Hypertension Guidelines.
 
 ---
 
-### Blood pressure targets in adults with hypertension [^7aa404b6]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Blood pressure targets in adults with hypertension [^1148paiZ]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -433,7 +433,7 @@ For the general population of persons with elevated blood pressure, the benefits
 
 ---
 
-### First-line drugs for hypertension [^a633a2d5]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### First-line drugs for hypertension [^115FQHjS]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -465,31 +465,31 @@ First-line low-dose thiazides reduced all morbidity and mortality outcomes in ad
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^70d3354b]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^113tGZEJ]. JAMA (2014). Excellent credibility.
 
 JNC 8 hypertension guideline — blood pressure (BP) treatment targets by age and comorbidity are specified: There is strong evidence to support treating hypertensive persons aged 60 years or older to a BP goal of less than 150/90 mm Hg and hypertensive persons 30 through 59 years of age to a diastolic goal of less than 90 mm Hg; however, for hypertensive persons younger than 60 years for a systolic goal, or those younger than 30 years for a diastolic goal, the panel recommends a BP of less than 140/90 mm Hg based on expert opinion, and the same thresholds and goals are recommended for hypertensive adults with diabetes or nondiabetic chronic kidney disease (CKD) as for the general hypertensive population younger than 60 years.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^87871d31]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^114TviH6]. VA/DoD (2020). High credibility.
 
 VA/DoD hypertension CPG — diastolic blood pressure treatment goals by age: We recommend treating to a diastolic blood pressure goal < 90 mmHg in patients 30 years and older. We suggest treating to a diastolic blood pressure goal < 90 mmHg in patients age 18 to 29.
 
 ---
 
-### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^269390bb]. Journal of Hypertension (2023). High credibility.
+### 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension: endorsed by the international society of hypertension (ISH) and the European renal association (ERA) [^111zC6Wn]. Journal of Hypertension (2023). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with isolated diastolic HTN, ESH 2023 guidelines recommend to obtain periodic BP evaluation and offer lifestyle interventions in all patients with isolated diastolic HTN.
 
 ---
 
-### Therapy for diastolic heart failure [^1264dcc0]. Progress in Cardiovascular Diseases (2005). Low credibility.
+### Therapy for diastolic heart failure [^111UGf2f]. Progress in Cardiovascular Diseases (2005). Low credibility.
 
 There is little objective to guide the therapy of patients with diastolic heart failure. Because of the similarities of pathophysiology abnormalities in diastolic and systolic heart failure, it is a reasonable inference to suggest that the proven therapy for systolic heart failure may also be of benefit in patients with diastolic heart failure. Treatment of underlying or exacerbating conditions in diastolic heart failure, such as hypertension, left ventricular hypertrophy, ischemia, diabetes, anemia, obesity and pulmonary disease is an important means of managing diastolic heart failure. Control of systolic blood pressure is effective in improving and preventing the development of diastolic heart failure. Treatment of diastolic heart failure is most effective when it is associated with hypertension. Production of systolic arterial pressure acutely reduces pulmonary congestion, ischemia, and chronically may lead to regression of left ventricular hypertrophy. Patients with diastolic heart failure in the absence of hypertension are very difficult to treat.
 
 ---
 
-### Blood pressure targets for hypertension in older adults [^63f63e9b]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Blood pressure targets for hypertension in older adults [^113ZCV8W]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -521,7 +521,7 @@ At the present time there is insufficient evidence to know whether a higher BP t
 
 ---
 
-### Rationale and design: the VALsartan in diastolic dysfunction (VALIDD) trial: evolving the management of diastolic dysfunction in hypertension [^84e750b3]. American Heart Journal (2006). Low credibility.
+### Rationale and design: the VALsartan in diastolic dysfunction (VALIDD) trial: evolving the management of diastolic dysfunction in hypertension [^114Q34an]. American Heart Journal (2006). Low credibility.
 
 Background
 
@@ -537,19 +537,19 @@ We expect the VALIDD Trial to provide novel insights into the specific effects o
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^a4680c5c]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^115CjvEw]. JAMA (2014). Excellent credibility.
 
 Hypertension is the most common condition seen in primary care and leads to myocardial infarction, stroke, renal failure, and death if not detected early and treated appropriately. Patients want to be assured that blood pressure (BP) treatment will reduce their disease burden, while clinicians want guidance on hypertension management using the best scientific evidence. This report takes a rigorous, evidence-based approach to recommend treatment thresholds, goals, and medications in the management of hypertension in adults. Evidence was drawn from randomized controlled trials, which represent the gold standard for determining efficacy and effectiveness. Evidence quality and recommendations were graded based on their effect on important outcomes. There is strong evidence to support treating hypertensive persons aged 60 years or older to a BP goal of less than 150/90 mm Hg and hypertensive persons 30 through 59 years of age to a diastolic goal of less than 90 mm Hg; however, there is insufficient evidence in hypertensive persons younger than 60 years for a systolic goal, or in those younger than 30 years for a diastolic goal, so the panel recommends a BP of less than 140/90 mm Hg for those groups based on expert opinion. The same thresholds and goals are recommended for hypertensive adults with diabetes or nondiabetic chronic kidney disease (CKD) as for the general hypertensive population younger than 60 years. There is moderate evidence to support initiating drug treatment with an angiotensin-converting enzyme inhibitor, angiotensin receptor blocker, calcium channel blocker, or thiazide-type diuretic in the nonblack hypertensive population, including those with diabetes. In the black hypertensive population, including those with diabetes, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy. There is moderate evidence to support initial or add-on antihypertensive therapy with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes. Although this guideline provides evidence-based recommendations for the management of high BP and should meet the clinical needs of most patients, these recommendations are not a substitute for clinical judgment, and decisions about care must carefully consider and incorporate the clinical characteristics and circumstances of each individual patient.
 
 ---
 
-### Diastolic heart failure: challenges of diagnosis and treatment [^f9560c32]. American Family Physician (2004). Low credibility.
+### Diastolic heart failure: challenges of diagnosis and treatment [^117NepWm]. American Family Physician (2004). Low credibility.
 
 Diastolic heart failure, a major cause of morbidity and mortality, is defined as symptoms of heart failure in a patient with preserved left ventricular function. It is characterized by a stiff left ventricle with decreased compliance and impaired relaxation, which leads to increased end diastolic pressure. Signs and symptoms are similar to those of heart failure with systolic dysfunction. The diagnosis of diastolic heart failure is best made with Doppler echocardiography. Based on current knowledge, pharmacologic treatment of diastolic heart failure should focus on normalizing blood pressure, promoting regression of left ventricular hypertrophy, avoiding tachycardia, treating symptoms of congestion, and maintaining normal atrial contraction when possible. Diuretic therapy is the mainstay of treatment for preventing pulmonary congestion, while beta blockers appear to be useful in preventing tachycardia and thereby prolonging left ventricular diastolic filling time. Angiotensin-converting enzyme inhibitors and angiotensin-receptor blockers may be beneficial in patients with diastolic dysfunction, especially those with hypertension. Evidence from adequately powered randomized controlled trials, however, is not available yet. The outcomes of ongoing clinical trials may provide much-needed information to move from intuitive treatment to therapy based on evidence that matters: decreased morbidity and mortality and improved quality of life.
 
 ---
 
-### Pharmacotherapy for hypertension in adults 60 years or older [^a1693d4b]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Pharmacotherapy for hypertension in adults 60 years or older [^1158JMbp]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Rationale
 
@@ -604,13 +604,13 @@ Original review (1998): Mulrow CD, Lau J, Cornell J, Brand M. Pharmacotherapy fo
 
 ---
 
-### Hypertension pharmacological treatment in adults: a World Health Organization guideline executive summary [^68fc4949]. Hypertension (2022). Medium credibility.
+### Hypertension pharmacological treatment in adults: a World Health Organization guideline executive summary [^113geTEx]. Hypertension (2022). Medium credibility.
 
 Cardiovascular disease (CVD) is the leading cause of death worldwide, with most deaths attributed to hypertension resulting from coronary heart disease or stroke and more than three quarters of these deaths occurring in low- and middle-income countries. The level of high blood pressure (BP) is directly related to many adverse outcomes, including CVD and kidney disease. Conversely, clinical trials have repeatedly demonstrated that lowering BP in adults with high baseline BP level provides an effective means for preventing CVD. Definitions of hypertension are useful for clinical decision-making and are typically based on CVD risk and level of BP at which antihypertensive medication is effective for preventing CVD. A common definition of hypertension is based on an average systolic BP (SBP) ≥ 140 mm Hg, diastolic BP (DBP) ≥ 90 mm Hg, or self-reported use of antihypertensive medication. Using this definition, it has been estimated that ≈1.4 billion adults have hypertension, worldwide, but < 14% have their BP controlled with antihypertensive drug therapy to an SBP/DBP < 140/90 mm Hg (< 8% in low- and middle-income countries). Even more disturbing is the recent trend in a high-income country (the United States), where rate of hypertension control to an SBP/DBP < 140/90 mm Hg reached a high of close to 54% in 2013 to 2014, but dramatically eroded to < 44% in 2017 to 2018. Given this decrease, the Surgeon General of the United States issued a report for a "Call to Action to Control Hypertension" making the control of hypertension a national priority.
 
 ---
 
-### Treatment of hypertension: a review [^01d66477]. JAMA (2022). Excellent credibility.
+### Treatment of hypertension: a review [^1113izz2]. JAMA (2022). Excellent credibility.
 
 Importance
 
@@ -626,7 +626,7 @@ Hypertension affects approximately 116 million adults in the US and more than 1 
 
 ---
 
-### Low adherence to high blood pressure treatments: innovative solutions are needed [^74dd0c90]. Journal of the American Heart Association (2025). Medium credibility.
+### Low adherence to high blood pressure treatments: innovative solutions are needed [^113zFp5D]. Journal of the American Heart Association (2025). Medium credibility.
 
 Convergence of Guidelines
 
@@ -642,7 +642,7 @@ The global use of lower BP goals and only systolic BP for diagnosis may not infl
 
 ---
 
-### Evaluation of optimal diastolic blood pressure range among adults with treated systolic blood pressure less than 130 mm Hg [^76ab7261]. JAMA Network Open (2021). High credibility.
+### Evaluation of optimal diastolic blood pressure range among adults with treated systolic blood pressure less than 130 mm Hg [^1142w8Jk]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -654,7 +654,7 @@ The SPRINTand the Action to Control Cardiovascular Risk in Diabetes–Blood Pres
 
 ---
 
-### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^eb7095c5]. Journal of the American Heart Association (2019). Medium credibility.
+### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^11723uZN]. Journal of the American Heart Association (2019). Medium credibility.
 
 Introduction
 
@@ -666,13 +666,13 @@ Accordingly, we sought to identify and study patients with IDH, whether treated 
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^fbbd0447]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^117SDP5Q]. Hypertension (2025). High credibility.
 
 Younger adults and diastolic hypertension — research priorities: Observational data show increased CVD risk among younger adults with stage 1 hypertension and associations of elevated BP with evidence of target organ damage, but clarification is needed on where clinical trial evidence is sufficient to base treatment decisions for younger adults and where additional research is greatest. There is a lack of evidence to support BP targets for diastolic hypertension, which is more common in younger adults, and research should include detection of CVD endpoints outside academic centers via pragmatic designs, use of surrogate endpoints such as left ventricular hypertrophy, and evaluations for target organ damage at baseline and during longitudinal follow-up.
 
 ---
 
-### Higher blood pressure targets for hypertension in older adults [^7ea3e1fe]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Higher blood pressure targets for hypertension in older adults [^114EkVCh]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 Background
 
@@ -704,13 +704,13 @@ When comparing a higher BP target, in the range of < 150 to 160/95 to 105 mmHg, 
 
 ---
 
-### Pharmacologic treatment of hypertension in adults aged 60 years or older to higher versus lower blood pressure targets: a clinical practice guideline from the American College of Physicians and the American Academy of Family Physicians [^e0bfc343]. Annals of Internal Medicine (2017). Medium credibility.
+### Pharmacologic treatment of hypertension in adults aged 60 years or older to higher versus lower blood pressure targets: a clinical practice guideline from the American College of Physicians and the American Academy of Family Physicians [^116kCdxv]. Annals of Internal Medicine (2017). Medium credibility.
 
 Treatment effects according to diastolic blood pressure (DBP): Evidence was insufficient to determine the benefit of treating diastolic hypertension in the absence of systolic hypertension, and no trials included patients with a mean DBP greater than 90 mm Hg and a mean SBP less than 140 mm Hg.
 
 ---
 
-### Diastolic hypotension due to intensive blood pressure therapy: is it harmful? [^20a969f7]. Atherosclerosis (2017). Low credibility.
+### Diastolic hypotension due to intensive blood pressure therapy: is it harmful? [^111qRWU6]. Atherosclerosis (2017). Low credibility.
 
 Background and Aims
 
@@ -730,7 +730,7 @@ The increased risk in subjects with diastolic pressure below 60 cannot fully be 
 
 ---
 
-### Effect of angiotensin receptor blockade and antihypertensive drugs on diastolic function in patients with hypertension and diastolic dysfunction: a randomised trial [^77aad42e]. Lancet (2007). Excellent credibility.
+### Effect of angiotensin receptor blockade and antihypertensive drugs on diastolic function in patients with hypertension and diastolic dysfunction: a randomised trial [^1144QuYq]. Lancet (2007). Excellent credibility.
 
 Background
 
@@ -750,31 +750,31 @@ Lowering blood pressure improves diastolic function irrespective of the type of 
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^2547998a]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^111xGbJZ]. JAMA (2014). Excellent credibility.
 
 JNC 8 — Recommendation 1 (general population ≥ 60 years) and corollary — initiate pharmacologic treatment to lower blood pressure (BP) at systolic blood pressure (SBP) ≥ 150 mm Hg or diastolic blood pressure (DBP) ≥ 90 mm Hg and treat to a goal SBP < 150 mm Hg and goal DBP < 90 mm Hg (Strong Recommendation - Grade A). In the general population aged ≥ 60 years, if pharmacologic treatment for high BP results in lower achieved SBP (eg, < 140 mm Hg) and treatment is well tolerated and without adverse effects on health or quality of life, treatment does not need to be adjusted (Expert Opinion - Grade E).
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^91d434d6]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^114jCUyb]. JAMA (2014). Excellent credibility.
 
 JNC 8 — Recommendation 1 for the general population aged 60 years or older states: "initiate pharmacologic treatment to lower BP at systolic blood pressure (SBP) of 150 mm Hg or higher or diastolic blood pressure (DBP) of 90 mm Hg or higher and treat to a goal SBP lower than 150 mm Hg and goal DBP lower than 90 mm Hg" and is labeled Strong Recommendation – Grade A; the corollary states that "if pharmacologic treatment for high BP results in lower achieved SBP (for example, < 140 mm Hg) and treatment is not associated with adverse effects on health or quality of life, treatment does not need to be adjusted" and is labeled Expert Opinion – Grade E.
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^089ca6e9]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^111DmX5i]. JAMA (2014). Excellent credibility.
 
 Diabetes with hypertension — SBP and DBP targets — are informed by ACCORD-BP and related trials. The only randomized controlled trial (RCT) that compared an SBP treatment goal of lower than 140 mm Hg with a lower SBP goal and assessed the effect on important health outcomes is ACCORD-BP, which compared an SBP treatment goal of lower than 120 mm Hg with a goal of lower than 140 mm Hg, and there was no difference in the primary outcome; the absolute difference in fatal and nonfatal stroke between the 2 groups was only 0.21% per year, so the panel concluded that the results from ACCORD-BP did not provide sufficient evidence to recommend an SBP goal of lower than 120 mm Hg in adults with diabetes and hypertension. For diastolic blood pressure (DBP), the panel similarly recommends the same goal DBP in adults with diabetes and hypertension as in the general population (< 90 mm Hg) and did not find sufficient evidence to support a DBP goal lower than 80 mm Hg, noting there are no good-quality RCTs with mortality as a primary or secondary prespecified outcome that compared a DBP goal of lower than 90 mm Hg with a lower goal. Evidence commonly cited for lower DBP targets includes HOT, which compared a DBP goal of 90 mm Hg or lower vs a goal of 80 mm Hg or lower but the observed benefit was a post hoc analysis of a small subgroup (8%), and UKPDS, in which the comparison was a DBP goal of lower than 85 mm Hg vs lower than 105 mm Hg within a mixed systolic and diastolic BP goal study, so it cannot be determined if the benefits were due to lowering SBP, DBP, or both.
 
 ---
 
-### Commentary on the 2014 BP guidelines from the panel appointed to the eighth Joint National Committee (JNC 8) [^e9337161]. Journal of the American Society of Nephrology (2014). Low credibility.
+### Commentary on the 2014 BP guidelines from the panel appointed to the eighth Joint National Committee (JNC 8) [^116xjPrG]. Journal of the American Society of Nephrology (2014). Low credibility.
 
 The recently published article "2014 Evidence-based guideline for the management of high blood pressure in adults: Report from the panel members appointed to the Eighth Joint National Committee (JNC 8)" (James et al. JAMA 311: 507–520, 2014) has generated considerable controversy. In this commentary, we evaluate the document and compare the recommendations contained within it with those of the JNC 7 and other national and international guidelines. The evidence quality rating approach followed by the article "2014 Evidence-based guideline for the management of high blood pressure in adults: Report from the panel members appointed to the Eighth Joint National Committee (JNC 8)" (James et al. JAMA 311: 507–520, 2014) disqualified nearly 98% of previous studies from review; as a result, some of the key recommendations were on the basis of expert opinion alone. We are especially concerned that the recommendation to raise the systolic/diastolic BP levels at which treatment is initiated to ≥ 150/ ≥ 90 mmHg in adults ≥ 60 years old may affect cardiovascular and renal health in these patients. Additionally, we recommend that hypertension guidelines should be updated every 3–4 years with a fresh approach to the definition of target BP levels, the use of modern technology in the diagnosis of hypertension, and the treatment of hypertension in special populations not addressed in earlier guidelines.
 
 ---
 
-### What is the evidence base for diagnosing hypertension and for subsequent blood pressure treatment targets in the prevention of cardiovascular disease? [^b783e823]. BMC Medicine (2015). Low credibility.
+### What is the evidence base for diagnosing hypertension and for subsequent blood pressure treatment targets in the prevention of cardiovascular disease? [^115h53Kg]. BMC Medicine (2015). Low credibility.
 
 Current target recommendations
 
@@ -793,25 +793,25 @@ The recent JNC 8 guideline recommended treating those between 18 and 60 years ol
 
 ---
 
-### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^1a022f91]. Journal of the American College of Cardiology (2019). High credibility.
+### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^111fZQun]. Journal of the American College of Cardiology (2019). High credibility.
 
 Adults with high blood pressure or hypertension — nonpharmacological and pharmacologic treatment — in adults with elevated blood pressure (BP) or hypertension, including those requiring antihypertensive medications, nonpharmacological interventions are recommended to reduce BP, including weight loss, a heart-healthy dietary pattern, sodium reduction, dietary potassium supplementation, increased physical activity with a structured exercise program, and limited alcohol. In adults with an estimated 10-year ASCVD risk of 10% or higher and an average systolic BP (SBP) of 130 mm Hg or higher or an average diastolic BP (DBP) of 80 mm Hg or higher, use of BP-lowering medications is recommended for primary prevention of cardiovascular disease (CVD).
 
 ---
 
-### Editors' commentary on the 2023 ESH management of arterial hypertension guidelines [^0b0b0009]. Hypertension (2023). Medium credibility.
+### Editors' commentary on the 2023 ESH management of arterial hypertension guidelines [^111HNZQC]. Hypertension (2023). Medium credibility.
 
 Clinical practice guidelines are ideally suited to the provision of advice on the prevention, diagnosis, evaluation, and management of high blood pressure (BP). The recently published European Society of Hypertension (ESH) 2023 ESH Guidelines for the management of arterial hypertension is the latest in a long series of high BP clinical practice guidelines. It closely resembles the 2018 European Society of Cardiology/ESH guidelines, with incremental rather than major changes. Although the ESH guidelines are primarily written for European clinicians and public health workers, there is a high degree of concordance between its recommendations and those in the other major BP guidelines. Despite the large number of national and international BP guidelines around the world, general population surveys demonstrate that BP guidelines are not being well implemented in any part of the world. The level of BP, which is the basis for diagnosis and management, continues to be poorly measured in routine clinical practice and control of hypertension remains suboptimal, even to a conservative BP target such as a systolic/diastolic BP < 140/90 mmHg. BP guidelines need to focus much more on implementation of recommendations for accurate diagnosis and strategies for improved control in those being treated for hypertension. An evolving body of implementation science can assist in meeting this goal. Given the enormous health, social, and financial burden of high BP, better diagnosis and management should be an imperative for clinicians, government, and others responsible for the provision of health care services. Hopefully, the 2023 ESH will help enable this.
 
 ---
 
-### Hypertension: empirical evidence and implications in 2014 [^a0490495]. Open Heart (2014). Low credibility.
+### Hypertension: empirical evidence and implications in 2014 [^1156dYbN]. Open Heart (2014). Low credibility.
 
 High blood pressure (HBP) or hypertension (HTN) is one of the leading causes of cardiovascular (CV) morbidity and mortality throughout the world. Despite this fact, there is widespread agreement that the treatment of HBP, over the last half century, has been a great achievement. However, after the release of the new Joint National Committee on Prevention, Detection, Evaluation and Treatment of High Blood Pressure-8 (JNC-8) guidelines, there have been heated debates with regard to what are the most evidence-based blood pressure goals. While JNC-8 claims that the goal blood pressure for otherwise healthy patients with mild hypertension (systolic blood pressure ≥ 140-159mmHg and diastolic blood pressure ≥ 90-99mmHg) should be < 140/90mmHg; a recent Cochrane meta-analysis is in direct conflict with these recommendations. Indeed, a 2012 Cochrane meta-analysis indicated that there is no evidence that treating otherwise healthy mild hypertension patients with antihypertensive therapy will reduce CV events or mortality. Additionally, the Cochrane meta-analysis showed that antihypertensive therapy was associated with a significant increase in withdrawal due to adverse events. Thus, the current evidence in the literature does not support the goals set by the JNC-8 guidelines. In this review we discussed the strengths and limitations of both lines of evidence and why it takes an evidence-based medication to reduce CV events/mortality (eg, how a goal blood pressure is achieved is more important than getting to the goal). As medications inherently cause side effects and come at a cost to the patient, the practice of evidence-based medicine becomes exceedingly important. Although the majority of HTN studies claim great advantages by lowering HBP, this review finds severe conflicts in the findings among the various HTN studies, as well as serious epistemological, methodological and statistical problems that cast doubt to such claims.
 
 ---
 
-### Impact of 2017 ACC / AHA guidelines on prevalence of hypertension and eligibility for antihypertensive treatment in United States and China: nationally representative cross sectional study [^36fc626f]. BMJ (2018). Excellent credibility.
+### Impact of 2017 ACC / AHA guidelines on prevalence of hypertension and eligibility for antihypertensive treatment in United States and China: nationally representative cross sectional study [^112QX74i]. BMJ (2018). Excellent credibility.
 
 Introduction
 
@@ -821,7 +821,7 @@ Furthermore, treatment recommendations have been extensively revised. The ACC/AH
 
 ---
 
-### Review of hypertension treatment… [^f30b22ff]. JAMA Network (2022). Excellent credibility.
+### Review of hypertension treatment… [^117DKjSW]. JAMA Network (2022). Excellent credibility.
 
 Hypertension, defined as persistent systolic blood pressure at least 130 mm Hg or diastolic BP at least 80 mm Hg, affects approximately 116 million adults in the US and more than 1 billion adults worldwide. Hypertension is associated with increased risk of cardiovascular disease events and death. Observations First-line therapy for hypertension is lifestyle modification, including weight loss, healthy dietary pattern that includes low sodium and high potassium intake, physical activity, and moderation or elimination of alcohol consumption. The BP-lowering effects of individual lifestyle components are partially additive and enhance the efficacy of pharmacologic therapy. The decision to initiate antihypertensive medication should be based on the level of BP and the presence of high atherosclerotic CVD risk.
 
@@ -831,13 +831,13 @@ Conclusions and Relevance Hypertension affects approximately 116 million adults 
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^80e3f9c1]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^114J5zPr]. VA/DoD (2020). High credibility.
 
 VA/DoD hypertension CPG — pharmacologic treatment initiation thresholds: We recommend offering pharmacologic treatment for patients 30 years and older with a diastolic blood pressure ≥ 90 mmHg. We suggest offering pharmacologic treatment for patients age 18 to 29 with a diastolic blood pressure ≥ 90 mmHg.
 
 ---
 
-### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^fc26457f]. Journal of the American Heart Association (2019). Medium credibility.
+### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^117Spjc2]. Journal of the American Heart Association (2019). Medium credibility.
 
 Conclusions
 
@@ -845,25 +845,25 @@ IDH affects a large number of adults in China, and these patients may have some 
 
 ---
 
-### Hypertension Canada's 2020 comprehensive guidelines for the prevention, diagnosis, risk assessment, and treatment of hypertension in adults and children [^6483155d]. The Canadian Journal of Cardiology (2020). High credibility.
+### Hypertension Canada's 2020 comprehensive guidelines for the prevention, diagnosis, risk assessment, and treatment of hypertension in adults and children [^113a1ntk]. The Canadian Journal of Cardiology (2020). High credibility.
 
 Regarding medical management for hypertension, more specifically with respect to indications for treatment, general population, HC 2020 guidelines recommend to initiate antihypertensive therapy for average DBP measurements of ≥ 100 mmHg or average SBP measurements of ≥ 160 mmHg in patients without macrovascular target organ damage or other cardiovascular risk factors.
 
 ---
 
-### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^7490aacf]. Circulation (2019). High credibility.
+### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^113ypA2z]. Circulation (2019). High credibility.
 
 Adults with high blood pressure or hypertension — nonpharmacological interventions are recommended and medication thresholds are specified: In adults with elevated blood pressure (BP) or hypertension, including those requiring antihypertensive medications nonpharmacological interventions are recommended to reduce BP, including weight loss, a heart-healthy dietary pattern, sodium reduction, dietary potassium supplementation, increased physical activity with a structured exercise program, and limited alcohol. In adults with an estimated 10-year ASCVD risk of 10% or higher and an average systolic BP (SBP) of 130 mm Hg or higher or an average diastolic BP (DBP) of 80 mm Hg or higher, use of BP-lowering medications is recommended for primary prevention of CVD.
 
 ---
 
-### CDC grand rounds: a public health approach to detect and control hypertension [^4621f51d]. MMWR: Morbidity and Mortality Weekly Report (2016). Low credibility.
+### CDC grand rounds: a public health approach to detect and control hypertension [^112nyYGk]. MMWR: Morbidity and Mortality Weekly Report (2016). Low credibility.
 
 Hypertension is generally defined as systolic blood pressure ≥ 140 mmHg, or diastolic blood pressure ≥ 90 mmHg. A person who currently uses blood pressure-lowering medication is also defined as having hypertension. Hypertension is a leading risk factor for cardiovascular disease and stroke (1,2). Hypertension affects nearly one third of U.S. residents aged ≥ 18 years (approximately 75 million persons), and in approximately one half of adults with hypertension (nearly 35 million persons), it is uncontrolled (2). Among these 35 million U.S. residents with uncontrolled hypertension, 33% (11.5 million persons) are not aware of their hypertension, 20% (7 million persons) are aware of their hypertension, but are not being treated for it, and approximately 47% (16.1 million persons) are aware of their hypertension and being treated for it, but treatment (by medication and/or lifestyle modification) is not adequately controlling their blood pressure (Figure) (2).
 
 ---
 
-### Moving toward a consensus: comparison of the 2023 ESH and 2017 ACC / AHA hypertension guidelines [^12762716]. JACC: Advances (2024). Medium credibility.
+### Moving toward a consensus: comparison of the 2023 ESH and 2017 ACC / AHA hypertension guidelines [^111UNTsb]. JACC: Advances (2024). Medium credibility.
 
 BP grade classifications and definitions did not change between the 2018 European Society of Cardiology/ESH guideline and updated 2023 ESH guideline. As a result, significant differences in BP classification and definition of hypertension between guidelines remain, with ACC/AHA using "stages" and ESH using "grades" for BP categorization (Figure 1). ESH defines hypertension as BP ≥ 140/90 mm Hg, while ACC/AHA uses a threshold of ≥ 130/80 mm Hg. ESH classifies systolic BP between 130 and 139 mm Hg or diastolic ranges between 85 and 89 mm Hg as "high-normal" BP, while ACC/AHA guideline defines this as "stage 1" hypertension.
 
@@ -871,19 +871,19 @@ Recommendations on BP treatment targets also differ. For most patients, the ACC/
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a95095c2]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115L1yYm]. Journal of the American College of Cardiology (2025). High credibility.
 
 ACC/AHA hypertension — risk-guided treatment thresholds using PREVENT: In adults with hypertension without clinical cardiovascular disease (CVD) but with diabetes, chronic kidney disease (CKD), or increased short-term risk defined as estimated 10-year CVD risk ≥ 7.5% based on PREVENT, initiation of medications to lower blood pressure (BP) is recommended when average systolic BP (SBP) is ≥ 130 mm Hg and when average diastolic BP (DBP) is ≥ 80 mm Hg; in adults without clinical CVD and with estimated 10-year CVD risk < 7.5% based on PREVENT, initiation of medications to lower BP is recommended if average SBP remains ≥ 130 mm Hg after a 3- to 6-month trial of lifestyle intervention and is recommended if average DBP ≥ 80 mm Hg after a 3- to 6-month trial.
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^2f1bc0ca]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^112CqjvH]. Hypertension (2025). High credibility.
 
 Hypertension — intensive blood pressure (BP) lowering and heart failure (HF) outcomes: In SPRINT, targeting an SBP < 120 mm Hg significantly reduced HF (HR: 0.62; 95% CI: 0.45–0.84), whereas the SBP target recommended (< 130 mm Hg) is higher than SPRINT's target. In adults with diastolic hypertension (DBP ≥ 80 mm Hg) and high cardiovascular disease (CVD) risk, a strong body of evidence supports treatment with antihypertensive medications, and meta-analyses identify a beneficial effect of diastolic BP reduction on HF incidence.
 
 ---
 
-### 2017 ACC / AHA blood pressure treatment guideline recommendations and cardiovascular risk [^d7e5c0cb]. Journal of the American College of Cardiology (2018). Low credibility.
+### 2017 ACC / AHA blood pressure treatment guideline recommendations and cardiovascular risk [^116X5WYJ]. Journal of the American College of Cardiology (2018). Low credibility.
 
 Background
 
@@ -907,19 +907,19 @@ Implementing the 2017 ACC/AHA guideline would direct antihypertensive medication
 
 ---
 
-### Hypertension and heart failure: a dysfunction of systole, diastole or both? [^7e462b76]. Journal of Human Hypertension (2009). Low credibility.
+### Hypertension and heart failure: a dysfunction of systole, diastole or both? [^114ED1XT]. Journal of Human Hypertension (2009). Low credibility.
 
 The pathological myocardial hypertrophy associated with hypertension contains the seed for further maladaptive development. Increased myocardial oxygen consumption, impaired epicardial coronary perfusion, ventricular fibrosis and remodelling, abnormalities in long-axis function and torsion, cause, to a varying degree, a mixture of systolic and diastolic abnormalities. In addition, chronotropic incompetence and peripheral factors such as lack of vasodilator reserve and reduced arterial compliance further affect cardiac output particularly on exercise. Many of these factors are common to hypertensive heart failure with a normal ejection fraction as well as systolic heart failure. There is increasing evidence that these apparently separate phenotypes are part of a spectrum of heart failure differing only in the degree of ventricular remodelling and volume changes. Furthermore, dichotomizing heart failure into systolic and diastolic clinical entities has led to a paucity of clinical trials of therapies for heart failure with a normal ejection fraction. Therapies aimed at reversing myocardial fibrosis, and targets outside the heart such as enhancing vasodilator reserve and improving chronotropic incompetence deserve further study and may improve the exercise capacity of hypertensive heart failure patients. Hypertension heart disease with heart failure is simply not a dysfunction of systole and diastole. Other peripheral factors including heart rate and vasodilator response with exercise may deserve equal attention in an attempt to develop more effective treatments for this disorder.
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^d69d6619]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116VBDgc]. Hypertension (2025). High credibility.
 
 Blood pressure intensity and diastolic hypertension — heart failure risk and targets are outlined as follows. Intensive systolic blood pressure (SBP) lowering in SPRINT, which "targeted an SBP < 120 mm Hg", "significantly reduced the incidence of HF… (HR: 0.62; 95% CI: 0.45–0.84)", yet "the SBP target recommended (< 130 mm Hg) is higher than that used in SPRINT". For diastolic hypertension, "In adults with diastolic hypertension (DBP ≥ 80 mm Hg) and a high risk of CVD, a strong body of evidence supports treatment with antihypertensive medications", and meta-analyses "have identified a similar beneficial effect of DBP reduction on the incidence of HF".
 
 ---
 
-### First-line drugs for hypertension [^ed44f735]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
+### First-line drugs for hypertension [^1174mEMA]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
 
 Background
 
@@ -951,7 +951,7 @@ First-line low-dose thiazides reduce all morbidity and mortality outcomes. First
 
 ---
 
-### 2014 evidence-based guideline for the management of… [^b8cf1ba0]. JAMA Network (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of… [^115izHe7]. JAMA Network (2014). Excellent credibility.
 
 In the black hypertensive population, including those with diabetes, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy. There is moderate evidence to support initial or add-on antihypertensive therapy with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes. In the general population aged ≥ 60 years, initiate pharmacologic treatment to lower blood pressure at systolic blood pressure ≥ 150 mm Hg or diastolic blood pressure ≥ 90 mm Hg and treat to a goal SBP < 150 mm Hg and goal DBP < 90 mm Hg. In the population aged ≥ 18 years with diabetes, initiate pharmacologic treatment to lower BP at SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg and treat to a goal SBP < 140 mm Hg and goal DBP < 90 mm Hg.
 
@@ -961,25 +961,25 @@ If goal BP is not reached within a month of treatment, increase the dose of the 
 
 ---
 
-### Effect of intensive versus standard blood pressure lowering on diastolic function in patients with uncontrolled hypertension and diastolic dysfunction [^548c9ec2]. Hypertension (2010). Low credibility.
+### Effect of intensive versus standard blood pressure lowering on diastolic function in patients with uncontrolled hypertension and diastolic dysfunction [^113AMCB3]. Hypertension (2010). Low credibility.
 
 Diastolic dysfunction may precede development of heart failure in hypertensive patients. We randomized 228 patients with uncontrolled hypertension, preserved ejection fraction, and diastolic dysfunction to 2 targeted treatment strategies: intensive, with a systolic blood pressure target of < 130 mm Hg, or standard, with a systolic blood pressure target of < 140 mm Hg, using a combination of valsartan, either 160 or 320 mg, plus amlodipine, either 5 or 10 mg, with other antihypertensive medications as needed. Echocardiographic assessment of diastolic function was performed at baseline and after 24 weeks in a prospective, open-label, blinded end point design. Blood pressure was reduced significantly in both groups, from 161.2 ± 13.9/90.1 ± 12.0 to 130.8 ± 12.3/74.9 ± 9.1 mm Hg (P < 0.0001) in the intensive arm and from 162.1 ± 13.2/93.7 ± 12.2 to 137.0 ± 12.9/79.6 ± 11.0 mm Hg (P < 0.0001) in the standard arm (P < 0.003 for between-group comparisons). Myocardial relaxation velocity improved from 7.6 ± 1.1 to 9.2 ± 1.7 cm/s (Delta 1.54 ± 1.4 cm/s; P < 0.0001) in the intensive arm and from 7.5 ± 1.3 to 9.0 ± 1.9 cm/s (Delta 1.48 ± 1.6 cm/s; P < 0.0001) in the standard arm, with no difference between the 2 strategies in the achieved improvement (P = 0.58). The degree of improvement in annular relaxation velocity was associated with the extent of systolic blood pressure reduction, and patients with the lowest achieved systolic blood pressure had the highest final diastolic relaxation velocities.
 
 ---
 
-### Choice of antihypertensive agent in isolated systolic hypertension and isolated diastolic hypertension: a secondary analysis of the ALLHAT trial [^49065662]. American Heart Journal (2022). Medium credibility.
+### Choice of antihypertensive agent in isolated systolic hypertension and isolated diastolic hypertension: a secondary analysis of the ALLHAT trial [^112sGE33]. American Heart Journal (2022). Medium credibility.
 
 Despite broad treatment recommendations, there are limited published reports comparing the efficacy of different antihypertensive agents in patients with isolated systolic hypertension or isolated diastolic hypertension. This study was a secondary analysis of the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. We compared the use of chlorthalidone, amlodipine, or lisinopril on the primary outcome of combined coronary heart disease, stroke, or all-cause mortality in patients with isolated systolic hypertension or isolated diastolic hypertension.
 
 ---
 
-### ACOG practice bulletin no. 203: chronic hypertension in pregnancy [^f19d5470]. Obstetrics and Gynecology (2019). High credibility.
+### ACOG practice bulletin no. 203: chronic hypertension in pregnancy [^117BCrwy]. Obstetrics and Gynecology (2019). High credibility.
 
 Chronic hypertension in pregnancy — antihypertensive therapy thresholds and evidence are summarized as follows: A 2014 Cochrane systematic review of 49 trials (4,723 women) concluded that treatment of mild-to-moderate hypertension reduced the risk of developing severe hypertension but had no effect on adverse perinatal outcomes, and the authors stated it remains unclear whether therapy for mild-to-moderate hypertension during pregnancy is worthwhile. In the 2015 CHIPS trial comparing less tight control (target diastolic blood pressure below 100 mm Hg) with tight control (target diastolic blood pressure below 85 mm Hg) in 987 pregnant women, 75% with chronic hypertension, tight control conferred no fetal benefit and only marginal maternal effects. A large multicenter, randomized study in the United States evaluating a strategy aiming for less than 140/90 mm Hg versus no treatment (unless hypertension is severe) is ongoing. In the absence of clear evidence supporting therapy for lower pressures, initiation of antihypertensive therapy is recommended for persistent chronic hypertension when systolic pressure is 160 mm Hg or more, diastolic pressure is 110 mm Hg or more, or both, and in the setting of comorbidities or underlying impaired renal function, treating at lower blood pressure thresholds may be appropriate.
 
 ---
 
-### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^bbd3122a]. Journal of the American Heart Association (2019). Medium credibility.
+### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^115oTah7]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background
 
@@ -995,7 +995,7 @@ affects a substantial number of people in China, however, few are aware of havin
 
 ---
 
-### Is a targeted intensive intervention effective for improvements in hypertension control? A randomized controlled trial [^4f66da5f]. Family Practice (2012). Low credibility.
+### Is a targeted intensive intervention effective for improvements in hypertension control? A randomized controlled trial [^1132ia14]. Family Practice (2012). Low credibility.
 
 Background
 
@@ -1019,7 +1019,7 @@ There was no impact of the moderate intervention and no additional impact of the
 
 ---
 
-### Treatment of prehypertension in diabetes and metabolic syndrome: what are the pros? [^aeeacee5]. Diabetes Care (2009). Low credibility.
+### Treatment of prehypertension in diabetes and metabolic syndrome: what are the pros? [^115UKiU4]. Diabetes Care (2009). Low credibility.
 
 In 2003, the Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC VII) published its ultimate guidelines for hypertension prevention and management. One of the key messages was the definition of a new category of blood pressure (BP) levels, i.e. prehypertension, that included individuals with a systolic BP of 120–139 mmHg or a diastolic BP of 80–89 mmHg. Patients with prehypertension were considered at increased risk for progression to hypertension and individuals in the 130/80 to 139/89 mmHg range were at twice the risk of developing hypertension than subjects with lower values. In the same year, the European Society of Hypertension and the European Society of Cardiology (ESH-ESC) published their guidelines for the management of arterial hypertension and, for the same range of BP, two different categories of BP were defined: normal BP (systolic BP of 120–129 mmHg, or diastolic BP of 80–84 mmHg) and high-normal BP (systolic BP of 130–139 mmHg, or diastolic BP of 85–89 mmHg).
 
@@ -1027,7 +1027,7 @@ In 2007, the ESH-ESC committee decided against using the term "prehypertension" 
 
 ---
 
-### Sex and gender in hypertension guidelines [^0dfc08a8]. Journal of Human Hypertension (2023). Medium credibility.
+### Sex and gender in hypertension guidelines [^111MjVgK]. Journal of Human Hypertension (2023). Medium credibility.
 
 Results
 
@@ -1045,7 +1045,7 @@ However, it was underlined that different drug treatment algorithms, including r
 
 ---
 
-### Effects of blood pressure lowering on major vascular events among patients with isolated diastolic hypertension: the perindopril protection against recurrent stroke study (PROGRESS) trial [^37cfc109]. Stroke (2011). Low credibility.
+### Effects of blood pressure lowering on major vascular events among patients with isolated diastolic hypertension: the perindopril protection against recurrent stroke study (PROGRESS) trial [^112Rk6si]. Stroke (2011). Low credibility.
 
 Background and Purpose
 
@@ -1065,19 +1065,19 @@ BP lowering is likely to provide a similar level of protection against major vas
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^7a4f4bda]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^1148L8CR]. JAMA (2014). Excellent credibility.
 
 JNC 8 — Recommendation 2 (general population < 60 years) — initiate pharmacologic treatment to lower DBP at DBP ≥ 90 mm Hg and treat to a goal DBP < 90 mm Hg (For ages 30–59 years, Strong Recommendation - Grade A; For ages 18–29 years, Expert Opinion - Grade E).
 
 ---
 
-### 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American college of cardiology solution set oversight committee [^37c9d209]. Journal of the American College of Cardiology (2023). High credibility.
+### 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American college of cardiology solution set oversight committee [^112Ri7HA]. Journal of the American College of Cardiology (2023). High credibility.
 
 Hypertension in HFpEF — prevalence and management context: The role of blood pressure control is well established for the prevention of heart failure (HF), and for reduction of other cardiovascular events and mortality in individuals without HF. Hypertension is the most important identified cause of heart failure with preserved ejection fraction (HFpEF), with a prevalence of 60% to 89% in the HFpEF population, and cardiac structural and functional abnormalities with hypertension, such as left ventricular hypertrophy and diastolic dysfunction, form the substrate for HFpEF most commonly seen in older adults, especially women. Although blood pressure-lowering has not been associated with improved outcomes in trials of individuals with HFpEF, uncontrolled blood pressure may precipitate acute HF decompensation, and individuals with HFpEF can have an exaggerated hypertensive response to exercise. Appropriate management of HFpEF-associated comorbidities is extrapolated from relevant guidelines, and the 2017 ACC/AHA guideline for the management of hypertension offers a Class 1 recommendation that adults with HFpEF should have blood pressure medications.
 
 ---
 
-### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^463c82c6]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^112o8TaD]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -1093,19 +1093,19 @@ In this secondary analysis of SPRINT, among treated patients with normalized sys
 
 ---
 
-### US hypertension management guidelines: a review of the recent past and recommendations for the future [^995f5b6b]. Journal of the American Heart Association (2015). Low credibility.
+### US hypertension management guidelines: a review of the recent past and recommendations for the future [^114vP8pi]. Journal of the American Heart Association (2015). Low credibility.
 
 Other supporting evidence for DBP treatment thresholds includes the Veterans Administration Cooperative Study Group on Antihypertensive Agents, in which 380 men with DBP 90 to 114 mm Hg were randomized to antihypertensive therapy or placebo. Those receiving treatment benefited from a reduction in both morbidity and mortality. 35 The same findings were seen in the MRC (Medical Research Council, N = 17 354) and HDFP (Hypertension Detection and Follow‐up, N = 10 940) trials, with those with DBP > 90 mm Hg benefiting from active treatment, especially in stroke reduction. 36, 37
 
 ---
 
-### Treatment and blood pressure control in isolated systolic hypertension vs diastolic hypertension in primary care [^27700db2]. Journal of Human Hypertension (2003). Low credibility.
+### Treatment and blood pressure control in isolated systolic hypertension vs diastolic hypertension in primary care [^1121U9yB]. Journal of Human Hypertension (2003). Low credibility.
 
 Cross-sectional surveys on prevalence, treatment and control of hypertension could not satisfactorily distinguish between diastolic hypertension and isolated systolic hypertension because the definition of hypertension included patients under pharmacological treatment. We assessed the situation in the two types of hypertension in general practice in Belgium, based on current blood pressure (BP) measurements and on BP prior to the initiation of drug therapy. Participating physicians enrolled the first 15 at least 55-year-old men visiting the surgery, measured their BP and recorded data on medical history including pretreatment BP, drug utilization, cardiovascular risk factors and target organ damage. Diastolic hypertension was defined as diastolic BP ≥ 90 mmHg, irrespective of systolic BP, and isolated systolic hypertension as systolic BP ≥ 140 mmHg and diastolic BP < 90 mmHg. Among 3761 evaluable patients, 74% were hypertensive. Among the 1533 hypertensive patients in whom blood pressure was known prior to treatment (n = 965) or who were untreated at the study visit (n = 568), 1164 had diastolic hypertension and 369 isolated systolic hypertension. The prevalence of antihypertensive treatment was, respectively, 75 and 25% (P < 0.001) in these two types of hypertension. The odds of being treated were independently determined by type of hypertension, severity of hypertension and level of risk (P < 0.001). BP was controlled in 25% of all patients with diastolic hypertension and in 13% of all patients with isolated systolic hypertension (P < 0.001). About half of the treated patients with systolic hypertension were on a diuretic and/or a calcium-channel blocker. In conclusion, isolated systolic hypertension is less frequently treated than diastolic hypertension, overall BP control is poor and actual drug therapy diverges from recommendations based on placebo-controlled intervention trials.
 
 ---
 
-### Influence of baseline diastolic blood pressure on effects of intensive compared with standard blood pressure control [^ddf53771]. Circulation (2018). Low credibility.
+### Influence of baseline diastolic blood pressure on effects of intensive compared with standard blood pressure control [^116g4dV2]. Circulation (2018). Low credibility.
 
 Background
 
@@ -1129,7 +1129,7 @@ URL: https://www.clinicaltrials.gov. Unique identifier: NCT01206062.
 
 ---
 
-### Age and the effectiveness of anti-hypertensive therapy on improvement in diastolic function [^a518489b]. Journal of Hypertension (2014). Low credibility.
+### Age and the effectiveness of anti-hypertensive therapy on improvement in diastolic function [^115Dm7ai]. Journal of Hypertension (2014). Low credibility.
 
 Objective
 
@@ -1149,7 +1149,7 @@ In our sample of individuals with hypertension and diastolic dysfunction, older 
 
 ---
 
-### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^052d0e17]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiovascular risk in patients with treated isolated diastolic hypertension and isolated low diastolic blood pressure [^1118g59p]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -1165,7 +1165,7 @@ In this secondary analysis of SPRINT, among treated patients with normalized sys
 
 ---
 
-### Hypertension Canada's 2020 comprehensive guidelines for the prevention, diagnosis, risk assessment, and treatment of hypertension in adults and children [^62ef8fad]. The Canadian Journal of Cardiology (2020). High credibility.
+### Hypertension Canada's 2020 comprehensive guidelines for the prevention, diagnosis, risk assessment, and treatment of hypertension in adults and children [^113XgFeU]. The Canadian Journal of Cardiology (2020). High credibility.
 
 Regarding medical management for hypertension, more specifically with respect to indications for treatment, general population, HC 2020 guidelines recommend to consider initiating antihypertensive therapy for average DBP readings of ≥ 90 mmHg
 or for average SBP readings of ≥ 140 mmHg
@@ -1173,25 +1173,25 @@ in the presence of macrovascular target organ damage or other independent cardio
 
 ---
 
-### Guidelines for hypertension: are quality-assurance measures on target? [^7868502a]. Hypertension (2004). Low credibility.
+### Guidelines for hypertension: are quality-assurance measures on target? [^1145WZ13]. Hypertension (2004). Low credibility.
 
 Guideline committees recommend targets of treatment based on trial data on efficacy and effectiveness. Quality-assurance initiatives apply these parameters in the general practice setting. Therefore, targets must be feasible and achievable by the practicing physicians who are judged by these targets as goals for care. We evaluated 437 patients in the Rush University Hypertension Clinic using the Health Employer Data Information Set (HEDIS) measures for 2000 to assess goal achievement in a practice-based setting. We compared guideline achievement of uncomplicated hypertensive and diabetic subjects to standards dictated by HEDIS, the 6th Joint National Committee on the Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC VI), and the American Diabetic Association (ADA)/National Kidney Foundation (NKF). Overall, 276 (63%) patients achieved SBP goal, with 376 (86%) achieving DBP goal and 358 (59%) achieving both goals. However, in the 20% of patients who were diabetic, only 52% had a BP of < 140 mm Hg and < 90 mm Hg, whereas only 22% achieved the more stringent goals of JNC VI of < 130 mm Hg systolic and < 85 mm Hg diastolic and only 15% achieved the ADA/NKF goals of < 130 mm Hg systolic and < 80 mm Hg diastolic. Although goal was achievable in most uncomplicated hypertension, hypertension in diabetes was more difficult to control, despite being more likely to receive enhanced benefit from effective management. Goal-oriented strategy, especially in diabetic subjects, should be aggressively sought rather than relaxing goals to promote achievement.
 
 ---
 
-### Hypertensive heart disease [^bd3ed0c9]. Hypertension Research (2005). Low credibility.
+### Hypertensive heart disease [^115qZm1S]. Hypertension Research (2005). Low credibility.
 
 Left ventricular hypertrophy (LVH) and diastolic dysfunction (CHF-D) are the early manifestations of cardiovascular target organ damage in patients with arterial hypertension and signify hypertensive heart disease. Identification of hypertensive heart disease is critical, as these individuals are more prone to congestive heart failure, arrhythmias, myocardial infarction and sudden cardiac death. Regression of left ventricular (LV) mass with antihypertensive therapy decreases the risk of future cardiovascular events. The goal of antihypertensive therapy is to both lower blood pressure (BP) and interrupt BP-independent pathophysiologic processes that promote LVH and CHF-D. The purpose of this review is to summarize current and emerging approaches to the pathophysiology and treatment of hypertensive heart disease.
 
 ---
 
-### The impact of JNC-VI guidelines on treatment recommendations in the US population [^b13320c7]. Hypertension (2002). Low credibility.
+### The impact of JNC-VI guidelines on treatment recommendations in the US population [^115XhywC]. Hypertension (2002). Low credibility.
 
 Using epidemiological and clinical trial evidence, the sixth report of the Joint National Committee on Prevention, Detection, and Treatment of High Blood Pressure (JNC-VI) updated previous guidelines to suggest that in addition to blood pressure, decisions on initial treatment should emphasize absolute cardiovascular disease risk. We estimated the impact of using cardiovascular disease risk on treatment recommendations for the US population using data from 16 527 participants in the Third National Health and Nutrition Examination Survey. In the US population ≥ 20 years of age, 36% (62 million) had high-normal blood pressure or greater (systolic/diastolic blood pressure ≥ 130 mm Hg/ ≥ 85 mm Hg) or were taking antihypertensive medication. Of this population, 5.1% (3.2 million) were stratified into risk group A (no cardiovascular disease risk factors or prevalent cardiovascular disease), 66.3% (41.4 million) into risk group B (≥ 1 major risk factor), and 28.6% (17.9 million) into risk group C (diabetes mellitus, clinical cardiovascular disease, target organ damage). Also, 26% of this group (16.2 million) had high-normal blood pressure and were in risk groups A or B, a context in which vigorous lifestyle modification is recommended in the JNC-VI guidelines. Additionally, 11% (7.0 million) had high-normal blood pressure (systolic/diastolic, 130 to 139 mm Hg/85 to 89 mm Hg, respectively) or stage-1 hypertension (140 to 159 mm Hg/90 to 99 mm Hg), and at least 1 factor, placing them in risk group C, but they were not currently on antihypertensive medication. JNC-VI, but not previous JNC guidelines, specifically recommends drug therapy as initial treatment for these patients. We conclude that JNC-VI refines cardiovascular risk and enfranchises more Americans to undertake more aggressive risk reduction maneuvers.
 
 ---
 
-### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^b3025371]. Journal of the American Heart Association (2019). Medium credibility.
+### Prevalence, awareness, and treatment of isolated diastolic hypertension: insights from the China PEACE million persons project [^115aPZkt]. Journal of the American Heart Association (2019). Medium credibility.
 
 Table 1
 Baseline Characteristics of Participants With Isolated Diastolic Hypertension Compared With Normotensives and Other Hypertensives
@@ -1211,13 +1211,13 @@ The 1198 subgroups varied with respect to the prevalence of participants with ID
 
 ---
 
-### Clinical policy: critical issues in the evaluation and management of adult patients with asymptomatic hypertension in the emergency department [^df44c228]. Annals of Emergency Medicine (2006). Medium credibility.
+### Clinical policy: critical issues in the evaluation and management of adult patients with asymptomatic hypertension in the emergency department [^116i1LNB]. Annals of Emergency Medicine (2006). Medium credibility.
 
 Classification and management of blood pressure for adults aged 18 years or older detail categories, lifestyle modification, and initial drug therapy. Normal is defined as systolic < 120 mm Hg and diastolic < 80 mm Hg with lifestyle modification to encourage. Prehypertension is 120–139 mm Hg systolic or 80–89 mm Hg diastolic, lifestyle modification is yes, and without compelling indications no antihypertensive drug is indicated. Stage 1 hypertension is 140–159 mm Hg systolic or 90–99 mm Hg diastolic, lifestyle modification is yes, and without compelling indications initial therapy is thiazide-type diuretics for most; may consider ACE inhibitor, ARB, β-blocker, CCB, or combination. Stage 2 hypertension is ≥ 160 mm Hg systolic or ≥ 100 mm Hg diastolic, lifestyle modification is yes, and without compelling indications initial therapy is a 2-drug combination for most (usually thiazide-type diuretic and ACE inhibitor or ARB or β-blocker or CCB). With compelling indications, use drug(s) for the compelling indications, with other antihypertensive drugs (diuretics, ACE inhibitor, ARB, β-blocker, CCB) as needed. Treatment is determined by highest BP category. Treat patients with chronic kidney disease or diabetes to BP goal of less than 130/80 mm Hg. Initial combined therapy should be used cautiously in those at risk for orthostatic hypotension.
 
 ---
 
-### Potential impact of 2017 American college of cardiology / American Heart Association hypertension guideline on contemporary practice: a cross-sectional analysis from NCDR PINNACLE registry [^7295f6b3]. Journal of the American Heart Association (2022). Medium credibility.
+### Potential impact of 2017 American college of cardiology / American Heart Association hypertension guideline on contemporary practice: a cross-sectional analysis from NCDR PINNACLE registry [^113vsxev]. Journal of the American Heart Association (2022). Medium credibility.
 
 The 2017 American College of Cardiology (ACC)/American Heart Association (AHA) Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adultsprovides blood pressure (BP) thresholds for the diagnosis of hypertension, initiation of antihypertensive treatment, and targets for BP control. Compared with recommendations from the 2014 report from the expert panel, composed of members appointed to the intended Eighth Joint National Committeeand the 2003 Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC7), notable differences in definitions exist (Table 1).
 
@@ -1228,13 +1228,13 @@ First, the ACC/AHA guideline uses a lower systolic and diastolic BP threshold of
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^be95ac94]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^115sYvRy]. JAMA (2014). Excellent credibility.
 
 2014 Hypertension Guideline — overview of recommendation set: The recommendations are based on the systematic evidence review; recommendations 1 through 5 address thresholds and goals for blood pressure (BP) treatment, recommendation 9 summarizes strategies based on expert opinion for starting and adding antihypertensive drugs, and the evidence statements supporting the recommendations are in the online Supplement.
 
 ---
 
-### Irbesartan (Avapro) [^c2f6a977]. FDA (2025). Medium credibility.
+### Irbesartan (Avapro) [^115z3T2v]. FDA (2025). Medium credibility.
 
 1.1	Hypertension
 
@@ -1252,13 +1252,13 @@ AVAPRO may be used alone or in combination with other antihypertensive agents.
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a3bce078]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115BkRZ1]. Journal of the American College of Cardiology (2025). High credibility.
 
 Prevention of HF in adults with hypertension — epidemiology and rationale: "Incident hypertension is present in 71% of patients with HFpEF, and the presence of hypertension in people < 40 years of age is highly associated with the development of incident HF". Furthermore, "There is a dose-dependent association between BP level and HF risk, and long-term treatment of systolic and diastolic hypertension has been shown to reduce this risk". Additionally, "Meta-analyses of clinical trials support BP control, rather than a specific medication class, to prevent HF".
 
 ---
 
-### Amlodipine besylate (Norvasc) [^12a6d43e]. FDA (2023). Medium credibility.
+### Amlodipine besylate (Norvasc) [^111UepAZ]. FDA (2023). Medium credibility.
 
 1.1 Hypertension
 
@@ -1276,13 +1276,13 @@ NORVASC may be used alone or in combination with other antihypertensive agents.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^b4e0a966]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^115dAEVK]. VA/DoD (2020). High credibility.
 
 Hypertension definitions and treatment thresholds — VA/DoD CPG background summarizes evolving criteria and the Work Group definition. JNC 7 defined hypertension (HTN) as a systolic blood pressure (SBP) ≥ 140 mm Hg or a diastolic blood pressure (DBP) ≥ 90 mm Hg, and prehypertension was classified as SBP 120–139 or DBP 80–89. The 2017 ACC/AHA defines HTN as an SBP ≥ 130 mm Hg, a DBP ≥ 80 mm Hg, or both; it removed prehypertension and added elevated blood pressure defined as an SBP of 120–129 with a DBP < 80 mm Hg. For this CPG, the Work Group defines HTN as an SBP ≥ 130 mm Hg, a DBP ≥ 90 mm Hg, or both, and also as SBP and/or DBP at or above 130/90 mm Hg, assuming proper measurement technique. The page notes that treatment benefit has not been proven for lowering slightly elevated blood pressures to a "normal" blood pressure of 115/75 mm Hg, and for those with a blood pressure above "normal" but not in the hypertensive range there is no evidence to date that there is a benefit from treatment.
 
 ---
 
-### Potential U.S. population impact of the 2017 ACC / AHA high blood pressure Guideline [^6cdc067d]. Journal of the American College of Cardiology (2018). Low credibility.
+### Potential U.S. population impact of the 2017 ACC / AHA high blood pressure Guideline [^113nPZsi]. Journal of the American College of Cardiology (2018). Low credibility.
 
 Background
 
@@ -1306,19 +1306,19 @@ Compared with the JNC7 guideline, the 2017 ACC/AHA guideline results in a substa
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^08760655]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111DYYZa]. Journal of the American College of Cardiology (2025). High credibility.
 
 2025 High Blood Pressure Guideline — blood pressure classification defines normal blood pressure as < 120 mm Hg systolic and < 80 mm Hg diastolic; elevated blood pressure as 120 to 129 mm Hg systolic and < 80 mm Hg diastolic; stage 1 hypertension as 130 to 139 mm Hg systolic or 80 to 89 mm Hg diastolic; and stage 2 hypertension as ≥ 140 mm Hg systolic or ≥ 90 mm Hg diastolic.
 
 ---
 
-### Association of isolated diastolic hypertension based on the cutoff value in the 2017 American college of cardiology / American Heart Association blood pressure guidelines with subsequent cardiovascular events in the general population [^7453ce3d]. Journal of the American Heart Association (2020). Medium credibility.
+### Association of isolated diastolic hypertension based on the cutoff value in the 2017 American college of cardiology / American Heart Association blood pressure guidelines with subsequent cardiovascular events in the general population [^113yTiMa]. Journal of the American Heart Association (2020). Medium credibility.
 
 Hypertension is a major cause of cardiovascular disease (CVD) 1, 2, 3 and is diagnosed based on both systolic blood pressure (SBP) and diastolic blood pressure (DBP). The 2017 American College of Cardiology (ACC)/American Heart Association (AHA) guidelines for hypertension lowered the threshold of blood pressure (BP) from 140/90 mm Hg to 130/80 mm Hg. 4 However, the 2018 European Society of Cardiology/European Society of Hypertension guidelines for the management of arterial hypertension retained the cutoff value of BP for hypertension at 140/90 mm Hg. 5 Although several studies confirmed the validity of the updated ACC/AHA classification of BP, 6, 7 lowering the threshold of diastolic BP to 80 mm Hg was based on expert opinion. 8 Further, there have been conflicting data regarding the influence of DBP on subsequent cardiovascular events. 9, 10, 11, 12, 13, 14 Particularly, McEvoy et al 9 recently indicated that isolated diastolic hypertension (IDH) according to the cutoff value of DBP, which the 2017 ACC/AHA guidelines suggested was not significantly associated with an increased risk for cardiovascular events. Therefore, the cutoff value of DBP in the 2017 ACC/AHA guidelines is still under debate, and further investigation is warranted to verify the validity of these guidelines. In this study, we sought to explore the association of IDH based on the cutoff value of DBP, which the 2017 ACC/AHA guidelines indicated with the risk of subsequent cardiovascular events among the general population without a prevalent history of CVD using a nationwide epidemiological database.
 
 ---
 
-### Blood pressure targets for hypertension in people with diabetes mellitus [^507cc520]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
+### Blood pressure targets for hypertension in people with diabetes mellitus [^1134KvG7]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
 
 Background
 
@@ -1350,13 +1350,13 @@ At the present time, evidence from randomized trials does not support blood pres
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^54ee2c46]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^113Auxey]. VA/DoD (2020). High credibility.
 
 Goals for blood pressure — systolic goal is < 130 mm Hg. If a less stringent goal is desired per clinical judgment and/or patient preferences, aim for at least < 150 mm Hg for patients age 60 and over and < 140 mm Hg for patients age 60 and over with type 2 diabetes. The diastolic goal is < 90 mm Hg for patients age 30 and over.
 
 ---
 
-### Hypertensive disorders of pregnancy and future maternal cardiovascular risk [^04448021]. Journal of the American Heart Association (2018). Low credibility.
+### Hypertensive disorders of pregnancy and future maternal cardiovascular risk [^1117KxdE]. Journal of the American Heart Association (2018). Low credibility.
 
 Current Guidelines and Recommendations
 
@@ -1364,7 +1364,7 @@ Given that HDP has significant implications for future maternal CVD risk, the qu
 
 ---
 
-### Impact of 2017 ACC / AHA guidelines on prevalence of hypertension and eligibility for antihypertensive treatment in United States and China: nationally representative cross sectional study [^2bffaaad]. BMJ (2018). Excellent credibility.
+### Impact of 2017 ACC / AHA guidelines on prevalence of hypertension and eligibility for antihypertensive treatment in United States and China: nationally representative cross sectional study [^1128ELua]. BMJ (2018). Excellent credibility.
 
 Statistical analysis
 
@@ -1372,13 +1372,13 @@ Firstly, we calculated the average systolic and diastolic blood pressures based 
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^4beaa030]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^112wYt1m]. Hypertension (2025). High credibility.
 
 Regarding medical management for hypertension, more specifically with respect to goals of treatment, BP targets, general population, AANP/AAPA/ABC/ACC/ACCP/ACPM/AGS/AHA/AMA/ASPC/NMA/PCNA/SGIM 2025 guidelines recommend to consider targeting a DBP of < 80 mmHg in adult patients with confirmed HTN who are not at increased risk for CVD, to reduce the risk of cardiovascular events.
 
 ---
 
-### Effects of intensive blood pressure treatment on orthostatic hypertension: individual level meta-analysis [^37efe002]. BMJ (2025). Excellent credibility.
+### Effects of intensive blood pressure treatment on orthostatic hypertension: individual level meta-analysis [^112RvteD]. BMJ (2025). Excellent credibility.
 
 Our study used a definition of orthostatic hypertension that mirrored the one for orthostatic hypotension, used in previous work. However, discussion is ongoing as to how orthostatic hypertension should be defined. Unlike with orthostatic hypotension, which focuses on changes in blood pressure alone, recent guidelines have advocated for a definition that includes both an increase in systolic blood pressure on standing and an elevated standing threshold (systolic blood pressure ≥ 140 mm Hg). This definition was proposed for a general population, not necessarily a hypertensive population. When we used this definition, the prevalence of orthostatic hypertension was substantially lower in our population. Nevertheless, the effects of treatment were even more pronounced. This is due in part to our observation that antihypertensive agents, particularly the longer acting agents used in many of the trials in our study, lower blood pressure in all body positions. As a result, standing hypertension would also be reduced with more intensive treatment. From the perspective of studying mechanisms of injury related to orthostatic hypertension, we caution against the use of this joint definition as it may make identifying and evaluating treatment response to the rise in blood pressure, which itself may be pathologic and occur below the 140 mm Hg threshold, more difficult. Some authors have also questioned whether diastolic blood pressure should be included in definitions of orthostatic hypertension, as diastolic blood pressure usually increases with standing. However, given that systolic and diastolic blood pressure are known to be correlated in both seated and standing positions, their change would be expected to correlate as well, and thus some patients with a rise in diastolic blood pressure would also have a rise in systolic blood pressure. Whether thresholds of change in systolic blood pressure or diastolic blood pressure are optimal for identifying risk with cardiovascular disease should be the focus of subsequent work. Nevertheless, the effects of treatment on orthostatic increases in systolic and diastolic blood pressure as defined in this study, using thresholds that mirrored those for orthostatic hypotension, were quite consistent.
 

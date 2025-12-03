@@ -15,21 +15,21 @@ What is the ICD-10-CM code for folate deficiency anemia?
 
 > Let's see… What do we have here? The user is asking for the ICD-10-CM code for folate deficiency anemia. Let's break this down step-by-step. First, I need to think about the exact ICD-10-CM category for folate-deficiency anemia. Then, I should verify the subcategory options and decide which specific code fits best. Next, I will double-check that I'm not conflating folate with vitamin B12 deficiency, which has a different code family. Finally, I will confirm the code range and provide the most appropriate single code with a brief justification.
 
-> Let me first confirm the category. Folate deficiency anemia is classified under D52, which specifically denotes folate deficiency anemia in ICD-10-CM, distinct from vitamin B12 deficiency anemia (D51) and iron deficiency anemia (D50) [^1befb94c].
+> Let me first confirm the category. Folate deficiency anemia is classified under D52, which specifically denotes folate deficiency anemia in ICD-10-CM, distinct from vitamin B12 deficiency anemia (D51) and iron deficiency anemia (D50) [^111iRBoh].
 
-> Wait, let me verify the subcategories before I jump to a single code. The D52 family includes D52.0 for dietary folate deficiency anemia, D52.1 for drug-induced folate deficiency anemia, D52.8 for other folate deficiency anemias, and D52.9 for unspecified folate deficiency anemia; I should choose the one that matches the clinical scenario, and if no specific etiology is documented, D52.9 is appropriate [^1befb94c].
+> Wait, let me verify the subcategories before I jump to a single code. The D52 family includes D52.0 for dietary folate deficiency anemia, D52.1 for drug-induced folate deficiency anemia, D52.8 for other folate deficiency anemias, and D52.9 for unspecified folate deficiency anemia; I should choose the one that matches the clinical scenario, and if no specific etiology is documented, D52.9 is appropriate [^111iRBoh].
 
-> Hold on, I should verify that I'm not mixing this up with B12 deficiency. Vitamin B12 deficiency anemia uses D51.x codes, whereas folate deficiency anemia uses D52.x codes; this is a common pitfall, so I need to ensure the documentation supports folate rather than cobalamin deficiency before assigning D52 [^1befb94c].
+> Hold on, I should verify that I'm not mixing this up with B12 deficiency. Vitamin B12 deficiency anemia uses D51.x codes, whereas folate deficiency anemia uses D52.x codes; this is a common pitfall, so I need to ensure the documentation supports folate rather than cobalamin deficiency before assigning D52 [^111iRBoh].
 
-> I will now examine the most likely default choice. In the absence of a specified cause such as dietary insufficiency or drug-induced deficiency, the unspecified code D52.9 is the standard fallback that accurately captures "folate deficiency anemia" when no further detail is available [^1befb94c].
+> I will now examine the most likely default choice. In the absence of a specified cause such as dietary insufficiency or drug-induced deficiency, the unspecified code D52.9 is the standard fallback that accurately captures "folate deficiency anemia" when no further detail is available [^111iRBoh].
 
-> But wait, what if the etiology is known? If the record specifies dietary folate deficiency, I should use D52.0; if it notes drug-induced folate deficiency (for example, methotrexate, sulfasalazine, or anticonvulsants), I should use D52.1; and if there is another specified cause, D52.8 would be correct, so I need to align the code with the documented cause [^1befb94c].
+> But wait, what if the etiology is known? If the record specifies dietary folate deficiency, I should use D52.0; if it notes drug-induced folate deficiency (for example, methotrexate, sulfasalazine, or anticonvulsants), I should use D52.1; and if there is another specified cause, D52.8 would be correct, so I need to align the code with the documented cause [^111iRBoh].
 
-> Final answer: The ICD-10-CM code for folate deficiency anemia is D52.9 when the etiology is not specified; use D52.0 for dietary, D52.1 for drug-induced, or D52.8 for other specified causes when those are documented [^1befb94c].
+> Final answer: The ICD-10-CM code for folate deficiency anemia is D52.9 when the etiology is not specified; use D52.0 for dietary, D52.1 for drug-induced, or D52.8 for other specified causes when those are documented [^111iRBoh].
 
 ---
 
-The ICD-10-CM code for folate deficiency anemia is **D52.9** (Folate deficiency anemia, unspecified). Use **D52.0** for dietary folate deficiency anemia, **D52.1** for drug-induced folate deficiency anemia, and **D52.8** for other specified causes. Accurate coding requires documentation of the cause; if unspecified, default to D52.9 [^1befb94c].
+The ICD-10-CM code for folate deficiency anemia is **D52.9** (Folate deficiency anemia, unspecified). Use **D52.0** for dietary folate deficiency anemia, **D52.1** for drug-induced folate deficiency anemia, and **D52.8** for other specified causes. Accurate coding requires documentation of the cause; if unspecified, default to D52.9 [^111iRBoh].
 
 ---
 
@@ -58,7 +58,7 @@ Folate deficiency anemia is a **megaloblastic anemia** characterized by macrocyt
 
 - **Neurological symptoms**: Cognitive impairment, depression, and peripheral neuropathy.
 - **Hematological complications**: Severe anemia, leukopenia, and thrombocytopenia.
-- **Pregnancy complications**: Neural tube defects, preterm birth, and low birth weight [^66fd7b29].
+- **Pregnancy complications**: Neural tube defects, preterm birth, and low birth weight [^113dgsxL].
 
 ---
 
@@ -69,7 +69,7 @@ Diagnosis of folate deficiency anemia relies on **clinical evaluation and labora
 - **Serum folate**: Low levels indicate deficiency.
 - **Red blood cell (RBC) folate**: Reflects long-term folate status.
 - **Homocysteine levels**: Elevated in folate deficiency.
-- **Complete blood count (CBC)**: Macrocytic anemia with elevated mean corpuscular volume (MCV) [^34ec0ea3].
+- **Complete blood count (CBC)**: Macrocytic anemia with elevated mean corpuscular volume (MCV) [^112MTeRG].
 
 ---
 
@@ -77,7 +77,7 @@ Diagnosis of folate deficiency anemia relies on **clinical evaluation and labora
 
 Management of folate deficiency anemia involves correcting the deficiency and addressing the underlying cause:
 
-- **Folic acid supplementation**: 1–5 mg daily, typically for 4 months, with adjustments based on the cause and patient factors [^243e9748].
+- **Folic acid supplementation**: 1–5 mg daily, typically for 4 months, with adjustments based on the cause and patient factors [^111vjaWs].
 - **Dietary modifications**: Increased intake of folate-rich foods (leafy greens, legumes, fortified cereals).
 - **Monitoring**: Regular CBC and folate levels to assess response and prevent recurrence [^notfound].
 
@@ -89,7 +89,7 @@ If left untreated, folate deficiency anemia can lead to **severe complications**
 
 - **Neurological damage**: Persistent cognitive impairment and neuropathy.
 - **Increased risk of infections**: Due to impaired immune function.
-- **Pregnancy complications**: Neural tube defects and adverse fetal outcomes [^66fd7b29].
+- **Pregnancy complications**: Neural tube defects and adverse fetal outcomes [^113dgsxL].
 
 ---
 
@@ -101,13 +101,13 @@ The ICD-10-CM code for folate deficiency anemia is **D52.9** (unspecified), with
 
 ## References
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^dcfa3c6a]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^116ecKzH]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding specific circumstances for folate deficiency, more specifically with respect to patients with pernicious anemia, BSH 2014 guidelines recommend to avoid initial treatment with oral cobalamin in pernicious anemia, but consider in maintenance or correction of suboptimal levels in asymptomatic patients.
 
 ---
 
-### Comparisons of severe maternal morbidity and other adverse pregnancy outcomes in pregnant people with sickle cell disease vs anemia [^b6dd897c]. JAMA Network Open (2023). High credibility.
+### Comparisons of severe maternal morbidity and other adverse pregnancy outcomes in pregnant people with sickle cell disease vs anemia [^115g7ABM]. JAMA Network Open (2023). High credibility.
 
 Defining Anemia
 
@@ -119,19 +119,19 @@ We used 3 analysis groups in our study. The first was the SCD deliveries group, 
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^243e9748]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^111vjaWs]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding medical management for folate deficiency, more specifically with respect to folic acid, BSH 2014 guidelines recommend to initiate folic acid 5 mg PO daily for 4 months in patients with folate-deficient megaloblastic anemia (due to dietary insufficiency, pregnancy, or antiepileptics). Continue treatment in pregnant patients until term. Consider initiating 15 mg daily for 4 months in malabsorptive states.
 
 ---
 
-### Burden of anemia in patients with osteoarthritis and rheumatoid arthritis in French secondary care [^1befb94c]. BMC Geriatrics (2010). Low credibility.
+### Burden of anemia in patients with osteoarthritis and rheumatoid arthritis in French secondary care [^111iRBoh]. BMC Geriatrics (2010). Low credibility.
 
 Patients admitted to a hospital were classified by primary diagnosis and then allocated a randomized code to maintain anonymity. Access to patient information thereafter was available only at the hospital admission or hospital stay level. The two study cohorts were identified from the PMSI database using International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) codes. Arthritis, defined as RA and/or OA, included seropositive RA (ICD-10 code M05), other RA (M06), polyarthrosis (M15), coxarthrosis/hip arthrosis (M16), gonarthrosis/knee arthrosis (M17), arthrosis of first carpometacarpal joint (M18), and other arthrosis (M19). A diagnosis of anemia included iron deficiency anemia (D50.0, D50.1, D50.8, D50.9), vitamin B 12 deficiency anemia (D51.0-D51.3, D51.8, D51.9), folate deficiency anemia (D52.0, D52.1, D52.8, D52.9), other nutritional anemias (D53.0-D53.2, D53.8, D53.9), and acquired hemolytic anemias (D59.0-D59.6, D59.8, D59.9). Patients with alpha and beta thalassemia were not included.
 
 ---
 
-### Addressing the gaps in the vitamin B12 deficiency 2024 NICE guidelines: highlighting the need for better recognition, diagnosis, and management of pernicious anaemia [^f9695374]. European Journal of Clinical Nutrition (2025). Medium credibility.
+### Addressing the gaps in the vitamin B12 deficiency 2024 NICE guidelines: highlighting the need for better recognition, diagnosis, and management of pernicious anaemia [^117NmJ5y]. European Journal of Clinical Nutrition (2025). Medium credibility.
 
 Whilst renaming PA as AIG can add confusion and uncertainty, the name PA has its own shortcomings, which is perhaps why NICE proposed to change it. The term 'pernicious anaemia' suggests that anaemia is a defining characteristic of the disease. However, anaemia is present in only 15–20% of PA diagnoses. Practitioners unfamiliar with PA are commonly misled by the term 'anaemia', as all ICD-10 (D51.0–9) codes for B deficiency incorrectly include the term anaemia. The term 'pernicious' is also an anachronism, predating the 1948 discovery of B as an effective treatment. It was first coined by Anton Biermer in 1871 to describe the fatal anaemia cases seen prior to the discovery of effective treatments. It is important to note that even though anaemia occurs in a minority of PA patients, this represents an important subgroup of patients that requires a different management approach. The current guidelines do not address how to specifically diagnose and manage this subgroup of patients, representing a significant gap in knowledge and warranting further research.
 
@@ -143,19 +143,19 @@ However, a name change could offer significant advantages by reflecting the curr
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^cb1f9ebf]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^116C97DY]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding screening and diagnosis for vitamin B12 deficiency, more specifically with respect to indications for screening, IBD, ECCO 2015 guidelines recommend to correct deficiencies of vitamin B12 and folate to avoid anemia.
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^b6fc376d]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^115gHTs2]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding specific circumstances for iron deficiency anemia, more specifically with respect to patients with IBD, evaluation, ECCO 2015 guidelines recommend to obtain proper surveillance in patients at risk for vitamin B12 or folic acid deficiency (such as small bowel disease or resection). Measure serum levels of vitamin B12 and folic acid at least annually, or if macrocytosis is present in the absence of thiopurine use.
 
 ---
 
-### Trends and predictions of malnutrition and obesity in 204 countries and territories: an analysis of the global burden of disease study 2019 [^5b1129d6]. EClinicalMedicine (2023). Medium credibility.
+### Trends and predictions of malnutrition and obesity in 204 countries and territories: an analysis of the global burden of disease study 2019 [^113L1e1s]. EClinicalMedicine (2023). Medium credibility.
 
 Statistical analysis
 
@@ -173,19 +173,19 @@ The study was exempted from IRB review as the publicly available data did not co
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^1db818b6]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^111m4UfP]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding screening and diagnosis for folate deficiency, more specifically with respect to diagnostic criteria, BSH 2014 guidelines recommend to recognize that a serum folate level < 7 nmol/L (< 3 mcg/L) is indicative of folate deficiency.
 
 ---
 
-### Renal association clinical practice guideline on anaemia of chronic kidney disease [^786e85f4]. BMC Nephrology (2017). Medium credibility.
+### Renal association clinical practice guideline on anaemia of chronic kidney disease [^1145Ydz3]. BMC Nephrology (2017). Medium credibility.
 
 Regarding screening and diagnosis for vitamin B12 deficiency, more specifically with respect to indications for screening, CKD, UKKA 2017 guidelines recommend to consider measuring serum vitamin B12 and folate concentrations to diagnose the cause of anemia in selected (based on the initial assessment) patients with CKD.
 
 ---
 
-### Impact of data source choice on multimorbidity measurement: a comparison study of 2.3 million individuals in the Welsh national health service [^9377957b]. BMC Medicine (2023). Medium credibility.
+### Impact of data source choice on multimorbidity measurement: a comparison study of 2.3 million individuals in the Welsh national health service [^114mdM7G]. BMC Medicine (2023). Medium credibility.
 
 Definition of long-term conditions
 
@@ -195,7 +195,7 @@ Prescribing and laboratory data were available within the PC datasource (WLGP). 
 
 ---
 
-### Estimating effects of serum vitamin B12 levels on psychiatric disorders and cognitive impairment: a mendelian randomization study [^630e8103]. Communications Medicine (2025). Medium credibility.
+### Estimating effects of serum vitamin B12 levels on psychiatric disorders and cognitive impairment: a mendelian randomization study [^113XreTc]. Communications Medicine (2025). Medium credibility.
 
 Fig. 1
 Associations between genetically predicted vitamin B12 and folate levels and various types of anemia.
@@ -206,25 +206,25 @@ In addition, two independent genetic variants, rs1801133 and rs652197, were sign
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^d298f5aa]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^116PDn5F]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding diagnostic investigations for folate deficiency, more specifically with respect to evaluation for medication-associated folate deficiency, BSH 2014 guidelines recommend to consult with pharmacy references to clarify any suspicion of low serum folate levels associated with prescribed medications.
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^772a4a26]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^1143fjQR]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding screening and diagnosis for folate deficiency, more specifically with respect to indications for testing, BSH 2014 guidelines recommend to test for folate deficiency in clinical situations similar to those in which testing for cobalamin deficiency is obtained.
 
 ---
 
-### Evaluation of anemia [^bfa5fd37]. Obstetrics and Gynecology Clinics of North America (2016). Low credibility.
+### Evaluation of anemia [^115u8PZ8]. Obstetrics and Gynecology Clinics of North America (2016). Low credibility.
 
 Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.
 
 ---
 
-### Laboratory testing for and diagnosis of nutritional deficiencies in pregnancy before and after bariatric surgery [^e70eb60d]. Journal of Women's Health (2014). Low credibility.
+### Laboratory testing for and diagnosis of nutritional deficiencies in pregnancy before and after bariatric surgery [^116uZ5hE]. Journal of Women's Health (2014). Low credibility.
 
 Objective
 
@@ -244,25 +244,25 @@ Women with pregnancy after bariatric surgery were tested for and diagnosed with 
 
 ---
 
-### Prevalence, years lived with disability, and trends in anaemia burden by severity and cause, 1990–2021: findings from the global burden of disease study 2021 [^074575e2]. The Lancet: Haematology (2023). High credibility.
+### Prevalence, years lived with disability, and trends in anaemia burden by severity and cause, 1990–2021: findings from the global burden of disease study 2021 [^111BnFAy]. The Lancet: Haematology (2023). High credibility.
 
 This study has a number of limitations. First, data availability varied considerably by age and sex. Although comparatively many haemoglobin surveys exist for children older than 6 months and women of reproductive age, data are much sparser for younger children, adult males, and males and females older than 60 years. In addition, high-quality data at more granular levels to inform subnational estimation, including those subnational locations included in this analysis, are comparatively sparse. Second, WHO anaemia definitions are not available for children younger than 6 months, so we imputed thresholds based on median haemoglobin concentrations for older children; this probably imparted additional uncertainty in burden estimates beyond what is presented. Third, in our causal analysis, we assumed a linear cause-specific haemoglobin shift for any starting haemoglobin value, and we assumed that the shape of the population haemoglobin distribution was constant, which might not capture the true variation in cause-specific effects on haemoglobin distributions across geography and cause. Fourth, because the amount of data available to inform haemoglobin shifts varied substantially by cause (appendix pp 18–25) we were not able to capture uncertainty in the shifts themselves. Fifth, the assumption that each anaemia case has only a single underlying cause, although reflecting a sparsity of data to inform the interplay between diseases, nonetheless is a limitation in that many people with anaemia are likely to have multiple comorbid conditions contributing to their anaemia. Additional data on the combined effects of comorbid conditions on haemoglobin concentrations are needed to fully account for the multiple causes underlying many cases of anaemia. Finally, we were unable to capture all potential causes of anaemia in our causal analysis, owing to an absence of either estimates of disease prevalence or associated haemoglobin shifts. These potential causes include cancers, injuries, some micronutrient deficiencies (eg, folate and cobalamin), causes of inflammation not already captured in this analysis, and drug reactions. In addition, we had to estimate some causes as residual causes, again because either cause prevalence estimates or haemoglobin shifts were not available; this includes dietary iron deficiency, the largest cause of anaemia in our analyses.
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^d3d22a31]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^116R2yoW]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding medical management for folate deficiency, more specifically with respect to folic acid, BSH 2014 guidelines recommend to consider initiating prophylactic folic acid 5 mg PO daily to weekly in patients with chronic hemolytic states and renal dialysis, depending on the diet and rate of hemolysis.
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^faa7e22d]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^117QcJ5z]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding medical management for Crohn's disease, more specifically with respect to management of anemia (management of non-IDA anemia), ECCO 2015 guidelines recommend to correct deficiencies of vitamin B12 and folate to avoid anemia.
 
 ---
 
-### Folate [^66fd7b29]. Advances in Nutrition (2013). Low credibility.
+### Folate [^113dgsxL]. Advances in Nutrition (2013). Low credibility.
 
 The following constitutes key background information on folate deficiency:
 
@@ -274,7 +274,7 @@ The following constitutes key background information on folate deficiency:
 
 ---
 
-### Intraoperative risk factors of acute kidney injury after liver transplantation [^974ba277]. Liver Transplantation (2022). Medium credibility.
+### Intraoperative risk factors of acute kidney injury after liver transplantation [^114sJY2z]. Liver Transplantation (2022). Medium credibility.
 
 Covariates
 
@@ -282,19 +282,19 @@ In the MPOG database, data are stored, validated, and extracted for quality impr
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^31b0a1b9]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^112Gfisa]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding diagnostic investigations for folate deficiency, more specifically with respect to serum folate and cobalamin, BSH 2014 guidelines recommend to obtain cobalamin and folate assays concurrently, given the close relationship in their metabolism.
 
 ---
 
-### Folic acid supplementation to prevent neural tube defects: US preventive services task force reaffirmation recommendation statement [^3e685e99]. JAMA (2023). Excellent credibility.
+### Folic acid supplementation to prevent neural tube defects: US preventive services task force reaffirmation recommendation statement [^112bXHkk]. JAMA (2023). Excellent credibility.
 
 Regarding specific circumstances for folate deficiency, more specifically with respect to pregnant patients, USPSTF 2023 guidelines recommend to offer folic acid supplementation of 400–800 mcg/day in all individuals planning to or who could become pregnant, to prevent fetal neural tube defects.
 
 ---
 
-### Association between folic acid prescription fills and suicide attempts and intentional self-harm among privately insured US adults [^39bfd9d2]. JAMA Psychiatry (2022). High credibility.
+### Association between folic acid prescription fills and suicide attempts and intentional self-harm among privately insured US adults [^112Ucjcu]. JAMA Psychiatry (2022). High credibility.
 
 Importance
 
@@ -326,19 +326,19 @@ This large-scale pharmacoepidemiologic study of folic acid found a beneficial as
 
 ---
 
-### Screening and supplementation for iron deficiency and iron deficiency anemia during pregnancy: US preventive services task force recommendation statement [^63313098]. JAMA (2024). Excellent credibility.
+### Screening and supplementation for iron deficiency and iron deficiency anemia during pregnancy: US preventive services task force recommendation statement [^113Y4JCF]. JAMA (2024). Excellent credibility.
 
 Related USPSTF recommendations — other relevant guidance includes separate recommendations on screening for iron deficiency anemia in children aged 6 to 24 months and folic acid supplementation to prevent neural tube defects in persons who plan to or could become pregnant.
 
 ---
 
-### ACG clinical guidelines: diagnosis and management of celiac disease [^635c7fa4]. The American Journal of Gastroenterology (2013). Medium credibility.
+### ACG clinical guidelines: diagnosis and management of celiac disease [^113YJqvB]. The American Journal of Gastroenterology (2013). Medium credibility.
 
 Regarding screening and diagnosis for vitamin B12 deficiency, more specifically with respect to indications for screening, IBD, ACG 2013 guidelines recommend to evaluate and treat vitamin B12 and folate deficiencies in patients with newly diagnosed celiac disease.
 
 ---
 
-### Association between atopic disease and anemia in pediatrics: a cross-sectional study [^e21bd29b]. BMC Pediatrics (2019). Medium credibility.
+### Association between atopic disease and anemia in pediatrics: a cross-sectional study [^116nDYie]. BMC Pediatrics (2019). Medium credibility.
 
 Methods
 
@@ -354,13 +354,13 @@ We included atopic dermatitis, allergic rhinitis, and asthma as atopic disease b
 
 ---
 
-### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^cd38df89]. Journal of Crohn's & Colitis (2015). Medium credibility.
+### European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases [^116FFZkU]. Journal of Crohn's & Colitis (2015). Medium credibility.
 
 Regarding medical management for ulcerative colitis, more specifically with respect to management of anemia (management of non-IDA anemia), ECCO 2015 guidelines recommend to correct deficiencies of vitamin B12 and folate to avoid anemia.
 
 ---
 
-### Post-bariatric surgery lab tests: are they excessive and redundant? [^3ae9a7e5]. Surgical Endoscopy (2020). Medium credibility.
+### Post-bariatric surgery lab tests: are they excessive and redundant? [^112WLmKz]. Surgical Endoscopy (2020). Medium credibility.
 
 Dependent variable
 
@@ -378,7 +378,7 @@ Each of the 17 conditions defined by the Charlson Index were examined for potent
 
 ---
 
-### Folic acid (multitam) [^4bbf0a1c]. FDA (2024). Medium credibility.
+### Folic acid (multitam) [^112wJEtK]. FDA (2024). Medium credibility.
 
 WARNING:
 
@@ -386,43 +386,43 @@ Administration of folate alone is improper therapy for pernicious anemia and oth
 
 ---
 
-### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^2d5f996b]. BMC Nephrology (2025). High credibility.
+### UK kidney association clinical practice guideline: update of anaemia of chronic kidney disease [^112AGZ78]. BMC Nephrology (2025). High credibility.
 
 Regarding screening and diagnosis for anemia of chronic kidney disease, more specifically with respect to diagnostic criteria, UKKA 2025 guidelines recommend to consider suspecting CKD as a possible cause of anemia when the GFR is < 60 mL/min/1.73 m², especially if < 30 mL/min/1.73 m² (or < 45 mL/min/1.73 m² in patients with diabetes) and no other cause such as blood loss, folic acid or vitamin B12 deficiency is identified.
 
 ---
 
-### KDIGO clinical practice guideline for anemia in chronic kidney disease [^38764bc0]. KDIGO (2012). Medium credibility.
+### KDIGO clinical practice guideline for anemia in chronic kidney disease [^112Si3NX]. KDIGO (2012). Medium credibility.
 
 KDIGO anemia in chronic kidney disease — vitamin B12 and folate testing notes these are uncommon but treatable causes of anemia linked to macrocytosis and low red blood cell (RBC) indices, with limited data indicating the prevalence is ≤ 10% of hemodialysis patients and unknown in CKD. Because these deficiencies are easily correctable and vitamin B12 deficiency may signal other disease processes, assessment of folate and vitamin B12 levels are generally considered standard components of anemia evaluation, especially with macrocytosis. Folate deficiency is best detected with serum folate testing, and RBC folate can be measured when serum levels are equivocal or recent dietary intake may obscure deficiency using serum levels alone.
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^34ec0ea3]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^112MTeRG]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding diagnostic investigations for folate deficiency, more specifically with respect to CBC and peripheral blood smear, BSH 2014 guidelines recommend to consider suspecting cobalamin or folate deficiency in patients in whom blood film shows oval macrocytes and hypersegmented neutrophils in the presence of an elevated MCV.
 
 ---
 
-### Trimethoprim [^457eaf53]. FDA (2024). Medium credibility.
+### Trimethoprim [^112n2hTx]. FDA (2024). Medium credibility.
 
 Contraindication regarding the use of trimethoprim PO and folate deficiency or folate deficiency megaloblastic anemia: patients should be aware of signs of hematologic disorders and, if necessary, have a CBC taken
 
 ---
 
-### KDIGO clinical practice guideline for anemia in chronic kidney disease [^87f4b5e3]. KDIGO (2012). Medium credibility.
+### KDIGO clinical practice guideline for anemia in chronic kidney disease [^114UZXPY]. KDIGO (2012). Medium credibility.
 
 Chronic kidney disease anemia — potentially correctable versus non-correctable factors beyond ESA deficiency: Table 3 lists easily correctable factors (Absolute iron deficiency; Vitamin B12/folate deficiency; Hypothyroidism; ACEI/ARB; Non-adherence), potentially correctable factors (Infection/inflammation; Hemodialysis; Hemolysis; Bleeding; Hyperparathyroidism; PRCA; Malignancy; Malnutrition), and impossible to correct factors (Hemoglobinopathies; Bone marrow disorders), with abbreviations defined for ACEI, ARB, and PRCA.
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^c9b01dc1]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^116A1ffW]. DoD/VA (2025). High credibility.
 
 VA/DoD CKD primary care — anemia: Evaluate for underlying cause of anemia and assess for nutritional deficiency and replete iron, vitamin B12, and folate stores if levels low. Refer to nephrology if patient has CKD stage G3b or higher and persistent hemoglobin < 10 for consideration of ESA. Refer for IV iron, if patient has persistent iron deficiency (transferrin saturation < 20%, ferritin < 100 ng/ml) despite trial of oral iron (after age-appropriate evaluation for etiology or if patient unable to tolerate oral iron).
 
 ---
 
-### Folic acid (multitam) [^497dcc4d]. FDA (2024). Medium credibility.
+### Folic acid (multitam) [^112sxMKJ]. FDA (2024). Medium credibility.
 
 INDICATIONS:
 
@@ -430,25 +430,25 @@ Multitam™ is indicated to provide dietary support to men and women. Folate is 
 
 ---
 
-### Anemia [^3a57a1ea]. Obstetrics and Gynecology Clinics of North America (2001). Low credibility.
+### Anemia [^112VViZf]. Obstetrics and Gynecology Clinics of North America (2001). Low credibility.
 
 Anemia is an enormous problem worldwide that is worse in the developing countries but by no means lacking in developed countries. Women and children are disproportionately affected. Nutritional anemias, mainly caused by a lack of iron and folate, are largely correctable by dietary improvement, but this socioeconomic change may not be readily achieved. The inherited disorders, the hemoglobinopathies and thalassemias, in their heterozygous forms are beneficial to the affected populations. Prevention of the homozygous forms and the serious diseases that result can only be addressed by education. These conditions are seen in all types of medical practice ranging from neonatology to geriatrics and public health and are an ongoing concern to all physicians.
 
 ---
 
-### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^c435f7fd]. British Journal of Haematology (2014). Medium credibility.
+### Guidelines for the diagnosis and treatment of cobalamin and folate disorders [^1161thdW]. British Journal of Haematology (2014). Medium credibility.
 
 Regarding diagnostic investigations for folate deficiency, more specifically with respect to serum homocysteine, BSH 2014 guidelines recommend to consider plasma total homocysteine levels to confirm suspected folate deficiency only in special circumstances; consider a level above 15 μmol/L as indicative of folate deficiency, but assess in relation to local reference ranges.
 
 ---
 
-### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^a35220af]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^115B8Zup]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding specific circumstances for folate deficiency, more specifically with respect to pregnant patients, SOGC 2021 guidelines recommend to offer a diet of folate-rich foods and a daily oral multivitamin supplement containing 0.4 mg folic acid and vitamin B12 for at least 2–3 months before conception, throughout the pregnancy, and for 4–6 weeks postpartum or as long as breastfeeding continues in females at low risk for neural tube defects or other folic acid-sensitive congenital anomalies if the male partner also has a low risk.
 
 ---
 
-### Multivitamin, folate (multitol-M) [^fb54f0e0]. FDA (2024). Medium credibility.
+### Multivitamin, folate (multitol-M) [^117RcRWw]. FDA (2024). Medium credibility.
 
 INDICATIONS:
 
@@ -456,14 +456,14 @@ Multitol-M ™ is indicated to provide vitamins and minerals supplement to men a
 
 ---
 
-### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^00a25ffa]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^1111wYKT]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding specific circumstances for folate deficiency, more specifically with respect to pregnant patients, SOGC 2021 guidelines recommend to offer a diet of folate-rich foods and daily oral supplementation with a multivitamin containing 1.0 mg folic acid and vitamin B12 beginning at least 3 months before conception in females at moderate risk for neural tube defects or other folic acid-sensitive congenital anomalies or if the male partner has a moderate risk. Continue this regimen until 12 weeks gestation.
 Continue daily supplementation from 12 weeks gestation with multivitamins with 0.4–1.0 mg folic acid throughout the pregnancy and for 4–6 weeks postpartum or as long as breastfeeding continues.
 
 ---
 
-### Effect of folic acid food fortification in Canada on congenital heart disease subtypes [^2d3798ee]. Circulation (2016). Low credibility.
+### Effect of folic acid food fortification in Canada on congenital heart disease subtypes [^112A37oj]. Circulation (2016). Low credibility.
 
 Case Ascertainment and Classification of CHDs
 
@@ -473,7 +473,7 @@ CHDs among all live births, stillbirths (including pregnancy terminations), and 
 
 ---
 
-### Prevalence of appropriate testing for incident anemia in the US department of veterans affairs [^c261dc6c]. JAMA Network Open (2021). High credibility.
+### Prevalence of appropriate testing for incident anemia in the US department of veterans affairs [^115yBUA7]. JAMA Network Open (2021). High credibility.
 
 Methods
 
@@ -485,19 +485,19 @@ The VA Ann Arbor Healthcare System institutional review board approved the study
 
 ---
 
-### European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders [^a54c8019]. United European Gastroenterology Journal (2019). High credibility.
+### European Society for the Study of Coeliac Disease (ESsCD) guideline for coeliac disease and other gluten-related disorders [^115E4er4]. United European Gastroenterology Journal (2019). High credibility.
 
 Regarding screening and diagnosis for vitamin B12 deficiency, more specifically with respect to indications for screening, IBD, ESsCD 2019 guidelines recommend to obtain testing for vitamin B12 and folate deficiencies in adult patients with newly diagnosed celiac disease.
 
 ---
 
-### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^d60b0a7f]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^116UL4QN]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Evaluation of related anemia — Major morbidities of myelodysplastic syndromes (MDS) include symptomatic anemia and associated fatigue; the health care provider must also identify and treat any coexisting causes of anemia, and standard assessments should be performed to look for gastrointestinal bleeding, hemolysis, renal disease, and nutritional deficiency. If needed, iron, folate, or vitamin B12 studies should be obtained and the cause of depletion corrected, if possible, after which further consideration for treating MDS-related anemia should be undertaken. Anemia related to MDS commonly presents as a hypoproductive macrocytic anemia, often associated with suboptimal elevation of sEPO levels, and bone marrow aspiration with iron stain, biopsy, and cytogenetics should be used to determine WHO subtype, iron status, and the level of RS.
 
 ---
 
-### Folic acid [^7229dc27]. FDA (2025). Medium credibility.
+### Folic acid [^113vFedC]. FDA (2025). Medium credibility.
 
 WARNING
 
@@ -505,19 +505,19 @@ Administration of folic acid alone is improper therapy for pernicious anemia and
 
 ---
 
-### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^1191ad24]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 410: prevention, screening, diagnosis, and pregnancy management for fetal neural tube defects [^111T3io5]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding specific circumstances for folate deficiency, more specifically with respect to pregnant patients, SOGC 2021 guidelines recommend to offer a diet of folate-rich foods and daily oral supplementation with 4.0–5.0 mg folic acid and vitamin B12 for at least 3 months before conception and until 12 weeks gestation in females at high risk for neural tube defects or with a male partner with a neural tube defect affecting himself or his children. Continue daily supplementation from 12 weeks gestation with a multivitamin with 0.4–1.0 mg of folic acid throughout the pregnancy and for 4–6 weeks postpartum or as long as breastfeeding continues.
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^51935cf3]. Gut (2021). High credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^1135wVh4]. Gut (2021). High credibility.
 
 Regarding screening and diagnosis for iron deficiency anemia, more specifically with respect to etiology, BSG 2021 guidelines recommend to look for other causes of IDA in patients presenting with a new IDA with a history of gastrointestinal or bariatric surgery.
 
 ---
 
-### Folate, vitamin d3 (folixate) [^f58932c2]. FDA (2023). Medium credibility.
+### Folate, vitamin d3 (folixate) [^117H23t5]. FDA (2023). Medium credibility.
 
 HOW SUPPLIED
 
@@ -529,7 +529,7 @@ All prescriptions using this product shall be pursuant to state statutes as appl
 
 ---
 
-### Severity of anemia during pregnancy and adverse maternal and fetal outcomes [^20f3d377]. JAMA Network Open (2022). High credibility.
+### Severity of anemia during pregnancy and adverse maternal and fetal outcomes [^111qrW8e]. JAMA Network Open (2022). High credibility.
 
 Definition of Variables
 
@@ -547,13 +547,13 @@ Complications during pregnancy for which the time sequence relative to onset of 
 
 ---
 
-### Screening and supplementation for iron deficiency and iron deficiency anemia during pregnancy: US preventive services task force recommendation statement [^f24c2557]. JAMA (2024). Excellent credibility.
+### Screening and supplementation for iron deficiency and iron deficiency anemia during pregnancy: US preventive services task force recommendation statement [^117CDae2]. JAMA (2024). Excellent credibility.
 
 USPSTF iron deficiency in pregnancy — other related USPSTF recommendations state that the USPSTF has issued separate recommendations on screening for iron deficiency anemia in children aged 6 to 24 months and folic acid supplementation to prevent neural tube defects in persons who plan to or could become pregnant.
 
 ---
 
-### Folate, multivitamin (menatrol) [^78bfc642]. FDA (2023). Medium credibility.
+### Folate, multivitamin (menatrol) [^11461vtH]. FDA (2023). Medium credibility.
 
 Warnings:
 
@@ -565,7 +565,7 @@ Folate in doses above 0.1 mg daily may obscure pernicious anemia, in that hemato
 
 ---
 
-### Folate, vitamin d3 (folixate) [^d7239223]. FDA (2023). Medium credibility.
+### Folate, vitamin d3 (folixate) [^116VxHZk]. FDA (2023). Medium credibility.
 
 WARNINGS AND PRECAUTIONS
 
@@ -573,13 +573,13 @@ Tell your doctor if you have: kidney problems, thyroid disease. This medication 
 
 ---
 
-### Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures-2019 update: cosponsored by American Association of Clinical Endocrinologists / American college of endocrinology, the obesity society, American society for metabolic&bariatric surgery, Obesity Medicine Association, and American society of anesthesiologists- [^e37047b5]. Endocrine Practice (2019). High credibility.
+### Clinical practice guidelines for the perioperative nutrition, metabolic, and nonsurgical support of patients undergoing bariatric procedures-2019 update: cosponsored by American Association of Clinical Endocrinologists / American college of endocrinology, the obesity society, American society for metabolic&bariatric surgery, Obesity Medicine Association, and American society of anesthesiologists- [^116pBuN4]. Endocrine Practice (2019). High credibility.
 
 Nutritional anemias beyond iron deficiency after malabsorptive bariatric procedures (R62): Nutritional anemias can involve vitamin B12, folate, protein, copper, selenium, and zinc and may be evaluated when routine aggressive case finding for iron-deficiency anemia is negative (Grade C; BEL 3).
 
 ---
 
-### ICD-10 code validation for gastrointestinal bleeding in patients receiving oral anticoagulation: nationwide cohort study [^497523c3]. BMC Gastroenterology (2025). Medium credibility.
+### ICD-10 code validation for gastrointestinal bleeding in patients receiving oral anticoagulation: nationwide cohort study [^112suSdx]. BMC Gastroenterology (2025). Medium credibility.
 
 The relatively poor sensitivity of the GIB coding algorithm was not unexpected given the many ICD-10 codes that can be used to code for GIB and may be due to a combination of factors. First, patients may have received nonspecific ICD-10 codes, such as iron-deficiency anemia or diverticular disease. Second, patients may have had GIB during their admission without it being their main complaint, and in that case the patient may only have been assigned ICD-10 codes related to their main complaint. Supporting this, the GIB events that the algorithm missed were not as severe as the events that it identified.
 
@@ -589,13 +589,13 @@ The study also has several limitations. First, although the study included data 
 
 ---
 
-### Folate [^15d1b57e]. Advances in Nutrition (2013). Low credibility.
+### Folate [^111ZMBNu]. Advances in Nutrition (2013). Low credibility.
 
 The disease folate deficiency can be associated with anemia, ↓ hemoglobin, celiac disease findings, pancytopenia, ↓ reticulocyte count, macrocytic anemia, current pregnancy, depression, fatigue, sore and red tongue, ↑ MCV, visual disorder, medications, confusion, memory impairment, mouth ulcers, alcohol consumption, paresthesia, lack of folic acid in diet, muscle weakness, ↑ serum homocysteine, ↓ serum folate and ↑ serum MMA.
 
 ---
 
-### Iron deficiency anemia impacts disease progression and healthcare resource consumption in patients with inflammatory bowel disease: a real-world evidence study [^1bb239af]. Therapeutic Advances in Gastroenterology (2023). Medium credibility.
+### Iron deficiency anemia impacts disease progression and healthcare resource consumption in patients with inflammatory bowel disease: a real-world evidence study [^111i4Xie]. Therapeutic Advances in Gastroenterology (2023). Medium credibility.
 
 Methods
 
@@ -607,13 +607,13 @@ To guarantee patients' privacy, an anonymous univocal numeric code was assigned 
 
 ---
 
-### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^ee9f1bec]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
+### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^1176mVmM]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
 
 Anemia in children with inflammatory bowel disease — vitamin deficiency thresholds indicate that vitamin B12 levels below 200 pg/mL and serum folate levels below 7 nmoles/L or RBC folate levels below 340 nmoles/L are suggestive of deficiency.
 
 ---
 
-### Global burden and cross-country inequalities of nutritional deficiencies in adults aged 65 years and older, 1990–2021: population-based study using the GBD 2021 [^d2d51381]. BMC Geriatrics (2025). Medium credibility.
+### Global burden and cross-country inequalities of nutritional deficiencies in adults aged 65 years and older, 1990–2021: population-based study using the GBD 2021 [^116PZyEp]. BMC Geriatrics (2025). Medium credibility.
 
 Disease definitions
 
@@ -623,7 +623,7 @@ Statistical analysis
 
 ---
 
-### Folic acid (ventrixyl) [^314e6bdb]. FDA (2024). Medium credibility.
+### Folic acid (ventrixyl) [^112G6jaa]. FDA (2024). Medium credibility.
 
 WARNING:
 
@@ -631,13 +631,13 @@ Administration of folic acid alone is improper therapy for pernicious anemia and
 
 ---
 
-### Prenatal multivitamin tablet and combination omega-3 softgel / mineral capsule (accentrate PNV) [^420e2d7a]. FDA (2025). Medium credibility.
+### Prenatal multivitamin tablet and combination omega-3 softgel / mineral capsule (accentrate PNV) [^112gvwoX]. FDA (2025). Medium credibility.
 
 Summary: This product is a Prescription Prenatal Multivitamin Tablet containing folate that, due to advanced folate levels, requires administration under the care of a licensed medical practitioner. "Rx Only" on the label is to ensure prescription dispensing and that the product is administered under the supervision of a licensed medical practitioner due to the increased risk associated with masking of B12 deficiency (pernicious anemia). The "Rx Only" status and a National Drug Code (NDC), or similar Product Code, facilitate pedigree reporting requirements and supply-chain control as well as, in some cases, insurance-reimbursement applications.
 
 ---
 
-### Approach to anaemia in gastrointestinal disease: a position paper by the ESPGHAN gastroenterology committee [^be11a05b]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
+### Approach to anaemia in gastrointestinal disease: a position paper by the ESPGHAN gastroenterology committee [^115rnZw8]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
 
 3 DEFINITION OF ANAEMIA
 
@@ -664,7 +664,7 @@ Anaemia is defined by a haemoglobin (Hb) level or red cell mass below the range 
 
 ---
 
-### Severity of anemia during pregnancy and adverse maternal and fetal outcomes [^9013cda5]. JAMA Network Open (2022). High credibility.
+### Severity of anemia during pregnancy and adverse maternal and fetal outcomes [^114gbsP2]. JAMA Network Open (2022). High credibility.
 
 Importance
 
@@ -696,13 +696,13 @@ The findings suggest that anemia during pregnancy is associated with maternal an
 
 ---
 
-### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^80df5a00]. Gut (2021). High credibility.
+### British society of gastroenterology guidelines for the management of iron deficiency anaemia in adults [^114J4SK1]. Gut (2021). High credibility.
 
 Regarding screening and diagnosis for iron deficiency anemia, more specifically with respect to diagnostic criteria, BSG 2021 guidelines recommend to recognize that a good response to iron therapy (hemoglobin rise ≥ 10 g/L within a 2-week timeframe) in anemic patients is highly suggestive of absolute iron deficiency, even if the results of iron studies are equivocal.
 
 ---
 
-### Association of prenatal maternal anemia with neurodevelopmental disorders [^0259a2ec]. JAMA Psychiatry (2019). High credibility.
+### Association of prenatal maternal anemia with neurodevelopmental disorders [^1114V5pf]. JAMA Psychiatry (2019). High credibility.
 
 Case Ascertainment
 
@@ -716,13 +716,13 @@ To determine critical windows of exposure, the earliest date of anemia diagnosis
 
 ---
 
-### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^6b712fe2]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
+### Anemia in children with inflammatory bowel disease: a position paper by the IBD committee of the north American society of pediatric gastroenterology, hepatology and nutrition [^113kHhDT]. Journal of Pediatric Gastroenterology and Nutrition (2020). High credibility.
 
 Pathophysiology and causes of anemia in inflammatory bowel disease — Anemia most often occurs because of a combination of chronic inflammation (anemia of chronic disease) and iron deficiency, with iron deficiency arising from inadequate iron intake, excessive blood loss, poor iron absorption, and inflammation-driven blockage in reutilization of stored iron; additional contributors include vitamin B12 and folate deficiency, hemolysis, or myelosuppression from IBD drugs; iron absorption occurs at intestinal enterocytes mainly in the duodenum and dietary nonheme iron from plants and fortified foods is released in the ferric form (Fe3+); causes summarized include most common causes (iron deficiency, anemia of chronic disease, combined iron deficiency and chronic disease), vitamin deficiency (vitamin B12 deficiency, folate deficiency, possible vitamin A, D, B6, copper), drug-induced (mercaptopurine: bone marrow suppression, myelodysplasia; methotrexate: folate deficiency, bone marrow suppression; sulfasalazine: folate deficiency, bone marrow suppression, hemolysis), immune-mediated hemolysis, and inherited causes (hemoglobinopathy, disorders of erythropoiesis, glucose-6-phosphate dehydrogenase deficiency).
 
 ---
 
-### Guidance for systematic integration of undernutrition in attributing cause of death in children [^0345113c]. Clinical Infectious Diseases (2021). Medium credibility.
+### Guidance for systematic integration of undernutrition in attributing cause of death in children [^1115rAPM]. Clinical Infectious Diseases (2021). Medium credibility.
 
 OBJECTIVES AND APPROACH
 
@@ -741,13 +741,13 @@ A constraint in using ICD codes is their lack of consistent alignment with curre
 
 ---
 
-### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^322a30d1]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^112HNZ2p]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Myelodysplastic syndromes (MDS) related anemia — evaluation and initial workup: Standard assessments should be performed to look for other causes of anemia, including GI bleeding, hemolysis, renal disease, and nutritional deficiency. If needed, iron, folate, or vitamin B12 studies should be obtained and corrected if depleted, after which further consideration for treating MDS-related anemia should be undertaken. Anemia related to MDS commonly presents as a hypoproliferative macrocytic anemia, often associated with suboptimal elevation of sEPO levels. Bone marrow aspiration with iron stain, biopsy, and cytogenetics should be used to determine WHO subtype, iron status, and the level of RS.
 
 ---
 
-### Folic acid (vitrexyl) [^ae9c62ce]. FDA (2023). Medium credibility.
+### Folic acid (vitrexyl) [^115TsNgM]. FDA (2023). Medium credibility.
 
 WARNING:
 
@@ -755,7 +755,7 @@ Administration of folic acid alone is improper therapy for pernicious anemia and
 
 ---
 
-### Folic acid, vitamin d3 (folixapure) [^c42f5bd3]. FDA (2023). Medium credibility.
+### Folic acid, vitamin d3 (folixapure) [^1161rUre]. FDA (2023). Medium credibility.
 
 HOW SUPPLIED
 
@@ -767,7 +767,7 @@ All prescriptions using this product shall be pursuant to state statutes as appl
 
 ---
 
-### Multivitamin (inflamex) [^4c9b6669]. FDA (2024). Medium credibility.
+### Multivitamin (inflamex) [^112xaFrY]. FDA (2024). Medium credibility.
 
 Warnings:
 
@@ -779,13 +779,13 @@ Folate in doses above 0.1 mg daily may obscure pernicious anemia, in that hemato
 
 ---
 
-### Evaluation of macrocytic anemias [^a3e5513a]. Seminars in Hematology (2015). Low credibility.
+### Evaluation of macrocytic anemias [^115Bz1Pw]. Seminars in Hematology (2015). Low credibility.
 
 Among other possible causes, macrocytic anemia can be caused by alcohol use disorder, hemolytic anemia, hypersplenism, myelodysplastic syndrome, acute lymphoblastic leukemia, sideroblastic anemia, acute myeloid leukemia, vitamin B12 deficiency, folate deficiency and hereditary folate malabsorption. In addition, macrocytic anemia can be caused by medications such as trimethoprim, triamterene, thioguanine, pyrimethamine, methotrexate, mercaptopurine, hydroxyurea, fluorouracil, cycloserine, capecitabine and azathioprine.
 
 ---
 
-### Iron deficiency in 78 805 people admitted with heart failure across england: a retrospective cohort study [^4132e3f0]. Open Heart (2020). Medium credibility.
+### Iron deficiency in 78 805 people admitted with heart failure across england: a retrospective cohort study [^112ffHk3]. Open Heart (2020). Medium credibility.
 
 For the present study, codes utilised to define HF, ID or IDA were from the 10 th revision of the International Statistical Classification of Diseases and Related Health Problems (ICD-10). There are 71 ICD-10 codes specifying the clinical spectrum of anaemia. Clinical coders cannot assume the patient has ID or IDA unless so documented in the clinical record by the responsible clinician, and they are not permitted to independently interpret test results of any kind. As defined in the national clinical coding standards', iron deficiency' is an Essential Modifier which requires that IDA must be extant in the clinical record for the applicable codes to be assigned. If IDA is not formally recorded in a form interpretable by coders, the coding rules stipulate that the diagnosis must be coded as D649: anaemia, unspecified. For this study, the ICD-10 codes used to differentiate HF patients with or without ID or IDA are listed in table 1. Consistent with the coding convention described above, we also included ICD-10 code D649 within the IDA coding envelope, anticipating that a proportion of HF patients with IDA would be assigned that diagnostic code given the expected variation in documentation and resultant coding practice.
 
@@ -800,19 +800,19 @@ Mindful that in a higher proportion of younger people, HF would stem from cyanot
 
 ---
 
-### Iron deficiency and other types of anemia in infants and children [^89912ded]. American Family Physician (2016). Low credibility.
+### Iron deficiency and other types of anemia in infants and children [^114Wx4vx]. American Family Physician (2016). Low credibility.
 
 Anemia, defined as a hemoglobin level two standard deviations below the mean for age, is prevalent in infants and children worldwide. The evaluation of a child with anemia should begin with a thorough history and risk assessment. Characterizing the anemia as microcytic, normocytic, or macrocytic based on the mean corpuscular volume will aid in the workup and management. Microcytic anemia due to iron deficiency is the most common type of anemia in children. The American Academy of Pediatrics and the World Health Organization recommend routine screening for anemia at 12 months of age; the U.S. Preventive Services Task Force found insufficient evidence to assess the benefits vs. harms of screening. Iron deficiency anemia, which can be associated with cognitive issues, is prevented and treated with iron supplements or increased intake of dietary iron. The U.S. Preventive Services Task Force found insufficient evidence to recommend screening or treating pregnant women for iron deficiency anemia to improve maternal or neonatal outcomes. Delayed cord clamping can improve iron status in infancy, especially for at-risk populations, such as those who are preterm or small for gestational age. Normocytic anemia may be caused by congenital membranopathies, hemoglobinopathies, enzymopathies, metabolic defects, and immune-mediated destruction. An initial reticulocyte count is needed to determine bone marrow function. Macrocytic anemia, which is uncommon in children, warrants subsequent evaluation for vitamin B12 and folate deficiencies, hypothyroidism, hepatic disease, and bone marrow disorders.
 
 ---
 
-### Iron deficiency anemia: evaluation and management [^39c71d5e]. American Family Physician (2013). Medium credibility.
+### Iron deficiency anemia: evaluation and management [^112UfB8Z]. American Family Physician (2013). Medium credibility.
 
 Regarding screening and diagnosis for iron deficiency anemia, more specifically with respect to indications for screening, pregnancy, AAFP 2013 guidelines recommend to obtain screening for IDA in all pregnant females.
 
 ---
 
-### Folic acid, vitamin d3 (foltrexyl) [^913ad379]. FDA (2020). Medium credibility.
+### Folic acid, vitamin d3 (foltrexyl) [^114iJxtQ]. FDA (2020). Medium credibility.
 
 HOW SUPPLIED
 
@@ -822,7 +822,7 @@ Foltrexyl™ Tablets are supplied as round, light yellow tablets with one side s
 
 ---
 
-### Folic acid, vitamin d3 (foltamin) [^fce37860]. FDA (2023). Medium credibility.
+### Folic acid, vitamin d3 (foltamin) [^117TvHVZ]. FDA (2023). Medium credibility.
 
 HOW SUPPLIED
 
@@ -834,19 +834,19 @@ All prescriptions using this product shall be pursuant to state statutes as appl
 
 ---
 
-### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^244dbc50]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^111vpfZH]. Gastroenterology (2020). High credibility.
 
 Grading of Recommendations Assessment, Development and Evaluation (GRADE) — quality of evidence categories and definitions are provided: High — We are very confident that the true effect lies close to that of the estimate of the effect; Moderate — We are moderately confident in the effect estimate and the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different; Low — Our confidence in the effect estimate is limited and the true effect may be substantially different; Very Low — We have very little confidence in the effect estimate and the true effect is likely to be substantially different from the estimate of effect.
 
 ---
 
-### Prevalence of anemia in persons 65 years and older in the United States: evidence for a high rate of unexplained anemia [^8de138bc]. Blood (2004). Low credibility.
+### Prevalence of anemia in persons 65 years and older in the United States: evidence for a high rate of unexplained anemia [^114dLuQX]. Blood (2004). Low credibility.
 
 Clinicians frequently identify anemia in their older patients, but national data on the prevalence and causes of anemia in this population in the United States have been unavailable. Data presented here are from the noninstitutionalized US population assessed in the third National Health and Nutrition Examination Survey (1988–1994). Anemia was defined by World Health Organization criteria; causes of anemia included iron, folate, and B(12) deficiencies, renal insufficiency, anemia of chronic inflammation (ACI), formerly termed anemia of chronic disease, and unexplained anemia (UA). ACI by definition required normal iron stores with low circulating iron (less than 60 microg/dL). After age 50 years, anemia prevalence rates rose rapidly, to a rate greater than 20% at age 85 and older. Overall, 11.0% of men and 10.2% of women 65 years and older were anemic. Of older persons with anemia, evidence of nutrient deficiency was present in one third, ACI or chronic renal disease or both was present in one third, and UA was present in one third. Most occurrences of anemia were mild; 2.8% of women and 1.6% of men had hemoglobin levels lower than 110 g/L (11 g/dL). Therefore, anemia is common, albeit not severe, in the older population, and a substantial proportion of anemia is of indeterminate cause. The impact of anemia on quality of life, recovery from illness, and functional abilities must be further investigated in older persons.
 
 ---
 
-### Primary anastomosis with diverting loop ileostomy vs. hartmann's procedure for acute diverticulitis: what happens after discharge? Results of a nationwide analysis [^ecad6d11]. Surgical Endoscopy (2024). Medium credibility.
+### Primary anastomosis with diverting loop ileostomy vs. hartmann's procedure for acute diverticulitis: what happens after discharge? Results of a nationwide analysis [^1173tL7r]. Surgical Endoscopy (2024). Medium credibility.
 
 Materials and methods
 
@@ -864,7 +864,7 @@ Variables extracted included age, insurance, zip code, income quartile, same-sta
 
 ---
 
-### The accuracy of mean corpuscular volume guided anaemia classification in primary care [^30d47e7e]. Family Practice (2021). Medium credibility.
+### The accuracy of mean corpuscular volume guided anaemia classification in primary care [^112FPnFF]. Family Practice (2021). Medium credibility.
 
 Background
 
@@ -884,7 +884,7 @@ Anaemia aetiologies might be ruled out incorrectly if MCV guided classification 
 
 ---
 
-### Methaver [^ebd030ca]. FDA (2015). Low credibility.
+### Methaver [^1172c273]. FDA (2015). Low credibility.
 
 DESCRIPTION
 
@@ -916,7 +916,7 @@ Folic acid, including reduced forms1 such as folinic acid, may obscure perniciou
 
 ---
 
-### Folic acid, vitamin d3 (folditam) [^912504c1]. FDA (2023). Medium credibility.
+### Folic acid, vitamin d3 (folditam) [^114iBe3S]. FDA (2023). Medium credibility.
 
 HOW SUPPLIED
 
@@ -928,13 +928,13 @@ All prescriptions using this product shall be pursuant to state statutes as appl
 
 ---
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Association of liver cirrhosis severity with anemia: does it matter? [^0282cc73]. Annals of Gastroenterology (2020). Medium credibility.
+### Association of liver cirrhosis severity with anemia: does it matter? [^1114iuj8]. Annals of Gastroenterology (2020). Medium credibility.
 
 Introduction
 
@@ -944,7 +944,7 @@ The most common type of anemia encountered in liver cirrhosis is normocytic norm
 
 ---
 
-### Iron therapy supplementation in inflammatory bowel disease patients with iron deficiency anemia: findings from a real-world analysis in Italy [^dda3127c]. European Journal of Gastroenterology & Hepatology (2024). Medium credibility.
+### Iron therapy supplementation in inflammatory bowel disease patients with iron deficiency anemia: findings from a real-world analysis in Italy [^116fb3BZ]. European Journal of Gastroenterology & Hepatology (2024). Medium credibility.
 
 Data source
 
@@ -952,7 +952,7 @@ In this retrospective observational comparative study, data were collected from 
 
 ---
 
-### Prenatal multivitamin tablet and combination omega-3 softgel / mineral capsule (accentrate PNV) [^15b4d042]. FDA (2025). Medium credibility.
+### Prenatal multivitamin tablet and combination omega-3 softgel / mineral capsule (accentrate PNV) [^111ZBUT3]. FDA (2025). Medium credibility.
 
 HOW SUPPLIED
 
@@ -964,7 +964,7 @@ Based on the risk of obscuring pernicious anemia, this product requires supervis
 
 ---
 
-### Lower risk of dementia with AS01-adjuvanted vaccination against shingles and respiratory syncytial virus infections [^9e114be7]. NPJ Vaccines (2025). Medium credibility.
+### Lower risk of dementia with AS01-adjuvanted vaccination against shingles and respiratory syncytial virus infections [^1153LrVL]. NPJ Vaccines (2025). Medium credibility.
 
 All broad ICD-10 categories of comorbidities were then included to balance comorbidity profiles between cohorts and since indirect link with dementia can be posited for most comorbidity profiles (e.g. respiratory illness increases risk of infection and delirium and thus dementia; diseases of the ear can increase the risk of hearing loss which is a risk factor for dementia).
 
@@ -976,25 +976,25 @@ Finally, to capture proxies of vaccine hesitancy, history of influenza vaccinati
 
 ---
 
-### Synopsis of the 2020 U.S. VA / DoD clinical practice guideline for the management of adult overweight and obesity [^c1046f6b]. Military Medicine (2021). High credibility.
+### Synopsis of the 2020 U.S. VA / DoD clinical practice guideline for the management of adult overweight and obesity [^115wA6o4]. Military Medicine (2021). High credibility.
 
 Pregnancy after bariatric surgery — nutritional risks and follow-up are detailed as follows: "All bariatric procedures can lead to deficiencies in iron, vitamin B12, folate, and calcium during subsequent pregnancies", which "can result in maternal complications, such as severe anemia, and in fetal complications including neural tube defects, intrauterine growth restriction, and failure to thrive"; it states that "Nutrient supplementation following metabolic/bariatric surgery and close supervision before, during, and after pregnancy can help prevent nutrition-related complications and improve maternal and fetal health", and concludes that affected women "need to receive intensive nutritional follow-up by providers with expertise in clinical nutrition".
 
 ---
 
-### KDIGO clinical practice guideline for anemia in chronic kidney disease [^440b00ef]. KDIGO (2012). Medium credibility.
+### KDIGO clinical practice guideline for anemia in chronic kidney disease [^112jsrXp]. KDIGO (2012). Medium credibility.
 
 KDIGO anemia in chronic kidney disease — CBC interpretation and reticulocyte/erythropoietin testing states that the anemia of CKD is hypoproliferative and generally normochromic and normocytic; erythropoietin levels are not useful for evaluation in most clinical settings and are generally not recommended for measurement. Effective erythropoietic proliferative activity is most simply assessed by determining the absolute reticulocyte count. Abnormal white blood cell or platelet counts are not typical of CKD anemia and should prompt investigation for other processes. Reticulocyte counts obtained with automated CBC testing may be high with active blood loss or hemolysis and low with hypoproliferative erythropoiesis. Vitamin B12 or folate deficiency may cause macrocytosis, whereas iron deficiency or inherited disorders of hemoglobin formation may produce microcytosis.
 
 ---
 
-### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^71b70a4c]. Pain Physician (2015). Low credibility.
+### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^113ub5ko]. Pain Physician (2015). Low credibility.
 
 The forced implementation of ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes that are specific to the United States, scheduled for implementation October 1, 2015, which is vastly different from ICD-10 (International Classification of Diseases, Tenth Revision), implemented worldwide, which has 14,400 codes, compared to ICD-10-CM with 144,000 codes to be implemented in the United States is a major concern to practicing U.S. physicians and a bonanza for health IT and hospital industry. This implementation is based on a liberal interpretation of the Health Insurance Portability and Accountability Act (HIPAA), which requires an update to ICD-9-CM (International Classification of Diseases, Ninth Revision, Clinical Modification) and says nothing about ICD-10 or beyond. On June 29, 2015, the Supreme Court ruled that the Environmental Protection Agency unreasonably interpreted the Clean Air Act when it decided to set limits on the emissions of toxic pollutants from power plants, without first considering the costs on the industry. Thus, to do so is applicable to the medical industry with the Centers for Medicare and Medicaid Services (CMS) unreasonably interpreting HIPAA and imposing existent extensive regulations without considering the cost. In the United States, ICD-10-CM with a 10-fold increase in the number of codes has resulted in a system which has become so complicated that it no longer compares with any other country. Moreover, most WHO members use the ICD-10 system (not ICD-10-CM) only to record mortality in 138 countries or morbidity in 99 countries. Currently, only 10 countries employ ICD-10 (not ICD-10-CM) in the reimbursement process, 6 of which have a single payer health care system. Development of ICD-10-CM is managed by 4 non-physician groups, known as cooperating parties. They include the Centers for Disease Control and Prevention (CDC), CMS, the American Hospital Association (AHA), and the American Health Information Management Association (AHIMA). The AHIMA has taken the lead with the AHA just behind, both with escalating profits and influence, essentially creating a statutory monopoly for their own benefit. Further, the ICD-10-CM coalition includes 3M which will boost its revenues and profits substantially with its implementation and Blue Cross Blue Shield which has its own agenda. Physician groups are not a party to these cooperating parties or coalitions, having only a peripheral involvement. ICD-10-CM creates numerous deficiencies with 500 codes that are more specific in ICD-9-CM than ICD-10-CM. The costs of an implementation are enormous, along with maintenance costs, productivity, and cash disruptions.
 
 ---
 
-### Association of anemia with health-related quality of life and survival: a large population-based cohort study [^e8efd1f5]. Haematologica (2019). Medium credibility.
+### Association of anemia with health-related quality of life and survival: a large population-based cohort study [^116xLgTE]. Haematologica (2019). Medium credibility.
 
 Definition of anemia and classification into subtypes of anemia
 
@@ -1004,7 +1004,7 @@ Details of the Lifelines cohort, clinical examination, biochemical measurements,
 
 ---
 
-### Implications of iron deficiency / anemia on the classification of diabetes using HbA1c [^094d125e]. Nutrition & Diabetes (2015). Low credibility.
+### Implications of iron deficiency / anemia on the classification of diabetes using HbA1c [^111Enn1s]. Nutrition & Diabetes (2015). Low credibility.
 
 Role of the funding source
 
@@ -1012,6 +1012,6 @@ The sponsors of the study had no role in study design, data collection, data ana
 
 ---
 
-### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^c75f1a44]. Gastroenterology (2020). High credibility.
+### AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia [^1166aUq1]. Gastroenterology (2020). High credibility.
 
 Grading of Recommendations Assessment, Development and Evaluation (GRADE) definitions — strength of recommendation: For Strong recommendations, most individuals in this situation would want the recommended course of action and only a small proportion would not, and most individuals should receive the recommended course of action, with formal decision aids not likely to be needed. For Conditional recommendations, the majority of individuals in this situation would want the suggested course of action, but many would not, and different choices will be appropriate for different patients; decision aids may be useful in helping individuals in making decisions consistent with their values and preferences, and clinicians should expect to spend more time with patients when working towards a decision.

@@ -15,71 +15,71 @@ African Americans Blood pressure treatment
 
 > Let's see… What do we have here? The user is asking about blood pressure treatment in African Americans. Let's break this down step-by-step. First, I need to think about the epidemiology and pathophysiology that justify tailored strategies. Then, I should verify guideline-backed pharmacologic choices and when to use monotherapy versus combination therapy. Next, I will examine the evidence base, including ALLHAT, AASK, and contemporary trials, and reconcile any apparent contradictions. After that, I need to consider special populations such as CKD, diabetes, and older adults. Finally, I should integrate lifestyle, adherence, and system-level strategies to close control gaps, and close with a practical, stepwise algorithm that aligns with high-quality guidelines and trials.
 
-> Let me first confirm the clinical context and why race-informed strategies are emphasized. African Americans have higher prevalence, earlier onset, and greater severity of hypertension, with disproportionate rates of resistant hypertension and hypertensive complications including stroke, heart failure, and CKD progression, which collectively drive higher cardiovascular mortality and end-stage renal disease burden in this population [^f1209026] [^02dc024c] [^1df386cb].
+> Let me first confirm the clinical context and why race-informed strategies are emphasized. African Americans have higher prevalence, earlier onset, and greater severity of hypertension, with disproportionate rates of resistant hypertension and hypertensive complications including stroke, heart failure, and CKD progression, which collectively drive higher cardiovascular mortality and end-stage renal disease burden in this population [^117AUxJ9] [^1115Esgf] [^111mQSTC].
 
-> I need to check the pathophysiologic rationale that underpins drug selection. Low-renin, salt-sensitive physiology is more common in African Americans, which diminishes the antihypertensive efficacy of renin–angiotensin system blockade as monotherapy and strengthens the case for thiazide-type diuretics and calcium channel blockers as foundational agents, particularly when used in combination to overcome monotherapy limitations [^f4ab54ac] [^8d129a6f] [^f8718f3c].
+> I need to check the pathophysiologic rationale that underpins drug selection. Low-renin, salt-sensitive physiology is more common in African Americans, which diminishes the antihypertensive efficacy of renin–angiotensin system blockade as monotherapy and strengthens the case for thiazide-type diuretics and calcium channel blockers as foundational agents, particularly when used in combination to overcome monotherapy limitations [^117FjXZ5] [^114c9WA2] [^117ML5Cw].
 
-> Next, I should review guideline direction on first-line pharmacotherapy. JNC 8 gives a moderate-strength recommendation that initial therapy in Black patients, including those with diabetes, should be a thiazide-type diuretic or a calcium channel blocker, reflecting ALLHAT data showing inferior BP control and higher stroke risk with ACE inhibitor monotherapy in Black participants [^f080eea5] [^6aaf7f16]. The VA/DoD guideline explicitly recommends against ACE inhibitor or ARB monotherapy in African Americans, again citing ALLHAT and related evidence, and supports combination strategies when needed [^b52b5735] [^a62a7af0]. Hold on, I should verify the nuance here: this does not mean RAS blockers are contraindicated; rather, they should not be used alone as initial therapy in this population without a diuretic or CCB partner [^b52b5735].
+> Next, I should review guideline direction on first-line pharmacotherapy. JNC 8 gives a moderate-strength recommendation that initial therapy in Black patients, including those with diabetes, should be a thiazide-type diuretic or a calcium channel blocker, reflecting ALLHAT data showing inferior BP control and higher stroke risk with ACE inhibitor monotherapy in Black participants [^1179ZLSG] [^113jAdpR]. The VA/DoD guideline explicitly recommends against ACE inhibitor or ARB monotherapy in African Americans, again citing ALLHAT and related evidence, and supports combination strategies when needed [^115dbKMN] [^115FMDMy]. Hold on, I should verify the nuance here: this does not mean RAS blockers are contraindicated; rather, they should not be used alone as initial therapy in this population without a diuretic or CCB partner [^115dbKMN].
 
-> I will now examine the pivotal evidence. In ALLHAT, among 35% African American participants, chlorthalidone achieved better BP control than lisinopril and was associated with lower risks of stroke, heart failure, and combined cardiovascular disease; stroke risk was 51% higher with lisinopril versus amlodipine in Black patients, whereas no such excess was seen with the thiazide or CCB arms [^6aaf7f16] [^6aaf7f16]. Wait, let me verify the magnitude: yes, the relative risk of stroke with ACE inhibitor monotherapy versus CCB was 1.51 in Black participants, which materially influenced guideline recommendations [^a3a6a6de].
+> I will now examine the pivotal evidence. In ALLHAT, among 35% African American participants, chlorthalidone achieved better BP control than lisinopril and was associated with lower risks of stroke, heart failure, and combined cardiovascular disease; stroke risk was 51% higher with lisinopril versus amlodipine in Black patients, whereas no such excess was seen with the thiazide or CCB arms [^113jAdpR] [^113jAdpR]. Wait, let me verify the magnitude: yes, the relative risk of stroke with ACE inhibitor monotherapy versus CCB was 1.51 in Black participants, which materially influenced guideline recommendations [^115BcxaH].
 
-> But wait, what if the patient has CKD or diabetic nephropathy. I should confirm the role of RAS blockade in those settings. The AASK trial demonstrated that an ACE inhibitor–based regimen slowed CKD progression in African Americans with hypertensive nephrosclerosis more effectively than a CCB-based regimen, supporting the use of ACE inhibitors or ARBs in CKD, typically in combination with a thiazide or CCB for BP control, and this renal benefit is reflected in VA/DoD CKD guidance even as the monotherapy caveat remains [^765b332d]. Hold on, let's not jump to conclusions: the renal indication is distinct from monotherapy efficacy for BP lowering, which is why combination therapy is standard in CKD [^9d7cca5a].
+> But wait, what if the patient has CKD or diabetic nephropathy. I should confirm the role of RAS blockade in those settings. The AASK trial demonstrated that an ACE inhibitor–based regimen slowed CKD progression in African Americans with hypertensive nephrosclerosis more effectively than a CCB-based regimen, supporting the use of ACE inhibitors or ARBs in CKD, typically in combination with a thiazide or CCB for BP control, and this renal benefit is reflected in VA/DoD CKD guidance even as the monotherapy caveat remains [^1142UAyJ]. Hold on, let's not jump to conclusions: the renal indication is distinct from monotherapy efficacy for BP lowering, which is why combination therapy is standard in CKD [^1152UyMj].
 
-> Next, I should review contemporary combination therapy data. The CREOLE trial in sub-Saharan African patients showed that amlodipine-based combinations, either with hydrochlorothiazide or perindopril, outperformed perindopril plus hydrochlorothiazide for BP control, reinforcing the concept that a CCB backbone improves early BP reduction in patients of African ancestry, while acknowledging that African American and native African populations are not identical and that local context matters [^431a547c] [^426400f6]. Let me consider the practical implication: this supports starting with or quickly moving to combination therapy when BP is more than 20/10 mm Hg above goal or when monotherapy fails to achieve control [^436e72a2].
+> Next, I should review contemporary combination therapy data. The CREOLE trial in sub-Saharan African patients showed that amlodipine-based combinations, either with hydrochlorothiazide or perindopril, outperformed perindopril plus hydrochlorothiazide for BP control, reinforcing the concept that a CCB backbone improves early BP reduction in patients of African ancestry, while acknowledging that African American and native African populations are not identical and that local context matters [^112iV1qD] [^112hRmq7]. Let me consider the practical implication: this supports starting with or quickly moving to combination therapy when BP is more than 20/10 mm Hg above goal or when monotherapy fails to achieve control [^112iyGaV].
 
-> I should double-check the monotherapy versus combination balance. Meta-analyses and contemporary reviews indicate that while thiazides and CCBs are the most effective monotherapy classes in African Americans, most patients ultimately require combination therapy to reach targets, and early combination can reduce therapeutic inertia and hasten control, which is particularly relevant given higher rates of resistant hypertension in this population [^f6bfe6c6] [^c3dc19fe] [^3f95558f]. Hmm, wait a minute, I almost implied that ACE inhibitors have no role; that would be incorrect, as ACE inhibitors remain essential for CKD and are effective when combined with diuretics or CCBs, even if they underperform as monotherapy for BP lowering in low-renin phenotypes [^765b332d] [^e577ef9d].
+> I should double-check the monotherapy versus combination balance. Meta-analyses and contemporary reviews indicate that while thiazides and CCBs are the most effective monotherapy classes in African Americans, most patients ultimately require combination therapy to reach targets, and early combination can reduce therapeutic inertia and hasten control, which is particularly relevant given higher rates of resistant hypertension in this population [^117JpQsF] [^1161NWso] [^112dGP26]. Hmm, wait a minute, I almost implied that ACE inhibitors have no role; that would be incorrect, as ACE inhibitors remain essential for CKD and are effective when combined with diuretics or CCBs, even if they underperform as monotherapy for BP lowering in low-renin phenotypes [^1142UAyJ] [^116sCT5N].
 
-> Let me think about special populations and targets. For older African Americans, I initially thought JNC 8 endorsed a systolic target of less than 150 mm Hg, but wait, I should verify that nuance. JNC 8 recommended less than 150/90 mm Hg for adults aged 60 years or older in general, while some expert commentaries argued for maintaining less than 140/90 mm Hg in high-risk groups such as African Americans; in practice, many clinicians individualize toward less than 130/80 mm Hg when tolerated, especially with CKD, diabetes, or cardiovascular disease, aligning with broader risk-based strategies and SPRINT-era thinking, though SPRINT's direct applicability to older African Americans requires cautious interpretation [^a4680c5c] [^a114cb82]. For patients with sickle cell disease, ASH recommends a BP goal of 130/80 mm Hg or lower based on indirect evidence, which is more stringent than older thresholds and reflects the high burden of cardiopulmonary and renal complications in that population [^639b7c83].
+> Let me think about special populations and targets. For older African Americans, I initially thought JNC 8 endorsed a systolic target of less than 150 mm Hg, but wait, I should verify that nuance. JNC 8 recommended less than 150/90 mm Hg for adults aged 60 years or older in general, while some expert commentaries argued for maintaining less than 140/90 mm Hg in high-risk groups such as African Americans; in practice, many clinicians individualize toward less than 130/80 mm Hg when tolerated, especially with CKD, diabetes, or cardiovascular disease, aligning with broader risk-based strategies and SPRINT-era thinking, though SPRINT's direct applicability to older African Americans requires cautious interpretation [^115CjvEw] [^1157ozVP]. For patients with sickle cell disease, ASH recommends a BP goal of 130/80 mm Hg or lower based on indirect evidence, which is more stringent than older thresholds and reflects the high burden of cardiopulmonary and renal complications in that population [^113Yg122].
 
-> Next, I should review lifestyle and adherence strategies because medication choice alone will not close control gaps. Sodium restriction, weight loss, increased potassium intake, and physical activity yield larger average BP reductions in African Americans, and culturally tailored, multicomponent interventions that include home BP monitoring, nurse-led follow-up, and adherence support have demonstrated meaningful improvements in control, albeit with variable durability across settings [^16531810] [^973ee573] [^765d5bb6]. Hold on, I should verify that these interventions are feasible in routine care; yes, when embedded with team-based follow-up and feedback, they can reduce disparities, though sustained implementation remains challenging [^973ee573] [^765d5bb6].
+> Next, I should review lifestyle and adherence strategies because medication choice alone will not close control gaps. Sodium restriction, weight loss, increased potassium intake, and physical activity yield larger average BP reductions in African Americans, and culturally tailored, multicomponent interventions that include home BP monitoring, nurse-led follow-up, and adherence support have demonstrated meaningful improvements in control, albeit with variable durability across settings [^111a6e15] [^114sEFsY] [^1142Uu25]. Hold on, I should verify that these interventions are feasible in routine care; yes, when embedded with team-based follow-up and feedback, they can reduce disparities, though sustained implementation remains challenging [^114sEFsY] [^1142Uu25].
 
-> I need to ensure I address system-level levers to mitigate therapeutic inertia. Standardized protocols, fixed-dose combinations, registries, and rapid titration visits every 2 to 4 weeks can accelerate control and reduce racial disparities, as shown in large integrated systems and supported by VA/DoD guidance emphasizing structured follow-up and combination strategies when appropriate [^e6eff927] [^436e72a2]. Let me reconsider the role of race-agnostic algorithms: Kaiser Permanente's experience demonstrates that high control rates with minimal racial disparity are achievable using guideline-concordant, race-agnostic care pathways that prioritize early combination therapy and close follow-up, which supports moving beyond simplistic race-based monotherapy rules while still honoring the evidence that ACE inhibitor monotherapy is less effective in African Americans [^cd5bc321] [^b52b5735].
+> I need to ensure I address system-level levers to mitigate therapeutic inertia. Standardized protocols, fixed-dose combinations, registries, and rapid titration visits every 2 to 4 weeks can accelerate control and reduce racial disparities, as shown in large integrated systems and supported by VA/DoD guidance emphasizing structured follow-up and combination strategies when appropriate [^116uNksY] [^112iyGaV]. Let me reconsider the role of race-agnostic algorithms: Kaiser Permanente's experience demonstrates that high control rates with minimal racial disparity are achievable using guideline-concordant, race-agnostic care pathways that prioritize early combination therapy and close follow-up, which supports moving beyond simplistic race-based monotherapy rules while still honoring the evidence that ACE inhibitor monotherapy is less effective in African Americans [^116FTHSg] [^115dbKMN].
 
-> Now, I will synthesize a practical, stepwise approach. First, confirm the diagnosis with accurate measurement and assess for secondary causes and target organ damage. Second, initiate lifestyle therapy universally and intensify sodium restriction given higher salt sensitivity prevalence. Third, for initial pharmacotherapy, prefer a thiazide-type diuretic or a long-acting dihydropyridine CCB, and avoid ACE inhibitor or ARB monotherapy. Fourth, if BP is more than 20/10 mm Hg above goal or if monotherapy fails to reach goal within about 4 to 6 weeks, add a second agent from a different class, typically a RAS blocker if CKD is present or a complementary class otherwise. Fifth, escalate to three or more agents as needed, consider spironolactone for resistant hypertension, and refer to hypertension specialists for refractory cases. Throughout, reassess adherence, adverse effects, and social determinants at each visit and adjust the plan accordingly [^f080eea5] [^436e72a2] [^45cf253f].
+> Now, I will synthesize a practical, stepwise approach. First, confirm the diagnosis with accurate measurement and assess for secondary causes and target organ damage. Second, initiate lifestyle therapy universally and intensify sodium restriction given higher salt sensitivity prevalence. Third, for initial pharmacotherapy, prefer a thiazide-type diuretic or a long-acting dihydropyridine CCB, and avoid ACE inhibitor or ARB monotherapy. Fourth, if BP is more than 20/10 mm Hg above goal or if monotherapy fails to reach goal within about 4 to 6 weeks, add a second agent from a different class, typically a RAS blocker if CKD is present or a complementary class otherwise. Fifth, escalate to three or more agents as needed, consider spironolactone for resistant hypertension, and refer to hypertension specialists for refractory cases. Throughout, reassess adherence, adverse effects, and social determinants at each visit and adjust the plan accordingly [^1179ZLSG] [^112iyGaV] [^112nVixv].
 
-> Finally, I should confirm the bottom line and reconcile any lingering contradictions. The weight of evidence supports avoiding ACE inhibitor or ARB monotherapy in African Americans for uncomplicated hypertension due to attenuated BP response and worse cardiovascular outcomes in ALLHAT, while recognizing that RAS blockade remains indispensable for CKD and is effective when combined with diuretics or CCBs. Early combination therapy, aggressive lifestyle modification, and system-level protocols to overcome inertia are the most reliable pathways to close control disparities and improve outcomes in this high-risk population [^a3a6a6de] [^765b332d] [^c3dc19fe] [^e6eff927].
+> Finally, I should confirm the bottom line and reconcile any lingering contradictions. The weight of evidence supports avoiding ACE inhibitor or ARB monotherapy in African Americans for uncomplicated hypertension due to attenuated BP response and worse cardiovascular outcomes in ALLHAT, while recognizing that RAS blockade remains indispensable for CKD and is effective when combined with diuretics or CCBs. Early combination therapy, aggressive lifestyle modification, and system-level protocols to overcome inertia are the most reliable pathways to close control disparities and improve outcomes in this high-risk population [^115BcxaH] [^1142UAyJ] [^1161NWso] [^116uNksY].
 
 ---
 
-For African Americans with hypertension, **thiazide diuretics or calcium channel blockers are first-line** [^f080eea5] because they achieve greater blood pressure reduction and cardiovascular risk reduction than ACE inhibitors or beta-blockers as monotherapy [^a3a6a6de] [^fbdf6ac6]. ACE inhibitors or ARBs are not recommended as initial monotherapy [^b52b5735] but should be added for CKD, diabetes, or heart failure [^a4680c5c] [^9d7cca5a]. Combination therapy is often needed [^c3dc19fe], and **early use of fixed-dose combinations** (CCB or thiazide plus ACEi/ARB) improves control and reduces disparities [^e6eff927] [^f6bfe6c6]. Lifestyle measures — especially sodium restriction, weight loss, and DASH — are essential and yield larger BP reductions in African Americans [^16531810] [^e10d2156]. Targets are generally < 130/80 mm Hg if tolerated, with < 150/90 mm Hg for adults ≥ 60 years per JNC 8 [^a4680c5c] [^45cf253f].
+For African Americans with hypertension, **thiazide diuretics or calcium channel blockers are first-line** [^1179ZLSG] because they achieve greater blood pressure reduction and cardiovascular risk reduction than ACE inhibitors or beta-blockers as monotherapy [^115BcxaH] [^117SQwFT]. ACE inhibitors or ARBs are not recommended as initial monotherapy [^115dbKMN] but should be added for CKD, diabetes, or heart failure [^115CjvEw] [^1152UyMj]. Combination therapy is often needed [^1161NWso], and **early use of fixed-dose combinations** (CCB or thiazide plus ACEi/ARB) improves control and reduces disparities [^116uNksY] [^117JpQsF]. Lifestyle measures — especially sodium restriction, weight loss, and DASH — are essential and yield larger BP reductions in African Americans [^111a6e15] [^116kedCq]. Targets are generally < 130/80 mm Hg if tolerated, with < 150/90 mm Hg for adults ≥ 60 years per JNC 8 [^115CjvEw] [^112nVixv].
 
 ---
 
 ## Pathophysiology and clinical presentation
 
-African Americans more often have **salt-sensitive, low-renin hypertension** [^f4ab54ac], with greater vascular resistance and a higher risk of resistant hypertension [^8d129a6f]. This phenotype reduces the efficacy of ACE inhibitors and beta-blockers as monotherapy [^4eca6d1b] [^d92cdaf6] and supports the use of thiazide diuretics and calcium channel blockers [^f080eea5].
+African Americans more often have **salt-sensitive, low-renin hypertension** [^117FjXZ5], with greater vascular resistance and a higher risk of resistant hypertension [^114c9WA2]. This phenotype reduces the efficacy of ACE inhibitors and beta-blockers as monotherapy [^1131p2ZY] [^116YyP1F] and supports the use of thiazide diuretics and calcium channel blockers [^1179ZLSG].
 
 ---
 
 ## Recommended first-line pharmacological therapy
 
-Current guidelines recommend **thiazide diuretics or calcium channel blockers as first-line** therapy for African Americans, including those with diabetes [^f080eea5] [^6aaf7f16].
+Current guidelines recommend **thiazide diuretics or calcium channel blockers as first-line** therapy for African Americans, including those with diabetes [^1179ZLSG] [^113jAdpR].
 
 | **Medication class** | **Rationale** | **Evidence** |
 |-|-|-|
-| Thiazide diuretics | - Effective in salt-sensitive hypertension <br/> - Reduce cardiovascular events | - ALLHAT [^a3a6a6de] <br/> - JNC 8 [^f080eea5] |
-| Calcium channel blockers | - Effective in low-renin hypertension <br/> - Reduce stroke risk | - ALLHAT [^a3a6a6de] <br/> - JNC 8 [^f080eea5] |
+| Thiazide diuretics | - Effective in salt-sensitive hypertension <br/> - Reduce cardiovascular events | - ALLHAT [^115BcxaH] <br/> - JNC 8 [^1179ZLSG] |
+| Calcium channel blockers | - Effective in low-renin hypertension <br/> - Reduce stroke risk | - ALLHAT [^115BcxaH] <br/> - JNC 8 [^1179ZLSG] |
 
 ---
 
 ## Limitations of ACE inhibitors and beta-blockers
 
-ACE inhibitors and beta-blockers are **less effective as monotherapy** in African Americans [^4eca6d1b] [^d92cdaf6]. ACE inhibitors achieve smaller BP reductions and are associated with higher stroke and cardiovascular event rates in this population [^a3a6a6de] [^6aaf7f16]. Beta-blockers are also less effective for BP lowering and are not recommended as first-line unless there is a compelling indication (e.g. heart failure, ischemic heart disease) [^d92cdaf6] [^99afca8f].
+ACE inhibitors and beta-blockers are **less effective as monotherapy** in African Americans [^1131p2ZY] [^116YyP1F]. ACE inhibitors achieve smaller BP reductions and are associated with higher stroke and cardiovascular event rates in this population [^115BcxaH] [^113jAdpR]. Beta-blockers are also less effective for BP lowering and are not recommended as first-line unless there is a compelling indication (e.g. heart failure, ischemic heart disease) [^116YyP1F] [^114vr9ok].
 
 ---
 
 ## Role of combination therapy
 
-Combination therapy is often required to achieve BP targets [^c3dc19fe]. Early use of fixed-dose combinations (CCB or thiazide plus ACEi/ARB) improves control and reduces disparities [^e6eff927] [^f6bfe6c6]. ACE inhibitors or ARBs are appropriate when indicated for CKD, diabetes, or heart failure [^a4680c5c] [^9d7cca5a].
+Combination therapy is often required to achieve BP targets [^1161NWso]. Early use of fixed-dose combinations (CCB or thiazide plus ACEi/ARB) improves control and reduces disparities [^116uNksY] [^117JpQsF]. ACE inhibitors or ARBs are appropriate when indicated for CKD, diabetes, or heart failure [^115CjvEw] [^1152UyMj].
 
 ---
 
 ## Lifestyle modifications
 
-Lifestyle changes are essential and yield **greater BP reductions in African Americans** [^c3dc19fe]:
+Lifestyle changes are essential and yield **greater BP reductions in African Americans** [^1161NWso]:
 
-- **Sodium restriction**: Particularly effective due to salt sensitivity [^e10d2156] [^16531810].
-- **Weight loss**: Modest weight loss significantly lowers BP [^fafc2485].
+- **Sodium restriction**: Particularly effective due to salt sensitivity [^116kedCq] [^111a6e15].
+- **Weight loss**: Modest weight loss significantly lowers BP [^117R6bb2].
 - **DASH diet**: Emphasizes fruits, vegetables, and low-fat dairy [^notfound].
 - **Physical activity**: Regular aerobic exercise improves control [^notfound].
 
@@ -87,7 +87,7 @@ Lifestyle changes are essential and yield **greater BP reductions in African Ame
 
 ## Blood pressure targets
 
-Targets are **generally < 130/80 mm Hg** if tolerated, with < 150/90 mm Hg for adults ≥ 60 years per JNC 8 [^a4680c5c] [^45cf253f]. Individualize targets based on comorbidities and tolerance [^a4680c5c].
+Targets are **generally < 130/80 mm Hg** if tolerated, with < 150/90 mm Hg for adults ≥ 60 years per JNC 8 [^115CjvEw] [^112nVixv]. Individualize targets based on comorbidities and tolerance [^115CjvEw].
 
 ---
 
@@ -96,7 +96,7 @@ Targets are **generally < 130/80 mm Hg** if tolerated, with < 150/90 mm Hg for a
 Persistent disparities reflect **multifactorial barriers**:
 
 - **Therapeutic inertia**: Less frequent intensification in African Americans [^notfound].
-- **Adherence**: Higher rates of nonadherence due to side effects, costs, and social determinants [^ee434f53] [^cc011617].
+- **Adherence**: Higher rates of nonadherence due to side effects, costs, and social determinants [^1176EfNa] [^116DSqen].
 - **Access**: Fewer healthcare resources and insurance coverage [^notfound].
 
 ---
@@ -105,41 +105,41 @@ Persistent disparities reflect **multifactorial barriers**:
 
 Effective strategies include:
 
-- **Standardized protocols**: Reduce inertia and disparities [^e6eff927] [^1f76051b].
+- **Standardized protocols**: Reduce inertia and disparities [^116uNksY] [^111oeFx6].
 - **Team-based care**: Pharmacists, nurses, and community health workers improve control [^notfound].
-- **Culturally tailored interventions**: Address adherence and social determinants [^cd5bc321] [^9ae07cc1].
+- **Culturally tailored interventions**: Address adherence and social determinants [^116FTHSg] [^114xcVmJ].
 
 ---
 
 ## Summary of recommendations
 
-- **First-line**: Thiazide diuretics or calcium channel blockers [^f080eea5].
-- **Avoid**: ACE inhibitor or beta-blocker monotherapy [^b52b5735] [^d92cdaf6].
-- **Combination**: Early use of fixed-dose combinations when needed [^e6eff927] [^f6bfe6c6].
-- **Lifestyle**: Sodium restriction, weight loss, DASH, physical activity [^16531810] [^e10d2156].
-- **Targets**: < 130/80 mm Hg if tolerated; < 150/90 mm Hg for ≥ 60 years [^a4680c5c] [^45cf253f].
+- **First-line**: Thiazide diuretics or calcium channel blockers [^1179ZLSG].
+- **Avoid**: ACE inhibitor or beta-blocker monotherapy [^115dbKMN] [^116YyP1F].
+- **Combination**: Early use of fixed-dose combinations when needed [^116uNksY] [^117JpQsF].
+- **Lifestyle**: Sodium restriction, weight loss, DASH, physical activity [^111a6e15] [^116kedCq].
+- **Targets**: < 130/80 mm Hg if tolerated; < 150/90 mm Hg for ≥ 60 years [^115CjvEw] [^112nVixv].
 
 ---
 
-Thiazide diuretics or calcium channel blockers are **first-line** for African Americans, with ACE inhibitors or ARBs reserved for specific indications; combination therapy and lifestyle change are often necessary to achieve targets and reduce disparities [^f080eea5] [^c3dc19fe].
+Thiazide diuretics or calcium channel blockers are **first-line** for African Americans, with ACE inhibitors or ARBs reserved for specific indications; combination therapy and lifestyle change are often necessary to achieve targets and reduce disparities [^1179ZLSG] [^1161NWso].
 
 ---
 
 ## References
 
-### 2014 hypertension recommendations from the eighth Joint National Committee panel members raise concerns for elderly black and female populations [^18b99f42]. Journal of the American College of Cardiology (2014). Low credibility.
+### 2014 hypertension recommendations from the eighth Joint National Committee panel members raise concerns for elderly black and female populations [^111df3yT]. Journal of the American College of Cardiology (2014). Low credibility.
 
 A report from panel members appointed to the Eighth Joint National Committee titled "2014 Evidence-Based Guideline for the Management of High Blood Pressure in Adults" has garnered much attention due to its major change in recommendations for hypertension treatment for patients ≥ 60 years of age and for their treatment goal. In response, certain groups have opposed the decision to initiate pharmacologic treatment to lower blood pressure (BP) at systolic BP ≥ 150 mm Hg and treat to a goal systolic BP of < 150 mm Hg in the general population age ≥ 60 years. This paper contains 3 sections-an introduction followed by the opinions of 2 writing groups-outlining objections to or support of maintaining this proposed strategy in certain at-risk populations, namely African Americans, women, and the elderly. Several authors argue for maintaining current targets, as opposed to adopting the new recommendations, to allow for optimal treatment for older women and African Americans, helping to close sex and race/ethnicity gaps in cardiovascular disease morbidity and mortality.
 
 ---
 
-### Management of high blood pressure in blacks: an update of the international society on hypertension in blacks consensus statement [^3a9729a6]. Hypertension (2010). Low credibility.
+### Management of high blood pressure in blacks: an update of the international society on hypertension in blacks consensus statement [^112Vs4ER]. Hypertension (2010). Low credibility.
 
 Since the first International Society on Hypertension in Blacks consensus statement on the "Management of High Blood Pressure in African American" in 2003, data from additional clinical trials have become available. We reviewed hypertension and cardiovascular disease prevention and treatment guidelines, pharmacological hypertension clinical end point trials, and blood pressure-lowering trials in blacks. Selected trials without significant black representation were considered. In this update, blacks with hypertension are divided into 2 risk strata, primary prevention, where elevated blood pressure without target organ damage, preclinical cardiovascular disease, or overt cardiovascular disease for whom blood pressure consistently < 135/85 mm Hg is recommended, and secondary prevention, where elevated blood pressure with target organ damage, preclinical cardiovascular disease, and/or a history of cardiovascular disease, for whom blood pressure consistently < 130/80 mm Hg is recommended. If blood pressure is ≤ 10 mm Hg above target levels, monotherapy with a diuretic or calcium channel blocker is preferred. When blood pressure is > 15/10 mm Hg above target, 2-drug therapy is recommended, with either a calcium channel blocker plus a renin-angiotensin system blocker or, alternatively, in edematous and/or volume-overload states, with a thiazide diuretic plus a renin-angiotensin system blocker. Effective multidrug therapeutic combinations through 4 drugs are described. Comprehensive lifestyle modifications should be initiated in blacks when blood pressure is ≥ 115/75 mm Hg. The updated International Society on Hypertension in Blacks consensus statement on hypertension management in blacks lowers the minimum target blood pressure level for the lowest-risk blacks, emphasizes effective multidrug regimens, and de-emphasizes monotherapy.
 
 ---
 
-### Recognition and management of hypertension in older persons: focus on African Americans [^a114cb82]. Journal of the American Geriatrics Society (2015). Low credibility.
+### Recognition and management of hypertension in older persons: focus on African Americans [^1157ozVP]. Journal of the American Geriatrics Society (2015). Low credibility.
 
 Unlabelled
 
@@ -151,13 +151,13 @@ Multiple clinical trials have demonstrated the beneficial effects of blood press
 
 ---
 
-### Update on hypertension in African-Americans [^f1209026]. Progress in Cardiovascular Diseases (2019). Medium credibility.
+### Update on hypertension in African-Americans [^117AUxJ9]. Progress in Cardiovascular Diseases (2019). Medium credibility.
 
 Uncontrolled hypertension (HTN) in the U.S. is particularly prevalent and devastating among black individuals, who disproportionately suffer the consequences of this condition to a greater extent compared with persons in other racial/ethnic groups. Furthermore, African Americans are often underrepresented in cardiovascular clinical trials, limiting the ability to reliably apply the results from many outcome studies in this specific population. In this review, we summarize and analyze the currently available evidence, specifically related to the risk factors, manifestations, complications and management of HTN in this often difficult-to-treat population. The aim of the review is to improve understanding of the underlying pathophysiologic mechanisms and identify the optimal approach to deliver the best care for African American patients.
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^f2e79b06]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^117D7oEm]. Journal of the American Heart Association (2015). Low credibility.
 
 Introduction
 
@@ -167,7 +167,7 @@ Several authors have estimated the theoretical effects of shifting the distribut
 
 ---
 
-### Counseling African Americans to control hypertension: cluster-randomized clinical trial main effects [^dc3b3ec5]. Circulation (2014). Low credibility.
+### Counseling African Americans to control hypertension: cluster-randomized clinical trial main effects [^116dWBBr]. Circulation (2014). Low credibility.
 
 Background
 
@@ -187,7 +187,7 @@ http://www.clinicaltrials.gov. Unique identifier: NCT00233220.
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^269f349a]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^111zG1HK]. Journal of the American Heart Association (2015). Low credibility.
 
 Discussion
 
@@ -197,13 +197,13 @@ Decades of research have demonstrated that the medical management of blood press
 
 ---
 
-### Counseling African Americans to control hypertension (CAATCH) trial: a multi-level intervention to improve blood pressure control in hypertensive blacks [^df65e20f]. Circulation: Cardiovascular Quality and Outcomes (2009). Low credibility.
+### Counseling African Americans to control hypertension (CAATCH) trial: a multi-level intervention to improve blood pressure control in hypertensive blacks [^116iCTgi]. Circulation: Cardiovascular Quality and Outcomes (2009). Low credibility.
 
 Despite strong evidence of effective interventions targeted at blood pressure (BP) control, there is little evidence on the translation of these approaches to routine clinical practice in care of hypertensive blacks. The goal of this study is to evaluate the effectiveness of a multilevel, multicomponent, evidence-based intervention compared with usual care in improving BP control among hypertensive blacks who receive care in community health centers. The primary outcomes are BP control rate at 12 months and maintenance of intervention 1 year after the trial. The secondary outcomes are within-patient change in BP from baseline to 12 months and cost-effectiveness of the intervention. Counseling African Americans to Control Hypertension (CAATCH) is a group randomized clinical trial with 2 conditions: intervention condition and usual care. Thirty community health centers were randomly assigned equally to the intervention condition group (n = 15) or the usual care group (n = 15). The intervention comprises 3 components targeted at patients (interactive computerized hypertension education, home BP monitoring, and monthly behavioral counseling on lifestyle modification) and 2 components targeted at physicians (monthly case rounds based on Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure guidelines, chart audit and provision of feedback on clinical performance and patients' home BP readings). All outcomes are assessed at quarterly study visits for 1 year. Chart review is conducted at 24 months to evaluate maintenance of intervention effects and sustainability of the intervention. Poor BP control is one of the major reasons for the mortality gap between blacks and whites. Findings from this study, if successful, will provide salient information needed for translation and dissemination of evidence-based interventions targeted at BP control into clinical practice for this high-risk population.
 
 ---
 
-### Prevention and management of CVD in LMICs: why do ethnicity, culture, and context matter? [^6276728a]. BMC Medicine (2020). Medium credibility.
+### Prevention and management of CVD in LMICs: why do ethnicity, culture, and context matter? [^113WyaAD]. BMC Medicine (2020). Medium credibility.
 
 Interventions for CVD: why drugs and models of care may need region-specific fine tuning
 
@@ -213,25 +213,25 @@ Clinicians have long recognized that antihypertensives have disparate blood pres
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^f4bd5faa]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^117Fqb4M]. Journal of the American Heart Association (2015). Low credibility.
 
 The large cardioprotective benefits associated with the medical management of blood pressure led earlier studies to evaluate the hypothetical impact of 100% elimination of hypertension on the incidence of CVD through metrics like the population‐attributable fraction. 24, 26 For reference, our results suggested that if 100% of aware and treated blood pressure above goal was controlled among African American and whites aged 45 to 64 years of age, ≈20 154 CHD events could be prevented annually in the United States, consistent with recently published estimates using the JNC 8 guidelines. 24 Despite considerable clinical and public health efforts to improve hypertension management, no historical precedent is available for achieving 100% control; instead, nationally representative estimates suggested that ≈43.5% of adults with treatment‐eligible hypertension are not treated to goal. 43 As an alternative, we estimated event reductions achieved by modest, but plausible decreases in the proportion of the population classified as having unaware, untreated, and uncontrolled blood pressure above goal. As expected, full implementation of interventions that achieved 10% changes in unaware, untreated, and uncontrolled blood pressure above goal were estimated to prevent considerably fewer CVD events than fully implemented interventions assuming 100% elimination of blood pressure above goal. This discrepancy reflects the proportion of the population for whom we assume a successful intervention. For example, in a population of 100 000 (prevalence of blood pressure above goal 20%; composed of 40% unaware, 14% aware but untreated, and 46% aware treated but uncontrolled), a successful intervention that reduced uncontrolled blood pressure above goal by 10% would target ≈920 people compared to the substantially larger population of 20 000 people targeted by an intervention assuming 100% elimination of blood pressure above goal.
 
 ---
 
-### Women, hypertension, and the systolic blood pressure intervention trial [^df3ab839]. The American Journal of Medicine (2016). Low credibility.
+### Women, hypertension, and the systolic blood pressure intervention trial [^116hwxo2]. The American Journal of Medicine (2016). Low credibility.
 
 Hypertension accounts for approximately 1 in 5 deaths in American women and is the major contributor to many comorbid conditions. Although blood pressure lowering reduces cardiovascular disease outcomes, considerable uncertainty remains on best management in women. Specifically, female blood pressure treatment goals have not been established, particularly among older and African American and Hispanic women, for whom hypertension prevalence, related adverse outcomes, and poor control rates are high. The Systolic Blood Pressure Intervention Trial (SPRINT) planned to clarify optimal blood pressure management in both sexes. Although confirming that a lower blood pressure goal is generally better, because female enrollment and event rates were low and follow-up shortened, outcomes differences in women were not statistically significant. Thus optimal blood pressure goals for women have not been established with the highest evidence. This review addresses SPRINT's significance and key remaining knowledge gaps in optimal blood pressure management to improve women's health.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^e10d2156]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^116kedCq]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in chronic kidney disease — ancestry differences and physical activity research needs note that persons of African ancestry are disproportionately represented in CKD populations, and prior systematic reviews suggest that reductions in sodium intake may result in larger reductions in BP in persons of African and Asian ancestry compared to Caucasians, while it is uncertain whether such racial differences occur in CKD and should be evaluated in future studies. There is a paucity of data on factors that could identify which CKD patients gain the greatest or least BP benefit from physical activity interventions or are at greater risk for harm, and identification of these factors and algorithms to tailor physical activity intensity and supervision to individual CKD patients is needed.
 
 ---
 
-### Pharmacotherapy for hypertension in sub-saharan Africa: a systematic review and network meta-analysis [^3394adf6]. BMC Medicine (2020). Medium credibility.
+### Pharmacotherapy for hypertension in sub-saharan Africa: a systematic review and network meta-analysis [^112KUJtD]. BMC Medicine (2020). Medium credibility.
 
 Background
 
@@ -243,7 +243,7 @@ There have been no systematic reviews to comprehensively synthesise the efficacy
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^99e74497]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^114wAnaa]. Journal of the American Heart Association (2015). Low credibility.
 
 Our results highlight the potential of population‐wide SBP reduction approaches to complement interventions targeted to clinically defined populations with blood pressure above goal. Interventions targeting the US white populations with uncontrolled blood pressure would need to achieve approximately a 30% proportional reduction in uncontrolled blood pressure in order to achieve event reduction comparable to those estimated for population‐wide interventions that achieve a 1‐mm Hg shift in SBP. African American populations, among whom blood pressure elevation occurs at earlier ages and show elevated rates of CVD in the United States, 1, 40 likely would reap the greatest benefits of population‐wide and targeted above goal blood pressure interventions, particularly for uncontrolled blood pressure, suggesting that both types of interventions have potential for reducing these persistent health disparities.
 
@@ -251,13 +251,13 @@ The strengths of this study include the use of a large, biracial cohort with hig
 
 ---
 
-### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^d27f3537]. Circulation Research (2025). Medium credibility.
+### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^116P58PY]. Circulation Research (2025). Medium credibility.
 
 The burden of hypertension is rising rapidly in sub-Saharan Africa (SSA), posing significant health challenges and economic costs that hinder national development. Despite being well-studied in clinical medicine, the detection, treatment, and control of hypertension in SSA remain inadequate. This is due to barriers across the care continuum, including individual-, provider-, and system-level obstacles within the health system. A critical issue is the lack of contextualized mechanistic research to understand the mechanisms, phenotypes, and treatment responses in native SSA populations. Current treatment approaches are often based on data from diaspora Africans, particularly African Americans. Consequently, most guidelines do not recommend angiotensin system drugs as first-line agents for Black patients, a stance that should be reconsidered given some evidence of their effectiveness in native SSA populations. Addressing these barriers requires a comprehensive, multisectoral strategy that includes both preventative and clinical measures at the population and individual levels. Preventative approaches should encompass health and nutrition education, improving food supply quality, and implementing comprehensive transportation and environmental policies. In addition, strategies should be developed to increase the detection of undiagnosed cases through enhanced screening and treatment access to those not receiving care, and revisit current treatment approaches to ensure that they are more tailored to the specific populations and settings. In conclusion, innovative strategies are needed to identify and overcome barriers to hypertension diagnosis and management. A coordinated, multisectoral approach that includes a contextualized mechanistic research agenda, as well as task shifting and task sharing, will help prevent and reduce hypertension in SSA.
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^290af62e]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^1123rB73]. Journal of the American Heart Association (2015). Low credibility.
 
 Background
 
@@ -273,7 +273,7 @@ Modest population‐wide shifts in systolic blood pressure could have a substant
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^145d902e]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^111XCBPs]. Journal of the American Heart Association (2015). Low credibility.
 
 Background
 
@@ -289,7 +289,7 @@ Modest population-wide shifts in systolic blood pressure could have a substantia
 
 ---
 
-### Targeting multivariable risks: an opportunity for population high blood pressure control [^b56e28c7]. Journal of the American Heart Association (2015). Low credibility.
+### Targeting multivariable risks: an opportunity for population high blood pressure control [^115dym5p]. Journal of the American Heart Association (2015). Low credibility.
 
 Elevated blood pressure has been recognized since the early 20th century as an indicator of adverse cardiovascular risk and mortality, with increased rates of disease with higher systolic and diastolic blood pressure levels. Results from early hypertension treatment studies from the Veterans Administration Cooperative Study Group on Antihypertensive Agents determined that treating and lowering blood pressure levels among patients with high blood pressure was associated with reduced cardiovascular disease and stroke risks. These successful blood pressure reductions and adverse risk outcomes were demonstrated in the population as a whole, leading to strategies for hypertension control. These strategies for population and clinical programs focused on the diagnosis, treatment, and control of hypertension are associated with the consistent lowering of systolic blood pressure distributions from 1960 to 2010 in the United States. Further, the shifting in blood pressure distributions to the left was associated with the significant reduction in stroke mortality and stroke risks in the population. Hypertension treatment and control was attributed as the greatest factor for population risk reduction and most effective in accelerated blood pressure reduction. While the lowering of blood pressure levels has been recognized as one of the major public health successes of the past 50 years, optimal treatment and control has yet to be obtained. Lloyd-Jones and colleagues, in this issue of the Journal of the American Heart Association, provide a valuable assessment of cardiovascular events and the level of blood pressure with implications for improved hypertension control and risk reduction. Specifically, the investigator team has advocated for a multiple risk factor assessment and profile for the treatment of elevated blood pressure to maximize cardiovascular disease risks.
 
@@ -297,19 +297,19 @@ This report is timely and contributes to the evidence gap essential in the devel
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^a62a7af0]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^115FMDMy]. VA/DoD (2020). High credibility.
 
 Hypertension in African American patients — monotherapy caution and combination strategy: The Work Group decided to carry forward the "Strong for" recommendation against use of an ACEI or ARB as monotherapy in African American patients with HTN, and it is appropriate to add an ACEI or ARB to a thiazide-type diuretic and/or a CCB for this population.
 
 ---
 
-### Implications of ethnicity for the treatment of hypertensive kidney disease, with an emphasis on African Americans [^1df386cb]. Nature Clinical Practice: Nephrology (2008). Medium credibility.
+### Implications of ethnicity for the treatment of hypertensive kidney disease, with an emphasis on African Americans [^111mQSTC]. Nature Clinical Practice: Nephrology (2008). Medium credibility.
 
 The recognition of chronic kidney disease (CKD) as an important public health issue has fostered an increasing number of strategies to increase CKD awareness and to reduce both the prevalence and the complications of CKD. Despite these advances, end-stage renal disease (ESRD) and cardiovascular events remain the major complications of CKD. Although the ESRD epidemic is attributed in greater part to the increasing rate of diabetes, hypertension remains the second most common reported cause of ESRD and is present in approximately 90% of cases of diabetes-related ESRD. The disproportionately high prevalence of hypertension in ethnic minorities, as well as the difficulty of achieving adequate blood-pressure control in these populations, contributes substantially to the high rate of CKD progression and complications in these groups. Although the role of hypertension as a primary cause of CKD is debated, hypertension is commonly recognized as the most important CKD progression factor. Important differences have been reported in the degree and likelihood of blood-pressure response to antihypertensive medications between ethnic groups, but ethnicity seems to be less important as a determinant of clinical outcomes. In this Review we examine key ethnic variations in hypertensive CKD in terms of pathophysiology, response to antihypertensive therapy, clinical outcomes, and evidence-based recommendations for blood-pressure control, with an emphasis on African Americans.
 
 ---
 
-### Blood pressure, antihypertensive therapy and risk for renal injury in African-Americans [^765b332d]. Current Opinion in Nephrology and Hypertension (2003). Low credibility.
+### Blood pressure, antihypertensive therapy and risk for renal injury in African-Americans [^1142UAyJ]. Current Opinion in Nephrology and Hypertension (2003). Low credibility.
 
 Purpose Of Review
 
@@ -325,7 +325,7 @@ Systolic blood pressure reduction in the range 130–139 mmHg is appropriate to 
 
 ---
 
-### Pharmacotherapy for hypertension in sub-saharan Africa: a systematic review and network meta-analysis [^426400f6]. BMC Medicine (2020). Medium credibility.
+### Pharmacotherapy for hypertension in sub-saharan Africa: a systematic review and network meta-analysis [^112hRmq7]. BMC Medicine (2020). Medium credibility.
 
 Wider context
 
@@ -335,7 +335,7 @@ Similarly, early initiation of combination therapy is a key pillar of the most r
 
 ---
 
-### Racial differences in two self-management hypertension interventions [^765d5bb6]. The American Journal of Medicine (2011). Low credibility.
+### Racial differences in two self-management hypertension interventions [^1142Uu25]. The American Journal of Medicine (2011). Low credibility.
 
 Background
 
@@ -355,19 +355,19 @@ Combined home blood pressure monitoring and a tailored behavioral phone interven
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^066d22b4]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^111AXapj]. Journal of the American Heart Association (2015). Low credibility.
 
 We then contrasted the hypothetical population‐wide SBP reduction with interventions targeted to populations with blood pressure above goal that achieved a 10% proportional reduction in unaware, untreated, or uncontrolled blood pressure. For example, before intervention, 26.4% of African Americans and 11.9% of whites 45 to 64 years of age were classified as having blood pressure above goal (NHANES 2009–2012; Table 5); we therefore evaluated a targeted intervention that achieved a 10% proportional decrease in unaware blood pressure above goal (ie, 20% to 18% among African Americans and 40% to 36% among whites, respectively) resulting in post‐intervention proportions of blood pressure above goal of 25.84% for African Americans and 11.41% for whites (Table 5). Similar to results from the population‐wide SBP interventions, 10% proportional reductions in unaware, untreated, or uncontrolled blood pressure above goal produced the largest reduction in events for HF, the magnitude of which varied by race (Table 6, Figure 3). Specifically, a 10% proportional reduction in unaware, untreated, or uncontrolled blood pressure above goal at study baseline resulted in ≈4.61 (95% CI: 2.50–7.36), 3.55 (95% CI: 1.79–5.73), and 11.01 (95% CI: 6.17–17.52) fewer HF events per 100 000 PY, respectively, in African Americans and 3.77 (95% CI: 1.88–6.51), 1.63 (95% CI: 0.65–3.04), and 4.44 (95% CI: 2.49–6.81) fewer HF events per 100 000 PY, respectively, in whites (Table 6, Figure 3). If 10% proportional reductions in unaware, untreated, or uncontrolled blood pressure above goal were achieved nationwide in African Americans and white populations aged 45 to 64, ≈2200, 1017, and 3164 fewer incident HF events, respectively, could be prevented annually; ≈1390, 650, and 2016 incident CHD and 962, 497, and 1505 stroke events would be prevented annually given 10% proportional reductions in unaware, untreated, or uncontrolled blood pressure above goal, respectively (Table 7).
 
 ---
 
-### A 41-year-old African American man with poorly controlled hypertension: review of patient and physician factors related to hypertension treatment adherence [^710c5d4b]. JAMA (2009). Excellent credibility.
+### A 41-year-old African American man with poorly controlled hypertension: review of patient and physician factors related to hypertension treatment adherence [^113tbkiv]. JAMA (2009). Excellent credibility.
 
 Mr R is an African American man with a long history of poorly controlled hypertension and difficulties with adherence to recommended treatments. Despite serious complications such as hypertensive emergency requiring hospitalization and awareness of the seriousness of his illness, Mr R says at times he has ignored his high blood pressure and his physicians' recommendations. African Americans are disproportionately affected by hypertension and its complications. Although most pharmacological and dietary therapies for hypertension are similarly efficacious for African Americans and whites, disparities in hypertension treatment persist. Like many patients, Mr R faces several barriers to effective blood pressure control: societal, health system, individual, and interactions with health professionals. Moreover, evidence indicates that patients' cognitive, affective, and attitudinal factors and the patient-physician relationship play critical roles in improving outcomes and reducing racial disparities in hypertension control.
 
 ---
 
-### Impact of antihypertensive drug classes on cardiovascular outcomes: insights from the STEP study [^f916370b]. BMC Medicine (2025). Medium credibility.
+### Impact of antihypertensive drug classes on cardiovascular outcomes: insights from the STEP study [^117NHNxJ]. BMC Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -377,13 +377,13 @@ Despite extensive research, evidence on comparative effectiveness of different a
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^b52b5735]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^115dbKMN]. VA/DoD (2020). High credibility.
 
 African American patients with hypertension — monotherapy selection is specifically addressed: In African American patients with hypertension, we recommend against using an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker as monotherapy. (Strong against | Not Reviewed, Not Changed).
 
 ---
 
-### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^8d129a6f]. BMC Medicine (2013). Low credibility.
+### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^114c9WA2]. BMC Medicine (2013). Low credibility.
 
 Conclusions
 
@@ -391,7 +391,7 @@ Patients of African ancestry tend to suffer from more severe hypertension, chara
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^d1c2af99]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^116Myogk]. Journal of the American Heart Association (2015). Low credibility.
 
 Table 5
 Proportion of African American and White NHANES Participants Aged 45 to 64 Years With Blood Pressure Above JNC 8 Goal Before and After Targeted Interventions Improving Unaware, Untreated, and Uncontrolled Blood Pressure by 10%, 2009–2012
@@ -412,13 +412,13 @@ Estimated Events Reduced for CHD, Stroke, and HF From a Hypothetical Interventio
 
 ---
 
-### Hypertension in blacks: insights from Africa [^0701d975]. Journal of Hypertension (2017). Low credibility.
+### Hypertension in blacks: insights from Africa [^111BPY1A]. Journal of Hypertension (2017). Low credibility.
 
 Although the consequences of hypertension are universal, blacks (African-Americans or indigenous Africans) have been the subject of a differential approach to causation, outcome, and treatment. Blacks have a greater propensity to salt sensitivity and suppressed plasma renin suggesting a predisposition to sodium retention. Target organ damage is more frequent and blood pressure is more difficult to control. We explore potential underlying causes, both genetic and environmental, particularly in the South African population, and propose a more physiological approach to the treatment of resistant hypertension in blacks.
 
 ---
 
-### Redefining diuretics use in hypertension: why select a thiazide-like diuretic? [^f4ab54ac]. Journal of Hypertension (2019). Medium credibility.
+### Redefining diuretics use in hypertension: why select a thiazide-like diuretic? [^117FjXZ5]. Journal of Hypertension (2019). Medium credibility.
 
 Salt-sensitive and low-renin hypertension
 
@@ -428,13 +428,13 @@ As salt-sensitive hypertension is especially common in black patients, older adu
 
 ---
 
-### Hypertension treatment in blacks: discussion of the U.S. clinical practice guidelines [^d31e6e65]. Progress in Cardiovascular Diseases (2016). Low credibility.
+### Hypertension treatment in blacks: discussion of the U.S. clinical practice guidelines [^116PzcJx]. Progress in Cardiovascular Diseases (2016). Low credibility.
 
 Blacks are especially susceptible to hypertension (HTN) and its associated organ damage leading to adverse cardiovascular, cerebrovascular and renal outcomes. Accordingly, HTN is particularly significant in contributing to the black-white racial differences in health outcomes in the US. As such, in order to address these health disparities, practical clinical practice guidelines (CPGs) on how to treat HTN, specifically in blacks, are needed. This review article is a timely addition to the literature because the most recent U.S. CPG more explicitly emphasizes race into the algorithmic management of HTN. However, recent clinical research cautions that use of race as a proxy to determine therapeutic response to pharmaceutical agents may be erroneous. This review will address the implications of the use of race in the hypertension CPGs. We will review the rationale behind the introduction of race into the U.S. CPG and the level of evidence that was available to justify this introduction. Finally, we will conclude with practical considerations in the treatment of HTN in blacks.
 
 ---
 
-### Comparison of the efficacy of dihydropyridine calcium channel blockers in African American patients with… [^fbdf6ac6]. JAMA Network (1998). Excellent credibility.
+### Comparison of the efficacy of dihydropyridine calcium channel blockers in African American patients with… [^117SQwFT]. JAMA Network (1998). Excellent credibility.
 
 The primary end point was a comparison of the average reduction in 24-hour ambulatory diastolic blood pressure. Secondary end points included a comparison of average 24-hour ambulatory systolic blood pressure, office SBP or DBP reduction, responder rates, safety, and tolerability. Conclusion The efficacy, safety, and tolerability of the 3 dihydropyridine calcium channel blockers are equivalent in African Americans with stages 1 and 2 hypertension. IN THE US adult population, hypertension is a common condition, affecting 43 million people. 1, 2 The age-adjusted prevalence is particularly high in African Americans. Awareness and treatment rates have improved during the last 2 decades, but only 27% to 29% of all hypertensive patients have attained systolic blood pressure levels below 140 mm Hg and diastolic BP levels below 90 mm Hg.
 
@@ -444,7 +444,7 @@ The results indicate that any differences in the 8-week efficacy of 3 broadly us
 
 ---
 
-### Treatment strategies to control blood pressure in people with hypertension in tanzania and Lesotho: a randomized clinical trial [^3c202c6f]. JAMA Cardiology (2025). High credibility.
+### Treatment strategies to control blood pressure in people with hypertension in tanzania and Lesotho: a randomized clinical trial [^112Y94hc]. JAMA Cardiology (2025). High credibility.
 
 Introduction
 
@@ -456,13 +456,13 @@ We conducted the Identifying Strategies to Control Arterial Hypertension in Sub-
 
 ---
 
-### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^a1e292ab]. Journal of General Internal Medicine (2024). Medium credibility.
+### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^115917NJ]. Journal of General Internal Medicine (2024). Medium credibility.
 
 Hypertension affects 47% of adults in the United States (US). Despite decades of Joint National Committee (JNC) guidelines and public health campaigns, hypertension remains a leading cause of stroke, heart, and kidney disease. Across the hypertension control cascade, stark inequities exist: hypertension disproportionately impacts people of color, individuals of low socioeconomic status, and uninsured populations, contributing to higher cardiovascular morbidity and mortality in these communities. Hypertension therefore provides a useful case study for assessing the way guidelines utilize race in treatment algorithms. To better understand how hypertension guidelines have conceptualized and applied race, we conducted a systematic scoping review of adult US hypertension guidelines.
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^4c94c4d9]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^112xY2fr]. Journal of the American Heart Association (2015). Low credibility.
 
 Figure 2
 Incidence rate differences in, stroke, andper 100 000 person‐years associated with a 1 mm Hg (A) and a 2 mm Hg (B) reduction inin African Americans (black circles) and whites (white squares), thecohort study, 1987–2011. A, Population‐wide 1 mm Hg reduction in systolic blood pressure. B, Population‐wide 2 mm Hg reduction in systolic blood pressure. ARIC indicates Atherosclerosis Risk in Communities; CHD, coronary heart disease; HF, heart failure; SBP, systolic blood pressure.
@@ -475,7 +475,7 @@ Estimated Events Reduced Annually for CHD, Stroke, and HF From 2 Population‐Wi
 
 ---
 
-### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^431a547c]. Circulation Research (2025). Medium credibility.
+### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^112iV1qD]. Circulation Research (2025). Medium credibility.
 
 Role of Race in Antihypertensive Therapy
 
@@ -483,13 +483,13 @@ Although hypertension is one of the most extensively studied diseases in clinica
 
 ---
 
-### Limitations of analyses based on achieved blood pressure: lessons from the African American study of kidney disease and hypertension trial [^5bcb4ae6]. Hypertension (2011). Low credibility.
+### Limitations of analyses based on achieved blood pressure: lessons from the African American study of kidney disease and hypertension trial [^113M6A6y]. Hypertension (2011). Low credibility.
 
 Blood pressure (BP) guidelines that set target BP levels often rely on analyses of achieved BP from hypertension treatment trials. The objective of this article was to compare the results of analyses of achieved BP to intention-to-treat analyses on renal disease progression. Participants (n = 1094) in the African-American Study of Kidney Disease and Hypertension Trial were randomly assigned to either usual BP goal defined by a mean arterial pressure goal of 102 to 107 mm Hg or lower BP goal defined by a mean arterial pressure goal of ≤ 92 mm Hg. Median follow-up was 3.7 years. Primary outcomes were rate of decline in measured glomerular filtration rate and a composite of a decrease in glomerular filtration rate by > 50% or > 25 mL/min per 1.73 m², requirement for dialysis, transplantation, or death. Intention-to-treat analyses showed no evidence of a BP effect on either the rate of decline in glomerular filtration rate or the clinical composite outcome. In contrast, the achieved BP analyses showed that each 10-mm Hg increment in mean follow-up achieved mean arterial pressure was associated with a 0.35 mL/min per 1.73 m² (95% CI: 0.08 to 0.62 mL/min per 1.73 m²; P = 0.01) faster mean glomerular filtration rate decline and a 17% (95% CI: 5% to 32%; P = 0.006) increased risk of the clinical composite outcome. Analyses based on achieved BP lead to markedly different inferences than traditional intention-to-treat analyses, attributed in part to confounding of achieved BP with comorbidities, disease severity, and adherence. Clinicians and policy makers should exercise caution when making treatment recommendations based on analyses relating outcomes to achieved BP.
 
 ---
 
-### Clinical outcomes by race and ethnicity in the systolic blood pressure intervention trial (SPRINT): a randomized clinical trial [^58a8a74b]. American Journal of Hypertension (2017). Low credibility.
+### Clinical outcomes by race and ethnicity in the systolic blood pressure intervention trial (SPRINT): a randomized clinical trial [^113GSZSA]. American Journal of Hypertension (2017). Low credibility.
 
 Racial and ethnic differences in cardiovascular disease (CVD) remain a major public health challenge in the United States. Hypertension is one of the most important, modifiable CVD risk factors leading to coronary heart disease, stroke, end-stage renal disease, and overall mortality. Non-Hispanic Black (NHB) and Hispanic adults (compared to non-Hispanic Whites [NHWs]) have higher rates of uncontrolled blood pressure (BP) (50%, 54%, and 46%, respectively), and NHBs are at greater risk of hypertension-related CVD morbidity and mortality.CVD age-adjusted death rates are 33% higher among NHBs when compared to the overall US population. Hypertension-related age-adjusted mortality rates of adults aged 25 years and older are 127.2 vs. 135.9 per 100,000 populations for Hispanics vs. NHWs, respectively, though considerable heterogeneity in CVD risk is seen in Hispanics based on country of origin. These disparities cost the US health care system an estimated $49 billion per year. Therefore, BP control interventions to reduce CVD morbidity and mortality in underrepresented racial and ethnic groups are important at both the individual and population levels.
 
@@ -497,13 +497,13 @@ Over the past 2 decades, studies have demonstrated that lowering BP with antihyp
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^f080eea5]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^1179ZLSG]. JAMA (2014). Excellent credibility.
 
 JNC 8 — Recommendation 7 (initial drug classes for black adults, including diabetes) — initial antihypertensive treatment should include a thiazide-type diuretic or CCB (For general black population: Moderate Recommendation - Grade B; For black patients with diabetes: Weak Recommendation - Grade C).
 
 ---
 
-### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^9fede7b1]. Journal of General Internal Medicine (2024). Medium credibility.
+### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^11566wa8]. Journal of General Internal Medicine (2024). Medium credibility.
 
 DISCUSSION
 
@@ -511,7 +511,7 @@ Our scoping review of hypertension guidelines demonstrates race as a frequently 
 
 ---
 
-### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^1f76051b]. JAMA Network Open (2022). High credibility.
+### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^111oeFx6]. JAMA Network Open (2022). High credibility.
 
 Key Points
 
@@ -529,31 +529,31 @@ These findings suggest that implementing highly standardized blood pressure meas
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^a4680c5c]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^115CjvEw]. JAMA (2014). Excellent credibility.
 
 Hypertension is the most common condition seen in primary care and leads to myocardial infarction, stroke, renal failure, and death if not detected early and treated appropriately. Patients want to be assured that blood pressure (BP) treatment will reduce their disease burden, while clinicians want guidance on hypertension management using the best scientific evidence. This report takes a rigorous, evidence-based approach to recommend treatment thresholds, goals, and medications in the management of hypertension in adults. Evidence was drawn from randomized controlled trials, which represent the gold standard for determining efficacy and effectiveness. Evidence quality and recommendations were graded based on their effect on important outcomes. There is strong evidence to support treating hypertensive persons aged 60 years or older to a BP goal of less than 150/90 mm Hg and hypertensive persons 30 through 59 years of age to a diastolic goal of less than 90 mm Hg; however, there is insufficient evidence in hypertensive persons younger than 60 years for a systolic goal, or in those younger than 30 years for a diastolic goal, so the panel recommends a BP of less than 140/90 mm Hg for those groups based on expert opinion. The same thresholds and goals are recommended for hypertensive adults with diabetes or nondiabetic chronic kidney disease (CKD) as for the general hypertensive population younger than 60 years. There is moderate evidence to support initiating drug treatment with an angiotensin-converting enzyme inhibitor, angiotensin receptor blocker, calcium channel blocker, or thiazide-type diuretic in the nonblack hypertensive population, including those with diabetes. In the black hypertensive population, including those with diabetes, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy. There is moderate evidence to support initial or add-on antihypertensive therapy with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes. Although this guideline provides evidence-based recommendations for the management of high BP and should meet the clinical needs of most patients, these recommendations are not a substitute for clinical judgment, and decisions about care must carefully consider and incorporate the clinical characteristics and circumstances of each individual patient.
 
 ---
 
-### Recommendations for the management of special populations: racial and ethnic populations [^de30c2b8]. American Journal of Hypertension (2003). Low credibility.
+### Recommendations for the management of special populations: racial and ethnic populations [^116gQdVh]. American Journal of Hypertension (2003). Low credibility.
 
 One of the current challenges in the treatment of hypertension is the variation in the incidence and morbidity among ethnic populations. For example, in the recent Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT), in which 35% of the patients were African American, the diuretic chlorthalidone was associated with greater reductions in blood pressure (BP) than the angiotensin-converting enzyme (ACE) inhibitor lisinopril and was also associated with a relative risk reduction in stroke compared with lisinopril. However, the increased stroke risk associated with lisinopril was experienced among African American but not non-African American patients. ALLHAT did not permit combination therapy with ACE inhibitors plus diuretics; therefore, the benefits of such regimens in this patient population could not be assessed. In the Losartan Intervention For Endpoint reduction in hypertension (LIFE) study, in contrast to the overall study population, African American patients with left ventricular hypertrophy treated with atenolol were at lower risk of experiencing the primary composite end point (death, myocardial infarction, and stroke) than African Americans treated with losartan, with or without diuretics. On the other hand, in the African American Study of Kidney Disease and Hypertension, African American patients treated with the ACE inhibitor ramipril had a significantly lower incidence of the primary composite end point (glomerular filtration rate reduction, end-stage renal disease, or death) than African Americans treated with the calcium channel blocker amlodipine. Although the use of diuretics in African American patients may be a logical first-line choice for BP reduction, most patients will require combination therapy. African American patients with systolic BP ≥ 15 mm Hg above target level or a diastolic BP ≥ 10 mm Hg above target should be considered for first-line combination therapy. Although certain combinations have been shown to be effective in non-African American patients, the choice of drugs for combination therapy in African American patients may be different.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^e52908d6]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^116rjwx9]. VA/DoD (2020). High credibility.
 
 VA/DoD hypertension guideline — African American patients: In African American patients with hypertension, we recommend against using an angiotensin-converting-enzyme inhibitor or angiotensin II receptor blocker as monotherapy.
 
 ---
 
-### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^033904b0]. European Heart Journal (2024). High credibility.
+### 2024 ESC guidelines for the management of elevated blood pressure and hypertension [^1115n7eo]. European Heart Journal (2024). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to black patients, ESC 2024 guidelines recommend to consider initiating combination therapy including a CCB combined with either a thiazide diuretic or a renin-angiotensin system blocker in black patients from Sub-Saharan Africa requiring BP-lowering treatment.
 
 ---
 
-### Using benefit-based tailored treatment to improve the use of antihypertensive medications [^e92454e0]. Circulation (2013). Low credibility.
+### Using benefit-based tailored treatment to improve the use of antihypertensive medications [^116xeKTV]. Circulation (2013). Low credibility.
 
 Background
 
@@ -569,7 +569,7 @@ We found that benefit-based tailored treatment was both more effective and requi
 
 ---
 
-### WITHDRAWN: effect of antihypertensive drugs on mortality, morbidity and blood pressure in blacks [^d92cdaf6]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
+### WITHDRAWN: effect of antihypertensive drugs on mortality, morbidity and blood pressure in blacks [^116YyP1F]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
 
 Background
 
@@ -601,7 +601,7 @@ When first-line drugs from different classes are compared in the treatment of bl
 
 ---
 
-### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^4eca6d1b]. BMC Nephrology (2013). Low credibility.
+### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^1131p2ZY]. BMC Nephrology (2013). Low credibility.
 
 Background
 
@@ -621,7 +621,7 @@ Black race is consistently associated with a clinically significant lesser reduc
 
 ---
 
-### A review of ACE inhibitors and ARBs in black patients with hypertension [^c12280d7]. The Annals of Pharmacotherapy (2018). Low credibility.
+### A review of ACE inhibitors and ARBs in black patients with hypertension [^115wLCZt]. The Annals of Pharmacotherapy (2018). Low credibility.
 
 Objective
 
@@ -645,7 +645,7 @@ Potentially reduced efficacy and limited outcomes data indicate that ACE inhibit
 
 ---
 
-### A rational approach to the treatment of hypertension in special… [^fafc2485]. AAFP (1999). Low credibility.
+### A rational approach to the treatment of hypertension in special… [^117R6bb2]. AAFP (1999). Low credibility.
 
 TREATMENT WITH LIFESTYLE MODIFICATIONS The pathophysiologic characteristics of hypertension in blacks provide a rationale for a strong focus on lifestyle modifications for improvement of blood pressure. A reduction in body weight by an average of as little as 3. 18 kg significantly reduces blood pressure. 6 In normokalemic hypertensive patients, use of oral potassium supplements may also significantly reduce blood pressure. 7 This occurs, in part, because of a natriuretic effect of potassium. 11 Increasing the dosage of the ACE inhibitor provides a slightly greater average lowering of blood pressure, but the decrease is still less than desirable. 12 Ensuring a low dietary salt intake can improve the blood pressure response to ACE inhibitors in black patients.
 13.
@@ -657,7 +657,7 @@ In the absence of contraindications, special efforts should be made to ensure th
 
 ---
 
-### Racial differences in blood pressure control: potential explanatory factors [^ee434f53]. The American Journal of Medicine (2006). Low credibility.
+### Racial differences in blood pressure control: potential explanatory factors [^1176EfNa]. The American Journal of Medicine (2006). Low credibility.
 
 Purpose
 
@@ -677,7 +677,7 @@ In this sample of hypertensive patients who have good access to health care and 
 
 ---
 
-### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^f8718f3c]. BMC Medicine (2013). Low credibility.
+### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^117ML5Cw]. BMC Medicine (2013). Low credibility.
 
 Discussion
 
@@ -687,7 +687,7 @@ To our knowledge, this is the first systematic review on environmental, pharmaco
 
 ---
 
-### Initial combination therapy for hypertension in patients of African ancestry: a systematic review and meta-analysis [^f6bfe6c6]. Journal of Hypertension (2022). Medium credibility.
+### Initial combination therapy for hypertension in patients of African ancestry: a systematic review and meta-analysis [^117JpQsF]. Journal of Hypertension (2022). Medium credibility.
 
 We systematically reviewed randomized controlled trials (RCTs) that consider the effect of initial dual antihypertensive combination treatment on blood pressure (BP), morbidity, or mortality in hypertensive African ancestry adults, using the methodology of the Cochrane Collaboration. Main outcomes were difference in means (continuous data) and risk ratio (dichotomous data). We retrieved 1728 reports yielding 13 RCTs of 4weeks to 3years duration (median 8weeks) in 3843 patients. Systolic BP was significantly higher on β-adrenergic blocker vs. other combinations, 3.80 [0.82;6.78] mmHg, but comparable for other combinations. Hypokalemia and hyperglycemia occurred with calcium channel blocker (CCB)+diuretics > diuretics+angiotensin converting enzyme inhibitor (ACEI)/angiotensin-II-type-1-receptor antagonist (ARB) > CCB+ACEI/ARB. An RCT including high-risk patients reported combined morbidity/mortality for hydrochlorothiazide (mg) 25+benazepril 40 vs. amlodipine 10+benazepril 40 of respectively 8.9% vs. 6.6% (n = 1414, risk ratio 1.35 [0.94;1.94]; all patients, N = 11 506, 1.23 [1.11;1.37]). We conclude that limited evidence supports CCB+ACEI rather than HCT+ACEI as first-line initial combination therapy in African ancestry patients with hypertension.
 
@@ -697,7 +697,7 @@ CRD42021238529.
 
 ---
 
-### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^cd5bc321]. Circulation Research (2025). Medium credibility.
+### Hypertension in sub-saharan Africa: burden, barriers and priorities for improving treatment outcomes [^116FTHSg]. Circulation Research (2025). Medium credibility.
 
 The appropriateness of using the Black race to guide the choice of initial antihypertensive therapy, therefore, warrants careful consideration. While practice guidelines, favor calcium-channel blockers and diuretics for Black adults with hypertension, these are typically recommended as part of combination therapy with a renin-angiotensin system (RAS) blocker rather than as monotherapy. Importantly, race-specific differences in average blood pressure responses do not reliably predict individual responses to single-drug therapy, as the BP response distributions overlap significantly between Black and White adults. Therefore, there is no clear advantage to using race as a determinant for selecting single-drug therapy in patients for whom monotherapy is otherwise appropriate.
 
@@ -705,7 +705,7 @@ The Kaiser Permanente's Gardena Medical Offices in the United States implemented
 
 ---
 
-### Comparative effectiveness of calcium-channel blockers, angiotensin-converting enzyme / angiotensin receptor blockers and diuretics on cardiovascular events likelihood in hypertensive African-American and non-hispanic caucasians: a retrospective study across HCA healthcare [^56b8db85]. Clinical Cardiology (2025). Medium credibility.
+### Comparative effectiveness of calcium-channel blockers, angiotensin-converting enzyme / angiotensin receptor blockers and diuretics on cardiovascular events likelihood in hypertensive African-American and non-hispanic caucasians: a retrospective study across HCA healthcare [^113Da2Yt]. Clinical Cardiology (2025). Medium credibility.
 
 The 2017 American College of Cardiology (ACC)/American Heart Association (AHA) blood pressure guideline recommends calcium channel blockers (CCBs) and thiazide diuretics as first‐line agents for non‐Hispanic (NH) Black adults with hypertension who do not have heart failure or renal disease. The guideline also emphasizes the use of antihypertensive medications from two or more different classes. Conversely, the International Society of Hypertension in Blacks (ISHIB) advises combination therapy with a CCB and a renin‐angiotensin blocking agent (preferably an angiotensin receptor blocker [ARB]) as the primary treatment for NH Black patients with hypertension. Numerous trials have assessed the efficacy of different antihypertensive regimens, yielding conflicting results, particularly in racial and ethnic‐specific studies. The Antihypertensive and Lipid‐Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) found that angiotensin‐converting enzyme (ACE) inhibitors, CCBs, and alpha‐receptor blockers were not superior to thiazide diuretics in lowering blood pressure. Thiazide diuretics were also more effective in preventing strokes among NH Black individuals compared to other medications. However, the African American Study of Kidney Disease indicated that ACE inhibitors were more effective than beta‐blockers and CCBs in slowing the progression of renal disease in NH Black Americans with nondiabetic renal disease, contradicting ALLHAT's findings that ACE inhibitors were not superior to other antihypertensive classes for preventing kidney disease.
 
@@ -713,7 +713,7 @@ Understanding the optimal first‐line antihypertensive medications for preventi
 
 ---
 
-### Cost-effectiveness analyses of antihypertensive medicines: a systematic review [^b97c4929]. American Journal of Preventive Medicine (2017). Low credibility.
+### Cost-effectiveness analyses of antihypertensive medicines: a systematic review [^115jzTRA]. American Journal of Preventive Medicine (2017). Low credibility.
 
 The 2014 evidence-based guideline for the management of high blood pressure in adultsrecommends several possible medicine classes for initial treatment of hypertension. TD, CCB, ACEI, or ARB classes are recommended as the initial choice of antihypertensive medicines for non–African-American patients and for patients with diabetes. For African-American patients TDs and CCBs are recommended, and for patients with chronic kidney disease, ACEIs and ARBs are recommended. Prescribers may consider adding another medicine from TD, CCB, ACEI, or ARB classes for the second step, and then β-blockers, aldosterone antagonists, or others for the third step. Similarly, several medicine classes are recommended for first-line therapy in the National Institute for Health and Care Excellence guideline for hypertension. The recommended initial treatment option is ACEIs or low-cost ARBs for patients aged < 55 years, CCBs for those aged ≥ 55 years or African American, and TD if CCBs are not suitable; β-blockers are not a preferred initial therapy. The second-line therapy is dual therapy of ACEs or ARBs with a CCB for most patients. The third-line therapy is the use of three medicines, including ACE or ARB with a CCB, and a TD, if required. Because several pharmacologic treatment options can be used for the first-line therapy, it is important to evaluate which medicines are more cost effective among those options.
 
@@ -721,37 +721,37 @@ The evidence from pharmacoeconomic evaluations can provide valuable information 
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^15c17984]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111ZFj7H]. Journal of the American College of Cardiology (2025). High credibility.
 
 2025 High blood pressure guideline — evidence gaps and future directions — highlights persistent control and awareness gaps in U.S. adults with hypertension, noting that most are not controlled to < 130/80 mm Hg and that more than 50% are unaware they have hypertension. The report identifies needs for population management leveraging the electronic health record (EHR) and community-engaged strategies to identify undiagnosed or uncontrolled hypertension, and for research on screening and implementation strategies to control blood pressure (BP) and reduce cardiovascular disease (CVD) risk. Observational data show increased CVD risk among younger adults with stage 1 hypertension and association with target organ damage, with clarification needed on where current evidence can guide treatment decisions in younger adults. There is a lack of evidence to support BP targets for diastolic hypertension, which is more common in younger adults. Accurate BP measurement remains a major challenge, prompting trials comparing attended versus unattended AOBP and studies of alternative methods, including accurate wearable and cuffless devices, home BP monitoring (HBPM), and ambulatory BP monitoring (ABPM), as well as comparisons of home and ambulatory measures to mitigate disparities from limited ABPM availability. Research priorities include addressing social determinants of health (SDOH) and race/ethnicity, clarifying treatment thresholds and targets for subpopulations, and adding data monitoring to evaluate effects across differences in sex/gender, race/ethnicity, socioeconomic status, education, and access to care. Additional needs include studies on white-coat hypertension, limited evidence of BP lowering from sleep apnea treatment despite its contribution to hypertension, and broader testing of stress management techniques. In pregnancy, planning for women with or at risk for high BP emphasizes that safety and effectiveness of antihypertensive therapies should be considered, with counseling on contraception options and recommendations for prophylactic aspirin therapy among those at greatest risk for acute onset or worsening of prior hypertension.
 
 ---
 
-### Racial / ethnic disparities in the awareness, treatment, and control of hypertension-United States, 2003–2010 [^56e1b856]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
+### Racial / ethnic disparities in the awareness, treatment, and control of hypertension-United States, 2003–2010 [^113Dokcm]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
 
 Racial/ethnic disparities exist in blood pressure, awareness, treatment, and control, with Mexican-Americans having a lower awareness and treatment of hypertension, as well as less health-care coverage, compared with blacks and whites. Multiple national efforts target improvements in high blood pressure prevention, treatment, and control. The Million Hearts initiative, co-led by CDC and the Centers for Medicare and Medicaid Services, is focusing efforts on preventing 1 million heart attacks and strokes by 2017, partially achieved by increasing blood pressure control for 10 million persons in the United States. Million Hearts is working to reduce cardiovascular disease risk factors through parallel efforts aimed at clinical settings and communities with a focus on the "ABCS" (i.e. appropriate aspirin use for those at risk, blood pressure control, cholesterol management, and smoking cessation). The initiative aims to improve prescription and patient adherence to appropriate medications for the ABCS, promote a heart-healthy lifestyle, and refine access to effective care, while bringing clinicians' attention to cardiovascular disease prevention, including appropriate drug regimens. Million Hearts also provides communities and clinical settings with resources and materials that are tailored for different racial/ethnic populations.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^a3a6a6de]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^115BcxaH]. VA/DoD (2020). High credibility.
 
 African American hypertension — ALLHAT and LIFE trial findings identify differential effects by drug class. Among ALLHAT participants, 35% were African American, and subgroup analyses found that the ACEI (lisinopril) was less effective in lowering blood pressure than the thiazide-type diuretic (chlorthalidone) or the long-acting dihydropyridine (LA DHP) CCB (amlodipine); African American participants randomized to the ACEI versus the thiazide-type diuretic were at a 40% greater risk of stroke, 30% greater risk of heart failure, 19% greater risk of CVD, and 15% greater risk of combined CHD, with no difference in major CVD outcomes between the thiazide-type diuretic and the LA DHP CCB other than a higher incidence of heart failure with the CCB, and amlodipine showed greater adherence and fewer medications to reach blood pressure goals than lisinopril, while the LIFE study reported better cardiovascular outcomes with the beta-blocker (atenolol) than with the ARB (losartan) in African Americans.
 
 ---
 
-### Evolving the role of black race in hypertension therapeutics [^c3dc19fe]. American Journal of Hypertension (2024). Medium credibility.
+### Evolving the role of black race in hypertension therapeutics [^1161NWso]. American Journal of Hypertension (2024). Medium credibility.
 
 Black race has been used to guide antihypertensive drug selection for Black patients based on predominant between race (same drug) and intra-race (different drugs) blood pressure (BP) response patterns. Accordingly, thiazide diuretics and calcium antagonists have been recommended over renin-angiotensin system (RAS) inhibitors (angiotensin-receptor blockers, angiotensin-converting enzyme inhibitors) and beta blockers for Black patients. Current antihypertensive drug prescribing reflects historical guidance as calcium antagonists and thiazide diuretics are prescribed more and RAS blockers less in Black than White patients. Hypertension control rates in Blacks, lag those for Whites despite their greater use of combination drug therapy and lesser use of monotherapy. This is also true across drug regimens containing any of the 4 recommended classes for initial therapy as well as for evidence-based combination drug therapy (calcium antagonist or thiazide diuretic+RAS blocker) regimens for which there is no known racial disparity in BP response. Current recommendations acknowledge the need for combination drug therapy in most, especially in Black patients. One exemplary comprehensive hypertension control program achieved > 80% control rates in Black and White patients with minimal racial disparity while utilizing a race-agnostic therapeutic algorithm. Black patients manifest robust, if not outsized, BP responses to diet/lifestyle modifications. Importantly, race neither appears to be a necessary nor sufficient consideration for the selection of effective drug therapy. Accordingly, we urge the initiation of adequately intense race-agnostic drug therapy coupled with greater emphasis on diet/lifestyle modifications for Black patients as the cornerstone of a race-informed approach to hypertension therapeutics.
 
 ---
 
-### Valsartan alone or with a diuretic or ACE inhibitor as treatment for African American hypertensives: relation to salt intake [^0443054b]. American Journal of Hypertension (2001). Low credibility.
+### Valsartan alone or with a diuretic or ACE inhibitor as treatment for African American hypertensives: relation to salt intake [^1117KTo8]. American Journal of Hypertension (2001). Low credibility.
 
 Previous clinical trials have demonstrated the important influence of ethnicity and dietary salt on the antihypertensive efficacy of drugs that block the renin angiotensin system. Angiotensin II receptor blockers are a new therapeutic entity that have not been widely studied in African American hypertensives, either alone, or in combination with other therapies such as diuretics or angiotensin converting enzyme inhibitors. We performed a pilot, prospective, open label, randomized design clinical trial to evaluate the effects of the angiotensin II receptor blocker valsartan (160 mg once a day) on systolic and diastolic blood pressure in hypertensive African Americans (n = 88) on a low salt (100 mEq Na+/day) for 2 weeks and the same diet supplemented by 100 mEq Na+ for 4 weeks. After this evaluation, while continuing the Na+ supplementation, patients were randomized to valsartan 320 mg/day (n = 28), or the addition of hydrochlorothiazide (HCTZ) 12.5 mg/day (n = 30), or benazepril 20 mg/day to the valsartan 160 mg/day for an additional 6 weeks. Valsartan (160 mg/day) lowered blood pressure significantly in African American patients on both low salt (-6.4/-4.8 mm Hg: P < .001) and a high salt diet (-4.9/-3.8 mm Hg: P = 0.01). The high salt diet attenuated the antihypertensive effect slightly (1.6/1.3 mm Hg, P = not significant). When comparing the efficacy of the three randomized therapeutic regimens while on the Na+ supplement, the valsartan 160 mg/HCTZ 12.5 mg was the most effective therapy with an incremental reduction in blood pressure of -10.5/-6.9 mm Hg (P < .01), compared to valsartan 160 mg/day alone. Doubling the dose of valsartan to 320 mg incrementally lowered blood pressure by -3.8/-3.3 mm Hg (P = not significant). The least effective approach was adding benazepril 20 mg/day to valsartan 160 mg/day with no incremental reduction in systolic blood pressure and diastolic blood pressure reduction of only 1.7 mm Hg (P = not significant). We conclude that in our open label pilot study, the antihypertensive activity of valsartan is not significantly attenuated by supplemented salt diet in hypertensive African Americans. Moreover, adding a low dose of HCTZ appears to be the most effective strategy in enhancing the antihypertensive activity of this angiotensin II receptor blocker in contrast to either doubling the dose or adding an angiotensin converting enzyme inhibitor.
 
 ---
 
-### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^16531810]. Journal of General Internal Medicine (2024). Medium credibility.
+### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^111a6e15]. Journal of General Internal Medicine (2024). Medium credibility.
 
 Twenty-two guidelines (59%) mentioned race at least once in reference to pharmacology. Guidelines emphasized the need for different first-line medications based on whether a patient belonged to a "Black" or "African American" racial group. A 1991 guideline asserted that "black patients tend to respond better to diuretics and calcium antagonists than to beta-blockers or angiotensin-converting enzyme inhibitors as monotherapy". Whelton et al. recommended "[f]or black adults with hypertension (without HF or CKD), initial antihypertensive treatment should include a thiazide diuretic or CCB". The two most recent hypertension guidelines included in this review recommended different pharmacologic medications based on race.
 
@@ -759,13 +759,13 @@ Fourteen guidelines (38%) referenced interventions designed to address existing 
 
 ---
 
-### A randomized controlled crossover trial evaluating differential responses to antihypertensive drugs (used as mono-or dual therapy) on the basis of ethnicity: the comparIsoN oF optimal hypertension regiMens; part of the ancestry informative markers in HYpertension program-AIM-HY INFORM trial [^5c75356c]. American Heart Journal (2018). Low credibility.
+### A randomized controlled crossover trial evaluating differential responses to antihypertensive drugs (used as mono-or dual therapy) on the basis of ethnicity: the comparIsoN oF optimal hypertension regiMens; part of the ancestry informative markers in HYpertension program-AIM-HY INFORM trial [^113N5ELT]. American Heart Journal (2018). Low credibility.
 
 Although data relating to Asians in the North American literature are limited — and where it is available, "Asian" frequently equates to "Far Eastern" (Chinese, Japanese, etc), — results from several large US studies provide some evidence of ethnic variation in response to antihypertensive drugs. In broad terms, greater falls in BP are achieved with thiazide/thiazide-like diuretics in black subjects with hypertension when compared to their white peers; conversely, ACEi are less effective in this cohort. In the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial, patients on chlorthalidone achieved better BP control than those receiving lisinopril or amlodipine. Those using lisinopril had a greater risk for stroke (risk ratio [RR]: 1.40, 95% CI: 1.17–1.68), combined cardiovascular disease (RR: 1.19, 95% CI: 1.09–1.30), and heart failure (RR: 1.30, 95% CI: 1.10–1.54) compared with those receiving chlorthalidone, treatment differences which were far more pronounced in African Americans when compared with whites. Furthermore, the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial researchers reported a higher risk of stroke in African American hypertensive patients treated with lisinopril as opposed to amlodipine (RR: 1.51; 95% CI: 1.22–1.86), an association which was not observed in non–African Americans (RR: 1.07; 95% CI: 0.89–1.28). Subsequent meta-analyses reiterate these findings, demonstrating no evident benefit from ACEi in achieving diastolic blood pressure (DBP) goals for African American hypertensive patients. Conversely, ACEi may offer substantial benefits for African Americans with hypertensive renal disease; in the African American Study of Kidney Disease and Hypertension, ramipril slowed renal disease progression in African Americans irrespective of whether proteinuria was present, more so than amlodipine or metoprolol. However, demographic differences with the United Kingdom (eg, a large South Asian population, population "admixture", first/second-generation immigrants as opposed to a population resident for 2–3 centuries), along with variations in vascular risk, diet, and weight, restrict the utility of US data.
 
 ---
 
-### An effective approach to high blood pressure control: a science advisory from the American Heart Association, the American college of cardiology, and the centers for disease control and prevention [^f32fc50e]. Hypertension (2014). Low credibility.
+### An effective approach to high blood pressure control: a science advisory from the American Heart Association, the American college of cardiology, and the centers for disease control and prevention [^117DY37K]. Hypertension (2014). Low credibility.
 
 The Value of Hypertension Treatment Algorithms As Part of a Multifactorial Approach to Improve Blood Pressure Control
 
@@ -786,7 +786,7 @@ Leveraging the electronic medical record systems being established throughout th
 
 ---
 
-### Hypertension management in emergency departments [^3f95558f]. American Journal of Hypertension (2020). Medium credibility.
+### Hypertension management in emergency departments [^112dGP26]. American Journal of Hypertension (2020). Medium credibility.
 
 Another important consideration is race in antihypertensive medication selection. African American patients have higher risk of treatment resistant hypertension and are more likely to require more agents for adequate control. To this end, current guidelines promote the use of dual drug antihypertensive drug therapy. Recommended treatment is a combination drug therapy with an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker combined with a calcium channel blocker or thiazide diuretic.
 
@@ -794,7 +794,7 @@ Our recommendations are consistent with the 2013 American College of Emergency P
 
 ---
 
-### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^e7dc94da]. BMC Medicine (2013). Low credibility.
+### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^116vkENV]. BMC Medicine (2013). Low credibility.
 
 Authors' contributions
 
@@ -802,7 +802,7 @@ Both authors have made substantial contributions to conception and design. LMB p
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^02dc024c]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^1115Esgf]. Journal of the American Heart Association (2015). Low credibility.
 
 Results
 
@@ -820,7 +820,7 @@ A population‐wide hypothetical intervention that achieved an overall 1 mm Hg d
 
 ---
 
-### Initial single-pill blood pressure-lowering therapy: should It Be for most people? [^7055b061]. Journal of the American Heart Association (2017). Low credibility.
+### Initial single-pill blood pressure-lowering therapy: should It Be for most people? [^113sYPvG]. Journal of the American Heart Association (2017). Low credibility.
 
 The importance of lowering blood pressure (BP) to reduce cardiovascular risk and progression of chronic kidney disease is well established. Furthermore, clinical trials that randomized various monotherapies to evaluate outcomes ultimately required an average of 2 or more medications to achieve BP goals (Figure). 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 This was also true in trials involving elderly people. 15
 
@@ -829,13 +829,13 @@ Medications required to achieve blood pressure control in clinical trials. AASK 
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^b2511742]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^115ZN2wT]. JAMA (2014). Excellent credibility.
 
 2014 Hypertension Guideline (JNC 8) — methodology and scope compared with JNC 7: The panel defined critical questions with a methodology team and focused analyses on randomized controlled trial (RCT) evidence, including an initial systematic review and subsequent panel review according to a standardized protocol. Definitions of hypertension and prehypertension were not addressed but thresholds for pharmacological treatment were defined; lifestyle modifications were recommended by endorsing the Lifestyle Work Group. Drug therapy recommended selection among 4 specific medication classes (angiotensin-converting enzyme inhibitor [ACEI] or angiotensin receptor blocker [ARB], calcium channel blocker [CCB], or diuretics) and doses based on RCT evidence, with specific medication selections for racial, chronic kidney disease (CKD), and diabetic subgroups. The evidence review addressed a limited number of high-priority questions, and the report was reviewed by experts, including those affiliated with professional and public organizations and federal agencies, with no official sponsorship inferred.
 
 ---
 
-### Nurse-led disease management for hypertension control in a diverse urban community: a randomized trial [^973ee573]. Journal of General Internal Medicine (2012). Low credibility.
+### Nurse-led disease management for hypertension control in a diverse urban community: a randomized trial [^114sEFsY]. Journal of General Internal Medicine (2012). Low credibility.
 
 Background
 
@@ -871,7 +871,7 @@ A nurse management intervention combining an in-person visit, periodic phone cal
 
 ---
 
-### Racial / ethnic disparities in the awareness, treatment, and control of hypertension-United States, 2003–2010 [^3f4ac598]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
+### Racial / ethnic disparities in the awareness, treatment, and control of hypertension-United States, 2003–2010 [^112cqLRm]. MMWR: Morbidity and Mortality Weekly Report (2013). Low credibility.
 
 Editorial Note
 
@@ -879,19 +879,19 @@ The results presented in this report indicate that during 2003–2010, racial/et
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^6aaf7f16]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^113jAdpR]. JAMA (2014). Excellent credibility.
 
 Recommendation 7 — initial drug selection for the general black population — states that "in the general black population, including those with diabetes, initial antihypertensive treatment should include a thiazide-type diuretic or CCB", graded as "Moderate Recommendation – Grade B" for the general black population and "Weak Recommendation – Grade C" for black patients with diabetes. The text further states that "both thiazide-type diuretics and CCBs are recommended as first-line therapy for hypertension in black patients", and "the panel recommended a CCB over an ACEI as first-line therapy in black patients because there was a 51% higher rate (relative risk, 1.51; 95% CI, 1.22–1.86) of stroke… with the use of an ACEI as initial therapy compared with use of a CCB"; it also notes "there were no differences in other outcomes" between a CCB and a diuretic and that "There were no outcome studies… that compared diuretics or CCBs vs β-blockers, ARBs, or other renin-angiotensin system inhibitors in black patients".
 
 ---
 
-### Ethnic and racial disparities in hypertension management among women [^c0de3184]. Seminars in Perinatology (2017). Low credibility.
+### Ethnic and racial disparities in hypertension management among women [^115vwFnT]. Seminars in Perinatology (2017). Low credibility.
 
 Hypertension is a major independent risk factor for cardiovascular disease for all ethnic and racial groups. Compared with other lifestyle and metabolic risk factors, hypertension is the leading cause of death in women. Women with preeclampsia are three times more likely to develop chronic hypertension and have an elevated risk of future cardiovascular disease. The objective of this article is to provide a review of the factors related to racial and ethnic disparities in blood pressure control. This is followed by a summary of contemporary clinical practice guidelines for the prevention, through lifestyle behavioral modification, and treatment of hypertension with pharmacotherapy.
 
 ---
 
-### The potential impact of optimal blood pressure treatment intensity to reduce disparities in dementia between black and white individuals [^09184189]. Journal of Alzheimer's Disease (2025). Medium credibility.
+### The potential impact of optimal blood pressure treatment intensity to reduce disparities in dementia between black and white individuals [^111EV35i]. Journal of Alzheimer's Disease (2025). Medium credibility.
 
 Background
 
@@ -915,7 +915,7 @@ Our results suggest that tighter population-level BP control would not reduce po
 
 ---
 
-### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^e70d56b0]. Journal of the American Heart Association (2015). Low credibility.
+### Reducing the blood pressure-related burden of cardiovascular disease: impact of achievable improvements in blood pressure prevention and control [^116uYcxP]. Journal of the American Heart Association (2015). Low credibility.
 
 Methods
 
@@ -927,7 +927,7 @@ The following sequential exclusions were applied: participants who reported race
 
 ---
 
-### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^74989d21]. BMC Nephrology (2013). Low credibility.
+### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^113yrpr4]. BMC Nephrology (2013). Low credibility.
 
 Conclusion
 
@@ -935,13 +935,13 @@ In conclusion, this study confirms and quantifies the hypothesis that adult blac
 
 ---
 
-### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^e6eff927]. JAMA Network Open (2022). High credibility.
+### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^116uNksY]. JAMA Network Open (2022). High credibility.
 
 Prior research suggests that a standardized approach to BP management can increase BP control. For example, the American Medical Association's Measure Accurately, Act Rapidly, and Partner with Patients BP Improvement Program reduced racial and ethnic disparities in BP control through addressing therapeutic inertia. Additionally, Kaiser Permanente Northern California has shown that a standardized approach to hypertension treatment can achieve parity in BP control between Black and White patients, with BP control exceeding 80% in both patient populations. Kaiser Permanente uses several strategies to reduce therapeutic inertia, including maintaining a system-wide hypertension registry, prioritizing evidence-based practice guidelines and fixed-dose combination therapy, and using medical assistants for follow-up measurements. While the SPRINT protocol for BP management represents one approach to standardizing BP care, other standardized approaches, such as the Measure Accurately, Act Rapidly, and Partner with Patients program and the Kaiser Permanente algorithm, demonstrate multiple effective strategies to minimize therapeutic inertia. In addition to implementing care protocols to reduce therapeutic inertia, health systems should encourage the use of fixed-dose combination medication (especially early in disease management), follow-up every 2 to 4 weeks after initiation or titration of drug therapy until BP goal is achieved, team-based care, and personalized feedback to clinicians. Greater implementation of patient-centered strategies are needed in community care of adults with hypertension. Ongoing studies focused on team-based hypertension care, mobile health platforms, and home BP monitoring will provide more evidence on interventions that increase patient engagement and reduce therapeutic inertia.
 
 ---
 
-### A summary of the effects of antihypertensive medications on measured blood pressure [^593a2d58]. American Journal of Hypertension (2005). Low credibility.
+### A summary of the effects of antihypertensive medications on measured blood pressure [^113HHSTq]. American Journal of Hypertension (2005). Low credibility.
 
 Background
 
@@ -961,7 +961,7 @@ The BP-lowering effects reported here may be used to impute the pretreatment BP 
 
 ---
 
-### Blood pressure control among black and white adults following a quality improvement program… [^cc011617]. JAMA Network (2023). Excellent credibility.
+### Blood pressure control among black and white adults following a quality improvement program… [^116DSqen]. JAMA Network (2023). Excellent credibility.
 
 Blood pressure control increased an absolute 4. 6% among Black patients and
 2. 1% among White patients from before to after the QI program implementation. We included patients who were identified as having hypertension by the KPSC population care management hypertension registry between December 31, 2008, and December 31, 2019. Blood pressure control increased an absolute
@@ -971,7 +971,7 @@ Blood pressure control increased an absolute 4. 6% among Black patients and
 
 ---
 
-### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^8640bd5a]. Journal of General Internal Medicine (2024). Medium credibility.
+### The construction and meaning of race within hypertension guidelines: a systematic scoping review [^114S35zZ]. Journal of General Internal Medicine (2024). Medium credibility.
 
 Background
 
@@ -991,32 +991,32 @@ Hypertension guidelines largely refer to race as a distinct and natural category
 
 ---
 
-### The effects of genes implicated in cardiovascular disease on blood pressure response to treatment among treatment-naive hypertensive African Americans in the genHAT study [^9153892d]. Journal of Human Hypertension (2016). Low credibility.
+### The effects of genes implicated in cardiovascular disease on blood pressure response to treatment among treatment-naive hypertensive African Americans in the genHAT study [^114iTGGk]. Journal of Human Hypertension (2016). Low credibility.
 
 African Americans have the highest prevalence of hypertension in the United States. Blood pressure (BP) control is important to reduce cardiovascular disease-related morbidity and mortality in this ethnic group. Genetic variants have been found to be associated with BP response to treatment. Previous pharmacogenetic studies of BP response to treatment in African Americans suffer limitations of small sample size as well as a limited number of candidate genes, and often focused on one antihypertensive treatment. Using 1131 African-American treatment-naive participants from the Genetics of Hypertension Associated Treatment Study, we examined whether variants in 35 candidate genes might modulate BP response to four different antihypertensive medications, including an angiotensin-converting enzyme inhibitor (lisinopril), a calcium channel blocker (amlodipine), and an a-adrenergic blocker (doxazosin) as compared with a thiazide diuretic (chlorthalidone) after 6 months of follow-up. Several suggestive gene by treatment interactions were identified. For example, among participants with two minor alleles of renin rs6681776, diastolic BP response was much improved on doxazosin compared with chlorthalidone (on average -9.49mmHg vs -1.70mmHg) (P = 0.007). Although several suggestive loci were identified, none of the findings passed significance criteria after correction for multiple testing. Given the impact of hypertension and its sequelae in this population, this research highlights the potential for genetic factors to contribute to BP response to treatment. Continued concerted research efforts focused on genetics are needed to improve treatment response in this high-risk group.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^9d7cca5a]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^1152UyMj]. VA/DoD (2020). High credibility.
 
 VA/DoD hypertension guideline — African American patients with hypertension and stage 1–3 chronic kidney disease: In 2014, "In African American patients with hypertension and stage 1–3 chronic kidney disease, we suggest a combination of a thiazide-type diuretic (for cardiovascular protection) with either an angiotensin-converting-enzyme inhibitor or angiotensin II receptor blocker (for renal protection)", with a 2014 strength of recommendation "Weak for"; in the update, the recommendation category is "Reviewed, Deleted" and the 2020 recommendation is " — ".
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^45cf253f]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^112nVixv]. JAMA (2014). Excellent credibility.
 
 Hypertension guideline management algorithm (2014) — Adults aged ≥ 18 years with hypertension are managed by setting blood pressure goals and selecting therapy by age, diabetes, and chronic kidney disease (CKD). In the general population aged ≥ 60 years, the blood pressure goal is SBP < 150 mm Hg and DBP < 90 mm Hg; in the general population aged < 60 years, the goal is SBP < 140 mm Hg and DBP < 90 mm Hg; in all ages with diabetes present without CKD, the goal is SBP < 140 mm Hg and DBP < 90 mm Hg; and in all ages with CKD present with or without diabetes, the goal is SBP < 140 mm Hg and DBP < 90 mm Hg. Initial pharmacologic therapy by race is as follows: Nonblack — Initiate thiazide-type diuretic or angiotensin-converting enzyme inhibitor (ACEI) or angiotensin receptor blocker (ARB) or calcium channel blocker (CCB), alone or in combination; Black — Initiate thiazide-type diuretic or CCB, alone or in combination; CKD, all races — Initiate ACEI or ARB, alone or in combination with other drug class. Therapy adjustment uses one of three titration strategies: A. Maximize first medication before adding second or B. Add second medication before reaching maximum dose of first medication or C. Start with 2 medication classes separately or as fixed-dose combination. If not at goal blood pressure, reinforce medication and lifestyle adherence and for strategies A and B add and titrate thiazide-type diuretic or ACEI or ARB or CCB (use medication class not previously selected and avoid combined use of ACEI and ARB), while for strategy C titrate doses of initial medications to maximum; if still uncontrolled, reinforce adherence and add additional medication classes (eg, β-blocker, aldosterone antagonist, or others) and/or refer to a physician with expertise in hypertension management. Note that ACEIs and ARBs should not be used in combination.
 
 ---
 
-### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^72c4f39c]. BMC Medicine (2013). Low credibility.
+### Why do hypertensive patients of African ancestry respond better to calcium blockers and diuretics than to ACE inhibitors and β-adrenergic blockers? A systematic review [^113w9k43]. BMC Medicine (2013). Low credibility.
 
 Figure 1
 Flow diagram. Data were retrieved from PUBMED, EMBASE, LILACS, the African Index Medicus, and the Food and Drug Administration and European Medicines Agency databases. *Studies were excluded using a hierarchical approach. First, we excluded reports that did not fulfill the main inclusion criteria (n = 2,644): an original report considering drug therapy with different available drug types in non-pregnant adults of African ancestry with uncomplicated hypertension, defined as the absence of clinical heart failure, stroke or end stage renal disease as reported by the authors. Studies conducted exclusively in diabetics were also excluded in this step. Of the remaining studies fulfilling these main inclusion criteria (n = 1,119), most studies were excluded in the next step (n = 982), because these were not original reports providing an explanation for the difference in response to antihypertensive drugs between ancestry groups. As a quality and consistency check, each paper retrieved from the search yield (n = 3,763) was categorized, per database, thus the excluded paper categories harbor duplicate reports, occurring in more than one database. † Eligible reports thus fulfilled the inclusion criteria, and were original reports considering potential causes for the differential response of patients of African ancestry to antihypertensive drugs used as single drug or single drug-based treatment. Included studies from the electronic searches (n = 55), and hand search (n = 17) are described in detail in the Results section.
 
 ---
 
-### Racial and ethnic disparities in antihypertensive medication prescribing patterns and effectiveness [^1768af10]. Clinical Pharmacology and Therapeutics (2024). Medium credibility.
+### Racial and ethnic disparities in antihypertensive medication prescribing patterns and effectiveness [^111bhstT]. Clinical Pharmacology and Therapeutics (2024). Medium credibility.
 
 Our analysis of prescription patterns showed that since 2018, 63.5% of Black participants were prescribed a 2017 ACC/AHA guideline-recommended first-line HTN treatment, compared with 75.8% of White participants and 81.8% of Hispanic participants. Given prior studies of efficacy and the relative SBP effects of different classes of HTN medications in this study, it is possible that greater adherence to 2017 AHA/ACC Guideline-recommended first-line treatments could result in fewer total medications prescribed, especially in the Black population.
 
@@ -1028,7 +1028,7 @@ A previous study reported that personalizing HTN medication decisions between fo
 
 ---
 
-### Race / ethnicity-specific changes in antihypertensive medication in Medicare beneficiaries… [^99afca8f]. JAMA Network (2020). Excellent credibility.
+### Race / ethnicity-specific changes in antihypertensive medication in Medicare beneficiaries… [^114vr9ok]. JAMA Network (2020). Excellent credibility.
 
 In December 2013, the panel members appointed to the Eighth Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure published a recommendation that non-Black adults initiate antihypertensive medication with a thiazide-type diuretic, calcium channel blocker, angiotensin-converting enzyme inhibitor, or angiotensin receptor blocker, whereas Black adults initiate treatment with a thiazide-type diuretic or calcium channel blocker. β-Blockers were not recommended as first-line therapy. For non-Black adults, the JNC8 panel member report recommended thiazide-type diuretics, calcium channel blockers, angiotensin-converting-enzyme inhibitors, or angiotensin receptor blockers. Black adults were recommended thiazide-type diuretics or CCBs. 1 The panel did not recommend β-blockers as first-line therapy in the absence of either coronary heart disease or heart failure with reduced ejection fraction.
 
@@ -1039,43 +1039,43 @@ The proportion of White beneficiaries initiating combination therapy who did so 
 
 ---
 
-### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^9a9bc620]. JAMA (2014). Excellent credibility.
+### 2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the eighth Joint National Committee (JNC 8) [^114xDR7u]. JAMA (2014). Excellent credibility.
 
 JNC 8 hypertension guideline — initial antihypertensive drug therapy by race and chronic kidney disease: There is moderate evidence to support initiating drug treatment with an angiotensin-converting enzyme inhibitor, angiotensin receptor blocker, calcium channel blocker, or thiazide-type diuretic in the nonblack hypertensive population, including those with diabetes; in the black hypertensive population, including those with diabetes, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy, and there is moderate evidence to support initial or add-on antihypertensive therapy with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes.
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^436e72a2]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^112iyGaV]. VA/DoD (2020). High credibility.
 
 VA/DoD hypertension — initiate drug therapy: For the general population, recommend one or more of thiazide-type diuretics, ACEIs (angiotensin-converting enzyme inhibitors) or ARBs (angiotensin II receptor blockers), and long-acting CCBs (calcium channel blockers); for patients unlikely to achieve goal with monotherapy (e.g., patients with SBP/DBP of > 20/10 mm Hg above goal), consider initiating treatment with combination therapy or monotherapy with close follow-up for titration and/or addition of medications based on blood pressure response. For specific populations, For patients age 65 and over, we suggest a thiazide-type diuretic for reduction in composite cardiovascular outcomes, and For African American patients, we recommend against using ACEIs or ARBs as monotherapy; for patients with CKD, For patients with CKD, see the VA/DoD CKD CPG. Additionally, We recommend against more than one of the following three drug classes together in the same patient: ACEIs, ARBs, or direct renin inhibitors.
 
 ---
 
-### Racial / ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018 [^8fe37e8f]. Hypertension (2021). Medium credibility.
+### Racial / ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018 [^114gKeFG]. Hypertension (2021). Medium credibility.
 
 [Figure: see text].
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^d05b646a]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116Ku85f]. Journal of the American College of Cardiology (2025). High credibility.
 
 Lifetime risk of incident hypertension — middle-aged individuals: "Among middle-aged individuals, the remaining lifetime risks for incident hypertension are as high as 80% to 90%, with earlier onset among men compared with women, and for Black and Hispanic compared with White and Chinese Americans", and "Current rates of awareness, treatment, and control of hypertension remain far below target levels for all groups and demonstrate important age- and race-based disparities (Figure 1)".
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^9dca724f]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^1152w4Dk]. VA/DoD (2020). High credibility.
 
 VA/DoD Clinical Practice Guideline for the Diagnosis and Management of Hypertension — pharmacologic therapy selection: We recommend offering a thiazide-type diuretic, calcium channel blocker, or either an angiotensin-converting enzyme inhibitor or an angiotensin II receptor blocker as primary pharmacologic therapy for hypertension for reduction in composite cardiovascular outcomes; in African American patients with hypertension, we recommend against using an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker as monotherapy; and in hypertensive patients 65 years and over, we suggest a thiazide-type diuretic for reduction in composite cardiovascular outcomes.
 
 ---
 
-### American Society of Hematology 2019 guidelines for sickle cell disease: cardiopulmonary and kidney disease [^639b7c83]. Blood Advances (2019). High credibility.
+### American Society of Hematology 2019 guidelines for sickle cell disease: cardiopulmonary and kidney disease [^113Yg122]. Blood Advances (2019). High credibility.
 
 American Society of Hematology (ASH) 2019 sickle cell disease — blood pressure management in adults recommends a blood pressure goal of ≤ 130/80 mm Hg over ≤ 140/90 mm Hg (strong recommendation, moderate certainty), notes that no identified studies reported any of the outcomes of interest in relationship to different strategies of blood pressure control, and that the evidence reviewed included a total of 5 observational studies (total n = 4495) including both children and adults; one study suggested that a systolic blood pressure of 120 to 139 mm Hg or diastolic 70 to 89 mm Hg defines relative systemic hypertension in SCD that is associated with increased risk of PH and renal dysfunction; remarks state there is a lack of evidence to suggest that blood pressure goals should differ for individuals with and without SCD and that the impact of hypertension on patient-important outcomes for African American individuals requires adherence to guidelines developed for the general population independent of having SCD; potential benefits of targeting ≤ 130/80 are based on indirect evidence from the general population showing decreases in cardiovascular mortality, stroke, major cardiovascular events, and heart failure, while potential harms are small and may include hypotension, acute kidney injury, hyperkalemia, drug interactions, and other side effects.
 
 ---
 
-### 2017 ACC / AHA blood pressure treatment guideline recommendations and cardiovascular risk [^d7e5c0cb]. Journal of the American College of Cardiology (2018). Low credibility.
+### 2017 ACC / AHA blood pressure treatment guideline recommendations and cardiovascular risk [^116X5WYJ]. Journal of the American College of Cardiology (2018). Low credibility.
 
 Background
 
@@ -1099,7 +1099,7 @@ Implementing the 2017 ACC/AHA guideline would direct antihypertensive medication
 
 ---
 
-### Effect of lifestyle coaching or enhanced pharmacotherapy on blood pressure control among black adults with persistent uncontrolled hypertension: a cluster randomized clinical trial [^9ae07cc1]. JAMA Network Open (2022). High credibility.
+### Effect of lifestyle coaching or enhanced pharmacotherapy on blood pressure control among black adults with persistent uncontrolled hypertension: a cluster randomized clinical trial [^114xcVmJ]. JAMA Network Open (2022). High credibility.
 
 Introduction
 
@@ -1109,7 +1109,7 @@ Rates of hypertension control have improved significantly among members within t
 
 ---
 
-### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^5c971929]. JAMA Network Open (2022). High credibility.
+### Analysis of therapeutic inertia and race and ethnicity in the systolic blood pressure intervention trial: a secondary analysis of a randomized clinical trial [^113NGcZN]. JAMA Network Open (2022). High credibility.
 
 Introduction
 
@@ -1119,7 +1119,7 @@ The root causes of disparities in BP control are multifactorial and can be attri
 
 ---
 
-### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^e577ef9d]. BMC Nephrology (2013). Low credibility.
+### Difference in blood pressure response to ACE-inhibitor monotherapy between black and white adults with arterial hypertension: a meta-analysis of 13 clinical trials [^116sCT5N]. BMC Nephrology (2013). Low credibility.
 
 These findings must also be taken in the context of other clinical trials that have demonstrated the benefit of ACEI therapy among blacks with certain complications such as chronic kidney disease and diabetes mellitus despite lesser reduction in blood pressure. Also, use of ACEIs as part of a combination for treatment of hypertension has proven to be effective among black adults. In fact, according to one meta-analysis, combination therapy including ACEIs may actually result in a greater blood pressure reduction in black adults than white adults. Since black adults are disproportionately affected by heart and kidney disease and many will require at least 2 hypertensive agents for blood pressure control, the use of a combination therapy including an ACE-inhibitor or angiotensin receptor blocker may be particularly beneficial in this population.
 
@@ -1127,6 +1127,6 @@ This meta-analysis has several important limitations. First, all of the studies 
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^602b0f89]. VA/DoD (2020). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and management of hypertension in the primary care setting [^113TaGwi]. VA/DoD (2020). High credibility.
 
 Pharmacological treatment — For hypertension: We recommend offering a thiazide-type diuretic, calcium channel blocker, or either an angiotensin-converting enzyme inhibitor or an angiotensin II receptor blocker as primary pharmacologic therapy for hypertension for reduction in composite cardiovascular outcomes. In African American patients with hypertension, we recommend against using an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker as monotherapy. In hypertensive patients 65 years and over, we suggest a thiazide-type diuretic for reduction in composite cardiovascular outcomes. We recommend against more than one of the following three drug classes together in the same patient: angiotensin-converting enzyme inhibitors, angiotensin II receptor blockers, or direct renin inhibitors. For the treatment of hypertension, there is insufficient evidence to recommend for or against initiating combination therapy over initiating monotherapy with the sequential addition of another medication.

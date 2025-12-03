@@ -15,39 +15,39 @@ how often should a patient check blood glucose daily?
 
 > Let's see… What do we have here? The user is asking how often a patient should check blood glucose daily. Let's break this down step-by-step. First, I need to think about the clinical context, especially diabetes type and treatment regimen. Then, I should verify what high-credibility guidelines (ADA, AACE, ISPAD) recommend for insulin-treated versus non-insulin-treated patients. Next, I will examine the evidence base for non-insulin-treated type 2 diabetes, including meta-analyses and structured SMBG. After that, I should consider special populations like pregnancy, pediatrics, and high-risk hypoglycemia. Finally, I will synthesize practical, individualized recommendations and note when CGM changes the calculus, making sure I double-check any numeric claims against the cited sources before concluding.
 
-> Let me first confirm the clinical frame: there is no single "daily frequency" that fits all patients. Frequency depends on diabetes type, whether insulin is used, regimen intensity, hypoglycemia risk, A1C trajectory, and patient preferences, so I need to ensure I anchor recommendations to these axes before giving numbers [^c4ac52b2] [^d4ca7224].
+> Let me first confirm the clinical frame: there is no single "daily frequency" that fits all patients. Frequency depends on diabetes type, whether insulin is used, regimen intensity, hypoglycemia risk, A1C trajectory, and patient preferences, so I need to ensure I anchor recommendations to these axes before giving numbers [^1162aTMj] [^116SUNhy].
 
-> For insulin-treated diabetes, I should confirm the baseline standard. ADA 2025 advises that people on insulin check glucose when appropriate across the day — fasting, before meals and snacks, after meals, at bedtime, overnight as needed, before/during/after exercise, when hypoglycemia is suspected, and before critical tasks like driving — which in practice often translates to multiple checks per day, commonly 4–6 or more, with AACE recommending a minimum of twice daily and ideally before each insulin injection, and ISPAD advising 6–10 times/day in youth with type 1 diabetes to optimize glycemia and safety [^c4ac52b2] [^d4ca7224] [^31d686f1].
+> For insulin-treated diabetes, I should confirm the baseline standard. ADA 2025 advises that people on insulin check glucose when appropriate across the day — fasting, before meals and snacks, after meals, at bedtime, overnight as needed, before/during/after exercise, when hypoglycemia is suspected, and before critical tasks like driving — which in practice often translates to multiple checks per day, commonly 4–6 or more, with AACE recommending a minimum of twice daily and ideally before each insulin injection, and ISPAD advising 6–10 times/day in youth with type 1 diabetes to optimize glycemia and safety [^1162aTMj] [^116SUNhy] [^112GtT8k].
 
-> Wait, let me verify the dose-response signal. Observational and cohort data in type 1 diabetes show a linear relationship between more frequent SMBG and lower A1C, with differences on the order of about 1% A1C when moving from infrequent to 3–4 checks/day, and further gains with higher frequency, reinforcing the guideline stance that more frequent SMBG is associated with better control when patients act on the data [^2fed0da9] [^9c6388d4].
+> Wait, let me verify the dose-response signal. Observational and cohort data in type 1 diabetes show a linear relationship between more frequent SMBG and lower A1C, with differences on the order of about 1% A1C when moving from infrequent to 3–4 checks/day, and further gains with higher frequency, reinforcing the guideline stance that more frequent SMBG is associated with better control when patients act on the data [^112E43RA] [^114zrW3u].
 
-> For non-insulin-treated type 2 diabetes, I need to be careful not to overgeneralize. Historically, routine daily SMBG without a structured plan has not shown durable A1C benefit and may add burden; the Cochrane review found a small, early A1C reduction that attenuated by 12 months, and an IPD meta-analysis found only a modest 0.25% A1C reduction at 6 months without convincing clinical meaningfulness, so I should not recommend daily SMBG for all such patients [^8ab6e855] [^987fd163].
+> For non-insulin-treated type 2 diabetes, I need to be careful not to overgeneralize. Historically, routine daily SMBG without a structured plan has not shown durable A1C benefit and may add burden; the Cochrane review found a small, early A1C reduction that attenuated by 12 months, and an IPD meta-analysis found only a modest 0.25% A1C reduction at 6 months without convincing clinical meaningfulness, so I should not recommend daily SMBG for all such patients [^114YejDW] [^114u63vr].
 
-> Hold on, let's not jump to conclusions. More recent evidence suggests structured SMBG can help when embedded with education and therapy adjustment. A 2023 meta-analysis found that SMBG reduced A1C by about 0.3% versus no SMBG, with greater benefit around 8–11 times per week and when results were used to adjust lifestyle or medications, and the SMBG randomized trial with TeleCare support produced clinically significant A1C improvements, indicating that frequency plus actionable feedback is key [^1b7403fb] [^8e1b0722].
+> Hold on, let's not jump to conclusions. More recent evidence suggests structured SMBG can help when embedded with education and therapy adjustment. A 2023 meta-analysis found that SMBG reduced A1C by about 0.3% versus no SMBG, with greater benefit around 8–11 times per week and when results were used to adjust lifestyle or medications, and the SMBG randomized trial with TeleCare support produced clinically significant A1C improvements, indicating that frequency plus actionable feedback is key [^111hhdmt] [^114dgKZb].
 
-> I should double-check guideline nuance here. ADA 2025 supports BGM in non-insulin therapies when altering meal plans, activity, or medications, especially agents that can cause hypoglycemia, and AACE notes that patients not on insulin or secretagogues may not benefit from routine BGM, so any recommendation should be individualized and tied to a plan for using the data [^7e143b00] [^4bd416ef].
+> I should double-check guideline nuance here. ADA 2025 supports BGM in non-insulin therapies when altering meal plans, activity, or medications, especially agents that can cause hypoglycemia, and AACE notes that patients not on insulin or secretagogues may not benefit from routine BGM, so any recommendation should be individualized and tied to a plan for using the data [^114DvEdV] [^112wRJyU].
 
-> Let me consider special populations. In pregnancy with diabetes, frequent SMBG is standard — typically fasting, 1–2 hours postprandial, and bedtime — to safely achieve tight but individualized targets and reduce maternal-fetal complications, and this intensity is supported by obstetric guidance even though head-to-head monitoring strategies have not shown superiority [^6ad51a4f]. For children and adolescents with type 1 diabetes, ISPAD recommends 6–10 SMBG checks per day or CGM, given the need to balance growth, activity, and hypoglycemia risk, with ADA similarly advising multiple daily checks for youth with T1D [^f0c579be] [^e08878d1].
+> Let me consider special populations. In pregnancy with diabetes, frequent SMBG is standard — typically fasting, 1–2 hours postprandial, and bedtime — to safely achieve tight but individualized targets and reduce maternal-fetal complications, and this intensity is supported by obstetric guidance even though head-to-head monitoring strategies have not shown superiority [^113jPGSz]. For children and adolescents with type 1 diabetes, ISPAD recommends 6–10 SMBG checks per day or CGM, given the need to balance growth, activity, and hypoglycemia risk, with ADA similarly advising multiple daily checks for youth with T1D [^1179xMmX] [^116jt4p8].
 
-> For high hypoglycemia risk or hypoglycemia unawareness, I should confirm that guidelines favor CGM over frequent fingersticks when available, while still ensuring access to SMBG for validation and during sensor gaps; this applies to type 1 diabetes on MDI and to selected type 2 patients at high risk, with endocrine society guidance emphasizing CGM-first strategies in these scenarios [^8cca9f56] [^7e495ac5].
+> For high hypoglycemia risk or hypoglycemia unawareness, I should confirm that guidelines favor CGM over frequent fingersticks when available, while still ensuring access to SMBG for validation and during sensor gaps; this applies to type 1 diabetes on MDI and to selected type 2 patients at high risk, with endocrine society guidance emphasizing CGM-first strategies in these scenarios [^114bjKrd] [^114EE5a4].
 
-> Next, I should review how CGM changes the equation. ADA 2025 recommends real-time CGM for insulin-treated patients as close to daily as possible, with scanning or viewing data frequently to avoid gaps, and to maintain backup SMBG access; this can reduce or replace many routine fingersticks while improving time-in-range and mitigating hypoglycemia, though patients still need SMBG for calibration, when symptoms don't match sensor values, or during warm-up [^7cfcea51] [^8cca9f56].
+> Next, I should review how CGM changes the equation. ADA 2025 recommends real-time CGM for insulin-treated patients as close to daily as possible, with scanning or viewing data frequently to avoid gaps, and to maintain backup SMBG access; this can reduce or replace many routine fingersticks while improving time-in-range and mitigating hypoglycemia, though patients still need SMBG for calibration, when symptoms don't match sensor values, or during warm-up [^114CJR8c] [^114bjKrd].
 
-> Putting this together, I need to ensure my bottom line is clinically precise. For insulin-treated diabetes, multiple daily checks — often 4–6 or more — aligned to meals, activity, and hypoglycemia risk are appropriate, with AACE advising at least twice daily and ideally before each injection, and ISPAD recommending 6–10/day in youth; for non-insulin-treated type 2 diabetes, routine daily SMBG is not advised unless it is structured, timed, and used to adjust therapy, in which case around 8–11 times per week can be reasonable during active management phases; for pregnancy with diabetes, frequent SMBG is standard; and for high hypoglycemia risk, prioritize CGM with SMBG backup rather than escalating fingerstick frequency alone [^2c916831] [^d4ca7224] [^f0c579be] [^1b7403fb] [^6ad51a4f] [^8cca9f56].
+> Putting this together, I need to ensure my bottom line is clinically precise. For insulin-treated diabetes, multiple daily checks — often 4–6 or more — aligned to meals, activity, and hypoglycemia risk are appropriate, with AACE advising at least twice daily and ideally before each injection, and ISPAD recommending 6–10/day in youth; for non-insulin-treated type 2 diabetes, routine daily SMBG is not advised unless it is structured, timed, and used to adjust therapy, in which case around 8–11 times per week can be reasonable during active management phases; for pregnancy with diabetes, frequent SMBG is standard; and for high hypoglycemia risk, prioritize CGM with SMBG backup rather than escalating fingerstick frequency alone [^11295JA4] [^116SUNhy] [^1179xMmX] [^111hhdmt] [^113jPGSz] [^114bjKrd].
 
-> Finally, I should confirm practical guardrails. Any SMBG plan must include education on technique, targets, and how to act on results, with periodic reassessment of frequency as therapy, A1C, and patient preferences evolve; without a plan to use the data, additional testing is unlikely to improve outcomes and may increase burden, so I need to ensure each patient knows why, when, and how to check, and what to do with the numbers [^2c916831] [^d4ca7224].
+> Finally, I should confirm practical guardrails. Any SMBG plan must include education on technique, targets, and how to act on results, with periodic reassessment of frequency as therapy, A1C, and patient preferences evolve; without a plan to use the data, additional testing is unlikely to improve outcomes and may increase burden, so I need to ensure each patient knows why, when, and how to check, and what to do with the numbers [^11295JA4] [^116SUNhy].
 
 ---
 
-The frequency of blood glucose monitoring should be **individualized** based on diabetes type, treatment regimen, and glycemic control. For **insulin-treated patients**, check at least 2–4 times daily (before meals, at bedtime, and as needed for hypoglycemia) [^d4ca7224]; for **non-insulin-treated type 2 diabetes**, routine daily SMBG is not generally recommended unless used for structured education or during therapy changes [^9717fb4d] [^7e143b00]. In pregnancy, monitor **4–7 times daily** (fasting, 1–2 hours postprandial, and bedtime) [^6ad51a4f]. For type 1 diabetes or high hypoglycemia risk, use CGM or frequent SMBG (up to 6–10 times/day) [^f0c579be] [^e08878d1]. Reassess frequency regularly and align with patient goals and A1C targets [^c4ac52b2].
+The frequency of blood glucose monitoring should be **individualized** based on diabetes type, treatment regimen, and glycemic control. For **insulin-treated patients**, check at least 2–4 times daily (before meals, at bedtime, and as needed for hypoglycemia) [^116SUNhy]; for **non-insulin-treated type 2 diabetes**, routine daily SMBG is not generally recommended unless used for structured education or during therapy changes [^114s1Bkg] [^114DvEdV]. In pregnancy, monitor **4–7 times daily** (fasting, 1–2 hours postprandial, and bedtime) [^113jPGSz]. For type 1 diabetes or high hypoglycemia risk, use CGM or frequent SMBG (up to 6–10 times/day) [^1179xMmX] [^116jt4p8]. Reassess frequency regularly and align with patient goals and A1C targets [^1162aTMj].
 
 ---
 
 ## General principles for glucose monitoring frequency
 
-- **Individualization**: Frequency should be tailored to diabetes type, treatment regimen, glycemic control, hypoglycemia risk, and patient preferences [^2c916831] [^d4ca7224].
-- **Clinical goals**: Monitoring should support achieving A1C targets, reducing hypoglycemia, and guiding therapy adjustments [^44392c42].
-- **Education**: Patients should be trained to use SMBG data to adjust diet, activity, and medication [^6eeb5e58].
+- **Individualization**: Frequency should be tailored to diabetes type, treatment regimen, glycemic control, hypoglycemia risk, and patient preferences [^11295JA4] [^116SUNhy].
+- **Clinical goals**: Monitoring should support achieving A1C targets, reducing hypoglycemia, and guiding therapy adjustments [^112k9Mys].
+- **Education**: Patients should be trained to use SMBG data to adjust diet, activity, and medication [^113qShM9].
 
 ---
 
@@ -55,79 +55,79 @@ The frequency of blood glucose monitoring should be **individualized** based on 
 
 | **Diabetes type and treatment** | **Recommended frequency of glucose monitoring** |
 |-|-|
-| Type 1 diabetes (insulin-treated) | - Multiple daily checks (6–10/day) [^f0c579be] <br/> - Before meals, snacks, bedtime, and as needed for hypoglycemia [^e08878d1] |
-| Type 2 diabetes (insulin-treated) | - At least 2–4 times daily [^d4ca7224] <br/> - Before meals, at bedtime, and as needed for hypoglycemia [^2c916831] |
-| Type 2 diabetes (non-insulin-treated) | - Routine daily SMBG not generally recommended [^9717fb4d] <br/> - Consider structured SMBG for education or therapy changes [^7e143b00] |
-| Gestational diabetes | - 4–7 times daily [^notfound] <br/> - Fasting, 1–2 hours postprandial, and bedtime [^6ad51a4f] |
-| High hypoglycemia risk or hypoglycemia unawareness | - Frequent SMBG or CGM [^8cca9f56] <br/> - Up to 6–10 times/day [^f0c579be] |
+| Type 1 diabetes (insulin-treated) | - Multiple daily checks (6–10/day) [^1179xMmX] <br/> - Before meals, snacks, bedtime, and as needed for hypoglycemia [^116jt4p8] |
+| Type 2 diabetes (insulin-treated) | - At least 2–4 times daily [^116SUNhy] <br/> - Before meals, at bedtime, and as needed for hypoglycemia [^11295JA4] |
+| Type 2 diabetes (non-insulin-treated) | - Routine daily SMBG not generally recommended [^114s1Bkg] <br/> - Consider structured SMBG for education or therapy changes [^114DvEdV] |
+| Gestational diabetes | - 4–7 times daily [^notfound] <br/> - Fasting, 1–2 hours postprandial, and bedtime [^113jPGSz] |
+| High hypoglycemia risk or hypoglycemia unawareness | - Frequent SMBG or CGM [^114bjKrd] <br/> - Up to 6–10 times/day [^1179xMmX] |
 
 ---
 
 ## Evidence supporting monitoring frequency
 
-- **Insulin-treated diabetes**: Frequent SMBG is associated with improved A1C and reduced hypoglycemia [^2fed0da9] [^dc0f1276].
-- **Non-insulin-treated type 2 diabetes**: Routine SMBG without structured use does not consistently improve outcomes [^8ab6e855] [^987fd163].
-- **Structured SMBG**: Paired pre/postprandial testing with education can improve A1C in non-insulin-treated patients [^1b7403fb] [^8e1b0722].
+- **Insulin-treated diabetes**: Frequent SMBG is associated with improved A1C and reduced hypoglycemia [^112E43RA] [^116dFLdK].
+- **Non-insulin-treated type 2 diabetes**: Routine SMBG without structured use does not consistently improve outcomes [^114YejDW] [^114u63vr].
+- **Structured SMBG**: Paired pre/postprandial testing with education can improve A1C in non-insulin-treated patients [^111hhdmt] [^114dgKZb].
 
 ---
 
 ## Factors influencing monitoring frequency
 
-- **Glycemic control**: Poor control may require more frequent monitoring [^d4ca7224].
-- **Hypoglycemia risk**: Higher risk warrants more frequent checks [^556027a2].
-- **Patient preferences**: Adherence and comfort with monitoring should guide frequency [^fe9fc427].
-- **Comorbidities**: CKD, pregnancy, or other conditions may necessitate adjusted frequency [^062078e1] [^6ad51a4f].
+- **Glycemic control**: Poor control may require more frequent monitoring [^116SUNhy].
+- **Hypoglycemia risk**: Higher risk warrants more frequent checks [^113BaFCd].
+- **Patient preferences**: Adherence and comfort with monitoring should guide frequency [^117WVX5Q].
+- **Comorbidities**: CKD, pregnancy, or other conditions may necessitate adjusted frequency [^111A5qJQ] [^113jPGSz].
 
 ---
 
 ## Role of continuous glucose monitoring (CGM)
 
-CGM is recommended for **type 1 diabetes**, insulin-treated type 2 diabetes, and high hypoglycemia risk, providing real-time data and reducing hypoglycemia [^7cfcea51] [^8cca9f56]. It complements or replaces SMBG, but patients should retain access to fingerstick testing for validation and when CGM is unavailable [^0079c532].
+CGM is recommended for **type 1 diabetes**, insulin-treated type 2 diabetes, and high hypoglycemia risk, providing real-time data and reducing hypoglycemia [^114CJR8c] [^114bjKrd]. It complements or replaces SMBG, but patients should retain access to fingerstick testing for validation and when CGM is unavailable [^1111huH3].
 
 ---
 
 ## Practical considerations
 
-- **Cost and access**: Insurance coverage and affordability can limit frequency [^5ee1711a].
-- **Patient education**: Training on technique and data interpretation is essential [^9f1b3594].
-- **Technology integration**: CGM and digital tools can enhance monitoring efficiency [^5781fc29].
+- **Cost and access**: Insurance coverage and affordability can limit frequency [^113RfZT7].
+- **Patient education**: Training on technique and data interpretation is essential [^1154tAtT].
+- **Technology integration**: CGM and digital tools can enhance monitoring efficiency [^113Ejaq6].
 
 ---
 
 ## Summary of recommendations
 
-- **Insulin-treated patients**: Monitor multiple times daily (2–10/day) based on regimen and hypoglycemia risk [^d4ca7224] [^f0c579be].
-- **Non-insulin-treated type 2 diabetes**: Avoid routine daily SMBG; use structured SMBG for education or therapy changes [^9717fb4d] [^7e143b00].
-- **Pregnancy**: Monitor 4–7 times daily to achieve tight glycemic targets [^6ad51a4f].
-- **High hypoglycemia risk**: Use CGM or frequent SMBG (6–10/day) [^8cca9f56] [^f0c579be].
+- **Insulin-treated patients**: Monitor multiple times daily (2–10/day) based on regimen and hypoglycemia risk [^116SUNhy] [^1179xMmX].
+- **Non-insulin-treated type 2 diabetes**: Avoid routine daily SMBG; use structured SMBG for education or therapy changes [^114s1Bkg] [^114DvEdV].
+- **Pregnancy**: Monitor 4–7 times daily to achieve tight glycemic targets [^113jPGSz].
+- **High hypoglycemia risk**: Use CGM or frequent SMBG (6–10/day) [^114bjKrd] [^1179xMmX].
 
 ---
 
-The frequency of glucose monitoring should be **individualized** to balance glycemic targets, hypoglycemia risk, and patient capacity, with structured use and education to maximize benefit [^2c916831] [^d4ca7224].
+The frequency of glucose monitoring should be **individualized** to balance glycemic targets, hypoglycemia risk, and patient capacity, with structured use and education to maximize benefit [^11295JA4] [^116SUNhy].
 
 ---
 
 ## References
 
-### Self-monitoring of blood glucose: practical aspects [^4aa88f00]. Journal of Diabetes Science and Technology (2010). Low credibility.
+### Self-monitoring of blood glucose: practical aspects [^112ughe7]. Journal of Diabetes Science and Technology (2010). Low credibility.
 
 Self-monitoring of blood glucose (SMBG) should be part of a regular management plan for patients with diabetes. Self-monitoring of blood glucose provides information regarding an individual's dynamic blood glucose profile. This information can help with the appropriate scheduling of food, activity, and medication. It is also required for understanding of the timing of blood glucose variations. Lack of regular SMBG predicts hospitalization for diabetes-related complications. Self-monitoring of blood glucose is an essential tool for people with diabetes who are taking insulin or for those who experience fluctuations in their blood glucose levels, especially hypoglycemia. Application of practical aspects that aid in easy management of SMBG makes the task of checking blood glucose more achievable. For patients taking insulin and adjusting their dose, SMBG is needed for self-management. For others receiving oral medication, profiling glucose trends and the confirmation of high or low blood glucose can be a useful addendum to successful management.
 
 ---
 
-### Monitoring glycemic control: the importance of self-monitoring of blood glucose [^567e7cb7]. The American Journal of Medicine (2005). Low credibility.
+### Monitoring glycemic control: the importance of self-monitoring of blood glucose [^113DERQS]. The American Journal of Medicine (2005). Low credibility.
 
 Several methods, each with differing utility and limitations, exist for monitoring glycemic control. Hemoglobin A1c (HbA1c) is considered the standard measure of long-term glycemic control, and HbA1c levels are strongly associated with complications of diabetes. However, HbA1c does not provide "real-time" information about individual hyperglycemic or hypoglycemic excursions. Urine glucose testing is noninvasive and inexpensive, but it is dependent on the patient's individual renal threshold and can only detect glucose concentrations above this threshold. As such, urine testing cannot be recommended for diabetes management that aims for near-normoglycemia. Self-monitoring of blood glucose (SMBG) complements HbA1c by providing real-time blood glucose data. It is an educational tool for both patients and their healthcare providers to understand the effects of diet, exercise, and medications on day-to-day glycemic control. However, guidelines from various international diabetes organizations vary in their level of specificity regarding the frequency and timing of self-monitoring. SMBG should be implemented for all patients as part of an overall diabetes management plan that includes specific instruction on how, when, and why to test.
 
 ---
 
-### The role of self-monitoring of blood glucose in the care of people with diabetes: report of a global consensus conference [^46753a18]. The American Journal of Medicine (2005). Low credibility.
+### The role of self-monitoring of blood glucose in the care of people with diabetes: report of a global consensus conference [^112oTWVV]. The American Journal of Medicine (2005). Low credibility.
 
 Self-monitoring of blood glucose (SMBG) is an underutilized but integral part of disease management for patients with both type 1 and type 2 diabetes. Guidelines on the recommended frequency and timing of SMBG vary among international diabetes associations, and patients are often unaware of actions they should take in response to SMBG. results. In response to this, a global consensus conference of recognized diabetes experts convened to clarify the role of SMBG as a tool to help optimize glycemic control (e.g., complementing information provided by hemoglobin A1c, detecting postprandial excursions, identifying glucose patterns, and providing patients feedback on lifestyle and medications) while minimizing hypoglycemia and maintaining quality of life. The consensus panel also sought to reinforce the importance of appropriate and systematic patient and provider response to the collected SMBG data. A set of 16 consensus statements was approved by the panel. This article presents the 16 statements together with some brief rationale for their inclusion.
 
 ---
 
-### International diabetes federation guideline for management of postmeal glucose: a review of recommendations [^12692217]. Diabetic Medicine (2008). Low credibility.
+### International diabetes federation guideline for management of postmeal glucose: a review of recommendations [^111UJ6ES]. Diabetic Medicine (2008). Low credibility.
 
 Question 4: What are the targets for postmeal glycaemic control and how should they be assessed?
 
@@ -151,19 +151,19 @@ Efficacy of treatment regimens should be monitored as frequently as needed to gu
 
 ---
 
-### Diabetes technology: standards of care in diabetes – 2025 [^c4ac52b2]. Diabetes Care (2025). High credibility.
+### Diabetes technology: standards of care in diabetes – 2025 [^1162aTMj]. Diabetes Care (2025). High credibility.
 
 Optimizing blood glucose monitoring (BGM) device use emphasizes that optimal use of BGM devices requires proper review and interpretation of data by both the person with diabetes and the health care professional to ensure that data are used in an effective and timely manner; in people with type 1 diabetes, there is a correlation between greater frequency of checking and lower A1C levels, yet among those who check their blood glucose at least once daily, many report taking no action when results are high or low; the ongoing need for frequency of BGM should be reevaluated at frequent intervals to ensure its effectiveness.
 
 ---
 
-### Current evidence regarding the value of self-monitored blood glucose testing [^92be2bab]. The American Journal of Medicine (2005). Low credibility.
+### Current evidence regarding the value of self-monitored blood glucose testing [^114kZ4xz]. The American Journal of Medicine (2005). Low credibility.
 
 Many people with diabetes are falling short of attaining or maintaining glycemic goals. Self-monitoring of blood glucose (SMBG) is among the many strategies proposed to address the problem. SMBG complements hemoglobin A1c (HbA1c) testing by providing specific information regarding the effects of diet, exercise, and medications on glycemia. Although the importance of self-monitoring is appreciated for insulin-using patients, evidence is still emerging in support of self-monitoring for patients with type 2 diabetes managed with oral agents or diet. Evaluating the available evidence requires a good understanding of the study design and methodology. Although several clinical trials involving SMBG have been insufficiently powered to detect clinically meaningful differences in HbA1c, recent meta-analyses have reproducibly supported the benefit of self-monitoring in non-insulin-treated patients. Although additional work is needed to establish optimal frequency and timing of SMBG, these studies can serve as a basis for conservative recommendations to guide patients and their healthcare providers.
 
 ---
 
-### Hypoglycemia in patient with type 2 diabetes treated with insulin: it can happen [^5ee1711a]. BMJ Open Diabetes Research & Care (2020). High credibility.
+### Hypoglycemia in patient with type 2 diabetes treated with insulin: it can happen [^113RfZT7]. BMJ Open Diabetes Research & Care (2020). High credibility.
 
 Hypoglycemia detection
 
@@ -181,13 +181,13 @@ If a person with diabetes receives limited to no feedback from the HCP about glu
 
 ---
 
-### Which patients should be evaluated for blood glucose variability? [^6ed9fe27]. Diabetes, Obesity & Metabolism (2013). Low credibility.
+### Which patients should be evaluated for blood glucose variability? [^113qLrqk]. Diabetes, Obesity & Metabolism (2013). Low credibility.
 
 Diabetes is characterized by glycaemic disorders that include both sustained chronic hyperglycaemia and acute fluctuations (i.e.g.lycaemic variability). Increasing attention is being paid to the role of glycaemic variability as a relevant determinant for diabetes control and prevention of its vascular complications. As a consequence, it is strongly suggested that a global antidiabetic strategy should be aimed at reducing to a minimum the different components of glycaemic control (i.e. HbA1c, fasting and postprandial glucose, as well as glycaemic variability). Subjects at risk of hypoglycaemia, subjects with postprandial hyperglycaemia and patients who need to adjust or start insulin seem to be the categories that require glycaemic variability monitoring. The analysis of blood glucose variability represents an additional tool in the global assessment of glycaemic control and can serve as a guide to the clinician in the management of therapy and for the patients both in the prevention of acute complications, in particular hypoglycaemia, and chronic disease, in particular macrovascular complications.
 
 ---
 
-### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^5b295bbe]. Diabetes Care (2009). Low credibility.
+### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^113L9mNV]. Diabetes Care (2009). Low credibility.
 
 There are no definitive clinical studies to answer which is the optimal frequency of SMBG for non–insulin-treated type 2 diabetic patients; still, substantial disparity exists among the recommendations on the frequency and timing of SMBG among international diabetes associations.
 
@@ -195,13 +195,13 @@ A group of experts from the U.K. reached a consensus opinion suggesting patients
 
 ---
 
-### Self-monitoring of blood glucose in diabetes [^88d020f2]. Drug and Therapeutics Bulletin (2007). Low credibility.
+### Self-monitoring of blood glucose in diabetes [^114VqDzy]. Drug and Therapeutics Bulletin (2007). Low credibility.
 
 A key aim of management in people with diabetes mellitus is to control blood glucose concentrations, in order to avoid the complications of persistently raised levels (with their attendant healthcare costs) and improve quality of life. However, such control is associated with an increased likelihood of hypoglycaemia, particularly among patients on insulin therapy. In pursuit of good glycaemic control while avoiding hypoglycaemia, self-monitoring of blood glucose is widely acknowledged as a routine part of management in patients with type 1 diabetes. However, the cost of monitoring products has now become a major issue for healthcare providers. This has led to some restrictions being placed on self-monitoring, especially for patients with type 2 diabetes, where the evidence for a benefit is less clear-cut. With this in mind, we review the data relating to the benefits of self-monitoring in adults with diabetes, particularly those with type 2 disease.
 
 ---
 
-### Self-monitoring of blood glucose: one STeP forward? [^d16c46be]. Journal of Diabetes Science and Technology (2012). Low credibility.
+### Self-monitoring of blood glucose: one STeP forward? [^116MUnHs]. Journal of Diabetes Science and Technology (2012). Low credibility.
 
 Introduction
 
@@ -221,7 +221,7 @@ Future research should consider correlations between testing frequency and level
 
 ---
 
-### Self-monitoring of blood glucose in insulin-treated diabetes: a multicase study [^15a36e58]. BMJ Open Diabetes Research & Care (2018). Medium credibility.
+### Self-monitoring of blood glucose in insulin-treated diabetes: a multicase study [^111Z5dp3]. BMJ Open Diabetes Research & Care (2018). Medium credibility.
 
 Introduction
 
@@ -229,7 +229,7 @@ Clinical guidelines recommend regular individualized self-monitoring of blood gl
 
 ---
 
-### Role of self-monitoring of blood glucose in glycemic control [^4999ddb4]. Endocrine Practice (2006). Low credibility.
+### Role of self-monitoring of blood glucose in glycemic control [^112t7n8B]. Endocrine Practice (2006). Low credibility.
 
 Objective
 
@@ -249,7 +249,7 @@ A reexamination of the role of SMBG is needed, with special attention to the uni
 
 ---
 
-### Self-monitoring of blood glucose during pregnancy: indications and limitations [^0a776007]. Diabetology & Metabolic Syndrome (2012). Low credibility.
+### Self-monitoring of blood glucose during pregnancy: indications and limitations [^111GWyS6]. Diabetology & Metabolic Syndrome (2012). Low credibility.
 
 Introduction
 
@@ -267,19 +267,19 @@ Measured glucose values need to be frequently checked to ensure both accuracy an
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^d4ca7224]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^116SUNhy]. Endocrine Practice (2022). High credibility.
 
 American Association of Clinical Endocrinology 2022 guideline — glucose monitoring frequency recommends that A1C should be measured at least semiannually in all persons with diabetes mellitus (DM) and at least quarterly in persons not at their glycemic target (Grade B; BEL 2). It further states that all persons who use insulin should use CGM or perform blood glucose monitoring (BGM) a minimum of twice daily and ideally before any insulin injection, with more frequent BGM needed for those taking multiple injections, not at A1C targets, or with a history of hypoglycemia; persons not requiring insulin or insulin secretagogues may often benefit from BGM.
 
 ---
 
-### Diabetes technology: standards of care in diabetes – 2025 [^dc0f1276]. Diabetes Care (2025). High credibility.
+### Diabetes technology: standards of care in diabetes – 2025 [^116dFLdK]. Diabetes Care (2025). High credibility.
 
 People with diabetes using basal insulin and/or oral agents and noninsulin injectables — blood glucose monitoring (BGM) associations with A1C include that in almost 27,000 youth with type 1 diabetes, increased daily frequency of BGM was significantly associated with lower A1C levels (−0.2% per additional check per day) and with fewer acute complications. A trial of once-daily BGM with enhanced feedback found no clinically or statistically significant change in A1C levels at 1 year. Meta-analyses have suggested that BGM can reduce A1C levels by 0.25–0.3% at 6 months, but the effect was attenuated at 12 months in one analysis. Reductions in A1C levels were greater (−0.3%) in trials where structured BGM data were used to adjust medications, and a structured BGM group reduced their A1C levels by 0.3% more than the control group; however, A1C levels were not changed significantly without such structured diabetes therapy adjustment. Performing BGM alone does not lower blood glucose levels, and the information must be integrated into clinical and self-management treatment plans.
 
 ---
 
-### Executive summary: standards of medical care in diabetes – 2009 [^b559348a]. Diabetes Care (2009). Low credibility.
+### Executive summary: standards of medical care in diabetes – 2009 [^115drisB]. Diabetes Care (2009). Low credibility.
 
 Glucose Monitoring
 
@@ -293,19 +293,19 @@ CGM may be a supplemental tool to SMBG in those with hypoglycemia unawareness an
 
 ---
 
-### Glucose control in hospitalized patients [^a9d88ffe]. American Family Physician (2010). Low credibility.
+### Glucose control in hospitalized patients [^115Loebw]. American Family Physician (2010). Low credibility.
 
 Evidence indicates that hospitalized patients with hyperglycemia do not benefit from tight blood glucose control. Maintaining a blood glucose level of less than 180 mg per dL (9.99 mmol per L) will minimize symptoms of hyperglycemia and hypoglycemia without adversely affecting patient-oriented health outcomes. In the absence of modifying factors, physicians should continue patients' at-home diabetes mellitus medications and randomly check glucose levels once daily. Sulfonylureas should be withheld to avoid hypoglycemia in patients with limited caloric intake. Patients with cardiovascular conditions may benefit from temporarily stopping treatment with thiazolidinediones to avoid precipitating heart failure. Metformin should be temporarily withheld in patients who have worsening renal function or who will undergo an imaging study that uses contrast. When patients need to be treated with insulin in the short term, using a long-acting basal insulin combined with a short-acting insulin before meals (with the goal of keeping blood glucose less than 180 mg per dL) better approximates normal physiology and uses fewer nursing resources than sliding-scale insulin approaches. Most studies have found that infusion with glucose, insulin, and potassium does not improve mortality in patients with acute myocardial infarction. Patients admitted with acute myocardial infarction should have moderate control of blood glucose using home regimens or basal insulin with correctional doses.
 
 ---
 
-### Measuring glucose concentrations: daily practice, current and future developments [^4611fc8a]. Journal of Diabetes Science and Technology (2008). Low credibility.
+### Measuring glucose concentrations: daily practice, current and future developments [^112ntB8d]. Journal of Diabetes Science and Technology (2008). Low credibility.
 
 Self-monitoring of blood glucose (SMBG) by means of modern glucose meters is of relevance for all patients with diabetes. It not only provides important information about the effect of therapeutic interventions on metabolic control, but about the effect of exercise and meals as well. Therefore, it is an essential part of diabetes therapy. However, it has received little interest from academia in the last 10 years. This is in sharp contrast to the massive increase in SMBG use in the last decades and its economic impact on health care systems. Many physicians and patients believe that SMBG and the measurement technologies behind it are a no-brainer nowadays, i.e., that the measurement provides reliable results in practically all cases. In reality, it appears as if patients have only mediocre knowledge about the appropriate handling of the procedure and subsequent therapeutic action. Also, evaluation of the measurement quality of blood glucose meters is not studied adequately in many cases. Such studies should also take into account handling by the patients themselves under daily life conditions. Unfortunately, most of such studies are initiated and sponsored by the manufacturers of blood glucose meters/test strips, and not by an independent institution. In view of the costs and risks combined with SMBG, we should consider that all patients participate in a course that ends with a little examination and provides them with a "driver's license" for this diagnostic measure.
 
 ---
 
-### Frequency of blood glucose monitoring in relation to glycemic control in patients with type 2 diabetes [^a630ee1a]. Diabetes Care (2001). Low credibility.
+### Frequency of blood glucose monitoring in relation to glycemic control in patients with type 2 diabetes [^115FPP1s]. Diabetes Care (2001). Low credibility.
 
 Objective
 
@@ -325,7 +325,7 @@ In this cross-sectional study of patients with type 2 diabetes, the increase in 
 
 ---
 
-### Cost of self-monitoring of blood glucose in Canada among patients on an insulin regimen for diabetes [^dd035a81]. Diabetes Therapy (2012). Low credibility.
+### Cost of self-monitoring of blood glucose in Canada among patients on an insulin regimen for diabetes [^116efPcU]. Diabetes Therapy (2012). Low credibility.
 
 Introduction
 
@@ -337,7 +337,7 @@ Patient self-management is a key element in the control of diabetes, and is one 
 
 ---
 
-### What is so tough about self-monitoring of blood glucose? Perceived obstacles among patients with type 2 diabetes [^31dedb13]. Diabetic Medicine (2014). Low credibility.
+### What is so tough about self-monitoring of blood glucose? Perceived obstacles among patients with type 2 diabetes [^112GwFPY]. Diabetic Medicine (2014). Low credibility.
 
 Aims
 
@@ -357,13 +357,13 @@ Obstacles to self-monitoring of blood glucose use, both practical and emotional,
 
 ---
 
-### Don't routinely recommend daily home glucose monitoring… [^845a53e5]. AAFP (2018). Low credibility.
+### Don't routinely recommend daily home glucose monitoring… [^114PDhvc]. AAFP (2018). Low credibility.
 
 Self-monitoring of blood glucose is an integral part of patient self-management in maintaining safe and target-driven glucose control in type 1 diabetes mellitus. However, daily finger glucose testing has no benefit in patients with type 2 diabetes mellitus who are not on insulin or medications associated with hypoglycemia, and small, but significant, patient harms are associated with daily glucose testing. Self-monitoring of blood glucose should be reserved for patients during the titration of their medication doses or during periods of changes in patients' diet and exercise routines.
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^18b5994f]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^111ddhbU]. Diabetes Care (2013). Low credibility.
 
 Unfortunately, unlike a medication, SMBG is not a uniform intervention administered in an identical manner across all patients and settings. It varies considerably by the clinical question it addresses, the recommended frequency and timing of tests, the expertise of patients regarding its use, and the involvement and knowledge of clinicians in interpreting and responding to SMBG data. Like any good tool, SMBG may be used well or poorly. What Malanda et al. and other reviewers do not consider, and which should be included in the evaluation of any viable SMBG trial, is exactly how the SMBG "tool" was defined in the protocol of each study reviewed and how the resulting SMBG data were used clinically. Behavioral research has demonstrated that the effectiveness of health-related tools, such as SMBG, can be substantially magnified when there is comprehensive patient education, skills training, and — in the case of SMBG — structured data feedback, both in type 1 diabetes and type 2 diabetes. In the opposite case, where education and support for SMBG are minimal or nonexistent, perhaps we should not be surprised that glycemic benefits are also nonexistent. Therefore, it is simply not enough to report the significance of generic SMBG "treatment" effects using a general omnibus test. The ways in which SMBG are used must also be given due consideration — especially when the conclusions of such investigations are likely to have major implications for health policy.
 
@@ -374,13 +374,13 @@ Key parameters to be considered for SMBG in insulin-naïve type 2 diabetic patie
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^da6dd7d0]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^116aqCMD]. Diabetes Care (2013). Low credibility.
 
 Given the importance of glycemic control in the development of diabetes complications, the plethora of tools now available to monitor the day-to-day trends in glycemia is remarkable. In this regard, self-monitoring of blood glucose (SMBG) has been considered a key component of patient management. Arguably, there remains almost universal agreement that SMBG should be available to all diabetic patients regardless of current treatment strategy. However, recently there have been reports that have challenged the current paradigm that all patients should use SMBG and concluded that SMBG for type 2 diabetic patients not on insulin may not be beneficial on glycemic control and must be weighed against the expense and inconvenience. In the counterpoint narrative following the contribution by Malanda et al. Drs. Polonsky and Fisher provide a compelling argument suggesting that while it is evident that implementing SMBG in unstructured ways without training patients and clinicians is likely to be a waste of resources, there are effective and powerful ways to use structured SMBG in insulin-naïve type 2 diabetic patients. -William T. Cefalu, MD Editor in Chief, Diabetes Care.
 
 ---
 
-### Standards of medical care in diabetes – 2010 [^6eeb5e58]. Diabetes Care (2010). Low credibility.
+### Standards of medical care in diabetes – 2010 [^113qShM9]. Diabetes Care (2010). Low credibility.
 
 The ADA consensus and position statements on SMBG provide a comprehensive review of the subject. Major clinical trials of insulin-treated patients that demonstrated the benefits of intensive glycemic control on diabetes complications have included SMBG as part of multifactorial interventions, suggesting that SMBG is a component of effective therapy. SMBG allows patients to evaluate their individual response to therapy and assess whether glycemic targets are being achieved. Results of SMBG can be useful in preventing hypoglycemia and adjusting medications (particularly prandial insulin doses), MNT, and physical activity.
 
@@ -388,7 +388,7 @@ The frequency and timing of SMBG should be dictated by the particular needs and 
 
 ---
 
-### Standards of medical care in diabetes – 2009 [^7c384f07]. Diabetes Care (2009). Low credibility.
+### Standards of medical care in diabetes – 2009 [^114BANvi]. Diabetes Care (2009). Low credibility.
 
 The ADA's consensus and position statements on SMBG provide a comprehensive review of the subject. Major clinical trials of insulin-treated patients that demonstrated the benefits of intensive glycemic control on diabetes complications have included SMBG as part of multifactorial interventions, suggesting that SMBG is a component of effective therapy. SMBG allows patients to evaluate their individual response to therapy and assess whether glycemic targets are being achieved. Results of SMBG can be useful in preventing hypoglycemia and adjusting medications (particularly prandial insulin doses), MNT, and physical activity.
 
@@ -396,7 +396,7 @@ The frequency and timing of SMBG should be dictated by the particular needs and 
 
 ---
 
-### EADSG guidelines: insulin therapy in diabetes [^0b382810]. Diabetes Therapy (2018). Low credibility.
+### EADSG guidelines: insulin therapy in diabetes [^111Hdj7m]. Diabetes Therapy (2018). Low credibility.
 
 Self-Monitoring of Blood Glucose (SMBG)
 
@@ -419,31 +419,31 @@ Check blood glucose before and after exercise, and take appropriate action. If e
 
 ---
 
-### Standards of care in diabetes – 2025 [^2c916831]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^11295JA4]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 2, more specifically with respect to monitoring of glycemic status, ADA 2025 guidelines recommend to encourage checking blood glucose levels when appropriate based on the insulin therapy, such as when fasting, before meals and snacks, after meals, at bedtime, in the middle of the night, before, during, and after exercise, when hypoglycemia is suspected, after treating low blood glucose levels until they are normoglycemic, when hyperglycemia is suspected, and before and while performing critical tasks such as driving.
 
 ---
 
-### The role of self-monitoring of blood glucose in patients treated with SGLT-2 inhibitors: a European expert recommendation [^68603bab]. Journal of Diabetes Science and Technology (2014). Low credibility.
+### The role of self-monitoring of blood glucose in patients treated with SGLT-2 inhibitors: a European expert recommendation [^113fk35c]. Journal of Diabetes Science and Technology (2014). Low credibility.
 
 The role for the novel treatment approach of sodium-glucose cotransporter-2 (SGLT-2) in type 2 diabetes is increasing. Structured self-monitoring of blood glucose (SMBG), based on a less intensive and a more intensive scheme, may contribute to an optimization of SGLT-2 inhibitor based treatment. The current expert recommendation suggests individualized approaches of SMBG, using simple and clinically applicable schemes. Potential benefits of SMBG in SGLT-2 inhibitor based treatment approaches are early assessment of treatment success or failure, timely modification of treatment, detection of hypoglycemic episodes, assessment of glucose excursions, and support of diabetes management and education. The length and frequency of SMBG should depend on the clinical setting and the quality of metabolic control.
 
 ---
 
-### Daily home glucose monitoring for type 2 diabetes… [^f2f37e19]. AAFP (2018). Low credibility.
+### Daily home glucose monitoring for type 2 diabetes… [^117DBnpG]. AAFP (2018). Low credibility.
 
 Don't routinely recommend daily home glucose monitoring for patients who have Type 2 diabetes mellitus and are not using insulin. Self-monitoring of blood glucose is an integral part of patient self-management in maintaining safe and target-driven glucose control in type 1 diabetes mellitus. However, daily finger glucose testing has no benefit in patients with type 2 diabetes mellitus who are not on insulin or medications associated with hypoglycemia, and small, but significant, patient harms are associated with daily glucose testing. SMBG should be reserved for patients during the titration of their medication doses or during periods of changes in patients' diet and exercise routines. This recommendation is provided solely for informational purposes and is not intended as a substitute for consultation with a medical professional. Patients with any specific questions about this recommendation or their individual situation should consult their physician.
 
 ---
 
-### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^2589153b]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
+### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^111xeb22]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
 Clinical question on CGM for multiple daily injections in type 1 diabetes — the guideline poses the question, "Should continuous glucose monitoring vs self-monitoring of blood glucose be used for people with type 1 diabetes receiving multiple daily injections?" and notes in background that most individuals with T1D do not meet recommended glycemic targets.
 
 ---
 
-### Assessing glycemia in diabetes using self-monitoring blood glucose and hemoglobin A1c [^44392c42]. JAMA (2006). Excellent credibility.
+### Assessing glycemia in diabetes using self-monitoring blood glucose and hemoglobin A1c [^112k9Mys]. JAMA (2006). Excellent credibility.
 
 Context
 
@@ -467,7 +467,7 @@ Assessing glycemia in diabetes can be a challenge, but approaches are available 
 
 ---
 
-### Self-monitoring of blood glucose in non-insulin treated type 2 diabetes (the SMBG study): study protocol for a randomised controlled trial [^a453392e]. BMC Endocrine Disorders (2017). Low credibility.
+### Self-monitoring of blood glucose in non-insulin treated type 2 diabetes (the SMBG study): study protocol for a randomised controlled trial [^115CcvYD]. BMC Endocrine Disorders (2017). Low credibility.
 
 Background
 
@@ -479,7 +479,7 @@ In 2014/15, NHS expenditure on blood glucose monitoring agents and devices in En
 
 ---
 
-### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^a0cd4a96]. Diabetes Care (2012). Low credibility.
+### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^1157PyVF]. Diabetes Care (2012). Low credibility.
 
 Although extensive dosing instructions for insulin are beyond the scope of this statement, most patients can be taught to uptitrate their own insulin dose based on several algorithms, each essentially involving the addition of a small dose increase if hyperglycemia persists. For example, the addition of 1–2 units (or, in those already on higher doses, increments of 5–10%) to the daily dose once or twice weekly if the fasting glucose levels are above the preagreed target is a reasonable approach. As the target is neared, dosage adjustments should be more modest and occur less frequently. Downward adjustment is advisable if any hypoglycemia occurs. During self-titration, frequent contact (telephone, e-mail) with the clinician may be necessary. Practitioners themselves can, of course, also titrate basal insulin, but this would involve more intensive contact with the patient than typically available in routine clinical practice. Daily self-monitoring of blood glucose is of obvious importance during this phase. After the insulin dose is stabilized, the frequency of monitoring should be reviewed.
 
@@ -487,7 +487,7 @@ Consideration should be given to the addition of prandial or mealtime insulin co
 
 ---
 
-### Brazilian multicenter study for the evaluation of patients' satisfaction of blood glucose self-monitoring with BGStar® blood glucose meter in insulinized patients with diabetes mellitus type 1 and 2 [^de3371de]. Diabetology & Metabolic Syndrome (2016). Low credibility.
+### Brazilian multicenter study for the evaluation of patients' satisfaction of blood glucose self-monitoring with BGStar® blood glucose meter in insulinized patients with diabetes mellitus type 1 and 2 [^116gRXnd]. Diabetology & Metabolic Syndrome (2016). Low credibility.
 
 Discussion
 
@@ -501,19 +501,19 @@ Programmatic, structured SMBG contributes to significant improvement in glycemic
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for diabetes management [^033bcbfc]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for diabetes management [^1115o3nK]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Exercise glucose monitoring in insulin-dependent diabetes — structured timing and targets are advised during wilderness activity. Ideally, pre-exercise blood glucose monitoring should be performed 2 to 3 times at 30 min intervals to determine a blood glucose trend; during exercise, every 30 min; and after exercise, every 2 to 4 h owing to potential delayed hypoglycemia. It has been suggested that the ideal blood glucose level for exercise is between 130 and 180 mg·dL-1, though targets should be individualized. Because such time-intensive monitoring is difficult in the wilderness, it is prudent to establish trends in insulin and carbohydrate requirements before an expedition; patients with well-established exercise insulin requirements may check blood glucose prior to exercise and every few hours during prolonged exertion, and continuous glucose monitors (CGM) may be a useful adjunctive tool though robust clinical data are lacking. Recommendation: In insulin-dependent diabetes, blood glucose should be monitored before, during, and after intense and/or prolonged exercise (Evidence grade: 1B).
 
 ---
 
-### Standards of care in diabetes – 2025 [^178469be]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111bsC6Z]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypoglycemia, more specifically with respect to pediatric patients (glucose monitoring, T1DM), ADA 2025 guidelines recommend to advise all young patients with T1DM to monitor glucose levels multiple times daily (up to 10 times/day by blood glucose meter or continuous glucose monitoring), including before meals and snacks, at bedtime, and as needed for safety in specific situations, such as physical activity, driving, or the presence of symptoms of hypoglycemia.
 
 ---
 
-### Empirically establishing blood glucose targets to achieve HbA1c goals [^a727dc12]. Diabetes Care (2014). Low credibility.
+### Empirically establishing blood glucose targets to achieve HbA1c goals [^115GpKbF]. Diabetes Care (2014). Low credibility.
 
 Introduction
 
@@ -526,7 +526,7 @@ We sought to determine the average fasting, postprandial, and bedtime glucose va
 
 ---
 
-### The experience of blood glucose monitoring in people with type 2 diabetes mellitus (T2DM) [^61e6a45c]. Endocrinology, Diabetes & Metabolism (2022). Medium credibility.
+### The experience of blood glucose monitoring in people with type 2 diabetes mellitus (T2DM) [^113W9Gc3]. Endocrinology, Diabetes & Metabolism (2022). Medium credibility.
 
 Respondents often did not know how accurate their metre was and did not have the opportunity to discuss metre performance with a health care professional when choosing a blood glucose metre. Patients reported little choice over the metre they are offered with local guidelines typically limiting the choice of equipment to control costs and ensure value for money. It's not unreasonable for patients to assume that the blood glucose monitoring equipment on offer/prescribed have been evaluated for effectiveness as well as cost ‐ so there is a degree of trust that what is being offered to them is of an adequate standard. This was apparent in some of the comments made by the respondents.
 
@@ -538,13 +538,13 @@ In all, 51% of patients reported an HbA1c of 64 mmol/mol or less. That is lower 
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^4bd416ef]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^112wRJyU]. Endocrine Practice (2022). High credibility.
 
 Blood glucose monitoring (SMBG) — self-monitoring of blood glucose (SMBG) should be recommended for all persons with type 1 diabetes (T1D) and type 2 diabetes (T2D) who are treated with multiple daily doses (MDI) of insulin therapy or continuous subcutaneous insulin infusion (CSII) therapy; frequent BGM may be needed for persons who are taking multiple daily injections (MDI) of insulin or using insulin pumps; in persons at A1C targets, or those with history of hypoglycemia, hypoglycemia unawareness, lean body mass, or previous severe hypoglycemia; and persons who do not require insulin or insulin secretagogue therapy may not benefit from BGM.
 
 ---
 
-### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^9f1b3594]. Diabetes Care (2011). Low credibility.
+### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^1154tAtT]. Diabetes Care (2011). Low credibility.
 
 A 2009 review of studies of patients with type 2 diabetes addressed recent large randomized trials of tight glycemic control, a major rationale for SMBG use in these patients. It concluded that "tight glycemic control burdens patients with complex treatment programs, hypoglycemia, weight gain, and costs and offers uncertain benefits in return", thus raising additional uncertainty about the use of SMBG in people with type 2 diabetes.
 
@@ -560,7 +560,7 @@ RECOMMENDATION: PATIENTS SHOULD BE INSTRUCTED IN THE CORRECT USE OF GLUCOSE METE
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^a4c4e119]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^115DH6ja]. Diabetes Care (2013). Low credibility.
 
 Self-monitoring of blood glucose (SMBG) is considered a key component of the treatment regimen in patients with type 2 diabetes using insulin. There is almost universal agreement that SMBG should be available to all diabetic patients. Even for patients not using insulin, the use of SMBG is widely taken up in clinical practice guidelines and is accepted as a part of their diabetes management.
 
@@ -571,7 +571,7 @@ Evidence of SMBG effect on HbA 1c and hypoglycemia in different diabetic patient
 
 ---
 
-### The efficacy and frequency of self-monitoring of blood glucose in non-insulin-treated T2D patients: a systematic review and meta-analysis [^1b7403fb]. Journal of General Internal Medicine (2023). Medium credibility.
+### The efficacy and frequency of self-monitoring of blood glucose in non-insulin-treated T2D patients: a systematic review and meta-analysis [^111hhdmt]. Journal of General Internal Medicine (2023). Medium credibility.
 
 Background
 
@@ -595,19 +595,19 @@ PROSPERO (CRD42021285604).
 
 ---
 
-### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^c4876355]. American Journal of Kidney Diseases (2007). Medium credibility.
+### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^1162N3oi]. American Journal of Kidney Diseases (2007). Medium credibility.
 
 KDOQI diabetes and chronic kidney disease — glucose monitoring strategy follows ADA standards: Data for monitoring glycemic control in people with diabetes and CKD essentially are absent; therefore, assessment of glycemic control should follow the general standards recommended by the ADA, with self-monitoring of blood glucose (SMBG) recommended 3 or more times daily in people receiving multiple insulin injections and, for those treated by oral agents or medical nutrition therapy, SMBG is useful in achieving glycemic goals; postprandial SMBG testing also may be helpful, particularly in patients with gastroparesis. The optimal frequency of SMBG has not been established in patients with type 2 diabetes treated by oral agents, but the ADA recommends testing sufficiently often to reach glycemic goals, and HbA1c level should be determined at least twice per year in stable patients and more often, approximately every 3 months, in patients whose therapy has changed or who are not reaching goals.
 
 ---
 
-### Continuous glucose monitoring: evidence and consensus statement for clinical use [^99f4576e]. Journal of Diabetes Science and Technology (2013). Low credibility.
+### Continuous glucose monitoring: evidence and consensus statement for clinical use [^114wFBGq]. Journal of Diabetes Science and Technology (2013). Low credibility.
 
 Continuous glucose monitoring (CGM) is an essential tool for modern diabetes therapy. Randomized controlled studies have provided evidence that hemoglobin A1c (HbA1c) results can be improved in patients with type 1 diabetes with elevated baseline HbA1c when using CGM frequently enough and that the frequency and duration of hypoglycemic events can be reduced in patients with satisfactory baseline HbA1c. The CGM group within the Working Group Diabetes Technology (AGDT) of the German Diabetes Association (DDG) has defined evidence-based indications for the practical use of CGM in this consensus statement related to hypoglycemia (frequent, severe, or nocturnal) or hypoglycemia unawareness, insufficient metabolic control despite use of all possible therapeutic options and patient compliance, pregnancy associated with inadequate blood glucose results, and the need for more than 10 blood glucose measurements per day. Contraindications and defined preconditions for the successful use of CGM should be considered.
 
 ---
 
-### Best practices and tools for titrating basal insulins: expert opinion from an Indian panel via the modified Delphi consensus method [^efd61fd1]. Diabetes Therapy (2020). Medium credibility.
+### Best practices and tools for titrating basal insulins: expert opinion from an Indian panel via the modified Delphi consensus method [^1178Zxq6]. Diabetes Therapy (2020). Medium credibility.
 
 Importance of Self-Monitoring of Blood Glucose Following Initiation of Insulin Therapy
 
@@ -619,37 +619,37 @@ Key Recommendations from Experts on Self-Monitoring of Blood Glucose Following I
 
 ---
 
-### Children and adolescents: standards of care in diabetes – 2025 [^e08878d1]. Diabetes Care (2025). High credibility.
+### Children and adolescents: standards of care in diabetes – 2025 [^116jt4p8]. Diabetes Care (2025). High credibility.
 
 Children and adolescents with type 1 diabetes — glucose monitoring frequency and timing: All youth with type 1 diabetes should monitor glucose levels multiple times daily (up to 10 times/day by blood glucose meter or continuous glucose monitoring [CGM]), including prior to meals and snacks, at bedtime, and as needed for safety in specific situations such as physical activity, driving, or the presence of symptoms of hypoglycemia.
 
 ---
 
-### Standards of care in diabetes – 2025 [^b3b1608f]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^115bQN2i]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for diabetes mellitus type 1, more specifically with respect to pediatric patients (glucose monitoring), ADA 2025 guidelines recommend to advise all young patients with T1DM to monitor glucose levels multiple times daily (up to 10 times/day by blood glucose meter or continuous glucose monitoring), including before meals and snacks, at bedtime, and as needed for safety in specific situations, such as physical activity, driving, or the presence of symptoms of hypoglycemia.
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^c7993a0c]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^1166v1BH]. Diabetes Care (2013). Low credibility.
 
 Given the importance of glycemic control in the development of diabetes complications, the plethora of tools now available to monitor the day-to-day trends in glycemia is remarkable. In this regard, self-monitoring of blood glucose (SMBG) has been considered a key component of patient management. Arguably, there remains almost universal agreement that SMBG should be available to all diabetic patients regardless of current treatment strategy. However, recently there have been reports that have challenged the current paradigm that all patients should use SMBG and concluded that SMBG for type 2 diabetic patients not on insulin may not be beneficial on glycemic control and must be weighed against the expense and inconvenience. In this two-part point-counterpoint narrative, Malanda et al. and Polonsky and Fisher take opposing views on the utility of SMBG to be valuable for individuals with type 2 diabetes not using insulin. In the narrative below, Malanda et al. suggest that the evidence for potentially beneficial SMBG-induced effects on glycemic control, hypoglycemic periods, and potential harms in type 2 diabetic patients who are not treated with insulin does not justify the use of SMBG. Moreover, the use of SMBG is associated with huge costs, which should be better redirected to effective strategies to improve health for this category of patients. -William T. Cefalu, MD Editor in Chief, Diabetes Care.
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: the use of advanced technology in the management of persons with diabetes mellitus [^ec5343bf]. Endocrine Practice (2021). High credibility.
+### American association of clinical endocrinology clinical practice guideline: the use of advanced technology in the management of persons with diabetes mellitus [^1173N3dg]. Endocrine Practice (2021). High credibility.
 
 Evidence base — education and training for continuous glucose monitoring (CGM) and other diabetes technologies: Diabetes education and training are essential to optimizing use of CGM; persons with diabetes should be advised that if symptoms do not match sensor glucose values it would be prudent to check a capillary blood glucose level, and individualized alarms should be set to prevent alarm fatigue while monitoring for skin problems and sensor adhesion issues that can create data gaps; this section is labeled Grade C; BEL 2. Understanding how to safely and effectively use CGM data for daily diabetes self-management and how to interpret and learn from retrospective data are essential, and if the sensor is not lasting for its intended duration there will be gaps when no data are available if insurance limits the supply of devices.
 
 ---
 
-### Self-monitoring of blood glucose among adults with diabetes – United States, 1997–2006 [^2db25206]. MMWR: Morbidity and Mortality Weekly Report (2007). Low credibility.
+### Self-monitoring of blood glucose among adults with diabetes – United States, 1997–2006 [^112AkLeH]. MMWR: Morbidity and Mortality Weekly Report (2007). Low credibility.
 
 Blood-glucose control is critical for managing diabetes and preventing diabetes-related complications such as cardiovascular disease, retinopathy, nephropathy, and neuropathy. In addition to recommending that patients with diabetes have a glycated hemoglobin (HbA1c) measurement at least two times a year, the American Diabetes Association recommends self-monitoring of blood glucose (SMBG) as an integral part of diabetes management for patients who are treated with insulin and as a useful component for achieving glycemic goals for patients who use oral medications or medical nutrition therapy. One of the Healthy People 2010 national objectives is to increase to 61% the proportion of persons with diabetes who perform SMBG at least once a day (objective 5–17). To estimate the rates of SMBG and to track the progress of states during 1997–2006, CDC analyzed data from the Behavioral Risk Factor Surveillance System (BRFSS) for that period. This report summarizes the findings of that analysis, which indicated that the proportion of adults with diabetes who check their blood glucose at least once a day increased at the national level, and 25 of the 38 states examined had statistically significant rate increases from 1997 to 2006. In 2006, the daily SMBG rate was 63.4% among all adults with diabetes and 86.7% among those treated with insulin. Collaborations to ensure adequate health insurance coverage, diabetes education and counseling to encourage more intensive medical care and self-management practices, and continued surveillance measures to track changes in SMBG rates are needed to improve and monitor SMBG trends.
 
 ---
 
-### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^714147c0]. Diabetes Care (2011). Low credibility.
+### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^113tuXcB]. Diabetes Care (2011). Low credibility.
 
 RECOMMENDATION: STUDIES ARE NEEDED TO DETERMINE THE ANALYTICAL GOALS (QUALITY SPECIFICATIONS) FOR GLUCOSE METERS IN SMBG AND IN ICUs C (moderate).
 
@@ -667,13 +667,13 @@ CONTINUOUS MINIMALLY INVASIVE GLUCOSE ANALYSES
 
 ---
 
-### Standards of care in diabetes – 2025 [^506eb309]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1134FC9E]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 2, more specifically with respect to monitoring of glycemic status, ADA 2025 guidelines recommend to provide blood glucose monitoring devices to patients with diabetes as indicated by their circumstances, preferences, and treatment. Provide patients using continuous glucose monitoring devices with access also to blood glucose monitoring at all times.
 
 ---
 
-### Blood glucose self-monitoring and internet diabetes management on A1c outcomes in patients with type 2 diabetes [^5781fc29]. BMJ Open Diabetes Research & Care (2016). Medium credibility.
+### Blood glucose self-monitoring and internet diabetes management on A1c outcomes in patients with type 2 diabetes [^113Ejaq6]. BMJ Open Diabetes Research & Care (2016). Medium credibility.
 
 Key messages
 
@@ -691,13 +691,13 @@ The purpose of this study was to evaluate the relationship between A1C, frequenc
 
 ---
 
-### Standards of care in diabetes – 2025 [^0079c532]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1111huH3]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 1, more specifically with respect to monitoring of glycemic status, ADA 2025 guidelines recommend to provide blood glucose monitoring devices to patients with diabetes as indicated by their circumstances, preferences, and treatment. Provide patients using continuous glucose monitoring devices with access also to blood glucose monitoring at all times.
 
 ---
 
-### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^c268d3be]. Diabetes Care (2011). Low credibility.
+### Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^115yDosK]. Diabetes Care (2011). Low credibility.
 
 GLUCOSE METERS
 
@@ -711,13 +711,13 @@ RECOMMENDATION: THE IMPRECISION OF THE RESULTS, COUPLED WITH THE SUBSTANTIAL DIF
 
 ---
 
-### Standards of care in diabetes – 2025 [^7cfcea51]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^114CJR8c]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 2, more specifically with respect to continuous glucose monitoring, ADA 2025 guidelines recommend to use real-time continuous glucose monitoring devices in patients with diabetes on insulin therapy as close to daily as possible for maximal benefit. Scan intermittently scanned continuous glucose monitoring devices frequently, at minimum once every 8 hours, to avoid gaps in data. Ensure that patients have uninterrupted access to their supplies to minimize gaps in continuous glucose monitoring.
 
 ---
 
-### Hypoglycemia [^556027a2]. Canadian Journal of Diabetes (2018). Medium credibility.
+### Hypoglycemia [^113BaFCd]. Canadian Journal of Diabetes (2018). Medium credibility.
 
 Regarding preventative measures for hypoglycemia, more specifically with respect to general principles, DC 2018 guidelines recommend to consider adopting the following strategies to reduce the risk of hypoglycemia in patients with diabetes at high risk:
 
@@ -735,13 +735,13 @@ Regarding preventative measures for hypoglycemia, more specifically with respect
 
 ---
 
-### Standards of care in diabetes – 2025 [^72b18026]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^113w3D7j]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 1, more specifically with respect to continuous glucose monitoring, ADA 2025 guidelines recommend to use real-time continuous glucose monitoring devices in patients with diabetes on insulin therapy as close to daily as possible for maximal benefit. Scan intermittently scanned continuous glucose monitoring devices frequently, at minimum once every 8 hours, to avoid gaps in data. Ensure that patients have uninterrupted access to their supplies to minimize gaps in continuous glucose monitoring.
 
 ---
 
-### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^e7500dff]. Diabetes Care (2009). Low credibility.
+### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^116uw2gv]. Diabetes Care (2009). Low credibility.
 
 Over the last 2 decades, it was firmly established that tight glycemic control is associated with a significant reduction in serious long-term diabetes-related complications. The Diabetes Control and Complications Trial demonstrated that treatment that maintains blood glucose levels near normal in type 1 diabetes delays the onset and reduces the progression of microvascular complications. In the U.K. Prospective Diabetes Study, each 1% reduction in A1C was associated with a 37% decrease in relative risk for microvascular complications and a 21% decrease in relative risk of any end point or death related to diabetes.
 
@@ -753,13 +753,13 @@ To the contrary, SMBG reveals the immediate hour-to-hour blood glucose, which in
 
 ---
 
-### Diabetes technology-continuous subcutaneous insulin infusion therapy and continuous glucose monitoring in adults: an endocrine society clinical practice guideline [^5fd549d9]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Diabetes technology-continuous subcutaneous insulin infusion therapy and continuous glucose monitoring in adults: an endocrine society clinical practice guideline [^113T5Ty2]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Regarding preventative measures for hypoglycemia, more specifically with respect to continuous glucose monitoring, ES 2016 guidelines recommend to obtain real-time continuous glucose monitoring in adult patients with T1DM with HbA1c levels above target, if they are willing and able to use continuous glucose monitoring devices on a nearly daily basis.
 
 ---
 
-### Meta-analysis of individual patient data in randomised trials of self monitoring of blood glucose in people with non-insulin treated type 2 diabetes [^987fd163]. BMJ (2012). Excellent credibility.
+### Meta-analysis of individual patient data in randomised trials of self monitoring of blood glucose in people with non-insulin treated type 2 diabetes [^114u63vr]. BMJ (2012). Excellent credibility.
 
 Objective
 
@@ -795,7 +795,7 @@ Evidence from this meta-analysis of individual patient data was not convincing f
 
 ---
 
-### Practical guidance for healthcare providers on collaborating with people with type 2 diabetes: advancing treatment and initiating injectable therapy [^fe9fc427]. Diabetes Therapy (2023). Medium credibility.
+### Practical guidance for healthcare providers on collaborating with people with type 2 diabetes: advancing treatment and initiating injectable therapy [^117WVX5Q]. Diabetes Therapy (2023). Medium credibility.
 
 Educate on the Importance of Individualized A1C Targets
 
@@ -809,19 +809,19 @@ People who actively manage their blood glucose can gain better control of their 
 
 ---
 
-### Management of newly diagnosed type 2 diabetes mellitus (T2DM) in children and adolescents [^5248676b]. Pediatrics (2013). Medium credibility.
+### Management of newly diagnosed type 2 diabetes mellitus (T2DM) in children and adolescents [^1136zJen]. Pediatrics (2013). Medium credibility.
 
 Blood glucose (BG) monitoring — general principles for youth with type 2 diabetes mellitus (T2DM) state that once BG concentrations are at target levels, the frequency of monitoring can be modified; patients who are prone to marked hyperglycemia or hypoglycemia or on regimens with increased hypoglycemia risk will require continued frequent BG testing, and expectations for frequency and timing should be clearly defined with a written action plan for the adolescent and family.
 
 ---
 
-### Considerations on blood glucose management in type 2 diabetes mellitus [^dcf9cd36]. Diabetes/Metabolism Research and Reviews (2002). Low credibility.
+### Considerations on blood glucose management in type 2 diabetes mellitus [^116ecBXT]. Diabetes/Metabolism Research and Reviews (2002). Low credibility.
 
 In recent years the benefits of more intensive management in preventing or delaying the development and progression of diabetic complications have been well documented. What is not as well documented is how to motivate the person with diabetes to manage the condition, how to set, assess and quantify glucose goals, and the glucose variables that should be routinely measured. This review discusses the importance of setting targets and communicating them in a way that the patient understands. When aiming for a glycaemia target, balance is required (1) between achieving reduction of complications and causing an increased degree of hypoglycaemia, and (2) between what is achievable and what degree of benefit is gained. Target values given in guidelines should be adapted by the clinician to take into account the patient's susceptibility to hypoglycaemia, stage and type of complications, age and life expectancy, co-morbidity, social environment, understanding of the steps required and level of commitment to the treatment. Several suggestions are given regarding possible improvements and amendments to existing guidelines for diabetes management in treating to glucose goal. For example, attention should be drawn to the need to individualize goals and to consider education, long-term support, patient needs and treatment outcome when formulating diabetes management plans. The relative properties of the different glucose variables-fasting plasma glucose (FPG), postprandial plasma glucose (PPG), glycated haemoglobin A(1c) (HbA(1c)), and glycated protein-in terms of their convenience of measurement, usefulness and relevance to the physician and patient are also evaluated. When prioritising the variables to be measured it is suggested that where feasible, HbA(1c) should be the standard measurement by which to gauge risk and treatment efficacy. Serial measurements should be made and, where possible, the use of blood glucose meters encouraged, in order to obtain a blood glucose profile for the patient.
 
 ---
 
-### The impact of blood glucose self-monitoring on metabolic control and quality of life in type 2 diabetic patients: an urgent need for better educational strategies [^4cd4fad9]. Diabetes Care (2001). Low credibility.
+### The impact of blood glucose self-monitoring on metabolic control and quality of life in type 2 diabetic patients: an urgent need for better educational strategies [^112xubbn]. Diabetes Care (2001). Low credibility.
 
 Objective
 
@@ -841,7 +841,7 @@ Our findings suggest that SMBG can have an important role in improving metabolic
 
 ---
 
-### Adherence of self-monitoring of blood glucose in persons with type 1 diabetes in Sweden [^2fed0da9]. BMJ Open Diabetes Research & Care (2017). Medium credibility.
+### Adherence of self-monitoring of blood glucose in persons with type 1 diabetes in Sweden [^112E43RA]. BMJ Open Diabetes Research & Care (2017). Medium credibility.
 
 Background
 
@@ -853,7 +853,7 @@ The aim of the present study was to describe the proportion of patients measurin
 
 ---
 
-### Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin [^8ab6e855]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin [^114YejDW]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -885,7 +885,7 @@ From this review, we conclude that when diabetes duration is over one year, the 
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^64377256]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: right answer, but wrong question: self-monitoring of blood glucose can be clinically valuable for noninsulin users [^113ZaPNM]. Diabetes Care (2013). Low credibility.
 
 Further concerns about study design
 
@@ -893,7 +893,7 @@ The studies included in the report by Malanda et al. and other recent reviews ra
 
 ---
 
-### Self-monitoring of blood glucose in patients with non-… [^9717fb4d]. AAFP (2023). Medium credibility.
+### Self-monitoring of blood glucose in patients with non-… [^114s1Bkg]. AAFP (2023). Medium credibility.
 
 A. F. reports that they check their blood glucose one to three times daily using a home glucose monitor, as recommended by their previous physician. I recommend discontinuing self-monitoring of their blood glucose because its effectiveness in achieving glycemic control is limited in patients who are not taking insulin. A. F. becomes upset by my suggestion, wondering how they can keep their diabetes under control without checking their glucose levels at home. How do I respond to my new patient. Until recently, self-monitoring of blood glucose was a routine recommendation for all patients with diabetes, including those not taking insulin. Among patients who do not use insulin, a growing body of evidence validates that self-monitoring of blood glucose is not effective in achieving long-term glycemic control.
 
@@ -907,13 +907,13 @@ Physicians may also find helpful a validated tool to test patient confidence in 
 
 ---
 
-### How tightly controlled do fluctuations in blood glucose levels need to be to reduce the risk of developing complications in people with type 1 diabetes? [^6516270e]. Diabetic Medicine (2020). Medium credibility.
+### How tightly controlled do fluctuations in blood glucose levels need to be to reduce the risk of developing complications in people with type 1 diabetes? [^113asC2h]. Diabetic Medicine (2020). Medium credibility.
 
 In 2011, the James Lind Alliance published a 'top 10' list of priorities for Type 1 diabetes research based on a structured consultation process. Whether reducing fluctuations in blood glucose can prevent long-term microvascular and macrovascular complications was one of these. In this narrative review, 8 years on, we have assessed the updated evidence for the assertion that increased glucose variability plays an independent and clinically important role in the complications of Type 1 diabetes, over and above mean blood glucose and the effects of hypoglycaemia: the 'glucose variability hypothesis'. Although studies in cultured cells and ex vivo vessels have been suggestive, most studies in Type 1 diabetes have been small and/or cross-sectional, and based on 'finger-prick' glucose measurements that capture glucose variability only in waking hours and are affected by missing data. A recent analysis of the Diabetes Control and Complications Trial that formally imputed missing data found no independent effect of short-term glucose variability on long-term complications. Few other high-quality longitudinal studies have directly addressed the glucose variability hypothesis in Type 1 diabetes. We conclude that there is little substantial evidence to date to support this hypothesis in Type 1 diabetes, although increasing use of continuous glucose monitoring provides an opportunity to test it more definitively. In the meantime, we recommend that control of glycaemia in Type 1 diabetes should continue to focus on the sustained achievement of target HbA 1c and avoidance of hypoglycaemia.
 
 ---
 
-### ISPAD clinical practice consensus guidelines 2022: diabetes technologies: glucose monitoring [^31d686f1]. Pediatric Diabetes (2022). Medium credibility.
+### ISPAD clinical practice consensus guidelines 2022: diabetes technologies: glucose monitoring [^112GtT8k]. Pediatric Diabetes (2022). Medium credibility.
 
 EXECUTIVE SUMMARY AND RECOMMENDATIONS
 
@@ -933,7 +933,7 @@ It is critical to counsel youth/families and identify potential barriers to adop
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^b0ddd878]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^115XDLVu]. Diabetes Care (2013). Low credibility.
 
 Conclusions
 
@@ -941,13 +941,13 @@ The evidence for potentially beneficial SMBG-induced effects on glycemic control
 
 ---
 
-### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^4d45e55b]. Diabetes Care (2009). Low credibility.
+### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^112yZXP8]. Diabetes Care (2009). Low credibility.
 
 Results from landmark diabetes studies have established A1C as the gold standard for assessing long-term glycemic control. However, A1C does not provide "real-time" information about individual hyperglycemic or hypoglycemic excursions. Real-time information provided by self-monitoring of blood glucose (SMBG) represents an important adjunct to A1C, because it can differentiate fasting, preprandial, and postprandial hyperglycemia; detect glycemic excursions; identify hypoglycemia; and provide immediate feedback about the effect of food choices, physical activity, and medication on glycemic control. The importance of SMBG is widely appreciated and recommended as a core component of management in patients with type 1 or insulin-treated type 2 diabetes, as well as in diabetic pregnancy, for both women with pregestational type 1 and gestational diabetes. Nevertheless, SMBG in management of non–insulin-treated type 2 diabetic patients continues to be debated. Results from clinical trials are inconclusive, and reviews fail to reach an agreement, mainly because of methodological problems. Carefully designed large-scale studies on diverse patient populations with type 2 diabetes with the follow-up period to investigate long-term effects of SMBG in patients with type 2 diabetes should be carried out to clarify how to make the best use of SMBG, in which patients, and under what conditions.
 
 ---
 
-### Self-monitoring of blood glucose levels and glycemic control: the Northern California kaiser permanente diabetes registry [^9c6388d4]. The American Journal of Medicine (2001). Low credibility.
+### Self-monitoring of blood glucose levels and glycemic control: the Northern California kaiser permanente diabetes registry [^114zrW3u]. The American Journal of Medicine (2001). Low credibility.
 
 Purpose
 
@@ -967,7 +967,7 @@ More frequent self-monitoring of blood glucose levels was associated with clinic
 
 ---
 
-### ISPAD clinical practice consensus guidelines 2022: glycemic targets and glucose monitoring for children, adolescents, and young people with diabetes [^f0c579be]. Pediatric Diabetes (2022). Medium credibility.
+### ISPAD clinical practice consensus guidelines 2022: glycemic targets and glucose monitoring for children, adolescents, and young people with diabetes [^1179xMmX]. Pediatric Diabetes (2022). Medium credibility.
 
 2 EXECUTIVE SUMMARY AND RECOMMENDATIONS
 
@@ -984,19 +984,19 @@ Addressing social determinants of health, and improving access to the healthcare
 
 ---
 
-### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^7f91712a]. Diabetes Care (2009). Low credibility.
+### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^114G8HEH]. Diabetes Care (2009). Low credibility.
 
 Results from landmark diabetes studies have established A1C as the gold standard for assessing long-term glycemic control. However, A1C does not provide "real-time" information about individual hyperglycemic or hypoglycemic excursions. Real-time information provided by self-monitoring of blood glucose (SMBG) represents an important adjunct to A1C, because it can differentiate fasting, preprandial, and postprandial hyperglycemia; detect glycemic excursions; identify hypoglycemia; and provide immediate feedback about the effect of food choices, physical activity, and medication on glycemic control. The importance of SMBG is widely appreciated and recommended as a core component of management in patients with type 1 or insulin-treated type 2 diabetes, as well as in diabetic pregnancy, for both women with pregestational type 1 and gestational diabetes. Nevertheless, SMBG in management of non-insulin-treated type 2 diabetic patients continues to be debated. Results from clinical trials are inconclusive, and reviews fail to reach an agreement, mainly because of methodological problems. Carefully designed large-scale studies on diverse patient populations with type 2 diabetes with the follow-up period to investigate long-term effects of SMBG in patients with type 2 diabetes should be carried out to clarify how to make the best use of SMBG, in which patients, and under what conditions.
 
 ---
 
-### The role of self-monitoring of blood glucose in glucagon-like peptide-1-based treatment approaches: a European expert recommendation [^b4e4f2e2]. Journal of Diabetes Science and Technology (2012). Low credibility.
+### The role of self-monitoring of blood glucose in glucagon-like peptide-1-based treatment approaches: a European expert recommendation [^115dBg1P]. Journal of Diabetes Science and Technology (2012). Low credibility.
 
 The role of glucagon-like peptide (GLP)-1-based treatment approaches for type 2 diabetes mellitus (T2DM) is increasing. Although self-monitoring of blood glucose (SMBG) has been performed in numerous studies on GLP-1 analogs and dipeptidyl peptidase-4 inhibitors, the potential role of SMBG in GLP-1-based treatment strategies has not been elaborated. The expert recommendation suggests individualized SMBG strategies in GLP-1-based treatment approaches and suggests simple and clinically applicable SMBG schemes. Potential benefits of SMBG in GLP-1-based treatment approaches are early assessment of treatment success or failure, timely modification of treatment, detection of hypoglycemic episodes, assessment of glucose excursions, and support of diabetes management and diabetes education. Its length and frequency should depend on the clinical setting and the quality of metabolic control. It is considered to play an important role for the optimization of diabetes management in T2DM patients treated with GLP-1-based approaches.
 
 ---
 
-### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^df35bdf2]. Diabetes Care (2009). Low credibility.
+### Self-monitoring of blood glucose as part of the integral care of type 2 diabetes [^116hvHpd]. Diabetes Care (2009). Low credibility.
 
 In pursuit of achieving near-euglycemia while avoiding hypoglycemia, the importance of SMBG is widely appreciated and recommended as a routine part of management in patients with type 1 or insulin-treated type 2 diabetes, as well as in diabetic pregnancy, for both women with pregestational type 1 and gestational diabetes. In patients with type 1 diabetes in the Diabetes Control and Complications Trial, it was clearly shown that SMBG in the context of multifactorial interventions is linearly correlated with reductions in A1C. Most authorities recommend subjects with type 1 diabetes using multiple insulin injections or insulin pump therapy to perform more than three capillary glucose determinations per day, but ideally four to six.
 
@@ -1006,19 +1006,19 @@ This work focuses on the evidence from clinical trials regarding the impact of S
 
 ---
 
-### Diabetes technology-continuous subcutaneous insulin infusion therapy and continuous glucose monitoring in adults: an endocrine society clinical practice guideline [^02f7213d]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Diabetes technology-continuous subcutaneous insulin infusion therapy and continuous glucose monitoring in adults: an endocrine society clinical practice guideline [^1115Pz3N]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Regarding preventative measures for hypoglycemia, more specifically with respect to continuous glucose monitoring, ES 2016 guidelines recommend to obtain real-time continuous glucose monitoring in adult patients with well-controlled T1DM, if they are willing and able to use these devices on a nearly daily basis.
 
 ---
 
-### Adherence to glycemic monitoring in diabetes [^56fa8c68]. Journal of Diabetes Science and Technology (2015). Low credibility.
+### Adherence to glycemic monitoring in diabetes [^113Dx6K9]. Journal of Diabetes Science and Technology (2015). Low credibility.
 
 Glucose monitoring either by self-monitoring of blood glucose (SMBG) or continuous glucose monitoring (CGM) plays an important role in diabetes management and in reducing risk for diabetes-related complications. However, despite evidence supporting the role of glucose monitoring in better patient health outcomes, studies also reveal relatively poor adherence rates to SMBG and CGM use and numerous patient-reported barriers. Fortunately, some promising intervention strategies have been identified that promote at least short-term improvements in patients' adherence to SMBG. These include education, problem solving, contingency management, goal setting, cognitive behavioral therapy, and motivational interviewing. Specific to CGM, interventions to promote greater use among patients are currently under way, yet one pilot study provides data suggesting better maintenance of CGM use in patients showing greater readiness for behavior change. The purpose of this review is to summarize the literature specific to glucose monitoring in patients with diabetes focusing specifically on current adherence rates, barriers to monitoring, and promising intervention strategies that may be ready to deploy now in the clinic setting to promote greater patient adherence to glucose monitoring. Yet, to continue to help patients with diabetes adhere to glucose monitoring, future research is needed to identify the treatment strategies and the intervention schedules that most likely lead to long-term maintenance of optimal glycemic monitoring levels.
 
 ---
 
-### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^ac7b6ab9]. Diabetes Care (2013). Low credibility.
+### Self-monitoring of blood glucose in noninsulin-using type 2 diabetic patients: it is time to face the evidence [^115QiKpt]. Diabetes Care (2013). Low credibility.
 
 SMBG and hypoglycemia
 
@@ -1026,7 +1026,7 @@ Periods of hypoglycemia are distressing events that mostly occur with tight glyc
 
 ---
 
-### The financial impact of inaccurate blood glucose monitoring systems [^e8b1ab5c]. Journal of Diabetes Science and Technology (2018). Low credibility.
+### The financial impact of inaccurate blood glucose monitoring systems [^116wyof9]. Journal of Diabetes Science and Technology (2018). Low credibility.
 
 Patient blood glucose monitoring (BGM) is considered a key component of diabetes management. When utilized within a structured testing regimen, self-monitoring of blood glucose (SMBG) provides information about patients' current glycemic status and the ability to obtain immediate feedback regarding the impact of behavioral and pharmacological interventions on glucose levels. However, because both clinicians and patients utilize SMBG data to make critical decisions regarding diabetes medication adjustments, it is crucial that glucose results are accurate.
 
@@ -1038,7 +1038,7 @@ It is well recognized that the risk of severe or fatal hypoglycemia notably incr
 
 ---
 
-### Self-monitoring of blood glucose as an integral part in the management of people with type 2 diabetes mellitus [^174895b7]. Diabetes Therapy (2022). Medium credibility.
+### Self-monitoring of blood glucose as an integral part in the management of people with type 2 diabetes mellitus [^111bX6Yn]. Diabetes Therapy (2022). Medium credibility.
 
 Local Aspects/Experience
 
@@ -1052,7 +1052,7 @@ A guideline for SMBG was issued by the Chinese Diabetes Society in 2011 and upda
 
 ---
 
-### Are diabetes management guidelines applicable in' real life'? [^98c28711]. Diabetology & Metabolic Syndrome (2012). Low credibility.
+### Are diabetes management guidelines applicable in' real life'? [^114uUTYC]. Diabetology & Metabolic Syndrome (2012). Low credibility.
 
 Interventions
 
@@ -1062,25 +1062,25 @@ The study endpoints were change in HbA 1c after the intervention and the proport
 
 ---
 
-### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^7e495ac5]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
+### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^114EE5a4]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
 Regarding preventative measures for hypoglycemia, more specifically with respect to continuous glucose monitoring, ES 2022 guidelines recommend to obtain continuous glucose monitoring rather than self-monitoring of blood glucose by fingerstick in patients with T1DM receiving multiple daily injections.
 
 ---
 
-### Consensus report: the current role of self-monitoring of blood glucose in non-insulin-treated type 2 diabetes [^c62200d2]. Journal of Diabetes Science and Technology (2011). Low credibility.
+### Consensus report: the current role of self-monitoring of blood glucose in non-insulin-treated type 2 diabetes [^1164jyEZ]. Journal of Diabetes Science and Technology (2011). Low credibility.
 
 The Coalition for Clinical Research — Self-Monitoring of Blood Glucose Scientific Board convened a meeting in San Francisco, CA, July 20–21, 2011, to discuss the current practice of self-monitoring of blood glucose (SMBG) in non-insulin-treated (NIT) type 2 diabetes mellitus (T2DM). Twelve physician panel members from academia, practice, and government attended this meeting. These experts came from the United States, Brazil, Canada, France, Germany, Italy, and the United Kingdom. In addition, three consultants from Australia, Germany, and the United States contributed to the group's final report. This coalition was organized by Diabetes Technology Society. Self-monitoring of blood glucose was studied from eight perspectives related to patients with NIT T2DM: (1) epidemiological studies; (2) randomized controlled trials (RCT)s and meta-analyses; (3) targets, timing, and frequency of SMBG use; (4) incidence and role of SMBG in preventing hypoglycemia with single-drug regimens and combination regimens consisting of antihyperglycemic agents other than secretagogues and insulin; (5) comparison of SMBG with continuous glucose monitoring; (6) technological capabilities and limitations of SMBG; (7) barriers to appropriate use of SMBG; and (8) methods and end points for appropriate future clinical trials. The panel emphasized recent studies, which reflect the current approach for applying this intervention. Among the participants there was consensus that: SMBG is an established practice for patients with NIT T2DM, and to be most effective, it should be performed in a structured format where information obtained from this measurement is used to guide treatment; New, high-quality efficacy data from RCTs have demonstrated efficacy of SMBG in NIT T2DM in trials reported since 2008; Both patients and health care professionals require education on how to respond to the data for SMBG to be effective; and Additional well-defined studies are needed to assess the benefits and costs of SMBG with end points not limited to hemoglobin A1c.
 
 ---
 
-### Standards of care in diabetes – 2025 [^7e143b00]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^114DvEdV]. Diabetes Care (2025). High credibility.
 
 Regarding follow-up and surveillance for diabetes mellitus type 2, more specifically with respect to monitoring of glycemic status, ADA 2025 guidelines recommend to consider obtaining blood glucose monitoring in patients on non-insulin therapies when altering meal plans, physical activity plans, and/or medications (particularly medications that can cause hypoglycemia) in conjunction with a treatment adjustment program.
 
 ---
 
-### Effect of structured self-monitoring of blood glucose, with and without additional teleCare support, on overall glycaemic control in non-insulin treated type 2 diabetes: the SMBG study, a 12-month randomized controlled trial [^8e1b0722]. Diabetic Medicine (2019). Medium credibility.
+### Effect of structured self-monitoring of blood glucose, with and without additional teleCare support, on overall glycaemic control in non-insulin treated type 2 diabetes: the SMBG study, a 12-month randomized controlled trial [^114dgKZb]. Diabetic Medicine (2019). Medium credibility.
 
 What's new?
 
@@ -1090,7 +1090,7 @@ Structured SMBG should be offered as part of the self‐management process for a
 
 ---
 
-### Is self-monitoring of blood glucose appropriate for all type 2 diabetic patients? The fremantle diabetes study [^1e5c8b85]. Diabetes Care (2006). Low credibility.
+### Is self-monitoring of blood glucose appropriate for all type 2 diabetic patients? The fremantle diabetes study [^111n1iNp]. Diabetes Care (2006). Low credibility.
 
 Objective
 
@@ -1110,7 +1110,7 @@ Neither SMBG testing nor its frequency was associated with glycemic benefit in t
 
 ---
 
-### The importance of hypoglycemia in diabetic patients [^8d0cf105]. Journal of Diabetes and Metabolic Disorders (2012). Low credibility.
+### The importance of hypoglycemia in diabetic patients [^114c7brc]. Journal of Diabetes and Metabolic Disorders (2012). Low credibility.
 
 In addition, blood glucose monitoring (BGM), using any of the widely available self- monitoring blood glucose (SMBG) or interstitial glucose sampling using continuous glucose monitors (CGM); is an important part of management of diabetes; especially for people who experience hypoglycemic episodes. BGM provides an immediate evaluation of blood glucose levels; information that can be used to guide the therapy and to detect the hypoglycemia, and offers important feedback both to patients and to the health cares about glycemic control and patient treatment satisfaction. CGM may be particularly important for patients with hypoglycemia unawareness and/or patients experiencing frequent episodes of hypoglycemia.
 
@@ -1124,25 +1124,25 @@ Glycemic goals should be individualized with some degree of safety particularly 
 
 ---
 
-### ACOG practice bulletin no. 201: pregestational diabetes mellitus [^6ad51a4f]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 201: pregestational diabetes mellitus [^113jPGSz]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Self-monitoring of blood glucose in pregnancy — "Frequent self-monitoring of blood glucose is assumed to be important to achieve euglycemia without significant hypoglycemia during pregnancy", yet "no particular approach to blood glucose monitoring has been demonstrated to be superior to any other". A common approach is checking "in the fasting state, 1 or 2 hours after each meal, and before bed", with premeal assessment if dosing is based on premeal values. Blood glucose meters "indicate plasma glucose levels"; fasting values "reflect the action of overnight basal insulin", before-meal values "indicate daytime basal insulin activity", and post-meal levels "reveal the effect of the meal and recent insulin doses". In selected patients, especially those on insulin pumps, testing "at 2–3 AM may help detect nocturnal hypoglycemia"; nocturnal hypoglycemia "is caused by excessive basal insulin or an inadequate bedtime snack", whereas nocturnal hyperglycemia "may be due to insufficient basal insulin or pump failure". Continuous glucose monitors "are used to assess glucose control" and "measure the glucose content of interstitial fluid through a needle".
 
 ---
 
-### When is parenteral nutrition appropriate? [^94f79211]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
+### When is parenteral nutrition appropriate? [^114orKmi]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
 
 Parenteral nutrition (PN) monitoring — glucose, vascular access device (VAD), micronutrients, and therapy reassessment — includes blood glucose checks every 1–24 h as warranted by clinical status, discontinued once blood glucose values normalize and PN reaches target dextrose dose. Examination of the VAD is by daily assessment; x-ray confirmation at VAD placement, when admitted with a VAD in place, whenever concern for catheter displacement exists. Evaluation of micronutrient status is performed when history, physical, and/or clinical evidence suggests an abnormality. The need for PN therapy is reassessed daily; or with signs indicating return of improvement in bowel function or with change in pertinent clinical condition, and general response to therapy is followed ongoing throughout the course of therapy.
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^062078e1]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^111A5qJQ]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for hypoglycemia, more specifically with respect to patients with CKD (continuous glucose monitoring), KDIGO 2020 guidelines recommend to consider obtaining daily glycemic monitoring with continuous glucose monitoring or self-monitoring of blood glucose to help prevent hypoglycemia and improve glycemic control when antihyperglycemic therapies associated with the risk of hypoglycemia are used.
 
 ---
 
-### Continuous glucose monitoring systems for type 1 diabetes mellitus [^0b4d72dc]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Continuous glucose monitoring systems for type 1 diabetes mellitus [^111HksvT]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1174,13 +1174,13 @@ There is limited evidence for the effectiveness of real-time continuous glucose 
 
 ---
 
-### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^8cca9f56]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
+### Management of individuals with diabetes at high risk for hypoglycemia: an endocrine society clinical practice guideline [^114bjKrd]. The Journal of Clinical Endocrinology and Metabolism (2023). High credibility.
 
 Type 1 diabetes (T1D) receiving multiple daily injections (MDIs) — We recommend continuous glucose monitoring (CGM) rather than self-monitoring of blood glucose (SMBG) by fingerstick for patients with type 1 diabetes (T1D) receiving multiple daily injections (MDIs). (1⊕⊕OO). Comprehensive patient education on how to use and troubleshoot CGM devices and interpret these data is critically important for maximum benefit and successful outcomes. SMBG continues to be necessary to validate or confirm CGM values; for example, when symptoms do not match sensor glucose values and during the sensor warm-up period. Therefore, patients using CGM must continue to have access to SMBG.
 
 ---
 
-### Position statement executive summary: guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^9a450c45]. Diabetes Care (2011). Low credibility.
+### Position statement executive summary: guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus [^114wiHZW]. Diabetes Care (2011). Low credibility.
 
 2. Glucose meters
 

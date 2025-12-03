@@ -17,27 +17,27 @@ When to give bicarbonate pills to ckd patients
 
 > Let me first confirm the PICO framing so I don't jump to conclusions: Population is adults with non-dialysis CKD stages 3–5, Intervention is oral sodium bicarbonate, Comparator is placebo or standard care, and Outcomes include kidney endpoints (eGFR decline, kidney failure), patient-centered outcomes (physical function, quality of life), nutritional markers, and safety (blood pressure, fluid status, GI effects).
 
-> Next, I should review current guideline thresholds. KDIGO 2024 advises considering pharmacologic treatment when serum bicarbonate is less than 18 mmol/L to prevent clinically meaningful acidosis, while monitoring to avoid overshooting the upper limit of normal and to watch for adverse effects on BP, potassium, and fluid status; this is a practice point rather than a graded recommendation due to limited high-certainty evidence [^ff562126] [^4592cc16] [^017c3c75]. KDOQI 2020 suggests maintaining serum bicarbonate around 24–26 mmol/L in CKD 3–5D, acknowledging this is consensus-based rather than high-grade evidence [^871d3d13] [^78fd44ec]. Hold on, I should verify the older KDIGO stance: previously, a 2B recommendation supported alkali for bicarbonate less than 22 mmol/L, but 2024 de-emphasizes routine treatment at higher thresholds due to newer neutral or negative trials [^c59b8670] [^3e8dff37].
+> Next, I should review current guideline thresholds. KDIGO 2024 advises considering pharmacologic treatment when serum bicarbonate is less than 18 mmol/L to prevent clinically meaningful acidosis, while monitoring to avoid overshooting the upper limit of normal and to watch for adverse effects on BP, potassium, and fluid status; this is a practice point rather than a graded recommendation due to limited high-certainty evidence [^117XYmoK] [^112n9THX] [^1113Cibe]. KDOQI 2020 suggests maintaining serum bicarbonate around 24–26 mmol/L in CKD 3–5D, acknowledging this is consensus-based rather than high-grade evidence [^114TK9f8] [^1146Nau9]. Hold on, I should verify the older KDIGO stance: previously, a 2B recommendation supported alkali for bicarbonate less than 22 mmol/L, but 2024 de-emphasizes routine treatment at higher thresholds due to newer neutral or negative trials [^1163xoPd] [^112bjvo8].
 
-> I will now examine the pivotal randomized evidence. The BiCARB trial in adults aged 60 and older with CKD G3–G4 and bicarbonate less than 22 mmol/L found no benefit on physical function or eGFR decline, more adverse events, and worse cost-effectiveness versus placebo; importantly, the achieved bicarbonate increase was modest (about 1.7 mmol/L), and the population had high comorbidity burden, which may blunt benefits and amplify harms [^b5a181e5] [^f147001d] [^dbbffbff]. Wait, let me verify the kidney outcomes: the hazard ratio for kidney failure was 0.97 (95% CI 0.64–1.49), indicating no significant effect, aligning with the neutral primary and secondary outcomes [^4d42edf0].
+> I will now examine the pivotal randomized evidence. The BiCARB trial in adults aged 60 and older with CKD G3–G4 and bicarbonate less than 22 mmol/L found no benefit on physical function or eGFR decline, more adverse events, and worse cost-effectiveness versus placebo; importantly, the achieved bicarbonate increase was modest (about 1.7 mmol/L), and the population had high comorbidity burden, which may blunt benefits and amplify harms [^115eH1Re] [^117Ahs7i] [^116cnmsc]. Wait, let me verify the kidney outcomes: the hazard ratio for kidney failure was 0.97 (95% CI 0.64–1.49), indicating no significant effect, aligning with the neutral primary and secondary outcomes [^112yYXbD].
 
-> Next, I should review meta-analyses. A 2024 CJASN meta-analysis restricted to placebo-controlled trials found no significant reduction in kidney failure risk with sodium bicarbonate (HR 0.81, 95% CI 0.54–1.22), although some subgroup signals suggested possible improvements in eGFR in younger patients or with certain dosing strategies; overall certainty remains low and heterogeneity is substantial [^c59b8670] [^3e8dff37]. Another 2024 meta-analysis reported improvements in kidney function and nutritional markers but also increases in systolic blood pressure and serum calcium/phosphate, reinforcing the need for careful patient selection and monitoring [^de0aeddd] [^635bc720]. Hold on, let's not jump to conclusions — these are pooled data with variable quality and potential bias, so I should weigh them cautiously against guideline positions [^c59b8670].
+> Next, I should review meta-analyses. A 2024 CJASN meta-analysis restricted to placebo-controlled trials found no significant reduction in kidney failure risk with sodium bicarbonate (HR 0.81, 95% CI 0.54–1.22), although some subgroup signals suggested possible improvements in eGFR in younger patients or with certain dosing strategies; overall certainty remains low and heterogeneity is substantial [^1163xoPd] [^112bjvo8]. Another 2024 meta-analysis reported improvements in kidney function and nutritional markers but also increases in systolic blood pressure and serum calcium/phosphate, reinforcing the need for careful patient selection and monitoring [^116gBvUk] [^113YJbsm]. Hold on, let's not jump to conclusions — these are pooled data with variable quality and potential bias, so I should weigh them cautiously against guideline positions [^1163xoPd].
 
-> Let me consider earlier positive trials to avoid overgeneralizing. The de Brito-Ashurst study in advanced CKD with bicarbonate 16–20 mmol/L showed slower creatinine clearance decline and fewer patients progressing to ESRD with bicarbonate over 2 years; however, it was single-center and open-label, limiting internal validity and applicability to modern, older, multimorbid populations [^070b1017] [^f909e57e]. Similarly, smaller RCTs in CKD 3–4 reported improved muscle mass and slower eGFR decline with bicarbonate targeting 24–26 mmol/L, but these studies often lacked rigorous blinding or generalizability, so I should interpret them as hypothesis-generating rather than definitive [^7ec57351] [^3a9a27a0].
+> Let me consider earlier positive trials to avoid overgeneralizing. The de Brito-Ashurst study in advanced CKD with bicarbonate 16–20 mmol/L showed slower creatinine clearance decline and fewer patients progressing to ESRD with bicarbonate over 2 years; however, it was single-center and open-label, limiting internal validity and applicability to modern, older, multimorbid populations [^111BSdVg] [^117NDEyB]. Similarly, smaller RCTs in CKD 3–4 reported improved muscle mass and slower eGFR decline with bicarbonate targeting 24–26 mmol/L, but these studies often lacked rigorous blinding or generalizability, so I should interpret them as hypothesis-generating rather than definitive [^114Ewm9r] [^112Vt4XH].
 
-> I need to check special populations and safety signals. Older adults with advanced CKD and low-grade acidosis appear to have more adverse effects and no clear benefit, so routine bicarbonate in this group is discouraged by KDIGO 2024 and the BiCARB findings; sodium load may worsen BP and fluid status, and GI intolerance is common, which can reduce adherence and quality of life [^b5a181e5]. But wait, what if we use non-sodium options? Veverimer, a hydrochloric acid binder, increased bicarbonate and improved patient-reported physical function in subgroup analyses, offering a promising alternative when sodium load is a concern, though larger outcome trials are pending and it is not a substitute for all patients [^bdd29ce6] [^9565e4e0].
+> I need to check special populations and safety signals. Older adults with advanced CKD and low-grade acidosis appear to have more adverse effects and no clear benefit, so routine bicarbonate in this group is discouraged by KDIGO 2024 and the BiCARB findings; sodium load may worsen BP and fluid status, and GI intolerance is common, which can reduce adherence and quality of life [^115eH1Re]. But wait, what if we use non-sodium options? Veverimer, a hydrochloric acid binder, increased bicarbonate and improved patient-reported physical function in subgroup analyses, offering a promising alternative when sodium load is a concern, though larger outcome trials are pending and it is not a substitute for all patients [^115rRQLD] [^114pVP3d].
 
-> Next, I should review practical dosing and monitoring if bicarbonate is used. Typical starting doses are 1.2–1.8 g orally three times daily, titrated to effect and tolerance, with a reasonable target of 22–26 mmol/L in selected patients while avoiding overshooting above 28 mmol/L; monitor serum bicarbonate every 3–6 months, along with BP, weight/edema, and potassium, and reassess ongoing need regularly [^871d3d13] [^78fd44ec] [^ff562126]. Hold on, I should verify tolerability: enteric-coated or gastro-resistant formulations may reduce GI side effects and improve adherence in those who cannot tolerate standard tablets, which can matter for long-term therapy [^ddb6b4fa].
+> Next, I should review practical dosing and monitoring if bicarbonate is used. Typical starting doses are 1.2–1.8 g orally three times daily, titrated to effect and tolerance, with a reasonable target of 22–26 mmol/L in selected patients while avoiding overshooting above 28 mmol/L; monitor serum bicarbonate every 3–6 months, along with BP, weight/edema, and potassium, and reassess ongoing need regularly [^114TK9f8] [^1146Nau9] [^117XYmoK]. Hold on, I should verify tolerability: enteric-coated or gastro-resistant formulations may reduce GI side effects and improve adherence in those who cannot tolerate standard tablets, which can matter for long-term therapy [^116fhdhT].
 
-> I should also consider dietary strategies as first-line or adjuncts. Increasing fruits and vegetables can reduce net acid load and raise serum bicarbonate comparably to pharmacologic alkali in some studies, with added benefits on BP and weight, though effects on hard kidney outcomes are less certain and adherence to produce-heavy diets can be challenging; this is reasonable to try before or alongside bicarbonate, especially in patients with sodium-sensitive comorbidities [^480840d9] [^90e98718] [^422d8ab3]. Let me reconsider the strength of evidence: most dietary data are small and heterogeneous, so shared decision-making about feasibility and expected gains is essential [^480840d9].
+> I should also consider dietary strategies as first-line or adjuncts. Increasing fruits and vegetables can reduce net acid load and raise serum bicarbonate comparably to pharmacologic alkali in some studies, with added benefits on BP and weight, though effects on hard kidney outcomes are less certain and adherence to produce-heavy diets can be challenging; this is reasonable to try before or alongside bicarbonate, especially in patients with sodium-sensitive comorbidities [^112qnt5W] [^114hqf4s] [^112h7Upr]. Let me reconsider the strength of evidence: most dietary data are small and heterogeneous, so shared decision-making about feasibility and expected gains is essential [^112qnt5W].
 
-> Putting this together, my synthesis is cautious and individualized. Do not routinely give bicarbonate pills to CKD patients; reserve pharmacologic bicarbonate for those with serum bicarbonate less than 18 mmol/L after confirming persistence and excluding reversible drivers, and consider it case-by-case for 18–22 mmol/L if there are compelling reasons such as symptomatic acidosis, rapid eGFR decline, or protein-energy wasting, while monitoring closely for BP, edema, and GI effects; avoid routine use in older adults with advanced CKD and mild acidosis given BiCARB's neutral or harmful signals [^ff562126] [^4592cc16] [^4d42edf0]. If treatment is pursued, use modest, titratable doses with a treat-to-target approach capped at the normal bicarbonate range, and reassess frequently; if sodium load is problematic, consider veverimer where available or prioritize dietary alkali strategies [^871d3d13] [^bdd29ce6] [^480840d9].
+> Putting this together, my synthesis is cautious and individualized. Do not routinely give bicarbonate pills to CKD patients; reserve pharmacologic bicarbonate for those with serum bicarbonate less than 18 mmol/L after confirming persistence and excluding reversible drivers, and consider it case-by-case for 18–22 mmol/L if there are compelling reasons such as symptomatic acidosis, rapid eGFR decline, or protein-energy wasting, while monitoring closely for BP, edema, and GI effects; avoid routine use in older adults with advanced CKD and mild acidosis given BiCARB's neutral or harmful signals [^117XYmoK] [^112n9THX] [^112yYXbD]. If treatment is pursued, use modest, titratable doses with a treat-to-target approach capped at the normal bicarbonate range, and reassess frequently; if sodium load is problematic, consider veverimer where available or prioritize dietary alkali strategies [^114TK9f8] [^115rRQLD] [^112qnt5W].
 
-> Finally, I should double-check the bottom line and uncertainties. The balance of contemporary evidence shows no consistent benefit of oral bicarbonate on kidney failure or patient-centered outcomes in modern, older, multimorbid CKD populations, and potential harms from sodium load and pill burden are real; therefore, the default should be to avoid routine bicarbonate and reserve it for clearly indicated scenarios with explicit monitoring plans, while we await larger, high-quality RCTs that test dose, target, and patient selection more precisely [^c59b8670] [^3e8dff37] [^1f2f8964].
+> Finally, I should double-check the bottom line and uncertainties. The balance of contemporary evidence shows no consistent benefit of oral bicarbonate on kidney failure or patient-centered outcomes in modern, older, multimorbid CKD populations, and potential harms from sodium load and pill burden are real; therefore, the default should be to avoid routine bicarbonate and reserve it for clearly indicated scenarios with explicit monitoring plans, while we await larger, high-quality RCTs that test dose, target, and patient selection more precisely [^1163xoPd] [^112bjvo8] [^111oEaps].
 
 ---
 
-Give bicarbonate pills to CKD patients when **serum bicarbonate is < 18 mmol/L** [^ff562126] to prevent clinically significant acidosis and slow CKD progression [^d52a7f9e]. Consider treatment at **18–22 mmol/L** if there is rapid eGFR decline, protein-energy wasting, or bone disease, but monitor closely for sodium load effects [^4d42edf0] [^ab86a891]. Do not treat if **bicarbonate is ≥ 22 mmol/L** or if there is uncontrolled hypertension, heart failure, or edema [^4d42edf0] [^ade3836c]. Start with 1.2–1.8 g orally three times daily and titrate to maintain 22–26 mmol/L, monitoring bicarbonate, potassium, and blood pressure at regular intervals [^871d3d13] [^78fd44ec].
+Give bicarbonate pills to CKD patients when **serum bicarbonate is < 18 mmol/L** [^117XYmoK] to prevent clinically significant acidosis and slow CKD progression [^116T2dxq]. Consider treatment at **18–22 mmol/L** if there is rapid eGFR decline, protein-energy wasting, or bone disease, but monitor closely for sodium load effects [^112yYXbD] [^115PJ7Yk]. Do not treat if **bicarbonate is ≥ 22 mmol/L** or if there is uncontrolled hypertension, heart failure, or edema [^112yYXbD] [^115SoH55]. Start with 1.2–1.8 g orally three times daily and titrate to maintain 22–26 mmol/L, monitoring bicarbonate, potassium, and blood pressure at regular intervals [^114TK9f8] [^1146Nau9].
 
 ---
 
@@ -47,9 +47,9 @@ Current guidelines recommend initiating bicarbonate therapy in CKD patients base
 
 | **Serum bicarbonate level** | **Recommendation** | **Rationale** |
 |-|-|-|
-| < 18 mmol/L | Strongly recommended | Prevent clinically significant acidosis and slow CKD progression [^ff562126] [^d52a7f9e] |
-| 18–22 mmol/L | Consider if rapid eGFR decline, protein-energy wasting, or bone disease | Potential benefit on kidney function and complications [^4d42edf0] [^7ec57351] |
-| ≥ 22 mmol/L | Not recommended | No proven benefit; risk of sodium load and adverse effects [^4d42edf0] [^ab86a891] |
+| < 18 mmol/L | Strongly recommended | Prevent clinically significant acidosis and slow CKD progression [^117XYmoK] [^116T2dxq] |
+| 18–22 mmol/L | Consider if rapid eGFR decline, protein-energy wasting, or bone disease | Potential benefit on kidney function and complications [^112yYXbD] [^114Ewm9r] |
+| ≥ 22 mmol/L | Not recommended | No proven benefit; risk of sodium load and adverse effects [^112yYXbD] [^115PJ7Yk] |
 
 ---
 
@@ -57,9 +57,9 @@ Current guidelines recommend initiating bicarbonate therapy in CKD patients base
 
 Several studies and meta-analyses have evaluated the **impact of bicarbonate supplementation** on CKD outcomes:
 
-- **Slowed CKD progression**: Bicarbonate therapy slows eGFR decline and reduces the risk of ESRD in patients with metabolic acidosis [^070b1017] [^d52a7f9e].
-- **Improved nutritional status**: Bicarbonate supplementation improves serum albumin and mid-arm muscle circumference, indicating better nutrition [^d774f9aa] [^635bc720].
-- **Mixed results in older adults**: The BiCARB trial in patients ≥ 60 years with CKD G3–G4 and bicarbonate < 22 mmol/L showed no benefit on physical function or quality of life and more adverse events, suggesting caution in this group [^b5a181e5] [^4d42edf0].
+- **Slowed CKD progression**: Bicarbonate therapy slows eGFR decline and reduces the risk of ESRD in patients with metabolic acidosis [^111BSdVg] [^116T2dxq].
+- **Improved nutritional status**: Bicarbonate supplementation improves serum albumin and mid-arm muscle circumference, indicating better nutrition [^116WRdT7] [^113YJbsm].
+- **Mixed results in older adults**: The BiCARB trial in patients ≥ 60 years with CKD G3–G4 and bicarbonate < 22 mmol/L showed no benefit on physical function or quality of life and more adverse events, suggesting caution in this group [^115eH1Re] [^112yYXbD].
 
 ---
 
@@ -67,11 +67,11 @@ Several studies and meta-analyses have evaluated the **impact of bicarbonate sup
 
 While bicarbonate therapy is generally safe, **clinicians should be aware of the following risks and contraindications**:
 
-- **Sodium load**: Excess sodium can worsen hypertension, edema, and heart failure [^ade3836c] [^ab86a891].
-- **Gastrointestinal side effects**: Nausea, bloating, and abdominal discomfort are common [^7c51732e].
-- **Electrolyte disturbances**: Monitor for hyperkalemia or hypokalemia, especially with other medications [^ff562126].
+- **Sodium load**: Excess sodium can worsen hypertension, edema, and heart failure [^115SoH55] [^115PJ7Yk].
+- **Gastrointestinal side effects**: Nausea, bloating, and abdominal discomfort are common [^114BJpiZ].
+- **Electrolyte disturbances**: Monitor for hyperkalemia or hypokalemia, especially with other medications [^117XYmoK].
 
-Contraindications include **uncontrolled hypertension**, **heart failure**, or **edema** due to sodium load; use caution in older adults with multimorbidity [^4d42edf0] [^b5a181e5].
+Contraindications include **uncontrolled hypertension**, **heart failure**, or **edema** due to sodium load; use caution in older adults with multimorbidity [^112yYXbD] [^115eH1Re].
 
 ---
 
@@ -80,18 +80,18 @@ Contraindications include **uncontrolled hypertension**, **heart failure**, or *
 When initiating bicarbonate therapy, the following practical approach is recommended:
 
 - **Initial dose**: 1.2–1.8 g (15–23 mmol) orally three times daily with meals [^notfound].
-- **Titration**: Adjust dose to maintain serum bicarbonate 22–26 mmol/L, avoiding values > 28 mmol/L [^871d3d13] [^78fd44ec].
+- **Titration**: Adjust dose to maintain serum bicarbonate 22–26 mmol/L, avoiding values > 28 mmol/L [^114TK9f8] [^1146Nau9].
 - **Monitoring**: Check serum bicarbonate, potassium, and blood pressure every 3–6 months, or more frequently if clinically indicated [^notfound].
-- **Alternative strategies**: Consider dietary alkali (fruits and vegetables) or non-sodium alkali (e.g. veverimer) in patients sensitive to sodium load [^480840d9] [^bdd29ce6].
+- **Alternative strategies**: Consider dietary alkali (fruits and vegetables) or non-sodium alkali (e.g. veverimer) in patients sensitive to sodium load [^112qnt5W] [^115rRQLD].
 
 ---
 
 ## Summary of recommendations
 
-- **Initiate bicarbonate therapy** when serum bicarbonate is < 18 mmol/L [^ff562126].
-- **Consider therapy** at 18–22 mmol/L if there is rapid eGFR decline, protein-energy wasting, or bone disease, with close monitoring [^4d42edf0].
-- **Avoid routine use** when bicarbonate is ≥ 22 mmol/L or if there is uncontrolled hypertension, heart failure, or edema [^4d42edf0] [^ade3836c].
-- **Titrate to maintain** 22–26 mmol/L and monitor for adverse effects [^871d3d13] [^78fd44ec].
+- **Initiate bicarbonate therapy** when serum bicarbonate is < 18 mmol/L [^117XYmoK].
+- **Consider therapy** at 18–22 mmol/L if there is rapid eGFR decline, protein-energy wasting, or bone disease, with close monitoring [^112yYXbD].
+- **Avoid routine use** when bicarbonate is ≥ 22 mmol/L or if there is uncontrolled hypertension, heart failure, or edema [^112yYXbD] [^115SoH55].
+- **Titrate to maintain** 22–26 mmol/L and monitor for adverse effects [^114TK9f8] [^1146Nau9].
 
 ---
 
@@ -101,7 +101,7 @@ Bicarbonate pills are indicated in CKD patients with **serum bicarbonate < 18 mm
 
 ## References
 
-### High serum bicarbonate level within the normal range prevents the progression of chronic kidney disease in elderly chronic kidney disease patients [^5d0e9954]. BMC Nephrology (2013). Low credibility.
+### High serum bicarbonate level within the normal range prevents the progression of chronic kidney disease in elderly chronic kidney disease patients [^113Nxkcs]. BMC Nephrology (2013). Low credibility.
 
 Conclusions
 
@@ -109,19 +109,19 @@ Our data showed a possibility that a high serum bicarbonate level within the nor
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^3e8dff37]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112bjvo8]. Kidney International (2024). High credibility.
 
 KDIGO 2024 — Evidence base for treating metabolic acidosis in CKD: The Work Group has not provided a graded recommendation for the treatment of acidosis due to a lack of large-scale RCTs supporting its use. In 2012, a 2B recommendation was justified because alkali supplementation may be a promising low-cost, high-benefit adjunct treatment for people with CKD and may be accessible to all populations. A 2021 systematic review identified 15 trials with ≥ 3 months of follow-up in people with CKD (eGFR < 60 ml/min per 1.73 m2 and/or proteinuria) comparing the effects of oral sodium bicarbonate versus placebo or versus no study medication; of the 15 trials (2445 participants, median follow-up 12 months), 11 were published since 2012, and meta-analyses restricted to the placebo-controlled trials does not confirm any important modifying effect on risk of kidney failure (HR: 0.81; 95% CI: 0.54–1.22).
 
 ---
 
-### Bicarbonate supplementation slows progression of CKD and improves nutritional status [^070b1017]. Journal of the American Society of Nephrology (2009). Low credibility.
+### Bicarbonate supplementation slows progression of CKD and improves nutritional status [^111BSdVg]. Journal of the American Society of Nephrology (2009). Low credibility.
 
 Bicarbonate supplementation preserves renal function in experimental chronic kidney disease (CKD), but whether the same benefit occurs in humans is unknown. Here, we randomly assigned 134 adult patients with CKD (creatinine clearance [CrCl] 15 to 30 ml/min per 1.73 m²) and serum bicarbonate 16 to 20 mmol/L to either supplementation with oral sodium bicarbonate or standard care for 2 yr. The primary end points were rate of CrCl decline, the proportion of patients with rapid decline of CrCl (> 3 ml/min per 1.73 m(2)/yr), and ESRD (CrCl < 10 ml/min). Secondary end points were dietary protein intake, normalized protein nitrogen appearance, serum albumin, and mid-arm muscle circumference. Compared with the control group, decline in CrCl was slower with bicarbonate supplementation (5.93 versus 1.88 ml/min 1.73 m(2); P < 0.0001). Patients supplemented with bicarbonate were significantly less likely to experience rapid progression (9 versus 45%; relative risk 0.15; 95% confidence interval 0.06 to 0.40; P < 0.0001). Similarly, fewer patients supplemented with bicarbonate developed ESRD (6.5 versus 33%; relative risk 0.13; 95% confidence interval 0.04 to 0.40; P < 0.001). Nutritional parameters improved significantly with bicarbonate supplementation, which was well tolerated. This study demonstrates that bicarbonate supplementation slows the rate of progression of renal failure to ESRD and improves nutritional status among patients with CKD.
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^d52a7f9e]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^116T2dxq]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 ADDITIONAL ANALYSIS RELATING SERUM BICARBONATE INCREASE AND REDUCTION OF ESTIMATED GLOMERULAR FILTRATION RATE DECLINE IN PATIENTS TREATED WITH ORAL BICARBONATE SUPPLEMENTATION
 
@@ -129,67 +129,67 @@ The findings of the above prospective studies and the association of better kidn
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^c59b8670]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1163xoPd]. Kidney International (2024). High credibility.
 
 Chronic kidney disease metabolic acidosis — trial evidence and certainty: The Work Group has not provided a graded recommendation for the treatment of acidosis due to a lack of large-scale RCTs supporting its use. In 2012, a 2B recommendation was justified because alkali supplementation may be a promising low-cost, high-benefit adjunct treatment for people with CKD and may be accessible to all populations. A 2021 systematic review identified 15 trials with ≥ 3 months of follow-up in people with CKD (eGFR < 60 ml/min per 1.73 m² and/or proteinuria) comparing the effects of oral sodium bicarbonate versus placebo or versus no study medication on kidney outcomes. Of the 15 trials (2445 participants, median follow-up 12 months), 1 new trial has been published since 2012. The totality of the evidence remains limited by a low number of outcomes, and meta-analyses restricted to the placebo-controlled trials does not confirm any important kidney effect of oral sodium bicarbonate versus placebo on risk of kidney failure (HR: 0.81; 95% CI: 0.54–1.22).
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^c3155b04]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^115zDkzX]. AND (2020). High credibility.
 
 CKD: Bicarbonate supplementation — In adults with CKD 3-5D, we recommend reducing net acid production (NEAP) through increased bicarbonate or a citric acid/sodium citrate solution supplementation (1C) in order to reduce the rate of decline of residual kidney function; rating: Fair Conditional.
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^3570c61e]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^112NEDx1]. DoD/VA (2025). High credibility.
 
 VA/DoD Clinical Practice Guideline — sodium bicarbonate supplementation in chronic kidney disease and metabolic acidosis: We suggest the use of sodium bicarbonate supplementation in patients with chronic kidney disease and metabolic acidosis to slow the progression of chronic kidney disease (2019 CPG strength: Weak for). The 2025 CPG Recommendation Category is N/A – Deleted recommendation.
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^5b4701c9]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^113LKiyN]. AND (2020). High credibility.
 
 Hospitalization outcomes with oral bicarbonate in CKD — evidence summary: "The effects of oral bicarbonate supplements on hospitalization in CKD patients was mixed, where evidence is limited".
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^4e16bbb0]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^112zmfro]. AND (2020). High credibility.
 
 Dietary acid load or oral bicarbonate supplements in CKD — scope of evidence: "Eleven studies examined the association between dietary acid load/oral bicarbonate supplements on health outcomes in the CKD population", including "four RCTs… one NRCT… three non-controlled studies… two prospective cohort studies… and one retrospective cohort study".
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^d774f9aa]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^116WRdT7]. AND (2020). High credibility.
 
 Nutritional status with oral bicarbonate in CKD — benefit signal in several studies: in CKD populations, "oral bicarbonate supplements improved nutritional status (e.g. SGA scores, nPCR, albumin, and prealbumin) in most studies", and supporting study designs included "Two RCTs… and three non-controlled studies… examined the effects of oral bicarbonate supplements on nutritional status in adults with CKD".
 
 ---
 
-### Current status of bicarbonate in CKD [^cda8b604]. Journal of the American Society of Nephrology (2015). Low credibility.
+### Current status of bicarbonate in CKD [^116Fu8XV]. Journal of the American Society of Nephrology (2015). Low credibility.
 
 Metabolic acidosis was one of the earliest complications to be recognized and explained pathologically in patients with CKD. Despite the accumulated evidence of deleterious effects of acidosis, treatment of acidosis has been tested very little, especially with respect to standard clinical outcomes. On the basis of fundamental research and small alkali supplementation trials, correcting metabolic acidosis has a strikingly broad array of potential benefits. This review summarizes the published evidence on the association between serum bicarbonate and clinical outcomes. We discuss the role of alkali supplementation in CKD as it relates to retarding kidney disease progression, improving metabolic and musculoskeletal complications.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^cdd96da5]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^116GBVcg]. BMC Medicine (2020). Medium credibility.
 
 A focus on single disease outcomes may not always be appropriate for older people with multimorbidity; improvements in a single organ domain may be counterbalanced by harms in other systems. Older people consistently rank physical function and quality of life as the most important outcomes and measurement of these outcomes allows the impact of an intervention to be integrated across multiple organ systems. The primary objective of the BiCARB trial was to determine whether oral bicarbonate therapy improves physical function compared to placebo in older people with CKD and mild acidosis. The secondary objectives were to assess the effect of bicarbonate supplementation on health-related quality of life, biochemical markers of CKD, bone and vascular health, adverse events and healthcare costs.
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^2f970f07]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^112DZA78]. AND (2020). High credibility.
 
 CKD: Bicarbonate maintenance — In adults with CKD 3-5D, it is reasonable to maintain serum bicarbonate levels at 24–26 mmol/L (OPINION); rating: Consensus Conditional.
 
 ---
 
-### Should chronic metabolic acidosis be treated in older people with chronic kidney disease? [^025b9a58]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Should chronic metabolic acidosis be treated in older people with chronic kidney disease? [^1114Vk8f]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Metabolic acidosis is common in advanced chronic kidney disease and has been associated with a range of physiological derangements of importance to the health of older people. These include associations with skeletal muscle weakness, cardiovascular risk factors, and bone and mineral disorders that may lead to fragility fractures. Although metabolic acidosis is associated with accelerated decline in kidney function, end-stage renal failure is a much less common outcome in older, frail patients than cardiovascular death. Correction of metabolic acidosis using bicarbonate therapy is commonly employed, but the existing evidence is insufficient to know whether such therapy is of net benefit to older people. Bicarbonate is bulky and awkward to take, may impose additional sodium load with effects on fluid retention and blood pressure, and may cause gastrointestinal side effects. Trial data to date suggest potential benefits of bicarbonate therapy on progression of renal disease and nutrition, but trials have not as yet been published examining the effect of bicarbonate therapy across a range of domains relevant to the health of older people. Fortunately, a number of trials are now underway that should allow us to ascertain whether bicarbonate therapy can improve physical function, quality of life, and vascular, bone and kidney health in older people, and hence decide whether any benefits seen outweigh adverse effects and additional treatment burden in this vulnerable group of patients.
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^f909e57e]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^117NDEyB]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 INCREASING SERUM BICARBONATE SLOWS PROGRESSION OF CHRONIC KIDNEY DISEASE
 
@@ -197,19 +197,19 @@ Five studies have examined the impact of metabolic acidosis treatment with oral 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^ff562126]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117XYmoK]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD guideline — metabolic acidosis practice points: In people with CKD, consider use of pharmacological treatment with or without dietary intervention to prevent development of acidosis with potential clinical implications (e.g., serum bicarbonate < 18 mmol/l in adults). Monitor treatment for metabolic acidosis to ensure it does not result in serum bicarbonate concentrations exceeding the upper limit of normal and does not adversely affect BP control, serum potassium, or fluid status.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1f2f8964]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^111oEaps]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD guideline — delaying CKD progression and managing complications identifies evidence gaps and priorities, noting a paucity of well-designed studies on combination and interventional strategies and specific target values for laboratory abnormalities; it calls to generate more evidence on nutritional therapies (including varying levels of protein restriction with and without supplementation), to test different nutrition regimens in larger, longer-term randomized controlled trials (RCTs), to compare plant-based protein and dietary patterns such as Mediterranean, Okinawan, and DASH versus animal-based protein diets on CKD progression and complications, to evaluate simultaneous versus sequential initiation of an SGLT2 inhibitor and an inhibitor of the aldosterone pathway, to study glucagon-like peptide-1 receptor agonists (GLP-1 RA) for cardiovascular and kidney outcomes (including people without diabetes who are overweight or obese), to assess the impact of correcting metabolic acidosis at different serum bicarbonate levels on diverse outcomes, and to evaluate dietary interventions in specific CKD groups with outcomes including patient-reported outcome measures (PROMs), clinically important cardiovascular and kidney outcomes, and serum potassium concentration.
 
 ---
 
-### Metabolic acidosis is associated with increased risk of adverse kidney outcomes and mortality in patients with non-dialysis dependent chronic kidney disease: an observational cohort study [^13d33ebb]. BMC Nephrology (2021). Medium credibility.
+### Metabolic acidosis is associated with increased risk of adverse kidney outcomes and mortality in patients with non-dialysis dependent chronic kidney disease: an observational cohort study [^111WPijt]. BMC Nephrology (2021). Medium credibility.
 
 Discussion
 
@@ -223,7 +223,7 @@ Despite clinical practice guideline recommendations by Kidney Disease: Improving
 
 ---
 
-### Effects of dietary interventions for metabolic acidosis in chronic kidney disease: a systematic review and meta-analysis [^7c51732e]. Nephrology, Dialysis, Transplantation (2025). Medium credibility.
+### Effects of dietary interventions for metabolic acidosis in chronic kidney disease: a systematic review and meta-analysis [^114BJpiZ]. Nephrology, Dialysis, Transplantation (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -233,13 +233,13 @@ Oral bicarbonate supplementation has been used to correct metabolic acidosis for
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^308901e2]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112ExReR]. Kidney International (2024). High credibility.
 
 KDIGO 2024 chronic kidney disease (CKD) — very low–protein diets with ketoacid analogs: In a trial with fifteen months of strict adherence, very low–protein diets of 0.3 g/kg body weight/d supplemented with 0.125 g/kg body weight/d of ketoacids in people with an average estimated glomerular filtration rate (eGFR) of 18 ml/ min per 1.73 m² at baseline slowed the decline in eGFR, increased bicarbonate, and reduced need for kidney replacement therapy versus a mixed-protein diet of 0.6 g/kg body weight/d; however, a recent pragmatic trial was not able to reproduce these findings, and limitations of ketoacid analogs include high pill burden and high cost.
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^ae965253]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^115TqLY2]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 CONCLUSION
 
@@ -247,7 +247,7 @@ The importance of normalizing serum HCO 3 in CKD patients with metabolic acidosi
 
 ---
 
-### High serum bicarbonate level within the normal range prevents the progression of chronic kidney disease in elderly chronic kidney disease patients [^507ed15d]. BMC Nephrology (2013). Low credibility.
+### High serum bicarbonate level within the normal range prevents the progression of chronic kidney disease in elderly chronic kidney disease patients [^1134Lc9z]. BMC Nephrology (2013). Low credibility.
 
 Background
 
@@ -259,13 +259,13 @@ At present, the National Kidney Foundation Kidney Disease Outcomes Quality Initi
 
 ---
 
-### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^871d3d13]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^114TK9f8]. American Journal of Kidney Diseases (2020). High credibility.
 
 Guideline 6: Electrolytes — acid load management and bicarbonate maintenance in adults with chronic kidney disease (CKD) provides the following statements. In adults with CKD 1–4, we suggest reducing net acid production (NEAP) through increased dietary intake of fruits and vegetables (2C) in order to reduce the rate of decline of residual kidney function. In adults with CKD 3-5D, we recommend reducing net acid production (NEAP) through increased bicarbonate or a citric acid/sodium citrate solution supplementation (1C) in order to reduce the rate of decline of residual kidney function. In adults with CKD 3-5D, we suggest that adults with CKD 3-5D maintain serum bicarbonate levels at 24–26 mmol/ L (OPINION). Eleven studies examined the association between dietary acid load/oral bicarbonate supplements on health outcomes in the CKD population.
 
 ---
 
-### Correction of chronic metabolic acidosis for chronic kidney disease patients [^45613627]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
+### Correction of chronic metabolic acidosis for chronic kidney disease patients [^112mroH8]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
 
 Background
 
@@ -297,7 +297,7 @@ The evidence for the benefits and risks of correcting metabolic acidosis is very
 
 ---
 
-### Sodium bicarbonate supplements for treating acute kidney injury [^1992f075]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Sodium bicarbonate supplements for treating acute kidney injury [^111ev3et]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -329,7 +329,7 @@ We found no RCT evidence - supportive or otherwise - for the use of sodium bicar
 
 ---
 
-### Diets for patients with chronic kidney disease, should we reconsider? [^6beec992]. BMC Nephrology (2016). Low credibility.
+### Diets for patients with chronic kidney disease, should we reconsider? [^113m1t7B]. BMC Nephrology (2016). Low credibility.
 
 In another analysis, values of dietary acid generation were obtained from the 24-h dietary recall questionnaire used in the National Health and Nutrition (NHANES III) Trial. In the 1468 adults with CKD participating in this evaluation during 14.2 years, 311 participants developed ESRD. The risk of ESRD was increased in patients expressing higher levels of dietary acid generation yielding a relative hazard ratio of 3.04 (C. I.; 1.58 to 5.86) for patients with the greatest degree of acid production.
 
@@ -337,7 +337,7 @@ Identification of the associations between metabolic acidosis and the progressio
 
 ---
 
-### Relationship between mortality and use of sodium bicarbonate at the time of dialysis initiation: a prospective observational study [^f280bd9f]. BMC Nephrology (2021). Medium credibility.
+### Relationship between mortality and use of sodium bicarbonate at the time of dialysis initiation: a prospective observational study [^117CXFGa]. BMC Nephrology (2021). Medium credibility.
 
 Introduction
 
@@ -349,37 +349,37 @@ In the present study, we aimed to investigate the effect of oral sodium bicarbon
 
 ---
 
-### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^57f46bfa]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^113FQ2Em]. American Journal of Kidney Diseases (2020). High credibility.
 
 Nutritional status with bicarbonate supplementation in CKD — among patients with CKD stages 3–5, including those on maintenance dialysis, oral bicarbonate supplements improved nutritional status in most studies, affecting subjective global assessment (SGA) scores, normalized protein catabolic rate (nPCR), and albumin and prealbumin levels; except for one study, the other three observed positive effects on serum albumin or prealbumin levels.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^4592cc16]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112n9THX]. Kidney International (2024). High credibility.
 
 KDIGO 2024 — Metabolic acidosis management in chronic kidney disease (CKD): In people with CKD, consider use of pharmacological treatment with or without dietary intervention to prevent development of acidosis with potential clinical implications (e.g., serum bicarbonate < 18 mmol/l in adults). Monitor treatment for metabolic acidosis to ensure it does not result in serum bicarbonate concentrations exceeding the upper limit of normal and does not adversely affect BP control, serum potassium, or fluid status.
 
 ---
 
-### Metabolic acidosis and kidney disease: does bicarbonate therapy slow the progression of CKD? [^c28076c3]. Nephrology, Dialysis, Transplantation (2012). Low credibility.
+### Metabolic acidosis and kidney disease: does bicarbonate therapy slow the progression of CKD? [^115yMkMG]. Nephrology, Dialysis, Transplantation (2012). Low credibility.
 
 Metabolic acidosis is a common complication associated with progressive loss of kidney function. The diminishing ability of the kidneys to maintain acid-base homeostasis results in acid accumulation, leading to various complications such as impairment in nutritional status, worsened uremic bone disease and an association with increased mortality. In addition to these adverse effects which are related to acid retention, metabolic acidosis may also cause kidney damage, possibly through the stimulation of adaptive mechanisms aimed at maintaining acid-base homeostasis in the face of decreasing kidney function. Recent clinical trials have suggested that correction or prevention of metabolic acidosis by alkali administration is able to attenuate kidney damage and to slow progression of chronic kidney disease (CKD), and may hence offer an effective, safe and affordable renoprotective strategy. We review the physiology and pathophysiology of acid-base homeostasis in CKD, the mechanisms whereby metabolic acidosis may be deleterious to kidney function, and the results of clinical trials suggesting a benefit of alkali therapy, with special attention to details related to the practical implementation of the results of these trials.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^f09021f9]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^1179eSZn]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in chronic kidney disease — research gaps in diet and activity are highlighted: there is controversy about accuracy of assessing sodium intake using random spot urine, and additional research is required on sodium-intake assessment methods and health impacts of very low-sodium intakes in chronic kidney disease (CKD); small single-center trials of chronic oral sodium bicarbonate versus placebo have not found changes in blood pressure (BP), raising the possibility that the accompanying anion may influence the BP response and that future research is required to determine such relationships; in the general population, potassium-containing salt substitutes lower BP, but persons with CKD have been systematically excluded from these trials and some observational CKD data associate higher potassium intake with higher risk of CKD progression and cardiovascular (CV) disease, so whether potassium-containing salt substitutes have health benefits or unique risks in CKD requires future study; persons of African ancestry are disproportionately represented in CKD, and reviews suggest larger BP reductions from sodium restriction in African and Asian ancestry compared to Caucasians, yet whether such racial differences apply in CKD is uncertain and should be evaluated; there is a paucity of data to identify which CKD patients gain the greatest or least BP benefit — or risk harm — from physical activity interventions, and algorithms to tailor physical activity intensity and supervision are needed; in countries where iodine supplements are added to salt, future studies are required to determine whether sodium restriction in CKD may contribute to iodine deficiency.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^4d42edf0]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112yYXbD]. Kidney International (2024). High credibility.
 
 Chronic kidney disease (CKD) metabolic acidosis — adult oral sodium bicarbonate: In adults with CKD G3–G4 aged ≥ 60 years and serum bicarbonate < 22 mmol/l, the BICARB trial found "no evidence of benefit on nonkidney outcomes" and reported kidney failure outcomes with "HR: 0.97; 95% CI: 0.64–1.49", while "allocation to oral sodium bicarbonate was associated with higher costs and lower… EQ-5D-3L… QoL over 1 year". For treatment thresholds, "It is generally accepted that a serum bicarbonate of < 18 mmol/l in adults is desirable to avoid", and because "correction of bicarbonate to the normal range has not been demonstrated to reduce the risk of kidney failure", "lower thresholds to initiate therapy than 18 mmol/l could be considered".
 
 ---
 
-### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^de0aeddd]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^116gBvUk]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Discussion
 
@@ -389,13 +389,13 @@ According to the 2024 Kidney Disease Improving Global Outcomes guidelines, indiv
 
 ---
 
-### What should define optimal correction of metabolic acidosis in chronic kidney disease? [^55a5e1a9]. Seminars in Dialysis (2010). Low credibility.
+### What should define optimal correction of metabolic acidosis in chronic kidney disease? [^113Byfax]. Seminars in Dialysis (2010). Low credibility.
 
 Correction of metabolic acidosis is an important goal in the management of patients with chronic kidney disease (CKD). However, there is no consensus as to what constitutes an optimal correction of metabolic acidosis in this setting - various expert groups from around the world have set different goals for serum bicarbonate levels for patients with CKD. Accumulating evidence seems to indicate that achieving an arterial pH closer to the upper limit of the reference range may have even greater benefits than maintaining the arterial pH closer to the lower limit of the reference range. This benefit seems to be particularly relevant for patients with protein-energy wasting and we present a review of the evidence that supports this argument. Routine measurement of arterial pH, however, is not feasible in clinical practice; using the Henderson equation, a high-normal arterial pH is generally expected to be associated with a serum bicarbonate level of 24–30 mEq/l and should be the therapeutic goal for chronic kidney disease patients with protein-energy wasting.
 
 ---
 
-### Diets for patients with chronic kidney disease, should we reconsider? [^422d8ab3]. BMC Nephrology (2016). Low credibility.
+### Diets for patients with chronic kidney disease, should we reconsider? [^112h7Upr]. BMC Nephrology (2016). Low credibility.
 
 Fig. 1
 Diet enriched in fruits and vegetables in amounts was administered in order to reduce dietary acid load by 50%. Patients with stage 2 CKD who received this dietary intervention for 30 days experienced significant improvements in the potential renal acid load, 8-h urine net acid excretion, urine albumin-to-creatinine ratio and urine TGF-β. Abbreviations: CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; TGF-β, transforming growth factor β. Results from Goraya et al.
@@ -404,25 +404,25 @@ These reports are encouraging for several reasons. Firstly, there is evidence th
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^f1ef1a0a]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117BgKzZ]. Kidney International (2024). High credibility.
 
 Regarding medical management for chronic kidney disease, more specifically with respect to management of electrolyte derangements, KDIGO 2024 guidelines recommend to consider initiating pharmacotherapy with or without dietary intervention to prevent development of acidosis with potential clinical implications (serum bicarbonate < 18 mmol/L) in adult patients with CKD.
 
 ---
 
-### Treatment of metabolic acidosis in patients with CKD [^feba6f03]. American Journal of Kidney Diseases (2014). Low credibility.
+### Treatment of metabolic acidosis in patients with CKD [^117WeUbk]. American Journal of Kidney Diseases (2014). Low credibility.
 
 Metabolic acidosis is a common complication of chronic kidney disease and is believed to contribute to a number of sequelae, including bone disease, altered protein metabolism, skeletal muscle wasting, and progressive glomerular filtration rate loss. Small trials in animal models and humans suggest a role for alkali therapy to lessen these complications. Recent studies support this notion, although more definitive evidence is needed on the long-term benefits of alkali therapy and the optimal serum bicarbonate level. The role of dietary modification also should be given greater consideration. In addition, potential adverse effects of alkali treatment must be taken into consideration, including sodium retention and the theoretical concern of promoting vascular calcification. This teaching case summarizes the rationale for and benefits and complications of base therapy in patients with chronic kidney disease.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^017c3c75]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1113Cibe]. Kidney International (2024). High credibility.
 
 Metabolic acidosis in CKD — In people with CKD, consider use of pharmacological treatment with or without dietary intervention to prevent development of acidosis with potential clinical implications (e.g., serum bicarbonate < 18 mmol/l in adults), and monitor treatment to ensure serum bicarbonate does not exceed the upper limit of normal and does not adversely affect BP control, serum potassium, or fluid status.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^8499d459]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^114Pb33E]. BMC Medicine (2020). Medium credibility.
 
 Conclusions
 
@@ -432,13 +432,13 @@ Our results suggest that at least for patients aged 60 and over with CKD GFR cat
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^93a78eb9]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114muTi8]. Kidney International (2024). High credibility.
 
 Metabolic acidosis management in CKD — In people with CKD, consider use of pharmacological treatment with or without dietary intervention to prevent development of acidosis with potential clinical implications (e.g., serum bicarbonate < 18 mmol/l in adults), and monitor treatment for metabolic acidosis to ensure it does not result in serum bicarbonate concentrations exceeding the upper limit of normal and does not adversely affect BP control, serum potassium, or fluid status.
 
 ---
 
-### Acidosis and progression of chronic kidney disease [^dd435ab2]. Current Opinion in Nephrology and Hypertension (2010). Low credibility.
+### Acidosis and progression of chronic kidney disease [^116f2tSu]. Current Opinion in Nephrology and Hypertension (2010). Low credibility.
 
 Purpose Of Review
 
@@ -454,25 +454,25 @@ In light of these recent studies, it appears that this cheap and simple strategy
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^4d9979e9]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^112z3bf6]. Kidney International (2024). High credibility.
 
 Dietary protein restriction in chronic kidney disease — very low–protein diets and ketoacid analog supplementation: Fifteen months of strict adherence to vegetarian very low–protein diets of 0.3 g/kg body weight/d supplemented with 0.125 g/kg body weight/d of ketoacids in people with an average eGFR of 18 ml/ min per 1.73 m2 at baseline slowed the decline in eGFR, increased bicarbonate levels, and reduced the need for KRT compared with a mixed-protein diet of 0.6 g/kg body weight/d; however, a recent pragmatic trial was not able to reproduce these findings. In a meta-analysis, 12 studies reported no evidence of malnutrition while 3 studies reported small numbers with worsening nutritional status, and the estimated average requirement for adults is approximately 0.5–0.6 g/kg body weight/d. Malnutrition may arise if protein reduction is accompanied by reduced energy intake, which may be preventable with adequate patient education on food choices and close supervision by renal dietitians or accredited nutrition specialists.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^c18cb699]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^115wwshr]. Kidney International (2024). High credibility.
 
 Chronic kidney disease (CKD) with metabolic acidosis — adult oral sodium bicarbonate and dietary strategies are characterized as follows: The BiCARB trial contributed 33 of 152 versus 33 of 148 kidney failure outcomes to the meta-analysis in its bicarbonate versus placebo arms, respectively (HR: 0.97; 95% CI: 0.64–1.49), and in CKD G3–G4 aged ≥ 60 years with sodium bicarbonate concentration < 22 mmol/l found no evidence of benefit on nonkidney outcomes; allocation to oral sodium bicarbonate was associated with higher costs and lower EQ-5D-3L associated QoL over 1 year. Placebo-controlled trials have found no good evidence that correcting sodium bicarbonate levels has good effects on clinical outcomes, but the intervention is clearly effective at increasing serum bicarbonate concentration and is associated with a reduced tendency to severe acidosis with sodium bicarbonate therapy; because correction to the normal range has not been demonstrated to reduce the risk of kidney failure, lower thresholds to initiate therapy than 18 mmol/l could be considered. Dietary modifications that limit acid-rich foods and/or increase alkaline-rich foods serve as an effective additional strategy to control metabolic acidosis, and several small RCTs of alkaline-rich plant-based diets in adults with CKD demonstrate a comparable benefit to oral sodium bicarbonate in controlling metabolic acidosis.
 
 ---
 
-### Bicarbonate therapy for prevention of chronic kidney disease progression [^c059d8b6]. Kidney International (2014). Low credibility.
+### Bicarbonate therapy for prevention of chronic kidney disease progression [^115vAoTb]. Kidney International (2014). Low credibility.
 
 Kidney injury in chronic kidney disease (CKD) is likely multifactorial, but recent data support that a component is mediated by mechanisms used by the kidney to increase acidification in response to an acid challenge to systemic acid-base status. If so, systemic alkalization might attenuate this acid-induced component of kidney injury. An acid challenge to systemic acid-base status increases nephron acidification through increased production of endothelin, aldosterone, and angiotensin II, each of which can contribute to kidney inflammation and fibrosis that characterizes CKD. Systemic alkalization that ameliorates an acid challenge might attenuate the contributions of angiotensin II, endothelin, and aldosterone to kidney injury. Some small clinical studies support the efficacy of alkalization in attenuating kidney injury and slowing glomerular filtration rate decline in CKD. This review focuses on the potential that orally administered NaHCO₃ prevents CKD progression and additionally addresses its mechanism of action, side effects, possible complications, dosage, interaction, galenic form description, and contraindications. Current National Kidney Foundation guidelines recommend oral alkali, including NaHCO₃(-), in CKD patients with serum HCO₃(-) < 22 mmol/l. Although oral alkali can be provided by other medications and by base-inducing dietary constituents, oral NaHCO₃ will be the focus of this review because of its relative safety and apparent efficacy, and its comparatively low cost.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^488a206a]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^112rYWDP]. BMC Medicine (2020). Medium credibility.
 
 Background
 
@@ -482,7 +482,7 @@ Oral sodium bicarbonate has been used for decades to counteract metabolic acidos
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^1065133c]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^111RJkcT]. BMC Medicine (2020). Medium credibility.
 
 A number of other trials of bicarbonate therapy are currently in progress or have just been published. These trials target a range of severities of CKD (categories 3b to 5), a range of entry serum bicarbonate concentrations and for two of the trials, a strategy of dose adjustment to keep serum bicarbonate > 24 mmol/L is employed. None of these trials targets older people as a specific group however. The large UBI trial, based in Italy, randomised 795 individuals with CKD stage 3b or 4 to usual care or a strategy of bicarbonate treatment to a target of 24–28 mmol/L. The mean dose required to reach this serum bicarbonate concentration (some 3–4 mmol/L higher than in the usual care arm) was 6 g/day of sodium bicarbonate — much higher than used in the BiCARB trial. The UBI trial showed a significant reduction in the rate of progression of CKD, death and dialysis commencement in the bicarbonate arm compared to usual care. Patients in this trial were slightly younger (mean age 67 years) and had considerably better renal function (mean eGFR of 36 mL/min/1.73 m 2), but the trial was not placebo-controlled or blinded. In contrast, a smaller (n = 149) placebo-controlled randomised trial in patients with CKD stages 3 and 4 with similar baseline eGFR found a 1–2-mmol/L increase in serum bicarbonate concentration in the treatment arm compared to placebo, using a dose equivalent to between 2 and 2.5 g per day of sodium bicarbonate. Similar to the findings of the BiCARB trial, there was no effect of bicarbonate supplementation on eGFR, muscle function, blood pressure or quality of life.
 
@@ -490,13 +490,13 @@ Recent trial data suggests that the new hydrochloric acid binder veverimer can s
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^f4a75bd3]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^117FiCAv]. BMC Medicine (2020). Medium credibility.
 
 The original target for recruitment for this trial (380 participants) was not reached despite recruiting from 27 UK sites. This was in part due to a lack of clinical equipoise; surveys performed by the trial team during the trial suggested that most UK nephrologists were treating patients with serum bicarbonate concentrations < 22 mmol/L with bicarbonate already, thus reducing the pool of eligible participants. It is possible that those most likely to respond to bicarbonate supplementation were already taking bicarbonate as part of routine clinical practice, thus further diluting the effect of the intervention. The dropout rate in the trial was considerable and slightly higher than the 10% per 6-month follow-up that we anticipated. Such a dropout rate is not unexpected given the high levels of multimorbidity and frailty in this patient population. Although dropout reduces the power of the trial to detect significant treatment effects, this is mitigated to some extent by our use of mixed models with repeated measures for the secondary analyses, which use all available data and effectively impute missing values. Thus, despite the lower than planned sample size, and the lower than anticipated availability of primary outcome data at 12 months, our results exclude the minimum clinically important improvement in the primary outcome with a high degree of confidence. Some investigators have proposed a smaller minimum clinically important difference of 0.5 points for the SPPB; our results also exclude this improvement with a high degree of confidence. Although the trial was designed to have adequate power for the primary outcome and for the EQ-5D outcome, it was not powered to detect clinically important differences in the rate of deterioration of renal function, or for rates of commencing dialysis. We were unable to include the costs of every other medication used in the cost-effectiveness analysis, which could potentially lead to over- or underestimation of cost-effectiveness. Given the higher number of adverse events in the bicarbonate group (which would be expected to require additional drugs to treat), it is more likely that additional medication costs would be higher in the bicarbonate arm, further reducing the likelihood that bicarbonate is cost-effective.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^b5a181e5]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^115eH1Re]. BMC Medicine (2020). Medium credibility.
 
 Background
 
@@ -520,19 +520,19 @@ European Clinical Trials Database (2011-005271-16) and; registered 17 February 2
 
 ---
 
-### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^78fd44ec]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^1146Nau9]. American Journal of Kidney Diseases (2020). High credibility.
 
 Guideline 6: Electrolytes — Acid load management in adults with chronic kidney disease (CKD) states that in CKD 1–4, we suggest reducing net acid production (NEAP) through increased dietary intake of fruits and vegetables (2C) in order to reduce the rate of decline of residual kidney function; in CKD 3-5D, we recommend reducing NEAP through increased bicarbonate or a citric acid/sodium citrate solution supplementation (1C) in order to reduce the rate of decline of residual kidney function; and in CKD 3-5D, it is reasonable to maintain serum bicarbonate levels at 24–26 mmol/L (OPINION).
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^683a59d2]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^113fXK5K]. DoD/VA (2025). High credibility.
 
 Appendix I — Monitoring of CKD: Bicarbonate measurement is indicated when it will impact therapeutic decision-making, and it is likely to be reported when eGFR or potassium are monitored.
 
 ---
 
-### A basic solution for a complex problem: does treatment of metabolic acidosis slow CKD progression? [^610a6357]. Current Opinion in Nephrology and Hypertension (2024). Medium credibility.
+### A basic solution for a complex problem: does treatment of metabolic acidosis slow CKD progression? [^113UsHiE]. Current Opinion in Nephrology and Hypertension (2024). Medium credibility.
 
 Purpose Of This Review
 
@@ -548,13 +548,13 @@ The current body of literature does not support the routine treatment of metabol
 
 ---
 
-### Bicarbonate therapy in end-stage renal disease: current practice trends and implications [^d7976759]. Seminars in Dialysis (2015). Low credibility.
+### Bicarbonate therapy in end-stage renal disease: current practice trends and implications [^116WdCAt]. Seminars in Dialysis (2015). Low credibility.
 
 Management of metabolic acidosis covers the entire spectrum from oral bicarbonate therapy and dietary modifications in chronic kidney disease to delivery of high doses of bicarbonate-based dialysate during maintenance haemodialysis (MHD). Due to the gradual depletion of the body's buffers and rapid repletion during MHD, many potential problems arise as a result of our current treatment paradigms. Several studies have given rise to conflicting data about the adverse effects of our current practice patterns in MHD. In this review, we will describe the pathophysiology and consequences of metabolic acidosis and its therapy in CKD and ESRD, and discuss current evidence supporting a more individualized approach for bicarbonate therapy in MHD.
 
 ---
 
-### Short-and long-term effects of alkali therapy in chronic kidney disease: a systematic review [^1f070bc5]. American Journal of Nephrology (2012). Low credibility.
+### Short-and long-term effects of alkali therapy in chronic kidney disease: a systematic review [^111nzz1A]. American Journal of Nephrology (2012). Low credibility.
 
 Background
 
@@ -574,19 +574,19 @@ Alkali therapy is associated with an improvement in kidney function, which may a
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^3721f910]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^112QjjM1]. BMC Medicine (2020). Medium credibility.
 
 A number of limitations require further comment. Given the modest increase in serum bicarbonate seen with the dosing schedule used in this trial, it is possible that larger doses of oral bicarbonate are required to increase serum bicarbonate in older people with CKD, although the mechanisms that might underpin such a hypothesis are unclear. Whilst such an approach would be of mechanistic interest, we do not believe that higher doses (more than the six tablets per day) would be well tolerated by older people; the adherence rate would likely be even lower than the moderate adherence rate observed in the current trial. The higher rate of adverse events in the bicarbonate arm, particularly gastrointestinal adverse events, slightly lower physical function measures and lack of a relationship between adherence and treatment effect size, all argue that a higher dose of bicarbonate is unlikely to produce health benefits in this patient group. We cannot exclude a potentially beneficial effect of bicarbonate in different groups of patients with CKD, however. In particular, the current trial enrolled an overwhelmingly white European population. CKD of different aetiologies may respond differently and may explain some of the heterogeneity seen in one recent systematic review.
 
 ---
 
-### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^480840d9]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for nutrition in CKD: 2020 update [^112qnt5W]. American Journal of Kidney Diseases (2020). High credibility.
 
 High fruit and vegetable dietary pattern — CKD progression shows that in adults with CKD stages 3–4, effects on estimated glomerular filtration rate (eGFR) are mixed when compared with oral bicarbonate supplementation.
 
 ---
 
-### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^635bc720]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^113YJbsm]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Moreover, sodium bicarbonate supplementation significantly increased serum albumin and MAMC. MA accelerates protein catabolism and decreases muscle mass. Correction of MA would attenuate protein degradation, thereby facilitating an increase in serum albumin level and MAMC, an index of muscle mass.
 
@@ -598,13 +598,13 @@ In conclusion, oral sodium bicarbonate supplementation may improve kidney functi
 
 ---
 
-### Approach to the treatment of chronic metabolic acidosis in CKD [^1876d09c]. American Journal of Kidney Diseases (2016). Low credibility.
+### Approach to the treatment of chronic metabolic acidosis in CKD [^111dGcTu]. American Journal of Kidney Diseases (2016). Low credibility.
 
 Chronic metabolic acidosis is not uncommon in patients with chronic kidney disease (CKD). Clinical practice guidelines suggest that clinicians administer alkali to maintain serum bicarbonate level at a minimum of 22 mEq/L to prevent the effects of acidosis on bone demineralization and protein catabolism. Small interventional studies support the notion that correcting acidosis slows CKD progression as well. Furthermore, alkaline therapy in persons with CKD and normal bicarbonate levels may also preserve kidney function. Observational studies suggest that targeting a serum bicarbonate level near 28 mEq/L may improve clinical outcomes above and beyond targeting a value ≥ 22 mEq/L, yet values > 26 mEq/L have been reported to be associated with incident heart failure and mortality in the CRIC (Chronic Renal Insufficiency Cohort) Study. Furthermore, correcting acidosis may provoke vascular calcification. This teaching case discusses several uncertainties regarding the management of acidosis in CKD, such as when to initiate alkali treatment, potential side effects of alkali, and the optimum serum bicarbonate level based on current evidence in CKD. Suggestions regarding the maximum sodium bicarbonate dose to administer to patients with CKD to achieve the target serum bicarbonate concentration are offered.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^f147001d]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^117Ahs7i]. BMC Medicine (2020). Medium credibility.
 
 Discussion
 
@@ -618,19 +618,19 @@ Important strengths of this trial were its large size in comparison to previous 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^8ba5ea34]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114a31TH]. Kidney International (2024). High credibility.
 
 Regarding medical management for chronic kidney disease, more specifically with respect to management of electrolyte derangements, KDIGO 2024 guidelines recommend to monitor treatment for metabolic acidosis to ensure it does not result in serum bicarbonate concentrations exceeding the ULN and does not adversely affect BP control, serum potassium, or fluid status.
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^d0b009e5]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^116LPZ8G]. AND (2020). High credibility.
 
 Chronic kidney disease (CKD) metabolic acidosis — In dialysis, the oral bicarbonate group had higher overall SGA scores starting at 24 weeks (p-value < 0.0003). In CKD 4–5 pre-dialysis, the oral sodium bicarbonate group had significant lower nPNA (nPCR) at 12 and 24 months (p < 0.05) and significant higher serum albumin at 12 and 24 months (p < 0.05). In a group of CKD 5 hemodialysis patients, there was no significant difference in serum albumin among time points (p > 0.05), whereas in CKD 5 hemodialysis, oral sodium bicarbonate increased serum albumin level (p = 0.01). It should also be noted that high dialysate bicarbonate concentrations are associated with increased mortality in observational studies. Among CKD 4–5 pre-dialysis, oral sodium bicarbonate increased both serum albumin and prealbumin levels between before and after intervention (p < 0.05). Among CKD 1–2 compared to control and HCO3, the fruit and vegetable group had significantly greater decrease in body weight at the end of the intervention for both individuals with CKD 1–2 (p < 0.05 for both), with no difference between HCO3 and control. Thus there does not appear to be a significant effect of reduction in NEAP on nutritional status in patients with CKD 1–2. In CKD 4 compared to CKD 3, the FV group had lower weight at 1-year follow up (p < 0.01), and baseline weight did not differ between the two groups (p = 0.24). In CKD 3, fruits and vegetables had greater net body weight loss than both HCO3 and control (p < 0.05), and the control group had greater net body weight loss than the HCO3 group (p < 0.05). The evidence supporting the recommendations on dietary management of NEAP with fruits and vegetables and bicarbonate supplementation is based on Grade III /Grade C evidence, and the recommendation regarding bicarbonate maintenance based on Consensus/expert opinion.
 
 ---
 
-### Bicarbonate for chronic kidney disease and acidosis… [^9324eac1]. isrctn.com (2025). Medium credibility.
+### Bicarbonate for chronic kidney disease and acidosis… [^114m9adN]. isrctn.com (2025). Medium credibility.
 
 pressure, fluid retention and having to take extra tablets). We therefore aim to test whether taking daily bicarbonate tablets improves physical function, quality of life, bone and blood vessel health in patients with advanced chronic kidney disease and high levels of acid in the blood. Who can participate. People aged 60 and over who have advanced chronic kidney disease, but who are not on dialysis. Participant information sheet Not available in web format, please use the contact details below to request a patient information sheet Condition Chronic kidney disease Interventions Oral sodium bicarbonate 500 mg three times a day, rising to 1 g three times a day or matching placebo Intervention Type. very large doses) 4. On renal replacement therapy
 5. Anticipated to start renal replacement therapy within 3 months 6. Severe cognitive impairment precluding written informed consent
@@ -651,7 +651,7 @@ Severe cognitive impairment precluding written informed consent 7. Participant w
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^a1eddd11]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^11594uKv]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -667,7 +667,7 @@ Metabolic acidosis appears to enhance CKD progression and its treatment should b
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^98fd79b7]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^114upFwC]. BMC Medicine (2020). Medium credibility.
 
 Strengths and weaknesses in relation to other studies
 
@@ -675,25 +675,25 @@ Given the association between metabolic acidosis and a range of adverse outcomes
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^310702af]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^112FgkPG]. AND (2020). High credibility.
 
 CKD 5 maintenance hemodialysis (MHD) risks — In MHD patients, higher bicarbonate in the dialysate bath is associated with increased mortality in epidemiological studies, and MHD patients with either very low bicarbonate or very high predialysis bicarbonate concentrations are at the greatest mortality risk.
 
 ---
 
-### Tolerance to sodium in patients with CKD-induced metabolic acidosis: does the accompanying anion matter? [^ade3836c]. American Journal of Kidney Diseases (2019). Medium credibility.
+### Tolerance to sodium in patients with CKD-induced metabolic acidosis: does the accompanying anion matter? [^115SoH55]. American Journal of Kidney Diseases (2019). Medium credibility.
 
 Patients with chronic kidney disease (CKD) continue to produce endogenous acids but have a reduction in net acid excretion, resulting in a primary decrease in serum bicarbonate concentration, which is termed chronic metabolic acidosis. Recent prospective studies, along with retrospective cohort analyses, demonstrate a higher risk for CKD progression with untreated metabolic acidosis. To normalize serum bicarbonate levels, acidemic patients are often treated with sodium bicarbonate (NaHCO 3) or sodium citrate, which have been shown to slow the progression of CKD. However, studies using this approach have routinely excluded patients with common sodium-sensitive comorbid conditions, such as poorly controlled hypertension, congestive heart failure, volume overload, or edema. This article examines the effect of the anion that accompanies sodium delivered with these therapies. Do the negative effects on blood pressure (BP) and sodium retention, as measured by an increase in edema, weight gain, and congestive heart failure, observed with oral administration of sodium chloride (NaCl) differ when a similar amount of sodium is given with bicarbonate or citrate in this patient population? A review of the literature suggests that NaHCO 3 does not increase BP or sodium retention when administered to patients with CKD during a concurrent severe NaCl dietary restriction (∼10 mEq/d). However, this degree of NaCl restriction is feasible only under strict control in clinical research environments. In contrast, when NaHCO 3 is given to patients without severe dietary NaCl restriction, there is an increase in BP and sodium retention. Thus, unless patients with CKD can tolerate a diet virtually devoid of NaCl, additional sodium, regardless of the accompanying anion, appears to increase BP and sodium retention.
 
 ---
 
-### The choice of dialysate bicarbonate: do different concentrations make a difference? [^3effe810]. Kidney International (2016). Low credibility.
+### The choice of dialysate bicarbonate: do different concentrations make a difference? [^112cQBw5]. Kidney International (2016). Low credibility.
 
 Metabolic acidosis is a common complication of chronic kidney disease; it is typically caused by the accumulation of sulfate, phosphorus, and organic anions. Metabolic acidosis is correlated with several adverse outcomes, such as morbidity, hospitalization, and mortality. Thus, correction of metabolic acidosis is fundamental for the adequate management of many systemic complications of chronic kidney disease. In patients undergoing hemodialysis, acid-base homeostasis depends on many factors including the following: net acid production, amount of alkali given by the dialysate bath, duration of the interdialytic period, and residual diuresis, if any. Recent literature data suggest that the development of metabolic alkalosis after dialysis may contribute to adverse clinical outcomes. Our review is focused on the potential effects of different dialysate bicarbonate concentrations on hard outcomes such as mortality. Unfortunately, no randomized studies exist about this issue. Acid-base equilibrium is a complex and vital system whose regulation is impaired in chronic kidney disease. We await further studies to assess the extent to which acid-base status is a major determinant of overall survival in patients undergoing hemodialysis. For the present, the clinician should understand that target values for predialysis serum bicarbonate concentration have been established primarily based on observational studies and expert opinion. Based on this, we should keep the predialysis serum bicarbonate level at least at 22 mmol/l. Furthermore, a specific focus should be addressed by the attending nephrologist to the clinical and nutritional status of the major outliers on both the acid and alkaline sides of the curve.
 
 ---
 
-### Effects of veverimer on serum bicarbonate and physical function in women with chronic kidney disease and metabolic acidosis: a subgroup analysis from a randomised, controlled trial [^bdd29ce6]. BMC Nephrology (2022). Medium credibility.
+### Effects of veverimer on serum bicarbonate and physical function in women with chronic kidney disease and metabolic acidosis: a subgroup analysis from a randomised, controlled trial [^115rRQLD]. BMC Nephrology (2022). Medium credibility.
 
 Metabolic acidosis in patient with CKD is currently managed on the principles of decreasing metabolic acid production by increasing dietary base-producing (e.g. vegetables and fruits) and/or by neutralizing acid with supplemental alkali salts such as sodium bicarbonate. Based on evidence that chronic metabolic acidosis is harmful to multiple organs and systems including muscle, bone, kidneys, and heart, the international practice guidelines for nephrology (KDIGO) recommends treating patients with CKD when the serum bicarbonate is < 22 mmol/L. The National Kidney Foundation's Kidney Disease Outcomes Quality Initiative (KDOQI) also states that a reasonable target for serum bicarbonate is between 24 and 26 mmol/L. Even with these guideline suggestions, the percentage of patients currently treated with alkali salts is low. As an example, in the well-described cohort from the Chronic Renal Insufficiency Cohort study, only 2.7% of patients were treated with alkali despite a serum bicarbonate < 22 mmol/L. Sodium bicarbonate treats metabolic acidosis by entering the systemic circulation to supply bicarbonate that neutralizes retained acid. This causes a systemic sodium load that may be contraindicated in patients with CKD as these patients often have inadequate blood pressure control, edema, or heart failure. It is important to note that women comprise the majority of patients hospitalized for acute decompensated heart failure.
 
@@ -701,13 +701,13 @@ A limitation of this study is that it involved a subgroup analysis that, althoug
 
 ---
 
-### Urinary citrate: helpful to predict acid retention in CKD patients? [^fcdf134a]. Kidney International (2019). Medium credibility.
+### Urinary citrate: helpful to predict acid retention in CKD patients? [^117Ttosf]. Kidney International (2019). Medium credibility.
 
 Acid retention occurs early during the course of chronic kidney disease (CKD). Studies conducted in patients with CKD suggest that alkali supplementation may slow CKD progression. However, the diagnosis of acid retention is challenging when plasma bicarbonate concentration is still normal. In this issue, Goraya et al. suggest that urinary citrate may predict acid retention in eubicarbonatemic patients with stages 1 and 2 CKD. Although interesting, this claim yet requires confirmation by further studies.
 
 ---
 
-### Effect of sodium bicarbonate on systolic blood pressure in CKD: a systematic review and meta-analysis [^ab86a891]. Clinical Journal of the American Society of Nephrology (2023). Medium credibility.
+### Effect of sodium bicarbonate on systolic blood pressure in CKD: a systematic review and meta-analysis [^115PJ7Yk]. Clinical Journal of the American Society of Nephrology (2023). Medium credibility.
 
 Introduction
 
@@ -717,13 +717,13 @@ Metabolic acidosis (serum bicarbonate level < 22 mmol/L) is associated with poor
 
 ---
 
-### Fatigue in CKD: epidemiology, pathophysiology, and treatment [^dc13737b]. Clinical Journal of the American Society of Nephrology (2021). Medium credibility.
+### Fatigue in CKD: epidemiology, pathophysiology, and treatment [^116dGowG]. Clinical Journal of the American Society of Nephrology (2021). Medium credibility.
 
 Fatigue is a commonly reported and debilitating symptom among patients with CKD, yet little is known about its epidemiology, pathogenesis, and treatment. Various measurement tools have been used in published studies to identify and quantify fatigue. These include several single-item measures embedded in longer questionnaires for assessing depression, quality of life, or symptom burden in patients with kidney disease. Approximately 70% of patients with CKD report fatigue, with up to 25% reporting severe symptoms. Patient-reported fatigue is associated with death, dialysis initiation, and hospitalization among individuals with CKD. The pathophysiology is multifactorial and likely includes decreased oxygen delivery and increased reliance on anaerobic metabolism, thus generating lactic acidosis in response to exertion; the effects of chronic metabolic acidosis and hyperphosphatemia on skeletal muscle myocytes; protein-energy wasting and sarcopenia; and depression. Physical activity has been shown to improve fatigue in some small but promising trials, and so should be recommended, given the additional benefits of exercise. Targeting higher hemoglobin levels with erythropoiesis-stimulating agents may improve fatigue, but potential adverse cardiovascular effects preclude their use to solely treat fatigue without the presence of another indication. Current guidelines recommend cautious individualization of hemoglobin targets for those at low cardiovascular risk who still experience fatigue or functional limitation despite a hemoglobin level of 10 g/dl. Sodium bicarbonate supplementation for the treatment of metabolic acidosis may also improve functional status. Selective serotonin reuptake inhibitors have not been consistently shown to improve fatigue in patients with kidney disease, but an ongoing trial will evaluate the effect of alternative antidepressant drug and behavioral activation therapy on fatigue in patients with CKD. Overall, more research is needed to further clarify underlying mechanisms of fatigue and identify effective, targeted treatments for patients with CKD.
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^d1fe7e17]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^116NKtp6]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 Purpose of review
 
@@ -739,13 +739,13 @@ Metabolic acidosis appears to enhance CKD progression and its treatment should b
 
 ---
 
-### Effects of veverimer on serum bicarbonate and physical function in diabetic patients with chronic kidney disease and metabolic acidosis: subgroup analysis from a randomized, controlled trial [^4846095d]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### Effects of veverimer on serum bicarbonate and physical function in diabetic patients with chronic kidney disease and metabolic acidosis: subgroup analysis from a randomized, controlled trial [^112r9diL]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 Current strategies for treatment of metabolic acidosis in patients with CKD include decreasing metabolic acid production through increasing base-producing dietary fruits and vegetables and neutralizing accumulated acid with alkali supplements such as sodium bicarbonate. Based on evidence that chronic metabolic acidosis is associated with increased protein catabolism, muscle wasting, uremic bone disease, chronic inflammation, impaired glucose homeostasis, impaired cardiac function, progression of CKD and increased mortality, the International Nephrology Clinical Practice guidelines: KDIGO recommends treating patients with CKD whose serum bicarbonate is < 22 mmol/L, and Kidney Disease Outcomes Quality Initiative (KDOQI) suggests that it is reasonable to maintain serum bicarbonate between 24 and 26 mmol/L. However, despite these guidelines, only a minority of patients are currently treated with alkali supplements. In the US-based prospective Chronic Renal Insufficiency Cohort study, for example, only 2.7% of patients with a serum bicarbonate < 22 mmol/L and CKD were receiving treatment with oral alkali. Sodium bicarbonate treats metabolic acidosis by entering the systemic circulation to supply bicarbonate that neutralizes retained acid. However, there is an obligatory sodium load delivered that may be absolutely or relatively contraindicated in the many patients with CKD, especially those whose blood pressure is above target levels, have edema and/or have heart failure. Compared with patients without diabetes, the risk of heart failure in patients with diabetes is doubled and cardiovascular outcomes, hospitalization and prognosis are worse. Thus, patients with diabetes may have greater susceptibility to adverse consequences of excess sodium intake. The current KDOQI nutrition guideline for sodium intake is < 2.3 g/day and the American College of Cardiology and American Heart Association target is < 1.5 g/day. To increase serum bicarbonate by 3–4 mmol/L with sodium bicarbonate in an 80 kg individual, for example, requires 6–8 g/day of sodium bicarbonate, which has a sodium content of 1.7–2.2 g. The mechanism of action of veverimer represents an alternative strategy for the treatment of metabolic acidosis in which acid is bound and removed from the gastrointestinal tract, leading to a net increase in serum bicarbonate. Because veverimer is not an ion-exchange resin, unwanted ions such as sodium are not introduced.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^5ee3c420]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^113RgLjR]. BMC Medicine (2020). Medium credibility.
 
 Results
 
@@ -758,7 +758,7 @@ Baseline details for randomised participants in both arms of the trial are given
 
 ---
 
-### Correction of metabolic acidosis improves muscle mass and renal function in chronic kidney disease stages 3 and 4: a randomized controlled trial [^7ec57351]. Nephrology, Dialysis, Transplantation (2020). Medium credibility.
+### Correction of metabolic acidosis improves muscle mass and renal function in chronic kidney disease stages 3 and 4: a randomized controlled trial [^114Ewm9r]. Nephrology, Dialysis, Transplantation (2020). Medium credibility.
 
 Background
 
@@ -778,7 +778,7 @@ Alkali supplementation to increase venous bicarbonate levels to 24–26 mEq/L is
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^a27e5491]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^1159uRmS]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 FIGURE 1
 Serum bicarbonate (HCO 3) increase and eGFR decline in chronic kidney disease (CKD) patients with metabolic acidosis (serum HCO₃ < 22 mEq/l) treated with NaHCO 3 or sodium citrate supplementation versus control. Summary of changes in serum HCO3 (panel a) and estimated glomerular filtration rate (eGFR) decline (panel b) in CKD patients with metabolic acidosis (serum HCO 3 < 22 mEq/l) treated with NaHCO 3 or sodium citrate supplementation (active) versus control patients. Data were extracted from the respective studies listed on the x-axis and cited in the reference section; all values are mean changes from beginning to the end of the treatment period. The mean serum HCO 3 values at the end of treatment for the de Brito-Ashurst et al. study were estimated from graphed data. CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; HCO 3, bicarbonate.
@@ -788,13 +788,13 @@ Reduction in kidney events in chronic kidney disease (CKD) patients with metabol
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^dbbffbff]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^116cnmsc]. BMC Medicine (2020). Medium credibility.
 
 In our trial, oral bicarbonate produced only a modest increase in serum bicarbonate concentration relative to placebo; this difference was maximal at 3 months and converged with the placebo group by 24 months. Bicarbonate concentrations in the placebo group rose gradually over time, which again limited the contrast between the two groups; this may be due in part to the pragmatic nature of the trial design, where physicians were free to switch participants to bicarbonate therapy if this was felt to be clinically indicated. The effect seen in both recent systematic reviews was greater than that observed in the current trial, with a mean 3 mmol/L higher serum bicarbonate in the treatment arm compared to control by the end of follow-up; restricting analyses to 1-year follow-up gave similar results. It is likely that the combination of a modest dose of bicarbonate (in comparison to some other trials) and suboptimal adherence contributed to this finding, but as this dosing regimen reflects current UK practice, patients in the real world are likely to sustain similarly modest increases in serum bicarbonate concentrations. A recent dose-ranging pilot trial (the BASE trial) suggested that higher dose (approximately 5 g/day) of bicarbonate was more effective than lower dose (approximately 3 g/day) of bicarbonate in increasing serum bicarbonate concentrations in patients with CKD 3 or 4; the higher dose provided an additional 1.3-mmol/L increase in mean serum bicarbonate concentration compared to the lower dose. Most trials included in the systematic review used a 'treat-to-target' approach. This would allow participants with lower bicarbonate concentrations to receive higher doses but could also potentially increase adverse events. Although previous small trials have used such an approach successfully without evidence of significant harm, harms have not been well reported in bicarbonate trials to date, and our more comprehensive approach to adverse event reporting revealed an excess of events in the bicarbonate arm. Our ability to titrate doses to the levels used in some previous trials was limited; we made the decision at the design stage to limit titration to doubling of the dose at 3 months, which was performed only if serum bicarbonate concentrations were still < 22 mmol/L. Although this decision was taken to reflect the state of usual UK bicarbonate prescribing practice, practice is heterogeneous and higher doses of bicarbonate may have greater effects for some patients. In addition, for participants in the treatment group with only modest degrees of acidosis, only a small improvement in serum bicarbonate was required to cross this threshold, which limited the number of participants for whom a higher dose of bicarbonate was prescribed.
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^55db457d]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^113CHbhv]. BMC Medicine (2020). Medium credibility.
 
 Fig. 3
 Subgroup analyses for the primary outcome (Short Physical Performance Battery). Values are mean and 95% CI
@@ -803,7 +803,7 @@ Adjusted treatment effects for secondary outcomes are given in Table 2. A total 
 
 ---
 
-### Optimising acid-base balance in patients with advanced chronic kidney disease: a quality improvement initiative [^c801009f]. BMJ Open Quality (2025). High credibility.
+### Optimising acid-base balance in patients with advanced chronic kidney disease: a quality improvement initiative [^1167Wrte]. BMJ Open Quality (2025). High credibility.
 
 What changes can we make that will result in the improvements that we seek?
 
@@ -816,13 +816,13 @@ Improved access to an alternative preparation of sodium bicarbonate for patients
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^109ae271]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^111RcpuN]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in chronic kidney disease — sodium assessment and salt substitution evidence highlights that data derive from studies using spot urine sodium measurements and there is current controversy about the accuracy of random "spot" urine specimens with potential increased risk of adverse health outcomes at the low-sodium intake range when assessed by this method; additional research is required in both sodium-intake assessment methodology in chronic kidney disease (CKD) and to evaluate health impacts of very low-sodium intakes. Recent small, single-center trials of chronic oral sodium bicarbonate versus placebo have not found changes in blood pressure (BP), raising the possibility that the anion associated with sodium intake may influence the BP response; future research is required to determine if relationships of sodium intake with BP are influenced by the accompanying anion. In the general population, potassium-containing salt substitutes have been demonstrated to lower BP, but persons with CKD have been systematically excluded from such trials; some, albeit not all, observational data in CKD populations demonstrate that higher potassium intake is associated with higher risk of CKD progression and cardiovascular (CV) disease, and whether potassium-containing salt substitutes have health benefits or unique risks in CKD requires future study.
 
 ---
 
-### Recent evidence on the effect of treatment of metabolic acid on the progression of kidney disease [^ff25086e]. Current Opinion in Nephrology and Hypertension (2021). Medium credibility.
+### Recent evidence on the effect of treatment of metabolic acid on the progression of kidney disease [^117XGHKb]. Current Opinion in Nephrology and Hypertension (2021). Medium credibility.
 
 Purpose Of Review
 
@@ -838,7 +838,7 @@ Recent studies indicate a potential benefit from reduction in acid load in patie
 
 ---
 
-### Effect of bicarbonate on net acid excretion, blood pressure, and metabolism in patients with and without CKD: the acid base compensation in CKD study [^e4a510cf]. American Journal of Kidney Diseases (2021). Medium credibility.
+### Effect of bicarbonate on net acid excretion, blood pressure, and metabolism in patients with and without CKD: the acid base compensation in CKD study [^116qyczS]. American Journal of Kidney Diseases (2021). Medium credibility.
 
 Rationale & Objective
 
@@ -882,7 +882,7 @@ Registered at ClinicalTrials.gov with study number NCT02427594.
 
 ---
 
-### Bicarbonate supplement restores urinary klotho excretion in chronic kidney disease: a pilot study [^44babe53]. Journal of Renal Nutrition (2019). Medium credibility.
+### Bicarbonate supplement restores urinary klotho excretion in chronic kidney disease: a pilot study [^112kttDg]. Journal of Renal Nutrition (2019). Medium credibility.
 
 Objective
 
@@ -914,7 +914,7 @@ Correcting acidosis by oral administration of sodium bicarbonate rapidly increas
 
 ---
 
-### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^4fe0f72f]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^1133Rawp]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Methods
 
@@ -930,13 +930,13 @@ Alkali therapy for CKD-related MA is typically delayed until serum total carbon 
 
 ---
 
-### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^7848f6a2]. BMC Medicine (2020). Medium credibility.
+### Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial [^1145L2G1]. BMC Medicine (2020). Medium credibility.
 
 An independent Data Monitoring Committee (DMC) met every 6 months to review unmasked reports. The DMC examined trial safety, data quality and study conduct and provided advice to the Sponsor, Trial Steering Committee (TSC) and funder on the appropriateness of continuing the trial. No interim efficacy analyses were planned or conducted. The independent TSC recommended closure of recruitment to the trial after 300 participants had been randomised, based on a review of declining recruitment rates and informed by revised sample size calculations that showed that a sample size of 300 had 87% power to detect a 1-point difference in the primary outcome of the short physical performance battery. The independent TSC also recommended that follow-up be truncated after the final 12-month (primary outcome) visit for the last participant to facilitate earlier dissemination of results. The decision to close the trial to further recruitment was made by the trial funder.
 
 ---
 
-### Optimising acid-base balance in patients with advanced chronic kidney disease: a quality improvement initiative [^ddb6b4fa]. BMJ Open Quality (2025). High credibility.
+### Optimising acid-base balance in patients with advanced chronic kidney disease: a quality improvement initiative [^116fhdhT]. BMJ Open Quality (2025). High credibility.
 
 Background
 
@@ -948,25 +948,25 @@ The UK Renal Registry collects national-level data on serum bicarbonate levels f
 
 ---
 
-### Effect of dietary protein intake on serum total CO ₂ concentration in chronic kidney disease: modification of diet in renal disease study findings [^cbc8e6b2]. Clinical Journal of the American Society of Nephrology (2006). Low credibility.
+### Effect of dietary protein intake on serum total CO ₂ concentration in chronic kidney disease: modification of diet in renal disease study findings [^116D7y5T]. Clinical Journal of the American Society of Nephrology (2006). Low credibility.
 
 Metabolic acidosis is a feature of chronic kidney disease (CKD), but whether serum bicarbonate concentration is influenced by variations in dietary protein intake is unknown. For assessing the effect of diet, data that were collected in the Modification of Diet in Renal Disease study were used. In this study, patients with CKD were enrolled into a baseline period, then randomly assigned to follow either a low- or a usual-protein diet (study A, entry GFR 25 to 55 ml/min) or a low- or very low-protein diet, the latter supplemented with ketoanalogs of amino acids (study B, entry GFR 13 to 24 ml/min). Serum [total CO2] and estimated protein intake (EPI) were assessed at entry (n = 1676) and again at 1 yr after randomization, controlling for changes in GFR and other key covariates (n = 723). At entry, serum [total CO2] was inversely related to EPI (1.0 mEq/L lower mean serum [total CO2]/g per kg body wt increase in protein intake/d; P = 0.009). In an intention-to-treat analysis, the reduction in mean EPI in the low-protein group as compared with the usual-protein group (0.41 g/kg body wt per d) was independently associated with a 0.9-mEq/L increase in serum [total CO2], after adjustment for covariates (P < 0.001). No such effect was evident in study B, in which the very low-protein diet group received dietary supplements. Serum [total CO2] is inversely correlated with dietary protein intake in patients with CKD. A reduction in protein intake results in an increase in serum [total CO2].
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^b29e55a3]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^115ZoymU]. AND (2020). High credibility.
 
 Chronic kidney disease — protein restriction with ketoacids and analogues (KAA) supplementation: pooled analyses suggest there is probably an overall benefit on renal survival in CKD stages 3 to 5.
 
 ---
 
-### ESPEN practical guideline on clinical nutrition in hospitalized patients with acute or chronic kidney disease [^a03c430c]. Clinical Nutrition (2024). High credibility.
+### ESPEN practical guideline on clinical nutrition in hospitalized patients with acute or chronic kidney disease [^1156ZG5y]. Clinical Nutrition (2024). High credibility.
 
 Regarding nonpharmacologic interventions for chronic kidney disease, more specifically with respect to nutritional support (supplements with no evidence for benefit), ESPEN 2024 guidelines recommend to do not use additional high-dose parenteral glutamine in critically ill patients with AKI on CKD or CKD with kidney failure.
 
 ---
 
-### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^d91a1f30]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Sodium bicarbonate treatment and clinical outcomes in chronic kidney disease with metabolic acidosis: a meta-analysis [^116Ys63h]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Introduction
 
@@ -978,13 +978,13 @@ To address this issue, we conducted a meta-analysis to provide definitive eviden
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^d4a20ae1]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^116SEoax]. Kidney International (2024). High credibility.
 
 Chronic kidney disease metabolic acidosis — definition and prevalence: Serum bicarbonate concentration begins to fall progressively once eGFR falls below 60 ml/min per 1.73 m^2 with reductions most evident in CKD stages G4–G5. The adjusted adult prevalence of serum bicarbonate < 22 mmol/l was 7.7% and 6.7% in those with and without diabetes at stage G3, A1, respectively, increasing to 38.3% and 35.9% by CKD stage G5, A3.
 
 ---
 
-### Effects of veverimer on serum bicarbonate and physical function in diabetic patients with chronic kidney disease and metabolic acidosis: subgroup analysis from a randomized, controlled trial [^9565e4e0]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### Effects of veverimer on serum bicarbonate and physical function in diabetic patients with chronic kidney disease and metabolic acidosis: subgroup analysis from a randomized, controlled trial [^114pVP3d]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 KEY LEARNING POINTS
 
@@ -1006,7 +1006,7 @@ improved physical function from treating metabolic acidosis holds promise to all
 
 ---
 
-### Correction of metabolic acidosis improves insulin resistance in chronic kidney disease [^c0d4ab8d]. BMC Nephrology (2016). Low credibility.
+### Correction of metabolic acidosis improves insulin resistance in chronic kidney disease [^115vt4Fn]. BMC Nephrology (2016). Low credibility.
 
 In patients of treatment group assuming Biguanides (45 subjects), bicarbonate administration was higher (not significant) compared to other oral antidiabetic drugs (0.79 ± 0.4 mmol/kg).
 
@@ -1016,13 +1016,13 @@ Our analyses suffer of a few limitations worth noting. We investigated the relat
 
 ---
 
-### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^90e98718]. AND (2020). High credibility.
+### Chronic kidney disease CKD: guideline recommendations and supporting information (2020) [^114hqf4s]. AND (2020). High credibility.
 
 High fruit and vegetable dietary pattern in CKD stages 3–4 — eGFR, body weight, and blood pressure: In adults with stages 3–4 CKD, fruits and vegetables dietary pattern has mixed effects/uncertain effects on eGFR compared with oral bicarbonate supplementation. For body weight, the fruit and vegetable dietary pattern yielded greater net body weight loss than both oral bicarbonate and standard care groups (p-value < 0.05) and lower body weight at 1-year follow up (p < 0.01). (MD = - 5.09 kg, 95% CI -7.73, -2.44; I2 = 56%). Regarding blood pressure (BP), three studies (2 RCT, 1 NRCT) reported that increased fruit and vegetable intake had a significant effect on lowering systolic BP compared to oral bicarbonate supplementation.
 
 ---
 
-### Impact of serum bicarbonate levels on muscle mass and kidney function in pre-dialysis chronic kidney disease patients [^3a9a27a0]. American Journal of Nephrology (2020). Medium credibility.
+### Impact of serum bicarbonate levels on muscle mass and kidney function in pre-dialysis chronic kidney disease patients [^112Vt4XH]. American Journal of Nephrology (2020). Medium credibility.
 
 Background
 
@@ -1042,7 +1042,7 @@ Bicarbonate supplementation to achieve the serum level ∼24 mEq/L demonstrates 
 
 ---
 
-### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^685ef2c2]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Clinical evidence that treatment of metabolic acidosis slows the progression of chronic kidney disease [^113fjc3s]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 The relationship between decreasing serum HCO 3 levels and worsening clinical outcomes appears to be a continuum. As serum HCO 3 decreases from the normal range in patients with CKD, generally considered as 22–29 mEq/l, the risk of progression to end-stage kidney disease (ESKD) or mortality increases compared to patients with CKD but without metabolic acidosis. Indeed, observational studies associate serum HCO 3 with kidney disease progression outcomes and show that each 1 mEq/l increase in serum HCO 3 from levels below the normal range reduces the risk of kidney outcomes [e.g. initiation of dialysis, 50% reduction in estimated glomerular filtration rate (eGFR)] by 3–8%. Interestingly, risk reduction continues for serum HCO 3 increases within the low normal range. Findings from these observational studies are supported by recent prospective interventional studies that show that treatment of metabolic acidosis in CKD stage 3–5 patients can slow the rate of kidney function decline. In addition, provision of sodium bicarbonate or a diet rich in base-producing fruits and vegetables to CKD stage 3 patients with serum HCO 3 in the low normal range (22–24 mEq/l) also slowed the rate of kidney function decline. Post hoc analysis of treatment effect in CKD stage 3–5 patients with overt metabolic acidosis (serum HCO 3 < 22 mEq/l) showed that fewer patients treated with oral alkali supplementation, in comparison to untreated patients, reached at least 40% eGFR reduction, an endpoint recognized to be a validated surrogate endpoint for ESKD. Thus, data from these prospective studies suggest the intriguing possibility that interventions that increase or normalize serum HCO 3 in patients with CKD and metabolic acidosis or low normal serum HCO 3 may further slow deterioration of the diseased kidney.
 

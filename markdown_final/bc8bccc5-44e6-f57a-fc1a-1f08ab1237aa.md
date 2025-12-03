@@ -17,41 +17,41 @@ Can you combine compazine and zofran
 
 > Let me first confirm the pharmacology. Prochlorperazine is a dopamine D2 antagonist with antiemetic effects via the chemoreceptor trigger zone, while ondansetron is a selective 5-HT3 receptor antagonist acting peripherally and centrally; mechanistically, they target different pathways, which supports potential additive antiemetic benefit rather than redundancy, and this complementary mechanism is precisely why multimodal antiemetic strategies are standard in high-risk scenarios [^notfound].
 
-> Wait, let me verify the primary safety signal. The most critical interaction is QT prolongation: both prochlorperazine and ondansetron can prolong the QT interval, and coadministration increases the risk of torsades de pointes, particularly in patients with congenital long QT, electrolyte disturbances, bradyarrhythmias, heart failure, or other QT-prolonging drugs; this is explicitly flagged in ondansetron labeling and drug–drug interaction summaries, and it is the reason ECG monitoring is advised in at-risk patients [^06eaaa85] [^744a182d] [^41011b72].
+> Wait, let me verify the primary safety signal. The most critical interaction is QT prolongation: both prochlorperazine and ondansetron can prolong the QT interval, and coadministration increases the risk of torsades de pointes, particularly in patients with congenital long QT, electrolyte disturbances, bradyarrhythmias, heart failure, or other QT-prolonging drugs; this is explicitly flagged in ondansetron labeling and drug–drug interaction summaries, and it is the reason ECG monitoring is advised in at-risk patients [^111BFkMa] [^113yQTAc] [^112fNZtV].
 
-> Hold on, let's not jump to conclusions; I should review whether there is clinical evidence supporting combination use despite the QT risk. In perioperative care, contemporary consensus guidelines endorse multimodal prophylaxis with two or more antiemetics for patients at risk of postoperative nausea and vomiting, commonly pairing a 5-HT3 antagonist like ondansetron with a dopamine antagonist such as prochlorperazine or dexamethasone, reflecting established additive benefit; similarly, in cyclic vomiting syndrome, expert guidance supports combining ondansetron with phenothiazines for abortive therapy, again balancing efficacy with QT cautions [^b810900b] [^04f29023].
+> Hold on, let's not jump to conclusions; I should review whether there is clinical evidence supporting combination use despite the QT risk. In perioperative care, contemporary consensus guidelines endorse multimodal prophylaxis with two or more antiemetics for patients at risk of postoperative nausea and vomiting, commonly pairing a 5-HT3 antagonist like ondansetron with a dopamine antagonist such as prochlorperazine or dexamethasone, reflecting established additive benefit; similarly, in cyclic vomiting syndrome, expert guidance supports combining ondansetron with phenothiazines for abortive therapy, again balancing efficacy with QT cautions [^115htHX8] [^1118LRdt].
 
-> I need to check labeled contraindications to ensure we are not missing a formal prohibition. Ondansetron carries a contraindication with apomorphine due to profound hypotension and loss of consciousness, but there is no labeled contraindication specifically for prochlorperazine; the main concern is additive QT effects rather than a direct pharmacodynamic clash, which means the combination is not absolutely contraindicated but warrants risk mitigation [^e89649a5] [^507cc1c7] [^41011b72].
+> I need to check labeled contraindications to ensure we are not missing a formal prohibition. Ondansetron carries a contraindication with apomorphine due to profound hypotension and loss of consciousness, but there is no labeled contraindication specifically for prochlorperazine; the main concern is additive QT effects rather than a direct pharmacodynamic clash, which means the combination is not absolutely contraindicated but warrants risk mitigation [^116wpcDi] [^1134Kv1L] [^112fNZtV].
 
-> Let me consider special populations and contexts. In pregnancy, both agents are used for nausea and vomiting, but combining them may increase QT risk; ACOG notes the potential cardiac risk of ondansetron with phenothiazines and advises individualized risk–benefit assessment and counseling, which argues for caution and baseline ECG in higher-risk patients rather than a blanket prohibition [^0c1e84e8] [^d9b2c817]. In pediatrics, ondansetron is commonly used for gastroenteritis and procedural nausea, and while QT risk is generally lower, vigilance for family history of sudden cardiac death and electrolyte status remains prudent before combining with a phenothiazine [^5846209c] [^15ee434f].
+> Let me consider special populations and contexts. In pregnancy, both agents are used for nausea and vomiting, but combining them may increase QT risk; ACOG notes the potential cardiac risk of ondansetron with phenothiazines and advises individualized risk–benefit assessment and counseling, which argues for caution and baseline ECG in higher-risk patients rather than a blanket prohibition [^111Jy6wh] [^116ZkN6i]. In pediatrics, ondansetron is commonly used for gastroenteritis and procedural nausea, and while QT risk is generally lower, vigilance for family history of sudden cardiac death and electrolyte status remains prudent before combining with a phenothiazine [^113FsTzT] [^111ZWmev].
 
-> Next, I should review practical precautions if combination is chosen. I should confirm electrolytes, especially potassium and magnesium, correct any abnormalities, and consider a baseline ECG in patients with cardiac risk factors or when cumulative QT risk is present; I will also avoid other QT-prolonging agents when possible and monitor for symptoms such as palpitations or syncope, aligning with ondansetron labeling and prehospital guidance that highlight ECG monitoring in at-risk patients [^06eaaa85] [^3189b1f3] [^beb0b57a].
+> Next, I should review practical precautions if combination is chosen. I should confirm electrolytes, especially potassium and magnesium, correct any abnormalities, and consider a baseline ECG in patients with cardiac risk factors or when cumulative QT risk is present; I will also avoid other QT-prolonging agents when possible and monitor for symptoms such as palpitations or syncope, aligning with ondansetron labeling and prehospital guidance that highlight ECG monitoring in at-risk patients [^111BFkMa] [^112GSeKt] [^115si17P].
 
-> But wait, what if the clinical scenario is low risk and monotherapy suffices? I should double-check that guidelines still prioritize risk-stratified prophylaxis: for PONV, patients with 0–1 risk factors may do well with a single agent, whereas those with 2 or more risk factors benefit from combination therapy; thus, I should tailor whether to combine compazine and zofran to the patient's intrinsic risk and the severity of nausea and vomiting, rather than using combination therapy indiscriminately [^77b9d14a] [^369bd9e4].
+> But wait, what if the clinical scenario is low risk and monotherapy suffices? I should double-check that guidelines still prioritize risk-stratified prophylaxis: for PONV, patients with 0–1 risk factors may do well with a single agent, whereas those with 2 or more risk factors benefit from combination therapy; thus, I should tailor whether to combine compazine and zofran to the patient's intrinsic risk and the severity of nausea and vomiting, rather than using combination therapy indiscriminately [^1144VwZ3] [^112PxgSf].
 
-> In summary, yes, compazine and zofran can be combined when clinically indicated, particularly for moderate-to-high risk PONV, refractory nausea and vomiting, or cyclic vomiting attacks, because their different mechanisms yield additive antiemetic benefit; however, I need to ensure QT risk is mitigated through electrolyte correction, avoidance of other QT-prolonging drugs, and ECG monitoring in at-risk patients, and I should document the rationale and counsel patients about rare but serious arrhythmia risk [^77b9d14a] [^369bd9e4] [^06eaaa85] [^41011b72].
+> In summary, yes, compazine and zofran can be combined when clinically indicated, particularly for moderate-to-high risk PONV, refractory nausea and vomiting, or cyclic vomiting attacks, because their different mechanisms yield additive antiemetic benefit; however, I need to ensure QT risk is mitigated through electrolyte correction, avoidance of other QT-prolonging drugs, and ECG monitoring in at-risk patients, and I should document the rationale and counsel patients about rare but serious arrhythmia risk [^1144VwZ3] [^112PxgSf] [^111BFkMa] [^112fNZtV].
 
 ---
 
-Compazine (prochlorperazine) and Zofran (ondansetron) can be combined for **refractory nausea and vomiting** because they act on different receptors (D2 vs 5-HT3) and have complementary mechanisms [^77b9d14a]. The main risk is **additive QT prolongation** [^41011b72]; use caution in patients with cardiac disease, electrolyte disturbances, or other QT-prolonging drugs, and consider ECG monitoring in high-risk cases [^06eaaa85]. The combination is commonly used in perioperative and chemotherapy settings, and guidelines support multimodal antiemetic therapy when monotherapy fails [^77b9d14a] [^21813351].
+Compazine (prochlorperazine) and Zofran (ondansetron) can be combined for **refractory nausea and vomiting** because they act on different receptors (D2 vs 5-HT3) and have complementary mechanisms [^1144VwZ3]. The main risk is **additive QT prolongation** [^112fNZtV]; use caution in patients with cardiac disease, electrolyte disturbances, or other QT-prolonging drugs, and consider ECG monitoring in high-risk cases [^111BFkMa]. The combination is commonly used in perioperative and chemotherapy settings, and guidelines support multimodal antiemetic therapy when monotherapy fails [^1144VwZ3] [^111rfzKz].
 
 ---
 
 ## Pharmacological mechanisms and complementary effects
 
-Prochlorperazine is a **dopamine D2 antagonist** that blocks dopamine receptors in the chemoreceptor trigger zone, reducing nausea and vomiting. Ondansetron is a **selective 5-HT3 antagonist** that blocks serotonin receptors in the gut and CNS, providing antiemetic effects. Together, they target different pathways, offering additive or synergistic antiemetic effects, especially in refractory cases [^77b9d14a].
+Prochlorperazine is a **dopamine D2 antagonist** that blocks dopamine receptors in the chemoreceptor trigger zone, reducing nausea and vomiting. Ondansetron is a **selective 5-HT3 antagonist** that blocks serotonin receptors in the gut and CNS, providing antiemetic effects. Together, they target different pathways, offering additive or synergistic antiemetic effects, especially in refractory cases [^1144VwZ3].
 
 ---
 
 ## Clinical evidence supporting combination therapy
 
-Although direct head-to-head trials are limited, clinical practice and guidelines support combining prochlorperazine and ondansetron for refractory nausea and vomiting, particularly in **postoperative and chemotherapy-induced nausea and vomiting (CINV)** [^77b9d14a] [^d32eebba]. Multimodal antiemetic regimens are recommended for high-risk patients or when single-agent therapy fails [^77b9d14a] [^369bd9e4].
+Although direct head-to-head trials are limited, clinical practice and guidelines support combining prochlorperazine and ondansetron for refractory nausea and vomiting, particularly in **postoperative and chemotherapy-induced nausea and vomiting (CINV)** [^1144VwZ3] [^116Q69Z3]. Multimodal antiemetic regimens are recommended for high-risk patients or when single-agent therapy fails [^1144VwZ3] [^112PxgSf].
 
 ---
 
 ## Potential risks and adverse effects
 
-The primary concern with combining prochlorperazine and ondansetron is **additive QT interval prolongation**, which can increase the risk of torsades de pointes and other serious arrhythmias [^41011b72]. Both drugs independently prolong the QT interval, and their combination can further increase this risk, particularly in patients with pre-existing cardiac conditions, electrolyte imbalances (hypokalemia, hypomagnesemia), or concomitant use of other QT-prolonging medications [^06eaaa85].
+The primary concern with combining prochlorperazine and ondansetron is **additive QT interval prolongation**, which can increase the risk of torsades de pointes and other serious arrhythmias [^112fNZtV]. Both drugs independently prolong the QT interval, and their combination can further increase this risk, particularly in patients with pre-existing cardiac conditions, electrolyte imbalances (hypokalemia, hypomagnesemia), or concomitant use of other QT-prolonging medications [^111BFkMa].
 
 ---
 
@@ -59,9 +59,9 @@ The primary concern with combining prochlorperazine and ondansetron is **additiv
 
 Current clinical guidelines emphasize the importance of individualized risk assessment when combining antiemetics with potential QT prolongation risk. The following precautions are recommended:
 
-- **Risk assessment**: Evaluate patients for cardiac risk factors, electrolyte disturbances, and concomitant QT-prolonging medications before initiating combination therapy [^06eaaa85].
+- **Risk assessment**: Evaluate patients for cardiac risk factors, electrolyte disturbances, and concomitant QT-prolonging medications before initiating combination therapy [^111BFkMa].
 
-- **Electrocardiogram (ECG) monitoring**: Consider baseline and follow-up ECG monitoring in high-risk patients or when using multiple QT-prolonging agents [^06eaaa85].
+- **Electrocardiogram (ECG) monitoring**: Consider baseline and follow-up ECG monitoring in high-risk patients or when using multiple QT-prolonging agents [^111BFkMa].
 
 - **Dose adjustments**: Use the lowest effective doses of both medications to minimize QT prolongation risk [^notfound].
 
@@ -71,11 +71,11 @@ Current clinical guidelines emphasize the importance of individualized risk asse
 
 Combination therapy with prochlorperazine and ondansetron is particularly beneficial in the following clinical scenarios:
 
-- **Refractory nausea and vomiting**: Patients who do not respond adequately to single-agent antiemetic therapy [^77b9d14a].
+- **Refractory nausea and vomiting**: Patients who do not respond adequately to single-agent antiemetic therapy [^1144VwZ3].
 
-- **Postoperative nausea and vomiting (PONV)**: High-risk patients undergoing surgery, where multimodal antiemetic prophylaxis is recommended [^77b9d14a] [^369bd9e4].
+- **Postoperative nausea and vomiting (PONV)**: High-risk patients undergoing surgery, where multimodal antiemetic prophylaxis is recommended [^1144VwZ3] [^112PxgSf].
 
-- **Chemotherapy-induced nausea and vomiting (CINV)**: Patients experiencing breakthrough nausea and vomiting despite standard prophylactic regimens [^d32eebba].
+- **Chemotherapy-induced nausea and vomiting (CINV)**: Patients experiencing breakthrough nausea and vomiting despite standard prophylactic regimens [^116Q69Z3].
 
 ---
 
@@ -83,9 +83,9 @@ Combination therapy with prochlorperazine and ondansetron is particularly benefi
 
 If the combination of prochlorperazine and ondansetron is contraindicated or not tolerated, alternative antiemetic combinations may be considered, including:
 
-- **Ondansetron with dexamethasone**: Commonly used for PONV and CINV, with a favorable safety profile [^77b9d14a] [^d32eebba].
+- **Ondansetron with dexamethasone**: Commonly used for PONV and CINV, with a favorable safety profile [^1144VwZ3] [^116Q69Z3].
 
-- **Ondansetron with metoclopramide**: Useful for gastroparesis-related nausea and vomiting, though metoclopramide carries a risk of extrapyramidal symptoms [^b2dae892].
+- **Ondansetron with metoclopramide**: Useful for gastroparesis-related nausea and vomiting, though metoclopramide carries a risk of extrapyramidal symptoms [^115aAKqs].
 
 - **Ondansetron with promethazine**: Effective for refractory cases, but promethazine has significant sedative and anticholinergic effects [^notfound].
 
@@ -102,19 +102,19 @@ If the combination of prochlorperazine and ondansetron is contraindicated or not
 
 ---
 
-Compazine (prochlorperazine) and Zofran (ondansetron) can be combined for refractory nausea and vomiting, leveraging complementary mechanisms [^77b9d14a]. The main risk is **QT prolongation** [^41011b72]; use caution with risk assessment, ECG monitoring, and electrolyte correction. This strategy is supported in perioperative and chemotherapy settings when monotherapy fails [^d32eebba].
+Compazine (prochlorperazine) and Zofran (ondansetron) can be combined for refractory nausea and vomiting, leveraging complementary mechanisms [^1144VwZ3]. The main risk is **QT prolongation** [^112fNZtV]; use caution with risk assessment, ECG monitoring, and electrolyte correction. This strategy is supported in perioperative and chemotherapy settings when monotherapy fails [^116Q69Z3].
 
 ---
 
 ## References
 
-### Interactions between Compazine, Zofran [^41011b72]. DrugBank (2025). Excellent credibility.
+### Interactions between Compazine, Zofran [^112fNZtV]. DrugBank (2025). Excellent credibility.
 
 The risk or severity of QTc prolongation can be increased when prochlorperazine is combined with ondansetron.
 
 ---
 
-### Ondansetron hydrochloride [^4ac96231]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^112usj84]. FDA (2023). Medium credibility.
 
 Labeled indications for Ondansetron hydrochloride (also known as Zofran) include:
 
@@ -131,7 +131,7 @@ Off-label indications for Ondansetron hydrochloride (also known as Zofran) inclu
 
 ---
 
-### Ondansetron hydrochloride [^3ff3eecb]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^112dp9wx]. FDA (2025). Medium credibility.
 
 Labeled indications for Ondansetron hydrochloride (also known as Zofran) include:
 
@@ -155,19 +155,19 @@ Off-label indications for Ondansetron hydrochloride (also known as Zofran) inclu
 
 ---
 
-### Ondansetron hydrochloride [^e89649a5]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^116wpcDi]. FDA (2023). Medium credibility.
 
 Contraindication regarding the use of ondansetron hydrochloride IV (also known as Zofran) and concomitant use of apomorphine: do not use ondansetron with apomorphine due to the risk of a profound hypotension and loss of consciousness.
 
 ---
 
-### Ondansetron hydrochloride [^507cc1c7]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^1134Kv1L]. FDA (2025). Medium credibility.
 
 Contraindication regarding the use of ondansetron hydrochloride PO (also known as Zofran) and concomitant use of apomorphine: do not use ondansetron with apomorphine due to the risk of a profound hypotension and loss of consciousness.
 
 ---
 
-### Ondansetron hydrochloride [^750a7423]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^113zX4dG]. FDA (2023). Medium credibility.
 
 Regarding the use of ondansetron hydrochloride IV (also known as Zofran) in patients with chronic liver disease, Child-Pugh B (moderate):
 - Use acceptable.
@@ -175,7 +175,7 @@ Regarding the use of ondansetron hydrochloride IV (also known as Zofran) in pati
 
 ---
 
-### Ondansetron hydrochloride [^06eaaa85]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^111BFkMa]. FDA (2023). Medium credibility.
 
 Warnings and precautions regarding the use of ondansetron hydrochloride IV (also known as Zofran):
 - **Anaphylaxis, bronchospasm**: use extreme caution in patients with hypersensitivity to selective 5-HT₃ receptor antagonists.
@@ -186,7 +186,7 @@ Warnings and precautions regarding the use of ondansetron hydrochloride IV (also
 
 ---
 
-### Ondansetron hydrochloride [^744a182d]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^113yQTAc]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of ondansetron hydrochloride PO (also known as Zofran):
 - **Anaphylaxis, bronchospasm**: use extreme caution in patients with hypersensitivity to selective 5-HT₃ receptor antagonists.
@@ -197,49 +197,49 @@ Warnings and precautions regarding the use of ondansetron hydrochloride PO (also
 
 ---
 
-### Ondansetron hydrochloride [^54fddb40]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^113B1ECF]. FDA (2023). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of ondansetron hydrochloride IV (also known as Zofran) include: constipation, diarrhea and headache.
 
 ---
 
-### Ondansetron hydrochloride [^2fadb6b4]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^112DgmTh]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of ondansetron hydrochloride PO (also known as Zofran) include: fatigue, headache and malaise.
 
 ---
 
-### Ondansetron hydrochloride [^5b7c1007]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^113LdYaa]. FDA (2023). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of ondansetron hydrochloride IV (also known as Zofran) include: chills, fever, injection site reactions, paresthesia, pruritus, ↑ serum ALT, ↑ serum AST, skin rash and somnolence.
 
 ---
 
-### Ondansetron hydrochloride [^2ad0ec58]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^1126UezK]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of ondansetron hydrochloride PO (also known as Zofran) include: agitation, anaphylaxis, angina pectoris, anxiety, bronchospasm, constipation, diarrhea, dizziness, fever, pruritus, seizure, ↑ serum ALT, ↑ serum AST, ↓ serum potassium, skin rash, ↓ SpO2, tachycardia and urinary retention.
 
 ---
 
-### Ondansetron hydrochloride [^aab80798]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^115N6i6T]. FDA (2023). Medium credibility.
 
 Rare adverse reactions (less than 0.1%) associated with the use of ondansetron hydrochloride IV (also known as Zofran) include: angina pectoris, extrapyramidal signs, hypotension, seizure, ↓ serum potassium and tachycardia.
 
 ---
 
-### Ondansetron hydrochloride [^d9a01e12]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^116Ze6VX]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of ondansetron hydrochloride PO (also known as Zofran) include: angioedema, AV block, bradycardia, cardiac arrhythmias, dyspnea, dystonia, hiccups, hypotension, laryngeal edema, palpitations, ↑QT interval, serotonin syndrome, Stevens-Johnson syndrome, stridor, ST-segment depression, syncope, toxic epidermal necrolysis and urticaria.
 
 ---
 
-### Ondansetron hydrochloride [^e417022e]. FDA (2023). Medium credibility.
+### Ondansetron hydrochloride [^116q9uVf]. FDA (2023). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of ondansetron hydrochloride IV (also known as Zofran) include: acute liver failure, anaphylaxis, angioedema, AV block, blurred vision, bradycardia, bronchospasm, cardiac arrest, cardiac arrhythmias, dizziness, dyspnea, dystonia, hiccups, laryngeal edema, laryngospasm, myocardial infarction, palpitations, ↑QT interval, serotonin syndrome, shock, Stevens-Johnson syndrome, stridor, ST-segment depression, syncope, toxic epidermal necrolysis, urticaria and vision loss.
 
 ---
 
-### The role of ondansetron in the treatment of schizophrenia [^979e1e09]. The Annals of Pharmacotherapy (2010). Low credibility.
+### The role of ondansetron in the treatment of schizophrenia [^114snEvk]. The Annals of Pharmacotherapy (2010). Low credibility.
 
 Objective
 
@@ -263,7 +263,7 @@ Ondansetron may be effective as an adjunct to antipsychotics for the treatment o
 
 ---
 
-### A randomized clinical trial comparing oral ondansetron with placebo in children with vomiting from acute gastroenteritis [^3fa9a525]. Annals of Emergency Medicine (2002). Low credibility.
+### A randomized clinical trial comparing oral ondansetron with placebo in children with vomiting from acute gastroenteritis [^112dPChz]. Annals of Emergency Medicine (2002). Low credibility.
 
 Study Objective
 
@@ -283,13 +283,13 @@ Ondansetron was effective in reducing the emesis from gastroenteritis during the
 
 ---
 
-### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^bdffbc6f]. BJOG (2024). Medium credibility.
+### The management of nausea and vomiting in pregnancy and hyperemesis gravidarum (green-top guideline no. 69) [^115rgZQJ]. BJOG (2024). Medium credibility.
 
 The drug Ondansetron hydrochloride (also known as Zofran).
 
 ---
 
-### Translational utility of rodent hippocampal auditory gating in schizophrenia research: a review and evaluation [^205467c7]. Translational Psychiatry (2015). Low credibility.
+### Translational utility of rodent hippocampal auditory gating in schizophrenia research: a review and evaluation [^111pvxNJ]. Translational Psychiatry (2015). Low credibility.
 
 Ondansetron (Zofran) is perhaps the pharmacologically 'cleanest' example of a serotinergic drug with pro-gating effects across animal and human studies. It is not classified as an antipsychotic, as it is a selective 5-HT(3) receptor antagonist and therefore does not block D2 receptors. Its selectivity for the 5-HT(3) receptor allows researchers to isolate pro-gating effects due to blockade of this particular serotonin receptor subtype.
 
@@ -297,13 +297,13 @@ Consistent with the demonstrated ability of 5-HT(3) receptor blockade to indirec
 
 ---
 
-### Should antiemetics be given prophylactically with intravenous opioids while treating acute pain in the emergency department? clinical practice paper approved by American academy of emergency medicine clinical guidelines committee [^db8282a2]. The Journal of Emergency Medicine (2020). High credibility.
+### Should antiemetics be given prophylactically with intravenous opioids while treating acute pain in the emergency department? clinical practice paper approved by American academy of emergency medicine clinical guidelines committee [^116cS8G9]. The Journal of Emergency Medicine (2020). High credibility.
 
 Use of prophylactic antiemetic with parenteral opioids — retrospective hospitalized cohort data showed no prophylactic benefit: among 619 hospitalized patients receiving oral opioid analgesics, 435 received prophylactic antiemetics with nausea and vomiting incidences of 23.0% and 15.9% versus 25.5% and 12.5% without prophylaxis, with OR 0.870; 95% CI 0.584–1.298; p = 0.495 for nausea and OR 1.320; 95% CI 0.795–2.191; p = 0.283 for vomiting; the most frequently used antiemetics were prochlorperazine (15 mg/d; 88.7%), compazine (30 mg/d; 6.4%), and metoclopramide (15 mg/d; 3.4%); these findings do not support routine use of prophylactic antiemetic administration when combined with opioid analgesia.
 
 ---
 
-### Ondansetron hydrochloride (ondansetron) [^cf61100f]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride (ondansetron) [^116JT3Ga]. FDA (2025). Medium credibility.
 
 8.7 Renal Impairment
 
@@ -311,7 +311,7 @@ No dosage adjustment is recommended for patients with any degree of renal impair
 
 ---
 
-### Comparative efficacy of acustimulation (reliefBand) versus ondansetron (zofran) in combination with droperidol for preventing nausea and vomiting [^eacb6e39]. Anesthesiology (2002). Low credibility.
+### Comparative efficacy of acustimulation (reliefBand) versus ondansetron (zofran) in combination with droperidol for preventing nausea and vomiting [^11716S6C]. Anesthesiology (2002). Low credibility.
 
 Background
 
@@ -331,7 +331,7 @@ The ReliefBand compared favorably to ondansetron (4 mg intravenously) when used 
 
 ---
 
-### Ondansetron hydrochloride (ondansetron) [^a0e4baaf]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride (ondansetron) [^1157Xr6S]. FDA (2025). Medium credibility.
 
 In the same trial, 56% of patients receiving a single 24 mg oral dose of ondansetron experienced no nausea during the 24-hour trial period, compared with 36% of patients in the oral ondansetron 8 mg twice-a-day group (P = 0.001) and 50% in the oral ondansetron 32 mg once-a-day group. Dosage regimens of ondansetron 8 mg twice daily and 32 mg once daily are not recommended for the prevention of nausea and vomiting associated with highly emetogenic chemotherapy [see Dosage and Administration (2.1)].
 
@@ -343,7 +343,7 @@ A randomized, placebo-controlled, double-blind trial was conducted in the U.S. i
 
 ---
 
-### Ondansetron hydrochloride (ondansetron) [^d97f860a]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride (ondansetron) [^116ZT9Wh]. FDA (2025). Medium credibility.
 
 14.1 Prevention of Chemotherapy-Induced Nausea and Vomiting
 
@@ -355,7 +355,7 @@ The first trial compared oral doses of ondansetron 24 mg as a single dose, 8 mg 
 
 ---
 
-### Ondansetron hydrochloride and dextrose [^71009ed5]. FDA (2010). Low credibility.
+### Ondansetron hydrochloride and dextrose [^113tXow2]. FDA (2010). Low credibility.
 
 WARNINGS
 
@@ -363,7 +363,7 @@ Hypersensitivity reactions have been reported in patients who have exhibited hyp
 
 ---
 
-### Ondansetron hydrochloride and dextrose [^35aa9a62]. FDA (2010). Low credibility.
+### Ondansetron hydrochloride and dextrose [^112NZeYy]. FDA (2010). Low credibility.
 
 INDICATIONS AND USAGE
 
@@ -371,13 +371,13 @@ Prevention of nausea and vomiting associated with initial and repeat courses of 
 
 ---
 
-### Warning on use of ondansetron in first trimester of pregnancy [^96284567]. Drug and Therapeutics Bulletin (2020). Medium credibility.
+### Warning on use of ondansetron in first trimester of pregnancy [^114qcfpJ]. Drug and Therapeutics Bulletin (2020). Medium credibility.
 
 Every month, DTB scans sources of information on treatments, disease management and other healthcare topics for key items to bring to our readers' attention and help them keep up to date. To do this, we produce succinct, contextualised summaries of the information concerned.
 
 ---
 
-### Protocol for a double blind, randomised placebo-controlled trial using ondansetron to reduce vomiting in children receiving intranasal fentanyl and inhaled nitrous oxide for procedural sedation in the emergency department (the FON trial) [^e758b6ff]. BMJ Paediatrics Open (2018). Medium credibility.
+### Protocol for a double blind, randomised placebo-controlled trial using ondansetron to reduce vomiting in children receiving intranasal fentanyl and inhaled nitrous oxide for procedural sedation in the emergency department (the FON trial) [^116uywQJ]. BMJ Paediatrics Open (2018). Medium credibility.
 
 Study intervention
 
@@ -397,7 +397,7 @@ Following randomisation, participants receive a single dose of the study drug ac
 
 ---
 
-### Extrapyramidal reactions to ondansetron: cross-reactivity between ondansetron and prochlorperazine? [^d5771b1b]. Anesthesia and Analgesia (2003). Low credibility.
+### Extrapyramidal reactions to ondansetron: cross-reactivity between ondansetron and prochlorperazine? [^116TUNPt]. Anesthesia and Analgesia (2003). Low credibility.
 
 Implications
 
@@ -405,7 +405,7 @@ Ondansetron can rarely induce extrapyramidal reactions in susceptible individual
 
 ---
 
-### Prior authorization, quantity limits, and step therapy for patient-administered antiemetics [^7a7ee74e]. JAMA Network Open (2025). High credibility.
+### Prior authorization, quantity limits, and step therapy for patient-administered antiemetics [^1148c7fK]. JAMA Network Open (2025). High credibility.
 
 Methods
 
@@ -417,7 +417,7 @@ The formulary files contained binary indicators for prior authorization, step th
 
 ---
 
-### Granisetron vs ondansetron: is it a question of duration of 5-HT ₃ receptor blockade? [^9b0b50df]. British Journal of Cancer (2002). Low credibility.
+### Granisetron vs ondansetron: is it a question of duration of 5-HT ₃ receptor blockade? [^114xrt8e]. British Journal of Cancer (2002). Low credibility.
 
 British Journal of Cancer (2002) 86, 1662–1663. DOI:
 
@@ -425,13 +425,13 @@ British Journal of Cancer (2002) 86, 1662–1663. DOI:
 
 ---
 
-### Postoperative nausea and vomiting in the plastic surgery patient [^6b1fb2bd]. Aesthetic Plastic Surgery (2004). Low credibility.
+### Postoperative nausea and vomiting in the plastic surgery patient [^113jpKgg]. Aesthetic Plastic Surgery (2004). Low credibility.
 
 Despite great advances in modern medicine, postoperative nausea and vomiting (PONV) continue to be a significant problem without a definitive cure. This article describes a prospective study conducted with 143 plastic surgery patients at a single institution between 1998 and 2000 to identify preoperative risk factors for PONV that may be specific to plastic surgery patients. In addition, a prophylactic regimen was identified that demonstrated a decrease in the incidence of PONV from the published incidence of 22% to 3%. The regimen includes the use of multiple antiemetic agents including ondansetron (Zofran) promethazine (Phenergan), and metoclopramide (Reglan), with the addition of dexamethasone (Decadron) in selected cases
 
 ---
 
-### Ondansetron hydrochloride [^9e8ddd4f]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^11544hGa]. FDA (2025). Medium credibility.
 
 5.3 Serotonin Syndrome
 
@@ -451,13 +451,13 @@ Ondansetron is not a drug that stimulates gastric or intestinal peristalsis. It 
 
 ---
 
-### The efficacy of postoperative ondansetron (zofran) orally disintegrating tablets for preventing nausea and vomiting after acoustic neuroma surgery [^cfec949a]. Anesthesia and Analgesia (2005). Low credibility.
+### The efficacy of postoperative ondansetron (zofran) orally disintegrating tablets for preventing nausea and vomiting after acoustic neuroma surgery [^116KFuJ1]. Anesthesia and Analgesia (2005). Low credibility.
 
 Postoperative nausea and vomiting is a frequent complication of craniotomy. We evaluated the ability of intraoperative IV ondansetron followed by postoperative ondansetron in an orally disintegrating tablet formulation to reduce the frequency and severity of postoperative nausea and vomiting in a prospective, randomized, placebo-controlled double-blind trial of 60 patients undergoing acoustic neuroma resection. Each patient received intraoperative ondansetron (4 mg IV) or placebo 30 min before case end. Postoperatively, patients received ondansetron in an orally disintegrating tablet formulation (8 mg BID) or placebo twice a day for up to 72 h. Metoclopramide was available as rescue therapy for both groups. Severity of nausea (as measured on a 10-cm visual scale), number of emetic episodes, and requirement for rescue therapy were recorded. In the immediate postoperative period, nausea severity was less in patients treated with ondansetron than placebo (3.3 ± 4.1 versus 7.3 ± 4.2; P < 0.001) and fewer patients experienced vomiting (3 of 28 versus 11 of 32; chi2 P < 0.01). More patients required some form of rescue treatment in the placebo group on the first postoperative day (26 of 32 versus 16 of 28; chi2 P < 0.01). We conclude that after acoustic neuroma surgery IV ondansetron treatment prevents immediate postoperative nausea and vomiting. Postoperative treatment with ondansetron in an orally disintegrating tablet formulation was associated with less frequent rescue therapy as compared with placebo on the first postoperative day.
 
 ---
 
-### Dexamethasone versus ondansetron in the prevention of postoperative nausea and vomiting in patients undergoing laparoscopic surgery: a meta-analysis of randomized controlled trials [^ec23914f]. BMC Anesthesiology (2015). Low credibility.
+### Dexamethasone versus ondansetron in the prevention of postoperative nausea and vomiting in patients undergoing laparoscopic surgery: a meta-analysis of randomized controlled trials [^117362RL]. BMC Anesthesiology (2015). Low credibility.
 
 Data sources and search strategy
 
@@ -465,7 +465,7 @@ PubMed, Embase, Medline and Cochrane Library databases were searched from incept
 
 ---
 
-### Obtundation and seizure following ondansetron overdose in an infant [^da1834f9]. Clinical Toxicology (2008). Low credibility.
+### Obtundation and seizure following ondansetron overdose in an infant [^116aLS2L]. Clinical Toxicology (2008). Low credibility.
 
 Introduction
 
@@ -485,7 +485,7 @@ Health care providers should recognize the risk for acute toxicity following ond
 
 ---
 
-### Ondansetron tablets (ondansetron) [^10fccb9f]. FDA (2021). Medium credibility.
+### Ondansetron tablets (ondansetron) [^111SBiMt]. FDA (2021). Medium credibility.
 
 8.7 Renal Impairment
 
@@ -493,7 +493,7 @@ No dosage adjustment is recommended for patients with any degree of renal impair
 
 ---
 
-### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^208509cc]. Anesthesia and Analgesia (2021). Medium credibility.
+### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^111qDHp7]. Anesthesia and Analgesia (2021). Medium credibility.
 
 To the Editor
 
@@ -501,7 +501,7 @@ We congratulate and thank the Fourth Consensus Conference addressing Guidelines 
 
 ---
 
-### By what mechanism does ondansetron inhibit colonic migrating motor complexes: does it require endogenous serotonin in the gut wall? [^10933bb1]. Neurogastroenterology and Motility (2013). Low credibility.
+### By what mechanism does ondansetron inhibit colonic migrating motor complexes: does it require endogenous serotonin in the gut wall? [^111RaFqr]. Neurogastroenterology and Motility (2013). Low credibility.
 
 Background
 
@@ -521,13 +521,13 @@ Endogenous 5-HT in enteric neurons (or the mucosa) is not required for the spont
 
 ---
 
-### AGA clinical practice update on diagnosis and management of cyclic vomiting syndrome: commentary [^04f29023]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on diagnosis and management of cyclic vomiting syndrome: commentary [^1118LRdt]. Gastroenterology (2024). High credibility.
 
 Abortive therapy for CVS — the goal is to completely abort the emetic phase or drastically reduce its severity, with the highest probability when medications are taken as early into the prodromal phase as possible; nearly all patients with CVS require combinations of ≥ 2 agents to reliably abort attacks, commonly sumatriptan with an antiemetic such as ondansetron; sumatriptan can be administered via nasal spray or potentially via subcutaneous injection, ondansetron is available in a sublingual tablet form, other antiemetics such as promethazine and prochlorperazine are available in rectal suppository form, and inducing sedation is often effective with agents including promethazine, diphenhydramine, benzodiazepines, and alprazolam (available in sublingual tablet and rectally administered forms).
 
 ---
 
-### Sumatriptan succinate, ondansetron (sumansetron) [^7b9f85f2]. FDA (2023). Medium credibility.
+### Sumatriptan succinate, ondansetron (sumansetron) [^114AH4Rf]. FDA (2023). Medium credibility.
 
 16 HOW SUPPLIED/STORAGE AND HANDLING
 
@@ -545,25 +545,25 @@ NDC 45963-539-30 Bottles of 30
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^b95bcce3]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^115joYYr]. Academic Emergency Medicine (2012). Medium credibility.
 
 Stimulant poisoning/overdose — antiemetic prophylaxis: consider prophylactic use of antiemetic with adult ondansetron 4–8 mg SLOW IV over 2–5 minutes or 4–8 mg IM or 8 mg orally disintegrating tablet, pediatric ondansetron 0.15 mg/kg SLOW IV over 2–5 minutes, and do not use promethazine if haloperidol or droperidol are to be or have been given; they all increase QT prolongation, but ondansetron has less seizure risk.
 
 ---
 
-### Palliative care best practices guidelines [^934034ef]. ACS (2017). Medium credibility.
+### Palliative care best practices guidelines [^114mJkGv]. ACS (2017). Medium credibility.
 
 Palliative care best practices — nausea and vomiting lists ondansetron injection 4mg IV every 4 hours as needed.
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^7308df31]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^113wYZFE]. Anesthesia and Analgesia (2025). High credibility.
 
 Postoperative nausea and vomiting (PONV) rescue after failed prophylaxis — The more important findings of the review were from trials where prophylaxis was given but failed. For patients failing ondansetron prophylaxis, redosing with ondansetron or other 5-HT3 antagonists did not provide further benefits (A3, low certainty). Promethazine 6.25 mg and higher shows to be more effective in patients who failed ondansetron prophylaxis over the redosing of ondansetron (B1, low certainty). For promethazine, there is not an apparent dose response in the range of 6.25–25 mg, hence the lowest dose is recommended. The higher doses of promethazine in this range have been associated with sedation.
 
 ---
 
-### Drugs for the treatment of nausea and vomiting in adults in the emergency department setting [^807c77f1]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Drugs for the treatment of nausea and vomiting in adults in the emergency department setting [^114HVDuz]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -595,7 +595,7 @@ In an ED population, there is no definite evidence to support the superiority of
 
 ---
 
-### Antiemetic use in oncology: updated guideline recommendations from ASCO… [^21813351]. ASCO (2012). Low credibility.
+### Antiemetic use in oncology: updated guideline recommendations from ASCO… [^111rfzKz]. ASCO (2012). Low credibility.
 
 3receptor antagonist, dexamethasone, and an NK 1receptor antagonist. A large trial validated the equivalency of fosaprepitant, a single-day intravenous formulation, with aprepitant; either therapy is appropriate. Preferential use of palonosetron is recommended for moderate emetic risk regimens, combined with dexamethasone. |Fludarabine| List is not exhaustive. These anthracyclines, when combined with cyclophosphamide, are now designated as high emetic risk. Recommendation 1. The three-drug combination of an NK 1receptor antagonist, a 5-HT 3receptor antagonist, and dexamethasone is recommended for patients receiving highly emetogenic chemotherapy. This recommendation is unchanged since the 2006 update, but reworded for clarification. The Update Committee also recommended reclassification of the combined anthracycline and cyclophosphamide regimen as highly emetogenic.
 
@@ -609,7 +609,7 @@ Consider adding lorazepam or alprazolam to the regimen
 
 ---
 
-### A patterned human primitive heart organoid model generated by pluripotent stem cell self-organization [^f0b5aa5f]. Nature Communications (2023). High credibility.
+### A patterned human primitive heart organoid model generated by pluripotent stem cell self-organization [^1179s3mG]. Nature Communications (2023). High credibility.
 
 Cardiac organogenesis is a highly organized and carefully orchestrated process involving the interplay of millions of cells, and perturbations to this process can lead to congenital heart defects. Heart organoids represent a new avenue to explore heart development and congenital heart defects directly in humans and could be instrumental for disease modeling and pharmacological studies. For these reasons, we decided to investigate the effects of ondansetron (Zofran), a 5-HT 3 receptor antagonist and antiemetic used for treating nausea and vomitingand the most common prescription medication for preventing nausea and vomiting during pregnancy, with up to 25% of pregnant women taking it off-label during this period. Ondansetron has been epidemiologically linked to congenital heart defects (particularly ventricular septal defects) and orofacial defects –, although consensus in the field is dividedand well-designed studies to thoroughly investigate its safety are lacking. We investigated the effects of ondansetron treatment during heart organoid development and found that ondansetron exposure causes electrophysiological alterations as expected due to its chemistry as a serotonin inhibitor. More interestingly, however, ondansetron also directly and strongly inhibited ventricular cardiomyocyte differentiation or maturation, even at low doses, by an unknown mechanism. This phenotype corresponds with epidemiological clinical findings which associate ondansetron use during pregnancy with ventricular septal defects. This finding is important as it has significant implications in the clinic and suggests ondansetron should be administered with caution during pregnancy.
 
@@ -617,13 +617,13 @@ While our maturated human heart organoid technology opens exciting avenues for m
 
 ---
 
-### Optimal perioperative management of the geriatric patient: a best practices guideline from the American college of surgeons NSQIP and the American Geriatrics Society [^1754e5e2]. Journal of the American College of Surgeons (2016). Medium credibility.
+### Optimal perioperative management of the geriatric patient: a best practices guideline from the American college of surgeons NSQIP and the American Geriatrics Society [^111bbERo]. Journal of the American College of Surgeons (2016). Medium credibility.
 
 Postoperative nausea and vomiting (PONV) prophylaxis and treatment in adults — Beers criteria recommendations and cautions for commonly used medications are: 5-HT3 receptor antagonists (for example, ondansetron) — "Use as alternative"; cautions: "Serotonin syndrome" and "QT prolongation". Corticosteroids (for prophylaxis) — "Avoid in older adults with or at high risk for delirium"; caution: "May induce or worsen delirium". Transdermal scopolamine (for prophylaxis) — "Avoid unless no other alternatives"; cautions: "Strong anticholinergic properties (increased risk for delirium/cognitive impairment)" and "Can worsen constipation". Metoclopramide — "Avoid, unless for gastroparesis"; caution: "Risk of extrapyramidal effects may be increased in frail older adults". Low-dose promethazine — "Avoid"; cautions: "Anticholinergic (increased risk for delirium/cognitive impairment)" and "Increased risk of constipation". Prochlorperazine — "Avoid"; caution: "Anticholinergic (increased risk for delirium/cognitive impairment)".
 
 ---
 
-### Ondansetron hydrochloride (ondansetron) [^4e75abff]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride (ondansetron) [^1131KZQz]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -637,13 +637,13 @@ Each 5 mL of ondansetron oral solution, USP contains 5 mg of ondansetron hydroch
 
 ---
 
-### Practice parameter for the assessment and treatment of children and adolescents with tic disorders [^76669660]. Journal of the American Academy of Child and Adolescent Psychiatry (2013). Medium credibility.
+### Practice parameter for the assessment and treatment of children and adolescents with tic disorders [^1142XzpP]. Journal of the American Academy of Child and Adolescent Psychiatry (2013). Medium credibility.
 
 Tic disorders — ondansetron versus placebo in a parallel trial: In a study (reference 112) with 30 participants aged 12–46 (21.7 ± 9.14 y) using TSGS and YGTSS outcome measures, ondansetron was compared with placebo at a dose of 8–24 titrated over 3 wk; 54% of patients in the ondansetron group and 21% in the placebo group were considered improved.
 
 ---
 
-### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^e8a50399]. Anesthesia and Analgesia (2021). Medium credibility.
+### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^116wuZ7W]. Anesthesia and Analgesia (2021). Medium credibility.
 
 Perphenazine, a phenothiazine with antihistamine properties, at 5 mg IV, was included in the Consensus manuscript's Table 4, but the IV preparation has not been commercially available in the United States since the early 2000s. We have had extensive experience with OP8 in adults as part of a multimodal antiemetic plan, with its cost at the undersigned authors' institutions ranging from 50 cents to 2 dollars per dose (US currency). For this low cost per patient, we have previously reporteda 27.2% reduction in the need for IV ondansetron rescue in the postanesthesia care unit (PACU) in nearly 9500 patients from 2002 to 2006.
 
@@ -651,7 +651,7 @@ The implications of a routinely applied P-D-O technique, including for "zero ris
 
 ---
 
-### A patterned human primitive heart organoid model generated by pluripotent stem cell self-organization [^3453ff3f]. Nature Communications (2023). High credibility.
+### A patterned human primitive heart organoid model generated by pluripotent stem cell self-organization [^112Laa3p]. Nature Communications (2023). High credibility.
 
 Ondansetron treatment during heart organoid development captures congenital heart disease phenotypes associated with its use in the clinic
 
@@ -661,7 +661,7 @@ We sought to investigate the effects of ondansetron during human heart organoid 
 
 ---
 
-### Ondansetron hydrochloride [^57e75391]. FDA (2025). Medium credibility.
+### Ondansetron hydrochloride [^113FKd7v]. FDA (2025). Medium credibility.
 
 11 DESCRIPTION
 
@@ -677,7 +677,7 @@ Meets USP dissolution test 6.
 
 ---
 
-### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^49141557]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Getting through the day: a pilot qualitative study of U.S. women's experiences making decisions about anti-nausea medication during pregnancy [^112sLqpz]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Pathways to prescription
 
@@ -693,7 +693,7 @@ Focus Group 2, Participant 10: I never mentioned my nausea to my provider origin
 
 ---
 
-### Benefit-risk assessment of off-label drug use in children: the bravo framework [^ae000fda]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Benefit-risk assessment of off-label drug use in children: the bravo framework [^115SxsEy]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 STEP 3: OBJECTIVES FOR ONDANSETRON
 
@@ -701,31 +701,31 @@ The general objectives for efficacy, safety, and selection of the right dose app
 
 ---
 
-### AGA clinical practice guideline on management of gastroparesis [^b2dae892]. Gastroenterology (2025). High credibility.
+### AGA clinical practice guideline on management of gastroparesis [^115aAKqs]. Gastroenterology (2025). High credibility.
 
 Regarding medical management for gastroparesis, more specifically with respect to prokinetics and antiemetics, AGA 2025 guidelines recommend to consider offering antiemetics as needed for patients with GP, including selective serotonin receptor antagonists such as ondansetron and granisetron, H1RA such as promethazine, and dopamine D2 antagonists such as prochlorperazine. These medications reduce nausea and vomiting without affecting gastric emptying.
 
 ---
 
-### Are all 5-HT ₃ receptor antagonists the same? [^4c119015]. Journal of the National Comprehensive Cancer Network (2007). Low credibility.
+### Are all 5-HT ₃ receptor antagonists the same? [^112wmxZz]. Journal of the National Comprehensive Cancer Network (2007). Low credibility.
 
 The 5-hydroxytryptamine type 3 (5-HT3) receptor antagonists have become the cornerstone for preventing and treating chemotherapy-induced nausea and vomiting. Four 5-HT3 antagonists are commercially available in the United States, and numerous reports have been published comparing 2 or more agents. The studies ranged from randomized, double-blinded to open-label or retrospective trials; included chemotherapy-naïve and -non-naïve patients; and covered a range of doses and routes of administration with and without concomitant steroids, for preventing and treating nausea and vomiting after highly and moderately high emetogenic chemotherapy. With few exceptions, the studies uniformly show an equivalent efficacy rate and side effect profile among the various agents at equivalent doses. This article reviews the pharmacology of the class for insight into minor differences among the agents that could possibly influence drug selection for certain patients, and considers data on the absorption, half-life, metabolism, and receptor activity. Clinical trials support the claim of various guidelines that the 5-HT3 receptor antagonists are therapeutically similar in safety and efficacy, particularly because the current best practice for preventing nausea and vomiting after highly and moderately high emetogenic chemotherapy is a combination of a 5-HT3 antagonist, steroids, and aprepitant.
 
 ---
 
-### CDC yellow book 2026: health information for international travel. chapter 7 travel by air, land, and sea [^264f9ce0]. CDC (2025). High credibility.
+### CDC yellow book 2026: health information for international travel. chapter 7 travel by air, land, and sea [^111yoGh5]. CDC (2025). High credibility.
 
 Motion sickness — pharmacologic countermeasures: Drugs are useful when habituation is impractical, such as single or infrequent journeys, and individuals should be advised that medication is most effective when taken before exposure rather than after symptom onset. Drug categories include antimuscarinics (e.g., scopolamine), antihistamines (e.g., dimenhydrinate), and sympathomimetics (e.g., amphetamine), and all effective agents penetrate the blood–brain barrier and act centrally. The newer "minimally sedating" antihistamines (cetirizine, fexofenadine, loratadine) are not effective for treatment of motion sickness, and amphetamine or combinations of amphetamine plus scopolamine (or promethazine) are not available due to legal and drug abuse reasons. Other antiemetics such as ondansetron and granisetron are not effective against motion sickness because their sites of action are not at the central vestibular centers of the brain. Cannabis and constituents such as delta-9-tetrahydrocannabinol, but not cannabidiol (CBD), have shown anti-motion-sickness properties in animals, but controlled human trials are lacking so no firm recommendations can be made. All medications have side effects and possible specific contraindications, and the most common side effect is drowsiness or sedation.
 
 ---
 
-### Antiemetics: ASCO guideline update [^d32eebba]. Journal of Clinical Oncology (2020). High credibility.
+### Antiemetics: ASCO guideline update [^116Q69Z3]. Journal of Clinical Oncology (2020). High credibility.
 
 Antiemetic administration in adults by radiation therapy risk category — breakthrough dosing lists: ondansetron 8 mg oral, 8 mg oral dissolving tablet, or 8 mg oral soluble film, or 8 mg or 0.15 mg/kg IV; granisetron 2 mg oral or 1 mg or 0.01 mg/kg IV; dexamethasone 4 mg oral or IV; prochlorperazine 5–10 mg oral or IV; and metoclopramide 5–20 mg oral or IV; schedule: Use as breakthrough therapy. Ondansetron or granisetron are preferred because of the larger body of evidence, and patients can receive breakthrough therapy as needed; alternative explanations for symptoms should be investigated to avoid the need for prophylactic therapy for the remainder of radiation therapy.
 
 ---
 
-### Apomorphine hydrochloride (Onapgo) [^8cdb58a7]. FDA (2025). Medium credibility.
+### Apomorphine hydrochloride (Onapgo) [^114bpwfU]. FDA (2025). Medium credibility.
 
 2.1 Important Information
 
@@ -746,7 +746,7 @@ After starting ONAPGO, adjustment of concomitant anti-Parkinson's disease medica
 
 ---
 
-### Ondansetron tablets (ondansetron) [^d88f96ce]. FDA (2021). Medium credibility.
+### Ondansetron tablets (ondansetron) [^116Y4ZDF]. FDA (2021). Medium credibility.
 
 11 DESCRIPTION
 
@@ -762,19 +762,19 @@ This product meets USP Dissolution Test 3.
 
 ---
 
-### North American society for pediatric gastroenterology, hepatology, and nutrition consensus statement on the diagnosis and management of cyclic vomiting syndrome [^59c20a29]. Journal of Pediatric Gastroenterology and Nutrition (2008). Medium credibility.
+### North American society for pediatric gastroenterology, hepatology, and nutrition consensus statement on the diagnosis and management of cyclic vomiting syndrome [^113J55HA]. Journal of Pediatric Gastroenterology and Nutrition (2008). Medium credibility.
 
 North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition — antiemetic dosing and efficacy in CVS indicate that expert experience recommends ondansetron doses of 0.3 to 0.4 mg/kg with a usual upper limit of 20 mg/dose, with safe use of doses up to 32 mg reported in children; promethazine and prochlorperazine are described as ineffective compared with ondansetron (22% vs 58%, P < 0.05); when antiemetics fail, expert opinion recommends adding sedatives, with the most effective combination therapy being ondansetron and lorazepam, and an alternative of chlorpromazine and diphenhydramine that provides less antiemetic and more sedative effect.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^0c1e84e8]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^111Jy6wh]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Dopamine antagonists — metoclopramide and phenothiazines (promethazine, prochlorperazine, or chlorpromazine) "may be given orally, rectally, intramuscularly, or intravenously", and "Relief of nausea and vomiting has been demonstrated in large groups of patients". In a double-blind RCT of hyperemesis gravidarum, "intravenous promethazine versus metoclopramide" had "similar efficacy" at "24 hours", but rates of "drowsiness, dizziness, and dystonia were less with metoclopramide use". Adverse effects "include dry mouth, drowsiness, dystonia, and sedation", and while one study linked phenothiazines to malformations, "the aggregate of studies attests to their safety". "Metoclopramide use during pregnancy has not been shown to increase risk of congenital malformations", and "The serotonin 5-HT3 inhibitor (eg, ondansetron) when used with phenothiazine medications… may result in a potential cardiac risk of QT interval prolongation".
 
 ---
 
-### Ondansetron [^d3adab85]. FDA (2025). Medium credibility.
+### Ondansetron [^116Qpipt]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of ondansetron PO:
 - **Anaphylaxis, bronchospasm**: use extreme caution in patients with hypersensitivity to selective 5-HT₃ receptor antagonists.
@@ -786,13 +786,13 @@ Warnings and precautions regarding the use of ondansetron PO:
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^3189b1f3]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^112GSeKt]. Academic Emergency Medicine (2012). Medium credibility.
 
 Ondansetron — an antiemetic selective 5‑HT3 antagonist — has the following profile: "Mechanism not fully characterized; selective 5-HT3 receptor antagonist; binds to 5-HT3 receptors both in periphery and in CNS, with primary effects in GI tract. Has no effect on dopamine receptors and therefore does not cause extrapyramidal symptoms". Indications are "For the management of nausea or vomiting". The note states "EKG monitoring is recommended in patients who have electrolyte abnormalities, CHF, or bradyarrhythmias or who are also receiving other medications that cause QT prolongation". Contraindications are "Hypersensitivity, coadministration with apomorphine; combination reported to cause profound hypotension and loss of consciousness". The warning is "May cause dose-dependent QT prolongation, avoid in patients with congenital long QT syndrome".
 
 ---
 
-### Ondansetron [^f311ca7e]. FDA (2025). Medium credibility.
+### Ondansetron [^117DMy5P]. FDA (2025). Medium credibility.
 
 6 ADVERSE REACTIONS
 
@@ -828,13 +828,13 @@ Central Nervous System: Extrapyramidal reactions (less than 1% of patients).
 
 ---
 
-### Consensus recommendations for the prevention of vomiting and nausea following high-emetic-risk chemotherapy [^2f7961ad]. Supportive Care in Cancer (2011). Low credibility.
+### Consensus recommendations for the prevention of vomiting and nausea following high-emetic-risk chemotherapy [^112DPBwz]. Supportive Care in Cancer (2011). Low credibility.
 
 In this update of our 2005 document, we used an evidence-based approach whenever possible to formulate recommendations, emphasizing the results of controlled trials concerning the best use of antiemetic agents for the prevention of emesis and nausea following anticancer chemotherapies of high emetic risk. A three-drug combination of a 5-hydroxytryptamine type 3 receptor (5-HT(3)) receptor antagonist, dexamethasone, and aprepitant beginning before chemotherapy and continuing for up to 4 days remains the standard of care. We address issues of dose, schedule, and route of administration of five selective 5-HT(3) receptor antagonists. We conclude that, for each of these five drugs, there is a plateau in therapeutic efficacy above which further dose escalation does not improve outcome. In trials designed to prove the equivalence of palonosetron to ondansetron and granisetron, palonosetron proved superior in emesis prevention, while adverse effects were comparable. Furthermore, for all classes of antiemetic agents, a single dose is as effective as multiple doses or a continuous infusion. The oral route is as efficacious as the intravenous route of administration.
 
 ---
 
-### Efficacy of perphenazine to prevent postoperative nausea and vomiting: a quantitative systematic review [^2de2fa49]. European Journal of Anaesthesiology (2010). Low credibility.
+### Efficacy of perphenazine to prevent postoperative nausea and vomiting: a quantitative systematic review [^112B2gZe]. European Journal of Anaesthesiology (2010). Low credibility.
 
 Background and Objective
 
@@ -854,7 +854,7 @@ there is evidence that perphenazine is effective in the prevention of PONV in ch
 
 ---
 
-### Benefit-risk assessment of off-label drug use in children: the bravo framework [^5846209c]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Benefit-risk assessment of off-label drug use in children: the bravo framework [^113FsTzT]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 TRADE‐OFFS: BALANCING BENEFITS AND RISKS OF ONDANSETRON
 
@@ -878,13 +878,13 @@ The benefits only outweigh the risks when oral rehydration therapy alone is insu
 
 ---
 
-### Beneficial adjunctive effects of the 5HT3 receptor antagonist ondansetron on symptoms, function and cognition in early phase schizophrenia in a double-blind, 2 × 2 factorial design, randomised controlled comparison with simvastatin [^e8649e84]. Journal of Psychopharmacology (2024). Medium credibility.
+### Beneficial adjunctive effects of the 5HT3 receptor antagonist ondansetron on symptoms, function and cognition in early phase schizophrenia in a double-blind, 2 × 2 factorial design, randomised controlled comparison with simvastatin [^116wXvbm]. Journal of Psychopharmacology (2024). Medium credibility.
 
 We conducted a small, placebo-controlled, rater-blind 12-week pilot study adding ondansetron or simvastatin to TAU in 36 patients with chronic schizophrenia. Both agents were well tolerated with no serious side effects. In the present study, the primary prediction was that the addition of ondansetron and/or simvastatin to TAU would improve negative symptoms. Secondary outcomes were improvements in positive symptoms, social functioning and cognitive functions. A preliminary analysis of this study was published in abstract form reporting small positive effects of both drugs versus placebo on negative symptom ratings when given alone but not when given in combination. Here we present a full report together with our recent analyses revealing the mechanism of the negative interaction and the enhanced benefit of ondansetron in those with less than 5 years of drug treatment.
 
 ---
 
-### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^f52f0feb]. Anesthesia and Analgesia (2021). Medium credibility.
+### Oral perphenazine 8 mg: a low-cost, efficacious antiemetic option [^117GVmtW]. Anesthesia and Analgesia (2021). Medium credibility.
 
 Table.
 Scenario Analysis of Side-by-Side Estimated Incidences of PONV When the Consensus Guidelines Are Followed Versus the Proposed P-D-O Technique
@@ -897,7 +897,7 @@ As a reminder, metoclopramide should be considered contraindicated for periopera
 
 ---
 
-### Sumatriptan succinate, ondansetron (sumansetron) [^b112165f]. FDA (2023). Medium credibility.
+### Sumatriptan succinate, ondansetron (sumansetron) [^115XWtFY]. FDA (2023). Medium credibility.
 
 5.3 Serotonin Syndrome
 
@@ -913,13 +913,13 @@ Ondansetron tablets are not a drug that stimulates gastric or intestinal perista
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^f1eee50d]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^117BgFxg]. Anesthesia and Analgesia (2025). High credibility.
 
 Ondansetron — Ondansetron was the first 5-HT3 RA on the market and commonly used as the preferred antiemetic for PONV prophylaxis; the drug was approved by the U.S. Food and Drug Administration (FDA), recommended dose was 4 mg by slow IV injection or 16 mg of the oral formulation (oral disintegrating tablets, given 1 hour before induction). The IV drug has a mean elimination half-life of 3.1–5.8 hours in adults and is extensively metabolized by the liver, and CYP 2D6 ultrametabolizers are significantly more likely to develop PONV despite ondansetron prophylaxis. In a 2021 Cochrane network meta-analysis (NMA) on drugs for PONV prophylaxis in adults after general anesthesia, 585 randomized trials enrolling 97,516 patients were included to evaluate 44 single drugs and 51 drug combinations, and ondansetron was the most investigated single drug followed by dexamethasone. Since the 2020 PONV Guideline, several studies have compared ondansetron 4 mg with dexamethasone 8 mg and concluded that ondansetron 4 mg is more effective for PONV prophylaxis; ondansetron 4 mg is comparable to prochlorperazine 10 mg for PONV prophylaxis, with a trend towards greater risk of side effects in the prochlorperazine group.
 
 ---
 
-### Ondansetron hydrochloride and dextrose [^fc987714]. FDA (2010). Low credibility.
+### Ondansetron hydrochloride and dextrose [^117TV6H1]. FDA (2010). Low credibility.
 
 CONTRAINDICATIONS
 
@@ -927,7 +927,7 @@ Ondansetron in 5% Dextrose Injection is contraindicated for patients known to ha
 
 ---
 
-### Benefit-risk assessment of off-label drug use in children: the bravo framework [^15ee434f]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Benefit-risk assessment of off-label drug use in children: the bravo framework [^111ZWmev]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 RISK TOLERANCE FOR THE USE OF ONDANSETRON FOR GASTROENTERITIS‐INDUCED NAUSEA AND VOMITING
 
@@ -935,13 +935,13 @@ The assessment has been reviewed by the DPF's editorial board. The board conclud
 
 ---
 
-### Beneficial adjunctive effects of the 5HT3 receptor antagonist ondansetron on symptoms, function and cognition in early phase schizophrenia in a double-blind, 2 × 2 factorial design, randomised controlled comparison with simvastatin [^b45e7b98]. Journal of Psychopharmacology (2024). Medium credibility.
+### Beneficial adjunctive effects of the 5HT3 receptor antagonist ondansetron on symptoms, function and cognition in early phase schizophrenia in a double-blind, 2 × 2 factorial design, randomised controlled comparison with simvastatin [^115cQWQ7]. Journal of Psychopharmacology (2024). Medium credibility.
 
 In conclusion, our study examined the potential benefits of two novel agents in the treatment of schizophrenia. Both drugs caused statistically significant but clinically unimportant reductions in negative symptoms, the primary outcome variable. Although it was hypothesised that the two agents could have additive effects, when taken in combination, their effects were lessened by the emergence of depressive symptoms and increased side effects. An exploratory analysis revealed a full spectrum of symptomatic, functional and cognitive improvement in patients with less than 5 years of treatment when exposed to ondansetron whether alone or in combination with simvastatin. However, the benefits of ondansetron were not clinically transformative in this stable population and although there might be greater benefit on persistent symptoms, the latter are best treated early with clozapine. We suggest that ondansetron might most usefully be evaluated in help-seeking patients with the prodromal at-risk mental state prior to the need for antipsychotic medication. Such patients have a broad range of perceptual, affective and cognitive symptoms, and functional impairment for which there is no indicated medical treatment and which we found benefitted from ondansetron, a well-tolerated and safe drug.
 
 ---
 
-### Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association [^b810900b]. Neurogastroenterology and Motility (2019). Medium credibility.
+### Guidelines on management of cyclic vomiting syndrome in adults by the American Neurogastroenterology and Motility Society and the Cyclic Vomiting Syndrome Association [^115htHX8]. Neurogastroenterology and Motility (2019). Medium credibility.
 
 4.2 Recommendation 7. We conditionally recommend using serotonin antagonists such as ondansetron to abort symptoms of a CVS episode
 
@@ -955,31 +955,31 @@ The committee recommends ondansetron as a first‐line agent in aborting an epis
 
 ---
 
-### British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018 [^2dc7a417]. The British Journal of Dermatology (2018). Medium credibility.
+### British Association of Dermatologists' guidelines for the investigation and management of generalized pruritus in adults without an underlying dermatosis, 2018 [^112AsW14]. The British Journal of Dermatology (2018). Medium credibility.
 
 Regarding medical management for pruritus, more specifically with respect to systemic therapy, serotonin receptor antagonists, BAD 2018 guidelines recommend to consider offering ondansetron in patients with generalized pruritus.
 
 ---
 
-### Ondansetron has similar clinical efficacy against both nausea and vomiting [^83838491]. Anaesthesia (2009). Low credibility.
+### Ondansetron has similar clinical efficacy against both nausea and vomiting [^114MyZ6G]. Anaesthesia (2009). Low credibility.
 
 Ondansetron is widely believed to prevent postoperative vomiting more effectively than nausea. We analysed data from 5161 patients undergoing general anaesthesia who were randomly stratified to receive a combination of six interventions, one of which was 4 mg ondansetron vs placebo. For the purpose of this study a 20% difference in the relative risks for the two outcomes was considered clinically relevant. Nausea was reduced from 38% (969/2585) in the control to 28% (715/2576) in the ondansetron group, corresponding to a relative risk of 0.74, or a relative risk reduction of 26%. Vomiting was reduced from 17% (441/2585) to 11% (293/2576), corresponding to a relative risk of 0.67, or a relative risk reduction of 33%. The relative risks of 0.67 and 0.74 were clinically similar and the difference between them did not reach statistical significance. We thus conclude that ondansetron prevents postoperative nausea and postoperative vomiting equally well.
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^369bd9e4]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^112PxgSf]. Anesthesia and Analgesia (2025). High credibility.
 
 Guideline 3 — Administer PONV prophylaxis using 2 interventions in adults at any risk for postoperative nausea and vomiting (PONV) — notes that randomized controlled trials, meta-analyses, guidelines, and expert opinion recommend the use of combination therapy and administration of 2 antiemetics in patients with 1–2 risk factors for prevention of PONV, and that the majority of single drug to single drug comparison studies for prevention of PONV are on the 5-HT3 receptor antagonist (RA) class of antiemetics.
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^beb0b57a]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^115si17P]. Academic Emergency Medicine (2012). Medium credibility.
 
 NASEMSO National Model EMS Clinical Guidelines — patient safety considerations note that ondansetron should not be administered to patients who have a prolonged QT interval as it can cause torsades, that for very young pediatric patients ondansetron can be sedating, and that dystonic and extrapyramidal symptoms are possible side effects of antiemetics for which diphenhydramine may be used at adult 25–50 mg IV/IM/PO or pediatric 1 mg/kg IV/IM/PO (maximum dose 50 mg); medications that prolong the QT interval may alter treatment options.
 
 ---
 
-### Ondansetron [^384a0eba]. FDA (2025). Medium credibility.
+### Ondansetron [^112STBYD]. FDA (2025). Medium credibility.
 
 In the same trial, 56% of patients receiving a single 24-mg oral dose of ondansetron experienced no nausea during the 24-hour trial period, compared with 36% of patients in the oral ondansetron 8‑mg twice-a-day group (P = 0.001) and 50% in the oral ondansetron 32-mg once-a-day group. Dosage regimens of ondansetron 8 mg twice daily and 32 mg once daily are not recommended for the prevention of nausea and vomiting associated with highly emetogenic chemotherapy [see Dosage and Administration (2.1)].
 
@@ -991,13 +991,13 @@ A randomized, placebo-controlled, double‑blind trial was conducted in the US i
 
 ---
 
-### Fourth consensus guidelines for the management of postoperative nausea and vomiting [^77b9d14a]. Anesthesia and Analgesia (2020). High credibility.
+### Fourth consensus guidelines for the management of postoperative nausea and vomiting [^1144VwZ3]. Anesthesia and Analgesia (2020). High credibility.
 
 Combination antiemetic therapy — The panel continues to recommend combination antiemetic therapy for patients at higher risk for postoperative nausea and vomiting (PONV), noting robust literature showing that combinations of 2 or more antiemetics are superior to single agents, and that use of combination therapy in adults is firmly established in anesthesia practice.
 
 ---
 
-### Ondansetron (marketed as zofran) information… [^086c1bc2]. FDA (2015). Low credibility.
+### Ondansetron (marketed as zofran) information… [^111DVDNq]. FDA (2015). Low credibility.
 
 Ondansetron is used to prevent nausea and vomiting caused by cancer chemotherapy, radiation therapy and surgery. It is in a class of medications called 5-HT3 receptor antagonists and works by blocking the action of serotonin, a natural substance that may cause nausea and vomiting. Adverse reactions or quality problems experienced with the use of this product may be reported to the FDA's MedWatch Adverse Event Reporting program using the contact information at the bottom of this page. Related Information
 - **FDA Drug Safety Communication**: Updated information on 32 mg intravenous ondansetron dose and pre-mixed ondansetron products
@@ -1007,13 +1007,13 @@ Ondansetron is used to prevent nausea and vomiting caused by cancer chemotherapy
 
 ---
 
-### The management of nausea and vomiting of pregnancy [^6cd1442c]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
+### The management of nausea and vomiting of pregnancy [^113nKxGj]. Journal of Obstetrics and Gynaecology Canada (2016). Medium credibility.
 
 Regarding medical management for nausea and vomiting of pregnancy, more specifically with respect to antiemetics, SOGC 2016 guidelines recommend to consider offering ondansetron as an adjunctive therapy in patients with severe NVOP when other antiemetic combinations have failed.
 
 ---
 
-### Sumatriptan succinate, ondansetron (sumansetron) [^d3553539]. FDA (2023). Medium credibility.
+### Sumatriptan succinate, ondansetron (sumansetron) [^116QK1Sp]. FDA (2023). Medium credibility.
 
 11 DESCRIPTION
 
@@ -1029,13 +1029,13 @@ This product meets USP Dissolution Test 3.
 
 ---
 
-### Fourth consensus guidelines for the management of postoperative nausea and vomiting [^5b9eee63]. Anesthesia and Analgesia (2020). High credibility.
+### Fourth consensus guidelines for the management of postoperative nausea and vomiting [^113LqFsg]. Anesthesia and Analgesia (2020). High credibility.
 
 Perphenazine for PONV — Limited evidence indicates prophylactic benefit without added sedation, with a recommended dose of 5 mg IV (evidence A1).
 
 ---
 
-### A randomized, placebo-controlled trial of ondansetron, metoclopramide, and promethazine in adults [^2133a965]. The American Journal of Emergency Medicine (2011). Low credibility.
+### A randomized, placebo-controlled trial of ondansetron, metoclopramide, and promethazine in adults [^111rDwkY]. The American Journal of Emergency Medicine (2011). Low credibility.
 
 Objectives
 
@@ -1055,7 +1055,7 @@ Our study shows no evidence that ondansetron is superior to metoclopramide and p
 
 ---
 
-### No more than necessary: safety and efficacy of low-dose promethazine [^213a782b]. The Annals of Pharmacotherapy (2006). Low credibility.
+### No more than necessary: safety and efficacy of low-dose promethazine [^111rGENn]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Background
 
@@ -1079,7 +1079,7 @@ Low-dose (6.25 mg) intravenous promethazine relieves nausea and vomiting as effe
 
 ---
 
-### Antiemetic medications for preventing chemotherapy-induced nausea and vomiting in children: a systematic review and Bayesian network meta-analysis [^63db842f]. Supportive Care in Cancer (2024). Medium credibility.
+### Antiemetic medications for preventing chemotherapy-induced nausea and vomiting in children: a systematic review and Bayesian network meta-analysis [^113Z3WRU]. Supportive Care in Cancer (2024). Medium credibility.
 
 Conclusions
 
@@ -1087,25 +1087,25 @@ Regimens of olanzapine given with aprepitant, ondansetron, and dexamethasone are
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^d9b2c817]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^116ZkN6i]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Serotonin 5-hydroxytryptamine type 3 (5-HT3) receptor antagonists (eg, ondansetron) — comparative efficacy, safety, dosing limits, and pregnancy risk are described as follows: randomized trials reported that intravenous ondansetron and metoclopramide had similar efficacy with fewer adverse symptoms at 24 hours on ondansetron, oral ondansetron was better at controlling vomiting with similar nausea control, and ondansetron was more effective than doxylamine plus vitamin B6 in a small double-blind RCT of 36 women. Common adverse effects include headache, drowsiness, fatigue, and constipation, and ondansetron can prolong the QT interval. In December 2012, the FDA removed the 32-mg single intravenous dose because of QT prolongation leading to torsade de pointes, and recommends ondansetron not be given intravenously in doses greater than 16 mg; electrolyte and electrocardiogram monitoring are recommended for patients with arrhythmia risk factors. There are insufficient fetal safety data; a possible first-trimester association with cleft palate has limited evidence, and a systematic review found eight studies with a small increase in cardiac defects in two studies (odds ratio [OR], 2.0; 95% CI; 1.3–3.1 and OR, 1.62; 95% CI; 1.04–2.14) but no increase in overall malformations. Women should be counseled regarding the available data, and the use of ondansetron before 10 weeks of gestation should be individualized weighing the risks and benefits.
 
 ---
 
-### Consensus proposals for the prevention of acute and delayed vomiting and nausea following high-emetic-risk chemotherapy [^40d09041]. Supportive Care in Cancer (2005). Low credibility.
+### Consensus proposals for the prevention of acute and delayed vomiting and nausea following high-emetic-risk chemotherapy [^112f6GBS]. Supportive Care in Cancer (2005). Low credibility.
 
 This paper uses an evidence-based approach whenever possible to formulate recommendations, emphasizing the results of controlled trials concerning the best use of antiemetic agents. We address issues of dose, schedule, and route of administration of five selective 5-HT(3) antagonists. We conclude that for each of these five drugs, there is a plateau in therapeutic efficacy above which further dose escalation does not improve outcome. Furthermore, for all classes of antiemetic agents, a single dose is as effective as multiple doses or a continuous infusion. The oral route is as efficacious as the intravenous route of administration, even with chemotherapy of high emetic risk. Selective antagonists of the type 3 serotonin receptor (5-HT(3)) in combination with dexamethasone and aprepitant are the standard of care for the prevention of emesis following chemotherapy of high emetic risk.
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^2919d037]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^1123wASS]. Anesthesia and Analgesia (2025). High credibility.
 
 Postoperative nausea and vomiting (PONV) multi-drug prophylaxis beyond two agents: Since then, there have been several studies that introduced a third or a fourth antiemetic and demonstrated clinical benefits. Aprepitant 40 mg PO before surgery as a fourth prophylactic intervention (in addition to ondansetron, dexamethasone and propofol TIVA) significantly reduced the incidence of PONV. Olanzapine 10 mg PO before surgery in addition to ondansetron 8 mg and dexamethasone 8 mg also resulted in lower PONV incidence. Haloperidol in addition to ondansetron and dexamethasone was more effective than promethazine plus ondansetron and dexamethasone. In an RCT of patients undergoing sleeve gastrectomy, patients received ondansetron plus dexamethasone, with or without aprepitant 80 mg, scopolamine patch, and propofol TIVA. The combination of the 5 antiemetic interventions resulted in significantly lower PONV severity, but it is not clear whether the three additional interventions all contributed to the clinical benefit. More research is required on the efficacy of adding a third or fourth antiemetic in high-risk patients. Since the last consensus guideline, there has been an exponential increase in the number of different antiemetic combinations reported within the literature; however, not all combination antiemetic studies adequately addressed the question of whether the additional antiemetic led to clinical benefit, and they offer limited insight into the efficacy of the additional antiemetic.
 
 ---
 
-### Beneficial effects of ondansetron as an adjunct to haloperidol for chronic, treatment-resistant schizophrenia: a double-blind, randomized, placebo-controlled study [^2b395e5f]. Schizophrenia Research (2006). Low credibility.
+### Beneficial effects of ondansetron as an adjunct to haloperidol for chronic, treatment-resistant schizophrenia: a double-blind, randomized, placebo-controlled study [^11275jkS]. Schizophrenia Research (2006). Low credibility.
 
 Background
 
@@ -1125,13 +1125,13 @@ Ondansetron is an effective adjunctive agent in enhancing the effectiveness and 
 
 ---
 
-### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^2de9a93c]. Anesthesia and Analgesia (2025). High credibility.
+### Fifth consensus guidelines for the management of postoperative nausea and vomiting: executive summary [^112B4vmR]. Anesthesia and Analgesia (2025). High credibility.
 
 Fifth Consensus Guidelines — risk-based prophylaxis for postoperative nausea and vomiting (PONV): Patients with 1–2 risk factors should receive combination prophylactic therapy with two agents, most commonly ondansetron and dexamethasone, while higher risk patients (3+ risk factors) should receive at least two-agent combination prophylactic therapy; given insufficient evidence to add a third agent, attention should instead be focused on sufficient risk mitigation techniques.
 
 ---
 
-### Ondansetron tablets (ondansetron) [^cc8a68b9]. FDA (2021). Medium credibility.
+### Ondansetron tablets (ondansetron) [^116EExv4]. FDA (2021). Medium credibility.
 
 6 ADVERSE REACTIONS
 
@@ -1163,7 +1163,7 @@ Less Common Adverse Reactions
 
 ---
 
-### Current position of 5HT3 antagonists and the additional value of NK1 antagonists; a new class of antiemetics [^361fb4ed]. British Journal of Cancer (2003). Low credibility.
+### Current position of 5HT3 antagonists and the additional value of NK1 antagonists; a new class of antiemetics [^112PEyv4]. British Journal of Cancer (2003). Low credibility.
 
 CURRENT ROLE OF 5HT 3 ANTAGONISTS PLUS DEXAMETHASONE; ACUTE PHASE
 
@@ -1171,6 +1171,6 @@ Before the advent of the 5HT 3 antagonists, nausea and vomiting were ranked as t
 
 ---
 
-### Antiemetic guidelines: creating a more practical treatment approach [^82b2904a]. Supportive Care in Cancer (2002). Low credibility.
+### Antiemetic guidelines: creating a more practical treatment approach [^114LmNLR]. Supportive Care in Cancer (2002). Low credibility.
 
 Antiemetic guidelines from a variety of professional organizations have been available for several years. It is unclear just how often these guidelines have been used, however; data indicate that some practitioners still do not treat their patients according to the recommendations. Some of those involved in the creation of the original guidelines convened to try to create a simpler, more practical approach to the use of antiemetics in preventing chemotherapy-induced nausea and vomiting. The group's intention was to clarify available guidelines and produce a practical document, based on evidence, that could be used in everyday practice. The group created four consensus statements that would serve as a basis for their recommendations. One primary strategy used was to have chemotherapy-induced nausea and vomiting viewed as a single process that can occur throughout a treatment cycle, and not so much as an acute and a delayed process, as is usual in clinical trials. Patients' management should be considered over a 4- to 5-day period, rather than primarily dealing with the day of treatment only. The group created three tables: emetic risk of chemotherapy; treatment options based on emetic category; and antiemetic dosing recommendations. Use of these tables should make appropriate antiemetic selection more straightforward and easier for the practitioner in an everyday setting. Although this document alone may not solve all the challenges with appropriate antiemetic management, it will hopefully prove to be a step in the right direction.

@@ -15,42 +15,42 @@ pediatric lab workup for abdominal pain
 
 > Let's see… What do we have here? The user is asking about the pediatric lab workup for abdominal pain. Let's break this down step-by-step. First, I need to think about how to stratify the presentation into acute versus chronic and identify red flags. Then, I should verify which core labs are universally indicated and which are targeted based on the differential. Next, I will examine the role and limitations of CBC, inflammatory markers, and pancreatitis enzymes. After that, I need to check age- and sex-specific additions such as pregnancy testing and STI screening. Finally, I will integrate imaging stewardship and synthesize a practical algorithm, making sure I double-check where the evidence is strong versus uncertain.
 
-> Let me first confirm the foundational approach: most pediatric abdominal pain is benign and self-limited, so I should avoid reflexive broad testing and anchor on history, exam, and targeted labs, reserving imaging for selected cases and using ultrasound first to minimize radiation exposure [^85c06970] [^88e1d68e].
+> Let me first confirm the foundational approach: most pediatric abdominal pain is benign and self-limited, so I should avoid reflexive broad testing and anchor on history, exam, and targeted labs, reserving imaging for selected cases and using ultrasound first to minimize radiation exposure [^114RHyy1] [^114VwB1P].
 
-> I will now examine the initial triage into acute versus chronic and screen for alarm features, because this determines the breadth of the workup. Acute pain is less than about 2 weeks, whereas chronic or recurrent pain spans months; alarm signs such as weight loss, GI bleeding, persistent fever, jaundice, localized rigidity, or bilious vomiting push me toward more aggressive evaluation and imaging, whereas their absence supports a conservative, watchful approach [^85c06970] [^d21b0141].
+> I will now examine the initial triage into acute versus chronic and screen for alarm features, because this determines the breadth of the workup. Acute pain is less than about 2 weeks, whereas chronic or recurrent pain spans months; alarm signs such as weight loss, GI bleeding, persistent fever, jaundice, localized rigidity, or bilious vomiting push me toward more aggressive evaluation and imaging, whereas their absence supports a conservative, watchful approach [^114RHyy1] [^116NVUH6].
 
-> Next, I should review the core labs that are reasonable in most children with acute abdominal pain. Wait, let me verify the essentials: urinalysis to assess for UTI or hematuria, a CBC to evaluate for leukocytosis or anemia, and a basic metabolic panel to assess electrolytes, renal function, and glucose are commonly recommended. In adolescents, a pregnancy test is indicated when relevant, and CRP can be added when appendicitis is suspected, though I need to remember CRP adds limited standalone value early on [^85c06970] [^b87db431] [^031de284].
+> Next, I should review the core labs that are reasonable in most children with acute abdominal pain. Wait, let me verify the essentials: urinalysis to assess for UTI or hematuria, a CBC to evaluate for leukocytosis or anemia, and a basic metabolic panel to assess electrolytes, renal function, and glucose are commonly recommended. In adolescents, a pregnancy test is indicated when relevant, and CRP can be added when appendicitis is suspected, though I need to remember CRP adds limited standalone value early on [^114RHyy1] [^115iWwmA] [^1115d13q].
 
-> Hold on, let's not jump to conclusions about CBC and inflammatory markers. I should double-check their diagnostic performance for appendicitis. Fever and rebound tenderness increase the likelihood of appendicitis, and a WBC less than 10,000/µL lowers the likelihood, but no single lab rules in or out appendicitis reliably; combining clinical features with labs and selective imaging yields the best balance of sensitivity and specificity, and CRP may be more informative after 24–48 hours of symptoms [^affc2d07] [^031de284].
+> Hold on, let's not jump to conclusions about CBC and inflammatory markers. I should double-check their diagnostic performance for appendicitis. Fever and rebound tenderness increase the likelihood of appendicitis, and a WBC less than 10,000/µL lowers the likelihood, but no single lab rules in or out appendicitis reliably; combining clinical features with labs and selective imaging yields the best balance of sensitivity and specificity, and CRP may be more informative after 24–48 hours of symptoms [^115VuY6i] [^1115d13q].
 
-> For suspected pancreatitis, I need to ensure I order the right enzymes and thresholds. Diagnosis requires at least two of compatible abdominal pain, serum amylase or lipase at least three times the upper limit of normal, or imaging consistent with pancreatitis; I should also obtain liver enzymes, triglycerides, and calcium in a first attack to evaluate etiology, and I should avoid ordering both amylase and lipase routinely because concurrent testing rarely adds value beyond lipase alone in the ED setting [^42bd0a22] [^867070b7] [^e6d054fc].
+> For suspected pancreatitis, I need to ensure I order the right enzymes and thresholds. Diagnosis requires at least two of compatible abdominal pain, serum amylase or lipase at least three times the upper limit of normal, or imaging consistent with pancreatitis; I should also obtain liver enzymes, triglycerides, and calcium in a first attack to evaluate etiology, and I should avoid ordering both amylase and lipase routinely because concurrent testing rarely adds value beyond lipase alone in the ED setting [^112hwgPT] [^114SK7Gz] [^116uC8T5].
 
-> Let me consider chronic or recurrent abdominal pain carefully. Functional abdominal pain is common and, in the absence of alarm features, does not require routine labs; however, if alarm features are present or the pain persists, a focused panel including CBC, ESR or CRP, fecal calprotectin, and celiac serology is reasonable, with the caveat that adding routine hemoglobin, ESR, and CRP to fecal calprotectin and anti-tTG may not meaningfully increase diagnostic yield for organic disease in all settings [^d21b0141] [^e4f012b4] [^37a768ea].
+> Let me consider chronic or recurrent abdominal pain carefully. Functional abdominal pain is common and, in the absence of alarm features, does not require routine labs; however, if alarm features are present or the pain persists, a focused panel including CBC, ESR or CRP, fecal calprotectin, and celiac serology is reasonable, with the caveat that adding routine hemoglobin, ESR, and CRP to fecal calprotectin and anti-tTG may not meaningfully increase diagnostic yield for organic disease in all settings [^116NVUH6] [^116rQpFd] [^112RWYuX].
 
-> I should confirm age- and sex-specific additions. In adolescent females, I need a pregnancy test and should consider STI testing when indicated, and I should maintain a low threshold for pelvic ultrasound given the prevalence of gynecologic etiologies; in younger children, I must remember that appendicitis is less common and presentations are atypical, so I should be cautious and correlate labs with serial exams and imaging when suspicion persists [^85c06970] [^b87db431] [^2d810538].
+> I should confirm age- and sex-specific additions. In adolescent females, I need a pregnancy test and should consider STI testing when indicated, and I should maintain a low threshold for pelvic ultrasound given the prevalence of gynecologic etiologies; in younger children, I must remember that appendicitis is less common and presentations are atypical, so I should be cautious and correlate labs with serial exams and imaging when suspicion persists [^114RHyy1] [^115iWwmA] [^112ATnCf].
 
-> But wait, what if the pain localizes to the right upper quadrant or I suspect biliary disease. In that case, I should add liver enzymes, bilirubin, and alkaline phosphatase to evaluate for hepatitis, cholecystitis, or obstruction, aligning with the anatomic differential and the principle of tailoring labs to suspected pathology rather than ordering a blanket panel [^ca81ec2a].
+> But wait, what if the pain localizes to the right upper quadrant or I suspect biliary disease. In that case, I should add liver enzymes, bilirubin, and alkaline phosphatase to evaluate for hepatitis, cholecystitis, or obstruction, aligning with the anatomic differential and the principle of tailoring labs to suspected pathology rather than ordering a blanket panel [^116BE929].
 
-> I need to ensure I integrate imaging stewardship. Ultrasound is the preferred first-line modality for suspected appendicitis and many other intra-abdominal processes in children, with CT reserved for nondiagnostic ultrasound or equivocal cases; I should avoid routine abdominal radiography because it rarely changes management and exposes children to radiation without benefit [^88e1d68e] [^ff310e3f] [^28aadd1a].
+> I need to ensure I integrate imaging stewardship. Ultrasound is the preferred first-line modality for suspected appendicitis and many other intra-abdominal processes in children, with CT reserved for nondiagnostic ultrasound or equivocal cases; I should avoid routine abdominal radiography because it rarely changes management and exposes children to radiation without benefit [^114VwB1P] [^117XLKYS] [^1123Htxy].
 
-> Let me synthesize a practical approach and double-check it aligns with evidence. For acute pain without red flags, start with urinalysis, CBC, and BMP, add CRP if appendicitis is suspected, and layer in targeted tests such as lipase, liver panel, or pregnancy test based on the differential; for chronic pain without alarms, prioritize clinical diagnosis and reserve labs for those with alarm features or persistent symptoms; throughout, use ultrasound first and escalate to CT only when necessary to balance diagnostic yield against radiation risk [^85c06970] [^88e1d68e] [^d21b0141].
+> Let me synthesize a practical approach and double-check it aligns with evidence. For acute pain without red flags, start with urinalysis, CBC, and BMP, add CRP if appendicitis is suspected, and layer in targeted tests such as lipase, liver panel, or pregnancy test based on the differential; for chronic pain without alarms, prioritize clinical diagnosis and reserve labs for those with alarm features or persistent symptoms; throughout, use ultrasound first and escalate to CT only when necessary to balance diagnostic yield against radiation risk [^114RHyy1] [^114VwB1P] [^116NVUH6].
 
-> Finally, I should confirm that my plan acknowledges uncertainty and follow-up. Many children will not receive a specific diagnosis, and a minority will have persistent pain; in low-risk presentations, conservative management with clear return precautions and timely reassessment is appropriate, and I should communicate that additional testing rarely changes outcomes in the absence of alarm features or evolving findings [^8a70fada] [^d21b0141].
+> Finally, I should confirm that my plan acknowledges uncertainty and follow-up. Many children will not receive a specific diagnosis, and a minority will have persistent pain; in low-risk presentations, conservative management with clear return precautions and timely reassessment is appropriate, and I should communicate that additional testing rarely changes outcomes in the absence of alarm features or evolving findings [^114YFEv5] [^116NVUH6].
 
 ---
 
-The pediatric lab workup for abdominal pain should be **guided by history, exam, and risk** [^85c06970], not routine panels. Order **CBC, urinalysis, and pregnancy test** when appendicitis, UTI, or pregnancy is suspected [^85c06970] [^b87db431]; add CRP/ESR, stool studies, or pancreatic enzymes only when indicated by specific concerns [^ca81ec2a] [^42bd0a22]. Avoid **routine labs** in stable, afebrile children with nonspecific pain, as they rarely change management [^8a70fada] [^e4f012b4]. Use clinical judgment and reserve imaging for persistent or severe cases [^88e1d68e] [^205718c0].
+The pediatric lab workup for abdominal pain should be **guided by history, exam, and risk** [^114RHyy1], not routine panels. Order **CBC, urinalysis, and pregnancy test** when appendicitis, UTI, or pregnancy is suspected [^114RHyy1] [^115iWwmA]; add CRP/ESR, stool studies, or pancreatic enzymes only when indicated by specific concerns [^116BE929] [^112hwgPT]. Avoid **routine labs** in stable, afebrile children with nonspecific pain, as they rarely change management [^114YFEv5] [^116rQpFd]. Use clinical judgment and reserve imaging for persistent or severe cases [^114VwB1P] [^111pwroH].
 
 ---
 
 ## Indications for laboratory testing
 
-Laboratory testing is **not routinely indicated** for all pediatric patients with abdominal pain [^e4f012b4]. It should be reserved for patients with specific clinical features or risk factors, including:
+Laboratory testing is **not routinely indicated** for all pediatric patients with abdominal pain [^116rQpFd]. It should be reserved for patients with specific clinical features or risk factors, including:
 
-- **Alarm symptoms**: Weight loss, persistent fever, gastrointestinal bleeding, chronic severe diarrhea, significant vomiting, or growth failure [^e54cc008] [^d21b0141].
-- **Localized or severe pain**: Particularly if suggestive of surgical conditions such as appendicitis or pancreatitis [^85c06970] [^42bd0a22].
-- **Persistent or recurrent pain**: Especially if functional abdominal pain is suspected but alarm symptoms are present [^d21b0141] [^e4f012b4].
-- **Specific clinical suspicions**: Such as urinary tract infection, inflammatory bowel disease, or pancreatitis [^85c06970] [^42bd0a22].
+- **Alarm symptoms**: Weight loss, persistent fever, gastrointestinal bleeding, chronic severe diarrhea, significant vomiting, or growth failure [^116rwwkK] [^116NVUH6].
+- **Localized or severe pain**: Particularly if suggestive of surgical conditions such as appendicitis or pancreatitis [^114RHyy1] [^112hwgPT].
+- **Persistent or recurrent pain**: Especially if functional abdominal pain is suspected but alarm symptoms are present [^116NVUH6] [^116rQpFd].
+- **Specific clinical suspicions**: Such as urinary tract infection, inflammatory bowel disease, or pancreatitis [^114RHyy1] [^112hwgPT].
 
 ---
 
@@ -60,13 +60,13 @@ When laboratory testing is indicated, the following tests are commonly recommend
 
 | **Laboratory test** | **Indication** | **Clinical utility** |
 |-|-|-|
-| Complete blood count (CBC) | Suspected appendicitis, infection, or inflammatory conditions | - Leukocytosis suggests infection or inflammation [^affc2d07] <br/> - Anemia may indicate chronic disease or bleeding [^538d3404] |
+| Complete blood count (CBC) | Suspected appendicitis, infection, or inflammatory conditions | - Leukocytosis suggests infection or inflammation [^115VuY6i] <br/> - Anemia may indicate chronic disease or bleeding [^1138sQFV] |
 | Urinalysis | Suspected urinary tract infection or renal involvement | Detects hematuria, pyuria, bacteriuria, and proteinuria [^notfound] |
 | Pregnancy test (β-hCG) | Adolescent females with abdominal pain | Rules out pregnancy-related complications [^notfound] |
 | C-reactive protein (CRP) or erythrocyte sedimentation rate (ESR) | Suspected inflammatory or infectious conditions | Elevated levels indicate inflammation or infection [^notfound] |
-| Stool studies (ova and parasites, fecal occult blood) | Suspected gastrointestinal infection or bleeding | Identifies parasitic infections or gastrointestinal bleeding [^d21b0141] |
-| Pancreatic enzymes (amylase, lipase) | Suspected pancreatitis | Elevated levels support diagnosis of pancreatitis [^42bd0a22] |
-| Liver function tests (ALT, AST, ALP, bilirubin) | Suspected hepatobiliary disease | Assesses liver function and detects hepatobiliary pathology [^401bb3aa] |
+| Stool studies (ova and parasites, fecal occult blood) | Suspected gastrointestinal infection or bleeding | Identifies parasitic infections or gastrointestinal bleeding [^116NVUH6] |
+| Pancreatic enzymes (amylase, lipase) | Suspected pancreatitis | Elevated levels support diagnosis of pancreatitis [^112hwgPT] |
+| Liver function tests (ALT, AST, ALP, bilirubin) | Suspected hepatobiliary disease | Assesses liver function and detects hepatobiliary pathology [^112e3WiD] |
 
 ---
 
@@ -74,10 +74,10 @@ When laboratory testing is indicated, the following tests are commonly recommend
 
 Additional laboratory tests may be indicated based on **specific clinical suspicions**:
 
-- **Inflammatory bowel disease (IBD)**: CBC, ESR, CRP, liver function tests, and stool studies for occult blood and calprotectin [^f25dac09].
-- **Pancreatitis**: Serum amylase and lipase, liver enzymes, triglycerides, and calcium levels [^42bd0a22] [^401bb3aa].
-- **Metabolic disorders**: Serum ammonia, urine organic acids, and specific metabolic panels if suspected [^695fa488].
-- **Sexually transmitted infections**: Adolescents with suspected pelvic inflammatory disease or sexual exposure [^d21b0141].
+- **Inflammatory bowel disease (IBD)**: CBC, ESR, CRP, liver function tests, and stool studies for occult blood and calprotectin [^117CKU5N].
+- **Pancreatitis**: Serum amylase and lipase, liver enzymes, triglycerides, and calcium levels [^112hwgPT] [^112e3WiD].
+- **Metabolic disorders**: Serum ammonia, urine organic acids, and specific metabolic panels if suspected [^113hDprs].
+- **Sexually transmitted infections**: Adolescents with suspected pelvic inflammatory disease or sexual exposure [^116NVUH6].
 
 ---
 
@@ -85,10 +85,10 @@ Additional laboratory tests may be indicated based on **specific clinical suspic
 
 Routine laboratory testing in pediatric abdominal pain has several **limitations and risks**:
 
-- **Low diagnostic yield**: Routine labs rarely identify the cause of nonspecific abdominal pain [^8a70fada].
+- **Low diagnostic yield**: Routine labs rarely identify the cause of nonspecific abdominal pain [^114YFEv5].
 - **False positives**: Can lead to unnecessary further testing, anxiety, and interventions [^notfound].
-- **Cost and resource utilization**: Unnecessary testing increases healthcare costs and resource use [^eca6bff6].
-- **Patient discomfort**: Blood draws and other tests can cause distress in children [^01f6c3e9].
+- **Cost and resource utilization**: Unnecessary testing increases healthcare costs and resource use [^1173r64D].
+- **Patient discomfort**: Blood draws and other tests can cause distress in children [^1113usf6].
 
 ---
 
@@ -96,19 +96,19 @@ Routine laboratory testing in pediatric abdominal pain has several **limitations
 
 Current clinical guidelines emphasize a **targeted approach** to laboratory testing in pediatric abdominal pain:
 
-- **American Academy of Pediatrics (AAP)**: Recommends limited laboratory testing in children with chronic abdominal pain, focusing on CBC, ESR/CRP, stool studies, and urinalysis only when indicated by clinical features [^d21b0141].
+- **American Academy of Pediatrics (AAP)**: Recommends limited laboratory testing in children with chronic abdominal pain, focusing on CBC, ESR/CRP, stool studies, and urinalysis only when indicated by clinical features [^116NVUH6].
 - **North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition (NASPGHAN)**: Recommends targeted laboratory testing based on clinical suspicion, avoiding routine broad panels [^notfound].
-- **American College of Emergency Physicians (ACEP)**: Emphasizes clinical judgment and selective use of laboratory tests in the emergency department setting [^efd7d759].
+- **American College of Emergency Physicians (ACEP)**: Emphasizes clinical judgment and selective use of laboratory tests in the emergency department setting [^1178aYH6].
 
 ---
 
 ## Summary of recommendations
 
-- **Routine laboratory testing is not indicated** for all pediatric patients with abdominal pain [^e4f012b4].
-- **Use clinical judgment** to guide the selection of laboratory tests based on history, physical examination, and clinical suspicion [^ca81ec2a].
-- **Essential tests** include CBC, urinalysis, and pregnancy test when indicated [^85c06970].
-- **Additional tests** should be reserved for specific clinical suspicions or alarm symptoms [^d21b0141].
-- **Avoid unnecessary testing** to minimize false positives, reduce costs, and limit patient discomfort [^205718c0].
+- **Routine laboratory testing is not indicated** for all pediatric patients with abdominal pain [^116rQpFd].
+- **Use clinical judgment** to guide the selection of laboratory tests based on history, physical examination, and clinical suspicion [^116BE929].
+- **Essential tests** include CBC, urinalysis, and pregnancy test when indicated [^114RHyy1].
+- **Additional tests** should be reserved for specific clinical suspicions or alarm symptoms [^116NVUH6].
+- **Avoid unnecessary testing** to minimize false positives, reduce costs, and limit patient discomfort [^111pwroH].
 
 ---
 
@@ -118,19 +118,19 @@ The pediatric lab workup for abdominal pain should be **individualized and evide
 
 ## References
 
-### An update on common gastrointestinal emergencies [^8e0d63b5]. Emergency Medicine Clinics of North America (2013). Low credibility.
+### An update on common gastrointestinal emergencies [^114dbjsA]. Emergency Medicine Clinics of North America (2013). Low credibility.
 
 The evaluation of the child with acute abdominal pain often poses as a diagnostic challenge due to the wide range of diagnoses. Surgical emergencies need to be rapidly identified and managed appropriately to minimize morbidity and mortality. Presenting symptoms, clinical examination, and laboratory findings can guide selection of diagnostic imaging. This article reviews common surgical causes of abdominal pain in children.
 
 ---
 
-### Laboratory tests in the patient with abdominal pain [^ca81ec2a]. Emergency Medicine Clinics of North America (2021). Medium credibility.
+### Laboratory tests in the patient with abdominal pain [^116BE929]. Emergency Medicine Clinics of North America (2021). Medium credibility.
 
 Abdominal pain is one of the most common presenting complaints to the emergency department (ED). More often than not, some degree of laboratory testing is used to narrow the differential diagnosis based on the patient's history and examination. Ordering practices are often guided by evidence, habit, consulting services, and institutional/regional culture. This review highlights relevant laboratory studies that may be ordered in the ED, as well as commentary on indications and diagnostic value of these tests.
 
 ---
 
-### Does this child have appendicitis? [^affc2d07]. JAMA (2007). Excellent credibility.
+### Does this child have appendicitis? [^115VuY6i]. JAMA (2007). Excellent credibility.
 
 Context
 
@@ -162,7 +162,7 @@ Although the clinical examination does not establish a diagnosis of appendicitis
 
 ---
 
-### Using quantitative methods to improve the diagnostic workup for abdominal pain in children [^eca6bff6]. Journal of Pediatric Surgery (2005). Low credibility.
+### Using quantitative methods to improve the diagnostic workup for abdominal pain in children [^1173r64D]. Journal of Pediatric Surgery (2005). Low credibility.
 
 Introduction
 
@@ -182,25 +182,25 @@ This study demonstrates that ED physicians equipped with specific information we
 
 ---
 
-### Acute abdominal pain in children: evaluation and management [^85c06970]. American Family Physician (2024). Medium credibility.
+### Acute abdominal pain in children: evaluation and management [^114RHyy1]. American Family Physician (2024). Medium credibility.
 
 Acute abdominal pain in children is a common presentation in the clinic and emergency department settings and accounts for up to 10% of childhood emergency department visits. Determining the appropriate disposition of abdominal pain in children can be challenging. The differential diagnosis of acute abdominal pain, including gastroenteritis, constipation, urinary tract infection, acute appendicitis, tubo-ovarian abscess, testicular torsion, and volvulus, and the diagnostic approach vary by age. Most causes of acute abdominal pain in children are self-limited. Symptoms and signs that indicate referral for surgery include pain that is severe, localized, and increases in intensity; pain preceding vomiting; bilious vomiting; hematochezia; guarding; and rigidity. Physical examination findings suggestive of acute appendicitis in children include decreased or absent bowel sounds, psoas sign, obturator sign, Rovsing sign, and right lower quadrant rebound tenderness. Initial laboratory evaluation may include urinalysis; complete blood cell count; human chorionic gonadotropin, lactate, and C-reactive protein levels; and a comprehensive metabolic profile. Ultrasonography, including point-of-care ultrasonography, for the evaluation of acute abdominal pain in children is the preferred initial imaging modality due to its low cost, ease of use, and lack of ionizing radiation. In addition to laboratory evaluation and imaging, children with red-flag or high-risk symptoms should be referred for urgent surgical consultation. Validated scoring systems, such as the Pediatric Appendicitis Score, can be used to help determine the patient's risk of appendicitis.
 
 ---
 
-### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^c71b4783]. World Journal of Emergency Surgery (2020). High credibility.
+### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^1166BhXQ]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, laboratory tests, WSES 2020 guidelines recommend to obtain routine laboratory tests and serum inflammatory biomarkers in the evaluation of pediatric patients with suspected appendicitis.
 
 ---
 
-### Evaluation of abdominal emergencies [^9985c86c]. The Surgical Clinics of North America (2023). Medium credibility.
+### Evaluation of abdominal emergencies [^114vc3RD]. The Surgical Clinics of North America (2023). Medium credibility.
 
 Early primary assessment and abdominal examination can often be enough to triage the patient with abdominal pain into those with less severe underlying pathologic condition from those with more acute findings. A focused history of the patient can then allow the clinician to develop their differential diagnosis. Once the differential diagnoses are determined, diagnostic imaging and laboratory findings can help confirm the diagnosis and allow for expeditious treatment and intervention.
 
 ---
 
-### Final comment… [^538d3404]. AAFP (1999). Low credibility.
+### Final comment… [^1138sQFV]. AAFP (1999). Low credibility.
 
 The diagnosis of abdominal pain in children has five components. The relative value of each component depends on the child's age and, in some cases, on the level of cooperation of the child and parents. The five components include the history, a physical examination, laboratory testing, results of imaging studies and response to empiric therapy. This approach is summarized in. LABORATORY TESTING The routine screening laboratory evaluation of abdominal pain in children includes the complete blood cell count with differential and erythrocyte sedimention rate to evaluate for anemia, leukocytosis and chronicity. Platelet counts are frequently elevated in inflammatory diseases. Urinalysis and routine urine culture are indicated. A sample to check the stool for blood is obtained during the rectal examination and the result is often confirmed with three additional outpatient sample cards used at home.
 
@@ -210,61 +210,61 @@ In older children and adolescents, a component of recurrent abdominal pain syndr
 
 ---
 
-### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^a6fe635f]. World Journal of Emergency Surgery (2020). High credibility.
+### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^115GaPfL]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, laboratory tests, WSES 2020 guidelines recommend to consider using both biomarker tests and clinical scores to predict the severity of the inflammation and the need for imaging in pediatric patients with suspected acute appendicitis.
 
 ---
 
-### Abdominal pain in children [^efde89e0]. Emergency Medicine Clinics of North America (2011). Low credibility.
+### Abdominal pain in children [^1178cnkf]. Emergency Medicine Clinics of North America (2011). Low credibility.
 
 Abdominal pain is one of the most common reasons pediatric patients seek emergency care. The emergency physician must be able to distinguish diagnoses requiring immediate attention from self-limiting processes. Pediatric patients can be challenging, particularly those who are preverbal, and therefore, the clinician must rely on a detailed history from a parent or caregiver as well as a careful physical examination in order to narrow the differential diagnosis. This article highlights several pediatric diagnoses presenting as abdominal pain, including surgical emergencies, nonsurgical diagnoses, and extraabdominal processes, and reviews the clinical presentation, diagnostic evaluation, and management of each.
 
 ---
 
-### Updates in diagnosis and management of chronic abdominal pain [^e4f012b4]. Current Problems in Pediatric and Adolescent Health Care (2020). Medium credibility.
+### Updates in diagnosis and management of chronic abdominal pain [^116rQpFd]. Current Problems in Pediatric and Adolescent Health Care (2020). Medium credibility.
 
 Chronic abdominal pain is a common problem seen by pediatricians and pediatric gastroenterologist alike. There should not be evidence of underlying organic pathology, with diagnosis based upon the Rome IV criteria. Although it frequently occurs, routine diagnostic testing is not always necessary. Providing assurance and helpful coping strategies is key in the management of chronic abdominal pain. Sometimes other expertise is needed when developing these strategies.
 
 ---
 
-### Management of suspected appendicitis in children [^35f9bc6d]. Archives of Disease in Childhood: Education and Practice Edition (2010). Low credibility.
+### Management of suspected appendicitis in children [^112P2EBn]. Archives of Disease in Childhood: Education and Practice Edition (2010). Low credibility.
 
 Acute appendicitis is the most important cause of abdominal pain in children and is the commonest that requires emergency surgery. Prompt diagnosis, immediate referral and expeditious surgery should be undertaken to reduce the risk of a perforated appendix. The initial presentation may be atypical or be similar to another pathological process which makes the diagnosis extremely difficult. Risk assessment forms an important part in the management of these cases. We consider the difficulties in making the diagnosis including: (A) the pitfalls of clinical examination; (B) the usefulness of laboratory testing; (C) the relevance of clinical scoring systems; and (D) the controversial issue of imaging.
 
 ---
 
-### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^43ff33e2]. Clinical Infectious Diseases (2024). High credibility.
+### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^112jotdX]. Clinical Infectious Diseases (2024). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, laboratory tests, IDSA 2024 guidelines recommend to avoid obtaining routine intra-abdominal cultures in pediatric patients with uncomplicated appendicitis undergoing an appendectomy.
 
 ---
 
-### Pediatric abdominal pain: an emergency medicine perspective [^5ae2dd07]. Emergency Medicine Clinics of North America (2016). Low credibility.
+### Pediatric abdominal pain: an emergency medicine perspective [^113Kk622]. Emergency Medicine Clinics of North America (2016). Low credibility.
 
 Abdominal pain is a common complaint that leads to pediatric patients seeking emergency care. The emergency care provider has the arduous task of determining which child likely has a benign cause and not missing the devastating condition that needs emergent attention. This article reviews common benign causes of abdominal pain as well as some of the cannot-miss emergent causes.
 
 ---
 
-### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^da8dbef4]. Clinical Infectious Diseases (2024). High credibility.
+### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^116b1usH]. Clinical Infectious Diseases (2024). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, laboratory tests, IDSA 2024 guidelines recommend to avoid obtaining routine blood cultures in non-immunocompromised pediatric patients with suspected intra-abdominal infections having a normal/elevated temperature without hypotension, tachypnea, or delirium, and there is no concern for antibiotic-resistant organisms that would inform the treatment regimen.
 
 ---
 
-### Acute abdominal pain in children: evaluation and management [^88e1d68e]. American Family Physician (2024). High credibility.
+### Acute abdominal pain in children: evaluation and management [^114VwB1P]. American Family Physician (2024). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, diagnostic imaging, AAFP 2024 guidelines recommend to obtain ultrasound as the preferred initial imaging modality in pediatric patients with acute abdominal pain.
 
 ---
 
-### Acute abdominal pain in children: evaluation and management [^ff310e3f]. American Family Physician (2024). High credibility.
+### Acute abdominal pain in children: evaluation and management [^117XLKYS]. American Family Physician (2024). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, diagnostic imaging, AAFP 2024 guidelines recommend to do not obtain routine radiography for the evaluation of abdominal pain in children.
 
 ---
 
-### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^205718c0]. Academic Emergency Medicine (2025). Medium credibility.
+### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^111pwroH]. Academic Emergency Medicine (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -274,25 +274,25 @@ The diagnosis of appendicitis is generally confirmed by abdominal imaging. Ultra
 
 ---
 
-### Pediatric appendicitis [^31eb09de]. The Surgical Clinics of North America (2017). Low credibility.
+### Pediatric appendicitis [^112H1LjF]. The Surgical Clinics of North America (2017). Low credibility.
 
 Appendicitis is one of the most common surgical pathologies in children. It can present with right lower quadrant pain. Scoring systems in combination with selective imaging and surgical examination will diagnose most children with appendicitis. Clinical pathways should be used. Most surgical interventions for appendicitis are now almost exclusively laparoscopic, with trials demonstrating better outcomes for children who undergo index hospitalization appendectomies when perforated. Nonoperative management has a role in the treatment of both uncomplicated and complicated appendicitis. This article discusses the workup and management, modes of treatment, and continued areas of controversy in pediatric appendicitis.
 
 ---
 
-### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^f18670d9]. Clinical Infectious Diseases (2024). High credibility.
+### 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people [^117B5B2x]. Clinical Infectious Diseases (2024). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, laboratory tests, IDSA 2024 guidelines recommend to consider obtaining blood cultures in pediatric patients with suspected intra-abdominal infections having an elevated temperature and hypotension and/or tachypnea and/or delirium, or there is concern for antibiotic-resistant organisms that would inform the treatment regimen.
 
 ---
 
-### Recurrent abdominal pain in children [^d21b0141]. American Family Physician (2018). Low credibility.
+### Recurrent abdominal pain in children [^116NVUH6]. American Family Physician (2018). Low credibility.
 
 Recurrent abdominal pain (RAP) in children is defined as at least three episodes of pain that occur over at least three months and affect the child's ability to perform normal activities. RAP is most often considered functional (nonorganic) abdominal pain, but an organic cause is found in 5% to 10% of cases. Further workup is warranted in children who have RAP and fever, vomiting, blood in the stool, more than three alarm symptoms, or a history of urinary tract infections. Physical examination findings that should prompt further workup include weight loss or failure to grow; jaundice; costovertebral tenderness or back pain with lower extremity neurologic symptoms; liver, spleen, or kidney enlargement; an abdominal mass; or localized tenderness on abdominal examination. Workup may include complete blood count, erythrocyte sedimentation rate, C-reactive protein level, fecal guaiac testing, fecal ova and parasite testing, or urinalysis. Pregnancy testing and screening for sexually transmitted infections should be considered in adolescents or if there are concerns about sexual abuse. Abdominal radiography can be helpful for diagnosing obstruction or constipation. Abdominal ultrasonography identifies an abnormality in up to 10% of children with RAP who meet criteria for further workup, compared with 1% of those who do not meet these criteria. Functional abdominal pain is a clinical diagnosis and no workup is needed. Management of functional abdominal pain focuses on improving quality of life, reducing parent and child concerns about the seriousness of the condition, and reducing the disability associated with pain rather than complete resolution of pain. Although evidence is lacking for most pharmacologic treatments of functional abdominal pain, psychological therapies such as cognitive behavior therapy and hypnotherapy have been shown to be beneficial.
 
 ---
 
-### Diagnostic accuracy of history, physical examination, laboratory tests, and point-of-care ultrasound for pediatric acute appendicitis in the emergency department: a systematic review and meta-analysis [^928e3128]. Academic Emergency Medicine (2017). Low credibility.
+### Diagnostic accuracy of history, physical examination, laboratory tests, and point-of-care ultrasound for pediatric acute appendicitis in the emergency department: a systematic review and meta-analysis [^114kGxGX]. Academic Emergency Medicine (2017). Low credibility.
 
 Background
 
@@ -316,31 +316,31 @@ Presence of AA is more likely in patients with undifferentiated abdominal pain m
 
 ---
 
-### Imaging and laboratory testing in acute abdominal pain [^46e72c1a]. Emergency Medicine Clinics of North America (2011). Low credibility.
+### Imaging and laboratory testing in acute abdominal pain [^112p7nKs]. Emergency Medicine Clinics of North America (2011). Low credibility.
 
 When discussing which laboratory tests or imaging to order in the setting of acute abdominal pain, it is practical to organize information by disease process (eg, acute appendicitis, cholecystitis). Because studies on the accuracy of diagnostic tests are of necessity related to the presence or absence of specific diagnoses, and because clinicians frequently look to tests to help them rule in or rule out specific conditions, this article is organized by region of pain and common abdominal diagnoses. It focuses on the contributions that laboratory testing and imaging make in the emergency management of abdominal complaints.
 
 ---
 
-### Diagnostic imaging of acute abdominal pain in adults [^f9b82a48]. American Family Physician (2015). Low credibility.
+### Diagnostic imaging of acute abdominal pain in adults [^117PDmzo]. American Family Physician (2015). Low credibility.
 
 Acute abdominal pain is a common presentation in the outpatient setting and can represent conditions ranging from benign to life-threatening. If the patient history, physical examination, and laboratory testing do not identify an underlying cause of pain and if serious pathology remains a clinical concern, diagnostic imaging is indicated. The American College of Radiology has developed clinical guidelines, the Appropriateness Criteria, based on the location of abdominal pain to help physicians choose the most appropriate imaging study. Ultrasonography is the initial imaging test of choice for patients presenting with right upper quadrant pain. Computed tomography (CT) is recommended for evaluating right or left lower quadrant pain. Conventional radiography has limited diagnostic value in the assessment of most patients with abdominal pain. The widespread use of CT raises concerns about patient exposure to ionizing radiation. Strategies to reduce exposure are currently being studied, such as using ultrasonography as an initial study for suspected appendicitis before obtaining CT and using low-dose CT rather than standard-dose CT. Magnetic resonance imaging is another emerging technique for the evaluation of abdominal pain that avoids ionizing radiation.
 
 ---
 
-### Undifferentiated abdominal pain in children presenting to the pediatric emergency department [^881b277b]. Clinical Pediatrics (2019). Medium credibility.
+### Undifferentiated abdominal pain in children presenting to the pediatric emergency department [^114UnSLJ]. Clinical Pediatrics (2019). Medium credibility.
 
 Although common, little is known about the characteristics and management of undifferentiated abdominal pain (UAP) in the pediatric emergency department (ED). This study was a 12-month retrospective study for "abdominal pain" ED visits. Patients without an identifiable diagnosis were categorized as "UAP", while others with identified disease processes were categorized as "structural gastrointestinal diagnosis (SGID)". We included 2383 (72%) visits with 869 (36.5%) UAP visits and 1514 (63.5%) SGID visits. SGID patients had more laboratory tests (811 [53.6%] vs 422 [48.6%], P = 0.0186), and often had multiple tests performed (565 [69.7%] vs 264 [62.6%], P = 0.0116). Computed tomography and ultrasound scans were more common in SGID (computed tomography: 108 [7.1%] vs 27 [3.1%], P = 0.0004; ultrasound: 377 [24.9%] vs 172 [19.9%], P = 0.0044), and laboratory results (white blood cell count, hemoglobin, albumin, C-reactive protein) were abnormal at significantly higher rates. Analyses revealed the duration of pain as primary covariate in variance of pain etiology. Clinical features, such as duration of pain, may be augmented by laboratory tests to facilitate recognition of UAP in the ED.
 
 ---
 
-### Choosing wisely: recommendations of the American college of surgeons [^28aadd1a]. Choosing Wisely (2013). Medium credibility.
+### Choosing wisely: recommendations of the American college of surgeons [^1123Htxy]. Choosing Wisely (2013). Medium credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, diagnostic imaging, ACS 2013 guidelines recommend to avoid obtaining CT for the evaluation of suspected appendicitis in pediatric patients until after ultrasound has been considered as an option.
 
 ---
 
-### Comparing the evaluation of abdominal pain in adolescent females at a pediatric vs general emergency department [^c4b82ada]. Journal of Pediatric and Adolescent Gynecology (2022). Medium credibility.
+### Comparing the evaluation of abdominal pain in adolescent females at a pediatric vs general emergency department [^1162eS73]. Journal of Pediatric and Adolescent Gynecology (2022). Medium credibility.
 
 Background
 
@@ -360,7 +360,7 @@ The rates at which gynecologic history and pelvic examination were performed in 
 
 ---
 
-### What clinical and laboratory parameters determine significant intra abdominal pathology for patients assessed in hospital with acute abdominal pain? [^a46cddf8]. World Journal of Emergency Surgery (2007). Low credibility.
+### What clinical and laboratory parameters determine significant intra abdominal pathology for patients assessed in hospital with acute abdominal pain? [^115CmY7q]. World Journal of Emergency Surgery (2007). Low credibility.
 
 Introduction
 
@@ -370,13 +370,13 @@ Women of childbearing age commonly present with right iliac fossa pain, most of 
 
 ---
 
-### Abdominal pain and emergency department evaluation [^72a8a3ab]. Emergency Medicine Clinics of North America (2001). Low credibility.
+### Abdominal pain and emergency department evaluation [^113vzEV8]. Emergency Medicine Clinics of North America (2001). Low credibility.
 
 By approaching the abdominal pain patient in a systematic fashion, the physician can improve his or her performance in evaluating the patient in a safe and efficient manner without extensive or redundant tests.
 
 ---
 
-### What clinical and laboratory parameters determine significant intra abdominal pathology for patients assessed in hospital with acute abdominal pain? [^0035915f]. World Journal of Emergency Surgery (2007). Low credibility.
+### What clinical and laboratory parameters determine significant intra abdominal pathology for patients assessed in hospital with acute abdominal pain? [^1111Jzaz]. World Journal of Emergency Surgery (2007). Low credibility.
 
 Discussion
 
@@ -390,31 +390,31 @@ Imaging such as ultrasound is helpful for detection of the cause of lower abdomi
 
 ---
 
-### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^7df34e91]. World Journal of Emergency Surgery (2020). High credibility.
+### Diagnosis and treatment of acute appendicitis: 2020 update of the WSES jerusalem guidelines [^114DjBE8]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, diagnostic imaging, WSES 2020 guidelines recommend to avoid obtaining routine CT as first-line imaging in pediatric patients with right iliac fossa pain since the prevalence of true acute appendicitis is not negligible in pediatric patients with equivocal CT findings.
 
 ---
 
-### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^401bb3aa]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
+### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^112e3WiD]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
 
 Regarding diagnostic investigations for pediatric pancreatitis, more specifically with respect to laboratory testing, NASPGHAN 2018 guidelines recommend to obtain liver enzymes (ALT, AST, GGT, ALP, bilirubin) triglycerides, and calcium in patients with a first-time attack of acute pancreatitis.
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^27147701]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^111zwPgL]. Hepatology (2021). High credibility.
 
 Regarding specific circumstances for ascites, more specifically with respect to pediatric patients, AASLD 2021 guidelines recommend to perform diagnostic paracentesis in pediatric patients with ascites and fever, abdominal pain, or clinical deterioration. Insufficient evidence to recommend diagnostic paracentesis in all pediatric patients with new ascites in the absence of these symptoms.
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^de50778b]. Academic Emergency Medicine (2022). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^116gbHBg]. Academic Emergency Medicine (2022). High credibility.
 
 GRACE-2 ancillary definitions for prior evaluation: Previously undifferentiated means no clear etiology identified; previous workup consists of CT of the abdomen and pelvis with IV contrast, complete blood count, hepatic function tests, lipase, urinalysis, and (when appropriate) human chorionic gonadotropin; and negative CTAP means no pathological abnormalities, related or unrelated to the current presentation.
 
 ---
 
-### Test characteristics of common appendicitis scores with and without laboratory investigations: a prospective observational study [^01f6c3e9]. BMC Pediatrics (2016). Low credibility.
+### Test characteristics of common appendicitis scores with and without laboratory investigations: a prospective observational study [^1113usf6]. BMC Pediatrics (2016). Low credibility.
 
 Background
 
@@ -429,7 +429,7 @@ The use of the WBC count in the diagnosis of acute appendicitis is subject to se
 
 ---
 
-### Prognosis of chronic or recurrent abdominal pain in children [^5eecd182]. Journal of Pediatric Gastroenterology and Nutrition (2008). Low credibility.
+### Prognosis of chronic or recurrent abdominal pain in children [^113RjP5s]. Journal of Pediatric Gastroenterology and Nutrition (2008). Low credibility.
 
 Background
 
@@ -453,19 +453,19 @@ CAP persisted in 29.1% (95% CI 28.1–30.2) of children. In the absence of alarm
 
 ---
 
-### Causal evaluation of acute recurrent and chronic pancreatitis in children: consensus from the INSPPIRE group [^3c5834cc]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
+### Causal evaluation of acute recurrent and chronic pancreatitis in children: consensus from the INSPPIRE group [^112YTtJf]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
 
 Regarding diagnostic investigations for pediatric pancreatitis, more specifically with respect to laboratory testing, INSPPIRE 2017 guidelines recommend to obtain liver enzymes including AST, ALT, gamma-glutamyltransferase, TBIL (with fractionation if total is elevated), fasting lipids, and total serum calcium in the initial evaluation of patients with recurrent pancreatitis.
 
 ---
 
-### Abdominal pain caused by a potentially fatal attraction [^d5548b6d]. Pediatric Emergency Care (2018). Low credibility.
+### Abdominal pain caused by a potentially fatal attraction [^116TGm64]. Pediatric Emergency Care (2018). Low credibility.
 
 Abdominal pain is a challenging presentation in children. Examination findings and etiology vary greatly, spanning a vast spectrum from flatulence to frank peritonitis with septic shock. Here, we discuss a 10-year-old boy with 24 hours of progressively worsening lower abdominal pain, nausea, and subjective fevers. History and physical examination findings were consistent with appendicitis. However, physicians were surprised when the single-view abdominal radiograph showed an unanticipated, somewhat perplexing discovery.
 
 ---
 
-### Standard outpatient re-evaluation for patients not admitted to the hospital after emergency department evaluation for acute abdominal pain [^318f658e]. World Journal of Surgery (2010). Low credibility.
+### Standard outpatient re-evaluation for patients not admitted to the hospital after emergency department evaluation for acute abdominal pain [^112GUZQH]. World Journal of Surgery (2010). Low credibility.
 
 Discussion
 
@@ -473,7 +473,7 @@ Patients presenting with acute abdominal pain at the ED need to be diagnosed cor
 
 ---
 
-### Heterogeneity in the evaluation of suspected MIS-C: a cross-sectional vignette-based survey [^71198b42]. BMC Pediatrics (2022). Medium credibility.
+### Heterogeneity in the evaluation of suspected MIS-C: a cross-sectional vignette-based survey [^113tgBUu]. BMC Pediatrics (2022). Medium credibility.
 
 Background and Objectives
 
@@ -493,37 +493,37 @@ Significant heterogeneity exists amongst providers as to when to initiate the MI
 
 ---
 
-### Pitfalls in appendicitis [^fb49f575]. Emergency Medicine Clinics of North America (2010). Low credibility.
+### Pitfalls in appendicitis [^117RYjZv]. Emergency Medicine Clinics of North America (2010). Low credibility.
 
 The diagnosis of appendicitis is fraught with potential pitfalls, and despite its prevalence, appendicitis continues to be a condition at high risk for missed and delayed diagnosis. There is no single historical or physical finding or laboratory test that can definitively make the diagnosis. This article discusses the value of presenting signs, symptoms, laboratory testing, and the rational use of various imaging modalities, such as CT scanning and ultrasound. Challenges of special populations, such as children, the elderly, and pregnant patients, are also discussed. Although appendicitis continues to be a source of medical legal risk and misdiagnosis, a clear understanding of the strengths and limitations of all tests in suspected appendicitis can improve the emergency physician's diagnostic accuracy in this high-risk disease.
 
 ---
 
-### Abdominal pain in children: from the eternal city to the examination room [^09196710]. Pediatric Clinics of North America (2017). Low credibility.
+### Abdominal pain in children: from the eternal city to the examination room [^111EVRRH]. Pediatric Clinics of North America (2017). Low credibility.
 
 Abdominal pain is a common presenting symptom in children. The differential diagnosis of abdominal pain is extensive; however, a vast majority of patients ultimately are diagnosed with functional abdominal pain disorders. Functional gastrointestinal disorders are defined using the recently released Rome IV criteria. These are not diagnoses of exclusion. If there are no alarm signs, the diagnosis may be made with a focused evaluation. Treatment of these disorders requires a biopsychosocial approach to the disorder and an individualized and multipronged treatment plan.
 
 ---
 
-### Causal evaluation of acute recurrent and chronic pancreatitis in children: consensus from the INSPPIRE group [^695fa488]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
+### Causal evaluation of acute recurrent and chronic pancreatitis in children: consensus from the INSPPIRE group [^113hDprs]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
 
 Regarding diagnostic investigations for pediatric pancreatitis, more specifically with respect to laboratory testing, INSPPIRE 2017 guidelines recommend to assess serum ammonia and urine organic acids at presentation if there is a concern for undiagnosed metabolic disease.
 
 ---
 
-### Best practices guidelines in imaging [^39d6ae9a]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^112UkQQZ]. ACS (2018). Medium credibility.
 
 Pediatric blunt abdominal trauma imaging algorithms describe efforts to minimize unnecessary imaging, noting two recent multicenter studies that defined criteria for predicting children at very low risk for intraabdominal injury. The PECARN used history and physical examination alone to identify children at very low risk of intraabdominal injury requiring acute interventions, and Streck et al. used clinical data readily available in the trauma bay to identify children at very low risk for intraabdominal injury and for whom a CT scan is not necessary. The Streck et al. prediction rule, in descending order of significance, includes aspartate aminotransferase > 200 U/L, abnormal abdominal examination, abnormal chest radiograph, report of abdominal pain, and abnormal pancreatic enzymes. The Streck et al. rule had a negative predictive value of 99.4 percent for intraabdominal injury and 100 percent for patients with intraabdominal injury that required acute interventions.
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^c734f7dd]. Academic Emergency Medicine (2022). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^1166LKz4]. Academic Emergency Medicine (2022). High credibility.
 
 GRACE-2 scope and purpose — intended population and setting specify an evidence-based, transparent approach for clinicians for the evaluation and management of adult patients with low-risk recurrent undifferentiated abdominal pain in the ED. The guideline is not intended for patients with unstable vital signs or significant history or physical examination findings suggesting acute abdominal pathology or other risk factors for severe abdominal disease, and it is also not intended for new, acute presentations with only short-term recurrence such as evolving appendicitis presenting on two or more occasions over a few days. The intended population includes adults with multiple similar presentations of abdominal signs and symptoms recurring over months or years, and GRACE-2 is designed for application in the United States in settings with access to advanced diagnostic imaging, laboratory testing, and specialty referral, noting that differences in international or rural U.S. settings may make recommendations less applicable.
 
 ---
 
-### Infection mimicking appendicitis case report: new differential diagnosis considerations [^54888e46]. Clinical Pediatrics (2025). Medium credibility.
+### Infection mimicking appendicitis case report: new differential diagnosis considerations [^113AKpzZ]. Clinical Pediatrics (2025). Medium credibility.
 
 Educational Objectives
 
@@ -532,7 +532,7 @@ With the rise of global migration and the burgeoning discipline of newcomer medi
 
 ---
 
-### Nonspecific abdominal pain in pediatric primary care: evaluation and outcomes [^8a70fada]. Academic Pediatrics (2014). Low credibility.
+### Nonspecific abdominal pain in pediatric primary care: evaluation and outcomes [^114YFEv5]. Academic Pediatrics (2014). Low credibility.
 
 Objective
 
@@ -552,13 +552,13 @@ Most children with AP do not receive a diagnosis, many have persistent pain, and
 
 ---
 
-### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^867070b7]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
+### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^114SK7Gz]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
 
 Pediatric acute pancreatitis — diagnosis and initial evaluation — requires meeting INSPPIRE-based criteria with at least two features, including abdominal pain, enzyme elevation, or imaging findings, and initial imaging should be transabdominal ultrasonography with additional imaging reserved for complicated cases; first-attack testing should include liver enzymes, triglyceride, and calcium levels. Specifically, diagnosis "requires at least 2 of the following: (1) abdominal pain compatible with AP, (2) serum amylase and/or lipase values ≥ 3 times upper limits of normal, (3) imaging findings consistent with AP", and "Initial imaging may be accomplished via transabdominal ultrasonography, with other imaging (CT, MRI) reserved for more complicated cases ± tailored to suspected etiology", while "first attack of AP testing should include liver enzymes (ALT, AST, GGT, ALP, bilirubin), triglyceride level, and calcium level".
 
 ---
 
-### A novel biomarker panel to rule out acute appendicitis in pediatric patients with abdominal pain [^940a8d05]. The American Journal of Emergency Medicine (2013). Low credibility.
+### A novel biomarker panel to rule out acute appendicitis in pediatric patients with abdominal pain [^114nUiFn]. The American Journal of Emergency Medicine (2013). Low credibility.
 
 Objectives
 
@@ -578,32 +578,32 @@ This panel may be useful in identifying pediatric patients with signs and sympto
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^517a2147]. Academic Emergency Medicine (2022). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^1135o27Q]. Academic Emergency Medicine (2022). High credibility.
 
 GRACE-2 scope — recurrent abdominal pain populations and prior workup applicability: The guideline is not intended to apply to patients who have not yet undergone evaluation of potential causes, and instead addresses patients who, despite prior medical evaluation for the cause of pain, have not had a cause identified, noting that ongoing or repeated medical evaluations may have risks and benefits that should be balanced such as cost, radiation exposure, and identification of incidental findings prompting further workup with uncertain benefit. The writing group also considered but ultimately did not include patients for whom the cause of recurrent abdominal pain has been identified or is very likely (e.g., pancreatitis, inflammatory bowel disease, nephrolithiasis), even though these populations may suffer consequences of repeated radiation exposure from imaging and other negative effects of recurrent ED presentations.
 
 ---
 
-### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^4f22115c]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
+### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^1132KTxX]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
 
 Initial evaluation and diagnosis of pediatric acute pancreatitis — diagnosis relies on clinical criteria and requires at least 2 of 3 elements: abdominal pain compatible with acute pancreatitis, serum lipase or serum amylase at least 3 times the upper limit of normal, and imaging findings consistent with acute pancreatitis; abdominal pain and/or irritability are common, and in infants and toddlers symptoms may be subtle necessitating a high index of suspicion.
 
 ---
 
-### Point-of-care ultrasound for undifferentiated abdominal pain in a pediatric patient: a proposed algorithm [^fb013da3]. Pediatric Emergency Care (2020). Medium credibility.
+### Point-of-care ultrasound for undifferentiated abdominal pain in a pediatric patient: a proposed algorithm [^117R8JuY]. Pediatric Emergency Care (2020). Medium credibility.
 
 Abdominal pain is a common presentation in the pediatric emergency department and may pose a diagnostic challenge to the physician. Although most abdominal pain is benign, the presence of abdominal pain may represent a surgical emergency. We present an atypical presentation of perforated appendicitis in a child with 2 weeks of abdominal pain, in whom point-of-care ultrasound expedited diagnosis and patient disposition. We then recommend a diagnostic approach for using point-of-care ultrasound in a pediatric patient with undifferentiated abdominal pain.
 
 ---
 
-### A prospective study to evaluate the contribution of the pediatric appendicitis score in the decision process [^8ed248d0]. BMC Pediatrics (2024). Medium credibility.
+### A prospective study to evaluate the contribution of the pediatric appendicitis score in the decision process [^114ejsgs]. BMC Pediatrics (2024). Medium credibility.
 
 Fig. 3
 Proposal for the management of pediatric abdominal pain in primary care. Legend: We believe that diagnosing AA should primarily rely on clinical scoring. A: For cPAS < 4 with a duration of pain > 48 h, the risk is very low, and patients can be observed at home. If the pain onset is < 48 h, revaluation at 24 h is recommended. B: For intermediate cPAS scores from 4 to 5, inflammatory markers should be assessed. If the pain duration is < 48 h with normal inflammatory marker levels, scheduling imaging such as a ultrasound examination is recommended within 12 h. If one of the inflammatory markers is increased, however, ED admission is recommended. If the pain duration is > 48 h with normal inflammatory marker levels, home observation with a blood test at 48 h can be undertaken. Yet, if the inflammatory markers are increased, especially if the CRP level is above the 50 mg/L cutoff, timely admission to the ED is required. C: Thus, a cPAS score ≥ 6 would correspond to a high risk of AA and a very high risk if there is associated abdominal guarding. Referral to the ED is appropriate from the outset
 
 ---
 
-### PAN-immune inflammation value: a new biomarker for diagnosing appendicitis in children? [^e2527536]. BMC Pediatrics (2025). Medium credibility.
+### PAN-immune inflammation value: a new biomarker for diagnosing appendicitis in children? [^116nXu6d]. BMC Pediatrics (2025). Medium credibility.
 
 Methods
 
@@ -629,25 +629,25 @@ The study was approved by the Ethics Committee of Hitit University Faculty of Me
 
 ---
 
-### Current approach to the diagnosis and emergency department management of appendicitis in children [^d6bdc90b]. Pediatric Emergency Care (2017). Low credibility.
+### Current approach to the diagnosis and emergency department management of appendicitis in children [^116VN6d8]. Pediatric Emergency Care (2017). Low credibility.
 
 Concerns about radiation exposure have led to a decrease in the use of computed tomography in suspected appendicitis, with increased reliance on ultrasound. Children with suspected appendicitis should be risk stratified using a combination of clinical signs and symptoms, white blood cell count, and ultrasound in order to guide further evaluation and management. Magnetic resonance imaging is a promising imaging modality but remains costly. Ongoing research is evaluating the role of nonoperative management in children with confirmed appendicitis.
 
 ---
 
-### Acute abdominal pain in children [^6783f185]. American Family Physician (2003). Low credibility.
+### Acute abdominal pain in children [^113eU3VW]. American Family Physician (2003). Low credibility.
 
 Acute abdominal pain in children presents a diagnostic dilemma. Although many cases of acute abdominal pain are benign, some require rapid diagnosis and treatment to minimize morbidity. Numerous disorders can cause abdominal pain. The most common medical cause is gastroenteritis, and the most common surgical cause is appendicitis. In most instances, abdominal pain can be diagnosed through the history and physical examination. Age is a key factor in evaluating the cause; the incidence and symptoms of different conditions vary greatly over the pediatric age spectrum. In the acute surgical abdomen, pain generally precedes vomiting, while the reverse is true in medical conditions. Diarrhea often is associated with gastroenteritis or food poisoning. Appendicitis should be suspected in any child with pain in the right lower quadrant. Signs that suggest an acute surgical abdomen include involuntary guarding or rigidity, marked abdominal distention, marked abdominal tenderness, and rebound abdominal tenderness. If the diagnosis is not clear after the initial evaluation, repeated physical examination by the same physician often is useful. Selected imaging studies also might be helpful. Surgical consultation is necessary if a surgical cause is suspected or the cause is not obvious after a thorough evaluation.
 
 ---
 
-### Childhood functional abdominal pain: mechanisms and management [^c8bc7b56]. Nature Reviews: Gastroenterology & Hepatology (2015). Medium credibility.
+### Childhood functional abdominal pain: mechanisms and management [^1168bqHP]. Nature Reviews: Gastroenterology & Hepatology (2015). Medium credibility.
 
 Chronic abdominal pain is one of the most common clinical syndromes encountered in day to day clinical paediatric practice. Although common, its definition is confusing, predisposing factors are poorly understood and the pathophysiological mechanisms are not clear. The prevailing viewpoint in the pathogenesis involves the inter-relationship between changes in hypersensitivity and altered motility, to which several risk factors have been linked. Making a diagnosis of functional abdominal pain can be a challenge, as it is unclear which further diagnostic tests are necessary to exclude an organic cause. Moreover, large, well-performed, high-quality clinical trials for effective agents are lacking, which undermines evidence-based treatment. This Review summarizes current knowledge regarding the epidemiology, pathophysiology, risk factors and diagnostic work-up of functional abdominal pain. Finally, management options for children with functional abdominal pain are discussed including medications, dietary interventions, probiotics and psychological and complementary therapies, to improve understanding and to maximize the quality of care for children with this condition.
 
 ---
 
-### Test characteristics of common appendicitis scores with and without laboratory investigations: a prospective observational study [^b51cb782]. BMC Pediatrics (2016). Low credibility.
+### Test characteristics of common appendicitis scores with and without laboratory investigations: a prospective observational study [^115dWQTT]. BMC Pediatrics (2016). Low credibility.
 
 Methods
 
@@ -661,13 +661,13 @@ We excluded patients with abdominal pain for whom appendicitis was not in the di
 
 ---
 
-### Diagnosis and management of acute appendicitis. EAES consensus development conference 2015 [^bf36e630]. Surgical Endoscopy (2016). Medium credibility.
+### Diagnosis and management of acute appendicitis. EAES consensus development conference 2015 [^115tV5M9]. Surgical Endoscopy (2016). Medium credibility.
 
 Regarding specific circumstances for acute appendicitis, more specifically with respect to pediatric patients, diagnostic imaging, EAES 2016 guidelines recommend to obtain abdominal MRI rather than CT to avoid radiation as second-line imaging in pediatric patients.
 
 ---
 
-### The primary care physician's approach to functional abdominal pain in childhood [^f9e9366d]. Journal of Clinical Gastroenterology (2006). Low credibility.
+### The primary care physician's approach to functional abdominal pain in childhood [^117PWFX2]. Journal of Clinical Gastroenterology (2006). Low credibility.
 
 Background
 
@@ -687,13 +687,13 @@ In accordance with published guidelines, physicians requested minimal testing fo
 
 ---
 
-### Acute abdominal pain in children [^b87db431]. American Family Physician (2016). Low credibility.
+### Acute abdominal pain in children [^115iWwmA]. American Family Physician (2016). Low credibility.
 
 Acute abdominal pain accounts for approximately 9% of childhood primary care office visits. Symptoms and signs that increase the likelihood of a surgical cause for pain include fever, bilious vomiting, bloody diarrhea, absent bowel sounds, voluntary guarding, rigidity, and rebound tenderness. The age of the child can help focus the differential diagnosis. In infants and toddlers, clinicians should consider congenital anomalies and other causes, including malrotation, hernias, Meckel diverticulum, or intussusception. In school-aged children, constipation and infectious causes of pain, such as gastroenteritis, colitis, respiratory infections, and urinary tract infections, are more common. In female adolescents, clinicians should consider pelvic inflammatory disease, pregnancy, ruptured ovarian cysts, or ovarian torsion. Initial laboratory tests include complete blood count, erythrocyte sedimentation rate or C-reactive protein, urinalysis, and a pregnancy test. Abdominal radiography can be used to diagnose constipation or obstruction. Ultrasonography is the initial choice in children for the diagnosis of cholecystitis, pancreatitis, ovarian cyst, ovarian or testicular torsion, pelvic inflammatory disease, pregnancy-related pathology, and appendicitis. Appendicitis is the most common cause of acute abdominal pain requiring surgery, with a peak incidence during adolescence. When the appendix is not clearly visible on ultrasonography, computed tomography or magnetic resonance imaging can be used to confirm the diagnosis.
 
 ---
 
-### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^fd5fc10f]. Academic Emergency Medicine (2025). Medium credibility.
+### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^117Ue2jp]. Academic Emergency Medicine (2025). Medium credibility.
 
 LIMITATIONS
 
@@ -705,13 +705,13 @@ In this retrospective cohort study of 120,000+ ED visits for pediatric abdominal
 
 ---
 
-### Diagnosis and treatment of appendicitis: systematic review and meta-analysis [^119fa287]. Surgical Endoscopy (2023). High credibility.
+### Diagnosis and treatment of appendicitis: systematic review and meta-analysis [^111T8QjG]. Surgical Endoscopy (2023). High credibility.
 
 Appendicitis diagnosis — clinical challenges and imaging considerations note that clinical diagnosis remains challenging because many signs and symptoms mimic other abdominal pathologies, and although imaging studies increase the sensitivity and specificity of diagnosis, debate persists on which modality to use considering resource needs, exam timeliness, and radiation exposure, especially in the pediatric population.
 
 ---
 
-### Imaging of pediatric patients with inflammatory bowel disease [^9ed9ad2b]. AJR: American Journal of Roentgenology (2012). Low credibility.
+### Imaging of pediatric patients with inflammatory bowel disease [^1154WACr]. AJR: American Journal of Roentgenology (2012). Low credibility.
 
 Objective
 
@@ -723,7 +723,7 @@ Imaging of pediatric patients with IBD must balance considerations of diagnostic
 
 ---
 
-### Diagnostic value of ultrasound in pediatric acute abdominal pain: a cross-sectional study from a tertiary center in Southern iran [^7c54fa90]. BMC Pediatrics (2025). Medium credibility.
+### Diagnostic value of ultrasound in pediatric acute abdominal pain: a cross-sectional study from a tertiary center in Southern iran [^114BL1Tu]. BMC Pediatrics (2025). Medium credibility.
 
 Background
 
@@ -743,7 +743,7 @@ Ultrasound is a valuable diagnostic tool in pediatric patients with acute abdomi
 
 ---
 
-### Definitions of pediatric pancreatitis and survey of present clinical practices [^7cf45872]. Journal of Pediatric Gastroenterology and Nutrition (2012). Low credibility.
+### Definitions of pediatric pancreatitis and survey of present clinical practices [^114CFYBK]. Journal of Pediatric Gastroenterology and Nutrition (2012). Low credibility.
 
 The clinical calculator "INSPPIRE diagnostic criteria for pediatric acute pancreatitis" for pediatric pancreatitis.
 
@@ -770,13 +770,13 @@ Through this simple yet effective scoring system, clinicians can systematically 
 
 ---
 
-### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^9c3e0c1c]. Hepatology (2021). High credibility.
+### Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases [^114zdujy]. Hepatology (2021). High credibility.
 
 Regarding specific circumstances for liver cirrhosis, more specifically with respect to pediatric patients, AASLD 2021 guidelines recommend to perform diagnostic paracentesis in pediatric patients with ascites and fever, abdominal pain, or clinical deterioration. Insufficient evidence to recommend diagnostic paracentesis in all pediatric patients with new ascites in the absence of these symptoms.
 
 ---
 
-### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^210afd1f]. Academic Emergency Medicine (2025). Medium credibility.
+### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^111qzHNv]. Academic Emergency Medicine (2025). Medium credibility.
 
 Abstract
 
@@ -798,7 +798,7 @@ In this retrospective cohort study of 120,000+ ED visits for pediatric abdominal
 
 ---
 
-### Gastrointestinal symptoms, diagnostic evaluations, and abdominal pathology in children with sickle cell disease [^60535986]. Pediatric Blood & Cancer (2023). Medium credibility.
+### Gastrointestinal symptoms, diagnostic evaluations, and abdominal pathology in children with sickle cell disease [^113TooqX]. Pediatric Blood & Cancer (2023). Medium credibility.
 
 Background
 
@@ -822,13 +822,13 @@ Children with SCD frequently present with abdominal pain and other GI symptoms, 
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^e13ef26d]. Academic Emergency Medicine (2022). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 2 (GRACE-2): low-risk, recurrent abdominal pain in the emergency department [^116kwMiL]. Academic Emergency Medicine (2022). High credibility.
 
 GRACE-2 definitions — previously undifferentiated recurrent abdominal pain and prior ED workup: The guideline addresses patients with previously undifferentiated abdominal pain despite workup, where previously undifferentiated indicates no clear etiology identified with examples such as cholelithiasis, Crohn's disease, and pancreatitis. Workup refers to commonly available laboratory and imaging tests often used in combination in the ED, including complete blood count (CBC), hepatic function tests, lipase, urinalysis, human chorionic gonadotropin (when appropriate), ultrasound, and CTAP with intravenous (IV) contrast.
 
 ---
 
-### Utility of serum amylase in children with abdominal pain in the pediatric emergency department [^e6d054fc]. Pediatric Emergency Care (2024). Medium credibility.
+### Utility of serum amylase in children with abdominal pain in the pediatric emergency department [^116uC8T5]. Pediatric Emergency Care (2024). Medium credibility.
 
 Objectives
 
@@ -848,13 +848,13 @@ Although serum amylase and lipase testing may be suitable for abdominal pain scr
 
 ---
 
-### Health supervision in the management of children and adolescents with IBD: NASPGHAN recommendations [^f25dac09]. Journal of Pediatric Gastroenterology and Nutrition (2012). Medium credibility.
+### Health supervision in the management of children and adolescents with IBD: NASPGHAN recommendations [^117CKU5N]. Journal of Pediatric Gastroenterology and Nutrition (2012). Medium credibility.
 
 Inflammatory bowel disease evaluation in acutely ill pediatric patients should include laboratory tests and targeted endoscopy. Useful labs include CBC with differential, ESR, CRP, and liver function tests (ALT, alkaline phosphatase, bilirubin, GGT, albumin); amylase and lipase may be useful when abdominal pain is present or when using agents that can affect the pancreas (azathioprine or 6-mercaptopurine). Ferritin is an acute-phase reactant, so ferritin levels up to 50 ng/mL may still be consistent with iron deficiency; a chemistry panel assists in assessing hydration status and renal function. Patients with persistent or worsening symptoms, especially after a negative infectious workup, should be referred to their primary gastroenterologist, and some may benefit from proctosigmoidoscopy; endoscopic and histologic findings help assess location and severity of inflammation and evaluate for infections such as cytomegalovirus colitis.
 
 ---
 
-### Multiple somatic symptoms linked to positive screen for depression in pediatric patients with chronic abdominal pain [^9ce471b7]. Journal of Pediatric Gastroenterology and Nutrition (2007). Low credibility.
+### Multiple somatic symptoms linked to positive screen for depression in pediatric patients with chronic abdominal pain [^1151boQz]. Journal of Pediatric Gastroenterology and Nutrition (2007). Low credibility.
 
 Objectives
 
@@ -874,7 +874,7 @@ For patients with and without organic disease findings associated with CAP, the 
 
 ---
 
-### Prospective validation of a biomarker panel to identify pediatric ED patients with abdominal pain who are at low risk for acute appendicitis [^d2653ef4]. The American Journal of Emergency Medicine (2016). Low credibility.
+### Prospective validation of a biomarker panel to identify pediatric ED patients with abdominal pain who are at low risk for acute appendicitis [^116NvQcK]. The American Journal of Emergency Medicine (2016). Low credibility.
 
 Objectives
 
@@ -894,7 +894,7 @@ This biomarker panel exhibited high sensitivity and negative predictive value fo
 
 ---
 
-### Utility of symptom duration and C-reactive protein, white blood cell count, and absolute neutrophil count in the evaluation of pediatric appendicitis [^031de284]. The Journal of Emergency Medicine (2021). Medium credibility.
+### Utility of symptom duration and C-reactive protein, white blood cell count, and absolute neutrophil count in the evaluation of pediatric appendicitis [^1115d13q]. The Journal of Emergency Medicine (2021). Medium credibility.
 
 Background
 
@@ -918,13 +918,13 @@ No laboratory test studied has adequate characteristics to be used alone. CRP ad
 
 ---
 
-### Teenager with abdominal pain and decreased appetite [^fd7b5252]. Pediatrics (2020). Medium credibility.
+### Teenager with abdominal pain and decreased appetite [^117UoHo7]. Pediatrics (2020). Medium credibility.
 
 A 16-year-old girl presented to her primary care physician with a one-month history of decreased appetite and abdominal pain. She had normal bowel movements and no vomiting, but her periumbilical pain limited her ability to finish most meals. She had gradual weight loss over the previous 2 years, and during the previous 4 years, she intermittently received counseling for depression after the loss of her mother. Her initial physical examination and laboratory evaluation were unremarkable. She was referred to a nutritionist, adolescent medicine, and pediatric gastroenterology. Her presentation evolved over time, which ultimately led to a definitive diagnosis.
 
 ---
 
-### Aetiologies and outcomes of patients with abdominal pain presenting to an emergency department of a tertiary hospital in tanzania: a prospective cohort study [^4c5c73a2]. BMC Gastroenterology (2020). Medium credibility.
+### Aetiologies and outcomes of patients with abdominal pain presenting to an emergency department of a tertiary hospital in tanzania: a prospective cohort study [^112xD7XF]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -940,19 +940,19 @@ Lack of documented clinical profiles, presentations and outcomes poses a challen
 
 ---
 
-### Society of Interventional Radiology position statement on endovascular trauma intervention in the pediatric population [^f6875275]. Journal of Vascular and Interventional Radiology (2024). High credibility.
+### Society of Interventional Radiology position statement on endovascular trauma intervention in the pediatric population [^117JVQcU]. Journal of Vascular and Interventional Radiology (2024). High credibility.
 
 Pediatric blunt abdominal trauma — PECARN clinical criteria and laboratory thresholds for computed tomography (CT) selection are outlined as follows: Clinical criteria rather than mechanism of injury should be used to determine the need for CT imaging in children; in a prospective observational study of 12,044 children with blunt trauma, 761 (6.3%) had intra-abdominal injuries and 203 (26.7%) required acute intervention, and the derived decision rule was 97% sensitive for intra-abdominal injuries requiring acute intervention, incorporating history and examination findings such as a Glasgow Coma Scale score of 3–13, evidence of abdominal wall trauma or seatbelt sign, complaint of abdominal pain, abdominal wall tenderness, evidence of thoracic wall trauma, decreased breath sounds, and vomiting; laboratory markers that may improve diagnostic accuracy include serum aspartate aminotransferase > 200 U/L, serum alanine aminotransferase > 125 U/L, hematocrit < 30%, and urinalysis with more than 5 red blood cells per high-powered field; in a 2018 analysis of 2,435 patients from the PECARN dataset using a clinical prediction rule composed of 5 variables, sensitivity was 97.5% for identifying blunt intra-abdominal injuries and 100% for those requiring intervention.
 
 ---
 
-### Medical management of chronic pancreatitis in children: a position paper by the north American society for pediatric gastroenterology, hepatology, and nutrition pancreas committee [^bb8c815b]. Journal of Pediatric Gastroenterology and Nutrition (2021). High credibility.
+### Medical management of chronic pancreatitis in children: a position paper by the north American society for pediatric gastroenterology, hepatology, and nutrition pancreas committee [^115o3sxn]. Journal of Pediatric Gastroenterology and Nutrition (2021). High credibility.
 
 Pediatric chronic pancreatitis — sequelae of disease: The majority of pancreatic fluid collections will resolve spontaneously with supportive care, and intervention is reserved for complications from mass-effect, infection/necrosis or if spontaneous regression of the collection is thought to be unlikely. Children with CP that continue to exhibit abdominal pain, bloating or other gastrointestinal (GI) concerns deserve an appropriate GI workup to evaluate for other etiologies that may explain their symptoms.
 
 ---
 
-### Clinical evaluation of inflammatory and blood parameters in the workup of pediatric chronic abdominal pain [^37a768ea]. The Journal of Pediatrics (2020). Medium credibility.
+### Clinical evaluation of inflammatory and blood parameters in the workup of pediatric chronic abdominal pain [^112RWYuX]. The Journal of Pediatrics (2020). Medium credibility.
 
 Objective
 
@@ -972,13 +972,13 @@ To distinguish between a functional and an organic cause for chronic abdominal p
 
 ---
 
-### Pediatric aggressive mature B-cell lymphomas, version 3.2022, NCCN clinical practice guidelines in oncology [^20cab5bc]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
+### Pediatric aggressive mature B-cell lymphomas, version 3.2022, NCCN clinical practice guidelines in oncology [^111qch8F]. Journal of the National Comprehensive Cancer Network (2022). High credibility.
 
 Pediatric aggressive mature B-cell lymphomas — rituximab-associated gastrointestinal symptoms: Abdominal pain, bowel obstruction, and bowel perforation have been described in patients treated with rituximab, and these symptoms should prompt early diagnostic evaluation to include plain films and/or CT of the abdomen and pelvis. All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Clinical features and preventability of delayed diagnosis of pediatric appendicitis [^87214bb7]. JAMA Network Open (2021). High credibility.
+### Clinical features and preventability of delayed diagnosis of pediatric appendicitis [^114TLWhU]. JAMA Network Open (2021). High credibility.
 
 Key Points
 
@@ -996,7 +996,7 @@ These findings suggest that undertesting for appendicitis may account for a cons
 
 ---
 
-### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^1a02b797]. Academic Emergency Medicine (2025). Medium credibility.
+### Exploring diagnostic stewardship in the emergency department evaluation of pediatric abdominal pain in a statewide quality collaborative [^111fZbGA]. Academic Emergency Medicine (2025). Medium credibility.
 
 RESULTS
 
@@ -1012,19 +1012,19 @@ Among all children identified with abdominal pain, 37,396 (31.1%) underwent abdo
 
 ---
 
-### Who will be the bastions of pediatric trauma care? [^d78eda4b]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Who will be the bastions of pediatric trauma care? [^116WaKar]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Whereas high-definition axial imaging has become ubiquitous in the evaluation of adult blunt abdominal trauma (BAT), laboratory testing has traditionally been the gatekeeper to proceeding with abdominopelvic CT in pediatric trauma patients. The data to support this practice, however, are highly conflicting, leading to a heterogeneous practice pattern across centers that treat pediatric trauma patients. A study of 14 different pediatric level I trauma centers found large variability in laboratory tests that were ordered across centers and weak correlation between laboratory results and CT use. The American College of Surgeons Trauma Quality Improvement Program Best Practices Guidelines in Imaging recommends screening laboratory tests prior to withholding abdominal CT imaging in children. Another study published in the American Journal of Emergency Medicine evaluated the role of laboratory markers in predicting injury among children < 18 years who sustained BAT. Among 327 patients, they found significantly higher mean transaminase and lipase values for those with solid organ injury, but most were still within normal range. They recommended that laboratory tests alone should not be used to screen pediatric patients with BAT. A prudent approach to avoiding CT imaging in injured children involves a combination of negative clinical, radiographic and laboratory findings, as each in isolation may not reliably rule out IAI. One study out of Memphis found that combining negative transaminase results with a negative FAST increased negative predictive value for IAI from 83% to 96% when compared with using each modality alone. A multicenter study involving 14 level I pediatric trauma centers used prospective data to develop a prediction rule that used a combination of history, physical exam findings, chest X-ray and liver and pancreatic enzyme levels. Its negative predictive value for identifying IAI requiring intervention was 100%, which was confirmed in a validation study published a year later. The Pediatric Emergency Care Research Network has developed clinical guidelines based on these study findings that combine clinical and laboratory features to identify individuals at high risk for BAT to reduce unnecessary imaging.
 
 ---
 
-### Chronic abdominal pain in children [^e54cc008]. Pediatrics (2005). Low credibility.
+### Chronic abdominal pain in children [^116rwwkK]. Pediatrics (2005). Low credibility.
 
 Chronic abdominal pain, defined as long-lasting intermittent or constant abdominal pain, is a common pediatric problem encountered by primary care physicians, medical subspecialists, and surgical specialists. Chronic abdominal pain in children is usually functional, that is, without objective evidence of an underlying organic disorder. The Subcommittee on Chronic Abdominal Pain of the American Academy of Pediatrics and the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition has prepared this report based on a comprehensive, systematic review and rating of the medical literature. This report accompanies a clinical report based on the literature review and expert opinion. The subcommittee examined the diagnostic and therapeutic value of a medical and psychological history, diagnostic tests, and pharmacologic and behavioral therapy. The presence of alarm symptoms or signs (such as weight loss, gastrointestinal bleeding, persistent fever, chronic severe diarrhea, and significant vomiting) is associated with a higher prevalence of organic disease. There was insufficient evidence to state that the nature of the abdominal pain or the presence of associated symptoms (such as anorexia, nausea, headache, and joint pain) can discriminate between functional and organic disorders. Although children with chronic abdominal pain and their parents are more often anxious or depressed, the presence of anxiety, depression, behavior problems, or recent negative life events does not distinguish between functional and organic abdominal pain. Most children who are brought to the primary care physician's office for chronic abdominal pain are unlikely to require diagnostic testing. Pediatric studies of therapeutic interventions were examined and found to be limited or inconclusive.
 
 ---
 
-### Influence of age on clinical presentation, diagnosis delay and outcome in pre-school children with acute appendicitis [^2d810538]. BMC Pediatrics (2020). Medium credibility.
+### Influence of age on clinical presentation, diagnosis delay and outcome in pre-school children with acute appendicitis [^112ATnCf]. BMC Pediatrics (2020). Medium credibility.
 
 Conclusions
 
@@ -1034,13 +1034,13 @@ Less specific, trivialized abdominal pain and dissociation of the inflammatory m
 
 ---
 
-### A prospective study to evaluate the contribution of the pediatric appendicitis score in the decision process [^1cc26ffe]. BMC Pediatrics (2024). Medium credibility.
+### A prospective study to evaluate the contribution of the pediatric appendicitis score in the decision process [^111jdxqb]. BMC Pediatrics (2024). Medium credibility.
 
 Most previous studies have primarily examined the utility of the PAS score within ED populations, without considering prior consultations in primary care. Primary care physicians often serve as the initial assessors, typically lacking immediate access to extensive laboratory and imaging resources. Depending on their expertise, they are aware of the seriousness and potential morbidity associated with AA. The key question they must address in their practice is: "Should I refer this child for further investigations?". The primary objective of this study was to compare the PAS scores of children presenting at the ED with clinical features suggestive of AA, taking into account whether or not they had a prior consultation in primary care. The secondary endpoint was to assess the potential of combined PAS scores and C-reactive protein (CRP) levels for diagnosing AA and alternative conditions.
 
 ---
 
-### The abdomen does not lie, but the labs might: predictors of intra-abdominal injury on computed tomography imaging in pediatric blunt trauma patients [^79770558]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
+### The abdomen does not lie, but the labs might: predictors of intra-abdominal injury on computed tomography imaging in pediatric blunt trauma patients [^11475Up7]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
 
 Introduction
 
@@ -1064,7 +1064,7 @@ Therapeutic/Care Management; Level III.
 
 ---
 
-### Definitions of pediatric pancreatitis and survey of present clinical practices [^abf60daa]. Journal of Pediatric Gastroenterology and Nutrition (2012). Low credibility.
+### Definitions of pediatric pancreatitis and survey of present clinical practices [^115PwXhK]. Journal of Pediatric Gastroenterology and Nutrition (2012). Low credibility.
 
 Objectives
 
@@ -1084,25 +1084,25 @@ INSPPIRE represents the first initiative to create a multicenter approach to sys
 
 ---
 
-### Clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis: approved by ACEP board of directors February 1, 2023 [^efd7d759]. Annals of Emergency Medicine (2023). High credibility.
+### Clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis: approved by ACEP board of directors February 1, 2023 [^1178aYH6]. Annals of Emergency Medicine (2023). High credibility.
 
 Pediatric appendicitis considerations — In a Class II prospective cohort study, 5 historical, physical examination, and laboratory findings were identified as significantly associated with pediatric appendicitis, and logistic regression was used to identify factors.
 
 ---
 
-### Clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis: approved by ACEP board of directors February 1, 2023 [^21b8e78f]. Annals of Emergency Medicine (2023). High credibility.
+### Clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis: approved by ACEP board of directors February 1, 2023 [^111rzhXk]. Annals of Emergency Medicine (2023). High credibility.
 
 Pediatric appendicitis — diagnostic modeling and accuracy: A retrospective review of all patients to a pediatric hospital with abdominal pain over 3 months, with review within 72 hours and follow-up at 2 weeks, used chart review of history, physical, laboratory, and radiologic findings to assess the presence of appendicitis using recursive partitioning and logistic regression. Recursive partitioning identified: girls 5–12 y with guarding and temperature above 38.4°C; boys 5–12 y with tenderness and vomiting; and boys > 12 y with guarding and anorexia. Binary logistic regression found that history and physical examination only had predictive accuracy 94.4%, positive predictive value (PPV) 19%, negative predictive value (NPV) 99.2%, whereas history and physical examination with white blood cell (WBC) count had predictive accuracy 89.1%, PPV 18%, NPV 98.8%. Limitations/comments noted that history and physical examination alone have high predictive accuracy and NPV and that these were less when WBC count included, with pediatrics only, retrospective design, and telephone follow-up.
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^136a9283]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^111VnZYv]. Kidney International (2025). High credibility.
 
 Autosomal dominant polycystic kidney disease (ADPKD) in children — abdominal pain assessment and analgesia: Evaluate abdominal pain with consideration for kidney cyst complications along with other common pediatric causes, and minimize use of nonsteroidal anti-inflammatory drugs (NSAIDs) due to underlying kidney disease. Abdominal pain is common, affecting 10%–20% of both children with ADPKD and otherwise healthy children, and abdominal MRI (or CT) may help if cyst complication is suspected.
 
 ---
 
-### Preoperative inflammatory markers in pediatric appendicitis: associations with disease severity, postoperative recovery, pain, and surgical outcomes [^2198812c]. BMC Pediatrics (2025). Medium credibility.
+### Preoperative inflammatory markers in pediatric appendicitis: associations with disease severity, postoperative recovery, pain, and surgical outcomes [^111ropL3]. BMC Pediatrics (2025). Medium credibility.
 
 Conclusion
 
@@ -1110,7 +1110,7 @@ Preoperative inflammatory markers provide strong support for severity stratifica
 
 ---
 
-### Imaging strategies for detection of urgent conditions in patients with acute abdominal pain: diagnostic accuracy study [^5cf33b39]. BMJ (2009). Excellent credibility.
+### Imaging strategies for detection of urgent conditions in patients with acute abdominal pain: diagnostic accuracy study [^113NoZTN]. BMJ (2009). Excellent credibility.
 
 Introduction
 
@@ -1124,6 +1124,6 @@ We evaluated the added value of plain radiographs, ultrasonography, and computed
 
 ---
 
-### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^42bd0a22]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
+### Management of acute pancreatitis in the pediatric population: a clinical report from the north American society for pediatric gastroenterology, hepatology and nutrition pancreas committee [^112hwgPT]. Journal of Pediatric Gastroenterology and Nutrition (2018). Medium credibility.
 
 Pediatric acute pancreatitis — diagnostic criteria and consensus: Diagnosis of AP in pediatric patients requires at least 2 of the following: (1) abdominal pain compatible with AP, (2) serum amylase and/or lipase values > 3 times upper limits of normal, (3) imaging findings consistent with AP, with 24/24 = 100% agreement with recommendation and voting results showing Strongly agree = 22; agree = 2; neutral = 0; disagree = 0; strongly disagree = 0.

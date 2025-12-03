@@ -15,55 +15,55 @@ Hyperemesis gravidarum
 
 > Let's see… What do we have here? The user is asking about hyperemesis gravidarum. Let's break this down step-by-step. First, I need to think about defining hyperemesis gravidarum and how it differs from nausea and vomiting of pregnancy. Then, I should verify epidemiology and risk factors. Next, I will examine pathophysiology, followed by maternal and fetal complications. After that, I need to review diagnostic criteria and severity assessment. Then, I will appraise treatment options, including first-line, second-line, and refractory strategies, and I should double-check safety signals and guideline positions. Finally, I will consider models of care, special populations, and future directions, and I will close with a concise, clinically actionable summary.
 
-> Let me first confirm the definition and clinical spectrum. Hyperemesis gravidarum is best understood as the severe end of nausea and vomiting of pregnancy, characterized by persistent vomiting, inability to maintain normal oral intake, weight loss of at least 5% of pre-pregnancy body weight, dehydration, and ketonuria, typically arising before 16 weeks' gestation and strongly limiting daily activities, which distinguishes it from milder NVP that does not cause such functional impairment or metabolic derangements [^82926efd] [^47476fe0] [^08c1e683].
+> Let me first confirm the definition and clinical spectrum. Hyperemesis gravidarum is best understood as the severe end of nausea and vomiting of pregnancy, characterized by persistent vomiting, inability to maintain normal oral intake, weight loss of at least 5% of pre-pregnancy body weight, dehydration, and ketonuria, typically arising before 16 weeks' gestation and strongly limiting daily activities, which distinguishes it from milder NVP that does not cause such functional impairment or metabolic derangements [^114LaaPe] [^112pg7iP] [^111Dz2jt].
 
-> I should confirm the epidemiology next. HG affects roughly 0.3% to 3% of pregnancies, with most estimates clustering around 1% to 2%, and it is the most common reason for hospitalization in the first half of pregnancy. Recurrence in subsequent pregnancies is high, ranging from about 15% in registry data to over 80% in some cohorts, and risk is higher with prior HG, multiple gestation, female fetus, family history, and extremes of maternal weight [^4c311765] [^82926efd] [^511ba283].
+> I should confirm the epidemiology next. HG affects roughly 0.3% to 3% of pregnancies, with most estimates clustering around 1% to 2%, and it is the most common reason for hospitalization in the first half of pregnancy. Recurrence in subsequent pregnancies is high, ranging from about 15% in registry data to over 80% in some cohorts, and risk is higher with prior HG, multiple gestation, female fetus, family history, and extremes of maternal weight [^112wxYo6] [^114LaaPe] [^1135FHCN].
 
-> Hold on, let's not jump to conclusions about causation; I need to check the pathophysiology. Historically, hCG and estrogen have been implicated, but emerging evidence points to GDF-15 as a key driver, with maternal sensitivity to placental GDF-15 signaling via GFRAL-RET contributing to severity; this mechanistic insight underpins development of GDF-15 pathway antagonists such as NGM120, currently in phase 2 trials, and may explain why pre-pregnancy exposure to GDF-15 appears protective while acute high levels in pregnancy precipitate emesis [^0933c295] [^1f7fbe30] [^ed7e1537].
+> Hold on, let's not jump to conclusions about causation; I need to check the pathophysiology. Historically, hCG and estrogen have been implicated, but emerging evidence points to GDF-15 as a key driver, with maternal sensitivity to placental GDF-15 signaling via GFRAL-RET contributing to severity; this mechanistic insight underpins development of GDF-15 pathway antagonists such as NGM120, currently in phase 2 trials, and may explain why pre-pregnancy exposure to GDF-15 appears protective while acute high levels in pregnancy precipitate emesis [^111EeGuS] [^111ohXNP] [^11756R5g].
 
-> Next, I should review maternal complications. Severe HG can lead to Wernicke encephalopathy from thiamine deficiency, electrolyte disturbances including hyponatremia and hypokalemia with risk of osmotic demyelination if corrected too rapidly, and liver enzyme elevations in about half of hospitalized cases, typically mild and resolving with hydration. Psychological sequelae are common, with high rates of anxiety, depression, and PTSD, and up to a quarter reporting occasional suicidal ideation, underscoring the need for mental health screening and support [^7c7c719f] [^326c1ad0] [^5bcfb059] [^94f30b3b] [^604a99bc].
+> Next, I should review maternal complications. Severe HG can lead to Wernicke encephalopathy from thiamine deficiency, electrolyte disturbances including hyponatremia and hypokalemia with risk of osmotic demyelination if corrected too rapidly, and liver enzyme elevations in about half of hospitalized cases, typically mild and resolving with hydration. Psychological sequelae are common, with high rates of anxiety, depression, and PTSD, and up to a quarter reporting occasional suicidal ideation, underscoring the need for mental health screening and support [^114BZGJi] [^112Hkh99] [^113M7dkU] [^114opoar] [^113TksPZ].
 
-> I will now examine fetal and offspring effects. Observational data associate HG with increased risks of low birth weight, small-for-gestational-age infants, and preterm delivery, particularly when maternal weight gain is inadequate or when HG is diagnosed in the second trimester; however, reassuringly, perinatal mortality is not increased in large cohorts, and some analyses suggest that adverse outcomes track with severity and maternal weight trajectory rather than HG per se [^775b843f] [^66c844c2] [^1b2b4937] [^c24515ae].
+> I will now examine fetal and offspring effects. Observational data associate HG with increased risks of low birth weight, small-for-gestational-age infants, and preterm delivery, particularly when maternal weight gain is inadequate or when HG is diagnosed in the second trimester; however, reassuringly, perinatal mortality is not increased in large cohorts, and some analyses suggest that adverse outcomes track with severity and maternal weight trajectory rather than HG per se [^1143xGRU] [^113dP1Hs] [^111hHCtW] [^115y1oYq].
 
-> Let me think about diagnosis and severity assessment. HG remains a clinical diagnosis of exclusion; I should confirm gestational timing, quantify weight loss, assess dehydration and ketosis, and screen for alternative causes such as gastroenteritis, UTI, hepatitis, and thyroid disease. Validated tools like PUQE-24 help track severity, and the HELP score is promising but needs further validation; importantly, I should remember that liver test abnormalities up to about 1,000 IU/L are not uncommon and usually resolve with supportive care [^1968ca40] [^70e46ab0] [^326c1ad0].
+> Let me think about diagnosis and severity assessment. HG remains a clinical diagnosis of exclusion; I should confirm gestational timing, quantify weight loss, assess dehydration and ketosis, and screen for alternative causes such as gastroenteritis, UTI, hepatitis, and thyroid disease. Validated tools like PUQE-24 help track severity, and the HELP score is promising but needs further validation; importantly, I should remember that liver test abnormalities up to about 1,000 IU/L are not uncommon and usually resolve with supportive care [^111eftX9] [^113tNLUo] [^112Hkh99].
 
-> Now, I should review first-line management. Supportive care with rehydration, correction of electrolytes, and thiamine supplementation is foundational; thiamine 100 mg daily for at least 7 days, then 50 mg daily until adequate oral intake, helps prevent Wernicke encephalopathy, and dextrose should be given with thiamine to mitigate risk. Non-oral routes for antiemetics are often necessary early on, and early treatment of NVP may prevent progression to HG, so I need to ensure timely escalation rather than watchful waiting [^7c7c719f] [^259ef7ec] [^a297f0fa].
+> Now, I should review first-line management. Supportive care with rehydration, correction of electrolytes, and thiamine supplementation is foundational; thiamine 100 mg daily for at least 7 days, then 50 mg daily until adequate oral intake, helps prevent Wernicke encephalopathy, and dextrose should be given with thiamine to mitigate risk. Non-oral routes for antiemetics are often necessary early on, and early treatment of NVP may prevent progression to HG, so I need to ensure timely escalation rather than watchful waiting [^114BZGJi] [^111xmwP9] [^115A42i5].
 
-> Wait, let me verify pharmacologic sequencing. For antiemetics, I initially thought metoclopramide was universally first-line, but I should correct that: many contemporary guidelines endorse a stepwise approach starting with doxylamine-pyridoxine for NVP, then adding agents like metoclopramide, promethazine, or ondansetron as needed; metoclopramide is effective but should be limited to short courses due to extrapyramidal risks, and ondansetron is widely used with reassuring safety data despite a small signal for orofacial clefts that translates to a very low absolute risk; I should counsel patients and individualize decisions, especially in the first trimester [^a297f0fa] [^fd39e46c] [^50469662].
+> Wait, let me verify pharmacologic sequencing. For antiemetics, I initially thought metoclopramide was universally first-line, but I should correct that: many contemporary guidelines endorse a stepwise approach starting with doxylamine-pyridoxine for NVP, then adding agents like metoclopramide, promethazine, or ondansetron as needed; metoclopramide is effective but should be limited to short courses due to extrapyramidal risks, and ondansetron is widely used with reassuring safety data despite a small signal for orofacial clefts that translates to a very low absolute risk; I should counsel patients and individualize decisions, especially in the first trimester [^115A42i5] [^117URK8X] [^11341ihX].
 
-> I should double-check corticosteroid positioning. Corticosteroids are reserved for refractory cases after failure of standard antiemetics; evidence is mixed, with some studies and reviews suggesting reduced readmissions while others show no clear benefit, and there is a small but real risk of oral clefts with first-trimester exposure, so if used, methylprednisolone 48 mg daily for 3 days with a 2-week taper and total duration under 6 weeks is a commonly cited regimen, ideally avoided before 10 weeks when possible [^3b7ef0d1] [^7c7c719f] [^a2e743f9].
+> I should double-check corticosteroid positioning. Corticosteroids are reserved for refractory cases after failure of standard antiemetics; evidence is mixed, with some studies and reviews suggesting reduced readmissions while others show no clear benefit, and there is a small but real risk of oral clefts with first-trimester exposure, so if used, methylprednisolone 48 mg daily for 3 days with a 2-week taper and total duration under 6 weeks is a commonly cited regimen, ideally avoided before 10 weeks when possible [^112XCuda] [^114BZGJi] [^115AWg4x].
 
-> But wait, what if standard therapy fails? I need to consider alternatives. Gabapentin has RCT-level evidence showing a 52% greater reduction in nausea and vomiting versus ondansetron or metoclopramide in refractory HG, with improved oral intake and satisfaction; mirtazapine and olanzapine are reasonable off-label options in select cases, and for nutrition, enteral feeding via NG or ND tubes is preferred over PICC lines due to substantially higher complication rates with PICCs, including thrombosis and sepsis, so I should avoid PICCs unless enteral access is not feasible [^7d2fc3ff] [^907eab03] [^249e0131] [^c1ed4f01].
+> But wait, what if standard therapy fails? I need to consider alternatives. Gabapentin has RCT-level evidence showing a 52% greater reduction in nausea and vomiting versus ondansetron or metoclopramide in refractory HG, with improved oral intake and satisfaction; mirtazapine and olanzapine are reasonable off-label options in select cases, and for nutrition, enteral feeding via NG or ND tubes is preferred over PICC lines due to substantially higher complication rates with PICCs, including thrombosis and sepsis, so I should avoid PICCs unless enteral access is not feasible [^114CbVmx] [^114hDmGn] [^111wHdKn] [^115xWKXv].
 
-> Next, I should review models of care. Outpatient day-case units and ED clinical decision units can reduce inpatient admissions and length of stay without compromising outcomes, and dedicated HG clinics with multidisciplinary input from obstetrics, midwifery, dietetics, and mental health improve coordination and patient experience; digital health supports and telemedicine can extend access, though high-quality comparative effectiveness data remain limited [^8a219d0a] [^5316dc0d] [^4a0f44cc].
+> Next, I should review models of care. Outpatient day-case units and ED clinical decision units can reduce inpatient admissions and length of stay without compromising outcomes, and dedicated HG clinics with multidisciplinary input from obstetrics, midwifery, dietetics, and mental health improve coordination and patient experience; digital health supports and telemedicine can extend access, though high-quality comparative effectiveness data remain limited [^114XnajT] [^1138BejN] [^112toDK9].
 
-> I need to ensure I address special populations. In multiple gestation or trophoblastic disease, the risk of HG is higher and vigilance for complications is warranted; in patients with type 1 diabetes, HG complicates glycemic management and may necessitate intensive multidisciplinary care; and in those with prolonged vomiting, I should proactively screen for thiamine deficiency and consider empiric thiamine even before lab confirmation if neurological symptoms emerge [^511ba283] [^a6c82a98] [^e79c8545].
+> I need to ensure I address special populations. In multiple gestation or trophoblastic disease, the risk of HG is higher and vigilance for complications is warranted; in patients with type 1 diabetes, HG complicates glycemic management and may necessitate intensive multidisciplinary care; and in those with prolonged vomiting, I should proactively screen for thiamine deficiency and consider empiric thiamine even before lab confirmation if neurological symptoms emerge [^1135FHCN] [^115GGBLT] [^116vNiN8].
 
-> Let me reconsider the future directions. GDF-15 targeted therapies are the most promising disease-modifying approach on the horizon, and standardization of definitions and outcomes via the Windsor definition and core outcome sets should improve trial comparability; nonetheless, I should emphasize that current evidence for many interventions remains low to very low quality, reinforcing the need for larger, well-designed RCTs and pragmatic implementation studies [^0933c295] [^bd3c2519] [^a1c89886].
+> Let me reconsider the future directions. GDF-15 targeted therapies are the most promising disease-modifying approach on the horizon, and standardization of definitions and outcomes via the Windsor definition and core outcome sets should improve trial comparability; nonetheless, I should emphasize that current evidence for many interventions remains low to very low quality, reinforcing the need for larger, well-designed RCTs and pragmatic implementation studies [^111EeGuS] [^115qYryn] [^1158rPHw].
 
-> In summary, I should confirm that HG is a severe, potentially life-threatening condition requiring prompt recognition, exclusion of alternative diagnoses, aggressive supportive care, and stepwise pharmacotherapy with attention to mental health and nutrition. Early intervention, avoidance of delays, and coordinated multidisciplinary care mitigate maternal and fetal risks, and clinicians should not withhold effective antiemetics due to unfounded safety fears when benefits outweigh risks in shared decision-making [^82926efd] [^3929d78d] [^a297f0fa].
+> In summary, I should confirm that HG is a severe, potentially life-threatening condition requiring prompt recognition, exclusion of alternative diagnoses, aggressive supportive care, and stepwise pharmacotherapy with attention to mental health and nutrition. Early intervention, avoidance of delays, and coordinated multidisciplinary care mitigate maternal and fetal risks, and clinicians should not withhold effective antiemetics due to unfounded safety fears when benefits outweigh risks in shared decision-making [^114LaaPe] [^112TkMDE] [^115A42i5].
 
 ---
 
-Hyperemesis gravidarum (HG) is a severe form of nausea and vomiting in pregnancy, defined by **persistent vomiting, weight loss ≥ 5% of pre-pregnancy weight, dehydration, and ketonuria** [^08c1e683] [^47476fe0]. It affects 0.3–2% of pregnancies and is the most common cause of first-trimester hospitalization [^82926efd] [^c24515ae]. HG is a clinical diagnosis of exclusion, with **supportive care as the cornerstone**: rehydration, electrolyte correction, thiamine to prevent Wernicke encephalopathy, and antiemetics such as metoclopramide, ondansetron, or promethazine [^7c7c719f] [^326c1ad0]. Corticosteroids are reserved for refractory cases after 10 weeks due to cleft risk, and enteral nutrition is preferred over parenteral when needed [^3b7ef0d1] [^259ef7ec]. HG increases risks of preterm birth, low birth weight, and maternal complications, so **early, multidisciplinary care is essential** [^1b2b4937] [^66c844c2].
+Hyperemesis gravidarum (HG) is a severe form of nausea and vomiting in pregnancy, defined by **persistent vomiting, weight loss ≥ 5% of pre-pregnancy weight, dehydration, and ketonuria** [^111Dz2jt] [^112pg7iP]. It affects 0.3–2% of pregnancies and is the most common cause of first-trimester hospitalization [^114LaaPe] [^115y1oYq]. HG is a clinical diagnosis of exclusion, with **supportive care as the cornerstone**: rehydration, electrolyte correction, thiamine to prevent Wernicke encephalopathy, and antiemetics such as metoclopramide, ondansetron, or promethazine [^114BZGJi] [^112Hkh99]. Corticosteroids are reserved for refractory cases after 10 weeks due to cleft risk, and enteral nutrition is preferred over parenteral when needed [^112XCuda] [^111xmwP9]. HG increases risks of preterm birth, low birth weight, and maternal complications, so **early, multidisciplinary care is essential** [^111hHCtW] [^113dP1Hs].
 
 ---
 
 ## Definition and diagnostic criteria
 
-HG is defined by **severe nausea and vomiting** that causes weight loss ≥ 5% of pre-pregnancy weight, dehydration, electrolyte disturbances, and ketonuria [^08c1e683] [^47476fe0]. The diagnosis is clinical and one of exclusion, requiring assessment of severity and complications [^70e46ab0].
+HG is defined by **severe nausea and vomiting** that causes weight loss ≥ 5% of pre-pregnancy weight, dehydration, electrolyte disturbances, and ketonuria [^111Dz2jt] [^112pg7iP]. The diagnosis is clinical and one of exclusion, requiring assessment of severity and complications [^113tNLUo].
 
 ---
 
 ## Epidemiology and risk factors
 
-HG occurs in **0.3–2% of pregnancies**, with higher incidence in Western countries [^4c311765] [^c24515ae]. Risk factors include:
+HG occurs in **0.3–2% of pregnancies**, with higher incidence in Western countries [^112wxYo6] [^115y1oYq]. Risk factors include:
 
-- **Previous HG**: strongest predictor; recurrence 15–89% [^4c311765].
-- **Family history**: maternal or sibling HG increases risk [^511ba283].
-- **Multiple gestation**: increased placental mass raises risk [^511ba283].
-- **Female fetus**: higher incidence observed [^4c311765].
-- **Younger maternal age and extremes of BMI**: associated with higher risk [^4c311765].
+- **Previous HG**: strongest predictor; recurrence 15–89% [^112wxYo6].
+- **Family history**: maternal or sibling HG increases risk [^1135FHCN].
+- **Multiple gestation**: increased placental mass raises risk [^1135FHCN].
+- **Female fetus**: higher incidence observed [^112wxYo6].
+- **Younger maternal age and extremes of BMI**: associated with higher risk [^112wxYo6].
 
 ---
 
@@ -71,15 +71,15 @@ HG occurs in **0.3–2% of pregnancies**, with higher incidence in Western count
 
 The exact cause is **multifactorial**; proposed mechanisms include:
 
-- **Hormonal**: elevated hCG, estrogen, and progesterone contribute to nausea and vomiting [^a4be9405].
-- **Genetic**: variants in GDF-15 and its receptor are implicated in HG susceptibility [^0933c295] [^ed7e1537].
+- **Hormonal**: elevated hCG, estrogen, and progesterone contribute to nausea and vomiting [^115DEyyn].
+- **Genetic**: variants in GDF-15 and its receptor are implicated in HG susceptibility [^111EeGuS] [^11756R5g].
 - **Gastrointestinal**: delayed gastric emptying and altered motility may play a role [^notfound].
 
 ---
 
 ## Clinical presentation and complications
 
-HG typically presents in the **first trimester** with persistent vomiting, weight loss, dehydration, electrolyte disturbances (hypokalemia, hyponatremia), and ketonuria [^08c1e683]. Severe complications include Wernicke encephalopathy, renal failure, and hepatic injury [^notfound]. Fetal risks include preterm birth, low birth weight, and small-for-gestational-age infants [^1b2b4937] [^66c844c2].
+HG typically presents in the **first trimester** with persistent vomiting, weight loss, dehydration, electrolyte disturbances (hypokalemia, hyponatremia), and ketonuria [^111Dz2jt]. Severe complications include Wernicke encephalopathy, renal failure, and hepatic injury [^notfound]. Fetal risks include preterm birth, low birth weight, and small-for-gestational-age infants [^111hHCtW] [^113dP1Hs].
 
 ---
 
@@ -87,9 +87,9 @@ HG typically presents in the **first trimester** with persistent vomiting, weigh
 
 Diagnosis is clinical, supported by:
 
-- **Laboratory tests**: CBC, electrolytes, renal and liver function, thyroid function, and urinalysis for ketones [^7373997a].
+- **Laboratory tests**: CBC, electrolytes, renal and liver function, thyroid function, and urinalysis for ketones [^113xAQU9].
 - **Imaging**: ultrasound to confirm intrauterine pregnancy and exclude multiple gestation or molar pregnancy [^notfound].
-- **Severity assessment**: PUQE-24 score to quantify symptom severity and guide management [^1968ca40].
+- **Severity assessment**: PUQE-24 score to quantify symptom severity and guide management [^111eftX9].
 
 ---
 
@@ -97,7 +97,7 @@ Diagnosis is clinical, supported by:
 
 ### Non-pharmacological interventions
 
-Non-pharmacological care includes **dietary modifications** — small, frequent, low-fat meals; avoidance of triggers — and **psychological support** with counseling and support groups to address mental health impacts [^5bcfb059].
+Non-pharmacological care includes **dietary modifications** — small, frequent, low-fat meals; avoidance of triggers — and **psychological support** with counseling and support groups to address mental health impacts [^113M7dkU].
 
 ---
 
@@ -105,29 +105,29 @@ Non-pharmacological care includes **dietary modifications** — small, frequent,
 
 | **Medication** | **Indication** | **Notes** |
 |-|-|-|
-| Metoclopramide | First-line antiemetic | Safe; monitor for extrapyramidal effects [^fd39e46c] |
-| Ondansetron | Second-line antiemetic | Effective; minimal fetal risk [^50469662] |
-| Promethazine | Alternative antiemetic | Sedation common [^a1c89886] |
-| Corticosteroids | Refractory cases after 10 weeks | Short course; cleft risk if used earlier [^3b7ef0d1] |
-| Thiamine | Prevent Wernicke encephalopathy | 100 mg daily for 7 days, then 50 mg daily [^7c7c719f] |
+| Metoclopramide | First-line antiemetic | Safe; monitor for extrapyramidal effects [^117URK8X] |
+| Ondansetron | Second-line antiemetic | Effective; minimal fetal risk [^11341ihX] |
+| Promethazine | Alternative antiemetic | Sedation common [^1158rPHw] |
+| Corticosteroids | Refractory cases after 10 weeks | Short course; cleft risk if used earlier [^112XCuda] |
+| Thiamine | Prevent Wernicke encephalopathy | 100 mg daily for 7 days, then 50 mg daily [^114BZGJi] |
 
 ---
 
 ### Nutritional support
 
-Enteral nutrition via nasogastric or nasoduodenal tubes is **preferred** when oral intake is inadequate; parenteral nutrition is reserved for cases where enteral feeding is not feasible due to higher complication rates [^259ef7ec] [^b55cb80f].
+Enteral nutrition via nasogastric or nasoduodenal tubes is **preferred** when oral intake is inadequate; parenteral nutrition is reserved for cases where enteral feeding is not feasible due to higher complication rates [^111xmwP9] [^115dsuKU].
 
 ---
 
 ## Impact on maternal and fetal outcomes
 
-HG is associated with **significant maternal morbidity**, including electrolyte disturbances, nutritional deficiencies, and psychological distress [^5bcfb059]. Fetal risks include preterm birth, low birth weight, and small-for-gestational-age infants, particularly with severe or prolonged HG [^1b2b4937] [^66c844c2].
+HG is associated with **significant maternal morbidity**, including electrolyte disturbances, nutritional deficiencies, and psychological distress [^113M7dkU]. Fetal risks include preterm birth, low birth weight, and small-for-gestational-age infants, particularly with severe or prolonged HG [^111hHCtW] [^113dP1Hs].
 
 ---
 
 ## Current research and future directions
 
-Recent advances implicate **GDF-15** in HG pathogenesis, supporting targeted therapies such as GDF-15 receptor antagonists [^0933c295] [^ed7e1537]. Standardization of diagnostic criteria and outcome measures aims to improve research quality and clinical care [^bd3c2519].
+Recent advances implicate **GDF-15** in HG pathogenesis, supporting targeted therapies such as GDF-15 receptor antagonists [^111EeGuS] [^11756R5g]. Standardization of diagnostic criteria and outcome measures aims to improve research quality and clinical care [^115qYryn].
 
 ---
 
@@ -137,13 +137,13 @@ Hyperemesis gravidarum is a severe, potentially life-threatening condition requi
 
 ## References
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^ef1ab49f]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^1177V1cr]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 Hyperemesis gravidarum (HG) is a severe form of nausea and vomiting in pregnancy affecting around 1%-3% of pregnancies worldwide and is the most common reason for hospital admission in early pregnancy. HG can have lasting consequences for both pregnant individuals and their offspring. Current best-practice management includes symptomatic treatment with anti-emetic pharmacological treatment, rehydration if needed, and psychological support. There is a lack of high-quality evidence on treatment for HG. Future research should focus on understanding the cause, developing effective treatment, and so limiting the burden of disease on patients and healthcare systems.
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^47476fe0]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^112pg7iP]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 1 INTRODUCTION
 
@@ -153,7 +153,7 @@ The aim of this narrative review is to highlight what is currently known of HG a
 
 ---
 
-### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^57341c3a]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^113EHRi1]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Standardisation of care
 
@@ -167,7 +167,7 @@ Further research is warranted to explore the relationship between early treatmen
 
 ---
 
-### Interventions for treating hyperemesis gravidarum [^a1c89886]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Interventions for treating hyperemesis gravidarum [^1158rPHw]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -199,7 +199,7 @@ On the basis of this review, there is little high-quality and consistent evidenc
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^bd3c2519]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^115qYryn]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 In order to better answer the research priorities for HG, steps have been taken to standardize research in this field. First, the Windsor definition for HG was published in order to assist in clinical diagnosis and homogenize the definition of HG in study populations to enable the possibility for meta‐analysis. Next, an international consensus was achieved on a core outcome set for trials on HG. This core outcome set contains a list of 24 outcomes in 10 domains that will help to standardize outcome reporting in HG research, furthering the opportunity for meta‐analyses and therefore providing more robust evidence on the effectiveness of treatment options for HG. A core measurement set, a list of instruments recommended to measure core outcomes, is also in development. Improving outcome reporting in the field of HG will provide more robust evidence to answer the questions still facing the field today.
 
@@ -207,7 +207,7 @@ There is a lack of international guidelines for the treatment of HG. Some countr
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^8afeaf21]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^114Z4qY4]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 Abstract
 
@@ -215,7 +215,7 @@ Hyperemesis gravidarum (HG) is a severe form of nausea and vomiting in pregnancy
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^0d36fa5e]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^111LbJiq]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 6 CONCLUSION
 
@@ -226,7 +226,7 @@ Suspected mechanism of hyperemesis gravidarum (HG) and associated adverse matern
 
 ---
 
-### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^5fa145e6]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^113SmzdB]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Introduction
 
@@ -236,7 +236,7 @@ NVP and HG can create substantial physical, psychological, and economic burden f
 
 ---
 
-### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^51e8a159]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^1136S8q6]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Research and development
 
@@ -248,7 +248,7 @@ By recognising the outcomes and implications of the current research, and addres
 
 ---
 
-### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^8a219d0a]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^114XnajT]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Background
 
@@ -268,7 +268,7 @@ This scoping review has identified the need for further research on approaches t
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^1968ca40]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^111eftX9]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 4 BEST‐PRACTICE MANAGEMENT
 
@@ -284,25 +284,25 @@ In cases of threatening dehydration, rehydration therapy should be started. Vari
 
 ---
 
-### Hyperemesis gravidarum [^197d552e]. Obstetrics and Gynecology Clinics of North America (2008). Low credibility.
+### Hyperemesis gravidarum [^111enniy]. Obstetrics and Gynecology Clinics of North America (2008). Low credibility.
 
 Hyperemesis gravidarum occurs in 0.3% to 2% of pregnant women, although populations with significantly higher rates have been reported. In clinical practice, hyperemesis gravidarum is identified by otherwise unexplained intractable vomiting and dehydration. This article discusses the causes, presentation, diagnosis, and management of hyperemesis gravidarum.
 
 ---
 
-### Management of hyperemesis gravidarum [^07051fc7]. Drug and Therapeutics Bulletin (2013). Low credibility.
+### Management of hyperemesis gravidarum [^111BQdoL]. Drug and Therapeutics Bulletin (2013). Low credibility.
 
 Nausea and vomiting in pregnancy are common complaints and vary considerably in duration and severity. Hyperemesis gravidarum represents the extreme end of the spectrum associated with dehydration and weight loss. As embryonic organogenesis occurs during the first trimester, pharmacological intervention for any condition during this period poses a significant clinical dilemma requiring careful assessment of risks and benefits. In the UK, there are no formal national guidelines for the management of hyperemesis gravidarum. In addition, no high-quality evidence exists for i.v. fluid and electrolyte replacement in hyperemesis gravidarum, and a Cochrane review on interventions for the treatment of nausea and vomiting in pregnancy specifically excluded studies on hyperemesis gravidarum. In this article, we review the evidence for the efficacy and safety of different management options for hyperemesis gravidarum.
 
 ---
 
-### Managing hyperemesis gravidarum: a multimodal challenge [^786cb117]. BMC Medicine (2010). Low credibility.
+### Managing hyperemesis gravidarum: a multimodal challenge [^1145Y2Ja]. BMC Medicine (2010). Low credibility.
 
 Up to 90% of pregnant women experience nausea and vomiting. When prolonged or severe, this is known as hyperemesis gravidarum (HG), which can, in individual cases, be life threatening. In this article the aetiology, diagnosis and treatment strategies will be presented based on a selective literature review. Treatment strategies range from outpatient dietary advice and antiemetic drugs to hospitalization and intravenous (IV) fluid replacement in persistent or severe cases. Alternative methods, such as acupuncture, are not yet evidence based but sometimes have a therapeutic effect. In most cases, the condition is self limiting and subsides by around 20 weeks gestation. More severe forms require medical intervention once other organic causes of nausea and vomiting have been excluded. In addition, a psychosomatic approach is often helpful. In view of its potential complexity, general practitioners and obstetricians should be well informed about HG and therapy should be multimodal.
 
 ---
 
-### Managing hyperemesis gravidarum: a multimodal challenge [^6666abe0]. BMC Medicine (2010). Low credibility.
+### Managing hyperemesis gravidarum: a multimodal challenge [^113cpDwm]. BMC Medicine (2010). Low credibility.
 
 Introduction
 
@@ -324,7 +324,7 @@ A small percentage of pregnant women experience a severe form of nausea and vomi
 
 ---
 
-### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^8bd216c9]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^114aHr32]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Background
 
@@ -348,7 +348,7 @@ The online version contains supplementary material available at 10.1186/s12884-0
 
 ---
 
-### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^4f97e401]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^113313LC]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Background
 
@@ -362,13 +362,13 @@ Despite the availability of relatively harmonised guidelines to support practice
 
 ---
 
-### Inpatient management of hyperemesis gravidarum [^907eab03]. Obstetrics and Gynecology (2024). Medium credibility.
+### Inpatient management of hyperemesis gravidarum [^114hDmGn]. Obstetrics and Gynecology (2024). Medium credibility.
 
 Hyperemesis gravidarum has a reported incidence of approximately 0.3–3% of pregnancies. Without treatment, refractory hyperemesis gravidarum can result in dehydration, electrolyte deficiencies, and severe nutritional deficiencies, resulting in significant maternal morbidity. The overall goals of inpatient management of refractory hyperemesis gravidarum are the resumption of oral intake to an adequate level to maintain hydration and nutrition, including the ability to tolerate oral pharmacotherapy. Patients initially are stabilized with rehydration and electrolyte repletion. There are numerous pharmacotherapeutics available that can be administered intravenously to control symptoms when oral intake is not an option. However, despite maximizing typical antiemetics, there will be cases refractory to these medications, and alternative pharmacotherapeutics and nutrition-support modalities must be considered. Mirtazapine, olanzapine, corticosteroids, and gabapentin are examples of alternative pharmacotherapeutics, and enteral and parenteral nutrition are alternative therapies that can be used when oral intake is not tolerated for prolonged time periods with ongoing weight loss. In refractory cases of hyperemesis gravidarum, the risks and benefits of these alternative forms of management must be considered, along with the risks of undertreated hyperemesis gravidarum and the overall effect of hyperemesis gravidarum on patients' quality of life.
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^7373997a]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^113xAQU9]. BMJ Open Quality (2018). Medium credibility.
 
 Design
 
@@ -388,7 +388,7 @@ No alternative diagnosis more likely than hyperemesis.
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^90b64c8d]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^114hYT3z]. BMJ Open Quality (2018). Medium credibility.
 
 Introduction
 
@@ -398,7 +398,7 @@ This referral process can lead to treatment delays before the gynaecology team r
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^fd39e46c]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^117URK8X]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 TABLE 1
 Antiemetics used in the treatment of hyperemesis gravidarum (HG).
@@ -411,7 +411,7 @@ Combination of drugs should be used in individuals who have not responded to sin
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^0933c295]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^111EeGuS]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 5 HIGHLIGHTS OF CURRENT RESEARCH AND FUTURE AREAS OF INTEREST
 
@@ -421,7 +421,7 @@ The pathophysiology of HG was always considered multifactorial, although little 
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^799a4419]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^1147HKSg]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 3.3 Societal consequences
 
@@ -429,7 +429,7 @@ In addition to physical and psychological suffering, HG presents an economic and
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^580c787f]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^113FY6kN]. BMJ Open Quality (2018). Medium credibility.
 
 Conclusions
 
@@ -441,19 +441,19 @@ In the 3-month period PDSA cycle 2 measured, the pathway had saved the O&G depar
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^5316dc0d]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^1138BejN]. BMJ Open Quality (2018). Medium credibility.
 
 Hyperemesis gravidarum is a common condition characterised by severe nausea and vomiting. The referral process from the emergency department (ED) to obstetrics and gynaecology (O&G) can lead to treatment delays before the gynaecology team review the patient, resulting in unnecessary prolonged inpatient stays in O&G. This quality improvement project created a clinical pathway which optimised care of patients presenting with hyperemesis gravidarum in the ED at the Princess Royal University Hospital using a treatment protocol. Two audits were carried out to assess improvements in patient care and reduction in admissions to O&G. Overall, admissions to O&G were reduced by 68.7% (cycle 1) and 70.5% (cycle 2) compared with admission rates before the proforma, saving the trust an estimated £265700 and 235 bed days over a year.
 
 ---
 
-### Hyperemesis gravidarum [^82926efd]. Lancet (2025). Excellent credibility.
+### Hyperemesis gravidarum [^114LaaPe]. Lancet (2025). Excellent credibility.
 
 Hyperemesis gravidarum describes nausea and vomiting in pregnancy severe enough to cause weight loss, dehydration, electrolyte imbalance, and nutritional deficiencies. The condition can render women so physically and mentally unwell that they are at increased risk of terminating a wanted pregnancy and experiencing suicidal ideation. Concerns regarding prescribing in pregnancy and inaccurate assumptions that the condition is self-limiting result in women being dismissed and having difficulty accessing appropriate care. Over the past decade, a wealth of literature has been published that gives new insights into the causes of hyperemesis gravidarum, the safety of antiemetic therapy, and short-term and long-term consequences for women with the condition and their children. This Review summarises the findings of this literature with the aim of informing decisions about the care of these women and future research priorities.
 
 ---
 
-### Managing hyperemesis gravidarum: a multimodal challenge [^31195370]. BMC Medicine (2010). Low credibility.
+### Managing hyperemesis gravidarum: a multimodal challenge [^112FnuCT]. BMC Medicine (2010). Low credibility.
 
 Conclusions
 
@@ -461,7 +461,7 @@ Since the causal factors of HG are multifarious, treatment of this condition sho
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^a4be9405]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^115DEyyn]. BMJ Open Quality (2018). Medium credibility.
 
 Background
 
@@ -475,7 +475,7 @@ One should not dismiss the increasing evidence which highlights the psychologica
 
 ---
 
-### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^f265c8cf]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^117CNC7p]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Conclusions
 
@@ -485,7 +485,7 @@ Support and high-quality care are essential for this vulnerable population. Howe
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^4c311765]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^112wxYo6]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 2 EPIDEMIOLOGY
 
@@ -493,13 +493,13 @@ While up to 90% of pregnant people worldwide experience NVP, HG is estimated to 
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^3929d78d]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^112TkMDE]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Hyperemesis gravidarum — hospitalization criteria and outpatient management indicates that when a woman cannot tolerate liquids without vomiting and has not responded to outpatient management, hospitalization for evaluation and treatment of dehydration and electrolyte imbalance is recommended. A randomized controlled trial (RCT) of 98 pregnant women found that outpatient treatment resulted in fewer overnight hospital stays, whereas a subsequent RCT of 53 pregnant women reported no differences in symptoms over 7 days between outpatient rehydration and antiemetic therapy versus inpatient care. The option of hospitalization for observation and further assessment should be preserved for patients who experience a change in vital signs or a change in mental status, continue to lose weight, and are refractory to treatment.
 
 ---
 
-### Managing hyperemesis gravidarum: a multimodal challenge [^bc5e9e56]. BMC Medicine (2010). Low credibility.
+### Managing hyperemesis gravidarum: a multimodal challenge [^115pGTJD]. BMC Medicine (2010). Low credibility.
 
 HG can, in individual cases, be life threatening and treatment must be initiated immediately. Clinical findings include dehydration, acidosis due to inadequate nutrition, alkalosis due to loss of hydrochloride and hypokalaemia. There are two degrees of severity: (i) grade 1, nausea and vomiting without metabolic imbalance; and (ii) grade 2, pronounced feelings of sickness with metabolic imbalance.
 
@@ -507,13 +507,13 @@ In this article the aetiology, diagnosis, clinical presentation and treatment op
 
 ---
 
-### ACG clinical guideline: liver disease and pregnancy [^08c1e683]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: liver disease and pregnancy [^111Dz2jt]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 Hyperemesis gravidarum (HG) — definition, frequency, course, and management: HG is defined by persistent vomiting, associated with loss of 5% or more of pre-pregnancy body weight, dehydration, and ketosis. HG is uncommon (0.3–2% of pregnancies), occurs early in the first trimester, and typically resolves by 20 weeks gestation. In all, 50–60% of hospitalized women with HG will have a mild elevation in aminotransferase levels, although AST and ALT levels more than 20 times the upper limit of normal rarely have been reported. Management of HG is supportive, and given the risk for electrolyte abnormalities and dehydration, hospitalization is not infrequent.
 
 ---
 
-### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^5820faa2]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### What are the costs associated with nausea and vomiting in pregnancy and hyperemesis gravidarum? A systematic review [^113FezHP]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Inclusivity statement
 
@@ -521,7 +521,7 @@ We have chosen to use the word 'woman' to describe the population included in th
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^5bcfb059]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^113M7dkU]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 4.4 Psychological support
 
@@ -533,13 +533,13 @@ Care for individuals with HG ideally is based on a holistic approach with a mult
 
 ---
 
-### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^61e28c49]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^113W7tr4]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Our objective is to identify the subjective efficacy of the various management approaches that are currently in place for nausea and vomiting of pregnancy and hyperemesis gravidarum. The data presented in this research will provide insight into the suffering that patients with these diagnoses face day-to-day.
 
 ---
 
-### Watermelon and dietary advice compared to dietary advice alone following hospitalization for hyperemesis gravidarum: a randomized controlled trial [^c17badd5]. BMC Pregnancy and Childbirth (2023). Medium credibility.
+### Watermelon and dietary advice compared to dietary advice alone following hospitalization for hyperemesis gravidarum: a randomized controlled trial [^115wr9rL]. BMC Pregnancy and Childbirth (2023). Medium credibility.
 
 Methods
 
@@ -553,7 +553,7 @@ Pregnancy-Unique Quantification of Emesis (PUQE-24) score, Simplified Nutritiona
 
 ---
 
-### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^ccf01d6a]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^116Eq8Jd]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Results
 
@@ -592,19 +592,19 @@ Hospital models of care
 
 ---
 
-### Intractable hyperemesis gravidarum in a patient with type 1 diabetes [^a6c82a98]. BMJ Case Reports (2017). Medium credibility.
+### Intractable hyperemesis gravidarum in a patient with type 1 diabetes [^115GGBLT]. BMJ Case Reports (2017). Medium credibility.
 
 Hyperemesis gravidarum is not uncommon. Its pathogenies is multifactorial but not fully understood. We present a case of a middle class, Caucasian pregnant woman aged 24 years with coexisting type 1 diabetes, who had severe hyperemesis gravidarum from the sixth week of pregnancy and was resistant to all standard and off-the-label treatments raising questions about the pathogenesis of hyperemesis gravidarum. She was managed with a multidisciplinary approach and was supported with total parenteral nutrition till she had an emergency caesarean section in the 29th week of pregnancy. Her vomiting stopped as soon as a small for gestational age but otherwise healthy male baby was delivered.
 
 ---
 
-### Improving management of patients with hyperemesis [^f6218d12]. BMJ Quality Improvement Reports (2014). Medium credibility.
+### Improving management of patients with hyperemesis [^117HuDxD]. BMJ Quality Improvement Reports (2014). Medium credibility.
 
 Hyperemesis gravidarum (HG), defined as severe nausea and vomiting resulting in dehydration, is a common reason for emergency admission in gynaecology (1). The management of HG is supportive, including the correction of dehydration and electrolyte disturbances and use of antiemetics. An audit in our unit identified that women with HG were not receiving appropriate fluid resuscitation and in particular inadequate potassium replacement. A proforma was developed by a multidiscplinary team to prompt appropriate investigations, medications, and fluid resuscitation. The proforma was introduced in paper format and electronically, accompanied by an education programme for junior doctors. This intervention has improved prescribing practice and fluid resuscitation for these patients. Length of admission has reduced. Efforts have been made to ensure this change is sustainable in the long term, through involvement of the junior doctors using the proforma at all stages of the project.
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^e0acd242]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^116k6GxR]. BMJ Open Quality (2018). Medium credibility.
 
 Results
 
@@ -621,13 +621,13 @@ The measured average length of stay prior to introduction of this pathway was ab
 
 ---
 
-### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^326c1ad0]. Hepatology (2021). High credibility.
+### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^112Hkh99]. Hepatology (2021). High credibility.
 
 Hyperemesis gravidarum — epidemiology, clinical features, laboratory patterns, and management: Hyperemesis gravidarum occurs in 0.35% to 2.0% of pregnancies, typically in the first trimester, and is characterized by persistent vomiting with weight loss greater than or equal to 5% of prepregnancy body weight, dehydration, and ketonuria. Abnormal liver enzymes occur in approximately 50% and are rarely greater than 1,000 IU/mL; in general, ALT is greater than aspartate aminotransferase (AST), and jaundice rarely occurs. Biochemical abnormalities typically resolve with hydration and resolution of vomiting, and liver biopsy is rarely indicated but, when performed, reveals normal parenchyma, mild fatty change, or bland cholestasis. Treatment includes rehydration, correction of electrolyte abnormalities, nutrition, thiamine supplementation to prevent Wernicke's encephalopathy, and anti-emetic therapy; anti-emetic agents with favorable pregnancy safety include ondansetron.
 
 ---
 
-### A randomized, placebo-controlled trial of corticosteroids for hyperemesis due to pregnancy [^a2e743f9]. Obstetrics and Gynecology (2003). Low credibility.
+### A randomized, placebo-controlled trial of corticosteroids for hyperemesis due to pregnancy [^115AWg4x]. Obstetrics and Gynecology (2003). Low credibility.
 
 Objective
 
@@ -647,7 +647,7 @@ The addition of parenteral and oral corticosteroids to the treatment of women wi
 
 ---
 
-### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^72242d3b]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### A scoping review of models of care and services for nausea and vomiting in pregnancy and hyperemesis gravidarum [^113vDjuU]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Methods
 
@@ -667,13 +667,13 @@ Reference lists of included articles were hand searched, and experts were consul
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^c8b8ab09]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^1168aYzC]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Hyperemesis gravidarum — clinical considerations — are framed within a continuum of nausea and vomiting of pregnancy; in many studies patients with hyperemesis gravidarum are grouped with other degrees of nausea and vomiting of pregnancy, and because it is likely part of the continuum, the following discussion focuses on treatment for all stages of this condition.
 
 ---
 
-### Effectiveness of treatment options for hyperemesis gravidarum… [^249e0131]. AAFP (2025). Medium credibility.
+### Effectiveness of treatment options for hyperemesis gravidarum… [^111wHdKn]. AAFP (2025). Medium credibility.
 
 Background: Hyperemesis gravidarum, a severe form of nausea and vomiting during pregnancy, may cause maternal electrolyte disturbances; weight loss; dehydration; and, sometimes, the need for iatrogenic premature birth. The disorder commonly persists throughout pregnancy, possibly leading to prolonged or repeated hospitalizations. In addition to the patient avoiding trigger foods and eating small meals, treatment may involve antiemetic medications, intravenous fluid and electrolyte replacement, and, possibly, supplemental nutrition. Peripherally inserted central catheters are sometimes used to facilitate prolonged parenteral nutrition and intravenous fluid replacement. Dobbhof feeding tubes have also been shown to be beneficial in patients with hyperemesis gravidarum. Holmgren and colleagues compared maternal and neonatal outcomes after treatment with antiemetic medications alone or with the medications plus a nasogastric/nasoduodenal feeding tube or PICC.
 
@@ -681,19 +681,19 @@ Of the remaining 94 patients, 33 received a PICC, 19 received a nasogastric/naso
 
 ---
 
-### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^5e3e6432]. Hepatology (2021). High credibility.
+### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^113QinyP]. Hepatology (2021). High credibility.
 
 Hyperemesis gravidarum — guidance statements: Treatment of hyperemesis gravidarum is supportive with rehydration, correction of electrolyte abnormalities, thiamine supplementation, and anti-emetic therapy. Liver chemistry abnormalities typically resolve with hydration and resolution of vomiting, and persistent liver chemistry abnormalities, despite symptom resolution, should prompt investigation for another etiology.
 
 ---
 
-### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^7c7c719f]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^114BZGJi]. Gastroenterology (2024). High credibility.
 
 Hyperemesis gravidarum (HG) — management includes supportive care and defined vitamin and steroid protocols. Elevated levels of liver enzymes can be seen in 40%–50% of patients with HG. Thiamine therapy should be started at a dose of 100 mg daily for a minimum of 7 days, followed by a maintenance dose of 50 mg daily until adequate oral intake is established. For refractory severe HG, methylprednisolone can be given as a last resort, using 16 mg intravenous (IV) every 8 hours for up to 3 days, followed by tapering over 2 weeks and limiting the maximum duration to 6 weeks; because its administration in the first trimester has been reported to slightly increase the risk of cleft palate when given before 10 weeks of gestation, it should be administered with caution in the first trimester. Patients with severe symptoms may need hospitalization for IV hydration and replacement of electrolytes, vitamins, and nutrients; if weight loss and symptoms persist, enteral or parenteral nutrition may be required.
 
 ---
 
-### Central mechanisms of emesis: a role for GDF15 [^1f7fbe30]. Neurogastroenterology and Motility (2025). Medium credibility.
+### Central mechanisms of emesis: a role for GDF15 [^111ohXNP]. Neurogastroenterology and Motility (2025). Medium credibility.
 
 6 | HYPEREMESIS GRAVIDARUM AND GDF15: A SIGNIFICANT BREAKTHROUGH IN MECHANISTIC INSIGHT
 
@@ -701,7 +701,7 @@ Nausea and vomiting during pregnancy (NVP) affects ~70% of women with often debi
 
 ---
 
-### Pulsed steroid therapy is an effective treatment for intractable hyperemesis gravidarum [^4087ae47]. Critical Care Medicine (2006). Low credibility.
+### Pulsed steroid therapy is an effective treatment for intractable hyperemesis gravidarum [^112efnJz]. Critical Care Medicine (2006). Low credibility.
 
 Objective
 
@@ -733,13 +733,13 @@ A short course of hydrocortisone is an effective treatment for intractable hyper
 
 ---
 
-### ACG clinical guideline: liver disease and pregnancy [^e300fe4b]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: liver disease and pregnancy [^116oYXKg]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 ACG Clinical Guideline — liver disease unique to pregnancy states that the treatment of hyperemesis gravidarum is supportive and may require hospitalization (strong recommendation, very low level of evidence).
 
 ---
 
-### Reorganising and improving quality of care for hyperemesis gravidarum in a Danish hospital: a quality improvement project [^4a0f44cc]. BMJ Open Quality (2023). High credibility.
+### Reorganising and improving quality of care for hyperemesis gravidarum in a Danish hospital: a quality improvement project [^112toDK9]. BMJ Open Quality (2023). High credibility.
 
 At the local Danish hospital, Nordsjællands Hospital, treatment for HG was administered by midwives in the obstetric department. Care was consistently provided according to local and national guidelines, and patients often expressed satisfaction with treatment. However, patient satisfaction had never been systematically investigated.
 
@@ -747,19 +747,19 @@ In this quality improvement project, we initially aimed to investigate and possi
 
 ---
 
-### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^33fe0da1]. Hepatology (2021). High credibility.
+### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^112L5hjE]. Hepatology (2021). High credibility.
 
 Hyperemesis gravidarum — corticosteroid use and outcomes: Oral prednisolone therapy has no proven benefit; data for intravenous corticosteroids are conflicting but can be considered for severe disease. If treated early, hyperemesis gravidarum is not usually associated with any major adverse maternal or fetal outcomes; low birth weight and premature delivery have been associated, although long-term health effects are unknown. Recurrence is high with subsequent pregnancies, although there is no association with chronic liver disease.
 
 ---
 
-### Secular trends in the treatment of hyperemesis gravidarum [^5a65de2a]. American Journal of Perinatology (2008). Low credibility.
+### Secular trends in the treatment of hyperemesis gravidarum [^113K26uf]. American Journal of Perinatology (2008). Low credibility.
 
 The purpose of this study was to describe the treatment of women with hyperemesis gravidarum (HG). Women with HG pregnancies of at least 27 weeks duration occurring between 1985 and 2004 described their treatment on an HG website from 2003 to 2005. The usage and effectiveness of > 20 treatment options were reported by 765 women for 1193 pregnancies. The women who used intravenous (IV) hydration, serotonin inhibitors, and parenteral nutrition (PN) reported the highest rates of effectiveness, with 84%, 83%, and 79% reporting that these respective treatments may have contributed to decreased nausea/vomiting. The use of conventional treatments increased from 20 to 30% to > 60% between 1985 and 1989 and 2000 and 2004; serotonin inhibitor use increased to 55% after its introduction in the 1990s. Over the past 20 years, multiple treatments have been used for women with HG, with a trend toward treatment with reportedly more effective modalities, such as IV hydration and serotonin inhibitors.
 
 ---
 
-### Systematic druggable genome-wide mendelian randomization identifies therapeutic targets for hyperemesis gravidarum [^ed7e1537]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Systematic druggable genome-wide mendelian randomization identifies therapeutic targets for hyperemesis gravidarum [^11756R5g]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Introduction
 
@@ -771,19 +771,19 @@ Mendelian randomization (MR) is a method using genetic variations as unconfounde
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^775b843f]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^1143xGRU]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Hyperemesis gravidarum — fetal effects — are influenced by severity; with mild or moderate vomiting there is little apparent effect on pregnancy outcome, studies have documented a lower rate of miscarriage compared with controls, no significant association with congenital anomalies has been demonstrated, and findings for low birth weight (LBW) are mixed with some studies showing no increase and a systematic review and meta-analysis showing higher incidence of LBW, small-for-gestational-age, and premature infants; no association with perinatal or neonatal mortality has been demonstrated in large retrospective cohorts, and it is appropriate to reassure patients that these conditions most often portend well for pregnancy outcome.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^3b7ef0d1]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^112XCuda]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Hyperemesis gravidarum — corticosteroids and dosing guidance: A randomized trial comparing methylprednisolone versus promethazine showed equal improvement but readmission within 2 weeks was significantly less with steroids; a later RCT found no reduction in rehospitalization, and a systematic review found reduced rehospitalization but no difference in hospital admission days. Three studies confirmed an association between oral clefts and first‑trimester methylprednisolone; the teratogenic effect is weak, probably accounting for no more than one or two cases per 1,000 treated women. Corticosteroid use for hyperemesis gravidarum should be used with caution and avoided as a first-line agent before 10 weeks of gestation. The most commonly described regimen is methylprednisolone, 48 mg daily for 3 days, given orally or intravenously; patients who do not respond within 3 days are not likely to respond and treatment should be stopped, while responders may taper over 2 weeks, and for recurrent vomiting the tapered dose may be stopped with continuation of the effective dose for up to 6 weeks. To limit serious maternal adverse effects, corticosteroids should not be continued beyond this period; methylprednisolone may be efficacious in refractory cases, but the risk profile suggests it should be a last-resort treatment.
 
 ---
 
-### Wernicke encephalopathy in pregnancy associated with hyperemesis gravidarum: a case report [^35d85240]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Wernicke encephalopathy in pregnancy associated with hyperemesis gravidarum: a case report [^112Nq1DR]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Before considering termination of pregnancy, all possible therapeutic measures should be explored to ensure optimal management of severe NVP and HG. This includes the use of corticosteroids in treatment-resistant cases, as recommended by clinical guidelines, given their potential efficacy when other options have failed.
 
@@ -797,7 +797,7 @@ Midwives and obstetricians are often the first to detect signs of excessive vomi
 
 ---
 
-### Optimisation of hyperemesis gravidarum management through an emergency department setting [^79a5988c]. BMJ Open Quality (2018). Medium credibility.
+### Optimisation of hyperemesis gravidarum management through an emergency department setting [^1147M8Af]. BMJ Open Quality (2018). Medium credibility.
 
 Limitations
 
@@ -807,25 +807,25 @@ A second limitation would be that we were unable to comment on the care that the
 
 ---
 
-### ACG clinical guideline: liver disease and pregnancy [^d36f5a3c]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: liver disease and pregnancy [^116QTnnP]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 Liver diseases unique to pregnancy — For hyperemesis gravidarum (HG), the treatment is supportive and may require hospitalization (strong recommendation, very low level of evidence). For intrahepatic cholestasis of pregnancy (IHCP), early delivery after 37 weeks is recommended (strong recommendation, very low level of evidence), and ursodeoxycholic acid (UDCA) should be given at 10–15 mg/kg to women with IHCP for symptomatic improvement (strong recommendation, moderate level of evidence). Preeclampsia with hepatic involvement elevates the diagnosis to severe preeclampsia, and after 36 weeks, women with severe preeclampsia should be delivered promptly to limit maternal and fetal complications (strong recommendation, very low level of evidence). Hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome should be managed by prompt delivery, especially after 34 weeks gestation (strong recommendation, very low level of evidence). Platelet transfusion to 40,000–50,000 cells/μl should be considered before delivery, especially if cesarean section is likely (conditional recommendation, very low level of evidence). Women with acute fatty liver disease of pregnancy (AFLP) should be delivered promptly; expectant management is not appropriate (strong recommendation, very low level of evidence). All women with AFLP and their children should have molecular testing for long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD; conditional recommendation, moderate level of evidence), and the offspring of mothers affected by AFLP should be monitored carefully for manifestations of deficiency of LCHAD including hypoketotic hypoglycemia and fatty liver (conditional recommendation, very low level of evidence).
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^70e46ab0]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^113tNLUo]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin — Nausea and vomiting of pregnancy definition, incidence, severity assessment, and hyperemesis gravidarum: Nausea and vomiting of pregnancy is common with "prevalence rates for nausea of 50–80% and for vomiting and retching of 50%", and "recurrence of nausea and vomiting of pregnancy with subsequent pregnancies ranges from 15–81%". Severity has been categorized by daily duration and frequency, assessing "the duration of nausea and vomiting each day (from less than 1 hour in mild cases to more than 6 hours in severe cases)" and "the amount of vomiting and retching per day (up to two times for mild and moderate nausea and vomiting of pregnancy and more than five times in severe cases)". A validated "pregnancy-unique quantification of emesis and nausea (PUQE) assesses the severity of nausea and vomiting of pregnancy during the first trimester", and "scores from the PUQE index are associated with quality of life measurements", supporting clinical utility. Regarding timing of care, "Early treatment of nausea and vomiting of pregnancy may be beneficial to prevent progression to hyperemesis gravidarum". For hyperemesis gravidarum, "No single accepted definition of hyperemesis gravidarum exists", it "is a clinical diagnosis of exclusion", and commonly cited criteria include "persistent vomiting", "usually large ketonuria", and weight loss "most often at least 5% of prepregnancy weight"; epidemiologically, it "appears to represent the extreme end of the spectrum of nausea and vomiting of pregnancy".
 
 ---
 
-### ACG clinical guideline: liver disease and pregnancy [^971be4d1]. The American Journal of Gastroenterology (2016). Medium credibility.
+### ACG clinical guideline: liver disease and pregnancy [^114s2VyA]. The American Journal of Gastroenterology (2016). Medium credibility.
 
 Liver diseases unique to pregnancy — management and timing are summarized as follows: Hyperemesis gravidarum (HG) is listed for "First through 20 weeks" with "Supportive management". Intrahepatic cholestasis of pregnancy (IHCP) in the "Second/third" trimester lists "Ursodeoxycholic acid 10–15mg/kg" and "Early delivery at 37 weeks". Acute fatty liver of pregnancy (AFLP) in the "Third" trimester states "Women with AFLP should be delivered promptly" and that the "Infant should be monitored for manifestations of deficiency of long-chain 3-hydroxyacyl-coenzyme A dehydrogenase including hypoketotic hypoglycemia and fatty liver". For eclampsia/preeclampsia "After 20 weeks", "After 36 weeks, women with severe preeclampsia should be delivered promptly". For HELLP "After 22 weeks", "Delivery after 34 weeks" is listed and "Platelet transfusion to 40,000–50,000 cells/μl should be considered before delivery, especially if cesarean section is likely".
 
 ---
 
-### Placenta-associated adverse pregnancy outcomes in women experiencing mild or severe hyperemesis gravidarum-a systematic review and meta-analysis [^a070be0b]. BMC Pregnancy and Childbirth (2023). Medium credibility.
+### Placenta-associated adverse pregnancy outcomes in women experiencing mild or severe hyperemesis gravidarum-a systematic review and meta-analysis [^1156rtVG]. BMC Pregnancy and Childbirth (2023). Medium credibility.
 
 Conclusion
 
@@ -833,19 +833,19 @@ The evidence of this research, although uncertain, suggests that women with HG m
 
 ---
 
-### Hyperemesis gravidarum… [^6fddc1cf]. JAMA Network (2025). Excellent credibility.
+### Hyperemesis gravidarum… [^113rr7TU]. JAMA Network (2025). Excellent credibility.
 
 By this term is usually meant that aggravated uncontrollable form of vomiting of pregnancy which resists local as well as constitutional treatment, and which so reduces the patient's vitality that it very seriously endangers her life. Occasionally, deaths directly due to this cause have been reported, so that a very serious and difficult problem confronts the physician who has charge of such a case. A large number of these patients abort as the result of the irritation of the uterus caused by the violent fits of retching and vomiting; this relieves by removing the source of the irritation. The lives of a number of these patients may be maintained for a time by rectal alimentation, but, unfortunately, by many this mode of feeding is not borne very well, especially if it must be kept up for a long time. Realizing, however, that the vomiting of pregnancy usually abates toward the ROSEWATER C. HYPEREMESIS GRAVIDARUM. JAMA. 1906; XLVI: 101–103.
 
 ---
 
-### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^34b13027]. Hepatology (2021). High credibility.
+### Reproductive health and liver disease: practice guidance by the American Association for the Study of Liver Diseases [^112M7sZG]. Hepatology (2021). High credibility.
 
 Hyperemesis gravidarum — clinical features and evaluation: Typically presents in the first trimester (rarely second/third) with vomiting and weight loss ≥ 5% of prepregnancy body weight with dehydration. Laboratory abnormalities include abnormal AST and ALT in ~50% but values are rarely > 1,000 U/L and they typically improve with hydration. Diagnosis is clinical, and upper endoscopy is rarely indicated.
 
 ---
 
-### Effect of gabapentin on hyperemesis gravidarum: a double-blind, randomized controlled trial [^7d2fc3ff]. American Journal of Obstetrics & Gynecology MFM (2021). Medium credibility.
+### Effect of gabapentin on hyperemesis gravidarum: a double-blind, randomized controlled trial [^114CbVmx]. American Journal of Obstetrics & Gynecology MFM (2021). Medium credibility.
 
 Background
 
@@ -869,19 +869,19 @@ In this small trial, gabapentin was more effective than standard-of-care therapy
 
 ---
 
-### ECG changes in hyperemesis gravidarum [^d6056f84]. BMJ Case Reports (2017). Medium credibility.
+### ECG changes in hyperemesis gravidarum [^116UJBCf]. BMJ Case Reports (2017). Medium credibility.
 
 This is a case report of a 30-year-old patient presenting at advanced gestation with hyperemesis, who developed a prolonged QT interval secondary to electrolyte imbalance during recovery. This potentially fatal complication should be considered in all patients with hyperemesis gravidarum, especially after a prolonged period of starvation. We hope to highlight the importance of ECG monitoring and careful prescribing in such cases, something that is not considered in current guidelines.
 
 ---
 
-### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^c24515ae]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^115y1oYq]. Gastroenterology (2024). High credibility.
 
 Hyperemesis gravidarum (HG) — clinical thresholds, prevalence, and course are summarized: HG can lead to dehydration, weight loss of > 5% of prepregnancy weight, and electrolyte imbalances. It can affect 0.3%–2% of pregnant persons and usually starts before 22 weeks of gestation. By week 16, symptoms resolve in > 50% of affected persons and by 20 weeks, 80% improve; however, in 10%, symptoms persist throughout pregnancy and occasionally into the postpartum period. In a meta-analysis, HG was associated with a higher female to male ratio of offspring and a higher frequency of low birth weight, small for gestational age, and preterm delivery, and higher growth or differentiation factor-15 levels in maternal blood were found to be associated with vomiting in pregnancy and HG.
 
 ---
 
-### Nausea and vomiting in early pregnancy [^823c09d4]. BMJ Clinical Evidence (2007). Medium credibility.
+### Nausea and vomiting in early pregnancy [^114L5ZH5]. BMJ Clinical Evidence (2007). Medium credibility.
 
 Introduction
 
@@ -901,7 +901,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Managing hepatic complications of pregnancy: practical strategies for clinicians [^ce3de7db]. BMJ Open Gastroenterology (2022). High credibility.
+### Managing hepatic complications of pregnancy: practical strategies for clinicians [^116GmF5C]. BMJ Open Gastroenterology (2022). High credibility.
 
 Key points
 
@@ -915,7 +915,7 @@ In the majority of cases, pregnancy-specific liver diseases have no long-term im
 
 ---
 
-### Placenta-associated adverse pregnancy outcomes in women experiencing mild or severe hyperemesis gravidarum-a systematic review and meta-analysis [^a032d051]. BMC Pregnancy and Childbirth (2023). Medium credibility.
+### Placenta-associated adverse pregnancy outcomes in women experiencing mild or severe hyperemesis gravidarum-a systematic review and meta-analysis [^1156W62C]. BMC Pregnancy and Childbirth (2023). Medium credibility.
 
 Data analysis
 
@@ -923,7 +923,7 @@ Data was entered into RevMan, and OR with 95% confidence intervals (CI) were cal
 
 ---
 
-### Nausea and vomiting in early pregnancy [^99a673b2]. BMJ Clinical Evidence (2014). Medium credibility.
+### Nausea and vomiting in early pregnancy [^114vo1ry]. BMJ Clinical Evidence (2014). Medium credibility.
 
 Introduction
 
@@ -943,7 +943,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Nausea and vomiting in early pregnancy [^b92b869d]. BMJ Clinical Evidence (2009). Medium credibility.
+### Nausea and vomiting in early pregnancy [^115jXL5z]. BMJ Clinical Evidence (2009). Medium credibility.
 
 Introduction
 
@@ -963,7 +963,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Hyperemesis gravidarum and fetal outcome [^8bbe454a]. JPEN: Journal of Parenteral and Enteral Nutrition (2005). Low credibility.
+### Hyperemesis gravidarum and fetal outcome [^114aBBwf]. JPEN: Journal of Parenteral and Enteral Nutrition (2005). Low credibility.
 
 Background
 
@@ -983,13 +983,13 @@ Infants born of women who had HG are more likely to experience decreased gestati
 
 ---
 
-### 2017 guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum [^0478e599]. Thyroid (2017). Medium credibility.
+### 2017 guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum [^1117dZPW]. Thyroid (2017). Medium credibility.
 
 Regarding medical management for thyroid disease in pregnancy, more specifically with respect to management of gestational transient thyrotoxicosis, ATA 2017 guidelines recommend to offer supportive therapy, manage dehydration, and consider hospitalization for patients with abnormal maternal thyroid tests due to gestational transient thyrotoxicosis and/or hyperemesis gravidarum. Do not use antithyroid drugs. Consider administering β-blockers.
 
 ---
 
-### Hyperemesis gravidarium: epidemiologic findings from a large cohort [^7b12b3fe]. American Journal of Obstetrics and Gynecology (2005). Low credibility.
+### Hyperemesis gravidarium: epidemiologic findings from a large cohort [^1149Tm2d]. American Journal of Obstetrics and Gynecology (2005). Low credibility.
 
 Objective
 
@@ -1009,7 +1009,7 @@ Hyperemesis occurs in 473 of 100,000 live births and is associated with signific
 
 ---
 
-### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^b6a1d5a4]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Assessment of management approaches for hyperemesis gravidarum and nausea and vomiting of pregnancy: a retrospective questionnaire analysis [^115fm75d]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Methods
 
@@ -1029,13 +1029,13 @@ All data in the dataset was coded as categorical and was therefore analyzed usin
 
 ---
 
-### Percutaneous endoscopic gastrostomy with a jejunal port for severe hyperemesis gravidarum [^073ac453]. European Journal of Gastroenterology & Hepatology (2004). Low credibility.
+### Percutaneous endoscopic gastrostomy with a jejunal port for severe hyperemesis gravidarum [^111Bieqx]. European Journal of Gastroenterology & Hepatology (2004). Low credibility.
 
 Hyperemesis gravidarum affects up to 2% of pregnancies and is characterized by severe nausea and vomiting persisting beyond the 14th week of gestation with weight loss, dehydration, electrolyte imbalance and ketonuria. We present the case of a woman with severe, refractory hyperemesis gravidarum in whom treatment with a percutaneous endoscopic gastrostomy with a jejunal extension allowed improvement of symptoms, reversal of maternal weight loss and the delivery of a healthy infant. Review of the literature reveals only one other paper describing this treatment. In all three cases successful outcomes for both mothers and children are described. We propose that percutaneous endoscopic gastrostomy with a jejunal extension is a safe, effective and relatively cheap intervention for severe, refractory hyperemesis gravidarum.
 
 ---
 
-### Hyperemesis gravidarum and placental dysfunction disorders [^5d9d7c74]. BMC Pregnancy and Childbirth (2016). Low credibility.
+### Hyperemesis gravidarum and placental dysfunction disorders [^113PnkHZ]. BMC Pregnancy and Childbirth (2016). Low credibility.
 
 Conclusions
 
@@ -1043,19 +1043,19 @@ Hyperemesis gravidarum is an invalidating disease in early pregnancy, associated
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^511ba283]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^1135FHCN]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Hyperemesis gravidarum — risk factors — includes increased placental mass (eg, advanced molar gestation or multiple gestation), with other risk factors including a history of motion sickness, migraine headaches, a family history (genetics), or a history of hyperemesis gravidarum in a previous pregnancy; recurrence tendencies are noted with approximately two thirds reporting similar severe symptoms in the next pregnancy and one half with prior mild symptoms reporting worsening in the next, and familial tendency extends to daughters and sisters and to women carrying female fetuses.
 
 ---
 
-### Visual loss and encephalopathy in a pregnant patient with hyperemesis gravidarum [^94f30b3b]. BMJ Case Reports (2024). High credibility.
+### Visual loss and encephalopathy in a pregnant patient with hyperemesis gravidarum [^114opoar]. BMJ Case Reports (2024). High credibility.
 
 A pregnant woman in her 20s at 17 weeks of gestation, presented with symptoms of painless diminution of vision preceded by 8 weeks history of hyperemesis gravidarum. On examination, she was confused, disoriented and had gait ataxia with complete loss of vision in both eyes. Fundus examination revealed grade 4 disc oedema with superficial retinal haemorrhages. Possibilities kept were cerebral venous sinus thrombosis, neuromyelitis optica spectrum disorder, posterior reversible encephalopathy syndrome and Wernicke's encephalopathy (WE). Thiamine levels were low. MRI brain with MR venography revealed symmetrical areas of hyperintensities in bilateral medial thalami, hypothalamus, mammillary body and area postrema. She was managed as a case of WE with intravenous thiamine with complete clinical and radiological resolution within 2 weeks of treatment. Therefore, we conclude that a high index of suspicion of WE in appropriate clinical settings leading to early treatment can potentially reverse its grave clinical symptoms and complications.
 
 ---
 
-### Hyperemesis in pregnancy: an evaluation of treatment strategies with maternal and neonatal outcomes [^c1ed4f01]. American Journal of Obstetrics and Gynecology (2008). Low credibility.
+### Hyperemesis in pregnancy: an evaluation of treatment strategies with maternal and neonatal outcomes [^115xWKXv]. American Journal of Obstetrics and Gynecology (2008). Low credibility.
 
 Objective
 
@@ -1075,7 +1075,7 @@ Maternal complications associated with PICC line placement are substantial despi
 
 ---
 
-### Pregnancy outcomes by hyperemesis gravidarum severity and time of diagnosis: a retrospective cohort study [^1b2b4937]. International Journal of Gynaecology and Obstetrics (2024). Medium credibility.
+### Pregnancy outcomes by hyperemesis gravidarum severity and time of diagnosis: a retrospective cohort study [^111hHCtW]. International Journal of Gynaecology and Obstetrics (2024). Medium credibility.
 
 Objective
 
@@ -1095,13 +1095,13 @@ Hyperemesis gravidarum is associated with an increased risk for adverse pregnanc
 
 ---
 
-### Ondansetron use in pregnancy [^50469662]. Obstetrics and Gynecology (2016). Low credibility.
+### Ondansetron use in pregnancy [^11341ihX]. Obstetrics and Gynecology (2016). Low credibility.
 
 The American College of Obstetricians and Gynecologists recommends early treatment of nausea and vomiting of pregnancy to stop progression to hyperemesis gravidarum. Nausea and vomiting and hyperemesis gravidarum typically occur during the first trimester, the sensitive time for exposure to teratogens because organogenesis is occurring in the embryo. An efficacious treatment used widely across the United States for both nausea and vomiting of pregnancy and hyperemesis gravidarum is ondansetron. Recent studies have provided conflicting findings on the safety of ondansetron during pregnancy. There are numerous limitations in the current literature on ondansetron safety including exposure to the medication is not limited to sensitive windows of organogenesis, there is a lack of information on dosing and compliance, self-reports of exposure are commonly used, an inadequate accounting exists for other factors that may explain the relationship between ondansetron exposure and the adverse outcome, and there exists a lack of biologic plausibility by which ondansetron might cause harm. It is the authors' opinion that current data do not support a reluctance to treat women with ondansetron in clinical practice.
 
 ---
 
-### Which drug is more effective for treating hyperemesis… [^176858da]. AAFP (2011). Low credibility.
+### Which drug is more effective for treating hyperemesis… [^111bhmKw]. AAFP (2011). Low credibility.
 
 Background: Hyperemesis gravidarum is a severe form of nausea and vomiting during pregnancy that can cause dehydration, electrolyte abnormalities, and weight loss. It affects 0. 3 to
 2. 3 percent of all pregnancies. Less severe forms of nausea and vomiting affect up to 85 percent of all pregnancies. Treatment for hyperemesis gravidarum may require hospitalization, and includes intravenous rehydration, antiemetic medications, and psychosocial support. The American College of Obstetricians and Gynecologists recommends intravenous dimenhydrinate, metoclopramide, and promethazine as first-line medications. Previous studies have evaluated promethazine, ondansetron, corticosteroids, metoclopramide, and diphenhydramine, but no trial has directly compared metoclopramide and promethazine. Tan and colleagues assessed the effectiveness and adverse effect profiles of these drugs as treatment for hyperemesis gravidarum.
@@ -1112,13 +1112,13 @@ Limitations of the study include the possibility that intravenous rehydration th
 
 ---
 
-### Wernicke encephalopathy in pregnancy associated with hyperemesis gravidarum: a case report [^e79c8545]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Wernicke encephalopathy in pregnancy associated with hyperemesis gravidarum: a case report [^116vNiN8]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Currently, there are no universally accepted guidelines specifying exact blood thiamine levels that should trigger therapeutic intervention. Given this, clinical decision-making should prioritize early recognition of symptoms and implementation of preventative strategies, rather than relying solely on laboratory-confirmed deficiency. Reference values may vary between laboratories, and the interpretation of results should take into account the patient's clinical status and symptoms suggestive of thiamine deficiency. In cases where thiamine deficiency is suspected, such as in hyperemesis gravidarum, chronic malnutrition, prolonged parenteral nutrition, or alcohol use disorder, early administration of high-dose thiamine is recommended, even before laboratory confirmation. While thiamine deficiency is typically defined as a blood thiamine level below 28 µg/L (2.1 nmol/L), a severe deficiency requiring urgent intervention is generally considered when levels fall below 7 µg/L (0.5 nmol/L). However, the presence of neurological symptoms consistent with WE (ophthalmoplegia, ataxia, confusion) should prompt immediate administration of 500 mg IV (intravenous) thiamine every 8 h for 3 days, followed by 250 mg IV daily for 5 additional days, in accordance with recent clinical guidelines. The presence of neurological symptoms is emphasized in the diagnostic criteria for Wernicke encephalopathy, as decreased thiamine levels alone is insufficient to establish the diagnosis. Given the potentially irreversible neurological damage associated with thiamine deficiency, particularly in high-risk populations, preventive supplementation (oral 100 mg tds or intravenous as part of vitamin B complex) should be considered in individuals with prolonged vomiting, severe malnutrition, or other conditions predisposing to tiamine depletion. Although there are recommendations for the treatment of Wernicke encephalopathy, they are not specifically tailored to pregnant women. Existing guidelines for pregnant women in the context of hyperemesis gravidarum (HG) mainly focus on the prevention of WE. There are some case reports of WE in pregnancy with various doses of thiamine administered (ranging from 100 to 500 mg a day orally or intravenously).
 
 ---
 
-### Outcomes of pregnancies complicated by hyperemesis gravidarum [^66c844c2]. Obstetrics and Gynecology (2006). Low credibility.
+### Outcomes of pregnancies complicated by hyperemesis gravidarum [^113dP1Hs]. Obstetrics and Gynecology (2006). Low credibility.
 
 Objective
 
@@ -1142,7 +1142,7 @@ II-2.
 
 ---
 
-### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^6b01fb77]. BMC Pregnancy and Childbirth (2022). Medium credibility.
+### Antiemetic treatment of hyperemesis gravidarum in 1, 064 Norwegian women and the impact of European warning on metoclopramide: a retrospective cohort study 2002–2019 [^113jeLmk]. BMC Pregnancy and Childbirth (2022). Medium credibility.
 
 Background
 
@@ -1162,13 +1162,13 @@ During 2002–2019, the overall use of antiemetics in treatment of hyperemesis i
 
 ---
 
-### The impact and management of hyperemesis gravidarum: current and future perspectives [^b55cb80f]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The impact and management of hyperemesis gravidarum: current and future perspectives [^115dsuKU]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 People with HG have insufficient nutritional intake. Dietetic consultation may be helpful in expanding food choices, prescribing oral nutritional support, monitoring nutritional deficiencies, and optimizing intake. If rehydration therapy and antiemetics do not reduce nausea and vomiting to normalize nutritional intake, parenteral or enteral nutrition supplementation should be considered. Results on the efficacy of tube feeding vary, with the result that there are no defined criteria for starting parenteral or enteral tube feeding. A retrospective cohort in Norway found that enteral nutrition provided for patients with insufficient rehydration and partial parenteral supplementation was associated with adequate maternal and favorable pregnancy outcomes. Contrarily, a trial investigating tube feeding started on the first day of admission in addition to standard care did not find an improvement in birth weight or secondary outcomes. Both the RCOG and American College of Obstetricians and Gynecologists recommend enteral tube feeding to provide nutritional support in those with HG who do not respond to antiemetic therapy. Parenteral nutrition may be applicable to individuals with a long course of HG and significant weight loss, but should only be used as a last resort in those in whom enteral tube feeding is not possible due to the associated risk of complications.
 
 ---
 
-### Managing hyperemesis gravidarum: a multimodal challenge [^93e1cfb5]. BMC Medicine (2010). Low credibility.
+### Managing hyperemesis gravidarum: a multimodal challenge [^114nF2ax]. BMC Medicine (2010). Low credibility.
 
 Medication
 
@@ -1189,7 +1189,7 @@ Interestingly, diazepam also has positive effects on HG, probably due to its sed
 
 ---
 
-### Differential diagnosis and… [^5a89e833]. AAFP (2003). Low credibility.
+### Differential diagnosis and… [^113KED1U]. AAFP (2003). Low credibility.
 
 Hyperemesis gravidarum, a severe form of nausea and vomiting, affects one in 200 pregnant women. 4 Although the definition of this condition has not been standardized, accepted clinical features include persistent vomiting, dehydration, ketosis, electrolyte disturbances, and weight loss. Multiple gestation, gestational trophoblastic disease, triploidy, trisomy 21 syndrome, and hydrops fetalis have been associated with an increased incidence of hyperemesis gravidarum.
 5. Many reports have suggested that hormones may cause nausea and vomiting of pregnancy and hyperemesis gravidarum. In one comparative study. A recent study 10 suggested that chronic infection with Helicobacter pylori may play a role in hyperemesis gravidarum. In this study, 61. 8 percent of pregnant women with hyper-emesis were found to be positive for the H. pylori genome, compared with 27. 6 percent of pregnant women without hyperemesis.
@@ -1201,7 +1201,7 @@ Of note, these and other authors have found that almost all women with hyperemes
 
 ---
 
-### A case of osmotic demyelination syndrome occurred after the correction of severe hyponatraemia in hyperemesis gravidarum [^604a99bc]. BMC Endocrine Disorders (2014). Low credibility.
+### A case of osmotic demyelination syndrome occurred after the correction of severe hyponatraemia in hyperemesis gravidarum [^113TksPZ]. BMC Endocrine Disorders (2014). Low credibility.
 
 Conclusions
 
@@ -1209,19 +1209,19 @@ We reported here a case of ODS occurred in a pregnant woman with hyperemesis gra
 
 ---
 
-### Nausea and vomiting of pregnancy [^d7df50b1]. Gastroenterology Clinics of North America (2011). Low credibility.
+### Nausea and vomiting of pregnancy [^116X3M7v]. Gastroenterology Clinics of North America (2011). Low credibility.
 
 Nausea and vomiting are common experiences in pregnancy, affecting 70% to 80% of all pregnant women. Various metabolic and neuromuscular factors have been implicated in the pathogenesis of nausea and vomiting of pregnancy (NVP) and hyperemesis gravidarum (HG), an entity distinct from NVP. However, their exact cause is unknown. Consequently, treatment of NVP and HG can be difficult, as neither the optimal targets for treatment nor the full effects of potential treatments on the developing fetus are known. This article reviews the epidemiology, pathology, diagnosis, outcomes, and treatment of NVP and HG.
 
 ---
 
-### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^259ef7ec]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 189: nausea and vomiting of pregnancy [^111xmwP9]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Nausea and vomiting of pregnancy — The following recommendations are based primarily on consensus and expert opinion (Level C): Early treatment of nausea and vomiting of pregnancy may be beneficial to prevent progression to hyperemesis gravidarum. Intravenous hydration should be used for the patient who cannot tolerate oral liquids for a prolonged period or if clinical signs of dehydration are present. Correction of ketosis and vitamin deficiency should be strongly considered. Dextrose and vitamins should be included in the therapy when prolonged vomiting is present, and thiamine should be administered before dextrose infusion to prevent Wernicke encephalopathy. Enteral tube feeding (nasogastric or nasoduodenal) should be initiated as the first-line treatment to provide nutritional support to the woman with hyperemesis gravidarum who is not responsive to medical therapy and cannot maintain her weight. Peripherally inserted central catheters should not be used routinely in women with hyperemesis gravidarum given the significant complications associated with this intervention. Peripherally inserted central catheters should be utilized only as a last resort in the management of a woman with hyperemesis gravidarum because of the potential of severe maternal morbidity.
 
 ---
 
-### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^a297f0fa]. Gastroenterology (2024). Medium credibility.
+### AGA clinical practice update on pregnancy-related gastrointestinal and liver disease: expert review [^115A42i5]. Gastroenterology (2024). Medium credibility.
 
 Description
 

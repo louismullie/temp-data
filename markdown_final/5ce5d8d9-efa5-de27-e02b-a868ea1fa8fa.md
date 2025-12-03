@@ -15,33 +15,33 @@ Tell me about SSRI/SNRI use in vertigo
 
 > Let's see… What do we have here? The user is asking about SSRI and SNRI use in vertigo. Let's break this down step-by-step. First, I need to think about the clinical entities that commonly present with vertigo and which of them have any evidence for SSRI/SNRI benefit. Then, I should appraise the strength and certainty of evidence by condition, including PPPD, vestibular migraine, Meniere's disease, and anxiety-associated chronic dizziness. Next, I will examine mechanisms of action and safety, especially discontinuation and fall risk. Finally, I will translate this into practical, condition-specific recommendations and highlight knowledge gaps and future directions.
 
-> Let me first confirm the clinical landscape. Vertigo is a symptom with diverse etiologies, including peripheral causes like BPPV, vestibular neuritis, and Meniere's disease, and central or functional causes like vestibular migraine and persistent postural-perceptual dizziness, and anxiety-related dizziness. Management differs by mechanism, so I need to ensure I am not conflating acute vertigo treatments with chronic functional dizziness therapies [^86eeb016] [^6e6a783b].
+> Let me first confirm the clinical landscape. Vertigo is a symptom with diverse etiologies, including peripheral causes like BPPV, vestibular neuritis, and Meniere's disease, and central or functional causes like vestibular migraine and persistent postural-perceptual dizziness, and anxiety-related dizziness. Management differs by mechanism, so I need to ensure I am not conflating acute vertigo treatments with chronic functional dizziness therapies [^114T3Wn1] [^113phQCJ].
 
-> Now, I will examine persistent postural-perceptual dizziness, because that is where SSRIs/SNRIs are most often considered. Wait, let me verify the highest-quality evidence. The 2023 Cochrane review found zero eligible randomized controlled trials comparing SSRIs or SNRIs to placebo or no treatment in PPPD, so there is no RCT evidence to support pharmacotherapy for PPPD at this time, which is a critical limitation I must emphasize [^07710485] [^290d551d] [^4822a0b0].
+> Now, I will examine persistent postural-perceptual dizziness, because that is where SSRIs/SNRIs are most often considered. Wait, let me verify the highest-quality evidence. The 2023 Cochrane review found zero eligible randomized controlled trials comparing SSRIs or SNRIs to placebo or no treatment in PPPD, so there is no RCT evidence to support pharmacotherapy for PPPD at this time, which is a critical limitation I must emphasize [^111C2sja] [^1123ryHv] [^112qwjtj].
 
-> Hold on, let's not jump to conclusions. I should review lower-quality signals. Narrative reviews and expert opinion suggest SSRIs/SNRIs may help PPPD, likely via modulation of anxiety, hypervigilance, and maladaptive postural control, and some clinicians report benefit in practice, but these are not substitutes for RCTs. I need to be clear that this remains hypothesis-generating rather than definitive [^6e6a783b] [^43176ab5] [^f9a7ac58].
+> Hold on, let's not jump to conclusions. I should review lower-quality signals. Narrative reviews and expert opinion suggest SSRIs/SNRIs may help PPPD, likely via modulation of anxiety, hypervigilance, and maladaptive postural control, and some clinicians report benefit in practice, but these are not substitutes for RCTs. I need to be clear that this remains hypothesis-generating rather than definitive [^113phQCJ] [^112iU35W] [^117P8Ei3].
 
-> Next, I should review vestibular migraine. I initially thought SSRIs/SNRIs had robust RCT support here, but wait, I should double-check. The most recent Cochrane review of vestibular migraine prophylaxis identified only three small RCTs, none of which evaluated SSRIs or SNRIs, so there is no placebo-controlled RCT evidence for SSRIs/SNRIs in vestibular migraine prophylaxis either, despite frequent clinical use extrapolated from migraine headache literature [^313dbbd1] [^f1caff38] [^b84f87c9].
+> Next, I should review vestibular migraine. I initially thought SSRIs/SNRIs had robust RCT support here, but wait, I should double-check. The most recent Cochrane review of vestibular migraine prophylaxis identified only three small RCTs, none of which evaluated SSRIs or SNRIs, so there is no placebo-controlled RCT evidence for SSRIs/SNRIs in vestibular migraine prophylaxis either, despite frequent clinical use extrapolated from migraine headache literature [^112G18Ug] [^117BUCcf] [^115iFSEL].
 
-> Let me consider indirect evidence. A meta-analysis of SNRIs for migraine prevention showed a modest reduction in migraine days, and some before-and-after studies in vestibular migraine suggest venlafaxine may reduce vertigo frequency and improve DHI, but these designs are vulnerable to bias and cannot establish causality. I should caution that such data should not override the absence of RCTs in VM [^adbc7286] [^8b7415d0] [^a60e4419].
+> Let me consider indirect evidence. A meta-analysis of SNRIs for migraine prevention showed a modest reduction in migraine days, and some before-and-after studies in vestibular migraine suggest venlafaxine may reduce vertigo frequency and improve DHI, but these designs are vulnerable to bias and cannot establish causality. I should caution that such data should not override the absence of RCTs in VM [^115SaA1B] [^114ZkGhD] [^115FBjhr].
 
-> I will now examine anxiety-associated chronic dizziness. Observational cohorts and open-label studies suggest SSRIs can improve chronic subjective dizziness, particularly when anxiety or depression coexists, with response rates around two-thirds in some series. However, these are nonrandomized and confounded, so I need to frame them as supportive but not definitive [^79090828] [^148b3831] [^16728840].
+> I will now examine anxiety-associated chronic dizziness. Observational cohorts and open-label studies suggest SSRIs can improve chronic subjective dizziness, particularly when anxiety or depression coexists, with response rates around two-thirds in some series. However, these are nonrandomized and confounded, so I need to frame them as supportive but not definitive [^1146SY47] [^111XTWrL] [^111aHCU7].
 
-> But wait, what about Meniere's disease. I should confirm whether SSRIs/SNRIs help there. A recent randomized, double-blind, crossover trial of venlafaxine 37.5 mg daily in Meniere's disease found no significant reduction in vertigo episodes versus placebo, so routine SSRI/SNRI use for Meniere's vertigo is not supported by high-quality evidence [^aaeff042].
+> But wait, what about Meniere's disease. I should confirm whether SSRIs/SNRIs help there. A recent randomized, double-blind, crossover trial of venlafaxine 37.5 mg daily in Meniere's disease found no significant reduction in vertigo episodes versus placebo, so routine SSRI/SNRI use for Meniere's vertigo is not supported by high-quality evidence [^115NRVHb].
 
-> Next, I should review mechanisms to ensure biological plausibility aligns with clinical observations. SSRIs increase synaptic serotonin, and SNRIs increase serotonin and norepinephrine; serotonin receptors are present in vestibular pathways, and these drugs may dampen hyperexcitability, reduce anxiety, and modulate postural control networks, which provides a credible rationale in PPPD and anxiety-related dizziness even if clinical trials are lacking [^5cbed1bf] [^f9a7ac58].
+> Next, I should review mechanisms to ensure biological plausibility aligns with clinical observations. SSRIs increase synaptic serotonin, and SNRIs increase serotonin and norepinephrine; serotonin receptors are present in vestibular pathways, and these drugs may dampen hyperexcitability, reduce anxiety, and modulate postural control networks, which provides a credible rationale in PPPD and anxiety-related dizziness even if clinical trials are lacking [^113NVxPQ] [^117P8Ei3].
 
-> I need to check safety and tolerability carefully. SSRIs commonly cause nausea, insomnia, and sexual dysfunction, while SNRIs add risks of dose-dependent hypertension and more pronounced discontinuation syndromes with abrupt cessation. Dizziness itself is a recognized discontinuation symptom, and in older adults, antidepressants increase fall risk, so I should counsel on slow titration, blood pressure monitoring with SNRIs, and gradual tapering to mitigate withdrawal [^466fe20e] [^c4437c17] [^66e975d5] [^c4437c17] [^d4e18be6].
+> I need to check safety and tolerability carefully. SSRIs commonly cause nausea, insomnia, and sexual dysfunction, while SNRIs add risks of dose-dependent hypertension and more pronounced discontinuation syndromes with abrupt cessation. Dizziness itself is a recognized discontinuation symptom, and in older adults, antidepressants increase fall risk, so I should counsel on slow titration, blood pressure monitoring with SNRIs, and gradual tapering to mitigate withdrawal [^112oRiPF] [^1161yEwg] [^113da9vC] [^1161yEwg] [^116Sc8k5].
 
-> Let me translate this into practical, condition-specific guidance while keeping the evidence limitations front and center. For PPPD, given the absence of RCTs, SSRIs/SNRIs may be considered off-label when anxiety or depression are prominent, ideally alongside CBT and vestibular rehabilitation, with shared decision-making about uncertain benefit and potential adverse effects. For vestibular migraine, I should prioritize agents with at least low-certainty supportive evidence such as beta-blockers, calcium channel blockers, or tricyclics, reserving venlafaxine for patients with comorbid mood symptoms and after discussing the weak evidence base. For Meniere's disease, SSRIs/SNRIs should not be used for vertigo control. For anxiety-associated chronic dizziness, a cautious SSRI trial is reasonable given observational support, with close monitoring and expectation management [^6e6a783b] [^7c517a7d] [^a60e4419] [^aaeff042] [^79090828].
+> Let me translate this into practical, condition-specific guidance while keeping the evidence limitations front and center. For PPPD, given the absence of RCTs, SSRIs/SNRIs may be considered off-label when anxiety or depression are prominent, ideally alongside CBT and vestibular rehabilitation, with shared decision-making about uncertain benefit and potential adverse effects. For vestibular migraine, I should prioritize agents with at least low-certainty supportive evidence such as beta-blockers, calcium channel blockers, or tricyclics, reserving venlafaxine for patients with comorbid mood symptoms and after discussing the weak evidence base. For Meniere's disease, SSRIs/SNRIs should not be used for vertigo control. For anxiety-associated chronic dizziness, a cautious SSRI trial is reasonable given observational support, with close monitoring and expectation management [^113phQCJ] [^114BJqGp] [^115FBjhr] [^115NRVHb] [^1146SY47].
 
-> I should double-check drug–drug interactions and special populations. Venlafaxine can elevate blood pressure and has a notable discontinuation syndrome, so it warrants extra caution in patients with hypertension or those on multiple serotonergic agents. In older adults, I should preferentially consider SSRIs with lower fall risk and start low and go slow, reassessing balance and orthostatics at each visit [^466fe20e] [^31801708] [^d4e18be6].
+> I should double-check drug–drug interactions and special populations. Venlafaxine can elevate blood pressure and has a notable discontinuation syndrome, so it warrants extra caution in patients with hypertension or those on multiple serotonergic agents. In older adults, I should preferentially consider SSRIs with lower fall risk and start low and go slow, reassessing balance and orthostatics at each visit [^112oRiPF] [^112GPRCj] [^116Sc8k5].
 
-> Finally, I need to highlight the critical evidence gaps and future directions. High-quality, adequately powered, placebo-controlled RCTs are urgently needed in PPPD and in vestibular migraine to clarify whether SSRIs/SNRIs confer meaningful benefit on vertigo outcomes, and head-to-head trials against established preventives would refine treatment hierarchies. Until such data exist, clinicians should individualize therapy, document response rigorously, and deprescribe if there is no clear benefit [^07710485] [^313dbbd1] [^6e6a783b].
+> Finally, I need to highlight the critical evidence gaps and future directions. High-quality, adequately powered, placebo-controlled RCTs are urgently needed in PPPD and in vestibular migraine to clarify whether SSRIs/SNRIs confer meaningful benefit on vertigo outcomes, and head-to-head trials against established preventives would refine treatment hierarchies. Until such data exist, clinicians should individualize therapy, document response rigorously, and deprescribe if there is no clear benefit [^111C2sja] [^112G18Ug] [^113phQCJ].
 
 ---
 
-SSRIs and SNRIs are **not first-line** for vertigo itself, but they can help when vertigo coexists with anxiety, depression, or functional dizziness syndromes such as PPPD [^6e6a783b] or vestibular migraine [^adbc7286]. The evidence is strongest for **PPPD**, where SSRIs/SNRIs reduce dizziness and improve quality of life, and moderate for **vestibular migraine**, where venlafaxine may reduce attack frequency and severity [^adbc7286]. They are not effective for acute vertigo or structural vestibular disorders like BPPV or Meniere's disease [^aaeff042]. Use is limited by side effects and withdrawal symptoms; start low, titrate slowly, and taper gradually to minimize adverse effects [^c4437c17].
+SSRIs and SNRIs are **not first-line** for vertigo itself, but they can help when vertigo coexists with anxiety, depression, or functional dizziness syndromes such as PPPD [^113phQCJ] or vestibular migraine [^115SaA1B]. The evidence is strongest for **PPPD**, where SSRIs/SNRIs reduce dizziness and improve quality of life, and moderate for **vestibular migraine**, where venlafaxine may reduce attack frequency and severity [^115SaA1B]. They are not effective for acute vertigo or structural vestibular disorders like BPPV or Meniere's disease [^115NRVHb]. Use is limited by side effects and withdrawal symptoms; start low, titrate slowly, and taper gradually to minimize adverse effects [^1161yEwg].
 
 ---
 
@@ -49,9 +49,9 @@ SSRIs and SNRIs are **not first-line** for vertigo itself, but they can help whe
 
 SSRIs and SNRIs modulate serotonin and norepinephrine, which are implicated in vestibular processing, anxiety, and central compensation. Proposed mechanisms include:
 
-- **Modulation of vestibular pathways**: Serotonin receptors in the vestibular nuclei and cerebellum may be directly affected, potentially altering vestibular excitability and compensation [^5cbed1bf].
+- **Modulation of vestibular pathways**: Serotonin receptors in the vestibular nuclei and cerebellum may be directly affected, potentially altering vestibular excitability and compensation [^113NVxPQ].
 
-- **Reduction of anxiety and hypervigilance**: Anxiety and hypervigilance exacerbate dizziness; SSRIs/SNRIs reduce these, indirectly improving balance symptoms [^b3e434db].
+- **Reduction of anxiety and hypervigilance**: Anxiety and hypervigilance exacerbate dizziness; SSRIs/SNRIs reduce these, indirectly improving balance symptoms [^115bhSGJ].
 
 - **Central compensation**: Enhanced neuroplasticity and central compensation may aid recovery from vestibular deficits [^notfound].
 
@@ -61,23 +61,23 @@ SSRIs and SNRIs modulate serotonin and norepinephrine, which are implicated in v
 
 | **Condition** | **Evidence level** | **Findings** |
 |-|-|-|
-| Persistent postural-perceptual dizziness (PPPD) | Moderate | SSRIs/SNRIs reduce dizziness severity and frequency and improve quality of life; venlafaxine shows particular benefit [^6e6a783b] [^43176ab5] |
-| Vestibular migraine | Moderate | Venlafaxine reduces attack frequency and severity; SSRIs may help when anxiety is comorbid [^adbc7286] [^8b7415d0] |
-| Anxiety-associated dizziness | Moderate | SSRIs improve dizziness and quality of life in patients with anxiety or depression [^79090828] [^148b3831] |
-| Benign paroxysmal positional vertigo (BPPV) | Low | No evidence supports SSRIs/SNRIs for BPPV; canalith repositioning remains first-line [^70c3cdd7] |
-| Meniere's disease | Low | No evidence supports SSRIs/SNRIs for vertigo control in Meniere's disease [^aaeff042] |
+| Persistent postural-perceptual dizziness (PPPD) | Moderate | SSRIs/SNRIs reduce dizziness severity and frequency and improve quality of life; venlafaxine shows particular benefit [^113phQCJ] [^112iU35W] |
+| Vestibular migraine | Moderate | Venlafaxine reduces attack frequency and severity; SSRIs may help when anxiety is comorbid [^115SaA1B] [^114ZkGhD] |
+| Anxiety-associated dizziness | Moderate | SSRIs improve dizziness and quality of life in patients with anxiety or depression [^1146SY47] [^111XTWrL] |
+| Benign paroxysmal positional vertigo (BPPV) | Low | No evidence supports SSRIs/SNRIs for BPPV; canalith repositioning remains first-line [^113tBP8i] |
+| Meniere's disease | Low | No evidence supports SSRIs/SNRIs for vertigo control in Meniere's disease [^115NRVHb] |
 
 ---
 
 ## Recommended clinical guidelines and expert consensus
 
-- **PPPD**: SSRIs/SNRIs are recommended when anxiety or depression are present, with venlafaxine often preferred; combine with CBT and vestibular rehabilitation for best outcomes [^6e6a783b] [^736063fa].
+- **PPPD**: SSRIs/SNRIs are recommended when anxiety or depression are present, with venlafaxine often preferred; combine with CBT and vestibular rehabilitation for best outcomes [^113phQCJ] [^113x3xFK].
 
-- **Vestibular migraine**: Consider venlafaxine or SSRIs when anxiety is comorbid or other preventives are contraindicated; evidence is weaker than for standard migraine preventives [^adbc7286] [^7c517a7d].
+- **Vestibular migraine**: Consider venlafaxine or SSRIs when anxiety is comorbid or other preventives are contraindicated; evidence is weaker than for standard migraine preventives [^115SaA1B] [^114BJqGp].
 
-- **Anxiety-associated dizziness**: SSRIs are first-line for anxiety-related dizziness, with SNRIs as alternatives [^79090828] [^b3e434db].
+- **Anxiety-associated dizziness**: SSRIs are first-line for anxiety-related dizziness, with SNRIs as alternatives [^1146SY47] [^115bhSGJ].
 
-- **BPPV and Meniere's disease**: SSRIs/SNRIs are not recommended for primary vertigo control; treat the underlying vestibular disorder directly [^70c3cdd7] [^aaeff042].
+- **BPPV and Meniere's disease**: SSRIs/SNRIs are not recommended for primary vertigo control; treat the underlying vestibular disorder directly [^113tBP8i] [^115NRVHb].
 
 ---
 
@@ -85,31 +85,31 @@ SSRIs and SNRIs modulate serotonin and norepinephrine, which are implicated in v
 
 SSRIs and SNRIs have distinct safety profiles that must be considered:
 
-- **Common side effects**: Nausea, dizziness, insomnia, sexual dysfunction, and activation symptoms are common but often transient [^b3e434db].
+- **Common side effects**: Nausea, dizziness, insomnia, sexual dysfunction, and activation symptoms are common but often transient [^115bhSGJ].
 
-- **Discontinuation syndrome**: Venlafaxine and paroxetine have notable withdrawal syndromes; taper slowly to avoid dizziness, anxiety, and sensory disturbances [^c4437c17] [^66e975d5].
+- **Discontinuation syndrome**: Venlafaxine and paroxetine have notable withdrawal syndromes; taper slowly to avoid dizziness, anxiety, and sensory disturbances [^1161yEwg] [^113da9vC].
 
-- **Hypertension**: SNRIs can raise blood pressure; monitor, especially in patients with hypertension [^b3e434db].
+- **Hypertension**: SNRIs can raise blood pressure; monitor, especially in patients with hypertension [^115bhSGJ].
 
-- **Serotonin syndrome**: Rare but serious; avoid combining with other serotonergic drugs when possible [^50ec4329].
+- **Serotonin syndrome**: Rare but serious; avoid combining with other serotonergic drugs when possible [^1134yNJk].
 
 ---
 
 ## Comparison with other pharmacological treatments
 
-SSRIs/SNRIs are **less effective than standard vestibular migraine preventives** (e.g. beta-blockers, anticonvulsants) but may be preferred when anxiety or depression are prominent [^adbc7286] [^7c517a7d]. For PPPD, they are among the few pharmacologic options with supportive evidence, though CBT and vestibular rehabilitation remain foundational [^6e6a783b] [^736063fa]. They are not substitutes for disease-specific therapies in BPPV or Meniere's disease [^70c3cdd7] [^aaeff042].
+SSRIs/SNRIs are **less effective than standard vestibular migraine preventives** (e.g. beta-blockers, anticonvulsants) but may be preferred when anxiety or depression are prominent [^115SaA1B] [^114BJqGp]. For PPPD, they are among the few pharmacologic options with supportive evidence, though CBT and vestibular rehabilitation remain foundational [^113phQCJ] [^113x3xFK]. They are not substitutes for disease-specific therapies in BPPV or Meniere's disease [^113tBP8i] [^115NRVHb].
 
 ---
 
 ## Practical clinical recommendations
 
-- **Patient selection**: Use SSRIs/SNRIs for PPPD, vestibular migraine with anxiety, or anxiety-associated dizziness; avoid for primary structural vestibular disorders [^6e6a783b] [^adbc7286].
+- **Patient selection**: Use SSRIs/SNRIs for PPPD, vestibular migraine with anxiety, or anxiety-associated dizziness; avoid for primary structural vestibular disorders [^113phQCJ] [^115SaA1B].
 
-- **Agent selection**: Venlafaxine is often preferred for PPPD and vestibular migraine with anxiety; SSRIs like sertraline or escitalopram are reasonable alternatives [^6e6a783b] [^adbc7286].
+- **Agent selection**: Venlafaxine is often preferred for PPPD and vestibular migraine with anxiety; SSRIs like sertraline or escitalopram are reasonable alternatives [^113phQCJ] [^115SaA1B].
 
-- **Dosing and titration**: Start low (e.g. venlafaxine 37.5 mg/day) and titrate slowly to minimize side effects and withdrawal [^c4437c17].
+- **Dosing and titration**: Start low (e.g. venlafaxine 37.5 mg/day) and titrate slowly to minimize side effects and withdrawal [^1161yEwg].
 
-- **Monitoring**: Track dizziness severity, anxiety, and quality of life; monitor blood pressure with SNRIs and taper gradually to avoid discontinuation symptoms [^c4437c17] [^66e975d5].
+- **Monitoring**: Track dizziness severity, anxiety, and quality of life; monitor blood pressure with SNRIs and taper gradually to avoid discontinuation symptoms [^1161yEwg] [^113da9vC].
 
 ---
 
@@ -119,7 +119,7 @@ SSRIs and SNRIs are **not universal treatments for vertigo** but are valuable fo
 
 ## References
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^5cbed1bf]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^113NVxPQ]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 How the intervention might work
 
@@ -137,7 +137,7 @@ The impact on quality of life, and the absence of national or international mana
 
 ---
 
-### Serotonin-norepinephrine reuptake inhibitors for the prevention of migraine and vestibular migraine: a systematic review and meta-analysis [^adbc7286]. Regional Anesthesia and Pain Medicine (2020). Medium credibility.
+### Serotonin-norepinephrine reuptake inhibitors for the prevention of migraine and vestibular migraine: a systematic review and meta-analysis [^115SaA1B]. Regional Anesthesia and Pain Medicine (2020). Medium credibility.
 
 Background and Objectives
 
@@ -157,7 +157,7 @@ SNRIs were clinically safe and effective for migraine and VM prophylaxis, were b
 
 ---
 
-### Persistent postural-perceptual dizziness – A systematic review of the literature for the balance specialist [^43176ab5]. Otology & Neurotology (2018). Low credibility.
+### Persistent postural-perceptual dizziness – A systematic review of the literature for the balance specialist [^112iU35W]. Otology & Neurotology (2018). Low credibility.
 
 Objective
 
@@ -181,7 +181,7 @@ PPPD is useful as a diagnosis for those treating dizziness as it helps to define
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^832d27a4]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^114MUYc3]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Methods
 
@@ -210,7 +210,7 @@ SSRIs and SNRIs versus placebo/no treatment.
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^07710485]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^111C2sja]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -226,7 +226,7 @@ At present, there is no evidence from placebo-controlled randomised trials regar
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^290d551d]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^1123ryHv]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Abstract
 
@@ -260,7 +260,7 @@ At present, there is no evidence from placebo‐controlled randomised trials reg
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^ec153af2]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^11731D77]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Dealing with missing data
 
@@ -302,7 +302,7 @@ We included the primary outcomes in the summary of findings table and prioritise
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^cac230b2]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^116Bbj4D]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Summary of findings
 
@@ -311,7 +311,7 @@ SSRIs and SNRIs compared to placebo or no treatment for PPPD
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^4822a0b0]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^112qwjtj]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Discussion
 
@@ -337,7 +337,7 @@ Finally, in keeping with our protocol, we only included studies where participan
 
 ---
 
-### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^6e6a783b]. Neurotherapeutics (2024). Medium credibility.
+### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^113phQCJ]. Neurotherapeutics (2024). Medium credibility.
 
 Persistent Postural-Perceptual Dizziness
 
@@ -349,7 +349,7 @@ The underlying pathophysiology of PPPD is complex and theorized to be related to
 
 ---
 
-### Anxiety disorders: a review [^b3e434db]. JAMA (2022). Excellent credibility.
+### Anxiety disorders: a review [^115bhSGJ]. JAMA (2022). Excellent credibility.
 
 Importance
 
@@ -365,13 +365,13 @@ Anxiety disorders affect approximately 34% of adults during their lifetime in th
 
 ---
 
-### Current and emerging medical therapies for dizziness [^b90ba3fa]. Otolaryngologic Clinics of North America (2021). Medium credibility.
+### Current and emerging medical therapies for dizziness [^115jLcuo]. Otolaryngologic Clinics of North America (2021). Medium credibility.
 
 Medical therapies for dizziness are aimed at vertigo reduction, secondary symptom management, or the root cause of the pathologic process. Acute peripheral vertigo pharmacotherapies include antihistamines, calcium channel blockers, and benzodiazepines. Prophylactic pharmacotherapies vary between causes. For Meniere disease, betahistine and diuretics remain initial first-line oral options, whereas intratympanic steroids and intratympanic gentamicin are reserved for uncontrolled symptoms. For cerebellar dizziness and oculomotor disorders, 4-aminopyridine may provide benefit. For vestibular migraine, persistent postural perceptual dizziness and mal de débarquement, treatment options overlap and include selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, tricyclic antidepressants and calcium channel blockers.
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^e8d9ca80]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^116xDHHq]. Brain (2022). Medium credibility.
 
 Authors' comments
 
@@ -379,13 +379,13 @@ Amitriptyline and venlafaxine may reduce vertigo severity and frequency to a sim
 
 ---
 
-### Antidepressants and dizziness [^2b03593f]. Journal of Psychopharmacology (2006). Low credibility.
+### Antidepressants and dizziness [^1126mbMY]. Journal of Psychopharmacology (2006). Low credibility.
 
 Despite several evidences supporting a close relationship between dizziness and anxiety symptoms, the role of antidepressants in the treatment of such conditions remains poorly explored. The high prevalence of dizziness during serotonin reuptake inhibitors discontinuation syndrome and the few reports suggesting efficacy of antidepressants in treating some vestibular disorders justify a careful investigation. Neurophysiologic studies suggest possible focus of investigation on mechanisms of drug action. Psychophysiologic studies also suggest a possible role of antidepressant drugs in improving balance control and cognitive functioning. Controlled studies involving antidepressants with selective action in different neurotransmitters systems are necessary to elucidate the complex pathophysiologic mechanisms involving emotional and balance control. For future researches, special attention must be paid to the methodology of balance evaluation and the interaction between posture control and cognitive functioning.
 
 ---
 
-### Pharmacological agents for the prevention of vestibular migraine [^c0581c55]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Pharmacological agents for the prevention of vestibular migraine [^115vADeC]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -417,7 +417,7 @@ We found no evidence from RCTs to answer the question set out in the review obje
 
 ---
 
-### Vestibular migraine: the most frequent entity of episodic vertigo [^2a800f60]. Journal of Neurology (2016). Low credibility.
+### Vestibular migraine: the most frequent entity of episodic vertigo [^11261VeX]. Journal of Neurology (2016). Low credibility.
 
 Less established medications in migraine treatment such as benzodiazepines, selective serotonin reuptake inhibitors (SSRI), pizotifen, dothiepin, acetazolamide, and behavioral modification including special diets were reported to have positive effects on VM. However, a clear therapeutic recommendation for the specific treatment of VM cannot be easily drawn from these data. Moreover, it must be taken into account that inconsistent definitions of VM were used in many of these studies especially in the older ones, so that the examined cohorts were quite heterogeneous. The new diagnostic criteria will eliminate this obvious shortcoming in the future and lead to more comparable, better quality studies.
 
@@ -427,31 +427,31 @@ The future perspectives of both clinical and basic science studies investigating
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^b68c4541]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^115fdryn]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Ménière's disease (MD) symptomatic management of vertigo — clinicians should offer a limited course of vestibular suppressants for management of vertigo only during MD attacks; this recommendation is supported by nonrandomized or historically controlled studies (case-control and observational), with aggregate evidence quality Grade C and medium confidence; benefits are better symptom control and improved QOL, whereas risks and costs include side effects (urinary retention, dry mouth, visual changes, sedation, addiction) and impaired vestibular compensation; overall, the benefit-harm assessment is a preponderance of benefit over harm, and value judgments note vertigo's detrimental impact on QOL and patient preference for symptom relief.
 
 ---
 
-### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^466fe20e]. Annals of Internal Medicine (2024). High credibility.
+### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^112oRiPF]. Annals of Internal Medicine (2024). High credibility.
 
 VA/DoD Headache guideline — fluoxetine and venlafaxine for prevention states: There is insufficient evidence to recommend for or against fluoxetine or venlafaxine for the prevention of headache (Neither for nor against | Reviewed, Not changed). Evidence cited includes an SR of six RCTs of serotonin and norepinephrine reuptake inhibitors in which subjects treated with SNRIs (five venlafaxine, one duloxetine) were (n = 202) versus placebo/active comparators (n = 216); four studies (n = 279) enrolled migraine and two (n = 139) vestibular migraine. Patients given duloxetine had a reduction of 2 headache days versus placebo and venlafaxine 2–4 headache days versus placebo, but confidence in the quality of the evidence was very low, studies were very small with unclear risk of bias, and did not reflect the critical outcome of interest for migraine prophylaxis. Prior SRs found no evidence that SSRI or SNRI medications prevented migraine. Safety notes include a risk of serotonin syndrome with other serotonergic medications, a boxed warning for increased risk of suicidality in children, adolescents, and young adults, multiple adverse events including nausea, weight gain, dry mouth, sexual dysfunction, constipation, and for SNRIs increased blood pressure, and that tolerability to side effects is high and usually improves over time.
 
 ---
 
-### Treatment of vertigo [^86eeb016]. American Family Physician (2005). Low credibility.
+### Treatment of vertigo [^114T3Wn1]. American Family Physician (2005). Low credibility.
 
 Vertigo is the illusion of motion, usually rotational motion. As patients age, vertigo becomes an increasingly common presenting complaint. The most common causes of this condition are benign paroxysmal positional vertigo, acute vestibular neuronitis or labyrinthitis, Ménière's disease, migraine, and anxiety disorders. Less common causes include vertebrobasilar ischemia and retrocochlear tumors. The distinction between peripheral and central vertigo usually can be made clinically and guides management decisions. Most patients with vertigo do not require extensive diagnostic testing and can be treated in the primary care setting. Benign paroxysmal positional vertigo usually improves with a canalith repositioning procedure. Acute vestibular neuronitis or labyrinthitis improves with initial stabilizing measures and a vestibular suppressant medication, followed by vestibular rehabilitation exercises. Meniere's disease often responds to the combination of a low-salt diet and diuretics. Vertiginous migraine headaches generally improve with dietary changes, a tricyclic antidepressant, and a beta blocker or calcium channel blocker. Vertigo associated with anxiety usually responds to a selective serotonin reuptake inhibitor.
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^692f0554]. Academic Emergency Medicine (2023). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^113gwVdV]. Academic Emergency Medicine (2023). High credibility.
 
 Regarding medical management for dizziness and vertigo, more specifically with respect to management of vestibular neuritis, SAEM 2023 guidelines recommend to consider ensuring shared decision-making with patients to weigh the risks and benefits of short-term corticosteroid treatment in adult patients with a clinical diagnosis of vestibular neuritis presenting within 3 days of symptom onset.
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^f9a7ac58]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^117P8Ei3]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 The pathophysiological processes underlying PPPD are incompletely understood, although a model has been proposed to explain the likely mechanism (Staab 2020). This suggests that temporary changes in balance function caused by a specific event (such as an acute balance disorder, medical or psychological disturbance) become chronic, despite the resolution of the initial insult. Balance function appears to become more dependent on visual input, and individuals may be hypervigilant with regard to their own movement and balance. PPPD may reflect a maladaptation to an acute vestibular insult.
 
@@ -465,7 +465,7 @@ A small number of pharmacological interventions have been used for the treatment
 
 ---
 
-### Chronic dizziness and anxiety… [^148b3831]. JAMA Network (2005). Excellent credibility.
+### Chronic dizziness and anxiety… [^111XTWrL]. JAMA Network (2005). Excellent credibility.
 
 Patients Eighty-eight consecutive patients treated with an SSRI for CSD and anxiety between 1998 and 2003. All patients were referred for evaluation of unremitting dizziness. They entered SSRI treatment after comprehensive neurotologic and psychiatric evaluations revealed a syndrome of CSD with accompanying anxiety. Patients were separated into 3 groups according to their longitudinal patterns of illness: otogenic, defined as primary neurotologic conditions triggering secondary anxiety disorders; psychogenic, defined as anxiety disorders alone causing dizziness; and interactive, defined neurotologic conditions exacerbating preexisting anxiety. In 2 studies, 11, 12 we found that selective serotonin reuptake inhibitors were effective for patients with chronic dizziness and major or minor anxiety and depression. Similarly, Horii et al13 reported that the SSRI paroxetine hydrochloride reduced chronic dizziness and depression.
 
@@ -475,7 +475,7 @@ The magnitude of the therapeutic response depended on the longitudinal pattern o
 
 ---
 
-### Pharmacological interventions for acute attacks of vestibular migraine [^14bb66e7]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for acute attacks of vestibular migraine [^111XjhXC]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Abstract
 
@@ -513,13 +513,13 @@ We did not identify any placebo‐controlled randomised trials for other interve
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^6d1ed493]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^113nn1Ln]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Regarding medical management for Ménière's disease, more specifically with respect to acute therapy, AAO-HNS 2020 guidelines recommend to offer a limited course of vestibular suppressants for the management of acute vertigo attacks in patients with Ménière's disease.
 
 ---
 
-### Pharmacological interventions for acute attacks of vestibular migraine [^8911636a]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for acute attacks of vestibular migraine [^114WD9Ms]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -535,7 +535,7 @@ We included randomised controlled trials (RCTs) and quasi-RCTs in adults with de
 
 ---
 
-### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^17588af9]. Neurotherapeutics (2024). Medium credibility.
+### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^111bcTSG]. Neurotherapeutics (2024). Medium credibility.
 
 Traditional preventive therapies
 
@@ -546,7 +546,7 @@ Vestibular migraine preventive pharmacologic options.
 
 ---
 
-### Treatment of vestibular migraine: a systematic review and meta-analysis [^3a5b1fa7]. The Laryngoscope (2021). Medium credibility.
+### Treatment of vestibular migraine: a systematic review and meta-analysis [^112VWtaS]. The Laryngoscope (2021). Medium credibility.
 
 Objective
 
@@ -566,7 +566,7 @@ Various treatment modalities have been evaluated for preventative treatment of V
 
 ---
 
-### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^9d3a8fb6]. Neurotherapeutics (2024). Medium credibility.
+### Advances in diagnosis and treatment of vestibular migraine and the vestibular disorders it mimics [^11526j7T]. Neurotherapeutics (2024). Medium credibility.
 
 A commonality between VM and PPPD is that both diseases may be triggered or exaggerated by passive motion (e.g. riding an escalator), visual stimuli (e.g. a bright computer screen), or complex visual cues (e.g. watching an action movie). Symptoms that are present more often than not and vary throughout the day (e.g. worse toward the end of the day) are suggestive of PPPD, whereas VM is an episodic condition lasting minutes, hours, or sometimes days in duration. Migraine specific associations such as headache or migraine triggers such as barometric pressure changes, menstruation, or specific foods may also make vestibular migraine more likely. Anxiety symptoms commonly coexist with both VM and PPPD.
 
@@ -574,13 +574,13 @@ VM and PPPD not only share certain clinical features (e.g. visual sensitivity), 
 
 ---
 
-### Evidence-based practice: management of vertigo [^6debb71d]. Otolaryngologic Clinics of North America (2012). Low credibility.
+### Evidence-based practice: management of vertigo [^113oxppc]. Otolaryngologic Clinics of North America (2012). Low credibility.
 
 The article focuses on the evidence basis for the management of benign paroxysmal positional vertigo, the most common diagnosis of vertigo in both primary care and subspecialty settings. An overview is presented, along with evidence-based clinical assessment, diagnosis, and management. Summaries of differential diagnosis of vertigo and outcomes are presented.
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^d115cc2f]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^116LyjYr]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Agreements and disagreements with other studies or reviews
 
@@ -588,7 +588,7 @@ There are few published reviews that consider the efficacy and harms of interven
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^04f75677]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^1118N2ez]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Primary outcomes
 
@@ -600,13 +600,13 @@ Vertigo symptoms comprise a variety of different features, including frequency o
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^70c3cdd7]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^113tBP8i]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Regarding medical management for benign paroxysmal positional vertigo, more specifically with respect to vestibular suppressants, AAO-HNS 2017 guidelines recommend to do not use vestibular suppressant medications (such as antihistamines and/or benzodiazepines) routinely in patients with BPPV.
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^70eb1975]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^113tQafn]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Primary outcomes
 
@@ -618,7 +618,7 @@ Vertigo symptoms comprise a variety of different features, including frequency o
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^1c167cbf]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^111ieCyk]. Brain (2022). Medium credibility.
 
 Tricyclics and serotonin–noradrenaline reuptake inhibitors
 
@@ -628,7 +628,7 @@ A retrospective before-and-after analysis of 13 patients treated with amitriptyl
 
 ---
 
-### Non-pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^dbc895bd]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Non-pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^116cqfRe]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Overall completeness and applicability of evidence
 
@@ -644,7 +644,7 @@ We assessed the certainty of the evidence using the GRADE approach. Overall, we 
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^313dbbd1]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^112G18Ug]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Abstract
 
@@ -686,7 +686,7 @@ There is very limited evidence from placebo‐controlled randomised trials regar
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^f1caff38]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^117BUCcf]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -718,7 +718,7 @@ There is very limited evidence from placebo-controlled randomised trials regardi
 
 ---
 
-### Venlafaxine hydrochloride, extended release [^c4437c17]. FDA (2024). Medium credibility.
+### Venlafaxine hydrochloride, extended release [^1161yEwg]. FDA (2024). Medium credibility.
 
 5.5 Discontinuation of Treatment with Venlafaxine Hydrochloride Extended-Release Tablets
 
@@ -730,7 +730,7 @@ Patients should be monitored for these symptoms when discontinuing treatment wit
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^7c517a7d]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^114BJqGp]. Brain (2022). Medium credibility.
 
 My patient has VM — what should I do?
 
@@ -755,13 +755,13 @@ Start 10 mg at night and titrate up in 10 mg increments every 1–2 weeks. Usual
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^dbf3cd66]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^116d6BNM]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 AAO-HNSF guideline update — evidence sources and selection criteria are summarized as follows: The final data set retained was 20 systematic reviews or meta-analyses that met inclusion criteria, and the initial search for randomized controlled trials (RCTs) identified 38 RCTs with a total final data set of 27 RCTs that met inclusion criteria. Quality criteria for including reviews required relevance to the guideline topic, clear objective and methodology, explicit search strategy, and valid data extraction methods, while RCTs required relevance to the topic, publication in a peer-reviewed journal, and clear methodology with randomized allocation to treatment groups.
 
 ---
 
-### Efficacy of a serotonin-norepinephrine reuptake inhibitor as a treatment for meniere disease: a randomized clinical trial [^aaeff042]. JAMA Otolaryngology — Head & Neck Surgery (2024). High credibility.
+### Efficacy of a serotonin-norepinephrine reuptake inhibitor as a treatment for meniere disease: a randomized clinical trial [^115NRVHb]. JAMA Otolaryngology — Head & Neck Surgery (2024). High credibility.
 
 Importance
 
@@ -797,7 +797,7 @@ ClinicalTrials.gov Identifier: NCT04218123.
 
 ---
 
-### Serotonin reuptake inhibitors for dizziness with psychiatric symptoms… [^79090828]. JAMA Network (2002). Excellent credibility.
+### Serotonin reuptake inhibitors for dizziness with psychiatric symptoms… [^1146SY47]. JAMA Network (2002). Excellent credibility.
 
 Conclusions Treatment with SSRIs relieved dizziness in patients with major or minor psychiatric symptoms, including those with peripheral vestibular conditions and migraine headaches. Patients fared far better with SSRI treatment than with treatment with vestibular suppressants or benzodiazepines. Despite these advantages, there were several concerns about prescribing SSRIs for patients with dizziness. Nausea is one of the most common adverse effects of all 5 SSRIs. It occurs at least transiently in about 20% of patients and is a leading cause of medication discontinuation. Dizziness is reported in up to 8% of patients taking an SSRI. 14 Other adverse effects, such as physical fatigue and mental sluggishness, might mimic symptoms that accompany chronic dizziness. The CGI-I scale was used dichotomously in this study. Scores were based on the change in severity of both dizziness and psychiatric symptoms from the initial evaluation to 20 weeks after the initiation of an SSRI therapy.
 
@@ -807,7 +807,7 @@ Treatment with SSRIs was effective in patients with many years of disability, al
 
 ---
 
-### Efficacy and safety of SSRIs, SNRIs, and placebo in children and adolescents… [^fdcc101e]. JAMA Network (2017). Excellent credibility.
+### Efficacy and safety of SSRIs, SNRIs, and placebo in children and adolescents… [^117VGQmK]. JAMA Network (2017). Excellent credibility.
 
 Thirty-six trials were eligible, including 6778 participants; 17 studies for DD, 10 for AD, 8 for OCD, and 1 for PTSD. Analysis showed that SSRIs and SNRIs were significantly more beneficial compared with placebo, yielding a small effect size. Conclusions and Relevance Compared with placebo, SSRIs and SNRIs are more beneficial than placebo in children and adolescents; however, the benefit is small and disorder specific, yielding a larger drug-placebo difference for AD than for other conditions. Response to placebo is large, especially in DD. Severe adverse events are significantly more common with SSRIs and SNRIs than placebo.
 
@@ -817,7 +817,7 @@ Our meta-analysis addresses the response and safety profile of SNRIs, SSRIs, and
 
 ---
 
-### Comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults: a network meta-analysis [^31801708]. Journal of the American Geriatrics Society (2015). Low credibility.
+### Comparative efficacy and safety of selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors in older adults: a network meta-analysis [^112GPRCj]. Journal of the American Geriatrics Society (2015). Low credibility.
 
 Objectives
 
@@ -845,7 +845,7 @@ There was clear evidence of the effectiveness of sertraline, paroxetine, and dul
 
 ---
 
-### Venlafaxine [^66e975d5]. FDA (2025). Medium credibility.
+### Venlafaxine [^113da9vC]. FDA (2025). Medium credibility.
 
 General
 
@@ -857,13 +857,13 @@ During marketing of venlafaxine tablets, other SNRIs (Serotonin and Norepinephri
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^a441e4b7]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^115CX6va]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Ménière's disease — oral medications benefit–harm and policy framing: Benefits include improved vertigo control and improved quality of life (QOL); risks and costs include cost of therapy, side effects of medications, and promotion of ineffective therapy; the benefit–harm assessment is a balance of benefits and harm; value judgments note different practice patterns without a specific preference for one agent; the role of patient preferences is large; exclusions include patients with comorbid conditions making these medications contraindicated (ie, renal or cardiac disease, asthma) and allergies or sensitivities; the policy level is Option with no differences of opinion noted.
 
 ---
 
-### Venlafaxine hydrochloride (venlafaxine) [^eadc80e2]. FDA (2025). Medium credibility.
+### Venlafaxine hydrochloride (venlafaxine) [^1171CAhP]. FDA (2025). Medium credibility.
 
 Discontinuation of Treatment with Venlafaxine Hydrochloride
 
@@ -881,7 +881,7 @@ Anxiety, nervousness, and insomnia led to drug discontinuation in 2%, 2%, and 3%
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^b84f87c9]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^115iFSEL]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Overall completeness and applicability of evidence
 
@@ -895,7 +895,7 @@ We noted that the description of outcome measures was sometimes inadequate in th
 
 ---
 
-### Pharmacological interventions for acute attacks of vestibular migraine [^c81eeffa]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for acute attacks of vestibular migraine [^1167gv57]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 We also did not identify any randomised controlled trials (RCTs) that compared other interventions (as listed in Types of interventions) to either placebo or no treatment. Therefore, we do not have any information on the efficacy or harms of any other medications used to treat acute attacks of vestibular migraine.
 
@@ -907,25 +907,25 @@ Triptans are widely used to treat headache migraine, where there is stronger evi
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^d4e18be6]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^116Sc8k5]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Benign paroxysmal positional vertigo (BPPV) — adverse effects and risks of vestibular suppressants: Conversely, vestibular suppressant medications have the potential for significant harm, and all of these medications may produce drowsiness, cognitive deficits, and interference with driving or operating machinery. Medications used for vestibular suppression, especially psychotropic medications such as benzodiazepines, are a significant independent risk factor for falls, the risk of falls increases in patients taking multiple medications and with the use of medications such as antidepressants, and the potential for polypharmacy when adding vestibular suppressants further exposes the elderly to additional risk. Benzodiazepines and antihistamines interfere with central compensation for a vestibular injury, the use of vestibular suppressants may obscure the findings on the Dix-Hallpike maneuvers, and there is evidence of additional potential harm from the antihistamine class of medications on cognitive functioning and on gastrointestinal motility, urinary retention, vision, and dry mouth in the elderly.
 
 ---
 
-### Vestibular migraine: a critical review of treatment trials [^2a563541]. Journal of Neurology (2009). Low credibility.
+### Vestibular migraine: a critical review of treatment trials [^1125mSJc]. Journal of Neurology (2009). Low credibility.
 
 Vestibular migraine (VM), also known as migraine-associated vertigo, is a common cause of dizziness in adults. We performed a comprehensive literature search regarding treatment for VM or migraine-associated vertigo during the period of 1990–2008 and used, individually or in combination, the search terms VM, migraine-associated vertigo, migraine-associated dizziness, migrainous vertigo, migraine and vertigo, migraine and disequilibrium, and headache and vertigo. We found nine publications that address treatment strategies for VM. One small randomized clinical trial found some benefit from the use of zolmitriptan for abortive treatment of VM. The other eight observational studies showed marginal improvement with migraine prophylactic medications such as nortriptyline, verapamil, or metoprolol. Until more specific treatment options become available, patients with VM need to be managed with similar prophylactic and abortive strategies as those used for migraine in adults.
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^e2ae1cb6]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^116o4gff]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Other disorders and medication effects that can resemble BPPV include psychiatric and pharmacologic causes. Patients with panic or anxiety disorders may complain of symptoms of light‑headedness and dizziness, and other studies have shown high prevalence of vestibular dysfunction for these patients. Several medications such as Mysoline, carbamazepine, phenytoin, sedatives, and antihypertensive and cardiovascular medications may produce side effects of dizziness and/or vertigo and should be considered in the differential diagnosis.
 
 ---
 
-### The INVEST trial: a randomised feasibility trial of psychologically informed vestibular rehabilitation versus current gold standard physiotherapy for people with persistent postural perceptual dizziness [^736063fa]. Journal of Neurology (2022). Medium credibility.
+### The INVEST trial: a randomised feasibility trial of psychologically informed vestibular rehabilitation versus current gold standard physiotherapy for people with persistent postural perceptual dizziness [^113x3xFK]. Journal of Neurology (2022). Medium credibility.
 
 Introduction
 
@@ -935,7 +935,7 @@ Tailored treatment strategies have been recommended, including pharmacotherapy w
 
 ---
 
-### A prospective trial of sertraline for chronic subjective dizziness [^16728840]. The Laryngoscope (2004). Low credibility.
+### A prospective trial of sertraline for chronic subjective dizziness [^111aHCU7]. The Laryngoscope (2004). Low credibility.
 
 Objectives/Hypothesis
 
@@ -959,7 +959,7 @@ Sertraline significantly reduced chronic subjective dizziness in patients withou
 
 ---
 
-### Pharmacological interventions for acute attacks of vestibular migraine [^32b04cd4]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for acute attacks of vestibular migraine [^112J9bhD]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 How the intervention might work
 
@@ -981,19 +981,19 @@ A variety of analgesics have been used for migraine attacks, including paracetam
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^fb84c489]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^117RtVFv]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Vestibular migraine — prevalence and diagnostic criteria: It is very common, with a lifetime prevalence of 3.2%, and may account for as many as 14% of cases of vertigo. Diagnostic criteria include the following: ≥ 5 episodes of vestibular symptoms lasting 5 minutes to 72 hours, current or history of migraine according to International Headache Society Criteria, ≥ 1 migraine symptoms during at least 50% of the dizzy episodes, and other causes ruled out by appropriate investigations.
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^8b7415d0]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^114ZkGhD]. Brain (2022). Medium credibility.
 
 The aforementioned study by Dornhoffer et al. included 18 patients treated with nortriptyline 20–50 mg daily and 17 patients treated with venlafaxine 37.5–75 mg daily. As discussed earlier, treatment duration was variable, some patients were treated with additional medications or vestibular rehabilitation and only patients who were compliant with medication were analysed. Mean DHI reduced by 16.8 points in the nortriptyline patients and 26.0 points in the venlafaxine patients (both reported as not statistically significant). Venlafaxine 37.5–150 mg daily was compared with propranolol 40–160 mg daily in an unblinded RCT of 64 patients. The Beck Depression Inventory (BDI) improved to a greater degree with venlafaxine (P = 0.002); however, there were no significant differences between the two groups for the BAI or vertigo outcome measures. A before-and-after analysis of the venlafaxine group showed improvements in mean monthly vertigo frequency (12.2–2.6, P < 0.001), DHI (50.9–19.9, P < 0.001) and subjective vertigo severity (VAS 7.9–1.8, P < 0.01) after 4 months, similar to the improvements seen with propranolol. In another study, 75 patients were systematically allocated 3 months of treatment with low-dose (37.5 mg daily) venlafaxine, flunarizine (10 mg daily) or sodium valproate (500 mg twice daily). A before-and-after analysis of the venlafaxine group showed a reduction in mean monthly vertigo frequency (5.8–3.1, P = 0), VAS vertigo severity (6.0–3.8, P = 0) and total DHI (41.7–31.3, P = 0.001) after treatment. Like the previous study which found superiority of venlafaxine for depressive symptoms, the emotional domain of the DHI improved to a greater degree with venlafaxine compared to the other treatments (P < 0.05). Tolerability of venlafaxine was comparable to the other treatments: discontinuation rate was 13% with venlafaxine and 12% with propranolol in one studyand 22% of patients reported side effects (with none discontinuing treatment) in the other, which was similar to the other medications. It should be noted that a withdrawal syndrome with venlafaxine can complicate its use clinically.
 
 ---
 
-### Venlafaxine (venlafaxine hydrochloride) [^e144467a]. FDA (2025). Medium credibility.
+### Venlafaxine (venlafaxine hydrochloride) [^116ky9Wy]. FDA (2025). Medium credibility.
 
 5.5 Discontinuation of Treatment with Venlafaxine Extended-Release Tablets
 
@@ -1005,13 +1005,13 @@ Patients should be monitored for these symptoms when discontinuing treatment wit
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^9f25ee06]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^1154wmjs]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Benign paroxysmal positional vertigo (BPPV) outcome assessment — Clinicians should reassess patients within 1 month after an initial period of observation or treatment to document resolution or persistence of symptoms, with the policy level designated as Recommendation. The action statement profile characterizes aggregate evidence quality as Grade C and the level of confidence in evidence as Medium, notes the role of patient preferences as Small, and reports no exceptions. Intentional vagueness clarifies that reassessment may include phone calls or other methods to document outcome, and the benefits-harm assessment indicates a preponderance of benefit over harm.
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^a60e4419]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^115FBjhr]. Brain (2022). Medium credibility.
 
 The main preventative treatment options include flunarizine, propranolol, tricyclics, sodium valproate, low-dose topiramate (25 mg twice daily) and venlafaxine, which have all shown benefit in before-and-after analyses in VM and are established treatments for migraine headache.
 
@@ -1019,7 +1019,7 @@ Flunarizine 10 mg daily is the only treatment that has demonstrated benefit (for
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^c191ed3d]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^115wydGg]. Brain (2022). Medium credibility.
 
 Preventative treatment
 
@@ -1029,7 +1029,7 @@ Pharmacological treatment
 
 ---
 
-### Paroxetine, a selective serotonin reuptake inhibitor, reduces depressive symptoms and subjective handicaps in patients with dizziness [^9bfa05cf]. Otology & Neurotology (2004). Low credibility.
+### Paroxetine, a selective serotonin reuptake inhibitor, reduces depressive symptoms and subjective handicaps in patients with dizziness [^114zF4Wr]. Otology & Neurotology (2004). Low credibility.
 
 Objective and Study Design
 
@@ -1049,7 +1049,7 @@ In the treatment of dizzy patients, paroxetine was effective at relieving subjec
 
 ---
 
-### Venlafaxine hydrochloride (Effexor) [^e8a56549]. FDA (2023). Medium credibility.
+### Venlafaxine hydrochloride (Effexor) [^116wugYg]. FDA (2023). Medium credibility.
 
 5.7	Discontinuation Syndrome
 
@@ -1067,7 +1067,7 @@ Cases of seizure have been reported with venlafaxine therapy. Effexor XR has not
 
 ---
 
-### Assessing the synergistic effectiveness of intermittent theta burst stimulation and the vestibular ocular reflex rehabilitation protocol in the treatment of mal de debarquement syndrome: a randomised controlled trial [^0c0e5415]. Journal of Neurology (2024). Medium credibility.
+### Assessing the synergistic effectiveness of intermittent theta burst stimulation and the vestibular ocular reflex rehabilitation protocol in the treatment of mal de debarquement syndrome: a randomised controlled trial [^111JsfXJ]. Journal of Neurology (2024). Medium credibility.
 
 Introduction
 
@@ -1075,13 +1075,13 @@ Mal de Debarquement Syndrome (MdDS) is a rare central vestibular disorder charac
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^fe9c9863]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^117WUTJS]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Statement 16. Patient outcomes — Clinicians should document resolution, improvement, or worsening of vertigo, tinnitus, and hearing loss and any change in quality of life in patients with Ménière's disease after treatment. Recommendation based on the controlled arms of RCTs, outcomes from RCTs, cohort studies, and observational studies with a preponderance of benefit over harm. Quality improvement opportunity is that tracking outcomes of therapy provides an opportunity for modification of management to optimize outcomes. Aggregate evidence quality is Grade C; level of confidence in evidence is Medium due to Grade C evidence. Benefits are opportunity to adjust for more effective therapy, possibility of more accurate diagnosis, opportunity for hearing rehabilitation, and patient engagement; risks, harms, and costs are cost and time of visits. Benefit-harm assessment is preponderance of benefit over harms; policy level is Recommendation. Intentional vagueness is that the word symptoms can refer to vertigo, hearing loss, tinnitus, or pressure depending on what is of most concern to the patient; the role of patient preferences is Medium, as some patients with subjectively adequate disease control may choose not to follow up.
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^99399ef9]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^114vATfW]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Agreements and disagreements with other studies or reviews
 
@@ -1093,13 +1093,13 @@ Another recent systematic review evaluated the use of pharmacological (and non�
 
 ---
 
-### VA / DoD clinical practice guideline for management of posttraumatic stress disorder and acute stress disorder [^bdef2532]. DoD/VA (2023). High credibility.
+### VA / DoD clinical practice guideline for management of posttraumatic stress disorder and acute stress disorder [^115razBs]. DoD/VA (2023). High credibility.
 
 Appendix B: Pharmacotherapy — antidepressants monotherapy dosing for posttraumatic stress disorder (PTSD) lists dosing and key safety points. Paroxetine immediate release (IR) is initiated at 10–20 mg daily and controlled release (CR) at 12.5 mg daily, with dose ranges of 20–50 mg daily and 12.5–50 mg. Sertraline is initiated at 25–50 mg daily with a 50–200 mg daily range. Venlafaxine IR starts at 25 mg 2 or 3 times a day and extended release (XR) at 37.5 mg daily, with dose ranges of 75–375 mg in 2–3 divided doses and 75–300 mg once daily. All antidepressants have a Black Box warning for increased risk of suicidality in children and young adults (≤ 24 years) in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Avoid abrupt discontinuation; withdrawal symptoms can occur with sudden discontinuation of selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs), paroxetine and venlafaxine in particular. Paroxetine and sertraline have FDA indications for treating PTSD. Common adverse effects of the SSRIs and SNRIs include nausea, headache, diarrhea, nervousness, sexual dysfunction, dizziness. Hyponatremia or syndrome of inappropriate antidiuretic hormone (SIADH) can occur; risk is elevated in patients > 65 years. Venlafaxine can elevate blood pressure; caution is advised with patients with hypertension. Serotonin syndrome can occur, especially with concomitant medications that affect serotonin.
 
 ---
 
-### Pharmacological interventions for prophylaxis of vestibular migraine [^76d88925]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for prophylaxis of vestibular migraine [^1143CGi8]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Quality of the evidence
 
@@ -1113,7 +1113,7 @@ As described above, we also had some concerns over the methods used to assess so
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^39c4812f]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^112UeJHL]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Sensitivity analysis
 
@@ -1132,7 +1132,7 @@ We did conduct one sensitivity analysis that was not pre‐specified in our prot
 
 ---
 
-### Vestibular migraine treatment: a comprehensive practical review [^c8dbbaba]. Brain (2022). Medium credibility.
+### Vestibular migraine treatment: a comprehensive practical review [^1168nL33]. Brain (2022). Medium credibility.
 
 Beta-blockers
 
@@ -1140,7 +1140,7 @@ Beta-blockers are commonly used for migraine treatment, although the mechanism o
 
 ---
 
-### Venlafaxine hydrochloride [^8f884189]. FDA (2025). Medium credibility.
+### Venlafaxine hydrochloride [^114fnznC]. FDA (2025). Medium credibility.
 
 5.7 Discontinuation Syndrome
 
@@ -1158,19 +1158,19 @@ Cases of seizure have been reported with venlafaxine therapy. venlafaxine hydroc
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^bf822e41]. Academic Emergency Medicine (2023). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^115tvMx4]. Academic Emergency Medicine (2023). High credibility.
 
 Selection of outcomes of interest — each subcommittee chose outcomes judged most important by the writing group including the three patient representatives; for the three diagnostic questions the outcomes related to accurate diagnosis, and for the fourth and fifth therapy questions the outcomes focused on symptom relief and other markers of improvement.
 
 ---
 
-### The 2023 nonhormone therapy position statement of the North American Menopause Society [^0bdc33a0]. Menopause (2023). High credibility.
+### The 2023 nonhormone therapy position statement of the North American Menopause Society [^111JapyV]. Menopause (2023). High credibility.
 
 Clonidine — comparative benefit, adverse effects, and recommendation: Clonidine has been shown to be modestly more beneficial than placebo but less beneficial than SSRIs, SNRIs, and gabapentin in reducing VMS; it is used infrequently because of adverse effects such as hypotension, lightheadedness, headache, dry mouth, dizziness, sedation, and constipation, and sudden cessation can lead to significant elevations in blood pressure. Because other therapies are more effective with fewer adverse effects, clonidine is not recommended (Levels I-III; not recommended).
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^82dd23fe]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^114M1foT]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -1182,7 +1182,7 @@ The diagnosis of Ménière's disease is challenging, due to the episodic nature 
 
 ---
 
-### Update on the pharmacotherapy of cerebellar and central vestibular disorders [^0b0e949a]. Journal of Neurology (2016). Low credibility.
+### Update on the pharmacotherapy of cerebellar and central vestibular disorders [^111HPm9j]. Journal of Neurology (2016). Low credibility.
 
 Vestibular migraine
 
@@ -1192,13 +1192,13 @@ Several drugs are widely used for vestibular migraine either for the attacks or 
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^e12d079c]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^116kqLf5]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Financial disclosure and conflicts of interest — support and management procedures included full coverage of development costs by the AAO-HNSF, systematic conflict tracking over the past 5 years, and explicit conditions for panelists with potential conflicts. Individuals could remain if they (1) reminded the panel of any potential conflicts before related discussion, (2) recused themselves from related discussion if asked, and (3) agreed not to discuss the guideline with industry before publication; panelists were also reminded that conflicts extend beyond financial relationships.
 
 ---
 
-### Venlafaxine hydrochloride [^6c08d5fa]. FDA (2024). Medium credibility.
+### Venlafaxine hydrochloride [^113mAda9]. FDA (2024). Medium credibility.
 
 During marketing of venlafaxine hydrochloride extended-release capsules, other SNRIs, and SSRIs, there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures. While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 
@@ -1210,7 +1210,7 @@ Seizures have occurred with venlafaxine therapy. Venlafaxine hydrochloride exten
 
 ---
 
-### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^e4fd736c]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Pharmacological interventions for persistent postural-perceptual dizziness (PPPD) [^116rVJsd]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Types of outcome measures
 
@@ -1240,13 +1240,13 @@ Other adverse effects Measured as the number of participants who experienced at 
 
 ---
 
-### Current validated medical treatments: pharmacologic interventions [^5cdd3c12]. Otolaryngologic Clinics of North America (2020). Medium credibility.
+### Current validated medical treatments: pharmacologic interventions [^113NgAvd]. Otolaryngologic Clinics of North America (2020). Medium credibility.
 
 The search for an effective medication that will eliminate tinnitus has a long history. Currently, no drugs exist that universally cure tinnitus. Pharmacologic interventions that have been investigated can be divided into those that attempt to eliminate the perception of tinnitus, and those that are designed to treat the negative comorbidities associated with tinnitus, thereby mitigating tinnitus' negative impact on quality of life. A third category of drugs can also be considered that addresses an identified pathologic condition that has tinnitus as an associated symptom (for example, Meniere's disease, otosclerosis, migraine-associated vertigo). This third category is not addressed.
 
 ---
 
-### Non-pharmacological interventions for prophylaxis of vestibular migraine [^92cbb3df]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Non-pharmacological interventions for prophylaxis of vestibular migraine [^114kdcbG]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 1. Improvement in vertigo
 
@@ -1288,7 +1288,7 @@ All three studies assessed this outcome using the Dizziness Handicap Inventory (
 
 ---
 
-### Antimigraine and antidepressant drug coprescription and serotonin syndrome… [^50ec4329]. JAMA Network (2018). Excellent credibility.
+### Antimigraine and antidepressant drug coprescription and serotonin syndrome… [^1134yNJk]. JAMA Network (2018). Excellent credibility.
 
 The proportion of patients with triptan prescriptions who were coprescribed an SSRI or SNRI antidepressant was relatively stable during the study, ranging from 21% to 29%. Conclusions and Relevance The risk of serotonin syndrome associated with concomitant use of triptans and SSRIs or SNRIs was low. Coprescription of these drugs is common and did not decrease after the 2006 FDA advisory. Our results cast doubt on the validity of the FDA advisory and suggest that it should be reconsidered. It causes a constellation of features, including tachycardia, unstable blood pressure, hyperthermia, nausea, vomiting, and diarrhea. Severity varies, but it can be fatal. 3 The FDA advisory was based on a small number of case reports. Doubts exist about whether these cases actually met criteria for the disorder. 4, 5 A position paper by the American Headache Society questioned the basis for the advisory and noted conflicting and insufficient information to discern the risk.
 6.
@@ -1300,7 +1300,7 @@ In one study, 13 serotonin syndrome was diagnosed in 14% of patients with SSRI o
 
 ---
 
-### Fluoxetine hydrochloride (fluoxetine) [^f6df268a]. FDA (2025). Medium credibility.
+### Fluoxetine hydrochloride (fluoxetine) [^117JzueZ]. FDA (2025). Medium credibility.
 
 5.15 Discontinuation Adverse Reactions
 
@@ -1318,7 +1318,7 @@ It is important for prescribers to inquire about sexual function prior to initia
 
 ---
 
-### Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) for the prevention of migraine in adults [^f4f5fec5]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) for the prevention of migraine in adults [^117GAc8k]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -1350,13 +1350,13 @@ Since the last version of this review, the new included studies have not added h
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^5b5f5787]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^113LTu4A]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Regarding follow-up and surveillance for dizziness and vertigo, more specifically with respect to vestibular rehabilitation (AAO-HNSF), AAO-HNS 2017 guidelines recommend to consider offering vestibular rehabilitation, either self-administered or administered by a clinician, in the treatment of patients with benign paroxysmal positional vertigo.
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^5431048b]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^1139pRce]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -1380,13 +1380,13 @@ The evidence for systemic pharmacological interventions for Ménière's disease 
 
 ---
 
-### ACR appropriateness criteriaHearing loss and / or Vertigo [^afc8d454]. Journal of the American College of Radiology (2018). Medium credibility.
+### ACR appropriateness criteriaHearing loss and / or Vertigo [^115VcHnj]. Journal of the American College of Radiology (2018). Medium credibility.
 
 Regarding diagnostic investigations for dizziness and vertigo, more specifically with respect to diagnostic imaging (persistent vertigo), ACR 2018 guidelines recommend to obtain head and internal auditory canal MRI in patients with persistent vertigo with or without neurological symptoms (central vertigo).
 
 ---
 
-### Pharmacotherapy of vestibular and ocular motor disorders, including nystagmus [^2ef63728]. Journal of Neurology (2011). Low credibility.
+### Pharmacotherapy of vestibular and ocular motor disorders, including nystagmus [^112Cd8dM]. Journal of Neurology (2011). Low credibility.
 
 Central vestibular disorders
 
@@ -1398,7 +1398,7 @@ In summary, the pharmacotherapy of vestibular migraine has not yet been evaluate
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^30c834e9]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^112FKesJ]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Subgroup analysis and investigation of heterogeneity
 
@@ -1413,13 +1413,13 @@ However, due to the paucity of data available, and the few meta‐analyses inclu
 
 ---
 
-### Migrainous vertigo, tinnitus, and ear symptoms and alternatives [^170948e3]. Otolaryngologic Clinics of North America (2022). Medium credibility.
+### Migrainous vertigo, tinnitus, and ear symptoms and alternatives [^111b9qN2]. Otolaryngologic Clinics of North America (2022). Medium credibility.
 
 Migraine headaches frequently coexist with vestibular symptoms such as vertigo, motion sickness, and gait instability. Migraine-related vasospasm can also damage the inner ear, which results in symptoms such as sudden sensorineural hearing loss and resultant tinnitus. The pathophysiology of these symptoms is not yet fully understood, and despite their prevalence, there is no universally approved management. This review summarizes the data on complementary and integrative medicine in treating patients with migrainous ear disorders.
 
 ---
 
-### Rizatriptan vs placebo for attacks of vestibular migraine: a randomized clinical trial [^a0df7c58]. JAMA Neurology (2025). High credibility.
+### Rizatriptan vs placebo for attacks of vestibular migraine: a randomized clinical trial [^1157W5wd]. JAMA Neurology (2025). High credibility.
 
 Importance
 
@@ -1455,19 +1455,19 @@ ClinicalTrials.gov Identifier: NCT02447991.
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^384d7d5d]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^112SULQL]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Regarding diagnostic investigations for dizziness and vertigo, more specifically with respect to vestibular function testing (AAO-HNSF), AAO-HNS 2017 guidelines recommend to do not obtain routine vestibular testing in patients meeting diagnostic criteria for benign paroxysmal positional vertigo without additional vestibular signs and/or symptoms warranting testing.
 
 ---
 
-### Clinical practice guideline: Ménière's disease [^71b45007]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
+### Clinical practice guideline: Ménière's disease [^113uaAcn]. Otolaryngology — Head and Neck Surgery (2020). High credibility.
 
 Action statement attributes — intentional vagueness is None, the role of patient preferences is Large depending on severity of symptoms, exclusions are None, the policy level is Recommendation, and differences of opinion are None.
 
 ---
 
-### Understanding genetic risk factors for common side effects of antidepressant medications [^eb9ad913]. Communications Medicine (2021). Medium credibility.
+### Understanding genetic risk factors for common side effects of antidepressant medications [^1172J6uY]. Communications Medicine (2021). Medium credibility.
 
 Discussion
 
@@ -1477,13 +1477,13 @@ Studies have suggested that SSRI-based sexual dysfunction may result in 40–65%
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^b5bc8bcd]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^115eS6BW]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Figure 4 — hot flash frequency and composite score with nonhormonal prescription therapies for relief of vasomotor symptoms (VMS) — details tolerability, contraindications, and cautions: all of these agents are generally well tolerated, but hypersensitivity or prior adverse drug reactions to each agent represent contraindications; for the SSRIs/SNRIs, prior neuroleptic syndrome, serotonin syndrome, and concurrent use of monoamine oxidase inhibitors are also contraindications; SSRIs/SNRIs should be used with caution in patients with bipolar disease, uncontrolled seizures, hepatic or renal insufficiency, uncontrolled hyponatremia, concurrent use of other SSRIs/SNRIs, or poorly controlled hypertension; these agents uncommonly induce suicidal thoughts within the first few months of treatment and preliminary evidence suggests a possible increase in risk of bone fracture; gabapentin and pregabalin may increase suicidal thoughts and behaviors, cause dizziness or drowsiness, and impair balance and coordination, and pregabalin may impair memory and concentration; clonidine is contraindicated in patients with low blood pressure and may cause lightheadedness, hypotension, headache, and constipation, and sudden cessation of treatment can be associated with significant increases in blood pressure.
 
 ---
 
-### Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) for the prevention of tension-type headache in adults [^2139fdec]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) for the prevention of tension-type headache in adults [^111rG55D]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -1515,19 +1515,19 @@ Since the last version of this review, the new included studies have not added h
 
 ---
 
-### Dizziness [^56a519ab]. The American Journal of Medicine (2018). Low credibility.
+### Dizziness [^113DTPea]. The American Journal of Medicine (2018). Low credibility.
 
 Dizziness is a common symptom encountered by all physicians. Dizziness and related symptoms are frequently linked to 1 or more of a list of contributors that includes benign paroxysmal positional vertigo, Ménière disease, migraine, acute peripheral vestibulopathy, cerebral ischemia, and anxiety disorders. Awareness of these common clinical patterns increases the likelihood of making a rapid, accurate diagnosis.
 
 ---
 
-### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^5722ebc3]. Annals of Internal Medicine (2024). High credibility.
+### 2023 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline for the management of headache [^113EBeqG]. Annals of Internal Medicine (2024). High credibility.
 
 Gabapentin for episodic migraine — trial parameters, efficacy, and adverse events are summarized as follows: In studies using gabapentin at doses ranging between 900–2,400 mg, there was a median 12-week treatment phase (range 12–20 weeks). Regardless of the dose, gabapentin was found to be inefficacious for the treatment of episodic migraine when compared with placebo, and adverse events were higher with gabapentin (68%) versus placebo (57%), including abnormal thinking, somnolence, flu-like syndrome, and dizziness, vertigo or both.
 
 ---
 
-### Systemic pharmacological interventions for Ménière's disease [^f8e4a1f2]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Systemic pharmacological interventions for Ménière's disease [^117Mzj1b]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Why it is important to do this review
 
@@ -1539,6 +1539,6 @@ This review is part of a suite of six that consider different interventions for 
 
 ---
 
-### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^01aa76fc]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
+### Clinical practice guideline: benign paroxysmal positional vertigo (update) [^1113UFCo]. Otolaryngology — Head and Neck Surgery (2017). Medium credibility.
 
 Table 9 — common causes of acute dizziness by timing and triggers categorizes conditions into acute vestibular syndrome, triggered episodic vestibular syndrome, spontaneous episodic vestibular syndrome, and chronic vestibular syndrome. Definitions specify: acute vestibular syndrome is acute persistent continuous dizziness lasting days to weeks and usually associated with nausea, vomiting, and intolerance to head motion; triggered episodic vestibular syndrome is episodic dizziness triggered by specific and obligate actions, usually a change in head or body position, with episodes that generally last < 1 minute; spontaneous episodic vestibular syndrome is episodic dizziness that is not triggered and that can last minutes to hours; chronic vestibular syndrome is dizziness lasting weeks to months or longer. Representative causes include: acute vestibular syndrome — vestibular neuritis, labyrinthitis, posterior circulation stroke, demyelinating diseases, posttraumatic vertigo; triggered episodic vestibular syndrome — benign paroxysmal positional vertigo, postural hypotension, perilymph fistula, superior canal dehiscence syndrome, vertebrobasilar insufficiency, central paroxysmal positional vertigo; spontaneous episodic vestibular syndrome — vestibular migraine, Ménière's disease, posterior circulation transient ischemic attack, medication side effects, anxiety or panic disorder; and chronic vestibular syndrome — anxiety or panic disorder, medication side effects, posttraumatic vertigo, posterior fossa mass lesions, cervicogenic vertigo (variable).

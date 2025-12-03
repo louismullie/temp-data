@@ -21,7 +21,7 @@ D. P increases by a factor of 4.
 
 > Let's see… What do we have here? The user is asking how the pressure of an ideal gas changes when the temperature is doubled and the volume is increased by a factor of 8, and which answer choice matches that result. Let's break this down step-by-step. First, I need to think about the ideal gas law and how to set up the before-and-after states. Then, I should verify the proportional relationships and compute the net effect on pressure. Next, I will double-check the arithmetic and make sure I'm not missing a factor. Finally, I will map the result to the answer choices and confirm the correct option with a quick sanity check.
 
-> Let me first confirm the governing equation. For an ideal gas, the ideal gas law states PV = nRT, where P is pressure, V is volume, T is absolute temperature, n is the number of moles, and R is the gas constant. Since n and R are constant here, I can write the relationship as P ∝ T/V, which means pressure is directly proportional to temperature and inversely proportional to volume [^01092705].
+> Let me first confirm the governing equation. For an ideal gas, the ideal gas law states PV = nRT, where P is pressure, V is volume, T is absolute temperature, n is the number of moles, and R is the gas constant. Since n and R are constant here, I can write the relationship as P ∝ T/V, which means pressure is directly proportional to temperature and inversely proportional to volume [^1112Y4ax].
 
 > Now, I will set up the initial and final states. Initially, let the pressure be P1, the volume be V1, and the temperature be T1. After the changes, the temperature becomes T2 = 2 × T1 and the volume becomes V2 = 8 × V1. I need to find the new pressure P2 in terms of P1 [^notfound].
 
@@ -31,7 +31,7 @@ D. P increases by a factor of 4.
 
 > I should now match this to the choices. The pressure decreases by a factor of 4, which corresponds to option B. Options A, C, and D do not match this calculation, so they can be excluded [^notfound].
 
-> Hold on, I should double-check the logic one more time to ensure I'm not overlooking anything. The derivation assumes constant moles of gas and ideal behavior, which is consistent with the problem statement. No additional constraints or non-ideal effects are introduced, so the proportional reasoning stands and the answer is robust [^01092705].
+> Hold on, I should double-check the logic one more time to ensure I'm not overlooking anything. The derivation assumes constant moles of gas and ideal behavior, which is consistent with the problem statement. No additional constraints or non-ideal effects are introduced, so the proportional reasoning stands and the answer is robust [^1112Y4ax].
 
 ---
 
@@ -105,7 +105,7 @@ The correct answer is **B. P decreases by a factor of 4**.
 
 ## References
 
-### ARTP statement on pulmonary function testing 2020 [^6326b110]. BMJ Open Respiratory Research (2020). High credibility.
+### ARTP statement on pulmonary function testing 2020 [^113Xzmg3]. BMJ Open Respiratory Research (2020). High credibility.
 
 Measurement of lung volumes: whole body plethysmography
 
@@ -117,7 +117,7 @@ Determination of TGV is possible if the lungs can be treated as a closed compart
 
 ---
 
-### Pediatric endotracheal tube cuff management at altitude: implications for aeromedical retrieval and other austere environments [^055332de]. Paediatric Anaesthesia (2025). Medium credibility.
+### Pediatric endotracheal tube cuff management at altitude: implications for aeromedical retrieval and other austere environments [^1118ttFX]. Paediatric Anaesthesia (2025). Medium credibility.
 
 5 Temperature Effects
 
@@ -127,7 +127,7 @@ Air may be treated as an ideal gas at clinically relevant temperatures and press
 
 ---
 
-### A universal entropic pulling force caused by binding [^b1085409]. Nature Communications (2025). High credibility.
+### A universal entropic pulling force caused by binding [^115XTc8Q]. Nature Communications (2025). High credibility.
 
 Introduction
 
@@ -137,13 +137,13 @@ In this work, we report a universal entropic pulling force arising from binding.
 
 ---
 
-### Dynamic void behavior in polymerizing polymethyl methacrylate cement [^862e2fcb]. The Journal of Arthroplasty (2006). Low credibility.
+### Dynamic void behavior in polymerizing polymethyl methacrylate cement [^114RvrYz]. The Journal of Arthroplasty (2006). Low credibility.
 
 Cement mantle voids remain controversial with respect to survival of total hip arthroplasty. Void evolution is poorly understood, and attempts at void manipulation can only be empirical. We induced voids in a cement model simulating the constraints of the proximal femur. Intravoid pressure and temperature were recorded throughout polymerization, and the initial and final void volumes were measured. Temperature-dependent peak intravoid pressures and void volume increases were observed. After solidification, subatmospheric intravoid pressures were observed. The magnitude of these observations could not be explained by the ideal gas law. Partial pressures of the void gas at peak pressures demonstrated a dominant effect of gaseous monomer, thereby suggesting that void growth is a pressure-driven phenomenon resulting from temperature-dependent evaporation of monomer into existing trapped air voids.
 
 ---
 
-### A metafluid with multistable density and internal energy States [^a1462652]. Nature Communications (2022). High credibility.
+### A metafluid with multistable density and internal energy States [^11586Zzq]. Nature Communications (2022). High credibility.
 
 Internal energy
 
@@ -155,13 +155,13 @@ To calculate U gas we assume an ideal gas model, p gas = ρ gas R T. For isother
 
 ---
 
-### Universal equation of state for wave turbulence in a quantum gas [^a476dcf5]. Nature (2023). Excellent credibility.
+### Universal equation of state for wave turbulence in a quantum gas [^115Cptrg]. Nature (2023). Excellent credibility.
 
 Boyle's 1662 observation that the volume of a gas is, at constant temperature, inversely proportional to pressure, offered a prototypical example of how an equation of state (EoS) can succinctly capture key properties of a many-particle system. Such relationships are now cornerstones of equilibrium thermodynamics 1. Extending thermodynamic concepts to far-from-equilibrium systems is of great interest in various contexts, including glasses 2,3, active matter 4–7 and turbulence 8–11, but is in general an open problem. Here, using a homogeneous ultracold atomic Bose gas 12, we experimentally construct an EoS for a turbulent cascade of matter waves 13,14. Under continuous forcing at a large length scale and dissipation at a small one, the gas exhibits a non-thermal, but stationary, state, which is characterized by a power-law momentum distribution 15 sustained by a scale-invariant momentum-space energy flux 16. We establish the amplitude of the momentum distribution and the underlying energy flux as equilibrium-like state variables, related by an EoS that does not depend on the details of the energy injection or dissipation, or on the history of the system. Moreover, we show that the equations of state for a wide range of interaction strengths and gas densities can be empirically scaled onto each other. This results in a universal dimensionless EoS that sets benchmarks for the theory and should also be relevant for other turbulent systems.
 
 ---
 
-### ARTP statement on pulmonary function testing 2020 [^05e9b604]. BMJ Open Respiratory Research (2020). High credibility.
+### ARTP statement on pulmonary function testing 2020 [^1119mSU3]. BMJ Open Respiratory Research (2020). High credibility.
 
 Calculation of the lung volume subdivisions
 
@@ -208,7 +208,7 @@ Flow (V̇) is measured at the mouth or via a transmural port which when integrat
 
 ---
 
-### Oxygen, helium (COMPRESSED gas, N.O.S.) [^e5a43215]. FDA (2024). Medium credibility.
+### Oxygen, helium (COMPRESSED gas, N.O.S.) [^116sTKKi]. FDA (2024). Medium credibility.
 
 the supervision of a licensed practitioner who is experienced in the use and administration of gas
 
@@ -250,7 +250,7 @@ res
 
 ---
 
-### Volume-guaranteed pressure-support ventilation facing acute changes in ventilatory demand [^7bd8e598]. Intensive Care Medicine (2005). Low credibility.
+### Volume-guaranteed pressure-support ventilation facing acute changes in ventilatory demand [^114AcL9u]. Intensive Care Medicine (2005). Low credibility.
 
 Objective
 
@@ -274,7 +274,7 @@ With a fixed level of VSV, but not of PSV, an increase in ventilatory demand res
 
 ---
 
-### ARTP statement on pulmonary function testing 2020 [^12095118]. BMJ Open Respiratory Research (2020). High credibility.
+### ARTP statement on pulmonary function testing 2020 [^111TjuaX]. BMJ Open Respiratory Research (2020). High credibility.
 
 Pressure-volume changes in the body are isothermal
 
@@ -288,13 +288,13 @@ Stiff lungs (low compliance) with a low resistance will therefore have a short �
 
 ---
 
-### Quasi-equilibrium phase coexistence in single component supercritical fluids [^63cf0649]. Nature Communications (2021). High credibility.
+### Quasi-equilibrium phase coexistence in single component supercritical fluids [^113YyK4c]. Nature Communications (2021). High credibility.
 
 In their supercritical state simple fluids are generally thought to assume a homogeneous phase throughout all combinations of pressures and temperatures, although various response functions or transport properties may exhibit anomalous behavior, characterizing a state point as either more gas-like or liquid-like, respectively. While a large body of results has been compiled in the last two decades regarding the details of the supercritical phase in thermodynamic equilibrium, far less studies have been dedicated to out-of-equilibrium situations that nevertheless occur along with the handling of substances such as carbon dioxide or Argon. Here we consider successive compression-expansion cycles of equal amounts of Argon injected into a high-pressure chamber, traversing the critical pressure at two times the critical temperature. Due to expansion cooling, the fluid temporarily becomes sub-critical, and light scattering experiments show the formation of sub-micron-sized droplets and nanometer-scale clusters, both of which are distinct from spontaneous density fluctuations of the supercritical background and persist for a surprisingly long time. A kinetic rate model of the exchange of liquid droplets with the smaller clusters can explain this behavior. Our results indicate non-equilibrium aspects of supercritical fluids that may prove important for their processing in industrial applications.
 
 ---
 
-### How I optimize power to avoid VILI [^625c5198]. Critical Care (2019). Medium credibility.
+### How I optimize power to avoid VILI [^113Wpo8b]. Critical Care (2019). Medium credibility.
 
 Rationale
 
@@ -306,7 +306,7 @@ The total inflation energy of each tidal cycle is expended in overcoming flow re
 
 ---
 
-### Dimension-reconfigurable bubble film nanochannel for wetting based sensing [^01092705]. Nature Communications (2020). High credibility.
+### Dimension-reconfigurable bubble film nanochannel for wetting based sensing [^1112Y4ax]. Nature Communications (2020). High credibility.
 
 The film thickness is also expected to be pH-dependent, as a higher pH value increases surface charge density and hence the electrostatic contribution to the disjoining pressure. We characterized the conductance of the film nanochannel per unit length for pH values ranging from 8.5 to 3, similar as above. The results in Fig. 3c demonstrate for a 10-mM KCl solution that the conductance decreases nearly an order of magnitude in this pH range, as well as the calculated channel height in Fig. 3d (32 nm to 10 nm). The lowest pH value is close to the isoelectric point of both glass surface (pH 2.8 ± 0.2) and air/water surface (pH3.0 ± 0.5), where both interfaces are nearly electroneutral.
 
@@ -314,7 +314,7 @@ Besides the height, the length of the film channel can be adjusted, as a compres
 
 ---
 
-### The effects of temperature on nitrous oxide and oxygen mixture homogeneity and stability [^169f335a]. BMC Anesthesiology (2010). Low credibility.
+### The effects of temperature on nitrous oxide and oxygen mixture homogeneity and stability [^111aYCgH]. BMC Anesthesiology (2010). Low credibility.
 
 Homogeneity and Stability
 
@@ -324,7 +324,7 @@ One of the concerns about nitrous oxide and oxygen mixtures was effect of adiaba
 
 ---
 
-### Thermodynamics of freezing and melting [^b0f92715]. Nature Communications (2016). Medium credibility.
+### Thermodynamics of freezing and melting [^115XNWV2]. Nature Communications (2016). Medium credibility.
 
 Along an isomorph the structure is invariant in the reduced-unit system definedby the length unit ρ −1/3 (ρ ≡ N / V is the number density and V is the system volume), the energy unit k B T (T is the temperature) and the time unit(m is the particle mass). Figure 1b shows the LJ liquid's static structure factor S (q) along an isomorph close to the freezing line (used below as the liquid-state reference isomorph) plotted for a range of temperatures. A comparison with Fig. 1a confirms the recent finding of Heyes and Brankathat the freezing line is not an exact isomorph, although it is close to one.
 
@@ -332,25 +332,25 @@ The melting pressure as a function of temperature, p m (T), can be predicted fro
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^508304b2]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^1134N1zH]. Academic Emergency Medicine (2012). Medium credibility.
 
 Respiratory distress — prehospital ventilator initial settings specify: tidal volume 6–8 mL/kg ideal body weight with the directive to "Use 6–8 mL/kg as a starting point" and that "Patients with known acidosis should start with 9 mL/kg"; respiratory rate 12–14 (or 8–12) breaths/min with "Adjust for target minute ventilation based on EtCO2"; inspiratory time 1 second with "Adjust 0.7–1.2 seconds to maintain desired I:E ratio… of 1:2"; positive end-expiratory pressure (PEEP) 5 cmH2O; fraction of inspired oxygen (FiO2) 60% with "Titrate to achieve target O2 saturation (94–98%)"; and sensitivity -2 cmH2O. Additional setup includes "Set the heat moisture exchange (HME) at circuit Y" and "Plateau pressure (PPlat) goal is less than 30 cmH2O".
 
 ---
 
-### Fundamental principles and applications of natural gas hydrates [^a8ed7ddf]. Nature (2003). Excellent credibility.
+### Fundamental principles and applications of natural gas hydrates [^115KSh4A]. Nature (2003). Excellent credibility.
 
 Natural gas hydrates are solid, non-stoichiometric compounds of small gas molecules and water. They form when the constituents come into contact at low temperature and high pressure. The physical properties of these compounds, most notably that they are non-flowing crystalline solids that are denser than typical fluid hydrocarbons and that the gas molecules they contain are effectively compressed, give rise to numerous applications in the broad areas of energy and climate effects. In particular, they have an important bearing on flow assurance and safety issues in oil and gas pipelines, they offer a largely unexploited means of energy recovery and transportation, and they could play a significant role in past and future climate change.
 
 ---
 
-### Low tidal volumes for everyone? [^06dafc80]. Chest (2019). Medium credibility.
+### Low tidal volumes for everyone? [^111BAUtX]. Chest (2019). Medium credibility.
 
 Since the first description of mechanical ventilation, our understanding of the positive and negative effects of this form of life support has continued to evolve. To maintain "normal" aeration of the lungs and "normal" blood gas measurements, patients often require much higher airway pressures and tidal volumes than would be expected in a healthy, spontaneously breathing adult. In the early days of mechanical ventilation, the goal was to normalize the blood gas levels, but over the last several decades, we have developed a much better appreciation for the deleterious effects of mechanical ventilation. We have found that lower tidal volumes, which may actually worsen oxygenation and reduce clearance of CO 2, can decrease the level of harm caused by mechanical ventilation. This scenario is best described and agreed upon in the setting of ARDS, but a growing body of evidence suggests that the use of higher tidal volumes is harmful in patients with normal lungs undergoing general anesthesia or in patients with lung diseases other than ARDS requiring mechanical ventilation. Finally, the concept of self-induced lung injury has emerged as a mechanism through which patients generating large negative intrathoracic pressures to achieve larger tidal volumes can contribute to worsened lung injury. Given a growing supportive evidence base, we suggest that efforts be made to achieve low tidal volume ventilation in all patients with lung injury or undergoing mechanical ventilation for any reason.
 
 ---
 
-### Immiscible hydrocarbon fluids in the deep carbon cycle [^3884da67]. Nature Communications (2017). Medium credibility.
+### Immiscible hydrocarbon fluids in the deep carbon cycle [^112SnvyC]. Nature Communications (2017). Medium credibility.
 
 The volumes of the two types of gas bubble are calculated as: (1) the ratio of the volume of the cylindrical top bubble to the volume of the whole cell can be expressed as the ratio of the area of the bubble to the cell (56,486/559,256 = 9.95%) (Supplementary Fig. 4), so the volume of the top bubble is 175,746 μm 3. (2) The estimated volume of the two bottom gas bubbles in pixels 3 was converted into μm 3. By scaling the area of the cell in the picture (567,971 pixel 2) to the surface of the compression chamber (17,671 μm 2), we obtained a conversion factor of 5.669 (pixel per μm). The volume of the two bottom gas bubbles is 4,526,113 pixel 3, that is, 24,843 μm 3. So the total volume of gas bubbles is 200,589 μm 3. Then we used the ideal gas law (equation (6)) to calculate the amount of gas:
 
@@ -358,7 +358,7 @@ where T = 298.15 K (25 °C), R = 8.314 J mol −1 K −1, P = 4.24 MPa, V = 200,
 
 ---
 
-### Carbon dioxide, oxygen (COMPRESSED gas, N.O.S.) [^80fc9ba0]. FDA (2024). Medium credibility.
+### Carbon dioxide, oxygen (COMPRESSED gas, N.O.S.) [^114JEGGf]. FDA (2024). Medium credibility.
 
 Rx only
 
@@ -414,7 +414,7 @@ res
 
 ---
 
-### Hydrogenation of saturated organic and inorganic molecules in metallic hydrogen [^520015e0]. Nature Communications (2025). High credibility.
+### Hydrogenation of saturated organic and inorganic molecules in metallic hydrogen [^1136a1mq]. Nature Communications (2025). High credibility.
 
 Introduction
 
@@ -428,13 +428,13 @@ Chemical bonding is different at high pressure. For example, on Earth, the major
 
 ---
 
-### Gas embolism during endoscopic retrograde cholangiopancreatography: diagnosis and management [^a5fcdc07]. Annals of Gastroenterology (2018). Low credibility.
+### Gas embolism during endoscopic retrograde cholangiopancreatography: diagnosis and management [^115F5tbg]. Annals of Gastroenterology (2018). Low credibility.
 
 Hyperbaric oxygen therapy (HBOT) is recommended in severe cases of air embolism with hemodynamic compromise and neurologic deficits. Hyperbaric oxygen is based on the principle of Boyle's law that surface area and volume of gas bubble is inversely proportional to pressure at constant temperature. HBOT provides 100% oxygen at a pressure above that of the atmosphere at sea level and the partial pressure of arterial oxygen is greater than 2000 mmHg. With increasing ambient pressure from HBOT, the gas bubble shrinks and leads to hyperoxia. Hyperoxia creates diffusion gradient which promotes oxygen into the bubble and nitrogen out of the bubble. Hyperoxia also increases the extent of diffusion of oxygen into the tissues by dissolving large amounts of oxygen into the plasma. HBOT has been shown to decrease cerebral edema by decreasing the adherence of leukocytes to damaged endothelium and by reducing the permeability of blood vessels. The ideal time to initiation of HBOT is not clear, however patients who received HBOT within 5 h from the onset of symptoms are likely to have good recovery. HBOT is generally safe when standard protocol of atmospheric pressure not more than 3 and maximum treatment exposure time of 120 min is used. Most common side effect of HBOT is reversible myopia from direct toxic effect of oxygen on the lens.
 
 ---
 
-### Motility-induced coexistence of a hot liquid and a cold gas [^1d5e6be8]. Nature Communications (2024). High credibility.
+### Motility-induced coexistence of a hot liquid and a cold gas [^111kYMeo]. Nature Communications (2024). High credibility.
 
 Introduction
 
@@ -442,13 +442,13 @@ We are all used to the experience that a gas is often hotter than a liquid of th
 
 ---
 
-### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^65dd3793]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^113c247t]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 ATS/ESICM/SCCM ARDS ventilation — Low tidal volume and plateau pressure limits: We recommend that adult patients with acute respiratory distress syndrome (ARDS) receive ventilation strategies that limit tidal volumes (4–8 ml/kg predicted body weight [PBW]) and inspiratory pressures (plateau pressure < 30 cm H2O) (strong recommendation, moderate confidence in effect estimates). In nine randomized controlled trials (RCTs) including 1,629 patients comparing low tidal volume (LTV) with traditional volumes (10–15 ml/kg PBW), delivered volumes averaged 6.8 ± 1.2 ml/kg PBW versus 11.4 ± 1.1 ml/kg PBW, with no significant mortality difference overall (seven studies, 1,481 patients; RR, 0.87; 95% CI, 0.70–1.08), and no significant differences in barotrauma (three studies, 1,029 patients; RR, 0.96; 95% CI, 0.67–1.37) or ventilator-free days (two studies, 977 patients; 0.3 more VFDs; 95% CI, –5.88 to 5.95). For implementation, the initial tidal volume should be set at 6 ml/kg PBW and can be increased up to 8 ml/kg PBW if the patient is double triggering or if inspiratory airway pressure decreases below PEEP.
 
 ---
 
-### Model predictions of gas embolism growth and reabsorption during xenon anesthesia [^b625473e]. Anesthesiology (2003). Low credibility.
+### Model predictions of gas embolism growth and reabsorption during xenon anesthesia [^115f3GXf]. Anesthesiology (2003). Low credibility.
 
 Background
 
@@ -468,7 +468,7 @@ Xenon anesthesia results in gas exchange conditions that favor bubble growth, wh
 
 ---
 
-### Are we ready to think differently about setting PEEP? [^536e2ea0]. Critical Care (2022). Medium credibility.
+### Are we ready to think differently about setting PEEP? [^1138gyuq]. Critical Care (2022). Medium credibility.
 
 In stark contrast to the undisputed mortality benefit of lower tidal volume ventilation in patients with acute respiratory distress syndrome (ARDS), the best strategy to determine optimal positive end expiratory pressure (PEEP) remains an unresolved question. It is an important question because conventional understanding predicts the right PEEP will maintain recruitment of mechanically unstable alveoli, improving both oxygenation and lung compliance. Improved compliance, combined with lower ventilation volumes, maximizes lung protection by limiting tidal airway pressure changes.
 
@@ -478,25 +478,25 @@ This mechanistic distinction is important. When increasing PEEP does not recruit
 
 ---
 
-### Setting the frequency-tidal volume pattern [^af6796a1]. Respiratory Care (2002). Low credibility.
+### Setting the frequency-tidal volume pattern [^115V3dP6]. Respiratory Care (2002). Low credibility.
 
 Alveolar (and thus arterial) P(O2) and P(CO2) clearly depend on minute ventilation. However, we need to balance gas exchange goals against the risk of overstretching, especially of the healthier regions of the lung. The plateau pressure is probably the best easily-obtained marker of the risk of stretch in the lung, and a commonly quoted threshold is 30–35 cm H(2)O, the normal maximum transalveolar pressure at total lung capacity. In establishing the proper balance of stretch versus gas exchange, we need to address what levels of pH and P(aO2) we consider acceptable. There are no good data to guide us on the lowest tolerable pH, but 7.2 is commonly quoted in the literature, and 7.15 was the lower limit of acceptability in the ARDS (acute respiratory distress syndrome) Network trial. P(O2) levels as low as 55 mm Hg may be well tolerated, provided there is reasonable oxygen delivery. In distributing the desired minute volume between respiratory frequency and tidal volume (V(T)), a V(T) of 6 mL/kg ideal body weight has been shown to improve ARDS outcome, compared to 12 mL/kg. Thus, 6 mL/kg should be the "start point". Adjustments upward could be considered the plateau pressure is acceptable, in order to improve gas exchange or comfort. Conversely, downward adjustments should be considered if the plateau pressure is high and the gas exchange is acceptable. Frequency is adjusted for the desired minute ventilation. It must be recognized, however, that as frequency (and minute ventilation) increases, the risk of air trapping and intrinsic positive end-expiratory pressure (PEEP) increases. Just like applied PEEP, intrinsic PEEP increases the baseline pressure and stretch upon which the V(T) is delivered. The end-inspiratory stretch increases accordingly. The shape and duration of the flow pattern may affect gas mixing, recruitment, cardiac function, intrinsic PEEP buildup, and patient comfort. It is also conceivable that certain flow patterns can produce an acceleration injury. Although small clinical trials using physiologic end points espouse certain flow patterns, there are no good outcome data at present supporting any particular approach. Some authors suggest that high-frequency ventilation (HFV) might be considered an "ultimate" lung-protective strategy. HFV creates considerable intrinsic PEEP, which, when coupled with sustained inflation maneuvers, can provide substantial alveolar recruitment. In addition, the small V(T) of HFV prevents excessive end-inspiratory distention. Although considerable clinical data support the use of HFV in pediatric patients at risk for ventilator-induced lung injury, there are few data from adults. Whether HFV will prove valuable in well-designed open lung strategies in the adult population still has to be determined.
 
 ---
 
-### Microorganism microneedle micro-engine depth drug delivery [^ffab72ed]. Nature Communications (2024). High credibility.
+### Microorganism microneedle micro-engine depth drug delivery [^117Y3RxQ]. Nature Communications (2024). High credibility.
 
 In the gas-assisted drug delivery system, the dynamics of gas diffusion and pressure distribution in the skin microenvironment play a critical role. Specifically, after the gas is injected into the subcutaneous tissue, gas molecules begin to diffuse through the tissue according to Fick's laws of diffusion. The diffusion process is influenced by the structure and composition of the skin, including the stratum corneum, epidermis, and dermis. As observed in our experiments, gas diffusion in the skin exhibits significant lateral diffusion characteristics. This indicates that gas diffuses not only longitudinally (in-depth) but also laterally (in-plane). When gas diffuses subcutaneously, it creates a high-pressure environment in the local area. This pressure can be explained by the volume expansion of the gas and the limited compressibility of skin tissue. According to the ideal gas law, when gas is released in an enclosed or semi-enclosed space (such as subcutaneous tissue), its volume expansion exerts pressure on the surrounding tissue. This pressure acts as a "push" for the drug in the microneedle delivery system, facilitating the drug's penetration into deeper layers of tissue. As mentioned in our previous experimental results, despite the presence of lateral gas diffusion, the local high-pressure area formed around the microneedle puncture point enables the drug to effectively diffuse longitudinally into deeper layers. By controlling the glucose concentration loaded in the microneedles, we can adjust the speed and pressure of gas release, thereby controlling the depth and range of drug diffusion (Fig. 5d, e). The porous structure and complex physiological characteristics of the skin microenvironment make gas diffusion and pressure application somewhat predictable and controllable. By combining Darcy's Lawand Fick's Law, it is theoretically possible to establish a mathematical model for gas and drug diffusion to further understand the pressure effects of gas on drug delivery. This is also a direction worth investing more efforts in the future exploration of gas-driven microneedles.
 
 ---
 
-### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^f854893f]. CDC (2008). Medium credibility.
+### Guideline for disinfection and sterilization in healthcare facilities, 2008 [^117MAKnW]. CDC (2008). Medium credibility.
 
 Steam sterilization — overview and operating parameters — Of all the methods available, moist heat in the form of saturated steam under pressure is the most widely used and most dependable; it is nontoxic, inexpensive, rapidly microbicidal and sporicidal, and rapidly heats and penetrates fabrics, though deleterious effects include increased hardening time (5.6 fold) with plaster-cast. Steam sterilization relies on four parameters — steam, pressure, temperature, and time — and the ideal steam is dry saturated steam with entrained water (dryness fraction ≥ 97%). Common operating temperatures are 121°C (250°F) and 132°C (270°F), and recognized minimum exposure for wrapped healthcare supplies includes 30 minutes at 121°C (250°F) in a gravity displacement system.
 
 ---
 
-### Helium, oxygen (Compressed, n.o.s.) [^e0c97078]. FDA (2021). Medium credibility.
+### Helium, oxygen (Compressed, n.o.s.) [^116kFtUo]. FDA (2021). Medium credibility.
 
 WARNINGS AND PRECAUTIONS SECTION
 
@@ -522,7 +522,7 @@ Read and follow the Safety Data Sheet (SDS) before use.
 
 ---
 
-### ARTP statement on pulmonary function testing 2020 [^18337ec0]. BMJ Open Respiratory Research (2020). High credibility.
+### ARTP statement on pulmonary function testing 2020 [^111cszyD]. BMJ Open Respiratory Research (2020). High credibility.
 
 Measurement of lung volumes: helium dilution
 
@@ -545,13 +545,13 @@ All measurements are made at ambient temperature, pressure and saturated with wa
 
 ---
 
-### Can modern infrared analyzers replace gas chromatography to measure anesthetic vapor concentrations? [^13d86a4c]. BMC Anesthesiology (2008). Low credibility.
+### Can modern infrared analyzers replace gas chromatography to measure anesthetic vapor concentrations? [^111WRTTq]. BMC Anesthesiology (2008). Low credibility.
 
 A flame ionization detector GC (Gow-Mac 580; Gow-Mac, Bethlehem, PA) was used, equipped with a 4.57 m, 22-mm internal diameter column containing 10% SF-96 on WHP, 68/80 mesh, maintained at 43°C with an 8 mL/min N 2 carrier flow. The detector (at 122°C) received H 2 at 20 mL/min and air at 200 mL/min. The GC was calibrated before and at intervals during each test using secondary (cylinder) calibration standards. The same calibration gas (one for each agent) was used throughout the study. The calibration gas comes out of a stainless steel cylinder which contains a known concentration of vapor; for each agent, a different cylinder was prepared. The mixture is prepared by creating a subatmospheric pressure in the cylinder. Next, an amount of liquid agent is aspirated into the cylinder. This amount is calculated such that after vaporization the calculated pressure in the cylinder will remain below the vapor pressure of the agent. The cylinder is then filled/pressurized with air. To mix its contents, the cylinder is rolled several times, and subsequently heated overnight by applying an external heat pad. The exact concentration of this secondary standard is determined by comparing it with a primary volumetric standard using gas chromatography. The primary standard is prepared by injecting a known exact amount of liquid agent (measured by weight or glass micropipette) in a glass Erlenmeyer of known volume, taking the effect of temperature into account. Using this primary standard, it was determined that the concentrations of isoflurane, sevoflurane, and desflurane in the tank was 0.744, 1.49, and 4.20%, respectively. Over the entire course of the study, the peak height with the same calibration gas for isoflurane (0.744%), sevoflurane (1.49%), and desflurane (4.20%) was 54.0 mm (standard deviation 1.1 mm) for isoflurane, 52.2 mm (standard deviation 2.0 mm) for sevoflurane, and 54.1 mm (standard deviation 1.4 mm) for desflurane; the coefficients of variation for isoflurane, sevoflurane, and desflurane therefore were 2.0, 3.8, and 2.6% respectively. These calculations are based on 6 calibrations, 3 before and 3 after measuring each agent for each analyzer (total of 18 per analyzer).
 
 ---
 
-### Molecular determinant of the effects of hydrostatic pressure on protein folding stability [^3ee2080b]. Nature Communications (2017). Medium credibility.
+### Molecular determinant of the effects of hydrostatic pressure on protein folding stability [^112cE9vJ]. Nature Communications (2017). Medium credibility.
 
 Results
 
@@ -567,7 +567,7 @@ In the following section we will discuss the volumetric properties of the native
 
 ---
 
-### "Ideal PEEP" is superior to high dose partial liquid ventilation with low PEEP in experimental acute lung injury [^b9fdb229]. Intensive Care Medicine (2001). Low credibility.
+### "Ideal PEEP" is superior to high dose partial liquid ventilation with low PEEP in experimental acute lung injury [^115kjvXi]. Intensive Care Medicine (2001). Low credibility.
 
 Objective
 
@@ -591,7 +591,7 @@ In this porcine model of ALI, vcMV with a PEEP level of 1 cmH(2)O above the LIP 
 
 ---
 
-### High-velocity nasal insufflation versus noninvasive positive pressure ventilation for moderate acute exacerbation of chronic obstructive pulmonary disease in the emergency department: a randomized clinical trial [^3739cc33]. Academic Emergency Medicine (2025). Medium credibility.
+### High-velocity nasal insufflation versus noninvasive positive pressure ventilation for moderate acute exacerbation of chronic obstructive pulmonary disease in the emergency department: a randomized clinical trial [^112QsjVL]. Academic Emergency Medicine (2025). Medium credibility.
 
 Procedures
 
@@ -599,19 +599,19 @@ Hospital respiratory therapists who were not a part of the study initiated all t
 
 ---
 
-### Calorimetry of a bose-einstein-condensed photon gas [^bd76be95]. Nature Communications (2016). Medium credibility.
+### Calorimetry of a bose-einstein-condensed photon gas [^115qtYbE]. Nature Communications (2016). Medium credibility.
 
 Phase transitions, as the condensation of a gas to a liquid, are often revealed by a discontinuous behaviour of thermodynamic quantities. For liquid helium, for example, a divergence of the specific heat signals the transition from the normal fluid to the superfluid state. Apart from liquid helium, determining the specific heat of a Bose gas has proven to be a challenging task, for example, for ultracold atomic Bose gases. Here we examine the thermodynamic behaviour of a trapped two-dimensional photon gas, a system that allows us to spectroscopically determine the specific heat and the entropy of a nearly ideal Bose gas from the classical high temperature to the Bose-condensed quantum regime. The critical behaviour at the phase transition is clearly revealed by a cusp singularity of the specific heat. Regarded as a test of quantum statistical mechanics, our results demonstrate a quantitative agreement with its predictions at the microscopic level.
 
 ---
 
-### Impact of tides and sea-level on deep-sea arctic methane emissions [^acccd070]. Nature Communications (2020). High credibility.
+### Impact of tides and sea-level on deep-sea arctic methane emissions [^115RBfaF]. Nature Communications (2020). High credibility.
 
 Sub-sea Arctic methane and gas hydrate reservoirs are expected to be severely impacted by ocean temperature increase and sea-level rise. Our understanding of the gas emission phenomenon in the Arctic is however partial, especially in deep environments where the access is difficult and hydro-acoustic surveys are sporadic. Here, we report on the first continuous pore-pressure and temperature measurements over 4 days in shallow sediments along the west-Svalbard margin. Our data from sites where gas emissions have not been previously identified in hydro-acoustic profiles show that tides significantly affect the intensity and periodicity of gas emissions. These observations imply that the quantification of present-day gas emissions in the Arctic may be underestimated. High tides, however, seem to influence gas emissions by reducing their height and volume. Hence, the question remains as to whether sea-level rise may partially counterbalance the potential threat of submarine gas emissions caused by a warmer Arctic Ocean.
 
 ---
 
-### Ventilation with lower tidal volumes as compared with conventional tidal volumes for patients without acute lung injury: a preventive randomized controlled trial [^6e910115]. Critical Care (2010). Low credibility.
+### Ventilation with lower tidal volumes as compared with conventional tidal volumes for patients without acute lung injury: a preventive randomized controlled trial [^113pvLui]. Critical Care (2010). Low credibility.
 
 Interventions
 
@@ -625,19 +625,19 @@ Lung injury was diagnosed if a patient met the consensus criteria. If it was dia
 
 ---
 
-### Setting and titrating positive end-expiratory pressure [^585b7092]. Chest (2022). Medium credibility.
+### Setting and titrating positive end-expiratory pressure [^113FzdBw]. Chest (2022). Medium credibility.
 
 Although maintaining some amount of positive end-expiratory pressure (PEEP) seems essential, selecting and titrating a specific level for patients with ARDS remains challenging despite extensive research on the subject. Although an "open lung" approach to ventilation is popular and has some degree of biological plausibility, it is not without risk. Furthermore, there is no clear evidence-based guidance regarding initial PEEP settings or how to titrate them early in the course of the illness. Many busy clinicians use a "one-size-fits-all" approach based on local medical culture, but an individualized approach has the potential to offer significant benefit. Here we present a pragmatic approach based on simple measurements available on all ventilators, focused on achieving balance between the potential risks and benefits of PEEP. Acknowledging "best PEEP" as an impossible goal, we aim for a straightforward method to achieve "better PEEP".
 
 ---
 
-### On the parameters affecting the sensitivity of MR measures of pressure with microbubbles [^dcfe5ce5]. Magnetic Resonance in Medicine (2002). Low credibility.
+### On the parameters affecting the sensitivity of MR measures of pressure with microbubbles [^116ediPN]. Magnetic Resonance in Medicine (2002). Low credibility.
 
 Recently, it has been suggested that gas encapsulated distensible microbubbles may serve as pressure probes in the MR field through the relationship between bubble size and 1/T(2) or 1/T(*)(2). Currently, in vivo application of this technique is hindered by the ability of T(2) or T(*)(2) to detect pressure changes that are clinically relevant. This work identifies and characterizes, through numerical simulations, the set of parameters which optimize the ability of this technique to detect small pressure changes. Results show that when the bubbles do not interact magnetically, the T(2)- and T(*)(2)-based measurements of pressure are strongly influenced by the bubble size at atmospheric pressure, static magnetic field strength, magnitude of the susceptibility difference between the encapsulated gas and plasma, bubble volume fraction, and the refocusing interval. In particular, to detect clinically relevant pressure changes, microbubbles need to be approximately 2–3 microm in radius, distributed at a volume fraction of 0.15%, and have a volumetric magnetic susceptibility difference of at least 34 ppm.
 
 ---
 
-### Volumetric capnography: lessons from the past and current clinical applications [^8a62c4fb]. Critical Care (2016). Low credibility.
+### Volumetric capnography: lessons from the past and current clinical applications [^114YAU5G]. Critical Care (2016). Low credibility.
 
 Definitions
 
@@ -650,7 +650,7 @@ In the clinical context, VDalv typically arises through two general processes. T
 
 ---
 
-### The footprint of column collapse regimes on pyroclastic flow temperatures and plume heights [^aeff637c]. Nature Communications (2019). High credibility.
+### The footprint of column collapse regimes on pyroclastic flow temperatures and plume heights [^115USdQX]. Nature Communications (2019). High credibility.
 
 Thermodynamic constraints for collapsing mixtures
 
@@ -658,13 +658,13 @@ To better understand the mechanism of temperature drop due to mixing with atmosp
 
 ---
 
-### Size limits the formation of liquid jets during bubble bursting [^323c30dd]. Nature Communications (2011). Medium credibility.
+### Size limits the formation of liquid jets during bubble bursting [^112HUbhn]. Nature Communications (2011). Medium credibility.
 
 The rapid rupture dynamics deforms a spherical bubble to a cone shape prior to jet formation, as usually observed. The cone shape implies a significant partial gas ejection from the deformed bubble into the atmosphere, causing a large volume shrinkage, Δ V = V 0 − V g where V 0 is the initial gas volume and V g is the gas volume at jet formation. The partial gas ejection can be significantly enhanced as the pressure difference, Δ p = 2 σ / R, increases. From literature for bubble bursting, the gas volume (V g) versus the initial radius (R) is plotted in Figure 6a and can be fitted by a power law, V g / V 0 ∼ R c (the solid line: V g = 9.75 V 0 R 0.33). The bubble-size dependence of the travelling length (L) normalized by the original travelling length (πR), measured from literature, is plotted in Figure 6b and can be fitted by L / πR ∼ R d (the solid line: L / πR = 2.1 R 0.13). The exponent of d = 0.13 is well matched to c /3 = 0.11, assuming that (L / πR) is proportional to (V g / V 0) 1/3. This finding also suggests that the partial gas rejection in bubble bursting leads to the reduction in the travelling length and therefore induces the increase in the critical Oh number.
 
 ---
 
-### Noxivent 101 [^7080a784]. FDA (2025). Medium credibility.
+### Noxivent 101 [^113snpxB]. FDA (2025). Medium credibility.
 
 Noxivent 101–02
 
@@ -718,7 +718,7 @@ Medipure By Linde
 
 ---
 
-### Bench test evaluation of volume delivered by modern ICU ventilators during volume-controlled ventilation [^05270f6b]. Intensive Care Medicine (2010). Low credibility.
+### Bench test evaluation of volume delivered by modern ICU ventilators during volume-controlled ventilation [^1118e4N6]. Intensive Care Medicine (2010). Low credibility.
 
 Purpose
 
@@ -738,7 +738,7 @@ The difference between preset V (T) and actually delivered V (T) is clinically m
 
 ---
 
-### Methane emissions from thermokarst lakes must emphasize the ice-melting impact on the tibetan plateau [^22c911e5]. Nature Communications (2025). High credibility.
+### Methane emissions from thermokarst lakes must emphasize the ice-melting impact on the tibetan plateau [^111ta7jr]. Nature Communications (2025). High credibility.
 
 At each sampling point, we also measured water quality parameters, including water temperature, dissolved oxygen and conductivity, using a multi-parameter water quality meter (Fig. 1d). Meteorological data, including air temperature, atmospheric pressure, and wind speed, were sourced from automated field weather stations located at Liangdao River, Tanggula, and Beilu River, as well as from the National Meteorological Science Data Center (NMSDC;) for the Maduo, Wudao Liang, and Tuotuo River.
 
@@ -748,7 +748,7 @@ Dissolved CH 4 concentration in water was calculated by integrating the principl
 
 ---
 
-### Noxivent 101 [^4e23125a]. FDA (2025). Medium credibility.
+### Noxivent 101 [^112zqpEV]. FDA (2025). Medium credibility.
 
 Noxivent 101–01
 
@@ -802,13 +802,13 @@ Medipure By Linde
 
 ---
 
-### Vapor pressures of anesthetic agents at temperatures below 0 ° C and a novel anesthetic delivery device [^0875536e]. Anesthesia and Analgesia (2017). Low credibility.
+### Vapor pressures of anesthetic agents at temperatures below 0 ° C and a novel anesthetic delivery device [^111DYJww]. Anesthesia and Analgesia (2017). Low credibility.
 
 At room temperature, the vapor pressures of desflurane, isoflurane, and sevoflurane are well above the clinically useful range. We hypothesized that therapeutic concentrations of these agents could be achieved at temperatures below 0°C, but the vapor pressure-temperature relationship is unknown below 0. Second, we hypothesized that this relationship could be exploited to deliver therapeutic-range concentrations of anesthetic vapor. We therefore set out to determine the low temperature-vapor pressure relationships of each anesthetic agent, thereby identifying the saturated vapor concentration of each agent at any temperature below 0°C. To test our hypothesis, we measured the saturated vapor concentration at 1 atm of pressure for temperatures between -60 and 0°C, thus developing an empiric relationship for each agent. There was consistency in repeated experiments for all 3 agents. To test the empiric data, we constructed a digitally controlled thermoelectric anesthetic vaporizer, characterized the device, and used it to deliver anesthetic vapor to laboratory mice. We report, for the first time, the temperature-vapor pressure relationship at temperatures below 0°C for desflurane, isoflurane, and sevoflurane as well as the TMAC of these agents: the temperature at which the vapor pressure is equal to the minimum alveolar concentration. We describe the construction and limited validation of an anesthetic vaporizer prototype on the basis of this principle. We conclude that clinically relevant concentrations of volatile anesthetics may be achieved at low temperatures.
 
 ---
 
-### Oxygen gas (oxygen compressed) [^b2c1e2db]. FDA (2024). Medium credibility.
+### Oxygen gas (oxygen compressed) [^115a1vNN]. FDA (2024). Medium credibility.
 
 Oxygen
 
@@ -830,13 +830,13 @@ A+ OXYGEN & DME
 
 ---
 
-### Complications of tracheal gas insufflation [^1301f38a]. Respiratory Care (2001). Low credibility.
+### Complications of tracheal gas insufflation [^111VBRNR]. Respiratory Care (2001). Low credibility.
 
 Numerous reports of patient, lung model, and animal use of tracheal gas insufflation (TGI) have appeared in the literature over the past 10 years. However, no commercial TGI system is available. As a result, extreme care must be exercised if attempts are made to provide TGI. Numerous problems with noncommercial systems have been identified. Continuous-flow TGI results in an increase in peak pressure and delivered tidal volume. The use of a flow-limiting or pressure relief valve or a ventilator with an exhalation valve active during exhalation minimizes these problems. Ideally, TGI should only be activated during the expiratory phase. However, this requires that the TGI system be integrated with the mechanical ventilator. In addition, appropriate system monitoring should be available, including measurement of total positive end-expiratory pressure, peak inspiratory pressure, and tidal volume, and there should be a method of identifying increased carinal pressure and deactivating the TGI system if an obstruction occurs proximal to the point of TGI injection. As a result of the potential complications of TGI, this technique cannot be recommended for routine use until commercial systems are available.
 
 ---
 
-### Charge decay in the spatial afterglow of plasmas and its impact on diffusion regimes [^f2ed1101]. Nature Communications (2023). High credibility.
+### Charge decay in the spatial afterglow of plasmas and its impact on diffusion regimes [^117D9ddA]. Nature Communications (2023). High credibility.
 
 With our validation of the model at pressures where experimental measurements were possible, we are able to circumvent the experimental challenges faced at higher pressures by extending our model calculations to higher pressures up to atmospheric (~760 Torr). Input plasma parameters for the model were obtained by extrapolating Fig. 2a to 760 Torr for n p (4.1 × 10 20 m –3), and assuming the same T e (1.5 eV) measured by DLP at lower pressures, which was found to be consistent with other reports of continuous-flow, atmospheric-pressure plasmas with similar geometries to that studied here.
 
@@ -844,7 +844,7 @@ An important issue that must be considered as the pressure increases is that the
 
 ---
 
-### Nitrogen [^3830fec2]. FDA (2025). Medium credibility.
+### Nitrogen [^112SJmHT]. FDA (2025). Medium credibility.
 
 NITROGEN COMPRESSED LABEL
 
@@ -860,25 +860,25 @@ VOLUNTEER WELDING SUPPLY, INC.
 
 ---
 
-### Exploring the thermodynamics of a universal fermi gas [^e36534ea]. Nature (2010). Excellent credibility.
+### Exploring the thermodynamics of a universal fermi gas [^116p8Bds]. Nature (2010). Excellent credibility.
 
 One of the greatest challenges in modern physics is to understand the behaviour of an ensemble of strongly interacting particles. A class of quantum many-body systems (such as neutron star matter and cold Fermi gases) share the same universal thermodynamic properties when interactions reach the maximum effective value allowed by quantum mechanics, the so-called unitary limit. This makes it possible in principle to simulate some astrophysical phenomena inside the highly controlled environment of an atomic physics laboratory. Previous work on the thermodynamics of a two-component Fermi gas led to thermodynamic quantities averaged over the trap, making comparisons with many-body theories developed for uniform gases difficult. Here we develop a general experimental method that yields the equation of state of a uniform gas, as well as enabling a detailed comparison with existing theories. The precision of our equation of state leads to new physical insights into the unitary gas. For the unpolarized gas, we show that the low-temperature thermodynamics of the strongly interacting normal phase is well described by Fermi liquid theory, and we localize the superfluid transition. For a spin-polarized system, our equation of state at zero temperature has a 2 per cent accuracy and extends work on the phase diagram to a new regime of precision. We show in particular that, despite strong interactions, the normal phase behaves as a mixture of two ideal gases: a Fermi gas of bare majority atoms and a non-interacting gas of dressed quasi-particles, the fermionic polarons.
 
 ---
 
-### The multiple inert gas elimination technique (MIGET) [^d261656c]. Intensive Care Medicine (2008). Low credibility.
+### The multiple inert gas elimination technique (MIGET) [^116Nu7cP]. Intensive Care Medicine (2008). Low credibility.
 
 This brief review centers on the multiple inert gas elimination technique (MIGET). This technique, developed in the 1970s, measures the pulmonary exchange of a set of six different inert gases dissolved together in saline (or dextrose) and infused intravenously. It then uses those measurements to compute the distribution of ventilation/perfusion ratios that best explains the exchange of the six gases simultaneously. MIGET is based on the very same mass-conservation principles underlying the classic work of Rahn and Fenn and of Riley and coworkers in the 1950s, which defines the relationship between the ventilation/perfusion ratio and the alveolar and capillary partial pressures of any gas. After a brief history of MIGET, its principles are laid out, its information content is explained, and its limitations are described. It is noted that in addition to quantifying ventilation/perfusion inequality and pulmonary shunting, MIGET can identify and quantify diffusion limitation of O(2) exchange, when present, as well as explain the contributions of extrapulmonary influences such as inspired O(2) concentration, ventilation, cardiac output, Hb concentration/P(50), body temperature and acid/base state on arterial oxygenation. An overview of the technical details of implementing MIGET is given, and the review ends with potential future applications.
 
 ---
 
-### Best clinical practices for the sleep center adjustment of noninvasive positive pressure ventilation (NPPV) in stable chronic alveolar hypoventilation syndromes [^30856a56]. Journal of Clinical Sleep Medicine (2010). Medium credibility.
+### Best clinical practices for the sleep center adjustment of noninvasive positive pressure ventilation (NPPV) in stable chronic alveolar hypoventilation syndromes [^112EwDfj]. Journal of Clinical Sleep Medicine (2010). Medium credibility.
 
 Noninvasive positive pressure ventilation (NPPV) titration — pressure support (PS) and tidal volume targets: For volume targeted bilevel positive airway pressure (BPAP), the recommended tidal volume target is 8 mL/kg using ideal body weight, and in normal individuals dead space is approximately equal to 2 mL/kg. The PS should be increased in 1 TO 2 CM H2O increments if the transcutaneous PCO2 or end-tidal PCO2 remains 10 MM HG or more above goal for 10 minutes or more (Level A - Consensus). Pressure support may be increased if respiratory muscle rest has not been achieved by NPPV treatment at the current settings for 10 minutes or more, with adequate rest associated with resolution or improvement in tachypnea and/or excessive inspiratory effort as measured by phasic EMG activity of inspiratory muscles (Level A - Consensus). Pressure support may be increased if the SPO2 remains below 90% for 5 minutes or more and tidal volume is low (< 6 TO 8 ML/KG); if discrete obstructive apneas or hypopneas are present, the clinical guidelines for PR titration in OSA patients should be followed (Level A - Consensus).
 
 ---
 
-### Oxygen (medical oxygen compressed) [^a3f60227]. FDA (2024). Medium credibility.
+### Oxygen (medical oxygen compressed) [^115C5cZk]. FDA (2024). Medium credibility.
 
 WARNING:
 
@@ -886,7 +886,7 @@ For emergency use only when administered by properly trained personnel for oxyge
 
 ---
 
-### High positive end-expiratory pressure: only a dam against oedema formation? [^01e14c4b]. Critical Care (2013). Low credibility.
+### High positive end-expiratory pressure: only a dam against oedema formation? [^1113nfSa]. Critical Care (2013). Low credibility.
 
 Key messages
 
@@ -898,7 +898,7 @@ Key messages
 
 ---
 
-### Nitrogen, oxygen (air, compressed) [^728925da]. FDA (2024). Medium credibility.
+### Nitrogen, oxygen (air, compressed) [^113voeyw]. FDA (2024). Medium credibility.
 
 WARNINGS AND PRECAUTIONS SECTION
 
@@ -908,7 +908,7 @@ WARNING: For breathing support when used by properly trained personnel. For medi
 
 ---
 
-### Fast or slow rescue ventilations: a predictive model of gastric inflation [^f6e4ea0a]. Respiratory Care (2018). Low credibility.
+### Fast or slow rescue ventilations: a predictive model of gastric inflation [^117K2qw7]. Respiratory Care (2018). Low credibility.
 
 Background
 
@@ -928,7 +928,7 @@ The model illustrated a general theory of optimal rescue ventilation. Breath dur
 
 ---
 
-### Oxygen, carbon dioxide (Carbon dioxide and oxygen mixture, compressed, oxidizing, n.o.s.) [^55c3a1ca]. FDA (2021). Medium credibility.
+### Oxygen, carbon dioxide (Carbon dioxide and oxygen mixture, compressed, oxidizing, n.o.s.) [^113C9fAy]. FDA (2021). Medium credibility.
 
 WARNINGS AND PRECAUTIONS SECTION
 
@@ -940,7 +940,7 @@ WARNING: Administration of this mixture may be hazardous or contraindicated. For
 
 ---
 
-### Pressure-controlled versus volume-controlled ventilation for acute respiratory failure due to acute lung injury (ALI) or acute respiratory distress syndrome (ARDS) [^744b94b9]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Pressure-controlled versus volume-controlled ventilation for acute respiratory failure due to acute lung injury (ALI) or acute respiratory distress syndrome (ARDS) [^113yQx8G]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -972,7 +972,7 @@ Currently available data from RCTs are insufficient to confirm or refute whether
 
 ---
 
-### Oxygen, helium (COMPRESSED gas, N.O.S.) [^2b9bef80]. FDA (2024). Medium credibility.
+### Oxygen, helium (COMPRESSED gas, N.O.S.) [^1127eqzF]. FDA (2024). Medium credibility.
 
 COMPRESSED GAS, N.O.S. LABEL 20.6% OXYGEN BALANCE HELIUM, USP
 
@@ -1000,13 +1000,13 @@ WARNING: Administration of this gas mixture may be hazardous or contraindicated.
 
 ---
 
-### Volume-targeted ventilation: one size does not fit all. evidence-based recommendations for successful use [^110074aa]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2019). Medium credibility.
+### Volume-targeted ventilation: one size does not fit all. evidence-based recommendations for successful use [^111SCwfo]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2019). Medium credibility.
 
 Despite level 1 evidence for important benefits of volume-targeted ventilation (VTV), many vulnerable extremely preterm infants continue to be exposed to traditional pressure-controlled ventilation. Lack of suitable equipment and a lack of appreciation of the fact that 'one size does NOT fit all' appear to contribute to the slow uptake of VTV. This review attempts to improve clinicians' understanding of the way VTV works and to provide essential information about evidence-based tidal volume (V T) targets. Focus on underlying lung pathophysiology, individualised ventilator settings and V T targets are keys to successful use of VTV thereby improving important clinical outcomes.
 
 ---
 
-### On the use of plume models to estimate the flux in volcanic gas plumes [^6fda4808]. Nature Communications (2021). High credibility.
+### On the use of plume models to estimate the flux in volcanic gas plumes [^113rpwkB]. Nature Communications (2021). High credibility.
 
 Vertical plumes: buoyancy flux, mass flux and gas temperature
 
@@ -1016,7 +1016,7 @@ To calculate the buoyancy flux, we note that as air is entrained, heat conservat
 
 ---
 
-### Forces required for isolated malleus shaft fractures [^d02513e0]. Otology & Neurotology (2021). Medium credibility.
+### Forces required for isolated malleus shaft fractures [^116Kaswu]. Otology & Neurotology (2021). Medium credibility.
 
 Calculation of Negative Pressure Force
 
@@ -1041,19 +1041,19 @@ With this formula, the force applied via the tympanic membrane due to air expans
 
 ---
 
-### Noninvasive respiratory support [^489dadb7]. Pediatrics (2016). Medium credibility.
+### Noninvasive respiratory support [^112rf57k]. Pediatrics (2016). Medium credibility.
 
 High-flow nasal cannula (HFNC) physiologic principles and safety — A key feature of HFNC is the preconditioning of the inspired gas, and because warming and humidifying normally require metabolic energy, HFNC has the advantage of reducing resting energy expenditure; an in vivo study revealed that the humidity of gas delivered by HFNC was significantly greater. Clinically reported benefits have been decreased work of breathing and reduced supplemental oxygen requirement, with proposed mechanisms including reduction of inspiratory resistance, washout of nasopharyngeal dead space, and provision of positive airway distending pressure. Under certain circumstances (tightly fitting nasal prongs, high flow rates, and closed mouth), HFNC can generate high nasopharyngeal airway pressures, although it is unlikely that excessive pressures will occur if the manufacturers' recommendation to use prongs less than half the size of the nares is followed.
 
 ---
 
-### Humidification during invasive and noninvasive mechanical ventilation: 2012 [^e4ee4fdf]. Respiratory Care (2012). Medium credibility.
+### Humidification during invasive and noninvasive mechanical ventilation: 2012 [^116rQDwk]. Respiratory Care (2012). Medium credibility.
 
 HME contraindications and low tidal volume considerations — There are no contraindications to providing physiologic conditioning of inspired gas during mechanical ventilation, but an HME is contraindicated under some circumstances; use of an HME is contraindicated for patients with frank bloody or thick, copious secretions, for those with an expired tidal volume less than 70% of the delivered tidal volume, for patients with body temperatures < 32°C, and for those with high spontaneous minute volumes (> 10 L/min). When lung-protective low tidal volumes are used, HMEs are not recommended because they contribute additional dead space and can increase PaCO2; in ARDS with low tidal volumes when managing hypercapnia is warranted, HMEs should be avoided. Removal of the HME significantly reduces dead space and PaCO2 and increases pH, and in acute respiratory failure HMEs substantially increase minute ventilation, ventilatory drive, and work of breathing.
 
 ---
 
-### Superb water splitting activity of the electrocatalyst FeCo (PO) designed with computation aid [^9e857236]. Nature Communications (2019). High credibility.
+### Superb water splitting activity of the electrocatalyst FeCo (PO) designed with computation aid [^11541sGR]. Nature Communications (2019). High credibility.
 
 At ambient conditions, the vapor pressure of water is 21.1 mm Hg (this valve was chosen from vapor pressure table).
 
@@ -1077,7 +1077,7 @@ Computational method: Spin-polarized calculations were performed to obtain groun
 
 ---
 
-### Finding the optimal tidal volume in acute respiratory distress syndrome [^f408b59c]. Intensive Care Medicine (2024). Medium credibility.
+### Finding the optimal tidal volume in acute respiratory distress syndrome [^117EnuSB]. Intensive Care Medicine (2024). Medium credibility.
 
 A simplified reading of these arguments may lead to the suggestion that V T should be set to optimize ΔP and C RS (i.e. the elastic components of mechanical power contributing to VILI). Nevertheless, in our view, all the above discussed arguments raise two still unresolved questions: (a) Is ΔP an indicator of unsafe V T and does it have a direct impact on the outcome? (b) What factors can influence C RS and the interplay between V T and ΔP? Addressing these issues is crucial for clinicians to tailor V T, enhance mechanical ventilation, and minimize the potential risk for VILI.
 Is ΔP an indicator of unsafe V T and does it have a direct impact on the outcome? ΔP was originally proposed as the ventilation variable that best stratifies the risk of hospital death. More recently, an emulated randomized trial based on registry of invasively and non-invasively ventilated patients showed that the 30-day ventilatory mortality was 20.1%. A 1.9% and 4.4% reduction of the absolute risk of 30-day ventilator mortality was shown for ΔP < 15 and < 10 cmH 2 O, respectively. This may be especially true when ΔP is limited at the very onset of mechanical ventilation and for a longer ventilation time. Interestingly, ΔP was shown to be correlated to mortality if calculated statically (i.e. using in the calculation end-inspiratory plateau pressure) or dynamically (i.e. using in the calculation peak-inspiratory pressure). Although a recent trial failed to support the use of V T < 6 ml/kg PBW when implemented with extracorporeal CO 2 removal, the absence of lower safe limits still encourage further studies to evaluate the clinical efficacy of "ultra-protective" ventilation.
@@ -1085,7 +1085,7 @@ What factors can influence C RS and the interplay between V T and ΔP? The level
 
 ---
 
-### Best PEEP trials are dependent on tidal volume [^08b2b70a]. Critical Care (2018). Low credibility.
+### Best PEEP trials are dependent on tidal volume [^111DtvuP]. Critical Care (2018). Low credibility.
 
 Abstract
 
@@ -1097,7 +1097,7 @@ ClinicalTrials.gov, NCT02871102. Registered on 12 August 2016.
 
 ---
 
-### Can mathematical modeling explain the measured magnitude of the second gas effect? [^fc8ae787]. Anesthesiology (2018). Low credibility.
+### Can mathematical modeling explain the measured magnitude of the second gas effect? [^117TQY6J]. Anesthesiology (2018). Low credibility.
 
 Background
 
@@ -1117,7 +1117,7 @@ Modeling of ventilation-perfusion inhomogeneity confirms that the second gas eff
 
 ---
 
-### Carbon footprint of fluorinated gases used in endothelial keratoplasty [^776281d9]. Cornea (2025). Medium credibility.
+### Carbon footprint of fluorinated gases used in endothelial keratoplasty [^1143zccQ]. Cornea (2025). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -1129,7 +1129,7 @@ The environmental impact of gas tamponade was calculated by converting millilite
 
 ---
 
-### Gas transport mechanisms during high-frequency ventilation [^831dc0fd]. Respiratory Research (2024). Medium credibility.
+### Gas transport mechanisms during high-frequency ventilation [^114MPNZz]. Respiratory Research (2024). Medium credibility.
 
 The expression in Eq. (7) naturally incorporates the impact of frequency and pressure and can be related to the concept of the pressure cost of achieving flow proposed in. Equation (7) can equally be rearranged to find an expression for the required pressure as
 
@@ -1149,7 +1149,7 @@ the relationship outlined in Eq. (8) contains no parameters related to the airwa
 
 ---
 
-### Lung inhomogeneity in patients with acute respiratory distress syndrome [^d8cb2365]. American Journal of Respiratory and Critical Care Medicine (2014). Low credibility.
+### Lung inhomogeneity in patients with acute respiratory distress syndrome [^116YQZKi]. American Journal of Respiratory and Critical Care Medicine (2014). Low credibility.
 
 Rationale
 
@@ -1173,7 +1173,7 @@ Lung inhomogeneities are associated with overall disease severity and mortality.
 
 ---
 
-### Hydrogenation of saturated organic and inorganic molecules in metallic hydrogen [^368fe77e]. Nature Communications (2025). High credibility.
+### Hydrogenation of saturated organic and inorganic molecules in metallic hydrogen [^112PtfhX]. Nature Communications (2025). High credibility.
 
 One challenge for theory is the richness of hydrocarbon chemistry. The demonstration that methane is unstable to decomposition does not preclude other stable hydrocarbons. Moreover, given the high temperatures and excess of hydrogen over carbon in gas giant planets, even a low solubility limit could result in much of the carbon remaining in solution in the metallic hydrogen layers.
 
@@ -1185,7 +1185,7 @@ It is worth noting that sixfold coordinated carbon has previously been synthesiz
 
 ---
 
-### Best PEEP trials are dependent on tidal volume [^db360f38]. Critical Care (2018). Low credibility.
+### Best PEEP trials are dependent on tidal volume [^116bzSsy]. Critical Care (2018). Low credibility.
 
 Determining the optimal positive end-expiratory pressure (PEEP) in patients with acute respiratory distress syndrome remains an area of active investigation. Most trials individualizing PEEP optimize one physiologic parameter (e.g., driving pressure) by titrating PEEP while holding other ventilator settings constant. Optimal PEEP, however, may depend on the tidal volume, and changing the tidal volume with which a best PEEP trial is performed may lead to different best PEEP settings in the same patient.
 
@@ -1195,13 +1195,13 @@ ClinicalTrials.gov, NCT02871102. Registered on 12 August 2016.
 
 ---
 
-### ATS / ERS recommendations for standardized procedures for the online and offline measurement of exhaled lower respiratory nitric oxide and nasal nitric oxide, 2005 [^3c34f3f6]. American Journal of Respiratory and Critical Care Medicine (2005). Medium credibility.
+### ATS / ERS recommendations for standardized procedures for the online and offline measurement of exhaled lower respiratory nitric oxide and nasal nitric oxide, 2005 [^112YG3Wu]. American Journal of Respiratory and Critical Care Medicine (2005). Medium credibility.
 
 Nitric oxide analysis — ambient conditions, humidity management, and interfering substances can affect measurements. Ozone chemiluminescence analyzers are sensitive to ambient conditions including temperature, barometric pressure, humidity, and exposure to sunlight. Exhaled and nasal gas samples are presumed to be fully saturated with water vapor; drying through agents such as Drierite is not recommended, and an acceptable approach is equilibration of sample humidity with ambient humidity using Nafion tubing. Calibration gases (dry [ATPD]) and clinical gas samples (body temperature [37°C] and pressure, saturated [BTPS]) should be measured under uniform humidity and temperature conditions, and it is recommended that manufacturers measure and report the quantitative effect of humidity on NO measurement. Quenching by H2O should be less than 1% of measured NO signal per 1% volume H2O, and quenching by CO2 should be less than 1% NO per 1% CO2. Interfering substances include volatile anesthetic gases, oxidation of analyzer and tubing materials, and the risk of spontaneous combustion.
 
 ---
 
-### Manipulating C-C coupling pathway in electrochemical COreduction for selective ethylene and ethanol production over single-atom alloy catalyst [^a0cc07d6]. Nature Communications (2024). High credibility.
+### Manipulating C-C coupling pathway in electrochemical COreduction for selective ethylene and ethanol production over single-atom alloy catalyst [^1157PYvh]. Nature Communications (2024). High credibility.
 
 The Faradaic efficiency (FE) was calculated using the following equation:where Q i is the quantity of electric charge needed to produce product i at a certain time interval; Q total is the quantity of electric charge needed to produce all products at a certain time interval; z i is the number of electrons required to produce one i molecule, which is 2, 2, 8, and 12 for CO, H 2, CH 4, and C 2 H 4, respectively; F is the Faradaic constant (96485.3 C mol − 1); N i is the number of moles of product i in the GC sampling loop; N total: moles of all gases in the GC sampling loop; V o: volume of the GC sampling loop; I is the measured current; t is the time needed for gas to fill the GC sampling loop; v i is the volume ratio of product i obtained from GC; G is the volumetric flow rate; P o is atmospheric pressure (1.01 × 10 5 Pa); T 0 is the sample loop temperature (298 K); and R is the ideal gas constant (8.314 J mol K − 1).
 
@@ -1209,7 +1209,7 @@ All Faradaic efficiencies and error bars reported in this work were determined f
 
 ---
 
-### The effects of environmental and compositional manipulations on the longevity of tessari-made foam for sclerotherapy [^5a987925]. Journal of Vascular Surgery: Venous and Lymphatic Disorders (2015). Low credibility.
+### The effects of environmental and compositional manipulations on the longevity of tessari-made foam for sclerotherapy [^113KK6nG]. Journal of Vascular Surgery: Venous and Lymphatic Disorders (2015). Low credibility.
 
 Background
 
@@ -1229,13 +1229,13 @@ The optimum conditions for making foam are nonsilicone syringes, larger volumes,
 
 ---
 
-### Best clinical practices for the sleep center adjustment of noninvasive positive pressure ventilation (NPPV) in stable chronic alveolar hypoventilation syndromes [^7162c50d]. Journal of Clinical Sleep Medicine (2010). Medium credibility.
+### Best clinical practices for the sleep center adjustment of noninvasive positive pressure ventilation (NPPV) in stable chronic alveolar hypoventilation syndromes [^113u6n2x]. Journal of Clinical Sleep Medicine (2010). Medium credibility.
 
 Recommendations for NPPV titration equipment — The NPPV device used for titration should have the capability of operating in the spontaneous, spontaneous timed, and timed mode; the airflow, tidal volume, leak, and delivered pressure signal from the device should be monitored and recorded if possible, with the airflow signal used to detect apnea and hypopnea and the tidal volume signal and respiratory rate used to assess ventilation; transcutaneous or end-tidal PCO2 may be used to adjust NPPV settings if adequately calibrated and ideally validated with arterial blood gas testing; an adequate assortment of masks (nasal, oral, and oronasal) in both adult and pediatric sizes, a source of supplemental oxygen, and heated humidification should be available.
 
 ---
 
-### 40th international symposium on intensive care&emergency medicine: brussels, belgium. 24–27 March 2020 [^8300b2c9]. Critical Care (2020). Medium credibility.
+### 40th international symposium on intensive care&emergency medicine: brussels, belgium. 24–27 March 2020 [^114MDcXJ]. Critical Care (2020). Medium credibility.
 
 σCO2: CO2 solubility in blood, R: gas constant, T: temperature. PvCO2: venous partial pressure, Kc: function of pH (12.5 for a pH of 7.2), Q: blood flow [5 l/min]).
 
@@ -1252,7 +1252,7 @@ Mechanical power as a function of RR and VT for varying ECCO2R and deadspace
 
 ---
 
-### Nanofiber-interwoven gel membranes with tunable 3D-interconnected transport channels for efficient COseparation [^a1c0cb3b]. Nature Communications (2025). High credibility.
+### Nanofiber-interwoven gel membranes with tunable 3D-interconnected transport channels for efficient COseparation [^1158omJJ]. Nature Communications (2025). High credibility.
 
 Measurement of gas separation performance of NIGMs
 
@@ -1266,7 +1266,7 @@ The ideal selectivity was determined using the following equation:whererepresent
 
 ---
 
-### Volume and its relationship to cardiac output and venous return [^60c0a05e]. Critical Care (2016). Low credibility.
+### Volume and its relationship to cardiac output and venous return [^113USWih]. Critical Care (2016). Low credibility.
 
 Pulmonary compliance and volume shifts between systemic and pulmonary circuits
 
@@ -1274,7 +1274,7 @@ So far in this review cardiac function has been considered as one unit starting 
 
 ---
 
-### Dynamics of end expiratory lung volume after changing positive end-expiratory pressure in acute respiratory distress syndrome patients [^63b3a6ef]. Critical Care (2015). Low credibility.
+### Dynamics of end expiratory lung volume after changing positive end-expiratory pressure in acute respiratory distress syndrome patients [^113Yp7oc]. Critical Care (2015). Low credibility.
 
 Measurements and calculations
 
@@ -1284,7 +1284,7 @@ Flow and airway pressure (P AW) were measured with a proximal pneumotachograph (
 
 ---
 
-### Immiscible hydrocarbon fluids in the deep carbon cycle [^a8e7a7f0]. Nature Communications (2017). Medium credibility.
+### Immiscible hydrocarbon fluids in the deep carbon cycle [^115KQjNF]. Nature Communications (2017). Medium credibility.
 
 We quantified the amount of the hydrocarbon fluids by counting the number of optically visible droplets, knowing the volume of the cell, and estimating the density of isobutane at pressure and temperature. It is assumed that the droplets are distributed in the system evenly. That is, in each optical picture, the ratio of the areas of the droplets to the cell was assumed to represent the volume of the hydrocarbons to that of the cell. However, when examining the pictures with droplets, we found that some of the in-focus droplets were clearer than the out-of-focus ones. Therefore, we counted the most apparent droplets as a lower limit (a) of the hydrocarbon amount, and all visible droplets as the higher limit (b). The values plotted in Fig. 3 are (a + b)/2 and error bar as (b − a)/2. In this way, we obtained the volume of the droplets and uncertainties. Using an equation of state of fluid isobutane, we calculated the density of isobutane within our experimental pressure-temperature range, with the following results: (1) 0.558 kg l −1 at 25 °C and 4.24 MPa, (2) 0.839 kg l −1 at 25 °C and 1.0 GPa and (3) 0.923 kg l −1 at 300 °C and 3.0 GPa. Using the volume and density, we obtained the mass of isobutane (assuming the droplet is pure isobutane).
 
@@ -1292,19 +1292,19 @@ For instance, at 300 °C and 3.0 GPa, the density of pure water is 1.33 kg l −
 
 ---
 
-### A space-based quantum gas laboratory at picokelvin energy scales [^58c94732]. Nature Communications (2022). High credibility.
+### A space-based quantum gas laboratory at picokelvin energy scales [^113GdX1j]. Nature Communications (2022). High credibility.
 
 Ultracold quantum gases are ideal sources for high-precision space-borne sensing as proposed for Earth observation, relativistic geodesy and tests of fundamental physical laws as well as for studying new phenomena in many-body physics during extended free fall. Here we report on experiments with the Cold Atom Lab aboard the International Space Station, where we have achieved exquisite control over the quantum state of single 87 Rb Bose-Einstein condensates paving the way for future high-precision measurements. In particular, we have applied fast transport protocols to shuttle the atomic cloud over a millimeter distance with sub-micrometer accuracy and subsequently drastically reduced the total expansion energy to below 100pK with matter-wave lensing techniques.
 
 ---
 
-### An official multi-society statement: the role of clinical research results in the practice of critical care medicine [^41658ff6]. American Journal of Respiratory and Critical Care Medicine (2012). Medium credibility.
+### An official multi-society statement: the role of clinical research results in the practice of critical care medicine [^112fxJus]. American Journal of Respiratory and Critical Care Medicine (2012). Medium credibility.
 
 Clinical examples of reasonable divergence from empirical evidence — examples include low tidal volume ventilation for severe acute respiratory distress syndrome (ARDS), inhaled nitric oxide for severe ARDS, and induced hypothermia after cardiac arrest — with scenario-specific rationales. For low tidal volume ventilation for severe ARDS, elevated plateau pressures in the context of abdominal compartment syndrome can justify allowing higher plateau pressures based on pathophysiologic reasoning about transpulmonary pressures. For inhaled nitric oxide for severe ARDS, single organ failure with severe life-threatening hypoxia can lead to pathophysiologic reasoning to implement therapy without proven benefit for improving hospital survival. For induced hypothermia after cardiac arrest, a witnessed in-hospital cardiac arrest with pulseless electrical activity as the initial rhythm can prompt extrapolation from out-of-hospital arrest to induce hypothermia.
 
 ---
 
-### A statistical model that predicts the length from the left subclavian artery to the celiac axis; towards accurate intra aortic balloon sizing [^3d6cd019]. Journal of Cardiothoracic Surgery (2011). Low credibility.
+### A statistical model that predicts the length from the left subclavian artery to the celiac axis; towards accurate intra aortic balloon sizing [^112a4o36]. Journal of Cardiothoracic Surgery (2011). Low credibility.
 
 Discussion
 
@@ -1324,7 +1324,7 @@ The balloon volume shall be at least 50% of the stroke volume. In a hypothetical
 
 ---
 
-### Practical assessment of risk of VILI from ventilating power: a conceptual model [^a054cf49]. Critical Care (2023). Medium credibility.
+### Practical assessment of risk of VILI from ventilating power: a conceptual model [^1156hWKJ]. Critical Care (2023). Medium credibility.
 
 Threshold pressure for damage
 
@@ -1336,13 +1336,13 @@ If the SR for either driving energy or total elastic energy of the PEEP andcombi
 
 ---
 
-### The 2024 American Association for Thoracic Surgery expert consensus document: current standards in donor lung procurement and preservation [^810f001b]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
+### The 2024 American Association for Thoracic Surgery expert consensus document: current standards in donor lung procurement and preservation [^114JLSav]. The Journal of Thoracic and Cardiovascular Surgery (2025). High credibility.
 
 Table 2 — Lung static preservation and storage recommendations specify an extracellular type preservation solution, antegrade flush volume 50–60 mL/kg in the pulmonary artery (PA) with retrograde 250 mL in each pulmonary vein, pulmonary artery flush delivery height 30 cm above the level of the heart, and a flush temperature of 4–8 °C; ventilation settings are Vt 6–8 mL/kg or 50% total lung capacity (TLC) with positive end-expiratory pressure (PEEP) 5 cmH2O, oxygenation is FiO2 50%, and inflation pressure (pre stapling) 15–20 cmH2O; the standard storage temperature is 0–4 °C, and results from ongoing clinical trials preserving donor lungs at elevated temperatures (~ 10 °C) are awaited.
 
 ---
 
-### Breathable, wearable skin analyzer for reliable long-term monitoring of skin barrier function and individual environmental health impacts [^1015c75e]. Nature Communications (2025). High credibility.
+### Breathable, wearable skin analyzer for reliable long-term monitoring of skin barrier function and individual environmental health impacts [^111Qr7o3]. Nature Communications (2025). High credibility.
 
 Natural evaporation
 
@@ -1352,7 +1352,7 @@ The simulation assumed that the air consisted solely of "dry air" and "water vap
 
 ---
 
-### A few of our favorite unconfirmed ideas [^5b4c1554]. Critical Care (2015). Low credibility.
+### A few of our favorite unconfirmed ideas [^113LMRsH]. Critical Care (2015). Low credibility.
 
 Limit power delivery as well as airway pressures to avoid ventilator-associated lung injury
 
@@ -1368,7 +1368,7 @@ Power delivered to the lung, rather than tidal volume or any specific pressure a
 
 ---
 
-### Effect of pressure support on end-expiratory lung volume and lung diffusion for carbon monoxide [^e976b0cb]. Critical Care Medicine (2011). Low credibility.
+### Effect of pressure support on end-expiratory lung volume and lung diffusion for carbon monoxide [^116y7ywY]. Critical Care Medicine (2011). Low credibility.
 
 Objectives
 
@@ -1400,7 +1400,7 @@ A 5-cm H2O increase in pressure-support ventilation neither affected end-expirat
 
 ---
 
-### Polyolefin reweaved ultra-micropore membrane for COcapture [^76601920]. Nature Communications (2025). High credibility.
+### Polyolefin reweaved ultra-micropore membrane for COcapture [^1142VpPy]. Nature Communications (2025). High credibility.
 
 Gas permeation measurements
 
@@ -1414,6 +1414,6 @@ The diffusion coefficient D was calculated from the time-lag apparatus using Eq.
 
 ---
 
-### ISHLT consensus statement on the perioperative use of ECLS in lung transplantation: part III: postoperative considerations [^5781cd2b]. The Journal of Heart and Lung Transplantation (2025). High credibility.
+### ISHLT consensus statement on the perioperative use of ECLS in lung transplantation: part III: postoperative considerations [^113EjXFg]. The Journal of Heart and Lung Transplantation (2025). High credibility.
 
 Postoperative VV extracorporeal membrane oxygenation (VV ECMO) — weaning criteria and method: We recommend weaning of VV ECMO when improvements are noted clinically, radiologically, and biologically with improvements in both gas exchange and pulmonary compliance, and in the postoperative setting VV ECMO weaning should be initiated at signs of graft recovery including improvements in compliance, gas exchange, and radiological infiltrates (CoR: I LoE: B2). We recommend combining a stepwise weaning function with both a trial of sweep off and sequential arterial blood gases; in trial protocols, adequate gas exchange without excessive ventilation used thresholds of peak pressure < 30 cm H2O and FiO2 < 60%, and the VV ECMO weaning test involved turning sweep off for an hour prior to discontinuation, while weaning of VV ECMO should be approached in a stepwise fashion with gradual reduction in flow and a trial of sweep OFF prior to decannulation (CoR: I LoE: C1). Additionally, we recommend tidal volumes tailored to donor's ideal body weight with ventilation adjustments as needed.

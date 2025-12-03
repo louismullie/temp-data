@@ -19,7 +19,7 @@ A term neonate presents with acrocephaly due to craniosynostosis, postaxial poly
 
 > Next, I should review the clinical features to anchor the syndromic grouping. The phenotype includes acrocephaly from craniosynostosis, postaxial polydactyly of all extremities, and dysmorphic facies, which together constitute multiple congenital anomalies affecting more than one organ system; this pattern fits the definition of "other specified congenital malformation syndromes affecting multiple systems", which in ICD-10-CM is coded as Q87.8 [^notfound].
 
-> Hold on, let's not jump to conclusions; I need to check whether coding the individual anomalies would be more appropriate. Polydactyly is coded as Q69, and craniosynostosis-related skull deformities can be coded as Q75.0, but when a recognized syndrome is present, the syndromic code should be used as the primary diagnosis and the individual anomalies can be listed secondarily if needed; coding only the parts risks underrepresenting the condition's complexity and may complicate surveillance and billing workflows [^78a87154] [^7e588bfe].
+> Hold on, let's not jump to conclusions; I need to check whether coding the individual anomalies would be more appropriate. Polydactyly is coded as Q69, and craniosynostosis-related skull deformities can be coded as Q75.0, but when a recognized syndrome is present, the syndromic code should be used as the primary diagnosis and the individual anomalies can be listed secondarily if needed; coding only the parts risks underrepresenting the condition's complexity and may complicate surveillance and billing workflows [^1145t6M1] [^114EKBYH].
 
 > I should confirm the exact ICD-10-CM code. Given that this is a multiple congenital anomaly syndrome with craniofacial and limb involvement and no more specific named code is available, the correct primary diagnosis code is Q87.8, with optional secondary codes such as Q69.9 for polydactyly and Q75.0 for craniosynostosis if additional detail is desired for clinical or administrative purposes [^notfound].
 
@@ -29,13 +29,13 @@ A term neonate presents with acrocephaly due to craniosynostosis, postaxial poly
 
 ---
 
-The primary ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8** (Other specified congenital malformation syndromes, not elsewhere classified) [^db479acf]. This code encompasses the syndrome's multisystem features, including acrocephaly, craniosynostosis, polydactyly, and dysmorphic facies. If additional detail is needed, use **Q75.0** for craniosynostosis and **Q69.9** for polydactyly as secondary codes.
+The primary ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8** (Other specified congenital malformation syndromes, not elsewhere classified) [^116c6Lgv]. This code encompasses the syndrome's multisystem features, including acrocephaly, craniosynostosis, polydactyly, and dysmorphic facies. If additional detail is needed, use **Q75.0** for craniosynostosis and **Q69.9** for polydactyly as secondary codes.
 
 ---
 
 ## ICD-10 code for acrocephalopolydactylous dysplasia
 
-The most specific ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8**, defined as "Other specified congenital malformation syndromes, not elsewhere classified" [^b0f82e5d]. This code is appropriate because acrocephalopolydactylous dysplasia is a rare, multisystem congenital syndrome characterized by craniofacial anomalies (acrocephaly, craniosynostosis), limb anomalies (polydactyly), and dysmorphic facial features, and it does not have a more specific ICD-10 code.
+The most specific ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8**, defined as "Other specified congenital malformation syndromes, not elsewhere classified" [^115XNBZE]. This code is appropriate because acrocephalopolydactylous dysplasia is a rare, multisystem congenital syndrome characterized by craniofacial anomalies (acrocephaly, craniosynostosis), limb anomalies (polydactyly), and dysmorphic facial features, and it does not have a more specific ICD-10 code.
 
 ---
 
@@ -75,7 +75,7 @@ The primary ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8** (Oth
 
 ## References
 
-### Cleft and craniofacial coding in ICD-10 [^f2229b68]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
+### Cleft and craniofacial coding in ICD-10 [^117BydQ3]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
 
 Objective
 
@@ -87,13 +87,13 @@ While seemingly beneficial in certain respects, the newer ICD-10 system remains 
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^ef695252]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^1177wRBX]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of acrocephalopolydactyly is estimated at 0.00011 per 100,000 population.
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^a9a3b2d2]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^115LVtjK]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 Implications for phenotype representation
 
@@ -115,19 +115,19 @@ Recognizing the expressive power of post-coordination, one can create a cluster 
 
 ---
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Prevalence of microcephaly in Europe: population based study [^78a87154]. BMJ (2016). Excellent credibility.
+### Prevalence of microcephaly in Europe: population based study [^1145t6M1]. BMJ (2016). Excellent credibility.
 
 All EUROCAT registries use multiple sources of information to ascertain cases among all live births, late fetal deaths (> 20 weeks' gestation), and terminations of pregnancy for fetal anomaly at any gestation. Data sources, depending on registry, include maternity, neonatal, and paediatric records; fetal medicine, cytogenetic, pathology, and medical genetics records; specialist services including paediatric cardiology; and hospital discharge and child health records. The EUROCAT central database is hosted by the European Commission Joint Research Centre in Ispra, Italy, since 2015. Registries either submit individual anonymised records of cases of congenital anomalies (full members) or submit the same data in aggregate form (associate members). All cases are coded with ICD-9 or ICD-10 (international classification of diseases, ninth or 10th versions) with 1-digit British Paediatric Association (BPA) extension. In each case there can be one syndrome and up to eight malformation codes. All coding is standardised by using the EUROCAT guide (version 1.4) with isolated minor anomalies, such as skin tags, being excluded.
 
 ---
 
-### An aetiological classification of birth defects for epidemiological research [^265f500e]. Journal of Medical Genetics (2005). Low credibility.
+### An aetiological classification of birth defects for epidemiological research [^111ytYYu]. Journal of Medical Genetics (2005). Low credibility.
 
 Background
 
@@ -143,14 +143,14 @@ A robust, hierarchical method of classifying birth defects into eight categories
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^94a26e4e]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^114oMj7j]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Figure 7.
 Year of incidence by birth year for all age groups. The blue area indicates the birth year and year of incidence range for each age group separately. For example, FD/MAS cases belonging to age group 11 to 20 in 2018 were born between 1998 and 2008 and were incident between 1998 and 2018. The total blue bar represents the total of the patients with FD/MAS in the age group. The red line marks the year 1994, where the ICD coding changed from the ninth to the tenth revision. The dark blue component of the bar represents the patients actually diagnosed in the ICD-10 coding system and included in this study. The light blue component represents the patients with FD/MAS coded by ICD-9 before 1994. These patients are missed in the current study if they were not reportedly diagnosed in the ICD-10 system. The chart reflects that in older age groups, higher ratios of cases are missed in this study, that is, the underestimation is higher for older age groups.
 
 ---
 
-### Surveillance of multiple congenital anomalies; searching for new associations [^b0f82e5d]. European Journal of Human Genetics (2024). Medium credibility.
+### Surveillance of multiple congenital anomalies; searching for new associations [^115XNBZE]. European Journal of Human Genetics (2024). Medium credibility.
 
 Subjects and methods
 
@@ -166,13 +166,13 @@ Thirty-two full-member registries covering 6,599,765 births provided 154,154 cas
 
 ---
 
-### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^57242efe]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
+### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^113EC5Rw]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
 
 On October 1, 2015, the United States required use of the Clinical Modification of the International Classification of Diseases, 10th Revision (ICD-10-CM) for diagnostic coding. This primer was written to assist the cleft care community with understanding and use of ICD-10-CM for diagnostic coding related to cleft lip and/or palate (CL/P).
 
 ---
 
-### Maternal and gestational factors associated with congenital anomalies among live births: a nationwide population-based study in Brazil from 2012 to 2020 [^f45a9398]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Maternal and gestational factors associated with congenital anomalies among live births: a nationwide population-based study in Brazil from 2012 to 2020 [^117FGQLP]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Methods
 
@@ -184,7 +184,7 @@ This study included live births who were notified with a specific CA in the SINA
 
 ---
 
-### Epidemiology of congenital polydactyly and syndactyly in hunan province, China [^7e588bfe]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Epidemiology of congenital polydactyly and syndactyly in hunan province, China [^114EKBYH]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Methods
 
@@ -204,7 +204,7 @@ We confirmed that informed consent was obtained from all subjects and/or their l
 
 ---
 
-### Polydactyly and risk of cancer [^ac06e1a7]. Journal of Pediatric Orthopedics (2025). Medium credibility.
+### Polydactyly and risk of cancer [^115Q3BXt]. Journal of Pediatric Orthopedics (2025). Medium credibility.
 
 Introduction
 
@@ -228,7 +228,7 @@ Retrospective cohort study, level of evidence III.
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^625f2e48]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^113WqktX]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Discussion
 
@@ -236,7 +236,7 @@ This study provides insight in the incidence and prevalence of FD/MAS in Denmark
 
 ---
 
-### Uncovering the heritable components of multimorbidities and disease trajectories using a nationwide cohort [^ad17814e]. Nature Communications (2024). High credibility.
+### Uncovering the heritable components of multimorbidities and disease trajectories using a nationwide cohort [^115Rckfo]. Nature Communications (2024). High credibility.
 
 Heritability and genetic correlation across the full spectrum of diseases
 
@@ -249,7 +249,7 @@ The most heritable disease areas were congenital malformations, endocrine diseas
 
 ---
 
-### Cleft lip sidedness and the association with additional congenital malformations [^ef2cf36d]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Cleft lip sidedness and the association with additional congenital malformations [^1177b94p]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 Strengths and Limitations
 
@@ -259,13 +259,13 @@ The ICD-10 categorisation system of malformations is advantageous because it is 
 
 ---
 
-### Ready or not! here comes ICD-10 [^7cb0ab4c]. Journal of Neurointerventional Surgery (2013). Low credibility.
+### Ready or not! here comes ICD-10 [^114Brojh]. Journal of Neurointerventional Surgery (2013). Low credibility.
 
 The International Classification of Diseases-10 (ICD-10) is a new system that is a federally mandated change affecting all payers and providers, and is expected to exceed both the Health Insurance Portability and Accountability Act (HIPAA) and Y2K in terms of costs and risks. In 2003, HIPAA named ICD-9 as the code set for supporting diagnoses and procedures in electronic administrative transactions. However, on 16 January 2009, the Department of Health and Human Services published a regulation requiring the replacement of ICD-9 with ICD-10 as of 1 October 2013. While ICD-9 and ICD-10 have a similar type of hierarchy in their structures, ICD-10 is more complex and incorporates numerous changes. Overall, ICD-10 contains more than 141 000 codes, a whopping 712% increase over the < 20 000 codes in ICD-9, creating enormous complexities, confusion and expense. Published statistics illustrate that there are instances where a single ICD-9 code can map to more than 50 distinct ICD-10 codes. Also, there are multiple instances where a single ICD-10 code can map to more than one ICD-9 code. Proponents of the new ICD-10 system argue that the granularity should lead to improvements in the quality of healthcare whereas detractors of the system see the same granularity as burdensome. The estimated cost per physician is projected to range from $25 000 to $50 000.
 
 ---
 
-### Congenital Tooth agenesis and risk of early-onset cancer [^889daa20]. JAMA Network Open (2024). High credibility.
+### Congenital Tooth agenesis and risk of early-onset cancer [^114VYGsy]. JAMA Network Open (2024). High credibility.
 
 Cancer Diagnosis
 
@@ -277,7 +277,7 @@ A syndrome diagnosis was defined as either an abnormal karyotype (except balance
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^9ab053dc]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^114xLKY7]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Differentiation Between PFD and MAS
 
@@ -285,13 +285,13 @@ Of the total of 408 patients, 29 (7.1%) were diagnosed with at least one of the 
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^60b2833a]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^113UMmm3]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 †††† Trisomy 21 (758.0), trisomy 13 (758.1), trisomy 18 (758.2), 22q11 deletion syndrome (758.32), Turner syndrome (758.6).
 
@@ -302,7 +302,7 @@ Weighted estimated median cost and interquartile range of birth defect–associa
 
 ---
 
-### High incidence and geographic distribution of cleft palate in Finland are associated with the IRF6 gene [^db479acf]. Nature Communications (2024). High credibility.
+### High incidence and geographic distribution of cleft palate in Finland are associated with the IRF6 gene [^116c6Lgv]. Nature Communications (2024). High credibility.
 
 Phenotype definitions
 
@@ -310,7 +310,7 @@ Case subjects with non-syndromic forms of OFCs in FinnGen were defined from elec
 
 ---
 
-### Is the first-trimester combined screening result associated with the phenotype of down syndrome? A population-based cohort study [^39d964df]. Prenatal Diagnosis (2023). Medium credibility.
+### Is the first-trimester combined screening result associated with the phenotype of down syndrome? A population-based cohort study [^112UmKEv]. Prenatal Diagnosis (2023). Medium credibility.
 
 2.2 Outcomes
 
@@ -324,7 +324,7 @@ Childhood morbidity was additionally measured as non‐malformation disorders as
 
 ---
 
-### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^03ebdedf]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
+### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^1116pByY]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
 
 Objective
 
@@ -352,13 +352,13 @@ Treacher Collins syndrome is a rare craniofacial disorder requiring complex mult
 
 ---
 
-### Increased prevalence of some birth defects in Korea, 2009–2010 [^180d7b79]. BMC Pregnancy and Childbirth (2016). Low credibility.
+### Increased prevalence of some birth defects in Korea, 2009–2010 [^111cfERN]. BMC Pregnancy and Childbirth (2016). Low credibility.
 
 However, the results in this study must be interpreted in the context of some limitations. The study cannot avoid the methodological limitation of insurance based data analysis. Diagnostic criteria, coding and the timing for follow-up of outpatients might vary in the hospitals, and further validation of the diagnosis was difficult with the insurance database analysis due to lack of detailed records. For example, some newborns with birth defects might have died before entering the hospital, although the number of such patients should be rare. In addition, ICD-9 codes were used to specify birth defects for years 1993–1994, while ICD-10 was used to classify birth defects for 2009–2010. Two versions of disease classification differ substantially. The change to the tenth revision resulted in more detailed classification, with about 8,000 categories compared with about 5,000 categories in the ninth revision. The relatively large difference of some birth defects reported between 1993–1994 and 2009–2010 may be due to the switch from ICD-9 to ICD-10. This study used a comparable category of codes for 26 selected defects according to the ninth and tenth revisions. However, there may be an important underlying variation to case ascertainment and diagnostic criteria (inclusion or exclusion of minor cases) which may have given higher reported rates in some birth defects. A study found the comparability ratio of 0.9064 between ICD-10 and ICD-9 while explaining congenital anomalies and chromosomal abnormalities as a cause of death in the United States. Nonetheless, this study is helpful in understanding increased prevalence of some important birth defects in Korea.
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -372,19 +372,19 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Pediatric application of coding and valuation systems [^d495525c]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116SAXmM]. Pediatrics (2019). High credibility.
 
 ICD-10-CM impact on payment — Pediatricians "should use the specificity of the ICD-10-CM to accurately reflect the child's conditions and complexity", and when "sufficient clinical information is not known or available about a particular health condition, the payer should recognize that the clinician can appropriately report an unspecified code without the claim being summarily denied solely on the basis of specificity". Furthermore, payers "should not use ICD-10-CM specificity to deny payment to appropriately trained pediatricians performing those specialized services within their scope of practice". New payment models "incorporate elaborate risk-adjustment algorithms based on diagnostic completeness", and such risk-based models "must appropriately represent the risk contributed by children with special health care needs". To support diagnostic comprehensiveness, "claim-form formatting should be expanded (such as doubling to 8) to accommodate more than 4 diagnoses per line-item service", exceeding "the current line-item limitation for the version 5010 CMS 837P electronic and 1500 paper claim forms".
 
 ---
 
-### Conjunctivitis preferred practice pattern [^5e1c6ada]. Ophthalmology (2024). High credibility.
+### Conjunctivitis preferred practice pattern [^113QXP77]. Ophthalmology (2024). High credibility.
 
 Conjunctivitis PPP — ICD-10 CM coding rules for seventh characters and laterality state that the applicable 7th character is required for all codes within the category and must always be the 7th character in the data field; if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^a8f1a41e]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^115KU5th]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Case Definition
 
@@ -404,7 +404,7 @@ Prevalence was calculated as the ratio of persons having the disease in the cale
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^4ab2a812]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^112uk6N5]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Subset of clinical indications broadly accepted for genetic testing (MCA/ID/DD/E)
 
@@ -421,7 +421,7 @@ Description of cohort identification process. Note that groups are not mutually 
 
 ---
 
-### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^cd4941f1]. The Journal of Arthroplasty (2016). Low credibility.
+### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^116FM4wi]. The Journal of Arthroplasty (2016). Low credibility.
 
 Background
 
@@ -441,19 +441,19 @@ Now is the time to use the ICD-10 diagnostic codes to improve the management of 
 
 ---
 
-### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^c5bd4139]. Ophthalmology (2016). Medium credibility.
+### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^1164A8Vn]. Ophthalmology (2016). Medium credibility.
 
 ICD-10-CM laterality and 7th-character rules — Certain ICD-10 CM categories have applicable 7th characters, the 7th character must always be the 7th character in the data field, and a placeholder X is required if a code needing a 7th character is not 6 characters. For bilateral sites, the final character of the code indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When laterality is specified in the diagnosis code, Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^68ee46a4]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113gZkJF]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Our study has strengths and limitations. Strengths include the size of the population evaluated — which included over 13 million unique patients from a large commercial health plan population, representative of commercially-insured patients more generally. Our methodology, which included a detailed curation of indicators of genetic disease, allowed us to evaluate several different populations of patients based on different levels of specificity. Finally, our administrative claims-based approach allowed for a comprehensive assessment of direct healthcare-related utilization and costs. Several limitations should be considered in the interpretation of our results. First, as our methodology utilized insurance claims data as opposed to electronic health records, we are limited in our ability to interpret both diagnostic thinking and clinical decision-making. For example, while we observe substantial delays in genetic testing in many patients, the reasons for these delays are unclear and may be clinically warranted based on the unique circumstances of individual patients. Similarly, ICD-9/10 codes do not capture the granularity required to distinguish diagnosed genetic conditions. Human Phenotype Ontology (HPO) provides a deep ontology that relates detailed clinical features to both diseases and genes. Availability of HPO terms in a large data set like this would have improved our specificity in defining populations and HPO coding (or improvements in ICD coding informed by HPO) could contribute to future studies of genetic disease in populations. In addition, while some genetic diseases have specific ICD-9/10 codes, many do not; thus, we are unable to definitively determine the end of a diagnostic odyssey for many individual patients. Second, our definitions of possible, probable and definite genetic disease are based on expert opinion and manual curation. Not all patients with these features would have had a genetic diagnosis even if optimal testing had been performed. This is likely due to additional undescribed disease-causing genes, oligogenic and complex inheritance, and environmental phenocopies. How ICD-9/10 codes are used for insurance billing purposes may not be aligned with the diagnostic thinking of clinicians. Coding systems, including diagnosis and procedure codes, are used for billing purposes and are likely to fail to reflect the variability observed in clinical practice. Furthermore, a level of miscoding is presumed to occur as is inherent in claims database studies (e.g. a coding specialist may select the first code on a list of possible codes as opposed to the most appropriate code). Third, given the substantial health conditions of patients with genetic diseases, patients may transition to public insurance programs, switch between private insurance plans, or for other reasons stopped being observed in the database. Although our continuous enrollment requirements help control for some of this variability, there are inherent limitations to the comprehensiveness of the follow-up, which could also be exacerbated by the severity of the disease. Finally, in our selection of patients, we found a large number of newborns with codes indicating a possible genetic condition but no stay in a NICU. Because we required a stay in a NICU, these patients were excluded from analysis in the critically-ill infant population and were instead included in the pediatric population.
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^1d6b9d37]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^111kcnfY]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Hypophosphatemia
 
@@ -465,25 +465,25 @@ For patients coded with ICD-10 code Q78.1, further differentiation between disea
 
 ---
 
-### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^71b70a4c]. Pain Physician (2015). Low credibility.
+### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^113ub5ko]. Pain Physician (2015). Low credibility.
 
 The forced implementation of ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes that are specific to the United States, scheduled for implementation October 1, 2015, which is vastly different from ICD-10 (International Classification of Diseases, Tenth Revision), implemented worldwide, which has 14,400 codes, compared to ICD-10-CM with 144,000 codes to be implemented in the United States is a major concern to practicing U.S. physicians and a bonanza for health IT and hospital industry. This implementation is based on a liberal interpretation of the Health Insurance Portability and Accountability Act (HIPAA), which requires an update to ICD-9-CM (International Classification of Diseases, Ninth Revision, Clinical Modification) and says nothing about ICD-10 or beyond. On June 29, 2015, the Supreme Court ruled that the Environmental Protection Agency unreasonably interpreted the Clean Air Act when it decided to set limits on the emissions of toxic pollutants from power plants, without first considering the costs on the industry. Thus, to do so is applicable to the medical industry with the Centers for Medicare and Medicaid Services (CMS) unreasonably interpreting HIPAA and imposing existent extensive regulations without considering the cost. In the United States, ICD-10-CM with a 10-fold increase in the number of codes has resulted in a system which has become so complicated that it no longer compares with any other country. Moreover, most WHO members use the ICD-10 system (not ICD-10-CM) only to record mortality in 138 countries or morbidity in 99 countries. Currently, only 10 countries employ ICD-10 (not ICD-10-CM) in the reimbursement process, 6 of which have a single payer health care system. Development of ICD-10-CM is managed by 4 non-physician groups, known as cooperating parties. They include the Centers for Disease Control and Prevention (CDC), CMS, the American Hospital Association (AHA), and the American Health Information Management Association (AHIMA). The AHIMA has taken the lead with the AHA just behind, both with escalating profits and influence, essentially creating a statutory monopoly for their own benefit. Further, the ICD-10-CM coalition includes 3M which will boost its revenues and profits substantially with its implementation and Blue Cross Blue Shield which has its own agenda. Physician groups are not a party to these cooperating parties or coalitions, having only a peripheral involvement. ICD-10-CM creates numerous deficiencies with 500 codes that are more specific in ICD-9-CM than ICD-10-CM. The costs of an implementation are enormous, along with maintenance costs, productivity, and cash disruptions.
 
 ---
 
-### Inbreeding, native American ancestry and child mortality: linking human selection and paediatric medicine [^194452cc]. Human Molecular Genetics (2022). Medium credibility.
+### Inbreeding, native American ancestry and child mortality: linking human selection and paediatric medicine [^111eTe6P]. Human Molecular Genetics (2022). Medium credibility.
 
 Table 2 shows the estimated SMR for certain conditions originating in the perinatal period and congenital malformations, deformations and chromosomal abnormalities. Bold type is used to highlight SMR with associated probability values lower than 0.002 (0.05/23), and therefore significant after accounting for multiple testing. SROH was associated with an increased mortality due to disorders related to short gestation and low birth weight, not elsewhere classified (ICD-10 code P07, 3% risk increase per Mb in SROH, 95%CI: 1–4%) and to intracranial non-traumatic haemorrhage of foetus and newborn (ICD-10 code P52, 5% risk increase per Mb in SROH, 95%CI: 2–9%). The proportion of Aymara–Quechua ancestry was associated with an increased mortality due to respiratory distress of newborn (ICD-10 code P22, 3% increased risk per 1% ancestry proportion, 95%CI: 1–5%) and to anencephaly and similar malformations (ICD-10 code Q00, 5% increased risk per 1% ancestry proportion, 95%CI: 3–7%), and with a decreased mortality due to Edwards syndrome and Patau syndrome (ICD-10 code Q91, 4% decreased risk per 1% ancestry proportion, 95%CI: −6 to −2%). The proportion of Mapuche–Huilliche ancestry was associated with an increased mortality due to other congenital malformations of brain (ICD-10 code Q04, 7% increased risk per 1% ancestry proportion, 95%CI: 2–12%) and with a decreased mortality due to Edwards syndrome and Patau syndrome (ICD-10 code Q91, 5% decreased risk per 1% ancestry proportion, 95%CI: −8 to −2%).
 
 ---
 
-### Necessity and implications of ICD-10: facts and fallacies [^9d2fadcf]. Pain Physician (2011). Low credibility.
+### Necessity and implications of ICD-10: facts and fallacies [^11523574]. Pain Physician (2011). Low credibility.
 
 The International Classification of Diseases-10 (ICD-10 is a new system that is expected to be implemented effective on October 1, 2013. This new system is a federally mandated change affecting all payers and providers, and is expected to exceed both the Health Insurance Portability and Accountability Act (HIPAA) and Y2K in terms of costs and risks. However, the Administration is poised to implement these changes at a rapid pace which could be problematic for health care in the United States. In 2003, HIPAA named ICD-9 as the code set for supporting diagnoses and procedures in electronic administrative transactions. However, on January 16, 2009, the Department of Health and Human Services (HHS) published a regulation requiring the replacement of ICD-9 with ICD-10 as of October 1, 2013. While ICD-9 and 10 have a similar type of hierarchy in their structures, the ICD-10 is more complex and incorporates numerous changes. Overall, ICD-10 contains over 141,000 codes, a whopping 712% increase over the less than 20,000 codes in ICD-9, creating enormous complexities, confusion, and expense. Multiple published statistics illustrate that there are approximately 119 instances where a single ICD-9 code can map to more than 100 distinct ICD-10 codes, whereas there are 255 instances where a single ICD-9 code can map to more than 50 ICD-10 codes. To add to the confusion, there are 3,684 instances in the mapping for diseases where a single ICD-10 code can map to more than one ICD-9 code. Proponents of the new ICD-10 system argue that the granularity should lead to improvements in the quality of health care, since more precise coding that more accurately reflects actual patient conditions will permit smarter and more effective disease management in pay-for-performance programs. This, in essence, encapsulates the benefits that supporters of this new system believe will be realized, even though many of these experts may not be involved in actual day-to-day medical practices. Detractors of the system see the same granularity as burdensome. The estimated cost per physician is projected to range from $25,000 to $50,000. Further, they argue that the ICD-10 classification is extremely complicated, and expensive. Concerns exist that it is being implemented without establishing either the necessity or thinking through the unintended consequences. Opponents also argue that beyond financial expense, it is also costly in terms of human toll, hardware and software expenses and has the potential to delay reimbursement. There is also concern that an unintended consequence of granularity would be the potential for enhanced and unnecessary fraud and abuse investigations. The authors of this article favor postponing the implementation of the ICD-10 until such time as its necessity is proven and implications are understood.
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^ac0479d3]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^115Q2Nfk]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Study population
 
@@ -491,7 +491,7 @@ Our methodology to define the study populations was developed with the goal of i
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons aged [^b8ef51ff]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
+### Inpatient hospitalization costs associated with birth defects among persons aged [^115jB7Bt]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
 
 * Identified by scanning up to 40 available fields for ICD-10-CM diagnosis codes Q00–Q99: congenital malformations, deformations, and chromosomal abnormalities. Patent ductus arteriosus (Q25.0) and atrial septal defect (Q21.1) were not considered birth defects when occurring in neonates aged < 28 days or with an associated indicator of preterm birth (ICD-10-CM codes P07.2 or P07.3). An additional 23 conditions of lesser clinical importance classified within the Q00–Q99 code range were not considered birth defects.
 
@@ -499,7 +499,7 @@ Our methodology to define the study populations was developed with the goal of i
 
 ---
 
-### Trends in burden and mortality of congenital birth defects in G20 countries (1990–2021) and predictions for 2022–2040 [^46785aee]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Trends in burden and mortality of congenital birth defects in G20 countries (1990–2021) and predictions for 2022–2040 [^112oUZSD]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Definition of CBDs
 
@@ -519,7 +519,7 @@ In our study, the HAQ index for G20 countries (Supplementary Table S3) was deriv
 
 ---
 
-### Specificity of international classification of diseases codes for bronchopulmonary dysplasia: an investigation using electronic health record data and a large insurance database [^14631499]. Journal of Perinatology (2021). Medium credibility.
+### Specificity of international classification of diseases codes for bronchopulmonary dysplasia: an investigation using electronic health record data and a large insurance database [^111XE2sz]. Journal of Perinatology (2021). Medium credibility.
 
 Objective
 
@@ -539,19 +539,19 @@ ICD codes registered for BPD are unlikely to accurately reflect the current clin
 
 ---
 
-### Hip pain and mobility deficits – hip osteoarthritis: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American Physical Therapy Association [^93bd8327]. The Journal of Orthopaedic and Sports Physical Therapy (2009). Medium credibility.
+### Hip pain and mobility deficits – hip osteoarthritis: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American Physical Therapy Association [^114n2qRY]. The Journal of Orthopaedic and Sports Physical Therapy (2009). Medium credibility.
 
 Hip osteoarthritis — ICD-10 codes associated with hip pain and mobility deficits include the primary code M16.1 "Primary coxarthrosis, unilateral", and secondary codes M16.0 "Primary coxarthrosis, bilateral", M16.2 "Coxarthrosis resulting from dysplasia, bilateral", M16.3 "Dysplastic coxarthrosis, unilateral", M16.4 "Posttraumatic coxarthrosis, bilateral", M16.5 "Posttraumatic coxarthrosis, unilateral", and M16.7 "Secondary coxarthrosis, not otherwise specified".
 
 ---
 
-### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^9c9cf4f0]. Chest (2012). Low credibility.
+### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^1151Bnj9]. Chest (2012). Low credibility.
 
 The term "children's interstitial lung disease" (chILD) refers to a heterogeneous group of rare and diffuse lung diseases associated with significant morbidity and mortality. These disorders include neuroendocrine cell hyperplasia of infancy, pulmonary interstitial glycogenosis, surfactant dysfunction mutations, and alveolar capillary dysplasia with misalignment of pulmonary veins. Diagnosis can be challenging, which may lead to a delay in recognition and treatment of these disorders. Recently, International Classifications of Diseases, Ninth Revision codes have been added for several of the chILD disorders. The purpose of this article is to give an overview of the chILD disorders and appropriate diagnostic coding.
 
 ---
 
-### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^a86861c1]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### Incidence and prevalence of fibrous dysplasia / McCune-Albright syndrome: a nationwide registry-based study in Denmark [^115JfysE]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 Abstract
 
@@ -577,7 +577,7 @@ FD/MAS is rare, diagnosis peaks during adolescence without sex predominance, and
 
 ---
 
-### Range and frequency of congenital malformations among children with cleft lip and / or palate [^a841db84]. The Cleft Palate-Craniofacial Journal (2023). Medium credibility.
+### Range and frequency of congenital malformations among children with cleft lip and / or palate [^115JT3MM]. The Cleft Palate-Craniofacial Journal (2023). Medium credibility.
 
 To assess the range and frequency of additional congenital malformations identified among children born alive with CL/P.
 
@@ -595,7 +595,7 @@ Congenital malformations are common among children born alive with a cleft, affe
 
 ---
 
-### Craniosynostosis | Birth defects… [^0bba0c6c]. CDC (2024). Medium credibility.
+### Craniosynostosis | Birth defects… [^111JPMco]. CDC (2024). Medium credibility.
 
 At a glance
 - Craniosynostosis is a birth defect in which the bones in a baby's skull join too early.
@@ -614,13 +614,13 @@ If this suture closes too early, the top of the baby's head may appear narrow in
 
 ---
 
-### An introduction to standardized clinical nomenclature for dysmorphic features: the elements of morphology project [^b6f0bf85]. BMC Medicine (2010). Low credibility.
+### An introduction to standardized clinical nomenclature for dysmorphic features: the elements of morphology project [^115gDcSY]. BMC Medicine (2010). Low credibility.
 
 Human structural malformations (anomalies or birth defects) have an enormous and complex range of manifestations and severity. The description of these findings can be challenging because the variation of many of the features is continuous and only some of them can be objectively assessed (that is, measured), among other factors. An international group of clinicians resolved to develop a set of terms that could be used to describe human structural malformations, under the general project name 'Elements of Morphology'. Here, the background to the project, progress to date, and the practical implementation of the terminology in research reporting is discussed.
 
 ---
 
-### Clinical outcomes in neonates with congenital heart disease with concurrent congenital neurological anomalies [^0fbecfd2]. BMC Pediatrics (2025). Medium credibility.
+### Clinical outcomes in neonates with congenital heart disease with concurrent congenital neurological anomalies [^111QLuYM]. BMC Pediatrics (2025). Medium credibility.
 
 Materials and methods
 
@@ -636,13 +636,13 @@ The software tools Stata version 15 and RStudio were used for data analysis and 
 
 ---
 
-### Positional plagiocephaly [^631aea53]. Paediatrics & Child Health (2011). Medium credibility.
+### Positional plagiocephaly [^113XvpFc]. Paediatrics & Child Health (2011). Medium credibility.
 
 Regarding diagnostic investigations for plagiocephaly, more specifically with respect to clinical evaluation, CPS 2011 guidelines recommend to obtain evaluation for craniosynostosis, congenital torticollis and cervical spine abnormalities as part of the examination of a patient with plagiocephaly.
 
 ---
 
-### Hospitalizations in people with down syndrome across age groups: a population-based cohort study in Switzerland [^0393f5ee]. EClinicalMedicine (2025). Medium credibility.
+### Hospitalizations in people with down syndrome across age groups: a population-based cohort study in Switzerland [^1116JfMP]. EClinicalMedicine (2025). Medium credibility.
 
 Classification of primary causes of hospitalization and secondary diagnoses
 
@@ -654,13 +654,13 @@ The primary outcome was the number of hospitalizations characterized by the inci
 
 ---
 
-### Hip pain and mobility deficits-hip osteoarthritis: revision 2017 [^1c80879a]. The Journal of Orthopaedic and Sports Physical Therapy (2017). Medium credibility.
+### Hip pain and mobility deficits-hip osteoarthritis: revision 2017 [^111jFprM]. The Journal of Orthopaedic and Sports Physical Therapy (2017). Medium credibility.
 
 Hip pain and mobility deficits — ICD-10 and ICF classification codes are specified, with the primary International Classification of Diseases 10th Revision (ICD-10) code being M16.1 Primary coxarthrosis, unilateral; secondary hip OA codes include M16.0 Primary coxarthrosis, bilateral; M16.2 Coxarthrosis resulting from dysplasia, bilateral; M16.3 Dysplastic coxarthrosis, unilateral; M16.4 Post-traumatic coxarthrosis, bilateral; M16.5 Posttraumatic coxarthrosis, unilateral; M16.7 Secondary coxarthrosis, not otherwise specified; M25.65 Stiffness in hip; and M25.55 Pain in hip. The primary ICF body function codes for this condition are b2816 Pain in joints and b7100 Mobility of a single joint, and primary ICF activities and participation codes include d4154 Maintaining a standing position, d4500 Walking short distances, and d4501 Walking long distances.
 
 ---
 
-### Guideline for care of patients with the diagnoses of craniosynostosis: working group on craniosynostosis [^8244f172]. The Journal of Craniofacial Surgery (2015). Low credibility.
+### Guideline for care of patients with the diagnoses of craniosynostosis: working group on craniosynostosis [^114L8Ykq]. The Journal of Craniofacial Surgery (2015). Low credibility.
 
 15. DEFORMITIES OF THE EXTREMITIES
 
@@ -687,7 +687,7 @@ Apert Syndrome
 
 ---
 
-### Q67.3 plagiocephaly-ICD-10-CM diagnosis codes… [^cf7ea07f]. Find-A-Code (2025). Medium credibility.
+### Q67.3 plagiocephaly-ICD-10-CM diagnosis codes… [^116JcyE6]. Find-A-Code (2025). Medium credibility.
 
 ICD-10-CM 17. Congenital malformations, deformations and chromosomal abnormalities Q65-Q79 Congenital malformations and deformations of the musculoskeletal system. Q67 Congenital musculoskeletal deformities of head, face, spine and chest Q67. 3 Plagiocephaly. Q67. 3- Plagiocephaly The above description is abbreviated. This code description may also have Includes, Excludes, Notes, Guidelines, Examplesand other information. Access to this feature is available in the following products:
 
@@ -701,7 +701,7 @@ ICD-10-CM Index Entries Code History Dictionary Definitions My Notes Coding Tips
 
 ---
 
-### Epidemiology of congenital cerebral anomalies in Europe: a multicentre, population-based EUROCAT study [^a4e45e4a]. Archives of Disease in Childhood (2019). Medium credibility.
+### Epidemiology of congenital cerebral anomalies in Europe: a multicentre, population-based EUROCAT study [^115DTgC1]. Archives of Disease in Childhood (2019). Medium credibility.
 
 Objectives
 
@@ -729,19 +729,19 @@ Only half of the cases were isolated cerebral anomalies. Improved prenatal and p
 
 ---
 
-### Neonatal skeletal dysplasias [^2c1e753f]. Pediatric Radiology (2012). Low credibility.
+### Neonatal skeletal dysplasias [^1128Qgmc]. Pediatric Radiology (2012). Low credibility.
 
 Skeletal dysplasias are a large diverse group of disorders characterized by abnormal bone and cartilage growth. Approximately one-quarter of them are considered lethal in the perinatal period. This paper will review the components of the skeletal survey, the primary imaging tool for diagnosing dysplasias postnatally, emphasizing the use of an organized approach and appropriate descriptive terminology. Several illustrative cases of lethal and nonlethal dysplasias will be shown, with additional discussion of commonly associated genetic mutations and classification systems.
 
 ---
 
-### Hip pain and mobility deficits – hip osteoarthritis: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American Physical Therapy Association [^8c19b4af]. The Journal of Orthopaedic and Sports Physical Therapy (2009). Medium credibility.
+### Hip pain and mobility deficits – hip osteoarthritis: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American Physical Therapy Association [^114ahuF4]. The Journal of Orthopaedic and Sports Physical Therapy (2009). Medium credibility.
 
 ICD and ICF classification — hip pain and mobility deficits due to hip osteoarthritis: The primary ICD-10 code is M16.1 Primary coxarthrosis, unilateral, with secondary ICD-10 codes including M16.0 Primary coxarthrosis, bilateral; M16.2 Coxarthrosis resulting from dysplasia, bilateral; M16.3 Dysplastic coxarthrosis, unilateral; M16.4 Posttraumatic coxarthrosis, bilateral; M16.5 Posttraumatic coxarthrosis, unilateral; and M16.7 Secondary coxarthrosis, not otherwise specified. Corresponding ICD-9-CM codes are 715.15 Osteoarthrosis of the pelvic region and thigh, localized, primary; 715.25 Osteoarthrosis of the pelvic region and thigh, localized, secondary; and 715.85 Osteoarthrosis of the pelvic region and thigh involving more than 1 site but not specified as generalized. Related International Classification of Functioning (ICF) body function codes are b2816 Pain in joints and b7100 Mobility of a single joint, and primary ICF activities/participation codes are d4154 Maintaining a standing position, d4500 Walking short distances, and d4501 Walking long distances.
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons aged [^9fc1629d]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
+### Inpatient hospitalization costs associated with birth defects among persons aged [^1155qzFn]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
 
 TABLE 2
 Weighted national estimates of frequencies and mean costs of birth defect–associated hospitalizations * among persons aged < 65 years, by selected specific birth defect and age group — National Inpatient Sample, United States, 2019
@@ -754,13 +754,13 @@ Abbreviations: CNS = central nervous system; GI = gastrointestinal; ICD-10-CM = 
 
 ---
 
-### Congenital deformities of the hands [^8196bcca]. Pediatric Clinics of North America (2020). Medium credibility.
+### Congenital deformities of the hands [^114K82xR]. Pediatric Clinics of North America (2020). Medium credibility.
 
 Evaluation of the pediatric musculoskeletal system may be difficult because of differences between children and adults. As children mature, their physical structure approaches that of an adult. However, in the meantime, varying stages of ossification and developmental timelines may confuse the average clinician. Congenital abnormalities of the upper extremity are extremely numerous, but here we present 10 that often are seen in clinical practice. The article discusses the diagnosis, evaluation, treatment, and outcomes of each condition.
 
 ---
 
-### Investigating the impact of additional congenital malformations on speech outcomes at age five in children with a cleft palate [^3910c698]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Investigating the impact of additional congenital malformations on speech outcomes at age five in children with a cleft palate [^112Tbvt7]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 Objective
 
@@ -792,7 +792,7 @@ ACDs, in the absence of a known syndrome, have a significant impact on speech ou
 
 ---
 
-### What drives outcomes in infants of mothers with congenital heart disease? A mediation analysis [^5e73923e]. Journal of Perinatology (2024). Medium credibility.
+### What drives outcomes in infants of mothers with congenital heart disease? A mediation analysis [^113R2ezy]. Journal of Perinatology (2024). Medium credibility.
 
 Outcomes
 
@@ -802,7 +802,7 @@ To investigate the second aim of the study, the following infant outcomes were a
 
 ---
 
-### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^5778daa7]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
+### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^113EgWwp]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
 
 The International Classification of Diseases (ICD), maintained by the World Health Organization (WHO), is the global standard for coding diagnoses, symptoms, and procedures. Used by providers, auditors, and researchers, ICD codes (ICD‐10‐CM) support documentation, billing, and epidemiological research. Based on ICD coding, medical claims databases (payor‐system databases) are an alternative type of electronic record collection that support collation of patient‐level de‐identified information, irrespective of the hospital or care provider. ICD‐10‐CM codes, tracked through claims databases, can be used to map high‐level information related to the medical journey across hospital systems.
 
@@ -810,7 +810,7 @@ In this study, we evaluate the early features of disease prior to diagnosis usin
 
 ---
 
-### Fever in pregnancy and the risk of congenital malformations: a cohort study [^d611b462]. BMC Pregnancy and Childbirth (2017). Low credibility.
+### Fever in pregnancy and the risk of congenital malformations: a cohort study [^116UNJDo]. BMC Pregnancy and Childbirth (2017). Low credibility.
 
 Outcome
 
@@ -828,13 +828,13 @@ Children with more than one malformation were included in each appropriate anoma
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^c940703a]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^1169NA1F]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of congenital osteogenesis imperfecta-microcephaly-cataracts syndrome is estimated at 0.00004 per 100,000 population.
 
 ---
 
-### Description of total population hospital admissions for Treacher Collins syndrome in Australia [^88e8c04c]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Description of total population hospital admissions for Treacher Collins syndrome in Australia [^114VyVgf]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 Objective
 
@@ -858,7 +858,7 @@ Findings indicate an increase in hospitalization rates, especially among infants
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^7da3301e]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^114DGGPF]. Genetics in Medicine (2019). Medium credibility.
 
 Purpose
 
@@ -878,7 +878,7 @@ Pediatric inpatients with diagnostic codes linked to genetic disease have a sign
 
 ---
 
-### Prevalence and patient characteristics of ectodermal dysplasias in Denmark [^b4913cd5]. JAMA Dermatology (2024). High credibility.
+### Prevalence and patient characteristics of ectodermal dysplasias in Denmark [^115chZBa]. JAMA Dermatology (2024). High credibility.
 
 Importance
 
@@ -902,13 +902,13 @@ The findings of this nationwide cohort study indicate that the prevalence of ect
 
 ---
 
-### Corneal edema and opacification preferred practice pattern ® [^14409d67]. Ophthalmology (2024). High credibility.
+### Corneal edema and opacification preferred practice pattern ® [^111X2TSE]. Ophthalmology (2024). High credibility.
 
 Corneal opacification — ICD-10 CM classifications list minor corneal opacity H17.81-, peripheral corneal opacity H17.82-, central corneal opacity H17.1-, and phthisical cornea A18.59, H44.52-. Certain ICD-10 CM categories have applicable 7th characters; the applicable 7th character is required for all codes within the category, the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, assign separate codes for both the left and right side, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality (i.e., 4th digit, 5th digit, or 6th digit), Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### Cancer risk in individuals with polydactyly: a Swedish population-based cohort study [^d613ddac]. British Journal of Cancer (2024). Medium credibility.
+### Cancer risk in individuals with polydactyly: a Swedish population-based cohort study [^116UP2Ku]. British Journal of Cancer (2024). Medium credibility.
 
 Conclusion
 
@@ -916,13 +916,13 @@ This large cohort study on individuals with polydactyly presents an increased ca
 
 ---
 
-### Pediatric application of coding and valuation systems [^da217d43]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116aPYrn]. Pediatrics (2019). High credibility.
 
 Standardized code sets — HIPAA mandate and ICD-10 governance in the United States — are described as follows: Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Secretary of the Department of Health and Human Services mandates use of standardized code sets in support of electronic health care transactions, which include International Classification of Diseases, 10th Revision (ICD-10); Healthcare Common Procedure Coding System (HCPCS); Current Procedural Terminology (CPT); National Drug Codes (NDCs); and Current Dental Terminology. The World Health Organization created the ICD-10 with adaptability for expansion and specificity for enhanced measurement, surveillance, research, and reporting across multiple domains, and it was clinically modified and initiated in the United States on October 1, 2015. The 4 cooperating parties that oversee and manage the ICD-10 in the United States are the Centers for Medicare and Medicaid Services (CMS), the National Center for Health Statistics at the Centers for Disease Control and Prevention, the American Health Information Management Association, and the American Hospital Association.
 
 ---
 
-### Identifying the misshapen head: craniosynostosis and related disorders… [^fc90fa2e]. publications.aap.org (2020). Medium credibility.
+### Identifying the misshapen head: craniosynostosis and related disorders… [^117TSaQD]. publications.aap.org (2020). Medium credibility.
 
 Pediatric care providers, pediatricians, pediatric subspecialty physicians, and other health care providers should be able to recognize children with abnormal head shapes that occur as a result of both synostotic and deformational processes. The purpose of this clinical report is to review the characteristic head shape changes, as well as secondary craniofacial characteristics, that occur in the setting of the various primary craniosynostoses and deformations. As an introduction, the physiology and genetics of skull growth as well as the pathophysiology underlying craniosynostosis are reviewed.
 
@@ -934,19 +934,19 @@ The net effect of these changes is a trapezoidal head shape with flattening of t
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^310356de]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^112FfWs7]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of congenital heart defect-round face-developmental delay syndrome is estimated at 0.00004 per 100,000 population.
 
 ---
 
-### Views on the oberg-manske-tonkin classification system for congenital anomalies of the hand and upper limb [^7ebe6d1c]. The Journal of Hand Surgery (2017). Low credibility.
+### Views on the oberg-manske-tonkin classification system for congenital anomalies of the hand and upper limb [^114EuQJw]. The Journal of Hand Surgery (2017). Low credibility.
 
 A new classification system was proposed by Tonkin et al as a replacement for the Swanson/International Federation of Societies for Surgery of the Hand system. We have reviewed their aims and have pointed out a number of problems that will make it difficult to be universally accepted.
 
 ---
 
-### Pregnancy-related complications in osteogenesis imperfecta [^6f38c6e5]. Obstetrics and Gynecology (2025). Medium credibility.
+### Pregnancy-related complications in osteogenesis imperfecta [^113qthPJ]. Obstetrics and Gynecology (2025). Medium credibility.
 
 METHODS
 
@@ -954,19 +954,19 @@ This retrospective cohort study used data from the French national health insura
 
 ---
 
-### Cleft lip sidedness and the association with additional congenital malformations [^dd49665a]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Cleft lip sidedness and the association with additional congenital malformations [^116f4vDw]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 ObjectiveTo investigate the association between the sidedness of orofacial clefts and additional congenital malformations. DesignLinkage of a national registry of cleft births to national administrative data of hospital admissionsSettingNational Health Service, EnglandParticipants2007 children born with cleft lip ± alveolus (CL ± A) and 2724 with cleft lip and palate (CLP) born between 2000 and 2012. Main outcome measureThe proportion of children with ICD-10 codes for additional congenital malformations by the sidedness (left, right or bilateral) of orofacial clefts. ResultsFor CL ± A phenotypes, there was no evidence for a difference in the prevalence of additional anomalies between left (22%, reference), right (22%, aOR 1.02, 95% CI 0.80 to 1.28; P = 0.90) and bilateral clefts (23%, aOR 1.09, 95% CI 0.75 to 1.57; P = 0.66). For CLP phenotypes, there was evidence of a lower prevalence of additional malformations in left (23%, reference) compared to right (32%, aOR 1.54, 95% CI 1.25 to 1.91; P < .001) and bilateral clefts (33%, aOR 1.64, 95% CI 1.35 to 1.99; P < .001). ConclusionsThe prevalence of additional congenital malformations was similar across sidedness subtypes with CL ± A phenotypes but was different for sidedness subtypes within CLP cases. These data support the hypothesis that CL ± A has a different underlying aetiology from CLP and that within the CLP phenotype, right sided CLP may lie closer in aetiology to bilateral CLP than it does to left sided CLP.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^015c541c]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^11131zzF]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of developmental malformations-deafness-dystonia syndrome is estimated at 0.00003 per 100,000 population.
 
 ---
 
-### Pregnancy-related complications in osteogenesis imperfecta [^3cb3dd71]. Obstetrics and Gynecology (2025). Medium credibility.
+### Pregnancy-related complications in osteogenesis imperfecta [^112Yzfxk]. Obstetrics and Gynecology (2025). Medium credibility.
 
 Objective
 
@@ -986,7 +986,7 @@ In this nationwide cohort study, osteogenesis imperfecta was associated with bot
 
 ---
 
-### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^c2389deb]. Genetics in Medicine (2021). Medium credibility.
+### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^115xwcf4]. Genetics in Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -1006,13 +1006,13 @@ Pediatric and adult discharges with RDs show substantially higher health-care ut
 
 ---
 
-### Syndromic craniofacial disorders [^e8f5fa77]. Facial Plastic Surgery Clinics of North America (2024). Medium credibility.
+### Syndromic craniofacial disorders [^116xNkRc]. Facial Plastic Surgery Clinics of North America (2024). Medium credibility.
 
 This article reviews the most common craniofacial syndromes encountered in clinical practice. Key physical features of each condition are highlighted to aid in accurate recognition and diagnosis. Optimal individualized treatment approaches are discussed.
 
 ---
 
-### The prevalence of congenital hand and upper extremity anomalies based upon the New York congenital malformations registry [^bd4c24a5]. Journal of Pediatric Orthopedics (2017). Low credibility.
+### The prevalence of congenital hand and upper extremity anomalies based upon the New York congenital malformations registry [^115qeEeg]. Journal of Pediatric Orthopedics (2017). Low credibility.
 
 Background
 
@@ -1036,13 +1036,13 @@ Level I-diagnostic.
 
 ---
 
-### Hand pain and sensory deficits: carpal tunnel syndrome [^c2a8e245]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Hand pain and sensory deficits: carpal tunnel syndrome [^115ybKo2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Carpal tunnel syndrome (CTS) classification — International Classification of Diseases-10th Revision-Clinical Modification (ICD-10-CM) codes that "could be used when managing individuals with CTS" include G56.00, G56.01, G56.02, M79.641, M79.642, M79.643, M79.644, M79.645, M79.646, R20.1, R20.2, and R20.9, as listed under "ICD-10-CM".
 
 ---
 
-### Effect of folic acid food fortification in Canada on congenital heart disease subtypes [^2d3798ee]. Circulation (2016). Low credibility.
+### Effect of folic acid food fortification in Canada on congenital heart disease subtypes [^112A37oj]. Circulation (2016). Low credibility.
 
 Case Ascertainment and Classification of CHDs
 
@@ -1052,7 +1052,7 @@ CHDs among all live births, stillbirths (including pregnancy terminations), and 
 
 ---
 
-### Vitreoretinopathy-associated pediatric retinal detachment treatment outcomes: IRIS® registry (intelligent research in sight) analysis [^7bcd67fd]. Ophthalmology Science (2023). Medium credibility.
+### Vitreoretinopathy-associated pediatric retinal detachment treatment outcomes: IRIS® registry (intelligent research in sight) analysis [^114AYUJG]. Ophthalmology Science (2023). Medium credibility.
 
 Methods
 
@@ -1064,13 +1064,13 @@ ICD codes were used to identify RRD (H33.00–05, 361.00–05), proliferative vi
 
 ---
 
-### Vision rehabilitation preferred practice pattern ® [^df3dce24]. Ophthalmology (2023). High credibility.
+### Vision rehabilitation preferred practice pattern ® [^116hxzuZ]. Ophthalmology (2023). High credibility.
 
 ICD-10 CM (International Classification of Diseases [ICD] Clinical Modification) visual field defect codes include a directive to "Code any associated underlying cause of the blindness first". For Scotoma involving central area, codes are H53.411 (right eye), H53.412 (left eye), H53.413 (bilateral), and H53.419 (unspecified eye). Homonymous bilateral field defects are coded as H53.461 (right eye), H53.462 (left eye), and H53.469 (unspecified side). Heteronymous bilateral field defects use H53.47. Generalized contraction of visual field is coded H53.481 (right eye), H53.482 (left eye), H53.483 (bilateral), and H53.489 (unspecified eye).
 
 ---
 
-### Guideline for care of patients with the diagnoses of craniosynostosis: working group on craniosynostosis [^3622d995]. The Journal of Craniofacial Surgery (2015). Low credibility.
+### Guideline for care of patients with the diagnoses of craniosynostosis: working group on craniosynostosis [^112PG39e]. The Journal of Craniofacial Surgery (2015). Low credibility.
 
 Period Up to and Including the First Treatment
 
@@ -1080,13 +1080,13 @@ The following bottlenecks for the parents, or rather the family, can be identifi
 
 ---
 
-### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^ea6cd846]. The Journal of Pediatrics (2017). Medium credibility.
+### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^116zYfQq]. The Journal of Pediatrics (2017). Medium credibility.
 
 ICD-10 coding for CF and other CFTR dysfunction — primary ICD-10 codes include CF, unspecified (E84.9), CF, with meconium ileus (E84.11), CF with other intestinal manifestations (eg, DIOS) (E84.19), and CF, with pulmonary manifestations (E84.0). For CFSPID, use P09 (abnormal findings on neonatal screening) or E88.89 (if CRMS/CFSPID is adopted as the preferred terminology). A secondary code option is Z14.1 (CF carrier status).
 
 ---
 
-### MACDP-code-list-updated-nov-2023_Rev_Website2-508c.xlsx… [^9e70a603]. CDC (2025). Medium credibility.
+### MACDP-code-list-updated-nov-2023_Rev_Website2-508c.xlsx… [^1153tt6W]. CDC (2025). Medium credibility.
 
 , New Codes Added: 742560, Anterior myelomeningocele, Includes: anterior meningocele; anterior spina bifida 747460, Pulmonary vein
 - stenosis, "Always code if symptoms first noted at < 6 weeks of age and prior to any cardiac surgical procedure. Never code if symptom first noted at < 6 weeks of age following a cardiac surgical procedure or if symptoms first noted at ≥ 6 weeks of age. " 756730, "Gastroschisis vs. omphalocele, NOS", "Includes prenatal diagnoses of "gastroschisis vs. omphalocele" with no subsequent confirmation". Excludes: arachnoid cyst; subependymal cyst of spinal cord. Note: code choroid plexus cysts diagnosed prenatally but not confirmed after birth only if another defect is present. " 744880, Other specified anomalies of face or neck, "Includes: Tessier clefts. NOS. Includes: asymetric facies with crying only if persistent or diagnosed by a geneticist.
@@ -1104,13 +1104,13 @@ If ≥ 36 wks at birth and symptoms first noted at ≥ 5 wks of age, code only i
 
 ---
 
-### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^a07a2400]. PM & R (2025). High credibility.
+### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^1156v3af]. PM & R (2025). High credibility.
 
 Holistic assessment and ICD-10 coding for Long COVID — Long COVID can present as a wide variety of symptoms, either in isolation or more often in clusters, and when one or more of these symptoms occur a holistic assessment should include a traditional history, physical examination, and additional diagnostic testing, as indicated; a basic laboratory assessment is recommended for all patients with possible Long COVID, with additional labs and diagnostic procedures guided by patients' specific symptoms. When a patient is assessed to likely be presenting with sequelae of Long COVID, the International Classification of Diseases, Tenth Revision (ICD-10) diagnosis code of "U09.9 Post COVID-19 Condition, unspecified" should be documented as a secondary code and the primary ICD-10 code(s) should reflect the patient's specific presenting symptom(s) and condition(s); systematic inclusion of the U09.9 code facilitates population-level monitoring of Long COVID sequelae, and the U09.9 diagnosis code is not appropriate to use in cases of acute COVID-19 infection.
 
 ---
 
-### Pediatric complex chronic condition system version 3 [^8b6d266d]. JAMA Network Open (2024). High credibility.
+### Pediatric complex chronic condition system version 3 [^114Zhwb2]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -1118,19 +1118,19 @@ In the US, the International Classification of Diseases (ICD) system with clinic
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^47811e4e]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^112q1VSM]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of HSD10 disease (neonatal type) is estimated at 0.00003797 per 100,000 population.
 
 ---
 
-### Genetics and classifications [^810f51f4]. Journal of Pediatric Orthopedics (2017). Low credibility.
+### Genetics and classifications [^114JLYpB]. Journal of Pediatric Orthopedics (2017). Low credibility.
 
 Arthrogryposis multiplex congenital (AMC) is a descriptive term for a group of conditions that all share the characteristic of congenital contractures. There are an estimated 400 discrete diagnoses that can lead to a child being born with arthrogryposis. The 2 biggest categories of conditions are amyoplasia and distal arthrogryposis, which combined make up ∼50% to 65% of all diagnoses within the AMC subset. Amyoplasia, the most common AMC condition, seems to be a nongenetic syndrome, leading to very characteristic upper and lower limb contractures. The distal arthrogryposes, in contrast, have an underlying genetic abnormality, which in many cases seems to target the fast twitch muscles of the developing fetus. Classifying AMC is a difficult task, given the broad range of conditions represented. Four different classification schemes are presented.
 
 ---
 
-### Developing a resiliency model for survival without major morbidity in preterm infants [^86809ed8]. Journal of Perinatology (2023). Medium credibility.
+### Developing a resiliency model for survival without major morbidity in preterm infants [^114SQYVV]. Journal of Perinatology (2023). Medium credibility.
 
 Methods
 
@@ -1142,7 +1142,7 @@ The primary outcome was survival to 1 year of age (determined by death certifica
 
 ---
 
-### Hospital care in the first 10 years of life of children with congenital anomalies in six European countries: data from the EUROlinkCAT cohort linkage study [^ff210010]. Archives of Disease in Childhood (2024). Medium credibility.
+### Hospital care in the first 10 years of life of children with congenital anomalies in six European countries: data from the EUROlinkCAT cohort linkage study [^117XEvkw]. Archives of Disease in Childhood (2024). Medium credibility.
 
 Linkage to hospital databases
 
@@ -1156,7 +1156,7 @@ Surgeries were coded according to the coding systems used in the national health
 
 ---
 
-### LD25.3 craniofacial dysostoses-ICD-11 MMS… [^b6670cf0]. Find-A-Code (2025). Medium credibility.
+### LD25.3 craniofacial dysostoses-ICD-11 MMS… [^115fRMsm]. Find-A-Code (2025). Medium credibility.
 
 ICD-11 MMS 20 Developmental anomalies Multiple developmental anomalies or syndromes LD25 Syndromes with face or limb anomalies as a major feature. LD25. 3 Craniofacial dysostoses International Classification of Diseases for Mortality and Morbidity Statistics, 11th Revision, v2025-01 Syndromes caused by abnormal development of skull and facial bones. They may present with acrocephaly, exophthalmos, hypertelorism, strabismus, parrot-beaked nose, or hypoplastic maxilla. Non-syndromic craniosynostosis, which is predominantly sporadic, is coded elsewhere. exclusions
 - Acrofacial dysostosis, Nager type
@@ -1181,7 +1181,7 @@ synonyms
 
 ---
 
-### Testing and extending strategies for identifying genetic disease-related encounters in pediatric patients [^39114c01]. Genetics in Medicine (2022). Medium credibility.
+### Testing and extending strategies for identifying genetic disease-related encounters in pediatric patients [^112Tc72x]. Genetics in Medicine (2022). Medium credibility.
 
 Purpose
 
@@ -1201,7 +1201,7 @@ Code-based strategies can be refined to assess health care utilization among ped
 
 ---
 
-### The development of a European registry for facial dysostosis syndromes: a Delphi-Guided approach [^35b0aeb1]. The Journal of Craniofacial Surgery (2025). Medium credibility.
+### The development of a European registry for facial dysostosis syndromes: a Delphi-Guided approach [^112NbgzC]. The Journal of Craniofacial Surgery (2025). Medium credibility.
 
 RESULTS
 
@@ -1222,7 +1222,7 @@ To further specify the diagnosis, additional data elements include availability 
 
 ---
 
-### Antenatal and postnatal diagnoses of visible congenital malformations in a sub-saharan African setting: a prospective multicenter cohort study [^ff693afa]. BMC Pediatrics (2019). Medium credibility.
+### Antenatal and postnatal diagnoses of visible congenital malformations in a sub-saharan African setting: a prospective multicenter cohort study [^117XfBv1]. BMC Pediatrics (2019). Medium credibility.
 
 Results
 
@@ -1256,13 +1256,13 @@ d Facial dysmorphism + low implanted ears + short and wide neck + single palmar 
 
 ---
 
-### On the nomenclature of congenital disorders of glycosylation (CDG) [^a5e4a150]. Journal of Inherited Metabolic Disease (2008). Low credibility.
+### On the nomenclature of congenital disorders of glycosylation (CDG) [^115EwkaB]. Journal of Inherited Metabolic Disease (2008). Low credibility.
 
 A new nomenclature of CDG is proposed because the current one is too complex for clinicians and provides no added value.
 
 ---
 
-### Craniofacial syndromes and class III phenotype: common genotype fingerprints? A scoping review and meta-analysis [^146590e3]. Pediatric Research (2024). Medium credibility.
+### Craniofacial syndromes and class III phenotype: common genotype fingerprints? A scoping review and meta-analysis [^111XEsJS]. Pediatric Research (2024). Medium credibility.
 
 Quality evaluation and risk of bias in individual studies
 
@@ -1341,13 +1341,13 @@ Total score calculated by the sum of the stars (*).
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^8715d564]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^114TGfPy]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome is estimated at 0.00007 per 100,000 population.
 
 ---
 
-### Diagnosis and management of pseudohypoparathyroidism and related disorders: first international consensus statement [^f96407ca]. Nature Reviews: Endocrinology (2018). Medium credibility.
+### Diagnosis and management of pseudohypoparathyroidism and related disorders: first international consensus statement [^117NjWvM]. Nature Reviews: Endocrinology (2018). Medium credibility.
 
 Brachydactyly
 
@@ -1366,6 +1366,6 @@ Recommendations
 
 ---
 
-### Blepharitis preferred practice pattern ® [^ccf9d77a]. Ophthalmology (2024). High credibility.
+### Blepharitis preferred practice pattern ® [^116EtPoF]. Ophthalmology (2024). High credibility.
 
 Blepharitis ICD-10 CM coding — Blepharitis, which includes entities with the following ICD-10 classifications, lists Ulcerative (H01.01-), Squamous (H01.02-), Stye (H00.01-), Meibomitis (H01.02-), Abscess of eyelid (H00.03-), and Parasitic infestation of eyelid (B89). CM = Clinical Modification used in the United States; "(-) = 1, right upper eyelid; 2, right lower eyelid; 4, left upper eyelid; 5, left lower eyelid", and when laterality is specified "Right upper eyelid is always 1", "Right lower eyelid is always 2", "Left upper eyelid is always 4", and "Left lower eyelid is always 5". "Certain ICD-10 CM categories have applicable 7th characters" and "The 7th character must always be the 7th character in the data field"; if a 7th character is required and the code is "not 6 characters, a placeholder X must be used to fill in the empty characters". For bilateral sites, "the final character of the codes in the ICD-10 CM indicates laterality"; if no bilateral code exists and the condition is bilateral, "separate codes for both the left and right side should be assigned" and "Unspecified codes should only be used when there is no other code option available". A starred note instructs to "Code first underlying disease, as leishmaniasis (085.0–085.9), loiasis (125.2), onchocerciasis (125.3), or pediculosis (132.0)".

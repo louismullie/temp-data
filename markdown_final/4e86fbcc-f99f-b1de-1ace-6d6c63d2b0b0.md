@@ -15,35 +15,35 @@ Sinus pressure, nonproductive cough and post nasal drip
 
 > Let's see… What do we have here? The user is asking about how to evaluate and manage sinus pressure, nonproductive cough, and postnasal drip. Let's break this down step-by-step. First, I need to think about the most likely diagnosis and the differential. Then, I should verify the pathophysiology linking upper airway disease to cough. Next, I will review the diagnostic approach, including what to test and when to treat empirically. After that, I need to outline evidence-based treatment strategies and expected response. Finally, I should consider special populations, red flags, and a practical algorithm, while double-checking areas where evidence is weak or conflicting.
 
-> Let me first confirm the leading diagnosis. The combination of sinus pressure, nonproductive cough, and postnasal drip is classic for upper airway cough syndrome, formerly called postnasal drip syndrome, which is one of the most common causes of chronic cough in adults and often coexists with rhinitis or rhinosinusitis, including allergic and nonallergic phenotypes [^a0f190c6] [^f823565d] [^f823565d].
+> Let me first confirm the leading diagnosis. The combination of sinus pressure, nonproductive cough, and postnasal drip is classic for upper airway cough syndrome, formerly called postnasal drip syndrome, which is one of the most common causes of chronic cough in adults and often coexists with rhinitis or rhinosinusitis, including allergic and nonallergic phenotypes [^1157cAAZ] [^117LsoKJ] [^117LsoKJ].
 
-> Wait, let me verify the differential so I don't anchor prematurely. I need to consider allergic rhinitis, nonallergic rhinitis, acute or chronic rhinosinusitis, asthma or cough-variant asthma, gastroesophageal reflux disease, and postinfectious cough, because these entities frequently overlap and can present with similar symptoms; importantly, UACS is a clinical diagnosis of exclusion and often lacks a single definitive test, so I should keep multiple pathways in mind [^a0f190c6] [^80e1563d] [^2a068fec].
+> Wait, let me verify the differential so I don't anchor prematurely. I need to consider allergic rhinitis, nonallergic rhinitis, acute or chronic rhinosinusitis, asthma or cough-variant asthma, gastroesophageal reflux disease, and postinfectious cough, because these entities frequently overlap and can present with similar symptoms; importantly, UACS is a clinical diagnosis of exclusion and often lacks a single definitive test, so I should keep multiple pathways in mind [^1157cAAZ] [^114J56zG] [^1125JggK].
 
-> I will now examine the pathophysiology linking upper airway disease to cough. Hold on, let's not jump to conclusions that mucus dripping causes cough; direct irritation of upper airway cough receptors and neurogenic sensitization of the cough reflex are key mechanisms, with trigeminal and vagal afferents lowering the cough threshold, so even minimal lower airway stimuli can trigger coughing in susceptible patients with upper airway inflammation [^3fa018ca] [^a4d69c7d].
+> I will now examine the pathophysiology linking upper airway disease to cough. Hold on, let's not jump to conclusions that mucus dripping causes cough; direct irritation of upper airway cough receptors and neurogenic sensitization of the cough reflex are key mechanisms, with trigeminal and vagal afferents lowering the cough threshold, so even minimal lower airway stimuli can trigger coughing in susceptible patients with upper airway inflammation [^112dKzh7] [^115DP4BW].
 
-> Next, I should review the diagnostic approach. Let me think about timing and severity: if symptoms are acute and mild, I can treat empirically; if chronic or refractory, I should confirm with targeted evaluation. I need to check for allergic features, sinus tenderness, dental pain, and red flags such as fever, weight loss, hemoptysis, or focal neurologic signs; in children, I should remember that UACS is less likely to be the sole driver of chronic cough and that pediatric-specific algorithms apply [^d6fd089c] [^f3a71de3].
+> Next, I should review the diagnostic approach. Let me think about timing and severity: if symptoms are acute and mild, I can treat empirically; if chronic or refractory, I should confirm with targeted evaluation. I need to check for allergic features, sinus tenderness, dental pain, and red flags such as fever, weight loss, hemoptysis, or focal neurologic signs; in children, I should remember that UACS is less likely to be the sole driver of chronic cough and that pediatric-specific algorithms apply [^116VjLoM] [^117EE8BC].
 
-> For chronic symptoms, I should confirm the basics: chest radiograph to exclude parenchymal disease, spirometry with bronchodilator response to screen for asthma, and consideration of FeNO or methacholine challenge if cough-variant asthma is suspected; I need to ensure I do not over-order sinus imaging, as it has low specificity in isolated chronic cough and should be reserved for refractory cases or when complications are suspected [^80e1563d] [^4a4e3e17].
+> For chronic symptoms, I should confirm the basics: chest radiograph to exclude parenchymal disease, spirometry with bronchodilator response to screen for asthma, and consideration of FeNO or methacholine challenge if cough-variant asthma is suspected; I need to ensure I do not over-order sinus imaging, as it has low specificity in isolated chronic cough and should be reserved for refractory cases or when complications are suspected [^114J56zG] [^112uAN9C].
 
-> Let me consider empiric therapy as a diagnostic test. In adults with suspected UACS, a therapeutic trial of intranasal corticosteroids plus a second-generation antihistamine is reasonable; if cough improves, that supports UACS, and if not, I should pivot to asthma, GERD, or other causes. I should double-check that I'm not masking another diagnosis by using combination therapy too broadly, but this approach is guideline-supported for common causes of chronic cough [^80e1563d] [^f823565d].
+> Let me consider empiric therapy as a diagnostic test. In adults with suspected UACS, a therapeutic trial of intranasal corticosteroids plus a second-generation antihistamine is reasonable; if cough improves, that supports UACS, and if not, I should pivot to asthma, GERD, or other causes. I should double-check that I'm not masking another diagnosis by using combination therapy too broadly, but this approach is guideline-supported for common causes of chronic cough [^114J56zG] [^117LsoKJ].
 
-> Now, I should outline treatment by phenotype. For allergic rhinitis, intranasal corticosteroids are first-line and can be combined with a second-generation oral antihistamine or an intranasal antihistamine; allergen avoidance and, when appropriate, immunotherapy can be added. For nonallergic rhinitis, intranasal antihistamines or intranasal corticosteroids are options, and I should avoid first-generation antihistamines due to anticholinergic effects. For acute viral rhinosinusitis, supportive care with saline irrigation, analgesics, and short-term decongestants is appropriate, and antibiotics are not indicated unless bacterial criteria are met. For chronic rhinosinusitis, saline irrigation and intranasal corticosteroids are foundational, with macrolides or surgery reserved for selected cases [^f823565d] [^e9da02ca] [^1d7920a8] [^bf0c65fe].
+> Now, I should outline treatment by phenotype. For allergic rhinitis, intranasal corticosteroids are first-line and can be combined with a second-generation oral antihistamine or an intranasal antihistamine; allergen avoidance and, when appropriate, immunotherapy can be added. For nonallergic rhinitis, intranasal antihistamines or intranasal corticosteroids are options, and I should avoid first-generation antihistamines due to anticholinergic effects. For acute viral rhinosinusitis, supportive care with saline irrigation, analgesics, and short-term decongestants is appropriate, and antibiotics are not indicated unless bacterial criteria are met. For chronic rhinosinusitis, saline irrigation and intranasal corticosteroids are foundational, with macrolides or surgery reserved for selected cases [^117LsoKJ] [^116yhLrd] [^111khKvo] [^115tEoND].
 
-> But wait, what if GERD is contributing? I should confirm that isolated PPI therapy is unlikely to help reflux-cough; instead, lifestyle measures, weight loss, head-of-bed elevation, and, in refractory cases, esophageal testing or surgical consultation are more aligned with evidence-based care, so I need to avoid reflex PPI prescriptions without a comprehensive reflux plan [^e1cddf51] [^20b8d513].
+> But wait, what if GERD is contributing? I should confirm that isolated PPI therapy is unlikely to help reflux-cough; instead, lifestyle measures, weight loss, head-of-bed elevation, and, in refractory cases, esophageal testing or surgical consultation are more aligned with evidence-based care, so I need to avoid reflex PPI prescriptions without a comprehensive reflux plan [^116mmN88] [^111qWgqp].
 
-> I should double-check expected response to guide counseling. Many patients with UACS show cough improvement within 2 to 4 weeks of appropriate nasal therapy, and open-label data suggest that targeted rhinosinusitis treatment can reduce cough burden even when objective cough sensitivity does not change; this reinforces that symptom response is a valid clinical endpoint in this syndrome [^c79c16f1].
+> I should double-check expected response to guide counseling. Many patients with UACS show cough improvement within 2 to 4 weeks of appropriate nasal therapy, and open-label data suggest that targeted rhinosinusitis treatment can reduce cough burden even when objective cough sensitivity does not change; this reinforces that symptom response is a valid clinical endpoint in this syndrome [^1166vxx8].
 
-> Next, I should review special populations. In children, I need to ensure I do not over-attribute cough to postnasal drip; pediatric chronic cough algorithms emphasize wet versus dry cough and specific diagnoses, and UACS is less often the sole cause. In older adults, I should be cautious with decongestants and first-generation antihistamines due to cardiovascular and cognitive risks. In patients with Sjögren's or other autoimmune disease, I should actively consider UACS, GERD, and asthma after excluding parenchymal lung disease [^d6fd089c] [^f3a71de3] [^e9da02ca] [^82f82ea6].
+> Next, I should review special populations. In children, I need to ensure I do not over-attribute cough to postnasal drip; pediatric chronic cough algorithms emphasize wet versus dry cough and specific diagnoses, and UACS is less often the sole cause. In older adults, I should be cautious with decongestants and first-generation antihistamines due to cardiovascular and cognitive risks. In patients with Sjögren's or other autoimmune disease, I should actively consider UACS, GERD, and asthma after excluding parenchymal lung disease [^116VjLoM] [^117EE8BC] [^116yhLrd] [^114MAkcd].
 
-> Hold on, I should verify red flags and when to escalate. Unilateral symptoms, severe facial pain, visual changes, proptosis, focal neurologic deficits, or persistent symptoms despite appropriate therapy warrant imaging and ENT referral; likewise, hemoptysis, weight loss, or night sweats should prompt chest imaging and evaluation for alternative diagnoses rather than persisting with empiric UACS therapy [^65d2b5d4] [^80e1563d].
+> Hold on, I should verify red flags and when to escalate. Unilateral symptoms, severe facial pain, visual changes, proptosis, focal neurologic deficits, or persistent symptoms despite appropriate therapy warrant imaging and ENT referral; likewise, hemoptysis, weight loss, or night sweats should prompt chest imaging and evaluation for alternative diagnoses rather than persisting with empiric UACS therapy [^113bxXRu] [^114J56zG].
 
-> Let me reconsider the practical algorithm to ensure internal consistency. Start with history and exam to classify likely phenotype, treat acute viral symptoms supportively, and for chronic cough pursue chest radiograph and spirometry; if UACS is suspected, trial intranasal corticosteroids with or without a second-generation antihistamine for 2 to 4 weeks, and if cough persists, evaluate for asthma, GERD, and other causes using guideline-directed pathways; reserve sinus imaging for refractory cases or suspected complications, and coordinate ENT or allergy referral when indicated [^80e1563d] [^c79c16f1] [^1d7920a8].
+> Let me reconsider the practical algorithm to ensure internal consistency. Start with history and exam to classify likely phenotype, treat acute viral symptoms supportively, and for chronic cough pursue chest radiograph and spirometry; if UACS is suspected, trial intranasal corticosteroids with or without a second-generation antihistamine for 2 to 4 weeks, and if cough persists, evaluate for asthma, GERD, and other causes using guideline-directed pathways; reserve sinus imaging for refractory cases or suspected complications, and coordinate ENT or allergy referral when indicated [^114J56zG] [^1166vxx8] [^111khKvo].
 
-> Finally, I need to ensure the patient understands that UACS is common, treatable, and often overlapping with other causes of cough; I should set expectations for a gradual response, reinforce adherence to nasal therapy and environmental controls, and plan follow-up to reassess symptom trajectory and adjust the diagnostic and therapeutic approach accordingly [^f33311ef] [^a0f190c6].
+> Finally, I need to ensure the patient understands that UACS is common, treatable, and often overlapping with other causes of cough; I should set expectations for a gradual response, reinforce adherence to nasal therapy and environmental controls, and plan follow-up to reassess symptom trajectory and adjust the diagnostic and therapeutic approach accordingly [^117DZ9QS] [^1157cAAZ].
 
 ---
 
-The most likely cause of sinus pressure, nonproductive cough, and postnasal drip is **upper airway cough syndrome (UACS)** [^a0f190c6] due to rhinitis or rhinosinusitis, often allergic or nonallergic, and sometimes postinfectious [^52c5ac32]. UACS is the **most common cause of chronic cough** [^a0f190c6] and is diagnosed clinically by symptom response to targeted therapy [^f33311ef]. First-line treatment is **intranasal corticosteroids** [^f823565d] with or without a second-generation antihistamine [^f823565d]; saline irrigation can help [^e9da02ca]. If cough persists, evaluate for asthma, GERD, or other causes [^80e1563d] [^e1cddf51].
+The most likely cause of sinus pressure, nonproductive cough, and postnasal drip is **upper airway cough syndrome (UACS)** [^1157cAAZ] due to rhinitis or rhinosinusitis, often allergic or nonallergic, and sometimes postinfectious [^1137iP5j]. UACS is the **most common cause of chronic cough** [^1157cAAZ] and is diagnosed clinically by symptom response to targeted therapy [^117DZ9QS]. First-line treatment is **intranasal corticosteroids** [^117LsoKJ] with or without a second-generation antihistamine [^117LsoKJ]; saline irrigation can help [^116yhLrd]. If cough persists, evaluate for asthma, GERD, or other causes [^114J56zG] [^116mmN88].
 
 ---
 
@@ -51,9 +51,9 @@ The most likely cause of sinus pressure, nonproductive cough, and postnasal drip
 
 UACS arises from **upper airway inflammation** (allergic or nonallergic rhinitis, acute or chronic rhinosinusitis) that triggers cough via:
 
-- **Direct irritation**: mucus contacting pharyngeal cough receptors [^a4d69c7d].
-- **Neurogenic sensitization**: upper airway afferents lower the cough threshold, amplifying lower airway stimuli [^3fa018ca].
-- **Postinfectious inflammation**: persistent upper airway inflammation after viral URIs [^52c5ac32].
+- **Direct irritation**: mucus contacting pharyngeal cough receptors [^115DP4BW].
+- **Neurogenic sensitization**: upper airway afferents lower the cough threshold, amplifying lower airway stimuli [^112dKzh7].
+- **Postinfectious inflammation**: persistent upper airway inflammation after viral URIs [^1137iP5j].
 
 ---
 
@@ -63,22 +63,22 @@ Typical features include:
 
 | **Symptom** | **Description** |
 |-|-|
-| Sinus pressure | Facial pain/pressure, often with nasal congestion [^7621a19e] |
+| Sinus pressure | Facial pain/pressure, often with nasal congestion [^11428qSm] |
 | Nonproductive cough | Dry, irritating, worse at night or with positional changes [^notfound] |
-| Postnasal drip | Sensation of mucus in throat, frequent throat clearing [^7e21cba7] |
-| Associated symptoms | Nasal congestion, rhinorrhea, sneezing, itchy nose/eyes, halitosis, reduced smell [^4436ca09] |
+| Postnasal drip | Sensation of mucus in throat, frequent throat clearing [^114Dznu4] |
+| Associated symptoms | Nasal congestion, rhinorrhea, sneezing, itchy nose/eyes, halitosis, reduced smell [^112k8ZYU] |
 
 ---
 
 ## Diagnostic approach
 
-UACS is a **clinical diagnosis of exclusion** [^f33311ef]; no single test confirms it. Diagnosis is supported by:
+UACS is a **clinical diagnosis of exclusion** [^117DZ9QS]; no single test confirms it. Diagnosis is supported by:
 
-- **History and exam**: consistent symptoms and signs (clear or mucopurulent discharge, cobblestone throat, nasal mucosal edema) [^b7a338c7].
-- **Response to therapy**: cough improves with intranasal corticosteroids ± antihistamine [^c79c16f1].
-- **Exclusion of other causes**: asthma, GERD, ACE inhibitor cough, malignancy [^80e1563d].
+- **History and exam**: consistent symptoms and signs (clear or mucopurulent discharge, cobblestone throat, nasal mucosal edema) [^115hFZPU].
+- **Response to therapy**: cough improves with intranasal corticosteroids ± antihistamine [^1166vxx8].
+- **Exclusion of other causes**: asthma, GERD, ACE inhibitor cough, malignancy [^114J56zG].
 
-Routine sinus imaging is **not indicated** unless refractory or complicated disease is suspected [^4a4e3e17].
+Routine sinus imaging is **not indicated** unless refractory or complicated disease is suspected [^112uAN9C].
 
 ---
 
@@ -86,11 +86,11 @@ Routine sinus imaging is **not indicated** unless refractory or complicated dise
 
 Other common causes of chronic cough to consider:
 
-- **Asthma/cough-variant asthma**: wheeze, bronchodilator response, airway hyperresponsiveness [^2a068fec].
-- **Gastroesophageal reflux disease (GERD)**: heartburn, regurgitation, sour taste [^26286e11].
-- **Nonasthmatic eosinophilic bronchitis**: sputum eosinophils, normal spirometry [^a3c05a99].
-- **ACE inhibitor cough**: dry cough on ACE inhibitor [^2a068fec].
-- **Malignancy**: red flags (hemoptysis, weight loss, smoking) [^b90c5202].
+- **Asthma/cough-variant asthma**: wheeze, bronchodilator response, airway hyperresponsiveness [^1125JggK].
+- **Gastroesophageal reflux disease (GERD)**: heartburn, regurgitation, sour taste [^111ya7MA].
+- **Nonasthmatic eosinophilic bronchitis**: sputum eosinophils, normal spirometry [^115BmbHr].
+- **ACE inhibitor cough**: dry cough on ACE inhibitor [^1125JggK].
+- **Malignancy**: red flags (hemoptysis, weight loss, smoking) [^115jLr9w].
 
 ---
 
@@ -98,39 +98,39 @@ Other common causes of chronic cough to consider:
 
 ### First-line therapy
 
-- **Intranasal corticosteroids**: fluticasone, mometasone, budesonide, or triamcinolone [^f823565d].
-- **Second-generation antihistamines**: cetirizine, loratadine, fexofenadine, desloratadine [^f823565d].
-- **Saline irrigation**: nasal saline rinses for symptom relief [^e9da02ca].
+- **Intranasal corticosteroids**: fluticasone, mometasone, budesonide, or triamcinolone [^117LsoKJ].
+- **Second-generation antihistamines**: cetirizine, loratadine, fexofenadine, desloratadine [^117LsoKJ].
+- **Saline irrigation**: nasal saline rinses for symptom relief [^116yhLrd].
 
 ---
 
 ### Adjunctive measures
 
-- **Allergen avoidance**: environmental controls for allergens [^f823565d].
-- **Decongestants**: short-term topical oxymetazoline or oral pseudoephedrine (use cautiously) [^e9da02ca].
-- **Treat underlying rhinosinusitis**: antibiotics only if bacterial infection is confirmed or strongly suspected [^1d7920a8].
+- **Allergen avoidance**: environmental controls for allergens [^117LsoKJ].
+- **Decongestants**: short-term topical oxymetazoline or oral pseudoephedrine (use cautiously) [^116yhLrd].
+- **Treat underlying rhinosinusitis**: antibiotics only if bacterial infection is confirmed or strongly suspected [^111khKvo].
 
 ---
 
 ## Prognosis
 
-UACS-related cough typically **responds within 2–4 weeks** of appropriate therapy; persistent cough warrants re-evaluation for alternative or additional causes (asthma, GERD, ACE inhibitor use) [^80e1563d].
+UACS-related cough typically **responds within 2–4 weeks** of appropriate therapy; persistent cough warrants re-evaluation for alternative or additional causes (asthma, GERD, ACE inhibitor use) [^114J56zG].
 
 ---
 
-Sinus pressure, nonproductive cough, and postnasal drip most often reflect **UACS** from rhinitis/rhinosinusitis; confirm with symptom response to intranasal therapy and exclude other common causes if cough persists [^a0f190c6].
+Sinus pressure, nonproductive cough, and postnasal drip most often reflect **UACS** from rhinitis/rhinosinusitis; confirm with symptom response to intranasal therapy and exclude other common causes if cough persists [^1157cAAZ].
 
 ---
 
 ## References
 
-### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^3fa018ca]. Chest (2006). Medium credibility.
+### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^112dKzh7]. Chest (2006). Medium credibility.
 
 Nasal afferent nerve regulation of the cough reflex — upper airway disease and trigeminal mechanisms — notes that rhinosinusitis and other upper airway conditions are common comorbidities in chronic cough, yet the reason is unclear and direct stimulation of the nasal mucosa does not initiate cough. Speculation that postnasal drip is responsible is tempered by considerable variance in its prevalence among chronic cough patients. An alternative explanation is a sensitizing effect of upper airway afferent nerves leading to enhanced cough responsiveness and coughing in a subset of individuals. This hypothetical mechanism assumes trigeminal afferent pathways lower the threshold of the central cough pattern generator to subsequent vagal afferent input so even innocuous or physiologic lower airway stimuli could promote coughing. Thus, cough reflex sensitivity is enhanced by upper airways disease and an additional lower airway trigger produces a presentation responsive to aggressive medical therapy targeting upper airway disease, and there is precedent in animals and in patients for enhanced cough sensitivity evoked by upper airway irritation.
 
 ---
 
-### Cough and the common cold: ACCP evidence-based clinical practice guidelines [^52c5ac32]. Chest (2006). Low credibility.
+### Cough and the common cold: ACCP evidence-based clinical practice guidelines [^1137iP5j]. Chest (2006). Low credibility.
 
 Objective
 
@@ -150,7 +150,7 @@ Cough due to the common cold is probably the most common cause of acute cough. I
 
 ---
 
-### Chronic upper airway cough syndrome secondary to rhinosinus diseases (previously referred to as postnasal drip syndrome): ACCP evidence-based clinical practice guidelines [^a0f190c6]. Chest (2006). Low credibility.
+### Chronic upper airway cough syndrome secondary to rhinosinus diseases (previously referred to as postnasal drip syndrome): ACCP evidence-based clinical practice guidelines [^1157cAAZ]. Chest (2006). Low credibility.
 
 Objective
 
@@ -170,19 +170,19 @@ PNDS (ie, UACS) secondary to a variety of rhinosinus conditions is the most comm
 
 ---
 
-### Postnasal drip [^2f6fb7e5]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
+### Postnasal drip [^112DKwhE]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
 
 Postnasal drip (PND) is a common symptom encountered when evaluating subjects with sinonasal disease; it may be present without sinonasal disease or as a symptom of laryngopharyngeal reflux. It is postulated that PND stems from dysfunction of normal mucus clearance mechanisms; however, there is no definitive evidence elucidating an exact pathophysiology. Compounding the uncertainties surrounding PND is the lack of an objective assessment tool. Instead, treating physicians must rely on subjective complaints and investigators utilize validated patient-reported outcome instruments, such as the Sino-Nasal Outcome Test, to determine treatment efficacy. This review seeks to discuss the current understanding of PND and evidence regarding effective treatment strategies.
 
 ---
 
-### Upper airway cough syndrome [^f33311ef]. Otolaryngologic Clinics of North America (2023). Medium credibility.
+### Upper airway cough syndrome [^117DZ9QS]. Otolaryngologic Clinics of North America (2023). Medium credibility.
 
 Upper airway cough syndrome (UACS), formerly known as postnasal drip syndrome, is one of the most common causes of chronic cough. UACS, asthma, and gastroesophageal reflux make up 90% of the cause of chronic cough. UACS is a clinical diagnosis of exclusion with no diagnostic testing or objective findings. UACS can be present with or without associated rhinitis and chronic rhinosinusitis. Treatment includes dual therapy with H1 receptor antihistamines and decongestants. Diagnosis is confirmed when therapeutic intervention results in symptom resolution.
 
 ---
 
-### Overview of common causes of chronic cough: ACCP evidence-based clinical practice guidelines [^e0616d5c]. Chest (2006). Low credibility.
+### Overview of common causes of chronic cough: ACCP evidence-based clinical practice guidelines [^116jexAF]. Chest (2006). Low credibility.
 
 Objective
 
@@ -202,13 +202,13 @@ In the absence of evidence for the presence of another disorder, an approach foc
 
 ---
 
-### Acute and chronic cough [^d6fd089c]. Paediatric Respiratory Reviews (2006). Low credibility.
+### Acute and chronic cough [^116VjLoM]. Paediatric Respiratory Reviews (2006). Low credibility.
 
 Cough is a normal protective mechanism which occurs many times every day. Cough with a viral infection lasts up to 2 weeks in 70–80% of children. Cough present for more than 4 weeks may be due to a recognized specific cause or non specific and considered protracted bronchitis. Chronic cough in children is different to that in adults and rarely due to GE reflux, postnasal drip or asthma. Treatment addresses the specific cause and symptomatic treatment is rarely needed or effective.
 
 ---
 
-### Taming chronic cough [^13e9ac5e]. Annals of Allergy, Asthma & Immunology (2007). Low credibility.
+### Taming chronic cough [^111WXFgH]. Annals of Allergy, Asthma & Immunology (2007). Low credibility.
 
 Objective
 
@@ -232,13 +232,13 @@ Allergists, as experts in treating upper airway and lower airway disorders, are 
 
 ---
 
-### Global strategy for asthma management and prevention [^2a068fec]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^1125JggK]. GINA (2024). High credibility.
 
 How to make the diagnosis of asthma in other contexts — Patients presenting with persistent cough as the only respiratory symptom may have cough‑variant or cough predominant asthma, but common causes of an isolated non‑productive cough also include chronic upper airway cough syndrome (often called 'postnasal drip'), cough induced by angiotensin‑converting enzyme (ACE) inhibitors, gastroesophageal reflux, chronic sinusitis, post‑infectious cough, inducible laryngeal obstruction, and eosinophilic bronchitis. In cough variant asthma, a persistent cough is the only symptom, or, in cough predominant asthma, the most prominent symptom, and the cough may be worse at night or with exercise, and in some patients it is productive. Spirometry is usually normal, and the only abnormality in lung function may be airway hyperresponsiveness.
 
 ---
 
-### Postinfectious cough: ACCP evidence-based clinical practice guidelines [^914b0444]. Chest (2006). Low credibility.
+### Postinfectious cough: ACCP evidence-based clinical practice guidelines [^114iQQJf]. Chest (2006). Low credibility.
 
 Background
 
@@ -258,19 +258,19 @@ In patients who have a cough lasting from 3 to 8 weeks with normal chest radiogr
 
 ---
 
-### Treatment of unexplained chronic cough: CHEST guideline and expert panel report [^accc7003]. Chest (2016). Medium credibility.
+### Treatment of unexplained chronic cough: CHEST guideline and expert panel report [^115RBYEe]. Chest (2016). Medium credibility.
 
 Case description features for unexplained chronic cough — UCC was identified as either refractory to empiric treatment trials or as unable to be assigned an etiology, with example descriptions including chronic cough that had persisted despite medical treatment according to the anatomic diagnostic protocol; cough and symptoms suggesting asthma but with normal lung function; a history consistent with postviral vagal neuropathy with a daily, dry, nonproductive cough of 6 months' duration precipitated by a throat tickle, dry sensation, laughter, or speaking (with most patients having a readily identifiable antecedent upper respiratory tract infection); and chronic cough for which GERD and postnasal drip syndrome (PNDS) had been excluded.
 
 ---
 
-### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^a4d69c7d]. Chest (2006). Medium credibility.
+### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^115DP4BW]. Chest (2006). Medium credibility.
 
 Cough initiated from the pharynx — human studies show that fluid infusion or air-puff stimulation of the pharynx in awake or anesthetized subjects can initiate coughing or the urge to cough under certain circumstances, mediated by afferents of vagal, glossopharyngeal, or trigeminal origin; mechanical stimuli (including postnasal drip or a water bolus) can evoke vigorous cough, whereas capsaicin applied selectively to the pharynx may be unable to initiate coughing.
 
 ---
 
-### Postnasal drip and chronic cough: an open interventional study [^c79c16f1]. Respiratory Medicine (2009). Low credibility.
+### Postnasal drip and chronic cough: an open interventional study [^1166vxx8]. Respiratory Medicine (2009). Low credibility.
 
 Background
 
@@ -294,7 +294,7 @@ In a pilot open 'real-life' study treatment targeted towards rhinosinusitis acco
 
 ---
 
-### A 65-year-old woman with intractable cough [^3ee2b698]. Chest (2022). Medium credibility.
+### A 65-year-old woman with intractable cough [^112cEPCj]. Chest (2022). Medium credibility.
 
 Case Presentation
 
@@ -302,43 +302,43 @@ A 65-year-old woman was referred for a second opinion regarding a 7-month histor
 
 ---
 
-### IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults [^5e9dd20e]. Clinical Infectious Diseases (2012). Low credibility.
+### IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults [^113RGr5j]. Clinical Infectious Diseases (2012). Low credibility.
 
 The disease acute bacterial rhinosinusitis can be associated with sinus opacification, fatigue, ↑ serum CRP, recent upper respiratory infection, nasal speech, otalgia, any ≥ 2 of 5 clinical findings of acute sinusitis, postnasal drip, nasal polyps, cocaine use, reduced sense of smell, maxillary dental pain, malaise, diplopia, tobacco use, purulent nasal discharge, air-fluid levels in paranasal sinuses, sneezing, allergic rhinitis, any ≥ 3 clinical findings of acute sinusitis, cough, sinus tenderness, nasal discharge, rhinorrhea, sore throat, periorbital pain, facial pressure, periorbital edema, ⊕ transillumination of paranasal sinuses, any ≥ 4 of 5 clinical findings of acute sinusitis, ear fullness, ↑ ESR, nasal congestion and ↑ WBC count.
 
 ---
 
-### Clinical practice guideline (update): adult sinusitis [^2ea9a89c]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
+### Clinical practice guideline (update): adult sinusitis [^112CBRBR]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
 
 Allergic rhinitis (AR) — history and physical examination for initial clinical diagnosis emphasizes that Key elements of the history in patients presenting with AR include seasonal, perennial or episodic, exposure-associated itching of the nose, palate, or eyes, sneezing, nasal congestion, sniffing, clear rhinorrhea, and postnasal drip. Children may only complain of malaise or fatigue, often associated with a cough, and the history must include specific questions about rhinorrhea and nasal and ocular itch in order to elicit these complaints. Symptoms of other sinonasal diseases such as sinusitis, vasomotor rhinitis, and granulomatous diseases can overlap with AR symptoms and should be differentiated from AR, and Less typical symptoms such as epistaxis, unilateral rhinorrhea, unilateral nasal blockage, severe headache, or anosmia suggest alternative diagnoses and should be investigated further. Viral upper respiratory infections may produce similar symptoms but tend to be of a shorter duration and often include other symptoms such as fever and myalgia. A family history of AR, asthma, or atopic dermatitis strengthens the diagnosis of AR in patients with compatible symptoms. Findings on physical examination that support the diagnosis of AR include several classic findings, such as clear rhinorrhea and pale pink or bluish swelling of the nasal turbinate mucosa, and Frequent throat clearing is often present as well, reflecting postnasal drip. Although definitive diagnosis depends on the finding of an IgE-mediated response to a specific allergen, detected through cutaneous or blood testing in most patients, it is reasonable to make an initial diagnosis and begin therapy based on the history and physical examination, and A good response to avoidance of suspected allergens or appropriate empiric therapy supports the diagnosis of AR and may preclude the need for further testing.
 
 ---
 
-### Does post-nasal drip cause cough in childhood? [^f3a71de3]. Paediatric Respiratory Reviews (2006). Low credibility.
+### Does post-nasal drip cause cough in childhood? [^117EE8BC]. Paediatric Respiratory Reviews (2006). Low credibility.
 
 The proposition that post-nasal drip (PND) is a common cause of cough in childhood is controversial. The concept of PND as a common cause of cough is derived primarily from the adult literature. The definition of what constitutes PND is variable and it is unclear whether it is a symptom, a sign or both. Examination of the specificity of symptoms and signs for the diagnosis of PND syndrome further confuses the issue. A definitive diagnosis of cough induced by PND cannot be made from history and physical examination alone. The concept is inconsistent both with the meaning of the word 'drip' and the science of rheology. The most plausible explanation for the occurrence of cough in children identified with increased post-nasal secretions is that both reflect co-existent airways pathologies. In considering causes of chronic cough in childhood, it is now time to abandon the concept of PND and the associated PND syndrome.
 
 ---
 
-### Occupational and environmental contributions to chronic cough in adults: chest expert panel report [^3bf4cfa5]. Chest (2016). Medium credibility.
+### Occupational and environmental contributions to chronic cough in adults: chest expert panel report [^112XtVw2]. Chest (2016). Medium credibility.
 
 Allergy and chronic cough — two of the most common causes may both have an allergic nidus, including upper airway cough syndrome due to a variety of rhinosinus conditions (previously referred to as postnasal drip syndrome) and asthma, and in a study by Irwin et al that prospectively examined the prevalence of the causes of cough in a group of 122 consecutive patients in a tertiary care center, 41% were diagnosed with postnasal drip syndrome and 24% were due to asthma, with stratified analysis showing that 23% were due to allergic rhinitis. Symptoms associated with allergic rhinitis include nasal obstruction, clear to yellow rhinorrhea, postnasal drip, and nasal pruritus with paroxysms of sneeze, with pertinent physical examination findings including pale, boggy nasal mucosa with clear to yellow rhinorrhea; symptoms may occur only seasonally or may occur perennially.
 
 ---
 
-### Extraesophageal symptoms and diseases attributed to GERD: where is the pendulum swinging now? [^d2564074]. Clinical Gastroenterology and Hepatology (2018). Medium credibility.
+### Extraesophageal symptoms and diseases attributed to GERD: where is the pendulum swinging now? [^116NqNVy]. Clinical Gastroenterology and Hepatology (2018). Medium credibility.
 
 Extraesophageal manifestations of gastroesophageal reflux disease (GERD) span laryngopharyngeal, respiratory, and other domains, including chronic throat clearing, globus sensation, throat pain, hoarseness, dysphonia, laryngeal cancer; cough, pulmonary fibrosis, lung transplant rejection, asthma; and enamel erosion, otitis, sinusitis, and postnasal drip.
 
 ---
 
-### Chronic rhinosinusitis with nasal polyps [^2285e136]. The New England Journal of Medicine (2019). Excellent credibility.
+### Chronic rhinosinusitis with nasal polyps [^111tBYmb]. The New England Journal of Medicine (2019). Excellent credibility.
 
 The disease chronic rhinosinusitis can be associated with eosinophilic granulomatosis with polyangiitis, IgA deficiency, headache, nasal congestion, allergy, sarcoidosis, granulomatosis with polyangiitis, nasal mucosal erythema, rhinorrhea, reduced sense of smell, aspirin-exacerbated respiratory disease, facial pain, sleeping disorder, postnasal drip, asthma, halitosis, ear pain, HIV infection, facial pressure, cough, nasal discharge, primary ciliary dyskinesia, nasal obstruction, nasal septum perforation, nasal polyps, cystic fibrosis and common variable immunodeficiency.
 
 ---
 
-### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^b10fcf19]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^115XW7s6]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 Sixteen of the 17 patients with a diagnosis of upper airway-related cough (94%) had associated symptoms, although only four reported post-nasal drip. Other symptoms included nasal congestion, irritation and discharge, sneezing and hyposmia. Thirteen of the 17 were referred to the ear, nose and throat (ENT) clinic, of whom five subsequently had sinus computed tomography (CT). The diagnosis in four patients was made primarily on a response to nasal corticosteroids.
 
@@ -348,7 +348,7 @@ Of the 31 patients with UCC, 23 (74.2%) were female and the median age was 56 ye
 
 ---
 
-### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^e1cddf51]. Chest (2016). Low credibility.
+### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^116mmN88]. Chest (2016). Low credibility.
 
 Background
 
@@ -368,7 +368,7 @@ The panelists (1) endorsed the use of a diagnostic/therapeutic algorithm address
 
 ---
 
-### An intranasal adjuvanted, recombinant influenza A / H5 vaccine primes against diverse H5N1 clades: a phase I trial [^d7af938b]. Nature Communications (2025). High credibility.
+### An intranasal adjuvanted, recombinant influenza A / H5 vaccine primes against diverse H5N1 clades: a phase I trial [^116WmK6J]. Nature Communications (2025). High credibility.
 
 Fig. 6
 Solicited symptoms through 7 days after each intranasal vaccination.
@@ -385,7 +385,7 @@ Throughout the trial there were no potentially immune-mediated medical condition
 
 ---
 
-### The predicative clinical features associated with chronic cough that has a single underlying cause [^26286e11]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
+### The predicative clinical features associated with chronic cough that has a single underlying cause [^111ya7MA]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
 
 Background
 
@@ -409,7 +409,7 @@ Cough timing, several concomitant symptoms associated with gastroesophageal refl
 
 ---
 
-### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^c7a78b28]. BMC Pulmonary Medicine (2021). Medium credibility.
+### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^1166zp6K]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 Meningoencephalocele occurs mainly in infants with a very low incidence and is extremely rare in adults. Zada et al. first reported a case about chronic aspiration-induced pneumonitis caused by spontaneous ethmoid sinus meningocele with CSF rhinorrhea, and indicated that increased diagnostic complexity associated with pulmonary complications led to unnecessary intervention and treatment delays. CSF rhinorrhea can be considered as a cause of chronic pneumonitis despite the lack of direct evidence. A controlled clinical trial has shown that sinonasal secretions can be transferred to the lungs whether in patients with cystic fibrosis or healthy subjects. In this case, meningoencephalocele is located in the lateral wall of sphenoidal sinus and leads to persistent CSF rhinorrhea. Endoscopic surgery can be an effective and a safe treatment option for resection of meningoencephalocele and skull base reconstruction. A rapid improvement of symptoms, abnormal imaging findings and inflammation markers caused by pneumonitis after endoscopic surgery also proves that spontaneous sphenoid sinus meningoencephalocele with CSF rhinorrhea is a key factor to induce aspiration pneumonitis. However, the lesion could still progress further in the early postoperative period due to the persistence of the local inflammatory response caused by residence of components of CSF and the bacteria of nasal cavity and oropharynx along with CSF in the lungs. Continuous dry cough gives rise to raised intracranial pressure, which further increases flow of CSF and persistent aspiration. In addition, persistent cough caused by postnasal drip of CSF in the supine position may also cause reflux of gastric contents and increase the chance of aspiration. However, the direct evidence of aspiration pneumonitis caused by CSF rhinorrhea needs further clinical investigation.
 
@@ -417,25 +417,25 @@ Although uncommon, spontaneous sphenoid sinus meningoencephalocele with CSF rhin
 
 ---
 
-### Rhinitis 2020: a practice parameter update [^b2cfd3c2]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
+### Rhinitis 2020: a practice parameter update [^115a6bxm]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
 
 Patient-reported symptoms and likely diagnosis — Allergic rhinitis (AR), nonallergic rhinitis (NAR), acute upper respiratory tract infection, chronic rhinosinusitis (CRS) without nasal polyps, and CRS with nasal polyps — are contrasted by frequency descriptors. Rhinorrhea/sniffing in AR is described as very common with clear watery discharge, whereas NAR is common but less than AR overall; in acute infection it is common and may be clear to purulent and watery to mucoid with crusts; and in CRS (with or without nasal polyps) it is common and clear to mucoid. Ocular pruritus/watery discharge/red eyes is very common in AR but uncommon in NAR and acute infection and very uncommon in CRS. Nasal congestion or blocked nose/mouth breathing is very common and persistent in AR and very common, chronic, almost universal in CRS with nasal polyps. Facial or sinus pain/pressure is very uncommon in AR yet common in acute infection and in CRS without nasal polyps. Postnasal drip is uncommon and persistent in AR but very common in NAR and common in acute infection and CRS without nasal polyps. Nasal/palate/ear itching is common in AR and very uncommon in NAR, acute infection, and CRS with or without nasal polyps. Snoring is uncommon and persistent in AR but common in the other listed conditions, and sleep disturbance/sleep apnea is common across all listed conditions. Frequencies are based on expert evidence and opinion and the table was developed based predominantly on expert opinion.
 
 ---
 
-### Clinical practice guideline (update): adult sinusitis [^b7a338c7]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
+### Clinical practice guideline (update): adult sinusitis [^115hFZPU]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
 
 Allergic rhinitis (AR) — history and physical examination features are organized as presenting symptoms, historical findings, and physical findings; presenting symptoms include nasal congestion, sneezing, rhinorrhea (clear or colored), itching of nose, eyes, palate, postnasal drip, frequent throat clearing, cough, malaise, and fatigue; historical findings include seasonal vs perennial nature of symptoms, symptoms on exposure to particular agent, current medications, family history of atopic or allergic disease, symptoms on exposure to irritants, and symptoms of upper respiratory infection; physical findings include clear rhinorrhea, bluish or pale swelling of nasal mucosa, ocular findings, frequent throat clearing, allergic shiners, nasal crease, and absence of foreign body, tumor, purulence suggesting infection.
 
 ---
 
-### Pediatric allergic rhinitis and comorbid disorders [^30d0f5bf]. The Journal of Allergy and Clinical Immunology (2001). Low credibility.
+### Pediatric allergic rhinitis and comorbid disorders [^112FNbPt]. The Journal of Allergy and Clinical Immunology (2001). Low credibility.
 
 Allergic rhinitis (AR) is rarely found in isolation and needs to be considered in the context of systemic allergic disease associated with numerous comorbid disorders, including asthma, chronic middle ear effusions, sinusitis, lymphoid hypertrophy with obstructive sleep apnea, disordered sleep, and consequent behavioral and educational effects. The coexistence of AR and asthma is complex. First, the diagnosis of asthma may be confounded by symptoms of cough caused by rhinitis and postnasal drip. This may lead to either inaccurate diagnosis of asthma or inappropriate assessment of asthma severity with over treatment of the patient. The term "cough variant rhinitis" is therefore proposed to describe rhinitis that manifests itself primarily as cough that results from postnasal drip. AR, however, also has a causal role in asthma; it appears both to be responsible for exacerbating asthma and to have a role in its pathogenesis. Postnasal drip with nasopharyngeal inflammation leads to a number of other conditions. Thus sinusitis is a frequent extension of rhinitis and is one of the most frequently missed diagnoses in children. Allergen exposure in the nasopharynx with release of histamine and other mediators can cause Eustachian tube obstruction possibly leading to middle ear effusions. Chronic allergic inflammation of the upper airway causes lymphoid hypertrophy with prominence of adenoidal and tonsillar tissue. This may be associated with poor appetite, poor growth, and obstructive sleep apnea. AR is therefore part of a spectrum of allergic disorders that can profoundly affect the well being and quality of life of a child. Prospective cohort studies are required to assess the disease burden caused by AR in childhood and to further assess the potential educational impairment that may result. Because AR is part of a systemic disease process, its management requires a coordinated approach rather than a fragmented, organ-based approach.
 
 ---
 
-### Investigation of extraesophageal gastroesophageal reflux disease [^11cd368d]. Annals of Gastroenterology (2013). Low credibility.
+### Investigation of extraesophageal gastroesophageal reflux disease [^111TPifW]. Annals of Gastroenterology (2013). Low credibility.
 
 GERD-related cough
 
@@ -445,31 +445,31 @@ Irritation of the upper respiratory tract with or without microaspiration is rep
 
 ---
 
-### Rhinitis 2020: a practice parameter update [^bf0c65fe]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
+### Rhinitis 2020: a practice parameter update [^115tEoND]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
 
 Diagnosis and treatment of rhinitis-associated conditions — CRS without nasal polyps: History can include facial pain/pressure, headache, mucopurulent discharge, decreased sense of smell, postnasal drip, fatigue, poor sleep quality, and depression; exam may show mucopurulent discharge, facial tenderness, and cobblestoning posterior pharyngeal wall; diagnostic studies include fiberoptic nasopharyngoscopy, sinus CT, and consider immune system evaluation; treatment notes that evidence for treatment effectiveness may differ between CRS with and CRS without nasal polyps, and options include INCS, saline irrigation, chronic macrolide antibiotics (conflicting evidence), acute antibiotics for superimposed infection, and surgery.
 
 ---
 
-### Diagnosis and management of rhinosinusitis: a practice parameter update [^29c44215]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
+### Diagnosis and management of rhinosinusitis: a practice parameter update [^1124vQyJ]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
 Clinical diagnosis — history of rhinosinusitis identifies that acute bacterial rhinosinusitis (ABRS) is suspected in patients whose upper respiratory infection (URI) has persisted beyond 7 to 10 days or is worsening after initial improvement, and symptoms lasting 5 to 10 days are the most difficult to assess because they may reflect an ongoing viral upper respiratory tract infection (URTI) or the beginning of a bacterial infection. In adults, prominent symptoms include nasal congestion, obstruction, anterior and/or posterior purulent rhinorrhea, and facial pain or pressure, and a history of persistent purulent rhinorrhea and facial pain appear to have some correlation with increased likelihood of bacterial disease; in children, symptoms often also include increased irritability, even more prolonged cough, and vomiting that occurs in association with gagging on mucus. In contrast to ABRS, chronic rhinosinusitis (CRS) cannot be diagnosed by symptoms alone and can be subdivided into CRSsNP and CRSwNP; patients with CRSwNP generally present with periodic exacerbations with increased facial pain or pressure and increased drainage, and fever is absent or low grade with persistence of some sinonasal symptoms between episodes that distinguishes CRS from recurrent acute rhinosinusitis (RARS), in which the patient is asymptomatic between ABRS episodes.
 
 ---
 
-### Diagnosis and management of rhinosinusitis: a practice parameter update [^65d2b5d4]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
+### Diagnosis and management of rhinosinusitis: a practice parameter update [^113bxXRu]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
 Annotations to algorithm — symptoms suggestive of acute rhinosinusitis (ARS) include listed prominent symptoms, and specific red flags require urgent evaluation. Prominent symptoms include nasal congestion, purulent rhinorrhea, postnasal drainage, facial or dental pain, headache, throat clearing, and cough. Any patient with orbital swelling or pain, swelling of the forehead, and/or diplopia should be urgently evaluated.
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^7621a19e]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^11428qSm]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Adult acute rhinosinusitis (ARS) — clinical diagnosis requires duration and symptom pattern: ARS is a clinical diagnosis made when a patient presents with more than 10 days and up to 4 weeks of a combination of 3 cardinal symptoms: purulent (not clear) nasal drainage accompanied by nasal obstruction, facial pain-pressure-fullness, or both. Nasal obstruction without purulent nasal drainage is inconsistent with ARS, and similarly facial pain without purulent nasal drainage is inconsistent with ARS; the rationale for these 3 cardinal symptoms includes considering persistence for 10 days or longer or symptoms worsening after 5 days.
 
 ---
 
-### IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults [^c757b67f]. Clinical Infectious Diseases (2012). Low credibility.
+### IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults [^1166Xzs8]. Clinical Infectious Diseases (2012). Low credibility.
 
 The following constitutes key background information on acute bacterial rhinosinusitis:
 
@@ -480,7 +480,7 @@ The following constitutes key background information on acute bacterial rhinosin
 
 ---
 
-### The role of ambulatory 24-hour esophageal manometry in clinical practice [^4bf4d648]. Neurogastroenterology and Motility (2020). Medium credibility.
+### The role of ambulatory 24-hour esophageal manometry in clinical practice [^112wcJwq]. Neurogastroenterology and Motility (2020). Medium credibility.
 
 5 CHRONIC COUGH
 
@@ -488,7 +488,7 @@ Accounting for an estimated 30 million clinical visits per year, chronic cough i
 
 ---
 
-### Postoperative exacerbated cough hypersensitivity syndrome induces dramatic respiratory alkalosis, lactatemia, and electrolyte imbalance [^4916f23a]. BMC Anesthesiology (2024). Medium credibility.
+### Postoperative exacerbated cough hypersensitivity syndrome induces dramatic respiratory alkalosis, lactatemia, and electrolyte imbalance [^112sMobo]. BMC Anesthesiology (2024). Medium credibility.
 
 Discussion
 
@@ -496,13 +496,13 @@ Cough, as a non-specific symptom of various pulmonary and extrapulmonary disease
 
 ---
 
-### Classification of cough as a symptom in adults and management algorithms: CHEST guideline and expert panel report [^80e1563d]. Chest (2018). Medium credibility.
+### Classification of cough as a symptom in adults and management algorithms: CHEST guideline and expert panel report [^114J56zG]. Chest (2018). Medium credibility.
 
 Chronic cough — 4 Most Common Causes to Consider are Upper Airway Cough Syndrome secondary to rhinosinus diseases (consider sinus imaging, nasopharyngoscopy, allergy evaluation or empiric treatment), Asthma (ideally evaluate spirometry, bronchodilator reversibility, bronchoprovocation challenge, allergy evaluation or empiric treatment), Non-asthmatic Eosinophilic Bronchitis (ideally evaluate sputum eosinophilia, fraction exhaled nitric oxide (FeNO), allergy evaluation or empiric treatment), and Gastroesophageal Reflux Disease (physiologic testing for refractory patients; initial treatment to include more than acid suppression).
 
 ---
 
-### An 80-year-old man with intractable cough [^69dd310f]. Chest (2024). Medium credibility.
+### An 80-year-old man with intractable cough [^113hwzkW]. Chest (2024). Medium credibility.
 
 Case Presentation
 
@@ -510,7 +510,7 @@ An 80-year-old man with no history of substance addiction presented with complai
 
 ---
 
-### Postnasal drip syndrome: a new definition and successful oral gargling treatment [^55d87512]. American Journal of Otolaryngology (2025). Medium credibility.
+### Postnasal drip syndrome: a new definition and successful oral gargling treatment [^113CGet9]. American Journal of Otolaryngology (2025). Medium credibility.
 
 Introduction
 
@@ -530,7 +530,7 @@ Oral gargling may be a safe and potentially effective treatment for PNDS. It cou
 
 ---
 
-### Postnasal drip | JAMA otolaryngology-head&neck surgery… [^7e21cba7]. JAMA Network (2025). Excellent credibility.
+### Postnasal drip | JAMA otolaryngology-head&neck surgery… [^114Dznu4]. JAMA Network (2025). Excellent credibility.
 
 Chiu J, Rowan NR. Postnasal Drip. JAMA Otolaryngol Head Neck Surg. 2025; 151:
 
@@ -542,13 +542,13 @@ These procedures work by shrinking some of the lining of nose or by removing ner
 
 ---
 
-### Consensus guidelines for evaluation and management of pulmonary disease in Sjögren's [^82f82ea6]. Chest (2021). High credibility.
+### Consensus guidelines for evaluation and management of pulmonary disease in Sjögren's [^114MAkcd]. Chest (2021). High credibility.
 
 Recommendations for assessment and management of upper and lower airway disease in Sjögren's — dry bothersome cough without lower airway or parenchymal lung disease: Sjögren's patients with dry bothersome cough and documented absence of lower airway or parenchymal lung disease must be assessed for treatable or preventable etiologies other than xerotrachea, including gastroesophageal reflux, postnasal drip, and asthma.
 
 ---
 
-### Chronic rhinosinusitis associated with chronic bronchitis in a five-year follow-up: the telemark study [^b37b8005]. BMC Pulmonary Medicine (2022). Medium credibility.
+### Chronic rhinosinusitis associated with chronic bronchitis in a five-year follow-up: the telemark study [^115b6GRJ]. BMC Pulmonary Medicine (2022). Medium credibility.
 
 Outcomes
 
@@ -565,37 +565,37 @@ Asthma was defined as a positive answer to the question "Have you ever been diag
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^1c9682af]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^111jPD58]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Acute rhinosinusitis (ARS) definitions — diagnostic thresholds and subtypes are specified as follows: ARS involves up to 4 weeks of purulent nasal drainage with nasal obstruction, facial pain–pressure–fullness, or both, with discharge described as cloudy or colored and typical features of obstruction and facial pain detailed. A clinician should diagnose viral rhinosinusitis (VRS) when symptoms or signs are present less than 10 days and are not worsening. A clinician should diagnose acute bacterial rhinosinusitis (ABRS) when symptoms or signs fail to improve within 10 days or more beyond the onset of upper respiratory symptoms, or worsen within 10 days after an initial improvement (double worsening). Facial pain–pressure–fullness without purulent nasal discharge is insufficient to establish ARS.
 
 ---
 
-### Assessment of intervention fidelity and recommendations for researchers conducting studies on the diagnosis and treatment of chronic cough in the adult: CHEST guideline and expert panel report [^68b1a1dc]. Chest (2015). Medium credibility.
+### Assessment of intervention fidelity and recommendations for researchers conducting studies on the diagnosis and treatment of chronic cough in the adult: CHEST guideline and expert panel report [^113gDNs5]. Chest (2015). Medium credibility.
 
 Chronic cough — enactment of treatment and nonadherence/side effects data were limited: The average scores for patient ability to engage ranged from 0.00 to 1.00, and no study of any design specifically reported systematically assessing for or measuring patient ability to engage in interventions in daily life; among prospective observational studies, one noted a 23% relapse rate due to nonadherence, and another reported relapse of symptoms in six patients with postnasal drip syndrome and in one patient secondary to stopping GERD treatment, plus a patient who could not tolerate a proton pump inhibitor secondary to side effects; two studies reported systematically assessing for side effects, including one that reported 10% of patients having side effects with no patients dropping out, and one randomized controlled trial noting the occurrence of 57 adverse events with their modified protocol and 74 similar adverse events with their cited standard.
 
 ---
 
-### Clinical practice. allergic rhinitis [^4436ca09]. The New England Journal of Medicine (2015). Excellent credibility.
+### Clinical practice. allergic rhinitis [^112k8ZYU]. The New England Journal of Medicine (2015). Excellent credibility.
 
 The disease allergic rhinitis can be associated with itchy eyes, postnasal drip, rhinorrhea, atopic dermatitis, nasal polyps, watery eyes, allergic crease, ↑ serum IgE, nasal congestion, atopy, chronic cough, cobblestone throat, reduced sense of smell, expsure to allergen, allergic reactions, itchy nose, asthma, sneezing and urticaria.
 
 ---
 
-### Extraoesophageal manifestations of gastro-oesophageal reflux [^b6f5330d]. Gut (2005). Low credibility.
+### Extraoesophageal manifestations of gastro-oesophageal reflux [^115gF7AC]. Gut (2005). Low credibility.
 
 A variety of pulmonary and ear, nose, and throat (ENT) symptoms and disorders are considered to be extraoesophageal manifestations of gastro-oesophageal reflux disease (GORD). These extraoesophageal manifestations include asthma, chronic cough, laryngeal disorders, and various ENT symptoms. Recent studies have established that GORD underlies or contributes to chronic sinusitis, chronic otitis media, paroxysmal laryngospasm, excessive throat phlegm, and postnasal drip. Traditionally, management of extraoesophageal GORD manifestations relies on prolonged empiric therapy with high doses of proton pump inhibitors (PPI), followed by pH monitoring under PPI in refractory cases. Recent studies found no benefit of empiric long term high dose PPI therapy. The diagnostic yield of endoscopy in extraoesophageal GORD manifestations seems higher than previously appreciated while pH monitoring under PPI therapy has a low yield. Based on these new findings, a new management algorithm can be proposed that uses short term empiric PPI therapy and GORD investigations off PPI. Well designed controlled studies evaluating the proposed management algorithms and treatment approaches in this area are urgently needed.
 
 ---
 
-### Renal cell carcinoma metastases to the maxillary sinus [^62d65151]. BMJ Case Reports (2017). Medium credibility.
+### Renal cell carcinoma metastases to the maxillary sinus [^113XXmrx]. BMJ Case Reports (2017). Medium credibility.
 
 Metastasis of renal cell carcinoma (RCC) to the head and neck region is rare. We report the case of a 65-year-old man with history of RCC, presented 7 years after nephrectomy, adrenalectomy and lung metastasectomy for his primary tumour, with symptoms of nasal obstruction, postnasal drip, productive cough and pressure sensation in the left maxillary sinus. CT revealed a unilateral, irregular opacification in the left maxillary sinus with bony erosion of the infraorbital canal wall. A yellow cystic lesion was completely removed from the maxillary sinus during functional endoscopic sinus surgery and histopathological analysis confirmed the diagnosis of a metastatic RCC. Patient continued to be managed with his pre-existing treatment for advanced RCC.
 
 ---
 
-### Allergic rhinitis: a review [^f823565d]. JAMA (2024). Excellent credibility.
+### Allergic rhinitis: a review [^117LsoKJ]. JAMA (2024). Excellent credibility.
 
 Importance
 
@@ -611,7 +611,7 @@ Allergic rhinitis is associated with symptoms of nasal congestion, sneezing, and
 
 ---
 
-### Airway inflammation as an assessment of chronic nonproductive cough [^a3c05a99]. Chest (2001). Low credibility.
+### Airway inflammation as an assessment of chronic nonproductive cough [^115BmbHr]. Chest (2001). Low credibility.
 
 Objectives
 
@@ -631,7 +631,7 @@ These results suggest that a chronic nonproductive cough as an isolated symptom 
 
 ---
 
-### The challenge of objective confirmation of asthma diagnosis in primary care [^814da295]. NPJ Primary Care Respiratory Medicine (2014). Low credibility.
+### The challenge of objective confirmation of asthma diagnosis in primary care [^114JhUon]. NPJ Primary Care Respiratory Medicine (2014). Low credibility.
 
 Case Presentation
 
@@ -641,7 +641,7 @@ Her past medical history included eczema and a single episode of generalised hiv
 
 ---
 
-### Locally delivered flurbiprofen 8.75 mg for treatment and prevention of sore throat: a narrative review of clinical studies [^cb4b7b3d]. Journal of Pain Research (2019). Medium credibility.
+### Locally delivered flurbiprofen 8.75 mg for treatment and prevention of sore throat: a narrative review of clinical studies [^116CPqhn]. Journal of Pain Research (2019). Medium credibility.
 
 URTI Symptoms
 
@@ -651,7 +651,7 @@ Burova et alalso demonstrated a significant reduction in the number of patients 
 
 ---
 
-### Risk factors for morbidity and death in non-cystic fibrosis bronchiectasis: a retrospective cross-sectional analysis of CT diagnosed bronchiectatic patients [^e8c085df]. Respiratory Research (2012). Low credibility.
+### Risk factors for morbidity and death in non-cystic fibrosis bronchiectasis: a retrospective cross-sectional analysis of CT diagnosed bronchiectatic patients [^116x4o2e]. Respiratory Research (2012). Low credibility.
 
 The chest CT scan images of all these patients were re-assessed to confirm/exclude the presence of BX. CT scans were performed by one of the UZ Leuven respiratory radiologists or at other centers. Images obtained using 1 mm collimation at full inspiration were reviewed and BX was deemed to be present if there was one or more of the following criteria: a bronchoarterial ratio greater than 1, lack of tapering of the bronchi and visualization of bronchi within 1 cm of costal or paravertebral pleura or abutting the mediastinal pleura.
 
@@ -659,7 +659,7 @@ In the patients with BX confirmed on chest CT scan, clinical records were retros
 
 ---
 
-### Clinical characteristics and drug utilisation patterns in patients with chronic cough: a retrospective cohort study using a Japanese claims database [^244c0579]. BMC Pulmonary Medicine (2022). Medium credibility.
+### Clinical characteristics and drug utilisation patterns in patients with chronic cough: a retrospective cohort study using a Japanese claims database [^111vp6AL]. BMC Pulmonary Medicine (2022). Medium credibility.
 
 Variables of interest extracted from the Medi-scope® database
 
@@ -671,19 +671,19 @@ Information on cough-related diseases, such as emphysema, chronic rhinitis or GE
 
 ---
 
-### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^22ef99ea]. Chest (2016). Medium credibility.
+### Chronic cough due to gastroesophageal reflux in adults: CHEST guideline and expert panel report [^111to4Pb]. Chest (2016). Medium credibility.
 
 Chronic cough — Plaza et al. 2006 primary care algorithm reported for "57 consecutive new patients with CC" that "91% of cases resolved at primary care level using algorithm", with etiology counts showing "In 53%, a single cause was identified; in 36%, 2 causes were identified; and in 11%, there were more than 2 causes", and the leading causes were "postnasal drip (46%), cough-inducing drugs (28%), asthma (27%), infection (23%), GERD (21%), other (16%)", while the Risk of Bias Assessment noted "High risk of bias", "Absence of an unexposed cohort", and "GERD diagnosis depended on response to unspecified therapy".
 
 ---
 
-### Somatic cough syndrome (previously referred to as psychogenic cough) and tic cough (previously referred to as habit cough) in adults and children: CHEST guideline and expert panel report [^a8a9bf20]. Chest (2015). Medium credibility.
+### Somatic cough syndrome (previously referred to as psychogenic cough) and tic cough (previously referred to as habit cough) in adults and children: CHEST guideline and expert panel report [^115K3wGs]. Chest (2015). Medium credibility.
 
 Somatic cough syndrome and tic cough — diagnostic value of cough characteristics and psychiatric comorbidity is limited: these cough-associated presentations are "not sensitive screening findings for psychogenic or habit cough" and "these three findings lack specificity for the diagnoses of psychogenic or habit cough". Barking cough is "reported in other childhood conditions, such as tracheomalacia" and "a barking or honking cough can be due to a variety of diseases, such as bronchiectasis, gastroesophageal reflux disease, and postnasal drip syndrome (ie, now referred to as upper airway cough syndrome)". For sleep-related features, cough from other diseases "is unlikely to occur once patients fall asleep", likely due to "the observed suppression effect that sleep has on cough". Regarding psychiatric symptoms, adult literature states "the mere presence of depression and/or anxiety in patients with chronic unexplained cough not be used to make a definitive diagnosis of a psychologic condition", and overall "based upon low-quality studies, little evidence exists to support how to define or diagnose psychogenic or habit cough".
 
 ---
 
-### Hospital-acquired sinusitis is a common cause of fever of unknown origin in orotracheally intubated critically ill patients [^755d173c]. Critical Care (2005). Low credibility.
+### Hospital-acquired sinusitis is a common cause of fever of unknown origin in orotracheally intubated critically ill patients [^113zzpXV]. Critical Care (2005). Low credibility.
 
 Bacteraemia with the same microorganism as that cultured from the sinus occurred in 12 patients; in five patients the microorganism causing bacteraemia was cultured only from the blood and the sinus, making sinusitis the most likely cause of bacteraemia. However, no definite conclusions about cause and effect can be drawn because bacteraemia can also lead to sinusitis, with bacterial colonisation of sinus fluids following bacteraemia.
 
@@ -691,7 +691,7 @@ Various mechanisms might explain the high incidence of sinusitis in ICU patients
 
 ---
 
-### Expression of transforming growth factor-beta (TGF-beta) in chronic idiopathic cough [^c6874fb3]. Respiratory Research (2009). Low credibility.
+### Expression of transforming growth factor-beta (TGF-beta) in chronic idiopathic cough [^1165Kzsk]. Respiratory Research (2009). Low credibility.
 
 Methods
 
@@ -710,7 +710,7 @@ The study was approved by the Ethics Committee of our institution and all subjec
 
 ---
 
-### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^cb1eb5af]. BMC Pulmonary Medicine (2021). Medium credibility.
+### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^116C8oUr]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 Case presentation
 
@@ -718,7 +718,7 @@ A 62-year-old female presented with 4 weeks of right-sided watery rhinorrhea. Sh
 
 ---
 
-### Retreatment of symptomatic chronic bronchitis with bronchial rheoplasty [^b285548b]. BMJ Case Reports (2024). High credibility.
+### Retreatment of symptomatic chronic bronchitis with bronchial rheoplasty [^115ZfaeN]. BMJ Case Reports (2024). High credibility.
 
 Case presentation
 
@@ -734,13 +734,13 @@ His initial vital signs were as follows: blood pressure of 133/91 mm Hg, pulse r
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^e9da02ca]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^116yhLrd]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Adult sinusitis guideline — viral rhinosinusitis (VRS) supportive care and natural history note that acute VRS is estimated to occur from 2 to 5 times per year in the average adult, secondary bacterial infection is believed to complicate only 0.5% to 2.0% of these events, and symptoms typically peak within 3 days then decline and resolve within 10 to 14 days. Management is symptomatic: antibiotics are not recommended for treating VRS as antibiotics are ineffective for viral illness and do not provide direct symptom relief, and palliative medications — non-narcotic analgesics (nonsteroidal anti-inflammatory medications, acetaminophen), nasal saline, decongestants, antihistamines, mucolytics, cough suppressants, and topical or oral corticosteroids — may be used alone or in varying combinations for symptom relief. Acetaminophen may help relieve nasal obstruction and rhinorrhea but does not alleviate other viral symptoms, whereas nonsteroidal anti-inflammatory agents do not improve nasal discharge but improve malaise, sneezing, headache, and otalgia, and should be used with caution in older adults. Nasal saline may be palliative and cleansing with low risk of adverse reactions, with minor improvements in nasal symptom scores reported and a meta-analysis indicating that higher volume irrigations may be superior. For decongestants, in 2023 the FDA advisory committee discouraged the use of oral phenylephrine as a nasal decongestant; use of up to 3 to 5 days of topical oxymetazoline may be beneficial but clinicians should warn patients against paradoxical rebound congestion with use greater than 3 days; pseudoephedrine could be considered beyond this, although recent evidence is lacking and the patient should be counseled regarding contraindications of elevated blood pressure and heart rate. Commonly used antihistamines show no clinically significant effect on nasal obstruction, rhinorrhea or sneezing, and first-generation varieties should be avoided in older adults. While not supported by a large body of evidence, topical corticosteroids in VRS is an option for symptomatic relief, with a number needed to treat (NNT) of 13 and greater effect with longer courses and higher doses. Diagnostic caveats include that nasal purulence alone does not indicate a bacterial infection.
 
 ---
 
-### Pneumococcal disease symptoms and complications… [^fe2b3970]. CDC (2024). Medium credibility.
+### Pneumococcal disease symptoms and complications… [^117VpNf9]. CDC (2024). Medium credibility.
 
 Symptoms It usually takes 1 to 3 days for pneumonia symptoms to appear after S. pneumoniae bacteria enter someone's body. Experts don't know how long it takes for symptoms to appear for other types of pneumococcal disease. Keep Reading: Types of pneumococcal disease Symptoms of pneumococcal disease depend on the part of the body that's infected. Generally, the symptoms are similar to other bacterial infections in that part of the body. Serious infections Pneumonia Symptoms of pneumococcal pneumonia, a lung infection, include:
 
@@ -781,13 +781,13 @@ Sepsis is a life-threatening emergency resulting from the body's extreme respons
 
 ---
 
-### A 51-year-old woman with acute onset of facial pressure, rhinorrhea, and Tooth pain: review of acute rhinosinusitis [^dc209451]. JAMA (2009). Excellent credibility.
+### A 51-year-old woman with acute onset of facial pressure, rhinorrhea, and Tooth pain: review of acute rhinosinusitis [^116dMDhJ]. JAMA (2009). Excellent credibility.
 
 Acute rhinosinusitis is a common ailment accounting for millions of office visits annually, including that of Mrs D, a 51-year-old woman presenting with 5 days of upper respiratory illness and facial pain. Her case is used to review the diagnosis and treatment of acute rhinosinusitis. Acute viral rhinosinusitis can be difficult to distinguish from acute bacterial rhinosinusitis, especially during the first 10 days of symptoms. Evidence-based clinical practice guidelines developed to guide diagnosis and treatment of acute viral and bacterial rhinosinusitis recommend that the diagnosis of acute rhinosinusitis be based on the presence of "cardinal symptoms" of purulent rhinorrhea and either facial pressure or nasal obstruction of less than 4 weeks' duration. Antibiotic treatment generally can be withheld during the first 10 days of symptoms for mild to moderate cases, given the likelihood of acute viral rhinosinusitis or of spontaneously resolving acute bacterial rhinosinusitis. After 10 days, the likelihood of acute bacterial rhinosinusitis increases, and initiation of antibiotic therapy is supported by practice guidelines. Complications of sinusitis, though rare, can be serious and require early recognition and treatment.
 
 ---
 
-### Roads to remission: evolving treatment concepts in type 2 inflammatory diseases [^29818aff]. EClinicalMedicine (2025). Medium credibility.
+### Roads to remission: evolving treatment concepts in type 2 inflammatory diseases [^1124Y1Fk]. EClinicalMedicine (2025). Medium credibility.
 
 Chronic rhinosinusitis with nasal polyps
 
@@ -799,7 +799,7 @@ Symptom control was the aim of CRSwNP treatment over decades, using intranasal a
 
 ---
 
-### Neuropeptide levels in nasal secretions from patients with and without chronic cough [^b8cd9fc7]. Annals of Allergy, Asthma & Immunology (2011). Low credibility.
+### Neuropeptide levels in nasal secretions from patients with and without chronic cough [^115iynjY]. Annals of Allergy, Asthma & Immunology (2011). Low credibility.
 
 Background
 
@@ -823,7 +823,7 @@ Both CGRP and SP levels are elevated in preformed nasal secretions of coughing s
 
 ---
 
-### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^4a4e3e17]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^112uAN9C]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 The proportion of chronic cough attributed to rhinosinusitis in other series is highly variable, and the importance of ENT disease in chronic cough has been questioned. In keeping with this, our findings suggest that upper airway pathology is unlikely to be contributory in the absence of relevant symptoms. Imaging of the sinuses is likely to have low specificity in chronic coughand was not performed in our clinic.
 
@@ -835,7 +835,7 @@ Ojoo et al. have also shown that the majority with chronic cough (72%) can be ma
 
 ---
 
-### Guaifenesin and pseudoephedrine hydrochloride (Mucinex D) [^8d8343ea]. FDA (2010). Low credibility.
+### Guaifenesin and pseudoephedrine hydrochloride (Mucinex D) [^114coLzM]. FDA (2010). Low credibility.
 
 Uses
 
@@ -850,13 +850,13 @@ temporarily relieves sinus congestion and pressure
 
 ---
 
-### Diagnosis and management of rhinosinusitis: a practice parameter update [^9dcdd463]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
+### Diagnosis and management of rhinosinusitis: a practice parameter update [^1152xC8S]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
 Acute bacterial rhinosinusitis (ABRS) diagnostic suspicion — summary statement 3 indicates: Suspect ABRS in patients in whom a upper respiratory tract infection (URTI) persists beyond 10 days and/or shows worsening after initial improvement, and a history of persistent purulent rhinorrhea, postnasal drainage, and facial pain correlates with an increased likelihood of bacterial disease (Rec, A).
 
 ---
 
-### Real-life assessment of chronic rhinosinusitis patients using mobile technology: the mySinusitisCoach project by EUFOREA [^d17ca217]. Allergy (2020). Medium credibility.
+### Real-life assessment of chronic rhinosinusitis patients using mobile technology: the mySinusitisCoach project by EUFOREA [^116MaGwx]. Allergy (2020). Medium credibility.
 
 1 INTRODUCTION
 
@@ -866,19 +866,19 @@ The cornerstone of CRS treatment includes saline rinsing and anti‐inflammatory
 
 ---
 
-### Acute rhinosinusitis: rapid evidence review [^1d7920a8]. American Family Physician (2025). Medium credibility.
+### Acute rhinosinusitis: rapid evidence review [^111khKvo]. American Family Physician (2025). Medium credibility.
 
 Acute rhinosinusitis causes more than 30 million patients to seek health care per year in the United States. Respiratory tract infections, including bronchitis and sinusitis, account for 75% of outpatient antibiotic prescriptions in primary care. Sinusitis is a clinical diagnosis; the challenge lies in distinguishing between the symptoms of bacterial and viral sinusitis. Cardinal features of acute bacterial rhinosinusitis are unilateral facial pain or pressure, fever greater than 102°F (39°C), and purulent nasal discharge with obstruction of the nasal passages. Antibiotics should be considered for patients with 3 or more days of severe symptoms, significant worsening after 3 to 5 days of symptoms, or 7 or more days of symptoms. Diagnostic testing for acute rhinosinusitis with antral puncture is impractical because of its invasiveness. Point-of-care testing for elevated C-reactive protein may be helpful, but it is not widely available. Studies have shown that amoxicillin is as effective as amoxicillin-clavulanate as a first-line treatment for acute bacterial rhinosinusitis for those without a beta-lactam allergy. For patients with a beta-lactam allergy, appropriate antibiotics include doxycycline or a respiratory fluoroquinolone; clindamycin plus a third-generation cephalosporin is an option for children with non-type I hypersensitivity to beta-lactam antibiotics. Supportive care for rhinosinusitis, including use of saline irrigation, nasal steroids or antihistamines, and decongestants, may help reduce the severity of symptoms. Most episodes of rhinosinusitis are self-limited, lasting 7 to 10 days. Complications of rhinosinusitis are rare but may include orbital cellulitis, meningitis, and abscess. Computed tomography and referral to an otolaryngologist should be considered for patients with recurrent rhinosinusitis or concern about complications.
 
 ---
 
-### Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years [^1d0a4a89]. Pediatrics (2013). Medium credibility.
+### Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years [^111k46fJ]. Pediatrics (2013). Medium credibility.
 
 Acute bacterial sinusitis — key action statement 1 in children with an acute upper respiratory infection (URI): Clinicians should make a presumptive diagnosis of acute bacterial sinusitis when a child with an acute URI presents with the following: persistent illness with nasal discharge (of any quality) or daytime cough or both lasting more than 10 days without improvement; OR a worsening course with worsening or new onset of nasal discharge, daytime cough, or fever after initial improvement; OR severe onset with concurrent fever (temperature ≥ 39°C/102.2°F) and purulent nasal discharge for at least 3 consecutive days. The statement is rated Evidence Quality: B; Recommendation, with Aggregate evidence quality: B, Strength Recommendation, and Exclusions of Children aged < 1 year or older than 18 years and with underlying conditions.
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^9d0ef904]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^1151r5wH]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Regarding screening and diagnosis for acute bacterial rhinosinusitis, more specifically with respect to diagnostic criteria, AAO-HNSF, AAO-HNS 2025 guidelines recommend to diagnose ABRS based on the following criteria:
 
@@ -888,7 +888,7 @@ Regarding screening and diagnosis for acute bacterial rhinosinusitis, more speci
 
 ---
 
-### Combating cough [^cee48904]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### Combating cough [^116HjDH5]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 Thursday afternoon cough clinic is the highlight of my working week. There is always something unique and previously unrecognised, by me at least, even after running one for 30 years. In that time, cough has been transformed from a mere symptom of other diseases into a condition in its own right, a view recently endorsed by the European Respiratory Society who have accepted the definition of cough hypersensitivity as a 'clinical syndrome characterised by troublesome coughing, often triggered by low levels of thermal, mechanical or chemical exposure'. Virtually all chronic cough occurs because of this hypersensitivity of the afferent nerves of the vagus. Patients are frequently amazed that you can predict that they have bouts precipitated by phenomena such as change in atmospheric temperature, strong smells and perfumes (it is always cheap perfume), and exposure to smoke and dust. The typical patient is a middle-aged woman. Women seem to have a heightened cough sensitivity, perhaps to protect them against aspiration during pregnancy. Associated conditions are irritable bowel syndrome and obesity. The relief the patient feels that someone understands the 'sensitive throat' from which they are suffering is palpable. The distress caused by chronic persistent coughing causes a decrement in quality of life greater than that seen in severe COPD or cancer.
 
@@ -896,7 +896,7 @@ Over the years, our understanding of the diagnosis and treatment of chronic coug
 
 ---
 
-### Cough: occupational and environmental considerations: ACCP evidence-based clinical practice guidelines [^0357183f]. Chest (2006). Low credibility.
+### Cough: occupational and environmental considerations: ACCP evidence-based clinical practice guidelines [^1115xDb4]. Chest (2006). Low credibility.
 
 Objectives
 
@@ -912,7 +912,7 @@ Almost any patient presenting with cough may have an occupational or environment
 
 ---
 
-### Cost burden and resource utilization in patients with chronic rhinosinusitis and nasal polyps [^8331986c]. The Laryngoscope (2019). Medium credibility.
+### Cost burden and resource utilization in patients with chronic rhinosinusitis and nasal polyps [^114MW37Z]. The Laryngoscope (2019). Medium credibility.
 
 INTRODUCTION
 
@@ -922,13 +922,13 @@ In 2007 in the United States (US), ~11.1 (± 0.48) million adults had CRS (4.9% 
 
 ---
 
-### AGA clinical practice update on the diagnosis and management of extraesophageal gastroesophageal reflux disease: expert review [^20b8d513]. Clinical Gastroenterology and Hepatology (2023). High credibility.
+### AGA clinical practice update on the diagnosis and management of extraesophageal gastroesophageal reflux disease: expert review [^111qWgqp]. Clinical Gastroenterology and Hepatology (2023). High credibility.
 
 Table 1 — Different postulated manifestations of extraesophageal reflux (EER) details laryngeal/ear, nose, and throat (ENT) symptoms ("Laryngitis/hoarseness", "Globus", "Mucus in throat", "Throat clearing", "Throat pain", "Sinus inflammation", "Post-nasal drip") with corresponding differential diagnoses ("Postnasal drip", "Laryngeal allergy", "Functional dysphonia", "Laryngeal papilloma", "Muscle tension dysphonia", "Vocal cord paralysis", "Vocal cord polyps", "Sinusitis (occult)", "Gastric inlet patch") and multidisciplinary teams ("Otolaryngology", "Gastroenterology", "Allergy/Immunology", "Speech pathology", "Behavioral psychology"); pulmonary manifestations ("Asthma", "Chronic cough", "Pulmonary fibrosis", "Allograft failure") with differentials ("Post-nasal drip", "Asthma", "Vocal cord dysfunction", "Medication reaction (ie, angiotensin converting enzyme inhibitors)", "Lung transplant rejection") and teams ("Pulmonology", "Otolaryngology", "Allergy/Immunology", "Gastroenterology", "Primary care"); and dentition findings ("Dental erosions", "Dental caries") with differentials ("Poor dietary habits (ie, acidic soft drinks, fruit juices)", "Eating disorders with regurgitation (bulimia)", "Xerostomia (Sjogren's)", "Environmental (ie, around acidic fumes)") and teams ("Dentistry", "Gastroenterology", "Nutrition", "Primary care", "Psychology"). Gastroenterologists are reminded that "Gastroenterologists should keep in mind all possible non-EER contributions to the symptoms and the potential multidisciplinary teams for collaborative evaluation".
 
 ---
 
-### Expression of transforming growth factor-beta (TGF-beta) in chronic idiopathic cough [^6bbcbaaf]. Respiratory Research (2009). Low credibility.
+### Expression of transforming growth factor-beta (TGF-beta) in chronic idiopathic cough [^113kj4tv]. Respiratory Research (2009). Low credibility.
 
 Background
 
@@ -938,7 +938,7 @@ To explore further the role of airway wall remodelling and of peripheral neural 
 
 ---
 
-### An algorithm recommendation for the pharmacological management of allergic rhinitis in the UK: a consensus statement from an expert panel [^677767de]. NPJ Primary Care Respiratory Medicine (2017). Low credibility.
+### An algorithm recommendation for the pharmacological management of allergic rhinitis in the UK: a consensus statement from an expert panel [^113ePqEm]. NPJ Primary Care Respiratory Medicine (2017). Low credibility.
 
 What AR patients want from treatment
 
@@ -946,7 +946,7 @@ Living with symptomatic AR means coping with any or all of the symptoms of nasal
 
 ---
 
-### Cluster analysis in 975 patients with current cough identifies a phenotype with several cough triggers, many background disorders, and low quality of life [^6fe9548f]. Respiratory Research (2020). Medium credibility.
+### Cluster analysis in 975 patients with current cough identifies a phenotype with several cough triggers, many background disorders, and low quality of life [^113ruzvS]. Respiratory Research (2020). Medium credibility.
 
 Definitions of variables that were formed on the basis of the raw data in the first questionnaire
 
@@ -954,7 +954,7 @@ Current asthma was defined as doctor's diagnosis of asthma at any age and wheezi
 
 ---
 
-### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^e863363b]. BMC Pulmonary Medicine (2021). Medium credibility.
+### An uncommon etiological factor for aspiration pneumonitis caused by spontaneous sphenoid sinus meningoencephalocele with cerebrospinal fluid rhinorrhea: a case report [^116wXTBY]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 Background
 
@@ -970,25 +970,25 @@ We report a rare case of aspiration pneumonitis caused by spontaneous sphenoid s
 
 ---
 
-### Treatment of unexplained chronic cough: CHEST guideline and expert panel report [^6fac7ac6]. Chest (2016). Medium credibility.
+### Treatment of unexplained chronic cough: CHEST guideline and expert panel report [^113rZZTK]. Chest (2016). Medium credibility.
 
 Unexplained chronic cough — study exclusions and investigations reported in trials: Significant smoking (> 10 pack-years) was an exclusion criterion in nine of the trials, and GERD was mentioned as an exclusion criterion in all trials; treatment trials were noted for nasal disease (seven trials), GERD (eight trials), and asthma (six trials). Investigation for causes of chronic cough included chest radiography in 10 studies, bronchial hyperresponsiveness in six studies, sinus imaging in six studies, and esophageal pH probe monitoring in two studies; more specialized investigations such as chest CT radiographic scan of the thorax (one study), induced sputum for eosinophilic bronchitis (three studies), or polysomnography for obstructive sleep apnea (no studies) were uncommon.
 
 ---
 
-### Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years [^bc594a56]. Pediatrics (2013). Medium credibility.
+### Clinical practice guideline for the diagnosis and management of acute bacterial sinusitis in children aged 1 to 18 years [^115pEfVo]. Pediatrics (2013). Medium credibility.
 
 Acute bacterial sinusitis in children — diagnostic patterns and fever thresholds are outlined: Thick, colored, or cloudy nasal mucus alone does not diagnose sinusitis and fewer episodes progress to bacterial infection; most colds may include short fevers. Acute bacterial sinusitis is likely when illness is persistent (runny nose or daytime cough for at least 10 days without improvement), severe (fever temperature ≥ 39°C [102.2°F] for at least 3 days in a row with thick/colored/cloudy nasal mucus), or worsening (initial viral cold that then worsens with new-onset temperature ≥ 38°C [100.4°F] or markedly increased cough/runny nose).
 
 ---
 
-### Consensus guidelines for evaluation and management of pulmonary disease in Sjögren's [^cf8dbd6a]. Chest (2021). High credibility.
+### Consensus guidelines for evaluation and management of pulmonary disease in Sjögren's [^116Ji3eh]. Chest (2021). High credibility.
 
 Regarding nonpharmacologic interventions for Sjögren's disease, more specifically with respect to air humidification, PDSS-CEP 2021 guidelines recommend to consider advising humidification in patients with SD having dry, nonproductive cough after exclusion of other causes.
 
 ---
 
-### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^b90c5202]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
+### Chronic cough and a normal chest X-ray-a simple systematic approach to exclude common causes before referral to secondary care: a retrospective cohort study [^115jLr9w]. NPJ Primary Care Respiratory Medicine (2016). Low credibility.
 
 Introduction
 
@@ -1002,7 +1002,7 @@ The aims of the current study were to review general practice management of chro
 
 ---
 
-### A 51-year-old woman with a mediastinal mass [^c19a8ed1]. Chest (2021). Medium credibility.
+### A 51-year-old woman with a mediastinal mass [^115x2XRJ]. Chest (2021). Medium credibility.
 
 Case Presentation
 
@@ -1010,7 +1010,7 @@ A 51-year-old woman with a medical history of poorly controlled type 1 diabetes 
 
 ---
 
-### Important clinical symptoms in patients undergoing functional endoscopic sinus surgery for chronic rhinosinusitis [^2266f3ef]. The Laryngoscope (2007). Low credibility.
+### Important clinical symptoms in patients undergoing functional endoscopic sinus surgery for chronic rhinosinusitis [^111t1AGN]. The Laryngoscope (2007). Low credibility.
 
 Objective
 
@@ -1030,7 +1030,7 @@ The top three RSTF symptoms were postnasal drip, nasal obstruction, and facial c
 
 ---
 
-### Tannate suspension (atuss DS tannate suspension) [^fb8d1955]. FDA (2010). Low credibility.
+### Tannate suspension (atuss DS tannate suspension) [^117RwHZe]. FDA (2010). Low credibility.
 
 INDICATIONS
 
@@ -1038,7 +1038,7 @@ Atuss® DS Tannate Suspension is indicated for temporary relief of nasal congest
 
 ---
 
-### Association between allergic rhinitis, nasal polyps, chronic sinusitis and chronic respiratory diseases: a mendelian randomization study [^730cae72]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Association between allergic rhinitis, nasal polyps, chronic sinusitis and chronic respiratory diseases: a mendelian randomization study [^113wZqTo]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Background
 
@@ -1048,55 +1048,55 @@ Epidemiological investigations provide considerable evidence supporting the coex
 
 ---
 
-### Clinical practice guideline (update): adult sinusitis [^1e4393fd]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
+### Clinical practice guideline (update): adult sinusitis [^111msKyv]. Otolaryngology — Head and Neck Surgery (2015). Medium credibility.
 
 Adult sinusitis guideline — Statement 1: patient history and physical examination states, Clinicians should make the clinical diagnosis of AR when patients present with a history and physical examination consistent with an allergic cause and 1 or more of the following symptoms: nasal congestion, runny nose, itchy nose, or sneezing. It further specifies, Findings of AR consistent with an allergic cause include, but are not limited to, clear rhinorrhea, nasal congestion, pale discoloration of the nasal mucosa, and red and watery eyes, and labels this as Recommendation based on observational studies, with a preponderance of benefit over harm.
 
 ---
 
-### Ethmoidal silent sinus syndrome after nasal swab test [^93667179]. Neuroradiology (2022). Medium credibility.
+### Ethmoidal silent sinus syndrome after nasal swab test [^114mXbBW]. Neuroradiology (2022). Medium credibility.
 
 This study reported the case of a healthy male in his 40s who presented with a 3-month history of frontal headache and post-nasal drip, which did not improve with oral antibiotics. One month prior to the onset of the symptoms, he underwent a nasopharyngeal swab testing for SARS-CoV-2 (which yielded a negative result) for a history of malaise and cough. The patient claimed that the swab insertion into the nasal cavity was particularly painful on the left side. Sinus computed tomography (CT) scan showed deformity of the left middle nasal turbinate with occlusion of the osteomeatal complex, resulting in ethmoid silent sinus syndrome. This study makes a significant contribution to the literature because nasopharyngeal, midturbinate and anterior nasal swabs have been recommended as initial diagnostic specimen collection methods by the US Centers for Disease Control and Prevention (CDC) for the coronavirus disease 2019. These methods require introducing an instrument into the nasal cavity, potentially leading to adverse effects due to the delicate and complex nasal anatomy. However, complications related to swab testing for respiratory pathogens have not yet been fully discussed in the literature.
 
 ---
 
-### Diagnosis and management of rhinosinusitis: a practice parameter update [^2dfd0c86]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
+### Diagnosis and management of rhinosinusitis: a practice parameter update [^112BBSUM]. Annals of Allergy, Asthma & Immunology (2014). Medium credibility.
 
 α-Adrenergic decongestants — Summary Statement 31: Neither oral nor topical decongestants are beneficial for maintenance treatment of CRS (Opt, B). Long-term use of oral decongestants is generally not recommended for maintenance treatment because of concerns about increasing blood pressure and lack of supportive clinical evidence. Topical decongestants can be considered for short-term and possibly intermittent or episodic therapy of nasal congestion but are inappropriate for regular daily use because of the risk of rhinitis medicamentosa.
 
 ---
 
-### Somatically evoked cough responses help to identify patients with difficult-to-treat chronic cough: a six-month observational cohort study [^6bf0e2ba]. EClinicalMedicine (2023). Medium credibility.
+### Somatically evoked cough responses help to identify patients with difficult-to-treat chronic cough: a six-month observational cohort study [^113m2az5]. EClinicalMedicine (2023). Medium credibility.
 
 The association between chronic cough and its commonest causeswas established clinically and by using the results of recommended tests. Thus, classic asthma was suspected when patients reported wheezing or chest tightness or both, with and without reversible airway obstruction. Gastro-oesophageal reflux was suspected when at least one oesophageal symptom was reported, with or without one or more of the commonest extra-oesophageal manifestations. Finally, an upper airway cough syndrome was suspected when patients reported nasal obstruction and/or post-nasal drip episodes with or without throat clearing. In all instances, pharmacological treatments (Supplementary Table S1) were recommended according to current guidelines; furthermore, patients received personalised lifestyle suggestions when appropriate. In brief, treatments also included acid-suppressing drugs (proton pump inhibitors and antacid drugs often associated with prokinetic drugs, n = 95), inhaled/oral steroids associated with long-acting bronchodilators (n = 38), nasal lavages, and steroids and/or antihistamines (n = 21). Combinations of drugs were prescribed in the remaining 151/317 patients due to the detection of multiple, putative cough-accompanying symptoms. In twelve patients (7 SPC+), cough was the sole clinically apparent disturbance and they were treated with cough suppressants such as Gabapentin, central (Codeine) or peripheral (Levodropropizine) antitussive medicines. For each patient, three follow-up visits were scheduled approximately 2 months apart; however, it was possible to anticipate the end of follow-up when the cough score was 1 (i.e. "cough bothers me very little") or less.
 
 ---
 
-### Standardization of spirometry 2019 update. An official American Thoracic Society and European Respiratory Society technical statement [^658eae28]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
+### Standardization of spirometry 2019 update. An official American Thoracic Society and European Respiratory Society technical statement [^113bZg6j]. American Journal of Respiratory and Critical Care Medicine (2019). High credibility.
 
 Standardization of spirometry — relative contraindications are grouped by physiologic risk and infection control. Due to increases in myocardial demand or changes in blood pressure: Acute myocardial infarction within 1 wk, symptomatic hypotension or severe hypertension, significant atrial/ventricular arrhythmia, decompensated heart failure, uncontrolled pulmonary hypertension, acute cor pulmonale, clinically unstable pulmonary embolism, and history of syncope related to forced expiration/cough. Due to increases in intracranial/intraocular pressure: Cerebral aneurysm, brain surgery within 4 wk, recent concussion with continuing symptoms, and eye surgery within 1 wk. Due to increases in sinus and middle ear pressures: Sinus surgery or middle ear surgery or infection within 1 wk. Due to increases in intrathoracic and intraabdominal pressure: Presence of pneumothorax, thoracic surgery within 4 wk, abdominal surgery within 4 wk, and late-term pregnancy. Infection control issues include active or suspected transmissible respiratory or systemic infection, including tuberculosis, and physical conditions predisposing to transmission of infections, such as hemoptysis, significant secretions, or oral lesions or oral bleeding. Spirometry should be discontinued if the patient experiences pain during the maneuver, and relative contraindications do not preclude spirometry but should be considered when ordering spirometry; potential contraindications should be included in the request form for spirometry.
 
 ---
 
-### Rhinitis, sinusitis and asthma: one linked airway disease [^2966a423]. Paediatric Respiratory Reviews (2001). Low credibility.
+### Rhinitis, sinusitis and asthma: one linked airway disease [^1124NyAa]. Paediatric Respiratory Reviews (2001). Low credibility.
 
 Understanding the relationship between upper and lower airways has greatly increased through epidemiological and pharmacological studies. Scientific evidence supports the concept that rhinosinusitis and asthma may be the expression of an inflammatory process which appears in different sites of the respiratory tract at different times. The implications are not only academic but are important for diagnostic and therapeutic purposes.
 
 ---
 
-### Allergic rhinitis and chronic rhinosinusitis: their impact on lower airways [^61c2aec3]. Immunology and Allergy Clinics of North America (2013). Low credibility.
+### Allergic rhinitis and chronic rhinosinusitis: their impact on lower airways [^113VwC4S]. Immunology and Allergy Clinics of North America (2013). Low credibility.
 
 Anatomy, pathophysiology, epidemiology, and disease characteristics link the upper and lower airways. Nonspecific symptoms such as cough, congestion, shortness of breath, and recurrent infection may be related to the upper airway, lower airway, or both. Patients with the most severe disease often exhibit symptoms and findings of inflammation at both sites. Recent literature suggests that medical treatment and, when appropriate, surgical therapy directed at the upper airway can yield improvements in the lower airway. An understanding of the diagnosis and management of diseases at both sites will afford patients the best possible outcomes.
 
 ---
 
-### The joint task force on practice parameters GRADE guidelines for the medical management of chronic rhinosinusitis with nasal polyposis [^4463c478]. The Journal of Allergy and Clinical Immunology (2023). High credibility.
+### The joint task force on practice parameters GRADE guidelines for the medical management of chronic rhinosinusitis with nasal polyposis [^112kPfno]. The Journal of Allergy and Clinical Immunology (2023). High credibility.
 
 Chronic rhinosinusitis with nasal polyposis (CRSwNP) — definition, prevalence, and symptoms are characterized as follows: CRSwNP is an inflammatory disease of the sinonasal mucosa of at least 12 weeks' duration and affects about 2% to 4% of adults, with cardinal symptoms of smell loss, nasal obstruction, thick nasal drainage, and facial pressure.
 
 ---
 
-### Granulomatosis with polyangiitis presenting as axial proptosis and corneal perforation-a case report [^b44123a1]. BMC Ophthalmology (2025). Medium credibility.
+### Granulomatosis with polyangiitis presenting as axial proptosis and corneal perforation-a case report [^115cEejr]. BMC Ophthalmology (2025). Medium credibility.
 
 Case presentation
 

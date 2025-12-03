@@ -15,39 +15,39 @@ Ablation for pain
 
 > Let's see… What do we have here? The user is asking about ablation for pain. Let's break this down step-by-step. First, I need to think about defining ablation modalities and mechanisms. Then, I should verify the strength of evidence by anatomic region and condition. Next, I will examine patient selection, prognostic testing, and technical factors that modify outcomes. After that, I need to assess safety, durability, and repeatability. Finally, I will integrate ablation into a multimodal algorithm and highlight knowledge gaps, making sure I cite appropriately throughout.
 
-> Let me first confirm the terminology and mechanisms so I don't conflate different procedures. Ablation for pain includes radiofrequency ablation (conventional thermal, cooled, and pulsed), chemical neurolysis, and cryoablation, with the common goal of interrupting pain signal transmission either by thermal destruction or neuromodulation of targeted nerves or tissues, and I should explicitly distinguish tumor-directed ablation from nerve-targeted ablation to avoid misapplication of evidence [^03b55441] [^73939c01].
+> Let me first confirm the terminology and mechanisms so I don't conflate different procedures. Ablation for pain includes radiofrequency ablation (conventional thermal, cooled, and pulsed), chemical neurolysis, and cryoablation, with the common goal of interrupting pain signal transmission either by thermal destruction or neuromodulation of targeted nerves or tissues, and I should explicitly distinguish tumor-directed ablation from nerve-targeted ablation to avoid misapplication of evidence [^1116VsRS] [^113xMA56].
 
-> Next, I should review the evidence hierarchy and appraise quality by region, starting with the spine. For lumbar facet-mediated pain, multiple randomized trials and meta-analyses support medial branch radiofrequency ablation with short-term benefit and variable long-term durability; ASIPP guidelines rate the evidence as moderate for long-term relief, and VA/DoD suggests RFA as a reasonable option after conservative care, though some trials are negative and heterogeneity is substantial, so I need to be cautious in overpromising durability [^08ee5d7d] [^fc52db6a] [^b316d292]. For cervical facet pain, a small RCT and observational series suggest 58–76% improvement at 6–12 months, but again, evidence quality is limited and patient selection is critical, so I should confirm diagnostic blocks before proceeding [^b542e561] [^c37bb71e]. For sacroiliac joint pain, cooled lateral branch RFA has randomized comparative effectiveness data showing superiority to standard medical management at 3 months, which strengthens its role when appropriately selected [^2d02777c].
+> Next, I should review the evidence hierarchy and appraise quality by region, starting with the spine. For lumbar facet-mediated pain, multiple randomized trials and meta-analyses support medial branch radiofrequency ablation with short-term benefit and variable long-term durability; ASIPP guidelines rate the evidence as moderate for long-term relief, and VA/DoD suggests RFA as a reasonable option after conservative care, though some trials are negative and heterogeneity is substantial, so I need to be cautious in overpromising durability [^111EExyz] [^117T5iCh] [^115aWT4d]. For cervical facet pain, a small RCT and observational series suggest 58–76% improvement at 6–12 months, but again, evidence quality is limited and patient selection is critical, so I should confirm diagnostic blocks before proceeding [^115djEFJ] [^115zp981]. For sacroiliac joint pain, cooled lateral branch RFA has randomized comparative effectiveness data showing superiority to standard medical management at 3 months, which strengthens its role when appropriately selected [^1129jGjm].
 
-> Hold on, let's not jump to conclusions about joints; I should double-check knee data. Genicular nerve RFA shows promising pain reduction and functional gains in observational studies and small RCTs, with benefits typically lasting 3–12 months, but recent RCTs have raised questions about efficacy, likely reflecting heterogeneity in selection and technique; systematic reviews conclude low-to-moderate certainty and call for standardized protocols and larger trials, so I should frame RFA as a reasonable option after failed conservative therapy rather than a first-line cure [^2d02777c] [^0efbb2e9] [^c7e01717]. For hip denervation, the literature is sparse and largely nonrandomized, so I should present it as investigational or reserved for carefully selected refractory cases with diagnostic block confirmation [^b532ceec] [^aff755f4].
+> Hold on, let's not jump to conclusions about joints; I should double-check knee data. Genicular nerve RFA shows promising pain reduction and functional gains in observational studies and small RCTs, with benefits typically lasting 3–12 months, but recent RCTs have raised questions about efficacy, likely reflecting heterogeneity in selection and technique; systematic reviews conclude low-to-moderate certainty and call for standardized protocols and larger trials, so I should frame RFA as a reasonable option after failed conservative therapy rather than a first-line cure [^1129jGjm] [^111PDNSC] [^1167Koi6]. For hip denervation, the literature is sparse and largely nonrandomized, so I should present it as investigational or reserved for carefully selected refractory cases with diagnostic block confirmation [^115ddpqH] [^115Vsuoh].
 
-> I will now examine visceral and cancer pain, where ablation can be distinct. For pancreatic cancer pain, EUS-guided celiac plexus neurolysis provides modest, nonsustained benefit with low-quality evidence, and ethanol neurolysis carries nontrivial risks; thus, I should position it as adjunctive and time-limited rather than definitive [^73939c01]. For painful bone metastases, image-guided thermal ablation (RFA or cryoablation) achieves high rates of pain relief in observational series and is endorsed as a palliative alternative when radiation is contraindicated or exhausted, though randomized data are limited and patient selection by lesion size and location matters [^73939c01] [^97dc10f4]. For thoracic and abdominal wall pain syndromes, RFA of intercostal or abdominal wall nerves shows favorable outcomes in case series and systematic reviews, but again, the evidence base is largely observational, so I should counsel accordingly [^3928a43d] [^58eeed0a].
+> I will now examine visceral and cancer pain, where ablation can be distinct. For pancreatic cancer pain, EUS-guided celiac plexus neurolysis provides modest, nonsustained benefit with low-quality evidence, and ethanol neurolysis carries nontrivial risks; thus, I should position it as adjunctive and time-limited rather than definitive [^113xMA56]. For painful bone metastases, image-guided thermal ablation (RFA or cryoablation) achieves high rates of pain relief in observational series and is endorsed as a palliative alternative when radiation is contraindicated or exhausted, though randomized data are limited and patient selection by lesion size and location matters [^113xMA56] [^114t93nj]. For thoracic and abdominal wall pain syndromes, RFA of intercostal or abdominal wall nerves shows favorable outcomes in case series and systematic reviews, but again, the evidence base is largely observational, so I should counsel accordingly [^112Tjwpp] [^113GrATB].
 
-> Let me consider emerging targets so I don't miss evolving options. Basivertebral nerve ablation for vertebrogenic pain with Modic changes has accumulating moderate-quality evidence of short- and intermediate-term pain and function improvements versus conservative care, but I should confirm Type I/II Modic changes and correlate with mechanical axial pain before recommending it [^9cd25120] [^934e3567]. For upper extremity pain, RFA of the suprascapular or other peripheral nerves shows promise in small series, yet I need to emphasize the preliminary nature of evidence and the need for careful mapping and selection [^3cc2e29d].
+> Let me consider emerging targets so I don't miss evolving options. Basivertebral nerve ablation for vertebrogenic pain with Modic changes has accumulating moderate-quality evidence of short- and intermediate-term pain and function improvements versus conservative care, but I should confirm Type I/II Modic changes and correlate with mechanical axial pain before recommending it [^1151ViGP] [^114mPT42]. For upper extremity pain, RFA of the suprascapular or other peripheral nerves shows promise in small series, yet I need to emphasize the preliminary nature of evidence and the need for careful mapping and selection [^112Z5iaY].
 
-> Next, I should review patient selection and prognostic testing, because outcomes hinge on this. Diagnostic medial branch blocks with at least 70–80% pain relief predict better RFA outcomes in facetogenic pain, and consensus guidelines recommend one or two confirmatory blocks before denervation; however, overly stringent criteria risk false negatives, so I need to balance specificity with sensitivity in shared decision-making [^4fc10a7f] [^d9f0e998]. For genicular RFA, the value of prognostic genicular blocks remains debated; some studies suggest improved selection, others show no clear advantage, so I should individualize and document pre- and post-block pain scores transparently [^c7e01717] [^88427db9]. I should also screen for central sensitization and psychosocial comorbidities, which can blunt interventional outcomes, and set expectations accordingly [^aa769fd7].
+> Next, I should review patient selection and prognostic testing, because outcomes hinge on this. Diagnostic medial branch blocks with at least 70–80% pain relief predict better RFA outcomes in facetogenic pain, and consensus guidelines recommend one or two confirmatory blocks before denervation; however, overly stringent criteria risk false negatives, so I need to balance specificity with sensitivity in shared decision-making [^1133Es1G] [^116a7EWK]. For genicular RFA, the value of prognostic genicular blocks remains debated; some studies suggest improved selection, others show no clear advantage, so I should individualize and document pre- and post-block pain scores transparently [^1167Koi6] [^114V1egG]. I should also screen for central sensitization and psychosocial comorbidities, which can blunt interventional outcomes, and set expectations accordingly [^115Mijtz].
 
-> I need to check technical factors that modify efficacy. Cooled RFA creates larger, more uniform lesions and in comparative studies demonstrates longer-lasting pain relief than conventional RFA in knee and sacroiliac applications, which can meaningfully extend the interval between repeat procedures, though I should confirm anatomy and avoid collateral thermal injury [^ea12665f] [^d9836c06]. Ultrasound guidance can improve accuracy and safety for certain peripheral targets, but evidence does not consistently show improved pain outcomes versus fluoroscopy; thus, modality choice should reflect target accessibility, operator expertise, and safety considerations rather than assumed superiority [^b491c026] [^9ac51bbb]. Electrode orientation, lesion size, and stimulation mapping are practical details that likely influence success, and I should adhere to best-practice techniques and document them [^4fc10a7f].
+> I need to check technical factors that modify efficacy. Cooled RFA creates larger, more uniform lesions and in comparative studies demonstrates longer-lasting pain relief than conventional RFA in knee and sacroiliac applications, which can meaningfully extend the interval between repeat procedures, though I should confirm anatomy and avoid collateral thermal injury [^116z2HQJ] [^116ZUTTb]. Ultrasound guidance can improve accuracy and safety for certain peripheral targets, but evidence does not consistently show improved pain outcomes versus fluoroscopy; thus, modality choice should reflect target accessibility, operator expertise, and safety considerations rather than assumed superiority [^115chjBB] [^114xTJNv]. Electrode orientation, lesion size, and stimulation mapping are practical details that likely influence success, and I should adhere to best-practice techniques and document them [^1133Es1G].
 
-> Now, I should assess safety, durability, and repeatability so counseling is realistic. RFA is generally safe with low rates of serious adverse events; common issues include transient soreness, dysesthesias, and rare neuritis, while infection and bleeding are uncommon with aseptic technique and appropriate anticoagulation management; I should confirm anticoagulation status and follow society guidance on peri-procedural management [^84dcceb0] [^eb981335]. Durability varies by indication: facet RFA often provides 6–12 months of relief with repeat procedures needed in a substantial minority over several years, whereas genicular RFA averages 3–12 months and may require earlier repeat; I should set expectations and plan follow-up intervals [^6c9f3b4a] [^88427db9]. Repeat RFA is feasible and commonly performed, but I should reassess the pain generator and consider alternative diagnoses if response wanes or changes, rather than automatically repeating the same lesion set [^d58f6f07].
+> Now, I should assess safety, durability, and repeatability so counseling is realistic. RFA is generally safe with low rates of serious adverse events; common issues include transient soreness, dysesthesias, and rare neuritis, while infection and bleeding are uncommon with aseptic technique and appropriate anticoagulation management; I should confirm anticoagulation status and follow society guidance on peri-procedural management [^114PyXsd] [^1172HAtL]. Durability varies by indication: facet RFA often provides 6–12 months of relief with repeat procedures needed in a substantial minority over several years, whereas genicular RFA averages 3–12 months and may require earlier repeat; I should set expectations and plan follow-up intervals [^113n39Wy] [^114V1egG]. Repeat RFA is feasible and commonly performed, but I should reassess the pain generator and consider alternative diagnoses if response wanes or changes, rather than automatically repeating the same lesion set [^116TcYLe].
 
-> But wait, what if the patient has an implanted device or is on anticoagulation? I should verify device-specific precautions. RFA can interfere with pacemakers, ICDs, SCS, and intrathecal pumps via electromagnetic interference; ASPN guidelines recommend pre-procedural device interrogation, magnet application when appropriate, bipolar energy when feasible, and post-procedural device checks, which I should integrate into workflow [^edb4d6bc] [^03b55441]. For anticoagulated patients, I should balance bleeding risk against thrombotic risk and follow ASIPP peri-procedural anticoagulation guidance, often proceeding with INR targets or bridging strategies depending on the agent and indication [^eb981335].
+> But wait, what if the patient has an implanted device or is on anticoagulation? I should verify device-specific precautions. RFA can interfere with pacemakers, ICDs, SCS, and intrathecal pumps via electromagnetic interference; ASPN guidelines recommend pre-procedural device interrogation, magnet application when appropriate, bipolar energy when feasible, and post-procedural device checks, which I should integrate into workflow [^1175Qop7] [^1116VsRS]. For anticoagulated patients, I should balance bleeding risk against thrombotic risk and follow ASIPP peri-procedural anticoagulation guidance, often proceeding with INR targets or bridging strategies depending on the agent and indication [^1172HAtL].
 
-> Next, I should review how ablation fits within a multimodal algorithm so I don't overuse it. Ablation is best positioned after conservative measures such as physical therapy, NSAIDs, and topical agents, and alongside psychological support, activity modification, and non-ablative options like peripheral nerve stimulation or spinal cord stimulation for refractory cases; I should explicitly discuss these alternatives and the trade-offs between neuromodulation and denervation [^b316d292] [^e98b184a]. For cancer pain, ablation complements radiation, pharmacologic therapy, and supportive care; for osteoarthritis, RFA can delay surgery or serve those who are poor surgical candidates, but I should not present it as disease-modifying therapy [^73939c01] [^ea12665f].
+> Next, I should review how ablation fits within a multimodal algorithm so I don't overuse it. Ablation is best positioned after conservative measures such as physical therapy, NSAIDs, and topical agents, and alongside psychological support, activity modification, and non-ablative options like peripheral nerve stimulation or spinal cord stimulation for refractory cases; I should explicitly discuss these alternatives and the trade-offs between neuromodulation and denervation [^115aWT4d] [^116yEqSy]. For cancer pain, ablation complements radiation, pharmacologic therapy, and supportive care; for osteoarthritis, RFA can delay surgery or serve those who are poor surgical candidates, but I should not present it as disease-modifying therapy [^113xMA56] [^116z2HQJ].
 
-> I should double-check knowledge gaps and future directions so my recommendations are balanced. High-quality, adequately powered RCTs with standardized selection, technique, and outcomes are still needed for knee genicular RFA, hip denervation, and many visceral pain applications; consensus on prognostic block protocols and optimal RFA parameters remains elusive, and head-to-head comparisons with neuromodulation are sparse, which limits definitive ranking of therapies [^c7e01717] [^0efbb2e9]. Long-term durability beyond 12–24 months, cost-effectiveness versus surgery or SCS, and the role of phenotyping and biomarkers to predict response are key areas requiring research before ablation becomes first-line for more indications [^d32924b3].
+> I should double-check knowledge gaps and future directions so my recommendations are balanced. High-quality, adequately powered RCTs with standardized selection, technique, and outcomes are still needed for knee genicular RFA, hip denervation, and many visceral pain applications; consensus on prognostic block protocols and optimal RFA parameters remains elusive, and head-to-head comparisons with neuromodulation are sparse, which limits definitive ranking of therapies [^1167Koi6] [^111PDNSC]. Long-term durability beyond 12–24 months, cost-effectiveness versus surgery or SCS, and the role of phenotyping and biomarkers to predict response are key areas requiring research before ablation becomes first-line for more indications [^116Q4Czv].
 
-> In summary, I need to ensure my clinical message is precise: ablation for pain, particularly RFA, is a valuable, minimally invasive tool with moderate-quality evidence for facet-mediated spinal pain, growing but still limited evidence for knee and hip pain, and supportive but largely observational evidence for cancer and visceral pain; careful patient selection with diagnostic blocks, attention to technique, and integration into a multimodal plan optimize outcomes, while counseling should emphasize variable durability, the need for repeats, and potential alternatives like neuromodulation when appropriate [^08ee5d7d] [^b316d292] [^73939c01].
+> In summary, I need to ensure my clinical message is precise: ablation for pain, particularly RFA, is a valuable, minimally invasive tool with moderate-quality evidence for facet-mediated spinal pain, growing but still limited evidence for knee and hip pain, and supportive but largely observational evidence for cancer and visceral pain; careful patient selection with diagnostic blocks, attention to technique, and integration into a multimodal plan optimize outcomes, while counseling should emphasize variable durability, the need for repeats, and potential alternatives like neuromodulation when appropriate [^111EExyz] [^115aWT4d] [^113xMA56].
 
 ---
 
-Radiofrequency ablation (RFA) is a **minimally invasive, image-guided procedure** that uses heat to interrupt pain signals from specific nerves, providing relief for chronic pain when conservative treatments fail [^03b55441]. RFA is most effective for facet joint, sacroiliac, and genicular nerve pain, with **average pain relief lasting 6–12 months** and repeatable if pain returns [^08ee5d7d] [^c4eb06e2] [^2d02777c]. It is generally safe, with low complication rates, and is favored over surgery or long-term opioids for many patients [^84dcceb0] [^f9228623]. Evidence quality varies by indication, with stronger support for spinal facet and sacroiliac pain than for knee or hip pain, and patient selection — often using diagnostic blocks — is critical for success [^08ee5d7d] [^ea12665f] [^c7e01717].
+Radiofrequency ablation (RFA) is a **minimally invasive, image-guided procedure** that uses heat to interrupt pain signals from specific nerves, providing relief for chronic pain when conservative treatments fail [^1116VsRS]. RFA is most effective for facet joint, sacroiliac, and genicular nerve pain, with **average pain relief lasting 6–12 months** and repeatable if pain returns [^111EExyz] [^1162wWvm] [^1129jGjm]. It is generally safe, with low complication rates, and is favored over surgery or long-term opioids for many patients [^114PyXsd] [^117NMWka]. Evidence quality varies by indication, with stronger support for spinal facet and sacroiliac pain than for knee or hip pain, and patient selection — often using diagnostic blocks — is critical for success [^111EExyz] [^116z2HQJ] [^1167Koi6].
 
 ---
 
 ## Mechanisms of ablation for pain management
 
-RFA works by delivering radiofrequency energy via a needle electrode to **heat and lesion targeted nerves**, interrupting pain signal transmission [^03b55441]. Two main modalities are used: **thermal RFA** (80–90°C) for durable denervation and **pulsed RFA** (≤ 42°C) for neuromodulation with less tissue damage [^edaf8153]. The goal is to reduce pain, improve function, and decrease medication use while minimizing collateral tissue injury [^03b55441].
+RFA works by delivering radiofrequency energy via a needle electrode to **heat and lesion targeted nerves**, interrupting pain signal transmission [^1116VsRS]. Two main modalities are used: **thermal RFA** (80–90°C) for durable denervation and **pulsed RFA** (≤ 42°C) for neuromodulation with less tissue damage [^1175P1uU]. The goal is to reduce pain, improve function, and decrease medication use while minimizing collateral tissue injury [^1116VsRS].
 
 ---
 
@@ -57,22 +57,22 @@ RFA is used for **chronic pain syndromes**, including:
 
 | **Indication** | **Evidence level** | **Clinical outcomes** |
 |-|-|-|
-| Lumbar facet joint pain | Strong (RCTs, guidelines) | 60–80% pain relief for 6–12 months; repeatable [^08ee5d7d] [^b316d292] |
-| Cervical facet joint pain | Moderate (RCTs, guidelines) | 30–50% pain relief for 6–12 months [^c37bb71e] [^b542e561] |
-| Sacroiliac joint pain | Moderate (RCTs, guidelines) | 50–70% pain relief for 6–12 months [^ea12665f] [^d9836c06] |
-| Genicular nerve pain (knee OA) | Moderate (RCTs, reviews) | 50–70% pain relief for 6–12 months; variable evidence [^c4eb06e2] [^c7e01717] |
-| Hip joint pain | Limited (observational) | 40–60% pain relief for 6–12 months; more research needed [^b532ceec] [^7ad9e2d9] |
-| Cancer pain (bone mets) | Moderate (observational) | 70–90% pain relief; durable in select patients [^73939c01] [^3928a43d] |
+| Lumbar facet joint pain | Strong (RCTs, guidelines) | 60–80% pain relief for 6–12 months; repeatable [^111EExyz] [^115aWT4d] |
+| Cervical facet joint pain | Moderate (RCTs, guidelines) | 30–50% pain relief for 6–12 months [^115zp981] [^115djEFJ] |
+| Sacroiliac joint pain | Moderate (RCTs, guidelines) | 50–70% pain relief for 6–12 months [^116z2HQJ] [^116ZUTTb] |
+| Genicular nerve pain (knee OA) | Moderate (RCTs, reviews) | 50–70% pain relief for 6–12 months; variable evidence [^1162wWvm] [^1167Koi6] |
+| Hip joint pain | Limited (observational) | 40–60% pain relief for 6–12 months; more research needed [^115ddpqH] [^11498g9N] |
+| Cancer pain (bone mets) | Moderate (observational) | 70–90% pain relief; durable in select patients [^113xMA56] [^112Tjwpp] |
 
 ---
 
-Patient selection typically includes a **positive response to diagnostic nerve blocks** (≥ 50% pain reduction) to confirm the pain generator before ablation [^4fc10a7f].
+Patient selection typically includes a **positive response to diagnostic nerve blocks** (≥ 50% pain reduction) to confirm the pain generator before ablation [^1133Es1G].
 
 ---
 
 ## Efficacy and duration of pain relief
 
-RFA provides **meaningful pain relief** in 50–80% of appropriately selected patients, with average duration of 6–12 months; relief is repeatable if pain recurs, though efficacy may diminish with repeated procedures [^08ee5d7d] [^2d02777c]. Cooled RFA may extend duration and improve outcomes in some indications, such as the knee and sacroiliac joints [^2d02777c] [^ea12665f].
+RFA provides **meaningful pain relief** in 50–80% of appropriately selected patients, with average duration of 6–12 months; relief is repeatable if pain recurs, though efficacy may diminish with repeated procedures [^111EExyz] [^1129jGjm]. Cooled RFA may extend duration and improve outcomes in some indications, such as the knee and sacroiliac joints [^1129jGjm] [^116z2HQJ].
 
 ---
 
@@ -82,7 +82,7 @@ RFA is **generally safe**, with low complication rates:
 
 - **Common**: transient soreness, bruising, mild dysesthesia.
 - **Rare**: infection, bleeding, nerve injury, deafferentation pain.
-- **Serious complications**: uncommon with image guidance and adherence to safety protocols [^84dcceb0] [^4ce32867].
+- **Serious complications**: uncommon with image guidance and adherence to safety protocols [^114PyXsd] [^112xzMot].
 
 ---
 
@@ -90,9 +90,9 @@ RFA is **generally safe**, with low complication rates:
 
 RFA offers several advantages over alternatives:
 
-- **Versus surgery**: less invasive, lower risk, faster recovery, no general anesthesia [^f9228623].
-- **Versus opioids**: avoids dependence, tolerance, and systemic side effects [^f9228623].
-- **Versus injections**: longer-lasting relief (months vs weeks) [^c4eb06e2].
+- **Versus surgery**: less invasive, lower risk, faster recovery, no general anesthesia [^117NMWka].
+- **Versus opioids**: avoids dependence, tolerance, and systemic side effects [^117NMWka].
+- **Versus injections**: longer-lasting relief (months vs weeks) [^1162wWvm].
 
 However, RFA is **less effective than surgery** for certain structural lesions and may require repetition as nerves regenerate [^notfound].
 
@@ -100,13 +100,13 @@ However, RFA is **less effective than surgery** for certain structural lesions a
 
 ## Limitations and considerations
 
-Key limitations include **variable evidence quality** across indications, with stronger data for spinal facet and sacroiliac pain than for knee or hip pain [^08ee5d7d] [^c7e01717]. Relief is **not permanent** and may require repeat procedures, and some patients may not respond due to incorrect diagnosis or technical factors [^6c9f3b4a] [^4fc10a7f].
+Key limitations include **variable evidence quality** across indications, with stronger data for spinal facet and sacroiliac pain than for knee or hip pain [^111EExyz] [^1167Koi6]. Relief is **not permanent** and may require repeat procedures, and some patients may not respond due to incorrect diagnosis or technical factors [^113n39Wy] [^1133Es1G].
 
 ---
 
 ## Recent advancements and emerging techniques
 
-Recent developments include **cooled RFA** for larger, more uniform lesions and potentially longer relief [^2d02777c], and **pulsed RFA** for neuromodulation with less tissue damage [^edaf8153]. Image guidance (ultrasound, fluoroscopy) improves accuracy and safety, and **combined approaches** (e.g. RFA plus regenerative or neuromodulatory therapies) are under study [^b491c026] [^9ac51bbb].
+Recent developments include **cooled RFA** for larger, more uniform lesions and potentially longer relief [^1129jGjm], and **pulsed RFA** for neuromodulation with less tissue damage [^1175P1uU]. Image guidance (ultrasound, fluoroscopy) improves accuracy and safety, and **combined approaches** (e.g. RFA plus regenerative or neuromodulatory therapies) are under study [^115chjBB] [^114xTJNv].
 
 ---
 
@@ -116,7 +116,7 @@ Radiofrequency ablation is a **minimally invasive, evidence-supported option** f
 
 ## References
 
-### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^bb592726]. Journal of Pain Research (2025). Medium credibility.
+### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^115nkdY9]. Journal of Pain Research (2025). Medium credibility.
 
 Introduction
 
@@ -124,7 +124,7 @@ Chronic pain represents a global health crisis, affecting over 100 million Ameri
 
 ---
 
-### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^4b88b8fb]. Journal of Pain Research (2025). Medium credibility.
+### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^112vyzhx]. Journal of Pain Research (2025). Medium credibility.
 
 Limitations of Current Fellowship Education
 
@@ -138,13 +138,13 @@ The lack of a longitudinal care model within current programs also exacerbates t
 
 ---
 
-### The dorsal root ganglion as a therapeutic target for chronic pain [^7714728f]. Regional Anesthesia and Pain Medicine (2016). Low credibility.
+### The dorsal root ganglion as a therapeutic target for chronic pain [^1143YPtJ]. Regional Anesthesia and Pain Medicine (2016). Low credibility.
 
 Chronic neuropathic pain is a widespread problem with negative personal and societal consequences. Despite considerable clinical neuroscience research, the goal of developing effective, reliable, and durable treatments has remained elusive. The critical role played by the dorsal root ganglion (DRG) in the induction and maintenance of chronic pain has been largely overlooked in these efforts, however. It may be that, by targeting this site, robust new options for pain management will be revealed. This review summarizes recent advances in the knowledge base for DRG-targeted treatments for neuropathic pain:• Pharmacological options including the chemical targeting of voltage-dependent calcium channels, transient receptor potential channels, neurotrophin production, potentiation of opioid transduction pathways, and excitatory glutamate receptors.• Ablation or modulation of the DRG via continuous thermal radiofrequency and pulsed radiofrequency treatments.• Implanted electrical neurostimulator technologies.• Interventions involving the modification of DRG cellular function at the genetic level by using viral vectors and gene silencing methods.
 
 ---
 
-### Management of chronic pain after hernia repair [^534879dc]. Journal of Pain Research (2018). Low credibility.
+### Management of chronic pain after hernia repair [^1138UKLX]. Journal of Pain Research (2018). Low credibility.
 
 Interventions and management of chronic pain
 
@@ -154,19 +154,19 @@ For chronic pain following inguinal hernia surgery, a range of interventions can
 
 ---
 
-### The pain crisis: interventional radiology's role in pain management [^f9228623]. AJR: American Journal of Roentgenology (2021). Medium credibility.
+### The pain crisis: interventional radiology's role in pain management [^117NMWka]. AJR: American Journal of Roentgenology (2021). Medium credibility.
 
 Pain is a complex syndrome that is difficult to treat. The increasing numbers of patients living with chronic diseases has led to increasing pain management needs and the rise of opioid use disorder (OUD) as a major and potentially lethal public health concern. Treatment of chronic pain with prescription opioids alone is not always successful, and a multidisciplinary approach is paramount to address the needs of patients at risk of developing or suffering from OUD. Interventional radiologists trained to perform minimally invasive procedures with negligible downtime and postprocedure pain can help stem the tide of opioid-related deaths and disability. This article reviews a wide range of minimally invasive procedures, including vertebral augmentation, sacroplasty, thermal ablation of osseous metastasis, nerve blocks, and gonadal vein embolization, that interventional radiologists are now using successfully to treat chronic pain. The evidence to support use of such procedures is highlighted. This article also briefly discusses emerging techniques such as arterial embolization and ablation for knee and shoulder osteoarthritis that have not yet been fully tested but exhibit strong potential in chronic pain management. By reducing opioid use in patients suffering from chronic pain, these minimally invasive procedures can potentially prevent escalation to OUD.
 
 ---
 
-### Pain management in pediatrics: what the IR has to offer [^d3598b30]. Cardiovascular and Interventional Radiology (2025). Medium credibility.
+### Pain management in pediatrics: what the IR has to offer [^116QLTuy]. Cardiovascular and Interventional Radiology (2025). Medium credibility.
 
 Pediatric pain management presents unique challenges due to the intrinsic characteristics of children such as their developmental stages, communication barriers, and varying pain perceptions. Life-limiting conditions affecting children are a growing medical concern, requiring a comprehensive, multidisciplinary approach to improve quality of life or ensure a dignified end of life. Interventional radiology (IR) plays a critical role in this strategy, similar to its role in adult care. Not only life-limiting conditions pose a challenge in pediatric chronic pain management, but also other benign chronic diseases (e.g., cystic fibrosis, muscular dystrophy, neurodegenerative disorders, metabolic disorders). This review focuses on specific IR strategies for pediatric pain management, including ablation, embolization/chemoembolization, and nerve blocks. It emphasizes the importance of tailored approaches for pediatric patients, considering genetic disorders and oncological diseases, which may require a diverse range of IR treatments. The aim is to provide a summary of these interventional techniques and highlight the unique considerations necessary for effective pediatric pain management.
 
 ---
 
-### The role of ablation in cancer pain relief [^73939c01]. Current Oncology Reports (2019). Medium credibility.
+### The role of ablation in cancer pain relief [^113xMA56]. Current Oncology Reports (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -178,25 +178,25 @@ Despite conventional pain palliative techniques, cancer patients often endorse u
 
 ---
 
-### Radiofrequency ablation for chronic hip pain: a comprehensive, narrative review [^7ad9e2d9]. Pain Medicine (2021). Medium credibility.
+### Radiofrequency ablation for chronic hip pain: a comprehensive, narrative review [^11498g9N]. Pain Medicine (2021). Medium credibility.
 
 Chronic hip pain can be treated with physical therapy, oral medications, injections, and, definitively, total hip arthroplasty. Enough patients have contraindications to and refractory pain even after total hip arthroplasty, that there is a need to develop alternative managements for this disabling condition. This article examines the state of hip radiofrequency ablation literature including relevant anatomy, patient selection, and treatment outcomes.
 
 ---
 
-### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^50ee1547]. Pain Physician (2013). Medium credibility.
+### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^1134yyn6]. Pain Physician (2013). Medium credibility.
 
 ASIPP interventional pain management guidelines — preamble, definitions, objectives, population, and implementation are outlined as follows: Chronic pain is defined as pain that "persists 6 months after an injury and/or beyond the usual course of an acute disease or a reasonable time for a comparable injury". The National Uniform Claims Committee (NUCC) defined interventional pain management as "the discipline of medicine devoted to the diagnosis and treatment of pain and related disorders by the application of interventional techniques in managing subacute, chronic, persistent, and intractable pain, independently or in conjunction with other modalities of treatments". Interventional techniques are described by MedPAC as "minimally invasive procedures, such as needle placement of drugs in targeted areas, ablation of targeted nerves, and some surgical techniques, such as discectomy and the implantation of intrathecal infusion pumps and spinal cord stimulators". The purpose states these guidelines "are statements developed to improve the quality of care, patient access, treatment outcomes, the appropriateness of indicated and medically necessary care, efficiency and effectiveness, and to achieve cost containment by improving the cost-benefit ratio". Objectives include "Providing strategies to manage chronic spinal pain and/or its consequences to improve the quality of clinical care", "Providing recommendations that are generally acceptable to a wide range of specialties and agencies", "Developing methods that are sound and transparent", "Utilizing a process which is valid, reliable, reproducible, clinically applicable, and flexible", "Systematically assessing the clinical and cost effectiveness of treatments and management strategies with an evidence-based approach", and "Increasing compliance, dispelling misconceptions, contributing to appropriate patient expectations, and facilitating the improved relationship between patients, physicians, and payers". The population covered "includes all patients suffering with chronic spinal pain eligible to undergo commonly utilized and effective interventional technique(s)", and "The treatment plan must take into consideration the evidence, patient preferences, and risk-benefit ratio". Implementation timelines were set: "Effective date – May 1, 2013", "Expiration date – December 31, 2015", and "Scheduled review – April 2014".
 
 ---
 
-### Image-guided peripheral nerve interventions-applications and techniques [^9ac51bbb]. Techniques in Vascular and Interventional Radiology (2024). Medium credibility.
+### Image-guided peripheral nerve interventions-applications and techniques [^114xTJNv]. Techniques in Vascular and Interventional Radiology (2024). Medium credibility.
 
 Interventional radiology continues to be at the forefront of acute and chronic pain management. Our unique imaging expertise and ability to target difficult to reach structures allows for the continuous development of new ways to treat a variety of pain generators. In addition, the advent of thermal ablation techniques and technologies has provided a unique opportunity to offer patients more durable and predictable options to treat their pain. This is particularly important during the opioid epidemic, as multiple local and international governmental bodies push for physicians to create ways to manage pain while reducing the need for long-term opioid dependence. This article aims to review various image-guided techniques and tools for the treatment of pain related to peripheral pain generators, with a focus on the extremities, lumbosacral and pelvic region, and the chest wall. For each target and pathology, we will discuss general etiology, anatomy, procedural approach, and briefly evaluate the supporting literature in each clinical situation.
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^c4eb06e2]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^1162wWvm]. Journal of Pain Research (2025). Medium credibility.
 
 Comprehensive Analysis of the Effectiveness of RF Therapy for Chronic Knee Pain
 
@@ -204,7 +204,7 @@ RF therapy has become an important minimally invasive technique for the treatmen
 
 ---
 
-### Radiofrequency procedures to relieve chronic knee pain: an evidence-based narrative review [^7173ee5a]. Regional Anesthesia and Pain Medicine (2016). Low credibility.
+### Radiofrequency procedures to relieve chronic knee pain: an evidence-based narrative review [^113uCYN5]. Regional Anesthesia and Pain Medicine (2016). Low credibility.
 
 Background and Objectives
 
@@ -224,19 +224,19 @@ Radiofrequency treatments on the knee joint (major or periarticular nerve supply
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^b542e561]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^115djEFJ]. Pain Physician (2020). High credibility.
 
 Cervical radiofrequency ablation — A single randomized trial showed positive short-term and long-term relief with 58% of the patients reporting improvement in the active treatment group, although only 12 patients were studied in the intervention group. Observational data included a study of 50 patients with 32 litigants and 18 non-litigants showing 66% improvement in litigants and 71% improvement in non-litigants. Additional series reported 74% improvement at one-year in 104 patients and 76% improvement in 130 patients.
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^08ee5d7d]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^111EExyz]. Pain Physician (2020). High credibility.
 
 Lumbar radiofrequency ablation — trial findings show that of the 11 trials meeting inclusion criteria, 2 trials were negative, 9 studies showed short-term effectiveness, long-term effectiveness at one year was demonstrated only in 4 studies with a total of 130 patients across those trials, and overall the evidence is only moderate for long-term effectiveness; a negative trial published in JAMA included 125 patients randomized to intervention group.
 
 ---
 
-### A trial of cooled radiofrequency ablation of medial… [^b66f5122]. ClinicalTrials (2015). Low credibility.
+### A trial of cooled radiofrequency ablation of medial… [^115fU8vD]. ClinicalTrials (2015). Low credibility.
 
 A Trial of Cooled Radiofrequency Ablation of Medial Branch Nerves for theTreatment of Lumbar Facet Syndrome ClinicalTrials. gov ID.
 - Pain improvement
@@ -261,31 +261,31 @@ A Trial of Cooled Radiofrequency Ablation of Medial Branch Nerves for theTreatme
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^4efa7f2b]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^11326B3x]. Pain Physician (2023). High credibility.
 
 Interventional pain management definitions — The National Uniform Claims Committee (NUCC) defines interventional pain management as "the discipline of medicine devoted to the diagnosis and treatment of pain related disorders principally with the application of interventional techniques in managing subacute, chronic, persistent, and intractable pain, independently or in conjunction with other modalities of treatment". The Medicare Payment Advisory Commission (MedPAC) defines interventional pain management techniques as "minimally invasive procedures including, percutaneous precision needle placement, with placement of drugs in targeted areas or ablation of targeted nerves; and some surgical techniques such as laser or endoscopic discectomy, intrathecal infusion pumps and spinal cord stimulators, for the diagnosis and management of chronic, persistent or intractable pain".
 
 ---
 
-### Navigating current controversies in radiofrequency ablation of the genicular nerves for chronic knee pain in osteoarthritis: a daring discourse [^c7e01717]. Regional Anesthesia and Pain Medicine (2025). Medium credibility.
+### Navigating current controversies in radiofrequency ablation of the genicular nerves for chronic knee pain in osteoarthritis: a daring discourse [^1167Koi6]. Regional Anesthesia and Pain Medicine (2025). Medium credibility.
 
 Chronic knee joint pain affects millions worldwide, with radiofrequency ablation (RFA) of genicular nerves emerging as a potential treatment in the last 15 years. Despite its growing popularity, with studies demonstrating its efficacy in pain reduction for up to 12 months, recent randomized controlled trials have questioned the efficacy of RFA. Discrepancies in study results may partially be explained by the heterogeneity of patient selection and technical protocols. This daring discourse aims to explore and critically analyze the ongoing debates surrounding RFA of the genicular nerves, addressing key controversies, namely: (1) Is there a role for performing prognostic blocks prior to RFA?; (2) What are the optimal target sites for final cannulae placement for the classical targets?; (3) Which and how many nerves should be targeted in RFA procedures?; (4) What are the comparative benefits of using ultrasound versus fluoroscopy guidance, and whether a combined technique may be advantageous?; (5) Is there a potential role for pulsed radiofrequency of the genicular nerves?; (6) Should genicular nerve RFA be performed after total knee arthroplasty?Through this in-depth discussion, we aim to guide pain medicine clinicians in informed decision-making and encourage further research in this field.
 
 ---
 
-### Evidence-based risk mitigation and stratification during COVID-19 for return to interventional pain practice: American Society of Interventional Pain Physicians (ASIPP) guidelines [^45969500]. Pain Physician (2020). High credibility.
+### Evidence-based risk mitigation and stratification during COVID-19 for return to interventional pain practice: American Society of Interventional Pain Physicians (ASIPP) guidelines [^112nAj27]. Pain Physician (2020). High credibility.
 
 Interventional pain management — scope and technique definitions for chronic pain management state that chronic pain is complex with numerous treatments, and interventional techniques and opioids are mainstays used by interventional pain physicians. Interventional pain management is defined as the discipline of medicine devoted to the diagnosis and treatment of pain-related disorders principally using interventional techniques to manage subacute, chronic, persistent, and intractable pain, independently or with other modalities. Interventional techniques are defined as minimally invasive procedures including percutaneous precision needle placement of drugs in targeted areas or ablation of targeted nerves, surgical techniques such as laser and endoscopic discectomy, and placement of intrathecal infusion pumps and spinal cord stimulators for diagnosis and management of chronic, persistent, or intractable pain.
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^fc52db6a]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^117T5iCh]. Pain Physician (2020). High credibility.
 
 Lumbar radiofrequency ablation — systematic reviews and meta-analysis report discordant conclusions: one review showed lack of effectiveness, another showed Level II evidence, and one analysis found effectiveness only in patients with 100% pain relief using parallel needle placement with relief in approximately 97% of patients; a meta-analysis concluded conventional radiofrequency denervation resulted in significant reduction with the best response to diagnostic blocks over the first 12 months compared with sham, based on 231 patients.
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^99e02051]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^114w8PSx]. Journal of Pain Research (2025). Medium credibility.
 
 Comparison of the Efficacy of RF Therapy with Other Therapeutic Approaches
 
@@ -293,13 +293,13 @@ The comparison between RF therapy and traditional treatment strategies for chron
 
 ---
 
-### Radiofrequency ablation for thoracic and abdominal chronic pain syndromes [^58eeed0a]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
+### Radiofrequency ablation for thoracic and abdominal chronic pain syndromes [^113GrATB]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
 
 Chronic thoracic pain and chronic abdominal pain are common conditions that can significantly affect quality of life. Pain syndromes encompassing a variety of causes, including cancer pain, neuritis, and postsurgical pain, are traditionally managed by the use of pharmacologic therapy; however, many cases are refractory to these conservative methods. Radiofrequency ablation (RFA) has been increasingly used as a tool to treat resistant, chronic pain of both thoracic and abdominal origin. Multiple cases and trials have been reported that show the efficacy of RFA in the treatment of these chronic pain conditions.
 
 ---
 
-### Radiofrequency procedures to relieve chronic hip pain: an evidence-based narrative review [^b532ceec]. Regional Anesthesia and Pain Medicine (2018). Low credibility.
+### Radiofrequency procedures to relieve chronic hip pain: an evidence-based narrative review [^115ddpqH]. Regional Anesthesia and Pain Medicine (2018). Low credibility.
 
 Background and Objectives
 
@@ -319,19 +319,19 @@ Radiofrequency treatments for the sensory innervation of the hip joint have the 
 
 ---
 
-### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^d9836c06]. Pain Physician (2013). Medium credibility.
+### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^116ZUTTb]. Pain Physician (2013). Medium credibility.
 
 Sacroiliac joint pain — cooled radiofrequency neurotomy shows comparative outcomes versus conventional radiofrequency ablation with greater than 50% pain reduction for 3 to 6 months in the majority of patients among 88 reviewed (58 cooled, 30 conventional), and the evidence for cooled radiofrequency neurotomy in managing sacroiliac joint pain is fair based on 2 randomized, double-blind placebo-controlled trials and 2 observational studies.
 
 ---
 
-### Water-cooled radiofrequency provides pain relief, decreases disability, and improves quality of life in chronic knee osteoarthritis [^434c46fa]. American Journal of Physical Medicine & Rehabilitation (2017). Low credibility.
+### Water-cooled radiofrequency provides pain relief, decreases disability, and improves quality of life in chronic knee osteoarthritis [^112imnt9]. American Journal of Physical Medicine & Rehabilitation (2017). Low credibility.
 
 Chronic osteoarthritis (OA) is a widespread source of pain and disability and represents a growing economic burden across aging populations. Representing a major focus of arthritis care, OA of the knee is especially concerning as it has the potential to restrict mobility and significantly impair quality of life. Chronic OA is often poorly managed both pharmacologically and nonpharmacologically, with surgical management representing the definitive treatment. Those who are not surgical candidates or simply opt for minimally invasive treatments are usually faced with a lack of alternatives. An additional treatment presents itself in the form of water-cooled radiofrequency ablation, which involves the use of thermal lesions to interrupt the active pain pathways. An 81-year-old woman with bilateral severe knee OA was initially seen and evaluated in an outpatient physiatry clinic after multiple previous workups of her ongoing knee pain. With a known diagnosis of end-stage knee OA, the patient chose to proceed with bilateral water-cooled radiofrequency ablation. At 6 weeks and 3 months after the procedure, the patient maintained adequate levels of pain relief, markedly improved function, and enhanced quality of life. Water-cooled radiofrequency ablation has the potential to create lasting pain relief and with minimal adverse effects in patients with chronic knee OA.
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^61e3931c]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^113W8Er7]. Journal of Pain Research (2025). Medium credibility.
 
 Looking ahead, future research should concentrate on several key areas to further clarify the role of RF therapy in the management of chronic knee pain. Longitudinal studies evaluating the long-term efficacy and safety of RF therapy are critical. In addition, exploring potential pain relief mechanisms may yield insights to improve patient selection criteria and treatment options. Studying the synergies of combined RF with other treatment modalities may also enhance pain management strategies.
 
@@ -339,7 +339,7 @@ In summary, while RF treatment is a valuable tool for the management of chronic 
 
 ---
 
-### Microglial ablation does not affect opioid-induced hyperalgesia in rodents [^da90b21d]. Pain (2022). Medium credibility.
+### Microglial ablation does not affect opioid-induced hyperalgesia in rodents [^116b2uLQ]. Pain (2022). Medium credibility.
 
 Abstract
 
@@ -347,7 +347,7 @@ Opioids are the frontline analgesics in pain management. However, chronic use of
 
 ---
 
-### Percutaneous peripheral nerve stimulation of the medial branch nerves for the treatment of chronic axial back pain in patients after radiofrequency ablation [^ce4531e2]. Pain Medicine (2021). Medium credibility.
+### Percutaneous peripheral nerve stimulation of the medial branch nerves for the treatment of chronic axial back pain in patients after radiofrequency ablation [^116Goh5T]. Pain Medicine (2021). Medium credibility.
 
 Introduction
 
@@ -355,31 +355,31 @@ As the leading cause of disability worldwide, chronic low back pain (LBP) repres
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^bd3808b8]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^115qXUto]. Pain Physician (2020). High credibility.
 
 ASIPP 2020 facet joint interventions — thoracic radiofrequency ablation (RFA): One randomized controlled trial (RCT) with 40 patients undergoing radiofrequency neurotomy showed significant improvement at 6 month follow-up yielding short-term effectiveness, with additional evidence from 3 observational studies (one cooled RFA) and one pulsed radiofrequency study that did not show significant improvement; a previous systematic review showed Level IV evidence, and thus evidence is Level III with weak to moderate strength of recommendation with emerging evidence in patients appropriately diagnosed by controlled comparative local anesthetic blocks with 80% criterion standard of pain relief.
 
 ---
 
-### The role of laparoscopy in the diagnosis and treatment of conditions associated with chronic pelvic pain [^4012f7da]. Obstetrics and Gynecology Clinics of North America (2004). Low credibility.
+### The role of laparoscopy in the diagnosis and treatment of conditions associated with chronic pelvic pain [^112dzaZo]. Obstetrics and Gynecology Clinics of North America (2004). Low credibility.
 
 Laparoscopy is a useful tool for the diagnosis and treatment of conditions associated with chronic pelvic pain. In the evaluation of chronic pelvic pain, laparoscopic techniques vary from conservative procedures, such as pain mapping, excision, and nerve ablation, to more extensive procedures like oophorectomy and hysterectomy. Although useful for diagnosis, laparoscopy continues to have a controversial role in the treatment of chronic pelvic pain.
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^d7f62a93]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^116XB2J6]. Pain Physician (2020). High credibility.
 
 Lumbar radiofrequency ablation near spinal hardware — case series evidence concluded that radiofrequency ablation can be safely and effectively performed close to hardware.
 
 ---
 
-### Role of peripheral nerve stimulation in treating chronic neuropathic pain: an international focused survey of pain medicine experts [^0024eac2]. Regional Anesthesia and Pain Medicine (2023). Medium credibility.
+### Role of peripheral nerve stimulation in treating chronic neuropathic pain: an international focused survey of pain medicine experts [^1111DQCh]. Regional Anesthesia and Pain Medicine (2023). Medium credibility.
 
 Interventional pain management (IPM) options for refractory neuropathic pain (NP) have recently increased with availability of peripheral nerve stimulation (PNS) equipment and expertise. Given a lack of high-quality evidence and guidelines on this topic, we sought to understand the perception of physicians with expertise in treating NP regarding IPM and the role of PNS. We emailed a survey in March 2022 to international NP experts including pain medicine physicians, researchers, and leaders of 11 professional pain societies. No representatives from vendors of PNS systems were included in the design of the survey nor as respondents. Among 24 respondents (67% of those contacted), the distal common peroneal, tibial, and sural nerves were most frequently targeted (60%) with PNS. Persistent postsurgical pain of more than 3 months was the most common indication for PNS (84%). The aggregate NP treatment algorithm in order of median rank was non-opioid medications as first line, IPM including epidural/perineural steroid injections tied with transcutaneous electrical nerve stimulation as second line, pulsed radiofrequency (RF) tied with RF ablation/denervation as third line, temporary then permanent PNS as fourth line, followed by spinal cord stimulation, opioids, cryoablation, botulinum, peripheral nerve field stimulation, intrathecal targeted drug delivery, and others. Before offering PNS, 12 respondents (50%) indicated their preference for trialing non-neuromodulation treatments for 1–3 months. Twenty-two respondents (92%) agreed PNS should be offered early in the treatment of neuropathic pain. The most common barriers to PNS use were cost, lack of high-quality evidence in support of its use, lack of exposure to PNS in training programs, and lack of familiarity with the use of ultrasound guidance. PNS appears to have an increasing role in the treatment of NP but more research is needed on the outcomes of PNS to elucidate its role.
 
 ---
 
-### Interventional pain procedures: a narrative review focusing on safety and complications. PART 2 interventional procedures for back pain [^4ce32867]. Journal of Pain Research (2023). Medium credibility.
+### Interventional pain procedures: a narrative review focusing on safety and complications. PART 2 interventional procedures for back pain [^112xzMot]. Journal of Pain Research (2023). Medium credibility.
 
 Introduction
 
@@ -387,13 +387,13 @@ Chronic pain is defined by the International Association for the Study of Pain (
 
 ---
 
-### Review of craniofacial pain syndromes involving the greater occipital nerve: relevant anatomy, clinical findings, and interventional management [^a13f47ec]. Neuroradiology (2024). Medium credibility.
+### Review of craniofacial pain syndromes involving the greater occipital nerve: relevant anatomy, clinical findings, and interventional management [^11584GBd]. Neuroradiology (2024). Medium credibility.
 
 Craniofacial pain syndromes exhibit a high prevalence in the general population, with a subset of patients developing chronic pain that significantly impacts their quality of life and results in substantial disabilities. Anatomical and functional assessments of the greater occipital nerve (GON) have unveiled its implication in numerous craniofacial pain syndromes, notably through the trigeminal-cervical convergence complex. The pathophysiological involvement of the greater occipital nerve in craniofacial pain syndromes, coupled with its accessibility, designates it as the primary target for various interventional procedures in managing craniofacial pain syndromes. This educational review aims to describe multiple craniofacial pain syndromes, elucidate the role of GON in their pathophysiology, detail the relevant anatomy of the greater occipital nerve (including specific intervention sites), highlight the role of imaging in diagnosing craniofacial pain syndromes, and discuss various interventional procedures such as nerve infiltration, ablation, neuromodulation techniques, and surgeries. Imaging is essential in managing these patients, whether for diagnostic or therapeutic purposes. The utilization of image guidance has demonstrated an enhancement in reproducibility, as well as technical and clinical outcomes of interventional procedures. Studies have shown that interventional management of craniofacial pain is effective in treating occipital neuralgia, cervicogenic headaches, cluster headaches, trigeminal neuralgia, and chronic migraines, with a reported efficacy of 60–90% over a duration of 1–9 months. Repeated infiltrations, neuromodulation, or ablation may prove effective in selected cases. Therefore, reassessment of treatment response and efficacy during follow-up is imperative to guide further management and explore alternative treatment options. Optimal utilization of imaging, interventional techniques, and a multidisciplinary team, including radiologists, will ensure maximum benefit for these patients.
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^858954d2]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^114QyUuo]. Journal of Pain Research (2025). Medium credibility.
 
 Objective
 
@@ -413,13 +413,13 @@ A thorough understanding of the distinct characteristics of various RF therapy s
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^6c9f3b4a]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^113n39Wy]. Pain Physician (2020). High credibility.
 
 Lumbar radiofrequency ablation — repeat procedures and staging in a commercially insured cohort identified 44,936 patients undergoing initial radiofrequency ablation from 2007 to 2016, with 33.1% undergoing staged radiofrequency ablations; repeat radiofrequency ablations were performed for 14.6%, 33.5%, and 45.7% of patients through 1, 3, and 7 years respectively.
 
 ---
 
-### Review article: is ultrasound guidance advantageous for interventional pain management? A systematic review of chronic pain outcomes [^b491c026]. Anesthesia and Analgesia (2013). Low credibility.
+### Review article: is ultrasound guidance advantageous for interventional pain management? A systematic review of chronic pain outcomes [^115chjBB]. Anesthesia and Analgesia (2013). Low credibility.
 
 Background
 
@@ -439,13 +439,13 @@ There are presently insufficient data to support improved efficacy with procedur
 
 ---
 
-### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^363baa43]. Pain Physician (2013). Medium credibility.
+### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^112PQNb4]. Pain Physician (2013). Medium credibility.
 
 Radiofrequency electrode tissue heating — the temperature of the tissue surrounding the tip of the electrode does not exceed 42°C, and heat is dissipated during the silent period.
 
 ---
 
-### Interventions in chronic pain management. 2. new frontiers: invasive nonsurgical interventions [^f651b659]. Archives of Physical Medicine and Rehabilitation (2003). Low credibility.
+### Interventions in chronic pain management. 2. new frontiers: invasive nonsurgical interventions [^117JBQD6]. Archives of Physical Medicine and Rehabilitation (2003). Low credibility.
 
 Unlabelled
 
@@ -457,7 +457,7 @@ To review invasive, nonsurgical pain management procedures.
 
 ---
 
-### Comparative effectiveness review of cooled versus pulsed radiofrequency ablation for the treatment of knee osteoarthritis: a systematic review [^0efbb2e9]. Pain Physician (2017). Low credibility.
+### Comparative effectiveness review of cooled versus pulsed radiofrequency ablation for the treatment of knee osteoarthritis: a systematic review [^111PDNSC]. Pain Physician (2017). Low credibility.
 
 Background
 
@@ -489,7 +489,7 @@ Overall, the studies showed promising results for the treatment of severe chroni
 
 ---
 
-### Radiofrequency techniques to treat chronic knee pain: a comprehensive review of anatomy, effectiveness, treatment parameters, and patient selection [^88427db9]. Journal of Pain Research (2018). Low credibility.
+### Radiofrequency techniques to treat chronic knee pain: a comprehensive review of anatomy, effectiveness, treatment parameters, and patient selection [^114V1egG]. Journal of Pain Research (2018). Low credibility.
 
 Background
 
@@ -509,7 +509,7 @@ RFA of the knee appears to be a viable and effective treatment option, providing
 
 ---
 
-### Factors predicting outcomes from chronic pain management interventions [^06c18648]. BMJ Medicine (2025). High credibility.
+### Factors predicting outcomes from chronic pain management interventions [^111B1vrT]. BMJ Medicine (2025). High credibility.
 
 Disease burden
 
@@ -517,7 +517,7 @@ Although it seems reasonable that a greater disease burden should produce a high
 
 ---
 
-### The optimal patient profile and appropriate role of spinal cord stimulation (SCS) for patients with persistent spinal pain syndrome-type 1 (PSPS-T1) not suitable for spine surgery: a European modified Delphi consensus [^014ba9ad]. Journal of Pain Research (2025). Medium credibility.
+### The optimal patient profile and appropriate role of spinal cord stimulation (SCS) for patients with persistent spinal pain syndrome-type 1 (PSPS-T1) not suitable for spine surgery: a European modified Delphi consensus [^1112vQK6]. Journal of Pain Research (2025). Medium credibility.
 
 In summary, the treatment approach should include multimodal intensive conservative treatment, conventional medical management, and interventional pain therapy, where eligible, prior to considerations of further treatment (Figure 3).
 
@@ -528,13 +528,13 @@ The diverse composition of SCS patient cohorts has made patient subtype characte
 
 ---
 
-### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^f11a84c5]. Pain Physician (2021). High credibility.
+### Epidural interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) comprehensive evidence-based guidelines [^117ASvYL]. Pain Physician (2021). High credibility.
 
 Interventional pain management rationale and definitions — according to on-page organizational definitions — note that the National Uniform Claims Committee (NUCC) defines interventional pain management as the discipline of medicine devoted to diagnosis and treatment of pain-related disorders using interventional techniques for subacute, chronic, persistent, and intractable pain, alone or with other modalities, and that the Medicare Payment Advisory Commission (MedPAC) defines interventional pain management techniques as minimally invasive procedures including percutaneous precision needle placement of drugs in targeted areas or ablation of targeted nerves, surgical techniques such as laser and endoscopic discectomy, and placement of intrathecal infusion pumps and spinal cord stimulators for chronic, persistent, or intractable pain. Chronic spinal pain is described as a complex and multifactorial disease process with increasing prevalence and economic consequences. Interventional pain physicians are familiar with various image-guided interventional techniques, and pain generators include intervertebral discs, facet joints, sacroiliac joints, ligaments, fascia, muscles, and nerve root dura. Many causes of spinal pain are acute recurrent problems punctuated by flare-ups or chronic diseases requiring long-term treatment with ongoing care, and the importance of spinal interventional techniques has been established based on advances in imaging, neuroanatomic findings, precision diagnostic and therapeutic injection techniques, and reported nonoperative treatment successes.
 
 ---
 
-### Latest evidence-based application for radiofrequency neurotomy (LEARN): best practice guidelines from the American Society of Pain and Neuroscience (ASPN) [^4688605d]. Journal of Pain Research (2021). Medium credibility.
+### Latest evidence-based application for radiofrequency neurotomy (LEARN): best practice guidelines from the American Society of Pain and Neuroscience (ASPN) [^112oZwZ6]. Journal of Pain Research (2021). Medium credibility.
 
 Conclusion
 
@@ -542,7 +542,7 @@ The use of radiofrequency ablation to treat pain is an established therapy that 
 
 ---
 
-### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^edb4d6bc]. Journal of Pain Research (2023). Medium credibility.
+### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^1175Qop7]. Journal of Pain Research (2023). Medium credibility.
 
 Abstract
 
@@ -550,19 +550,19 @@ Radiofrequency ablation (RFA) is a treatment modality used in interventional pai
 
 ---
 
-### Responsible, safe, and effective use of biologics in the management of low back pain: American Society of Interventional Pain Physicians (ASIPP) guidelines [^532b5d31]. Pain Physician (2019). High credibility.
+### Responsible, safe, and effective use of biologics in the management of low back pain: American Society of Interventional Pain Physicians (ASIPP) guidelines [^1138JYBz]. Pain Physician (2019). High credibility.
 
 Interventional pain management rationale and definitions — scope and modalities are specified, including that "The National Uniform Claims Committee (NUCC) defines interventional pain management as the discipline of medicine devoted to the diagnosis and treatment of pain related disorders primarily with the application of interventional techniques in managing subacute, chronic, persistent, and intractable pain, independently or in conjunction, with other modalities of treatment (44)". It further states that "the Medicare Payment Advisory Commission (MedPAC) defines interventional pain management techniques as minimally invasive procedures including percutaneous precision needle placement of drugs in targeted areas or ablation of targeted nerves; surgical techniques such as laser and endoscopic discectomy; and the placement of intrathecal infusion pumps and spinal cord stimulators for the diagnosis and management of chronic, persistent, or intractable pain (45)". The context includes that "Chronic spinal pain is a complex and multifactorial disease process, of which low back pain is the most common", with pain generators including "lumbar intervertebral discs, facet joints, sacroiliac joints, ligaments, fascia, muscles, and nerve root dura", and that "regenerative medicine techniques are well-suited additions to their armamentarium following appropriate training under the enclosed guidelines".
 
 ---
 
-### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^07bfd9d4]. Gastrointestinal Endoscopy (2025). High credibility.
+### American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in the management of chronic pancreatitis: methodology and review of evidence [^111CVMXh]. Gastrointestinal Endoscopy (2025). High credibility.
 
 Chronic pancreatitis — endoscopic ultrasound-guided celiac plexus block (EUS‑CPB) for pain may provide modest and nonsustained benefit with generally low-quality evidence, including meta-analytic pain relief in 59.5% (95% CI, 54.51–64.30) and a subgroup analysis showing better relief with bilateral than unilateral injection; most patients return to baseline pain in less than 6 months, typical adverse events such as transient hypotension, diarrhea, retroperitoneal abscess, and postprocedural pain occurred in 1.6% of 220 procedures, ethanol ablation neurolysis has not been studied in CP because of risk of serious neurologic side effects, and in patients in whom a decision is made to proceed with a CPB, the ASGE suggests an EUS-guided over a PC approach with the recommendation conditional with a low quality of evidence.
 
 ---
 
-### Cooled radiofrequency ablation versus standard medical management for chronic sacroiliac joint pain: a multicenter, randomized comparative effectiveness study [^ea12665f]. Regional Anesthesia and Pain Medicine (2024). Medium credibility.
+### Cooled radiofrequency ablation versus standard medical management for chronic sacroiliac joint pain: a multicenter, randomized comparative effectiveness study [^116z2HQJ]. Regional Anesthesia and Pain Medicine (2024). Medium credibility.
 
 Introduction
 
@@ -584,7 +584,7 @@ Trial registration number.
 
 ---
 
-### Radiofrequency ablation's effectiveness for treating abdominal and thoracic chronic pain syndromes: a systematic review of the current literature [^3928a43d]. Pain Physician (2023). Medium credibility.
+### Radiofrequency ablation's effectiveness for treating abdominal and thoracic chronic pain syndromes: a systematic review of the current literature [^112Tjwpp]. Pain Physician (2023). Medium credibility.
 
 Background
 
@@ -616,7 +616,7 @@ A systematic review of the literature supports RFA as a viable option for managi
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^edaf8153]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^1175P1uU]. Journal of Pain Research (2025). Medium credibility.
 
 Different RF Therapy Modalities
 
@@ -630,7 +630,7 @@ Schematic diagram of water-cooled radiofrequency (RF) system for controlled ther
 
 ---
 
-### Dorsal root ganglion pulsed radiofrequency with scar radiofrequency ablation combined for chronic postoperative abdominal pain: a retrospective study [^45162f6d]. Journal of Pain Research (2025). Medium credibility.
+### Dorsal root ganglion pulsed radiofrequency with scar radiofrequency ablation combined for chronic postoperative abdominal pain: a retrospective study [^112mRbec]. Journal of Pain Research (2025). Medium credibility.
 
 Introduction
 
@@ -642,7 +642,7 @@ From a pathophysiological perspective, the combination of dorsal root ganglion p
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^84dcceb0]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^114PyXsd]. Journal of Pain Research (2025). Medium credibility.
 
 Efficacy and Safety of RF Therapy
 
@@ -660,13 +660,13 @@ Although RF therapy is generally considered safe, it is not without risks. Poten
 
 ---
 
-### Radiofrequency ablation of cancer [^9d76ba70]. Cardiovascular and Interventional Radiology (2004). Low credibility.
+### Radiofrequency ablation of cancer [^1152SwFu]. Cardiovascular and Interventional Radiology (2004). Low credibility.
 
 Radiofrequency ablation (RFA) has been used for over 18 years for treatment of nerve-related chronic pain and cardiac arrhythmias. In the last 10 years, technical developments have increased ablation volumes in a controllable, versatile, and relatively inexpensive manner. The host of clinical applications for RFA have similarly expanded. Current RFA equipment, techniques, applications, results, complications, and research avenues for local tumor ablation are summarized.
 
 ---
 
-### Efficacy of needle-placement technique in radiofrequency ablation for treatment of lumbar facet arthropathy [^60132ef7]. Journal of Pain Research (2015). Low credibility.
+### Efficacy of needle-placement technique in radiofrequency ablation for treatment of lumbar facet arthropathy [^113TSFn6]. Journal of Pain Research (2015). Low credibility.
 
 Introduction
 
@@ -678,7 +678,7 @@ In this study, we sought to examine the efficacy of the early Australian techniq
 
 ---
 
-### Pain with different ablation techniques in healthy cervical tissue | JCO global oncology… [^9ccf439a]. ASCO (2017). Low credibility.
+### Pain with different ablation techniques in healthy cervical tissue | JCO global oncology… [^1151Ugnu]. ASCO (2017). Low credibility.
 
 Abstract Abstract 21 Background: Traditional cryotherapy and thermoablation are safe and effective treatments for precancerous cervical lesions. Women can present with short-term pain during and after the procedures. Comparing conventional treatments with CryoPen will stablish efficacy and adverse effects with the goal of developing low-cost, effective treatments for developing countries. We undertook this work to determine pain after treatment with conventional cryotherapy with CO 2, the CryoPen adapted for low-resource settings, and the thermocoagulator. Methods: One hundred twenty-five women age 25 to 65 years who were scheduled for hysterectomy for indications other than cervical pathology were randomly assigned to one of five treatment arms: single- and double-freeze arms for conventional cryotherapy and the adapted CryoPen, and a single application of thermoablation at 100° C for 40 seconds.
 
@@ -688,7 +688,7 @@ Lower pain ratings for single-freeze compared with double-freeze strategies with
 
 ---
 
-### Randomized trial of sacroiliac joint arthrodesis compared with conservative management for chronic low back pain attributed to the sacroiliac joint [^f55bbfab]. The Journal of Bone and Joint Surgery: American Volume (2019). Medium credibility.
+### Randomized trial of sacroiliac joint arthrodesis compared with conservative management for chronic low back pain attributed to the sacroiliac joint [^117GknTC]. The Journal of Bone and Joint Surgery: American Volume (2019). Medium credibility.
 
 Low back pain is the number-1 contributor to global health burden in terms of years lived with disability. Chronic low back pain is the most common specific reason for prescribed opioid useand has contributed to marked increases in opioid abuse. Finding effective solutions for chronic low back pain is a critical agenda item for health-care professionals worldwide.
 
@@ -698,7 +698,7 @@ The effectiveness of nonsurgical treatments for chronic sacroiliac joint pain re
 
 ---
 
-### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^03b55441]. Journal of Pain Research (2023). Medium credibility.
+### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^1116VsRS]. Journal of Pain Research (2023). Medium credibility.
 
 Introduction
 
@@ -720,7 +720,7 @@ These guidelines aim to provide physicians with background knowledge and a summa
 
 ---
 
-### The utilization of radiofrequency techniques for upper extremity pain management [^3cc2e29d]. Pain Physician (2023). Medium credibility.
+### The utilization of radiofrequency techniques for upper extremity pain management [^112Z5iaY]. Pain Physician (2023). Medium credibility.
 
 Background
 
@@ -752,13 +752,13 @@ Radiofrequency techniques are a promising, minimally invasive procedure for cont
 
 ---
 
-### Basivertebral nerve ablation technique [^934e3567]. Techniques in Vascular and Interventional Radiology (2024). Medium credibility.
+### Basivertebral nerve ablation technique [^114mPT42]. Techniques in Vascular and Interventional Radiology (2024). Medium credibility.
 
 Chronic low back pain represents a leading cause of global disability, but can often be complex in etiology, with multiple pain generators contributing to patient discomfort. Anterior column low back pain involves the vertebral bodies and discs, with the vertebral body endplates now known to be a significant pain generator. Vertebrogenic low back pain secondary to irritation of the basivertebral nerve presents as axial discomfort, worse with forward flexion, and with concomitant Type I or II Modic changes on MRI. Minimally invasive basivertebral nerve radiofrequency ablation has emerged as an effective intervention for managing anterior column back pain. In this article, the authors present a comprehensive approach to identifying and treating vertebrogenic low back pain through image guided basivertebral nerve ablation. We outline the patient presentation and diagnostic workup, followed by a detailed procedural guide including equipment requirements, technique execution, and potential technical challenges and complications.
 
 ---
 
-### Radiofrequency techniques to treat chronic knee pain: a comprehensive review of anatomy, effectiveness, treatment parameters, and patient selection [^386af656]. Journal of Pain Research (2018). Low credibility.
+### Radiofrequency techniques to treat chronic knee pain: a comprehensive review of anatomy, effectiveness, treatment parameters, and patient selection [^112SeEaH]. Journal of Pain Research (2018). Low credibility.
 
 Radiofrequency ablation (RFA) entails the discrete delivery of thermal energy produced by an alternating current to neural tissue, thereby degrading its ability to conduct pain signals. First described as a treatment for pain in the 1960's, RFA evolved from a therapy primarily employed to alleviate neuropathic pain to one used today predominantly for mechanical joint pain amidst reports of increased pain stemming from deafferentation and neuroma formation. Since the neurosurgeon Norman Shealy adapted its use for the treatment of pain arising from the spinal facet joints in the mid-1970's, the accepted indications for RFA have expanded steadily over the ensuing decades. The advent of cooled radiofrequency ablation (CRFA)and the non- ablative pulsed radiofrequency (PRF)therapy have further broadened the clinical utility of RF for chronic pain states. Accepted targets for RF treatment now include most neural structures to include major nerves and ganglia.–The use of RF as a treatment for knee pain was first described in a small case series involving the treatment of different types of joint pain by Sluijter et al, who noted complete eradication of pain with intra-articular PRF in a patient with refractory post-traumatic knee pain. This area of pain medicine has evolved in the past decade, and though knee RFA has been the subject of numerous publications, high-quality randomized controlled trials (RCTs) remain sparse. The objectives of this publication are to review the relevant neuroanatomy of the knee and the available literature on RFA.
 
@@ -768,25 +768,25 @@ We systematically searched and screened all titles and abstracts from MEDLINE an
 
 ---
 
-### The use of radiofrequency in the treatment of pelvic pain [^e86a16ce]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
+### The use of radiofrequency in the treatment of pelvic pain [^116wZmAM]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
 
 Radiofrequency ablation (RFA) is a procedure in which radio waves are used to destroy abnormal or dysfunctional tissue. It has been an increasingly utilized treatment option for a variety of medical conditions, such as chronic pain, wherein sensory nerves are targeted and ablated, eliminating their ability to transmit pain signals to the brain. There is a lack of clarity regarding the indications, technique, and efficacy of RFA for chronic pelvic pain. This article reviews recent literature and discusses these topics, including adverse events for different pelvic ablation and pulsed radiofrequency treatment of chronic pelvic pain.
 
 ---
 
-### Spinal cord stimulation [^454c5564]. Pain Physician (2002). Low credibility.
+### Spinal cord stimulation [^112mjnYT]. Pain Physician (2002). Low credibility.
 
 Spinal cord stimulation is the most common mode of neuromodulation used in managing chronic low back pain. It is minimally invasive and reversible as opposed to nerve ablation. The basic scientific background of the initial spinal cord stimulation trials was based on the gate control theory of Melzack and Wall. It has been demonstrated in multiple studies that dorsal horn neuronal activity caused by peripheral noxious stimuli could be inhibited by concomitant stimulation of the dorsal columns. Various other mechanisms, which may play a significant role in the mechanism of action of spinal cord stimulation, include the suppressive effect of spinal cord stimulation on tactile allodynia, increased dorsal horn inhibitory action of gamma-aminobutyric acid (GABA), prevention or abolition of peripheral ischemia, and effects on human brain activity. Spinal cord stimulation is indicated in low back pain with radiculopathy, failed back surgery syndrome, complex regional pain syndrome, peripheral vascular disease, and ischemic heart disease. There is substantial scientific evidence on the efficacy of spinal cord stimulation for treatment of low back and lower extremity pain of neuropathic nature. Clinical studies revealed a success rate of from 50% to 70% with spinal cord stimulation, with decreased pain intensity scores, functional improvement and decreased medication usage. This review discusses multiple aspects of spinal cord stimulation, including pathophysiology and mechanism of action, rationale, indications, technique, clinical effectiveness, and controversial aspects.
 
 ---
 
-### Ablation of bone metastases [^97dc10f4]. Surgical Oncology Clinics of North America (2011). Low credibility.
+### Ablation of bone metastases [^114t93nj]. Surgical Oncology Clinics of North America (2011). Low credibility.
 
 Metastatic disease is the most common neoplasm involving the skeletal system and can result in significant pain and morbidity. Although narcotic medications and external beam radiation therapy remain the standard of care, several image-guided ablation techniques have evolved to play a role in the management of painful bone metastases. This article reviews the percutaneous ablation techniques available for relieving bone pain in patients suffering from cancer.
 
 ---
 
-### Review of the safety of bipolar radiofrequency ablation in patients with chronic pain with implantable cardiac rhythm management devices [^18307585]. Pain Physician (2021). Medium credibility.
+### Review of the safety of bipolar radiofrequency ablation in patients with chronic pain with implantable cardiac rhythm management devices [^111crypg]. Pain Physician (2021). Medium credibility.
 
 Background
 
@@ -818,13 +818,13 @@ This study provides evidence that bipolar RFA can be safely used in patients wit
 
 ---
 
-### Hip ablation techniques [^aff755f4]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
+### Hip ablation techniques [^115Vsuoh]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
 
 Radiofrequency ablation (RFA) is still an emergent technique for the management of chronic hip pain. Although the ablation technique for facet articular branches of lumbar and cervical spine was already established, the literature on the targets and technique of needle placement for hip denervation are evolving. This article summarizes the current understanding of the anatomy of the articular branches, sonoanatomy, and the suggested techniques for the RFA of the hip. It also reviews the literature on the clinical studies.
 
 ---
 
-### Factors predicting outcomes from chronic pain management interventions [^aa769fd7]. BMJ Medicine (2025). High credibility.
+### Factors predicting outcomes from chronic pain management interventions [^115Mijtz]. BMJ Medicine (2025). High credibility.
 
 Central sensitisation
 
@@ -840,49 +840,49 @@ Preoperative pain and severe acute postoperative pain are risk factors for persi
 
 ---
 
-### Comprehensive evidence-based guidelines for implantable peripheral nerve stimulation (PNS) in the management of chronic pain: from the American Society of Interventional Pain Physicians (ASIPP) [^f188fe1f]. Pain Physician (2024). High credibility.
+### Comprehensive evidence-based guidelines for implantable peripheral nerve stimulation (PNS) in the management of chronic pain: from the American Society of Interventional Pain Physicians (ASIPP) [^117B62kN]. Pain Physician (2024). High credibility.
 
 Interventional pain management and peripheral nerve stimulation (PNS) definitions and uses are described, with interventional pain management defined as "the discipline of medicine devoted to the diagnosis and treatment of pain related disorders, principally with the application of interventional techniques in managing subacute, chronic, persistent, and intractable pain, independently or in conjunction with other modalities of treatment", and interventional pain management techniques defined as "minimally invasive procedures including, percutaneous precision needle placement, with placement of drugs in targeted areas or ablation of targeted nerves; and some surgical techniques such as laser or endoscopic discectomy, intrathecal infusion pumps and spinal cord stimulators (SCS), for the diagnosis and management of chronic, persistent or intractable pain". PNS is characterized as "a neuromodulation therapy that involves implanting an electrode near a peripheral nerve responsible for the pain", in which "The electrode(s) deliver electrical impulses to the affected nerve, disrupting pain signal transmission and thereby reducing the sensation of pain", and has been applied for "chronic pain conditions of upper and lower extremities, entrapment syndromes, headache and facial pain, intercostal neuralgias, axial spinal pain, and other peripheral injuries and diseases", with neuropathic pain approaches including "two minimally invasive approaches to stimulating the medial branches of the dorsal medial ramus (the peripheral motor nerves innervating the multifidus muscle of the lower back)".
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^b316d292]. DoD/VA (2022). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^115aWT4d]. DoD/VA (2022). High credibility.
 
 Chronic lowback pain — radiofrequency ablation: For patients with chronic lowback pain, we suggest lumbar medial branch and/or sacral lateral branch radiofrequency ablation.
 
 ---
 
-### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^d58f6f07]. Pain Physician (2020). High credibility.
+### Comprehensive evidence-based guidelines for facet joint interventions in the management of chronic spinal pain: American Society of Interventional Pain Physicians (ASIPP) guidelines facet joint interventions 2020 guidelines [^116TcYLe]. Pain Physician (2020). High credibility.
 
 Facet joint interventions — frequency of interventions details that in the diagnostic phase, a patient may receive 2 episodes of diagnostic interventions no sooner than 2 weeks apart, with careful judgment of response. In the therapeutic phase (after the diagnostic phase is completed), the suggested frequency would be 3 months or longer between therapeutic facet joint nerve blocks, provided that ≥ 50% relief is obtained for 2½-3 months. For facet joint nerve ablation, the suggested frequency would be 6 months or longer (maximum of 2 times per year) between each procedure, provided that 50% or greater relief is obtained for 5–6 months. If the interventional procedures are applied for different regions, they may be performed at intervals of no sooner than one week or preferably 2 weeks for most types of procedures, if they are not allowed to be performed in one setting or contraindicated. In the therapeutic phase for medial branch neurotomy should remain at intervals of at least 6 months per each region with multiple regions involved, and it is further suggested that all regions be treated at the same time, provided all procedures are performed safely. In the treatment or therapeutic phase, the interventional procedures should be repeated only as necessary according to the medical necessity criteria, and it is suggested that these be limited to a maximum of 4 times for local anesthetic and steroid blocks over a period of one year, per region, with unusual circumstances (recurrent injury or cervicogenic headache) allowing repetition not exceeding 6 times in a year after stabilization in the treatment phase. For billing purposes, cervical and thoracic are considered as one region and lumbar and sacral are considered as one region, and diagnostic facet joint nerve blocks are required to be repeated only with intermittent trauma or changes in the pain pattern after successful treatment with therapeutic facet joint interventions.
 
 ---
 
-### The diagnosis and treatment of heel pain: a clinical practice guideline-revision 2010 [^3cb94b54]. The Journal of Foot and Ankle Surgery (2010). Medium credibility.
+### The diagnosis and treatment of heel pain: a clinical practice guideline-revision 2010 [^112Z2VjR]. The Journal of Foot and Ankle Surgery (2010). Medium credibility.
 
 Heel pain surgical management — third tier care continues tier 1 and/or 2 programs with consideration of surgical management, and options may include plantar fasciotomy using recognized techniques or extracorporeal shock wave therapy (ESWT) as an alternative. Current practice favors a minimally invasive approach to plantar fasciotomy versus extensive open surgical exposures, and in most cases removal of the plantar heel spur does not seem to add to the success of the outcome. In some cases multiple etiologic factors including nerve entrapment may necessitate combining nerve release and plantar fasciotomy, and radiofrequency coblation of the plantar fascia as well as radiofrequency nerve ablation and cryoprobe have been advocated more recently as an alternative surgical approach to chronic heel pain.
 
 ---
 
-### Interventional techniques in the management of chronic pain: part 2.0 [^1bdaef1e]. Pain Physician (2001). Low credibility.
+### Interventional techniques in the management of chronic pain: part 2.0 [^111iJCnh]. Pain Physician (2001). Low credibility.
 
 The practice guidelines for interventional techniques in the management of chronic pain are systematically developed statements to assist physician and patient decisions about appropriate health care related to chronic pain. These guidelines are professionally derived recommendations for practices in the diagnosis and treatment of chronic or persistent pain. They were developed utilizing a combination of evidence and consensus based techniques, to increase patient access to treatment, improve outcomes and appropriateness of care, and optimize cost-effectiveness. The guidelines include a discussion of their purpose, rationale, and importance, including the patient population served, the methodology and the pathophysiologic basis for intervention. Various interventional techniques will be discussed addressing the rationale for their use in chronic pain with analysis of the outcomes data and cost effectiveness. These guidelines do not constitute inflexible treatment recommendations. It is expected that a provider will establish a plan of care on a case-by-case basis, taking into account an individual patient's medical condition, personal needs, and preferences, and the physician's experience. Based on an individual patient's needs, treatment different from that outlined here could be warranted.
 
 ---
 
-### Perioperative management of antiplatelet and anticoagulant therapy in patients undergoing interventional techniques: 2024 updated guidelines from the American Society of Interventional Pain Physicians (ASIPP) [^eb981335]. Pain Physician (2024). High credibility.
+### Perioperative management of antiplatelet and anticoagulant therapy in patients undergoing interventional techniques: 2024 updated guidelines from the American Society of Interventional Pain Physicians (ASIPP) [^1172HAtL]. Pain Physician (2024). High credibility.
 
 Methods — definitions of interventional pain management: The National Uniform Claims Committee (NUCC) definition describes interventional pain management as the discipline of medicine devoted to diagnosis and treatment of pain-related disorders using interventional techniques for subacute, chronic, persistent, and intractable pain, independently or with other treatment modalities. The Medicare Payment Advisory Commission (MedPAC) definition characterizes these techniques as minimally invasive procedures including percutaneous precision needle placement with drug delivery or nerve ablation, and some surgical techniques such as laser or endoscopic discectomy, intrathecal infusion pumps, and spinal cord stimulators for diagnosing and managing chronic, persistent, or intractable pain.
 
 ---
 
-### The use of spinal cord stimulation / neuromodulation in the management of chronic pain [^e98b184a]. The Journal of the American Academy of Orthopaedic Surgeons (2019). Medium credibility.
+### The use of spinal cord stimulation / neuromodulation in the management of chronic pain [^116yEqSy]. The Journal of the American Academy of Orthopaedic Surgeons (2019). Medium credibility.
 
 Chronic pain causes a tremendous burden on the society in terms of economic factors and social costs. Rates of spinal surgery, especially spinal fusion, have increased exponentially over the past decade. The opioid epidemic in the United States has been one response to the management of pain, but it has been fraught with numerous catastrophic-related adverse effects. Clinically, spinal cord stimulation (SCS)/neuromodulation has been used in the management of chronic pain (especially spine-related pain) for more than two decades. More recent advances in this field have led to new theories and approaches in which SCS can be used in the management of chronic spine-related pain with precision and efficacy while minimizing adverse effects commonly seen with other forms of chronic pain treatment (eg, narcotics, injections, ablations). Narcotic medications have adverse effects of habituation, nausea, constipation, and the like. Injections sometimes lack efficacy and can have only limited duration of efficacy. Also, they can have adverse effects of cerebrospinal fluid leak, infection, and so on. Ablations can be associated with burning discomfort, lack of efficacy, recurrent symptoms, and infection. High-frequency stimulation, burst stimulation, tonic stimulation with broader paddles, and new stimulation targets such as the dorsal root ganglion hold promise for improved pain management via neuromodulation moving forward. Although a significant rate of complications with SCS technology are well described, this can be a useful tool in the management of chronic spine-related pain.
 
 ---
 
-### Developments in minimally invasive surgical options for vertebral pain: basivertebral nerve ablation – A narrative review [^9cd25120]. Journal of Pain Research (2021). Medium credibility.
+### Developments in minimally invasive surgical options for vertebral pain: basivertebral nerve ablation – A narrative review [^1151ViGP]. Journal of Pain Research (2021). Medium credibility.
 
 Abstract
 
@@ -890,13 +890,13 @@ Historically, intervertebral disc degeneration has been the etiological target o
 
 ---
 
-### VA / DoD clinical practice guideline for rehabilitation of individuals with lower limb amputation [^59fec921]. DoD/VA (2024). High credibility.
+### VA / DoD clinical practice guideline for rehabilitation of individuals with lower limb amputation [^113JRUhv]. DoD/VA (2024). High credibility.
 
 Sidebar C: Pain management outlines perioperative, residual limb pain (RLP), and chronic phantom limb pain (PLP) guidance. For perioperative care, intraoperative placement of a perineural catheter for the post-operative delivery of local anesthetic can reduce pain following amputation surgery (Recommendation 4), and there is insufficient evidence to recommend for or against targeted muscle reinnervation or other peripheral nerve surgical management for phantom limb pain (PLP) (Recommendation 3). For RLP management, there is insufficient evidence for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions (Recommendation 21). For chronic PLP, guidance includes perineural catheter delivered anesthetic for the treatment of chronic severe phantom limb pain with functional impairment (Recommendation 22); consult for mirror therapy, alone or in combination with other therapies, to improve pain, function and quality of life for individuals with phantom limb pain (Recommendation 11); insufficient evidence to recommend for or against any systemic pharmacologic intervention for the management of phantom limb pain (Recommendation 23); and insufficient evidence for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions for the management of phantom limb pain (Recommendation 21).
 
 ---
 
-### Consensus guidelines from the American Society of Pain and Neuroscience for the use of 60-day peripheral nerve stimulation therapy. A NEURON living guideline project [^b7382aad]. Journal of Pain Research (2025). Medium credibility.
+### Consensus guidelines from the American Society of Pain and Neuroscience for the use of 60-day peripheral nerve stimulation therapy. A NEURON living guideline project [^115gdbnc]. Journal of Pain Research (2025). Medium credibility.
 
 Chronic LBP due to lumbar facet joint disease has been treated with radiofrequency ablation (RFA) rhizotomies of the medial branches of the dorsal rami. Lumbar RFA for facetogenic LBP is generally successful; however, there is variability in outcomes, and it remains a "de facto" neuro-destructive procedure.
 
@@ -916,7 +916,7 @@ Objective Measurement of Outcomes: The structured data collection over 60 days a
 
 ---
 
-### Radiofrequency for chronic knee pain: a literature review [^ac69c3f1]. Journal of Pain Research (2025). Medium credibility.
+### Radiofrequency for chronic knee pain: a literature review [^115QcPwv]. Journal of Pain Research (2025). Medium credibility.
 
 Indications and Contraindications for RF Therapy
 
@@ -926,7 +926,7 @@ Despite its wide range of indications, RF therapy has certain contraindications 
 
 ---
 
-### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^4a0d84dd]. Journal of Pain Research (2025). Medium credibility.
+### Are chronic pain fellowships disguised as acute pain fellowships which manage chronic pain? How to recognize and repair [^112tndE4]. Journal of Pain Research (2025). Medium credibility.
 
 Chronic Pain Management: A Continuum of Care
 
@@ -936,19 +936,19 @@ Notwithstanding this complexity, current Pain Medicine fellowships are structure
 
 ---
 
-### Ultrasound guidance pulsed radiofrequency ablation of the medial antebrachial cutaneous nerve for palliation of chronic pain after burn injury: a case report [^d885b15d]. Journal of Burn Care & Research (2023). Medium credibility.
+### Ultrasound guidance pulsed radiofrequency ablation of the medial antebrachial cutaneous nerve for palliation of chronic pain after burn injury: a case report [^116Y1ERA]. Journal of Burn Care & Research (2023). Medium credibility.
 
 Chronic burn pain persists for 6 months or longer after the wound has healed, affecting the patient's quality of life and daily activities. Pharmacological treatments are essential in the treatment of chronic pain after burns, but interventional methods come to the fore in cases where there is no response to pharmacological treatments. Radiofrequency ablation is known as a safe, effective, and minimally invasive treatment for patients with intractable chronic pain. Various pain syndromes can be successfully treated with radiofrequency ablation however, there is no publication of chronic pain management associated with burn injury. Here, we first describe the successful management of chronic burn pain using radiofrequency ablation of the medial antebrachial cutaneous nerve.
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^d0d0113a]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^116LaK6R]. The Spine Journal (2020). High credibility.
 
 Facet-mediated pain — radiofrequency ablation versus medial branch steroid injection (narrative study critique): The page notes that "authors concluded radiofrequency denervation should be used for the treatment of chronic LBP if pain recurs or if pain relief is not experienced after the first line facet joint injection", but the work group downgraded the study and states it provides Level II evidence that, in patients without diagnostic blocks with suspected facet pain, radiofrequency ablation shows better improvements in pain at 6 months and one year compared with a medial branch steroid injection.
 
 ---
 
-### Cervical facet joint pain and cervicogenic headache treated with radiofrequency ablation: a systematic review [^c37bb71e]. Pain Physician (2022). Medium credibility.
+### Cervical facet joint pain and cervicogenic headache treated with radiofrequency ablation: a systematic review [^115zp981]. Pain Physician (2022). Medium credibility.
 
 Background
 
@@ -980,7 +980,7 @@ Based on this systematic review, efficacy of cervical facet RFA in treatment of 
 
 ---
 
-### Chronic pain and bone-related pathologies: a narrative review [^82239d97]. Journal of Pain Research (2024). Medium credibility.
+### Chronic pain and bone-related pathologies: a narrative review [^114KwMUz]. Journal of Pain Research (2024). Medium credibility.
 
 Other Strategies
 
@@ -990,20 +990,20 @@ Surgery and interventional radiology also increasingly have their place in the m
 
 ---
 
-### Nerve ablation in the foot and ankle [^2a49b8d1]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
+### Nerve ablation in the foot and ankle [^1125hF4C]. Physical Medicine and Rehabilitation Clinics of North America (2021). Medium credibility.
 
 Ablation therapies in the foot and ankle are accessible adjuncts to surgery and comprehensive pain management in recalcitrant pain syndromes. Techniques are best applied to individual patient anatomy with strong advantages in a working knowledge of neuromuscular real-time imaging with ultrasound. Interventionists face the unique challenge in this region of preserving balance and proprioception as well as intrinsic muscle function, while optimizing pain relief. A decision-making approach emphasizing selectivity by using regional and target-specific ablations is optimal. This article reviews basic technique, approaches, potential complications, and ultrasound anatomy for a practical introduction to ablation options in the foot and ankle.
 
 ---
 
-### Pain outcomes after mechanochemical ablation vs cyanoacrylate adhesive for truncal ablation… [^7aa64f53]. JAMA Network (2022). Excellent credibility.
+### Pain outcomes after mechanochemical ablation vs cyanoacrylate adhesive for truncal ablation… [^1148qMMk]. JAMA Network (2022). Excellent credibility.
 
 © 2025 Question Is there a difference in the amount of pain experienced when patients with primary saphenous vein incompetence are treated with mechanochemical ablation or cyanoacrylate adhesive. Findings In this randomized clinical trial, the median scores for maximum and average pain experienced were low and similar between the mechanochemical ablation and cyanoacrylate adhesive groups. Objective To assess pain scores immediately after truncal ablation using a 100-mm visual analog scale and 10-point number scale to compare pain-related outcomes following mechanochemical ablation vs cyanoacrylate adhesive treatment. Design, Setting, and Participants. Overall, the median maximum pain score experienced during truncal treatment was 23 mm on a VAS and 3 mm on the 10-point number scale. Distributions of the maximum pain scores for MOCA and CAE were similar. The median maximum pain scores measured by VAS for MOCA and CAE were 24 mm and 20 mm, respectively. The overall median average pain score experienced at the end of truncal treatment was 10. 5 mm on the VAS and 3 on the 10-point number scale. Distributions of the average pain scores for MOCA and CAE were similar. Table 3 summarizes all secondary outcomes. The overall median pain score reported in the 10 days postoperatively was 9. 75 mm on the VAS. The median pain score for MOCA was 10. 5 mm and CAE 7 mm. This difference was not statistically significantly. Overall, the median maximum pain score experienced at the end of adjunctive treatment was 23. 00 mm on the VAS and 5 on the number scale and the median average pain score was
 18. 5 mm on the VAS and 3 on the number scale.
 
 ---
 
-### Management of chronic pain after hernia repair [^5ff7cd86]. Journal of Pain Research (2018). Low credibility.
+### Management of chronic pain after hernia repair [^113TH4Ms]. Journal of Pain Research (2018). Low credibility.
 
 Radiofrequency treatment
 
@@ -1013,13 +1013,13 @@ Another option is to implant a device that stimulates the nerves (spinal cord st
 
 ---
 
-### Nerve blocks and neuroablative surgery for chronic pancreatitis [^af4d4a1e]. World Journal of Surgery (2003). Low credibility.
+### Nerve blocks and neuroablative surgery for chronic pancreatitis [^115Uto3B]. World Journal of Surgery (2003). Low credibility.
 
 Surgical decompressive procedures for "large-duct" chronic pancreatitis have been notably successful in relieving pain. However, management of patients with intractable pain from "small-duct" chronic pancreatitis has been difficult, often resulting in narcotic addiction and/or malnutrition from major pancreatic resection. In view of the disappointing results from extensive pancreatic resections in these cases, denervation of pancreatic sympathetic pain afferents has been suggested as an alternative. Although denervation procedures have been attempted at multiple anatomical levels, results have unfortunately been mixed. The observed variability in results has been attributed to poor patient selection, incomplete understanding of neurophysiology of pancreatic pain, and perhaps inadequate knowledge of pancreatic neuroanatomy. At present, the preferred form of neural ablation is splanchnicectomy. However, a consistent and reliable method for identifying candidates for splanchnicectomy is critical, as it is clinically difficult to distinguish true pancreatic pain from other nociceptive conditions masquerading as pancreatic pain. Differential epidural anesthesia (DEA) is a promising, safe test for initial evaluation and patient selection, although it is not as precise as sometimes claimed. Patients responding to sympathetic block during DEA seem to be the best candidates for operative sympathetic ablation. At the moment, the optimal surgical approach to splanchnic ablation, which offers the least morbid technique, most favorable results, and an attractive risk-benefit ratio, is bilateral thoracoscopic splanchnicectomy. More experience and longer follow-up will be necessary to evaluate this approach.
 
 ---
 
-### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^c7a9bd5d]. Journal of Pain Research (2023). Medium credibility.
+### The American Society of Pain and Neuroscience (ASPN) guidelines for radiofrequency ablative procedures in patients with implanted devices [^11671Ysn]. Journal of Pain Research (2023). Medium credibility.
 
 Conclusions
 
@@ -1027,7 +1027,7 @@ Considering an aging population, the dichotomy of both osteoarthritic disease an
 
 ---
 
-### An international survey on the practice of lumbar radiofrequency ablation for management of zygapophyseal (facet)-mediated low back pain [^9d9d8aea]. Journal of Pain Research (2022). Medium credibility.
+### An international survey on the practice of lumbar radiofrequency ablation for management of zygapophyseal (facet)-mediated low back pain [^1152fyRT]. Journal of Pain Research (2022). Medium credibility.
 
 Introduction
 
@@ -1039,7 +1039,7 @@ Despite the significant accumulation of evidence highlighting the efficacy of RF
 
 ---
 
-### Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group [^4fc10a7f]. Pain Medicine (2021). Medium credibility.
+### Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group [^1133Es1G]. Pain Medicine (2021). Medium credibility.
 
 Abstract
 
@@ -1061,19 +1061,19 @@ Cervical medial branch radiofrequency ablation may provide benefit to well-selec
 
 ---
 
-### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^3b850464]. Pain Physician (2013). Medium credibility.
+### An update of comprehensive evidence-based guidelines for interventional techniques in chronic spinal pain. part II: guidance and recommendations [^112XEx1Z]. Pain Physician (2013). Medium credibility.
 
 Radiofrequency neurotomy for chronic low back pain of facet joint origin — based on 6 positive randomized trials and 10 positive observational studies, the evidence for conventional radiofrequency neurotomy is good for short- and long-term relief; by contrast, based on one randomized trial and one observational study meeting inclusion criteria, the evidence is limited for pulsed radiofrequency neurotomy.
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^8d8c480d]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^114crNdz]. The Spine Journal (2020). High credibility.
 
 Radiofrequency facet joint denervation in chronic low back pain (LBP) shows short-term functional improvement but uncertain efficacy; the treatment group had significantly greater improvement in Roland–Morris scores at 4 weeks with no Oswestry or VAS differences, and no between-group differences at 12 weeks. The work group downgraded the study and stated it provides Level II evidence that patients reporting relief within one week of an intra-articular steroid injection and receiving radiofrequency ablation perpendicular to the nerve report no improvement in pain at 3 and 12 months versus sham radiofrequency denervation.
 
 ---
 
-### Anterior cutaneous nerve entrapment syndrome: management challenges [^d6ce7a9e]. Journal of Pain Research (2017). Low credibility.
+### Anterior cutaneous nerve entrapment syndrome: management challenges [^116VThqo]. Journal of Pain Research (2017). Low credibility.
 
 Other techniques
 
@@ -1091,7 +1091,7 @@ The application of neuromodulation techniques, especially peripheral or spinal n
 
 ---
 
-### Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group [^d9f0e998]. Regional Anesthesia and Pain Medicine (2022). Medium credibility.
+### Consensus practice guidelines on interventions for cervical spine (facet) joint pain from a multispecialty international working group [^116a7EWK]. Regional Anesthesia and Pain Medicine (2022). Medium credibility.
 
 Background
 
@@ -1111,7 +1111,7 @@ Cervical medial branch radiofrequency ablation may provide benefit to well-selec
 
 ---
 
-### Application of spinal ablative techniques for the treatment of benign chronic painful conditions: history, methods, and outcomes [^38679ac5]. Spine (2002). Low credibility.
+### Application of spinal ablative techniques for the treatment of benign chronic painful conditions: history, methods, and outcomes [^112Sd7AL]. Spine (2002). Low credibility.
 
 Study Design
 
@@ -1139,7 +1139,7 @@ Ablative spinal techniques offer pain relief for many patients, but the use of t
 
 ---
 
-### Cooled radiofrequency ablation provides prolonged pain relief compared to traditional radiofrequency ablation: a real-world, large retrospective clinical comparison from a single practice [^2d02777c]. Journal of Pain Research (2022). Medium credibility.
+### Cooled radiofrequency ablation provides prolonged pain relief compared to traditional radiofrequency ablation: a real-world, large retrospective clinical comparison from a single practice [^1129jGjm]. Journal of Pain Research (2022). Medium credibility.
 
 Background
 
@@ -1159,7 +1159,7 @@ We conclude that the duration and intensity of pain relief were of a greater mag
 
 ---
 
-### Radiofrequency ablation in relieving pain in patients with… [^f58ff54a]. ClinicalTrials (2002). Low credibility.
+### Radiofrequency ablation in relieving pain in patients with… [^117H4KaH]. ClinicalTrials (2002). Low credibility.
 
 Radiofrequency Ablation in Relieving Pain in Patients With Bones MetastasesClinicalTrials. gov ID Study Overview RATIONALE: Radiofrequency ablation uses high-frequency electric current to kill tumor cells and may help to relieve pain caused by bone metastases. PURPOSE: Phase II trial to study the effectiveness of radiofrequency ablation in relieving pain in patients who have bone metastases. OBJECTIVES:
 - Determine the efficacy of radiofrequency ablation, in terms of pain relief at 4 weeks, in patients with painful bone metastases.
@@ -1180,7 +1180,7 @@ Patients receive radiofrequency ablation to targeted tumor on day 0. Patients wh
 
 ---
 
-### A systematic review: current and future directions of dorsal root ganglion therapeutics to treat chronic pain [^2d9d324b]. Pain Medicine (2013). Low credibility.
+### A systematic review: current and future directions of dorsal root ganglion therapeutics to treat chronic pain [^112AdF7g]. Pain Medicine (2013). Low credibility.
 
 Objective
 
@@ -1200,6 +1200,6 @@ Despite a robust understanding of the DRG and its importance in acute nociceptio
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^d32924b3]. DoD/VA (2022). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^116Q4Czv]. DoD/VA (2022). High credibility.
 
 Non-surgical invasive therapies research topics include high quality RCTs comparing injection and needle therapies (e.g., traditional acupuncture, battlefield acupuncture, and dry needling) to credible comparators (e.g., sham injection/needling, usual care, or no treatment) to assess for needle effect; research on both short-term and long-term measures of pain and function; research on anatomic targets of ablation and orthobiologics; studies on spinal cord stimulation that are not industry-funded and assess long-term waning effects; and research on risk for surgical intervention after use of non-surgical invasive interventions.

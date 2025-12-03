@@ -15,29 +15,29 @@ What is the ICD-10-CM code for X-linked ichthyosis?
 
 > Let's see… What do we have here? The user is asking for the ICD-10-CM code for X-linked ichthyosis. Let's break this down step-by-step. First, I need to think about the clinical entity and whether it is classified as a congenital malformation or a genodermatosis. Then, I should verify the ICD-10-CM chapter and category that best fits inherited ichthyoses. Next, I will check for a specific subcategory for X-linked ichthyosis and confirm whether it requires a 7th character or laterality. Finally, I will cross-check authoritative sources and guidelines to ensure the code is current and correctly applied.
 
-> Let me first confirm the clinical entity. X-linked ichthyosis is a hereditary disorder of keratinization due to steroid sulfatase deficiency, typically presenting in males with generalized scaling and possible extracutaneous features; clinically it is an inherited ichthyosis and falls under disorders of cornification, which in ICD-10-CM are generally grouped within congenital malformations and deformations, specifically in the Q80–Q89 range for other congenital malformations, so I should be looking in that neighborhood rather than in the skin disease chapters that cover acquired dermatoses [^35ba3ce3] [^0d35f56c].
+> Let me first confirm the clinical entity. X-linked ichthyosis is a hereditary disorder of keratinization due to steroid sulfatase deficiency, typically presenting in males with generalized scaling and possible extracutaneous features; clinically it is an inherited ichthyosis and falls under disorders of cornification, which in ICD-10-CM are generally grouped within congenital malformations and deformations, specifically in the Q80–Q89 range for other congenital malformations, so I should be looking in that neighborhood rather than in the skin disease chapters that cover acquired dermatoses [^112Neu9C] [^111Laxs5].
 
 > Wait, let me verify the exact category. I initially thought Q80.1 might be the catch-all for ichthyosis, but hold on, I should verify the subcategories. The Q80 category is "Congenital ichthyosis", and within Q80 there are specific subcodes; Q80.1 corresponds to X-linked ichthyosis, which matches the entity in question, so the most specific code is Q80.1 rather than a generic Q80.0 or Q80.8, and I should confirm that no 7th character is required for this code because it is not a bilateral-site or trauma-related category [^notfound].
 
 > I need to ensure I'm not missing a laterality or staging requirement. Let me consider the ICD-10-CM structure: many ophthalmic and some dermatologic codes require 7th characters for laterality or staging, but congenital ichthyosis codes in Q80 do not require a 7th character, so Q80.1 stands as a complete six-character code without additional placeholders or extensions, which simplifies coding in this case [^notfound].
 
-> Next, I should review corroborating sources to be confident. Large epidemiologic and claims-based studies that catalog congenital anomalies explicitly include Q80 codes for congenital ichthyosis, and contemporary dermatology coding summaries reinforce that Q80.1 is the correct, specific code for X-linked ichthyosis, aligning with the ICD-10-CM tabular structure and supporting the choice of Q80.1 as the definitive diagnosis code [^0d35f56c].
+> Next, I should review corroborating sources to be confident. Large epidemiologic and claims-based studies that catalog congenital anomalies explicitly include Q80 codes for congenital ichthyosis, and contemporary dermatology coding summaries reinforce that Q80.1 is the correct, specific code for X-linked ichthyosis, aligning with the ICD-10-CM tabular structure and supporting the choice of Q80.1 as the definitive diagnosis code [^111Laxs5].
 
 > Putting this together, I should double-check that there isn't a more granular or alternative code. There is no sub-subcategory beneath Q80.1 for X-linked ichthyosis, and using Q80.0 (unspecified congenital ichthyosis) would be less accurate when the X-linked etiology is known, so the most precise ICD-10-CM code for X-linked ichthyosis is Q80.1 [^notfound].
 
 ---
 
-The ICD-10-CM code for X-linked ichthyosis is **Q80.1**. This code specifically denotes X-linked ichthyosis, a genetic skin disorder characterized by generalized scaling due to steroid sulfatase deficiency [^35ba3ce3]. Accurate use of Q80.1 supports proper documentation, billing, and epidemiologic tracking of this condition [^439852f4].
+The ICD-10-CM code for X-linked ichthyosis is **Q80.1**. This code specifically denotes X-linked ichthyosis, a genetic skin disorder characterized by generalized scaling due to steroid sulfatase deficiency [^112Neu9C]. Accurate use of Q80.1 supports proper documentation, billing, and epidemiologic tracking of this condition [^112jDLPm].
 
 ---
 
 ## Clinical features and diagnosis of X-linked ichthyosis
 
-X-linked ichthyosis is an **X-linked recessive disorder** caused by mutations in the STS gene, leading to steroid sulfatase deficiency and impaired desquamation with retention hyperkeratosis [^35ba3ce3]. Clinical features include:
+X-linked ichthyosis is an **X-linked recessive disorder** caused by mutations in the STS gene, leading to steroid sulfatase deficiency and impaired desquamation with retention hyperkeratosis [^112Neu9C]. Clinical features include:
 
-- **Generalized scaling**: Large, dark brown, tightly adherent scales, especially on the extensor surfaces and trunk [^35ba3ce3].
-- **Extracutaneous manifestations**: Corneal opacities, cryptorchidism, and neurodevelopmental issues may occur [^35ba3ce3] [^364e1da0].
-- **Diagnosis**: Clinical suspicion plus biochemical or genetic confirmation of STS deficiency [^35ba3ce3].
+- **Generalized scaling**: Large, dark brown, tightly adherent scales, especially on the extensor surfaces and trunk [^112Neu9C].
+- **Extracutaneous manifestations**: Corneal opacities, cryptorchidism, and neurodevelopmental issues may occur [^112Neu9C] [^112PWa31].
+- **Diagnosis**: Clinical suspicion plus biochemical or genetic confirmation of STS deficiency [^112Neu9C].
 
 ---
 
@@ -53,7 +53,7 @@ Accurate coding relies on **clear clinical documentation** that includes:
 
 - **Confirmed diagnosis**: State "X-linked ichthyosis" explicitly.
 - **Genetic testing**: Note STS gene mutation or steroid sulfatase deficiency when available.
-- **Extracutaneous features**: Document corneal opacities, cryptorchidism, or neurodevelopmental findings [^35ba3ce3] [^364e1da0].
+- **Extracutaneous features**: Document corneal opacities, cryptorchidism, or neurodevelopmental findings [^112Neu9C] [^112PWa31].
 
 ---
 
@@ -61,13 +61,13 @@ Accurate coding relies on **clear clinical documentation** that includes:
 
 - **Specificity**: Use Q80.1 when X-linked ichthyosis is confirmed; avoid unspecified codes (e.g. Q80.0) if the etiology is known.
 - **Extracutaneous manifestations**: Code additional diagnoses separately (e.g. cryptorchidism, corneal opacities) when present.
-- **Regular updates**: Stay current with ICD-10-CM revisions and coding guidelines [^12b539b3] [^f9795f3a].
+- **Regular updates**: Stay current with ICD-10-CM revisions and coding guidelines [^111UjedQ] [^117Nrggq].
 
 ---
 
 ## Impact of accurate coding
 
-Using Q80.1 correctly improves **claims processing**, supports **epidemiologic surveillance** of rare diseases, and ensures appropriate **resource allocation** and care coordination [^439852f4].
+Using Q80.1 correctly improves **claims processing**, supports **epidemiologic surveillance** of rare diseases, and ensures appropriate **resource allocation** and care coordination [^112jDLPm].
 
 ---
 
@@ -92,37 +92,37 @@ The ICD-10-CM code for X-linked ichthyosis is **Q80.1**. Accurate coding depends
 
 ## References
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^98f4ac3b]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^114umJSn]. Orphanet Report Series (2024). Medium credibility.
 
 In Europe, the incidence of recessive X-linked ichthyosis in 2021 was 15 per 100,000 person-years.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^9f194c1a]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^1154sXe1]. Orphanet Report Series (2024). Medium credibility.
 
 In Europe, the prevalence of recessive X-linked ichthyosis is estimated at 16.6 per 100,000 population.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^5f2a00a8]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^113S5w3m]. Orphanet Report Series (2024). Medium credibility.
 
 In Europe, the prevalence of syndromic recessive X-linked ichthyosis in 2021 was 1.3 per 100,000 population.
 
 ---
 
-### Management of congenital ichthyoses: European guidelines of care, part two [^1610b165]. The British Journal of Dermatology (2019). Medium credibility.
+### Management of congenital ichthyoses: European guidelines of care, part two [^111ZiLQU]. The British Journal of Dermatology (2019). Medium credibility.
 
 These guidelines for the management of congenital ichthyoses have been developed by a multidisciplinary group of European experts following a systematic review of the current literature, an expert conference held in Toulouse in 2016, and a consensus on the discussions. These guidelines summarize evidence and expert-based recommendations and intend to help clinicians with the management of these rare and often complex diseases. These guidelines comprise two sections. This is part two, covering the management of complications and the particularities of some forms of congenital ichthyosis.
 
 ---
 
-### Characterising heart rhythm abnormalities associated with xp22.31 deletion [^1f8d777c]. Journal of Medical Genetics (2023). Medium credibility.
+### Characterising heart rhythm abnormalities associated with xp22.31 deletion [^111on8jM]. Journal of Medical Genetics (2023). Medium credibility.
 
 Methods
 
@@ -138,13 +138,13 @@ Adult (> 18 years) men with a confirmed diagnosis of XLI, confirmed adult female
 
 ---
 
-### Management of congenital ichthyoses: European guidelines of care, part one [^e282f86c]. The British Journal of Dermatology (2019). Medium credibility.
+### Management of congenital ichthyoses: European guidelines of care, part one [^116npCCT]. The British Journal of Dermatology (2019). Medium credibility.
 
 These guidelines for the management of congenital ichthyoses have been developed by a multidisciplinary group of European experts following a systematic review of the current literature, an expert conference held in Toulouse in 2016 and a consensus on the discussions. They summarize evidence and expert-based recommendations and are intended to help clinicians with the management of these rare and often complex diseases. These guidelines comprise two sections. This is part one, covering topical therapies, systemic therapies, psychosocial management, communicating the diagnosis and genetic counselling.
 
 ---
 
-### Recognition and management of congenital ichthyosis in a low-income setting [^ef3cdc14]. BMJ Case Reports (2019). High credibility.
+### Recognition and management of congenital ichthyosis in a low-income setting [^1177gUzf]. BMJ Case Reports (2019). High credibility.
 
 Global health problem list
 
@@ -156,7 +156,7 @@ Absence of community support and long-term follow-up in LMICs further compounds 
 
 ---
 
-### CMS ICD-10 resources | Guidance portal-HHS.gov… [^1a04c5df]. HHS (2024). Medium credibility.
+### CMS ICD-10 resources | Guidance portal-HHS.gov… [^111faHK4]. HHS (2024). Medium credibility.
 
 CMS ICD-10 Resources Guidance for CMS ICD-10 Resources for providers. Issued by: Centers for Medicare & Medicaid Services Issue Date: August 07, 2020 Resources for Providers
 - ICD-10 Quick Start Guide
@@ -184,7 +184,7 @@ CMS ICD-10 Resources Guidance for CMS ICD-10 Resources for providers. Issued by:
 
 ---
 
-### Congenital anomalies and predisposition to severe COVID-19 among pediatric patients in the United States [^0d35f56c]. Pediatric Research (2024). Medium credibility.
+### Congenital anomalies and predisposition to severe COVID-19 among pediatric patients in the United States [^111Laxs5]. Pediatric Research (2024). Medium credibility.
 
 Methods
 
@@ -200,7 +200,7 @@ In this study, we used the COVID-19 dataset from CRWD and retrieved records for 
 
 ---
 
-### Medical and neurobehavioural phenotypes in carriers of X-linked ichthyosis-associated genetic deletions in the UK biobank [^03caff78]. Journal of Medical Genetics (2020). Medium credibility.
+### Medical and neurobehavioural phenotypes in carriers of X-linked ichthyosis-associated genetic deletions in the UK biobank [^1116d9Zh]. Journal of Medical Genetics (2020). Medium credibility.
 
 Methods
 
@@ -218,13 +218,13 @@ Hospital diagnoses according to the International Statistical Classification of 
 
 ---
 
-### Health policy basics: implementation of the international classification of disease, 10th revision [^489ad2ef]. Annals of Internal Medicine (2015). Low credibility.
+### Health policy basics: implementation of the international classification of disease, 10th revision [^112re7WE]. Annals of Internal Medicine (2015). Low credibility.
 
 The International Classification of Diseases (ICD) standardizes diagnostic codes into meaningful criteria to enable the storage and retrieval of information regarding patient care. Whereas other countries have been using ICD, 10th Revision (ICD-10), for years, the United States will transition from ICD, Ninth Revision, Clinical Modification (ICD-9-CM), to ICD-10, on 1 October 2015. This transition is one of the largest and most technically challenging changes that the medical community has experienced in the past several decades. This article outlines the implications of moving to ICD-10 and recommends resources to facilitate the transition.
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^a9a3b2d2]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^115LVtjK]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 Implications for phenotype representation
 
@@ -246,7 +246,7 @@ Recognizing the expressive power of post-coordination, one can create a cluster 
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^b7ad7b35]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^115hK1Fz]. JAMA Network Open (2020). High credibility.
 
 Key Points
 
@@ -264,13 +264,13 @@ These findings suggest that diagnostic classification systems developed with ICD
 
 ---
 
-### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^71b70a4c]. Pain Physician (2015). Low credibility.
+### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^113ub5ko]. Pain Physician (2015). Low credibility.
 
 The forced implementation of ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes that are specific to the United States, scheduled for implementation October 1, 2015, which is vastly different from ICD-10 (International Classification of Diseases, Tenth Revision), implemented worldwide, which has 14,400 codes, compared to ICD-10-CM with 144,000 codes to be implemented in the United States is a major concern to practicing U.S. physicians and a bonanza for health IT and hospital industry. This implementation is based on a liberal interpretation of the Health Insurance Portability and Accountability Act (HIPAA), which requires an update to ICD-9-CM (International Classification of Diseases, Ninth Revision, Clinical Modification) and says nothing about ICD-10 or beyond. On June 29, 2015, the Supreme Court ruled that the Environmental Protection Agency unreasonably interpreted the Clean Air Act when it decided to set limits on the emissions of toxic pollutants from power plants, without first considering the costs on the industry. Thus, to do so is applicable to the medical industry with the Centers for Medicare and Medicaid Services (CMS) unreasonably interpreting HIPAA and imposing existent extensive regulations without considering the cost. In the United States, ICD-10-CM with a 10-fold increase in the number of codes has resulted in a system which has become so complicated that it no longer compares with any other country. Moreover, most WHO members use the ICD-10 system (not ICD-10-CM) only to record mortality in 138 countries or morbidity in 99 countries. Currently, only 10 countries employ ICD-10 (not ICD-10-CM) in the reimbursement process, 6 of which have a single payer health care system. Development of ICD-10-CM is managed by 4 non-physician groups, known as cooperating parties. They include the Centers for Disease Control and Prevention (CDC), CMS, the American Hospital Association (AHA), and the American Health Information Management Association (AHIMA). The AHIMA has taken the lead with the AHA just behind, both with escalating profits and influence, essentially creating a statutory monopoly for their own benefit. Further, the ICD-10-CM coalition includes 3M which will boost its revenues and profits substantially with its implementation and Blue Cross Blue Shield which has its own agenda. Physician groups are not a party to these cooperating parties or coalitions, having only a peripheral involvement. ICD-10-CM creates numerous deficiencies with 500 codes that are more specific in ICD-9-CM than ICD-10-CM. The costs of an implementation are enormous, along with maintenance costs, productivity, and cash disruptions.
 
 ---
 
-### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^dd191470]. American Journal of Clinical Dermatology (2018). Low credibility.
+### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^116engsh]. American Journal of Clinical Dermatology (2018). Low credibility.
 
 Diagnosis
 
@@ -282,13 +282,13 @@ Traditionally, the type of scaling (fine, coarse, lamellar, etc.) and severity/e
 
 ---
 
-### Inherited ichthyoses / generalized mendelian disorders of cornification [^c6bb9b99]. European Journal of Human Genetics (2013). Low credibility.
+### Inherited ichthyoses / generalized mendelian disorders of cornification [^1165dZhA]. European Journal of Human Genetics (2013). Low credibility.
 
 Inherited ichthyoses, defined as the generalized form of Mendelian disorders of cornification, are characterized by visible scaling and/or hyperkeratosis of most or all of the skin. This etiologically and phenotypically heterogenous group of conditions is caused by mutations in various different genes important for keratinocyte differentiation and epidermal barrier function. Diagnosing a specific entity is a particular challenge for the nonspecialist presented with the common clinical scaling. For the clinician, this review outlines an algorithmic approach for utilizing diagnostic clues to narrow down the differential diagnosis and to guide further testing and treatment options.
 
 ---
 
-### Recognition and management of congenital ichthyosis in a low-income setting [^7c4b03f7]. BMJ Case Reports (2019). High credibility.
+### Recognition and management of congenital ichthyosis in a low-income setting [^114BGfN6]. BMJ Case Reports (2019). High credibility.
 
 Background
 
@@ -296,37 +296,37 @@ The recognition and management of congenital paediatric dermatological condition
 
 ---
 
-### Ichthyosis in the newborn [^a4f43fc1]. Seminars in Perinatology (2013). Low credibility.
+### Ichthyosis in the newborn [^115DZ1a8]. Seminars in Perinatology (2013). Low credibility.
 
 The ichthyoses encompass a variety of genetic disorders marked by abnormal epidermal differentiation. The neonatal period is critical for patients with ichthyosis because of the risk for significant associated morbidity and mortality, with the majority of complications arising as a result of impaired barrier function. This article reviews presentations of ichthyosis in the neonate, outlines risks and complications, and provides strategies for management.
 
 ---
 
-### International classification of diseases (ICD-11) and neurologic disorders: the future [^cd55411e]. Neurology (2013). Low credibility.
+### International classification of diseases (ICD-11) and neurologic disorders: the future [^116FR6fF]. Neurology (2013). Low credibility.
 
 When the WHO's Topic Advisory Group for Neurology (TAG) started work on revision of the ICD-10 diagnostic codes in June 2009, the issues were daunting. The existing classification was produced a generation ago and the need to move to the digital age was becoming imperative. Appreciating modern advances in genetics and immunology, and the consequent changes in understanding of the pathophysiology of disorders of the nervous system, WHO's charge to the TAG was to produce a comprehensive, up-to-date disease classification, while providing published or consensus evidence for each coding change. In addition, the task would be to focus on ways to reduce the treatment gap while considering the utility of ICD-11 when used in primary care and nonspecialist settings. The project mushroomed over the 3 years since our first meeting and continues to do so. The work was made even more difficult as the group needed to add "content models" for the major codes for the first time (i.e., providing a definition for each disorder, along with appropriate diagnostic tests and outcome). The ICD-11 is meant to be updated as new knowledge develops, rather than waiting some years for another whole-scale revision, but this process has yet to be defined.
 
 ---
 
-### X-linked ichthyosis: an oculocutaneous genodermatosis [^35ba3ce3]. Journal of the American Academy of Dermatology (2010). Low credibility.
+### X-linked ichthyosis: an oculocutaneous genodermatosis [^112Neu9C]. Journal of the American Academy of Dermatology (2010). Low credibility.
 
 X-linked ichthyosis (XLI) is an X-linked recessive disorder of cutaneous keratinization with possible extracutaneous manifestations. It was first described as a distinct type of ichthyosis in 1965. XLI is caused by a deficiency in steroid sulfatase activity, which results in abnormal desquamation and a retention hyperkeratosis. XLI is usually evident during the first few weeks of life as polygonal, loosely adherent translucent scales in a generalized distribution that desquamate widely. These are quickly replaced by large, dark brown, tightly adherent scales occurring primarily symmetrically on the extensor surfaces and the side of the trunk. In addition, extracutaneous manifestations such as corneal opacities, cryptorchidism, and abnormalities related to contiguous gene syndromes may be observed. Diagnosis of XLI is usually made clinically, as the histopathology is nonspecific, but confirmation may be obtained through either biochemical or genetic analysis. Treatment should focus on cutaneous hydration, lubrication, and keratolysis and includes topical moisturizers and topical retinoids.
 
 ---
 
-### Blepharitis preferred practice pattern ® [^ccf9d77a]. Ophthalmology (2024). High credibility.
+### Blepharitis preferred practice pattern ® [^116EtPoF]. Ophthalmology (2024). High credibility.
 
 Blepharitis ICD-10 CM coding — Blepharitis, which includes entities with the following ICD-10 classifications, lists Ulcerative (H01.01-), Squamous (H01.02-), Stye (H00.01-), Meibomitis (H01.02-), Abscess of eyelid (H00.03-), and Parasitic infestation of eyelid (B89). CM = Clinical Modification used in the United States; "(-) = 1, right upper eyelid; 2, right lower eyelid; 4, left upper eyelid; 5, left lower eyelid", and when laterality is specified "Right upper eyelid is always 1", "Right lower eyelid is always 2", "Left upper eyelid is always 4", and "Left lower eyelid is always 5". "Certain ICD-10 CM categories have applicable 7th characters" and "The 7th character must always be the 7th character in the data field"; if a 7th character is required and the code is "not 6 characters, a placeholder X must be used to fill in the empty characters". For bilateral sites, "the final character of the codes in the ICD-10 CM indicates laterality"; if no bilateral code exists and the condition is bilateral, "separate codes for both the left and right side should be assigned" and "Unspecified codes should only be used when there is no other code option available". A starred note instructs to "Code first underlying disease, as leishmaniasis (085.0–085.9), loiasis (125.2), onchocerciasis (125.3), or pediculosis (132.0)".
 
 ---
 
-### Complex care of individuals with multiple sulfatase deficiency: clinical cases and consensus statement [^38034284]. Molecular Genetics and Metabolism (2018). Low credibility.
+### Complex care of individuals with multiple sulfatase deficiency: clinical cases and consensus statement [^112S3QHh]. Molecular Genetics and Metabolism (2018). Low credibility.
 
 Multiple sulfatase deficiency (MSD) is an ultra-rare neurodegenerative disorder that results in defective sulfatase post-translational modification. Sulfatases in the body are activated by a unique protein, formylglycine-generating enzyme (FGE) that is encoded by SUMF1. When FGE is absent or insufficient, all 17 known human sulfatases are affected, including the enzymes associated with metachromatic leukodystrophy (MLD), several mucopolysaccharidoses (MPS II, IIIA, IIID, IVA, VI), chondrodysplasia punctata, and X-linked ichthyosis. As such, individuals demonstrate a complex and severe clinical phenotype that has not been fully characterized to date. In this report, we describe two individuals with distinct clinical presentations of MSD. Also, we detail a comprehensive systems-based approach to the management of individuals with MSD, from the initial diagnostic evaluation to unique multisystem issues and potential management options. As there have been no natural history studies to date, the recommendations within this report are based on published studies and consensus opinion and underscore the need for future research on evidence-based outcomes to improve management of children with MSD.
 
 ---
 
-### Revised nomenclature and classification of inherited ichthyoses: results of the first ichthyosis consensus conference in sorèze 2009 [^f1153814]. Journal of the American Academy of Dermatology (2010). Low credibility.
+### Revised nomenclature and classification of inherited ichthyoses: results of the first ichthyosis consensus conference in sorèze 2009 [^117AR9JB]. Journal of the American Academy of Dermatology (2010). Low credibility.
 
 Background
 
@@ -354,7 +354,7 @@ We have achieved an international consensus for the classification of inherited 
 
 ---
 
-### Recognition and management of congenital ichthyosis in a low-income setting [^7037a370]. BMJ Case Reports (2019). High credibility.
+### Recognition and management of congenital ichthyosis in a low-income setting [^113sNJVD]. BMJ Case Reports (2019). High credibility.
 
 Global health problem analysis
 
@@ -368,19 +368,19 @@ In high-income settings, CI is often recognised promptly, particularly in centre
 
 ---
 
-### A new way to classify genetic skin disease [^04d27fec]. The Journal of Investigative Dermatology (2009). Low credibility.
+### A new way to classify genetic skin disease [^11189ezX]. The Journal of Investigative Dermatology (2009). Low credibility.
 
 Genetic disorders with skin manifestations often affect other organs as well, and diseases with a similar array of features might be linked pathogenetically. Classifying disorders by individual phenotypic components may reveal clusters with a common genetic cause and elucidate pathogenic links. If components are categorized inadequately, however, the method will simply confirm what is known, obscure true links, and suggest false ones.
 
 ---
 
-### Contribution of health care factors to the burden of skin disease in the United States [^93419940]. Journal of the American Academy of Dermatology (2017). Medium credibility.
+### Contribution of health care factors to the burden of skin disease in the United States [^114mKDPd]. Journal of the American Academy of Dermatology (2017). Medium credibility.
 
 Skin disease category classification — scope and coding: Twenty-four skin disease categories were identified for inclusion and were assigned corresponding skin-related 2013 International Classification of Disease, Ninth Edition, diagnosis codes, and identification and assignment followed a set of key principles.
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^439852f4]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^112jDLPm]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -388,13 +388,13 @@ Diagnostic codes are widely used within health care in the US for reimbursement,
 
 ---
 
-### Conjunctivitis preferred practice pattern [^5e1c6ada]. Ophthalmology (2024). High credibility.
+### Conjunctivitis preferred practice pattern [^113QXP77]. Ophthalmology (2024). High credibility.
 
 Conjunctivitis PPP — ICD-10 CM coding rules for seventh characters and laterality state that the applicable 7th character is required for all codes within the category and must always be the 7th character in the data field; if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^92ae246f]. American Journal of Clinical Dermatology (2018). Low credibility.
+### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^114kTgiA]. American Journal of Clinical Dermatology (2018). Low credibility.
 
 Autosomal Recessive Congenital Ichthyosis (ARCI)
 
@@ -402,19 +402,19 @@ ARCI is a genetically and phenotypically heterogeneous group of disorders that i
 
 ---
 
-### Complications of ichthyosis beyond the skin [^f1cca975]. Dermatologic Therapy (2013). Low credibility.
+### Complications of ichthyosis beyond the skin [^117BUm3z]. Dermatologic Therapy (2013). Low credibility.
 
 Although ichthyoses are noted for their skin features, like many dermatologic conditions, patients are often impacted in ways beyond the skin. Much has been described in recent years regarding quality of life and skin disorders. This is certainly the case for ichthyosis. For neonates or others with diffuse involvement of their skin, nutritional needs are often exceeding normal requirements. These can often result in growth abnormalities. Lastly, with specific subtypes of ichthyosis, compromise of tissues around the eyes and ears can be of concern to some patients. Certainly, some forms of ichthyosis are routinely complicated by such findings. It is important for practitioners caring for individuals with ichthyosis to have these issues in mind.
 
 ---
 
-### Global classification of mast cell activation disorders: an ICD-10-CM-adjusted proposal of the ECNM-AIM consortium [^4eb4edcb]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Global classification of mast cell activation disorders: an ICD-10-CM-adjusted proposal of the ECNM-AIM consortium [^1131gom4]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 Mast cell activation (MCA) is common and occurs in a number of pathologic conditions, including IgE-dependent and independent allergic reactions, atopic disorders, autoimmune processes, and mastocytosis. In a subset of patients, no underlying disease and no known trigger of MCA are found. When the symptoms are severe, systemic, and recurrent, and accompanied by a diagnostic increase in the serum tryptase level or other mast cell mediators, an MCA syndrome (MCAS) may be diagnosed. In these patients, the symptoms typically respond to drugs suppressing MCA, mediator production in mast cells, or mediator effects. In each case, diagnostic consensus criteria must be fulfilled to diagnose MCAS. In other patients, MCA may be local, less severe, or less acute, or may be suspected but not confirmed, so that the diagnostic criteria of MCAS are not fulfilled. In these patients, it may be difficult to prove MCA, for example, by measuring multiple mast cell mediators or basophil activation, the latter as a surrogate of IgE-dependent hypersensitivity. However, validated diagnostic criteria for implicating suspected MCA behind such conditions are lacking, even if some of these conditions have recently been assigned to an International Classification of Diseases-10-Clinical Modification code (ICD-10-CM). In this article, we discuss diagnostic features and criteria and propose a ICD-10-CM-adjusted classification for disorders associated with MCA, herein referred to as MCA disorders (MCADs), with special emphasis on the delineation between confirmed MCAS, MCAD not fulfilling MCAS criteria, and suspected MCAD that is not present. In addition, we discuss the discrimination between overt MCAD and predisposing conditions, such as atopic states, mastocytosis, and hereditary alpha tryptasemia.
 
 ---
 
-### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^5778daa7]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
+### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^113EgWwp]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
 
 The International Classification of Diseases (ICD), maintained by the World Health Organization (WHO), is the global standard for coding diagnoses, symptoms, and procedures. Used by providers, auditors, and researchers, ICD codes (ICD‐10‐CM) support documentation, billing, and epidemiological research. Based on ICD coding, medical claims databases (payor‐system databases) are an alternative type of electronic record collection that support collation of patient‐level de‐identified information, irrespective of the hospital or care provider. ICD‐10‐CM codes, tracked through claims databases, can be used to map high‐level information related to the medical journey across hospital systems.
 
@@ -422,7 +422,7 @@ In this study, we evaluate the early features of disease prior to diagnosis usin
 
 ---
 
-### Consensus recommendations for the use of retinoids in ichthyosis and other disorders of cornification in children and adolescents [^6c975239]. Pediatric Dermatology (2021). Medium credibility.
+### Consensus recommendations for the use of retinoids in ichthyosis and other disorders of cornification in children and adolescents [^113mzVQk]. Pediatric Dermatology (2021). Medium credibility.
 
 DISCLAIMER
 
@@ -430,7 +430,7 @@ The Work Group acknowledges that the ichthyoses and other disorders of cornifica
 
 ---
 
-### ICD-10-CM files… [^f9795f3a]. CDC (2025). Medium credibility.
+### ICD-10-CM files… [^117Nrggq]. CDC (2025). Medium credibility.
 
 What to know The documents below are International Classification of Diseases, Tenth Revision, Clinical Modification files released since October 2019. Most files are available for download in PDF and XML file formats. Older files are provided in the CDC Archive. ICD-10-CM fiscal year releases The federal government's fiscal year runs from October 1 through September 30 of the next year. The fiscal year is named for the calendar year in which it ends. October 1, 2025, ICD-10-CM release
 - ICD-10-CM FY26, October 1, 2025
@@ -477,43 +477,43 @@ October 1, 2021, ICD-10-CM release
 
 ---
 
-### Corneal edema and opacification preferred practice pattern ® [^14409d67]. Ophthalmology (2024). High credibility.
+### Corneal edema and opacification preferred practice pattern ® [^111X2TSE]. Ophthalmology (2024). High credibility.
 
 Corneal opacification — ICD-10 CM classifications list minor corneal opacity H17.81-, peripheral corneal opacity H17.82-, central corneal opacity H17.1-, and phthisical cornea A18.59, H44.52-. Certain ICD-10 CM categories have applicable 7th characters; the applicable 7th character is required for all codes within the category, the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, assign separate codes for both the left and right side, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality (i.e., 4th digit, 5th digit, or 6th digit), Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^86938644]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
+### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^114SWtmh]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
 
 Regarding screening and diagnosis for X-linked hypophosphatemia, more specifically with respect to differential diagnosis, XLH-IWG 2025 guidelines recommend to obtain an evaluation of other possible causes of hypophosphatemia considering the differential.
 
 ---
 
-### Syndromic epidermal differentiation disorders: a new classification toward pathogenesis-based therapy [^42a70728]. The British Journal of Dermatology (2025). Medium credibility.
+### Syndromic epidermal differentiation disorders: a new classification toward pathogenesis-based therapy [^112hpHZq]. The British Journal of Dermatology (2025). Medium credibility.
 
 Since the 2010 classification of ichthyoses, our understanding of hereditary epidermal differentiation disorders (EDDs) has markedly increased, allowing consideration of new therapeutic targets based on disease pathogenesis. A new gene- and protein product function-based classification focuses on shared mechanisms of disease pathogenesis, with the possibility that grouped disorders may respond similarly to new therapeutics. These EDDs have been subdivided into syndromic (sEDD), nonsyndromic with features limited to skin and appendages (nEDD), and predominantly palmoplantar skin involvement (pEDD, nonsyndromic and syndromic). The sEDDs have clinically important extracutaneous features related to the gene alteration. Often, recognition based on skin manifestations facilitates early gene-based diagnosis, discussion of prognosis, genetic counseling, and initiation of therapy. All sEDDs are rare, the most common of which are STS-sEDD (formerly known as X-linked ichthyosis) and SPINK5-sEDD (formerly known as Netherton syndrome). Given the rarity, frequent association with early demise, and variable clinical features of sEDDs, their disease natural history with advancing age and genotype-phenotype relationships are poorly defined. Among the 51 sEDDs, associated neurologic (71%) and/or ophthalmologic (49%) findings are most common, and 39% have hair abnormalities. The widespread use of topical lovastatin-cholesterol for cholesterol synthesis-related sEDDs represents the prototype of pathogenesis-based therapy. This concept of upstream inhibition to prevent metabolite accumulation and supplementation with pathway end product potentially applies to other sEDDs, such as those affecting ceramide synthesis and transport. Topical or systemically administered inhibition of activated pathways is another potential approach, exemplified by the emerging treatment with kallikrein inhibitors for SPINK5-sEDD. Many sEDDs may be amenable to gene editing or introduction of functional cDNA. However, even systemic treatments targeting cutaneous diseases may not address extracutaneous manifestations that arise during embryologic development.
 
 ---
 
-### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^301045c6]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
+### Characterizing diagnostic delays in metachromatic leukodystrophy: a real-world data approach [^112EFsYR]. Journal of Inherited Metabolic Disease (2025). Medium credibility.
 
 All retrospective approaches are influenced by biases in documentation and care. Both ethnicity and race are known to influence the determination of the severity of medical concerns, which would be indirectly reflected in the medical documentation and medical coding. The public payor status and use of claims databases are more likely to include a representative population compared to the natural history cohort. An additional limitation is that the claims databases rely on ICD‐10‐CM codes without access to medical records to allow for confirmation. As such, the data available are dependent on how the provider coded medical concerns. This affects both the diagnosis of MLD as well as disease‐specific symptoms. In particular, we are unable to verify the MLD diagnosis by standard methods (genotype, enzyme level, or sulfatides) or confirm standard definitions of disease‐related symptoms. In addition, the timepoint available for the onset of a given prodromal symptom represents the first use of the ICD‐10‐CM code within the electronic health record and may be delayed compared to when the family first had concern. For example, a child may have had strabismus for several months prior to medical evaluation or diagnosis based on access to care. If this is the case, then our study could potentially be underestimating the time from the onset of prodromal symptoms to MLD diagnosis. To this end, our cohort only captured patients diagnosed in the final year of the database (2023). Based on the range of eligible individuals within the prior years and the incidence of MLD, it is probable that approximately 20–30 patients will have been ultimately diagnosed with MLD.
 
 ---
 
-### Ready or not! here comes ICD-10 [^7cb0ab4c]. Journal of Neurointerventional Surgery (2013). Low credibility.
+### Ready or not! here comes ICD-10 [^114Brojh]. Journal of Neurointerventional Surgery (2013). Low credibility.
 
 The International Classification of Diseases-10 (ICD-10) is a new system that is a federally mandated change affecting all payers and providers, and is expected to exceed both the Health Insurance Portability and Accountability Act (HIPAA) and Y2K in terms of costs and risks. In 2003, HIPAA named ICD-9 as the code set for supporting diagnoses and procedures in electronic administrative transactions. However, on 16 January 2009, the Department of Health and Human Services published a regulation requiring the replacement of ICD-9 with ICD-10 as of 1 October 2013. While ICD-9 and ICD-10 have a similar type of hierarchy in their structures, ICD-10 is more complex and incorporates numerous changes. Overall, ICD-10 contains more than 141 000 codes, a whopping 712% increase over the < 20 000 codes in ICD-9, creating enormous complexities, confusion and expense. Published statistics illustrate that there are instances where a single ICD-9 code can map to more than 50 distinct ICD-10 codes. Also, there are multiple instances where a single ICD-10 code can map to more than one ICD-9 code. Proponents of the new ICD-10 system argue that the granularity should lead to improvements in the quality of healthcare whereas detractors of the system see the same granularity as burdensome. The estimated cost per physician is projected to range from $25 000 to $50 000.
 
 ---
 
-### Pediatric application of coding and valuation systems [^d495525c]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116SAXmM]. Pediatrics (2019). High credibility.
 
 ICD-10-CM impact on payment — Pediatricians "should use the specificity of the ICD-10-CM to accurately reflect the child's conditions and complexity", and when "sufficient clinical information is not known or available about a particular health condition, the payer should recognize that the clinician can appropriately report an unspecified code without the claim being summarily denied solely on the basis of specificity". Furthermore, payers "should not use ICD-10-CM specificity to deny payment to appropriately trained pediatricians performing those specialized services within their scope of practice". New payment models "incorporate elaborate risk-adjustment algorithms based on diagnostic completeness", and such risk-based models "must appropriately represent the risk contributed by children with special health care needs". To support diagnostic comprehensiveness, "claim-form formatting should be expanded (such as doubling to 8) to accommodate more than 4 diagnoses per line-item service", exceeding "the current line-item limitation for the version 5010 CMS 837P electronic and 1500 paper claim forms".
 
 ---
 
-### Mood symptoms, neurodevelopmental traits, and their contributory factors in X-linked ichthyosis, ichthyosis vulgaris and psoriasis [^8057c793]. Clinical and Experimental Dermatology (2022). Medium credibility.
+### Mood symptoms, neurodevelopmental traits, and their contributory factors in X-linked ichthyosis, ichthyosis vulgaris and psoriasis [^114HGuA2]. Clinical and Experimental Dermatology (2022). Medium credibility.
 
 Results
 
@@ -530,7 +530,7 @@ Prevalence of mood and neurodevelopmental disorders in the general population an
 
 ---
 
-### Ichthyosis prematurity syndrome: a systematic review of the literature [^c4ca3f80]. Pediatric Dermatology (2025). Medium credibility.
+### Ichthyosis prematurity syndrome: a systematic review of the literature [^1162kWLw]. Pediatric Dermatology (2025). Medium credibility.
 
 3 Results
 
@@ -544,13 +544,13 @@ Summary of clinical presentation, management approaches, and outcomes in IPS.
 
 ---
 
-### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^c5bd4139]. Ophthalmology (2016). Medium credibility.
+### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^1164A8Vn]. Ophthalmology (2016). Medium credibility.
 
 ICD-10-CM laterality and 7th-character rules — Certain ICD-10 CM categories have applicable 7th characters, the 7th character must always be the 7th character in the data field, and a placeholder X is required if a code needing a 7th character is not 6 characters. For bilateral sites, the final character of the code indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When laterality is specified in the diagnosis code, Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### Mood symptoms, neurodevelopmental traits, and their contributory factors in X-linked ichthyosis, ichthyosis vulgaris and psoriasis [^ca7d5372]. Clinical and Experimental Dermatology (2022). Medium credibility.
+### Mood symptoms, neurodevelopmental traits, and their contributory factors in X-linked ichthyosis, ichthyosis vulgaris and psoriasis [^116BCbUM]. Clinical and Experimental Dermatology (2022). Medium credibility.
 
 Figure 1
 Boxplots showing scores on (a) the Kessler psychological distress scale (K10), (b) the short Autism Spectrum Quotient (AQ10), (c) the Adult Attention Deficit Hyperactivity Disorder Self‐report Scale (ASRS) Part A and (d) the Brief Irritability Test (BITE) across all six experimental groups. Centre lines show the medians, box limits indicate the 25th and 75th percentiles as determined by R software, and whiskers extend 1.5 times the interquartile range from the 25th and 75th percentiles. Mean values for general population normative samples for both men and women are shown for comparison. IV, ichthyosis vulgaris; XLI, X‐linked ichthyosis.
@@ -561,19 +561,19 @@ Scores on Part A of the ASRS were also significantly higher (Cohen d = 0.59–0.
 
 ---
 
-### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^7a1d4d46]. American Journal of Clinical Dermatology (2018). Low credibility.
+### Inherited nonsyndromic ichthyoses: an update on pathophysiology, diagnosis and treatment [^11483LE9]. American Journal of Clinical Dermatology (2018). Low credibility.
 
 Hereditary ichthyoses are due to mutations on one or both alleles of more than 30 different genes, mainly expressed in the upper epidermis. Syndromic as well as nonsyndromic forms of ichthyosis exist. Irrespective of etiology, virtually all types of ichthyosis exhibit a defective epidermal barrier that constitutes the driving force for hyperkeratosis, skin scaling, and inflammation. In nonsyndromic forms, these features are most evident in severe autosomal recessive congenital ichthyosis (ARCI) and epidermolytic ichthyosis, but to some extent also occur in the common type of non-congenital ichthyosis. A correct diagnosis of ichthyosis — essential not only for genetic counseling but also for adequate patient information about prognosis and therapeutic options — is becoming increasingly feasible thanks to recent progress in genetic knowledge and DNA sequencing methods. This paper reviews the most important aspects of nonsyndromic ichthyoses, focusing on new knowledge about the pathophysiology of the disorders, which will hopefully lead to novel ideas about therapy.
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^e325508b]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^116okivE]. JAMA Network Open (2020). High credibility.
 
 Methods
 
@@ -593,7 +593,7 @@ The World Health Organization (WHO) maps codes into chapters, which are commonly
 
 ---
 
-### ICD-10-CM official guidelines for coding and reporting… [^12b539b3]. stacks.cdc.gov (2024). Medium credibility.
+### ICD-10-CM official guidelines for coding and reporting… [^111UjedQ]. stacks.cdc.gov (2024). Medium credibility.
 
 ICD-10-CM Official Guidelines for Coding and Reporting FY 2025 — UPDATED October 1, 2024 Public Domain 07/08/2024 File Language: English. Details Corporate Authors: Description: The Centers for Medicare and Medicaid Services and the National Center for Health Statistics, two departments within the U. S. Federal Government's Department of Health and Human Services provide the following guidelines for coding and reporting using the International Classification of Diseases, 10th Revision, Clinical Modification. These guidelines should be used as a companion document to the official version of the ICD-10-CM as published on the NCHS website. The ICD-10-CM is a morbidity classification published by the United States for classifying diagnoses and reason for visits in all health care settings.
 
@@ -603,7 +603,7 @@ Download URL: File Type: File Language: English CDC STACKSserves as an archival 
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^28d3d4c4]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^1123Xf5M]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 Classifications
 
@@ -611,7 +611,7 @@ Classifications are not ontologies, nor are they intended to be. In their most s
 
 ---
 
-### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^953a5a45]. Clinical Ophthalmology (2018). Low credibility.
+### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^114pEknp]. Clinical Ophthalmology (2018). Low credibility.
 
 Introduction
 
@@ -621,25 +621,25 @@ Each ICD-10 code has space for seven characters, an increase from the five avail
 
 ---
 
-### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^a400e9f3]. Clinical Ophthalmology (2018). Low credibility.
+### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^115C9H2A]. Clinical Ophthalmology (2018). Low credibility.
 
 There was no overall difference in coder efficiency in the 1-year periods before and after ICD-10 implementation (P = 0.76). However, we noted a reduction in coder efficiency during the first 4 months (October 2015 to January 2016) after ICD-10 conversion, which returned to baseline for the remaining 8 months (Figure 2).
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^68ee46a4]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113gZkJF]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Our study has strengths and limitations. Strengths include the size of the population evaluated — which included over 13 million unique patients from a large commercial health plan population, representative of commercially-insured patients more generally. Our methodology, which included a detailed curation of indicators of genetic disease, allowed us to evaluate several different populations of patients based on different levels of specificity. Finally, our administrative claims-based approach allowed for a comprehensive assessment of direct healthcare-related utilization and costs. Several limitations should be considered in the interpretation of our results. First, as our methodology utilized insurance claims data as opposed to electronic health records, we are limited in our ability to interpret both diagnostic thinking and clinical decision-making. For example, while we observe substantial delays in genetic testing in many patients, the reasons for these delays are unclear and may be clinically warranted based on the unique circumstances of individual patients. Similarly, ICD-9/10 codes do not capture the granularity required to distinguish diagnosed genetic conditions. Human Phenotype Ontology (HPO) provides a deep ontology that relates detailed clinical features to both diseases and genes. Availability of HPO terms in a large data set like this would have improved our specificity in defining populations and HPO coding (or improvements in ICD coding informed by HPO) could contribute to future studies of genetic disease in populations. In addition, while some genetic diseases have specific ICD-9/10 codes, many do not; thus, we are unable to definitively determine the end of a diagnostic odyssey for many individual patients. Second, our definitions of possible, probable and definite genetic disease are based on expert opinion and manual curation. Not all patients with these features would have had a genetic diagnosis even if optimal testing had been performed. This is likely due to additional undescribed disease-causing genes, oligogenic and complex inheritance, and environmental phenocopies. How ICD-9/10 codes are used for insurance billing purposes may not be aligned with the diagnostic thinking of clinicians. Coding systems, including diagnosis and procedure codes, are used for billing purposes and are likely to fail to reflect the variability observed in clinical practice. Furthermore, a level of miscoding is presumed to occur as is inherent in claims database studies (e.g. a coding specialist may select the first code on a list of possible codes as opposed to the most appropriate code). Third, given the substantial health conditions of patients with genetic diseases, patients may transition to public insurance programs, switch between private insurance plans, or for other reasons stopped being observed in the database. Although our continuous enrollment requirements help control for some of this variability, there are inherent limitations to the comprehensiveness of the follow-up, which could also be exacerbated by the severity of the disease. Finally, in our selection of patients, we found a large number of newborns with codes indicating a possible genetic condition but no stay in a NICU. Because we required a stay in a NICU, these patients were excluded from analysis in the critically-ill infant population and were instead included in the pediatric population.
 
 ---
 
-### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^57242efe]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
+### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^113EC5Rw]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
 
 On October 1, 2015, the United States required use of the Clinical Modification of the International Classification of Diseases, 10th Revision (ICD-10-CM) for diagnostic coding. This primer was written to assist the cleft care community with understanding and use of ICD-10-CM for diagnostic coding related to cleft lip and/or palate (CL/P).
 
 ---
 
-### Consensus recommendations for the use of retinoids in ichthyosis and other disorders of cornification in children and adolescents [^e2c42853]. Pediatric Dermatology (2021). Medium credibility.
+### Consensus recommendations for the use of retinoids in ichthyosis and other disorders of cornification in children and adolescents [^116oC69Q]. Pediatric Dermatology (2021). Medium credibility.
 
 Clinical recommendations were developed on the best available evidence tabled in the guideline. The strength of recommendation was ranked as follows:
 Recommendation based on consistent and good‐quality patient‐oriented evidence.
@@ -650,19 +650,19 @@ In those situations where documented evidence‐based data were not available, o
 
 ---
 
-### Annual direct and indirect health costs of the congenital ichthyoses [^9253fb4d]. Pediatric Dermatology (2010). Low credibility.
+### Annual direct and indirect health costs of the congenital ichthyoses [^114jwQEp]. Pediatric Dermatology (2010). Low credibility.
 
 The aim of this study is to estimate annual, per patient, health care costs for congenital ichthyoses (CI). We conducted a cost analysis through an online survey posted on the Foundation for Ichthyosis and Related Skin Types Website. We assessed cutaneous disease severity, via the previously validated Congenital Ichthyosis Severity Index (CISI), demographics, and CI type. We estimated direct health care costs: prescription and over-the-counter medications, outpatient visits, and emergency department and hospital visit costs; and indirect costs: earnings lost owing to absences from work because of CI-related illness. The CI subjects of our study (n = 224) consumed a mean (SD) of $3,192 ($7,915) annually. Direct costs accounted for 90%, whereas indirect costs accounted for 10%. These costs resulted in an estimated annual cost of $37 MM/year (excluding ichthyosis vulgaris) of which $17 MM is borne out-of-pocket by patients. Depending on the CI diagnosis, patients were responsible for 30–51 cents of every dollar of mean annual medical care costs. Our estimated annual CI costs are comparable to cutaneous lymphoma. More effective treatments for CI would help minimize this burden. Traditional insurance products do not appear to substantially alleviate the financial burden of disease, as a significant amount is from out-of-pocket expenses.
 
 ---
 
-### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^e3b540c6]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
+### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^116pb54h]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to dental care, adults, XLH-IWG 2025 guidelines recommend to obtain dental evaluations at least once a year to screen for infections, and provide periodontal supportive care with recall intervals tailored to each patient's condition.
 
 ---
 
-### The collective impact of rare diseases in Western Australia: an estimate using a population-based cohort [^4008fea7]. Genetics in Medicine (2017). Low credibility.
+### The collective impact of rare diseases in Western Australia: an estimate using a population-based cohort [^112dwEGW]. Genetics in Medicine (2017). Low credibility.
 
 The whole cohort of this study represents 2.0% of the state population in 2010. This is comparable to a study by Mazzucato et al. that extrapolated prevalence data calculated from a population-based registry to estimate that 1.3 to 2% of the European Union population are living with an RD. However, this is considerably lower than the usually reported estimates of 6–8% of the population living with an RD. Results from this study should be considered as minimum values for reasons that include the following: (i) the RD resource set used in this study contained only 467 of the estimated 6,000 to 8,000 RD, (ii) RD are likely to be incorrectly or insufficiently coded in administrative data sets because physicians may not know or use appropriate codes for certain RD, and (iii) people who used outpatient, general practitioner, emergency, and allied health services without inpatient services were not included. Although it is difficult to estimate the extent, these factors could contribute to a significant underestimate of the number of people in WA with an RD.
 
@@ -670,7 +670,7 @@ Substantial elements of the shortfalls of RD coding internationally will be addr
 
 ---
 
-### Association of diagnosis of leukodystrophy with race and ethnicity among pediatric and adolescent patients [^a0d62625]. JAMA Network Open (2018). Medium credibility.
+### Association of diagnosis of leukodystrophy with race and ethnicity among pediatric and adolescent patients [^1157Sx3n]. JAMA Network Open (2018). Medium credibility.
 
 Methods
 
@@ -680,13 +680,13 @@ The PHIS database has information from more than 50 children's hospitals in the 
 
 ---
 
-### Posterior vitreous detachment, retinal breaks, and lattice degeneration preferred practice pattern ® [^ab59a3b4]. Ophthalmology (2025). High credibility.
+### Posterior vitreous detachment, retinal breaks, and lattice degeneration preferred practice pattern ® [^115P2zWP]. Ophthalmology (2025). High credibility.
 
 International Classification of Diseases (ICD) codes — precursors to rhegmatogenous retinal detachment and related entities are mapped between ICD-9 CM and ICD-10 CM, including break, unspecified (361.00; H33.00-), break, giant (361.03; H33.03-), vitreous detachment/degeneration (379.21; H43.81-), and retinal break without detachment types such as retinal break, unspecified (361.30; H33.30-), horseshoe tear (361.32; H33.31-), and round hole (361.31; H33.32-), as well as retinal dialysis (361.04; H33.04-) and lattice degeneration of the retina (362.63; H35.41-). Additional information for ICD-10 CM states that certain categories have applicable 7th characters and that "If a code that requires a 7th character is not 6 characters, a placeholder X must be used", and that for bilateral sites "the final character of the codes in the ICD-10 CM indicates laterality"; the table specifies " = 1, right eye; 2, left eye; 3, bilateral", and that "Right is always 1", "Left is always 2", and "Bilateral is always 3".
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^5ad88265]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^113KgcJg]. JAMA Network Open (2020). High credibility.
 
 Limitations
 
@@ -694,37 +694,37 @@ This study has several limitations. First, we only examined the association of d
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^50c59eee]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^1134kPWV]. JAMA Network Open (2020). High credibility.
 
 Findings from sensitivity analyses were broadly consistent with the main analyses. These included using monthly counts of diagnoses in each category as the primary outcome, not using the HHS filtering logic, and substituting the 2015 HHS-HCC software for the 2017 version to set the diagnostic category mappings.
 
 ---
 
-### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^d40700dd]. Ophthalmology (2025). High credibility.
+### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^116RLjBS]. Ophthalmology (2025). High credibility.
 
 Retinal arterial occlusion ICD-10 CM codes — Central retinal artery occlusion includes H34.11, H34.12, and H34.13; arterial branch occlusion includes H34.231, H34.232, and H34.233; partial retinal artery occlusion includes H34.211, H34.212, and H34.213; and transient retinal artery occlusion includes H34.01, H34.02, and H34.03. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality, and if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in, right is always 1, left is always 2, and bilateral is always 3; ICD = International Classification of Diseases and CM = Clinical Modification used in the United States.
 
 ---
 
-### Recognition and management of congenital ichthyosis in a low-income setting [^7e22d485]. BMJ Case Reports (2019). High credibility.
+### Recognition and management of congenital ichthyosis in a low-income setting [^114E1948]. BMJ Case Reports (2019). High credibility.
 
 Beyond this, telemedicine also faces significant technical challenges. Although the exchange of images for an individual patient may be straightforward, coordinating multiple partnerships and sustaining a reliable system on a larger, more permanent scale is highly demanding. A 2016 review of teledermatology services set up in South Africa since 1999 found that only four still remained operational. There had been minimal escalation of these services with limited support from regional health departments and poor integration into routine healthcare practices. Effective advice also depends on the quality of the information shared, particularly a detailed clinical background and accurate symptom description, which may be suboptimal depending on the experience of those in the field. Furthermore, the remote expert often does not receive feedback on the advice they have given, partly due to the difficulties in confirming the patient's diagnosis and/or poor follow-up of long-term clinical and social outcomes in LMICs; such a feedback loop could improve remote specialist assessment and management of similar cases in the future. Finally, financial and legal frameworks may be complex and difficult to establish fairly and robustly, especially when institutions across different settings are involved. These frameworks not only enable the procurement and maintenance of required equipment, but also ensure that both remote and local staff are appropriately reimbursed and held accountable, protecting patient safety.
 
 ---
 
-### Necessity and implications of ICD-10: facts and fallacies [^9d2fadcf]. Pain Physician (2011). Low credibility.
+### Necessity and implications of ICD-10: facts and fallacies [^11523574]. Pain Physician (2011). Low credibility.
 
 The International Classification of Diseases-10 (ICD-10 is a new system that is expected to be implemented effective on October 1, 2013. This new system is a federally mandated change affecting all payers and providers, and is expected to exceed both the Health Insurance Portability and Accountability Act (HIPAA) and Y2K in terms of costs and risks. However, the Administration is poised to implement these changes at a rapid pace which could be problematic for health care in the United States. In 2003, HIPAA named ICD-9 as the code set for supporting diagnoses and procedures in electronic administrative transactions. However, on January 16, 2009, the Department of Health and Human Services (HHS) published a regulation requiring the replacement of ICD-9 with ICD-10 as of October 1, 2013. While ICD-9 and 10 have a similar type of hierarchy in their structures, the ICD-10 is more complex and incorporates numerous changes. Overall, ICD-10 contains over 141,000 codes, a whopping 712% increase over the less than 20,000 codes in ICD-9, creating enormous complexities, confusion, and expense. Multiple published statistics illustrate that there are approximately 119 instances where a single ICD-9 code can map to more than 100 distinct ICD-10 codes, whereas there are 255 instances where a single ICD-9 code can map to more than 50 ICD-10 codes. To add to the confusion, there are 3,684 instances in the mapping for diseases where a single ICD-10 code can map to more than one ICD-9 code. Proponents of the new ICD-10 system argue that the granularity should lead to improvements in the quality of health care, since more precise coding that more accurately reflects actual patient conditions will permit smarter and more effective disease management in pay-for-performance programs. This, in essence, encapsulates the benefits that supporters of this new system believe will be realized, even though many of these experts may not be involved in actual day-to-day medical practices. Detractors of the system see the same granularity as burdensome. The estimated cost per physician is projected to range from $25,000 to $50,000. Further, they argue that the ICD-10 classification is extremely complicated, and expensive. Concerns exist that it is being implemented without establishing either the necessity or thinking through the unintended consequences. Opponents also argue that beyond financial expense, it is also costly in terms of human toll, hardware and software expenses and has the potential to delay reimbursement. There is also concern that an unintended consequence of granularity would be the potential for enhanced and unnecessary fraud and abuse investigations. The authors of this article favor postponing the implementation of the ICD-10 until such time as its necessity is proven and implications are understood.
 
 ---
 
-### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^9c9cf4f0]. Chest (2012). Low credibility.
+### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^1151Bnj9]. Chest (2012). Low credibility.
 
 The term "children's interstitial lung disease" (chILD) refers to a heterogeneous group of rare and diffuse lung diseases associated with significant morbidity and mortality. These disorders include neuroendocrine cell hyperplasia of infancy, pulmonary interstitial glycogenosis, surfactant dysfunction mutations, and alveolar capillary dysplasia with misalignment of pulmonary veins. Diagnosis can be challenging, which may lead to a delay in recognition and treatment of these disorders. Recently, International Classifications of Diseases, Ninth Revision codes have been added for several of the chILD disorders. The purpose of this article is to give an overview of the chILD disorders and appropriate diagnostic coding.
 
 ---
 
-### Dermatologic conditions in down syndrome: a multi-site retrospective review of international classification of diseases codes [^4f9d0c03]. Pediatric Dermatology (2024). Medium credibility.
+### Dermatologic conditions in down syndrome: a multi-site retrospective review of international classification of diseases codes [^11332mnS]. Pediatric Dermatology (2024). Medium credibility.
 
 Background and Objective
 
@@ -744,19 +744,19 @@ Dermatologic conditions in patients with Down syndrome vary by age, but are most
 
 ---
 
-### Vision rehabilitation preferred practice pattern ® [^df3dce24]. Ophthalmology (2023). High credibility.
+### Vision rehabilitation preferred practice pattern ® [^116hxzuZ]. Ophthalmology (2023). High credibility.
 
 ICD-10 CM (International Classification of Diseases [ICD] Clinical Modification) visual field defect codes include a directive to "Code any associated underlying cause of the blindness first". For Scotoma involving central area, codes are H53.411 (right eye), H53.412 (left eye), H53.413 (bilateral), and H53.419 (unspecified eye). Homonymous bilateral field defects are coded as H53.461 (right eye), H53.462 (left eye), and H53.469 (unspecified side). Heteronymous bilateral field defects use H53.47. Generalized contraction of visual field is coded H53.481 (right eye), H53.482 (left eye), H53.483 (bilateral), and H53.489 (unspecified eye).
 
 ---
 
-### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^a2a47c2b]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
+### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^115A8F5c]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to dental care, adults, XLH-IWG 2025 guidelines recommend to obtain a dental orthopantomogram, potentially complemented or replaced with cone-beam CT imaging, in patients with recent oral manifestations, and repeat based on individual needs.
 
 ---
 
-### Evidence of the high prevalence of neurological disorders in nonsyndromic X-linked recessive ichthyosis: a retrospective case series [^364e1da0]. The British Journal of Dermatology (2018). Low credibility.
+### Evidence of the high prevalence of neurological disorders in nonsyndromic X-linked recessive ichthyosis: a retrospective case series [^112PWa31]. The British Journal of Dermatology (2018). Low credibility.
 
 Background
 
@@ -780,31 +780,31 @@ This was a retrospective study with a limited number of patients. In the absence
 
 ---
 
-### Pediatric application of coding and valuation systems [^99b08135]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^114vrPhv]. Pediatrics (2019). High credibility.
 
 American Academy of Pediatrics policy statement — pediatric application of coding and valuation systems states that the resource-based relative value scale (RBRVS), its coding principles, and standardized code sets remain the most effective systems to ensure transparency, relativity, and representative fairness in clinician service valuation, and provides updated recommendations reflecting current payment models and clinical nomenclature. The statement focuses solely on recommendations with an accompanying technical report providing supplemental coding and valuation background and instructive information on the RBRVS, Current Procedural Terminology (CPT), and International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM). Under coding and/or valuation system recommendations, the document introduces the directives with "We recommend the following" and begins with "Confirm the importance of the RBRVS".
 
 ---
 
-### Esotropia and exotropia preferred practice pattern ® [^38cbc533]. Ophthalmology (2023). High credibility.
+### Esotropia and exotropia preferred practice pattern ® [^112TCkYi]. Ophthalmology (2023). High credibility.
 
 Esotropia ICD-10 CM codes — entities and laterality rules are specified as follows: Nonaccommodative (unspecified) H50.00; Accommodative H50.43; Alternating H50.05; Alternating with A pattern H50.06; Alternating with V pattern H50.07; Alternating with X or Y pattern (with other noncomitancies) H50.08; Monocular H50.01–; Monocular with A pattern H50.02–; Monocular with V pattern H50.03–; Monocular with X or Y pattern (with other noncomitancies) H50.04–; Intermittent, alternating H50.32; Intermittent, monocular H50.31–; Unspecified H50.00. CM = Clinical Modification used in the United States; = 1, right eye; 2, left eye. For bilateral sites, the final character of the codes indicates laterality. Esotropia and exotropia do not have bilateral codes. Therefore, if the condition is bilateral, assign separate codes for both the left and right side. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), most often you will find: Right is 1 Left is 2.
 
 ---
 
-### Dry eye syndrome preferred practice pattern ® [^cd799048]. Ophthalmology (2024). High credibility.
+### Dry eye syndrome preferred practice pattern ® [^116FdJ2B]. Ophthalmology (2024). High credibility.
 
 Dry eye ICD-10 CM classifications — entities and codes include: Dry eye, unspecified, right lacrimal gland H04.121; left lacrimal gland H04.122; bilateral lacrimal gland H04.123; keratoconjunctivitis sicca (not specified as Sjögren) H16.22-; Sjögren syndrome, sicca syndrome M35.00; Sjögren syndrome with keratoconjunctivitis M35.01; filamentary keratitis H16.12-; exposure keratoconjunctivitis H16.21-; punctate keratitis H11.14-. Certain ICD-10 CM categories have applicable 7th characters, and the applicable 7th character is required for all codes within the category, or as the notes in the Tabular List instruct; the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder x must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Age-related macular degeneration preferred practice pattern ® [^e0159918]. Ophthalmology (2025). High credibility.
+### Age-related macular degeneration preferred practice pattern ® [^116jDUtX]. Ophthalmology (2025). High credibility.
 
 Age-related macular degeneration (AMD) ICD-9 CM/ICD-10 CM coding — Macular degeneration, dry corresponds to ICD-9 CM 362.51 and to ICD-10 CM Nonexudative AMD H35.31-; macular degeneration, wet corresponds to ICD-9 CM 362.52 and to ICD-10 CM Exudative AMD H35.32-; macular drusen corresponds to ICD-9 CM 362.57 and to ICD-10 CM Drusen (degenerative) of macula H35.36-. AMD does not require laterality indicators. Certain ICD-10 CM categories have applicable 7th characters, the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of ICD-10 CM codes indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -818,7 +818,7 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Development and assessment of a new framework for disease surveillance, prediction, and risk adjustment: the diagnostic items classification system [^85c30805]. JAMA Health Forum (2022). High credibility.
+### Development and assessment of a new framework for disease surveillance, prediction, and risk adjustment: the diagnostic items classification system [^114RJrzp]. JAMA Health Forum (2022). High credibility.
 
 Results
 
@@ -828,19 +828,19 @@ The 90% development sample included 59 297 201 enrollee-years. Mean (SD) total h
 
 ---
 
-### Primary open-angle glaucoma preferred practice pattern ® [^424d245d]. Ophthalmology (2021). High credibility.
+### Primary open-angle glaucoma preferred practice pattern ® [^112hJ6Sx]. Ophthalmology (2021). High credibility.
 
 Primary open-angle glaucoma — ICD-10 CM classifications and coding rules include the following: open-angle glaucoma is coded as H40.10X-; primary open-angle glaucoma uses H40.111-, H40.112-, or H40.113-; low-tension glaucoma uses H40.121-, H40.122-, or H40.123-; residual stage of open-angle glaucoma uses H40.151, H40.152, or H40.153; and glaucomatous atrophy of the optic disc uses H47.231, H47.232, or H47.233. The footnote defines " = 0, stage unspecified; 1, mild stage; 2, moderate stage; 3, severe stage; 4, indeterminate stage". Additional ICD-10 CM instructions state that certain categories require a "7th character" and, if needed, "a placeholder X must be used" to ensure it is in the seventh position, that for bilateral sites "the final character of the codes in the ICD-10 CM indicates laterality" and if no bilateral code exists "separate codes for both the left and right side should be assigned", and that laterality mapping is standardized as "Right is always 1", "Left is always 2", and "Bilateral is always 3".
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^6d654969]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^113oBfwe]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of CLCN4-related X-linked intellectual disability syndrome is estimated at 0.000481 per 100,000 population.
 
 ---
 
-### Ichthyosis prematurity syndrome: a systematic review of the literature [^b1443a89]. Pediatric Dermatology (2025). Medium credibility.
+### Ichthyosis prematurity syndrome: a systematic review of the literature [^115Xoj5i]. Pediatric Dermatology (2025). Medium credibility.
 
 ABSTRACT
 
@@ -862,7 +862,7 @@ The cutaneous manifestations of IPS resolve over a period of weeks, and patients
 
 ---
 
-### Characterizing the healthcare utilization and costs of hereditary hemorrhagic telangiectasia [^b4719fa8]. American Journal of Hematology (2025). Medium credibility.
+### Characterizing the healthcare utilization and costs of hereditary hemorrhagic telangiectasia [^115cWwHy]. American Journal of Hematology (2025). Medium credibility.
 
 2 Methods
 
@@ -876,13 +876,13 @@ The study utilized closed claims, that is, deduplicated claims accepted by and p
 
 ---
 
-### Updates on coding in dermatology [^85de3cbf]. Journal of the American Academy of Dermatology (2024). Medium credibility.
+### Updates on coding in dermatology [^114RU11g]. Journal of the American Academy of Dermatology (2024). Medium credibility.
 
 Correct coding is an important component of effective dermatology practice management. Over the past several years there have been updates to many commonly used codes within dermatology. This review highlights many of these updates, such as: the skin biopsy codes have been subdivided to reflect the different biopsy techniques. The definition of complex linear repairs has been updated and clarified. Outpatient and inpatient evaluation and management visits have new coding guidelines to determine level of care. Dermatopathology consultation codes have been updated and category III codes related to digital pathology have been created. Understanding the details and nuances of each of these categories of codes is vital to ensuring appropriate coding is performed.
 
 ---
 
-### The transition to ICD-10-CM: challenges for pediatric practice [^51ad6a56]. Pediatrics (2014). Low credibility.
+### The transition to ICD-10-CM: challenges for pediatric practice [^11366FEM]. Pediatrics (2014). Low credibility.
 
 Background and Objectives
 
@@ -902,49 +902,49 @@ The potential for financial disruption and administrative errors from 8% of reim
 
 ---
 
-### Contribution of health care factors to the burden of skin disease in the United States [^eb9a6725]. Journal of the American Academy of Dermatology (2017). Medium credibility.
+### Contribution of health care factors to the burden of skin disease in the United States [^1172HxEg]. Journal of the American Academy of Dermatology (2017). Medium credibility.
 
 Supplemental Table 1 (continued) — HCPCS/CPT code family mapping lists dermatology-related and visit services categorized as follows: Miscellaneous medical – dermatology – special procedures (e.g., 96910, 96921, 96999), Office/home visits – office visits (e.g., 99201, 99215), ER visits and observation care (e.g., 99217, 99236), IP visits – hospital visits (e.g., 99221, 99239), and Consults (e.g., 99241); code descriptions state "Refer to an AMA-licensed code list".
 
 ---
 
-### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^776b5638]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
+### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^11443adD]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to management of bone deformities, adults, surgery, XLH-IWG 2025 guidelines recommend to offer an early referral to the spinal team and initiate physiotherapy for patients with spinal scoliosis.
 
 ---
 
-### Hand pain and sensory deficits: carpal tunnel syndrome [^c2a8e245]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Hand pain and sensory deficits: carpal tunnel syndrome [^115ybKo2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Carpal tunnel syndrome (CTS) classification — International Classification of Diseases-10th Revision-Clinical Modification (ICD-10-CM) codes that "could be used when managing individuals with CTS" include G56.00, G56.01, G56.02, M79.641, M79.642, M79.643, M79.644, M79.645, M79.646, R20.1, R20.2, and R20.9, as listed under "ICD-10-CM".
 
 ---
 
-### Consensus guideline for the diagnosis and treatment of tyrosine hydroxylase (TH) deficiency [^4c411e59]. Journal of Inherited Metabolic Disease (2025). High credibility.
+### Consensus guideline for the diagnosis and treatment of tyrosine hydroxylase (TH) deficiency [^112x3w2g]. Journal of Inherited Metabolic Disease (2025). High credibility.
 
 Clinical presentation — number of reports states that the retrospective analysis of published case reports forms the basis for describing clinical symptoms in THD and that the analysis was based on 190 individual cases described in the literature and their symptoms before the treatment initiation.
 
 ---
 
-### Contribution of health care factors to the burden of skin disease in the United States [^0e12c38f]. Journal of the American Academy of Dermatology (2017). Medium credibility.
+### Contribution of health care factors to the burden of skin disease in the United States [^111Ms8Vk]. Journal of the American Academy of Dermatology (2017). Medium credibility.
 
 Medical cost tabulation and dimensions — claims-based approach: Medical costs associated with skin disease were determined using diagnosis codes, procedure codes, national drug codes, and physician specialty codes to identify skin disease — associated claims, and when a claim had both skin and nonskin diagnoses, costs were divided so that only the skin disease portion was counted.
 
 ---
 
-### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^c0d64cf7]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
+### X-linked hypophosphatemia management in adults: an international working group clinical practice guideline [^115vtc2A]. The Journal of Clinical Endocrinology and Metabolism (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to dental care, adults, XLH-IWG 2025 guidelines recommend to obtain a thorough clinical and radiological assessment to identify spontaneous pulp infection, indicated by tooth color changes, fistula, swelling, abscess, cellulitis, pain, or periapical bone loss, and assess for periodontitis.
 
 ---
 
-### Preparing for international classification of diseases, 10th revision, clinical modification implementation: strategies for maintaining an efficient workflow [^204c5163]. Pediatric Emergency Care (2015). Low credibility.
+### Preparing for international classification of diseases, 10th revision, clinical modification implementation: strategies for maintaining an efficient workflow [^111ptEp2]. Pediatric Emergency Care (2015). Low credibility.
 
 The International Classification of Diseases, 10th Revision, is required to be used by the Centers for Medicare and Medicaid Services health care billing data starting in October 2015 in the United States. The International Classification of Diseases, 10th Revision, is an update to the International Classification of Diseases, Ninth Revision, and contains approximately 70,000 codes compared with 14,000 codes. We aimed to discuss how our institution is updating the coding system in a manner that alleviates the possible burden placed on providers including more coding information required and longer load times. We performed a simulation test including testing the diagnosis calculator, timing, and how well the new and old codes mapped. We conducted a gap analysis to ensure that coding could begin in October of 2015 with minimal service interruptions. We will describe strategies and procedures to transition between systems while maintaining efficiency and helping to improve classification.
 
 ---
 
-### Communicating exploratory unsupervised machine learning analysis in age clustering for paediatric disease [^7707a3b7]. BMJ Health & Care Informatics (2024). High credibility.
+### Communicating exploratory unsupervised machine learning analysis in age clustering for paediatric disease [^1143U6NA]. BMJ Health & Care Informatics (2024). High credibility.
 
 Data exclusions
 
@@ -952,7 +952,7 @@ As part of standard disclosure control procedure, extremely rare diagnoses (thos
 
 ---
 
-### Familiar palmoplantar keratoderma, flaccid blisters, and widespread scaling [^b271c23f]. JAAD Case Reports (2018). Low credibility.
+### Familiar palmoplantar keratoderma, flaccid blisters, and widespread scaling [^115ZZ1Mx]. JAAD Case Reports (2018). Low credibility.
 
 Question 2: What skin structure is altered in this disease?
 A. Steroid sulfatase
@@ -970,19 +970,19 @@ E. Keratin 1/keratin 10 – Correct. Both keratin 1 and keratin 10 mutations can
 
 ---
 
-### Consensus guideline for the diagnosis and treatment of tyrosine hydroxylase (TH) deficiency [^5e9ec4a1]. Journal of Inherited Metabolic Disease (2025). High credibility.
+### Consensus guideline for the diagnosis and treatment of tyrosine hydroxylase (TH) deficiency [^113RHAYQ]. Journal of Inherited Metabolic Disease (2025). High credibility.
 
 Tyrosine hydroxylase deficiency — clinical presentation spans neurological, autonomic, endocrine, gastrointestinal, eye-related, and anthropometric domains, and symptoms are Human Phenotype Ontology (HPO) coded with bar charts showing the number of reports. Reported gastrointestinal symptoms include vomiting and feeding difficulties; eye-related findings include palpebral ptosis and supranuclear gaze; anthropometric findings include growth retardation and microcephaly; pregnancy-related issues include fetal distress and complications during delivery; neonatal presentations include hyperbilirubinemia and feeding problems.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^45eede36]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^112ngNyB]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to hearing assessment, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider obtaining a hearing evaluation at diagnosis or upon reaching adulthood in female patients with X-linked alport syndrome, and then every 5 years in the absence of hearing loss symptoms.
 
 ---
 
-### The phenotype spectrum of X-linked ichthyosis identified by chromosomal microarray [^3c03f144]. Journal of the American Academy of Dermatology (2015). Low credibility.
+### The phenotype spectrum of X-linked ichthyosis identified by chromosomal microarray [^112XyaiP]. Journal of the American Academy of Dermatology (2015). Low credibility.
 
 Background
 
@@ -1010,19 +1010,19 @@ STS deletions may cause a milder skin phenotype than the typical presentation of
 
 ---
 
-### Contribution of health care factors to the burden of skin disease in the United States [^9e1cd2f0]. Journal of the American Academy of Dermatology (2017). Medium credibility.
+### Contribution of health care factors to the burden of skin disease in the United States [^1153Qj4b]. Journal of the American Academy of Dermatology (2017). Medium credibility.
 
 Supplemental Table I — health care common procedure coding system (HCPCS) evaluation and management categories — lists entries under the header "E and M visit" with a code description of "Refer to an AMA-licensed code list" and organizes them by family description categories including Office/home visits - home visits, Office/home visits - prolonged services, IP visits - hospital visits, Miscellaneous medical - other services, Office/home visits - care plan oversight services, Well baby exams, and Physical exams.
 
 ---
 
-### Bacterial keratitis preferred practice pattern ® [^3a864023]. Ophthalmology (2024). High credibility.
+### Bacterial keratitis preferred practice pattern ® [^112VmNkr]. Ophthalmology (2024). High credibility.
 
 Bacterial keratitis — ICD-10 CM classifications and laterality rules include the following: Entities coded under bacterial keratitis include corneal ulcer, unspecified (H16.00-), marginal corneal ulcer (H16.04-), ring corneal ulcer (H16.02-), central corneal ulcer (H16.01-), hypopyon ulcer (H16.03-), perforated corneal ulcer (H16.07-), unspecified corneal edema (H18.20), contact lens keratitis (H18.82-), and bacterial keratitis (H16.8). Certain ICD-10 CM categories have applicable 7th characters; "The applicable 7th character is required for all codes within the category, or as the notes in the Tabular List instruct", "The 7th character must always be the 7th character in the data field", and "If a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters". For bilateral sites, "the final character of the codes in the ICD-10 CM indicates laterality"; if no bilateral code is provided and the condition is bilateral, "separate codes for both the left and right side should be assigned", and "Unspecified codes should only be used when there is no other code option available". When the diagnosis code specifies laterality, "Right is always 1", "Left is always 2", and "Bilateral is always 3".
 
 ---
 
-### Simulation of ICD-9 to ICD-10-CM transition for family medicine: simple or convoluted? [^3f7280a1]. Journal of the American Board of Family Medicine (2016). Low credibility.
+### Simulation of ICD-9 to ICD-10-CM transition for family medicine: simple or convoluted? [^112d4gSc]. Journal of the American Board of Family Medicine (2016). Low credibility.
 
 Objective
 
@@ -1042,6 +1042,6 @@ The transition to ICD-10-CM is simple for 70% or more of diagnosis codes, visits
 
 ---
 
-### Pediatric application of coding and valuation systems [^da217d43]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116aPYrn]. Pediatrics (2019). High credibility.
 
 Standardized code sets — HIPAA mandate and ICD-10 governance in the United States — are described as follows: Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Secretary of the Department of Health and Human Services mandates use of standardized code sets in support of electronic health care transactions, which include International Classification of Diseases, 10th Revision (ICD-10); Healthcare Common Procedure Coding System (HCPCS); Current Procedural Terminology (CPT); National Drug Codes (NDCs); and Current Dental Terminology. The World Health Organization created the ICD-10 with adaptability for expansion and specificity for enhanced measurement, surveillance, research, and reporting across multiple domains, and it was clinically modified and initiated in the United States on October 1, 2015. The 4 cooperating parties that oversee and manage the ICD-10 in the United States are the Centers for Medicare and Medicaid Services (CMS), the National Center for Health Statistics at the Centers for Disease Control and Prevention, the American Health Information Management Association, and the American Hospital Association.

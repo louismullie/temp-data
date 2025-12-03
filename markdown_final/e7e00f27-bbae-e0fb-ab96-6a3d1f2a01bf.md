@@ -15,33 +15,33 @@ Treatment and dose for uti prophylaxis
 
 > Let's see… What do we have here? The user is asking about treatment and dose for UTI prophylaxis. Let's break this down step-by-step. First, I need to think about the clinical context and definitions of recurrent UTI. Then, I should verify the strength of evidence and guideline positions for antibiotic prophylaxis. Next, I will examine dosing regimens for continuous daily, postcoital, and intermittent strategies. After that, I need to check special populations such as pregnancy, children, and patients with catheters. I will then review non-antibiotic alternatives and their comparative effectiveness. Finally, I should confirm safety, resistance risks, and a practical decision framework with monitoring and discontinuation criteria.
 
-> Let me first confirm the clinical context and definitions so I don't anchor on the wrong population. Recurrent UTI in nonpregnant adult women is typically defined as at least three symptomatic UTIs in 12 months or two in 6 months, and this is the core group for whom prophylaxis is usually considered after non-antibiotic measures fail or alongside them in shared decision-making [^6839a447] [^9402591c].
+> Let me first confirm the clinical context and definitions so I don't anchor on the wrong population. Recurrent UTI in nonpregnant adult women is typically defined as at least three symptomatic UTIs in 12 months or two in 6 months, and this is the core group for whom prophylaxis is usually considered after non-antibiotic measures fail or alongside them in shared decision-making [^113fX5G2] [^114nRxTD].
 
-> Next, I should review the strength of evidence for antibiotic prophylaxis. Wait, let me verify the magnitude of benefit. High-quality evidence syntheses show continuous low-dose antibiotics reduce recurrence by about 70–80% versus placebo, with an absolute risk reduction near 46% and a number needed to treat around 2–3, though many trials are older and resistance patterns have evolved, so I need to be cautious in extrapolation [^29cb5ad6] [^51669b0f]. I should also confirm guideline positions: the AUA/CUA/SUFU guideline issues a conditional recommendation for prophylaxis after discussing risks, benefits, and alternatives, and the EAU recommends initiating continuous or postcoital prophylaxis when non-antibiotic strategies fail, which aligns with a stewardship-first approach [^9402591c] [^22c68e7a].
+> Next, I should review the strength of evidence for antibiotic prophylaxis. Wait, let me verify the magnitude of benefit. High-quality evidence syntheses show continuous low-dose antibiotics reduce recurrence by about 70–80% versus placebo, with an absolute risk reduction near 46% and a number needed to treat around 2–3, though many trials are older and resistance patterns have evolved, so I need to be cautious in extrapolation [^1124xoE5] [^1135gTkJ]. I should also confirm guideline positions: the AUA/CUA/SUFU guideline issues a conditional recommendation for prophylaxis after discussing risks, benefits, and alternatives, and the EAU recommends initiating continuous or postcoital prophylaxis when non-antibiotic strategies fail, which aligns with a stewardship-first approach [^114nRxTD] [^111tZGmw].
 
-> Now, I will examine continuous daily prophylaxis dosing, but hold on, I should verify the exact regimens and ranges. Commonly used agents and doses include nitrofurantoin monohydrate/macrocrystals 50–100 mg once daily, trimethoprim 100 mg once daily, trimethoprim-sulfamethoxazole 40/200 mg once daily or three times weekly, cephalexin 125–250 mg once daily, and fosfomycin 3 g every 10 days; these are supported by guideline tables and trials, and durations typically range from 6 to 12 months with reassessment at 3 months and periodic review thereafter [^7287edb3] [^1b72fc34] [^51669b0f]. I should double-check nitrofurantoin specifics: the FDA labeling supports 50–100 mg at bedtime for long-term suppressive therapy, and taking it with food improves absorption and tolerability, which is important for adherence [^c925d4f7] [^ea5b11c8].
+> Now, I will examine continuous daily prophylaxis dosing, but hold on, I should verify the exact regimens and ranges. Commonly used agents and doses include nitrofurantoin monohydrate/macrocrystals 50–100 mg once daily, trimethoprim 100 mg once daily, trimethoprim-sulfamethoxazole 40/200 mg once daily or three times weekly, cephalexin 125–250 mg once daily, and fosfomycin 3 g every 10 days; these are supported by guideline tables and trials, and durations typically range from 6 to 12 months with reassessment at 3 months and periodic review thereafter [^113voFEA] [^111hhHhd] [^1135gTkJ]. I should double-check nitrofurantoin specifics: the FDA labeling supports 50–100 mg at bedtime for long-term suppressive therapy, and taking it with food improves absorption and tolerability, which is important for adherence [^1169DDfk] [^116zSh7u].
 
-> For postcoital prophylaxis, let me consider the evidence base and dosing. Postcoital dosing is appropriate for women with clearly sexual activity–related recurrences; randomized data show postcoital therapy is as effective as daily prophylaxis in selected women, with options including TMP-SMX 40/200 mg or 80/400 mg as a single dose immediately before or after intercourse, nitrofurantoin 50–100 mg, or cephalexin 250 mg, which reduces exposure and adverse effects compared with daily therapy [^7eab93de] [^51669b0f]. I should confirm that guidelines endorse this strategy in the right phenotype, which they do, emphasizing shared decision-making and periodic reassessment [^9402591c] [^22c68e7a].
+> For postcoital prophylaxis, let me consider the evidence base and dosing. Postcoital dosing is appropriate for women with clearly sexual activity–related recurrences; randomized data show postcoital therapy is as effective as daily prophylaxis in selected women, with options including TMP-SMX 40/200 mg or 80/400 mg as a single dose immediately before or after intercourse, nitrofurantoin 50–100 mg, or cephalexin 250 mg, which reduces exposure and adverse effects compared with daily therapy [^114Eo57K] [^1135gTkJ]. I should confirm that guidelines endorse this strategy in the right phenotype, which they do, emphasizing shared decision-making and periodic reassessment [^114nRxTD] [^111tZGmw].
 
-> But wait, what if we want to minimize antibiotic exposure further with intermittent strategies. I need to check whether intermittent regimens are comparable to daily prophylaxis. Evidence suggests no significant difference in recurrence risk between intermittent and daily prophylaxis in some contexts, and patient-initiated self-start therapy can be a reasonable alternative for select patients, though counseling and access to timely treatment are essential to avoid delays in appropriate therapy [^012bfd7f] [^6839a447]. Hold on, I should verify that guidelines still position self-start as conditional rather than first-line; yes, it is a conditional option after shared decision-making [^012bfd7f].
+> But wait, what if we want to minimize antibiotic exposure further with intermittent strategies. I need to check whether intermittent regimens are comparable to daily prophylaxis. Evidence suggests no significant difference in recurrence risk between intermittent and daily prophylaxis in some contexts, and patient-initiated self-start therapy can be a reasonable alternative for select patients, though counseling and access to timely treatment are essential to avoid delays in appropriate therapy [^1112jmHG] [^113fX5G2]. Hold on, I should verify that guidelines still position self-start as conditional rather than first-line; yes, it is a conditional option after shared decision-making [^1112jmHG].
 
-> Next, I should review special populations, starting with pregnancy. I need to ensure safety and teratogenicity considerations are front and center. After treating a recurrent UTI in pregnancy, suppressive therapy may be considered for the remainder of gestation, with nitrofurantoin 100 mg orally daily or cephalexin 250–500 mg daily as common choices, guided by prior culture results and renal function, and postcoital strategies can be used if symptoms are intercourse-related [^384a91d4]. I should confirm that routine prophylaxis is not universally recommended and that decisions should be individualized, which is consistent with obstetric guidance [^384a91d4].
+> Next, I should review special populations, starting with pregnancy. I need to ensure safety and teratogenicity considerations are front and center. After treating a recurrent UTI in pregnancy, suppressive therapy may be considered for the remainder of gestation, with nitrofurantoin 100 mg orally daily or cephalexin 250–500 mg daily as common choices, guided by prior culture results and renal function, and postcoital strategies can be used if symptoms are intercourse-related [^112STMWs]. I should confirm that routine prophylaxis is not universally recommended and that decisions should be individualized, which is consistent with obstetric guidance [^112STMWs].
 
-> For children, I should confirm the evidence signal and resistance trade-offs. A large, high-quality RCT showed that daily trimethoprim-sulfamethoxazole reduced recurrence modestly in predisposed children, but resistance to the prophylactic agent increased, and Cochrane analyses suggest the absolute benefit may be small when balanced against resistance risks, so prophylaxis should be reserved for carefully selected children after discussing uncertainties and monitoring for adverse effects [^181ca32d] [^81acdbfa]. Let me reconsider whether nitrofurantoin is favored in pediatrics; some pediatric guidance notes nitrofurantoin may be effective but also more often causes gastrointestinal adverse effects, so agent selection should be individualized and reassessed frequently [^e1623c22].
+> For children, I should confirm the evidence signal and resistance trade-offs. A large, high-quality RCT showed that daily trimethoprim-sulfamethoxazole reduced recurrence modestly in predisposed children, but resistance to the prophylactic agent increased, and Cochrane analyses suggest the absolute benefit may be small when balanced against resistance risks, so prophylaxis should be reserved for carefully selected children after discussing uncertainties and monitoring for adverse effects [^111ckKfa] [^114KFTvZ]. Let me reconsider whether nitrofurantoin is favored in pediatrics; some pediatric guidance notes nitrofurantoin may be effective but also more often causes gastrointestinal adverse effects, so agent selection should be individualized and reassessed frequently [^116m9DBF].
 
-> For patients using clean intermittent self-catheterization, I should verify the AnTIC trial results. Continuous low-dose prophylaxis reduced symptomatic UTIs by about 48% over 12 months but increased antimicrobial resistance in urinary isolates, so the decision to prophylax must weigh symptom burden and functional impact against resistance concerns and consider surveillance if prophylaxis is initiated [^c1d45013] [^a5b4c76c]. Hold on, I should verify that guidelines align with this nuance; contemporary guidance emphasizes individualized decisions and stewardship in this group, which matches the trial's cautionary findings [^e014ae0e].
+> For patients using clean intermittent self-catheterization, I should verify the AnTIC trial results. Continuous low-dose prophylaxis reduced symptomatic UTIs by about 48% over 12 months but increased antimicrobial resistance in urinary isolates, so the decision to prophylax must weigh symptom burden and functional impact against resistance concerns and consider surveillance if prophylaxis is initiated [^115xMvaN] [^115EfgMh]. Hold on, I should verify that guidelines align with this nuance; contemporary guidance emphasizes individualized decisions and stewardship in this group, which matches the trial's cautionary findings [^116jDB17].
 
-> I will now examine non-antibiotic alternatives because stewardship and patient preference often push us toward these first. Methenamine hippurate 1 g twice daily was noninferior to daily antibiotics in the ALTAR randomized trial, with only a small absolute difference in UTI incidence and substantially less antibiotic exposure, supporting its use as a first-line alternative after shared decision-making and in alignment with EAU guidance to prioritize non-antibiotic options when feasible [^01959980] [^e6c64aa2] [^9ddfbf03]. Let me verify D-mannose; earlier meta-analyses suggested benefit, but a high-quality RCT found no reduction in recurrence versus placebo, and the 2025 AUA/CUA/SUFU update concludes D-mannose shows no clinical benefit and is not recommended, so I should not overstate its role despite older positive signals [^15bdb3d9] [^0e3903d3]. Cranberry products have inconsistent evidence and are not a substitute for proven prophylaxis, though they may be considered low-risk adjuncts in some patients after counseling about uncertain benefit [^101e3416] [^74328b45].
+> I will now examine non-antibiotic alternatives because stewardship and patient preference often push us toward these first. Methenamine hippurate 1 g twice daily was noninferior to daily antibiotics in the ALTAR randomized trial, with only a small absolute difference in UTI incidence and substantially less antibiotic exposure, supporting its use as a first-line alternative after shared decision-making and in alignment with EAU guidance to prioritize non-antibiotic options when feasible [^1113MEib] [^116u8kr5] [^11534DAr]. Let me verify D-mannose; earlier meta-analyses suggested benefit, but a high-quality RCT found no reduction in recurrence versus placebo, and the 2025 AUA/CUA/SUFU update concludes D-mannose shows no clinical benefit and is not recommended, so I should not overstate its role despite older positive signals [^111ZETd2] [^111N5ygn]. Cranberry products have inconsistent evidence and are not a substitute for proven prophylaxis, though they may be considered low-risk adjuncts in some patients after counseling about uncertain benefit [^111QtwvM] [^113yGYNG].
 
-> I need to ensure I address safety, adherence, and resistance risks explicitly. Continuous prophylaxis is generally well tolerated, but adverse effects such as gastrointestinal upset, rash, and candidiasis occur and can limit adherence; importantly, resistance to the prophylactic agent and to other common uropathogen antibiotics increases with continuous exposure, which is why reassessment at 3 months and limiting total duration are prudent, and why non-antibiotic strategies should be prioritized when acceptable to patients [^51669b0f] [^a5b4c76c] [^9ddfbf03]. Hold on, I should verify that guidelines emphasize periodic review and de-escalation; yes, both AUA/CUA/SUFU and EAU recommend reassessment and discontinuation when feasible, with many women experiencing reinfection after stopping, underscoring the need for ongoing prevention planning beyond pills [^51669b0f] [^22c68e7a].
+> I need to ensure I address safety, adherence, and resistance risks explicitly. Continuous prophylaxis is generally well tolerated, but adverse effects such as gastrointestinal upset, rash, and candidiasis occur and can limit adherence; importantly, resistance to the prophylactic agent and to other common uropathogen antibiotics increases with continuous exposure, which is why reassessment at 3 months and limiting total duration are prudent, and why non-antibiotic strategies should be prioritized when acceptable to patients [^1135gTkJ] [^115EfgMh] [^11534DAr]. Hold on, I should verify that guidelines emphasize periodic review and de-escalation; yes, both AUA/CUA/SUFU and EAU recommend reassessment and discontinuation when feasible, with many women experiencing reinfection after stopping, underscoring the need for ongoing prevention planning beyond pills [^1135gTkJ] [^111tZGmw].
 
-> Let me synthesize a practical decision framework and double-check it aligns with guidelines. First, confirm the diagnosis of recurrent UTI and exclude complicated features or correctable anomalies; obtain a urine culture before starting prophylaxis when possible to guide agent selection and document baseline susceptibilities [^482c7721] [^9402591c]. Second, implement non-antibiotic measures such as behavioral modifications, adequate hydration, and vaginal estrogen in postmenopausal women when appropriate, and consider methenamine as a first-line prophylactic alternative if acceptable to the patient [^d0f82e05] [^01959980]. Third, if antibiotic prophylaxis is chosen, tailor to phenotype: continuous daily therapy for frequent, non–sexually related recurrences; postcoital therapy for clearly intercourse-associated recurrences; and consider intermittent or self-start strategies in select, reliable patients after counseling [^7eab93de] [^012bfd7f]. Fourth, select low-resistance-risk agents when possible, start at the lowest effective dose, reassess at 3 months, and limit total duration to 6–12 months with periodic breaks to re-evaluate need and resistance patterns [^51669b0f] [^22c68e7a].
+> Let me synthesize a practical decision framework and double-check it aligns with guidelines. First, confirm the diagnosis of recurrent UTI and exclude complicated features or correctable anomalies; obtain a urine culture before starting prophylaxis when possible to guide agent selection and document baseline susceptibilities [^112r13Yc] [^114nRxTD]. Second, implement non-antibiotic measures such as behavioral modifications, adequate hydration, and vaginal estrogen in postmenopausal women when appropriate, and consider methenamine as a first-line prophylactic alternative if acceptable to the patient [^116LonYk] [^1113MEib]. Third, if antibiotic prophylaxis is chosen, tailor to phenotype: continuous daily therapy for frequent, non–sexually related recurrences; postcoital therapy for clearly intercourse-associated recurrences; and consider intermittent or self-start strategies in select, reliable patients after counseling [^114Eo57K] [^1112jmHG]. Fourth, select low-resistance-risk agents when possible, start at the lowest effective dose, reassess at 3 months, and limit total duration to 6–12 months with periodic breaks to re-evaluate need and resistance patterns [^1135gTkJ] [^111tZGmw].
 
-> Finally, I should confirm key dosing specifics and safety pearls so the plan is actionable. Nitrofurantoin 50–100 mg at bedtime with food, trimethoprim 100 mg daily, TMP-SMX 40/200 mg daily or three times weekly, cephalexin 125–250 mg daily, and fosfomycin 3 g every 10 days are all reasonable prophylactic choices depending on prior cultures, allergies, and local resistance; for postcoital prophylaxis, single doses of TMP-SMX 40/200 mg or 80/400 mg, nitrofurantoin 50–100 mg, or cephalexin 250 mg taken before or after intercourse are supported by guidelines and trials [^7287edb3] [^7eab93de]. I need to ensure I remind myself to monitor for adverse effects, candidiasis, and breakthrough infections, and to adjust or discontinue if resistance emerges or side effects accumulate, consistent with stewardship principles and guideline reassessment intervals [^51669b0f] [^22c68e7a].
+> Finally, I should confirm key dosing specifics and safety pearls so the plan is actionable. Nitrofurantoin 50–100 mg at bedtime with food, trimethoprim 100 mg daily, TMP-SMX 40/200 mg daily or three times weekly, cephalexin 125–250 mg daily, and fosfomycin 3 g every 10 days are all reasonable prophylactic choices depending on prior cultures, allergies, and local resistance; for postcoital prophylaxis, single doses of TMP-SMX 40/200 mg or 80/400 mg, nitrofurantoin 50–100 mg, or cephalexin 250 mg taken before or after intercourse are supported by guidelines and trials [^113voFEA] [^114Eo57K]. I need to ensure I remind myself to monitor for adverse effects, candidiasis, and breakthrough infections, and to adjust or discontinue if resistance emerges or side effects accumulate, consistent with stewardship principles and guideline reassessment intervals [^1135gTkJ] [^111tZGmw].
 
 ---
 
-UTI prophylaxis is indicated for patients with **recurrent UTIs** (≥ 2 in 6 months or ≥ 3 in 12 months) [^9687f424] or for **high-risk procedures** (e.g. transrectal prostate biopsy, urodynamics, or catheter removal) [^e2796c33] [^5e79df27]. The most effective regimens are **low-dose daily antibiotics** (nitrofurantoin 50–100 mg, trimethoprim 100 mg, TMP-SMX 40/200 mg, or cephalexin 125–250 mg) [^7287edb3] for 6–12 months, with reassessment at 3 months [^51669b0f]; postcoital dosing is an alternative for sex-associated recurrences [^7eab93de]. Non-antibiotic options (methenamine 1 g twice daily [^01959980], D-mannose 2 g/day [^15bdb3d9]) are reasonable alternatives, though evidence varies [^15bdb3d9]. Prophylaxis is not recommended for routine catheter use or asymptomatic bacteriuria [^750d9617] [^d85d978a]. Monitor for adverse effects and resistance; stop if ineffective or if adverse effects occur [^51669b0f].
+UTI prophylaxis is indicated for patients with **recurrent UTIs** (≥ 2 in 6 months or ≥ 3 in 12 months) [^114rAos1] or for **high-risk procedures** (e.g. transrectal prostate biopsy, urodynamics, or catheter removal) [^116nkzCA] [^113R4mk2]. The most effective regimens are **low-dose daily antibiotics** (nitrofurantoin 50–100 mg, trimethoprim 100 mg, TMP-SMX 40/200 mg, or cephalexin 125–250 mg) [^113voFEA] for 6–12 months, with reassessment at 3 months [^1135gTkJ]; postcoital dosing is an alternative for sex-associated recurrences [^114Eo57K]. Non-antibiotic options (methenamine 1 g twice daily [^1113MEib], D-mannose 2 g/day [^111ZETd2]) are reasonable alternatives, though evidence varies [^111ZETd2]. Prophylaxis is not recommended for routine catheter use or asymptomatic bacteriuria [^113zY7ev] [^116XmmBw]. Monitor for adverse effects and resistance; stop if ineffective or if adverse effects occur [^1135gTkJ].
 
 ---
 
@@ -49,9 +49,9 @@ UTI prophylaxis is indicated for patients with **recurrent UTIs** (≥ 2 in 6 mo
 
 UTI prophylaxis is indicated in the following scenarios:
 
-- **Recurrent UTIs**: Defined as ≥ 2 UTIs in 6 months or ≥ 3 UTIs in 12 months [^9687f424] [^6839a447].
-- **High-risk procedures**: Such as transrectal prostate biopsy, urodynamic studies, or catheter removal, where the risk of infection is significant [^e2796c33] [^0b8740f5] [^5e79df27].
-- **Special populations**: Including pregnant women with recurrent UTIs [^384a91d4], patients with neurogenic bladder [^9741bfcc], and immunocompromised individuals [^notfound].
+- **Recurrent UTIs**: Defined as ≥ 2 UTIs in 6 months or ≥ 3 UTIs in 12 months [^114rAos1] [^113fX5G2].
+- **High-risk procedures**: Such as transrectal prostate biopsy, urodynamic studies, or catheter removal, where the risk of infection is significant [^116nkzCA] [^111J6J4C] [^113R4mk2].
+- **Special populations**: Including pregnant women with recurrent UTIs [^112STMWs], patients with neurogenic bladder [^114sFDT9], and immunocompromised individuals [^notfound].
 
 ---
 
@@ -61,15 +61,15 @@ Several antibiotic regimens are recommended for UTI prophylaxis, with dosing tai
 
 | **Antibiotic** | **Dose** | **Frequency** | **Duration** |
 |-|-|-|-|
-| Nitrofurantoin | 50–100 mg | Once daily | 6–12 months [^7287edb3] [^51669b0f] |
-| Trimethoprim | 100 mg | Once daily | 6–12 months [^7287edb3] [^51669b0f] |
-| Trimethoprim-sulfamethoxazole | 40/200 mg | Once daily or three times weekly | 6–12 months [^7287edb3] [^51669b0f] |
-| Cephalexin | 125–250 mg | Once daily | 6–12 months [^7287edb3] [^51669b0f] |
-| Fosfomycin | 3 g | Every 10 days | 6–12 months [^7287edb3] [^51669b0f] |
+| Nitrofurantoin | 50–100 mg | Once daily | 6–12 months [^113voFEA] [^1135gTkJ] |
+| Trimethoprim | 100 mg | Once daily | 6–12 months [^113voFEA] [^1135gTkJ] |
+| Trimethoprim-sulfamethoxazole | 40/200 mg | Once daily or three times weekly | 6–12 months [^113voFEA] [^1135gTkJ] |
+| Cephalexin | 125–250 mg | Once daily | 6–12 months [^113voFEA] [^1135gTkJ] |
+| Fosfomycin | 3 g | Every 10 days | 6–12 months [^113voFEA] [^1135gTkJ] |
 
 ---
 
-Postcoital prophylaxis is recommended for women with **sex-associated UTIs**, with options including trimethoprim-sulfamethoxazole 40/200 mg or 80/400 mg, nitrofurantoin 50–100 mg, or cephalexin 250 mg taken immediately before or after sexual intercourse [^7eab93de] [^51669b0f].
+Postcoital prophylaxis is recommended for women with **sex-associated UTIs**, with options including trimethoprim-sulfamethoxazole 40/200 mg or 80/400 mg, nitrofurantoin 50–100 mg, or cephalexin 250 mg taken immediately before or after sexual intercourse [^114Eo57K] [^1135gTkJ].
 
 ---
 
@@ -77,15 +77,15 @@ Postcoital prophylaxis is recommended for women with **sex-associated UTIs**, wi
 
 Non-antibiotic alternatives are increasingly considered to minimize antibiotic resistance and adverse effects:
 
-- **Methenamine hippurate**: 1 g twice daily, shown to be non-inferior to antibiotic prophylaxis in women with recurrent UTIs [^01959980] [^e6c64aa2].
-- **D-mannose**: 2 g daily, though evidence is mixed and recent guidelines suggest limited benefit [^15bdb3d9] [^d24bcc96].
-- **Cranberry products**: Evidence is inconsistent, with some studies showing modest benefit and others showing no significant effect [^101e3416] [^74328b45].
+- **Methenamine hippurate**: 1 g twice daily, shown to be non-inferior to antibiotic prophylaxis in women with recurrent UTIs [^1113MEib] [^116u8kr5].
+- **D-mannose**: 2 g daily, though evidence is mixed and recent guidelines suggest limited benefit [^111ZETd2] [^116NmrsF].
+- **Cranberry products**: Evidence is inconsistent, with some studies showing modest benefit and others showing no significant effect [^111QtwvM] [^113yGYNG].
 
 ---
 
 ## Duration of prophylaxis
 
-The **typical duration** of antibiotic prophylaxis is 6–12 months, with reassessment at 3 months to evaluate efficacy and tolerability [^51669b0f] [^7287edb3]. Long-term prophylaxis beyond 12 months is generally not recommended unless the benefits clearly outweigh the risks [^51669b0f].
+The **typical duration** of antibiotic prophylaxis is 6–12 months, with reassessment at 3 months to evaluate efficacy and tolerability [^1135gTkJ] [^113voFEA]. Long-term prophylaxis beyond 12 months is generally not recommended unless the benefits clearly outweigh the risks [^1135gTkJ].
 
 ---
 
@@ -93,9 +93,9 @@ The **typical duration** of antibiotic prophylaxis is 6–12 months, with reasse
 
 UTI prophylaxis carries potential risks and adverse effects, including:
 
-- **Antibiotic resistance**: Increased resistance among urinary pathogens is a significant concern, particularly with long-term antibiotic use [^a5b4c76c] [^8e4e3ea8].
-- **Adverse effects**: Gastrointestinal disturbances, rash, candidiasis, and rare serious adverse effects such as Stevens-Johnson syndrome [^430aec09] [^e1623c22].
-- **Clostridioides difficile infection**: Particularly in elderly patients receiving long-term antibiotic prophylaxis [^2363b269].
+- **Antibiotic resistance**: Increased resistance among urinary pathogens is a significant concern, particularly with long-term antibiotic use [^115EfgMh] [^114dyXM9].
+- **Adverse effects**: Gastrointestinal disturbances, rash, candidiasis, and rare serious adverse effects such as Stevens-Johnson syndrome [^112iPqfE] [^116m9DBF].
+- **Clostridioides difficile infection**: Particularly in elderly patients receiving long-term antibiotic prophylaxis [^111uU47i].
 
 ---
 
@@ -111,19 +111,19 @@ Regular monitoring and follow-up are essential to ensure the effectiveness and s
 
 ## Special considerations
 
-- **Pregnancy**: Nitrofurantoin and cephalexin are preferred agents due to their safety profile [^384a91d4].
-- **Pediatric patients**: Long-term antibiotic prophylaxis may be considered in children with recurrent UTIs, particularly those with vesicoureteral reflux or structural abnormalities [^181ca32d] [^81acdbfa].
-- **Catheter-associated UTIs**: Routine antibiotic prophylaxis is not recommended for patients with indwelling catheters due to limited benefit and increased resistance risk [^750d9617] [^d85d978a].
+- **Pregnancy**: Nitrofurantoin and cephalexin are preferred agents due to their safety profile [^112STMWs].
+- **Pediatric patients**: Long-term antibiotic prophylaxis may be considered in children with recurrent UTIs, particularly those with vesicoureteral reflux or structural abnormalities [^111ckKfa] [^114KFTvZ].
+- **Catheter-associated UTIs**: Routine antibiotic prophylaxis is not recommended for patients with indwelling catheters due to limited benefit and increased resistance risk [^113zY7ev] [^116XmmBw].
 
 ---
 
-UTI prophylaxis is indicated for patients with recurrent UTIs or high-risk procedures, with **low-dose daily antibiotics** as the mainstay [^9402591c]. Non-antibiotic alternatives such as methenamine and D-mannose are reasonable options, though evidence varies [^01959980] [^15bdb3d9]. Regular monitoring and reassessment are essential to ensure effectiveness and minimize adverse effects [^51669b0f].
+UTI prophylaxis is indicated for patients with recurrent UTIs or high-risk procedures, with **low-dose daily antibiotics** as the mainstay [^114nRxTD]. Non-antibiotic alternatives such as methenamine and D-mannose are reasonable options, though evidence varies [^1113MEib] [^111ZETd2]. Regular monitoring and reassessment are essential to ensure effectiveness and minimize adverse effects [^1135gTkJ].
 
 ---
 
 ## References
 
-### Antibiotics for recurrent urinary tract infections… [^50f1e4d7]. AAFP (2005). Low credibility.
+### Antibiotics for recurrent urinary tract infections… [^11351G22]. AAFP (2005). Low credibility.
 
 Evidence-Based Answer Prophylactic antibiotics can reduce the number of recurrent UTIs in nonpregnant women while they are taking the medication. No antibiotic was significantly better than others at decreasing the number of UTIs, and all antibiotics caused side effects such as candidiasis, rash, and nausea in some patients. Postcoital prophylaxis was as effective as daily prophylaxis in young women. Limited evidence suggests that weekly prophylaxis is better than monthly prophylaxis, but the former has not been compared with daily or postcoital prophylaxis. Two reviewers independently assessed trial quality and extracted data. Statistical analyses were performed using the random-effects model, and the results were expressed as RR with a 95 percent confidence interval. Data Collection and Analysis.
 
@@ -135,7 +135,7 @@ The reviewed studies showed that side effects with the antibiotics were common a
 
 ---
 
-### Fluconazole dose recommendation in urinary tract infection [^b36de55b]. The Annals of Pharmacotherapy (2001). Low credibility.
+### Fluconazole dose recommendation in urinary tract infection [^115b1hPY]. The Annals of Pharmacotherapy (2001). Low credibility.
 
 Objective
 
@@ -155,13 +155,13 @@ Questions remain about the optimal dosing of fluconazole, including the most app
 
 ---
 
-### A review for clinical practice in the treatment and prevention of recurrent urinary tract infections in women over age 65 [^646aa282]. Journal of Women's Health (2024). Medium credibility.
+### A review for clinical practice in the treatment and prevention of recurrent urinary tract infections in women over age 65 [^113ZsabT]. Journal of Women's Health (2024). Medium credibility.
 
 Urinary tract infection (UTI) is a pervasive, costly, and dangerous cause of morbidity and mortality worldwide, which can lead to further complications if they become recurrent or progress to urosepsis. Recurrent UTI is a particular concern among postmenopausal females because of increased risk factors and decreased estrogen levels, leading to changes in the urogenital epithelium and subsequently causing alterations in the urogenital microbiome. Prevention strategies for recurrent UTIs are often incorporated into patient-centered care plans, but finding the right management can be difficult for older women since many of the common treatment options have contraindications and adverse side effects. This review aims to describe the diagnosis, treatment, and special considerations for the treatment and prevention of recurrent UTIs in women over 65. Current prevention strategies include both antibiotic and nonantibiotic options. The antibiotic choice for older women presents a few unique challenges, including frequent allergy or intolerance of side effects, renal or liver dysfunction, and polypharmacy or drug interactions. Nonantibiotic options range from readily accessible drugstore remedies to experimental vaccines, which all are accompanied by certain advantages and disadvantages. Appropriate management plans can help to reduce symptoms and poor outcomes among older females. In addition, we hope future studies continue to investigate the proper dosing and routes for optimal management in this aging female population.
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^f1ed452b]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^117BfiK4]. BMJ (2013). Excellent credibility.
 
 Discussion
 
@@ -175,7 +175,7 @@ Administration of prophylactic antibiotics at the time of removal of a catheter 
 
 ---
 
-### Best practice statement on urologic procedures and antimicrobial prophylaxis [^e2baa0e3]. The Journal of Urology (2020). Medium credibility.
+### Best practice statement on urologic procedures and antimicrobial prophylaxis [^116o8tWE]. The Journal of Urology (2020). Medium credibility.
 
 Purpose
 
@@ -195,19 +195,19 @@ The AUA developed a multi-disciplinary BPS to guide clinicians on the proper usa
 
 ---
 
-### Meta-analyses in prevention and treatment of urinary tract infections [^60373424]. Infectious Disease Clinics of North America (2009). Low credibility.
+### Meta-analyses in prevention and treatment of urinary tract infections [^113TeMWT]. Infectious Disease Clinics of North America (2009). Low credibility.
 
 Urinary tract infections (UTI) are common, and complications result in significant morbidity and mortality and also consume resources. This overview summarizes the current evidence for the prevention and treatment of UTI in adults and children from meta-analyses. The quality and applicability of this evidence in clinical practice for different patient groups is discussed. Suggestions are made for future research, because it is apparent that there are evidence gaps for particular subgroups of people.
 
 ---
 
-### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^51669b0f]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
+### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^1135gTkJ]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
 
 Antibiotic prophylaxis for recurrent urinary tract infection (rUTI) — pre-initiation step, postcoital and continuous strategies, efficacy, and duration: both the European Association of Urology and the Society of Obstetricians and Gynaecologists of Canada recommend ensuring a negative urine culture before starting prophylactic antibiotics; postcoital prophylaxis should be offered to women who have UTIs temporarily related to sexual intercourse, and these women will take a single dose of an antimicrobial agent immediately after intercourse; postcoital therapy decreased recurrence rates compared with placebo (0.3 vs 3.6 patient-years, P = 0.001) and was equally as efficacious as continuous daily therapy; with continuous prophylaxis, a patient takes a single, daily antibiotic dose, and compared with placebo, continuous prophylaxis decreases recurrences by up to 95%; the duration of these regimens ranges from 6 months to at least 2 years, with regimens extended to 5 years in some reports; a Cochrane review in nonpregnant women found that antibiotics given continuously for 6 to 12 months were considerably more effective than placebo in preventing rUTI (RR, 0.15; 95% CI, 0.08–0.28); several studies have found that 50% to 60% of women become reinfected within 3 months of discontinuing prophylaxis; this document supports reevaluation of continuous antibiotic prophylaxis at 3 months, and antibiotic prophylaxis is rarely continued beyond 6 months, although it may have to be restarted if UTIs recur.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^9b1d3c33]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^114xxuEA]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Striking a balance between clear benefit to the individual by use of antibiotic prophylaxis and the potential for long-term individual and societal harm from higher frequency of antimicrobial resistance is difficult for patients and clinicians alike. In many countries, prescribers and health-care organisations are encouraged to follow the principles of antibiotic stewardship, which include avoidance of long-term use of antibiotics particularly at sub-bactericidal dosage. For CISC users of both sexes who have repeated UTIs, there do not appear to be any effective alternatives and the situation is further complicated by the high incidence of urinary bacterial colonisation (asymptomatic bacteriuria), which was unaffected by use of antibiotic prophylaxis; these findings are similar to those seen in children using CISC. It could be argued that our data show that the effect of repeated UTIs on patient wellbeing is low, showing few severe infections and little detriment to health status. However, a qualitative study nested within the trial revealed substantial distress that resulted from repeated UTI episodes among a relevant sample of participants, which is in agreement with a previous studyof women seeking treatment for UTIs. Laboratory and clinical studies are required to understand better how continuous low-dose antibiotic prophylaxis works to find ways of preserving benefit but minimising the effect on antimicrobial resistance. This balance is likely to involve careful study of genotypic and phenotypic switching of urinary bacteria from non-invasive colonisers to symptom-causing pathogens and the effects of host response in these changes.
 
@@ -217,7 +217,7 @@ This online publication has been corrected. The corrected version first appeared
 
 ---
 
-### Treatment and prevention of recurrent lower urinary tract infections in women: a rapid review with practice recommendations [^d0f82e05]. The Journal of Urology (2018). Low credibility.
+### Treatment and prevention of recurrent lower urinary tract infections in women: a rapid review with practice recommendations [^116LonYk]. The Journal of Urology (2018). Low credibility.
 
 Purpose
 
@@ -237,13 +237,13 @@ We recommend an algorithmic approach to care that includes education on lifestyl
 
 ---
 
-### Recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline [^9402591c]. The Journal of Urology (2019). High credibility.
+### Recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline [^114nRxTD]. The Journal of Urology (2019). High credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to antibiotic prophylaxis, AUA/CUA/SUFU 2019 guidelines recommend to consider initiating antibiotic prophylaxis, after discussing risks, benefits, and alternatives, to decrease the risk of future UTIs in patients of all ages previously diagnosed with UTIs.
 
 ---
 
-### European Association of Urology guidelines on urological infections: summary of the 2024 guidelines [^5165eba0]. European Urology (2024). Medium credibility.
+### European Association of Urology guidelines on urological infections: summary of the 2024 guidelines [^1135gEPy]. European Urology (2024). Medium credibility.
 
 Background and Objective
 
@@ -267,13 +267,13 @@ The European Association of Urology has issued an updated guideline on urologica
 
 ---
 
-### EAU guidelines on urological infections [^552aead4]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^113BGN3u]. EAU (2025). High credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to immunoprophylaxis, EAU 2025 guidelines recommend to offer immunomodulatory prophylaxis to reduce recurrent cystitis in female patients in the context of a well-regulated clinical trial.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^8e4e3ea8]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^114dyXM9]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Discussion
 
@@ -283,19 +283,19 @@ Increased development of antimicrobial resistance over the 12-month trial durati
 
 ---
 
-### EAU guidelines on urological infections [^22c68e7a]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^111tZGmw]. EAU (2025). High credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to antibiotic prophylaxis, EAU 2025 guidelines recommend to initiate continuous or postcoital antimicrobial prophylaxis to prevent recurrent cystitis if non-antimicrobial interventions have failed. Counsel patients regarding possible side effects.
 
 ---
 
-### No. 250-recurrent urinary tract infection [^9687f424]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
+### No. 250-recurrent urinary tract infection [^114rAos1]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to antibiotic prophylaxis, SOGC 2017 guidelines recommend to offer continuous daily antibiotic prophylaxis with co-trimoxazole, nitrofurantoin, cephalexin, trimethoprim, TMP/SMX, or a quinolone for 6–12 months in patients with 2 UTIs in 6 months or 3 UTIs in 12 months.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^c1d45013]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^115xMvaN]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Summary
 
@@ -321,7 +321,7 @@ UK National Institute for Health Research.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^3dad22aa]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^112aSQ97]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Background
 
@@ -345,7 +345,7 @@ UK National Institute for Health Research.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^d390afbb]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^116QezBU]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Figure 1
 Trial profile
@@ -362,13 +362,13 @@ The microbiologically confirmed incidence of UTIs was 0.74 cases per person-year
 
 ---
 
-### EAU guidelines on urological infections [^f026c336]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^117933nm]. EAU (2025). High credibility.
 
 Regarding preventative measures for acute cystitis, more specifically with respect to periprocedural antibiotic prophylaxis, EAU 2025 guidelines recommend to administer single-dose antibiotic prophylaxis to reduce the rate of clinical urinary infection following percutaneous nephrolithotomy.
 
 ---
 
-### Extended treatment-dose antibiotic therapy vs low-dose prophylaxis for the management of recurrent uncomplicated urinary tract infections in peri-and post-menopausal women [^2de3f4cb]. Urology (2025). Medium credibility.
+### Extended treatment-dose antibiotic therapy vs low-dose prophylaxis for the management of recurrent uncomplicated urinary tract infections in peri-and post-menopausal women [^112B31dL]. Urology (2025). Medium credibility.
 
 Objective
 
@@ -388,13 +388,13 @@ Women treated with a 1-month course of treatment-strength antibiotics had a sign
 
 ---
 
-### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^1b72fc34]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
+### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^111hhHhd]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
 
 Recommended antibiotic prophylaxis regimens (Table 7) — examples with doses and UTIs per year: trimethoprim daily 100 mg with UTIs per year 0–1.5; trimethoprim/sulfamethoxazole daily 40 mg/200 mg with UTIs per year 0–0.2; nitrofurantoin monohydrate/macrocrystals daily 50 mg with UTIs per year 0–0.6; fosfomycin every 10 d 3 g with UTIs per year 0.14; trimethoprim/sulfamethoxazole 40 mg/200 mg with UTIs per year 0.3; nitrofurantoin monohydrate/macrocrystals 50–100 mg with UTIs per year 0.1; and cephalexin 250 mg with UTIs per year 0.03.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^243dc16e]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^111vjJEy]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Results
 
@@ -402,19 +402,19 @@ Between Nov 25, 2013, and Jan 29, 2016, we screened 1743 patients for inclusion 
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^30c0bef8]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^112FH9XD]. The Journal of Urology (2025). High credibility.
 
 Antibiotic prophylaxis — Following discussion of the risks, benefits, and alternatives, clinicians may prescribe antibiotic prophylaxis to decrease the risk of future UTIs in women of all ages previously diagnosed with UTIs (Conditional Recommendation; Evidence Level: Grade B).
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^c756669c]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^1166XZJb]. The Journal of Urology (2025). High credibility.
 
 Recurrent urinary tract infection — antibiotic prophylaxis recommendation: following discussion of the risks, benefits, and alternatives, clinicians may prescribe antibiotic prophylaxis to decrease the risk of future urinary tract infections (UTIs) in women of all ages previously diagnosed with UTIs (Conditional Recommendation; Evidence Level: Grade B).
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^8f9c6ae6]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^114fumZP]. BMJ (2022). Excellent credibility.
 
 Introduction
 
@@ -426,7 +426,7 @@ Methenamine hippurate has been evaluated in previous Cochrane systematic reviews
 
 ---
 
-### Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines from the Infectious Diseases Society of America [^b32f5351]. Clinical Infectious Diseases (2010). Medium credibility.
+### Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines from the Infectious Diseases Society of America [^115aegRE]. Clinical Infectious Diseases (2010). Medium credibility.
 
 Regarding preventative measures for catheter-associated urinary tract infection, more specifically with respect to antibiotic prophylaxis with catheter placement/removal, IDSA 2010 guidelines recommend to do not administer prophylactic antimicrobials routinely, given systemically or by bladder irrigation, in patients at the time of catheter placement to reduce CA-UTI
 or at the time of catheter removal
@@ -434,55 +434,55 @@ or replacement to reduce CA-ASB.
 
 ---
 
-### Medical treatment for urinary tract infections [^72f58a6d]. The Urologic Clinics of North America (2022). Medium credibility.
+### Medical treatment for urinary tract infections [^113wS4eQ]. The Urologic Clinics of North America (2022). Medium credibility.
 
 Urinary tract infections (UTIs) are a common source of morbidity and require significant health care resources for diagnosis, treatment, and prevention. Antimicrobials represent the mainstay for the treatment of UTIs. Established guidelines exist for the antimicrobial treatment and prevention of uncomplicated UTIs; however, antimicrobial dependence and overuse have led to the emergence of antimicrobial resistance. Nonantimicrobial alternatives are an ongoing area of research and should be considered when clinically appropriate based on available evidence.
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^7eab93de]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^114Eo57K]. The Journal of Urology (2025). High credibility.
 
 Antibiotic prophylaxis in women who experience post-coital UTIs — prophylaxis taken before or after sexual intercourse has been shown to be effective and safe, with a significant reduction in recurrence rates, and intermittent dosing is associated with decreased risk of adverse events including gastrointestinal symptoms and vaginitis. Evidence includes a 1990 randomized double-blind placebo-controlled trial of 27 sexually active women with a median age of 23 showing post-coital antibiotics were more effective than placebo in reducing UTI recurrences, and a study of 135 women where post-coital dosing was as effective as daily dosing. Antibiotic prophylaxis should be offered to women with sexual activity-related rUTIs, with recommended instructions to take a single dose of an antibiotic immediately before or after sexual intercourse. Dosing options for prophylaxis include: TMP-SMX 40 mg/200 mg; TMP-SMX 80 mg/400 mg; Nitrofurantoin 50 to 100 mg; Cephalexin 250 mg.
 
 ---
 
-### No. 250-recurrent urinary tract infection [^482c7721]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
+### No. 250-recurrent urinary tract infection [^112r13Yc]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to antibiotic prophylaxis, SOGC 2017 guidelines recommend to do not initiate antibiotic prophylaxis for rUTI until a negative culture 1–2 weeks after treatment has confirmed eradication of the UTI.
 
 ---
 
-### EAU guidelines on urological infections [^e014ae0e]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^116jDB17]. EAU (2025). High credibility.
 
 Regarding preventative measures for catheter-associated urinary tract infection, more specifically with respect to systemic antibiotic prophylaxis, EAU 2025 guidelines recommend to do not administer antimicrobial prophylaxis routinely to prevent clinical UTI after urethral catheter removal or in patients performing intermittent self-catheterization.
 
 ---
 
-### EAU guidelines on urological infections [^d85d978a]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^116XmmBw]. EAU (2025). High credibility.
 
 Regarding preventative measures for catheter-associated urinary tract infection, more specifically with respect to systemic antibiotic prophylaxis, EAU 2025 guidelines recommend to do not administer antimicrobial prophylaxis to prevent CA-UTIs.
 
 ---
 
-### No. 250-recurrent urinary tract infection [^e26359a3]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
+### No. 250-recurrent urinary tract infection [^116ndaBk]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to antibiotic prophylaxis, SOGC 2017 guidelines recommend to offer postcoital prophylaxis as an alternative to continuous therapy in order to minimize cost and side effects in patients with rUTIs associated with sexual intercourse.
 
 ---
 
-### Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months [^d389c060]. Pediatrics (2011). Medium credibility.
+### Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months [^116Qcf5R]. Pediatrics (2011). Medium credibility.
 
 American Academy of Pediatrics urinary tract infection guideline — antimicrobial prophylaxis considerations state that although effectiveness for prevention of UTI has not been demonstrated, the concept has biological plausibility. Antimicrobials reach high urinary concentrations, yet barriers include adherence to a daily regimen, adverse effects, and emergence of antimicrobial resistance. Evidence of effectiveness with a well-tolerated, safe product and parent education are needed; a urinary antiseptic that could be taken indefinitely without resistance is particularly desirable, and probiotics are another possible strategy.
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^7287edb3]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^113voFEA]. The Journal of Urology (2025). High credibility.
 
 Dosing and duration of prophylactic antibiotics — women with recurrent urinary tract infections (rUTIs) most commonly receive daily dosing; fosfomycin used prophylactically is dosed every 10 days. Intermittent versus daily prophylaxis showed no difference in risk of ≥ 1 UTI (2 studies; RR: 1.15, 95% CI: 0.88 to 1.50, I² = 0%); in individual trials, single-dose exposures versus daily antibiotics had RR: 1.15; 95% CI: 0.87 to 1.51, and single-dose ciprofloxacin after sexual intercourse versus daily dosing had RR: 1.24; 95% CI: 0.29 to 5.32. Reported prophylaxis duration ranged from 6 to 12 months, while in practice it can be from three to six months to one year with periodic assessment, and continuing prophylaxis for years is not evidence-based. Continuous prophylaxis dosing options include: TMP 100 mg once daily; TMP-SMX 40 mg/200 mg once daily; TMP-SMX 40 mg/200 mg thrice weekly; Nitrofurantoin monohydrate/macrocrystals 50 mg daily; Nitrofurantoin monohydrate/macrocrystals 100 mg daily; Cephalexin 125 mg once daily; Cephalexin 250 mg once daily; Fosfomycin 3 g every 10 days.
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^2363b269]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^111uU47i]. BMJ (2022). Excellent credibility.
 
 Discussion
 
@@ -492,13 +492,13 @@ The risks of long term prophylactic antibiotic treatment have been well recognis
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^0c2b2110]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^111K3Lc7]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 We aimed to determine the clinical effectiveness and cost-effectiveness of continuous low-dose antibiotic prophylaxis in reducing the frequency of UTIs over 12 months in adult users of CISC.
 
 ---
 
-### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^8820a15f]. BMC Geriatrics (2011). Low credibility.
+### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^114UpH1x]. BMC Geriatrics (2011). Low credibility.
 
 Prophylactic agents for UTIs
 
@@ -522,7 +522,7 @@ Dosage of UTI prophylactic agents used in 1473 nursing home residents; Last colu
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^00311a5e]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^1111HVc1]. BMJ (2013). Excellent credibility.
 
 There was significant variation in the duration of monitoring after catheter removal, ranging from about four days in the study of Pfefferkorn and colleaguesto six weeks in the study by Pinochet and colleagues. Also, various antimicrobial agents were used (trimethoprim/sulfamethoxazole, ciprofloxacin, nitrofurantoin, and a cephalosporin). The duration of prophylaxis ranged from single dose administrationto three day courses. The study by Harding and colleagues also had an arm in which patients were given a 10 day course of antibiotics; this arm was not considered in our meta-analysis because 10 days was thought to represent pre-emptive treatment rather than prophylaxis.
 
@@ -532,20 +532,20 @@ Fig 3 Funnel plot of seven included studies with 1520 participants on effect of 
 
 ---
 
-### Urinary tract infections in pregnant individuals [^384a91d4]. Obstetrics and Gynecology (2023). High credibility.
+### Urinary tract infections in pregnant individuals [^112STMWs]. Obstetrics and Gynecology (2023). High credibility.
 
 Recurrent urinary tract infection (UTI) in pregnancy — definition, prevalence, and prophylaxis are described, with recurrent UTI defined as "two or more UTIs diagnosed during pregnancy" and occurring in "4–5% of pregnancies". There is "insufficient evidence to guide management after recurrent UTI in pregnancy", but after treatment of a recurrent acute infection, clinicians "may consider initiating antimicrobial urinary suppression for the remainder of the pregnancy, preferably using a lower single daily dose of an antibacterial drug to which the bacterium isolated was susceptible". If prophylaxis is chosen, "two common strategies" are noted: "postcoital or continuous prophylaxis", with postcoital dosing "before or after vaginal intercourse" and continuous prophylaxis taken "once daily". "Common suppressive regimens include nitrofurantoin 100 mg orally daily or cephalexin 250–500 mg orally daily", and "using a lower single daily dose of an antibiotic to which the bacterium isolated was susceptible should be considered".
 
 ---
 
-### Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines from the Infectious Diseases Society of America [^750d9617]. Clinical Infectious Diseases (2010). Medium credibility.
+### Diagnosis, prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 international clinical practice guidelines from the Infectious Diseases Society of America [^113zY7ev]. Clinical Infectious Diseases (2010). Medium credibility.
 
 Regarding preventative measures for catheter-associated urinary tract infection, more specifically with respect to systemic antibiotic prophylaxis, IDSA 2010 guidelines recommend to do not administer systemic antimicrobial prophylaxis routinely to reduce CA-ASB or CA-UTI in patients with short-term
 or long-term catheterization, including patients undergoing surgical procedures.
 
 ---
 
-### Probiotics for preventing urinary tract infections in adults and children [^672857be]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Probiotics for preventing urinary tract infections in adults and children [^113dwGy3]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -577,7 +577,7 @@ No significant benefit was demonstrated for probiotics compared with placebo or 
 
 ---
 
-### Antibiotic prophylaxis for UTIs in patients with neurogenic bladder… [^9741bfcc]. AAFP (2019). Medium credibility.
+### Antibiotic prophylaxis for UTIs in patients with neurogenic bladder… [^114sFDT9]. AAFP (2019). Medium credibility.
 
 Evidence-Based Answer Daily antibiotic prophylaxis should not be used in patients with acute and nonacute spinal cord injuries. It does not reduce the incidence of symptomatic UTIs and moderately increases the percentage of resistant cultures. However, in patients with frequent recurrent UTIs that significantly affect daily functioning, prophylaxis using a weekly oral cyclic antibiotic regimen may be beneficial. 1 All patients required intermittent catheterization. Several antibiotic regimens with various dosing schedules were compared with placebo. Antibiotics included oral trimethoprim-sulfamethoxazole, oral nitrofurantoin, oral methenamine, oral ciprofloxacin, and bladder instillation of neomycin plus polymyxin B.
 
@@ -588,19 +588,19 @@ The total days requiring antibiotics for curative treatment decreased from 111 d
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^0ceb91a9]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^111L9ydr]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 This study was designed, conducted, analysed, and reported in accordance with best practice. We recruited participants from a diverse population of CISC users across a range of settings; however, our subsequent analyses found the effectiveness of prophylaxis to be consistent across clinical subgroups, which suggests generalisability across populations of adult users of CISC with similar characteristics in other countries, such as France and the Netherlands. Regarding study design, use of a remote computerised randomisation system ensured concealment of allocation sequence; all likely confounders were balanced across the two groups and their inclusion in the statistical model did not affect the primary result; participants, treating clinicians, and local research staff could not be masked to allocation, but outcome assessors were masked; and we chose participant-reported UTIs as the primary outcome, with a definition that reflected participant experience in terms of UTI symptoms and actions by clinicians to provide a treatment course of an appropriate antibiotic. We also included different opportunities for participant reporting of UTIs and for research staff to confirm episodes at scheduled visits. An absence of participant blinding and reliance on patient report could have risked differential outcome reporting between groups. However, we believe that this possibility was unlikely because UTI reports were cross-checked against data from 3-monthly participant contact and validated against prespecified criteria. Similar findings between microbiologically confirmed UTIs and patient reports gave further reassurance that there was low detection bias. We did not assess the primary outcome in a small number of participants with less than 6 months' follow-up. The number of participants who were excluded from the primary analysis were balanced across groups, and a sensitivity analysis showed that inclusion of all randomised participants did not significantly affect these conclusions.
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^012bfd7f]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^1112jmHG]. The Journal of Urology (2025). High credibility.
 
 Recurrent urinary tract infection (rUTI) — clinicians may offer patient-initiated treatment (self-start treatment) to select rUTI patients with acute episodes while awaiting urine cultures (Conditional Recommendation; Evidence Level: Grade C), using shared decision-making; two trials comparing intermittent versus daily self-start dosing found no difference in risk of ≥ 1 UTI over 12 months (2 studies; RR: 1.15, 95% CI: 0.88 to 1.50, I² = 0%), and one trial showed a single antibiotic dose was no different than a short daily course (RR: 1.15; 95% CI: 0.87 to 1.51).
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^cc40136e]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^116Doznh]. BMJ (2013). Excellent credibility.
 
 Limitations inherent to this meta-analysis include the potential for publication bias, although we also included unpublished abstracts in our search. Their quality grading was based on the subjective assessment of two authors. Furthermore, the included studies were distinctly different in design — with diverse populations of patients, choices of antibiotics, durations of prophylaxis, and a heterogeneous observation period after removal of the catheter — so that standardized recommendations are difficult to make. The largest included study was not randomized but instead compared patients of surgeon A (who gave prophylactic antibiotics) with patients of surgeon B (who did not give prophylactic antibiotics); these surgeons' practices and techniques could have differed in many other ways. Also, some of the studies did not use a placebo in the control arm, and patients' assessment and reporting of urinary symptoms could have been affected by their knowledge of treatment status. Lastly, only two of the included studies recorded information on adverse events associated with the antibiotics, such as drug toxicities, allergic reactions, or infections with Clostridium difficile. None of the studies looked at the costs of antibiotic prophylaxis or at emerging antimicrobial resistance. Clinicians must assimilate these uncertainties when weighing advantages and disadvantages of implementing antibiotic prophylaxis after urethral catheterization.
 
@@ -610,7 +610,7 @@ This meta-analysis of available data indicates an overall benefit of antibiotic 
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^cd59f5b4]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^116FSgL3]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Added value of this study
 
@@ -626,7 +626,7 @@ Datafrom National Health Service (NHS) England showed that 71 million CISC cathe
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^8cf5a0b0]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^114bymfd]. BMJ (2013). Excellent credibility.
 
 The meta-analysis indicated an overall reduction in symptomatic urinary tract infection when antibiotic prophylaxis was given, with a risk ratio of 0.45 (95% confidence interval 0.28 to 0.72) compared with controls(fig 2). The absolute reduction of symptomatic urinary tract infection was 5.8% (31/665 (4.7%) in the antibiotic prophylaxis group v 90/855 (10.5%) in the control group). The number needed to treat to prevent one symptomatic urinary tract infection was 17 (95% confidence interval 12–30), with low heterogeneity (I² = 16%).
 
@@ -636,49 +636,49 @@ We repeated the meta-analysis without the single non-randomized study; the risk 
 
 ---
 
-### The EAU and AUA / CUA / SUFU guidelines on recurrent urinary tract infections: what is the difference? [^9ddfbf03]. European Urology (2020). Medium credibility.
+### The EAU and AUA / CUA / SUFU guidelines on recurrent urinary tract infections: what is the difference? [^11534DAr]. European Urology (2020). Medium credibility.
 
 For diagnosis of urinary tract infection (UTI), low bacterial counts in urine culture need to be considered more often. Non-antibiotic prophylaxis should be prioritized before antibiotic prophylaxis in patients with uncomplicated, recurrent UTI. Immunoprophylaxis in patients with rUTI deserves better consideration.
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^54edd9d0]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^113AurP1]. The Journal of Urology (2025). High credibility.
 
 Recurrent uncomplicated urinary tract infection (rUTI) antimicrobial therapy and stewardship — use of new agents and prescribing strategies: "Promising new antimicrobials such as the first oral carbapenem, sulopenem, may also provide outpatient therapies for patients with high multidrug resistance or antibiotic-intolerant individuals at high risk of infection progression", yet "these agents should still be reserved for those with high multidrug resistance". For prescribing practices, "It may be reasonable to consider collaboration with infectious disease specialists before prescribing to reduce unnecessary prescribing". Regarding prevention, "Preliminary data suggests that continuous prophylaxis with low-dose antibiotics leads to lower rates of antibiotic resistance and fewer adverse events than intermittent treatment of symptomatic episodes", while "little is understood about the short- and long-term consequences of antibiotic use, particularly intermittent, high-dose use".
 
 ---
 
-### EAU guidelines on urological infections [^a202b952]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^1159Buih]. EAU (2025). High credibility.
 
 Regarding preventative measures for catheter-associated urinary tract infection, more specifically with respect to topical antimicrobial prophylaxis, EAU 2025 guidelines recommend to do not apply topical antiseptics or antimicrobials to the catheter, urethra, or meatus.
 
 ---
 
-### Common questions about recurrent urinary tract infections in women [^6839a447]. American Family Physician (2016). Low credibility.
+### Common questions about recurrent urinary tract infections in women [^113fX5G2]. American Family Physician (2016). Low credibility.
 
 Recurrent urinary tract infections (UTIs) are common in women, including healthy women with normal genitourinary anatomy. Recurrent UTI is typically defined as three or more UTIs within 12 months, or two or more occurrences within six months. The same species that caused previous infections is typically responsible for recurrences. In premenopausal women, sexual intercourse three or more times per week, spermicide use, new or multiple sex partners, and having a UTI before 15 years of age are established risk factors. In postmenopausal women, risk is primarily increased by sequelae of lower estrogen levels. Episodes of recurrent UTI are typically characterized by dysuria and urinary frequency or hesitancy. Findings from the history or physical examination that suggest complicated infection or another disease process warrant additional evaluation. At least one symptomatic episode should be verified by urine culture to confirm the diagnosis and guide treatment. Imaging is rarely warranted. Short courses of antibiotics are as effective as longer courses. Patient-initiated treatment lowers the cost of diagnosis, number of physician visits, and number of symptomatic days compared with physician-initiated treatment. It also reduces antibiotic exposure compared with antibiotic prophylaxis. Antibiotic prophylaxis effectively limits UTI recurrence but increases the risk of antibiotic resistance and adverse effects. Cranberry products may reduce recurrent UTIs in premenopausal women, but are less effective than antibiotic prophylaxis, and data are conflicting. Optimal dosing is unknown. Postmenopausal women with atrophic vaginitis may benefit from topical estrogen therapy.
 
 ---
 
-### No. 250-recurrent urinary tract infection [^0ccedd04]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
+### No. 250-recurrent urinary tract infection [^111KzLQT]. Journal of Obstetrics and Gynaecology Canada (2017). Medium credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to immunoprophylaxis, SOGC 2017 guidelines recommend to do not offer mucosal or parenteral vaccines against uropathogenic bacteria for the prevention of rUTIs.
 
 ---
 
-### Management of bacteriuria and urinary tract infections in the older adult [^32876f90]. The Urologic Clinics of North America (2024). Medium credibility.
+### Management of bacteriuria and urinary tract infections in the older adult [^112HusbM]. The Urologic Clinics of North America (2024). Medium credibility.
 
 Urinary tract infection (UTI) is one of the most frequent bacterial infections diagnosed in older adults and the most common reason for antibiotic prescriptions in nursing homes. Distinguishing between asymptomatic bacteriuria and UTI in older adults can be challenging and implementing a systematic approach to diagnosis using standard toolkits or algorithms is recommended for patients residing in post-acute and long-term care settings. This article reviews the pathophysiology, microbiology, diagnostic approach, treatment, and approaches to prophylaxis in the older adult.
 
 ---
 
-### Single-dose antibiotic prophylaxis for urinary catheter removal does not reduce the risk of urinary tract infection in surgical patients: a randomized double-blind placebo-controlled trial [^fbfb8bf4]. Clinical Microbiology and Infection (2011). Low credibility.
+### Single-dose antibiotic prophylaxis for urinary catheter removal does not reduce the risk of urinary tract infection in surgical patients: a randomized double-blind placebo-controlled trial [^117SaPFy]. Clinical Microbiology and Infection (2011). Low credibility.
 
 We conducted a double-blind, placebo-controlled randomized trial to assess the effect of single-dose prophylaxis using co-trimoxazole (960 mg) (n = 46) or ciprofloxacin (500 mg) (n = 43) vs. placebo (n = 51) before urinary catheter removal on significant bacteriuria (SBU) (primary outcome) and urinary tract infection (UTI) in surgical patients with scheduled bladder drainage for 3–14 days. SBU was determined directly after catheter removal, and UTI 12–14 days after catheter removal. After 12–14 days, incidences of SBU were 19%, 19% and 33% for patients receiving ciprofloxacin, co-trimoxazole and placebo, respectively (p ns), and incidences of UTI were 3%, 0% and 3% for patients receiving ciprofloxacin, co-trimoxazole and placebo, respectively (p ns).
 
 ---
 
-### Compliance to international guidelines and rational use of antibiotics in urinary tract infections in a country without national guidance: a cross-sectional study [^5311e3c1]. BMJ Open Quality (2024). High credibility.
+### Compliance to international guidelines and rational use of antibiotics in urinary tract infections in a country without national guidance: a cross-sectional study [^11389yui]. BMJ Open Quality (2024). High credibility.
 
 Background
 
@@ -690,7 +690,7 @@ According to the WHO, rational drug use requires that patients receive drugs app
 
 ---
 
-### Antibiotics for the prevention of urinary tract infection in children: a systematic review of randomized controlled trials [^21a07948]. The Journal of Pediatrics (2001). Low credibility.
+### Antibiotics for the prevention of urinary tract infection in children: a systematic review of randomized controlled trials [^111rrVaf]. The Journal of Pediatrics (2001). Low credibility.
 
 Objective
 
@@ -714,7 +714,7 @@ Methodologic and applicability problems with published trials mean that there is
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^3891d814]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^112SsJ43]. BMJ (2022). Excellent credibility.
 
 Procedures
 
@@ -724,7 +724,7 @@ Follow-up assessments took place every three months until month 18. At each visi
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^38c236e1]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^112T9YPA]. BMJ (2013). Excellent credibility.
 
 Implications of promoting antibiotic prophylaxis and ideal target population
 
@@ -732,7 +732,7 @@ Antibiotic prophylaxis at the time of catheter removal could lead to a dramatic 
 
 ---
 
-### D-mannose vs other agents for recurrent urinary tract infection prevention in adult women: a systematic review and meta-analysis [^0e3903d3]. American Journal of Obstetrics and Gynecology (2020). Medium credibility.
+### D-mannose vs other agents for recurrent urinary tract infection prevention in adult women: a systematic review and meta-analysis [^111N5ygn]. American Journal of Obstetrics and Gynecology (2020). Medium credibility.
 
 Objective
 
@@ -760,13 +760,13 @@ D-mannose appears protective for recurrent urinary tract infection (vs placebo) 
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^29cb5ad6]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^1124xoE5]. The Journal of Urology (2025). High credibility.
 
 Recurrent urinary tract infection — antibiotic prophylaxis evidence synthesis: the systematic review identified 28 trials evaluating antibiotics for prevention of rUTI, most were rated as medium to high risk of bias, and sample sizes ranged from 26 to 308 (total N = 2,758). These trials demonstrated that antibiotics perform better than placebo with consistent results across antibiotics, and the duration of preventive treatment ranged from 6 to 12 months. When comparing prophylactic antibiotic use to placebo or no antibiotics, antibiotics were associated with a decreased likelihood of experiencing ≥ 1 UTI recurrence (11 studies; RR: 0.26, 95% CI: 0.18 to 0.37; I² = 14%; absolute risk difference [ARD]: -46%, 95% CI: -56% to -37%). Because most relevant randomized controlled trials were published prior to 1995, results should be interpreted in light of current resistance patterns.
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^5e79df27]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^113R4mk2]. BMJ (2013). Excellent credibility.
 
 Objective To determine whether antibiotic prophylaxis at the time of removal of a urinary catheter reduces the risk of subsequent symptomatic urinary tract infection.
 
@@ -780,7 +780,7 @@ Conclusions Patients admitted to hospital who undergo short term urinary cathete
 
 ---
 
-### Evaluation of a therapeutic vaccine for the prevention of recurrent urinary tract infections versus prophylactic treatment with antibiotics [^58e303ba]. International Urogynecology Journal (2013). Low credibility.
+### Evaluation of a therapeutic vaccine for the prevention of recurrent urinary tract infections versus prophylactic treatment with antibiotics [^113GnAQ9]. International Urogynecology Journal (2013). Low credibility.
 
 Continuous prophylaxis with antibiotics is the recommended initial therapy for RUTIs. Sulfamethoxazole/trimethoprim (SMX/TMP) for a period of 6 months is the most commonly recommended option. However, the continuous use of antibiotics is not free of risk. Multiresistance of the bacteria to antibiotics is widely increasing, which creates the dramatic situation that more than 40% of the bacterial strains are resistant to available antibiotics in some regions of the world. An added problem is the high incidence of adverse reactions associated with the use of antibiotics and other chemotherapeutics.
 
@@ -790,7 +790,7 @@ The objective of this study was to evaluate clinical benefit obtained with the p
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^e6c64aa2]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^116u8kr5]. BMJ (2022). Excellent credibility.
 
 Conclusions
 
@@ -798,13 +798,13 @@ In the ALTAR trial, we have demonstrated high levels of efficacy from methenamin
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^d812d228]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^116XLeXq]. The Journal of Urology (2025). High credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to fluid intake, AUA/CUA/SUFU 2025 guidelines recommend to consider offering increased water intake for prophylaxis in female patients with rUTIs who have a water intake < 1.5 L/day.
 
 ---
 
-### Lomefloxacin hydrochloride (Maxaquin) [^e2796c33]. FDA (2006). Low credibility.
+### Lomefloxacin hydrochloride (Maxaquin) [^116nkzCA]. FDA (2006). Low credibility.
 
 Prevention / prophylaxis
 
@@ -819,7 +819,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ---
 
-### Antibiotic prophylaxis for transperineal prostate biopsy [^cab41192]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Antibiotic prophylaxis for transperineal prostate biopsy [^116BWywo]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Methods
 
@@ -867,7 +867,7 @@ Head‐to‐head comparisons of different antibiotic prophylaxis regimens Differ
 
 ---
 
-### Long-term antibiotics for preventing recurrent urinary tract infection in children [^81acdbfa]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Long-term antibiotics for preventing recurrent urinary tract infection in children [^114KFTvZ]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -899,7 +899,7 @@ Long-term antibiotics may reduce the risk of repeat symptomatic UTI in children 
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^946424a6]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^114nzoeu]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Table 4
 Number of adverse events associated with prophylactic and treatment antibiotics
@@ -908,7 +908,7 @@ The conclusion of the primary analysis was unchanged when removing duration of a
 
 ---
 
-### Sulfamethoxazole and trimethoprim ds [^eb9fd8ea]. FDA (2010). Low credibility.
+### Sulfamethoxazole and trimethoprim ds [^1172KnJV]. FDA (2010). Low credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -977,13 +977,13 @@ sulfamethoxazole and trimethoprim tablets every 12 hours for 5 days.
 
 ---
 
-### Cranberry for prevention of urinary tract infections [^74328b45]. American Family Physician (2004). Low credibility.
+### Cranberry for prevention of urinary tract infections [^113yGYNG]. American Family Physician (2004). Low credibility.
 
 Traditionally, cranberry has been used for the treatment and prophylaxis of urinary tract infections. Research suggests that its mechanism of action is preventing bacterial adherence to host cell surface membranes. Systematic reviews have concluded that no reliable evidence supports the use of cranberry in the treatment or prophylaxis of urinary tract infections; however, more recent, randomized controlled trials demonstrate evidence of cranberry's utility in urinary tract infection prophylaxis. Supporting studies in humans are lacking for other clinical uses of cranberry. Cranberry is a safe, well-tolerated herbal supplement that does not have significant drug interactions.
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^08c4671e]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^111DzsVP]. BMJ (2022). Excellent credibility.
 
 Methods
 
@@ -1001,7 +1001,7 @@ Participants were randomly assigned (1:1) to receive antibiotic prophylaxis or m
 
 ---
 
-### Antibiotic prophylaxis and recurrent urinary tract infection in children [^181ca32d]. The New England Journal of Medicine (2009). Excellent credibility.
+### Antibiotic prophylaxis and recurrent urinary tract infection in children [^111ckKfa]. The New England Journal of Medicine (2009). Excellent credibility.
 
 Background
 
@@ -1021,7 +1021,7 @@ Long-term, low-dose trimethoprim-sulfamethoxazole was associated with a decrease
 
 ---
 
-### Sulfamethoxazole and trimethoprim (Sulfatrim) [^64082b6b]. FDA (2025). Medium credibility.
+### Sulfamethoxazole and trimethoprim (Sulfatrim) [^113ZJWLa]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -1069,13 +1069,13 @@ For the treatment of travelers' diarrhea, the usual adult dosage is four teaspoo
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^15bdb3d9]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^111ZETd2]. The Journal of Urology (2025). High credibility.
 
 Recurrent urinary tract infection — D‑mannose prophylaxis shows no clinical benefit and is not recommended. A high‑quality randomized controlled trial (RCT) (N = 598) of D‑mannose 2 g/day versus placebo found no difference in UTI recurrence and no differences in microbiological recurrence, prescribed antibiotics, UTI‑related symptoms, or hospital admissions; a small RCT (N = 44) adding D‑mannose to topical estrogen also showed no difference. Adverse events were mild and mostly gastrointestinal, and while administration is unlikely to do harm, the guideline states it "cannot be recommended".
 
 ---
 
-### Antimicrobial agents for preventing urinary tract infections in adults undergoing cystoscopy [^1aed7d31]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Antimicrobial agents for preventing urinary tract infections in adults undergoing cystoscopy [^111gvSzC]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -1107,13 +1107,13 @@ Antibiotic prophylaxis may reduce the risk of symptomatic UTI but not systemic U
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^a5b4c76c]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^115EfgMh]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 At baseline, the groups did not differ in frequency of antimicrobial resistance of urinary isolates to eight oral antibiotics that are commonly used for UTI treatment. During the 12-month trial, resistance appeared more common in isolates that were cultured from urine submitted during symptomatic UTIs by participants in the prophylaxis group than those in the control group (figure 2). In urine samples submitted during asymptomatic periods between months 9 and 12 of the trial, resistance to nitrofurantoin (12 [24%] of 51 participants with at least one isolate from the prophylaxis group vs six [9%] of 64 participants with at least one isolate from the control group; p = 0.038), trimethoprim (34 [67%] of 51 participants vs 21 [33%] of 64 participants; p = 0.0003), and co-trimoxazole (26 [53%] of 49 participants vs 15 [24%] of 62 participants; p = 0.002) was significantly more frequent in the prophylaxis group than the control group. Over baseline and subsequent 3-monthly intervals during the 12-month trial period, resistance to amoxicillin (38 [52%] of 73 participants, 25 [74%] of 34 participants, 31 [82%] of 38 participants, 32 [74%] of 43 participants, and 37 [76%] of 49 participants; p = 0.004), cephalexin (11 [14%] of 78 participants, ten [25%] of 40 participants, 13 [32%] of 41 participants, 17 [38%] of 45 participants, and 16 [31%] of 51 participants; p = 0.005), co-trimoxazole (18 [25%] of 73 participants, 23 [59%] of 39 participants, 14 [37%] of 38 participants, 21 [48%] of 44 participants, 26 [53%] of 49 participants; p = 0.006), and trimethoprim (32 [42%] of 77 participants, 31 [79%] of 39 participants, 25 [63%] of 40 participants, 27 [63%] of 43 participants, 34 [67%] of 51 participants; p = 0.016) also significantly increased in isolates from urine specimens that were submitted during asymptomatic periods by participants in the prophylaxis group. There was no evidence of increasing resistance over time in the control group. Resistance of urinary isolates that were submitted during asymptomatic periods appeared to decrease at 18 months. There was no evidence that E coli isolated from perianal swabs of participants in the prophylaxis group had significantly more frequent resistance against any of the eight antibiotics tested than did participants in the control group at 6–12 months of the trial.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^d43ebe27]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^116RfT58]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Economic evaluation suggested that, on average, a strategy of antibiotic prophylaxis was more effective and more costly than no prophylaxis. The incremental cost was £99 per UTI avoided (table 3). There was a 60% chance that prophylaxis would be cost-effective should society be willing to pay £200 to avoid a UTI. The incremental cost per QALY over 12 months was £5059 (as determined by the cost-utility analysis). In the probabilistic analysis, the likelihood that use of prophylaxis would be considered cost-effective at a threshold value of £20 000 per QALY was 64%. Adjustment for utility values that were recorded at the time of UTI gave similar results. A probabilistic sensitivity evaluation from the willingness to pay analysis suggested that use of prophylaxis has a 66% chance of being considered more efficient and would give a higher net benefit than a no prophylaxis strategy if society was prepared to pay £200 or more to avoid a UTI.
 
@@ -1124,7 +1124,7 @@ Results of deterministic and probabilistic cost-effectiveness, cost-utility, and
 
 ---
 
-### Antibiotic prophylaxis at urinary catheter removal prevents urinary tract infections: a prospective randomized trial [^8ddb6108]. Annals of Surgery (2009). Low credibility.
+### Antibiotic prophylaxis at urinary catheter removal prevents urinary tract infections: a prospective randomized trial [^114dJwao]. Annals of Surgery (2009). Low credibility.
 
 Objective
 
@@ -1148,7 +1148,7 @@ Antibiotic prophylaxis with trimethoprim-sulfamethoxazole on urinary catheter re
 
 ---
 
-### Prophylactic antibiotics to reduce the risk of urinary tract infections after urodynamic studies [^0b8740f5]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Prophylactic antibiotics to reduce the risk of urinary tract infections after urodynamic studies [^111J6J4C]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1180,7 +1180,7 @@ Prophylactic antibiotics did reduce the risk of bacteriuria after urodynamic stu
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^1d3884da]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^111kKdFX]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Statistical analysis
 
@@ -1194,7 +1194,7 @@ Univariate analysis of change in kidney and liver function was done with a two-s
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^9cd4c681]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^1151WYAL]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 The effectiveness of continuous low-dose antibiotic prophylaxis against UTIs in users of CISC who had repeated episodes increases the number of patient groups with repeated or chronic infections who have been shown to benefit from this strategy. The increased frequency of antimicrobial resistance in potential urinary pathogens to antibiotics that are used for treatment of UTIs is a concern for individuals and for public health. Increased resistance occurred in the prophylaxis group despite reduced use of antibiotics to treat symptomatic UTIs. The mechanism by which low-dose antibiotic prophylaxis provides a benefit is uncertain. Our results show that episodes of symptomatic UTIs (indicating infection with urinary pathogens) are suppressed while the incidence of asymptomatic bacteriuria (indicating urinary colonisation) was unchanged. It is possible that pathogenic bacterial strains with particular virulence factors are preferentially targeted by low-dose continuous therapy, or changes in the host response might be induced, allowing tolerance of colonisers but eradication of pathogens. Alternatively, bacteria colonising the bladder could be protected in specific niches that cannot be accessed by low urinary concentrations of antibiotic.
 
@@ -1204,13 +1204,13 @@ An alternative antibiotic-based strategy is so-called self-start therapy, whereb
 
 ---
 
-### Treatment of bacterial urinary tract infections: presence and future [^2aca5aa2]. European Urology (2006). Low credibility.
+### Treatment of bacterial urinary tract infections: presence and future [^1126ST1b]. European Urology (2006). Low credibility.
 
 Bacterial urinary tract infections (UTIs) are frequent infections in the outpatient as well as in the nosocomial setting. The stratification into uncomplicated and complicated UTIs has proven to be clinically useful. Bacterial virulence factors on the one side and the integrity of the host defense mechanisms on the other side determine the course of the infection. In uncomplicated UTIs Escherichia coli is the leading organism, whereas in complicated UTIs the bacterial spectrum is much broader including Gram-negative and Gram-positive and often multiresistant organisms. The therapy of uncomplicated UTIs is almost exclusively antibacterial, whereas in complicated UTIs the complicating factors have to be treated as well. There are two predominant aims in the antimicrobial treatment of both uncomplicated and complicated UTIs: (i) rapid and effective response to therapy and prevention of recurrence of the individual patient treated; (ii) prevention of emergence of resistance to antimicrobial chemotherapy in the microbial environment. The main drawback of current antibiotic therapies is the emergence and rapid increase of antibiotic resistance. To combat this development several strategies can be followed. Decrease the amount of antibiotics administered, optimal dosing, prevention of infection and development of new antibiotic substances. The aim of this review is to highlight the current and to describe future treatment options for UTIs.
 
 ---
 
-### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^e21c18f5]. The Lancet: Infectious Diseases (2018). Medium credibility.
+### Continuous low-dose antibiotic prophylaxis for adults with repeated urinary tract infections (AnTIC): a randomised, open-label trial [^116nDe5A]. The Lancet: Infectious Diseases (2018). Medium credibility.
 
 Randomisation and masking
 
@@ -1218,13 +1218,13 @@ Participants were randomly allocated (1:1) to receive either antibiotic prophyla
 
 ---
 
-### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^101e3416]. The Journal of Urology (2025). High credibility.
+### Updates to recurrent uncomplicated urinary tract infections in women: AUA / CUA / SUFU guideline (2025) [^111QtwvM]. The Journal of Urology (2025). High credibility.
 
 Recurrent urinary tract infection prophylaxis — additional 2022 studies of cranberry often showed no difference, with very low strength of evidence. Four additional studies addressed cranberry prophylaxis, including combinations with other non-antibiotic agents and a dose comparison that did not show differences in UTI recurrences or adverse events; a cranberry + D‑mannose + Lactobacillus trial also did not show differences versus no treatment. A fourth study of high-dose cranberry combined with Lactobacillus and vitamin A reported fewer recurrences with treatment (9.1% versus 33.3%; p = 0.0053), but this did not impact the Guideline statement because it combined cranberry with two other substances.
 
 ---
 
-### Guidelines for the prevention, diagnosis, and management of urinary tract infections in pediatrics and adults: a WikiGuidelines group consensus statement [^283966fa]. JAMA Network Open (2024). High credibility.
+### Guidelines for the prevention, diagnosis, and management of urinary tract infections in pediatrics and adults: a WikiGuidelines group consensus statement [^1122dnZP]. JAMA Network Open (2024). High credibility.
 
 Importance
 
@@ -1248,7 +1248,7 @@ In this consensus statement that applied the WikiGuidelines method for clinical 
 
 ---
 
-### Guidelines for complicated urinary tract infections in children: a review by the European society for pediatric infectious diseases [^e1623c22]. The Pediatric Infectious Disease Journal (2025). Medium credibility.
+### Guidelines for complicated urinary tract infections in children: a review by the European society for pediatric infectious diseases [^116m9DBF]. The Pediatric Infectious Disease Journal (2025). Medium credibility.
 
 Antibiotic Prophylaxis Choice, Duration and Resistance
 
@@ -1260,7 +1260,7 @@ Multiple RCTs clearly show that while UTI is less common with prophylaxis, resis
 
 ---
 
-### Nitrofurantoin vs other prophylactic agents in reducing recurrent urinary tract infections in adult women: a systematic review and meta-analysis [^430aec09]. American Journal of Obstetrics and Gynecology (2016). Low credibility.
+### Nitrofurantoin vs other prophylactic agents in reducing recurrent urinary tract infections in adult women: a systematic review and meta-analysis [^112iPqfE]. American Journal of Obstetrics and Gynecology (2016). Low credibility.
 
 Background
 
@@ -1288,7 +1288,7 @@ Nitrofurantoin had similar efficacy but a greater risk of adverse events than ot
 
 ---
 
-### Nitrofurantoin [^c925d4f7]. FDA (2025). Medium credibility.
+### Nitrofurantoin [^1169DDfk]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -1304,7 +1304,7 @@ For long-term suppressive therapy in adults, a reduction of dosage to 50 to 100 
 
 ---
 
-### Perioperative antibiotic prophylaxis for stone therapy [^cfb90640]. Current Opinion in Urology (2019). Medium credibility.
+### Perioperative antibiotic prophylaxis for stone therapy [^116JxauD]. Current Opinion in Urology (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -1320,7 +1320,7 @@ Current findings support the American Urological Association (AUA) and European 
 
 ---
 
-### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^6c3642e7]. BMC Geriatrics (2011). Low credibility.
+### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^113mRtXp]. BMC Geriatrics (2011). Low credibility.
 
 Conclusions
 
@@ -1328,7 +1328,7 @@ This study showed a high prevalence and large variation in the use of UTI prophy
 
 ---
 
-### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^01959980]. BMJ (2022). Excellent credibility.
+### Alternative to prophylactic antibiotics for the treatment of recurrent urinary tract infections in women: multicentre, open label, randomised, non-inferiority trial [^1113MEib]. BMJ (2022). Excellent credibility.
 
 Objective
 
@@ -1368,7 +1368,7 @@ ISRCTN70219762.
 
 ---
 
-### Evaluation of systemic estrogen for preventing urinary tract infections in postmenopausal women [^15e83c24]. Menopause (2021). Medium credibility.
+### Evaluation of systemic estrogen for preventing urinary tract infections in postmenopausal women [^111ZUkDh]. Menopause (2021). Medium credibility.
 
 Importance
 
@@ -1392,7 +1392,7 @@ UTIs will continue to be a significant cause of morbidity and hospitalizations i
 
 ---
 
-### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^6f800b58]. BMJ (2013). Excellent credibility.
+### Antibiotic prophylaxis for urinary tract infections after removal of urinary catheter: meta-analysis [^113rJdnX]. BMJ (2013). Excellent credibility.
 
 Methods
 
@@ -1406,7 +1406,7 @@ Eligible studies were randomized and non-randomized controlled trials of short t
 
 ---
 
-### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^a54180b6]. BMC Geriatrics (2011). Low credibility.
+### Prevention of urinary tract infections in nursing homes: lack of evidence-based prescription? [^115DzxbX]. BMC Geriatrics (2011). Low credibility.
 
 Prophylactic agents and antibiotics for therapy
 
@@ -1418,19 +1418,19 @@ The data was analysed using SPSS 15.0 (SPSS Inc. Chicago IL). Descriptive statis
 
 ---
 
-### Urinary tract infections in pregnant individuals [^366707c4]. Obstetrics and Gynecology (2023). High credibility.
+### Urinary tract infections in pregnant individuals [^112PewQo]. Obstetrics and Gynecology (2023). High credibility.
 
 Asymptomatic bacteriuria (ASB) treatment in pregnant individuals — clinicians should prescribe a 5–7-day course of targeted antibiotics for colony counts of 100,000 CFU/mL or higher, and there is insufficient evidence to recommend for or against repeat screening after appropriate treatment; ASB is clinically significant at 100,000 CFU/mL (10⁵ CFU/mL) or higher, treatment should start once bacteriuria is confirmed and be adjusted per sensitivities, and normal vulvovaginal flora should not be treated. Group B strep should be treated if present in counts greater than 100,000 CFU/mL, whereas lower colony counts do not require treatment but should be noted for group B streptococcus prophylaxis at delivery; several randomized studies show that a 5–7-day duration is superior to single-dose treatment, with no difference in ASB recurrence, pyelonephritis, or preterm birth. Fosfomycin is an exception with single-dose efficacy making it a reasonable choice for 1-day treatment of ASB, and there are no studies assessing a 3-day treatment duration for ASB; there are also no studies to recommend for or against whether a test of cure or repeat screening is indicated after treatment.
 
 ---
 
-### EAU guidelines on urological infections [^d24bcc96]. EAU (2025). High credibility.
+### EAU guidelines on urological infections [^116NmrsF]. EAU (2025). High credibility.
 
 Regarding preventative measures for recurrent urinary tract infection in women, more specifically with respect to D-mannose, EAU 2025 guidelines recommend to offer D-mannose to reduce recurrent cystitis episodes, while informing patients about the overall weak and contradictory evidence of its effectiveness.
 
 ---
 
-### Nitrofurantion [^ea5b11c8]. FDA (2025). Medium credibility.
+### Nitrofurantion [^116zSh7u]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION:
 

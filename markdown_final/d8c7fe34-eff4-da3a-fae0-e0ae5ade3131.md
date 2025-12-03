@@ -27,35 +27,35 @@ J. Behaviorism believes in the major role of intrinsic factors in behavior.
 
 > Let's see… What do we have here? The user is asking to define behaviorism and social learning theory and select the best answer among the provided options. Let's break this down step-by-step. First, I need to think about the core tenets of behaviorism and verify which options mischaracterize it. Then, I should review the defining features of social learning theory and check for common misconceptions. Next, I will compare each answer choice against these definitions and eliminate the incorrect ones. Finally, I will confirm the best fit and briefly justify why the correct option is superior to the alternatives.
 
-> Let me first confirm the essence of behaviorism. Behaviorism, particularly in its classical form, restricts scientific analysis to publicly observable behaviors and their environmental antecedents and consequences, deliberately excluding unobservable mental processes from explanatory accounts; this is precisely why the cognitive revolution marked a departure from behaviorism beginning in the 1960s, as psychology reintroduced internal processes like beliefs and expectancies into theory and practice [^84c88a6b].
+> Let me first confirm the essence of behaviorism. Behaviorism, particularly in its classical form, restricts scientific analysis to publicly observable behaviors and their environmental antecedents and consequences, deliberately excluding unobservable mental processes from explanatory accounts; this is precisely why the cognitive revolution marked a departure from behaviorism beginning in the 1960s, as psychology reintroduced internal processes like beliefs and expectancies into theory and practice [^114Prj3g].
 
-> Wait, let me verify the key elements of social learning theory. Social learning theory, also called social cognitive theory, emphasizes that people learn not only through direct experience but also by observing others' behaviors and their consequences; it incorporates modeling, vicarious reinforcement, and cognitive mediators such as self-efficacy and expectancies, and it is not limited to childhood aggression but applies across ages and domains, including health behaviors and professional development [^7c304dbe] [^511490ca] [^7bfd9ee9].
+> Wait, let me verify the key elements of social learning theory. Social learning theory, also called social cognitive theory, emphasizes that people learn not only through direct experience but also by observing others' behaviors and their consequences; it incorporates modeling, vicarious reinforcement, and cognitive mediators such as self-efficacy and expectancies, and it is not limited to childhood aggression but applies across ages and domains, including health behaviors and professional development [^114B7gyb] [^1135CuUd] [^114ApfbN].
 
-> I will now examine Option A. It claims behaviorism focuses on emotions and that social learning theory emphasizes instinctual drives; hold on, that's backwards. Behaviorism explicitly excluded emotions and internal states from its explanatory framework, and social learning theory emphasizes learned, cognitively mediated processes rather than instinctual drives, so Option A is incorrect [^84c88a6b].
+> I will now examine Option A. It claims behaviorism focuses on emotions and that social learning theory emphasizes instinctual drives; hold on, that's backwards. Behaviorism explicitly excluded emotions and internal states from its explanatory framework, and social learning theory emphasizes learned, cognitively mediated processes rather than instinctual drives, so Option A is incorrect [^114Prj3g].
 
-> Next, I should review Option B. It states behaviorism considers only observable behavior and that social learning theory highlights imitation and the role of dependency in socialization; hmm, wait a minute, the first part is accurate for classical behaviorism, but the second part overstates dependency as the major factor. Social learning theory indeed stresses observational learning and modeling, and while social connectedness matters, "dependency" is too strong and imprecise; still, among the choices, this is the closest to being correct, so I should keep it in contention while I double-check the others [^84c88a6b] [^7c304dbe].
+> Next, I should review Option B. It states behaviorism considers only observable behavior and that social learning theory highlights imitation and the role of dependency in socialization; hmm, wait a minute, the first part is accurate for classical behaviorism, but the second part overstates dependency as the major factor. Social learning theory indeed stresses observational learning and modeling, and while social connectedness matters, "dependency" is too strong and imprecise; still, among the choices, this is the closest to being correct, so I should keep it in contention while I double-check the others [^114Prj3g] [^114B7gyb].
 
-> Let me consider Option C. It claims social learning theory is a subset of behaviorism focused on verbal learning and linguistics; I need to ensure I'm not conflating this with other frameworks. Social learning theory is not a subset of behaviorism; it emerged partly in response to behaviorism's limitations and incorporates unobservable cognitive processes, and it is not restricted to verbal learning or linguistics, so Option C is incorrect [^84c88a6b].
+> Let me consider Option C. It claims social learning theory is a subset of behaviorism focused on verbal learning and linguistics; I need to ensure I'm not conflating this with other frameworks. Social learning theory is not a subset of behaviorism; it emerged partly in response to behaviorism's limitations and incorporates unobservable cognitive processes, and it is not restricted to verbal learning or linguistics, so Option C is incorrect [^114Prj3g].
 
-> Hold on, I should verify Option D. It asserts social learning theory is solely about children's aggression; that's too narrow. While Bandura's early work included aggression studies, social learning theory has been applied broadly to health, education, and organizational behavior, and it addresses learning across the lifespan, not just childhood aggression, so Option D is wrong [^7c304dbe] [^511490ca].
+> Hold on, I should verify Option D. It asserts social learning theory is solely about children's aggression; that's too narrow. While Bandura's early work included aggression studies, social learning theory has been applied broadly to health, education, and organizational behavior, and it addresses learning across the lifespan, not just childhood aggression, so Option D is wrong [^114B7gyb] [^1135CuUd].
 
-> I will now examine Option E. It says behaviorism emphasizes supernatural influences and social learning theory focuses only on societal norms; wait, let me verify the historical stance. Behaviorism is a natural-science approach that excludes supernatural explanations, and social learning theory encompasses more than societal norms, including individual cognition and environmental contingencies, so Option E is incorrect [^84c88a6b] [^7bfd9ee9].
+> I will now examine Option E. It says behaviorism emphasizes supernatural influences and social learning theory focuses only on societal norms; wait, let me verify the historical stance. Behaviorism is a natural-science approach that excludes supernatural explanations, and social learning theory encompasses more than societal norms, including individual cognition and environmental contingencies, so Option E is incorrect [^114Prj3g] [^114ApfbN].
 
-> Next, I should review Option F. It claims behaviorism is concerned with unobservable mental processes; that's the opposite of classical behaviorism, which deliberately excluded mental processes from scientific accounts, so Option F is incorrect [^84c88a6b].
+> Next, I should review Option F. It claims behaviorism is concerned with unobservable mental processes; that's the opposite of classical behaviorism, which deliberately excluded mental processes from scientific accounts, so Option F is incorrect [^114Prj3g].
 
-> Let me think about Option G. It suggests social learning theory claims behavior is entirely shaped by peer pressure, while behaviorism says behavior results from conscious decision-making; I should double-check both parts. Social learning theory emphasizes observational learning and cognitive mediation, not exclusively peer pressure, and behaviorism focuses on environmental contingencies rather than conscious decision-making as a primary explanatory construct, so Option G is incorrect [^7c304dbe] [^84c88a6b].
+> Let me think about Option G. It suggests social learning theory claims behavior is entirely shaped by peer pressure, while behaviorism says behavior results from conscious decision-making; I should double-check both parts. Social learning theory emphasizes observational learning and cognitive mediation, not exclusively peer pressure, and behaviorism focuses on environmental contingencies rather than conscious decision-making as a primary explanatory construct, so Option G is incorrect [^114B7gyb] [^114Prj3g].
 
-> I need to check Option H. It proposes both theories argue behavior is a direct consequence of divine will without environmental or cognitive influence; that is fundamentally incompatible with both behaviorism's environmental determinism and social learning theory's cognitive and environmental interactions, so Option H is incorrect [^84c88a6b] [^7bfd9ee9].
+> I need to check Option H. It proposes both theories argue behavior is a direct consequence of divine will without environmental or cognitive influence; that is fundamentally incompatible with both behaviorism's environmental determinism and social learning theory's cognitive and environmental interactions, so Option H is incorrect [^114Prj3g] [^114ApfbN].
 
-> Let me reconsider Option I. It claims behaviorism is based on past life experiences and social learning theory on genetic inheritance; hold on, I should verify the nuance. Behaviorism is indeed based on learned experiences via environmental contingencies, but social learning theory does not assert behavior is solely genetically determined; rather, it integrates learned experiences, observational learning, and cognitive factors, so Option I is incorrect [^84c88a6b] [^7c304dbe].
+> Let me reconsider Option I. It claims behaviorism is based on past life experiences and social learning theory on genetic inheritance; hold on, I should verify the nuance. Behaviorism is indeed based on learned experiences via environmental contingencies, but social learning theory does not assert behavior is solely genetically determined; rather, it integrates learned experiences, observational learning, and cognitive factors, so Option I is incorrect [^114Prj3g] [^114B7gyb].
 
-> I should confirm Option J. It asserts behaviorism believes in the major role of intrinsic factors; wait, that's imprecise. Classical behaviorism minimized intrinsic or internal factors and emphasized external environmental control, so Option J misrepresents behaviorism and is incorrect [^84c88a6b].
+> I should confirm Option J. It asserts behaviorism believes in the major role of intrinsic factors; wait, that's imprecise. Classical behaviorism minimized intrinsic or internal factors and emphasized external environmental control, so Option J misrepresents behaviorism and is incorrect [^114Prj3g].
 
-> Comparing all options, Option B remains the best fit despite its overstatement about dependency, because it correctly identifies behaviorism's focus on observable behavior and social learning theory's emphasis on imitation and social processes. None of the other choices accurately capture both theories, so the correct answer is B, with the caveat that "dependency" should be interpreted more broadly as social connectedness and modeling rather than a deterministic dependency construct [^84c88a6b] [^7c304dbe].
+> Comparing all options, Option B remains the best fit despite its overstatement about dependency, because it correctly identifies behaviorism's focus on observable behavior and social learning theory's emphasis on imitation and social processes. None of the other choices accurately capture both theories, so the correct answer is B, with the caveat that "dependency" should be interpreted more broadly as social connectedness and modeling rather than a deterministic dependency construct [^114Prj3g] [^114B7gyb].
 
 ---
 
-Behaviorism is a psychological approach that studies **only observable behaviors** [^84c88a6b], emphasizing how environmental stimuli and reinforcement shape actions without considering internal mental states. Social learning theory, in contrast, recognizes that **people learn by observing others** [^7c304dbe] and that cognitive processes such as attention, memory, and motivation mediate learning. It also highlights the role of modeling, vicarious reinforcement, and self-efficacy in shaping behavior [^7bfd9ee9]. Thus, behaviorism focuses on external control of behavior, whereas social learning theory integrates observational learning and cognitive factors to explain how individuals acquire new behaviors in social contexts [^7c304dbe].
+Behaviorism is a psychological approach that studies **only observable behaviors** [^114Prj3g], emphasizing how environmental stimuli and reinforcement shape actions without considering internal mental states. Social learning theory, in contrast, recognizes that **people learn by observing others** [^114B7gyb] and that cognitive processes such as attention, memory, and motivation mediate learning. It also highlights the role of modeling, vicarious reinforcement, and self-efficacy in shaping behavior [^114ApfbN]. Thus, behaviorism focuses on external control of behavior, whereas social learning theory integrates observational learning and cognitive factors to explain how individuals acquire new behaviors in social contexts [^114B7gyb].
 
 ---
 
@@ -63,11 +63,11 @@ Behaviorism is a psychological approach that studies **only observable behaviors
 
 Behaviorism is built on several foundational principles:
 
-- **Observable behavior**: Behaviorism restricts its focus to observable behaviors, excluding internal mental processes from scientific analysis [^84c88a6b].
+- **Observable behavior**: Behaviorism restricts its focus to observable behaviors, excluding internal mental processes from scientific analysis [^114Prj3g].
 
 - **Environmental determinism**: Behavior is viewed as a direct response to environmental stimuli, with little emphasis on internal cognitive processes [^notfound].
 
-- **Learning through conditioning**: Behaviorism emphasizes learning through classical and operant conditioning, where behaviors are shaped by reinforcement or punishment [^3f959ca0].
+- **Learning through conditioning**: Behaviorism emphasizes learning through classical and operant conditioning, where behaviors are shaped by reinforcement or punishment [^112dGURm].
 
 - **Stimulus-response model**: Behavior is conceptualized as a predictable response to specific stimuli, reinforcing the idea that behavior is externally controlled [^notfound].
 
@@ -77,15 +77,15 @@ Behaviorism is built on several foundational principles:
 
 Social learning theory, developed by Albert Bandura, expands beyond behaviorism by incorporating cognitive and social factors:
 
-- **Observational learning**: Individuals learn new behaviors by observing others, particularly models who are perceived as credible or similar to themselves [^511490ca].
+- **Observational learning**: Individuals learn new behaviors by observing others, particularly models who are perceived as credible or similar to themselves [^1135CuUd].
 
-- **Modeling and imitation**: Behavior is acquired through imitation of observed actions, especially when the model is rewarded for the behavior (vicarious reinforcement) [^7c304dbe].
+- **Modeling and imitation**: Behavior is acquired through imitation of observed actions, especially when the model is rewarded for the behavior (vicarious reinforcement) [^114B7gyb].
 
-- **Cognitive processes**: Social learning theory emphasizes the role of cognitive processes such as attention, retention, reproduction, and motivation in learning [^511490ca].
+- **Cognitive processes**: Social learning theory emphasizes the role of cognitive processes such as attention, retention, reproduction, and motivation in learning [^1135CuUd].
 
-- **Self-efficacy**: An individual's belief in their ability to perform a behavior significantly influences whether they will attempt and persist in that behavior [^7bfd9ee9].
+- **Self-efficacy**: An individual's belief in their ability to perform a behavior significantly influences whether they will attempt and persist in that behavior [^114ApfbN].
 
-- **Reciprocal determinism**: Behavior, environment, and personal factors interact dynamically, shaping learning and behavior [^511490ca].
+- **Reciprocal determinism**: Behavior, environment, and personal factors interact dynamically, shaping learning and behavior [^1135CuUd].
 
 ---
 
@@ -103,17 +103,17 @@ Social learning theory, developed by Albert Bandura, expands beyond behaviorism 
 
 ## Applications and implications
 
-Behaviorism has been widely applied in areas such as education, therapy, and animal training, where behaviors can be shaped through reinforcement. Social learning theory has significantly influenced **education, psychology, and health promotion** [^7bfd9ee9], emphasizing the importance of role models, social influences, and cognitive factors in behavior change [^7c304dbe].
+Behaviorism has been widely applied in areas such as education, therapy, and animal training, where behaviors can be shaped through reinforcement. Social learning theory has significantly influenced **education, psychology, and health promotion** [^114ApfbN], emphasizing the importance of role models, social influences, and cognitive factors in behavior change [^114B7gyb].
 
 ---
 
-In summary, behaviorism and social learning theory offer distinct perspectives on human behavior. Behaviorism focuses on observable behaviors shaped by environmental stimuli, whereas social learning theory integrates observational learning and cognitive processes, providing a more comprehensive understanding of how individuals learn and behave in social contexts [^7c304dbe].
+In summary, behaviorism and social learning theory offer distinct perspectives on human behavior. Behaviorism focuses on observable behaviors shaped by environmental stimuli, whereas social learning theory integrates observational learning and cognitive processes, providing a more comprehensive understanding of how individuals learn and behave in social contexts [^114B7gyb].
 
 ---
 
 ## References
 
-### Eureka! what is innovation, how does It develop, and who does It? [^d33368e0]. Child Development (2016). Low credibility.
+### Eureka! what is innovation, how does It develop, and who does It? [^116Q7f19]. Child Development (2016). Low credibility.
 
 Theoretical Contributions
 
@@ -136,25 +136,25 @@ Note.
 
 ---
 
-### Feedback redefined: principles and practice [^cf9b0952]. Journal of General Internal Medicine (2019). Medium credibility.
+### Feedback redefined: principles and practice [^116JnWgq]. Journal of General Internal Medicine (2019). Medium credibility.
 
 Feedback is defined as a regulatory mechanism where the effect of an action is fed back to modify and improve future action. In medical education, newer conceptualizations of feedback place the learner at the center of the feedback loop and emphasize learner engagement in the entire process. But, learners reject feedback if they doubt its credibility or it conflicts with their self-assessment. Therefore, attention has turned to sociocultural factors that influence feedback-seeking, acceptance, and incorporation into performance. Understanding and application of specific aspects of psychosocial theories could help in designing initiatives that enhance the effect of feedback on learning and growth. In the end, the quality and impact of feedback should be measured by its influence on recipient behavior change, professional growth, and quality of patient care and not the skills of the feedback provider. Our objective is to compare and contrast older and newer definitions of feedback, explore existing feedback models, and highlight principles of relevant psychosocial theories applicable to feedback initiatives. Finally, we aim to apply principles from patient safety initiatives to emphasize a safe and just culture within which feedback conversations occur so that weaknesses are as readily acknowledged and addressed as strengths.
 
 ---
 
-### The conceptual framework: a practical guide [^a33c88da]. Hospital Pediatrics (2024). Medium credibility.
+### The conceptual framework: a practical guide [^115B1KF7]. Hospital Pediatrics (2024). Medium credibility.
 
 There is no single definition of the conceptual framework (CF) or consensus on how it is best applied in the research process. However, in this piece, the authors argue that the CF is a tool used to link the literature review, research methodology, and study design. The CF grounds the study in the previous literature, theories, and models. It helps the researcher articulate their rationale for why the study should be performed, justify their study design, and describe the lens through which they analyze a phenomenon or research question. Researchers may find the variable use of terms such as theory, theoretical framework, and CF to be confusing. The authors address the distinction between these terms and present strategies to develop and use the CF throughout the research process. The authors provide practical examples and resources for additional learning.
 
 ---
 
-### Consistent individual differences in human social learning strategies [^210fd0d3]. Nature Communications (2014). Medium credibility.
+### Consistent individual differences in human social learning strategies [^111r1uR4]. Nature Communications (2014). Medium credibility.
 
 Social learning has allowed humans to build up extensive cultural repertoires, enabling them to adapt to a wide variety of environmental and social conditions. However, it is unclear which social learning strategies people use, especially in social contexts where their payoffs depend on the behaviour of others. Here we show experimentally that individuals differ in their social learning strategies and that they tend to employ the same learning strategy irrespective of the interaction context. Payoff-based learners focus on their peers' success, while decision-based learners disregard payoffs and exclusively focus on their peers' past behaviour. These individual differences may be of considerable importance for cultural evolution. By means of a simple model, we demonstrate that groups harbouring individuals with different learning strategies may be faster in adopting technological innovations and can be more efficient through successful role differentiation. Our study highlights the importance of individual variation for human interactions and sheds new light on the dynamics of cultural evolution.
 
 ---
 
-### A computational reward learning account of social media engagement [^1ffd6f9b]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^111pRk4r]. Nature Communications (2021). High credibility.
 
 In the present research, we directly test whether social media engagement can be formally characterized as a form of reward learning. By analyzing more than one million posts from over 4000 individual users on multiple distinct social media platforms (see Methods), we assess, using computational modeling, how the putative social rewards received for posts in the past (e.g. the likes received when posting a "selfie") can help explain future behavior. Our computational modeling approach allows us to explicitly test how cross-species reward learning mechanisms contribute to this uniquely human mode of social behavior. We also confirm, using an online experiment resembling common social media platforms (n = 176), that social rewards causally influence behavior as predicted by our reward learning account.
 
@@ -164,13 +164,13 @@ Although this RL theory was developed to explain animal behavior in laboratory t
 
 ---
 
-### Advancing models and theories for digital behavior change interventions [^a895af8e]. American Journal of Preventive Medicine (2016). Low credibility.
+### Advancing models and theories for digital behavior change interventions [^115JwCTX]. American Journal of Preventive Medicine (2016). Low credibility.
 
 To be suitable for informing digital behavior change interventions, theories and models of behavior change need to capture individual variation and changes over time. The aim of this paper is to provide recommendations for development of models and theories that are informed by, and can inform, digital behavior change interventions based on discussions by international experts, including behavioral, computer, and health scientists and engineers. The proposed framework stipulates the use of a state-space representation to define when, where, for whom, and in what state for that person, an intervention will produce a targeted effect. The "state" is that of the individual based on multiple variables that define the "space" when a mechanism of action may produce the effect. A state-space representation can be used to help guide theorizing and identify crossdisciplinary methodologic strategies for improving measurement, experimental design, and analysis that can feasibly match the complexity of real-world behavior change via digital behavior change interventions.
 
 ---
 
-### A revitalized biopsychosocial model: core theory, research paradigms, and clinical implications [^84c88a6b]. Psychological Medicine (2023). Medium credibility.
+### A revitalized biopsychosocial model: core theory, research paradigms, and clinical implications [^114Prj3g]. Psychological Medicine (2023). Medium credibility.
 
 The clearest expression of dualist assumptions in psychology was in behaviorism, which explicitly excluded mental processes from explanations of behavior – a position much like Engel attributed to the BMM. From around the 1960s onwards, however, behaviorism was swept away in the cognitive revolution (Miller; Xiong & Proctor).
 
@@ -182,55 +182,55 @@ The appearance of personal processes in the new psychological science – belief
 
 ---
 
-### Applying social theory to understand health-related behaviours [^40e2c44e]. Medical Humanities (2016). Low credibility.
+### Applying social theory to understand health-related behaviours [^112fCNow]. Medical Humanities (2016). Low credibility.
 
 Health-related behaviours are a concern for contemporary health policy and practice given their association with a range of illness outcomes. Many of the policies and interventions aimed at changing health-related behaviours assume that people are more or less free to choose their behaviour and how they experience health. Within sociology and anthropology, these behaviours are viewed not as acts of choice but as actions and practices situated within a larger sociocultural context. In this paper, we outline three theoretical perspectives useful in understanding behaviours that may influence one's health in this wider context: theories of social practice, social networks and interactionism. We argue that by better understanding how health-related behaviours are performed in people's everyday lives, more suitable interventions and clinical management can be developed.
 
 ---
 
-### A computational reward learning account of social media engagement [^11552979]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^111ShPt4]. Nature Communications (2021). High credibility.
 
 Social media has become a modern arena for human life, with billions of daily users worldwide. The intense popularity of social media is often attributed to a psychological need for social rewards (likes), portraying the online world as a Skinner Box for the modern human. Yet despite such portrayals, empirical evidence for social media engagement as reward-based behavior remains scant. Here, we apply a computational approach to directly test whether reward learning mechanisms contribute to social media behavior. We analyze over one million posts from over 4000 individuals on multiple social media platforms, using computational models based on reinforcement learning theory. Our results consistently show that human behavior on social media conforms qualitatively and quantitatively to the principles of reward learning. Specifically, social media users spaced their posts to maximize the average rate of accrued social rewards, in a manner subject to both the effort cost of posting and the opportunity cost of inaction. Results further reveal meaningful individual difference profiles in social reward learning on social media. Finally, an online experiment (n = 176), mimicking key aspects of social media, verifies that social rewards causally influence behavior as posited by our computational account. Together, these findings support a reward learning account of social media engagement and offer new insights into this emergent mode of modern human behavior.
 
 ---
 
-### Prior preferences beneficially influence social and non-social learning [^cbed9961]. Nature Communications (2017). Medium credibility.
+### Prior preferences beneficially influence social and non-social learning [^116DLJ1e]. Nature Communications (2017). Medium credibility.
 
 Our personal preferences affect a broad array of social behaviors. This includes the way we learn the preferences of others, an ability that often relies on limited or ambiguous information. Here we report an egocentric influence on this type of social learning that is reflected in both performance and response times. Using computational models that combine inter-trial learning and intra-trial choice, we find transient effects of participants' preferences on the learning process, through the influence of priors, and persistent effects on the choice process. A second experiment shows that these effects generalize to non-social learning, though participants in the social learning experiment appeared to additionally benefit by using their knowledge about the popularity of certain preferences. We further find that the domain-general egocentric influences we identify can yield performance advantages in uncertain environments. People often assume that other people share their preferences, but how exactly this bias manifests itself in learning and decision-making is unclear. Here, authors show that a person's own preferences influence learning in both social and non-social situations, and that this bias improves performance.
 
 ---
 
-### Game theory and neural basis of social decision making [^26d0f39d]. Nature Neuroscience (2008). Medium credibility.
+### Game theory and neural basis of social decision making [^111zYiR2]. Nature Neuroscience (2008). Medium credibility.
 
 Decision making in a social group has two distinguishing features. First, humans and other animals routinely alter their behavior in response to changes in their physical and social environment. As a result, the outcomes of decisions that depend on the behavior of multiple decision makers are difficult to predict and require highly adaptive decision-making strategies. Second, decision makers may have preferences regarding consequences to other individuals and therefore choose their actions to improve or reduce the well-being of others. Many neurobiological studies have exploited game theory to probe the neural basis of decision making and suggested that these features of social decision making might be reflected in the functions of brain areas involved in reward evaluation and reinforcement learning. Molecular genetic studies have also begun to identify genetic mechanisms for personal traits related to reinforcement learning and complex social decision making, further illuminating the biological basis of social behavior.
 
 ---
 
-### Teaching professionalism: theory, principles, and practices [^f7ccef0f]. Clinical Orthopaedics and Related Research (2006). Low credibility.
+### Teaching professionalism: theory, principles, and practices [^117LNn3G]. Clinical Orthopaedics and Related Research (2006). Low credibility.
 
 Professionalism as a subject must be taught explicitly. This requires an institutionally accepted definition which then must be learned by both students and faculty. This directs what will be taught, expected, and evaluated. Of equal importance, and more difficult to achieve, is the incorporation of the values and attitudes of professionalism into the tacit knowledge base of physicians in training and in practice. This requires learning experiences which encourage self-reflection on professionalism throughout the continuum of medical education. Because of the great influence of role models and because most physicians do not fully understand professionalism and the obligations required to sustain it, faculty development is essential to the success of any program on professionalism. Also important are strong institutional support including adequate resources, the presence of a longitudinal program which ensures repeated exposure throughout the educational process, a supportive environment, and a system of evaluation which reinforces teaching.
 
 ---
 
-### Social interdependence: interrelationships among theory, research, and practice [^52334fa8]. The American Psychologist (2003). Low credibility.
+### Social interdependence: interrelationships among theory, research, and practice [^1136sDjM]. The American Psychologist (2003). Low credibility.
 
 Social interdependence theory is a classic example of the interaction among theory, research, and practice. The premise of the theory is that the way in which goals are structured determines how individuals interact, which in turn creates outcomes. Over 750 research studies have been conducted in the past 11 decades on the relative merits of cooperative, competitive, and individualistic efforts and the conditions under which each is appropriate. These studies have validated, modified, refined, and extended the theory. Social interdependence theory has been widely applied, especially in education. The applications have resulted in revisions of the theory and the generation of considerable new research.
 
 ---
 
-### Medical training to achieve competency in lifestyle counseling: an essential foundation for prevention and treatment of cardiovascular diseases and other chronic medical conditions: a scientific statement from the American Heart Association [^3f959ca0]. Circulation (2016). Medium credibility.
+### Medical training to achieve competency in lifestyle counseling: an essential foundation for prevention and treatment of cardiovascular diseases and other chronic medical conditions: a scientific statement from the American Heart Association [^112dGURm]. Circulation (2016). Medium credibility.
 
 Behavioral sciences for lifestyle counseling emphasize that educating patients about scientific facts is insufficient to change behavior and that physicians need a fundamental understanding of behavioral science principles with skills to support patients through the lifestyle change process. The behavioral sciences apply systematic methods that test the validity of common sense assumptions and have accumulated evidence enabling prediction and control of behavioral outcomes, with behavior change principles derived from basic science research on learning. Teaching cognitive or behavioral interventions without a background in learning theory is described as analogous to teaching pathophysiology without exposure to basic biological principles. An ecological framework has been proposed to consider cardiovascular disease risk behaviors and to characterize promising interventions at individual, sociocultural, and environmental or policy levels, with the expectation that interventions are maximally effective when they simultaneously and coherently target different levels. At the individual level, rewarded behaviors tend to be repeated and cues that prompt expectations of rewards can trigger craving and pursuit of those rewards.
 
 ---
 
-### Editorial: unraveling the mechanisms of parenting programs in reducing disruptive behavior in children [^7c304dbe]. Journal of the American Academy of Child and Adolescent Psychiatry (2025). Medium credibility.
+### Editorial: unraveling the mechanisms of parenting programs in reducing disruptive behavior in children [^114B7gyb]. Journal of the American Academy of Child and Adolescent Psychiatry (2025). Medium credibility.
 
 Disruptive child behaviors, such as aggression and oppositional behaviors, are the most common problems for which parents seek professional intervention. Historically, mental health professionals primarily addressed problematic behaviors through child therapy, adolescent institutionalization, or juvenile adjudication, all focused exclusively on changing the child's undesirable behaviors. Since the 1960s, researchers have proposed developmental models that highlight the contribution of parenting practices to the genesis, progression, and maintenance of disruptive behaviors across childhood, hence placing parents in the pivotal position as the most important agent of the child's socialization. For instance, Bandura's 1 social learning theory posits that children's learning takes place in the context of parenting and that disruptive behaviors develop and are maintained by coercive parent-child interaction patterns. Accordingly, parenting programs grounded in this theory typically target ineffective parenting skills that constitute dysfunctional learning situations, such as punitive and inconsistent discipline. These theoretical premises have driven a shift in intervention efforts from focusing on changing children's behavior to changing parents' behaviors. Parenting programs have since proliferated, with a burgeoning number of reviews reporting small to moderate effects of these parenting programs. 2 However, more important questions that require further elucidation are why these programs are effective and for whom they are effective.
 
 ---
 
-### A computational reward learning account of social media engagement [^82c55e40]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^114LsggF]. Nature Communications (2021). High credibility.
 
 Discussion
 
@@ -242,7 +242,7 @@ Our computational model of social media behavior draws from RL theory originally
 
 ---
 
-### A computational reward learning account of social media engagement [^a518f1c4]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^115DmLTM]. Nature Communications (2021). High credibility.
 
 We simulated the model (~250,000 data points from 1000 simulated users, with random parameter values, see Supplementary Methods for details) to generate predictions for reward learning on social media. According to learning theory, τ Post should be lower when the average reward rate is relatively higher. To verify this prediction in a simple manner, we rank-transformed and standardizedfor each synthetic user and then dichotomized the variable at 0 to produce a qualitative "Low vs High" predictor (nearly identical results are observed with other definitions, see Supplementary Table 7). To facilitate subsequent comparison with empirical analyses, we summarized the simulated data using mixed-effects models. These analyses revealed a clear effect of low vs. highon τ Post (β = 0.18, SE = 0.007, t = 31, p < 0001), as expected. In other words, the model predicts (given the set of simulation parameters) that average response latencies should be ~18% longer when the average reward rate is low versus high (see Fig. 1e).
 
@@ -250,25 +250,25 @@ Our empirical analysis of the four social media platforms tested these model-bas
 
 ---
 
-### Learning under social versus nonsocial uncertainty: a meta-analytic approach [^3d44dc9b]. Human Brain Mapping (2022). Medium credibility.
+### Learning under social versus nonsocial uncertainty: a meta-analytic approach [^112ZqNj4]. Human Brain Mapping (2022). Medium credibility.
 
 In particular, we investigate learning processes which involve updating state variables, such as values, through information acquired by way of repeated observation of other's actions, as opposed to through verbal or any kind of explicit instructions. These are typically behaviorally relevant variables — internal or derived from any sensory mode — that can be estimated as a statistic (in practice, the mean) of a univariate probability distribution. This includes reward/subjective utility, monetary value, appetitive and/or aversive states (Seymour et al.), unsigned reward/saliency (Metereau & Dreher,), probabilities of extrinsically non‐rewarded stimuli (Rodriguez et al.), choice probabilities of other persons (Vanyukov et al.), observational (as opposed to experiential) learning (Dunne et al.), classical conditioning of items with emotionally salient others (Bray & O'Doherty; Watanabe et al.), trustworthiness, and so on. These variables underpin value‐based decision making in a wide range of situations, typically in the context of a time‐evolving stochastic learning process, and in particular in learning process where the added uncertainty of social intermediaries hinders precise estimation of state values. Here, we will focus on the effects of uncertainty that has a social component on learning (e.g. emotional faces modulating learning of aversive signals; Robinson et al.). This occurs, for example, in observational learning, and in any situation that requires deploying abilities pertaining to theory of mind (Yoshida et al.), such as learning to predict other's preferences and behaviors. Knowing whom to trust (King‐Casas et al.), financial markets (Lohrenz et al; Burke, Tobler, Baddeley, et al; Burke, Tobler, Schultz, et al.), beauty contests (Coricelli & Nagel,), poker, and in general any dynamically evolving game as long as it involves learning from other's actions or assessing the "social temperature" of groups of conspecifics, hinge on such learning processes.
 
 ---
 
-### Behavioral intervention for the treatment of obesity: strategies and effectiveness data [^4a7847b4]. The American Journal of Gastroenterology (2007). Low credibility.
+### Behavioral intervention for the treatment of obesity: strategies and effectiveness data [^112uQV6j]. The American Journal of Gastroenterology (2007). Low credibility.
 
 The obesity epidemic has been recognized in the professional and lay public as a major health problem in the United States and many other cultures. The gastroenterology literature has recently paid attention to this problem, focusing primarily on either physiological mechanisms of obesity or surgical remedies for obesity. However, behavioral strategies developed from social learning theory have been the most thoroughly tested interventions for the treatment of obesity, as well as the interventions shown most clearly to have clinical benefit. Nevertheless, descriptions of behavioral techniques and their theoretical underpinnings have been minimal in the gastroenterology literature. Here, a brief history and presentation of the theoretical underpinnings of behavioral strategies for obesity management is summarized, emphasizing some of the key components, treatment effectiveness data, and needed areas for further research. Overall, it is concluded that behavior therapy is both the most studied and most effective therapy for treating obesity at present. Gastroenterologists are encouraged to use it as a first line of treatment for most obese patients, and as a key component of therapies that involve pharmacologic and surgical components.
 
 ---
 
-### Integrating different perspectives on socialization theory and research: a domain-specific approach [^f4fb706c]. Child Development (2010). Low credibility.
+### Integrating different perspectives on socialization theory and research: a domain-specific approach [^117GCSC3]. Child Development (2010). Low credibility.
 
 There are several different theoretical and research approaches to the study of socialization, characterized by frequently competing basic tenets and apparently contradictory evidence. As a way of integrating approaches and understanding discrepancies, it is proposed that socialization processes be viewed from a domain perspective, with each domain characterized by a particular form of social interaction between the object and agent of socialization and by specific socialization mechanisms and outcomes. It is argued that this approach requires researchers to identify the domain of social interaction they are investigating, to understand that phenotypically similar behaviors may belong to different domains, and to acknowledge that caregivers who are effective in one type of interaction may not be effective in another.
 
 ---
 
-### A computational reward learning account of social media engagement [^72a3bb9d]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^113vxauA]. Nature Communications (2021). High credibility.
 
 Social rewards predict social media posting
 
@@ -278,13 +278,13 @@ First, we drew inspiration from classic work in animal learning theory, which es
 
 ---
 
-### Social inequity disrupts reward-based learning [^0a86a177]. Communications Psychology (2025). Medium credibility.
+### Social inequity disrupts reward-based learning [^111Gc6dt]. Communications Psychology (2025). Medium credibility.
 
 Through reward-based learning, people learn which actions generate which outcomes in which situations. What happens to human reward-based learning when outcomes are shared? Here we show that learning is impacted by inequity in the distribution of rewards (self-other) and others' identity. In three experiments, participants could learn how different actions, in response to different stimuli, generated different monetary rewards, each split between the participant and a member of a particular social group. Overall, participants learned more slowly and less successfully when they received a smaller (vs larger) share of the total reward. Stereotypes about the partner's social group additionally modulated learning rates when cognitive load was reduced, with lower perceived warmth or competence hampering learning from the partner's share. Computational modeling showed participants' learning was best explained by adapting the standard reinforcement learning model to account for stereotypes and inequity information, demonstrating that social context modulates non-social learning processes.
 
 ---
 
-### A computational reward learning account of social media engagement [^b23765dd]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^115ZDQQC]. Nature Communications (2021). High credibility.
 
 Reward learning processes on social media platforms should also be evident in behavior. Indeed, the receipt of likes has behavioral consequences consistent with reward learning. For example, the number of likes received for a post predicts satisfaction with that post, and in turn, more self-reported happiness. Similarly, a user's social media activity increases after a post, suggestive of reward anticipation, and users provide more social feedback to others after receiving feedback themselves. In addition to its direct effect on reward, the subjective value of likes is also influenced by social comparison in a way similar to non-social rewards, suggesting that social rewards, just like non-social rewards, might be relative, rather than absolute in nature. Together, these existing studies support the idea that social media engagement reflects reward mechanisms.
 
@@ -292,7 +292,7 @@ However, as most studies of online social rewards to date utilize self-report me
 
 ---
 
-### Demystifying theory and its use in improvement [^de41e07a]. BMJ Quality & Safety (2015). Medium credibility.
+### Demystifying theory and its use in improvement [^116gWNws]. BMJ Quality & Safety (2015). Medium credibility.
 
 Developing and applying programme theory
 
@@ -300,19 +300,19 @@ Developing a programme theory might, at first sight, appear daunting. But many o
 
 ---
 
-### Psychology and social networks: a dynamic network theory perspective [^3287af6b]. The American Psychologist (2014). Low credibility.
+### Psychology and social networks: a dynamic network theory perspective [^112HuxTC]. The American Psychologist (2014). Low credibility.
 
 Research on social networks has grown exponentially in recent years. However, despite its relevance, the field of psychology has been relatively slow to explain the underlying goal pursuit and resistance processes influencing social networks in the first place. In this vein, this article aims to demonstrate how a dynamic network theory perspective explains the way in which social networks influence these processes and related outcomes, such as goal achievement, performance, learning, and emotional contagion at the interpersonal level of analysis. The theory integrates goal pursuit, motivation, and conflict conceptualizations from psychology with social network concepts from sociology and organizational science to provide a taxonomy of social network role behaviors, such as goal striving, system supporting, goal preventing, system negating, and observing. This theoretical perspective provides psychologists with new tools to map social networks (e.g., dynamic network charts), which can help inform the development of change interventions. Implications for social, industrial-organizational, and counseling psychology as well as conflict resolution are discussed, and new opportunities for research are highlighted, such as those related to dynamic network intelligence (also known as cognitive accuracy), levels of analysis, methodological/ethical issues, and the need to theoretically broaden the study of social networking and social media behavior. (PsycINFO Database Record (c) 2014 APA, all rights reserved).
 
 ---
 
-### Adaptive mechanisms of social and asocial learning in immersive collective foraging [^8524e35b]. Nature Communications (2025). High credibility.
+### Adaptive mechanisms of social and asocial learning in immersive collective foraging [^114QPk7t]. Nature Communications (2025). High credibility.
 
 Human cognition is distinguished by our ability to adapt to different environments and circumstances. Yet the mechanisms driving adaptive behavior have predominantly been studied in separate asocial and social contexts, with an integrated framework remaining elusive. Here, we use a collective foraging task in a virtual Minecraft environment to integrate these two fields, by leveraging automated transcriptions of visual field data combined with high-resolution spatial trajectories. Our behavioral analyses capture both the structure and temporal dynamics of social interactions, which are then directly tested using computational models sequentially predicting each foraging decision. These results reveal that adaptation mechanisms of both asocial foraging and selective social learning are driven by individual foraging success (rather than social factors). Furthermore, it is the degree of adaptivity-of both asocial and social learning-that best predicts individual performance. These findings not only integrate theories across asocial and social domains, but also provide key insights into the adaptability of human decision-making in complex and dynamic social landscapes.
 
 ---
 
-### Evidence from a long-term experiment that collective risks change social norms and promote cooperation [^82102cb7]. Nature Communications (2021). High credibility.
+### Evidence from a long-term experiment that collective risks change social norms and promote cooperation [^114Kppk6]. Nature Communications (2021). High credibility.
 
 Discussion
 
@@ -320,13 +320,13 @@ Consistent with our hypotheses, we find greater cooperation and stronger social 
 
 ---
 
-### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^49eb20ea]. Communications Psychology (2024). Medium credibility.
+### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^112tb5FF]. Communications Psychology (2024). Medium credibility.
 
 The current approach for computing social value focuses primarily on how people prioritize and choose to engage in various behaviors with others. While this approach generated estimates of social value that effectively predicted people's actual behavior in decision-making tasks and their scores on relevant self-report measures, it does not consider all possible features that might contribute to social value. For example, the value that one ascribes to a given social partner could also be shaped by how that person serves one's goals. Indeed, interpersonal relationships have been theorized as means to individual goals –, whether they be economic (e.g. financial security), biological (e.g. having children), or psychological (e.g. companionship). Thus, in the future, the current method could be extended by incorporating information about how people prioritize different goals and the relevance of various behaviors to those goals. Correspondingly, our approach could also be applied to provide enriched mechanistic specificity for such theories of interpersonal relationships that emphasize relationship partners as means to individual goals. Explicitly assigning value to relationship partners may be one way to more formally quantify these theories. We emphasize that our method is intended to be a first step in attempting to define and measure the value of one's specific interpersonal relationships. We acknowledge that it is necessary to develop and evaluate other approaches that 'stress test' some of the assumptions that were made here (e.g. approaches that take into account that the relationship between the social value and activities with others is inevitably bidirectional, subject to contextual factors, and so on).
 
 ---
 
-### "Love me, parents! ": impact evaluation of a national social and behavioral change communication campaign on maternal health outcomes in tanzania [^511490ca]. BMC Pregnancy and Childbirth (2017). Low credibility.
+### "Love me, parents! ": impact evaluation of a national social and behavioral change communication campaign on maternal health outcomes in tanzania [^1135CuUd]. BMC Pregnancy and Childbirth (2017). Low credibility.
 
 The campaign's design was informed by Social Cognitive Theory, which emphasizes the importance of reciprocal determinism: while environmental factors influence groups and individuals, individuals and groups can also influence their environments and regulate their own behavior. The theory considers both a person's individual capacity to interact with their environment, as well as the capacity for collective action to bring about a desired outcome within a particular group. A key component of the theory is observational learning, in which one learns to perform new behaviors by exposure to interpersonal or media portrayals of the behaviors, especially through modeling by peers whom the observers feel are similar to themselves. Attention, retention, production, and motivation are important processes within observational learning.
 
@@ -334,7 +334,7 @@ Key behaviors targeted by the Wazazi Nipendeni campaign were depicted in scenari
 
 ---
 
-### Insights on exclusive breastfeeding norms in kinshasa: findings from a qualitative study [^73849886]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Insights on exclusive breastfeeding norms in kinshasa: findings from a qualitative study [^113xG7am]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Theories of individual health behavior, primarily the Integrated Behavioral Model, Social Learning Theory, Social Network Theory and Social Norm Theory, highlight the relevance of perceived social norms for an individual's behavioral beliefs, intentions, and actions. Social Norms Theory states that much of people's behavior is influenced by their (mis)perceptions of what other members in their social group think and do. People tend to follow a behavior if they believe that others in their social group follow it due to a desire to fit in or imitate the behavior of others. The social norms approach makes a distinction between descriptive norms (perceptions about what most individuals in a social group do) and injunctive norms (perceived approval or disapproval of a behavior by members of a social group). According to Social Norms Theory, an individual's preference to conform to a social norm is conditioned on two beliefs: (1) that a sufficiently large number of people in his/her relevant social group conform to the social norm, referred to as empirical expectations; and (2) that a sufficiently large number of people in their relevant social group think he/she ought to conform to the behavior, referred to as normative expectations.
 
@@ -342,19 +342,19 @@ While social norms around health behaviors such as alcohol consumption, intimate
 
 ---
 
-### What can dependence theories tell us about assessing the emergence of tobacco dependence? [^ee6db60a]. Addiction (2004). Low credibility.
+### What can dependence theories tell us about assessing the emergence of tobacco dependence? [^1176UuR3]. Addiction (2004). Low credibility.
 
 Little is known about the processes that underlie changes in smoking that occur between the first use of a cigarette, subsequent regular use and eventual addictive use. At present, assessments of those critical processes are poorly developed and not strongly informed by contemporary models of drug dependence. The preceding three papers in this special issue address explicitly how modern drug-dependence theories describe the emergence of drug dependence and the implications of those theories for assessment. The papers covered three domains of theories: negative reinforcement, positive reinforcement, and cognitive and social learning. In this paper, we summarize these reviews and extract general themes and issues that emerge across all the articles. These include: (1) the importance of learning processes; (2) limitations of self-report measures; (3) the view of dependence as a process and not a state; (4) the conception of dependence on a continuum in contrast to the conventional perspective of tobacco dependence as a natural category; (5) the ontological status of the dependence concept; (6) limitations of backward extrapolations from adult assessments; (7) the possibility of multiple dimensions or forms of dependence; and (8) the value of a transdisciplinary approach when studying the emergence of tobacco dependence.
 
 ---
 
-### Modules, theories, or islands of expertise? Domain specificity in socialization [^2b05dd9a]. Child Development (2010). Low credibility.
+### Modules, theories, or islands of expertise? Domain specificity in socialization [^1126nSPb]. Child Development (2010). Low credibility.
 
 The domain-specific approach to socialization processes presented by J. E. Grusec and M. Davidov (this issue) provides a compelling framework for integrating and interpreting a large and disparate body of research findings, and it generates a wealth of testable new hypotheses. At the same time, it introduces core theoretical questions regarding the nature of social interactions, from the perspective of both children and their caregivers. This commentary draws on the literature regarding domain specificity in cognitive development, applauds what is innovative and exciting about applying a domain-specific approach to socialization processes, and points to questions for future research. Foremost among these is what is meant by "domain specificity".
 
 ---
 
-### Using theories of behaviour change to inform interventions for addictive behaviours [^c214564d]. Addiction (2010). Low credibility.
+### Using theories of behaviour change to inform interventions for addictive behaviours [^115xjRsS]. Addiction (2010). Low credibility.
 
 Aims
 
@@ -374,13 +374,13 @@ There are a range of theories in the field of behaviour change that can be appli
 
 ---
 
-### The role of behavioural theories in educational interventions for paediatric asthma [^c18423d1]. Paediatric Respiratory Reviews (2003). Low credibility.
+### The role of behavioural theories in educational interventions for paediatric asthma [^115wtzgY]. Paediatric Respiratory Reviews (2003). Low credibility.
 
 Controlling paediatric respiratory disease requires a significant change in the behaviour of all stakeholders: patient, family, clinician, community and health system. The good management of asthma by patients requires that they learn what works and does not work for them given their particular circumstances. Asthma interventions can help patients to improve their self-regulation and achieve better health status, quality of life and personal goals. Many asthma interventions do not, however, achieve change because they are not based on sound theories of behaviour. They fail to teach patients how to observe, judge and react appropriately to their change efforts. Successful interventions have been based on theoretical principles and have generally combined strategies for preventing and managing an asthma episode and managing the social and behavioural factors associated with the disease.
 
 ---
 
-### Using the multiple streams model to elicit an initial programme theory: from policy dialogues to a roadmap for scaling up integrated care [^44cf702c]. BMJ Global Health (2023). High credibility.
+### Using the multiple streams model to elicit an initial programme theory: from policy dialogues to a roadmap for scaling up integrated care [^112m1qPH]. BMJ Global Health (2023). High credibility.
 
 A realist mechanism is less easily defined. According to Pawson and Tilley, mechanisms are a combination of resources (eg, components of an intervention) and reasoning and/or responses (eg, the perceptions of participants). This definition highlights the importance of examining how interventions are received as opposed to merely considering how they are intended. Westhorp argues the usefulness of four additional types of constructs: powers and liabilities (eg, motivation, individual learning, and making agreements and laws), forces (exerting pressure, for example, peer pressure, laws and regulations), interactions (eg, a contract), and feedback and feedforward processes (eg, negotiation). These constructs of mechanisms are at work at different levels of (material; psychological/cognitive; social/group and social/institutional) systems. Hence, in this study, we consider mechanisms as underlying processes related to multiple contextual levels, that is, the reasoning and responses of individual and groups of stakeholders, as well as to power and resources of societal institutions.
 
@@ -388,7 +388,7 @@ Central to the realist method of inquiry is abductive and retroductive reasoning
 
 ---
 
-### Development of tools to study personal weight control strategies: OxFAB taxonomy [^683018c1]. Obesity (2016). Low credibility.
+### Development of tools to study personal weight control strategies: OxFAB taxonomy [^113fTsJp]. Obesity (2016). Low credibility.
 
 Evaluating the taxonomy in light of existing theory
 
@@ -407,13 +407,13 @@ Once the working taxonomy was agreed, the 117 strategies were translated into a 
 
 ---
 
-### The neurobiology of rewards and values in social decision making [^40beedf6]. Nature Reviews: Neuroscience (2014). Medium credibility.
+### The neurobiology of rewards and values in social decision making [^112ezLeH]. Nature Reviews: Neuroscience (2014). Medium credibility.
 
 How does our brain choose the best course of action? Choices between material goods are thought to be steered by neural value signals that encode the rewarding properties of the choice options. Social decisions, by contrast, are traditionally thought to rely on neural representations of the self and others. However, recent studies show that many types of social decisions may also involve neural value computations. This suggests a unified mechanism for motivational control of behaviour that may incorporate both social and non-social factors. In this Review, we outline a theoretical framework that may help to identify possible overlaps and differences between the neural processes that guide social and non-social decision making.
 
 ---
 
-### Learning under social versus nonsocial uncertainty: a meta-analytic approach [^105e1dd3]. Human Brain Mapping (2022). Medium credibility.
+### Learning under social versus nonsocial uncertainty: a meta-analytic approach [^111RGR3g]. Human Brain Mapping (2022). Medium credibility.
 
 There are other conceivable explanations for our not finding more evidence of dissociation between learning under conditions of social and nonsocial uncertainty. First, we focused specifically on error signal events that occur exclusively during feedback; this precluded the detection of many putative learning mechanisms occurring after feedback. Second, our focus on uncertainty of social origin and on learning mechanisms severely limited the number of eligible studies, compared with similarly‐themed meta‐analyses. For example, Chase et al. conducted a meta‐analysis of all tasks encompassing RL modeling, thus bringing to bear a broader selection of fMRI studies. However, their definition of PE was narrower, since we regarded as PE any learned variable resting on interactions with a conspecific, regardless of whether subjects were modeled as RL algorithms. Also, their definition of SPE was predicated on the content of reward itself (social or nonsocial), whereas ours was predicated on the source of noise. This is presumably the cause underlying the disparity between results; such as the absence of frontal operculum and insula regions in the subgroup analyses. Third, since BOLD signals reflect current input similarly to local field potentials (Logothetis,), it is possible that there exist more areas functionally segregated by sociality from which efferent signals contribute to the learning signals found in the striatum. However, the literature suggests that contributions from regions affording contextual or value signals are likely to be from regions not directly involved in learning, but in temporally persistent representations, that can modulate learning, like TPJ (Zhang & Gläscher).
 
@@ -421,37 +421,37 @@ In conclusion, most of the neural circuitry in value learning and representation
 
 ---
 
-### Enculturating science: community-centric design of behavior change interactions for accelerating health impact [^a63b0212]. Seminars in Perinatology (2015). Low credibility.
+### Enculturating science: community-centric design of behavior change interactions for accelerating health impact [^115FSmMK]. Seminars in Perinatology (2015). Low credibility.
 
 Despite significant advancements in the scientific evidence base of interventions to improve newborn survival, we have not yet been able to "bend the curve" to markedly accelerate global rates of reduction in newborn mortality. The ever-widening gap between discovery of scientific best practices and their mass adoption by families (the evidence-practice gap) is not just a matter of improving the coverage of health worker-community interactions. The design of the interactions themselves must be guided by sound behavioral science approaches such that they lead to mass adoption and impact at a large scale. The main barrier to the application of scientific approaches to behavior change is our inability to "unbox" the "black box" of family health behaviors in community settings. The authors argue that these are not black boxes, but in fact thoughtfully designed community systems that have been designed and upheld, and have evolved over many years keeping in mind a certain worldview and a common social purpose. An empathetic understanding of these community systems allows us to deconstruct the causal pathways of existing behaviors, and re-engineer them to achieve desired outcomes. One of the key reasons for the failure of interactions to translate into behavior change is our failure to recognize that the content, context, and process of interactions need to be designed keeping in mind an organized community system with a very different worldview and beliefs. In order to improve the adoption of scientific best practices by communities, we need to adapt them to their culture by leveraging existing beliefs, practices, people, context, and skills. The authors present a systems approach for community-centric design of interactions, highlighting key principles for achieving intrinsically motivated, sustained change in social norms and family health behaviors, elucidated with progressive theories from systems thinking, management sciences, cross-cultural psychology, learning and social cognition, and the behavioral sciences. These are illustrated through a case study of designing effective interactions in Shivgarh, India, that led to rapid and substantial changes in newborn health behaviors and reduction in NMR by half over a span of 16 months.
 
 ---
 
-### Beliefs about moral obligation structure children's social category-based expectations [^ba1084f0]. Child Development (2020). Medium credibility.
+### Beliefs about moral obligation structure children's social category-based expectations [^115krFEo]. Child Development (2020). Medium credibility.
 
 Young children view social category members as morally obligated toward one another, and expect these obligations to shape people's social behavior. The present work investigates how children specify which behaviors are constrained by social categories in this way. In two studies (N = 128), 4- and 5-year-old children predicted that morally positive behaviors would be directed toward in-group members, and that morally negative behaviors would be directed toward out-group members, but did not hold equally strong expectations about behaviors described as positive or negative for reasons irrelevant to morality. Thus, notions of morality are embedded within children's representations of social categories, such that when learning about novel moral norms, children immediately expect those obligations to uniquely hold within social groups.
 
 ---
 
-### School health guidelines to promote healthy eating and physical activity [^5d76a285]. MMWR: Recommendations and Reports (2011). Medium credibility.
+### School health guidelines to promote healthy eating and physical activity [^113PZhQG]. MMWR: Recommendations and Reports (2011). Medium credibility.
 
 School health education curricula — consistency with scientific evidence: Health education curricula, regardless of the topic, should reflect the research that emphasizes teaching functional health information, shaping personal values that support healthy behaviors, shaping group norms that value a healthy lifestyle, and developing essential health skills necessary to adopt and maintain health-enhancing behaviors. Health education curricula and materials should be based on theories of behavior change and should focus on clear health goals and specific behavioral outcomes; be research-based and theory-driven; address individual values and group norms that support health-enhancing behaviors; address social pressures and influences; build personal competence, social competence, and increase confidence in skills; provide functional health knowledge that is basic and accurate and directly contributes to health-promoting decisions and behaviors; provide age-appropriate and developmentally appropriate information, learning strategies, teaching methods, and materials; and incorporate learning strategies, teaching methods, and materials that are culturally inclusive.
 
 ---
 
-### Social learning of fear [^74bbe50c]. Nature Neuroscience (2007). Medium credibility.
+### Social learning of fear [^113z4gB5]. Nature Neuroscience (2007). Medium credibility.
 
 Research across species highlights the critical role of the amygdala in fear conditioning. However, fear conditioning, involving direct aversive experience, is only one means by which fears can be acquired. Exploiting aversive experiences of other individuals through social fear learning is less risky. Behavioral research provides important insights into the workings of social fear learning, and the neural mechanisms are beginning to be understood. We review research suggesting that an amygdala-centered model of fear conditioning can help to explain social learning of fear through observation and instruction. We also describe how observational and instructed fear is distinguished by involvement of additional neural systems implicated in social-emotional behavior, language and explicit memory, and propose a modified conditioning model to account for social fear learning. A better understanding of social fear learning promotes integration of biological principles of learning with cultural evolution.
 
 ---
 
-### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^e38dd01e]. Communications Psychology (2024). Medium credibility.
+### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^116pMpi9]. Communications Psychology (2024). Medium credibility.
 
 The idea that individuals ascribe value to social phenomena, broadly construed, is well-established. Despite the ubiquity of this concept, defining social value in the context of interpersonal relationships remains elusive. This is notable because while prominent theories of human social behavior acknowledge the role of value-based processes, they mostly emphasize the value of individual actions an agent may choose to take in a given environment. Comparatively little is known about how humans value their interpersonal relationships. To address this, we devised a method for engineering a behavioral signature of social value in several independent samples (total N = 1111). Incorporating the concept of opportunity cost from economics and data-driven quantitative methods, we derived this signature by sourcing and weighting a range of social behaviors based on how likely individuals are to prioritize them in the face of limited resources. We examined how strongly the signature was expressed in self-reported social behaviors with specific relationship partners (a parent, close friend, and acquaintance). Social value scores track with other aspects of these relationships (e.g. relationship quality, aversion to losing relationship partners), are predictive of decision preferences on a range of tasks, and display good psychometric properties. These results provide greater mechanistic specificity in delineating human value-based behavior in social contexts and help parse the motivational relevance of the different facets that comprise interpersonal relationships.
 
 ---
 
-### A computational reward learning account of social media engagement [^3658ec8f]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^112PaCbg]. Nature Communications (2021). High credibility.
 
 Study 2: Social comparison in social reward learning
 
@@ -465,7 +465,7 @@ More specifically, we used the three parameters of the originalmodel estimated f
 
 ---
 
-### The effect of the model's social status on placebo analgesia induced by social observational learning [^8a602dcf]. Pain Medicine (2022). Medium credibility.
+### The effect of the model's social status on placebo analgesia induced by social observational learning [^114Y9bcA]. Pain Medicine (2022). Medium credibility.
 
 Third, the fact that we did not find a difference between the HSM and LSM groups could also be explained by the nature of pain, which is a basic adaptive reaction that is common to animals and people and that informs them about potential dangers, thereby increasing the likelihood of survival. Therefore, information about painful stimulation might be important enough to arouse vigilance and influence attentional and motivational processes, regardless of the social status of the person from whom it is coming. According to social learning theory, these processes influence the efficacy of learning, which could explain why the analgesic effect was similar in both groups.
 
@@ -473,13 +473,13 @@ Nevertheless, our study is the first to show that the perceived social status of
 
 ---
 
-### Self-utility distance as a computational approach to understanding self-concept clarity [^4d17c7b7]. Communications Psychology (2025). Medium credibility.
+### Self-utility distance as a computational approach to understanding self-concept clarity [^112yJ2yU]. Communications Psychology (2025). Medium credibility.
 
 Drawing on insights from research in self-concept dynamics, personality psychology, and reinforcement learning, we introduce 'Self-Utility Distance' as a predictor and potential mechanism related to Self-Concept Clarity. Self-utility distance encapsulates the dissimilarity between individuals' current self-concept — comprising various personality traits such as 'Sociable' or 'Anxious' — and their subjective estimations of how these personal characteristics contribute to maximizing the rewards or avoiding the negative outcomes available in their current environments. Put simply, Self-Utility Distance reflects the distance between current self-attributes and their 'expected utility values'. As an example of high Self-Utility Distance, consider an individual who identifies strongly as being "independent" (e.g. tends to be self-reliant, tends to work autonomously, likes to do plans by herself). If this person is part of a work culture that heavily emphasizes teamwork and collaborative processes (e.g. frequent team meetings, shared projects, group work), they might perceive a low utility in their independence, seeing it as less conducive to gaining rewards (e.g. team-based bonuses, promotions) or avoiding negative outcomes (e.g. job loss). Conversely (low Self-Utility Distance), If the individual works in a setting that values autonomous work (e.g. remote work, flexible project choices), their independent nature would align closely with the environment's demands. In this context, the individual might perceive high utility in their independence, as it might enhance their ability to achieve rewards (e.g. recognition for individual contributions, opportunities for self-directed projects) and prevent negative outcomes (e.g. conflicts over team roles). Although its definition might vary slightly across fields, utility is a measure reflecting the expected cumulative rewards associated with a particular state, decision, or action. Reinforcement learning (RL) models capitalize on the notion that utility computations guide individuals' adaptation strategies by helping them select sets of behaviors (referred to as policies in RL) that maximize long-term cumulative rewards. Through interactions with their environment, individuals learn to update their utility estimates and optimize their behavior accordingly, bolstering adaptation. For example, an RL agent might learn that a more competitive strategy yields higher rewards than a cooperative one and progressively adjust its policy. In this context, difficulties in meeting environmental demands are typically seen as resulting from inadequate learning or holding an inaccurate or incomplete model of the environment. These principles share some parallels with other theories strongly focused on how biological agents update their models of the world to promote adaptation. Despite the theoretical and mathematical elegance of RL models and their successful application for explaining a multitude of phenomena, they remain limited to explaining human adaptation to real-life situations.
 
 ---
 
-### Preventing gender-based violence: a global imperative [^c86a86cd]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### Preventing gender-based violence: a global imperative [^11688Jfe]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 2 THE GROWING CRISIS OF GENDER‐BASED VIOLENCE
 
@@ -493,7 +493,7 @@ Regardless of its origin, men's violent behavior is definitely not inevitable, a
 
 ---
 
-### Patterns of social connection among older adults in england [^101c5ff3]. JAMA Network Open (2024). High credibility.
+### Patterns of social connection among older adults in england [^111QtLJ6]. JAMA Network Open (2024). High credibility.
 
 The existence of this multitude of different social connection frameworks has led to 3 key research challenges. First, it is unclear whether different individuals display differential patterns of social connection, as previously hypothesized. Second, it is unclear whether any differences in these patterns are associated with health-related outcomes. In other words, are some patterns of social connection more strongly linked to morbidity or mortality than others? Third, given a lack of consensus about the empirical validity of one theoretical model over another, most empirical studies focused on a single or few individual concepts of social connection, rather than understanding in full detail the interrelationships between social connection components and their health impacts. As a result, the existing empirical evidence on social connection and its health impact is generally piecemeal and fragmented.
 
@@ -501,7 +501,7 @@ Therefore, this study aimed to provide a data-driven approach to understand soci
 
 ---
 
-### Improving theories of health behavior&theory at a glance… [^f2f9a7b4]. cancercontrol.cancer.gov (2020). Medium credibility.
+### Improving theories of health behavior&theory at a glance… [^117DDrsV]. cancercontrol.cancer.gov (2020). Medium credibility.
 
 The literature on health behavior is large, but progress in understanding health behaviors and in learning how to encourage such actions is not always apparent. Among the activities that may be considered are training in theory development and testing for health behavior researchers, recruiting scientists with strong theory orientations to cancer behavior research, development of state-of-the-art summaries of theory-relevant topics, and better communication of opportunities for theory-focused research. Selected Past Activities Report Theory at a Glance: Application to Health Promotion and Health Behavior, describes influential theories of health-related behaviors, processes of shaping behavior, and the effects of community and environmental factors on behavior.
 
@@ -509,7 +509,7 @@ It complements existing resources that offer tools, techniques, and model progra
 
 ---
 
-### Theory-based interventions for contraception [^e4832842]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Theory-based interventions for contraception [^116qnEQH]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -541,13 +541,13 @@ The overall quality of evidence was moderate. Trials based on social cognitive t
 
 ---
 
-### Game theoretical inference of human behavior in social networks [^84fa5884]. Nature Communications (2019). High credibility.
+### Game theoretical inference of human behavior in social networks [^114Q9TKy]. Nature Communications (2019). High credibility.
 
 Social networks emerge as a result of actors' linking decisions. We propose a game-theoretical model of socio-strategic network formation on directed weighted graphs, in which every actors' benefit is a parametric trade-off between centrality measure, brokerage opportunities, clustering coefficient, and sociological network patterns. We use two different stability definitions to infer individual behavior of homogeneous, rational agents from network structure, and to quantify the impact of cooperation. Our theoretical analysis confirms results known for specific network motifs studied previously in isolation, yet enables us to precisely quantify the trade-offs in the space of user preferences. To deal with complex networks of heterogeneous and irrational actors, we construct a statistical behavior estimation method using Nash equilibrium conditions. We provide evidence that our results are consistent with empirical, historical, and sociological observations on real-world data-sets. Furthermore, our method offers sociological and strategic interpretations of random networks models, such as preferential attachment and small-world networks.
 
 ---
 
-### Development of tools to study personal weight control strategies: OxFAB taxonomy [^b66bea1b]. Obesity (2016). Low credibility.
+### Development of tools to study personal weight control strategies: OxFAB taxonomy [^115fSzdg]. Obesity (2016). Low credibility.
 
 Results
 
@@ -565,7 +565,7 @@ Participant characteristics: field testing (completed first questionnaire, n = 1
 
 ---
 
-### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^98819b8a]. Communications Psychology (2024). Medium credibility.
+### A behavioral signature for quantifying the social value of interpersonal relationships with specific others [^114u6eo3]. Communications Psychology (2024). Medium credibility.
 
 Discussion
 
@@ -575,7 +575,7 @@ These results complement the vast literature on value-based human behavior. Prom
 
 ---
 
-### Testing the reinforcement learning hypothesis of social conformity [^17353860]. Human Brain Mapping (2021). Medium credibility.
+### Testing the reinforcement learning hypothesis of social conformity [^111bQbJ7]. Human Brain Mapping (2021). Medium credibility.
 
 However, importantly, there are at least two reasons to believe that the hypothesis is too simplistic. First, in the context of the original social conformity task (Klucharev et al. 2009), the idea that social conflict is the same as prediction error implies that participants expect that the group's rating is always the same as their ratings, which seems highly unlikely. In fact, using a similar social conformity paradigm, we had previously asked participants to guess the group ratings, but their expectations of group ratings were not related to their own ratings (Izuma & Adolphs, 2013). In other words, the social conformity task was not perceived as a learning task (i.e. learning preferences of a group) by participants. If so, underlying computations are likely to be different between social conformity and reinforcement learning. Second, another important difference is that while striatal activity is positively related to signed prediction error during the reinforcement learning task (i.e. actual vs. expected rewards), it is negatively related to social conflict during the social conformity task (i.e. the absolute difference between one's vs. group's rating). This negative correlation with social conflict in the social conformity task corresponds to a negative correlation with unsigned prediction error in the reinforcement learning task (i.e. the absolute difference between actual vs. expected rewards). Thus, although the same striatal region is involved in both tasks, signals related to its activity are conceptually different between the two tasks.
 
@@ -583,13 +583,13 @@ The reinforcement learning hypothesis of social conformity suggests an interesti
 
 ---
 
-### The development of human social learning across seven societies [^c77d3a8f]. Nature Communications (2018). Medium credibility.
+### The development of human social learning across seven societies [^1166kbjU]. Nature Communications (2018). Medium credibility.
 
 Social information use is a pivotal characteristic of the human species. Avoiding the cost of individual exploration, social learning confers substantial fitness benefits under a wide variety of environmental conditions, especially when the process is governed by biases toward relative superiority (e.g. experts, the majority). Here, we examine the development of social information use in children aged 4–14 years (n = 605) across seven societies in a standardised social learning task. We measured two key aspects of social information use: general reliance on social information and majority preference. We show that the extent to which children rely on social information depends on children's cultural background. The extent of children's majority preference also varies cross-culturally, but in contrast to social information use, the ontogeny of majority preference follows a U-shaped trajectory across all societies. Our results demonstrate both cultural continuity and diversity in the realm of human social learning.
 
 ---
 
-### The development of BE-EMPOWERed: Belgian program enhancing the uptake and effectiveness of a multifactorial falls prevention intervention in older community-dWElling peRsons [^6a2ae43f]. BMC Geriatrics (2025). Medium credibility.
+### The development of BE-EMPOWERed: Belgian program enhancing the uptake and effectiveness of a multifactorial falls prevention intervention in older community-dWElling peRsons [^113iQ6U6]. BMC Geriatrics (2025). Medium credibility.
 
 Step 3: program design
 
@@ -615,19 +615,19 @@ Stepping On is a multifaceted program aiming to empower older people to take con
 
 ---
 
-### Prevention of type 2 diabetes in young people: a theoretical perspective [^1ceb70b1]. Pediatric Diabetes (2003). Low credibility.
+### Prevention of type 2 diabetes in young people: a theoretical perspective [^111jsjdr]. Pediatric Diabetes (2003). Low credibility.
 
 Type 2 diabetes in youth is an increasing public health concern, especially in certain minority populations. The current paper consists of four sections. First, we establish the significance of the problem by presenting an overview of epidemiological and physiological evidence. Second, we discuss behavioral issues relevant to the prevention of type 2 diabetes in youth. Third, a qualitative review of existing prevention interventions specific to type 2 diabetes in youth is presented. Results suggest that modest improvements in social cognitive, dietary, and exercise outcomes are possible with diabetes intervention studies, although beneficial changes are difficult to sustain over the long term. Although theoretical frameworks are not always explicit, most studies have utilized elements of the social cognitive theory. Less attention has been paid to sociocultural and community organization variables. Finally, the paper discusses issues of risk definition and intervention sustainability, and presents a comprehensive, theoretically diverse model for the prevention of type 2 diabetes in youth. In summary, we suggest that theories of the natural history and pathophysiology of type 2 diabetes are important to identify modifiable risk factors, while theories of behavioral change are essential to modify the risk factors identified. The combination of sound physiological and behavioral theories should form the basis of prevention intervention design. In addition, an ecologic approach that takes into consideration the dynamic interactions of personal, social, and environmental factors would best promote the long-term adoption of healthful behaviors in a supportive, meaningful, and personally enjoyable context.
 
 ---
 
-### The role of the pediatrician in the promotion of healthy, active living [^d1c39f69]. Pediatrics (2024). High credibility.
+### The role of the pediatrician in the promotion of healthy, active living [^116Mz7wE]. Pediatrics (2024). High credibility.
 
 Social determinants of health — definition, scope, and influence are outlined, stating that social determinants of health (SDOHs) are the conditions in the environment where children are born, live, learn, work, play, and worship that affect a wide range of health and quality of life outcomes, that SDOHs affect everyone and may be supportive or detrimental, warrant special consideration as they impact and may be addressed at every level of the socioecological model, and heavily influence health behaviors, including nutrition, physical activity, sleep, screen use, and social and emotional wellness, while being impacted most by upstream institutional, community, and policy factors; examples include economic stability and factors, such as education, income, employment, poverty, and food insecurity, and social and community context, including support systems and nurturing relationships and community engagement.
 
 ---
 
-### The development of human social learning across seven societies [^4350151d]. Nature Communications (2018). Medium credibility.
+### The development of human social learning across seven societies [^112io51n]. Nature Communications (2018). Medium credibility.
 
 Lastly, the sex differences trend in social information use, especially with respect to the majority preference: Our finding that boys tended to follow the majority more markedly than girls did contrasts with existing literature on conformity sensu the Asch studies. Within this seminal conformity framework, females (both juveniles and adults) are found to acquiesce to the majority more than males, which has been linked to lower levels of self-reported confidence in one's own judgement. Note, however, the distinction between conforming against better knowledge and conforming in order to obtain a new behavioural variant. While the former is associated with social pressure and with the aforementioned sex bias, the latter does not require the forfeiting of an established notion or preference and is, as such, more relevantly linked to (adaptive) decision-making. Importantly, the latter conformity type has, to our knowledge, not been investigated with a focus on sex differences. Hence, our study provides a first indication that boys are more biased towards following the majority in adopting novel behaviours than girls are.
 
@@ -635,43 +635,43 @@ Our findings uniquely evidence both the cultural malleability and cross-cultural
 
 ---
 
-### Agent-based modeling for psychological research on social phenomena [^810177de]. The American Psychologist (2025). Medium credibility.
+### Agent-based modeling for psychological research on social phenomena [^114JFtxV]. The American Psychologist (2025). Medium credibility.
 
 This article describes seven potential benefits of incorporating agent-based modeling (ABM) as a core research methodology for psychological research on social phenomena: building formal theories of complex social systems, validating multilevel causation, understanding temporal and nonlinear dynamics, demonstrating the completeness of theories, balancing consideration of people with their environments, bridging psychology and policy, and identifying unknown unknowns and the limits of prediction. Those benefits accrue from a resonance between how they approach questions and the questions they ask. For example, both rely on experiments to explore how individual interactions generate collective phenomena. The article compares micromechanism-driven and macropattern-driven ABM paradigms and introduces a new research approach-the minimal society paradigm-and a modeling strategy, principle-oriented modeling. This framework integrates ABM into psychological research, supporting both theory building through minimal societies and adaptation to specific contexts. Last, recent methodological developments in this field are discussed. (PsycInfo Database Record (c) 2025 APA, all rights reserved).
 
 ---
 
-### An overview of survey research [^e39186e7]. Respiratory Care (2023). Medium credibility.
+### An overview of survey research [^116pP54i]. Respiratory Care (2023). Medium credibility.
 
 Surveys provide evidence for the social sciences for knowledge, attitudes, and other behaviors, and, in health care, to quantify qualitative research and to assist in policymaking. A survey-designed research project is about asking questions of individuals, and, from the answers, the researcher can generalize the findings from a sample of respondents to a population. Therefore, this overview can serve as a guide to conducting survey research that can provide answers for practitioners, educators, and leaders, but only if the right questions and methods are used. The main advantage of using surveys is their economical access to participants online. A major disadvantage of survey research is the low response rates in most situations. Online surveys have many limitations that should be expected before conducting a search, and then described after the survey is complete. Any conclusions and recommendations are to be supported by evidence in a clear and objective manner. Presenting evidence in a structured format is crucial but well-developed reporting guidelines are needed for researchers who conduct survey research.
 
 ---
 
-### Learning auditory discriminations from observation is efficient but less robust than learning from experience [^23eaa0fb]. Nature Communications (2018). Medium credibility.
+### Learning auditory discriminations from observation is efficient but less robust than learning from experience [^111vFNoU]. Nature Communications (2018). Medium credibility.
 
 Our work raises many interesting questions on the behavioral and neurobiological mechanisms used by observers to acquire stimulus-discriminative information. Behaviorally, observers could learn through social mechanisms of action imitation, of observational conditioning, and of stimulus enhancement, or a combination of these. Note that the definitions of these mechanisms are not strict enough to allow a discrete categorization of social learning in any one study. Our findings de-emphasize some known social learning mechanisms such as perceptual learning (evidenced by PL learners) and simple stimulus enhancement (evidenced by lack of discriminative behavior during pre-testing, Supplementary Figure 3). Our experiments also de-emphasize vocal communication as a mechanism but reveal the importance of vision (-TCOM learners). Overall, the importance of a demonstrating expert suggests that experimenters signal statistical differences between puffed and unpuffed stimuli via their perching behavior such as their rates of leaving the perch. Possibly, observers focused their attention more on the diverse actions of experimenters and their relationships with the stimuli, which is why observers apparently failed to identify the simplest environmental signal that can explain experimenters' behavior, which in our case was syllable duration.
 
 ---
 
-### Committee opinion no. 715: social etiquette for program directors and faculty [^cfb3d1aa]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 715: social etiquette for program directors and faculty [^116JvqVT]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Definitions of social etiquette terms — definitions listed include: "Etiquette: A code of behavior that delineates expectations for social behavior according to conventional norms within a society, social class, or group"; "Social Behavior: A behavior directed toward society or that takes place between the same species"; "Social Etiquette: A code of behavior within an institution, community, or family"; "Manner: A way of doing something or the way in which a thing is done or happens. Manners reflect the prevailing customs, social conduct, and norms of a specific society or group"; and "Decorum: Behavior in keeping with civility and propriety".
 
 ---
 
-### Social heuristics shape intuitive cooperation [^18c33774]. Nature Communications (2014). Medium credibility.
+### Social heuristics shape intuitive cooperation [^111diGtb]. Nature Communications (2014). Medium credibility.
 
 Cooperation is central to human societies. Yet relatively little is known about the cognitive underpinnings of cooperative decision making. Does cooperation require deliberate self-restraint? Or is spontaneous prosociality reined in by calculating self-interest? Here we present a theory of why (and for whom) intuition favors cooperation: cooperation is typically advantageous in everyday life, leading to the formation of generalized cooperative intuitions. Deliberation, by contrast, adjusts behaviour towards the optimum for a given situation. Thus, in one-shot anonymous interactions where selfishness is optimal, intuitive responses tend to be more cooperative than deliberative responses. We test this 'social heuristics hypothesis' by aggregating across every cooperation experiment using time pressure that we conducted over a 2-year period (15 studies and 6,910 decisions), as well as performing a novel time pressure experiment. Doing so demonstrates a positive average effect of time pressure on cooperation. We also find substantial variation in this effect, and show that this variation is partly explained by previous experience with one-shot lab experiments.
 
 ---
 
-### Simple behavioral analysis (simBA) as a platform for explainable machine learning in behavioral neuroscience [^06b84618]. Nature Neuroscience (2024). High credibility.
+### Simple behavioral analysis (simBA) as a platform for explainable machine learning in behavioral neuroscience [^111Axpdm]. Nature Neuroscience (2024). High credibility.
 
 The study of complex behaviors is often challenging when using manual annotation due to the absence of quantifiable behavioral definitions and the subjective nature of behavioral annotation. Integration of supervised machine learning approaches mitigates some of these issues through the inclusion of accessible and explainable model interpretation. To decrease barriers to access, and with an emphasis on accessible model explainability, we developed the open-source Simple Behavioral Analysis (SimBA) platform for behavioral neuroscientists. SimBA introduces several machine learning interpretability tools, including SHapley Additive exPlanation (SHAP) scores, that aid in creating explainable and transparent behavioral classifiers. Here we show how the addition of explainability metrics allows for quantifiable comparisons of aggressive social behavior across research groups and species, reconceptualizing behavior as a sharable reagent and providing an open-source framework. We provide an open-source, graphical user interface (GUI)-driven, well-documented package to facilitate the movement toward improved automation and sharing of behavioral classification tools across laboratories.
 
 ---
 
-### A behavioural science framework for tackling upstream challenges in health systems [^9c4c4699]. BMJ Global Health (2025). High credibility.
+### A behavioural science framework for tackling upstream challenges in health systems [^114zigwA]. BMJ Global Health (2025). High credibility.
 
 Application of behavioural science to upstream challenges
 
@@ -688,7 +688,7 @@ The framework stops short of prescribing specific solutions, which must be deter
 
 ---
 
-### Neural implementation of computational mechanisms underlying the continuous trade-off between cooperation and competition [^08b7584d]. Nature Communications (2022). High credibility.
+### Neural implementation of computational mechanisms underlying the continuous trade-off between cooperation and competition [^111DvV6t]. Nature Communications (2022). High credibility.
 
 Over the last decade there has been a shift in focus towards identifying the computational mechanisms that guide social behaviour. Much of this work has begun to show that models based around reinforcement learning and Bayesian principles may provide the framework that scaffolds social information processing. Previous work has identified social prediction errors that underlie prosocial behaviour, teaching, trust, mentalizing, false belief processing, and a range of other processing requiring social learning. Our results concord with the notion that Bayesian principles and prediction errors can guide social behaviour and socio-cognitive processes.
 
@@ -696,7 +696,7 @@ In this work, we developed an economic game that generalizes the Prisoner's Dile
 
 ---
 
-### A computational reward learning account of social media engagement [^6c220c69]. Nature Communications (2021). High credibility.
+### A computational reward learning account of social media engagement [^113mK6kg]. Nature Communications (2021). High credibility.
 
 Naturally, there are many possible reasons for posting on social media in addition to reward seeking, ranging from self-expression to relational development. While our research focused on how social rewards explain behavior, it does not preclude the potentially important roles of other motivations. Incorporating relational considerations in themodel, such as reciprocity or network proximity, represents an important goal for future research. Nevertheless, the learning model tested here explained behavior well, suggesting that reward learning is a major factor in social media engagement.
 
@@ -704,7 +704,7 @@ Our results raise several new questions regarding the role of reward in social m
 
 ---
 
-### When complexity science meets implementation science: a theoretical and empirical analysis of systems change [^c9904ae8]. BMC Medicine (2018). Low credibility.
+### When complexity science meets implementation science: a theoretical and empirical analysis of systems change [^1169pyh1]. BMC Medicine (2018). Low credibility.
 
 Background
 
@@ -720,7 +720,7 @@ Construing healthcare as a complex adaptive system implies that getting evidence
 
 ---
 
-### Exposure to violence affects the development of moral impressions and trust behavior in incarcerated males [^d249e91f]. Nature Communications (2019). High credibility.
+### Exposure to violence affects the development of moral impressions and trust behavior in incarcerated males [^116NmE5L]. Nature Communications (2019). High credibility.
 
 Exposure to violence predisposes some individuals to diverse forms of negative life experiences and mental health problems, as well as comprises a prominent risk factor for a lifetime mired in aggression. Chronic exposure to violence, whether in a larger community or justice system context, shapes cognition in a way that is likely to distort perceptions of what is considered harmful behavior and how to react to harmful behavior. However, the precise social cognitive processes that may underlie these distortions in individuals exposed to violence is unclear. At the core of several theories about the relationship between exposure to violence and aggressive/antisocial behavior is the role of learning. However, empirical evidence identifying and specifying the way in which learning is disrupted and can affect behavior in individuals exposed to violence remains elusive.
 
@@ -728,13 +728,13 @@ One aspect of learning that is especially relevant to adaptive social behavior i
 
 ---
 
-### The role of the pediatrician in primary prevention of obesity [^0540dd52]. Pediatrics (2015). Medium credibility.
+### The role of the pediatrician in primary prevention of obesity [^1118nj5B]. Pediatrics (2015). Medium credibility.
 
 Pediatric obesity prevention — behavior-modification techniques — behavior-modification programs built on strong theoretical models have long been shown to be the best option for obesity treatment, both in adults and children, and behavioral theories used effectively for obesity treatment include the learning theory/operant conditioning, social learning/social cognitive theory, the behavioral economics theory, and the social-ecological model; however, less evidence exists to support their use in primary prevention. Most behavior-modification programs include a component of environmental change, also known as "stimulus control", which eliminates food triggers and has been effective in obesity prevention in the school setting. Changing the food that is available at home may help children make healthier choices and limit arguments about food. To assist such reviews, it may be helpful to ask families to bring grocery store receipts, prepare a list of food items easily available to the child in the house, or e-mail or text pictures of the refrigerator, the kitchen counter, and pantry that can be reviewed together on the office computer, and this can be a good arena for partnership with a dietitian and/ or a role for other office professionals or group visits.
 
 ---
 
-### Active ingredients of substance use-focused self-help groups [^8c76b0de]. Addiction (2008). Low credibility.
+### Active ingredients of substance use-focused self-help groups [^114bF8jo]. Addiction (2008). Low credibility.
 
 Aims and Methods
 
@@ -750,7 +750,7 @@ Several issues that need to be addressed to enhance understanding of the active 
 
 ---
 
-### Evidence-based kernels: fundamental units of behavioral influence [^84a00be7]. Clinical Child and Family Psychology Review (2008). Low credibility.
+### Evidence-based kernels: fundamental units of behavioral influence [^114Pd8A2]. Clinical Child and Family Psychology Review (2008). Low credibility.
 
 Kernels Altering Behavior Through Antecedents
 
@@ -766,7 +766,7 @@ Tradition within psychology suggests it is unfeasible to deal with cognitive and
 
 ---
 
-### Conceptual framework of mentoring in low-and middle-income countries to advance global health [^203319f0]. The American Journal of Tropical Medicine and Hygiene (2019). Medium credibility.
+### Conceptual framework of mentoring in low-and middle-income countries to advance global health [^111pjmZ1]. The American Journal of Tropical Medicine and Hygiene (2019). Medium credibility.
 
 Tenets of mentorship.
 
@@ -778,7 +778,7 @@ Many of these student development frameworks focus on undergraduate students, no
 
 ---
 
-### Appendix I: understanding what drives behavior change… [^7bfd9ee9]. CDC (2025). Medium credibility.
+### Appendix I: understanding what drives behavior change… [^114ApfbN]. CDC (2025). Medium credibility.
 
 At a glance A list of models and theories that describe what drives behavior change. Behavior Change Models Behavior change models can give you a decision-making framework for your campaign strategy, development, and call to action. There are many behavior change models to choose from. In this playbook, we're featuring just three of them, but others may be a good fit too. For more models to consider, take a look at this NIH resource Social and Behavioral Theories. Select a behavior change model that will be helpful as you make campaign design decisions. Based on your selection, complete. Exercise 6A or 6B Brainstorm Book. These exercises will pinpoint how your audience fits within the behavior change model. This decision will help you determine effective strategies and a call to action. Health Belief Model The Health Belief Mode l explains that six components predict a person's readiness to make a behavior change.
 
@@ -788,7 +788,7 @@ For each stage, different intervention strategies are most effective at moving t
 
 ---
 
-### A behavioural science framework for tackling upstream challenges in health systems [^d920320e]. BMJ Global Health (2025). High credibility.
+### A behavioural science framework for tackling upstream challenges in health systems [^116Yu8NZ]. BMJ Global Health (2025). High credibility.
 
 Phase 1: distill the system-level challenge into priority behaviours
 
@@ -817,7 +817,7 @@ Often, it will not be practical to address all of the relevant behaviours. Prior
 
 ---
 
-### Applying health behavior theory to multiple behavior change: considerations and approaches [^ac453a02]. Preventive Medicine (2008). Low credibility.
+### Applying health behavior theory to multiple behavior change: considerations and approaches [^115QQ87b]. Preventive Medicine (2008). Low credibility.
 
 Background
 
@@ -837,7 +837,7 @@ Further study in this area has the potential to broaden our understanding of mul
 
 ---
 
-### Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour [^77a98a29]. Human Brain Mapping (2021). Medium credibility.
+### Exploring the relationship between anthropomorphism and theory-of-mind in brain and behaviour [^1144QUSC]. Human Brain Mapping (2021). Medium credibility.
 
 Observing, inferring, and predicting internal states of non‐human agents and objects could be partly dependent on low‐level processes that are distinct from those active when encountering human agents. A two‐stage process of anthropomorphism would suggest that these early low‐level perceptual processes are complemented at a later stage by using language derived from theory‐of‐mind. Anthropomorphism could be the end result of an otherwise largely perceptual process. This two‐stage process explains why measures that probe the ability to understand and predict the behaviour of the characters in the film were related to situational anthropomorphism. Inferring and understanding the behaviour of agents is a mixture of complex interactive predictive processes, ranging from perceptual processes (e.g. action observation and prediction; Cross et al.) to theory‐of‐mind‐like processes. The extent to which interactions with non‐human agents trigger similar social cognitive mechanisms as do interactions with other humans is still up for debate. Thus, researchers have to entertain the possibility that interactions with non‐human agents might trigger processes that are not social in nature or do not match one‐to‐one with the processes that are active during interactions human counterparts (Cross & Ramsey; Henschel et al.).
 
@@ -845,7 +845,7 @@ In order to better understand the way humans attribute socialness and even form 
 
 ---
 
-### Self-utility distance as a computational approach to understanding self-concept clarity [^785a9a6c]. Communications Psychology (2025). Medium credibility.
+### Self-utility distance as a computational approach to understanding self-concept clarity [^1145Rwum]. Communications Psychology (2025). Medium credibility.
 
 Discussion
 
@@ -855,19 +855,19 @@ The association found between Self-Utility Distance and Self-Concept Clarity ali
 
 ---
 
-### Trauma-informed care [^2c7ae531]. Pediatrics (2021). High credibility.
+### Trauma-informed care [^1128wjbN]. Pediatrics (2021). High credibility.
 
 Resilience — definition and adaptational mechanisms (Table 4) — is defined as a dynamic process of positive adaptation to or despite significant adversities and is not a static or innate quality but includes skills children can learn over time with reliable support from attachment figures. Studies have shown that development can be robust, even in the face of severe adversity, if certain basic adaptational mechanisms of human development (resilience factors) are protected and in good working order; these mechanisms include attachment to a competent caregiver, cognitive development with opportunity for continued growth, mastery of age-salient developmental tasks, self-control or self-regulation, belief that life has meaning, hope for the future, a sense of self-efficacy, and a network of supportive relationships. Table 4 specifies these mechanisms as thinking and learning; hope; regulation; efficacy; attachment; development; and social context, with descriptors including cognitive development, optimism and belief in a future, self-regulation, self-efficacy, secure attachment with a safe, stable, and nurturing or competent caregiver, mastery of age-salient tasks, and the larger network of healthy relationships in which one lives and learns.
 
 ---
 
-### Award for distinguished scientific early career contributions to psychology: katherine B. ehrlich [^dcafe3b6]. The American Psychologist (2020). Medium credibility.
+### Award for distinguished scientific early career contributions to psychology: katherine B. ehrlich [^116eBMbs]. The American Psychologist (2020). Medium credibility.
 
 The Early Career Awards, given for the first time in 1974, recognize the large number of excellent early career psychologists. Recipients of this award may not have held a doctoral degree for more than nine years. For purposes of this award, psychology has been divided into 10 areas: animal learning and behavior, comparative; developmental; health; cognition/human learning; psychopathology; behavioral and cognitive neuroscience; perception/motor performance; social; applied research; and individual differences. Five areas are considered each year, with areas rotated in two-year cycles. The areas considered in 2020 were animal learning and behavior, comparative; developmental; health; cognition/ human learning; and psychopathology. Each year, panels are selected for the areas under consideration, and these panels recommend nominees to the Committee on Scientific Awards. The 2020 recipients of the APA Scientific Contribution Awards were recognized by the 2019 Board of Scientific Affairs and selected by the 2019 Committee on Scientific Awards. For outstanding research that elucidates how children's social relationships affect their physical health. Katherine B. Ehrlich's innovative research brings together insights from multiple subareas of psychology, including health, developmental, and social, to address questions of great importance for public health and human development. Her studies are characterized by sophisticated theory, rigorous methodology, and impressive creativity. Her theoretical and empirical work is already leaving a substantial mark on the field and paving the way for an integrative biosocial science of human development. (PsycInfo Database Record (c) 2020 APA, all rights reserved).
 
 ---
 
-### A practical approach for applying best practices in behavioural interventions to injury prevention [^f106002c]. Injury Prevention (2010). Low credibility.
+### A practical approach for applying best practices in behavioural interventions to injury prevention [^117AL2pT]. Injury Prevention (2010). Low credibility.
 
 Developing and applying a programme theory to guide interventions: a six-step approach
 
@@ -883,13 +883,13 @@ Refine interventions and behaviour change model, when needed.
 
 ---
 
-### In search of a theoretical structure for understanding motivation in schizophrenia [^b28b81ac]. Schizophrenia Bulletin (2010). Low credibility.
+### In search of a theoretical structure for understanding motivation in schizophrenia [^115Zhey9]. Schizophrenia Bulletin (2010). Low credibility.
 
 This themed issue considers different ways to conceptualize the motivational impairment that is a core negative symptom of schizophrenia. Motivational impairment has been linked to poor functional outcome, thus it is important to understand the nature and causes of motivational impairment in order to develop better treatment strategies to enhance motivation and engage patients in the process of recovery. Motivation refers to the processes whereby goal-directed activities are instigated and sustained and can be thought of as the product of a complex interaction of physiological processes and social contextual variables. In this issue, the physiological processes of motivation are the focus of Barch and Dowd, who highlight the role of prefrontal and subcortical mesolimbic dopamine systems in incentive-based learning and the difficulties people with schizophrenia have using internal representations of relevant experiences and goals to drive the behavior that should allow them to obtain desired outcomes. The articles in this issue by Choi et al. Nakagami et al., and Silverstein, focus on social contextual or environmental variables that can shape behavior and motivation. Together, these articles highlight the impact of external cues and goal properties on the expectations and values attached to goal outcomes. Expectancy-value and Self-Determination theories provide an overarching framework to accommodate the perspectives and data provided in all these articles. In the following introduction we show how the articles in this themed issue both support the role of expectancies and value in motivation in schizophrenia and elucidate possible deficiencies in the way expectations and value get assigned.
 
 ---
 
-### A practical approach for applying best practices in behavioural interventions to injury prevention [^19bb734d]. Injury Prevention (2010). Low credibility.
+### A practical approach for applying best practices in behavioural interventions to injury prevention [^111f9ese]. Injury Prevention (2010). Low credibility.
 
 Step 6: refine interventions and behaviour change model with knowledge gained from intervention evaluation
 
@@ -905,19 +905,19 @@ At the time of this writing, the process and outcome evaluations of the RLAF 200
 
 ---
 
-### A systematic review of associations between adverse peer experiences and emotion regulation in adolescence [^6a24d9f3]. Clinical Child and Family Psychology Review (2021). Medium credibility.
+### A systematic review of associations between adverse peer experiences and emotion regulation in adolescence [^113iN4o4]. Clinical Child and Family Psychology Review (2021). Medium credibility.
 
 Adolescence is a developmental period marked by changes in cognition, emotion, and social relations. For example, sensitivity to social feedback increases as peer relationships become more important yet less stable, leaving adolescents vulnerable to experiences of peer victimization and rejection. Given that prefrontal brain regions responsible for regulatory abilities continue to mature during adolescence, the brain is especially susceptible to environmental influences. As such, exposure to adverse peer experiences may undermine emotion regulation development. Thus, the present review sought to elucidate the association between adverse peer experiences and emotion regulation in adolescence (i.e. age 12–17 years). Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a systematic review of the literature assessing adverse peer experiences (victimization and rejection) and emotion regulation (including neurobiological, behavioral, cognitive levels of analysis) was conducted (N articles included = 27). Results demonstrate that adverse peer experiences are negatively associated with emotion regulation processes, behaviorally and neurally. Although variability in definitions and measurement of constructs make nuanced comparisons between studies difficult, the present systematic review organizes this body of literature and discusses how promising theoretical perspectives, including the cognitive control of emotion model and social information processing theory, may help to explain this association. Finally, recommendations for future work to expand our understanding of these processes, and for intervention and prevention efforts (e.g., school-based violence prevention and socio-emotional learning programs, parenting practices) that may serve to ameliorate outcomes for youths facing adverse peer experiences and emotion dysregulation, are discussed.
 
 ---
 
-### Peers and adolescent smoking [^ba72fff5]. Addiction (2003). Low credibility.
+### Peers and adolescent smoking [^115mRKo2]. Addiction (2003). Low credibility.
 
 There is a considerable body of empirical research that has identified adolescent peer relationships as a primary factor involved in adolescent cigarette smoking. Despite this large research base, many questions remain unanswered about the mechanisms by which peers affect youths' smoking behavior. Understanding these processes of influence is key to the development of prevention and intervention programs designed to address adolescent smoking as a significant public health concern. In this paper, theoretical frameworks and empirical findings are reviewed critically which inform the current state of knowledge regarding peer influences on teenage smoking. Specifically, social learning theory, primary socialization theory, social identity theory and social network theory are discussed. Empirical findings regarding peer influence and selection, as well as multiple reference points in adolescent friendships, including best friendships, romantic relationships, peer groups and social crowds, are also reviewed. Review of this work reveals the contribution that peers have in adolescents' use of tobacco, in some cases promoting use, and in other cases deterring it. This review also suggests that peer influences on smoking are more subtle than commonly thought and need to be examined more carefully, including consideration of larger social contexts, e.g. the family, neighborhood, and media. Recommendations for future investigations are made, as well as suggestions for specific methodological approaches that offer promise for advancing our knowledge of the contribution of peers on adolescent tobacco use.
 
 ---
 
-### Reducing the use of physical restraints in home care: development and feasibility testing of a multicomponent program to support the implementation of a guideline [^73c0dd3a]. BMC Geriatrics (2021). Medium credibility.
+### Reducing the use of physical restraints in home care: development and feasibility testing of a multicomponent program to support the implementation of a guideline [^113xcMhs]. BMC Geriatrics (2021). Medium credibility.
 
 Background
 
@@ -937,19 +937,19 @@ The multicomponent program shows promising results. Prior to future use, further
 
 ---
 
-### Promoting more integrative strategies for leadership theory-building [^9c82d1be]. The American Psychologist (2007). Low credibility.
+### Promoting more integrative strategies for leadership theory-building [^115131Xb]. The American Psychologist (2007). Low credibility.
 
 The agenda for theory and research in the field of leadership studies has evolved over the last 100 years from focuses on the internal dispositions associated with effective leaders to broader inquiries that include emphases on the cognitions, attributes, behaviors, and contexts in which leaders and followers are dynamically embedded and interact over time. Leadership theory and research has reached a point in its development at which it needs to move to the next level of integration — considering the dynamic interplay between leaders and followers, taking into account the prior, current, and emerging context — for continued progress to be made in advancing both the science and practice of leadership.
 
 ---
 
-### Social neuroscience: understanding the pieces fosters understanding the whole and vice versa [^8ec0880c]. The American Psychologist (2002). Low credibility.
+### Social neuroscience: understanding the pieces fosters understanding the whole and vice versa [^114eduqD]. The American Psychologist (2002). Low credibility.
 
 Social science and neuroscience perspectives represent two ends of a continuum of levels of organization studied in psychology. Human behavior as a whole unfolds at social levels of organization, whereas much of the research in psychology has focused on cognitive and biological pieces of this whole. Recent evidence underscores the complementary nature of social, cognitive, and biological levels of analysis and how research integrating these levels can foster more comprehensive theories of the mechanisms underlying complex behavior and the mind. This research underscores the unity of psychology and the importance of retaining multilevel integrative research that spans molar and molecular levels of analysis.
 
 ---
 
-### Neural similarity in nucleus accumbens during decision-making for the self and a best friend: links to adolescents' self-reported susceptibility to peer influence and risk taking [^994b47a2]. Human Brain Mapping (2023). Medium credibility.
+### Neural similarity in nucleus accumbens during decision-making for the self and a best friend: links to adolescents' self-reported susceptibility to peer influence and risk taking [^114vGPgm]. Human Brain Mapping (2023). Medium credibility.
 
 1.1 Theoretical perspectives on peer influence susceptibility and risk taking in adolescence
 
@@ -957,19 +957,19 @@ Several theoretical perspectives elucidate why and how adolescents may conform t
 
 ---
 
-### Testing the reinforcement learning hypothesis of social conformity [^f6a3208a]. Human Brain Mapping (2021). Medium credibility.
+### Testing the reinforcement learning hypothesis of social conformity [^117JekJD]. Human Brain Mapping (2021). Medium credibility.
 
 Although the present study used an experimental paradigm similar to that of the social conformity study that originally proposed the reinforcement learning hypothesis of social conformity (Klucharev et al. 2009), it should be noted that social conformity is not a unitary phenomenon and that some forms of social conformity may be more similar to reinforcement learning. At least three types of motivation for attitude change based on social influence have been identified in psychological studies (Cialdini & Goldstein, 2004; Petty & Cacioppo, 1981), and they include the following: (a) motivation to be accurate, (b) motivation to obtain social approval from others, and (c) motivation to maintain a positive self‐concept (which includes attitude change following cognitive dissonance). The majority of previous neuroimaging studies on social conformity used the face rating task (or a similar task which involves subjective ratings of stimuli) (Izuma, 2013). The conformity effect reported in these studies can be explained by the motivation to obtain social approval and/or the motivation to maintain a positive self‐concept, but it cannot be explained by the motivation to be accurate as there is no right or wrong answer in facial attractiveness rating. In a situation where individuals strongly believe that group opinion is more accurate than their own opinion (e.g. group opinion ≈ correct performance feedback), social conflict can serve as a teaching signal just like prediction error in the reinforcement learning task. In fact, the pMFC, insula, and striatum are related to prediction error in a semantic learning paradigm where no reward is involved (i.e. acquiring new semantic knowledge based on performance feedback [correct or incorrect]) (Pine, Sadeh, Ben‐Yakov, Dudai, & Mendelsohn, 2018). In this study, prediction error in each trial was calculated based on a subjective rating of confidence and on feedback received by participants (e.g. a positive prediction error signal is generated when individuals were not confident about their answer but received a correct feedback). Further, activities in the pMFC and insula were found to be positively related to unsigned prediction error, whereas striatum activities were found to be positively related to signed prediction error (Pine et al. 2018). Thus, how these brain regions process social conflict might be more similar to reinforcement learning in a different social conformity paradigm where a right answer can be objectively defined (i.e. where social conflict can serve as a strong teaching signal), and this is an important avenue for future research.
 
 ---
 
-### The science of learning: breaking news [^776f132a]. Journal of Diabetes Science and Technology (2011). Low credibility.
+### The science of learning: breaking news [^11444qSy]. Journal of Diabetes Science and Technology (2011). Low credibility.
 
 We begin with a paradox. On one hand, not nearly enough is known about exactly how learning takes place in the brain, although exciting new results are emerging thanks to improved brain imaging and a greater focus on neuroscience by government and universities. But this research is just beginning, and a much larger effort and investment are needed to answer even the most basic questions. On the other hand, more than enough is already known about what best promotes learning to motivate and drive educational reform for years to come. This is a report from the front lines of both research and educational implementation. This information should prove of use to anyone — teachers, students, parents, patients, and health practitioners — who is concerned about how best to improve formal or informal teaching and learning, to help people remember complex instructions, or to change unhealthy habits and practices.
 
 ---
 
-### Dynamic influences on the neural encoding of social valence [^965f1f8c]. Nature Reviews: Neuroscience (2022). High credibility.
+### Dynamic influences on the neural encoding of social valence [^114qw6RR]. Nature Reviews: Neuroscience (2022). High credibility.
 
 Social valence
 

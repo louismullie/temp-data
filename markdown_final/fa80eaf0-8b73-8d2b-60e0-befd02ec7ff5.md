@@ -15,47 +15,47 @@ How does methotrexate work for ectopic pregnancy?
 
 > Let's see… What do we have here? The user is asking how methotrexate works for ectopic pregnancy. Let's break this down step-by-step. First, I need to think about the core pharmacologic mechanism of methotrexate. Then, I should verify why that mechanism is particularly relevant to ectopic trophoblastic tissue. Next, I will review the clinical protocols and dosing regimens and how they operationalize that mechanism. After that, I need to check the expected time course of hCG decline and how we monitor response. Finally, I should consider predictors of success or failure, safety and contraindications, and fertility implications, and then synthesize a concise, clinically useful explanation.
 
-> Let me first confirm the mechanism. Methotrexate is a folate antagonist that binds dihydrofolate reductase, interrupting purine synthesis and thymidine production, thereby inhibiting DNA synthesis and repair and halting rapidly dividing cells from replicating, which is precisely why it targets trophoblastic tissue in ectopic pregnancy [^f2322706] [^151a5c11].
+> Let me first confirm the mechanism. Methotrexate is a folate antagonist that binds dihydrofolate reductase, interrupting purine synthesis and thymidine production, thereby inhibiting DNA synthesis and repair and halting rapidly dividing cells from replicating, which is precisely why it targets trophoblastic tissue in ectopic pregnancy [^117C4rFF] [^111YHbSp].
 
-> Wait, let me verify why this matters biologically in ectopic pregnancy. Trophoblasts are among the most rapidly proliferating tissues in early gestation, so they are uniquely vulnerable to antifolate-mediated DNA synthesis blockade; methotrexate's effect is cytostatic rather than cytotoxic at these low, single-agent doses, leading to cessation of growth and eventual resorption rather than immediate destruction, which explains the need for serial hCG monitoring rather than instant resolution [^f2322706] [^524ea66e].
+> Wait, let me verify why this matters biologically in ectopic pregnancy. Trophoblasts are among the most rapidly proliferating tissues in early gestation, so they are uniquely vulnerable to antifolate-mediated DNA synthesis blockade; methotrexate's effect is cytostatic rather than cytotoxic at these low, single-agent doses, leading to cessation of growth and eventual resorption rather than immediate destruction, which explains the need for serial hCG monitoring rather than instant resolution [^117C4rFF] [^11372QLV].
 
-> I need to check the practical regimens next. The most common approach is single-dose intramuscular methotrexate 50 mg/m² on day 1, with hCG measured on days 4 and 7; if the day-4 to day-7 decrease is less than 15%, a second dose is given, and if hCG fails to decline appropriately after two doses, surgery is considered, which operationalizes the pharmacologic effect into a standardized protocol with built-in rescue [^b3ccaf9d] [^8d18492f]. Hold on, I should verify alternatives: a two-dose regimen on day 1 and day 4 can improve success in selected patients, particularly with higher initial hCG, and a fixed multidose regimen with leucovorin rescue exists but is less favored due to more adverse effects and complexity, so regimen choice should be individualized to hCG level and patient preference [^ccf06f5d] [^7e1d7382] [^c830551c].
+> I need to check the practical regimens next. The most common approach is single-dose intramuscular methotrexate 50 mg/m² on day 1, with hCG measured on days 4 and 7; if the day-4 to day-7 decrease is less than 15%, a second dose is given, and if hCG fails to decline appropriately after two doses, surgery is considered, which operationalizes the pharmacologic effect into a standardized protocol with built-in rescue [^115bZY3n] [^114cBQrz]. Hold on, I should verify alternatives: a two-dose regimen on day 1 and day 4 can improve success in selected patients, particularly with higher initial hCG, and a fixed multidose regimen with leucovorin rescue exists but is less favored due to more adverse effects and complexity, so regimen choice should be individualized to hCG level and patient preference [^116EqEYL] [^114DyLGH] [^1167nkxK].
 
-> Next, I should review the time course and monitoring. Let me think about this carefully: resolution of hCG typically takes 2 to 4 weeks but can extend to 8 weeks, and early transient rises in hCG can occur before decline, so weekly hCG checks until nonpregnant levels are essential to avoid premature intervention; importantly, the day-4 to day-7 decrease of at least 15% is the key decision point for retreatment, and some data suggest that an early day-0 to day-4 hCG fall can predict success earlier, though I should note that latter evidence is less robust and should be applied cautiously [^ae0b16be] [^8d18492f] [^d5a54a3b].
+> Next, I should review the time course and monitoring. Let me think about this carefully: resolution of hCG typically takes 2 to 4 weeks but can extend to 8 weeks, and early transient rises in hCG can occur before decline, so weekly hCG checks until nonpregnant levels are essential to avoid premature intervention; importantly, the day-4 to day-7 decrease of at least 15% is the key decision point for retreatment, and some data suggest that an early day-0 to day-4 hCG fall can predict success earlier, though I should note that latter evidence is less robust and should be applied cautiously [^115T2a4d] [^114cBQrz] [^116Tjt8i].
 
-> I will now examine predictors of success and failure. Higher initial hCG is consistently associated with lower success, with a marked increase in failure when hCG exceeds about 5,000 mIU/mL, and fetal cardiac activity is a strong predictor of failure; conversely, smaller mass size, absence of hemoperitoneum, and hemodynamic stability favor success, and the day-4 to day-7 hCG trajectory is the most actionable early indicator of response [^58d4e079] [^040dc40e] [^8d18492f]. But wait, what if the patient has a history of ectopic pregnancy? Recurrent ectopic pregnancy may respond less well to single-dose therapy, so multidose regimens should be considered in that subgroup to equalize success rates, which I should keep in mind during counseling [^8a8abc73].
+> I will now examine predictors of success and failure. Higher initial hCG is consistently associated with lower success, with a marked increase in failure when hCG exceeds about 5,000 mIU/mL, and fetal cardiac activity is a strong predictor of failure; conversely, smaller mass size, absence of hemoperitoneum, and hemodynamic stability favor success, and the day-4 to day-7 hCG trajectory is the most actionable early indicator of response [^113GhQyW] [^11171aJq] [^114cBQrz]. But wait, what if the patient has a history of ectopic pregnancy? Recurrent ectopic pregnancy may respond less well to single-dose therapy, so multidose regimens should be considered in that subgroup to equalize success rates, which I should keep in mind during counseling [^114YPtgr].
 
-> Hold on, let's not jump to conclusions about safety. I should confirm adverse effects and contraindications. Common effects include gastrointestinal upset, stomatitis, and transient liver enzyme elevations, while serious complications like bone marrow suppression or pneumonitis are rare at these doses; absolute contraindications include significant renal or hepatic dysfunction, blood dyscrasias, active GI or respiratory disease, and inability to comply with follow-up, and NSAIDs should generally be avoided due to potential interaction, so careful screening and counseling are mandatory [^2a3cb100] [^08ea484d] [^6551944d]. I should double-check a critical pitfall: symptoms shortly after methotrexate can mimic rupture, so any new or worsening pain requires urgent evaluation to distinguish expected cramping from tubal rupture, which is why patients must have a low threshold to seek care and clinicians must maintain vigilance [^19e3a4f4] [^9425d6a9].
+> Hold on, let's not jump to conclusions about safety. I should confirm adverse effects and contraindications. Common effects include gastrointestinal upset, stomatitis, and transient liver enzyme elevations, while serious complications like bone marrow suppression or pneumonitis are rare at these doses; absolute contraindications include significant renal or hepatic dysfunction, blood dyscrasias, active GI or respiratory disease, and inability to comply with follow-up, and NSAIDs should generally be avoided due to potential interaction, so careful screening and counseling are mandatory [^1125csCb] [^111EDbSk] [^113bD9kp]. I should double-check a critical pitfall: symptoms shortly after methotrexate can mimic rupture, so any new or worsening pain requires urgent evaluation to distinguish expected cramping from tubal rupture, which is why patients must have a low threshold to seek care and clinicians must maintain vigilance [^111fP9v3] [^114ndsrx].
 
-> Next, I should review fertility implications. Let me verify the data: multiple studies and guidelines indicate methotrexate does not adversely affect ovarian reserve or subsequent fertility, and patients can be counseled accordingly; however, because methotrexate is teratogenic, patients should avoid conception for at least 3 months after treatment to allow folate repletion and drug clearance, even though the drug is cleared from serum well before that window [^971ac27c] [^f97d885f] [^71e9189c]. Hmm, wait a minute, I initially thought clearance might justify a shorter interval, but given the teratogenic risk and the need to normalize folate status, the 3-month recommendation remains prudent despite serum kinetics [^a35e8858].
+> Next, I should review fertility implications. Let me verify the data: multiple studies and guidelines indicate methotrexate does not adversely affect ovarian reserve or subsequent fertility, and patients can be counseled accordingly; however, because methotrexate is teratogenic, patients should avoid conception for at least 3 months after treatment to allow folate repletion and drug clearance, even though the drug is cleared from serum well before that window [^114s27sh] [^117Nt5kA] [^113ustvX]. Hmm, wait a minute, I initially thought clearance might justify a shorter interval, but given the teratogenic risk and the need to normalize folate status, the 3-month recommendation remains prudent despite serum kinetics [^115BCjaX].
 
-> Let me synthesize this into a clinically coherent narrative. Methotrexate treats ectopic pregnancy by exploiting the rapid proliferation of trophoblastic tissue: it inhibits dihydrofolate reductase, starves cells of thymidine and purines, halts DNA synthesis, and induces growth arrest and resorption of the ectopic gestation; because this is a gradual process, success hinges on careful patient selection, appropriate regimen choice guided by hCG and clinical factors, and disciplined serial hCG monitoring with predefined retreatment thresholds, which together balance efficacy, safety, and fertility preservation [^f2322706] [^097476c6] [^8d18492f].
+> Let me synthesize this into a clinically coherent narrative. Methotrexate treats ectopic pregnancy by exploiting the rapid proliferation of trophoblastic tissue: it inhibits dihydrofolate reductase, starves cells of thymidine and purines, halts DNA synthesis, and induces growth arrest and resorption of the ectopic gestation; because this is a gradual process, success hinges on careful patient selection, appropriate regimen choice guided by hCG and clinical factors, and disciplined serial hCG monitoring with predefined retreatment thresholds, which together balance efficacy, safety, and fertility preservation [^117C4rFF] [^111F21SM] [^114cBQrz].
 
 ---
 
-Methotrexate treats ectopic pregnancy by **inhibiting dihydrofolate reductase** [^f2322706], blocking DNA synthesis in rapidly dividing trophoblastic cells, which stops growth and leads to resorption [^151a5c11]. It is given as a **single 50 mg/m² IM dose** [^b3ccaf9d], with a second dose if hCG does not fall by ≥ 15% from day 4 to 7 [^8d18492f]; success is ~88–92% [^bbc94418] and is lower with higher initial hCG or fetal cardiac activity [^040dc40e]. Methotrexate is for hemodynamically stable patients with unruptured ectopic pregnancy and no contraindications [^95a8e000]; it preserves fertility [^f97d885f] and is less invasive than surgery, but requires close hCG monitoring [^7f0449ba] and has side effects such as nausea, stomatitis, and transient liver enzyme elevation [^08ea484d].
+Methotrexate treats ectopic pregnancy by **inhibiting dihydrofolate reductase** [^117C4rFF], blocking DNA synthesis in rapidly dividing trophoblastic cells, which stops growth and leads to resorption [^111YHbSp]. It is given as a **single 50 mg/m² IM dose** [^115bZY3n], with a second dose if hCG does not fall by ≥ 15% from day 4 to 7 [^114cBQrz]; success is ~88–92% [^115oQHgB] and is lower with higher initial hCG or fetal cardiac activity [^11171aJq]. Methotrexate is for hemodynamically stable patients with unruptured ectopic pregnancy and no contraindications [^114psswV]; it preserves fertility [^117Nt5kA] and is less invasive than surgery, but requires close hCG monitoring [^114FJsKw] and has side effects such as nausea, stomatitis, and transient liver enzyme elevation [^111EDbSk].
 
 ---
 
 ## Mechanism of action
 
-Methotrexate is a **folate antagonist** that inhibits dihydrofolate reductase [^f2322706], blocking conversion of folate to its active form and thereby halting DNA synthesis and cell division in rapidly proliferating trophoblastic tissue [^151a5c11]. This arrests growth and leads to resorption of the ectopic gestation [^8e7a2998].
+Methotrexate is a **folate antagonist** that inhibits dihydrofolate reductase [^117C4rFF], blocking conversion of folate to its active form and thereby halting DNA synthesis and cell division in rapidly proliferating trophoblastic tissue [^111YHbSp]. This arrests growth and leads to resorption of the ectopic gestation [^114eEGw9].
 
 ---
 
 ## Clinical protocols and administration
 
-Methotrexate is administered via **intramuscular injection** [^b3ccaf9d], with several protocols:
+Methotrexate is administered via **intramuscular injection** [^115bZY3n], with several protocols:
 
 | **Protocol** | **Dosage and administration** | **Monitoring and follow-up** |
 |-|-|-|
-| Single-dose | 50 mg/m² IM on day 0 [^b3ccaf9d] | - hCG on days 4 and 7 <br/> - Second dose if hCG decline < 15% from day 4 to 7 [^8d18492f] |
-| Two-dose | 50 mg/m² IM on days 0 and 4 [^ccf06f5d] | - hCG on days 4 and 7 <br/> - Additional dose if hCG decline < 15% [^ccf06f5d] |
-| Multiple-dose | 1 mg/kg IM on days 1, 3, 5, 7; folinic acid rescue on days 2, 4, 6, 8 [^7e1d7382] | - hCG measured before each dose <br/> - Stop when hCG declines by ≥ 15% [^7e1d7382] |
+| Single-dose | 50 mg/m² IM on day 0 [^115bZY3n] | - hCG on days 4 and 7 <br/> - Second dose if hCG decline < 15% from day 4 to 7 [^114cBQrz] |
+| Two-dose | 50 mg/m² IM on days 0 and 4 [^116EqEYL] | - hCG on days 4 and 7 <br/> - Additional dose if hCG decline < 15% [^116EqEYL] |
+| Multiple-dose | 1 mg/kg IM on days 1, 3, 5, 7; folinic acid rescue on days 2, 4, 6, 8 [^114DyLGH] | - hCG measured before each dose <br/> - Stop when hCG declines by ≥ 15% [^114DyLGH] |
 
 ---
 
-The **single-dose regimen** is most commonly used due to its simplicity, lower side-effect burden, and comparable success rates [^f354aef0].
+The **single-dose regimen** is most commonly used due to its simplicity, lower side-effect burden, and comparable success rates [^117DkSF9].
 
 ---
 
@@ -63,9 +63,9 @@ The **single-dose regimen** is most commonly used due to its simplicity, lower s
 
 Success rates vary with **patient selection and clinical factors**:
 
-- **Overall success**: 88–92% with single-dose regimens [^e011fc2b].
-- **hCG level**: Higher initial hCG (> 5,000 mIU/mL) increases failure risk [^58d4e079].
-- **Fetal cardiac activity**: Strongly predicts failure [^040dc40e].
+- **Overall success**: 88–92% with single-dose regimens [^116jCGW6].
+- **hCG level**: Higher initial hCG (> 5,000 mIU/mL) increases failure risk [^113GhQyW].
+- **Fetal cardiac activity**: Strongly predicts failure [^11171aJq].
 - **Ectopic mass size**: Larger masses reduce success [^notfound].
 
 ---
@@ -74,22 +74,22 @@ Success rates vary with **patient selection and clinical factors**:
 
 Methotrexate is indicated for **carefully selected patients**:
 
-- **Hemodynamic stability**: No signs of rupture or significant hemorrhage [^95a8e000].
+- **Hemodynamic stability**: No signs of rupture or significant hemorrhage [^114psswV].
 - **Unruptured ectopic pregnancy**: Confirmed on ultrasound [^notfound].
-- **No contraindications**: Absolute or relative (see below) [^2a3cb100].
-- **Reliable follow-up**: Available for serial hCG monitoring [^9425d6a9].
+- **No contraindications**: Absolute or relative (see below) [^1125csCb].
+- **Reliable follow-up**: Available for serial hCG monitoring [^114ndsrx].
 
 ---
 
 ## Contraindications
 
-Absolute contraindications include **intrauterine pregnancy**, breastfeeding, immunodeficiency, active pulmonary disease, peptic ulcer disease, hepatic or renal dysfunction, blood dyscrasias, or hypersensitivity to methotrexate [^2a3cb100]. Relative contraindications include **high initial hCG**, large ectopic mass, or fetal cardiac activity [^040dc40e].
+Absolute contraindications include **intrauterine pregnancy**, breastfeeding, immunodeficiency, active pulmonary disease, peptic ulcer disease, hepatic or renal dysfunction, blood dyscrasias, or hypersensitivity to methotrexate [^1125csCb]. Relative contraindications include **high initial hCG**, large ectopic mass, or fetal cardiac activity [^11171aJq].
 
 ---
 
 ## Side effects and complications
 
-Methotrexate is generally well tolerated; **common side effects** include nausea, vomiting, stomatitis, and transient liver enzyme elevation [^08ea484d]. Serious complications are rare but include tubal rupture (0.5–3%) [^569e7004] and severe hematologic or hepatic toxicity, especially in patients with renal or hepatic impairment [^a79bb38f].
+Methotrexate is generally well tolerated; **common side effects** include nausea, vomiting, stomatitis, and transient liver enzyme elevation [^111EDbSk]. Serious complications are rare but include tubal rupture (0.5–3%) [^113DR9rB] and severe hematologic or hepatic toxicity, especially in patients with renal or hepatic impairment [^115HVENS].
 
 ---
 
@@ -97,39 +97,39 @@ Methotrexate is generally well tolerated; **common side effects** include nausea
 
 Methotrexate offers several advantages over surgery:
 
-- **Fertility preservation**: Tubal conservation and comparable future fertility [^f97d885f].
-- **Less invasive**: Avoids surgery and anesthesia [^c4dd160c].
-- **Cost-effective**: Lower direct costs than surgery in many settings [^ce57015f].
+- **Fertility preservation**: Tubal conservation and comparable future fertility [^117Nt5kA].
+- **Less invasive**: Avoids surgery and anesthesia [^1162rqLf].
+- **Cost-effective**: Lower direct costs than surgery in many settings [^116Gug46].
 
-However, it requires **close follow-up** and has a small risk of treatment failure necessitating surgery [^8d18492f].
+However, it requires **close follow-up** and has a small risk of treatment failure necessitating surgery [^114cBQrz].
 
 ---
 
 ## Post-treatment monitoring and follow-up
 
-After methotrexate, **serial hCG measurements** are essential until levels reach nonpregnant values [^7f0449ba]. Resolution typically takes 2–4 weeks but can extend to 8 weeks [^ae0b16be]. Patients should avoid pregnancy for at least 3 months [^71e9189c] and report any abdominal pain or bleeding promptly [^556b37b3].
+After methotrexate, **serial hCG measurements** are essential until levels reach nonpregnant values [^114FJsKw]. Resolution typically takes 2–4 weeks but can extend to 8 weeks [^115T2a4d]. Patients should avoid pregnancy for at least 3 months [^113ustvX] and report any abdominal pain or bleeding promptly [^113Bdxin].
 
 ---
 
-Methotrexate is a **safe, effective, and less invasive alternative to surgery** for ectopic pregnancy, with success dependent on careful patient selection, appropriate protocol use, and close monitoring [^097476c6].
+Methotrexate is a **safe, effective, and less invasive alternative to surgery** for ectopic pregnancy, with success dependent on careful patient selection, appropriate protocol use, and close monitoring [^111F21SM].
 
 ---
 
 ## References
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^5bf85662]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^113MMHeZ]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, ACOG 2018 guidelines recommend to choose a methotrexate protocol guided by the initial hCG and discussion with the patient about the benefits and risks of each approach. Prefer single-dose protocol in patients with a relatively low initial hCG level or a plateau in hCG values, and consider using a two-dose regimen as an alternative to the single-dose regimen, particularly in patients with an initial high hCG value.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^097476c6]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^111F21SM]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, ACOG 2018 guidelines recommend to recognize that both laparoscopic surgery and IM methotrexate are safe and effective treatment options in clinically stable patients with non-ruptured ectopic pregnancy. Decide between surgical and medical management based on the initial clinical, laboratory, and radiologic data as well as patient-informed choice based on a discussion of the benefits and risks of each approach.
 
 ---
 
-### Single-dose methotrexate therapy for ectopic pregnancy… [^c4dd160c]. AAFP (2025). Medium credibility.
+### Single-dose methotrexate therapy for ectopic pregnancy… [^1162rqLf]. AAFP (2025). Medium credibility.
 
 In selected cases, a small unruptured ectopic pregnancy may be treated successfully with methotrexate. Use of single-dose methotrexate has been widely studied, but its success rate varies, leading critics to scrutinize its effectiveness, risk of side effects and associated complications. Morlock and colleagues compared the efficacy and cost-effectiveness of single-dose methotrexate with that of surgical management of ectopic pregnancy. A MEDLINE search for data from all relevant studies published between 1980 and 1998 was conducted to evaluate outcomes and costs for two first-line therapies for ectopic pregnancy: outpatient, fallopian tube–sparing laparoscopy and up to two doses of methotrexate. Decision-analysis models were constructed to estimate outcomes and costs for each treatment scenario. The primary outcome was resolution of the ectopic pregnancy. Secondary outcomes included complications and side effects, and these were classified as minor, serious or life-threatening.
 
@@ -137,37 +137,37 @@ Costs were attributed on the basis of protocols and costs at the authors' instit
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^04214588]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^111788K1]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering methotrexate in patients with interstitial pregnancy, although, there is insufficient evidence to recommend local or systemic approach.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^b1684f79]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^115Y1r1e]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, ACOG 2018 guidelines recommend to consider administering methotrexate in patients with a confirmed or high clinical suspicion of ectopic pregnancy being hemodynamically stable, having an unruptured mass, and not having absolute contraindications to methotrexate administration.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^8d18492f]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^114cBQrz]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, ACOG 2018 guidelines recommend to administer additional methotrexate (in the case of the single-dose or two-dose regimen) or perform a surgical intervention in patients who failed to decrease the hCG level by at least 15% from day 4–7 after methotrexate administration.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^35a24834]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^112NWrSo]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering systemic methotrexate in patients with ovarian ectopic pregnancy if the risk of surgery is high, or postoperatively in the presence of persistent residual trophoblast or persistently raised serum β-human chorionic gonadotrophin levels.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^667794b8]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^113cuuNP]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering systemic methotrexate in suitable patients with tubal pregnancy. Do not use methotrexate at the first visit unless the diagnosis of ectopic pregnancy is absolutely clear and a viable intrauterine pregnancy has been excluded.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^4a9f80de]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^112udfEM]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding patient education for ectopic pregnancy, more specifically with respect to counseling on methotrexate treatment, ACOG 2018 guidelines recommend to counsel patients treated with methotrexate about the following:
 
@@ -179,25 +179,25 @@ Regarding patient education for ectopic pregnancy, more specifically with respec
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^1fab2399]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^111ox6o2]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering systemic methotrexate with ultrasound-guided feticide as a possible alternative treatment method in patients with abdominal pregnancy.
 
 ---
 
-### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^3d1af7fe]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^112ZbJaq]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, SOGC 2021 guidelines recommend to consider administering methotrexate in appropriately selected patients with ovarian pregnancy.
 
 ---
 
-### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^00f1d5cc]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^1112QEL3]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, SOGC 2021 guidelines recommend to consider administering single- or double-dose methotrexate in patients with tubal pregnancy meeting criteria for medical management.
 
 ---
 
-### Methotrexate vs. salpingostomy for ectopic pregnancy… [^9c5da3ff]. AAFP (1999). Low credibility.
+### Methotrexate vs. salpingostomy for ectopic pregnancy… [^114zpXEE]. AAFP (1999). Low credibility.
 
 In recent years, intramuscular methotrexate has gained attention as an alternative to sal-pingostomy for management of ectopic pregnancy. In addition, there is also interest in using serum human chorionic gonadotropin or progesterone levels to monitor resolution of ectopic pregnancy after intervention. Saraj and associates compared methotrexate and salpingostomy in the treatment of ectopic pregnancy and evaluated the role of serum hCG and progesterone levels as markers for resolution. Progesterone and hCG levels were determined at baseline, on days 4 and 7 after treatment, and weekly thereafter until the hCG level fell to less than 15 mIU per mL and the progesterone level declined to less than 1. 5 ng per mL. A second methotrexate injection was administered if the hCG level on day 7 had not decreased by 15 percent from the level on day 4. Six of the 38 patients required a repeat injection.
 
@@ -211,7 +211,7 @@ That serum progesterone levels resolved faster than serum hCG levels suggests th
 
 ---
 
-### Systematic review and meta-analysis of single-dose and non-single-dose methotrexate protocols in the treatment of ectopic pregnancy [^98d97811]. International Journal of Gynaecology and Obstetrics (2018). Low credibility.
+### Systematic review and meta-analysis of single-dose and non-single-dose methotrexate protocols in the treatment of ectopic pregnancy [^114ucAUQ]. International Journal of Gynaecology and Obstetrics (2018). Low credibility.
 
 Background
 
@@ -243,7 +243,7 @@ The single-dose methotrexate protocol was the optimal protocol for the medical t
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^9c33b8f0]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^114zaSbZ]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Conclusions
 
@@ -251,25 +251,25 @@ The clear message from this study is that it is the cost of treatment failure an
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^a5fdf4a8]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^115F6FxK]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering methotrexate in patients with cervical pregnancy.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^46ea31cf]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^112p8oCr]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider administering methotrexate in patients with heterotopic pregnancy only if the intrauterine pregnancy is nonviable or if the patient does not wish to continue with the pregnancy.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^71e9189c]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^113ustvX]. BJOG (2016). Medium credibility.
 
 Regarding patient education for ectopic pregnancy, more specifically with respect to counseling on methotrexate treatment, RCOG 2016 guidelines recommend to advise patients treated with methotrexate to wait at least 3 months before trying to conceive again.
 
 ---
 
-### Methotrexate treatment in cases of ectopic pregnancy… [^7e5d1d85]. ClinicalTrials (2025). Medium credibility.
+### Methotrexate treatment in cases of ectopic pregnancy… [^114ELiYL]. ClinicalTrials (2025). Medium credibility.
 
 Study Overview Study Description Purpose: The aim of this study is to evaluate the effectiveness and safety of methotrexate treatment in women with ectopic pregnancy who belong to a group for whom this treatment is relatively contraindicated. Background: Methotrexate is a medication commonly used in the treatment of ectopic pregnancy. However, in certain conditions
 - such as kidney or liver dysfunction
@@ -283,7 +283,7 @@ Data will be analyzed using Statistical Package for the Social Sciences, and in 
 
 ---
 
-### A cautionary tale: fatal outcome of methotrexate therapy given for management of ectopic pregnancy [^a79bb38f]. Obstetrics and Gynecology (2006). Low credibility.
+### A cautionary tale: fatal outcome of methotrexate therapy given for management of ectopic pregnancy [^115HVENS]. Obstetrics and Gynecology (2006). Low credibility.
 
 Background
 
@@ -299,31 +299,31 @@ Methotrexate, even at extremely low doses, can be fatal in patients with renal i
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^f2322706]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^117C4rFF]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Tubal ectopic pregnancy — methotrexate mechanism and alternatives: Methotrexate is a folate antagonist that binds to the catalytic site of dihydrofolate reductase, which interrupts the synthesis of purine nucleotides and the amino acids serine and methionine, thereby inhibiting DNA synthesis and repair and cell replication. Systemic methotrexate has been used to treat gestational trophoblastic disease since 1956 and was first used to treat ectopic pregnancy in 1982. There are no recommended alternative medical treatment strategies for ectopic pregnancy beyond intramuscular methotrexate, and although oral methotrexate therapy for ectopic pregnancy has been studied, the outcomes data are sparse and indicate that benefits are limited.
 
 ---
 
-### Use of methotrexate in gynecologic and obstetric practice: what the radiologist needs to know [^524ea66e]. Radiographics (2021). Medium credibility.
+### Use of methotrexate in gynecologic and obstetric practice: what the radiologist needs to know [^11372QLV]. Radiographics (2021). Medium credibility.
 
 Methotrexate (MTX) is the primary pharmaceutical agent that is used for management of disorders arising from trophoblastic tissue. Its widespread international use is mostly attributable to its noninvasive, safe, and effective characteristics as a treatment option for ectopic pregnancy (EP) and gestational trophoblastic disease (GTD), with the large added benefit of fertility preservation. Although the effects of MTX usage are well documented in the gynecologic and obstetric literature, there is a scarcity of radiologic literature on the subject. Depending on the type of EP, the route of MTX administration and dosage may vary. US plays an essential role in the diagnosis and differentiation of various types of EPs, pregnancy-related complications, and complications related to MTX therapy, as well as the assessment of eligibility criteria for MTX usage. A knowledge of expected imaging findings following MTX treatment, including variability in echogenicity and shape of the EP, size fluctuations, changes in vascularity and gestational sac content, and the extent of hemoperitoneum, is essential for appropriate patient management and avoidance of unnecessary invasive procedures. A recognition of sonographic findings associated with pregnancy progression and complications such as tubal or uterine rupture, severe hemorrhage, septic abortion, and development of arteriovenous communications ensures prompt patient surgical management. The authors discuss the use of MTX in the treatment of disorders arising from trophoblastic tissue (namely EP and GTD), its mechanism of action, its route of administration, and various treatment regimens. The authors also provide a focused discussion of the role of US in the detection and diagnosis of EP and GTD, the assessment of the eligibility criteria for MTX use, and the identification of the sonographic findings seen following MTX treatment, with specific emphasis on imaging findings associated with MTX treatment success and failure. Online supplemental material is available for this article. © RSNA, 2021.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^b7188f05]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^115gSz1i]. BJOG (2016). Medium credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, RCOG 2016 guidelines recommend to consider offering either medical or surgical interventions, with or without additional hemostatic measures, in patients with first-trimester Cesarean scar pregnancy.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^971ac27c]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^114s27sh]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding patient education for ectopic pregnancy, more specifically with respect to counseling on methotrexate treatment, ACOG 2018 guidelines recommend to consider counseling patients that methotrexate treatment of ectopic pregnancy does not have an adverse effect on subsequent fertility or on ovarian reserve.
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^f1902723]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^117B8SEv]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Conclusion
 
@@ -331,61 +331,61 @@ In conclusion, MTX therapy for ectopic pregnancy is a safe, effective and superi
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^8d6c7e5a]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^114cfhMs]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin No. 193 — Level C recommendations (consensus/expert opinion) specify that the minimum diagnostic evaluation of a suspected ectopic pregnancy is a transvaginal ultrasound evaluation and confirmation of pregnancy, and serial evaluation with transvaginal ultrasonography, or serum hCG level measurement, or both, often is required to confirm the diagnosis; a woman with a pregnancy of unknown location who is clinically stable and desires to continue the pregnancy, if intrauterine, should have a repeat transvaginal ultrasound examination, or serial measurement of hCG concentration, or both, to confirm the diagnosis and guide management; medical management with methotrexate can be considered for women with confirmed or high clinical suspicion of ectopic pregnancy who are hemodynamically stable, have an unruptured mass, and have no absolute contraindications to methotrexate; after administration of methotrexate treatment, hCG levels should be serially monitored until a nonpregnancy level is reached.
 
 ---
 
-### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^f64d0951]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^117J9q7e]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, SOGC 2021 guidelines recommend to do not use systemic methotrexate in patients with heterotopic pregnancy in the presence of a desired intrauterine pregnancy.
 
 ---
 
-### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^1523aec7]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^111YLj5G]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, SOGC 2021 guidelines recommend to offer conservative medical management with multidose and/or local methotrexate in appropriately selected patients with interstitial or cornual pregnancy.
 
 ---
 
-### Medical treatment of ectopic pregnancy: a committee opinion [^71a291c3]. Fertility and Sterility (2013). Low credibility.
+### Medical treatment of ectopic pregnancy: a committee opinion [^113uUCxA]. Fertility and Sterility (2013). Low credibility.
 
 Methotrexate, a folic acid antagonist, is an effective treatment for early unruptured ectopic pregnancy. Several treatment regimens are available. Methotrexate is more effective when used to treat ectopic pregnancies with lower human chorionic gonadotropin (hCG) levels. However, there is no consensus on a threshold value that best predicts success or failure. Methotrexate can be used to treat ectopic pregnancies that occur in cornual, cervical, and cesarean scar locations, and it does not adversely affect ovarian reserve or subsequent fertility. This document replaces the previous document of the same name, last published in 2008 (Fertil Steril 2008;90:S206-12).
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^48ff4f1a]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^112sDs7P]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin No. 193 — methotrexate protocol selection and response monitoring in tubal ectopic pregnancy states that the choice of methotrexate protocol should be guided by the initial hCG level and discussion with the patient regarding the benefits and risks of each approach, with the single-dose protocol potentially most appropriate for relatively low initial hCG or plateaued values and the two-dose regimen considered particularly with an initial high hCG value; additionally, failure of the hCG level to decrease by at least 15% from day 4 to day 7 after methotrexate requires additional methotrexate (single- or two-dose regimen) or surgical intervention.
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^151a5c11]. Annals of Emergency Medicine (2017). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^111YHbSp]. Annals of Emergency Medicine (2017). Medium credibility.
 
 Methotrexate in ectopic pregnancy — The emergency physician must be aware of potential side effects, complications, and drug interactions of methotrexate; methotrexate is a cytotoxic agent that acts by inhibiting dihydrofolate reductase and is a potent folate antagonist that blocks DNA synthesis before cell division; rapidly dividing cells, such as trophoblastic tissue, are unable to divide and replicate, and bone marrow suppression and gastrointestinal toxicity are possible with complications including stomatitis, nausea, vomiting, diarrhea, and abdominal cramping; hepatotoxicity has been shown after prolonged methotrexate use and is not relevant in the short-term dosing used for ectopic pregnancy; patients may experience acute pulmonary symptoms such as cough, dyspnea, and chest pain that usually resolve with discontinuation of methotrexate and rarely occur with brief use; several drugs need to be carefully monitored during methotrexate use.
 
 ---
 
-### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^e7e0ea0d]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 414: management of pregnancy of unknown location and tubal and nontubal ectopic pregnancies [^116vmgnG]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for ectopic pregnancy, more specifically with respect to methotrexate, SOGC 2021 guidelines recommend to offer medical management over surgical management with dilatation and curettage in appropriately selected patients with cervical pregnancy.
 
 ---
 
-### "Watchful waiting" in ectopic pregnancies: a balance between reduced success rates and less methotrexate [^f639027a]. Fertility and Sterility (2011). Low credibility.
+### "Watchful waiting" in ectopic pregnancies: a balance between reduced success rates and less methotrexate [^117J36xq]. Fertility and Sterility (2011). Low credibility.
 
 Many cases of ectopic pregnancy will spontaneously resolve, so that "watchful waiting" and β-hCG follow-up will separate true viable ectopic pregnancies from spontaneously resolving ectopic pregnancies. Withholding methotrexate in patients with spontaneously resolving ectopic pregnancies and administering it in only true viable ectopic pregnancies will no doubt decrease published success rates for this therapy.
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^84e4de16]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^114Q2Eu3]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin No. 193 — counseling and expectant management notes that patients can be counseled that available evidence, although limited, suggests that methotrexate treatment of ectopic pregnancy does not have an adverse effect on subsequent fertility or on ovarian reserve; patients treated with methotrexate should be counseled about the risk of ectopic pregnancy rupture, about avoiding certain foods, supplements, or drugs that can decrease efficacy, and about the importance of not becoming pregnant again until resolution has been confirmed; there may be a role for expectant management of ectopic pregnancy in specific circumstances.
 
 ---
 
-### Two-dose versus single-dose methotrexate for treatment of ectopic pregnancy: a meta-analysis [^c830551c]. American Journal of Obstetrics and Gynecology (2019). Medium credibility.
+### Two-dose versus single-dose methotrexate for treatment of ectopic pregnancy: a meta-analysis [^1167nkxK]. American Journal of Obstetrics and Gynecology (2019). Medium credibility.
 
 Objective
 
@@ -413,25 +413,25 @@ The 2-dose methotrexate protocol is superior to the single-dose protocol for the
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^a35e8858]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^115BCjaX]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate counseling and pregnancy timing — women should be counseled about fetal death or teratogenic effects when administered during pregnancy, and product labeling "recommends that women avoid pregnancy during treatment and for at least one ovulatory cycle after methotrexate therapy". Methotrexate "is cleared from the serum before the 4–12 weeks necessary for the resolution of the ectopic gestation", yet "there are reports of methotrexate detectable in liver cells 116 days past exposure"; although "limited evidence suggests that the frequency of congenital anomalies or early pregnancy loss is not elevated" shortly after exposure, "some experts continue to recommend that women delay pregnancy for at least 3 months after the last dose of methotrexate".
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^f97d885f]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^117Nt5kA]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate and subsequent fertility — patients can be counseled that available evidence, although limited, "suggests that methotrexate treatment of ectopic pregnancy does not have an adverse effect on subsequent fertility or on ovarian reserve". A prospective observational study noted "no difference in anti-müllerian hormone levels or reproductive outcomes after administration of methotrexate", and a systematic review found "no significant differences in the mean number of oocytes retrieved during the cycles before and after methotrexate administration".
 
 ---
 
-### Does methotrexate treatment for ectopic pregnancy influence the patient's performance during a subsequent in vitro fertilization / embryo transfer cycle? [^ab1bf4c6]. Fertility and Sterility (2007). Low credibility.
+### Does methotrexate treatment for ectopic pregnancy influence the patient's performance during a subsequent in vitro fertilization / embryo transfer cycle? [^115NgGpV]. Fertility and Sterility (2007). Low credibility.
 
 In a study on the influence of methotrexate (MTX) treatment on ovarian stimulation characteristics during the subsequent IVF cycle, 14 patients admitted to our department with the diagnosis of ectopic pregnancy and successfully treated with MTX were evaluated. No differences were observed in ovarian stimulation characteristics between the IVF cycle that had resulted in the ectopic pregnancy and the IVF cycle that followed MTX treatment. Treating ectopic pregnancy with MTX has no influence on patients' performance in the following IVF cycle.
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^3f0dc66a]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^112cUr7b]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Background
 
@@ -439,43 +439,43 @@ Ectopic pregnancy is a common acute abdominal disease in obstetrics and gynecolo
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^6551944d]. Annals of Emergency Medicine (2017). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^113bD9kp]. Annals of Emergency Medicine (2017). Medium credibility.
 
 Ectopic pregnancy — methotrexate use parameters and administration options include that the ACOG 1998 Practice Bulletin recommended methotrexate be used only in patients with an hCG level between 6,000 and 15,000 mIU/mL, recommended a single dose of methotrexate (50 mg/m²), and noted a second similar dose may be required during follow-up to increase success; some investigators have used an injection of 1 mg/kg directly into the ectopic sac, which appears to be as effective as intramuscular injections and causes fewer side effects but is more invasive; a 5-day regimen of methotrexate administered orally was not shown to be more effective than placebo; and because of potentially lethal interactions of aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs) with methotrexate, it may be advisable for patients to avoid using these drugs concurrently with methotrexate until further research in this specific use is available.
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^f354aef0]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^117DkSF9]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate single-dose versus multiple-dose regimens — A more recent systematic review of randomized controlled trials showed similar rates of successful resolution with the single-dose and multiple-dose regimens (relative risk [RR], 1.07; 95% CI, 0.99–1.17) and an increased risk of adverse effects with the multiple-dose protocol (RR, 1.64; 95% CI, 1.15–2.34), while earlier data indicate the single-dose regimen is associated with a decreased risk of adverse effects (OR, 0.44; 95% CI, 0.31–0.63).
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^040dc40e]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^11171aJq]. Obstetrics and Gynecology (2018). Medium credibility.
 
 ACOG Practice Bulletin — methotrexate regimens and selection for tubal ectopic pregnancy states there are three published protocols (single-dose, two-dose, fixed multiple-dose), the single-dose regimen may require an additional dose in up to one quarter of patients, the two-dose regimen administers a second dose on day 4 of treatment while following the same hCG monitoring schedule, and the multiple-dose method involves up to 8 days of alternating methotrexate and folinic acid; overall treatment success ranges from approximately 70% to 95%, and predictors of methotrexate treatment failure include an advanced or rapidly growing gestation with fetal cardiac activity and a rapidly increasing hCG concentration greater than 50% in 48 hours; the choice of protocol should be guided by the initial hCG level and patient discussion, and in general the single-dose protocol may be most appropriate for relatively low initial hCG or plateaued values, while the two-dose regimen may be considered as an alternative, particularly when the initial hCG is high.
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^0e5b59ae]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^111NHWbP]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy medical management — studies report methotrexate dosing, allocation, and outcomes. In a clinical trial, N = 62 women were randomized to methotrexate (50 mg/m²) IM, repeated on day 7 and subsequently as needed (n = 34), or laparoscopic surgery (n = 28); of the methotrexate group, 29 (85%) had resolution without surgery, 5 (15%) required surgery, and 3 (9%) had rupture, with exclusion criteria of β-hCG level ≥ 5,000 mIU/mL or adnexal mass ≥ 3.5 cm in diameter, and resolution based on β-hCG level resolution and clinical follow-up. In another clinical trial of N = 60 women randomized to oral methotrexate (2.5 mg daily ×5) or placebo, for each treatment arm (n = 30), 23 (77%) had resolution without surgery and 7 (23%) required surgery; treatment with very low-dose methotrexate (total 12.5 mg orally) did not affect the outcome of ectopic pregnancy, with resolution based on β-hCG level resolution and serial ultrasonography. In a prospective observational series of women (N = 120) with early ectopic pregnancy (≤ 3.5 cm) treated with methotrexate (50 mg/m² IM) with possible repeat on day 7, 113 (94.1%) had resolution without surgery and 7 (5.8%) required surgery, all for rupture, with resolution based on β-hCG level resolution and clinical follow-up.
 
 ---
 
-### A pragmatic and evidence-based management of ectopic pregnancy [^cecd2db5]. Journal of Minimally Invasive Gynecology (2013). Low credibility.
+### A pragmatic and evidence-based management of ectopic pregnancy [^116HbNFe]. Journal of Minimally Invasive Gynecology (2013). Low credibility.
 
 The incidence of ectopic pregnancy is approximately 2% of all pregnancies, and it remains the leading cause of death in early pregnancy. Over 95% of ectopic pregnancies are tubal pregnancies, and the remainders are nontubal pregnancies. The highest risk factor for ectopic pregnancy is a previous tubal pregnancy followed by previous tubal surgery, tubal sterilization, tubal pathology, and current intrauterine device use. The apparent increase in the incidence of nontubal ectopic pregnancy including heterotopic pregnancy may be attributed to the increasing number of pregnancies because of in vitro fertilization treatment. In most cases, an ectopic pregnancy can be treated medically with a single dose of methotrexate. Surgical treatment is still needed in women who are hemodynamically unstable and in those who do not fulfill the criteria for methotrexate treatment. Usually surgical treatment can be performed by laparoscopy and in some cases by hysteroscopy. Laparotomy is rarely needed even in women with intraperitoneal bleeding.
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^9384758a]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^114mhfwP]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 On the other hand, the study has some limitations. We only took into account direct UK healthcare costs. Indirect costs, such as travel expenses and time off work, are undoubtedly important. In addition, we did not analyse the costs of conservative management although we predict that the costs may not be less than successful methotrexate treatment. Furthermore, we decided to focus solely on costs in this study but it is important to acknowledge that health benefits and quality of life are also extremely relevant. For example, if women in the surgery group have a better quality of life than the methotrexate group, this may be a more cost effective option overall.
 
 ---
 
-### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^131882db]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^111VJzsU]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Clinical and research implications
 
@@ -489,19 +489,19 @@ Additionally, it is crucial to develop predictive models that integrate multiple
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^556b37b3]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^113Bdxin]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Counseling during methotrexate treatment — Patients treated with methotrexate should be counseled about the risk of ectopic pregnancy rupture, about avoiding certain foods, supplements, or drugs that can decrease efficacy, and about not becoming pregnant again until resolution has been confirmed. Patients should be educated about symptoms of tubal rupture and the need to seek immediate medical attention if they occur, vigorous activity and sexual intercourse should be avoided until confirmation of resolution, practitioners should limit pelvic and ultrasound examinations when possible, and patients should be advised to avoid folic acid supplements.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^c4a1bb7c]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^1162Wu31]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding surgical interventions for ectopic pregnancy, more specifically with respect to surgical management (general indications), ACOG 2018 guidelines recommend to recognize that both laparoscopic surgery and IM methotrexate are safe and effective treatment options in clinically stable patients with non-ruptured ectopic pregnancy. Decide between surgical and medical management based on the initial clinical, laboratory, and radiologic data as well as patient-informed choice based on a discussion of the benefits and risks of each approach.
 
 ---
 
-### Success of methotrexate for the management of recurrent compared with primary ectopic pregnancy: a systematic review and meta-analysis [^8a8abc73]. Obstetrics and Gynecology (2025). Medium credibility.
+### Success of methotrexate for the management of recurrent compared with primary ectopic pregnancy: a systematic review and meta-analysis [^114YPtgr]. Obstetrics and Gynecology (2025). Medium credibility.
 
 Objective
 
@@ -529,13 +529,13 @@ PROSPERO, CRD42025642895.
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^7e1d7382]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^114DyLGH]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate treatment protocols — fixed multiple-dose regimen — administer methotrexate 1 mg/kg intramuscularly on days 1, 3, 5, 7; alternate with folinic acid 0.1 mg/kg intramuscularly on days 2, 4, 6, 8; measure hCG levels on methotrexate dose days and continue until hCG has decreased by 15% from its previous measurement; if the decrease is greater than 15%, discontinue administration of methotrexate and measure hCG levels weekly until reaching nonpregnant levels (may ultimately need one, two, three, or four doses); if hCG does not decrease after four doses, consider surgical management; if hCG levels plateau or increase during follow-up, consider administering methotrexate for treatment of a persistent ectopic pregnancy.
 
 ---
 
-### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^6aa21a28]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^113j68sq]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 AUTHOR CONTRIBUTIONS
 
@@ -543,7 +543,7 @@ All authors participated in study design and data collection. A.D.S wrote the ma
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^47e0e5a5]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^112qZfMe]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Discussion
 
@@ -551,31 +551,31 @@ MTX treatment is safe and effective. According to the statistics in the literatu
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^95a8e000]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^114psswV]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Tubal ectopic pregnancy — candidates for medical management: Medical management with methotrexate can be considered for women with a confirmed or high clinical suspicion of ectopic pregnancy who are hemodynamically stable, who have an unruptured mass, and who do not have absolute contraindications to methotrexate administration. These patients generally also are candidates for surgical management, and the decision for surgical versus medical management should be guided by the initial clinical, laboratory, and radiologic data as well as patient-informed choice; women who choose methotrexate therapy should be counseled about the importance of follow-up surveillance.
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^19e3a4f4]. Annals of Emergency Medicine (2017). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^111fP9v3]. Annals of Emergency Medicine (2017). Medium credibility.
 
 Patient management recommendations — Level A recommendations and Level B recommendations are noted as none specified, and Level C recommendations state that because the symptoms associated with gastrointestinal side effects of methotrexate therapy may mimic an acute ectopic rupture, clinicians should rule out ectopic rupture resulting from treatment failure before attributing gastrointestinal symptoms to methotrexate toxicity; treatment failure with single dose methotrexate for ectopic pregnancy can occur in up to 36% of patients.
 
 ---
 
-### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^7f0449ba]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 191: tubal ectopic pregnancy [^114FJsKw]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Regarding follow-up and surveillance for ectopic pregnancy, more specifically with respect to hCG monitoring, ACOG 2018 guidelines recommend to obtain serial monitoring of hCG levels after administration of methotrexate treatment until a nonpregnancy level (based upon the reference laboratory assay) is reached.
 
 ---
 
-### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^405db9af]. BJOG (2016). Medium credibility.
+### Diagnosis and management of ectopic pregnancy: green-top guideline no. 21 [^112eRgxE]. BJOG (2016). Medium credibility.
 
 Regarding patient education for ectopic pregnancy, more specifically with respect to fertility counseling, RCOG 2016 guidelines recommend to consider advising patients receiving methotrexate for tubal ectopic pregnancy that there is no effect on ovarian reserve.
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^121c0354]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^111TrBoy]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Competing interests
 
@@ -583,19 +583,19 @@ AWH and HODC hold a UK patent for a diagnostic biomarker for ectopic pregnancy (
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^bbc94418]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^115oQHgB]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy — methotrexate medical management outcomes are reported from a structured review showing resolution without surgery for single- and multiple-dose regimens: A structured review of 76 articles (N = 1,327 patients) assessed resolution of ectopic pregnancy with medical management, with single-dose methotrexate achieving 940/1,067 (88.1%) resolution without surgery and multiple-dose methotrexate achieving 241/260 (92.7%); the frequency of rupture was not reported and the rehospitalization rate was approximately 12%, similar between groups.
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^b3ccaf9d]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^115bZY3n]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate treatment protocols — single-dose regimen — administer a single dose of methotrexate 50 mg/m² intramuscularly on day 1 and measure human chorionic gonadotropin (hCG) on posttreatment day 4 and day 7; if the decrease is greater than 15%, measure hCG levels weekly until reaching nonpregnant level, but if decrease is less than 15%, readminister methotrexate 50 mg/m² intramuscularly and repeat hCG level; if hCG does not decrease after two doses, consider surgical management; if hCG levels plateau or increase during follow-up, consider administering methotrexate for treatment of a persistent ectopic pregnancy.
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^6607a57a]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^113cGJi5]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Background
 
@@ -613,13 +613,13 @@ We hypothesised that further clinical experience with methotrexate, and the incr
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^ccf06f5d]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^116EqEYL]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Methotrexate treatment protocols — two-dose regimen — administer methotrexate 50 mg/m² intramuscularly on day 1 and a second 50 mg/m² intramuscular dose on day 4; measure hCG level on posttreatment day 4 and day 7; if the decrease is greater than 15%, measure hCG levels weekly until reaching nonpregnant level; if decrease is less than 15%, readminister methotrexate 50 mg/m² intramuscularly on day 7 and check hCG levels on day 11; if hCG levels decrease 15% between day 7 and day 11, continue to monitor weekly until reaching nonpregnant levels; if the decrease is less than 15% between day 7 and day 11, readminister dose of methotrexate 50 mg/m² intramuscularly on day 11 and check hCG levels on day 14; if hCG does not decrease after four doses, consider surgical management; if hCG levels plateau or increase during follow-up, consider administering methotrexate for treatment of a persistent ectopic pregnancy.
 
 ---
 
-### Methotrexate in pregnancy: still many unanswered questions [^ee603e7c]. RMD Open (2023). Medium credibility.
+### Methotrexate in pregnancy: still many unanswered questions [^1176QP4F]. RMD Open (2023). Medium credibility.
 
 Methotrexate (MTX) is a folate antagonist with known teratogenicity including abortifacient effects that interfere with DNA synthesis. We want to discuss on which findings teratogenicity is based and which open questions still exist. In this context, we introduce a recent Italian study by Zanetti et al on pregnancy outcomes after therapeutic use of MTX in women with rheumatoid arthritis (RA).
 
@@ -627,13 +627,13 @@ MTX is on the WHO list of essential medicines. In addition to the approved indic
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^569e7004]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^113DR9rB]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Methotrexate outcomes and complication rates in ectopic pregnancy — In a Class I trial, "212 women with ectopic pregnancy received intramuscular methotrexate that was repeated as needed. This trial was remarkable for the high failure rate (22.9%) and for the low observed risk of tubal rupture (0.5%)". In another Class I study of 62 women, "Among the 34 women randomized to methotrexate therapy, the treatment failure rate was 15% and the rupture rate was 0%". A Class II trial of low-dose oral therapy reported: "(12.5 mg total)… Treatment failure occurred in 23% of patients. The rupture rate was not reported". Across Class III studies, "the treatment failure rates ranged from 3% to 29%", and rupture, when reported, "occurred in 0.5% to 19% of women treated". A structured review of multiple-dose regimens found "a 7% failure rate", with "12% of patients required rehospitalization". Regarding surgical need, a Class III observational study "included 177 women with ectopic pregnancies, 29 of whom had ruptured ectopic pregnancy prior to therapy… Nineteen percent of the women with unruptured ectopic pregnancy and 38% of women with ruptured ectopic pregnancy required surgery".
 
 ---
 
-### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^2e9188ca]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^112C3KCd]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Background
 
@@ -645,7 +645,7 @@ While several studies have attempted to identify predictors of MTX treatment fai
 
 ---
 
-### Methotrexate in the treatment of ectopic pregnancy… [^8e7a2998]. AAFP (2000). Low credibility.
+### Methotrexate in the treatment of ectopic pregnancy… [^114eEGw9]. AAFP (2000). Low credibility.
 
 Many women with ectopic pregnancies are now being treated with methotrexate instead of conventional surgery. One or more intramuscular injections of the medication usually cause resorption or spontaneous tubal abortion of the ectopic conceptus. To date, the success of methotrexate has been thought to depend on the levels of human chorionic gonadotropin and progesterone, and the absence of blood in the peritoneal cavity. The authors conducted a retrospective chart review of 350 women with singleton ectopic pregnancies who were treated with intramuscular methotrexate at their institution. A diagnosis of ectopic pregnancy was established initially through the measurement of serum hCG and progesterone levels. Women with an hCG level of less than 50, 000 mIU per mL or a serum progesterone level of less than 25 ng per mL underwent further evaluation.
 
@@ -655,13 +655,13 @@ However, unlike previously published studies, in this study a high success rate 
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^9425d6a9]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^114ndsrx]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Emergency department management of patients receiving methotrexate for confirmed or suspected ectopic pregnancy — Level B recommendations state to "Arrange outpatient follow-up for patients who receive methotrexate therapy in the ED for a confirmed or suspected ectopic pregnancy" and to "Strongly consider ruptured ectopic pregnancy in the differential diagnosis of patients who have received methotrexate and present with concerning signs or symptoms", while "Level A recommendations. None specified". and "Level C recommendations. None specified". Although this therapy may be appropriately initiated in the emergency department (ED), "follow-up care is essential", and "Patients who develop increasing pain and/or signs of hemodynamic instability after methotrexate therapy should receive stabilizing care and prompt diagnostic studies, such as abdominal and pelvic ultrasonography, to establish or exclude the diagnosis of ruptured ectopic pregnancy".
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^33eeedef]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^112Kzd6N]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Outcomes and use of resources
 
@@ -671,13 +671,13 @@ Out of the 48 patients initially medically managed with methotrexate, 13 require
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^e011fc2b]. Annals of Emergency Medicine (2017). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^116jCGW6]. Annals of Emergency Medicine (2017). Medium credibility.
 
 Ectopic pregnancy — methotrexate therapy outcomes and predictors are summarized as follows: Selected patients with close follow-up have been safely treated with methotrexate, with success rates ranging from 64% to 94%. In a cohort of 120 women meeting criteria including an unruptured ectopic mass less than 3.5 cm, hemodynamic stability, and absence of hemoperitoneum, treatment was successful for 94% and 3.3% required a second intramuscular injection. In another series of 50 women treated intramuscularly, the success rate was 65% with the first injection and increased to 78% with a second injection. In 315 women, overall success without surgery was 90.1%, with 82.5% requiring only 1 injection; in 350 women, overall success without surgery was 91%, with more than 1 dose given to 20% of patients. The most important factor associated with single dose methotrexate failure was an elevated hCG level greater than 10,000 mIU/mL, while increased success was observed when no fetal cardiac activity was detected; gastrointestinal side effects of methotrexate therapy are similar to symptoms of ruptured ectopic pregnancy.
 
 ---
 
-### Comparison of success rates in the medical management of ectopic pregnancy with single-dose and multiple-dose administration of methotrexate: a prospective, randomized clinical trial [^7ce32fff]. Fertility and Sterility (2006). Low credibility.
+### Comparison of success rates in the medical management of ectopic pregnancy with single-dose and multiple-dose administration of methotrexate: a prospective, randomized clinical trial [^114C9mux]. Fertility and Sterility (2006). Low credibility.
 
 Objective
 
@@ -713,7 +713,7 @@ The results of our study showed that single-dose treatment with MTX could be as 
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^4386d9aa]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^112j7Tyb]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Background
 
@@ -733,13 +733,13 @@ Our data support an ongoing unmet economic need for better medical treatments fo
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^7e8b669d]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^114EcGFn]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Single-dose versus two-dose methotrexate — A systematic review and meta-analysis of three randomized controlled trials showed similar rates of successful resolution for the two-dose and single-dose protocols (RR, 1.09; 95% CI 0.98–1.20) and comparable risk of adverse effects (RR, 1.33; 95% CI, 0.92–1.94). In women with high initial human chorionic gonadotropin (hCG) levels, one trial found a nonstatistically significant trend toward greater success for the two-dose regimen when initial hCG was greater than 5,000 mIU/mL (80.0% versus 58.8%, P = 0.279) (RR, 0.74; 95% CI, 0.47–1.16), and a second trial showed a statistically significant higher success rate for two-dose versus single-dose when initial serum hCG was 3,600–5,500 mIU/mL (88.9% versus 57.9%, P = 0.03) (OR 5.80; 95% CI, 1.29–26.2).
 
 ---
 
-### A rare drug reaction to methotrexate after treatment for ectopic pregnancy [^ca0b885b]. Obstetrics and Gynecology (2004). Low credibility.
+### A rare drug reaction to methotrexate after treatment for ectopic pregnancy [^116AYNbk]. Obstetrics and Gynecology (2004). Low credibility.
 
 Background
 
@@ -755,13 +755,13 @@ Methotrexate is a commonly used therapy for ectopic pregnancies in the outpatien
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^ae0b16be]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^115T2a4d]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Post-methotrexate surveillance — After methotrexate treatment, human chorionic gonadotropin (hCG) levels should be serially monitored until a nonpregnancy level is reached, with early post-treatment rises possible before progressive decline. Failure of the hCG level to decrease by at least 15% from day 4 to day 7 requires additional methotrexate administration (single-dose or two-dose regimen) or surgical intervention, and pretreatment uterine aspiration status should guide evaluation for abnormal intrauterine gestation. Ultrasound surveillance of resolution is not routinely indicated. Resolution of serum hCG is usually complete in 2–4 weeks but can take up to 8 weeks, and resolution is significantly faster after two-dose than single-dose methotrexate (25.7 ± 13.6 versus 31.9 ± 14.1 days; P > .025).
 
 ---
 
-### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^4df6afca]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^112zauYV]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 1 INTRODUCTION
 
@@ -775,7 +775,7 @@ The current study assesses potential risk factors for failure of single‐dose M
 
 ---
 
-### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^c0e4cc47]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^115vyUT8]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Discussion
 
@@ -785,13 +785,13 @@ In this cohort, the overall failure rate of MTX treatment was 25.3%, which align
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^08ea484d]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^111EDbSk]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Adverse effects of systemic methotrexate administration — Adverse effects of methotrexate usually are dependent on dose and duration; gastrointestinal problems such as nausea, vomiting, and stomatitis are the most common after multiple doses, and vaginal spotting is expected. Abdominal pain can occur 2–3 days after administration and, absent signs of rupture or significant hemoperitoneum, usually can be managed expectantly by monitoring hemoglobin and intraperitoneal fluid with transvaginal ultrasonography. Elevation of liver enzymes is a less commonly reported adverse effect and typically resolves after discontinuation; alopecia is rare at low doses; and pneumonitis has been reported, with counseling to report fever or respiratory symptoms.
 
 ---
 
-### Establishing a human chorionic gonadotropin cutoff to guide methotrexate treatment of ectopic pregnancy: a systematic review [^58d4e079]. Fertility and Sterility (2007). Low credibility.
+### Establishing a human chorionic gonadotropin cutoff to guide methotrexate treatment of ectopic pregnancy: a systematic review [^113GhQyW]. Fertility and Sterility (2007). Low credibility.
 
 Objective
 
@@ -827,13 +827,13 @@ Results support a substantial increase in failure of medical management with sin
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^0c87f245]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^111KaWqA]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy — methotrexate case series (Lipscomb et al 1998) summarizes a chart review (N = 315) of patients with ectopic pregnancy treated with methotrexate (50 mg/m² IM) repeated weekly as needed, defining outcome as resolution of ectopic pregnancy based on β-hCG level resolution and clinical follow-up; results noted 6 patients withdrew for unstated reasons and, of the remainder, 287/309 (92.9%) had resolution without surgery, while 9 (2.9%) required surgery including 5 (1.6%) with ruptures; the median and maximum time to rupture were 14 and 32 days, respectively.
 
 ---
 
-### Use of "2-dose" regimen of methotrexate to treat ectopic pregnancy [^c1aeb07c]. Fertility and Sterility (2007). Low credibility.
+### Use of "2-dose" regimen of methotrexate to treat ectopic pregnancy [^115x9HcX]. Fertility and Sterility (2007). Low credibility.
 
 Objective
 
@@ -869,13 +869,13 @@ This "2-dose" protocol minimizes the number of injections and surveillance visit
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^2c16c0e7]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^1128N6g6]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy — methotrexate case series (Lipscomb et al): A retrospective case series chart review (N = 360) of patients with ectopic pregnancy treated with methotrexate (50 mg/m² intramuscular (IM)), repeated weekly as needed, evaluated resolution of ectopic pregnancy based on beta-human chorionic gonadotropin (β-hCG) resolution and clinical follow-up; 10 patients withdrew (2 cervical pregnancies, 8 elective), and of the remainder, 320/350 (91%) had resolution without surgery; ruptures not reported, and treatment failure was associated with higher β-hCG level at study entry.
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^ce2464f0]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^116Gcg55]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Background
 
@@ -895,13 +895,13 @@ MTX therapy as a treatment option is safe and effective for asymptomatic, hemody
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^676876ae]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^113eJp9B]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Expectant management of diagnosed ectopic pregnancy — candidate criteria and outcomes are outlined as follows: There may be a role for expectant management in specific circumstances; candidates should be asymptomatic; should have objective evidence of resolution (generally manifested by a plateau or decrease in human chorionic gonadotropin [hCG] levels); and must be counseled and willing to accept risks including tubal rupture, hemorrhage, and emergency surgery. If the initial hCG level is less than 200 mIU/mL, 88% of patients will experience spontaneous resolution, with lower rates anticipated at higher hCG levels. In a single small randomized trial of women with hCG levels less than 2,000 mIU/mL, expectant management was not associated with a statistically significant lower treatment success than single-dose methotrexate for ectopic pregnancy, with 59% versus 76%, respectively (RR, 1.3; 95% CI, 0.9–1.8).
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^ec25eee1]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^11736pWC]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Background
 
@@ -921,7 +921,7 @@ Our data support an ongoing unmet economic need for better medical treatments fo
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^20a86404]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^111qRAXu]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Methods
 
@@ -937,7 +937,7 @@ For each subject we recorded a comprehensive management pathway including any re
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^44e9bfe9]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^112mAfyS]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Discussion
 
@@ -951,13 +951,13 @@ One of the main strengths of our study is that we performed a comprehensive deta
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^f24b8a68]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^117CDNrB]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 The cost for successful methotrexate treatment was significantly less (n = 35; mean = £255.67 ± 251.75; median = £159.01, range = £68.88 - £1334.26) than the cost for failed methotrexate treatment where surgery is required (n = 13; mean = £2695.61 ± 605.91, median = £2503.79, range = £1983.50 - £3948.58) (Mann Whitney: U = 0, P < 0.05). It is clear when comparing elective and required surgery costs that this difference could be explained by the added cost of surgery and subsequent inpatient admission time. All three groups showed right-skewed data reflecting a small proportion of patients with notably high costs. This group of patients reflect complications with treatment or initial treatment failure and explain the large standard deviations reported, particularly within the medically managed group.
 
 ---
 
-### Systemic methotrexate to treat ectopic pregnancy does not affect ovarian reserve [^2f5ff7e3]. Fertility and Sterility (2008). Low credibility.
+### Systemic methotrexate to treat ectopic pregnancy does not affect ovarian reserve [^112DEern]. Fertility and Sterility (2008). Low credibility.
 
 Objective
 
@@ -993,7 +993,7 @@ Single-dose MTX is a safe first-treatment choice that does not compromise future
 
 ---
 
-### Methotrexate in pregnancy: still many unanswered questions [^cb64534c]. RMD Open (2023). Medium credibility.
+### Methotrexate in pregnancy: still many unanswered questions [^116CYBhm]. RMD Open (2023). Medium credibility.
 
 Findings teratogenicity of MTX is based on
 
@@ -1001,7 +1001,7 @@ As often, teratogenicity in humans was discovered by case reports describing a s
 
 ---
 
-### Are early human chorionic gonadotropin levels after methotrexate therapy a predictor of response in ectopic pregnancy? [^5ac3cb38]. American Journal of Obstetrics and Gynecology (2010). Low credibility.
+### Are early human chorionic gonadotropin levels after methotrexate therapy a predictor of response in ectopic pregnancy? [^113KZejZ]. American Journal of Obstetrics and Gynecology (2010). Low credibility.
 
 Objective
 
@@ -1021,7 +1021,7 @@ beta-hCG level changes between days 0 and 4 after methotrexate therapy have clin
 
 ---
 
-### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^ce57015f]. BMC Pregnancy and Childbirth (2012). Low credibility.
+### Has increased clinical experience with methotrexate reduced the direct costs of medical management of ectopic pregnancy compared to surgery? [^116Gug46]. BMC Pregnancy and Childbirth (2012). Low credibility.
 
 Cost analysis of treatment
 
@@ -1029,7 +1029,7 @@ The resource costs for each patient management group are also shown in Table 2. 
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^4b823d4d]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^112vwpQU]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Materials and methods
 
@@ -1041,13 +1041,13 @@ The exclusion criteria were acute ruptured ectopic pregnancy, nontubal ectopic p
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^4c652f16]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^112xG3e5]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy — multicenter double-blind clinical trial (Rozenberg et al.) reports outcomes with methotrexate plus mifepristone versus placebo allocation: N = 212 women with ectopic pregnancy who received methotrexate (50 mg/m²) IM, repeated on day 7 as needed; in addition, 113 women received mifepristone (600 mg by mouth), whereas 99 women received placebo tablets; resolution of ectopic pregnancy, based on β-hCG level resolution and clinical follow-up, occurred in 162 (76%) without surgery, 48 (23%) required surgery, 1 patient (0.5%) had rupture, and adverse effects included gastritis in 30%, stomatitis in 7%, and reversible alopecia in 3%.
 
 ---
 
-### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^d0095e74]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Predictors and clinical features of methotrexate (MTX) therapy for ectopic pregnancy [^116KRa91]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Background
 
@@ -1067,7 +1067,7 @@ MTX therapy as a treatment option is safe and effective for asymptomatic, hemody
 
 ---
 
-### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^baad4ff4]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Risk factors for methotrexate treatment failure in tubal ectopic pregnancy: a retrospective cohort study [^115mkup7]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Results in the context of what is known
 
@@ -1075,13 +1075,13 @@ Our findings align with several published studies that have explored risk factor
 
 ---
 
-### Two adolescents with ectopic pregnancies: experience with methotrexate [^64d9e1d3]. Pediatric Emergency Care (2006). Low credibility.
+### Two adolescents with ectopic pregnancies: experience with methotrexate [^113aWwsG]. Pediatric Emergency Care (2006). Low credibility.
 
 An ectopic pregnancy is a life-threatening form of pregnancy that is increasing in frequency especially in adolescents. Whenever a woman of childbearing age, including adolescents, presents with abdominal pain, the diagnosis of ectopic pregnancy must be considered as a possibility because if it is not diagnosed and treated expediously and appropriately, there will be considerable morbidity and mortality. Methotrexate has been shown to be effective in the management of ectopic pregnancy, but few reports are described in the literature regarding its use in teenagers. We report the cases of 2 adolescents with ectopic pregnancies who were treated successfully with methotrexate.
 
 ---
 
-### Using a decline in serum hCG between days 0–4 to predict ectopic pregnancy treatment success after single-dose methotrexate: a retrospective cohort study [^d5a54a3b]. BMC Pregnancy and Childbirth (2013). Low credibility.
+### Using a decline in serum hCG between days 0–4 to predict ectopic pregnancy treatment success after single-dose methotrexate: a retrospective cohort study [^116Tjt8i]. BMC Pregnancy and Childbirth (2013). Low credibility.
 
 Conclusions
 
@@ -1093,19 +1093,19 @@ We believe that clinical staff caring for women with ectopic pregnancies, treate
 
 ---
 
-### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^feac5369]. Annals of Emergency Medicine (2012). Medium credibility.
+### Clinical policy: critical issues in the initial evaluation and management of patients presenting to the emergency department in early pregnancy [^117WZjkt]. Annals of Emergency Medicine (2012). Medium credibility.
 
 Ectopic pregnancy — methotrexate case series (Kucera et al 2000) describes N = 60 women with ectopic pregnancy who received IM methotrexate (50 mg/m²) repeated on day 7 as needed, with outcome defined as resolution of ectopic pregnancy based on β-hCG level resolution and clinical follow-up; results showed 47 (78%) had resolution without surgery, 13 (22%) required surgery, and 4 (7%) ruptured, all of whom were hemodynamically unstable; the series excluded women with β-hCG levels > 5,000 mIU/mL or ectopic mass > 5 cm in greatest dimension.
 
 ---
 
-### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^2a3cb100]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 193 summary: tubal ectopic pregnancy [^1125csCb]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Tubal ectopic pregnancy — methotrexate contraindications and hCG-related failure rates: Before administering methotrexate, it is important to reasonably exclude the presence of an intrauterine pregnancy, and Box 1 lists absolute and relative contraindications to methotrexate therapy. Methotrexate administration should be avoided in patients with clinically significant elevations in serum creatinine, liver transaminases, or bone marrow dysfunction indicated by significant anemia, leukopenia, or thrombocytopenia; it should not be given to women with blood dyscrasias or active gastrointestinal or respiratory disease, and asthma is not an exclusion to the use of methotrexate. Methotrexate is directly toxic to the hepatocytes and is cleared from the body by renal excretion; therefore, methotrexate typically is not used in women with liver or kidney disease. Relative contraindications do not serve as absolute cut-offs; a high initial hCG level is considered a relative contraindication, and systematic review evidence shows a failure rate of 14.3% or higher when pretreatment hCG levels are higher than 5,000 mIU/mL compared with a 3.7% failure rate for hCG levels less than 5,000 mIU/mL.
 
 ---
 
-### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^9d46df14]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### The influence of smoking on the efficacy of a single-dose methotrexate treatment for ectopic pregnancy [^1152Arvw]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 Other studies investigating prognostic indicators of successful MTX therapy also did not include smoking status as a variable.,
 

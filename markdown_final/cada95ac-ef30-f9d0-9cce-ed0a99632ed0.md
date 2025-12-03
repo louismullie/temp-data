@@ -15,33 +15,33 @@ Causes of isolated elevated alkaline phosphatase
 
 > Let's see… What do we have here? The user is asking about the causes of isolated elevated alkaline phosphatase and how to evaluate it. Let's break this down step-by-step. First, I need to think about confirming the abnormality and excluding spurious causes. Then, I should verify the source of ALP using GGT and consider isoenzyme fractionation. Next, I will categorize causes by hepatic versus non-hepatic origins, including bone, intestinal, placental, and tumor-derived sources. After that, I should outline a practical, stepwise diagnostic algorithm and highlight special populations and red flags. Finally, I will synthesize the most common etiologies and note what would change my approach if new data emerge.
 
-> Let me first confirm the abnormality and exclude pre-analytical or transient causes, because I need to ensure we are not reacting to a false positive or a transient spike. I should repeat the liver panel, review medications and supplements including over-the-counter and herbal products, and consider recent intercurrent illness, as transient benign hyperphosphatasemia can occur in infants and, less commonly, adults, and mild ALP elevations are common in the general population, so I should not jump to conclusions before verifying persistence and context [^a080bacb] [^b0f49774] [^a9acd0be] [^6ff95011].
+> Let me first confirm the abnormality and exclude pre-analytical or transient causes, because I need to ensure we are not reacting to a false positive or a transient spike. I should repeat the liver panel, review medications and supplements including over-the-counter and herbal products, and consider recent intercurrent illness, as transient benign hyperphosphatasemia can occur in infants and, less commonly, adults, and mild ALP elevations are common in the general population, so I should not jump to conclusions before verifying persistence and context [^1156xFwp] [^115XLydM] [^115LYxLm] [^113s1NHW].
 
-> Next, I should review the source of ALP using GGT, and I need to check whether the elevation is hepatobiliary or non-hepatic. GGT is abundant in liver but not in bone, so a concomitant GGT elevation supports a hepatobiliary source, whereas a normal GGT points toward bone or other non-hepatic sources. If uncertainty remains, ALP isoenzyme electrophoresis can separate liver, bone, intestinal, and placental fractions, which can prevent unnecessary imaging or invasive testing [^c1d63df8] [^b59e34c7] [^584fd32f] [^ff84e3bc].
+> Next, I should review the source of ALP using GGT, and I need to check whether the elevation is hepatobiliary or non-hepatic. GGT is abundant in liver but not in bone, so a concomitant GGT elevation supports a hepatobiliary source, whereas a normal GGT points toward bone or other non-hepatic sources. If uncertainty remains, ALP isoenzyme electrophoresis can separate liver, bone, intestinal, and placental fractions, which can prevent unnecessary imaging or invasive testing [^115xNaAK] [^115eFu7U] [^113Fviv2] [^117XpUm1].
 
-> Hold on, let's not jump to conclusions about hepatic causes just because GGT is elevated. I should categorize hepatobiliary etiologies into obstructive or cholestatic, infiltrative, vascular, and drug-induced injury, and I will examine each with the appropriate tests. Obstructive or cholestatic causes include choledocholithiasis, malignant biliary obstruction, primary biliary cholangitis, primary sclerosing cholangitis, and intrahepatic cholestasis of pregnancy. Infiltrative diseases include sarcoidosis, granulomatous hepatitis, tuberculosis, amyloid, lymphoma, and metastatic cancer. Vascular causes include hepatic congestion from right-sided heart failure and ischemic cholangiopathy. And drug-induced cholestasis spans antibiotics, antifungals, antiepileptics, and many others, so I should double-check the medication timeline and use DILI causality frameworks when appropriate [^c1d63df8] [^27744646] [^9c63c613] [^6ff95011].
+> Hold on, let's not jump to conclusions about hepatic causes just because GGT is elevated. I should categorize hepatobiliary etiologies into obstructive or cholestatic, infiltrative, vascular, and drug-induced injury, and I will examine each with the appropriate tests. Obstructive or cholestatic causes include choledocholithiasis, malignant biliary obstruction, primary biliary cholangitis, primary sclerosing cholangitis, and intrahepatic cholestasis of pregnancy. Infiltrative diseases include sarcoidosis, granulomatous hepatitis, tuberculosis, amyloid, lymphoma, and metastatic cancer. Vascular causes include hepatic congestion from right-sided heart failure and ischemic cholangiopathy. And drug-induced cholestasis spans antibiotics, antifungals, antiepileptics, and many others, so I should double-check the medication timeline and use DILI causality frameworks when appropriate [^115xNaAK] [^1121VaCd] [^114zraiE] [^113s1NHW].
 
-> Wait, let me verify the autoimmune cholestatic workup when ALP and GGT are elevated. I should order AMA with IgM for primary biliary cholangitis, and consider ANA and SMA if autoimmune overlap is suspected. In suspected PSC, I should confirm with MRCP rather than relying on ALP alone, and I should remember that AMA positivity alone without cholestatic enzymes is insufficient to diagnose PBC, warranting surveillance rather than treatment in most cases [^b67e099e] [^097ab41f] [^11429141] [^4eeb3aec] [^dffa1162].
+> Wait, let me verify the autoimmune cholestatic workup when ALP and GGT are elevated. I should order AMA with IgM for primary biliary cholangitis, and consider ANA and SMA if autoimmune overlap is suspected. In suspected PSC, I should confirm with MRCP rather than relying on ALP alone, and I should remember that AMA positivity alone without cholestatic enzymes is insufficient to diagnose PBC, warranting surveillance rather than treatment in most cases [^115fZ5hX] [^111F46zi] [^111Sb9dS] [^113213dm] [^116j4EZP].
 
-> I will now examine non-hepatic sources, starting with bone disease, because a normal GGT often redirects me there. Vitamin D deficiency, osteomalacia, Paget's disease, hyperparathyroidism, and bone metastases can all raise ALP via osteoblastic activity. In children and adolescents, rapid growth elevates bone ALP, and in older adults, Paget's disease is a classic cause. I should confirm with 25-hydroxyvitamin D, calcium, phosphate, and PTH when bone disease is suspected, and use bone scan or targeted imaging if Paget's or metastases are on the table [^584fd32f] [^ba09017f] [^3cd48a7b] [^74cfc567].
+> I will now examine non-hepatic sources, starting with bone disease, because a normal GGT often redirects me there. Vitamin D deficiency, osteomalacia, Paget's disease, hyperparathyroidism, and bone metastases can all raise ALP via osteoblastic activity. In children and adolescents, rapid growth elevates bone ALP, and in older adults, Paget's disease is a classic cause. I should confirm with 25-hydroxyvitamin D, calcium, phosphate, and PTH when bone disease is suspected, and use bone scan or targeted imaging if Paget's or metastases are on the table [^113Fviv2] [^115kois8] [^112ZBeYJ] [^113zBMQ2].
 
-> But wait, what if the ALP is intestinal in origin. I should consider transient benign hyperphosphatasemia of infancy, which can show marked ALP elevations that resolve spontaneously, and I should remember that intestinal ALP can be elevated after fatty meals or in certain gastrointestinal conditions. In adults, isolated intestinal ALP elevation without liver or bone disease has been reported as a benign biochemical variant, so I need to ensure I do not over-investigate when the clinical context is reassuring [^b0f49774] [^ff84e3bc].
+> But wait, what if the ALP is intestinal in origin. I should consider transient benign hyperphosphatasemia of infancy, which can show marked ALP elevations that resolve spontaneously, and I should remember that intestinal ALP can be elevated after fatty meals or in certain gastrointestinal conditions. In adults, isolated intestinal ALP elevation without liver or bone disease has been reported as a benign biochemical variant, so I need to ensure I do not over-investigate when the clinical context is reassuring [^115XLydM] [^117XpUm1].
 
-> I need to check for pregnancy-related sources as well. In the third trimester, placental ALP rises and can be markedly elevated, and although this is usually expected, I should confirm there is no concurrent hepatobiliary disease if symptoms or other labs suggest it. Rarely, very high ALP in pregnancy has been linked to placental insufficiency and adverse fetal outcomes, so I should correlate with obstetric evaluation when the elevation is extreme or discordant [^584fd32f] [^e618422a].
+> I need to check for pregnancy-related sources as well. In the third trimester, placental ALP rises and can be markedly elevated, and although this is usually expected, I should confirm there is no concurrent hepatobiliary disease if symptoms or other labs suggest it. Rarely, very high ALP in pregnancy has been linked to placental insufficiency and adverse fetal outcomes, so I should correlate with obstetric evaluation when the elevation is extreme or discordant [^113Fviv2] [^116t8JQh].
 
-> Let me consider tumor-derived ALP, especially in metastatic disease. Prostate cancer with osteoblastic bone metastases often shows elevated ALP from bone formation, and tumor cells themselves can express ALP isoforms. Similarly, pancreatic cancer and other solid tumors may elevate ALP via bone involvement or direct tumor expression, so in the right oncologic context I should integrate ALP with bone scan, cross-sectional imaging, and tumor markers as indicated [^2b031a6e] [^dd4d47cc] [^989614c7].
+> Let me consider tumor-derived ALP, especially in metastatic disease. Prostate cancer with osteoblastic bone metastases often shows elevated ALP from bone formation, and tumor cells themselves can express ALP isoforms. Similarly, pancreatic cancer and other solid tumors may elevate ALP via bone involvement or direct tumor expression, so in the right oncologic context I should integrate ALP with bone scan, cross-sectional imaging, and tumor markers as indicated [^1126mWaH] [^116f6Dpo] [^114uDXen].
 
-> Next, I should review a practical diagnostic algorithm and make sure I am not missing steps. First, confirm persistence and exclude spurious causes. Second, obtain GGT to localize the source. Third, if GGT is elevated, obtain right upper quadrant ultrasound to assess ducts and parenchyma. Fourth, if ultrasound is unrevealing and cholestasis persists, pursue autoimmune serologies and consider MRCP or ERCP for suspected PSC or obstruction. Fifth, if GGT is normal, evaluate for bone disease with calcium, phosphate, 25-hydroxyvitamin D, and PTH, and consider isoenzyme analysis if the source remains unclear. Finally, if all noninvasive tests are unrevealing and cholestasis persists beyond 6 months, consider liver biopsy to evaluate for small duct disease or infiltrative processes [^927019e1] [^c1d63df8] [^a080bacb].
+> Next, I should review a practical diagnostic algorithm and make sure I am not missing steps. First, confirm persistence and exclude spurious causes. Second, obtain GGT to localize the source. Third, if GGT is elevated, obtain right upper quadrant ultrasound to assess ducts and parenchyma. Fourth, if ultrasound is unrevealing and cholestasis persists, pursue autoimmune serologies and consider MRCP or ERCP for suspected PSC or obstruction. Fifth, if GGT is normal, evaluate for bone disease with calcium, phosphate, 25-hydroxyvitamin D, and PTH, and consider isoenzyme analysis if the source remains unclear. Finally, if all noninvasive tests are unrevealing and cholestasis persists beyond 6 months, consider liver biopsy to evaluate for small duct disease or infiltrative processes [^114k6r3r] [^115xNaAK] [^1156xFwp].
 
-> Hold on, I should verify special populations and red flags that modify urgency. In infants and toddlers, transient benign hyperphosphatasemia is common and often follows viral illness, so observation is reasonable if the child is well and other labs are normal. In pregnancy, I should confirm gestational timing and consider obstetric co-evaluation if ALP is extremely high. In older adults, Paget's disease and malignancy move up the differential. And in patients with severe COVID-19 or critical illness, ALP elevations may reflect systemic inflammation or ischemic hepatopathy, so I should interpret in the clinical context and avoid overtesting when the course is self-limited [^b0f49774] [^e618422a] [^3cd48a7b] [^1f310e05] [^c9eba59d].
+> Hold on, I should verify special populations and red flags that modify urgency. In infants and toddlers, transient benign hyperphosphatasemia is common and often follows viral illness, so observation is reasonable if the child is well and other labs are normal. In pregnancy, I should confirm gestational timing and consider obstetric co-evaluation if ALP is extremely high. In older adults, Paget's disease and malignancy move up the differential. And in patients with severe COVID-19 or critical illness, ALP elevations may reflect systemic inflammation or ischemic hepatopathy, so I should interpret in the clinical context and avoid overtesting when the course is self-limited [^115XLydM] [^116t8JQh] [^112ZBeYJ] [^111oF6QC] [^116AMfR6].
 
-> Let me synthesize the most common causes to anchor pretest probabilities. In adults with isolated ALP elevation and elevated GGT, intrahepatic cholestasis such as PBC, PSC, NAFLD with cholestatic features, and drug-induced cholestasis are frequent. With normal GGT, vitamin D deficiency, Paget's disease, bone metastases, and transient benign hyperphosphatasemia predominate. In children, physiologic bone turnover and transient benign hyperphosphatasemia are leading causes, whereas in pregnancy, placental ALP is expected. Across ages, medications and infiltrative diseases remain important considerations and should be actively excluded [^584fd32f] [^c1d63df8] [^b0f49774] [^9c63c613].
+> Let me synthesize the most common causes to anchor pretest probabilities. In adults with isolated ALP elevation and elevated GGT, intrahepatic cholestasis such as PBC, PSC, NAFLD with cholestatic features, and drug-induced cholestasis are frequent. With normal GGT, vitamin D deficiency, Paget's disease, bone metastases, and transient benign hyperphosphatasemia predominate. In children, physiologic bone turnover and transient benign hyperphosphatasemia are leading causes, whereas in pregnancy, placental ALP is expected. Across ages, medications and infiltrative diseases remain important considerations and should be actively excluded [^113Fviv2] [^115xNaAK] [^115XLydM] [^114zraiE].
 
-> I should double-check what would change my approach if new data emerge. If repeat testing shows resolution, I can avoid further workup. If new symptoms, jaundice, or synthetic dysfunction appear, I should escalate to cholangiography or biopsy. And if the clinical picture evolves toward an oncologic or granulomatous process, I should broaden imaging and serologies accordingly, always revisiting the medication history at each step to avoid anchoring bias [^a080bacb] [^927019e1] [^9c63c613].
+> I should double-check what would change my approach if new data emerge. If repeat testing shows resolution, I can avoid further workup. If new symptoms, jaundice, or synthetic dysfunction appear, I should escalate to cholangiography or biopsy. And if the clinical picture evolves toward an oncologic or granulomatous process, I should broaden imaging and serologies accordingly, always revisiting the medication history at each step to avoid anchoring bias [^1156xFwp] [^114k6r3r] [^114zraiE].
 
 ---
 
-Isolated elevated alkaline phosphatase (ALP) most often reflects **bone disease** (Paget's, osteomalacia, metastases, hyperparathyroidism) [^584fd32f] or **cholestatic liver disease** (PBC, PSC, biliary obstruction) [^c1d63df8] [^4eeb3aec]. Less common causes include **intestinal ALP** (after fatty meals, blood types O/B) [^ff84e3bc], **placental ALP** (third trimester) [^e618422a], and **medications** (anticonvulsants, antibiotics, NSAIDs) [^9c63c613]. Confirm hepatic origin with GGT [^b59e34c7]; if normal, evaluate for bone disease with calcium, phosphate, 25(OH)D, PTH, and bone imaging [^ae5b80c6]. Persistent unexplained ALP > 1.5× ULN warrants targeted imaging and, if unresolved, liver biopsy [^927019e1].
+Isolated elevated alkaline phosphatase (ALP) most often reflects **bone disease** (Paget's, osteomalacia, metastases, hyperparathyroidism) [^113Fviv2] or **cholestatic liver disease** (PBC, PSC, biliary obstruction) [^115xNaAK] [^113213dm]. Less common causes include **intestinal ALP** (after fatty meals, blood types O/B) [^117XpUm1], **placental ALP** (third trimester) [^116t8JQh], and **medications** (anticonvulsants, antibiotics, NSAIDs) [^114zraiE]. Confirm hepatic origin with GGT [^115eFu7U]; if normal, evaluate for bone disease with calcium, phosphate, 25(OH)D, PTH, and bone imaging [^115TVaf7]. Persistent unexplained ALP > 1.5× ULN warrants targeted imaging and, if unresolved, liver biopsy [^114k6r3r].
 
 ---
 
@@ -49,11 +49,11 @@ Isolated elevated alkaline phosphatase (ALP) most often reflects **bone disease*
 
 Physiological or benign causes of isolated ALP elevation include:
 
-- **Growth and pregnancy**: Children and adolescents have higher ALP due to bone turnover; pregnancy raises ALP from placental production [^584fd32f] [^e618422a].
+- **Growth and pregnancy**: Children and adolescents have higher ALP due to bone turnover; pregnancy raises ALP from placental production [^113Fviv2] [^116t8JQh].
 
 - **Intestinal ALP**: Elevated after fatty meals, in blood types O/B, or with recent eating [^notfound].
 
-- **Transient benign hyperphosphatasemia**: Marked ALP rise in healthy infants/toddlers, often after viral illness, resolving spontaneously [^b0f49774].
+- **Transient benign hyperphosphatasemia**: Marked ALP rise in healthy infants/toddlers, often after viral illness, resolving spontaneously [^115XLydM].
 
 ---
 
@@ -63,10 +63,10 @@ When ALP is of hepatic origin (confirmed by elevated GGT), consider:
 
 | **Category** | **Specific conditions** |
 |-|-|
-| Cholestatic liver diseases | - Primary biliary cholangitis (PBC) [^b67e099e] <br/> - Primary sclerosing cholangitis (PSC) [^4eeb3aec] <br/> - Intrahepatic cholestasis of pregnancy [^notfound] |
-| Biliary obstruction | - Choledocholithiasis <br/> - Benign/malignant strictures <br/> - Pancreatobiliary tumors [^bd82a380] |
-| Infiltrative diseases | - Sarcoidosis [^3c389396] <br/> - Granulomatous hepatitis <br/> - Tuberculosis <br/> - Amyloidosis <br/> - Lymphoma <br/> - Metastatic cancer [^27744646] |
-| Vascular causes | - Hepatic congestion from right-sided heart failure [^584fd32f] <br/> - Ischemic cholangiopathy [^27744646] |
+| Cholestatic liver diseases | - Primary biliary cholangitis (PBC) [^115fZ5hX] <br/> - Primary sclerosing cholangitis (PSC) [^113213dm] <br/> - Intrahepatic cholestasis of pregnancy [^notfound] |
+| Biliary obstruction | - Choledocholithiasis <br/> - Benign/malignant strictures <br/> - Pancreatobiliary tumors [^115qxYJs] |
+| Infiltrative diseases | - Sarcoidosis [^112YHG7F] <br/> - Granulomatous hepatitis <br/> - Tuberculosis <br/> - Amyloidosis <br/> - Lymphoma <br/> - Metastatic cancer [^1121VaCd] |
+| Vascular causes | - Hepatic congestion from right-sided heart failure [^113Fviv2] <br/> - Ischemic cholangiopathy [^1121VaCd] |
 | Medications | - Anticonvulsants <br/> - Antibiotics <br/> - NSAIDs <br/> - Anabolic steroids [^notfound] |
 
 ---
@@ -75,13 +75,13 @@ When ALP is of hepatic origin (confirmed by elevated GGT), consider:
 
 When ALP is of bone origin (normal GGT), consider:
 
-- **Paget's disease**: Characteristic ALP rise from increased bone turnover [^3cd48a7b].
+- **Paget's disease**: Characteristic ALP rise from increased bone turnover [^112ZBeYJ].
 
-- **Metabolic bone disease**: Osteomalacia, rickets, hyperparathyroidism, and renal osteodystrophy [^ba09017f].
+- **Metabolic bone disease**: Osteomalacia, rickets, hyperparathyroidism, and renal osteodystrophy [^115kois8].
 
 - **Bone metastases**: Prostate, breast, lung, and other primaries [^notfound].
 
-- **Fractures and healing**: Recent fractures elevate bone ALP [^584fd32f].
+- **Fractures and healing**: Recent fractures elevate bone ALP [^113Fviv2].
 
 ---
 
@@ -89,21 +89,21 @@ When ALP is of bone origin (normal GGT), consider:
 
 A **structured approach** is essential:
 
-- **Confirm persistence**: Repeat ALP to verify ongoing elevation [^a080bacb].
+- **Confirm persistence**: Repeat ALP to verify ongoing elevation [^1156xFwp].
 
-- **Determine origin**: Measure GGT; elevation supports hepatobiliary source [^b59e34c7].
+- **Determine origin**: Measure GGT; elevation supports hepatobiliary source [^115eFu7U].
 
-- **Hepatic evaluation**: If GGT is elevated, obtain RUQ ultrasound; if unrevealing, consider MRCP/ERCP, autoimmune serologies (AMA, ANA, ASMA), and liver biopsy if unresolved [^927019e1].
+- **Hepatic evaluation**: If GGT is elevated, obtain RUQ ultrasound; if unrevealing, consider MRCP/ERCP, autoimmune serologies (AMA, ANA, ASMA), and liver biopsy if unresolved [^114k6r3r].
 
 - **Bone evaluation**: If GGT is normal, check calcium, phosphate, 25(OH)D, PTH, and bone imaging (X-ray, bone scan) as indicated [^notfound].
 
-- **Special populations**: In children, consider transient benign hyperphosphatasemia; in pregnancy, expect placental ALP in the third trimester [^b0f49774] [^e618422a].
+- **Special populations**: In children, consider transient benign hyperphosphatasemia; in pregnancy, expect placental ALP in the third trimester [^115XLydM] [^116t8JQh].
 
 ---
 
 ## Clinical significance and prognosis
 
-Persistent isolated ALP elevation can signal **significant disease** (e.g. PBC, PSC, malignancy) and warrants evaluation [^097ab41f] [^4eeb3aec]. In PSC, ALP normalization is associated with better outcomes [^124a0da6]. In pregnancy, marked ALP may reflect placental insufficiency or IUGR and merits obstetric assessment [^e618422a].
+Persistent isolated ALP elevation can signal **significant disease** (e.g. PBC, PSC, malignancy) and warrants evaluation [^111F46zi] [^113213dm]. In PSC, ALP normalization is associated with better outcomes [^111U7ekM]. In pregnancy, marked ALP may reflect placental insufficiency or IUGR and merits obstetric assessment [^116t8JQh].
 
 ---
 
@@ -113,13 +113,13 @@ Isolated ALP elevation most often reflects **bone disease** or **cholestatic liv
 
 ## References
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^c1d63df8]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^115xNaAK]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Cholestatic liver diseases — evaluation of elevated alkaline phosphatase (ALP) and the role of gamma‑glutamyl transferase (GGT) is outlined as follows: cholestatic liver diseases are associated with elevated alkaline phosphatase, with or without elevated bilirubin, and once alkaline phosphatase has been confirmed to be of hepatic origin, an ultrasound of the liver should be performed to assess the hepatic parenchyma and bile ducts. Biliary dilatation suggests an extrahepatic cause, whereas a non-dilated biliary system suggests that the cause of elevated alkaline phosphatase is intrahepatic; some disease of extrahepatic cholestasis may not be apparent by ultrasound and cholangiography by MR/MRCP or endoscopic retrograde cholangio-pancreatography should be undertaken when these disorders are suspected. With isolated alkaline phosphatase elevation, confirmation with GGT, or fractionation of alkaline phosphatase isoenzymes can be used to help differentiate alkaline phosphatase from non-liver sources; however, GGT elevation is not specific for cholestatic liver disease and can be elevated in > 50% of alcoholic patients without obvious evidence of liver disease, so GGT should not be used as a screening test for underlying liver disease in the absence of abnormal liver chemistries. In hospitalized patients with isolated alkaline phosphatase elevations, one study reported that ~80% could be given a clinical diagnosis solely based on history and physical examination, routine labs, and chest X-ray.
 
 ---
 
-### Flecainide (flecainide acetate) [^91e36bbb]. FDA (2012). Low credibility.
+### Flecainide (flecainide acetate) [^114jHbNr]. FDA (2012). Low credibility.
 
 There have been rare reports of isolated elevations of serum alkaline phosphatase and isolated elevations of serum transaminase levels. These elevations have been asymptomatic and no cause and effect relationship with flecainide has been established. In foreign postmarketing surveillance studies, there have been rare reports of hepatic dysfunction including reports of cholestasis and hepatic failure, and extremely rare reports of blood dyscrasias. Although no cause and effect relationship has been established, it is advisable to discontinue flecainide in patients who develop unexplained jaundice or signs of hepatic dysfunction or blood dyscrasias in order to eliminate flecainide as the possible causative agent.
 
@@ -127,7 +127,7 @@ Incidence figures for other adverse effects in patients with ventricular arrhyth
 
 ---
 
-### Guidelines on the management of abnormal liver blood tests [^584fd32f]. Gut (2018). Low credibility.
+### Guidelines on the management of abnormal liver blood tests [^113Fviv2]. Gut (2018). Low credibility.
 
 Alkaline phosphatase (ALP) is produced mainly in the liver (from the biliary epithelium) but is also found in abundance in bone and in smaller quantities in the intestines, kidneys and white blood cells. Levels are physiologically higher in childhood, associated with bone growth, and in pregnancy due to placental production. Pathologically increased levels occur mainly in bone disease (eg, metastatic bone disease and bone fractures) and cholestatic liver disease — for example, primary biliary cholangitis, primary sclerosing cholangitis, common bile duct obstruction, intrahepatic duct obstruction (metastases) and drug-induced cholestasis. Furthermore, hepatic congestion secondary to right-sided heart failure can also lead to cholestasis (elevated ALP levels and/or bilirubin).
 
@@ -137,7 +137,7 @@ AST and ALT are enzymes present in hepatocytes and are released into the blood s
 
 ---
 
-### Nonalcoholic fatty liver disease presenting with an isolated elevated alkaline phosphatase [^1a5a2edb]. Journal of Clinical Gastroenterology (2006). Low credibility.
+### Nonalcoholic fatty liver disease presenting with an isolated elevated alkaline phosphatase [^111g4yEa]. Journal of Clinical Gastroenterology (2006). Low credibility.
 
 Goals
 
@@ -161,7 +161,7 @@ Older female patients with isolated elevated alkaline phosphatase and risk facto
 
 ---
 
-### Guidelines on the management of abnormal liver blood tests [^3b965a14]. Gut (2018). Low credibility.
+### Guidelines on the management of abnormal liver blood tests [^112XLmib]. Gut (2018). Low credibility.
 
 Clinical pattern recognition for liver blood tests
 
@@ -172,13 +172,13 @@ Hepatitic — predominantly raised ALT and AST indicate hepatocellular liver inj
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^d6a25fc0]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^116VCtcF]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Elevation of alkaline phosphatase — Right upper quadrant ultrasound should be performed in the setting of an elevation of alkaline phosphatase; if normal, evaluation for intrahepatic causes.
 
 ---
 
-### Marked elevation in serum transaminases: an atypical presentation of choledocholithiasis [^ef2bfd1f]. The American Journal of Gastroenterology (2005). Low credibility.
+### Marked elevation in serum transaminases: an atypical presentation of choledocholithiasis [^1177apKg]. The American Journal of Gastroenterology (2005). Low credibility.
 
 Background
 
@@ -198,19 +198,19 @@ In the absence of other hepatobiliary or pancreatic disease, choledocholithiasis
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^d1ade2b6]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^116MrpTo]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Patterns of liver chemistry test elevations — hepatocellular injury is defined as disproportionate elevation of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels as compared with alkaline phosphatase levels, cholestatic injury is defined as disproportionate elevation in alkaline phosphatase level as compared with AST and ALT levels, mixed pattern of injury is defined as elevation of both alkaline phosphatase and AST/ALT levels, and isolated hyperbilirubinemia is defined as elevation of bilirubin with normal alkaline phosphatase and AST/ALT levels; the R ratio is calculated as R = (ALT value÷ALT ULN)÷(alkaline phosphatase value÷alkaline phosphatase ULN), and an R ratio of > 5 is defined as hepatocellular injury, < 2 cholestatic injury, and 2–5 mixed pattern.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^27744646]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^1121VaCd]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Causes of elevated alkaline phosphatase — Listed hepatobiliary and systemic etiologies include bile duct obstruction, choledocholithiasis, malignant obstruction, bile duct flukes, bile duct stricture, ductopenia, AIDS cholangiopathy, cholestatic liver diseases, primary biliary cirrhosis, primary sclerosing cholangitis (PSC), medications and drug-induced liver injury, infiltrative diseases such as sarcoid, granulomatous hepatitis, tuberculosis, amyloid, metastatic cancer, lymphoma, hepatic abscess, viral hepatitis, cirrhosis, vanishing bile duct syndrome, ischemic cholangiopathy, benign recurrent cholestasis, alcoholic liver disease, intrahepatic cholestasis of pregnancy, benign post-operative or ICU jaundice, total parenteral nutrition (TPN), liver allograft rejection, acute alcoholic hepatitis, sickle cell liver crisis, sepsis, congestive heart failure, and hemophagocytic lymphohistiocytosis; non-hepatic and additional listed associations include bone disease, osteomalacia, Paget's disease, primary bony malignancy, bony metastases, hyperthyroidism, hyperparathyroidism, pregnancy (third trimester), chronic renal failure, extra-hepatic malignancy, childhood growth, infection, inflammation, influx after a fatty meal, blood type O and B, myeloid metaplasia, peritonitis, diabetes mellitus, gastric ulcer, and increasing age, especially women.
 
 ---
 
-### Hepatic tuberculosis: a multimodality imaging review [^e02de648]. Insights Into Imaging (2015). Low credibility.
+### Hepatic tuberculosis: a multimodality imaging review [^116jMeKZ]. Insights Into Imaging (2015). Low credibility.
 
 Clinical features
 
@@ -222,7 +222,7 @@ Laboratory analysis may reveal altered liver function tests in the form of eleva
 
 ---
 
-### The significance of isolated elevation of serum aminotransferases in infants and young children [^5098a1e3]. Archives of Disease in Childhood (2007). Low credibility.
+### The significance of isolated elevation of serum aminotransferases in infants and young children [^1134VH4e]. Archives of Disease in Childhood (2007). Low credibility.
 
 Introduction
 
@@ -242,13 +242,13 @@ Isolated elevation of serum aminotransferases in healthy looking young children 
 
 ---
 
-### ACR appropriateness criteria® abnormal liver function tests [^38621a59]. Journal of the American College of Radiology (2023). Medium credibility.
+### ACR appropriateness criteria® abnormal liver function tests [^112SbFyr]. Journal of the American College of Radiology (2023). Medium credibility.
 
 Liver function tests are commonly obtained in symptomatic and asymptomatic patients. Various overlapping lab patterns can be seen due to derangement of hepatocytes and bile ducts function. Imaging tests are pursued to identify underlying etiology and guide management based on the lab results. Liver function tests may reveal mild, moderate, or severe hepatocellular predominance and can be seen in alcoholic and nonalcoholic liver disease, acute hepatitis, and acute liver injury due to other causes. Cholestatic pattern with elevated alkaline phosphatase with or without elevated γ-glutamyl transpeptidase can be seen with various causes of obstructive biliopathy. Acute or subacute cholestasis with conjugated or unconjugated hyperbilirubinemia can be seen due to prehepatic, intrahepatic, or posthepatic causes. We discuss the initial and complementary imaging modalities to be used in clinical scenarios presenting with abnormal liver function tests. The American College of Radiology Appropriateness Criteria are evidence-based guidelines for specific clinical conditions that are reviewed annually by a multidisciplinary expert panel. The guideline development and revision process support the systematic analysis of the medical literature from peer reviewed journals. Established methodology principles such as Grading of Recommendations Assessment, Development, and Evaluation or GRADE are adapted to evaluate the evidence. The RAND/UCLA Appropriateness Method User Manual provides the methodology to determine the appropriateness of imaging and treatment procedures for specific clinical scenarios. In those instances where peer reviewed literature is lacking or equivocal, experts may be the primary evidentiary source available to formulate a recommendation.
 
 ---
 
-### Guideline review: EASL clinical practice guidelines: drug-induced liver injury (DILI) [^d3006c51]. Frontline Gastroenterology (2022). Medium credibility.
+### Guideline review: EASL clinical practice guidelines: drug-induced liver injury (DILI) [^116PpXhr]. Frontline Gastroenterology (2022). Medium credibility.
 
 HDS-associated liver toxicity appears to be an emerging determinant of DILI, with wide geographical variability. A prospective study in Iceland purported 16% of DILI related to HDS, while the US Drug-Induced Liver Injury Network reported a similar percentage (16%), with an increase from 7% from 2004 to 2005 to 20% in 2013–2014. Further case–control data suggested rates of 4%–5% in studies in Latin Americaand Germany, respectively.
 
@@ -263,13 +263,13 @@ ALT, ALP and bilirubin are the typical indices used to define liver damage, and 
 
 ---
 
-### Does an abnormally elevated maternal alkaline phosphatase pose problems for the fetus? [^e618422a]. BMJ Case Reports (2019). High credibility.
+### Does an abnormally elevated maternal alkaline phosphatase pose problems for the fetus? [^116t8JQh]. BMJ Case Reports (2019). High credibility.
 
 We report a potential association between an abnormally raised pregnancy level of alkaline phosphatase (ALP) and intrauterine growth restriction (IUGR). There are few reports of women with abnormally high ALP during pregnancy. However, there is work to suggest an association with placental insufficiency, low birth weight and preterm delivery. In conjunction with a rising ALP, fetal IUGR and intermittent absence of umbilical artery end diastolic flow had evolved. A greatly elevated ALP may be a marker for placental insufficiency and IUGR.
 
 ---
 
-### Transient benign hyperphophatasemia [^b0f49774]. Journal of Pediatric Gastroenterology and Nutrition (2013). Low credibility.
+### Transient benign hyperphophatasemia [^115XLydM]. Journal of Pediatric Gastroenterology and Nutrition (2013). Low credibility.
 
 Background and Aim
 
@@ -289,7 +289,7 @@ Transient benign hyperphosphatasemia is likely the most common cause of hyperpho
 
 ---
 
-### Nimodipine [^72028df4]. FDA (2024). Medium credibility.
+### Nimodipine [^113v2Stj]. FDA (2024). Medium credibility.
 
 No clinically significant effects on hematologic factors, renal or hepatic function or carbohydrate metabolism have been causally associated with oral nimodipine. Isolated cases of non-fasting elevated serum glucose levels (0.8%), elevated LDH levels (0.4%), decreased platelet counts (0.3%), elevated alkaline phosphatase levels (0.2%) and elevated SGPT levels (0.2%) have been reported rarely.
 
@@ -297,7 +297,7 @@ To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-86
 
 ---
 
-### Increased bone alkaline phosphatase and isolated subcortical bone uptake of technetium-99m hydroxymethylene diphosphonate in the lower extremities in a patient with Graves' disease: a distinctly unusual variant of Graves' acropachy [^1fdd37fb]. Thyroid (2008). Low credibility.
+### Increased bone alkaline phosphatase and isolated subcortical bone uptake of technetium-99m hydroxymethylene diphosphonate in the lower extremities in a patient with Graves' disease: a distinctly unusual variant of Graves' acropachy [^111pEvRY]. Thyroid (2008). Low credibility.
 
 Background
 
@@ -313,19 +313,19 @@ Periosteal reaction in the long bones of the lower extremities is unusual in thy
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^927019e1]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^114k6r3r]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Figure 4 — Algorithm for evaluation of elevated serum alkaline phosphatase (ALP) delineates two branches. Under "Normal total bilirubin and serum transaminases", proceed with "History and physical exam confirm with serum GGT"; if "GGT normal → evaluate for non-hepatobiliary etiologies", but if "GGT abnormal → obtain right upper quadrant ultrasound, evaluate for potential hepatotoxic medications, check AMA, ANA, and SMA". If the evaluation is negative, then "If evaluation negative and alkaline phosphatase > 2x ULN → consider liver biopsy" or "If evaluation negative and alkaline phosphatase 1-2x ULN → consider observation", and "If AMA positive → evaluate for primary biliary cirrhosis/cholangitis", with persistence prompting "If persistent elevation of serum alkaline phosphatase after 6 months observation → consider liver biopsy". Under "Elevated serum transaminases ± elevated bilirubin", perform "History and physical exam Check right upper quadrant ultrasound"; if "If ductal dilatation → ERCP, MRCP" and if "If no ductal dilatation → check AMA, ANA, SMA". Next, "If AMA positive → evaluate for primary biliary cirrhosis/cholangitis", whereas "If AMA negative and alkaline phosphatase > 2x ULN → consider liver biopsy or MRCP" or "If AMA negative and alkaline phosphatase 1-2x ULN → consider observation", and persistent elevation leads to "If persistent elevation of serum alkaline phosphatase after 6 months observation → consider liver biopsy or MRCP".
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^16264a32]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^111Zqb9T]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 ACG clinical guideline — summary statements on abnormal liver chemistries state that liver chemistries including ALT, aspartate aminotransferase (AST), alkaline phosphatase and bilirubin are markers of liver injury, not liver function, and should be referred to as liver chemistries, or liver tests; albumin, bilirubin, and prothrombin time are markers of hepatocellular function that can be influenced by extrahepatic factors; elevations of AST and/or ALT, alkaline phosphatase, and bilirubin suggest hepatocellular injury and are the abnormal liver chemistries that require assessment and potential evaluation; ALT is a more specific marker of hepatic injury than AST; and an elevated alkaline phosphatase level of hepatic origin may be confirmed by elevation of gamma-glutamyl transferase (GGT) or fractionation of alkaline phosphatase.
 
 ---
 
-### Docetaxel [^80a9649e]. FDA (2025). Medium credibility.
+### Docetaxel [^114HkK7b]. FDA (2025). Medium credibility.
 
 WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
 
@@ -337,31 +337,31 @@ Do not administer docetaxel to patients with neutrophil counts of < 1500 cells/m
 
 ---
 
-### Adult Paget's disease of bone: a review [^3a0beb85]. Rheumatology (2017). Low credibility.
+### Adult Paget's disease of bone: a review [^112V4HZn]. Rheumatology (2017). Low credibility.
 
 Adult PD of bone is the second commonest metabolic bone condition after osteoporosis. The condition is characterized by increased bone cell activity, with bone-resorbing osteoclasts often larger and containing more nuclei than normal, and osteoblasts producing increased amounts of disorganized bone. This leads to expanded bone of poor quality possessing both sclerotic and lytic areas. PD of bone has a strong genetic element, with a family history being noted in 10–20% of cases. A number of genetic defects have been found to be associated with the condition. The most common disease-associated variants identified affect the SQSTM1 gene, providing insights into disease aetiology, with the clinical value of knowledge of SQSTM1 mutation status currently under active investigation. The diagnosis may be suggested by an isolated raised total ALP without other identifiable causes. This can be confirmed on plain X-rays and the extent determined by isotope bone scan. The mainstays of treatment are the bisphosphonates, especially i.v. zoledronate, which results in long-term suppression of bone turnover. ALP is the usual means of monitoring the condition, although more specific bone turnover markers can be helpful, especially in coincident liver disease. Patients should be followed up to monitor for biochemical relapse or development of complications, which may require medical or surgical intervention.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^b67e099e]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^115fZ5hX]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Confirmed alkaline phosphatase elevations — primary biliary cholangitis (PBC) is described as "an uncommon chronic liver disease" that "is seen more commonly in women than men", with symptoms such as "fatigue and pruritus". Testing highlights cholestasis and characteristic serology: "Lab testing reveals biochemical evidence of cholestasis (elevated alkaline phosphatase with or without elevation of bilirubin), as well as the serologic hallmark for screening and diagnosis: immunoglobulin M and PBC-specific anti-mitochondrial antibodies (AMA) in up to 95% of patients (64)". Histology is selective: "Liver biopsy is not routinely required although may be beneficial in patients with suspected anti-mitochondrial antibody-negative disease and to stage liver fibrosis".
 
 ---
 
-### Alkaline phosphatase: discovery and naming of our favorite enzyme [^2acf770d]. Journal of Bone and Mineral Research (2018). Low credibility.
+### Alkaline phosphatase: discovery and naming of our favorite enzyme [^1126UAag]. Journal of Bone and Mineral Research (2018). Low credibility.
 
 Alkaline phosphatase can be considered "our favorite enzyme" for reasons apparent to those who diagnose and treat metabolic bone diseases or who study skeletal biology. Few might know, however, that alkaline phosphatase likely represents the most frequently assayed enzyme in all of medicine. Elevated activity in the circulation is universally recognized as a marker for skeletal or hepatobiliary disease. Nevertheless, the assay conditions in many ways are nonphysiological. The term alkaline phosphatase emerged when it became necessary to distinguish "bone phosphatase" from the phosphatase in the prostate that features an acidic pH optimum. Beginning in 1948, studies of the inborn-error-of-metabolism hypophosphatasia would identify the natural substrates and establish the physiological role of alkaline phosphatase, including in biomineralization. Here, we recount the discovery in 1923 and then eventual naming of this enzyme that remains paramount in our field. © 2017 American Society for Bone and Mineral Research.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^8201f123]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^114Kk3U6]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Abnormal liver chemistries — bilirubin and cholestasis evaluation: In contrast to indirect hyperbilirubinemia, conjugated (direct) hyperbilirubinemia generally implies the presence of parenchymal liver damage or biliary obstruction. There are two rare inherited conditions associated with direct hyperbilirubinemia: Dubin–Johnson syndrome and Rotor syndrome. An elevated bilirubin should be evaluated by determining conjugated and unconjugated fractions of bilirubin. If there are signs of acute liver failure, urgent hepatology consultation with referral to a liver transplant center should be undertaken immediately. Those who present with an elevation in alkaline phosphatase with normal AST, ALT, and bilirubin levels should have their alkaline phosphatase elevation confirmed with a GGT level and if elevated a right upper quadrant ultrasound of the liver should be ordered. If the imaging is normal, autoimmune markers should be ordered. A liver biopsy may ultimately be required to obtain a diagnosis. Extrahepatic causes such as hemolysis should also be assessed.
 
 ---
 
-### Docetaxel anhydrous (docetaxel) [^46bb4cd3]. FDA (2025). Medium credibility.
+### Docetaxel anhydrous (docetaxel) [^112os3dL]. FDA (2025). Medium credibility.
 
 WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
 
@@ -373,7 +373,7 @@ Do not administer docetaxel to patients with neutrophil counts of < 1,500 cells/
 
 ---
 
-### Docetaxel (Beizray) [^87a434d4]. FDA (2025). Medium credibility.
+### Docetaxel (Beizray) [^114U6V3R]. FDA (2025). Medium credibility.
 
 WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
 
@@ -385,25 +385,25 @@ Do not administer BEIZRAY to patients with neutrophil counts of < 1500 cells/mm.
 
 ---
 
-### APASL clinical practice guidance: the diagnosis and management of patients with primary biliary cholangitis [^dffa1162]. Hepatology International (2022). High credibility.
+### APASL clinical practice guidance: the diagnosis and management of patients with primary biliary cholangitis [^116j4EZP]. Hepatology International (2022). High credibility.
 
 Isolated AMA positivity — AMA reactivity alone is not sufficient to diagnose primary biliary cholangitis (PBC). AMA-positive patients with normal serum liver tests should be followed up with an annual biochemical reassessment, and a liver biopsy may be considered in selected patients (eg. patients with elevated immunoglobulin M [IgM], high titer of AMA, or alkaline phosphatase [ALP] close to the upper limit of normal [ULN]) to identify preclinical PBC (III, 2).
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^a080bacb]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^1156xFwp]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 ACG Clinical Guideline — initial evaluation steps for abnormal liver chemistries emphasize confirming true abnormalities, medication/supplement review, selective biopsy, and GGT use. Before initiating a workup, repeat the laboratory panel and/or perform a clarifying test to confirm the abnormality. Physicians should ask about prescribed/over‑the‑counter drugs, complementary/alternative medicines, and dietary/herbal supplements that may be associated with drug‑induced liver injury (DILI). A liver biopsy is recommended when serologic testing and imaging fails to elucidate a diagnosis, to stage a condition, or when multiple diagnoses are possible. An elevation of alkaline phosphatase should be confirmed with an elevation in gamma‑glutamyl transferase (GGT), and GGT should not be used as a screening test for underlying liver disease without other abnormal chemistries. All are stated as Strong recommendation, very low level of evidence.
 
 ---
 
-### Persistently elevated alkaline phosphatase [^ff84e3bc]. BMJ Case Reports (2012). Medium credibility.
+### Persistently elevated alkaline phosphatase [^117XpUm1]. BMJ Case Reports (2012). Medium credibility.
 
 A 32-year-old overweight asymptomatic man was found to have a persistently raised serum alkaline phosphatase at 250–300&emsp14; U/l (normal range < 130). Other liver function tests were unremarkable apart from an initial marginally elevated alanine transaminase, which normalised with weight reduction. Abdominal imaging revealed a fatty liver but an extensive serological search for significant hepatobiliary disease was negative. Subsequent isoenzyme electrophoresis revealed normal liver and bone fractions of alkaline phosphatase but a grossly elevated intestinal fraction. Elevated intestinal fraction of alkaline phosphatase should be considered in the investigation of unexplained alkaline phosphatase, particularly when the usual associated hepatobiliary and bony pathologies are not present. Although an elevated intestinal fraction of alkaline phosphatase can be linked to significant gastrointestinal pathology, this case report highlights that it can be a benign biochemical finding.
 
 ---
 
-### Associations of serum alkaline phosphatase with metabolic syndrome and mortality [^adb67f47]. The American Journal of Medicine (2011). Low credibility.
+### Associations of serum alkaline phosphatase with metabolic syndrome and mortality [^115SYA5t]. The American Journal of Medicine (2011). Low credibility.
 
 Background
 
@@ -423,13 +423,13 @@ In the US general population, higher levels of serum alkaline phosphatase is a p
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^558add12]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^113BpbEZ]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Figure 5 — evaluation of elevated serum total bilirubin: For Elevated total bilirubin (predominant unconjugated), begin with History and physical exam and Assess liver transaminases and serum alkaline phosphatase, then Review medications, Evaluate for hemolysis, and Evaluate for Gilbert's syndrome; if persistent elevation is otherwise unexplained, may consider diagnostic testing for Gilbert's syndrome (UGT1A1 genotype) and evaluate for uncommon etiologies in Table 6; if persistent elevation is otherwise unexplained, is symptomatic, is worsening over time, and/or associated with abnormal transaminases, consider liver biopsy. For Elevated total bilirubin (predominant conjugated), after History and physical exam and Assess liver transaminases and serum alkaline phosphatase, Review medications, Evaluate for clinically overt etiologies: sepsis, TPN, cirrhosis, and biliary obstruction, and Perform right upper quadrant ultrasound; if ductal dilatation → ERCP or MRCP; if no ductal dilatation → check AMA, ANA, and SMA; and if persistent elevation is otherwise unexplained, is symptomatic, is worsening over time, and/or associated with abnormal transaminases, consider liver biopsy.
 
 ---
 
-### Guidelines on the management of abnormal liver blood tests [^6305141d]. Gut (2018). Low credibility.
+### Guidelines on the management of abnormal liver blood tests [^113XoUqa]. Gut (2018). Low credibility.
 
 Response to abnormal liver blood tests: outcomes and pathways￼
 
@@ -440,7 +440,7 @@ Response to abnormal liver blood tests. This figure details the initial response
 
 ---
 
-### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^82313a79]. Nature Reviews: Nephrology (2019). High credibility.
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^114L1vgY]. Nature Reviews: Nephrology (2019). High credibility.
 
 Table 2
 Characteristics of inherited or acquired causes of phosphopenic rickets in comparison to calcipenic rickets
@@ -457,7 +457,7 @@ Patients should be evaluated for the presence and severity of common and rare co
 
 ---
 
-### Guidelines on the management of abnormal liver blood tests [^c111ccf7]. Gut (2018). Low credibility.
+### Guidelines on the management of abnormal liver blood tests [^115wEbB4]. Gut (2018). Low credibility.
 
 What constitutes a standard liver blood test panel?
 
@@ -465,19 +465,19 @@ There are remarkably few data to determine what an optimal liver blood test pane
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^9f945fab]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^1155asMt]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 ACG Clinical Guideline — abnormal liver chemistries evaluation and interpretation states that serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin are the most common liver chemistries; hepatocellular injury is defined as disproportionate elevation of AST and ALT compared with alkaline phosphatase, whereas cholestatic injury is defined as disproportionate elevation of alkaline phosphatase as compared with AST and ALT. A true healthy normal ALT level ranges from 29 to 33 IU/l for males, 19 to 25 IU/l for females and levels above this should be assessed. Evaluation of hepatocellular injury includes testing for viral hepatitis A, B, and C; assessment for nonalcoholic fatty liver disease and alcoholic liver disease; screening for hereditary hemochromatosis, autoimmune hepatitis, Wilson's disease, and alpha-1 antitrypsin deficiency; and a history of prescribed and over-the-counter medicines should be sought. For alkaline phosphatase elevation determined to be of hepatic origin, testing for primary biliary cholangitis and primary sclerosing cholangitis should be pursued. Total bilirubin elevation can occur from hepatocellular or cholestatic diseases; elevated total serum bilirubin levels should be fractionated to direct and indirect bilirubin fractions, and an elevated serum conjugated bilirubin implies hepatocellular disease or biliary obstruction in most settings. A liver biopsy may be considered when serologic testing and imaging fails to elucidate a diagnosis, to stage a condition, or when multiple diagnoses are possible.
 
 ---
 
-### Guidelines on the management of abnormal liver blood tests [^b59e34c7]. Gut (2018). Low credibility.
+### Guidelines on the management of abnormal liver blood tests [^115eFu7U]. Gut (2018). Low credibility.
 
 γ-Glutamyltransferase (GGT) is abundant in the liver and also present in the kidney, intestine, prostate and pancreas but not in bone; therefore it can be useful in confirming that an elevated ALP is of liver and not bony origin.GGT is most commonly elevated as a result of obesity, excess alcohol consumption or may be induced by drugs. Although an elevated GGT has a low specificity for liver disease, it is one of the best predictors of liver mortality. It is particularly useful in children to establish the likelihood of biliary disease when ALP is not a reliable indicator. Predominant causes of cholestasis in children include congenital abnormalities of the biliary tract and genetic disorders affecting bile synthesis and excretion.
 
 ---
 
-### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^3dc64282]. Gut (2018). Low credibility.
+### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^112aaqbw]. Gut (2018). Low credibility.
 
 What other conditions should be considered in the differential diagnosis of PBC?
 
@@ -485,7 +485,7 @@ The diagnosis of PBC usually causes little confusion because of the specificity 
 
 ---
 
-### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^47349751]. Gut (2018). Low credibility.
+### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^112pZnZn]. Gut (2018). Low credibility.
 
 How is PBC diagnosed?
 
@@ -506,19 +506,19 @@ PBC is characterised, in its early stages, by elevation in serum ALP and GGT. Mu
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^5b449e9b]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^113LJvTk]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Abnormal liver chemistries — bilirubin, alkaline phosphatase, albumin, and prothrombin time interpretation includes that an elevated GGT suggests that the alkaline phosphatase elevation is of hepatic origin, alkaline phosphatase levels increase in children and the elderly, especially females over 50 years of age, and the total serum bilirubin is usually < 1.1 mg/dl with an elevated direct bilirubin indicating hepatocellular dysfunction or cholestasis; fractionation of total bilirubin is most helpful when the ALT, AST, and alkaline phosphatase levels are normal or near normal, and if the total bilirubin is elevated and fractionation shows the majority of the elevation is unconjugated bilirubin, hepatocellular disease is unlikely; albumin is a plasma protein exclusively synthesized by the liver with a circulating half-life of 3 weeks, a reduction in albumin (normal ≥ 3.5 g/dl) usually indicates liver disease of more than 3 weeks duration, and prothrombin time may be prolonged in patients with severe liver disease of < 24 h duration.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^f8c52eff]. The American Journal of Gastroenterology (2017). Low credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^117MpALN]. The American Journal of Gastroenterology (2017). Low credibility.
 
 Clinicians are required to assess abnormal liver chemistries on a daily basis. The most common liver chemistries ordered are serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin. These tests should be termed liver chemistries or liver tests. Hepatocellular injury is defined as disproportionate elevation of AST and ALT levels compared with alkaline phosphatase levels. Cholestatic injury is defined as disproportionate elevation of alkaline phosphatase level as compared with AST and ALT levels. The majority of bilirubin circulates as unconjugated bilirubin and an elevated conjugated bilirubin implies hepatocellular disease or cholestasis. Multiple studies have demonstrated that the presence of an elevated ALT has been associated with increased liver-related mortality. A true healthy normal ALT level ranges from 29 to 33IU/l for males, 19 to 25IU/l for females and levels above this should be assessed. The degree of elevation of ALT and or AST in the clinical setting helps guide the evaluation. The evaluation of hepatocellular injury includes testing for viral hepatitis A, B, and C, assessment for nonalcoholic fatty liver disease and alcoholic liver disease, screening for hereditary hemochromatosis, autoimmune hepatitis, Wilson's disease, and alpha-1 antitrypsin deficiency. In addition, a history of prescribed and over-the-counter medicines should be sought. For the evaluation of an alkaline phosphatase elevation determined to be of hepatic origin, testing for primary biliary cholangitis and primary sclerosing cholangitis should be undertaken. Total bilirubin elevation can occur in either cholestatic or hepatocellular diseases. Elevated total serum bilirubin levels should be fractionated to direct and indirect bilirubin fractions and an elevated serum conjugated bilirubin implies hepatocellular disease or biliary obstruction in most settings. A liver biopsy may be considered when serologic testing and imaging fails to elucidate a diagnosis, to stage a condition, or when multiple diagnoses are possible.
 
 ---
 
-### Diagnosis and management of Paget's disease of bone in adults: a clinical guideline [^634b444d]. Journal of Bone and Mineral Research (2019). Medium credibility.
+### Diagnosis and management of Paget's disease of bone in adults: a clinical guideline [^113YD4DS]. Journal of Bone and Mineral Research (2019). Medium credibility.
 
 Treatment of increased metabolic activity or symptoms?
 
@@ -528,13 +528,13 @@ The PRISM‐extension with zoledronic acid study (PRISM‐EZ) employed the same 
 
 ---
 
-### High alkaline phosphatase levels in hemodialysis patients are associated with higher risk of hospitalization and death [^6fdde178]. Kidney International (2008). Low credibility.
+### High alkaline phosphatase levels in hemodialysis patients are associated with higher risk of hospitalization and death [^113rr9sD]. Kidney International (2008). Low credibility.
 
 We evaluated risks associated with elevated alkaline phosphatase in hemodialysis patients using longitudinal data from the Dialysis Outcomes and Practice Patterns Study, a prospective observational study of hemodialysis patients in 12 countries. Alkaline phosphatase levels were normalized by the upper limit of the laboratory-reported reference range. Cause-specific hospitalization and mortality risks were evaluated using Cox proportional hazards models, stratified by region and adjusted for phosphorus, calcium, albumin, parathyroid hormone, case mix, and numerous comorbidities. The odds of high normalized alkaline phosphatase were increased twofold in the United States in comparison to Japan. Elevations of normalized alkaline phosphatase were significantly associated with several comorbid conditions, increased fractures, parathyroidectomy, risk of hospitalization due to major adverse cardiac events, higher all-cause cardiovascular, and infection-related mortality risk. Our results also show that elevated serum normalized alkaline phosphatase was associated with higher risks of hospitalization and death in hemodialysis patients, independent of calcium, phosphorus, and parathyroid hormone levels.
 
 ---
 
-### Rhabdomyolysis attributed to terbinafine: a rare occurrence that can be mistaken for terbinafine-induced hepatotoxicity [^3cafe415]. JAAD Case Reports (2019). Medium credibility.
+### Rhabdomyolysis attributed to terbinafine: a rare occurrence that can be mistaken for terbinafine-induced hepatotoxicity [^112YyLYL]. JAAD Case Reports (2019). Medium credibility.
 
 Discussion
 
@@ -544,7 +544,7 @@ Rhabdomyolysis associated with terbinafine use is a rare occurrence. When evalua
 
 ---
 
-### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^989614c7]. British Journal of Cancer (2017). Low credibility.
+### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^114uDXen]. British Journal of Cancer (2017). Low credibility.
 
 Discussion
 
@@ -552,7 +552,7 @@ Alkaline phosphatase activity in serum, a measure of alkaline phosphatase expres
 
 ---
 
-### Evaluation of abnormal liver tests in the adult asymptomatic patient [^37f87728]. Current Opinion in Gastroenterology (2018). Low credibility.
+### Evaluation of abnormal liver tests in the adult asymptomatic patient [^112Rymzo]. Current Opinion in Gastroenterology (2018). Low credibility.
 
 Purpose Of Review
 
@@ -568,19 +568,19 @@ This review seeks to synthesize key elements of the best evidence, presently ava
 
 ---
 
-### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^11429141]. Gut (2018). Medium credibility.
+### The British society of gastroenterology / UK-PBC primary biliary cholangitis treatment and management guidelines [^111Sb9dS]. Gut (2018). Medium credibility.
 
 Regarding diagnostic investigations for primary biliary cholangitis, more specifically with respect to laboratory tests, BSG 2018 guidelines recommend to obtain AMA and anti-nuclear autoantibodies reactivity in patients with persistently elevated cholestatic liver biochemistry (raised ALP or GGT) without an alternative cause.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^abd53d51]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^115PkWRv]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Evaluation of abnormal liver chemistries — initial steps should confirm the abnormality and structure history and examination. Before initiation of evaluation of abnormal liver chemistries, one should repeat the lab panel and/or perform a clarifying test (e.g. GGT if serum alkaline phosphatase is elevated) to confirm that the liver chemistry is actually abnormal. The initial history should assess risk factors for liver diseases including viral hepatitis, metabolic liver disease, exposures to toxins, and medications including alcohol and complementary-alternative medicines, associated diseases including inflammatory bowel disease, hematologic diseases, pulmonary disease, and cardiac disease as well as hereditary forms of liver disease. In those who present with jaundice and abdominal pain, obtaining a history of prior hepatobiliary disease including gallstones and inflammatory bowel disease is recommended. The physical examination of a patient with abnormal liver tests is typically normal, but certain findings might help to confirm the presence of chronic liver disease including jaundice, ascites, splenomegaly, palmar erythema, spiders, and hepatic encephalopathy.
 
 ---
 
-### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^6a4e3f56]. British Journal of Cancer (2017). Low credibility.
+### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^113ibyFj]. British Journal of Cancer (2017). Low credibility.
 
 Results
 
@@ -590,7 +590,7 @@ Circulating alkaline phosphatase is well known to be elevated in prostate cancer
 
 ---
 
-### Diagnosis and management of Paget's disease of bone in adults: a clinical guideline [^3cd48a7b]. Journal of Bone and Mineral Research (2019). Medium credibility.
+### Diagnosis and management of Paget's disease of bone in adults: a clinical guideline [^112ZBeYJ]. Journal of Bone and Mineral Research (2019). Medium credibility.
 
 Biochemical markers
 
@@ -600,31 +600,31 @@ The most widely used biochemical marker for the diagnosis of PDB is serum total 
 
 ---
 
-### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^9c63c613]. Hepatology (2023). High credibility.
+### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^114zraiE]. Hepatology (2023). High credibility.
 
 Guidance statements — clinically significant drug-induced liver injury (DILI) is defined as any of: serum AST or ALT > 5x ULN or ALP > 2x ULN on two separate occasions, total serum bilirubin > 2.5 mg/dl with elevated AST, ALT, or ALP, or INR > 1.5 with elevated AST, ALT, or ALP; most hepatotoxic drugs cause injury within the first 6 months, so evaluation should include a detailed medication and HDS history within the 180 days before presentation; classify injury using the ratio (ALT/ULN)/(ALP/ULN) into hepatocellular (R ≥ 5), mixed (2 < R < 5), and cholestatic (R ≤ 2) profiles; excluding alternative causes is required, and certain drugs have phenotype "signatures" useful for causality; We recommend accessing the LiverTox website for literature covering over 1000 prescription drugs.
 
 ---
 
-### Primary biliary cirrhosis presented as peripheral eosinophilia in asymptomatic women with or without elevated alkaline phosphatase [^9304f021]. European Journal of Gastroenterology & Hepatology (2004). Low credibility.
+### Primary biliary cirrhosis presented as peripheral eosinophilia in asymptomatic women with or without elevated alkaline phosphatase [^114kxqdJ]. European Journal of Gastroenterology & Hepatology (2004). Low credibility.
 
 Primary biliary cirrhosis (PBC) is a chronic cholestatic liver disease characterized by the destruction of biliary epithelial cells, presumably by autoimmune mechanism(s). Although lymphocytes play a pivotal role in the pathogenesis of PBC, the possible involvement of eosinophils has also been suggested. Recent studies have shown that eosinophilia possibly occurs in the peripheral blood of PBC patients. We present four cases of asymptomatic middle-aged women with moderate-to-high eosinophilia observed during random investigation. Alkaline phosphatase (ALP) was increased in two of them. As a result of clinical and laboratory evaluations the early stages of PBC were diagnosed in all the patients, as attested by the detection of high titres of anti-mitochondrial antibodies and the characteristic lesions on liver biopsies. Liver function tests and eosinophils returned within normal limits after 2 months of treatment with ursodeoxycholic acid, suggesting that its potential immunomodulatory actions may extend to eosinophils. Our report further supports the possibility that eosinophilia may occur in PBC, especially in its early stages. From the clinical point of view, we believe that PBC should be considered in the differential diagnosis of eosinophilia with an otherwise unknown origin. In particular, PBC should be suspected in a patient when other causes of eosinophilia have been excluded, irrespective of the presence or absence of symptoms, or the presence or absence of elevated ALP. In such cases further evaluation for anti-mitochondrial antibodies should be done. These observations might assist the development of future therapeutic concepts in the management of PBC, at least for patients in early stages of the disease.
 
 ---
 
-### Primary biliary cholangitis: 2018 practice guidance from the American Association for the Study of Liver Diseases [^097ab41f]. Hepatology (2019). High credibility.
+### Primary biliary cholangitis: 2018 practice guidance from the American Association for the Study of Liver Diseases [^111F46zi]. Hepatology (2019). High credibility.
 
 Primary biliary cholangitis (PBC) diagnosis — initial suspicion and confirmation — states that "The diagnosis of PBC should be suspected in the setting of chronic cholestasis after exclusion of other causes of liver disease, particularly in a middle-aged female with an unexplained elevation of serum ALP", and "The diagnosis is largely confirmed with tests for AMA"; "A liver biopsy can be used to further substantiate the diagnosis but is rarely needed".
 
 ---
 
-### Hypophosphatasia-aetiology, nosology, pathogenesis, diagnosis and treatment [^2114066b]. Nature Reviews: Endocrinology (2016). Medium credibility.
+### Hypophosphatasia-aetiology, nosology, pathogenesis, diagnosis and treatment [^111r3KRL]. Nature Reviews: Endocrinology (2016). Medium credibility.
 
 Hypophosphatasia is the inborn error of metabolism characterized by low serum alkaline phosphatase activity (hypophosphatasaemia). This biochemical hallmark reflects loss-of-function mutations within the gene that encodes the tissue-nonspecific isoenzyme of alkaline phosphatase (TNSALP). TNSALP is a cell-surface homodimeric phosphohydrolase that is richly expressed in the skeleton, liver, kidney and developing teeth. In hypophosphatasia, extracellular accumulation of TNSALP natural substrates includes inorganic pyrophosphate, an inhibitor of mineralization, which explains the dento-osseous and arthritic complications featuring tooth loss, rickets or osteomalacia, and calcific arthopathies. Severely affected infants sometimes also have hypercalcaemia and hyperphosphataemia due to the blocked entry of minerals into the skeleton, and pyridoxine-dependent seizures from insufficient extracellular hydrolysis of pyridoxal 5'-phosphate, the major circulating form of vitamin B6, required for neurotransmitter synthesis. Autosomal recessive or dominant inheritance from ~300 predominantly missense ALPL (also known as TNSALP) mutations largely accounts for the remarkably broad-ranging expressivity of hypophosphatasia. High serum concentrations of pyridoxal 5'-phosphate represent a sensitive and specific biochemical marker for hypophosphatasia. Also, phosphoethanolamine levels are usually elevated in serum and urine, though less reliably for diagnosis. TNSALP mutation detection is important for recurrence risk assessment and prenatal diagnosis. Diagnosing paediatric hypophosphatasia is aided by pathognomic radiographic changes when the skeletal disease is severe. Hypophosphatasia was the last type of rickets or osteomalacia to await a medical treatment. Now, significant successes for severely affected paediatric patients are recognized using asfotase alfa, a bone-targeted recombinant TNSALP.
 
 ---
 
-### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^ab8d8dcf]. Nature Reviews: Nephrology (2019). High credibility.
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^115PLRtA]. Nature Reviews: Nephrology (2019). High credibility.
 
 Biochemical characteristics
 
@@ -632,13 +632,13 @@ The biochemical hallmarks of XLH are hypophosphataemia due to renal phosphate wa
 
 ---
 
-### Paget's disease of bone: an endocrine society clinical practice guideline [^74cfc567]. The Journal of Clinical Endocrinology and Metabolism (2014). Medium credibility.
+### Paget's disease of bone: an endocrine society clinical practice guideline [^113zBMQ2]. The Journal of Clinical Endocrinology and Metabolism (2014). Medium credibility.
 
 Paget's disease of bone — presenting signs and skeletal features include that many patients are asymptomatic and the disease is discovered when a radiograph or bone scan is performed for another indication or when an elevated serum ALP level is found on a multiphasic screening chemistry panel; patients usually have a single bone or several bones affected, with the pelvis, vertebrae, skull, femur, and tibia most frequently involved; a hallmark is skeletal deformity with increased size and/or abnormal shape, increased warmth over an affected bone (usually the tibia) attributed to increased blood flow, and skeletal growth or expansion that becomes clinically obvious when the skull, jaw, clavicle, femur, or tibia are involved.
 
 ---
 
-### Liver function predicts survival in patients undergoing extracorporeal membrane oxygenation following cardiovascular surgery [^0d3f8f3d]. Critical Care (2016). Low credibility.
+### Liver function predicts survival in patients undergoing extracorporeal membrane oxygenation following cardiovascular surgery [^111LeBuN]. Critical Care (2016). Low credibility.
 
 Generally, elevation of alkaline phosphatase and bilirubin is considered as a cholestatic pattern. Cholestasis is defined as a decline of bile flow into the duodenum that may be caused by impaired secretion by hepatocytes or obstruction through intra- or extrahepatic bile ducts. Particularly, adverse effects of medications and systemic sepsis may be the underlying mechanism for elevated cholestatic parameters in the present study cohort. As preoperative bilirubin and alkaline phosphatase levels were in the upper normal range or only slightly elevated in the present study population, significant cholestasis is not suggested to be the sole organic correlate for poor outcome. The commonality of our study population is the severe cardiovascular disease that may itself affect liver function. The pathophysiology of cardiac hepatopathy is, on one hand, impaired arterial perfusion caused by acute heart failure and, on the other hand, passive congestion resulting from an increased central venous pressure due to elevated right ventricular pressure and right-sided heart failure. Mostly, forward and backward failure coexist and aggravate each other in patients with severe heart failure. Furthermore, hepatic derangements are not necessarily caused by primary liver disease, but may be a consequence of severe illness and may represent a surrogate marker of the generalized stress response.
 
@@ -646,31 +646,31 @@ In line with our results, elevated levels of alkaline phosphatase or bilirubin w
 
 ---
 
-### I can feel it in my bones – a case of deranged' liver' function? [^e04544da]. BMJ Case Reports (2010). Medium credibility.
+### I can feel it in my bones – a case of deranged' liver' function? [^116jVVbP]. BMJ Case Reports (2010). Medium credibility.
 
 A 55-year-old Asian man was referred to a gastroenterology clinic by his general practitioner following an incidental finding of raised alkaline phosphatase (ALP) on routine blood testing. His ALP was found to be 198 (NR 35–129) with otherwise normal liver function tests. His past medical history consists of essential hypertension, type 2 diabetes and ischaemic heart disease. He was asymptomatic except for an intermittent ache over his left clavicle, which he had put down to angina. His gamma glutamyltransferase (GGT) was normal at 33 (NR 11–50) making bone the most likely source of his raised ALP. Imaging, including x-ray, CT and bone scan, showed an area of abnormality in the left clavicle. The appearances were consistent with fibrous dysplasia. We discuss the interpretation and investigation of deranged 'liver' function tests and suggest a rational and cost-effective diagnostic path to follow.
 
 ---
 
-### ACG clinical guideline: primary sclerosing cholangitis [^c6bafdb6]. The American Journal of Gastroenterology (2015). Medium credibility.
+### ACG clinical guideline: primary sclerosing cholangitis [^1165dMgH]. The American Journal of Gastroenterology (2015). Medium credibility.
 
 Primary sclerosing cholangitis biochemical and immunologic findings — laboratory patterns include a cholestatic profile with predominant alkaline phosphatase elevation, hypergammaglobulinemia is not common although IgG is increased in ~50% of patients, and elevated serum IgG4 occurs in ~10% of patients and may represent a distinct subset; all patients with PSC should be tested at least once for elevated serum IgG4, and antimitochondrial antibody typical of primary biliary cirrhosis is not found.
 
 ---
 
-### ACG clinical guideline: focal liver lesions [^8dc2b44f]. The American Journal of Gastroenterology (2024). High credibility.
+### ACG clinical guideline: focal liver lesions [^114dAet6]. The American Journal of Gastroenterology (2024). High credibility.
 
 Polycystic liver disease (PCLD) — laboratory and procedural considerations: The most common elevations are in gamma-glutamyl transferase (GGT) and alkaline phosphatase, and CA 19–9 is also elevated in ~50% of patients without evidence of malignancy. Cyst fenestration reduces cyst volume and provides immediate symptom relief, but there is a 30% recurrence rate and potential complications including ascites, bile leak, pleural effusion, and hemorrhage.
 
 ---
 
-### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^bd82a380]. Hepatology (2023). High credibility.
+### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^115qxYJs]. Hepatology (2023). High credibility.
 
 AASLD practice guidance — evaluation for cholestatic injury notes that for R ≤ 2: Cholestatic, Other Etiologies to Consider include Choledocholithiasis, Primary biliary cholangitis, Biliary strictures (e.g. primary sclerosing cholangitis), Pancreatobiliary tumors, Malignancy/infiltrating cancer (e.g. lymphoma), TPN cholestasis, and Bone disease, and Evaluation includes Doppler ultrasound, AMA, liver biopsy, Cholangiography, CT or MRI, LDH, imaging, History, and ALP isoenzymes.
 
 ---
 
-### Low incidence of positive smooth muscle antibody and high incidence of isolated IgM elevation in Chinese patients with autoimmune hepatitis And primary biliary cirrhosis overlap syndrome: a retrospective study [^cc5076d9]. BMC Gastroenterology (2012). Low credibility.
+### Low incidence of positive smooth muscle antibody and high incidence of isolated IgM elevation in Chinese patients with autoimmune hepatitis And primary biliary cirrhosis overlap syndrome: a retrospective study [^116DuW4Q]. BMC Gastroenterology (2012). Low credibility.
 
 List of abbreviations
 
@@ -678,13 +678,13 @@ AIH: autoimmune hepatitis; ALP: alkaline phosphatase; ALT: alanine transarninase
 
 ---
 
-### Extremely elevated activity of serum alkaline phosphatase in gestational diabetes: a case report [^0cb9c1e3]. American Journal of Obstetrics and Gynecology (2004). Low credibility.
+### Extremely elevated activity of serum alkaline phosphatase in gestational diabetes: a case report [^111KsFEA]. American Journal of Obstetrics and Gynecology (2004). Low credibility.
 
 We report a case of a 25-year-old pregnant woman with gestational diabetes and increased activity (25-fold) of placental isozyme of alkaline phosphatase. Abdominal ultrasonographic scan revealed no hepatobiliary disease. After delivery, the alkaline phosphatase level decreased but did not return to the reference range. Similar abnormalities were found in the patient's first-degree relatives, which included a mother and a sister.
 
 ---
 
-### Exosomal ALPPL2 and THBS2 as biomarkers for early detection and disease monitoring of pancreatic ductal adenocarcinoma [^dd4d47cc]. British Journal of Cancer (2025). Medium credibility.
+### Exosomal ALPPL2 and THBS2 as biomarkers for early detection and disease monitoring of pancreatic ductal adenocarcinoma [^116f6Dpo]. British Journal of Cancer (2025). Medium credibility.
 
 In recent years, exosomes, small membranous vesicles ranging from 30 to 150 nm in size, have emerged as a promising source of biomarkers for cancer. These vesicles contain molecular cargos, including proteins, lipids, and nucleic acids, from their cells of origin and are thought to be critical mediators of cell-to-cell communication. Importantly, cancer cells, including those from pancreatic tumors, secrete exosomes that carry unique pathogenic signatures distinct from those of normal cells. Exosomes derived from PDAC tumor tissues or cells have been shown to contain specific proteins and RNA molecules detectable in systemic circulation. These tumor-derived molecular cargos represent a valuable opportunity for developing non-invasive diagnostic tools for the early detection of PDAC. Investigators are actively exploring the profiling of exosomal content, including RNA signatures, proteomic patterns, and lipidomic profiles, to identify highly specific and sensitive markers for PDAC. As such, the study of exosome-based biomarkers represents a promising technique for the early detection of PDAC. Their potential to transform early detection strategies and improve outcomes for patients with this aggressive malignancy is a cause for optimism in the field of oncology and molecular diagnostics.
 
@@ -692,7 +692,7 @@ In our search for exosome-based protein markers for PDAC, we measured the levels
 
 ---
 
-### British society of gastroenterology guidelines for diagnosis and management of autoimmune hepatitis [^a304495c]. Gut (2025). Medium credibility.
+### British society of gastroenterology guidelines for diagnosis and management of autoimmune hepatitis [^115AgRSj]. Gut (2025). Medium credibility.
 
 Biochemistry
 
@@ -726,7 +726,7 @@ ACLF is acute injury developing in patients with (often unrecognised) cirrhosis,
 
 ---
 
-### Medical treatment of primary sclerosing cholangitis: what have we learned and where are we going? [^57de433a]. Hepatology (2025). Medium credibility.
+### Medical treatment of primary sclerosing cholangitis: what have we learned and where are we going? [^113FGaYR]. Hepatology (2025). Medium credibility.
 
 THE PROS AND CONS OF ALP IN PSC
 
@@ -738,13 +738,13 @@ ALPs are glycoproteins bound to the plasma membrane and are widely distributed i
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^561e93e7]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^113CgCwQ]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Cholestatic evaluation — biliary imaging and pregnancy testing: MRI/MRCP, endoscopic retrograde cholangio-pancreatography and/or endoscopic ultrasound can be ordered to better examine the bile duct morphology, pregnancy testing in women of childbearing age should be done to assess for intrahepatic cholestasis of pregnancy, and a liver biopsy may be considered to assess for primary biliary cirrhosis or other infiltrative diseases; other infiltrative disorders may raise the alkaline phosphatase and cause intrahepatic cholestasis including sarcoidosis, atypical fungal infection, or malignancies.
 
 ---
 
-### Association of intestinal alkaline phosphatase with necrotizing enterocolitis among premature infants [^6a2b84d9]. JAMA Network Open (2019). High credibility.
+### Association of intestinal alkaline phosphatase with necrotizing enterocolitis among premature infants [^113iQJgx]. JAMA Network Open (2019). High credibility.
 
 Key Points
 
@@ -762,7 +762,7 @@ Measuring the inability of intestinal alkaline phosphatase to maintain host-micr
 
 ---
 
-### Transient benign hyperphosphatasemia due to COVID-19: the first case report [^92b7a7aa]. Journal of Pediatric Endocrinology & Metabolism (2021). Medium credibility.
+### Transient benign hyperphosphatasemia due to COVID-19: the first case report [^114kWt2m]. Journal of Pediatric Endocrinology & Metabolism (2021). Medium credibility.
 
 Objectives
 
@@ -778,7 +778,7 @@ If ALP elevation is detected in patients with COVID 19 due to the increasing num
 
 ---
 
-### Elevated alkaline phosphatase in infants with parenteral nutrition-associated liver disease reflects bone rather than liver disease [^72dcbfe0]. JPEN: Journal of Parenteral and Enteral Nutrition (2015). Low credibility.
+### Elevated alkaline phosphatase in infants with parenteral nutrition-associated liver disease reflects bone rather than liver disease [^113wHjg3]. JPEN: Journal of Parenteral and Enteral Nutrition (2015). Low credibility.
 
 Background
 
@@ -798,7 +798,7 @@ While elevated ALP can reflect biliary stasis, the ALP elevation observed in inf
 
 ---
 
-### COVID-19 and liver injury: a meta-analysis [^1f310e05]. European Journal of Gastroenterology & Hepatology (2021). Medium credibility.
+### COVID-19 and liver injury: a meta-analysis [^111oF6QC]. European Journal of Gastroenterology & Hepatology (2021). Medium credibility.
 
 Background/Aims
 
@@ -818,19 +818,19 @@ A fourth of COVID-19 patients had elevated liver enzymes and associated with dis
 
 ---
 
-### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^6ff95011]. Hepatology (2023). High credibility.
+### AASLD practice guidance on drug, herbal, and dietary supplement-induced liver injury [^113s1NHW]. Hepatology (2023). High credibility.
 
 Diagnostic approach to drug-induced liver injury (DILI) — DILI is largely a clinical diagnosis of exclusion, and initial laboratory testing includes aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase (ALP), and total and direct bilirubin, with serum albumin and international normalized ratio (INR) as severity markers. Clinically significant DILI is commonly defined as any one of the following: serum AST or ALT > 5× upper limit of normal (ULN) or ALP > 2× ULN (or pretreatment baseline if baseline is abnormal) on two separate occasions at least 24 h apart; total serum bilirubin > 2.5 mg/dl with elevated AST, ALT, or ALP; or INR > 1.5 with elevated AST, ALT, or ALP. Although DILI can present with lower abnormalities, up to 20% of individuals in the general population have mildly increased liver biochemistries due to NAFLD, alcohol, and other common conditions.
 
 ---
 
-### Acute liver failure guidelines [^c9eba59d]. The American Journal of Gastroenterology (2023). High credibility.
+### Acute liver failure guidelines [^116AMfR6]. The American Journal of Gastroenterology (2023). High credibility.
 
 Table 5 (continued) — Ischemic liver injury and malignant infiltration clinical features and prognosis — Ischemic liver injury presents acutely, often in the setting of congestive heart failure, sepsis, traumatic injury, or major surgery, with a predominantly hepatocellular pattern and marked AST elevation > 10,000 IU/L; bilirubin and INR may worsen despite improving transaminases, and prognosis is favorable with restoration of hemodynamic stability. Malignant infiltration presents acutely, commonly from lymphoma, leukemia, breast cancer, or colon cancer, with abdominal pain, jaundice, hepatic encephalopathy, and hepatomegaly; labs show a mixed hepatocellular and cholestatic pattern with elevated alkaline phosphatase and gamma-glutamyl transferase and marked transaminase elevation approximately 40× ULN; diagnosis often relies on liver or bone marrow biopsy, and prognosis is poor.
 
 ---
 
-### Alkaline phosphatase normalization is associated with better prognosis in primary sclerosing cholangitis [^124a0da6]. Digestive and Liver Disease (2011). Low credibility.
+### Alkaline phosphatase normalization is associated with better prognosis in primary sclerosing cholangitis [^111U7ekM]. Digestive and Liver Disease (2011). Low credibility.
 
 Background
 
@@ -854,7 +854,7 @@ Serum alkaline phosphatase was found to normalize in a high proportion of newly 
 
 ---
 
-### Regulation of BMP-induced transcription in cultured human bone marrow stromal cells [^9928daac]. The Journal of Bone and Joint Surgery: American Volume (2003). Low credibility.
+### Regulation of BMP-induced transcription in cultured human bone marrow stromal cells [^114v4q2B]. The Journal of Bone and Joint Surgery: American Volume (2003). Low credibility.
 
 Background
 
@@ -874,7 +874,7 @@ Most human femur bone marrow stromal cell samples appear incapable of expressing
 
 ---
 
-### Alkaline phosphatase treatment of acute kidney injury-an update [^d0e60d0c]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
+### Alkaline phosphatase treatment of acute kidney injury-an update [^116LhhNT]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
 
 CONCLUSIONS
 
@@ -882,37 +882,37 @@ The endogenous enzyme ALP has an intricate connection with the host-response to 
 
 ---
 
-### Pseudohypoparathyroidism: a rare but important cause of hypocalcaemia [^64e0de22]. BMJ Case Reports (2013). Medium credibility.
+### Pseudohypoparathyroidism: a rare but important cause of hypocalcaemia [^113aZHxV]. BMJ Case Reports (2013). Medium credibility.
 
 We present a 46-year-old Caucasian lady with symptomatic hypocalcaemia. Investigations revealed markedly raised parathyroid hormone (PTH) levels with vitamin D deficiency. A number of conditions causing secondary hyperparathyroidism were ruled out from her medical history and initial investigations. The main differential diagnoses were vitamin D deficiency and PTH resistance (pseudohypoparathyroidism, PHP). With high-normal serum phosphate and normal alkaline phosphatase, and a lack of symptoms associated with osteomalacia, vitamin D deficiency alone was unlikely to be the cause of hypocalcaemia. Given a normal physical appearance, genetic testing was arranged and confirmed the diagnosis of PHP type Ib. She is currently taking activated vitamin D to maintain calcium homeostasis. PTH resistance is the hallmark of PHP, a rare complex genetic disorder, which can be easily missed resulting in potentially serious consequences.
 
 ---
 
-### Safety and tolerability of transdermal cannabidiol gel in children with developmental and epileptic encephalopathies: a nonrandomized controlled trial [^0e2ead80]. JAMA Network Open (2021). High credibility.
+### Safety and tolerability of transdermal cannabidiol gel in children with developmental and epileptic encephalopathies: a nonrandomized controlled trial [^111N2WJT]. JAMA Network Open (2021). High credibility.
 
 There were no clinically significant changes in vital signs or electrocardiograms. Laboratory findings were unremarkable, except for 1 patient with a transient, benign, isolated elevation of alkaline phosphatase (507 U/L) at 6.5 months (approximately 1.69 × upper limit of normal), which dropped to 402 U/L by 9 months after the patient exited the study. This was not considered related to the study drug.
 
 ---
 
-### ACG clinical guideline: primary sclerosing cholangitis [^f010f9a5]. The American Journal of Gastroenterology (2015). Medium credibility.
+### ACG clinical guideline: primary sclerosing cholangitis [^1178ujLY]. The American Journal of Gastroenterology (2015). Medium credibility.
 
 Primary sclerosing cholangitis diagnostic features — laboratory and histology context indicates diagnosis is generally made with chronic cholestatic liver test abnormalities, particularly elevated serum alkaline phosphatase (ALP), plus cholangiographic evidence of multifocal intrahepatic and extrahepatic bile duct strictures; liver biopsy, if performed, shows changes consistent with PSC, the characteristic "onion skin" fibrosis is seen infrequently, and liver biopsy is seldom required to establish the diagnosis.
 
 ---
 
-### Liver alkaline phosphatase: a missing link between choleresis and biliary inflammation [^ea262669]. Hepatology (2015). Low credibility.
+### Liver alkaline phosphatase: a missing link between choleresis and biliary inflammation [^116z8vAc]. Hepatology (2015). Low credibility.
 
 Several lines of evidence show that serum alkaline phosphatase (AP) is not only a signpost of cholestasis but also a surrogate marker of the severity of primary biliary cirrhosis and primary sclerosing cholangitis. In the present opinion article, we review and discuss the putative role of liver AP in health and in cholestatic diseases. In inflammatory cholestatic conditions, loss of activity of liver AP (resulting from its relocation from canaliculi and the acidic milieu) might promote hyper-adenosine triphosphate-bilia, lipopolysaccharide overload, and subsequent exacerbation and perpetuation of inflammation. Drugs that can restore the polarity of hepatocytes and canalicular export of bile acids or act as bile alkalinity modifiers are predicted to exert anti-inflammatory effects and to benefit both primary biliary cirrhosis and primary sclerosing cholangitis. Oral administration of intestinal AP could be a valid therapeutic intervention that deserves further study under experimental conditions as well as in human diseases. Overall, the key role of the liver microenvironment that might shape the different facets of the inflammatory processes in fibrosing cholangiopathies is highlighted.
 
 ---
 
-### AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma [^4eeb3aec]. Hepatology (2023). High credibility.
+### AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma [^113213dm]. Hepatology (2023). High credibility.
 
 Biochemical and serological tests in PSC — biochemical markers are sensitive but not specific; a cholestatic profile with elevated alkaline phosphatase (ALP) and γ-glutamyl transferase (GGT) is seen in about 75% of patients; elevated aminotransferases occur frequently and do not necessarily suggest overlapping AIH unless predominant or more than 5 times the upper limit of normal (ULN); precise diagnostic criteria for PSC–AIH overlap have not been established.
 
 ---
 
-### Genome-wide association study of serum liver enzymes implicates diverse metabolic and liver pathology [^0af3fc29]. Nature Communications (2021). High credibility.
+### Genome-wide association study of serum liver enzymes implicates diverse metabolic and liver pathology [^111HEq2g]. Nature Communications (2021). High credibility.
 
 Introduction
 
@@ -924,13 +924,13 @@ We aimed to further characterize the genetic architecture of liver disease with 
 
 ---
 
-### Child with suspected rickets [^ae5b80c6]. PES (2020). High credibility.
+### Child with suspected rickets [^115TVaf7]. PES (2020). High credibility.
 
 Child with suspected rickets — initial evaluation tests state that the initial laboratory and/or radiologic work-up can include blood tests for total and ionized calcium, albumin, phosphorus, magnesium, alkaline phosphatase, intact PTH, 25-OH Vitamin D, and 1, 25-dihydroxy-vitamin D, and X-ray of wrists of knees.
 
 ---
 
-### The natural history of main duct-involved, mixed-type intraductal papillary mucinous neoplasm: parameters predictive of progression [^62a2a98e]. Annals of Surgery (2014). Low credibility.
+### The natural history of main duct-involved, mixed-type intraductal papillary mucinous neoplasm: parameters predictive of progression [^113XERY1]. Annals of Surgery (2014). Low credibility.
 
 Objective
 
@@ -954,7 +954,7 @@ Primary surveillance of mixed-type IPMN may be a reasonable strategy in select p
 
 ---
 
-### Diagnosis and detection of sarcoidosis. An official American Thoracic Society clinical practice guideline [^3c389396]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Diagnosis and detection of sarcoidosis. An official American Thoracic Society clinical practice guideline [^112YHG7F]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Committee conclusions
 
@@ -971,7 +971,7 @@ Recommendations
 
 ---
 
-### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^2b031a6e]. British Journal of Cancer (2017). Low credibility.
+### Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer [^1126mWaH]. British Journal of Cancer (2017). Low credibility.
 
 Prostate cancer is the second most common cancer in men, with an estimated 1.1 million men diagnosed with prostate cancer in 2012 worldwide. Whereas localised prostate cancer has a good prognosis, advanced disease metastasises frequently to the skeleton, and becomes castration resistant. Once prostate cancer has metastasised to distant sites, the disease is ultimately fatal and treatment is purely palliative. The most common metastatic sites are the lymph nodes and the bone, with bone metastases resulting in severe bone pain and fractures. Despite many advances in research, a greater understanding of the metastatic process is required, to identify new therapeutic targets.
 
@@ -979,19 +979,19 @@ Recent evidence suggests that bone-related parameters are the main prognostic fa
 
 ---
 
-### Transient rise in alkaline phosphatase activity in adults [^a9acd0be]. BMJ Case Reports (2009). Medium credibility.
+### Transient rise in alkaline phosphatase activity in adults [^115LYxLm]. BMJ Case Reports (2009). Medium credibility.
 
 Benign transient hyperphosphatasia (BTH) is a condition that occurs mainly in infants and children and is characterised by a transient increase of serum alkaline phosphatase (ALP) activity up to several fold the adult upper reference limit (URL). The present report concerns BTH in 2 patients, aged 59 and 52 years old, who showed no evidence of bone or liver disease but had an increase in ALP activity up to 20-fold and 13-fold the adult URL, respectively. The diagnosis of BTH in the first case was made retrospectively, and after excluding liver and bone disease. However, in the second case the diagnosis was made early in the course of the disease, by performing an ALP isoenzyme electrophoresis test. Lengthy and extensive investigations were avoided in the second case. These cases highlight the occurrence of this condition in adulthood as well as in infancy and childhood.
 
 ---
 
-### ACG clinical guideline: evaluation of abnormal liver chemistries [^11ce4fd9]. The American Journal of Gastroenterology (2017). Medium credibility.
+### ACG clinical guideline: evaluation of abnormal liver chemistries [^111TQ656]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Aminotransferase elevations and adverse outcomes — overview states that there is an accumulating set of data demonstrating that AST and ALT elevations correlate with morbidity and mortality.
 
 ---
 
-### Diagnosing autoimmune hepatitis in children: is the international autoimmune hepatitis group scoring system useful? [^e468cbd6]. Clinical Gastroenterology and Hepatology (2004). Low credibility.
+### Diagnosing autoimmune hepatitis in children: is the international autoimmune hepatitis group scoring system useful? [^116qdNr9]. Clinical Gastroenterology and Hepatology (2004). Low credibility.
 
 Background & Aims
 
@@ -1011,7 +1011,7 @@ The IAIHG scoring system has a use in children. Patients who fall into the other
 
 ---
 
-### Fezolinetant (Veozah) [^108ee777]. FDA (2024). Medium credibility.
+### Fezolinetant (Veozah) [^111RYoWN]. FDA (2024). Medium credibility.
 
 5.1 Hepatotoxicity
 
@@ -1038,13 +1038,13 @@ Exclude alternative causes of hepatic laboratory test elevations.
 
 ---
 
-### Renal mass and localized renal cancer: evaluation, management, and follow-up: AUA guideline: part I [^fb23043d]. The Journal of Urology (2021). High credibility.
+### Renal mass and localized renal cancer: evaluation, management, and follow-up: AUA guideline: part I [^117RKeur]. The Journal of Urology (2021). High credibility.
 
 AUA renal mass follow-up — bone scan use directs that patients undergoing follow-up for treated malignant renal masses should only undergo bone scan if one or more of the following is present: clinical symptoms such as bone pain, elevated alkaline phosphatase, or radiographic findings suggestive of a bony neoplasm (Moderate Recommendation; Evidence Level: Grade C). The text also notes that the routine use of bone scan in the absence of bone pain or elevated ALP should not be pursued, although with the presence of symptoms and/or elevated marker, radionuclide bone scan can be a useful test.
 
 ---
 
-### Bone turnover markers: basic biology to clinical applications [^ba09017f]. Endocrine Reviews (2023). Medium credibility.
+### Bone turnover markers: basic biology to clinical applications [^115kois8]. Endocrine Reviews (2023). Medium credibility.
 
 Conclusion
 
@@ -1056,24 +1056,24 @@ Paget's disease is the second most common metabolic bone disorder after osteopor
 
 ---
 
-### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^421536ca]. Pediatrics (2008). Medium credibility.
+### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^112gyJt9]. Pediatrics (2008). Medium credibility.
 
 Vitamin D–deficiency rickets — radiographic features and laboratory profile with illustrative treatment response are described as follows: radiographs show metaphyseal widening, splaying, cupping, and fraying with a coarse trabecular metaphyseal pattern; the earliest rachitic change is loss of demarcation between metaphysis and growth plate with loss of the provisional zone of calcification; a 10-point radiographic scoring system was developed to assess severity based on knee and wrist findings; laboratory findings include hypophosphatemia, varying degrees of hypocalcemia, increased alkaline phosphatase and increased PTH, with low 25(OH)-D confirming diagnosis and 1,25(OH)2-D potentially elevated as PTH rises; Table 1 summarizes laboratory findings in the 3 stages of vitamin D–deficiency rickets; an example case shows near-complete radiographic healing 3 months after vitamin D and calcium therapy in a 1-year old.
 
 ---
 
-### Alkaline phosphatase treatment of acute kidney injury-an update [^29b58ee4]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
+### Alkaline phosphatase treatment of acute kidney injury-an update [^1124qUbM]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
 
 Through improved insights into the increasing incidence and detrimental effects of acute kidney injury (AKI), its clinical relevance has become more and more apparent. Although treatment strategies for AKI have also somewhat improved, an adequate remedy still does not exist. Finding one is complicated by a multifactorial pathophysiology and by heterogeneity in the patient population. Alkaline phosphatase (ALP) has been suggested as a therapy for sepsis-associated AKI because of its protective effects against lipopolysaccharide (LPS)-induced inflammation and kidney injury in animals. However, its effectiveness as an AKI treatment has not been demonstrated definitively. Because the anti-inflammatory properties of ALP are likely not reliant on a direct effect on LPS itself, we postulate that other pathways are much more important in explaining the renoprotective properties ascribed to ALP. The re-evaluation of which properties of the ALP enzyme are responsible for the benefit seen in the lab is an important step in determining where the true potential of ALP as a treatment strategy for AKI in the clinic lies. In this review we will discuss how ALP can prevent activation of harmful pro-inflammatory receptors, redirect cell-cell signalling and protect barrier tissues, which together form the basis for current knowledge of the role of ALP in the kidney. With this knowledge in mind and by analysing currently available clinical evidence, we propose directions for new research that can determine whether ALP as a treatment strategy for AKI has a future in the clinical field.
 
 ---
 
-### Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2024 updates to AASLD practice guidance [^d4c53859]. Hepatology (2025). High credibility.
+### Resmetirom therapy for metabolic dysfunction-associated steatotic liver disease: October 2024 updates to AASLD practice guidance [^116SScuE]. Hepatology (2025). High credibility.
 
 AASLD MASLD guidance — liver safety during resmetirom: "Regular hepatic function panel testing during resmetirom therapy is recommended to screen for hepatotoxicity". "Resmetirom should be discontinued if clinically significant hepatotoxicity develops as defined per the AASLD drug-induced liver injury practice guidance, specifically: AST or ALT greater than 5 times the upper limit of normal or alkaline phosphatase greater than 2 times the upper limit of normal (or pretreatment baseline if baseline is abnormal) on 2 occasions; or total serum bilirubin greater than 2.5 mg/dL plus elevated AST, ALT, or alkaline phosphatase; or INR greater than 1.5 plus elevated AST, ALT, or alkaline phosphatase".
 
 ---
 
-### ACG clinical guideline: focal liver lesions [^485e9660]. The American Journal of Gastroenterology (2024). High credibility.
+### ACG clinical guideline: focal liver lesions [^112rHt15]. The American Journal of Gastroenterology (2024). High credibility.
 
 Inflammatory adenomas characteristics — Inflammatory adenomas (I-HCAs) account for up to 44% of cases, and laboratory changes can include elevations in serum alkaline phosphatase or elevated systemic inflammatory markers such as C-reactive protein and fibrinogen levels, although presently, there is insufficient evidence to support routinely checking CRP or fibrinogen in these cases. Risk factors for development of I-HCAs include obesity, metabolic syndrome, heavy alcohol consumption, and glycogen storage disease, they can be prone to hemorrhage, and the risk of malignant transformation is low unless there is concomitant presence of the β-catenin mutation.

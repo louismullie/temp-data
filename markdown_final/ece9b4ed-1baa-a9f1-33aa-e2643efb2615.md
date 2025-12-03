@@ -15,97 +15,97 @@ What about erythema multiforme?
 
 > Let's see… What do we have here? The user is asking about erythema multiforme, including its definition, pathophysiology, epidemiology, clinical presentation, triggers, diagnostic approach, differential diagnosis, management, prognosis, special populations, and controversies. Let's break this down step-by-step. First, I need to think about the core definition and classification. Then, I should verify the pathophysiology and epidemiology. Next, I will review clinical features and the diagnostic approach, including how to distinguish EM from SJS/TEN and urticaria. After that, I need to check the workup for triggers, especially HSV and Mycoplasma. Then, I will examine management strategies, including symptomatic care, antivirals, antibiotics, and when to consider systemic steroids or immunomodulators. I should also consider pediatric nuances and prognosis. Finally, I will synthesize controversies and outline a practical algorithm, making sure I double-check any claims that seem uncertain before concluding.
 
-> Let me first confirm the definition and classification so I don't misstate the entity. Erythema multiforme is an immune-mediated mucocutaneous disorder characterized by target lesions with three concentric zones and a predilection for acral sites; it is classically divided into EM minor, with minimal or single-mucosal involvement, and EM major, with severe involvement of two or more mucosal surfaces, although newer frameworks emphasize severity-based categorization rather than minor/major labels, which I should keep in mind to avoid outdated terminology [^c74becdc] [^46d4ef5a].
+> Let me first confirm the definition and classification so I don't misstate the entity. Erythema multiforme is an immune-mediated mucocutaneous disorder characterized by target lesions with three concentric zones and a predilection for acral sites; it is classically divided into EM minor, with minimal or single-mucosal involvement, and EM major, with severe involvement of two or more mucosal surfaces, although newer frameworks emphasize severity-based categorization rather than minor/major labels, which I should keep in mind to avoid outdated terminology [^1166U3Du] [^112p1f2y].
 
-> I need to check the pathophysiology next. The leading model is a cell-mediated immune reaction triggered by antigens, most commonly HSV DNA fragments persisting in keratinocytes, with autoreactive T cells attacking HSV antigen–expressing epidermal cells; this explains recurrence with HSV reactivation and the limited benefit of antivirals during acute flares, as the immune cascade is already underway [^e3755148] [^20ebc79f]. Hold on, I should verify the role of Mycoplasma as well; M. pneumoniae is a major trigger, particularly in children and adolescents, and can produce severe mucositis sometimes labeled MIRM/RIME, which overlaps clinically with EM but may represent a related parainfectious entity rather than classic EM, so I must be cautious in labeling these cases [^6b85e263] [^23ffbda4].
+> I need to check the pathophysiology next. The leading model is a cell-mediated immune reaction triggered by antigens, most commonly HSV DNA fragments persisting in keratinocytes, with autoreactive T cells attacking HSV antigen–expressing epidermal cells; this explains recurrence with HSV reactivation and the limited benefit of antivirals during acute flares, as the immune cascade is already underway [^116pDbVy] [^111qooNv]. Hold on, I should verify the role of Mycoplasma as well; M. pneumoniae is a major trigger, particularly in children and adolescents, and can produce severe mucositis sometimes labeled MIRM/RIME, which overlaps clinically with EM but may represent a related parainfectious entity rather than classic EM, so I must be cautious in labeling these cases [^113kQeRx] [^111vNU6X].
 
-> Next, I should review epidemiology and risk factors. EM affects predominantly young adults, with an estimated prevalence around 0.01–1% and a female predominance in some series; infections are the most common triggers overall, with HSV leading and M. pneumoniae prominent in pediatrics, while drugs account for a minority of bona fide EM cases, and many cases remain idiopathic despite workup [^d61f85c4] [^c401c7be] [^c7dc879d]. Wait, let me verify the drug proportion; yes, contemporary data suggest only about 6% of evaluable pharmacovigilance reports meet criteria for probable drug-induced EM, underscoring how often SJS/TEN are misclassified as EM in databases [^c7dc879d].
+> Next, I should review epidemiology and risk factors. EM affects predominantly young adults, with an estimated prevalence around 0.01–1% and a female predominance in some series; infections are the most common triggers overall, with HSV leading and M. pneumoniae prominent in pediatrics, while drugs account for a minority of bona fide EM cases, and many cases remain idiopathic despite workup [^116USwR5] [^1161bAv9] [^1167JcM2]. Wait, let me verify the drug proportion; yes, contemporary data suggest only about 6% of evaluable pharmacovigilance reports meet criteria for probable drug-induced EM, underscoring how often SJS/TEN are misclassified as EM in databases [^1167JcM2].
 
-> I will now examine clinical presentation. Typical EM shows symmetric, acral, raised target lesions with three zones and evolve over days, often with burning or pruritus; mucosal involvement in EM major can be severe, with oral erosions impairing intake and ocular disease risking scarring, so I should confirm mucosal sites at every visit and escalate care if pain limits feeding or if there is ocular involvement [^c74becdc] [^7ee70d5b] [^bdfd6aa5]. Hold on, let's not jump to conclusions about distribution; while acral predominance is classic, M. pneumoniae–associated eruptions can be more truncal and bullous, so I need to integrate morphology with trigger probability and seasonality [^23ffbda4].
+> I will now examine clinical presentation. Typical EM shows symmetric, acral, raised target lesions with three zones and evolve over days, often with burning or pruritus; mucosal involvement in EM major can be severe, with oral erosions impairing intake and ocular disease risking scarring, so I should confirm mucosal sites at every visit and escalate care if pain limits feeding or if there is ocular involvement [^1166U3Du] [^114F93mU] [^115rfnDS]. Hold on, let's not jump to conclusions about distribution; while acral predominance is classic, M. pneumoniae–associated eruptions can be more truncal and bullous, so I need to integrate morphology with trigger probability and seasonality [^111vNU6X].
 
-> Let me consider the diagnostic approach and differential. Diagnosis is primarily clinical, anchored by target lesions and distribution; biopsy can support interface dermatitis but has overlap with SJS/TEN and RIME, so I should correlate with lesion morphology and evolution rather than rely on histology alone [^d4c366a2] [^6b85e263]. I should double-check for mimics: urticaria multiforme presents with transient, migratory annular plaques that resolve within 24 hours, whereas EM lesions are fixed for at least 7 days; SJS/TEN typically shows flat atypical targets or purpuric macules with epidermal detachment and a different risk profile, so I need to document lesion evolution and mucosal severity carefully [^f6981087] [^3d53409b] [^f417a8e7].
+> Let me consider the diagnostic approach and differential. Diagnosis is primarily clinical, anchored by target lesions and distribution; biopsy can support interface dermatitis but has overlap with SJS/TEN and RIME, so I should correlate with lesion morphology and evolution rather than rely on histology alone [^116SS1Tf] [^113kQeRx]. I should double-check for mimics: urticaria multiforme presents with transient, migratory annular plaques that resolve within 24 hours, whereas EM lesions are fixed for at least 7 days; SJS/TEN typically shows flat atypical targets or purpuric macules with epidermal detachment and a different risk profile, so I need to document lesion evolution and mucosal severity carefully [^117Jb2nJ] [^112ZvD5U] [^117Esvh4].
 
-> Next, I should review the trigger workup. For suspected HSV-associated EM, HSV PCR from lesional swabs or serology can be informative, but I must remember that HSV may not be detectable during active EM because the immune attack clears virus; nonetheless, documenting HSV serostatus helps guide prophylaxis for recurrences [^b4a46f6c] [^20ebc79f]. For suspected M. pneumoniae, I should obtain respiratory PCR and serology, and maintain a low threshold to treat with macrolides given the potential for severe mucositis and respiratory sequelae, even if pneumonia is not overt [^198f67db] [^23ffbda4]. But wait, what if the patient is on immunotherapy or has atypical features? In that scenario, I should broaden the differential and consider drug-induced SCARs and RIME, coordinating with oncology or infectious diseases as needed [^0abc6aa7] [^6b85e263].
+> Next, I should review the trigger workup. For suspected HSV-associated EM, HSV PCR from lesional swabs or serology can be informative, but I must remember that HSV may not be detectable during active EM because the immune attack clears virus; nonetheless, documenting HSV serostatus helps guide prophylaxis for recurrences [^115cp1BZ] [^111qooNv]. For suspected M. pneumoniae, I should obtain respiratory PCR and serology, and maintain a low threshold to treat with macrolides given the potential for severe mucositis and respiratory sequelae, even if pneumonia is not overt [^111etrpA] [^111vNU6X]. But wait, what if the patient is on immunotherapy or has atypical features? In that scenario, I should broaden the differential and consider drug-induced SCARs and RIME, coordinating with oncology or infectious diseases as needed [^111GvAUE] [^113kQeRx].
 
-> I will now examine management principles. For a first acute episode, the cornerstone is supportive care: topical corticosteroids for pruritus, oral antihistamines, analgesia including topical anesthetics for oral pain, hydration support, and meticulous mucosal care; I should confirm ocular involvement early and arrange urgent ophthalmology if present to prevent scarring [^d5c138a6] [^5eecd623] [^13580ffa] [^bdfd6aa5]. Hold on, I should verify the role of systemic corticosteroids in acute EM; evidence is limited and mixed, so steroids are not routine for uncomplicated EM, though they may be considered in severe mucosal disease for symptom control while acknowledging uncertainty and the need for randomized data [^d3a99cf6] [^0f4300a2].
+> I will now examine management principles. For a first acute episode, the cornerstone is supportive care: topical corticosteroids for pruritus, oral antihistamines, analgesia including topical anesthetics for oral pain, hydration support, and meticulous mucosal care; I should confirm ocular involvement early and arrange urgent ophthalmology if present to prevent scarring [^116TuGHB] [^113RjPSJ] [^111VgLx1] [^115rfnDS]. Hold on, I should verify the role of systemic corticosteroids in acute EM; evidence is limited and mixed, so steroids are not routine for uncomplicated EM, though they may be considered in severe mucosal disease for symptom control while acknowledging uncertainty and the need for randomized data [^116QoMnu] [^111PdKYM].
 
-> For recurrent HSV-associated EM, I need to ensure continuous antiviral prophylaxis is offered. Acyclovir 400 mg twice daily, valacyclovir 500 mg daily to twice daily, or famciclovir 250 mg twice daily for 6–12 months reduces recurrence, and responders often require 1–2 years before attempting discontinuation; if recurrences persist, I should escalate dosing or switch agents and consider combination strategies in refractory cases [^bcf7c0f8] [^20ebc79f]. Wait, let me verify alternatives when antivirals fail; small series support dapsone, thalidomide, mycophenolate, azathioprine, IVIG, and more recently JAK inhibitors such as upadacitinib, but I should counsel on risks and off-label status and individualize decisions given limited-quality evidence [^20ebc79f] [^e3755148] [^485d0c2e].
+> For recurrent HSV-associated EM, I need to ensure continuous antiviral prophylaxis is offered. Acyclovir 400 mg twice daily, valacyclovir 500 mg daily to twice daily, or famciclovir 250 mg twice daily for 6–12 months reduces recurrence, and responders often require 1–2 years before attempting discontinuation; if recurrences persist, I should escalate dosing or switch agents and consider combination strategies in refractory cases [^115q9tcX] [^111qooNv]. Wait, let me verify alternatives when antivirals fail; small series support dapsone, thalidomide, mycophenolate, azathioprine, IVIG, and more recently JAK inhibitors such as upadacitinib, but I should counsel on risks and off-label status and individualize decisions given limited-quality evidence [^111qooNv] [^116pDbVy] [^112rHN1B].
 
-> For M. pneumoniae–associated EM or RIME, I should confirm the diagnosis and start macrolide therapy promptly, as antibiotics can modify the course and reduce mucosal injury; supportive care remains essential, and I should monitor for respiratory involvement even if cough is mild or absent [^198f67db] [^23ffbda4]. Hold on, I should verify that I'm not conflating RIME with SJS/TEN; RIME typically has prominent mucositis with limited skin detachment and a better prognosis, so distinguishing features and trigger-directed therapy are key to avoiding overtreatment [^6b85e263].
+> For M. pneumoniae–associated EM or RIME, I should confirm the diagnosis and start macrolide therapy promptly, as antibiotics can modify the course and reduce mucosal injury; supportive care remains essential, and I should monitor for respiratory involvement even if cough is mild or absent [^111etrpA] [^111vNU6X]. Hold on, I should verify that I'm not conflating RIME with SJS/TEN; RIME typically has prominent mucositis with limited skin detachment and a better prognosis, so distinguishing features and trigger-directed therapy are key to avoiding overtreatment [^113kQeRx].
 
-> I need to ensure pediatric-specific issues are addressed. In children, M. pneumoniae and HSV are leading triggers, and vaccines can rarely precipitate EM; infants are exceptionally rare presentations, so I should confirm the diagnosis carefully and avoid overcalling urticaria multiforme as EM in the ED, which is a common pitfall [^75ea147b] [^6d5d42fc]. Let me reconsider recurrence patterns; pediatric recurrent EM often responds to antiviral prophylaxis when HSV is implicated, but responses vary and some require immunomodulators, so longitudinal follow-up and trigger surveillance are important [^bcf7c0f8].
+> I need to ensure pediatric-specific issues are addressed. In children, M. pneumoniae and HSV are leading triggers, and vaccines can rarely precipitate EM; infants are exceptionally rare presentations, so I should confirm the diagnosis carefully and avoid overcalling urticaria multiforme as EM in the ED, which is a common pitfall [^1141pBDc] [^113o8ybq]. Let me reconsider recurrence patterns; pediatric recurrent EM often responds to antiviral prophylaxis when HSV is implicated, but responses vary and some require immunomodulators, so longitudinal follow-up and trigger surveillance are important [^115q9tcX].
 
-> Next, I should review prognosis and sequelae. Most EM cases resolve within 2–4 weeks without scarring, but severe mucosal involvement, especially ocular, can leave permanent sequelae; recurrent EM is common with HSV, and persistent EM, though rare, may require prolonged immunosuppression and specialist input [^bdf459d4] [^7ee70d5b] [^20ebc79f]. I should double-check that I've emphasized ocular risk and the need for early ophthalmology, as this is a critical preventable morbidity [^bdfd6aa5].
+> Next, I should review prognosis and sequelae. Most EM cases resolve within 2–4 weeks without scarring, but severe mucosal involvement, especially ocular, can leave permanent sequelae; recurrent EM is common with HSV, and persistent EM, though rare, may require prolonged immunosuppression and specialist input [^115rcjbq] [^114F93mU] [^111qooNv]. I should double-check that I've emphasized ocular risk and the need for early ophthalmology, as this is a critical preventable morbidity [^115rfnDS].
 
-> Let me synthesize controversies and uncertainties so I don't overstate certainties. The minor versus major dichotomy is being replaced by severity-based frameworks; the role of systemic corticosteroids in acute severe EM remains unsettled and should be individualized; and the relationship between EM, MIRM/RIME, and SJS/TEN continues to evolve, requiring clinicians to integrate morphology, distribution, triggers, and histology rather than rely on rigid categories [^46d4ef5a] [^d3a99cf6] [^6b85e263]. I should confirm that ongoing research, including RCTs of systemic steroids and JAK inhibitors, may refine management in the near future [^0f4300a2].
+> Let me synthesize controversies and uncertainties so I don't overstate certainties. The minor versus major dichotomy is being replaced by severity-based frameworks; the role of systemic corticosteroids in acute severe EM remains unsettled and should be individualized; and the relationship between EM, MIRM/RIME, and SJS/TEN continues to evolve, requiring clinicians to integrate morphology, distribution, triggers, and histology rather than rely on rigid categories [^112p1f2y] [^116QoMnu] [^113kQeRx]. I should confirm that ongoing research, including RCTs of systemic steroids and JAK inhibitors, may refine management in the near future [^111PdKYM].
 
-> Finally, I should outline a practical algorithm and sanity-check each step. Suspect EM with symmetric acral target lesions; confirm morphology and mucosal involvement; exclude SJS/TEN by evolution and detachment; search for HSV with PCR/serology and for M. pneumoniae with PCR/serology; treat supportively with topical steroids, antihistamines, analgesia, and ocular care; give macrolides if M. pneumoniae is suspected; and for recurrences, initiate continuous antivirals and escalate to immunomodulators if refractory, all while coordinating specialty care as indicated [^c74becdc] [^198f67db] [^bcf7c0f8] [^20ebc79f]. Hold on, I should verify that I've integrated the key red flags: severe oral pain limiting intake, ocular involvement, and extensive erosions warrant closer monitoring, hydration support, and early specialty referral to mitigate complications [^d3a99cf6] [^bdfd6aa5].
+> Finally, I should outline a practical algorithm and sanity-check each step. Suspect EM with symmetric acral target lesions; confirm morphology and mucosal involvement; exclude SJS/TEN by evolution and detachment; search for HSV with PCR/serology and for M. pneumoniae with PCR/serology; treat supportively with topical steroids, antihistamines, analgesia, and ocular care; give macrolides if M. pneumoniae is suspected; and for recurrences, initiate continuous antivirals and escalate to immunomodulators if refractory, all while coordinating specialty care as indicated [^1166U3Du] [^111etrpA] [^115q9tcX] [^111qooNv]. Hold on, I should verify that I've integrated the key red flags: severe oral pain limiting intake, ocular involvement, and extensive erosions warrant closer monitoring, hydration support, and early specialty referral to mitigate complications [^116QoMnu] [^115rfnDS].
 
 ---
 
-Erythema multiforme (EM) is an **acute, immune-mediated eruption** characterized by target lesions on the extremities and occasional mucosal involvement [^c74becdc]. It is most often triggered by **HSV or Mycoplasma pneumoniae**, with drugs less commonly implicated [^c401c7be] [^c7dc879d]. Diagnosis is clinical, supported by histology showing interface dermatitis; management is supportive, with topical corticosteroids and antihistamines for symptoms, and antiviral prophylaxis for recurrent HSV-associated EM [^d5c138a6] [^98af9e4a] [^bcf7c0f8]. EM is self-limited and usually resolves in 2–4 weeks, but severe mucosal disease can cause significant morbidity; **urgent ophthalmology referral is required for ocular involvement** to prevent sequelae [^bdf459d4] [^bdfd6aa5].
+Erythema multiforme (EM) is an **acute, immune-mediated eruption** characterized by target lesions on the extremities and occasional mucosal involvement [^1166U3Du]. It is most often triggered by **HSV or Mycoplasma pneumoniae**, with drugs less commonly implicated [^1161bAv9] [^1167JcM2]. Diagnosis is clinical, supported by histology showing interface dermatitis; management is supportive, with topical corticosteroids and antihistamines for symptoms, and antiviral prophylaxis for recurrent HSV-associated EM [^116TuGHB] [^114uN7A1] [^115q9tcX]. EM is self-limited and usually resolves in 2–4 weeks, but severe mucosal disease can cause significant morbidity; **urgent ophthalmology referral is required for ocular involvement** to prevent sequelae [^115rcjbq] [^115rfnDS].
 
 ---
 
 ## Clinical presentation
 
-- **Lesions**: Typical target lesions with three concentric zones (dark center, lighter ring, outer erythema), symmetric on extensor surfaces of extremities; mucosal involvement (oral, ocular, genital) in EM major [^c74becdc] [^5eecd623].
-- **Symptoms**: Pruritus, burning, pain with mucosal erosions; systemic symptoms (fever, malaise) in severe cases [^b4bd4229].
-- **Course**: Acute onset, self-limited, resolving in 2–4 weeks; recurrent in ~20%, often HSV-related [^bdf459d4] [^20ebc79f].
+- **Lesions**: Typical target lesions with three concentric zones (dark center, lighter ring, outer erythema), symmetric on extensor surfaces of extremities; mucosal involvement (oral, ocular, genital) in EM major [^1166U3Du] [^113RjPSJ].
+- **Symptoms**: Pruritus, burning, pain with mucosal erosions; systemic symptoms (fever, malaise) in severe cases [^115cxLn4].
+- **Course**: Acute onset, self-limited, resolving in 2–4 weeks; recurrent in ~20%, often HSV-related [^115rcjbq] [^111qooNv].
 
 ---
 
 ## Etiology and triggers
 
-- **Infections**: HSV (most common), M. pneumoniae, EBV, CMV, hepatitis viruses, orf, SARS-CoV-2 [^c401c7be] [^6b85e263].
-- **Drugs**: Less common; sulfonamides, anticonvulsants, NSAIDs, allopurinol, TNF inhibitors, immune checkpoint inhibitors [^c7dc879d] [^0abc6aa7].
-- **Other**: Vaccines, autoimmune diseases, malignancies, idiopathic cases [^c401c7be] [^d4c366a2].
+- **Infections**: HSV (most common), M. pneumoniae, EBV, CMV, hepatitis viruses, orf, SARS-CoV-2 [^1161bAv9] [^113kQeRx].
+- **Drugs**: Less common; sulfonamides, anticonvulsants, NSAIDs, allopurinol, TNF inhibitors, immune checkpoint inhibitors [^1167JcM2] [^111GvAUE].
+- **Other**: Vaccines, autoimmune diseases, malignancies, idiopathic cases [^1161bAv9] [^116SS1Tf].
 
 ---
 
 ## Pathophysiology
 
-EM is a **hypersensitivity reaction** with immune complex deposition and T-cell–mediated keratinocyte injury; HSV-associated EM involves HSV DNA in lesions, supporting a viral trigger mechanism [^e3755148] [^b4a46f6c].
+EM is a **hypersensitivity reaction** with immune complex deposition and T-cell–mediated keratinocyte injury; HSV-associated EM involves HSV DNA in lesions, supporting a viral trigger mechanism [^116pDbVy] [^115cp1BZ].
 
 ---
 
 ## Diagnosis
 
-- **Clinical**: Based on typical target lesions, distribution, and mucosal involvement [^c74becdc].
+- **Clinical**: Based on typical target lesions, distribution, and mucosal involvement [^1166U3Du].
 - **Histopathology**: Interface dermatitis, vacuolar degeneration, necrotic keratinocytes, dermal lymphocytic infiltrate [^notfound].
-- **Differential**: SJS/TEN (flat atypical targets, > 10% detachment), urticaria (transient, non-fixed), vasculitis, fixed drug eruption, viral exanthems [^f417a8e7] [^3d53409b].
+- **Differential**: SJS/TEN (flat atypical targets, > 10% detachment), urticaria (transient, non-fixed), vasculitis, fixed drug eruption, viral exanthems [^117Esvh4] [^112ZvD5U].
 
 ---
 
 ## Management
 
-- **Supportive care**: Topical corticosteroids, antihistamines, analgesics, hydration, soft diet, oral hygiene [^d5c138a6] [^98af9e4a] [^d3a99cf6].
-- **HSV-associated EM**: Acyclovir 400 mg twice daily; valacyclovir or famciclovir alternatives; treat for 6–12 months, then reassess [^bcf7c0f8] [^20ebc79f].
-- **M. pneumoniae-associated EM**: Macrolide antibiotics (azithromycin) [^198f67db].
-- **Severe mucosal disease**: Hospitalization, IV fluids, pain control, ophthalmology consult for ocular involvement [^bdfd6aa5] [^d3a99cf6].
-- **Refractory/recurrent EM**: Dapsone, thalidomide, mycophenolate, IVIG, JAK inhibitors (e.g. upadacitinib) in select cases [^20ebc79f] [^e3755148].
+- **Supportive care**: Topical corticosteroids, antihistamines, analgesics, hydration, soft diet, oral hygiene [^116TuGHB] [^114uN7A1] [^116QoMnu].
+- **HSV-associated EM**: Acyclovir 400 mg twice daily; valacyclovir or famciclovir alternatives; treat for 6–12 months, then reassess [^115q9tcX] [^111qooNv].
+- **M. pneumoniae-associated EM**: Macrolide antibiotics (azithromycin) [^111etrpA].
+- **Severe mucosal disease**: Hospitalization, IV fluids, pain control, ophthalmology consult for ocular involvement [^115rfnDS] [^116QoMnu].
+- **Refractory/recurrent EM**: Dapsone, thalidomide, mycophenolate, IVIG, JAK inhibitors (e.g. upadacitinib) in select cases [^111qooNv] [^116pDbVy].
 
 ---
 
 ## Prognosis and complications
 
-Most cases resolve without sequelae; **severe mucosal involvement** can cause pain, dysphagia, dehydration, and ocular scarring. Recurrence is common with HSV, and persistent EM may occur with ongoing triggers or immunologic drivers [^bdf459d4] [^20ebc79f].
+Most cases resolve without sequelae; **severe mucosal involvement** can cause pain, dysphagia, dehydration, and ocular scarring. Recurrence is common with HSV, and persistent EM may occur with ongoing triggers or immunologic drivers [^115rcjbq] [^111qooNv].
 
 ---
 
 ## Special considerations
 
-Pediatric EM is often infection-triggered (**M. pneumoniae**, HSV) and may require hospitalization for pain control and hydration; **immunocompromised patients** have a broader differential and may need aggressive management and specialist input [^75ea147b] [^be26c8b7].
+Pediatric EM is often infection-triggered (**M. pneumoniae**, HSV) and may require hospitalization for pain control and hydration; **immunocompromised patients** have a broader differential and may need aggressive management and specialist input [^1141pBDc] [^115rug7p].
 
 ---
 
-EM is a **self-limited, immune-mediated eruption** with characteristic target lesions; identify and treat triggers, provide supportive care, and use antiviral prophylaxis for HSV-associated recurrences. Early recognition and appropriate management — especially for ocular involvement — are essential to minimize morbidity [^bdf459d4] [^bdfd6aa5].
+EM is a **self-limited, immune-mediated eruption** with characteristic target lesions; identify and treat triggers, provide supportive care, and use antiviral prophylaxis for HSV-associated recurrences. Early recognition and appropriate management — especially for ocular involvement — are essential to minimize morbidity [^115rcjbq] [^115rfnDS].
 
 ---
 
 ## References
 
-### Erythema multiforme: recognition and management [^bdf459d4]. American Family Physician (2019). Medium credibility.
+### Erythema multiforme: recognition and management [^115rcjbq]. American Family Physician (2019). Medium credibility.
 
 The following constitutes key background information on erythema multiforme:
 
@@ -118,55 +118,55 @@ The following constitutes key background information on erythema multiforme:
 
 ---
 
-### Erythema multiforme: recognition and management [^bdfd6aa5]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^115rfnDS]. American Family Physician (2019). High credibility.
 
 Regarding follow-up and surveillance for erythema multiforme, more specifically with respect to indications for referral, AAFP 2019 guidelines recommend to refer patients with any ocular erythema multiforme involvement urgently for ophthalmologic consultation.
 
 ---
 
-### Erythema multiforme: recognition and management [^c74becdc]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^1166U3Du]. American Family Physician (2019). High credibility.
 
 Regarding screening and diagnosis for erythema multiforme, more specifically with respect to diagnosis, AAFP 2019 guidelines recommend to suspect erythema multiforme in patients with a target or iris lesion characterized by three concentric segments: a dark center surrounded by a lighter pink ring, both surrounded by a red ring.
 
 ---
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^3afa8846]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^112WSS7F]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Regarding screening and diagnosis for erythema multiforme, more specifically with respect to diagnosis, IDSA 2014 guidelines recommend to include erythema multiforme in the differential diagnosis of SSTIs in immunocompromised patients.
 
 ---
 
-### Erythema multiforme: recognition and management [^5eecd623]. American Family Physician (2019). Medium credibility.
+### Erythema multiforme: recognition and management [^113RjPSJ]. American Family Physician (2019). Medium credibility.
 
 Erythema multiforme is an immune-mediated reaction that involves the skin and sometimes the mucosa. Classically described as target-like, the erythema multiforme lesions can be isolated, recurrent, or persistent. Most commonly, the lesions of erythema multiforme present symmetrically on the extremities (especially on extensor surfaces) and spread centripetally. Infections, especially herpes simplex virus and Mycoplasma pneumoniae, and medications constitute most of the causes of erythema multiforme; immunizations and autoimmune diseases have also been linked to erythema multiforme. Erythema multiforme can be differentiated from urticaria by the duration of individual lesions. Erythema multiforme lesions are typically fixed for a minimum of seven days, whereas individual urticarial lesions often resolve within one day. Erythema multiforme can be confused with the more serious condition, Stevens-Johnson syndrome; however, Stevens-Johnson syndrome usually contains widespread erythematous or purpuric macules with blisters. The management of erythema multiforme involves symptomatic treatment with topical steroids or antihistamines and treating the underlying etiology, if known. Recurrent erythema multiforme associated with the herpes simplex virus should be treated with prophylactic antiviral therapy. Severe mucosal erythema multiforme can require hospitalization for intravenous fluids and repletion of electrolytes.
 
 ---
 
-### Erythema multiforme: recognition and management [^bcf7c0f8]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^115q9tcX]. American Family Physician (2019). High credibility.
 
 Regarding preventative measures for erythema multiforme, more specifically with respect to secondary prevention, AAFP 2019 guidelines recommend to offer continuous prophylactic antiviral therapy in patients with recurrent HSV-associated erythema multiforme.
 
 ---
 
-### Erythema multiforme: recognition and management [^d5c138a6]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^116TuGHB]. American Family Physician (2019). High credibility.
 
 Regarding medical management for erythema multiforme, more specifically with respect to topical corticosteroids, AAFP 2019 guidelines recommend to offer topical corticosteroids for symptomatic management in patients with acute, uncomplicated erythema multiforme.
 
 ---
 
-### Erythema multiforme [^86eb1da9]. American Family Physician (2006). Low credibility.
+### Erythema multiforme [^114T2KBv]. American Family Physician (2006). Low credibility.
 
 Erythema multiforme is a skin condition considered to be a hypersensitivity reaction to infections or drugs. It consists of a polymorphous eruption of macules, papules, and characteristic "target" lesions that are symmetrically distributed with a propensity for the distal extremities. There is minimal mucosal involvement. Management involves treating the existing infectious agent or discontinuing the causal drug. Mild cases resolve without sequelae and do not require treatment. Recurrent cases have been prevented with continuous acyclovir. Patients who have no response to acyclovir may have a response to valacyclovir or famcilovir, which have greater oral bioavailability and more convenient dosing. Patients with recurrent erythema multiforme despite suppressive antiviral therapy should be referred to a dermatologist for further treatment.
 
 ---
 
-### Persistent erythema multiforme treated with thalidomide [^fcb57448]. American Journal of Clinical Dermatology (2008). Low credibility.
+### Persistent erythema multiforme treated with thalidomide [^117Teq2f]. American Journal of Clinical Dermatology (2008). Low credibility.
 
 Erythema multiforme is a common self-limited disorder that predominantly affects younger individuals. It is characterized by typical iris or target lesions on the skin and mucous membranes. Three clinical subgroups of erythema multiforme have been identified: classical erythema multiforme, recurrent erythema multiforme, and persistent erythema multiforme. By definition, persistent erythema multiforme is characterized by the occurrence of continuous typical and atypical lesions without interruption. We report a 15-year-old boy who developed persistent erythema multiforme for 6 months and responded to treatment with thalidomide.
 
 ---
 
-### Erythema multiforme [^aed07116]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^115UAroo]. EClinicalMedicine (2024). Medium credibility.
 
 Summary
 
@@ -178,25 +178,25 @@ The Funding was provided by theFaculty of Medicine and Health Sciences.
 
 ---
 
-### Current perspectives on erythema multiforme [^d4c366a2]. Clinical Reviews in Allergy & Immunology (2018). Low credibility.
+### Current perspectives on erythema multiforme [^116SS1Tf]. Clinical Reviews in Allergy & Immunology (2018). Low credibility.
 
 Recognition and timely adequate treatment of erythema multiforme remain a major challenge. In this review, current diagnostic guidelines, potential pitfalls, and modern/novel treatment options are summarized with the aim to help clinicians with diagnostic and therapeutic decision-making. The diagnosis of erythema multiforme, that has an acute, self-limiting course, is based on its typical clinical picture of targetoid erythematous lesions with predominant acral localization as well as histological findings. Clinically, erythema multiforme can be differentiated into isolated cutaneous and combined mucocutaneous forms. Atypical erythema multiforme manifestations include lichenoid or granulomatous lesions as well as lesional infiltrates of T cell lymphoma and histiocytes. Herpes simplex virus infection being the most common cause, other infectious agents like-especially in children-Mycoplasma pneumoniae, hepatitis C virus, Coxsackie virus, and Epstein Barr virus may also trigger erythema multiforme. The second most frequently identified cause of erythema multiforme is drugs. In different studies, e.g., allopurinol, phenobarbital, phenytoin, valproic acid, antibacterial sulfonamides, penicillins, erythromycin, nitrofurantoin, tetracyclines, chlormezanone, acetylsalicylic acid, statins, as well as different TNF-α inhibitors such as adalimumab, infliximab, and etanercept were reported as possible implicated drugs. Recently, cases of erythema multiforme associated with vaccination, immunotherapy for melanoma, and even with topical drugs like imiquimod have been described. In patients with recurrent herpes simplex virus-associated erythema multiforme, the topical prophylactic treatment with acyclovir does not seem to prevent further episodes of erythema multiforme. In case of resistance to one virostatic drug, the switch to an alternative drug, and in patients non-responsive to virostatic agents, the use of dapsone as well as new treatment options, e.g. JAK-inhibitors or apremilast, might be considered.
 
 ---
 
-### Dapsone in the treatment of persistent erythema multiforme [^474071ec]. Journal of Drugs in Dermatology (2006). Low credibility.
+### Dapsone in the treatment of persistent erythema multiforme [^112pdmVu]. Journal of Drugs in Dermatology (2006). Low credibility.
 
 Erythema multiforme (EM) is usually an acute and self-limited inflammatory reaction of the skin and mucous membranes. Attacks may be sporadic or recurrent, and generally last for 1 to 3 weeks. Rarely, an episode of EM may fail to abate. This continuous and uninterrupted occurrence of typical and atypical lesions is known as persistent EM. We present a case responsive to dapsone.
 
 ---
 
-### Confusion in determination of two types of cutaneous adverse reactions to drugs, maculopapular eruption and erythema multiforme, among the experts: a proposal of standardized terminology [^81d75252]. The Journal of Dermatology (2020). Medium credibility.
+### Confusion in determination of two types of cutaneous adverse reactions to drugs, maculopapular eruption and erythema multiforme, among the experts: a proposal of standardized terminology [^114KVjA1]. The Journal of Dermatology (2020). Medium credibility.
 
 The clinical classification of cutaneous adverse reactions by drugs should be clearly distinguished to avoid conceptual confusion and inconsistency. Although dermatologists appear to have established a roughly common consensus for cutaneous adverse reactions, some types are more rigorously defined than other, possibly misleading classifications. To assess the consensus on the clinical classifications, we investigated the concordance rate of diagnosis by Japanese experts through a snap visual inspection of various clinical pictures exhibiting erythema multiforme and maculopapular eruption types of cutaneous adverse reactions. The experts were shown images on a screen and were then asked to decide whether to classify cases as maculopapular eruption or erythema multiforme type, and the concordance rates were calculated. Overall, the mean concordance rate was 71.6% (standard deviation, 17.3%), and only 33.8% of cases had a 90% or more concordance rate. Our study shows that the determinations of erythema multiforme and maculopapular eruption types by the existing classification criteria were confusing even among experts, which prompted us to standardize the terminology. We propose clinically defining erythema multiforme type as generalized macules mainly of 1 cm or more with a tendency of elevation and coalescence, and maculopapular eruption type as generalized erythema other than erythema multiforme type. Currently, the clinical definitions of cutaneous adverse reactions are poorly described, which may be problematic upon analyzing large volumes of data. Our proposal for a new terminology will enhance the accuracy and consistency of information for the correct analysis of cutaneous adverse reactions.
 
 ---
 
-### Erythema multiforme [^d61f85c4]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^116USwR5]. EClinicalMedicine (2024). Medium credibility.
 
 Introduction
 
@@ -204,7 +204,7 @@ Erythema multiforme (EM) is an inflammatory skin and mucosal disease mainly rela
 
 ---
 
-### Erythema multiforme [^a42812db]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^115CNRv2]. EClinicalMedicine (2024). Medium credibility.
 
 Erythema multiforme is an inflammatory skin and mucosal disease mainly related to infectious agents such as Herpes simplex virus, Mycoplasma pneumoniae, though it can also be "idiopathic". The characteristic skin lesions are typical or atypical acral raised target lesions. The oral mucosa can be affected, alone or in combination with other mucosal/cutaneous sites, sometimes causing extreme pain, severely impacting food intake, and warranting hospitalization. A comprehensive understanding of erythema multiforme clinical characteristics, triggering agents, and differential diagnosis including Stevens-Johnson syndrome/Toxic Epidermal Necrolysis, is crucial to conduct proper workup and management. Mycoplasma pneumoniae infection should be immediately ruled out because of the need of antibiotics. The cornerstone of management is symptomatic treatment and will be detailed in this review as well as the etiologic treatment. Lastly, the management of persistent or recurrent erythema multiforme can be challenging, especially when antivirals fail to prevent a relapse, but breakthrough treatments have been reported successful in this difficult-to-treat subset of patients.
 
@@ -214,7 +214,7 @@ The Funding was provided by the University of Sherbrooke Faculty of Medicine and
 
 ---
 
-### Erythema multiforme [^46d4ef5a]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^112p1f2y]. EClinicalMedicine (2024). Medium credibility.
 
 Methods
 
@@ -237,37 +237,37 @@ The first description of EM was reported by von Hebra in 1866 who described skin
 
 ---
 
-### Erythema multiforme: recognition and management [^98af9e4a]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^114uN7A1]. American Family Physician (2019). High credibility.
 
 Regarding medical management for erythema multiforme, more specifically with respect to topical antihistamines, AAFP 2019 guidelines recommend to offer topical antihistamines for symptomatic management in patients with acute, uncomplicated erythema multiforme.
 
 ---
 
-### Erythema multiforme: recognition and management [^13580ffa]. American Family Physician (2019). High credibility.
+### Erythema multiforme: recognition and management [^111VgLx1]. American Family Physician (2019). High credibility.
 
 Regarding medical management for erythema multiforme, more specifically with respect to oral anesthetics, AAFP 2019 guidelines recommend to consider offering oral anesthetics to reduce the pain in patients with oral erythema multiforme.
 
 ---
 
-### Recurrent erythema multiforme: a therapeutic proposal for a chronic disease [^485d0c2e]. The Journal of Dermatology (2021). Medium credibility.
+### Recurrent erythema multiforme: a therapeutic proposal for a chronic disease [^112rHN1B]. The Journal of Dermatology (2021). Medium credibility.
 
 Recurrent erythema multiforme is a chronic relapsing disease that represents a therapeutic challenge. Our objective was to retrospectively evaluate the clinical-epidemiological characteristics and therapeutic response of patients with recurrent erythema multiforme and suggest a therapeutic protocol. We included patients with recurrent erythema multiforme diagnosed between January 2000 and December 2019. Clinical symptoms and a positive serology for herpes simplex virus were the inclusion criteria to initiate acyclovir in monotherapy or a combined treatment with dapsone, thalidomide, or immunosuppressants in refractory cases. Thirty-five patients were included and 71.4% were female. The median disease onset age was 35.7 years and the mean follow-up was 7.58 years. The skin was the most affected site (91.4%). Herpes simplex virus immunoglobulin (Ig)G serology was positive in 91.1% of cases. Acyclovir treatment was used in 33 of 35 patients, and complete remission was achieved in 22 of 33 after the first therapeutic course; 16 of 22 relapsed and required a second acyclovir cycle. Combined treatment with dapsone was required in nine of 33 due to partial response to acyclovir; thalidomide was an adjuvant drug in four of 33 due to adverse effects to dapsone. After the first cycle of acyclovir with or without combined therapy, 19 of 33 patients relapsed and received 2–6 additional cycles. Our results suggest that recurrent erythema multiforme presents a good response to acyclovir in monotherapy or in combined therapy with dapsone or thalidomide in the majority of patients. We propose a long-term therapeutic protocol to enable disease remission.
 
 ---
 
-### Erythema multiforme due to Mycoplasma pneumoniae infection in two children [^9dd36883]. Pediatric Dermatology (2006). Low credibility.
+### Erythema multiforme due to Mycoplasma pneumoniae infection in two children [^1152z4ot]. Pediatric Dermatology (2006). Low credibility.
 
 Mycoplasma pneumoniae is an important and highly relevant cause of bullous erythema multiforme, isolated mucositis, and Stevens-Johnson syndrome in children. In this article, we present two children with respiratory Mycoplasma pneumoniae infection and associated cutaneous findings within the spectrum of erythema multiforme. We review the literature associating these three entities with Mycoplasma pneumoniae infection and discuss controversies regarding the classification of erythema multiforme, as well as update reported infectious causes of the bullous form. Many understand the erythema multiforme spectrum to include bullous erythema multiforme, mucositis, and Stevens-Johnson syndrome in the order of increasing severity. We feel that this relationship should be reconsidered to help better understand the prognosis and outcomes. It is our opinion that bullous erythema multiforme is a separate, yet related condition that can occur in the context of Mycoplasma pneumoniae infection. With many similarities to mucositis and Stevens-Johnson syndrome, bullous erythema multiforme can be considered part of a spectrum of disease that includes Stevens-Johnson syndrome. Unlike mucositis and Stevens-Johnson syndrome, bullous erythema multiforme caused by Mycoplasma pneumoniae infection has low morbidity for the child. Mycoplasma pneumoniae-associated mucositis and Stevens-Johnson syndrome seem to occur along a spectrum with separate prognosis and potential pathogenesis compared with bullous erythema multiforme. Making the distinction between these conditions is valuable for predicting the child's prognosis. Patients who develop symptoms consistent with these conditions should be appropriately evaluated for Mycoplasma pneumoniae infection and closely monitored.
 
 ---
 
-### Lamotrigine-induced erythema multiforme mimicking contact dermatitis [^da82382a]. Journal of Drugs in Dermatology (2006). Low credibility.
+### Lamotrigine-induced erythema multiforme mimicking contact dermatitis [^116ax3K7]. Journal of Drugs in Dermatology (2006). Low credibility.
 
 Erythema multiforme is an acute, hypersensitivity reaction of the skin often secondary to medications. Lamotrigine is a relatively new anticonvulsant medication approved for seizure and psychiatric disorders. Although the overall incidence of cutaneous reactions to lamotrigine is high, the incidence of serious eruptions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis is low. Vigilant surveillance for any cutaneous eruption in patients on lamotrigine is important, particularly in the first 8 weeks, as prompt discontinuation of the medication can prevent progression. We report a case of erythema multiforme secondary to lamotrigine, which clinically resembled a contact dermatitis, and review the management of lamotrigine associated cutaneous eruptions.
 
 ---
 
-### Erythema multiforme [^0f4300a2]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^111PdKYM]. EClinicalMedicine (2024). Medium credibility.
 
 Conclusion
 
@@ -289,7 +289,7 @@ Jak-inhibitor have been proven efficient in case-series. Larger prospective tria
 
 ---
 
-### Erythema multiforme associated with… [^da9a73db]. JAAD Case Reports (2021). Medium credibility.
+### Erythema multiforme associated with… [^116b6BQv]. JAAD Case Reports (2021). Medium credibility.
 
 Introduction
 
@@ -297,13 +297,13 @@ Erythema multiforme (EM) is an acute self-limited but potentially recurrent skin
 
 ---
 
-### Erythema multiforme in a 25-day old neonate [^65fc32be]. Pediatric Dermatology (2012). Low credibility.
+### Erythema multiforme in a 25-day old neonate [^113cCTgR]. Pediatric Dermatology (2012). Low credibility.
 
 Erythema multiforme is an acute, self-limiting, mucocutaneous hypersensitivity reaction characterized by distinctive target lesions. Most cases have been attributed to infection. Erythema multiforme occurs mainly in young adults and is extremely rare during the neonatal period. We report a 25-day-old girl who presented with target skin lesions on both the palms and soles with no other associated symptoms. She had no remarkable maternal, birth, or past medical history. Complete blood count, urinalysis, chest radiography, and herpes simplex virus 1 and 2 immunoglobulin G (IgG) titers revealed no abnormalities. Pathologic examination showed vacuolar interface change and dyskeratotic cells in the epidermis consistent with erythema multiforme. This unusual case emphasizes the importance of recognizing diagnostic clues in examining patients. Even in the presence of uncharacteristic factors, the typical target lesions of erythema multiforme are distinctive.
 
 ---
 
-### Idiopathic erythema multiforme: evidence of underlying Janus kinase-signal transducer and activator of transcription activation and successful treatment with tofacitinib [^89c794a1]. JAAD Case Reports (2016). Low credibility.
+### Idiopathic erythema multiforme: evidence of underlying Janus kinase-signal transducer and activator of transcription activation and successful treatment with tofacitinib [^114XGLkY]. JAAD Case Reports (2016). Low credibility.
 
 Introduction
 
@@ -311,7 +311,7 @@ Erythema multiforme (EM) is an acute, typically self-limited mucocutaneous erupt
 
 ---
 
-### Recurrent erythema multiforme: clinical characteristics, etiologic associations, and treatment in a series of 48 patients at mayo clinic, 2000 to 2007 [^8f6d5a53]. Journal of the American Academy of Dermatology (2010). Low credibility.
+### Recurrent erythema multiforme: clinical characteristics, etiologic associations, and treatment in a series of 48 patients at mayo clinic, 2000 to 2007 [^114fdxfU]. Journal of the American Academy of Dermatology (2010). Low credibility.
 
 Background
 
@@ -339,19 +339,19 @@ More than half of patients in this study did not have an identifiable cause for 
 
 ---
 
-### Persistent erythema multiforme and CMV infection [^a3b78896]. Journal of Drugs in Dermatology (2007). Low credibility.
+### Persistent erythema multiforme and CMV infection [^115BidTT]. Journal of Drugs in Dermatology (2007). Low credibility.
 
 Persistent erythema multiforme is a rare disorder with only 23 known cases reported in the literature. Persistent erythema multiforme has been reported in association with Epstein-Barr virus, herpes virus, hepatitis C virus, influenza, inflammatory bowel disease, and a variety of neoplasms. To our knowledge, this case is the first case of persistent erythema multiforme reported in association with cytomegalovirus infection.
 
 ---
 
-### Erythema multiforme-like drug reaction to sorafenib [^244c95ad]. Journal of Drugs in Dermatology (2011). Low credibility.
+### Erythema multiforme-like drug reaction to sorafenib [^111vpH8p]. Journal of Drugs in Dermatology (2011). Low credibility.
 
 The authors present a case of erythema multiforme-like drug reaction to the multikinase inhibitor sorafenib. While considered targeted therapy, multikinase inhibitors have been demonstrated to have various cutaneous effects. It is important to distinguish allergic reactions from adverse side effects as the latter may permit cautious re-challenge with medications that can potentially prolong survival in patients with advanced or metastatic disease.
 
 ---
 
-### Triggers, clinical manifestations, and management of pediatric erythema multiforme: a systematic review [^75ea147b]. Journal of the American Academy of Dermatology (2019). Medium credibility.
+### Triggers, clinical manifestations, and management of pediatric erythema multiforme: a systematic review [^1141pBDc]. Journal of the American Academy of Dermatology (2019). Medium credibility.
 
 Background
 
@@ -379,7 +379,7 @@ Pediatric EM is a rare disease, mainly triggered by infections. This condition c
 
 ---
 
-### Successful management of recurrent erythema multiforme with upadacitinib: a case report [^495989f4]. JAAD Case Reports (2025). Medium credibility.
+### Successful management of recurrent erythema multiforme with upadacitinib: a case report [^112skAvw]. JAAD Case Reports (2025). Medium credibility.
 
 Introduction
 
@@ -391,13 +391,13 @@ Clinically, EM presents as targetoid lesions with concentric color variation. It
 
 ---
 
-### In the pursuit of classifying severe cutaneous adverse reactions [^f417a8e7]. Clinics in Dermatology (2007). Low credibility.
+### In the pursuit of classifying severe cutaneous adverse reactions [^117Esvh4]. Clinics in Dermatology (2007). Low credibility.
 
 We suggest adding an additional type of lesion to the existing 4 types of lesions of the erythema multiforme (EM), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), namely "flat typical target" and call the original typical targets "raised typical target". The EM group would consist of raised typical targets and raised atypical targets, similar to the original definition, and the SJS/TEN group would consist of flat typical targets, flat atypical targets and macules with or without blisters. In our proposed modified classification (Table 1), all the lesions that are found in the EM group are raised, whereas all lesions that characterize the SJS/TEN group are flat, even though they have blisters on them.
 
 ---
 
-### Clinical presentation… [^89d827f7]. AAFP (2006). Low credibility.
+### Clinical presentation… [^114XMufk]. AAFP (2006). Low credibility.
 
 Erythema multiforme is an acute, self-limited, and sometimes recurring skin condition considered to be a hypersensitivity reaction associated with certain infections and medications. 4An often-cited study from 1993 proposed a useful clinical classification of erythema multiforme, SJS, and TEN based on the pattern of individual skin lesions and the estimation of body surface area with detachment of the epidermis at the worst stage of the disease of early erythema multiforme includes drug eruption, polymorphic light eruption, urticaria, urticarial vasculitis, viral exanthems, and other hypersensitivity reactions. 32Because erythema multiforme often resembles urticaria at the onset of the eruption, it is important to distinguish the clinical features.
 
@@ -405,13 +405,13 @@ The individual lesions of erythema multiforme in typical cases are present and f
 
 ---
 
-### Detection and genotyping of human herpes simplex viruses in cutaneous lesions of erythema multiforme by nested PCR [^b4a46f6c]. Journal of Medical Virology (2003). Low credibility.
+### Detection and genotyping of human herpes simplex viruses in cutaneous lesions of erythema multiforme by nested PCR [^115cp1BZ]. Journal of Medical Virology (2003). Low credibility.
 
 A subset of erythema multiforme (erythema multiforme) is associated with herpes simplex virus (HSV) infection; viral cultures of erythema multiforme lesions are, however, usually negative and viral antigens difficult to identify. Polymerase chain reaction (PCR) has been used to demonstrate the association, hence, is currently the only available sensitive diagnostic means for HSV-associated erythema multiforme. A nested PCR, which could simultaneously detect and genotype HSV in erythema multiforme lesions and in clinical swab specimen was developed using the DNA polymerase gene of HSV as target gene because it is the only detectable HSV gene in a high proportion of erythema multiforme lesions. The PCR has demonstrated its robust sensitivity on swab samples by being able to detect further 45.3% HSV cases in comparison with virus isolation with 100% specificity in both detection and genotyping confirmed by virus isolation and DNA sequencing. This study represents the first investigation of typing HSV virus in HSV-associated erythema multiforme patients, and the finding that 66.7% of the patients was attributed to HSV1, 27.8% to HSV2, and 5.6% to HSV1 and 2 co-infection may reflect the distribution of HSV1 and 2 in local general population.
 
 ---
 
-### Pediatric erythema multiforme in the emergency department: more than "Just a rash" [^6d5d42fc]. Pediatric Emergency Care (2017). Low credibility.
+### Pediatric erythema multiforme in the emergency department: more than "Just a rash" [^113o8ybq]. Pediatric Emergency Care (2017). Low credibility.
 
 Objectives
 
@@ -431,7 +431,7 @@ In the ED setting, EM in children is frequently misdiagnosed. Greater awareness 
 
 ---
 
-### Erythema multiforme limited to the oral mucosa in a teenager on oral contraceptive therapy [^88c00d28]. Journal of Pediatric and Adolescent Gynecology (2007). Low credibility.
+### Erythema multiforme limited to the oral mucosa in a teenager on oral contraceptive therapy [^114Vjpnj]. Journal of Pediatric and Adolescent Gynecology (2007). Low credibility.
 
 Background
 
@@ -447,13 +447,13 @@ This case illustrates that erythema multiforme should be considered in the diffe
 
 ---
 
-### Unusual leukoderma after erythema multiforme: a case report [^fe81eb53]. Pediatric Dermatology (2001). Low credibility.
+### Unusual leukoderma after erythema multiforme: a case report [^117WKVcN]. Pediatric Dermatology (2001). Low credibility.
 
 Erythema multiforme is an inflammatory disorder of the skin that usually fades without sequelae. It is well known that after inflammatory events, hyper- or hypochromic spots can remain, especially in skin types III-VI, but achromia is very rare. We report a case of residual leukoderma after erythema multiforme.
 
 ---
 
-### Unusual purpuric eruption in a child [^f6c3999c]. JAAD Case Reports (2021). Medium credibility.
+### Unusual purpuric eruption in a child [^117JqevP]. JAAD Case Reports (2021). Medium credibility.
 
 Answers:
 A. Urticaria multiforme – Incorrect. Urticaria multiforme typically presents in a child with large, circinate or targetoid, transient urticarial plaques, with or without angioedema. Urticaria multiforme lesions self-resolve in < 24 hours with no residual pigmentation, and there is often a history of viral illness or medication usage in the days preceding development.
@@ -464,13 +464,13 @@ E. Hereditary angioedema – Incorrect. Hereditary angioedema is an autosomal do
 
 ---
 
-### Erythema multiforme: recognition and management [^b4bd4229]. American Family Physician (2019). Medium credibility.
+### Erythema multiforme: recognition and management [^115cxLn4]. American Family Physician (2019). Medium credibility.
 
 The disease erythema multiforme can be associated with skin macules, target lesions, mucosal bullae, cough, pruritus, oral mucosal erythema, myalgia, malaise, koebner phenomenon, red eyes, HSV infection, atypical target lesions, lip swelling, fever, burning sensation, HIV infection, skin papules, photophobia, mucosal erosions, HCV infection, eye pain, conjunctival injection, ↑ ESR, ↑ urine WBCs, painful oral lesions, nailfold swelling, CMV infection and mycoplasma pneumoniae infection.
 
 ---
 
-### Characteristics of pediatric recurrent erythema multiforme [^da66cc39]. Pediatric Dermatology (2018). Low credibility.
+### Characteristics of pediatric recurrent erythema multiforme [^116anq6Y]. Pediatric Dermatology (2018). Low credibility.
 
 Background
 
@@ -494,13 +494,13 @@ This study of pediatric recurrent EM found a greater male predominance, more hos
 
 ---
 
-### Approach to the hospitalized patient with targetoid lesions [^46c3a28c]. Dermatologic Therapy (2011). Low credibility.
+### Approach to the hospitalized patient with targetoid lesions [^112our19]. Dermatologic Therapy (2011). Low credibility.
 
 Approaching the hospitalized patient with skin disease can be daunting. This article focuses on a practical approach to the patient with targetoid lesions. The discussion focuses on differentiating erythema multiforme from Stevens-Johnson syndrome and toxic epidermal necrolysis. In addition, the article offers a concise review of the broader differential diagnosis of targetoid lesions including ecthyma gangrenosum, fixed drug eruption, erythema multiforme-like drug reaction, vasculitis, acute hemorrhagic edema of infancy, erythema chronicum migrans, connective tissue diseases, and blistering diseases.
 
 ---
 
-### Rapidly progressive purpuric plaques in an infant [^456b68a0]. JAAD Case Reports (2025). Medium credibility.
+### Rapidly progressive purpuric plaques in an infant [^112mvDwD]. JAAD Case Reports (2025). Medium credibility.
 
 Question 1: What is the most likely diagnosis?
 A. Erythema multiforme minor
@@ -518,25 +518,25 @@ E. Henoch-Schönlein purpura – Incorrect. HSP and AHEI, both small-vessel vasc
 
 ---
 
-### The diagnosis and management of acute and chronic urticaria: 2014 update [^3d53409b]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
+### The diagnosis and management of acute and chronic urticaria: 2014 update [^112ZvD5U]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
 
 Erythema multiforme (EM) mimicking urticaria — Summary Statement 66: EM can resemble urticaria and might be caused by viral infections (eg, herpes), mycoplasma infection, or medications (C). Patients can initially develop urticaria-like lesions before the typical targetoid lesions attributable to EM minor, and unlike urticaria, a central zone of damaged skin can appear. All lesions appear within 72 hours and are usually fixed for at least 7 days, EM minor typically lasts for no longer than 2 weeks, and when EM progresses to ulcerations of mucosal surfaces, it is classified as EM major (Stevens-Johnson syndrome [SJS]); EM can also progress without warning to toxic epidermal necrolysis (TEN).
 
 ---
 
-### Granuloma annulare masquerading as erythema multiforme [^a65489f9]. Journal of Drugs in Dermatology (2013). Low credibility.
+### Granuloma annulare masquerading as erythema multiforme [^115FbLjS]. Journal of Drugs in Dermatology (2013). Low credibility.
 
 Erythema multiforme (EM) is a serious cutaneous and/ or mucocutaneous disorder that typically develops within 10–14 days of exposure to an offending medication or infection and resolves within 4 weeks. Common offending agents include antibiotics, anticonvulsants, nonsteroidal anti-inflammatory medications, and various viral, fungal, and bacterial infections. Herpes simplex virus is a common cause of recurrent EM. Although this condition may be relatively benign in its minor form, EM major can lead to serious complications and even death. As such, it is imperative to find and remove the etiologic agents in patients with EM. We present a case that presented clinically as erythema multiforme, with arcuate, indurated, erythematous plaques on the volar aspect of her hands. Histopathology, however, demonstrated the lesions to be granuloma annulare. The medications in our patient were essential and alterations to her medical regimen would have been problematic. As such, this case demonstrates the importance of histopathologic examination in patients with lesions suspected to be EM.
 
 ---
 
-### Shape and configuration of skin lesions: targetoid lesions [^445b5529]. Clinics in Dermatology (2011). Low credibility.
+### Shape and configuration of skin lesions: targetoid lesions [^112kLqU4]. Clinics in Dermatology (2011). Low credibility.
 
 What is probably the first description of targetoid or iris lesions, as they appear in erythema multiforme (EM), can be found in Thomas Bateman's 1836 textbook "Practical Synopsis of Cutaneous Diseases According to the Arrangement of Dr. Willan". EM was initially described by Bateman and later by von Hebra as an acute self-limiting skin disease, symmetrically distributed on the extremities with typical concentric "targetoid" or "iris" lesions, and often recurrent. Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) were added to this syndrome later. A newer classification has created two disease spectra: EM consisting of EM minor and EM major (or bullous EM), and SJS and TEN. EM minor and EM major are often recurrent, postinfectious (especially after herpes and mycoplasma) disorders with low morbidity and almost no mortality. SJS and TEN are usually severe drug-induced reactions with high morbidity and poor prognosis. The target lesions found in each form of the disease are described and defined. Although the term "target lesion" originated from the description of EM and despite its being the dominant lesion in this disease, it is not pathognomonic for EM, and these lesions can sometimes appear in other diseases. Short descriptions of these other diseases are presented.
 
 ---
 
-### Erythema multiforme [^23ffbda4]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^111vNU6X]. EClinicalMedicine (2024). Medium credibility.
 
 Signs and symptoms
 
@@ -544,13 +544,13 @@ Prodromal symptoms of fatigue, malaise, and myalgia are common in severe EM. The
 
 ---
 
-### "Urticaria multiforme": a case series and review of acute annular urticarial hypersensitivity syndromes in children [^f6981087]. Pediatrics (2007). Low credibility.
+### "Urticaria multiforme": a case series and review of acute annular urticarial hypersensitivity syndromes in children [^117Jb2nJ]. Pediatrics (2007). Low credibility.
 
 Acute annular urticaria is a common and benign cutaneous hypersensitivity reaction seen in children that manifests with characteristic annular, arcuate, and polycyclic urticarial lesions in association with acral edema. It is mistaken most often for erythema multiforme and, occasionally, for a serum-sickness-like reaction. Although these 3 entities may present in a similar manner, specific clinical features help to distinguish them, and it is important for the clinician to be able to differentiate among them. We present herein a series of 18 patients who were given a diagnosis of acute annular urticaria and review the clinical distinctions between acute annular urticaria, serum-sickness-like reactions, and erythema multiforme. Because of the frequency of its clinical confusion with erythema multiforme, we propose the term "urticaria multiforme" as a more apt description to highlight the distinctive clinical features of this urticaria variant.
 
 ---
 
-### Erythema multiforme [^198f67db]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^111etrpA]. EClinicalMedicine (2024). Medium credibility.
 
 Workup
 
@@ -563,7 +563,7 @@ Treatment and prognosis
 
 ---
 
-### Orf nodule with erythema multiforme during a monkeypox outbreak, France, 2022 [^8ebf14a6]. Emerging Infectious Diseases (2023). Medium credibility.
+### Orf nodule with erythema multiforme during a monkeypox outbreak, France, 2022 [^114edRZw]. Emerging Infectious Diseases (2023). Medium credibility.
 
 How orf virus induces erythema multiforme is not clearly understood. Other viral infections like herpes simplex viruses can also trigger hypersensitivity reaction because of release of T cells triggered by ether viral mimicry of host proteins or release of viral proteins from cells containing viral DNA fragments.
 
@@ -573,13 +573,13 @@ This case highlights the importance of collecting a careful history at the time 
 
 ---
 
-### Oral manifestations of erythema multiforme [^7ee70d5b]. Dermatologic Clinics (2003). Low credibility.
+### Oral manifestations of erythema multiforme [^114F93mU]. Dermatologic Clinics (2003). Low credibility.
 
 Erythema multiforme is a reactive mucocutaneous disorder in a disease spectrum that comprises a self-limited, mild, exanthematic, cutaneous variant with minimal oral involvement (EM minor) to a progressive, fulminating, severe variant with extensive mucocutaneous epithelial necrosis (SJS and TEN). Significant differences exist among EM minor, EM major, SJS, and TEN with regards to severity and clinical expression; however, all variants share two common features: typical or less typical cutaneous target lesions and satellite-cell or more widespread necrosis of the epithelium. These features are considered to be sequelae of a cytotoxic immunologic attack on keratinocytes expressing non-self-antigens. These antigens are primarily microbial (viruses) or drugs and in rare instances histocompatibility antigens [5]. Although the precise pathogenesis is unknown, there is a tendency to consider EM both minor and major as part of one spectrum that is most often triggered by viral infections, and SJS and TEN as a separate one most often elicited by drugs with EM major and SJS representing a bridge in the continuum of EM. The oral manifestations of the spectrum of EM range from tender superficial erythematous and hyperkeratotic plaques to painful deep hemorrhagic bullae and erosions. Other mucosal surfaces including ocular, nasal, pharyngeal, laryngeal, upper respiratory, and anogenital may be involved. Scarring sequelae from ocular and pharyngeal involvement cause morbidity. The oral EM variant is an underrecognized form of EM. Most patients have chronic or recurrent oral lesions only, but one third have oral and lip lesions and one quarter have oral, lip, and skin lesions. This variant is a reaction pattern similar to EM minor, EM major, SJS, and TEN. The diagnosis of oral EM is one of exclusion. Careful clinical evaluation for other chronic mucocutaneous diseases, such as pemphigus, paraneoplastic pemphigus, mucous membrane pemphigoid, and lichen planus, is a necessary component of the diagnosis. The value of a biopsy specimen studied by both routine histopathologic and immunopathologic methods is fundamental to excluding the other causes for this variant of EM.
 
 ---
 
-### Herpes associated erythema multiforme: a retrospective study [^5f415068]. The American Journal of Emergency Medicine (2020). Medium credibility.
+### Herpes associated erythema multiforme: a retrospective study [^113SDmCB]. The American Journal of Emergency Medicine (2020). Medium credibility.
 
 Background
 
@@ -599,37 +599,37 @@ HSV-1/2 serologic testing should be considered in most EM patients to potentiall
 
 ---
 
-### Persistent erythema multiforme associated with Epstein-Barr virus infection [^3a7ff8a6]. Clinical and Experimental Dermatology (2014). Low credibility.
+### Persistent erythema multiforme associated with Epstein-Barr virus infection [^112VjGRj]. Clinical and Experimental Dermatology (2014). Low credibility.
 
 Erythema multiforme (EM) is a common, self-limiting condition. Recurrent EM is a well-recognised variant, often associated with herpes simplex virus infection. It is frequently managed with prophylactic aciclovir. Anecdotal reports suggest that recurrent EM may be associated with the use of corticosteroids. Persistent EM, however, is a rare variant, with few cases reported in the literature. It has a protracted course often with atypical and inflammatory lesions. It has been associated with occult viral infections, particularly Epstein-Barr Virus (EBV), as well as inflammatory bowel disease and malignancy. We report a case of EM associated with EBV infection.
 
 ---
 
-### Erythema multiforme following polymorphic light eruption: a report of two cases [^60008651]. Clinical and Experimental Dermatology (2005). Low credibility.
+### Erythema multiforme following polymorphic light eruption: a report of two cases [^113TKzGx]. Clinical and Experimental Dermatology (2005). Low credibility.
 
 We report two patients in whom episodes of polymorphic light eruption were followed by recurrent erythema multiforme on exposed and nonexposed sites. Treating the polymorphic light eruption with prophylactic PUVA and/or oral prednisolone or cyclosporin prevented the development of erythema multiforme, suggesting that the two events are related. It is possible that erythema multiforme develops as a response to the same causative antigen as polymorphic light eruption.
 
 ---
 
-### Erythema multiforme in a neonate [^b731b764]. Journal of the American Academy of Dermatology (2003). Low credibility.
+### Erythema multiforme in a neonate [^115gbS8B]. Journal of the American Academy of Dermatology (2003). Low credibility.
 
 We describe a case of erythema multiforme in a 2-week-old boy. He had no remarkable antecedents, and a polymerase chain reaction-based technique failed to detect herpes simplex virus DNA in the skin biopsy specimen. To our knowledge, only one previous biopsy-proven case of erythema multiforme during the neonatal period has been reported.
 
 ---
 
-### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^53c88cdb]. Clinical Infectious Diseases (2016). Medium credibility.
+### 2016 Infectious Diseases Society of America (IDSA) clinical practice guideline for the treatment of coccidioidomycosis [^1139DLRY]. Clinical Infectious Diseases (2016). Medium credibility.
 
 Coccidioidomycosis — early illness suspicion and timing in community-acquired pneumonia (CAP) and related syndromes is guided by incubation and exposure windows, symptom patterns, and epidemiology. In ambulatory patients with CAP, coccidioidal infection accounted for 24% of newly diagnosed CAP. The usual incubation period for early coccidioidal syndromes is from 1 week to 4 weeks, and patients with CAP, dermatologic syndromes, or rheumatologic syndromes who have endemic exposure within the previous 1–2 months should be evaluated for coccidioidomycosis as a possible etiology. Early associated findings can include erythema nodosum or erythema multiforme, and fatigue may be the last complaint to resolve and results in many weeks to many months of convalescence. Hematogenous spread beyond the lungs normally occurs within weeks to several months following infection, with exceptions including immunosuppressed patients with more remote prior exposure and patients previously treated for primary pulmonary infection in whom relapses occurred up to 4 years after treatment had been stopped.
 
 ---
 
-### Erythema multiforme like reaction to santos rosewood () and… [^7c5e9152]. BMJ Case Reports (2019). High credibility.
+### Erythema multiforme like reaction to santos rosewood () and… [^114BPEGh]. BMJ Case Reports (2019). High credibility.
 
 Erythema multiforme is a skin disorder characterised by target epithelial eruption, which is mainly caused by infection or drugs. In this case, we report an erythema multiforme like reaction caused by contact dermatitis against wood, especially santos rosewood. During the hospitalisation, we performed a patch test with lumber used in the patient's workplace, and recognised a positive response to multiple woods and a simultaneous recurring eruption (flare up) outside of the test site. The findings from this case of contact dermatitis caused by frequently used industrial wood type is important for the management of occupational environments. A review of the literature on erythema multiforme like reaction due to contact dermatitis, including past case reports, has also been provided.
 
 ---
 
-### Immune checkpoint inhibitor associated lichenoid dermatitis mimicking erythema multiforme major with a germline variant in human leukocyte antigen-B15 [^d73d5c75]. JAAD Case Reports (2025). Medium credibility.
+### Immune checkpoint inhibitor associated lichenoid dermatitis mimicking erythema multiforme major with a germline variant in human leukocyte antigen-B15 [^116W6x12]. JAAD Case Reports (2025). Medium credibility.
 
 Introduction
 
@@ -639,31 +639,31 @@ The role of genetic predispositions in the development of drug-induced dermatose
 
 ---
 
-### Drug-mediated rash: erythema multiforme versus Stevens-Johnson syndrome [^1b3c7ec7]. BMJ Case Reports (2014). Medium credibility.
+### Drug-mediated rash: erythema multiforme versus Stevens-Johnson syndrome [^111hNz9k]. BMJ Case Reports (2014). Medium credibility.
 
 A 92-year-old woman presented with an acute onset generalised maculopapular rash with associated mucosal involvement, on a background of recent start of griseofulvin. The rash progressed rapidly over 2 days to involve most of her body, however, mucosal involvement was limited to her oral mucosa. Characteristic target lesions appeared at 72 h, and a diagnosis of erythema multiforme secondary to griseofulvin was made after further investigation and skin biopsy. The patient was monitored closely for progression of the rash and other indicators of more severe dermatological conditions such as Stevens-Johnson syndrome. She was managed symptomatically, with resolution of the rash in 4 weeks and full recovery to her premorbid level of functioning. This case details the diagnostic and management approach to erythema multiforme, a condition that warrants thorough consideration for the differential of Stevens-Johnson syndrome.
 
 ---
 
-### Oseltamivir induced oral-only erythema multiforme [^6f9df34a]. The American Journal of Emergency Medicine (2022). Medium credibility.
+### Oseltamivir induced oral-only erythema multiforme [^113rUgQH]. The American Journal of Emergency Medicine (2022). Medium credibility.
 
 Severe dermatologic and mucosal adverse reactions to oseltamivir are rare. To date, only two other case reports have described mucosal changes secondary to oseltamivir, but both cases were associated with concomitant skin changes. We report a case of a previously healthy 18-year-old-male who developed oral-only erythema multiforme after being treated with oseltamivir for influenza B. Given the frequency of which oseltamivir is prescribed, we highlight the importance of recognizing this uncommon but serious adverse reaction.
 
 ---
 
-### MASCC / ISOO clinical practice statement: management of oral complications of immunotherapy [^3fb6598f]. Supportive Care in Cancer (2025). High credibility.
+### MASCC / ISOO clinical practice statement: management of oral complications of immunotherapy [^112dTUDU]. Supportive Care in Cancer (2025). High credibility.
 
 Erythema multiforme and Stevens-Johnson syndrome — recognition and management in patients treated with immunotherapy note that a few cases of erythema multiforme (EM) and Stevens-Johnson syndrome (SJS) involving the oral tissues have been reported in patients treated with immunotherapy. Due to the severity and possible multi-organ involvement in this irAE, the diagnostic workup, treatment decision, and approach to reduction/suspension of the immunotherapy agent should be discussed with the oncology team; a multidisciplinary team approach for best management is advisable, and the immunotherapy agent may need to be discontinued. Supportive care and prevention of secondary infections are key elements in the clinical approach, and adequate hydration and electrolyte balance monitoring are critical, especially if the body surface area involved is large. Since EM may be associated with the infection or reactivation of herpes simplex virus (HSV), the patient should undergo HSV-PCR and receive antiviral treatment if the test results are positive, and because mycoplasma-induced rash and mucositis (MIRM), also known as Reactive infectious mucocutaneous eruption (RIME), has a similar presentation, mycoplasma should be tested if EM or/and SJS are suspected. Local anesthesia and analgesic support, topical and systemic, may offer pain relief, topical treatment with steroids can also be used to reduce the severity and accelerate the healing, and due to oral pain with limited oral intake, patients should maintain good hydration and may benefit from a soft diet to avoid trauma to the oral mucosa and improve oral intake, as opposed to a crispy/acidic/spicy diet, which may induce mucosal sensitivity. The patients should be encouraged to maintain good oral hygiene to prevent secondary infections of oral lesions.
 
 ---
 
-### The diagnosis and management of acute and chronic urticaria: 2014 update [^b9547af3]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
+### The diagnosis and management of acute and chronic urticaria: 2014 update [^115jm5wg]. The Journal of Allergy and Clinical Immunology (2014). Medium credibility.
 
 Stevens-Johnson syndrome/toxic epidermal necrolysis and erythema multiforme — In the differential of urticarial eruptions, drugs that precipitate SJS typically were administered 2 to 6 weeks previously, patients with recurrent herpetic infections precipitating EM benefit from prophylaxis with 10 mg/kg/d acyclovir for 6 to 12 months, aggressive corticosteroid therapy early in EM minor might provide some relief, and intravenous gammaglobulin at 0.8 g/kg/d for 4 days has been reported in SJS/TEN but not in all studies.
 
 ---
 
-### Erythema multiforme [^d3a99cf6]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^116QoMnu]. EClinicalMedicine (2024). Medium credibility.
 
 Treatment of first acute EM episode
 
@@ -682,7 +682,7 @@ The use of Systemic Corticosteroid (SCS) during the established phase of severe 
 
 ---
 
-### Erythema multiforme [^6b85e263]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^113kQeRx]. EClinicalMedicine (2024). Medium credibility.
 
 Recently, a distinct syndrome has been defined with MP, the so called Mycoplasma pneumoniae- induced rash and mucositis (MIRM). Clinically, mucocutaneous eruptions in the MIRM are very morphologically diverse. They range from mucositis alone, to prominent mucositis with respiratory tract sequelae and little to moderate skin involvement. Ramien et al.proposed the umbrella term of reactive infectious mucocutaneous eruption (RIME) to acknowledge the multiple non-MP pathogens, including Chlamydiae pneumoniae, enterovirus, human metapneumovirus, human parainfluenzavirus 2, rhinovirus, adenovirus, and influenza B virus (Table 1). RIME encompasses several entities including the MIRM and infection-related severe EM.
 
@@ -695,7 +695,7 @@ While EM is most commonly caused by infections and SJS/TEN are most commonly cau
 
 ---
 
-### Simultaneous erythema nodosum and erythema multiforme after local lidocaine injection [^508dde64]. The Annals of Pharmacotherapy (2008). Low credibility.
+### Simultaneous erythema nodosum and erythema multiforme after local lidocaine injection [^1134RfNT]. The Annals of Pharmacotherapy (2008). Low credibility.
 
 Objective
 
@@ -715,7 +715,7 @@ If clinicians observe similar lesions after lidocaine exposure, they should susp
 
 ---
 
-### Erythema multiforme in a child with Kawasaki disease [^9eae3874]. JAAD Case Reports (2019). Medium credibility.
+### Erythema multiforme in a child with Kawasaki disease [^1154FZcf]. JAAD Case Reports (2019). Medium credibility.
 
 Introduction
 
@@ -723,13 +723,13 @@ Kawasaki disease (KD; previously known as mucocutaneous lymph node syndrome) is 
 
 ---
 
-### Erythema multiforme due to contact with laurel oil [^c9ba1905]. Contact Dermatitis (2007). Low credibility.
+### Erythema multiforme due to contact with laurel oil [^116A527v]. Contact Dermatitis (2007). Low credibility.
 
 Erythema multiforme is a relatively common skin disorder. The best known cause is herpes simplex virus infection. We report the first case of erythema multiforme due to contact with laurel oil. The diagnosis was confirmed by the positive patch test to laurel oil, the histopathological studies of the lesions and the histopathological studies of the positive patch test to laurel oil.
 
 ---
 
-### MASCC / ISOO clinical practice statement: management of oral complications of immunotherapy [^803138ea]. Supportive Care in Cancer (2025). Medium credibility.
+### MASCC / ISOO clinical practice statement: management of oral complications of immunotherapy [^114H3wzy]. Supportive Care in Cancer (2025). Medium credibility.
 
 Erythema multiforme and Stevens Johnson syndrome
 
@@ -745,7 +745,7 @@ Toxic epidermal necrolysis (TEN) may be considered an extreme presentation of SJ
 
 ---
 
-### Pediatric topical steroid withdrawal syndrome: what is known, what is unknown [^730e2dd9]. Pediatric Dermatology (2024). Medium credibility.
+### Pediatric topical steroid withdrawal syndrome: what is known, what is unknown [^113waLe4]. Pediatric Dermatology (2024). Medium credibility.
 
 Additionally, the majority of the reviewed data comes from a small number of clinicians. This may be due to under‐recognition and reporting of this clinical entity by pediatric dermatologists and highlights the need for standardized diagnostic criteria.
 
@@ -755,7 +755,7 @@ While the pathophysiology of TSW has yet to be elucidated, comprehensive patient
 
 ---
 
-### Vesiculobullous eruption in neutropenic patient with Crohn's disease [^b6ced3f4]. JAAD Case Reports (2020). Medium credibility.
+### Vesiculobullous eruption in neutropenic patient with Crohn's disease [^115g2Dd5]. JAAD Case Reports (2020). Medium credibility.
 
 Question 1: What is the most likely diagnosis?
 A. Acute febrile neutrophilic dermatosis
@@ -773,7 +773,7 @@ E. CSSV – Incorrect. CSVV typically affects the lower extremities and usually 
 
 ---
 
-### Anti-p200 pemphigoid mimicking erythema multiforme [^59681e98]. JAAD Case Reports (2022). Medium credibility.
+### Anti-p200 pemphigoid mimicking erythema multiforme [^113HYsVZ]. JAAD Case Reports (2022). Medium credibility.
 
 Introduction
 
@@ -781,7 +781,7 @@ Anti-p200 pemphigoid is a rare subepidermal autoimmune blistering disease charac
 
 ---
 
-### New cutaneous nodules associated with pulmonary symptoms [^5a3e8b42]. JAAD Case Reports (2019). Medium credibility.
+### New cutaneous nodules associated with pulmonary symptoms [^113JntpR]. JAAD Case Reports (2019). Medium credibility.
 
 Question 3: Which of the following cutaneous manifestation of this disease would likely produce evidence of fungal dissemination on biopsy?
 A. Erythema nodosum
@@ -799,7 +799,7 @@ E. Solitary granulomatous plaques–Correct. Clinically, lesions as a result of 
 
 ---
 
-### Erythema multiforme in a child with Kawasaki disease [^725f8727]. JAAD Case Reports (2019). Medium credibility.
+### Erythema multiforme in a child with Kawasaki disease [^113vZgAJ]. JAAD Case Reports (2019). Medium credibility.
 
 Table I
 Cases of erythema multiforme as a manifestation of Kawasaki disease
@@ -812,7 +812,7 @@ Because KD is a clinical diagnosis, it is important to recognize the variable cu
 
 ---
 
-### Recurrent erythema multiforme major in an 8-year-old patient with recurrence of herpetic gingivostomatitis and HLA-B✱5801 haplotype: a causal or casual relationship? [^b8a52f4d]. JAAD Case Reports (2019). Medium credibility.
+### Recurrent erythema multiforme major in an 8-year-old patient with recurrence of herpetic gingivostomatitis and HLA-B✱5801 haplotype: a causal or casual relationship? [^115ikCur]. JAAD Case Reports (2019). Medium credibility.
 
 Discussion
 
@@ -828,7 +828,7 @@ In our patient, because of the rapid disease progression with major involvement 
 
 ---
 
-### Erythema multiforme [^20ebc79f]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^111qooNv]. EClinicalMedicine (2024). Medium credibility.
 
 Etiological treatment
 
@@ -842,7 +842,7 @@ Limited evidence exists for the continuous administration of alternative treatme
 
 ---
 
-### Treatment of recurrent erythema multiforme with adalimumab as monotherapy [^8b643a11]. JAAD Case Reports (2017). Low credibility.
+### Treatment of recurrent erythema multiforme with adalimumab as monotherapy [^114ZewkL]. JAAD Case Reports (2017). Low credibility.
 
 Introduction
 
@@ -850,7 +850,7 @@ Adalimumab is a recombinant human IgG1 monoclonal antibody specific for human tu
 
 ---
 
-### Erythema multiforme [^c401c7be]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^1161bAv9]. EClinicalMedicine (2024). Medium credibility.
 
 Etiology
 
@@ -858,25 +858,25 @@ Ninety percent of EM cases reported in the medical literature were triggered by 
 
 ---
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^ada1c707]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^115SRCS2]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Immunocompromised skin and soft tissue infections — assessment recommendations state that, in addition to infection, differential diagnosis of skin lesions should include drug eruption, cutaneous infiltration with the underlying malignancy, chemotherapy- or radiation-induced lesions, Sweet syndrome, erythema multiforme, leukocytoclastic vasculitis, and graft-vs-host disease among allogeneic transplant recipients (strong, high); differential diagnosis for infection of skin lesions should include cellulitis and erysipelas (strong, moderate); and biopsy or aspiration of the lesion to obtain material for histological and microbiological evaluation should always be implemented as an early diagnostic step (strong, high).
 
 ---
 
-### Diagnosis of herpes simplex virus-induced erythema multiforme confounded by previous infection with Mycoplasma pneumonia [^08683d5f]. Journal of Drugs in Dermatology (2013). Low credibility.
+### Diagnosis of herpes simplex virus-induced erythema multiforme confounded by previous infection with Mycoplasma pneumonia [^111DTv1U]. Journal of Drugs in Dermatology (2013). Low credibility.
 
 Erythema multiforme (EM) is an immune-mediated hypersensitivity reaction often related to viral infection or medications. Infection-induced EM is typically self-limited and commonly caused by herpes simplex virus (HSV) or Mycoplasma pneumoniae (MP); recurrent EM is almost always associated with HSV. We present a concise overview of diagnostic techniques for HSV and MP, as repeatedly elevated MP titers in our case led to a delayed diagnosis of HSV-induced EM.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^616c20d2]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^113VS7qs]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 PH symptoms and exposure history — PH is a multisystem disorder, and it is characterized by skin lesions including urticaria, eczema, erythema multiforme, papulopustular lesions, vesiculobullous and vesiculopustular lesions, as well as stomatitis; non-dermatologic hypersensitivity symptoms including asthma and anaphylaxis have also been described, and both non-dermatologic and dermatologic manifestations have been described in the same patient. Use of high-dose progestogens in women undergoing in vitro fertilization may predispose them to the development of PH and make it difficult for patients to undergo fertility treatment, and a careful history of both symptom timing and exposures is crucial to making the diagnosis of PH.
 
 ---
 
-### Erythema multiforme [^c7dc879d]. EClinicalMedicine (2024). Medium credibility.
+### Erythema multiforme [^1167JcM2]. EClinicalMedicine (2024). Medium credibility.
 
 Pediatric EM may have similar triggers when compared to adults and with a comparable clinical presentation. In children, post vaccination EM, although rare, was reported with most vaccines currently used, including the covid-19 vaccines. The diagnosis was mainly clinical in reported cases of pediatric EM and biopsies were rarely done. Infantile EM is a much rarer condition with only 19 reported cases, most commonly with vaccines. Neither MP-EM nor mucosal membrane involvement were reported in infants with EM.
 
@@ -884,25 +884,25 @@ The question of the drug causality in EM is complex and controversial for severa
 
 ---
 
-### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^be26c8b7]. Clinical Infectious Diseases (2014). Medium credibility.
+### Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America [^115rug7p]. Clinical Infectious Diseases (2014). Medium credibility.
 
 Immunocompromised patients with suspected skin and soft tissue infection (SSTI) — assessment: In addition to infection, differential diagnosis of skin lesions should include drug eruption, cutaneous infiltration with the underlying malignancy, chemotherapy- or radiation-induced reactions, Sweet syndrome, erythema multiforme, leukocytoclastic vasculitis, and graft-vs-host disease among allogeneic transplant recipients; differential diagnosis for infection of skin lesions should include bacterial, fungal, viral, and parasitic agents; biopsy or aspiration of the lesion to obtain material for histological and microbiological evaluation should always be implemented as an early diagnostic step.
 
 ---
 
-### Erythema multiforme after orf virus infection [^024b7c50]. Pediatric Dermatology (2018). Low credibility.
+### Erythema multiforme after orf virus infection [^1114QL9D]. Pediatric Dermatology (2018). Low credibility.
 
 The case of a 6-year-old boy with multiple, target-shaped lesions and a crusted nodule on his right index finger is presented. Based on clinical findings and the patient's recent contact with sheep and goats, a diagnosis of orf disease associated with erythema multiforme was suspected. Microscopy studies confirmed the presence of parapoxvirus in the primary lesion. Orf-induced erythema multiforme is a rare complication of orf in children, possibly related to the presence of orf virus DNA in erythema multiforme lesions.
 
 ---
 
-### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^ec210a17]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
+### Practical guidance for the evaluation and management of drug hypersensitivity: specific drugs [^11735BAe]. The Journal of Allergy and Clinical Immunology: In Practice (2020). High credibility.
 
 Carboplatin hypersensitivity — major symptoms can range from mild cutaneous findings to systemic involvement, as reactions "can range from mild cutaneous symptoms (flushing, pruritus, urticaria) to systemic anaphylaxis", and "Up to 50% of reactions include moderately severe reactions". Reported carboplatin hypersensitivity reactions "do not include SJS, TEN, erythema multiforme, or serum sickness".
 
 ---
 
-### Mucosal ulcers, extremity nodules, and fevers [^a63de1c1]. JAAD Case Reports (2025). Medium credibility.
+### Mucosal ulcers, extremity nodules, and fevers [^115FTjLU]. JAAD Case Reports (2025). Medium credibility.
 
 Question 1: What is the most likely diagnosis?
 A. Sweet syndrome
@@ -920,7 +920,7 @@ E. Primary HSV infection – Incorrect. Erythema-nodosum like skin lesions would
 
 ---
 
-### Burning pain on the upper labial mucosa [^696306d3]. JAAD Case Reports (2023). Medium credibility.
+### Burning pain on the upper labial mucosa [^113hExnW]. JAAD Case Reports (2023). Medium credibility.
 
 Question 2: Geographic tongue shares strong similarities with what common dermatologic condition?
 A. Psoriasis
@@ -938,13 +938,13 @@ E. Rosacea – Incorrect. There is no clear relationship between rosacea and geo
 
 ---
 
-### A case of good's syndrome complicated by erythema multiforme [^b67ca821]. BMJ Case Reports (2019). High credibility.
+### A case of good's syndrome complicated by erythema multiforme [^115fYcoJ]. BMJ Case Reports (2019). High credibility.
 
 Good's syndrome (GS) is a rare, adult-onset combined B cell and T cell immunodeficiency with an associated thymoma. These patients have an increased risk of bacterial, fungal, viral and opportunistic infections. This report describes a 75-year-old female patient who presented with a full body rash and an anterior mediastinal mass. She underwent a biopsy of her rash and mass, which revealed erythema multiforme and WHO Type A thymoma, respectively. During her hospitalisation, she was also found to have oropharyngeal candidiasis, methicillin-susceptible Staphylococcus aureus bacteraemia and herpes simplex virus type 2 (HSV-2) skin lesions. Based on the number of infections and severity of her rash, an immunocompromised state was suspected. Immunological testing revealed a B cell and T cell deficiency as well as low serum immunoglobulins. This combination of hypogammaglobulinaemia and thymoma led to a diagnosis of GS. While there have been many case reports of GS, this is the first report of the immunodeficiency presenting with erythema multiforme.
 
 ---
 
-### Erythema multiforme in a child with Kawasaki disease [^8f1b858c]. JAAD Case Reports (2019). Medium credibility.
+### Erythema multiforme in a child with Kawasaki disease [^114fAUTu]. JAAD Case Reports (2019). Medium credibility.
 
 Discussion
 
@@ -954,7 +954,7 @@ Our patient fulfilled clinical criteria for KD with fever for 5 days, bilateral 
 
 ---
 
-### Erythema multiforme associated with… [^f25146b1]. JAAD Case Reports (2021). Medium credibility.
+### Erythema multiforme associated with… [^117CFJat]. JAAD Case Reports (2021). Medium credibility.
 
 Discussion
 
@@ -966,19 +966,19 @@ Many cases labeled as idiopathic EM may have an associated condition that has no
 
 ---
 
-### Guidelines for the use of antiretroviral agents in pediatric HIV infection [^0566c0a6]. HIV.gov (2025). High credibility.
+### Guidelines for the use of antiretroviral agents in pediatric HIV infection [^11191TC1]. HIV.gov (2025). High credibility.
 
 Etravirine (ETR) major toxicities — more common effects are "Nausea, diarrhea, and mild rash". Rash occurs most commonly during the first "6 weeks" of therapy and generally resolves after "1 to 2 weeks" on continued therapy; people with a history of severe rash with prior NNRTI use "should not receive ETR". Less common (more severe) events include "Peripheral neuropathy, severe rash, hypersensitivity reactions (HSRs), and erythema multiforme", and clinicians should "Discontinue ETR immediately if signs or symptoms of severe skin reactions or HSRs develop", "monitor a person's clinical status, including levels of liver transaminases", and note that "Continuing to use ETR after the onset of severe rash may result in a life-threatening reaction"; people with a history of severe rash while using NVP or EFV "should not receive ETR".
 
 ---
 
-### Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update [^0abc6aa7]. Journal of Clinical Oncology (2021). High credibility.
+### Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update [^111GvAUE]. Journal of Clinical Oncology (2021). High credibility.
 
 Cutaneous toxicities with immune checkpoint inhibitors — classification, onset, and presenting features: Immune-related cutaneous adverse events are characterized as inflammatory dermatoses, bullous dermatoses, and severe cutaneous adverse reactions (SCARs), according to the CTCAE. The median time to onset of skin toxicities is 4 weeks, but can range broadly from 2 to 150 weeks. Rash or inflammatory dermatitis irAEs encompass erythema multiforme, lichenoid, eczematous, psoriasiform, morbilliform, and palmo-plantar erythrodysesthesia, or hand-foot syndrome, and presenting symptoms often include itch or with or without rash, new or worsening skin lesions, including macules, papules, or plaques, and loss of skin pigmentation. For bullous dermatoses, presenting symptoms may include new or worsening skin lesions, including bullae, persistent urticaria, or erosions on the skin or mucosal surfaces, and SCAR includes Stevens-Johnson syndrome, toxic epidermal necrolysis, acute generalized exanthematous pustulosis (although note that acute generalized exanthematous pustulosis is not always severe), and drug reaction with eosinophilia and systemic symptoms or drug-induced hypersensitivity syndrome.
 
 ---
 
-### Dapsone [^3dbb9943]. FDA (2025). Medium credibility.
+### Dapsone [^112aXFuc]. FDA (2025). Medium credibility.
 
 5.3 Skin Reactions
 
@@ -986,13 +986,13 @@ Skin reactions (toxic epidermal necrolysis, erythema multiforme, morbilliform an
 
 ---
 
-### Erythema multiforme in a newborn associated with acute acquired cytomegalovirus infection [^1dca74b9]. Pediatric Dermatology (2012). Low credibility.
+### Erythema multiforme in a newborn associated with acute acquired cytomegalovirus infection [^111mAeLG]. Pediatric Dermatology (2012). Low credibility.
 
 Erythema multiforme is exceptional in newborns, and none of the few available reports has revealed a clear etiologic agent, not even herpes simplex virus. Immunocompetent patients rarely present with cutaneous cytomegalovirus involvement, and few cases of cytomegalovirus-associated erythema multiforme have been described, none of them in newborns. We report the first case of erythema multiforme in a newborn associated with cytomegalovirus infection.
 
 ---
 
-### Recurrent erythema multiforme major in an 8-year-old patient with recurrence of herpetic gingivostomatitis and HLA-B✱5801 haplotype: a causal or casual relationship? [^f9c7d057]. JAAD Case Reports (2019). Medium credibility.
+### Recurrent erythema multiforme major in an 8-year-old patient with recurrence of herpetic gingivostomatitis and HLA-B✱5801 haplotype: a causal or casual relationship? [^117PK2ri]. JAAD Case Reports (2019). Medium credibility.
 
 Systemic treatment with methylprednisolone at a dose of 1 mg/kg/d was started in association with acyclovir at a dose of 10 mg/kg/d. In the following days, a worsening with extension of de-epithelialization areas was observed. Intravenous immunoglobulin (IVIG) at a dose of 400 mg/kg/d for 5 days was started. A rapid improvement of signs and symptoms was observed, followed by complete resolution of mucocutaneous involvement within a week.
 
@@ -1000,7 +1000,7 @@ Because of the rapid disease progression with major extensive mucous membrane in
 
 ---
 
-### Serum IL-17 in patients with erythema multiforme or Stevens-Johnson syndrome / toxic epidermal necrolysis drug reaction, and correlation with disease severity [^c5e90cea]. Clinical and Experimental Dermatology (2017). Low credibility.
+### Serum IL-17 in patients with erythema multiforme or Stevens-Johnson syndrome / toxic epidermal necrolysis drug reaction, and correlation with disease severity [^1164Qqhs]. Clinical and Experimental Dermatology (2017). Low credibility.
 
 Background
 
@@ -1024,7 +1024,7 @@ Serum IL-17 levels may have prognostic and diagnostic value in patients with EM 
 
 ---
 
-### Persistent oral ulcers in a woman with thymoma [^9e9b7051]. JAAD Case Reports (2023). Medium credibility.
+### Persistent oral ulcers in a woman with thymoma [^11549FiY]. JAAD Case Reports (2023). Medium credibility.
 
 Clinical outcome
 
@@ -1046,7 +1046,7 @@ E. Bullous pemphigoid – Incorrect. IIF shows the presence of intercellular IgG
 
 ---
 
-### Successful management of recurrent erythema multiforme with upadacitinib: a case report [^e3755148]. JAAD Case Reports (2025). Medium credibility.
+### Successful management of recurrent erythema multiforme with upadacitinib: a case report [^116pDbVy]. JAAD Case Reports (2025). Medium credibility.
 
 Discussion
 
@@ -1070,7 +1070,7 @@ Our patient was treated with upadacitinib, a Janus kinase (JAK) inhibitor. It af
 
 ---
 
-### Recurrent-associated reactive infectious mucocutaneous eruption responsive to systemic steroids: a case series [^ca322b1f]. JAAD Case Reports (2021). Medium credibility.
+### Recurrent-associated reactive infectious mucocutaneous eruption responsive to systemic steroids: a case series [^116AmMHY]. JAAD Case Reports (2021). Medium credibility.
 
 The Pediatric Dermatology Research Alliance has worked toward creating pediatric-specific diagnostic criteria for the spectrum of severe mucocutaneous eruptions, as case definitions are taken from the adult literature without widely accepted pediatric criteria. The proposed reclassification categories are: epidermal necrolysis, which includes Stevens-Johnson syndrome and toxic epidermal necrolysis due to their similar etiology and management; erythema multiforme, without major or minor forms; and a new term, reactive infectious mucocutaneous eruption (RIME), to encompass diverse parainfectious eruptions, including Mycoplasma -induced rash and mucositis. Cases that are considered RIME under this categorization are usually characterized by a severe mucositis of 2 or more mucous membranes, with a prodrome that usually includes a cough.
 

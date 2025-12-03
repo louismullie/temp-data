@@ -15,41 +15,41 @@ Pediatric malaria treatment
 
 > Let's see… What do we have here? The user is asking about pediatric malaria treatment. Let's break this down step-by-step. First, I need to think about classifying disease severity and identifying red flags. Then, I should verify species-specific treatment choices for uncomplicated disease. Next, I will review dosing nuances for infants and young children, including pharmacokinetic considerations. After that, I need to check severe malaria management and parenteral therapy sequencing. I will then examine pediatric formulation preferences and practical administration. Finally, I should consider special populations, prevention strategies, and a concise decision algorithm, while continuously validating claims against WHO and CDC guidance and correcting any missteps along the way.
 
-> Let me first confirm the foundational step of classifying severity, because treatment hinges on this distinction. Severe malaria includes impaired consciousness, respiratory distress, repeated convulsions, shock, acidosis, inability to retain oral therapy, hyperparasitemia, and severe anemia, and it is most often due to Plasmodium falciparum, though P. vivax can also cause severe disease, so I need to keep a broad differential and not anchor prematurely on species alone [^6255b271].
+> Let me first confirm the foundational step of classifying severity, because treatment hinges on this distinction. Severe malaria includes impaired consciousness, respiratory distress, repeated convulsions, shock, acidosis, inability to retain oral therapy, hyperparasitemia, and severe anemia, and it is most often due to Plasmodium falciparum, though P. vivax can also cause severe disease, so I need to keep a broad differential and not anchor prematurely on species alone [^113Wna8Y].
 
-> Wait, let me verify the first-line therapy for uncomplicated P. falciparum. WHO recommends artemisinin-based combination therapy for 3 days, with options including artemether-lumefantrine, artesunate-amodiaquine, artesunate-mefloquine, dihydroartemisinin-piperaquine, artesunate plus sulfadoxine-pyrimethamine, or artesunate-pyronaridine, and the choice should be guided by local resistance patterns and availability, which I should confirm case-by-case rather than assume uniformity across regions [^50f3ed84].
+> Wait, let me verify the first-line therapy for uncomplicated P. falciparum. WHO recommends artemisinin-based combination therapy for 3 days, with options including artemether-lumefantrine, artesunate-amodiaquine, artesunate-mefloquine, dihydroartemisinin-piperaquine, artesunate plus sulfadoxine-pyrimethamine, or artesunate-pyronaridine, and the choice should be guided by local resistance patterns and availability, which I should confirm case-by-case rather than assume uniformity across regions [^11351weB].
 
-> Hold on, I should verify dosing for infants and very young children, especially those under 5 kg, because labels often restrict ACT use in this group. WHO explicitly recommends that infants weighing less than 5 kg with uncomplicated P. falciparum malaria should receive the same mg/kg target dose of ACT as children weighing 5 kg or more, which resolves the common concern about underdosing in this vulnerable group [^93e74aac].
+> Hold on, I should verify dosing for infants and very young children, especially those under 5 kg, because labels often restrict ACT use in this group. WHO explicitly recommends that infants weighing less than 5 kg with uncomplicated P. falciparum malaria should receive the same mg/kg target dose of ACT as children weighing 5 kg or more, which resolves the common concern about underdosing in this vulnerable group [^114nGsMM].
 
-> I need to check pharmacokinetic nuances that affect pediatric dosing and outcomes. Children, particularly those under 25 kg, often have lower day-7 lumefantrine exposure after artemether-lumefantrine, which correlates with higher recurrence risk; modeling supports extending artemether-lumefantrine to 5 days in some contexts to improve exposure, though I should confirm local policy and individual risk before deviating from standard 3-day regimens [^39f33c4e]. For dihydroartemisinin-piperaquine, WHO specifies a minimum of 2.5 mg/kg/day of dihydroartemisinin and 20 mg/kg/day of piperaquine for 3 days in children under 25 kg, which I should adhere to strictly to avoid underexposure [^a172aad1].
+> I need to check pharmacokinetic nuances that affect pediatric dosing and outcomes. Children, particularly those under 25 kg, often have lower day-7 lumefantrine exposure after artemether-lumefantrine, which correlates with higher recurrence risk; modeling supports extending artemether-lumefantrine to 5 days in some contexts to improve exposure, though I should confirm local policy and individual risk before deviating from standard 3-day regimens [^112Uuzg5]. For dihydroartemisinin-piperaquine, WHO specifies a minimum of 2.5 mg/kg/day of dihydroartemisinin and 20 mg/kg/day of piperaquine for 3 days in children under 25 kg, which I should adhere to strictly to avoid underexposure [^1158MXGc].
 
-> Let me consider non-falciparum species, and I should double-check chloroquine susceptibility before committing to a regimen. In chloroquine-susceptible regions, chloroquine remains appropriate for P. vivax, P. ovale, P. malariae, or P. knowlesi, whereas in chloroquine-resistant regions, ACTs are preferred; for P. vivax and P. ovale, I must add primaquine to eradicate hypnozoites, typically 0.5 mg/kg base daily for 14 days, after confirming normal G6PD status to avoid hemolysis, and I should not forget this step because relapse risk is substantial otherwise [^d4bbe3b2] [^12b7027a] [^8652b1cf].
+> Let me consider non-falciparum species, and I should double-check chloroquine susceptibility before committing to a regimen. In chloroquine-susceptible regions, chloroquine remains appropriate for P. vivax, P. ovale, P. malariae, or P. knowlesi, whereas in chloroquine-resistant regions, ACTs are preferred; for P. vivax and P. ovale, I must add primaquine to eradicate hypnozoites, typically 0.5 mg/kg base daily for 14 days, after confirming normal G6PD status to avoid hemolysis, and I should not forget this step because relapse risk is substantial otherwise [^116SPV8D] [^111UkFPX] [^114S97nN].
 
-> Next, I should review severe malaria management, and I need to ensure I sequence parenteral and oral therapy correctly. WHO recommends IV or IM artesunate for at least 24 hours until the patient can tolerate oral medication, followed by a complete 3-day ACT course to finish therapy; if artesunate is unavailable, IM artemether is preferred over quinine, and if neither artesunate nor artemether is available, IM quinine can be used as a last resort, though I should acknowledge that artesunate has the strongest mortality benefit signal in children [^97932ab4] [^46121180] [^774407c6].
+> Next, I should review severe malaria management, and I need to ensure I sequence parenteral and oral therapy correctly. WHO recommends IV or IM artesunate for at least 24 hours until the patient can tolerate oral medication, followed by a complete 3-day ACT course to finish therapy; if artesunate is unavailable, IM artemether is preferred over quinine, and if neither artesunate nor artemether is available, IM quinine can be used as a last resort, though I should acknowledge that artesunate has the strongest mortality benefit signal in children [^114siZbR] [^112ntCj9] [^1143pNsf].
 
-> But wait, what if pre-referral care is needed in a resource-limited setting. For children under 6 years when IM artesunate is not available, a single rectal dose of artesunate at 10 mg/kg can be administered as a bridge while arranging urgent transfer, and I should explicitly avoid using rectal artesunate in older children or adults because WHO advises against it in those groups [^8acc7b09] [^9c375381].
+> But wait, what if pre-referral care is needed in a resource-limited setting. For children under 6 years when IM artesunate is not available, a single rectal dose of artesunate at 10 mg/kg can be administered as a bridge while arranging urgent transfer, and I should explicitly avoid using rectal artesunate in older children or adults because WHO advises against it in those groups [^114YmyVa] [^114zbeoa].
 
-> I will now examine pediatric formulation choices, because adherence and tolerability materially affect outcomes. WHO and Cochrane analyses suggest pediatric dispersible or suspension ACT formulations have comparable efficacy to crushed tablets but may reduce drug-related adverse events and vomiting, and WHO recommends preferring fixed-dose combinations and solid pediatric formulations, such as dispersible tablets, over liquids when available to improve dosing accuracy and acceptability [^73a43654] [^d5fdb06d] [^fad1de84].
+> I will now examine pediatric formulation choices, because adherence and tolerability materially affect outcomes. WHO and Cochrane analyses suggest pediatric dispersible or suspension ACT formulations have comparable efficacy to crushed tablets but may reduce drug-related adverse events and vomiting, and WHO recommends preferring fixed-dose combinations and solid pediatric formulations, such as dispersible tablets, over liquids when available to improve dosing accuracy and acceptability [^113xSjX9] [^116UFaHi] [^117QrQ2w].
 
 > Let me think about practical administration details that reduce treatment failure. Artemether-lumefantrine should be given with fat-containing food or milk to optimize lumefantrine absorption, and if a child vomits within 30 minutes, I should repeat the full dose; if vomiting occurs between 30 and 60 minutes, a half-dose can be considered, with close monitoring and alternative therapy if vomiting persists or improvement is not seen within 48 to 72 hours [^notfound].
 
-> Hold on, I should verify special populations and drug–drug interactions. In children with HIV, antimalarial choices are the same as in HIV-uninfected children, but I must screen for antiretroviral interactions, particularly with ritonavir-boosted regimens and quinidine, and adjust accordingly; for refugees and adoptees from sub-Saharan Africa, presumptive treatment on arrival and primaquine for prior P. vivax or P. ovale exposure are recommended to mitigate delayed presentations and relapses [^344497a5] [^379225bb].
+> Hold on, I should verify special populations and drug–drug interactions. In children with HIV, antimalarial choices are the same as in HIV-uninfected children, but I must screen for antiretroviral interactions, particularly with ritonavir-boosted regimens and quinidine, and adjust accordingly; for refugees and adoptees from sub-Saharan Africa, presumptive treatment on arrival and primaquine for prior P. vivax or P. ovale exposure are recommended to mitigate delayed presentations and relapses [^112LVPwa] [^112RPQgS].
 
-> I should confirm prevention strategies that intersect with treatment planning. Seasonal malaria chemoprevention and intermittent preventive treatment in infants reduce malaria burden in high-transmission settings, and WHO also recommends RTS, S/AS01 vaccination in children in moderate-to-high transmission regions; these measures can reduce future episodes and should be integrated with case management and counseling [^7a6a3116] [^a52f8294] [^8e294022].
+> I should confirm prevention strategies that intersect with treatment planning. Seasonal malaria chemoprevention and intermittent preventive treatment in infants reduce malaria burden in high-transmission settings, and WHO also recommends RTS, S/AS01 vaccination in children in moderate-to-high transmission regions; these measures can reduce future episodes and should be integrated with case management and counseling [^1148VAAR] [^115Dtv51] [^114dm6eD].
 
-> Let me reconsider the overall decision algorithm to ensure internal consistency. First, classify severity and stabilize; second, identify species and local resistance; third, select an appropriate ACT for uncomplicated disease or initiate parenteral artesunate for severe disease; fourth, dose by weight with attention to infant and pharmacokinetic nuances; fifth, add primaquine for P. vivax or P. ovale after G6PD testing; sixth, prefer pediatric-friendly formulations and ensure proper administration; seventh, monitor for clinical response and recrudescence, and if treatment fails, switch to a different effective regimen rather than repeating the same drug [^50f3ed84] [^97932ab4] [^550f478a] [^f2d1d616].
+> Let me reconsider the overall decision algorithm to ensure internal consistency. First, classify severity and stabilize; second, identify species and local resistance; third, select an appropriate ACT for uncomplicated disease or initiate parenteral artesunate for severe disease; fourth, dose by weight with attention to infant and pharmacokinetic nuances; fifth, add primaquine for P. vivax or P. ovale after G6PD testing; sixth, prefer pediatric-friendly formulations and ensure proper administration; seventh, monitor for clinical response and recrudescence, and if treatment fails, switch to a different effective regimen rather than repeating the same drug [^11351weB] [^114siZbR] [^113B75d3] [^117CzV8y].
 
-> Finally, I should double-check a potential pitfall I almost made regarding primaquine in P. falciparum. Initially, I thought primaquine was routinely indicated for all P. falciparum cases, but wait, I should correct that: WHO recommends a single 0.25 mg/kg dose of primaquine with ACT for P. falciparum only to reduce transmission in low-transmission settings, and explicitly advises not to obtain G6PD testing for this single-dose strategy, which differs from the 14-day radical cure regimen used for P. vivax and P. ovale [^15a6e843].
+> Finally, I should double-check a potential pitfall I almost made regarding primaquine in P. falciparum. Initially, I thought primaquine was routinely indicated for all P. falciparum cases, but wait, I should correct that: WHO recommends a single 0.25 mg/kg dose of primaquine with ACT for P. falciparum only to reduce transmission in low-transmission settings, and explicitly advises not to obtain G6PD testing for this single-dose strategy, which differs from the 14-day radical cure regimen used for P. vivax and P. ovale [^111Z6oXx].
 
 ---
 
-Pediatric malaria treatment is **ACTs for 3 days** for uncomplicated cases [^50f3ed84], with **IV artesunate for severe disease** [^97932ab4] until oral intake is possible, followed by a 3-day ACT course. Dosing is **weight-based** [^6eb1bc91], and pediatric formulations (dispersible tablets) improve adherence and reduce vomiting [^d5fdb06d] [^73a43654]. For P. vivax/ovale, add **primaquine for 14 days** [^550f478a] after confirming normal G6PD status [^8652b1cf]. Monitor for clinical response and adverse effects, and adjust therapy if treatment fails or resistance is suspected [^f2d1d616].
+Pediatric malaria treatment is **ACTs for 3 days** for uncomplicated cases [^11351weB], with **IV artesunate for severe disease** [^114siZbR] until oral intake is possible, followed by a 3-day ACT course. Dosing is **weight-based** [^113q7Lb2], and pediatric formulations (dispersible tablets) improve adherence and reduce vomiting [^116UFaHi] [^113xSjX9]. For P. vivax/ovale, add **primaquine for 14 days** [^113B75d3] after confirming normal G6PD status [^114S97nN]. Monitor for clinical response and adverse effects, and adjust therapy if treatment fails or resistance is suspected [^117CzV8y].
 
 ---
 
 ## Classification of pediatric malaria
 
-Pediatric malaria is classified as **uncomplicated** or **severe** based on clinical features and disease severity [^6255b271]:
+Pediatric malaria is classified as **uncomplicated** or **severe** based on clinical features and disease severity [^113Wna8Y]:
 
 | **Category** | **Clinical features** |
 |-|-|
@@ -60,25 +60,25 @@ Pediatric malaria is classified as **uncomplicated** or **severe** based on clin
 
 ## First-line treatment for uncomplicated malaria
 
-The WHO recommends **artemisinin-based combination therapy (ACT)** as first-line treatment for uncomplicated Plasmodium falciparum malaria in children [^50f3ed84]. ACTs combine a rapid-acting artemisinin derivative with a longer-acting partner drug, thereby achieving rapid parasite clearance and reducing the risk of recurrence [^8750dbda]. Commonly used ACT regimens include:
+The WHO recommends **artemisinin-based combination therapy (ACT)** as first-line treatment for uncomplicated Plasmodium falciparum malaria in children [^11351weB]. ACTs combine a rapid-acting artemisinin derivative with a longer-acting partner drug, thereby achieving rapid parasite clearance and reducing the risk of recurrence [^114TcVJR]. Commonly used ACT regimens include:
 
-- **Artemether-lumefantrine**: Preferred due to efficacy, safety, and availability of pediatric formulations [^e2b6938c].
+- **Artemether-lumefantrine**: Preferred due to efficacy, safety, and availability of pediatric formulations [^116o7XZd].
 - **Artesunate-amodiaquine**: Alternative ACT, particularly useful in regions with high lumefantrine resistance.
 - **Artesunate-mefloquine**: Used in areas with high resistance to other partner drugs.
-- **Dihydroartemisinin-piperaquine**: Effective and well-tolerated, with a long post-treatment prophylactic effect [^8750dbda].
+- **Dihydroartemisinin-piperaquine**: Effective and well-tolerated, with a long post-treatment prophylactic effect [^114TcVJR].
 - **Artesunate-pyronaridine**: Alternative ACT with good efficacy and safety profiles.
 
 ---
 
 ## Dosing considerations
 
-Pediatric dosing is **weight-based** [^6eb1bc91], and formulations — especially dispersible tablets — improve adherence and reduce vomiting [^d5fdb06d] [^73a43654]. For example, artemether-lumefantrine is dosed at 1 tablet per dose for 5– < 15 kg, 2 tablets for 15– < 25 kg, 3 tablets for 25– < 35 kg, and 4 tablets for > 35 kg, administered twice daily for 3 days [^12b7027a].
+Pediatric dosing is **weight-based** [^113q7Lb2], and formulations — especially dispersible tablets — improve adherence and reduce vomiting [^116UFaHi] [^113xSjX9]. For example, artemether-lumefantrine is dosed at 1 tablet per dose for 5– < 15 kg, 2 tablets for 15– < 25 kg, 3 tablets for 25– < 35 kg, and 4 tablets for > 35 kg, administered twice daily for 3 days [^111UkFPX].
 
 ---
 
 ## Management of severe malaria
 
-Severe malaria is a **medical emergency** requiring prompt parenteral therapy [^02a01a0b]. The WHO recommends **intravenous (IV) or intramuscular (IM) artesunate** as the first-line treatment for severe malaria in children, including infants and pregnant women [^97932ab4]. Artesunate is preferred over quinine due to its superior efficacy in reducing mortality and faster parasite clearance [^c5747b49]. If artesunate is unavailable, **artemether** or **quinine** may be used as alternatives [^46121180]. Treatment should continue for at least 24 hours until the child can tolerate oral medication, followed by a complete 3-day course of ACT [^97932ab4].
+Severe malaria is a **medical emergency** requiring prompt parenteral therapy [^1114tkbc]. The WHO recommends **intravenous (IV) or intramuscular (IM) artesunate** as the first-line treatment for severe malaria in children, including infants and pregnant women [^114siZbR]. Artesunate is preferred over quinine due to its superior efficacy in reducing mortality and faster parasite clearance [^1163jgm6]. If artesunate is unavailable, **artemether** or **quinine** may be used as alternatives [^112ntCj9]. Treatment should continue for at least 24 hours until the child can tolerate oral medication, followed by a complete 3-day course of ACT [^114siZbR].
 
 ---
 
@@ -95,133 +95,133 @@ Supportive care is essential in managing pediatric malaria, particularly in seve
 
 ## Prevention of relapse in Plasmodium vivax and Plasmodium ovale infections
 
-P. vivax and P. ovale infections require **radical cure** to prevent relapse from dormant liver-stage hypnozoites. Primaquine is administered for 14 days [^550f478a] at 0.5 mg/kg base (maximum 30 mg) daily after confirming normal G6PD status to avoid hemolytic anemia [^8652b271]. In children under 6 months, primaquine is not recommended due to limited safety data.
+P. vivax and P. ovale infections require **radical cure** to prevent relapse from dormant liver-stage hypnozoites. Primaquine is administered for 14 days [^113B75d3] at 0.5 mg/kg base (maximum 30 mg) daily after confirming normal G6PD status to avoid hemolytic anemia [^114S97qA]. In children under 6 months, primaquine is not recommended due to limited safety data.
 
 ---
 
 ## Monitoring and follow-up
 
-Regular monitoring of clinical status, temperature, and parasitemia is essential to ensure **treatment response** [^f2d1d616]. Treatment failure may result from drug resistance, poor adherence, or inadequate dosing; in such cases, alternative ACTs or non-ACT regimens may be considered based on local resistance patterns and expert consultation [^f2d1d616].
+Regular monitoring of clinical status, temperature, and parasitemia is essential to ensure **treatment response** [^117CzV8y]. Treatment failure may result from drug resistance, poor adherence, or inadequate dosing; in such cases, alternative ACTs or non-ACT regimens may be considered based on local resistance patterns and expert consultation [^117CzV8y].
 
 ---
 
 ## Special considerations
 
-- **Infants and young children**: ACTs are safe and effective in infants, including those weighing less than 5 kg, with dosing adjusted accordingly [^93e74aac].
-- **HIV-infected children**: Treatment principles are similar, but clinicians should consider potential drug interactions between antiretroviral therapy and antimalarials [^38fd81ba].
+- **Infants and young children**: ACTs are safe and effective in infants, including those weighing less than 5 kg, with dosing adjusted accordingly [^114nGsMM].
+- **HIV-infected children**: Treatment principles are similar, but clinicians should consider potential drug interactions between antiretroviral therapy and antimalarials [^112TVTVT].
 - **Malnutrition**: Malnourished children may require careful dosing adjustments and close monitoring due to altered drug metabolism and increased susceptibility to complications.
 
 ---
 
 ## Recent advances and ongoing research
 
-Recent research focuses on optimizing pediatric dosing strategies, developing new pediatric formulations, and evaluating novel antimalarial compounds. Pharmacokinetic studies highlight the need for **weight-based dosing adjustments** and longer treatment courses in young children to achieve therapeutic drug concentrations and reduce recurrence [^39f33c4e] [^5b4ce12e].
+Recent research focuses on optimizing pediatric dosing strategies, developing new pediatric formulations, and evaluating novel antimalarial compounds. Pharmacokinetic studies highlight the need for **weight-based dosing adjustments** and longer treatment courses in young children to achieve therapeutic drug concentrations and reduce recurrence [^112Uuzg5] [^113LMhP3].
 
 ---
 
-Pediatric malaria treatment centers on **ACTs for uncomplicated disease** [^50f3ed84] and **IV artesunate for severe cases** [^97932ab4], with weight-based dosing and pediatric formulations to optimize adherence and outcomes. Primaquine is added for P. vivax/ovale to prevent relapse [^550f478a], and supportive care is essential in severe disease.
+Pediatric malaria treatment centers on **ACTs for uncomplicated disease** [^11351weB] and **IV artesunate for severe cases** [^114siZbR], with weight-based dosing and pediatric formulations to optimize adherence and outcomes. Primaquine is added for P. vivax/ovale to prevent relapse [^113B75d3], and supportive care is essential in severe disease.
 
 ---
 
 ## References
 
-### WHO guidelines for malaria [^b5784bec]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^115e3AaF]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (prevention), WHO 2024 guidelines recommend to consider administering antimalarial therapy at predefined intervals to reduce disease burden in children of age groups at high risk of severe malaria in areas of moderate-to-high perennial malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^7a6a3116]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^1148VAAR]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (prevention), WHO 2024 guidelines recommend to administer antimalarial therapy during peak malaria transmission seasons to reduce disease burden in children of age groups at high risk of severe malaria in areas of seasonal malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^fbdebc15]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^117SQhxQ]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (prevention), WHO 2024 guidelines recommend to consider administering a full therapeutic course of antimalarial therapy at predetermined times as chemoprevention to reduce disease burden in school-aged children living in malaria-endemic settings with moderate-to-high perennial or seasonal transmission.
 
 ---
 
-### WHO guidelines for malaria [^93e74aac]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^114nGsMM]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. falciparum malaria), WHO 2024 guidelines recommend to administer artemisinin-based combination therapy in infant patients weighing < 5 kg with uncomplicated P. falciparum malaria at the same mg/kg body weight target dose as in pediatric patients weighing 5 kg.
 
 ---
 
-### WHO guidelines for malaria [^a172aad1]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^1158MXGc]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. falciparum malaria), WHO 2024 guidelines recommend to administer a minimum of 2.5 mg/kg body weight/day of dihydroartemisinin and 20 mg/kg body weight/day of piperaquine for 3 days in pediatric patients weighing < 25kg treated with dihydroartemisinin plus piperaquine.
 
 ---
 
-### WHO guidelines for malaria [^97932ab4]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^114siZbR]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of severe malaria), WHO 2024 guidelines recommend to administer IV or IM artesunate for at least 24 hours for the treatment of pediatric patients with severe malaria (including infants, pregnant patients in all trimesters, and lactating patients) until they can tolerate oral medication. Complete treatment with 3 days of artemisinin-based combination therapy once the patient has received at least 24 hours of parenteral therapy and can tolerate oral therapy.
 
 ---
 
-### WHO guidelines for malaria [^15a6e843]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^111Z6oXx]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. falciparum malaria), WHO 2024 guidelines recommend to administer a single dose of 0.25 mg/kg body weight primaquine with artemisinin-based combination therapy in patients with P. falciparum malaria (except infants aged < 6 months) to reduce transmission in low-transmission areas. Do not obtain G6PD testing.
 
 ---
 
-### WHO guidelines for malaria [^2de0b74f]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^112B1vWA]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. falciparum malaria), WHO 2024 guidelines recommend to obtain close monitoring in patients with P. falciparum hyperparasitemia, in addition to artemisinin-based combination therapy, as they are at increased risk for treatment failure, severe malaria, and death.
 
 ---
 
-### WHO guidelines for malaria [^d6517e48]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^116Ujivb]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding preventative measures for malaria infection, more specifically with respect to primary chemoprevention (pediatric patients), WHO 2024 guidelines recommend to consider administering antimalarial therapy at predefined intervals to reduce disease burden in children of age groups at high risk of severe malaria in areas of moderate-to-high perennial malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^ef310bd8]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^1177cWrK]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (prevention), WHO 2024 guidelines recommend to administer a full therapeutic course of antimalarial therapy at predetermined times following hospital discharge to reduce re-admission and death in pediatric patients admitted to the hospital with severe anemia living in settings with moderate-to-high malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^46121180]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^112ntCj9]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of severe malaria), WHO 2024 guidelines recommend to administer artemether in preference to quinine for the treatment of pediatric patients with severe malaria if artesunate is not available.
 
 ---
 
-### WHO guidelines for malaria [^cb867222]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^116CjeRX]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding preventative measures for malaria infection, more specifically with respect to primary chemoprevention (pediatric patients), WHO 2024 guidelines recommend to consider administering a full therapeutic course of antimalarial therapy at predetermined times as chemoprevention to reduce disease burden in school-aged children living in malaria-endemic settings with moderate-to-high perennial or seasonal transmission.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^d0fd437f]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^116LqVbC]. HIV.gov (2025). High credibility.
 
 Malaria — evidence and recommendation grading used on this page: Rating of Recommendations is A = Strong; B = Moderate; C = Optional, and Rating of Evidence categories are defined for I, I*, II, and II* as on-page descriptions specify pediatric versus adult data sources and study designs.
 
 ---
 
-### WHO guidelines for malaria [^785b79c6]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^1145SEub]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding preventative measures for malaria infection, more specifically with respect to primary chemoprevention (pediatric patients), WHO 2024 guidelines recommend to administer a full therapeutic course of antimalarial therapy at predetermined times following hospital discharge to reduce re-admission and death in pediatric patients admitted to the hospital with severe anemia living in settings with moderate-to-high malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^a5c4b763]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^115Em2qp]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding preventative measures for malaria infection, more specifically with respect to primary chemoprevention (pediatric patients), WHO 2024 guidelines recommend to administer antimalarial therapy during peak malaria transmission seasons to reduce disease burden in children of age groups at high risk of severe malaria in areas of seasonal malaria transmission.
 
 ---
 
-### WHO guidelines for malaria [^8acc7b09]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^114YmyVa]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of severe malaria), WHO 2024 guidelines recommend to administer a single rectal dose (10 mg/kg body weight) of artesunate in pediatric patients < 6 years if IM injection of artesunate is unavailable, and refer them immediately to an appropriate facility for further care. Do not use rectal artesunate in older pediatric patients.
 
 ---
 
-### Choosing a drug to prevent malaria… [^70bdcbed]. CDC (2025). Medium credibility.
+### Choosing a drug to prevent malaria… [^113t9N6g]. CDC (2025). Medium credibility.
 
 Adults: 1 adult tablet daily. Children: 5–8 kg: ½ pediatric tablet daily. > 8–10 kg: ¾ pediatric tablet daily. > 10–20 kg: 1 pediatric tablet daily. > 20–30 kg: 2 pediatric tablets daily. > 30–40 kg 3 pediatric tablets daily.
 - Pediatric tablets are available and may be more convenient
@@ -245,19 +245,19 @@ Adults: 1 adult tablet daily. Children: 5–8 kg: ½ pediatric tablet daily. > 8
 
 ---
 
-### WHO guidelines for malaria [^cae7ed34]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^116BpQDh]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of severe malaria), WHO 2024 guidelines recommend to administer a single IM dose of artesunate in pediatric patients if complete treatment of severe malaria is not possible but injections are available, and refer them to an appropriate facility for further care. Administer IM artemether if IM artesunate is not available. Administer IM quinine if IM artemether is not available.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^61659fa2]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^113VPw85]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — recommendation and evidence grading used: Rating of Recommendations is A = Strong; B = Moderate; C = Optional. Rating of Evidence definitions include I = One or more randomized trials in children with clinical outcomes and/or validated endpoints and III = Expert opinion.
 
 ---
 
-### WHO guidelines for malaria [^50f3ed84]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^11351weB]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. falciparum malaria), WHO 2024 guidelines recommend to administer any of the following artemisinin-based combination therapies for 3 days for the treatment of pediatric patients with uncomplicated P. falciparum malaria:
 
@@ -275,25 +275,25 @@ Regarding specific circumstances for malaria infection, more specifically with r
 
 ---
 
-### WHO guidelines for malaria [^d4bbe3b2]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^116SPV8D]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. vivax, P. ovale, P. malariae, or P. knowlesi malaria), WHO 2024 guidelines recommend to administer either artemisinin-based combination therapy or chloroquine in pediatric patients with uncomplicated P. vivax, P. ovale, P. malariae, or P. knowlesi malaria in areas with chloroquine-susceptible infections. Administer artemisinin-based combination therapy in pediatric patients in areas with chloroquine-resistant infections.
 
 ---
 
-### WHO guidelines for malaria [^550f478a]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^113B75d3]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. vivax, P. ovale, P. malariae, or P. knowlesi malaria), WHO 2024 guidelines recommend to administer a 14-day course of primaquine for the treatment of P. vivax or P. ovale malaria in pediatric patients (except infants aged < 6 months and patients with G6PD deficiency) to prevent relapse in all transmission settings.
 
 ---
 
-### WHO guidelines for malaria [^5bd1c0b6]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^113M8KxZ]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (management of uncomplicated P. vivax, P. ovale, P. malariae, or P. knowlesi malaria), WHO 2024 guidelines recommend to administer primaquine 0.5 mg/kg/day for 7 days as an additional treatment option for P. vivax or P. ovale malaria in pediatric patients (except infants aged < 6 months and patients with G6PD deficiency) to prevent relapse.
 
 ---
 
-### Chloroquine dosing recommendations for pediatric COVID-19 supported by modeling and simulation [^abe2fca0]. Clinical Pharmacology and Therapeutics (2020). Medium credibility.
+### Chloroquine dosing recommendations for pediatric COVID-19 supported by modeling and simulation [^115Pq8FR]. Clinical Pharmacology and Therapeutics (2020). Medium credibility.
 
 Study Highlights
 
@@ -312,31 +312,31 @@ HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^6eb1bc91]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^113q7Lb2]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Pediatric malaria — evaluation and general treatment principles — states that treatment is based on disease severity, patient age at onset, parasite species, pregnancy status, and local resistance patterns (AI), with pediatric dosing adjusted for weight and never exceeding recommended adult doses; HIV infection status does not affect antimalarial choice or dosing, but clinicians are urged to evaluate antiretroviral (ARV)–antimalarial drug interactions before starting therapy, and a high index of suspicion is advised for febrile children from endemic areas, including refugees/adoptees from sub-Saharan Africa for whom CDC recommends presumptive malaria treatment and primaquine for past or current P. vivax or P. ovale infection if not previously given.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^38fd81ba]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^112TVTVT]. HIV.gov (2025). High credibility.
 
 Malaria prevention and treatment in children with or exposed to HIV — CDC recommends presumptive treatment for malaria for all refugees and adoptees resettling to the United States from sub-Saharan Africa, and children with past or current P. vivax or P. ovale infection should receive treatment with primaquine to eradicate the dormant liver stage if the drug was not previously administered. These patients remain at risk of developing malaria after arrival in the United States and should be evaluated with a high index of suspicion for malaria. Treatment of malaria is based on the disease severity, patient age at onset, parasite species, pregnancy status, and known resistance patterns in the area where the malaria infection was acquired (AI); drug dosing for pediatric patients must be adjusted for weight and dosing should never exceed the recommended adult dose, and HIV infection status does not affect choice or dosing of antimalarial therapy though clinicians are urged to evaluate for drug interactions between antiretroviral and antimalarial drugs before initiating antimalarial therapy.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^27be2d18]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1121vPvP]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria disease chemoprophylaxis — treatment choice after breakthrough infection — medication used for chemoprophylaxis should not be used as a part of a new treatment regimen in individuals who develop malaria despite taking chemoprophylaxis; rather, treatment with one of the other options is recommended.
 
 ---
 
-### WHO guidelines for malaria [^fad1de84]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^117QrQ2w]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding quality improvement for malaria infection, more specifically with respect to national/regional quality control, WHO 2024 guidelines recommend to use fixed-dose combinations rather than co-blistered or loose, single-agent formulations. Use pediatric formulations with a preference for solid formulations (such as dispersible tablets) rather than liquid formulations in young pediatric and infant patients.
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^8d0a9a37]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^114c6pHc]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Discussion
 
@@ -344,13 +344,13 @@ This review summarizes the evidence on possible benefits of paediatric versus no
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^f2d1d616]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^117CzV8y]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria in HIV-infected children — managing treatment failure — Failure of treatment for P. falciparum is uncommon in children who receive a full course of appropriate antimalarial therapy, and patients should be monitored for clinical and laboratory response (thick and thin smear) and for signs of recrudescence after therapy completion. Relapse of P. vivax and P. ovale can occur from the dormant (hypnozoite) liver form but is less common following primaquine treatment. When treatment failure occurs, malaria speciation should be confirmed, as should the geography of where the malaria was acquired, and retreatment with an appropriate first-line regimen (but not the same regimen as initially used) should be given. Discussion with a Pediatric Infectious Disease specialist or consultation through the CDC malaria hotline is appropriate when complex situations arise.
 
 ---
 
-### Appendix A: malaria in the United States: treatment tables… [^049b17cc]. CDC (2024). Medium credibility.
+### Appendix A: malaria in the United States: treatment tables… [^1117q3aj]. CDC (2024). Medium credibility.
 
 Recommended Pediatric Regimens 3 Chloroquine sensitive Acute treatment 4: Chloroquine phosphate Dose 1: 600 mg base po. Doses 2 to 4 at 6, 24 and 48 h: 310 mg base po per dose AND Antirelapse treatment 5: Primaquine phosphate 6, 7, 8 30 mg base po qd x 14 days; or. After delivery, patients with normal G6PD activity can be given primaquine or tafenoquine depending on breastfeeding, or continue with chloroquine prophylaxis for a total of 1 year from acute infection. Primaquine and tafenoquine can be used during breastfeeding if infant found to also have normal G6PD activity. 16Primaquine is the only option if regimens other than either chloroquine or hydroxychloroquine used for treatment of acute infection.
 
@@ -361,19 +361,19 @@ Recommended Pediatric Regimens 3 Chloroquine sensitive Acute treatment 4: Chloro
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^5cd3e8e1]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^113Nd3G4]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — prevention recommendations and evaluation guidance: Recommendations for preventing exposure and for primary chemoprophylaxis are identical for HIV-infected and HIV-uninfected individuals; all travelers to malaria-endemic regions should receive pre-travel counseling on appropriate preventive measures and the avoidance of mosquitos (AII). Families should be counseled regarding signs and symptoms of malaria and the need for early medical intervention if these signs and symptoms are present, and an early appropriate medical evaluation should be completed on all patients returning from a malaria-endemic area who have unexplained fever or other signs or symptoms of malaria.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^4f249763]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1132LK7x]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — epidemiology relevant to pediatric patients: Malaria is caused by the obligate, intracellular protozoa of the genus Plasmodium, and is transmitted by the bite of an infective female Anopheles mosquito. Worldwide, malaria is a leading killer of children and pregnant women. In the United States, most malaria cases occur in patients who have returned from travels to areas of endemic malaria transmission. Rarely, cases occur as a result of exposure to infected blood products, local mosquito-borne transmission (i.e., autochthonous transmission), or mother-to-child transmission (MTCT) (congenital malaria). Prompt recognition and treatment are essential, and failure to act quickly and appropriately can have grave consequences.
 
 ---
 
-### Mefloquine hydrochloride [^3aaa0f07]. FDA (2025). Medium credibility.
+### Mefloquine hydrochloride [^112VyQMc]. FDA (2025). Medium credibility.
 
 Malaria Treatment in Pediatric Patients
 
@@ -401,19 +401,19 @@ Experience with mefloquine in pediatric patients weighing less than 20 kg is lim
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^8c21e973]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^114akf7Q]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to consider administering atovaquone-proguanil, quinine sulfate plus either doxycycline, tetracycline (specifically in pediatric patients aged ≥ 8 years), clindamycin, or artemether-lumefantrine as treatment options in patients with uncomplicated chloroquine-resistant malaria.
 
 ---
 
-### WHO guidelines for malaria [^8e294022]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^114dm6eD]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to pediatric patients (prevention), WHO 2024 guidelines recommend to offer RTS, S/AS01 malaria vaccination to prevent P. falciparum malaria in children living in regions with moderate-to-high transmission, as defined by the WHO.
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^73a43654]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^113xSjX9]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -445,7 +445,7 @@ Trials did not demonstrate a difference in efficacy between paediatric dispersib
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^6e983a28]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^113pxmd9]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Abstract
 
@@ -493,7 +493,7 @@ Trials did not demonstrate a difference in efficacy between paediatric dispersib
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^211aff48]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^111r5fFM]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to administer any of the following options in patients with uncomplicated chloroquine-susceptible P. falciparum malaria:
 
@@ -507,31 +507,31 @@ Regarding specific circumstances for malaria infection, more specifically with r
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^3556b354]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^112N5Tzs]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to treat for presumptive chloroquine-resistant P. falciparum malaria in symptomatic patients traveled to a region with chloroquine-resistant P. falciparum and if reliable identification of the malaria species is not possible or the patient is severely ill.
 
 ---
 
-### Do paediatric drug formulations of artemisinin combination therapies improve the treatment of children with malaria? A systematic review and meta-analysis [^d5fdb06d]. The Lancet: Infectious Diseases (2010). Medium credibility.
+### Do paediatric drug formulations of artemisinin combination therapies improve the treatment of children with malaria? A systematic review and meta-analysis [^116UFaHi]. The Lancet: Infectious Diseases (2010). Medium credibility.
 
 Paediatric formulations of artemisinin combination therapies (ACTs) have recently been developed for the treatment of children with falciparum malaria. Compared with conventional tablet formulations, the new non-tablet preparations have shown equivalent efficacy, safety, and tolerability in individual trials. We aimed to investigate whether objective evidence supports the development and use of paediatric ACTs. A systematic review identified seven studies involving 2515 children that were eligible for meta-analysis. Similar efficacy and safety were seen in pooled analyses of paediatric and conventional formulations. 23 (2.0%) of 1154 patients in the paediatric formulation groups and 19 (1.7%) of 1137 in the tablet formulation groups were not cured (RR 1.27, 95% CI 0.66–2.44). Despite similar overall tolerability, the tolerability of drug administration was improved for paediatric formulations as shown by significantly fewer patients with drug-induced vomiting (93 of 1018 and 114 of 837 patients; risk ratio [RR] 0.78, 95% CI 0.61–0.99), and drug-related gastrointestinal disorders (8 of 545 and 15 of 358 patients; RR 0.36, 95% CI 0.15–0.85). These data provide, for the first time, evidence for improved management of children by use of paediatric formulations, and support the further development and use of paediatric ACTs.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^77c07ef8]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^1144YBfD]. HIV.gov (2025). High credibility.
 
 Pediatric HIV malaria — managing treatment failure: "Failure of treatment for P. falciparum is uncommon in children who receive a full course of appropriate antimalarial therapy". Patients should be monitored for clinical and laboratory response with "thick and thin smear" and for signs of recrudescence after therapy completion. If failure occurs, "malaria speciation should be confirmed", along with where the infection was acquired, and "Retreatment with an appropriate first-line regimen (but not the same regimen as initially used) should be given". "Discussion with a Pediatric Infectious Disease specialist or consultation through the CDC malaria hotline is appropriate when complex situations arise".
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^a51bc07b]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^115DnH9c]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria treatment, continued — weight-band tablet dosing is listed as follows: 5 to < 15 kg: 1 tablet per dose; 15 to < 25 kg: 2 tablets per dose; 25 to < 35 kg: 3 tablets per dose; > 35 kg; 4 tablets per dose.
 
 ---
 
-### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^39f33c4e]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^112Uuzg5]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 PEDIATRIC MALARIA TREATMENT WITH ARTEMETHER LUMEFANTRINE
 
@@ -539,19 +539,19 @@ Lumefantrine concentrations and other measures of drug exposure are quite variab
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^179dca5d]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^111c1iVJ]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to do not use chloroquine for the treatment of malaria acquired in areas with chloroquine resistance.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^d9d824c2]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^116ZxuyB]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to administer IV quinidine gluconate plus either doxycycline, clindamycin, or tetracycline as a treatment option in patients with severe malaria. Administer IV artesunate followed by either doxycycline, atovaquone-proguanil, mefloquine, or clindamycin as an alternative option.
 
 ---
 
-### Dihydroartemisinin-piperaquine for treating uncomplicated plasmodium falciparum malaria [^8750dbda]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Dihydroartemisinin-piperaquine for treating uncomplicated plasmodium falciparum malaria [^114TcVJR]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -583,13 +583,13 @@ In Africa, dihydroartemisinin-piperaquine reduces overall treatment failure comp
 
 ---
 
-### Effect of body weight and age on the pharmacokinetics of dihydroartemisinin: food and drug administration basis for dose determination of artesunate for injection in pediatric patients with severe malaria [^124c8564]. Clinical Infectious Diseases (2021). Medium credibility.
+### Effect of body weight and age on the pharmacokinetics of dihydroartemisinin: food and drug administration basis for dose determination of artesunate for injection in pediatric patients with severe malaria [^111U8Upj]. Clinical Infectious Diseases (2021). Medium credibility.
 
 For treatment of severe malaria, the World Health Organization recommends 3 mg/kg intravenous artesunate in pediatric patients weighing less than 20 kg. Here we describe the Food and Drug Administration's rationale for selecting 2.4 mg/kg in pediatric patients weighing less than 20 kg based on literature review and independent analyses.
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^3c65d9e4]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^112YYU8T]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Search methods for identification of studies
 
@@ -622,13 +622,13 @@ Two review authors independently reviewed the results of the literature search f
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^379225bb]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^112RPQgS]. HIV.gov (2025). High credibility.
 
 Pediatric HIV malaria — special populations: Because primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen, patients with prior Plasmodium vivax or Plasmodium ovale infection remain at risk of malaria "months to years after arrival in the United States". For refugees from sub-Saharan Africa who did not receive pre-departure therapy, "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended".
 
 ---
 
-### Intermittent preventive treatment for malaria in infants [^a52f8294]. The Cochrane Database of Systematic Reviews (2021). Medium credibility.
+### Intermittent preventive treatment for malaria in infants [^115Dtv51]. The Cochrane Database of Systematic Reviews (2021). Medium credibility.
 
 Abstract
 
@@ -666,7 +666,7 @@ In areas of sub‐Saharan Africa, giving antimalarial drugs known to be effectiv
 
 ---
 
-### Intermittent preventive treatment for malaria in infants [^0ce66230]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Intermittent preventive treatment for malaria in infants [^111L8Ecf]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -698,25 +698,25 @@ In areas of sub-Saharan Africa, giving antimalarial drugs known to be effective 
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^28761349]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1122zAZn]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — For P. vivax or P. ovale, primaquine 0.5 mg/kg base (0.8 mg/kg salt) up to adult dose orally, daily for 14 days after departure from the malarious area is described; this regimen, known as PART, is recommended only for individuals who have resided in a malaria-endemic area for an extended period of time, with adult dose 30 mg base (52.6 mg salt) orally, daily for 14 days after departure from the malarious area; last reviewed November 6, 2013.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1f408151]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^111oLHQ4]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria prophylaxis — general applicability and formulation notes — state that recommendations are the same for HIV-infected and HIV-uninfected children, and chloroquine phosphate is the only formulation of chloroquine available in the United States; 10 mg of chloroquine phosphate = 6 mg of chloroquine base.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^127ca873]. Department of Health and Human Services (2013). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV: malaria [^111UQecA]. Department of Health and Human Services (2013). Medium credibility.
 
 Regarding specific circumstances for malaria infection, more specifically with respect to patients with HIV (pediatric patients), CDC/HIVMA/IDSA/NIH 2013 guidelines recommend to provide pre-travel counseling, including information on insecticide-treated bed nets, N, N-Diethyl-meta-toluamide, and country-specific antimalarial prophylaxis, in families traveling to malaria-endemic countries.
 
 ---
 
-### Artemether for severe malaria [^774407c6]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Artemether for severe malaria [^1143pNsf]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Abstract
 
@@ -770,19 +770,19 @@ All published trials found in the last search (7 Sep, 2018) were included, and w
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^374fcc7a]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^112R1873]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Unknown species malaria — management in pediatric travelers — advises that clinicians should always treat for chloroquine-resistant Plasmodium falciparum malaria if reliable species identification is not possible or the patient is severely ill after travel to a region where such resistance is present (AIII).
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^271c524c]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^111zz2jm]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Special populations — Because "primaquine is not routinely prescribed for immigrants as part of a post-treatment/pre-departure regimen", patients with prior "P. vivax or P. ovale infection in the past would be at continued risk of developing malaria months to years after arrival in the United States". "Presumptive treatment on arrival (preferable) or laboratory screening to detect Plasmodium infection is recommended for refugees originating in sub-Saharan Africa who have not received pre-departure therapy with a recommended regimen".
 
 ---
 
-### Artemether for severe malaria [^28ae775f]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Artemether for severe malaria [^1123K79g]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -814,49 +814,49 @@ Artemether appears to be more effective than quinine in children and adults. Art
 
 ---
 
-### WHO guidelines for malaria [^b11cddf1]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^115XaWFi]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding medical management for malaria infection, more specifically with respect to management of severe malaria (antimalarial treatment), WHO 2024 guidelines recommend to administer IV or IM artesunate for at least 24 hours for the treatment of adult patients with severe malaria (including infants, pregnant patients in all trimesters, and lactating patients) until they can tolerate oral medication. Complete treatment with 3 days of artemisinin-based combination therapy once the patient has received at least 24 hours of parenteral therapy and can tolerate oral therapy.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^b136425d]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^115Xj2wE]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria secondary prophylaxis for Plasmodium vivax or P. ovale uses primaquine 0.5 mg/kg base (0.8 mg/kg salt) up to adult dose, orally, daily for 14 days after departure from the malarious area; this regimen is "recommended only for individuals who have resided in a malaria-endemic area for an extended period of time", with adult dose 30 mg base (52.6 mg salt) orally, daily for 14 days after departure from the malarious area.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^0269507b]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1114aMFg]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Uncomplicated Plasmodium falciparum or unknown malaria species from chloroquine-resistant areas or unknown region — atovaquone-proguanil (pediatric tablets 62.5 mg/25 mg; adult tablets 250 mg/100 mg) is dosed once daily as follows: 5–8 kg: 2 pediatric tablets for 3 days; 9–10 kg: 3 pediatric tablets for 3 days; 11–20 kg: 1 adult tablet or 4 pediatric tablets for 3 days; 21–30 kg: 2 adult tablets for 3 days; 31–40 kg: 3 adult tablets for 3 days; > 40 kg: 4 adult tablets for 3 days. For quinine-based regimens, doxycycline or tetracycline should be used only in children aged ≥ 8 years; an alternative for children aged ≥ 8 years is clindamycin 7 mg/kg body weight per dose by mouth given every 8 hours, and clindamycin should be used for children aged < 8 years.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^3c4e717c]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^112YQc7D]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — high-risk groups and prophylaxis for travelers: United States-born children visiting family in malaria-endemic regions are at highest risk of malaria infection, and children of foreign citizenship, children of unknown resident status, and adopted children from countries of endemic malaria transmission are also at high risk; families should be prepared with malaria chemoprophylaxis and educated with travel advice before returning to endemic areas (AII). Naturally acquired immunity develops after age 5 years in people who reside in areas of stable malaria transmission, is partial, wanes quickly after leaving endemic areas, and may not be present in HIV-infected populations with advanced immunodeficiency; therefore, both adults and children living in the United States who were born in malaria-endemic areas should be prescribed the same prophylaxis as any other patients traveling to malaria-endemic areas.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^fb16c650]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^117RFYRM]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria prophylaxis formulation and applicability notes indicate that chloroquine phosphate is the only formulation of chloroquine available in the United States; 10 mg of chloroquine phosphate = 6 mg of chloroquine base, and recommendations are the same for HIV-infected and HIV-uninfected children.
 
 ---
 
-### WHO guidelines for malaria [^5a849ecd]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^113KCS1r]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding medical management for malaria infection, more specifically with respect to management of severe malaria (antimalarial treatment), WHO 2024 guidelines recommend to administer artemether in preference to quinine for the treatment of adult patients with severe malaria if artesunate is not available.
 
 ---
 
-### WHO guidelines for malaria [^9c375381]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^114zbeoa]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding medical management for malaria infection, more specifically with respect to management of severe malaria (antimalarial treatment), WHO 2024 guidelines recommend to do not use rectal artesunate in adult patients with severe malaria.
 
 ---
 
-### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^5c0a180e]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^113MTFaD]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 Clear translation of findings from PK/PD analyses into predicted improvements in treatment outcomes has led to policy changes in antimalarial dosing guidelines
 
@@ -864,13 +864,13 @@ PK/PD model‐informed dosing of antimalarials has become a valued tool for anti
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^796d4919]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^11472D9r]. HIV.gov (2025). High credibility.
 
 Pediatric HIV malaria — preventing recurrence: "Except for re-activation of P. vivax and P. ovale hypnozoites, malaria once successfully treated does not recur, unless re-exposure and re-infection occur". Moreover, "One or even several episodes of malaria infection does not imply protective immunity, and continued exposure to malaria parasites can result in repeated infection, which should be treated as aggressively as the initial event".
 
 ---
 
-### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^5b4ce12e]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
+### Malaria PK / PD and the role pharmacometrics can play in the global health arena: malaria treatment regimens for vulnerable populations [^113LMhP3]. Clinical Pharmacology and Therapeutics (2021). Medium credibility.
 
 PEDIATRIC MALARIA TREATMENT WITH DIHYDROARTEMISININ PIPERAQUINE
 
@@ -878,13 +878,13 @@ As previously described, PK/PD models are well‐suited to determine the correct
 
 ---
 
-### The treatment of imported malaria in children: an update [^d43f2a09]. Archives of Disease in Childhood: Education and Practice Edition (2013). Low credibility.
+### The treatment of imported malaria in children: an update [^116RfbHJ]. Archives of Disease in Childhood: Education and Practice Edition (2013). Low credibility.
 
 Since the 2010 publication in this journal of a review of the management of imported malaria for U.K. children, new evidence for the treatment of both severe and uncomplicated malaria has been published. This review discusses these new data and expands the scope of the previous review to include non-endemic countries outside of the U.K. The results of the AQUAMAT trial in late 2010 and other studies have prompted the WHO to recommend that intravenous artesunate be used preferentially over quinine for the treatment of severe malaria caused by any Plasmodium species in both adults and children. Oral artemisinin-based combination therapies have also shown equivalent (if not better) efficacy in the treatment of uncomplicated malaria caused by all Plasmodium species (including chloroquine-resistant P vivax) in both adults and children, though there are issues regarding the availability of artemisinin-based combination therapies in many non-endemic countries. In these instances, conventional therapeutic regimens continue to be efficacious. Lastly, the use of primaquine for hypnozoite and gametocyte eradication is discussed.
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^3e01e179]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^112avs7W]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Results
 
@@ -901,7 +901,7 @@ Study flow diagram.
 
 ---
 
-### Management of severe paediatric malaria in resource-limited settings [^1b4397b0]. BMC Medicine (2015). Low credibility.
+### Management of severe paediatric malaria in resource-limited settings [^111hRNRD]. BMC Medicine (2015). Low credibility.
 
 Adjunctive therapies in severe malaria
 
@@ -909,31 +909,31 @@ The outcome of severe malaria is largely determined by the complications and num
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^8652b1cf]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^114S97nN]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — presumptive management, hypnozoite therapy, and safety testing: Treat for presumptive chloroquine-resistant P. falciparum malaria in symptomatic patients who have traveled to a region with chloroquine-resistant P. falciparum and for whom reliable identification of the malaria species is not possible or who are severely ill (AIII). After initial treatment for Plasmodium vivax and Plasmodium ovale (same as for uncomplicated P. falciparum), primaquine is recommended for treatment of the dormant liver stage (hypnozoites) (AIII), and glucose-6-phosphate dehydrogenase deficiency must be excluded before use of primaquine because of risk of severe hemolytic anemia (AIII).
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^b73f70ef]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^115gg3WE]. HIV.gov (2025). High credibility.
 
 Malaria despite chemoprophylaxis — treatment selection: Medication used for chemoprophylaxis should not be used as a part of a new treatment regimen in individuals who develop malaria despite taking chemoprophylaxis; rather, treatment with one of the other options is recommended.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^c0aafcba]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^115ve4Cy]. HIV.gov (2025). High credibility.
 
 Malaria — prevention recommendations equivalence by HIV status: Recommendations for preventing exposure and for primary chemoprophylaxis are identical for HIV-infected and HIV-uninfected individuals.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^6255b271]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^113Wna8Y]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Severe malaria — definition and clinical features — is defined as acute malaria "with signs of severity and/or evidence of vital organ dysfunction", most often caused by P. falciparum but also caused by P. vivax or mixed infections, and may include hyperparasitemia (> 5%) and severe anemia (hemoglobin < 7 g/dL) among other abnormalities.
 
 ---
 
-### When to transition to oral… [^02a01a0b]. CDC (2024). Medium credibility.
+### When to transition to oral… [^1114tkbc]. CDC (2024). Medium credibility.
 
 Key points
 - Patients with any manifestations of severe malaria should be treated promptly and aggressively with intravenous antimalarial therapy.
@@ -948,7 +948,7 @@ Clinicians can consider placement of nasogastric tube or use of antiemetics to f
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^4906332c]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^112sGBMd]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Potential biases in the review process
 
@@ -960,19 +960,19 @@ The current review is in line with a systematic review and meta‐analysis that 
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^5e44bff6]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^113Qkvr1]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — uncomplicated P. falciparum or unknown malaria species from chloroquine-resistant areas (all malaria areas except those listed as chloroquine sensitive) or unknown region: atovaquone-proguanil (pediatric tablets 62.5 mg/25 mg; adult tablets 250 mg/100 mg), dosed once daily, with weight-band dosing for 3 days as follows: 5–8 kg: 2 pediatric tablets; 9–10 kg: 3 pediatric tablets; 11–20 kg: 4 pediatric tablets or 1 adult tablet; 21–30 kg: 2 adult tablets; 31–40 kg: 3 adult tablets; > 40 kg: 4 adult tablets. For chloroquine-sensitive regions: chloroquine phosphate 16.6 mg/kg body weight (10 mg/kg body weight chloroquine base) (maximum 1000 mg) by mouth once, then 8.3 mg/kg body weight (maximum 500 mg) by mouth at 6, 24, and 48 hours (total dose = 41.6 mg/kg body weight).
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^50a62dfa]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1134Zpz5]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria primary prophylaxis — areas with mainly Plasmodium vivax in HIV-exposed and HIV-infected children — uses primaquine phosphate 0.6 mg/kg body weight base once daily by mouth, up to a maximum of 30 mg base/day, starting 1 day before leaving, taken daily, and for 3–7 days after return; G6PD screening must be performed prior to primaquine use; for travel to chloroquine-sensitive areas, equally recommended options include chloroquine, atovaquone/proguanil, doxycycline (for children aged ≥ 8 years), and mefloquine; primaquine is recommended for areas with mainly P. vivax.
 
 ---
 
-### Malaria prevalence among young infants in different transmission settings, Africa [^1c4dbafb]. Emerging Infectious Diseases (2015). Low credibility.
+### Malaria prevalence among young infants in different transmission settings, Africa [^111ixmCe]. Emerging Infectious Diseases (2015). Low credibility.
 
 We have shown that malaria in young infants is not rare, can be symptomatic, and has major health consequences, most notably anemia. Current World Health Organization guidelines recommend the use of ACTs in infants, but they specify that for young infants weighing < 5 kg, the available evidence is insufficient to confidently recommend this treatment. Thus, many of the ACTs carry label restrictions saying they should not be used for infants weighing < 5 kg. This restriction is problematic because a substantial proportion (40%) of the infants in these surveys weighed < 5 kg and would therefore not meet standard criteria for treatment with ACTs. In addition, there are few pediatric ACT formulations, and the dosing is often difficult. Therefore, data on the efficacy and safety of ACTs in young infants is urgently needed to inform optimal treatment.
 
@@ -980,13 +980,13 @@ The tools used in our study provided comparable estimates of the prevalence of m
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^ea7302e1]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^116zajYU]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — comments/special issues for P. vivax/P. ovale/P. malariae/P. knowlesi: Treatment should be selected from one of the three following options: atovaquone‑proguanil plus primaquine phosphate; quinine sulfate plus EITHER doxycycline OR tetracycline PLUS primaquine phosphate. This regimen cannot be used in children aged < 8 years. Mefloquine plus primaquine phosphate.
 
 ---
 
-### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^91558cf6]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Paediatric formulations of artemisinin-based combination therapies for treating uncomplicated malaria in children [^114iTwXK]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Question 2. How safe is the paediatric ACT formulation compared to the non‐paediatric ACT formulation?
 
@@ -1010,25 +1010,25 @@ Question 3. How is tolerability of the paediatric ACT formulation compared to th
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^344497a5]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^112LVPwa]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria — pre-travel counseling, prophylaxis, and antiretroviral interaction considerations in children: Families traveling to malaria-endemic countries should receive pre-travel counseling, including information on insecticide-treated bed nets, N, N-Diethyl-meta-toluamide, and country-specific antimalarial prophylaxis (AIII), and trimethoprim-sulfamethoxazole is not recommended for antimalarial prophylaxis (AIII). Treatment of malaria is based on disease severity, patient age, parasite species, pregnancy status, and local resistance patterns where the malaria infection was acquired (AII). The choice of malaria therapy is not affected by HIV status but can be modified based on potential interactions between antiretroviral and antimalarial drugs (AIII); quinidine is not recommended for patients who are taking ritonavir (AIII) (ritonavir may be replaced if quinidine is needed for severe malaria) and should be administered with caution with atazanavir, darunavir and fosamprenavir (AIII).
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^fa0234b0]. MMWR: Recommendations and Reports (2009). Low credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^117PeeRd]. MMWR: Recommendations and Reports (2009). Low credibility.
 
 This report updates and combines into one document earlier versions of guidelines for preventing and treating opportunistic infections (OIs) among HIV-exposed and HIV-infected children, last published in 2002 and 2004, respectively. These guidelines are intended for use by clinicians and other health-care workers providing medical care for HIV-exposed and HIV-infected children in the United States. The guidelines discuss opportunistic pathogens that occur in the United States and one that might be acquired during international travel (i.e., malaria). Topic areas covered for each OI include a brief description of the epidemiology, clinical presentation, and diagnosis of the OI in children; prevention of exposure; prevention of disease by chemoprophylaxis and/or vaccination; discontinuation of primary prophylaxis after immune reconstitution; treatment of disease; monitoring for adverse effects during treatment; management of treatment failure; prevention of disease recurrence; and discontinuation of secondary prophylaxis after immune reconstitution. A separate document about preventing and treating of OIs among HIV-infected adults and postpubertal adolescents (Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-Infected Adults and Adolescents) was prepared by a working group of adult HIV and infectious disease specialists. The guidelines were developed by a panel of specialists in pediatric HIV infection and infectious diseases (the Pediatric Opportunistic Infections Working Group) from the U.S. government and academic institutions. For each OI, a pediatric specialist with content-matter expertise reviewed the literature for new information since the last guidelines were published; they then proposed revised recommendations at a meeting at the National Institutes of Health (NIH) in June 2007. After these presentations and discussions, the guidelines underwent further revision, with review and approval by the Working Group, and final endorsement by NIH, CDC, the HIV Medicine Association (HIVMA) of the Infectious Diseases Society of America (IDSA), the Pediatric Infectious Disease Society (PIDS), and the American Academy of Pediatrics (AAP). The recommendations are rated by a letter that indicates the strength of the recommendation and a Roman numeral that indicates the quality of the evidence supporting the recommendation so readers can ascertain how best to apply the recommendations in their practice environments. An important mode of acquisition of OIs, as well as HIV infection among children, is from their infected mother; HIV-infected women coinfected with opportunistic pathogens might be more likely than women without HIV infection to transmit these infections to their infants. In addition, HIV-infected women or HIV-infected family members coinfected with certain opportunistic pathogens might be more likely to transmit these infections horizontally to their children, resulting in increased likelihood of primary acquisition of such infections in the young child. Therefore, infections with opportunistic pathogens might affect not just HIV-infected infants but also HIV-exposed but uninfected infants who become infected by the pathogen because of transmission from HIV-infected mothers or family members with coinfections. These guidelines for treating OIs in children therefore consider treatment of infections among all children, both HIV-infected and uninfected, born to HIV-infected women. Additionally, HIV infection is increasingly seen among adolescents with perinatal infection now surviving into their teens and among youth with behaviorally acquired HIV infection. Although guidelines for postpubertal adolescents can be found in the adult OI guidelines, drug pharmacokinetics and response to treatment may differ for younger prepubertal or pubertal adolescents. Therefore, these guidelines also apply to treatment of HIV-infected youth who have not yet completed pubertal development. Major changes in the guidelines include 1) greater emphasis on the importance of antiretroviral therapy for preventing and treating OIs, especially those OIs for which no specific therapy exists; 2) information about the diagnosis and management of immune reconstitution inflammatory syndromes; 3) information about managing antiretroviral therapy in children with OIs, including potential drug — drug interactions; 4) new guidance on diagnosing of HIV infection and presumptively excluding HIV infection in infants that affect the need for initiation of prophylaxis to prevent Pneumocystis jirovecii pneumonia (PCP) in neonates; 5) updated immunization recommendations for HIV-exposed and HIV-infected children, including hepatitis A, human papillomavirus, meningococcal, and rotavirus vaccines; 6) addition of sections on aspergillosis; bartonella; human herpes virus-6, -7, and -8; malaria; and progressive multifocal leukodystrophy (PML); and 7) new recommendations on discontinuation of OI prophylaxis after immune reconstitution in children. The report includes six tables pertinent to preventing and treating OIs in children and two figures describing immunization recommendations for children aged 0–6 years and 7–18 years. Because treatment of OIs is an evolving science, and availability of new agents or clinical data on existing agents might change therapeutic options and preferences, these recommendations will be periodically updated and will be available at http://AIDSInfo.nih.gov.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^93013199]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^114kwagY]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria primary prophylaxis — areas with mainly P. vivax recommends primaquine phosphate 0.6 mg/kg body weight base once daily by mouth, up to a maximum of 30 mg base/day, starting 1 day before leaving, taken daily, and for 3–7 days after return; G6PD screening must be performed prior to primaquine use.
 
 ---
 
-### Chloroquine dosing recommendations for pediatric COVID-19 supported by modeling and simulation [^32aff9b2]. Clinical Pharmacology and Therapeutics (2020). Medium credibility.
+### Chloroquine dosing recommendations for pediatric COVID-19 supported by modeling and simulation [^112J9VNH]. Clinical Pharmacology and Therapeutics (2020). Medium credibility.
 
 Discussion
 
@@ -1040,19 +1040,19 @@ As the dosing schedule proposes higher mg/kg doses than the currently licensed p
 
 ---
 
-### What causes severe malaria and its complications in children? Lessons learned over the past 15 years [^35bb6551]. BMC Medicine (2019). Medium credibility.
+### What causes severe malaria and its complications in children? Lessons learned over the past 15 years [^112NfHha]. BMC Medicine (2019). Medium credibility.
 
 Over the past 15 years, malaria mortality has reduced by approximately 50%. However, malaria still causes more than 400,000 deaths annually, most of which occur in African children under 5 years of age. Significant advances in understanding the pathogenesis of the disease provide a basis for future work to prevent severe malaria and its complications. Herein, we provide an overview of advances in our understanding of severe malaria in African children over the past 15 years, highlighting key complications and identifying priorities to further reduce malaria-associated mortality.
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^1af1d98c]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children: recommendations from CDC, the National Institutes of Health, the HIV Medicine Association of the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the American Academy of Pediatrics [^111gwuwZ]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Malaria in HIV-infected children — antimalarial adverse effects and monitoring — Following antimalarial therapy, HIV-infected children should be monitored closely for hematologic complications (especially anemia and neutropenia), which are more frequent because of both the direct hematologic effects of HIV infection and of HIV treatment with other bone-marrow-suppressive drugs such as TMP-SMX and zidovudine. Tinnitus alone, a common (50%–75%) adverse reaction to both oral and IV quinine, usually resolves after treatment, and use of mefloquine at treatment doses may be associated with neuropsychiatric symptoms. Many of the adverse events associated with quinine are dose-related, and because of age-related differences in the rate at which quinine is eliminated from the body, the frequency and severity of adverse effects associated with quinine drug products may be lower in children. Immune reconstitution inflammatory syndrome caused by malaria has not been reported.
 
 ---
 
-### Artemether for severe malaria [^baad40c8]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Artemether for severe malaria [^115mktf9]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -1084,13 +1084,13 @@ Although there is a lack of direct evidence comparing artemether with artesunate
 
 ---
 
-### Evidence based optimal dosing of intravenous artesunate in children with severe falciparum malaria [^6cea007d]. Clinical Pharmacology and Therapeutics (2023). Medium credibility.
+### Evidence based optimal dosing of intravenous artesunate in children with severe falciparum malaria [^113nUGAG]. Clinical Pharmacology and Therapeutics (2023). Medium credibility.
 
 The majority of deaths from malaria are in young African children. Parenteral artesunate (ARS) is the first-line treatment for severe falciparum malaria. Since 2015, the World Health Organization has recommended individual doses of 3mg/kg for children weighing < 20kg. Recently, the US Food and Drug Administration (FDA) has challenged this recommendation, based on a simulated pediatric population, and argued for a lower dose in younger children (2.4mg/kg). In this study, we performed population pharmacokinetic (PK) modeling of plasma concentration data from 80 children with severe falciparum malaria in the Democratic Republic of Congo who were given 2.4mg/kg of ARS intravenously. Bayesian hierarchical modeling and a two-compartment parent drug-metabolite PK model for ARS were used to describe the population PKs of ARS and its main biologically active metabolite dihydroartemisinin. We then generated a virtual population representative of the target population in which the drug is used and simulated the total first-dose exposures. Our study shows that the majority of younger children given the lower 2.4mg/kg dose of intravenous ARS do not reach the same drug exposures as older children above 20kg. This finding supports withdrawal of the FDA's recent lower ARS dose recommendation as parenteral ARS is an extremely safe and well-tolerated drug and there is potential for harm from underdosing in this rapidly lethal infection.
 
 ---
 
-### Artemether for severe malaria [^d23deb9b]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Artemether for severe malaria [^116NhCV8]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -1134,7 +1134,7 @@ Although there is a lack of direct evidence comparing artemether with artesunate
 
 ---
 
-### Treatment of uncomplicated malaria… [^e2b6938c]. CDC (2025). Medium credibility.
+### Treatment of uncomplicated malaria… [^116o7XZd]. CDC (2025). Medium credibility.
 
 P. falciparum infections acquired in areas with chloroquine resistance, four treatment options are available. These include artemether-lumefantrine, which is the preferred option if readily available, and atovaquone-proguanil. These are fixed-dose combination therapies that can be used for pediatric patients ≥ 5 kg. For pediatric patients, the treatment options are the same as for adults except the drug dose is adjusted by patient weight, and artemether-lumefantrine and atovaquone-proguanil can only be used in children ≥ 5 kg. The pediatric dose should never exceed the recommended adult dose. Pediatric dosing with quinine may be difficult due to unavailability of non-capsule forms of this antimalarial. If using a quinine-based regimen for children less than eight years old, doxycycline and tetracycline are generally not recommended; therefore, quinine can be given in combination with clindamycin as recommended above.
 
@@ -1144,24 +1144,24 @@ In addition, for children < 8 years of age, doxycycline and tetracycline are gen
 
 ---
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^12b7027a]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^111UkFPX]. HIV.gov (2025). High credibility.
 
 Pediatric malaria treatment — first-choice dosing for children with or exposed to HIV includes Primaquine 0.5 mg base/kg body weight (max 30 mg base) by mouth once daily for 14 days. For Uncomplicated P. falciparum or Unknown Malaria Species from Chloroquine-Resistant Areas (All Malaria Areas Except Those Listed as Chloroquine Sensitive) or Unknown Region, options include Mefloquine (250-mg tablets only): 15 mg/kg body weight (maximum 750 mg) by mouth once, then 10 mg/kg body weight (maximum 500 mg) by mouth given 12 hours later. Options also include Quinine sulfate 10 mg/kg body weight (maximum 650 mg) per dose by mouth every 8 hours for 3 to 7 days, plus Clindamycin 7 mg/kg body weight per dose by mouth every 8 hours for 7 days, or doxycycline: 2.2 mg/kg body weight per dose (maximum 100 mg) given by mouth every 12 hours, or tetracycline 6–12.5 mg/kg body weight per dose by mouth given every 6 hours (maximum dose: 500 mg per dose given 4 times daily) for 7 days. Artemether-lumefantrine: 1 tablet = 20 mg Artemether and 120 mg lumefantrine, a 3-day treatment schedule for a total of 6 doses; the second dose follows the initial dose 8 hours later, then 1 dose twice daily for the next 2 days, with weight-based dosing of 5 to < 15 kg; 1 tablet per dose, 15 to < 25 kg; 2 tablets per dose, 25 to < 35 kg; 3 tablets per dose, and > 35 kg; 4 tablets per dose.
 
 ---
 
-### Management of severe paediatric malaria in resource-limited settings [^c5747b49]. BMC Medicine (2015). Low credibility.
+### Management of severe paediatric malaria in resource-limited settings [^1163jgm6]. BMC Medicine (2015). Low credibility.
 
 Over 90% of the world's severe and fatal Plasmodium falciparum malaria is estimated to affect young children in sub-Sahara Africa, where it remains a common cause of hospital admission and inpatient mortality. Few children will ever be managed on high dependency or intensive care units and, therefore, rely on simple supportive treatments and parenteral anti-malarials. There has been some progress on defining best practice for antimalarial treatment with the publication of the AQUAMAT trial in 2010, involving 5,425 children at 11 centres across 9 African countries, showing that in artesunate-treated children, the relative risk of death was 22.5% (95% confidence interval (CI) 8.1 to 36.9) lower than in those receiving quinine. Human trials of supportive therapies carried out on the basis of pathophysiology studies, have so far made little progress on reducing mortality; despite appearing to reduce morbidity endpoints, more often than not they have led to an excess of adverse outcomes. This review highlights the spectrum of complications in African children with severe malaria, the therapeutic challenges of managing these in resource-poor settings and examines in-depth the results from clinical trials with a view to identifying the treatment priorities and a future research agenda.
 
 ---
 
-### Management of severe paediatric malaria in resource-limited settings [^3277380f]. BMC Medicine (2015). Low credibility.
+### Management of severe paediatric malaria in resource-limited settings [^112HpRfU]. BMC Medicine (2015). Low credibility.
 
 Over 90% of the world's severe and fatal Plasmodium falciparum malaria is estimated to affect young children in sub-Sahara Africa, where it remains a common cause of hospital admission and inpatient mortality. Few children will ever be managed on high dependency or intensive care units and, therefore, rely on simple supportive treatments and parenteral anti-malarials. There has been some progress on defining best practice for antimalarial treatment with the publication of the AQUAMAT trial in 2010, involving 5,425 children at 11 centres across 9 African countries, showing that in artesunate-treated children, the relative risk of death was 22.5% (95% confidence interval (CI) 8.1 to 36.9) lower than in those receiving quinine. Human trials of supportive therapies carried out on the basis of pathophysiology studies, have so far made little progress on reducing mortality; despite appearing to reduce morbidity endpoints, more often than not they have led to an excess of adverse outcomes. This review highlights the spectrum of complications in African children with severe malaria, the therapeutic challenges of managing these in resource-poor settings and examines in-depth the results from clinical trials with a view to identifying the treatment priorities and a future research agenda.
 
 ---
 
-### WHO guidelines for malaria [^f692963c]. Geneva: World Health Organization (2024). High credibility.
+### WHO guidelines for malaria [^117JZC4s]. Geneva: World Health Organization (2024). High credibility.
 
 Regarding medical management for malaria infection, more specifically with respect to management of severe malaria (antimalarial treatment), WHO 2024 guidelines recommend to administer a single IM dose of artesunate in adult patients if complete treatment of severe malaria is not possible but injections are available, and refer them to an appropriate facility for further care. Administer IM artemether if IM artesunate is not available. Administer IM quinine if IM artemether is not available.

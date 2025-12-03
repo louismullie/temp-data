@@ -23,37 +23,37 @@ D. Perform a diagnostic peritoneal lavage
 
 > Let's see… What do we have here? The user is asking about the most appropriate next step in managing a hemodynamically unstable trauma patient with persistent hypotension despite fluids and a positive FAST showing retroperitoneal fluid. Let's break this down step-by-step. First, I need to think about the clinical scenario and whether this represents hemorrhagic shock requiring emergent source control. Then, I should verify what FAST can and cannot detect, especially regarding retroperitoneal bleeding. Next, I will review guideline-based algorithms for unstable trauma with suspected intra-abdominal or retroperitoneal hemorrhage. After that, I need to weigh each answer choice against those algorithms and the patient's stability. Finally, I will confirm the single best action and outline immediate adjuncts and contingencies, including pelvic considerations and damage-control principles.
 
-> Let me first confirm the clinical picture: the patient is in hemorrhagic shock with SBP 78/37 mmHg, tachycardia, altered mentation, and cold, clammy skin, and the hematocrit of 22% supports substantial blood loss; persistent hypotension after initial fluids signals ongoing bleeding and the need for definitive hemorrhage control rather than more fluids or diagnostic delays [^b2ec683f] [^95ba357e].
+> Let me first confirm the clinical picture: the patient is in hemorrhagic shock with SBP 78/37 mmHg, tachycardia, altered mentation, and cold, clammy skin, and the hematocrit of 22% supports substantial blood loss; persistent hypotension after initial fluids signals ongoing bleeding and the need for definitive hemorrhage control rather than more fluids or diagnostic delays [^115aGCkE] [^114pyhdf].
 
-> Wait, let me verify what FAST actually tells us here. FAST is designed to detect free intraperitoneal fluid, not retroperitoneal hematomas, and it has low sensitivity for retroperitoneal bleeding; importantly, a positive FAST in an unstable patient is highly specific for hemoperitoneum and should trigger operative exploration, but retroperitoneal fluid on FAST is not a standard FAST finding and suggests a retroperitoneal source of bleeding that FAST cannot reliably characterize or localize, so I should not anchor on FAST alone for retroperitoneal decisions [^ea6b3e76] [^3b2e0e1f] [^b2ec683f].
+> Wait, let me verify what FAST actually tells us here. FAST is designed to detect free intraperitoneal fluid, not retroperitoneal hematomas, and it has low sensitivity for retroperitoneal bleeding; importantly, a positive FAST in an unstable patient is highly specific for hemoperitoneum and should trigger operative exploration, but retroperitoneal fluid on FAST is not a standard FAST finding and suggests a retroperitoneal source of bleeding that FAST cannot reliably characterize or localize, so I should not anchor on FAST alone for retroperitoneal decisions [^116zY8E1] [^112WjjrW] [^115aGCkE].
 
-> Hold on, let's not jump to conclusions; I should align with algorithms. In hemodynamically unstable blunt trauma, a positive FAST mandates emergent laparotomy for source control, and if FAST is negative but instability persists, we still pursue bleeding control with consideration of retroperitoneal sources, particularly pelvic hemorrhage, using binder, preperitoneal packing, and angioembolization as indicated; CT is not appropriate in unstable patients because it delays definitive therapy, and DPL is obsolete in this context [^b2ec683f] [^3eef03ac] [^cf5a834e].
+> Hold on, let's not jump to conclusions; I should align with algorithms. In hemodynamically unstable blunt trauma, a positive FAST mandates emergent laparotomy for source control, and if FAST is negative but instability persists, we still pursue bleeding control with consideration of retroperitoneal sources, particularly pelvic hemorrhage, using binder, preperitoneal packing, and angioembolization as indicated; CT is not appropriate in unstable patients because it delays definitive therapy, and DPL is obsolete in this context [^115aGCkE] [^112cJWr7] [^116JQqfj].
 
-> I will now examine each option against this framework. Option A, CT with contrast, is incorrect because it will delay operative control in an unstable patient; CT is reserved for stable patients or for completing evaluation after initial hemorrhage control, not as a next step in ongoing shock [^3eef03ac] [^b2ec683f]. Option C, retrograde urethrogram, is a distraction; urethral injury evaluation does not address the life threat of retroperitoneal hemorrhage and should not delay source control in shock [^3eef03ac]. Option D, diagnostic peritoneal lavage, is outdated and adds no value when FAST already suggests intra-abdominal pathology and the patient needs operative management; DPL has been largely replaced by FAST in modern algorithms [^4d9d8fa0] [^b2ec683f].
+> I will now examine each option against this framework. Option A, CT with contrast, is incorrect because it will delay operative control in an unstable patient; CT is reserved for stable patients or for completing evaluation after initial hemorrhage control, not as a next step in ongoing shock [^112cJWr7] [^115aGCkE]. Option C, retrograde urethrogram, is a distraction; urethral injury evaluation does not address the life threat of retroperitoneal hemorrhage and should not delay source control in shock [^112cJWr7]. Option D, diagnostic peritoneal lavage, is outdated and adds no value when FAST already suggests intra-abdominal pathology and the patient needs operative management; DPL has been largely replaced by FAST in modern algorithms [^112z4yEf] [^115aGCkE].
 
-> Let me think about Option B, exploratory laparotomy, and make sure I'm not missing a better first move. Given persistent shock with a positive FAST (even if the fluid is retroperitoneal rather than intraperitoneal), the safest, guideline-concordant next step is immediate laparotomy to identify and control the bleeding source; retroperitoneal hematomas from blunt trauma are managed selectively, but instability overrides conservatism and mandates exploration, with the caveat that if a Zone II hematoma is encountered and is not expanding or pulsatile, it may be left undisturbed, whereas instability or active bleeding warrants exploration and repair [^b2ec683f] [^cf5a834e] [^c587f91d].
+> Let me think about Option B, exploratory laparotomy, and make sure I'm not missing a better first move. Given persistent shock with a positive FAST (even if the fluid is retroperitoneal rather than intraperitoneal), the safest, guideline-concordant next step is immediate laparotomy to identify and control the bleeding source; retroperitoneal hematomas from blunt trauma are managed selectively, but instability overrides conservatism and mandates exploration, with the caveat that if a Zone II hematoma is encountered and is not expanding or pulsatile, it may be left undisturbed, whereas instability or active bleeding warrants exploration and repair [^115aGCkE] [^116JQqfj] [^1163rEVA].
 
-> But wait, what if the bleeding is pelvic rather than intraperitoneal; should I pivot to pelvic-specific hemorrhage control first? I should double-check: in unstable patients with suspected pelvic hemorrhage, contemporary pathways endorse simultaneous or near-simultaneous pelvic stabilization with a binder or sheet, activation of massive transfusion, and early angioembolization or preperitoneal packing if instability persists; however, in the absence of a clear pelvic fracture or isolated pelvic source and with a positive FAST suggesting an abdominal process, exploratory laparotomy remains the most appropriate initial definitive step to identify and control the bleeding source, with pelvic maneuvers initiated in parallel as indicated [^cf5a834e] [^999dc00b] [^06e2e05b].
+> But wait, what if the bleeding is pelvic rather than intraperitoneal; should I pivot to pelvic-specific hemorrhage control first? I should double-check: in unstable patients with suspected pelvic hemorrhage, contemporary pathways endorse simultaneous or near-simultaneous pelvic stabilization with a binder or sheet, activation of massive transfusion, and early angioembolization or preperitoneal packing if instability persists; however, in the absence of a clear pelvic fracture or isolated pelvic source and with a positive FAST suggesting an abdominal process, exploratory laparotomy remains the most appropriate initial definitive step to identify and control the bleeding source, with pelvic maneuvers initiated in parallel as indicated [^116JQqfj] [^114vk6La] [^111BD8bk].
 
-> I should confirm immediate actions to take en route to the OR: activate massive transfusion, apply a pelvic binder if pelvic instability is suspected, continue damage-control resuscitation with blood products, and avoid excessive crystalloids; these steps reduce time to hemorrhage control and mitigate the lethal triad while preparing for operative exploration [^cf5a834e] [^86a10e3b].
+> I should confirm immediate actions to take en route to the OR: activate massive transfusion, apply a pelvic binder if pelvic instability is suspected, continue damage-control resuscitation with blood products, and avoid excessive crystalloids; these steps reduce time to hemorrhage control and mitigate the lethal triad while preparing for operative exploration [^116JQqfj] [^114SbSNv].
 
-> In summary, I need to ensure the decision is consistent with evidence and guidelines: persistent hemorrhagic shock with a positive FAST, even when the fluid is retroperitoneal, mandates emergent exploratory laparotomy for source control; CT, urethrography, and DPL are inappropriate next steps in this unstable scenario, and pelvic-specific hemorrhage control should be layered in parallel when indicated [^b2ec683f] [^3eef03ac] [^1007b504].
+> In summary, I need to ensure the decision is consistent with evidence and guidelines: persistent hemorrhagic shock with a positive FAST, even when the fluid is retroperitoneal, mandates emergent exploratory laparotomy for source control; CT, urethrography, and DPL are inappropriate next steps in this unstable scenario, and pelvic-specific hemorrhage control should be layered in parallel when indicated [^115aGCkE] [^112cJWr7] [^111QmPf1].
 
 ---
 
-The correct answer is **B. Take the patient to the OR for an exploratory laparotomy**. In a hemodynamically unstable trauma patient with persistent hypotension despite fluids and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate operative exploration** to identify and control the source of bleeding [^b2ec683f]. Retroperitoneal fluid in this context suggests a major retroperitoneal hemorrhage — often from renal or pelvic vessels — which can be rapidly fatal if not addressed surgically [^notfound]. CT scan is contraindicated in unstable patients because it delays definitive care, and DPL is not indicated when FAST is already positive [^3eef03ac]. A retrograde urethrogram is not urgent and should not delay hemorrhage control [^532e1451].
+The correct answer is **B. Take the patient to the OR for an exploratory laparotomy**. In a hemodynamically unstable trauma patient with persistent hypotension despite fluids and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate operative exploration** to identify and control the source of bleeding [^115aGCkE]. Retroperitoneal fluid in this context suggests a major retroperitoneal hemorrhage — often from renal or pelvic vessels — which can be rapidly fatal if not addressed surgically [^notfound]. CT scan is contraindicated in unstable patients because it delays definitive care, and DPL is not indicated when FAST is already positive [^112cJWr7]. A retrograde urethrogram is not urgent and should not delay hemorrhage control [^1138KT68].
 
 ---
 
 ## Clinical significance of retroperitoneal fluid on FAST
 
-Retroperitoneal fluid on FAST in a hemodynamically unstable patient is highly concerning and indicates **significant retroperitoneal hemorrhage** — most commonly from renal or pelvic vessel injuries [^d12e1c4e]. Retroperitoneal bleeding can be massive and rapidly fatal due to the large potential space and limited natural tamponade, making early recognition and intervention critical [^b999acfa].
+Retroperitoneal fluid on FAST in a hemodynamically unstable patient is highly concerning and indicates **significant retroperitoneal hemorrhage** — most commonly from renal or pelvic vessel injuries [^116M7uCq]. Retroperitoneal bleeding can be massive and rapidly fatal due to the large potential space and limited natural tamponade, making early recognition and intervention critical [^115kAKyj].
 
 ---
 
 ## Indications for exploratory laparotomy in trauma
 
-According to the American College of Surgeons (ACS) and the Eastern Association for the Surgery of Trauma (EAST), **immediate exploratory laparotomy is indicated** in hemodynamically unstable patients with a positive FAST, regardless of the specific location of fluid [^b2ec683f]. The rationale is that a positive FAST in an unstable patient signifies ongoing intra-abdominal or retroperitoneal hemorrhage requiring surgical control [^b2ec683f].
+According to the American College of Surgeons (ACS) and the Eastern Association for the Surgery of Trauma (EAST), **immediate exploratory laparotomy is indicated** in hemodynamically unstable patients with a positive FAST, regardless of the specific location of fluid [^115aGCkE]. The rationale is that a positive FAST in an unstable patient signifies ongoing intra-abdominal or retroperitoneal hemorrhage requiring surgical control [^115aGCkE].
 
 ---
 
@@ -77,25 +77,25 @@ A retrograde urethrogram is used to evaluate urethral integrity in suspected ure
 
 ## Conclusion and recommendation
 
-Given the patient's hemodynamic instability, persistent hypotension despite fluid resuscitation, and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate exploratory laparotomy** to identify and control the source of bleeding [^b2ec683f]. CT scan, DPL, and retrograde urethrogram are not appropriate in this unstable patient and would delay definitive care [^15552ceb].
+Given the patient's hemodynamic instability, persistent hypotension despite fluid resuscitation, and a positive FAST showing retroperitoneal fluid, the most appropriate next step is **immediate exploratory laparotomy** to identify and control the source of bleeding [^115aGCkE]. CT scan, DPL, and retrograde urethrogram are not appropriate in this unstable patient and would delay definitive care [^111YdMGe].
 
 ---
 
 ## References
 
-### Best practices guidelines in imaging [^b2ec683f]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^115aGCkE]. ACS (2018). Medium credibility.
 
 Focused Assessment Sonography in Trauma (FAST) — in hemodynamically unstable trauma patients, FAST is performed to detect intraabdominal free fluid suggestive of hemoperitoneum, and a positive FAST allows quick triage to the operating room for exploratory laparotomy; because FAST has high specificity, an unstable trauma patient with a positive FAST goes to the OR. FAST has acceptable sensitivity (69–98 percent) for detection of free fluid and lower sensitivity (63 percent) for detection of solid organ injury, and obtaining serial FAST examinations increases overall sensitivity (72–93 percent). In stable patients, FAST has limited sensitivity for detecting the presence of an injury that might require intervention, and not all injuries detectable by FAST require intervention.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^156d222f]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^111YmQ1c]. Critical Care (2019). Medium credibility.
 
 A recent retrospective review examined the role of FAST as a screening tool for identifying intra-abdominal injuries. A total of 1671 blunt-trauma patients were assessed over 1.5 years, and intra-abdominal injuries were confirmed in 146 patients using CT and/or laparotomy. Intraoperative findings included injuries to the liver, spleen, kidneys and bowels. Among 114 haemodynamically stable patients, FAST was positive in 25 patients, with a sensitivity of 22%. FAST was positive in 9 of 32 haemodynamically unstable patients, with a sensitivity of 28%. Free peritoneal fluid and splenic injury were associated with a positive FAST on univariate analysis and were independent predictors of a positive FAST on multiple logistic regression. An updated Cochrane review from 2015, including RCTs, assessed the effect of diagnostic algorithms using ultrasonography, including FAST examinations, in the emergency department relative to early, late and overall mortality of patients with suspected blunt abdominal trauma. Four studies were identified, but the trials were of overall poor to moderate methodological quality. Mortality data were pooled from three trials involving 1254 patients; the risk ratio (RR) in favour of the FAST arm was 1.00 [95% confidence interval (CI) 0.50–2.00]. FAST-based pathways reduced the number of CT scans [random-effects model risk difference (RD) − 0.52, 95% CI − 0.83 to − 0.21], but the meaning of this result remained unclear. It is unlikely that FAST will ever be investigated by means of a confirmatory, large-scale RCT; therefore, this review may provide the best available evidence for clinical practice guidelines and management recommendations. From the few published head-to-head studies, it appears that negative ultrasound scans are likely to reduce the incidence of multidetector CT (MDCT) scans, which, given the low sensitivity of FAST (or reliability of negative results), may adversely affect the diagnostic yield of the trauma survey. At best, ultrasound has no negative impact on mortality or morbidity.
 
 ---
 
-### Positive FAST without hemoperitoneum due to fluid resuscitation in blunt trauma [^ada34eb9]. The Journal of Emergency Medicine (2014). Low credibility.
+### Positive FAST without hemoperitoneum due to fluid resuscitation in blunt trauma [^115SRiEt]. The Journal of Emergency Medicine (2014). Low credibility.
 
 Background
 
@@ -115,7 +115,7 @@ This case highlights potential issues specific to resuscitated trauma patients w
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^15552ceb]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^111YdMGe]. Critical Care (2019). Medium credibility.
 
 Rationale
 
@@ -135,7 +135,7 @@ Rationale
 
 ---
 
-### Do we really rely on fast for decision-making in the management of blunt abdominal trauma? [^5772b11a]. Injury (2015). Low credibility.
+### Do we really rely on fast for decision-making in the management of blunt abdominal trauma? [^113EeStq]. Injury (2015). Low credibility.
 
 Introduction
 
@@ -155,7 +155,7 @@ FAST has a very low sensitivity in detecting blunt intraabdominal injury. In hem
 
 ---
 
-### The fast is positive, now what? Derivation of a clinical decision rule to determine the need for therapeutic laparotomy in adults with blunt torso trauma and a positive trauma ultrasound [^15106bdc]. The Journal of Emergency Medicine (2005). Low credibility.
+### The fast is positive, now what? Derivation of a clinical decision rule to determine the need for therapeutic laparotomy in adults with blunt torso trauma and a positive trauma ultrasound [^111YEFqD]. The Journal of Emergency Medicine (2005). Low credibility.
 
 Introduction
 
@@ -175,7 +175,7 @@ In the absence of fluid in the RUQ, there are other clinical variables that may 
 
 ---
 
-### Literature review of the role of ultrasound, computed tomography, and transcatheter arterial embolization for the treatment of traumatic splenic injuries [^31918fd5]. Cardiovascular and Interventional Radiology (2010). Low credibility.
+### Literature review of the role of ultrasound, computed tomography, and transcatheter arterial embolization for the treatment of traumatic splenic injuries [^112GVHak]. Cardiovascular and Interventional Radiology (2010). Low credibility.
 
 Diagnostics
 
@@ -189,13 +189,13 @@ Most trauma centers that use FAST as a primary screening modality rely on the as
 
 ---
 
-### Best practices guidelines in imaging [^61c0b286]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^113VvXPB]. ACS (2018). Medium credibility.
 
 Initial assessment of blunt abdominal trauma (BAT) algorithm — Initial Assessment of BAT includes ATLS, Abdominal Exam, and Response to resuscitation, then branches to Unstable and Stable. Under Unstable, perform FAST; if Positive, proceed To OR, and if Negative, consider Other causes of instability?. Under Stable, obtain CT Scan followed by Additional imaging depending upon CT findings.
 
 ---
 
-### Hemodynamically "Stable" patients with peritonitis after penetrating abdominal trauma… [^4e119140]. JAMA Network (2005). Excellent credibility.
+### Hemodynamically "Stable" patients with peritonitis after penetrating abdominal trauma… [^112zjwDq]. JAMA Network (2005). Excellent credibility.
 
 Conclusions Following penetrating abdominal trauma, peritonitis should be a trigger for emergent operation regardless of vital signs, because hemodynamic "stability" does not reliably exclude significant hemorrhage. Vascular injury, subsequent hypotension, blood transfusion, and complicated postoperative course are common in this population. Hemodynamically unstable patients with penetrating abdominal trauma are presumed to have active hemorrhage and are emergently taken to the operating room for laparotomy. Though also taken for urgent laparotomy, hemodynamically stable patients with penetrating abdominal trauma with peritonitis are usually assumed to have a hollow visceral perforation and may or may not have significant intra-abdominal hemorrhage.
 
@@ -207,7 +207,7 @@ So there are many reasons for the unreliability of the initial vital signs.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^2eef2d9b]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^112CamXg]. Critical Care (2023). Medium credibility.
 
 Rationale
 
@@ -217,13 +217,13 @@ In-hospital, POCUS, with its best-known application FAST, remains central to the
 
 ---
 
-### Fluid resuscitation of trauma patients: how fast is the optimal rate? [^85a5c2b6]. The American Journal of Emergency Medicine (2005). Low credibility.
+### Fluid resuscitation of trauma patients: how fast is the optimal rate? [^114R92ku]. The American Journal of Emergency Medicine (2005). Low credibility.
 
 The Advanced Trauma Life Support guidelines recommend an initial rapid infusion of fluid (1–2 L) in trauma and hemorrhage victims as a diagnostic procedure to aid treatment decisions. Although patient response to initial fluid resuscitation is the key to determining therapeutic strategies, the appropriate rate of infusion is not clearly defined. Ninety-nine adult (age > 16 years) blunt trauma victims with hypotension were enrolled. Patients were classified into 3 groups according to hemodynamic state after initial fluid resuscitation and requirement of surgical intervention. Total volume and rate of infusion differed significantly between the groups (P < .05). Patients requiring fluid administration at higher rate were all hemodynamically unstable and required immediate surgical intervention. Moreover, rate of infusion was the best predictor of the patients who required immediate surgical intervention. Moderate fluid infusion rate should be considered to allow identification of the patient's response to initial fluid resuscitation.
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^89d41ad2]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^114XLYk1]. Insights Into Imaging (2020). Medium credibility.
 
 Although there is an abundance of literature on the diagnostic value of FAST, and its suboptimal sensitivity is widely recognized (in part dependent on the training of the FAST operator and the volume of free intra-peritoneal fluid, if any), the value of a false-negative FAST (i.e. a negative FAST in a patient who actually has abdominal injury) in predicting outcome remains unclear. It is hypothesized that a false-negative FAST reflects a lower risk of (hemodynamically) significant organ damage than a true positive FAST, and that the outcome of the former group will be more favorable than the latter in terms of the need for a subsequent interventional radiologic procedure or laparotomy, and death. Such information may provide evidence-based data to determine whether abdominal CT is still necessary after negative FAST, to establish the utility of FAST in triaging patients when staff and CT availability are (temporarily) limited, and to demonstrate the value of FAST as a stand-alone tool when CT is not available. It may also help to determine which cases require more intense observation, and it can be useful to inform patients about their prognosis. A previous study reported patients with abdominal injury and a false-negative FAST result to be substantially less likely to require therapeutic laparotomy with an odds ratio [OR] of 0.31 (95% confidence interval [CI] 0.19–0.52). Although these results support our hypothesis, more research is necessary to confirm these preliminary results.
 
@@ -231,13 +231,13 @@ The purpose of this study was to investigate if patients with confirmed traumati
 
 ---
 
-### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^c01e9d05]. The Journal of Trauma (2011). Medium credibility.
+### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^115upuWC]. The Journal of Trauma (2011). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, diagnostic imaging, EAST 2011 guidelines recommend to rely on FAST results in patients with unstable vital signs and pelvic fracture to decide on laparotomy to control bleeding.
 
 ---
 
-### The focused assessment with sonography in trauma (FAST) in hypotensive injured patients frequently fails to identify the need for laparotomy: a multi-institutional pragmatic study [^d10cb0d9]. Trauma Surgery & Acute Care Open (2019). Medium credibility.
+### The focused assessment with sonography in trauma (FAST) in hypotensive injured patients frequently fails to identify the need for laparotomy: a multi-institutional pragmatic study [^116Lvg8p]. Trauma Surgery & Acute Care Open (2019). Medium credibility.
 
 Introduction
 
@@ -249,7 +249,7 @@ As randomised trials evaluating the ability of FAST to identify the need for lap
 
 ---
 
-### Management of bleeding following major trauma: a European guideline [^efbab0a1]. Critical Care (2007). Low credibility.
+### Management of bleeding following major trauma: a European guideline [^1178QkNC]. Critical Care (2007). Low credibility.
 
 The hypotensive patient (systolic blood pressure below 90 mm Hg) presenting free intra-abdominal fluid according to FAST is a potential candidate for early surgery if he or she cannot be stabilised by initiated fluid resuscitation, according to a retrospective study of 138 patients by Farahmand and colleagues. A similar conclusion can be drawn from a prospective blinded study of 400 hypotensive blunt trauma victims (systolic blood pressure below 90 mm Hg) showing that specific levels of intra-abdominal fluid detected by FAST in these patients was an accurate indicator of the need for urgent surgery. In addition, a retrospective study by Rozycki and colleagues of 1,540 patients (1,227 blunt, 313 penetrating trauma) assessed with FAST as an early diagnostic tool showed that the ultrasound examination had a sensitivity and specificity close to 100% when the patients were hypotensive.
 
@@ -257,19 +257,19 @@ A number of patients who present free intra-abdominal fluid according to FAST ca
 
 ---
 
-### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^6bc03924]. The Journal of Trauma (2011). Medium credibility.
+### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^113kkExs]. The Journal of Trauma (2011). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, diagnostic imaging, EAST 2011 guidelines recommend to obtain CT of the abdomen and pelvis with IV contrast in hemodynamically stable patients with a pelvic fracture to evaluate for intra-abdominal bleeding, regardless of FAST results.
 
 ---
 
-### Current approaches to retroperitoneal hemorrhage: too little, too late [^e04420f9]. Catheterization and Cardiovascular Interventions (2017). Low credibility.
+### Current approaches to retroperitoneal hemorrhage: too little, too late [^116jV7P6]. Catheterization and Cardiovascular Interventions (2017). Low credibility.
 
 Retroperitoneal hemorrhage (RPH) arises in < 0.5% of patients undergoing percutaneous intervention, but is associated with high risks of morbidity and mortality. More than 50% of medical malpractice claims against interventional cardiologists are related to death and hemorrhage from vascular injury; delays in diagnosis and treatment are common. The current approach to RPH is characterized by "too little" to diagnose and "too late" to manage patients in extremis. Immediate CTA allows rapid diagnosis and triage to appropriate endovascular therapy, without delay.
 
 ---
 
-### Appropriateness of initial course of action in the management of blunt trauma based on a diagnostic workup including an extended ultrasonography scan [^06ea5de3]. JAMA Network Open (2022). High credibility.
+### Appropriateness of initial course of action in the management of blunt trauma based on a diagnostic workup including an extended ultrasonography scan [^111BFeXL]. JAMA Network Open (2022). High credibility.
 
 Clinical Management
 
@@ -279,19 +279,19 @@ All clinicians performing the E-FAST were experienced board-certified trauma cli
 
 ---
 
-### Best practices guidelines in imaging [^4d9d8fa0]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^112z4yEf]. ACS (2018). Medium credibility.
 
 Trauma imaging modalities and evolution — Chest and pelvic radiographs became a primary adjunct to rapidly diagnose immediate life-threatening injuries, with computed tomography (CT) and magnetic resonance imaging (MRI) later additional imaging modalities important for injury diagnosis and management, and bedside abdominal examination with Focused Assessment with Sonography in Trauma (FAST) largely replaced diagnostic peritoneal lavage as the primary imaging modality for rapid assessment of intra-abdominal hemorrhage in unstable trauma patients.
 
 ---
 
-### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^75ccb2b7]. Annals of Emergency Medicine (2011). Medium credibility.
+### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^1141eJp6]. Annals of Emergency Medicine (2011). Medium credibility.
 
 Acute blunt abdominal trauma — McKenney et al. reported ultrasound diagnostic performance in 200 patients; sensitivity 83%; specificity 100%; accuracy 97%; LR+ 136.71; LR- 0.17. Entry criteria included at least 1 of the following: SBP < 90 mm Hg, RR < 10 or > 29 per min, GCS ≤ 12, paralysis after blunt trauma, ejection from motor vehicle, death of another occupant in motor vehicle, or fall > 20 feet; the definition of positive ultrasound included free fluid or parenchymal injury.
 
 ---
 
-### Multidisciplinary management of thoracic aortic injury with hemodynamically unstable pelvic fracture in the elderly [^89258cf1]. Journal of Cardiothoracic Surgery (2025). Medium credibility.
+### Multidisciplinary management of thoracic aortic injury with hemodynamically unstable pelvic fracture in the elderly [^114WKv9n]. Journal of Cardiothoracic Surgery (2025). Medium credibility.
 
 Case presentation
 
@@ -303,7 +303,7 @@ Emergency laboratory results disclosed a hemoglobin (Hb) level of 81 g/L, a bloo
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^d0ef1c7d]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^116Lkjsz]. Critical Care (2019). Medium credibility.
 
 Focused assessment with sonography in trauma (FAST)
 
@@ -311,7 +311,7 @@ The FAST examination has developed into a key instrument in the acute evaluation
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^d12e1c4e]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^116M7uCq]. Critical Care (2016). Low credibility.
 
 The hypotensive patient (systolic blood pressure below 90 mmHg) presenting free intra-abdominal fluid according to ultrasonography or CT is a potential candidate for early surgical intervention if he or she cannot be stabilised by initiated fluid resuscitation. A retrospective study by Rozycki and colleagues of 1540 patients (1227 blunt, 313 penetrating trauma) assessed with ultrasound as an early diagnostic tool showed that the ultrasound examination had a sensitivity and specificity close to 100% when patients were hypotensive.
 
@@ -331,7 +331,7 @@ We recommend the use of repeated Hb measurements as a laboratory marker for blee
 
 ---
 
-### Will this hemodynamically unstable patient respond to a bolus of intravenous fluids? [^26cee854]. JAMA Network (2016). Excellent credibility.
+### Will this hemodynamically unstable patient respond to a bolus of intravenous fluids? [^111zY2bM]. JAMA Network (2016). Excellent credibility.
 
 Importance Fluid overload occurring as a consequence of overly aggressive fluid resuscitation may adversely affect outcome in hemodynamically unstable critically ill patients. Therefore, following the initial fluid resuscitation, it is important to identify which patients will benefit from further fluid administration. Objective To identify predictors of fluid responsiveness in hemodynamically unstable patients with signs of inadequate organ perfusion. Data Sources and Study Selection Search of MEDLINE and EMBASE and reference lists from retrieved articles, previous reviews, and physical examination textbooks for studies that evaluated the diagnostic accuracy of tests to predict fluid responsiveness in hemodynamically unstable adult patients who were defined as having refractory hypotension, signs of organ hypoperfusion, or both. Fluid responsiveness was defined as an increase in cardiac output following intravenous fluid administration.
 
@@ -341,13 +341,13 @@ The usefulness of respiratory variation in the vena cava requires confirmatory s
 
 ---
 
-### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^95e660e1]. Annals of Emergency Medicine (2011). Medium credibility.
+### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^114qEY88]. Annals of Emergency Medicine (2011). Medium credibility.
 
 Blunt abdominal trauma — ultrasound diagnostic performance and inclusion criteria are reported as follows: Using computed tomography (CT), diagnostic peritoneal lavage (DPL), laparotomy, and clinical follow-up as the criterion standard, ultrasound in 1,000 patients showed sensitivity 88%, specificity 99%, accuracy 97%, LR+ 93, LR- 0.12, positive predictive value (PPV) 94%, and negative predictive value (NPV) 98%. The study mixed hemodynamic instability patients with other "trauma criteria" patients, and entry criteria included at least 1 of the following: SBP < 90 mm Hg, respiratory rate (RR) < 10 or > 29 per min, Glasgow Coma Scale (GCS) ≤ 12, paralysis after blunt trauma, ejection from motor vehicle, death of another occupant in motor vehicle, or fall > 20 feet; all patients did not get criterion standard, and the definition of positive ultrasound result included free fluid or parenchymal injury.
 
 ---
 
-### WSES / GAIS / SIS-E / WSIS / AAST global clinical pathways for patients with intra-abdominal infections [^a1179450]. World Journal of Emergency Surgery (2021). Medium credibility.
+### WSES / GAIS / SIS-E / WSIS / AAST global clinical pathways for patients with intra-abdominal infections [^1157pvjZ]. World Journal of Emergency Surgery (2021). Medium credibility.
 
 Diagnosis
 
@@ -383,7 +383,7 @@ More subtle but important concerns for injury is the presence of thickened segme
 
 ---
 
-### Acute management of hemodynamically unstable pelvic trauma patients: time for a change? Multicenter review of recent practice [^5f1d87df]. World Journal of Surgery (2008). Low credibility.
+### Acute management of hemodynamically unstable pelvic trauma patients: time for a change? Multicenter review of recent practice [^113S1k5U]. World Journal of Surgery (2008). Low credibility.
 
 Background
 
@@ -403,7 +403,7 @@ HRM associated with major pelvic trauma is unacceptably high especially in the l
 
 ---
 
-### Appropriateness of initial course of action in the management of blunt trauma based on a diagnostic workup including an extended ultrasonography scan [^f9b032be]. JAMA Network Open (2022). High credibility.
+### Appropriateness of initial course of action in the management of blunt trauma based on a diagnostic workup including an extended ultrasonography scan [^117PB6nh]. JAMA Network Open (2022). High credibility.
 
 An observational study from Los Angeles in 1311 patientsreported a low sensitivity of a workup combining E-FAST and chest radiographs to detect clinically significant blunt chest injuries with a significant proportion of missed injuries. The study did not assess how this workup factored into decision-making. The authors ultimately recommended the systematic use of WBCT. Finally, a retrospective French cohort of 756 patients with trauma reported a higher diagnostic performance of lung ultrasonograph over chest radiograph to detect pneumothorax and hemothorax and an acceptable sensitivity of abdominal ultrasonograph to detect intraabdominal free fluid. A therapeutic benefit for the E-FAST assessment was rare (2% to 10%) but was considered appropriate in all but 1 case.
 
@@ -411,13 +411,13 @@ The present data confirm a low frequency of immediate therapeutic actions steere
 
 ---
 
-### Focused assessment with sonography for trauma: methods, accuracy, and indications [^886bcc06]. The Surgical Clinics of North America (2011). Low credibility.
+### Focused assessment with sonography for trauma: methods, accuracy, and indications [^114VFXP3]. The Surgical Clinics of North America (2011). Low credibility.
 
 Focused assessment with sonography for trauma (FAST) is an invaluable adjunct in the management of trauma patients for detection of free intra-abdominal and pericardial fluid. Over the past 2 decades, the use of this technique has increased significantly. This article reviews the clinical application and future direction of FAST.
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^727cc6ec]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^113vjVym]. Insights Into Imaging (2020). Medium credibility.
 
 Introduction
 
@@ -429,7 +429,7 @@ Meanwhile, computed tomography (CT) is considered the imaging modality of choice
 
 ---
 
-### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^5ace6f12]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
+### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^113KdE25]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
 
 Conclusion
 
@@ -437,13 +437,13 @@ This study showed that conservative management of SRH may be effective in most p
 
 ---
 
-### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^3815e788]. The Journal of Trauma (2011). Medium credibility.
+### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^112S9fWo]. The Journal of Trauma (2011). Medium credibility.
 
 Regarding diagnostic investigations for abdominal vascular injury, more specifically with respect to FAST ultrasound, EAST 2011 guidelines recommend to rely on FAST results in patients with unstable vital signs and pelvic fracture to decide on laparotomy to control bleeding.
 
 ---
 
-### History of pelvic fracture management: a review [^32dd2d4d]. World Journal of Emergency Surgery (2016). Low credibility.
+### History of pelvic fracture management: a review [^112JQfxx]. World Journal of Emergency Surgery (2016). Low credibility.
 
 Classification-guided management (20 th /21 st century)
 
@@ -455,13 +455,13 @@ By the middle part of the 20 th century, with a growing number of high-speed mot
 
 ---
 
-### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^047f4348]. Annals of Emergency Medicine (2011). Medium credibility.
+### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^1117fhQb]. Annals of Emergency Medicine (2011). Medium credibility.
 
 Critical question 1 — In hemodynamically unstable patients with blunt abdominal trauma, bedside ultrasound, when available, should be the initial diagnostic modality performed to identify the need for emergent laparotomy; this Level B recommendation specifies patients with systolic blood pressure ≤ 90 mm Hg, with Level A recommendations none specified and Level C recommendations none specified.
 
 ---
 
-### Evaluation of gastrointestinal injury in blunt abdominal trauma "FAST is not reliable": the role of repeated ultrasonography [^78b60d80]. World Journal of Emergency Surgery (2012). Low credibility.
+### Evaluation of gastrointestinal injury in blunt abdominal trauma "FAST is not reliable": the role of repeated ultrasonography [^1145xfVR]. World Journal of Emergency Surgery (2012). Low credibility.
 
 Spiral CT scans were performed with 10-mm collimation and a table speed of 10 mm/sec. Images were reconstructed at 7-mm intervals. In adults, a total of 120 mL of Iohexol (Omnipaque, 300 mg/50 cc) was administered intravenously at a rate of 3–4 ml/sec. Another experienced radiologist interpreted all of the abdominal CT scans.
 
@@ -473,43 +473,43 @@ The results of FAST technique were compared with surgical results. Statistical a
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^6844ce03]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^113fapjU]. Academic Emergency Medicine (2012). Medium credibility.
 
 General trauma management — circulation and adult fluid resuscitation: If pelvis is unstable, place pelvic binder or sheet to stabilize pelvis, and establish IV access if needed (large bore preferred). For adults, if SBP greater than 90 mmHg and heart rate less than 120 BPM, no IV fluids required; if SBP less than 90 mmHg or HR greater than 120 BPM, initiate resuscitation. Blood products are recommended if available; if blood products not available, consider 500 mL bolus of IV fluid, repeat as needed for persistent signs and symptoms of shock, and if signs and symptoms of shock persist after a total of 2 L crystalloid bolus, contact online medical direction.
 
 ---
 
-### ACR appropriateness criteria® suspected retroperitoneal bleed [^420e3df1]. Journal of the American College of Radiology (2021). Medium credibility.
+### ACR appropriateness criteria® suspected retroperitoneal bleed [^112gvy4C]. Journal of the American College of Radiology (2021). Medium credibility.
 
 The initial diagnosis of retroperitoneal bleeding can be challenging by physical examination and clinical presentation. Prompt imaging can make the diagnosis and be lifesaving. When selecting appropriate imaging for these patient's, consideration must be made for sensitivity and ability to image the retroperitoneum, as well as speed of imaging. The American College of Radiology Appropriateness Criteria are evidence-based guidelines for specific clinical conditions that are reviewed annually by a multidisciplinary expert panel. The guideline development and revision include an extensive analysis of current medical literature from peer reviewed journals and the application of well-established methodologies (RAND/UCLA Appropriateness Method and Grading of Recommendations Assessment, Development, and Evaluation or GRADE) to rate the appropriateness of imaging and treatment procedures for specific clinical scenarios. In those instances where evidence is lacking or equivocal, expert opinion may supplement the available evidence to recommend imaging or treatment.
 
 ---
 
-### Emergency diagnostic paracentesis to determine intraperitoneal fluid identity discovered on bedside ultrasound of unstable patients [^ea67c382]. The Journal of Emergency Medicine (2005). Low credibility.
+### Emergency diagnostic paracentesis to determine intraperitoneal fluid identity discovered on bedside ultrasound of unstable patients [^116zWxRX]. The Journal of Emergency Medicine (2005). Low credibility.
 
 Patients presenting with hypotension may be evaluated with a FAST (Focused Abdominal Sonography for Trauma) examination as recent literature has suggested its utility in the unstable patient. Those who are found to have intraperitoneal fluid on the FAST examination may have solid organ injury from unknown trauma, ruptured abdominal aortic aneurysm (AAA), hemorrhaging ovarian cyst, ruptured ectopic pregnancy, or other disease process responsible for intra-periteal blood. However, because ultrasound does not assist in fluid identification, it is possible that the fluid present is not blood, but ascites. Further, a decision may need to be made regarding emergent surgical intervention or blood transfusion vs. aggressive fluid resuscitation or pressors followed by other testing such as computed tomography. This case series illustrates the utility of an ultrasound guided, emergent diagnostic paracentesis in the management of unstable patients found to have a positive FAST examination. Six unstable patients were evaluated with the FAST examination and found to have large quantities of intraperitoneal fluid. In each case the fluid was sampled and proposed management changed due to fluid identification.
 
 ---
 
-### Pelvic trauma: WSES classification and guidelines [^01589e29]. World Journal of Emergency Surgery (2017). Medium credibility.
+### Pelvic trauma: WSES classification and guidelines [^1112zkhN]. World Journal of Emergency Surgery (2017). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, diagnostic imaging, WSES 2017 guidelines recommend to obtain eFAST and pelvic X-ray in hemodynamically and mechanically unstable patients with pelvic trauma, in order to identify injuries requiring pelvic stabilization, angiography, a rapid reductive maneuver, and/or laparotomy.
 
 ---
 
-### Management of genitourinary injuries [^c587f91d]. ACS (2025). High credibility.
+### Management of genitourinary injuries [^1163rEVA]. ACS (2025). High credibility.
 
 Retroperitoneal hematoma — exploration guidance states that for blunt trauma, exploration is performed selectively based on anatomic location and hemodynamic status, and a retroperitoneal hematoma can often be left undisturbed unless it is expanding, pulsatile, has freely ruptured, or if the patient is hemodynamically unstable; exceptions include patients presenting with penetrating trauma and concern for underlying ureteral or renal vascular injuries that require acute surgical repair, and in most cases a retroperitoneal hematoma after penetrating trauma needs to be explored; if not obtained preoperatively, perform a postoperative abdominal CT with IV contrast in patients who do not undergo a retroperitoneal exploration.
 
 ---
 
-### Best practices guidelines in imaging [^532e1451]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^1138KT68]. ACS (2018). Medium credibility.
 
 Imaging in penetrating abdominal trauma — initial management and modality selection emphasizes, "Do not delay operative management to image patients with peritonitis, hypotension, evisceration, or frank gastrointestinal bleeding" and to "Consider immediate laparotomy for patients with hemodynamic instability, hypotension, peritonitis, impalement, or evisceration", noting that "Imaging can be useful in guiding management for stable patients without these findings". For evaluation, "Consider using eFAST for the initial evaluation of stable and unstable patients with projectile injuries to evaluate the pericardium for fluid and tamponade"; "Radiographs can be useful to identify the course or location of a projectile, but have little use in management of stab wounds"; and "MDCT for penetrating trauma plays a key role in selective nonoperative management and evaluation of back or flank wounds".
 
 ---
 
-### ATLS (R) and damage control in spine trauma [^20807dc4]. World Journal of Emergency Surgery (2009). Low credibility.
+### ATLS (R) and damage control in spine trauma [^111qBmEK]. World Journal of Emergency Surgery (2009). Low credibility.
 
 So far, MRI plays no role in polytrauma diagnostics. This is primarily due to the fact of long exam duration and limited intervention potential during the positioning inside the apparatus. In addition, regarding damage control principles, diagnostics should not delay indispensable therapeutic approaches and quick stabilization of e.g. long bone fractures is preferential to spinal trauma diagnostics.
 
@@ -519,7 +519,7 @@ In the case of unstable hemodynamics assessed in the prehospital phase and prima
 
 ---
 
-### Guidelines for enhanced recovery after trauma and intensive care (ERATIC): enhanced recovery after surgery (ERAS) society and international association of trauma surgery and intensive care (IATSIC) recommendations: paper 1: initial care-pre and intraoperative care until ICU, including non-operative management [^6475f4f4]. World Journal of Surgery (2025). Medium credibility.
+### Guidelines for enhanced recovery after trauma and intensive care (ERATIC): enhanced recovery after surgery (ERAS) society and international association of trauma surgery and intensive care (IATSIC) recommendations: paper 1: initial care-pre and intraoperative care until ICU, including non-operative management [^113ZwPAb]. World Journal of Surgery (2025). Medium credibility.
 
 Rapid transfer to appropriate level of care with minimal fluid therapy or transfusions and attempts at bleeding control are the mainstay of prehospital trauma care. Tranexamic acid may be administered as per local policies. Advanced airway interventions should be restricted to selected patients and long‐distance transfers.
 
@@ -535,13 +535,13 @@ One main challenge remains the management of penetrating injuries to junctional 
 
 ---
 
-### Hemodynamically unstable pelvic fractures: recent care and new guidelines [^7c452215]. World Journal of Surgery (2004). Low credibility.
+### Hemodynamically unstable pelvic fractures: recent care and new guidelines [^114BEgmS]. World Journal of Surgery (2004). Low credibility.
 
 Consistent care of hemodynamically unstable pelvic fracture patients is a major management issue. It was uncertain whether the introduction of newly developed clinical practice guidelines would require much change in current delivery of care at our institution. Assessment of recent care was undertaken and compared with the newly developed evidence-based best practice guidelines. A multidisciplinary project team developed clinical practice guidelines for determination of early optimum management of hemodynamically unstable patients with pelvic fractures. The guidelines recommend a definitive management plan to arrest hemorrhage within 30 minutes. Intra-abdominal hemorrhage should be assessed with diagnostic peritoneal aspiration (DPA) and/or focused assessment with sonography for trauma (FAST). Early noninvasive stabilization of the pelvis followed by angiography within 90 minutes are recommended if intra-abdominal hemorrhage is not found. Recent care was assessed in a historical cohort of patients, identified in a prospectively maintained trauma registry, between June 1999 and December 2001. Investigations, interventions, and times were then compared with the new guidelines. The delivery of care to 30 patients (mortality 37%, mean ISS 37.8 ± 20.9) was studied. Compared with the new guidelines, the abdominal assessment rate with DPA and/or FAST was 53% and early (< 90 minutes) angiography rate was 38%. A form of pelvic external stabilization was applied in 27% of cases. Noninvasive pelvic stabilization was not performed at all. The recent care of hemodynamically unstable pelvic fracture patients was not in line with newly developed guidelines. There is an opportunity to markedly improve the rates of initial assessment of the abdomen, pelvic stabilization, and early angiography.
 
 ---
 
-### Field trial of hypotensive versus standard resuscitation for hemorrhagic shock after trauma (hypoResus) [^3176510f]. ClinicalTrials (2011). Low credibility.
+### Field trial of hypotensive versus standard resuscitation for hemorrhagic shock after trauma (hypoResus) [^112GL8oY]. ClinicalTrials (2011). Low credibility.
 
 Study Overview Primary Aim: To determine the feasibility and safety of hypotensive resuscitation for the early treatment of patients with traumatic shock compared to standard fluid resuscitation. Primary Hypotheses: The null hypothesis regarding feasibility is that hypotensive resuscitation will result in the same volume of early crystalloid fluid administration compared to standard crystalloid resuscitation. The null hypothesis regarding safety is that hypotensive resuscitation will result in the same percent of patients surviving to 24 hours after 911 call received at dispatch compared to standard fluid resuscitation. Early resuscitation is defined as all fluid given until 2 hours after arrival in the Emergency Department or until hemorrhage control is achieved in the hospital, whichever occurs earlier.
 
@@ -551,7 +551,7 @@ The primary goals of this pilot study will be to determine if the described mode
 
 ---
 
-### Hocus pocus: advanced point-of-care ultrasound from the trauma bay to the surgical ICU [^3b2e0e1f]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Hocus pocus: advanced point-of-care ultrasound from the trauma bay to the surgical ICU [^112WjjrW]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Limitations of FAST
 
@@ -564,7 +564,7 @@ The cardiac window of the FAST examination may be unreliable in the setting of d
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^cf5a834e]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^116JQqfj]. Critical Care (2019). Medium credibility.
 
 If the patient is haemodynamically unstable and in haemorrhagic shock, the urgent treatment goal is rapid achievement of haemostasis. An initial strategy, performed while DCR is ongoing and before proceeding to arteriography, relies on the insertion of an intra-aortic occlusion balloon and/or extra-peritoneal pelvic packing. If haemodynamic instability persists, a laparotomy for haemostasis should be performed without delay. In a haemodynamically stable patient, contrast-enhanced systematic CT is required to obtain a comprehensive assessment of the lesions prior to surgery.
 
@@ -572,7 +572,7 @@ The initial therapy for pelvic fractures includes control of venous and/or cance
 
 ---
 
-### What is the utility of the focused assessment with sonography in trauma (FAST) exam in penetrating torso trauma? [^b81ebfb0]. Injury (2011). Low credibility.
+### What is the utility of the focused assessment with sonography in trauma (FAST) exam in penetrating torso trauma? [^115hy3tT]. Injury (2011). Low credibility.
 
 Study Objective
 
@@ -608,13 +608,13 @@ From the review of the literature, a positive FAST exam has a high incidence of 
 
 ---
 
-### Best practices in the management of orthopaedic trauma [^06e2e05b]. ACS (2015). Medium credibility.
+### Best practices in the management of orthopaedic trauma [^111BD8bk]. ACS (2015). Medium credibility.
 
 Hemodynamically unstable pelvic fracture patients — initial resuscitation and hemorrhage control follow a stepwise algorithm: When patients are hemodynamically unstable as a result of hemorrhage, a massive transfusion protocol should be activated, and while initiating resuscitative efforts a temporary pelvic binder or circumferential sheet should be positioned around the greater trochanters; a rapid assessment to exclude other bleeding sources is required using portable X rays of the chest and pelvis. To rule out intraabdominal hemorrhage, a Focused Assessment with Sonography in Trauma (FAST) scan or diagnostic peritoneal aspiration (DPA) should be performed; if intraabdominal hemorrhage is diagnosed, hemodynamically unstable patients should be taken to the operating room for exploration and should be considered for pelvic fracture external fixation. If intraabdominal hemorrhage is not diagnosed by FAST or DPA, patients should undergo pelvic stabilization with either a temporary pelvic binder or sheet followed by surgical stabilization and preperitoneal packing, with stability provided by an external fixator giving greater support for pre-peritoneal packs and, if time allows, better hemorrhage control if fixation is achieved prior to packing. Patients who remain hemodynamically unstable following pelvic stabilization and those with preperitoneal packing in place should undergo angiography and potential embolization, and for patients truly in extremis solely from pelvic bleeding a potential alternative initial intervention is Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA), for which early experience in lieu of or in addition to preperitoneal packing has shown promising results.
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^7a7c951d]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^1148bLSg]. Insights Into Imaging (2020). Medium credibility.
 
 Materials and methods
 
@@ -628,7 +628,7 @@ Medical records were reviewed to retrieve patient age and gender, mechanism of i
 
 ---
 
-### Management of bleeding following major trauma: a European guideline [^409a5460]. Critical Care (2007). Low credibility.
+### Management of bleeding following major trauma: a European guideline [^112en3cs]. Critical Care (2007). Low credibility.
 
 Rationale
 
@@ -636,7 +636,7 @@ Blunt abdominal trauma represents a major diagnostic challenge and an important 
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^97a1352e]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^114soH8h]. Insights Into Imaging (2020). Medium credibility.
 
 Discussion
 
@@ -644,7 +644,7 @@ This study investigated the value of a false-negative FAST in predicting outcome
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^d8450467]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^116XdWSA]. Critical Care (2019). Medium credibility.
 
 Tourniquets should be left in place until surgical control of bleeding is achieved; however, this time span should be restricted as much as possible. Improper or prolonged placement of a tourniquet can lead to complications such as nerve paralysis and limb ischaemia; however, these effects are rare. Some publications suggest a maximum application time of 2 h. Reports from military settings describe cases in which tourniquets have remained in place for up to 6 h with survival of the extremity. Much recent discussion has centred on the translation of this evidence to civilian practice, as little published evidence exists. Bleeding from most civilian wounds can be controlled using local pressure; however, uncontrolled external bleeding from either blunt or penetrating limb injury should be controlled with a tourniquet.
 
@@ -652,19 +652,19 @@ Patients with severe high-energy and complex pelvic trauma, haemodynamic instabi
 
 ---
 
-### Best practices guidelines in imaging [^eb213d1a]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^1171bFmT]. ACS (2018). Medium credibility.
 
 FAST in the pediatric patient — a recent prospective single-center study reported FAST use in hemodynamically stable pediatric blunt torso trauma; study findings do not support the use of FAST in the pediatric patient. The sensitivity and specificity of FAST are less in children than in adults, and the use of FAST in children is only recommended if the child is in shock or when computed tomography (CT) is not available or not feasible.
 
 ---
 
-### Urotrauma: AUA guideline [^b2a58af7]. The Journal of Urology (2014). Medium credibility.
+### Urotrauma: AUA guideline [^115ZrQCN]. The Journal of Urology (2014). Medium credibility.
 
 Regarding specific circumstances for pelvic trauma, more specifically with respect to patients with kidney injury, management, AUA 2014 guidelines recommend to perform immediate intervention (surgery or angioembolization in selected situations) in hemodynamically unstable patients with no or transient response to resuscitation.
 
 ---
 
-### Is the FAST exam reliable in severely injured patients? [^0227abf6]. Injury (2010). Low credibility.
+### Is the FAST exam reliable in severely injured patients? [^1114CJS1]. Injury (2010). Low credibility.
 
 Introduction
 
@@ -684,7 +684,7 @@ Patients with high ISS are at increased risk of having ultrasound-occult injurie
 
 ---
 
-### Management of bleeding following major trauma: a European guideline [^8ce65da5]. Critical Care (2007). Low credibility.
+### Management of bleeding following major trauma: a European guideline [^114bteLk]. Critical Care (2007). Low credibility.
 
 Rationale
 
@@ -696,13 +696,13 @@ IV. Tissue oxygenation, type of fluid, and hypothermia
 
 ---
 
-### Best practices in the management of orthopaedic trauma [^0af4be46]. ACS (2015). Medium credibility.
+### Best practices in the management of orthopaedic trauma [^111HF5oT]. ACS (2015). Medium credibility.
 
 Management of pelvic fractures with associated hemorrhage — key messages for stable patients state that hemodynamically stable patients with pelvic fractures should undergo cross-sectional imaging to evaluate the extent of the injury and for the presence of pelvic hemorrhage, and that patients with evidence of contrast extravasation on imaging and either significant hemorrhage or hemodynamic instability should undergo formal angiography and potential angioembolization.
 
 ---
 
-### Management of bleeding following major trauma: an updated European guideline [^1fd9a7b8]. Critical Care (2010). Low credibility.
+### Management of bleeding following major trauma: an updated European guideline [^111pDj11]. Critical Care (2010). Low credibility.
 
 Rationale
 
@@ -712,13 +712,13 @@ The role of CT scanning of acute trauma patients is well documented, and in rece
 
 ---
 
-### Best practices guidelines in imaging [^b00f59ec]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^115W1yfZ]. ACS (2018). Medium credibility.
 
 Ultrasound — focused assessment with sonography in trauma (FAST) is a routine and critical part of the initial evaluation of all trauma patients, but in obese patients the increased depth of subcutaneous fat and its sound-attenuating characteristics present a significant challenge in obtaining diagnostic FAST imaging; use of lower frequency probes facilitates tissue penetration and better identification of deep structures but contributes to lower resolution, and the propensity toward blunt chest injuries in this population can also complicate image acquisition when extra-thoracic air is present. When FAST is compromised by the effects of morbid obesity, computed tomography (CT) imaging remains the best alternative in hemodynamically stable patients, whereas conventional radiographs, diagnostic peritoneal lavage, laparoscopy, or exploratory laparotomy are all viable alternatives in unstable patients where FAST image quality is insufficient to guide clinical decision-making.
 
 ---
 
-### Acute management and outcome of multiple trauma patients with pelvic disruptions [^9eacd9a1]. Critical Care (2012). Low credibility.
+### Acute management and outcome of multiple trauma patients with pelvic disruptions [^1154F6vC]. Critical Care (2012). Low credibility.
 
 Introduction
 
@@ -726,7 +726,7 @@ Disruptions of the pelvic ring represent 2% to 3% of all fractures. The injury m
 
 ---
 
-### Hocus pocus: advanced point-of-care ultrasound from the trauma bay to the surgical ICU [^b16e78d1]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Hocus pocus: advanced point-of-care ultrasound from the trauma bay to the surgical ICU [^115Y3v3i]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Diagnostic scan protocols
 
@@ -753,13 +753,13 @@ A single-center study of 187 trauma arrest patients found that the absence of pe
 
 ---
 
-### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^23421110]. The Journal of Trauma (2011). Medium credibility.
+### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^111uGkwq]. The Journal of Trauma (2011). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, retroperitoneal packing, EAST 2011 guidelines recommend to perform retroperitoneal pelvic packing as a salvage technique to control hemorrhage after angioembolization.
 
 ---
 
-### Management of hemodynamically unstable pelvic trauma: results of the first Italian consensus conference (cooperative guidelines of the Italian society of surgery, the Italian association of hospital surgeons, the multi-specialist Italian society of young surgeons, the Italian society of emergency surgery and trauma, the Italian society of anesthesia, analgesia, resuscitation and intensive care, the Italian society of orthopaedics and traumatology, the Italian society of emergency medicine, the Italian society of medical radiology-section of vascular and interventional radiology-and the World Society of Emergency Surgery) [^b3fda07b]. World Journal of Emergency Surgery (2014). Low credibility.
+### Management of hemodynamically unstable pelvic trauma: results of the first Italian consensus conference (cooperative guidelines of the Italian society of surgery, the Italian association of hospital surgeons, the multi-specialist Italian society of young surgeons, the Italian society of emergency surgery and trauma, the Italian society of anesthesia, analgesia, resuscitation and intensive care, the Italian society of orthopaedics and traumatology, the Italian society of emergency medicine, the Italian society of medical radiology-section of vascular and interventional radiology-and the World Society of Emergency Surgery) [^115bqyVc]. World Journal of Emergency Surgery (2014). Low credibility.
 
 Table 1
 Levels of evidence and grade of recommendations
@@ -778,13 +778,13 @@ The OC reviewed the retrieved papers and selected the most appropriated as relat
 
 ---
 
-### Evaluation and management of blunt solid organ trauma [^b84d3e8f]. Techniques in Vascular and Interventional Radiology (2017). Low credibility.
+### Evaluation and management of blunt solid organ trauma [^115iEfhG]. Techniques in Vascular and Interventional Radiology (2017). Low credibility.
 
 Trauma is a leading cause of death in patients under the age of 45 and generally associated with a high kinetic energy event such as a motor vehicle accident or fall from extreme elevations. Blunt trauma can affect every organ system and major vascular structure with potentially devastating effect. When we consider abdominal solid organ injury from blunt trauma, we usually think of the liver, spleen, and kidneys. However, all of the abdominal organs, including the pancreas and adrenal glands, may be involved. Blunt hepatic trauma is more commonly associated with venous bleeding rather than arterial injury. Stable venous injury is often managed conservatively; when the patient is hemodynamically unstable from venous hepatic injury, operative management should be first-line therapy. When the injury is arterial, endovascular therapy should be initiated. Blunt trauma to the spleen is the most common cause of traumatic injury to the spleen. Management is controversial. In our institution unstable patients are taken to the operating room, and stable patients with Grades IV-V injuries and patients with active arterial injury are taken for endovascular treatment. Renal injuries are less common, and evidence of arterial injury such as active extravasation or pseudoaneurysm is warranted before endovascular therapy. Pancreatic trauma is uncommon and usually secondary to steering wheel/handlebar mechanism injuries. Adrenal injuries are rare in the absence of megatrauma or underlying adrenal abnormality.
 
 ---
 
-### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^8a503e7c]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
+### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^114Y4FAs]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
 
 Purpose
 
@@ -810,13 +810,13 @@ The online version contains supplementary material available at 10.1007/s00270-0
 
 ---
 
-### Initial care of the patient with blunt polytrauma [^99161e5e]. Clinical Orthopaedics and Related Research (2004). Low credibility.
+### Initial care of the patient with blunt polytrauma [^114uxY2H]. Clinical Orthopaedics and Related Research (2004). Low credibility.
 
 The initial care of the patient with blunt polytrauma involves a systematic search for causes of hemodynamic instability. Bleeding most often occurs in the pleural space, peritoneal cavity, and retroperitoneum. Orthopaedic injuries also can contribute to instability after blunt trauma. Blood loss from open fractures may be substantial, and exposure with direct vessel control should be performed early. Pelvic fractures can be associated with severe retroperitoneal bleeding. The treatment of patients with complex pelvic fractures includes closing the pelvic space with a binding device, and early pelvic angiography with embolization. Care of patients with multiple organ and bone injuries requires coordination by one trauma team leader. This physician oversees the resuscitation and sets treatment priorities, including the type and amount of time allowed for fracture stabilization. In many cases, nonorthopaedic injuries will need to be addressed before definitive fracture care. However, optimal care typically involves a coordinated multispeciality approach that sometimes includes concurrent operative procedures. Patients with severe physiologic derangements may require damage control techniques to decrease blood loss and operative time. Understanding the overall care of patients who are injured critically will facilitate the integration of the orthopaedic surgeon into the trauma team.
 
 ---
 
-### Pelvic free fluid in asymptomatic pediatric blunt abdominal trauma patients: a case series and review of the literature [^82f09ab6]. The Journal of Emergency Medicine (2016). Low credibility.
+### Pelvic free fluid in asymptomatic pediatric blunt abdominal trauma patients: a case series and review of the literature [^114M8Cz9]. The Journal of Emergency Medicine (2016). Low credibility.
 
 Background
 
@@ -828,7 +828,7 @@ We report a series of pediatric patients involved in blunt abdominal trauma who 
 
 ---
 
-### Trust the FAST: confirmation that the FAST examination is highly specific for intra-abdominal hemorrhage in over 1, 200 patients with pelvic fractures [^a79fc376]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
+### Trust the FAST: confirmation that the FAST examination is highly specific for intra-abdominal hemorrhage in over 1, 200 patients with pelvic fractures [^115HWbWM]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
 
 Background
 
@@ -852,19 +852,19 @@ Diagnostic, level III.
 
 ---
 
-### Best practices guidelines in imaging [^d3f77b4d]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^116RFWnx]. ACS (2018). Medium credibility.
 
 Ultrasonography in thoracic trauma — FAST: Ultrasonography, and especially the FAST exam, has become the best practice for rapid diagnosis of traumatic pericardial fluid collections.
 
 ---
 
-### Clinical review: initial management of blunt pelvic trauma patients with haemodynamic instability [^b999acfa]. Critical Care (2007). Low credibility.
+### Clinical review: initial management of blunt pelvic trauma patients with haemodynamic instability [^115kAKyj]. Critical Care (2007). Low credibility.
 
 Pelvic trauma can lead to severe, uncontrollable haemorrhage and death related to prolonged shock and multiple organ failure. Massive retroperitoneal haematoma should be assumed to be present in cases of post-traumatic haemodynamic instability associated with pelvic fracture in the absence of extrapelvic haemorrhagic lesions. This review describes the pathophysiology of retroperitoneal haematoma in trauma patient with blunt pelvic fracture, considering the roles of venous and arterial bleeding. Efficacy and safety of haemostatic procedures are also discussed, and particular attention is given to the efficacy of pelvic angiographic embolization and external pelvic fixation. A decision making algorithm is proposed for the treatment of trauma patients with pelvic fracture that takes haemodynamic status and associated lesions into account.
 
 ---
 
-### An update on nonoperative management of the spleen in adults [^dc53a793]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### An update on nonoperative management of the spleen in adults [^116deNin]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Monitoring the patient
 
@@ -872,25 +872,25 @@ Conventional patient monitoring includes the tracking of vital signs, performanc
 
 ---
 
-### Management of genitourinary injuries [^b5227e68]. ACS (2025). High credibility.
+### Management of genitourinary injuries [^115dYM11]. ACS (2025). High credibility.
 
 Zone II retroperitoneal hematomas — exploration guidance: Most Zone II retroperitoneal hematomas from penetrating trauma need to be explored; however, exploration may be avoided in cases where only a small, nonexpanding hematoma exists lateral to the colon, in a patient who is hemodynamically stable, and when clinical suspicion is low for an injury to the renal pelvis, ureter, and major vascular structures. These require follow-up imaging of the kidneys and ureters.
 
 ---
 
-### Editor's choice – European Society for Vascular Surgery (ESVS) 2025 clinical practice guidelines on the management of vascular trauma [^5d025b05]. European Journal of Vascular and Endovascular Surgery (2025). High credibility.
+### Editor's choice – European Society for Vascular Surgery (ESVS) 2025 clinical practice guidelines on the management of vascular trauma [^113Nte6g]. European Journal of Vascular and Endovascular Surgery (2025). High credibility.
 
 Regarding surgical interventions for abdominal vascular injury, more specifically with respect to exploration of hematoma, ESVS 2025 guidelines recommend to perform surgical exploration of retroperitoneal hematomas during trauma laparotomy in patients who are hemodynamically unstable or have an unstable retroperitoneal hematoma (expanding, pulsatile, or actively bleeding).
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^4e80c6f9]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^1131PHmJ]. Insights Into Imaging (2020). Medium credibility.
 
 The present study had some limitations. First, it was performed in a tertiary care center in Europe, where the majority of abdominal traumas results from a blunt mechanism and penetrating lesions are less frequent. Only 2 of 97 cases (2.1%) suffered from penetrating trauma in the present study. The results may be different in other non-European countries in which the incidence of gunshot or stab wounds is higher. Second, the results of this study are only applicable to settings in which FAST is used as an upfront screening tool in all patients with possible abdominal injury, and not in institutions in which FAST is only performed in hemodynamically unstable patients and CT is done instead of FAST in hemodynamically stable patients. Third, FAST was performed by 27 different radiology residents in this study, which may have introduced observer bias that could not be accounted for. However, this reflects clinical practice. Fourth, FAST cannot discriminate between free intra-abdominal fluid due to trauma and pre-existent ascites that may have numerous causes, and 5 of such cases (3 with cirrhosis, 1 with cardiac failure, and 1 with a ventriculoperitoneal shunt) had to be excluded from our study. This potential pitfall should be taken into account when performing FAST in trauma patients. Fifth, standard B-mode ultrasonography was used in this study, whereas newer techniques such as contrast-enhanced ultrasonography may have the potential to improve the detection of traumatic injury. However, whether or not such an approach is feasible in trauma patients remains unclear. Sixth, the number of patients was too low to perform subgroup analyses according to the type of abdominal injury and to determine if healthcare providers can take the time to perform CT and avoid emergent laparotomy in patients with a negative FAST. Seventh, our study included 15 children (i.e. aged 17 years or younger) of whom 3 (20.0%) with a false-negative FAST and 82 adults (i.e. aged 18 years or older) of whom 37 (45.1%) with a false-negative FAST. Unfortunately, the number of cases was too low to statistically compare the outcome of children to that of adults with a false-negative FAST. Eighth, the decision to perform additional abdominal CT after FAST was based on the (trauma) surgeon's clinical judgment, for which no clear criteria could be defined. Ninth, we did not have any dedicated software or other tools to reproducibly quantify the amount of free intra-abdominal fluid on CT, whereas this may be another variable potentially related to false-negative FAST results and favorable outcome. Nevertheless, in resource-constrained regions where CT is not available (and the amount of free intra-abdominal fluid cannot be measured on CT), the FAST examination may be the only imaging tool on which management decisions are based. Tenth, only the presence of and not the severity of injuries was considered in the analysis of results.
 
 ---
 
-### Pelvic ring resuscitation pathways [^c20ccd91]. Journal of Orthopaedic Trauma (2022). Medium credibility.
+### Pelvic ring resuscitation pathways [^115xgu6Q]. Journal of Orthopaedic Trauma (2022). Medium credibility.
 
 Clinical Vignette
 
@@ -898,25 +898,25 @@ A 35 year-old female is injured in a high-speed motor vehicle collision in which
 
 ---
 
-### Society of Interventional Radiology position statement on endovascular intervention for trauma [^96d45851]. Journal of Vascular and Interventional Radiology (2020). High credibility.
+### Society of Interventional Radiology position statement on endovascular intervention for trauma [^114rcU5v]. Journal of Vascular and Interventional Radiology (2020). High credibility.
 
 Kidney — renal trauma management: Clinicians should use noninvasive management strategies in hemodynamically stable patients with renal injury. (Standard; evidence strength, grade B.) The surgical team must perform immediate intervention (surgery or angioembolization in selected situations) in hemodynamically unstable patients with no or transient response to resuscitation. (Standard; evidence strength, grade B.)
 
 ---
 
-### Society of Interventional Radiology position statement on endovascular intervention for trauma [^7c97fbf9]. Journal of Vascular and Interventional Radiology (2020). High credibility.
+### Society of Interventional Radiology position statement on endovascular intervention for trauma [^114BiWqW]. Journal of Vascular and Interventional Radiology (2020). High credibility.
 
 Liver — blunt trauma management: Blunt trauma patients with hemodynamic stability and absence of other internal injuries requiring surgery should undergo an initial attempt of non-operative management irrespective of injury grade (grade 2A); non-operative management is contraindicated in the setting of hemodynamic instability or peritonitis (grade 2A).
 
 ---
 
-### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^f662f0eb]. The Journal of Trauma (2011). Medium credibility.
+### Eastern Association for the Surgery of Trauma practice management guidelines for hemorrhage in pelvic fracture – update and systematic review [^117JHBrS]. The Journal of Trauma (2011). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, retroperitoneal packing, EAST 2011 guidelines recommend to perform retroperitoneal pelvic packing to control hemorrhage as part of a multidisciplinary clinical pathway including a pelvic orthotic device/C-clamp.
 
 ---
 
-### Non operative management of abdominal trauma-a 10 years review [^77fc21db]. World Journal of Emergency Surgery (2013). Low credibility.
+### Non operative management of abdominal trauma-a 10 years review [^1144tDU6]. World Journal of Emergency Surgery (2013). Low credibility.
 
 Material and methods
 
@@ -930,7 +930,7 @@ NOM patients were admitted to HDU/ICU, closely monitored with repeated clinical 
 
 ---
 
-### Preperitoneal packing versus angioembolization for the initial management of hemodynamically unstable pelvic fracture: a systematic review and meta-analysis [^fabd8110]. The Journal of Trauma and Acute Care Surgery (2022). Medium credibility.
+### Preperitoneal packing versus angioembolization for the initial management of hemodynamically unstable pelvic fracture: a systematic review and meta-analysis [^117QjZHq]. The Journal of Trauma and Acute Care Surgery (2022). Medium credibility.
 
 This project is the first to explore the differences between the AE and PPP cohort in a systematic fashion. Although the differences between AE and PPP or the indications for both are unlikely to be novel to a traumatologist, the significant clinical and physiological differences between the two groups found in this review is novel. While the role for each intervention cannot be fully explored, it is clear that, based on current literature, one should not be seen to be superior to another. To reduce the risk of missing studies, an overly broad search strategy was used to aid in identifying all possible studies pertaining to this topic.
 
@@ -938,32 +938,32 @@ Although commonly sprouted as the key recommendation in systematic reviews, a ra
 
 ---
 
-### Management of genitourinary injuries [^1007b504]. ACS (2025). High credibility.
+### Management of genitourinary injuries [^111QmPf1]. ACS (2025). High credibility.
 
 Renal trauma operative indications — Zone II retroperitoneal hematoma guidance prioritizes selective exploration. The primary indication of an underlying renal injury is the presence of a Zone II retroperitoneal hematoma. Do not disturb nonexpanding Zone II retroperitoneal hematomas resulting from blunt trauma, and take patients to CT imaging after laparotomy if hemodynamically stable. Explore Zone II hematomas after blunt trauma if the hematoma is ruptured, pulsatile, expanding, or in a patient with ongoing hemodynamic instability. After penetrating trauma, Zone II retroperitoneal hematomas may be explored because of the increased likelihood for clinically significant injury to the kidney or ureter that requires repair. Surgical intervention is required in patients who undergo imaging prior to exploration and are found to have hilar avulsions or extensive injuries of the renal pelvis or proximal ureter. Conservative or endourologic (minimally invasive) techniques can often be used as first-line options, and retroperitoneal exploration can generally be avoided in hemodynamically stable patients with renal parenchymal injuries without hilar involvement or other previously stated indications for exploration.
 
 ---
 
-### European Society of Intensive Care Medicine (ESICM) 2025 clinical practice guideline on fluid therapy in adult critically ill patients: part 2-the volume of resuscitation fluids [^86a10e3b]. Intensive Care Medicine (2025). High credibility.
+### European Society of Intensive Care Medicine (ESICM) 2025 clinical practice guideline on fluid therapy in adult critically ill patients: part 2-the volume of resuscitation fluids [^114SbSNv]. Intensive Care Medicine (2025). High credibility.
 
 Regarding medical management for traumatic hemorrhage, more specifically with respect to fluid resuscitation, ESICM 2025 guidelines recommend to consider using a restrictive fluid strategy in patients with hemorrhagic shock after blunt
 or penetrating trauma.
 
 ---
 
-### Pelvic trauma: WSES classification and guidelines [^999dc00b]. World Journal of Emergency Surgery (2017). Medium credibility.
+### Pelvic trauma: WSES classification and guidelines [^114vk6La]. World Journal of Emergency Surgery (2017). Medium credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, angioembolization, WSES 2017 guidelines recommend to consider performing angiography/embolization in patients with pelvic fracture and hemodynamic instability or evidence of ongoing bleeding, after pelvic stabilization, initiation of aggressive hemostatic resuscitation, and exclusion of extra-pelvic sources of blood loss.
 
 ---
 
-### Exsanguination in trauma: a review of diagnostics and treatment options [^95ba357e]. Injury (2009). Low credibility.
+### Exsanguination in trauma: a review of diagnostics and treatment options [^114pyhdf]. Injury (2009). Low credibility.
 
 Trauma patients with haemorrhagic shock who only transiently respond or do not respond to fluid therapy and/or the administration of blood products have exsanguinating injuries. Recognising shock due to (exsanguinating) haemorrhage in trauma is about constructing a synthesis of trauma mechanism, injuries, vital signs and the therapeutic response of the patient. The aim of prehospital care of bleeding trauma patients is to deliver the patient to a facility for definitive care within the shortest amount of time by rapid transport and minimise therapy to what is necessary to maintain adequate vital signs. Rapid decisions have to be made using regional trauma triage protocols that have incorporated patient condition, transport times and the level of care than can be performed by the prehospital care providers and the receiving hospitals. The treatment of bleeding patients is aimed at two major goals: stopping the bleeding and restoration of the blood volume. Fluid resuscitation should allow for preservation of vital functions without increasing the risk for further (re)bleeding. To prevent further deterioration and subsequent exsanguinations 'permissive hypotension' may be the goal to achieve. Within the hospital, a sound trauma team activation system, including the logistic procedure as well as activation criteria, is essential for a fast and adequate response. After determination of haemorrhagic shock, all efforts have to be directed to stop the bleeding in order to prevent exsanguinations. A simultaneous effort is made to restore blood volume and correct coagulation. Reversal of coagulopathy with pharmacotherapeutic interventions may be a promising concept to limit blood loss after trauma. Abdominal ultrasound has replaced diagnostic peritoneal lavage for detection of haemoperitoneum. With the development of sliding-gantry based computer tomography diagnostic systems, rapid evaluation by CT-scanning of the trauma patient is possible during resuscitation. The concept of damage control surgery, the staged approach in treatment of severe trauma, has proven to be of vital importance in the treatment of exsanguinating trauma patients and is adopted worldwide. When performing 'blind' transfusion or 'damage control resuscitation', a predetermined fixed ratio of blood components may result in the administration of higher plasma and platelets doses and may improve outcome. The role of thromboelastography and thromboelastometry as point-of-care tests for coagulation in massive blood loss is emerging, providing information about actual clot formation and clot stability, shortly (10min) after the blood sample is taken. Thus, therapy guided by the test results will allow for administration of specific coagulation factors that will be depleted despite administration with fresh frozen plasma during massive transfusion of blood components.
 
 ---
 
-### Management of pericardial fluid in blunt trauma: variability in practice and predictors of operative outcome in patients with computed tomography evidence of pericardial fluid [^e672c3ac]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
+### Management of pericardial fluid in blunt trauma: variability in practice and predictors of operative outcome in patients with computed tomography evidence of pericardial fluid [^116tehc7]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
 
 Background
 
@@ -987,7 +987,7 @@ Therapeutic/care management study, level IV.
 
 ---
 
-### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^74d4dd60]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
+### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^113zD4dV]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
 
 Purpose
 
@@ -1007,7 +1007,7 @@ Conservative management of SRH is likely to be effective in most patients, even 
 
 ---
 
-### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^64380b09]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
+### Spontaneous retroperitoneal haemorrhage: efficacy of conservative management and embolisation [^113ZaazL]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
 
 Discussion
 
@@ -1019,43 +1019,43 @@ SRH has traditionally been thought to occur predominantly in elderly patients on
 
 ---
 
-### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^64ebdb82]. Insights Into Imaging (2020). Medium credibility.
+### Predictive value of a false-negative focused abdominal sonography for trauma (FAST) result in patients with confirmed traumatic abdominal injury [^113acz49]. Insights Into Imaging (2020). Medium credibility.
 
 In conclusion, trauma patients with confirmed abdominal injury and a false-negative FAST have a better outcome than those with a true-positive FAST. FAST may be valuable for risk stratification and prognostication in patients with a high suspicion of abdominal injury when CT has not been performed yet or when CT is not available.
 
 ---
 
-### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^f78e31a6]. Annals of Emergency Medicine (2011). Medium credibility.
+### Clinical policy: critical issues in the evaluation of adult patients presenting to the emergency department with acute blunt abdominal trauma [^117L1hmX]. Annals of Emergency Medicine (2011). Medium credibility.
 
 Acute blunt abdominal trauma — screening for intra-abdominal injury using clinical indicators and laboratory values is described with diagnostic performance and CT utilization impact: Injuries qualifying for intra-abdominal injury included any contusion or laceration of an intra- or retroperitoneal viscus and/or the presence of free intra- or retroperitoneal fluid, and major injuries were defined as those requiring surgery or embolization, as well as splenic grade III injury or liver grade III injury or higher. Eighty-five of 714 patients evaluated had positive CT scan results, thirty-nine had major injuries, and 26 required surgery or embolization. Using clinical indicators (Glasgow Coma Scale score < 14, guarding, tenderness) and laboratory values (serum glutamic oxaloacetic transaminase/aspartate aminotransferase [SGOT/AST] > 50 IU/L, hematocrit level < 36, and WBC count > 10,000 mm3) as a screen for intra-abdominal injury, the study showed a sensitivity of 99%, specificity of 19%, PPV of 14%, NPV of 99%, and LLR of 1.2; knowledge of the FAST examination results could have biased clinician documentation of clinical indicators and falsely increased the diagnostic accuracy of these tests. Application of this screening test would have accounted for a reduction of 117 CT scans for patients in the study and would have misdiagnosed 1 patient with intra-abdominal injury.
 
 ---
 
-### Multidisciplinary management of thoracic aortic injury with hemodynamically unstable pelvic fracture in the elderly [^86fd9590]. Journal of Cardiothoracic Surgery (2025). Medium credibility.
+### Multidisciplinary management of thoracic aortic injury with hemodynamically unstable pelvic fracture in the elderly [^114T8Wyu]. Journal of Cardiothoracic Surgery (2025). Medium credibility.
 
 Early mortality in BTAI patients was primarily driven by inadequate tissue perfusion and hemodynamic instability. Acute injuries were associated with high mortality and morbidity rates, underscoring the significance of timely diagnosis and intervention. Although diagnosing BTAI was challenging, various imaging modalities could aid in its detection. For suspected trauma, Point-of-Care ultrasound (POCUS) is the preferred screening method in many emergency departments globally. FAST often reveals hypoechoic areas of free fluid in the chest cavity; however, in our first patient, the FAST yielded negative results, suggesting that a negative FAST does not rule out vascular injury, particularly in hemodynamically unstable patients. The use of transesophageal echocardiography (TEE) necessitates specialized training and is highly operator-dependent. Additionally, this procedure is contraindicated in patients with neck injuries and absolutely contraindicated in those with esophageal injuries. In a 9-year retrospective study, Goarin et al. compared TEE with angiography and CT in 209 patients with blunt trauma. They reported a sensitivity of 98% and a specificity of 100% for TEE in diagnosing injuries. However, TEE has limited visualization of the proximal ascending aorta and its major branches, potentially overlooking injuries such as partial rupture of the subclavian artery. TEE is theoretically suitable for hemodynamically unstable patients with a high suspicion of isolated aortic injury or those unfit for transfer to the radiology department for chest CT or aortic arch angiography. Although TEE can be performed at the bedside on potentially unstable patients, appropriate airway management may be required prior to the procedure. Chest X-ray is a rapid and convenient method for the early diagnosis of aortic injury, with mediastinal widening being the most crucial radiographic sign. However, the sensitivity and specificity of chest X-rays are often suboptimal. Studies have shown that approximately 7.3–44% of patients with aortic injury may have a normal mediastinum, increasing the risk of delayed diagnosis. For remote, non-trauma centers, it can serve as one of the diagnostic tools for suspicion and referral to advanced trauma centers. The gold standard for diagnosing BTAI is chest CTA, with a sensitivity of 95–100% and a negative predictive value of 99–100%. Although many trauma patients initially undergo "pan-scans", including chest CT, the timing of contrast administration may not be optimal for generating a formal chest CTA. However, as demonstrated in our reported patients, we recommend performing a full aortic angiography based on a comprehensive understanding of the patient's injury mechanism. High-energy trauma and hemodynamically unstable patients may benefit from a full aortic CTA evaluation to exclude uncontrolled active bleeding as much as possible. While digital subtraction angiography (DSA) can provide comparable diagnostic efficacy to CTA for the thoracic and abdominal aorta, it is not the preferred method due to its invasiveness.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^7d37d5ed]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^114CeCzY]. Critical Care (2023). High credibility.
 
 Regarding specific circumstances for traumatic hemorrhage, more specifically with respect to patients with pelvic trauma, retroperitoneal packing, ABC-T 2023 guidelines recommend to perform temporary extraperitoneal packing when bleeding is ongoing and/or when angioembolization cannot be achieved promptly. Consider combining extraperitoneal packing with open abdominal surgery when necessary.
 
 ---
 
-### Management of genitourinary injuries [^ea6b3e76]. ACS (2025). High credibility.
+### Management of genitourinary injuries [^116zY8E1]. ACS (2025). High credibility.
 
 Focused assessment with sonography for trauma (FAST) in suspected genitourinary trauma indicates that a positive FAST exam may indicate the presence of intraperitoneal bladder rupture. However, the FAST exam is neither sensitive nor specific in identifying GU trauma, and it is not suitable for the identification of fluid in the retroperitoneal space, which can be related to renal, ureteral, or extraperitoneal bladder injuries.
 
 ---
 
-### Best practices guidelines in imaging [^3eef03ac]. ACS (2018). Medium credibility.
+### Best practices guidelines in imaging [^112cJWr7]. ACS (2018). Medium credibility.
 
 Abdominal imaging in blunt abdominal trauma — Contrast-enhanced MDCT with multiplanar reformation is the best practice for screening the patient with blunt abdominal trauma. FAST has acceptable sensitivity (69–98 percent) for detection of free fluid and lower sensitivity (63 percent) for detection of solid organ injury in adults. A negative FAST does not rule out intraabdominal injury. An existing indication for laparotomy is the only absolute contraindication for radiographic assessment of the abdomen. Criteria for predicting children at very low risk for intraabdominal injury exist to determine the necessity of abdominal CT.
 
 ---
 
-### Management guidelines for penetrating abdominal trauma [^63945c93]. World Journal of Surgery (2015). Low credibility.
+### Management guidelines for penetrating abdominal trauma [^113YdcDY]. World Journal of Surgery (2015). Low credibility.
 
 Introduction
 
@@ -1075,7 +1075,7 @@ Indications for immediate laparotomy (LAP) include hemodynamic instability, evis
 
 ---
 
-### Should endovascular approach be the first line of treatment for retroperitoneal bleeding with hemodynamic shock following percutaneous intervention? A case series [^34b62c76]. Catheterization and Cardiovascular Interventions (2017). Low credibility.
+### Should endovascular approach be the first line of treatment for retroperitoneal bleeding with hemodynamic shock following percutaneous intervention? A case series [^112M9Ygd]. Catheterization and Cardiovascular Interventions (2017). Low credibility.
 
 Objectives
 
@@ -1099,7 +1099,7 @@ The incorporation of a standardized protocol using only clinical evaluation foll
 
 ---
 
-### Pelvic trauma: WSES classification and guidelines [^c8377a22]. World Journal of Emergency Surgery (2017). Low credibility.
+### Pelvic trauma: WSES classification and guidelines [^1167qA9F]. World Journal of Emergency Surgery (2017). Low credibility.
 
 Fig. 1
 PRISMA flow diagram
@@ -1115,7 +1115,7 @@ Principal mechanisms of injuries that cause a pelvic ring fracture are due to a 
 
 ---
 
-### Selective computed tomography and angioembolization provide benefits in the management of patients with concomitant unstable hemodynamics and negative sonography results [^adb03001]. World Journal of Surgery (2012). Low credibility.
+### Selective computed tomography and angioembolization provide benefits in the management of patients with concomitant unstable hemodynamics and negative sonography results [^115SW3AQ]. World Journal of Surgery (2012). Low credibility.
 
 Background
 

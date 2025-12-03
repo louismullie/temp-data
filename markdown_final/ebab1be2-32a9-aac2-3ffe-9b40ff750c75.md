@@ -15,41 +15,41 @@ Post void amount
 
 > Let's see… What do we have here? The user is asking about post-void residual (PVR) — what it is, how to measure it, how to interpret it across populations, and how to act on it. Let's break this down step-by-step. First, I need to think about defining PVR and its clinical relevance. Then, I should verify the best measurement methods and pitfalls. Next, I will examine normative values by population and the concept of "significant" PVR. After that, I need to check how PVR informs decision-making in key clinical scenarios. Finally, I will synthesize practical recommendations and highlight uncertainties that require caution in interpretation.
 
-> Let me first confirm the definition and why PVR matters. PVR is the volume of urine remaining in the bladder immediately after voiding; it is a nonspecific marker of impaired emptying that can reflect detrusor underactivity, bladder outlet obstruction, or both, and chronically elevated PVR can predispose to complications such as UTIs, stones, and upper tract deterioration, though the strength of evidence linking specific PVR thresholds to complications varies by population and context [^0a1af52e].
+> Let me first confirm the definition and why PVR matters. PVR is the volume of urine remaining in the bladder immediately after voiding; it is a nonspecific marker of impaired emptying that can reflect detrusor underactivity, bladder outlet obstruction, or both, and chronically elevated PVR can predispose to complications such as UTIs, stones, and upper tract deterioration, though the strength of evidence linking specific PVR thresholds to complications varies by population and context [^111Fyvzq].
 
-> I need to verify the optimal measurement method and timing. Ultrasound bladder scanning is preferred over catheterization because it is noninvasive and avoids infection or urethral trauma; catheterization remains the reference standard when ultrasound is unavailable or unreliable, and PVR should be measured as soon as possible after voiding to minimize error from post-void drainage or refilling, with attention to bladder fullness at the time of voiding to avoid false positives from overdistension [^9b2478f0] [^f6bb31ab].
+> I need to verify the optimal measurement method and timing. Ultrasound bladder scanning is preferred over catheterization because it is noninvasive and avoids infection or urethral trauma; catheterization remains the reference standard when ultrasound is unavailable or unreliable, and PVR should be measured as soon as possible after voiding to minimize error from post-void drainage or refilling, with attention to bladder fullness at the time of voiding to avoid false positives from overdistension [^114y1LDm] [^117JnqAA].
 
-> Hold on, let's not jump to conclusions about a single PVR value. I should double-check repeatability. A single elevated PVR is unreliable; repeating the measurement reduces false positives substantially, with studies showing that an initial PVR ≥ 100 mL often normalizes on repeat testing, so I should confirm an abnormality before making decisions that carry risk or cost [^547bc919] [^a50cd7c5].
+> Hold on, let's not jump to conclusions about a single PVR value. I should double-check repeatability. A single elevated PVR is unreliable; repeating the measurement reduces false positives substantially, with studies showing that an initial PVR ≥ 100 mL often normalizes on repeat testing, so I should confirm an abnormality before making decisions that carry risk or cost [^113AFYD6] [^115DhGhS].
 
-> Next, I should review normative PVR in healthy adults. In a large cohort of healthy adults, the 90th percentile for PVR was about 73 mL in men and 61 mL in women, and the 95th percentile was about 103 mL in men and 94 mL in women; importantly, PVR correlated with voided volume and symptom burden, but age did not independently influence PVR in multivariable analysis, which cautions against age-based thresholds alone [^6748101c].
+> Next, I should review normative PVR in healthy adults. In a large cohort of healthy adults, the 90th percentile for PVR was about 73 mL in men and 61 mL in women, and the 95th percentile was about 103 mL in men and 94 mL in women; importantly, PVR correlated with voided volume and symptom burden, but age did not independently influence PVR in multivariable analysis, which cautions against age-based thresholds alone [^113e7vvf].
 
-> Wait, let me verify population-specific norms. In adolescents, age and sex matter: older adolescents have higher PVRs than younger, and females have higher PVRs than males; the 90th percentile thresholds are roughly 20 mL for males and 25–35 mL for females depending on age, reinforcing the need for age- and sex-specific reference ranges rather than fixed cutoffs [^6414d245]. In children, normal PVR is often defined as less than 20 mL or less than 10% of expected bladder capacity, but intra-individual variability is high, so repeat measurement is essential to avoid misclassification [^873d239d] [^560e09f5].
+> Wait, let me verify population-specific norms. In adolescents, age and sex matter: older adolescents have higher PVRs than younger, and females have higher PVRs than males; the 90th percentile thresholds are roughly 20 mL for males and 25–35 mL for females depending on age, reinforcing the need for age- and sex-specific reference ranges rather than fixed cutoffs [^113ZNkpC]. In children, normal PVR is often defined as less than 20 mL or less than 10% of expected bladder capacity, but intra-individual variability is high, so repeat measurement is essential to avoid misclassification [^114TVs8Y] [^113Caeje].
 
-> I will now examine what constitutes "significant" or "elevated" PVR. There is no universal threshold; clinical significance depends on context. That said, many guidelines and studies pragmatically treat PVR greater than 150–200 mL as noteworthy in adults, while acknowledging that values between 50 and 200 mL are a gray zone and that PVR alone does not diagnose obstruction or detrusor underactivity [^98721b75]. In men with LUTS/BPH, a PVR greater than 300 mL is often flagged as "large" and worth monitoring, though it is not a strong predictor of acute urinary retention, so I should avoid overinterpreting a single large value [^add82bd1].
+> I will now examine what constitutes "significant" or "elevated" PVR. There is no universal threshold; clinical significance depends on context. That said, many guidelines and studies pragmatically treat PVR greater than 150–200 mL as noteworthy in adults, while acknowledging that values between 50 and 200 mL are a gray zone and that PVR alone does not diagnose obstruction or detrusor underactivity [^114u1Spk]. In men with LUTS/BPH, a PVR greater than 300 mL is often flagged as "large" and worth monitoring, though it is not a strong predictor of acute urinary retention, so I should avoid overinterpreting a single large value [^115SjU7A].
 
-> Let me consider the link between PVR and UTI risk, because this often drives action. In asymptomatic men, a PVR threshold of 180 mL was associated with high specificity but low sensitivity for bacteriuria, and a separate validation found poor diagnostic performance, so I should not use 180 mL as a standalone trigger for antibiotics or invasive therapy; instead, I should integrate PVR with symptoms, flow, and culture results [^4bc67e51] [^d98eddf1]. In women with recurrent UTIs, a PVR greater than 100 mL increases suspicion for incomplete emptying, but again, I should confirm with repeat testing and correlate with symptoms before escalating care [^fd7d0aaa].
+> Let me consider the link between PVR and UTI risk, because this often drives action. In asymptomatic men, a PVR threshold of 180 mL was associated with high specificity but low sensitivity for bacteriuria, and a separate validation found poor diagnostic performance, so I should not use 180 mL as a standalone trigger for antibiotics or invasive therapy; instead, I should integrate PVR with symptoms, flow, and culture results [^112wLk6k] [^116ZYJRe]. In women with recurrent UTIs, a PVR greater than 100 mL increases suspicion for incomplete emptying, but again, I should confirm with repeat testing and correlate with symptoms before escalating care [^117UosJh].
 
-> Next, I should review how PVR guides decisions in key scenarios. In men with LUTS/BPH, measuring PVR is recommended before initiating treatment or surgery, and a large PVR may influence the choice or timing of therapy, though it does not reliably predict acute retention; in women with stress urinary incontinence, PVR is part of the preoperative evaluation, and an elevated PVR should prompt reassessment of voiding function before anti-incontinence surgery; in neurogenic lower urinary tract dysfunction, PVR is essential at baseline and follow-up, with a PVR greater than 300 mL often prompting urodynamics and consideration of catheterization strategies; in the postpartum setting, covert retention is common, and many experts advocate using a higher threshold (for example, ≥ 500 mL) to define clinically meaningful retention given the larger bladder capacities during pregnancy and early postpartum [^add82bd1] [^38185763] [^0a1af52e] [^9e2c04f7].
+> Next, I should review how PVR guides decisions in key scenarios. In men with LUTS/BPH, measuring PVR is recommended before initiating treatment or surgery, and a large PVR may influence the choice or timing of therapy, though it does not reliably predict acute retention; in women with stress urinary incontinence, PVR is part of the preoperative evaluation, and an elevated PVR should prompt reassessment of voiding function before anti-incontinence surgery; in neurogenic lower urinary tract dysfunction, PVR is essential at baseline and follow-up, with a PVR greater than 300 mL often prompting urodynamics and consideration of catheterization strategies; in the postpartum setting, covert retention is common, and many experts advocate using a higher threshold (for example, ≥ 500 mL) to define clinically meaningful retention given the larger bladder capacities during pregnancy and early postpartum [^115SjU7A] [^112SAUzN] [^111Fyvzq] [^1153Vq6N].
 
-> I should confirm how PVR is used in overactive bladder care. Guidelines advise measuring PVR when OAB symptoms coexist with voiding or emptying symptoms or when response to therapy is suboptimal, largely to exclude retention or incomplete emptying that could be worsened by antimuscarinics; importantly, there is no accepted PVR threshold that contraindicates OAB therapy, but caution is warranted when PVR is elevated, and bladder voiding efficiency can help contextualize incomplete emptying when capacity is low [^9b2478f0].
+> I should confirm how PVR is used in overactive bladder care. Guidelines advise measuring PVR when OAB symptoms coexist with voiding or emptying symptoms or when response to therapy is suboptimal, largely to exclude retention or incomplete emptying that could be worsened by antimuscarinics; importantly, there is no accepted PVR threshold that contraindicates OAB therapy, but caution is warranted when PVR is elevated, and bladder voiding efficiency can help contextualize incomplete emptying when capacity is low [^114y1LDm].
 
-> But wait, what if the patient is postoperative and I need a practical threshold for retention. In urogynecologic postoperative care, voiding trials use inconsistent criteria; a PVR threshold around 150 mL balances detection of retention against unnecessary interventions, and cost-effectiveness modeling supports 150 mL over 100 mL to minimize ED visits and missed retention, though some centers use 100–200 mL depending on protocol and risk tolerance [^06272ce5] [^81b73fc8].
+> But wait, what if the patient is postoperative and I need a practical threshold for retention. In urogynecologic postoperative care, voiding trials use inconsistent criteria; a PVR threshold around 150 mL balances detection of retention against unnecessary interventions, and cost-effectiveness modeling supports 150 mL over 100 mL to minimize ED visits and missed retention, though some centers use 100–200 mL depending on protocol and risk tolerance [^111A85tY] [^114KJxLP].
 
-> I need to ensure I am not overpromising what PVR can tell us. PVR is a nonspecific safety marker; it cannot distinguish obstruction from detrusor underactivity, and a normal PVR does not exclude voiding dysfunction, so I should pair PVR with uroflowmetry, symptom assessment, and, when indicated, pressure-flow studies to clarify etiology and guide therapy [^98721b75] [^d3a205fd].
+> I need to ensure I am not overpromising what PVR can tell us. PVR is a nonspecific safety marker; it cannot distinguish obstruction from detrusor underactivity, and a normal PVR does not exclude voiding dysfunction, so I should pair PVR with uroflowmetry, symptom assessment, and, when indicated, pressure-flow studies to clarify etiology and guide therapy [^114u1Spk] [^116Qkow2].
 
-> Let me synthesize practical recommendations. Measure PVR with ultrasound when feasible, repeat if elevated, and interpret in clinical context; in general adults, PVR less than 50 mL is reassuring, 50–150 mL warrants attention if symptomatic or persistent, and greater than 150–200 mL should prompt evaluation for causes of incomplete emptying; in adolescents, use age- and sex-specific percentiles; in children, repeat measurements are critical and PVR greater than 20 mL or greater than 10% of capacity is concerning if persistent; in neurogenic patients, PVR greater than 300 mL should trigger further assessment; and in postpartum patients, consider higher thresholds and monitor closely for persistence beyond 7 days [^6748101c] [^6414d245] [^873d239d] [^0a1af52e].
+> Let me synthesize practical recommendations. Measure PVR with ultrasound when feasible, repeat if elevated, and interpret in clinical context; in general adults, PVR less than 50 mL is reassuring, 50–150 mL warrants attention if symptomatic or persistent, and greater than 150–200 mL should prompt evaluation for causes of incomplete emptying; in adolescents, use age- and sex-specific percentiles; in children, repeat measurements are critical and PVR greater than 20 mL or greater than 10% of capacity is concerning if persistent; in neurogenic patients, PVR greater than 300 mL should trigger further assessment; and in postpartum patients, consider higher thresholds and monitor closely for persistence beyond 7 days [^113e7vvf] [^113ZNkpC] [^114TVs8Y] [^111Fyvzq].
 
-> Finally, I should double-check key uncertainties so we do not overgeneralize. There is no consensus on a single "normal" PVR across populations, evidence linking specific PVR thresholds to hard outcomes like renal failure is limited, and measurement variability and bladder fullness at voiding can confound interpretation; therefore, I should individualize decisions, avoid reflexive catheterization based on a single value, and align follow-up with symptoms, risk, and the clinical scenario [^7ec73c33] [^8e6ce9e4] [^f6bb31ab].
+> Finally, I should double-check key uncertainties so we do not overgeneralize. There is no consensus on a single "normal" PVR across populations, evidence linking specific PVR thresholds to hard outcomes like renal failure is limited, and measurement variability and bladder fullness at voiding can confound interpretation; therefore, I should individualize decisions, avoid reflexive catheterization based on a single value, and align follow-up with symptoms, risk, and the clinical scenario [^114ExMvS] [^114e9pps] [^117JnqAA].
 
 ---
 
-Post-void residual (PVR) is the **volume of urine remaining in the bladder after voiding**, typically measured by ultrasound or catheterization. PVR is used to assess bladder emptying and guide management of LUTS, incontinence, and neurogenic bladder [^8e6ce9e4] [^4d5ce8b3]. Normal PVR is **generally < 50 mL** [^7dd6c7df]; 50–100 mL is borderline, and > 100 mL is considered abnormal and may indicate retention or voiding dysfunction [^notfound]. Elevated PVR increases risks of UTI, renal damage, and retention [^4d5ce8b3]; management depends on cause and may include bladder training, medications, or catheterization [^7ec73c33]. Always confirm a single elevated PVR with repeat measurement before acting [^a50cd7c5] [^547bc919].
+Post-void residual (PVR) is the **volume of urine remaining in the bladder after voiding**, typically measured by ultrasound or catheterization. PVR is used to assess bladder emptying and guide management of LUTS, incontinence, and neurogenic bladder [^114e9pps] [^112yhFiJ]. Normal PVR is **generally < 50 mL** [^114DZbVY]; 50–100 mL is borderline, and > 100 mL is considered abnormal and may indicate retention or voiding dysfunction [^notfound]. Elevated PVR increases risks of UTI, renal damage, and retention [^112yhFiJ]; management depends on cause and may include bladder training, medications, or catheterization [^114ExMvS]. Always confirm a single elevated PVR with repeat measurement before acting [^115DhGhS] [^113AFYD6].
 
 ---
 
 ## Definition and clinical significance
 
-PVR is the **volume of urine remaining in the bladder after voiding** [^bca36dd5]; it reflects bladder emptying efficiency and helps identify retention or voiding dysfunction [^4d5ce8b3]. PVR is a standard part of evaluating LUTS, incontinence, and neurogenic bladder [^8e6ce9e4] [^4d5ce8b3].
+PVR is the **volume of urine remaining in the bladder after voiding** [^115pfZqN]; it reflects bladder emptying efficiency and helps identify retention or voiding dysfunction [^112yhFiJ]. PVR is a standard part of evaluating LUTS, incontinence, and neurogenic bladder [^114e9pps] [^112yhFiJ].
 
 ---
 
@@ -65,13 +65,13 @@ Normal PVR varies by age, sex, and bladder capacity; general adult thresholds in
 
 ---
 
-These thresholds guide decisions, but **repeat measurement is essential** to confirm persistence before acting [^a50cd7c5] [^547bc919].
+These thresholds guide decisions, but **repeat measurement is essential** to confirm persistence before acting [^115DhGhS] [^113AFYD6].
 
 ---
 
 ## Measurement methods
 
-PVR can be measured by **ultrasound (preferred)** [^51c1ec24] or **catheterization (reference standard)** [^0a1af52e]. Ultrasound is noninvasive and accurate, but accuracy can be reduced by obesity, prior surgery, or pelvic pathology [^3150e6db]; catheterization is more invasive and carries UTI risk [^a50cd7c5].
+PVR can be measured by **ultrasound (preferred)** [^1136D8ju] or **catheterization (reference standard)** [^111Fyvzq]. Ultrasound is noninvasive and accurate, but accuracy can be reduced by obesity, prior surgery, or pelvic pathology [^112G7ZuL]; catheterization is more invasive and carries UTI risk [^115DhGhS].
 
 ---
 
@@ -80,7 +80,7 @@ PVR can be measured by **ultrasound (preferred)** [^51c1ec24] or **catheterizati
 Elevated PVR signals impaired emptying and is associated with:
 
 - **Increased UTI risk**: Especially with PVR > 100 mL [^notfound].
-- **Renal damage**: From chronic retention and backpressure [^4d5ce8b3].
+- **Renal damage**: From chronic retention and backpressure [^112yhFiJ].
 - **Acute urinary retention**: Particularly in men with BPH or neurogenic bladder [^notfound].
 
 ---
@@ -90,8 +90,8 @@ Elevated PVR signals impaired emptying and is associated with:
 Several factors affect PVR:
 
 - **Age**: Older adults have higher PVR due to reduced detrusor function [^notfound].
-- **Sex**: Men have higher PVR due to prostate-related obstruction [^c4cba3b5].
-- **Bladder capacity**: Larger bladders may have higher absolute PVR but similar relative residuals [^6748101c].
+- **Sex**: Men have higher PVR due to prostate-related obstruction [^1162kyTA].
+- **Bladder capacity**: Larger bladders may have higher absolute PVR but similar relative residuals [^113e7vvf].
 - **Medications**: Anticholinergics and opioids can increase PVR [^notfound].
 
 ---
@@ -101,33 +101,33 @@ Several factors affect PVR:
 Management depends on cause, severity, and symptoms:
 
 - **Behavioral therapy**: Bladder training, double voiding, pelvic floor therapy [^notfound].
-- **Medications**: Alpha-blockers for obstruction; cholinergics for detrusor underactivity [^72cd28e6].
-- **Catheterization**: Intermittent or indwelling for retention or neurogenic bladder [^7ec73c33].
-- **Surgery**: For obstruction (e.g. TURP) or severe prolapse [^7dd6c7df].
+- **Medications**: Alpha-blockers for obstruction; cholinergics for detrusor underactivity [^113wCVxh].
+- **Catheterization**: Intermittent or indwelling for retention or neurogenic bladder [^114ExMvS].
+- **Surgery**: For obstruction (e.g. TURP) or severe prolapse [^114DZbVY].
 
 ---
 
 ## Special considerations
 
-- **Neurogenic bladder**: PVR > 300 mL warrants urodynamics and close follow-up [^0a1af52e].
-- **Postpartum retention**: Common; most resolve, but persistent PVR > 150 mL needs evaluation [^53eafec4].
-- **Pediatrics**: PVR > 20 mL or > 10% of capacity is abnormal and may indicate dysfunction [^560e09f5].
+- **Neurogenic bladder**: PVR > 300 mL warrants urodynamics and close follow-up [^111Fyvzq].
+- **Postpartum retention**: Common; most resolve, but persistent PVR > 150 mL needs evaluation [^1139QuTy].
+- **Pediatrics**: PVR > 20 mL or > 10% of capacity is abnormal and may indicate dysfunction [^113Caeje].
 
 ---
 
 ## Limitations and considerations
 
-PVR is a snapshot and can vary with hydration, anxiety, or measurement method; **repeat measurement is critical** to confirm abnormalities before making decisions [^a50cd7c5] [^547bc919]. PVR alone does not distinguish obstruction from detrusor underactivity, so clinical context and, when needed, urodynamics are essential [^98721b75].
+PVR is a snapshot and can vary with hydration, anxiety, or measurement method; **repeat measurement is critical** to confirm abnormalities before making decisions [^115DhGhS] [^113AFYD6]. PVR alone does not distinguish obstruction from detrusor underactivity, so clinical context and, when needed, urodynamics are essential [^114u1Spk].
 
 ---
 
-PVR is a key measure of bladder emptying; **normal is generally < 50 mL**, with > 100 mL prompting evaluation. Management is tailored to cause and symptoms, and **repeat measurement is essential** to confirm persistence before intervening [^a50cd7c5].
+PVR is a key measure of bladder emptying; **normal is generally < 50 mL**, with > 100 mL prompting evaluation. Management is tailored to cause and symptoms, and **repeat measurement is essential** to confirm persistence before intervening [^115DhGhS].
 
 ---
 
 ## References
 
-### Residual urinary volume and urinary tract infection – when are they linked? [^4bc67e51]. The Journal of Urology (2008). Low credibility.
+### Residual urinary volume and urinary tract infection – when are they linked? [^112wLk6k]. The Journal of Urology (2008). Low credibility.
 
 Purpose
 
@@ -147,7 +147,7 @@ Clinically asymptomatic adult men with a post-void residual volume of 180 mL are
 
 ---
 
-### Measurement of post-void residual urine [^8e6ce9e4]. Neurourology and Urodynamics (2016). Low credibility.
+### Measurement of post-void residual urine [^114e9pps]. Neurourology and Urodynamics (2016). Low credibility.
 
 Aims
 
@@ -167,7 +167,7 @@ Measurement of PVR is recommended in guidelines and recommendations on the manag
 
 ---
 
-### Age-and gender-specific normal post void residual urine volume in healthy adolescents [^6414d245]. Journal of Pediatric Urology (2023). Medium credibility.
+### Age-and gender-specific normal post void residual urine volume in healthy adolescents [^113ZNkpC]. Journal of Pediatric Urology (2023). Medium credibility.
 
 Introduction
 
@@ -191,19 +191,19 @@ PVR increases with age and varies by gender; thus, age-and gender-specific refer
 
 ---
 
-### Canadian Urological Association best practice report: diagnosis and management of nocturia [^f0da9543]. Canadian Urological Association Journal = Journal de L'Association des Urologues du Canada (2022). High credibility.
+### Canadian Urological Association best practice report: diagnosis and management of nocturia [^117A5SyY]. Canadian Urological Association Journal = Journal de L'Association des Urologues du Canada (2022). High credibility.
 
 Regarding diagnostic investigations for nocturia, more specifically with respect to post-void residual volume, CUA 2022 guidelines recommend to assess post-void residual volume in the initial evaluation of patients with nocturia.
 
 ---
 
-### No. 397-conservative care of urinary incontinence in women [^59ed3252]. Journal of Obstetrics and Gynaecology Canada (2020). High credibility.
+### No. 397-conservative care of urinary incontinence in women [^113JKa3T]. Journal of Obstetrics and Gynaecology Canada (2020). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in women, more specifically with respect to post-void residual volume, SOGC 2020 guidelines recommend to measure post-void residual volume in the initial evaluation of all female patients with UI.
 
 ---
 
-### Post-void residual urine as a predictor of urinary tract infection – is there a cutoff value in asymptomatic men? [^d98eddf1]. The Journal of Urology (2009). Low credibility.
+### Post-void residual urine as a predictor of urinary tract infection – is there a cutoff value in asymptomatic men? [^116ZYJRe]. The Journal of Urology (2009). Low credibility.
 
 Purpose
 
@@ -223,7 +223,7 @@ No cutoff value could be determined to predict positive urine culture with suffi
 
 ---
 
-### Can we define the optimal postvoid residual volume at which intermittent catheterization should be recommended, and are there other measures that could guide an intermittent catheterization protocol: ICI-RS 2023 [^7ec73c33]. Neurourology and Urodynamics (2024). Medium credibility.
+### Can we define the optimal postvoid residual volume at which intermittent catheterization should be recommended, and are there other measures that could guide an intermittent catheterization protocol: ICI-RS 2023 [^114ExMvS]. Neurourology and Urodynamics (2024). Medium credibility.
 
 Aims
 
@@ -243,43 +243,43 @@ There is a lack of high quality evidence to support PVR as a predictor for compl
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^dc65d77d]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^116dkV32]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for underactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to provide bladder voiding efficiency as an additional parameter when measuring post-void residual volume.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^b9cef489]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^115kUDwv]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for underactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to monitor post-void residual volume in patients receiving treatment that may cause or worsen voiding dysfunction.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^e5cca5fa]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^116sguQV]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for overactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to provide bladder voiding efficiency as an additional parameter when measuring post-void residual volume.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^ee603a28]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^1176QNj9]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in women, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to provide bladder voiding efficiency as an additional parameter when measuring post-void residual volume.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^4a211562]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^112tuCNd]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for overactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to monitor post-void residual volume in patients receiving treatment that may cause or worsen voiding dysfunction.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^24afe0a5]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^111wPdWt]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in women, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to monitor post-void residual volume in patients scheduled for or receiving treatment that may cause or worsen voiding dysfunction, including surgery for stress UI.
 
 ---
 
-### Repeatability of post-void residual urine ≥ 100 mL in urogynaecologic patients [^547bc919]. International Urogynecology Journal (2012). Low credibility.
+### Repeatability of post-void residual urine ≥ 100 mL in urogynaecologic patients [^113AFYD6]. International Urogynecology Journal (2012). Low credibility.
 
 Introduction and Hypothesis
 
@@ -299,49 +299,49 @@ One PVR measurement ≥ 100 mL is unreliable and needs repetition to confirm con
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^b97ab277]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^115jyvU6]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in women, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to measure post-void residual volume in patients with LUTS during initial assessment, including when assessing patients with voiding symptoms or complicated stress UI.
 
 ---
 
-### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^5fc81c72]. The Journal of Urology (2024). High credibility.
+### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^113T13FX]. The Journal of Urology (2024). High credibility.
 
 Regarding diagnostic investigations for overactive bladder, more specifically with respect to post-void residual volume, AUA/SUFU 2024 guidelines recommend to consider measuring post-void residual volume in patients with symptoms suggestive of overactive bladder to exclude incomplete emptying or urinary retention, especially in patients with concomitant voiding or emptying symptoms.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^6af2a8ad]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^113jZCFN]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for underactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to measure post-void residual volume with ultrasound in patients with LUTS during initial assessment.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^51c1ec24]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^1136D8ju]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in women, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to use ultrasound in preference to catheterization to measure post-void residual volume.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^d7a83d02]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^116Wir8q]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for bladder outlet obstruction, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to provide bladder voiding efficiency as an additional parameter when measuring post-void residual volume.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^469963ce]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^112off17]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for bladder outlet obstruction, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to monitor post-void residual volume in patients receiving treatment that may cause or worsen voiding dysfunction.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^ecdce529]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^1174AGtg]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for overactive bladder, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to measure post-void residual volume with ultrasound in patients with LUTS during initial assessment.
 
 ---
 
-### NCT01912339 | Safety and efficacy study for the treatment of BPH… [^983f0c3f]. ClinicalTrials (2013). Low credibility.
+### NCT01912339 | Safety and efficacy study for the treatment of BPH… [^114tiJ78]. ClinicalTrials (2013). Low credibility.
 
 Safety and Efficacy Study for the Treatment of BPH ClinicalTrials. gov ID Study Overview Device: Rezum System Procedure: Rigid Cystoscopy
 - 2105–001. Participation Criteria For general information about clinical research, read Learn About Studies. Inclusion Criteria:
@@ -366,19 +366,19 @@ The total score, summed across the seven items measured, ranges from 0 to
 
 ---
 
-### ACOG practice bulletin no. 155: urinary incontinence in women [^420cea7d]. Obstetrics and Gynecology (2015). Medium credibility.
+### ACOG practice bulletin no. 155: urinary incontinence in women [^112gvXDv]. Obstetrics and Gynecology (2015). Medium credibility.
 
 Postvoid residual urine volume — screening and thresholds: According to the Value of Urodynamic Evaluation trial, a postvoid residual volume of less than 150 mL measured by bladder ultrasonography or catheter indicates adequate bladder emptying in women undergoing stress urinary incontinence surgery, and because isolated instances of elevated residual urine volume may not be significant, the test should be repeated when a single abnormally high value is obtained. An elevated postvoid residual urine volume in the absence of pelvic organ prolapse is uncommon and should trigger an evaluation.
 
 ---
 
-### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^408ca4a7]. EAU (2025). High credibility.
+### EAU guidelines on management of non-neurogenic female lower urinary tract symptoms [^112ehSzA]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for bladder outlet obstruction, more specifically with respect to post-void residual volume, EAU/EAUN 2025 guidelines recommend to measure post-void residual volume with ultrasound in patients with LUTS during initial assessment.
 
 ---
 
-### Normal postvoid residual urine in healthy adults [^6748101c]. Neurourology and Urodynamics (2024). Medium credibility.
+### Normal postvoid residual urine in healthy adults [^113e7vvf]. Neurourology and Urodynamics (2024). Medium credibility.
 
 Objective
 
@@ -398,13 +398,13 @@ Women had lower PVR than men. The 90th percentile or 95th percentile of normal a
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^a50cd7c5]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^115DhGhS]. The Journal of Urology (2012). Medium credibility.
 
 Adult urodynamics — post-void residual (PVR) assessment in LUTS states that the potential benefits of measuring PVR include identifying significant urinary retention and decreasing potential morbidity, and while no conclusive evidence exists to support or refute its use to predict treatment outcomes, it may be used on the basis of expert opinion as a safety measure to evaluate for significant urinary retention both initially and during subsequent monitoring; risks/harms of catheterization are low and include UTI or urethral trauma and can be eliminated with ultrasound determination of PVR, but because measurement of PVR may be associated with false positives and negatives and thus could lead to inappropriate treatment, it is recommended that decisions not be based on a single measurement.
 
 ---
 
-### Normative noninvasive bladder function measurements in healthy women: a systematic review and meta-analysis [^28560fea]. Neurourology and Urodynamics (2020). Medium credibility.
+### Normative noninvasive bladder function measurements in healthy women: a systematic review and meta-analysis [^1122oQu7]. Neurourology and Urodynamics (2020). Medium credibility.
 
 Aim
 
@@ -424,7 +424,7 @@ Although summary mean estimates of bladder function parameters were calculated, 
 
 ---
 
-### Variability, related factors and normal reference value of post-void residual urine in healthy kindergarteners [^873d239d]. The Journal of Urology (2009). Low credibility.
+### Variability, related factors and normal reference value of post-void residual urine in healthy kindergarteners [^114TVs8Y]. The Journal of Urology (2009). Low credibility.
 
 Purpose
 
@@ -444,25 +444,25 @@ Because of the significant intra-individual variability of post-void residual ur
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^8d5ab7ef]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^114cZj5G]. The Journal of Urology (2012). Medium credibility.
 
 Regarding diagnostic investigations for urinary incontinence in men, more specifically with respect to assessment of PVR, AUA/SUFU 2012 guidelines recommend to measure post-void residual urine volume in patients with stress UI when considering invasive therapy.
 
 ---
 
-### Normal lower urinary tract assessment in women: I. uroflowmetry and post-void residual, pad tests, and bladder diaries [^b85c704b]. International Urogynecology Journal (2012). Low credibility.
+### Normal lower urinary tract assessment in women: I. uroflowmetry and post-void residual, pad tests, and bladder diaries [^115iKmhk]. International Urogynecology Journal (2012). Low credibility.
 
 This study aims to provide reference ranges of normal variability in urodynamic parameters through literature review of normal urodynamic values in the literature. Data were obtained through MEDLINE from articles published between January 1956 and February 2011, International Continence Society meeting abstracts and standardization reports. Search terms included urodynamics, bladder diary, uroflowmetry, frequency volume charts, pad tests, normal control, and normal volunteer. Normal values varied widely in the literature. However, with the help of clinical data, it was possible to define "normality" ranges for most of the different parameters. Urodynamic evaluation of lower urinary tract (LUT) function is not a physiological test. However, it is still the best available tool to assess LUT function. Even if normality in urodynamics can be defined, tests must always be interpreted against patient characteristics, complaints, and symptoms.
 
 ---
 
-### European Association of Urology guidelines on male urinary incontinence [^1a75c9ab]. European Urology (2022). High credibility.
+### European Association of Urology guidelines on male urinary incontinence [^111gEF22]. European Urology (2022). High credibility.
 
 Regarding diagnostic investigations for urinary incontinence in men, more specifically with respect to assessment of PVR, EAU 2022 guidelines recommend to measure post-void residual in the assessment of UI.
 
 ---
 
-### Post-void residual urine under 150 mL does not exclude voiding dysfunction in women [^38c0c242]. International Urogynecology Journal (2016). Low credibility.
+### Post-void residual urine under 150 mL does not exclude voiding dysfunction in women [^112T942V]. International Urogynecology Journal (2016). Low credibility.
 
 Introduction and Hypothesis
 
@@ -482,7 +482,7 @@ Patients with voiding dysfunction often have normal PVR and so PVR < 150 mL cann
 
 ---
 
-### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^53eafec4]. International Urogynecology Journal (2022). Medium credibility.
+### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^1139QuTy]. International Urogynecology Journal (2022). Medium credibility.
 
 Discussion
 
@@ -492,7 +492,7 @@ Post-void residual volume is not uniformly defined and there is no consensus on 
 
 ---
 
-### Longitudinal changes in post-void residual and voided volume among community dwelling men [^dd473baa]. The Journal of Urology (2005). Low credibility.
+### Longitudinal changes in post-void residual and voided volume among community dwelling men [^116f4C1f]. The Journal of Urology (2005). Low credibility.
 
 Purpose
 
@@ -512,7 +512,7 @@ Although it is highly variable, there is progressive bladder dysfunction in comm
 
 ---
 
-### Large voided volume suggestive of abnormal uroflow pattern and elevated post-void residual urine [^4140a4ba]. Neurourology and Urodynamics (2011). Low credibility.
+### Large voided volume suggestive of abnormal uroflow pattern and elevated post-void residual urine [^112fjug5]. Neurourology and Urodynamics (2011). Low credibility.
 
 Aim
 
@@ -532,7 +532,7 @@ VV of more than 100% EBC can be defined as LVV which was associated with higher 
 
 ---
 
-### Measurement of post-void residual bladder volumes in hospitalized older adults [^7ab93486]. The American Journal of Medicine (2015). Low credibility.
+### Measurement of post-void residual bladder volumes in hospitalized older adults [^1148whU9]. The American Journal of Medicine (2015). Low credibility.
 
 Background
 
@@ -552,13 +552,13 @@ We conclude that urinary retention in hospitalized geriatric patients is common,
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^98721b75]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^114u1Spk]. The Journal of Urology (2012). Medium credibility.
 
 Adult urodynamics — post-void residual (PVR) testing in lower urinary tract symptoms (LUTS): "Clinicians may perform PVR in patients with LUTS as a safety measure to rule out significant urinary retention both initially and during follow up. (Clinical Principle)". PVR elevation may reflect detrusor underactivity, bladder outlet obstruction (BOO), or both, making it "a non-specific indication of poor bladder emptying". An elevated PVR alone "does not necessarily predict the presence of obstruction", and "PVR alone cannot be used to differentiate between obstructed and non-obstructed patients", with "no agreed upon standard definition of exactly what constitutes an elevated PVR". Although "in some patients an elevated PVR may be harmful", based on experience in pediatrics, the elderly, diabetics and neurogenic patients, "it is not clear which patients" with LUTS absent these conditions are predisposed to harm, and "there are no relevant studies that have identified the usefulness of PVR for guiding clinical management".
 
 ---
 
-### Post-operative residual voiding volume following bulking… [^9de7ff36]. ClinicalTrials (2023). Medium credibility.
+### Post-operative residual voiding volume following bulking… [^11536yuf]. ClinicalTrials (2023). Medium credibility.
 
 Post-operative Residual Voiding Volume Following Bulking and Vaginal Prolapse Surgery and Impact on In-hospital Stay ClinicalTrials. gov ID. Study Overview Post operative urinary retention is a commonly observed complication following women undergoing urogynecology surgery. The trial includes patients undergoing bulking and vaginal prolapse surgery, who are randomized in two postoperative groups prior to surgery in order to test two void regimes. One group includes a strict voiding regime, where patients are discharged when voiding volume is minimum 150 mL and residual volume is maximum 200 ml. Comparatively, the minimalistic voiding group discharge patients after one spontaneous voiding, independent of voiding volume and residual volume. The primary aim of this study is to evaluate time to discharge in two different voiding trials techniques after anterior, posterior or vaginal vault prolapse surgery as well as bulking surgery.
 
@@ -573,13 +573,13 @@ To assess the patients' need for guidance after surgery, the patients' calls to 
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^87de9540]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^114US6K1]. The Journal of Urology (2012). Medium credibility.
 
 Regarding diagnostic investigations for urinary incontinence in men, more specifically with respect to assessment of PVR, AUA/SUFU 2012 guidelines recommend to consider measuring post-void residual in patients with LUTS as a safety measure to rule out significant urinary retention, both initially and during follow-up.
 
 ---
 
-### Establishing a mean postvoid residual volume in asymptomatic perimenopausal and postmenopausal women [^e8360e5a]. Obstetrics and Gynecology (2007). Low credibility.
+### Establishing a mean postvoid residual volume in asymptomatic perimenopausal and postmenopausal women [^116wGHUd]. Obstetrics and Gynecology (2007). Low credibility.
 
 Objective
 
@@ -599,13 +599,13 @@ Most asymptomatic perimenopausal and postmenopausal women had a PVR volume less 
 
 ---
 
-### ACR / SNMMI / SPR practice guideline for the performance of adult and pediatric radionuclide cystography [^b200a724]. SNMMI (2025). High credibility.
+### ACR / SNMMI / SPR practice guideline for the performance of adult and pediatric radionuclide cystography [^115Yu1t7]. SNMMI (2025). High credibility.
 
 Radionuclide cystography — residual volume assessment states that for quantification of postvoid residual volumes, prevoid and postvoid bladder images should be acquired anteriorly or posteriorly with regions of interest (ROI) drawn on both sets, the voided urine volume recorded, and residual volume (RV) estimated by formulas using bladder ROI counts with the voided volume or, when the filling volume is known, by an equation using the initial bladder volume.
 
 ---
 
-### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^87f06ea4]. International Urogynecology Journal (2022). Medium credibility.
+### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^114UY63M]. International Urogynecology Journal (2022). Medium credibility.
 
 Table 2
 Demographic and peripartum factors (left column) grouped by normalization of post-void residual urine at 7 and 9 days. p values were calculated using Fisher's exact test and Wilcoxon/Mann–Whitney tests respectively, to compare if there were differences in the grouped factors between patients with normalized PVR and those with persistent PVR (i.e. if there were differences in age distribution between patients with normalized and those with persistent PVR)
@@ -621,7 +621,7 @@ The idea of PUR being transient and self-limiting has to be questioned. This bel
 
 ---
 
-### Natural history of post-void residual urine volume over 5 years in community-dwelling older men: the concord health and ageing in men project [^449c8e47]. Neurourology and Urodynamics (2018). Low credibility.
+### Natural history of post-void residual urine volume over 5 years in community-dwelling older men: the concord health and ageing in men project [^112kik7g]. Neurourology and Urodynamics (2018). Low credibility.
 
 Aims
 
@@ -641,7 +641,7 @@ Conservative management may be appropriate for most older men with incidentally 
 
 ---
 
-### Is a pelvic examination contributory in the initial evaluation of women with recurrent urinary tract infections? [^fd7d0aaa]. International Urogynecology Journal (2020). Medium credibility.
+### Is a pelvic examination contributory in the initial evaluation of women with recurrent urinary tract infections? [^117UosJh]. International Urogynecology Journal (2020). Medium credibility.
 
 Introduction and Hypothesis
 
@@ -661,25 +661,25 @@ In women with rUTI who report absence of vaginal bulge symptoms and have a PVR <
 
 ---
 
-### AUGS-IUGA joint clinical consensus statement on enhanced recovery after urogynecologic surgery: developed by the joint writing group of the international urogynecological association and the American Urogynecologic Society. individual writing group members are noted in the acknowledgements section [^dd372c04]. Urogynecology (2022). High credibility.
+### AUGS-IUGA joint clinical consensus statement on enhanced recovery after urogynecologic surgery: developed by the joint writing group of the international urogynecological association and the American Urogynecologic Society. individual writing group members are noted in the acknowledgements section [^116exo7h]. Urogynecology (2022). High credibility.
 
 Urinary catheter management — remove the urinary catheter as soon as is feasible with subsequent monitoring of post-void residual volumes. Grade of recommendation: Strong. Quality of evidence: High.
 
 ---
 
-### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^0a1af52e]. The Journal of Urology (2021). High credibility.
+### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^111Fyvzq]. The Journal of Urology (2021). High credibility.
 
 Adult neurogenic lower urinary tract dysfunction (NLUTD) — post-void residual (PVR) definition, measurement, and follow-up — has no universally agreed definition, and in NLUTD there is no definite upper limit defining normal or a lower limit defining abnormal; a volume of greater than 300 cc has been suggested as a definition for non-neurogenic chronic urinary retention. An elevated PVR that could be associated with lower urinary tract symptoms (LUTS), urinary tract infection (UTI), or upper tract deterioration is generally considered abnormal and should prompt further evaluation with multichannel UDS and treatment as indicated. PVR can be measured by transabdominal bladder scanner, real-time ultrasound (US), or urethral catheterization; catheterization is the most accurate but most invasive, and the accuracy of transabdominal US may be compromised by factors such as obesity, prior lower abdominal or pelvic surgery, ascites or pelvic cysts, and vaginal prolapse. A single elevated PVR may not reflect emptying ability and should be confirmed with a second measurement at another visit; a PVR should be performed at the time of diagnosis and may be checked periodically thereafter, recognizing that some NLUTD patients cannot empty on command and that a low PVR does not absolutely exclude significant NLUTD risk.
 
 ---
 
-### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^9b2478f0]. The Journal of Urology (2024). High credibility.
+### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^114y1LDm]. The Journal of Urology (2024). High credibility.
 
 AUA/SUFU Guideline on Overactive Bladder — post‑void residual (PVR) and incomplete emptying: Clinicians may obtain a post-void residual in patients with symptoms suggestive of OAB to exclude incomplete emptying or urinary retention, especially in patients with concomitant voiding or emptying symptoms (Clinical Principle). PVR should be performed immediately after voiding with a non-invasive ultrasound bladder scanner, and straight catheterization is acceptable if a bladder scanner is unavailable. It is important to note that there is no accepted volume threshold that defines elevated PVR, although most RCTs evaluating medication for OAB used a PVR of 150–200 mL as an exclusion criterion. The use of antimuscarinic medications in patients with an elevated PVR may exacerbate incomplete emptying. If a patient has a low functional bladder capacity (< 300 mL), the clinician can use bladder voiding efficiency (voided volume/bladder capacity) to evaluate for incomplete emptying.
 
 ---
 
-### Women with pure stress urinary incontinence symptoms assessed by the initial standard evaluation including measurement of post-void residual volume and a stress test: are urodynamic studies still needed? [^83d00953]. Neurourology and Urodynamics (2012). Low credibility.
+### Women with pure stress urinary incontinence symptoms assessed by the initial standard evaluation including measurement of post-void residual volume and a stress test: are urodynamic studies still needed? [^114NRFnz]. Neurourology and Urodynamics (2012). Low credibility.
 
 Aims
 
@@ -699,7 +699,7 @@ As one-fifth of women with pure SUI symptoms exhibit the pathophysiologies that 
 
 ---
 
-### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^76de7017]. International Urogynecology Journal (2022). Medium credibility.
+### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^1143EFh8]. International Urogynecology Journal (2022). Medium credibility.
 
 Risk factors for PUR include: a prolonged second stage of labor (duration of labor [first and second stage] > 700 min predicts PUR), vacuum-assisted, and instrumental delivery, (high grade) perineal lacerations, and episiotomy, degree of perineal pain, fetal birth weight, use of systemic narcotics, nulliparity, cesarean section (possibly after failure to progress in labor), epidural analgesia (possibly by modifying other obstetrical parameters such as duration of labor), intermittent catheterization during labor, an increasing number of catheterizations, and an absence of spontaneous voiding before leaving the delivery room. One study identified urination just before delivery as a preventive factor for PUR.
 
@@ -709,13 +709,13 @@ In particular, there is a paucity of data on long-term outcome after postpartum 
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^773de5e8]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^1143nKQb]. The Journal of Urology (2012). Medium credibility.
 
 Regarding diagnostic investigations for urinary incontinence in men, more specifically with respect to assessment of PVR, AUA/SUFU 2012 guidelines recommend to measure post-void residual either as part of a complete urodynamic study or separately in the initial urological evaluation of patients with relevant neurological conditions (such as spinal cord injury, myelomeningocele) and as part of ongoing follow-up when appropriate.
 
 ---
 
-### Clinical significance of postvoid residual volume in older ambulatory women [^1db333a6]. Journal of the American Geriatrics Society (2011). Low credibility.
+### Clinical significance of postvoid residual volume in older ambulatory women [^111m2qJd]. Journal of the American Geriatrics Society (2011). Low credibility.
 
 Objectives
 
@@ -747,7 +747,7 @@ More than 10% of ambulatory older women may have a PVR of 100 mL or greater, whi
 
 ---
 
-### Immediate postvoid residual volumes in women with symptoms of pelvic floor dysfunction [^59824954]. Obstetrics and Gynecology (2008). Low credibility.
+### Immediate postvoid residual volumes in women with symptoms of pelvic floor dysfunction [^113HhfGP]. Obstetrics and Gynecology (2008). Low credibility.
 
 Objective
 
@@ -771,7 +771,7 @@ II.
 
 ---
 
-### Voiding dysfunction in older women with overactive bladder symptoms: a comparison of urodynamic parameters between women with normal and elevated post-void residual urine [^e9eba88b]. Neurourology and Urodynamics (2016). Low credibility.
+### Voiding dysfunction in older women with overactive bladder symptoms: a comparison of urodynamic parameters between women with normal and elevated post-void residual urine [^116yoGf4]. Neurourology and Urodynamics (2016). Low credibility.
 
 Aims
 
@@ -791,13 +791,13 @@ Older women with an elevated PVR required on average a higher detrusor pressure 
 
 ---
 
-### Postoperative urinary retention [^06272ce5]. Urogynecology (2023). High credibility.
+### Postoperative urinary retention [^111A85tY]. Urogynecology (2023). High credibility.
 
 AUGS clinical consensus — criteria to pass or fail a voiding trial (VT) — Criteria used in the literature to define a successful VT after surgery for POP or SUI has been extremely inconsistent with no observable differences between the various criteria and post-operative retention rates, and reported passing thresholds include voided volumes > 200 mL, > 2/3 the total bladder volume, and force of stream > 50%, while commonly cited postvoid residual (PVR) measurements for passing a VT include < 100 mL up to < 500 mL and < 1/3 the total bladder volume.
 
 ---
 
-### Does post-void residual volume predict worsening urological symptoms in patients with multiple sclerosis? [^90b2907d]. The Journal of Urology (2018). Low credibility.
+### Does post-void residual volume predict worsening urological symptoms in patients with multiple sclerosis? [^114hXCJ8]. The Journal of Urology (2018). Low credibility.
 
 Purpose
 
@@ -817,13 +817,13 @@ Post-void residual volume was not associated with worsening obstructive lower ur
 
 ---
 
-### Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA / SUFU guideline [^ea5b030b]. The Journal of Urology (2012). Medium credibility.
+### Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA / SUFU guideline [^116zSfzr]. The Journal of Urology (2012). Medium credibility.
 
 Overactive bladder — post-void residual (PVR) testing guidance states that measurement of the post-void residual (PVR) is not necessary for patients who are receiving first-line behavioral interventions (see Guideline Statement 6 below).
 
 ---
 
-### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^489f8af7]. International Urogynecology Journal (2023). Medium credibility.
+### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^112rfhSE]. International Urogynecology Journal (2023). Medium credibility.
 
 Investigations
 
@@ -860,19 +860,19 @@ Imaging
 
 ---
 
-### Management of lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH): AUA guideline amendment 2023 [^add82bd1]. The Journal of Urology (2024). High credibility.
+### Management of lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH): AUA guideline amendment 2023 [^115SjU7A]. The Journal of Urology (2024). High credibility.
 
 Benign prostatic hyperplasia (BPH) evaluation — post-void residual (PVR) — Clinicians should perform a PVR assessment prior to intervention for LUTS/BPH (Clinical Principle), and while there are no data to indicate the threshold at which an elevated PVR becomes "dangerous", a "large" PVR (> 300 mL) is worth monitoring, and PVR does not seem to be a strong predictor of AUR.
 
 ---
 
-### Falsely elevated postvoid residual urine in pregnant women [^e5cb8a64]. Neurourology and Urodynamics (2003). Low credibility.
+### Falsely elevated postvoid residual urine in pregnant women [^116sgXpo]. Neurourology and Urodynamics (2003). Low credibility.
 
 Portable ultrasound assessment of postmicturition bladder for residual urine volume is rapid, accurate, and precise. However, other cystic pelvic pathologic conditions may present as a false-positive finding on the ultrasound. We describe two cases in which the residual urine was falsely detected as being elevated due to unsuspected pregnancy.
 
 ---
 
-### The distribution of post-void residual volumes in people seeking care in the symptoms of lower urinary tract dysfunction network observational cohort study with comparison to asymptomatic populations [^c4cba3b5]. Urology (2019). Medium credibility.
+### The distribution of post-void residual volumes in people seeking care in the symptoms of lower urinary tract dysfunction network observational cohort study with comparison to asymptomatic populations [^1162kyTA]. Urology (2019). Medium credibility.
 
 Objective
 
@@ -892,7 +892,7 @@ Care-seeking patients have PVRs similar to those in people with unknown history 
 
 ---
 
-### Does this man with lower urinary tract symptoms have bladder outlet obstruction? the rational clinical examination: a systematic review [^d3a205fd]. JAMA (2014). Excellent credibility.
+### Does this man with lower urinary tract symptoms have bladder outlet obstruction? the rational clinical examination: a systematic review [^116Qkow2]. JAMA (2014). Excellent credibility.
 
 Importance
 
@@ -924,43 +924,43 @@ In patients with lower urinary tract symptoms, the symptoms alone are not enough
 
 ---
 
-### SNMMI procedure standard / EANM practice guideline for diuretic renal scintigraphy in adults with suspected upper urinary tract obstruction 1.0 [^6830ba30]. Seminars in Nuclear Medicine (2018). Medium credibility.
+### SNMMI procedure standard / EANM practice guideline for diuretic renal scintigraphy in adults with suspected upper urinary tract obstruction 1.0 [^113fU5bM]. Seminars in Nuclear Medicine (2018). Medium credibility.
 
 H. Residual urine volume — At the time of the study, residual urine volume can be measured from counts in pre- and postvoid regions of interest (ROIs) over the bladder plus measurement of the voided volume, using the formula: residual urine volume = (voided volume)(prevoid counts)/(prevoid counts – postvoid counts). Patients should walk around for several minutes before voiding to facilitate gravity-assisted drainage, which minimizes error from residual urine draining after voiding and before the postvoid image, and this measurement may also detect unsuspected urinary retention.
 
 ---
 
-### American Urogynecologic Society best practice statement: evaluation and counseling of patients with pelvic organ prolapse [^7dd6c7df]. Female Pelvic Medicine & Reconstructive Surgery (2017). Medium credibility.
+### American Urogynecologic Society best practice statement: evaluation and counseling of patients with pelvic organ prolapse [^114DZbVY]. Female Pelvic Medicine & Reconstructive Surgery (2017). Medium credibility.
 
 Pelvic organ prolapse — voiding evaluation recommends that for women with abnormal voiding symptoms and for those with prolapse beyond the hymen, bladder emptying be evaluated with a postvoid residual (PVR) measurement; in general, a PVR of less than one third of the total voided volume is considered adequate emptying, with suggested parameters of a PVR of less than 50 mL as normal and a PVR greater than 200 mL as abnormal. If PVR is elevated or other bothersome voiding symptoms are noted, urodynamic testing may provide additional information. Treatment of prolapse may be considered even in asymptomatic patients if they have persistent voiding symptoms. Because 30% of women with advanced prolapse (Aa, Ba, or C measurements of +1 or greater) have hydronephrosis, imaging of the upper urinary tracts may be helpful in select patients.
 
 ---
 
-### SNMMI procedure standard / EANM practice guideline for diuretic renal scintigraphy in adults with suspected upper urinary tract obstruction 1.0 [^df23c323]. Seminars in Nuclear Medicine (2018). Medium credibility.
+### SNMMI procedure standard / EANM practice guideline for diuretic renal scintigraphy in adults with suspected upper urinary tract obstruction 1.0 [^116hpFYn]. Seminars in Nuclear Medicine (2018). Medium credibility.
 
 SNMMI/EANM diuretic renal scintigraphy — reporting elements for Findings and Impression are outlined, including documenting [99mTc‑MAG3/ethylenedicysteine] clearance with a normal range, relative uptake of the left and right kidneys, kidney morphology and tracer kinetics, and voided and residual urine volumes plus urine flow rate; the Impression section provides fields to state relative uptake values, clearance with a reference range if performed, residual volume if performed, and a normal study statement that neither kidney is obstructed with prompt uptake and rapid post‑furosemide drainage from both collecting systems.
 
 ---
 
-### Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA / SUFU guideline [^e2566230]. The Journal of Urology (2012). Medium credibility.
+### Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA / SUFU guideline [^116nZDaP]. The Journal of Urology (2012). Medium credibility.
 
 AUA/SUFU guideline — diagnosis clinical principles — The clinician should engage in a diagnostic process to document symptoms and signs that characterize OAB and exclude other disorders that could be the cause of the patient's symptoms; the minimum requirements for this process are a careful history, physical exam, and urinalysis. Clinical Principle. In some patients, additional procedures and measures may be necessary to validate an OAB diagnosis, exclude other disorders and fully inform the treatment plan. At the clinician's discretion, a urine culture and/or post-void residual assessment may be performed and information from bladder diaries and/or symptom questionnaires may be obtained. Clinical Principle. Urodynamics, cystoscopy and diagnostic renal and bladder ultrasound should not be used in the initial workup of the uncomplicated patient. Clinical Principle.
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^3150e6db]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^112G7ZuL]. The Journal of Urology (2012). Medium credibility.
 
 Adult urodynamics — post-void residual (PVR) assessment describes that a PVR can be obtained in the office by bladder ultrasound or urethral catheterization, notes that ultrasound is less invasive and painful than catheterization and does not introduce the risk of infection or urethral trauma, and cautions that portable office ultrasound bladder scanners can be inaccurate in clinical circumstances including obesity, prior lower abdominal surgery, cystic pelvic pathology, pregnancy, peritoneal dialysis and ascites.
 
 ---
 
-### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^4d5ce8b3]. The Journal of Urology (2021). High credibility.
+### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^112yhFiJ]. The Journal of Urology (2021). High credibility.
 
 Neurogenic lower urinary tract dysfunction (NLUTD) — At initial evaluation, patients with NLUTD who spontaneously void should undergo post-void residual measurement (Clinical Principle). PVR is defined as the volume of urine left in the bladder at the end of micturition, provides valuable information regarding bladder emptying, and when elevated suggests an abnormality of bladder emptying due to detrusor underactivity (DU), bladder outlet obstruction (BOO), or both; a chronically elevated PVR can result in LUTS, as well as complications such as UTIs, bladder stones, and upper urinary tract deterioration.
 
 ---
 
-### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^fd3376b2]. International Urogynecology Journal (2022). Medium credibility.
+### Postpartum urinary retention: what are the sequelae? A long-term study and review of the literature [^117UP9td]. International Urogynecology Journal (2022). Medium credibility.
 
 Materials and methods
 
@@ -974,7 +974,7 @@ Self-catheterization was instructed by specialized incontinence nurses in an out
 
 ---
 
-### Overactive bladder symptoms and voiding dysfunction in neurologically normal women [^72cd28e6]. Neurourology and Urodynamics (2012). Low credibility.
+### Overactive bladder symptoms and voiding dysfunction in neurologically normal women [^113wCVxh]. Neurourology and Urodynamics (2012). Low credibility.
 
 Aims
 
@@ -994,7 +994,7 @@ Women with impaired bladder emptying present with a wide range of LUTS, and PVR 
 
 ---
 
-### Women urinate in the standing position do not increase post-void residual urine volumes [^d03705f9]. Neurourology and Urodynamics (2010). Low credibility.
+### Women urinate in the standing position do not increase post-void residual urine volumes [^116KguZJ]. Neurourology and Urodynamics (2010). Low credibility.
 
 Aims
 
@@ -1014,7 +1014,7 @@ Though flow rates are decreased while standing, post-void residual volume is not
 
 ---
 
-### Objective versus subjective outcome measures of biofeedback: what really matters? [^24cb84d1]. Journal of Pediatric Urology (2014). Low credibility.
+### Objective versus subjective outcome measures of biofeedback: what really matters? [^111wYv1e]. Journal of Pediatric Urology (2014). Low credibility.
 
 Objective
 
@@ -1034,7 +1034,7 @@ Pelvic floor muscle biofeedback is associated with patient-reported improvement 
 
 ---
 
-### Post-void residual urine volume in women with overactive bladder symptoms [^f61b8b32]. The Journal of Urology (2004). Low credibility.
+### Post-void residual urine volume in women with overactive bladder symptoms [^117HsCvM]. The Journal of Urology (2004). Low credibility.
 
 Purpose
 
@@ -1054,19 +1054,19 @@ It is possible to identify patients with overactive bladder symptoms who are at 
 
 ---
 
-### Recommendations of the SUFU / AUGS / ICS female stress urinary incontinence surgical publication working group: a common standard minimum data set for the literature [^9ccc2963]. Urogynecology (2024). High credibility.
+### Recommendations of the SUFU / AUGS / ICS female stress urinary incontinence surgical publication working group: a common standard minimum data set for the literature [^1151TeMQ]. Urogynecology (2024). High credibility.
 
 SUFU/AUGS/ICS female SUI surgery — postoperative post-void residual (PVR) measurement is STANDARD to assess de novo voiding dysfunction; it should be done using the same preoperative method, and studies should define abnormal or elevated PVR in the protocol and report it with reference to elevated PVR and urinary retention.
 
 ---
 
-### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^f44ef61a]. The Journal of Urology (2024). High credibility.
+### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^117FCW41]. The Journal of Urology (2024). High credibility.
 
 AUA/SUFU overactive bladder — post–botulinum toxin (BTX) monitoring and post-void residual (PVR) management: Clinicians should obtain a post-void residual in patients with overactive bladder (OAB) whose symptoms have not adequately improved or worsened after intradetrusor botulinum toxin injection (Clinical Principle), and clinicians should evaluate patients approximately two weeks after the initial BTX injection to assess symptom improvement and to rule out potential urinary retention, which is highest at two weeks post-procedure. If symptoms do not improve, a PVR, urinalysis, and if positive, a urine culture should be obtained; if the PVR is elevated with respect to voided volume (i.e. PVR 100–300 mL), the clinician may decide to start the patient on CIC based on symptoms and history of UTI. Caution should be used when performing BTX injection in patients with a PVR ≥ 100–200 mL, and if a patient empties well after the first BTX injection it is optional to check PVR post-procedure for subsequent injections since the rate of retention after a prior history of good emptying is rare.
 
 ---
 
-### Urine flow acceleration in healthy children: a retrospective cohort study [^4b7443eb]. Neurourology and Urodynamics (2023). Medium credibility.
+### Urine flow acceleration in healthy children: a retrospective cohort study [^112vs8Ae]. Neurourology and Urodynamics (2023). Medium credibility.
 
 Abstract
 
@@ -1088,7 +1088,7 @@ These are the first nomograms for normative reference values of Q acc in the ped
 
 ---
 
-### Exploring dysfunctional voiding in girls: a comprehensive literature review of assessment and management strategies [^d106c287]. BMC Urology (2025). Medium credibility.
+### Exploring dysfunctional voiding in girls: a comprehensive literature review of assessment and management strategies [^116LtgbG]. BMC Urology (2025). Medium credibility.
 
 Table 1
 Definitions of dysfunctional voiding symptoms
@@ -1116,7 +1116,7 @@ Ultrasound [US], as a non-invasive and commonly used method, is employed to inve
 
 ---
 
-### Standardization of pediatric uroradiological terms: a multidisciplinary European glossary [^560e09f5]. Pediatric Radiology (2018). Low credibility.
+### Standardization of pediatric uroradiological terms: a multidisciplinary European glossary [^113Caeje]. Pediatric Radiology (2018). Low credibility.
 
 Persistent urogenital sinus
 
@@ -1144,7 +1144,7 @@ See "pelvicalyceal dilatation". The use of this former term is not recommended.
 
 ---
 
-### An anatomical pathogenesis of lower urinary tract definitions from the 2002 ICS report symptoms, conditions, syndromes, urodynamics [^2e21be01]. Neurourology and Urodynamics (2022). Medium credibility.
+### An anatomical pathogenesis of lower urinary tract definitions from the 2002 ICS report symptoms, conditions, syndromes, urodynamics [^112BPmKE]. Neurourology and Urodynamics (2022). Medium credibility.
 
 4 CONDITIONS 4
 
@@ -1158,7 +1158,7 @@ An enlarged prostate which compresses the urethral tube will narrow it, requirin
 
 ---
 
-### Comparison of diagnostic accuracies of commonly used trial of void parameters [^f202e341]. Urogynecology (2024). Medium credibility.
+### Comparison of diagnostic accuracies of commonly used trial of void parameters [^117BnyTN]. Urogynecology (2024). Medium credibility.
 
 Importance
 
@@ -1182,7 +1182,7 @@ In this cohort, PVR ≥ 87 mL, voided volume ≤ 150 mL, and sFOS ≤ 60% had op
 
 ---
 
-### EAU guidelines on the assessment of non-neurogenic male lower urinary tract symptoms including benign prostatic obstruction [^36115fb2]. European Urology (2015). Low credibility.
+### EAU guidelines on the assessment of non-neurogenic male lower urinary tract symptoms including benign prostatic obstruction [^112PAAgq]. European Urology (2015). Low credibility.
 
 Context
 
@@ -1210,7 +1210,7 @@ This article presents a short version of European Association of Urology guideli
 
 ---
 
-### Effect of premicturitional bladder volume on the accuracy of postvoid residual urine volume measurement by transabdominal ultrasonography: rate of bladder fullness is of great importance for preventing false-positive residue diagnosis [^f6bb31ab]. Journal of Ultrasound in Medicine (2006). Low credibility.
+### Effect of premicturitional bladder volume on the accuracy of postvoid residual urine volume measurement by transabdominal ultrasonography: rate of bladder fullness is of great importance for preventing false-positive residue diagnosis [^117JnqAA]. Journal of Ultrasound in Medicine (2006). Low credibility.
 
 Objective
 
@@ -1230,7 +1230,7 @@ Postvoid residual urine volume measurements with an uncomfortably full bladder r
 
 ---
 
-### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^b9946175]. International Urogynecology Journal (2023). Medium credibility.
+### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^115k8Ypk]. International Urogynecology Journal (2023). Medium credibility.
 
 Voiding dysfunction
 
@@ -1262,7 +1262,7 @@ Diagnosis of high PVR with no or minimal voiding symptoms and a postvoid residua
 
 ---
 
-### The fundamentals of uroflowmetry practice, based on international continence society good urodynamic practices recommendations [^19c00740]. Neurourology and Urodynamics (2018). Low credibility.
+### The fundamentals of uroflowmetry practice, based on international continence society good urodynamic practices recommendations [^111fBC4P]. Neurourology and Urodynamics (2018). Low credibility.
 
 Aims
 
@@ -1282,25 +1282,25 @@ The summary provides a systematic approach to ensure a representative, high qual
 
 ---
 
-### The pitfalls of bladderScan ™ PVR in evaluating bladder volume in adolescent females [^bcf90daf]. Journal of Pediatric Urology (2011). Low credibility.
+### The pitfalls of bladderScan ™ PVR in evaluating bladder volume in adolescent females [^115qAKw4]. Journal of Pediatric Urology (2011). Low credibility.
 
 Post-void residual (PVR) determination is an integral part of the evaluation of children presenting with lower urinary tract symptoms. Historically the PVR volume has been obtained by urinary catheterization after the child has voided, however, with the advent of ultrasound technology, PVR was determined in a noninvasive fashion by radiology personnel. Currently, PVR determinations may be obtained by healthcare personnel (without specialized training) using a portable, self calculating ultrasound; the BladderScan. While BladderScan PVR has been shown to be accurate and reproducible, it cannot differentiate between a distended bladder and other cystic pelvic structures. Several case reports have been published illustrating falsely elevated PVRs by bladder scan in adults with cystic pelvic structures. We present two adolescent females with LUTS who had falsely elevated PVRs by bladder scan, who, subsequently, underwent formal imaging to identify ovarian cystic pathology. To our knowledge, this is the first report of falsely elevated bladder scan PVR in children related to cystic pelvic organ pathology.
 
 ---
 
-### Establishing a standard protocol for the voiding cystourethrography [^80eed4af]. Pediatrics (2016). Medium credibility.
+### Establishing a standard protocol for the voiding cystourethrography [^114J9dsU]. Pediatrics (2016). Medium credibility.
 
 Voiding cystourethrography (VCUG) reporting parameters — bladder, vesicoureteral reflux (VUR), voiding, and urethra — specify to document bladder shape and contour; filling defects, trabeculations, or other abnormalities; maximum bladder capacity at first void if cyclic; estimate of postvoid residual (PVR) as mild, moderate, or large; and the position and appearance of the bladder neck. For VUR, record onset for each side including approximate bladder volume and whether onset occurred during filling or voiding, grade VUR per the International Reflux Study, comment on ureter insertion site and anatomy (normal vs ectopic; single vs duplicated or bifid; insertion near or in a diverticulum), and assess drainage after void, noting that recatheterization may be necessary to assess drainage of refluxed material, especially in non–toilet-trained children. For voiding, record bladder volume at onset of voiding, note bladder neck appearance as the child voids, and estimate bladder volume residual (mild, moderate, or large). For the urethra, record abnormalities including dilatation, valves, strictures, and the appearance in the region of the external sphincter.
 
 ---
 
-### Assisted vaginal birth: green-top guideline no. 26 [^1815d3b2]. BJOG (2020). High credibility.
+### Assisted vaginal birth: green-top guideline no. 26 [^111ci2zD]. BJOG (2020). High credibility.
 
 Regarding follow-up and surveillance for assisted vaginal delivery, more specifically with respect to prevention of urinary retention, RCOG 2020 guidelines recommend to measure a post-void residual if urinary retention is suspected.
 
 ---
 
-### Long-term micturition problems of asymptomatic postpartum urinary retention: a prospective case-control study [^9e2c04f7]. International Urogynecology Journal (2018). Low credibility.
+### Long-term micturition problems of asymptomatic postpartum urinary retention: a prospective case-control study [^1153Vq6N]. International Urogynecology Journal (2018). Low credibility.
 
 In the group with PVRV ≥ 150 mL, 15% of women had a PVRV ranging from 150 to 250 mL, 69% (n = 86) had a PVRV between 250 and 500 mL and 16% (n = 19) of women had a PVRV above 500 mL. This implies that in clinical daily practice, a considerable percentage of women with high residual volumes remain unnoticed.
 
@@ -1308,7 +1308,7 @@ With a median PVRV of 175 mL after the first void in the total group and median 
 
 ---
 
-### Long-term micturition problems of asymptomatic postpartum urinary retention: a prospective case-control study [^6c84b32b]. International Urogynecology Journal (2018). Low credibility.
+### Long-term micturition problems of asymptomatic postpartum urinary retention: a prospective case-control study [^113mtEdx]. International Urogynecology Journal (2018). Low credibility.
 
 Conclusions
 
@@ -1316,7 +1316,7 @@ Covert PUR according to the definition of PVRV ≥ 150 mL, is a common and trans
 
 ---
 
-### Non-invasive bladder function measures in healthy, asymptomatic female children and adolescents: a systematic review and meta-analysis [^b3319a12]. Journal of Pediatric Urology (2021). Medium credibility.
+### Non-invasive bladder function measures in healthy, asymptomatic female children and adolescents: a systematic review and meta-analysis [^115afSmP]. Journal of Pediatric Urology (2021). Medium credibility.
 
 Background
 
@@ -1340,7 +1340,7 @@ Although we were able to calculate pooled mean estimates for several parameters,
 
 ---
 
-### A cost-effectiveness analysis of post-void residual bladder scan thresholds in the postoperative setting [^81b73fc8]. International Urogynecology Journal (2022). Medium credibility.
+### A cost-effectiveness analysis of post-void residual bladder scan thresholds in the postoperative setting [^114KJxLP]. International Urogynecology Journal (2022). Medium credibility.
 
 Introduction and Hypothesis
 
@@ -1360,25 +1360,25 @@ A PVR threshold of 100 mL created a healthcare system burden due to increased of
 
 ---
 
-### Urodynamic studies in adults: AUA / SUFU guideline [^bca36dd5]. The Journal of Urology (2012). Medium credibility.
+### Urodynamic studies in adults: AUA / SUFU guideline [^115pfZqN]. The Journal of Urology (2012). Medium credibility.
 
 Adult urodynamics — Description of tests defines key urodynamic measurements consistent with International Continence Society terminology: Post-void residual (PVR) "is the volume of urine left in the bladder at the completion of micturition" and "can be measured by ultrasound or catheterization"; Uroflowmetry "is the measurement of the rate of urine flow over time"; Cystometry "is the method by which the pressure/ volume relationship of the bladder is measured during bladder filling", with measurements including "bladder sensations, compliance, bladder capacity and the presence or absence of detrusor overactivity (DO)"; Electromyography (EMG) "is the study of the electronic potentials produced by the depolarization of muscle membranes", and in most tests EMG of the striated sphincteric muscles evaluates abnormalities associated with lower urinary tract symptoms; Pressure flow studies (PFS) "measure the relationship between pressure in the bladder and urine flow rate during bladder emptying"; Videourodynamic studies (VUDS) "include the addition of simultaneous imaging (usually fluoroscopy) during cystometry and/or PFS"; Abdominal leak point pressure (ALPP) or Valsalva leak point pressure (VLPP) "is a measurement of urethral function or outlet competence and is the intravesical pressure at which urine leakage occurs due to increased abdominal pressure in the absence of a detrusor contraction"; Urethral pressure profile "is the continuous measurement of the fluid pressure needed to just open a closed urethra"; and Maximum urethral closure pressure (MUCP) "is the maximum difference between the urethral pressure and the intravesical pressure".
 
 ---
 
-### Recommendations of the SUFU / AUGS / ICS female stress urinary incontinence surgical publication working group: a common standard minimum data set for the literature [^38185763]. Urogynecology (2024). High credibility.
+### Recommendations of the SUFU / AUGS / ICS female stress urinary incontinence surgical publication working group: a common standard minimum data set for the literature [^112SAUzN]. Urogynecology (2024). High credibility.
 
 Post-void residual urine (PVR) assessment should be documented preoperatively and the method specified (STANDARD), and it may be part of inclusion/exclusion criteria with recognition that incomplete bladder emptying preoperatively may impact postoperative voiding dysfunction; methods include catheterization or ultrasound. Other preoperative testing includes voiding/bladder diaries, which can be difficult, burdensome, and unreliable (ADDITIONAL); urodynamic studies, which increase cost and discomfort, have not been shown to improve outcomes or change operative plans in uncomplicated SUI and are not readily available (ADDITIONAL); and pad testing, which was deemed to have little value in SUI studies (UNNECESSARY).
 
 ---
 
-### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^07fc6642]. The Journal of Urology (2024). High credibility.
+### The AUA / SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder [^111Cqh7P]. The Journal of Urology (2024). High credibility.
 
 AUA/SUFU guideline — initial evaluation of idiopathic overactive bladder (OAB) states that clinicians should not routinely perform urodynamics (UDS), cystoscopy, or urinary tract imaging in the initial evaluation of patients with OAB, and that clinicians may perform advanced testing, such as UDS, cystoscopy, or urinary tract imaging, in the initial evaluation of patients with OAB when diagnostic uncertainty exists. The initial evaluation of patients with symptoms of OAB should include a medical history, physical examination, and urinalysis, and additional components of an OAB evaluation may also include post-void residual (PVR) measurement, voiding diary, and a symptom questionnaire. There is no need to obtain UDS, cystoscopy, or upper tract imaging in the initial evaluation of a patient with OAB symptoms, but further evaluation with UDS, cystoscopy, and/or urinary tract imaging can be considered to clarify diagnosis when diagnostic uncertainty or abnormal findings exist and can also be considered if patients have a suboptimal or unexpected response to standard OAB therapy.
 
 ---
 
-### Fundamentals of urodynamic practice, based on international continence society good urodynamic practices recommendations [^a53e7e52]. Neurourology and Urodynamics (2018). Low credibility.
+### Fundamentals of urodynamic practice, based on international continence society good urodynamic practices recommendations [^115DywyB]. Neurourology and Urodynamics (2018). Low credibility.
 
 Aims
 
@@ -1398,7 +1398,7 @@ The review provides a succinct summary of practice expectations for a urodynamic
 
 ---
 
-### Pivotal study of voro urologic scaffold-NCI… [^7d01c51f]. NCI (2016). Low credibility.
+### Pivotal study of voro urologic scaffold-NCI… [^114CL3i6]. NCI (2016). Low credibility.
 
 Exclusion Criteria
 - Malignant tumors with known bladder neck or urethral sphincter invasion or metastatic disease confirmed via baseline assessments
@@ -1425,18 +1425,18 @@ Exclusion Criteria
 
 ---
 
-### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^55d2b31e]. The Journal of Urology (2021). High credibility.
+### The AUA / SUFU guideline on adult neurogenic lower urinary tract dysfunction: diagnosis and evaluation [^113CEiiR]. The Journal of Urology (2021). High credibility.
 
 Neurogenic lower urinary tract dysfunction (NLUTD) initial evaluation — At initial evaluation, all patients with NLUTD should undergo a detailed history, physical exam, and urinalysis (Clinical Principle), and patients with NLUTD who spontaneously void should undergo post-void residual measurement (Clinical Principle). Optional studies include a voiding/catheterization diary, pad test, and non-invasive uroflow (Expert Opinion). For low-risk NLUTD, the clinician should not routinely obtain upper tract imaging, renal function assessment, or multichannel urodynamics (Moderate Recommendation; Evidence Level: Grade C), whereas for unknown-risk NLUTD, the clinician should obtain upper tract imaging, renal function assessment, and multichannel urodynamics (Moderate Recommendation; Evidence Level: Grade C). In the patient with an acute neurological event resulting in NLUTD, the clinician should perform risk stratification once the neurological condition has stabilized (Clinical Principle), and clinicians should not perform routine cystoscopy in the initial evaluation of the NLUTD patient (Clinical Principle).
 
 ---
 
-### ACR-ACNM-SNMMI-SPR practice parameter for the performance of radionuclide cystography [^9c45e48a]. ACR/SNMMI/SPR/ACNM (2025). High credibility.
+### ACR-ACNM-SNMMI-SPR practice parameter for the performance of radionuclide cystography [^114zgYam]. ACR/SNMMI/SPR/ACNM (2025). High credibility.
 
 Radionuclide cystography — processing and quantification — states that for visual analysis of digital images, a consistent image display technique capable of contrast enhancement and cine mode should be used to maximize the sensitivity of the test. If desired, quantification of reflux during the bladder-filling phase and during the voiding phase may be achieved using region-of-interest (ROI) analysis, with ROI placed over the kidneys and the ureters. For quantification of postvoid residual volumes (RVs), prevoid and postvoid images of the bladder should be acquired anteriorly or posteriorly; ROIs are drawn around the bladder on both the pre- and postvoid images and the volume of voided urine is recorded. RV can be estimated by the following formulas, and RV may be calculated if the volume to which the bladder was filled is known using the provided equation.
 
 ---
 
-### Evaluation of bladder function in children with familial mediterranean fever and outcomes: a retrospective study [^232412f9]. BMC Urology (2025). Medium credibility.
+### Evaluation of bladder function in children with familial mediterranean fever and outcomes: a retrospective study [^111u6geL]. BMC Urology (2025). Medium credibility.
 
 In children diagnosed with FMF, post-micturition residual urine values may generally be within the normal range, but this is not always the case. Additionally, ultrasonographic measurement of bladder capacity may be misleading in the evaluation of bladder capacity. Therefore, it is important to evaluate PMR values and monitor them closely in termsofbladderfunction. Some authors have defined pathologically a PMR of more than 20 mL or a residual urine volume of more than 10% of estimated bladder capacity after repeated voiding without bladder overdistension. Ultrasonographic and uroflowmetric measurements are two effective methods for evaluating bladder capacity in children. Bladder volume measurement by ultrasonography is based on length, width, and height measurements of the bladder's widest dimensions. The obtained volume value is used to determine bladder capacity. This value reflects the maximum amount of urine a normal bladder can typically hold. Automated volume measurement modes, characterized by the highest measurement accuracy, are applied when measuring bladder volumes and assessing the residual urine volume after urination. (Toschiba Aplio 500) In most cases, these methods are based on measurements made using the prolate ellipsoid formula. Measurements must be taken in two planes perpendicular to each other at the maximum sections of the bladder. It should be noted that the results are subject to unavoidable calculation errors. In our study, urinary ultrasonography was performed by a single radiologist, and measurements were taken following the same principles. We believe this approach enhanced the reliability of our results and increased the impact on the accuracy of the findings. Altough considering the high reliability of our results in this context, we have observed that evaluations using ultrasonography can sometimes be misleading. Additionally, in routine daily follow-ups, the involvement of different radiologists, the use of different ultrasonography devices, variations in bladder filling levels, and differences in measurement locations could further reduce the reliability of the results. Therefore, we recommend that patients be evaluated with these factors in mind.

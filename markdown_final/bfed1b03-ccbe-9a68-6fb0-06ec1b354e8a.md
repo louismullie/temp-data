@@ -15,27 +15,27 @@ Restrictive transfusion strategy in MI with anemia
 
 > Let's see… What do we have here? The user is asking whether a restrictive transfusion strategy is safe or beneficial in patients with acute myocardial infarction and anemia, and what the evidence shows about thresholds, outcomes, and guideline direction. Let's break this down step-by-step. First, I need to think about the clinical context and why anemia matters in MI. Then, I should verify the highest-quality randomized trials and their primary outcomes. Next, I will examine meta-analyses and pooled analyses for consistency and magnitude of effects. After that, I need to check subgroup signals and sensitivity analyses that might modify practice. Finally, I will align this with contemporary guidelines and synthesize a practical, risk-stratified recommendation with caveats and monitoring needs.
 
-> Let me first confirm the clinical context and why this question is hard. Anemia is common in MI and independently associated with worse outcomes, including higher mortality and recurrent MI, which creates a tension between the potential benefit of correcting anemia and the risks of transfusion itself, such as circulatory overload, thrombogenicity, and storage lesions that may impair microvascular flow in the coronary bed [^e56bae9e] [^ca017674].
+> Let me first confirm the clinical context and why this question is hard. Anemia is common in MI and independently associated with worse outcomes, including higher mortality and recurrent MI, which creates a tension between the potential benefit of correcting anemia and the risks of transfusion itself, such as circulatory overload, thrombogenicity, and storage lesions that may impair microvascular flow in the coronary bed [^116s8LMK] [^116AUzRR].
 
-> Next, I should review the pivotal randomized trials. The REALITY trial randomized 666 patients with MI and hemoglobin 7–10 g/dL to restrictive (≤ 8 g/dL) versus liberal (≤ 10 g/dL) transfusion and found that restrictive strategy was noninferior for 30-day MACE, with numerically fewer events in the restrictive arm, supporting noninferiority but not superiority [^40d8bbe2] [^e291a49f]. Wait, let me verify the magnitude: MACE was 11.0% restrictive vs 14.0% liberal, with a relative risk of 0.79 and a 1-sided 97.5% CI upper bound below the noninferiority margin of 1.25, which meets the prespecified noninferiority criterion [^40d8bbe2].
+> Next, I should review the pivotal randomized trials. The REALITY trial randomized 666 patients with MI and hemoglobin 7–10 g/dL to restrictive (≤ 8 g/dL) versus liberal (≤ 10 g/dL) transfusion and found that restrictive strategy was noninferior for 30-day MACE, with numerically fewer events in the restrictive arm, supporting noninferiority but not superiority [^112f91MT] [^116nu83Y]. Wait, let me verify the magnitude: MACE was 11.0% restrictive vs 14.0% liberal, with a relative risk of 0.79 and a 1-sided 97.5% CI upper bound below the noninferiority margin of 1.25, which meets the prespecified noninferiority criterion [^112f91MT].
 
-> Hold on, let's not jump to conclusions; the larger MINT trial changes the weight of evidence. MINT enrolled 3,504 patients with MI and hemoglobin < 10 g/dL and found that a restrictive strategy (7–8 g/dL) was not superior and suggested possible harm, with higher rates of death or recurrent MI at 30 days: 16.9% restrictive vs 14.5% liberal, RR 1.15, 95% CI 0.99–1.34, P = 0.07, and higher cardiac death with restrictive transfusion, 5.5% vs 3.2%, RR 1.74, 95% CI 1.26–2.40 [^04add051] [^57ba0f40]. I should double-check the components: death and recurrent MI both trended higher with restrictive, and the confidence interval for the primary composite just crossed 1, indicating a signal of harm that, while not statistically significant at α = 0.05, is clinically concerning and biologically plausible in ischemic myocardium [^04add051].
+> Hold on, let's not jump to conclusions; the larger MINT trial changes the weight of evidence. MINT enrolled 3,504 patients with MI and hemoglobin < 10 g/dL and found that a restrictive strategy (7–8 g/dL) was not superior and suggested possible harm, with higher rates of death or recurrent MI at 30 days: 16.9% restrictive vs 14.5% liberal, RR 1.15, 95% CI 0.99–1.34, P = 0.07, and higher cardiac death with restrictive transfusion, 5.5% vs 3.2%, RR 1.74, 95% CI 1.26–2.40 [^1117wLHv] [^113F4RFV]. I should double-check the components: death and recurrent MI both trended higher with restrictive, and the confidence interval for the primary composite just crossed 1, indicating a signal of harm that, while not statistically significant at α = 0.05, is clinically concerning and biologically plausible in ischemic myocardium [^1117wLHv].
 
-> I will now examine pooled and meta-analytic data to see if a consistent pattern emerges. An individual patient data meta-analysis of 4 RCTs including 4,311 patients showed no statistically significant difference for 30-day death or MI overall, but cardiac death was higher with restrictive strategy, 5.5% vs 3.7%, RR 1.47, 95% CI 1.11–1.94, and 6-month mortality was also higher with restrictive, 20.5% vs 19.1%, HR 1.08, 95% CI 1.05–1.11, reinforcing the concern for harm with restrictive thresholds in MI [^ff3236ae]. Let me reconsider the magnitude: the absolute differences are modest, but the directionality is consistent across trials and pooled analyses, which strengthens inference despite the non-significant primary composite in MINT [^ff3236ae].
+> I will now examine pooled and meta-analytic data to see if a consistent pattern emerges. An individual patient data meta-analysis of 4 RCTs including 4,311 patients showed no statistically significant difference for 30-day death or MI overall, but cardiac death was higher with restrictive strategy, 5.5% vs 3.7%, RR 1.47, 95% CI 1.11–1.94, and 6-month mortality was also higher with restrictive, 20.5% vs 19.1%, HR 1.08, 95% CI 1.05–1.11, reinforcing the concern for harm with restrictive thresholds in MI [^117XLi6q]. Let me reconsider the magnitude: the absolute differences are modest, but the directionality is consistent across trials and pooled analyses, which strengthens inference despite the non-significant primary composite in MINT [^117XLi6q].
 
-> Next, I should review subgroup and sensitivity analyses that might refine practice. Prespecified analyses suggest the signal of harm with restrictive transfusion may be stronger in type 1 MI than type 2 MI, though the interaction test was not significant and this remains hypothesis-generating rather than definitive [^4e044572]. I need to check whether anemia acuity modifies the effect; multiple MINT analyses indicate that acute versus chronic anemia does not meaningfully modify the treatment effect of restrictive versus liberal transfusion, so acuity should not guide the threshold choice in isolation [^82118528] [^c24b43e1]. But wait, what if revascularization status matters? A prespecified analysis suggested higher 30-day cardiac death with restrictive transfusion among non-revascularized patients, whereas no such signal was seen in those who underwent revascularization, implying that patients without restored coronary flow may be particularly vulnerable to low hemoglobin and may benefit from a more liberal approach [^b6a91f3b].
+> Next, I should review subgroup and sensitivity analyses that might refine practice. Prespecified analyses suggest the signal of harm with restrictive transfusion may be stronger in type 1 MI than type 2 MI, though the interaction test was not significant and this remains hypothesis-generating rather than definitive [^112zfUC9]. I need to check whether anemia acuity modifies the effect; multiple MINT analyses indicate that acute versus chronic anemia does not meaningfully modify the treatment effect of restrictive versus liberal transfusion, so acuity should not guide the threshold choice in isolation [^114KqGxP] [^115y3sxL]. But wait, what if revascularization status matters? A prespecified analysis suggested higher 30-day cardiac death with restrictive transfusion among non-revascularized patients, whereas no such signal was seen in those who underwent revascularization, implying that patients without restored coronary flow may be particularly vulnerable to low hemoglobin and may benefit from a more liberal approach [^115foZ3x].
 
-> I should confirm how guidelines have evolved in light of this evidence. The 2023 AABB guideline, which historically endorsed restrictive thresholds broadly, chose not to recommend for or against a specific threshold in MI due to persistent uncertainty and the MINT signal, effectively moving MI into an ungraded zone pending more data [^372343b4]. In contrast, the 2025 ACC/AHA/ACEP ACS guideline issues a COR 2b, LOE B-R recommendation that transfusion to achieve hemoglobin ≥ 10 g/dL may be reasonable to reduce cardiovascular events in ACS with anemia, reflecting the MINT data and meta-analytic concerns for harm with restrictive thresholds in this population [^f4409116] [^57ba0f40]. The AABB 2025 guideline panel similarly suggests a liberal strategy when hemoglobin is < 10 g/dL in AMI, again as a conditional recommendation given low certainty but high patient-importance of mortality [^86b7636d].
+> I should confirm how guidelines have evolved in light of this evidence. The 2023 AABB guideline, which historically endorsed restrictive thresholds broadly, chose not to recommend for or against a specific threshold in MI due to persistent uncertainty and the MINT signal, effectively moving MI into an ungraded zone pending more data [^112QkAWP]. In contrast, the 2025 ACC/AHA/ACEP ACS guideline issues a COR 2b, LOE B-R recommendation that transfusion to achieve hemoglobin ≥ 10 g/dL may be reasonable to reduce cardiovascular events in ACS with anemia, reflecting the MINT data and meta-analytic concerns for harm with restrictive thresholds in this population [^117F7fd7] [^113F4RFV]. The AABB 2025 guideline panel similarly suggests a liberal strategy when hemoglobin is < 10 g/dL in AMI, again as a conditional recommendation given low certainty but high patient-importance of mortality [^114SiwTS].
 
-> Let me synthesize the balance of benefits and risks. Restrictive strategies reduce transfusion exposure and transfusion-related complications, but in MI the best available RCTs and pooled analyses consistently show a trend toward more death, recurrent MI, and cardiac death with restrictive thresholds around 7–8 g/dL, whereas liberal thresholds around 10 g/dL are not proven to reduce the primary composite but are associated with fewer cardiac deaths and a more favorable safety profile in this high-risk ischemic context [^04add051] [^ff3236ae] [^f4409116]. I should confirm that this does not mean indiscriminate transfusion; rather, it supports a lower threshold for transfusion in MI with anemia while still individualizing to symptoms, hemodynamics, bleeding risk, and comorbidities [^f4409116].
+> Let me synthesize the balance of benefits and risks. Restrictive strategies reduce transfusion exposure and transfusion-related complications, but in MI the best available RCTs and pooled analyses consistently show a trend toward more death, recurrent MI, and cardiac death with restrictive thresholds around 7–8 g/dL, whereas liberal thresholds around 10 g/dL are not proven to reduce the primary composite but are associated with fewer cardiac deaths and a more favorable safety profile in this high-risk ischemic context [^1117wLHv] [^117XLi6q] [^117F7fd7]. I should confirm that this does not mean indiscriminate transfusion; rather, it supports a lower threshold for transfusion in MI with anemia while still individualizing to symptoms, hemodynamics, bleeding risk, and comorbidities [^117F7fd7].
 
-> Practically, I need to ensure the recommendation is actionable and risk-stratified. For patients with acute MI and hemoglobin < 10 g/dL, a reasonable approach is to favor transfusion when hemoglobin is ≤ 10 g/dL, especially if there are ongoing ischemic symptoms, signs of hypoperfusion, tachycardia, heart failure, or type 1 MI physiology, while recognizing that hemoglobin 9–10 g/dL is a gray zone where clinical judgment and noninvasive oxygen delivery metrics may modulate decisions [^f4409116] [^57ba0f40]. Hold on, I should verify exceptions: patients with active bleeding, volume overload, or transfusion reactions warrant caution and may require alternative strategies or closer monitoring rather than automatic transfusion at 10 g/dL [^f4409116].
+> Practically, I need to ensure the recommendation is actionable and risk-stratified. For patients with acute MI and hemoglobin < 10 g/dL, a reasonable approach is to favor transfusion when hemoglobin is ≤ 10 g/dL, especially if there are ongoing ischemic symptoms, signs of hypoperfusion, tachycardia, heart failure, or type 1 MI physiology, while recognizing that hemoglobin 9–10 g/dL is a gray zone where clinical judgment and noninvasive oxygen delivery metrics may modulate decisions [^117F7fd7] [^113F4RFV]. Hold on, I should verify exceptions: patients with active bleeding, volume overload, or transfusion reactions warrant caution and may require alternative strategies or closer monitoring rather than automatic transfusion at 10 g/dL [^117F7fd7].
 
-> Finally, I should double-check the bottom line and state it clearly. Restrictive transfusion with a 7–8 g/dL trigger is not clearly safe and may be harmful in MI with anemia, whereas a more liberal strategy targeting hemoglobin ≥ 10 g/dL is reasonable and guideline-supported in ACS with anemia, acknowledging the evidence is largely from a single large RCT and meta-analytic pooling and that shared decision-making and clinical context remain essential [^04add051] [^ff3236ae] [^f4409116] [^57ba0f40]. I need to ensure we continue to monitor for transfusion-related complications and reassess hemoglobin trends, because the net benefit depends on both myocardial oxygen delivery and transfusion risks in real time [^f4409116].
+> Finally, I should double-check the bottom line and state it clearly. Restrictive transfusion with a 7–8 g/dL trigger is not clearly safe and may be harmful in MI with anemia, whereas a more liberal strategy targeting hemoglobin ≥ 10 g/dL is reasonable and guideline-supported in ACS with anemia, acknowledging the evidence is largely from a single large RCT and meta-analytic pooling and that shared decision-making and clinical context remain essential [^1117wLHv] [^117XLi6q] [^117F7fd7] [^113F4RFV]. I need to ensure we continue to monitor for transfusion-related complications and reassess hemoglobin trends, because the net benefit depends on both myocardial oxygen delivery and transfusion risks in real time [^117F7fd7].
 
 ---
 
-A restrictive transfusion strategy (hemoglobin 7–8 g/dL) is **not superior** to a liberal strategy (hemoglobin < 10 g/dL) in patients with acute myocardial infarction (MI) and anemia, and may increase the risk of death or recurrent MI [^04add051] [^ff3236ae]. The MINT trial showed a **non-significant trend toward harm** with restrictive transfusion, including higher 30-day death or MI and cardiac death, especially in type 1 MI and non-revascularized patients [^04add051] [^4e044572] [^b6a91f3b]. Current guidelines favor a **liberal strategy** (transfuse to ≥ 10 g/dL) in MI with anemia, particularly for type 1 MI or when revascularization is not performed [^f4409116] [^86b7636d]. Restrictive transfusion should be avoided in these settings, and decisions should be individualized based on symptoms, hemodynamics, and comorbidities [^f4409116] [^86b7636d].
+A restrictive transfusion strategy (hemoglobin 7–8 g/dL) is **not superior** to a liberal strategy (hemoglobin < 10 g/dL) in patients with acute myocardial infarction (MI) and anemia, and may increase the risk of death or recurrent MI [^1117wLHv] [^117XLi6q]. The MINT trial showed a **non-significant trend toward harm** with restrictive transfusion, including higher 30-day death or MI and cardiac death, especially in type 1 MI and non-revascularized patients [^1117wLHv] [^112zfUC9] [^115foZ3x]. Current guidelines favor a **liberal strategy** (transfuse to ≥ 10 g/dL) in MI with anemia, particularly for type 1 MI or when revascularization is not performed [^117F7fd7] [^114SiwTS]. Restrictive transfusion should be avoided in these settings, and decisions should be individualized based on symptoms, hemodynamics, and comorbidities [^117F7fd7] [^114SiwTS].
 
 ---
 
@@ -46,7 +46,7 @@ A restrictive transfusion strategy (hemoglobin 7–8 g/dL) is **not superior** t
 - **Design**: 3,504 patients with acute MI and hemoglobin < 10 g/dL; restrictive (7–8 g/dL) vs liberal (< 10 g/dL).
 - **Primary outcome**: 30-day death or recurrent MI: 16.9% restrictive vs 14.5% liberal (RR 1.15, 95% CI 0.99–1.34; P = 0.07).
 - **Secondary outcomes**: Higher cardiac death with restrictive (5.5% vs 3.2%; RR 1.74, 95% CI 1.26–2.40).
-- **Subgroup signals**: Greater harm in type 1 MI and non-revascularized patients [^4e044572] [^b6a91f3b].
+- **Subgroup signals**: Greater harm in type 1 MI and non-revascularized patients [^112zfUC9] [^115foZ3x].
 
 ---
 
@@ -54,19 +54,19 @@ A restrictive transfusion strategy (hemoglobin 7–8 g/dL) is **not superior** t
 
 - **Design**: 666 patients with acute MI and hemoglobin 7–10 g/dL; restrictive (≤ 8 g/dL) vs liberal (≤ 10 g/dL).
 - **Primary outcome**: 30-day MACE: 11.0% restrictive vs 14.0% liberal (RR 0.79, 95% CI 0.00–1.19; noninferiority met).
-- **Limitations**: Underpowered; wide CI includes potential harm; not definitive [^40d8bbe2].
+- **Limitations**: Underpowered; wide CI includes potential harm; not definitive [^112f91MT].
 
 ---
 
 ## Meta-analyses and pooled analyses
 
-An **individual patient data meta-analysis** of 4 RCTs (4,311 patients) found no significant difference in 30-day death or MI overall, but higher cardiac death with restrictive (5.5% vs 3.7%; RR 1.47, 95% CI 1.11–1.94) and higher 6-month mortality (20.5% vs 19.1%; HR 1.08, 95% CI 1.05–1.11) [^ff3236ae]. A **target trial emulation** using MINT data suggested progressively higher 30-day death/MI as transfusion thresholds fell from 10 to 7 g/dL, supporting harm with restrictive strategies [^1fd790f7].
+An **individual patient data meta-analysis** of 4 RCTs (4,311 patients) found no significant difference in 30-day death or MI overall, but higher cardiac death with restrictive (5.5% vs 3.7%; RR 1.47, 95% CI 1.11–1.94) and higher 6-month mortality (20.5% vs 19.1%; HR 1.08, 95% CI 1.05–1.11) [^117XLi6q]. A **target trial emulation** using MINT data suggested progressively higher 30-day death/MI as transfusion thresholds fell from 10 to 7 g/dL, supporting harm with restrictive strategies [^111pD2Ji].
 
 ---
 
 ## Physiological rationale
 
-Restrictive transfusion may **worsen myocardial ischemia** by reducing oxygen delivery, increasing sympathetic drive, and aggravating supply–demand mismatch in MI [^2b3661aa]. Liberal transfusion can **improve oxygen delivery** and reduce ischemia, but carries risks of volume overload and transfusion reactions; in MI, the balance favors liberal thresholds [^f4409116].
+Restrictive transfusion may **worsen myocardial ischemia** by reducing oxygen delivery, increasing sympathetic drive, and aggravating supply–demand mismatch in MI [^11274jZB]. Liberal transfusion can **improve oxygen delivery** and reduce ischemia, but carries risks of volume overload and transfusion reactions; in MI, the balance favors liberal thresholds [^117F7fd7].
 
 ---
 
@@ -74,30 +74,30 @@ Restrictive transfusion may **worsen myocardial ischemia** by reducing oxygen de
 
 | **Guideline** | **Recommendation** |
 |-|-|
-| ACC/AHA/ACEP 2025 | Transfusion to hemoglobin ≥ 10 g/dL may be reasonable in ACS with anemia (COR 2b, LOE B-R) [^f4409116] |
-| AABB 2025 | Suggests liberal transfusion (< 10 g/dL) in AMI given possible harm with restrictive strategies [^86b7636d] |
-| ACCP 2025 | Recommends against restrictive transfusion (7–8 g/dL) in critically ill ACS patients [^aebfbe36] |
+| ACC/AHA/ACEP 2025 | Transfusion to hemoglobin ≥ 10 g/dL may be reasonable in ACS with anemia (COR 2b, LOE B-R) [^117F7fd7] |
+| AABB 2025 | Suggests liberal transfusion (< 10 g/dL) in AMI given possible harm with restrictive strategies [^114SiwTS] |
+| ACCP 2025 | Recommends against restrictive transfusion (7–8 g/dL) in critically ill ACS patients [^115U5FVP] |
 
 ---
 
 ## Clinical implications and practical considerations
 
-- **Type 1 MI**: Greater harm with restrictive transfusion; favor liberal strategy [^4e044572].
-- **Non-revascularized patients**: Higher cardiac death with restrictive; prefer liberal transfusion [^b6a91f3b].
-- **Individualization**: Consider symptoms, hemodynamics, bleeding risk, and comorbidities [^f4409116] [^86b7636d].
+- **Type 1 MI**: Greater harm with restrictive transfusion; favor liberal strategy [^112zfUC9].
+- **Non-revascularized patients**: Higher cardiac death with restrictive; prefer liberal transfusion [^115foZ3x].
+- **Individualization**: Consider symptoms, hemodynamics, bleeding risk, and comorbidities [^117F7fd7] [^114SiwTS].
 - **Monitoring**: Watch for transfusion reactions, volume overload, and ischemic symptoms [^notfound].
 
 ---
 
 ## Conclusion and recommendations
 
-A restrictive transfusion strategy is **not superior** in MI with anemia and may increase harm, particularly in type 1 MI and non-revascularized patients. A **liberal strategy** (maintain hemoglobin ≥ 10 g/dL) is reasonable and guideline-supported in this setting, with decisions individualized to patient context [^f4409116] [^86b7636d].
+A restrictive transfusion strategy is **not superior** in MI with anemia and may increase harm, particularly in type 1 MI and non-revascularized patients. A **liberal strategy** (maintain hemoglobin ≥ 10 g/dL) is reasonable and guideline-supported in this setting, with decisions individualized to patient context [^117F7fd7] [^114SiwTS].
 
 ---
 
 ## References
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^f964f8ef]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^117NjqGi]. Clinical Cardiology (2021). Medium credibility.
 
 Background
 
@@ -121,7 +121,7 @@ REALITY will provide important guidance on the management of patients with AMI a
 
 ---
 
-### Effect of a restrictive vs liberal blood transfusion strategy on major cardiovascular events among patients with acute myocardial infarction and anemia: the REALITY randomized clinical trial [^40d8bbe2]. JAMA (2021). Excellent credibility.
+### Effect of a restrictive vs liberal blood transfusion strategy on major cardiovascular events among patients with acute myocardial infarction and anemia: the REALITY randomized clinical trial [^112f91MT]. JAMA (2021). Excellent credibility.
 
 Importance
 
@@ -157,7 +157,7 @@ ClinicalTrials.gov Identifier: NCT02648113.
 
 ---
 
-### Restrictive versus liberal transfusion in myocardial infarction – A patient-level meta-analysis [^ff3236ae]. NEJM Evidence (2025). Medium credibility.
+### Restrictive versus liberal transfusion in myocardial infarction – A patient-level meta-analysis [^117XLi6q]. NEJM Evidence (2025). Medium credibility.
 
 Background
 
@@ -177,7 +177,7 @@ Pooling individual patient data from four trials did not find a definitive diffe
 
 ---
 
-### Individualized transfusion decisions to minimize adverse cardiovascular outcomes in patients with acute myocardial infarction and anemia [^bb6414c3]. American Heart Journal (2025). Medium credibility.
+### Individualized transfusion decisions to minimize adverse cardiovascular outcomes in patients with acute myocardial infarction and anemia [^115npJSE]. American Heart Journal (2025). Medium credibility.
 
 Background
 
@@ -201,7 +201,7 @@ ClinicalTrials.gov, NCT02981407, https://clinicaltrials.gov/study/NCT02981407.
 
 ---
 
-### Restrictive or liberal transfusion strategy in myocardial infarction and anemia [^04add051]. The New England Journal of Medicine (2023). Excellent credibility.
+### Restrictive or liberal transfusion strategy in myocardial infarction and anemia [^1117wLHv]. The New England Journal of Medicine (2023). Excellent credibility.
 
 Background
 
@@ -221,7 +221,7 @@ In patients with acute myocardial infarction and anemia, a liberal transfusion s
 
 ---
 
-### Transfusion strategy effect on quality of life in patients with myocardial infarction and anemia: a secondary analysis of the MINT randomized clinical trial [^2e6fedca]. JAMA Internal Medicine (2025). High credibility.
+### Transfusion strategy effect on quality of life in patients with myocardial infarction and anemia: a secondary analysis of the MINT randomized clinical trial [^112Br2Wm]. JAMA Internal Medicine (2025). High credibility.
 
 Importance
 
@@ -257,7 +257,7 @@ ClinicalTrials.gov Identifier: NCT02981407.
 
 ---
 
-### Red cell transfusion in acute myocardial infarction: AABB international clinical practice guidelines [^86b7636d]. Annals of Internal Medicine (2025). Medium credibility.
+### Red cell transfusion in acute myocardial infarction: AABB international clinical practice guidelines [^114SiwTS]. Annals of Internal Medicine (2025). Medium credibility.
 
 Description
 
@@ -273,7 +273,7 @@ For hospitalized patients with AMI, the panel suggests a liberal red cell transf
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^1192fcf5]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^111T4AMJ]. Clinical Cardiology (2021). Medium credibility.
 
 4 CONCLUSION
 
@@ -281,13 +281,13 @@ REALITY is the largest randomized trial to date comparing transfusion strategies
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^1d7ca1a5]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^111kiWBv]. Clinical Cardiology (2021). Medium credibility.
 
 In the field of cardiac surgery, two randomized trials did not find improved outcomes with either restrictive or liberal strategies. 15, 16 However, a meta‐analysis of randomized trials in cardiac surgery showed a trend towards benefit of a liberal transfusion strategy, whereas in observational studies, transfusion (vs no transfusion) was associated with higher mortality. 31 In critical care patients, a randomized trial found that a liberal transfusion strategy (transfusion started when hemoglobin was < 9 g/dL) had no significant benefit compared to a restrictive strategy (transfusion allowed when hemoglobin was < 7 g/dL) in terms of 30‐day death (23.3% vs 18.7%; P = 0.11). 32 However, patients with ischemic heart disease were the only subgroup where the restrictive strategy had a numerically (although not statistically significant) lower absolute 30‐day survival rate (21% vs 26%; P = 0.38), 33 suggesting that this group may respond differently to transfusion compared with other patients. A similar signal was observed in a meta‐analysis of trials including critically ill patients randomized to restrictive vs liberal strategies, which found a numerical increase in death in the subgroup of patients with AMI treated with a restrictive strategy. 34
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^844da5ff]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^114P9Sut]. Clinical Cardiology (2021). Medium credibility.
 
 The two randomized trials that compared restrictive vs liberal transfusion strategies in patients with ACS were small and underpowered. 7, 8 The CRIT randomized pilot study 7 randomized 45 patients with AMI and hematocrit ≤ 30% to a liberal vs a conservative transfusion strategy. The primary composite outcome (in‐hospital death, recurrent myocardial infarction, or new or worsening heart failure) occurred in eight patients (38%) in the liberal arm vs three (13%) in the conservative arm (P = 0.046). Conversely, another pilot trial 8 included patients with ACS or stable angina and hemoglobin < 10 g/dL. In that study, the primary outcome (death, myocardial infarction, or unscheduled revascularization at day 30) occurred in six patients (10.9%) in the liberal arm vs 14 (25.5%) in the restrictive arm.
 
@@ -297,7 +297,7 @@ There is also currently a wide variation in clinical practice, including in Fran
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^e56bae9e]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^116s8LMK]. Clinical Cardiology (2021). Medium credibility.
 
 1 INTRODUCTION
 
@@ -311,7 +311,7 @@ Given the high prevalence of anemia, its strong association with death and adver
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^88e780bf]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^114Vy5NE]. Clinical Cardiology (2021). Medium credibility.
 
 2 METHODS
 
@@ -330,7 +330,7 @@ Inclusion and exclusion criteria in the REALITY trial
 
 ---
 
-### Transfusion strategy effect on quality of life in patients with myocardial infarction and anemia… [^a871c735]. JAMA Network (2025). Excellent credibility.
+### Transfusion strategy effect on quality of life in patients with myocardial infarction and anemia… [^115Jj8vQ]. JAMA Network (2025). Excellent credibility.
 
 Question Does a liberal vs restrictive red blood cell transfusion strategy affect health-related quality of life in patients with myocardial infarction and anemia. Findings. In this prespecified secondary analysis of a randomized clinical trial including 2844 patients, no differences were observed for any QOL outcome between a liberal vs restrictive transfusion strategy at 30 days postrandomization. Meaning Higher hemoglobin levels maintained with RBC transfusion may not offer significant benefits to QOL overall in patients with MI and anemia. Importance Both myocardial infarction and anemia have deleterious effects on health-related quality of life. Red blood cell transfusion may improve QOL after MI by relieving symptoms and/or increasing functional capacity.
 
@@ -340,7 +340,7 @@ Conclusions and Relevance This secondary analysis of the MINT trial found that i
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^1c8ce1c9]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^111jKyVa]. Clinical Cardiology (2021). Medium credibility.
 
 Abstract
 
@@ -366,7 +366,7 @@ REALITY will provide important guidance on the management of patients with AMI a
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^9cf33101]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^1151gkiL]. Clinical Cardiology (2021). Medium credibility.
 
 2.7.5 Primary clinical outcome analysis
 
@@ -384,7 +384,7 @@ Interactions between outcomes and prespecified subgroups will be analyzed accord
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^a982e0b7]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^115LJsLA]. Clinical Cardiology (2021). Medium credibility.
 
 2.7.1 Power and sample size considerations
 
@@ -392,7 +392,7 @@ There is no established clinical superiority of either transfusion strategy at t
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^2dbea662]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^112ApUqo]. Clinical Cardiology (2021). Medium credibility.
 
 Transfusion is a costly treatment (RBC units cost more than 200 euros in France, 140 euros in Spain) and blood is a scarce resource. In addition, beyond the questions of clinical safety, efficacy, and RBC unit costs, blood transfusion is associated with an increased use of medical resources and increased length of stay; hence, the costs of RBC transfusion are probably underestimated. 41 Finally, blood bank organization, shortage of blood, and costs of storage, testing, and delivery remain major issues in the western world, but even more so in low‐ and middle‐income countries. 42 For those reasons, a testing strategy combining clinical noninferiority and cost‐effectiveness superiority is legitimate, as establishing clinical noninferiority of a restrictive strategy but reduced costs would be sufficient to establish dominance of this strategy and change clinical practice.
 
@@ -400,7 +400,7 @@ The choice of an open‐label design was justified by the difficulty in blinding
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^ca017674]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^116AUzRR]. Clinical Cardiology (2021). Medium credibility.
 
 3 DISCUSSION
 
@@ -412,13 +412,13 @@ The issue of a restrictive vs a liberal transfusion strategy is not only relevan
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^0d7adf78]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^111Lz7RR]. Clinical Cardiology (2021). Medium credibility.
 
 Clinical data regarding transfusions in AMI are mainly observational and yield inconsistent results. An analysis of the Controlled Abciximab and Device Investigation to Lower Late Angioplasty Complications (CADILLAC) trial found that transfusion was independently associated with 30‐day and 1‐year death, and concluded that transfusion may be harmful after primary percutaneous coronary intervention. 35 Similarly, a pooled analysis of three international ACS trials found that blood transfusion was associated with higher death after adjustment for confounding factors. 36 Conversely, a retrospective analysis of nearly 80 000 elderly patients hospitalized with AMI reported lower 30 day death in those with hematocrit < 33% who received transfusions vs those who did not (adjusted odds ratio [OR] 0.69, 95% CI 0.53‐0.89). 5 A meta‐analysis (> 200 000 patients) reported a higher risk of death and recurrent myocardial infarction in patients with AMI who received transfusions (OR 2.91, 95% CI 2.46‐3.44). 6 However, another meta‐analysis of observational studies in post‐ACS patients suggested that transfusion had a neutral or beneficial effect when undertaken at hemoglobin levels < 8 g/dL, whereas it could be harmful at hemoglobin > 11 g/dL. These apparently contradictory observations are likely related to the limitations of observational studies. The majority of patients undergoing blood transfusion cannot be matched with nontransfused patients due to their markedly different clinical profiles, 37 indicating that observational studies cannot reliably establish the benefits or risks of transfusion because they are hopelessly influenced by selection bias. In addition, in an observational setting, it is difficult to unravel the effect of anemia, bleeding, and transfusion on outcomes. 1 There may also be a differential effect of transfusion according to hemoglobin nadir or the presence of overt bleeding. 38
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^e80b9fd4]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^116w22qh]. Clinical Cardiology (2021). Medium credibility.
 
 2.3 Study outcomes
 
@@ -439,7 +439,7 @@ The cost‐effectiveness analysis of the costs and outcomes for patients in the 
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^6be224ef]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^113kwdoL]. Clinical Cardiology (2021). Medium credibility.
 
 2.5 Transfusion strategies and randomization
 
@@ -462,13 +462,13 @@ At 6 months (± 30 days) and 1 year (± 30 days), patients are contacted to coll
 
 ---
 
-### Restrictive or liberal transfusion strategy in myocardial infarction and anemia [^fcd1ed34]. The New England Journal of Medicine (2023). Excellent credibility.
+### Restrictive or liberal transfusion strategy in myocardial infarction and anemia [^117TpPiT]. The New England Journal of Medicine (2023). Excellent credibility.
 
 The study MINT was published by Jeffrey L Carson and colleagues in 2023 in the journal N Engl J Med. This study is related to the following diseases: ST-elevation myocardial infarction, Non-ST-elevation myocardial infarction, Transfusion strategies in critical care and Red blood cell transfusion. In the MINT study, the trial question was: what is the role of restrictive transfusion strategy in patients with myocardial infarction and anemia? In the MINT study, the study design was: multi-center, open label, RCT. In the MINT study, the population was: 3504 patients (1593 female, 1911 male). The inclusion criteria were patients with acute myocardial infarction and anemia. The key exclusion criteria were uncontrolled bleeding; receipt of palliative treatment; scheduled for cardiac surgery during current admission; declined receipt of blood transfusion. In the MINT study, the interventions were: n = 1749 restrictive strategy (hemoglobin cutoff for transfusion 7–8 g/dL) n = 1755 liberal strategy (hemoglobin cutoff for transfusion < 10 g/dL). In the MINT study, the primary outcome was: no significant difference in myocardial infarction or death at day 30 (16.9% vs. 14.5%; RR 1.15, 95% CI 0.99 to 1.34). In the MINT study, the secondary outcomes were: no significant difference in death (9.9% vs. 8.3%; RR 1.19, 95% CI 0.96 to 1.47) No significant difference in myocardial infarction (8.5% vs. 7.2%; RR 1.19, 95% CI 0.94 to 1.49) No significant difference in death, myocardial infarction, revascularization, or rehospitalization (19.6% vs. 17.4%; RR 1.13, 95% CI 0.98 to 1.29). In the MINT study, the conclusion was: in patients with acute myocardial infarction and anemia, restrictive strategy was not superior to liberal strategy with respect to myocardial infarction or death at day 30.
 
 ---
 
-### Restrictive versus liberal transfusion in patients with type 1 or type 2 myocardial infarction: a prespecified analysis of the MINT trial [^4e044572]. Circulation (2024). Medium credibility.
+### Restrictive versus liberal transfusion in patients with type 1 or type 2 myocardial infarction: a prespecified analysis of the MINT trial [^112zfUC9]. Circulation (2024). Medium credibility.
 
 Background
 
@@ -492,7 +492,7 @@ URL: https://www.clinicaltrials.gov; Unique identifier: NCT02981407.
 
 ---
 
-### Effect of red blood cell transfusion strategy on clinical outcomes among patients with acute myocardial infarction undergoing revascularization: a prespecified analysis of the MINT trial [^b6a91f3b]. Circulation: Cardiovascular Interventions (2025). Medium credibility.
+### Effect of red blood cell transfusion strategy on clinical outcomes among patients with acute myocardial infarction undergoing revascularization: a prespecified analysis of the MINT trial [^115foZ3x]. Circulation: Cardiovascular Interventions (2025). Medium credibility.
 
 Background
 
@@ -516,7 +516,7 @@ URL: https://www.clinicaltrials.gov; Unique identifier: NCT02981407.
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^82118528]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^114KqGxP]. JAMA Network Open (2024). High credibility.
 
 Importance
 
@@ -552,7 +552,7 @@ ClinicalTrials.gov Identifier: NCT02981407.
 
 ---
 
-### Blood transfusion in patients with acute myocardial infarction, anemia, and heart failure: lessons from MINT [^10871636]. Circulation: Heart Failure (2025). Medium credibility.
+### Blood transfusion in patients with acute myocardial infarction, anemia, and heart failure: lessons from MINT [^111RWBDF]. Circulation: Heart Failure (2025). Medium credibility.
 
 Background
 
@@ -576,7 +576,7 @@ URL: https://www.clinicaltrials.gov; Unique identifier: NCT02981407.
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^989f1e1f]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^114uGZhQ]. Clinical Cardiology (2021). Medium credibility.
 
 2.7.2 Statistical analyses
 
@@ -592,7 +592,7 @@ The cost‐utility analysis will be performed with French and Spanish utility va
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^43185cbf]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^112iUMVp]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -604,7 +604,7 @@ We therefore performed a preplanned secondary analysis of MINT to assess the out
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^f8379c5d]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^117LzcGt]. BMJ (2015). Excellent credibility.
 
 Unanswered questions
 
@@ -614,7 +614,7 @@ Patients with traumatic brain injury may require more liberal transfusion strate
 
 ---
 
-### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^cc6153d2]. Critical Care (2015). Low credibility.
+### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^116E1Aad]. Critical Care (2015). Low credibility.
 
 Future direction
 
@@ -624,19 +624,19 @@ At the level of the practicing physician, what are clinicians to do? Fundamental
 
 ---
 
-### Effect of a restrictive vs liberal blood transfusion strategy on major cardiovascular events among patients with acute myocardial infarction and anemia: the REALITY randomized clinical trial [^e291a49f]. JAMA (2021). Excellent credibility.
+### Effect of a restrictive vs liberal blood transfusion strategy on major cardiovascular events among patients with acute myocardial infarction and anemia: the REALITY randomized clinical trial [^116nu83Y]. JAMA (2021). Excellent credibility.
 
 The study REALITY was published by Gregory Ducrocq and colleagues in 2021 in the journal JAMA. This study is related to the following diseases: Transfusion strategies in critical care, ST-elevation myocardial infarction, Non-ST-elevation myocardial infarction and Red blood cell transfusion. In the REALITY study, the trial question was: is a restrictive blood transfusion strategy noninferior to a liberal blood transfusion strategy in patients with acute myocardial infarction and anemia? In the REALITY study, the study design was: multi-center, open label, RCT. In the REALITY study, the population was: 666 patients (281 female, 385 male). The inclusion criteria were adult patients with myocardial infarction and anemia. The key exclusion criteria were shock; myocardial infarction occurring after PCI or CABG; life-threatening or massive ongoing bleeding; blood transfusion in the past 30 days; and malignant hematologic disease. In the REALITY study, the interventions were: n = 342 a restrictive strategy (transfusion triggered by hemoglobin ≤ 8 g/dL) n = 324 a liberal strategy (transfusion triggered by hemoglobin ≤ 10 g/dL). In the REALITY study, the primary outcome was: difference not exceeding non-inferiority margin in composite outcome of death, stroke, recurrent myocardial infarction, or emergency revascularization prompted by ischemia at 30 days (11% vs. 14%; ARD -3, 95% CI -8.4 to 2.4). In the REALITY study, the safety outcomes were: no significant difference in adverse events. In the REALITY study, the conclusion was: in adult patients with myocardial infarction and anemia, a restrictive strategy was noninferior to a liberal strategy with respect to the composite outcome of death, stroke, recurrent myocardial infarction, or emergency revascularization prompted by ischemia at 30 days.
 
 ---
 
-### Counterpoint: the design and interpretation of blood transfusion randomized clinical trials [^2ebc42c8]. Blood (2025). Medium credibility.
+### Counterpoint: the design and interpretation of blood transfusion randomized clinical trials [^112CHfaf]. Blood (2025). Medium credibility.
 
 A recent perspective suggested that prior evidence from over a decade ago established that a liberal rather than a restrictive blood transfusion strategy results in better outcomes in patients with anemia and either acute myocardial infarction or stable cardiovascular disease. Their premise was that physiological evidence, and a different interpretation of the TRICC trial should have been sufficient to establish clinical practice. They also suggest that a more personalized approach to the administration of transfusions would have been made possible by including a usual care arm in all transfusion trials. In this Counter-Point perspective, we describe how and why two discrete and common blood transfusion thresholds were selected in the TRICC, FOCUS, REALITY, and MINT trials. We explain why a usual-care-arm would have been uninformative. We also propose that we still do not have evidence to provide firm transfusion recommendations in several specific subpopulations of patients including those with stable atherosclerotic coronary artery disease. Finally, we provide our perspective on the state of existing evidence and on the clinical recommendations that should be adopted in practice.
 
 ---
 
-### Clinical trials evaluating red blood cell transfusion thresholds: an updated systematic review and with additional focus on patients with cardiovascular disease [^0e5e6050]. American Heart Journal (2018). Low credibility.
+### Clinical trials evaluating red blood cell transfusion thresholds: an updated systematic review and with additional focus on patients with cardiovascular disease [^111NJXYT]. American Heart Journal (2018). Low credibility.
 
 Background
 
@@ -656,7 +656,7 @@ New trials in patients undergoing cardiac surgery establish that a restrictive t
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^c24b43e1]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^115y3sxL]. JAMA Network Open (2024). High credibility.
 
 Conclusions
 
@@ -664,7 +664,7 @@ In this prespecified secondary analysis of the MINT trial, we observed that part
 
 ---
 
-### Transfusion thresholds for acute coronary syndromes-insights from the TRICS-III randomized controlled trial, systematic review, and meta-analysis [^3d460ab7]. Journal of the American Heart Association (2023). Medium credibility.
+### Transfusion thresholds for acute coronary syndromes-insights from the TRICS-III randomized controlled trial, systematic review, and meta-analysis [^112ZqmiW]. Journal of the American Heart Association (2023). Medium credibility.
 
 Both anemia and red blood cell transfusion are associated with morbidity and mortality in patients hospitalized for acute coronary syndromes (ACSs); these exposures are tightly linked, and their attributable risks are difficult to isolate. To reduce unnecessary blood exposure, transfusion should only be administered if/when its net benefits outweigh the risks associated with anemia. Hemoglobin thresholds are currently used for evaluating the severity of anemia and for guiding transfusion therapy; however, there is controversy surrounding the optimal hemoglobin threshold for transfusion in this patient population. Randomized controlled trials (RCT) comparing hemoglobin‐guided restrictive versus liberal transfusion strategies are difficult to interpret, and there is a paucity of available data on long‐term outcomes. We therefore performed a subset analysis of patients with acute myocardial infarction (AMI) in the TRICS‐III (Transfusion Thresholds in Cardiac Surgery) RCT to add evidence addressing this important clinical question and further interpret the results using a systematic‐review, meta‐analysis, and trial‐sequential analysis.
 
@@ -672,13 +672,13 @@ The previously describedmultinational TRICS‐III trial (NCT02042898) randomly a
 
 ---
 
-### Risks of restrictive versus liberal red blood cell transfusion strategies in patients with cardiovascular disease: an updated meta-analysis [^27bbd783]. Circulation: Cardiovascular Quality and Outcomes (2024). Medium credibility.
+### Risks of restrictive versus liberal red blood cell transfusion strategies in patients with cardiovascular disease: an updated meta-analysis [^1121ucSn]. Circulation: Cardiovascular Quality and Outcomes (2024). Medium credibility.
 
 In individuals with preexisting CVD who are hospitalized for ACS, orthopedic surgery, or other noncardiac surgery indications, the restrictive transfusion triggers (as shown in the Figure; range, 7–9.7; median, 8 g/dL) were associated with a significant increase in the outcomes of ACS and mortality rates. The most recent and largest RTTT studying subjects with acute myocardial infarctions used a restrictive hemoglobin threshold of 7 or 8 g/dL and achieved on average a hemoglobin of 8.9 g/dL in the restrictive arm. The restrictive trigger threshold was associated with an increased combined risk of myocardial infarction and death as compared with hemoglobin of 10.4 g/dL in the liberal threshold arm (P = 0.07; Figure). This is consistent with the findings of our meta-analysis, which has many more subjects enrolled, giving our study the added statistical power needed to show significance. We conclude that the summary data support the use of a liberal transfusion threshold as opposed to a restrictive approach for patients with CVD. Physicians must consider pertinent cardiac comorbidities and other clinical variables when making decisions about appropriate liberal transfusion thresholds. Whereas such a statement is usually appended to transfusion guidelines, too often the hemoglobin value alone remains the trigger for transfusion. Transfusion practice guidelines should update recommendations to incorporate the mounting evidence for harm when restrictive thresholds are used for patients with CVD with ACS or hospitalized for noncardiac reasons.
 
 ---
 
-### Alternative blood transfusion triggers: a narrative review [^3586df8e]. BMC Anesthesiology (2024). Medium credibility.
+### Alternative blood transfusion triggers: a narrative review [^112NMeUm]. BMC Anesthesiology (2024). Medium credibility.
 
 Conclusion
 
@@ -692,7 +692,7 @@ The application and study of alternative triggers for blood transfusion are cruc
 
 ---
 
-### In patients with AMI and anemia, a restrictive vs. liberal blood transfusion strategy was noninferior for 30-D MACE [^453347f5]. Annals of Internal Medicine (2021). Medium credibility.
+### In patients with AMI and anemia, a restrictive vs. liberal blood transfusion strategy was noninferior for 30-D MACE [^112mbNUt]. Annals of Internal Medicine (2021). Medium credibility.
 
 Source Citation
 
@@ -700,7 +700,7 @@ Ducrocq G, Gonzalez-Juanatey JR, Puymirat E, et al. Effect of a restrictive vs l
 
 ---
 
-### Liberal versus restrictive transfusion thresholds for patients with symptomatic coronary artery disease [^f77438e2]. American Heart Journal (2013). Low credibility.
+### Liberal versus restrictive transfusion thresholds for patients with symptomatic coronary artery disease [^117KryoF]. American Heart Journal (2013). Low credibility.
 
 Background
 
@@ -720,7 +720,7 @@ The liberal transfusion strategy was associated with a trend for fewer major car
 
 ---
 
-### Rationale and design for the myocardial ischemia and transfusion (MINT) randomized clinical trial [^0877cf6c]. American Heart Journal (2023). Medium credibility.
+### Rationale and design for the myocardial ischemia and transfusion (MINT) randomized clinical trial [^111DZ9M5]. American Heart Journal (2023). Medium credibility.
 
 Background
 
@@ -736,7 +736,7 @@ The MINT trial will inform RBC transfusion practice in patients with acute MI.
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^edac1f23]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^1175MszJ]. JAMA Network Open (2024). High credibility.
 
 Discussion
 
@@ -746,7 +746,7 @@ In previous studies, anemia at the time of hospital admission for acute MI or an
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^6e282390]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^113pK7y9]. JAMA Network Open (2024). High credibility.
 
 RBC Transfusion Strategy Effect Modification by Anemia Acuity
 
@@ -758,7 +758,7 @@ When using the alternative definition of acute anemia, 339 participants (10.8%) 
 
 ---
 
-### Transfusion thresholds for acute coronary syndromes-insights from the TRICS-III randomized controlled trial, systematic review, and meta-analysis [^a1e41c42]. Journal of the American Heart Association (2023). Medium credibility.
+### Transfusion thresholds for acute coronary syndromes-insights from the TRICS-III randomized controlled trial, systematic review, and meta-analysis [^11591dKX]. Journal of the American Heart Association (2023). Medium credibility.
 
 Our systematic review identified 274 distinct citations. A total of 3 RCTs met the eligibility criteria, yielding a total of 4 studies (1015 patients). The transfusion strategies were similar across all studies. Trials evaluating transfusion thresholds are unable to blind study staff and participants to treatment allocation; thus, all trials had a high risk for performance bias. Restrictive transfusion was associated with a trend toward an increased the risk of MACE (RD, 4% [95% CI, −1% to 9%]; I² = 0%) and MI (RD, 3% [95% CI, 0%–6%]; I² = 0%) at the longest available timepoint (Figure). These CIs exclude major benefits from restrictive transfusion (exclude > 1% reduction in absolute risk) and do not exclude important harm (do not exclude ≥ 6% increases in absolute risk). At 40% of the critical information size, the trial‐sequential analysis for MACE did not cross the boundary for superiority or futility, suggesting more evidence is needed to consider this association as conclusive.
 
@@ -770,7 +770,7 @@ In summary, a liberal transfusion strategy versus restrictive strategy may impro
 
 ---
 
-### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^a7c54e42]. Critical Care (2015). Low credibility.
+### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^115HjCtR]. Critical Care (2015). Low credibility.
 
 Clinical example – interventional cardiology
 
@@ -780,13 +780,13 @@ Another confounding variable within interventional cardiology is the use of anti
 
 ---
 
-### Transfusion strategies in hematologic and nonhematologic disease [^34ff695b]. Hematology: American Society of Hematology. Education Program (2014). Low credibility.
+### Transfusion strategies in hematologic and nonhematologic disease [^112Ma9UN]. Hematology: American Society of Hematology. Education Program (2014). Low credibility.
 
 Substantial progress has been made in our understanding of the risks and benefits of RBC transfusion through the performance of large clinical trials. More than 7000 patients have been enrolled in trials randomly allocating patients to higher transfusion thresholds (∼9–10 g/dL), referred to as liberal transfusion, or lower transfusion thresholds (∼7–8 g/dL), referred to as restrictive transfusion. The results of most of the trials suggest that a restrictive transfusion strategy is safe and, in some cases, superior to a liberal transfusion strategy. However, in patients with myocardial infarction, brain injury, stroke, or hematological disorders, more large trials are needed because preliminary evidence suggests that liberal transfusion might be beneficial or trials have not been performed at all.
 
 ---
 
-### In acute MI and anemia, restrictive vs. liberal transfusion did not differ for a composite of recurrent MI or death at 30 D [^53d84045]. Annals of Internal Medicine (2024). Medium credibility.
+### In acute MI and anemia, restrictive vs. liberal transfusion did not differ for a composite of recurrent MI or death at 30 D [^1139JcJQ]. Annals of Internal Medicine (2024). Medium credibility.
 
 Source Citation
 
@@ -794,7 +794,7 @@ Carson JL, Brooks MM, Hebert PC, et al; MINT Investigators. Restrictive or liber
 
 ---
 
-### Restrictive compared with liberal red cell transfusion strategies in cardiac surgery: a meta-analysis [^79bbac77]. European Heart Journal (2019). Medium credibility.
+### Restrictive compared with liberal red cell transfusion strategies in cardiac surgery: a meta-analysis [^1147UYH4]. European Heart Journal (2019). Medium credibility.
 
 Aims
 
@@ -810,13 +810,13 @@ The current evidence does not support the notion that restrictive RBC transfusio
 
 ---
 
-### How low is too low? Cardiac risks with anemia [^2fcf8063]. Critical Care (2004). Low credibility.
+### How low is too low? Cardiac risks with anemia [^112Dt7hc]. Critical Care (2004). Low credibility.
 
 Despite the increasing availability of data supporting more restrictive transfusion practices, the risks and benefits of transfusing critically ill patients continue to evoke controversy. Past retrospective and observational studies suggested that liberal transfusion strategies were more beneficial in patients whose hematocrit levels fell below 30%. An expanding body of literature suggests that an arbitrary trigger for transfusion (the '10/30 rule') is ill advised. A recent randomized controlled trial provided compelling evidence that similar, and in some cases better, outcomes result if a restrictive transfusion strategy is maintained. The impact of this accumulating evidence on clinical practice is evident in large reports, which show that the average transfusion trigger in critically ill patients was a hemoglobin level in the range 8–8.5 g/dl. Based on the available evidence, transfusion in the critically ill patient without active ischemic heart disease should generally be withheld until the hemoglobin level falls to 7 g/dl. Transfusions should be administered as clinically indicated for patients with acute, ongoing blood loss and those who have objective signs and symptoms of anemia despite maintenance of euvolemia. The hemoglobin level at which serious morbidity or mortality occurs in critically ill patients with active ischemic heart disease is a subject of continued debate but it is likely that a set transfusion trigger will not provide an optimal risk-benefit profile in this population.
 
 ---
 
-### Association of blood transfusion with increased mortality in myocardial infarction: a meta-analysis and diversity-adjusted study sequential analysis [^91bef500]. JAMA Internal Medicine (2013). Medium credibility.
+### Association of blood transfusion with increased mortality in myocardial infarction: a meta-analysis and diversity-adjusted study sequential analysis [^114j5M1H]. JAMA Internal Medicine (2013). Medium credibility.
 
 Background
 
@@ -836,7 +836,7 @@ Blood transfusion or a liberal blood transfusion strategy compared with no blood
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^775a8678]. Chest (2025). Medium credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^1143ww7M]. Chest (2025). Medium credibility.
 
 Research Priorities
 
@@ -854,7 +854,7 @@ The pooled analysis showed a trend toward higher mortality with the restrictive 
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^7052ae30]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^113sXPJo]. JAMA Network Open (2024). High credibility.
 
 Methods
 
@@ -870,7 +870,7 @@ The exposure of interest was acute (acquired during the hospitalization) vs chro
 
 ---
 
-### Red blood cell transfusion-AABB guidelines… [^d785254d]. JAMA Network (2023). Excellent credibility.
+### Red blood cell transfusion-AABB guidelines… [^116WX4Uc]. JAMA Network (2023). Excellent credibility.
 
 Findings For adults, 45 randomized controlled trials with 20 599 participants compared restrictive hemoglobin-based transfusion thresholds, typically 7 to 8 g/dL, with liberal transfusion thresholds of 9 to 10 g/dL. For pediatric patients, 7 randomized controlled trials with 2730 participants compared a variety of restrictive and liberal transfusion thresholds. For most patient populations, results provided moderate quality evidence that restrictive transfusion thresholds did not adversely affect patient-important outcomes. Recommendation 1: for hospitalized adult patients who are hemodynamically stable, the international panel recommends a restrictive transfusion strategy considering transfusion when the hemoglobin concentration is less than 7 g/dL. In accordance with the restrictive strategy threshold used in most trials, clinicians may choose a threshold of 7.
 
@@ -880,7 +880,7 @@ Recommendation 4: for hemodynamically stable children with congenital heart dise
 
 ---
 
-### Anemia and acute coronary syndrome: time for intervention studies [^d49ef0a0]. Journal of the American Heart Association (2016). Low credibility.
+### Anemia and acute coronary syndrome: time for intervention studies [^116SDm9H]. Journal of the American Heart Association (2016). Low credibility.
 
 How then should a clinician approach an ACS patient with concomitant anemia? As recommended by current American College of Cardiology/American Heart Association guidelines, measures should be taken to minimize risks for bleeding. This may be accomplished by integrating formal bleeding risk algorithms within usual care pathways to identify patients who will derive the greatest benefit from bleeding avoidance strategies, such as transradial access and use of vascular closure devices. Dosing of antithrombotic therapy by weight and renal function should be emphasized to further minimize bleeding risks. With respect to treatment, a restrictive transfusion threshold of 8 g/dL appears reasonable given the potential for harm with administration of blood products coupled with the lack of any clear benefit in randomized studies using a more liberal threshold.
 
@@ -888,7 +888,7 @@ Our understanding of red blood cells, both in normal human physiology and in dis
 
 ---
 
-### Association of in-hospital hemoglobin drop with decreased myocardial salvage and increased long-term mortality in patients with acute ST-Segment-elevation myocardial infarction [^ef5a5b44]. Journal of the American Heart Association (2022). Medium credibility.
+### Association of in-hospital hemoglobin drop with decreased myocardial salvage and increased long-term mortality in patients with acute ST-Segment-elevation myocardial infarction [^1177rPe3]. Journal of the American Heart Association (2022). Medium credibility.
 
 Anemia is common in patients with acute MI and may: (1) be already present on admission (baseline anemia), or (2) develop during the hospital stay with possible contributions of periprocedural and postprocedural bleeding from invasive procedures and intensified anticoagulant therapy. However, lack of oxygen carriers/supply may further deteriorate cardiac function by exacerbating myocardial ischemia even after coronary flow is re‐established. Our data show that the prevalence of anemia was 10.5% on admission and anemia developed in 57.9% of the patients with STEMI at some point during hospitalization. These data are in line with previous studies which reported that anemia was present in ≈20% of patients with acute MI and the proportion of patients with anemia increased to 48% during hospitalization.
 
@@ -896,7 +896,7 @@ Anemia often triggers red blood cell transfusions, which are administered in up 
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^3e62adb4]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^112bVNtK]. BMJ (2015). Excellent credibility.
 
 Conclusions
 
@@ -906,7 +906,7 @@ Restrictive transfusion strategies are safe in most clinical settings. Liberal t
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^a8452593]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^115JU9S2]. BMJ (2015). Excellent credibility.
 
 Objective To compare the benefit and harm of restrictive versus liberal transfusion strategies to guide red blood cell transfusions.
 
@@ -926,7 +926,7 @@ Trial registration PROSPERO CRD42013004272.
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^89e714d2]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^114XSvSD]. BMJ (2015). Excellent credibility.
 
 Objective
 
@@ -962,7 +962,7 @@ PROSPERO CRD42013004272.
 
 ---
 
-### Red blood cell transfusion: a clinical practice guideline from the AABB* [^aee4c10d]. Annals of Internal Medicine (2012). Low credibility.
+### Red blood cell transfusion: a clinical practice guideline from the AABB* [^115UHgXN]. Annals of Internal Medicine (2012). Low credibility.
 
 Description
 
@@ -974,7 +974,7 @@ These guidelines are based on a systematic review of randomized clinical trials 
 
 ---
 
-### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^48a1b221]. Critical Care (2015). Low credibility.
+### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^112rgRNx]. Critical Care (2015). Low credibility.
 
 While the RBC transfusion recommendations are fundamentally well founded, there remain limitations in our understanding of the indications, risks, and benefits of such transfusion. These knowledge gaps are particularly prevalent in the gray zones of RBC transfusion practice, such as in the setting of active bleeding, the potential for end-organ ischemia (for example, myocardial ischemia, septic shock), and neurologic illness and injury. Such gaps raise serious concern when adherence to the restrictive transfusion guidelines is broadly promulgated in the current clinical literature, emphasizing a broad endorsement of the guideline. To suggest that such a view is unfounded, it may be noted that broad-based measures have been recently applied in assessing compliance with the aforementioned restrictive guidelines. While the decision to transfuse RBC should be based upon a comprehensive, patient-specific clinical assessment, deviation from the target of such published compliance measures has been specifically criticized as failure of their adherence.
 
@@ -982,7 +982,7 @@ To provide the physician with a RBC transfusion compass, we reviewed the clinica
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^f0c154f3]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^1179vy3Q]. JAMA Network Open (2024). High credibility.
 
 Physiologic adaptative mechanisms to anemia, such as increases in cardiac output, 2,3-diphosphoglycerate levels (decreasing Hb oxygen–binding affinity), tissue oxygen extraction, and redistribution of regional blood flow in favor of coronary and cerebral circulation, may not have sufficient time to occur and sustain tissue oxygen delivery in acute anemia. In the context of acute MI, the additional myocardial oxygen consumption caused by the required acute increase in cardiac output may further worsen clinical outcomes. We thus hypothesized that a more liberal RBC transfusion strategy after acute MI might improve tissue oxygen delivery (including myocardial oxygen delivery), reduce tissue hypoxia, and improve outcomes, especially in patients with acute anemia. However, our findings did not support this hypothesis. Acute anemia was not associated with an increased risk of recurrent MI, and the transfusion strategy did not have a larger effect on the outcomes in patients with MI and acute anemia.
 
@@ -990,7 +990,7 @@ Our findings suggest that acute anemia was a marker of a more complex and morbid
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^35e4308b]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^112NtzRp]. JAMA Network Open (2024). High credibility.
 
 We estimated the intention-to-treat intervention effect (restrictive vs liberal transfusion strategies) on every outcome in the full sample and within each anemia acuity group. We used multivariable mixed-effects log-binomial regressions with a random effect for clinical sites, adjusted for the same prognostic factors and potential confounders mentioned above. We included a variable for anemia acuity, the randomized intervention, and an interaction term between the 2 to test whether anemia acuity modified the intervention effect. We reported RRs with 95% CIs and the P value for the interaction test (multiplicative scale [RR]). We also reported the relative excess risk due to the interaction with 95% clustered bootstrap CI with 1000 resamples to express the effect modification on the additive scale.
 
@@ -1000,7 +1000,7 @@ We performed 4 sensitivity analyses. For the first, we used an alternative defin
 
 ---
 
-### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^00821c5d]. Critical Care (2015). Low credibility.
+### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^1111khmE]. Critical Care (2015). Low credibility.
 
 Conclusion
 
@@ -1008,13 +1008,13 @@ Current evidence suggests that in many clinical settings a restrictive RBC trans
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^f4409116]. Circulation (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^117F7fd7]. Circulation (2025). High credibility.
 
 Anemia management in acute coronary syndromes — the guideline assigns COR 2b and LOE B-R and states: "In patients with ACS and acute or chronic anemia, blood transfusion to achieve a hemoglobin level ≥ 10 g/dL may be reasonable to reduce cardiovascular events". For ACS populations, randomized trial evidence "suggests possible clinical benefit for a more liberal transfusion strategy targeting a hemoglobin level above 10 g/dL compared with targeting a hemoglobin level above 7 g/dL or 8 g/dL". In MINT, "3504 patients with acute STEMI or NSTEMI and anemia with a blood hemoglobin level of < 10 g/dL" were assigned to restrictive transfusion "(transfusing if the hemoglobin level was < 7–8 g/dL)" versus liberal "(transfusing if the hemoglobin level was < 10 g/dL)". The primary outcome of 30‑day death or recurrent MI occurred in "16.9% of patients in the restrictive strategy and 14.5% of patients in the liberal strategy (relative risk, 1.15 [95% CI, 0.99–1.34]; P = 0.07)". Death occurred in "9.9%" versus "8.3%" (relative risk, 1.19 [95% CI, 0.95–1.49]) and cardiac death in "5.5%" versus "3.2%" (relative risk, 1.74 [95% CI, 1.26–2.40]). Although the trial's primary endpoint was not significantly reduced, "the results suggest that a liberal blood transfusion strategy targeting a hemoglobin level around 10 g/dL may provide short-term clinical benefit over a restrictive transfusion strategy targeting a hemoglobin level above 7 g/dL or 8 g/dL in patients with AMI and anemia".
 
 ---
 
-### Liberal or restrictive postoperative transfusion in patients at high cardiac risk: the TOP randomized clinical trial [^1483d1d0]. JAMA (2025). Excellent credibility.
+### Liberal or restrictive postoperative transfusion in patients at high cardiac risk: the TOP randomized clinical trial [^111XR2gw]. JAMA (2025). Excellent credibility.
 
 Importance
 
@@ -1050,7 +1050,7 @@ ClinicalTrials.gov Identifier: NCT03229941.
 
 ---
 
-### Hemoglobin-based transfusion strategies for cardiovascular and other diseases: restrictive, liberal, or neither? [^9fb0c6a1]. Blood (2024). Medium credibility.
+### Hemoglobin-based transfusion strategies for cardiovascular and other diseases: restrictive, liberal, or neither? [^1155kQgQ]. Blood (2024). Medium credibility.
 
 Abstract
 
@@ -1058,7 +1058,7 @@ A "restrictive" red blood cell transfusion threshold, a hemoglobin concentration
 
 ---
 
-### Is a low transfusion threshold safe in critically ill patients with cardiovascular diseases? [^1dbbb426]. Critical Care Medicine (2001). Low credibility.
+### Is a low transfusion threshold safe in critically ill patients with cardiovascular diseases? [^111m5gwF]. Critical Care Medicine (2001). Low credibility.
 
 Objective
 
@@ -1090,13 +1090,13 @@ A restrictive red blood cell transfusion strategy generally appears to be safe i
 
 ---
 
-### How I treat anemia with red blood cell transfusion and iron [^1276a8e5]. Blood (2023). Medium credibility.
+### How I treat anemia with red blood cell transfusion and iron [^111UNdkY]. Blood (2023). Medium credibility.
 
 Severe anemia is commonly treated with red blood cell transfusion. Clinical trials have demonstrated that a restrictive transfusion strategy of 7 to 8 g/dL is as safe as a liberal transfusion strategy of 9 to 10 g/dL in many clinical settings. Evidence is lacking for subgroups of patients, including those with preexisting coronary artery disease, acute myocardial infarction, congestive heart failure, and myelodysplastic neoplasms. We present 3 clinical vignettes that highlight the clinical challenges in caring for patients with coronary artery disease with gastrointestinal bleeding, congestive heart failure, or myelodysplastic neoplasms. We emphasize that transfusion practice should be guided by patient symptoms and preferences in conjunction with the patient's hemoglobin concentration. Along with the transfusion decision, evaluation and management of the etiology of the anemia is essential. Iron-restricted erythropoiesis is a common cause of anemia severe enough to be considered for red blood cell transfusion but diagnosis and management of absolute iron deficiency anemia, the anemia of inflammation with functional iron deficiency, or their combination may be problematic. Intravenous iron therapy is generally the treatment of choice for absolute iron deficiency in patients with complex medical disorders, with or without coexisting functional iron deficiency.
 
 ---
 
-### Effect of restrictive versus liberal transfusion strategies on outcomes in patients with cardiovascular disease in a non-cardiac surgery setting: systematic review and meta-analysis [^2b3661aa]. BMJ (2016). Excellent credibility.
+### Effect of restrictive versus liberal transfusion strategies on outcomes in patients with cardiovascular disease in a non-cardiac surgery setting: systematic review and meta-analysis [^11274jZB]. BMJ (2016). Excellent credibility.
 
 Introduction
 
@@ -1108,7 +1108,7 @@ We conducted a systematic review and meta-analysis assessing the effect of restr
 
 ---
 
-### Systematic reviews and meta-analyses comparing mortality in restrictive and liberal haemoglobin thresholds for red cell transfusion: an overview of systematic reviews [^4a89bd08]. BMC Medicine (2020). Medium credibility.
+### Systematic reviews and meta-analyses comparing mortality in restrictive and liberal haemoglobin thresholds for red cell transfusion: an overview of systematic reviews [^112uWMDR]. BMC Medicine (2020). Medium credibility.
 
 Discussion
 
@@ -1120,13 +1120,13 @@ These findings support the conclusions of evidence-based guidelines and reassure
 
 ---
 
-### An official American Thoracic Society / American association of critical-care nurses / American College of Chest Physicians / Society of Critical Care Medicine policy statement: the choosing wisely® top 5 list in critical care medicine [^b4dc6d86]. American Journal of Respiratory and Critical Care Medicine (2014). Medium credibility.
+### An official American Thoracic Society / American association of critical-care nurses / American College of Chest Physicians / Society of Critical Care Medicine policy statement: the choosing wisely® top 5 list in critical care medicine [^115d8p1K]. American Journal of Respiratory and Critical Care Medicine (2014). Medium credibility.
 
 Red blood cell (RBC) transfusion thresholds — randomized clinical trials "found that using a transfusion trigger of an Hb concentration of less than 7 g/dl was associated with either equivalent or lower mortality compared with a transfusion trigger of less than 9 g/dl", and a "multisociety clinical practice guideline strongly recommends an Hb concentration transfusion threshold of less than 7 g/dl in hemodynamically stable patients without trauma or acute bleeding". Observational studies and a meta-analysis "suggest that restrictive transfusion strategies are superior for anemic patients with acute coronary syndromes including myocardial infarction", and, given the "absence of evidence suggesting benefit to a transfusion threshold greater than 7 g/dl", "intensivists might reasonably use this threshold in all critically ill patients".
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^591c4b2f]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^113H7QHc]. JAMA Network Open (2024). High credibility.
 
 Results
 
@@ -1151,19 +1151,19 @@ Results are presented for the full sample and in each group of anemia acuity. Ri
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^aebfbe36]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^115U5FVP]. Chest (2025). High credibility.
 
 Regarding therapeutic procedures for ST-elevation myocardial infarction, more specifically with respect to RBC transfusion, ACCP 2025 guidelines recommend to avoid using a restrictive (7–8 g/dL) RBC transfusion strategy in critically ill patients with ACS.
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^57ba0f40]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113F4RFV]. Journal of the American College of Cardiology (2025). High credibility.
 
 Acute coronary syndromes with anemia — MINT trial transfusion strategies and outcomes: The MINT (Myocardial Ischemia and Transfusion) trial randomly assigned 3504 patients with acute STEMI or NSTEMI and anemia with a blood hemoglobin level of < 10 g/dL (13% with recent bleeding) to a restrictive transfusion strategy (transfusing if the hemoglobin level was < 7–8 g/dL) or a liberal transfusion strategy (transfusing if the hemoglobin level was ≤ 10 g/dL). The primary outcome of 30-day death or recurrent MI occurred in 16.9% of patients in the restrictive strategy and 14.5% of patients in the liberal strategy (relative risk, 1.15 [95% CI, 0.99–1.34]; P = 0.07); death occurred in 9.9% versus 8.3% (relative risk, 1.19 [95% CI, 0.94–1.49]), and cardiac death occurred in 5.5% versus 3.0% (relative risk, 1.74 [95% CI, 1.26–2.40]). Although the trial did not demonstrate a statistically significant reduction in its primary endpoint, the results suggest that a liberal blood transfusion strategy targeting a hemoglobin level around 10 g/dL may provide short-term clinical benefit over a restrictive transfusion strategy targeting a hemoglobin level above 7 g/dL or 8 g/dL in patients with AMI and anemia.
 
 ---
 
-### Effect of restrictive versus liberal transfusion strategies on outcomes in patients with cardiovascular disease in a non-cardiac surgery setting: systematic review and meta-analysis [^6cf48741]. BMJ (2016). Excellent credibility.
+### Effect of restrictive versus liberal transfusion strategies on outcomes in patients with cardiovascular disease in a non-cardiac surgery setting: systematic review and meta-analysis [^113nXoEQ]. BMJ (2016). Excellent credibility.
 
 Methods
 
@@ -1177,7 +1177,7 @@ In our protocol we defined cardiovascular disease as known coronary artery disea
 
 ---
 
-### Anemia and acute coronary syndrome: time for intervention studies [^f2ba4657]. Journal of the American Heart Association (2016). Low credibility.
+### Anemia and acute coronary syndrome: time for intervention studies [^117Cra86]. Journal of the American Heart Association (2016). Low credibility.
 
 Figure 1
 Pathophysiological mechanisms in acute coronary syndrome and anemia.
@@ -1186,13 +1186,13 @@ Notwithstanding the importance of pathologic mechanisms, equally if not more imp
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^73bd07e8]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^113xb52X]. Chest (2025). High credibility.
 
 Regarding therapeutic procedures for ST-elevation myocardial infarction, more specifically with respect to RBC transfusion, ACCP 2025 guidelines recommend to consider using a restrictive RBC transfusion strategy over a permissive RBC transfusion strategy in critically ill patients with isolated elevation of serum troponin without other evidence of cardiac ischemia.
 
 ---
 
-### Transfusion thresholds and other strategies for guiding allogeneic red blood cell transfusion [^4b8ebafb]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Transfusion thresholds and other strategies for guiding allogeneic red blood cell transfusion [^112w21kN]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1224,7 +1224,7 @@ The existing evidence supports the use of restrictive transfusion triggers in mo
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^cae673e6]. Chest (2025). Medium credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^116BouWM]. Chest (2025). Medium credibility.
 
 Long-term follow-up of patients described a 1-year mortality of 23.1% in the restrictive and 20.4% in the permissive group (RR, 1.87; 95% CI, 0.74–4.69). Moreover, no significant differences were identified in hospital LOS, ICU LOS, or the risk of adverse events (Table 4). Overall, the increased point estimates in the risk of 30-day mortality, need for revascularization, and cardiac and renal adverse effects associated with a restrictive transfusion strategy outweighed the potential benefits on lower rates of infection and thromboembolism.
 
@@ -1245,13 +1245,13 @@ Question 4: Should critically ill patients undergoing cardiac surgery be treated
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^5eeb4dcb]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^113Risaa]. Chest (2025). High credibility.
 
 Regarding therapeutic procedures for non-ST-elevation myocardial infarction, more specifically with respect to RBC transfusion, ACCP 2025 guidelines recommend to avoid using a restrictive (7–8 g/dL) RBC transfusion strategy in critically ill patients with ACS.
 
 ---
 
-### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^63eafd8b]. Clinical Cardiology (2021). Medium credibility.
+### Restrictive vs liberal red blood cell transfusion strategies in patients with acute myocardial infarction and anemia: rationale and design of the REALITY trial [^113Z8ht6]. Clinical Cardiology (2021). Medium credibility.
 
 CONFLICT OF INTEREST
 
@@ -1261,19 +1261,19 @@ Dr Steg reports grants and nonfinancial support (cochair of the ODYSSEY OUTCOMES
 
 ---
 
-### Red blood cell transfusion: 2023 AABB international guidelines [^372343b4]. JAMA (2023). Excellent credibility.
+### Red blood cell transfusion: 2023 AABB international guidelines [^112QkAWP]. JAMA (2023). Excellent credibility.
 
 AABB guideline panel statements on thresholds note that the panel chose not to recommend for or against a liberal or restrictive transfusion threshold for patients with acute myocardial infarction; the panel noted that the MINT trial (including 3500 participants with acute myocardial infarction) compares a liberal transfusion at 10 g/dL with a restrictive transfusion strategy of 7 to 8 g/dL; in hematology and oncology inpatients, the panel suggests transfusion at 7 g/dL (conditional, low certainty evidence).
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^1e84fb01]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^111nFJ88]. Chest (2025). High credibility.
 
 Regarding therapeutic procedures for non-ST-elevation myocardial infarction, more specifically with respect to RBC transfusion, ACCP 2025 guidelines recommend to consider using a restrictive RBC transfusion strategy over a permissive RBC transfusion strategy in critically ill patients with isolated elevation of serum troponin without other evidence of cardiac ischemia.
 
 ---
 
-### In acute MI and acute or chronic anemia, liberal vs. restrictive transfusion did not affect recurrent MI or death [^b1ddb408]. Annals of Internal Medicine (2025). Medium credibility.
+### In acute MI and acute or chronic anemia, liberal vs. restrictive transfusion did not affect recurrent MI or death [^115YhH1R]. Annals of Internal Medicine (2025). Medium credibility.
 
 Clinical Impact Ratings
 
@@ -1281,7 +1281,7 @@ GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Hematology: [Form
 
 ---
 
-### Alternative blood transfusion triggers: a narrative review [^a204446d]. BMC Anesthesiology (2024). Medium credibility.
+### Alternative blood transfusion triggers: a narrative review [^1159CRnc]. BMC Anesthesiology (2024). Medium credibility.
 
 Table 1
 Hemoglobin levels to diagnose anemia at sea level (g/l)
@@ -1295,7 +1295,7 @@ As shown in Table 2, blood transfusion has varying effects on clinical outcomes 
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^1e5b92c7]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^111n1PSv]. BMJ (2015). Excellent credibility.
 
 Discussion
 
@@ -1303,7 +1303,7 @@ We did not find any association with mortality, overall morbidity, or myocardial
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^030ecafe]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^1115Xw33]. BMJ (2015). Excellent credibility.
 
 Fatal or non-fatal myocardial infarction
 
@@ -1315,13 +1315,13 @@ Fig 12 Trial sequential analysis of seven trials reporting myocardial infarction
 
 ---
 
-### Relationship between anemia and mortality outcomes in a national acute coronary syndrome cohort: insights from the UK myocardial ischemia national audit project registry [^9f272bf5]. Journal of the American Heart Association (2016). Low credibility.
+### Relationship between anemia and mortality outcomes in a national acute coronary syndrome cohort: insights from the UK myocardial ischemia national audit project registry [^1154xBwA]. Journal of the American Heart Association (2016). Low credibility.
 
 Our analysis suggests that anemia is independently associated with adverse clinical outcomes in patients presenting with ACS. There is a lack of clarity in contemporary guideline recommendations as to whether such patients with anemia should be transfused and the optimal transfusion strategy. 33 The American Association of Blood Banks recommendation for patients presenting with ACS is "No recommendation for or against a liberal or restrictive transfusion threshold for hospitalized, hemodynamically stable patients with acute coronary syndrome". 33 Furthermore, the CRIT (conservative vs liberal red cell transfusion in acute myocardial infarction) randomized pilot trial 34 demonstrated that patients with ACS and a hematocrit level < 30% who were randomized to a liberal transfusion arm had a significantly higher composite endpoint of in‐hospital death, recurrent myocardial infarction, or congestive heart failure than those who underwent more restrictive transfusion practice (38% vs 13%; P = 0.046). In contrast, in the MINT (A Multicenter, Randomized Study of Argatroban Versus Heparin as Adjunct to Tissue Plasminogen Activator [TPA] in Acute Myocardial Infarction: Myocardial Infarction With Novastan and TPA) pilot study undertaken in 110 patients presenting with an ACS or stable angina with anemia undergoing cardiac catheterization, patients randomized to a liberal blood transfusion strategy had 50% lower primary outcome rates of death, myocardial infarction, and unscheduled revascularization compared to those patients randomized to a restrictive transfusion strategy, with lower 30‐day mortality too. A recent meta‐analysis of 10 studies consisting mainly of registry studies including 203 665 patients has shown a close to 3‐fold independent increase in the risk of mortality associated with a liberal blood transfusion strategy in the AMI setting with meta‐regression adjusting for a history of bleeding or baseline hemoglobin level revealing a similar increased risk, indicating a significant risk for blood transfusion over and above that associated with bleeding or anemia, 35 with similar findings reported in the PCI setting. 36
 
 ---
 
-### Transfusion triggers for guiding RBC transfusion for cardiovascular surgery: a systematic review and meta-analysis* [^3e26ffe1]. Critical Care Medicine (2014). Low credibility.
+### Transfusion triggers for guiding RBC transfusion for cardiovascular surgery: a systematic review and meta-analysis* [^112b9LFA]. Critical Care Medicine (2014). Low credibility.
 
 Objective
 
@@ -1349,13 +1349,13 @@ Further randomized controlled trials are necessary to determine the optimal tran
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^498d2baa]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^112t3WoB]. Chest (2025). High credibility.
 
 Acute coronary syndrome — restrictive versus permissive red blood cell (RBC) transfusion outcomes indicate a trend toward higher mortality with the restrictive approach without statistical significance, with pooled relative risk (RR) 1.13 (95% CI, 0.67–1.91). In trial data, 30-day mortality was 9.9% in the restrictive group versus 8.3% in the permissive group (RR, 1.19; 95% CI, 0.96–1.47), and cardiac death rates were 5.5% versus 3.2% (RR, 1.74; 95% CI, 1.26–2.40). One-year mortality was 23.1% versus 20.4% (RR, 1.87; 95% CI, 0.74–4.69). Point estimates for myocardial infarction (MI) or death and for recurrent MI consistently favored the permissive strategy. No significant differences were identified for hospital length of stay (LOS), ICU LOS, or adverse events. In pooled ACS data (Table 4), 30-day mortality had RR 1.13 (0.67–1.91) with an absolute difference of 10 more per 1,000 (26 fewer-73 more); infections had RR 0.87 (0.17–4.40) with 10 fewer per 1,000 (61 fewer-252 more); thromboembolism had RR 0.75 (0.46–1.24) with 5 fewer per 1,000 (10 fewer-5 more). Other guidance noted suggested an RBC threshold of 9 to 10 g/dL in patients with ACS, while "the panel opted to suggest against a restrictive approach".
 
 ---
 
-### Clinical practice guidelines from the AABB: red blood cell transfusion thresholds and storage [^6ceaea25]. JAMA (2016). Excellent credibility.
+### Clinical practice guidelines from the AABB: red blood cell transfusion thresholds and storage [^113nUZwa]. JAMA (2016). Excellent credibility.
 
 Importance
 
@@ -1379,7 +1379,7 @@ Research in RBC transfusion medicine has significantly advanced the science in r
 
 ---
 
-### Risks of restrictive versus liberal red blood cell transfusion strategies in patients with cardiovascular disease: an updated meta-analysis [^e24a43a4]. Circulation: Cardiovascular Quality and Outcomes (2024). Medium credibility.
+### Risks of restrictive versus liberal red blood cell transfusion strategies in patients with cardiovascular disease: an updated meta-analysis [^116nV9UP]. Circulation: Cardiovascular Quality and Outcomes (2024). Medium credibility.
 
 ARTICLE INFORMATION
 
@@ -1399,7 +1399,7 @@ PRISMA Checklist
 
 ---
 
-### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^829437d0]. BMJ (2015). Excellent credibility.
+### Restrictive versus liberal transfusion strategy for red blood cell transfusion: systematic review of randomised trials with meta-analysis and trial sequential analysis [^114LbB9y]. BMJ (2015). Excellent credibility.
 
 Data extraction
 
@@ -1417,7 +1417,7 @@ We assessed the quality of evidence for mortality, overall morbidity, and fatal 
 
 ---
 
-### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^c3f9e5ee]. JAMA Network Open (2024). High credibility.
+### Anemia acuity effect on transfusion strategies in acute myocardial infarction: a secondary analysis of the MINT trial [^1161YXMw]. JAMA Network Open (2024). High credibility.
 
 Key Points
 
@@ -1435,19 +1435,19 @@ The findings of this study suggest that in patients with anemia who experience M
 
 ---
 
-### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^350f8ae1]. Critical Care (2015). Low credibility.
+### Restrictive and liberal red cell transfusion strategies in adult patients: reconciling clinical data with best practice [^112MfZjE]. Critical Care (2015). Low credibility.
 
 Red blood cell (RBC) transfusion guidelines correctly promote a general restrictive transfusion approach for anemic hospitalized patients. Such recommendations have been derived from evaluation of specific patient populations, and it is important to recognize that engaging a strict guideline approach has the potential to incur harm if the clinician fails to provide a comprehensive review of the patient's physiological status in determining the benefit and risks of transfusion. We reviewed the data in support of a restrictive or a more liberal RBC transfusion practice, and examined the quality of the datasets and manner of their interpretation to provide better context by which a physician can make a sound decision regarding RBC transfusion therapy. Reviewed studies included PubMed-cited (1974 to 2013) prospective randomized clinical trials, prospective subset analyses of randomized studies, nonrandomized controlled trials, observational case series, consecutive and nonconsecutive case series, and review articles. Prospective randomized clinical trials were acknowledged and emphasized as the best-quality evidence. The results of the analysis support that restrictive RBC transfusion practices appear safe in the hospitalized populations studied, although patients with acute coronary syndromes, traumatic brain injury and patients at risk for brain or spinal cord ischemia were not well represented in the reviewed studies. The lack of quality data regarding the purported adverse effects of RBC transfusion at best suggests that restrictive strategies are no worse than liberal strategies under the studied protocol conditions, and RBC transfusion therapy in the majority of instances represents a marker for greater severity of illness. The conclusion is that in the majority of clinical settings a restrictive RBC transfusion strategy is cost-effective, reduces the risk of adverse events specific to transfusion, and introduces no harm. In anemic patients with ongoing hemorrhage, with risk of significant bleeding, or with concurrent ischemic brain, spinal cord, or myocardium, the optimal hemoglobin transfusion trigger remains unknown. Broad-based adherence to guideline approaches of therapy must respect the individual patient condition as interpreted by comprehensive clinical review.
 
 ---
 
-### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^160d5ffe]. Chest (2025). High credibility.
+### Red blood cell transfusion in critically ill adults: an American College of Chest Physicians clinical practice guideline [^111ZhDmP]. Chest (2025). High credibility.
 
 Acute coronary syndrome — research priorities emphasize that studies exploring the impact on outcomes of restrictive hemoglobin thresholds of 8 g/dL or 9 g/dL are necessary, with calls for further exploration of effect modifiers within the MINT trial and for subgroup analyses focused on type 1 MI vs 2 MI and patients with heart failure and chronic kidney disease.
 
 ---
 
-### Effect of four hemoglobin transfusion threshold strategies in patients with acute myocardial infarction and anemia: a target trial emulation using MINT trial data [^1fd790f7]. Annals of Internal Medicine (2024). Medium credibility.
+### Effect of four hemoglobin transfusion threshold strategies in patients with acute myocardial infarction and anemia: a target trial emulation using MINT trial data [^111pD2Ji]. Annals of Internal Medicine (2024). Medium credibility.
 
 Background
 
@@ -1495,6 +1495,6 @@ National Heart, Lung, and Blood Institute.
 
 ---
 
-### Avoid transfusions of red blood cells for arbitrary… [^0af54a2e]. AAFP (2013). Low credibility.
+### Avoid transfusions of red blood cells for arbitrary… [^111HFGSy]. AAFP (2013). Low credibility.
 
 The AABB recommends adhering to a restrictive transfusion strategy in hospitalized, stable patients. The AABB suggests that transfusion decisions be influenced by symptoms as well as hemoglobin concentration. According to a National Institutes of Health Consensus Conference, no single criterion should be used as an indication for red cell component therapy. Instead, multiple factors related to the patient's clinical status and oxygen delivery needs should be considered.

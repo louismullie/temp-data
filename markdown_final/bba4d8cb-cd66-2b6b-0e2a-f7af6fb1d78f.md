@@ -15,33 +15,33 @@ Adverse effects of taking nitroglycerin and Viagra
 
 > Let's see… What do we have here? The user is asking about the adverse effects of taking nitroglycerin and Viagra (sildenafil) together. Let's break this down step-by-step. First, I need to think about the pharmacologic mechanism that makes the combination dangerous. Then, I should verify the clinical magnitude and time course of the interaction. Next, I will review authoritative labeling and guideline contraindications. After that, I need to consider special populations and emergency scenarios. Finally, I will synthesize practical counseling and a bottom-line recommendation, making sure I double-check any numeric intervals before concluding.
 
-> Let me first confirm the mechanism. Sildenafil inhibits PDE5, which degrades cGMP, thereby increasing cGMP and producing vasodilation; nitroglycerin is a nitric oxide donor that increases cGMP via sGC, so the two agents converge on the same pathway and produce additive vasodilation, which can precipitate severe hypotension, syncope, and ischemia; this is why all FDA labels list concomitant nitrates as a contraindication for sildenafil and vice versa [^1a99c807] [^c2592348] [^8f8dd61b].
+> Let me first confirm the mechanism. Sildenafil inhibits PDE5, which degrades cGMP, thereby increasing cGMP and producing vasodilation; nitroglycerin is a nitric oxide donor that increases cGMP via sGC, so the two agents converge on the same pathway and produce additive vasodilation, which can precipitate severe hypotension, syncope, and ischemia; this is why all FDA labels list concomitant nitrates as a contraindication for sildenafil and vice versa [^111gSLEJ] [^115y8YDV] [^114fpsVc].
 
-> Wait, let me verify the clinical magnitude. In a randomized crossover study of men with stable coronary disease, after sildenafil, the median maximum tolerated IV nitroglycerin dose was markedly lower (about 80 vs 160 mcg/min), and only 25% tolerated the highest NTG dose compared with 59% after placebo, indicating a clinically meaningful attenuation of nitrate tolerance and greater hypotension with coadministration; symptoms included dizziness and mild to moderate hypotension, consistent with the expected interaction [^b184b3a7]. In tadalafil studies, coadministration with sublingual nitroglycerin produced larger mean maximal decreases in standing systolic BP (around 28–36 mmHg depending on dose) and more subjects with standing SBP less than 85 mmHg, reinforcing the class effect and its time course [^2c27641d] [^bf99d9f9].
+> Wait, let me verify the clinical magnitude. In a randomized crossover study of men with stable coronary disease, after sildenafil, the median maximum tolerated IV nitroglycerin dose was markedly lower (about 80 vs 160 mcg/min), and only 25% tolerated the highest NTG dose compared with 59% after placebo, indicating a clinically meaningful attenuation of nitrate tolerance and greater hypotension with coadministration; symptoms included dizziness and mild to moderate hypotension, consistent with the expected interaction [^115YBP7t]. In tadalafil studies, coadministration with sublingual nitroglycerin produced larger mean maximal decreases in standing systolic BP (around 28–36 mmHg depending on dose) and more subjects with standing SBP less than 85 mmHg, reinforcing the class effect and its time course [^1128TgoN] [^115u4K6Q].
 
-> Hold on, I should verify the time course before quoting numbers. Initially, I thought the interaction might be negligible by 4 hours based on older summaries, but wait, that 4-hour figure comes from preliminary or limited data and is not the conservative, label-aligned interval; the FDA labeling and contemporary cardiology guidelines advise avoiding nitrates for at least 24 hours after sildenafil or vardenafil and at least 48 hours after tadalafil, reflecting the longer half-life of tadalafil and the uncertainty around earlier time points; I should correct myself and align with the 24- and 48-hour rules rather than the 4-hour claim [^notfound] [^8b55ad52] [^5d67f49a] [^29902616].
+> Hold on, I should verify the time course before quoting numbers. Initially, I thought the interaction might be negligible by 4 hours based on older summaries, but wait, that 4-hour figure comes from preliminary or limited data and is not the conservative, label-aligned interval; the FDA labeling and contemporary cardiology guidelines advise avoiding nitrates for at least 24 hours after sildenafil or vardenafil and at least 48 hours after tadalafil, reflecting the longer half-life of tadalafil and the uncertainty around earlier time points; I should correct myself and align with the 24- and 48-hour rules rather than the 4-hour claim [^notfound] [^114Za4J5] [^113PUmRb] [^1124cuoK].
 
-> I need to check the strength of evidence and guidelines. Multiple high-credibility sources converge: FDA labeling for sildenafil and nitroglycerin products repeatedly state the combination is contraindicated due to risk of severe hypotension; the 2023 AHA/ACC chronic coronary disease guideline explicitly advises against concomitant PDE5 inhibitors and nitrates and specifies the 24- and 48-hour washout windows; the 2025 ACC/AHA/ACEP ACS guideline directs clinicians to avoid nitrates within 24 hours of sildenafil/vardenafil and 48 hours of tadalafil, underscoring emergency care implications [^1a99c807] [^c2592348] [^8b55ad52] [^5d67f49a] [^29902616].
+> I need to check the strength of evidence and guidelines. Multiple high-credibility sources converge: FDA labeling for sildenafil and nitroglycerin products repeatedly state the combination is contraindicated due to risk of severe hypotension; the 2023 AHA/ACC chronic coronary disease guideline explicitly advises against concomitant PDE5 inhibitors and nitrates and specifies the 24- and 48-hour washout windows; the 2025 ACC/AHA/ACEP ACS guideline directs clinicians to avoid nitrates within 24 hours of sildenafil/vardenafil and 48 hours of tadalafil, underscoring emergency care implications [^111gSLEJ] [^115y8YDV] [^114Za4J5] [^113PUmRb] [^1124cuoK].
 
-> But wait, what if the patient already took both drugs and now presents with chest pain. I should confirm emergency management principles. In acute coronary syndromes, if a PDE5 inhibitor was used recently, nitrates should be withheld and alternative analgesics (e.g., morphine or fentanyl) considered; if nitroglycerin is absolutely necessary in a life-threatening scenario, it should be given only with close hemodynamic monitoring and readiness to treat profound hypotension, recognizing that the interaction is unpredictable in dose and timing; supportive measures for nitrate-induced hypotension include Trendelenburg positioning, IV fluids, and vasopressors as needed, though evidence is limited and this remains a risk–benefit judgment call [^5d67f49a] [^29902616] [^c2592348].
+> But wait, what if the patient already took both drugs and now presents with chest pain. I should confirm emergency management principles. In acute coronary syndromes, if a PDE5 inhibitor was used recently, nitrates should be withheld and alternative analgesics (e.g., morphine or fentanyl) considered; if nitroglycerin is absolutely necessary in a life-threatening scenario, it should be given only with close hemodynamic monitoring and readiness to treat profound hypotension, recognizing that the interaction is unpredictable in dose and timing; supportive measures for nitrate-induced hypotension include Trendelenburg positioning, IV fluids, and vasopressors as needed, though evidence is limited and this remains a risk–benefit judgment call [^113PUmRb] [^1124cuoK] [^115y8YDV].
 
-> Let me consider special populations and modifiers. Older adults, those with hepatic or severe renal impairment, and patients on strong CYP3A4 inhibitors have higher sildenafil exposure, which could prolong and intensify the interaction; in these settings, the 24-hour rule may be insufficient, and an even longer nitrate avoidance window is prudent when feasible; patients with autonomic dysfunction, volume depletion, or fixed outflow obstruction (e.g., aortic stenosis) are at heightened risk of symptomatic hypotension even without nitrates, so the combination is particularly hazardous in these groups [^4cdeabf7] [^4f127c9a] [^00ae0d6b].
+> Let me consider special populations and modifiers. Older adults, those with hepatic or severe renal impairment, and patients on strong CYP3A4 inhibitors have higher sildenafil exposure, which could prolong and intensify the interaction; in these settings, the 24-hour rule may be insufficient, and an even longer nitrate avoidance window is prudent when feasible; patients with autonomic dysfunction, volume depletion, or fixed outflow obstruction (e.g., aortic stenosis) are at heightened risk of symptomatic hypotension even without nitrates, so the combination is particularly hazardous in these groups [^112xxrQv] [^1132EEQy] [^11121TpE].
 
-> I should double-check patient counseling points. Patients should be told that sildenafil and nitrates must never be mixed, including recreational "poppers" (amyl nitrite), and that if they take sildenafil and develop chest pain, they should not self-administer nitroglycerin; instead, they should call 911 and inform responders about recent PDE5 inhibitor use; conversely, patients on chronic nitrates should not be prescribed sildenafil, and clinicians should explicitly reconcile medications before initiating therapy [^55bb34b2] [^261e5b87] [^c9baa505].
+> I should double-check patient counseling points. Patients should be told that sildenafil and nitrates must never be mixed, including recreational "poppers" (amyl nitrite), and that if they take sildenafil and develop chest pain, they should not self-administer nitroglycerin; instead, they should call 911 and inform responders about recent PDE5 inhibitor use; conversely, patients on chronic nitrates should not be prescribed sildenafil, and clinicians should explicitly reconcile medications before initiating therapy [^113C6q21] [^111yWj82] [^116A5Cmr].
 
-> Let me synthesize the adverse effects. The primary adverse effect is severe, potentially life-threatening hypotension with manifestations including dizziness, syncope, blurred vision, nausea, diaphoresis, and reflex tachycardia; in patients with coronary disease, this can precipitate myocardial ischemia or infarction, and in heart failure or valvular disease it can worsen hemodynamic compromise; although rare case reports describe myocardial infarction temporally associated with sildenafil even without nitrates, causality is confounded by sexual activity and underlying plaque vulnerability, so the dominant, reproducible risk with the combination remains profound hypotension and its sequelae [^c2592348] [^cd952b47] [^ccf9e6f8] [^b5067edd].
+> Let me synthesize the adverse effects. The primary adverse effect is severe, potentially life-threatening hypotension with manifestations including dizziness, syncope, blurred vision, nausea, diaphoresis, and reflex tachycardia; in patients with coronary disease, this can precipitate myocardial ischemia or infarction, and in heart failure or valvular disease it can worsen hemodynamic compromise; although rare case reports describe myocardial infarction temporally associated with sildenafil even without nitrates, causality is confounded by sexual activity and underlying plaque vulnerability, so the dominant, reproducible risk with the combination remains profound hypotension and its sequelae [^115y8YDV] [^116FnZpS] [^116EtQyd] [^115dNwYx].
 
-> Bottom line, I should confirm the practical recommendation. Do not coadminister nitroglycerin and sildenafil; if sildenafil was taken, avoid nitrates for at least 24 hours, and if tadalafil was taken, avoid nitrates for at least 48 hours; in emergencies, prioritize alternatives to nitrates and, if nitrates are absolutely necessary, administer with invasive hemodynamic monitoring and immediate access to fluids and vasopressors, recognizing that the interaction is unpredictable and potentially catastrophic; this is a contraindication, not merely a precaution, and should be treated as a medication safety red flag in all settings [^1a99c807] [^8b55ad52] [^5d67f49a] [^1f3358b2].
+> Bottom line, I should confirm the practical recommendation. Do not coadminister nitroglycerin and sildenafil; if sildenafil was taken, avoid nitrates for at least 24 hours, and if tadalafil was taken, avoid nitrates for at least 48 hours; in emergencies, prioritize alternatives to nitrates and, if nitrates are absolutely necessary, administer with invasive hemodynamic monitoring and immediate access to fluids and vasopressors, recognizing that the interaction is unpredictable and potentially catastrophic; this is a contraindication, not merely a precaution, and should be treated as a medication safety red flag in all settings [^111gSLEJ] [^114Za4J5] [^113PUmRb] [^111oFs3f].
 
 ---
 
-Taking nitroglycerin and Viagra (sildenafil) together is **contraindicated** because both drugs cause vasodilation and can cause severe, life-threatening hypotension [^1a99c807] [^c2592348]. This combination can lead to dizziness, syncope, shock, and even myocardial ischemia or death [^11d3b8e5] [^5d67f49a]. If a patient takes sildenafil, **nitrates should be avoided for at least 24 hours** [^8b55ad52]; if nitrates are urgently needed, use only with close hemodynamic monitoring and supportive care [^b184b3a7]. Patients should be counseled to never combine these medications and to inform healthcare providers if either has been used recently [^55bb34b2].
+Taking nitroglycerin and Viagra (sildenafil) together is **contraindicated** because both drugs cause vasodilation and can cause severe, life-threatening hypotension [^111gSLEJ] [^115y8YDV]. This combination can lead to dizziness, syncope, shock, and even myocardial ischemia or death [^111TRuUQ] [^113PUmRb]. If a patient takes sildenafil, **nitrates should be avoided for at least 24 hours** [^114Za4J5]; if nitrates are urgently needed, use only with close hemodynamic monitoring and supportive care [^115YBP7t]. Patients should be counseled to never combine these medications and to inform healthcare providers if either has been used recently [^113C6q21].
 
 ---
 
 ## Pharmacological mechanisms and interaction
 
-Both nitroglycerin and sildenafil act on the **nitric oxide (NO)-cyclic guanosine monophosphate (cGMP) pathway**, causing vasodilation [^f71d6d0f]. Nitroglycerin is a direct NO donor that increases cGMP and relaxes vascular smooth muscle, reducing preload and afterload [^f71d6d0f]. Sildenafil inhibits phosphodiesterase type 5 (PDE5), which degrades cGMP, thereby increasing cGMP and enhancing vasodilation [^f71d6d0f]. When combined, they produce **additive vasodilation** that can cause profound hypotension [^1a99c807].
+Both nitroglycerin and sildenafil act on the **nitric oxide (NO)-cyclic guanosine monophosphate (cGMP) pathway**, causing vasodilation [^117KMpsY]. Nitroglycerin is a direct NO donor that increases cGMP and relaxes vascular smooth muscle, reducing preload and afterload [^117KMpsY]. Sildenafil inhibits phosphodiesterase type 5 (PDE5), which degrades cGMP, thereby increasing cGMP and enhancing vasodilation [^117KMpsY]. When combined, they produce **additive vasodilation** that can cause profound hypotension [^111gSLEJ].
 
 ---
 
@@ -49,16 +49,16 @@ Both nitroglycerin and sildenafil act on the **nitric oxide (NO)-cyclic guanosin
 
 Clinical studies and case reports consistently document **severe hypotension** when nitroglycerin and sildenafil are coadministered:
 
-- **Severe hypotension**: Additive vasodilation can cause dramatic blood pressure drops, leading to dizziness, syncope, and shock [^1a99c807] [^c2592348].
-- **Myocardial ischemia**: Profound hypotension can reduce coronary perfusion, precipitating ischemia or infarction, especially in patients with coronary artery disease [^5d67f49a] [^ccf9e6f8].
-- **Syncope and shock**: Multiple reports describe patients experiencing syncope, circulatory collapse, and shock requiring emergency intervention [^11d3b8e5] [^5d67f49a].
+- **Severe hypotension**: Additive vasodilation can cause dramatic blood pressure drops, leading to dizziness, syncope, and shock [^111gSLEJ] [^115y8YDV].
+- **Myocardial ischemia**: Profound hypotension can reduce coronary perfusion, precipitating ischemia or infarction, especially in patients with coronary artery disease [^113PUmRb] [^116EtQyd].
+- **Syncope and shock**: Multiple reports describe patients experiencing syncope, circulatory collapse, and shock requiring emergency intervention [^111TRuUQ] [^113PUmRb].
 - **Death**: Fatal outcomes have been reported, particularly in patients with underlying cardiovascular disease [^notfound].
 
 ---
 
 ## Severity and onset of adverse effects
 
-The interaction is **rapid and dose-related**, with hypotension typically occurring within minutes to hours after coadministration. The severity depends on doses, timing, and individual susceptibility, but even therapeutic doses can cause life-threatening hypotension [^11d3b8e5].
+The interaction is **rapid and dose-related**, with hypotension typically occurring within minutes to hours after coadministration. The severity depends on doses, timing, and individual susceptibility, but even therapeutic doses can cause life-threatening hypotension [^111TRuUQ].
 
 ---
 
@@ -66,9 +66,9 @@ The interaction is **rapid and dose-related**, with hypotension typically occurr
 
 Major cardiology and urology guidelines uniformly **contraindicate coadministration**:
 
-- **Contraindication**: Sildenafil is absolutely contraindicated with nitrates due to the risk of severe hypotension [^1a99c807] [^3cb7292a].
-- **Washout period**: After sildenafil, avoid nitrates for at least 24 hours; after tadalafil, avoid for 48 hours due to its longer half-life [^8b55ad52] [^5d67f49a].
-- **Emergency management**: If nitrates are urgently needed after sildenafil, use only with close hemodynamic monitoring and supportive care (fluids, vasopressors) [^b184b3a7] [^5d67f49a].
+- **Contraindication**: Sildenafil is absolutely contraindicated with nitrates due to the risk of severe hypotension [^111gSLEJ] [^112Z1nAm].
+- **Washout period**: After sildenafil, avoid nitrates for at least 24 hours; after tadalafil, avoid for 48 hours due to its longer half-life [^114Za4J5] [^113PUmRb].
+- **Emergency management**: If nitrates are urgently needed after sildenafil, use only with close hemodynamic monitoring and supportive care (fluids, vasopressors) [^115YBP7t] [^113PUmRb].
 
 ---
 
@@ -76,10 +76,10 @@ Major cardiology and urology guidelines uniformly **contraindicate coadministrat
 
 Certain patients are at **particularly high risk** of severe hypotension with this combination:
 
-- **Coronary artery disease**: Reduced coronary perfusion during hypotension increases ischemia risk [^5d67f49a].
-- **Heart failure**: Hemodynamic compromise is exacerbated by additive vasodilation [^9358ff95].
+- **Coronary artery disease**: Reduced coronary perfusion during hypotension increases ischemia risk [^113PUmRb].
+- **Heart failure**: Hemodynamic compromise is exacerbated by additive vasodilation [^114mT5Fi].
 - **Elderly patients**: Greater susceptibility to hypotension and falls [^notfound].
-- **Patients on antihypertensives**: Additive effects increase hypotension risk [^bb531366].
+- **Patients on antihypertensives**: Additive effects increase hypotension risk [^115nib9P].
 
 ---
 
@@ -87,8 +87,8 @@ Certain patients are at **particularly high risk** of severe hypotension with th
 
 Healthcare providers should:
 
-- **Counsel patients**: Emphasize the contraindication and ensure patients disclose all medications, including over-the-counter and recreational drugs [^55bb34b2].
-- **Emergency protocols**: Train staff to recognize and manage severe hypotension from this interaction, including fluids and vasopressors [^c2592348].
+- **Counsel patients**: Emphasize the contraindication and ensure patients disclose all medications, including over-the-counter and recreational drugs [^113C6q21].
+- **Emergency protocols**: Train staff to recognize and manage severe hypotension from this interaction, including fluids and vasopressors [^115y8YDV].
 - **Alternative therapies**: Consider non-nitrate antianginals (e.g. beta-blockers, calcium channel blockers) in patients who may need erectile dysfunction therapy [^notfound].
 
 ---
@@ -97,27 +97,27 @@ Healthcare providers should:
 
 | **Adverse effect** | **Description** |
 |-|-|
-| Severe hypotension | Rapid, profound blood pressure drop causing dizziness, syncope, shock [^1a99c807] [^c2592348] |
-| Myocardial ischemia | Reduced coronary perfusion causing angina or infarction [^5d67f49a] [^ccf9e6f8] |
-| Syncope | Loss of consciousness due to cerebral hypoperfusion [^11d3b8e5] [^5d67f49a] |
-| Shock | Circulatory collapse requiring emergency intervention [^11d3b8e5] [^5d67f49a] |
+| Severe hypotension | Rapid, profound blood pressure drop causing dizziness, syncope, shock [^111gSLEJ] [^115y8YDV] |
+| Myocardial ischemia | Reduced coronary perfusion causing angina or infarction [^113PUmRb] [^116EtQyd] |
+| Syncope | Loss of consciousness due to cerebral hypoperfusion [^111TRuUQ] [^113PUmRb] |
+| Shock | Circulatory collapse requiring emergency intervention [^111TRuUQ] [^113PUmRb] |
 | Death | Fatal outcomes reported, especially in patients with cardiovascular disease [^notfound] |
 
 ---
 
-Taking nitroglycerin and Viagra together is **contraindicated** due to the risk of severe hypotension, syncope, shock, and myocardial ischemia. Patients should be counseled to avoid this combination, and if nitrates are urgently needed after sildenafil, use only with close monitoring and supportive care [^1a99c807] [^8b55ad52] [^5d67f49a].
+Taking nitroglycerin and Viagra together is **contraindicated** due to the risk of severe hypotension, syncope, shock, and myocardial ischemia. Patients should be counseled to avoid this combination, and if nitrates are urgently needed after sildenafil, use only with close monitoring and supportive care [^111gSLEJ] [^114Za4J5] [^113PUmRb].
 
 ---
 
 ## References
 
-### Interactions between nitroglycerin, Viagra [^9c1a3369]. DrugBank (2025). Excellent credibility.
+### Interactions between nitroglycerin, Viagra [^114zRsPv]. DrugBank (2025). Excellent credibility.
 
 The risk or severity of hypotension can be increased when nitroglycerin is combined with sildenafil.
 
 ---
 
-### Safety of intravenous nitroglycerin after administration of sildenafil citrate to men with coronary artery disease: a double-blind, placebo-controlled, randomized, crossover trial [^b184b3a7]. Critical Care Medicine (2007). Low credibility.
+### Safety of intravenous nitroglycerin after administration of sildenafil citrate to men with coronary artery disease: a double-blind, placebo-controlled, randomized, crossover trial [^115YBP7t]. Critical Care Medicine (2007). Low credibility.
 
 Objective
 
@@ -149,7 +149,7 @@ With close monitoring of blood pressure and heart rate, men with stable coronary
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^4cdeabf7]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^112xxrQv]. FDA (2025). Medium credibility.
 
 Figure 1: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers.
 
@@ -159,13 +159,13 @@ Effects of Sildenafil citrate on Blood Pressure When Co-administered with Alpha-
 
 ---
 
-### A 4-year update on the safety of sildenafil citrate (viagra) [^bd5c57e9]. Urology (2002). Low credibility.
+### A 4-year update on the safety of sildenafil citrate (viagra) [^115qjgFr]. Urology (2002). Low credibility.
 
 Clinical studies have demonstrated that sildenafil citrate (Viagra) is an effective and well-tolerated oral treatment for erectile dysfunction. Despite its established safety profile, concern about its cardiovascular safety persists among some physicians and the general public. This concern has stemmed primarily from sporadic reports of adverse events published in the literature and sensationalized by the media. However, the only absolute contraindication for sildenafil is concurrent use of nitrates. Because sildenafil has been on the market for 4 years and under clinical investigation for even longer, we can now evaluate its long-term safety in men who have been taking the drug for several years. We review this issue from 3 perspectives. First, we reassess the overall safety profile of sildenafil by reviewing the initial controlled clinical trials and open-label studies. We present new data from patients who have been exposed to sildenafil for up to 4.5 years. We also evaluate the results from independent postmarketing studies. Second, we review the cardiovascular-specific results from the clinical trials, long-term extension, and postmarketing studies. Lastly, we review the specific effects on the visual system based on findings from studies conducted during drug development and post marketing.
 
 ---
 
-### Nitroglycerin (Nitro-bid) [^85983554]. FDA (2025). Medium credibility.
+### Nitroglycerin (Nitro-bid) [^114R4Ujm]. FDA (2025). Medium credibility.
 
 WARNINGS:
 
@@ -175,19 +175,19 @@ The benefits of transdermal nitroglycerin in patients with acute myocardial infa
 
 ---
 
-### Cardiovascular safety of sildenafil citrate (viagra): an updated perspective [^56528176]. Urology (2006). Low credibility.
+### Cardiovascular safety of sildenafil citrate (viagra): an updated perspective [^113CyeaR]. Urology (2006). Low credibility.
 
 Sildenafil citrate (Viagra; Pfizer Inc, New York, NY) relaxes vascular smooth muscle, resulting in modest reductions in blood pressure that are insufficient to stimulate a reflex increase in heart rate. These blood pressure reductions are similar for healthy men and men with coronary artery disease (CAD) or who use antihypertensive drugs. Sildenafil does not affect the force of cardiac contraction, and cardiac performance is unaffected. Sildenafil is mildly vasodilating in the coronary circulation and does not increase the risk of ventricular arrhythmia. During exercise and recovery, sildenafil does not cause clinically significant alterations in hemodynamic parameters in men with CAD, and it has no negative effects on coronary oxygen consumption, ischemia, or exercise capacity. Clinical trial data from > 13,000 patients, 7 years of international postmarketing data, and observational studies of > 28,000 men in the United Kingdom and 3813 men in the European Union reveal that (1) there are no special cardiovascular concerns when sildenafil is used in accordance with product labeling and (2) the risk for serious events such as myocardial infarction or death is not increased. However, because safety has not been established in patients with recent serious cardiovascular events, hypotension or uncontrolled hypertension, or retinitis pigmentosa, physicians should consult their current local prescribing information before prescribing sildenafil for these patients. Among men with erectile dysfunction treated with sildenafil, the adverse event profile is similar overall to that in men with comorbid cardiovascular disease (CVD), it is similar between those with and without CAD, and it is similar between those who take and those who do not take antihypertensive drugs (regardless of the number or class). In a controlled interaction study of sildenafil and amlodipine, the mean additional reduction in supine blood pressure was 8 mm Hg systolic and 7 mm Hg diastolic. Sildenafil should be used with caution in patients who take alpha-blockers because coadministration may lead to symptomatic hypotension in some individuals. When sildenafil is coadministered with an alpha-blocker, patients should be stable on alpha-blocker therapy before initiating sildenafil treatment and sildenafil should be initiated at the lowest dose. Also, in the absence of information specific to mixed alpha/beta blockers, such as carvedilol and labetalol, similar care should be taken as for alpha-blockers. Sildenafil potentiates the hypotensive effects of nitrates, and its administration to patients who are using organic nitrates in any form, either regularly or intermittently, is contraindicated. Before prescribing sildenafil, physicians should carefully consider whether their patients with underlying CVD could be affected adversely by resuming sexual activity. Management recommendations based on cardiovascular risk, from the Second Princeton Consensus Conference, are presented.
 
 ---
 
-### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^8b55ad52]. Circulation (2023). High credibility.
+### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^114Za4J5]. Circulation (2023). High credibility.
 
 Chronic coronary disease — phosphodiesterase type 5 inhibitors and nitrates guidance states that "Phosphodiesterase type 5 inhibitors should not be used concomitantly with nitrate medications, often used to treat CCD, because of the potential for severe hypotension". "Sildenafil and vardenafil have half-lives of ∼4 hours". "Tadalafil is long-acting and has a half-life of 17.5 hours". "Patients on sildenafil or vardenafil should avoid taking nitroglycerine for ≥ 24 hours (≥ 48 hours for tadalafil)".
 
 ---
 
-### Sildenafil citrate [^55bb34b2]. FDA (2025). Medium credibility.
+### Sildenafil citrate [^113C6q21]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -211,7 +211,7 @@ Physicians should discuss with patients the potential cardiac risk of sexual act
 
 ---
 
-### Sildenafil citrate (sildenafil) [^3cb7292a]. FDA (2024). Medium credibility.
+### Sildenafil citrate (sildenafil) [^112Z1nAm]. FDA (2024). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -226,7 +226,7 @@ History of hypersensitivity reaction to sildenafil or any component of the oral 
 
 ---
 
-### Nitroglycerin (nitroglycerin in dextrose) [^cfb1b66f]. FDA (2016). Low credibility.
+### Nitroglycerin (nitroglycerin in dextrose) [^116Jv8TQ]. FDA (2016). Low credibility.
 
 Drug Interactions:
 
@@ -244,7 +244,7 @@ Administration of Nitroglycerin in 5% Dextrose Injection through the same infusi
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^843bb566]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^114P3RR7]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -268,7 +268,7 @@ Physicians should discuss with patients the potential cardiac risk of sexual act
 
 ---
 
-### Nitroglycerin [^c2592348]. FDA (2025). Medium credibility.
+### Nitroglycerin [^115y8YDV]. FDA (2025). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -288,7 +288,7 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 
 ---
 
-### Nitroglycerin (nitroMist) [^00a6f8aa]. FDA (2020). Medium credibility.
+### Nitroglycerin (nitroMist) [^1111y5s7]. FDA (2020). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -316,7 +316,7 @@ NitroMist is contraindicated in patients who have shown hypersensitivity to it o
 
 ---
 
-### Sildenafil [^cc39de44]. FDA (2025). Medium credibility.
+### Sildenafil [^116DmurT]. FDA (2025). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -331,7 +331,7 @@ History of hypersensitivity reaction to sildenafil or any component of the table
 
 ---
 
-### Nitroglycerin (nitroglycerin transdermal delivery system) [^9cbf64e4]. FDA (2009). Low credibility.
+### Nitroglycerin (nitroglycerin transdermal delivery system) [^1151PMcw]. FDA (2009). Low credibility.
 
 WARNINGS
 
@@ -343,7 +343,7 @@ A cardiovertor/defibrillator should not be discharged through a paddle electrode
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^1a99c807]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^111gSLEJ]. FDA (2025). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -367,13 +367,13 @@ Do not use sildenafil tablets in patients who are using a GC stimulator, such as
 
 ---
 
-### Pharmacology and drug interaction effects of the phosphodiesterase 5 inhibitors: focus on α-blocker interactions [^5ddb03f7]. The American Journal of Cardiology (2005). Low credibility.
+### Pharmacology and drug interaction effects of the phosphodiesterase 5 inhibitors: focus on α-blocker interactions [^113Q9QyU]. The American Journal of Cardiology (2005). Low credibility.
 
 Currently, 3 phosphodiesterase 5 (PDE5) inhibitor agents are available worldwide for the treatment of erectile dysfunction (ED): sildenafil, vardenafil, and tadalafil. Each of these agents is effective across a broad range of etiologies, including vasculogenic ED in men. Because PDE5 enzyme is found within the vascular smooth muscle cells in the walls of systemic arteries and veins, PDE5 inhibitors are mild vasodilators associated with small (and in general, clinically insignificant) decreases in blood pressure. However, because of the synergistic decrease in blood pressure (both systolic and diastolic) in the presence of organic nitrates, these 3 agents are contraindicated in patients receiving organic nitrates. The duration of interaction between a PDE5 inhibitor and nitrate administration depends on the specific drug being studied. The interaction between sildenafil or vardenafil and nitroglycerin is no longer observed by 24 hours. A preliminary study with sildenafil and sublingual nitroglycerin suggested the interaction is no longer observable by 4 hours. The interaction between tadalafil and nitroglycerin has dissipated by 48 hours after tadalafil administration. This is consistent with the longer elimination half-life of the drug. When PDE5 inhibitors are administered to patients with hypertension who are taking most antihypertensive agents (eg, beta-blockers, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, calcium antagonists, diuretics), there are usually small additive decreases in blood pressure without a significant increase of adverse events. Some patients develop orthostatic hypotension when PDE5 inhibitors are used in conjunction with an alpha-blocker (typically for hypertension or for urologic conditions, such as benign prostatic hypertrophy). Precautions are necessary for all 3 of the PDE5 inhibitors regarding this potential interaction. Some studies suggest that the interaction is less relevant clinically if the patient has been undergoing long-term alpha-blocker therapy. Several analyses have suggested that PDE5 inhibitors do not increase myocardial infarction rates or death rates compared with placebo controls or expected rates from age-matched populations. In contrast, recent studies have shown that PDE5 inhibitors may have therapeutic potential for a host of cardiovascular diseases. In general, these agents, when used appropriately, are highly safe and effective.
 
 ---
 
-### Nitroglycerin (Nitrostat) [^08725f70]. FDA (2024). Medium credibility.
+### Nitroglycerin (Nitrostat) [^111DXKR9]. FDA (2024). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -393,7 +393,7 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 
 ---
 
-### Sildenafil citrate: a therapeutic update [^fa9fde7c]. Clinical Therapeutics (2001). Low credibility.
+### Sildenafil citrate: a therapeutic update [^117QZbxF]. Clinical Therapeutics (2001). Low credibility.
 
 Background
 
@@ -417,7 +417,7 @@ Sildenafil is an effective first-line therapy for erectile dysfunction in men. T
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^79e5bfad]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^1147ifxx]. FDA (2025). Medium credibility.
 
 5.6 Adverse Reactions with the Concomitant Use of Ritonavir
 
@@ -439,7 +439,7 @@ The use of sildenafil citrate offers no protection against sexually transmitted 
 
 ---
 
-### Nitroglycerin (Nitroglycerin lingual) [^aeb9d351]. FDA (2023). Medium credibility.
+### Nitroglycerin (Nitroglycerin lingual) [^115U3GCx]. FDA (2023). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -466,7 +466,7 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 
 ---
 
-### Sildenafil citrate (Viagra) [^75f6b75e]. FDA (2023). Medium credibility.
+### Sildenafil citrate (Viagra) [^1141tRPj]. FDA (2023). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -490,7 +490,7 @@ Physicians should discuss with patients the potential cardiac risk of sexual act
 
 ---
 
-### Sildenafil citrate [^90194736]. FDA (2025). Medium credibility.
+### Sildenafil citrate [^114gdi3F]. FDA (2025). Medium credibility.
 
 5.6 Adverse Reactions with the Concomitant Use of Ritonavir
 
@@ -512,13 +512,13 @@ The use of sildenafil offers no protection against sexually transmitted diseases
 
 ---
 
-### Novel phosphodiesterase type 5 inhibitors: assessing hemodynamic effects and safety parameters [^536e743e]. Clinical Cardiology (2004). Low credibility.
+### Novel phosphodiesterase type 5 inhibitors: assessing hemodynamic effects and safety parameters [^1138h5D7]. Clinical Cardiology (2004). Low credibility.
 
 The relaxing effect of the phosphodiesterase type 5 (PDE5) inhibitors on vascular smooth muscle has attracted much attention, especially in persons with cardiovascular disease. The results of early studies showed that sildenafil slightly reduces systolic and diastolic blood pressures and has no effect on heart rate, while being safe and well tolerated. Studies also indicate that sildenafil does not contribute to the development of myocardial infarction or ischemia. Similar benign effects on hemodynamics and cardiac events have also been demonstrated for tadalafil and vardenafil. None of the PDE5 inhibitors adversely affects total exercise time or time to ischemia during exercise testing in men with stable angina. It is key to avoid concomitant administration of nitrates with any of the PDE5 inhibitors, because this combination can cause increased vasodilation and a subsequent drop in blood pressure. Sildenafil has an alpha-blocker precaution; tadalafil is contraindicated with alpha blockers except for 0.4 mg tamsulosin; vardenafil is contraindicated with alpha blockers.
 
 ---
 
-### Nitroglycerin (Nitrolingual) [^45bdf21e]. FDA (2024). Medium credibility.
+### Nitroglycerin (Nitrolingual) [^112nPwtR]. FDA (2024). Medium credibility.
 
 7 DRUG INTERACTIONS
 
@@ -545,7 +545,7 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 
 ---
 
-### Sildenafil citrate [^4b03b27b]. FDA (2025). Medium credibility.
+### Sildenafil citrate [^112vDKAS]. FDA (2025). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -569,7 +569,7 @@ Do not use sildenafil tablets in patients who are using a GC stimulator, such as
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^f0e160bb]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^117A7jMC]. FDA (2025). Medium credibility.
 
 6 ADVERSE REACTIONS
 
@@ -589,7 +589,7 @@ The most common adverse reactions reported in clinical trials (≥ 2%) are heada
 
 ---
 
-### Drug-drug interactions in the management of patients with pulmonary arterial hypertension [^f71d6d0f]. Chest (2022). Medium credibility.
+### Drug-drug interactions in the management of patients with pulmonary arterial hypertension [^117KMpsY]. Chest (2022). Medium credibility.
 
 The NO Pathway: PDE5 Inhibitors and Riociguat
 
@@ -599,7 +599,7 @@ Considering these mechanisms of action, concomitant use of NO agents with medica
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^4f127c9a]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^1132EEQy]. FDA (2025). Medium credibility.
 
 2.1 Dosage Information
 
@@ -633,7 +633,7 @@ Consider a starting dose of 25 mg in patients > 65 years, patients with hepatic 
 
 ---
 
-### Nitroglycerin [^7c3d6817]. FDA (2025). Medium credibility.
+### Nitroglycerin [^114BC6Ez]. FDA (2025). Medium credibility.
 
 You should not take nitroglycerin sublingual tablets if you have the following conditions:
 
@@ -661,7 +661,7 @@ You are breastfeeding.
 
 ---
 
-### Avanafil [^7e5b69cc]. FDA (2024). Medium credibility.
+### Avanafil [^114EL9P9]. FDA (2024). Medium credibility.
 
  Effects of Avanafil on Blood Pressure When Administered with Nitrates
 
@@ -671,7 +671,7 @@ A trial was conducted to assess the degree of interaction between nitroglycerin 
 
 ---
 
-### Sildenafil citrate [^30bfe334]. FDA (2025). Medium credibility.
+### Sildenafil citrate [^112FGroD]. FDA (2025). Medium credibility.
 
 2.1 Dosage Information
 
@@ -705,7 +705,7 @@ Consider a starting dose of 25 mg in patients > 65 years, patients with hepatic 
 
 ---
 
-### Nitroglycerin (rectiv) [^cf8c2a0c]. FDA (2024). Medium credibility.
+### Nitroglycerin (rectiv) [^116JhWxK]. FDA (2024). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -732,7 +732,7 @@ RECTIV is contraindicated in patients who have shown hypersensitivity to it or t
 
 ---
 
-### Sildenafil powder, (sildenafil) [^ec7c2a16]. FDA (2024). Medium credibility.
+### Sildenafil powder, (sildenafil) [^1173bnRb]. FDA (2024). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -747,7 +747,7 @@ History of hypersensitivity reaction to sildenafil or any component of the oral 
 
 ---
 
-### Is the sildenafil product information adequate to facilitate informed therapeutic decisions? [^50ccfb9d]. The Annals of Pharmacotherapy (2001). Low credibility.
+### Is the sildenafil product information adequate to facilitate informed therapeutic decisions? [^1134nrw6]. The Annals of Pharmacotherapy (2001). Low credibility.
 
 Background
 
@@ -771,7 +771,7 @@ For physicians to practice optimal therapeutics, adequate, clinically relevant d
 
 ---
 
-### Erectile dysfunction and heart failure: the role of phosphodiesterase type 5 inhibitors [^86c1567b]. International Journal of Impotence Research (2009). Low credibility.
+### Erectile dysfunction and heart failure: the role of phosphodiesterase type 5 inhibitors [^114SnHHc]. International Journal of Impotence Research (2009). Low credibility.
 
 Safety of PDE-5 inhibitors in HF patients
 
@@ -781,13 +781,13 @@ Patients with HF are not exempt from the above adverse effects of PDE-5 inhibito
 
 ---
 
-### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^dc980dbe]. Circulation (2016). Medium credibility.
+### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^116e3MF3]. Circulation (2016). Medium credibility.
 
 Erectile dysfunction medications — phosphodiesterase type 5 inhibitors in HF: Prevalence of erectile dysfunction is high and nitrate interactions are contraindicated. At least 75% of men with HF reported erectile dysfunction, sildenafil, vardenafil, and tadalafil are selective cGMP-specific phosphodiesterase type 5 inhibitors, and these agents may increase the hypotensive effects of nitrates and are contraindicated with concomitant nitrates; similar caution applies with other phosphodiesterase inhibitors such as milrinone.
 
 ---
 
-### Sildenafil citrate (Viagra) [^46aed90c]. FDA (2023). Medium credibility.
+### Sildenafil citrate (Viagra) [^112ons39]. FDA (2023). Medium credibility.
 
 5.6 Adverse Reactions with the Concomitant Use of Ritonavir
 
@@ -809,7 +809,7 @@ The use of VIAGRA offers no protection against sexually transmitted diseases. Co
 
 ---
 
-### Time course of the interaction between tadalafil and nitrates [^bf99d9f9]. Journal of the American College of Cardiology (2003). Low credibility.
+### Time course of the interaction between tadalafil and nitrates [^115u4K6Q]. Journal of the American College of Cardiology (2003). Low credibility.
 
 Objectives
 
@@ -833,19 +833,19 @@ The hemodynamic interaction between tadalafil and sublingual nitroglycerin laste
 
 ---
 
-### Cardiovascular effects of tadalafil [^2c27641d]. The American Journal of Cardiology (2003). Low credibility.
+### Cardiovascular effects of tadalafil [^1128TgoN]. The American Journal of Cardiology (2003). Low credibility.
 
 To determine the effects of tadalafil on the cardiovascular system, safety assessments were performed on a database of > 4000 subjects who received tadalafil in > 60 clinical pharmacology, phase 2, phase 3, and open-label studies. In healthy subjects, tadalafil resulted in small changes in blood pressure, which are not believed to be clinically relevant. Daily administration of tadalafil 20 mg for 26 weeks in healthy male subjects or patients with mild erectile dysfunction resulted in blood pressure changes similar to those observed after placebo administration. In patients with coronary artery disease (CAD), tadalafil administration before nitrate administration resulted in small decreases in blood pressure. The resulting mean maximal change in standing systolic blood pressure (SBP) after coadministration of sublingual nitroglycerin in patients with chronic stable angina was -36 mm Hg for tadalafil 5 mg, -31 mm Hg for tadalafil 10 mg, and -28 mm Hg for placebo. In addition, a larger number of men had a standing SBP < 85 mm Hg after coadministration of sublingual nitroglycerin and tadalafil 5 mg (p < 0.001 vs placebo) or tadalafil 10 mg (p < 0.01 vs placebo) compared with coadministration with placebo. In patients with chronic stable angina taking doses of isosorbide mononitrate on a long-term basis, the mean maximal change in standing SBP was -23 mm Hg for placebo, -23 mm Hg for tadalafil 5 mg, and -26 mm Hg for tadalafil 10 mg. In a study of older subjects (≥ 55 years of age) with no overt evidence of CAD, the resulting mean maximal change in standing SBP after coadministration of sublingual nitroglycerin was -25 mm Hg for tadalafil 10 mg, -29 mm Hg for sildenafil 50 mg, and -25 mm Hg for placebo. Cardiac mortality rates in tadalafil studies are consistent with the expected rate in this male population. Across all studies, the incidence rate of myocardial infarction was low in tadalafil-treated patients (0.43 per 100 patient-years) compared with patients who received placebo (0.6 per 100 patient-years), and the incidence rate was comparable to that observed in the age-standardized male population (0.60 per 100 patient-years). The incidence rate of presumed thrombotic strokes in tadalafil studies (0.27 per 100 patient-years) is comparable to the expected rate in this patient population. The data presented herein suggest that tadalafil can be safely used by healthy subjects and by patients with cardiovascular diseases. As with sildenafil, the use of tadalafil is contraindicated in patients receiving nitrate therapy because of the potential for significant hypotensive effects.
 
 ---
 
-### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^b61e8236]. Circulation (2005). Medium credibility.
+### ACC / AHA 2005 guideline update for the diagnosis and management of chronic heart failure in the adult: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to update the 2001 guidelines for the evaluation and management of heart failure): developed in collaboration with the American College of Chest Physicians and the International Society for Heart and Lung Transplantation: endorsed by the Heart Rhythm Society [^115ezzeR]. Circulation (2005). Medium credibility.
 
 Heart failure — phosphodiesterase type 5 inhibitor (sildenafil) use is characterized by limited evidence in HF, potential hemodynamic benefits, short‑term tolerability, and a nitrate contraindication. Few patients with HF were enrolled in controlled trials with sildenafil, and thus, the efficacy and safety of this drug in patients with HF are not known, although patients with HF appear to tolerate short‑term administration of the drug without difficulty; however, sildenafil should not be given to patients taking nitrates, who may experience profound hypotension due to potentiation of vasodilator effects.
 
 ---
 
-### Sildenafil citrate (Viagra) [^281426c0]. FDA (2023). Medium credibility.
+### Sildenafil citrate (Viagra) [^1122RGrT]. FDA (2023). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -869,25 +869,25 @@ Do not use VIAGRA in patients who are using a GC stimulator, such as riociguat. 
 
 ---
 
-### The relationship between acute coronary syndrome and sildenafil [^b5067edd]. The American Journal of Emergency Medicine (2013). Low credibility.
+### The relationship between acute coronary syndrome and sildenafil [^115dNwYx]. The American Journal of Emergency Medicine (2013). Low credibility.
 
 Sildenafil is a drug used for male erectile dysfunction. Sildenafil's fatal cardiac effects except due to hypotension with simultaneous nitrate use have not been reported. We reported in this case a 70-year-old man admitted to the emergency service with chest pain, which occurs in an hour after sildenafil use. Electrocardiogram showed inferoposterior ST-segment elevation. In angiography, total circumflex artery occlusion has been seen.
 
 ---
 
-### Cardiac safety in clinical trials of phosphodiesterase 5 inhibitors [^f526a263]. The American Journal of Cardiology (2005). Low credibility.
+### Cardiac safety in clinical trials of phosphodiesterase 5 inhibitors [^117GSwhc]. The American Journal of Cardiology (2005). Low credibility.
 
 Phosphodiesterase type 5 (PDE5) inhibitors have revolutionized the treatment of erectile dysfunction (ED). Those safe and effective agents were originally developed for their cardiovascular effects and were incidentally found to enhance erections. Since the introduction of the first PDE5 inhibitor, sildenafil, in 1998, there has been concern about the effects of these agents on the heart and their safety in patients with cardiovascular disease. The concerns focused on the effects on blood pressure and heart rate, cardiac electrophysiology, and cardiovascular adverse events in clinical trials. Since there are currently three PDE5 inhibitors, attention has been given to class effects as well as unique individual safety and adverse events. Since these drugs are mild vasodilators, all three have blood pressure-lowering effects. These effects are usually mild and produce few symptoms. When combined with the nitric oxide donor nitroglycerine, however, blood pressure drops may be profound and life threatening. All three agents are contraindicated with nitrates. Cardiac electrophysiology effects, especially as manifested by changes in the QT interval, have been studied. None of the three agents are dangerously associated with QTc prolongation, although vardenafil has a warning for patients at risk for QTc prolongation. In evaluating cardiovascular adverse events in clinical trials, no signal to danger can be convincingly cited. Indeed, with the vasodilator effects of these drugs, many studies point to the improved exercise tolerance and coronary dilation in patients taking PDE5 inhibitors. PDE5 inhibitors are effective in treating ED, and their safety profile is excellent. There do not appear to be significant cardiovascular safety issues in the man with satisfactory cardiac and performance status.
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^5d67f49a]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113PUmRb]. Journal of the American College of Cardiology (2025). High credibility.
 
 Acute coronary syndromes — analgesic treatment options for cardiac chest pain include nitroglycerin sublingual (SL) 0.3 or 0.4 mg every 5 min as needed up to a total of 3 doses with use in hemodynamically stable patients with SBP ≥ 90 mm Hg; intravenous nitroglycerin: start at 10 µg/min and titrate to pain relief and hemodynamic tolerability, consider for persistent anginal pain and avoid use in suspected RV infarction, SBP < 90 mm Hg or a change in SBP > 30 mm Hg below baseline, with tachyphylaxis after approximately 24 h; morphine IV 2–4 mg may be repeated every 5–15 min with doses up to 10 mg considered; fentanyl IV 25–50 µg may be repeated with doses up to 100 µg considered; nitrates should not be administered after recent PDE5 inhibitor use, avoiding nitrates/nitroglycerin within 12 h of avanafil, 24 h of sildenafil/vardenafil, or 48 h of tadalafil; both morphine and fentanyl may delay the effects of oral P2Y12 therapy and warrant close monitoring for adverse effects.
 
 ---
 
-### Sildenafil citrate (Viagra) [^6ababbde]. FDA (2023). Medium credibility.
+### Sildenafil citrate (Viagra) [^113jEQjw]. FDA (2023). Medium credibility.
 
 2.1 Dosage Information
 
@@ -917,25 +917,25 @@ Consider a starting dose of 25 mg in patients treated with strong CYP3A4 inhibit
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1f3358b2]. Circulation (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111oFs3f]. Circulation (2025). High credibility.
 
 Analgesia for acute coronary syndromes (ACS) — nitroglycerin, morphine, fentanyl dosing and key precautions are specified as follows: sublingual nitroglycerin 0.3 or 0.4 mg every 5 min as needed up to a total of 3 doses; intravenous nitroglycerin start at 10 μg/min and titrate to pain relief and hemodynamic tolerability, with avoidance in suspected RV infarction, SBP < 90 mm Hg or a change in SBP > 30 mm Hg below baseline and awareness that tachyphylaxis may occur after approximately 24 h; morphine IV 2–4 mg with repeat every 5–15 min and doses up to 10 mg may be considered; fentanyl IV 25–50 μg with repeat if needed and doses up to 100 μg may be considered; nitrates should not be administered after recent phosphodiesterase-5 (PDE5) inhibitor use, avoiding nitrates/nitroglycerin within 12 h of avanafil, 24 h of sildenafil/vardenafil, or 48 h of tadalafil; concerns are raised that opiates may delay gastric and intestinal absorption and pharmacodynamic effects of orally administered P2Y12 inhibitors, and nonaspirin nonsteroidal anti-inflammatory drugs should be avoided for ischemia pain whenever possible and are associated with increased risk of major adverse cardiovascular events (MACE) in patients with and without prior cardiac disease, with no documented benefit to support routine use in patients with ACS.
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^28aed432]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^1123KEDP]. Academic Emergency Medicine (2012). Medium credibility.
 
 Tadalafil — classified as pulmonary artery hypertension therapy, PDE — 5 inhibitors; phosphodiesterase-5 enzyme inhibitor — has pharmacologic action in pulmonary arterial hypertension (PAH) of inhibiting PDE-5, increasing cyclic guanosine monophosphate (cGMP) to allow relaxation of pulmonary vascular smooth-muscle cells and vasodilation of pulmonary vasculature; it is indicated as an adjunct to descent in the management of high-altitude pulmonary edema (HAPE); contraindications include concomitant use of any form of organic nitrates (e.g., nitroglycerin, isosorbide dinitrate, isosorbide mononitrate, illicit "poppers"), either regularly or intermittently; may potentiate hypotensive effect of nitrates, and hypersensitivity including Stevens-Johnson syndrome and exfoliative dermatitis; WARNING: Hypotension may occur due to vasodilation.
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^35112edc]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^112Mg7gw]. Academic Emergency Medicine (2012). Medium credibility.
 
 Nitroglycerin — an anti-anginal nitrate — has pharmacologic action as an "Organic nitrate which causes systemic venodilation, decreasing preload", with additional effects that "reduce both preload and afterload, and myocardial O2 demand" and may "Lower BP, increase heart rate, occasional paradoxical bradycardia". Indications are "As an anti-anginal medication for the management of chest pain as well as a reducer of preload for patients suffering from acute pulmonary edema". Contraindications include "Hypersensitivity, acute myocardial infarction, severe anemia, recent use of erectile dysfunction medications (sildenafil (Viagra® — within last 24 hours), tadalafil (Cialis® — within last 48 hours), vardenafil (Levitra® — within last 48 hours), or other phosphodiesterase-5 inhibitors)", with a note of "narrow angle glaucoma (controversial: may not be clinically significant)". Nitrates are contraindicated in the presence of "hypotension (SBP less than 90 mmHg or ≥ 30 mmHg below baseline), extreme bradycardia (less than 50 BPM), tachycardia in the absence of heart failure (greater than 100 BPM), and right ventricular infarction".
 
 ---
 
-### Effect of sildenafil citrate on blood pressure and heart rate in men with erectile dysfunction taking concomitant antihypertensive medication. sildenafil study group [^f1b0a75b]. Journal of Hypertension (2000). Low credibility.
+### Effect of sildenafil citrate on blood pressure and heart rate in men with erectile dysfunction taking concomitant antihypertensive medication. sildenafil study group [^117BKMQe]. Journal of Hypertension (2000). Low credibility.
 
 Objectives
 
@@ -971,19 +971,19 @@ The acute, short-term effects of oral sildenafil on blood pressure and heart rat
 
 ---
 
-### Nitroglycerin (rectiv) [^3f45f85c]. FDA (2024). Medium credibility.
+### Nitroglycerin (rectiv) [^112coitB]. FDA (2024). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of nitroglycerin PR (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: dizziness.
 
 ---
 
-### Effect of sildenafil in patients with erectile dysfunction taking antihypertensive therapy. sildenafil study group [^25101c3a]. American Journal of Hypertension (2001). Low credibility.
+### Effect of sildenafil in patients with erectile dysfunction taking antihypertensive therapy. sildenafil study group [^111wwxHF]. American Journal of Hypertension (2001). Low credibility.
 
 Oral sildenafil is an effective treatment for erectile dysfunction (ED), which is a common complaint for patients with hypertension and those taking antihypertensive agents. This post hoc subanalysis assessed the efficacy and safety of sildenafil in men with ED who were receiving concomitant antihypertensive medication. Efficacy was assessed in 3414 men (1218 of whom were taking antihypertensive medication) who received sildenafil (5 to 200 mg) or placebo for 6 weeks to 6 months in 10 double-blind, placebo-controlled studies. The significant improvements in erectile function demonstrated by sildenafil-treated patients were comparable in patients taking and those not taking antihypertensive medication. Safety was assessed in 3975 men (1094 of whom were taking one or more antihypertensive agent, classified as a diuretic, beta-blocker, alpha1-blocker, angiotensin converting enzyme inhibitor, or calcium channel blocker), who received sildenafil or placebo in 18 double-blind, placebo-controlled studies. For patients taking sildenafil and antihypertensive medication, the incidence of treatment-related adverse events (34%) was similar to that for sildenafil-treated patients not taking any antihypertensive agent (38%). The incidences of the most common adverse events and of adverse events potentially related to blood pressure decreases (eg, hypotension, dizziness, and syncope) were similar in both sildenafil groups. The number of antihypertensive medications taken from among the five classes had no effect on the adverse event profile of sildenafil. Sildenafil is an effective and well-tolerated treatment for ED in patients taking concomitant antihypertensive medication, including those on multidrug regimens.
 
 ---
 
-### Is chronic inhibition of phosphodiesterase type 5 cardioprotective and safe? A meta-analysis of randomized controlled trials [^ef25c27a]. BMC Medicine (2014). Low credibility.
+### Is chronic inhibition of phosphodiesterase type 5 cardioprotective and safe? A meta-analysis of randomized controlled trials [^1177YiyF]. BMC Medicine (2014). Low credibility.
 
 Results
 
@@ -993,19 +993,19 @@ Figure 1 shows the literature search process in MEDLINE, EMBASE, Cochrane and SC
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^e1c65925]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116miqYQ]. Journal of the American College of Cardiology (2025). High credibility.
 
 Phosphodiesterase-5 inhibitors with antihypertensive medications — Phosphodiesterase-5 inhibitors are described as a safe and effective therapy for erectile dysfunction that can be administered with antihypertensive medications; caution should be exercised when sildenafil, tadalafil, vardenafil, and avanafil are coadministered with CYP3A4 inhibitors or ingested with grapefruit juice or alcohol, which may increase the risk of hypotension, and these drugs should not be taken with nitrates due to the risk of severe hypotension.
 
 ---
 
-### Male chronic pelvic pain: AUA guideline: part I evaluation and management approach [^453fd7cd]. The Journal of Urology (2025). High credibility.
+### Male chronic pelvic pain: AUA guideline: part I evaluation and management approach [^112mfbCx]. The Journal of Urology (2025). High credibility.
 
 Phosphodiesterase 5 inhibitors (PDE5-I) — tadalafil for chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is the most studied; an RCT and several uncontrolled studies showed improvement after daily use of 5 mg tadalafil. In a randomized trial, 140 young men (aged 45 or younger) with moderate to severe CP/CPPS and concomitant erectile dysfunction (ED) received either 5 mg daily tadalafil or placebo for 6 weeks; when compared to placebo, the tadalafil group was significantly better at 6 weeks for NIH-CPSI total, urinary, and QOL subscores, while post-treatment pain subscores did not differ significantly. Compared to baseline, 51% of the tadalafil group versus 5% of the placebo group reported ≥ 25% score reduction. Safety guidance states tadalafil should not be used concomitantly with nitrates; concomitant use of medications such as nonselective α-adrenergic antagonists and cytochrome P450 inhibitors should be assessed for possible drug interactions; and potential adverse events include back pain, dyspepsia, headache, and dizziness.
 
 ---
 
-### Sildenafil (Sildenafil citrate) [^8f8dd61b]. FDA (2025). Medium credibility.
+### Sildenafil (Sildenafil citrate) [^114fpsVc]. FDA (2025). Medium credibility.
 
 7.1 Nitrates
 
@@ -1027,13 +1027,13 @@ Co-administration of erythromycin, a moderate CYP3A4 inhibitor, resulted in a 16
 
 ---
 
-### Erectile dysfunction: AUA guideline [^c9baa505]. The Journal of Urology (2018). Medium credibility.
+### Erectile dysfunction: AUA guideline [^116A5Cmr]. The Journal of Urology (2018). Medium credibility.
 
 Phosphodiesterase type 5 inhibitor (PDE5i) safety and counseling — men taking nitrates regularly should not use PDE5i medications, and in men with mild to moderate hepatic or renal impairment or men with spinal cord injury, PDE5i should be used with caution at least initially at lower doses; in men with severe renal or liver disease, use of PDE5i is generally not recommended. Given that incorrect use of PDE5i accounts for a large percentage of treatment failures, men should be carefully instructed in appropriate use, including that sexual stimulation is necessary and that more than one trial may be required, and initial doses may be titrated up or down until the optimal dose is identified.
 
 ---
 
-### Sildenafil citrate [^d6c85db3]. FDA (2025). Medium credibility.
+### Sildenafil citrate [^116VReka]. FDA (2025). Medium credibility.
 
 7.1 Nitrates
 
@@ -1055,7 +1055,7 @@ Co-administration of erythromycin, a moderate CYP3A4 inhibitor, resulted in a 16
 
 ---
 
-### Sildenafil citrate (Viagra) [^bb531366]. FDA (2023). Medium credibility.
+### Sildenafil citrate (Viagra) [^115nib9P]. FDA (2023). Medium credibility.
 
 5.4 Hearing Loss
 
@@ -1082,31 +1082,31 @@ In a separate drug interaction study, when amlodipine, 5 mg or 10 mg, and VIAGRA
 
 ---
 
-### Pediatric pulmonary hypertension: guidelines from the American Heart Association and American Thoracic Society [^1d4dff5e]. Circulation (2015). Medium credibility.
+### Pediatric pulmonary hypertension: guidelines from the American Heart Association and American Thoracic Society [^111kSqgq]. Circulation (2015). Medium credibility.
 
 Sildenafil and adjunct vasodilators in perioperative pulmonary hypertension (PH) may reduce rebound after iNO withdrawal and enhance pulmonary vasodilation; oral sildenafil attenuates rebound PH after iNO withdrawal and shortens the time to extubation and intensive care, dipyridamole has also been used to attenuate rebound, and intravenous or orally administered sildenafil with inhaled iloprost, PGI1, nitroglycerine, or milrinone and intravenous PGI1 may enhance iNO-induced pulmonary vasodilation; short-term effects of inhaled PGI2, milrinone, and nitroglycerin may be as effective as iNO at lowering PVRI with minimal systemic effects; in a placebo-controlled trial, intravenous sildenafil reduced PAP and shortened extubation and intensive care unit stay without adverse events in children after cardiac surgery, but intravenous sildenafil can cause systemic hypotension and reduce oxygenation; compared with iNO, intravascular sildenafil has a greater vasodilator response but increased intrapulmonary shunt in postoperative patients; longer pretreatment courses around surgery have shown advantages, including that a randomized study of sildenafil therapy for 1 week before and after surgery favored pretreatment, and longer pretreatment decreased mPAP, time on cardiopulmonary bypass, and duration of intensive care unit and hospital days.
 
 ---
 
-### Nitroglycerin (rectiv) [^07266ba6]. FDA (2024). Medium credibility.
+### Nitroglycerin (rectiv) [^111BbpTw]. FDA (2024). Medium credibility.
 
 Uncommon adverse reactions (less than 1%) associated with the use of nitroglycerin PR (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: hypotension.
 
 ---
 
-### Sildenafil citrate (revatio) [^e5c13e71]. FDA (2023). Medium credibility.
+### Sildenafil citrate (revatio) [^116sd5EG]. FDA (2023). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of sildenafil citrate IV (also known as Viagra) include: atrial fibrillation, gastrointestinal bleeding, hypotension, myocardial infarction, non-arteritic anterior ischemic optic neuropathy, priapism, seizure and vaso-occlusive crisis.
 
 ---
 
-### Nitroglycerin (rectiv) [^fc6d3c79]. FDA (2024). Medium credibility.
+### Nitroglycerin (rectiv) [^117TEa7J]. FDA (2024). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of nitroglycerin PR (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: headache.
 
 ---
 
-### Cardiovascular effects of sildenafil during exercise in men with known or probable coronary artery disease: a randomized crossover trial [^478dcd1e]. JAMA (2002). Excellent credibility.
+### Cardiovascular effects of sildenafil during exercise in men with known or probable coronary artery disease: a randomized crossover trial [^112q5kX7]. JAMA (2002). Excellent credibility.
 
 Context
 
@@ -1138,13 +1138,13 @@ In men with stable CAD, sildenafil had no effect on symptoms, exercise duration,
 
 ---
 
-### An unusual adverse effect of sildenafil citrate: acute myocardial infarction in a nitrate-free patient [^62bcf9b1]. BMJ Case Reports (2012). Medium credibility.
+### An unusual adverse effect of sildenafil citrate: acute myocardial infarction in a nitrate-free patient [^113XPG9v]. BMJ Case Reports (2012). Medium credibility.
 
 Myocardial infarction (MI) associated with sildenafil citrate is seen rarely in patients without any history of coronary artery disease. We report a nitrate-free patient with a history of cardiovascular risk factors who developed acute MI after taking sildenafil. A 44-year-old man diagnosed with acute anterior ST segment elevation MI 120 min after self-administration of 150 mg sildenafil was admitted before attempting any sexual intercourse. The coronary angiography revealed 99% occlusion of the left anterior descending artery (LAD) and a bare-metal stent was implanted. He was discharged after 5 days without any complication. Sildenafil may cause coronary steal or may lead to vasodilation causing hypotension in patient with pre-existing cardiovascular disease, especially in patients on nitrate therapy. Our patient was nitrate free, with normal blood pressure values. Emotional stimulation associated with anticipated sexual activity may have been a triggering factor for vulnerable coronary plaque rupture.
 
 ---
 
-### Effect of sildenafil (revatio) on postcardiac surgery acute kidney injury: a randomised, placebo-controlled clinical trial: the REVAKI-2 trial protocol [^f7e6f9d1]. Open Heart (2018). Low credibility.
+### Effect of sildenafil (revatio) on postcardiac surgery acute kidney injury: a randomised, placebo-controlled clinical trial: the REVAKI-2 trial protocol [^117LXXNx]. Open Heart (2018). Low credibility.
 
 Intervention being investigated
 
@@ -1184,31 +1184,31 @@ Patients may receive medications and/or other therapies to treat adverse events 
 
 ---
 
-### Evaluation and management of right-sided heart failure: a scientific statement from the American Heart Association [^9358ff95]. Circulation (2018). Medium credibility.
+### Evaluation and management of right-sided heart failure: a scientific statement from the American Heart Association [^114mT5Fi]. Circulation (2018). Medium credibility.
 
 Phosphodiesterase-5 inhibitors (PDE5is) — oral agents including sildenafil and tadalafil are established, effective, and well-tolerated therapy in group 1 pulmonary hypertension (PH), improving exercise capacity and clinical events, though trials did not specifically select patients with RHF; smaller studies in heart failure with reduced ejection fraction (HFrEF) and secondary PH (group 2) showed improvements awaiting large-trial validation, a multicenter heart failure with preserved ejection fraction (HFpEF) trial failed to improve exercise capacity or clinical status, coadministration with nitrates is specifically contraindicated due to blood pressure effects, and their role in isolated RHF or RHF caused by left heart disease remains uncertain.
 
 ---
 
-### Nitroglycerin (Nitro-bid) [^a8466c50]. FDA (2025). Medium credibility.
+### Nitroglycerin (Nitro-bid) [^115JUaJB]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of nitroglycerin TOP (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: abdominal pain, angina pectoris, asthenia, dizziness, dyspnea, hypotension, nausea, orthostatic hypotension, paresthesia, peripheral edema, pharyngitis, rhinitis, syncope, vertigo and vomiting.
 
 ---
 
-### Sildenafil citrate (Viagra) [^9a63d4e1]. FDA (2017). Low credibility.
+### Sildenafil citrate (Viagra) [^114wtdGt]. FDA (2017). Low credibility.
 
 Unknown frequency adverse reactions associated with the use of sildenafil citrate PO (also known as Viagra) include: atrial fibrillation, gastrointestinal bleeding, hypotension, myocardial infarction, non-arteritic anterior ischemic optic neuropathy, priapism, seizure and vaso-occlusive crisis.
 
 ---
 
-### A case of erectile dysfunction and risk factors for coronary artery disease [^f963712d]. International Journal of Impotence Research (2005). Low credibility.
+### A case of erectile dysfunction and risk factors for coronary artery disease [^117NjKTa]. International Journal of Impotence Research (2005). Low credibility.
 
 The hypothetical case of a man with erectile dysfunction and multiple cardiovascular risk factors is presented to illustrate the use of the second Princeton Consensus Conference Guidelines. Methods to optimize efficacy of the phosphodiesterase inhibitors are described. The overall cardiovascular safety of the phosphodiesterase inhibitors and their interaction with organic nitrates and alpha blockers are discussed.
 
 ---
 
-### Tadalafil (N / a) [^29902616]. FDA (2024). Medium credibility.
+### Tadalafil (N / a) [^1124cuoK]. FDA (2024). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -1234,7 +1234,7 @@ Physicians should discuss with patients the potential for tadalafil tablets to a
 
 ---
 
-### Acute myocardial infarction after sildenafil citrate ingestion [^ccf9e6f8]. The Annals of Pharmacotherapy (2005). Low credibility.
+### Acute myocardial infarction after sildenafil citrate ingestion [^116EtQyd]. The Annals of Pharmacotherapy (2005). Low credibility.
 
 Objective
 
@@ -1254,7 +1254,7 @@ Sildenafil may rarely be associated with MI in patients with no known cardiac hi
 
 ---
 
-### Sildenafil citrate (sildenafil) [^bfeac9b6]. FDA (2024). Medium credibility.
+### Sildenafil citrate (sildenafil) [^115uXVs3]. FDA (2024). Medium credibility.
 
 17 PATIENT COUNSELLING INFORMATION
 
@@ -1281,13 +1281,13 @@ Revised: 01/2024
 
 ---
 
-### Sildenafil citrate (revatio) [^0f4bb7e2]. FDA (2023). Medium credibility.
+### Sildenafil citrate (revatio) [^111PgFLd]. FDA (2023). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of sildenafil citrate IV (also known as Viagra) include: back pain, diarrhea, dyspepsia, headache, limb pain, myalgia, peripheral edema, skin flushing and visual disturbances.
 
 ---
 
-### Erectile dysfunction in diabetes mellitus: a comprehensive narrative review of pathophysiology, genetic association studies and therapeutic approaches [^261e5b87]. Endocrinology, Diabetes & Metabolism (2025). Medium credibility.
+### Erectile dysfunction in diabetes mellitus: a comprehensive narrative review of pathophysiology, genetic association studies and therapeutic approaches [^111yWj82]. Endocrinology, Diabetes & Metabolism (2025). Medium credibility.
 
 TABLE 2
 Comparative overview of PDE5 inhibitors (PDE5Is) for erectile dysfunction.
@@ -1296,19 +1296,19 @@ PDE5Is are generally well‐tolerated for the treatment of ED; however, an absol
 
 ---
 
-### Role of the cardiologist: clinical aspects of managing erectile dysfunction [^4ef6b680]. Clinical Cardiology (2004). Low credibility.
+### Role of the cardiologist: clinical aspects of managing erectile dysfunction [^11324uLT]. Clinical Cardiology (2004). Low credibility.
 
 Erectile dysfunction (ED) is often a marker for serious underlying cardiovascular disease (CVD), and cardiologists are increasingly involved in the care of men with ED. It is important to ask specifically about ED when evaluating men with CVD, since they may be embarrassed to volunteer this information. During the clinical workup, it is also important to check for contributing factors to ED such as diabetes, depression, stress, alcohol abuse, and cardiovascular risk factors. Patients should be advised that many treatment options are available for ED, including the phosphodiesterase type 5 (PDE5) inhibitors. The PDE5 inhibitors are safe and effective in most patients with CVD, including those taking multiple antihypertensive drugs. Furthermore, they have no deleterious effect on exercise capacity, heart rate, or extent of exercise-induced ischemia. In the future, the PDE5 inhibitors may have a role in reducing pulmonary hypertension in persons with primary pulmonary arterial hypertension (PAH) or congestive heart failure. The one major precaution for men taking PDE5 inhibitors is to avoid concomitant administration of therapeutic and recreational nitrate preparations. Patients with chest pain suggestive of a heart attack need to inform emergency room (ER) personnel if they are taking a PDE5 inhibitor. Similarly, before giving nitrates, ER personnel need to ask patients if they have used PDE5 inhibitors. Nitrates should not be given for at least 24 h after a patient uses sildenafil or vardenafil and at least 48 h after a patient uses tadalafil.
 
 ---
 
-### Nitroglycerin [^b32d505e]. FDA (2021). Medium credibility.
+### Nitroglycerin [^115ae1EM]. FDA (2021). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of nitroglycerin IV (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: abdominal pain, angina pectoris, asthenia, dizziness, dyspnea, hypotension, nausea, orthostatic hypotension, paresthesia, peripheral edema, pharyngitis, rhinitis, syncope, vertigo and vomiting.
 
 ---
 
-### Sildenafil citrate (revatio) [^00ae0d6b]. FDA (2023). Medium credibility.
+### Sildenafil citrate (revatio) [^11121TpE]. FDA (2023). Medium credibility.
 
 Warnings and precautions regarding the use of sildenafil citrate IV (also known as Viagra):
 - **Cardiovascular events**: use caution in patients with a recent history of myocardial infarction, stroke, or life-threatening arrhythmia, resting hypotension, uncontrolled hypertension, HF, unstable angina, or LV outflow obstruction, such as aortic stenosis or idiopathic hypertrophic subaortic stenosis.
@@ -1320,7 +1320,7 @@ Warnings and precautions regarding the use of sildenafil citrate IV (also known 
 
 ---
 
-### Vericiguat in combination with short-acting nitroglycerin in patients with chronic coronary syndromes: the randomized, phase Ib, VENICE study [^26da5763]. Clinical Pharmacology and Therapeutics (2022). Medium credibility.
+### Vericiguat in combination with short-acting nitroglycerin in patients with chronic coronary syndromes: the randomized, phase Ib, VENICE study [^111zbsLn]. Clinical Pharmacology and Therapeutics (2022). Medium credibility.
 
 Additive hemodynamic effects resulting in hypotension have been demonstrated with concurrent administration of riociguat (another sGC stimulator) with nitrates or NO donors, as well as with PDE5 or nonspecific PDE inhibitors, and, thus, their combined use is contraindicated. It is not currently known why the combination of vericiguat with short‐acting nitrates does not result in similar hypotensive effects to those observed with riociguat. Use of both short‐acting and long‐acting nitrates in combination with PDE5 inhibitors, α‐adrenergic blockers, and calcium channel blockers should be avoided due to drug–drug interactions.
 
@@ -1332,13 +1332,13 @@ The limitations of this study primarily relate to the small size of the study po
 
 ---
 
-### General pharmacologic treatment of acute myocardial infarction [^48d7700d]. Emergency Medicine Clinics of North America (2001). Low credibility.
+### General pharmacologic treatment of acute myocardial infarction [^112rzUMa]. Emergency Medicine Clinics of North America (2001). Low credibility.
 
 The general pharmacotherapeutic issues surrounding AMI are complex and expanding, especially with regard to treatment aimed at the [table: see text] culprit, coronary atherosclerotic thrombus. Basic, well-established therapy includes the routine administration of oxygen, nitroglycerin, aspirin, and at times morphine, with selected cases invoking caution with respect to these agents (e.g., nitroglycerin and the risk of hypotension in right ventricular infarction; contraindication to nitrolycerin in patients on sildenafil). Cardioprotective agents, especially beta-adrenergic antagonists, should be considered early in light of their demonstrated benefit; others, such as ACE inhibitors, need not be administered in the ED. Heparin, both UFH and the newer LMWHs, have well-established roles in acute coronary syndromes. The GP IIb/IIIa inhibitors are the most recent addition to the pharmacologic armamentarium; their role is evolving rapidly as research on this frontier continues. Table 2 reviews recommended dosing of selected agents in acute coronary syndromes.
 
 ---
 
-### Erectile dysfunction and heart failure: the role of phosphodiesterase type 5 inhibitors [^a7571675]. International Journal of Impotence Research (2009). Low credibility.
+### Erectile dysfunction and heart failure: the role of phosphodiesterase type 5 inhibitors [^115H6Bfi]. International Journal of Impotence Research (2009). Low credibility.
 
 Summary
 
@@ -1346,13 +1346,13 @@ The PDE-5 inhibitors have revolutionized the treatment of ED; however their role
 
 ---
 
-### Sex and the patient with cardiovascular risk factors: focus on sildenafil [^2e4b733b]. The American Journal of Medicine (2000). Low credibility.
+### Sex and the patient with cardiovascular risk factors: focus on sildenafil [^112BdmrJ]. The American Journal of Medicine (2000). Low credibility.
 
 Erectile dysfunction (ED) is common in men with cardiovascular disease. The introduction of sildenafil citrate, the first oral agent for the treatment of this disorder, has increased awareness about the risks of sexual activity in cardiac patients and raised concerns about the safety of sildenafil in patients being treated for coronary disease. Sildenafil is a potent and selective inhibitor of phosphodiesterase type 5 (PDE5), the enzyme responsible for the degradation of cyclic guanosine monophosphate (cGMP). Sildenafil acts along the same general pathway as nitric oxide donors to increase cGMP levels and enhance erections. Sildenafil is a modest vasodilator that causes small decreases in systemic arterial pressure and mild preload and afterload reductions. It does not cause major decreases in blood pressure when administered with one or more standard antihypertensive agents. Because PDE5 is also present in small amounts in the systemic vasculature, sildenafil can cause a synergistic and major decrease in pressure when combined with organic nitrates. Use of organic nitrates is the only contraindication to sildenafil use. Data on sildenafil in patients with recent (less than 6 months) myocardial infarction (MI), unstable angina, stroke, and recent life-threatening arrhythmias are not available, so the drug should be used with caution in patients with unstable cardiac conditions. Placebo-controlled and open-label phase 2/3 trials including men with ischemic heart disease did not show an increase in MI or serious cardiovascular events in patients treated with sildenafil versus placebo. None of the serious cardiovascular events reported in these trials were considered treatment related by the investigators. There is a small but finite increased risk of developing ischemia or infarction with sexual activity. Therefore, before prescribing sildenafil or any current or future treatment for ED to patients with known cardiac disease or multiple cardiovascular risk factors, physicians should discuss the potential cardiac risk of sexual activity and perform a complete medical assessment, including an exercise stress test if appropriate.
 
 ---
 
-### Sildenafil powder, (sildenafil) [^0abbe0a5]. FDA (2024). Medium credibility.
+### Sildenafil powder, (sildenafil) [^111Guyy6]. FDA (2024). Medium credibility.
 
 PATIENT INFORMATION
 
@@ -1360,7 +1360,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 ---
 
-### Vericiguat in combination with short-acting nitroglycerin in patients with chronic coronary syndromes: the randomized, phase Ib, VENICE study [^53676caa]. Clinical Pharmacology and Therapeutics (2022). Medium credibility.
+### Vericiguat in combination with short-acting nitroglycerin in patients with chronic coronary syndromes: the randomized, phase Ib, VENICE study [^1138eiG9]. Clinical Pharmacology and Therapeutics (2022). Medium credibility.
 
 Study Highlights
 
@@ -1379,7 +1379,7 @@ HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?
 
 ---
 
-### Treatment of poor placentation and the prevention of associated adverse outcomes – what does the future hold? [^f114b423]. Prenatal Diagnosis (2014). Low credibility.
+### Treatment of poor placentation and the prevention of associated adverse outcomes – what does the future hold? [^117AQyFp]. Prenatal Diagnosis (2014). Low credibility.
 
 Nitric oxide donors
 
@@ -1391,25 +1391,25 @@ The phosphodiesterase-5 inhibitor sildenafil produces its vasodilatatory effects
 
 ---
 
-### Sildenafil citrate (Viagra) [^74127ec1]. FDA (2017). Low credibility.
+### Sildenafil citrate (Viagra) [^113y5n1E]. FDA (2017). Low credibility.
 
 Very common adverse reactions (over 10%) associated with the use of sildenafil citrate PO (also known as Viagra) include: back pain, diarrhea, dyspepsia, headache, limb pain, myalgia, peripheral edema, skin flushing and visual disturbances.
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^e17ec969]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116mJoQt]. Hypertension (2025). High credibility.
 
 PDE-5 inhibitors — use with antihypertensive medications notes that diesterase-5 inhibitors are a safe and effective therapy for erectile dysfunction and can be administered with antihypertensive medications. Caution should be exercised when sildenafil, tadalafil, vardenafil, and avanafil are coadministered with CYP3A4 inhibitors (such as diltiazem, verapamil) or ingested with grapefruit juice or alcohol, which may increase the risk of hypotension, and these drugs should not be taken with nitrates due to the risk of severe hypotension.
 
 ---
 
-### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^b927992e]. Obstetrics and Gynecology (2019). High credibility.
+### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^115jW1aD]. Obstetrics and Gynecology (2019). High credibility.
 
 Sildenafil citrate — use position and adverse effects in female interest/arousal disorders: "Sildenafil should not be used for the treatment of female interest/arousal disorders outside of clinical trials". Although evaluated, "Sildenafil citrate… has been evaluated but not FDA approved", and randomized trial results "have been contradictory". Reported adverse events include "headache, flushing, dyspepsia, nasal congestion, and transient visual disturbances", and some apparent benefits were from women with SSRI-related sexual dysfunction rather than female sexual interest/arousal disorder.
 
 ---
 
-### Nitroglycerin (Nitrostat) [^fa97b0d6]. FDA (2019). Medium credibility.
+### Nitroglycerin (Nitrostat) [^117QWrdK]. FDA (2019). Medium credibility.
 
 Warnings and precautions regarding the use of nitroglycerin SL (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual):
 - **Drug withdrawal syndrome**: maintain a high level of suspicion Maintain a high level of suspicion, as nitroglycerin may lead to tolerance and withdrawal symptoms, including increased angina, rebound hemodynamic effects, decreased exercise tolerance, acute myocardial infarction, and death.
@@ -1418,7 +1418,7 @@ Warnings and precautions regarding the use of nitroglycerin SL (also known as Ni
 
 ---
 
-### Diagnosis and treatment of autonomic failure, pain and sleep disturbances in Parkinson's disease: guideline "Parkinson's disease" of the German Society of Neurology [^73e24f79]. Journal of Neurology (2025). Medium credibility.
+### Diagnosis and treatment of autonomic failure, pain and sleep disturbances in Parkinson's disease: guideline "Parkinson's disease" of the German Society of Neurology [^113xobHr]. Journal of Neurology (2025). Medium credibility.
 
 How to treat nocturnal (supine) hypertension in PD?
 
@@ -1428,19 +1428,19 @@ Small-sized studies reported on the efficacy of bedtime administration of transd
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^8a59ab99]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^114Y7Qor]. Academic Emergency Medicine (2012). Medium credibility.
 
 Cardiovascular — ACS/STEMI prehospital nitroglycerin dosing and precautions: Nitroglycerin 0.4 mg sublingual (SL), can repeat q (quaque, every) 3–5 minutes if SBP greater than 100 mmHg. The use of nitrates should be avoided in any patient who has used a phosphodiesterase inhibitor within the past 48 hours; examples include sildenafil, vardenafil, tadalafil. Also avoid use in patients receiving intravenous epoprostenol (Flolan®) or treprostinil (Remodulin®) which is used for pulmonary hypertension. Care should always be taken when giving nitroglycerin when the patient's blood pressure is marginal. If used in this setting, the clinician should weigh the risk and benefit of nitrate administration over the administration of an opiate analgesic and be ready to respond to hypotension with fluid bolus or pressor. The location of the infarct does not preclude the use of nitrates, and right-sided leads are of no additional value if an inferior STEMI has been diagnosed; such findings do not preclude the use of nitroglycerin and clinicians should continually monitor hemodynamic status and be prepared to resuscitate if hypotension occurs.
 
 ---
 
-### Indirect comparison of interventions using published randomised trials: systematic review of PDE-5 inhibitors for erectile dysfunction [^628a6ec0]. BMC Urology (2005). Low credibility.
+### Indirect comparison of interventions using published randomised trials: systematic review of PDE-5 inhibitors for erectile dysfunction [^113X6HW7]. BMC Urology (2005). Low credibility.
 
 Details of the included studies are in additional files 1: conditions, country, treatment, dose, duration and quality score [see Additional file 1]; 2: efficacy outcomes, withdrawals, and adverse events (patients with any adverse event, and severe, serious and treatment-related adverse events) [see Additional file 2]; and 3: details of particular adverse events [see Additional file 3].
 
 ---
 
-### Microvascular complications in diabetic erectile dysfunction: do we need other alternatives? [^c3e77ca4]. Diabetes Care (2009). Low credibility.
+### Microvascular complications in diabetic erectile dysfunction: do we need other alternatives? [^1161SLgT]. Diabetes Care (2009). Low credibility.
 
 Safety
 
@@ -1452,13 +1452,13 @@ Recently, the U.S. Food and Drug Administration (FDA) alerted health providers a
 
 ---
 
-### Https://… [^11d3b8e5]. FDA (AccessData) (2025). Medium credibility.
+### Https://… [^111TRuUQ]. FDA (AccessData) (2025). Medium credibility.
 
 "Contraindications", "4. 1 PDE-5-Inhibitors and sGC-Stimulators", " _ _ < u > Do not use NITROSTAT in patients who are taking < /u > PDE-5 Inhibitors, < u > such as avanafil < /u >, sildenafil, tadalafil, vardenafil hydrochloride. < u > Concomitant use can cause severe < /u > hypotension, < u > syncope, or myocardial ischemia. < /u >. be accompanied by paradoxical bradycardia and increased angina pectoris. < u > Symptoms of severe hypotension may occur even with therapeutic doses. < /u > ", "021134", "NDA", "NITROSTAT", "NITROGLYCERIN", "10", "SUPPL ", "http: //www. accessdata. fda. gov/drugsatfda_docs/label/2018/021134s010lbl. pdf", "ApprovedDrugLabel"AdverseReactions", ", ". _ _ NITROSTATiscontraindicatedinpatientswhoareusingaselectiveinhibitorofcyclicguanosinemonophosphate-specificphosphodiesterasetype5. PDE-5-Inhibitorssuchas < u > avanafil, < /u > sildenafil, vardenafil, andtadalafilhavebeenshowntopotentiatethehypotensiveeffectsoforganicnitrates. NITROSTATiscontraindicatedinpatientswhoaretakingsolubleguanylatecyclasestimulators. < u > Concomitantusecancausehypotension. < /u >. _ _ < u > Nitroglycerinproducesdose-relatedheadaches, especiallyatthestartofnitroglycerintherapy, which < /u > maybesevereandpersist < u > butusuallysubsidewithcontinueduse. < /u > ", "021134", "NDA", "NITROSTAT", "NITROGLYCERIN", "10", "SUPPL", "http: //www. accessdata. fda. gov/drugsatfda_docs/label/2018/021134s010lbl. pdf", "ApprovedDrugLabel"Contraindications", ", ".
 
 ---
 
-### Sildenafil citrate (Viagra) [^4c2abfc0]. FDA (2017). Low credibility.
+### Sildenafil citrate (Viagra) [^112wvREf]. FDA (2017). Low credibility.
 
 Warnings and precautions regarding the use of sildenafil citrate PO (also known as Viagra):
 - **Cardiovascular events**: use caution in patients with a recent history of myocardial infarction, stroke, or life-threatening arrhythmia, resting hypotension, uncontrolled hypertension, HF, unstable angina, or LV outflow obstruction, such as aortic stenosis or idiopathic hypertrophic subaortic stenosis.
@@ -1471,13 +1471,13 @@ Warnings and precautions regarding the use of sildenafil citrate PO (also known 
 
 ---
 
-### Nitroglycerin (Nitro-dur) [^8892f3b4]. FDA (2023). Medium credibility.
+### Nitroglycerin (Nitro-dur) [^114VUgBV]. FDA (2023). Medium credibility.
 
 Uncommon adverse reactions (less than 1%) associated with the use of nitroglycerin TD (also known as Nitrostat, Nitro-BID, Nitro-DUR, Nitrolingual) include: angina pectoris, circulatory shock, hypertension and syncope.
 
 ---
 
-### Sildenafil citrate (sildenafil) [^cd952b47]. FDA (2024). Medium credibility.
+### Sildenafil citrate (sildenafil) [^116FnZpS]. FDA (2024). Medium credibility.
 
 6.2 Post-marketing Experience
 

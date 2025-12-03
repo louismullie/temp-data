@@ -15,29 +15,29 @@ Prophylactic Cranial Irradiation for Small-Cell Lung Cancer
 
 > Let's see… What do we have here? The user is asking about the role of prophylactic cranial irradiation (PCI) in small-cell lung cancer (SCLC), including its benefits, risks, dosing, and how modern imaging changes practice. Let's break this down step-by-step. First, I need to think about the disease context and why PCI was historically adopted. Then, I should verify the strength of evidence by stage, especially the classic meta-analyses and randomized trials. Next, I will examine how MRI-based staging and surveillance alter the risk–benefit balance, particularly in extensive-stage disease. After that, I need to check dosing, fractionation, and neurocognitive mitigation strategies. Finally, I will integrate current guideline positions and outline practical, patient-centered recommendations with shared decision-making considerations.
 
-> Let me first confirm the clinical context and rationale. SCLC has a uniquely high propensity for brain metastases, historically approaching 50–60% at 2 years, which underpins the logic of PCI to eradicate microscopic intracranial disease and potentially improve survival; this risk profile is substantially higher than many other solid tumors, justifying prophylaxis in responders to systemic therapy [^34c01856] [^29acfe8e].
+> Let me first confirm the clinical context and rationale. SCLC has a uniquely high propensity for brain metastases, historically approaching 50–60% at 2 years, which underpins the logic of PCI to eradicate microscopic intracranial disease and potentially improve survival; this risk profile is substantially higher than many other solid tumors, justifying prophylaxis in responders to systemic therapy [^112MCsy7] [^1124nbkq].
 
-> Next, I should review the highest-quality evidence for limited-stage SCLC. The Aupérin meta-analysis of randomized trials showed a 5.4% absolute improvement in 3-year overall survival with PCI (20.7% vs 15.3%) and a 54% reduction in brain metastases, establishing PCI as standard of care for LS-SCLC patients who respond to chemoradiation; this remains the backbone of current recommendations despite being derived from the pre-MRI era [^34a36aab] [^4da974b5].
+> Next, I should review the highest-quality evidence for limited-stage SCLC. The Aupérin meta-analysis of randomized trials showed a 5.4% absolute improvement in 3-year overall survival with PCI (20.7% vs 15.3%) and a 54% reduction in brain metastases, establishing PCI as standard of care for LS-SCLC patients who respond to chemoradiation; this remains the backbone of current recommendations despite being derived from the pre-MRI era [^112M3FGW] [^112z8xy2].
 
-> Hold on, let's not jump to conclusions for extensive-stage disease. Initially, I thought the EORTC 08993 trial proved a survival benefit in ES-SCLC, but wait, let me verify the details. The NEJM EORTC trial showed a marked reduction in symptomatic brain metastases and improved 1-year survival (27.1% vs 13.3%), yet it did not mandate pretreatment brain MRI, raising concerns that some benefit may reflect treatment of occult disease rather than true prophylaxis; this uncertainty is amplified by the Japanese phase 3 trial in MRI-staged patients, which found no OS benefit for PCI and even a trend favoring observation, prompting modern guidelines to endorse MRI surveillance as an acceptable alternative in ES-SCLC [^bd855689] [^e5a9da71] [^ee97a271] [^e23cdcc0].
+> Hold on, let's not jump to conclusions for extensive-stage disease. Initially, I thought the EORTC 08993 trial proved a survival benefit in ES-SCLC, but wait, let me verify the details. The NEJM EORTC trial showed a marked reduction in symptomatic brain metastases and improved 1-year survival (27.1% vs 13.3%), yet it did not mandate pretreatment brain MRI, raising concerns that some benefit may reflect treatment of occult disease rather than true prophylaxis; this uncertainty is amplified by the Japanese phase 3 trial in MRI-staged patients, which found no OS benefit for PCI and even a trend favoring observation, prompting modern guidelines to endorse MRI surveillance as an acceptable alternative in ES-SCLC [^115qyStx] [^116sVDYU] [^1176iz9e] [^116nQeP9].
 
-> I need to check how MRI changes the calculus in limited-stage disease as well. Contemporary retrospective cohorts using MRI restaging show that PCI still reduces brain metastases but fails to translate into a significant OS advantage, suggesting that in patients with confirmed MRI-negative brains after therapy, the survival benefit of PCI may be attenuated; this is hypothesis-generating and underscores the need for prospective trials like SWOG S1827/MAVERICK, but it does justify shared decision-making in select LS-SCLC patients, particularly older adults or those with baseline neurocognitive vulnerability [^6af03d82] [^51ba5e03] [^021d1081].
+> I need to check how MRI changes the calculus in limited-stage disease as well. Contemporary retrospective cohorts using MRI restaging show that PCI still reduces brain metastases but fails to translate into a significant OS advantage, suggesting that in patients with confirmed MRI-negative brains after therapy, the survival benefit of PCI may be attenuated; this is hypothesis-generating and underscores the need for prospective trials like SWOG S1827/MAVERICK, but it does justify shared decision-making in select LS-SCLC patients, particularly older adults or those with baseline neurocognitive vulnerability [^113jYP8V] [^1136AbZ4] [^11148jnY].
 
-> Let me consider dosing and fractionation carefully. Standard PCI dosing is 25 Gy in 10 fractions of 2.5 Gy, supported by randomized data; higher doses (e.g., 36 Gy) did not reduce brain metastases and were associated with worse survival in RTOG 0212, so dose escalation should be avoided. For ES-SCLC, 20 Gy in 5 fractions is an accepted alternative supported by randomized data, though neurocognitive effects of this hypofractionation are less well characterized [^396af76f] [^e23cdcc0].
+> Let me consider dosing and fractionation carefully. Standard PCI dosing is 25 Gy in 10 fractions of 2.5 Gy, supported by randomized data; higher doses (e.g., 36 Gy) did not reduce brain metastases and were associated with worse survival in RTOG 0212, so dose escalation should be avoided. For ES-SCLC, 20 Gy in 5 fractions is an accepted alternative supported by randomized data, though neurocognitive effects of this hypofractionation are less well characterized [^112U8DwU] [^116nQeP9].
 
-> I should confirm neurocognitive toxicity and mitigation strategies. Chronic neurocognitive decline occurs in a substantial proportion after PCI, with higher risk in older adults; hippocampal-avoidance PCI has shown improved delayed free recall at 3 months in a phase III trial, and NRG CC003 has completed accrual to further define cognitive outcomes, so HA-PCI is a reasonable strategy when PCI is chosen and expertise is available, ideally within clinical trials or experienced centers [^370c8664] [^99f2fdce].
+> I should confirm neurocognitive toxicity and mitigation strategies. Chronic neurocognitive decline occurs in a substantial proportion after PCI, with higher risk in older adults; hippocampal-avoidance PCI has shown improved delayed free recall at 3 months in a phase III trial, and NRG CC003 has completed accrual to further define cognitive outcomes, so HA-PCI is a reasonable strategy when PCI is chosen and expertise is available, ideally within clinical trials or experienced centers [^112QcXWK] [^114wEiyK].
 
-> Next, I should review guideline synthesis to ensure alignment. NCCN continues to recommend PCI for LS-SCLC responders given historical OS benefit, while acknowledging the MRI-era uncertainty and supporting MRI surveillance when PCI is omitted; ASTRO emphasizes MRI restaging, recommends PCI for stage II–III LS-SCLC in fit patients, advises against routine PCI in stage I disease, and supports shared decision-making for ES-SCLC between PCI and MRI surveillance; ESMO similarly recommends PCI for LS-SCLC responders but cites insufficient evidence for routine PCI in ES-SCLC, endorsing shared decision-making [^a2a31f0f] [^021d1081] [^382e3278] [^a2f0d9a4].
+> Next, I should review guideline synthesis to ensure alignment. NCCN continues to recommend PCI for LS-SCLC responders given historical OS benefit, while acknowledging the MRI-era uncertainty and supporting MRI surveillance when PCI is omitted; ASTRO emphasizes MRI restaging, recommends PCI for stage II–III LS-SCLC in fit patients, advises against routine PCI in stage I disease, and supports shared decision-making for ES-SCLC between PCI and MRI surveillance; ESMO similarly recommends PCI for LS-SCLC responders but cites insufficient evidence for routine PCI in ES-SCLC, endorsing shared decision-making [^115A7nWi] [^11148jnY] [^112SHpmu] [^115AZtnw].
 
-> But wait, what if the patient is stage I or has poor performance status or baseline cognitive impairment. I should double-check those exceptions. For pathologic stage I (T1–2a, N0) SCLC, the risk of brain metastases is lower and OS benefit from PCI is unproven, so guidelines favor MRI surveillance rather than routine PCI; in patients older than about 70, with ECOG 2, or with baseline neurocognitive deficits, the risk of neurotoxicity may outweigh benefit, so PCI should generally be avoided and surveillance considered, with decisions individualized via shared decision-making [^a2d38a0d] [^218f63c6] [^021d1081].
+> But wait, what if the patient is stage I or has poor performance status or baseline cognitive impairment. I should double-check those exceptions. For pathologic stage I (T1–2a, N0) SCLC, the risk of brain metastases is lower and OS benefit from PCI is unproven, so guidelines favor MRI surveillance rather than routine PCI; in patients older than about 70, with ECOG 2, or with baseline neurocognitive deficits, the risk of neurotoxicity may outweigh benefit, so PCI should generally be avoided and surveillance considered, with decisions individualized via shared decision-making [^115AQ3me] [^111rkkku] [^11148jnY].
 
-> I will now examine practical implementation details. MRI brain with contrast is the preferred modality for restaging before PCI decisions and for surveillance if PCI is omitted; if MRI is contraindicated, contrast-enhanced CT is an alternative, albeit with lower sensitivity. PCI should be delivered after recovery from acute toxicities of initial therapy, and patients should be counseled on potential neurocognitive effects, with consideration of HA-PCI when available and appropriate [^29acfe8e] [^4e7c9590] [^99f2fdce].
+> I will now examine practical implementation details. MRI brain with contrast is the preferred modality for restaging before PCI decisions and for surveillance if PCI is omitted; if MRI is contraindicated, contrast-enhanced CT is an alternative, albeit with lower sensitivity. PCI should be delivered after recovery from acute toxicities of initial therapy, and patients should be counseled on potential neurocognitive effects, with consideration of HA-PCI when available and appropriate [^1124nbkq] [^1131Mt5V] [^114wEiyK].
 
-> Let me reconsider the overarching message to ensure internal consistency. Historically, PCI improves survival in LS-SCLC and reduces brain metastases across stages, but in the MRI era, especially in ES-SCLC and possibly a subset of LS-SCLC with confirmed MRI-negative brains, the survival advantage is attenuated or absent, making MRI surveillance a legitimate alternative; therefore, decisions should be individualized by stage, response, age, performance status, baseline cognition, access to MRI surveillance, and patient preferences, with 25 Gy in 10 fractions remaining the standard dose when PCI is used [^34a36aab] [^e5a9da71] [^021d1081].
+> Let me reconsider the overarching message to ensure internal consistency. Historically, PCI improves survival in LS-SCLC and reduces brain metastases across stages, but in the MRI era, especially in ES-SCLC and possibly a subset of LS-SCLC with confirmed MRI-negative brains, the survival advantage is attenuated or absent, making MRI surveillance a legitimate alternative; therefore, decisions should be individualized by stage, response, age, performance status, baseline cognition, access to MRI surveillance, and patient preferences, with 25 Gy in 10 fractions remaining the standard dose when PCI is used [^112M3FGW] [^116sVDYU] [^11148jnY].
 
 ---
 
-Prophylactic cranial irradiation (PCI) is **standard of care** for limited-stage SCLC after response to chemoradiation [^382e3278], reducing brain metastases and improving survival [^34a36aab] [^4da974b5]. For extensive-stage SCLC, PCI reduces brain metastases [^bd855689] but **does not improve survival** in modern MRI-era trials [^e5a9da71], so MRI surveillance is a reasonable alternative [^e23cdcc0] [^a2f0d9a4]. PCI is not recommended for stage I SCLC [^6c18cd8d] or patients with poor performance status or cognitive impairment [^4e7c9590]. The standard regimen is 25 Gy in 10 fractions [^396af76f]; hippocampal avoidance may reduce neurocognitive toxicity [^370c8664] [^99f2fdce]. Shared decision-making is essential, balancing benefits and neurocognitive risks [^8feb7926] [^021d1081].
+Prophylactic cranial irradiation (PCI) is **standard of care** for limited-stage SCLC after response to chemoradiation [^112SHpmu], reducing brain metastases and improving survival [^112M3FGW] [^112z8xy2]. For extensive-stage SCLC, PCI reduces brain metastases [^115qyStx] but **does not improve survival** in modern MRI-era trials [^116sVDYU], so MRI surveillance is a reasonable alternative [^116nQeP9] [^115AZtnw]. PCI is not recommended for stage I SCLC [^113mFzdr] or patients with poor performance status or cognitive impairment [^1131Mt5V]. The standard regimen is 25 Gy in 10 fractions [^112U8DwU]; hippocampal avoidance may reduce neurocognitive toxicity [^112QcXWK] [^114wEiyK]. Shared decision-making is essential, balancing benefits and neurocognitive risks [^114gNKgq] [^11148jnY].
 
 ---
 
@@ -45,13 +45,13 @@ Prophylactic cranial irradiation (PCI) is **standard of care** for limited-stage
 
 ### Limited-stage SCLC
 
-In limited-stage SCLC, **historical evidence** shows PCI reduces brain metastases and improves survival [^34a36aab] [^4da974b5]. A meta-analysis of seven randomized trials showed a 5.4% absolute improvement in 3-year survival (20.7% vs 15.3%) and a 54% reduction in brain metastases [^34a36aab]. Contemporary data indicate that while PCI still reduces brain metastases, **MRI-era studies** show no significant overall survival benefit, prompting more selective use and shared decision-making [^6af03d82] [^021d1081].
+In limited-stage SCLC, **historical evidence** shows PCI reduces brain metastases and improves survival [^112M3FGW] [^112z8xy2]. A meta-analysis of seven randomized trials showed a 5.4% absolute improvement in 3-year survival (20.7% vs 15.3%) and a 54% reduction in brain metastases [^112M3FGW]. Contemporary data indicate that while PCI still reduces brain metastases, **MRI-era studies** show no significant overall survival benefit, prompting more selective use and shared decision-making [^113jYP8V] [^11148jnY].
 
 ---
 
 ### Extensive-stage SCLC
 
-In extensive-stage SCLC, **historical evidence** from a randomized trial showed PCI reduced symptomatic brain metastases and improved 1-year survival (27.1% vs 13.3%) [^bd855689]. However, **modern evidence** from a Japanese phase 3 trial with MRI staging found no survival benefit (median OS 11.6 vs 13.7 months), though brain metastases were reduced, supporting MRI surveillance as an alternative [^e5a9da71] [^e23cdcc0].
+In extensive-stage SCLC, **historical evidence** from a randomized trial showed PCI reduced symptomatic brain metastases and improved 1-year survival (27.1% vs 13.3%) [^115qyStx]. However, **modern evidence** from a Japanese phase 3 trial with MRI staging found no survival benefit (median OS 11.6 vs 13.7 months), though brain metastases were reduced, supporting MRI surveillance as an alternative [^116sVDYU] [^116nQeP9].
 
 ---
 
@@ -59,21 +59,21 @@ In extensive-stage SCLC, **historical evidence** from a randomized trial showed 
 
 | **Guideline** | **Limited-stage sclc** | **Extensive-stage sclc** |
 |-|-|-|
-| NCCN | Strongly recommends PCI for patients responding to chemoradiation, except stage I or poor performance status [^a2a31f0f] [^4e7c9590] | Recommends PCI or MRI surveillance after shared decision-making; PCI reduces brain metastases but survival benefit is uncertain [^ee97a271] [^e23cdcc0] |
-| ASTRO | Strongly recommends PCI for stage II–III, < 70 years, good performance status; consider hippocampal avoidance [^3596df7c] [^99f2fdce] | Recommends PCI or MRI surveillance; PCI reduces brain metastases but survival benefit is uncertain [^e23cdcc0] [^8feb7926] |
-| ESMO | Recommends PCI for stage III with good response; consider for performance status 2 [^382e3278] | Insufficient evidence; use shared decision-making [^a2f0d9a4] |
+| NCCN | Strongly recommends PCI for patients responding to chemoradiation, except stage I or poor performance status [^115A7nWi] [^1131Mt5V] | Recommends PCI or MRI surveillance after shared decision-making; PCI reduces brain metastases but survival benefit is uncertain [^1176iz9e] [^116nQeP9] |
+| ASTRO | Strongly recommends PCI for stage II–III, < 70 years, good performance status; consider hippocampal avoidance [^112NT2BM] [^114wEiyK] | Recommends PCI or MRI surveillance; PCI reduces brain metastases but survival benefit is uncertain [^116nQeP9] [^114gNKgq] |
+| ESMO | Recommends PCI for stage III with good response; consider for performance status 2 [^112SHpmu] | Insufficient evidence; use shared decision-making [^115AZtnw] |
 
 ---
 
 ## Patient selection criteria
 
-PCI is **recommended** for patients with limited-stage SCLC who respond to chemoradiation, except stage I or those with poor performance status or cognitive impairment [^a2a31f0f] [^4e7c9590]. For extensive-stage SCLC, PCI or MRI surveillance should be considered after shared decision-making, especially in fit patients with good response [^e23cdcc0] [^751278be].
+PCI is **recommended** for patients with limited-stage SCLC who respond to chemoradiation, except stage I or those with poor performance status or cognitive impairment [^115A7nWi] [^1131Mt5V]. For extensive-stage SCLC, PCI or MRI surveillance should be considered after shared decision-making, especially in fit patients with good response [^116nQeP9] [^113zZkq3].
 
 ---
 
 ## Dose and fractionation
 
-The **standard regimen** is 25 Gy in 10 fractions of 2.5 Gy [^396af76f]. Higher doses (e.g. 36 Gy) do not improve control and increase mortality [^396af76f]. Hypofractionation (20 Gy in 5 fractions) is acceptable in extensive-stage SCLC [^e23cdcc0].
+The **standard regimen** is 25 Gy in 10 fractions of 2.5 Gy [^112U8DwU]. Higher doses (e.g. 36 Gy) do not improve control and increase mortality [^112U8DwU]. Hypofractionation (20 Gy in 5 fractions) is acceptable in extensive-stage SCLC [^116nQeP9].
 
 ---
 
@@ -81,35 +81,35 @@ The **standard regimen** is 25 Gy in 10 fractions of 2.5 Gy [^396af76f]. Higher 
 
 ### Benefits
 
-PCI provides a **significant reduction in brain metastases** — by about 50% in limited-stage and 60% in extensive-stage disease [^34a36aab] [^bd855689]. In limited-stage SCLC, it improves 3-year survival by 5.4% [^34a36aab] [^7cf6df48].
+PCI provides a **significant reduction in brain metastases** — by about 50% in limited-stage and 60% in extensive-stage disease [^112M3FGW] [^115qyStx]. In limited-stage SCLC, it improves 3-year survival by 5.4% [^112M3FGW] [^114CGPQK].
 
 ---
 
 ### Risks
 
-PCI carries a **risk of neurocognitive decline**, including memory, attention, and executive dysfunction, with higher risk in older adults and at higher doses [^ed5d7f50] [^370c8664]. Acute toxicity includes fatigue, headache, and nausea, typically mild and self-limited [^396af76f].
+PCI carries a **risk of neurocognitive decline**, including memory, attention, and executive dysfunction, with higher risk in older adults and at higher doses [^1174uUGF] [^112QcXWK]. Acute toxicity includes fatigue, headache, and nausea, typically mild and self-limited [^112U8DwU].
 
 ---
 
 ## Alternative strategies
 
-MRI surveillance is a **reasonable alternative** in extensive-stage SCLC, with scheduled brain MRI to detect asymptomatic metastases early [^e5a9da71] [^e23cdcc0]. Hippocampal avoidance PCI may reduce neurocognitive toxicity without compromising control [^370c8664] [^99f2fdce].
+MRI surveillance is a **reasonable alternative** in extensive-stage SCLC, with scheduled brain MRI to detect asymptomatic metastases early [^116sVDYU] [^116nQeP9]. Hippocampal avoidance PCI may reduce neurocognitive toxicity without compromising control [^112QcXWK] [^114wEiyK].
 
 ---
 
 ## Ongoing research and future directions
 
-Ongoing trials such as SWOG S1827/MAVERICK are evaluating **PCI versus MRI surveillance** in both limited- and extensive-stage SCLC [^51ba5e03]. Efforts focus on identifying biomarkers or clinical features to personalize PCI use and minimize overtreatment [^notfound].
+Ongoing trials such as SWOG S1827/MAVERICK are evaluating **PCI versus MRI surveillance** in both limited- and extensive-stage SCLC [^1136AbZ4]. Efforts focus on identifying biomarkers or clinical features to personalize PCI use and minimize overtreatment [^notfound].
 
 ---
 
-PCI remains a **key modality** for limited-stage SCLC, with clear benefits in reducing brain metastases and improving survival [^34a36aab]. In extensive-stage SCLC, modern MRI-era data challenge survival benefits, making MRI surveillance a valid alternative [^e5a9da71]. Shared decision-making is essential, integrating patient preferences, performance status, and access to MRI [^8feb7926].
+PCI remains a **key modality** for limited-stage SCLC, with clear benefits in reducing brain metastases and improving survival [^112M3FGW]. In extensive-stage SCLC, modern MRI-era data challenge survival benefits, making MRI surveillance a valid alternative [^116sVDYU]. Shared decision-making is essential, integrating patient preferences, performance status, and access to MRI [^114gNKgq].
 
 ---
 
 ## References
 
-### Practice guideline on prophylactic cranial irradiation in small-cell lung cancer [^36559d77]. International Journal of Radiation Oncology, Biology, Physics (2001). Low credibility.
+### Practice guideline on prophylactic cranial irradiation in small-cell lung cancer [^112PZ68n]. International Journal of Radiation Oncology, Biology, Physics (2001). Low credibility.
 
 Purpose
 
@@ -129,13 +129,13 @@ For adult patients with limited or extensive SCLC who achieve a complete remissi
 
 ---
 
-### Is prophylactic cranial irradiation indicated for patients with extensive-stage small cell lung cancer with a complete response to first-line treatment? [^e9cb0925]. Radiotherapy and Oncology (2018). Low credibility.
+### Is prophylactic cranial irradiation indicated for patients with extensive-stage small cell lung cancer with a complete response to first-line treatment? [^116ycK7i]. Radiotherapy and Oncology (2018). Low credibility.
 
 Prophylactic cranial irradiation (PCI) has been considered standard of care for patients with limited-stage small-cell lung cancer who achieve complete response to definitive treatment after a meta-analysis revealed its favorable effects on survival. In a European trial, PCI was also shown to confer a survival advantage for patients with extensive-stage (ES) SCLC who experienced any positive response after initial chemotherapy, leading to PCI also being considered a standard treatment for these patients as well. However, a recent Japanese trial investigating PCI for patients with ES-SCLC was stopped early when an interim analysis failed to confirm a survival benefit. This finding has motivated the thoracic oncology community to rethink the role of PCI in ES-SCLC.
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^a84c9395]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^115JWeB6]. EClinicalMedicine (2024). Medium credibility.
 
 Background
 
@@ -159,7 +159,7 @@ No funding.
 
 ---
 
-### The role of prophylactic cranial irradiation in patients with extensive stage small cell lung cancer: a systematic review and meta-analysis [^862dab4b]. Journal of Thoracic Oncology (2018). Low credibility.
+### The role of prophylactic cranial irradiation in patients with extensive stage small cell lung cancer: a systematic review and meta-analysis [^114RvgUA]. Journal of Thoracic Oncology (2018). Low credibility.
 
 Introduction
 
@@ -179,7 +179,7 @@ Our findings suggest that PCI in patients with extensive stage small cell lung c
 
 ---
 
-### Surgery for limited-stage small-cell lung cancer [^cf2c8e3c]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Surgery for limited-stage small-cell lung cancer [^116J9QM9]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -211,7 +211,7 @@ Evidence from currently available RCTs does not support a role for surgical rese
 
 ---
 
-### Prophylactic cranial irradiation effect on survival in patients with small cell lung cancer: a comprehensive systematic review and meta-analysis [^3cdd7a8f]. Neurosurgical Focus (2023). Medium credibility.
+### Prophylactic cranial irradiation effect on survival in patients with small cell lung cancer: a comprehensive systematic review and meta-analysis [^112ZEefQ]. Neurosurgical Focus (2023). Medium credibility.
 
 Objective
 
@@ -231,7 +231,7 @@ PCI is an effective option for limited-stage SCLC patients. It improves OS and P
 
 ---
 
-### Prophylactic cranial irradiation in extensive small-cell lung cancer [^bd855689]. The New England Journal of Medicine (2007). Excellent credibility.
+### Prophylactic cranial irradiation in extensive small-cell lung cancer [^115qyStx]. The New England Journal of Medicine (2007). Excellent credibility.
 
 Background
 
@@ -251,7 +251,7 @@ Prophylactic cranial irradiation reduces the incidence of symptomatic brain meta
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^d9c51931]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^116ZrWwS]. EClinicalMedicine (2024). Medium credibility.
 
 Introduction
 
@@ -263,7 +263,7 @@ To assess the efficacy and safety of PCI in patients with limited or extensive s
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^12395b29]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^111U23Te]. EClinicalMedicine (2024). Medium credibility.
 
 Summary
 
@@ -289,13 +289,13 @@ No funding.
 
 ---
 
-### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^073d742b]. Chest (2013). Medium credibility.
+### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^111BjZBx]. Chest (2013). Medium credibility.
 
 Prophylactic cranial irradiation — treatment recommendation for small cell lung cancer: Based on the currently available evidence, it is recommended that patients with small cell lung cancer (SCLC) achieving a complete or partial response to initial therapy should be offered prophylactic cranial irradiation (PCI) because it significantly improves survival, and the current standard dose-fractionation pattern is 25 Gy/10 fractions.
 
 ---
 
-### Prophylactic cranial irradiation versus observation in patients with extensive-disease small-cell lung cancer: a multicentre, randomised, open-label, phase 3 trial [^e5a9da71]. The Lancet: Oncology (2017). Medium credibility.
+### Prophylactic cranial irradiation versus observation in patients with extensive-disease small-cell lung cancer: a multicentre, randomised, open-label, phase 3 trial [^116sVDYU]. The Lancet: Oncology (2017). Medium credibility.
 
 Background
 
@@ -319,13 +319,13 @@ The Ministry of Health, Labour and Welfare of Japan.
 
 ---
 
-### Executive summary: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^b918f55f]. Chest (2013). Medium credibility.
+### Executive summary: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^115jR6NA]. Chest (2013). Medium credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ACCP 2013 guidelines recommend to offer prophylactic cranial irradiation in patients with limited-stage SCLC achieving a complete or partial response to initial therapy.
 
 ---
 
-### A randomized trial of prophylactic cranial irradiation (PCI) versus no PCI in extensive disease small cell lung cancer after a response to chemotherapy (EORTC 08993–22993) [^b72bf2fa]. ASCO (2007). Low credibility.
+### A randomized trial of prophylactic cranial irradiation (PCI) versus no PCI in extensive disease small cell lung cancer after a response to chemotherapy (EORTC 08993–22993) [^115gZVmb]. ASCO (2007). Low credibility.
 
 Abstract 4 Background: Prophylactic cranial irradiation significantly reduces the risk of brain metastases and improves survival in patients with limited disease small cell lung cancer. Development of BM is often accompanied by deterioration of physical and psychological functioning and response to therapy is poor. Patients with extensive disease are at high risk for BM. This randomized study assesses PCI in patients with ED SCLC. Methods: Patients with confirmed ED SCLC and any response to 4–6 cycles of chemotherapy, were randomized to receive PCI or no PCI. The primary endpoint was the cumulative incidence of symptomatic BM. CT or MRI of the brain was performed whenever any of the pre-defined "key-symptoms" was present at baseline or during follow-up. The study was sized to detect a hazard ratio of 0. 44 with 80% power and 2-sided 5% significance.
 
@@ -337,38 +337,38 @@ No significant financial relationships to disclose.
 
 ---
 
-### Executive summary: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^f7529967]. Chest (2013). Medium credibility.
+### Executive summary: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^117Kfgmc]. Chest (2013). Medium credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of extensive-stage disease, prophylactic cranial irradiation, ACCP 2013 guidelines recommend to offer prophylactic cranial irradiation in patients with extensive-stage SCLC achieving a complete or partial response to initial therapy.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^a9cc6211]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^115LjZL4]. Practical Radiation Oncology (2020). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ASTRO 2020 guidelines recommend to ensure shared decision-making for prophylactic cranial irradiation (taking into account patient- and disease-specific characteristics) in patients with limited-stage SCLC having limited performance status, older age, and/or significant comorbidities.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^8feb7926]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^114gNKgq]. Practical Radiation Oncology (2020). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of extensive-stage disease, prophylactic cranial irradiation, ASTRO 2020 guidelines recommend to consult with a radiation oncologist to enhance shared decision-making regarding prophylactic cranial irradiation versus MRI surveillance (taking into account patient- and disease-specific characteristics) in patients with extensive-stage SCLC responding to chemotherapy.
 
 ---
 
-### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^a2f0d9a4]. Annals of Oncology (2021). High credibility.
+### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^115AZtnw]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of extensive-stage disease, prophylactic cranial irradiation, ESMO 2021 guidelines recommend to insufficient evidence to recommend prophylactic cranial irradiation in patients with extensive-stage SCLC. Consider offering treatment following a shared decision-making process.
 
 ---
 
-### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^382e3278]. Annals of Oncology (2021). High credibility.
+### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^112SHpmu]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ESMO 2021 guidelines recommend to offer prophylactic cranial irradiation with 25 Gy in 10 daily fractions in patients with stage III SCLC with a response after chemoradiotherapy and a performance status of 0–1.
 Consider offering prophylactic cranial irradiation in patients with a performance status of 2.
 
 ---
 
-### Management of small cell lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition) [^683272ba]. Chest (2007). Low credibility.
+### Management of small cell lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition) [^113fUf7o]. Chest (2007). Low credibility.
 
 Purposes
 
@@ -388,13 +388,13 @@ In this section, evidence-based guidelines for the staging and treatment of SCLC
 
 ---
 
-### Is prophylactic cranial irradiation (PCI) needed in patients with extensive-stage small cell lung cancer showing complete response to first-line chemotherapy? [^ef43cf92]. Radiotherapy and Oncology (2018). Low credibility.
+### Is prophylactic cranial irradiation (PCI) needed in patients with extensive-stage small cell lung cancer showing complete response to first-line chemotherapy? [^1177ipQy]. Radiotherapy and Oncology (2018). Low credibility.
 
 Throughout the entire world, prophylactic cranial irradiation (PCI) is the standard care for patients with small cell lung cancer (SCLC) in whom a favorable therapeutic effect is achieved after front-line treatment, regardless of whether the disease is in the limited stage or extensive stage. In the EORTC study, PCI was shown to confer a survival benefit for patients with extensive-stage small cell lung cancer (ES-SCLC) who experienced any positive response after initial chemotherapy. However, the Japan study failed to confirm a survival benefit. As a result, the guidelines in Japan recommend that PCI should not be carried out in cases of ES-SCLC. Complete response (CR) subset analysis in the Japan study suggested that PCI did not provide a survival benefit for patients with ES-SCLC. PCI with a risk of adverse events has poor significance, even if the patients show CR to chemotherapy.
 
 ---
 
-### The role of postoperative thoracic radiotherapy and prophylactic cranial irradiation in early stage small cell lung cancer: patient selection among ESTRO experts [^cf7e7fff]. Radiotherapy and Oncology (2020). Medium credibility.
+### The role of postoperative thoracic radiotherapy and prophylactic cranial irradiation in early stage small cell lung cancer: patient selection among ESTRO experts [^116Jcvke]. Radiotherapy and Oncology (2020). Medium credibility.
 
 Background
 
@@ -414,7 +414,7 @@ PCI and TRT are considered in patients with resected SCLC and these treatments s
 
 ---
 
-### Standard-dose versus higher-dose prophylactic cranial irradiation (PCI) in patients with limited-stage small-cell lung cancer in complete remission after chemotherapy and thoracic radiotherapy (PCI 99–01, EORTC 22003–08004, RTOG 0212, and IFCT 99–01): a randomised clinical trial [^396af76f]. The Lancet: Oncology (2009). Medium credibility.
+### Standard-dose versus higher-dose prophylactic cranial irradiation (PCI) in patients with limited-stage small-cell lung cancer in complete remission after chemotherapy and thoracic radiotherapy (PCI 99–01, EORTC 22003–08004, RTOG 0212, and IFCT 99–01): a randomised clinical trial [^112U8DwU]. The Lancet: Oncology (2009). Medium credibility.
 
 Background
 
@@ -438,13 +438,13 @@ Institut Gustave-Roussy, Association pour la Recherche sur le Cancer (2001), Pro
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active MRI surveillance for small cell lung cancer: the case for equipoise [^4111b877]. Journal of Thoracic Oncology (2017). Low credibility.
+### Prophylactic cranial irradiation (PCI) versus active MRI surveillance for small cell lung cancer: the case for equipoise [^112fU9YS]. Journal of Thoracic Oncology (2017). Low credibility.
 
 Prophylactic cranial irradiation (PCI) for SCLC offers a consistent reduction in the incidence of brain metastases at the cost of measurable toxicity to neurocognitive function and quality of life, in the setting of characteristic pathologic changes to the brain. The sequelae of PCI have historically been justified by the perception of an overall survival advantage specific to SCLC. This rationale has now been challenged by a randomized trial in extensive-stage SCLC demonstrating equivalent progression-free survival and a trend toward improved overall survival with PCI omission in the context of modern magnetic resonance imaging (MRI) staging and surveillance. In this article, we critically examine the randomized trials of PCI in extensive-stage SCLC and discuss their implications on the historical data supporting PCI for limited-stage SCLC from the pre-MRI era. Further, we review the toxicity of moderate doses of radiation to the entire brain that underlie the growing interest in active MRI surveillance and PCI omission. Finally, the evidence supporting prospective investigation of radiosurgery for limited brain metastases in SCLC is reviewed. Overall, our aim is to provide an evidence-based assessment of the debate over PCI versus active MRI surveillance and to highlight the need for contemporary trials evaluating optimal central nervous system management in SCLC.
 
 ---
 
-### Prophylactic cranial irradiation after definitive chemoradiotherapy for limited-stage small cell lung cancer: Do all patients benefit? [^c4423680]. Radiotherapy and Oncology (2017). Low credibility.
+### Prophylactic cranial irradiation after definitive chemoradiotherapy for limited-stage small cell lung cancer: Do all patients benefit? [^1161xpAb]. Radiotherapy and Oncology (2017). Low credibility.
 
 Purpose
 
@@ -464,7 +464,7 @@ PCI remains standard therapy after complete response to chemoradiotherapy for LS
 
 ---
 
-### Limited-stage small cell lung cancer: is prophylactic cranial irradiation necessary? [^09f8fc30]. Practical Radiation Oncology (2019). Medium credibility.
+### Limited-stage small cell lung cancer: is prophylactic cranial irradiation necessary? [^111FnXA7]. Practical Radiation Oncology (2019). Medium credibility.
 
 Purpose
 
@@ -484,7 +484,7 @@ Overall, PCI was associated with improved PFS and reduced early incidence of bra
 
 ---
 
-### Randomized phase II study comparing prophylactic cranial irradiation alone to prophylactic cranial irradiation and consolidative extracranial irradiation for extensive-disease small cell lung cancer (ED SCLC): NRG oncology RTOG 0937 [^6475b2a6]. Journal of Thoracic Oncology (2017). Low credibility.
+### Randomized phase II study comparing prophylactic cranial irradiation alone to prophylactic cranial irradiation and consolidative extracranial irradiation for extensive-disease small cell lung cancer (ED SCLC): NRG oncology RTOG 0937 [^113ZwJ7w]. Journal of Thoracic Oncology (2017). Low credibility.
 
 Introduction
 
@@ -504,7 +504,7 @@ OS exceeded predictions for both arms. cRT delayed progression but did not impro
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^6af03d82]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^113jYP8V]. Respiratory Research (2022). Medium credibility.
 
 Background
 
@@ -524,19 +524,19 @@ Overall, PCI reduces the risk for BM but does not substantially prolong OS compa
 
 ---
 
-### Role of prophylactic cranial irradiation in extensive-stage small cell lung cancer [^7a0cadfb]. Journal of the National Comprehensive Cancer Network (2021). Medium credibility.
+### Role of prophylactic cranial irradiation in extensive-stage small cell lung cancer [^1147wkQA]. Journal of the National Comprehensive Cancer Network (2021). Medium credibility.
 
 Patients with small cell lung cancer (SCLC) are at significant risk of developing brain metastases during their disease course. Prophylactic cranial irradiation (PCI) has been incorporated into SCLC treatment guidelines to diminish the risk of developing brain metastases. In 2007, a randomized trial suggested that PCI decreases the incidence of brain metastases and prolongs overall survival (OS) in patients with extensive-stage SCLC (ES-SCLC) who have responded to initial therapy. However, this study did not include modern central nervous system imaging with CT or MRI prior to randomization. A more recent Japanese trial with MRI staging and surveillance demonstrated that PCI diminished the incidence of brain metastases but did not improve survival. This review examines the largest clinical studies, controversies, and future directions of PCI in patients with ES-SCLC.
 
 ---
 
-### Prophylactic cranial irradiation for patients with lung cancer [^1009693e]. The Lancet: Oncology (2016). Medium credibility.
+### Prophylactic cranial irradiation for patients with lung cancer [^111QmxrR]. The Lancet: Oncology (2016). Medium credibility.
 
 The incidence of brain metastases in patients with lung cancer has increased as a result of improved local and systemic control and better diagnosis from advances in brain imaging. Because brain metastases are responsible for life-threatening symptoms and serious impairment of quality of life, resulting in shortened survival, prophylactic cranial irradiation has been proposed in both small-cell lung cancer (SCLC) and non-small-cell lung cancer (NSCLC) to try to improve incidence of brain metastasis, survival, and eventually quality of life. Findings from randomised controlled trials and a meta-analysis have shown that prophylactic cranial irradiation not only reduces the incidence of brain metastases in patients with SCLC and with non-metastatic NSCLC, but also improves overall survival in patients with SCLC who respond to first-line treatment. Although prophylactic cranial irradiation is potentially associated with neurocognitive decline, this risk needs to be balanced against the potential benefit in terms of brain metastases incidence and survival. Several strategies to reduce neurotoxicity are being investigated.
 
 ---
 
-### Prophylactic cranial irradiation for preventing brain metastases in patients undergoing radical treatment for non-small cell lung cancer [^0ae41088]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
+### Prophylactic cranial irradiation for preventing brain metastases in patients undergoing radical treatment for non-small cell lung cancer [^111H9Ush]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
 
 Background
 
@@ -568,7 +568,7 @@ There is insufficient evidence to support the use of PCI in clinical practice. W
 
 ---
 
-### Prophylactic cranial irradiation for preventing brain metastases in patients undergoing radical treatment for non-small-cell lung cancer: a cochrane review [^438d3e11]. International Journal of Radiation Oncology, Biology, Physics (2005). Low credibility.
+### Prophylactic cranial irradiation for preventing brain metastases in patients undergoing radical treatment for non-small-cell lung cancer: a cochrane review [^112j9cWL]. International Journal of Radiation Oncology, Biology, Physics (2005). Low credibility.
 
 Purpose
 
@@ -588,13 +588,13 @@ Prophylactic cranial irradiation may reduce the incidence of brain metastases, b
 
 ---
 
-### Multidisciplinary management of small cell lung cancer [^f80d522f]. Surgical Oncology Clinics of North America (2013). Low credibility.
+### Multidisciplinary management of small cell lung cancer [^117LkQQN]. Surgical Oncology Clinics of North America (2013). Low credibility.
 
 The standard treatment of limited-stage small cell lung cancer (SCLC) is concurrent cisplatin and etoposide with thoracic radiation therapy, whereas treatment of extensive-stage disease is typically chemotherapy alone with a platinum compound plus etoposide. Surgical resection of early disease is generally reserved for patients with small, node-negative disease. Prophylactic cranial irradiation reduces the development of brain metastases and prolongs survival in patients with both limited-stage and extensive-stage disease who have responded to chemotherapy. Further understanding of the molecular underpinnings of SCLC is necessary to develop better treatment options and improve outcomes for patients.
 
 ---
 
-### Evolving practice patterns in the use of prophylactic cranial irradiation for extensive-stage small cell lung cancer [^e97cc351]. JAMA Network Open (2019). High credibility.
+### Evolving practice patterns in the use of prophylactic cranial irradiation for extensive-stage small cell lung cancer [^116yA2Et]. JAMA Network Open (2019). High credibility.
 
 Introduction
 
@@ -602,7 +602,7 @@ The recent phase 3 trial by Takahashi et alshowed no overall survival benefit wi
 
 ---
 
-### Factors influencing the utilization of prophylactic cranial irradiation in patients with limited-stage small cell lung cancer [^37360e1c]. Advances in Radiation Oncology (2017). Low credibility.
+### Factors influencing the utilization of prophylactic cranial irradiation in patients with limited-stage small cell lung cancer [^112QrUaX]. Advances in Radiation Oncology (2017). Low credibility.
 
 Introduction
 
@@ -614,7 +614,7 @@ PCI is associated with chronic neurocognitive deficits in attention, memory, and
 
 ---
 
-### Clinical outcome in patients with early-stage small cell lung cancer treated with surgery or radiation in the absence of prophylactic cranial irradiation: a single-center retrospective study [^71b06c82]. Advances in Radiation Oncology (2023). Medium credibility.
+### Clinical outcome in patients with early-stage small cell lung cancer treated with surgery or radiation in the absence of prophylactic cranial irradiation: a single-center retrospective study [^113uYrrm]. Advances in Radiation Oncology (2023). Medium credibility.
 
 Conclusion
 
@@ -622,7 +622,7 @@ PCI has been frequently used to avert brain metastasis in patients who have SCLC
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^2b4fe8dd]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^1127DJtC]. EClinicalMedicine (2024). Medium credibility.
 
 This systematic review and meta-analysis has several limitations. First, the majority of studies included were retrospective observational studies with poor study quality and limited reporting on patient eligibility for PCI, leading to confounding and selection bias. However, sensitive search criteria including retrospective studies allowed for description and analysis of real-world practices and comprehensive subgroup analysis. Second, only one randomised controlled trial was available reporting on outcomes on patients who were restaged using magnetic resonance imaging, limiting our ability to rely on this highest level of evidence. The remaining studies included in this subgroup analysis were retrospective cohort studies with an overall "good" Newcastle Ottawa Score, the highest one possible. We eagerly await the results of ongoing trials that investigate the use of PCI versus routine surveillance in patients who were confirmed to have no brain metastases using magnetic resonance imaging (MAVERICK, NCT04155034; PRIMALung, NCT04790253). Third, there was significant in-between study heterogeneity in terms of study design, inclusion criteria, follow-up, and treatment schedules. Despite extensive subgroup analysis, we were unable to identify a statistical source for this heterogeneity, an expected finding given the large number of included studies, which makes it unlikely to identify a single causal variable. Fourth, neurotoxicity and quality of life, key outcomes that inform patient-physician discussion of administration of PCI, were underreported. Given that PCI in patients with SCLC with imaging evidence confirming absence of brain metastases following first-line therapy was associated with a reduction in brain metastases but no survival advantage, the issue of neurotoxic sequelae, which has prompted the field otherwise toward stereotactic radiosurgery rather than whole brain radiation therapy, is in critical need of reassessment in prospective studies. Last, PCI was assessed only in subgroup or multivariable analysis in many studies, leading to disparate confounders included in multivariable models. In consideration of this concern, we performed a sensitivity analysis of only adjusted and unadjusted hazard ratios and found no change in overall hazard ratio.
 
@@ -630,7 +630,7 @@ In summary, in patients with SCLC, PCI was associated with improved overall surv
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^b858bbb1]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^115iJXWp]. EClinicalMedicine (2024). Medium credibility.
 
 Study outcomes
 
@@ -644,7 +644,7 @@ Where summary survival estimates were not reported, Kaplan–Meier curves were d
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^3fd3b069]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^112ddKnp]. EClinicalMedicine (2024). Medium credibility.
 
 Nearly 25% of patients with SCLC present with synchronous brain metastases and a large proportion of patients may further develop brain metastases between diagnosis and completion of first-line therapy with the majority of patients remaining asymptomatic from their intracranial progression. Conversely, more than half of patients with SCLC will not have intracranial disease following completion of first-line therapy. In this context, one reasonable alternative to treatment with PCI is active surveillance imaging to limit unnecessary exposure to cranial radiation and the attendant risk of neurotoxicity. Previous cost-benefit analyses have demonstrated no cost benefit to the use of PCI compared with magnetic resonance imaging surveillance in extensive disease SCLC. To this effect, the American Society for Radiation Oncology (ASTRO) guidelines and the Canadian Consensus recommendations suggest magnetic resonance surveillance as an alternative in patients with extensive disease SCLC. Although prospective data in limited disease SCLC are inconclusive, the benefit of this approach could be longstanding, as patients with SCLC found to have brain metastases on surveillance imaging may be treated with stereotactic radiosurgery instead of whole brain irradiation, thus further improving quality of life in these patients without compromising survival outcomes.
 
@@ -652,13 +652,13 @@ At the same time, access to magnetic resonance imaging technology is not uniform
 
 ---
 
-### Evolving practice patterns in the use of prophylactic cranial irradiation for extensive-stage small cell lung cancer [^363f4f27]. JAMA Network Open (2019). High credibility.
+### Evolving practice patterns in the use of prophylactic cranial irradiation for extensive-stage small cell lung cancer [^112PRbae]. JAMA Network Open (2019). High credibility.
 
 This survey study compares use of prophylactic cranial irradiation in patients with extensive-stage small cell lung cancer before and after the publication of a phase 3 trial that demonstrated no overall survival benefit for this therapy.
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^2889871b]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^11236hXg]. Respiratory Research (2022). Medium credibility.
 
 Fig. 2
 Cumulative incidence of BM (with death as competing risk). PCI prophylactic cranial irradiation
@@ -667,25 +667,25 @@ The lower incidence of BM in the PCI cohort did not translate to a substantial e
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^9a4ef3d5]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^114wmcWx]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Small cell lung cancer cranial management — The benefits of prophylactic cranial irradiation (PCI) are unclear in patients with stage I SCLC (T1–2a, N0, M0) who have received definitive therapy, and the NCCN Panel recommends that magnetic resonance imaging (MRI) brain surveillance be considered for all patients with limited-stage SCLC who do not receive PCI.
 
 ---
 
-### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^d73b0b48]. Chest (2013). Medium credibility.
+### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^116W6Ars]. Chest (2013). Medium credibility.
 
 Prophylactic cranial irradiation — randomized evidence in extensive-stage SCLC: In a trial where patients with ES-SCLC were randomly assigned to undergo PCI or to receive no further therapy, the two groups (each with 143 patients) were balanced; the cumulative 1-year risk of brain metastases was 14.6% with PCI vs 40.4% control (hazard ratio 0.27; P < .001), median overall survival increased from 5.4 to 6.7 months, 1-year survival was 27.1% with PCI vs 13.3% control (P = 0.003), and PCI had side effects but no clinically significant effect on global health status, demonstrating reduced symptomatic brain metastases and prolonged overall survival.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^6f684ba1]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^113rAf7v]. Practical Radiation Oncology (2020). High credibility.
 
 Prophylactic cranial irradiation (PCI) in limited-stage small cell lung cancer (LS-SCLC) shows substantial brain metastasis (BM) risk without PCI after negative restaging magnetic resonance imaging (MRI) and remains generally standard care; however, in stage I disease the risk–benefit favors avoidance and shared decision-making, and dosing should use 2500 cGy with avoidance of higher-dose regimens due to neurotoxicity. Studies after MRI following chemoradiation show BM development in 37% to 41% of patients managed without PCI, and "the literature suggests that PCI remains the standard of care for most patients with LS-SCLC who respond to upfront chemoradiation". For stage I disease, "the risk for BM development in stage I disease is relatively low and OS benefit associated with PCI has not been established", and "this population should not be routinely treated with PCI, and the risk–benefit ratio of PCI should be discussed with the individual patient in the context of shared decision-making". The guideline states, "The recommended regimen of 2500 cGy in 10 fractions of 250 cGy for patients with LS-SCLC who undergo PCI is supported by randomized data", with "No significant reduction in the 2-year incidence of BMs… with higher doses", and "Given the increased mortality in the higher dose arm, 2500 cGy is recommended as the standard of care in LS-SCLC", as RTOG 0212 "(2500 cGy vs 3600 cGy) demonstrated a significant increase in the occurrence of chronic neurotoxicity in the higher dose cohort".
 
 ---
 
-### Decision analysis for prophylactic cranial irradiation for patients with small-cell lung cancer [^cc464afc]. Journal of Clinical Oncology (2006). Low credibility.
+### Decision analysis for prophylactic cranial irradiation for patients with small-cell lung cancer [^116Dr5uV]. Journal of Clinical Oncology (2006). Low credibility.
 
 Purpose
 
@@ -705,85 +705,85 @@ The current data suggest PCI offers better QALE than no PCI in LD-SCLC patients 
 
 ---
 
-### Small-cell lung cancer: a review of clinical trials [^d0433096]. Seminars in Thoracic and Cardiovascular Surgery (2003). Low credibility.
+### Small-cell lung cancer: a review of clinical trials [^116KkzaZ]. Seminars in Thoracic and Cardiovascular Surgery (2003). Low credibility.
 
 Small-cell lung cancer (SCLC) is expected to account for 25% of the approximate 170,000 cases of lung cancer diagnosed in the United States in 2002. Although sensitive and responsive to chemotherapy, SCLC has an increased propensity for early metastases, with relapses being common and long-term survival rates being poor. Clinical trials have played a vital role in expanding our knowledge base for this disease and have resulted in newer modalities, including chemotherapeutic agents, prophylactic cranial irradiation, and thoracic radiotherapy designed to improve overall outcomes. Clinical trials have also served to clarify the role of surgery in a disease that traditionally has been thought to be nonoperable. This review will focus on the results of clinical trials that have had an effect on the treatments of patients with limited and extensive-stage SCLC, with recommendations from the National Comprehensive Cancer Network being emphasized.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^ee97a271]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^1176iz9e]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to offer prophylactic cranial irradiation in patients with extensive stage small cell lung cancer that has responded to systemic therapy, as it decreases brain metastases. Recognize that a randomized trial by the European Organisation for Research and Treatment of Cancer found improved overall survival with prophylactic cranial irradiation, while a Japanese randomized trial found no improvement in overall survival in patients without brain metastases on baseline MRI. Obtain surveillance imaging for brain metastases in all patients regardless of prophylactic cranial irradiation status.
 
 ---
 
-### EANO-ESMO clinical practice guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours [^76164c2f]. Annals of Oncology (2021). High credibility.
+### EANO-ESMO clinical practice guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours [^114252eS]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, EANO/ESMO 2021 guidelines recommend to offer prophylactic cranial irradiation in patients with limited-stage SCLC with complete response to chemoradiotherapy.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^3596df7c]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^112NT2BM]. Practical Radiation Oncology (2020). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ASTRO 2020 guidelines recommend to offer prophylactic cranial irradiation in < 70 years old patients with stage II-III limited-stage SCLC with good performance status (ECOG 0–2) responding to thoracic chemoradiation.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^b9a82c98]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^115kFCS3]. Practical Radiation Oncology (2020). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ASTRO 2020 guidelines recommend to obtain brain MRI for restaging to guide decision-making regarding prophylactic cranial irradiation in patients with SCLC responding to initial therapy.
 
 ---
 
-### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^377699d0]. Annals of Oncology (2021). High credibility.
+### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^112REA2j]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ESMO 2021 guidelines recommend to obtain an in-depth analysis looking for other treatable causes in case of severe neurocognitive deterioration after prophylactic cranial irradiation.
 
 ---
 
-### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^218f63c6]. Annals of Oncology (2021). High credibility.
+### Small-cell lung cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^111rkkku]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ESMO 2021 guidelines recommend to insufficient evidence to recommend prophylactic cranial irradiation in patients with stage I-II SCLC, patients aged > 70 years, and frail patients. Obtain shared decision-making in such cases.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^7a223f2a]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^11484zZX]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding medical management for small cell lung cancer - NCCN, more specifically with respect to management of limited-stage disease (primary treatment, surgical resection), NCCN 2021 guidelines recommend to recognize that the benefit of prophylactic cranial irradiation is unclear in patients who have undergone definitive therapy for pathologic stage I (T1-2a, N0, M0).
 
 ---
 
-### EANO-ESMO clinical practice guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours [^6cdd9810]. Annals of Oncology (2021). High credibility.
+### EANO-ESMO clinical practice guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours [^113nQ6SB]. Annals of Oncology (2021). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of extensive-stage disease, prophylactic cranial irradiation, EANO/ESMO 2021 guidelines recommend to offer prophylactic cranial irradiation in patients with extensive-stage SCLC with complete response to chemoradiotherapy.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^6c18cd8d]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^113mFzdr]. Practical Radiation Oncology (2020). High credibility.
 
 Regarding medical management for small cell lung cancer, more specifically with respect to management of limited-stage disease, prophylactic cranial irradiation, ASTRO 2020 guidelines recommend to avoid offering prophylactic cranial irradiation in patients with stage I SCLC.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^f7e9ded0]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^117LYVmZ]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding medical management for small cell lung cancer - NCCN, more specifically with respect to management of limited-stage disease (adjuvant therapy), NCCN 2021 guidelines recommend to recognize that the benefit of prophylactic cranial irradiation is unclear in patients who have undergone definitive therapy for pathologic stage I (T1-2a, N0, M0) small cell lung cancer.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^4e7c9590]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^1131Mt5V]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to administer prophylactic cranial irradiation after the resolution of acute toxicities of initial therapy. Avoid prophylactic cranial irradiation in patients with poor performance status or impaired neurocognitive functioning.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^a2d38a0d]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^115AQ3me]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to consider avoiding prophylactic cranial irradiation in patients who have undergone definitive therapy for very early limited stage small cell lung cancer, specifically pathologic stage I-IIA (T1-2, N0, M0), due to their lower risk of developing brain metastases. Obtain brain MRI surveillance in patients not receiving prophylactic cranial irradiation. Consider offering prophylactic cranial irradiation in patients found to have pathologic stage IIB or III small cell lung cancer after complete resection. Recognize that this issue is being evaluated in the ongoing National Cancer Institute cooperative group trial SWOG S1827/MAVERICK.
 
 ---
 
-### Evidence for management of small cell lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition) [^5865ed0f]. Chest (2007). Low credibility.
+### Evidence for management of small cell lung cancer: ACCP evidence-based clinical practice guidelines (2nd edition) [^113G49Ui]. Chest (2007). Low credibility.
 
 Purposes
 
@@ -803,7 +803,7 @@ PCI improves survival among those with a complete remission to primary therapy. 
 
 ---
 
-### Treatment of small-cell lung cancer: American Society of Clinical Oncology endorsement of the American College of Chest Physicians guideline [^4af80d09]. Journal of Clinical Oncology (2015). Low credibility.
+### Treatment of small-cell lung cancer: American Society of Clinical Oncology endorsement of the American College of Chest Physicians guideline [^112v9QGx]. Journal of Clinical Oncology (2015). Low credibility.
 
 Purpose
 
@@ -823,7 +823,7 @@ Surgery is indicated for selected stage I SCLC. Limited-stage disease should be 
 
 ---
 
-### Prophylactic cranial irradiation in stage IV small cell lung cancer: selection of patients amongst European IASLC and ESTRO experts [^751278be]. Radiotherapy and Oncology (2019). Medium credibility.
+### Prophylactic cranial irradiation in stage IV small cell lung cancer: selection of patients amongst European IASLC and ESTRO experts [^113zZkq3]. Radiotherapy and Oncology (2019). Medium credibility.
 
 Background
 
@@ -843,7 +843,7 @@ European radiation and medical oncologists specializing in lung cancer recommend
 
 ---
 
-### Patterns of failure after prophylactic cranial irradiation in small-cell lung cancer: analysis of 505 randomized patients [^ef827d30]. Annals of Oncology (2002). Low credibility.
+### Patterns of failure after prophylactic cranial irradiation in small-cell lung cancer: analysis of 505 randomized patients [^11785sV1]. Annals of Oncology (2002). Low credibility.
 
 Background
 
@@ -863,7 +863,7 @@ PCI decreased significantly the risk of brain metastasis. Other events were not 
 
 ---
 
-### Prophylactic cranial irradiation vs observation in patients with locally advanced non-small cell lung cancer: a long-term update of the NRG oncology / RTOG 0214 phase 3 randomized clinical trial [^cce51c3f]. JAMA Oncology (2019). High credibility.
+### Prophylactic cranial irradiation vs observation in patients with locally advanced non-small cell lung cancer: a long-term update of the NRG oncology / RTOG 0214 phase 3 randomized clinical trial [^116EmRvE]. JAMA Oncology (2019). High credibility.
 
 Importance
 
@@ -899,7 +899,7 @@ ClinicalTrials.gov identifier: NCT00048997.
 
 ---
 
-### Prophylactic cranial irradiation in extensive stage small cell lung cancer: outcomes at a comprehensive cancer centre [^2953919f]. International Journal of Radiation Oncology, Biology, Physics (2018). Low credibility.
+### Prophylactic cranial irradiation in extensive stage small cell lung cancer: outcomes at a comprehensive cancer centre [^1124GZcA]. International Journal of Radiation Oncology, Biology, Physics (2018). Low credibility.
 
 Purpose
 
@@ -919,7 +919,7 @@ PCI in the setting of at least a partial response to chemotherapy was found to h
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^60578e2e]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^113TqDmf]. EClinicalMedicine (2024). Medium credibility.
 
 A major shortcoming of most prior studies on PCI in patients with SCLC has been the dearth of radiographic screening for brain metastases after completion of chemotherapy, without which it is impossible to discern if radiation is therapeutic or preventive,: of 109 reports that investigated associations between PCI and overall survival, as reflected in our subgroup analysis only nine ensured that all patients had no brain metastases after initial therapy, which is historically when PCI is delivered. Additionally, of 95 studies that reported survival outcomes and were not amenable to meta-analysis, only five excluded patients with radiographic evidence for brain metastases. The present analysis is the first to include all available published evidence on the use of PCI in SCLC, raising the concern that survival estimates following PCI in patients with SCLC might be inflated by inclusion of patients with asymptomatic intracranial disease.
 
@@ -927,7 +927,7 @@ In the present study, the incidence of brain metastases was lower in patients wh
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^a20cf090]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^1159FLjq]. EClinicalMedicine (2024). Medium credibility.
 
 Results
 
@@ -941,7 +941,7 @@ Out of 201 studies that reported overall survival, more than half (n = 109 studi
 
 ---
 
-### Clinical outcome in patients with early-stage small cell lung cancer treated with surgery or radiation in the absence of prophylactic cranial irradiation: a single-center retrospective study [^f7b5bb08]. Advances in Radiation Oncology (2023). Medium credibility.
+### Clinical outcome in patients with early-stage small cell lung cancer treated with surgery or radiation in the absence of prophylactic cranial irradiation: a single-center retrospective study [^117LEz1D]. Advances in Radiation Oncology (2023). Medium credibility.
 
 Introduction
 
@@ -955,7 +955,7 @@ Although one might assume that improved treatments for central nervous system di
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^4ac1591b]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^112uq2aW]. Respiratory Research (2022). Medium credibility.
 
 Conclusions
 
@@ -963,7 +963,7 @@ In summary, this cohort analysis indicated that PCI led to a consistent reductio
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^34c01856]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^112MCsy7]. Respiratory Research (2022). Medium credibility.
 
 Background
 
@@ -971,7 +971,7 @@ Prophylactic cranial irradiation (PCI) remains the standard recommendation for L
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^abe47c40]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^115PqdSf]. Respiratory Research (2022). Medium credibility.
 
 Discussion
 
@@ -979,37 +979,37 @@ This is the largest multicentre, retrospective cohort study, to our knowledge, t
 
 ---
 
-### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^c4002092]. Chest (2013). Medium credibility.
+### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^1161aciM]. Chest (2013). Medium credibility.
 
 Prophylactic cranial irradiation — dose and fractionation comparison in limited-stage SCLC: In an international phase 3 randomized trial of 720 patients with LS-SCLC in complete remission after chemotherapy and thoracic radiation, patients were assigned to standard PCI dose (n = 360, 25 Gy in 10 daily fractions of 2.5 Gy) or higher total dose (n = 360, 36 Gy) delivered as 18 daily fractions of 2 Gy or as 24 fractions in 19 days with two daily sessions of 1.5 Gy; the primary end point was the incidence of brain metastases at 2 years, with no significant difference at 2 years (29% vs 23%; P = 0.18), 2-year overall survival of 42% vs 37% (P = 0.05), common acute toxic events including fatigue 30% vs 34%, headache 24% vs 28%, and nausea or vomiting 23% vs 28%, and a nonsignificant reduction in total brain metastases but a significant increase in mortality after higher-dose PCI.
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^021d1081]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^11148jnY]. Practical Radiation Oncology (2020). High credibility.
 
 ASTRO guideline — Prophylactic cranial irradiation (PCI) recommendations and dose-fractionation in small cell lung cancer (SCLC) are as follows: For SCLC responding to initial therapy, restaging with brain magnetic resonance imaging (MRI) to guide PCI decision-making is recommended. For stage I SCLC, PCI is conditionally not recommended, and in lieu of PCI, surveillance using brain MRI with contrast can serve as an alternative. For stage II-III limited-stage SCLC (LS-SCLC) who are less than 70 years of age with good performance status (Eastern Cooperative Oncology Group [ECOG] 0–2) and respond to thoracic chemoradiation, PCI is recommended. For LS-SCLC with limited performance status, older age, and/or significant comorbidities, shared decision-making on PCI (considering patient- and disease-specific characteristics) is recommended. For LS-SCLC receiving PCI, 2500 cGy in 10 fractions is recommended. For extensive-stage SCLC (ES-SCLC) who respond to chemotherapy, consultation with a radiation oncologist to enhance shared decision-making on PCI versus MRI surveillance (considering patient- and disease-specific characteristics) is recommended. For ES-SCLC who elect PCI, 2500 cGy in 10 fractions or 2000 cGy in 5 fractions is recommended.
 
 ---
 
-### Prophylactic cranial irradiation for patients with SCLC – A new perspective in the immunotherapy era [^d2cc5696]. Journal of Thoracic Oncology (2025). Medium credibility.
+### Prophylactic cranial irradiation for patients with SCLC – A new perspective in the immunotherapy era [^116PX31X]. Journal of Thoracic Oncology (2025). Medium credibility.
 
 Prophylactic cranial irradiation (PCI) has long been used for SCLC to reduce the risk of brain metastases and potentially improve overall survival. Nevertheless, recent immunotherapy trials have provided limited data on its impact, as few patients were treated with PCI. The ADRIATIC trial reported improved outcomes with consolidation immunotherapy in limited-stage SCLC, and PCI was a stratification factor. Notably, patients receiving PCI in both arms had better outcomes than those who did not. Ongoing studies, such as EORTC-1901 PRIMALung (NCT04790253) and SWOG 1827-MAVERICK (NCT04155034), are further investigating PCI's role in the era of immunotherapy, highlighting its potential importance in evolving treatment strategies.
 
 ---
 
-### The role of radiation therapy in small cell lung cancer [^5db21d58]. Current Oncology Reports (2013). Low credibility.
+### The role of radiation therapy in small cell lung cancer [^113PugAK]. Current Oncology Reports (2013). Low credibility.
 
 Radiotherapy (RT) is fundamental to the care of patients diagnosed with small-cell lung cancer (SCLC). In the setting of limited stage disease (LS-SCLC), the addition of thoracic RT to chemotherapy (CHT) improves survival and local control, as demonstrated in decades-worth of randomized clinical trials and subsequent meta-analyses. In extensive stage disease (ES-SCLC), thoracic RT is invaluable in the palliation of chest symptoms but there are suggestions that its use in selected patients may potentially improve overall survival. Prophylactic cranial irradiation (PCI) also improves outcomes in SCLC. For LS-SCLC patients, it reduces brain metastases rates by half and improves overall survival with minimal impact on quality-of-life. Recently, favorable results for PCI with respect to survival and prevention of symptomatic brain disease have been observed for ES-SCLC patients with any response to CHT. Current phase III trials in SCLC RT include studies looking at the optimal dose and target for limited disease and the role of thoracic RT in extensive disease.
 
 ---
 
-### The role of radiotherapy in lung cancer: where is the evidence? [^9197a21b]. Radiotherapy and Oncology (2007). Low credibility.
+### The role of radiotherapy in lung cancer: where is the evidence? [^114ir8v6]. Radiotherapy and Oncology (2007). Low credibility.
 
 Radiotherapy is one of the main treatment modalities in lung cancer, contributing to both its cure and palliation. Thoracic irradiation has traditionally been considered the mainstay of treatment in inoperable stage III non-small cell lung cancer. However, despite technical developments and the addition of chemotherapy, the curative potential of radiotherapy in this subset of patients is disappointingly poor. The role of radiotherapy as an adjunct to pulmonary resection (preoperative and postoperative) is questionable, but well-designed and executed phase III studies are lacking. An important application of radiotherapy is palliation of tumor-related symptoms in the chest and in metastatic sites, such as bones and brain. In small cell lung cancer, routine applications of radiotherapy include chest radiotherapy in limited disease and prophylactic cranial irradiation in complete responders to chemotherapy, each increasing survival by about 5%.
 
 ---
 
-### Multidisciplinary patient-centered management of brain metastases and future directions [^f77e8c61]. Neuro-Oncology Advances (2020). Medium credibility.
+### Multidisciplinary patient-centered management of brain metastases and future directions [^117KvSy6]. Neuro-Oncology Advances (2020). Medium credibility.
 
 Prophylactic Cranial Irradiation
 
@@ -1021,13 +1021,13 @@ Future studies utilizing PCI may provide additional benefit as there is a clear 
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^51ba5e03]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^1136AbZ4]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to recognize that an ongoing randomized trial, SWOG S1827/MAVERICK, is evaluating whether brain MRI surveillance alone is non-inferior to MRI surveillance plus prophylactic cranial irradiation regarding overall survival for limited stage small cell lung cancer and extensive stage small cell lung cancer.
 
 ---
 
-### Randomized phase III trial of prophylactic cranial irradiation with or without hippocampal avoidance for small-cell lung cancer (PREMER): a GICOR-GOECP-SEOR study… [^370c8664]. ASCO (2021). Medium credibility.
+### Randomized phase III trial of prophylactic cranial irradiation with or without hippocampal avoidance for small-cell lung cancer (PREMER): a GICOR-GOECP-SEOR study… [^112QcXWK]. ASCO (2021). Medium credibility.
 
 Abstract Purpose Methods Results P = 0. 003). Analysis of all FCSRT scores showed a decline on the total recall at 3 months; DFR, TR, and total free recall at 6 months, and TR at 24 months. The incidence of brain metastases, OS, and QoL were not significantly different. Methods Trial Design and Participants 17 Procedures Radiation simulation and treatment planning. 18The clinical target volume was the whole brain. The planning target volume was generated by expansion of the clinical target volume with 5 mm, excluding the hippocampal avoidance zone in the experimental arm. 19and they can be found in the Data Supplement. Results Study Patients Treatment Outcomes Primary analysis and cognitive outcomes. P = 0. 003). The analysis imputing patients lost to follow-up as a decline in the FCSRT-DFR at 3 months showed similar results:
 
@@ -1038,31 +1038,31 @@ Abstract Purpose Methods Results P = 0. 003). Analysis of all FCSRT scores showe
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^a2a31f0f]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^115A7nWi]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to offer prophylactic cranial irradiation in patients with limited stage small cell lung cancer who have a good response to initial therapy, as it decreases brain metastases and increases overall survival according to meta-analyses of past clinical trials. Recognize that none of the past studies used MRI staging of the brain or FDG PET scans for overall staging.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^99f2fdce]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^114wEiyK]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to consider hippocampal-avoidance prophylactic cranial irradiation using intensity-modulated radiation therapy as a potential strategy to improve cognitive preservation. Recognize that a phase III randomized trial of hippocampal-avoidance whole brain radiation therapy versus conventional whole brain radiation therapy demonstrated improved cognitive preservation and patient-reported outcomes. Recognize that conflicting data exist with hippocampal-avoidance prophylactic cranial irradiation versus conventional prophylactic cranial irradiation in small cell lung cancer, with one trial reporting no differences in cognition and another reporting improved cognitive preservation. Recognize that a larger randomized trial, NRG CC003, has completed accrual with results pending.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^ed5d7f50]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^1174uUGF]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Regarding therapeutic procedures for small cell lung cancer - NCCN, more specifically with respect to radiation therapy (prophylactic cranial irradiation), NCCN 2021 guidelines recommend to recognize that increasing age and higher doses are the most predictive factors for the development of chronic neurotoxicity. Recognize that in trial RTOG 0212, 83% of patients older than 60 years experienced chronic neurotoxicity 12 months after prophylactic cranial irradiation compared to 56% of patients younger than 60 years. Avoid prophylactic cranial irradiation in patients with poor performance status or impaired neurocognitive function. Recognize that the role of prophylactic cranial irradiation in MRI and FDG PET staged small cell lung cancer in fit patients with normal neurocognitive function is under debate and is being evaluated in the phase III SWOG S1827/MAVERICK trial.
 
 ---
 
-### Prophylactic cranial irradiation in limited disease small-cell lung cancer in complete remission: a retrospective analysis [^1c7fe55b]. Respiratory Medicine (2001). Low credibility.
+### Prophylactic cranial irradiation in limited disease small-cell lung cancer in complete remission: a retrospective analysis [^111jFcWE]. Respiratory Medicine (2001). Low credibility.
 
 Recently a meta-analysis showed an improved survival probability of prophylactic cranial irradiation (PCI) in limited disease small-cell lung cancer (LD SCLC) in complete remission after chemotherapy. We evaluated treatment results of PCI+ and PCI- in these patients. Whether PCI (n = 65) or no PCI (n = 37) was administered did not depend either on patients or on tumour characteristics. After 2 years the incidence of brain metastases was 11% in PCI+ patients and 51% in PCI- patients. Both disease-free survival and overall survival were significantly longer after PCI. PCI reduces the incidence of brain metastases, prolongs brain metastases-free period, and overall survival in LD SCLC patients in complete remission after chemotherapy.
 
 ---
 
-### Prophylactic cranial irradiation in small-cell lung cancer: findings from a north central cancer treatment group pooled analysis [^2d90db24]. Annals of Oncology (2012). Low credibility.
+### Prophylactic cranial irradiation in small-cell lung cancer: findings from a north central cancer treatment group pooled analysis [^112AZ6hq]. Annals of Oncology (2012). Low credibility.
 
 Background
 
@@ -1082,13 +1082,13 @@ PCI was associated with a significant survival benefit for both ESCLC and LSCLC 
 
 ---
 
-### Prophylactic cranial irradiation: 5 years on… [^cfc7d352]. BMJ Supportive & Palliative Care (2014). Medium credibility.
+### Prophylactic cranial irradiation: 5 years on… [^116K3ZFP]. BMJ Supportive & Palliative Care (2014). Medium credibility.
 
 With advances in cancer management, patients are living with the long-term sequelae of both cancer and its treatment. This era of cancer survivorship poses unique challenges to the interdisciplinary cancer team in terms of management and prevention of treatment-related toxicities. This paper describes the case of a 55-year-old patient with neurocognitive disturbance as a result of prophylactic cranial irradiation (PCI). Five years after a diagnosis of small cell lung cancer, she is now an inpatient at a specialist palliative care unit. The current evidence for PCI and for potentially modifiable risk factors for neurocognitive disturbance as a consequence of PCI is explored.
 
 ---
 
-### WITHDRAWN: cranial irradiation for preventing brain metastases of small cell lung cancer in patients in complete remission [^34a36aab]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### WITHDRAWN: cranial irradiation for preventing brain metastases of small cell lung cancer in patients in complete remission [^112M3FGW]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -1120,7 +1120,7 @@ Prophylactic cranial irradiation significantly improves survival and disease-fre
 
 ---
 
-### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^2f32928e]. EClinicalMedicine (2024). Medium credibility.
+### Re-examining prophylactic cranial irradiation in small cell lung cancer: a systematic review and meta-analysis [^112CyQUd]. EClinicalMedicine (2024). Medium credibility.
 
 Discussion
 
@@ -1130,13 +1130,13 @@ Our findings are discordant with those of prior meta-analyses that have found a 
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^da7c7e85]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^116av7n4]. Respiratory Research (2022). Medium credibility.
 
 MRI, which has high fidelity, has led to a paradigm shift in brain management and is now recommended as a preferred means to detect BM in patients with SCLC. The conflicting survival outcomes in the EORTC trial and Japanese trial of ES-SCLC challenged the contemporary rationality to recommend PCI for LS-SCLC, which was mainly based on pre-MRI data. Several small retrospective studies have explored the role of PCI for LS-SCLC in the contemporary era. Nevertheless, the findings varied. Michael Yan et al. reported the outcomes of PCI for LS-SCLC over a 20-year period at the Princess Margaret Cancer Centre. The findings showed that PCI contributed to improved OS and lower BM risk (HR 1.88, 95% CI 1.32–2.69; HR 4.66, 95% CI 2.58–8.40, respectively). Conversely, in a recent analysis of 297 patients with LS-SCLC, PCI was not independently associated with substantial improvement in OS (HR 0.844, 95% CI 0.604–1.180, p = 0.32). S. Ghanta et al. demonstrated that PCI significantly prolonged neurological survival (HR 0.23, 95% CI 0.08–0.65; p = 0.01) and brain metastasis-free survival (HR 0.25, 95% CI 0.12–0.51; p < 0.01) but had no role in improving OS (HR 0.74, 95% CI 0.49–1.11; p < 0.01). We included 1068 patients with LS-SCLC, including 324 in each cohort who were matched for further comparisons. The findings revealed that PCI led to a consistent reduction in BM rate, but this reduction failed to translate into significantly improved OS. This analysis, which has the largest sample size thus far, offers an important reference for future exploration.
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^0e2c93f7]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^111N1oPt]. Respiratory Research (2022). Medium credibility.
 
 Fig. 3
 Kaplan–Meier analysis of OS. PCI prophylactic cranial irradiation
@@ -1148,7 +1148,7 @@ The median progression-free survival (PFS) was substantially longer with PCI (14
 
 ---
 
-### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^5dfab672]. Respiratory Research (2022). Medium credibility.
+### Prophylactic cranial irradiation (PCI) versus active surveillance in patients with limited-stage small cell lung cancer: a retrospective, multicentre study [^113QL4V7]. Respiratory Research (2022). Medium credibility.
 
 Results
 
@@ -1168,31 +1168,31 @@ After propensity score matching, 324 patients were eventually matched in each co
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^4da974b5]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^112z8xy2]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Prophylactic cranial irradiation (PCI) in SCLC — incidence and survival effects: Intracranial metastases occur in > 50% of patients with SCLC, and randomized studies show that PCI is effective in decreasing the incidence of cerebral metastases; a meta-analysis of randomized PCI trials reported a reduction in the 3-year incidence of brain metastases from 58.6% (control) to 33.3% (PCI) and an increase in 3-year overall survival (OS) from 15.3% (control) to 20.7% (PCI), supporting that PCI seems to prevent, and not simply delay, brain metastases, with a retrospective study also finding increased survival at 2, 5, and 10 years versus no PCI.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^7b6cad36]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^1149yyrV]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 NCCN small cell lung cancer — prophylactic cranial irradiation (PCI): Intracranial metastases occur in greater than 50% of patients with SCLC, and randomized studies show that PCI is effective in decreasing the incidence of cerebral metastases, though most individual studies did not have sufficient power to show a meaningful survival advantage. A meta-analysis of randomized PCI trials reported a reduction in the 3-year incidence of brain metastases from 58.6% in the control group to 33.3% in the PCI-treated group and an increase in 3-year overall survival from 15.3% in the control group to 20.7% in the PCI group; although the number of patients with extensive-stage SCLC was small, the observed benefit was similar in patients with both limited-stage and extensive-stage SCLC. In limited-stage SCLC responding to chemoradiotherapy and MRI-negative before and after primary treatment, median overall survival was 26 months (range, 19.4–32.6 months) with PCI versus 14 months without PCI (range, 11.4–16.6 months; P < .0001). In an MRI-staged limited-stage cohort of 49 patients, median overall survival was 55 months with PCI versus 24 months without PCI (P < .05), and at 1 year the probability of symptomatic brain metastases was 4% with PCI versus 22% without PCI (P < .05). For extensive-stage SCLC without brain metastases, a large retrospective analysis of 4257 patients showed median overall survival 13.9 vs. 11.1 months with PCI versus no PCI (P < .0001), and another analysis (n = 397) found overall survival 13.5 vs. 8.5 months, respectively (HR, 0.55; 95% CI, 0.39–0.77; P = 0.0005). In an EORTC randomized trial of 286 patients with extensive-stage SCLC responding to chemotherapy, PCI decreased symptomatic brain metastases (14.6% vs. 40.4%) and increased the 1-year survival rate.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^c71400c9]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^11669Fmi]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Older patients — prophylactic cranial irradiation (PCI): PCI should be used with caution in patients who are older. A Dutch analysis of > 5000 patients suggests that median survival is lower in patients ≥ 70 years compared with patients < 70 years treated with PCI, regardless of stage.
 
 ---
 
-### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^7cf6df48]. Chest (2013). Medium credibility.
+### Treatment of small cell lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^114CGPQK]. Chest (2013). Medium credibility.
 
 Prophylactic cranial irradiation — evidence of survival benefit in complete-response and limited-stage settings: PCI has been shown to positively influence survival in patients with LS-SCLC and ES-SCLC who achieve a complete response (CR), with a meta-analysis of seven randomized studies showing the 3-year survival rate was 5.4% better for PCI (20.7% vs 15.3%, P = 0.01), reflecting a 35% increase in 3-year survivors, and a retrospective SEER analysis of 7,995 LS-SCLC patients showing 5-year survival of 11% without PCI vs 19% with PCI (P < .001) and concluding PCI is indicated for LS-SCLC.
 
 ---
 
-### Models support prophylactic cranial irradiation… [^b1dc4eea]. ASCO (2006). Low credibility.
+### Models support prophylactic cranial irradiation… [^115YgoqB]. ASCO (2006). Low credibility.
 
 In this issue of the Journal of Clinical Oncology, Lee et al 1present a rather unique and useful statistical interpretation of the waxing question of prophylactic cranial irradiation for patients with small-cell lung cancer. The concept of PCI for SCLC has its origins in the comparison of the behavior of this disease with childhood leukemia, a disease that is essentially systemic in nature, widespread at diagnosis, and exquisitely chemosensitive, with a high rate of complete response. Several clinical trials of PCI have demonstrated clearly a dramatic decrease in the development of brain metastasis in patients receiving PCI, and meta-analysis of the data demonstrate that control of intracranial disease actually results in a modest but real survival gain, the magnitude of which is comparable to that achieved with thoracic irradiation in SCLC.
 
@@ -1204,13 +1204,13 @@ Recently, we and others have started exploring the possibility of hippocampal-sp
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^29acfe8e]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^1124nbkq]. Practical Radiation Oncology (2020). High credibility.
 
 ASTRO guideline — Prophylactic cranial RT rationale and imaging restaging state that among patients with small cell lung cancer (SCLC) who undergo chemoradiation, approximately 59% to 69% ultimately develop brain metastases (BMs), and a meta-analysis demonstrated an absolute 5.4% OS advantage at 3 years with PCI. In the context of PCI consideration, magnetic resonance imaging (MRI) restaging after completion of chemoradiation is recommended, with studies indicating interval development of BMs in 20% to 32% of patients. MRI with contrast is the recommended imaging modality given higher sensitivity for small lesions, while contrast-enhanced CT maintains a role in staging and surveillance for patients with pacemakers or other MRI contraindications.
 
 ---
 
-### Hippocampal avoidance prophylactic cranial irradiation: a new standard of care? [^2e763f93]. ASCO (2021). Medium credibility.
+### Hippocampal avoidance prophylactic cranial irradiation: a new standard of care? [^112Bt9dL]. ASCO (2021). Medium credibility.
 
 Accompanying ArticleFree accessORIGINAL REPORTSRandomized Phase III Trial of Prophylactic Cranial Irradiation With or Without Hippocampal Avoidance for Small-Cell Lung Cancer: A GICOR-GOECP-SEOR Study Given the high propensity for small-cell lung cancer to develop brain metastases, prophylactic cranial irradiation is a standard for care for patients with limited-stage SCLC and a therapeutic option for those with extensive-stage SCLC. 5-7In an effort to decrease these cognitive risks, hippocampal avoidance techniques have been developed using intensity-modulated radiotherapy to significantly lower radiation dose exposure to the hippocampal neural stem-cell compartment, while delivering tumoricidal radiation dose to the remainder of the brain.
 8.
@@ -1222,13 +1222,13 @@ There is also interest in whether the addition of immunotherapy in SCLC manageme
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^e23cdcc0]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^116nQeP9]. Practical Radiation Oncology (2020). High credibility.
 
 Prophylactic cranial irradiation (PCI) in extensive-stage SCLC (ES-SCLC) reduces symptomatic BMs in a randomized trial but MRI surveillance may be an alternative; for those electing PCI, acceptable dose-fractionations include 2500 cGy in 10 fractions or a regimen delivering 2000 cGy in 5 fractions of 400 cGy used in randomized data. In ES-SCLC, PCI in "a randomized trial of patients with any response to upfront chemotherapy" "reduced symptomatic BMs and resulted in improved OS". A Japanese randomized study of "MRI surveillance compared with PCI" showed that PCI "resulted in a significantly decreased burden of BMs… (48% vs 69%). However, OS was not improved", so "for patients who can adhere to the schedule, MRI surveillance can be considered an alternative to PCI", and "The task force recommends consultation with a radiation oncologist regarding the benefits and risks of PCI versus MRI surveillance". Also, "patients with ES-SCLC who progress after initial therapy should not be recommended for PCI". If PCI is chosen, "data supporting utilization of 2500 cGy in 10 fractions are likely applicable", and "the strongest randomized data supporting PCI for ES-SCLC delivered 2000 cGy in 5 fractions of 400 cGy to 62% of the patients… that fractionation scheme also garnered support… although neurocognitive effects for this scheme have not been studied".
 
 ---
 
-### Prophylactic cranial irradiation for small-cell lung cancer: time for a reassessment… [^770537b2]. ASCO (2020). Medium credibility.
+### Prophylactic cranial irradiation for small-cell lung cancer: time for a reassessment… [^1143THBX]. ASCO (2020). Medium credibility.
 
 1, 2Drawing on experience in pediatric acute leukemia, investigators developed PCI with the rationale that sterilization of the CNS, a sanctuary site for SCLC, could improve survival in treated LSCLC. In addition, there is the position that the reduction of CNS metastases is inherently beneficial as this will prevent potentially devastating complications. For PCI to be recommended, one or both of the following must be demonstrated: overall survival is improved, or quality of life is improved. The burden of proof is on those who advocate for this approach. The standard should be similar to that for a new drug: Evidence should be provided in controlled clinical trials. The relative risk for CNS metastasis was more striking at 0.
 46.
@@ -1241,12 +1241,12 @@ Risk of brain metastasis as the first site of treatment failure was lower in pat
 
 ---
 
-### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^587136b5]. Practical Radiation Oncology (2020). High credibility.
+### Radiation therapy for small cell lung cancer: an ASTRO clinical practice guideline [^113G7wP2]. Practical Radiation Oncology (2020). High credibility.
 
 ASTRO small cell lung cancer radiation therapy guideline — abstract recommendations state: The task force strongly recommends definitive thoracic radiation therapy (RT) administered once or twice daily early in the course of treatment for limited-stage small cell lung cancer (LS-SCLC); adjuvant RT is conditionally recommended in surgically resected patients with positive margins or nodal metastases; involved field RT delivered using conformal advanced treatment modalities to postchemotherapy volumes is also strongly recommended. For patients with stage I or II node negative disease, stereotactic body radiation therapy (SBRT) or conventional fractionation is strongly recommended, and chemotherapy should be delivered before or after SBRT. In LS-SCLC, prophylactic cranial irradiation (PCI) is strongly recommended for stage II or III patients who respond to chemoradiation, conditionally not recommended for stage I patients, and should be a shared decision for patients at higher risk of neurocognitive toxicities. In extensive-stage SCLC (ES-SCLC), radiation oncologist consultation for consideration of PCI versus magnetic resonance surveillance is strongly recommended, and the use of thoracic RT is strongly recommended in select patients with ES-SCLC after chemotherapy treatment, including a conditional recommendation in those responding to chemotherapy and immunotherapy.
 
 ---
 
-### Current role of surgery in small cell lung carcinoma [^840ea6e9]. Journal of Cardiothoracic Surgery (2009). Low credibility.
+### Current role of surgery in small cell lung carcinoma [^114NnHeG]. Journal of Cardiothoracic Surgery (2009). Low credibility.
 
 Small cell lung carcinoma represents 15–20% of lung cancer. Is is characterized by rapid growth and early disseminated disease with poor outcome. For many years surgery was considered a contraindication in Small Cell Lung Cancer (SCLC) since radiotherapy and chemoradiotherapy were found to be more efficient in the management of these patients. Never the less some surgeons continue to be in favor of surgery as part of a combined modality treatment in patients with SCLC. The reevaluation of the role of surgery in this group of patients is based on clinical data indicating a much better prognosis in selected patients with limited disease (T1-2, N0, M0), the high rate of local recurrence after chemoradiotherapy with surgery considered eventually more efficient in the local control of the disease and the fact that surgery is the most accurate tool to access the response to chemotherapy, identify carcinoids misdiagnosed as SCLC and treat the Non Small Cell Lung Cancer component of mixed tumors. Performing surgery for local disease SCLC requires a complete preoperative assessment to exclude the presence of nodal involvement. In stage I surgery must always be followed by adjuvant chemotherapy, while in stage II and III surgery must be planned only in the context of clinical trials and after a pathologic response to induction chemoradiotherapy has been confirmed. Prophylactic cranial irradiation should be used to reduce the incidence of brain metastasis.

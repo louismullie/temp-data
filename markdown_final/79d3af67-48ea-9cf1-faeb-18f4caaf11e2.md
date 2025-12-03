@@ -15,29 +15,29 @@ How does stopping an arb reduce gfr?
 
 > Let's see… What do we have here? The user is asking how stopping an ARB affects the glomerular filtration rate (GFR). Let's break this down step-by-step. First, I need to think about the hemodynamic mechanism of ARBs and why they lower GFR when started. Then, I should verify what happens when ARBs are stopped and whether GFR "recovers". Next, I will review clinical trial data on stopping ARBs in advanced CKD. After that, I need to check guideline positions on when, if ever, to stop ARBs. Finally, I will synthesize a practical, clinically grounded answer with monitoring thresholds and exceptions, making sure I don't overgeneralize from limited data.
 
-> Let me first confirm the mechanism. ARBs block angiotensin II type 1 receptors, which removes efferent arteriolar vasoconstrictive tone and lowers intraglomerular pressure; this hemodynamic effect acutely reduces GFR by about 10–20% and can manifest as a modest creatinine rise, often called the "GFR dip", which is expected and typically reversible if the drug is stopped or the dose reduced [^99e7da96] [^532c7c61] [^ca579b2b].
+> Let me first confirm the mechanism. ARBs block angiotensin II type 1 receptors, which removes efferent arteriolar vasoconstrictive tone and lowers intraglomerular pressure; this hemodynamic effect acutely reduces GFR by about 10–20% and can manifest as a modest creatinine rise, often called the "GFR dip", which is expected and typically reversible if the drug is stopped or the dose reduced [^114wAyzd] [^1138Jv3a] [^116AyvdY].
 
-> Wait, let me verify the reverse: if ARBs acutely lower GFR, stopping them should remove that efferent vasodilation and allow intraglomerular pressure to rise, which would be expected to increase measured GFR transiently. Indeed, observational and physiologic data show that after ARB withdrawal, GFR can rise by roughly 10–20% within days to weeks, reflecting reversal of the hemodynamic effect rather than true improvement in kidney structure or long-term function [^b5207a48] [^caafd5df].
+> Wait, let me verify the reverse: if ARBs acutely lower GFR, stopping them should remove that efferent vasodilation and allow intraglomerular pressure to rise, which would be expected to increase measured GFR transiently. Indeed, observational and physiologic data show that after ARB withdrawal, GFR can rise by roughly 10–20% within days to weeks, reflecting reversal of the hemodynamic effect rather than true improvement in kidney structure or long-term function [^115dXfiw] [^116BVZUa].
 
-> Hold on, let's not jump to conclusions about clinical benefit from stopping ARBs. I need to check randomized data. The STOP-ACEi trial in advanced CKD (mean eGFR ~13–18 mL/min/1.73 m²) found that discontinuing RAS blockade did not slow long-term eGFR decline and was associated with a numerical increase in kidney failure or dialysis, with no cardiovascular benefit, indicating that the short-term GFR "improvement" from stopping does not translate into better outcomes and may be harmful [^10a2f266] [^f2a6654b] [^bed7fcd1].
+> Hold on, let's not jump to conclusions about clinical benefit from stopping ARBs. I need to check randomized data. The STOP-ACEi trial in advanced CKD (mean eGFR ~13–18 mL/min/1.73 m²) found that discontinuing RAS blockade did not slow long-term eGFR decline and was associated with a numerical increase in kidney failure or dialysis, with no cardiovascular benefit, indicating that the short-term GFR "improvement" from stopping does not translate into better outcomes and may be harmful [^111RfXyF] [^117Cjtr6] [^115swCKa].
 
-> I should confirm guideline direction. Contemporary KDIGO guidance advises continuing ACEi/ARB in CKD, including when eGFR is below 30 mL/min/1.73 m², unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms in active kidney failure; a creatinine rise up to about 30% after initiation or uptitration is acceptable if potassium is safe, and larger declines should trigger evaluation for other causes rather than automatic discontinuation [^d2ae4f43] [^554c6944] [^caafd5df].
+> I should confirm guideline direction. Contemporary KDIGO guidance advises continuing ACEi/ARB in CKD, including when eGFR is below 30 mL/min/1.73 m², unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms in active kidney failure; a creatinine rise up to about 30% after initiation or uptitration is acceptable if potassium is safe, and larger declines should trigger evaluation for other causes rather than automatic discontinuation [^116PLx1G] [^113BTcZh] [^116BVZUa].
 
-> But wait, what if the patient has bilateral renovascular disease or another high-risk hemodynamic phenotype? I need to ensure I note exceptions. In significant bilateral renal artery stenosis or other states of renal hypoperfusion, stopping an ARB can acutely improve GFR by restoring efferent tone and perfusion pressure, yet even in such cases, observational data suggest continued RAS blockade may still confer cardiovascular benefit without excess ESKD risk, so decisions should be individualized and coordinated with nephrology rather than reflexively stopping therapy [^def756c7] [^dd7c7130].
+> But wait, what if the patient has bilateral renovascular disease or another high-risk hemodynamic phenotype? I need to ensure I note exceptions. In significant bilateral renal artery stenosis or other states of renal hypoperfusion, stopping an ARB can acutely improve GFR by restoring efferent tone and perfusion pressure, yet even in such cases, observational data suggest continued RAS blockade may still confer cardiovascular benefit without excess ESKD risk, so decisions should be individualized and coordinated with nephrology rather than reflexively stopping therapy [^116hZL7Y] [^116fN4cF].
 
-> Let me synthesize the clinical answer. Stopping an ARB reverses efferent arteriolar vasodilation, which acutely increases intraglomerular pressure and can raise measured GFR by about 10–20% in the short term; however, this hemodynamic rebound does not improve long-term kidney outcomes and, in advanced CKD, stopping ARBs has not been shown to slow CKD progression and may worsen kidney failure risk, so routine discontinuation is not recommended unless there is true intolerance or a compelling alternative indication [^b5207a48] [^10a2f266] [^d2ae4f43].
+> Let me synthesize the clinical answer. Stopping an ARB reverses efferent arteriolar vasodilation, which acutely increases intraglomerular pressure and can raise measured GFR by about 10–20% in the short term; however, this hemodynamic rebound does not improve long-term kidney outcomes and, in advanced CKD, stopping ARBs has not been shown to slow CKD progression and may worsen kidney failure risk, so routine discontinuation is not recommended unless there is true intolerance or a compelling alternative indication [^115dXfiw] [^111RfXyF] [^116PLx1G].
 
-> I should double-check practical monitoring so we don't misinterpret changes. After starting or increasing an ARB, recheck creatinine/eGFR and potassium in 2–4 weeks; a stable eGFR decline up to about 30% is expected and should not prompt stopping, whereas a persistent decline greater than 30% warrants reassessing volume status, concomitant medications, and possible renovascular disease before changing therapy, and hyperkalemia can often be managed with dietary changes, diuretics, or binders rather than stopping the ARB [^554c6944] [^caafd5df] [^99e7da96].
+> I should double-check practical monitoring so we don't misinterpret changes. After starting or increasing an ARB, recheck creatinine/eGFR and potassium in 2–4 weeks; a stable eGFR decline up to about 30% is expected and should not prompt stopping, whereas a persistent decline greater than 30% warrants reassessing volume status, concomitant medications, and possible renovascular disease before changing therapy, and hyperkalemia can often be managed with dietary changes, diuretics, or binders rather than stopping the ARB [^113BTcZh] [^116BVZUa] [^114wAyzd].
 
 ---
 
-Stopping an ARB reverses efferent arteriolar vasodilation, restoring intraglomerular pressure and increasing GFR by about 10–20% within days to weeks [^b5207a48] [^ca579b2b]. This rise is a **hemodynamic rebound**, not structural recovery, and does not improve long-term kidney outcomes [^10a2f266]. In advanced CKD, stopping ARBs does not slow eGFR decline and may increase risks of kidney failure and cardiovascular events, so **continuation is generally recommended** unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^d2ae4f43] [^def756c7].
+Stopping an ARB reverses efferent arteriolar vasodilation, restoring intraglomerular pressure and increasing GFR by about 10–20% within days to weeks [^115dXfiw] [^116AyvdY]. This rise is a **hemodynamic rebound**, not structural recovery, and does not improve long-term kidney outcomes [^111RfXyF]. In advanced CKD, stopping ARBs does not slow eGFR decline and may increase risks of kidney failure and cardiovascular events, so **continuation is generally recommended** unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^116PLx1G] [^116hZL7Y].
 
 ---
 
 ## Physiological mechanism: reversal of efferent arteriolar vasodilation
 
-ARBs reduce intraglomerular pressure by blocking AT1 receptors, causing efferent arteriolar vasodilation and lowering GFR [^532c7c61]. Stopping the ARB **reverses this vasodilation**, restoring efferent tone, increasing intraglomerular pressure, and acutely raising GFR by about 10–20% [^b5207a48] [^e37b973f].
+ARBs reduce intraglomerular pressure by blocking AT1 receptors, causing efferent arteriolar vasodilation and lowering GFR [^1138Jv3a]. Stopping the ARB **reverses this vasodilation**, restoring efferent tone, increasing intraglomerular pressure, and acutely raising GFR by about 10–20% [^115dXfiw] [^116pFhiN].
 
 ---
 
@@ -45,9 +45,9 @@ ARBs reduce intraglomerular pressure by blocking AT1 receptors, causing efferent
 
 Clinical studies show a **rapid GFR increase** after ARB withdrawal:
 
-- **STOP-ACEi trial**: In advanced CKD (eGFR < 30 mL/min/1.73 m²), stopping RAS inhibitors did not slow long-term eGFR decline and showed a trend toward more kidney failure or dialysis (62% vs 56%; HR 1.28) [^10a2f266] [^f2a6654b].
-- **Observational study**: In stage 4–5 CKD, stopping ACEi/ARB increased eGFR from 16.4 to 26.6 mL/min/1.73 m² at 12 months, but this did not translate into improved long-term outcomes [^e37b973f].
-- **Meta-analysis**: Larger acute GFR declines with RAS blockade are associated with greater long-term kidney protection, whereas stopping therapy removes this benefit [^a65dc5af].
+- **STOP-ACEi trial**: In advanced CKD (eGFR < 30 mL/min/1.73 m²), stopping RAS inhibitors did not slow long-term eGFR decline and showed a trend toward more kidney failure or dialysis (62% vs 56%; HR 1.28) [^111RfXyF] [^117Cjtr6].
+- **Observational study**: In stage 4–5 CKD, stopping ACEi/ARB increased eGFR from 16.4 to 26.6 mL/min/1.73 m² at 12 months, but this did not translate into improved long-term outcomes [^116pFhiN].
+- **Meta-analysis**: Larger acute GFR declines with RAS blockade are associated with greater long-term kidney protection, whereas stopping therapy removes this benefit [^115FeScN].
 
 ---
 
@@ -55,9 +55,9 @@ Clinical studies show a **rapid GFR increase** after ARB withdrawal:
 
 Stopping ARBs can cause **clinically significant risks**:
 
-- **Increased proteinuria**: Loss of antiproteinuric effect accelerates CKD progression [^f6c7883a].
+- **Increased proteinuria**: Loss of antiproteinuric effect accelerates CKD progression [^117JryXP].
 - **Higher risk of kidney failure**: Stopping ARBs in advanced CKD increases risk of ESRD and dialysis [^notfound].
-- **Cardiovascular harm**: Discontinuation is associated with higher mortality and cardiovascular events, especially in patients with low eGFR [^def756c7] [^cd2e7a58].
+- **Cardiovascular harm**: Discontinuation is associated with higher mortality and cardiovascular events, especially in patients with low eGFR [^116hZL7Y] [^116FC5EX].
 
 ---
 
@@ -65,9 +65,9 @@ Stopping ARBs can cause **clinically significant risks**:
 
 Current guidelines advise **continuing ARBs** unless there is a compelling reason to stop:
 
-- **KDIGO 2024**: Continue ACEi/ARB in CKD, even when eGFR falls below 30 mL/min/1.73 m², unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^d2ae4f43] [^718fbb8b].
-- **VA/DoD 2025**: Continue ACEi/ARB in advanced CKD unless there is drug intolerance or adverse events [^e1d676cd] [^9e7d109e].
-- **AHA/ACC 2025**: Do not stop ACEi/ARB for a creatinine rise up to 30% without another explanation; evaluate for other causes if the decline exceeds 30% [^b931bdf0] [^55c7f37a].
+- **KDIGO 2024**: Continue ACEi/ARB in CKD, even when eGFR falls below 30 mL/min/1.73 m², unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^116PLx1G] [^113uMsyt].
+- **VA/DoD 2025**: Continue ACEi/ARB in advanced CKD unless there is drug intolerance or adverse events [^116mpFWC] [^1153y3zD].
+- **AHA/ACC 2025**: Do not stop ACEi/ARB for a creatinine rise up to 30% without another explanation; evaluate for other causes if the decline exceeds 30% [^115jZRBm] [^113CB7KF].
 
 ---
 
@@ -75,9 +75,9 @@ Current guidelines advise **continuing ARBs** unless there is a compelling reaso
 
 ARBs may be stopped only when **benefits clearly outweigh risks**:
 
-- **Symptomatic hypotension**: Persistent low blood pressure causing dizziness or syncope [^d2ae4f43].
+- **Symptomatic hypotension**: Persistent low blood pressure causing dizziness or syncope [^116PLx1G].
 - **Refractory hyperkalemia**: Potassium > 6.0 mmol/L despite dietary and pharmacologic measures [^notfound].
-- **Uremic symptoms**: Severe symptoms requiring dose reduction or discontinuation in advanced kidney failure [^fd5c3ae5].
+- **Uremic symptoms**: Severe symptoms requiring dose reduction or discontinuation in advanced kidney failure [^117Ucr5r].
 
 ---
 
@@ -85,37 +85,37 @@ ARBs may be stopped only when **benefits clearly outweigh risks**:
 
 If an ARB is stopped, **close monitoring is essential**:
 
-- **Monitor renal function**: Check serum creatinine and eGFR within 1–2 weeks after stopping [^80981f2c].
+- **Monitor renal function**: Check serum creatinine and eGFR within 1–2 weeks after stopping [^114HeWeF].
 - **Monitor proteinuria**: Track urine protein-to-creatinine ratio or albumin-to-creatinine ratio [^notfound].
-- **Alternative therapy**: Use non-RAAS antihypertensives (e.g. calcium channel blockers, beta-blockers) to maintain blood pressure control [^9e7d109e].
+- **Alternative therapy**: Use non-RAAS antihypertensives (e.g. calcium channel blockers, beta-blockers) to maintain blood pressure control [^1153y3zD].
 
 ---
 
-Stopping an ARB acutely increases GFR by reversing efferent vasodilation, but this is a **hemodynamic rebound** without structural benefit and may worsen long-term outcomes. ARBs should generally be continued in CKD unless there is a clear indication to stop, with careful monitoring and alternative therapy as needed [^10a2f266] [^d2ae4f43].
+Stopping an ARB acutely increases GFR by reversing efferent vasodilation, but this is a **hemodynamic rebound** without structural benefit and may worsen long-term outcomes. ARBs should generally be continued in CKD unless there is a clear indication to stop, with careful monitoring and alternative therapy as needed [^111RfXyF] [^116PLx1G].
 
 ---
 
 ## References
 
-### Evaluation of the stopping angiotensin converting enzyme inhibitor compared to angiotensin receptor blocker (STOP ACEi trial) in advanced and progressive chronic kidney disease [^f2a6654b]. Kidney International (2024). Medium credibility.
+### Evaluation of the stopping angiotensin converting enzyme inhibitor compared to angiotensin receptor blocker (STOP ACEi trial) in advanced and progressive chronic kidney disease [^117Cjtr6]. Kidney International (2024). Medium credibility.
 
 In the STOP-ACEi trial, the outcome was similar whether or not renin-angiotensin system inhibitors (RASi) were discontinued. We now investigate whether the effect of withdrawing angiotensin converting enzyme inhibitors (ACEi) or angiotensin-receptor blockers (ARBs) differed. In this open label trial patients with estimated glomerular filtration rates (eGFR) under 30ml/min per 1.73 m 2 and progressive chronic kidney disease (CKD) were randomized to stop or continue RASi. The primary outcome was eGFR at three years. The composite of kidney failure, over 50% fall in eGFR, or kidney replacement therapy (KRT) was also assessed. Of patients randomized, 99 stopped and 123 patients continued ACEi while 104 stopped and 77 continued ARB at baseline. At three years, the eGFR was similar whether or not patients were withdrawn from ACEi or from ARB. Kidney failure or initiation of KRT occurred in 65% of those stopping and 54% continuing ACEi (hazard ratio if stopped, 1.52; 95% Confidence Interval, 1.07 to 2.16) and in 60% on an ARB regardless of randomized group (hazard ratio if stopped, 1.23; 0.83 to 1.81). Kidney failure/Initiation of KRT with over 50% decline in eGFR occurred in 71% of those stopping and 59% continuing ACEi (relative risk if stopped, 1.19; 95% CI, 1.00 to 1.41) and in 65% stopping and 69% continuing ARB (relative risk if stopped, 0.96; 0.79 to 1.16). Thus, neither discontinuing ACEi nor ARB slowed the rate of decline in eGFR. Although discontinuation of ACEi appeared to have more unfavorable effects on kidney outcomes than stopping ARB, the trial was neither designed nor powered to show differences between agents.
 
 ---
 
-### The challenge of early glomerular filtration rate decline in response to antihypertensive treatment and chronic kidney disease outcomes [^af36088e]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### The challenge of early glomerular filtration rate decline in response to antihypertensive treatment and chronic kidney disease outcomes [^115UkyyP]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 Hypertension and chronic kidney disease (CKD) are closely linked pathological processes. Combating high blood pressure (BP) is an essential part of preventing CKD progression and reducing cardiovascular (CV) risk. Data from recent randomized controlled trials on patients at high CV risk showed the beneficial effects of intensive action to meet BP targets on mortality related to CV disease. The impact of meeting such targets on renal function is still unclear, however, particularly for patients with CKD. This issue has been the object of several post hoc analyses because lowering BP definitely has a nephroprotective role, but the early decline in glomerular filtration rate (GFR) associated with antihypertensive therapies and strict BP targets is still a concern in nephrology clinical practice. The present review discusses the results of studies on this topic, focusing specifically on the clinical significance of early GFR decline in response to treatment with angiotensin-converting enzyme inhibitor/angiotensin receptor blocker, or to different BP targets, in terms of renal and CV outcomes, and how this tips the balance towards continuing or discontinuing antihypertensive therapy.
 
 ---
 
-### Impact of early glomerular filtration rate decline in response to antihypertensive treatment on risk of end-stage kidney disease and cardiovascular outcomes: a systematic review and meta-analysis [^2bb6dd79]. Journal of Hypertension (2022). Medium credibility.
+### Impact of early glomerular filtration rate decline in response to antihypertensive treatment on risk of end-stage kidney disease and cardiovascular outcomes: a systematic review and meta-analysis [^1127otcp]. Journal of Hypertension (2022). Medium credibility.
 
 Blood pressure control, which can induce a slight decrease in the glomerular filtration rate (GFR), plays a nephron- and cardioprotective role. However, the more important early decline in GFR associated with antihypertensive therapy and strict blood pressure targets is still of concern. Since few data are available from trials and observational studies, and the phenomenon is relatively rare, we performed a meta-analysis of available studies. We conclude that major reductions in the glomerular filtration rate occurring soon after starting angiotensin-converting enzyme inhibitors/angiotensin receptor blockers and/or under intensive blood pressure control predict end-stage kidney disease.
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^5f5baa97]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^113SNcaS]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 RESEARCH QUESTION
 
@@ -123,13 +123,13 @@ Does a strategy of discontinuing ACEi, ARBs or their combination in patients wit
 
 ---
 
-### Acute changes in glomerular filtration rate with renin-angiotensin system (RAS) inhibition: clinical implications [^532c7c61]. Kidney International (2017). Low credibility.
+### Acute changes in glomerular filtration rate with renin-angiotensin system (RAS) inhibition: clinical implications [^1138Jv3a]. Kidney International (2017). Low credibility.
 
 Renin-angiotensin system inhibition with either angiotensin-converting enzyme inhibitors or angiotensin receptor blockers has been shown to be effective in reducing progression of renal and cardiovascular disease. However, these medications are often associated with an initial reduction of estimated glomerular filtration rate, which is thought to be functional but may be of clinical significance. Newer insights from secondary analyses of large clinical trials may provide important clinical perspective.
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^be37aa92]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^115s1M1b]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Background
 
@@ -145,7 +145,7 @@ The rationale and trial design are presented here. The results of this trial wil
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^396bb0a3]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^112U8U2v]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Background
 
@@ -161,13 +161,13 @@ The rationale and trial design are presented here. The results of this trial wil
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^a15da125]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^1158ETRN]. Kidney International (2024). High credibility.
 
 Renin-angiotensin-system inhibitor (RASi) algorithm threshold and discontinuation evidence — KDIGO notes a trigger for further evaluation and reports trial data on stopping therapy. "The algorithm has been updated to suggest a ≥ 30% decrease in eGFR (rather than increase in creatinine) should be a trigger to investigate for an underlying other condition". Supporting evidence includes: "In a recent STOP-ACEi trial of 411 participants with mean eGFR of 13 ml/min per 1.73 m2, a policy of discontinuing RASi in CKD G4–G5 did not result in any kidney or cardiovascular benefits". The text also states, "Lastly, it should be noted that restricting salt intake may help ensure maximal effects of RASi".
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^eef6a104]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^1177Gtno]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Study enrolment and randomization
 
@@ -193,13 +193,13 @@ Trial treatment will be open label, due to the practical difficulties and costs 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^fd5c3ae5]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117Ucr5r]. Kidney International (2024). High credibility.
 
 When to reduce or stop RASi — The guideline states to consider dose reduction or discontinuation for specific adverse scenarios including kidney failure: Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m²).
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^bfd660ae]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^115uQeEq]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Irrespective of the underlying cause of CKD, attention has focused primarily on blood pressure (BP) control and reduction of urinary protein excretion using agents that block the renin–angiotensin aldosterone system and reduce intra-glomerular pressure over and above their effect on BP. Studies by Lewis et al. and Brenner et al. have shown that angiotensin-converting enzyme inhibitor (ACEi) and angiotensin receptor blockers (ARBs) reduce the progression of renal disease. Data from the HOPE, LIFE and ALLHAT studies have confirmed the benefit of ACEi use in mild CKD [estimated glomerular filtration rate (eGFR) > 60 mL/min/1.73m 2 with proteinuria or structural defects].
 
@@ -207,7 +207,7 @@ Few studies have included patients with advanced CKD at baseline. Moreover, it i
 
 ---
 
-### Association between renin-angiotensin system blockade discontinuation and all-cause mortality among persons with low estimated glomerular filtration rate [^def756c7]. JAMA Internal Medicine (2020). High credibility.
+### Association between renin-angiotensin system blockade discontinuation and all-cause mortality among persons with low estimated glomerular filtration rate [^116hZL7Y]. JAMA Internal Medicine (2020). High credibility.
 
 Importance
 
@@ -239,7 +239,7 @@ The findings suggest that continuing ACE-I or ARB therapy in patients with decli
 
 ---
 
-### Elevations in serum creatinine with RAAS blockade: why isn' T it a sign of kidney injury? [^0eceec72]. Current Opinion in Nephrology and Hypertension (2008). Low credibility.
+### Elevations in serum creatinine with RAAS blockade: why isn' T it a sign of kidney injury? [^111NxL9F]. Current Opinion in Nephrology and Hypertension (2008). Low credibility.
 
 Purpose Of Review
 
@@ -255,7 +255,7 @@ RAAS blockade exerts potent hemodynamic, antihypertensive, and antiinflammatory 
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^1b6fe799]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^111hgFgt]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 DISCUSSION
 
@@ -267,37 +267,37 @@ STOP-ACEi opened to recruitment on 2 July 2014, and the first patient was recrui
 
 ---
 
-### Therapeutic perspective: starting an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker in a diabetic patient [^bc1eecb9]. Therapeutic Advances in Endocrinology and Metabolism (2010). Low credibility.
+### Therapeutic perspective: starting an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker in a diabetic patient [^115ou4Sc]. Therapeutic Advances in Endocrinology and Metabolism (2010). Low credibility.
 
 There are extensive data confirming involvement of the renin-angiotensin system in microvascular and macrovascular complications of diabetes. Blockade of the system with angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARBs) is regarded as the first-line approach to managing hypertension and end-organ protection in patients with diabetes. ACE inhibitors are still the preferred agents for most patients. Dose should be lower with renal impairment unless an agent which is not excreted by the kidneys is chosen. Dose should be titrated up to the maximum tolerated to optimize end-organ protection, and intermediate-acting agents should be given in a twice daily divided dose when higher doses are used. Electrolytes should be checked before commencing, 1–2 weeks later, and after each dose increment. A modest decrease in estimated glomerular filtration rate (eGFR) and increase in creatinine often occurs with ACE inhibitors or ARBs. The agents may need to be discontinued if eGFR decreases by > 15%, if creatinine increases by > 20%, or if hyperkalemia develops. Cough occurs in 5–10% of patients taking ACE inhibitor, but not with ARBs. Angioedema is probably equally common with ACE inhibitor or ARBs. It is not widely appreciated that ACE inhibitors may precipitate hypoglycaemia in patients taking glucose-lowering medication. The combination of ACE inhibitor and ARB is not routinely indicated for either hypertension or end-organ protection. While patients should not be denied the undoubted benefits of these important classes of drugs, we should also guard against their indiscriminate use in patients with diabetes. We must also ensure that patients receive appropriate counselling and monitoring.
 
 ---
 
-### A European renal association (ERA) synopsis for nephrology practice of the 2023 European Society of Hypertension (ESH) guidelines for the management of arterial hypertension [^6470cc8b]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
+### A European renal association (ERA) synopsis for nephrology practice of the 2023 European Society of Hypertension (ESH) guidelines for the management of arterial hypertension [^113Zuega]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
 
 Following seminal clinical trials, in people with diabetic and non-diabetic CKD an angiotensin-converting enzyme inhibitor (ACEi) or an angiotensin-receptor blocker (ARB) is the treatment of choice, especially in those with moderately or severely increased albuminuria, where these agents were found to reduce proteinuria, the rate of GFR decline, and the risk of doubling of SCr or ESKD (CoR I; LoE A). The ACEi or ARB monotherapy should be at maximum tolerated approved doses to achieve optimal nephroprotection. Dual combination of an ACEi with an ARB or combination of aliskiren with any of the two is not recommended (CoR III; LoE A), because two relevant outcome trials were prematurely terminated as combination therapy was associated with increased risk of adverse events. In normoalbuminuric individuals with hypertension, ACEis or ARBs are able to delay the progression to severely increased albuminuria compared with placebo, but no evidence exists for better preservation of kidney function with RAS blockers compared with other major antihypertensive classes. Currently, there is no evidence to stop treatment with RAS blockers in advanced CKD, as in a recent open-label trial in which patients with an eGFR < 30 mL/min/1.73 m 2 were randomized to either discontinuation or continuation of therapy with RAS inhibitors, discontinuation was not associated with a significant between-group difference in the long-term eGFR decline.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^554c6944]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^113BTcZh]. Kidney International (2024). High credibility.
 
 Renin–angiotensin system inhibitors — monitoring for potassium and estimated glomerular filtration rate (eGFR) after initiation specifies: start with "Initiate ACEi or ARB", then "Monitor serum creatinine and potassium (within 2–4 weeks after starting or changing dose)". If "Normokalemia" with " < 30% decrease in eGFR", proceed to "Increase dose of ACEi or ARB or continue on maximally tolerated dose". If "Hyperkalemia", actions are "Review concurrent drugs", "Moderate dietary potassium intake", and "Consider: diuretics, sodium bicarbonate, potassium binders". If " ≥ 30% decrease in eGFR", actions are "Review for causes of AKI", "Correct volume depletion", "Reassess concomitant medications (e.g., diuretics, NSAIDs)", and "Consider renal artery stenosis". If mitigation strategies are ineffective, "Reduce dose or stop ACEi or ARB". Abbreviations on-page define ACEi (angiotensin-converting enzyme inhibitor), ARB (angiotensin II receptor blocker), AKI (acute kidney injury), and NSAID (nonsteroidal anti-inflammatory drug).
 
 ---
 
-### KDOQI US commentary on the KDIGO 2024 clinical practice guideline for the evaluation and management of CKD [^b6c70ed5]. American Journal of Kidney Diseases (2025). High credibility.
+### KDOQI US commentary on the KDIGO 2024 clinical practice guideline for the evaluation and management of CKD [^115fycFW]. American Journal of Kidney Diseases (2025). High credibility.
 
 Renin–angiotensin system inhibitor therapy in chronic kidney disease — practice points are as follows: Hyperkalemia associated with use of RASi can often be managed by measures to reduce the serum potassium levels rather than decreasing the dose or stopping RASi. Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose. Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m²). Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or ARB) for specific indications (e.g., to treat hypertension or heart failure with low ejection fraction). Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m².
 
 ---
 
-### Comparative effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers on blood pressure and the kidney [^a67b0a20]. The American Journal of Medicine (2003). Low credibility.
+### Comparative effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers on blood pressure and the kidney [^115FpGnT]. The American Journal of Medicine (2003). Low credibility.
 
 Many clinicians are uncomfortable about using angiotensin-converting enzyme (ACE) inhibitors or angiotensin II type 1 receptor blockers (AT(1)-blockers) to treat patients with renal disease because of concerns about increasing serum creatinine levels. However, the benefits of these medications, particularly their efficacy in slowing the progression of renal disease, outweigh such concerns. ACE inhibitors are effective in patients with type 1 diabetes and renal disease, as well as in those with nondiabetic renal disease and proteinuria > 0.5 g/d. AT(1)-blockers slow the progression of diabetic nephropathy in patients with type 2 diabetes. Although these classes of medications should not be used in patients with severe renal insufficiency (e.g., glomerular filtration rate < 20 mL/min), they may be beneficial in patients with mild-to-moderate renal insufficiency. Nonetheless, caution should be exercised in those with a glomerular filtration rate < 30 mL/min, and serum creatinine and potassium levels should be checked approximately 1 week after starting treatment. There is also evidence suggesting that these medications lead to greater reductions in blood pressure and proteinuria when used in combination than when alone. The purpose of this paper is to review the mechanisms of action of these two classes of medication, as well as the experimental and clinical evidence that they slow the progression of renal disease.
 
 ---
 
-### The impact of stopping inhibitors of the renin-angiotensin system in patients with advanced chronic kidney disease [^e37b973f]. Nephrology, Dialysis, Transplantation (2010). Low credibility.
+### The impact of stopping inhibitors of the renin-angiotensin system in patients with advanced chronic kidney disease [^116pFhiN]. Nephrology, Dialysis, Transplantation (2010). Low credibility.
 
 Background
 
@@ -317,13 +317,13 @@ Discontinuation of ACEi/ARB has undoubtedly delayed the onset of RRT in the majo
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^718fbb8b]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^113uMsyt]. Kidney International (2024). High credibility.
 
 Continuation of RASi at low eGFR and supporting evidence — The guideline states to maintain therapy despite advanced CKD, and cites trial data: Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m²; in a recent STOP-ACEi trial of 411 participants with mean eGFR of 13 ml/min per 1.73 m², a policy of discontinuing RASi in CKD G4–G5 did not result in any kidney or cardiovascular benefits.
 
 ---
 
-### Renin-angiotensin system inhibition in advanced chronic kidney disease [^10a2f266]. The New England Journal of Medicine (2022). Excellent credibility.
+### Renin-angiotensin system inhibition in advanced chronic kidney disease [^111RfXyF]. The New England Journal of Medicine (2022). Excellent credibility.
 
 Background
 
@@ -343,19 +343,19 @@ Among patients with advanced and progressive chronic kidney disease, the discont
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^fe58085c]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117W5RbR]. Kidney International (2024). High credibility.
 
 Algorithm for monitoring of potassium and estimated glomerular filtration rate (eGFR) after initiation of renin-angiotensin system inhibitors — After starting angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB), the algorithm states to monitor laboratories and timing as "Monitor serum creatinine and potassium (within 2–4 weeks after starting or changing dose)". If there is " < 30% decrease in eGFR", the action is "Increase dose of ACEi or ARB or continue on maximally tolerated dose". For hyperkalemia, the box lists: "Hyperkalemia… Review concurrent drugs… Moderate dietary potassium intake… Consider: - diuretics - sodium bicarbonate - potassium binders". If there is " ≥ 30% decrease in eGFR", actions are "Review for causes of AKI… Correct volume depletion… Reassess concomitant medications (e.g., diuretics, NSAIDs)… Consider renal artery stenosis". If these measures fail, the algorithm advises "Reduce dose or stop ACEi or ARB if mitigation strategies ineffective".
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^d2ae4f43]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^116PLx1G]. Kidney International (2024). High credibility.
 
 Renin–angiotensin system inhibitors (RASi) in chronic kidney disease — therapy should be administered using the highest approved dose that is tolerated, and changes in blood pressure, serum creatinine, and serum potassium should be checked within 2–4 weeks after initiation or dose increase; hyperkalemia associated with RASi can often be managed by lowering serum potassium rather than reducing or stopping RASi; continue ACEi or ARB unless serum creatinine rises by more than 30% within 4 weeks; consider reducing or discontinuing ACEi or ARB for symptomatic hypotension, uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m2); consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi for specific indications; and continue ACEi or ARB in CKD even when eGFR falls below 30 ml/min per 1.73 m2.
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^ec141155]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^1172zpTW]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 INTRODUCTION
 
@@ -363,19 +363,19 @@ Chronic kidney disease (CKD), Stages 3–5, affects 1 in 10 adults in the UK and
 
 ---
 
-### Renin-angiotensin system inhibition in advanced chronic kidney disease [^bed7fcd1]. The New England Journal of Medicine (2022). Excellent credibility.
+### Renin-angiotensin system inhibition in advanced chronic kidney disease [^115swCKa]. The New England Journal of Medicine (2022). Excellent credibility.
 
 The study STOP-ACEi was published by Sunil Bhandari and colleagues in 2022 in the journal N Engl J Med. This study is related to the following diseases: Chronic kidney disease. In the STOP-ACEi study, the trial question was: what is the effect of discontinuation of renin-angiotensin system inhibitors in patients with advanced CKD? In the STOP-ACEi study, the study design was: multi-center, open label, RCT. In the STOP-ACEi study, the population was: 411 patients (130 female, 281 male). The inclusion criteria were adult patients with advanced and progressive CKD. The key exclusion criteria were uncontrolled hypertension; history of myocardial infarction or stroke within the previous 3 months. In the STOP-ACEi study, the interventions were: n = 206 renin-angiotensin system inhibitor discontinuation (use of any guideline-recommended antihypertensive agent other than renin-angiotensin system inhibitors) n = 205 renin-angiotensin system inhibitor continuation (renin-angiotensin system inhibitor with/without any other guideline-recommended antihypertensive agent). In the STOP-ACEi study, the primary outcome was: no significant difference in eGFR at 3 years (12.6 vs. 13.3; AD -0.7, 95% CI -2.5 to 1). In the STOP-ACEi study, the secondary outcomes were: no significant difference in end-stage kidney disease or RRT (62% vs. 56%; HR 1.28, 95% CI 0.99 to 1.65) No significant difference in patients experiencing > 50% decline in eGFR or initiation of RRT (68% vs. 63%; RR 1.07, 95% CI 0.94 to 1.22) No significant difference in death (10% vs. 11%; HR 0.85, 95% CI 0.46 to 1.57). In the STOP-ACEi study, the safety outcomes were: no significant difference in serious adverse events. In the STOP-ACEi study, the conclusion was: in adult patients with advanced and progressive CKD, renin-angiotensin system inhibitor discontinuation was not superior to renin-angiotensin system inhibitor continuation with respect to eGFR at 3 years.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^e618a29f]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^116t8RkS]. Kidney International (2021). High credibility.
 
 KDIGO 2021 — Administration and monitoring of RASi in CKD — It may be reasonable to treat people with high BP, CKD, and no albuminuria, with or without diabetes, with RASi (ACEi or ARB). RASi (ACEi or ARB) should be administered using the highest approved dose that is tolerated, and changes in BP, serum creatinine, and serum potassium should be checked within 2–4 weeks of initiation or dose increase. Hyperkalemia associated with use of RASi can often be managed by measures to reduce serum potassium levels rather than decreasing the dose or stopping RASi. Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation or an increase in dose. Consider reducing the dose or discontinuing ACEi or ARB for symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m2). Mineralocorticoid receptor antagonists are effective for management of refractory hypertension but may cause hyperkalemia or a reversible decline in kidney function, particularly among patients with low eGFR.
 
 ---
 
-### Effect of inhibitors of the renin-angiotensin system and other antihypertensive drugs on renal outcomes: systematic review and meta-analysis [^670150dc]. Lancet (2005). Excellent credibility.
+### Effect of inhibitors of the renin-angiotensin system and other antihypertensive drugs on renal outcomes: systematic review and meta-analysis [^113diAfM]. Lancet (2005). Excellent credibility.
 
 Background
 
@@ -395,49 +395,49 @@ The benefits of ACE inhibitors or ARBs on renal outcomes in placebo-controlled t
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^c5f72174]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^1164Va1Z]. Kidney International (2021). High credibility.
 
 Practice points for RAS inhibitors in CKD hypertension: It may be reasonable to treat people with high BP, CKD, and no albuminuria, with or without diabetes, with RASi (ACEi or ARB). RASi (ACEi or ARB) should be administered using the highest approved dose that is tolerated, and changes in BP, serum creatinine, and serum potassium should be checked within 2–4 weeks of initiation or increase in the dose of a RASi, depending on the current GFR and serum potassium. Hyperkalemia associated with use of RASi can often be managed by measures to reduce the serum potassium levels rather than decreasing the dose or stopping RASi, and continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose. Consider reducing the dose or discontinuing ACEi or ARB in the setting of either symptomatic hypotension or uncontrolled hyperkalemia despite medical treatment, or to reduce uremic symptoms while treating kidney failure (estimated glomerular filtration rate [eGFR] < 15 ml/min per 1.73 m2), and mineralocorticoid receptor antagonists are effective for management of refractory hypertension but may cause hyperkalemia or a reversible decline in kidney function, particularly among patients with low eGFR.
 
 ---
 
-### Common questions about the initial management of hypertension [^c0eab431]. American Family Physician (2015). Low credibility.
+### Common questions about the initial management of hypertension [^115w1TWQ]. American Family Physician (2015). Low credibility.
 
 Hypertension is the most common chronic condition treated by family physicians. Elevated blood pressure is associated with an increased risk of heart failure, myocardial infarction, cerebrovascular disease, and death. Treatment of hypertension reduces the risk of these events. Several lifestyle modifications are associated with improvements in blood pressure, including the Dietary Approaches to Stop Hypertension diet, sodium restriction, regular exercise, and moderate weight loss. There is strong evidence that reducing diastolic blood pressure to less than 90 mm Hg is beneficial in adults older than 30 years. Although there is good evidence to support reducing systolic blood pressure to less than 150 mm Hg in adults older than 60 years, the evidence in younger adults is insufficient to recommend a specific goal. Black patients with chronic kidney disease who are treated with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker to a blood pressure of less than 140/90 mm Hg experience slower declines in glomerular filtration rates than patients treated with other medications. A blood pressure goal of less than 140/90 mm Hg is recommended in patients with chronic kidney disease and in those with diabetes mellitus. Thiazide diuretics, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and calcium channel blockers are the preferred medications in nonblack patients; thiazide diuretics and calcium channel blockers are preferred in black patients.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^f5d6df1c]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117HU95V]. Kidney International (2024). High credibility.
 
 Renin–angiotensin system inhibitors (RASi; angiotensin-converting enzyme inhibitor [ACEi] or angiotensin receptor blocker [ARB]) in chronic kidney disease — RASi "should be administered using the highest approved dose that is tolerated", and "changes in BP, serum creatinine, and serum potassium should be checked within 2–4 weeks" after initiation or dose increase. Hyperkalemia with RASi "can often be managed by measures to reduce the serum potassium levels rather than decreasing the dose or stopping RASi". "Continue ACEi or ARB therapy unless serum creatinine rises by more than 30% within 4 weeks following initiation of treatment or an increase in dose". "Consider reducing the dose or discontinuing ACEi or ARB" for symptomatic hypotension, uncontrolled hyperkalemia, or to reduce uremic symptoms while treating kidney failure with "eGFR < 15 ml/min per 1.73 m2". "Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or ARB) for specific indications", and "Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m2".
 
 ---
 
-### Are two better than one? Angiotensin-converting enzyme inhibitors plus angiotensin receptor blockers for reducing blood pressure and proteinuria in kidney disease [^63d189eb]. Clinical Journal of the American Society of Nephrology (2008). Low credibility.
+### Are two better than one? Angiotensin-converting enzyme inhibitors plus angiotensin receptor blockers for reducing blood pressure and proteinuria in kidney disease [^113YzA3U]. Clinical Journal of the American Society of Nephrology (2008). Low credibility.
 
 Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers each reduce proteinuria and blood pressure. Several studies have compared the antiproteinuric and antihypertensive effects of combination therapy with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers with those of therapy with either drug class alone. This article reviews those trials as well as evidence suggesting a mechanism for the benefits observed with combination therapy.
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^e1d676cd]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^116mpFWC]. DoD/VA (2025). High credibility.
 
 VA/DoD primary care chronic kidney disease (CKD) guideline — continuing angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker therapy in advanced CKD: In patients with advanced chronic kidney disease (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73 m²) currently on an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker, we suggest continuing therapy, unless there is drug intolerance or other adverse event. The 2025 strength is 'Weak for' with category 'Reviewed, New-added'.
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^9e7d109e]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^1153y3zD]. DoD/VA (2025). High credibility.
 
 Hypertension in chronic kidney disease — blood pressure and renin–angiotensin system management are stated as follows: We suggest intensive blood pressure management to reduce mortality and major adverse cardiovascular events in patients with estimated glomerular filtration rate below 60 mL/minute/1.73 m2. In patients with hypertension and albuminuria (i.e., urine albumin-to-creatinine ratio [UACR] > 30 mg/g), we recommend the use of either an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker to slow the progression of chronic kidney disease. We suggest the addition of a thiazide diuretic or calcium channel blocker to reduce blood pressure in patients with chronic kidney disease and hypertension not controlled on an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker. In patients with advanced chronic kidney disease (estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73 m2) currently on an angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker, we suggest continuing therapy, unless there is drug intolerance or other adverse event.
 
 ---
 
-### Does the temporary decrease in the estimated glomerular filtration rate (eGFR) after initiation of mineralocorticoid receptor (MR) antagonist treatment lead to a long-term renal protective effect? [^6feba26b]. Hypertension Research (2019). Medium credibility.
+### Does the temporary decrease in the estimated glomerular filtration rate (eGFR) after initiation of mineralocorticoid receptor (MR) antagonist treatment lead to a long-term renal protective effect? [^113rvmox]. Hypertension Research (2019). Medium credibility.
 
 Recently, deleterious effects of aldosterone on the kidney via mineralocorticoid receptors (MRs) have been noted. MR antagonists have been reported to show significant antialbuminuric effects when added to angiotensin-converting enzyme inhibitors or angiotensin II type 1 receptor blockers. However, a decrease in the estimated glomerular filtration rate (eGFR) has been reported during MR antagonist treatment. On the other hand, although the eGFR often decreases, significant reductions in total mortality and cardiovascular events have been observed in large-scale clinical trials in patients with chronic heart failure. What are the implications of the changes in eGFR due to MR antagonist treatment? Glomerular hyperfiltration has been reported to occur with an aldosterone excess, and it can be seen that relative glomerular hyperfiltration is rapidly corrected with MR antagonism, even without aldosterone excess. This is reflected in the initial temporary decrease in the eGFR. After MR antagonist treatment, eGFR decreases temporarily, and it appears that renal function has deteriorated. However, if renal function has actually deteriorated, a reduction in all-cause and cardiovascular death is unlikely to occur in the clinical studies in patients with chronic heart failure. That is, the initial transient decrease in eGFR by the MR antagonist appears to work effectively to provide fine adjustment of glomerular pressure, and this approach works advantageously to suppress long-term cardiovascular events. It is expected that a number of long-term, large-scale clinical research trials targeting renal events and all-cause and cardiovascular death in CKD patients treated with an MR antagonist will be planned.
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^96a0126a]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^114rJuiy]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Assessments
 
@@ -489,43 +489,43 @@ Statistical considerations
 
 ---
 
-### Complementary effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in slowing the progression of chronic kidney disease [^d8ca42c2]. American Heart Journal (2009). Low credibility.
+### Complementary effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in slowing the progression of chronic kidney disease [^116YQGED]. American Heart Journal (2009). Low credibility.
 
 Chronic kidney disease (CKD) and end-stage renal disease continue to pose major healthcare challenges. Early initiation of therapy aimed at slowing the progression of CKD is essential. Increased renin-angiotensin-aldosterone-system activity and, in particular, elevated levels of angiotensin II (AII) play important roles in the development and progression of CKD. Therefore, pharmacologic therapies that block the effects of AII and reduce its pathogenic effects are cornerstones of clinical management. Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) have been shown to have renoprotective effects in addition to their ability to control blood pressure. There is accumulating clinical evidence that the combination of an ACEI and an ARB provides greater renal protection, particularly in decreasing proteinuria, than does either agent alone.
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^b931bdf0]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115jZRBm]. Journal of the American College of Cardiology (2025). High credibility.
 
 Kidney dysfunction/injury — monitoring and renin-angiotensin-aldosterone system inhibitor (RAASi) effects are outlined with explicit thresholds. Estimated GFR using serum creatinine should be measured 2 to 4 weeks after initiation or dose titration of antihypertensive medications. RAASi may cause an expected short-term dip in eGFR of up to 30% that is associated with preservation of kidney function and should not lead to discontinuation unless the decline in eGFR is persistently > 30%. A referral to a nephrologist is appropriate to evaluate other causes, and new dysfunction after adding or increasing diuretics should prompt evaluation of volume status; it may be appropriate to initially hold or reduce the diuretic dose and then advance more slowly.
 
 ---
 
-### We avoid RAAS inhibitors in PD patients with residual renal function [^e6e5edbc]. Seminars in Dialysis (2016). Low credibility.
+### We avoid RAAS inhibitors in PD patients with residual renal function [^116uKPBq]. Seminars in Dialysis (2016). Low credibility.
 
 Preserving residual renal function in patients on peritoneal dialysis (PD) positively impacts mortality. While it is important to avoid nephrotoxic agents in this setting, clinicians should appreciate that inhibitors of the renin-angiotensin-aldosterone system (RAAS), including angiotensin converting enzyme inhibitors, and angiotensin receptor blockers are likely to preserve glomerular filtration rate and prolong the time until patients on PD reach anuria, and this may improve mortality in these patients. In addition, RAAS blockade favorably affects the peritoneal membrane by reducing morphologic changes that can lead to ultrafiltration failure. This in turn may delay or prevent modality failure in patients on PD. Thus, clinicians should avoid the impulse to stop RAAS inhibitors in the PD population.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^306b7041]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^112EnVbe]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in CKD — angiotensin receptor blocker (ARB) trials in diabetes with severely increased albuminuria: In IDNT and RENAAL, irbesartan reduced the primary composite endpoint by 20% (RR: 0.80; 95% CI: 0.66–0.97) versus placebo and by 23% versus amlodipine (RR: 0.77; 95% CI: 0.63–0.93), while losartan reduced the composite outcome by 16% (RR: 0.84; 95% CI: 0.72–0.98); both studies included only participants with severely increased albuminuria and enrolled patients with diabetes and substantial baseline proteinuria/creatinine (IDNT: 2.9 g/d proteinuria, 1.6 mg/dl; RENAAL: albumin–creatinine ratio 1237 mg/g, 1.9 g/dl). Remaining on renin–angiotensin system inhibitor (RASi) therapy after doubling of serum creatinine delayed dialysis by a mean of 6 months, and in IDNT hyperkalemia necessitating stopping therapy occurred in 2% (0.5% in the other arms).
 
 ---
 
-### Renin inhibition: what are the therapeutic opportunities? [^509b68cb]. Journal of the American Society of Nephrology (2005). Low credibility.
+### Renin inhibition: what are the therapeutic opportunities? [^1134WDAS]. Journal of the American Society of Nephrology (2005). Low credibility.
 
 Blockade of the renin-angiotensin system with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers has become a crucial element in cardiovascular and renal medicine. This review evaluates the potential of renin inhibition as an adjunct to therapies that depend on renin system interruption.
 
 ---
 
-### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^1a21f33e]. Journal of the American Heart Association (2019). Medium credibility.
+### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^111fk5jK]. Journal of the American Heart Association (2019). Medium credibility.
 
 In one of the latest online forums of the American Society of Nephrology, a user asked the following question: "Some of my patients have their albuminuria improved from A3 to A2 significantly on RAS [renin‐angiotensin/aldosterone system] inhibition but the GFR [glomerular filtration rate] going down from stage G3 to G4 where we start education for ESRD [end‐stage renal disease] management options and they get very concerned about whether these medications are hurting their kidneys. Should we be backing up on RAS inhibition or is it worth continuing it?" This important clinical situation is similar to what the authors of an article within the current issue of the Journal of the American Heart Association (JAHA) dealt with. Cooper et al published a post hoc analysis of the noninvasive arm (treated by medication, including RAS blockers) of the CORAL (Cardiovascular Outcomes in Renal Atherosclerotic Lesions) trial (randomized controlled trial), which tested the effect of stenting renal artery stenosis on top of medical therapy versus medical therapy alone. 1
 
 ---
 
-### Association between stopping renin-angiotensin system inhibitors immediately before hemodialysis initiation and subsequent cardiovascular events [^26bdcf2d]. Hypertension Research (2024). Medium credibility.
+### Association between stopping renin-angiotensin system inhibitors immediately before hemodialysis initiation and subsequent cardiovascular events [^111zSHVW]. Hypertension Research (2024). Medium credibility.
 
 Results
 
@@ -549,7 +549,7 @@ b eGFR decline indicates change in eGFR for 3 months before dialysis initiation
 
 ---
 
-### Change in renal function associated with drug treatment in heart failure: national guidance [^3f0cacba]. Heart (2019). Medium credibility.
+### Change in renal function associated with drug treatment in heart failure: national guidance [^112cUUgH]. Heart (2019). Medium credibility.
 
 Background
 
@@ -562,13 +562,13 @@ Anxiety about rises in creatinine (and the associated falls in estimated glomeru
 
 ---
 
-### A meta-analysis of randomized controlled clinical trials for implications of acute treatment effects on glomerular filtration rate for long-term kidney protection [^a65dc5af]. Kidney International (2024). Medium credibility.
+### A meta-analysis of randomized controlled clinical trials for implications of acute treatment effects on glomerular filtration rate for long-term kidney protection [^115FeScN]. Kidney International (2024). Medium credibility.
 
 Pharmacologic interventions to slow chronic kidney disease progression, such as ACE-inhibitors, angiotensin receptor blockers, or sodium glucose co-transporter 2 inhibitors, often produce acute treatment effects on glomerular filtration rate (GFR) that differ from their long-term chronic treatment effects. Observational studies assessing the implications of acute effects cannot distinguish acute effects from GFR changes unrelated to the treatment. Here, we performed meta-regression analysis of multiple trials to isolate acute effects to determine their long-term implications. In 64 randomized controlled trials (RCTs), enrolling 154,045 participants, we estimated acute effects as the mean between-group difference in GFR slope from baseline to three months, effects on chronic GFR slope (starting at three months after randomization), and effects on three composite kidney endpoints defined by kidney failure (GFR 15 ml/min/1.73m 2 or less, chronic dialysis, or kidney transplantation) or sustained GFR declines of 30%, 40% or 57% decline, respectively. We used Bayesian meta-regression to relate acute effects with treatment effects on chronic slope and the composite kidney endpoints. Overall, acute effects were not associated with treatment effects on chronic slope. Acute effects were associated with the treatment effects on composite kidney outcomes such that larger negative acute effects were associated with lesser beneficial effects on the composite kidney endpoints. Associations were stronger when the kidney composite endpoints were defined by smaller thresholds of GFR decline (30% or 40%). Results were similar in a subgroup of interventions with supposedly hemodynamic effects that acutely reduce GFR. For studies with GFR 60 mL/min/1.73m 2 or under, negative acute effects were associated with larger beneficial effects on chronic GFR slope. Thus, our data from a large and diverse set of RCTs suggests that acute effects of interventions may influence the treatment effect on clinical kidney outcomes.
 
 ---
 
-### Optimizing renin-angiotensin-aldosterone inhibition in advanced chronic kidney disease: balancing benefits and risks [^e99a5d58]. Current Opinion in Nephrology and Hypertension (2025). Medium credibility.
+### Optimizing renin-angiotensin-aldosterone inhibition in advanced chronic kidney disease: balancing benefits and risks [^116yKxvj]. Current Opinion in Nephrology and Hypertension (2025). Medium credibility.
 
 Purpose Of Review
 
@@ -584,31 +584,31 @@ Current evidence supports RAASi continuation in most CKD patients, including tho
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^6c3eca69]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^113mUkhN]. Kidney International (2022). High credibility.
 
 KDIGO 2022 — Hypertension management in glomerular disease sets target blood pressure at Adults: SBP < 120 mm Hg and Children: 24 h MAP ≤ 50th percentile for age, sex, and height or local standards. First-line therapy lists angiotensin-converting enzyme inhibitors and/or angiotensin II receptor blockers, with combination use cautioned due to possible hyperkalemia and/or acute kidney injury; caveats include educating patients to stop therapy during volume depletion and to monitor serum creatinine and potassium frequently and discontinue if serum creatinine rises > 30% (a lower increment may be acceptable hemodynamic change), and potassium-lowering medications may be considered to optimize tolerability. Second-line therapy lists mineralocorticoid receptor antagonists and may require discontinuation for hyperkalemia with potential salvage using potassium binders; additional strategies include using antihypertensive agents without angiotensin blocking activity to achieve the goal blood pressure and using loop and thiazide diuretics to aid blood pressure control, manage hyperkalemia, and enhance renin-angiotensin-aldosterone system inhibitor antiproteinuric effects.
 
 ---
 
-### Dual blockade of the renin-angiotensin system: the ultimate treatment for renal protection? [^689833c2]. Journal of the American Society of Nephrology (2005). Low credibility.
+### Dual blockade of the renin-angiotensin system: the ultimate treatment for renal protection? [^113g4qSq]. Journal of the American Society of Nephrology (2005). Low credibility.
 
 The prevalence of chronic renal diseases is increasing worldwide. There is a great need to identify therapies that arrest disease progression to end-stage renal failure. Inhibition of the renin-angiotensin system both by angiotensin-converting enzyme inhibitors and angiotensin II receptor antagonists is probably the best therapeutic option available. Several large, multicenter studies have indeed shown a significant reduction in the risk for doubling baseline serum creatinine or progression toward end-stage renal failure in patients who do and do not have diabetes and have chronic nephropathies that are treated with angiotensin-converting enzyme inhibitors or angiotensin II receptor antagonists. However, the number of patients who reach end-stage renal failure is still considerably high. Significant reduction of the incidence of ESRD is likely to be achieved in the near future for chronic nephropathies, provided that the degree of renoprotection can be improved. This goal may be attainable with a more complex strategy than with a single or dual pharmacologic intervention on the renin-angiotensin system. Strict control of BP and protein excretion rate, lowering of blood lipids, tight glucose control for individuals with diabetes, and lifestyle changes form part of the future multimodal protocol for treatment of patients with chronic nephropathies.
 
 ---
 
-### A European renal association (ERA) synopsis for nephrology practice of the 2023 European Society of Hypertension (ESH) guidelines for the management of arterial hypertension [^99e7da96]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
+### A European renal association (ERA) synopsis for nephrology practice of the 2023 European Society of Hypertension (ESH) guidelines for the management of arterial hypertension [^114wAyzd]. Nephrology, Dialysis, Transplantation (2024). Medium credibility.
 
 The 2023 ESH Guidelines highlight also the main therapeutic challenges with ACEi or ARB treatment. As the vasodilating effect of ACEis or ARBs on the efferent arteriole reduces intraglomerular pressure, eGFR drops commonly by an average of 10%–15% in the first weeks of treatment with these agents (eGFR dip). A similar hemodynamic effect can be seen with large BP reductions offered by any antihypertensive agent. Thus, repeated monitoring of eGFR and blood electrolytes within 4–8 weeks (depending on baseline kidney function) is important when treatment is initiated. Clinicians should not be alarmed by this early GFR drop, but if the decline in GFR continues or is more severe (> 30%), the RAS blocker should be stopped, and the patient should be investigated for the presence of renovascular disease. Use of RAS blockers in CKD patients further increases the risk of hyperkalemia. Incident hyperkalemia is associated with increased mortality and is the most frequent reason for dose reduction or discontinuation of ACEis and ARBs in CKD patients. However, reducing the dose or discontinuing RAS blockers has been associated with increased risk of CV events in large observational studies and should be avoided. Novel potassium binders (patiromer and sodium zirconium cyclosilicate) were shown to effectively normalize elevated serum potassium and chronically maintain normal levels in CKD patients treated with ACEis, ARBs or spironolactone, with good tolerability. Thus, these agents can be used to maintain serum potassium < 5.5 mmol/L in individuals with CKD (CoR II; LoE B).
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^ca579b2b]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^116AyvdY]. Kidney International (2024). High credibility.
 
 KDIGO 2024 CKD — hemodynamically active therapies and eGFR change: Practice Point 2.1.4 states that among people with chronic kidney disease who initiate hemodynamically active therapies, "GFR reductions of > 30% on subsequent testing exceed the expected variability and warrant evaluation". Acute eGFR decline after intensive blood pressure control shows "reductions of 10%–20% being typical within the first 3 months of treatment", and "acute rises in SCr (or declines in eGFR) of < 20%–30% are expected and do not warrant changes in therapeutic agents". Trials of sodium–glucose cotransporter-2 inhibitors (SGLT2i) suggest participants with " > 10% initial drop in eGFR" have similar outcomes "except in unusual cases when the acute "dip" in eGFR was > 30% from baseline". A "significant drop in eGFR (> 30%)" during initiation of antihypertensives, renin–angiotensin system inhibitors, mineralocorticoid receptor antagonists, or SGLT2i "should prompt a review into other causes and warrants close monitoring", and providers "should avoid the urge to stop these kidney-protective agents" because early dips are "typically reversible and not an indication of drug toxicity".
 
 ---
 
-### Clinical outcomes following discontinuation of renin-angiotensin-system inhibitors in patients with type 2 diabetes and advanced chronic kidney disease: a prospective cohort study [^5be9ed35]. EClinicalMedicine (2023). Medium credibility.
+### Clinical outcomes following discontinuation of renin-angiotensin-system inhibitors in patients with type 2 diabetes and advanced chronic kidney disease: a prospective cohort study [^113MGSuJ]. EClinicalMedicine (2023). Medium credibility.
 
 Fig. 1
 Study design and time frame definitions. Rx = prescription. Censored at the earliest date of outcomes of interest or censor date (31 December 2019). Abbreviations: RASi, renin angiotensin system inhibitor; ACEi, angiotensin converting enzyme inhibitors; ARBs, angiotensin receptor blockers; eGFR, estimated glomerular filtration rate; AKI, acute kidney injury.
@@ -620,19 +620,19 @@ Flowchart of selection patient with type 2 diabetes. Abbreviations: RASi, renin 
 
 ---
 
-### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^55c7f37a]. Hypertension (2025). High credibility.
+### 2025 AHA / ACC / AANP / AAPA / ABC / ACCP / ACPM / AGS / AMA / ASPC / NMA / PCNA / SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^113CB7KF]. Hypertension (2025). High credibility.
 
 Renin–angiotensin system inhibitor use in CKD — monitoring and continuation criteria: ACEi or ARB reduce intraglomerular pressure, which may cause a transient decrease, or dip, in eGFR up to 30%, but this short-term decline in eGFR is not associated with decreased long-term outcomes and should not prompt discontinuation of the ACEi or ARB. Electrolytes should be rechecked 2 to 4 weeks after initiating or intensifying ACEi or ARB dosage, monitoring for hyperkalemia or a decline in eGFR of > 30%, which may require reducing or holding the agent temporarily or additional evaluation. ACEi or ARB can be continued in people with eGFR < 30 mL/ min/1.73 m2 as an RCT found that discontinuation was not associated with a significant difference in long-term decrease in eGFR, and the combined use of an ACEi and an ARB should be avoided because of increased harm.
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^fc05b78f]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^117SdoPk]. Kidney International (2022). High credibility.
 
 Management of hypertension and proteinuria in glomerular disease — angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) use and titration are described as follows: Use an ACEi or ARB to maximally tolerated or allowed doses as first-line therapy in treating patients with both hypertension and proteinuria; do not stop ACEi or ARB with modest and stable increase in serum creatinine (up to 30%), but stop ACEi or ARB if kidney function continues to worsen, and/or refractory hyperkalemia; combinations of ACEi and ARB may be used in young adults without diabetes or cardiovascular disease, but benefits and safety are uncertain; caveat: do not start ACEi/ARB in patients who present with abrupt onset of NS, because these drugs can cause AKI especially in patients with MCD; and up titrate an ACEi or ARB to maximally tolerated or allowed daily dose as first-line therapy in treating patients with GN and proteinuria alone, indicated for persistent proteinuria despite treatment of primary GN with immunosuppression (where indicated), while avoiding use of an ACEi or ARB if kidney function is rapidly changing.
 
 ---
 
-### Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for adults with early (stage 1 to 3) non-diabetic chronic kidney disease [^42d9e4ed]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
+### Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for adults with early (stage 1 to 3) non-diabetic chronic kidney disease [^112i7NXE]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
 
 Background
 
@@ -664,19 +664,19 @@ Our review demonstrated that there is currently insufficient evidence to determi
 
 ---
 
-### An acute fall in estimated glomerular filtration rate during treatment with losartan predicts a slower decrease in long-term renal function [^6a7297bd]. Kidney International (2011). Low credibility.
+### An acute fall in estimated glomerular filtration rate during treatment with losartan predicts a slower decrease in long-term renal function [^113ipBKS]. Kidney International (2011). Low credibility.
 
 Intervention in the renin-angiotensin-aldosterone-system (RAAS) is associated with slowing the progressive loss of renal function. During initiation of therapy, however, there may be an acute fall in glomerular filtration rate (GFR). We tested whether this initial fall in GFR reflects a renal hemodynamic effect and whether this might result in a slower decline in long-term renal function. We performed a post hoc analysis of the Reduction of Endpoints in Non-Insulin-Dependent Diabetes Mellitus with the Angiotensin II Antagonist Losartan (RENAAL) trial. Patients assigned to losartan had a significantly greater acute fall in estimated (eGFR) during the first 3 months compared to patients assigned to placebo, but a significantly slower long-term mean decline of eGFR thereafter. A large interindividual difference, however, was noticed in the acute eGFR change. When patients were divided into tertiles of initial fall in eGFR, the long-term eGFR slope calculated from baseline was significantly higher in patients with an initial fall compared to those with an initial rise. When eGFR decline was calculated from 3 months to the final visit, excluding the initial effect, patients with a large initial fall in eGFR had a significant lower long-term eGFR slope compared to those with a moderate fall or rise. This relationship was independent of other risk markers or change in risk markers for progression of renal disease such as blood pressure and albuminuria. Thus, the greater the acute fall in eGFR, during losartan treatment, the slower the rate of long-term eGFR decline. Hence, interpretation of trial results relying on slope-based GFR outcomes should separate the initial drug-induced GFR change from the subsequent long-term effect on GFR.
 
 ---
 
-### Slowing nephropathy progression: focus on proteinuria reduction [^f6c7883a]. Clinical Journal of the American Society of Nephrology (2008). Low credibility.
+### Slowing nephropathy progression: focus on proteinuria reduction [^117JryXP]. Clinical Journal of the American Society of Nephrology (2008). Low credibility.
 
 Blood pressure control reduces decline of kidney function. Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers offer renoprotection to a small extent beyond that attributable to blood pressure lowering. These agents also reduce proteinuria, a risk marker for renal disease progression. Accumulating evidence indicates that their antiproteinuric effect correlates with their additional renal benefits.
 
 ---
 
-### Effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers on cardiovascular events and residual renal function in dialysis patients: a meta-analysis of randomised controlled trials [^5c289375]. BMC Nephrology (2017). Low credibility.
+### Effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers on cardiovascular events and residual renal function in dialysis patients: a meta-analysis of randomised controlled trials [^113MdVQp]. BMC Nephrology (2017). Low credibility.
 
 Background
 
@@ -686,13 +686,13 @@ We therefore undertook a meta-analysis to evaluate the effect of ACEIs and ARBs 
 
 ---
 
-### Is there added value to adding ARB to ACE inhibitors in the management of CKD? [^7c256799]. Journal of the American Society of Nephrology (2009). Low credibility.
+### Is there added value to adding ARB to ACE inhibitors in the management of CKD? [^114B42eU]. Journal of the American Society of Nephrology (2009). Low credibility.
 
 Antagonism of the rennin-angiotensin-aldosterone-system (RAAS) decreases BP and reduces proteinuria in chronic kidney disease. BP is decreased approximately 5 mmHg when angiotensin II blockers are added to angiotensin-converting enzyme (ACE) inhibitors and is less than typically seen when other agents are added to existing ACE inhibitor regimens. Dual RAAS blockade results in additional reduction in proteinuria. Clinically insignificant increases in hyperkalemia and modest decreases in GFR occur. Data regarding long-term preservation of renal function are lacking. We suggest dual RAAS blockade be used in patients with chronic kidney disease with residual proteinuria on maximal ACE inhibitor or angiotensin II blocker therapy, anticipating additional data with ongoing trials.
 
 ---
 
-### Actual impact of angiotensin II receptor blocker or calcium channel blocker monotherapy on renal function in real-world patients [^4c66b3b5]. Journal of Hypertension (2022). Medium credibility.
+### Actual impact of angiotensin II receptor blocker or calcium channel blocker monotherapy on renal function in real-world patients [^112xGZDN]. Journal of Hypertension (2022). Medium credibility.
 
 Objective
 
@@ -712,7 +712,7 @@ From the present findings based on the real-world data, ARBs can be recommended 
 
 ---
 
-### Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine… [^b5207a48]. JAMA Network (2000). Excellent credibility.
+### Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine… [^115dXfiw]. JAMA Network (2000). Excellent credibility.
 
 Inhibition of the RAS blunts the maximal capacitance of organs such as the heart and kidney to respond to increased metabolic and physical demands. Clinical trial data support the observation that a small reduction in GFR or rise in serum creatinine level markedly slows renal disease progression. An analogous example in the cardiovascular system is the relationship between heart rate and cardiovascular events. Data support the concept that a reduction in heart rate, by β-blockers, reduces the incidence of cardiovascular events. Thus, we argue that an initial, limited, rise in serum creatinine level is beneficial within the context of preserving renal function. Two representative, long-term studies in patients with diabetic nephropathy illustrate that the initial reduction in GFR, following initiation of ACE inhibition, reverted to rates not significantly different from baseline 1 month after ACE inhibition was withdrawn.
 
@@ -722,7 +722,7 @@ The GFR returned to levels not different from baseline within 1 month of ACEI te
 
 ---
 
-### Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for adults with early (stage 1 to 3) non-diabetic chronic kidney disease [^e6d2b1e4]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for adults with early (stage 1 to 3) non-diabetic chronic kidney disease [^116uCvV1]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -750,43 +750,43 @@ There is currently insufficient evidence to determine the effectiveness of ACEi 
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^caafd5df]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^116BVZUa]. Kidney International (2024). High credibility.
 
 Practice Point 2.1.4 — hemodynamically active therapies and estimated GFR (eGFR) changes in CKD — states that GFR reductions of > 30% on subsequent testing exceed expected variability and warrant evaluation; early after intensive blood pressure (BP) control, reductions of 10%–20% within the first 3 months are typical, and acute rises in serum creatinine (SCr) or declines in eGFR of < 20%–30% are expected and do not warrant changes; post hoc SGLT2 inhibitor (SGLT2i) analyses found similar trajectories with > 10% initial drops except when the acute "dip" was > 30% from baseline; during initiation of anti-hypertensive agents, renin–angiotensin system inhibitors (RASi), mineralocorticoid receptor antagonists (MRA), or SGLT2i, a significant drop in eGFR (> 30%) should prompt a review into other causes and warrants close monitoring, and healthcare providers should avoid the urge to stop these kidney-protective agents as earlier "dips" are typically reversible and not an indication of drug toxicity.
 
 ---
 
-### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^1c3292a0]. American Journal of Kidney Diseases (2012). Medium credibility.
+### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^111ioe8P]. American Journal of Kidney Diseases (2012). Medium credibility.
 
 KDOQI Diabetes Guideline: 2012 Update — research priorities in diabetic kidney disease (DKD) state that, given the limitations of albuminuria as an outcome measure, studies are needed to evaluate durability of effects on urinary albumin excretion, and the categorization of albuminuria outcomes should be based on a minimum of two of three consecutive urine samples being in the same category. Consider an indication for regulatory approval based on demonstration of a lasting reduction in urinary albumin excretion, but conditional upon firm commitment to continue long-term studies to determine effects on GFR (glomerular filtration rate) loss and clinically relevant outcomes. Evaluate the relative roles of ACE-Is (angiotensin-converting enzyme inhibitors), ARBs (angiotensin receptor blockers), renin blockers, and mineralocorticoid receptor blockers on progression of DKD in patients with albuminuria. Kidney biopsy outcomes based on carefully measured structural variables that correlate strongly with GFR loss may reduce the duration of primary prevention or early intervention DKD clinical trials, and enzyme replacement for Fabry's Disease is given as an example. Clinical trials represent important opportunities to advance knowledge beyond addressing the primary hypotheses themselves, and protocols should include plans for acquiring and banking blood, urine, DNA, and other samples for eventual biomarker discovery and validation, with the DCCT cited as an example.
 
 ---
 
-### ACE inhibitors to prevent end-stage renal disease: when to start and why possibly never to stop: a post hoc analysis of the REIN trial results. ramipril efficacy in nephropathy [^da6559bb]. Journal of the American Society of Nephrology (2001). Low credibility.
+### ACE inhibitors to prevent end-stage renal disease: when to start and why possibly never to stop: a post hoc analysis of the REIN trial results. ramipril efficacy in nephropathy [^116anLuG]. Journal of the American Society of Nephrology (2001). Low credibility.
 
 In this post hoc, secondary analysis of the Ramipril Efficacy In Nephropathy (REIN) trial, an angiotensin-converting enzyme (ACE) inhibition risk/benefit profile was assessed in 322 patients with nondiabetic, proteinuric chronic nephropathies and different degrees of renal insufficiency. The rate of GFR decline (Delta GFR) and the incidence of end-stage renal disease (ESRD) during ramipril or non-ACE inhibitor treatment were compared within three tertiles of basal GFR. Delta GFR was comparable in the three tertiles, whereas the incidence of ESRD was higher in the lowest tertile than in the middle and highest tertiles. Ramipril decreased Delta GFR by 22%, 22%, and 35% and the incidence of ESRD by 33% (P < 0.05), 37%, and 100% (P < 0.01) in the lowest, middle, and highest tertiles, respectively. Delta GFR reduction was predicted by basal systolic (P < 0.0001), diastolic (P = 0.02), and mean (P < 0.001) BP and proteinuria (P < 0.0001) but not by basal GFR (P = 0.12). ESRD risk reduction was predicted by basal proteinuria (P < 0.01) and GFR (P < 0.0001) and was strongly dependent on treatment duration (P < 0.0001). Adverse events were comparable among the three tertiles and within each tertile in the two treatment groups. Thus, disease progression and response to ACE inhibition do not depend on severity of renal insufficiency. The risk of ESRD and the absolute number of events saved by ACE inhibition is highest in patients with the lowest GFR. However, renoprotection is maximized when ACE inhibition is started earlier and when long-lasting treatment may result in GFR stabilization and definitive prevention of ESRD.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^87d3a536]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114UNRED]. Kidney International (2024). High credibility.
 
 Renin-angiotensin-system inhibitors (RASi) in CKD with normal to mildly increased albuminuria and during eGFR decline — KDIGO practice points advise selective initiation and continuation. Practice Point 3.6.6: "Consider starting people with CKD with normal to mildly increased albuminuria (A1) on RASi (ACEi or ARB) for specific indications (e.g., to treat hypertension or heart failure with low ejection fraction)". Practice Point 3.6.7: "Continue ACEi or ARB in people with CKD even when the eGFR falls below 30 ml/min per 1.73 m2".
 
 ---
 
-### Rationale for combination angiotensin receptor blocker and angiotensin-converting enzyme inhibitor treatment and end-organ protection in patients with chronic kidney disease [^669e602f]. American Journal of Nephrology (2008). Low credibility.
+### Rationale for combination angiotensin receptor blocker and angiotensin-converting enzyme inhibitor treatment and end-organ protection in patients with chronic kidney disease [^113d8w9p]. American Journal of Nephrology (2008). Low credibility.
 
 Chronic kidney disease (CKD) is a major public health problem that has received increasing attention because of the high rate of associated cardiovascular morbidity and mortality. Mounting evidence indicates that angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs), drugs that inhibit the renin-angiotensin-aldosterone system (RAAS) safely slow down progression of CKD. There is also growing evidence supporting combination treatment of nephropathies with an ACE inhibitor plus an ARB to more completely block the RAAS and provide greater renoprotection than either an ACE inhibitor-based or ARB-based regimen. The National Kidney Foundation suggests that ACE inhibitors and ARBs may be used in combination to reduce proteinuria in patients with kidney disease; however, larger outcomes trials are needed.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^7dd4f14d]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^114DYygY]. Kidney International (2021). High credibility.
 
 Network meta-analysis of RAS inhibition in CKD — effects on kidney failure and cardiovascular events: A recent network meta-analysis including 119 RCTs (n = 64,768) examined treatment with RASi versus placebo or active therapy in CKD; both angiotensin-converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARB) reduced the risk of kidney failure (doubling of serum creatinine, 50% decline in GFR, or ESKD) by 39% and 30%, respectively, compared to placebo with high certainty; and 35% and 25%, respectively, against active controls with moderate certainty, and both ACEi and ARB reduced major CV events compared to placebo (18% for ACEi and 24% for ARB).
 
 ---
 
-### Management of hypertension and renin-angiotensin-aldosterone system blockade in adults with diabetic kidney disease: association of British clinical diabetologists and the renal association UK guideline update 2021 [^0253f48c]. BMC Nephrology (2022). Medium credibility.
+### Management of hypertension and renin-angiotensin-aldosterone system blockade in adults with diabetic kidney disease: association of British clinical diabetologists and the renal association UK guideline update 2021 [^1114TB9M]. BMC Nephrology (2022). Medium credibility.
 
 When should RAAS blockade be stopped?
 
@@ -800,7 +800,7 @@ Hypertension management and renin-angiotensin-aldosterone system blockade in peo
 
 ---
 
-### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^7cb69bc4]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Multicentre randomized controlled trial of angiotensin-converting enzyme inhibitor / angiotensin receptor blocker withdrawal in advanced renal disease: the STOP-ACEi trial [^114BtoSj]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 ETHICAL COMMITTEE APPROVAL
 
@@ -808,13 +808,13 @@ Ethical approval for STOP-ACEi was granted by the National Research Ethics Servi
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^fa735bde]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117QJepm]. Kidney International (2024). High credibility.
 
 Regarding medical management for chronic kidney disease, more specifically with respect to RAAS inhibitors, ACEis/ARBs, KDIGO 2024 guidelines recommend to assess for changes in BP, serum creatinine, and serum potassium within 2–4 weeks of initiation or increase in the dose of a renin-angiotensin-system inhibitor, depending on the current GFR and serum potassium.
 
 ---
 
-### Using ACE inhibitors and ARBs in advanced chronic… [^fe93c28e]. AAFP (2023). Medium credibility.
+### Using ACE inhibitors and ARBs in advanced chronic… [^117WRVBB]. AAFP (2023). Medium credibility.
 
 Clinical Question In patients with advanced chronic kidney disease, does the continued use of renin-angiotensin system inhibitors have a worsening effect on renal function. Bottom Line Although some experts have recommended the discontinuation of renin-angiotensin system inhibitors in patients with advanced CKD, the study supports their continuation with no evidence of harm and a possible reduction in the need for renal replacement therapy. Synopsis Renin-angiotensin system inhibitors include angiotensin receptor blockers and angiotensin-converting enzyme inhibitors. Although their use in mild to moderate CKD slows progression of the disease, their use in patients with advanced CKD is not known. The U. K. investigators identified adults with stage IV or V CKD and a decrease in GFR of 2 mL per minute per 1.
 
@@ -826,31 +826,31 @@ Patients in the continuation group had a strong trend toward a lower rate of req
 
 ---
 
-### Comprehensive suppression of the renin-angiotensin-aldosterone system in chronic kidney disease: covering all of the bases [^3229e899]. Kidney International (2006). Low credibility.
+### Comprehensive suppression of the renin-angiotensin-aldosterone system in chronic kidney disease: covering all of the bases [^112HNTY4]. Kidney International (2006). Low credibility.
 
 Reducing proteinuria and blood pressure in chronic kidney disease (CKD) decreases rate of progression. Inhibition of the renin-angiotensin system by angiotensin-converting enzyme inhibitors and/or angiotensin receptor blockers is beneficial in reducing proteinuria but incomplete in suppressing aldosterone production and its renal effects. Adding aldosterone receptor blockers to these other agents may further halt the progression of CKD.
 
 ---
 
-### Initiating renin-angiotensin system inhibitors in chronic kidney disease [^c1369a8e]. Drug and Therapeutics Bulletin (2025). Medium credibility.
+### Initiating renin-angiotensin system inhibitors in chronic kidney disease [^115wSxA1]. Drug and Therapeutics Bulletin (2025). Medium credibility.
 
 Chronic kidney disease (CKD) is a heterogeneous group of disorders characterised by abnormalities in kidney structure or function, present for at least 3 months. Renin-angiotensin system (RAS) inhibitors are established treatments in the management of CKD, reducing the risk of adverse kidney and cardiovascular events. Despite an extensive evidence base and decades of clinical experience, they remain underused, underdosed and frequently discontinued due to concerns about changes in kidney function and hyperkalaemia. In this article, we provide an overview of initiating RAS inhibitors in adults with CKD, highlight current guideline recommendations and offer a practical approach to dealing with the challenges associated with their use.
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^33d4853d]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^112Kqkc4]. Journal of the American College of Cardiology (2025). High credibility.
 
 Chronic kidney disease (CKD) — supportive evidence and ACEi/ARB monitoring: SPRINT data demonstrated adults with CKD and hypertension can be effectively and safely treated to SBP < 130 mm Hg, and meta-analyses have shown benefit of treating SBP < 130 mm Hg versus higher SBP targets. An analysis of CKD patients from 4 trials found that an SBP target of < 130 mm Hg (versus < 140 mm Hg) decreased all-cause mortality; a meta-analysis of the CKD subsets from 18 trials reported that more-intensive SBP (mean SBP 132 mm Hg) versus less-intensive SBP (mean SBP 140 mm Hg) control resulted in 14% reduction in all-cause mortality. While < 120 mm Hg is more effective at preventing CVD events, meta-analyses of trial data support an SBP < 130 mm Hg to balance the benefits of intensive BP-lowering with the risks of adverse events. ACEi or ARB reduce intraglomerular pressure, which may cause a transient decrease, or dip, in eGFR up to 30%, and this short-term decline in eGFR is not associated with decreased long-term outcomes and should not prompt discontinuation of the ACEi or ARB. Electrolytes should be rechecked 2 to 4 weeks after initiating or intensifying ACEi or ARB dosage, monitoring for hyperkalemia or a decline in eGFR of > 30%, which may require reducing or holding the agent temporarily or additional evaluation. ACEi or ARB can be continued in people with eGFR < 30 mL/min/1.73 m2 as an RCT found that discontinuation was not associated with a significant difference in long-term decrease in eGFR, and the combined use of an ACEi and an ARB should be avoided because of increased harm.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^745421f8]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^113yTpj9]. Kidney International (2021). High credibility.
 
 Network meta-analysis of RAS inhibitors in CKD: A recent network meta-analysis including 119 randomized controlled trials (RCTs) (n = 64,768) examined RASi versus placebo or active therapy in CKD and found both angiotensin-converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (ARBs) reduced the risk of kidney failure — defined as doubling of serum creatinine, 50% decline in GFR, or ESKD — by 39% and 30%, respectively, compared to placebo with high certainty; and by 35% and 25%, respectively, against active controls with moderate certainty; major CV events were reduced compared to placebo (18% for ACEi and 24% for ARB).
 
 ---
 
-### Clinical implications of estimated glomerular filtration rate dip following sodium-glucose cotransporter-2 inhibitor initiation on cardiovascular and kidney outcomes [^20d8c1cb]. Journal of the American Heart Association (2021). Medium credibility.
+### Clinical implications of estimated glomerular filtration rate dip following sodium-glucose cotransporter-2 inhibitor initiation on cardiovascular and kidney outcomes [^111qhQnW]. Journal of the American Heart Association (2021). Medium credibility.
 
 Our analyses of factors associated with eGFR discontinuation suggest that the occurrence of adverse events, hospitalization, or increase in HbA1c (a marker of worsening glycemic control) was associated with discontinuation of SGLT2i. Furthermore, eGFR dip > 30% was also associated with increased risk of discontinuation. These results may be useful in guiding efforts to examine whether some of these patient groups may benefit from resumption of treatment with SGLT2i.
 
@@ -858,7 +858,7 @@ The mechanism underpinning the eGFR dip in SGLT2i is not entirely clear. It has 
 
 ---
 
-### Renin-angiotensin system inhibition in advanced chronic kidney disease: how low can the kidney function go? [^4a0fd3f4]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Renin-angiotensin system inhibition in advanced chronic kidney disease: how low can the kidney function go? [^112toQD1]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -874,7 +874,7 @@ On the basis of our literature review, evidence suggests continuing ACEi/ARB the
 
 ---
 
-### Discontinuation of renin-angiotensin system inhibitors and clinical outcomes in chronic kidney disease: a systemic review and meta-analysis [^e12d02a8]. American Journal of Nephrology (2023). Medium credibility.
+### Discontinuation of renin-angiotensin system inhibitors and clinical outcomes in chronic kidney disease: a systemic review and meta-analysis [^116kqLHD]. American Journal of Nephrology (2023). Medium credibility.
 
 Statement of Ethics
 
@@ -882,7 +882,7 @@ An ethics statement is not applicable because this study is based exclusively on
 
 ---
 
-### Blood pressure management… [^409cc07a]. AAFP (2020). Medium credibility.
+### Blood pressure management… [^112enros]. AAFP (2020). Medium credibility.
 
 - Treating type 2 diabetes with metformin in CKD reduces mortality and can be continued until eGFR drops to 30 mL per minute per 1. 73 m
 2. SGLT-2 inhibitors and GLP-1 receptor agonists also improve outcomes in CKD. From the AFP Editors. Dietary Recommendations Dietary sodium restriction to reduce proteinuria and to improve blood pressure control should be considered. Studies have evaluated various thresholds, but limiting intake to about 2, 000 mg per day is generally accepted. Limiting dietary protein intake to 0. 6 to
@@ -896,13 +896,13 @@ Based on a post-hoc trial analysis, GLP-1 receptor agonists appear to reduce maj
 
 ---
 
-### Reduction of proteinuria with angiotensin receptor blockers [^a8e1ad3b]. Nature Clinical Practice: Cardiovascular Medicine (2008). Medium credibility.
+### Reduction of proteinuria with angiotensin receptor blockers [^115KNit2]. Nature Clinical Practice: Cardiovascular Medicine (2008). Medium credibility.
 
 Renal pathophysiology is elicited by activation of angiotensin II type 1 (AT(1)) receptors at all stages of renovascular disease. Angiotensin receptor blockers (ARBs) that specifically block the AT(1) receptor offer the potential to prevent or delay progression to end-stage renal disease independently of reductions in blood pressure. Proteinuria — an early and sensitive marker for progressive renal dysfunction — is reduced by ARB use in patients with type 2 diabetic nephropathy and microalbuminuria or macroalbuminuria. Retrospective analysis of data available from early trials has confirmed this finding and has shown that albuminuria reduction is associated with lessening of cardiovascular risk. The ARB telmisartan is equivalent to enalapril in preventing glomerular filtration rate decline, and equivalent to valsartan in reducing proteinuria. Telmisartan is more effective than conventional therapy in lowering the risk of transition to overt nephropathy in hypertensive and normotensive patients. An additive effect has been seen in smaller studies when telmisartan has been added to lisinopril therapy, and high-dose telmisartan reduces albuminuria better than low-dose telmisartan. Similar data were obtained with other ARBs such as candesartan, losartan, valsartan, or irbesartan. These data support the proposition that blockade of the renin-angiotensin system beyond that required for maximum blood pressure reduction provides optimum renal protection.
 
 ---
 
-### Change in renal function associated with drug treatment in heart failure: national guidance [^dd7c7130]. Heart (2019). Medium credibility.
+### Change in renal function associated with drug treatment in heart failure: national guidance [^116fN4cF]. Heart (2019). Medium credibility.
 
 Changes in kidney function after initiation of drug treatment
 
@@ -916,7 +916,7 @@ One of the pitfalls in caring for patients with heart failure is premature disco
 
 ---
 
-### Aldosterone antagonists in addition to renin angiotensin system antagonists for preventing the progression of chronic kidney disease [^d4cb6cd4]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Aldosterone antagonists in addition to renin angiotensin system antagonists for preventing the progression of chronic kidney disease [^116SUhnT]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -948,7 +948,7 @@ The effects of aldosterone antagonists when added to ACEi or ARB (or both) on th
 
 ---
 
-### Renin-angiotensin system blockade discontinuation and mortality in persons with low estimated glomerular filtration rate… [^cd2e7a58]. JAMA Network (2020). Excellent credibility.
+### Renin-angiotensin system blockade discontinuation and mortality in persons with low estimated glomerular filtration rate… [^116FC5EX]. JAMA Network (2020). Excellent credibility.
 
 These findings suggest that continued angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker use is associated with cardiovascular health benefits in individuals with an eGFR below 30 mL/min/1. 73 m2, without increased risk of progression to end-stage kidney disease. Importance It is uncertain whether and when angiotensin-converting enzyme inhibitor and angiotensin II receptor blocker treatment should be discontinued in individuals with low estimated glomerular filtration rate. We compared individuals who stopped ACE-I or ARB therapy within 6 months after a decrease in eGFR to below 30 mL/min/1. 73 m2 with those who did not discontinue therapy. We defined discontinuation as a gap in therapy longer than 60 days that occurred before T0. We allowed for switching between ACE-I and ARB or to different medications within each class given evidence suggesting that ACE-Is and ARBs share similar mechanisms, benefits, and risks. 4, 5, 11.
 
@@ -958,7 +958,7 @@ Similar patterns held for individuals with a 40% or greater decrease in eGFR. Ou
 
 ---
 
-### Initial decline (dip) in estimated glomerular filtration rate after initiation of dapagliflozin in patients with heart failure and reduced ejection fraction: insights from DAPA-HF [^3e59abdd]. Circulation (2022). Medium credibility.
+### Initial decline (dip) in estimated glomerular filtration rate after initiation of dapagliflozin in patients with heart failure and reduced ejection fraction: insights from DAPA-HF [^112bSMQp]. Circulation (2022). Medium credibility.
 
 Clinical Perspective
 
@@ -970,7 +970,7 @@ It is therefore important to understand the frequency and extent of an early dec
 
 ---
 
-### Angiotensin-converting-enzyme inhibitors and angiotensin receptor blockers for preventing the progression of diabetic kidney disease [^71a6da10]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Angiotensin-converting-enzyme inhibitors and angiotensin receptor blockers for preventing the progression of diabetic kidney disease [^113uVeP1]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 Background
 
@@ -1002,7 +1002,7 @@ ACEi or ARB may make little or no difference to all-cause and cardiovascular dea
 
 ---
 
-### The role of calcium antagonists in chronic kidney disease [^91792277]. Current Opinion in Nephrology and Hypertension (2004). Low credibility.
+### The role of calcium antagonists in chronic kidney disease [^114iftkn]. Current Opinion in Nephrology and Hypertension (2004). Low credibility.
 
 Purpose Of Review
 
@@ -1018,7 +1018,7 @@ Use of calcium antagonists is safe and necessary to achieve blood pressure goals
 
 ---
 
-### Management of low blood pressure in ambulatory heart failure with reduced ejection fraction patients [^bf928487]. European Journal of Heart Failure (2020). Medium credibility.
+### Management of low blood pressure in ambulatory heart failure with reduced ejection fraction patients [^115u1rDk]. European Journal of Heart Failure (2020). Medium credibility.
 
 Step II: Identify hypotensive factors unrelated to heart failure with reduced ejection fraction and stop/reduce non‐heart failure with reduced ejection fraction blood pressure‐lowering therapies
 
@@ -1031,13 +1031,13 @@ Decision tree for a heart failure with reduced ejection fraction patient with lo
 
 ---
 
-### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^e789c88f]. American Journal of Kidney Diseases (2007). Medium credibility.
+### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^116vGRLS]. American Journal of Kidney Diseases (2007). Medium credibility.
 
 KDOQI diabetes and CKD — type 2 diabetes with macroalbuminuria: Angiotensin receptor blockers (ARBs) are stated to be "more effective than other antihypertensive classes in slowing progression of kidney disease characterized by macroalbuminuria in hypertensive patients with type 2 diabetes", and this is supported by "high-quality randomized controlled trials" demonstrating ARBs slow "the decline in GFR and onset of kidney failure" in this population.
 
 ---
 
-### Effect of SGLT2 inhibitors on discontinuation of renin-angiotensin system blockade: a joint analysis of the CREDENCE and DAPA-CKD trials [^911550ff]. Journal of the American Society of Nephrology (2023). Medium credibility.
+### Effect of SGLT2 inhibitors on discontinuation of renin-angiotensin system blockade: a joint analysis of the CREDENCE and DAPA-CKD trials [^114i6N94]. Journal of the American Society of Nephrology (2023). Medium credibility.
 
 Significance Statement
 
@@ -1069,19 +1069,19 @@ This article contains a podcast at https://dts.podtrac.com/redirect.mp3/www.asn-
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^9a32eac3]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^114wcCLr]. DoD/VA (2025). High credibility.
 
 Angiotensin-converting enzyme inhibitor or angiotensin II receptor blocker use in CKD — benefits, risks, and recommendation strength are summarized as follows: The benefits of using either an ACEI or ARB to slow the progression of CKD outweighed the potential harm of cough, angioedema, or hyperkalemia. ACEI and ARB should not be combined due to an increased risk of AKI and hyperkalemia, and clinicians should counsel patients about the possible teratogenic effects of ACEI and ARB. Therefore, it is categorized as Reviewed, Amended, the Work Group's confidence in the quality of the evidence was High, and thus the Work Group decided upon a Strong for recommendation.
 
 ---
 
-### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^fd97b52e]. American Journal of Kidney Diseases (2007). Medium credibility.
+### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^117UxpoX]. American Journal of Kidney Diseases (2007). Medium credibility.
 
 Renin–angiotensin system blockade in diabetes and chronic kidney disease (CKD) — given the proven cardiovascular benefits and shared properties of angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) in inhibiting the renin–angiotensin system (RAS), either type of agent should be strongly considered for people with diabetes and CKD because they reduce the risk of both cardiovascular disease (CVD) events and progression of kidney disease.
 
 ---
 
-### Long-term effects of addition of mineralocorticoid receptor antagonist to angiotensin II receptor blocker in patients with diabetic nephropathy: a randomized clinical trial [^a9e02e46]. Nephrology, Dialysis, Transplantation (2013). Low credibility.
+### Long-term effects of addition of mineralocorticoid receptor antagonist to angiotensin II receptor blocker in patients with diabetic nephropathy: a randomized clinical trial [^115LrD25]. Nephrology, Dialysis, Transplantation (2013). Low credibility.
 
 Background
 
@@ -1101,7 +1101,7 @@ Addition of SPR to ARB provides added benefits with respect to BP control and pr
 
 ---
 
-### Current management of chronic kidney disease in type-2 diabetes – A tiered approach: an overview of the joint association of British clinical diabetologists and UK kidney association (ABCD-UKKA) guidelines [^80981f2c]. Diabetic Medicine (2025). Medium credibility.
+### Current management of chronic kidney disease in type-2 diabetes – A tiered approach: an overview of the joint association of British clinical diabetologists and UK kidney association (ABCD-UKKA) guidelines [^114HeWeF]. Diabetic Medicine (2025). Medium credibility.
 
 2.2.1 Use of renin‐angiotensin blocking agents
 
@@ -1113,36 +1113,36 @@ Dual RAS inhibition has not been shown to provide additional benefit and in fact
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^c148b07a]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^115wZ2VX]. Kidney International (2021). High credibility.
 
 KDIGO 2021 blood pressure in chronic kidney disease — Practice Point 3.2.1 states that it may be reasonable to treat people with high BP, CKD, and no albuminuria, with or without diabetes, with RASi (ACEi or ARB); this rationale notes that patients with CKD, high BP, and no albuminuria are at lower risk of CKD progression, existing evidence does not demonstrate clear clinical benefits of RASi for CKD progression and other antihypertensive agents are as appropriate for BP management, though some patients may value CV protection and accept potential harms, particularly those with higher GFR and a relatively low risk of harm.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^64674f75]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^113ZrTq6]. Kidney International (2021). High credibility.
 
 Section 3.2 — antihypertensive drugs including renin–angiotensin system inhibitors (RASi): Recommendations on initiation of RASi apply only to chronic kidney disease (CKD) G1–G4 since there is currently no randomized controlled trial (RCT) evidence on their use in CKD G5, and the benefits and harms of initiation, continuation, or discontinuation of RASi in CKD G5 have not been tested in RCTs; subgroup assessments used albuminuria categories A1 (ACR < 30 mg/g), A2 (30–300 mg/g), and A3 (> 300 mg/g).
 
 ---
 
-### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^490dadcc]. Diabetes Care (2025). High credibility.
+### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^112sJh4P]. Diabetes Care (2025). High credibility.
 
 ACE inhibitors and angiotensin receptor blockers in diabetes with CKD — preferred indications and dosing emphasize albuminuria thresholds and use of maximum tolerated doses: ACE inhibitors or ARBs are the preferred first-line agents for blood pressure treatment among people with diabetes, hypertension, eGFR < 60 mL/min/1.73 m2, and UACR ≥ 300 mg/g [creatinine], and in the setting of lower levels of albuminuria (30–299 mg/g [creatinine]) therapy at maximum tolerated doses reduced progression to more advanced albuminuria (≥ 300 mg/g creatinine), slowed CKD progression, and reduced cardiovascular events but has not reduced progression to ESKD; while ACE inhibitors or ARBs are often prescribed for moderately increased albuminuria (30–299 mg/g [creatinine]) without hypertension, outcome trials have not been performed, and two long-term, double-blind studies demonstrated no renoprotective effect when initiated in people with normal albuminuria or hypertension alone without albuminuria; it is also noted that not maximizing these therapies due to creatinine rise concerns would not be considered optimal care and that trials used maximum tolerated doses, there are no studies demonstrating outcome benefits on both mortality and slowed CKD progression in people with diabetes who have an eGFR < 30 mL/min/1.73 m2, and when increases in serum creatinine reach 30% without associated hyperkalemia, RAS blockade should be continued.
 
 ---
 
-### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^6a023252]. Journal of the American Heart Association (2019). Medium credibility.
+### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^113iARfX]. Journal of the American Heart Association (2019). Medium credibility.
 
 Such effects have been shown in the trials of gliflozins to treat diabetes mellitus and reduce cardiovascular end points as well. 14, 15, 16 These inhibitors of the sodium‐dependent tubular glucose‐(re)transporter reduce osmotic pressure against the glomerular basement membrane by abandoning glucose reabsorption. Typically, patients receiving this new class of drugs experience modest early GFR decline, but a favorable renal outcome thereafter. Using gliflozins, the early GFR decrease is nowadays discussed as an advantageous sign of nephroprotection. 17 Following this reasoning, a growing clinical community might agree that there is no need to skip RAS blocker, antihypertensives, or gliflozins in all patients experiencing initial therapy‐induced GFR decrease. Instead, the key to find the appropriate treatment algorithm is to consider the particular clinical and pathophysiological situation. Only when GFR decrease is accompanied by significant and sustained systolic blood pressure decrease to < 110 mm Hg (eg, caused by hypovolemia with acute kidney failure), we recommend discontinuation of this medication until blood pressure has normalized. On the other hand, conditions associated with activated RAS (diabetes mellitus, congestive heart failure, and nephrotic syndrome) do compose additional arguments to sustain RAS blockade. In any case, after getting through critical phases, to maintain or reconstitute such medication should be a prioritized goal. To answer the colleague′s opening web forum question: When a GFR decrease is certifiable, physicians should carefully monitor GFR and albuminuria (at least 3 months, following the presented study of Cooper et al 1). If albuminuria decreases, systemic blood pressure is not critically reduced, and no additional hypovolemia is present, most patients with stage 3 chronic kidney disease are likely to restore their baseline function and to benefit from this mechanism of expedient reduced intraglomerular pressure in the long‐term.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^b4d0c25b]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^115d4tga]. Kidney International (2021). High credibility.
 
 KDIGO 2021 — CKD without diabetes and severely increased albuminuria (A3) — We recommend starting renin-angiotensin-system inhibitors (RASi) (angiotensin-converting enzyme inhibitor [ACEi] or angiotensin II receptor blocker [ARB]) for people with high BP, CKD, and severely increased albuminuria (G1–G4, A3) without diabetes. (1B). Supporting evidence includes the Ramipril Efficacy In Nephropathy (REIN) program: in REIN Stratum-2, a study of 166 patients with proteinuria ≥ 3 g per 24 hours, the monthly decline in GFR was significantly lower in the ramipril group (0.53 ml/min) than the placebo group (0.88 ml/min), and the composite of doubling of serum creatinine or ESKD occurred in 18 versus 40 participants (ramipril vs placebo, P = 0.02); in REIN Stratum-1 of 186 patients with proteinuria of > 1 to < 3 g/d, the decline in GFR was not different, but ESKD events were less with ramipril.
 
 ---
 
-### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^a8c9f9cb]. Journal of the American Heart Association (2019). Medium credibility.
+### Early rapid decline in kidney function as a beneficial sign after starting antihypertensive medication [^115KEm9c]. Journal of the American Heart Association (2019). Medium credibility.
 
 However, if initial worsening of kidney function after medication initiation is long‐term beneficial (and not only hazard free) has not been proved definitely in all RAS trials yet. This question looks like the key idea of the current post hoc CORAL trial analysis. Authors analyzed 359 patients from the medical therapy group for occurrence of rapid decline of renal function (at 3 and 6 months or at both time points) and what happened in 66 of these 359 patients (18%). They analyzed baseline parameters and further course of renal function (up to 5 years) for examination of risk factors associated with rapid decline. Baseline renal function, age, and logarithmic urine albumin/creatinine ratio discriminated between patients experiencing rapid decline at 3 or 6 months or not, and decline "was associated with an improvement in eGFR [estimated GFR] at 1‐year (6.9%, P = 0.04), as was baseline logarithmic urine albumine/creatinine ratio (−1.8%, P = 0.007), and baseline cystatin C (14.2%, P < 0.001)". 1 This is an intriguing effect, but does not answer the extended question, if GFR decline is advantageous compared with having no decline because patients in whom GFR declined were compared with their own baseline and not with the group in whom GFR did not decline. Moreover, nephroprotection exerted by reduced transmembrane glomerular pressure, as it is supposed in these patients, should be accompanied by reduced proteinuria, an issue that was not investigated in the study but is well known in clinical practice. Anyhow, the rapid declining group reconstituted their baseline function after a period of 6 to 12 months and up to a time period of 5 years in some patients. A complex, but important, figure providing GFR course in every single patient shows virtually no patient experiencing exaggerated GFR loss during follow‐up, despite declining from baseline to 3 or 6 months. Interestingly, few patients restored their baseline GFR as late as 2 years after decline. Other long‐term clinical outcomes (cardiovascular and renal death and cardiovascular events) were similar between GFR‐declining and nondeclining patients as well. The authors conclude "that patients continuing medical treatment after declining kidney function often experience a [later] improvement in kidney function" and take such proof to advise that an "early rapid GFR decline in renal function with medical treatment may not be an indication for stenting". Although this statement can be agreed on, a further issue of clinical relevance apart from the stenting question could be added: Without regard to endovascular therapy and although having a renal artery stenosis, decline of (excretory) renal function after initiation of medications affecting glomerular perfusion is not unfavorable per se. Physicians should consider that diminishing intraglomerular perfusion pressure (by RAS blockers or simply blood pressure reduction) might result in decreased GFR but at the same time may convey nephroprotective effects in the long run by reducing transmembrane glomerular injury.

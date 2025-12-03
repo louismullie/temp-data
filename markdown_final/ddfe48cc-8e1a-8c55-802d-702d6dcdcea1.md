@@ -15,29 +15,29 @@ high PTH, Hypomagnesemia
 
 > Let's see… What do we have here? The user is asking about the relationship between high parathyroid hormone (PTH) and hypomagnesemia, including mechanisms, clinical contexts, diagnostic implications, and management. Let's break this down step-by-step. First, I need to think about the bidirectional relationship between magnesium and PTH. Then, I should verify the mechanisms by which hypomagnesemia affects PTH secretion and action. Next, I will examine clinical scenarios where high PTH and low magnesium coexist, followed by diagnostic pitfalls and how to interpret labs. Finally, I will outline management principles and special considerations, and close with a concise synthesis that ties mechanism to bedside practice.
 
-> Let me first confirm the bidirectional relationship. Magnesium and PTH regulate each other: magnesium influences PTH secretion and target-organ responsiveness, while PTH modulates renal magnesium handling, so changes in one can alter the other in a feedback loop that is clinically relevant in several settings [^177b009e] [^177b009e].
+> Let me first confirm the bidirectional relationship. Magnesium and PTH regulate each other: magnesium influences PTH secretion and target-organ responsiveness, while PTH modulates renal magnesium handling, so changes in one can alter the other in a feedback loop that is clinically relevant in several settings [^111bp2mB] [^111bp2mB].
 
-> I will now examine the effect of hypomagnesemia on PTH. Wait, let me verify the directionality because it is easy to misstate. Moderate hypomagnesemia tends to stimulate PTH secretion, whereas severe hypomagnesemia paradoxically suppresses PTH release and induces PTH resistance at target tissues, producing functional hypoparathyroidism and refractory hypocalcemia that does not correct with calcium alone until magnesium is repleted [^5f146917] [^177b009e] [^1952e26c].
+> I will now examine the effect of hypomagnesemia on PTH. Wait, let me verify the directionality because it is easy to misstate. Moderate hypomagnesemia tends to stimulate PTH secretion, whereas severe hypomagnesemia paradoxically suppresses PTH release and induces PTH resistance at target tissues, producing functional hypoparathyroidism and refractory hypocalcemia that does not correct with calcium alone until magnesium is repleted [^113RxgQE] [^111bp2mB] [^111eYXmM].
 
-> Hold on, I should verify the mechanism. Severe magnesium deficiency disrupts stimulus–secretion coupling in parathyroid cells and can activate CaSR-like signaling pathways that inhibit PTH release; it also impairs adenylate cyclase and downstream cAMP signaling, causing both impaired secretion and end-organ resistance, which explains why hypocalcemia persists despite low or inappropriately normal PTH in severe hypomagnesemia [^5f146917].
+> Hold on, I should verify the mechanism. Severe magnesium deficiency disrupts stimulus–secretion coupling in parathyroid cells and can activate CaSR-like signaling pathways that inhibit PTH release; it also impairs adenylate cyclase and downstream cAMP signaling, causing both impaired secretion and end-organ resistance, which explains why hypocalcemia persists despite low or inappropriately normal PTH in severe hypomagnesemia [^113RxgQE].
 
-> Next, I should review the effect of PTH on magnesium. PTH increases renal magnesium reabsorption in the distal convoluted tubule, so sustained hyperparathyroidism can theoretically raise serum magnesium, but in primary hyperparathyroidism the dominant effect of hypercalcemia often increases renal magnesium wasting, yielding normal or mildly low magnesium despite higher PTH, which complicates the picture and can mask magnesium deficits [^5f146917] [^177b009e].
+> Next, I should review the effect of PTH on magnesium. PTH increases renal magnesium reabsorption in the distal convoluted tubule, so sustained hyperparathyroidism can theoretically raise serum magnesium, but in primary hyperparathyroidism the dominant effect of hypercalcemia often increases renal magnesium wasting, yielding normal or mildly low magnesium despite higher PTH, which complicates the picture and can mask magnesium deficits [^113RxgQE] [^111bp2mB].
 
-> Let me consider clinical contexts where high PTH and hypomagnesemia coexist. In primary hyperparathyroidism, about a quarter of patients have hypomagnesemia, and those with hypomagnesemia tend to have more severe hypercalcemia and more pronounced clinical manifestations, suggesting magnesium status tracks disease severity in PHPT cohorts [^77d7dfdc] [^6272377a]. In secondary hyperparathyroidism due to CKD, hypomagnesemia is less common and hypermagnesemia is more typical, but when hypomagnesemia does occur, it can suppress PTH and blunt the expected secondary hyperparathyroid response, creating a mixed biochemical picture [^bd5096af] [^eb627ee3]. In Gitelman syndrome, chronic hypomagnesemia is associated with a high prevalence of hypoparathyroidism, likely via CaSR-dependent mechanisms and impaired PTH secretion, illustrating a direct link between low magnesium and low or inappropriately normal PTH in that population [^91701143] [^b60e5030].
+> Let me consider clinical contexts where high PTH and hypomagnesemia coexist. In primary hyperparathyroidism, about a quarter of patients have hypomagnesemia, and those with hypomagnesemia tend to have more severe hypercalcemia and more pronounced clinical manifestations, suggesting magnesium status tracks disease severity in PHPT cohorts [^1144g37H] [^113Wx9jo]. In secondary hyperparathyroidism due to CKD, hypomagnesemia is less common and hypermagnesemia is more typical, but when hypomagnesemia does occur, it can suppress PTH and blunt the expected secondary hyperparathyroid response, creating a mixed biochemical picture [^115qfjFk] [^1171yB5L]. In Gitelman syndrome, chronic hypomagnesemia is associated with a high prevalence of hypoparathyroidism, likely via CaSR-dependent mechanisms and impaired PTH secretion, illustrating a direct link between low magnesium and low or inappropriately normal PTH in that population [^114icr7U] [^115euZ8j].
 
-> But wait, what if the PTH is high and magnesium is low in a different context? I need to check for confounders. Vitamin D deficiency, metabolic syndrome, and obesity can elevate PTH, and concurrent medications or renal tubular defects can lower magnesium, so coexistence does not always imply causality; careful phenotyping and medication review are essential to avoid misattribution [^a92ffe33] [^5e223410] [^d850c485].
+> But wait, what if the PTH is high and magnesium is low in a different context? I need to check for confounders. Vitamin D deficiency, metabolic syndrome, and obesity can elevate PTH, and concurrent medications or renal tubular defects can lower magnesium, so coexistence does not always imply causality; careful phenotyping and medication review are essential to avoid misattribution [^115Kq2c2] [^113QZKps] [^116XhTMN].
 
-> Next, I should review diagnostic implications. In hypocalcemia, I should confirm magnesium before assuming hypoparathyroidism or PTH resistance, because hypomagnesemia can produce inappropriately low or normal PTH and refractory hypocalcemia that only responds once magnesium is corrected; conversely, in PHPT, recognizing hypomagnesemia may flag more severe disease and guide closer monitoring and perioperative planning [^1952e26c] [^77d7dfdc] [^5f6a48a2].
+> Next, I should review diagnostic implications. In hypocalcemia, I should confirm magnesium before assuming hypoparathyroidism or PTH resistance, because hypomagnesemia can produce inappropriately low or normal PTH and refractory hypocalcemia that only responds once magnesium is corrected; conversely, in PHPT, recognizing hypomagnesemia may flag more severe disease and guide closer monitoring and perioperative planning [^111eYXmM] [^1144g37H] [^113STXM3].
 
-> I will now examine management principles. For severe or symptomatic hypomagnesemia with hypocalcemia, I should prioritize IV magnesium repletion to restore PTH secretion and action, then add calcium and active vitamin D as needed; in chronic hypomagnesemia, oral magnesium with attention to gastrointestinal tolerance and cause-directed therapy is appropriate, and in PHPT, parathyroidectomy remains definitive while magnesium should be optimized perioperatively to mitigate postoperative hypomagnesemia and facilitate calcium recovery [^1952e26c] [^5f6a48a2] [^280da153].
+> I will now examine management principles. For severe or symptomatic hypomagnesemia with hypocalcemia, I should prioritize IV magnesium repletion to restore PTH secretion and action, then add calcium and active vitamin D as needed; in chronic hypomagnesemia, oral magnesium with attention to gastrointestinal tolerance and cause-directed therapy is appropriate, and in PHPT, parathyroidectomy remains definitive while magnesium should be optimized perioperatively to mitigate postoperative hypomagnesemia and facilitate calcium recovery [^111eYXmM] [^113STXM3] [^1122P5ox].
 
-> Hold on, I should verify special scenarios. After parathyroidectomy for PHPT, magnesium often drops and nearly a third develop hypomagnesemia, so checking magnesium postoperatively is reasonable, especially if calcium recovery is sluggish or symptomatic; in dialysis patients, magnesium-containing binders can lower PTH, but I need to balance this against the risk of hypermagnesemia and individualize the prescription [^5f6a48a2] [^a564de3b].
+> Hold on, I should verify special scenarios. After parathyroidectomy for PHPT, magnesium often drops and nearly a third develop hypomagnesemia, so checking magnesium postoperatively is reasonable, especially if calcium recovery is sluggish or symptomatic; in dialysis patients, magnesium-containing binders can lower PTH, but I need to balance this against the risk of hypermagnesemia and individualize the prescription [^113STXM3] [^115ECqZt].
 
-> Let me reconsider the synthesis to ensure internal consistency. High PTH and low magnesium can coexist via two main pathways: hypomagnesemia driving secondary hyperparathyroidism when moderate, or severe hypomagnesemia suppressing PTH and causing functional hypoparathyroidism; conversely, hyperparathyroid states can increase renal magnesium wasting and uncover or worsen hypomagnesemia, so the relationship is bidirectional and context-dependent, demanding that I interpret labs alongside clinical phenotype, medications, and renal function [^5f146917] [^177b009e] [^0af890dc].
+> Let me reconsider the synthesis to ensure internal consistency. High PTH and low magnesium can coexist via two main pathways: hypomagnesemia driving secondary hyperparathyroidism when moderate, or severe hypomagnesemia suppressing PTH and causing functional hypoparathyroidism; conversely, hyperparathyroid states can increase renal magnesium wasting and uncover or worsen hypomagnesemia, so the relationship is bidirectional and context-dependent, demanding that I interpret labs alongside clinical phenotype, medications, and renal function [^113RxgQE] [^111bp2mB] [^111HGNGj].
 
 ---
 
-High PTH with hypomagnesemia reflects **impaired PTH secretion and end-organ resistance** due to magnesium deficiency [^0af890dc]. Magnesium is required for PTH synthesis, release, and receptor signaling; low magnesium suppresses PTH and causes PTH resistance, leading to hypocalcemia that does not correct with calcium alone [^0af890dc]. Common causes include **PPIs, diuretics, malabsorption, and renal losses** [^280da153] [^d850c485]. Management requires **prompt magnesium repletion** (oral or IV) to restore PTH function and correct hypocalcemia; monitor for recurrence and address the underlying cause to prevent relapse [^1952e26c] [^632016e3].
+High PTH with hypomagnesemia reflects **impaired PTH secretion and end-organ resistance** due to magnesium deficiency [^111HGNGj]. Magnesium is required for PTH synthesis, release, and receptor signaling; low magnesium suppresses PTH and causes PTH resistance, leading to hypocalcemia that does not correct with calcium alone [^111HGNGj]. Common causes include **PPIs, diuretics, malabsorption, and renal losses** [^1122P5ox] [^116XhTMN]. Management requires **prompt magnesium repletion** (oral or IV) to restore PTH function and correct hypocalcemia; monitor for recurrence and address the underlying cause to prevent relapse [^111eYXmM] [^113XxZ3x].
 
 ---
 
@@ -45,11 +45,11 @@ High PTH with hypomagnesemia reflects **impaired PTH secretion and end-organ res
 
 Magnesium is a **critical cofactor** in the parathyroid gland for PTH synthesis, secretion, and receptor signaling; magnesium deficiency disrupts these processes via several mechanisms:
 
-- **Impaired PTH secretion**: Low magnesium impairs stimulus–secretion coupling in parathyroid cells, reducing PTH release despite hypocalcemia [^0af890dc].
+- **Impaired PTH secretion**: Low magnesium impairs stimulus–secretion coupling in parathyroid cells, reducing PTH release despite hypocalcemia [^111HGNGj].
 
-- **End-organ resistance**: Magnesium deficiency induces PTH resistance at target tissues (bone, kidney), blunting calcemic and phosphaturic responses [^0af890dc].
+- **End-organ resistance**: Magnesium deficiency induces PTH resistance at target tissues (bone, kidney), blunting calcemic and phosphaturic responses [^111HGNGj].
 
-- **Paradoxical suppression**: Severe hypomagnesemia can paradoxically suppress PTH, causing functional hypoparathyroidism and refractory hypocalcemia [^0af890dc].
+- **Paradoxical suppression**: Severe hypomagnesemia can paradoxically suppress PTH, causing functional hypoparathyroidism and refractory hypocalcemia [^111HGNGj].
 
 ---
 
@@ -59,11 +59,11 @@ Several clinical scenarios present with **coexisting high PTH and hypomagnesemia
 
 | **Clinical condition** | **Mechanism** |
 |-|-|
-| Proton pump inhibitor (PPI) use | PPI-induced hypomagnesemia impairs PTH secretion and causes PTH resistance [^77f61a7a] [^0af890dc] |
-| Diuretic therapy (loop, thiazides) | Increased renal magnesium wasting and secondary hyperparathyroidism [^d850c485] [^6a6f61ec] |
-| Malabsorption syndromes (e.g. celiac, IBD) | Reduced intestinal magnesium absorption and secondary hyperparathyroidism [^280da153] |
-| Renal magnesium wasting (e.g. Gitelman syndrome) | Renal magnesium losses with secondary hyperparathyroidism [^91701143] |
-| Critical illness, sepsis | Magnesium shifts, increased losses, and impaired PTH secretion [^d850c485] [^6c33bbc3] |
+| Proton pump inhibitor (PPI) use | PPI-induced hypomagnesemia impairs PTH secretion and causes PTH resistance [^1144rC1w] [^111HGNGj] |
+| Diuretic therapy (loop, thiazides) | Increased renal magnesium wasting and secondary hyperparathyroidism [^116XhTMN] [^113io6n7] |
+| Malabsorption syndromes (e.g. celiac, IBD) | Reduced intestinal magnesium absorption and secondary hyperparathyroidism [^1122P5ox] |
+| Renal magnesium wasting (e.g. Gitelman syndrome) | Renal magnesium losses with secondary hyperparathyroidism [^114icr7U] |
+| Critical illness, sepsis | Magnesium shifts, increased losses, and impaired PTH secretion [^116XhTMN] [^113mR3HU] |
 
 ---
 
@@ -71,13 +71,13 @@ Several clinical scenarios present with **coexisting high PTH and hypomagnesemia
 
 When evaluating a patient with high PTH and hypomagnesemia, a **structured approach** is essential:
 
-- **Confirm hypomagnesemia**: Serum magnesium < 0.7 mmol/L (1.7 mg/dL) [^280da153].
+- **Confirm hypomagnesemia**: Serum magnesium < 0.7 mmol/L (1.7 mg/dL) [^1122P5ox].
 
-- **Assess PTH dynamics**: Evaluate PTH response to hypocalcemia; inappropriately low or normal PTH suggests magnesium-related impairment [^0af890dc].
+- **Assess PTH dynamics**: Evaluate PTH response to hypocalcemia; inappropriately low or normal PTH suggests magnesium-related impairment [^111HGNGj].
 
-- **Identify underlying causes**: Review medications (PPIs, diuretics), gastrointestinal history, renal function, and family history [^d850c485].
+- **Identify underlying causes**: Review medications (PPIs, diuretics), gastrointestinal history, renal function, and family history [^116XhTMN].
 
-- **Additional tests**: Consider 24-hour urinary magnesium, vitamin D status, and renal imaging if indicated [^6272377a].
+- **Additional tests**: Consider 24-hour urinary magnesium, vitamin D status, and renal imaging if indicated [^113Wx9jo].
 
 ---
 
@@ -85,13 +85,13 @@ When evaluating a patient with high PTH and hypomagnesemia, a **structured appro
 
 Persistent high PTH with hypomagnesemia can cause **significant morbidity**:
 
-- **Refractory hypocalcemia**: Hypocalcemia that does not respond to calcium alone until magnesium is corrected [^1952e26c].
+- **Refractory hypocalcemia**: Hypocalcemia that does not respond to calcium alone until magnesium is corrected [^111eYXmM].
 
-- **Neuromuscular symptoms**: Tetany, seizures, and arrhythmias due to hypocalcemia and hypomagnesemia [^4160f805].
+- **Neuromuscular symptoms**: Tetany, seizures, and arrhythmias due to hypocalcemia and hypomagnesemia [^112fvmRW].
 
 - **Bone disease**: Chronic secondary hyperparathyroidism can cause osteomalacia and osteoporosis [^notfound].
 
-- **Renal complications**: Hypercalciuria, nephrolithiasis, and nephrocalcinosis from prolonged hypocalcemia and hyperparathyroidism [^1b768f70].
+- **Renal complications**: Hypercalciuria, nephrolithiasis, and nephrocalcinosis from prolonged hypocalcemia and hyperparathyroidism [^111hiVMH].
 
 ---
 
@@ -105,7 +105,7 @@ Effective management centers on **correcting magnesium deficiency** and addressi
 
 - **Address underlying causes**: Discontinue offending drugs (e.g. PPIs, diuretics), treat malabsorption, or manage renal losses [^notfound].
 
-- **Long-term surveillance**: Periodic monitoring of magnesium, calcium, and PTH to detect recurrence or persistent hyperparathyroidism [^9b61ecda].
+- **Long-term surveillance**: Periodic monitoring of magnesium, calcium, and PTH to detect recurrence or persistent hyperparathyroidism [^114yMyRB].
 
 ---
 
@@ -121,13 +121,13 @@ High PTH with hypomagnesemia reflects **magnesium-dependent impairment of PTH se
 
 ## References
 
-### Magnesium and the parathyroid [^5f146917]. Current Opinion in Nephrology and Hypertension (2002). Low credibility.
+### Magnesium and the parathyroid [^113RxgQE]. Current Opinion in Nephrology and Hypertension (2002). Low credibility.
 
 The serum levels of parathyroid hormone and magnesium depend on each other in a complex manner. The secretion of parathyroid hormone by the parathyroid is physiologically controlled by the serum calcium level, but magnesium can exert similar effects. While low levels of magnesium stimulate parathyroid hormone secretion, very low serum concentrations induce a paradoxical block. This block leads to clinically relevant hypocalcemia in severely hypomagnesiemic patients. The mechanism of this effect has recently been traced to an activation of the alpha-subunits of heterotrimeric G-proteins. This activation mimicks activation of the calcium sensing receptor and thus causes inhibition of parathyroid hormone secretion. In addition to the effects of magnesium on parathyroid hormone secretion, parathyroid hormone in turn regulates magnesium homeostasis by modulating renal magnesium reabsorption. The distal convoluted tubule is of crucial importance for parathyroid hormone-regulated magnesium homeostasis.
 
 ---
 
-### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^177b009e]. BMC Endocrine Disorders (2021). Medium credibility.
+### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^111bp2mB]. BMC Endocrine Disorders (2021). Medium credibility.
 
 Introduction
 
@@ -139,13 +139,13 @@ To the end, the occurrence of hypomagnesemia in patients with PHPT has been note
 
 ---
 
-### Hypomagnesaemia [^280da153]. Drug and Therapeutics Bulletin (2013). Low credibility.
+### Hypomagnesaemia [^1122P5ox]. Drug and Therapeutics Bulletin (2013). Low credibility.
 
 Magnesium plays an important role in the body as a cofactor for DNA and protein synthesis, oxidative phosphorylation, neuromuscular excitability, enzyme activity and regulation of parathyroid hormone (PTH) secretion.1 The regulation of plasma magnesium concentration is balanced by intestinal absorption and renal excretion. Hypomagnesaemia (variously defined but taken here as plasma magnesium < 0.7 mmol/L) may result from inadequate magnesium intake, increased gastrointestinal or renal loss or redistribution from extracellular to intracellular space. In addition, hypomagnesaemia has been associated with the use of a number of drugs and, in 2012, the Medicines and Healthcare products Regulatory Agency (MHRA) drew attention to the risk associated with prolonged use of proton pump inhibitors (PPIs).2 Here we review the causes and management of hypomagnesaemia.
 
 ---
 
-### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^6272377a]. BMC Endocrine Disorders (2021). Medium credibility.
+### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^113Wx9jo]. BMC Endocrine Disorders (2021). Medium credibility.
 
 Discussion
 
@@ -153,7 +153,7 @@ The prevalence of hypomagnesemia was 25.1% in the total study population, 32.4% 
 
 ---
 
-### Serum magnesium measurements after parathyroidectomy for primary hyperparathyroidism: should It be routine? [^5f6a48a2]. World Journal of Surgery (2020). Medium credibility.
+### Serum magnesium measurements after parathyroidectomy for primary hyperparathyroidism: should It be routine? [^113STXM3]. World Journal of Surgery (2020). Medium credibility.
 
 Background
 
@@ -173,7 +173,7 @@ Serum magnesium decreased significantly following parathyroidectomy for PHPT and
 
 ---
 
-### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^77d7dfdc]. BMC Endocrine Disorders (2021). Medium credibility.
+### Association between hypomagnesemia and severity of primary hyperparathyroidism: a retrospective study [^1144g37H]. BMC Endocrine Disorders (2021). Medium credibility.
 
 Background
 
@@ -193,7 +193,7 @@ Biochemical and clinical evidence indicates that patients with PHPT with hypomag
 
 ---
 
-### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^dd280080]. Cardiovascular Diabetology (2009). Low credibility.
+### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^116eshaf]. Cardiovascular Diabetology (2009). Low credibility.
 
 Background
 
@@ -205,7 +205,7 @@ The objective of the present study was to explore whether MS is associated with 
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^c10ec402]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^115wDa3j]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 The relative potencies of Ca and Mg in inhibiting PTH secretion were previously addressed by Habener and Potts and Brown's group, who reported that Ca was about three times more potent than Mg in reducing PTH secretion in vitro. Our results allow the following conclusion: at a Mg concentration of 0.5 mM an increase in Ca from 1 to 1.5 mM (delta of 0.5 mM) reduces PTH by 57%; on the other hand, if Ca is maintained at 1 mM and the Mg concentration is increased by 0.5 mM (from 0.5 to 1 mM), the PTH secretion decreases by 14%. The ratio 57/14% is 4.0, indicating that Ca is four times more potent than Mg in suppressing PTH. However, the ability of Mg to decrease PTH is constant at all calcium concentrations. At 1 mM Ca, an increase in Mg concentration from 0.5 to 2.0 mM (delta of 1.5 mM) reduces PTH by 38%. An equal 38% decrease in PTH secretion is obtained with only a small increase in Ca from 1.0 to 1.2 mM (see Figure 1). Thus, the relative potency of Ca and Mg in reducing PTH secretion varies according to the basal serum Ca concentration and the degree of change in both Mg and Ca. Still, the potency of Ca in suppressing PTH is at least four times greater than that of Mg, which is close to what has been published before.
 
@@ -213,13 +213,13 @@ It is known that, like Ca, Mg is able to activate the CaR; though binding sites 
 
 ---
 
-### American Association of Clinical Endocrinologists / American college of endocrinology clinical practice guidelines for the diagnosis and treatment of postmenopausal osteoporosis-2020 update [^72bd8da1]. Endocrine Practice (2020). High credibility.
+### American Association of Clinical Endocrinologists / American college of endocrinology clinical practice guidelines for the diagnosis and treatment of postmenopausal osteoporosis-2020 update [^113w7FvQ]. Endocrine Practice (2020). High credibility.
 
 Magnesium supplementation and monitoring — No randomized controlled study has evaluated the effect of magnesium intake on fracture risk or BMD, most people have adequate dietary intake, and individuals who are at risk for hypomagnesemia (e.g., those with GI malabsorption, chronic liver disease [including alcoholics], or renal tubular disorders; those who are taking diuretics, aminoglycoside antibiotics, calcineurin inhibitors, proton pump inhibitors, or other medications; and older adults) may benefit from evaluation of serum magnesium levels.
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^b596307c]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^115eDCw5]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 The capacity of Mg to modulate the expression of the CaR and, subsequently, of the VDR and the FGFR1/Klotho at long term suggests that this cation could be considered as a wide-range inhibitor of the whole parathyroid function. Furthermore, the inhibitory effects of Mg on parathyroid function, mainly when Ca is moderately low, could help to control secondary hyperparathyroidism. Interestingly, Mg also would favour the efficiency of therapeutic molecules targeting the parathyroid CaR, VDR or FGF23/Klotho. On the other hand, it is also important to emphasize that the decrease in PTH secretion did not result in an oversuppression of PTH at moderately elevated Mg concentrations. Our data certainly suggest that hypomagnesaemia should be avoided. In those cases of suppression of PTH by high Ca, the increased levels of Mg had limited additional suppressive effect on PTH. In the present study, performed with parathyroid glands from rats with normal renal function, we observed that Mg induced up-regulation of CaR, VDR and FGFR/Klotho. However, since the effect of Mg is through the activation of the CaR, and this receptor is usually down-regulated in CKD, results could be different in hyperplastic parathyroid glands from uraemic rats. Although this surely deserves to be evaluated in future studies, it could be assumed that higher levels of Mg should be needed to maintain comparable levels of CaR activity as well as the corresponding upregulation of the other receptors. Thus, avoiding hypomagnesaemia (and hypocalcaemia) in CKD prevents downregulation of key parathyroid receptors (CaR, VDR, Klotho FGFR1).
 
@@ -227,13 +227,13 @@ In conclusion, the results of this study show that parathyroid glands are sensit
 
 ---
 
-### Hypomagnesemia during teriparatide treatment in osteoporosis: incidence and determinants [^e1d74953]. Journal of Bone and Mineral Research (2018). Low credibility.
+### Hypomagnesemia during teriparatide treatment in osteoporosis: incidence and determinants [^116mpXXQ]. Journal of Bone and Mineral Research (2018). Low credibility.
 
 In our clinical experience, we have encountered patients who developed hypomagnesemia after the introduction of teriparatide. Some trials have reported hypomagnesemia as an adverse event during teriparatide treatment, but this issue had never been studied specifically. Our objective was twofold: 1) determine the incidence of hypomagnesemia (serum magnesium < 0.7mmol/L) associated with teriparatide in a retrospective cohort and 2) identify the predisposing factors to hypomagnesemia in this cohort. We reviewed the files of 53 patients treated for severe osteoporosis with teriparatide for 6 to 24 months between May 2008 and January 2016. Serum magnesium levels were measured at 0, 3, 6, 12, 18, and 24 months. In the full cohort, we observed an average decrease of serum magnesium of 0.075mmol/L, 0.069mmol/L, 0.085mmol/L, 0.086mmol/L (p < 0.001) at 3, 6, 12 months, and at the end of the treatment, respectively. The cumulative incidence of hypomagnesemia during treatment with teriparatide was 35.9% (19 patients). Patients' older age (71.1 versus 65.1 years; p = 0.05) and lower baseline level of magnesium before teriparatide treatment (0.81mmol/L versus 0.85mmol/L; p = 0.03) were significant risk factors for teriparatide-induced hypomagnesemia. The average decrease of serum magnesium was greater in the patients who developed hypomagnesemia compared with normomagnesemic patients at 3 months (0.110mmol/L versus 0.054mmol/L; p = 0.02), 6 months (0.139mmol/L versus 0.036mmol/L; p < 0.001), and 12 months (0.156mmol/L versus 0.048mmol/L; p < 0.001). Serum calcium, creatinine, and parathyroid hormone remained normal throughout the treatment period. We observed a statistically significant decrease in the serum magnesium levels in patients treated with teriparatide for severe osteoporosis. Older age and lower baseline magnesium were significant determinants of hypomagnesemia. Closer monitoring of serum magnesium level should be considered in these patients. © 2018 American Society for Bone and Mineral Research.
 
 ---
 
-### The role of magnesium in post-thyroidectomy hypocalcemia [^506af228]. World Journal of Surgery (2016). Low credibility.
+### The role of magnesium in post-thyroidectomy hypocalcemia [^1134Dw27]. World Journal of Surgery (2016). Low credibility.
 
 Background
 
@@ -253,7 +253,7 @@ Preoperative hypomagnesemia (24%) was prevalent in this cohort of patients. Post
 
 ---
 
-### Etiology and pathophysiology of hypoparathyroidism: a narrative review [^fc4e620b]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Etiology and pathophysiology of hypoparathyroidism: a narrative review [^117T4D3G]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Introduction
 
@@ -263,7 +263,7 @@ The estimated prevalence of hypoparathyroidism is ~23 to 37 cases per 100,000 pe
 
 ---
 
-### Hypomagnesemia in type 2 diabetic nephropathy: a novel predictor of end-stage renal disease [^10af8ca7]. Diabetes Care (2012). Low credibility.
+### Hypomagnesemia in type 2 diabetic nephropathy: a novel predictor of end-stage renal disease [^111RjmVG]. Diabetes Care (2012). Low credibility.
 
 Another potential confounder is Ca and P because Mg homeostasis is closely linked to these minerals. In general, hypomagnesemia causes hypocalcemia via peripheral parathyroid hormone (PTH) resistance, inhibition of PTH secretion, and impaired conversion of 25-hydroxyvitamin D to 1,25-dihydroxyvitamin D. However, we found no significant correlation between serum Mg and Ca levels. One possible explanation for this is that PTH and 1,25-dihydroxyvitamin D are more strongly influenced by reduced renal function in patients with CKD, thereby attenuating the relationship between Mg and Ca. The relationship between Mg and P is not fully understood, but P depletion reduced Mg ion reabsorption in the distal convoluted tubule in an in vitro study. We also observed a significant positive correlation between serum Mg and P levels. Schwarz et al. reported that high serum P levels were significantly associated with CKD progression. They also showed that low serum Ca tended to be associated with increased risk of CKD progression. We showed that the significant association between hypomagnesemia and poor renal outcome in patients with type 2 diabetic nephropathy was independent of serum Ca and P levels. This result suggests that serum Mg level should be considered when evaluating the influence of CKD mineral and bone disease on renal outcome, especially in patients with type 2 diabetic nephropathy.
 
@@ -271,7 +271,7 @@ Finally, renal function is the major regulator of the serum Mg level. Dewitte et
 
 ---
 
-### Significance of serum magnesium as an independent correlative factor on the parathyroid hormone level in uremic patients [^40f801c2]. The Journal of Clinical Endocrinology and Metabolism (2014). Low credibility.
+### Significance of serum magnesium as an independent correlative factor on the parathyroid hormone level in uremic patients [^112fKWbj]. The Journal of Clinical Endocrinology and Metabolism (2014). Low credibility.
 
 Context
 
@@ -295,7 +295,7 @@ A high serum level of Mg is frequent in uremic patients with end-stage renal dis
 
 ---
 
-### Etiology and pathophysiology of hypoparathyroidism: a narrative review [^0af890dc]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Etiology and pathophysiology of hypoparathyroidism: a narrative review [^111HGNGj]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Metabolic disorders
 
@@ -313,7 +313,7 @@ Hypoparathyroidism is considered to be idiopathic when extensive evaluation of a
 
 ---
 
-### Case report: extreme coronary calcifications and hypomagnesemia in a patient with a 17q12 deletion involving HNF1B [^772bfdbd]. BMC Nephrology (2019). Medium credibility.
+### Case report: extreme coronary calcifications and hypomagnesemia in a patient with a 17q12 deletion involving HNF1B [^1143gJZ2]. BMC Nephrology (2019). Medium credibility.
 
 Coronary calcification as a possible physiologic sequela of HNF1B deletion
 
@@ -324,7 +324,7 @@ Cell-mediated osteogenic activity. Hypomagnesemia and hyperparathyroidism modula
 
 ---
 
-### Hypomagnesemia is associated with new-onset diabetes mellitus following heart transplantation [^acbc8b3e]. Cardiovascular Diabetology (2019). Medium credibility.
+### Hypomagnesemia is associated with new-onset diabetes mellitus following heart transplantation [^115R6Cbw]. Cardiovascular Diabetology (2019). Medium credibility.
 
 The pathophysiological mechanisms underlying the association between hypomagnesemia and NODAT are complex and have not yet been fully elucidated. It has been suggested that a number of mechanisms may provide the molecular and functional basis for the involvement of magnesium in the pathogenesis of diabetes mellitus, as follows: (1) Magnesium is a co-factor necessary for glucose metabolism in several pathways, including transport between membranes, glucose oxidation, and insulin-mediated tyrosine kinase pathways, and it may therefore be involved in insulin secretion or insulin signaling. Magnesium deficiency has been shown to promote insulin resistance, and magnesium supplementation has been reported to improve both glucose tolerance and insulin sensitivity in animal and clinical studies in non-transplant patients with diabetes mellitus. In addition, it should be pinpointed that after administration of SGLT2 inhibitors, a raise in serum magnesium concentrations (not coupled with a reduced urinary excretion) is associated with a significant improvement in endothelial function, arterial stiffness and renal resistive index. (2) Common genetic variations in the magnesium-regulating genes TRPM6, SLC41A2, CLDN19, CNNM2, and FXYD2 have been shown to significantly modify the risk of diabetes through s-Mg levels. (3) It is also possible that mitochondrial dysfunction could underlie the association between low s-Mg and NODAT, as both hypomagnesemia and diabetes can result from mitochondrial dysfunction, as found in large pedigree with hypomagnesemia and metabolic syndrome. This association is further enforced by the findings in kidney transplant recipients that tacrolimus can cause secondary mitochondrial respiratory chain dysfunction.
 
@@ -332,13 +332,13 @@ Before concluding the Discussion, we touch on two findings that are relevant not
 
 ---
 
-### Medical hypoparathyroidism [^bfe9b1f6]. Endocrinology and Metabolism Clinics of North America (2018). Low credibility.
+### Medical hypoparathyroidism [^115uX8aH]. Endocrinology and Metabolism Clinics of North America (2018). Low credibility.
 
 Hypoparathyroidism is a metabolic disorder characterized by hypocalcemia, hyperphosphatemia, and inadequate levels of or function of parathyroid hormone (PTH). The authors review the nonsurgical or medical causes of hypoparathyroidism. The most common of the nonsurgical causes is autoimmune destruction of the parathyroid. Magnesium deficiency or excess can cause a functional hypoparathyroidism. Genetic conditions result in hypoparathyroidism as part of a syndrome or in isolation. Pseudohypoparathyroidism reflects a resistance to PTH. Infiltrative, metastatic, radiation destruction, mineral deposition, or idiopathic are uncommon causes of hypoparathyroidism. This article reviews the causes of hypoparathyroidism and an approach to the evaluation of this condition.
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^5a701e97]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^113K5YdL]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 DISCUSSION
 
@@ -348,7 +348,7 @@ In vivo animal and clinical studies have shown that high Mg concentrations inhib
 
 ---
 
-### Recombinant human parathyroid hormone effect on health-related quality of life in adults with chronic hypoparathyroidism [^289c7e88]. The Journal of Clinical Endocrinology and Metabolism (2018). Low credibility.
+### Recombinant human parathyroid hormone effect on health-related quality of life in adults with chronic hypoparathyroidism [^1123D52X]. The Journal of Clinical Endocrinology and Metabolism (2018). Low credibility.
 
 Materials and Methods
 
@@ -360,13 +360,13 @@ After enrollment, patients underwent an optimization period lasting 2 to 16 week
 
 ---
 
-### An interesting case that included visual hallucinations in a patient with severe hypomagnesaemia and hypocalcaemia [^61428c31]. BMJ Case Reports (2011). Medium credibility.
+### An interesting case that included visual hallucinations in a patient with severe hypomagnesaemia and hypocalcaemia [^113VC9ng]. BMJ Case Reports (2011). Medium credibility.
 
 A 57-year-old man presenting with profound visual hallucinations was found to have severe hypomagnesaemia and hypocalcaemia with a normal level of parathyroid hormone (PTH). Magnesium is essential to the release of PTH so the suspected pathophysiology was thought to be: low Mg → inappropriately low PTH → low Ca. He commenced supplementation and his symptoms resolved. Causes of hypomagnesaemia are discussed.
 
 ---
 
-### Mechanisms and causes of hypomagnesemia [^055f4923]. Current Opinion in Nephrology and Hypertension (2016). Low credibility.
+### Mechanisms and causes of hypomagnesemia [^1118xwiz]. Current Opinion in Nephrology and Hypertension (2016). Low credibility.
 
 Purpose Of Review
 
@@ -382,7 +382,7 @@ The recognition of new mechanisms and causes of magnesium absorption and reabsor
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^6c29d044]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^113mMi2f]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 INTRODUCTION
 
@@ -398,13 +398,13 @@ The aim of this in vitro study was to evaluate the direct effect of Mg on the re
 
 ---
 
-### EULAR recommendations for calcium pyrophosphate deposition. part II: management [^00c0aa65]. Annals of the Rheumatic Diseases (2011). Medium credibility.
+### EULAR recommendations for calcium pyrophosphate deposition. part II: management [^11127iRr]. Annals of the Rheumatic Diseases (2011). Medium credibility.
 
 Regarding medical management for calcium pyrophosphate deposition disease, more specifically with respect to general principles, EULAR 2011 guidelines recommend to treat any associated conditions, such as hyperparathyroidism, hemochromatosis, or hypomagnesemia, if detected.
 
 ---
 
-### Bone in parathyroid diseases revisited: evidence from epidemiological, surgical and new drug outcomes [^efb40cd5]. Endocrine Reviews (2025). Medium credibility.
+### Bone in parathyroid diseases revisited: evidence from epidemiological, surgical and new drug outcomes [^1178NX1e]. Endocrine Reviews (2025). Medium credibility.
 
 Hypoparathyroidism
 
@@ -414,7 +414,7 @@ Clinical presentation of HypoPTH usually includes neuromuscular signs and sympto
 
 ---
 
-### Possible role for rare TRPM7 variants in patients with hypomagnesaemia with secondary hypocalcaemia [^ef869d08]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
+### Possible role for rare TRPM7 variants in patients with hypomagnesaemia with secondary hypocalcaemia [^11787FqH]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
 
 INTRODUCTION
 
@@ -428,13 +428,13 @@ The pathophysiology of HSH comprises a primary defect in intestinal Mg 2+ uptake
 
 ---
 
-### PTH (1–84) replacement therapy in hypoparathyroidism: a randomized controlled trial on pharmacokinetic and dynamic effects after 6 months of treatment [^3a0f4994]. Journal of Bone and Mineral Research (2013). Low credibility.
+### PTH (1–84) replacement therapy in hypoparathyroidism: a randomized controlled trial on pharmacokinetic and dynamic effects after 6 months of treatment [^112V5RAj]. Journal of Bone and Mineral Research (2013). Low credibility.
 
 Untreated, hypoparathyroidism (hypoPT) is a state of hypocalcemia with inappropriately low plasma parathyroid hormone (PTH) levels and hyperphosphatemia. PTH administration normalizes plasma calcium and phosphate levels and reduces the doses of calcium and active vitamin D analogues needed. To develop an evidence-based clinical algorithm to monitor hypoPT patients treated with recombinant human PTH (rhPTH[1–84]) injected subcutaneously in the thigh, we performed a 24-hour monitoring study of pharmacokinetic and pharmacodynamic effects in a group of 38 patients who had completed a 6-month randomized study on effects of treatment with a fixed rhPTH(1–84) dose of 100µg/d or similar placebo as an add-on to conventional treatment. PTH levels rose immediately, reaching a median peak level of 26.5 (interquartile range [IQR], 20.1–42.5) pmol/L 15 minutes following injection. Thereafter, levels gradually decreased until reaching predosing levels after 16 hours, with a plasma half-life of 2.2 (1.7–2.5) hours. rhPTH(1–84) changed the diurnal rhythms of ionized calcium levels and 1,25-dihydroxyvitamin D (1,25[OH]2 D) levels, with rising levels following injection. Ionized calcium peaked after 7.0 (5.0–10.0) hours. Asymptomatic hypercalcemia was present in 71% of the rhPTH(1–84)-treated patients. Compared with placebo, 24-hour urinary calcium, phosphate, and magnesium did not change, although the diurnal variation in renal excretion rates changed significantly in response to treatment. In conclusion, as a safety precaution, we recommend occasionally measuring calcium levels at approximately 7 hours after administration in order to reveal episodes of hypercalcemia. A 100-µg daily dose of rhPTH(1–84) appears to be too high in some patients, suggesting a need for a device allowing for individual dose adjustments.
 
 ---
 
-### Biochemical markers of bone fragility in patients with diabetes. A narrative review by the IOF and the ECTS [^9999daab]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Biochemical markers of bone fragility in patients with diabetes. A narrative review by the IOF and the ECTS [^114vinSN]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Calciotropic hormones
 
@@ -444,7 +444,7 @@ In patients with T1DM, serum mean 25-hydroxyvitamin D (25(OH)D) level, an index 
 
 ---
 
-### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^f9ad39e1]. Cardiovascular Diabetology (2011). Low credibility.
+### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^117PA6tQ]. Cardiovascular Diabetology (2011). Low credibility.
 
 Background
 
@@ -460,7 +460,7 @@ The aim of this study was to explore whether PTH might have a mediating role in 
 
 ---
 
-### Endocrine dysfunction in primary mitochondrial diseases [^56c63f8a]. Endocrine Reviews (2025). Medium credibility.
+### Endocrine dysfunction in primary mitochondrial diseases [^113DeXRT]. Endocrine Reviews (2025). Medium credibility.
 
 Parathyroid Dysfunction
 
@@ -475,7 +475,7 @@ While there have been occasional case reports documenting hypothyroidism in pati
 
 ---
 
-### Proton pump inhibitor prophylaxis after gastric bypass does not cause hypomagnesemia [^1ed4646d]. Obesity Surgery (2016). Low credibility.
+### Proton pump inhibitor prophylaxis after gastric bypass does not cause hypomagnesemia [^111nhyBz]. Obesity Surgery (2016). Low credibility.
 
 Conclusion
 
@@ -485,25 +485,25 @@ We conclude that the risk of hypomagnesemia during 1 year of prophylactic PPI us
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^6142f175]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^113VCHVe]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 In the present study, we found that Mg reduced PTH secretion in an in vitro model of intact rat parathyroid glands. This is in accordance with previous studies in dispersed human and bovine parathyroid cells. However, we found that high Mg was able to reduce PTH only when parathyroid glands were exposed to moderately low Ca concentrations. The PTH–Ca curves obtained with progressively increasing Mg concentrations (from 0.5 to 5 mM) were consistently shifted to the left; thus, there was a decrease in the set point of Ca for PTH secretion. With normal to high Ca concentrations, only an extremely high Mg concentration of 5.0 mM was able to decrease PTH secretion; the effect of lower Mg concentrations was minor or absent. However, at 1 mM Ca (8 mg/dL total Ca), a serum concentration at the lower end in dialysis patients, the inhibitory effect of a Mg concentration of 2.0 mM was clearly evidenced. Interestingly, at 0.8 mM Ca the inhibitory effect of Mg was not observed anymore. It appears that in the setting of marked low calcium concentration, the parathyroid glands are strongly stimulated, so that only very high doses of Mg are able to decrease PTH secretion. In the general dialysis population, low Ca concentration is not the major concern; rather high Ca concentrations have been described to be associated with negative outcomes. But at high Ca concentrations, high Mg concentrations do not seem to pose a problem according to our experiments.
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^e0626ac3]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^116jfHSi]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 The addition of Mg to the medium reduced PTH secretion, but the degree of inhibition varied according to the Ca concentration. This is shown in Figure 1 C, which depicts the data in a different way so that differences become more clearly visible. At the lowest Ca concentration (0.8 mM) with normal 0.5 mM Mg, maximal PTH secretion was observed; PTH increased to more than twice as with normal 1.25 mM Ca and 0.5 mM Mg. Mg concentrations of 1.0 and 2.0 mM had no significant effect on PTH secretion. Only an extremely high Mg concentration of 5.0 mM produced a significant 62% decrease in PTH secretion to values slightly lower than the PTH observed with normal Ca and Mg of 0.5 mM. At a Ca concentration of 1.0 mM with 0.5 mM Mg, PTH secretion was almost twice as high as with normal Ca. Here, the addition of both Mg 2.0 and 5.0 mM significantly decreased PTH secretion by 38 and 68%, respectively, to reach levels that were 120 and 60% of the PTH observed with normal Ca and Mg of 0.5 mM (Figure 1 C); Mg 1.0 mM did not significantly reduce PTH secretion in this setting. At a normal 1.2 mM Ca concentration, Mg concentrations of 1.0 mM and 2.0 mM did not reduce PTH secretion significantly. Only an extremely high Mg concentration (5.0 mM) produced a significant 54% reduction in PTH secretion to levels that were 56% of that with normal Ca and Mg of 0.5 mM. Finally, when parathyroid glands were incubated with high Ca (1.5 mM), only the concentration of 5.0 mM Mg was able to decrease PTH secretion (by 37%) to levels that were 43% of normal Ca and 0.5 mM Mg, while no effect was detected with Mg 1.0 and 2.0 mM (Figure 1 C).
 
 ---
 
-### Pathophysiology of calcium, phosphorus, and magnesium dysregulation in chronic kidney disease [^bd5096af]. Seminars in Dialysis (2015). Low credibility.
+### Pathophysiology of calcium, phosphorus, and magnesium dysregulation in chronic kidney disease [^115qfjFk]. Seminars in Dialysis (2015). Low credibility.
 
 Calcium, phosphorus, and magnesium homeostasis is altered in chronic kidney disease (CKD). Hypocalcemia, hyperphosphatemia, and hypermagnesemia are not seen until advanced CKD because adaptations develop. Increased parathyroid hormone (PTH) secretion maintains serum calcium normal by increasing calcium efflux from bone, renal calcium reabsorption, and phosphate excretion. Similarly, renal phosphate excretion in CKD is maintained by increased secretion of fibroblast growth factor 23 (FGF23) and PTH. However, the phosphaturic effect of FGF23 is reduced by downregulation of its cofactor Klotho necessary for binding FGF23 to FGF receptors. Intestinal phosphate absorption is diminished in CKD due in part to reduced levels of 1,25 dihydroxyvitamin D. Unlike calcium and phosphorus, magnesium is not regulated by a hormone, but fractional excretion of magnesium increases as CKD progresses. As 60–70% of magnesium is reabsorbed in the thick ascending limb of Henle, activation of the calcium-sensing receptor by magnesium may facilitate magnesium excretion in CKD. Modification of the TRPM6 channel in the distal tubule may also have a role. Besides abnormal bone morphology and vascular calcification, abnormalities in mineral homeostasis are associated with increased cardiovascular risk, increased mortality and progression of CKD.
 
 ---
 
-### Efficacy and safety of parathyroid hormone replacement with transCon PTH in hypoparathyroidism: 26-week results from the phase 3 paTHway trial [^91ec35f7]. Journal of Bone and Mineral Research (2023). Medium credibility.
+### Efficacy and safety of parathyroid hormone replacement with transCon PTH in hypoparathyroidism: 26-week results from the phase 3 paTHway trial [^114jLYcv]. Journal of Bone and Mineral Research (2023). Medium credibility.
 
 Participants
 
@@ -511,7 +511,7 @@ Eligible participants included men and nonpregnant women (≥ 18 years of age) w
 
 ---
 
-### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^e829ca16]. Cardiovascular Diabetology (2011). Low credibility.
+### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^116wCAW9]. Cardiovascular Diabetology (2011). Low credibility.
 
 Conclusions
 
@@ -519,13 +519,13 @@ The results of our study, combining current biological concepts and empirical da
 
 ---
 
-### Hypoparathyroidism: diagnosis, management and emerging therapies [^5b27264e]. Nature Reviews: Endocrinology (2025). High credibility.
+### Hypoparathyroidism: diagnosis, management and emerging therapies [^113L92Lm]. Nature Reviews: Endocrinology (2025). High credibility.
 
 Hypoparathyroidism is characterized by inadequate parathyroid hormone (PTH) secretion or action and results in hypocalcaemia, and can lead to hyperphosphataemia and hypercalciuria. Most cases of hypoparathyroidism occur as a complication of surgery, with the remainder due to causes including autoimmune disease, genetic causes, infiltrative diseases, mineral deposition or due to abnormalities in serum levels of magnesium. Hypoparathyroidism can cause multisystem disease, with long-term complications resulting from ectopic calcification as well as renal complications with nephrocalcinosis, nephrolithiasis and renal impairment in addition to respiratory, cardiac or neurological manifestations. Conventional therapy consists of oral calcium salts and active vitamin D but it has limitations, including fluctuations in serum levels of calcium and a high pill burden, and can increase the risk of long-term complications. By contrast, PTH replacement therapy can effectively achieve normal serum levels of calcium, and lower serum levels of phosphate. The long-acting PTH analogue, palopegteriparatide, has been shown to normalize urine levels of calcium. In addition, PTH replacement therapy reduces the pill burden. Palopegteriparatide is also associated with improved quality of life in comparison to conventional therapy. This Review summarizes current recommendations regarding the pathophysiology, evaluation and management of hypoparathyroidism and also references the 2022 international hypoparathyroidism guidelines. Palopegteriparatide has now been approved as PTH replacement therapy for hypoparathyroidism. Emerging therapies will also be presented in this Review.
 
 ---
 
-### Parathyroid disorders… [^00d0db16]. AAFP (2022). Medium credibility.
+### Parathyroid disorders… [^1112D9qf]. AAFP (2022). Medium credibility.
 
 The parathyroid glands typically lie adjacent to the thyroid gland, although they are occasionally located in the superior mediastinum. 2 Conversely, high calcium levels drive PTH suppression, with hypermagnesemia and 1, 25-dihydroxyvitamin D also inhibiting the production and release of PTH. Parathyroid disorders can be primary or secondary. 1, 2, 4–6 Humoral hypercalcemia of malignancy, a paraneoplastic syndrome mediated by PTH-related peptide, should be considered in patients with low PTH levels, rapid onset of symptoms, and other signs and symptoms of malignancy. It is most often associated with squamous cell carcinoma and solid tumors of the lung, breast, esophagus, skin, cervix, and kidney. 4 Vitamin D deficiency is the most common cause of hypocalcemia.
 5. Hyperparathyroidism PRIMARY Primary hyperparathyroidism is a common condition and the most common cause of hyperparathyroidism and mild hypercalcemia.
@@ -536,25 +536,25 @@ All patients should be encouraged to maintain adequate hydration to reduce the r
 
 ---
 
-### Magnesium supplementation: a consideration in dialysis patients [^a564de3b]. Seminars in Dialysis (2018). Low credibility.
+### Magnesium supplementation: a consideration in dialysis patients [^115ECqZt]. Seminars in Dialysis (2018). Low credibility.
 
 Even though disorders of magnesium (Mg) balance are common in dialyzed patients, this cation is often neglected. Many factors interfere with serum magnesium including diet, medications (eg, antacids or phosphate binders), and the dialysis prescription. Mg supplementation may help reduce serum phosphate concentration, PTH, and interfere with vascular calcification and bone mineralization. It could also decrease the all-cause and cardiovascular mortalities, although the results of current studies are conflicting. As with many other variables that influence hard endpoints in nephrology, additional research directly targeting the role of Mg supplementation in dialyzed patients are required. Nevertheless, a current risk/benefit assessment suggests that supplementation of Mg targeting high normal serum levels may represent a plausible option to improve the outcome of dialysis patients.
 
 ---
 
-### A case series of proton pump inhibitor-induced hypomagnesemia [^77f61a7a]. American Journal of Kidney Diseases (2010). Low credibility.
+### A case series of proton pump inhibitor-induced hypomagnesemia [^1144rC1w]. American Journal of Kidney Diseases (2010). Low credibility.
 
 Proton pump inhibitor (PPI)-induced hypomagnesemia has been recognized since 2006. Our aim was to further characterize the clinical consequences and possible mechanisms of this electrolyte disorder using 4 cases. Two men (aged 63 and 81 years) and 2 women (aged 73 and 62 years) had been using a PPI (esomeprazole, pantoprazole, omeprazole, and rabeprazole, 20–40 mg) for 1–13 years. They developed severe hypomagnesemia (magnesium, 0.30 ± 0.28 mEq/L; reference, 1.40–2.10 mEq/L) with hypocalcemia (calcium, 6.4 ± 1.8 mg/dL), relative hypoparathyroidism (parathyroid hormone, 43 ± 6 pg/mL), and extremely low urinary calcium and magnesium excretion. One patient was admitted with postanoxic encephalopathy after a collapse likely caused by arrhythmia. The others had electrocardiogram abnormalities (prolonged QT interval, ST depression, and U waves). Concomitant hypokalemia (potassium, 2.8 ± 0.1 mEq/L) was considered the trigger for these arrhythmias. Hypomagnesemia-induced kaliuresis (potassium excretion, 65 ± 24 mEq/L) was identified as the cause of hypokalemia. This series of PPI-induced hypomagnesemia shows that this is a generic effect. It also indicates that hypomagnesemia may occur within 1 year of PPI therapy initiation and can have serious clinical consequences, likely triggered by the associated hypokalemia. A high index of suspicion is required in PPI users for unexplained hypomagnesemia, hypocalcemia, hypokalemia, or associated symptoms.
 
 ---
 
-### Association between hypomagnesemia and coagulopathy in sepsis: a retrospective observational study [^6c33bbc3]. BMC Anesthesiology (2022). Medium credibility.
+### Association between hypomagnesemia and coagulopathy in sepsis: a retrospective observational study [^113mR3HU]. BMC Anesthesiology (2022). Medium credibility.
 
 Magnesium deficiency has been implicated in electrolyte disturbances such as hypocalcemia. Ionized calcium (factor IV) anchors the side chains of coagulation factors to the phospholipids of the platelet membrane and plays an important role in the conversion of fibrinogen to fibrin. Decreased ionized calcium is common in sepsis. It is hypothesized that sepsis causes the impaired secretion of parathyroid hormone, increases the organ resistance to parathyroid hormone or promotes influx from the blood to tissues. However, it is not known whether hypocalcemia impairs coagulation function or sepsis-induced coagulopathy causes hypocalcemia as the result of serum calcium consumption. Although the exact mechanism of magnesium-calcium interaction is unknown, hypomagnesemia generally impairs the secretion of parathyroid hormone or increases resistance to parathyroid hormone, leading to hypocalcemia. Additionally, we investigated the association between serum ionized calcium and coagulation. Our study showed that patients with hypomagnesemia had low ionized calcium concentrations (Table 1) and 574 patients (76.2%) had hypocalcemia (normal range: 1.12 to 1.32 mmol/L) and low ionized calcium concentrations that tended to be associated with abnormal coagulation function (Additional file 11). Thus, the effects of magnesium on coagulopathy may be mediated partly through calcium, as well as through inflammation. Additionally, a previous study reported that serum zinc level was associated with sepsis-induced coagulopathy. Magnesium and zinc might have deep crosstalk. Further research is required to clarify the mechanism of magnesium on coagulation function with a particular focus on the interaction between magnesium, calcium, and between magnesium and trace element.
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^87e23320]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^114UTJmd]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 Background
 
@@ -574,13 +574,13 @@ Mg reduces PTH secretion mainly when a moderate low calcium concentration is pre
 
 ---
 
-### Management of hypoparathyroidism [^632016e3]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Management of hypoparathyroidism [^113XxZ3x]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Hypoparathyroidism (HypoPT) is a rare disorder characterized by hypocalcemia in the presence of a low or inappropriately normal parathyroid hormone level. HypoPT is most commonly seen after neck surgery, which accounts for approximately 75% of cases, whereas approximately 25% have HypoPT due to nonsurgical causes. In both groups of patients, conventional therapy includes calcium and active vitamin D analogue therapy aiming to maintain serum calcium concentration in the low normal or just below the normal reference range and normalize serum phosphorus, magnesium concentrations, and urine calcium levels. The limitations of conventional therapy include wide fluctuations in serum calcium, high pill burden, poor quality of life, and renal complications. Parathyroid hormone (PTH) replacement therapy may improve the biochemical profile in those in whom conventional therapy proves unsatisfactory. Based on a systematic review and meta-analysis of the literature, the panel made a graded recommendation suggesting conventional therapy as first line therapy rather than administration of PTH (weak recommendation, low quality evidence). When conventional therapy is deemed unsatisfactory, the panel considers use of PTH. Because pregnancy and lactation are associated with changes in calcium homeostasis, close monitoring is required during these periods with appropriate adjustment of calcium and active vitamin D analogue therapy to ensure that serum calcium remains in the mid to low normal reference range in order to avoid maternal and fetal complications. Emerging therapies include molecules with prolonged PTH action as well as different mechanisms of action that may significantly enhance drug efficacy and safety. © 2022 The Authors. Journal of Bone and Mineral Research published by Wiley Periodicals LLC on behalf of American Society for Bone and Mineral Research (ASBMR).
 
 ---
 
-### The EANM practice guidelines for parathyroid imaging [^183e9df4]. European Journal of Nuclear Medicine and Molecular Imaging (2021). Medium credibility.
+### The EANM practice guidelines for parathyroid imaging [^111cwjeB]. European Journal of Nuclear Medicine and Molecular Imaging (2021). Medium credibility.
 
 Introduction
 
@@ -596,7 +596,7 @@ The therapy of sHPT depends on the primary cause. In the case of renal HPT, ther
 
 ---
 
-### Diagnosis and management of pseudohypoparathyroidism and related disorders: first international consensus statement [^e883a981]. Nature Reviews: Endocrinology (2018). Medium credibility.
+### Diagnosis and management of pseudohypoparathyroidism and related disorders: first international consensus statement [^116wiMN8]. Nature Reviews: Endocrinology (2018). Medium credibility.
 
 Resistance to PTH
 
@@ -616,7 +616,7 @@ PTH resistance and consequent changes in serum levels of calcium, phosphorus and
 
 ---
 
-### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^9b658adb]. Cardiovascular Diabetology (2011). Low credibility.
+### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^114yPBtN]. Cardiovascular Diabetology (2011). Low credibility.
 
 Background
 
@@ -636,13 +636,13 @@ Our results indicate that for women PTH is a plausible mediator in the associati
 
 ---
 
-### Child with suspected hypocalcemia [^1952e26c]. PES (2020). High credibility.
+### Child with suspected hypocalcemia [^111eYXmM]. PES (2020). High credibility.
 
 Child with suspected hypocalcemia — laboratory work up emphasizes checking magnesium and phosphorus; hypomagnesemia will result in hypocalcemia which will not respond to calcium treatment alone, and the serum phosphorous level is a very important part of the work up with low serum phosphorous consistent with pathology in the vitamin D pathway.
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^320a206b]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^112HBnNe]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 RESULTS
 
@@ -655,7 +655,7 @@ Effect of calcium on PTH secretion at different magnesium concentrations in vitr
 
 ---
 
-### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^6333bc9c]. Cardiovascular Diabetology (2011). Low credibility.
+### Parathyroid hormone is a plausible mediator for the metabolic syndrome in the morbidly obese: a cross-sectional study [^113Y59p7]. Cardiovascular Diabetology (2011). Low credibility.
 
 Path model
 
@@ -672,7 +672,7 @@ Arrows in a path diagram represent suggested dependencies between variables, and
 
 ---
 
-### A randomized double-blind placebo-controlled first-in-human phase 1 trial of transCon PTH in healthy adults [^fd69ab45]. Journal of Bone and Mineral Research (2020). Medium credibility.
+### A randomized double-blind placebo-controlled first-in-human phase 1 trial of transCon PTH in healthy adults [^117UhMtx]. Journal of Bone and Mineral Research (2020). Medium credibility.
 
 Standard‐of‐care (SoC) for chronic HP — specifically active vitamin D and calcium — only corrects hypocalcemia, targeting a serum calcium (sCa) just below or in the lower level of normal range to avoid worsening hypercalciuria, and is frequently associated with a sCa nadir prior to the next morning dose. SoC also does not restore PTH‐dependent renal calcium reabsorption, phosphate excretion, or normal bone turnover. In fact, long‐term active vitamin D and calcium may produce adverse effects beyond the original problems associated with HP, including an increase in calcium × phosphate product and urinary calcium (uCa) that together may lead to nephrocalcinosis, nephrolithiasis, and renal insufficiency as well as ectopic calcifications.
 
@@ -680,7 +680,7 @@ Until recently, HP was the last remaining classic endocrine deficiency disorder 
 
 ---
 
-### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^5e223410]. Cardiovascular Diabetology (2009). Low credibility.
+### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^113QZKps]. Cardiovascular Diabetology (2009). Low credibility.
 
 Background
 
@@ -700,19 +700,19 @@ The PTH level, but not the vitamin D level, is an independent predictor of MS in
 
 ---
 
-### Safety and efficacy of 5 years of treatment with recombinant human parathyroid hormone in adults with hypoparathyroidism [^1b768f70]. The Journal of Clinical Endocrinology and Metabolism (2019). Medium credibility.
+### Safety and efficacy of 5 years of treatment with recombinant human parathyroid hormone in adults with hypoparathyroidism [^111hiVMH]. The Journal of Clinical Endocrinology and Metabolism (2019). Medium credibility.
 
 PTH plays a central role in mineral homeostasis by stimulating renal reabsorption of calcium, promoting renal phosphate excretion, and stimulating conversion of 25-hydroxyvitamin D to 1,25-dihydroxyvitamin D (1,25[OH] 2 D), the fully active form of vitamin D. Moreover, 1,25[OH] 2 D enhances absorption of calcium and phosphate from the gastrointestinal tract. In addition, PTH is a potent regulator of bone turnover (i.e. the coupled process of bone resorption and bone formation); deficiency of PTH results in decreased bone turnover. Conventional therapy for hypoparathyroidism includes oral calcium and active vitamin D (e.g. calcitriol), as well as thiazide diuretics and magnesium supplementation as needed. Although this approach can correct the hypocalcemia associated with hypoparathyroidism, it does not replace other functions of PTH and can lead to or worsen hypercalciuria. Other concerns with conventional therapy include unpredictable episodes of hypocalcemia and hypercalcemia; increased serum calcium-phosphorus (Ca × P) product; and complications such as extraskeletal calcifications, nephrolithiasis, nephrocalcinosis, and decreased kidney function (,–). Reduced quality of life and symptoms of hypocalcemia are consistent findings among patients with hypoparathyroidism receiving conventional treatment.
 
 ---
 
-### KDOQI US commentary on the 2017 KDIGO clinical practice guideline update for the diagnosis, evaluation, prevention, and Treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^4f10a08b]. American Journal of Kidney Diseases (2017). Medium credibility.
+### KDOQI US commentary on the 2017 KDIGO clinical practice guideline update for the diagnosis, evaluation, prevention, and Treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^1132DcBk]. American Journal of Kidney Diseases (2017). Medium credibility.
 
 KDIGO 2017 CKD-MBD recommendation 4.2.1 — chronic kidney disease (CKD) G3a–G5 not on dialysis: the optimal parathyroid hormone (PTH) level is not known, and "we suggest" that patients whose intact PTH is progressively rising or persistently above the assay's upper normal limit be evaluated for modifiable factors, including hyperphosphatemia, hypocalcemia, high phosphate intake, and vitamin D deficiency, with an evidence grade of 2C.
 
 ---
 
-### A novel SLC12A3 homozygous c2039delG mutation in gitelman syndrome with hypocalcemia [^3ad79f89]. BMC Nephrology (2018). Low credibility.
+### A novel SLC12A3 homozygous c2039delG mutation in gitelman syndrome with hypocalcemia [^112WEi2L]. BMC Nephrology (2018). Low credibility.
 
 Hypocalcemia was rarely reported in GS cases, because calcium excretion through urine is very little. Some explanation to hypocalcemia is that hypomagnesaemia causes defective cyclic AMP generation in the parathyroid glands and in the PTH target organs, leading to impaired secretion of PTH as well as end-organ resistance to PTH. Furthermore PTH could increase serum magnesium by increasing its gastrointestinal absorption and bone resorption. This may explain why our patient had hypocalcemia and transiently decreased PTH. The patient regained normal calcium and PTH status soon. It also reminded us that her tetany was mainly due to hypomagnesemia because it recurred at a normal plasma calcium level.
 
@@ -720,7 +720,7 @@ Treatment of GS is usually managed by a liberal salt (NaCl) intake, together wit
 
 ---
 
-### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^eda68757]. Cardiovascular Diabetology (2009). Low credibility.
+### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^1175L12e]. Cardiovascular Diabetology (2009). Low credibility.
 
 What explains the possible link between PTH and MS?
 
@@ -736,7 +736,7 @@ Our study also had limitations. First, the cross-sectional design makes it diffi
 
 ---
 
-### Efficacy and safety of parathyroid hormone replacement with transCon PTH in hypoparathyroidism: 26-week results from the phase 3 paTHway trial [^71a06347]. Journal of Bone and Mineral Research (2023). Medium credibility.
+### Efficacy and safety of parathyroid hormone replacement with transCon PTH in hypoparathyroidism: 26-week results from the phase 3 paTHway trial [^113uTUT8]. Journal of Bone and Mineral Research (2023). Medium credibility.
 
 Introduction
 
@@ -746,7 +746,7 @@ Current consensus guidelines for the long‐term management of chronic hypoparat
 
 ---
 
-### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^9a494752]. Cardiovascular Diabetology (2009). Low credibility.
+### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^114wjhys]. Cardiovascular Diabetology (2009). Low credibility.
 
 Discussion
 
@@ -764,7 +764,7 @@ Low serum magnesium has been shown to predict type 2 diabetes and MS. Our study 
 
 ---
 
-### The genetic spectrum of gitelman (-like) syndromes [^b60e5030]. Current Opinion in Nephrology and Hypertension (2022). Medium credibility.
+### The genetic spectrum of gitelman (-like) syndromes [^115euZ8j]. Current Opinion in Nephrology and Hypertension (2022). Medium credibility.
 
 SLC12A3 – CLASSIC GITELMAN
 
@@ -774,7 +774,7 @@ In-depth phenotyping of Gitelman patients with SLC12A3 mutations has resulted in
 
 ---
 
-### Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake… [^a92ffe33]. JAMA Network (2005). Excellent credibility.
+### Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake… [^115Kq2c2]. JAMA Network (2005). Excellent credibility.
 
 At the low serum 25-hydroxyvitamin D level, calcium intake of less than 800 mg/d vs more than 1200 mg/d was significantly associated with higher serum PTH; and at a calcium intake of more than 1200 mg/d, there was a significant difference between the lowest and highest vitamin D groups. An inverse relationship between serum 25-hydroxyvitamin D and serum parathyroid hormone is well established, up to a certain level of 25-hydroxyvitamin D, in which little further decrease in serum PTH is observed. In this group, serum PTH levels were highest in the low calcium group. Thus, Figure 2 and the overall statistical model indicated a strong association between vitamin D status and serum PTH, whereas the effect of calcium intake may be most important in the low vitamin D status group. At the low serum 25-hydroxyvitamin D level, there was a significant difference in serum PTH according to calcium intake.
 
@@ -784,7 +784,7 @@ In conclusion, our study suggests that vitamin D sufficiency may be more importa
 
 ---
 
-### Effect of magnesium supplementation on chronic kidney disease-mineral and bone disorder in hemodialysis patients: a meta-analysis of randomized controlled trials [^9f325959]. Journal of Renal Nutrition (2022). Medium credibility.
+### Effect of magnesium supplementation on chronic kidney disease-mineral and bone disorder in hemodialysis patients: a meta-analysis of randomized controlled trials [^11551wgk]. Journal of Renal Nutrition (2022). Medium credibility.
 
 Objectives
 
@@ -804,13 +804,13 @@ Our results showed that Mg supplementation alone could improve CKD-MBD by regula
 
 ---
 
-### KDOQI US commentary on the 2017 KDIGO clinical practice guideline update for the diagnosis, evaluation, prevention, and Treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^7a7f44c6]. American Journal of Kidney Diseases (2017). Medium credibility.
+### KDOQI US commentary on the 2017 KDIGO clinical practice guideline update for the diagnosis, evaluation, prevention, and Treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^1148cEms]. American Journal of Kidney Diseases (2017). Medium credibility.
 
 KDOQI commentary — key points addressed summarize three focus areas: Diagnosis and treatment of bone includes "Recommendations related to BMD testing, bone biopsy, and treatment" and highlights a "Lack of evidence to guide treatment to prevent fractures in patients with CKD"; management targeted at minerals includes "Treatment of CKD-MBD Targeted at Lowering High Serum Phosphate and Maintaining Serum Calcium" with "Recommendations related to management of phosphate and calcium levels" and "Impediments related to implementation of recommendations for dietary phosphate intake"; and abnormal parathyroid hormone (PTH) discusses "Treatment of Abnormal PTH levels in CKD-MBD" with "Recommendations related to management of elevated PTH levels" and "Potential unintended consequences of updated recommendations with regard to management of secondary hyperparathyroidism in patients with advanced CKD".
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^4a592f23]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^112uE3JS]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 Ca also regulates parathyroid function by modulating the expression of key inhibitory receptors such as the CaR, VDR and FGFR/Klotho. In the present study we addressed whether Mg is also able to regulate the CaR expression. We did this by incubating parathyroid glands at a Ca concentration of 1.0 mM and Mg concentrations of 0.5 or 2.0 mM, which are inside the physiologically possible range. The expression of CaR, measured both at mRNA and protein levels, was upregulated by high Mg concentration. Thus, this distinct effect of Mg on the CaR expression represents an additional contribution of this cation to reduce PTH secretion. From previous own experiments, we know that the minimal incubation period required for seeing a response in gene expression is 6 h. Therefore, the inhibitory effect of Mg on PTH secretion observed in our in vitro experiments cannot be attributed to changes in parathyroid CaR expression because the PTH secretion was evaluated after a 1 h of incubation, which is not enough time to allow for changes in CaR expression.
 
@@ -820,7 +820,7 @@ Recent studies have shown that FGF23 regulates parathyroid function. FGF23 exert
 
 ---
 
-### A patient with speechlessness and rhabdomyolysis: a rare presentation of severe hypocalcaemia [^8a27de89]. BMJ Case Reports (2020). High credibility.
+### A patient with speechlessness and rhabdomyolysis: a rare presentation of severe hypocalcaemia [^114Xpgc8]. BMJ Case Reports (2020). High credibility.
 
 Second, hypomagnesaemia was present, which could have contributed to the severeness of his hypocalcaemia. Hypomagnesaemia can induce PTH resistance and diminish its secretion, impairing PTH release in response to hypocalcaemia even more. However, low PTH can also induce hypomagnesemia in return. Nevertheless, symptoms like laryngospasm will present more likely when both cations are low. Therefore, the substitution of magnesium besides calcium aids in both calcium and magnesium concentrations, resulting in quicker resolution of symptoms.
 
@@ -836,13 +836,13 @@ At first, I was stunned by everything that happened. When I came to the hospital
 
 ---
 
-### Clinical and genetic analysis of pseudohypoparathyroidism complicated by hypokalemia: a case report and review of the literature [^501176df]. BMC Endocrine Disorders (2022). Medium credibility.
+### Clinical and genetic analysis of pseudohypoparathyroidism complicated by hypokalemia: a case report and review of the literature [^1133hsn6]. BMC Endocrine Disorders (2022). Medium credibility.
 
 PHP is typically classified as type 1 or type 2. Type 1 is distinguished from type 2 by the abnormal cAMP response in urine by exogenous PTH stimulation. Type 1 PHP can be further subtyped into PHP-1a, PHP-1b and PHP-1c according to the presence or absence of AHO, together with the measurement of Gsα protein activity in peripheral erythrocyte membranes in vitro. PHP-1b, in most case lack the evidence for AHO, is caused by epigenetic changes at one or several DMR within GNAS. In terms of the decreased Gsα activity, PTH-1a and PHP-1b can overlap in clinical findings. PHP-1a can sometimes present as a mild phenotype of AHO. Zazo et al. reported methylation defects in patients with AHO (ex. mild brachydactyly and partial resistance to TSH), indicating a complex connection between genetic or epigenetic changes and AHO. Thus, to ensure accurate diagnosis and subtyping of PHP, genetic analysis of mutations in GNAS exons, as well as epigenetic modifications, should also be considered. PHP is often complicated by an imbalance of electrolytes. Takatani et al. reported significantly reduced magnesium levels in PHP-1b patients. However, PHP-1b accompanied by persistent hypokalemia without hypomagnesemia has rarely been reported. The present study provides novel insight into PHP-1b.
 
 ---
 
-### Parathyroid hormone and phosphate homeostasis in patients with bartter and gitelman syndrome: an international cross-sectional study [^91701143]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### Parathyroid hormone and phosphate homeostasis in patients with bartter and gitelman syndrome: an international cross-sectional study [^114icr7U]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 Another noteworthy finding in our cohort was that 20% of patients with Gitelman syndrome had hypoparathyroidism. The calcium-sensing receptor signalling is known to be dependent on extracellular magnesium levels. Unlike calcium, PTH secretion is inhibited by supraphysiologically high magnesium levels via stimulation of the calcium-sensing receptor, but also by low magnesium concentrations. This latter response is suggested to result from intracellular disinhibition of G-protein signalling downstream from the calcium-sensing receptor, precluding PTH release. Accordingly, decreased PTH secretion and decreased responsiveness of PTH to ionized calcium have been suggested in small cohorts of patients with Gitelman syndrome. In agreement with these data, we observed a significant correlation between PTH and serum magnesium in patients with Gitelman syndrome, suggesting that low serum magnesium might be, at least in part, responsible for hypoparathyroidism.
 
@@ -850,19 +850,19 @@ Hypophosphatemia was common in all disease subgroups, in particular in Bartter s
 
 ---
 
-### Bone in parathyroid diseases revisited: evidence from epidemiological, surgical and new drug outcomes [^1efd065d]. Endocrine Reviews (2025). Medium credibility.
+### Bone in parathyroid diseases revisited: evidence from epidemiological, surgical and new drug outcomes [^111nwcmz]. Endocrine Reviews (2025). Medium credibility.
 
 Preventing signs and symptoms of hypocalcemia, maintaining serum calcium levels in the low normal range or slightly below normal, preventing hypercalciuria and hypercalcemia, keeping the calcium-phosphate product below 55 mg²/dL², and preventing renal (nephrocalcinosis/nephrolithiasis) and other extraskeletal calcifications are the main objectives of treatment. Conventional therapy of HypoPTH includes not only the emergency management of acute and severe hypocalcemia with IV administration of calcium gluconate, but also the management of chronic hypocalcemia with calcium, calcitriol, as well as magnesium supplements, whenever required. The normalization of serum calcium levels through traditional treatment involving calcium and active vitamin D fails to fully restore normal calcium homeostasis physiology. Instead, it leads to hypercalciuria and hyperphosphatemia because it lacks renal calcium reabsorption and phosphaturia typically stimulated by PTH. Consequently, this standard approach heightens the risk of extraskeletal calcifications and long-term kidney complications. Moreover, the absence of PTH results in abnormal bone remodeling and contributes to reduced quality of life for many hypoparathyroidism patients despite adhering to conventional therapy. These challenges have prompted scientific exploration into alternative therapeutic avenues. Since the mid-1990s, synthetic PTH (1–34) has been proposed for the management of refractory HypoPTH, with promising results. rhPTH (1–84) has been approved for the treatment of adults with HypoPTH refractory to conventional therapy, with the exception of patients who have autosomal dominant hypocalcemia.
 
 ---
 
-### Hypoparathyroidism [^97ef2e0a]. Nature Reviews: Disease Primers (2017). Medium credibility.
+### Hypoparathyroidism [^114tFU9o]. Nature Reviews: Disease Primers (2017). Medium credibility.
 
 Hypoparathyroidism is a disease characterized by inadequately low circulating concentrations of parathyroid hormone (PTH) resulting in low calcium levels and increased phosphate levels in the blood. Symptoms of the disease result from increased neuromuscular irritability caused by hypocalcaemia and include tingling, muscle cramps and seizures. The most common cause of the disease is inadvertent removal of, or injury to, the parathyroid glands during neck surgery, followed by genetic, idiopathic and autoimmune aetiologies. Conventional treatment includes activated vitamin D and/or calcium supplements, but this treatment does not fully replace the functions of PTH and can lead to short-term problems (such as hypocalcaemia, hypercalcaemia and increased urinary calcium excretion) and long-term complications (which include nephrocalcinosis, kidney stones and brain calcifications). PTH replacement has emerged as a new treatment option. Clinical trials using human PTH(1–34) and PTH(1–84) showed that this treatment was safe and effective in studies lasting up to 6 years. Recombinant human PTH(1–84) has been approved in the United States and Europe for the management of hypoparathyroidism; however, its effect on long-term complications is still being evaluated. Clinical practice guidelines, which describe the consensus of experts in the field, have been published and recognize the need for more research to optimize care. In this Primer, we summarize current knowledge of the prevalence, pathophysiology, clinical presentation and management of hypoparathyroidism.
 
 ---
 
-### Magnesium, vitamin D status and mortality: results from US national health and nutrition examination survey (NHANES) 2001 to 2006 and NHANES III [^eeae836a]. BMC Medicine (2013). Low credibility.
+### Magnesium, vitamin D status and mortality: results from US national health and nutrition examination survey (NHANES) 2001 to 2006 and NHANES III [^1176rfs7]. BMC Medicine (2013). Low credibility.
 
 The critical roles of magnesium in the synthesis of VDBP, PTH, 25(OH)D and 1,25(OH) 2 D may partially explain why the inverse associations between serum 25(OH)D and risk of total mortality and mortality due to colorectal cancer and CVD primarily existed among those with magnesium intake above the median. High magnesium may increase the availability of 1,25 (OH)2D through activating the synthesis of 25(OH)D and 1,25 (OH)2D and increasing the transfer to target tissues by elevating vitamin D binding protein (VDBP) (Figure 1). This explanation is also supported by the observation in previous clinical studies that magnesium supplementation substantially reversed the resistance to vitamin D treatment among magnesium-deficient patients.
 
@@ -870,7 +870,7 @@ Previous studies found PTH level was elevated when serum 25(OH)D was under 20 ng
 
 ---
 
-### Parathyroid hormone and phosphate homeostasis in patients with bartter and gitelman syndrome: an international cross-sectional study [^3a824017]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### Parathyroid hormone and phosphate homeostasis in patients with bartter and gitelman syndrome: an international cross-sectional study [^112Vk2pv]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 While Bartter and Gitelman syndromes share similarities, including hypokalaemia, metabolic alkalosis, hyperreninemic hyperaldosteronism and low/normal blood pressure, differences in the tubular segments where NaCl reabsorption is compromised produce different clinical pictures. Patients with Gitelman syndrome usually present in late childhood or early adulthood. Typically, patients with Gitelman syndrome have hypomagnesemia and hypocalciuria. Conversely, type I and II Bartter syndrome patients usually present antenatally with polyhydramnios and postnatally with severe polyuria, hypercalciuria and early onset nephrocalcinosis. Patients with type III Bartter syndrome have variable phenotypes that, in some cases, are difficult to distinguish from Gitelman syndrome. The large phenotypic spectrum of Bartter III patients is most likely explained by variable expression of the pathogenic gene product in the TAL and DCT and by the possibility of partial compensation by other chloride channels, in particular, ClC-Ka in the TAL.
 
@@ -880,7 +880,7 @@ To verify whether these observations from case reports and small series are prev
 
 ---
 
-### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^d8c48798]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Magnesium modulates parathyroid hormone secretion and upregulates parathyroid receptor expression at moderately low calcium concentration [^116YNLaT]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 Statistical analysis
 
@@ -888,7 +888,7 @@ Results are expressed as the mean ± SEM (n = 9 in each group: three different e
 
 ---
 
-### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^61ae4b1f]. Cardiovascular Diabetology (2009). Low credibility.
+### Parathyroid hormone, but not vitamin D, is associated with the metabolic syndrome in morbidly obese women and men: a cross-sectional study [^113VpLr2]. Cardiovascular Diabetology (2009). Low credibility.
 
 PTH, vitamin D, magnesium and odds for having MS
 
@@ -908,7 +908,7 @@ Odds ratios (95% CI) for metabolic syndrome by quartiles of PTH (reference quart
 
 ---
 
-### Bisoprolol fumarate and hydrochlorothiazide (bisoprolol fumarate hydrochlorothiazide) [^6a6f61ec]. FDA (2006). Low credibility.
+### Bisoprolol fumarate and hydrochlorothiazide (bisoprolol fumarate hydrochlorothiazide) [^113io6n7]. FDA (2006). Low credibility.
 
 General
 
@@ -932,7 +932,7 @@ Hyperuricemia or acute gout may be precipitated in certain patients receiving th
 
 ---
 
-### Calcium homeostasis during magnesium treatment in aneurysmal subarachnoid hemorrhage [^8aa01dba]. Neurocritical Care (2008). Low credibility.
+### Calcium homeostasis during magnesium treatment in aneurysmal subarachnoid hemorrhage [^114YX5Cm]. Neurocritical Care (2008). Low credibility.
 
 Objective
 
@@ -952,7 +952,7 @@ Magnesium treatment in patients with SAH leads to hypocalcemia without effect on
 
 ---
 
-### Citrate dose for continuous hemofiltration: effect on calcium and magnesium balance, parathormone and vitamin D status, a randomized controlled trial [^51506c5f]. BMC Nephrology (2021). Medium credibility.
+### Citrate dose for continuous hemofiltration: effect on calcium and magnesium balance, parathormone and vitamin D status, a randomized controlled trial [^1135Z1bk]. BMC Nephrology (2021). Medium credibility.
 
 For Mg loss differences between the 2 groups were not constant over time (group by time interaction p < 0.0001). However, after correction for multiple testing, the differences between the 2 groups at individual time points were not significant.
 
@@ -969,7 +969,7 @@ PTH measurements
 
 ---
 
-### Effects of once versus twice-daily parathyroid hormone 1–34 therapy in children with hypoparathyroidism [^b98512d5]. The Journal of Clinical Endocrinology and Metabolism (2008). Low credibility.
+### Effects of once versus twice-daily parathyroid hormone 1–34 therapy in children with hypoparathyroidism [^115k3Qck]. The Journal of Clinical Endocrinology and Metabolism (2008). Low credibility.
 
 Context
 
@@ -1001,19 +1001,19 @@ We conclude that a twice-daily PTH 1–34 regimen provides a more effective trea
 
 ---
 
-### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^9b61ecda]. Pediatrics (2025). High credibility.
+### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^114yMyRB]. Pediatrics (2025). High credibility.
 
 Endocrinologic care in 22q11.2 deletion syndrome (22q11.2DS) — hypocalcemia and supplementation — Vitamin D supplementation and a calcium-rich diet based on recommended daily intake for age should be emphasized from infancy to adulthood; for those with transient or persistent hypoparathyroidism, maintenance therapy is calcitriol, with or without calcium supplementation. Hypomagnesemia may also contribute to the problem; thus, magnesium supplementation is indicated for those with hypomagnesemia. For patients requiring supplementation, it is important to monitor for hypercalciuria with spot urinary calcium and calcium/creatinine ratio when measuring blood calcium every 3 to 4 months and to consider intermittent renal ultrasonography; obtain baseline renal ultrasonogram and consider intermittent renal ultrasonography if receiving calcium supplementation. Any symptomatic presentation of hypocalcemia should prompt an urgent evaluation for hypoparathyroidism including measurements of total calcium, ionized calcium, PTH, phosphate, 25-OH-D, and magnesium. Check total calcium concentrations every 3 to 6 months during infancy, then every 1 to 2 years thereafter, and check total calcium concentrations preoperatively, postoperatively, and during severe illness. Symptomatic hypocalcemia is managed acutely via intravenous infusion of calcium along with standard oral replacement of calcium and calcitriol. For patients with structural renal anomalies, such as renal agenesis or dysplastic kidney, lower calcium doses may be needed; referral to a pediatric endocrinologist and/or pediatric nephrologist should be arranged at the time of diagnosis if there is any concern about hypo- or hypercalcemia and for subsequent management. Long-term management of hypocalcemia has the goal of maintaining a low-normal calcium concentration to avoid complications of hypercalciuria.
 
 ---
 
-### Mechanisms and causes of hypomagnesemia [^d850c485]. Current Opinion in Nephrology and Hypertension (2016). Low credibility.
+### Mechanisms and causes of hypomagnesemia [^116XhTMN]. Current Opinion in Nephrology and Hypertension (2016). Low credibility.
 
 Among other possible causes, hypomagnesemia can be caused by alcohol use disorder, acute kidney injury, burn injury, hypercalcemia, acute diarrhea, complications of blood transfusion, gastric fistula, VIPoma, hypoparathyroidism, thyrotoxic hypokalemic periodic paralysis, hyperaldosteronism, diabetic ketoacidosis, kwashiorkor, primary hypomagnesemia, interstitial nephritis, hyperparathyroidism, fistula of intestine, oxalate blood sample, EDTA blood sample, citrated blood sample, acute pancreatitis and syndrome of inappropriate antidiuretic hormone secretions. In addition, hypomagnesemia can be caused by medications such as voriconazole, tacrolimus, rabeprazole DR, pazopanib, pantoprazole DR, panitumumab, pamidronate, omeprazole DR, necitumumab, lansoprazole DR, hydrochlorothiazide, gentamicin, foscarnet, esomeprazole magnesium DR, dinutuximab, dexlansoprazole DR, cyclosporine, conivaptan, cisplatin, cetuximab, bumetanide, nadolol / bendroflumethiazide, arsenic trioxide, amphotericin B liposomal, amikacin, furosemide, esomeprazole sodium, patiromer and tacrolimus ER.
 
 ---
 
-### Low magnesium diet aggravates phosphate-induced kidney injury [^58a1555a]. Nephrology, Dialysis, Transplantation (2019). Medium credibility.
+### Low magnesium diet aggravates phosphate-induced kidney injury [^113GQ6py]. Nephrology, Dialysis, Transplantation (2019). Medium credibility.
 
 Background
 
@@ -1033,13 +1033,13 @@ A low magnesium diet aggravated high phosphate diet-induced kidney injuries. Imp
 
 ---
 
-### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^e7574141]. Kidney International Supplements (2017). Medium credibility.
+### KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone Disorder (CKD-MBD) [^116uySxg]. Kidney International Supplements (2017). Medium credibility.
 
 CKD G3a–G5 not on dialysis with progressively rising and persistently elevated serum PTH — section 4.2.2 presents a research question that states "what is the evidence for", with key outcomes of LVH, Hypercalcemia, Mortality, and Cardiovascular and cerebrovascular events; additional outcomes include Calcium, Phosphate, Parathyroid hormone, and 25-hydroxyvitamin D [25(OH)D].
 
 ---
 
-### Safety and efficacy of PTH 1–34 and 1–84 therapy in chronic hypoparathyroidism: a meta-analysis of prospective trials [^d6b16f8c]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Safety and efficacy of PTH 1–34 and 1–84 therapy in chronic hypoparathyroidism: a meta-analysis of prospective trials [^116VHx2w]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Conclusions
 
@@ -1047,13 +1047,13 @@ Our meta‐analysis of the largest available number of treated patients demonstr
 
 ---
 
-### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^c56f8d1a]. Pediatrics (2008). Medium credibility.
+### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^1163i2i5]. Pediatrics (2008). Medium credibility.
 
 Treatment of vitamin D–deficiency rickets — calcium dosing and monitoring specifies calcium "30–75 mg/kg per d of elemental calcium in 3 divided doses (start at a higher dose, and wean down to the lower end of the range over 2–4 wk)", with monitoring "At 1 mo: calcium, phosphorus, ALP", "At 3 mo: calcium, phosphorus, magnesium, ALP, PTH, 25(OH)-D", and "At 1 y and annually: 25(OH)-D".
 
 ---
 
-### Fosinopril sodium and hydrochlorothiazide [^ad6e6423]. FDA (2024). Medium credibility.
+### Fosinopril sodium and hydrochlorothiazide [^115S7wM4]. FDA (2024). Medium credibility.
 
 The opposite effects of fosinopril and hydrochlorothiazide on serum potassium will approximately balance each other in many patients, so that no net effect upon serum potassium will be seen. In other patients, one or the other effect may be dominant. Initial and periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
 
@@ -1077,7 +1077,7 @@ In patients undergoing surgery or during anesthesia with agents that produce hyp
 
 ---
 
-### Risedronate sodium (atelvia) [^bfcc0ba7]. FDA (2023). Medium credibility.
+### Risedronate sodium (atelvia) [^115uMAxE]. FDA (2023). Medium credibility.
 
 Laboratory Test Findings:
 
@@ -1089,7 +1089,7 @@ The safety of risedronate sodium immediate-release 5 mg once daily in the treatm
 
 ---
 
-### Global guidance for the recognition, diagnosis, and management of tumor-induced osteomalacia [^a42530cf]. Journal of Internal Medicine (2023). Medium credibility.
+### Global guidance for the recognition, diagnosis, and management of tumor-induced osteomalacia [^115CMTkS]. Journal of Internal Medicine (2023). Medium credibility.
 
 Patient follow‐up and monitoring in collaboration with specialists
 
@@ -1105,13 +1105,13 @@ Some patients have persistent hypophosphatemia and elevated FGF23 levels after r
 
 ---
 
-### Endocrine and metabolic emergencies: hypercalcaemia [^d4af3f42]. Therapeutic Advances in Endocrinology and Metabolism (2010). Low credibility.
+### Endocrine and metabolic emergencies: hypercalcaemia [^116SKEqF]. Therapeutic Advances in Endocrinology and Metabolism (2010). Low credibility.
 
 Hypercalcaemia is commonly seen in the context of parathyroid dysfunction and malignancy and, when severe, can precipitate Life-threatening sequelae. The differential of hypercalcaemia is broad and can be categorized based on parathyroid hormone (PTH) Levels. The acute management of severe hypercalcaemia is discussed along with a brief review of therapeutic advances in the field.
 
 ---
 
-### Familial hypomagnesaemia, hypercalciuria and nephrocalcinosis associated with a novel mutation of the highly conserved leucine residue 116 of claudin 16 in a Chinese patient with a delayed diagnosis: a case report [^d7f6df89]. BMC Nephrology (2018). Low credibility.
+### Familial hypomagnesaemia, hypercalciuria and nephrocalcinosis associated with a novel mutation of the highly conserved leucine residue 116 of claudin 16 in a Chinese patient with a delayed diagnosis: a case report [^116XBG4p]. BMC Nephrology (2018). Low credibility.
 
 Fig. 1
 Pedigree of the Chinese family with familial hypomagnesemia with hypercalciuria and nephrocalcinosis. □, male; ○, female; ↗, proband
@@ -1126,13 +1126,13 @@ Imaging of renal tract in the proband. a. Plain abdominal radiograph showing bil
 
 ---
 
-### Mineral metabolism and vitamin D in chronic kidney disease – more questions than answers [^5c0b3e76]. Nature Reviews: Nephrology (2011). Medium credibility.
+### Mineral metabolism and vitamin D in chronic kidney disease – more questions than answers [^113MTdyf]. Nature Reviews: Nephrology (2011). Medium credibility.
 
 Patients with chronic kidney disease (CKD) are at increased risk of total and cardiovascular morbidity and mortality. The underlying pathophysiology of this association remains largely unexplained and there is currently no clear interventional pathway. Emphasis has been placed on measuring serum levels of calcium, phosphate and parathyroid hormone (PTH) to monitor disease progression, driven by the assumption that achieving values within the 'normal' range will translate into improved outcomes. Retrospective studies have provided a body of evidence that abnormal levels of mineral biomarkers, and phosphate in particular, are associated with clinical events. Disturbances in vitamin D metabolism are also likely to contribute to the pathophysiology of CKD. Designing studies that yield useful information has proved to be difficult, partly owing to conceptual and financial limitations, but also because of the tight interdependency of calcium, phosphate and PTH, and the potential impact of vitamin D on these mineral metabolites. An intervention that perturbs any one of these factors is likely to exert effects on the others, making isolation of the individual variables almost impossible. However, some therapies in current use have the potential to act as probes to answer questions relating to the association between mineral biomarkers and outcomes in CKD.
 
 ---
 
-### Phosphorus supplementation mitigates perivascular adipose inflammation-induced cardiovascular consequences in early metabolic impairment [^6884049d]. Journal of the American Heart Association (2021). Medium credibility.
+### Phosphorus supplementation mitigates perivascular adipose inflammation-induced cardiovascular consequences in early metabolic impairment [^113fx4E8]. Journal of the American Heart Association (2021). Medium credibility.
 
 As for the triglyceride levels, although increased serum levels could be tied to increased calorie intake, adipose tissue inflammation was shown to contribute to increased triglyceride levels by a variety of mechanisms including increased insulin resistance. As such, it might be plausible that Pi supplementation could normalize serum triglyceride levels through the amelioration of PVAT inflammation and normalization of insulin levels. A lowering effect on serum lipids was observed for Pi supplementation before. However, a potential caveat for this explanation would be the relatively limited impact of a small adipose depot like PVAT on systemic levels of triglycerides. As such, it might be necessary to invoke additional explanations including the overall improvement of metabolism and energy expenditure previously reported for Pi supplementation.
 
@@ -1140,13 +1140,13 @@ Interestingly, the observed changes occurred in the absence of a detectable alte
 
 ---
 
-### Hypomagnesemia… [^eb627ee3]. JAMA Network (2024). Excellent credibility.
+### Hypomagnesemia… [^1171yB5L]. JAMA Network (2024). Excellent credibility.
 
 Chronic renal failure is accompanied by secondary hyperparathyroidism. Inhibition of parathyroid hormone secretion has been reported to be induced by hypomagnesemia in conditions other than chronic renal failure, since severe hypomagnesemia is rare in chronic renal failure. In the case reported here, the patient had chronic renal failure and malabsorption-induced hypomagnesemia; she exhibited hypoparathyroidism while hypomagnesemic, and hyperparathyroidism after magnesium was replaced. Hypomagnesemia induced parathyroid hormone suppression in this patient with chronic renal failure, despite the presence of chronic hyperfunctioning parathyroid cells. Miller PD, Krebs RA, Neal BJ, McIntyre DO. Hypomagnesemia: Suppression of Secondary Hyperparathyroidism in Chronic Renal Failure. JAMA. 1979; 241: 722–723.
 
 ---
 
-### Acute effect of high-calcium milk with or without additional magnesium, or calcium phosphate on parathyroid hormone and biochemical markers of bone resorption [^1dc81660]. European Journal of Clinical Nutrition (2003). Low credibility.
+### Acute effect of high-calcium milk with or without additional magnesium, or calcium phosphate on parathyroid hormone and biochemical markers of bone resorption [^111m9rBy]. European Journal of Clinical Nutrition (2003). Low credibility.
 
 Objective
 
@@ -1178,7 +1178,7 @@ Despite differences in serum calcium and PTH responses to the three high-calcium
 
 ---
 
-### Safety and efficacy of oral human parathyroid hormone (1–34) in hypoparathyroidism: an open-label study [^a33353e0]. Journal of Bone and Mineral Research (2021). Medium credibility.
+### Safety and efficacy of oral human parathyroid hormone (1–34) in hypoparathyroidism: an open-label study [^115AxDsu]. Journal of Bone and Mineral Research (2021). Medium credibility.
 
 Introduction
 
@@ -1186,13 +1186,13 @@ Primary hypoparathyroidism (hypoPT) is a rare mineral metabolism disorder, with 
 
 ---
 
-### Familial hypomagnesaemia with secondary hypocalcaemia [^4160f805]. BMJ Case Reports (2016). Medium credibility.
+### Familial hypomagnesaemia with secondary hypocalcaemia [^112fvmRW]. BMJ Case Reports (2016). Medium credibility.
 
 Magnesium is the second most abundant intracellular cation and plays an essential role in neuronal, skeletal and cardiac tissue. Hypomagnesaemia can cause hypocalcaemia by inhibiting parathyroid hormone release and inducing resistance at its receptor sites. Untreated hypomagnesaemia can lead to tetany, recurrent seizures, status epilepticus and life-threatening arrhythmias. Primary hypomagnesaemia with secondary hypocalcaemia (HSH) is a rare metabolic disorder of intestinal magnesium absorption. The condition typically presents in the neonatal period with neuromuscular excitability and seizures refractory to antiepileptic therapy. Early diagnosis and prompt magnesium replacement are essential to prevent death or long-term neurodevelopmental sequelae. Fewer than a hundred cases are reported in the literature. Recent advances have added significantly to our understanding of the genetic basis of HSH. We report the presentation and long-term follow-up of an affected female who was found to have a mutation in the transient receptor potential melastatin 6 (TRPM6) gene, encoding a transient receptor potential cation channel.
 
 ---
 
-### Synthetic human parathyroid hormone 1–34 replacement therapy: a randomized crossover trial comparing pump versus injections in the treatment of chronic hypoparathyroidism [^d52353d4]. The Journal of Clinical Endocrinology and Metabolism (2012). Low credibility.
+### Synthetic human parathyroid hormone 1–34 replacement therapy: a randomized crossover trial comparing pump versus injections in the treatment of chronic hypoparathyroidism [^116SzEG3]. The Journal of Clinical Endocrinology and Metabolism (2012). Low credibility.
 
 Context
 
@@ -1216,12 +1216,12 @@ Pump delivery of PTH 1–34 provides the closest approach to date to physiologic
 
 ---
 
-### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^3748f23b]. Pediatrics (2008). Medium credibility.
+### Vitamin D deficiency in children and its management: review of current knowledge and recommendations [^112QxpcA]. Pediatrics (2008). Medium credibility.
 
 Vitamin D deficiency in children — monitoring therapy includes scheduled labs and imaging. It is important to obtain calcium, phosphorus, and alkaline phosphatase (ALP) levels 1 month after initiating therapy, and with stoss therapy a biochemical response occurs in 1 or 2 weeks with an early increase in phosphate; ALP may actually increase in the short term, there is usually an initial increase in 1,25(OH)2-D, then ALP and 1,25(OH)2-D decrease to normal while 25(OH)-D increases to within the reference range. Complete radiologic healing may take months, but changes are evident in 1 week. In 3 months, it is important to obtain calcium, phosphorus, magnesium, ALP, 25(OH)-D, and parathyroid hormone (PTH) levels, and one may consider obtaining a urine sample to determine the calcium/creatinine ratio. A radiograph should be repeated at 3 months, and subsequently 25(OH)-D levels should be monitored yearly.
 
 ---
 
-### Elevated PTH with normal serum calcium level: a structured approach [^0f0a2910]. Clinical Endocrinology (2016). Low credibility.
+### Elevated PTH with normal serum calcium level: a structured approach [^111PJEAj]. Clinical Endocrinology (2016). Low credibility.
 
 Normocalcaemic hyperparathyroidism is a common biochemical finding, usually identified during an assessment of bone or renal health. Hypercalcaemia must be considered by calculation of adjusted calcium, and a careful history taken to assess dietary calcium intake and for the possibility of a malabsorption syndrome. 25-hydroxyvitamin D (25OHD) should be measured and replaced if indicated. The management plan for the patient is influenced by the context in which calcium and PTH were measured. In this brief review we describe the assessment of a patient with normocalcaemic hyperparathyroidism.

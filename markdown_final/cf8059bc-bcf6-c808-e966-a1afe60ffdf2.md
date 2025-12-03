@@ -17,21 +17,21 @@ What is a sitz bath
 
 > Let me first confirm the basic definition. A sitz bath is a warm-water bath in which the patient immerses the perineal and perianal region, typically using a basin or tub that allows the hips and buttocks to be submerged while keeping the rest of the body out of water; salt may be added, and the purpose is local cleansing and symptom relief rather than whole-body bathing.
 
-> Wait, let me verify the clinical indications before I overgeneralize. Sitz baths are commonly recommended for benign anorectal conditions such as anal fissures, hemorrhoids, and postoperative anorectal care, and they are included in first-line conservative management for acute anal fissure alongside fiber and fluids; they are also used after hemorrhoidectomy and fistula surgery, and occasionally for perineal trauma or obstetric healing, though the strength of evidence varies by condition [^b352c010] [^12b6a90d] [^72b6ccca] [^80856035].
+> Wait, let me verify the clinical indications before I overgeneralize. Sitz baths are commonly recommended for benign anorectal conditions such as anal fissures, hemorrhoids, and postoperative anorectal care, and they are included in first-line conservative management for acute anal fissure alongside fiber and fluids; they are also used after hemorrhoidectomy and fistula surgery, and occasionally for perineal trauma or obstetric healing, though the strength of evidence varies by condition [^115araYo] [^111Uk8ap] [^113w4zMf] [^114HYDSc].
 
-> Hold on, let's not jump to conclusions about efficacy. I need to check the quality of evidence. High-credibility guidelines endorse sitz baths for acute anal fissure as part of conservative therapy, citing good tolerability and meaningful symptom relief in many patients, with nearly half healing without further intervention in some series, which supports their routine use despite limited high-quality trials [^b352c010] [^12b6a90d]. But wait, what if the effect is modest or context-dependent? A randomized study after sphincterotomy found no pain advantage but did show significant reduction in anal burning with sitz baths, suggesting symptom-specific benefit rather than global pain control, which aligns with clinical experience that patients often report comfort and cleansing benefits even when pain scores are unchanged [^2365d38d]. I should also note that a systematic review of non-surgical therapies for anal fissure found sitz baths among many interventions with variable evidence, reinforcing that while they are safe and reasonable, head-to-head superiority data are limited [^df6a9b84].
+> Hold on, let's not jump to conclusions about efficacy. I need to check the quality of evidence. High-credibility guidelines endorse sitz baths for acute anal fissure as part of conservative therapy, citing good tolerability and meaningful symptom relief in many patients, with nearly half healing without further intervention in some series, which supports their routine use despite limited high-quality trials [^115araYo] [^111Uk8ap]. But wait, what if the effect is modest or context-dependent? A randomized study after sphincterotomy found no pain advantage but did show significant reduction in anal burning with sitz baths, suggesting symptom-specific benefit rather than global pain control, which aligns with clinical experience that patients often report comfort and cleansing benefits even when pain scores are unchanged [^111uUmbr]. I should also note that a systematic review of non-surgical therapies for anal fissure found sitz baths among many interventions with variable evidence, reinforcing that while they are safe and reasonable, head-to-head superiority data are limited [^116iE3j1].
 
-> I will now examine post-hemorrhoidectomy data, because that's where conflicting results appear. Some contemporary randomized data suggest ice packing may outperform warm sitz baths for early pain, edema, and wound healing metrics, implying that warm sitz baths may be less effective than previously assumed in the immediate postoperative window; however, this does not negate the role of sitz baths for hygiene, comfort, and later-phase recovery, and guidelines still allow for sitz baths based on surgeon and patient preference, so I should be cautious not to overstate equivalence or superiority of either modality [^3b323dda]. Let me reconsider: this conflict likely reflects differences in timing, patient selection, and outcome measures, and it argues for individualized use rather than abandonment of sitz baths altogether [^4e10f446].
+> I will now examine post-hemorrhoidectomy data, because that's where conflicting results appear. Some contemporary randomized data suggest ice packing may outperform warm sitz baths for early pain, edema, and wound healing metrics, implying that warm sitz baths may be less effective than previously assumed in the immediate postoperative window; however, this does not negate the role of sitz baths for hygiene, comfort, and later-phase recovery, and guidelines still allow for sitz baths based on surgeon and patient preference, so I should be cautious not to overstate equivalence or superiority of either modality [^112Wm9Qu]. Let me reconsider: this conflict likely reflects differences in timing, patient selection, and outcome measures, and it argues for individualized use rather than abandonment of sitz baths altogether [^112zjjGy].
 
-> Next, I should review practical implementation details. Typical instructions use warm water at roughly 40°C for about 10–20 minutes, once or twice daily, often after bowel movements; additives such as salt, potassium permanganate, or herbal decoctions are sometimes used, but evidence for specific additives is limited and should be guided by local practice and patient tolerance; cleanliness and gentle drying afterward are important to avoid maceration or irritation [^1b13d9f6] [^0b448e27] [^cd9498e7]. Hold on, I should verify safety: burns and infections are rare but reported, so patients should test water temperature and use clean equipment; in pregnancy and other special populations, the same general principles apply with attention to comfort and infection prevention [^d393f4e6].
+> Next, I should review practical implementation details. Typical instructions use warm water at roughly 40°C for about 10–20 minutes, once or twice daily, often after bowel movements; additives such as salt, potassium permanganate, or herbal decoctions are sometimes used, but evidence for specific additives is limited and should be guided by local practice and patient tolerance; cleanliness and gentle drying afterward are important to avoid maceration or irritation [^111h9LM3] [^111HhtfY] [^116FnNgN]. Hold on, I should verify safety: burns and infections are rare but reported, so patients should test water temperature and use clean equipment; in pregnancy and other special populations, the same general principles apply with attention to comfort and infection prevention [^116Qg5tZ].
 
-> Let me consider special populations and contexts. In pregnancy, sitz baths are commonly used for hemorrhoidal symptoms and perineal care, and are generally considered safe when performed with warm, not hot, water and appropriate hygiene; maternal hyperthermia thresholds are well studied, and short immersions in warm water within physiologic ranges are not associated with teratogenic risk, which supports the safety of warm sitz baths when used sensibly [^d4c07429] [^7e845e6c]. For infants and children, sitz baths are sometimes used for anorectal conditions like fissures, but evidence is limited and decisions should be individualized; in older adults, attention to mobility and infection risk is prudent, and sitz baths remain a low-risk adjunct when supervised [^1d143bd1] [^d393f4e6].
+> Let me consider special populations and contexts. In pregnancy, sitz baths are commonly used for hemorrhoidal symptoms and perineal care, and are generally considered safe when performed with warm, not hot, water and appropriate hygiene; maternal hyperthermia thresholds are well studied, and short immersions in warm water within physiologic ranges are not associated with teratogenic risk, which supports the safety of warm sitz baths when used sensibly [^116SR23a] [^114EZuG7]. For infants and children, sitz baths are sometimes used for anorectal conditions like fissures, but evidence is limited and decisions should be individualized; in older adults, attention to mobility and infection risk is prudent, and sitz baths remain a low-risk adjunct when supervised [^111k7SMe] [^116Qg5tZ].
 
-> I should double-check the bottom line. A sitz bath is a localized, warm-water immersion of the perineal and perianal area used for cleansing and symptom relief in benign anorectal disease and postoperative care; it is endorsed by major guidelines for acute anal fissure and is commonly offered after anorectal procedures, with benefits that are likely modest, symptom-specific, and patient-dependent, and with a favorable safety profile when performed correctly; conflicting data in post-hemorrhoidectomy pain management suggest tailoring the modality and timing to patient preference and clinical context rather than rejecting sitz baths outright [^b352c010] [^12b6a90d] [^3b323dda] [^4e10f446].
+> I should double-check the bottom line. A sitz bath is a localized, warm-water immersion of the perineal and perianal area used for cleansing and symptom relief in benign anorectal disease and postoperative care; it is endorsed by major guidelines for acute anal fissure and is commonly offered after anorectal procedures, with benefits that are likely modest, symptom-specific, and patient-dependent, and with a favorable safety profile when performed correctly; conflicting data in post-hemorrhoidectomy pain management suggest tailoring the modality and timing to patient preference and clinical context rather than rejecting sitz baths outright [^115araYo] [^111Uk8ap] [^112Wm9Qu] [^112zjjGy].
 
 ---
 
-A sitz bath is a **warm-water immersion** of the perineal and perineal area, typically used after childbirth, surgery, or for conditions such as hemorrhoids, anal fissures, or infections. It provides **symptom relief** by reducing pain, swelling, and irritation, and supports hygiene and wound healing [^b352c010] [^12b6a90d]. Sitz baths are generally safe, but patients should use clean water, avoid harsh additives, and consult a clinician if symptoms persist or worsen [^d393f4e6].
+A sitz bath is a **warm-water immersion** of the perineal and perineal area, typically used after childbirth, surgery, or for conditions such as hemorrhoids, anal fissures, or infections. It provides **symptom relief** by reducing pain, swelling, and irritation, and supports hygiene and wound healing [^115araYo] [^111Uk8ap]. Sitz baths are generally safe, but patients should use clean water, avoid harsh additives, and consult a clinician if symptoms persist or worsen [^116Qg5tZ].
 
 ---
 
@@ -39,11 +39,11 @@ A sitz bath is a **warm-water immersion** of the perineal and perineal area, typ
 
 A sitz bath is a **localized bath** that immerses the perineal and perineal regions in warm water, with the legs and upper body kept out of the water. The primary purposes include:
 
-- **Pain relief**: Reduces discomfort from conditions such as hemorrhoids, anal fissures, and postpartum perineal trauma [^b352c010] [^12b6a90d].
+- **Pain relief**: Reduces discomfort from conditions such as hemorrhoids, anal fissures, and postpartum perineal trauma [^115araYo] [^111Uk8ap].
 
-- **Hygiene**: Cleanses the perineal area, particularly after childbirth or surgical procedures, reducing the risk of infection [^2c84a5cf].
+- **Hygiene**: Cleanses the perineal area, particularly after childbirth or surgical procedures, reducing the risk of infection [^112911av].
 
-- **Wound healing**: Promotes healing by increasing blood flow to the affected area and reducing inflammation [^cd6be12e].
+- **Wound healing**: Promotes healing by increasing blood flow to the affected area and reducing inflammation [^116FYhSD].
 
 ---
 
@@ -53,11 +53,11 @@ Sitz baths are commonly recommended for the following **medical conditions and s
 
 | **Condition/situation** | **Rationale** |
 |-|-|
-| Hemorrhoids | Reduces pain, swelling, and irritation [^b352c010] [^836b3c1b] |
-| Anal fissures | Relieves pain and promotes healing [^b352c010] [^12b6a90d] |
-| Postpartum perineal care | Cleanses and soothes the perineal area, reducing discomfort and promoting healing [^2c84a5cf] |
-| Postoperative care after anorectal surgery | Reduces pain, swelling, and promotes wound healing [^3b323dda] [^2365d38d] |
-| Infections (e.g. perianal abscess, cellulitis) | Provides local hygiene and symptom relief [^a4e73200] [^6fed47e2] |
+| Hemorrhoids | Reduces pain, swelling, and irritation [^115araYo] [^114MqQ26] |
+| Anal fissures | Relieves pain and promotes healing [^115araYo] [^111Uk8ap] |
+| Postpartum perineal care | Cleanses and soothes the perineal area, reducing discomfort and promoting healing [^112911av] |
+| Postoperative care after anorectal surgery | Reduces pain, swelling, and promotes wound healing [^112Wm9Qu] [^111uUmbr] |
+| Infections (e.g. perianal abscess, cellulitis) | Provides local hygiene and symptom relief [^115DUdGK] [^113rwKtD] |
 
 ---
 
@@ -65,11 +65,11 @@ Sitz baths are commonly recommended for the following **medical conditions and s
 
 The **standard procedure** for a sitz bath includes the following steps:
 
-- **Preparation**: Fill a sitz bath basin or bathtub with warm water (approximately 40°C or 104°F). Additives such as salt, baking soda, or medicated solutions may be included based on medical advice [^2c84a5cf] [^0b448e27].
+- **Preparation**: Fill a sitz bath basin or bathtub with warm water (approximately 40°C or 104°F). Additives such as salt, baking soda, or medicated solutions may be included based on medical advice [^112911av] [^111HhtfY].
 
 - **Immersion**: The patient sits in the bath, immersing the perineal and perineal area for about 15–20 minutes.
 
-- **Frequency**: Typically recommended 2–3 times daily, especially after bowel movements or as advised by a healthcare provider [^cd9498e7].
+- **Frequency**: Typically recommended 2–3 times daily, especially after bowel movements or as advised by a healthcare provider [^116FnNgN].
 
 - **Post-bath care**: Gently pat the area dry with a clean towel. Avoid rubbing or using harsh soaps.
 
@@ -79,11 +79,11 @@ The **standard procedure** for a sitz bath includes the following steps:
 
 Sitz baths offer several **therapeutic benefits**, including:
 
-- **Pain relief**: Significant reduction in pain and discomfort associated with various anorectal conditions [^b352c010] [^12b6a90d].
+- **Pain relief**: Significant reduction in pain and discomfort associated with various anorectal conditions [^115araYo] [^111Uk8ap].
 
-- **Reduced inflammation**: Decreases swelling and inflammation, promoting faster healing [^cd6be12e].
+- **Reduced inflammation**: Decreases swelling and inflammation, promoting faster healing [^116FYhSD].
 
-- **Improved hygiene**: Enhances cleanliness, particularly important postpartum or post-surgery [^2c84a5cf].
+- **Improved hygiene**: Enhances cleanliness, particularly important postpartum or post-surgery [^112911av].
 
 - **Psychological comfort**: Provides a soothing effect, improving patient comfort and well-being [^notfound].
 
@@ -93,7 +93,7 @@ Sitz baths offer several **therapeutic benefits**, including:
 
 While sitz baths are generally safe, certain **precautions** should be observed:
 
-- **Infection risk**: Ensure clean water and proper hygiene to prevent infections [^d393f4e6].
+- **Infection risk**: Ensure clean water and proper hygiene to prevent infections [^116Qg5tZ].
 
 - **Burns**: Avoid excessively hot water to prevent burns or skin irritation.
 
@@ -107,11 +107,11 @@ While sitz baths are generally safe, certain **precautions** should be observed:
 
 Several studies and clinical guidelines support the use of sitz baths for symptom relief and healing in various conditions:
 
-- **Anal fissures**: Conservative management including sitz baths and fiber supplementation is effective in healing acute anal fissures [^b352c010] [^12b6a90d].
+- **Anal fissures**: Conservative management including sitz baths and fiber supplementation is effective in healing acute anal fissures [^115araYo] [^111Uk8ap].
 
 - **Post-hemorrhoidectomy pain**: Sitz baths provide symptomatic relief and improve patient comfort post-surgery [^notfound].
 
-- **Postpartum care**: Sitz baths are recommended for perineal hygiene and comfort after childbirth [^2c84a5cf].
+- **Postpartum care**: Sitz baths are recommended for perineal hygiene and comfort after childbirth [^112911av].
 
 ---
 
@@ -119,11 +119,11 @@ Several studies and clinical guidelines support the use of sitz baths for sympto
 
 Alternative therapies may be considered when sitz baths are not feasible or effective, including:
 
-- **Topical medications**: Corticosteroids, local anesthetics, and calcium channel blockers for anal fissures and hemorrhoids [^b352c010] [^12b6a90d].
+- **Topical medications**: Corticosteroids, local anesthetics, and calcium channel blockers for anal fissures and hemorrhoids [^115araYo] [^111Uk8ap].
 
-- **Ice packs**: Useful for acute pain and swelling, particularly post-hemorrhoidectomy [^4e10f446].
+- **Ice packs**: Useful for acute pain and swelling, particularly post-hemorrhoidectomy [^112zjjGy].
 
-- **Pelvic floor physiotherapy**: For chronic pelvic pain syndromes and levator ani syndrome [^c7c74769].
+- **Pelvic floor physiotherapy**: For chronic pelvic pain syndromes and levator ani syndrome [^1167BUM6].
 
 ---
 
@@ -133,7 +133,7 @@ A sitz bath is a simple, effective, and safe therapeutic intervention for perine
 
 ## References
 
-### Sitz bath: where is the evidence? Scientific basis of a common practice [^d393f4e6]. Diseases of the Colon and Rectum (2005). Low credibility.
+### Sitz bath: where is the evidence? Scientific basis of a common practice [^116Qg5tZ]. Diseases of the Colon and Rectum (2005). Low credibility.
 
 Purpose
 
@@ -153,13 +153,13 @@ A review of the literature demonstrated a lack of scientific data to support the
 
 ---
 
-### European Society of Coloproctology: guidelines for diagnosis and treatment of cryptoglandular anal fistula [^3b323dda]. Colorectal Disease (2024). High credibility.
+### European Society of Coloproctology: guidelines for diagnosis and treatment of cryptoglandular anal fistula [^112Wm9Qu]. Colorectal Disease (2024). High credibility.
 
 Regarding perioperative care for anorectal fistula, more specifically with respect to postoperative care, ESCP 2023 guidelines recommend to consider offering postoperative sitz baths according to surgeon or patient preferences.
 
 ---
 
-### Effects of warm water sitz bath on symptoms in post-anal sphincterotomy in chronic anal fissure – a randomized and controlled study [^2365d38d]. World Journal of Surgery (2007). Low credibility.
+### Effects of warm water sitz bath on symptoms in post-anal sphincterotomy in chronic anal fissure – a randomized and controlled study [^111uUmbr]. World Journal of Surgery (2007). Low credibility.
 
 Background
 
@@ -179,7 +179,7 @@ Patients after sphincterotomy for anal fissure receiving sitz bath experienced s
 
 ---
 
-### Ice packing versus warm sitz baths for post-hemorrhoidectomy pain management: a randomized controlled trial [^4e10f446]. Diseases of the Colon and Rectum (2025). Medium credibility.
+### Ice packing versus warm sitz baths for post-hemorrhoidectomy pain management: a randomized controlled trial [^112zjjGy]. Diseases of the Colon and Rectum (2025). Medium credibility.
 
 Background
 
@@ -227,13 +227,13 @@ ANTECEDENTES:El manejo del dolor posterior a una hemorroidectomía sigue siendo 
 
 ---
 
-### ACG clinical guidelines: management of benign anorectal disorders [^b352c010]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: management of benign anorectal disorders [^115araYo]. The American Journal of Gastroenterology (2021). High credibility.
 
 Acute anal fissure — initial management: Gastroenterologists and other providers should use non‑operative measures including sitz baths, psyllium fiber, and bulking agents as the first step in therapy, and almost half of patients heal with these supportive measures with symptomatic relief and minimal side effects.
 
 ---
 
-### Anorectal emergencies: WSES-AAST guidelines [^72b6ccca]. World Journal of Emergency Surgery (2021). Medium credibility.
+### Anorectal emergencies: WSES-AAST guidelines [^113w4zMf]. World Journal of Emergency Surgery (2021). Medium credibility.
 
 7.C - in patients with an acute anal fissure, what is the role of non-operative management?
 
@@ -249,13 +249,13 @@ Initial treatment of anal fissures is medical or non-operative. There are only f
 
 ---
 
-### Guidance for the prevention and treatment of monkeypox (mpox) [^699026a3]. ACOEM (2022). High credibility.
+### Guidance for the prevention and treatment of monkeypox (mpox) [^113hW7sp]. ACOEM (2022). High credibility.
 
 Monkeypox (mpox) symptom management — pain and rash care includes using Ibuprofen and Acetaminophen for pain, rinsing oral rash with salt water at least 4 times a day, and considering prescription mouthwashes or viscous lidocaine; chlorhexidine mouthwash can help keep the mouth clean. Patients are advised to avoid touching or scratching the rash to prevent spread and secondary infection; topical benzocaine/lidocaine gels can provide temporary relief, oral antihistamines and topical calamine or petroleum jelly may help itching, and warm baths may offer relief. For rash involving the anus, genitals, or perineum, sitz baths may help and clinicians may prescribe additives like povidone-iodine for the water.
 
 ---
 
-### Constipation, haemorrhoids, and heartburn in pregnancy [^9c4ebc1e]. BMJ Clinical Evidence (2010). Medium credibility.
+### Constipation, haemorrhoids, and heartburn in pregnancy [^114zjWqj]. BMJ Clinical Evidence (2010). Medium credibility.
 
 Introduction
 
@@ -275,7 +275,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Constipation, haemorrhoids, and heartburn in pregnancy [^0b4499a9]. BMJ Clinical Evidence (2008). Medium credibility.
+### Constipation, haemorrhoids, and heartburn in pregnancy [^111HhuYL]. BMJ Clinical Evidence (2008). Medium credibility.
 
 Introduction
 
@@ -295,7 +295,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Chronic prostatitis [^dc96a053]. BMJ Clinical Evidence (2008). Medium credibility.
+### Chronic prostatitis [^116e2sSA]. BMJ Clinical Evidence (2008). Medium credibility.
 
 Introduction
 
@@ -315,13 +315,13 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of anal fissures [^12b6a90d]. Diseases of the Colon and Rectum (2023). High credibility.
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of anal fissures [^111Uk8ap]. Diseases of the Colon and Rectum (2023). High credibility.
 
 Acute anal fissure — conservative therapy outcomes and tolerability: Nearly half of all patients who have an acute anal fissure will resolve their symptoms with nonoperative measures such as sitz baths and fiber or other bulking agents, with or without topical anesthetics or topical steroids, and these interventions are well tolerated with minimal to no side effects. In a prospective randomized trial of 103 patients, sitz baths plus fiber yielded greater pain relief than topical anesthetics or topical hydrocortisone (91% vs 60% vs 68%, respectively; p < 0.05). In a double-blind placebo-controlled study of 75 patients with healed acute fissures, maintenance fiber reduced fissure recurrence versus placebo (16% vs 60%; p < 0.01), and there are no data supporting one type of fiber over another. Healing rates with conservative treatment decline as symptom duration increases, with a prospective study of 60 patients observing a 100% healing rate for symptoms of < 1-month duration compared with only a 33.3% healing rate for > 6-month duration.
 
 ---
 
-### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^10bfb012]. Journal of Pain Research (2017). Low credibility.
+### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^111RqBtV]. Journal of Pain Research (2017). Low credibility.
 
 Introduction
 
@@ -331,7 +331,7 @@ Sitz bath with warm water was well accepted as a safe postoperative care after a
 
 ---
 
-### Chronic prostatitis [^411aba1d]. BMJ Clinical Evidence (2011). Medium credibility.
+### Chronic prostatitis [^112fXB16]. BMJ Clinical Evidence (2011). Medium credibility.
 
 Introduction
 
@@ -351,13 +351,13 @@ In this systematic review, we present information relating to the effectiveness 
 
 ---
 
-### Is it the baby or the bath water? [^366c1fb8]. Catheterization and Cardiovascular Interventions (2018). Low credibility.
+### Is it the baby or the bath water? [^112PgeeB]. Catheterization and Cardiovascular Interventions (2018). Low credibility.
 
 Technique makes a difference Pharmaceutical support is essential Secondary procedures are frequent.
 
 ---
 
-### Nitroglycerin 0.4% ointment vs placebo in the treatment of pain resulting from chronic anal fissure: a randomized, double-blind, placebo-controlled study [^ad39fa78]. BMC Gastroenterology (2013). Low credibility.
+### Nitroglycerin 0.4% ointment vs placebo in the treatment of pain resulting from chronic anal fissure: a randomized, double-blind, placebo-controlled study [^115RpLGF]. BMC Gastroenterology (2013). Low credibility.
 
 Outcome measures
 
@@ -375,25 +375,25 @@ Statistical analysis
 
 ---
 
-### Hemorrhoids: diagnosis and treatment options [^836b3c1b]. American Family Physician (2018). Low credibility.
+### Hemorrhoids: diagnosis and treatment options [^114MqQ26]. American Family Physician (2018). Low credibility.
 
 Many Americans between 45 and 65 years of age experience hemorrhoids. Hemorrhoidal size, thrombosis, and location (i.e., proximal or distal to the dentate line) determine the extent of pain or discomfort. The history and physical examination must assess for risk factors and clinical signs indicating more concerning disease processes. Internal hemorrhoids are traditionally graded from I to IV based on the extent of prolapse. Other factors such as degree of discomfort, bleeding, comorbidities, and patient preference should help determine the order in which treatments are pursued. Medical management (e.g., stool softeners, topical over-the-counter preparations, topical nitroglycerine), dietary modifications (e.g., increased fiber and water intake), and behavioral therapies (sitz baths) are the mainstays of initial therapy. If these are unsuccessful, office-based treatment of grades I to III internal hemorrhoids with rubber band ligation is the preferred next step because it has a lower failure rate than infrared photocoagulation. Open or closed (conventional) excisional hemorrhoidectomy leads to greater surgical success rates but also incurs more pain and a prolonged recovery than office-based procedures; therefore, hemorrhoidectomy should be reserved for recurrent or higher-grade disease. Closed hemorrhoidectomy with diathermic or ultrasonic cutting devices may decrease bleeding and pain. Stapled hemorrhoidopexy elevates grade III or IV hemorrhoids to their normal anatomic position by removing a band of proximal mucosal tissue; however, this procedure has several potential postoperative complications. Hemorrhoidal artery ligation may be useful in grade II or III hemorrhoids because patients may experience less pain and recover more quickly. Excision of thrombosed external hemorrhoids can greatly reduce pain if performed within the first two to three days of symptoms.
 
 ---
 
-### Diagnosis and treatment of perianal Crohn disease: NASPGHAN clinical report and consensus statement [^f1905e81]. Journal of Pediatric Gastroenterology and Nutrition (2013). Medium credibility.
+### Diagnosis and treatment of perianal Crohn disease: NASPGHAN clinical report and consensus statement [^117B8WTJ]. Journal of Pediatric Gastroenterology and Nutrition (2013). Medium credibility.
 
 Anal fissures in perianal Crohn disease (PCD) — prevalence and treatment approach: Fissures make up approximately 20% to 30% of anal lesions in PCD. Fissures suggest active CD and are therefore treated medically, and in the presence of acute inflammation it is futile and potentially dangerous to attempt to excise a fissure or close it with suture. Symptoms typically respond to effective medical therapy using nitrate-based ointments and sitz baths, and no controlled trials show any efficacy of oral antibiotics in the treatment of perianal fissures.
 
 ---
 
-### Genital bleeding [^e72a3c17]. BMJ Case Reports (2011). Medium credibility.
+### Genital bleeding [^116uiKtz]. BMJ Case Reports (2011). Medium credibility.
 
 A 5-year-old girl of Ghanaian origin presented to the accident and emergency department with genital bleeding of sudden onset in the previous 12 h. A diagnosis of urethral prolapse was made. The congestion and bleeding settled with a daily sitz bath and topical oestrogen cream for 4 weeks, while the prolapse was referred to urologists.
 
 ---
 
-### Guidelines, guidelines and more guidelines for haemorrhoid treatment: a review to sort the wheat from the chaff [^5ed06463]. Colorectal Disease (2022). Medium credibility.
+### Guidelines, guidelines and more guidelines for haemorrhoid treatment: a review to sort the wheat from the chaff [^113RZqJA]. Colorectal Disease (2022). Medium credibility.
 
 METHODS
 
@@ -417,7 +417,7 @@ Four reviewers (HTM, AC, BB, AES) independently reviewed and extracted descripti
 
 ---
 
-### Non surgical therapy for anal fissure [^df6a9b84]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Non surgical therapy for anal fissure [^116iE3j1]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -449,7 +449,7 @@ Medical therapy for chronic anal fissure, currently consisting of topical glycer
 
 ---
 
-### Analysis of the distribution characteristics of infecting microorganisms in the wound tissue of patients with perianal abscess combined with infection and the influencing factors of wound healing [^a4e73200]. BMC Gastroenterology (2025). Medium credibility.
+### Analysis of the distribution characteristics of infecting microorganisms in the wound tissue of patients with perianal abscess combined with infection and the influencing factors of wound healing [^115DUdGK]. BMC Gastroenterology (2025). Medium credibility.
 
 Postoperative treatment
 
@@ -467,7 +467,7 @@ All patients' surgeries are performed by the same surgeon.
 
 ---
 
-### Management of perianal abscesses in infants: a systematic review from the APSA outcomes and evidence-based practice committee [^6fed47e2]. Journal of Pediatric Surgery (2025). Medium credibility.
+### Management of perianal abscesses in infants: a systematic review from the APSA outcomes and evidence-based practice committee [^113rwKtD]. Journal of Pediatric Surgery (2025). Medium credibility.
 
 Background
 
@@ -491,7 +491,7 @@ Level 4.
 
 ---
 
-### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^90dde7e6]. Journal of Pain Research (2017). Low credibility.
+### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^114hmkey]. Journal of Pain Research (2017). Low credibility.
 
 Objective
 
@@ -511,7 +511,7 @@ XZD could effectively relieve postoperative pain and reduce analgesic medication
 
 ---
 
-### Benign anorectal disease: hemorrhoids, fissures, and fistulas [^b039c83a]. Annals of Gastroenterology (2019). Medium credibility.
+### Benign anorectal disease: hemorrhoids, fissures, and fistulas [^115WGEHX]. Annals of Gastroenterology (2019). Medium credibility.
 
 Medical treatment
 
@@ -521,7 +521,7 @@ The goal of medical treatment of anal fissures is to decrease the internal sphin
 
 ---
 
-### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^2c84a5cf]. International Urogynecology Journal (2023). Medium credibility.
+### An international continence society (ICS) / international urogynecological association (IUGA) joint report on the terminology for the assessment and management of obstetric pelvic floor disorders [^112911av]. International Urogynecology Journal (2023). Medium credibility.
 
 Management of obstetric pelvic floor trauma
 
@@ -571,7 +571,7 @@ Surgical treatment of a tear by suturing and closure of the anatomical defect. (
 
 ---
 
-### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^7f136f7b]. Journal of Pain Research (2017). Low credibility.
+### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^114FPxRY]. Journal of Pain Research (2017). Low credibility.
 
 Discussion
 
@@ -583,7 +583,7 @@ In the current study, we found that patients in the XZD group experienced signif
 
 ---
 
-### Guidelines, guidelines and more guidelines for haemorrhoid treatment: a review to sort the wheat from the chaff [^80856035]. Colorectal Disease (2022). Medium credibility.
+### Guidelines, guidelines and more guidelines for haemorrhoid treatment: a review to sort the wheat from the chaff [^114HYDSc]. Colorectal Disease (2022). Medium credibility.
 
 Synthesis of results
 
@@ -616,7 +616,7 @@ In general, there was consensus that conservative management was recommended for
 
 ---
 
-### Is chemodenervation with incobotulinumtoxinA an alternative to invasive chronic anal fissure treatments? [^16c9db89]. BMC Gastroenterology (2024). Medium credibility.
+### Is chemodenervation with incobotulinumtoxinA an alternative to invasive chronic anal fissure treatments? [^111anXhi]. BMC Gastroenterology (2024). Medium credibility.
 
 Introduction
 
@@ -624,13 +624,13 @@ Anal fissure (AF) is a tear in the skin of the anal canal that extends from the 
 
 ---
 
-### Scratching the surface: a comprehensive guide to understanding and managing vulvovaginal itching [^811909ee]. American Journal of Clinical Dermatology (2025). Medium credibility.
+### Scratching the surface: a comprehensive guide to understanding and managing vulvovaginal itching [^114JPp9b]. American Journal of Clinical Dermatology (2025). Medium credibility.
 
 Vulvovaginal itching is a common yet often under-recognized condition affecting women across all age groups. Despite its prevalence, many dermatologists receive minimal training in vulvar diseases, leading to delayed diagnoses and prolonged discomfort for patients. This review explores the broad spectrum of causes, including infections, inflammatory conditions, neuropathic disorders, and systemic illnesses. The complexity of vulvovaginal pruritus often requires a multidisciplinary approach to accurately diagnose and treat. Contributing factors such as hormonal changes, personal hygiene practices, and environmental exposures must also be considered. Treatment strategies typically begin with lifestyle modifications and topical therapies, such as corticosteroids and antifungals, but can extend to systemic medications and biologics for resistant cases. Additionally, nonpharmaceutical options such as sitz baths and psychological interventions can be crucial for managing chronic symptoms. However, there remains a significant gap in research, particularly regarding the characterization of female-specific pruritus and its long-term impact on quality of life. Despite some advances, the available studies largely focus on isolated causes rather than the holistic nature of the condition. Further research is urgently needed to develop comprehensive, evidence-based guidelines for diagnosing and treating vulvovaginal itching, a condition that has a profound effect on both physical and emotional well-being.
 
 ---
 
-### Trajectory of self-reported pain and association with quality of life in patients with perianal abscesses after surgery [^dd56e615]. Journal of Pain Research (2025). Medium credibility.
+### Trajectory of self-reported pain and association with quality of life in patients with perianal abscesses after surgery [^116f9TCp]. Journal of Pain Research (2025). Medium credibility.
 
 Pain Assessment
 
@@ -642,7 +642,7 @@ QoL was assessed using the Short Form-36 health Survey (SF-36), a validated inst
 
 ---
 
-### A randomized controlled trial on the effect of topical phenytoin 2% on wound healing after anal fistulotomy [^11658117]. Colorectal Disease (2019). Medium credibility.
+### A randomized controlled trial on the effect of topical phenytoin 2% on wound healing after anal fistulotomy [^111SntFg]. Colorectal Disease (2019). Medium credibility.
 
 Aim
 
@@ -662,7 +662,7 @@ The use of topical phenytoin 2% powder spray did not promote wound healing, reli
 
 ---
 
-### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^7c14ce51]. Journal of Pain Research (2017). Low credibility.
+### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^114AxTH2]. Journal of Pain Research (2017). Low credibility.
 
 Methods
 
@@ -676,7 +676,7 @@ This study was approved by the ethics committee for medical research of the Firs
 
 ---
 
-### Factors influencing health promotion behavior on puerperal sepsis among postpartum mothers [^8cd79cd8]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Factors influencing health promotion behavior on puerperal sepsis among postpartum mothers [^114bogvj]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Health promotion model and puerperal sepsis preventive behavior
 
@@ -686,7 +686,7 @@ In perceived barrier, the majority of the participants (65.2%) agreed and strong
 
 ---
 
-### Transanal suture mucopexy for hemorrhoids [^13e824aa]. Diseases of the Colon and Rectum (2022). Medium credibility.
+### Transanal suture mucopexy for hemorrhoids [^111WWjsP]. Diseases of the Colon and Rectum (2022). Medium credibility.
 
 DISCUSSION
 
@@ -698,7 +698,7 @@ The Milligan-Morgan hemorrhoidectomy — the gold standard procedure — is pain
 
 ---
 
-### A systematic review of the patient burden of Crohn's disease-related rectovaginal and anovaginal fistulas [^efd0b004]. BMC Gastroenterology (2022). Medium credibility.
+### A systematic review of the patient burden of Crohn's disease-related rectovaginal and anovaginal fistulas [^1178Y8uy]. BMC Gastroenterology (2022). Medium credibility.
 
 In addition to the surgical and procedural burden, this SLR indicated that patients with RVF/AVF report a heavy medication burden for both CD and fistula. For example, 94% of patients (48/51) who underwent treatment for RVF during 1998–2005 had received previous medication therapy, though it is unclear whether this was therapy for CD or fistula, specifically. Seven of the 12 studies reporting on treatment patterns provided details on prior use of medications to manage CD and/or fistula. In a hospital-based study of 65 women who underwent surgery to close a RVF, 40% (26/65) had taken immunomodulators and 30.8% (20/65) had taken steroids within 3 months prior to surgery. Reported medications include anti-TNF biologics, corticosteroids, azathioprine, methotrexate, 6 mercaptopurine, and antibiotics (Table 3).
 
@@ -706,19 +706,19 @@ In addition to these surgical and medical treatments, other treatments for CD an
 
 ---
 
-### A brief history of spa therapy [^7cbff742]. Annals of the Rheumatic Diseases (2002). Low credibility.
+### A brief history of spa therapy [^114Bwwjw]. Annals of the Rheumatic Diseases (2002). Low credibility.
 
 Bathing in thermal water has an impressive history and continuing popularity. In this paper a brief overview of the use of water in medicine over the centuries is given.
 
 ---
 
-### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^f6f57469]. Pediatrics (2022). High credibility.
+### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^117K8QAk]. Pediatrics (2022). High credibility.
 
 Delayed bathing — World Health Organization (WHO) recommendations and observed benefits: Delayed bathing is the practice of not performing the first bath for several hours after birth. The World Health Organization (WHO) recommends that bathing be delayed until after 24 hours after birth, and if cultural reasons prohibit this 24-hour delay, then the delay should be a minimum of 6 hours. Outside of a general recommendation for delayed bathing, no other organizations apart from the WHO have explicit recommendations on timing, and the optimal time for delaying bathing is not clear. The most-often cited benefit of delayed bathing is increased rates of breastfeeding, which has been observed in several retrospective studies.
 
 ---
 
-### The epidemiology and treatment of anal fissures in a population-based cohort [^b402166c]. BMC Gastroenterology (2014). Low credibility.
+### The epidemiology and treatment of anal fissures in a population-based cohort [^115bsUPu]. BMC Gastroenterology (2014). Low credibility.
 
 Table 4
 Type of medication prescribed at time of initial diagnosis*
@@ -734,7 +734,7 @@ Over-the-counter (OTC) medications and non-medication treatments recommended at 
 
 ---
 
-### Neonatal sepsis and mortality in low-income and middle-income countries from a facility-based birth cohort: an international multisite prospective observational study [^22fdc89a]. The Lancet: Global Health (2022). High credibility.
+### Neonatal sepsis and mortality in low-income and middle-income countries from a facility-based birth cohort: an international multisite prospective observational study [^111tspgh]. The Lancet: Global Health (2022). High credibility.
 
 Living environment domain (mother-reported)
 
@@ -801,7 +801,7 @@ The three primary outcomes were: clinically suspected sepsis, laboratory-confirm
 
 ---
 
-### Anorectal emergencies: WSES-AAST guidelines [^cd6be12e]. World Journal of Emergency Surgery (2021). Medium credibility.
+### Anorectal emergencies: WSES-AAST guidelines [^116FYhSD]. World Journal of Emergency Surgery (2021). Medium credibility.
 
 The primary goals of AF therapy are to achieve IAS relaxation, thus reducing pain and facilitating the healing process; minimize anal trauma; increase blood flow; and treat pain. To obtain these results the cornerstones of NOM are as follows:
 Stool softeners (increased intake of oral fluids, high-fiber diet or fiber supplements, and bulk forming laxatives);
@@ -810,7 +810,7 @@ Pain control (see question 7.D).
 
 ---
 
-### A case report of spontaneous bilateral perineal hematoma during pregnancy and literature review [^80099978]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### A case report of spontaneous bilateral perineal hematoma during pregnancy and literature review [^114Gpe5u]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Postpartum management
 
@@ -848,7 +848,7 @@ At 40 + 5 weeks, she was admitted at 6:15 with "premature rupture of membranes".
 
 ---
 
-### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^cd9498e7]. Journal of Pain Research (2017). Low credibility.
+### Xiaozhi decoction reduced posthemorrhoidectomy pain and analgesic medication consumption: a prospective study [^116FnNgN]. Journal of Pain Research (2017). Low credibility.
 
 Treatment
 
@@ -864,7 +864,7 @@ Patients were monitored and discharged within 72 hours after surgery. All patien
 
 ---
 
-### Haemorrhoidal disease in pregnancy: results from a self-assessment questionnaire administered by means of a social network [^d4c07429]. BMC Gastroenterology (2024). Medium credibility.
+### Haemorrhoidal disease in pregnancy: results from a self-assessment questionnaire administered by means of a social network [^116SR23a]. BMC Gastroenterology (2024). Medium credibility.
 
 Background
 
@@ -872,7 +872,7 @@ Quality of life during pregnancy and immediately after delivery can be marred by
 
 ---
 
-### Frequency of bathing in the management of atopic dermatitis: to bathe or not to bathe? [^f01e91ae]. Clinical Pediatrics (2014). Low credibility.
+### Frequency of bathing in the management of atopic dermatitis: to bathe or not to bathe? [^1178zJAh]. Clinical Pediatrics (2014). Low credibility.
 
 Background
 
@@ -892,7 +892,7 @@ The frequency of bathing did not seem to play an important role in the managemen
 
 ---
 
-### A rare and extreme case of vulvar swelling in the setting of nephrotic syndrome in a prepubertal girl [^d7c9cbd3]. Journal of Pediatric and Adolescent Gynecology (2020). Medium credibility.
+### A rare and extreme case of vulvar swelling in the setting of nephrotic syndrome in a prepubertal girl [^116Wv7tv]. Journal of Pediatric and Adolescent Gynecology (2020). Medium credibility.
 
 Background
 
@@ -908,7 +908,7 @@ Vulvar edema is rare in prepubertal girls. In this case, the edema was secondary
 
 ---
 
-### Effect of active wound dressing on postoperative pain and wound healing in patients undergoing anorectal surgery [^0b448e27]. BMC Gastroenterology (2025). Medium credibility.
+### Effect of active wound dressing on postoperative pain and wound healing in patients undergoing anorectal surgery [^111HhtfY]. BMC Gastroenterology (2025). Medium credibility.
 
 Methods
 
@@ -920,7 +920,7 @@ All patients underwent standardized procedures: lateral internal sphincterotomy 
 
 ---
 
-### Management guidelines for low anterior resection syndrome-the MANUEL project [^ea61f29d]. Colorectal Disease (2021). Medium credibility.
+### Management guidelines for low anterior resection syndrome-the MANUEL project [^116zV17r]. Colorectal Disease (2021). Medium credibility.
 
 Diet, laxatives, constipating agents and medications
 
@@ -945,7 +945,7 @@ However, a multimodal approach, managing all the rehabilitative techniques accor
 
 ---
 
-### Factors influencing health promotion behavior on puerperal sepsis among postpartum mothers [^16929156]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Factors influencing health promotion behavior on puerperal sepsis among postpartum mothers [^111aTxa1]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Results
 
@@ -962,13 +962,13 @@ The result of perceived benefit showed that the average perceived benefits were 
 
 ---
 
-### Evaluation and management of common anorectal conditions [^827921ee]. American Family Physician (2012). Low credibility.
+### Evaluation and management of common anorectal conditions [^114LS5VF]. American Family Physician (2012). Low credibility.
 
 The prevalence of benign anorectal conditions in the primary care setting is high, although evidence of effective therapy is often lacking. In addition to recognizing common benign anorectal disorders, physicians must maintain a high index of suspicion for inflammatory and malignant disorders. Patients with red flags such as increased age, family history, persistent anorectal bleeding despite treatment, weight loss, or iron deficiency anemia should undergo colonoscopy. Pruritus ani, or perianal itching, is managed by treating the underlying cause, ensuring proper hygiene, and providing symptomatic relief with oral antihistamines, topical steroids, or topical capsaicin. Effective treatments for anal fissures include onabotulinumtoxinA, topical nitroglycerin, and topical calcium channel blockers. Symptomatic external hemorrhoids are managed with dietary modifications, topical steroids, and analgesics. Thrombosed hemorrhoids are best treated with hemorrhoidectomy if symptoms are present for less than 72 hours. Grades I through III internal hemorrhoids can be managed with rubber band ligation. For the treatment of grade III internal hemorrhoids, surgical hemorrhoidectomy has higher remission rates but increased pain and complication rates compared with rubber band ligation. Anorectal condylomas, or anogenital warts, are treated based on size and location, with office treatment consisting of topical trichloroacetic acid or podophyllin, cryotherapy, or laser treatment. Simple anorectal fistulas can be treated conservatively with sitz baths and analgesics, whereas complex or nonhealing fistulas may require surgery. Fecal impaction may be treated with polyethylene glycol, enemas, or manual disimpaction. Fecal incontinence is generally treated with loperamide and biofeedback. Surgical intervention is reserved for anal sphincter injury.
 
 ---
 
-### Treatment of levator ani syndrome with cyclobenzaprine [^81d19662]. The Annals of Pharmacotherapy (2012). Low credibility.
+### Treatment of levator ani syndrome with cyclobenzaprine [^114KToSq]. The Annals of Pharmacotherapy (2012). Low credibility.
 
 Objective
 
@@ -988,7 +988,7 @@ Cyclobenzaprine effectively treated our patient's LAS. Given that cyclobenzaprin
 
 ---
 
-### Benign anorectal disease: hemorrhoids, fissures, and fistulas [^d557f07c]. Annals of Gastroenterology (2019). Medium credibility.
+### Benign anorectal disease: hemorrhoids, fissures, and fistulas [^116THuDu]. Annals of Gastroenterology (2019). Medium credibility.
 
 Surgical treatment
 
@@ -998,7 +998,7 @@ Acute hemorrhoid crisis is rare, and will appear as beefy red, ulcerated or necr
 
 ---
 
-### Nitroglycerin 0.4% ointment vs placebo in the treatment of pain resulting from chronic anal fissure: a randomized, double-blind, placebo-controlled study [^63271e97]. BMC Gastroenterology (2013). Low credibility.
+### Nitroglycerin 0.4% ointment vs placebo in the treatment of pain resulting from chronic anal fissure: a randomized, double-blind, placebo-controlled study [^113Xzv1U]. BMC Gastroenterology (2013). Low credibility.
 
 Participants
 
@@ -1008,13 +1008,13 @@ Patients were ineligible if they had more than one anal fissure, fistula-in-ano 
 
 ---
 
-### Levator ani syndrome presenting with vaginal pain [^c7c74769]. BMJ Case Reports (2023). High credibility.
+### Levator ani syndrome presenting with vaginal pain [^1167BUM6]. BMJ Case Reports (2023). High credibility.
 
 Levator ani syndrome (LAS), also known as levator ani spasm, puborectalis syndrome, chronic proctalgia, pyriformis syndrome and pelvic tension myalgia, produces chronic anal pain. The levator ani muscle is susceptible to the development of myofascial pain syndrome, and trigger points may be elicited on physical examination. The pathophysiology remains to be fully delineated. The diagnosis of LAS is suggested primarily by the clinical history, physical examination and the exclusion of organic disease that can produce recurrent or chronic proctalgia. Digital massage, sitz bath, electrogalvanic stimulation and biofeedback are the treatment modalities most frequently described in the literature. Pharmacological management includes non-steroidal anti-inflammatory medications, diazepam, amitriptyline, gabapentin and botulinum toxin. The evaluation of these patients can be challenging due to a diversity of causative factors. The authors present the case of a nulliparous woman in her mid-30s presenting with acute onset of lower abdominal and rectal pain radiating to her vagina. There was no history of trauma, inflammatory bowel disease, anal fissure or altered bowel habit. Each pain episode lasted longer than 20min and was exacerbated by sitting. Neurological examination showed no evidence of neurological dysfunction. Rectal examination was unremarkable. During vaginal examination, palpation of the levator ani muscles elicited pain indicating pelvic floor dysfunction. Laboratory investigations including a full blood count and C reactive protein were within normal range. Further investigation with a transabdominal ultrasound scan, CT of the abdomen and pelvis and MRI of the lumbar spine were unremarkable. She commenced treatment with amitriptyline 20 mg once daily. She was referred for pelvic floor physiotherapy. Functional pain syndromes, such as LAS, should be regarded as diagnoses of exclusion and considered only after a thorough evaluation has been performed to rule out structural causes of pain. Knowledge of the pelvic floor and pelvic wall muscles may enable the physician to identify LAS, a possible cause of chronic pelvic pain.
 
 ---
 
-### Behçet's disease in pregnancy: a case report and literature review [^3f572f77]. BMC Pregnancy and Childbirth (2025). Medium credibility.
+### Behçet's disease in pregnancy: a case report and literature review [^112cuWGE]. BMC Pregnancy and Childbirth (2025). Medium credibility.
 
 Case presentation
 
@@ -1024,7 +1024,7 @@ Upon admission, physical examinations revealed scattered, round ulcers of varyin
 
 ---
 
-### Topical sucralfate treatment of anal fistulotomy wounds: a randomized placebo-controlled trial [^5c09e2e4]. Diseases of the Colon and Rectum (2011). Low credibility.
+### Topical sucralfate treatment of anal fistulotomy wounds: a randomized placebo-controlled trial [^113MTBXZ]. Diseases of the Colon and Rectum (2011). Low credibility.
 
 Background
 
@@ -1068,7 +1068,7 @@ The results of this study add support to the evidence that topical sucralfate is
 
 ---
 
-### Efficacy of nitroglycerine ointment in the treatment of pediatric anal fissure [^1d143bd1]. Journal of Pediatric Surgery (2017). Low credibility.
+### Efficacy of nitroglycerine ointment in the treatment of pediatric anal fissure [^111k7SMe]. Journal of Pediatric Surgery (2017). Low credibility.
 
 Background
 
@@ -1096,43 +1096,43 @@ Type 2.
 
 ---
 
-### ETFAD / EADV eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children [^12c9fa72]. Journal of the European Academy of Dermatology and Venereology (2020). High credibility.
+### ETFAD / EADV eczema task force 2020 position paper on diagnosis and treatment of atopic dermatitis in adults and children [^111Urcvm]. Journal of the European Academy of Dermatology and Venereology (2020). High credibility.
 
 Regarding nonpharmacologic interventions for atopic dermatitis, more specifically with respect to bathing, EADV/ETFAD 2020 guidelines recommend to advise regular bathing or showering in warm but not hot water about 2–7 times per week with very mild surfactant and emollient-based wash products in a 'soak-and-seal' approach.
 
 ---
 
-### European guideline (euroGuiDerm) on atopic eczema-part II: non-systemic treatments and treatment recommendations for special AE patient populations [^30fd2b12]. Journal of the European Academy of Dermatology and Venereology (2022). High credibility.
+### European guideline (euroGuiDerm) on atopic eczema-part II: non-systemic treatments and treatment recommendations for special AE patient populations [^112FdSeD]. Journal of the European Academy of Dermatology and Venereology (2022). High credibility.
 
 Regarding nonpharmacologic interventions for atopic dermatitis, more specifically with respect to bathing, EDF 2022 guidelines recommend to consider advising bathing in moderately warm water over a short duration of time in patients with atopic dermatitis.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^f6eab1ff]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^117K4nZL]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Warm showers or baths — initial rewarming: A warm shower or bath should not be used for initial rewarming, even if a patient appears to be only mildly hypothermic (Evidence grade: 1C).
 
 ---
 
-### European guideline (euroGuiDerm) on atopic eczema-part II: non-systemic treatments and treatment recommendations for special AE patient populations [^51387269]. Journal of the European Academy of Dermatology and Venereology (2022). High credibility.
+### European guideline (euroGuiDerm) on atopic eczema-part II: non-systemic treatments and treatment recommendations for special AE patient populations [^1135QxW4]. Journal of the European Academy of Dermatology and Venereology (2022). High credibility.
 
 Regarding nonpharmacologic interventions for atopic dermatitis, more specifically with respect to bathing, EDF 2022 guidelines recommend to advise gentle cleansing and bathing procedures in patients with atopic dermatitis, especially in acutely inflamed or superinfected skin.
 
 ---
 
-### Drinking water advisory communication toolbox. updated 2013 [^0174c44a]. CDC (2013). Medium credibility.
+### Drinking water advisory communication toolbox. updated 2013 [^1113AD5j]. CDC (2013). Medium credibility.
 
 Boil water advisory — ice and bathing guidance includes: "Do not use ice from ice trays, ice dispensers, or ice makers", "Throw out all ice made with tap water", and "Make new ice with boiled or bottled water". For hygiene, it advises, "Be careful not to swallow any water when bathing or showering", and "Use caution when bathing babies and young children. Consider giving them a sponge bath to reduce the chance of them swallowing water".
 
 ---
 
-### Bathing and associated treatments in atopic dermatitis [^12924723]. American Journal of Clinical Dermatology (2017). Low credibility.
+### Bathing and associated treatments in atopic dermatitis [^111UXuo8]. American Journal of Clinical Dermatology (2017). Low credibility.
 
 Atopic dermatitis is one of the most common complaints presenting to dermatologists, and patients typically inquire as to appropriate bathing recommendations. Although many dermatologists, allergists, and primary-care practitioners provide explicit bathing instructions, recommendations regarding frequency of bathing, duration of bathing, and timing related to emollient and medication application relative to bathing vary widely. Conflicting and vague guidelines stem from knowledge related to the disparate effects of water on skin, as well as a dearth of studies, especially randomized controlled trials, evaluating the effects of water and bathing on the skin of patients with atopic dermatitis. We critically review the literature related to bathing and associated atopic dermatitis treatments, such as wet wraps, bleach baths, bath additives, and balneotherapy. We aim to provide readers with a comprehensive understanding of the impact of water and related therapies on atopic dermatitis as well as recommendations based upon the published data.
 
 ---
 
-### Heat stress and fetal risk. environmental limits for exercise and passive heat stress during pregnancy: a systematic review with best evidence synthesis [^7e845e6c]. British Journal of Sports Medicine (2019). Medium credibility.
+### Heat stress and fetal risk. environmental limits for exercise and passive heat stress during pregnancy: a systematic review with best evidence synthesis [^114EZuG7]. British Journal of Sports Medicine (2019). Medium credibility.
 
 Objective
 
@@ -1160,7 +1160,7 @@ The highest individual core temperature reported was 38.9°C. Immediately after 
 
 ---
 
-### Newborn care practices among slum dwellers in dhaka, Bangladesh: a quantitative and qualitative exploratory study [^1e2f4ef6]. BMC Pregnancy and Childbirth (2009). Low credibility.
+### Newborn care practices among slum dwellers in dhaka, Bangladesh: a quantitative and qualitative exploratory study [^111mkX6d]. BMC Pregnancy and Childbirth (2009). Low credibility.
 
 I bathed the baby daily. There is a variation between persons in terms of the practice of bathing the baby. There are some women who get the baby cold during the bathing. They don't understand how to bathe [a newborn baby] properly. I bathe my baby in a way so that it does not get cold. The water is warm and I add savlon or mustard oil to the water. (Woman from Korail)
 
@@ -1168,7 +1168,7 @@ The risk of cold was the main factor in determining the time of the bath. Women 
 
 ---
 
-### Unavoidable risks: local perspectives on water contact behavior and implications for schistosomiasis control in an agricultural region of Northern Senegal [^850ca942]. The American Journal of Tropical Medicine and Hygiene (2019). Medium credibility.
+### Unavoidable risks: local perspectives on water contact behavior and implications for schistosomiasis control in an agricultural region of Northern Senegal [^114QFc97]. The American Journal of Tropical Medicine and Hygiene (2019). Medium credibility.
 
 Children only know swimming. You know, they are happy when they bathe. It's a kind of a pool. They like that. In this moment, if you go to the lake, you find children in the process of bathing. It's this that… gives us bilharzia. (68-year-old female gardener, Lake Village W)
 
@@ -1182,13 +1182,13 @@ It [water contact]'s not good for you. It's not good. But we have no choice… B
 
 ---
 
-### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^f8f6b929]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
+### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^117N6oSp]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
 Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%–100% failure) and > 90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
 
 ---
 
-### Heat reacclimation using exercise or hot water immersion [^fb217569]. Medicine and Science in Sports and Exercise (2021). Medium credibility.
+### Heat reacclimation using exercise or hot water immersion [^117RK8ZW]. Medicine and Science in Sports and Exercise (2021). Medium credibility.
 
 HWI
 
@@ -1198,19 +1198,19 @@ Participants sat in a neutral room for 5–10 min while a 5-min baseline value o
 
 ---
 
-### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^82d9f60c]. Pain Physician (2023). High credibility.
+### Comprehensive, evidence-based, consensus guidelines for prescription of opioids for chronic non-cancer pain from the American Society of Interventional Pain Physicians (ASIPP) [^114Lzbrs]. Pain Physician (2023). High credibility.
 
 Synthetic drugs and bath salts — availability, effects, and warnings are described: Some of these bath salts are found at gas stations and head shops, with common adverse effects including psychosis, combativeness, and aggressiveness; they are often labeled for non-human consumption and resemble Epsom salts. Flakka, Spice/K2, and U-4770 are characterized as emerging highly potent synthetic drugs, with Spice resembling THC and U-4770 a synthetic opioid. These substances are urged to be kept from young children and animals and are not recommended for humans at any level.
 
 ---
 
-### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^fcf604a5]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
+### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^117U2WqS]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
 Standardized observation of bed baths and showers for 100 residents in 8 nursing homes revealed inadequate cleansing of body sites (88%-100% failure) and > 90% process failure involving lather, firm massage, changing dirty wipes or cloths, and following clean-to-dirty sequence. Insufficient water warmth affected 86% of bathing opportunities. Bathing training and adequate resources are needed.
 
 ---
 
-### Ultrasound-guided trans-perineal pudendal nerve block for post-hemorrhoidectomy voiding complications: a prospective randomized double-blinded study [^d4bfbfba]. BMC Anesthesiology (2025). Medium credibility.
+### Ultrasound-guided trans-perineal pudendal nerve block for post-hemorrhoidectomy voiding complications: a prospective randomized double-blinded study [^116SQnKB]. BMC Anesthesiology (2025). Medium credibility.
 
 Background
 
@@ -1226,13 +1226,13 @@ This study hypothesizes that US-guided trans-perineal approach is a safe and app
 
 ---
 
-### Is sauna bathing protective of sudden cardiac death? A review of the evidence [^d6a62d95]. Progress in Cardiovascular Diseases (2019). Medium credibility.
+### Is sauna bathing protective of sudden cardiac death? A review of the evidence [^116VEAiY]. Progress in Cardiovascular Diseases (2019). Medium credibility.
 
 Sudden cardiac death (SCD) is a global public health burden accounting for 15–20% of all deaths. Though established atherosclerotic risk factors explain a large proportion of the risk of SCD, these factors are often absent in a large proportion of SCD victims and the pathogenesis of SCD is still not fully established. It therefore appears that additional factors may be involved. Sauna bathing is a traditional Finnish activity that is mainly used for the purposes of relaxation and pleasure. Beyond its use for these purposes, sauna bathing has been linked with several health benefits. Emerging evidence suggests that sauna bathing is associated with reduced risk of adverse cardiovascular (CV) disease (CVD) and non-CVD outcomes as well as mortality. A number of reports have linked sauna bathing with reduced or increased risk of SCD, but the evidence is uncertain. This review summarizes available studies linking sauna bathing with SCD, the postulated mechanistic pathways underlying these associations, outlines areas of outstanding uncertainty, and the implications for prevention. We employed a comprehensive search for observational studies, randomized controlled trials (RCTs), and non-RCTs from MEDLINE and Embase since their inception until March 2019. Observational data suggest that regular sauna bathing is associated with a substantial risk reduction in SCD. Furthermore, the data suggest that a combination of regular physical activity and sauna baths confers substantial risk reduction for SCD compared with either modality alone. Few reports have linked sauna baths with SCDs, but these single case incidents have been attributed to the effects of dehydration, hypotension, and cardiac arrhythmias due to a combination of sauna exposure and alcohol consumption. Sauna bathing is generally safe for most healthy people and even among patients with stable CVD, if used sensibly and with caution. Plausible pathways underlying the protective effect of sauna bathing on SCD may be linked to the impact on CV function via reduced arterial stiffness, decreases in inflammation and oxidative stress, stabilization of the autonomic nervous system, beneficial changes in circulating lipid profiles and other CVD risk markers, and lowering of systemic blood pressure. Sauna is a potential novel tool to promote SCD prevention in addition to other known means, being an enjoyable way to take care of general health and well-being.
 
 ---
 
-### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^cd030876]. BMC Pediatrics (2015). Low credibility.
+### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^116EwUrq]. BMC Pediatrics (2015). Low credibility.
 
 'I asked the traditional birth attendant 'why not bath the baby today?', she told me in the hospital they… don't allow you to bath you have to wait up to tomorrow… the traditional birth attendant follows directions which she hears from the hospital' [34 year old Tanzanian mother]
 
@@ -1242,7 +1242,7 @@ Findings from all respondent groups show that in Tanzania and Nigeria warm water
 
 ---
 
-### Medical and surgical treatment of haemorrhoids and anal fissure in Crohn's disease: a critical appraisal [^083d8cb2]. BMC Gastroenterology (2013). Low credibility.
+### Medical and surgical treatment of haemorrhoids and anal fissure in Crohn's disease: a critical appraisal [^111DDaLZ]. BMC Gastroenterology (2013). Low credibility.
 
 Haemorrhoids
 
@@ -1263,25 +1263,25 @@ During the follow up we observed two (11.8%) postoperative anal fissures, effect
 
 ---
 
-### Atopic dermatitis: update on skin-directed management: clinical report [^23ffb9e6]. Pediatrics (2025). High credibility.
+### Atopic dermatitis: update on skin-directed management: clinical report [^111vNTp1]. Pediatrics (2025). High credibility.
 
 Pediatric atopic dermatitis (AD) — general skin-directed management recommendations include: "Bathing should be frequent (daily to every other day) and short, with lukewarm water and gentle cleanser"; "Avoid products with added fragrance, dyes, or essential oils, as these are potential irritants and/or contact allergens"; "Topical anti-inflammatories (corticosteroids, calcineurin inhibitors, etc) should be applied once to twice daily to active eczema patches" and "Topical medications should not be mixed with topical emollients unless specifically instructed, as this dilutes the potency of the medication"; "Moisturizers should be applied liberally to the entire body skin surface at least daily in patients with atopic dermatitis, especially after a bath or shower"; and "Proactive" treatment with topical anti-inflammatories can reduce flares of recurrent AD.
 
 ---
 
-### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^52f82716]. Journal of the American Academy of Dermatology (2023). High credibility.
+### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^11381LWh]. Journal of the American Academy of Dermatology (2023). High credibility.
 
 Atopic dermatitis (AD) non-prescription therapies — For adults with AD, we recommend the use of moisturizers and the remark clarifies that "The use of a particular moisturizer or active ingredient in an emollient cannot be recommended based on the limited available evidence". For bathing, "we conditionally recommend bathing for treatment and maintenance", with the remark that "A standard for the frequency or duration of bathing appropriate for those with AD cannot be suggested based on the limited available evidence". For flares, "For adults with moderate-to-severe AD experiencing a flare, we conditionally recommend the use of wet dressings".
 
 ---
 
-### Atopic dermatitis and food allergy: best practices and knowledge gaps – A work group report from the AAAAI allergic skin diseases committee and leadership institute project [^edeff26e]. The Journal of Allergy and Clinical Immunology: In Practice (2022). High credibility.
+### Atopic dermatitis and food allergy: best practices and knowledge gaps – A work group report from the AAAAI allergic skin diseases committee and leadership institute project [^1175kfLH]. The Journal of Allergy and Clinical Immunology: In Practice (2022). High credibility.
 
 Atopic dermatitis skin care (Table 1) — bathing, cleansing, moisturizing, and anti-inflammatory use are specified as follows: "Bath or shower for 5–10 minutes in lukewarm water, a comfortable temperature but not too hot", and "Optimal bathing frequency is once daily". If using topicals, "they should be applied first to inflamed skin within minutes of patting dry", and "A fragrance-free cream or ointment moisturizer should be applied to all other skin subsequently". For cleansing, "A gentle, fragrance-free cleanser should be used", "Bubble baths should be avoided", and "Dilute bleach baths may be recommended". For anti-inflammatories, "Apply a thin layer of the appropriate strength anti-inflammatory medication to the affected area(s) until clear, and then 3–5 days after clearing, up to 14 consecutive days unless otherwise directed". The table adds that "For those children who do not bathe every day, a moisturizer should still be applied twice daily", and that "Infants may need little to no cleanser or shampoo; true soap should be avoided in all patients".
 
 ---
 
-### Clinical application of the intersphincteric approach with internal incision combined with counter-drainage for deep perianal abscess [^1b13d9f6]. BMC Gastroenterology (2025). Medium credibility.
+### Clinical application of the intersphincteric approach with internal incision combined with counter-drainage for deep perianal abscess [^111h9LM3]. BMC Gastroenterology (2025). Medium credibility.
 
 Postoperative treatment
 
@@ -1293,13 +1293,13 @@ All patients underwent outpatient follow-up evaluations after discharge, during 
 
 ---
 
-### Atopic dermatitis (eczema) guidelines: 2023 American academy of allergy, asthma and immunology / American college of allergy, asthma and immunology joint task force on practice parameters GRADE-and institute of medicine-based recommendations [^736562b7]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
+### Atopic dermatitis (eczema) guidelines: 2023 American academy of allergy, asthma and immunology / American college of allergy, asthma and immunology joint task force on practice parameters GRADE-and institute of medicine-based recommendations [^113x5dZQ]. Annals of Allergy, Asthma & Immunology (2024). High credibility.
 
 Atopic dermatitis — Recommendation 12 (mild disease; dilute bleach baths): In patients with mild atopic dermatitis, the JTF panel suggests against adding dilute bleach baths to topical therapy (no dilute-bleach based) baths (conditional recommendation, low-certainty evidence). The estimated treatment effect of dilute bleach baths for milder AD (eg, EASI of 10) was, on average, small (−2.2 points in comparison to a minimally important difference of 6.6). The guideline panel inferred that most well-informed patients with mild AD are likely to place a high value on maintaining a simple treatment routine that is minimally disruptive, and most fully informed patients are likely to value avoidance of the burdens of bleach baths and their uncertain harms over likely a small, possibly unimportant, benefit in AD severity, while acknowledging substantial variability in values such that a number of patients might opt for adjunctive dilute bleach baths even if disease activity is mild.
 
 ---
 
-### Surgical outcomes of ligaSure hemorrhoidectomy in the elderly population: a retrospective cohort study [^18e0a049]. BMC Gastroenterology (2021). Medium credibility.
+### Surgical outcomes of ligaSure hemorrhoidectomy in the elderly population: a retrospective cohort study [^111dt9qJ]. BMC Gastroenterology (2021). Medium credibility.
 
 Postoperative management
 
@@ -1309,7 +1309,7 @@ Postoperatively, all patients were prescribed oral metronidazole (250 mg four ti
 
 ---
 
-### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^53366a28]. BMC Pediatrics (2015). Low credibility.
+### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^1138NFUT]. BMC Pediatrics (2015). Low credibility.
 
 Results
 
@@ -1327,19 +1327,19 @@ During the bathing observations in Ethiopia, we observed that young babies were 
 
 ---
 
-### Committee opinion no. 676: health literacy to promote quality of care [^3ff543f0]. Obstetrics and Gynecology (2016). Medium credibility.
+### Committee opinion no. 676: health literacy to promote quality of care [^112dpbuh]. Obstetrics and Gynecology (2016). Medium credibility.
 
 Health literacy — developing written materials for patients — Develop written materials, keep the messages simple, and limit the number of messages (the general guideline is four main messages). Focus on action with specific recommendations based on behavior (eg, "Take a warm-water bath two times a day"). Use the active voice instead of the passive voice, use familiar language and avoid jargon, and use visual aids, such as drawings or models, for key points. Use at least a 12-point type size to make the messages easy to read and leave plenty of white space around margins and between sections.
 
 ---
 
-### Atopic dermatitis: update on skin-directed management: clinical report [^f67b7f98]. Pediatrics (2025). High credibility.
+### Atopic dermatitis: update on skin-directed management: clinical report [^117JRSGX]. Pediatrics (2025). High credibility.
 
 Atopic dermatitis bathing practices and dilute bleach baths: Patients with AD have higher rates of skin surface colonization with Staphylococcus aureus, and research on dilute bleach baths is conflicting; dilute bleach baths appear safe and may be recommended as an adjunct because they are unlikely to cause harm, though further studies are needed. Bathing frequency guidance favors more frequent bathing, with daily baths commonly recommended by pediatric dermatologists; it is reasonable to recommend frequent, short baths with lukewarm water and gentle cleansers, and moisturizer application should occur immediately after the bath.
 
 ---
 
-### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^97b70635]. BMC Pediatrics (2015). Low credibility.
+### "Why not bathe the baby today? ": a qualitative study of thermal care beliefs and practices in four African sites [^114svc9r]. BMC Pediatrics (2015). Low credibility.
 
 Discussion
 
@@ -1351,7 +1351,7 @@ Despite significant variation in contexts, we found similarities across sites in
 
 ---
 
-### Sauna bathing is associated with reduced cardiovascular mortality and improves risk prediction in men and women: a prospective cohort study [^7ae5ca72]. BMC Medicine (2018). Low credibility.
+### Sauna bathing is associated with reduced cardiovascular mortality and improves risk prediction in men and women: a prospective cohort study [^1149Cg4q]. BMC Medicine (2018). Low credibility.
 
 Conclusions
 
@@ -1359,7 +1359,7 @@ The current prospective study provides novel evidence that higher frequency and 
 
 ---
 
-### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^bccae80c]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
+### Not as simple as it seems: extensive facility and training gaps in nursing home bathing [^115ptpv7]. Infection Control and Hospital Epidemiology (2023). Medium credibility.
 
 To evaluate whether complaints of being cold affected the quality of bathing, we stratified the likelihood of inadequate body site cleansing and inaccurate bathing procedures by whether the resident was cold (Table 1). Failing to clean specific body sites was not significantly different between the groups, with the exception that staff were less likely to wash the hair of residents who were cold (89.5% vs 64.3% not washed; P = 0.02). However, sufficiently warm water significantly improved adherence to bathing procedures (46.5% mean failure rate across procedural elements when water was warm versus 79.9% when water was cold). Nevertheless, errors in bathing procedures remained common even with adequate bathing temperatures.
 
@@ -1368,19 +1368,19 @@ Body Site and Procedural Failures for Bed Baths and Showers by Whether Residents
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^2780a2a3]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the out-of-hospital evaluation and treatment of accidental hypothermia: 2019 update [^1121Zj1U]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Regarding nonpharmacologic interventions for accidental hypothermia, more specifically with respect to out-of-hospital management (active rewarming), WMS 2019 guidelines recommend to do not use a warm shower or bath for initial rewarming, even in patients with mild hypothermia.
 
 ---
 
-### Breathless in the bath [^84f67d8c]. British Journal of Sports Medicine (2006). Low credibility.
+### Breathless in the bath [^114Q8ADh]. British Journal of Sports Medicine (2006). Low credibility.
 
 The case is reported of a male track and field athlete with breathing difficulties at rest and during exercise, which were exacerbated in the supine position and during water immersion. Right hemidiaphragmatic paralysis was diagnosed. The cause of this relatively benign disorder is not known and there are no serious clinical implications. There is no treatment, but a continuation of exercise together with interventions to strengthen the subsidiary inspiratory muscles is recommended.
 
 ---
 
-### Balneotherapy for osteoarthritis [^585d3846]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
+### Balneotherapy for osteoarthritis [^113G1DsK]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
 
 Background
 
@@ -1412,36 +1412,36 @@ We found silver level evidence (www.cochranemsk.org) concerning the beneficial e
 
 ---
 
-### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^50e31172]. Pediatrics (2022). High credibility.
+### Risks of infectious diseases in newborns exposed to alternative perinatal practices [^1134vHBw]. Pediatrics (2022). High credibility.
 
 Delayed bathing in newborns — benefits and infection risk guidance: Delayed bathing may preserve the initial neonatal skin microbiome, and parents contemplating breastfeeding should be counseled that delaying the first bath is beneficial for successful and sustained efforts, and delayed bathing may have benefit in promoting initiation and exclusivity of breastfeeding. At this time, the only explicit AAP recommendation regarding bathing related to infectious risks is for infants exposed to HIV, and for these infants, the Red Book recommends that the child be bathed and cleaned of secretions as soon as possible after birth. Bathing should be initiated as soon as possible after delivery in cases in which newborn infants are exposed to active HSV genital lesions or when there is a known history of bloodborne pathogens (HIV, HBV, or hepatitis C virus), and delayed bathing in neonates exposed to active HSV genital lesions or with known history of HIV infection in the birth parent should be discouraged. Clinical assessment and management of an ill-appearing neonate does not change with regard to a history of delayed bathing.
 
 ---
 
-### Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy [^b6f6a0f7]. Journal of the American Academy of Dermatology (2019). High credibility.
+### Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management and treatment of psoriasis with phototherapy [^115gFb1G]. Journal of the American Academy of Dermatology (2019). High credibility.
 
 Bath PUVA — dosing, comparative effectiveness, patient preference, and risks: Bath PUVA involves mixing a psoralen with the bathwater and soaking affected areas before treatment with UVA light. Bath PUVA is commonly administered as 0.5 to 1 mg/L of 8-MOP in water or 0.33 mg/L of TMP in water. Bath PUVA is as effective as oral PUVA in the treatment of psoriasis, although a recent systematic review concluded that bath PUVA is less effective than oral PUVA, with only 47% of patients obtaining PASI 75 compared with 73% of patients receiving oral PUVA. Bath PUVA tends to cause fewer adverse effects, such as erythema and nausea, there are fewer drug interactions, and it offers the added benefit of requiring a lower cumulative dose of UVA than oral PUVA to obtain clearance. In 1 survey of 99 patients, 55% of patients chose bath PUVA over oral PUVA. TMP, which is frequently used for bath PUVA in Europe, is not approved by the US Food and Drug Administration and thus cannot be utilized in the United States. No long-term studies on risk of photocarcinogenesis with bath PUVA have been reported; systemic psoralen absorption is minimal; and phototoxicity can occur, with the same restrictions as with oral PUVA regarding patients in whom treatment should be avoided or used with caution.
 
 ---
 
-### Atopic dermatitis: update on skin-directed management: clinical report [^8443b79b]. Pediatrics (2025). High credibility.
+### Atopic dermatitis: update on skin-directed management: clinical report [^114P67SJ]. Pediatrics (2025). High credibility.
 
 Atopic dermatitis sample action plan — patient instructions include bathing, topical therapy, wet wraps, and proactive care with key quantitative parameters: Bath daily in lukewarm water for up to 10–15 minutes using a gentle, fragrance-free soap or non-soap cleanser to soiled areas only, and clinicians may recommend bleach baths with dilution guidance of 1/2 cup of household bleach for every half bathtub full of water and frequency wording of "Please do bleach baths ___ times per week". After patting skin dry, apply prescription medications to active dermatitis followed by a cream or ointment-based moisturizer over the entire body, with site-specific medication lines for face/neck/armpits/groin and for the body. For severe flares, apply wet wraps after medications and moisturizer, soaking cotton pajamas (as close to 100% cotton as possible) in warm tap water, wringing out until damp, keeping warm during treatment, then removing after the recommended time and rubbing in residual topicals; vinegar dilution for dampening may be used at 1/8 cup vinegar to every 2 cups tap water. Repeat medications and moisturizer, with or without wet wraps, a second time during the day. For maintenance, continue daily baths and moisturization even when dermatitis is not active, and proactive treatment may include applying prescribed therapy on typical problem areas 2-3x per week before bed/after bathing even when skin is clear; restart prescription medications when eczema flares.
 
 ---
 
-### 2024 American Heart Association and American red cross guidelines for first aid [^8b390fdf]. Circulation (2024). High credibility.
+### 2024 American Heart Association and American red cross guidelines for first aid [^114ZQSq4]. Circulation (2024). High credibility.
 
 Hypothermia first aid — showers and warm water immersion: People with simple cold stress were generally able to safely rewarm in a warm shower or warm water immersion, but in a single-patient experimental study of mild hypothermia with core temperature ≈36° C, warm bath rewarming was associated with transient core temperature drop, decreases in mean arterial pressure, and increases in heart rate and cardiac output; these effects can decrease perfusion and, in severe cases, cause arrhythmia, and attempting to manage a confused or less alert person with hypothermia in a shower or bathtub is potentially dangerous.
 
 ---
 
-### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^03b876e4]. Journal of the American Academy of Dermatology (2023). High credibility.
+### Guidelines of care for the management of atopic dermatitis in adults with topical therapies [^1116WvW7]. Journal of the American Academy of Dermatology (2023). High credibility.
 
 Atopic dermatitis — bathing and bleach baths: Data on bathing for adults with AD is minimal. A study comparing magnesium chloride ("dead sea salt") to tap water suggested that the additive may help reduce skin redness but patients did not have active dermatitis, thus limiting conclusions. Bleach baths may be helpful in infection prevention and bacterial colonization in AD but most studies are in children. In adults, one study of 10 patients with AD compared to 10 controls found bleach baths are well tolerated and safe without negative impact on stratum corneum hydration, transepidermal water loss, or pH after one 10-minute exposure. Another study comparing 18 patients receiving bleach baths twice weekly to 18 patients receiving distilled water baths twice weekly for 8 weeks reported a clinically significant within-group EASI reduction at 1 month (mean difference [MD]: 9.30 lower, P = 0.017) and a significant, but possibly not clinically meaningful, improvement versus placebo at 2 months (MD: 12.70 lower, 95% CI: 20.06 lower to 5.34 lower).
 
 ---
 
-### ACOG practice bulletin no. 195: prevention of infection after gynecologic procedures [^76c13be3]. Obstetrics and Gynecology (2018). Medium credibility.
+### ACOG practice bulletin no. 195: prevention of infection after gynecologic procedures [^11434Ski]. Obstetrics and Gynecology (2018). Medium credibility.
 
 Preoperative bathing before abdominal surgery — Advise patients to shower or bathe (full body) with soap (antimicrobial or nonantimicrobial) or an antiseptic agent on at least the night before abdominal surgery. The 2017 CDC guidelines recommend a preoperative bath or shower and do not specify any particular soap or antiseptic and, citing a 2015 Cochrane review including seven randomized controlled trials, found no difference between agents (most frequently 4% chlorhexidine gluconate) and soap or placebo; a second meta-analysis showed no benefit of whole-body bathing with soap compared with placebo or no bathing. The CDC did not make recommendations regarding use of chlorhexidine, optimal timing of washing, or number of applications. Although the CDC guidelines and other major guidelines do not specifically recommend chlorhexidine, it is a reasonable choice based on limited evidence that suggests increased efficacy compared with soap or placebo, and one large study reported benefit with chlorhexidine (relative risk [RR], 0.36; 95% CI, 0.17–0.79) over no washing; in a 10-year prospective surveillance study, the surgical site infection rate was lower with preoperative hexachlorophene bathing than with no showering or a nonmedicated soap.

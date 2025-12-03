@@ -15,13 +15,13 @@ A 23-year-old woman presents with a painless, transilluminant swelling in the ri
 
 > Let's see… What do we have here? The user is asking which ICD-10-CM code should be used for billing a hydrocele of the canal of Nuck in a 23-year-old woman. Let's break this down step-by-step. First, I need to think about the clinical entity and its female-specific embryology. Then, I should verify the most specific ICD-10-CM code that captures a hydrocele of the canal of Nuck. Next, I will check whether laterality is required and, if so, how to encode right-sided disease. Finally, I will consider alternatives if the exact term is not found and confirm the final code with coding principles and references.
 
-> Let me first confirm the diagnosis and its specificity. A hydrocele of the canal of Nuck is a female homologue of a patent processus vaginalis with a fluid collection along the round ligament extending to the labia majora; ultrasound typically shows a simple fluid collection and confirms the diagnosis, which aligns with the clinical scenario described [^ea29e29b] [^3243e6c9] [^491eba20].
+> Let me first confirm the diagnosis and its specificity. A hydrocele of the canal of Nuck is a female homologue of a patent processus vaginalis with a fluid collection along the round ligament extending to the labia majora; ultrasound typically shows a simple fluid collection and confirms the diagnosis, which aligns with the clinical scenario described [^116zAAw4] [^112HXBvG] [^112sQRBd].
 
 > Now, I need to check the ICD-10-CM index and code set for the most specific match. Wait, let me verify the exact phrasing: the Index to Diseases directs "Hydrocele, canal of Nuck" to code N94.89, which is the most specific available code for this entity in ICD-10-CM, and there is no more granular subcategory listed for canal of Nuck hydrocele specifically [^notfound].
 
 > Hold on, I should verify whether laterality is required for this code. N94.89 sits within the N94 category, which does not carry a 7th-character requirement for laterality; laterality is not built into N94.89, so I should not append a side indicator or placeholder X here, even though ICD-10-CM supports laterality in other categories where it is explicitly required.
 
-> But wait, what if I considered a hernia code instead, given the inguinolabial location? Let me reconsider: a hydrocele of the canal of Nuck is a cystic fluid collection from a patent processus vaginalis rather than a hernia with solid content, so using an inguinal hernia code would be inaccurate; the correct approach is to stay with the hydrocele-specific code rather than forcing a hernia diagnosis code for billing purposes [^ea29e29b] [^3243e6c9].
+> But wait, what if I considered a hernia code instead, given the inguinolabial location? Let me reconsider: a hydrocele of the canal of Nuck is a cystic fluid collection from a patent processus vaginalis rather than a hernia with solid content, so using an inguinal hernia code would be inaccurate; the correct approach is to stay with the hydrocele-specific code rather than forcing a hernia diagnosis code for billing purposes [^116zAAw4] [^112HXBvG].
 
 > I should double-check that there isn't a more specific congenital anomaly code that fits better. Initially, I wondered about Q52.4 for congenital cyst of canal of Nuck, but wait, I need to ensure validity: Q52.4 refers to congenital cysts of the canal of Nuck, which would apply if the condition were documented as congenital; however, in adults presenting de novo, N94.89 remains the appropriate clinical diagnosis code unless the record explicitly states a congenital origin, so I should not default to Q52.4 without supporting documentation [^notfound].
 
@@ -64,13 +64,13 @@ The correct ICD-10-CM code for a 23-year-old female with a hydrocele of the cana
 
 ## References
 
-### Canal of nuck abnormalities [^ea29e29b]. Journal of Ultrasound in Medicine (2020). Medium credibility.
+### Canal of nuck abnormalities [^116zAAw4]. Journal of Ultrasound in Medicine (2020). Medium credibility.
 
 Canal of Nuck abnormalities are underrecognized causes of labial masses with potential adverse outcomes. The 2 main categories of canal of Nuck abnormalities are hernias and hydroceles. There are 3 types of canal of Nuck hydroceles: communicating, encysted, and bilocular. Canal of Nuck hernia contents vary, but those containing ovaries need urgent medical attention because of an increased risk of ischemia. Ultrasound can establish a definite diagnosis in all cases. This article reviews the embryologic characteristics, anatomy, pathologic characteristics, and imaging features of these abnormalities while providing a clear pictorial depiction of various unique hernias and hydroceles seen with this entity.
 
 ---
 
-### Hydroceles-not just for men [^87121757]. The Journal of Emergency Medicine (2017). Low credibility.
+### Hydroceles-not just for men [^114TFQVL]. The Journal of Emergency Medicine (2017). Low credibility.
 
 Background
 
@@ -82,97 +82,97 @@ We report a rare case of a 46-year-old female with the chief complaint of a pain
 
 ---
 
-### Multimodality imaging features of canal-of-nuck hydrocele in adults [^3243e6c9]. Clinical Imaging (2022). Medium credibility.
+### Multimodality imaging features of canal-of-nuck hydrocele in adults [^112HXBvG]. Clinical Imaging (2022). Medium credibility.
 
 Canal of Nuck abnormalities are common in pediatric population but may rarely present in adults. Hydrocele of the Canal of Nuck is the most common presentation in adult population. These may be symptomatic or found incidentally on imaging. We review the embryology and present imaging features of Canal of Nuck hydroceles in this case-based review article, and highlight the features on various imaging modalities, such as ultrasound, CT (Computed Tomography), MRI (Magnetic Resonance Imaging) and PET (Positron Emission Tomography). Radiologists should be aware of these findings in their practice and be able to recognize these congenital abnormalities.
 
 ---
 
-### Hydrocele of the canal of nuck: value of radiological diagnosis [^b755cf0b]. Journal of Radiology Case Reports (2012). Low credibility.
+### Hydrocele of the canal of nuck: value of radiological diagnosis [^115goZG6]. Journal of Radiology Case Reports (2012). Low credibility.
 
 Hydrocele of the canal of Nuck (cyst of the canal of Nuck) is the female homologue of hydrocele of the spermatic cord in males and is a rarely encountered entity, mostly diagnosed on the operating table at the time of suspected inguinal hernia surgery, as the clinical presentation usually is subtle and inconclusive. Diagnosis is mainly by ultrasound and has shown varied presentation of the same over the years. We discuss the sonographic findings of a case of hydrocele of the canal of Nuck.
 
 ---
 
-### Canal of nuck hernia: a multimodality imaging review [^22dbc30f]. Pediatric Radiology (2017). Low credibility.
+### Canal of nuck hernia: a multimodality imaging review [^111tgPta]. Pediatric Radiology (2017). Low credibility.
 
 Canal of Nuck abnormalities are a rare but important cause of morbidity in girls, most often those younger than 5 years of age. The canal of Nuck, which is the female equivalent of the male processus vaginalis, is a protrusion of parietal peritoneum that extends through the inguinal canal and terminates in the labia majora. The canal typically obliterates early in life, but in some cases the canal can partially or completely fail to close, potentially resulting in a hydrocele or hernia of pelvic contents. Recognition of this entity is especially important in cases of ovarian hernia due to the risk of incarceration and torsion. We aim to increase awareness of this condition by reviewing the embryology, anatomy and diagnosis of canal of Nuck disorders with imaging findings on US, CT and MRI using several cases from a single institution.
 
 ---
 
-### Hydrocele in the canal of nuck-CT appearance of a developmental groin anomaly [^e030d6b6]. Journal of Radiology Case Reports (2016). Low credibility.
+### Hydrocele in the canal of nuck-CT appearance of a developmental groin anomaly [^116jNdad]. Journal of Radiology Case Reports (2016). Low credibility.
 
 Hydrocele in the Canal of Nuck is a condition of female fetal development. The Canal of Nuck is a patent tubular peritoneal fold that travels with the round ligament to its attachment on the labia major. Failure of complete obliteration of the Canal of Nuck during fetal development predisposes females to development of a hydrocele or an inguinal hernia during post-pubertal or adult stages. We present a case of a 21 year old female with a tender reducible labial mass diagnosed as a Hydrocele in the Canal of Nuck.
 
 ---
 
-### Rare encounter: hydrocoele of canal of nuck in a Scottish rural hospital during the COVID-19 pandemic [^88b8f473]. BMJ Case Reports (2020). High credibility.
+### Rare encounter: hydrocoele of canal of nuck in a Scottish rural hospital during the COVID-19 pandemic [^114VhSYA]. BMJ Case Reports (2020). High credibility.
 
 We report the case of a 32-year-old woman who presented with reducible indirect inguinal hernia and a challenging constellation of symptoms, signs and radiographic findings. Surgical approach superseded conservative management when the patient's abdomen became acute, with a rising lactate and haemodynamic instability. Specifically, the presence of a fluid collection was concerning for sinister acute pathology. Our patient was rediagnosed intraoperatively with hydrocoele of canal of Nuck. This so-called 'female hydrocoele' is an eponymous anatomical rarity in general surgery, presenting as an inguinolabial swelling with variable clinical profile. Hydrocoele of canal of Nuck takes origin from failure of transitory reproductive anlagen to regress and is thus analogous to patent processus vaginalis. Its true incidence is speculative, with just several hundred cases globally. We aim to provide insights into surgical patient management for a rare entity during the COVID-19 outbreak, from the unique perspective of a small rural hospital in Scotland.
 
 ---
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Sonographic appearance of canal of nuck hydrocele [^b9d9e81e]. Pediatric Radiology (2007). Low credibility.
+### Sonographic appearance of canal of nuck hydrocele [^115kXuJM]. Pediatric Radiology (2007). Low credibility.
 
 We present a case of a relatively uncommon entity in a 17-year-old girl who presented to the emergency department with right inguinal pain and discomfort. On sonography, she was thought to have a hydrocele of a patent processus vaginalis, although differentials could not be excluded. The hydrocele was subsequently confirmed at surgery. Because this is an uncommonly reported condition, a high index of suspicion must be maintained in the appropriate clinical setting. We present various sonographic appearances and techniques that have been proposed in the literature.
 
 ---
 
-### Hydrocele of the canal of nuck presenting as a sausage-shaped mass [^491eba20]. BMJ Case Reports (2017). Medium credibility.
+### Hydrocele of the canal of nuck presenting as a sausage-shaped mass [^112sQRBd]. BMJ Case Reports (2017). Medium credibility.
 
 A 23-year-old woman presented with a painless vulval swelling. On physical examination, a soft fluctuant sausage-shaped mass was found, measuring approximately 4cm, extending from the right inguinal region to the labia majora. Ultrasound revealed a well-defined hypoechoic elongated mass, septated, extending from the superficial inguinal canal to labia majora. Sonographic findings were consistent with the diagnosis of a hydrocele of the canal of Nuck. Surgical exploration revealed an elongated cystic lesion with a total length of 13cm, mucous component and internal septations. Histopathological examination of the surgical specimen confirmed the suspected diagnosis.
 
 ---
 
-### Canal of nuck abnormalities in pediatric female patients [^dd01b42f]. Radiographics (2022). Medium credibility.
+### Canal of nuck abnormalities in pediatric female patients [^116eeqUS]. Radiographics (2022). Medium credibility.
 
 A groin lump is not an uncommon condition in girls and female infants, and US plays a fundamental role in its exploration. The main pathologic conditions are related to the failure of obliteration of the canal of Nuck. Radiologists should gain a full understanding of the embryology and US anatomy of the inguinal canal before assessing this entity for the first time. An optimal age-adjusted US technique-including examinations at rest and during straining-is essential to help assess the canal of Nuck, diagnose a hernia, and analyze its content. The radiologist must be aware of the various types of hernial content depending on the patient's age, including intestinal, omental, ovarian, or tubouterine hernia, and the US features of each. Incarcerated hernias are common in girls and mostly contain an ovary. In such cases, it is crucial to screen for US signs suggestive of ovarian ischemic damage, thereby calling for urgent surgery. US can also depict a cyst or hydrocele of the canal of Nuck and its complications. Moreover, other rare pathologic conditions involving the inguinal area may be depicted at US, which helps guide appropriate treatment. US is the ideal modality for evaluating an inguinal lump in girls and female infants. Online supplemental material is available for this article. © RSNA, 2022.
 
 ---
 
-### A cautionary approach to adult female groin swelling: hydrocoele of the canal of nuck with a review of the literature [^e2b07652]. BMJ Case Reports (2016). Medium credibility.
+### A cautionary approach to adult female groin swelling: hydrocoele of the canal of nuck with a review of the literature [^116o5UT3]. BMJ Case Reports (2016). Medium credibility.
 
 Hydrocoele of the canal of Nuck in an adult female is a rare entity and analogous to hydrocoele in males. Its usual presentation is in children, and its occurrence in adults is very uncommon, more so of the hour-glass variety. We report a case of a 38-year-old woman presenting with a right inguinal swelling of 3-month duration. On physical examination, the swelling was non-tender, cystic and irreducible. There was no cough impulse. Ultrasonography and contrast-enhanced CT revealed a cystic swelling with clear contents in the right inguinal region. Surgery was performed with excision of the cyst. The histopathology report suggested flat mesothelium cells, confirming the diagnosis.
 
 ---
 
-### Uterus and ovary hernia of the canal of nuck [^32ec7dd7]. Pediatric Radiology (2008). Low credibility.
+### Uterus and ovary hernia of the canal of nuck [^112JVpKQ]. Pediatric Radiology (2008). Low credibility.
 
 Hernia of the canal of Nuck is a rare condition occurring in female infants. The canal of Nuck is a portion of the processus vaginalis of the peritoneum within the inguinal canal. The processus vaginalis is an evagination of parietal peritoneum of the embryonic lower anterior abdominal wall that passes into the inguinal canal. Normally, it loses its connection with the peritoneal cavity, but when it fails to close a hydrocele or hernia may result. We present a 2-month-old girl with a palpable movable mass in the right inguinal region. Ultrasonography revealed a hernia containing uterus and ovary. Ultrasonography is the examination of choice in female infants with a pathological mass in the groin. Its availability and accuracy facilitate diagnosis and proper surgical treatment.
 
 ---
 
-### Hydrocele and endometriosis of the canal of nuck in two adults: a look at the imaging features [^a341266f]. BMJ Case Reports (2023). High credibility.
+### Hydrocele and endometriosis of the canal of nuck in two adults: a look at the imaging features [^115B2sAN]. BMJ Case Reports (2023). High credibility.
 
 We present a report of two adult females who presented to the surgery clinic at different time frames in our hospital with a swelling in the inguinal region. The swelling was painful for one of our patients. The first patient was evaluated with a contrast-enhanced CT and an MRI, while the second patient underwent a ultrasonography and an MRI. Imaging revealed the structure to be cystic in nature and confirmed the diagnosis as a hydrocele of the canal of Nuck in both patients. Our second patient was also found to have concomitant endometriosis, with internal septations seen in the hydrocele. Aspiration revealed altered blood with haemosiderin deposition, which established a diagnosis of endometriosis of the canal of Nuck. The first patient underwent excision, while the second patient refused a surgical approach and opted for medical management for endometriosis.
 
 ---
 
-### The challenging sonographic inguinal canal evaluation in neonates and children: an update of differential diagnoses [^f3cfc9a4]. Pediatric Radiology (2017). Low credibility.
+### The challenging sonographic inguinal canal evaluation in neonates and children: an update of differential diagnoses [^117ETnWX]. Pediatric Radiology (2017). Low credibility.
 
 Bulging of the inguinal region is a frequent complaint in the pediatric population and sonographic findings can be challenging for radiologists. In this review we update the sonographic findings of the most common disorders that affect the inguinal canal in neonates and children, with a focus on the processus vaginalis abnormalities such as congenital hydroceles, indirect inguinal hernias and cryptorchidism, illustrated with cases collected at a quaternary hospital during a 7-year period. We emphasize the importance of correctly classifying different types of congenital hydrocele and inguinal hernia to allow for early surgical intervention when necessary. We have systematically organized and illustrated all types of congenital hydrocele and inguinal hernias based on embryological, anatomical and pathophysiological findings to assist readers in the diagnosis of even complex cases of inguinal canal ultrasound evaluation in neonates and children. We also present rare diagnoses such as the abdominoscrotal hydrocele and the herniation of uterus and ovaries into the canal of Nuck.
 
 ---
 
-### Anatomy and pathology of the canal of nuck [^82b5c274]. Clinical Imaging (2018). Low credibility.
+### Anatomy and pathology of the canal of nuck [^114LnSbd]. Clinical Imaging (2018). Low credibility.
 
 The canal of Nuck is the female equivalent of the processus vaginalis in the male but is less well known than its male counterpart. It is a rare entity not commonly encountered by radiologists, particularly in the adult population. Knowledge of the embryology and anatomy of the canal of Nuck is essential for identification of the various pathologic conditions that may occur in this location. Moreover, radiologists should be familiar with this entity to compose an appropriate and thorough differential diagnosis of a labial mass/swelling. In this review, we discuss both the anatomy and the more common pathology that can be encountered within it.
 
 ---
 
-### EAU guidelines on paediatric urology [^03b54ff7]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^1116Vs6W]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for hydrocele, more specifically with respect to assessment of contralateral disease, EAU/ESPU 2025 guidelines recommend to elicit history and perform physical examination at the time of initial evaluation to assess for contralateral disease.
 
 ---
 
-### What is inside the hernia sac? [^5811ecfd]. BMJ Case Reports (2016). Medium credibility.
+### What is inside the hernia sac? [^113FZw2C]. BMJ Case Reports (2016). Medium credibility.
 
 Background
 
@@ -209,25 +209,25 @@ Coronal section of pelvic CT scan. White arrow showing a 'fine-walled, non-pure 
 
 ---
 
-### EAU guidelines on paediatric urology [^d5dcafb8]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^116U4VLs]. EAU (2025). High credibility.
 
 Regarding surgical interventions for hydrocele, more specifically with respect to timing of surgery, EAU/ESPU 2025 guidelines recommend to observe the majority of infant patients with hydrocele for 12 months before considering surgical treatment because of the tendency for spontaneous resolution.
 
 ---
 
-### Cyst of the canal of nuck: an atypical course with cyclic changing of size [^7391821b]. BMJ Case Reports (2022). High credibility.
+### Cyst of the canal of nuck: an atypical course with cyclic changing of size [^113xLT8v]. BMJ Case Reports (2022). High credibility.
 
 As the canal of Nuck normally obliterates before birth, a patent canal is a rare anatomic variant in adult women analogue to the patent processus vaginalis in men. In a patent canal of Nuck, pathologies such as hernias and cyst can build within time. Such cysts themselves are so uncommon that they are mostly described in case reports. Normally, cysts of the canal of Nuck present as a consistent, inguinal swelling with or without pain. Interestingly, in our case, the painful swelling was cyclic changing from the size of a plum to being clinically undetectable within the course of a day. To the best of our knowledge, this is the first description of such an unusual course. The cyst was removed operatively via an open approach. The spasms declined shortly after the operation. At 1 year postoperatively, the patient was still asymptomatic.
 
 ---
 
-### EAU guidelines on paediatric urology [^178e856d]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^111bvb24]. EAU (2025). High credibility.
 
 Regarding surgical interventions for hydrocele, more specifically with respect to timing of surgery, EAU/ESPU 2025 guidelines recommend to perform early surgery if there is suspicion of a concomitant inguinal hernia or underlying testicular pathology.
 
 ---
 
-### Incidental findings in female pelvis MRI performed for gynaecological malignancies [^334420a9]. Insights Into Imaging (2025). Medium credibility.
+### Incidental findings in female pelvis MRI performed for gynaecological malignancies [^112K1Fc4]. Insights Into Imaging (2025). Medium credibility.
 
 Nuck cyst
 
@@ -247,13 +247,13 @@ On MRI, urachal carcinomas appear as large, heterogeneous masses, with irregular
 
 ---
 
-### EAU guidelines on paediatric urology [^8825adf4]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^114UqyP9]. EAU (2025). High credibility.
 
 Regarding surgical interventions for hydrocele, more specifically with respect to technical considerations for surgery, EAU/ESPU 2025 guidelines recommend to do not use sclerosing agents because of the risk for chemical peritonitis in communicating processus vaginalis.
 
 ---
 
-### Abstracts of ESPR 2013, the European society of paediatric radiology 50th annual meeting and 36th postgraduate course. June 3–7 2013. budapest, Hungary [^71813d20]. Pediatric Radiology (2013). Low credibility.
+### Abstracts of ESPR 2013, the European society of paediatric radiology 50th annual meeting and 36th postgraduate course. June 3–7 2013. budapest, Hungary [^113uH1cs]. Pediatric Radiology (2013). Low credibility.
 
 Discussion and conclusions. Ultrasound plays a vital role in renal transplant assessment as it provides an extension to clinical examination and biochemistry. Knowledge and understanding of these appearances is essential as diagnosis will direct patient management including subsequent intervention or biopsy, and further imaging such as angiography or nuclear medicine studies.
 
@@ -281,13 +281,13 @@ Silvia Rocha, Marcia Wang Matsuoka, Gisele Correa Almeida, Luciana Panizza, Andr
 
 ---
 
-### EAU guidelines on paediatric urology [^b2a8428d]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^115ZsK8Y]. EAU (2025). High credibility.
 
 Regarding surgical interventions for hydrocele, more specifically with respect to technical considerations for surgery, EAU/ESPU 2025 guidelines recommend to perform excision or unroofing of the cystic mass in patients with hydrocele of the spermatic cord.
 
 ---
 
-### Inguinal hernias: diagnosis and management… [^6b07e0bd]. AAFP (2020). Medium credibility.
+### Inguinal hernias: diagnosis and management… [^113jgKdN]. AAFP (2020). Medium credibility.
 
 Management In 2018, various international societies reviewed the literature and created guidelines for the management of groin hernias. The group received direct financial support from hernia mesh manufacturers Bard and Johnson & Johnson. The HerniaSurge group classifies management into two major categories: conservative and surgical. 18, 19. CONSERVATIVE MANAGEMENT Watchful waiting is a reasonable and safe option in men if the patient's usual activities are not limited by pain and discomfort and there is no difficulty reducing the hernia. 20 Surgical intervention should be initiated if pain develops. Watchful waiting is not recommended in nonpregnant women because of the higher likelihood of femoral hernias, which are associated with a higher risk of strangulation. 21 Watchful waiting is also not recommended for symptomatic hernias because of a higher risk of incarceration.
 19.
@@ -300,13 +300,13 @@ Becoming familiar with the common types of surgical interventions can help famil
 
 ---
 
-### A review of classification, diagnosis, and management of hydrocele [^53a013fd]. Journal of Ultrasound in Medicine (2024). Medium credibility.
+### A review of classification, diagnosis, and management of hydrocele [^1138yjxp]. Journal of Ultrasound in Medicine (2024). Medium credibility.
 
 This article summarizes and updates a number of issues related to hydrocele including anatomy, embryology, classification, etiology, clinical manifestations, imaging findings, and management. Hydrocele is an abnormal collection of serous fluid between the parietal and visceral layers arising from the mesothelial lining of the tunica vaginalis that surrounds the testis and spermatic cord directly. Hydroceles result from an imbalance of secretion and reabsorption of fluid from the tunica vaginalis. Hydroceles can be divided into two types as primary and secondary. The diagnosis should be based on medical history, clinical manifestations, and imaging studies. Understanding the causes and types of hydroceles is useful for accurately diagnosing and treatment strategy. Hydroceles can be managed by conservative treatment, fluid aspiration, or hydrocelectomy.
 
 ---
 
-### A comparative study of smooth muscle cell characteristics and myofibroblasts in processus vaginalis of pediatric inguinal hernia, hydrocele and undescended testis [^bc7615d5]. BMC Urology (2024). Medium credibility.
+### A comparative study of smooth muscle cell characteristics and myofibroblasts in processus vaginalis of pediatric inguinal hernia, hydrocele and undescended testis [^115pQLU4]. BMC Urology (2024). Medium credibility.
 
 Introduction
 
@@ -316,13 +316,13 @@ Congenital inguinal hernia and hydrocele are associated with patent processus va
 
 ---
 
-### Sonography of female genital hernias presenting as labia majora masses [^0aecd99c]. Journal of Ultrasound in Medicine (2014). Low credibility.
+### Sonography of female genital hernias presenting as labia majora masses [^111HCS2f]. Journal of Ultrasound in Medicine (2014). Low credibility.
 
 Inguinal herniation of the ovary or uterus presenting as a labia majora mass is a rare congenital condition that may be complicated by strangulation, torsion, and infertility. A labial mass in a prepubertal female patient can represent an inguinal hernia, a hydrocele of the canal of Nuck, a congenital labial cyst, leiomyoma, an abscess, lipoma, or lymphangioma. With a large differential diagnosis and an often limited physical examination, imaging plays an importance diagnostic role. We present 3 cases in which a labial mass contained an ovary alone and both ovaries and the uterus. We demonstrate sonographic findings and discuss the utility of sonography in the diagnosis of genital hernias and in detecting potential complications.
 
 ---
 
-### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^c7b2506a]. BMC Pediatrics (2025). Medium credibility.
+### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^11674RvH]. BMC Pediatrics (2025). Medium credibility.
 
 Limitations
 
@@ -330,13 +330,13 @@ Among the most important limitations of the present study, is the limited number
 
 ---
 
-### EAU guidelines on paediatric urology [^d047da90]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^116KnZSX]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for hydrocele, more specifically with respect to scrotal ultrasound, EAU/ESPU 2025 guidelines recommend to obtain scrotal ultrasound in case of doubt about the character of an intrascrotal mass.
 
 ---
 
-### Laparoscopic-assisted extraperitoneal ligation versus intraperitoneal suturing for pediatric inguinal hernia repair: a multicenter, observational study of recurrence [^9b511828]. World Journal of Pediatric Surgery (2025). Medium credibility.
+### Laparoscopic-assisted extraperitoneal ligation versus intraperitoneal suturing for pediatric inguinal hernia repair: a multicenter, observational study of recurrence [^114yGKXV]. World Journal of Pediatric Surgery (2025). Medium credibility.
 
 Methods
 
@@ -357,7 +357,7 @@ Surgical methods
 
 ---
 
-### Incidental findings in female pelvis MRI performed for gynaecological malignancies [^28ead452]. Insights Into Imaging (2025). Medium credibility.
+### Incidental findings in female pelvis MRI performed for gynaecological malignancies [^1123fP7o]. Insights Into Imaging (2025). Medium credibility.
 
 Urinary stones
 
@@ -368,13 +368,13 @@ Urachal cyst (a). Axial T2-WI (a) showing a urachal cyst (arrow) in a 43-year-ol
 
 ---
 
-### EAU guidelines on paediatric urology [^724afb1d]. EAU (2025). High credibility.
+### EAU guidelines on paediatric urology [^113vSmsa]. EAU (2025). High credibility.
 
 Regarding surgical interventions for hydrocele, more specifically with respect to technical considerations for surgery, EAU/ESPU 2025 guidelines recommend to perform ligation of the patent processus vaginalis via inguinal incision with distal stump left open in pediatric patients with hydrocele.
 
 ---
 
-### Cleft and craniofacial coding in ICD-10 [^f2229b68]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
+### Cleft and craniofacial coding in ICD-10 [^117BydQ3]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
 
 Objective
 
@@ -386,19 +386,19 @@ While seemingly beneficial in certain respects, the newer ICD-10 system remains 
 
 ---
 
-### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^71b70a4c]. Pain Physician (2015). Low credibility.
+### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^113ub5ko]. Pain Physician (2015). Low credibility.
 
 The forced implementation of ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes that are specific to the United States, scheduled for implementation October 1, 2015, which is vastly different from ICD-10 (International Classification of Diseases, Tenth Revision), implemented worldwide, which has 14,400 codes, compared to ICD-10-CM with 144,000 codes to be implemented in the United States is a major concern to practicing U.S. physicians and a bonanza for health IT and hospital industry. This implementation is based on a liberal interpretation of the Health Insurance Portability and Accountability Act (HIPAA), which requires an update to ICD-9-CM (International Classification of Diseases, Ninth Revision, Clinical Modification) and says nothing about ICD-10 or beyond. On June 29, 2015, the Supreme Court ruled that the Environmental Protection Agency unreasonably interpreted the Clean Air Act when it decided to set limits on the emissions of toxic pollutants from power plants, without first considering the costs on the industry. Thus, to do so is applicable to the medical industry with the Centers for Medicare and Medicaid Services (CMS) unreasonably interpreting HIPAA and imposing existent extensive regulations without considering the cost. In the United States, ICD-10-CM with a 10-fold increase in the number of codes has resulted in a system which has become so complicated that it no longer compares with any other country. Moreover, most WHO members use the ICD-10 system (not ICD-10-CM) only to record mortality in 138 countries or morbidity in 99 countries. Currently, only 10 countries employ ICD-10 (not ICD-10-CM) in the reimbursement process, 6 of which have a single payer health care system. Development of ICD-10-CM is managed by 4 non-physician groups, known as cooperating parties. They include the Centers for Disease Control and Prevention (CDC), CMS, the American Hospital Association (AHA), and the American Health Information Management Association (AHIMA). The AHIMA has taken the lead with the AHA just behind, both with escalating profits and influence, essentially creating a statutory monopoly for their own benefit. Further, the ICD-10-CM coalition includes 3M which will boost its revenues and profits substantially with its implementation and Blue Cross Blue Shield which has its own agenda. Physician groups are not a party to these cooperating parties or coalitions, having only a peripheral involvement. ICD-10-CM creates numerous deficiencies with 500 codes that are more specific in ICD-9-CM than ICD-10-CM. The costs of an implementation are enormous, along with maintenance costs, productivity, and cash disruptions.
 
 ---
 
-### Health policy basics: implementation of the international classification of disease, 10th revision [^489ad2ef]. Annals of Internal Medicine (2015). Low credibility.
+### Health policy basics: implementation of the international classification of disease, 10th revision [^112re7WE]. Annals of Internal Medicine (2015). Low credibility.
 
 The International Classification of Diseases (ICD) standardizes diagnostic codes into meaningful criteria to enable the storage and retrieval of information regarding patient care. Whereas other countries have been using ICD, 10th Revision (ICD-10), for years, the United States will transition from ICD, Ninth Revision, Clinical Modification (ICD-9-CM), to ICD-10, on 1 October 2015. This transition is one of the largest and most technically challenging changes that the medical community has experienced in the past several decades. This article outlines the implications of moving to ICD-10 and recommends resources to facilitate the transition.
 
 ---
 
-### Ectopic pregnancy developing in a cyst of the canal of nuck [^67fee428]. Obstetrics and Gynecology (2014). Low credibility.
+### Ectopic pregnancy developing in a cyst of the canal of nuck [^113fBLi3]. Obstetrics and Gynecology (2014). Low credibility.
 
 Background
 
@@ -414,25 +414,25 @@ In women of reproductive age presenting with painful swelling of the groin, ecto
 
 ---
 
-### ICD-10: history and context [^7f4e391d]. AJNR: American Journal of Neuroradiology (2016). Low credibility.
+### ICD-10: history and context [^114FjhhW]. AJNR: American Journal of Neuroradiology (2016). Low credibility.
 
 In recent months, organized medicine has been consumed by the anticipated transition to the 10th iteration of the International Classification of Disease system. Implementation has come and gone without the disruptive effects predicted by many. Despite the fundamental role the International Classification of Disease system plays in health care delivery and payment policy, few neuroradiologists are familiar with the history of its implementation and implications beyond coding for diseases.
 
 ---
 
-### Hernias and hydroceles [^aba46680]. Pediatrics in Review (2013). Low credibility.
+### Hernias and hydroceles [^115PU6y5]. Pediatrics in Review (2013). Low credibility.
 
 The disease hydrocele can be associated with inguinal hernia, scrotal swelling, scrotal cyanosis, infants, ⊕ scrotal transillumination and scrotal fluctuance.
 
 ---
 
-### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^c5bd4139]. Ophthalmology (2016). Medium credibility.
+### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^1164A8Vn]. Ophthalmology (2016). Medium credibility.
 
 ICD-10-CM laterality and 7th-character rules — Certain ICD-10 CM categories have applicable 7th characters, the 7th character must always be the 7th character in the data field, and a placeholder X is required if a code needing a 7th character is not 6 characters. For bilateral sites, the final character of the code indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When laterality is specified in the diagnosis code, Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^8fe44757]. BMC Pediatrics (2025). Medium credibility.
+### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^114gKuXU]. BMC Pediatrics (2025). Medium credibility.
 
 Background
 
@@ -446,37 +446,37 @@ In PH cases with severe swelling or an underlying disease (such as a hernia), su
 
 ---
 
-### Hydrocele in a case of atypical Kawasaki disease: case report and review of diagnostic criteria [^4f6f9513]. BMC Pediatrics (2021). Medium credibility.
+### Hydrocele in a case of atypical Kawasaki disease: case report and review of diagnostic criteria [^1132mW4a]. BMC Pediatrics (2021). Medium credibility.
 
 Although there are well recognized clinical features associated with classic Kawasaki Disease, there have been increasing numbers of atypical clinical presentations with increased dependence on the American Heart Association diagnostic algorithm for incomplete Kawasaki Disease. Timely diagnosis of Kawasaki Disease can reduce cardiovascular morbidity, thus it is important to consider this diagnosis in a child with prolonged fever and unexplainable inflammatory symptoms. We recommend that for any child with prolonged unexplained fever, Kawasaki Disease should be considered, even if an infective process or cause of the fever has already been identified. Acute hydrocele can also be a clinical feature of Kawasaki Disease, and is possibly related to the underlying systemic inflammatory processes, thus clinicians dealing with diagnostic dilemmas involving inflammatory processes should always consider Kawasaki Disease as a potential differential diagnosis.
 
 ---
 
-### International guidelines for groin hernia management [^d5299edf]. Hernia (2018). Medium credibility.
+### International guidelines for groin hernia management [^116T2Lrr]. Hernia (2018). Medium credibility.
 
 Regarding specific circumstances for inguinal hernia, more specifically with respect to female patients, HSG 2018 guidelines recommend to include femoral hernia in the differential diagnosis of groin swelling in female patients.
 
 ---
 
-### Conjunctivitis preferred practice pattern [^5e1c6ada]. Ophthalmology (2024). High credibility.
+### Conjunctivitis preferred practice pattern [^113QXP77]. Ophthalmology (2024). High credibility.
 
 Conjunctivitis PPP — ICD-10 CM coding rules for seventh characters and laterality state that the applicable 7th character is required for all codes within the category and must always be the 7th character in the data field; if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in (i.e., 4th digit, 5th digit, or 6th digit), right is always 1, left is always 2, and bilateral is always 3.
 
 ---
 
-### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^57242efe]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
+### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^113EC5Rw]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
 
 On October 1, 2015, the United States required use of the Clinical Modification of the International Classification of Diseases, 10th Revision (ICD-10-CM) for diagnostic coding. This primer was written to assist the cleft care community with understanding and use of ICD-10-CM for diagnostic coding related to cleft lip and/or palate (CL/P).
 
 ---
 
-### Inguinal hernias: diagnosis and management [^1367a279]. American Family Physician (2020). Medium credibility.
+### Inguinal hernias: diagnosis and management [^111VmaKa]. American Family Physician (2020). Medium credibility.
 
 Groin hernias are caused by a defect of the abdominal wall in the groin area and comprise inguinal and femoral hernias. Inguinal hernias are more common in men. Although groin hernias are easily diagnosed on physical examination in men, ultrasonography is often needed in women. Ultrasonography is also helpful when a recurrent hernia, surgical complication after repair, or other cause of groin pain (e.g., groin mass, hydrocele) is suspected. Magnetic resonance imaging has higher sensitivity and specificity than ultrasonography and is useful for diagnosing occult hernias if clinical suspicion is high despite negative ultrasound findings. Herniography, which involves injecting contrast media into the hernial sac, may be used in selected patients. Becoming familiar with the common types of surgical interventions can help family physicians facilitate postoperative care and assess for complications, including recurrence. Laparoscopic repair is associated with shorter recovery time, earlier resumption of activities of daily living, less pain, and lower recurrence rates than open repair. Watchful waiting is a reasonable and safe option in men with asymptomatic or minimally symptomatic inguinal hernias. Watchful waiting is not recommended in patients with symptomatic hernias or in nonpregnant women.
 
 ---
 
-### Automated protocoling for MRI exams-challenges and solutions [^b787d627]. Journal of Digital Imaging (2022). Medium credibility.
+### Automated protocoling for MRI exams-challenges and solutions [^115h6Mt2]. Journal of Digital Imaging (2022). Medium credibility.
 
 Results
 
@@ -500,7 +500,7 @@ Heat map visualization of the overlap coefficient of admitting diagnosis ICD-10 
 
 ---
 
-### Utilising international statistical classification of diseases and related health conditions (ICD)-10 Australian modification classifications of "Health conditions" to achieve population health surveillance in an Australian spinal cord injury cohort [^4679ec01]. Spinal Cord (2022). Medium credibility.
+### Utilising international statistical classification of diseases and related health conditions (ICD)-10 Australian modification classifications of "Health conditions" to achieve population health surveillance in an Australian spinal cord injury cohort [^112oV5xU]. Spinal Cord (2022). Medium credibility.
 
 Traumatic aetiologies
 
@@ -518,7 +518,7 @@ The NLM descriptors/ search terms "fracture" and "neck", or "cervical spine", "t
 
 ---
 
-### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^3a2a800a]. BMC Pediatrics (2025). Medium credibility.
+### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^112VEZKF]. BMC Pediatrics (2025). Medium credibility.
 
 Methods
 
@@ -534,13 +534,13 @@ The PRISMA guidelines were totally followed for selection of eligible studies. T
 
 ---
 
-### Hydrocodone bitartrate, acetaminophen (hydrocodone bitartrate and acetaminophen) [^70f046a1]. FDA (2015). Low credibility.
+### Hydrocodone bitartrate, acetaminophen (hydrocodone bitartrate and acetaminophen) [^113tSKWp]. FDA (2015). Low credibility.
 
 HYDROCODONE BITARTRATE AND ACETAMINOPHEN (HYDROCODONE BITARTRATE, ACETAMINOPHEN) SOLUTION
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^b7ad7b35]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^115hK1Fz]. JAMA Network Open (2020). High credibility.
 
 Key Points
 
@@ -558,25 +558,25 @@ These findings suggest that diagnostic classification systems developed with ICD
 
 ---
 
-### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^7251d35c]. Pediatrics (2020). High credibility.
+### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^113vV5Dd]. Pediatrics (2020). High credibility.
 
 FGM/C ICD-10 coding and WHO classification — Female genital mutilation/cutting (FGM/C) categories map to specific ICD-10 codes and WHO subtype definitions: Female genital mutilation, type I is coded N90.811 and corresponds to partial excision of the clitoris and/or prepuce with subtypes Ia (removal of prepuce only) and Ib (partial or total removal of clitoris and prepuce); type II is coded N90.812 and corresponds to partial or total removal of the clitoris and labia minora, with or without excision of the labia majora, with subtypes IIa (removal of labia minora only), IIb (partial removal of the clitoris and labia minora), and IIc (partial removal of the clitoris, labia minora and majora); type III is coded N90.813 and corresponds to infibulation with subtypes IIIa (removal and apposition of the labia minora) and IIIb (removal and apposition of the labia majora); and other female genital mutilation is coded N90.818 and corresponds to unclassified procedures including piercing.
 
 ---
 
-### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^57af669a]. Obstetrics and Gynecology (2019). High credibility.
+### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^113Ezqbo]. Obstetrics and Gynecology (2019). High credibility.
 
 Management timing — The document states that the ideal time for surgical intervention on hymenal tissue is before the onset of pain and after onset of pubertal development.
 
 ---
 
-### Prenatal hydrocolpos: imaging findings and differential diagnosis [^790d94e1]. Pediatric Radiology (2024). Medium credibility.
+### Prenatal hydrocolpos: imaging findings and differential diagnosis [^1146U4gx]. Pediatric Radiology (2024). Medium credibility.
 
 Prenatal hydrocolpos is characterized by fluid distension of the vagina. Hydrocolpos can be caused by multiple underlying etiologies and often demonstrates overlapping imaging features compared to other cystic abdominal and pelvic lesions. The purpose of the current pictorial essay is to provide a systematic prenatal magnetic resonance imaging (MRI) approach to differentiating the primary etiologies leading to hydrocolpos. After discussing the fundamental embryological processes involved in vaginal development, the current essay discusses the most common causes of hydrocolpos with their associated prenatal and postnatal imaging features. An approach to distinguishing the more common differential diagnoses is provided. Given the implications of parental counseling and postnatal management, this essay provides an important approach for narrowing differential diagnoses based on prenatal imaging.
 
 ---
 
-### Definitions, terminology and standards for reporting of births and deaths in the perinatal period: international classification of diseases (ICD-11) [^236b6111]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### Definitions, terminology and standards for reporting of births and deaths in the perinatal period: international classification of diseases (ICD-11) [^111uWdn8]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 AUTHOR DISCLAIMER
 
@@ -584,7 +584,7 @@ The authors alone are responsible for the views expressed in this article and th
 
 ---
 
-### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^b5493e84]. BMC Pediatrics (2025). Medium credibility.
+### Global prevalence of hydrocele in infants and children: a systematic review and meta-analysis [^115dmMvK]. BMC Pediatrics (2025). Medium credibility.
 
 Discussion
 
@@ -594,7 +594,7 @@ Provision of health solutions for early diagnosis of PH pathology seems a critic
 
 ---
 
-### The treatment of abdominoscrotal hydrocele: is there a role for nonoperative management? [^f31fd23f]. Journal of Pediatric Surgery (2016). Low credibility.
+### The treatment of abdominoscrotal hydrocele: is there a role for nonoperative management? [^117DSgQe]. Journal of Pediatric Surgery (2016). Low credibility.
 
 Background/Purpose
 
@@ -614,13 +614,13 @@ ASH should be included in the differential diagnosis of pediatric scrotal swelli
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Exploring the implications of the new ICD-10-CM classification system for injury surveillance: analysis of dually coded data from two medical centres [^a36ea6dd]. Injury Prevention (2021). Medium credibility.
+### Exploring the implications of the new ICD-10-CM classification system for injury surveillance: analysis of dually coded data from two medical centres [^115BJ9c8]. Injury Prevention (2021). Medium credibility.
 
 Results
 
@@ -635,7 +635,7 @@ In the MCA dataset, five records had an ICD-9-CM injury code as the principal di
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^439852f4]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^112jDLPm]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -643,7 +643,7 @@ Diagnostic codes are widely used within health care in the US for reimbursement,
 
 ---
 
-### Aspiration and sclerotherapy: a minimally invasive treatment for hydroceles and spermatoceles [^2817c52e]. Urology (2022). Medium credibility.
+### Aspiration and sclerotherapy: a minimally invasive treatment for hydroceles and spermatoceles [^1122SVMX]. Urology (2022). Medium credibility.
 
 Objective
 
@@ -663,25 +663,25 @@ AS is a safe and effective treatment alternative for hydrocele and spermatocele 
 
 ---
 
-### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^d7a684c7]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
+### American Urogynecologic Society best-practice statement: recurrent urinary tract infection in adult women [^116WiGdk]. Female Pelvic Medicine & Reconstructive Surgery (2018). Medium credibility.
 
 Recurrent urinary tract infection — coding and documentation: Women who meet the criteria for rUTI should have this diagnosis added to their problem list to help alert other providers and ensure best practices, and the International Classification of Disease, 10th Revision, Clinical Modification (ICD-10-CM) is important for correct classification; the ICD-10 code of "positive urine culture" can be used instead of UTI or asymptomatic bacteriuria when a urine culture is positive but the clinical criteria are not met for a UTI.
 
 ---
 
-### Pediatric application of coding and valuation systems [^d495525c]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116SAXmM]. Pediatrics (2019). High credibility.
 
 ICD-10-CM impact on payment — Pediatricians "should use the specificity of the ICD-10-CM to accurately reflect the child's conditions and complexity", and when "sufficient clinical information is not known or available about a particular health condition, the payer should recognize that the clinician can appropriately report an unspecified code without the claim being summarily denied solely on the basis of specificity". Furthermore, payers "should not use ICD-10-CM specificity to deny payment to appropriately trained pediatricians performing those specialized services within their scope of practice". New payment models "incorporate elaborate risk-adjustment algorithms based on diagnostic completeness", and such risk-based models "must appropriately represent the risk contributed by children with special health care needs". To support diagnostic comprehensiveness, "claim-form formatting should be expanded (such as doubling to 8) to accommodate more than 4 diagnoses per line-item service", exceeding "the current line-item limitation for the version 5010 CMS 837P electronic and 1500 paper claim forms".
 
 ---
 
-### Occult primary, version 3.2014 [^299b9b41]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
+### Occult primary, version 3.2014 [^1124gm1i]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
 
 Occult primary recommendations — "All recommendations are category 2A unless otherwise indicated".
 
 ---
 
-### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^cd4941f1]. The Journal of Arthroplasty (2016). Low credibility.
+### Importance of proper utilization of international classification of Diseases 10th revision and clinical documentation in modern payment models [^116FM4wi]. The Journal of Arthroplasty (2016). Low credibility.
 
 Background
 
@@ -701,7 +701,7 @@ Now is the time to use the ICD-10 diagnostic codes to improve the management of 
 
 ---
 
-### Validation of an international classification of diseases, ninth revision code algorithm for identifying Chiari malformation type 1 surgery in adults [^2b03f1fc]. Neurosurgery (2015). Low credibility.
+### Validation of an international classification of diseases, ninth revision code algorithm for identifying Chiari malformation type 1 surgery in adults [^1126mnyh]. Neurosurgery (2015). Low credibility.
 
 Background
 
@@ -725,13 +725,13 @@ ICD-9-CM code Algorithm 2 has excellent PPV and good sensitivity to identify adu
 
 ---
 
-### Occult primary, version 3.2014 [^49859920]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
+### Occult primary, version 3.2014 [^112szyGs]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
 
 Occult primary — recommendation category notes that all recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Meeting tomorrow's needs: a single-centre study in geriatric neurosurgery [^a3fa8676]. BMC Geriatrics (2025). Medium credibility.
+### Meeting tomorrow's needs: a single-centre study in geriatric neurosurgery [^115C78ZT]. BMC Geriatrics (2025). Medium credibility.
 
 Fig. 2
 Change in top five procedures by age group. Legend: This figure shows how the top 5 most common surgeries in the entire geriatric population (≥ 65) treated at the Department of Neurosurgery, Haukeland University Hospital, between January 1, 2018, and December 31, 2023, changes in different age groups. Code ABC56 defines decompression of lumbar spinal canal and nerve roots. Code ABC36 defines decompression of lumbar nerve roots. Code AAD10 defines evacuation of subdural hematoma. Code AAF05 defines ventriculoperitoneal shunting. Finally, code ABC16 defines excision of lumbar intervertebral disc displacement
@@ -740,13 +740,13 @@ Table 2 presents the ten most frequent neurosurgical diagnoses in the geriatric 
 
 ---
 
-### Blepharitis preferred practice pattern ® [^ccf9d77a]. Ophthalmology (2024). High credibility.
+### Blepharitis preferred practice pattern ® [^116EtPoF]. Ophthalmology (2024). High credibility.
 
 Blepharitis ICD-10 CM coding — Blepharitis, which includes entities with the following ICD-10 classifications, lists Ulcerative (H01.01-), Squamous (H01.02-), Stye (H00.01-), Meibomitis (H01.02-), Abscess of eyelid (H00.03-), and Parasitic infestation of eyelid (B89). CM = Clinical Modification used in the United States; "(-) = 1, right upper eyelid; 2, right lower eyelid; 4, left upper eyelid; 5, left lower eyelid", and when laterality is specified "Right upper eyelid is always 1", "Right lower eyelid is always 2", "Left upper eyelid is always 4", and "Left lower eyelid is always 5". "Certain ICD-10 CM categories have applicable 7th characters" and "The 7th character must always be the 7th character in the data field"; if a 7th character is required and the code is "not 6 characters, a placeholder X must be used to fill in the empty characters". For bilateral sites, "the final character of the codes in the ICD-10 CM indicates laterality"; if no bilateral code exists and the condition is bilateral, "separate codes for both the left and right side should be assigned" and "Unspecified codes should only be used when there is no other code option available". A starred note instructs to "Code first underlying disease, as leishmaniasis (085.0–085.9), loiasis (125.2), onchocerciasis (125.3), or pediculosis (132.0)".
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^907a9fcb]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^114hCQVY]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 TABLE 2
 Weighted estimates for the number, total cost, mean cost, and median cost of birth defect–associated hospitalizations by organ system — National Inpatient Sample, 2013
@@ -759,7 +759,7 @@ Abbreviations: CI = confidence interval; CNS = central nervous system; CV = card
 
 ---
 
-### Incarceration rates in pediatric inguinal hernia: do not trust the coding [^6a4dfc40]. Journal of Pediatric Surgery (2010). Low credibility.
+### Incarceration rates in pediatric inguinal hernia: do not trust the coding [^113ibt9d]. Journal of Pediatric Surgery (2010). Low credibility.
 
 Purpose
 
@@ -779,13 +779,13 @@ Our study suggests that ICD-10 coding of incarceration is an inaccurate paramete
 
 ---
 
-### Occult primary, version 3.2014 [^835bb574]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
+### Occult primary, version 3.2014 [^114MkBYo]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
 
 Occult primary — recommendation category label: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Hydrocodone bitartrate and acetaminophen (Norco) [^43ab8dd4]. FDA (2010). Low credibility.
+### Hydrocodone bitartrate and acetaminophen (Norco) [^112jKo2K]. FDA (2010). Low credibility.
 
 INDICATIONS AND USAGE
 
@@ -793,19 +793,19 @@ Hydrocodone bitartrate and acetaminophen tablets are indicated for the relief of
 
 ---
 
-### Low back pain [^75cd34b7]. The Journal of Orthopaedic and Sports Physical Therapy (2012). Medium credibility.
+### Low back pain [^1141eUht]. The Journal of Orthopaedic and Sports Physical Therapy (2012). Medium credibility.
 
 Low back pain — ICD diagnostic classification lists primary International Classification of Diseases, 10th Revision (ICD-10) conditions including Lumbosacral segmental/somatic dysfunction, Spinal instabilities, Flatback syndrome, Lumbago due to displacement of intervertebral disc, Lumbar radiculopathy, Lumbago with sciatica, Low back pain, Disorder of central nervous system, specified as central nervous system sensitivity to pain, and Persistent somatoform pain disorder; the corresponding ICD-9-CM codes and conditions, which are used in the United States, include Nonallopathic lesion, lumbar region, Lumbosacral ligament sprain, Sciatica, Thoracic or lumbosacral neuritis or radiculitis, unspecified, and Lumbago.
 
 ---
 
-### Occult primary, version 3.2014 [^72040312]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
+### Occult primary, version 3.2014 [^113v2wHb]. Journal of the National Comprehensive Cancer Network (2014). Medium credibility.
 
 Occult primary — recommendation category: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Noonan syndrome: improving recognition and diagnosis [^eaaa8ed0]. Archives of Disease in Childhood (2022). Medium credibility.
+### Noonan syndrome: improving recognition and diagnosis [^116zuPgK]. Archives of Disease in Childhood (2022). Medium credibility.
 
 In the fetus
 
@@ -817,37 +817,37 @@ The perinatal period is a particularly important time for NS diagnosis, but the 
 
 ---
 
-### Corneal edema and opacification preferred practice pattern ® [^14409d67]. Ophthalmology (2024). High credibility.
+### Corneal edema and opacification preferred practice pattern ® [^111X2TSE]. Ophthalmology (2024). High credibility.
 
 Corneal opacification — ICD-10 CM classifications list minor corneal opacity H17.81-, peripheral corneal opacity H17.82-, central corneal opacity H17.1-, and phthisical cornea A18.59, H44.52-. Certain ICD-10 CM categories have applicable 7th characters; the applicable 7th character is required for all codes within the category, the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, assign separate codes for both the left and right side, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality (i.e., 4th digit, 5th digit, or 6th digit), Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### ICD-9-CM and ICD-10-CM mapping of the AAST emergency general surgery disease severity grading systems: conceptual approach, limitations, and recommendations for the future [^57d673b3]. The Journal of Trauma and Acute Care Surgery (2015). Low credibility.
+### ICD-9-CM and ICD-10-CM mapping of the AAST emergency general surgery disease severity grading systems: conceptual approach, limitations, and recommendations for the future [^113FDxNv]. The Journal of Trauma and Acute Care Surgery (2015). Low credibility.
 
 The American Association for the Surgery of Trauma (AAST) recently established a grading system for uniform reporting of anatomic severity of several emergency general surgery (EGS) diseases. There are five grades of severity for each disease, ranging from I (lowest severity) to V (highest severity). However, the grading process requires manual chart review. We sought to evaluate whether International Classification of Diseases, 9th and 10th Revisions, Clinical Modification (ICD-9-CM, ICD-10-CM) codes might allow estimation of AAST grades for EGS diseases. The Patient Assessment and Outcomes Committee of the AAST reviewed all available ICD-9-CM and ICD-10-CM diagnosis codes relevant to 16 EGS diseases with available AAST grades. We then matched grades for each EGS disease with one or more ICD codes. We used the Official Coding Guidelines for ICD-9-CM and ICD-10-CM and the American Hospital Association's "Coding Clinic for ICD-9-CM" for coding guidance. The ICD codes did not allow for matching all five AAST grades of severity for each of the 16 diseases. With ICD-9-CM, six diseases mapped into four categories of severity (instead of five), another six diseases into three categories of severity, and four diseases into only two categories of severity. With ICD-10-CM, five diseases mapped into four categories of severity, seven diseases into three categories, and four diseases into two categories. Two diseases mapped into discontinuous categories of grades (two in ICD-9-CM and one in ICD-10-CM). Although resolution is limited, ICD-9-CM and ICD-10-CM diagnosis codes might have some utility in roughly approximating the severity of the AAST grades in the absence of more precise information. These ICD mappings should be validated and refined before widespread use to characterize EGS disease severity. In the long-term, it may be desirable to develop alternatives to ICD-9-CM and ICD-10-CM codes for routine collection of disease severity characteristics.
 
 ---
 
-### Survival strategies for tsunami of ICD-10-CM for interventionalists: pursue or perish! [^f1ee71f0]. Pain Physician (2015). Low credibility.
+### Survival strategies for tsunami of ICD-10-CM for interventionalists: pursue or perish! [^117Bg7Cb]. Pain Physician (2015). Low credibility.
 
 The unfunded mandate for the implementation of International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) is scheduled October 1, 2015. The development of ICD-10-CM has been a complicated process. We have endeavored to keep Interventional Pain Management doctors apprised via a variety of related topical manuscripts. The major issues relate to the lack of formal physician participation in its preparation. While the American Health Information Management Association (AHIMA) and American Hospital Association (AHA) as active partners in its preparation. Centers for Medicare and Medicaid Services (CMS) and Centers for Disease Control and Prevention (CDC) are major players; 3M and Blue Cross Blue Shield Association are also involved. The cost of ICD-10-CM implementation is high, similar to the implementation of electronic health records (EHRs), likely consuming substantial resources. While ICD-10, utilized worldwide, includes 14,400 different codes, ICD-10-CM, specific for the United States, has expanded to 144,000 codes, which also includes procedural coding system. It is imperative for physicians to prepare for the mandatory implementation. Conversion from ICD-9-CM to ICD-10-CM coding in interventional pain management is not a conversion of one to one that can be easily obtained from software packages. It is a both a difficult and time-consuming task with each physician, early on, expected to spend on estimation at least 10 minutes per visit on extra coding for established and new patients. For interventional pain physicians, there have been a multitude of changes, including creation of new codes and confusing conversion of existing codes. This manuscript describes a variety of codes that are relevant to interventional pain physicians and often utilized in daily practices. It is our objective that this manuscript will provide coding assistance to interventional pain physicians.
 
 ---
 
-### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^d371b521]. Pediatrics (2020). High credibility.
+### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^116QUafS]. Pediatrics (2020). High credibility.
 
 Coding and documentation — female genital mutilation/cutting (FGM/C): The management of FGM/C should include complete documentation of clinical findings and use of International Classification of Diseases, 10th Revision (ICD-10) coding, and clinical documentation may facilitate timely referral to gynecologic or urologic specialists, if needed. In Arizona, from 2008 to 2014, only 243 cases of FGM/C were documented by ICD codes, and of these 243 cases none were in children younger than 18 years, while the Population Reference Bureau estimates that 7459 women and children are at risk for FGM/C in Arizona, suggesting underdocumentation by health care providers.
 
 ---
 
-### Coding update of the SMFM definition of low risk for cesarean delivery from ICD-9-CM to ICD-10-CM [^9ece1f72]. American Journal of Obstetrics and Gynecology (2017). Low credibility.
+### Coding update of the SMFM definition of low risk for cesarean delivery from ICD-9-CM to ICD-10-CM [^1154SH85]. American Journal of Obstetrics and Gynecology (2017). Low credibility.
 
 In 2015, the Society for Maternal-Fetal Medicine developed a low risk for cesarean delivery definition based on administrative claims-based diagnosis codes described by the International Classification of Diseases, Ninth Revision, Clinical Modification. The Society for Maternal-Fetal Medicine definition is a clinical enrichment of 2 available measures from the Joint Commission and the Agency for Healthcare Research and Quality measures. The Society for Maternal-Fetal Medicine measure excludes diagnosis codes that represent clinically relevant risk factors that are absolute or relative contraindications to vaginal birth while retaining diagnosis codes such as labor disorders that are discretionary risk factors for cesarean delivery. The introduction of the International Statistical Classification of Diseases, 10th Revision, Clinical Modification in October 2015 expanded the number of available diagnosis codes and enabled a greater depth and breadth of clinical description. These coding improvements further enhance the clinical validity of the Society for Maternal-Fetal Medicine definition and its potential utility in tracking progress toward the goal of safely lowering the US cesarean delivery rate. This report updates the Society for Maternal-Fetal Medicine definition of low risk for cesarean delivery using International Statistical Classification of Diseases, 10th Revision, Clinical Modification coding.
 
 ---
 
-### Hydrocodone bitatrate and acetaminophen (Norco) [^3c5c058c]. FDA (2012). Low credibility.
+### Hydrocodone bitatrate and acetaminophen (Norco) [^112YVAdq]. FDA (2012). Low credibility.
 
 INDICATIONS AND USAGE
 
@@ -855,7 +855,7 @@ NORCO®is indicated for the relief of moderate to moderately severe pain.
 
 ---
 
-### Groin pain syndrome Italian consensus conference on terminology, clinical evaluation and imaging assessment in groin pain in athlete [^11334e24]. BMJ Open Sport & Exercise Medicine (2016). Medium credibility.
+### Groin pain syndrome Italian consensus conference on terminology, clinical evaluation and imaging assessment in groin pain in athlete [^111SW2JF]. BMJ Open Sport & Exercise Medicine (2016). Medium credibility.
 
 Notes:
 
@@ -878,7 +878,7 @@ Below 20 years of age it is common to observe anteromedial foci of endochondral 
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^e325508b]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^116okivE]. JAMA Network Open (2020). High credibility.
 
 Methods
 
@@ -898,19 +898,19 @@ The World Health Organization (WHO) maps codes into chapters, which are commonly
 
 ---
 
-### Abdominoscrotal hydrocele in an infant boy [^7703ef29]. BMJ Case Reports (2017). Medium credibility.
+### Abdominoscrotal hydrocele in an infant boy [^1143SrBS]. BMJ Case Reports (2017). Medium credibility.
 
 Abdominoscrotal hydrocele (ASH) is the rarest type of hydrocele. This condition is characterised by a large abdominal and scrotal component connected by an isthmus within the inguinal canal. The incidence among the paediatric population is reported to be less than 3%, although it might be underdiagnosed. Several theories have been proposed in the literature but the aetiology of ASH remains unknown. Diagnosis can be made clinically and confirmed by ultrasound. Spontaneous resolution is rare and long-standing ASH may lead to complications, thus early surgical intervention is recommended. Different techniques have been described, but dissection remains challenging due to the tunica vaginalis adherence to the testis and the distal cord. We present a male infant with ASH who underwent inguinal repair. The procedure was facilitated by needle decompression of the mass. Identification and preservation of the vessels and vas deferens was done successfully without compromising the testis.
 
 ---
 
-### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^7e8e902f]. Pediatrics (2020). High credibility.
+### Diagnosis, management, and treatment of female genital mutilation or cutting in girls [^114EdKs4]. Pediatrics (2020). High credibility.
 
 Female genital mutilation/cutting (FGM/C) — documentation and surgical referral recommendations specify that the management of FGM/C should include complete documentation of clinical findings and the use of ICD-10 coding. Health care providers should recommend defibulation for all girls and teenagers with type III FGM/C, particularly when complications are currently present, and in all cases in which defibulation is recommended, an experienced pediatric gynecologist (for young children), gynecologist (for older children and teenagers), urologist, or urogynecologist should be identified to perform the procedure. Standardized training related to the identification, treatment, management, and culturally appropriate communication approaches needs to be developed and provided to health care providers who care for FGM/C-affected communities.
 
 ---
 
-### Trends in severe maternal morbidity in the US across the transition to ICD-10-CM / PCS from 2012–2019 [^d3864f58]. JAMA Network Open (2022). High credibility.
+### Trends in severe maternal morbidity in the US across the transition to ICD-10-CM / PCS from 2012–2019 [^116QbW2j]. JAMA Network Open (2022). High credibility.
 
 Between 2012 and 2019, SMM rates increased from 69.5 to 79.7 per 10 000 delivery hospitalizations (RD, 10.2; 95% CI, 5.8 to 14.6) without a statistically significant change across the ICD-10-CM/PCS transition (RD, −3.2; 95% CI, −6.9 to 0.6) (Figure 1; Table 3). When restricted to the same set of years as a prior study (2012 to 2017), there was also no significant change associated with ICD-10-CM/PCS transition (RD, 0; 95% CI, −4.1 to 4.1). Compared with 2012, annual SMM rates were only significantly higher for 2018 and 2019. In-hospital mortality per 100 000 delivery hospitalizations did not increase significantly over the study period (RD, 1.7; 95% CI, −0.5 to 4.0), and there was no change associated with ICD-10-CM/PCS transition (RD, 1.5; 95% CI, −0.9 to 3.9).
 
@@ -926,37 +926,37 @@ Abbreviations: ICD-9-CM, International Classification of Disease, 9th Revision, 
 
 ---
 
-### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^877fbe29]. Obstetrics and Gynecology (2019). High credibility.
+### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^114TtEg8]. Obstetrics and Gynecology (2019). High credibility.
 
 Imperforate hymen — neonatal and pubertal presentations and initial management are described as follows: the imperforate hymen may present in the neonatal period as a hydrocolpos or mucocolpos with a bulging, translucent, or yellow mass at the introitus, and surgical intervention is necessary only in symptomatic prepubertal patients with intervention usually deferred until pubertal estrogenization has occurred because the imperforate hymen may open spontaneously at puberty. At puberty, typical findings include a vaginal bulge of thin hymenal tissue with a dark or bluish hue caused by hematocolpos that distends further with the Valsalva maneuver; pain may be pelvic or abdominal, cyclic or acute, and other findings may include an abdominal mass, urinary retention, dysuria, constipation, and dyschezia.
 
 ---
 
-### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^5c4edc18]. Obstetrics and Gynecology (2019). High credibility.
+### Diagnosis and management of hymenal variants: ACOG committee opinion, number 780 [^113MrMEo]. Obstetrics and Gynecology (2019). High credibility.
 
 Microperforate or septate hymen — obstruction may be absent, menstrual efflux often occurs but can be associated with retained menstrual blood with malodorous discharge, and patients commonly present with difficulty placing tampons, a retained tampon, or inability to have penetrative vaginal sexual activity.
 
 ---
 
-### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^a07a2400]. PM & R (2025). High credibility.
+### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^1156v3af]. PM & R (2025). High credibility.
 
 Holistic assessment and ICD-10 coding for Long COVID — Long COVID can present as a wide variety of symptoms, either in isolation or more often in clusters, and when one or more of these symptoms occur a holistic assessment should include a traditional history, physical examination, and additional diagnostic testing, as indicated; a basic laboratory assessment is recommended for all patients with possible Long COVID, with additional labs and diagnostic procedures guided by patients' specific symptoms. When a patient is assessed to likely be presenting with sequelae of Long COVID, the International Classification of Diseases, Tenth Revision (ICD-10) diagnosis code of "U09.9 Post COVID-19 Condition, unspecified" should be documented as a secondary code and the primary ICD-10 code(s) should reflect the patient's specific presenting symptom(s) and condition(s); systematic inclusion of the U09.9 code facilitates population-level monitoring of Long COVID sequelae, and the U09.9 diagnosis code is not appropriate to use in cases of acute COVID-19 infection.
 
 ---
 
-### Nonarthritic hip joint pain [^43fdb678]. The Journal of Orthopaedic and Sports Physical Therapy (2014). Medium credibility.
+### Nonarthritic hip joint pain [^112joPc3]. The Journal of Orthopaedic and Sports Physical Therapy (2014). Medium credibility.
 
 Nonarthritic hip joint pain — classification codes include the primary International Classification of Diseases, Tenth Revision (ICD-10) codes "M25.5 Pain in joint, M24.7 Protrusio acetabuli, M24.0 Loose body in joint, and M24.2 Disorder of ligament". The corresponding ICD-9-CM codes and conditions are "719.45 Joint pain, 718.65 Unspecified intrapelvic protrusion of acetabulum, 718.15 Loose body in joint, and 718.5 Other derangement of joint pelvic region and thigh". Other ICD-10 codes that may be associated are "M21.0 Valgus deformity, not elsewhere classified", "M21.1 Varus deformity, not elsewhere classified", "M21.2 Flexion deformity", "M24.3 Pathological dislocation and subluxation of joint, not elsewhere classified", and "M24.4 Recurrent dislocation and subluxation of joint".
 
 ---
 
-### Update of guidelines on laparoscopic (TAPP) and endoscopic (TEP) treatment of inguinal hernia (International Endohernia Society) [^2e3ae2ef]. Surgical Endoscopy (2015). Medium credibility.
+### Update of guidelines on laparoscopic (TAPP) and endoscopic (TEP) treatment of inguinal hernia (International Endohernia Society) [^112BYDAW]. Surgical Endoscopy (2015). Medium credibility.
 
 Regarding specific circumstances for inguinal hernia, more specifically with respect to female patients, IEHS 2015 guidelines recommend to put extra effort to reveal and treat occult synchronous femoral hernia when performing inguinal hernia repair in female patients.
 
 ---
 
-### Pediatric complex chronic condition system version 3 [^8b6d266d]. JAMA Network Open (2024). High credibility.
+### Pediatric complex chronic condition system version 3 [^114Zhwb2]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -964,12 +964,12 @@ In the US, the International Classification of Diseases (ICD) system with clinic
 
 ---
 
-### Chiari malformation type I surgery in pediatric patients. part 1: validation of an ICD-9-CM code search algorithm [^61ff9c68]. Journal of Neurosurgery: Pediatrics (2016). Low credibility.
+### Chiari malformation type I surgery in pediatric patients. part 1: validation of an ICD-9-CM code search algorithm [^113WHf3D]. Journal of Neurosurgery: Pediatrics (2016). Low credibility.
 
 OBJECTIVE Administrative billing data may facilitate large-scale assessments of treatment outcomes for pediatric Chiari malformation Type I (CM-I). Validated International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) code algorithms for identifying CM-I surgery are critical prerequisites for such studies but are currently only available for adults. The objective of this study was to validate two ICD-9-CM code algorithms using hospital billing data to identify pediatric patients undergoing CM-I decompression surgery. METHODS The authors retrospectively analyzed the validity of two ICD-9-CM code algorithms for identifying pediatric CM-I decompression surgery performed at 3 academic medical centers between 2001 and 2013. Algorithm 1 included any discharge diagnosis code of 348.4 (CM-I), as well as a procedure code of 01.24 (cranial decompression) or 03.09 (spinal decompression or laminectomy). Algorithm 2 restricted this group to the subset of patients with a primary discharge diagnosis of 348.4. The positive predictive value (PPV) and sensitivity of each algorithm were calculated. RESULTS Among 625 first-time admissions identified by Algorithm 1, the overall PPV for CM-I decompression was 92%. Among the 581 admissions identified by Algorithm 2, the PPV was 97%. The PPV for Algorithm 1 was lower in one center (84%) compared with the other centers (93%-94%), whereas the PPV of Algorithm 2 remained high (96%-98%) across all subgroups. The sensitivity of Algorithms 1 (91%) and 2 (89%) was very good and remained so across subgroups (82%-97%). CONCLUSIONS An ICD-9-CM algorithm requiring a primary diagnosis of CM-I has excellent PPV and very good sensitivity for identifying CM-I decompression surgery in pediatric patients. These results establish a basis for utilizing administrative billing data to assess pediatric CM-I treatment outcomes.
 
 ---
 
-### Management of acute obstructive uterovaginal anomalies: ACOG committee opinion, number 779 [^adc96316]. Obstetrics and Gynecology (2019). High credibility.
+### Management of acute obstructive uterovaginal anomalies: ACOG committee opinion, number 779 [^115SeW69]. Obstetrics and Gynecology (2019). High credibility.
 
 Obstructive uterovaginal anomalies — symptoms — The most common symptom associated with obstruction is pain, and in a patient who presents with pain, the presence of menstruation does not rule out obstruction. Pain may occur in a cyclic manner or may be continuous, although in patients who are amenorrheic, a pattern may be more challenging to identify. Other associated symptoms include urinary frequency

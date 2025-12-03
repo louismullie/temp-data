@@ -15,27 +15,27 @@ What are the benefits of early initiation of biologic therapy in eosinophilic as
 
 > Let's see… What do we have here? The user is asking about the benefits of early initiation of biologic therapy in eosinophilic asthma. Let's break this down step-by-step. First, I need to think about how to define "early" in guideline-concordant care. Then, I should verify the clinical outcomes that constitute meaningful benefits. Next, I will examine mechanistic and disease-modifying arguments for earlier intervention. After that, I need to appraise the strength and limitations of the evidence base, including real-world data. Finally, I will integrate cost, safety, and practical considerations to formulate a cautious, clinically actionable conclusion with appropriate caveats and monitoring plans.
 
-> Let me first confirm what "early" should mean in this context, because I need to ensure we are aligned with current standards. Early initiation does not imply first-line biologics at diagnosis; rather, it means moving to add-on biologic therapy promptly after confirming severe eosinophilic asthma with type 2 biomarkers and persistent uncontrolled symptoms or exacerbations despite optimized high-dose ICS-LABA and adherence confirmation, rather than delaying with repeated, futile step-ups or prolonged oral corticosteroid exposure [^d85da68e] [^267ff500] [^9872d6ad].
+> Let me first confirm what "early" should mean in this context, because I need to ensure we are aligned with current standards. Early initiation does not imply first-line biologics at diagnosis; rather, it means moving to add-on biologic therapy promptly after confirming severe eosinophilic asthma with type 2 biomarkers and persistent uncontrolled symptoms or exacerbations despite optimized high-dose ICS-LABA and adherence confirmation, rather than delaying with repeated, futile step-ups or prolonged oral corticosteroid exposure [^116XmnLD] [^111z5WWj] [^114u1h56].
 
-> Next, I should review the core clinical benefits we expect to see and verify their magnitude. The most consistent, high-certainty outcomes with anti-IL5/IL5R agents are approximately 47–54% reductions in severe exacerbations and about a 50% median reduction in maintenance oral corticosteroid dose in OCS-dependent patients, with additional improvements in asthma control and quality of life, albeit sometimes modest in magnitude and not universal across instruments [^c2d88a1d] [^27d14bd4]. Hold on, I should verify lung function effects; yes, FEV1 improvements are typically small but statistically significant, around 0.08–0.15 L, which may not be clinically detectable in all patients, reinforcing that exacerbation and steroid-sparing effects are the primary, reproducible benefits [^27d14bd4].
+> Next, I should review the core clinical benefits we expect to see and verify their magnitude. The most consistent, high-certainty outcomes with anti-IL5/IL5R agents are approximately 47–54% reductions in severe exacerbations and about a 50% median reduction in maintenance oral corticosteroid dose in OCS-dependent patients, with additional improvements in asthma control and quality of life, albeit sometimes modest in magnitude and not universal across instruments [^115ysLCc] [^11222pQj]. Hold on, I should verify lung function effects; yes, FEV1 improvements are typically small but statistically significant, around 0.08–0.15 L, which may not be clinically detectable in all patients, reinforcing that exacerbation and steroid-sparing effects are the primary, reproducible benefits [^11222pQj].
 
-> I will now examine whether earlier initiation translates into faster or larger benefits, and I need to check real-world signals. Benralizumab cohorts show early symptom improvements within 1 week in a substantial proportion, with sustained gains by 56 weeks and a meaningful fraction achieving clinical remission by 1 year, supporting the concept that timely biologic therapy can accelerate control and potentially alter trajectory in appropriately selected patients [^943080e0]. Let me consider switching data as a proxy for "earlier" optimization: switching from omalizumab to mepolizumab yields rapid eosinophil suppression and clinically meaningful improvements in control and exacerbations, again suggesting that aligning mechanism with phenotype earlier can be advantageous when the initial biologic is mismatched [^0d4d70cf] [^b378e1e5].
+> I will now examine whether earlier initiation translates into faster or larger benefits, and I need to check real-world signals. Benralizumab cohorts show early symptom improvements within 1 week in a substantial proportion, with sustained gains by 56 weeks and a meaningful fraction achieving clinical remission by 1 year, supporting the concept that timely biologic therapy can accelerate control and potentially alter trajectory in appropriately selected patients [^114nhTdZ]. Let me consider switching data as a proxy for "earlier" optimization: switching from omalizumab to mepolizumab yields rapid eosinophil suppression and clinically meaningful improvements in control and exacerbations, again suggesting that aligning mechanism with phenotype earlier can be advantageous when the initial biologic is mismatched [^111LirL6] [^115b5PRW].
 
-> But wait, what if we are missing disease-modifying effects by waiting too long? I should review the airway remodeling literature. Biologics demonstrate early anti-inflammatory effects within days to weeks and potential late structural benefits over months to years, including reductions in mucus plugging and signals of remodeling modulation; this supports a rationale that earlier intervention, before fixed airflow limitation consolidates, may mitigate irreversible changes, although definitive prospective prevention trials are still needed [^66345a60] [^e2d5b023] [^84730caf]. Hold on, let's not jump to conclusions; while the mechanistic plausibility is strong, we still need longitudinal data to prove that earlier initiation changes hard outcomes like FEV1 decline or CT-defined remodeling, so I should frame this as a credible hypothesis rather than established fact [^e2d5b023].
+> But wait, what if we are missing disease-modifying effects by waiting too long? I should review the airway remodeling literature. Biologics demonstrate early anti-inflammatory effects within days to weeks and potential late structural benefits over months to years, including reductions in mucus plugging and signals of remodeling modulation; this supports a rationale that earlier intervention, before fixed airflow limitation consolidates, may mitigate irreversible changes, although definitive prospective prevention trials are still needed [^113cXKfV] [^116oHyfg] [^114PN1Ya]. Hold on, let's not jump to conclusions; while the mechanistic plausibility is strong, we still need longitudinal data to prove that earlier initiation changes hard outcomes like FEV1 decline or CT-defined remodeling, so I should frame this as a credible hypothesis rather than established fact [^116oHyfg].
 
-> I need to ensure the evidence base is appraised correctly. Randomized trials and meta-analyses provide high-certainty evidence for exacerbation and steroid-sparing benefits, but most were not designed to test "earlier" initiation versus delayed initiation, and head-to-head comparisons across biologics are limited, so indirect inferences and real-world data are important adjuncts [^27d14bd4]. Let me reconsider predictors of response; higher baseline blood eosinophils and a history of frequent exacerbations consistently associate with greater benefit, which strengthens the case for not delaying biologics in clearly eosinophilic, uncontrolled patients once maximal inhaled therapy and adherence are optimized [^775ccc2b] [^c2696e58].
+> I need to ensure the evidence base is appraised correctly. Randomized trials and meta-analyses provide high-certainty evidence for exacerbation and steroid-sparing benefits, but most were not designed to test "earlier" initiation versus delayed initiation, and head-to-head comparisons across biologics are limited, so indirect inferences and real-world data are important adjuncts [^11222pQj]. Let me reconsider predictors of response; higher baseline blood eosinophils and a history of frequent exacerbations consistently associate with greater benefit, which strengthens the case for not delaying biologics in clearly eosinophilic, uncontrolled patients once maximal inhaled therapy and adherence are optimized [^1143xhNr] [^115yE1dh].
 
-> Next, I should review safety and practical considerations, because early initiation must be balanced against risks and logistics. Anti-IL5/IL5R therapies have favorable safety profiles in trials and observational cohorts, with no excess serious adverse events versus placebo and low discontinuation rates, though monitoring for hypersensitivity and infection risk remains prudent, and first-dose observation is reasonable in some settings [^27d14bd4] [^d85da68e]. I should double-check continuation rules; GINA advises assessing response after at least 4 months and extending to 6–12 months if unclear, and importantly, stopping ineffective therapy and switching mechanism rather than persisting indefinitely, which operationalizes a disciplined, time-limited trial approach even when starting "early" [^271c5d70] [^267ff500].
+> Next, I should review safety and practical considerations, because early initiation must be balanced against risks and logistics. Anti-IL5/IL5R therapies have favorable safety profiles in trials and observational cohorts, with no excess serious adverse events versus placebo and low discontinuation rates, though monitoring for hypersensitivity and infection risk remains prudent, and first-dose observation is reasonable in some settings [^11222pQj] [^116XmnLD]. I should double-check continuation rules; GINA advises assessing response after at least 4 months and extending to 6–12 months if unclear, and importantly, stopping ineffective therapy and switching mechanism rather than persisting indefinitely, which operationalizes a disciplined, time-limited trial approach even when starting "early" [^111zz3aw] [^111z5WWj].
 
-> Cost and access cannot be ignored, so I need to weigh value and equity. Biologics are expensive, yet in patients with frequent exacerbations and OCS dependence, early biologic use may reduce hospitalizations, emergency care, and long-term steroid toxicities, potentially improving cost-effectiveness when targeted to high-risk eosinophilic phenotypes; nonetheless, payer criteria vary and shared decision-making about goals, administration preferences, and affordability is essential [^3c4d5c5a] [^d85da68e]. Hmm, wait a minute, I should confirm that we are not overgeneralizing to mild disease; current approvals and guidelines restrict biologics to severe, uncontrolled asthma with type 2 features, so "early" must remain within those eligibility frameworks to avoid misapplication [^d85da68e] [^267ff500].
+> Cost and access cannot be ignored, so I need to weigh value and equity. Biologics are expensive, yet in patients with frequent exacerbations and OCS dependence, early biologic use may reduce hospitalizations, emergency care, and long-term steroid toxicities, potentially improving cost-effectiveness when targeted to high-risk eosinophilic phenotypes; nonetheless, payer criteria vary and shared decision-making about goals, administration preferences, and affordability is essential [^112YQF21] [^116XmnLD]. Hmm, wait a minute, I should confirm that we are not overgeneralizing to mild disease; current approvals and guidelines restrict biologics to severe, uncontrolled asthma with type 2 features, so "early" must remain within those eligibility frameworks to avoid misapplication [^116XmnLD] [^111z5WWj].
 
-> Let me synthesize a cautious, clinically actionable answer. Early initiation of biologic therapy in eosinophilic asthma, defined as prompt add-on treatment after confirming severe disease with type 2 biomarkers and inadequate control on optimized inhaled therapy, yields faster and larger reductions in exacerbations, accelerates steroid sparing, and improves asthma control and quality of life, with emerging signals that it may mitigate remodeling and enable remission in a subset; these benefits are most pronounced in patients with higher eosinophil counts and exacerbation burden, and should be balanced against cost, safety, and the need for structured response assessment and switching if ineffective [^c2d88a1d] [^943080e0] [^e2d5b023] [^271c5d70]. Hold on, I should verify that I am not overstating remission claims; GINA recognizes evolving remission frameworks, but sustained off-therapy remission remains uncommon and should be discussed as an aspirational goal rather than a guaranteed outcome [^989c8108].
+> Let me synthesize a cautious, clinically actionable answer. Early initiation of biologic therapy in eosinophilic asthma, defined as prompt add-on treatment after confirming severe disease with type 2 biomarkers and inadequate control on optimized inhaled therapy, yields faster and larger reductions in exacerbations, accelerates steroid sparing, and improves asthma control and quality of life, with emerging signals that it may mitigate remodeling and enable remission in a subset; these benefits are most pronounced in patients with higher eosinophil counts and exacerbation burden, and should be balanced against cost, safety, and the need for structured response assessment and switching if ineffective [^115ysLCc] [^114nhTdZ] [^116oHyfg] [^111zz3aw]. Hold on, I should verify that I am not overstating remission claims; GINA recognizes evolving remission frameworks, but sustained off-therapy remission remains uncommon and should be discussed as an aspirational goal rather than a guaranteed outcome [^114uFgnB].
 
-> Finally, I should confirm practical next steps so the recommendation is usable. Confirm severe eosinophilic asthma with blood eosinophils ≥ 150–300/μL depending on the agent, document exacerbations or OCS dependence, optimize ICS-LABA and adherence, and then initiate a 4–6 month biologic trial with predefined response criteria; if response is inadequate, switch mechanism rather than escalating steroids indefinitely, and if response is excellent, consider step-down of concomitant therapies while maintaining at least medium-dose ICS as per GINA [^267ff500] [^271c5d70] [^a3b555b7]. I need to ensure I note pediatric applicability; mepolizumab and dupilumab are approved down to age 6 in severe eosinophilic asthma, so "early" is relevant in children with uncontrolled type 2 disease after maximal inhaled therapy, with similar principles for monitoring and switching if needed [^6625c82f] [^cb2acaa1].
+> Finally, I should confirm practical next steps so the recommendation is usable. Confirm severe eosinophilic asthma with blood eosinophils ≥ 150–300/μL depending on the agent, document exacerbations or OCS dependence, optimize ICS-LABA and adherence, and then initiate a 4–6 month biologic trial with predefined response criteria; if response is inadequate, switch mechanism rather than escalating steroids indefinitely, and if response is excellent, consider step-down of concomitant therapies while maintaining at least medium-dose ICS as per GINA [^111z5WWj] [^111zz3aw] [^115Bhtd4]. I need to ensure I note pediatric applicability; mepolizumab and dupilumab are approved down to age 6 in severe eosinophilic asthma, so "early" is relevant in children with uncontrolled type 2 disease after maximal inhaled therapy, with similar principles for monitoring and switching if needed [^113cSRoC] [^116CCrrU].
 
 ---
 
-Early initiation of biologic therapy in eosinophilic asthma provides **rapid and sustained reductions in exacerbations** [^27d14bd4] and oral corticosteroid use [^c2d88a1d], with **early improvements in lung function and asthma control** [^84730caf] [^943080e0]. Starting biologics sooner can **prevent airway remodeling** [^e2d5b023] and long-term decline in lung function, and is supported by guidelines for severe eosinophilic asthma uncontrolled on high-dose ICS-LABA [^d85da68e] [^6fb1d864]. Benefits are greatest in patients with high blood eosinophils [^775ccc2b] and frequent exacerbations [^c2696e58], and early therapy is cost-effective by reducing hospitalizations and emergency care [^3c4d5c5a].
+Early initiation of biologic therapy in eosinophilic asthma provides **rapid and sustained reductions in exacerbations** [^11222pQj] and oral corticosteroid use [^115ysLCc], with **early improvements in lung function and asthma control** [^114PN1Ya] [^114nhTdZ]. Starting biologics sooner can **prevent airway remodeling** [^116oHyfg] and long-term decline in lung function, and is supported by guidelines for severe eosinophilic asthma uncontrolled on high-dose ICS-LABA [^116XmnLD] [^113rbMzB]. Benefits are greatest in patients with high blood eosinophils [^1143xhNr] and frequent exacerbations [^115yE1dh], and early therapy is cost-effective by reducing hospitalizations and emergency care [^112YQF21].
 
 ---
 
@@ -43,31 +43,31 @@ Early initiation of biologic therapy in eosinophilic asthma provides **rapid and
 
 ### Reduction in exacerbations
 
-Anti-IL-5/IL-5R biologics (mepolizumab, benralizumab, reslizumab) **reduce severe exacerbations by ~47–54%** [^27d14bd4] in severe eosinophilic asthma, with the largest effects in patients with higher eosinophil counts [^1246e0e2]. Early initiation **prevents exacerbation-related lung function decline** and improves quality of life [^notfound].
+Anti-IL-5/IL-5R biologics (mepolizumab, benralizumab, reslizumab) **reduce severe exacerbations by ~47–54%** [^11222pQj] in severe eosinophilic asthma, with the largest effects in patients with higher eosinophil counts [^111U6aty]. Early initiation **prevents exacerbation-related lung function decline** and improves quality of life [^notfound].
 
 ---
 
 ### Reduction in oral corticosteroid dependence
 
-Early biologics enable **significant OCS dose reductions** [^c2d88a1d]; mepolizumab and benralizumab reduce median OCS dose by ~50% in OCS-dependent patients [^c2d88a1d]. This lowers the risk of steroid-related adverse effects such as osteoporosis, diabetes, and infections [^notfound].
+Early biologics enable **significant OCS dose reductions** [^115ysLCc]; mepolizumab and benralizumab reduce median OCS dose by ~50% in OCS-dependent patients [^115ysLCc]. This lowers the risk of steroid-related adverse effects such as osteoporosis, diabetes, and infections [^notfound].
 
 ---
 
 ### Improvement in lung function
 
-Biologics produce **modest but meaningful FEV1 improvements** (~0.08–0.15 L) [^27d14bd4] in eosinophilic asthma, with early gains that accumulate over time [^84730caf]. Early treatment may **slow or halt progressive airflow limitation** [^a317d958] in severe eosinophilic disease.
+Biologics produce **modest but meaningful FEV1 improvements** (~0.08–0.15 L) [^11222pQj] in eosinophilic asthma, with early gains that accumulate over time [^114PN1Ya]. Early treatment may **slow or halt progressive airflow limitation** [^115AnzYw] in severe eosinophilic disease.
 
 ---
 
 ### Enhancement of asthma control and quality of life
 
-Early biologic therapy improves asthma control [^943080e0] and quality of life [^27d14bd4], with **rapid symptom gains** observed within weeks to months [^943080e0]. Sustained benefits include fewer symptoms, less rescue medication use, and better daily functioning [^2409f593].
+Early biologic therapy improves asthma control [^114nhTdZ] and quality of life [^11222pQj], with **rapid symptom gains** observed within weeks to months [^114nhTdZ]. Sustained benefits include fewer symptoms, less rescue medication use, and better daily functioning [^111vRuAi].
 
 ---
 
 ## Disease-modifying potential and prevention of airway remodeling
 
-Early biologics may **limit airway remodeling** [^e2d5b023] by reducing eosinophil-driven injury, mucus plugging, and structural changes, potentially preserving lung function long term [^84730caf]. This is especially relevant in patients with high eosinophils and recurrent exacerbations [^c2696e58].
+Early biologics may **limit airway remodeling** [^116oHyfg] by reducing eosinophil-driven injury, mucus plugging, and structural changes, potentially preserving lung function long term [^114PN1Ya]. This is especially relevant in patients with high eosinophils and recurrent exacerbations [^115yE1dh].
 
 ---
 
@@ -75,16 +75,16 @@ Early biologics may **limit airway remodeling** [^e2d5b023] by reducing eosinoph
 
 | **Study** | **Biologic** | **Key findings** |
 |-|-|-|
-| MENSA, SIRIUS | Mepolizumab | - 47–54% ↓ exacerbations <br/> - ~50% ↓ OCS dose <br/> - Improved control/QoL [^c2d88a1d] [^27d14bd4] |
-| CALIMA, SIROCCO | Benralizumab | - 28–51% ↓ exacerbations <br/> - ~50% ↓ OCS dose <br/> - Improved FEV1 and control [^c2d88a1d] [^1246e0e2] |
+| MENSA, SIRIUS | Mepolizumab | - 47–54% ↓ exacerbations <br/> - ~50% ↓ OCS dose <br/> - Improved control/QoL [^115ysLCc] [^11222pQj] |
+| CALIMA, SIROCCO | Benralizumab | - 28–51% ↓ exacerbations <br/> - ~50% ↓ OCS dose <br/> - Improved FEV1 and control [^115ysLCc] [^111U6aty] |
 | REALITI-A | Mepolizumab | Sustained reductions in exacerbations and OCS use over 4 years [^notfound] |
-| XALOC-2 | Benralizumab | Early, sustained control and 26.7% remission at 1 year [^943080e0] |
+| XALOC-2 | Benralizumab | Early, sustained control and 26.7% remission at 1 year [^114nhTdZ] |
 
 ---
 
 ## Guideline recommendations
 
-Current guidelines support **early biologic use** in severe eosinophilic asthma uncontrolled on high-dose ICS-LABA, with biomarker-guided selection (eosinophils ≥ 150–300/μL) [^d85da68e] [^267ff500]. They advise a 4–6 month trial, switching if ineffective, and continuing if effective [^271c5d70].
+Current guidelines support **early biologic use** in severe eosinophilic asthma uncontrolled on high-dose ICS-LABA, with biomarker-guided selection (eosinophils ≥ 150–300/μL) [^116XmnLD] [^111z5WWj]. They advise a 4–6 month trial, switching if ineffective, and continuing if effective [^111zz3aw].
 
 ---
 
@@ -92,18 +92,18 @@ Current guidelines support **early biologic use** in severe eosinophilic asthma 
 
 Early biologics are most beneficial in patients with:
 
-- **High blood eosinophils (≥ 300/μL)** [^c2696e58] [^775ccc2b]
-- **Frequent exacerbations (≥ 2/year)** [^c2696e58]
-- **OCS dependence** [^c2d88a1d]
-- **Poor control despite optimized ICS-LABA** [^d85da68e]
+- **High blood eosinophils (≥ 300/μL)** [^115yE1dh] [^1143xhNr]
+- **Frequent exacerbations (≥ 2/year)** [^115yE1dh]
+- **OCS dependence** [^115ysLCc]
+- **Poor control despite optimized ICS-LABA** [^116XmnLD]
 
-Biomarkers such as **FeNO ≥ 20 ppb** [^fe009ab0] and sputum eosinophils ≥ 2% further enrich response [^notfound].
+Biomarkers such as **FeNO ≥ 20 ppb** [^117Va4MM] and sputum eosinophils ≥ 2% further enrich response [^notfound].
 
 ---
 
 ## Safety considerations
 
-Biologics have favorable safety profiles [^97054297]; common adverse effects include injection-site reactions and transient eosinophilia [^dbad7b86]. Serious adverse events are uncommon, but **monitoring for hypersensitivity and infections** is recommended [^91ce1270].
+Biologics have favorable safety profiles [^114rtu2e]; common adverse effects include injection-site reactions and transient eosinophilia [^116cgZRo]. Serious adverse events are uncommon, but **monitoring for hypersensitivity and infections** is recommended [^114jARUB].
 
 ---
 
@@ -115,9 +115,9 @@ Early biologics can be **cost-effective** by reducing hospitalizations, emergenc
 
 ## Limitations and uncertainties
 
-- **Cost and access**: High cost may limit early use in some settings [^3c4d5c5a].
-- **Long-term data**: More data are needed on durability and remission after stopping therapy [^817da220].
-- **Pediatric evidence**: Limited data in children < 6 years; caution is advised [^614a63b6].
+- **Cost and access**: High cost may limit early use in some settings [^112YQF21].
+- **Long-term data**: More data are needed on durability and remission after stopping therapy [^114JybtT].
+- **Pediatric evidence**: Limited data in children < 6 years; caution is advised [^113VEnZT].
 
 ---
 
@@ -127,13 +127,13 @@ Early initiation of biologic therapy in eosinophilic asthma delivers **rapid, su
 
 ## References
 
-### How to assess effectiveness of biologics for asthma and what steps to take when there is not benefit [^6f5bcceb]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
+### How to assess effectiveness of biologics for asthma and what steps to take when there is not benefit [^113r6ThU]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
 
 Five biologic medications are approved in the United States for the treatment of asthma that is not well controlled with other therapies. All target asthma with elevated type 2 inflammatory markers, such as elevated eosinophils, fractional exhaled nitric oxide, or total and specific IgE. Asthma severity, phenotype, age, biomarkers, treatment goals/outcomes, comorbid conditions, safety, and cost should all help guide the initial biologic choice. In addition, a shared decision-making process with the patient is needed to optimize adherence, with special attention to patient preference regarding outcomes, safety concerns, and medication administration options. After a biologic agent is initiated, sufficient time is needed to monitor efficacy and response. For patients who do not respond favorably, patient-, disease-, and medication-related factors should be considered and remedied, if possible. Persistent suboptimal responders necessitate a reexamination of asthma phenotype, biomarkers, and the suspected immune response pathways. For some patients, a change in biologic therapy or other therapeutic options may be warranted. In this review, we examine the clinical approach for choosing an initial biologic for the treatment of asthma, the assessment of response to biologics, and the process of troubleshooting and adjusting biologic treatment for those patients with suboptimal responses.
 
 ---
 
-### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^8053fe7e]. Allergy (2019). Medium credibility.
+### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^114HFdQh]. Allergy (2019). Medium credibility.
 
 1 INTRODUCTION
 
@@ -145,7 +145,7 @@ Omalizumab is an anti‐IgE antibody indicated for use in patients with moderate
 
 ---
 
-### Evaluation of potential continuation rules for mepolizumab treatment of severe eosinophilic asthma [^93fa932f]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
+### Evaluation of potential continuation rules for mepolizumab treatment of severe eosinophilic asthma [^114nPM26]. The Journal of Allergy and Clinical Immunology: In Practice (2017). Low credibility.
 
 Background
 
@@ -169,7 +169,7 @@ There was no evidence of a reliable physician-rated response, ACQ-5 score, or lu
 
 ---
 
-### An evaluation of mepolizumab as an add-on maintenance treatment for severe eosinophilic asthma [^95a6f4fc]. Expert Opinion on Biological Therapy (2025). Medium credibility.
+### An evaluation of mepolizumab as an add-on maintenance treatment for severe eosinophilic asthma [^114psEaF]. Expert Opinion on Biological Therapy (2025). Medium credibility.
 
 Introduction
 
@@ -185,7 +185,7 @@ Mepolizumab holds considerable promise in asthma treatment due to its mechanism 
 
 ---
 
-### Early and sustained asthma control and remission in real-world patients with severe eosinophilic asthma treated with benralizumab: XALOC-2 [^943080e0]. Clinical and Experimental Allergy (2025). Medium credibility.
+### Early and sustained asthma control and remission in real-world patients with severe eosinophilic asthma treated with benralizumab: XALOC-2 [^114nhTdZ]. Clinical and Experimental Allergy (2025). Medium credibility.
 
 Background
 
@@ -205,7 +205,7 @@ Real-world patients receiving benralizumab showed early and sustained improvemen
 
 ---
 
-### Can we predict who will benefit most from biologics in severe asthma? A post-hoc analysis of two phase 3 trials [^ae32147a]. Respiratory Research (2023). Medium credibility.
+### Can we predict who will benefit most from biologics in severe asthma? A post-hoc analysis of two phase 3 trials [^115TFffw]. Respiratory Research (2023). Medium credibility.
 
 Background
 
@@ -217,19 +217,19 @@ Indeed, in both clinical trials and real-world settings, individual responses to
 
 ---
 
-### Controversies in allergy: the potential role of biologics as first-line therapy in eosinophilic disorders [^9c9e4735]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Controversies in allergy: the potential role of biologics as first-line therapy in eosinophilic disorders [^1151CEUC]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 With advances in understanding the role of eosinophils in disease pathogenesis, particularly in the airways, gastrointestinal tract, and skin, targeting eosinophils or the cytokines that lead to their production, activation, and survival has become an increasingly pursued therapeutic approach. Newly developed biologic agents target eosinophils directly, other cells interacting with or activating eosinophils, or cytokines in the type 2 inflammatory pathway with specific antibodies. Current treatment paradigms reserve therapy with biologics for patients refractory to or intolerant of corticosteroids or immunosuppressants. Given accumulating data for safety and efficacy of these biologics, however, there is the question of whether targeted treatments should be used earlier in the treatment algorithm. In this article, we discuss the pros and cons of using biologics as first-line therapy for eosinophilic diseases of the airways, gastrointestinal tract, and skin. We highlight emerging biologic agents and future directions for research, as well as a rationale for the early use of some biologics to prevent tissue damage, disease progression, and organ dysfunction in selected conditions.
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^6a5ee646]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^113ihZfT]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to consider offering anti-IL-5 therapies in ≥ 18 years old patients with severe eosinophilic corticosteroid-dependent asthma, in an attempt to decrease or withdraw oral corticosteroids.
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^7b809d1a]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^114A6gG1]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to recognize that blood eosinophil counts may help to identify responders to anti-IL-5 therapy, with the greatest reduction in asthma exacerbations associated with the highest levels of blood eosinophil counts. Recognize that the following cutoffs have been used at initiation:
 
@@ -241,7 +241,7 @@ Regarding medical management for asthma, more specifically with respect to biolo
 
 ---
 
-### Blood eosinophil-directed management of airway disease. the past, present, and future [^a317d958]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Blood eosinophil-directed management of airway disease. the past, present, and future [^115AnzYw]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 So where might we be heading with biomarker-directed management of airway disease? I see progress in three main areas. First, there is growing evidence that blood eosinophil–directed use of oral corticosteroids to treat acute exacerbations of COPD is an effective and safe way to limit exposure to a potentially toxic treatment. This approach needs to be evaluated in larger definitive studies involving different healthcare settings and different patient groups. Second, biomarker-directed risk stratification and reduction should be extended beyond COPD and severe asthma clinics. There is now evidence from large intervention studies in mild, moderate, and severe asthma that the blood eosinophil count is independently associated with up to a fivefold increased risk for severe exacerbations as well as a greater response to ICS and biological agents. Most studies have shown that another easy to measure biomarker, exhaled nitric oxide, adds prognostic and predictive information to blood eosinophil–based stratification. It seems obvious that this information would help clinicians and patients make good decisions about the need for long-term preventative treatment. Why, then, do guideline groups continue to make weak and equivocal recommendations on the question of whether type 2 biomarkers should be used to predict outcomes and guide asthma treatment? It is becoming crucial that this stance is reconsidered, particularly because any concerns about the safety of not treating biomarker-low patients with regular ICS disappear completely if as-needed ICS/rapid-onset β 2 -agonist becomes the standard of care for milder asthma.
 
@@ -249,7 +249,7 @@ A third area requiring more work is whether we should move from secondary to pri
 
 ---
 
-### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^66345a60]. Allergy (2025). Medium credibility.
+### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^113cXKfV]. Allergy (2025). Medium credibility.
 
 Figure 3 Proposed classification of the early, late, and potential preventive effects of biologics on airway remodeling in asthma.
 
@@ -258,7 +258,7 @@ Early effects: Evidence of improvements in lung function and reduction in inflam
 
 ---
 
-### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^08a7a9b9]. Allergy (2025). Medium credibility.
+### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^111DqDbN]. Allergy (2025). Medium credibility.
 
 This would include the prevention of cytotoxic effects of eosinophil‐derived mediators leading to fibrosis (e.g. eosinophilic endomyocardial fibrosis), but also the steric effects of eosinophil accumulation in airway walls, including mucus plugging. Similarly, the use of anti‐IL‐5 mAbs for eosinophilic diseasespossibly suggests these biologics as first‐line treatment in eosinophilic inflammatory diseases, including asthma, as recently suggested.
 
@@ -268,7 +268,7 @@ Based on the previous observations, existing biologics as well as those in devel
 
 ---
 
-### Recent evidence for stepping down severe asthma therapies [^e3e7875c]. Current Opinion in Pulmonary Medicine (2025). Medium credibility.
+### Recent evidence for stepping down severe asthma therapies [^116psxWo]. Current Opinion in Pulmonary Medicine (2025). Medium credibility.
 
 Purpose Of Review
 
@@ -284,7 +284,7 @@ There is limited consensus but growing evidence for stepping-down therapies in p
 
 ---
 
-### Early response to tezepelumab in type-2 severe asthma patients non-responders to other biological treatments: a real-life study [^a9dc6825]. The Journal of Asthma (2024). Medium credibility.
+### Early response to tezepelumab in type-2 severe asthma patients non-responders to other biological treatments: a real-life study [^115LpwVn]. The Journal of Asthma (2024). Medium credibility.
 
 Background
 
@@ -308,7 +308,7 @@ In real-world scenarios, despite the study's limitations, our results underscore
 
 ---
 
-### From DREAM to REALITI – A and beyond: mepolizumab for the treatment of eosinophil-driven diseases [^3c4d5c5a]. Allergy (2022). Medium credibility.
+### From DREAM to REALITI – A and beyond: mepolizumab for the treatment of eosinophil-driven diseases [^112YQF21]. Allergy (2022). Medium credibility.
 
 Further insights into the cost‐effectiveness of biologic treatments in asthma and other eosinophilic diseases are also needed. In asthma, it is suggested that biologic therapy is directed to those patients most likely to respond in order to improve cost‐effectiveness. This would involve the use of biomarkers to identify such patients prior to treatment, as well as close monitoring of individuals following treatment initiation to assess treatment response. As work to identify biomarkers that are useful in this regard is ongoing, continued assessment of cost‐effectiveness is needed to support treatment decision‐making.
 
@@ -316,19 +316,19 @@ It is known that eosinophil biology is complex, with roles in both maintaining h
 
 ---
 
-### Global strategy for asthma management and prevention [^14ae5539]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^111XfJv4]. GINA (2024). High credibility.
 
 Severe asthma — selection of add-on treatment includes identifying the inflammatory phenotype, based on blood or sputum eosinophils or FeNO, to assess eligibility for add-on treatments including biologic therapy, and a higher baseline blood eosinophil count and/or FeNO predicts a good asthma response to some biologic therapies.
 
 ---
 
-### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^614a63b6]. Pediatric Pulmonology (2019). Medium credibility.
+### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^113VEnZT]. Pediatric Pulmonology (2019). Medium credibility.
 
 IL‐5 is a cytokine involved in the growth, differentiation, and migration of eosinophils to the airway. Mepolizumab 61, 62 (FDA‐approved as add‐on maintenance treatment in patients aged ≥ 12 years with severe eosinophilic asthma) and reslizumab 63, 64 (approved in adults) are anti–IL‐5 monoclonal antibodies that block its effects. Studies have shown that both mepolizumab and reslizumab significantly reduced the frequency of exacerbations compared with placebo in patients with asthma and high blood eosinophil counts. 62, 63 Unlike mepolizumab and reslizumab, benralizumab is a humanized, afucosylated monoclonal antibody against the IL‐5 receptor α. It is FDA‐approved for the add‐on maintenance treatment of patients with severe asthma aged ≥ 12 years, and with an eosinophilic phenotype. 65 In contrast to mepolizumab and reslizumab, which bind IL‐5 itself, benralizumab binds the α subunit of the IL‐5 receptor on the surface of eosinophils and basophils. Afucosylation of the antibody enhances its binding to the FcγRIIIA receptor on natural killer cells, which induces rapid and near‐complete depletion of eosinophils by enhanced antibody‐dependent cell‐mediated cytotoxicity. 66 Studies have demonstrated that benralizumab add‐on therapy significantly reduced the frequency of exacerbations, improved lung function, and reduced the need for oral corticosteroid use in patients with elevated blood eosinophils. 67, 68, 69 However, there is limited information on the use of anti–IL‐5 or anti–IL‐5 receptor α agents in pediatric asthma, and further studies are warranted for these therapies in pediatric patients, especially those aged 6‐ < 12 years.
 
 ---
 
-### Real-world effectiveness of reslizumab in patients with severe eosinophilic asthma-first initiators and switchers [^3d8274bc]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Real-world effectiveness of reslizumab in patients with severe eosinophilic asthma-first initiators and switchers [^112aC4gK]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 Background
 
@@ -352,7 +352,7 @@ Real-world data show that reslizumab reduces severe asthma exacerbations and ora
 
 ---
 
-### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^48a0a99f]. Pediatric Pulmonology (2019). Medium credibility.
+### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^112rg5FU]. Pediatric Pulmonology (2019). Medium credibility.
 
 9 HETEROGENEITY IN TREATMENT RESPONSE
 
@@ -360,13 +360,13 @@ Children that present with asthma exacerbations generally have more severe disea
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^53db7a66]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^1139KhAm]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to consider offering anti-IL-5 therapies (mepolizumab, benralizumab, reslizumab) in ≥ 18 years old patients with severe eosinophilic asthma experiencing recurrent asthma exacerbations despite optimal asthma treatment, including a high-dose ICS and at least one other controller.
 
 ---
 
-### The clinical effectiveness of mepolizumab treatment in severe eosinophilic asthma; outcomes from four years cohort evaluation [^19d83d69]. The Journal of Asthma (2024). Medium credibility.
+### The clinical effectiveness of mepolizumab treatment in severe eosinophilic asthma; outcomes from four years cohort evaluation [^111fKKjn]. The Journal of Asthma (2024). Medium credibility.
 
 Background
 
@@ -386,19 +386,19 @@ mepolizumab clinical benefit was sustained over 4years. However, approximately h
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^c7a1227e]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^1166xfEm]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to recognize that predictors of response to omalizumab include a history of recurrent exacerbations or blood eosinophil counts of 260–300 cells/mL, although the exact eosinophil cut-off remains to be clearly established.
 
 ---
 
-### From DREAM to REALITI – A and beyond: mepolizumab for the treatment of eosinophil-driven diseases [^2501f2a7]. Allergy (2022). Medium credibility.
+### From DREAM to REALITI – A and beyond: mepolizumab for the treatment of eosinophil-driven diseases [^111wsCNi]. Allergy (2022). Medium credibility.
 
 Different dosing strategies across the different diseases could also be investigated in the future studies so that treatment can be personalized to the patient and their condition. Novel long‐acting IL‐5 monoclonal antibodies, such as Depemokimab, which is currently being investigated for the treatment of patients with severe eosinophilic asthma in the SWIFT (NCT04719832 and NCT04718103) and NIMBLE (NCT04718389) trials, may be important in this regard. The impact of stopping versus continuing mepolizumab therapy after continuous treatment for ≥ 3 years in patients with severe eosinophilic asthma was investigated in asthma in the COMET study (GSK ID: 201810, NCT02555371). This study showed that patients need to continue with biologic therapy in order to continue deriving clinical benefit and prevent worsening in clinical outcomes including lung function. This concept was supported by small, early trials of mepolizumab cessation in patients with EGPA, in which the majority of patients experienced relapses when switched to methotrexate therapy following induction of remission with mepolizumab. This will be an important area of research as the use of mepolizumab expands into other eosinophilic diseases.
 
 ---
 
-### Benralizumab effectiveness in severe asthma is independent of previous biologic use [^a2e37495]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Benralizumab effectiveness in severe asthma is independent of previous biologic use [^115AVPqn]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 Background
 
@@ -422,7 +422,7 @@ In a multicenter real-world setting, patients with uncontrolled SEA achieved sub
 
 ---
 
-### Choosing the right biologic for the right patient with severe asthma [^bde126eb]. Chest (2025). Medium credibility.
+### Choosing the right biologic for the right patient with severe asthma [^115rWHaS]. Chest (2025). Medium credibility.
 
 First, consider the biomarkers: both circulating eosinophil counts and Fare raised, identifying two immunologic pathways that could be implicated in the pathophysiologic characteristics, and thus identifying a high-risk and high-stake situation for the patient. The high risk relates to the predictable potential for future asthma attacks, whereas the stakes are high because the same type 2 inflammatory process that predicts an excellent response to type-targeted antiinflammatory medication also puts the patient in harm's way. Dupilumab, tezepelumab, and, to a lesser extent, omalizumab can influence both eosinophils and F, whereas anti-IL-5 and anti-IL-5R will not suppress F. The recent Study to Assess the Reduction of Daily Maintenance ICS/LABA Treatment Towards Anti-Inflammatory Reliever Treatment in Patients With Severe Eosinophilic Asthma Treated With Benralizumab (SHAMAL) trial, in which weaning of ICS while taking benralizumab was associated with an F-related decrease in FEV₁, suggests this might be an important factor.
 
@@ -430,7 +430,7 @@ One also should take into account the early onset of asthma in this patient. Wit
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^b36554d1]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^115axpY8]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for severe asthma phenotypes, more specifically with respect to other biologic agents, CTS 2017 guidelines recommend to recognize that blood eosinophil counts may help to identify responders to anti-IL-5 therapy, with the greatest reduction in asthma exacerbations associated with the highest levels of blood eosinophil counts. Recognize that the following cutoffs have been used at initiation:
 
@@ -442,37 +442,37 @@ Regarding medical management for severe asthma phenotypes, more specifically wit
 
 ---
 
-### Which patients with asthma are most likely to benefit from allergen immunotherapy? [^df3c5500]. The Journal of Allergy and Clinical Immunology (2022). Medium credibility.
+### Which patients with asthma are most likely to benefit from allergen immunotherapy? [^116hxWCw]. The Journal of Allergy and Clinical Immunology (2022). Medium credibility.
 
 If allergen immunotherapy (AIT) is to be considered as a treatment option for allergic asthma, it must undergo the same developmental steps as other antiasthmatic drugs. The bronchial allergen challenge model has demonstrated excellent negative predictive value for the development of new therapies for asthma. Subcutaneous immunotherapy appears to have a clinical and significant effect on the early asthmatic response to mite, cat, and birch and grass pollens in children and adults. Use of AIT in children with asthma is widely practiced but not supported by as strong a level of evidence as in adults. House dust mite sublingual immunotherapy tablets demonstrate efficacy in asthma exacerbations and other outcomes when used as add-on therapy in adult patients. Using a biologic to improve the patient's lung functions and asthma control before initiating AIT can transform unsuitable candidates for AIT into appropriate candidates. Because AIT is a form of personalized medicine, phenotyping the most suitable patient is necessary. Field studies of adults and children have suggested that polysensitized patients with rhinitis and Global Initiative for Asthma class 2 to class 4 asthma appear the most likely to be good responders. We hypothesized that AIT responders are those who demonstrate a high eosinophilic response to natural or experimental exposure.
 
 ---
 
-### Biologics for severe asthma: treatment-specific effects are important in choosing a specific agent [^01aa60c5]. The Journal of Allergy and Clinical Immunology: In Practice (2019). Medium credibility.
+### Biologics for severe asthma: treatment-specific effects are important in choosing a specific agent [^1113UDWk]. The Journal of Allergy and Clinical Immunology: In Practice (2019). Medium credibility.
 
 Patients with uncontrolled severe persistent asthma have greater morbidity, greater use of health care resources, and more impairment in health-related quality of life when compared with their peers with well-controlled disease. Fortunately, since the introduction of biological therapeutics, patients with severe eosinophilic asthma now have beneficial treatment options that they did not have just a few years ago. In addition to anti-IgE therapy for allergic asthma, 3 new biological therapeutics targeting IL-5 and 1 targeting IL-4 and IL-13 signaling have recently been approved by the Food and Drug Administration for the treatment of severe eosinophilic asthma, and approval of more biological therapeutics is on the horizon. These medications decrease the frequency of asthma exacerbations, improve lung function, reduce corticosteroid usage, and improve health-related quality of life. This article reviews the mechanisms of action, specific indications, benefits, and side effects of each of the approved biological therapies for asthma. Furthermore, this article reviews how a clinician could use specific patient characteristics to decide which biologic treatment may be optimal for a given patient.
 
 ---
 
-### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^b378e1e5]. Allergy (2019). Medium credibility.
+### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^115b5PRW]. Allergy (2019). Medium credibility.
 
 In conclusion, this open‐label study provides evidence that patients with severe asthma who are eligible for both biologics and not optimally controlled with omalizumab could be effectively switched to mepolizumab to improve their asthma control. Patients experienced statistically significant and clinically meaningful improvements in asthma control (measured by ACQ‐5), quality of life (measured by SGRQ), and asthma exacerbations, following the switch from omalizumab to mepolizumab without a standard washout. No tolerability issues were observed. This pragmatic study reflects expected clinical practice and provides practical guidance to clinicians for the treatment of patients with severe eosinophilic asthma.
 
 ---
 
-### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^0d4d70cf]. Allergy (2019). Medium credibility.
+### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^111LirL6]. Allergy (2019). Medium credibility.
 
 Omalizumab has previously been reported to reduce peripheral blood eosinophil counts in patients with severe asthma, 29 and to have greater efficacy in terms of exacerbation reduction in patients with blood eosinophil counts ≥ 260 cells/µL 30 or ≥ 300 cells/µL, 31, 32 as compared with patients with lower blood eosinophil counts. Interestingly, the present study assessed patients whose asthma was unresponsive to a biologic treatment targeting the IgE pathway and who were switched to an alternative treatment targeting the IL‐5 pathway. The results showed a significant decrease in peripheral blood eosinophil count as early as 4 weeks after switching from omalizumab to mepolizumab, and an associated decrease in markers of eosinophil activity (eosinophilic cationic protein and eosinophil‐derived neurotoxin). This rapid decrease is consistent with previous studies of mepolizumab, 15, 16, 17 and reflects the direct action and target engagement of mepolizumab on the eosinophil survival factor, IL‐5. This study has demonstrated that mepolizumab is a relevant treatment option in patients with severe eosinophilic asthma that is unresponsive to high‐dose ICS and omalizumab, and that physicians may substitute one biologic with another to improve clinical outcomes.
 
 ---
 
-### Evolving concepts of asthma [^2560d576]. American Journal of Respiratory and Critical Care Medicine (2015). Low credibility.
+### Evolving concepts of asthma [^111xR4uK]. American Journal of Respiratory and Critical Care Medicine (2015). Low credibility.
 
 Our understanding of asthma has evolved over time from a singular disease to a complex of various phenotypes, with varied natural histories, physiologies, and responses to treatment. Early therapies treated most patients with asthma similarly, with bronchodilators and corticosteroids, but these therapies had varying degrees of success. Similarly, despite initial studies that identified an underlying type 2 inflammation in the airways of patients with asthma, biologic therapies targeted toward these type 2 pathways were unsuccessful in all patients. These observations led to increased interest in phenotyping asthma. Clinical approaches, both biased and later unbiased/statistical approaches to large asthma patient cohorts, identified a variety of patient characteristics, but they also consistently identified the importance of age of onset of disease and the presence of eosinophils in determining clinically relevant phenotypes. These paralleled molecular approaches to phenotyping that developed an understanding that not all patients share a type 2 inflammatory pattern. Using biomarkers to select patients with type 2 inflammation, repeated trials of biologics directed toward type 2 cytokine pathways saw newfound success, confirming the importance of phenotyping in asthma. Further research is needed to clarify additional clinical and molecular phenotypes, validate predictive biomarkers, and identify new areas for possible interventions.
 
 ---
 
-### Long-term outcomes of dupilumab therapy in severe asthma: a retrospective, multicenter, real-world study [^92e70040]. The Journal of Allergy and Clinical Immunology: Global (2025). Medium credibility.
+### Long-term outcomes of dupilumab therapy in severe asthma: a retrospective, multicenter, real-world study [^114knnQX]. The Journal of Allergy and Clinical Immunology: Global (2025). Medium credibility.
 
 Predictors of long-term response have been identified in both clinical trials and real-world studies. Bult et alidentified high BEC before dupilumab initiation and male sex as predictors of remission. Importantly, lower Fwas associated with a lower likelihood of remission in their data. In our cohort, no baseline characteristics were significantly associated with remission on dupilumab therapy. Univariate analyses suggested that patients experiencing early benefits (improvement in FEV₁% and FVC%) within 3 months of therapy initiation were more likely to achieve remission at 36 months. In a study of the Danish asthma registry, decreasing Fwas found to be a predictor for remission in a cohort receiving anti-IL5/IL-5Rα therapy; however, decreasing Fwas not a predictor of remission in our cohort. This might be due to a rather mixed cohort of patients with both early- and adult-onset phenotypes represented in our study as well as due to previous biological therapies.
 
@@ -482,7 +482,7 @@ In summary, dupilumab is an effective treatment option for patients with severe 
 
 ---
 
-### Dupilumab is effective in type 2-high asthma patients receiving high-dose inhaled corticosteroids at baseline [^e69c98b2]. Allergy (2021). Medium credibility.
+### Dupilumab is effective in type 2-high asthma patients receiving high-dose inhaled corticosteroids at baseline [^116ttkZX]. Allergy (2021). Medium credibility.
 
 4 DISCUSSION
 
@@ -492,19 +492,19 @@ There are currently 5 biologic add‐on treatments for patients with uncontrolle
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of asthma [^1bb96700]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of asthma [^111i6wYB]. DoD/VA (2025). High credibility.
 
 Appendix G biologic indications and monitoring detail steroid-sparing evidence, age-based approvals, and continuation of controllers. An oral steroid-sparing effect with benralizumab, mepolizumab, dupilumab, and reslizumab has been demonstrated in randomized controlled trials in oral steroid–dependent patients; tezepelumab was not shown to reduce ICS dose while maintaining asthma control compared to placebo, and real-world studies with omalizumab have shown reduction in oral steroid maintenance doses. Omalizumab is indicated for moderate-to-severe persistent asthma in patients six years of age and older with a positive skin test or in vitro reactivity to a perennial aeroallergen; mepolizumab, benralizumab, and reslizumab are indicated for severe asthma with an eosinophilic phenotype, with mepolizumab and benralizumab approved for those who are six years of age and older and reslizumab for those who are 18 years of age and older; dupilumab is indicated for moderate-to-severe asthma in those who are six years of age and older with an eosinophilic phenotype or with oral corticosteroid-dependent asthma; tezepelumab is indicated for severe asthma in those who are 12 years of age or older without regards to phenotype or biomarkers; and higher blood eosinophils at baseline is a predictor of a good asthma outcome to biologic therapy. When biologics are started, other controller treatments are continued. Do not discontinue ICS. A trial of at least 4 months is needed to assess initial response, with assessments including asthma symptom control, exacerbations, lung function, side effects to therapy, and patient satisfaction, and where applicable, effects on type 2 co-morbidities such as nasal polyps and atopic dermatitis should be assessed.
 
 ---
 
-### Clinical development of mepolizumab for the treatment of severe eosinophilic asthma: on the path to personalized medicine [^2a300467]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
+### Clinical development of mepolizumab for the treatment of severe eosinophilic asthma: on the path to personalized medicine [^1125YcHc]. The Journal of Allergy and Clinical Immunology: In Practice (2021). Medium credibility.
 
 The development of mepolizumab, an anti-IL-5 monoclonal antibody for the treatment of severe eosinophilic asthma, is an example of a clinical development program that evolved over time based on sound, basic scientific principles. Initial clinical data on the effects of mepolizumab on lung function in a general asthmatic population were disappointing. However, it became clear that mepolizumab may be more effective against other clinical endpoints, particularly asthma exacerbations, in patients with more severe disease. Furthermore, a developing understanding of asthma disease pathobiology led to the identification of an appropriate target population and predictive biomarker for mepolizumab treatment: patients with severe eosinophilic asthma and blood eosinophil count. Mepolizumab use provides clinically meaningful benefits in this target population, fulfilling an unmet need. This Clinical Commentary Review describes the clinical development of mepolizumab and details of how this program informed the development of other biologic therapies in patients with severe asthma. This account highlights how a personalized approach toward treatment of patients with severe eosinophilic asthma, supported by a large body of scientific evidence, ultimately led to new and effective treatments and improved patient outcomes.
 
 ---
 
-### Global Initiative for Asthma strategy 2021: executive summary and rationale for key changes [^a9dd68ef]. American Journal of Respiratory and Critical Care Medicine (2022). Medium credibility.
+### Global Initiative for Asthma strategy 2021: executive summary and rationale for key changes [^115LqH3C]. American Journal of Respiratory and Critical Care Medicine (2022). Medium credibility.
 
 Management of Severe Asthma
 
@@ -522,7 +522,7 @@ Continue to optimize patient care in collaboration with primary care and conside
 
 ---
 
-### Real-world data on tezepelumab in patients with severe asthma in Germany [^c811e542]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
+### Real-world data on tezepelumab in patients with severe asthma in Germany [^1167cXzh]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
 
 Background
 
@@ -546,7 +546,7 @@ In this real-life cohort, including a large proportion of patients with history 
 
 ---
 
-### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^ed4a4437]. Pediatric Pulmonology (2019). Medium credibility.
+### Can early intervention in pediatric asthma improve long-term outcomes? A question that needs an answer [^1174o1ci]. Pediatric Pulmonology (2019). Medium credibility.
 
 With better understanding of the mechanisms driving asthma, opportunities to integrate precision medicine into asthma management are numerous. Using a phenotype‐based approach to therapy, in which a specific patient's observable characteristics are considered in making treatment decisions, has the potential to improve outcomes for both children and adults with asthma by addressing their endotype, the mechanism of a patient's disease. 46 For example, biomarkers could be used to identify which pathway should be targeted in a specific patient (eg, anti‐IgE or anti‐interleukin [IL]‐5/anti‐eosinophil, IL‐4, or IL‐13). The INFANT trial conducted by National Heart, Lung, and Blood Institute (NHLBI) AsthmaNet showed that biomarkers of type 2 inflammation, such as blood eosinophil counts, can be used to identify children who may benefit from daily ICS treatment. 47 Evaluation of a child's atopic status could also help to distinguish between patients at risk for persistent asthma, those who are likely to respond to daily ICS therapy, and those likely to develop severe, uncontrolled asthma. 48 Figure 3 illustrates how asthma treatment could be personalized based on phenotype observed for children with uncontrolled asthma. Precision treatment of asthma will be especially important in young children, as early identification and individualized therapy for asthma may prevent disease progression. 48 However, prospective studies with or without various interventions other than long‐term ICS have not been done to assess the specific relationship of uncontrolled asthma to long‐term fixed airway obstruction. This is another information gap that should be addressed in future studies.
 
@@ -555,25 +555,25 @@ Personalized asthma treatment algorithm for uncontrolled asthma. 87 Personalized
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^4e28d839]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^112zskhW]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Patient factors guiding biologic therapy in CRSwNP highlight that patients with related inflammatory conditions such as chronic idiopathic urticaria, severe asthma, eosinophilic esophagitis or atopic dermatitis may derive additional significant benefit from biological therapy due to its ability to obviate a number of other overlapping therapies; individuals who are unsuitable for surgical interventions due to prior complications or other comorbidities that place them at increased surgical risk may be considered for biologics earlier in their treatment course; personalized treatment decisions should consider these factors alongside the patient's overall disease burden and quality of life, and the clinician should educate their patients on how biologics can be of benefit after optimizing conventional therapies, ensuring that patients receive the most effective and cost-efficient care tailored to their specific clinical needs.
 
 ---
 
-### Global strategy for asthma management and prevention [^817da220]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^114JybtT]. GINA (2024). High credibility.
 
 Severe asthma biologic treatments — current consensus advice is that, generally, for a patient with a good response, a trial of withdrawal of the biologic should not be considered until after at least 12 months of treatment, and only if asthma remains well controlled on medium-dose ICS-containing therapy, and (for allergic asthma) there is no further exposure to a previous well-documented allergic trigger. There are few studies of cessation of biologic therapy; in these studies, symptom control worsened and/or exacerbations recurred in many (but not all) patients after cessation of the biologic. In a double-blind randomized controlled trial, significantly more patients who stopped mepolizumab experienced a severe exacerbation within 12 months compared with those who continued treatment, with a small increase in ACQ-5 but no significant difference in symptom control between groups. In adults, long-term safety over 5 or more years of treatment has been reported for several biologics, with shorter follow-up to date for others.
 
 ---
 
-### The clinical features of asthma exacerbations in early-onset and eosinophilic late-onset asthma may differ significantly [^63d5d573]. Respiratory Medicine (2023). Medium credibility.
+### The clinical features of asthma exacerbations in early-onset and eosinophilic late-onset asthma may differ significantly [^113Z1bia]. Respiratory Medicine (2023). Medium credibility.
 
 Over 20 years ago, the concept of asthma control was created and appropriate measurement tools were developed and validated. Loss of asthma control can lead to an exacerbation. Years ago, the term "clinically significant asthma exacerbation" was introduced to define when a loss of control is severe enough to declare it an asthma exacerbation. This term is also used by health insurances to determine when an exacerbation is eligible for reimbursement of biologics in clinical practice, however, it sometimes becomes apparent that a clear separation between loss of "asthma control" and an exacerbation is not always possible. In this review, we attempt to justify why exacerbations in early allergic asthma and adult eosinophilic asthma can differ significantly and why this is important in clinical practice as well as when dealing with health insurers.
 
 ---
 
-### Biological therapies for eosinophilic asthma [^fea9d57c]. Expert Opinion on Biological Therapy (2018). Low credibility.
+### Biological therapies for eosinophilic asthma [^117WYuDD]. Expert Opinion on Biological Therapy (2018). Low credibility.
 
 Introduction
 
@@ -589,13 +589,13 @@ Biologic therapies targeting the IL-5, IgE, IL-4/IL-13 signaling pathways have b
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^2133efd8]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^111rE37V]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for severe asthma phenotypes, more specifically with respect to other biologic agents, CTS 2017 guidelines recommend to consider offering anti-IL-5 therapies in ≥ 18 years old patients with severe eosinophilic corticosteroid-dependent asthma, in an attempt to decrease or withdraw oral corticosteroids.
 
 ---
 
-### Adverse events of anti-IL-5 drugs in patients with eosinophilic asthma: a meta-analysis of randomized controlled trials and real-world evidence-based assessments [^97054297]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Adverse events of anti-IL-5 drugs in patients with eosinophilic asthma: a meta-analysis of randomized controlled trials and real-world evidence-based assessments [^114rtu2e]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Background
 
@@ -605,19 +605,19 @@ Biologic therapies, including anti-immunoglobulin E (anti-IgE) (omalizumab), ant
 
 ---
 
-### Global strategy for asthma management and prevention [^a3b555b7]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^115Bhtd4]. GINA (2024). High credibility.
 
 Maintenance-and-reliever therapy (MART) with ICS-formoterol — use with add-on biologic therapy and step-down considerations: If a patient treated with medium-dose MART requires addition of biologic therapy, it is not logical to switch from MART to conventional ICS-LABA plus as-needed SABA, as this may increase the risk of exacerbations, and there is little evidence about initiating MART in patients receiving add-on treatment such as LAMA or biologic therapy. In one study of patients with severe eosinophilic asthma on benralizumab and high-dose ICS-LABA, participants were randomized to budesonide-formoterol as high dose maintenance plus as-needed SABA or as medium-dose MART with subsequent 8-weekly options for down-titration, and asthma remained stable after the switch from high-dose ICS-formoterol to medium-dose MART. Most patients randomized to MART were able to further reduce their ICS-formoterol dose, but there was an increase in FeNO and decrease in FEV1 in those who stepped down to as-needed-only ICS-formoterol, suggesting that maintenance doses of ICS-formoterol should not be stopped.
 
 ---
 
-### Global strategy for asthma management and prevention [^9872d6ad]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^114u1h56]. GINA (2024). High credibility.
 
 Box 8–3 — assess and treat severe asthma phenotypes presents a Type 2 airway inflammation pathway in which Type 2 inflammation is indicated by blood eosinophils ≥ 150/μL and/or FeNO ≥ 20 ppb and/or sputum eosinophils ≥ 2%, and/or asthma is clinically allergen-driven, with a note to repeat blood eosinophils and FeNO up to 3x, at least 1–2 weeks after OCS or at lowest possible OCS dose. For patients with evidence of Type 2 airway inflammation, consider adherence tests, consider increasing the ICS dose for 3–6 months, and consider add-on non-biologic treatment for specific Type 2 clinical phenotypes. The algorithm asks, Is add-on Type 2 biologic therapy available/affordable?, and advises, Check local eligibility criteria for specific biologic therapies as these may vary from those listed. If add-on Type 2 targeted biologic therapy is NOT available/affordable, consider higher dose ICS, if not used, consider other add-on therapy (e.g. LAMA, LTRA, low dose azithromycin), as last resort, consider add-on low dose OCS, but implement strategies to minimize side-effects, and stop ineffective add-on therapies.
 
 ---
 
-### Can we predict who will benefit most from biologics in severe asthma? A post-hoc analysis of two phase 3 trials [^775ccc2b]. Respiratory Research (2023). Medium credibility.
+### Can we predict who will benefit most from biologics in severe asthma? A post-hoc analysis of two phase 3 trials [^1143xhNr]. Respiratory Research (2023). Medium credibility.
 
 Background
 
@@ -645,13 +645,13 @@ The online version contains supplementary material available at 10.1186/s12931-0
 
 ---
 
-### Change is in the air: key questions on the 'treatable traits' model for chronic airway diseases in primary care [^2b48d23d]. NPJ Primary Care Respiratory Medicine (2024). Medium credibility.
+### Change is in the air: key questions on the 'treatable traits' model for chronic airway diseases in primary care [^1127Avnp]. NPJ Primary Care Respiratory Medicine (2024). Medium credibility.
 
 By contrast, there is a growing volume of evidence that indicates blood eosinophils are a predictive biomarker for responsiveness to ICS in patients with asthma and COPD. Studies have demonstrated a continuous beneficial effect in reduction of exacerbation rate from ICS treatment in correlation with increasing blood eosinophil count in patients with COPD. This evidence has led to inclusion of eosinophil measurement in international guidelines as a clinical decision-making factor. The GOLD strategy report recommend using a blood eosinophil count of ≥ 300 cells/μL as an indication for escalation of treatment from a long-acting muscarinic antagonist (LAMA) + long-acting β₂-agonist (LABA) combination to triple therapy treatment (ICS + LAMA + LABA). Similar utility of the biomarker is found in asthma; greater treatment benefits are observed in patients with eosinophilic asthma treated with ICS versus patients with lower blood eosinophil count, with regard to exacerbation rate, lung function and health-related quality of life. However, utilisation of blood eosinophil count as a predictive marker for targeting ICS use in patients with asthma is not yet recommended by the Global Initiative for Asthma (GINA). In cases of severe asthma which remain uncontrolled despite optimised therapy, patients should be referred to a specialist for further investigation. Severe eosinophilic asthma can be effectively treated in the specialist domain with add-on T2-targeting biologic therapy, to which blood eosinophil count is a well-documented and reliable predictor of responsiveness. GINA recommendations advocate a blood eosinophil level threshold of ≥ 150 cells/μL for consideration of add-on T2-targeting biologic therapy in patients with exacerbations or poor symptoms control. In summary, eosinophilic inflammation is an important TT to address; its widespread measurement in primary care may inform rational treatment decisions and facilitate timely, appropriate referrals for specialist assessment.
 
 ---
 
-### Treating severe asthma: targeting the IL-5 pathway [^136c7335]. Clinical and Experimental Allergy (2021). Medium credibility.
+### Treating severe asthma: targeting the IL-5 pathway [^111VoC8c]. Clinical and Experimental Allergy (2021). Medium credibility.
 
 5 DISCUSSION
 
@@ -665,13 +665,13 @@ Clearly, a 4–6‐month period appears to be the current consensus for evaluati
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^26f19c00]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^111zjge3]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for severe asthma phenotypes, more specifically with respect to other biologic agents, CTS 2017 guidelines recommend to consider offering anti-IL-5 therapies (mepolizumab, benralizumab, reslizumab) in ≥ 18 years old patients with severe eosinophilic asthma experiencing recurrent asthma exacerbations despite optimal asthma treatment, including a high-dose ICS and at least one other controller.
 
 ---
 
-### Long-term multicenter comparison shows equivalent efficacy of monoclonal antibodies in severe asthma therapy [^c05f4e72]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Long-term multicenter comparison shows equivalent efficacy of monoclonal antibodies in severe asthma therapy [^115vCdpu]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Antibody therapy led to significant improvements across nearly all assessed parameters in all three treatment groups. All lung function parameters except for TLC improved significantly in all groups, indicating improved pulmonary performance. Notably, these improvements were comparable in all treatment groups, without significant differences. Furthermore, both asthma control as measured by ACT, annualized exacerbation rate and the need for and average dosage of OCS improved in all treatment groups, highlighting the tangible clinical benefits of biologic therapy in severe asthma patients. However, these reductions were statistically significantly more pronounced among patients receiving either mepolizumab or benralizumab, compared to patients receiving dupilumab. However, this is unlikely to represent a clinically significant difference, as both the annualized exacerbation rate and mean OCS dose were lower in the dupilumab cohort at baseline, thus allowing for less overall reduction upon therapy initiation. Likewise, patients receiving dupilumab had a slightly higher average ACT score at baseline. While all patients in our cohort suffered from severe asthma insufficiently controlled by conventional therapy, a prerequisite to biologic therapy initiation according to German guidelines (Supplementary Table 1), the less severe baseline impairments indicate that patients in the dupilumab group had better asthma control at baseline, and thus perhaps less room for improvement. Notably, prescription guidelines for biologics in severe asthma are heterogenous among European countries. In the future, unified international prescription criteria would be desirable to facilitate international comparisons.
 
@@ -679,7 +679,7 @@ In terms of laboratory parameters, we observed some divergence: while the dupilu
 
 ---
 
-### Choosing the right biologic for the right patient with severe asthma [^00cd3a36]. Chest (2025). Medium credibility.
+### Choosing the right biologic for the right patient with severe asthma [^1112Bw9o]. Chest (2025). Medium credibility.
 
 Until the early 2010s, the asthmatologist's role in the severe asthma clinic was largely that of a "corticosteroid-ologist". In this capacity, we studied the inevitable airway and people remodelling in chronically debilitated patients with asthma, with the uncomfortable suspicion that a portion of the morbidity was the result of corticosteroids — substances known for both their efficacy and toxicity. Thankfully, the advent of multiple different monoclonal antibodies to treat people with asthma has translated to extraordinary benefits for patients, and a less uncomfortable workday for the asthmatologist. An important aspect of today's job involves phenotyping patients clinically (by looking for patient characteristics and comorbidities) and endotyping objectively (by measuring type 2 inflammatory biomarkers) to decipher the underlying mechanisms of their airway disease, estimating the risk of asthma attacks and lung function decline, and most importantly, offering a precision-based approach by choosing the right treatment for the right patient. As the variety of biologic therapies increases and now includes six biologics spanning four different mechanisms of action, the latter task is increasingly complicated.
 
@@ -692,7 +692,7 @@ Therapeutic Strategies of Biologics Approved in Asthma, Biomarkers for Selection
 
 ---
 
-### Real-world study in severe eosinophilic asthma patients refractory to anti-IL5 biological agents treated with benralizumab in Spain (ORBE study) [^fd700f0c]. BMC Pulmonary Medicine (2021). Medium credibility.
+### Real-world study in severe eosinophilic asthma patients refractory to anti-IL5 biological agents treated with benralizumab in Spain (ORBE study) [^117UjWNw]. BMC Pulmonary Medicine (2021). Medium credibility.
 
 Patients mainly unresponsive to previous anti-IL-5 treatment and requiring stable treatment with high-dose ICS and at least one LABA were enrolled in the ORBE study. Study results suggest that benralizumab treatment could improve asthma control in patients who have previously failed to respond or discontinued treatment with mepolizumab or reslizumab. Even with its limitations, the information in this study is pertinent as it suggests that difficult to treat patients who have received, anti-IgE or anti-IL5 biologic treatment may derive benefit from being switched to bernalizumab. Recent studies and post-hoc analyses have shown that patients whose asthma did not respond to omalizumab can improve with a biologic treatment targeting the IL-5 pathway in terms of asthma control, exacerbations, and OCS reduction. Thus, benralizumab could be an effective option in severe eosinophilic asthma and could be considered as a first option before starting another biologic treatment targeting the IL-5 pathway.
 
@@ -702,7 +702,7 @@ On the other hand, one of the main strengths of the ORBE study is that this is a
 
 ---
 
-### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^84730caf]. Allergy (2025). Medium credibility.
+### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^114PN1Ya]. Allergy (2025). Medium credibility.
 
 The addition of the IL‐4Rα blocker dupilumab to maintenance OCS led to a sustained FEV 1 improvement despite an average 70% reduction in the maintenance dose of OCS. These findings suggest that this biologic is superior to conventional asthma treatment, including OCS, to maintain airway patency. Rapid lung function improvement has also been described in patients with uncontrolled, moderate‐to‐severe asthma treated with dupilumab.
 
@@ -712,7 +712,7 @@ Mucus plugging which has been described as localized and persistentsignificantly
 
 ---
 
-### Real-world effectiveness of IL-5 / 5Ra targeted biologics in severe eosinophilic asthma with comorbid bronchiectasis [^50d49ebd]. The Journal of Allergy and Clinical Immunology: In Practice (2023). Medium credibility.
+### Real-world effectiveness of IL-5 / 5Ra targeted biologics in severe eosinophilic asthma with comorbid bronchiectasis [^1134qRic]. The Journal of Allergy and Clinical Immunology: In Practice (2023). Medium credibility.
 
 Background
 
@@ -736,13 +736,13 @@ This real-world study shows that anti-IL-5/5Ra therapy reduces exacerbation freq
 
 ---
 
-### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^e2d5b023]. Allergy (2025). Medium credibility.
+### Biologics and airway remodeling in asthma: early, late, and potential preventive effects [^116oHyfg]. Allergy (2025). Medium credibility.
 
 Although airway remodeling in severe and/or fatal asthma is still considered irreversible, its individual components as a cause of clinical symptoms and/or lung function changes remain largely unknown. While inhaled glucocorticoids have not consistently been shown to affect airway remodeling, biologics targeting specific pathways of airway inflammation have been shown to improve lung function, mucus plugging, and airway structural changes that can exceed those seen with glucocorticoids. This superiority of biologic treatment, which cannot be solely explained by insufficient doses or limited durations of glucocorticoid therapies, needs to be further explored. For this field of research, we propose a novel classification of the potential effects of biologics on airway remodeling into three temporal effects: early effects (days to weeks, primarily modulating inflammatory processes), late effects (months to years, predominantly affecting structural changes), and potential preventive effects (outcomes of early treatment with biologics). For the identification of potential preventive effects of biologics, we call for studies exploring the impact of early biological treatment on airway remodeling in patients with moderate-to-severe asthma, which should be accompanied by a long-term evaluation of clinical parameters, biomarkers, treatment burden, and socioeconomic implications.
 
 ---
 
-### Asthma biologics: real-world effectiveness, impact of switching biologics, and predictors of response [^2409f593]. Annals of Allergy, Asthma & Immunology (2021). Medium credibility.
+### Asthma biologics: real-world effectiveness, impact of switching biologics, and predictors of response [^111vRuAi]. Annals of Allergy, Asthma & Immunology (2021). Medium credibility.
 
 Background
 
@@ -766,25 +766,25 @@ In a real-world setting, biologic therapy in asthma is effective in improving ex
 
 ---
 
-### Global strategy for asthma management and prevention [^6fb1d864]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^113rbMzB]. GINA (2024). High credibility.
 
 Add-on biologic therapy — Options recommended by GINA for patients with uncontrolled severe asthma despite optimized maximal therapy include: add-on anti-immunoglobulin E (anti-IgE) (subcutaneous (SC) omalizumab) for patients aged ≥ 6 years with severe allergic asthma (Evidence A); add-on anti-interleukin-5/5Ra (SC mepolizumab for ages ≥ 6 years, SC benralizumab for ages ≥ 12 years, or intravenous (IV) reslizumab for ages ≥ 18 years) for patients with severe eosinophilic asthma (Evidence A); add-on anti-interleukin-4Ra (SC dupilumab) for patients aged ≥ 6 years with severe eosinophilic/Type 2 asthma, or those requiring treatment with maintenance oral corticosteroids (OCS) (Evidence A); and add-on anti-thymic stromal lymphopoietin (anti-TSLP) (SC tezepelumab) for patients aged ≥ 12 years with severe asthma (Evidence A).
 
 ---
 
-### Global strategy for asthma management and prevention [^6cb054f7]. GINA (2025). High credibility.
+### Global strategy for asthma management and prevention [^113n8tf8]. GINA (2025). High credibility.
 
 Regarding medical management for asthma, more specifically with respect to treatment guidance, GINA 2025 guidelines recommend to consider adjusting treatment based on eosinophilia (> 3%) in induced sputum in adult patients with persisting symptoms and/or exacerbations despite high-dose ICSs or ICSs-LABAs.
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^aee6c248]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^115UJMaf]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to insufficient evidence to support the use of omalizumab in patients with severe asthma who are non-atopic or have serum IgE levels above the current dosing range.
 
 ---
 
-### Long-term multicenter comparison shows equivalent efficacy of monoclonal antibodies in severe asthma therapy [^08223f92]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Long-term multicenter comparison shows equivalent efficacy of monoclonal antibodies in severe asthma therapy [^111D4QU1]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Inclusion criteria and treatment
 
@@ -792,14 +792,14 @@ All included patients had been diagnosed with severe asthma with inadequate asth
 
 ---
 
-### International ERS / ATS guidelines on definition, evaluation and treatment of severe asthma [^e96d07ba]. The European Respiratory Journal (2014). Medium credibility.
+### International ERS / ATS guidelines on definition, evaluation and treatment of severe asthma [^116y4jjw]. The European Respiratory Journal (2014). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, ATS/ERS 2014 guidelines recommend to consider offering a therapeutic trial of omalizumab in adult
 and pediatric patients with severe allergic asthma.
 
 ---
 
-### Advancements in biologic therapy in eosinophilic asthma [^896c0858]. Expert Opinion on Biological Therapy (2024). Medium credibility.
+### Advancements in biologic therapy in eosinophilic asthma [^114WjbFd]. Expert Opinion on Biological Therapy (2024). Medium credibility.
 
 Introduction
 
@@ -815,7 +815,7 @@ Biological therapy for asthma targeting the IgE, IL-4, IL-5, IL-13, and TSLP pat
 
 ---
 
-### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^5495fe37]. Allergy (2019). Medium credibility.
+### The clinical benefit of mepolizumab replacing omalizumab in uncontrolled severe eosinophilic asthma [^113AQLmk]. Allergy (2019). Medium credibility.
 
 3.3 Secondary endpoints
 
@@ -825,7 +825,7 @@ Sixty patients (41%) experienced a total of 104 clinically significant exacerbat
 
 ---
 
-### Adverse events of anti-IL-5 drugs in patients with eosinophilic asthma: a meta-analysis of randomized controlled trials and real-world evidence-based assessments [^cfc88879]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Adverse events of anti-IL-5 drugs in patients with eosinophilic asthma: a meta-analysis of randomized controlled trials and real-world evidence-based assessments [^116K3o2x]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 In clinical trials, the relative risk of hypersensitivity events was marginally increased within anti-IL-5 treatment groups, but no significant disparity was observed when compared to placebo groups. Despite the lack of statistical significance within the clinical data, post-marketing surveillance detected hypersensitivity signals across all anti-IL-5 drugs, which were subsequently confirmed within each product labeling. Furthermore, the composition of these drugs could potentially elicit hypersensitivity reactions.
 
@@ -833,7 +833,7 @@ Although the efficacy of treating asthmatic patients with anti-IL-5 drugs was pr
 
 ---
 
-### A randomized trial of the efficacy and safety of quilizumab in adults with inadequately controlled allergic asthma [^d5e4a85d]. Respiratory Research (2016). Low credibility.
+### A randomized trial of the efficacy and safety of quilizumab in adults with inadequately controlled allergic asthma [^116U7Adr]. Respiratory Research (2016). Low credibility.
 
 The allergen-challenge model used in our previous studies where quilizumab was shown to be effective may not represent the asthma processes occurring in the patient population in this study, especially given that alternate sources of IgE appear to play a more dominant role. However, the model was key in first demonstrating the effectiveness of omalizumab in patients with mild asthma, where omalizumab significantly reduced both the early and late asthmatic responses following allergen challenge and reduced serum IgE almost completely. Although less effective than omalizumab in a similar population, quilizumab showed reductions of 26 and 36% in the early and late asthmatic responses, respectively, and a 25% reduction in serum IgE. Allergen-challenge studies are generally exploratory and are designed to follow biomarkers that trend with early and late asthmatic responses. They are usually conducted in patients with mild asthma, which is not the typical target population for new biologic therapies. At least one therapy, mepolizumab (anti-IL-5), is effective for reducing asthma exacerbations in patients with eosinophilic asthma, yet does not appear to affect early/late asthmatic responses during allergen challenge. It is therefore crucial that appropriate patient populations and outcome measures are selected for future trials.
 
@@ -841,13 +841,13 @@ Whether quilizumab could have a clinically meaningful effect in another subgroup
 
 ---
 
-### Global strategy for asthma management and prevention [^267ff500]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^111z5WWj]. GINA (2024). High credibility.
 
 Box 8–4 decision tree — add-on biologic Type 2-targeted treatments outlines class-specific options and criteria for severe asthma, including Anti-IgE (omalizumab), Anti-IL5/Anti-IL5R (benralizumab, mepolizumab, reslizumab), Anti-IL4Rα (dupilumab), and Anti-TSLP (tezepelumab). For anti-IgE, predictors of good asthma response include blood eosinophils ≥ 260/μL and FeNO ≥ 20 ppb. For anti-IL5/anti-IL5R, eligibility includes blood eosinophils, e.g. ≥ 150/μL or ≥ 300/μL. For anti-IL4Rα, eligibility includes blood eosinophils ≥ 150 and ≤ 1500/μL, or FeNO ≥ 25 ppb, or taking maintenance OCS. If a patient is eligible, the algorithm states: "Choose one if eligible*: trial for at least 4 months and assess response"; if response is unclear, "Extend trial to 6–12 months"; if inadequate, "STOP add-on" and "Consider switching to a different Type 2-targeted therapy, if eligible". A footnote advises: "Check local eligibility criteria for specific biologic therapies as these may vary from those listed".
 
 ---
 
-### Global strategy for asthma management and prevention [^cb2acaa1]. GINA (2025). High credibility.
+### Global strategy for asthma management and prevention [^116CCrrU]. GINA (2025). High credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, GINA 2025 guidelines recommend to offer the following add-on biologic therapy options in patients with uncontrolled severe asthma despite optimized maximal therapy:
 
@@ -861,25 +861,25 @@ Regarding medical management for asthma, more specifically with respect to biolo
 
 ---
 
-### Global strategy for asthma management and prevention [^fe009ab0]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^117Va4MM]. GINA (2024). High credibility.
 
 Asthma Type 2 inflammation — refractory or underlying indicators during high-dose inhaled corticosteroids (ICS) or daily oral corticosteroids (OCS) should be considered as follows: The possibility of refractory Type 2 inflammation should be considered if any of the following are found while the patient is taking high-dose ICS or daily OCS: blood eosinophils ≥ 150/μL, and/or FeNO (fractional exhaled nitric oxide) ≥ 20 ppb, and/or sputum eosinophils ≥ 2%, and/or asthma is clinically allergen-driven. The above are suggested for initial assessment; those for blood eosinophils and FeNO are based on the lowest levels associated with response to some biologics, and they are not the criteria for eligibility for Type 2-targeted biologic therapy, which may differ.
 
 ---
 
-### Global strategy for asthma management and prevention [^d85da68e]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^116XmnLD]. GINA (2024). High credibility.
 
 Type 2-targeted biologic therapies — add-on treatment selection and administration in severe asthma — If available and affordable, consider an add-on Type 2 targeted biologic for patients with exacerbations and/or poor symptom control despite taking at least high-dose ICS-LABA, and who have allergic or eosinophilic biomarkers or need maintenance OCS; where relevant, test for parasitic infection and treat if present before commencing treatment. Consider whether to start first with anti-IgE, anti-IL5/5Rα, anti-IL4Rα or anti-TSLP, and when choosing between available therapies consider local payer eligibility criteria, Type 2 comorbidities such as atopic dermatitis and nasal polyps, predictors of asthma response, cost, dosing frequency, delivery route (IV or SC; potential for self-administration), and patient preference. Always check local payer eligibility criteria for biologic therapy, as they may vary substantially; however, GINA recommends the use of biologic therapy only for patients with severe asthma, and only after treatment has been optimized, and for any biologic therapy, ensure that the manufacturer's and/or regulator's instructions for storage, administration and the duration of monitoring post-administration are followed. Provide the patient with advice about what to do if they experience any adverse effects, including hypersensitivity reactions, noting that omalizumab injections contain polysorbate which may induce allergic reactions in some patients; GINA suggests that the first dose of asthma biologic therapy should not be given on the same day as a vaccine such as for COVID-19 so that adverse effects of either can be more easily distinguished, and provide practical advice such as allowing the refrigerated syringe or pen to come to room temperature before injecting to reduce pain. There is an urgent need for head-to-head comparisons of different biologics in patients eligible for more than one biologic.
 
 ---
 
-### Global strategy for asthma management and prevention [^6625c82f]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^113cSRoC]. GINA (2024). High credibility.
 
 Add-on biologic therapy — children 6–11 years with uncontrolled severe asthma: "Options recommended by GINA for children aged 6–11 years with uncontrolled severe asthma despite optimized maximal therapy include" "Add-on anti-immunoglobulin E (anti-IgE) (omalizumab) for patients aged ≥ 6 years with severe allergic asthma (Evidence A)", "Add-on anti-interleukin-5/5Rα (subcutaneous mepolizumab for patients aged ≥ 6 years with severe eosinophilic asthma (Evidence A)", and "Add-on anti-interleukin-4Rα (subcutaneous dupilumab) for patients aged ≥ 6 years with severe eosinophilic/Type 2 asthma".
 
 ---
 
-### The GINA asthma strategy report: what's new for primary care? [^ac67696c]. NPJ Primary Care Respiratory Medicine (2015). Low credibility.
+### The GINA asthma strategy report: what's new for primary care? [^115Qbc6X]. NPJ Primary Care Respiratory Medicine (2015). Low credibility.
 
 6. Expanded indications for starting regular controller (preventer) treatment
 
@@ -895,7 +895,7 @@ A new feature in GINA relates to the asthma–COPD overlap syndrome. Past guidel
 
 ---
 
-### Anti-IL-5 therapies for asthma [^27d14bd4]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+### Anti-IL-5 therapies for asthma [^11222pQj]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
 
 Background
 
@@ -927,7 +927,7 @@ Overall this analysis supports the use of anti-IL-5 treatments as an adjunct to 
 
 ---
 
-### Long-term outcomes of combination biologic therapy in uncontrolled severe asthma: a case study [^de354e50]. The Journal of Asthma (2023). Medium credibility.
+### Long-term outcomes of combination biologic therapy in uncontrolled severe asthma: a case study [^116gSA3Z]. The Journal of Asthma (2023). Medium credibility.
 
 Introduction
 
@@ -947,19 +947,19 @@ Our experience indicates that Mepolizumab may be beneficial and safe as an add-o
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^91ce1270]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^114jARUB]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to monitor patients for allergic reactions following administration of anti-IL-5 therapies, for at least 1 hour.
 
 ---
 
-### Combination of allergen-specific immunotherapy with biologics in severe asthma: counterintuitive or rational? [^8a806c00]. The Journal of Allergy and Clinical Immunology: In Practice (2025). Medium credibility.
+### Combination of allergen-specific immunotherapy with biologics in severe asthma: counterintuitive or rational? [^114YLRkT]. The Journal of Allergy and Clinical Immunology: In Practice (2025). Medium credibility.
 
 Although numbers vary, most patients with severe asthma have eosinophilic asthma. Many of them have the allergic asthma endotype, particularly those with concomitant allergic rhinitis (AR). Allergen immunotherapy (AIT) is the only disease-modifying therapy offering long-term effectiveness for allergic respiratory disorders, including asthma, but it is contraindicated in patients with uncontrolled disease. Patients with severe asthma often have frequent exacerbations, making them poor candidates for AIT. However, after approximately 6 to 12 months on biologic therapy, many patients become exacerbation-free and obtain good symptom control and even improved lung function. Thus, in these patients, add-on AIT, subcutaneous or sublingual, is possible. Importantly, AIT could contribute to achieving clinical remission in severe asthma with biologic therapy, that even may be sustained after cessation of treatment. In a few landmark trials of AIT added to biologics (omalizumab, dupilumab, or tezepelumab), mechanisms were also studied, unveiling the additional benefit of these combinations in enhancing not only safety and tolerability, but possibly also efficacy. We present a summary of clinical trials combining immunotherapy with aeroallergens with biologic therapy in patients with respiratory allergy and discuss the cons and pros of AIT in patients with severe allergic asthma who received biological therapy, concluding that this combination could benefit many of these patients.
 
 ---
 
-### Early interventions with inhaled corticosteroids in asthma: benefits and risks [^fdbb2a95]. Current Opinion in Pulmonary Medicine (2011). Low credibility.
+### Early interventions with inhaled corticosteroids in asthma: benefits and risks [^117VAjbJ]. Current Opinion in Pulmonary Medicine (2011). Low credibility.
 
 Purpose Of Review
 
@@ -975,7 +975,7 @@ ICS is the most cost-effective initial treatment for both adults and children wi
 
 ---
 
-### Allergen immunotherapy for the prevention and treatment of asthma [^724a3e6b]. Clinical and Experimental Allergy (2025). Medium credibility.
+### Allergen immunotherapy for the prevention and treatment of asthma [^113vSXWi]. Clinical and Experimental Allergy (2025). Medium credibility.
 
 4.3 The Combination ofand Biological Therapies in Allergic Asthma
 
@@ -985,7 +985,7 @@ The combination of a biologics with AIT has already been evaluated as a treatmen
 
 ---
 
-### National asthma education and prevention program 2020 guideline update: where Do we Go from here? [^8766f2b5]. American Journal of Respiratory and Critical Care Medicine (2021). Medium credibility.
+### National asthma education and prevention program 2020 guideline update: where Do we Go from here? [^114Tjudn]. American Journal of Respiratory and Critical Care Medicine (2021). Medium credibility.
 
 What Is the Role of Asthma Biologics for Severe Asthma?
 
@@ -993,19 +993,19 @@ The Expert Panel acknowledges that there has been remarkable progress in our und
 
 ---
 
-### 2020 focused updates to the asthma management guidelines: a Report from the national asthma education and prevention program coordinating committee expert panel working group [^d085b2bb]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
+### 2020 focused updates to the asthma management guidelines: a Report from the national asthma education and prevention program coordinating committee expert panel working group [^116L9LGS]. The Journal of Allergy and Clinical Immunology (2020). High credibility.
 
 Fractional exhaled nitric oxide (FeNO) measurement — future research opportunities in asthma include clarifying its role in the diagnostic process, including which individuals with asthma aged 5 years and older should be tested; using FeNO testing to monitor adherence of children and adults to inhaled corticosteroids (ICSs) and other anti-inflammatory treatments; evaluating FeNO in children aged 0 to 5 years with wheezing or asthma-like symptoms to predict subsequent asthma diagnoses; assessing point-of-care FeNO to identify children who do not require oral corticosteroid therapy; FeNO-based asthma management in people with moderate to severe persistent asthma; potential uses for asthma management in primary care; impact of health disparities due to lack of health care coverage and cost-effectiveness in diverse populations and clinical settings; the role of FeNO testing in uncontrolled asthma to predict benefit of adding T2-directed biologic therapies; refinement and validation of FeNO cutoff levels for diagnostic purposes across determinants and groups; identification of algorithms combining objective measures (including FeNO levels, blood eosinophil levels, spirometry test results, short-acting beta2-agonist [SABA] use, and symptom scores) for choosing, monitoring, or adjusting anti-inflammatory therapy; and identifying populations most likely to benefit from FeNO-guided treatment and the optimal frequency of FeNO monitoring.
 
 ---
 
-### Global strategy for asthma management and prevention [^c2d88a1d]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^115ysLCc]. GINA (2024). High credibility.
 
 Add-on anti-IL5 or anti-IL5Rα for severe eosinophilic asthma — approvals, eligibility, and outcomes: Regulatory approvals may include for ages ≥ 12 years mepolizumab (anti-IL5), 100 mg by subcutaneous (SC) injection every 4 weeks, or benralizumab (anti-IL5 receptor α), 30 mg by SC injection every 4 weeks for 3 doses then every 8 weeks; for ages ≥ 18 years reslizumab (anti-IL5), 3 mg/kg by intravenous (IV) infusion every 4 weeks; and for ages 6–11 years mepolizumab (anti-IL5), 40 mg by SC injection every 4 weeks. Mechanistically, mepolizumab and reslizumab bind circulating IL-5, while benralizumab binds to the IL-5 receptor alpha subunit leading to apoptosis of eosinophils. Eligibility usually includes more than a specified number of severe exacerbations in the last year and blood eosinophils above locally specified levels (e.g., ≥ 150 or ≥ 300/μL). Meta-analysis of randomized controlled trials found anti-IL5 and anti-IL5Rα led to 47–54% reduction in severe exacerbations, and among patients taking oral corticosteroids, median OCS dose was able to be reduced by approximately 50% with mepolizumab or benralizumab compared with placebo. In urban children aged 6 years and older with eosinophilic exacerbation-prone asthma, a randomized controlled trial showed a reduction in the number of exacerbations with subcutaneous mepolizumab versus placebo, with no differences in lung function, composite asthma score (CASI), or physician–patient global assessment. Improvements in lung function and symptom control were statistically significant but less than clinically important differences, and there was a clinically important improvement in quality of life with mepolizumab. Potential predictors of good response include higher blood eosinophils (strongly predictive).
 
 ---
 
-### Long-term effectiveness of anti-IL-4R therapy following suboptimal response to anti-IL-5 / 5R therapy in severe eosinophilic asthma [^0b838f7b]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
+### Long-term effectiveness of anti-IL-4R therapy following suboptimal response to anti-IL-5 / 5R therapy in severe eosinophilic asthma [^111J5474]. The Journal of Allergy and Clinical Immunology: In Practice (2024). Medium credibility.
 
 Background
 
@@ -1029,7 +1029,7 @@ Significant improvements in clinical outcomes are possible after a switch to dup
 
 ---
 
-### Anti-IL5 therapies for asthma [^958d9610]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
+### Anti-IL5 therapies for asthma [^114piiK1]. The Cochrane Database of Systematic Reviews (2017). Low credibility.
 
 Background
 
@@ -1061,13 +1061,13 @@ Overall our study supports the use of anti-IL-5 treatments as an adjunct to stan
 
 ---
 
-### Effective management of severe asthma with biologic medications in adult patients: a literature review and international expert opinion [^b3249c73]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
+### Effective management of severe asthma with biologic medications in adult patients: a literature review and international expert opinion [^115ab5gn]. The Journal of Allergy and Clinical Immunology: In Practice (2022). Medium credibility.
 
 Severe asthma often remains uncontrolled despite effective treatments and evidence-based guidelines. A group of global experts in asthma and biologic medications from 9 countries considered the most relevant clinical variables to manage severe asthma in adult patients and guide treatment choice. The resulting recommendations address the investigation of biomarker levels (blood eosinophil count along with fractional concentration of exhaled nitric oxide [FeNO]), clinical features (oral corticosteroid [OCS] dependence, specific comorbid disease entities associated with severe type 2 asthma), and safety considerations. Current evidence suggests that biomarkers, including both blood or sputum eosinophil counts as well as FeNO, add prognostic and predictive value and should be measured in all patients with severe asthma. OCS use is an important factor in biologic selection, especially given the documented ability of some biologics to reduce OCS dependence. Comorbid diseases and relevant safety considerations to each biologic should also be considered. More data are needed to determine whether biomarker profiles identify patients suited to one biologic versus another as limited data support differential predictors of response. Further prospective head-to-head trials and post hoc analyses of clinical trial data are warranted. The authors believe that these recommendations have value as they offer expert opinion to assist health care providers in making difficult decisions regarding the quality of care in severe, type 2 asthma with biologic medications. They remain conditional and are based on limited data owing to a lack of head-to-head comparisons.
 
 ---
 
-### Response to omalizumab using patient enrichment criteria from trials of novel biologics in asthma [^9d7e2c59]. Allergy (2018). Low credibility.
+### Response to omalizumab using patient enrichment criteria from trials of novel biologics in asthma [^1152VSJC]. Allergy (2018). Low credibility.
 
 Background
 
@@ -1087,19 +1087,19 @@ In patients with allergic asthma, baseline blood eosinophil levels and/or clinic
 
 ---
 
-### Global strategy for asthma management and prevention [^271c5d70]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^111zz3aw]. GINA (2024). High credibility.
 
 Review response to an initial trial of add-on Type 2-targeted therapy — at present, there are no well-defined criteria for a good response; assess exacerbations, symptom control, lung function, side-effects, treatment intensity (including OCS dose), and patient satisfaction. If the response is unclear, consider extending the trial to 6–12 months. If there is no response, stop the biologic therapy and consider switching to a trial of a different Type 2-targeted therapy, if available and the patient is eligible, and also consider the patient's biomarkers and the response of comorbid Type 2 conditions such as atopic dermatitis or nasal polyps.
 
 ---
 
-### Unmet need in severe, uncontrolled asthma: can anti-TSLP therapy with tezepelumab provide a valuable new treatment option? [^8adb77f9]. Respiratory Research (2020). Medium credibility.
+### Unmet need in severe, uncontrolled asthma: can anti-TSLP therapy with tezepelumab provide a valuable new treatment option? [^114Ys1V2]. Respiratory Research (2020). Medium credibility.
 
 Currently available biologics for severe asthma comprise anti-IgE (omalizumab), anti-IL-5 (mepolizumab, reslizumab), anti-IL-5 receptor α (benralizumab) and anti-IL-4 receptor α (dupilumab, which blocks the IL-4 and IL-13 pathways) monoclonal antibodies. These therapies are generally indicated for patients with eosinophilic or allergic asthma phenotypes; to date, there are no approved biologic treatments for patients with confirmed eosinophil-low asthma (in the absence of eosinophil-lowering systemic corticosteroid therapy). In the pivotal studies of the currently approved biologics, exacerbation rates were reduced by 48–59% with the most efficacious dose regimen versus placebo. Improvements in lung function and symptom scores were inconsistent, with only some individuals experiencing clinically significant improvements. A possible explanation for this lack of complete efficacy may be that these biologics target individual, downstream elements of the asthma inflammatory response, leaving other components untreated. Targeting an upstream initiator and mediator of the inflammatory response may, therefore, have a broader effect on airway inflammation and provide more effective asthma control, including in patients with eosinophil-low phenotypes. One such potential target is thymic stromal lymphopoietin (TSLP).
 
 ---
 
-### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^00d7e020]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
+### Recognition and management of severe asthma: a Canadian Thoracic Society position statement [^1112FWbR]. Canadian Journal of Respiratory, Critical Care, and Sleep Medicine (2017). Medium credibility.
 
 Regarding medical management for asthma, more specifically with respect to biologic therapy, CTS 2017 guidelines recommend to consider offering omalizumab in ≥ 6 years old patients with severe asthma meeting the following criteria:
 
@@ -1111,19 +1111,19 @@ Regarding medical management for asthma, more specifically with respect to biolo
 
 ---
 
-### Global strategy for asthma management and prevention [^989c8108]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^114uFgnB]. GINA (2024). High credibility.
 
 Asthma remission on treatment — GINA notes extensive recent discussion in the context of biologic therapy for severe asthma, reports that several proposed definitions and criteria for operationalization have been published, and introduces a new section outlining a framework for clinical practice and research about clinical and complete (pathophysiological) remission in children and adults, both off-treatment and on-treatment; these perspectives should inform discussions with patients and parents/caregivers, and the concept aligns with the long-term goal of asthma treatment while individual patient goals should be achievable.
 
 ---
 
-### Global strategy for asthma management and prevention [^dbad7b86]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^116cgZRo]. GINA (2024). High credibility.
 
 Dupilumab (anti–IL4Rα) add-on for severe eosinophilic/Type 2 asthma or for patients requiring maintenance OCS — regulatory details, mechanism, eligibility, outcomes, predictors, and safety are summarized as follows: For ages ≥ 12 years, dupilumab 200 mg or 300 mg by SC injection every 2 weeks is listed for severe eosinophilic/Type 2 asthma, and 300 mg by SC injection every 2 weeks for OCS-dependent severe asthma or with concomitant moderate/severe atopic dermatitis; for children 6–11 years, dosing and frequency depend on weight, and self-administration may be an option. Mechanistically, dupilumab binds to interleukin-4 (IL-4) receptor alpha, blocking both IL-4 and IL-13 signaling. Eligibility criteria often include more than a specified number of severe exacerbations in the last year and Type 2 biomarkers above specified levels, such as blood eosinophils ≥ 150/μL and ≤ 1500/μL or FeNO ≥ 25 ppb, or a requirement for maintenance OCS. In a meta-analysis of RCTs in uncontrolled severe asthma (ACQ-5 ≥ 1.5) and ≥ 1 exacerbation in the last year, anti-IL4Rα led to 56% reduction in severe exacerbations; in OCS-dependent severe asthma, the median reduction in OCS dose versus placebo was 50%, and changes were maintained through 2 years of follow-up. In children 6–11 years with eosinophilic/Type 2 asthma, dupilumab reduced severe exacerbation rate and increased lung function; in patients with chronic rhinosinusitis with nasal polyps, dupilumab reduced polyp size, improved nasal symptoms, and reduced the need for OCS or sinus surgery. Potential predictors of good asthma response to dupilumab include higher blood eosinophils (strongly predictive) and higher FeNO (strongly predictive). Adverse effects include injection-site reactions and transient blood eosinophilia (occurs in 4–13% of patients); rare cases of eosinophilic granulomatosis with polyangiitis (EGPA) may be unmasked following reduction/cessation of OCS, and anti-IL4Rα is not suggested for patients with baseline or historic blood eosinophils > 1,500 cells/μL. Suggested initial trial is at least 4 months.
 
 ---
 
-### Biologic therapies for severe asthma | NEJM resident 360… [^c6f37d21]. resident360.nejm.org (2025). Medium credibility.
+### Biologic therapies for severe asthma | NEJM resident 360… [^1165xLLp]. resident360.nejm.org (2025). Medium credibility.
 
 A: Severe asthma is heterogeneous biologically, with distinct patterns of airway inflammation defined by the predominant granulocyte in sputum or bronchial biopsy specimens and often identified by means of blood or exhaled-breath biomarkers. Type 2 high-inflammation asthma is characterized by eosinophilic airway inflammation, which is associated with increased blood eosinophil counts or elevations of fractional exhaled nitric oxide, whereas type 2 low-inflammation asthma encompasses neutrophilic asthma and paucigranulocytic asthma. A: Type 2 cytokines include interleukin-5, interleukin-4, and interleukin-13. Interleukin-5 promotes proliferation, differentiation, activation, and survival of eosinophils. The numbers of eosinophils in peripheral blood, bronchoalveolar lavage fluid, and bronchial biopsy specimens directly correlate with the severity of asthma. Interleukin-4 and interleukin-13, which share interleukin-4 receptor α, have many overlapping functions.
 
@@ -1133,7 +1133,7 @@ Benralizumab significantly reduced the median oral glucocorticoid dose from base
 
 ---
 
-### Effectiveness of benralizumab in severe eosinophilic asthma: distinct sub-phenotypes of response identified by cluster analysis [^c2696e58]. Clinical and Experimental Allergy (2022). Medium credibility.
+### Effectiveness of benralizumab in severe eosinophilic asthma: distinct sub-phenotypes of response identified by cluster analysis [^115yE1dh]. Clinical and Experimental Allergy (2022). Medium credibility.
 
 1 INTRODUCTION
 
@@ -1147,7 +1147,7 @@ In this multi‐centre, observational, retrospective study, by cluster analysis,
 
 ---
 
-### Biologics for asthma and allergic skin diseases in children… [^1246e0e2]. publications.aap.org (2021). Medium credibility.
+### Biologics for asthma and allergic skin diseases in children… [^111U6aty]. publications.aap.org (2021). Medium credibility.
 
 10 and evaluated outcomes at baseline and after initiation of omalizumab add-on treatment. In week 52 versus baseline, control improved to good control in 67% of participants. Exacerbations were reduced by 72% and hospitalizations were reduced by 89% in the first year of therapy. FEV 1 increased by 4. 9%, and there was a 30% reduction in mean ICS dose. A secondary analysis of the DREAM and MENSA studies revealed a "close relationship between baseline blood eosinophil levels and clinical efficacy of mepolizumab, " with efficacy highest in those with eosinophil concentrations of at least 150 cells/μL, with one pooled analysis showing treatment-associated exacerbation rate reductions increasing from a 26% rate reduction in those with < 150 eosinophils/μL to a 70% rate reduction in those with > 500 eosinophils/μL.
 
@@ -1157,7 +1157,7 @@ Similarly, in the SIROCCO study, researchers evaluated 1204 participants 12 to 7
 
 ---
 
-### Anti-IL-5 and anti-IL-5R biologics for severe asthma. are there any differences in their effects? [^00d524b2]. The Journal of Asthma (2024). Medium credibility.
+### Anti-IL-5 and anti-IL-5R biologics for severe asthma. are there any differences in their effects? [^1112EbNH]. The Journal of Asthma (2024). Medium credibility.
 
 Objective
 
@@ -1177,13 +1177,13 @@ The anti-IL-5 and anti-IL-5Rα biologics have shown similar effectiveness despit
 
 ---
 
-### Targeting the IL-5 pathway in eosinophilic asthma: a comparison of anti-IL-5 versus anti-IL-5 receptor agents [^a986252a]. Allergy (2024). Medium credibility.
+### Targeting the IL-5 pathway in eosinophilic asthma: a comparison of anti-IL-5 versus anti-IL-5 receptor agents [^115LKxz5]. Allergy (2024). Medium credibility.
 
 Eosinophilic asthma is characterized by frequent exacerbations, poor symptom control and accelerated lung function decline. It is now recognized that the immune response underlying eosinophilic asthma involves a complex network of interconnected pathways from both the adaptive and innate immune systems. Within this response, interleukin-5 (IL-5) plays a central role in eosinophil differentiation, activation and survival and has emerged as a key target for therapies treating severe asthma. The monoclonal antibodies mepolizumab and reslizumab target the ligand IL-5, preventing its interaction with eosinophils; in contrast, benralizumab binds to the IL-5 receptor (IL-5R), preventing IL-5 from binding and leading to substantially greater eosinophil reduction by enhanced antibody-dependent cell-mediated cytotoxicity. Although no direct head-to-head clinical trials of asthma have been published to formally evaluate the clinical significance of these different therapeutic approaches, the potential benefits of partial versus complete eosinophil depletion continue to remain an important area of study and debate. Here, we review the existing real-world and clinical study data of anti-IL-5/anti-IL-5R therapies in severe eosinophilic asthma.
 
 ---
 
-### Response to omalizumab using patient enrichment criteria from trials of novel biologics in asthma [^7975bc88]. Allergy (2018). Low credibility.
+### Response to omalizumab using patient enrichment criteria from trials of novel biologics in asthma [^114753no]. Allergy (2018). Low credibility.
 
 The treatment effects of the various biologic agents in patient populations not enriched by these clinical markers of severity have yet to be elucidated. However, a recent 24‐week trial of dupilumab in 776 patients who were included without enrichment for eosinophil levels (but were required to have ≥ 1 systemic corticosteroid burst therapy or ≥ 1 hospital admission or emergency department/urgent care visit that required systemic steroids in the previous year) showed that the subgroup of patients with baseline eosinophil count < 300/μL who received dupilumab 200 mg or 300 mg every 2 weeks had exacerbation risk reductions vs placebo of 67.6% (P = 0.0081) and 59.9% (P = 0.0152), respectively. 27
 

@@ -15,47 +15,47 @@ butrans
 
 > Let's see… What do we have here? The user is asking about Butrans (buprenorphine transdermal system). Let's break this down step-by-step. First, I need to think about the drug identity and pharmacologic class. Then, I should verify the FDA-labeled indication and limitations of use. Next, I will review pharmacokinetics and formulation details. After that, I need to examine efficacy data from pivotal trials. I will then assess safety, boxed warnings, and special populations. Finally, I should consider practical prescribing, titration, discontinuation, and how Butrans fits within the broader opioid stewardship landscape, before summarizing a balanced clinical take-home message.
 
-> Let me first confirm the drug identity and class. Butrans is a transdermal buprenorphine system delivering 5, 7.5, 10, 15, or 20 mcg/hour over 7 days; buprenorphine is a partial mu-opioid receptor agonist with high receptor affinity and a ceiling effect on respiratory depression, which informs its risk–benefit profile compared with full agonists [^5a00a151].
+> Let me first confirm the drug identity and class. Butrans is a transdermal buprenorphine system delivering 5, 7.5, 10, 15, or 20 mcg/hour over 7 days; buprenorphine is a partial mu-opioid receptor agonist with high receptor affinity and a ceiling effect on respiratory depression, which informs its risk–benefit profile compared with full agonists [^113JS6e4].
 
-> I need to verify the labeled indication and limitations. Butrans is indicated for the management of severe and persistent pain that requires daily, around-the-clock, long-term opioid treatment and for which alternative options are inadequate; it is not indicated for as-needed (PRN) analgesia, and prescribers should reserve it for patients in whom non-opioid or immediate-release opioids are ineffective, not tolerated, or otherwise inadequate, given addiction, abuse, and overdose risks inherent to extended-release opioids [^f456b5ce] [^5893191f].
+> I need to verify the labeled indication and limitations. Butrans is indicated for the management of severe and persistent pain that requires daily, around-the-clock, long-term opioid treatment and for which alternative options are inadequate; it is not indicated for as-needed (PRN) analgesia, and prescribers should reserve it for patients in whom non-opioid or immediate-release opioids are ineffective, not tolerated, or otherwise inadequate, given addiction, abuse, and overdose risks inherent to extended-release opioids [^117FF71f] [^113GKKW6].
 
-> Next, I should review pharmacokinetics and formulation specifics. Steady-state plasma concentrations are typically achieved within about 48–72 hours of the first application, supporting once-weekly dosing; absolute bioavailability is approximately 15% relative to IV administration, and dose-proportional exposure is observed across 5–20 mcg/hour. Application sites include the upper outer arm, upper chest, upper back, or side of chest, with rotation among eight possible sites and a minimum 21-day interval before reusing a site [^094d3ba0] [^73bf5d72].
+> Next, I should review pharmacokinetics and formulation specifics. Steady-state plasma concentrations are typically achieved within about 48–72 hours of the first application, supporting once-weekly dosing; absolute bioavailability is approximately 15% relative to IV administration, and dose-proportional exposure is observed across 5–20 mcg/hour. Application sites include the upper outer arm, upper chest, upper back, or side of chest, with rotation among eight possible sites and a minimum 21-day interval before reusing a site [^111Enq9y] [^113xbrVw].
 
-> Hold on, let's not jump to conclusions about efficacy without checking the pivotal trials. In opioid-naïve chronic low back pain, a 12-week randomized, double-blind trial showed Butrans 20 mcg/hour significantly reduced average pain versus placebo, with a higher proportion achieving at least a 30% pain reduction; completion rates were 66% with Butrans vs 70% with placebo, and discontinuations were balanced between lack of efficacy and adverse events, which supports clinically meaningful benefit in selected patients [^4d9268d1]. In opioid-experienced patients with chronic low back pain, a dose-ranging study demonstrated that 20 mcg/hour outperformed 5 mcg/hour on pain endpoints, reinforcing dose–response within the labeled range; however, two other 12-week controlled studies in low back pain and osteoarthritis did not show statistically significant benefit, underscoring heterogeneity of response and the need for careful patient selection and titration [^49d19647] [^3a21986a].
+> Hold on, let's not jump to conclusions about efficacy without checking the pivotal trials. In opioid-naïve chronic low back pain, a 12-week randomized, double-blind trial showed Butrans 20 mcg/hour significantly reduced average pain versus placebo, with a higher proportion achieving at least a 30% pain reduction; completion rates were 66% with Butrans vs 70% with placebo, and discontinuations were balanced between lack of efficacy and adverse events, which supports clinically meaningful benefit in selected patients [^112z1Dz8]. In opioid-experienced patients with chronic low back pain, a dose-ranging study demonstrated that 20 mcg/hour outperformed 5 mcg/hour on pain endpoints, reinforcing dose–response within the labeled range; however, two other 12-week controlled studies in low back pain and osteoarthritis did not show statistically significant benefit, underscoring heterogeneity of response and the need for careful patient selection and titration [^112tSVf4] [^112VBZqT].
 
-> I should double-check safety and boxed warnings. Like all opioids, Butrans carries risks of addiction, abuse, and misuse; prescribers must assess risk pre-prescription and monitor ongoingly, and consider naloxone for overdose risk mitigation. Respiratory depression can occur, especially at initiation and dose increases, and is more likely in elderly, cachectic, or those with chronic pulmonary disease; there is a ceiling effect on respiratory depression, but it is not absolute, particularly with CNS co-medications. Butrans is contraindicated in patients with acute or severe bronchial asthma without resuscitative equipment, and QT prolongation has been observed at 40 mcg/hour (two 20 mcg/hour patches), so the maximum recommended dose is 20 mcg/hour; severe application-site reactions, including vesiculation, have been reported rarely and warrant prompt discontinuation if they occur [^6c259c8e] [^8ea276ff] [^b3982d7b] [^dd39e792] [^651737f0].
+> I should double-check safety and boxed warnings. Like all opioids, Butrans carries risks of addiction, abuse, and misuse; prescribers must assess risk pre-prescription and monitor ongoingly, and consider naloxone for overdose risk mitigation. Respiratory depression can occur, especially at initiation and dose increases, and is more likely in elderly, cachectic, or those with chronic pulmonary disease; there is a ceiling effect on respiratory depression, but it is not absolute, particularly with CNS co-medications. Butrans is contraindicated in patients with acute or severe bronchial asthma without resuscitative equipment, and QT prolongation has been observed at 40 mcg/hour (two 20 mcg/hour patches), so the maximum recommended dose is 20 mcg/hour; severe application-site reactions, including vesiculation, have been reported rarely and warrant prompt discontinuation if they occur [^113mLJAh] [^114eTp62] [^115bFu6z] [^116eyiMP] [^113asYo9].
 
-> Let me consider special populations and drug–drug interactions. In hepatic impairment, start at 5 mcg/hour and monitor closely; Butrans has not been studied in severe hepatic impairment, so consider alternatives. In renal impairment, dose reduction by 25–50% is advised when eGFR is less than 10 mL/min/1.73 m² or in dialysis, whereas no adjustment is generally needed for eGFR 20–50. In pregnancy, use only if benefits outweigh risks and monitor for neonatal opioid withdrawal syndrome. Concomitant use with full mu-agonists can precipitate withdrawal or blunt analgesia, so avoid overlap when possible; if breakthrough pain occurs, consider non-opioid or carefully selected short-acting opioids with caution, recognizing pharmacologic complexity [^0a52f685] [^72f9cdea] [^b85e4916] [^a2b990fe] [^1705564e] [^c84e9298].
+> Let me consider special populations and drug–drug interactions. In hepatic impairment, start at 5 mcg/hour and monitor closely; Butrans has not been studied in severe hepatic impairment, so consider alternatives. In renal impairment, dose reduction by 25–50% is advised when eGFR is less than 10 mL/min/1.73 m² or in dialysis, whereas no adjustment is generally needed for eGFR 20–50. In pregnancy, use only if benefits outweigh risks and monitor for neonatal opioid withdrawal syndrome. Concomitant use with full mu-agonists can precipitate withdrawal or blunt analgesia, so avoid overlap when possible; if breakthrough pain occurs, consider non-opioid or carefully selected short-acting opioids with caution, recognizing pharmacologic complexity [^111GJk4t] [^113wTVi1] [^115iLPgZ] [^115AFKn5] [^111b8WTX] [^1167xv5d].
 
-> I will now examine practical prescribing and titration. For opioid-naïve patients, start at 5 mcg/hour; for opioid-experienced patients, taper existing around-the-clock opioids to 30 mg/day or less of oral morphine equivalents before initiating, then start at 10 mcg/hour if tolerated; titrate every 72 hours to effect, using no more than two patches to a maximum of 20 mcg/hour; rotate application sites and avoid heat exposure that can increase absorption; if the patch falls off, replace at a new site and resume the 7-day schedule [^28e1b8ae] [^b3982d7b] [^73bf5d72] [^dd39e792].
+> I will now examine practical prescribing and titration. For opioid-naïve patients, start at 5 mcg/hour; for opioid-experienced patients, taper existing around-the-clock opioids to 30 mg/day or less of oral morphine equivalents before initiating, then start at 10 mcg/hour if tolerated; titrate every 72 hours to effect, using no more than two patches to a maximum of 20 mcg/hour; rotate application sites and avoid heat exposure that can increase absorption; if the patch falls off, replace at a new site and resume the 7-day schedule [^1123cKgR] [^115bFu6z] [^113xbrVw] [^116eyiMP].
 
-> Wait, let me verify discontinuation guidance. Do not abruptly stop Butrans in physically dependent patients; taper by about 10–25% of the total opioid dose every 2–4 weeks, pausing or slowing if withdrawal or pain flares emerge, and coordinate a multimodal pain plan during the taper to maintain function and safety [^71c3bdc9] [^ceabe6be].
+> Wait, let me verify discontinuation guidance. Do not abruptly stop Butrans in physically dependent patients; taper by about 10–25% of the total opioid dose every 2–4 weeks, pausing or slowing if withdrawal or pain flares emerge, and coordinate a multimodal pain plan during the taper to maintain function and safety [^113ufMCC] [^116HQBxh].
 
-> Next, I should review how Butrans fits within opioid stewardship and access realities. Butrans is Schedule III, which some clinicians view as advantageous for patients at higher risk of misuse or respiratory compromise, yet payer coverage often requires failure of multiple Schedule II opioids first, limiting access despite potential safety benefits; nonetheless, emerging data and expert guidance support considering buprenorphine earlier for chronic pain when opioids are indicated, particularly in patients with elevated overdose risk or comorbidities that amplify opioid-related harms [^eae9d735] [^5a00a151] [^2f480339].
+> Next, I should review how Butrans fits within opioid stewardship and access realities. Butrans is Schedule III, which some clinicians view as advantageous for patients at higher risk of misuse or respiratory compromise, yet payer coverage often requires failure of multiple Schedule II opioids first, limiting access despite potential safety benefits; nonetheless, emerging data and expert guidance support considering buprenorphine earlier for chronic pain when opioids are indicated, particularly in patients with elevated overdose risk or comorbidities that amplify opioid-related harms [^1171GeXW] [^113JS6e4] [^112D6cAU].
 
-> But wait, what if the patient presents with acute pain or needs surgery? Transdermal buprenorphine has a slow onset and is not ideal for rapid titration or short-duration pain; in perioperative or acute settings, plan ahead for analgesic gaps and consider non-opioid multimodal regimens or carefully selected short-acting agents, recognizing the pharmacologic ceiling and receptor interactions that complicate rescue strategies [^144f7853] [^84553104].
+> But wait, what if the patient presents with acute pain or needs surgery? Transdermal buprenorphine has a slow onset and is not ideal for rapid titration or short-duration pain; in perioperative or acute settings, plan ahead for analgesic gaps and consider non-opioid multimodal regimens or carefully selected short-acting agents, recognizing the pharmacologic ceiling and receptor interactions that complicate rescue strategies [^111X7SqY] [^114PBys1].
 
-> Let me reconsider the overall clinical take-home. Butrans offers a once-weekly, partial agonist opioid option with predictable PK, a ceiling on respiratory depression, and randomized trial evidence of analgesic benefit in selected chronic low back pain populations; however, response is heterogeneous, adverse effects including nausea and application-site reactions occur, and rigorous risk assessment, dose titration, and monitoring are essential. It is best reserved for patients with severe, persistent pain inadequately managed by non-opioid therapies or immediate-release opioids, and should be integrated with functional goals and a multimodal plan rather than used as monotherapy [^f456b5ce] [^4d9268d1] [^49d19647] [^5a00a151].
+> Let me reconsider the overall clinical take-home. Butrans offers a once-weekly, partial agonist opioid option with predictable PK, a ceiling on respiratory depression, and randomized trial evidence of analgesic benefit in selected chronic low back pain populations; however, response is heterogeneous, adverse effects including nausea and application-site reactions occur, and rigorous risk assessment, dose titration, and monitoring are essential. It is best reserved for patients with severe, persistent pain inadequately managed by non-opioid therapies or immediate-release opioids, and should be integrated with functional goals and a multimodal plan rather than used as monotherapy [^117FF71f] [^112z1Dz8] [^112tSVf4] [^113JS6e4].
 
 ---
 
-Butrans (buprenorphine transdermal system) is a **partial opioid agonist patch** for moderate-to-severe chronic pain requiring continuous, around-the-clock opioid therapy when alternatives are inadequate [^f456b5ce]. It provides **7-day analgesia** with a ceiling effect on respiratory depression, lowering overdose risk compared to full agonists [^5a00a151]. Common adverse effects include nausea, constipation, headache, and application-site reactions; serious risks include respiratory depression, QT prolongation, and misuse [^c4f300e0] [^651737f0] [^6c259c8e]. Start at 5 mcg/h (opioid-naive) or 10 mcg/h (opioid-experienced), titrate every 3 days to a max of 20 mcg/h, and rotate sites to avoid skin irritation [^28e1b8ae] [^b3982d7b] [^73bf5d72]. Use caution with hepatic impairment, CNS depressants, and in pregnancy; taper slowly to avoid withdrawal [^0a52f685] [^5a00a151] [^71c3bdc9].
+Butrans (buprenorphine transdermal system) is a **partial opioid agonist patch** for moderate-to-severe chronic pain requiring continuous, around-the-clock opioid therapy when alternatives are inadequate [^117FF71f]. It provides **7-day analgesia** with a ceiling effect on respiratory depression, lowering overdose risk compared to full agonists [^113JS6e4]. Common adverse effects include nausea, constipation, headache, and application-site reactions; serious risks include respiratory depression, QT prolongation, and misuse [^1162zCKh] [^113asYo9] [^113mLJAh]. Start at 5 mcg/h (opioid-naive) or 10 mcg/h (opioid-experienced), titrate every 3 days to a max of 20 mcg/h, and rotate sites to avoid skin irritation [^1123cKgR] [^115bFu6z] [^113xbrVw]. Use caution with hepatic impairment, CNS depressants, and in pregnancy; taper slowly to avoid withdrawal [^111GJk4t] [^113JS6e4] [^113ufMCC].
 
 ---
 
 ## Pharmacological properties
 
-- **Mechanism of action**: Partial agonist at mu-opioid receptors with high affinity and slow dissociation, providing sustained analgesia and a ceiling on respiratory depression [^5a00a151].
+- **Mechanism of action**: Partial agonist at mu-opioid receptors with high affinity and slow dissociation, providing sustained analgesia and a ceiling on respiratory depression [^113JS6e4].
 
-- **Pharmacokinetics**: Steady state by day 3; ~15% bioavailability; 7-day duration; dose-proportional exposure [^094d3ba0].
+- **Pharmacokinetics**: Steady state by day 3; ~15% bioavailability; 7-day duration; dose-proportional exposure [^111Enq9y].
 
-- **Ceiling effect**: Respiratory depression plateaus at higher doses, reducing overdose risk versus full agonists [^5a00a151].
+- **Ceiling effect**: Respiratory depression plateaus at higher doses, reducing overdose risk versus full agonists [^113JS6e4].
 
 ---
 
 ## Clinical indications and efficacy
 
-Indicated for **severe, persistent pain requiring daily, long-term opioid therapy** when alternatives are inadequate [^f456b5ce]. Trials show significant pain reduction versus placebo in chronic low back pain and osteoarthritis, with 49% achieving ≥ 30% pain reduction at 20 mcg/h [^4d9268d1] [^49d19647].
+Indicated for **severe, persistent pain requiring daily, long-term opioid therapy** when alternatives are inadequate [^117FF71f]. Trials show significant pain reduction versus placebo in chronic low back pain and osteoarthritis, with 49% achieving ≥ 30% pain reduction at 20 mcg/h [^112z1Dz8] [^112tSVf4].
 
 ---
 
@@ -68,33 +68,33 @@ Indicated for **severe, persistent pain requiring daily, long-term opioid therap
 
 ---
 
-Apply to a **hairless site** on the upper outer arm, upper chest, upper back, or side of chest; rotate sites and wait ≥ 21 days before reusing a site [^73bf5d72]. Avoid heat, which can increase absorption and cause overdose [^dd39e792].
+Apply to a **hairless site** on the upper outer arm, upper chest, upper back, or side of chest; rotate sites and wait ≥ 21 days before reusing a site [^113xbrVw]. Avoid heat, which can increase absorption and cause overdose [^116eyiMP].
 
 ---
 
 ## Safety profile and adverse effects
 
-Common adverse effects include nausea, constipation, headache, dizziness, somnolence, and application-site reactions [^c4f300e0]. Serious adverse effects include **respiratory depression** (especially with CNS depressants or in elderly/debilitated patients), **QT prolongation** at 40 mcg/h, and **misuse/addiction** (monitor at-risk patients) [^8ea276ff] [^651737f0] [^6c259c8e].
+Common adverse effects include nausea, constipation, headache, dizziness, somnolence, and application-site reactions [^1162zCKh]. Serious adverse effects include **respiratory depression** (especially with CNS depressants or in elderly/debilitated patients), **QT prolongation** at 40 mcg/h, and **misuse/addiction** (monitor at-risk patients) [^114eTp62] [^113asYo9] [^113mLJAh].
 
 ---
 
 ## Contraindications and precautions
 
-Contraindications include **severe respiratory depression**, **acute or severe bronchial asthma**, **paralytic ileus**, or **hypersensitivity to buprenorphine** [^8ea276ff]. Use caution in hepatic impairment (start low, monitor), renal impairment (dose reduce if eGFR < 10), and pregnancy (monitor for neonatal withdrawal) [^0a52f685] [^72f9cdea] [^a2b990fe].
+Contraindications include **severe respiratory depression**, **acute or severe bronchial asthma**, **paralytic ileus**, or **hypersensitivity to buprenorphine** [^114eTp62]. Use caution in hepatic impairment (start low, monitor), renal impairment (dose reduce if eGFR < 10), and pregnancy (monitor for neonatal withdrawal) [^111GJk4t] [^113wTVi1] [^115AFKn5].
 
 ---
 
 ## Drug interactions
 
-CNS depressants (benzodiazepines, alcohol, sedatives) increase **respiratory depression risk**; avoid or use the lowest effective doses with close monitoring [^5a00a151]. CYP3A4 inhibitors (e.g. ketoconazole) can increase buprenorphine levels; CYP3A4 inducers (e.g. rifampin) can decrease them.
+CNS depressants (benzodiazepines, alcohol, sedatives) increase **respiratory depression risk**; avoid or use the lowest effective doses with close monitoring [^113JS6e4]. CYP3A4 inhibitors (e.g. ketoconazole) can increase buprenorphine levels; CYP3A4 inducers (e.g. rifampin) can decrease them.
 
 ---
 
 ## Clinical considerations and patient counseling
 
-- **Withdrawal**: Taper slowly (≤ 10–25% every 2–4 weeks) to avoid withdrawal and rebound pain [^ceabe6be].
+- **Withdrawal**: Taper slowly (≤ 10–25% every 2–4 weeks) to avoid withdrawal and rebound pain [^116HQBxh].
 
-- **Breakthrough pain**: Use short-acting non-opioids or carefully selected opioids if needed [^c84e9298].
+- **Breakthrough pain**: Use short-acting non-opioids or carefully selected opioids if needed [^1167xv5d].
 
 - **Storage/disposal**: Keep secure; fold used patches in half and flush or use a take-back program [^notfound].
 
@@ -106,7 +106,7 @@ Butrans is a **partial agonist transdermal opioid** for chronic pain with a favo
 
 ## References
 
-### Buprenorphine (Butrans) [^3a21986a]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^112VBZqT]. FDA (2024). Medium credibility.
 
 14 CLINICAL STUDIES
 
@@ -118,7 +118,7 @@ A total of 1,024 patients with chronic low back pain who were suboptimally respo
 
 ---
 
-### Buprenorphine (Butrans) [^f456b5ce]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^117FF71f]. FDA (2024). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -138,7 +138,7 @@ BUTRANS is not indicated as an as-needed (prn) analgesic.
 
 ---
 
-### Buprenorphine (Butrans) [^28e1b8ae]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^1123cKgR]. FDA (2024). Medium credibility.
 
 2.3 Initial Dosage
 
@@ -166,7 +166,7 @@ Regular evaluation is of particular importance when converting from methadone to
 
 ---
 
-### Buprenorphine (Butrans) [^6c259c8e]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^113mLJAh]. FDA (2024). Medium credibility.
 
 5.1 Addiction, Abuse, and Misuse
 
@@ -182,7 +182,7 @@ Opioids are sought for nonmedical use and are subject to diversion from legitima
 
 ---
 
-### Buprenorphine (Butrans) [^5893191f]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^113GKKW6]. FDA (2024). Medium credibility.
 
 2.1 Important Dosage and Administration Information
 
@@ -198,7 +198,7 @@ BUTRANS is for transdermal use (on intact skin) only. Each BUTRANS patch is inte
 
 ---
 
-### Buprenorphine hydrochloride [^72f9cdea]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^113wTVi1]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR < 10 mL/min/1.73 m²:
 - Avoid high doses.
@@ -206,7 +206,7 @@ Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^5d40bdd8]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^113PFbUb]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR 20–50 mL/min/1.73 m²:
 - Use acceptable.
@@ -214,7 +214,7 @@ Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^f88dadbd]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^117MVX1e]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with intermittent hemodialysis:
 
@@ -222,7 +222,7 @@ Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^2d7986fe]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^112ARGE1]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with continuous renal replacement:
 
@@ -231,13 +231,13 @@ Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^0629b2c0]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^111A8w3D]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in pregnant patients for all trimesters: use only if benefits outweigh potential risks. Evidence of fetal harm in humans. Monitor for neonatal opioid withdrawal syndrome. The benefits of pharmacotherapy for opioid use disorder during pregnancy may outweigh the risks of untreated opioid use disorder. Dose adjustments of buprenorphine may be required during pregnancy. The drug buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) is classified under category C in the Australian categorisation system for prescribing medicines in pregnancy. This drug, owing to its pharmacological effects, has caused or may be suspected of causing harmful effects on the human fetus or neonate, without causing malformations. These effects may be reversible.
 
 ---
 
-### Buprenorphine hydrochloride [^21d527e8]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^111sABuq]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with peritoneal dialysis:
 
@@ -245,14 +245,14 @@ Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^7e90487d]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^114EduNU]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR 10–20 mL/min/1.73 m²:
 - Use with caution. Avoid high doses.
 
 ---
 
-### Buprenorphine (Butrans) [^71c3bdc9]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^113ufMCC]. FDA (2024). Medium credibility.
 
 2.5 Safe Reduction or Discontinuation of BUTRANS
 
@@ -262,7 +262,7 @@ When a decision has been made to decrease the dose or discontinue therapy in an 
 
 ---
 
-### Buprenorphine (Butrans) [^c84e9298]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^1167xv5d]. FDA (2024). Medium credibility.
 
 Patients who experience breakthrough pain may require dosage adjustment increase of BUTRANS, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 
@@ -272,7 +272,7 @@ Because steady-state plasma concentrations are achieved within 72 hours, BUTRANS
 
 ---
 
-### Buprenorphine (Butrans) [^a6bafd28]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^115GBkco]. FDA (2024). Medium credibility.
 
 Labeled indications for Buprenorphine (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include:
 
@@ -280,7 +280,7 @@ Labeled indications for Buprenorphine (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^b3982d7b]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^115bFu6z]. FDA (2024). Medium credibility.
 
 2.4 Titration and Maintenance of Therapy
 
@@ -292,7 +292,7 @@ The maximum BUTRANS dose is 20 mcg/hour. Do not exceed a dose of one 20 mcg/hour
 
 ---
 
-### Buprenorphine (Butrans) [^49d19647]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^112tSVf4]. FDA (2024). Medium credibility.
 
 Of the patients who were able to be randomized in the double-blind period, the mean pain (SE) NRS scores were 6.4 (0.08) and 6.5 (0.08) at screening and were 2.8 (0.08) and 2.9 (0.08) at pre-randomization (beginning of Double-Blind Period) for the BUTRANS 5 mcg/hour and BUTRANS 20 mcg/hour, respectively.
 
@@ -302,7 +302,7 @@ Figure 4: Percent Reduction in Pain Intensity
 
 ---
 
-### Buprenorphine (Butrans) [^4d9268d1]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^112z1Dz8]. FDA (2024). Medium credibility.
 
 During the first seven days of double-blind treatment patients were allowed up to two tablets per day of immediate-release oxycodone 5 mg as supplemental analgesia to minimize opioid withdrawal symptoms in patients randomized to placebo. Thereafter, the supplemental analgesia was limited to either acetaminophen 500 mg or ibuprofen 200 mg at a maximum of four tablets per day. Sixty-six percent of the patients treated with BUTRANS completed the 12-week treatment compared to 70% of the patients treated with placebo. Of the 256 patients randomized to BUTRANS, 9% discontinued due to lack of efficacy and 16% due to adverse events. Of the 283 patients randomized to placebo, 13% discontinued due to lack of efficacy and 7% due to adverse events.
 
@@ -312,7 +312,7 @@ The score for average pain over the last 24 hours at the end of the study (Week 
 
 ---
 
-### Buprenorphine (Butrans) [^0a52f685]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^111GJk4t]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, Child-Pugh B (moderate):
 - Reduce dose.
@@ -321,13 +321,13 @@ Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^79cc42dd]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^1147a7Rn]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: abdominal pain, anxiety, asthenia, back pain, constipation, depression, diaphoresis, dizziness, drowsiness, drug withdrawal syndrome, headache, insomnia, nausea, pruritus, rhinitis, vertigo and weakness.
 
 ---
 
-### Buprenorphine (Butrans) [^993de828]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^114vBuAF]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, Child-Pugh A (mild):
 - Reduce dose.
@@ -336,7 +336,7 @@ Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^b85e4916]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^115iLPgZ]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with intermittent hemodialysis:
 
@@ -344,13 +344,13 @@ Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^ff9aecfa]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^117Xwt4H]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: acute liver failure, hepatic encephalopathy, ↑ ICP, impotence, oral ulcers, seizure, ↑ serum TBIL and stomatitis.
 
 ---
 
-### Buprenorphine (Butrans) [^ceabe6be]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^116HQBxh]. FDA (2024). Medium credibility.
 
 There are no standard opioid tapering schedules that are suitable for all patients. Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually. For patients on BUTRANS who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks. Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
 
@@ -364,13 +364,13 @@ BUTRANS has not been evaluated in patients with severe hepatic impairment. As BU
 
 ---
 
-### Buprenorphine (Butrans) [^a2b990fe]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^115AFKn5]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in pregnant patients for all trimesters: use only if benefits outweigh potential risks. Evidence of fetal harm in humans. Monitor for neonatal opioid withdrawal syndrome. The benefits of pharmacotherapy for opioid use disorder during pregnancy may outweigh the risks of untreated opioid use disorder. Dose adjustments of buprenorphine may be required during pregnancy. The drug buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) is classified under category C in the Australian categorisation system for prescribing medicines in pregnancy. This drug, owing to its pharmacological effects, has caused or may be suspected of causing harmful effects on the human fetus or neonate, without causing malformations. These effects may be reversible.
 
 ---
 
-### Buprenorphine [^347a4a19]. FDA (2024). Medium credibility.
+### Buprenorphine [^112LoS3a]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, Child-Pugh B (moderate):
 - Use acceptable.
@@ -379,7 +379,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^e7ef5f2c]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^116vrYSF]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with peritoneal dialysis:
 
@@ -387,7 +387,7 @@ Regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine hydrochloride [^ac669816]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^115QbLAZ]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade):
 - **Adrenal insufficiency**: use caution in patients with a history of thyroid disease.
@@ -403,7 +403,7 @@ Warnings and precautions regarding the use of buprenorphine IV (also known as Br
 
 ---
 
-### Buprenorphine [^6a60c582]. FDA (2024). Medium credibility.
+### Buprenorphine [^113iiC8h]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR 20–50 mL/min/1.73 m²:
 - Use acceptable.
@@ -411,7 +411,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine [^8022d8e2]. FDA (2024). Medium credibility.
+### Buprenorphine [^114Gy7x5]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with continuous renal replacement:
 
@@ -420,7 +420,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine [^08eb73c3]. FDA (2024). Medium credibility.
+### Buprenorphine [^111EDzEW]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR < 10 mL/min/1.73 m²:
 - Avoid high doses.
@@ -428,7 +428,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine [^66e28e66]. FDA (2024). Medium credibility.
+### Buprenorphine [^113dXqR7]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, Child-Pugh C (severe):
 - Reduce dose by half.
@@ -436,7 +436,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine [^4a697fb1]. FDA (2024). Medium credibility.
+### Buprenorphine [^112uKX8t]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with substantial chronic alcohol consumption:
 
@@ -445,7 +445,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^094d3ba0]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^111Enq9y]. FDA (2024). Medium credibility.
 
 12.3 Pharmacokinetics
 
@@ -471,7 +471,7 @@ A study in healthy subjects demonstrated that the pharmacokinetic profile of bup
 
 ---
 
-### Buprenorphine [^d2a758ca]. FDA (2024). Medium credibility.
+### Buprenorphine [^116PJcMo]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with intermittent hemodialysis:
 
@@ -479,7 +479,7 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^0a26e646]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^111G3weD]. FDA (2024). Medium credibility.
 
 Figure 3: Percent Reduction in Pain Intensity
 
@@ -491,7 +491,7 @@ During the double-blind period, patients were permitted to take ibuprofen (200 m
 
 ---
 
-### A randomized, double-blind, double-dummy comparison of the efficacy and tolerability of low-dose transdermal buprenorphine (buTrans seven-day patches) with buprenorphine sublingual tablets (temgesic) in patients with osteoarthritis pain [^64413fc1]. Journal of Pain and Symptom Management (2010). Low credibility.
+### A randomized, double-blind, double-dummy comparison of the efficacy and tolerability of low-dose transdermal buprenorphine (buTrans seven-day patches) with buprenorphine sublingual tablets (temgesic) in patients with osteoarthritis pain [^113ZdgLQ]. Journal of Pain and Symptom Management (2010). Low credibility.
 
 Context
 
@@ -515,7 +515,7 @@ In conclusion, seven-day, low-dose transdermal buprenorphine patches are as effe
 
 ---
 
-### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^18d15ee8]. Journal of Pain Research (2015). Low credibility.
+### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^111do2dm]. Journal of Pain Research (2015). Low credibility.
 
 Buprenorphine in pain treatment
 
@@ -527,7 +527,7 @@ Transdermal buprenorphine product butrans ® (5, 10, and 20 μg/h) is useful in 
 
 ---
 
-### Buprenorphine [^5f51feeb]. FDA (2024). Medium credibility.
+### Buprenorphine [^113SKNBL]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with peritoneal dialysis:
 
@@ -535,14 +535,14 @@ Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine [^c5f5033f]. FDA (2024). Medium credibility.
+### Buprenorphine [^1164UrkN]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR 10–20 mL/min/1.73 m²:
 - Use with caution. Avoid high doses.
 
 ---
 
-### Understanding buprenorphine for use in chronic pain: expert opinion [^2f480339]. Pain Medicine (2020). Medium credibility.
+### Understanding buprenorphine for use in chronic pain: expert opinion [^112D6cAU]. Pain Medicine (2020). Medium credibility.
 
 Introduction
 
@@ -554,13 +554,13 @@ Buprenorphine is a Schedule III opioid analgesic that was approved by the Food a
 
 ---
 
-### Buprenorphine (Butrans) [^c4f300e0]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^1162zCKh]. FDA (2024). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: abdominal pain, anxiety, asthenia, back pain, constipation, depression, diaphoresis, dizziness, drowsiness, drug withdrawal syndrome, headache, insomnia, nausea, pruritus, rhinitis, vertigo and weakness.
 
 ---
 
-### Primary care-based buprenorphine taper vs maintenance therapy for prescription opioid dependence: a randomized clinical trial [^8ca59685]. JAMA Internal Medicine (2014). Medium credibility.
+### Primary care-based buprenorphine taper vs maintenance therapy for prescription opioid dependence: a randomized clinical trial [^114bWtNG]. JAMA Internal Medicine (2014). Medium credibility.
 
 Importance
 
@@ -596,7 +596,7 @@ clinicaltrials.gov Identifier: NCT00555425.
 
 ---
 
-### Buprenorphine (Butrans) [^1705564e]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^111b8WTX]. FDA (2024). Medium credibility.
 
 5.18 Anaphylactic/Allergic Reactions
 
@@ -618,7 +618,7 @@ BUTRANS has not been studied and is not approved for use in the management of ad
 
 ---
 
-### Buprenorphine (Butrans) [^ba960f29]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^115md6oi]. FDA (2024). Medium credibility.
 
 Warnings and precautions regarding the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade):
 - **Fever**: use caution exposing the application site and surrounding area to direct external heat sources.
@@ -628,7 +628,7 @@ Warnings and precautions regarding the use of buprenorphine TD (also known as Br
 
 ---
 
-### Buprenorphine (Brixadi) [^c275afc1]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^115yJ8Pa]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, any severity:
 
@@ -637,19 +637,19 @@ Regarding the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, 
 
 ---
 
-### Buprenorphine (Butrans) [^eccfff26]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^11745wcH]. FDA (2024). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: acute liver failure, hepatic encephalopathy, ↑ ICP, impotence, oral ulcers, seizure, ↑ serum TBIL and stomatitis.
 
 ---
 
-### Buprenorphine (Brixadi) [^4d4e7ca6]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^112ycQkM]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in pregnant patients for all trimesters: use only if benefits outweigh potential risks. Evidence of fetal harm in humans. Monitor for neonatal opioid withdrawal syndrome. The benefits of pharmacotherapy for opioid use disorder during pregnancy may outweigh the risks of untreated opioid use disorder. Dose adjustments of buprenorphine may be required during pregnancy. The drug buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) is classified under category C in the Australian categorisation system for prescribing medicines in pregnancy. This drug, owing to its pharmacological effects, has caused or may be suspected of causing harmful effects on the human fetus or neonate, without causing malformations. These effects may be reversible.
 
 ---
 
-### Buprenorphine (Butrans) [^73bf5d72]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^113xbrVw]. FDA (2024). Medium credibility.
 
 2.7 Administration of BUTRANS
 
@@ -664,26 +664,26 @@ If the buprenorphine-containing adhesive matrix accidentally contacts the skin, 
 
 ---
 
-### Buprenorphine (Brixadi) [^d61c7fba]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^116URvWd]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with eGFR 0–90 mL/min/1.73 m²:
 - No guidance available.
 
 ---
 
-### Buprenorphine (Butrans) [^7e186968]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^114Dwe63]. FDA (2024). Medium credibility.
 
 Uncommon adverse reactions (less than 1%) associated with the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: acute cholecystitis, AF, ecchymosis and stroke.
 
 ---
 
-### Buprenorphine [^856e7c20]. FDA (2024). Medium credibility.
+### Buprenorphine [^114QpTu9]. FDA (2024). Medium credibility.
 
 Regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in pregnant patients for all trimesters: use only if benefits outweigh potential risks. Evidence of fetal harm in humans. Monitor for neonatal opioid withdrawal syndrome. The benefits of pharmacotherapy for opioid use disorder during pregnancy may outweigh the risks of untreated opioid use disorder. Dose adjustments of buprenorphine may be required during pregnancy. The drug buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) is classified under category C in the Australian categorisation system for prescribing medicines in pregnancy. This drug, owing to its pharmacological effects, has caused or may be suspected of causing harmful effects on the human fetus or neonate, without causing malformations. These effects may be reversible.
 
 ---
 
-### Buprenorphine (Butrans) [^9cea4125]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^1151dkcC]. FDA (2024). Medium credibility.
 
 Hyperalgesia and Allodynia
 
@@ -707,7 +707,7 @@ To avoid exposing the BUTRANS application site to external heat sources, hot wat
 
 ---
 
-### Buprenorphine (Butrans) [^8ea276ff]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^114eTp62]. FDA (2024). Medium credibility.
 
 5.9 Opioid-Induced Hyperalgesia and Allodynia
 
@@ -727,7 +727,7 @@ Regularly evaluate patients particularly when initiating and titrating BUTRANS a
 
 ---
 
-### Buprenorphine (Butrans) [^dd39e792]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^116eyiMP]. FDA (2024). Medium credibility.
 
 5.6 Risks of Use with Application of External Heat
 
@@ -743,7 +743,7 @@ In rare cases, severe application site skin reactions with signs of marked infla
 
 ---
 
-### Use of immediate-release opioids as supplemental analgesia during management of moderate-to-severe chronic pain with buprenorphine transdermal system [^b955ba6c]. Journal of Pain Research (2017). Low credibility.
+### Use of immediate-release opioids as supplemental analgesia during management of moderate-to-severe chronic pain with buprenorphine transdermal system [^115jmWFm]. Journal of Pain Research (2017). Low credibility.
 
 Introduction
 
@@ -753,7 +753,7 @@ Buprenorphine hydrochloride was introduced in the US for pain management in a pa
 
 ---
 
-### Buprenorphine [^b82407b2]. FDA (2024). Medium credibility.
+### Buprenorphine [^115hzpmw]. FDA (2024). Medium credibility.
 
 Boxed warnings regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade):
 - **Drug abuse**: use extreme caution in patients with mental illness (e.g., major depression) or a family history of substance abuse (including alcohol use disorder).
@@ -763,13 +763,13 @@ Boxed warnings regarding the use of buprenorphine SL (also known as Brixadi, But
 
 ---
 
-### Buprenorphine [^281c92bd]. FDA (2024). Medium credibility.
+### Buprenorphine [^1122U6vY]. FDA (2024). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: abdominal pain, anxiety, asthenia, back pain, constipation, depression, diaphoresis, dizziness, drowsiness, drug withdrawal syndrome, headache, insomnia, nausea, pruritus, rhinitis, vertigo and weakness.
 
 ---
 
-### Buprenorphine hydrochloride and naloxone hydrochloride (buprenorphine and naloxone) [^32c3fadc]. FDA (2024). Medium credibility.
+### Buprenorphine hydrochloride and naloxone hydrochloride (buprenorphine and naloxone) [^112JGD63]. FDA (2024). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -785,7 +785,7 @@ In the case of overdose, the primary management should be the re-establishment o
 
 ---
 
-### Buprenorphine [^36897092]. FDA (2024). Medium credibility.
+### Buprenorphine [^112PrVm3]. FDA (2024). Medium credibility.
 
 Warnings and precautions regarding the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade):
 - **Central sleep apnea**: use caution in patients with a history of sleep disorders.
@@ -797,20 +797,20 @@ Warnings and precautions regarding the use of buprenorphine SL (also known as Br
 
 ---
 
-### Buprenorphine hydrochloride [^39f2ceb9]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride [^112UurLQ]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of buprenorphine IV (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: agitation, amblyopia, anaphylaxis, anemia, angioedema, arthralgia, AV block, blurred vision, bradycardia, bronchospasm, chills, coma, confusion, conjunctivitis, cough, cyanosis, dehydration, diarrhea, diplopia, dysarthria, dyspepsia, dysphagia, dyspnea, euphoria, fatigue, fever, flatulence, hallucinations, hiccups, hyperhidrosis, hypertension, hyperventilation, hypoesthesia, hypotension, hypoventilation, ileus, injection site reactions, lethargy, ↑ liver enzymes, loss of appetite, memory impairment, migraine, miosis, musculoskeletal pain, myalgia, nightmares, orthostatic hypotension, pallor, palpitations, paresthesia, peripheral edema, peripheral vasodilation, psychosis, ↑QTc interval, respiratory depression, restlessness, rhinorrhea, sinus tachycardia, skin erythema, skin flushing, skin rash, sleep apnea, syncope, tinnitus, tremor, urinary incontinence, urinary retention, urticaria, visual disturbances, vomiting, weight loss and wheezing.
 
 ---
 
-### Buprenorphine (Brixadi) [^92ba17a6]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^114kXhWu]. FDA (2025). Medium credibility.
 
 Regarding the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) in patients with chronic liver disease, Child-Pugh C (severe):
 - Avoid use.
 
 ---
 
-### Safety and efficacy of the unique opioid buprenorphine for the treatment of chronic pain [^79a52742]. Journal of Pain Research (2019). Medium credibility.
+### Safety and efficacy of the unique opioid buprenorphine for the treatment of chronic pain [^1147LyYd]. Journal of Pain Research (2019). Medium credibility.
 
 Treatment options for chronic pain, such as buprenorphine, are especially important when the United States is facing increasing opioid misuse and related overdoses. Because buprenorphine has less potential for abuse than drugs or substances in Schedules I and II, it has been classified by the Drug Enforcement Administration (DEA) as a Schedule III controlled substance. Orally administered buprenorphine has only approximately 10% bioavailability, but recent advances in drug delivery circumvent this issue. The sublingual formulation provides approximately 28–51% bioavailability, the transdermal formulation provides approximately 15%, and the buccal film exhibits 46–65% bioavailability. Each of these formulations bypasses first-pass metabolism.–
 
@@ -818,13 +818,13 @@ Buprenorphine transdermal system (Butrans ®, Purdue Pharma, LP, Stamford, CT) a
 
 ---
 
-### Buprenorphine (Butrans) [^d1f6bfd1]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^116NHHxk]. FDA (2024). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of buprenorphine TD (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: agitation, amblyopia, anaphylaxis, anemia, angioedema, apnea, arthralgia, AV block, blurred vision, bradycardia, bronchospasm, chills, coma, confusion, conjunctivitis, cough, cyanosis, dehydration, diarrhea, diplopia, dysarthria, dyspepsia, dysphagia, dyspnea, euphoria, fatigue, fever, flatulence, hallucinations, hiccups, hyperhidrosis, hypertension, hyperventilation, hypoesthesia, hypotension, hypoventilation, ileus, lethargy, ↑ liver enzymes, loss of appetite, memory impairment, migraine, miosis, musculoskeletal pain, myalgia, nightmares, orthostatic hypotension, pallor, palpitations, paresthesia, peripheral edema, peripheral vasodilation, psychosis, ↑QTc interval, respiratory depression, restlessness, rhinorrhea, sinus tachycardia, skin erythema, skin flushing, skin rash, syncope, tinnitus, tremor, urinary incontinence, urinary retention, urticaria, visual disturbances, vomiting, weight loss and wheezing.
 
 ---
 
-### Buprenorphine (Butrans) [^651737f0]. FDA (2024). Medium credibility.
+### Buprenorphine (Butrans) [^113asYo9]. FDA (2024). Medium credibility.
 
 Effects on Cardiac Electrophysiology
 
@@ -834,7 +834,7 @@ There was no clinically meaningful effect on mean QTc with a BUTRANS dose of 10 
 
 ---
 
-### Buprenorphine hydrochloride, naloxone hydrochloride (Suboxone) [^4285f092]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride, naloxone hydrochloride (Suboxone) [^112hdAxR]. FDA (2025). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -850,25 +850,25 @@ In the case of overdose, the primary management should be the re-establishment o
 
 ---
 
-### Buprenorphine (Brixadi) [^7a8b1ca4]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^1148gDVu]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: anxiety, arthralgia, constipation, diarrhea, headache, insomnia, nausea, tachycardia, upper respiratory tract infections, urinary tract infections and vomiting.
 
 ---
 
-### Buprenorphine [^0c73a819]. FDA (2024). Medium credibility.
+### Buprenorphine [^111KThZA]. FDA (2024). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: acute liver failure, hepatic encephalopathy, ↑ ICP, impotence, oral ulcers, seizure, ↑ serum TBIL and stomatitis.
 
 ---
 
-### Methadone safety: a clinical practice guideline from the American Pain Society and College on Problems of Drug Dependence, in collaboration with the Heart Rhythm Society [^56b72491]. The Journal of Pain (2014). Low credibility.
+### Methadone safety: a clinical practice guideline from the American Pain Society and College on Problems of Drug Dependence, in collaboration with the Heart Rhythm Society [^113DZT9S]. The Journal of Pain (2014). Low credibility.
 
 The drug Buprenorphine (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade).
 
 ---
 
-### Buprenorphine hydrochloride and naloxone hydrochloride (Zubsolv) [^388b3e91]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride and naloxone hydrochloride (Zubsolv) [^112Sq5Ut]. FDA (2025). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -884,13 +884,13 @@ In the case of overdose, the primary management should be the re-establishment o
 
 ---
 
-### Buprenorphine (Brixadi) [^f517fa9f]. FDA (2025). Medium credibility.
+### Buprenorphine (Brixadi) [^117GN2C6]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of buprenorphine SC (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: adrenal insufficiency, anaphylaxis, androgen deficiency, ↓ blood glucose, drug addiction, drug misuse, hepatitis, ↑ ICP, ↑ intracholedochal pressure, orthostatic hypotension, respiratory depression and serotonin syndrome.
 
 ---
 
-### Medical and genetic correlates of long-term buprenorphine treatment in the electronic health records [^cf734d3b]. Translational Psychiatry (2024). Medium credibility.
+### Medical and genetic correlates of long-term buprenorphine treatment in the electronic health records [^116JZAbL]. Translational Psychiatry (2024). Medium credibility.
 
 Buprenorphine treatment duration
 
@@ -898,7 +898,7 @@ We identified individuals with at least one prescription of buprenorphine betwee
 
 ---
 
-### Buprenorphine hydrochloride sublingual [^742feac6]. FDA (2017). Low credibility.
+### Buprenorphine hydrochloride sublingual [^113yFfC1]. FDA (2017). Low credibility.
 
 10 OVERDOSAGE
 
@@ -910,7 +910,7 @@ In the case of overdose, the primary management should be the re-establishment o
 
 ---
 
-### Trends in out-of-pocket costs for and characteristics of pharmacy-dispensed buprenorphine medications for opioid use disorder treatment by type of payer, 2015 to 2020 [^d3159e93]. JAMA Network Open (2023). High credibility.
+### Trends in out-of-pocket costs for and characteristics of pharmacy-dispensed buprenorphine medications for opioid use disorder treatment by type of payer, 2015 to 2020 [^116PweeE]. JAMA Network Open (2023). High credibility.
 
 Methods
 
@@ -922,7 +922,7 @@ Prescription payers captured in the LRx data were combined into 6 categories: pr
 
 ---
 
-### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^5fe7c64d]. Journal of Pain Research (2015). Low credibility.
+### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^113TBg76]. Journal of Pain Research (2015). Low credibility.
 
 Marketed buprenorphine
 
@@ -935,13 +935,13 @@ These buprenorphine products are classified as Schedule III controlled. The Tabl
 
 ---
 
-### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^a93f0630]. The Journal of Emergency Medicine (2020). High credibility.
+### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^115Kv5SF]. The Journal of Emergency Medicine (2020). High credibility.
 
 Q10. Immediate-release buprenorphine use in acute care — formulation options and ED practice are described. Buprenorphine is available in several formulations, some in combination with naloxone; the most commonly used preparations in the emergency department (ED) are sublingual film and sublingual tablets, with little clinical difference between them or compared with less commonly used buccal preparations. Lower-dose preparations (Belbuca and Butrans) are indicated for pain, not OUD treatment. Buprenorphine is also available as an intravenous 0.3-mg/mL solution for injection; this formulation is FDA approved only for acute pain management but can be used for opioid withdrawal when vomiting interferes with sublingual administration. Access to intravenous buprenorphine is not required, as sublingual administration is almost always effective even in the setting of vomiting.
 
 ---
 
-### Assessment of opioid prescribing patterns in a large network of US community health centers, 2009 to 2018 [^4da5c337]. JAMA Network Open (2020). High credibility.
+### Assessment of opioid prescribing patterns in a large network of US community health centers, 2009 to 2018 [^112z7j1p]. JAMA Network Open (2020). High credibility.
 
 Definitions and Variables
 
@@ -951,7 +951,7 @@ Using the cohort year as the unit of analysis, we calculated several measures of
 
 ---
 
-### Buprenorphine hydrochloride and naloxone hydrochloride dihydrate [^8cd20452]. FDA (2025). Medium credibility.
+### Buprenorphine hydrochloride and naloxone hydrochloride dihydrate [^114bmous]. FDA (2025). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -967,7 +967,7 @@ In the case of overdose, the primary management should be the re-establishment o
 
 ---
 
-### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^342360b5]. Journal of Pain Research (2015). Low credibility.
+### Buprenorphine-an attractive opioid with underutilized potential in treatment of chronic pain [^112LJEsN]. Journal of Pain Research (2015). Low credibility.
 
 Efficacy in broad pain phenotypes
 
@@ -983,19 +983,19 @@ Supplemental dosing with an opioid is the main treatment suggested to manage bre
 
 ---
 
-### Buprenorphine [^f256cf00]. FDA (2024). Medium credibility.
+### Buprenorphine [^117CHANB]. FDA (2024). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of buprenorphine SL (also known as Brixadi, Butrans, Belbuca, Buprenex, Probuphine, Sublocade) include: agitation, amblyopia, anaphylaxis, anemia, angioedema, apnea, arthralgia, AV block, blurred vision, bradycardia, bronchospasm, chills, coma, confusion, conjunctivitis, cough, cyanosis, dehydration, diarrhea, diplopia, dysarthria, dyspepsia, dysphagia, dyspnea, euphoria, fatigue, fever, flatulence, hallucinations, hiccups, hyperhidrosis, hypertension, hyperventilation, hypoesthesia, hypotension, hypoventilation, ileus, lethargy, ↑ liver enzymes, loss of appetite, memory impairment, migraine, miosis, musculoskeletal pain, myalgia, nightmares, orthostatic hypotension, pallor, palpitations, paresthesia, peripheral edema, peripheral vasodilation, psychosis, ↑QTc interval, respiratory depression, restlessness, rhinorrhea, sinus tachycardia, skin erythema, skin flushing, skin rash, syncope, tinnitus, tremor, urinary incontinence, urinary retention, urticaria, visual disturbances, vomiting, weight loss and wheezing.
 
 ---
 
-### Buprenorphine hydrochloride and naloxone hydrochloride (Suboxone) [^2d904755]. FDA (2010). Low credibility.
+### Buprenorphine hydrochloride and naloxone hydrochloride (Suboxone) [^112AYuTS]. FDA (2010). Low credibility.
 
 Very common adverse reactions (over 10%) associated with the use of buprenorphine / naloxone SL (also known as Suboxone, Zubsolv) include: abdominal pain, constipation, dependence and withdrawal reactions, headache, hyperhidrosis, insomnia and pain.
 
 ---
 
-### Limited access to on-label formulations of buprenorphine for chronic pain as compared with conventional opioids [^eae9d735]. Pain Medicine (2020). Medium credibility.
+### Limited access to on-label formulations of buprenorphine for chronic pain as compared with conventional opioids [^1171GeXW]. Pain Medicine (2020). Medium credibility.
 
 Importance
 
@@ -1015,19 +1015,19 @@ There are > 17,000 prescription opioid-involved deaths each year in the United S
 
 ---
 
-### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^6ee02e0e]. The Journal of Emergency Medicine (2020). High credibility.
+### Management of opioid use disorder in the emergency department: a White paper prepared for the American academy of emergency medicine [^113qNwNm]. The Journal of Emergency Medicine (2020). High credibility.
 
 Table 5. Buprenorphine preparations — formulations, strengths, and approximate prices are listed for emergency department (ED) reference, with prices based on estimated Average Wholesale Price and noting that not all products carry indication for opioid use disorder (OUD). Buccal film Belbuca (buprenorphine) is available as 75 μg, 150 μg, 300 μg, 450 μg, 600 μg, 750 μg, 900 μg with approximate price per dose $6–15. Sublingual film Suboxone (buprenorphine/naloxone) offers 2/0.5 mg, 4/1 mg, 8/2 mg, 12/3 mg at $5–20. A subcutaneous implant Probuphine (buprenorphine) is 74.2 mg at $1500. Weekly transdermal patch Butrans (buprenorphine) comes as 5 μg/h, 7.5 μg/h, 10 μg/h, 15 μg/h, 20 μg/h for $80–215, with a generic patch at 5 μg/h, 7.5 μg/h, 10 μg/h, 15 μg/h, 20 μg/h for $65–170. Solution for injection Buprenex (buprenorphine) 0.3 mg/mL (1 mL) is $18 and generic 0.3 mg/mL (1 mL) is $14. A subcutaneous prefilled syringe Sublocade (buprenorphine) is available as 100 mg/0.5 mL (0.5 mL), 300 mg/1.5 mL (1.5 mL) priced $1200–1900.
 
 ---
 
-### Buprenorphine management in the perioperative period: educational review and recommendations from a multisociety expert panel [^84553104]. Regional Anesthesia and Pain Medicine (2021). High credibility.
+### Buprenorphine management in the perioperative period: educational review and recommendations from a multisociety expert panel [^114PBys1]. Regional Anesthesia and Pain Medicine (2021). High credibility.
 
 Outcome assessment beyond pain — Pain should always be evaluated in context, as a change in activity levels, anxiety, or analgesic usage can significantly affect patient insight. In many interventional pain studies, improvement in function may be a more meaningful and realistic benchmark than pain relief, with several high-impact physical intervention studies using disability as their primary endpoint. For relief of acute pain, many experts advocate the utilization of rescue analgesic medications as an appropriate benchmark for success. There is also an increased interest in pain biomarkers that may help guide diagnosis and response to treatment; however, the research and application of this information is still in its infancy.
 
 ---
 
-### Buprenorphine hydrochloride (Belbuca) [^d211bb0a]. FDA (2023). Medium credibility.
+### Buprenorphine hydrochloride (Belbuca) [^116NSMbo]. FDA (2023). Medium credibility.
 
 The dosage of buprenorphine hydrochloride buccal for symptomatic relief of pain in adults (severe enough to require daily, long-term opioid treatment) is:
 
@@ -1036,7 +1036,7 @@ The dosage of buprenorphine hydrochloride buccal for symptomatic relief of pain 
 
 ---
 
-### Superiority and cost-effectiveness of monthly extended-release buprenorphine versus daily standard of care medication: a pragmatic, parallel-group, open-label, multicentre, randomised, controlled, phase 3 trial [^2e784de3]. EClinicalMedicine (2023). Medium credibility.
+### Superiority and cost-effectiveness of monthly extended-release buprenorphine versus daily standard of care medication: a pragmatic, parallel-group, open-label, multicentre, randomised, controlled, phase 3 trial [^112BtqgN]. EClinicalMedicine (2023). Medium credibility.
 
 In the UK, primary and secondary care National Health Service (NHS) clinics and non-governmental (third-sector) services provide the OUD SoC. Treatment is initiated by observed daily dosing at community pharmacies. Adherent patients can collect their prescription at set intervals for up to 14 days to take medication at home. During April 2019–March 2022, 71,034 people in England were enrolled in the SoC — the majority with heroin use disorder. A further 69,565 people were enrolled in the SoC with dual OUD and cocaine use disorder (OUD-CUD). Use of illicit benzodiazepines among the OUD population is also a recognised problem contributing to the risk of fatal overdose.
 
@@ -1044,7 +1044,7 @@ On average, MET or BUP-SL maintenance is associated with reduced opioid use and 
 
 ---
 
-### Once-weekly transdermal buprenorphine application results in sustained and consistent steady-state plasma levels [^3ac341c8]. Journal of Pain and Symptom Management (2013). Low credibility.
+### Once-weekly transdermal buprenorphine application results in sustained and consistent steady-state plasma levels [^112W7sFu]. Journal of Pain and Symptom Management (2013). Low credibility.
 
 Context
 
@@ -1068,7 +1068,7 @@ Three consecutive once-weekly applications of BTDS 10 provided consistent and su
 
 ---
 
-### Buprenorphine, pain, and opioid use in patients taking high-dose long-term opioids: a randomized clinical trial [^d6447ecd]. JAMA Internal Medicine (2025). High credibility.
+### Buprenorphine, pain, and opioid use in patients taking high-dose long-term opioids: a randomized clinical trial [^116UfMhn]. JAMA Internal Medicine (2025). High credibility.
 
 Importance
 
@@ -1104,7 +1104,7 @@ ClinicalTrials.gov Identifier: NCT03026790.
 
 ---
 
-### Effectiveness of injectable extended-release naltrexone vs daily buprenorphine-naloxone for opioid dependence: a randomized clinical noninferiority trial [^70a9ce13]. JAMA Psychiatry (2017). Medium credibility.
+### Effectiveness of injectable extended-release naltrexone vs daily buprenorphine-naloxone for opioid dependence: a randomized clinical noninferiority trial [^113t2edY]. JAMA Psychiatry (2017). Medium credibility.
 
 Importance
 
@@ -1140,7 +1140,7 @@ clinicaltrials.gov Identifier: NCT01717963.
 
 ---
 
-### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^b8461391]. JAMA Network Open (2023). High credibility.
+### State-to-state variation in opioid dispensing changes following the release of the 2016 CDC guideline for prescribing opioids for chronic pain [^115iCG3z]. JAMA Network Open (2023). High credibility.
 
 Methods
 
@@ -1154,13 +1154,13 @@ We used annual US Census state-level population estimates available through the 
 
 ---
 
-### Buprenorphine: the basic pharmacology revisited [^a44ea6ed]. Journal of Addiction Medicine (2007). Low credibility.
+### Buprenorphine: the basic pharmacology revisited [^115CbPUx]. Journal of Addiction Medicine (2007). Low credibility.
 
 The historical background leading to the current use of buprenorphine as an analgesic and its role in the management of opioid dependence is summarized. The popular description of buprenorphine as a "partial agonist" is discussed in relation to efficacy in animal models of antinociception and clinical analgesia. The latest information on the respiratory depressant effects of buprenorphine and its N-dealkylated metabolite (norbuprenorphine) is presented. New data on the buprenorphine withdrawal syndrome in rats are described.
 
 ---
 
-### Understanding buprenorphine for use in chronic pain: expert opinion [^5a00a151]. Pain Medicine (2020). Medium credibility.
+### Understanding buprenorphine for use in chronic pain: expert opinion [^113JS6e4]. Pain Medicine (2020). Medium credibility.
 
 When used as directed, buprenorphine appears to have a relatively favorable therapeutic index (safety profile) and a slower onset of tolerance than full µ -opioid receptor agonists on the basis of its pharmacological profile; however, patient expectations regarding nausea, which is commonly observed during titration with buprenorphine products in opioid-naïve patients, should be clearly set.
 
@@ -1176,19 +1176,19 @@ In patients with chronic pain who have been determined via risk/benefit analysis
 
 ---
 
-### Buprenorphine hydrochloride and naloxone hydrochloride (Suboxone) [^64c25399]. FDA (2010). Low credibility.
+### Buprenorphine hydrochloride and naloxone hydrochloride (Suboxone) [^113aP2y6]. FDA (2010). Low credibility.
 
 Unknown frequency adverse reactions associated with the use of buprenorphine / naloxone SL (also known as Suboxone, Zubsolv) include: adrenal insufficiency, anaphylaxis, angioedema, ↓ blood glucose, blurred vision, bronchospasm, dental caries, fatigue, generalized pruritus, hepatitis, hives, palpitations, peripheral edema, ↑QT interval, respiratory depression, serotonin syndrome, short attention span, skin rash, testosterone deficiency, tooth abnormalities and tooth loss.
 
 ---
 
-### Buprenorphine: considerations for pain management [^c113868d]. Journal of Pain and Symptom Management (2005). Low credibility.
+### Buprenorphine: considerations for pain management [^115wFAn8]. Journal of Pain and Symptom Management (2005). Low credibility.
 
 New effective analgesics are needed for the treatment of pain. Buprenorphine, a partial mu-opioid agonist which has been in clinical use for over 25 years, has been found to be amenable to new formulation technology based on its physiochemical and pharmacological profile. Buprenorphine is marketed as parenteral, sublingual, and transdermal formulations. Unlike full mu-opioid agonists, at higher doses, buprenorphine's physiological and subjective effects, including euphoria, reach a plateau. This ceiling may limit the abuse potential and may result in a wider safety margin. Buprenorphine has been used for the treatment of acute and chronic pain, as a supplement to anesthesia, and for behavioral and psychiatric disorders including treatment for opioid addiction. Prolonged use of buprenorphine can result in physical dependence. However, withdrawal symptoms appear to be mild to moderate in intensity compared with those of full mu agonists. Overdoses have primarily involved buprenorphine taken in combination with other central nervous system depressants.
 
 ---
 
-### Transdermal buprenorphine for acute pain in the clinical setting: a narrative review [^144f7853]. Journal of Pain Research (2021). Medium credibility.
+### Transdermal buprenorphine for acute pain in the clinical setting: a narrative review [^111X7SqY]. Journal of Pain Research (2021). Medium credibility.
 
 Discussion
 

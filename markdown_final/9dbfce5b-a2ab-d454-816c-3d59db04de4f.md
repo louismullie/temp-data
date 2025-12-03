@@ -17,37 +17,37 @@ According to current ISTH guidelines, what is the recommended prophylactic treat
 
 > Let's see… What do we have here? The user is asking about the appropriate prophylactic management for a 29-year-old woman with confirmed congenital TTP who is 10 weeks pregnant, including what the current ISTH guidelines recommend and which specific product should be used for prophylaxis. Let's break this down step-by-step. First, I need to think about the pathophysiology of congenital TTP and why pregnancy changes risk. Then, I should verify the strength and specifics of ISTH recommendations for prophylaxis in pregnancy. Next, I will compare plasma infusion versus recombinant ADAMTS13, including safety, efficacy, and availability. After that, I need to outline a practical dosing and monitoring plan. Finally, I should consider special scenarios, alternatives if recombinant ADAMTS13 is not available, and summarize a clear recommendation with supporting evidence.
 
-> Let me first confirm the disease mechanism and pregnancy-specific risk. Congenital TTP results from biallelic ADAMTS13 mutations causing severe enzyme deficiency, and pregnancy is a major trigger due to rising von Willebrand factor levels that outstrip the limited ADAMTS13 activity, leading to microthrombi and organ ischemia; without prophylaxis, relapse risk in subsequent pregnancies approaches 100%, which is why prophylaxis is standard in this setting [^577bd613] [^79e3585e] [^a4265486].
+> Let me first confirm the disease mechanism and pregnancy-specific risk. Congenital TTP results from biallelic ADAMTS13 mutations causing severe enzyme deficiency, and pregnancy is a major trigger due to rising von Willebrand factor levels that outstrip the limited ADAMTS13 activity, leading to microthrombi and organ ischemia; without prophylaxis, relapse risk in subsequent pregnancies approaches 100%, which is why prophylaxis is standard in this setting [^113EhX3Q] [^1147hs97] [^115CMqx1].
 
-> Wait, let me verify the guideline stance before jumping to dosing. The ISTH 2020 and 2025 updates issue a strong recommendation for prophylactic ADAMTS13 replacement during pregnancy in congenital TTP, favoring recombinant ADAMTS13 over plasma infusion when available, with plasma infusion as an alternative if recombinant therapy is not accessible; this is echoed by BSH 2023 guidance recommending prophylactic plasma infusion in pregnant cTTP patients [^76caaafc] [^c1221584] [^08e817b5].
+> Wait, let me verify the guideline stance before jumping to dosing. The ISTH 2020 and 2025 updates issue a strong recommendation for prophylactic ADAMTS13 replacement during pregnancy in congenital TTP, favoring recombinant ADAMTS13 over plasma infusion when available, with plasma infusion as an alternative if recombinant therapy is not accessible; this is echoed by BSH 2023 guidance recommending prophylactic plasma infusion in pregnant cTTP patients [^11437cYT] [^115wL4QB] [^111ECrnQ].
 
-> I will now examine the comparative evidence for recombinant ADAMTS13 versus plasma infusion. The phase 3 crossover trial showed zero acute TTP events during recombinant ADAMTS13 prophylaxis versus one event with plasma-based therapy, with higher achieved ADAMTS13 activity and fewer treatment-related adverse events; pharmacokinetic modeling also suggests that recombinant therapy can more reliably sustain therapeutic ADAMTS13 levels without the large plasma volumes required by infusion, which is particularly relevant in pregnancy [^7ee7c8ab] [^ea475bb3]. Hold on, I should verify real-world pregnancy data; case series and reports demonstrate successful prophylaxis and treatment of acute episodes with recombinant ADAMTS13 in pregnancy, including stabilization of maternal counts and fetal growth, supporting its use when available [^daeaf361] [^3db84b3d] [^8dc2cb18].
+> I will now examine the comparative evidence for recombinant ADAMTS13 versus plasma infusion. The phase 3 crossover trial showed zero acute TTP events during recombinant ADAMTS13 prophylaxis versus one event with plasma-based therapy, with higher achieved ADAMTS13 activity and fewer treatment-related adverse events; pharmacokinetic modeling also suggests that recombinant therapy can more reliably sustain therapeutic ADAMTS13 levels without the large plasma volumes required by infusion, which is particularly relevant in pregnancy [^114F9J2E] [^116zL57Y]. Hold on, I should verify real-world pregnancy data; case series and reports demonstrate successful prophylaxis and treatment of acute episodes with recombinant ADAMTS13 in pregnancy, including stabilization of maternal counts and fetal growth, supporting its use when available [^116bZDeG] [^112aW9XS] [^114dAgcf].
 
-> Next, I should review plasma infusion as the alternative. Historical and registry data show that prophylactic fresh frozen plasma, typically initiated early in pregnancy and escalated in frequency and volume as gestation advances, reduces maternal relapses and improves fetal outcomes; Japanese registry data suggest live birth rates rise from 50% without prophylaxis to over 90% with planned plasma prophylaxis, and French cohorts reinforce that early, regular infusions are effective when recombinant ADAMTS13 is not available [^69411e3d] [^c432d53c] [^08e817b5]. Let me double-check dosing pragmatics; many centers start around 10–15 mL/kg every 2–3 weeks and increase to weekly or higher volumes after 20 weeks, titrating to platelet counts and clinical status, which aligns with pharmacokinetic observations of a several-day half-life and the need for more frequent dosing to maintain troughs above minimal targets [^ea475bb3] [^69411e3d].
+> Next, I should review plasma infusion as the alternative. Historical and registry data show that prophylactic fresh frozen plasma, typically initiated early in pregnancy and escalated in frequency and volume as gestation advances, reduces maternal relapses and improves fetal outcomes; Japanese registry data suggest live birth rates rise from 50% without prophylaxis to over 90% with planned plasma prophylaxis, and French cohorts reinforce that early, regular infusions are effective when recombinant ADAMTS13 is not available [^113h3aCC] [^1161seYK] [^111ECrnQ]. Let me double-check dosing pragmatics; many centers start around 10–15 mL/kg every 2–3 weeks and increase to weekly or higher volumes after 20 weeks, titrating to platelet counts and clinical status, which aligns with pharmacokinetic observations of a several-day half-life and the need for more frequent dosing to maintain troughs above minimal targets [^116zL57Y] [^113h3aCC].
 
-> Hold on, I should verify what to avoid. Factor VIII concentrates with trace ADAMTS13 are not recommended for prophylaxis in cTTP, and ISTH advises against using factor VIII products over a watch-and-wait approach; similarly, caplacizumab is not indicated for cTTP and is reserved for immune-mediated TTP, so it should not be used here [^aee6bf96] [^36d044a5] [^3864bdae].
+> Hold on, I should verify what to avoid. Factor VIII concentrates with trace ADAMTS13 are not recommended for prophylaxis in cTTP, and ISTH advises against using factor VIII products over a watch-and-wait approach; similarly, caplacizumab is not indicated for cTTP and is reserved for immune-mediated TTP, so it should not be used here [^115UJMNm] [^112QGHcG] [^112Sc9Nd].
 
-> Let me think about a practical plan at 10 weeks. If recombinant ADAMTS13 is accessible, I would initiate prophylaxis now at 40 IU/kg IV every 2–4 weeks, with dose adjustments based on platelet counts and, when available, ADAMTS13 activity, and continue through delivery and for several weeks postpartum given persistent VWF elevation; if recombinant therapy is not available, I would start solvent/detergent-treated FFP at 10–15 mL/kg every 2–3 weeks now and escalate to weekly infusions after 20 weeks, with closer monitoring in the third trimester and peripartum period [^7ee7c8ab] [^08e817b5] [^69411e3d]. I should confirm that multidisciplinary obstetric-hematology follow-up with serial platelets and ADAMTS13 is advised, and that delivery planning should anticipate continued prophylaxis and coordinated neonatal support [^3864bdae] [^ac7df6ed].
+> Let me think about a practical plan at 10 weeks. If recombinant ADAMTS13 is accessible, I would initiate prophylaxis now at 40 IU/kg IV every 2–4 weeks, with dose adjustments based on platelet counts and, when available, ADAMTS13 activity, and continue through delivery and for several weeks postpartum given persistent VWF elevation; if recombinant therapy is not available, I would start solvent/detergent-treated FFP at 10–15 mL/kg every 2–3 weeks now and escalate to weekly infusions after 20 weeks, with closer monitoring in the third trimester and peripartum period [^114F9J2E] [^111ECrnQ] [^113h3aCC]. I should confirm that multidisciplinary obstetric-hematology follow-up with serial platelets and ADAMTS13 is advised, and that delivery planning should anticipate continued prophylaxis and coordinated neonatal support [^112Sc9Nd] [^115QjBTa].
 
-> But wait, what if the patient declines plasma due to volume load or allergic reactions. In that scenario, I need to ensure we revisit the option of recombinant ADAMTS13 if available, given its lower infusion volume and adverse event burden; if neither is acceptable, I should document informed refusal and arrange very close surveillance with a low threshold to treat acute episodes, recognizing the high relapse risk and potential for fetal compromise without prophylaxis [^7ee7c8ab] [^79e3585e].
+> But wait, what if the patient declines plasma due to volume load or allergic reactions. In that scenario, I need to ensure we revisit the option of recombinant ADAMTS13 if available, given its lower infusion volume and adverse event burden; if neither is acceptable, I should document informed refusal and arrange very close surveillance with a low threshold to treat acute episodes, recognizing the high relapse risk and potential for fetal compromise without prophylaxis [^114F9J2E] [^1147hs97].
 
-> I should double-check the bottom line. Current ISTH guidance strongly recommends prophylactic ADAMTS13 replacement for pregnant patients with congenital TTP, with a preference for recombinant ADAMTS13 when available; if recombinant therapy is not accessible, prophylactic plasma infusion is the recommended alternative, initiated early and intensified as gestation progresses to mitigate the near-universal relapse risk and improve maternal-fetal outcomes [^76caaafc] [^f68face5] [^08e817b5].
+> I should double-check the bottom line. Current ISTH guidance strongly recommends prophylactic ADAMTS13 replacement for pregnant patients with congenital TTP, with a preference for recombinant ADAMTS13 when available; if recombinant therapy is not accessible, prophylactic plasma infusion is the recommended alternative, initiated early and intensified as gestation progresses to mitigate the near-universal relapse risk and improve maternal-fetal outcomes [^11437cYT] [^117JYDM6] [^111ECrnQ].
 
 ---
 
-For a 29-year-old woman with congenital TTP at 10 weeks' gestation, **initiate prophylactic plasma infusion now** [^76caaafc] because pregnancy carries a near-100% relapse risk without prophylaxis [^79e3585e]. The **recommended product is solvent/detergent-treated fresh frozen plasma** [^08e817b5] at 10–15 mL/kg every 2–3 weeks, increasing to every 1–2 weeks after 20 weeks [^69411e3d] and before delivery [^3ceb5720]. If available, **recombinant ADAMTS13 is preferred** [^f68face5] at 40 IU/kg every 2–4 weeks [^7ee7c8ab] because it achieves higher ADAMTS13 activity with lower infusion volume and fewer adverse events than plasma [^7ee7c8ab]. Monitor platelets, LDH, and ADAMTS13 activity regularly, and coordinate care with maternal-fetal medicine and hematology [^3864bdae].
+For a 29-year-old woman with congenital TTP at 10 weeks' gestation, **initiate prophylactic plasma infusion now** [^11437cYT] because pregnancy carries a near-100% relapse risk without prophylaxis [^1147hs97]. The **recommended product is solvent/detergent-treated fresh frozen plasma** [^111ECrnQ] at 10–15 mL/kg every 2–3 weeks, increasing to every 1–2 weeks after 20 weeks [^113h3aCC] and before delivery [^112ZKJi3]. If available, **recombinant ADAMTS13 is preferred** [^117JYDM6] at 40 IU/kg every 2–4 weeks [^114F9J2E] because it achieves higher ADAMTS13 activity with lower infusion volume and fewer adverse events than plasma [^114F9J2E]. Monitor platelets, LDH, and ADAMTS13 activity regularly, and coordinate care with maternal-fetal medicine and hematology [^112Sc9Nd].
 
 ---
 
 ## Pathophysiology and pregnancy-related risks
 
-Congenital TTP is due to **severe ADAMTS13 deficiency** [^42a54471], causing ultra-large VWF multimers and platelet-rich microthrombi [^40a369db]. Pregnancy increases VWF and decreases ADAMTS13, creating a high relapse risk [^577bd613]; without prophylaxis, relapse approaches 100% and can cause maternal stroke, renal failure, and fetal loss [^79e3585e] [^d473a90f].
+Congenital TTP is due to **severe ADAMTS13 deficiency** [^112hohGU], causing ultra-large VWF multimers and platelet-rich microthrombi [^112eq6b4]. Pregnancy increases VWF and decreases ADAMTS13, creating a high relapse risk [^113EhX3Q]; without prophylaxis, relapse approaches 100% and can cause maternal stroke, renal failure, and fetal loss [^1147hs97] [^116RyDzN].
 
 ---
 
 ## Current ISTH guidelines and recommendations
 
-The ISTH strongly recommends **prophylactic ADAMTS13 replacement during pregnancy** for congenital TTP [^76caaafc]. Historically, this meant plasma infusion; the 2025 update now **prefers recombinant ADAMTS13** when available [^f68face5] [^c1221584].
+The ISTH strongly recommends **prophylactic ADAMTS13 replacement during pregnancy** for congenital TTP [^11437cYT]. Historically, this meant plasma infusion; the 2025 update now **prefers recombinant ADAMTS13** when available [^117JYDM6] [^115wL4QB].
 
 ---
 
@@ -55,7 +55,7 @@ The ISTH strongly recommends **prophylactic ADAMTS13 replacement during pregnanc
 
 ### Plasma infusion (standard of care)
 
-- **Product**: solvent/detergent-treated fresh frozen plasma (SD-FFP) [^08e817b5].
+- **Product**: solvent/detergent-treated fresh frozen plasma (SD-FFP) [^111ECrnQ].
 - **Dose**: 10–15 mL/kg IV every 2–3 weeks [^notfound].
 - **Adjustment**: increase to every 1–2 weeks after 20 weeks and before delivery [^notfound].
 - **Rationale**: replaces ADAMTS13 and prevents relapse; SD treatment reduces infection risk [^notfound].
@@ -64,10 +64,10 @@ The ISTH strongly recommends **prophylactic ADAMTS13 replacement during pregnanc
 
 ### Recombinant ADAMTS13 (preferred when available)
 
-- **Product**: recombinant ADAMTS13 (rADAMTS13) [^f68face5].
-- **Dose**: 40 IU/kg IV every 2–4 weeks [^7ee7c8ab].
-- **Advantages**: achieves ~100% ADAMTS13 activity [^7ee7c8ab], smaller infusion volume, fewer adverse events, and less alloimmunization risk than plasma [^7ee7c8ab].
-- **Pregnancy data**: case reports show effective prophylaxis and treatment during pregnancy [^daeaf361] [^3db84b3d].
+- **Product**: recombinant ADAMTS13 (rADAMTS13) [^117JYDM6].
+- **Dose**: 40 IU/kg IV every 2–4 weeks [^114F9J2E].
+- **Advantages**: achieves ~100% ADAMTS13 activity [^114F9J2E], smaller infusion volume, fewer adverse events, and less alloimmunization risk than plasma [^114F9J2E].
+- **Pregnancy data**: case reports show effective prophylaxis and treatment during pregnancy [^116bZDeG] [^112aW9XS].
 
 ---
 
@@ -84,33 +84,33 @@ Regular monitoring and dose adjustments are essential:
 
 ---
 
-Increase infusion frequency if platelets fall, LDH rises, or ADAMTS13 drops; **coordinate closely with maternal-fetal medicine** for fetal surveillance and delivery planning [^3864bdae].
+Increase infusion frequency if platelets fall, LDH rises, or ADAMTS13 drops; **coordinate closely with maternal-fetal medicine** for fetal surveillance and delivery planning [^112Sc9Nd].
 
 ---
 
 ## Alternative therapies and considerations
 
-Intermediate-purity factor VIII concentrates (e.g. BPL 8Y) contain trace ADAMTS13 and may be used if plasma is contraindicated, but are **less effective and not first-line** [^36d044a5] [^f2322fb2]. Caplacizumab is not indicated for congenital TTP and should not be used for prophylaxis in this setting [^notfound].
+Intermediate-purity factor VIII concentrates (e.g. BPL 8Y) contain trace ADAMTS13 and may be used if plasma is contraindicated, but are **less effective and not first-line** [^112QGHcG] [^117C4ruX]. Caplacizumab is not indicated for congenital TTP and should not be used for prophylaxis in this setting [^notfound].
 
 ---
 
 ## Summary of recommendations
 
-- **Initiate prophylaxis now**: Start SD-FFP at 10–15 mL/kg every 2–3 weeks [^08e817b5].
+- **Initiate prophylaxis now**: Start SD-FFP at 10–15 mL/kg every 2–3 weeks [^111ECrnQ].
 - **Escalate frequency**: Increase to every 1–2 weeks after 20 weeks and before delivery [^notfound].
-- **Prefer rADAMTS13**: Use 40 IU/kg every 2–4 weeks if available [^f68face5] [^7ee7c8ab].
-- **Monitor closely**: Track platelets, LDH, and ADAMTS13; adjust dosing as needed [^3864bdae].
-- **Coordinate care**: Work with maternal-fetal medicine and hematology for optimal outcomes [^3864bdae].
+- **Prefer rADAMTS13**: Use 40 IU/kg every 2–4 weeks if available [^117JYDM6] [^114F9J2E].
+- **Monitor closely**: Track platelets, LDH, and ADAMTS13; adjust dosing as needed [^112Sc9Nd].
+- **Coordinate care**: Work with maternal-fetal medicine and hematology for optimal outcomes [^112Sc9Nd].
 
 ---
 
-Prophylactic plasma infusion is the **standard of care** for congenital TTP in pregnancy, with rADAMTS13 preferred when available; **start now** and intensify dosing as pregnancy advances to prevent relapse and protect maternal-fetal outcomes [^76caaafc] [^f68face5].
+Prophylactic plasma infusion is the **standard of care** for congenital TTP in pregnancy, with rADAMTS13 preferred when available; **start now** and intensify dosing as pregnancy advances to prevent relapse and protect maternal-fetal outcomes [^11437cYT] [^117JYDM6].
 
 ---
 
 ## References
 
-### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^8709843c]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
+### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^114TCXSb]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
 
 Background
 
@@ -130,7 +130,7 @@ The panel's recommendations are based on all the available evidence for the effe
 
 ---
 
-### Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura [^84b3faac]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
+### Good practice statements (GPS) for the clinical care of patients with thrombotic thrombocytopenic purpura [^114PjpUb]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
 
 Background
 
@@ -150,73 +150,73 @@ The panel's recommendations are based on all the available evidence for the trea
 
 ---
 
-### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^7f5199ce]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^114FkqW5]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2020 guidelines recommend to initiate prophylactic treatment in pregnant patients with immune-mediated TTP having decreased plasma ADAMTS13 activity without clinical signs/symptoms.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^ebf16acc]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^1172oBQo]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2025 guidelines recommend to initiate prophylactic treatment in pregnant patients with immune-mediated TTP with decreased plasma ADAMTS-13 activity but no clinical signs or symptoms.
 
 ---
 
-### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^3a6aa223]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^112Vc6jL]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2020 guidelines recommend to initiate prophylactic treatment in pregnant patients with congenital TTP.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^76caaafc]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^11437cYT]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2025 guidelines recommend to initiate prophylactic treatment in pregnant patients with congenital TTP.
 
 ---
 
-### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^36d044a5]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for treatment of thrombotic thrombocytopenic purpura [^112QGHcG]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2020 guidelines recommend to consider administering plasma infusion over factor VIII products as a prophylactic treatment in pregnant patients with congenital TTP.
 
 ---
 
-### How I treat thrombotic thrombocytopenic purpura in pregnancy [^ac7df6ed]. Blood (2020). Medium credibility.
+### How I treat thrombotic thrombocytopenic purpura in pregnancy [^115QjBTa]. Blood (2020). Medium credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) is an acute, life-threatening thrombotic microangiopathy (TMA) caused by acquired or congenital severe deficiency of ADAMTS13. Pregnancy is a recognized risk factor for precipitating acute (first or recurrent) episodes of TTP. Differential diagnosis with other TMAs is particularly difficult when the first TTP event occurs during pregnancy; a high index of suspicion and prompt recognition of TTP are essential for achieving a good maternal and fetal outcome. An accurate distinction between congenital and acquired cases of pregnancy-related TTP is mandatory for safe subsequent pregnancy planning. In this article, we summarize the current knowledge on pregnancy-associated TTP and describe how we manage TTP during pregnancy in our clinical practice.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^f68face5]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^117JYDM6]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP, management, ISTH 2025 guidelines recommend to offer recombinant ADAMTS-13 over plasma infusion to prevent acute episodes in patients with congenital TTP in remission.
 
 ---
 
-### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^dabeee89]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^116bJS5v]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, ISTH 2020 guidelines recommend to consider initiating corticosteroids in patients with an intermediate or low clinical suspicion of immune-mediated TTP, depending on the clinician's judgment and assessment of the individual patient.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^ab0748ee]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^115NZL7P]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, ISTH 2025 guidelines recommend to consider administering plasma infusion over factor VIII products for prophylactic treatment in pregnant patients with congenital TTP.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^4e80cb69]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^1131PJ6t]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP, management, BSH 2023 guidelines recommend to consider administering ADAMTS13 prophylaxis in all patients with congenital TTP, with an individualized approach to dose and frequency according to symptoms, whether overt or non-overt.
 
 ---
 
-### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^4e14a2df]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^112zky1Q]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, ISTH 2020 guidelines recommend to initiate corticosteroids without waiting for the results of ADAMTS13 testing in patients with a high clinical suspicion of immune-mediated TTP.
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^3864bdae]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^112Sc9Nd]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 7. TTP DURING PREGNANCY
 
@@ -224,19 +224,19 @@ The ERBP working group advocates that patients with iTTP in remission and pregna
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^abafe478]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^115PXxrK]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP, management, ISTH 2025 guidelines recommend to consider administering prophylactic plasma infusion over a watch-and-wait strategy in patients with congenital TTP in remission.
 
 ---
 
-### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^4b99c2ad]. Journal of Thrombosis and Haemostasis (2020). High credibility.
+### ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura [^112w5ida]. Journal of Thrombosis and Haemostasis (2020). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, ISTH 2020 guidelines recommend to consider obtaining plasma ADAMTS13 testing (such as ADAMTS13 activity and inhibitors or anti-ADAMTS13 IgG) before initiating therapeutic plasma exchange or any blood product in patients with a high (≥ 90% pretest probability), intermediate or low clinical suspicion of immune-mediated TTP (based on a clinical assessment or a formal clinical risk assessment method) in settings with timely access to plasma ADAMTS13 activity testing.
 
 ---
 
-### Specific PHGKB | Hlbs | Public health genomics and precision… [^a03ce78f]. phgkb.cdc.gov (2024). Medium credibility.
+### Specific PHGKB | Hlbs | Public health genomics and precision… [^1156ZUc6]. phgkb.cdc.gov (2024). Medium credibility.
 
 Thrombocytopenic Purpura What's New Last Posted: Aug 07, 2024
 - Identification of HLA alleles involved in immune thrombotic thrombocytopenic purpura patients from Turkey. Cevat. lteri. K. k. l., et al. Blood coagulation & fibrinolysis: an international journal in haemostasis and thrombosis 2024 0.
@@ -266,13 +266,13 @@ PloS one 2016 0 e0156679
 
 ---
 
-### Recombinant a disintegrin-like and metalloproteinase with thrombospondin type 1 motifs 13 (ADAMTS-13) for acute and prophylactic treatment of congenital thrombotic thrombocytopenic purpura in pregnancy [^3db84b3d]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
+### Recombinant a disintegrin-like and metalloproteinase with thrombospondin type 1 motifs 13 (ADAMTS-13) for acute and prophylactic treatment of congenital thrombotic thrombocytopenic purpura in pregnancy [^112aW9XS]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) is a disorder of the absence or severe depletion of a disintegrin-like and metalloproteinase with thrombospondin type 1 motifs 13 (ADAMTS-13) protease, which cleaves von Willebrand factor multimers. In its absence, exposed platelet binding sites on large von Willebrand factor multimers bind and aggregate platelets, causing microangiopathic hemolytic anemia and thrombosis. The rare congenital form of TTP (cTTP) is caused by mutations in the ADAMTS-13 gene. Pregnant cTTP patients are at very high risk of developing complications. Current recommendations for pregnant cTTP patients are prophylactic fresh-frozen plasma infusions; however, efficacy varies among patients. Recombinant ADAMTS-13 (rADAMTS-13) is a novel alternative to plasma infusions, recently reported to be effective and safe for treating nonpregnant cTTP patients. Few studies have attempted to treat pregnant cTTP patients with rADAMTS-13. We present a case of successful treatment with rADAMTS-13 for acute TTP exacerbation and maintenance during pregnancy in a cTTP patient with a history of pregnancy complications and insufficient response to plasma infusions.
 
 ---
 
-### Consensus on the standardization of terminology in thrombotic thrombocytopenic purpura and related thrombotic microangiopathies [^d8029555]. Journal of Thrombosis and Haemostasis (2017). Low credibility.
+### Consensus on the standardization of terminology in thrombotic thrombocytopenic purpura and related thrombotic microangiopathies [^116XFCCU]. Journal of Thrombosis and Haemostasis (2017). Low credibility.
 
 Essentials An international collaboration provides a consensus for clinical definitions. This concerns thrombotic microangiopathies and thrombotic thrombocytopenic purpura (TTP). The consensus defines diagnosis, disease monitoring and response to treatment. Requirements for ADAMTS-13 are given.
 
@@ -282,13 +282,13 @@ Background Thrombotic thrombocytopenic purpura (TTP) and hemolytic-uremic syndro
 
 ---
 
-### TTP and pregnancy [^4b78a8ea]. British Journal of Haematology (2024). Medium credibility.
+### TTP and pregnancy [^112vtbn9]. British Journal of Haematology (2024). Medium credibility.
 
 Acute thrombocytopenic purpura (TTP) may present at any stage of pregnancy and the puerperium. Without prompt diagnosis and therapy, serious maternal and fetal outcomes may result. ADAMTS13 replacement via plasma exchange and immunosuppression are the mainstay of treatment. There may be a role, however, for newer therapies, including caplacizumab and recombinant ADAMTS13. Differentiation of immune TTP and congenital TTP is vital, particularly to guide the management of subsequent pregnancies.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^c1221584]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^115wL4QB]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
 
 Background
 
@@ -308,13 +308,13 @@ For patients with iTTP, no change to 2020's recommendations. For patients with c
 
 ---
 
-### Optimizing ADAMTS13 prophylaxis to reduce relapse and organ failure in congenital thrombotic thrombocytopenic purpura [^f29ca440]. Blood Advances (2025). Medium credibility.
+### Optimizing ADAMTS13 prophylaxis to reduce relapse and organ failure in congenital thrombotic thrombocytopenic purpura [^117Cgcpf]. Blood Advances (2025). Medium credibility.
 
 Congenital thrombotic thrombocytopenic purpura (cTTP) is caused by a severe inherited ADAMTS13 deficiency. While acute episodes are life-threatening, long-term burden of ischemic complications and effectiveness of prophylactic strategies remain underexplored. We conducted a 25-year national, multicenter study of 88 cTTP patients enrolled in the French Thrombotic Microangiopathy (TMA) registry. Patients were stratified by age and clinical context at disease onset: pediatric-onset (n = 42), pregnancy-onset (n = 33), adult-onset (n = 13). Clinical features, genotypes, treatment regimens, and long-term ischemic outcomes were analyzed. Pediatric patients exhibited early-onset disease (median age at diagnosis: 2 years [IQR: 0;13]) with recurrent episodes and a high burden of neurological complications. In patients with pregnancy-onset disease, no relapses were observed outside pregnancy. Adult-onset patients, typically diagnosed > 50-year-old, showed prevalent cardiovascular disease, stroke, and kidney injury. Mental health disorders were common across all groups. Despite long-term plasma prophylaxis, organ dysfunction persisted, particularly in pediatric- and adult-onset groups. In pregnancy-onset cTTP, tailored mid-term prophylaxis during pregnancy reduced maternal and fetal complications. Thirty-nine patients received recombinant human ADAMTS13 (rhADAMTS13) prophylaxis (median follow-up: 5 [6–17] months). Prophylactic treatment significantly improved relapse-free survival, with a comparable outcome using intensive plasma-derived products and rhADAMTS13 in pediatric-onset cases, although adverse events were more prevalent using plasmatherapy. Our findings highlight the clinical and genetic heterogeneity of cTTP and the burden of organ dysfunction. Intensive prophylaxis improves relapse-free survival. rhADAMTS13, by reducing the burden of care, represents a safe and promising first-line option that should help reducing long-term organ damage and improving quality of life.
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^0b2aef44]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^111HZHXy]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 ABSTRACT
 
@@ -322,31 +322,31 @@ Thrombotic thrombocytopenic purpura (TTP) is a life-threatening disease that is 
 
 ---
 
-### Congenital ADAMTS-13 deficiency presenting as life-threatening thrombosis during pregnancy [^c686ee73]. BMJ Case Reports (2021). High credibility.
+### Congenital ADAMTS-13 deficiency presenting as life-threatening thrombosis during pregnancy [^1165KsUW]. BMJ Case Reports (2021). High credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) is a life-threatening disease characterised by thrombocytopenia, microangiopathic haemolytic anaemia and microvascular thrombosis. Congenital TTP accounting for less than 5% of all TTP cases can have a late presentation in adulthood mostly triggered by predisposing factors such as infection, pregnancy and inflammation. We present a case of a 23-year-old woman who presented to us in the postpartum period with mesenteric artery thrombosis with infarcts and later was diagnosed as a case of TTP based on congenital a disintegrin and metalloproteinase with thrombospondin type 1 repeats 13 (ADAMTS-13) deficiency detected on ADAMTS-13 levels and gene sequencing. She was successfully managed initially with therapeutic plasma exchanges and is now on prophylactic fortnightly fresh frozen plasma infusions at 15mL/kg body weight and continues to be in remission.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^aee6bf96]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^115UJMNm]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP, management, ISTH 2025 guidelines recommend to avoid using factor VIII concentrate over a watch-and-wait strategy in patients with congenital TTP in remission.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^cfdec8cb]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^116KBGXL]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, BSH 2023 guidelines recommend to normalize ADAMTS13 activity before pregnancy in patients with immune-mediated TTP.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^08e817b5]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^111ECrnQ]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, BSH 2023 guidelines recommend to offer regular solvent/detergent FFP replacement therapy prophylactically to prevent clinical TTP relapse in pregnant patients with congenital TTP.
 
 ---
 
-### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^359b9459]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^112NUbsN]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Background
 
@@ -366,7 +366,7 @@ The prevalence of TTP among thrombocytopenic pregnant women is high, up to 5% in
 
 ---
 
-### Success and limitations of plasma treatment in pregnant women with congenital thrombotic thrombocytopenic purpura [^69411e3d]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
+### Success and limitations of plasma treatment in pregnant women with congenital thrombotic thrombocytopenic purpura [^113h3aCC]. Journal of Thrombosis and Haemostasis (2020). Medium credibility.
 
 Background
 
@@ -390,7 +390,7 @@ Our results indicate that FFP infusions of more than 5 mL/kg/wk should be initia
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^7287c41a]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^113voC4Z]. Blood Advances (2024). Medium credibility.
 
 Abstract
 
@@ -398,7 +398,7 @@ Pregnancy-onset thrombotic thrombocytopenic purpura (TTP) is a rare and life-thr
 
 ---
 
-### Recombinant ADAMTS13 in congenital thrombotic thrombocytopenic purpura [^7ee7c8ab]. The New England Journal of Medicine (2024). Excellent credibility.
+### Recombinant ADAMTS13 in congenital thrombotic thrombocytopenic purpura [^114F9J2E]. The New England Journal of Medicine (2024). Excellent credibility.
 
 Background
 
@@ -418,37 +418,37 @@ During prophylaxis with recombinant ADAMTS13 in patients with congenital TTP, AD
 
 ---
 
-### Acquired thrombotic thrombocytopenic purpura: new therapeutic options and their optimal use [^559c113b]. Journal of Thrombosis and Haemostasis (2015). Low credibility.
+### Acquired thrombotic thrombocytopenic purpura: new therapeutic options and their optimal use [^113BvNPc]. Journal of Thrombosis and Haemostasis (2015). Low credibility.
 
 Advances in our understanding of the pathophysiology of both congenital and acquired thrombotic thrombocytopenic purpura (TTP) have led to both an increased understanding of the disease and novel approaches to therapy. The efficacy of rituximab in acquired TTP has led to consideration of rituximab as a prophylactic therapy to prevent relapse of TTP. Novel therapies that target the A1 domain of von Willebrand factor (VWF) to block the formation of microthrombotic disease have also entered clinical study and have demonstrated promise as potential therapeutic options. Additionally, a recombinant ADAMTS13 protease has been developed which may be an important therapeutic option for both congenital and acquired TTP. The development of these new therapeutic options for patients diagnosed with TTP has increased the importance of conducting prospective, randomized studies with these agents to both confirm their efficacy and more importantly understand their most appropriate role in the treatment of patients with TTP.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^fba56853]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^117S5T8e]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP (diagnosis), BSH 2023 guidelines recommend to obtain screening with ADAMTS13 activity and genetic analysis in siblings of confirmed congenital TTP cases.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^bace7283]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^115mx3LN]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, BSH 2023 guidelines recommend to obtain investigations in pregnant patients with TTP to determine whether they have immune-mediated TTP or a first presentation of congenital TTP.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^21598b61]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^111rSfmS]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP (diagnosis), BSH 2023 guidelines recommend to confirm the diagnosis of congenital TTP by ADAMTS13 activity < 10 IU/dL, absence of anti-ADAMTS13 antibodies, and confirmation of homozygous or compound heterozygous variants in the ADAMTS13 gene.
 
 ---
 
-### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^8243030b]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^114L7u8e]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Identification of ADAMTS-13 deficiency is helpful to allow specific care of this potentially fatal disease. In constitutively deficient women, as in previous reports, we invariably observed poor outcomes of pregnancy in the absence of plasma infusion prophylaxis. It is clear that the earlier plasma infusion is started the better the prognosis. The placental pathology in patient B supports this conclusion. Further studies to evaluate ADAMTS-13 deficiency in pregnancy and to identify biomarkers that would distinguish TTP from HELLP syndrome would be valuable. Until then, even when TTP presentation is mild, clinicians should ask for ADAMTS-13 activity analysis during the acute phase or at the latest, at the post-partum consultation or preconception consultation for subsequent pregnancies. If TTP is suspected, plasma exchange should be promptly initiated without waiting for ADAMTS-13 activity results.
 
 ---
 
-### TTP: from empiricism for an enigmatic disease to targeted molecular therapies [^8392ed2c]. British Journal of Haematology (2022). Medium credibility.
+### TTP: from empiricism for an enigmatic disease to targeted molecular therapies [^114N4jGw]. British Journal of Haematology (2022). Medium credibility.
 
 A large proportion of adulthood‐onset cTTP is found in obstetric patients. Data from the Japanese TTP registry show s that patients diagnosed with cTTP before pregnancy had prior planning consisting of ADAMTS13 activity monitoring and prophylactic plasma infusions throughout pregnancy, allowing for significantly higher live birth rates. The authors suggest initiating prophylactic treatment immediately after conception because patients experience subclinical symptoms that are preventable by prophylactic treatment and the risk of foetal complications and death increases after 20 weeks of gestation. Plasma infusions have inherent limitations, and may be insufficient to prevent gestation complications in cases of uncontrolled cTTP before conception. In this context, it becomes fundamental to identify asymptomatic family members of cTTP patients (especially sisters of childbearing age).
 
@@ -456,7 +456,7 @@ Of special note, obstetric iTTP is a subpopulation still in need of clearly defi
 
 ---
 
-### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^87acafdf]. Haematologica (2019). Medium credibility.
+### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^114U9LFx]. Haematologica (2019). Medium credibility.
 
 Congenital TTP (cTTP) is an ultra-rare disease, affecting about one per 1,000,000 persons. Its rarity makes it difficult to unravel what contributes to its complex and varied clinical presentation and course of disease. Adding to this challenge is the large variety of ADAMTS13 gene mutations (> 200) - that have been identified (missense, nonsense, splice site mutations, and frameshift mutations caused by small deletions and insertions), and new mutations are being continuously revealed. ADAMTS13 gene variants may abolish or impair ADAMTS13 synthesis, secretion or activity. Some data suggest that the severity of disease in cTTP is related to residual ADAMTS13 activity. In a cohort of 29 cTTP patients, Lotta et al.found residual ADAMTS13 activity of < 3% to be associated with an early disease onset (< 18 years of age), an annual event rate of > 1, and a need for prophylactic plasma therapy. Age at overt onset and diagnosis of cTTP shows, in general, a seemingly dichotomous distribution, with approximately half of patients presenting within their first five years of life, and the other half experiencing disease onset in early adulthood, often during a first pregnancy.- Childhood-onset cTTP often starts in the neonatal period with hematologic features and severe jaundice. Moreover, Schneppenheim et al.and von Krogh et al.reported on variable disease courses in cTTP patients homozygous for the ADAMTS13 c.4143_4144dupA mutation, typically having an ADAMTS13 activity < 1% of normal. Consequently, the question was asked as to whether residual ADAMTS13 activity is really the major determinant of clinical heterogeneity in cTTP.
 
@@ -464,7 +464,7 @@ The Hereditary TTP Registry (identifier: NCT01257269) started in 2006 as an inte
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^79e3585e]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^1147hs97]. Blood Advances (2024). Medium credibility.
 
 The exact risk of relapse during pregnancy in women who have recovered from iTTP or uTTP is unknown. This risk primarily relies on the level of ADAMTS13 activity at the start of pregnancy, with an increased risk if the activity remains undetectable. In cTTP, the risk of relapse in subsequent pregnancies is 100% in the absence of prophylactic plasma therapy.
 
@@ -474,25 +474,25 @@ In this study based on our 21 years of experience, we focused on pregnancy-onset
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^c432d53c]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^1161seYK]. Blood Advances (2024). Medium credibility.
 
 The second well-defined subtype is late-onset cTTP (26.9% of our cohort), which is almost exclusively triggered by pregnancy. Clinical presentation is very similar to what we observed in iTTP, and unfortunately no clinical or biological marker appears useful to discriminate these 2 forms of the disease at the acute phase. Although not all ADAMTS13 variants reported in adult-onset cTTP have been characterized, the most frequent variant R1060W (72.4% of our cohort) was reported to lead to a severe intracellular retention of an otherwise functional protein. In other terms, it is possible that adult-onset cTTP are linked to essentially quantitative ADAMTS13 defects that require the prolonged increase of VWF inherent to pregnancy to lead to TTP. Management data show that, to attain remission, the need in plasma is lower than in patients with iTTP. Moreover, and similarly to other studies focusing on late-onset cTTP, no TTP episode outside of pregnancy was reported in our cohort, supporting the major role played by high VWF levels during pregnancy to trigger a TTP episode in this context. Overall, our strategy, also in practice in other countries, of systematically administrating weekly or biweekly prophylactic plasma infusion initiated as soon as the pregnancy is diagnosed and close monitoring of pregnancies in those with cTTP by multidisciplinary teams appears successful. There is a perspective of alleviated treatment and high effectiveness thanks to recombinant ADAMTS13.
 
 ---
 
-### Recombinant ADAMTS13 for hereditary thrombotic thrombocytopenic purpura [^daeaf361]. The New England Journal of Medicine (2022). Excellent credibility.
+### Recombinant ADAMTS13 for hereditary thrombotic thrombocytopenic purpura [^116bZDeG]. The New England Journal of Medicine (2022). Excellent credibility.
 
 A 27-year-old patient with a history of severe obstetrical complications and arterial thrombosis received a diagnosis of hereditary thrombotic thrombocytopenic purpura (TTP) due to severe ADAMTS13 deficiency when she presented with an acute episode in the 30th week of her second pregnancy. When the acute episode of hereditary TTP became plasma-refractory and fetal death was imminent, weekly injections of recombinant ADAMTS13 at a dose of 40 U per kilogram of body weight were initiated. The patient's platelet count normalized, and the growth of the fetus stabilized. At 37 weeks 1 day of gestation, a small-for-gestational-age boy was delivered by cesarean section. At the time of this report, the patient and her son were well, and she continued to receive injections of recombinant ADAMTS13 every 2 weeks. (Funded by the Swiss National Science Foundation.).
 
 ---
 
-### Successful use of recombinant ADAMTS13 in a pregnant patient with immune-mediated thrombotic thrombocytopenic purpura [^0502150e]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
+### Successful use of recombinant ADAMTS13 in a pregnant patient with immune-mediated thrombotic thrombocytopenic purpura [^1118RdyX]. Journal of Thrombosis and Haemostasis (2025). Medium credibility.
 
 We report the first case of immune-mediated thrombotic thrombocytopenic purpura (iTTP) successfully treated with recombinant ADAMTS13 (rhADAMTS13) during pregnancy. A 36-year-old woman with a history of severe iTTP and persistently undetectable ADAMTS13 activity despite multiple immunosuppressive therapies, remained relapse-free for ten years. In the 33rd week of pregnancy, she showed the first signs of relapse, whereupon rhADAMTS13 50 U/kg was administered. ADAMTS13 activity and platelet count recovered rapidly, allowing a healthy newborn to be delivered safely by cesarean section. No adverse event was observed. rhADAMTS13 could represent an effective, well-tolerated therapeutic alternative for iTTP patients with clinical or ADAMTS13 relapse. During pregnancy, where plasma exchange or caplacizumab are undesirable and recommendations are uncertain, this strategy could represent a promising therapeutic alternative in selected cases.
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^96a1e054]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^114rKWsm]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 6. TTP IN REMISSION
 
@@ -500,7 +500,7 @@ For iTTP, the ERBP working group advocates regular testing of ADAMTS13 activity 
 
 ---
 
-### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^3355296c]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^112K6yTZ]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 For patient A, similar observations were made; she received plasma infusion from the start of her second pregnancy and gave birth by planned caesarean section at 34 WG + 3 days to a healthy boy (ADAMTS-13 activity of 62% at 8 months). Patient A received 3 plasma exchanges during the month preceding delivery because she needed large amounts of plasma (≥ 2 L). Residual ADAMTS-13 values ranged from 5% before plasma therapy to 15% throughout pregnancy with prophylactic treatment.
 
@@ -513,7 +513,7 @@ Genetic analysis of ADAMTS-13 for patients A, B, C are shown in Table 2. Patient
 
 ---
 
-### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^a9f95cba]. Blood Advances (2022). Medium credibility.
+### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^115LzfbP]. Blood Advances (2022). Medium credibility.
 
 Introduction
 
@@ -523,13 +523,13 @@ The goal of our study was to determine the health outcomes and survival of patie
 
 ---
 
-### Characterization and treatment of congenital thrombotic thrombocytopenic purpura [^dfc791e7]. Blood (2019). Medium credibility.
+### Characterization and treatment of congenital thrombotic thrombocytopenic purpura [^116imGnA]. Blood (2019). Medium credibility.
 
 Congenital thrombotic thrombocytopenic purpura (cTTP) is an ultra-rare thrombomicroangiopathy caused by an inherited deficiency of a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 (ADAMTS13). There are limited data on genotype-phenotype correlation; there is no consensus on treatment. We reviewed the largest cohort of cTTP cases, diagnosed in the United Kingdom, over the past 15 years. Seventy-three cases of cTTP were diagnosed, confirmed by genetic analysis. Ninety-three percent were alive at the time of review. Thirty-six percent had homozygous mutations; 64% had compound heterozygous mutations. Two presentation peaks were seen: childhood (median diagnosis age, 3.5 years) and adulthood, typically related to pregnancy (median diagnosis age, 31 years). Genetic mutations differed by age of onset with prespacer mutations more likely to be associated with childhood onset (P = 0.0011). Sixty-nine percent of adult presentations were associated with pregnancy. Fresh-frozen plasma (FFP) and intermediate purity factor VIII concentrate were used as treatment. Eighty-eight percent of patients with normal blood counts, but with headaches, lethargy, or abdominal pain, reported symptom resolution with prophylactic therapy. The most common currently used regimen of 3-weekly FFP proved insufficient for 70% of patients and weekly or fortnightly infusions were required. Stroke incidence was significantly reduced in patients receiving prophylactic therapy (2% vs 17%; P = 0.04). Long-term, there is a risk of end-organ damage, seen in 75% of patients with late diagnosis of cTTP. In conclusion, prespacer mutations are associated with earlier development of cTTP symptoms. Prophylactic ADAMTS13 replacement decreases the risk of end-organ damage such as ischemic stroke and resolved previously unrecognized symptoms in patients with nonovert disease.
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^1749e494]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^111bXY2o]. Blood Advances (2024). Medium credibility.
 
 Key Points
 
@@ -538,7 +538,7 @@ Key Points
 
 ---
 
-### Recombinant ADAMTS13: an effective rescue therapy for acute cTTP during pregnancy [^8dc2cb18]. Blood Advances (2024). Medium credibility.
+### Recombinant ADAMTS13: an effective rescue therapy for acute cTTP during pregnancy [^114dAgcf]. Blood Advances (2024). Medium credibility.
 
 TO THE EDITOR:
 
@@ -548,7 +548,7 @@ TTP during pregnancy is fraught with substantial difficulties. It must be rapidl
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^40a369db]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^112eq6b4]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 1. INTRODUCTION
 
@@ -563,19 +563,19 @@ We also discuss relevant issues in the diagnosis and treatment of TTP and try to
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^958f5785]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^114pjJWp]. British Journal of Haematology (2023). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, BSH 2023 guidelines recommend to consider confirming a low ADAMTS13 activity level based on a fully automated assay/semi-quantitative assay (by a FRET-based assay), depending on the index of clinical suspicion for TTP.
 
 ---
 
-### Use of popPK and E-R analyses toward explaining causal link between ADAMTS13 in recombinant vs. plasma-based therapies and clinical effects in cTTP [^42a54471]. Clinical Pharmacology and Therapeutics (2025). Medium credibility.
+### Use of popPK and E-R analyses toward explaining causal link between ADAMTS13 in recombinant vs. plasma-based therapies and clinical effects in cTTP [^112hohGU]. Clinical Pharmacology and Therapeutics (2025). Medium credibility.
 
 Congenital thrombotic thrombocytopenic purpura (cTTP) is a severe, ultra‐rare genetic deficiency of "a disintegrin and metalloproteinase with thrombospondin motifs 13" (ADAMTS13) enzyme. The diagnosis of cTTP is typically confirmed by ADAMTS13 activity < 10% of normal in the absence of an acquired inhibitor, and has an estimated prevalence ranging between 0.5 and 2 cases per million population, although the prevalence may be considerably higher in certain regions. While disease onset can occur anytime, two incidence peaks have been reported at birth and during pregnancy. ADAMTS13 is secreted into the blood and cleaves von Willebrand factor (VWF) multimers into smaller and less biologically active units. Deficiency of ADAMTS13 can cause accumulation of large and ultra‐large VWF multimers with high platelet‐binding activity, leading to platelet aggregation and thrombi formation in the microvasculature. In line with this, acute exacerbations of TTP are often complicated by organ ischemia that can be life‐threatening in the absence of treatment.
 
 ---
 
-### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^7b5fc753]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^1149ueae]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Conclusion
 
@@ -583,13 +583,13 @@ Clinicians should be aware of TTP in cases of early onset or severe thrombocytop
 
 ---
 
-### Current insights into thrombotic microangiopathies: thrombotic thrombocytopenic purpura and pregnancy [^259c2105]. Thrombosis Research (2015). Low credibility.
+### Current insights into thrombotic microangiopathies: thrombotic thrombocytopenic purpura and pregnancy [^111xkz4k]. Thrombosis Research (2015). Low credibility.
 
 The complex relation between thrombotic thrombocytopenic purpura (TTP) and pregnancy is concisely reviewed. Pregnancy is a very strong trigger for acute disease manifestation in patients with hereditary TTP caused by double heterozygous or homozygous mutations of ADAMTS13 (ADisintegrin And Metalloprotease with ThromboSpondin type 1 domains, no. 13). In several affected women disease onset during their first pregnancy leads to the diagnosis of hereditary TTP. Without plasma treatment mother and especially fetus are at high risk of dying. The relapse risk during a next pregnancy is almost 100% but regular plasma transfusion starting in early pregnancy will prevent acute TTP flare-up and may result in successful pregnancy outcome. Pregnancy may also constitute a mild risk factor for the onset of acute acquired TTP caused by autoantibody-mediated severe ADAMTS13 deficiency. Women having survived acute acquired TTP may not be at very high risk of TTP relapse during an ensuing next pregnancy but seem to have an elevated risk of preeclampsia. Monitoring of ADAMTS13 activity and inhibitor titre during pregnancy may help to guide management and to avoid disease recurrence. Finally, TTP needs to be distinguished from the much more frequent hypertensive pregnancy complications, preeclampsia and especially HELLP (Hemolysis, Elevated Liver Enzymes, Low Platelet count) syndrome.
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^e14ef9e7]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^116m2jzE]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 3. DIAGNOSIS OF TTP
 
@@ -600,7 +600,7 @@ French and PLASMIC scores to predict the likelihood of severe ADAMTS13 deficienc
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^20e781d4]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^111qnN99]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CONCLUSION
 
@@ -614,13 +614,13 @@ Third, caplacizumab improved therapy of acute iTTP treatment by reducing unfavou
 
 ---
 
-### Severe congenital thrombotic thrombocytopenic purpura in pregnancy complicated by eclampsia [^51a68e15]. BMJ Case Reports (2025). High credibility.
+### Severe congenital thrombotic thrombocytopenic purpura in pregnancy complicated by eclampsia [^11363wac]. BMJ Case Reports (2025). High credibility.
 
 A postpartum woman was diagnosed with congenital thrombotic thrombocytopenic purpura (TTP), triggered by pregnancy. She presented with severe thrombocytopenia, haemolysis, hypertension and neurological symptoms. Laboratory findings, including microangiopathic haemolytic anaemia, elevated lactate dehydrogenase (LDH) and a severely reduced ADAMTS13 activity, confirmed the diagnosis. Genetic testing identified a mutation in the ADAMTS13 gene. The patient was managed with plasma exchange (PLEX), fresh frozen plasma (FFP) and supportive care. After two sessions of PLEX, her platelet count increased to 150 × 10⁹/L, LDH normalised, blood pressure stabilised and antihypertensive medications were discontinued. At discharge, she was asymptomatic, with a creatinine of 0.6mg/dL. Follow-up at 3 and 6months showed no recurrence. This case highlights the importance of early recognition of TTP in pregnancy, differentiation from other pregnancy-related disorders and the role of genetic testing in guiding long-term management and counselling.
 
 ---
 
-### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^3ceb5720]. Blood Advances (2022). Medium credibility.
+### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^112ZKJi3]. Blood Advances (2022). Medium credibility.
 
 The possibilities of unrecognized hTTP suggest that the current prevalence estimate of hTTP (0.5–2.0 cases per million population) is an underestimate. One report described a search for hTTP in Central Norway using multiple case-finding strategies. These data reported an estimated prevalence of hTTP of 16.7 cases per million population. This estimate was supported by identifying the common pathologic ADAMTS13 mutations c.4143insA and p.R1060W in 0.33% to 1.0% of blood donors. As measurements of ADAMTS13 activity become more common, more patients with hTTP will be identified.
 
@@ -628,25 +628,25 @@ Morbidities and deaths in patients with hTTP are preventable by replacing ADAMTS
 
 ---
 
-### Pharmacokinetics of plasma infusion in congenital thrombotic thrombocytopenic purpura [^ea475bb3]. Journal of Thrombosis and Haemostasis (2019). Medium credibility.
+### Pharmacokinetics of plasma infusion in congenital thrombotic thrombocytopenic purpura [^116zL57Y]. Journal of Thrombosis and Haemostasis (2019). Medium credibility.
 
 Essentials Congenital thrombotic thrombocytopenic purpura (TTP) is primarily treated with plasma infusion. We present a pharmacokinetic analysis of ADAMTS-13 in six patients following plasma infusion. A median half-life of 130 h was demonstrated, ranging between 82.6 and 189.5 h. Investigation of interindividual clearance of ADAMTS-13 is necessary to optimize treatment. SUMMARY: Background Congenital thrombotic thrombocytopenic purpura (TTP) is defined by persistent severe deficiency of ADAMTS-13 in the absence of anti-ADAMTS-13 inhibitory antibodies, confirmed by mutational analysis. Replacement of the missing protease prevents disease relapse, primarily using plasma infusion (PI). Objectives, patients and methods There is scant evidence regarding optimal dose and frequency of treatment, which tends to be empirically guided. We present a pharmacokinetic analysis of ADAMTS-13 in six patients with congenital TTP on established regimes following PI. Results We found a median clearance of 25.41 mL h⁻¹ and half-life of 130 h, ranging between 82.6 and 189.5 h (3.4–7.9 days, respectively). All patients reached baseline ADAMTS-13 level within 7–10 days post-plasma. Median ADAMTS-13 activity peak post-PI was 24.05 IU dL⁻¹. Variation was related to elimination rate, which, in turn, was affected by weight and metabolism, but not to von Willebrand factor antigen or activity levels. Using the pharmacokinetic parameters, we simulated individualized protocols based on PI dose or frequency to target hypothetical optimal plasma levels of ADAMTS-13 of 10 and 50 IU dL⁻¹, respectively. Results suggest a target trough ADAMTS-13 of 10 IU dL⁻¹ is feasible but 50 IU dL⁻¹ would not be achievable taking into account volume required. Conclusions Further work is needed to compare treatment of congenital TTP with PI vs. recombinant ADAMTS-13. PI may provide longer duration of ADAMTS-13 effect, but is limited by plasma volume required, whereas recombinant therapy can provide a higher ADAMTS-13 peak. We propose that investigation of interindividual clearance of ADAMTS-13 is necessary to optimize treatment and provide the rationale for dose and frequency of prophylaxis.
 
 ---
 
-### Thrombotic thrombocytopenic purpura and pregnancy: presentation, management, and subsequent pregnancy outcomes [^d473a90f]. Blood (2014). Low credibility.
+### Thrombotic thrombocytopenic purpura and pregnancy: presentation, management, and subsequent pregnancy outcomes [^116RyDzN]. Blood (2014). Low credibility.
 
 Pregnancy can precipitate thrombotic thrombocytopenic purpura (TTP). We present a prospective study of TTP cases from the United Kingdom Thrombotic Thrombocytopenic Purpura (UK TTP) Registry with clinical and laboratory data from the largest cohort of pregnancy-associated TTP and describe management through pregnancy, averting fetal loss and maternal complications. Thirty-five women presented with a first TTP episode during pregnancy: 23/47 with their first congenital TTP (cTTP) episode and 12/47 with acute acquired TTP in pregnancy. TTP presented primarily in the third trimester/postpartum, but fetal loss was highest in the second trimester. Fetal loss occurred in 16/38 pregnancies before cTTP was diagnosed, but in none of the 15 subsequent managed pregnancies. Seventeen of 23 congenital cases had a missense mutation, C3178T, within exon 24 (R1060W). There were 8 novel mutations. In acquired TTP presentations, fetal loss occurred in 5/18 pregnancies and 2 terminations because of disease. We also present data on 12 women with a history of nonpregnancy-associated TTP: 18 subsequent pregnancies have been successfully managed, guided by ADAMTS13 levels. cTTP presents more frequently than acquired TTP during pregnancy and must be differentiated by ADAMTS13 analysis. Careful diagnosis, monitoring, and treatment in congenital and acquired TTP have assisted in excellent pregnancy outcomes.
 
 ---
 
-### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^1bd80d6c]. Blood Advances (2022). Medium credibility.
+### Morbidities and mortality in patients with hereditary thrombotic thrombocytopenic purpura [^111iHEef]. Blood Advances (2022). Medium credibility.
 
 These data describe our current knowledge of the health outcomes of patients with hTTP. With more common use of ADAMTS13 measurements, there will be greater recognition of these patients. More common use of ADAMTS13 measurements will identify hTTP as a cause of severe hyperbilirubinemia in newborn infants, stroke in children and young adults, and severe complications during pregnancy. More frequent identification of patients with hTTP and more convenient prophylaxis will prevent major morbidities and deaths.
 
 ---
 
-### Severe HELLP syndrome masquerading as thrombocytopenic thrombotic purpura: a case report [^3c3b12d2]. BMC Nephrology (2020). Medium credibility.
+### Severe HELLP syndrome masquerading as thrombocytopenic thrombotic purpura: a case report [^112YJ6kh]. BMC Nephrology (2020). Medium credibility.
 
 Discussion and conclusion
 
@@ -660,7 +660,7 @@ This case contends that a third mechanism may be involved: the severity of liver
 
 ---
 
-### Congenital thrombotic thrombocytopenic purpura (TTP) with placental abruption despite maternal improvement: a case report [^976aeb9a]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Congenital thrombotic thrombocytopenic purpura (TTP) with placental abruption despite maternal improvement: a case report [^114sV3Xf]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Background
 
@@ -672,7 +672,7 @@ Prior case reports have focused primarily on maternal complications with only a 
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^09f92ad0]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^111Fnahu]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 4. TREATMENT OF THE FIRST EPISODE OF iTTP
 
@@ -680,7 +680,7 @@ In all patients with suspected iTTP, TPE and steroid treatment should be started
 
 ---
 
-### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^a4265486]. Haematologica (2019). Medium credibility.
+### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^115CMqx1]. Haematologica (2019). Medium credibility.
 
 Detailed information on 291 acute episodes in 81 cTTP patients was available at the time of enrollment. The frequency of acute manifestations varied considerably in individual patients with a median of approximately 0.1 acute episode per patient-year and a range of 0.02–9 yearly acute episodes per patient (Online Supplementary Table S2). In two-thirds of episodes, the responsible physicians assumed a triggering factor, mainly mild to moderately severe infections, alcohol excess in men, pregnancy in women, and various other potential triggers (Figure 3). Pregnancy is a well-known trigger for acute disease episodes in cTTP,-, and it is conceivable that pregnancy and other conditions leading to an increased endothelial von Willebrand factor secretion may bring about acute disease in the face of absent or severely reduced ADAMTS13 activity. It is generally thought that an acute episode in cTTP is rapidly controlled by simple plasma infusion;, however, data from our Registry show that the median duration of over 200 well-documented episodes was seven days, probably because of delayed plasma therapy or illness from the triggering event.
 
@@ -688,7 +688,7 @@ Information on prophylactic treatment was available for 117 of 123 cTTP patients
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^577bd613]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^113EhX3Q]. Blood Advances (2024). Medium credibility.
 
 In physiological conditions, von Willebrand factor (VWF) levels increase from the early stages of pregnancy and can reach levels > 200 IU/dL, returning to normal values 1 to 3 weeks postpartum. This increase in VWF during pregnancy is associated with a moderate decrease in the activity of its specific cleaving protease ADAMTS13 (a disintegrin and metalloprotease with thrombospondin type 1 repeats, member 13) of 20% to 40% compared with prepregnancy levels. Pregnancy-onset TTP is defined by a severe ADAMTS13 deficiency leading to the accumulation of the most hemostatically active ultralarge multimers of VWF that spontaneously bind to platelets to form platelet-rich microthrombi obstructing the microcirculation and resulting in thrombocytopenia and hemolytic anemia.
 
@@ -696,31 +696,31 @@ In the vast majority of pregnancy-onset TTP cases, the severe functional deficie
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^ec85f0a7]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^1173f4sQ]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to pregnant patients, BSH 2023 guidelines recommend to treat patients presenting for the first time with TTP in pregnancy initially as per immune-mediated TTP with plasma exchange and corticosteroids.
 
 ---
 
-### Thrombotic thrombocytopenic purpura: survival in pregnancy with heparin sodium therapy… [^1e6e65d1]. JAMA Network (2025). Excellent credibility.
+### Thrombotic thrombocytopenic purpura: survival in pregnancy with heparin sodium therapy… [^111n7iBA]. JAMA Network (2025). Excellent credibility.
 
 Richardson JH, Smith BT. Thrombotic Thrombocytopenic Purpura: Survival in Pregnancy With Heparin Sodium Therapy. JAMA. 1968; 203: 518–519. doi: 10.1001/jama.1968.03140070074020 A patient with thrombotic thrombocytopenic purpura complicating pregnancy survived. This was attributed to heparin sodium therapy. Customize your JAMA Network experience by selecting one or more topics from the list below.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^5aac06ef]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^113KRfin]. British Journal of Haematology (2023). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, BSH 2023 guidelines recommend to obtain pre-treatment samples to measure ADAMTS13 activity levels and detect anti-ADAMTS13 antibodies.
 
 ---
 
-### Unexpected frequency of upshaw-schulman syndrome in pregnancy-onset thrombotic thrombocytopenic purpura [^b69ea815]. Blood (2012). Low credibility.
+### Unexpected frequency of upshaw-schulman syndrome in pregnancy-onset thrombotic thrombocytopenic purpura [^115fk3Ak]. Blood (2012). Low credibility.
 
 Pregnancy may be complicated by a rare but life-threatening disease called thrombotic thrombocytopenic purpura (TTP). Most cases of TTP are due to an acquired autoimmune or hereditary (Upshaw-Schulman syndrome [USS]) severe deficiency of a disintegrin and metalloprotease with thrombospondin type 1 repeats, member 13 (ADAMTS13). In the present study, we performed a cross-sectional analysis of the national registry of the French Reference Center for Thrombotic Microangiopathies from 2000–2010 to identify all women who were pregnant at their initial TTP presentation. Among 592 adulthood-onset TTP patients with a severe ADAMTS13 deficiency, 42 patients with a pregnancy-onset TTP were included. Surprisingly, the proportion of USS patients (n = 10 of 42 patients [24%]; confidence interval, 13%-39%) with pregnancy-onset TTP was much higher than that in adulthood-onset TTP in general (less than 5%) and was mostly related to a cluster of ADAMTS13 variants. In the present study, subsequent pregnancies in USS patients not given prophylaxis were associated with very high TTP relapse and abortion rates, whereas prophylactic plasmatherapy was beneficial for both the mother and the baby. Pregnancy-onset TTP defines a specific subgroup of patients with a strong genetic background. This study was registered at www.clinicaltrials.gov as number NCT00426686 and at the Health Authority, French Ministry of Health, as number P051064.
 
 ---
 
-### Congenital thrombotic thrombocytopenic purpura (TTP) with placental abruption despite maternal improvement: a case report [^c57efe38]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### Congenital thrombotic thrombocytopenic purpura (TTP) with placental abruption despite maternal improvement: a case report [^1163oDYK]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Discussion and conclusions
 
@@ -730,13 +730,13 @@ Treatment with TPE drastically decreases the rates of maternal mortality otherwi
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^ba434778]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^115m9J7y]. British Journal of Haematology (2023). High credibility.
 
 Regarding diagnostic investigations for thrombotic thrombocytopenic purpura, more specifically with respect to ADAMTS13 activity and anti-ADAMTS13 antibodies, BSH 2023 guidelines recommend to obtain an early measurement of ADAMTS13 activity rather than using scoring systems.
 
 ---
 
-### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^e2208fd0]. Blood Advances (2024). Medium credibility.
+### Management and follow-up of pregnancy-onset thrombotic thrombocytopenic purpura: the French experience [^116nF93V]. Blood Advances (2024). Medium credibility.
 
 The 12 patients with iTTP total 21 subsequent pregnancies:
 
@@ -749,31 +749,31 @@ In the cTTP group, median length of follow-up was 6.5 years (IQR, 6.5 years). No
 
 ---
 
-### More on the pathogenesis of thrombotic thrombocytopenic purpura. comment on "Acquired thrombotic thrombocytopenic purpura without detectable Anti-ADAMTS13 antibodies: a possible underlying autoimmune mechanism" and on "The different faces of thrombotic thrombocytopenic purpura" [^7960cba9]. Haematologica (2025). Medium credibility.
+### More on the pathogenesis of thrombotic thrombocytopenic purpura. comment on "Acquired thrombotic thrombocytopenic purpura without detectable Anti-ADAMTS13 antibodies: a possible underlying autoimmune mechanism" and on "The different faces of thrombotic thrombocytopenic purpura" [^1146x1q2]. Haematologica (2025). Medium credibility.
 
 The consensus guideline introduced by Scully et al. in 2017 and reports of several other groups offered a comprehensive update on the management and classification of TTP by addressing both acquired and inherited forms of TTP, including the diagnostic criteria and the importance of ADAMTS13 testing for TTP diagnosis. A major clue to our understanding of ADAMTS13 was introduced by Roose et al. who showed that this protease usually circulates in an open conformation during the acute phase of iTTP but remains primarily closed during remission, with ADAMTS13 activity higher than 50% and undetectable anti-ADAMTS13 autoantibodies. All in all, despite major advances in recent years in the understanding of the disease, many aspects of its pathophysiology still remain unclear. TTP remains primarily a clinical diagnosis, which must be confirmed by the presence of severely reduced ADAMTS13 activity (< 10%) with or without the presence of anti-ADAMTS13 antibodies.
 
 ---
 
-### Residual plasmatic activity of ADAMTS13 is correlated with phenotype severity in congenital thrombotic thrombocytopenic purpura [^bf75a235]. Blood (2012). Low credibility.
+### Residual plasmatic activity of ADAMTS13 is correlated with phenotype severity in congenital thrombotic thrombocytopenic purpura [^115tr9Wk]. Blood (2012). Low credibility.
 
 The quantification of residual plasmatic ADAMTS13 activity in congenital thrombotic thrombocytopenic purpura (TTP) patients is constrained by limitations in sensitivity and reproducibility of commonly used assays at low levels of ADAMTS13 activity, blunting efforts to establish genotype-phenotype correlations. In the present study, the residual plasmatic activity of ADAMTS13 was measured centrally by surface-enhanced laser desorption/ionization time-of-flight mass spectrometry (limit of detection = 0.5%) in 29 congenital TTP patients. The results were used to study correlations among ADAMTS13 genotype, residual plasmatic activity, and clinical phenotype severity. An ADAMTS13 activity above 0.5% was measured in 26 (90%) patients and lower levels of activity were associated with earlier age at first TTP episode requiring plasma infusion, more frequent recurrences, and prescription of fresh-frozen plasma prophylaxis. Receiver operating characteristic curve analysis showed that activity levels of less than 2.74% and 1.61% were discriminative of age at first TTP episode requiring plasma infusion < 18 years, annual rate of TTP episodes > 1, and use of prophylaxis. Mutations affecting the highly conserved N-terminal domains of the protein were associated with lower residual ADAMTS13 activity and a more severe phenotype in an allelic-dose dependent manner. The results of the present study show that residual ADAMTS13 activity is associated with the severity of clinical phenotype in congenital TTP and provide insights into genotype-phenotype correlations.
 
 ---
 
-### Management of thrombotic microangiopathy in pregnancy and postpartum: report from an international working group [^41947c0a]. Blood (2020). Medium credibility.
+### Management of thrombotic microangiopathy in pregnancy and postpartum: report from an international working group [^112gE52h]. Blood (2020). Medium credibility.
 
 Pregnancy and postpartum are high-risk periods for different forms of thrombotic microangiopathy (TMA). However, the management of pregnancy-associated TMA remains ill defined. This report, by an international multidisciplinary working group of obstetricians, nephrologists, hematologists, intensivists, neonatologists, and complement biologists, summarizes the current knowledge of these potentially severe disorders and proposes a practical clinical approach to diagnose and manage an episode of pregnancy-associated TMA. This approach takes into account the timing of TMA in pregnancy or postpartum, coexisting symptoms, first-line laboratory workup, and probability-based assessment of possible causes of pregnancy-associated TMA. Its aims are: to rule thrombotic thrombocytopenic purpura (TTP) in or out, with urgency, using ADAMTS13 activity testing; to consider alternative disorders with features of TMA (preeclampsia/eclampsia; hemolysis elevated liver enzymes low platelets syndrome; antiphospholipid syndrome); or, ultimately, to diagnose complement-mediated atypical hemolytic uremic syndrome (aHUS; a diagnosis of exclusion). Although they are rare, diagnosing TTP and aHUS associated with pregnancy, and postpartum, is paramount as both require urgent specific treatment.
 
 ---
 
-### The clinical utility of ADAMTS13 activity, antigen and autoantibody assays in thrombotic thrombocytopenic purpura [^8e47ee06]. British Journal of Haematology (2007). Low credibility.
+### The clinical utility of ADAMTS13 activity, antigen and autoantibody assays in thrombotic thrombocytopenic purpura [^114dwQKf]. British Journal of Haematology (2007). Low credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) has been linked to a severe deficiency in ADAMTS13 (a disintegrin and metalloprotease with thrombospondin type 1 motif, member 13) activity. Since the identification of ADAMTS13, and its target cleavage sequence in von Willebrand factor (VWF), several novel ADAMTS13 activity, antigen and autoantibody assays have been developed. Our aim was to evaluate the potential use of these novel assays. ADAMTS13 activity and inhibitors were measured by overnight incubation of patient plasma with pure VWF followed by multimer or collagen binding analysis. ADAMTS13 activity (Rapid peptide assay), antigen and immunoglobulin G anti-ADAMTS13 were measured by enzyme-linked immunosorbent assay. 118 samples from seven TTP patients (six adult idiopathic, one congenital) were studied longitudinally during episodes of TTP, their treatment and prophylaxis. ADAMTS13 antigen levels varied considerably between patients and sample times, but in new cases of acute TTP, rapid assays of ADAMTS13 antigen, on serial samples, maybe helpful in confirming the diagnosis. The rapid peptide ADAMTS13 activity assay showed good concordance of results with the older activity assay methods. The change in ADAMTS13 activity mirrored the autoantibody level and in 5/6 acquired TTP cases, a fall in antibody appeared to predict a rise in ADAMTS13 activity, potentially allowing modification of patient management based on autoantibody levels.
 
 ---
 
-### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^fb64479f]. BMC Pregnancy and Childbirth (2015). Low credibility.
+### Incidence of obstetrical thrombotic thrombocytopenic purpura in a retrospective study within thrombocytopenic pregnant women. A difficult diagnosis and a treatable disease [^117RhaLn]. BMC Pregnancy and Childbirth (2015). Low credibility.
 
 Table 1
 Clinical characteristics of four pregnancy-related TTP patients
@@ -789,37 +789,37 @@ Patient B placental pathologies over 3 pregnancies with increasing plasma exposu
 
 ---
 
-### Thrombocytopenia in pregnancy [^323beef5]. Blood (2017). Low credibility.
+### Thrombocytopenia in pregnancy [^112HUWgt]. Blood (2017). Low credibility.
 
 Thrombocytopenia develops in 5% to 10% of women during pregnancy or in the immediate postpartum period. A low platelet count is often an incidental feature, but it might also provide a biomarker of a coexisting systemic or gestational disorder and a potential reason for a maternal intervention or treatment that might pose harm to the fetus. This chapter reflects our approach to these issues with an emphasis on advances made over the past 5 to 10 years in understanding and managing the more common causes of thrombocytopenia in pregnancy. Recent trends in the management of immune thrombocytopenia translate into more women contemplating pregnancy while on treatment with thrombopoietin receptor agonists, rituximab, or mycophenylate, which pose known or unknown risks to the fetus. New criteria to diagnose preeclampsia, judicious reliance on measurement of ADAMTS13 to make management decisions in suspected thrombotic thrombocytopenic purpura, new evidence supporting the efficacy and safety of anticomplement therapy for atypical hemolytic uremic syndrome during pregnancy, and implications of thrombotic microangiopathies for subsequent pregnancies are evolving rapidly. The goals of the chapter are to help the hematology consultant work through the differential diagnosis of thrombocytopenia in pregnancy based on trimester of presentation, severity of thrombocytopenia, and coincident clinical and laboratory manifestations, and to provide guidance for dealing with some of the more common and difficult diagnostic and management decisions.
 
 ---
 
-### TTP and ADAMTS13: when is testing appropriate? [^81eca7f1]. Hematology: American Society of Hematology. Education Program (2007). Low credibility.
+### TTP and ADAMTS13: when is testing appropriate? [^114KctnU]. Hematology: American Society of Hematology. Education Program (2007). Low credibility.
 
 The last 10 years witnessed the publication of many studies on the pathophysiology of thrombotic thrombocytopenic purpura (TTP), a life-threatening disease characterized by microangiopathic hemolytic anemia, thrombocytopenia and multiorgan failure. The most important finding was the identification of a novel metalloprotease, named ADAMTS13 (a disintegrin and metalloproteinase with thrombospondin type 1 motives), that is involved in the regulation of the size of von Willebrand factor (VWF), a major modulator of platelet adhesion and aggregation in the microcirculation. Inherited or acquired deficiencies of ADAMTS13 impair VWF cleavage, leading in turn to the disseminated formation of platelet-rich thrombi in the micro-circulation and to symptoms of end-organ ischemia. By measuring ADAMTS13 in plasma, it has been clearly shown that patients with inherited TTP have severe ADAMTS13 deficiency. However, patients with acquired TTP present with clinical and laboratory heterogeneity, and there are unequivocal cases of acquired TTP with measurable plasma levels of ADAMTS13. This heterogeneity poses a challenge for understanding the pathogenesis of TTP and selecting appropriate therapies.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^af2683cd]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^115UfmeU]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP, management, BSH 2023 guidelines recommend to administer solvent detergent plasma infusion in patients with an acute congenital TTP episode. Consider administering intermediate purity factor VIII (such as BPL 8Y).
 
 ---
 
-### Real-world safety and efficacy of rADAMTS13 prophylaxis in congenital thrombotic thrombocytopenic purpura: experience from Polish patients previously treated with fresh frozen plasma [^82e7c227]. Haematologica (2025). Medium credibility.
+### Real-world safety and efficacy of rADAMTS13 prophylaxis in congenital thrombotic thrombocytopenic purpura: experience from Polish patients previously treated with fresh frozen plasma [^114M5Eer]. Haematologica (2025). Medium credibility.
 
 Not available.
 
 ---
 
-### Clinical and laboratory diagnosis of TTP: an integrated approach [^79716c96]. Hematology: American Society of Hematology. Education Program (2018). Low credibility.
+### Clinical and laboratory diagnosis of TTP: an integrated approach [^11473bnD]. Hematology: American Society of Hematology. Education Program (2018). Low credibility.
 
 Thrombotic thrombocytopenia purpura (TTP) is a rare, life-threatening disease with an incidence of approximately 2 persons per million per year. It is characterized by severe deficiency of the von Willebrand cleaving protease, ADAMTS13 (a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13), leading to formation of platelet-rich thrombi in the microvasculature. Prompt initiation of appropriate therapy, particularly plasma exchange, may be life-saving. Diagnosis of TTP is challenging because of its diverse clinical manifestations, overlap in clinical presentation with other thrombotic microangiopathies, and limited availability of ADAMTS13 testing. Clinical prediction scores have been developed to estimate the pretest probability of severe ADAMTS13 deficiency and may be used as an adjunct to clinical judgment to guide initial management decisions. An ADAMTS13 activity level of less than 10% supports the diagnosis of TTP in appropriate clinical contexts, but many centers do not offer testing in-house and must send out the test to a reference laboratory with a turnaround time of several days. In such instances, initial management decisions must be made without the benefit of laboratory testing. In patients with TTP, inhibitor tests may be useful for distinguishing immune-mediated from congenital TTP. In this article, we review the epidemiology, natural history, and clinical presentation of TTP and laboratory assays for TTP including ADAMTS13 activity and inhibitor assays. We also describe an evidence-based approach to the evaluation of a patient with suspected TTP that integrates clinical and laboratory assessment.
 
 ---
 
-### The third form of thrombotic thrombocytopenic purpura shows up again: what is it, does it even exist, how to find out? Comment on "Acquired thrombotic thrombocytopenic purpura without detectable Anti-ADAMTS13 antibodies: a possible underlying autoimmune mechanism" and on "The different faces of thrombotic thrombocytopenic purpura" [^7924bf3f]. Haematologica (2025). Medium credibility.
+### The third form of thrombotic thrombocytopenic purpura shows up again: what is it, does it even exist, how to find out? Comment on "Acquired thrombotic thrombocytopenic purpura without detectable Anti-ADAMTS13 antibodies: a possible underlying autoimmune mechanism" and on "The different faces of thrombotic thrombocytopenic purpura" [^1146bqzN]. Haematologica (2025). Medium credibility.
 
 In this issue of Haematologica a Letter by Delphine Simon et al. on behalf of the French Centre National de Référence des Microangiopathies Thrombotiques (CNR-MAT), again brings up the existence and characteristics of a third form of thrombotic thrombocytopenic purpura (TTP), labeled as TTP of unidentified pathophysiology (uTTP). This reiterated important insight is accompanied by a comment by a TTP specialist, Paul Knöbl. Many questions concerning this potentially important but so far incompletely understood variant of TTP remain and I will try to put this uTTP variant into perspective and propose further steps to confirm its existence and unravel its secrets.
 
@@ -827,19 +827,19 @@ TTP was first described in 1924 by Moschcowitzand the history of extensive resea
 
 ---
 
-### Targeted ADAMTS-13 replacement therapy for thrombotic thrombocytopenic purpura [^856e0513]. Journal of Thrombosis and Haemostasis (2024). Medium credibility.
+### Targeted ADAMTS-13 replacement therapy for thrombotic thrombocytopenic purpura [^114QpJqg]. Journal of Thrombosis and Haemostasis (2024). Medium credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) is a life-threatening thrombotic disorder associated with a severe deficiency of ADAMTS-13-the protease that cleaves von Willebrand factor. Plasma therapy is the current standard of care for managing acute episodes of TTP, which involves removing patient plasma and replacing it with donor plasma to raise the level of ADAMTS-13 activity. Recently, therapies aimed at replacing ADAMTS-13 have been investigated as possible substitutes or add-ons to plasma therapy for congenital and immune-mediated TTP. Enzyme replacement therapy provides recombinant ADAMTS-13 via intravenous (i.v.) infusion to restore enzyme activity. Recombinant ADAMTS-13-loaded platelets localize to the site of thrombus formation in a more concentrated manner than enzyme replacement or plasma therapy. ADAMTS-13-encoding messenger RNA aims to induce a steady supply of secreted protein and gene therapy is a potentially curative strategy. Overall, targeted ADAMTS-13 replacement therapies may provide better outcomes than plasma therapy by achieving higher levels of ADAMTS-13 activity and a more sustained response with fewer adverse events. Herein, we describe targeted ADAMTS-13 replacement therapies for the treatment of TTP and discuss the advantages and limitations of each approach.
 
 ---
 
-### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^7d3a6da9]. British Journal of Haematology (2023). High credibility.
+### A British Society for Haematology guideline: diagnosis and management of thrombotic thrombocytopenic purpura and thrombotic microangiopathies [^114Cf5W8]. British Journal of Haematology (2023). High credibility.
 
 Regarding specific circumstances for thrombotic thrombocytopenic purpura, more specifically with respect to patients with congenital TTP (diagnosis), BSH 2023 guidelines recommend to suspect congenital TTP in severe neonatal jaundice with thrombocytopenia and in pediatric patients with unexplained thrombocytopenia.
 
 ---
 
-### Impact of new medications on the treatment of immune TTP [^d87c8a62]. Blood (2025). Medium credibility.
+### Impact of new medications on the treatment of immune TTP [^116XxA7j]. Blood (2025). Medium credibility.
 
 Abstract
 
@@ -847,13 +847,13 @@ The last decade has seen the introduction of 2 new licensed therapies for thromb
 
 ---
 
-### Platelets: thrombotic thrombocytopenic purpura [^a2e2f3f2]. Hematology: American Society of Hematology. Education Program (2002). Low credibility.
+### Platelets: thrombotic thrombocytopenic purpura [^115AVE41]. Hematology: American Society of Hematology. Education Program (2002). Low credibility.
 
 Abnormalities of plasma von Willebrand factor (VWF) have been recognized to be associated with thrombotic thrombocytopenic purpura (TTP) for over 20 years. Patients with chronic, relapsing TTP have VWF multimers that are larger than normal, similar in size to those secreted by cultured endothelial cells. Recent observations have documented that a deficiency of a VWF-cleaving protease (termed ADAMTS13) may be responsible for the presence of these unusually large VWF multimers. Multiple mutations of the ADAMTS13 gene can result in ADAMTS13 deficiency and cause congenital TTP; autoantibodies neutralizing ADAMTS13 protease activity have been associated with acquired TTP. In Section I, Dr. Evan Sadler reviews the structure, biosynthesis, and function of the ADAMTS13 protease. He describes the mutations that have been identified in congenital TTP and describes the relationship of ADAMTS13 deficiency to the development of both congenital and acquired TTP. Dr. Sadler postulates that the development of TTP may be favored by conditions that combine increased VWF secretion, such as during the later stages of pregnancy, and decreased ADAMTS13 activity. In Section II, Dr. Bernhard Lämmle describes the assay methods for determining ADAMTS13 activity. Understanding the complexity of these methods is essential for understanding the difficulty of assay performance and the interpretation of assay data. Dr. Lämmle describes his extensive experience measuring ADAMTS13 activity in patients with TTP as well as patients with acute thrombocytopenia and severe illnesses not diagnosed as TTP. His data suggest that a severe deficiency of ADAMTS13 activity (< 5%) is a specific feature of TTP. However, he emphasizes that, although severe ADAMTS13 deficiency may be specific for TTP, it may not be sensitive enough to identify all patients who may be appropriately diagnosed as TTP and who may respond to plasma exchange treatment. In Section III, Dr. James George describes the evaluation and management of patients with clinically suspected TTP, as well as adults who may be described as having hemolytic-uremic syndrome (HUS). Dr. George presents a classification of TTP and HUS in children and adults. Appropriate evaluation and management are related to the clinical setting in which the diagnosis is considered. A clinical approach is described for patients in whom the diagnosis of TTP or HUS is considered (1) following bone marrow transplantation, (2) during pregnancy or the postpartum period, (3) in association with drugs which may cause TTP either by an acute immune-mediated toxicity or a dose-related toxicity, (4) following a prodrome of bloody diarrhea, (5) in patients with autoimmune disorders, and (6) in patients with no apparent associated condition who may be considered to have idiopathic TTP. Patients with idiopathic TTP appear to have the greatest frequency of ADAMTS13 deficiency and appear to be at greatest risk for a prolonged clinical course and subsequent relapse. Management with plasma exchange has a high risk of complications. Indications for additional immunosuppressive therapy are described.
 
 ---
 
-### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^468ab1a7]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### European renal best practice endorsement of guidelines for diagnosis and therapy of thrombotic thrombocytopaenic purpura published by the International Society on Thrombosis and Haemostasis [^112oaihk]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 CHAPTER 5. TREATMENT OF A RELAPSING EVENT OF iTTP
 
@@ -861,19 +861,19 @@ A clinical relapse has been recently defined as a decrease of platelets to < 150
 
 ---
 
-### Dissecting the pathophysiology of immune thrombotic thrombocytopenic purpura: interplay between genes and environmental triggers [^6959293b]. Haematologica (2018). Low credibility.
+### Dissecting the pathophysiology of immune thrombotic thrombocytopenic purpura: interplay between genes and environmental triggers [^113hBeb4]. Haematologica (2018). Low credibility.
 
 Von Willebrand Factor (VWF) is another important modifier of TTP susceptibility, either in the congenital or in the autoimmune form. Raised VWF levels are required to induce TTP in Adamts13 −/− mice, but varying the concentration between 20 and 120 U/mL does not appear to affect the occurrence or severity of the disease, suggesting that a threshold level of VWF is sufficient, and that higher levels confer little additional risk. However, humans appear to be more sensitive to changes in VWF levels than mice. Women with inherited ADAMTS13 deficiency frequently develop TTP during pregnancy, which probably results from the progressive increase in VWF levels throughout the gestation period. Moreover, obese individuals have higher levels of VWF, providing further evidence for an association between obesity and TTP. Thus, changes in VWF secretion, multimer distribution, and plasma level may trigger TTP. Among additional modifiers of TTP, blood group O was found over-represented in iTTP cohorts, suggesting that blood group O could be a risk factor for TTP.
 
 ---
 
-### Long-term follow-up outcomes in congenital thrombotic thrombocytopenic purpura [^00e04c13]. Blood (2025). Medium credibility.
+### Long-term follow-up outcomes in congenital thrombotic thrombocytopenic purpura [^1112JLfL]. Blood (2025). Medium credibility.
 
 Congenital thrombotic thrombocytopenic purpura (cTTP) is an ultra-rare thrombotic microangiopathy mediated through inherited deficiency in ADAMTS13 (a disintegrin and metalloprotease with a thrombospondin type 1 motif, member 13). To date more than 200 ADAMTS13 genetic variants have been associated with cTTP. We report longitudinal follow up from the UK TTP registry in 104 confirmed cTTP cases (91 consented for follow-up) in a large multi-ethnic national cTTP patient cohort, including a large Black African cTTP cohort. 71 ADAMTS13 variants were identified, with N-terminal variants associated with earlier age at presentation. During the follow-up period (median 63 months (range 1–179), 80.2% of patients received regular (plasma derived) prophylaxis which reduced end-organ damage, including stroke/TIA (19.0% to 1.5%) and renal impairment during follow-up. Post presentation acute TTP episodes were reduced with prophylaxis (0.68 vs 0.06 acute episodes/follow-up year) Despite regular prophylaxis, symptom control remained apparent on plasma-derived therapy (including headache 42.6%, depression/anxiety 13.2%, fatigue 16.2% and abdominal pain 13.2%). The majority of cTTP patients in the UK have now switched to recombinant ADAMTS13 (n = 43, 58.9%), owing to inadequate symptom control (53.5%), plasma reactions (30.2%), or subclinical disease activity (16.3%). This work shows the breadth of ADAMTS13 genetic variants in cTTP, and demonstrates efficacy of regular prophylaxis in (i) reducing acute TTP episodes, and (ii) preventing end organ damage, but despite advances, cTTP related symptoms and the use of blood products, remained problematic.
 
 ---
 
-### Unfolding the pathophysiology of congenital thrombotic thrombocytopenic purpura in pregnancy: lessons from a cluster of familial cases [^f0b51fc5]. American Journal of Obstetrics and Gynecology (2021). Medium credibility.
+### Unfolding the pathophysiology of congenital thrombotic thrombocytopenic purpura in pregnancy: lessons from a cluster of familial cases [^1179rsDW]. American Journal of Obstetrics and Gynecology (2021). Medium credibility.
 
 Background
 
@@ -897,26 +897,26 @@ This case series details a distinctive cohort of congenital TTP patients, all ho
 
 ---
 
-### TTP: from empiricism for an enigmatic disease to targeted molecular therapies [^b013dcbe]. British Journal of Haematology (2022). Medium credibility.
+### TTP: from empiricism for an enigmatic disease to targeted molecular therapies [^115W3VYh]. British Journal of Haematology (2022). Medium credibility.
 
 FIGURE 2
 The course of a patient with suspected/proven immune‐mediated Thrombotic Thrombocytopenic Purpura (iTTP) in a hospital with optimal resources. Acute stage: if the patient suffers from a thrombotic microangiopathy without any apparent cause, a clinical score should be used to estimate ADAMTS13 levels and a citrated blood sample taken for actual ADAMTS13 activity assessment at the day of presentation (Day 0). The French Score takes into account thrombocytopenia and creatinine values, scoring +1 for each if present. A score of 2 indicates high probability of ADAMTS13 < 10%. In this case, a triplet regimen with daily PEX + steroids and daily caplacizumab is instated. If the clinical score is 1, TTP should still be suspected and PEX + steroids and daily caplacizumab should be initiated and kept until the ADAMTS13 activity test results from Day 0 arrive. If ADAMTS13 ≥ 10%, this is suggestive of an alternative diagnosis. If ADAMTS13 < 10%, the diagnosis of iTTP is confirmed, and rituximab is added (usually by day 4 following PEX initiation). This regimen is kept until a clinical response ensues for two days, at which point PEX is stopped, but the remaining therapies continue, with weekly assessments of ADAMTS13 activity. Caplacizumab may be stopped once adequate ADAMTS13 responses are achieved (> 20% or > 10%). Long‐term follow‐up: the focus shifts to preventing relapses and long‐term morbidity, with periodic assessments of ADAMTS13 activity (typically every three months, with pre‐emptive treatment if needed), and yearly assessments to control cardiovascular risk factors, assessment of neuropsychiatric disorders and improvement of quality of life as well as other specific assessments (e.g. pregnancy planning in the case of female patients of childbearing age)
 
 ---
 
-### Successful treatment of congenital thrombotic thrombocytopenic purpura using the intermediate purity factor VIII concentrate BPL 8Y [^f2322fb2]. British Journal of Haematology (2002). Low credibility.
+### Successful treatment of congenital thrombotic thrombocytopenic purpura using the intermediate purity factor VIII concentrate BPL 8Y [^117C4ruX]. British Journal of Haematology (2002). Low credibility.
 
 There is increasing evidence that congenital thrombotic thrombocytopenic purpura (TTP) is caused by an absolute deficiency of von Willebrand factor-cleaving protease. The recent identification of this protease and the development of assays for its detection have enabled its quantification in a number of plasma products, including some commercial intermediate-purity plasma-derived factor VIII preparations. We report the successful, weekly prophylactic use of a commercial intermediate-purity plasma-derived factor VIII concentrate in the treatment of a 14-year-old girl with severe congenital TTP who had previously required transfusions of fresh-frozen plasma every 2 weeks from the age of 4 months.
 
 ---
 
-### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^2c667b7f]. Journal of Thrombosis and Haemostasis (2025). High credibility.
+### 2025 focused update of the 2020 ISTH guidelines for management of thrombotic thrombocytopenic purpura [^1128psvE]. Journal of Thrombosis and Haemostasis (2025). High credibility.
 
 Regarding medical management for thrombotic thrombocytopenic purpura, more specifically with respect to management of an acute event, corticosteroids, ISTH 2025 guidelines recommend to initiate corticosteroids in addition to therapeutic plasma exchange in patients with immune-mediated TTP experiencing a first acute event.
 
 ---
 
-### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^ac96475a]. Haematologica (2019). Medium credibility.
+### The international hereditary thrombotic thrombocytopenic purpura registry: key findings at enrollment until 2017 [^115QsM8u]. Haematologica (2019). Medium credibility.
 
 We then tested whether overt disease onset was related with residual plasma ADAMTS13 activity in all patients whose ADAMTS13 activity was measured in Nara or Bern after a comparative evaluation had shown a good agreement of activity levels in the very low range below 5–10% (Online Supplementary Table S1). For 97 patients with available information, it was evident that overt disease onset was not strictly related to residual ADAMTS13 activity. Whereas about 40% of cTTP patients with an ADAMTS13 activity < 1% had a neonatal disease onset, 20% seemed to have a first TTP manifestation at age > 20 years. On the other hand, most cTTP patients with an ADAMTS13 activity > 1–2% had a delayed apparent disease manifestation (Figure 4). Thus, residual ADAMTS13 activity is clearly not the only determinant of disease severity, as reflected by age at overt onset.
 
@@ -926,13 +926,13 @@ A complete list of the collaborators of the Hereditary TTP Registry appears in t
 
 ---
 
-### Animal models for thrombotic thrombocytopenic purpura [^dcc9c8fe]. Journal of Thrombosis and Haemostasis (2013). Low credibility.
+### Animal models for thrombotic thrombocytopenic purpura [^116eL469]. Journal of Thrombosis and Haemostasis (2013). Low credibility.
 
 Thrombotic thrombocytopenic purpura (TTP) is a puzzling disorder in many ways. The disease is difficult to diagnose as analogous symptoms are also found in other microangiopathic disorders. Although ADAMTS13 deficiency is generally required to develop TTP, only some patients with severe ADAMTS13 deficiency do spontaneously develop this disease. It is therefore assumed that environmental and/or genetic factors are needed to cause acute TTP. Nevertheless, acute TTP-like symptoms have also been observed in patients with moderate or normal levels of ADAMTS13. The development of animal models for TTP has allowed a closer look at the specific need for ADAMTS13 deficiency and the necessity for additional triggers in the pathophysiology of TTP. Mouse models for congenital TTP and a baboon model for acquired TTP have been generated. These animal models have also proven to be extremely valuable in developing new treatment strategies for TTP. In the current review, we discuss current animal models for TTP, what we have learned from them and how they were used to test new treatment strategies.
 
 ---
 
-### Pregnancy in women with immune thrombocytopenic purpura… [^a1d2f000]. JAMA Network (2025). Excellent credibility.
+### Pregnancy in women with immune thrombocytopenic purpura… [^1158urmM]. JAMA Network (2025). Excellent credibility.
 
 Moutet A, Fromont P, Farcet J, et al. Pregnancy in Women With Immune Thrombocytopenic Purpura. Arch Intern Med. 1990; 150: 2141–2145. doi: 10.1001/archinte.1990.00390210105023
 - Thirty-six women with immune thrombocytopenic purpura were studied during 37 pregnancies, and maternal characteristics with predictive value for the fetal platelet count were determined. Nine neonates were thrombocytopenic, with a platelet count of less than 50 × 109/L in eight. Four of these nine neonates delivered to a subgroup of 31 mothers were studied prospectively; the frequency of thrombocytopenia in neonates of women with immune thrombocytopenic purpura was thus 13%. Only two of these nine neonates presented with hemorrhagic syndromes. The frequency of neonatal thrombocytopenia was higher in mothers with deep thrombocytopenia and in those who had not responded to corticosteroid treatment following diagnosis.

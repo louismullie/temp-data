@@ -15,17 +15,17 @@ A newborn presents with recurrent hypoglycemia, prolonged jaundice, microphallus
 
 > Let's see… What do we have here? The user is asking which ICD-10 code should be assigned as the primary diagnosis for a newborn with recurrent hypoglycemia, prolonged jaundice, microphallus, MRI showing anterior pituitary hypoplasia with an ectopic posterior pituitary, and a pathogenic HESX1 variant consistent with combined pituitary hormone deficiency 5. Let's break this down step-by-step. First, I need to think about the most specific ICD-10-CM code that captures the genetic etiology. Then, I should verify whether there is a more general congenital hypopituitarism code that better fits when a specific gene is not yet billable. Next, I will consider the MRI phenotype and whether it maps to a named structural syndrome. Finally, I should confirm coding hierarchy and whether to add secondary codes for the clinical manifestations like hypoglycemia and jaundice, ensuring I do not overcode or misclassify the condition.
 
-> Let me first confirm the genetic diagnosis and its nomenclature. A pathogenic HESX1 variant corresponds to combined pituitary hormone deficiency 5, which is a recognized genetic cause of congenital hypopituitarism, and HESX1 is among the early-acting transcription factors implicated in pituitary organogenesis and midline brain development, aligning with the MRI findings of anterior pituitary hypoplasia and ectopic posterior pituitary [^aab94003] [^d211a6f4].
+> Let me first confirm the genetic diagnosis and its nomenclature. A pathogenic HESX1 variant corresponds to combined pituitary hormone deficiency 5, which is a recognized genetic cause of congenital hypopituitarism, and HESX1 is among the early-acting transcription factors implicated in pituitary organogenesis and midline brain development, aligning with the MRI findings of anterior pituitary hypoplasia and ectopic posterior pituitary [^115N77sQ] [^116NSL59].
 
-> Wait, let me verify the ICD-10-CM options for specifying the genetic etiology. I initially thought there might be a specific code like Q89.2G for congenital malformation of the pituitary, but hold on, I should verify whether that code exists in ICD-10-CM. On rechecking, Q89.2G is not a valid ICD-10-CM code; the closest valid congenital pituitary anomaly code is Q89.2, which is nonspecific and does not capture the gene or the syndrome, so it would be imprecise for HESX1-related CPHD [^3d83d5ab].
+> Wait, let me verify the ICD-10-CM options for specifying the genetic etiology. I initially thought there might be a specific code like Q89.2G for congenital malformation of the pituitary, but hold on, I should verify whether that code exists in ICD-10-CM. On rechecking, Q89.2G is not a valid ICD-10-CM code; the closest valid congenital pituitary anomaly code is Q89.2, which is nonspecific and does not capture the gene or the syndrome, so it would be imprecise for HESX1-related CPHD [^112aCXY6].
 
-> I need to check whether there is a billable code that explicitly names combined pituitary hormone deficiency. There is no ICD-10-CM code that includes "CPHD" or "combined pituitary hormone deficiency" in the descriptor, so the most specific available option for congenital hypopituitarism is E23.0, Hypofunction of the pituitary gland, which is the standard code used in pediatric endocrine cohorts and national registries for congenital pituitary hormone deficiencies, including those with genetic etiologies and structural pituitary anomalies [^3d83d5ab] [^68ee46a4] [^3488806a].
+> I need to check whether there is a billable code that explicitly names combined pituitary hormone deficiency. There is no ICD-10-CM code that includes "CPHD" or "combined pituitary hormone deficiency" in the descriptor, so the most specific available option for congenital hypopituitarism is E23.0, Hypofunction of the pituitary gland, which is the standard code used in pediatric endocrine cohorts and national registries for congenital pituitary hormone deficiencies, including those with genetic etiologies and structural pituitary anomalies [^112aCXY6] [^113gZkJF] [^112LtCvM].
 
-> Hold on, let's not jump to conclusions about adding MRI-specific codes. I briefly considered whether a code like Q04.89 (other specified congenital malformations of brain) could be used for the ectopic posterior pituitary, but wait, I should confirm whether that would be appropriate as a primary diagnosis. Given that the underlying condition is a congenital pituitary hormone deficiency due to a genetic defect, using E23.0 as primary and reserving Q04.89 as a secondary code for the structural brain anomaly is more accurate and aligned with how these cases are coded in large cohorts and registries [^3d83d5ab] [^ad0efdec].
+> Hold on, let's not jump to conclusions about adding MRI-specific codes. I briefly considered whether a code like Q04.89 (other specified congenital malformations of brain) could be used for the ectopic posterior pituitary, but wait, I should confirm whether that would be appropriate as a primary diagnosis. Given that the underlying condition is a congenital pituitary hormone deficiency due to a genetic defect, using E23.0 as primary and reserving Q04.89 as a secondary code for the structural brain anomaly is more accurate and aligned with how these cases are coded in large cohorts and registries [^112aCXY6] [^115RZtpT].
 
 > Next, I should review whether to add secondary codes for the clinical manifestations. Hypoglycemia and prolonged jaundice are classic neonatal features of congenital hypopituitarism and are etiologically linked to the pituitary hormone deficiencies; however, ICD-10-CM coding guidance supports using the most specific underlying diagnosis first and adding manifestation codes only when they add clinically meaningful information or are required by payer policy, so I would prioritize E23.0 and consider P70.4 for prolonged jaundice and E16.1 for hypoglycemia only if documentation supports their clinical significance and if they are needed for billing or risk adjustment, being careful not to imply two distinct diseases when these are manifestations of the same condition [^notfound].
 
-> Let me reconsider the final coding hierarchy to ensure internal consistency. The most specific, clinically accurate primary diagnosis is E23.0 Hypofunction of the pituitary gland, with optional secondary codes such as Q04.89 for the ectopic posterior pituitary and P70.4/E16.1 for the neonatal manifestations if required, while acknowledging that Q89.2G does not exist in ICD-10-CM and that there is no gene-specific CPHD5 code at this time, which means E23.0 remains the best-fit primary code for billing and epidemiologic capture [^3d83d5ab] [^ad0efdec].
+> Let me reconsider the final coding hierarchy to ensure internal consistency. The most specific, clinically accurate primary diagnosis is E23.0 Hypofunction of the pituitary gland, with optional secondary codes such as Q04.89 for the ectopic posterior pituitary and P70.4/E16.1 for the neonatal manifestations if required, while acknowledging that Q89.2G does not exist in ICD-10-CM and that there is no gene-specific CPHD5 code at this time, which means E23.0 remains the best-fit primary code for billing and epidemiologic capture [^112aCXY6] [^115RZtpT].
 
 ---
 
@@ -35,7 +35,7 @@ The primary ICD-10-CM diagnosis code for a newborn with recurrent hypoglycemia, 
 
 ## Clinical features and genetic diagnosis
 
-The patient's presentation — recurrent hypoglycemia, prolonged jaundice, and microphallus — together with MRI findings of anterior pituitary hypoplasia and ectopic posterior pituitary, is classic for congenital hypopituitarism due to HESX1 mutation [^b20b595c]. HESX1 is a transcription factor critical for pituitary development; pathogenic variants cause combined pituitary hormone deficiency (CPHD), often with midline brain anomalies and neonatal features such as hypoglycemia, jaundice, and genital hypoplasia [^b20b595c] [^36883895].
+The patient's presentation — recurrent hypoglycemia, prolonged jaundice, and microphallus — together with MRI findings of anterior pituitary hypoplasia and ectopic posterior pituitary, is classic for congenital hypopituitarism due to HESX1 mutation [^115YxcG3]. HESX1 is a transcription factor critical for pituitary development; pathogenic variants cause combined pituitary hormone deficiency (CPHD), often with midline brain anomalies and neonatal features such as hypoglycemia, jaundice, and genital hypoplasia [^115YxcG3] [^112Pr61z].
 
 ---
 
@@ -71,7 +71,7 @@ The primary ICD-10-CM diagnosis code for this patient is **E23.0** (Hypofunction
 
 ## References
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^b20b595c]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^115YxcG3]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Pituitary hormone deficiency (PHD) may be isolated with only 1 hormone deficiency or combined (CPHD) with ≥ 2 hormone deficiencies. CPHD may be acquired or congenital (cCPHD), the latter defined as partial or complete loss of ≥ 2 hormones secreted from the pituitary gland caused by genetic factors or malformation. CPHD is considered congenital in the absence of identified acquired causes such as cerebral tumors, surgery, infection, radiotherapy, hemorrhage, infarction, and infiltrative or granulomatous disease in the hypothalamic–pituitary region.
 
@@ -83,13 +83,13 @@ Neonates with clinical overt cCPHD may present with micropenis and other feature
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^3d5da9e6]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^112ZyhuX]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 A recent Finnish study from 1 tertiary hospital estimated the incidence of cCPHD to 1 in 16 000 live-born children. In Denmark, all patients are registered in the Danish National Patient Registry (DNPR) with information on their ICD-10 diagnoses. Treatment of cCPHD in children is only approved in 4 tertiary hospitals. Given these unique possibilities, we performed a nationwide registry and hospital file study, aiming to estimate the national incidence of cCPHD diagnosed before age 18 years and in subgroups, including hormone deficiency characteristics and brain magnetic resonance imaging (MRI) abnormalities in the patients.
 
 ---
 
-### Hypoglycemia in hypopituitary children… [^e0ea39a9]. JAMA Network (2025). Excellent credibility.
+### Hypoglycemia in hypopituitary children… [^116kSuCc]. JAMA Network (2025). Excellent credibility.
 
 - Fifty-two children with growth hormone deficiency were examined for factors that might influence development of hypoglycemia. Symptomatic and asymptomatic hypoglycemia occurred with equal frequency in children with isolated GH and multiple anterior pituitary deficiencies. Of 52 children, nine had symptomatic hypoglycemia and 14 had asymptomatic hypoglycemia. Symptomatic hypoglycemia was more frequent in children who were both young and lean. With HGH therapy, these children had decreases in HA/WA ratios and improvement in carbohydrate homeostasis. Insulin responses to oral glucose and intravenous arginine administration were substantially lowered in children with symptomatic hypoglycemia. A deficiency of gluconeogenic substrate or impairment of amino acid mobilization may be a factor in the development of hypoglycemia in hypopituitarism similar to that postulated for ketotic hypoglycemia.
 
@@ -97,7 +97,7 @@ Hopwood NJ, Forsman PJ, Kenny FM, Drash AL. Hypoglycemia in Hypopituitary Childr
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^3488806a]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^112LtCvM]. EClinicalMedicine (2022). Medium credibility.
 
 Methods
 
@@ -107,7 +107,7 @@ The formation of the patient cohort is shown in Figure 1. We searched the patien
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^add6a3b0]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^115SixGP]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Table 1.
 Search strategy for cCPHD by ICD-10 diagnosis codes
@@ -125,7 +125,7 @@ Hospital file data were collected from March 1, 2021, to June 30, 2022. For the 
 
 ---
 
-### Combined pituitary hormone deficiency caused by a synonymous HESX1 gene mutation [^aab94003]. The Journal of Clinical Endocrinology and Metabolism (2019). Medium credibility.
+### Combined pituitary hormone deficiency caused by a synonymous HESX1 gene mutation [^115N77sQ]. The Journal of Clinical Endocrinology and Metabolism (2019). Medium credibility.
 
 Context
 
@@ -141,7 +141,7 @@ This study of a patient with combined pituitary hormone deficiency revealed an u
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^3d83d5ab]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^112aCXY6]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Materials and Methods
 
@@ -155,7 +155,7 @@ The DNPR search identified all Danish patients with relevant diagnoses before ag
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^ad0efdec]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^115RZtpT]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Results
 
@@ -166,7 +166,7 @@ Flow chart of the identification of the national congenital combined pituitary h
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^c95d74b2]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^1169XuJy]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Furthermore, we chose to include patients who developed hypothyroidism during GH therapy even though evidence suggests that GH therapy may affect thyroid hormone levels per se. Some studies suggest that the changes in thyroid hormone levels during GH therapy are caused by increased peripheral thyroxine to triiodothyronine conversion, whereas others suggest unmasking of latent central hypothyroidism. We included patients with GHD and TSH deficiency, as 2 recent studies on children with nonacquired isolated GHD support the latter mechanism, and as our included patients had repeating levels of free thyroxine/thyroxine below the normal reference range.
 
@@ -180,7 +180,7 @@ The diagnosis of cCPHD may be challenging, especially in those with normal MRI f
 
 ---
 
-### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^d211a6f4]. BMC Endocrine Disorders (2025). Medium credibility.
+### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^116NSL59]. BMC Endocrine Disorders (2025). Medium credibility.
 
 Background
 
@@ -190,13 +190,13 @@ During embryogenesis, hypothalamic-pituitary (H-P) development is controlled by 
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^7bdcb183]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^114Adc7k]. EClinicalMedicine (2022). Medium credibility.
 
 Among the HUH patients with congenital CPHD, seven (15%) had a previous molecular genetic diagnosis, including one patient with SOD. In our molecular genetic investigations of 21 patients with congenital CPHD, no new conclusive molecular genetic diagnoses (that is, a pathogenic variant according to the ACMG/AMP 2015 guidelines in genes implicated in CPHD/GHD) were made. One variant in SHH, c.676G > A, p.(Ala226Thr), carried by patient #12 with PSIS and her healthy mother, was classified as "likely pathogenic", and thus the variant is the probable cause for the patient's disease. The variant has previously been identified in a Dutch patient with PSIS and CPHD, and in a familial case of holoprosencephaly. In our patient and the two previous cases, the variant was also present in clinically unaffected parents suggesting incomplete penetrance, a phenomenon often described in both familial CPHD and holoprosencephaly. (e.g.,) In addition to the variant in SHH, patient #12 carried rare variants in five other genes implicated in CPHD/GHD. Similarly, patients #2, #6, #7, and #9 carried rare variants in five genes implicated in CPHD/GHD. Although these variants were inherited from healthy family members or their segregation could not be assessed, we cannot rule out the possibility that the variants (especially those of "unknown significance") could have contributed to CPHD. As to the extremely rare (MAF ≤ 0.01% or not reported) variants classified as "uncertain significance" (ISL1 (patient #10); ALMS1 and L1CAM (patient #6); and FGFR1, CHD7, and SHH (patient #7)), the phenotype of patient #6 did not match the phenotypes or the mode of inheritance related to ALMS1 or L1CAM in previous literature (Table 5 and Supplementary Table 4), whereas the phenotypic comparison did not further support or exclude the role of the identified variants in patients #7 and #10. Taken together, the 15% frequency of conclusive genetic diagnoses in congenital CPHD is in line with the previous frequency estimate (12.4%) for pathogenic variants in the five most frequent CPHD genes (PROP1, POU1F1, HESX1, LHX3, and LHX4) that was calculated from 21 different CPHD genetic studies.
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^bb84650e]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^115o19xR]. EClinicalMedicine (2022). Medium credibility.
 
 Figure 1
 Flowchart on the formation of the patient cohort. Through a comprehensive search for panhypopituitarism and related ICD-9/10 diagnosis codes, we identified n = 124 pediatric CPHD patients diagnosed or treated in the Helsinki University Hospital Children and Adolescents between 1985 and 2018. Patients with at least two pituitary hormone deficiencies were included in the study (Supplementary Table 2). Cases with partial laboratory testing were evaluated by experienced clinicians (PJM, MH, TR) based on patient records and growth charts.
@@ -207,7 +207,7 @@ The identified CPHD cases (n = 196+23, Figure 1) were inspected to fulfill the i
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^241c965c]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^111vYA59]. EClinicalMedicine (2022). Medium credibility.
 
 Clinical data
 
@@ -217,31 +217,31 @@ Additional data collected for the patients with congenital CPHD included (i) bir
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^98cabe9b]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^114uXDcn]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of non-acquired combined pituitary hormone deficiency-sensorineural hearing loss-spine abnormalities syndrome is estimated at 0.00019 per 100,000 population.
 
 ---
 
-### Genetics of combined pituitary hormone deficiency: roadmap into the genome era [^3431eca6]. Endocrine Reviews (2016). Low credibility.
+### Genetics of combined pituitary hormone deficiency: roadmap into the genome era [^112LP8G5]. Endocrine Reviews (2016). Low credibility.
 
 The genetic basis for combined pituitary hormone deficiency (CPHD) is complex, involving 30 genes in a variety of syndromic and nonsyndromic presentations. Molecular diagnosis of this disorder is valuable for predicting disease progression, avoiding unnecessary surgery, and family planning. We expect that the application of high throughput sequencing will uncover additional contributing genes and eventually become a valuable tool for molecular diagnosis. For example, in the last 3 years, six new genes have been implicated in CPHD using whole-exome sequencing. In this review, we present a historical perspective on gene discovery for CPHD and predict approaches that may facilitate future gene identification projects conducted by clinicians and basic scientists. Guidelines for systematic reporting of genetic variants and assigning causality are emerging. We apply these guidelines retrospectively to reports of the genetic basis of CPHD and summarize modes of inheritance and penetrance for each of the known genes. In recent years, there have been great improvements in databases of genetic information for diverse populations. Some issues remain that make molecular diagnosis challenging in some cases. These include the inherent genetic complexity of this disorder, technical challenges like uneven coverage, differing results from variant calling and interpretation pipelines, the number of tolerated genetic alterations, and imperfect methods for predicting pathogenicity. We discuss approaches for future research in the genetics of CPHD.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^88156fc0]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^114UkWwh]. Orphanet Report Series (2024). Medium credibility.
 
 In Europe, the prevalence of non-acquired combined pituitary hormone deficiency in 2021 was 29 per 100,000 population.
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^68ee46a4]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113gZkJF]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Our study has strengths and limitations. Strengths include the size of the population evaluated — which included over 13 million unique patients from a large commercial health plan population, representative of commercially-insured patients more generally. Our methodology, which included a detailed curation of indicators of genetic disease, allowed us to evaluate several different populations of patients based on different levels of specificity. Finally, our administrative claims-based approach allowed for a comprehensive assessment of direct healthcare-related utilization and costs. Several limitations should be considered in the interpretation of our results. First, as our methodology utilized insurance claims data as opposed to electronic health records, we are limited in our ability to interpret both diagnostic thinking and clinical decision-making. For example, while we observe substantial delays in genetic testing in many patients, the reasons for these delays are unclear and may be clinically warranted based on the unique circumstances of individual patients. Similarly, ICD-9/10 codes do not capture the granularity required to distinguish diagnosed genetic conditions. Human Phenotype Ontology (HPO) provides a deep ontology that relates detailed clinical features to both diseases and genes. Availability of HPO terms in a large data set like this would have improved our specificity in defining populations and HPO coding (or improvements in ICD coding informed by HPO) could contribute to future studies of genetic disease in populations. In addition, while some genetic diseases have specific ICD-9/10 codes, many do not; thus, we are unable to definitively determine the end of a diagnostic odyssey for many individual patients. Second, our definitions of possible, probable and definite genetic disease are based on expert opinion and manual curation. Not all patients with these features would have had a genetic diagnosis even if optimal testing had been performed. This is likely due to additional undescribed disease-causing genes, oligogenic and complex inheritance, and environmental phenocopies. How ICD-9/10 codes are used for insurance billing purposes may not be aligned with the diagnostic thinking of clinicians. Coding systems, including diagnosis and procedure codes, are used for billing purposes and are likely to fail to reflect the variability observed in clinical practice. Furthermore, a level of miscoding is presumed to occur as is inherent in claims database studies (e.g. a coding specialist may select the first code on a list of possible codes as opposed to the most appropriate code). Third, given the substantial health conditions of patients with genetic diseases, patients may transition to public insurance programs, switch between private insurance plans, or for other reasons stopped being observed in the database. Although our continuous enrollment requirements help control for some of this variability, there are inherent limitations to the comprehensiveness of the follow-up, which could also be exacerbated by the severity of the disease. Finally, in our selection of patients, we found a large number of newborns with codes indicating a possible genetic condition but no stay in a NICU. Because we required a stay in a NICU, these patients were excluded from analysis in the critically-ill infant population and were instead included in the pediatric population.
 
 ---
 
-### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^41378738]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Diagnosis and incidence of congenital combined pituitary hormone deficiency in Denmark – A national observational study [^112fgr6T]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 Context
 
@@ -265,7 +265,7 @@ cCPHD had the highest incidence rate and the most hormone deficiencies in those 
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^9cc2acee]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^1151QTYh]. EClinicalMedicine (2022). Medium credibility.
 
 Genetics
 
@@ -278,25 +278,25 @@ Variants in the previously reported genes implicated in CPHD/GHD in patients wit
 
 ---
 
-### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^ea6cd846]. The Journal of Pediatrics (2017). Medium credibility.
+### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^116zYfQq]. The Journal of Pediatrics (2017). Medium credibility.
 
 ICD-10 coding for CF and other CFTR dysfunction — primary ICD-10 codes include CF, unspecified (E84.9), CF, with meconium ileus (E84.11), CF with other intestinal manifestations (eg, DIOS) (E84.19), and CF, with pulmonary manifestations (E84.0). For CFSPID, use P09 (abnormal findings on neonatal screening) or E88.89 (if CRMS/CFSPID is adopted as the preferred terminology). A secondary code option is Z14.1 (CF carrier status).
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^23b51af3]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^111uwQ5Y]. Endocrine Practice (2019). High credibility.
 
 Adult growth hormone deficiency (GHD) — conditions and GH-stimulation testing requirements are organized by Table 5, which separates when "Testing for adult GHD is required" versus "Testing for adult GHD is not required". Under not required, the table lists "Pituitary hormone deficiencies ≥ 3 and low IGF-1", and details congenital causes including genetic and transcription factor defects (PIT-1, PROP-1, LHX3/4, HESX-1, PITX-2), GHRH receptor–gene defects, GH–gene defects, GH–receptor/post-receptor defects, association with brain structural defects, "Single central incisor", and "Cleft lip/palate", as well as acquired causes such as "Perinatal insults". Under required, examples span acquired sellar/parasellar and adjacent processes (e.g., skull-base lesions, pituitary adenoma, craniopharyngioma, Rathke's cleft cyst, meningioma, glioma/astrocytoma, chordoma, hamartoma, lymphoma, metastases), brain injury (traumatic brain injury, sports-related head trauma, blast injury), infiltrative/granulomatous disease (Langerhans cell histiocytosis), autoimmune hypophysitis (primary, secondary), sarcoidosis, tuberculosis, amyloidosis, surgery to the sella/suprasellar/parasellar region, cranial irradiation, central nervous system infections (bacteria, viruses, fungi, parasites), infarction/hemorrhage (apoplexy, Sheehan's syndrome, subarachnoid hemorrhage, ischemic stroke, snake bite), and other entities including empty sella, hydrocephalus, and idiopathic, with footnoted items noted to be "the more common causes of adult GHD seen in clinical practice".
 
 ---
 
-### Interpretation of elevated FSH in the regular menstrual cycle [^ca5640e1]. Maturitas (1998). Low credibility.
+### Interpretation of elevated FSH in the regular menstrual cycle [^116AyUH6]. Maturitas (1998). Low credibility.
 
 Among other possible causes, increased serum follicle-stimulating hormone can be caused by pituitary infarction, pituitary apoplexy, combined pituitary hormone deficiency 5 (HESX1 gene), craniopharyngiomas, kallmann syndrome, premature ovarian failure, anovulatory cycles and hypogonadotrophic hypogonadism. In addition, increased serum follicle-stimulating hormone can be caused by medications such as naltrexone hydrochloride and naltrexone ER.
 
 ---
 
-### NeoQuest January 2023: neonate with hypoglycemia and hyperbilirubinemia… [^b9ef8522]. publications.aap.org (2023). Medium credibility.
+### NeoQuest January 2023: neonate with hypoglycemia and hyperbilirubinemia… [^115kfAMw]. publications.aap.org (2023). Medium credibility.
 
 Which of the following genetic mutations is most consistent with this infant's underlying diagnosis. Figure 1A. Non-contrast brain MRI of the neonate in the vignette. Image adapted from: Balasundaram P, Lucena MH, Nafday S. A neonate with a rare presentation of persistent hypoglycemia and prolonged jaundice. Neoreviews. 2023; 24: e39–42.
 10. 1542/neo. 24-1-e39. Which of the following genetic mutations is most consistent with this infant's underlying diagnosis. ABCC8mutation GH1gene mutation IGSF1gene deficiency PROP1mutation TBX19mutation Answer: D. PROP1 mutation __Explanation: __ The infant in this vignette presents with hypothermia, persistent hypoglycemia, hyperbilirubinemia, and an abnormal brain MRI, a constellation of findings that raise suspicion for multiple pituitary hormone deficiencies and a diagnosis of central hypopituitarism.
@@ -311,13 +311,13 @@ A neonate with a rare presentation of persistent hypoglycemia and prolonged jaun
 
 ---
 
-### Endocrine disorders in the neonate [^ae003c19]. Pediatric Clinics of North America (2004). Low credibility.
+### Endocrine disorders in the neonate [^115SxvcG]. Pediatric Clinics of North America (2004). Low credibility.
 
 There is a significant amount of knowledge that has been gained in recent years in the study of endocrine disorders in the newborn. The explosion of genetic data shedding light on the origins of endocrine disease has expanded the level of diagnostic evaluation and management of these infants. This article provides a general review of endocrine disorders as they present in a newborn.
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^ee9eab29]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^1176mMBe]. EClinicalMedicine (2022). Medium credibility.
 
 Phenotypic features of congenital CPHD
 
@@ -334,13 +334,13 @@ b patients who had received phototherapy, or had the remark "prolonged jaundice"
 
 ---
 
-### Congenital hypopituitarism in neonates… [^8e94aaad]. publications.aap.org (2018). Low credibility.
+### Congenital hypopituitarism in neonates… [^114ePBH6]. publications.aap.org (2018). Low credibility.
 
 Patients with congenital hypopituitarism are born without normal production of 1 or more of the hormones normally produced in the pituitary gland. The clinical spectrum varies widely; although a number of genetic causes are known, most cases are thought to be idiopathic. Mutations in transcription factors involved in various stages of pituitary development can lead to combined pituitary hormone deficiencies. Many clinical signs and symptoms of congenital hypopituitarism are nonspecific and include poor weight gain, hypoglycemia, jaundice, and cholestasis; examination findings include midline defects. Diagnosis should include cranial imaging with magnetic resonance imaging, as well as laboratory evaluation for pituitary hormone deficits. Hormone replacement should be initiated after the diagnoses of deficiencies are confirmed. Skip Nav Destination Article navigation Comments
 
 ---
 
-### Pituitary stalk interruption syndrome with coexistent focal cortical dysplasia in a young boy [^c24382f2]. BMJ Case Reports (2025). High credibility.
+### Pituitary stalk interruption syndrome with coexistent focal cortical dysplasia in a young boy [^115y1GuF]. BMJ Case Reports (2025). High credibility.
 
 Discussion
 
@@ -352,26 +352,26 @@ PSIS is associated with a wide spectrum of midline anomalies, including septo-op
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^86a3dc7c]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^114ScP39]. Endocrine Practice (2019). High credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to diagnosis, AACE/ACE 2019 guidelines recommend to recognize that the most common causes of childhood-onset and adult-onset GHD are isolated idiopathic GHD and hypothalamic-pituitary tumors and/or their treatment regimens, respectively. Suspect GHD in these patients.
 Suspect AGHD in patients with a history of hypothalamic-pituitary disease.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^509a8891]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^1134Vv6k]. Endocrine Practice (2019). High credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to diagnosis, AACE/ACE 2019 guidelines recommend to recognize the differences in the etiology of childhood-onset GHD versus adult-onset GHD as there are differences in the phenotypic features because childhood-onset GHD occurs during the developmental years, and adults with childhood-onset GHD may have had a longer duration of being GH-deficient than their adult-onset GHD counterparts.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^d0231845]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^116KaDKS]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding diagnostic investigations for adult growth hormone deficiency, more specifically with respect to provocative testing, ES 2011 guidelines recommend to recognize that GHD is strongly possible in the presence of deficiencies in ≥ 3 pituitary axes, thus provocative testing is optional in this context.
 
 ---
 
-### Genetic analyses of bone morphogenetic protein 2, 4 and 7 in congenital combined pituitary hormone deficiency [^6229b5e3]. BMC Endocrine Disorders (2013). Low credibility.
+### Genetic analyses of bone morphogenetic protein 2, 4 and 7 in congenital combined pituitary hormone deficiency [^113WXoCn]. BMC Endocrine Disorders (2013). Low credibility.
 
 Background
 
@@ -383,37 +383,37 @@ The BMPs are members of the transforming growth factor (TGF)-ß family and bind 
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^4d35007f]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^112yTrG6]. Endocrine Practice (2019). High credibility.
 
 AACE/ACE growth hormone deficiency (GHD) epidemiology — population rates and demographics are as follows: GHD has been estimated to affect 1 per 100,000 people annually, with incidence approximately 2 per 100,000 when childhood-onset GHD (CO-GHD) is included, and approximately 15 to 20% of cases reflect transition of CO-GHD into adulthood; combining adult-onset GHD (AO-GHD) and CO-GHD yields an overall prevalence of 2 to 3 per 10,000 population, with incidence higher in males in the CO-GHD group and in the AO-GHD group ≥ 45 years of age.
 
 ---
 
-### Pediatric pituitary disorders [^e247330d]. Endocrinology and Metabolism Clinics of North America (2025). Medium credibility.
+### Pediatric pituitary disorders [^116nU7mN]. Endocrinology and Metabolism Clinics of North America (2025). Medium credibility.
 
 This article focuses on pediatric pituitary disorders with emphasis on common pituitary disorders that warrant early recognition and intervention. Advances in genetics and in the molecular pathways of congenital and acquired pediatric pituitary diseases, and recent therapeutic advances, continue to enhance the care of our patients.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^4eca7748]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^1131p3LT]. Endocrine Practice (2019). High credibility.
 
 Childhood-onset versus adult-onset growth hormone deficiency (CO-GHD vs AO-GHD) — recognition of differences: R5 states, "It is recommended that clinicians recognize the differences in the etiology of CO-GHD versus AO-GHD as there are differences in the phenotypic features which are due to the fact that CO-GHD occurs during the developmental years and that adults with CO-GHD may have had a longer duration of being GH-deficient than their AO-GHD counterparts (Grade A; BEL 1)".
 
 ---
 
-### Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an endocrine society clinical practice guideline [^6e829bb4]. The Journal of Clinical Endocrinology and Metabolism (2010). Medium credibility.
+### Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an endocrine society clinical practice guideline [^113pqWTD]. The Journal of Clinical Endocrinology and Metabolism (2010). Medium credibility.
 
 Objectives for future research — newborn screening in CAH call to "Determine whether analytes other than 17OHP, either singly or in combination with other biochemical or genetic tests, may improve the sensitivity and specificity of newborn screening programs".
 
 ---
 
-### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^8fd5be9e]. EClinicalMedicine (2022). Medium credibility.
+### Presentation and diagnosis of childhood-onset combined pituitary hormone deficiency: a single center experience from over 30 years [^114gF2Ny]. EClinicalMedicine (2022). Medium credibility.
 
 Discussion
 
@@ -423,19 +423,19 @@ Persistent neonatal hypoglycemia, jaundice, and genital hypoplasia are important
 
 ---
 
-### Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an endocrine society clinical practice guideline [^d28aaa29]. The Journal of Clinical Endocrinology and Metabolism (2010). Medium credibility.
+### Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an endocrine society clinical practice guideline [^116P8yax]. The Journal of Clinical Endocrinology and Metabolism (2010). Medium credibility.
 
 Table 6. GRADE classification of guideline recommendations — The guideline defines two recommendation strengths with explicit wording and rationale. Strong: We recommend; benefits clearly outweigh harms and burdens, or vice versa. Conditional: We suggest; benefits closely balanced with harms and burdens. When evidence is extremely limited and/or not systematically analyzed, recommendations are based on an expert review of the limited data and are also clearly classified using the GRADE classification system. Guideline recommendations include the relevant population, intervention, comparator, and outcome, and when clarification is needed, technical remarks provide supplemental information such as timing, setting, dosing regimens, and necessary expertise; authors may also include patients' values and preferences, the balance of benefits and harms, and minority opinions. Some clinical practice guidelines also include ungraded good practice statements as unclassified clinical guidance that can include expert opinion statements on good practice, references to recommendations made in other guidelines, and observations on preventive care and shared decision-making.
 
 ---
 
-### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^b9b9f003]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^115kMAVQ]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Regarding diagnostic investigations for arginine vasopressin deficiency, more specifically with respect to evaluation for hypopituitarism (central adrenal insufficiency), ES 2016 guidelines recommend to obtain testing for adrenal insufficiency in patients with improved diabetes insipidus without an adrenal insufficiency diagnosis.
 
 ---
 
-### A novel dominant negative mutation of OTX2 associated with combined pituitary hormone deficiency [^d9deef57]. The Journal of Clinical Endocrinology and Metabolism (2008). Low credibility.
+### A novel dominant negative mutation of OTX2 associated with combined pituitary hormone deficiency [^116a1CGv]. The Journal of Clinical Endocrinology and Metabolism (2008). Low credibility.
 
 Context
 
@@ -459,37 +459,37 @@ A novel mutation in OTX2 binds normally to target genes and acts as a dominant n
 
 ---
 
-### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^e4183189]. Pituitary (2020). High credibility.
+### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^116qAJac]. Pituitary (2020). High credibility.
 
 Introduction — scope and caveats for pituitary care during COVID-19: Evaluation and treatment of pituitary disorders have been substantially impacted by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), with reduced access causing delays, and patients undergoing surgery and healthcare providers facing infection concerns. The guidance discusses scenarios where care can be adjusted temporarily without compromising outcomes, notes that suggestions are not evidence-based due to the pandemic's novelty, and states that re-evaluation every few months in light of emerging data is recommended.
 
 ---
 
-### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^e435816b]. Pituitary (2020). High credibility.
+### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^116qL9dC]. Pituitary (2020). High credibility.
 
 Prolactinomas — initial evaluation: Hyperprolactinemia may be physiological, medication related, laboratory artifact, or due to an underlying pathophysiologic cause, so the initial evaluation should include a comprehensive medication history, a thorough evaluation for secondary causes including primary hypothyroidism, and assessment for clinical features such as hypogonadism and galactorrhea; unless a secondary cause is definitively established, further investigation is indicated to evaluate the etiology.
 
 ---
 
-### Pediatric application of coding and valuation systems [^d495525c]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116SAXmM]. Pediatrics (2019). High credibility.
 
 ICD-10-CM impact on payment — Pediatricians "should use the specificity of the ICD-10-CM to accurately reflect the child's conditions and complexity", and when "sufficient clinical information is not known or available about a particular health condition, the payer should recognize that the clinician can appropriately report an unspecified code without the claim being summarily denied solely on the basis of specificity". Furthermore, payers "should not use ICD-10-CM specificity to deny payment to appropriately trained pediatricians performing those specialized services within their scope of practice". New payment models "incorporate elaborate risk-adjustment algorithms based on diagnostic completeness", and such risk-based models "must appropriately represent the risk contributed by children with special health care needs". To support diagnostic comprehensiveness, "claim-form formatting should be expanded (such as doubling to 8) to accommodate more than 4 diagnoses per line-item service", exceeding "the current line-item limitation for the version 5010 CMS 837P electronic and 1500 paper claim forms".
 
 ---
 
-### Neonatal endocrine diseases [^891f5667]. Emergency Medicine Clinics of North America (2023). Medium credibility.
+### Neonatal endocrine diseases [^114WHq7U]. Emergency Medicine Clinics of North America (2023). Medium credibility.
 
 Endocrine diseases are rare and can present very subtly in the neonatal period. Most are diagnosed using newborn screening in the United States; however, some infants may present with false negatives or more subtle findings. Endocrine etiologies should be considered during the management of critically ill infants. This article will give an overview of endocrine emergencies encountered in the neonatal period, including disorders of glucose metabolism, thyroid disorders, adrenal disorders, and pituitary disorders.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^a3c186fc]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^115Bmz9h]. Endocrine Practice (2019). High credibility.
 
 Childhood-onset GHD (CO-GHD) versus adult-onset GHD (AO-GHD) etiology — CO-GHD is most frequently idiopathic and may not be associated with other PHD, with additional congenital, structural brain, and acquired causes listed; in contrast, AO-GHD is most commonly acquired from hypothalamic-pituitary tumors and/or their treatment, and nontumoral causes associated with GHD such as traumatic brain injury, subarachnoid hemorrhage, ischemic stroke, and central nervous system infections have increasingly been recognized.
 
 ---
 
-### Mini-puberty, physiological and disordered: consequences, and potential for therapeutic replacement [^36883895]. Endocrine Reviews (2024). Medium credibility.
+### Mini-puberty, physiological and disordered: consequences, and potential for therapeutic replacement [^112Pr61z]. Endocrine Reviews (2024). Medium credibility.
 
 Combined Pituitary Hormone Deficiencies
 
@@ -504,25 +504,25 @@ A population study in Finland estimated the incidence of congenital CPHD at 1 in
 
 ---
 
-### Guidelines for growth hormone and insulin-like growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short stature, and primary insulin-like growth factor-I deficiency [^ac632c7c]. Hormone Research in Paediatrics (2016). Medium credibility.
+### Guidelines for growth hormone and insulin-like growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short stature, and primary insulin-like growth factor-I deficiency [^115QaBXq]. Hormone Research in Paediatrics (2016). Medium credibility.
 
 Pediatric GHD diagnosis without GH provocative testing — We suggest establishing a diagnosis of GHD without GH provocative testing in patients possessing all of the following three conditions: auxological criteria; hypothalamic-pituitary defect (such as major congenital malformation [ectopic posterior pituitary and pituitary hypoplasia with abnormal stalk], tumor or irradiation), and deficiency of at least one additional pituitary hormone. (Conditional recommendation, ●●○○) We suggest that GHD due to congenital hypopituitarism be diagnosed without formal GH provocative testing in a newborn with hypoglycemia who does not attain a serum GH concentration above 5 μg/L and has deficiency of at least one additional pituitary hormone and/or the classical imaging triad (ectopic posterior pituitary and pituitary hypoplasia with abnormal stalk). (Conditional recommendation, ●●○○).
 
 ---
 
-### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^f78ac237]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^117KzYqt]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Hypopituitarism — epidemiology notes that hypopituitarism results from complete or partial deficiency in pituitary hormones and that the prevalence is approximately 45 cases per 100 000 with an incidence of about four cases per 100 000 per year.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^0f058eb5]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^111PGgVi]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to indications for testing, ES 2011 guidelines recommend to consider testing for acquired GHD in adult patients with structural hypothalamic/pituitary disease, surgery or irradiation in these areas, head trauma, or evidence of other pituitary hormone deficiencies.
 
 ---
 
-### Pediatric reference intervals for thyroid hormone levels from birth to adulthood: a retrospective study [^54fde859]. BMC Endocrine Disorders (2008). Low credibility.
+### Pediatric reference intervals for thyroid hormone levels from birth to adulthood: a retrospective study [^113B1FC4]. BMC Endocrine Disorders (2008). Low credibility.
 
 Data were collected routinely within the setting of clinical practice according to standard procedures. The parents of the children gave their informed consent. No further measures were taken beyond clinical practice.
 
@@ -534,19 +534,19 @@ Analyses of TSH, fT3, and fT4 from undiluted serum samples of children and adole
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^b0c167a7]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^115X3nRt]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to diagnosis, ES 2011 guidelines recommend to recognize that idiopathic GHD in adults is very rare and stringent criteria are necessary to make this diagnosis. Consider obtaining two tests before making this diagnosis because in the absence of suggestive clinical circumstances there is a significant false-positive error rate in the response to a single GH stimulation test. Recognize that the presence of a low IGF-1 also increases the likelihood that this diagnosis is correct.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^09d54fd1]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^111FaYBi]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Growth hormone deficiency (GHD) causes — congenital and acquired etiologies are detailed, including congenital genetic and receptor defects and associations with brain structural defects, and acquired causes such as trauma, central nervous system infection, tumors of the hypothalamus or pituitary (including pituitary adenoma and craniopharyngioma), cranial irradiation, surgery of the pituitary or hypothalamus, infarction including Sheehan's syndrome, infiltrative/granulomatous disease, hypophysitis, and idiopathic.
 
 ---
 
-### Clinical lessons learned in constitutional hypopituitarism from two decades of experience in a large international cohort [^e37f79e0]. Clinical Endocrinology (2021). Medium credibility.
+### Clinical lessons learned in constitutional hypopituitarism from two decades of experience in a large international cohort [^116pH1QT]. Clinical Endocrinology (2021). Medium credibility.
 
 Context
 
@@ -570,13 +570,13 @@ This large international cohort highlights atypical phenotypic presentation of c
 
 ---
 
-### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^464dcd0a]. Pituitary (2020). High credibility.
+### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^112oEGQq]. Pituitary (2020). High credibility.
 
 Pituitary disease management during COVID-19 — sex steroid and growth hormone therapies can often be deferred: testosterone or estrogen replacement could also reasonably be deferred for 6 months; GH replacement is usually deferred in a patient with an untreated sellar mass; in patients already established on gonadal or GH replacement, clinical assessment to avoid side effects would be adequate, with attention to adequate testosterone levels in men and maintenance of IGF-I below the age-adjusted upper normal reference level when essential biochemical testing is performed; dynamic testing to confirm GH deficiency should be deferred for 6–12 months until specialized endocrine testing units resume non-urgent procedures.
 
 ---
 
-### Single-nucleotide variants in two Hedgehog genes, SHH and HHIP, as genetic cause of combined pituitary hormone deficiency [^77b07c9e]. Clinical Endocrinology (2013). Low credibility.
+### Single-nucleotide variants in two Hedgehog genes, SHH and HHIP, as genetic cause of combined pituitary hormone deficiency [^1144Somw]. Clinical Endocrinology (2013). Low credibility.
 
 Objective
 
@@ -596,25 +596,25 @@ Our results suggest involvement of the Hedgehog pathway in CPHD. We suggest that
 
 ---
 
-### Screening, diagnosis and management of congenital hypothyroidism: European society for paediatric endocrinology consensus guideline [^b375869e]. Archives of Disease in Childhood: Education and Practice Edition (2015). Medium credibility.
+### Screening, diagnosis and management of congenital hypothyroidism: European society for paediatric endocrinology consensus guideline [^115b4G2q]. Archives of Disease in Childhood: Education and Practice Edition (2015). Medium credibility.
 
 Communication and care coordination in CH — the baby's family doctor and local pediatrician should be notified either by telephone or by letter to outline the provisional diagnosis and management, options regarding shared care should be discussed with the clinician at the local level, and when the child reaches nursery or school age the consensus group advises against informing educators and teachers about the child having CH to prevent 'labeling' and discrimination.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^a33a7307]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^115Azccv]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Persistent deficiency after childhood — documentation without retesting — We recommend that because of the irreversible nature of the cause of the GHD in children with structural lesions with multiple hormone deficiencies and those with proven genetic causes, a low IGF-I level at least 1 month off GH therapy is sufficient documentation of persistent GHD without additional provocative testing.
 
 ---
 
-### Guidelines for growth hormone and insulin-like growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short stature, and primary insulin-like growth factor-I deficiency [^1ca7c835]. Hormone Research in Paediatrics (2016). Medium credibility.
+### Guidelines for growth hormone and insulin-like growth factor-I treatment in children and adolescents: growth hormone deficiency, idiopathic short stature, and primary insulin-like growth factor-I deficiency [^111jV1Yp]. Hormone Research in Paediatrics (2016). Medium credibility.
 
 Consideration and diagnosis of growth hormone deficiency (GHD) — conditions where GH provocative testing is not required: We suggest establishing a diagnosis of GHD without GH provocative testing in patients possessing all of the following three conditions: auxological criteria, a hypothalamic-pituitary defect (such as ectopic posterior pituitary and pituitary hypoplasia with abnormal stalk, tumor or irradiation), and deficiency of at least one additional pituitary hormone (Conditional recommendation, ●●○○). We suggest that GHD due to congenital hypopituitarism be diagnosed without formal GH provocative testing in a newborn with hypoglycemia who does not attain a serum GH concentration above 5 μg/L and has deficiency of at least one additional pituitary hormone and/or the classical imaging triad (ectopic posterior pituitary and pituitary hypoplasia with abnormal stalk) (Conditional recommendation, ●●○○). For patients who do not meet these criteria yet present a high index of suspicion, GHD can be diagnosed by the conventional approach.
 
 ---
 
-### Neonate with hypoglycemia and persistent jaundice… [^68dc5134]. publications.aap.org (2025). Medium credibility.
+### Neonate with hypoglycemia and persistent jaundice… [^113gTiS7]. publications.aap.org (2025). Medium credibility.
 
 A 38-week-gestation female infant is born via scheduled cesarean section to a 29-year-old woman with a history of thyroid carcinoma treated with thyroidectomy and radioactive iodine therapy with subsequent hypothyroidism. Her pregnancy had been complicated by marijuana use, chronic hypertension, elevated glucose concentration on the 1-hour glucose tolerance test but normal on the 3-hour GTT, and group B. Streptococcus positivity. Membranes are ruptured at delivery. The delivery is complicated by difficultly delivering the fetal head which required vacuum assistance. At birth, the infant is well-appearing and received routine resuscitation after delayed cord clamping. The Apgar scores are 8 and 8. Shortly after 5 minutes, the infant becomes pale and starts grunting. She is placed on continuous positive airway pressure and transferred to the NICU. On admission, the infant is tachypneic with retractions, requiring +6 CPAP with a fraction of inspired oxygen of 0.
 
@@ -622,49 +622,49 @@ A 38-week-gestation female infant is born via scheduled cesarean section to a 29
 
 ---
 
-### Child with suspected hypoglycemia [^710e8faf]. PES (2021). High credibility.
+### Child with suspected hypoglycemia [^113tcVXC]. PES (2021). High credibility.
 
 Differential diagnosis of neonatal hypoglycemia — Listed causes include sepsis, transient (transitional) neonatal hypoglycemia, infant of diabetic mother, decreased glycogen stores (e.g. IUGR), perinatal stress hyperinsulinism, genetic hyperinsulinism, hypopituitarism i.e. adrenal insufficiency and growth hormone deficiency, Fatty Acid Oxidation defects, Gluconeogenesis defect, and Glycogen storage disease.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^07ec2b58]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^111CkEvT]. Endocrine Practice (2019). High credibility.
 
 Regarding follow-up and surveillance for adult growth hormone deficiency, more specifically with respect to transition to adult care, AACE/ACE 2019 guidelines recommend to guide the number of GH stimulation tests by the degree of clinical suspicion for GHD in transition patients with isolated GHD and organic hypothalamic-pituitary disease (such as craniopharyngioma, pituitary hypoplasia, ectopic posterior pituitary or previous cranial irradiation), after longitudinal growth is completed. Obtain one GH-stimulation test if clinical suspicion is high, and obtain a second GH-stimulation test if clinical suspicion is low.
 
 ---
 
-### 2018 European Thyroid Association (ETA) guidelines on the diagnosis and management of central hypothyroidism [^37e44f14]. European Thyroid Journal (2018). Medium credibility.
+### 2018 European Thyroid Association (ETA) guidelines on the diagnosis and management of central hypothyroidism [^112Rs1KH]. European Thyroid Journal (2018). Medium credibility.
 
 Regarding diagnostic investigations for arginine vasopressin deficiency, more specifically with respect to evaluation for hypopituitarism (central hypothyroidism), ETA 2018 guidelines recommend to obtain screening for central hypothyroidism in patients with diabetes insipidus and hypothyroid manifestations.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^7b0f575d]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^1149SdXz]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding diagnostic investigations for adult growth hormone deficiency, more specifically with respect to provocative testing, ES 2011 guidelines recommend to do not exclude the diagnosis of GHD in patients with a normal IGF-1 level and obtain provocative testing to establish the diagnosis of GHD.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^0fddd787]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^111QXL4E]. Endocrine Practice (2019). High credibility.
 
 Updated evidence base for 2019 — In this update, there are 357 citations of which 51 (14%) are EL 1 (strong), 168 (47%) are EL 2 (intermediate), 61 (17%) are EL 3 (weak), and 77 (22%) are EL 4 (no clinical evidence).
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^8616215b]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^114Rnmtv]. Endocrine Practice (2019). High credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to diagnosis, AACE/ACE 2019 guidelines recommend to do not establish the diagnosis of AGHD solely based on ≤ 2 pituitary hormone deficiencies and low serum IGF-1 levels (< - 2 SDS). Obtain a GH stimulation test to confirm the diagnosis.
 
 ---
 
-### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^1d97cdcf]. Pituitary (2020). High credibility.
+### Pituitary society guidance: pituitary disease management and patient care recommendations during the COVID-19 pandemic-an international perspective [^111ksdYz]. Pituitary (2020). High credibility.
 
 Pituitary disease management during COVID-19 — thyroid replacement monitoring aims for a free T4 level in the mid-upper normal range, with free T4 ideally assessed 6–8 weeks later; however deferring for 3–4 months would be reasonable.
 
 ---
 
-### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^2265741c]. BMC Endocrine Disorders (2025). Medium credibility.
+### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^111szf4F]. BMC Endocrine Disorders (2025). Medium credibility.
 
 Alterations in genes involved in the later stages of hypothalamic pituitary formation, namely POUFU1, PROP1, KCNQ1, IFT172, GH1, GHRHR, RNPC3, TBX19, PCSK1, POMC, TBL1X, TRH, TRHR, give rise to isolated or combined deficiencies depending on the timing of each gene's expression. They generally occur without extracerebral involvement and patients may show anatomical alterations focused on the pituitary region, mainly in the form of pituitary hypoplasia (APH).
 
@@ -676,13 +676,13 @@ Given the paucity of the knowledge about the aetiology of these conditions, the 
 
 ---
 
-### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^8b039b55]. Nature Reviews: Nephrology (2025). High credibility.
+### Clinical practice recommendations for the diagnosis and management of X-linked hypophosphataemia [^114Z6VSL]. Nature Reviews: Nephrology (2025). High credibility.
 
 Regarding medical management for X-linked hypophosphatemia, more specifically with respect to management of hearing impairment, XLH-EG 2025 guidelines recommend to consider informing patients and families that hearing problems might occur and that any suspicion of hearing impairment should be investigated thoroughly.
 
 ---
 
-### Appetite-and weight-regulating neuroendocrine circuitry in hypothalamic obesity [^ab90780b]. Endocrine Reviews (2024). Medium credibility.
+### Appetite-and weight-regulating neuroendocrine circuitry in hypothalamic obesity [^115PMQft]. Endocrine Reviews (2024). Medium credibility.
 
 Septo-optic dysplasia
 
@@ -692,37 +692,37 @@ HyOb develops in 31% of patients with SOD, and can occur even in 12% of patients
 
 ---
 
-### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^533e892c]. BMC Endocrine Disorders (2025). Medium credibility.
+### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^1138Qygo]. BMC Endocrine Disorders (2025). Medium credibility.
 
 A total of 2.5% positive results in the different genetic tests were observed. This low results in genetic tests suggest there may be other genes involved, neither studied with our panel (only includes 20 genes) nor yet described. In addition, no genetic causes may be involved in the etiology of CH Variability in the pathogenic variants' penetrance and also in the phenotypes of the genes that intervene in the hypothalamic-pituitary development makes it difficult to interpret the results obtained and to describe new genes, as previously reported. In addition, the sample was small, and the number of subjects would have to be increased to have more accurate data. To remark on our sample of patients with initial diagnoses of IGHD with MRI abnormalities we did not find any pathogenic variations on PROP1 and POU1F1 genes despite these being the most frequently described genes in patients with congenital hypopituitarism. This may be due, as mentioned before, to the small sample of subjects or to the inclusion criteria of patients with initial diagnoses of IGHD deficiency. While not detailed in this manuscript, unpublished data from our clinical practice indicate that the diagnostic yield increases to approximately 16% with clinical exome sequencing and up to 20% when array-CGH is additionally performed.
 
 ---
 
-### ESE clinical practice guideline on functioning and nonfunctioning pituitary adenomas in pregnancy [^3b2c351e]. European Journal of Endocrinology (2021). High credibility.
+### ESE clinical practice guideline on functioning and nonfunctioning pituitary adenomas in pregnancy [^112Wj7rm]. European Journal of Endocrinology (2021). High credibility.
 
 Regarding specific circumstances for nonfunctioning pituitary adenoma, more specifically with respect to pregnant patients (monitoring), ESE 2021 guidelines recommend to monitor pregnant patients with a known pituitary adenoma, particularly in large sizes (> 1 cm) and with pituitary deficiencies, by an endocrinologist and an advanced nurse practitioner where relevant. Decide on the frequency based on the underlying condition and individualized needs.
 
 ---
 
-### Molecular basis of combined pituitary hormone deficiencies [^5440d393]. Endocrine Reviews (2002). Low credibility.
+### Molecular basis of combined pituitary hormone deficiencies [^1139ujbQ]. Endocrine Reviews (2002). Low credibility.
 
 Pituitary gland commitment from oral ectoderm occurs in response to inductive signals from the neuroepithelium of the ventral diencephalon. Invagination of the oral ectoderm leads to the creation of Rathke's pouch. Intensified cell proliferation within Rathke's pouch results in formation of the anterior pituitary lobe. Subsequently, highly differentiated cell types arise sequentially due to overlapping, but distinct, spatial and temporal patterns of signaling molecules and transcription factors. Mutations in some of the pituitary-specific transcription factors have been identified in patients with hypopituitarism, confirming the role of these factors in pituitary development.
 
 ---
 
-### A newborn with combined pituitary hormone deficiency developing shock and sludge [^c2f74d23]. Journal of Pediatric Endocrinology & Metabolism (2017). Low credibility.
+### A newborn with combined pituitary hormone deficiency developing shock and sludge [^115z3fVL]. Journal of Pediatric Endocrinology & Metabolism (2017). Low credibility.
 
 A male neonate was born at 41 weeks of gestation with a birth weight of 3320 g. Artificial respiratory management was required due to respiratory disturbance 1 h after birth, and subsequently catecholamine-refractory low cardiac output-induced shock occurred. Severe combined pituitary hormone deficiency (CPHD) was considered based on the presence of his respiratory disturbance, hypoglycemia and micropenis. After hydrocortisone (HDC) administration, circulatory dynamics rapidly improved. Brain magnetic resonance imaging (MRI) showed aplasia of the anterior pituitary gland and ectopic posterior gland. γ-Glutamyltranspeptidase (γ-GTP) increased from day 10 after birth and direct bilirubin increased from day 18. On ultrasonography, sludge filling the common bile duct and gall bladder was observed. After initiating treatment with both ursodeoxycholic acid and recombinant human growth hormone (rhGH), cholestasis improved and the sludge disappeared at 3 months after birth. In newborns with CPHD, severe central adrenal insufficiency might induce cardiogenic shock after birth. Early diagnosis and intervention are necessary.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^74622a75]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^113yYY7e]. Endocrine Practice (2019). High credibility.
 
 Aging and phenotype differences in CO-GHD versus AO-GHD — Endogenous GH secretion declines with age, making differentiation from normal aging difficult and creating the need to use GH–stimulation tests in most patients with adoption of appropriate GH cut-points; compared with AO-GHD, adults with CO-GHD tend to have lower BMI, waist-to-hip ratio, serum IGF-1 levels, and poorer social outcomes, and CO-GHD due to organic hypothalamic-pituitary disease is associated with more severe long-term consequences, particularly decreased muscle mass, bone mineral density (BMD), and cardiac function.
 
 ---
 
-### New pituitary adenoma classification system to individualise management and improve long-term prognosis [^97c9770c]. Clinical Endocrinology (2025). Medium credibility.
+### New pituitary adenoma classification system to individualise management and improve long-term prognosis [^114t2oQf]. Clinical Endocrinology (2025). Medium credibility.
 
 Conflicts of Interest
 
@@ -730,25 +730,25 @@ G.J. has served as a consultant for Novo Nordisk and AstraZeneca and received le
 
 ---
 
-### Management of inherited bleeding disorders in pregnancy: green-top guideline no. 71 (joint with UKHCDO) [^40c705ca]. BJOG (2017). Medium credibility.
+### Management of inherited bleeding disorders in pregnancy: green-top guideline no. 71 (joint with UKHCDO) [^112f34Ju]. BJOG (2017). Medium credibility.
 
 Regarding specific circumstances for congenital dysfibrinogenemia, more specifically with respect to pregnant patients (general principles), RCOG/UKHCDO 2017 guidelines recommend to elicit a personal and/or family history to guide management decisions, as hypofibrinogenemia and dysfibrinogenemia are associated with variable clinical phenotypes.
 
 ---
 
-### Congenital hypothyroidism: a 2020–2021 consensus guidelines update-an ENDO-European reference network initiative endorsed by the European society for pediatric endocrinology and the European society for endocrinology [^7910c48e]. Thyroid (2021). High credibility.
+### Congenital hypothyroidism: a 2020–2021 consensus guidelines update-an ENDO-European reference network initiative endorsed by the European society for pediatric endocrinology and the European society for endocrinology [^1146V8mB]. Thyroid (2021). High credibility.
 
 Regarding follow-up and surveillance for congenital hypothyroidism, more specifically with respect to evaluation of hypothyroidism permanence, Endo-ERN 2021 guidelines recommend to consider obtaining thyroid imaging and, if possible, genetic testing in patients with confirmed primary hypothyroidism (TSH ≥ 10 mU/L). Consider obtaining an evaluation of the other anterior pituitary functions and genetic testing if central CH is likely (free thyroid below the LLN in combination with a low normal of only mildly elevated TSH).
 
 ---
 
-### Recommendations from the Pediatric Endocrine Society for evaluation and management of persistent hypoglycemia in neonates, infants, and children [^70196d12]. The Journal of Pediatrics (2015). Medium credibility.
+### Recommendations from the Pediatric Endocrine Society for evaluation and management of persistent hypoglycemia in neonates, infants, and children [^113sC9uK]. The Journal of Pediatrics (2015). Medium credibility.
 
 Regarding specific circumstances for hypoglycemia, more specifically with respect to neonatal patients, PES 2015 guidelines recommend to obtain investigations to diagnose the underlying mechanism of persistent hypoglycemia disorders to provide specific management.
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -762,25 +762,25 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Overview of congenital hypopituitarism for the neonatologist… [^03efa601]. publications.aap.org (2022). Medium credibility.
+### Overview of congenital hypopituitarism for the neonatologist… [^1116qTaG]. publications.aap.org (2022). Medium credibility.
 
 Abstract Congenital hypopituitarism is the deficiency in 1 or more hormones produced by the anterior pituitary or released by the posterior pituitary and has an estimated incidence of 1 in 4, 000 to 10, 000. Due to the critical role the pituitary plays in growth, metabolic, and reproductive processes, early diagnosis is essential to prevent devastating and often preventable outcomes. However, in neonates with congenital hypopituitarism, symptoms are often nonspecific and tend to overlap with other disease processes, making diagnosis extremely challenging in the neonatal period. This review highlights the embryology and organogenesis of the pituitary gland, genetic causes of hypopituitarism, clinical presentations in the neonatal period, and methods to diagnose and treat select deficiencies with a focus on anterior pituitary hormones. Comments
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^45eede36]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^112ngNyB]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to hearing assessment, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider obtaining a hearing evaluation at diagnosis or upon reaching adulthood in female patients with X-linked alport syndrome, and then every 5 years in the absence of hearing loss symptoms.
 
 ---
 
-### Revised European Society of Endocrinology clinical practice guideline for the management of aggressive pituitary tumours and pituitary carcinomas [^3fb1d837]. European Journal of Endocrinology (2025). High credibility.
+### Revised European Society of Endocrinology clinical practice guideline for the management of aggressive pituitary tumours and pituitary carcinomas [^112dRxSr]. European Journal of Endocrinology (2025). High credibility.
 
 Regarding diagnostic investigations for pituitary carcinoma, more specifically with respect to genetic testing, ESE 2025 guidelines recommend to consider obtaining germline genetic testing in patients with aggressive pituitary tumors, particularly if they present at a young age or have a family history of pituitary tumors, endocrine neoplasia, or other syndromes, similar to the approach for patients with non-aggressive pituitary tumors.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^f69a26ef]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^117JbjT4]. Endocrine Practice (2019). High credibility.
 
 Regarding screening and diagnosis for adult growth hormone deficiency, more specifically with respect to diagnosis, AACE/ACE 2019 guidelines recommend to consider establishing the diagnosis of AGHD without GH-stimulation testing in patients with the following:
 
@@ -792,49 +792,49 @@ Regarding screening and diagnosis for adult growth hormone deficiency, more spec
 
 ---
 
-### Acromegaly: an endocrine society clinical practice guideline [^9a55bf1d]. The Journal of Clinical Endocrinology and Metabolism (2014). Medium credibility.
+### Acromegaly: an endocrine society clinical practice guideline [^114wotsn]. The Journal of Clinical Endocrinology and Metabolism (2014). Medium credibility.
 
 Regarding medical management for acromegaly, more specifically with respect to pituitary hormones, ES 2014 guidelines recommend to assess patients with acromegaly for hypopituitarism and replace hormone deficits.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^24915d75]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^111wDP5v]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of severe combined immunodeficiency due to CTPS1 deficiency is estimated at 0.0001519 per 100,000 population.
 
 ---
 
-### Congenital multiple pituitary hormone deficiency associated with hyperammonemia: a case report with a short review of the literature [^e0d2b277]. Journal of Perinatology (2011). Low credibility.
+### Congenital multiple pituitary hormone deficiency associated with hyperammonemia: a case report with a short review of the literature [^116kJzqU]. Journal of Perinatology (2011). Low credibility.
 
 We herein report a case study of a female newborn with multiple pituitary hormone deficiencies who presented with generalized seizures, hypoglycemia and hyperammonemia at 18h after birth. In addition, we review the association of hyperammonemia in neonates with multiple pituitary hormone deficiencies reported in the previous literature. This unrecognized association should be taken into account for the early diagnosis and treatment of these patients.
 
 ---
 
-### Unilateral agenesis of internal carotid artery associated with congenital combined pituitary hormone deficiency and pituitary stalk interruption without HESX1, LHX4 or OTX2 mutation: a case report [^3ec7af59]. Pituitary (2012). Low credibility.
+### Unilateral agenesis of internal carotid artery associated with congenital combined pituitary hormone deficiency and pituitary stalk interruption without HESX1, LHX4 or OTX2 mutation: a case report [^112c5Jec]. Pituitary (2012). Low credibility.
 
 Agenesis of internal carotid artery (ICA) is an unusual finding in subjects with congenital Combined Pituitary hormone deficiency (CPHD) with only nine cases being reported to date but to our best knowledge none of them was genetically investigated. A 10-years old girl presented with severe growth failure (height 103 cm) with substantial bone age delay (3 years). She had no history of perinatal insults or familial CPHD. There was no evidence of mental retardation or craniofacial dysmorphism or ophtalmological abnormalities. She was first diagnosed with GH and TSH deficiency. Cerebral magnetic resonance imaging (MRI) showed hypoplastic anterior pituitary, flat sella turcica, absent pituitary stalk with ectopic posterior pituitary as well as agenesis of the left ICA and the left carotid canal. Genomic analysis of pituitary transcription factor HESX1, LHX4 and OTX2 showed no mutations. Treatment with GH and thyroxine was started. The patient remained free of neurovascular symptoms for 5 years but she presented at the age of 15 years with delayed puberty related to an evolving gonadotropin deficiency. ICA agenesis associated with CPHD is unusual and is often asymptomatic in children. Since the CPHD with pituitary stalk interruption cannot be due to HESX1, LHX4 or OTX2 mutation in our case, other pathogenetic mechanisms may be responsible for CPHD associated with unilateral ICA agenesis.
 
 ---
 
-### 2018 European Thyroid Association (ETA) guidelines on the diagnosis and management of central hypothyroidism [^67e62e61]. European Thyroid Journal (2018). Medium credibility.
+### 2018 European Thyroid Association (ETA) guidelines on the diagnosis and management of central hypothyroidism [^113f33KN]. European Thyroid Journal (2018). Medium credibility.
 
 Regarding diagnostic investigations for cryptorchidism, more specifically with respect to evaluation for central hypothyroidism, ETA 2018 guidelines recommend to obtain screening for central hypothyroidism in infants with signs of congenital hypopituitarism, such as micropenis with undescended testes.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^fe6c2a0e]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^117WCBnm]. Endocrine Practice (2019). High credibility.
 
 Adult GHD testing and diagnostic confirmation: GH–stimulation test/s should only be performed based on the appropriate clinical context of each individual patient with a history suggestive of a reasonable clinical suspicion of GHD and with the intent to initiate rGH replacement if the diagnosis is confirmed (Grade D; based on expert opinion). The diagnosis of adult GHD can be made without the need for performing GH–stimulation testing in certain patient subtypes, including those with organic hypothalamic-pituitary disease and biochemical evidence of multiple pituitary hormone deficiencies (MPHD) (≥ 3 pituitary hormone deficiencies [PHD]) together with low-serum IGF-1 levels (< −2.0 standard deviation score [SDS]), as well as genetic defects affecting the hypothalamic-pituitary axes and hypothalamic-pituitary structural brain defects (Grade C; BEL 3). In patients with ≤ 2 PHD, low-serum IGF-1 levels (< −2.0 SDS) alone are not sufficient to make a diagnosis; clinicians should perform 1 GH–stimulation test to confirm the diagnosis (Grade B; BEL 4; upgraded by consensus based on expert opinion).
 
 ---
 
-### Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association [^293cf8e4]. Endocrine Practice (2012). Medium credibility.
+### Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association [^11248yPZ]. Endocrine Practice (2012). Medium credibility.
 
 When to consult an endocrinologist — Consultation with an endocrinologist is recommended in the following situations: children and infants; patients in whom it is difficult to render and maintain a euthyroid state; pregnancy; women planning conception; cardiac disease; presence of goiter, nodule, or other structural changes in the thyroid gland; presence of other endocrine disease such as adrenal and pituitary disorders; unusual constellation of thyroid function test results; and unusual causes of hypothyroidism such as those induced by agents listed in Table 10.
 
 ---
 
-### Hospital-recorded chronic health conditions in children with and without down syndrome in england: a national cohort of births from 2003 to 2019 [^7c3ff1db]. Archives of Disease in Childhood (2025). Medium credibility.
+### Hospital-recorded chronic health conditions in children with and without down syndrome in england: a national cohort of births from 2003 to 2019 [^114BCwgv]. Archives of Disease in Childhood (2025). Medium credibility.
 
 Chronic health conditions
 
@@ -864,37 +864,37 @@ We collated characteristics recorded in birth admissions and supplemented missin
 
 ---
 
-### Clinical practice guidelines for multiple endocrine neoplasia type 1 (MEN1) [^ef8b834f]. The Journal of Clinical Endocrinology and Metabolism (2012). Medium credibility.
+### Clinical practice guidelines for multiple endocrine neoplasia type 1 (MEN1) [^11788uHQ]. The Journal of Clinical Endocrinology and Metabolism (2012). Medium credibility.
 
 Regarding follow-up and surveillance for multiple endocrine neoplasia type 1, more specifically with respect to surveillance for tumors, pituitary, ES 2012 guidelines recommend to obtain hypothalamic pituitary testing in patients with abnormal results to further characterize the nature of the pituitary lesion and its effects on the secretion of other pituitary hormones.
 
 ---
 
-### Detection of genetic hypopituitarism in an adult population of idiopathic pituitary insufficiency patients with growth hormone deficiency [^e63417c5]. Pituitary (2011). Low credibility.
+### Detection of genetic hypopituitarism in an adult population of idiopathic pituitary insufficiency patients with growth hormone deficiency [^116tHefe]. Pituitary (2011). Low credibility.
 
 Idiopathic pituitary insufficiency (IPI) is diagnosed in 10% of all hypopituitary patients. There are several known and unknown aetiologies within the IPI group. The aim of this study was to investigate an adult IPI population for genetic cause according a screening schedule. From files of 373 GH deficient (GHD) patients on GH replacement 50 cases with IPI were identified. Of the 39 patients that approved to the study, 25 patients were selected for genetic investigation according to phenotype and 14 patients were not further tested, as sporadic isolated GHD (n = 9) and GHD with diabetes insipidus (n = 5) have low probability for a known genetic cause. Genotyping of all coding exons of HESX1, LHX4, PROP1, POU1F1 and GH1 genes were performed according to a diagnostic algorithm based on clinical, hormonal and neuroradiological phenotype. Among the 25 patients, an overall rate of 8% of mutations was found, and a 50% rate in familial cases. Among two sibling pairs, one pair that presented with complete anterior pituitary insufficiency, had a compound heterozygous PROP1 gene mutation (codons 117 and 120: exon 3 p Phe 117 Ile (c349 T > A) and p Arg 120 Cys (c358 C > T)) with a phenotype of very late onset ACTH-insufficiency. In the other sibling pair and in the sporadic cases no mutation was identified. This study suggests that currently known genetic causes are rare in sporadic adult IPI patients, and that systematic genetic screening is not needed in adult-onset sporadic cases of IPI. Conversely, familial cases are highly suspect for genetic causes.
 
 ---
 
-### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^0024f87e]. Endocrine Practice (2019). High credibility.
+### American Association of Clinical Endocrinologists and American college of endocrinology guidelines for management of growth hormone deficiency in adults and patients transitioning from pediatric to adult care [^1111DRFK]. Endocrine Practice (2019). High credibility.
 
 AACE guideline grading protocol — consensus thresholds and mapping: Rule-based adjustment allows that any recommendation can be a "very strong" Grade A if there is 100% consensus, whereas if > 66% consensus is not reached a "primarily based on expert opinion" Grade D designation is assigned; a representative row shows > 66% consensus with Direct mapping leading to 1 → A.
 
 ---
 
-### EAU guidelines on sexual and reproductive health [^69335390]. EAU (2025). High credibility.
+### EAU guidelines on sexual and reproductive health [^113gxwWX]. EAU (2025). High credibility.
 
 Regarding diagnostic investigations for male hypogonadism, more specifically with respect to pituitary imaging, EAU 2025 guidelines recommend to obtain pituitary MRI in patients with secondary hypogonadism with elevated prolactin levels or specific symptoms of a pituitary mass and/or the presence of other anterior pituitary hormone deficiencies.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^0925e013]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^111EZcQa]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Diagnosis of GHD — because clinical features are nonspecific, a workup for GH deficiency should not be undertaken except in the context of "probable cause" — either a childhood history of GHD or a clinical context making GHD likely. We recommend that the ITT and the GHRH-arginine test have sufficient sensitivity and specificity to establish the diagnosis of GHD, but in those with clearly established recent (within 10 yr) hypothalamic causes of suspected GHD, e.g. irradiation, testing with GHRH-arginine may be misleading (1⊕⊕⊕⊕). Patients should be adequately replaced with other deficient hormones before any testing of GH secretion is performed, and because GH is secreted in an episodic manner, current diagnostic testing uses provocative tests of GH secretion, although these tests have significant intrinsic false-positive error rates.
 
 ---
 
-### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^9d1da0c7]. BMC Endocrine Disorders (2025). Medium credibility.
+### Progression from isolated growth hormone deficiency to a combined pituitary hormone deficiency in a cohort of paediatrics patients with pituitary morphology abnormalities on MRI [^1151w1Sn]. BMC Endocrine Disorders (2025). Medium credibility.
 
 Objective
 
@@ -918,18 +918,18 @@ The online version contains supplementary material available at 10.1186/s12902-0
 
 ---
 
-### Perinatal endocrinology: common endocrine disorders in the sick and premature newborn [^4fe26037]. Pediatric Clinics of North America (2011). Low credibility.
+### Perinatal endocrinology: common endocrine disorders in the sick and premature newborn [^1133S4RL]. Pediatric Clinics of North America (2011). Low credibility.
 
 Endocrine disorders are common in infants in the neonatal ICU. They often are associated with prematurity, low birth weight or very low birth weight, and small size for gestational age. They also frequently occur in infants who are critically ill or stressed. This article describes the most common conditions and current knowledge regarding management.
 
 ---
 
-### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^9abcb772]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Hormonal replacement in hypopituitarism in adults: an endocrine society clinical practice guideline [^114xQUtq]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Endocrine Society guideline — recommendation grading and evidence quality specifies that strong recommendations use the phrase "we recommend" and weak recommendations use "we suggest", with numeric labels 1 and 2 respectively; evidence quality is denoted by circle symbols where ⊕○○○, ⊕⊕○○, ⊕⊕⊕○, and ⊕⊕⊕⊕ indicate very low, low, moderate, and high quality, and certain statements are labeled "Ungraded Good Practice Statement" that one should not consider as graded recommendations.
 
 ---
 
-### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^404241d7]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
+### Evaluation and treatment of adult growth hormone deficiency: an endocrine society clinical practice guideline [^112eGTq8]. The Journal of Clinical Endocrinology and Metabolism (2011). Medium credibility.
 
 Regarding diagnostic investigations for adult growth hormone deficiency, more specifically with respect to provocative testing, ES 2011 guidelines recommend to recognize that a low IGF-1 level, in the absence of catabolic conditions such as poorly controlled diabetes, liver disease and oral estrogen therapy, is strong evidence for significant GHD. Consider using this for identifying patients likely to benefit from treatment and therefore require GH stimulation testing.

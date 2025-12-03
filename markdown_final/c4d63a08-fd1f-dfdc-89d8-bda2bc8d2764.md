@@ -17,35 +17,35 @@ How to treat pulmonary edema
 
 > Let me first confirm the priorities in the first hour: secure the airway, provide supplemental oxygen to a target SpO2 ≥ 90–95%, and establish IV access while initiating continuous monitoring of SpO2, ECG, and blood pressure. I need to ensure I do not jump to conclusions about etiology before stabilizing, because hypoxemia itself can drive secondary pulmonary vasoconstriction and worsen edema, so oxygenation comes first while I gather data to distinguish cardiogenic from noncardiogenic causes.
 
-> Next, I should review how to classify the edema phenotype, because treatment diverges substantially. Wait, let me verify the bedside tools: lung ultrasound can rapidly detect B-lines and pleural effusions and is superior to chest radiography for early edema and effusion detection, while transthoracic echocardiography helps assess ventricular function and volume status. BNP can support a cardiogenic diagnosis but is not specific, and clinical context remains paramount, especially when ARDS and heart failure coexist [^6dc7fa69] [^a761d8a2] [^3e45f36b].
+> Next, I should review how to classify the edema phenotype, because treatment diverges substantially. Wait, let me verify the bedside tools: lung ultrasound can rapidly detect B-lines and pleural effusions and is superior to chest radiography for early edema and effusion detection, while transthoracic echocardiography helps assess ventricular function and volume status. BNP can support a cardiogenic diagnosis but is not specific, and clinical context remains paramount, especially when ARDS and heart failure coexist [^113okpc8] [^115H9oG5] [^112bKjE2].
 
-> For cardiogenic pulmonary edema, I will now examine preload and afterload reduction as first-line pharmacotherapy. High-dose IV nitrates are strongly supported to reduce filling pressures and afterload; I should titrate aggressively while watching blood pressure, and I need to remember that tachyphylaxis can occur with prolonged use, so I should plan for transition once stabilized [^77f18f75] [^58ca5c7e]. Hold on, I should verify the role of diuretics: loop diuretics like furosemide are standard for congestion relief, but they do not provide immediate hemodynamic benefit and should be used judiciously, particularly in patients with renal vulnerability or hypotension, and in combination with nitrates rather than as monotherapy in severe pulmonary edema [^4fb90928].
+> For cardiogenic pulmonary edema, I will now examine preload and afterload reduction as first-line pharmacotherapy. High-dose IV nitrates are strongly supported to reduce filling pressures and afterload; I should titrate aggressively while watching blood pressure, and I need to remember that tachyphylaxis can occur with prolonged use, so I should plan for transition once stabilized [^1144pfWc] [^113Gdt7f]. Hold on, I should verify the role of diuretics: loop diuretics like furosemide are standard for congestion relief, but they do not provide immediate hemodynamic benefit and should be used judiciously, particularly in patients with renal vulnerability or hypotension, and in combination with nitrates rather than as monotherapy in severe pulmonary edema [^1133CB3u].
 
-> I need to check the role of noninvasive ventilation in CPE. Multiple high-quality studies and meta-analyses show that CPAP or bilevel NIPPV reduces intubation and mortality compared with oxygen alone, with the clearest mortality signal for CPAP. I should initiate NIV early in moderate-to-severe cases while monitoring tolerance and hemodynamics, and I should not delay escalation if there is no rapid improvement [^197dce54] [^4b9c8965]. But wait, what if the patient is hypotensive or cannot tolerate the mask? In that scenario, I should prioritize vasodilators and consider intubation rather than forcing NIV, because hemodynamic compromise and poor mask fit reduce benefit and may worsen outcomes.
+> I need to check the role of noninvasive ventilation in CPE. Multiple high-quality studies and meta-analyses show that CPAP or bilevel NIPPV reduces intubation and mortality compared with oxygen alone, with the clearest mortality signal for CPAP. I should initiate NIV early in moderate-to-severe cases while monitoring tolerance and hemodynamics, and I should not delay escalation if there is no rapid improvement [^111enwwh] [^112w6eiY]. But wait, what if the patient is hypotensive or cannot tolerate the mask? In that scenario, I should prioritize vasodilators and consider intubation rather than forcing NIV, because hemodynamic compromise and poor mask fit reduce benefit and may worsen outcomes.
 
-> For noncardiogenic pulmonary edema due to ARDS, I should confirm that I am shifting to lung-protective ventilation with low tidal volumes, limiting plateau pressures, and applying adequate PEEP, while avoiding routine diuretics unless there is clear fluid overload. Prone positioning is recommended for moderate-to-severe ARDS to improve oxygenation and mortality, and I should avoid excessive fluids because positive fluid balance is associated with worse outcomes in ARDS [^f4dc7b4f] [^133b7a16]. Hold on, I should verify the diagnostic guardrails again: I need to ensure I am not missing cardiogenic edema masquerading as ARDS, so bedside echo and lung ultrasound remain essential to avoid misclassification and harmful therapy [^6dc7fa69].
+> For noncardiogenic pulmonary edema due to ARDS, I should confirm that I am shifting to lung-protective ventilation with low tidal volumes, limiting plateau pressures, and applying adequate PEEP, while avoiding routine diuretics unless there is clear fluid overload. Prone positioning is recommended for moderate-to-severe ARDS to improve oxygenation and mortality, and I should avoid excessive fluids because positive fluid balance is associated with worse outcomes in ARDS [^117G236E] [^111VWk4M]. Hold on, I should verify the diagnostic guardrails again: I need to ensure I am not missing cardiogenic edema masquerading as ARDS, so bedside echo and lung ultrasound remain essential to avoid misclassification and harmful therapy [^113okpc8].
 
-> Now, let me consider high-altitude pulmonary edema, where pathophysiology and treatment differ. Descent is the single most effective intervention and should be prioritized; if descent is delayed or impossible, supplemental oxygen to maintain SpO2 > 90% is an appropriate alternative, and portable hyperbaric chambers can temporize when neither descent nor oxygen is immediately available. I should minimize exertion during descent to avoid exacerbating pulmonary hypertension [^53df88c8] [^347035c7]. Wait, I initially thought diuretics might help here, but I should double-check that: evidence suggests furosemide may modestly accelerate radiographic clearing without improving hard outcomes like intubation or mortality, so diuretics are not first-line in HAPE and should not replace descent or oxygen [^b53aa4de] [^aea067e0]. I also need to remember that phosphodiesterase-5 inhibitors can be considered when descent and oxygen are unavailable, but they should be used cautiously and not combined with nifedipine due to hypotension risk [^ac21d637].
+> Now, let me consider high-altitude pulmonary edema, where pathophysiology and treatment differ. Descent is the single most effective intervention and should be prioritized; if descent is delayed or impossible, supplemental oxygen to maintain SpO2 > 90% is an appropriate alternative, and portable hyperbaric chambers can temporize when neither descent nor oxygen is immediately available. I should minimize exertion during descent to avoid exacerbating pulmonary hypertension [^1139M4By] [^112Lk3ga]. Wait, I initially thought diuretics might help here, but I should double-check that: evidence suggests furosemide may modestly accelerate radiographic clearing without improving hard outcomes like intubation or mortality, so diuretics are not first-line in HAPE and should not replace descent or oxygen [^115dgTV7] [^115TtizT]. I also need to remember that phosphodiesterase-5 inhibitors can be considered when descent and oxygen are unavailable, but they should be used cautiously and not combined with nifedipine due to hypotension risk [^115QCEfY].
 
-> For negative-pressure pulmonary edema, I should confirm that the priority is relieving the upper airway obstruction and applying positive pressure. Endotracheal intubation or a supraglottic airway restores airway patency, and CPAP or NIV with PEEP redistributes fluid and improves oxygenation. Diuretics are often unnecessary and may cause harm if the patient is intravascularly depleted, so I should avoid reflex diuresis unless there is clear fluid overload. With appropriate supportive care, NPPE typically resolves within 12–48 hours [^f1020a5b].
+> For negative-pressure pulmonary edema, I should confirm that the priority is relieving the upper airway obstruction and applying positive pressure. Endotracheal intubation or a supraglottic airway restores airway patency, and CPAP or NIV with PEEP redistributes fluid and improves oxygenation. Diuretics are often unnecessary and may cause harm if the patient is intravascularly depleted, so I should avoid reflex diuresis unless there is clear fluid overload. With appropriate supportive care, NPPE typically resolves within 12–48 hours [^117AJhfg].
 
-> Neurogenic pulmonary edema complicates acute neurologic injury and can mimic ARDS. I should treat supportively with oxygenation and lung-protective ventilation as needed, and I need to consider prone positioning in refractory cases, as case-based evidence suggests it can improve oxygenation and edema resolution. Concurrently, I must aggressively manage the underlying neurologic process, because edema resolution tracks with control of the precipitating brain injury [^d4443eee] [^d66cc076].
+> Neurogenic pulmonary edema complicates acute neurologic injury and can mimic ARDS. I should treat supportively with oxygenation and lung-protective ventilation as needed, and I need to consider prone positioning in refractory cases, as case-based evidence suggests it can improve oxygenation and edema resolution. Concurrently, I must aggressively manage the underlying neurologic process, because edema resolution tracks with control of the precipitating brain injury [^116RhJHB] [^116Utsxq].
 
-> Let me reconsider fluid management across phenotypes, because this is easy to misapply. In cardiogenic edema, diuretics are appropriate to relieve congestion, but in ARDS, conservative fluid strategy reduces ventilator days without increasing nonpulmonary organ failure. In HAPE, diuretics are not first-line and may be counterproductive mechanistically, so I should align fluid decisions with the underlying pathophysiology and reassess frequently with ultrasound and clinical response [^714a425b] [^b53aa4de].
+> Let me reconsider fluid management across phenotypes, because this is easy to misapply. In cardiogenic edema, diuretics are appropriate to relieve congestion, but in ARDS, conservative fluid strategy reduces ventilator days without increasing nonpulmonary organ failure. In HAPE, diuretics are not first-line and may be counterproductive mechanistically, so I should align fluid decisions with the underlying pathophysiology and reassess frequently with ultrasound and clinical response [^113txYXk] [^115dgTV7].
 
-> I should double-check monitoring and de-escalation plans. Serial lung ultrasound can track B-line resolution, echocardiography can reassess ventricular function, and arterial blood gases guide oxygen titration and ventilator adjustments. As oxygenation improves and work of breathing decreases, I should wean NIV or oxygen and proceed to spontaneous breathing trials when ready, while watching for recurrence of edema or deterioration suggesting a missed etiology or incomplete treatment [^6dc7fa69] [^133b7a16].
+> I should double-check monitoring and de-escalation plans. Serial lung ultrasound can track B-line resolution, echocardiography can reassess ventricular function, and arterial blood gases guide oxygen titration and ventilator adjustments. As oxygenation improves and work of breathing decreases, I should wean NIV or oxygen and proceed to spontaneous breathing trials when ready, while watching for recurrence of edema or deterioration suggesting a missed etiology or incomplete treatment [^113okpc8] [^111VWk4M].
 
 > Finally, I need to ensure disposition matches severity and trajectory. Patients with persistent hypoxemia, high ventilatory requirements, or hemodynamic instability warrant ICU-level care, whereas stable patients with clear improvement can be observed on a step-down unit or discharged with close follow-up if reliable. I should provide education on medication adherence, daily weights, and symptom triggers for cardiogenic edema, and for HAPE, counsel on gradual ascent and prophylaxis for future exposures [^notfound].
 
 ---
 
-Pulmonary edema treatment is **etiology-specific and time-sensitive**: prioritize oxygenation, reduce preload/afterload for cardiogenic cases, and use lung-protective ventilation for noncardiogenic edema. Immediate oxygen to SpO2 > 90% is first-line; for cardiogenic edema, add IV nitrates and loop diuretics [^4fb90928], and use CPAP or NIV to reduce intubation and mortality [^197dce54] [^4b9c8965]. For ARDS, use low tidal volume ventilation with adequate PEEP and conservative fluids [^f4dc7b4f] [^133b7a16]. For HAPE, descend and give oxygen; nifedipine or a PDE-5 inhibitor if descent is delayed [^53df88c8] [^ac21d637]. Avoid routine morphine and diuretics in noncardiogenic edema, and tailor therapy to the cause and response [^c9fae3fe] [^f1020a5b].
+Pulmonary edema treatment is **etiology-specific and time-sensitive**: prioritize oxygenation, reduce preload/afterload for cardiogenic cases, and use lung-protective ventilation for noncardiogenic edema. Immediate oxygen to SpO2 > 90% is first-line; for cardiogenic edema, add IV nitrates and loop diuretics [^1133CB3u], and use CPAP or NIV to reduce intubation and mortality [^111enwwh] [^112w6eiY]. For ARDS, use low tidal volume ventilation with adequate PEEP and conservative fluids [^117G236E] [^111VWk4M]. For HAPE, descend and give oxygen; nifedipine or a PDE-5 inhibitor if descent is delayed [^1139M4By] [^115QCEfY]. Avoid routine morphine and diuretics in noncardiogenic edema, and tailor therapy to the cause and response [^116ASnPP] [^117AJhfg].
 
 ---
 
 ## General supportive measures
 
-- **Oxygenation**: Immediate supplemental oxygen to maintain SpO2 > 90% is essential in all forms of pulmonary edema [^fdda8e7f].
+- **Oxygenation**: Immediate supplemental oxygen to maintain SpO2 > 90% is essential in all forms of pulmonary edema [^117VMH8A].
 
 - **Positioning**: Sitting the patient upright improves oxygenation and reduces preload.
 
@@ -59,43 +59,43 @@ Key medications by **edema type**:
 
 | **Medication** | **Cardiogenic pulmonary edema** | **Noncardiogenic pulmonary edema (ARDS)** | **High-altitude pulmonary edema (HAPE)** |
 |-|-|-|-|
-| Loop diuretics (e.g. furosemide) | First-line to reduce preload and relieve congestion [^4fb90928] | Not routinely used; avoid unless fluid overload [^notfound] | Limited role; may help if fluid overload [^notfound] |
-| Vasodilators (e.g. nitroglycerin, nitroprusside) | Reduce preload/afterload; rapid symptom relief [^0b645df4] | Contraindicated due to hypotension risk | Not indicated |
+| Loop diuretics (e.g. furosemide) | First-line to reduce preload and relieve congestion [^1133CB3u] | Not routinely used; avoid unless fluid overload [^notfound] | Limited role; may help if fluid overload [^notfound] |
+| Vasodilators (e.g. nitroglycerin, nitroprusside) | Reduce preload/afterload; rapid symptom relief [^111HtaQb] | Contraindicated due to hypotension risk | Not indicated |
 | Morphine | Historically used; now avoided due to respiratory depression and limited benefit [^notfound] | Not indicated | Not indicated |
 | Corticosteroids | Not routine; consider if asthma/COPD exacerbation | Not indicated | Not indicated |
-| Pulmonary vasodilators (e.g. nifedipine, sildenafil, tadalafil) | Not indicated | Not indicated | Use if descent delayed; reduce pulmonary artery pressure [^ac21d637] |
+| Pulmonary vasodilators (e.g. nifedipine, sildenafil, tadalafil) | Not indicated | Not indicated | Use if descent delayed; reduce pulmonary artery pressure [^115QCEfY] |
 
 ---
 
 ## Non-invasive ventilation (NIV)
 
-- **Cardiogenic pulmonary edema**: CPAP or bilevel NIV reduces intubation and mortality; start early if respiratory distress [^197dce54] [^4b9c8965].
+- **Cardiogenic pulmonary edema**: CPAP or bilevel NIV reduces intubation and mortality; start early if respiratory distress [^111enwwh] [^112w6eiY].
 
-- **Noncardiogenic pulmonary edema (ARDS)**: NIV is controversial; use only if mild hypoxemia and no severe respiratory failure [^953a5d8b].
+- **Noncardiogenic pulmonary edema (ARDS)**: NIV is controversial; use only if mild hypoxemia and no severe respiratory failure [^114pEm3G].
 
-- **High-altitude pulmonary edema**: CPAP can be used if oxygen is unavailable or as adjunct [^aba09d7d].
+- **High-altitude pulmonary edema**: CPAP can be used if oxygen is unavailable or as adjunct [^115PSqE4].
 
 ---
 
 ## Invasive mechanical ventilation
 
-Reserve invasive ventilation for **severe respiratory failure** or when noninvasive measures fail. Use **lung-protective strategies** — low tidal volumes (6 mL/kg PBW), adequate PEEP, and plateau pressure < 30 cm H2O — in ARDS [^f4dc7b4f] [^133b7a16].
+Reserve invasive ventilation for **severe respiratory failure** or when noninvasive measures fail. Use **lung-protective strategies** — low tidal volumes (6 mL/kg PBW), adequate PEEP, and plateau pressure < 30 cm H2O — in ARDS [^117G236E] [^111VWk4M].
 
 ---
 
 ## Special considerations
 
-- **Negative pressure pulmonary edema**: Treat with oxygen, CPAP, and relief of obstruction; avoid routine diuretics [^f1020a5b].
+- **Negative pressure pulmonary edema**: Treat with oxygen, CPAP, and relief of obstruction; avoid routine diuretics [^117AJhfg].
 
-- **Reexpansion pulmonary edema**: Supportive care, oxygen, and consider steroids in severe cases [^026f4cdb].
+- **Reexpansion pulmonary edema**: Supportive care, oxygen, and consider steroids in severe cases [^1114cMsG].
 
-- **Neurogenic pulmonary edema**: Treat the underlying neurologic insult; supportive ventilation as needed [^d4443eee].
+- **Neurogenic pulmonary edema**: Treat the underlying neurologic insult; supportive ventilation as needed [^116RhJHB].
 
 ---
 
 ## Monitoring and follow-up
 
-Track **oxygenation, respiratory rate, and work of breathing** to guide escalation or weaning. Obtain serial chest X-rays or lung ultrasound to assess response and detect complications [^a761d8a2]. Address the underlying cause — such as heart failure, sepsis, or altitude exposure — to prevent recurrence [^f4dc7b4f] [^53df88c8].
+Track **oxygenation, respiratory rate, and work of breathing** to guide escalation or weaning. Obtain serial chest X-rays or lung ultrasound to assess response and detect complications [^115H9oG5]. Address the underlying cause — such as heart failure, sepsis, or altitude exposure — to prevent recurrence [^117G236E] [^1139M4By].
 
 ---
 
@@ -105,7 +105,7 @@ Effective pulmonary edema management hinges on **rapid etiologic diagnosis**, ox
 
 ## References
 
-### Pulmonary edema and hypoxic respiratory failure [^62046019]. Pediatric Critical Care Medicine (2016). Low credibility.
+### Pulmonary edema and hypoxic respiratory failure [^113WKFrg]. Pediatric Critical Care Medicine (2016). Low credibility.
 
 Objectives
 
@@ -121,55 +121,55 @@ The pulmonary parenchyma and vasculature are at high risk in conditions where in
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^53df88c8]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^1139M4By]. Wilderness & Environmental Medicine (2024). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — Descent remains the single best treatment, and individuals should try to descend at least 1000 m or until symptoms resolve while minimizing exertion because exertion can further increase pulmonary artery pressure and exacerbate edema formation. We recommend that descent is initiated for individuals with HAPE. Strong recommendation, high-quality evidence.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^2714d5eb]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^111zwWuG]. Wilderness & Environmental Medicine (2019). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — descent remains the single best treatment; individuals should try to descend at least 1000 m or until symptoms resolve and minimize exertion during descent because exertion can further increase pulmonary artery pressure and exacerbate edema formation. Recommendation: Descent is indicated for individuals with HAPE (Recommendation Grade: 1A).
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^fa16cfea]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^117PmZsP]. Wilderness & Environmental Medicine (2019). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — supplemental oxygen delivered by nasal cannula or mask at flow rates sufficient to achieve an SpO2 > 90% provides a suitable alternative to descent; providers should target an SpO2 of > 90% rather than a particular FiO2, and short-term oxygen bars or over-the-counter oxygen canisters have no role. Recommendation: When available, supplemental oxygen sufficient to achieve an SpO2 of > 90% or to relieve symptoms should be used while waiting to initiate descent when descent is infeasible and during descent in severely ill patients (Recommendation Grade: 1A).
 
 ---
 
-### Update on high-altitude pulmonary edema: pathogenesis, prevention, and treatment [^2480552a]. Wilderness & Environmental Medicine (2008). Low credibility.
+### Update on high-altitude pulmonary edema: pathogenesis, prevention, and treatment [^111w7fGV]. Wilderness & Environmental Medicine (2008). Low credibility.
 
 High-altitude pulmonary edema (HAPE) is a life-threatening noncardiogenic form of pulmonary edema (PE) that afflicts susceptible persons after rapid ascent to high altitude above 2500 m. Its pathogenesis is related to increased sympathetic tone, exaggerated hypoxic pulmonary vasoconstriction, uneven hypoxic pulmonary vasoconstriction with overperfusion of some regions of the pulmonary vascular bed, increased pulmonary capillary pressure, stress failure of pulmonary capillaries, and alveolar fluid leak across capillary endothelium resulting in interstitial and alveolar edema. Prevention of HAPE is most effectively achieved by gradual ascent with time for acclimatization, although recent small studies have highlighted a number of pharmacologic options. Inhaled salmeterol prevents HAPE presumably by increasing alveolar fluid clearance, the phosphodiesterase-5 inhibitor tadalafil works by acting as a pulmonary vasodilator, and dexamethasone seems to prevent HAPE by stabilizing the capillary endothelium, along with other potential effects. These investigations have yet to be validated in widespread clinical practice. Nifedipine, which prevents HAPE via its effects as a pulmonary vasodilator, has a longer history of clinical use. The most effective and reliable treatment of established HAPE is immediate descent and/or adequate flow supplemental oxygen to maintain arterial saturation above 90%, accompanied by rest from strenuous physical activity. Use of a portable hyperbaric chamber is an effective temporizing measure, and nifedipine may be used for treatment of HAPE, although only as an adjunct to descent and/or supplemental oxygen if these methods of treatment are not immediately available to a person with HAPE.
 
 ---
 
-### Assessment of pulmonary edema: principles and practice [^faac91a7]. Journal of Cardiothoracic and Vascular Anesthesia (2018). Low credibility.
+### Assessment of pulmonary edema: principles and practice [^117QdsNE]. Journal of Cardiothoracic and Vascular Anesthesia (2018). Low credibility.
 
 Pulmonary edema increasingly is recognized as a perioperative complication affecting outcome. Several risk factors have been identified, including those of cardiogenic origin, such as heart failure or excessive fluid administration, and those related to increased pulmonary capillary permeability secondary to inflammatory mediators. Effective treatment requires prompt diagnosis and early intervention. Consequently, over the past 2 centuries a concentrated effort to develop clinical tools to rapidly diagnose pulmonary edema and track response to treatment has occurred. The ideal properties of such a tool would include high sensitivity and specificity, easy availability, and the ability to diagnose early accumulation of lung water before the development of the full clinical presentation. In addition, clinicians highly value the ability to precisely quantify extravascular lung water accumulation and differentiate hydrostatic from high permeability etiologies of pulmonary edema. In this review, advances in understanding the physiology of extravascular lung water accumulation in health and in disease and the various mechanisms that protect against the development of pulmonary edema under physiologic conditions are discussed. In addition, the various bedside modalities available to diagnose early accumulation of extravascular lung water and pulmonary edema, including chest auscultation, chest roentgenography, lung ultrasonography, and transpulmonary thermodilution, are examined. Furthermore, advantages and limitations of these methods for the operating room and intensive care unit that are critical for proper modality selection in each individual case are explored.
 
 ---
 
-### Wilderness Medical Society practice guidelines for the prevention and treatment of acute altitude illness: 2014 update [^f5798337]. Wilderness & Environmental Medicine (2014). Low credibility.
+### Wilderness Medical Society practice guidelines for the prevention and treatment of acute altitude illness: 2014 update [^117GvnJJ]. Wilderness & Environmental Medicine (2014). Low credibility.
 
 To provide guidance to clinicians about best practices, the Wilderness Medical Society convened an expert panel to develop evidence-based guidelines for prevention and treatment of acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema. These guidelines present the main prophylactic and therapeutic modalities for each disorder and provide recommendations about their role in disease management. Recommendations are graded based on the quality of supporting evidence and balance between the benefits and risks/burdens according to criteria put forth by the American College of Chest Physicians. The guidelines also provide suggested approaches to prevention and management of each disorder that incorporate these recommendations. This is an updated version of the original WMS Consensus Guidelines for the Prevention and Treatment of Acute Altitude Illness published in Wilderness & Environmental Medicine 2010;21(2):146–155.
 
 ---
 
-### Beyond pulmonary edema: diagnostic, risk stratification, and treatment challenges of acute heart failure management in the emergency department [^554da7b1]. Annals of Emergency Medicine (2008). Low credibility.
+### Beyond pulmonary edema: diagnostic, risk stratification, and treatment challenges of acute heart failure management in the emergency department [^113BU2oA]. Annals of Emergency Medicine (2008). Low credibility.
 
 The majority of heart failure hospitalizations in the United States originate in the emergency department (ED). Current strategies for acute heart failure syndromes have largely been tailored after chronic heart failure guidelines and care. Prospective ED-based acute heart failure syndrome trials are lacking, and current guidelines for disposition are based on either little or no evidence. As a result, the majority of ED acute heart failure syndrome patients are admitted to the hospital. Recent registry data suggest there is a significant amount of heterogeneity in acute heart failure syndrome ED presentations, and diagnostics and therapeutics may need to be individualized to the urgency of the presentation, underlying pathophysiology, and acute hemodynamic characteristics. A paradigm shift is necessary in acute heart failure syndrome guidelines and research: prospective trials need to focus on diagnostic, therapeutic, and risk-stratification algorithms that rely on readily available ED data, focusing on outcomes more proximate to the ED visit (5 days). Intermediate outcomes (30 days) are more dependent on inpatient and outpatient care and patient behavior than ED management decisions. Without these changes, the burden of acute heart failure syndrome care is unlikely to change. This article proposes such a paradigm shift in acute heart failure syndrome care and discusses areas of further research that are necessary to promote this change in approach.
 
 ---
 
-### Noncardiogenic pulmonary edema [^09f8b1ee]. Emergency Medicine Clinics of North America (2003). Low credibility.
+### Noncardiogenic pulmonary edema [^111FnRWM]. Emergency Medicine Clinics of North America (2003). Low credibility.
 
 Pulmonary edema is differentiated into two categories — cardiogenic and noncardiogenic. Noncardiogenic pulmonary edema is due to changes in permeability of the pulmonary capillary membrane as a result of either a direct or an indirect pathologic process. It is a spectrum of illness ranging from the less severe form of ALI to the severe ARDS. The mainstay of treatment is mechanical ventilation with maximization of ventilation and oxygenation through the judicious use of PEEP. Newer ventilation techniques, such as high-frequency oscillatory ventilation and partial fluid ventilation, are promising but are in the early stages of clinical testing. Mortality rates remain high despite increasing intensive care unit care.
 
 ---
 
-### Neurogenic pulmonary edema [^d4443eee]. Critical Care Medicine (2015). Low credibility.
+### Neurogenic pulmonary edema [^116RhJHB]. Critical Care Medicine (2015). Low credibility.
 
 Objective
 
@@ -197,25 +197,25 @@ Neurogenic pulmonary edema occurs as a complication of acute neurologic illness 
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^fdda8e7f]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^117VMH8A]. Wilderness & Environmental Medicine (2024). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — Supplemental oxygen delivered by nasal cannula or mask at flow rates sufficient to achieve an SpO2 of > 90% provides a suitable alternative to descent in closely monitored settings, and providers should target an SpO2 of > 90% rather than a particular FiO2; short-term use via oxygen bars or over-the-counter oxygen canisters has no role. We recommend that, when available, supplemental oxygen sufficient to achieve an SpO2 of > 90% or relieve symptoms be used while waiting to initiate descent when descent is not feasible and during descent in severely ill patients. Strong recommendation, high-quality evidence.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^60ab9fca]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^113UKTZb]. Wilderness & Environmental Medicine (2019). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — portable hyperbaric chambers can be used for HAPE treatment, though they have not been systematically studied; use of a portable hyperbaric chamber should not delay descent when descent is feasible. Recommendation: When descent is infeasible or delayed or supplemental oxygen is unavailable, a portable hyperbaric chamber may be used to treat HAPE (Recommendation Grade: 1C).
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^99cafc69]. Wilderness & Environmental Medicine (2019). Medium credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^114w1Hbv]. Wilderness & Environmental Medicine (2019). Medium credibility.
 
 To provide guidance to clinicians about best preventive and therapeutic practices, the Wilderness Medical Society (WMS) convened an expert panel to develop evidence-based guidelines for prevention and treatment of acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema. Recommendations are graded based on the quality of supporting evidence and the balance between the benefits and risks/burdens according to criteria put forth by the American College of Chest Physicians. The guidelines also provide suggested approaches to prevention and management of each form of acute altitude illness that incorporate these recommendations. This is an updated version of the original WMS Consensus Guidelines for the Prevention and Treatment of Acute Altitude Illness published in 2010 and subsequently updated as the WMS Practice Guidelines for the Prevention and Treatment of Acute Altitude Illness in 2014.
 
 ---
 
-### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^6da932ff]. Critical Care (2017). Low credibility.
+### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^113oaUz2]. Critical Care (2017). Low credibility.
 
 Conclusion
 
@@ -223,49 +223,49 @@ In conclusion, treatment with inhaled AP301 did not reduce EVLWI and appeared to
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^1253bb64]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^111UAuJb]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Wilderness Medical Society clinical practice guidelines — scope and grading: The guideline provides evidence-based guidance for prevention and treatment of acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema, and notes that travel to elevations above 2500 m is associated with risk of one or more of these conditions. Recommendations are graded based on the quality of supporting evidence and the balance between the benefits and risks/burdens according to criteria put forth by the American College of Chest Physicians, and the guidelines provide suggested approaches to prevention and management of each form of acute altitude illness. This update follows prior WMS guidelines and keywords indicate relevant therapies including acetazolamide, dexamethasone, and nifedipine.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^347035c7]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^112Lk3ga]. Wilderness & Environmental Medicine (2024). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — Portable hyperbaric chambers can be used for HAPE; they have not been systematically studied for this purpose, but their use has been reported, and their use should not delay descent when descent is feasible. We recommend that when descent is not feasible or delayed or supplemental oxygen is unavailable, a portable hyperbaric chamber may be used to treat HAPE. Strong recommendation, low-quality evidence.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^82934a35]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^114Las5E]. Wilderness & Environmental Medicine (2024). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — Although reports of beta-agonist use exist and risks are likely low, no data support a benefit from salmeterol or albuterol in patients with HAPE. Recommendation: No recommendation can be made regarding beta-agonists for HAPE treatment due to lack of data.
 
 ---
 
-### Advances in the prevention and treatment of high altitude illness [^10af40c0]. Emergency Medicine Clinics of North America (2017). Low credibility.
+### Advances in the prevention and treatment of high altitude illness [^111RjfiF]. Emergency Medicine Clinics of North America (2017). Low credibility.
 
 High altitude illness encompasses a spectrum of clinical entities to include: acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema. These illnesses occur as a result of a hypobaric hypoxic environment. Although a mild case of acute mountain sickness may be self-limited, high altitude cerebral edema and high altitude pulmonary edema represent critical emergencies that require timely intervention. This article reviews recent advances in the prevention and treatment of high altitude illness, including new pharmacologic strategies for prophylaxis and revised treatment guidelines.
 
 ---
 
-### Acute respiratory distress syndrome: diagnosis and management [^133b7a16]. American Family Physician (2020). Medium credibility.
+### Acute respiratory distress syndrome: diagnosis and management [^111VWk4M]. American Family Physician (2020). Medium credibility.
 
 Acute respiratory distress syndrome (ARDS) is noncardiogenic pulmonary edema that manifests as rapidly progressive dyspnea, tachypnea, and hypoxemia. Diagnostic criteria include onset within one week of a known insult or new or worsening respiratory symptoms, profound hypoxemia, bilateral pulmonary opacities on radiography, and inability to explain respiratory failure by cardiac failure or fluid overload. ARDS is thought to occur when a pulmonary or extrapulmonary insult causes the release of inflammatory mediators, promoting inflammatory cell accumulation in the alveoli and microcirculation of the lung. Inflammatory cells damage the vascular endothelium and alveolar epithelium, leading to pulmonary edema, hyaline membrane formation, decreased lung compliance, and decreased gas exchange. Most cases are associated with pneumonia or sepsis. ARDS is responsible for one in 10 admissions to intensive care units and one in four mechanical ventilations. In-hospital mortality for patients with severe ARDS ranges from 46% to 60%. ARDS often must be differentiated from pneumonia and congestive heart failure, which typically has signs of fluid overload. Treatment of ARDS is supportive and includes mechanical ventilation, prophylaxis for stress ulcers and venous thromboembolism, nutritional support, and treatment of the underlying injury. Low tidal volume and high positive end-expiratory pressure improve outcomes. Prone positioning is recommended for some moderate and all severe cases. As patients with ARDS improve and the underlying illness resolves, a spontaneous breathing trial is indicated to assess eligibility for ventilator weaning. Patients who survive ARDS are at risk of diminished functional capacity, mental illness, and decreased quality of life; ongoing care by a primary care physician is beneficial for these patients.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^aba09d7d]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^115PSqE4]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Wilderness Medical Society — high-altitude pulmonary edema (HAPE) noninvasive positive pressure ventilation: CPAP or EPAP may be considered when supplemental oxygen or pulmonary vasodilators are not available or as adjunctive therapy in patients not responding to supplemental oxygen alone (Recommendation Grade: 2C); there is no systematic evidence that CPAP or EPAP improves outcomes compared to oxygen alone, though CPAP can be considered as adjunct to oxygen in a medical facility when the patient can tolerate the mask.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^3abdb65e]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^112W61Eu]. Wilderness & Environmental Medicine (2019). High credibility.
 
 High-altitude pulmonary edema (HAPE) pharmacotherapy — although beta-agonist use has been reported and the risks of use are likely low, no data support a benefit from salmeterol or albuterol in patients experiencing HAPE. Recommendation: No recommendation can be made regarding beta-agonists for HAPE treatment due to lack of data.
 
 ---
 
-### Assessment and prevalence of pulmonary oedema in contemporary acute heart failure trials: a systematic review [^a026a233]. European Journal of Heart Failure (2015). Low credibility.
+### Assessment and prevalence of pulmonary oedema in contemporary acute heart failure trials: a systematic review [^1156RzjU]. European Journal of Heart Failure (2015). Low credibility.
 
 Aims
 
@@ -281,7 +281,7 @@ Although pulmonary oedema is a common finding in AHF, represents a therapeutic t
 
 ---
 
-### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^b7067127]. Critical Care (2017). Low credibility.
+### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^115gLu58]. Critical Care (2017). Low credibility.
 
 Discussion
 
@@ -295,13 +295,13 @@ To better understand if treatment response differed in patients with distinct se
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^f4affbe7]. Wilderness & Environmental Medicine (2024). Medium credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^117Fm6Cv]. Wilderness & Environmental Medicine (2024). Medium credibility.
 
 To provide guidance to clinicians about best practices, the Wilderness Medical Society (WMS) convened an expert panel to develop evidence-based guidelines for prevention, diagnosis, and treatment of acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema. Recommendations are graded based on the quality of supporting evidence and the balance between the benefits and risks/burdens according to criteria put forth by the American College of Chest Physicians. The guidelines also provide suggested approaches for managing each form of acute altitude illness that incorporate these recommendations as well as recommendations on how to approach high altitude travel following COVID-19 infection. This is an updated version of the original WMS Consensus Guidelines for the Prevention and Treatment of Acute Altitude Illness published in Wilderness &amp; Environmental Medicine in 2010 and the subsequently updated WMS Practice Guidelines for the Prevention and Treatment of Acute Altitude Illness published in 2014 and 2019.
 
 ---
 
-### Management of swimming-induced pulmonary edema… [^b22ed4b6]. AAFP (2004). Low credibility.
+### Management of swimming-induced pulmonary edema… [^115ZAXW5]. AAFP (2004). Low credibility.
 
 to the editor: A healthy 20-year-old United States Navy search and rescue swimmer trainee, who was equipped with only a mask and fins, developed hemoptysis, sharp substernal chest pain, and shortness of breath after performing a dive to a depth of 12 feet. He immediately surfaced and began to cough up pink, frothy sputum and have persistent shortness of breath. His initial oxygen saturation was 70 percent on room air and improved to 86 percent on three liters of oxygen via nasal cannula during ambulance transfer. On arrival at the emergency department, the patient had an oxygen saturation of 100 percent on three liters of oxygen with improved shortness of breath and resolved hemoptysis. 1 Cold-water immersion is instrumental in this process because the peripheral vasculature constricts to divert blood away from the extremities in an effort to maintain the core body temperature.
 
@@ -312,7 +312,7 @@ This results in a central pooling of blood, leading to an increased preload, inc
 
 ---
 
-### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^7c0b4897]. Critical Care (2017). Low credibility.
+### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^114AuFmQ]. Critical Care (2017). Low credibility.
 
 Although fluid management was left to the discretion of the treating physicians and we did not use a standardized treatment protocol, the observed effects on EVLWI could not be explained by differences in fluid balance.
 
@@ -324,13 +324,13 @@ Of note, in a large clinical trial of the ARDS network, 79% of patients who died
 
 ---
 
-### Causes and treatment of oedema in patients with heart failure [^6455a61d]. Nature Reviews: Cardiology (2013). Medium credibility.
+### Causes and treatment of oedema in patients with heart failure [^113ZkXkp]. Nature Reviews: Cardiology (2013). Medium credibility.
 
 Oedema is one of the fundamental features of heart failure, but the pathophysiology of oedema varies. Patients present along a spectrum ranging from acute pulmonary oedema to gross fluid retention and peripheral oedema (anasarca). In patients with pure pulmonary oedema, the problem is one of acute haemodynamic derangement; the patient does not have excess fluid, but pulmonary venous pressure rises such that the rate of fluid transudation into the interstitium of the lung exceeds the capacity of the pulmonary lymphatics to drain away the fluid. Conversely, in patients with peripheral oedema, the problem is one of fluid retention. Understanding the causes of oedema will enable straightforward, correct management of the condition. For patients with acute pulmonary oedema, vasodilatation is important to reduce cardiac filling pressures. For patients with fluid retention, removing the fluid, using either diuretics or mechanical means, is the most important consideration.
 
 ---
 
-### Swimming-induced pulmonary edema: evaluation of prehospital treatment with CPAP or positive expiratory pressure device [^35e1a875]. Chest (2022). Medium credibility.
+### Swimming-induced pulmonary edema: evaluation of prehospital treatment with CPAP or positive expiratory pressure device [^112Nt97J]. Chest (2022). Medium credibility.
 
 Take-home Points
 
@@ -346,49 +346,49 @@ Swimming-induced pulmonary edema (SIPE) occurs in predominantly healthy individu
 
 ---
 
-### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^c9fae3fe]. Academic Emergency Medicine (2012). Medium credibility.
+### A national model for developing, implementing, and evaluating evidence-based guidelines for prehospital care [^116ASnPP]. Academic Emergency Medicine (2012). Medium credibility.
 
 Respiratory distress (includes Bronchospasm, Pulmonary Edema) — prehospital pulmonary edema management states that nitroglycerin reduces left ventricular filling pressure primarily via venous dilation and at higher doses variably lowers systemic afterload and increases stroke volume and cardiac output; diuretics such as furosemide provide no immediate benefit for most patients and can cause significant harm with increased morbidity and mortality in patients with other disease processes; nitrates provide both subjective and objective improvement and might decrease intubation rates, incidence of MIs, and mortality, with high-dose nitrates reducing both preload and afterload and potentially increasing cardiac output and blood pressure; if available and trained, ultrasound is useful to distinguish pulmonary edema from other causes of respiratory distress (including pneumothorax); pulmonary edema due to irritant gas inhalation generally is best managed by supportive care and escalation of airway interventions once the patient is appropriately decontaminated, and early poison center consultation should be strongly considered for guidance; pulmonary edema due to high altitude should be managed as described in Altitude Illness Guideline.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^f0da2712]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^117A5JbB]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Methods — this updated guideline revises the original WMS Consensus Guidelines published in 2010 and subsequent updates in 2014 and 2019, with the original expert panel convened at the 2009 annual meeting of the WMS; the panel identified new relevant articles through the MEDLINE database by keyword search using the terms acute mountain sickness, high altitude pulmonary edema, high altitude cerebral edema, treatment, diagnosis, prevention, acetaminophen, acetylsalicylic acid, acetazolamide, dexamethasone, ibuprofen, nifedipine, tadalafil, sildenafil, and salmeterol, reviewed English language, peer-reviewed studies that included adults and/or children related to prevention and treatment of acute altitude illnesses, excluded animal studies and abstract-only studies, did not consider conclusions from review articles in formulating recommendations, and used a consensus approach to develop recommendations graded according to American College of Chest Physicians criteria for grading recommendations and strength of evidence in clinical guidelines.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^c7f44c38]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^1167SbPD]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Wilderness Medical Society acute altitude illness guidelines — an expert panel developed evidence-based guidelines for the prevention, diagnosis, and treatment of acute mountain sickness (AMS), high altitude cerebral edema (HACE), and high altitude pulmonary edema (HAPE). Recommendations are graded based on the quality of supporting evidence and the balance between the benefits and risks/burdens according to criteria put forth by the American College of Chest Physicians, and the guidelines provide suggested approaches for managing each form of acute altitude illness as well as recommendations on how to approach high altitude travel following COVID-19 infection. Travel to elevations above 2500 m by unacclimatized lowlanders is associated with risk of developing one or more of these illnesses.
 
 ---
 
-### High-altitude pulmonary edema presenting 18 hours after descent [^0293258e]. Wilderness & Environmental Medicine (2006). Low credibility.
+### High-altitude pulmonary edema presenting 18 hours after descent [^1114pQDK]. Wilderness & Environmental Medicine (2006). Low credibility.
 
 High-altitude pulmonary edema (HAPE) is a potentially life-threatening condition that is rapidly and definitively treated by descent. We report a case of worsening HAPE, presenting more than 18 hours after descent to sea level. The patient was treated with diuretics, calcium channel blockers, and oxygen and improved during a 24-hour observation period. To our knowledge, this is the first reported case of HAPE symptoms increasing after descent from altitude.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^03e67f56]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^1116nPJD]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Altitude illness prevention and treatment guidelines — scope and research priorities include evidence-based recommendations for acute mountain sickness (AMS), high-altitude cerebral edema (HACE), and high-altitude pulmonary edema (HAPE), while identifying key unanswered questions for future study such as optimal ascent rate, the role of acetazolamide in HAPE prevention and treatment, pediatric dosing regimens, and the role of staged ascent, preacclimatization, and hypoxic tents.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^e6dbf64b]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^116uG32J]. Wilderness & Environmental Medicine (2024). High credibility.
 
 High-altitude pulmonary edema (HAPE) treatment — Phosphodiesterase inhibitors have a strong physiologic rationale because they cause pulmonary vasodilation and decrease pulmonary artery pressure, and reports document their use for this purpose; however, no systematic study has examined the role of tadalafil or sildenafil.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^ac21d637]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^115QCEfY]. Wilderness & Environmental Medicine (2019). High credibility.
 
 High-altitude pulmonary edema (HAPE) pharmacotherapy — there is a strong physiologic rationale for phosphodiesterase inhibitors because they cause pulmonary vasodilation and decrease pulmonary artery pressure, but no systematic study has examined tadalafil or sildenafil in HAPE as mono- or adjunctive therapy; combined use of nifedipine and sildenafil or tadalafil should be avoided due to risk of hypotension. Recommendation: Tadalafil or sildenafil can be used for HAPE treatment when descent is impossible or delayed, access to supplemental oxygen or portable hyperbaric therapy is impossible, and nifedipine is unavailable (Recommendation Grade: 2C).
 
 ---
 
-### A structured diagnostic algorithm for patients with ARDS [^6dc7fa69]. Critical Care (2023). Medium credibility.
+### A structured diagnostic algorithm for patients with ARDS [^113okpc8]. Critical Care (2023). Medium credibility.
 
 Diagnosis of ARDS
 
@@ -402,7 +402,7 @@ Perform transthoracic cardiac ultrasound to exclude acute heart failure as a cau
 
 ---
 
-### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^4ec47b26]. Critical Care (2017). Low credibility.
+### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^1131n2jw]. Critical Care (2017). Low credibility.
 
 Table 7
 Adverse events (n > 2)
@@ -411,7 +411,7 @@ Data are presented as n (%)
 
 ---
 
-### A systematic review of diagnostic methods to differentiate acute lung injury / acute respiratory distress syndrome from cardiogenic pulmonary edema [^3e45f36b]. Critical Care (2017). Low credibility.
+### A systematic review of diagnostic methods to differentiate acute lung injury / acute respiratory distress syndrome from cardiogenic pulmonary edema [^112bKjE2]. Critical Care (2017). Low credibility.
 
 Conclusions
 
@@ -419,13 +419,13 @@ We found that there were no identified biomarkers or tools with high-quality evi
 
 ---
 
-### Modern management of cardiogenic pulmonary edema [^10627c08]. Emergency Medicine Clinics of North America (2005). Low credibility.
+### Modern management of cardiogenic pulmonary edema [^111RHt9D]. Emergency Medicine Clinics of North America (2005). Low credibility.
 
 Cardiogenic pulmonary edema (CPE) is a life-threatening condition that is frequently encountered in standard emergency medicine practice. Traditionally, diagnosis was based on physical assessment and chest radiography and treatment focused on the use of morphine sulfate and diuretics. Numerous advances in diagnosis and treatment have been made, however. Serum testing for B-type natriuretic peptide (BNP) has improved the accuracy of diagnoses in these patients. Treatment should focus on fluid redistribution with aggressive preload and afterload reduction rather than simply on diuresis. Some specific medications and noninvasive positive pressure ventilation have been shown to be safe and rapidly effective in improving patients' symptoms and improve outcomes.
 
 ---
 
-### Efficacy and safety of non-invasive ventilation in the treatment of acute cardiogenic pulmonary edema – a systematic review and meta-analysis [^151b16ca]. Critical Care (2006). Low credibility.
+### Efficacy and safety of non-invasive ventilation in the treatment of acute cardiogenic pulmonary edema – a systematic review and meta-analysis [^111YHqey]. Critical Care (2006). Low credibility.
 
 Authors' contributions
 
@@ -433,13 +433,13 @@ JCW is responsible for initiation and direction of the review. LFA is responsibl
 
 ---
 
-### An orally active TRPV4 channel blocker prevents and resolves pulmonary edema induced by heart failure [^8bf7cc64]. Science Translational Medicine (2012). Low credibility.
+### An orally active TRPV4 channel blocker prevents and resolves pulmonary edema induced by heart failure [^114aWWg3]. Science Translational Medicine (2012). Low credibility.
 
 Pulmonary edema resulting from high pulmonary venous pressure (PVP) is a major cause of morbidity and mortality in heart failure (HF) patients, but current treatment options demonstrate substantial limitations. Recent evidence from rodent lungs suggests that PVP-induced edema is driven by activation of pulmonary capillary endothelial transient receptor potential vanilloid 4 (TRPV4) channels. To examine the therapeutic potential of this mechanism, we evaluated TRPV4 expression in human congestive HF lungs and developed small-molecule TRPV4 channel blockers for testing in animal models of HF. TRPV4 immunolabeling of human lung sections demonstrated expression of TRPV4 in the pulmonary vasculature that was enhanced in sections from HF patients compared to controls. GSK2193874 was identified as a selective, orally active TRPV4 blocker that inhibits Ca(2+) influx through recombinant TRPV4 channels and native endothelial TRPV4 currents. In isolated rodent and canine lungs, TRPV4 blockade prevented the increased vascular permeability and resultant pulmonary edema associated with elevated PVP. Furthermore, in both acute and chronic HF models, GSK2193874 pretreatment inhibited the formation of pulmonary edema and enhanced arterial oxygenation. Finally, GSK2193874 treatment resolved pulmonary edema already established by myocardial infarction in mice. These findings identify a crucial role for TRPV4 in the formation of HF-induced pulmonary edema and suggest that TRPV4 blockade is a potential therapeutic strategy for HF patients.
 
 ---
 
-### Is it time to retire the diagnosis "Hypertensive emergency"? [^58ca5c7e]. Journal of the American Heart Association (2023). Medium credibility.
+### Is it time to retire the diagnosis "Hypertensive emergency"? [^113Gdt7f]. Journal of the American Heart Association (2023). Medium credibility.
 
 Acute Left Ventricular Failure
 
@@ -449,7 +449,7 @@ Guidelines for managing heart failure superficially address on the management of
 
 ---
 
-### Nesiritide treatment of noncardiogenic pulmonary edema [^c387d313]. The Annals of Pharmacotherapy (2003). Low credibility.
+### Nesiritide treatment of noncardiogenic pulmonary edema [^115ztD2a]. The Annals of Pharmacotherapy (2003). Low credibility.
 
 Objective
 
@@ -469,7 +469,7 @@ Nesiritide appears to be an efficacious treatment for acute pulmonary edema, res
 
 ---
 
-### Selexipag [^3857b03a]. FDA (2024). Medium credibility.
+### Selexipag [^112SXm69]. FDA (2024). Medium credibility.
 
 5 WARNINGS AND PRECAUTIONS
 
@@ -482,13 +482,13 @@ Should signs of pulmonary edema occur, consider the possibility of associated pu
 
 ---
 
-### Furosemide [^d77e726e]. FDA (2025). Medium credibility.
+### Furosemide [^116WUoyX]. FDA (2025). Medium credibility.
 
 The dosage of furosemide IV for adjunctive treatment for pulmonary edema in adults is 40 mg IV bolus over 1–2 minutes, repeated at 80 mg in 1 hour if necessary
 
 ---
 
-### Understanding negative pressure pulmonary edema [^f1020a5b]. Intensive Care Medicine (2014). Low credibility.
+### Understanding negative pressure pulmonary edema [^117AJhfg]. Intensive Care Medicine (2014). Low credibility.
 
 Treatment of NPPE generally includes maintaining a patent airway, and oxygen supplementation with addition of positive end-expiratory pressure or noninvasive positive pressure ventilation (NIV) as guided by physical examination and arterial blood gas analysis. Mechanical ventilation should be reserved for severe patients who do not respond to NIV. Diuretics are often used; however, there is no evidence of their utility, and they may exacerbate hypovolemia and hypoperfusion. Ultimately, NPPE usually has a rapidly resolving clinical course in 12–48 h when recognized early and treated immediately.
 
@@ -496,7 +496,7 @@ Understanding the pathophysiological mechanisms contributing to PE can help in d
 
 ---
 
-### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^7626dddb]. Critical Care (2017). Low credibility.
+### Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial [^1142AbSJ]. Critical Care (2017). Low credibility.
 
 Additional analyses
 
@@ -504,7 +504,7 @@ In an exploratory subgroup analysis of SOFA score strata, there were no differen
 
 ---
 
-### Acute respiratory distress syndrome: potential of therapeutic interventions effective in treating progression from COVID-19 to treat progression from other illnesses-a systematic review [^66d57324]. BMJ Open Respiratory Research (2023). High credibility.
+### Acute respiratory distress syndrome: potential of therapeutic interventions effective in treating progression from COVID-19 to treat progression from other illnesses-a systematic review [^113dTS5h]. BMJ Open Respiratory Research (2023). High credibility.
 
 Introduction
 
@@ -512,7 +512,7 @@ The COVID-19 pandemic has shone light on the inadequate treatment options for ac
 
 ---
 
-### Non-invasive positive pressure ventilation (CPAP or bilevel NPPV) for cardiogenic pulmonary edema [^4b9c8965]. The Cochrane Database of Systematic Reviews (2008). Low credibility.
+### Non-invasive positive pressure ventilation (CPAP or bilevel NPPV) for cardiogenic pulmonary edema [^112w6eiY]. The Cochrane Database of Systematic Reviews (2008). Low credibility.
 
 Background
 
@@ -544,7 +544,7 @@ NPPV, especially CPAP, in addition to standard medical care is an effective and 
 
 ---
 
-### Tailored versus standard hydration to prevent acute kidney injury after percutaneous coronary intervention: network meta-analysis [^749118fe]. Journal of the American Heart Association (2021). Medium credibility.
+### Tailored versus standard hydration to prevent acute kidney injury after percutaneous coronary intervention: network meta-analysis [^113ypJRK]. Journal of the American Heart Association (2021). Medium credibility.
 
 Mixed Meta‐Analysis for the Primary Outcomes
 
@@ -559,37 +559,37 @@ In terms of safety profile, the overall occurrence of pulmonary edema was low (i
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^87fb192a]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^114UbfqK]. GOLD (2025). High credibility.
 
 Heart failure in chronic obstructive pulmonary disease (COPD) — prevalence and management: The prevalence of systolic or diastolic heart failure in COPD patients ranges from 20% to 70%, and its annual incidence is between 3–4%. Incident heart failure is a significant and independent predictor of all-cause mortality. Unrecognized heart failure may mimic or accompany acute COPD; 40% of COPD patients that are mechanically ventilated because of hypercapnic respiratory failure have evidence of left ventricular dysfunction. Treatment with β1-blockers improves survival in heart failure and is recommended in patients with heart failure who also have COPD. Selective β1-blockers should be used, and only used, to treat people with COPD for approved cardiovascular indications; not solely for the purpose of preventing exacerbations of COPD. Acute heart failure should be treated according to usual heart failure guidelines since there is no evidence to support an alternative management strategy, and noninvasive ventilation added to conventional therapy improves outcomes for patients with either hypercapnic respiratory failure due to an exacerbation of COPD as well as heart failure with acute pulmonary edema.
 
 ---
 
-### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure (update from 2014) [^2116cdc3]. The Journal of Heart and Lung Transplantation (2025). High credibility.
+### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure (update from 2014) [^111r4FZ4]. The Journal of Heart and Lung Transplantation (2025). High credibility.
 
 Pediatric acute HF — respiratory support (mixed classes, Level of Evidence C): Invasive ventilation is recommended for children with acute HF and respiratory failure (Class I), and noninvasive ventilation is reasonable for the treatment of children with acute HF, pulmonary edema, and significantly increased work of breathing (in the presence or absence of pulmonary edema) as an adjunct to other medical therapies (Class IIa).
 
 ---
 
-### Noninvasive ventilation in acute care: controversies and emerging concepts [^83961a7c]. Respiratory Care (2009). Low credibility.
+### Noninvasive ventilation in acute care: controversies and emerging concepts [^114N5oAj]. Respiratory Care (2009). Low credibility.
 
 This conference brought together experts on noninvasive ventilation (NIV) to discuss and debate the advances in evidence and technology over the past decade. A major impetus for the conference was that many institutions have not systematically integrated NIV into their clinical practice, despite mounting, high-level evidence supporting its effectiveness. NIV clearly improves outcomes for patients with chronic obstructive pulmonary disease and acute cardiogenic pulmonary edema when instituted as a first-line therapy. Although the evidence is less persuasive, initial intervention with NIV also might benefit a carefully selected subset of patients with acute lung injury, as well as those with acute respiratory failure who are immunocompromised. The papers in this and last month's special issue of the Journal provide an informative guide for clinicians attempting to implement NIV in their institutions. This paper summarizes the major findings from each presentation and the discussions that followed.
 
 ---
 
-### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure (update from 2014) [^f9f6be47]. The Journal of Heart and Lung Transplantation (2025). High credibility.
+### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure (update from 2014) [^117Pao7k]. The Journal of Heart and Lung Transplantation (2025). High credibility.
 
 Pediatric acute heart failure — respiratory support: Children with acute HF often require respiratory support to improve oxygenation and reduce respiratory distress. Invasive ventilation is recommended for children with acute HF and respiratory failure (Class I, Level of Evidence C). Noninvasive ventilation is reasonable for the treatment of children with acute HF, pulmonary edema, and significantly increased work of breathing (in the presence or absence of pulmonary edema) as an adjunct to other medical therapies (Class IIa, Level of Evidence C).
 
 ---
 
-### Negative-pressure pulmonary edema [^176b7e05]. Chest (2016). Low credibility.
+### Negative-pressure pulmonary edema [^111bipbn]. Chest (2016). Low credibility.
 
 Negative-pressure pulmonary edema (NPPE) or postobstructive pulmonary edema is a well-described cause of acute respiratory failure that occurs after intense inspiratory effort against an obstructed airway, usually from upper airway infection, tumor, or laryngospasm. Patients with NPPE generate very negative airway pressures, which augment transvascular fluid filtration and precipitate interstitial and alveolar edema. Pulmonary edema fluid collected from most patients with NPPE has a low protein concentration, suggesting hydrostatic forces as the primary mechanism for the pathogenesis of NPPE. Supportive care should be directed at relieving the upper airway obstruction by endotracheal intubation or cricothyroidotomy, institution of lung-protective positive-pressure ventilation, and diuresis unless the patient is in shock. Resolution of the pulmonary edema is usually rapid, in part because alveolar fluid clearance mechanisms are intact. In this review, we discuss the clinical presentation, pathophysiology, and management of negative-pressure or postobstructive pulmonary edema.
 
 ---
 
-### The use of noninvasive ventilation in emergency department patients with acute cardiogenic pulmonary edema: a systematic review [^bdbb4740]. Annals of Emergency Medicine (2006). Low credibility.
+### The use of noninvasive ventilation in emergency department patients with acute cardiogenic pulmonary edema: a systematic review [^115rHZjm]. Annals of Emergency Medicine (2006). Low credibility.
 
 Study Objective
 
@@ -609,13 +609,13 @@ Our results suggest that noninvasive ventilation with standard medical therapy i
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^8fa5f782]. Wilderness & Environmental Medicine (2019). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention and treatment of acute altitude illness: 2019 update [^114fxybP]. Wilderness & Environmental Medicine (2019). High credibility.
 
 Concurrent high-altitude pulmonary edema (HAPE) and high-altitude cerebral edema (HACE) — treatment approach emphasizes adding dexamethasone for patients with concurrent HAPE and HACE, including when neurologic dysfunction in HAPE does not resolve rapidly with supplemental oxygen and improved oxygen saturation. If supplemental oxygen is not available, dexamethasone should be started in addition to HAPE medications in patients with altered mental status and/or suspected concurrent HACE. Nifedipine or other pulmonary vasodilators may be used with care to avoid lowering mean arterial pressure because this may decrease cerebral perfusion pressure and increase the risk for cerebral ischemia.
 
 ---
 
-### A change of position for neurogenic pulmonary edema [^d66cc076]. Neurocritical Care (2009). Low credibility.
+### A change of position for neurogenic pulmonary edema [^116Utsxq]. Neurocritical Care (2009). Low credibility.
 
 Introduction
 
@@ -635,25 +635,25 @@ This technique of prone positioning for ventilation is of importance to physicia
 
 ---
 
-### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure: executive summary [^f279ae8d]. The Journal of Heart and Lung Transplantation (2014). Medium credibility.
+### The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure: executive summary [^117CUskY]. The Journal of Heart and Lung Transplantation (2014). Medium credibility.
 
 ISHLT pediatric heart failure — Ventilation: Invasive ventilation should be considered in patients with acute decompensated HF and respiratory compromise in the setting of pulmonary edema and/or low CO (Class I; Level of Evidence C). Class IIa: Non-invasive ventilation may be considered for the treatment of children with acute HF, pulmonary edema, and significant increased work of breathing as an adjunct to other medical therapies (Level of Evidence C). Class IIb: Treatment with non-invasive ventilation might be reasonable in children with symptomatic HF in the absence of pulmonary edema as an adjunctive measure (Level of Evidence C).
 
 ---
 
-### General pediatric emergencies. acute pulmonary edema [^b6e963d8]. Anesthesiology Clinics of North America (2001). Low credibility.
+### General pediatric emergencies. acute pulmonary edema [^115gB96P]. Anesthesiology Clinics of North America (2001). Low credibility.
 
 This article focuses on three types of acute pulmonary edema in children: negative-pressure pulmonary edema, neurogenic pulmonary edema, and cardiogenic pulmonary edema.
 
 ---
 
-### Frequency of edema in patients with pulmonary arterial hypertension receiving ambrisentan [^94c9aa29]. The American Journal of Cardiology (2012). Low credibility.
+### Frequency of edema in patients with pulmonary arterial hypertension receiving ambrisentan [^114oauTE]. The American Journal of Cardiology (2012). Low credibility.
 
 Edema is a common side effect of endothelin receptor antagonists. Ambrisentan is an endothelin type A-selective endothelin receptor antagonist approved for the treatment of pulmonary arterial hypertension. We examined the clinical outcomes of patients who developed edema with and without ambrisentan treatment in 2 phase III, randomized placebo-controlled trials, ambrisentan for the treatment of pulmonary arterial hypertension: results of the ambrisentan in pulmonary arterial hypertension, randomized, double-blind, placebo-controlled, multicenter, efficacy (ARIES) study 1 and 2 (ARIES-1 and ARIES-2) (n = 393). Edema-related adverse events were extracted using broad adverse event search terms. The present post hoc analysis included 132 placebo patients and 261 ambrisentan patients. Of these patients, 14% of the placebo patients and 23% of the ambrisentan patients experienced edema-related adverse events. Overall, the patients who experienced edema tended to have a worse baseline World Health Organization (WHO) functional class (edema 76%, WHO functional class III-IV; no edema 56%, WHO functional class III-IV). In the ambrisentan patients, those with edema were older (mean age 58 ± 13 years) and heavier (mean weight 75 ± 19 kg) than those without edema (mean age 49 ± 15 years; mean weight 70 ± 17 kg). At week 12 of treatment, the ambrisentan patients had significantly increased their 6-minute walk distance (6MWD) by 34.4 m compared to the placebo patients in whom the 6MWD had deteriorated by -9.0 m (p < 0.001). Among the ambrisentan patients, those without edema had a 6MWD increase of 38.9 m and those with edema had a 6MWD increase of 19.4 m. Ambrisentan significantly improved the brain natriuretic peptide levels by -34% compared to the brain natriuretic peptide levels in the placebo group that had worsened by +11% (p < 0.001). Ambrisentan reduced the brain natriuretic peptide concentrations similarly in patients with and without edema. In conclusion, the present subanalysis of patients with pulmonary arterial hypertension has revealed that ambrisentan therapy provides clinical benefit compared to placebo, even in the presence of edema.
 
 ---
 
-### Effect of furosemide in the treatment of high-altitude pulmonary edema [^b53aa4de]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Effect of furosemide in the treatment of high-altitude pulmonary edema [^115dgTV7]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Discussion
 
@@ -663,7 +663,7 @@ HAPE is a non-cardiogenic pulmonary edema and differs from cardiogenic pulmonary
 
 ---
 
-### A systematic review of diagnostic methods to differentiate acute lung injury / acute respiratory distress syndrome from cardiogenic pulmonary edema [^714a425b]. Critical Care (2017). Low credibility.
+### A systematic review of diagnostic methods to differentiate acute lung injury / acute respiratory distress syndrome from cardiogenic pulmonary edema [^113txYXk]. Critical Care (2017). Low credibility.
 
 Background
 
@@ -673,19 +673,19 @@ In current practice and most clinical studies, ALI/ARDS is usually differentiate
 
 ---
 
-### Quick and accurate measures in negative pressure pulmonary edema: a guideline for orthognathic surgeons [^a233ddc8]. The Journal of Craniofacial Surgery (2014). Low credibility.
+### Quick and accurate measures in negative pressure pulmonary edema: a guideline for orthognathic surgeons [^1159UR6F]. The Journal of Craniofacial Surgery (2014). Low credibility.
 
 Perioperative pulmonary edema is a rare complication of maxillofacial surgery. However, this potentially fatal complication may arise during any maxillofacial surgery. Negative pressure pulmonary edema can be caused by upper airway obstruction after operation. When this phenomenon arises, if not treated properly, it progresses rapidly causing fatal outcomes. Because orthognathic surgery is performed mostly on healthy and young patients, surgeons and anesthesiologists might neglect the possibility of such complications. Therefore, we must always take into consideration the possibility of negative pressure pulmonary edema. Careful observation of the patient; accurate knowledge; and active, quick, and noninvasive safe measures are required to treat this malady when it does occur. We report a case of negative pressure pulmonary edema after orthognathic surgery and its successful treatment.
 
 ---
 
-### Official ERS / ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure [^387318a7]. The European Respiratory Journal (2017). Medium credibility.
+### Official ERS / ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure [^112Sgy3C]. The European Respiratory Journal (2017). Medium credibility.
 
 Regarding specific circumstances for noninvasive ventilation, more specifically with respect to patients with cardiogenic pulmonary edema, ERS 2017 guidelines recommend to deliver either bilevel NIV or CPAP to patients with acute respiratory failure due to cardiogenic pulmonary edema.
 
 ---
 
-### Acute heart failure is a malignant process: but we can induce remission [^2c6338e2]. Journal of the American Heart Association (2023). Medium credibility.
+### Acute heart failure is a malignant process: but we can induce remission [^1128onQR]. Journal of the American Heart Association (2023). Medium credibility.
 
 Treatment for Patients During the First Days of Admission forHas Not Been Shown to Improve Outcomes
 
@@ -695,7 +695,7 @@ The interventions administered to patients during the first hours of admission f
 
 ---
 
-### Noncardiac causes of pulmonary edema… [^c878a49a]. JAMA Network (2025). Excellent credibility.
+### Noncardiac causes of pulmonary edema… [^1168D3gD]. JAMA Network (2025). Excellent credibility.
 
 Common1 AgonalAspiration Cerebral Drug hypersensitivity, allergy, or poisoningFluid overload; overtransfusionGlomerulonephritis Narcotics Oxygen toxicity Pulmonary embolism or infarctUremia. Agonal Aspiration Cerebral Drug hypersensitivity, allergy, or poisoning Fluid overload; overtransfusion Glomerulonephritis Narcotics Oxygen toxicity. Pulmonary embolism or infarct Uremia Uncommon Hanging; suffocationHigh altitudeHypoproteinemiaInhalation of noxious gasIntravascular coagulation defectLiver diseaseMalariaMediastinal tumor with venous or lymphatic obstructionNear-drowningPneumothoraxPregnancyPulmonary veno-occlusive diseaseRadiation therapyShockThoracic traumaTransfusion reaction.
 
@@ -703,7 +703,7 @@ Hanging; suffocation High altitude Hypoproteinemia Inhalation of noxious gas Int
 
 ---
 
-### Selexipag (Uptravi) [^61673077]. FDA (2024). Medium credibility.
+### Selexipag (Uptravi) [^113VQTdG]. FDA (2024). Medium credibility.
 
 5 WARNINGS AND PRECAUTIONS
 
@@ -715,13 +715,13 @@ Should signs of pulmonary edema occur, consider the possibility of associated pu
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^5de3fbbf]. Wilderness & Environmental Medicine (2024). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the prevention, diagnosis, and treatment of acute altitude illness: 2024 update [^113QCRga]. Wilderness & Environmental Medicine (2024). High credibility.
 
 Concurrent high-altitude pulmonary edema (HAPE) and high-altitude cerebral edema (HACE) — management recommendations specify that "Dexamethasone should be added to the treatment regimen of patients with concurrent HAPE and HACE at the doses described above for patients with HACE", and because distinguishing hypoxic encephalopathy can be difficult, "Therefore, dexamethasone should be added to the treatment regimen for HAPE patients with neurologic dysfunction that does not resolve rapidly with administration of supplemental oxygen and improvement in the patient's oxygen saturation", and "If supplemental oxygen is not available, dexamethasone should be started in addition to the medications for HAPE in patients with altered mental status and/or suspected concurrent HACE". "Pulmonary vasodilators may be used in patients with concurrent HAPE and HACE with care to avoid lowering blood pressure as this may decrease cerebral perfusion pressure and provoke cerebral ischemia", and "the phosphodiesterase inhibitors sildenafil and tadalafil may be preferred over nifedipine as they cause less hypotension, although no studies have directly compared the relative blood pressure effects of these medications in this clinical situation".
 
 ---
 
-### Beyond the evidence: treating pulmonary hypertension in the intensive care unit [^1badd028]. Critical Care (2014). Low credibility.
+### Beyond the evidence: treating pulmonary hypertension in the intensive care unit [^111i33m9]. Critical Care (2014). Low credibility.
 
 The article by Muzevich and colleagues addresses important issues surrounding medication therapy in patients with pulmonary arterial hypertension (PAH) that present to the ICU. This review is very relevant to the critical care physician since most patients with PAH die from their underlying disease in the ICU while receiving PAH-specific therapy. Fortunately, there are now nine pharmacological agents with US Food and Drug Administration-approved labeling for use in PAH, two of which were approved in 2013. These medications have marked pharmacological differences, which poses a particular challenge in critical care patients. Muzevich and colleagues have summarized the literature and presented their experience in the management of PAH-specific therapies in ICU patients. We have selected particularly challenging areas to emphasize important points, present an alternative approach and identify areas for future research.
 
@@ -729,49 +729,49 @@ Of particular relevance is the lack of data on the comparative effectiveness of 
 
 ---
 
-### Pulmonary edema ex vacuo after drainage of pyo-pneumothorax [^45a6c468]. BMC Pulmonary Medicine (2023). Medium credibility.
+### Pulmonary edema ex vacuo after drainage of pyo-pneumothorax [^112nGALF]. BMC Pulmonary Medicine (2023). Medium credibility.
 
 This case presents a rare occurrence of re-expansion pulmonary edema following a drainage of pyo-pneumothorax in a 33-year-old patient. The diagnosis was established through a thoracic radiography, and the treatment consisted of symptomatic management, showing positive progress. Later on, the patient was diagnosed with pleural tuberculosis via GeneXpert testing and subsequently initiated on anti-bacterial therapy. This case report aims to shed light on the infrequent pulmonary edema ex vacuo as a complication of pleural drainage. It explores its causes, risk factors, diagnostic approaches, and treatment options. this study highlights the necessity of effective prevention and management strategies.
 
 ---
 
-### Therapy for pulmonary arterial hypertension in adults: update of the CHEST guideline and expert panel report [^665b4733]. Chest (2019). High credibility.
+### Therapy for pulmonary arterial hypertension in adults: update of the CHEST guideline and expert panel report [^113ckPzA]. Chest (2019). High credibility.
 
 Treatment-naive PAH patients without symptoms (WHO FC I) and patients at increased risk: For treatment-naive PAH patients with WHO FC I symptoms, we suggest continued monitoring for the development of symptoms that would signal disease progression and warrant the initiation of pharmacotherapy (Ungraded consensus-based statement). Early symptoms concerning for the progression of PAH include new or worsening dyspnea on exertion, fatigue, and weakness, and as the disease evolves, symptoms including lower extremity edema, angina or syncope could signal right heart dysfunction and or failure; patients with PAH and FC I symptoms should be closely monitored for increased symptoms. We suggest that patients at increased risk for the development of PAH (Table 1) be monitored for the development of symptoms of PAH (Ungraded consensus-based statement), and we suggest also that contributing causes of PH (eg, sleep apnea and systemic hypertension) in patients with PAH be treated aggressively (Ungraded consensus-based statement).
 
 ---
 
-### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^9881da6f]. Annals of Emergency Medicine (2022). High credibility.
+### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^114u6jae]. Annals of Emergency Medicine (2022). High credibility.
 
 Continuous positive airway pressure (CPAP) for acute pulmonary edema — A prospective randomized controlled trial (N = 40) enrolled patients with acute pulmonary edema with chest x-ray findings and compared mask CPAP 10 vs mask and ambient pressure with FiO2 = 28–30%, with routine care if treatment failure. Treatment failure after 10 min of treatment was defined as PO2 < 50, pCO2 > 55 or respiratory rate > 35. CPAP significantly improved pH, PO2, respiratory rate, heart rate, and BP but showed no significant reduction in intubation or mortality; mortality was CPAP = 3/20 and control = 6/20 (+15% difference).
 
 ---
 
-### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^bcc77b79]. Circulation (2016). Medium credibility.
+### Drugs that may cause or exacerbate heart failure: a scientific statement from the American Heart Association [^115psgD6]. Circulation (2016). Medium credibility.
 
 Pulmonary hypertension therapies in heart failure (HF) — bosentan and epoprostenol — carry important safety signals. In FIRST, epoprostenol was associated with an increased risk of death in patients with NYHA class IIIB/IV HF and therefore is contraindicated for long-term use in patients with HF with reduced EF. With bosentan, pooled placebo-controlled studies lasting between 4 weeks and 6 months reported leg edema in 5% of patients receiving between 100 and 2000 mg daily (n = 677) versus 1% on placebo (n = 288), and during the first 4 to 8 weeks patients with severe HF were at increased risk of hospitalization because of weight gain and increased leg edema. The REACH trial was stopped prematurely because of elevations in hepatic transaminases and showed an increased risk of death or worsening HF within the first month of therapy but not at months 4 to 6, while the ENABLE trial found similar early worsening requiring hospitalization related to fluid retention.
 
 ---
 
-### Continuous positive airway pressure in the treatment of pediatric high altitude pulmonary edema: a case study [^0ccdc6ac]. Wilderness & Environmental Medicine (2024). Medium credibility.
+### Continuous positive airway pressure in the treatment of pediatric high altitude pulmonary edema: a case study [^111KyyDu]. Wilderness & Environmental Medicine (2024). Medium credibility.
 
 Treatment of high altitude pulmonary edema (HAPE) can be challenging and is further complicated in the pediatric patient in the prehospital environment. The following case presents a decompensating pediatric patient with HAPE in the prehospital aeromedical environment. It illustrates the potential benefit of continuous positive airway pressure (CPAP) as a treatment modality in the treatment of HAPE.
 
 ---
 
-### Acute respiratory distress syndrome [^f4dc7b4f]. Lancet (2021). Excellent credibility.
+### Acute respiratory distress syndrome [^117G236E]. Lancet (2021). Excellent credibility.
 
 Acute respiratory distress syndrome (ARDS) is an acute respiratory illness characterised by bilateral chest radiographical opacities with severe hypoxaemia due to non-cardiogenic pulmonary oedema. The COVID-19 pandemic has caused an increase in ARDS and highlighted challenges associated with this syndrome, including its unacceptably high mortality and the lack of effective pharmacotherapy. In this Seminar, we summarise current knowledge regarding ARDS epidemiology and risk factors, differential diagnosis, and evidence-based clinical management of both mechanical ventilation and supportive care, and discuss areas of controversy and ongoing research. Although the Seminar focuses on ARDS due to any cause, we also consider commonalities and distinctions of COVID-19-associated ARDS compared with ARDS from other causes.
 
 ---
 
-### 2025 ACC / AHA clinical practice guidelines core principles and development process: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a761d8a2]. Circulation (2025). High credibility.
+### 2025 ACC / AHA clinical practice guidelines core principles and development process: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115H9oG5]. Circulation (2025). High credibility.
 
 Point-of-care ultrasound — applications include assessment of cardiac chamber size, ventricular function, pericardial effusion, volume status via inferior vena cava evaluation, lung fields evaluation for pulmonary edema, and it may provide supplementation to comprehensive imaging studies.
 
 ---
 
-### Reexpansion pulmonary edema following a posttraumatic pneumothorax: a case report and review of the literature [^b8ddf0c7]. World Journal of Emergency Surgery (2011). Low credibility.
+### Reexpansion pulmonary edema following a posttraumatic pneumothorax: a case report and review of the literature [^115j5Gbx]. World Journal of Emergency Surgery (2011). Low credibility.
 
 Background
 
@@ -779,7 +779,7 @@ Cases of posttraumatic or spontaneous pneumothorax are usually treated by the in
 
 ---
 
-### Bosentan (Tracleer) [^672cfa35]. FDA (2025). Medium credibility.
+### Bosentan (Tracleer) [^113dxqFr]. FDA (2025). Medium credibility.
 
 5.4 Fluid Retention
 
@@ -803,14 +803,14 @@ Treatment with TRACLEER can cause a dose-related decrease in hemoglobin and hema
 
 ---
 
-### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^953a5d8b]. Intensive Care Medicine (2023). High credibility.
+### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^114pEm3G]. Intensive Care Medicine (2023). High credibility.
 
 Regarding respiratory support for acute respiratory distress syndrome, more specifically with respect to noninvasive ventilation, ESICM 2023 guidelines recommend to insufficient evidence to recommend for or against the use of CPAP/noninvasive ventilation over conventional oxygen therapy to reduce mortality
 or prevent intubation in patients with acute hypoxemic respiratory failure not due to cardiogenic pulmonary edema or acute exacerbation of COPD.
 
 ---
 
-### Noninvasive ventilation in acute cardiogenic pulmonary edema: systematic review and meta-analysis [^197dce54]. JAMA (2005). Excellent credibility.
+### Noninvasive ventilation in acute cardiogenic pulmonary edema: systematic review and meta-analysis [^111enwwh]. JAMA (2005). Excellent credibility.
 
 Context
 
@@ -838,7 +838,7 @@ Noninvasive ventilation reduces the need for intubation and mortality in patient
 
 ---
 
-### Pulmonary ultrasound-guided management of delayed pulmonary edema secondary to nitric acid fumes inhalation: a case report [^702d3ec0]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Pulmonary ultrasound-guided management of delayed pulmonary edema secondary to nitric acid fumes inhalation: a case report [^113sJp1V]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 Conclusion
 
@@ -846,7 +846,7 @@ This case emphasizes that the occurrence of delayed pulmonary edema cannot be ov
 
 ---
 
-### Lung ultrasound diagnosis of pulmonary edema resulting from excessive fluid absorption during hysteroscopic myomectomy: a case report [^7d70787f]. BMC Anesthesiology (2024). Medium credibility.
+### Lung ultrasound diagnosis of pulmonary edema resulting from excessive fluid absorption during hysteroscopic myomectomy: a case report [^114CyELE]. BMC Anesthesiology (2024). Medium credibility.
 
 Conclusions
 
@@ -854,7 +854,7 @@ This case highlights a very common surgery and its rare complications, and early
 
 ---
 
-### Noninvasive ventilation in acute cardiogenic pulmonary edema [^b700aedb]. The New England Journal of Medicine (2008). Excellent credibility.
+### Noninvasive ventilation in acute cardiogenic pulmonary edema [^115gJxst]. The New England Journal of Medicine (2008). Excellent credibility.
 
 Background
 
@@ -874,13 +874,13 @@ In patients with acute cardiogenic pulmonary edema, noninvasive ventilation indu
 
 ---
 
-### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^4fb90928]. Annals of Emergency Medicine (2022). High credibility.
+### Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute heart failure syndromes: approved by ACEP board of directors, June 23, 2022 [^1133CB3u]. Annals of Emergency Medicine (2022). High credibility.
 
 Emergency department diuretic therapy in acute heart failure — recommendations state: Level A recommendations: None specified. Level B recommendations: Treat patients with moderate-to-severe pulmonary edema resulting from acute heart failure with furosemide in combination with nitrate therapy. Level C recommendations: Aggressive diuretic monotherapy is unlikely to prevent the need for endotracheal intubation compared with aggressive nitrate monotherapy, and diuretics should be administered judiciously given the potential association between diuretics, worsening renal function, and the known association between worsening renal function at index hospitalization and long-term mortality.
 
 ---
 
-### Ethacrynic sodium [^ab467dff]. FDA (2023). Medium credibility.
+### Ethacrynic sodium [^115NvZVG]. FDA (2023). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -893,7 +893,7 @@ Intravenous ethacrynate sodium is indicated when a rapid onset of diuresis is de
 
 ---
 
-### Noxivent 102 [^6cc33c2f]. FDA (2025). Medium credibility.
+### Noxivent 102 [^113nFEvS]. FDA (2025). Medium credibility.
 
 5.4 Worsening Heart Failure
 
@@ -901,7 +901,7 @@ Patients with left ventricular dysfunction treated with Noxivent™ may experien
 
 ---
 
-### Neurogenic pulmonary edema in pediatric multiple sclerosis: patient report and summary of cases [^68fbbc23]. Pediatric Neurology (2014). Low credibility.
+### Neurogenic pulmonary edema in pediatric multiple sclerosis: patient report and summary of cases [^113geGVx]. Pediatric Neurology (2014). Low credibility.
 
 Background
 
@@ -921,13 +921,13 @@ Awareness of these patients may expedite recognition and treatment of future pat
 
 ---
 
-### Acute respiratory distress syndrome: diagnosis and management [^36c787a4]. American Family Physician (2012). Low credibility.
+### Acute respiratory distress syndrome: diagnosis and management [^112QDMNb]. American Family Physician (2012). Low credibility.
 
 Acute respiratory distress syndrome manifests as rapidly progressive dyspnea, tachypnea, and hypoxemia. Diagnostic criteria include acute onset, profound hypoxemia, bilateral pulmonary infiltrates, and the absence of left atrial hypertension. Acute respiratory distress syndrome is believed to occur when a pulmonary or extrapulmonary insult causes the release of inflammatory mediators, promoting neutrophil accumulation in the microcirculation of the lung. Neutrophils damage the vascular endothelium and alveolar epithelium, leading to pulmonary edema, hyaline membrane formation, decreased lung compliance, and difficult air exchange. Most cases of acute respiratory distress syndrome are associated with pneumonia or sepsis. It is estimated that 7.1 percent of all patients admitted to an intensive care unit and 16.1 percent of all patients on mechanical ventilation develop acute lung injury or acute respiratory distress syndrome. In-hospital mortality related to these conditions is between 34 and 55 percent, and most deaths are due to multiorgan failure. Acute respiratory distress syndrome often has to be differentiated from congestive heart failure, which usually has signs of fluid overload, and from pneumonia. Treatment of acute respiratory distress syndrome is supportive and includes mechanical ventilation, prophylaxis for stress ulcers and venous thromboembolism, nutritional support, and treatment of the underlying injury. Low tidal volume, high positive end-expiratory pressure, and conservative fluid therapy may improve outcomes. A spontaneous breathing trial is indicated as the patient improves and the underlying illness resolves. Patients who survive acute respiratory distress syndrome are at risk of diminished functional capacity, mental illness, and decreased quality of life; ongoing care by a primary care physician is beneficial for these patients.
 
 ---
 
-### Effect of furosemide in the treatment of high-altitude pulmonary edema [^aea067e0]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Effect of furosemide in the treatment of high-altitude pulmonary edema [^115TtizT]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Influence of furosemide on prognosis of patients with high-altitude pulmonary edema
 
@@ -945,13 +945,13 @@ Note: IMV: Invasive mechanical ventilation
 
 ---
 
-### Acute heart failure: a novel approach to its pathogenesis and treatment [^0b645df4]. European Journal of Heart Failure (2002). Low credibility.
+### Acute heart failure: a novel approach to its pathogenesis and treatment [^111HtaQb]. European Journal of Heart Failure (2002). Low credibility.
 
 Acute heart failure (HF) is one of the most common syndromes in emergency medicine, however, its exact pathogenesis has remained largely unknown. Based on clinical and hemodynamic data we have sub-divided acute HF into four syndromes: cardiogenic shock, pulmonary edema, hypertensive crisis and exacerbated HF. Cardiogenic shock is caused by a severe reduction in cardiac power which is not met by an adequate increase in peripheral vascular resistance leading to significant decrease in blood pressure and end organ perfusion. Hence the treatment of cardiogenic shock should be directed at improving cardiac performance (by optimizing filling pressure, intra-aortic balloon pump and immediate revascularization) and administration of peripheral vasoconstrictors. The other acute HF syndromes (pulmonary edema, HTN crisis and exacerbated HF) are caused by a combination of progressive excessive vasoconstriction superimposed on reduced left ventricular functional reserve. The impaired cardiac power and extreme vasoconstriction induce a vicious cycle of afterload mismatch resulting in a dramatic reduction of CO and elevated left ventricular end diastolic pressure, which is transferred backwards to the pulmonary capillaries yielding pulmonary edema. Therefore, the immediate treatment of these acute HF syndromes should be based on the administration of strong, fast-acting intravenous vasodilators such as nitrates or nitroprusside. After initial stabilization, therapy should be directed at reducing recurrent episodes of acute HF, by prevention of repeated episodes of excessive vasoconstriction along with efforts to optimize cardiac function.
 
 ---
 
-### The clinical usefulness of extravascular lung water and pulmonary vascular permeability index to diagnose and characterize pulmonary edema: a prospective multicenter study on the quantitative differential diagnostic definition for acute lung injury / acute respiratory distress syndrome [^923bd0fd]. Critical Care (2012). Low credibility.
+### The clinical usefulness of extravascular lung water and pulmonary vascular permeability index to diagnose and characterize pulmonary edema: a prospective multicenter study on the quantitative differential diagnostic definition for acute lung injury / acute respiratory distress syndrome [^114joHTi]. Critical Care (2012). Low credibility.
 
 Assessment of circulatory/respiratory status, other parameters, and clinical course
 
@@ -963,7 +963,7 @@ All patients were followed for 28 days after enrollment and assessed for 28-day 
 
 ---
 
-### Macitentan (Opsumit) [^6403259e]. FDA (2025). Medium credibility.
+### Macitentan (Opsumit) [^113ZGpVK]. FDA (2025). Medium credibility.
 
 5.3 Fluid Retention
 
@@ -987,7 +987,7 @@ OPSUMIT, like other ERAs, may have an adverse effect on spermatogenesis. Counsel
 
 ---
 
-### A clinical guide to non-invasive respiratory support in acute respiratory failure: ventilation settings, technical optimization and clinical indications [^14d9f3e4]. Critical Care (2025). Medium credibility.
+### A clinical guide to non-invasive respiratory support in acute respiratory failure: ventilation settings, technical optimization and clinical indications [^111XuxhR]. Critical Care (2025). Medium credibility.
 
 Clinical indications
 
@@ -1005,13 +1005,13 @@ Summary table of main settings for non-invasive respiratory support in different
 
 ---
 
-### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^77f18f75]. Journal of the American College of Cardiology (2025). High credibility.
+### Guidance for incorporating FDA processes into the ACC / AHA clinical practice guideline methodology: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1144pfWc]. Journal of the American College of Cardiology (2025). High credibility.
 
 Table 26 — nitroglycerin (vasodilator) for hypertensive emergencies specifies "Initial 5 mcg/min; increase in increments of 5 mcg/min every 3–5 min to a maximum rate of 200 mcg/min", and advises: "Use only in patients with acute coronary syndrome and/or acute pulmonary edema. Do not use in volume-depleted patients. Tachyphylaxis is common with extended use".
 
 ---
 
-### Contralateral reexpansion pulmonary edema with ipsilateral collapsed lung after pleural effusion drainage: a case report [^026f4cdb]. Journal of Cardiothoracic Surgery (2015). Low credibility.
+### Contralateral reexpansion pulmonary edema with ipsilateral collapsed lung after pleural effusion drainage: a case report [^1114cMsG]. Journal of Cardiothoracic Surgery (2015). Low credibility.
 
 Discussion
 

@@ -15,35 +15,35 @@ Hybrid cardiac rehabilitation programs
 
 > Let's see… What do we have here? The user is asking about hybrid cardiac rehabilitation programs. Let's break this down step-by-step. First, I need to think about defining hybrid CR and its core components. Then, I should verify the evidence hierarchy and appraise the highest-quality trials and meta-analyses. Next, I will examine clinical outcomes, adherence, and safety, followed by implementation and equity considerations. After that, I should review guideline positions and identify evidence gaps. Finally, I will synthesize practical recommendations and a cautious conclusion with appropriate caveats and citations.
 
-> Let me first confirm the definition so I don't misframe the construct. Hybrid cardiac rehabilitation combines supervised center-based sessions with home-based or remote components, typically starting with in-person sessions to establish safety and self-efficacy, then transitioning to monitored home exercise with telephonic or digital support, while preserving core CR elements such as structured exercise, risk factor management, education, and psychosocial support [^c9b87a07] [^3aa1cb06].
+> Let me first confirm the definition so I don't misframe the construct. Hybrid cardiac rehabilitation combines supervised center-based sessions with home-based or remote components, typically starting with in-person sessions to establish safety and self-efficacy, then transitioning to monitored home exercise with telephonic or digital support, while preserving core CR elements such as structured exercise, risk factor management, education, and psychosocial support [^116A4UYE] [^112VvdL1].
 
 > Wait, let me verify the evidence hierarchy before drawing conclusions. The strongest evidence comes from randomized clinical trials and meta-analyses, followed by systematic reviews and observational studies. I should prioritize RCTs with clinical endpoints and contemporary meta-analyses that compare delivery modes head-to-head, while noting limitations like heterogeneity and incomplete reporting that can temper certainty.
 
-> I will now examine the pivotal RCT in coronary artery disease. The HYCARET trial in Chile randomized 191 patients to hybrid CR (10 supervised sessions plus telephone/text support) versus standard CR (18–22 supervised sessions) and found that hybrid CR was noninferior for the composite of cardiovascular events or death at 1 year, with an absolute risk difference of −3.80% and a relative risk of 0.59, and importantly, adherence to supervised sessions was significantly higher in the hybrid arm (79.14% vs 61.46%), which is a key implementation advantage [^ba65fa28] [^500e129c] [^300a5d49].
+> I will now examine the pivotal RCT in coronary artery disease. The HYCARET trial in Chile randomized 191 patients to hybrid CR (10 supervised sessions plus telephone/text support) versus standard CR (18–22 supervised sessions) and found that hybrid CR was noninferior for the composite of cardiovascular events or death at 1 year, with an absolute risk difference of −3.80% and a relative risk of 0.59, and importantly, adherence to supervised sessions was significantly higher in the hybrid arm (79.14% vs 61.46%), which is a key implementation advantage [^115mLx6K] [^1133gjhm] [^112EDtSc].
 
-> Hold on, let's not jump to conclusions about functional outcomes. In HYCARET, secondary outcomes like 6-minute walk distance and quality of life did not show statistically significant between-group differences, though point estimates favored hybrid CR; this aligns with earlier hybrid CR studies showing comparable short-term outcomes to center-based CR, reinforcing that noninferiority on hard outcomes is the more reliable signal here [^ba65fa28] [^c9b87a07].
+> Hold on, let's not jump to conclusions about functional outcomes. In HYCARET, secondary outcomes like 6-minute walk distance and quality of life did not show statistically significant between-group differences, though point estimates favored hybrid CR; this aligns with earlier hybrid CR studies showing comparable short-term outcomes to center-based CR, reinforcing that noninferiority on hard outcomes is the more reliable signal here [^115mLx6K] [^116A4UYE].
 
-> Next, I should review heart failure evidence. Multiple meta-analyses indicate that hybrid CR improves functional capacity versus usual care, with pooled increases in VO₂ peak around 9–10 mL/kg/min, and shows similar improvements in exercise capacity compared with center-based CR, while effects on health-related quality of life are less consistent across studies, suggesting that capacity gains are robust but HRQoL may be more sensitive to intervention specifics and measurement tools [^f13783d6] [^ad65ad1f] [^feb737ce].
+> Next, I should review heart failure evidence. Multiple meta-analyses indicate that hybrid CR improves functional capacity versus usual care, with pooled increases in VO₂ peak around 9–10 mL/kg/min, and shows similar improvements in exercise capacity compared with center-based CR, while effects on health-related quality of life are less consistent across studies, suggesting that capacity gains are robust but HRQoL may be more sensitive to intervention specifics and measurement tools [^117AcfSD] [^115S51Zp] [^117WdPxH].
 
-> I need to check safety signals carefully. Across trials and reviews, adverse event rates in home-based and hybrid CR are low, and in higher-risk populations such as HFrEF, hybrid models have been shown to be safe when appropriately risk-stratified and supervised, with no excess in serious events compared with center-based CR in HF-ACTION and subsequent analyses, supporting the feasibility of transitioning stable patients to home-based components [^3a4ba08d] [^48e2dc02].
+> I need to check safety signals carefully. Across trials and reviews, adverse event rates in home-based and hybrid CR are low, and in higher-risk populations such as HFrEF, hybrid models have been shown to be safe when appropriately risk-stratified and supervised, with no excess in serious events compared with center-based CR in HF-ACTION and subsequent analyses, supporting the feasibility of transitioning stable patients to home-based components [^112VRggU] [^112s4JsK].
 
-> Let me consider implementation and equity, because effectiveness in trials may not translate without addressing delivery. Hybrid CR has been rapidly adopted during COVID-19, with quality-improvement programs demonstrating high enrollment and meaningful gains in peak capacity using tele-supervised home sessions, and global audits show that while only about 9% of programs formally offer hybrid models, this share is growing and is particularly relevant where capacity is constrained or access barriers are high [^1442c380] [^ad85739e] [^a0751d70].
+> Let me consider implementation and equity, because effectiveness in trials may not translate without addressing delivery. Hybrid CR has been rapidly adopted during COVID-19, with quality-improvement programs demonstrating high enrollment and meaningful gains in peak capacity using tele-supervised home sessions, and global audits show that while only about 9% of programs formally offer hybrid models, this share is growing and is particularly relevant where capacity is constrained or access barriers are high [^111X3BJF] [^115SFgbo] [^1156tMg3].
 
-> I should confirm guideline positions to ensure alignment. Contemporary ACC/AHA guidance recommends referral to CR for ACS and chronic coronary disease and explicitly supports home-based and hybrid models to improve access, noting similar improvements in quality of life and no mortality difference versus center-based CR in comparative studies, which strengthens the case for offering patients a choice of modality based on preference, risk, and logistics [^ef010c9f] [^a954854e] [^36fde556].
+> I should confirm guideline positions to ensure alignment. Contemporary ACC/AHA guidance recommends referral to CR for ACS and chronic coronary disease and explicitly supports home-based and hybrid models to improve access, noting similar improvements in quality of life and no mortality difference versus center-based CR in comparative studies, which strengthens the case for offering patients a choice of modality based on preference, risk, and logistics [^1177LPo4] [^115L3JDs] [^112QXcWR].
 
-> But wait, what about women, older adults, and underrepresented groups who often face greater access barriers. The AHA's scientific statement on women recommends culturally competent, flexible programming and highlights hybrid or virtual models as key strategies to close sex-based gaps in referral, participation, and completion, while geriatric-focused reviews emphasize that home-based and hybrid approaches can mitigate transportation and mobility barriers without sacrificing benefit when appropriately supervised [^3f01eedb] [^e4765cff] [^d1900d68].
+> But wait, what about women, older adults, and underrepresented groups who often face greater access barriers. The AHA's scientific statement on women recommends culturally competent, flexible programming and highlights hybrid or virtual models as key strategies to close sex-based gaps in referral, participation, and completion, while geriatric-focused reviews emphasize that home-based and hybrid approaches can mitigate transportation and mobility barriers without sacrificing benefit when appropriately supervised [^112cQsQv] [^116qhw9x] [^116MgoGK].
 
-> I should double-check evidence gaps so I don't overstate certainty. Noninferiority in HYCARET is encouraging but the sample size was modest and the per-protocol analysis did not consistently meet noninferiority, underscoring the need for larger, multicenter RCTs with longer follow-up; moreover, many technology-enabled trials underreport intervention details, limiting replication and scalability, and head-to-head comparisons across diverse settings and populations remain limited [^4538b4eb] [^042708d7] [^400f5256].
+> I should double-check evidence gaps so I don't overstate certainty. Noninferiority in HYCARET is encouraging but the sample size was modest and the per-protocol analysis did not consistently meet noninferiority, underscoring the need for larger, multicenter RCTs with longer follow-up; moreover, many technology-enabled trials underreport intervention details, limiting replication and scalability, and head-to-head comparisons across diverse settings and populations remain limited [^112mdCBU] [^1117A4ai] [^112dyMXT].
 
-> Let me synthesize practical recommendations, keeping risk stratification front and center. For low- to moderate-risk patients, a hybrid model with 2–4 initial supervised sessions to establish safety, prescribe exercise, and provide education, followed by home-based training with weekly remote contact and periodic in-person check-ins, is reasonable and evidence-aligned; for higher-risk patients, maintain a higher proportion of supervised sessions and consider remote monitoring of vitals to preserve safety while expanding access [^ef010c9f] [^3a4ba08d].
+> Let me synthesize practical recommendations, keeping risk stratification front and center. For low- to moderate-risk patients, a hybrid model with 2–4 initial supervised sessions to establish safety, prescribe exercise, and provide education, followed by home-based training with weekly remote contact and periodic in-person check-ins, is reasonable and evidence-aligned; for higher-risk patients, maintain a higher proportion of supervised sessions and consider remote monitoring of vitals to preserve safety while expanding access [^1177LPo4] [^112VRggU].
 
-> Hold on, I should verify the technology stack and workflow. Effective hybrid programs integrate simple, reliable tools such as phone calls and text messaging for adherence and symptom checks, with optional wearables or apps for activity tracking, and they embed education, medication reconciliation, and psychosocial support into both in-person and remote encounters; this approach balances fidelity to core CR components with feasibility in resource-limited settings [^c9b87a07] [^3aa1cb06].
+> Hold on, I should verify the technology stack and workflow. Effective hybrid programs integrate simple, reliable tools such as phone calls and text messaging for adherence and symptom checks, with optional wearables or apps for activity tracking, and they embed education, medication reconciliation, and psychosocial support into both in-person and remote encounters; this approach balances fidelity to core CR components with feasibility in resource-limited settings [^116A4UYE] [^112VvdL1].
 
-> In conclusion, I need to ensure the bottom line is precise. Hybrid CR appears noninferior to center-based CR for cardiovascular events in CAD and yields comparable or improved functional capacity in HF, with better adherence and potential cost advantages, making it a legitimate, guideline-endorsed alternative that can expand access when thoughtfully implemented with appropriate risk stratification and quality assurance; however, larger, longer-term RCTs and standardized reporting are needed to confirm durability and to optimize delivery across diverse populations and health systems [^ba65fa28] [^f13783d6] [^1874a70d] [^400f5256].
+> In conclusion, I need to ensure the bottom line is precise. Hybrid CR appears noninferior to center-based CR for cardiovascular events in CAD and yields comparable or improved functional capacity in HF, with better adherence and potential cost advantages, making it a legitimate, guideline-endorsed alternative that can expand access when thoughtfully implemented with appropriate risk stratification and quality assurance; however, larger, longer-term RCTs and standardized reporting are needed to confirm durability and to optimize delivery across diverse populations and health systems [^115mLx6K] [^117AcfSD] [^111dFtLc] [^112dyMXT].
 
 ---
 
-Hybrid cardiac rehabilitation (CR) combines center-based and home-based care, typically with 2–4 supervised sessions followed by remote monitoring and telehealth support [^c9b87a07]. It is **noninferior to center-based CR** for cardiovascular events and improves adherence, functional capacity, and quality of life across coronary artery disease and heart failure populations [^ba65fa28] [^f13783d6] [^1b839b8e]. Hybrid CR is **safe and cost-effective**, with low adverse event rates and reduced delivery costs, and is endorsed by guidelines for patients who cannot attend center-based programs [^3a4ba08d] [^1874a70d] [^a954854e]. Key barriers include technology access, reimbursement, and workforce capacity; addressing these can expand access and equity in CR delivery [^6efc8091] [^cfe2c879].
+Hybrid cardiac rehabilitation (CR) combines center-based and home-based care, typically with 2–4 supervised sessions followed by remote monitoring and telehealth support [^116A4UYE]. It is **noninferior to center-based CR** for cardiovascular events and improves adherence, functional capacity, and quality of life across coronary artery disease and heart failure populations [^115mLx6K] [^117AcfSD] [^111hnsXs]. Hybrid CR is **safe and cost-effective**, with low adverse event rates and reduced delivery costs, and is endorsed by guidelines for patients who cannot attend center-based programs [^112VRggU] [^111dFtLc] [^115L3JDs]. Key barriers include technology access, reimbursement, and workforce capacity; addressing these can expand access and equity in CR delivery [^113qYT92] [^116KCcRe].
 
 ---
 
@@ -51,11 +51,11 @@ Hybrid cardiac rehabilitation (CR) combines center-based and home-based care, ty
 
 Hybrid CR programs typically include the following elements:
 
-- **Initial supervised sessions**: 2–4 center-based sessions to establish baseline fitness, educate patients, and ensure safe exercise prescription [^c9b87a07].
+- **Initial supervised sessions**: 2–4 center-based sessions to establish baseline fitness, educate patients, and ensure safe exercise prescription [^116A4UYE].
 
-- **Transition to home-based care**: Patients transition to home-based exercise with remote monitoring, telehealth check-ins, and digital tools (apps, wearables) for tracking and feedback [^c9b87a07] [^e7280056].
+- **Transition to home-based care**: Patients transition to home-based exercise with remote monitoring, telehealth check-ins, and digital tools (apps, wearables) for tracking and feedback [^116A4UYE] [^116uhaPP].
 
-- **Core CR components**: Exercise training, risk factor management, education, and psychosocial support are delivered through a mix of in-person and remote modalities [^c9b87a07] [^3aa1cb06].
+- **Core CR components**: Exercise training, risk factor management, education, and psychosocial support are delivered through a mix of in-person and remote modalities [^116A4UYE] [^112VvdL1].
 
 ---
 
@@ -63,25 +63,25 @@ Hybrid CR programs typically include the following elements:
 
 Hybrid CR has been extensively studied and demonstrates **comparable or superior outcomes** to traditional center-based CR:
 
-- **Cardiovascular events**: Noninferior to center-based CR in reducing recurrent cardiovascular events in low-resource settings (5.38% vs 9.18%; RR 0.59, 95% CI 0.20–1.68) [^ba65fa28] [^500e129c].
+- **Cardiovascular events**: Noninferior to center-based CR in reducing recurrent cardiovascular events in low-resource settings (5.38% vs 9.18%; RR 0.59, 95% CI 0.20–1.68) [^115mLx6K] [^1133gjhm].
 
-- **Functional capacity**: Significant improvements in exercise capacity, comparable to center-based CR, with meta-analytic gains of ~2–3 mL/kg/min in VO₂ peak [^f13783d6] [^81b6cd32].
+- **Functional capacity**: Significant improvements in exercise capacity, comparable to center-based CR, with meta-analytic gains of ~2–3 mL/kg/min in VO₂ peak [^117AcfSD] [^114KJocd].
 
-- **Quality of life**: Improvements in health-related quality of life, similar to center-based CR, including mental health and social functioning [^c9b87a07] [^1b839b8e].
+- **Quality of life**: Improvements in health-related quality of life, similar to center-based CR, including mental health and social functioning [^116A4UYE] [^111hnsXs].
 
-- **Adherence**: Higher adherence to supervised sessions than center-based CR (79.14% vs 61.46%; P < .001) [^ba65fa28] [^300a5d49].
+- **Adherence**: Higher adherence to supervised sessions than center-based CR (79.14% vs 61.46%; P < .001) [^115mLx6K] [^112EDtSc].
 
 ---
 
 ## Safety profile
 
-Hybrid CR has a **favorable safety profile**, with low rates of adverse events comparable to center-based CR. Remote monitoring and structured supervision during the initial phase help mitigate risks, and adverse event rates are low (~1 per 23,823 patient-hours in home-based CR) [^3a4ba08d].
+Hybrid CR has a **favorable safety profile**, with low rates of adverse events comparable to center-based CR. Remote monitoring and structured supervision during the initial phase help mitigate risks, and adverse event rates are low (~1 per 23,823 patient-hours in home-based CR) [^112VRggU].
 
 ---
 
 ## Cost-effectiveness and resource utilization
 
-Hybrid CR is **cost-effective**, reducing delivery costs by ~30% compared with center-based CR, primarily through reduced facility use and staffing needs. This is particularly relevant in low-resource settings and for health systems seeking to expand access without proportional cost increases [^c9b87a07] [^46a829c7].
+Hybrid CR is **cost-effective**, reducing delivery costs by ~30% compared with center-based CR, primarily through reduced facility use and staffing needs. This is particularly relevant in low-resource settings and for health systems seeking to expand access without proportional cost increases [^116A4UYE] [^112okcox].
 
 ---
 
@@ -89,13 +89,13 @@ Hybrid CR is **cost-effective**, reducing delivery costs by ~30% compared with c
 
 Hybrid CR is **particularly beneficial** for the following populations:
 
-- **Low-resource settings**: Where access to center-based CR is limited, hybrid models enable broader reach and sustained engagement [^ba65fa28] [^a0751d70].
+- **Low-resource settings**: Where access to center-based CR is limited, hybrid models enable broader reach and sustained engagement [^115mLx6K] [^1156tMg3].
 
-- **Heart failure patients**: Improves functional capacity and quality of life, with outcomes comparable to center-based CR [^f13783d6] [^1b839b8e].
+- **Heart failure patients**: Improves functional capacity and quality of life, with outcomes comparable to center-based CR [^117AcfSD] [^111hnsXs].
 
-- **Older adults**: Addresses barriers such as transportation and mobility, improving participation and outcomes [^d1900d68] [^48e2dc02].
+- **Older adults**: Addresses barriers such as transportation and mobility, improving participation and outcomes [^116MgoGK] [^112s4JsK].
 
-- **Women and underrepresented groups**: Flexible delivery models improve access and adherence, addressing historical disparities in CR participation [^3f01eedb] [^e4765cff].
+- **Women and underrepresented groups**: Flexible delivery models improve access and adherence, addressing historical disparities in CR participation [^112cQsQv] [^116qhw9x].
 
 ---
 
@@ -105,11 +105,11 @@ Despite its benefits, hybrid CR faces several **implementation challenges**:
 
 - **Technology access**: Limited digital literacy and access to devices/internet can hinder participation [^notfound].
 
-- **Reimbursement**: Inconsistent insurance coverage for remote CR components limits adoption [^cfe2c879].
+- **Reimbursement**: Inconsistent insurance coverage for remote CR components limits adoption [^116KCcRe].
 
-- **Workforce capacity**: Need for training staff in remote monitoring and telehealth delivery [^e2ae9c06].
+- **Workforce capacity**: Need for training staff in remote monitoring and telehealth delivery [^116o4rMb].
 
-- **Regulatory and policy gaps**: Lack of standardized protocols and policies for hybrid CR delivery [^a0751d70].
+- **Regulatory and policy gaps**: Lack of standardized protocols and policies for hybrid CR delivery [^1156tMg3].
 
 ---
 
@@ -117,17 +117,17 @@ Despite its benefits, hybrid CR faces several **implementation challenges**:
 
 Major cardiovascular societies endorse hybrid CR as a **valid alternative** to center-based CR:
 
-- **ACC/AHA**: Recommends home-based and hybrid CR to improve access, particularly for rural or underserved populations [^1874a70d] [^a954854e].
+- **ACC/AHA**: Recommends home-based and hybrid CR to improve access, particularly for rural or underserved populations [^111dFtLc] [^115L3JDs].
 
 - **AHA/ACC**: Emphasizes patient-centered delivery modes, including hybrid models, to address access and equity barriers [^notfound].
 
-- **ICCPR**: Advocates for alternative delivery models, including hybrid CR, to expand access globally [^a0751d70].
+- **ICCPR**: Advocates for alternative delivery models, including hybrid CR, to expand access globally [^1156tMg3].
 
 ---
 
 ## Future directions and research needs
 
-Future research should prioritize **longer-term RCTs** to confirm durability of outcomes, develop and validate risk stratification tools for safe home-based participation, and evaluate cost-effectiveness across diverse health systems. Implementation science studies are also needed to identify best practices for scaling hybrid CR equitably [^400f5256] [^3a4ba08d].
+Future research should prioritize **longer-term RCTs** to confirm durability of outcomes, develop and validate risk stratification tools for safe home-based participation, and evaluate cost-effectiveness across diverse health systems. Implementation science studies are also needed to identify best practices for scaling hybrid CR equitably [^112dyMXT] [^112VRggU].
 
 ---
 
@@ -137,13 +137,13 @@ Hybrid CR is a **promising, evidence-based model** that delivers outcomes compar
 
 ## References
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^65630c8e]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^113bK26R]. JAMA Network Open (2024). High credibility.
 
 The main objective of this randomized clinical trial was to evaluate whether the reduction in cardiovascular events (fatal and nonfatal) in patients receiving hybrid CR is not inferior to reductions in patients receiving standard supervised CR. A secondary aim was to compare hybrid CR with traditional supervised CR in terms of HRQOL, exercise capacity, muscle strength, heart-healthy behavior, return to work, cardiovascular risk factor control, adherence to CR, and exercise-related adverse events.
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^46a829c7]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^112okcox]. JAMA Network Open (2024). High credibility.
 
 Conclusions
 
@@ -151,13 +151,13 @@ The results of this trial showed that a hybrid CR model that aims to enable pati
 
 ---
 
-### Hybrid cardiac rehabilitation-the state of the science and the way forward [^c9b87a07]. Progress in Cardiovascular Diseases (2021). Medium credibility.
+### Hybrid cardiac rehabilitation-the state of the science and the way forward [^116A4UYE]. Progress in Cardiovascular Diseases (2021). Medium credibility.
 
 Cardiac rehabilitation (CR) improves exercise capacity and health-related quality of life (HRQoL) in a broad range of patients, including those with coronary artery disease, heart failure (HF), after heart valve surgery, and after heart transplantation. Unfortunately, in traditional center-based CR programs participation and adherence are low. A hybrid model of CR, combining center-based and home-based CR services, has been proposed and is currently being studied as a potential way to help bridge the participation gap, while maintaining the beneficial patient outcomes from CR. However, the ideal composition of a hybrid CR program has not been universally agreed upon. In the present review, we define hybrid CR as any combination of supervised center-based and monitored home-based exercise, where at least two of the core components of CR are addressed. Using this definition, we searched for studies comparing hybrid CR with: (1) traditional center-based CR among CAD patients, (2) usual care among CAD patients, and (3) usual care among HF patients. We found nine studies which fit both our definition and comparison groups. The structure of the hybrid CR programs differed for each study, but typically began with a center-based component lasting 2–11 weeks and transitioned to a home-based component lasting 10–22 weeks, with 3–5 exercise sessions per week composed of either walking (usually with a treadmill) or cycling for 25–35 min at 60–75% maximal heart rate. Patients recorded data from home exercise sessions, via either a digital heart rate monitor or accelerometer, into logbooks which were reviewed by a therapist at specified intervals (often via telephone). Counseling on risk factor management was predominantly provided during the center-based component. In these studies, hybrid CR led to similar short-term outcomes compared to traditional CR in patients with coronary artery disease (CAD), as well as increased adherence and reduced delivery costs. Compared with usual care, in patients with CAD, hybrid CR reduced cardiovascular events, and improved lipid profiles, exercise capacity, and HRQoL. In patients with HF, compared with usual care, hybrid CR improved physical function, exercise capacity, and HRQoL. Ongoing studies may clarify the combination of center-based and home-based CR which produces superior outcomes, and may also better define the role that technology should play in CR interventions.
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^da07b0bf]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^116aEtFp]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -173,7 +173,7 @@ Cardiac rehabilitation is a complex intervention affording the opportunity to de
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^ba65fa28]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^115mLx6K]. JAMA Network Open (2024). High credibility.
 
 Importance
 
@@ -209,7 +209,7 @@ ClinicalTrials.gov Identifier: NCT03881150.
 
 ---
 
-### Cardiac rehabilitation collaborative (CRC)-million hearts ®… [^e1dcc168]. millionhearts.hhs.gov (2025). Medium credibility.
+### Cardiac rehabilitation collaborative (CRC)-million hearts ®… [^116mrN55]. millionhearts.hhs.gov (2025). Medium credibility.
 
 Cardiac Rehabilitation Collaborative The Million Hearts ® Cardiac Rehabilitation Collaborative is an open forum of multi-disciplinary professionals taking action to help at least 70% of eligible patients participate in cardiac rehabilitation. The CRC meets virtually on a quarterly basis to exchange information, ideas, and resources to advance progress across strategies outlined in the CRC Action Plan. This strategic planning document is updated every year to advance progress towards the CRC target.
 - **TAKEheart**: AHRQ's Initiative to Increase Use of Cardiac Rehabilitation AHRQ's TAKEheart initiative aims to increase the use of CR by eligible patients nationwide. The initiative helps hospitals and health systems carry out evidence-based strategies to improve CR referral, enrollment, and retention.
@@ -229,19 +229,19 @@ For Researchers and Innovators:
 
 ---
 
-### Benefits of cardiac rehabilitation: mechanisms to restore function and clinical impact [^3385d803]. Circulation Research (2025). Medium credibility.
+### Benefits of cardiac rehabilitation: mechanisms to restore function and clinical impact [^112KPKrr]. Circulation Research (2025). Medium credibility.
 
 Cardiac rehabilitation (CR) has evolved from foundations as a postmyocardial infarction mobilization strategy for patients who were typically unstable, into a comprehensive, multidisciplinary program for most patients with cardiovascular disease aimed at optimizing cardiovascular health, reducing morbidity, and enhancing functional recovery. Although contemporary CR patients are now usually more stable from a cardiovascular perspective, needs have expanded for comprehensive approaches to exercise, lifestyle, care coordination, risk factor modification, and stress management. Furthermore, contemporary CR patients now typically include older adults who are contending with cardiovascular disease in the context of multimorbidity, frailty, sarcopenia, sensory limits, and cognitive impairment. The physiological mechanisms underlying exercise intolerance in cardiovascular disease include impairments in cardiac output, vascular function, and skeletal muscle metabolism and relate to elemental biological mechanisms that are common to all 3 as well as to noncardiovascular disease and aging. CR provides an important opportunity to address such aggregate risk. Nonetheless, CR remains underutilized, particularly by older adults, women, and those struggling with cognitive impairments, frailty, logistics, and social barriers to care. Emerging strategies, such as home-based and hybrid CR models, resistance training, and digital health technologies, are expanding the potential for access and effectiveness. Future research brings important opportunities to hone personalized CR strategies tailored to contemporary patient populations, including optimized exercise prescriptions as well as pharmacological, nutritional, and technological adjuncts. Related prospects to distinguish the biological mechanisms underlying patient-preferred clinical end points (eg, independence, quality of life) remain critical to augmenting CR's value in the contemporary therapeutic landscape.
 
 ---
 
-### Cardiac rehabilitation for heart failure:' cinderella' or evidence-based pillar of care? [^dd3b9a9d]. European Heart Journal (2023). Medium credibility.
+### Cardiac rehabilitation for heart failure:' cinderella' or evidence-based pillar of care? [^116ezHTa]. European Heart Journal (2023). Medium credibility.
 
 Cardiac rehabilitation remains the 'Cinderella' of treatments for heart failure. This state-of-the-art review provides a contemporary update on the evidence base, clinical guidance, and status of cardiac rehabilitation delivery for patients with heart failure. Given that cardiac rehabilitation participation results in important improvements in patient outcomes, including health-related quality of life, this review argues that an exercise-based rehabilitation is a key pillar of heart failure management alongside drug and medical device provision. To drive future improvements in access and uptake, health services should offer heart failure patients a choice of evidence-based modes of rehabilitation delivery, including home, supported by digital technology, alongside traditional centre-based programmes (or combinations of modes, 'hybrid') and according to stage of disease and patient preference.
 
 ---
 
-### What and where in the world is cardiac rehabilitation? [^c21eea96]. EClinicalMedicine (2019). Medium credibility.
+### What and where in the world is cardiac rehabilitation? [^115xnyyF]. EClinicalMedicine (2019). Medium credibility.
 
 Attempting to identify every CR program in the world is an enormous challenge. While the research team took a number of steps to ensure an accurate count, the resulting estimate of program availability is most likely an underestimation. The level of resources within a given country likely influences the accuracy of the count. In addition, "ascertainment bias" or the distortion the true frequency of a measure is always a concern when data collection relies on self-report. For instance, a program is more likely to report a higher level of quality of care than is actually delivered.
 
@@ -251,19 +251,19 @@ CR is proven and effective treatment strategy for patients with CVD. Unfortunate
 
 ---
 
-### Cardiac rehabilitation: the gateway for secondary prevention [^d8ef5903]. Heart (2024). Medium credibility.
+### Cardiac rehabilitation: the gateway for secondary prevention [^116Ycijt]. Heart (2024). Medium credibility.
 
 Cardiac rehabilitation (CR) is a multidisciplinary supervised programme which typically consists of tailored exercise and education on lifestyle management and risk factor modification in cardiac patients. Participation in CR reduces morbidity and mortality, while improving quality of life following major cardiovascular events. Despite the benefits of CR, it is underutilised, generally in the 20%-30%range for eligible patients. Participation and adherence rates are particularly suboptimal in vulnerable populations, such as those of lower socioeconomic status and women. Interventions such as automated referral to CR or hybrid/virtual programmes can increase enrolment to CR. This review summarises the components of CR and provides recommendations for providers regarding participation and adherence. To better engage a larger proportion of CR-eligible patients, CR programmes may need to expand or adjust ways to deliver secondary prevention.
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^69390649]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^113gzrX2]. JAMA Network Open (2024). High credibility.
 
 This randomized clinical trial of patients with coronary artery disease investigates the noninferiority of a hybrid center- and home-based cardiac rehabilitation program vs a traditional center-based program in terms of cardiac events.
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^79e29ab6]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^1147hci1]. JAMA Network Open (2024). High credibility.
 
 Results
 
@@ -271,7 +271,7 @@ A total of 191 participants were included from 283 potential participants, with 
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^1442c380]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^111X3BJF]. BMJ Open Quality (2023). High credibility.
 
 Background
 
@@ -285,7 +285,7 @@ Multiple studies have shown the safety, effectiveness, reduced cost of delivery 
 
 ---
 
-### Cardiac rehabilitation availability and density around the globe [^c30b3c1c]. EClinicalMedicine (2019). Medium credibility.
+### Cardiac rehabilitation availability and density around the globe [^115zAMpo]. EClinicalMedicine (2019). Medium credibility.
 
 Background
 
@@ -307,13 +307,13 @@ CR is available in only half of countries globally. Where offered, capacity is g
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^300a5d49]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^112EDtSc]. JAMA Network Open (2024). High credibility.
 
 In terms of adherence to supervised CR sessions, the hybrid CR group had 79.14% adherence (736 of 930 supervised CR sessions), which was significantly higher than in the standard CR group, which had 61.46% adherence (1201 of 1954 sessions) (P < .001). In the standard CR group, of the 9 participants with reported cardiovascular events, only 1 (11.11%) adhered to more than or equal to 80% of the supervised exercise program, 1 (11.11%) adhered to 60%, 2 (22.22%) adhered to 45%, 1 (11.11%) adhered to 30%, and 4 (44.44%) adhered to less than 20%. In contrast, in the hybrid CR group, of the 5 participants who reported cardiovascular events, 4 (80.00%) adhered to 100% of the supervised exercise program and 1 (20.00%) adhered to 40%.
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^f13783d6]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^117AcfSD]. Journal of the American Heart Association (2019). Medium credibility.
 
 Conclusion
 
@@ -321,7 +321,7 @@ In this meta‐analysis of RCTs, HBCR and hybrid CR significantly improved funct
 
 ---
 
-### Exercise-based cardiac rehabilitation for adults with heart failure-2023 cochrane systematic review and meta-analysis [^1b839b8e]. European Journal of Heart Failure (2023). Medium credibility.
+### Exercise-based cardiac rehabilitation for adults with heart failure-2023 cochrane systematic review and meta-analysis [^111hnsXs]. European Journal of Heart Failure (2023). Medium credibility.
 
 Aims
 
@@ -337,7 +337,7 @@ To improve global suboptimal levels of uptake for HF patients, global healthcare
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^3e2ed3fc]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^112bBxks]. Circulation (2023). Medium credibility.
 
 Future Directions
 
@@ -362,7 +362,7 @@ CR is an underused but highly beneficial intervention for people with CVD. Altho
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^ef7975d3]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^11782qb8]. JAMA Network Open (2024). High credibility.
 
 Table 1.
 Baseline Characteristics by Arm in the HYCARET
@@ -378,7 +378,7 @@ Results for each outcome of interest at each follow-up point in both arms are di
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^3de269d2]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^112akJ5X]. JAMA Network Open (2024). High credibility.
 
 Outcomes and Measures
 
@@ -386,7 +386,7 @@ The primary outcome for which noninferiority was evaluated was cardiovascular ev
 
 ---
 
-### Cardiac rehabilitation: a global perspective on where we have come and where We Must Go [^379d65ab]. JACC: Advances (2023). Medium credibility.
+### Cardiac rehabilitation: a global perspective on where we have come and where We Must Go [^112RTBqt]. JACC: Advances (2023). Medium credibility.
 
 We also seek to support emerging CR programs to develop high-quality services. ICCPR recently launched an International CR Registry, which already contains data from over 2,000 patients in all regions of the globe. This is now the ninth active CR registry around the world, but uniquely focuses on low-resource settings. Participating sites can be assessed for ICCPR Program Certification, demonstrating they meet internationally-agreed minimum standards. Again, this program certification is applicable to low-resource settings and complements the more advanced certifications available from our partners in the United Statesand Europe.
 
@@ -394,7 +394,7 @@ ICCPR is also supporting CR programs in delivering alternative, affordable model
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^4538b4eb]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^112mdCBU]. JAMA Network Open (2024). High credibility.
 
 The current trial contributes to the literature in several ways. It was designed with a noninferiority hypothesis, which distinguishes it from the previously mentioned trials, in which a superiority hypothesis was assumed and, in most cases, equivalence conclusions were reached. Also, from a more clinical point of view, fatal and nonfatal cardiovascular events served as the main outcome, and there was a long, 1-year follow-up; these are unique strengths in the cardiac rehabilitation and exercise field. Despite the need for CR being greater and resources being fewer (so that leveraging technology in CR may be more cost-effective) in low-resource settings, this is 1 of few hybrid CR trials conducted in a low-resource setting; CR interventions designed in higher-resource settings are generally not transferable for multilevel reasons. In the HYCARET model, the supervised phase minimized resource requirements (eg, professionals and equipment), and the latter, unsupervised phase was mobile telephone supported, which is potentially a more accessible, efficient, and feasible intervention for settings such as in Latin American countries.
 
@@ -404,7 +404,7 @@ This study has limitations, and caution is warranted when interpreting these res
 
 ---
 
-### Cardiac rehabilitation in older adults: new options [^48e2dc02]. Clinical Cardiology (2020). Medium credibility.
+### Cardiac rehabilitation in older adults: new options [^112s4JsK]. Clinical Cardiology (2020). Medium credibility.
 
 3 HYBRID CARDIAC REHABILITATION — CENTER BASED AND HOME BASED
 
@@ -414,7 +414,7 @@ A recent clinical trial which is currently enrolling participants is seeking to 
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^81b6cd32]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^114KJocd]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background
 
@@ -430,13 +430,13 @@ and hybridsignificantly improved functional capacity, but onlyimproved hr‐over
 
 ---
 
-### Cardiac rehabilitation in older adults: apropos yet significantly underutilized [^d1900d68]. Progress in Cardiovascular Diseases (2022). Medium credibility.
+### Cardiac rehabilitation in older adults: apropos yet significantly underutilized [^116MgoGK]. Progress in Cardiovascular Diseases (2022). Medium credibility.
 
 Cardiac Rehabilitation (CR) is a comprehensive disease management program that utilizes exercise training, behavioral modification, education, and psychosocial counseling to optimize outcomes and functionality in patients with cardiovascular disease (CVD) 1). While CR was initially designed as an exercise training and fitness program for younger patients, usually men, after debilitating hospitalizations for myocardial infarction or cardiac surgery, evidence has expanded to also include other types of CVD in women as well as men, including heart failure, valvular disease, and peripheral arterial disease 2–4). As the population of older adults continues to expand, age-related CVD is endemic and is commonly associated with exercise decline, diminished quality of life, and dependence. CR has the potential to counterbalance these patterns, and therefore stands out as a particularly important consideration for older adults with CVD. Nevertheless, CR remains highly underutilized 5, 6). Novel approaches to CR including home-based and hybrid CR programs show promise for enhanced outreach to patients who may not otherwise participate. This review summarizes the current data available regarding CR in older adults with CVD with a focus on geriatric-specific complexities, current barriers to utilization, and approaches to enhance participation and effectiveness.
 
 ---
 
-### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^6efc8091]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^113qYT92]. Journal of the American Heart Association (2024). Medium credibility.
 
 CONCLUSIONS
 
@@ -444,7 +444,7 @@ CR is a key component for secondary prevention of cardiovascular disease. Variou
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^8d097309]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^114c6Rpk]. JAMA Network Open (2024). High credibility.
 
 Other trials of hybrid CR are limited, particularly in low-income settings for patients with coronary conditions. Additionally, interventions vary widely and often cannot be directly compared with our study's approach given the inherently complex nature of CR. One of the first such studies in the US examined hybrid CR in 80 patients with low to moderate cardiac risk. The study's intervention, similar to ours but extended by 3 months (totaling 6 months), found that the low-cost hybrid model was as effective as a traditional CR protocol in physiological outcomes, exercise adherence, and program participation.
 
@@ -452,7 +452,7 @@ Two recent studies, also found similar conclusions regarding comparable effects 
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^5bcf4e07]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^113M7WGW]. BMJ Open Quality (2023). High credibility.
 
 Objectives
 
@@ -462,13 +462,13 @@ To achieve equal or more than 10% improvement in the peak exercise capacity afte
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^40390f09]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^112eDNdW]. JAMA Network Open (2024). High credibility.
 
 The study HYCARET was published by Pamela Seron and colleagues in 2024 in the journal JAMA Netw Open. This study is related to the following diseases: Coronary artery disease, ST-elevation myocardial infarction and Non-ST-elevation myocardial infarction. In the HYCARET study, the trial question was: is hybrid cardiac rehabilitation program noninferior to standard center-based cardiovascular rehabilitation in patients with cardiovascular events? In the HYCARET study, the study design was: multi-center, open label, RCT. In the HYCARET study, the population was: 191 patients (46 female, 145 male). The inclusion criteria were adults who had a cardiovascular event or procedure, no contraindications to exercise, and access to a mobile telephone. The key exclusion criteria were planned repeat cardiac or other procedure in the next 12 months; explicit contraindication to performing an exercise; comorbidities interfering with the ability to engage in cardiac rehabilitation; a musculoskeletal disease precluding from performing an exercise. In the HYCARET study, the interventions were: n = 93 hybrid cardiac rehabilitation (10 supervised sessions of exercise plus counseling and phone follow-up) n = 98 standard cardiac rehabilitation (20 supervised sessions of exercise and 1 group education). In the HYCARET study, the primary outcome was: difference not exceeding non-inferiority margin in cardiovascular events or death by the end of follow-up (5.38% vs. 9.18%; RR 0.59, 95% CI 0.2 to 1.68). In the HYCARET study, the secondary outcomes were: no significant difference in heart QoL-global (2.61 vs. 2.56; MD 0.06, 95% CI -0.22 to 0.11) No significant difference in EuroQol 5-Dimension VAS (77.65 vs. 75.43; MD 2.22, 95% CI -8.12 to 3.69) No significant difference in exercise capacity in 6MWD (555.26 meters vs. 529.12 meters; MD 26.12, 95% CI -26.34 to 78.59). In the HYCARET study, the conclusion was: in adults who had a cardiovascular event or procedure, no contraindications to exercise, and access to a mobile telephone, hybrid cardiac rehabilitation was noninferior to standard cardiac rehabilitation with respect to cardiovascular events or death by the end of follow-up.
 
 ---
 
-### The impact of ICCPR's global audit of cardiac rehabilitation: where are we now and where do we need to go? [^cfe2c879]. EClinicalMedicine (2023). Medium credibility.
+### The impact of ICCPR's global audit of cardiac rehabilitation: where are we now and where do we need to go? [^116KCcRe]. EClinicalMedicine (2023). Medium credibility.
 
 Follow-up research included addressing issues such as model delivery (e.g. home/technology-based, dose, women-focused programming) and CR costs/funding, as well as many region-specific publications delving into how CR availability and services differ and what we can learn from high-performing regions. For the first time, policy-makers, insurance companies and care providers were made aware of their CR status and could compare this regionally and internationally, inciting efforts to improve delivery and care.
 
@@ -478,19 +478,19 @@ It is daunting to consider how to address the tremendous gap in CR capacity, par
 
 ---
 
-### Cardiac rehabilitation: indications, benefits, and new approaches [^5a62c202]. American Family Physician (2025). High credibility.
+### Cardiac rehabilitation: indications, benefits, and new approaches [^113K14Kb]. American Family Physician (2025). High credibility.
 
 Regarding follow-up and surveillance for non-ST-elevation myocardial infarction, more specifically with respect to cardiac rehabilitation, AAFP 2025 guidelines recommend to recognize that post-coronary heart disease, patients benefit from virtual, hybrid, or in-person cardiac rehabilitation programs.
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^500e129c]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^1133gjhm]. JAMA Network Open (2024). High credibility.
 
 For the main outcome of recurrent cardiovascular events, noninferiority was detected in the ITT analysis, where the upper limit of the 95% CI was 3.52%, not exceeding the noninferiority limit of 5%. This was not the case in the PP analysis, in which the greater the adherence to the intervention, the further away from the no-effect threshold the point estimate of the ARD was found and the further away from the noninferiority threshold of the upper limit of the 95% CI was found (eg, 20% adherence: ARD, −0.35% [95% CI, −7.56% to 6.85%]; 80% adherence: ARD, 3.30% [95% CI, −3.70% to 10.31%]). Figure 2 shows the findings derived from the TOST procedure for both ITT and PP analyses at different levels of adherence to attending supervised CR sessions. Participants in the hybrid CR group had 3.80% (95% CI, –11.13% to 3.52%) fewer cardiovascular events than participants in the standard CR group, and relative risk was 0.59 (95% CI, 0.20–1.68) for the primary outcome. In the worst scenario (upper limit of the 95% CI), participants receiving hybrid CR had a 3.52% higher likelihood of experiencing an event, but this was lower than the 5% established as the noninferiority threshold, indicating that hybrid CR was not inferior to standard CR according to the ITT analysis. The PP analysis showed that all point estimates did not exceed the noninferiority threshold but the upper limits of the 95% CIs exceeded the threshold, indicating that in some patients, the hybrid CR was inferior to the standard CR. Finally, the HR for the ITT analysis was 0.67 (95% CI, 0.22–2.06), with censoring of 5.38% for the hybrid CR arm vs 9.18% for the standard CR arm (P = 0.31).
 
 ---
 
-### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^54428e62]. Open Heart (2022). Medium credibility.
+### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^1139vKHs]. Open Heart (2022). Medium credibility.
 
 Implementing a range of different ExCR modes in clinical practice — including hybrid options — could be important to maximise uptake rates and adherence by meeting a wide range of participant needs and preferences, and safety concerns. Hybrid ExCR could be done in any order/sequence to form a cohesive and comprehensive CR programme. This may be particularly beneficial for people who experience challenges accessing CB programmes, but risk stratification indicates a need for direct supervision by a healthcare professional. For instance, initial CB sessions could be undertaken to manage physical and psychosocial risks, increase participation in group education sessions, and tailor the exercise regimen based on direct observation. When appropriate, subsequent transition into TEcould aid adherence by reducing accessibility challenges while preserving a level of supervision and monitoring.
 
@@ -498,7 +498,7 @@ In addition to the relative effect estimates, we also reported cumulative rankin
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^968e70b8]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^114rCzET]. BMJ Open Quality (2023). High credibility.
 
 Rationale
 
@@ -506,7 +506,7 @@ There is a positive association reported between time of enrolment, total number
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^ad65ad1f]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^115S51Zp]. Journal of the American Heart Association (2019). Medium credibility.
 
 Hybrid CR versus usual care
 
@@ -521,7 +521,7 @@ Five studies, involving 314 participants (n = 166, HBCR; n = 148, CBCR), compare
 
 ---
 
-### Exercise training characteristics in cardiac rehabilitation programmes: a cross-sectional survey of Australian practice [^a57ecd49]. Open Heart (2016). Low credibility.
+### Exercise training characteristics in cardiac rehabilitation programmes: a cross-sectional survey of Australian practice [^115EMYoJ]. Open Heart (2016). Low credibility.
 
 While flexible models are strongly advocated, this approach also comes with the important caveat that providers ensure that all components delivered, including exercise training, meet the minimum level required to achieve benefit. In the deconditioned populations most often attending CR, benefits may occur with relatively small amounts of training, however, it is still concerning that a large proportion of Australian programmes are only able to offer formal exercise sessions once per week. While evidence suggests that 'hybrid' programmes containing one formal weekly group session with two additional and equivalent home-based sessions, may be just as effective as three hospital-based sessions, it is not clear if Australian programmes are providing equivalent home-based sessions. In our study, only one-third reported formally monitoring or encouraging exercise outside of prescribed classes. To reap the full potential of exercise training, programmes should take an active role in providing participants with a detailed and individualised exercise prescription for use outside of formal sessions (based on risk and functional status), and routinely monitor and encourage its use. While Australian programmes currently meet the majority of exercise recommendations prescribed in their own nominal guidelines, it is also pertinent to examine further whether the 'real-life provision' of exercise training in Australian CR, like that in the UK, fails to meet the levels observed in RCTs and recommended in international clinical guidelines.
 
@@ -531,13 +531,13 @@ A major strength of this study is its high response rate with 86% of all known C
 
 ---
 
-### Cardiac rehabilitation: indications, benefits, and new approaches [^2b08dea3]. American Family Physician (2025). High credibility.
+### Cardiac rehabilitation: indications, benefits, and new approaches [^1126oSux]. American Family Physician (2025). High credibility.
 
 Regarding follow-up and surveillance for ST-elevation myocardial infarction, more specifically with respect to cardiac rehabilitation, AAFP 2025 guidelines recommend to recognize that post-coronary heart disease, patients benefit from virtual, hybrid, or in-person cardiac rehabilitation programs.
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^6491d02f]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^113a6jrN]. Journal of the American Heart Association (2019). Medium credibility.
 
 Cardiac hospitalization
 
@@ -555,13 +555,13 @@ None of the studies reported cardiac hospitalizations.
 
 ---
 
-### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^3f01eedb]. Circulation (2025). High credibility.
+### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^112cQsQv]. Circulation (2025). High credibility.
 
 Opportunities to enhance cardiac rehabilitation (CR) for women — next steps — are proposed to increase referral, participation, and completion among women. The statement specifies that programs "should be culturally competent and tailored to address the needs of women from underrepresented racial or ethnic groups" and that "Implementation of health equity metrics in CR is essential to highlight program-specific inequities and address logistical barriers to improve participation rates". It further notes "we propose the following steps to increase CR referral, participation, and completion among women", including increasing awareness and referrals by educating women on CR benefits, empowering participation, and using automatic referral systems with case management to ensure all eligible women receive a CR recommendation; expanding access via flexible schedules and hybrid in-person/virtual models, advocating for insurance coverage for alternative, flexible models, and striving to have the proportion of women in CR reflect the proportion of women with the cardiovascular diseases (CVDs) addressed; providing gender- and culturally sensitive programming and community partnerships inclusive of women from underrepresented racial or ethnic groups and tailored to cultural and socioeconomic contexts; and providing tailored support through mental health and peer support programs for women with CVDs and administering tailored exercise prescriptions.
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^f8a637b3]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^117Mdm4v]. BMJ Open Quality (2023). High credibility.
 
 Conclusion
 
@@ -569,7 +569,7 @@ HCRP2-EP is well accepted by male patients and clinicians as a feasible, cost-sa
 
 ---
 
-### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^1339b20b]. JAMA Network Open (2024). High credibility.
+### Hybrid cardiac rehabilitation program in a low-resource setting: a randomized clinical trial [^111VW9MU]. JAMA Network Open (2024). High credibility.
 
 Sample Size Calculation
 
@@ -583,13 +583,13 @@ To test the secondary outcomes, both the ARD and RR were estimated for binary ou
 
 ---
 
-### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^4d823439]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^112yunH6]. Journal of the American Heart Association (2024). Medium credibility.
 
 Cardiac rehabilitation (CR) is a well‐established program for secondary prevention of cardiovascular disease. CR is a multimodal intervention that includes education, medication adherence promotion, risk factor management, nutritional counseling, psychosocial support, and structured exercise for patients with myocardial infarction, heart failure, stable angina, or following cardiac surgeries or catheter‐based valve replacement procedures (eg, transcatheter aortic valve replacement). Patients who complete CR have lower mortality and hospitalizations as well as improved functional status and quality of life. Additionally, CR is generally considered cost‐effective based on current studies. Given these benefits, CR is given a class 1A recommendation by the American Heart Association, the American College of Cardiology, and the European Society of Cardiology. However, a significant gap remains in CR participation rates; among Medicare beneficiaries in 2017, only 8% of patients were able to complete the recommended number of CR sessions. Furthermore, there are significant disparities in referral and participation that occur based on race, sex, and socioeconomic status. Barriers to patient participation include transportation issues, work responsibilities, and financial and time constraints. To address these issues, the American Association of Cardiovascular and Pulmonary Rehabilitation, American Heart Association, and American College of Cardiology and national quality improvement initiatives, notably the Million Hearts initiative and the Agency for Healthcare Research and Quality TAKEheart initiative, have endorsed home‐based CR and hybrid delivery models to improve access to CR. Herein, we offer our perspective on current and future models of CR, and how technology may enable innovative models of CR to enhance health equity.
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^a9fd57ed]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^115M219v]. Journal of the American Heart Association (2019). Medium credibility.
 
 Discussion
 
@@ -604,7 +604,7 @@ Different HBCR models have been implemented safely in the past across different 
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^1d83d8f5]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^111kkvma]. Journal of the American Heart Association (2019). Medium credibility.
 
 Introduction
 
@@ -612,7 +612,7 @@ Center‐based cardiac rehabilitation (CBCR) is safe and has been shown to impro
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^db65172d]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^116cGF7r]. Journal of the American Heart Association (2019). Medium credibility.
 
 Methods
 
@@ -638,7 +638,7 @@ We performed the search on January 31, 2019, in CENTRAL (Cochrane Library; 1944 
 
 ---
 
-### Early hybrid cardiac rehabilitation in congenital heart disease: the QUALIREHAB trial [^4ef8d48b]. European Heart Journal (2024). Medium credibility.
+### Early hybrid cardiac rehabilitation in congenital heart disease: the QUALIREHAB trial [^11325cav]. European Heart Journal (2024). Medium credibility.
 
 The holistic approach of the QUALIREHAB programme may explain why intervention-related benefits seen in the trial exceeded previously reported values for the minimal clinically important difference. Indeed, the mean HRQoL group difference in ITT analysis (+3.8) was close to the reported minimal clinically important difference for the PedsQL instrument (+4.3)and even exceeded this limit in the per-protocol analysis (+5.2). This holistic nature of the intervention may have also contributed to the positive effects on multidimensional levels of HRQoL (physical health, social functioning, and proxy reports).
 
@@ -646,7 +646,7 @@ The significant mean increase of 3 mL/kg/min in VO₂max observed after the reha
 
 ---
 
-### Effects of cardiac rehabilitation in low-and middle-income countries: a systematic review and meta-analysis of randomised controlled trials [^cc495fe4]. Progress in Cardiovascular Diseases (2021). Medium credibility.
+### Effects of cardiac rehabilitation in low-and middle-income countries: a systematic review and meta-analysis of randomised controlled trials [^116Ds7wZ]. Progress in Cardiovascular Diseases (2021). Medium credibility.
 
 Discussion
 
@@ -656,13 +656,13 @@ The nature of the CR programs in these trials in LMICs are consistent with that 
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^89dd1814]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^114XPZsH]. Journal of the American Heart Association (2019). Medium credibility.
 
 Background Center-based cardiac rehabilitation (CBCR) has been shown to improve outcomes in patients with heart failure (HF). Home-based cardiac rehabilitation (HBCR) can be an alternative to increase access for patients who cannot participate in CBCR. Hybrid cardiac rehabilitation (CR) combines short-term CBCR with HBCR, potentially allowing both flexibility and rigor. However, recent data comparing these initiatives have not been synthesized. Methods and Results We performed a meta-analysis to compare functional capacity and health-related quality of life (hr-QOL) outcomes in HF for (1) HBCR and usual care, (2) hybrid CR and usual care, and (3) HBCR and CBCR. A systematic search in 5 standard databases for randomized controlled trials was performed through January 31, 2019. Summary estimates were pooled using fixed- or random-effects (when I² > 50%) meta-analyses. Standardized mean differences (95% CI) were used for distinct hr-QOL tools. We identified 31 randomized controlled trials with a total of 1791 HF participants. Among 18 studies that compared HBCR and usual care, participants in HBCR had improvement of peak oxygen uptake (2.39 mL/kg per minute; 95% CI, 0.28–4.49) and hr-QOL (16 studies; standardized mean difference: 0.38; 95% CI, 0.19–0.57). Nine RCTs that compared hybrid CR with usual care showed that hybrid CR had greater improvements in peak oxygen uptake (9.72 mL/kg per minute; 95% CI, 5.12–14.33) but not in hr-QOL (2 studies; standardized mean difference: 0.67; 95% CI, -0.20 to 1.54). Five studies comparing HBCR with CBCR showed similar improvements in functional capacity (0.0 mL/kg per minute; 95% CI, -1.93 to 1.92) and hr-QOL (4 studies; standardized mean difference: 0.11; 95% CI, -0.12 to 0.34). Conclusions HBCR and hybrid CR significantly improved functional capacity, but only HBCR improved hr-QOL over usual care. However, both are potential alternatives for patients who are not suitable for CBCR.
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^6fd2738a]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^113rnKCm]. BMJ Open Quality (2023). High credibility.
 
 Aim statement
 
@@ -670,7 +670,7 @@ To enrol 70% of eligible patients into HCRP2-EP at our cardiac centre by 30 Sept
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^56af66e3]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^113DWrLi]. Circulation (2023). Medium credibility.
 
 CR has historically been delivered by hospital outpatient providers or physician offices. Entrepreneurs have recently launched virtual CR programs in which the physician refers the patient to the virtual CR program and the patient participates in virtual CR visits with CR staff employed by the third-party program. There have been no published data on the efficacy or safety of these third-party programs.
 
@@ -678,7 +678,7 @@ CR is an individualized, patient-centered program. The future of CR will likely 
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^c8cb43d4]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^1168goHM]. BMJ Open Quality (2023). High credibility.
 
 Inclusion criteria
 
@@ -686,7 +686,7 @@ All CVD patients with a diagnosis of acute coronary syndrome (ST-elevation myoca
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^e2ae9c06]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^116o4rMb]. BMJ Open Quality (2023). High credibility.
 
 Lessons learned
 
@@ -698,19 +698,19 @@ HCRP2-EP affords another option for CR delivery, which may enhance participation
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1874a70d]. Circulation (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111dFtLc]. Circulation (2025). High credibility.
 
 Cardiac rehabilitation (CR) after ACS — patients "should be referred to CR during hospitalization for ACS and prior to discharge". Exercise-based CR benefits include that "Exercise-based CR programs are associated with improved survival and reduced risk of reinfarction in patients after AMI", and "Patients with ACS who participate in CR have significantly better outcomes compared with those who do not". Evidence cited notes, "In a meta-analysis of 85 RCTs of exercise-based CR in patients with coronary heart disease, the intervention reduced risk of MI, reduced all-cause hospitalization, reduced health care costs, and improved health-related QOL outcomes over 12 months of follow-up", and "Longer follow-up suggested reductions in cardiovascular mortality". Older adults are highlighted: "CR is particularly beneficial in older patients with CAD, a group that is at a higher risk of losing independence and functioning". For access and models of delivery, "To improve access for patients who live in rural locations and in areas with no center-based CR, home-based CR options should be considered", and "A review of 23 RCTs of home- and center-based CR found that these programs tend to implement the same core components", with "a similar improvement in QOL and no statistically significant difference in the all-cause mortality rate up to 12 months after the intervention". The page adds that "Hybrid models that combine elements of both center- and home-based programs may also offer benefits".
 
 ---
 
-### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^36fde556]. Circulation (2023). High credibility.
+### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^112QXcWR]. Circulation (2023). High credibility.
 
 Chronic coronary disease — evidence gaps in equity, personalized medicine, and rehabilitation note that research is needed to understand whether therapy efficacy is uniform across men and women and across various racial and ethnic groups traditionally underrepresented in trials; further research is needed to assess personalized medicine approaches, including artificial intelligence, text messaging, wearable technology, genomics, and proteomics to improve risk assessment and treatment; and additional research is needed to assess the effect of hybrid cardiac rehabilitation (CR) and home-based CR on longer-term outcomes and across subgroups including women, older adults, and underrepresented racial and ethnic groups.
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^ea384c35]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^116zF1iC]. Journal of the American Heart Association (2019). Medium credibility.
 
 Results
 
@@ -733,13 +733,13 @@ Functional capacity
 
 ---
 
-### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^cd3f68d3]. Journal of the American Heart Association (2023). Medium credibility.
+### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^116FHm62]. Journal of the American Heart Association (2023). Medium credibility.
 
 We will conduct a hybrid type 1 effectiveness‐implementation randomized controlled trial that aims to expand on our prior studies by directly comparing Destination Cardiac Rehab with CBCR with a particular focus on recruiting participants from populations with historically lower access to CR (ie, priority populations). The objectives of this study are encompassed into 2 specific aims: (1) to evaluate the efficacy of Destination Cardiac Rehab on cardiovascular health (CVH) compared with CBCR and (2) to compare participation and adherence to Destination Cardiac Rehab versus CBCR. We hypothesize that Destination Cardiac Rehab will demonstrate noninferior efficacy and higher adherence rates compared with those of traditional CR. Study participants, CR staff, and key stakeholders will participate in postintervention focus groups (FGs) to inform future scalability efforts.
 
 ---
 
-### Early hybrid cardiac rehabilitation in congenital heart disease: the QUALIREHAB trial [^2b3094e5]. European Heart Journal (2024). Medium credibility.
+### Early hybrid cardiac rehabilitation in congenital heart disease: the QUALIREHAB trial [^11272nZi]. European Heart Journal (2024). Medium credibility.
 
 Background and Aims
 
@@ -759,19 +759,19 @@ This early hybrid cardiac rehabilitation programme improved HRQoL, body mass ind
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^39ecf5a4]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^112UstQb]. Journal of the American Heart Association (2019). Medium credibility.
 
 Our analysis has limitations. Similar to other meta‐analyses, our results relied on the quality and detail of reporting, which were somewhat heterogeneous and may have contributed to the degree of heterogeneity observed in our pooled analyses. Nonetheless, subgroup and bias analyses suggest that single studies were unlikely to have altered our overall results. Next, the majority of the included studies were of patients with stable HF with reduced ejection fraction; therefore, extrapolation of the findings to patients with HF with preserved ejection should be done with caution. We performed subgroup analyses to distinguish these effects before generating the pooled estimates. Finally, most studies did not report or incompletely reported clinical outcomes or had no adverse events because of short and variable follow‐up periods. Future RCTs should be designed to assess long‐term clinical outcomes of HBCR and hybrid CR in predefined follow‐up periods.
 
 ---
 
-### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^e4765cff]. Circulation (2025). High credibility.
+### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^116qhw9x]. Circulation (2025). High credibility.
 
 Cardiac rehabilitation in women — nontraditional delivery models using digital technologies: Remote or virtual CR incorporating digital technologies, either alone or as part of hybrid programs, achieves similar improvements in functional capacity as in-person CR; a second study randomized patients to in-person CR or a hybrid model (32% women), and the number of completed CR sessions as well as exercise capacity and health status were similar at 6 months; another randomized study in women compared in-person mixed-gender, in-person women-only, and a hybrid program with 3 in-person visits followed by home-based exercises supported by telephone calls and found no differences in adherence to CR or functional capacity; studies are limited by heterogeneous designs and underrepresentation of women, potential disadvantages include lower levels of peer support and focus on moderate-intensity aerobic exercise, and future nontraditional delivery models of CR should consider tailored interventions to reduce sedentary time on the basis of sex-specific patterns and behaviors.
 
 ---
 
-### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^feb737ce]. Open Heart (2022). Medium credibility.
+### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^117WdPxH]. Open Heart (2022). Medium credibility.
 
 Background
 
@@ -787,13 +787,13 @@ ExCR programmes have broader benefits for people with HF and since different del
 
 ---
 
-### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^e4a7f419]. Circulation (2025). High credibility.
+### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^116qzbFW]. Circulation (2025). High credibility.
 
 Cardiac rehabilitation in women — program- or health system–related barriers and solutions target referral systems, clinician recommendation, financial barriers, exercise preferences, and scheduling. The table specifies to "Implement automatic CR referral systems and case management strategies to ensure consistent CR referral" and to "Educate health care professionals on the benefits of CR for women". To address financial constraints, actions include "Offer hybrid or virtual-only education programs and exercise sessions", "Explore alternative payment models to reduce cost and improve CR uptake", "Advocate for broader insurance coverage of in-person and telehealth CR and financial assistance programs", and "Explore transportation assistance to decrease the cost burden of transportation to and from CR centers". Preference and schedule accommodations are addressed by "Provide alternate forms of exercise as options, such as dancing, yoga, or tai chi (recognizing that the effect of these alternate exercise routines on CVD outcomes are largely unknown)" and "Offer flexible options for timing (eg, early morning, evening, weekend)".
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^9b05ae9a]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^114xpzNm]. Journal of the American Heart Association (2019). Medium credibility.
 
 Hybrid CR is a novel model that can provide increased monitoring opportunities during the initial exercise training phase for patients who cannot successfully or safely exercise without direct monitoring by a healthcare professional. The obstacles to exercise may not always be physical and may include psychosocial concerns. 58 In hybrid CR, initial sessions at the CBCR setting can address psychosocial health in susceptible individuals, increase participation in group education sessions, and tailor the exercise regimen based on direct observation. Although the effect size of functional improvement appeared to be higher in hybrid CR versus HBCR, this has not been evaluated against HBCR or CBCR in head‐to‐head comparisons for a definitive conclusion. Future RCTs should address this knowledge gap.
 
@@ -801,13 +801,13 @@ Although our results showed that HBCR improved functional capacity and hr‐QOL 
 
 ---
 
-### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^a954854e]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 ACC / AHA / ACEP / NAEMSP / SCAI guideline for the management of patients with acute coronary syndromes: a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^115L3JDs]. Journal of the American College of Cardiology (2025). High credibility.
 
 Cardiac rehabilitation (CR) after acute coronary syndromes (ACS) — patients should be referred to CR during hospitalization for ACS and prior to discharge. Exercise-based CR programs are associated with improved survival and reduced risk of reinfarction in patients after acute myocardial infarction (AMI), and patients with ACS who participate in CR have significantly better outcomes compared with those who do not. In a meta-analysis of 85 randomized controlled trials (RCTs) of exercise-based CR in coronary heart disease, the intervention reduced risk of myocardial infarction (MI), reduced all-cause hospitalization, reduced health care costs, and improved health-related quality of life (QOL) outcomes over 12 months of follow-up, with longer follow-up suggesting reductions in cardiovascular mortality; CR is particularly beneficial in older patients with coronary artery disease (CAD). To improve access, home-based CR options should be considered; a review of 23 RCTs of home- and center-based CR found programs tend to implement the same core components, and comparison of studies indicated a similar improvement in QOL and no statistically significant difference in the all-cause mortality rate up to 12 months after the intervention. Center-based CR requires patients to be physically present at a hospital or outpatient facility, which limits access for many patients, especially women and some racial and ethnic groups, and hybrid models that combine elements of both center- and home-based programs may also offer benefits.
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^0471c1d3]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^1117bAJ6]. Journal of the American Heart Association (2019). Medium credibility.
 
 HBCR versus usual care
 
@@ -818,7 +818,7 @@ Functional capacity significantly improved in home‐based cardiac rehabilitatio
 
 ---
 
-### Completeness of intervention reporting in randomised trials of technology-enabled remote or hybrid exercise-based cardiac rehabilitation: a systematic review using the TIDieR framework [^042708d7]. Disability and Rehabilitation (2024). Medium credibility.
+### Completeness of intervention reporting in randomised trials of technology-enabled remote or hybrid exercise-based cardiac rehabilitation: a systematic review using the TIDieR framework [^1117A4ai]. Disability and Rehabilitation (2024). Medium credibility.
 
 Background
 
@@ -838,7 +838,7 @@ Technology-enabled remotely delivered cardiac rehabilitation may be effective at
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^932008b3]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^114m7wVt]. Journal of the American Heart Association (2019). Medium credibility.
 
 All‐cause hospitalization
 
@@ -856,7 +856,7 @@ Only Piotrowicz et al (n = 75, HBCR; n = 56, CBCR) reported all‐cause hospital
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^395d3a1e]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^112U3cGm]. Circulation (2023). Medium credibility.
 
 Delivery Models and Technology
 
@@ -868,7 +868,7 @@ Many examples of new delivery models are emerging. A recent study found similar 
 
 ---
 
-### Virtual and in-person cardiac rehabilitation [^0192a123]. BMJ (2021). Excellent credibility.
+### Virtual and in-person cardiac rehabilitation [^1113LErW]. BMJ (2021). Excellent credibility.
 
 What you need to know
 
@@ -882,7 +882,7 @@ Before the covid-19 pandemic, 100 000 people were admitted to hospital with hear
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^4e6ef4db]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^1131HJb4]. Journal of the American Heart Association (2019). Medium credibility.
 
 Search
 
@@ -892,7 +892,7 @@ Of the 53 studies eligible for review, 22 studies were excluded after complete r
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^3aa1cb06]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^112VvdL1]. Circulation (2023). Medium credibility.
 
 Although in an early stage of development, use of technology in CR delivery can enable a program to offer a flexible and patient-centered hybrid program with both in-person and virtual/remote options. In the virtual model, synchronous audiovisual technology is used to supervise patient exercise and to provide education in real-time. Synchronous interventions could also be used to improve access to CR services, such as consultation with a registered dietitian for weight management or with a behavioral therapist for smoking cessation. An asynchronous remote model may also be offered using wearable and smartphone-based technology to monitor exercise sessions and deliver patient education.
 
@@ -904,7 +904,7 @@ Patient education is both a core component of CR and infused throughout the inte
 
 ---
 
-### Cardiac rehabilitation and secondary prevention of CVD: time to think about cardiovascular health rather than rehabilitation [^79193376]. NPJ Cardiovascular Health (2024). Medium credibility.
+### Cardiac rehabilitation and secondary prevention of CVD: time to think about cardiovascular health rather than rehabilitation [^1146Xy49]. NPJ Cardiovascular Health (2024). Medium credibility.
 
 Five x P's for consideration in reframing 'cardiac rehabilitation'
 
@@ -922,13 +922,13 @@ Enhancing and implementing processes and systems for capturing and using data wo
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^ad85739e]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^115SFgbo]. BMJ Open Quality (2023). High credibility.
 
 The COVID-19 pandemic resulted in the cessation of approximately 75% of cardiac rehabilitation (CR) programmes worldwide. In March 2020, CR phase II (CRP2) services were stopped in Qatar. Multiple studies had shown safety, effectiveness, reduced cost of delivery and improved participation with hybrid CR. A multidisciplinary team reviewed various alternative models for delivery and decided to implement a hybrid CRP2 exercise programme (HCRP2-EP) to ensure continuation of our patient care. Our aim was to enrol in the HCRP2-EP 70% of all eligible patients by 30 September 2020. Institute for Health Care Improvement's collaborative model was adopted. Multiple plan–do–study–act cycles were used to test change ideas. The outcomes of the project were analysed using standard run chart rules to detect the changes in outcomes over time. This project was implemented from March 2020, and the male patients enrolled between August 2020 and April 2021, with sustained monthly median enrolment above target of 70% throughout. As for our secondary outcome, 75.8% of the male patients who completed HCRP2-EP showed a meaningful change in peak exercise capacity of ≥ 10% (mean change 17% ± 6%). There were no major adverse events reported, and the median Patient Satisfaction Score was 96% well above the institutional target of 90%. This shows a well-designed quality improvement programme is an appropriate strategy for implementing HCRP2-EP in a clinical setting, and HCRP2-EP is a feasible, effective and safe intervention in eligible male patients with cardiovascular disease.
 
 ---
 
-### Spotlight: UCHealth memorial hospital-million hearts ®… [^557b086c]. millionhearts.hhs.gov (2022). Medium credibility.
+### Spotlight: UCHealth memorial hospital-million hearts ®… [^113BjGq1]. millionhearts.hhs.gov (2022). Medium credibility.
 
 UCHealth Memorial Hospital is dedicated to improving the heart health of patients, employees, and the communities it serves. Memorial Central and Memorial North are stellar examples of what a hospital or health system can do to prevent heart attacks and strokes for their patients. Strategies for Success UCHealth Memorial, which referred approximately 68% of eligible patients in 2021 to cardiac rehabilitation, continues to focus on improving their referral rates. They have implemented automated referrals through order sets, have hired a dedicated nurse to improve the referral process and communication with staff, and offer patients three locations to increase convenience for patients. With funding from CDC through the Colorado Department of Public Health and Environment, UCHealth Memorial Hospital developed a hybrid cardiac rehabilitation program.
 
@@ -938,7 +938,7 @@ Besides their work in cardiac rehabilitation, UCHealth Memorial Hospital has mad
 
 ---
 
-### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^9eed4ba5]. Open Heart (2022). Medium credibility.
+### Effects of exercise-based cardiac rehabilitation delivery modes on exercise capacity and health-related quality of life in heart failure: a systematic review and network meta-analysis [^1154ckR2]. Open Heart (2022). Medium credibility.
 
 Background
 
@@ -954,19 +954,19 @@ The aim of this systematic review and NMA was to compare the relative effectiven
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^400f5256]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^112dyMXT]. Circulation (2023). Medium credibility.
 
 Cardiac rehabilitation (CR) is a guideline-recommended, multidisciplinary program of exercise training, risk factor management, and psychosocial counseling for people with cardiovascular disease (CVD) that is beneficial but underused and with substantial disparities in referral, access, and participation. The emergence of new virtual and remote delivery models has the potential to improve access to and participation in CR and ultimately improve outcomes for people with CVD. Although data suggest that new delivery models for CR have safety and efficacy similar to traditional in-person CR, questions remain regarding which participants are most likely to benefit from these models, how and where such programs should be delivered, and their effect on outcomes in diverse populations. In this review, we describe important gaps in evidence, identify relevant research questions, and propose strategies for addressing them. We highlight 4 research priorities: (1) including diverse populations in all CR research; (2) leveraging implementation methodologies to enhance equitable delivery of CR; (3) clarifying which populations are most likely to benefit from virtual and remote CR; and (4) comparing traditional in-person CR with virtual and remote CR in diverse populations using multicenter studies of important clinical, psychosocial, and cost-effectiveness outcomes that are relevant to patients, caregivers, providers, health systems, and payors. By framing these important questions, we hope to advance toward a goal of delivering high-quality CR to as many people as possible to improve outcomes in those with CVD.
 
 ---
 
-### The iATTEND trial: a trial comparing hybrid versus standard cardiac rehabilitation [^ddefd0ba]. The American Journal of Cardiology (2024). Medium credibility.
+### The iATTEND trial: a trial comparing hybrid versus standard cardiac rehabilitation [^116g2pG1]. The American Journal of Cardiology (2024). Medium credibility.
 
 The improving ATTENDance (iATTEND) to cardiac rehabilitation (CR) trial tested the hypotheses that hybrid CR (HYCR) (combination of virtual and in-facility CR sessions) would result in greater attendance compared with traditional, facility-based only CR (FBCR) and yield equivalent improvements in exercise capacity and health status. Patients were randomized to HYCR (n = 142) or FBCR (n = 140), stratified by gender and race. Attendance was assessed as number of CR sessions completed within 6 months (primary end point) and the percentage of patients completing 36 CR sessions. Other end points (tested for equivalency) included exercise capacity and self-reported health status. HYCR patients completed 1 to 12 sessions in-facility, with the balance completed virtually using synchronized, 2-way audiovisual technology. Neither total number of CR sessions completed within 6 months (29 ± 12 vs 28 ± 12 visits, adjusted p = 0.94) nor percentage of patients completing 36 sessions (59 ± 4% vs 51 ± 4%, adjusted p = 0.32) were significantly different between HYCR and FBCR, respectively. The between-group changes for exercise capacity (peak oxygen uptake, 6-minute walk distance) and health status were equivalent. Regarding safety, no sessions required physician involvement, there was 1 major adverse event after a virtual session, and no falls required medical attention. In conclusion, although we rejected our primary hypothesis that attendance would be greater with HYCR versus FBCR, we showed that FBCR and HYCR resulted in similar patient attendance patterns and equivalent improvements in exercise capacity and health status. HYCR which incorporates virtually supervised exercise should be considered an acceptable alternative to FBCR. NCT Identifier: 03646760; The Improving ATTENDance to Cardiac Rehabilitation Trial - Full-Text View - ClinicalTrials. gov; https://classic.clinicaltrials.gov/ct2/show/NCT03646760.
 
 ---
 
-### "Road map" to improving enrollment in cardiac rehabilitation: identifying barriers and evaluating alternatives [^f7c12fa3]. Journal of the American Heart Association (2017). Low credibility.
+### "Road map" to improving enrollment in cardiac rehabilitation: identifying barriers and evaluating alternatives [^117LJqB8]. Journal of the American Heart Association (2017). Low credibility.
 
 As with the Million Hearts Cardiac Rehabilitation Collaborative, most initiatives to address the CR paradox — vast underutilization despite demonstrated benefit — have focused on increasing participation in CR. It should be noted, however, that CR programs in the United States currently lack capacity to accommodate a national enrollment rate of 70% as well as improved CR adherence. Furthermore, achieving 70% CR participation still leaves 30% of the population — perhaps concentrated in lower socioeconomic areas — unaccounted for with respect to evidenced‐based approaches for rehabilitation following acute coronary care. These and other considerations have spurred efforts to develop "alternatives" to CR, including home‐based rehabilitation programs, and hybrid approaches using mobile technologies for remote health monitoring. 11
 
@@ -974,19 +974,19 @@ In the current issue of JAHA, Salmoirago‐Blotcher et al, provide data from an 
 
 ---
 
-### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^1e646884]. The Journal of Heart and Lung Transplantation (2023). High credibility.
+### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^111n4MZm]. The Journal of Heart and Lung Transplantation (2023). High credibility.
 
 ISHLT Topic 3 — Home-based and hybrid cardiac rehabilitation and mobile health after heart transplantation — notes that home-based cardiac rehabilitation (HBCR) can be an alternative to increase access for selected clinically stable low- to moderate-risk HT patients who cannot participate in center-based cardiac rehabilitation (CBCR). HBCR is recommended as an alternative to CBCR in HT patients to improve functional capacity and health-related quality of life. Hybrid cardiac rehabilitation (HCR), a combination of short-term CBCR with HBCR, should be considered in HT recipients and can also be used as an alternative to CBCR to improve functional capacity (Class I, Level of Evidence: B). Mobile health for assessing, promoting, and monitoring physical activity and fitness should be considered in HT recipients (Class IIa, Level of Evidence B).
 
 ---
 
-### Cardiac rehabilitation: indications, benefits, and new approaches [^f31f2e9a]. American Family Physician (2025). Medium credibility.
+### Cardiac rehabilitation: indications, benefits, and new approaches [^117DSTxM]. American Family Physician (2025). Medium credibility.
 
 Cardiac rehabilitation consists of comprehensive risk factor reduction with demonstrated effectiveness in combating cardiovascular disease. The American Heart Association defines cardiac rehabilitation as a supervised program to improve cardiovascular health through a combination of exercise, education, and emotional counseling for those who have had a myocardial infarction, heart failure, angioplasty, or heart surgery. Cardiac rehabilitation programs involve evaluations by a team of specialists, structured exercise, and lifestyle risk factor modification, and a focus on long-term goals to improve overall health and reduce coronary heart disease morbidity and mortality. Family physicians play a vital role in ensuring that patients are connected to and complete cardiac rehabilitation training because the program remains underused nationwide. After a coronary heart disease event and cardiac rehabilitation, these programs continue to support patients by helping them adhere to lifestyle modifications.
 
 ---
 
-### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^5ac6d10c]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^113Kafd5]. Journal of the American Heart Association (2024). Medium credibility.
 
 Hybrid CR models, which combine both center‐based CR and home‐based CR, may be able to provide the best practical solution, especially when enhanced by appropriate health technology (Figure). While maintaining in‐person safety evaluation and human‐based components of center‐based CR, remote delivery of various other components of CR can occur through home‐based CR. With appropriate use of health technology, this could scale to rural and low‐income communities and vulnerable populations, allowing for increase in CR supply without exacerbating health disparities. For example, at the Johns Hopkins mTECH Center, the mTECH REHAB trial is testing a hybrid CR program that combines initial in‐center CR sessions with home‐based CR delivered through the Corrie Health technology platform, in order to assess change in functional status plus various safety and clinical outcomes in a broad group of patients with an indication for CR. It is anticipated that in addition to improving clinical outcomes, a hybrid CR model could also demonstrate promotion of health equity through appropriate use of health technology.
 
@@ -995,7 +995,7 @@ Cardiac Rehabilitation (CR) Enabled With Health Technology.
 
 ---
 
-### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^3a4ba08d]. Journal of the American Heart Association (2024). Medium credibility.
+### Cardiac rehabilitation enabled with health technology: innovative models of care delivery and policy to enhance health equity [^112VRggU]. Journal of the American Heart Association (2024). Medium credibility.
 
 RISK STRATIFICATION
 
@@ -1005,13 +1005,13 @@ A risk calculator is needed that can determine which patients require a center�
 
 ---
 
-### Sex differences in cardiac rehabilitation outcomes [^7ad0f07c]. Circulation Research (2022). Medium credibility.
+### Sex differences in cardiac rehabilitation outcomes [^11495frB]. Circulation Research (2022). Medium credibility.
 
 Cardiovascular disease is a leading cause of morbidity and mortality in males and females in the United States and globally. Cardiac rehabilitation (CR) is recommended by the American Heart Association/American College of Cardiology for secondary prevention for patients with cardiovascular disease. CR participation is associated with improved cardiovascular disease risk factor management, quality of life, and exercise capacity as well as reductions in hospital admissions and mortality. Despite these advantageous clinical outcomes, significant sex disparities exist in outpatient phase II CR programming. This article reviews sex differences that are present in the spectrum of care provided by outpatient phase II CR programming (ie, from referral to clinical management). We first review CR participation by detailing the sex disparities in the rates of CR referral, enrollment, and completion. In doing so, we discuss patient, health care provider, and social/environmental level barriers to CR participation with a particular emphasis on those barriers that majorly impact females. We also evaluate sex differences in the core components incorporated into CR programming (eg, patient assessment, exercise training, hypertension management). Next, we review strategies to mitigate these sex differences in CR participation with a focus on automatic CR referral, female-only CR programming, and hybrid CR. Finally, we outline knowledge gaps and areas of future research to minimize and prevent sex differences in CR programming.
 
 ---
 
-### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^ef010c9f]. Journal of the American Heart Association (2024). Medium credibility.
+### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^1177LPo4]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -1031,7 +1031,7 @@ URL:; Unique identifier: NCT05238103.
 
 ---
 
-### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^93067697]. Journal of the American Heart Association (2024). Medium credibility.
+### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^114kyMLi]. Journal of the American Heart Association (2024). Medium credibility.
 
 Background
 
@@ -1051,7 +1051,7 @@ URL: https://www.clinicaltrials.gov; Unique identifier: NCT05238103.
 
 ---
 
-### Global perspectives on heart disease rehabilitation and secondary prevention: a scientific statement from the association of cardiovascular nursing and allied professions, European association of preventive cardiology, and international council of cardiovascular prevention and rehabilitation [^a0751d70]. European Heart Journal (2023). Medium credibility.
+### Global perspectives on heart disease rehabilitation and secondary prevention: a scientific statement from the association of cardiovascular nursing and allied professions, European association of preventive cardiology, and international council of cardiovascular prevention and rehabilitation [^1156tMg3]. European Heart Journal (2023). Medium credibility.
 
 The ICCPR's global audit of CR found that of the countries globally with any CR, in 77% of countries, programmes offer traditional supervised CR. In almost half of countries with CR, at least some programmes offer alternative models (this corresponds to 25% of all countries globally; see below), including 34% of countries with CR offering home-based CR and 23% community-based, with no difference in HICs vs. LMICs. Where home-based is offered, ∼20% of a programme's patients participate in that model. Finally, almost 9% of programmes globally (from 24 countries) offer some form of hybrid model, where patients transition from hospital-based CR to some other form of delivery, which can be highly patient-centred.
 
@@ -1065,7 +1065,7 @@ Challenges/opportunities
 
 ---
 
-### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^fd35219f]. Journal of the American Heart Association (2019). Medium credibility.
+### Home-based cardiac rehabilitation alone and hybrid with center-based cardiac rehabilitation in heart failure: a systematic review and meta-analysis [^117UPiNz]. Journal of the American Heart Association (2019). Medium credibility.
 
 Study Outcomes
 
@@ -1085,13 +1085,13 @@ Some studies did not report a direct comparison of the change from baseline betw
 
 ---
 
-### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^2fa21743]. Circulation (2025). High credibility.
+### Cardiac rehabilitation in women: a scientific statement from the American Heart Association [^112Dcs2i]. Circulation (2025). High credibility.
 
 Cardiac rehabilitation in women — individual barriers and potential solutions outline actionable items for medical and psychologic comorbid conditions, self-reported poor health status, lack of awareness, time constraints, cultural and language barriers, and variability in underlying pathogenesis. Actions include "Assess safety and tailor exercise prescription accordingly", "Integrate mental health supports, including stress management, into CR programs", and "Provide individualized programming addressing both physical and mental health, including tailored support for managing comorbidities". Staff-directed measures include "Train staff in sensitivity and empathy" and "Educate staff to pay careful attention to function and mobility and tailor exercise routines to patients' needs and preferences". Access and education strategies state to "Enhance patient education about CR benefits to improve engagement and understanding… " and to "Provide alternative options to traditional CR (eg, virtual, hybrid, community-based) and flexible scheduling options". Cultural responsiveness is addressed by "Ensure educational content is available in various languages… ", "Provide culturally sensitive CR programs… ", and "Consider innovative CR delivery models that incorporate the patient's community setting". Disease-specific needs are addressed by "Provide disease-specific, tailored patient education, exercise guidance, and mental health or peer support for patients with SCAD, SIC, INOCA, or MINOCA" and "Incorporate specific education for patients with breast cancer participating in CR programs", with abbreviations defined as ischemia with nonobstructive coronary arteries (INOCA), myocardial infarction with nonobstructive coronary arteries (MINOCA), spontaneous coronary artery dissection (SCAD), and stress-induced cardiomyopathy (SIC).
 
 ---
 
-### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^34c6fff8]. Journal of the American Heart Association (2023). Medium credibility.
+### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^112MFCV5]. Journal of the American Heart Association (2023). Medium credibility.
 
 Background
 
@@ -1111,7 +1111,7 @@ URL: https://www.clinicaltrials.gov; Unique identifier: NCT05897710.
 
 ---
 
-### Effects of a physical therapist-driven individualized hybrid model of the exercise component of cardiac rehabilitation on patient outcomes: a prospective single group, time-series design [^1a444eb6]. Disability and Rehabilitation (2025). Medium credibility.
+### Effects of a physical therapist-driven individualized hybrid model of the exercise component of cardiac rehabilitation on patient outcomes: a prospective single group, time-series design [^111fwd4h]. Disability and Rehabilitation (2025). Medium credibility.
 
 Purpose
 
@@ -1131,7 +1131,7 @@ The PT-driven IRPP program was feasible in terms of adherence and safety, showin
 
 ---
 
-### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^397be889]. Journal of the American Heart Association (2023). Medium credibility.
+### Efficacy and adherence rates of a novel community-informed virtual world-based cardiac rehabilitation program: protocol for theRandomized controlled trial [^112UDuzY]. Journal of the American Heart Association (2023). Medium credibility.
 
 Background
 
@@ -1151,7 +1151,7 @@ URL:; Unique identifier: NCT05897710.
 
 ---
 
-### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^e7280056]. Circulation (2023). Medium credibility.
+### A new era in cardiac rehabilitation delivery: research gaps, questions, strategies, and priorities [^116uhaPP]. Circulation (2023). Medium credibility.
 
 Technology
 
@@ -1163,7 +1163,7 @@ The most commonly reported modalities for digital health interventions in CR, as
 
 ---
 
-### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^a28f2966]. Journal of the American Heart Association (2024). Medium credibility.
+### Rationale and design of the mTECH-rehab randomized controlled trial: impact of a mobile technology enabled corrie cardiac rehabilitation program on functional status and cardiovascular health [^115A15fj]. Journal of the American Heart Association (2024). Medium credibility.
 
 Usual Care
 
@@ -1176,7 +1176,7 @@ Corrie Hybrid Cardiac Rehabilitation Program components include (1) a patient‐
 
 ---
 
-### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^02123b52]. BMJ Open Quality (2023). High credibility.
+### Developing and delivering a hybrid cardiac rehabilitation phase II exercise program during the COVID-19 pandemic: a quality improvement program [^111456kH]. BMJ Open Quality (2023). High credibility.
 
 The feasibility of the home-based component of HCRP2-EP was proven by; the high level of enrolment (91.1% of eligible male patients, 90% monthly median enrolment) (figure 2), the low technological barrier reported with only 4 out of 40 (10%) ineligible patients, and moreover, the high compliance (92%) to the home-based component of HCRP2-EP (figure 3). It should be acknowledged that compliance rates for both home-based and hospital-based were abnormally high when compared with available evidence. We hypothesised this was due to patients having more time available at home due to pandemic restrictions, and a likelihood that only motivated and engaged patients would have chosen to participate in exercise during the pandemic period, among other factors.
 
@@ -1186,7 +1186,7 @@ For technology-related critical issues that prevented the planned treatment from
 
 ---
 
-### Health care use and expenditures associated with cardiac rehabilitation among eligible Medicare fee-for-service beneficiaries [^7e9e53f1]. Journal of the American Heart Association (2025). Medium credibility.
+### Health care use and expenditures associated with cardiac rehabilitation among eligible Medicare fee-for-service beneficiaries [^114Eicz4]. Journal of the American Heart Association (2025). Medium credibility.
 
 Although 38.5% of eligible beneficiaries were removed from the study cohort due to our Medicare Part D continuous enrollment criteria for the duration of the study period (6 years), we did this because prescription drug expenditures are an important consideration among individuals with heart disease. In our study, at baseline (year 2016), nearly all individuals had medication expenditures (99.9%), ranging from $ > 0 to $611 329, and Part D claims accounted for ≈20% of total medical expenditures overall. If we had kept individuals in our study without continuous Medicare Part D enrollment, a large proportion of the expenditure calculation would have been missed — a main contribution of our study. As CR treatment includes medication education, pharmacist care/support, and access to free medication programs, one systematic review protocol describes examining the potential of CR programs to improve medication adherence in patients with cardiovascular disease.
 

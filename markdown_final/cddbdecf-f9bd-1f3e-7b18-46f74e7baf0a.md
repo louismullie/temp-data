@@ -15,25 +15,25 @@ How does antibiotic therapy affect the resolution of OME?
 
 > Let's see… What do we have here? The user is asking how antibiotic therapy affects the resolution of otitis media with effusion (OME). Let's break this down step-by-step. First, I need to think about the clinical context and natural history of OME. Then, I should verify the magnitude and certainty of antibiotic benefit from high-quality evidence. Next, I will examine functional outcomes like hearing and quality of life. After that, I need to assess harms and resistance considerations. Finally, I should integrate guideline positions and identify any exceptions where antibiotics might be reasonable despite the general recommendation against their use.
 
-> Let me first confirm the clinical context and natural history, because if most effusions resolve spontaneously, the bar for treatment benefit is high. OME is fluid in the middle ear without acute inflammatory signs, and spontaneous resolution is common: about 75% resolve by 3 months after AOM, and even when onset is unknown, roughly 28–42% resolve by 3–6 months, with most resolving within a year, which sets a high spontaneous resolution benchmark against which any intervention must be judged [^cf60c42d] [^cb4cf749] [^5370a83e].
+> Let me first confirm the clinical context and natural history, because if most effusions resolve spontaneously, the bar for treatment benefit is high. OME is fluid in the middle ear without acute inflammatory signs, and spontaneous resolution is common: about 75% resolve by 3 months after AOM, and even when onset is unknown, roughly 28–42% resolve by 3–6 months, with most resolving within a year, which sets a high spontaneous resolution benchmark against which any intervention must be judged [^116JSwVe] [^116CQLdE] [^1138hp8V].
 
-> Wait, let me verify the magnitude and certainty of antibiotic benefit from the most authoritative sources. The 2016 Cochrane review of 25 trials (3663 children) found moderate-quality evidence that oral antibiotics increase complete resolution at 2–3 months with a risk ratio around 2.00 and an NNT of about 5, but this benefit is offset by increased adverse events such as diarrhea, vomiting, or rash with an NNH around 20, and importantly, there was no significant impact on hearing levels or need for tympanostomy tubes, which are the clinically meaningful endpoints [^e74734c2]. The 2023 Cochrane update echoed this, noting only a small, uncertain reduction in persistent OME at 6–12 months and very uncertain effects on hearing, reinforcing that any benefit is modest and not clearly translated into functional gains [^156260fe].
+> Wait, let me verify the magnitude and certainty of antibiotic benefit from the most authoritative sources. The 2016 Cochrane review of 25 trials (3663 children) found moderate-quality evidence that oral antibiotics increase complete resolution at 2–3 months with a risk ratio around 2.00 and an NNT of about 5, but this benefit is offset by increased adverse events such as diarrhea, vomiting, or rash with an NNH around 20, and importantly, there was no significant impact on hearing levels or need for tympanostomy tubes, which are the clinically meaningful endpoints [^116ut4Jd]. The 2023 Cochrane update echoed this, noting only a small, uncertain reduction in persistent OME at 6–12 months and very uncertain effects on hearing, reinforcing that any benefit is modest and not clearly translated into functional gains [^111YhnVb].
 
-> Hold on, let's not jump to conclusions about functional outcomes. I should double-check hearing and quality-of-life data. The 2016 Cochrane review found conflicting and low-quality evidence on short-term hearing, with no convincing improvement attributable to antibiotics, and no trials assessed speech, language, or cognitive outcomes, which are the outcomes families care about most [^e74734c2]. The 2023 update similarly found very uncertain effects on return-to-normal hearing, with only one small study suggesting a possible benefit that could easily be due to chance or bias, and again no quality-of-life data, so the clinical relevance of any microbiologic or tympanometric improvement remains doubtful [^156260fe].
+> Hold on, let's not jump to conclusions about functional outcomes. I should double-check hearing and quality-of-life data. The 2016 Cochrane review found conflicting and low-quality evidence on short-term hearing, with no convincing improvement attributable to antibiotics, and no trials assessed speech, language, or cognitive outcomes, which are the outcomes families care about most [^116ut4Jd]. The 2023 update similarly found very uncertain effects on return-to-normal hearing, with only one small study suggesting a possible benefit that could easily be due to chance or bias, and again no quality-of-life data, so the clinical relevance of any microbiologic or tympanometric improvement remains doubtful [^111YhnVb].
 
-> I need to check harms and resistance carefully, because even a small benefit can be outweighed by risks. Across trials, adverse events like gastrointestinal upset and rash are more frequent with antibiotics, with an NNH around 20, and although serious harms are uncommon, the cumulative impact of unnecessary antibiotic exposure is nontrivial at a population level, contributing to resistance and adverse drug reactions without durable patient-centered benefit [^e74734c2]. But wait, what if longer courses change the risk–benefit balance? Even with longer courses, benefits remain small and uncertain, and resistance concerns persist, so the harm signal does not reverse with extended therapy in typical settings [^156260fe].
+> I need to check harms and resistance carefully, because even a small benefit can be outweighed by risks. Across trials, adverse events like gastrointestinal upset and rash are more frequent with antibiotics, with an NNH around 20, and although serious harms are uncommon, the cumulative impact of unnecessary antibiotic exposure is nontrivial at a population level, contributing to resistance and adverse drug reactions without durable patient-centered benefit [^116ut4Jd]. But wait, what if longer courses change the risk–benefit balance? Even with longer courses, benefits remain small and uncertain, and resistance concerns persist, so the harm signal does not reverse with extended therapy in typical settings [^111YhnVb].
 
-> Next, I should review guideline positions to ensure my interpretation aligns with consensus. Multiple high-credibility guidelines issue strong recommendations against routine systemic antibiotics for OME, citing small, short-term benefits that do not translate into improved hearing or reduced surgery, and the preponderance of harm from adverse effects and resistance; this is consistent across AAO-HNSF and AAP guidance and is reflected in the Cochrane conclusions [^192a7842] [^65b94767] [^ae9c32f1]. I should confirm that this applies to otherwise healthy children; yes, the strong recommendation against antibiotics is for typical pediatric OME, with exceptions only when antibiotics are indicated for a coexisting condition such as acute bacterial sinusitis or streptococcal pharyngitis, not for OME itself [^65b94767].
+> Next, I should review guideline positions to ensure my interpretation aligns with consensus. Multiple high-credibility guidelines issue strong recommendations against routine systemic antibiotics for OME, citing small, short-term benefits that do not translate into improved hearing or reduced surgery, and the preponderance of harm from adverse effects and resistance; this is consistent across AAO-HNSF and AAP guidance and is reflected in the Cochrane conclusions [^111eJxRX] [^113boyzE] [^115TsK36]. I should confirm that this applies to otherwise healthy children; yes, the strong recommendation against antibiotics is for typical pediatric OME, with exceptions only when antibiotics are indicated for a coexisting condition such as acute bacterial sinusitis or streptococcal pharyngitis, not for OME itself [^113boyzE].
 
-> Let me consider whether there are identifiable subgroups where antibiotics might still be reasonable despite the general recommendation. The clearest exception is high-risk populations with very high rates of tympanic membrane perforation and chronic suppurative otitis media, such as some Aboriginal infants, where randomized trials show that continuous amoxicillin reduces perforations and achieves more normal ears, albeit with uncertain effects on resistance and limited generalizability to low-risk settings; this is a niche scenario and not a basis for routine use in typical children [^c1ec87e9] [^b4f76b2b] [^9b9d638f]. I should also note that these trials did not demonstrate clear hearing or developmental benefits, so even in high-risk groups, the decision should be individualized and contextualized to local epidemiology and access to care [^c1ec87e9].
+> Let me consider whether there are identifiable subgroups where antibiotics might still be reasonable despite the general recommendation. The clearest exception is high-risk populations with very high rates of tympanic membrane perforation and chronic suppurative otitis media, such as some Aboriginal infants, where randomized trials show that continuous amoxicillin reduces perforations and achieves more normal ears, albeit with uncertain effects on resistance and limited generalizability to low-risk settings; this is a niche scenario and not a basis for routine use in typical children [^115xW4PA] [^115dHsq4] [^114yhws4]. I should also note that these trials did not demonstrate clear hearing or developmental benefits, so even in high-risk groups, the decision should be individualized and contextualized to local epidemiology and access to care [^115xW4PA].
 
-> I will now examine related evidence to ensure I'm not missing a signal that changes practice. Trials in acute otitis media show that antibiotics shorten symptom duration but do not meaningfully change the time course of middle ear effusion resolution, reinforcing that effusion persistence is driven by noninfectious inflammatory and eustachian tube factors rather than ongoing bacterial infection in most cases of OME. This supports the mechanistic plausibility that antibiotics have limited impact on OME resolution in typical children [^3b60f391].
+> I will now examine related evidence to ensure I'm not missing a signal that changes practice. Trials in acute otitis media show that antibiotics shorten symptom duration but do not meaningfully change the time course of middle ear effusion resolution, reinforcing that effusion persistence is driven by noninfectious inflammatory and eustachian tube factors rather than ongoing bacterial infection in most cases of OME. This supports the mechanistic plausibility that antibiotics have limited impact on OME resolution in typical children [^112X2qPn].
 
-> Putting this together, I should confirm the bottom line. Antibiotics confer a small, short-term increase in the likelihood of effusion resolution at 2–3 months without improving hearing or reducing the need for surgery, and they increase adverse events; therefore, routine antibiotic therapy for OME is not recommended, and watchful waiting with hearing surveillance is the preferred approach for most children, reserving antibiotics for coexisting bacterial indications or for carefully selected high-risk scenarios after shared decision-making [^e74734c2] [^156260fe] [^192a7842] [^65b94767].
+> Putting this together, I should confirm the bottom line. Antibiotics confer a small, short-term increase in the likelihood of effusion resolution at 2–3 months without improving hearing or reducing the need for surgery, and they increase adverse events; therefore, routine antibiotic therapy for OME is not recommended, and watchful waiting with hearing surveillance is the preferred approach for most children, reserving antibiotics for coexisting bacterial indications or for carefully selected high-risk scenarios after shared decision-making [^116ut4Jd] [^111YhnVb] [^111eJxRX] [^113boyzE].
 
 ---
 
-Antibiotics offer a **modest short-term benefit** for OME resolution, with an absolute risk reduction of about 14–17% at 2–3 months [^e74734c2] and a number needed to treat of 5–7. However, this small benefit **does not translate into improved hearing** [^156260fe] or reduced need for tympanostomy tubes [^e74734c2], and antibiotics increase adverse effects such as diarrhea, vomiting, and rash [^e74734c2]. Given the high rate of spontaneous resolution [^cf60c42d] and the risk of antibiotic resistance, **routine antibiotic use is not recommended** [^192a7842]; reserve antibiotics for select cases with persistent effusion and hearing loss after watchful waiting, or when there is a coexisting bacterial infection [^65b94767].
+Antibiotics offer a **modest short-term benefit** for OME resolution, with an absolute risk reduction of about 14–17% at 2–3 months [^116ut4Jd] and a number needed to treat of 5–7. However, this small benefit **does not translate into improved hearing** [^111YhnVb] or reduced need for tympanostomy tubes [^116ut4Jd], and antibiotics increase adverse effects such as diarrhea, vomiting, and rash [^116ut4Jd]. Given the high rate of spontaneous resolution [^116JSwVe] and the risk of antibiotic resistance, **routine antibiotic use is not recommended** [^111eJxRX]; reserve antibiotics for select cases with persistent effusion and hearing loss after watchful waiting, or when there is a coexisting bacterial infection [^113boyzE].
 
 ---
 
@@ -41,10 +41,10 @@ Antibiotics offer a **modest short-term benefit** for OME resolution, with an ab
 
 Multiple randomized controlled trials (RCTs) and systematic reviews have evaluated antibiotics for OME, with **consistent findings**:
 
-- **Short-term resolution**: Antibiotics increase the likelihood of short-term resolution at 2–3 months (RR 2.00, 95% CI 1.58–2.53; NNT 5) [^e74734c2].
-- **Long-term persistence**: No significant benefit beyond 6 months; pooled analysis shows only a 13% absolute risk reduction at > 6 months, with wide confidence intervals [^b7ec4deb].
-- **Hearing outcomes**: No consistent improvement in hearing thresholds or quality of life with antibiotics [^156260fe] [^e74734c2].
-- **Need for surgery**: Antibiotics do not reduce the need for tympanostomy tubes [^e74734c2] [^65b94767].
+- **Short-term resolution**: Antibiotics increase the likelihood of short-term resolution at 2–3 months (RR 2.00, 95% CI 1.58–2.53; NNT 5) [^116ut4Jd].
+- **Long-term persistence**: No significant benefit beyond 6 months; pooled analysis shows only a 13% absolute risk reduction at > 6 months, with wide confidence intervals [^115hg79k].
+- **Hearing outcomes**: No consistent improvement in hearing thresholds or quality of life with antibiotics [^111YhnVb] [^116ut4Jd].
+- **Need for surgery**: Antibiotics do not reduce the need for tympanostomy tubes [^116ut4Jd] [^113boyzE].
 
 ---
 
@@ -65,9 +65,9 @@ The magnitude of benefit is **small and clinically limited**:
 
 Antibiotics carry **meaningful risks** that offset their limited benefit:
 
-- **Gastrointestinal effects**: Diarrhea, vomiting, and abdominal pain are more common with antibiotics (RR 2.15, 95% CI 1.29–3.60; NNH 20) [^e74734c2].
-- **Allergic reactions**: Rash and rare anaphylaxis can occur [^e74734c2].
-- **Antibiotic resistance**: Widespread use drives resistance, a major public health concern [^65b94767] [^b7ec4deb].
+- **Gastrointestinal effects**: Diarrhea, vomiting, and abdominal pain are more common with antibiotics (RR 2.15, 95% CI 1.29–3.60; NNH 20) [^116ut4Jd].
+- **Allergic reactions**: Rash and rare anaphylaxis can occur [^116ut4Jd].
+- **Antibiotic resistance**: Widespread use drives resistance, a major public health concern [^113boyzE] [^115hg79k].
 
 ---
 
@@ -75,9 +75,9 @@ Antibiotics carry **meaningful risks** that offset their limited benefit:
 
 Antibiotics are **inferior to other options** for OME:
 
-- **Watchful waiting**: Spontaneous resolution occurs in ~75% by 3 months [^cf60c42d]; observation is first-line for most children [^af3cd36e].
+- **Watchful waiting**: Spontaneous resolution occurs in ~75% by 3 months [^116JSwVe]; observation is first-line for most children [^115UoGJR].
 - **Tympanostomy tubes**: Effective for persistent effusion with hearing loss; superior to antibiotics for hearing improvement and effusion resolution [^notfound].
-- **Autoinflation**: Modest benefit in some children, particularly older children who can cooperate [^08a2b9e0].
+- **Autoinflation**: Modest benefit in some children, particularly older children who can cooperate [^111DoZR1].
 
 ---
 
@@ -85,9 +85,9 @@ Antibiotics are **inferior to other options** for OME:
 
 Major guidelines **recommend against routine antibiotic use** for OME:
 
-- **AAO-HNSF**: Strong recommendation against systemic antibiotics for OME [^192a7842] [^ae9c32f1].
-- **AAP**: Recommends against antibiotics for OME, citing limited benefit and potential harms [^65b94767].
-- **AAFP**: Advises against antibiotics, emphasizing watchful waiting and selective use only when coexisting bacterial infection is present [^32fb05fa].
+- **AAO-HNSF**: Strong recommendation against systemic antibiotics for OME [^111eJxRX] [^115TsK36].
+- **AAP**: Recommends against antibiotics for OME, citing limited benefit and potential harms [^113boyzE].
+- **AAFP**: Advises against antibiotics, emphasizing watchful waiting and selective use only when coexisting bacterial infection is present [^112JahRK].
 
 ---
 
@@ -95,8 +95,8 @@ Major guidelines **recommend against routine antibiotic use** for OME:
 
 Antibiotics may be considered in **select scenarios**:
 
-- **Persistent effusion**: Bilateral OME persisting ≥ 3 months with documented hearing loss [^4e64a76a].
-- **Coexisting infection**: Acute bacterial sinusitis or group A streptococcal infection [^65b94767].
+- **Persistent effusion**: Bilateral OME persisting ≥ 3 months with documented hearing loss [^1131Dqsw].
+- **Coexisting infection**: Acute bacterial sinusitis or group A streptococcal infection [^113boyzE].
 - **High-risk populations**: Children with recurrent AOM, structural ear abnormalities, or significant hearing loss may benefit from individualized decisions [^notfound].
 
 ---
@@ -109,7 +109,7 @@ Antibiotics provide a **modest short-term benefit** for OME resolution but do no
 
 ## References
 
-### Antibiotics for otitis media with effusion in children [^b7ec4deb]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Antibiotics for otitis media with effusion in children [^115hg79k]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -141,7 +141,7 @@ The results of our review do not support the routine use of antibiotics for chil
 
 ---
 
-### Antibiotics for otitis media with effusion in children [^e74734c2]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Antibiotics for otitis media with effusion in children [^116ut4Jd]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -173,7 +173,7 @@ This review presents evidence of both benefits and harms associated with the use
 
 ---
 
-### Otitis media with effusion in children [^5370a83e]. BMJ Clinical Evidence (2007). Medium credibility.
+### Otitis media with effusion in children [^1138hp8V]. BMJ Clinical Evidence (2007). Medium credibility.
 
 Introduction
 
@@ -193,7 +193,7 @@ In this systematic review we present information relating to the effectiveness a
 
 ---
 
-### Natural history of untreated otitis media [^cb4cf749]. The Laryngoscope (2003). Low credibility.
+### Natural history of untreated otitis media [^116CQLdE]. The Laryngoscope (2003). Low credibility.
 
 Objective/Hypothesis
 
@@ -217,7 +217,7 @@ The natural history of otitis media is very favorable. Combined estimates of spo
 
 ---
 
-### Effect of antimicrobial treatment on the resolution of middle-ear effusion after acute otitis media [^3b60f391]. Journal of the Pediatric Infectious Diseases Society (2018). Low credibility.
+### Effect of antimicrobial treatment on the resolution of middle-ear effusion after acute otitis media [^112X2qPn]. Journal of the Pediatric Infectious Diseases Society (2018). Low credibility.
 
 Background
 
@@ -237,13 +237,13 @@ Immediate antimicrobial treatment of AOM does not significantly affect the resol
 
 ---
 
-### Antibiotics for otitis media with effusion in children [^b59fc9b7]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
+### Antibiotics for otitis media with effusion in children [^115eGRvn]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
 
 The "Cochrane Corner" is a quarterly section in the journal that highlights systematic reviews relevant to otolaryngology-head and neck surgery, with invited commentary to aid clinical decision making. This installment features a Cochrane Review, "Antibiotics for Otitis Media with Effusion in Children", that does not support the routine use of antibiotics for treating otitis media with effusion in children. Although children treated with antibiotics had higher rates of effusion resolution, there was no impact on hearing levels or the need for tympanostomy tubes.
 
 ---
 
-### Antibiotics for otitis media with effusion (OME) in children [^156260fe]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Antibiotics for otitis media with effusion (OME) in children [^111YhnVb]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -275,7 +275,7 @@ The evidence for the use of antibiotics for OME is of low to very low certainty.
 
 ---
 
-### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^1407bb60]. Lancet (2018). Excellent credibility.
+### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^111WhMGT]. Lancet (2018). Excellent credibility.
 
 The most recent update of the Cochrane review on oral or topical steroids for treatment of otitis media with effusion found no benefit from intranasal steroids. However, the review did identify evidence of a significant benefit from oral steroids plus antibiotics versus antibiotics alone for otitis media with effusion (five studies, 409 participants, risk ratio 1.99 [95% CI 1.14–3.49] for persistent otitis media with effusion at follow-up), and a non-significant point estimate suggesting benefit from oral steroids versus placebo in the short term (three studies, 108 participants, risk ratio 3.80 [95% CI 0.93–15.52]). Oral antibiotics alone were not effective.
 
@@ -287,7 +287,7 @@ An overview of studies found that the rate of spontaneous resolution of otitis m
 
 ---
 
-### Pharmacologic therapy for eustachian tube dysfunction… [^08fb60ba]. AAFP (2013). Low credibility.
+### Pharmacologic therapy for eustachian tube dysfunction… [^111EKLVP]. AAFP (2013). Low credibility.
 
 ORAL CORTICOSTEROIDS A Cochrane review of three RCTs that included 108 children six months to 15 years of age found that oral corticosteroids in varying types and dosages improved OME for the first month of therapy. 1 One study of 44 children found no improvement in hearing in those receiving oral corticosteroids compared with the placebo group. 2 Five RCTs that included 409 children found that oral corticosteroids plus antibiotics improved rates of OME resolution at less than one month compared with placebo plus an antibiotic. NASAL CORTICOSTEROIDS Nasal corticosteroids have not demonstrated short- or long-term benefits in the resolution of OME or improvement in hearing.
 
@@ -298,61 +298,61 @@ One study of 200 children randomized to daily mometasone or placebo found no dif
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^192a7842]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^111eJxRX]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Statement 8b — antibiotics for otitis media with effusion: Clinicians should recommend against using systemic antibiotics for treating OME. This is a strong recommendation against based on systematic review of randomized controlled trials (RCTs) and preponderance of harm over benefit.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^65b94767]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113boyzE]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Antibiotics for OME: A 2012 Cochrane review of 23 studies showed a small benefit for complete resolution of the effusion, but antibiotic therapy did not have any significant impact on hearing levels or the rate of subsequent tympanostomy tube insertion; the authors concluded that antibiotic therapy should not be used to treat OME because small benefits are offset by adverse events, bacterial resistance, and no impact on hearing levels or future surgery, although these findings would not preclude using antibiotics when associated illnesses are present that would benefit from antibiotics, such as acute bacterial sinusitis or group A streptococcal infection.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^4dcc69bc]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112zLhzB]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Outcome assessment in otitis media with effusion (OME) — Statement 13 specifies documentation priorities. "When managing a child with OME, clinicians should document in the medical record resolution of OME, improved hearing, or improved QOL". This is a "Recommendation based on randomized trials and cohort studies with a preponderance of benefit over harm".
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^dc002022]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116dAKSh]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — outcome assessment: When managing a child with OME, clinicians should document in the medical record resolution of OME, improved hearing, or improved quality of life (Recommendation).
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^d2f212da]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116Pji9w]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) medical therapy — For purposes of counseling parents, the clinician should convey that drugs and medications are not recommended for managing OME. Antihistamines, decongestants, antireflux therapy, and topical nasal steroids are ineffective. Orally administered steroids have short-term efficacy, but after 1 or 2 months the benefit is no longer significant. Antibiotics have a small benefit in resolving OME, but they have significant adverse effects and do not improve HLs or reduce the need for future surgery. Last, despite the popularity of complementary and alternative therapy, there are no RCTs to show benefits in managing OME.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^187865be]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^111dH9J5]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Clinical practice guideline — differences from prior guideline include addition of consumer advocates to the guideline development group; new evidence from 4 clinical practice guidelines, 20 systematic reviews, and 49 randomized controlled trials (RCTs); emphasis on patient education and shared decision making with an option grid for surgery and new tables of counseling opportunities and frequently asked questions; expanded action statement profiles; enhanced external review with public comment and journal peer review; new recommendations for managing OME in children who fail a newborn hearing screen, for evaluating at-risk children, and for educating and counseling parents; a new recommendation against using topical intranasal steroids for treating OME; a new recommendation against adenoidectomy for a primary indication of OME in children < 4 years old, including those with prior tympanostomy tubes, unless a distinct indication exists (nasal obstruction, chronic adenoiditis); a new recommendation for assessing OME outcomes by documenting OME resolution, improved hearing, or improved quality of life (QOL); and a new algorithm to clarify decision making and action statement relationships.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^cf60c42d]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116JSwVe]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Natural history of otitis media with effusion (OME) — the spontaneous resolution of OME is likely but depends on the cause and onset; about 75% of children with OME resolve by 3 months when it follows an episode of acute otitis media (AOM). If the OME is spontaneous and the date of onset is unknown, the 3-month resolution rate is lower, at 56%; when the date of onset is known, this rate increases to 90%. Resolution rates also depend on how a successful outcome is defined; in the preceding paragraph, resolution is defined broadly as any improvement in tympanogram curve.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^4e64a76a]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1131Dqsw]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Clinical practice guideline — otitis media with effusion (OME) key action statements specify that clinicians should obtain an age-appropriate hearing test if OME persists for 3 months or longer OR for OME of any duration in an at-risk child; should counsel families of children with bilateral OME and documented hearing loss about the potential impact on speech and language development; should reevaluate, at 3- to 6-month intervals, children with chronic OME until the effusion is no longer present, significant hearing loss is identified, or structural abnormalities of the eardrum or middle ear are suspected; should recommend tympanostomy tubes when surgery is performed for OME in a child < 4 years old and state that adenoidectomy should not be performed unless a distinct indication exists (nasal obstruction, chronic adenoiditis); should recommend tympanostomy tubes, adenoidectomy, or both when surgery is performed for OME in a child ≥ 4 years old; and should document resolution of OME, improved hearing, or improved quality of life when managing a child with OME.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^ae9c32f1]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^115TsK36]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Regarding medical management for otitis media with effusion, more specifically with respect to antibiotics (AAO-HNSF), AAO-HNS 2016 guidelines recommend to do not use systemic antibiotics for the treatment of patients with OME.
 
 ---
 
-### Oral or topical nasal steroids for hearing loss associated with otitis media with effusion in children [^db02ce6d]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
+### Oral or topical nasal steroids for hearing loss associated with otitis media with effusion in children [^116bhEPW]. The Cochrane Database of Systematic Reviews (2011). Low credibility.
 
 Background
 
@@ -384,7 +384,7 @@ While oral steroids, especially when used in combination with an oral antibiotic
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^98e6ac02]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^114ugbgm]. BMC Pediatrics (2008). Low credibility.
 
 Authors' contributions
 
@@ -392,7 +392,7 @@ AJL, PSM and JDM participated in the design of the study, secured funding and pe
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^9b9d638f]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^114yhws4]. BMC Pediatrics (2008). Low credibility.
 
 Conclusion
 
@@ -400,7 +400,7 @@ Our study shows that Aboriginal infants with OME receiving continuous amoxicilli
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^b4f76b2b]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^115dHsq4]. BMC Pediatrics (2008). Low credibility.
 
 Discussion
 
@@ -410,7 +410,7 @@ Our findings can be understood in terms of the natural history of OM in high-ris
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^f14bbaa0]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^117AjTEf]. BMC Pediatrics (2008). Low credibility.
 
 Methods
 
@@ -442,7 +442,7 @@ Further details of randomisation [see Additional File 1].
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^5ce6a789]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^113NjLSL]. BMC Pediatrics (2008). Low credibility.
 
 Diagnosis and Outcome assessments
 
@@ -473,13 +473,13 @@ Data were analysed according to a pre-determined plan. We used the outcome in th
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^b4b972e8]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^115cw4ZV]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Action statement profile for Statements 8a, 8b, and 8c — medical therapy for otitis media with effusion: The quality improvement opportunity is to "Discourage medical therapy that does not affect long-term outcomes for OME… but does have significant cost and potential adverse events". Evidence is "Grade A, systematic review of well-designed RCTs", with "Level of confidence in the evidence: High". Benefits include "Avoid side effects and reduce cost by not administering medications; avoid delays in definitive therapy…; avoid social impact of inappropriate antibiotic prescribing on bacterial resistance and transmission of resistant pathogens". The assessment shows "Preponderance of benefit over harm (in recommending against therapy)", "Risks, harms, costs: None", "Role of patient preferences: Small", "Exceptions: Patients in whom any of these medications are indicated for primary management of a coexisting condition with OME", and "Policy level: Strong recommendation (against therapy)".
 
 ---
 
-### Does early detection of otitis media with effusion prevent delayed language development? [^b19663f4]. Archives of Disease in Childhood (2001). Low credibility.
+### Does early detection of otitis media with effusion prevent delayed language development? [^115YHKis]. Archives of Disease in Childhood (2001). Low credibility.
 
 Objective
 
@@ -499,13 +499,13 @@ There is insufficient evidence to support attempts at early detection of OME in 
 
 ---
 
-### The diagnosis and management of acute otitis media [^41b129f9]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^112gPhkU]. Pediatrics (2013). Medium credibility.
 
 Acute otitis media (AOM) — antibiotic benefit magnitude and NNT: To prevent mastoiditis, the number needed to treat is approximately 4800 patients to prevent 1 case of mastoiditis. When otoscopic improvement (resolution of tympanic membrane bulging or intense erythema) is required for success, the NNT is 3 to 4, compared with 8 to 16 for symptom improvement alone, and middle ear effusion may persist for weeks or months and is not a criterion for otoscopic failure.
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^39ac2aa0]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^112UW88w]. BMC Pediatrics (2008). Low credibility.
 
 Our trial supports the notion that asymptomatic bulging of the tympanic membrane is an important predictor of AOM and perforation; this has not been emphasised in the AAP and AAFP guideline. Furthermore, the implications of withholding antibiotic therapy in children with bulging eardrums have not previously been evaluated in high quality studies. Guidelines for management of AOM in Indigenous children define AOM as middle ear effusion with either bulging of the tympanic membrane, recent discharge, ear pain, or redness. There is no option to withhold antibiotics in an Aboriginal child with AOM; for children in whom AOM is associated with perforation, longer courses of antibiotics are recommended. Our RCT supports that recommendation.
 
@@ -513,7 +513,7 @@ A recent meta-analysis of individual patient data from studies in low-risk popul
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^9cdc58a0]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^1151Z5eo]. BMC Pediatrics (2008). Low credibility.
 
 Ear Assessments during therapy [see Additional Files 3 and 4]
 
@@ -527,7 +527,7 @@ At the end of therapy, carriage of OM pathogens, and carriage of penicillin non-
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^850d2c03]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^114QFn6E]. BMC Pediatrics (2008). Low credibility.
 
 Results
 
@@ -561,19 +561,19 @@ On the day of randomisation, carriage of each respiratory bacterial pathogen was
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^9dfa322d]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1153D6TN]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Clinical practice guideline for otitis media with effusion (OME) — the guideline states that it offers recommendations for identifying, monitoring, and managing the child with OME and emphasizes appropriate diagnosis and options including observation, medical intervention, and referral for surgical intervention to assist primary care physicians and other health care providers; it also clarifies that it is provided for information and educational purposes only, is not intended as a sole source of guidance, is designed to assist clinicians with an evidence-based framework, is not intended to replace clinical judgment or establish a protocol for all individuals, guidelines are not mandates or a legal standard of care, the responsible provider must determine appropriate treatment, adherence will not ensure successful outcomes in every situation, and the American Academy of Otolaryngology — Head and Neck Surgery Foundation emphasizes that these guidelines should not be deemed to include all proper treatment decisions or to exclude other decisions reasonably directed to obtaining the same results.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^50dd7981]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1134tQDe]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion outcome assessment — evidence profile and policy level include: Aggregate evidence quality: Grade C; Level of confidence in the evidence: High; Benefit: Document favorable outcomes in management; Risks, harms, costs: Cost of follow-up visits and audiometry; administrative burden for QOL surveys; Benefit-harm assessment: Predominance of benefit over harm; Role of patient preferences: Small; Exceptions: None; Policy level: Recommendation; Intentional vagueness states that the time frame is not specified and the method of demonstrating OME resolution is at the clinician's discretion; Value judgments and differences of opinion: None.
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^2789b525]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^1121cmkY]. BMC Pediatrics (2008). Low credibility.
 
 What are the microbiological implications of long-term amoxicillin? Our study shows a significant reduction in pneumococcal carriage during amoxicillin therapy. Despite the positive results from our RCT it is unclear whether withholding antibiotics in an asymptomatic child at risk of perforation will result in a clinical deterioration that outweighs the theoretical risk of increasing antibiotic resistance should the child be treated. It is reassuring that in our RCT there was no increase in the carriage of penicillin-resistant pneumococci as a result of treatment, nor any difference in antibiotics prescribed for intercurrent illnesses between amoxicillin and placebo children. Indeed there was a tendency for fewer children in the amoxicillin group to be colonised by penicillin-resistant pneumococci. On the other hand, although beta-lactamase producing H. influenzae were uncommon in both groups, they were detected more frequently in children receiving amoxicillin; however, as this non-significant trend was also present before the start of trial therapy, it could be a chance finding.
 
@@ -583,37 +583,37 @@ We have previously shown that OM is more advanced when multiple pathogens coloni
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^583efc41]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113Fq4rU]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion guideline update — systematic literature search and yields included guidelines, systematic reviews, and randomized controlled trials (RCTs) over 2004–2015. The MEDLINE search was updated from January 2004 to January 2015 and covered multiple databases; the initial search for clinical practice guidelines identified 15 guidelines with a final data set retaining 4 that met inclusion criteria, the initial search for systematic reviews identified 138 systematic reviews or meta-analyses with 20 retained, and the initial search for RCTs identified 86 RCTs with a total final data set retaining 49 RCTs.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^a97748ce]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^115LEyUR]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Clinical practice guideline purpose — the document notes that the "high prevalence of OME" with diagnostic, developmental, and management challenges "makes OME an important condition for up-to-date clinical practice guidelines", and states the purpose is "to identify quality improvement opportunities in managing OME and to create explicit and actionable recommendations to implement these opportunities in clinical practice".
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^8e06814d]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^114dZRkG]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) — medication-related research priorities emphasize evaluating discrete patient subgroups with potential differential responses to antimicrobials, steroids, antihistamines, or combinations; investigating the efficacy of adenoidectomy in children > 4 years of age; and investigating mucosal surface biofilms in refractory or recurrent OME to develop targeted interventions.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^f3520268]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^117DjY9m]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) management — topical intranasal steroids and antireflux medications: The guideline notes these are perceived as relatively common interventions "despite a lack of evidence for their efficacy", and states, "We recommend explicitly against using these for a primary indication of OME", emphasizing avoidance of "costly, ineffective, and potentially harmful care".
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^db0e9b6b]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116bmCHY]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Complementary and alternative medicine for OME: There remains insufficient evidence from which to formulate a recommendation on their use in children, and randomized controlled studies are necessary but do not exist; such studies will necessarily have to be large given the high rate of spontaneous resolution of OME in children and may be difficult to perform.
 
 ---
 
-### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^f5edc63e]. Lancet (2018). Excellent credibility.
+### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^117HbqG9]. Lancet (2018). Excellent credibility.
 
 Otitis media with effusion causes substantial problems for patients and their families, and results in considerable costs to the NHS. It continues to be the most common reason for childhood surgery despite reported reductions in the number of ventilation operations. The McKinsey report commissioned by the Department of Health states that the NHS could save £21 million per year by reducing insertion of ventilation tubes by a further 90%, a procedure that they assessed as being "relatively ineffective". The UK National Institute of Health and Care Excellence guideline published in 2008 for management of otitis media with effusion recommends a "watchful waiting" period of 3 months, with referral to an ENT department if hearing is significantly affected, if the condition persists for longer than 3 months, or if there is suspected language or developmental delay.US guidelines also recommend watchful waiting for 3 months from the date of effusion onset (if known) or 3 months from the date of diagnosis. Oral steroids might be a reasonable candidate intervention to help reduce the burden of otitis media with effusion. However, our findings suggest that any hearing-related benefit from oral steroids is likely to occur in one in 14 children (aged 2–8 years) with otitis media with effusion, and that this benefit might be of questionable clinical significance, since we found no evidence of a beneficial effect on functional health status and health-related quality of life. Therefore, based on these findings we do not recommend routine use of oral steroids in this setting.
 
@@ -623,13 +623,13 @@ Given the findings of some benefit from antibiotics for otitis media with effusi
 
 ---
 
-### The diagnosis and management of acute otitis media [^9650bc48]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^114qrG8F]. Pediatrics (2013). Medium credibility.
 
 Acute otitis media (AOM) vs otitis media with effusion (OME) — clinical distinction and antibiotic stewardship: OME may occur either after an episode of AOM or from eustachian tube dysfunction related to an upper respiratory tract infection and may also precede and predispose to AOM; because OME does not represent an acute infectious process that benefits from antibiotics, clinicians should become proficient in distinguishing normal middle ear status from OME or AOM to avoid unnecessary antibiotic use, adverse effects, and antimicrobial resistance.
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^231dcb6a]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^111u4aJu]. BMC Pediatrics (2008). Low credibility.
 
 Background
 
@@ -637,7 +637,7 @@ Otitis media (OM) is an important health problem in young children. In most sett
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^b27b90d2]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^115ZcJR7]. BMC Pediatrics (2008). Low credibility.
 
 We believe that our study of long-term antibiotic use is very relevant for Aboriginal and other populations at high risk of tympanic membrane perforation. Unfortunately conjugate pneumococcal vaccine has not significantly reduced ear disease in Australian Aboriginal children. A recent pediatric outreach program in Far North Queensland confirms that CSOM is the most prevalent health problem in Aboriginal children. The poor school achievement of Aboriginal children, already disadvantaged by poverty, has been partially attributed to the chronic hearing loss.
 
@@ -645,31 +645,31 @@ Our study shows that Aboriginal infants with OME receiving continuous amoxicilli
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^2ed7ed24]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112CSxYj]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Practice patterns — adherence to clinical practice guidance for otitis media with effusion (OME) is low: only 7% to 33% of pediatricians use pneumatic otoscopy for diagnosis, only 29% obtain an age-appropriate hearing test when effusion persists for > 3 months, and 32% treat OME inappropriately with antibiotics, contributing to unnecessary adverse events and bacterial resistance.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^4598aa8c]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112nBRd5]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — patient education: Clinicians should educate families of children with OME regarding the natural history of OME, need for follow-up, and the possible sequelae (Recommendation).
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^43307704]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112icT47]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) natural history and predictors — Complete resolution, defined as only a type A tympanogram, is much lower, only 42% at 3 months, when the date of onset is unknown. Episode duration is similar regardless of whether it is an initial or recurrent episode. Children who have onset during the summer or fall months, a > 30-dB HL hearing loss, or a history of prior tubes are less likely to resolve the effusion spontaneously.
 
 ---
 
-### The diagnosis and management of acute otitis media [^f84c97be]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^117M7f33]. Pediatrics (2013). Medium credibility.
 
 Acute otitis media (AOM) follow-up and middle ear effusion (MEE): There is little scientific evidence for a routine 10- to 14-day reevaluation visit for all children with an episode of AOM. Persistent MEE is common and can be detected by pneumatic otoscopy (with or without verification by tympanometry) after resolution of acute symptoms, with 60% to 70% of children having MEE at two weeks after successful antibiotic treatment, decreasing to 40% at 1 month and 10% to 25% at 3 months. The presence of MEE without clinical symptoms is defined as otitis media with effusion (OME), which must be differentiated clinically from AOM and requires infrequent additional monitoring but not antibiotic therapy.
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^c1ec87e9]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^115xW4PA]. BMC Pediatrics (2008). Low credibility.
 
 Background
 
@@ -689,7 +689,7 @@ Aboriginal infants receiving continuous amoxicillin had more normal ears, fewer 
 
 ---
 
-### Oral or topical nasal steroids for hearing loss associated with otitis media with effusion in children [^7e07bdba]. The Cochrane Database of Systematic Reviews (2002). Low credibility.
+### Oral or topical nasal steroids for hearing loss associated with otitis media with effusion in children [^114Dr3KP]. The Cochrane Database of Systematic Reviews (2002). Low credibility.
 
 Background
 
@@ -725,7 +725,7 @@ Both oral and topical intranasal steroids alone or in combination with an antibi
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^3c25d4f5]. Otolaryngology — Head and Neck Surgery (2016). Low credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112YAxw6]. Otolaryngology — Head and Neck Surgery (2016). Low credibility.
 
 Objective
 
@@ -741,7 +741,7 @@ The update group made strong recommendations that clinicians (1) should document
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^8949dd96]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^114WY7dF]. BMC Pediatrics (2008). Low credibility.
 
 Nasopharyngeal outcomes during therapy [see Additional Files 3 and 4]
 
@@ -749,7 +749,7 @@ Over the course of the RCT, fewer amoxicillin swabs (59%) than placebo swabs (78
 
 ---
 
-### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^f31baa4d]. BMC Pediatrics (2008). Low credibility.
+### Compared to placebo, long-term antibiotics resolve otitis media with effusion (OME) and prevent acute otitis media with perforation (AOMwiP) in a high-risk population: a randomized controlled trial [^117DRHSc]. BMC Pediatrics (2008). Low credibility.
 
 Outcomes at the end of therapy (Table 3)
 
@@ -764,49 +764,49 @@ There were 5 successes (bilateral aerated middle ears at two successive monthly 
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^adf0cd41]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^115Ssjx4]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion guideline — evidence-based statements and clinical judgment state that guidelines are intended to reduce inappropriate variations in clinical care, produce optimal health outcomes for patients, and minimize harm; the evidence-based approach requires that evidence be identified, appraised, and summarized with an explicit link between evidence and statements, and statements reflect both the quality of evidence and the balance of benefit and harm. Guidelines are never intended to supplant professional judgment; less frequent variation in practice is expected for a strong recommendation than with a recommendation, options offer the most opportunity for practice variability, and Clinicians should always act and decide in a way that they believe will best serve their individual patients' interests and needs, regardless of guideline recommendations.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^12eb59c0]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^111V3q59]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Clinical Practice Guideline: Otitis media with effusion (OME) — strong recommendations state that the update group made strong recommendations that clinicians should document the presence of middle ear effusion with pneumatic otoscopy when diagnosing OME in a child and should perform pneumatic otoscopy to assess for OME in a child with otalgia, hearing loss, or both. Clinicians should obtain tympanometry in children with suspected OME for whom the diagnosis is uncertain after performing (or attempting) pneumatic otoscopy and should manage the child with OME who is not at risk with watchful waiting for 3 months from the date of effusion onset (if known) or 3 months from the date of diagnosis (if onset is unknown). Clinicians should recommend against using intranasal or systemic steroids for treating OME, should recommend against using systemic antibiotics for treating OME, and should recommend against using antihistamines, decongestants, or both for treating OME.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^5ee79313]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113Rhcve]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) — guideline scope and target population includes children aged 2 through 12 years and applies to any setting where OME is identified, monitored, or managed; however, it does not apply to patients < 2 months or > 12 years of age. The document does not explicitly discuss indications for tympanostomy tubes, despite OME being the leading indication for tube insertion, because those indications are covered in a companion guideline; instead, surgical discussions focus on adjuvant procedures (eg, adenoidectomy, myringotomy) and sequelae of OME. It also aims to educate clinicians and patients regarding the favorable natural history of most OME, the lack of clinical benefits for medical therapy (eg, steroids, antihistamines, decongestants), and includes goals for OME surveillance, hearing and language evaluation, and management of OME detected by newborn screening.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^6505a13d]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113ame9A]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Statement 8a — steroids for otitis media with effusion: Clinicians should recommend against using intranasal steroids or systemic steroids for treating OME. This is a strong recommendation against based on systematic review of randomized controlled trials (RCTs) and preponderance of harm over benefit.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^6688fa4d]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113d1kHa]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion guideline — strength of action terms and implied obligation defines three categories. Strong recommendation: the quality of the supporting evidence is high (grade A or B), and Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. Recommendation: the quality of evidence is not as high (grade B or C), and Clinicians should also generally follow a recommendation but remain alert to new information and sensitive to patient preferences and modifying factors. Option: either the quality of evidence is suspect (grade D) or well-done studies (grade A, B, or C) show little clear advantage, and Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.
 
 ---
 
-### Clinical practice guideline: tympanostomy tubes in children (update) [^66f5c841]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
+### Clinical practice guideline: tympanostomy tubes in children (update) [^113deHyA]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
 
 Regarding follow-up and surveillance for otitis media with effusion, more specifically with respect to tympanostomy tube care (AAO-HNSF), AAO-HNS 2022 guidelines recommend to prescribe topical antibiotic ear drops only, without oral antibiotics, in pediatric patients with uncomplicated acute tympanostomy tube otorrhea.
 
 ---
 
-### Clinical practice guideline: tympanostomy tubes in children (update) [^29fc707e]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
+### Clinical practice guideline: tympanostomy tubes in children (update) [^1125FHUH]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
 
 Regarding follow-up and surveillance for otitis media with effusion, more specifically with respect to tympanostomy tube care (AAO-HNSF), AAO-HNS 2022 guidelines recommend to do not routinely prescribe postoperative antibiotic ear drops after tympanostomy tube placement.
 
 ---
 
-### Screening children in the first four years of life to undergo early treatment for otitis media with effusion [^38e07afc]. The Cochrane Database of Systematic Reviews (2003). Low credibility.
+### Screening children in the first four years of life to undergo early treatment for otitis media with effusion [^112TKi1h]. The Cochrane Database of Systematic Reviews (2003). Low credibility.
 
 Background
 
@@ -838,31 +838,31 @@ The identified randomised trials do not show an important benefit from screening
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^6e55a528]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113paQW3]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Chronic OME — natural history and predictors of persistence: The natural history of OME is favorable and intervention is usually unnecessary even if OME persists for > 3 months, but the longer the effusion is present the more the rate of resolution decreases and relapse becomes more common; risk factors associated with reduced likelihood of spontaneous resolution include onset of OME in summer or fall season, history of prior tympanostomy tubes, and not having a prior adenoidectomy.
 
 ---
 
-### Contemporary concepts in management of acute otitis media in children [^cc7658c0]. Otolaryngologic Clinics of North America (2014). Low credibility.
+### Contemporary concepts in management of acute otitis media in children [^116E8E4w]. Otolaryngologic Clinics of North America (2014). Low credibility.
 
 Acute otitis media (AOM) is a common disease of childhood. AOM is most appropriately diagnosed by careful otoscopy with an understanding of clinical signs and symptoms. The distinction between AOM and chronic otitis media with effusion should be emphasized. Treatment should include pain management, and initial antibiotic treatment should be given to those most likely to benefit, including young children, children with severe symptoms, and those with otorrhea and/or bilateral AOM. Tympanostomy tube placement may be helpful for those who experience frequent episodes of AOM or fail medical therapy. Recent practice guidelines may assist the clinician with such decisions.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion executive summary (update) [^ffbdcd0a]. Otolaryngology — Head and Neck Surgery (2016). Low credibility.
+### Clinical practice guideline: otitis media with effusion executive summary (update) [^117Y9bUu]. Otolaryngology — Head and Neck Surgery (2016). Low credibility.
 
 The American Academy of Otolaryngology-Head and Neck Surgery Foundation has published a supplement to this issue of Otolaryngology-Head and Neck Surgery featuring the updated "Clinical Practice Guideline: Otitis Media with Effusion". To assist in implementing the guideline recommendations, this article summarizes the rationale, purpose, and key action statements. The 18 recommendations developed emphasize diagnostic accuracy, identification of children who are most susceptible to developmental sequelae from otitis media with effusion, and education of clinicians and patients regarding the favorable natural history of most otitis media with effusion and the lack of efficacy for medical therapy (eg, steroids, antihistamines, decongestants). An updated guideline is needed due to new clinical trials, new systematic reviews, and the lack of consumer participation in the initial guideline development group.
 
 ---
 
-### Panel 7: otitis media: treatment and complications [^89272e76]. Otolaryngology — Head and Neck Surgery (2017). Low credibility.
+### Panel 7: otitis media: treatment and complications [^114WLTvd]. Otolaryngology — Head and Neck Surgery (2017). Low credibility.
 
 Objective We aimed to summarize key articles published between 2011 and 2015 on the treatment of (recurrent) acute otitis media, otitis media with effusion, tympanostomy tube otorrhea, chronic suppurative otitis media and complications of otitis media, and their implications for clinical practice. Data Sources PubMed, Ovid Medline, the Cochrane Library, and Clinical Evidence (BMJ Publishing). Review Methods All types of articles related to otitis media treatment and complications between June 2011 and March 2015 were identified. A total of 1122 potential related articles were reviewed by the panel members; 118 relevant articles were ultimately included in this summary. Conclusions Recent literature and guidelines emphasize accurate diagnosis of acute otitis media and optimal management of ear pain. Watchful waiting is optional in mild to moderate acute otitis media; antibiotics do shorten symptoms and duration of middle ear effusion. The additive benefit of adenoidectomy to tympanostomy tubes in recurrent acute otitis media and otitis media with effusion is controversial and age dependent. Topical antibiotic is the treatment of choice in acute tube otorrhea. Symptomatic hearing loss due to persistent otitis media with effusion is best treated with tympanostomy tubes. Novel molecular and biomaterial treatments as adjuvants to surgical closure of eardrum perforations seem promising. There is insufficient evidence to support the use of complementary and alternative treatments. Implications for Practice Emphasis on accurate diagnosis of otitis media, in its various forms, is important to reduce overdiagnosis, overtreatment, and antibiotic resistance. Children at risk for otitis media and its complications deserve special attention.
 
 ---
 
-### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^08a2b9e0]. Lancet (2018). Excellent credibility.
+### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^111DoZR1]. Lancet (2018). Excellent credibility.
 
 Introduction
 
@@ -872,7 +872,7 @@ Our Cochrane review of oral or topical steroids for otitis media with effusion f
 
 ---
 
-### Antibiotics to prevent acute otitis media and to treat otitis media with effusion… [^37146481]. JAMA Network (2025). Excellent credibility.
+### Antibiotics to prevent acute otitis media and to treat otitis media with effusion… [^112QfAnC]. JAMA Network (2025). Excellent credibility.
 
 To the Editor. — In the abstract of their article, Dr Williams and colleagues1 report that "studies of antibiotic prophylaxis of recurrent otitis media. had an RD of 0. 11 favoring antibiotic treatment" and "studies of short-term patient outcomes of OME. had an RD favoring antibiotics of 0.
 16". They then conclude, "Antibiotics appear to have beneficial but limited effect on recurrent otitis media and short-term resolution of OME. " Given that many journal readers read only the abstracts, the above is positively misleading. The prophylaxis trials have significant heterogeneity, a fact not mentioned by the authors. The RD of 0. 11 of Williams et al is calculated by combining studies using different drugs with significantly different effects. The RD for sulfisoxazole is significantly higher than the. Cantekin EI.
@@ -881,13 +881,13 @@ Antibiotics to Prevent Acute Otitis Media and to Treat Otitis Media With Effusio
 
 ---
 
-### Otitis media [^5260810e]. Nature Reviews: Disease Primers (2016). Medium credibility.
+### Otitis media [^11378QAH]. Nature Reviews: Disease Primers (2016). Medium credibility.
 
 Otitis media (OM) or middle ear inflammation is a spectrum of diseases, including acute otitis media (AOM), otitis media with effusion (OME; 'glue ear') and chronic suppurative otitis media (CSOM). OM is among the most common diseases in young children worldwide. Although OM may resolve spontaneously without complications, it can be associated with hearing loss and life-long sequelae. In developing countries, CSOM is a leading cause of hearing loss. OM can be of bacterial or viral origin; during 'colds', viruses can ascend through the Eustachian tube to the middle ear and pave the way for bacterial otopathogens that reside in the nasopharynx. Diagnosis depends on typical signs and symptoms, such as acute ear pain and bulging of the tympanic membrane (eardrum) for AOM and hearing loss for OME; diagnostic modalities include (pneumatic) otoscopy, tympanometry and audiometry. Symptomatic management of ear pain and fever is the mainstay of AOM treatment, reserving antibiotics for children with severe, persistent or recurrent infections. Management of OME largely consists of watchful waiting, with ventilation (tympanostomy) tubes primarily for children with chronic effusions and hearing loss, developmental delays or learning difficulties. The role of hearing aids to alleviate symptoms of hearing loss in the management of OME needs further study. Insertion of ventilation tubes and adenoidectomy are common operations for recurrent AOM to prevent recurrences, but their effectiveness is still debated. Despite reports of a decline in the incidence of OM over the past decade, attributed to the implementation of clinical guidelines that promote accurate diagnosis and judicious use of antibiotics and to pneumococcal conjugate vaccination, OM continues to be a leading cause for medical consultation, antibiotic prescription and surgery in high-income countries.
 
 ---
 
-### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^3885e0d8]. Lancet (2018). Excellent credibility.
+### Oral steroids for resolution of otitis media with effusion in children (OSTRICH): a double-blinded, placebo-controlled randomised trial [^112SoGwZ]. Lancet (2018). Excellent credibility.
 
 Research in context
 
@@ -907,43 +907,43 @@ We therefore aimed to establish the clinical and cost-effectiveness of a short c
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^6387baf5]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113YZN92]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Regarding medical management for otitis media with effusion, more specifically with respect to corticosteroids (AAO-HNSF), AAO-HNS 2016 guidelines recommend to do not use intranasal or systemic corticosteroids for the treatment of patients with OME.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^5d9c2e17]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113PnJqk]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Figure 7 — otitis media with effusion (OME) algorithm shows the relationship of guideline key action statements. Within the algorithm, OME attributable symptoms are listed as vestibular problems, poor school performance, behavioral problems, ear discomfort, and reduced quality of life, and it includes actions to counsel families about potential impact on speech and language, to obtain age-appropriate hearing test, and a Do Not Prescribe list of intranasal steroids, systemic antibiotics, decongestants, and antihistamines.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^30623009]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112EjPNp]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — medications to avoid: Clinicians should recommend against using intranasal steroids or systemic steroids for treating OME (Strong recommendation [against]); clinicians should recommend against using systemic antibiotics for treating OME (Strong recommendation [against]); and clinicians should recommend against using antihistamines, decongestants, or both for treating OME (Strong recommendation [against]).
 
 ---
 
-### Otitis media: diagnosis and treatment [^7e05fce6]. American Family Physician (2013). Low credibility.
+### Otitis media: diagnosis and treatment [^114DqTAM]. American Family Physician (2013). Low credibility.
 
 Acute otitis media is diagnosed in patients with acute onset, presence of middle ear effusion, physical evidence of middle ear inflammation, and symptoms such as pain, irritability, or fever. Acute otitis media is usually a complication of eustachian tube dysfunction that occurs during a viral upper respiratory tract infection. Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis are the most common organisms isolated from middle ear fluid. Management of acute otitis media should begin with adequate analgesia. Antibiotic therapy can be deferred in children two years or older with mild symptoms. High-dose amoxicillin (80 to 90 mg per kg per day) is the antibiotic of choice for treating acute otitis media in patients who are not allergic to penicillin. Children with persistent symptoms despite 48 to 72 hours of antibiotic therapy should be reexamined, and a second-line agent, such as amoxicillin/clavulanate, should be used if appropriate. Otitis media with effusion is defined as middle ear effusion in the absence of acute symptoms. Antibiotics, decongestants, or nasal steroids do not hasten the clearance of middle ear fluid and are not recommended. Children with evidence of anatomic damage, hearing loss, or language delay should be referred to an otolaryngologist.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^af3cd36e]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^115UoGJR]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) watchful waiting — Clinicians should manage the child with OME who is not at risk with watchful waiting for 3 months from the date of effusion onset (if known) or 3 months from the date of diagnosis (if onset is unknown). Strong recommendation based on systematic review of cohort studies and preponderance of benefit over harm. Quality improvement opportunity: Avoid interventions with potential adverse events and cost for a condition that is usually self-limited (National Quality Strategy domains: patient safety, efficient use of health care resources). Aggregate evidence quality: Grade A, systematic review of cohort studies. Level of confidence in the evidence: High. Benefit: Avoid unnecessary referrals, evaluations, and interventions; take advantage of favorable natural history.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^c99cb672]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1169u9eq]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) research needs — at-risk children: Goals are to better define the child with OME who is at risk for speech, language, and learning problems, to conduct large, multicenter observational cohort studies to identify the child at risk who is most susceptible to potential adverse sequelae of OME, and to conduct large, multicenter observational cohort studies to analyze outcomes achieved with alternative management strategies for OME in children at risk.
 
 ---
 
-### Identification of children in the first four years of life for early treatment for otitis media with effusion [^5b93b2f4]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
+### Identification of children in the first four years of life for early treatment for otitis media with effusion [^113LmV47]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
 
 Background
 
@@ -975,43 +975,43 @@ The identified randomised trials do not show an important benefit on language de
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^f0eb93bb]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^117ABA3c]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) research needs — watchful waiting: Priorities include defining the anticipated rate of spontaneous resolution of OME in infants and young children (existing data are limited primarily to children aged ≥ 2 years), conducting large-scale prospective cohort studies to obtain current data on spontaneous resolution of newly diagnosed OME of unknown prior duration (existing data are primarily from the late 1970s and early 1980s), developing prognostic indicators to identify the best candidates for watchful waiting, determining whether children with an OME duration exceeding 1 to 2 years have an increased risk of hearing loss, balance problems, discomfort, or other findings that would prompt intervention, and determining if the lack of impact from prompt insertion of tympanostomy tubes on speech and language outcomes seen in asymptomatic young children with OME can be generalized to older or symptomatic children with OME referred for evaluation.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^f788a888]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^117Kyqvf]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) patient management and follow-up — ear fluid is a buildup of mucus or liquid behind the ear drum without symptoms of infection, and fluid often goes away on its own, so your doctor will often recommend watchful waiting for the first 3 mo; it is most likely to go away quickly if it has been there < 3 mo or has a known start time, while it is much more likely to persist when it has been there for at least 3 mo or when the start date is unknown. Home measures include keeping the child away from secondhand smoke and, if the child is > 12 mo and still uses a pacifier, stopping the pacifier in the daytime may help the fluid go away. Medical treatment does not work well; you should not give your child antibiotics, antihistamines, decongestants, steroids (by mouth or in the nose), or drugs to reduce acid reflux, and no benefits have ever been shown for chiropractic therapy, special diets, herbal remedies, complementary medicine, or alternative (natural) therapies. Ongoing monitoring is advised — the best way to prevent problems is to see the doctor every 3 to 6 mo until the fluid goes away. The fluid cannot directly turn into an ear infection, but during a cold it increases a child's risk of getting an ear infection.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^d4b733ce]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116SMup9]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — economic burden and medical therapy evidence indicates substantial costs and limited benefits of common medications. Direct costs related to otitis media, which includes OME and acute otitis media (AOM), are S3 billion to S5 billion annually, and studies report that the indirect cost of lost caregiver productivity may far exceed direct medical costs; the estimated net cost of impaired well-being from otitis media is S1.1 billion to S2.6 billion. Regarding medical therapy, antibiotics have short-term efficacy but long-term use cannot be justified because of concerns over adverse events and induced bacterial resistance, the limited evidence regarding antireflux therapy does not show significant benefits, and there are no benefits to routinely treating with antihistamines, decongestants, or steroids (systemic or topical intranasal).
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^56b81d2a]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^113DZn4h]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — surveillance of chronic OME: Clinicians should reevaluate, at 3- to 6-mo intervals, children with chronic OME until the effusion is no longer present, significant hearing loss is identified, or structural abnormalities of the eardrum or middle ear are suspected (Recommendation).
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^4b744a9e]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112vs8gD]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Oral and intranasal steroids for OME: A comparative effectiveness review reported oral steroids showed no significant benefit for resolution of effusion or improvement of hearing levels, and adding antibiotics failed to improve outcomes versus control patients who were either untreated or treated with antibiotics alone. For topical intranasal steroids, children aged 4 to 11 years had no difference in resolution of effusion or hearing loss over 3 months between nasal mometasone and placebo, with 7% to 22% of study group patients experiencing minor adverse effects; intranasal steroids may have a short-term benefit in children with adenoidal hypertrophy, although the magnitude of the effect is small and dosing in one report was higher than recommended, and in patients with concomitant OME and allergic rhinitis there may be a role for topical intranasal steroids.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^403edb45]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^112eFKac]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — evaluation and surveillance of at-risk children When OME is detected in an at-risk child, tympanostomy tubes should be offered when the likelihood of spontaneous resolution is low (eg, type B tympanogram or persistence for ≥ 3 months). For children who do not receive tympanostomy tubes, follow-up to monitor OME and hearing levels may be more frequent than the 3- to 6-month interval recommended later in the guideline, and children should be monitored until OME resolves in all affected ears. Minimum surveillance includes evaluation for OME when a child is first diagnosed as being at risk and again between 12 and 18 months, while ideal practice would entail surveillance every 3 to 6 months for the presence of OME or hearing loss. The guideline recommends assessing for OME at 12 to 18 months of age; by 18 months of age, language and speech delays are easily discerned, and delays beyond 2.5 years of age negatively affect performance in school.
 
 ---
 
-### Effect of antimicrobial treatment of acute otitis media on the daily disappearance of middle ear effusion: a placebo-controlled trial [^89f2a40f]. JAMA Pediatrics (2014). Medium credibility.
+### Effect of antimicrobial treatment of acute otitis media on the daily disappearance of middle ear effusion: a placebo-controlled trial [^114XWodg]. JAMA Pediatrics (2014). Medium credibility.
 
 Importance
 
@@ -1047,43 +1047,43 @@ clinicaltrials.gov Identifier: NCT01244581.
 
 ---
 
-### Clinical practice guideline: tympanostomy tubes in children (update) [^6d0ec8ba]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
+### Clinical practice guideline: tympanostomy tubes in children (update) [^113ngcjb]. Otolaryngology — Head and Neck Surgery (2022). High credibility.
 
 Otitis media with effusion (OME) natural history and observation thresholds are described as follows: Short-term natural history shows rates of spontaneous resolution or improvement ranging from 28% to 52% within 3 or 4 months of diagnosis. Most studies of tympanostomy tube efficacy required documented bilateral OME for at least 3 months before entry into the study, and one group enrolled children with at least 2 months of bilateral OME. Because of these restrictions, there are no data to support tympanostomy tube insertion in children with OME of brief duration (less than 2 to 3 months), and observation until the OME has been documented for at least 3 months can avoid unnecessary surgery. Children with OME who are at risk for developmental delays or disorders are excluded from this recommendation and should therefore be managed on an individual basis when OME is diagnosed.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^0ec47820]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^111NtpUX]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Health care burden — incidence and prevalence of otitis media with effusion (OME) are substantial: Approximately 2.2 million new U.S. cases occur annually, with 50% to 90% of children affected by 5 years of age. The point prevalence is 7% to 13%, with a 1-year period prevalence of 15% to 30%. Young children experience about 4 episodes of new-onset OME annually with a mean duration of 17 days per episode. Longitudinal weekly otoscopy shows that 25% of observed days in children 0 to 9 years of age have otitis media (OME and acute otitis media), with 13% to 21% bilateral involvement.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^da18cd69]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116aLddA]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) surgery — shared decision making and age-based procedure selection emphasizes that there are 2 aspects of decision making (surgery vs additional observation, and procedure selection), candidacy depends on hearing status, associated symptoms, developmental risk, and anticipated chance of spontaneous resolution, and the poorest spontaneous resolution occurs when effusion is chronic (≥ 3 months) or associated with a type B (flat curve) tympanogram; once surgery is chosen, shared decision making is limited for children < 4 years old because tympanostomy tubes are recommended, whereas in children ≥ 4 years old options include tympanostomy tube placement alone (offers the most reliable short- and intermediate-term resolution of hearing loss and caregivers of at-risk children perceive large improvements after tube placement), adenoidectomy alone (offers comparable OME control to tubes at 6 and 12 months but may be less reliable in the short term, reduces the need for repeat surgery, has more potential anesthetic- and procedure-related complications, and some children may need additional surgery for tympanostomy tube insertion), adenoidectomy plus myringotomy without tubes (has outcomes comparable to tubes with less otorrhea and tympanic membrane sequelae, but tympanostomy tube insertion offers more reliable short-term effusion resolution and middle ear ventilation and is preferable when potential relapse must be minimized or when pronounced inflammation is present), and adenoidectomy plus tympanostomy tube placement (offers combined benefits, especially reducing repeat surgery in children with a history of tympanostomy tube placement, and may benefit children with nasal obstruction or recurrent sinonasal infections insufficient alone to justify adenoidectomy).
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^769186cc]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1142nRLf]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Regarding medical management for otitis media with effusion, more specifically with respect to watchful waiting (AAO-HNSF), AAO-HNS 2016 guidelines recommend to offer watchful waiting for 3 months from the date of effusion onset (if known) or 3 months from the date of diagnosis (if onset is unknown) in not-at-risk pediatric patients with OME.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^e94ace06]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^116xsEyb]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Regarding patient education for otitis media with effusion, more specifically with respect to general counseling, AAO-HNS 2016 guidelines recommend to educate families of pediatric patients with OME regarding the natural history of OME, need for follow-up, and the possible sequelae.
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^13461601]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^111VaJjr]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion (OME) outcome assessment and documentation — clinicians are encouraged to document patient-centered outcomes when managing children with OME to ensure patient follow-up and assess effectiveness, and resolution can be documented by normal tympanic membrane mobility with pneumatic otoscopy or a sharp peak on tympanometry with either normal middle ear pressure (type A curve) or negative pressure (type C1 curve); for children with tympanostomy tubes, resolution can be documented by an intact and patent tube with otoscopy or a large ear canal volume with tympanometry. Improved hearing can be documented through age-appropriate comprehensive audiometry, and improved quality of life can be measured using the OM-6, which has 6 brief questions; the caregiver completes the survey at baseline and again after a minimum follow-up period of 1 month, and a change score rates clinical change as trivial, small, moderate, or large. The time interval for assessing OME outcomes is at the discretion of the clinician; for watchful waiting or surveillance, outcome assessment can take place at a follow-up visit, and for surgery it can take place at the postoperative or subsequent follow-up visit; if documentation is not possible because of loss to follow-up, this should be noted in the medical record along with attempts to contact the family.
 
 ---
 
-### Niche-and gender-dependent immune reactions in relation to the microbiota profile in pediatric patients with otitis media with effusion [^ae496fa2]. Infection and Immunity (2020). Medium credibility.
+### Niche-and gender-dependent immune reactions in relation to the microbiota profile in pediatric patients with otitis media with effusion [^115TPWgh]. Infection and Immunity (2020). Medium credibility.
 
 INTRODUCTION
 
@@ -1091,7 +1091,7 @@ Otitis media (OM) is a common inflammatory condition of the middle ear that pred
 
 ---
 
-### Topical intranasal corticosteroids in 4–11 year old children with persistent bilateral otitis media with effusion in primary care: double blind randomised placebo controlled trial [^8806f796]. BMJ (2009). Excellent credibility.
+### Topical intranasal corticosteroids in 4–11 year old children with persistent bilateral otitis media with effusion in primary care: double blind randomised placebo controlled trial [^114Uff4H]. BMJ (2009). Excellent credibility.
 
 Introduction
 
@@ -1101,7 +1101,7 @@ A recent review by the National Institute for Health and Clinical Excellence fou
 
 ---
 
-### Evidence-based answer… [^32fb05fa]. AAFP (2005). Low credibility.
+### Evidence-based answer… [^112JahRK]. AAFP (2005). Low credibility.
 
 Clinical Question Which treatments for persistent otitis media with effusion are beneficial. Evidence-Based Answer Treatments such as antibiotics, steroids, antihistamines/decongestants, and mucolytics afford no long-term benefit in the treatment of patients with otitis media with effusion. Surgical treatments such as ventilation tubes and adenoidectomy improve hearing. However, surgery has conflicting effects on improving language development and behavior. There is inconclusive evidence that autoinflation of the eustachian tube with a nasal balloon improves resolution of OME. Evidence Summary OME is defined as middle ear effusion without acute inflammation. Many treatments have been recommended, although data supporting them are limited.
 
@@ -1111,31 +1111,31 @@ Recommendations from Others A recent evidence-based practice guideline 18 from t
 
 ---
 
-### The diagnosis and management of acute otitis media [^c4d436f6]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^1162orWZ]. Pediatrics (2013). Medium credibility.
 
 Regarding medical management for acute otitis media, more specifically with respect to systemic antibiotics, indications, young children, AAFP/AAP 2013 guidelines recommend to consider initiating antibiotic therapy or offering observation with close follow-up in patients aged 6–23 months without severe signs or symptoms. Initiate antibiotic therapy if the child worsens or fails to improve within 48–72 hours of the onset of symptoms.
 
 ---
 
-### Otitis media with effusion: our national practice [^abe33686]. Otolaryngology — Head and Neck Surgery (2017). Low credibility.
+### Otitis media with effusion: our national practice [^115PqCey]. Otolaryngology — Head and Neck Surgery (2017). Low credibility.
 
 Otitis media with effusion (OME) is the focus of an updated multidisciplinary clinical practice guideline published by the American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) and the American Academy of Pediatrics (AAP). Based on data from clinical trials, the guideline recommends against using antihistamines, antibiotics, oral steroids, and intranasal steroids for OME. To understand practice patterns related to these guidelines, we assessed nationally representative data. Despite controlling for age, sex, race/ethnicity, and other potential confounders individualized for each medication class, an increased risk of antihistamine (odds ratio [OR], 3.53), antibiotic (OR, 4.31), and intranasal steroid administration (OR, 3.58) was seen when OME was diagnosed. These analyses have demonstrated opportunities for quality improvement in the care of patients with OME, quantifying gaps in practice relevant to proposed quality measures. Education targeted according to practice setting may facilitate appropriate therapy and/or referral for definitive intervention in children with OME.
 
 ---
 
-### The diagnosis and management of acute otitis media [^b89ec5dc]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^115ii3zs]. Pediatrics (2013). Medium credibility.
 
 Acute otitis media (AOM) evidence synthesis — Cochrane review — described scope and overall effects of antibiotics across pediatric ages. In a Cochrane Review, Sanders et al identified 10 studies that met the following criteria: (1) randomized controlled trial, (2) compared antibiotic versus placebo or antibiotic versus observation, (3) age 1 month to 15 years. The authors' conclusions were that antibiotics produced a small reduction in the number of children with pain 2 to 7 days after diagnosis, that most cases spontaneously remit with no complications (NNT = 16), and that antibiotics were most beneficial in children younger than 2 years with bilateral AOM and in children with otorrhea.
 
 ---
 
-### The diagnosis and management of acute otitis media [^33901326]. Pediatrics (2013). Medium credibility.
+### The diagnosis and management of acute otitis media [^112KSmBB]. Pediatrics (2013). Medium credibility.
 
 Regarding medical management for acute otitis media, more specifically with respect to systemic antibiotics, indications, older children, AAFP/AAP 2013 guidelines recommend to ensure follow-up when observation is used as an initial strategy with the initiation of antibiotic therapy when the patient worsens or fails to improve within 48–72 hours of the onset of symptoms.
 
 ---
 
-### Bacillus cereus is a key microbial determinant of intractable otitis media with effusion [^ec6a26e1]. Communications Medicine (2025). Medium credibility.
+### Bacillus cereus is a key microbial determinant of intractable otitis media with effusion [^1173VjWg]. Communications Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -1143,13 +1143,13 @@ Otitis media with effusion (OME) is characterized by the presence of effusion be
 
 ---
 
-### Clinical practice guideline: otitis media with effusion (update) [^4f95a3e3]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
+### Clinical practice guideline: otitis media with effusion (update) [^1132zHVL]. Otolaryngology — Head and Neck Surgery (2016). Medium credibility.
 
 Otitis media with effusion — watchful waiting: Clinicians should manage the child with OME who is not at risk with watchful waiting for 3 mo from the date of effusion onset (if known) or 3 mo from the date of diagnosis (if onset is unknown) (Strong recommendation).
 
 ---
 
-### Panel 7: treatment and comparative effectiveness research [^eed243d5]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
+### Panel 7: treatment and comparative effectiveness research [^11774gMz]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
 
 Background and Objectives
 

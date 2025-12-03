@@ -15,29 +15,29 @@ What are the causes of hypo albumin in infants
 
 > Let's see… What do we have here? The user is asking about the causes of hypoalbuminemia in infants. Let's break this down step-by-step. First, I need to think about the pathophysiology of albumin homeostasis and why infants are uniquely vulnerable. Then, I should categorize etiologies into major buckets: decreased synthesis, increased losses, redistribution/capillary leak, and accelerated catabolism. Next, I will enumerate infant-specific causes within each bucket, verify the strength of evidence, and note any exceptions or controversies. Finally, I will synthesize a practical hierarchy of causes and highlight key clinical implications and thresholds relevant to neonatal care.
 
-> Let me first confirm the core pathophysiology so I don't jump to conclusions: albumin levels reflect the balance among hepatic synthesis, losses via urine or gut, distribution between intravascular and interstitial compartments, and catabolism. In infants, immature hepatic synthetic capacity, high growth demands, and developmental regulation of albumin synthesis all predispose to lower baseline levels and greater vulnerability to stressors, which I should keep in mind as I interpret causes and decide what is pathologic versus physiologic in this age group [^57746753] [^5bcc8923].
+> Let me first confirm the core pathophysiology so I don't jump to conclusions: albumin levels reflect the balance among hepatic synthesis, losses via urine or gut, distribution between intravascular and interstitial compartments, and catabolism. In infants, immature hepatic synthetic capacity, high growth demands, and developmental regulation of albumin synthesis all predispose to lower baseline levels and greater vulnerability to stressors, which I should keep in mind as I interpret causes and decide what is pathologic versus physiologic in this age group [^113Ef2F4] [^113M6aKc].
 
-> I will now examine decreased synthesis as a cause. Wait, let me verify the common misconception: uncomplicated undernutrition alone rarely lowers albumin substantially; hypoalbuminemia emerges when undernutrition coexists with inflammation or organ dysfunction. In infants, liver immaturity and specific liver diseases reduce synthesis, and in critical illness, hepatic protein synthesis is reprioritized away from albumin toward acute-phase proteins, lowering serum albumin despite adequate or even increased fractional synthesis rates, so I need to be cautious not to attribute low albumin solely to poor intake without evidence of inflammation or organ failure [^e779e0f0] [^57746753] [^78a96d99].
+> I will now examine decreased synthesis as a cause. Wait, let me verify the common misconception: uncomplicated undernutrition alone rarely lowers albumin substantially; hypoalbuminemia emerges when undernutrition coexists with inflammation or organ dysfunction. In infants, liver immaturity and specific liver diseases reduce synthesis, and in critical illness, hepatic protein synthesis is reprioritized away from albumin toward acute-phase proteins, lowering serum albumin despite adequate or even increased fractional synthesis rates, so I need to be cautious not to attribute low albumin solely to poor intake without evidence of inflammation or organ failure [^116vB5V9] [^113Ef2F4] [^1145tRYU].
 
-> Next, I should review increased losses, because this is a major driver in infants. Protein-losing enteropathies, including food protein–induced enterocolitis syndrome and food protein–induced enteropathy, can cause substantial albumin loss via the gut, and congenital nephrotic syndrome produces massive urinary protein loss with hypoalbuminemia and edema. Hold on, I should verify the thresholds: pediatric nephrotic syndrome is typically defined by nephrotic-range proteinuria with serum albumin ≤ 2.5–3.0 g/dL, and congenital cases present in the first 3 months of life, often due to podocyte gene mutations, so early-onset disease warrants genetic evaluation and specialist referral [^cfded648] [^8a6087a8] [^6e2b1c15] [^1e331c09].
+> Next, I should review increased losses, because this is a major driver in infants. Protein-losing enteropathies, including food protein–induced enterocolitis syndrome and food protein–induced enteropathy, can cause substantial albumin loss via the gut, and congenital nephrotic syndrome produces massive urinary protein loss with hypoalbuminemia and edema. Hold on, I should verify the thresholds: pediatric nephrotic syndrome is typically defined by nephrotic-range proteinuria with serum albumin ≤ 2.5–3.0 g/dL, and congenital cases present in the first 3 months of life, often due to podocyte gene mutations, so early-onset disease warrants genetic evaluation and specialist referral [^116KBHYs] [^114Y9iSj] [^113pL7qv] [^111mmo9a].
 
-> Let me consider redistribution and capillary leak next, because this is pivotal in sick infants. Inflammation increases vascular permeability and expands the interstitial albumin distribution volume, so plasma albumin drops even when total body albumin mass is not severely reduced. I should double-check that this mechanism is well supported: multiple reviews and pediatric critical care data confirm that capillary leak and altered albumin kinetics are central in sepsis, NEC, RDS, and postoperative states, explaining rapid declines in serum albumin within hours of illness onset [^a16cb475] [^1ea6721c] [^78a96d99].
+> Let me consider redistribution and capillary leak next, because this is pivotal in sick infants. Inflammation increases vascular permeability and expands the interstitial albumin distribution volume, so plasma albumin drops even when total body albumin mass is not severely reduced. I should double-check that this mechanism is well supported: multiple reviews and pediatric critical care data confirm that capillary leak and altered albumin kinetics are central in sepsis, NEC, RDS, and postoperative states, explaining rapid declines in serum albumin within hours of illness onset [^1158KX7a] [^111nSY5Z] [^1145tRYU].
 
-> I need to check accelerated catabolism as a contributor. In inflammatory states, albumin turnover accelerates and the effective half-life shortens, and there is emerging evidence that albumin can be trafficked into cells and degraded to supply amino acids during proliferation and repair, which would further deplete circulating albumin. This helps explain why albumin levels can fall despite normal or increased fractional synthesis in stress states, reinforcing that low albumin is a marker of disease activity rather than malnutrition alone [^51771091] [^3d5dd563].
+> I need to check accelerated catabolism as a contributor. In inflammatory states, albumin turnover accelerates and the effective half-life shortens, and there is emerging evidence that albumin can be trafficked into cells and degraded to supply amino acids during proliferation and repair, which would further deplete circulating albumin. This helps explain why albumin levels can fall despite normal or increased fractional synthesis in stress states, reinforcing that low albumin is a marker of disease activity rather than malnutrition alone [^1135mzPr] [^112ZymDU].
 
-> Now, let me categorize infant-specific etiologies so I don't miss anything. Decreased synthesis includes prematurity and hepatic immaturity, congenital or acquired liver disease such as biliary atresia, tyrosinemia type I, and gestational alloimmune liver disease, and critical illness with reprioritized hepatic protein synthesis. Increased losses include congenital nephrotic syndrome, protein-losing enteropathies such as FPIES and FPE, intestinal lymphangiectasia, and postoperative protein losses. Redistribution and capillary leak occur in sepsis, NEC, RDS, and postoperative states. Accelerated catabolism accompanies severe inflammation and tissue repair, and I should also remember that normal developmental physiology lowers albumin in utero and early life, so age-specific norms are essential for interpretation [^8185b59d] [^88630905] [^cfded648] [^6e2b1c15] [^2c874236] [^78a96d99] [^ecc686ab].
+> Now, let me categorize infant-specific etiologies so I don't miss anything. Decreased synthesis includes prematurity and hepatic immaturity, congenital or acquired liver disease such as biliary atresia, tyrosinemia type I, and gestational alloimmune liver disease, and critical illness with reprioritized hepatic protein synthesis. Increased losses include congenital nephrotic syndrome, protein-losing enteropathies such as FPIES and FPE, intestinal lymphangiectasia, and postoperative protein losses. Redistribution and capillary leak occur in sepsis, NEC, RDS, and postoperative states. Accelerated catabolism accompanies severe inflammation and tissue repair, and I should also remember that normal developmental physiology lowers albumin in utero and early life, so age-specific norms are essential for interpretation [^114K2KDv] [^114VCagt] [^116KBHYs] [^113pL7qv] [^11291tT7] [^1145tRYU] [^11742m78].
 
-> Hold on, I should verify a few nuances so I don't overgeneralize. First, nutrition alone rarely explains hypoalbuminemia unless severe protein–energy malnutrition coexists with inflammation or infection, so isolated low albumin should prompt evaluation for occult stressors. Second, in congenital nephrotic syndrome, management emphasizes preserving vascular access, limiting salt and fluid, and using albumin for hypovolemia rather than to normalize serum albumin, which I need to keep in mind when considering infusions. Third, in preterm infants, early amino acid provision can transiently stimulate albumin synthesis, but this does not override the dominant effects of inflammation or capillary leak in acute illness, so I should not interpret a modest rise as correction of the underlying process [^e779e0f0] [^55c98049] [^5caeb5ac].
+> Hold on, I should verify a few nuances so I don't overgeneralize. First, nutrition alone rarely explains hypoalbuminemia unless severe protein–energy malnutrition coexists with inflammation or infection, so isolated low albumin should prompt evaluation for occult stressors. Second, in congenital nephrotic syndrome, management emphasizes preserving vascular access, limiting salt and fluid, and using albumin for hypovolemia rather than to normalize serum albumin, which I need to keep in mind when considering infusions. Third, in preterm infants, early amino acid provision can transiently stimulate albumin synthesis, but this does not override the dominant effects of inflammation or capillary leak in acute illness, so I should not interpret a modest rise as correction of the underlying process [^116vB5V9] [^113CBdWg] [^113NQYYb].
 
-> Let me synthesize a practical hierarchy of causes in infants, while acknowledging overlap. Most commonly, hypoalbuminemia in hospitalized infants reflects inflammation with capillary leak and redistribution, often in the setting of sepsis, NEC, RDS, or postoperative stress. Second, increased losses from the kidney or gut are frequent and specific, including congenital nephrotic syndrome and protein-losing enteropathies. Third, decreased synthesis becomes clinically relevant in liver disease, extreme prematurity, or persistent critical illness. Fourth, accelerated catabolism contributes in severe inflammatory states. Finally, developmental physiology establishes lower normal ranges in early life, so I should always interpret values against age- and gestation-specific norms before labeling pathology [^78a96d99] [^6e2b1c15] [^cfded648] [^ecc686ab].
+> Let me synthesize a practical hierarchy of causes in infants, while acknowledging overlap. Most commonly, hypoalbuminemia in hospitalized infants reflects inflammation with capillary leak and redistribution, often in the setting of sepsis, NEC, RDS, or postoperative stress. Second, increased losses from the kidney or gut are frequent and specific, including congenital nephrotic syndrome and protein-losing enteropathies. Third, decreased synthesis becomes clinically relevant in liver disease, extreme prematurity, or persistent critical illness. Fourth, accelerated catabolism contributes in severe inflammatory states. Finally, developmental physiology establishes lower normal ranges in early life, so I should always interpret values against age- and gestation-specific norms before labeling pathology [^1145tRYU] [^113pL7qv] [^116KBHYs] [^11742m78].
 
-> I should confirm key clinical thresholds that change management. In neonatal jaundice, serum albumin less than 3.0 g/dL is a neurotoxicity risk factor that lowers phototherapy and exchange thresholds, and in pediatric nephrotic syndrome, albumin ≤ 2.5–3.0 g/dL supports the diagnosis and informs decisions about albumin infusion for hypovolemia. In critical illness, albumin below about 2.5–3.0 g/dL correlates with worse outcomes, though this is associative and should guide vigilance rather than reflexive infusion, which aligns with guideline cautions against routine albumin use in preterm infants without a clear hemodynamic indication [^c8b34850] [^1e331c09] [^4a8b1b8c] [^78a96d99].
+> I should confirm key clinical thresholds that change management. In neonatal jaundice, serum albumin less than 3.0 g/dL is a neurotoxicity risk factor that lowers phototherapy and exchange thresholds, and in pediatric nephrotic syndrome, albumin ≤ 2.5–3.0 g/dL supports the diagnosis and informs decisions about albumin infusion for hypovolemia. In critical illness, albumin below about 2.5–3.0 g/dL correlates with worse outcomes, though this is associative and should guide vigilance rather than reflexive infusion, which aligns with guideline cautions against routine albumin use in preterm infants without a clear hemodynamic indication [^1168Yk4o] [^111mmo9a] [^112uWotX] [^1145tRYU].
 
-> In summary, I need to ensure my diagnostic approach treats hypoalbuminemia as a sentinel of underlying disease rather than a primary disorder. I should prioritize identifying inflammation, capillary leak, protein-losing states, and liver dysfunction, and I should avoid attributing low albumin to poor nutrition without corroborating evidence. By mapping causes to the pathophysiology of synthesis, losses, redistribution, and catabolism, and by integrating age-specific norms, I can target interventions to the root cause and reserve albumin for select hemodynamic or complication-driven scenarios rather than attempting to normalize serum levels alone [^e779e0f0] [^78a96d99] [^ecc686ab].
+> In summary, I need to ensure my diagnostic approach treats hypoalbuminemia as a sentinel of underlying disease rather than a primary disorder. I should prioritize identifying inflammation, capillary leak, protein-losing states, and liver dysfunction, and I should avoid attributing low albumin to poor nutrition without corroborating evidence. By mapping causes to the pathophysiology of synthesis, losses, redistribution, and catabolism, and by integrating age-specific norms, I can target interventions to the root cause and reserve albumin for select hemodynamic or complication-driven scenarios rather than attempting to normalize serum levels alone [^116vB5V9] [^1145tRYU] [^11742m78].
 
 ---
 
-Hypoalbuminemia in infants is most often due to **inflammation-driven capillary leak** [^a16cb475] and **increased protein loss** from renal or gastrointestinal sources [^6e2b1c15] [^cfded648], rather than reduced synthesis alone [^57746753]. Key causes include sepsis, NEC, RDS, congenital nephrotic syndrome [^6e2b1c15], protein-losing enteropathy [^64b11b8a], and liver disease [^8185b59d]; prematurity and malnutrition exacerbate risk [^7737d067]. Management should target the underlying cause, with albumin infusion reserved for **symptomatic hypovolemia or edema** [^55c98049] [^8afdbfb2], as routine use does not improve outcomes [^baf2204c] [^bc18cae5].
+Hypoalbuminemia in infants is most often due to **inflammation-driven capillary leak** [^1158KX7a] and **increased protein loss** from renal or gastrointestinal sources [^113pL7qv] [^116KBHYs], rather than reduced synthesis alone [^113Ef2F4]. Key causes include sepsis, NEC, RDS, congenital nephrotic syndrome [^113pL7qv], protein-losing enteropathy [^113aHFWq], and liver disease [^114K2KDv]; prematurity and malnutrition exacerbate risk [^1143kGt6]. Management should target the underlying cause, with albumin infusion reserved for **symptomatic hypovolemia or edema** [^113CBdWg] [^114Z4XKF], as routine use does not improve outcomes [^115nA2R1] [^115orzyi].
 
 ---
 
@@ -45,10 +45,10 @@ Hypoalbuminemia in infants is most often due to **inflammation-driven capillary 
 
 Hypoalbuminemia arises from **four main mechanisms**:
 
-- **Decreased synthesis**: Hepatic immaturity or liver disease reduces albumin production [^57746753].
-- **Increased losses**: Renal or gastrointestinal protein loss lowers serum albumin [^3d5dd563].
-- **Redistribution**: Inflammation increases capillary leak, shifting albumin to the interstitium [^a16cb475].
-- **Increased catabolism**: Inflammation accelerates albumin breakdown [^3d5dd563].
+- **Decreased synthesis**: Hepatic immaturity or liver disease reduces albumin production [^113Ef2F4].
+- **Increased losses**: Renal or gastrointestinal protein loss lowers serum albumin [^112ZymDU].
+- **Redistribution**: Inflammation increases capillary leak, shifting albumin to the interstitium [^1158KX7a].
+- **Increased catabolism**: Inflammation accelerates albumin breakdown [^112ZymDU].
 
 ---
 
@@ -56,22 +56,22 @@ Hypoalbuminemia arises from **four main mechanisms**:
 
 | **Category** | **Specific causes** | **Mechanism** |
 |-|-|-|
-| Decreased synthesis | - Prematurity <br/> - Hepatic immaturity <br/> - Liver disease (e.g. biliary atresia, hepatitis) <br/> - Malnutrition | Reduced hepatic production [^57746753] [^8185b59d] |
-| Increased losses | - Congenital nephrotic syndrome [^6e2b1c15] <br/> - Protein-losing enteropathy (e.g. FPIES, intestinal lymphangiectasia) [^cfded648] [^2c874236] <br/> - Necrotizing enterocolitis [^ff8ef876] <br/> - Gastrointestinal bleeding | Protein loss via urine or stool [^3d5dd563] |
-| Redistribution | - Sepsis <br/> - Respiratory distress syndrome <br/> - Postoperative states <br/> - Trauma | Increased capillary permeability [^a16cb475] [^1ea6721c] |
-| Increased catabolism | - Chronic inflammation <br/> - Malignancy | Accelerated albumin breakdown [^3d5dd563] |
+| Decreased synthesis | - Prematurity <br/> - Hepatic immaturity <br/> - Liver disease (e.g. biliary atresia, hepatitis) <br/> - Malnutrition | Reduced hepatic production [^113Ef2F4] [^114K2KDv] |
+| Increased losses | - Congenital nephrotic syndrome [^113pL7qv] <br/> - Protein-losing enteropathy (e.g. FPIES, intestinal lymphangiectasia) [^116KBHYs] [^11291tT7] <br/> - Necrotizing enterocolitis [^117Xss9o] <br/> - Gastrointestinal bleeding | Protein loss via urine or stool [^112ZymDU] |
+| Redistribution | - Sepsis <br/> - Respiratory distress syndrome <br/> - Postoperative states <br/> - Trauma | Increased capillary permeability [^1158KX7a] [^111nSY5Z] |
+| Increased catabolism | - Chronic inflammation <br/> - Malignancy | Accelerated albumin breakdown [^112ZymDU] |
 
 ---
 
 ## Clinical significance and complications
 
-Hypoalbuminemia in infants is a **marker of disease severity** [^78a96d99] and is associated with:
+Hypoalbuminemia in infants is a **marker of disease severity** [^1145tRYU] and is associated with:
 
-- **Edema**: Reduced oncotic pressure causes fluid shifts [^a16cb475].
+- **Edema**: Reduced oncotic pressure causes fluid shifts [^1158KX7a].
 - **Respiratory distress**: Interstitial edema worsens lung compliance [^notfound].
-- **Infection risk**: Loss of immunoglobulins and complement factors [^64b11b8a].
-- **Coagulopathy**: Loss of clotting factors increases bleeding risk [^ff8ef876].
-- **Poor growth**: Nutrient loss and inflammation impair growth [^e779e0f0].
+- **Infection risk**: Loss of immunoglobulins and complement factors [^113aHFWq].
+- **Coagulopathy**: Loss of clotting factors increases bleeding risk [^117Xss9o].
+- **Poor growth**: Nutrient loss and inflammation impair growth [^116vB5V9].
 
 ---
 
@@ -81,7 +81,7 @@ A structured evaluation includes:
 
 - **History**: Gestational age, nutrition, infections, surgeries, family history [^notfound].
 - **Examination**: Edema, ascites, respiratory distress, jaundice, growth parameters [^notfound].
-- **Laboratory tests**: Serum albumin, liver function, renal function, urinalysis, stool alpha-1 antitrypsin, CRP, CBC, coagulation profile [^64b11b8a].
+- **Laboratory tests**: Serum albumin, liver function, renal function, urinalysis, stool alpha-1 antitrypsin, CRP, CBC, coagulation profile [^113aHFWq].
 - **Imaging**: Abdominal ultrasound, echocardiography if indicated [^notfound].
 
 ---
@@ -90,32 +90,32 @@ A structured evaluation includes:
 
 Management focuses on **treating the underlying cause**:
 
-- **Treat underlying disease**: Antibiotics for sepsis, surgery for NEC, immunosuppression for nephrotic syndrome, dietary modification for protein-losing enteropathy [^55c98049] [^cfded648].
-- **Nutritional support**: Adequate protein and calorie intake, parenteral nutrition if needed [^7737d067].
-- **Albumin infusion**: Reserved for symptomatic hypovolemia or edema refractory to standard care, not routine use [^55c98049] [^8afdbfb2].
-- **Monitor complications**: Watch for edema, infection, coagulopathy, and growth failure [^c0c0ca8a].
+- **Treat underlying disease**: Antibiotics for sepsis, surgery for NEC, immunosuppression for nephrotic syndrome, dietary modification for protein-losing enteropathy [^113CBdWg] [^116KBHYs].
+- **Nutritional support**: Adequate protein and calorie intake, parenteral nutrition if needed [^1143kGt6].
+- **Albumin infusion**: Reserved for symptomatic hypovolemia or edema refractory to standard care, not routine use [^113CBdWg] [^114Z4XKF].
+- **Monitor complications**: Watch for edema, infection, coagulopathy, and growth failure [^115vmNyw].
 
 ---
 
 ## Prognosis
 
-Prognosis depends on the **cause, severity, and response**. Persistent hypoalbuminemia signals high morbidity and mortality, especially in critical illness or chronic disease [^78a96d99] [^0ec23fdf]. Early identification and targeted therapy improve outcomes [^notfound].
+Prognosis depends on the **cause, severity, and response**. Persistent hypoalbuminemia signals high morbidity and mortality, especially in critical illness or chronic disease [^1145tRYU] [^111Nt5EN]. Early identification and targeted therapy improve outcomes [^notfound].
 
 ---
 
-Hypoalbuminemia in infants reflects inflammation, protein loss, or impaired synthesis; **management should target the cause** and reserve albumin for select cases, as routine infusion does not improve outcomes [^baf2204c] [^bc18cae5].
+Hypoalbuminemia in infants reflects inflammation, protein loss, or impaired synthesis; **management should target the cause** and reserve albumin for select cases, as routine infusion does not improve outcomes [^115nA2R1] [^115orzyi].
 
 ---
 
 ## References
 
-### Use of albumin in the NICU: an evidence-based review [^944d8260]. NeoReviews (2022). Medium credibility.
+### Use of albumin in the NICU: an evidence-based review [^114nsCiB]. NeoReviews (2022). Medium credibility.
 
 Albumin is the most abundant protein in human blood with distinctive functions throughout the human body. Low albumin levels are a predictor of mortality as well as disease outcome in children and adults. However, the clinical significance of hypoalbuminemia and the role of albumin infusions in NICUs remain unclear and controversial.
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^e779e0f0]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^116vB5V9]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Hypoalbuminemic States (see Figure 1)
 
@@ -125,13 +125,13 @@ The combined presence of undernutrition and inflammation in malnutrition has led
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^a16cb475]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^1158KX7a]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Hypoalbuminemia is associated with inflammation. Despite being addressed repeatedly in the literature, there is still confusion regarding its pathogenesis and clinical significance. Inflammation increases capillary permeability and escape of serum albumin, leading to expansion of interstitial space and increasing the distribution volume of albumin. The half-life of albumin has been shown to shorten, decreasing total albumin mass. These 2 factors lead to hypoalbuminemia despite increased fractional synthesis rates in plasma. Hypoalbuminemia, therefore, results from and reflects the inflammatory state, which interferes with adequate responses to events like surgery or chemotherapy, and is associated with poor quality of life and reduced longevity. Increasing or decreasing serum albumin levels are adequate indicators, respectively, of improvement or deterioration of the clinical state. In the interstitium, albumin acts as the main extracellular scavenger, antioxidative agent, and as supplier of amino acids for cell and matrix synthesis. Albumin infusion has not been shown to diminish fluid requirements, infection rates, and mortality in the intensive care unit, which may imply that there is no body deficit or that the quality of albumin "from the shelf" is unsuitable to play scavenging and antioxidative roles. Management of hypoalbuminaemia should be based on correcting the causes of ongoing inflammation rather than infusion of albumin. After the age of 30 years, muscle mass and function slowly decrease, but this loss is accelerated by comorbidity and associated with decreasing serum albumin levels. Nutrition support cannot fully prevent, but slows down, this chain of events, especially when combined with physical exercise.
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^57746753]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^113Ef2F4]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Hypoalbuminemia and Albumin Kinetics
 
@@ -139,7 +139,7 @@ Low serum albumin levels in malnourished or stressed individuals have often been
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^1ea6721c]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^111nSY5Z]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 The Pathophysiology Underlying Hypoalbuminemia
 
@@ -151,13 +151,13 @@ Increased vascular permeability for cells and plasma solutes is a universal reac
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^5bcc8923]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^113M6aKc]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 The inflammation present in pregnancy is associated with modest hypoalbuminemia, which progresses from the first to the third trimester and is paralleled by increased water content of the maternal interstitium. 30, 110, 111 Serum albumin levels in healthy children have been found in population studies to be inversely associated with growth rate, although within a range considered normal. The highest serum albumin levels in men are only reached in adulthood after age 20 years, when growth and muscle accretion have stopped. In females, serum albumin levels increase until puberty to levels comparable with men, after which they decrease, although still within the normal range, to below levels in men, possibly related to pubertal growth and subsequent to their menstrual cycle with cyclic tissue synthesis and breakdown. 112
 
 ---
 
-### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^5a5303f6]. Heart (2015). Low credibility.
+### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^113Jumdo]. Heart (2015). Low credibility.
 
 Conclusions
 
@@ -167,7 +167,7 @@ Key messages
 
 ---
 
-### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^4c7d6360]. Chest (2024). Medium credibility.
+### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^112xQBBD]. Chest (2024). Medium credibility.
 
 Evidence Summary
 
@@ -179,7 +179,7 @@ Few RCTs have evaluated the impact of albumin compared with other alternative fl
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^51771091]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^1135mzPr]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Table 1
 Pathophysiology of Hypoalbuminemia in Disease and Life Events
@@ -192,7 +192,7 @@ In the literature, expansion of interstitial space is generally linked to increa
 
 ---
 
-### Albumin infusion for low serum albumin in preterm newborn infants [^baf2204c]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Albumin infusion for low serum albumin in preterm newborn infants [^115nA2R1]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -224,7 +224,7 @@ There is a lack of evidence from randomised trials to determine whether the rout
 
 ---
 
-### Association between serum albumin levels at admission and clinical outcomes in pediatric intensive care units: a multi-center study [^ecc686ab]. BMC Pediatrics (2024). Medium credibility.
+### Association between serum albumin levels at admission and clinical outcomes in pediatric intensive care units: a multi-center study [^11742m78]. BMC Pediatrics (2024). Medium credibility.
 
 Yet, while previous research on albumin levels in adult patient cohorts is rather extensive, there is scarcity of comparable research on critically ill pediatric patients. Among the few relevant studies, a preoperative-postoperative albumin study found that low albumin levels were associated with high rates of surgical infection and increased LOS. Similarly, there is some evidence indicating that, in pediatric renal transplant patients, pretransplant low albumin levels are associated with graft failure. In a recent PICU-based study, Leite et al. found a strong correlation between hypoalbuminemia and increased mortality, prolonged PICU stay, and the need for mechanical ventilation.
 
@@ -232,7 +232,7 @@ For a normal albumin level, the average plasma albumin value for the given age g
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^e45900ad]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^116qY5AU]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Introduction
 
@@ -244,13 +244,13 @@ In view of the many areas of pathophysiology addressed, we will limit the number
 
 ---
 
-### Congenital nephrotic syndrome [^6e2b1c15]. Journal of Perinatology (2021). Medium credibility.
+### Congenital nephrotic syndrome [^113pL7qv]. Journal of Perinatology (2021). Medium credibility.
 
 Congenital nephrotic syndrome (CNS), a challenging form of nephrotic syndrome, is characterized by massive proteinuria, hypoalbuminemia, and edema. Extensive leakage of plasma proteins is the main feature of CNS. Patients can be diagnosed in utero or during the first few weeks of life, usually before three months. The etiology of CNS can be related to either genetic or nongenetic etiologies. Pathogenic variants in NPHS1, NPHS2, LAMB2, WT1, and PLCE1 genes have been implicated in this disease. The clinical course is complicated by significant edema, infections, thrombosis, hypothyroidism, failure to thrive, and others. Obtaining vascular access, frequent intravenous albumin infusions, diuretic use, infection prevention, and nutritional support are the mainstay management during their first month of life. The best therapy for these patients is kidney transplantation. CNS diagnosis and treatment continue to be a challenge for clinicians. This review increases the awareness about the pathogenesis, diagnosis, and management of CNS patients.
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^b3cc120e]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^115bZL4M]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Inflammation and Tissue Growth
 
@@ -262,7 +262,7 @@ The inference that acute inflammation usually has positive effects is strongly s
 
 ---
 
-### Randomised trials of human albumin for adults with sepsis: systematic review and meta-analysis with trial sequential analysis of all-cause mortality [^bc18cae5]. BMJ (2014). Excellent credibility.
+### Randomised trials of human albumin for adults with sepsis: systematic review and meta-analysis with trial sequential analysis of all-cause mortality [^115orzyi]. BMJ (2014). Excellent credibility.
 
 Objective
 
@@ -298,7 +298,7 @@ In this analysis, human albumin solutions as part of fluid volume expansion and 
 
 ---
 
-### Randomised trials of human albumin for adults with sepsis: systematic review and meta-analysis with trial sequential analysis of all-cause mortality [^84aaff3f]. BMJ (2014). Excellent credibility.
+### Randomised trials of human albumin for adults with sepsis: systematic review and meta-analysis with trial sequential analysis of all-cause mortality [^114PgoVQ]. BMJ (2014). Excellent credibility.
 
 Objective To assess the efficacy and safety of pooled human albumin solutions as part of fluid volume expansion and resuscitation (with or without improvement of baseline hypoalbuminaemia) in critically unwell adults with sepsis of any severity.
 
@@ -318,7 +318,7 @@ Conclusions In this analysis, human albumin solutions as part of fluid volume ex
 
 ---
 
-### Fluid resuscitation in neonatal and pediatric hypovolemic shock: a Dutch pediatric society evidence-based clinical practice guideline [^cae0b08e]. Intensive Care Medicine (2006). Low credibility.
+### Fluid resuscitation in neonatal and pediatric hypovolemic shock: a Dutch pediatric society evidence-based clinical practice guideline [^116BmyEV]. Intensive Care Medicine (2006). Low credibility.
 
 Objective
 
@@ -338,7 +338,7 @@ Given the state of the evidence and taking all other considerations into account
 
 ---
 
-### Hypoalbuminemia following abdominal surgery leads to high serum unbound bilirubin concentrations in newborns soon after birth [^b4997f6b]. Neonatology (2011). Low credibility.
+### Hypoalbuminemia following abdominal surgery leads to high serum unbound bilirubin concentrations in newborns soon after birth [^115ckL6v]. Neonatology (2011). Low credibility.
 
 Background
 
@@ -362,7 +362,7 @@ Our study suggests that hypoalbuminemia following abdominal surgery causes a hig
 
 ---
 
-### Prevalence of hypoalbuminemia and elevated bilirubin / albumin ratios in a large cohort of infants in the neonatal intensive care unit [^58b36b26]. The Journal of Pediatrics (2017). Low credibility.
+### Prevalence of hypoalbuminemia and elevated bilirubin / albumin ratios in a large cohort of infants in the neonatal intensive care unit [^113GWB9w]. The Journal of Pediatrics (2017). Low credibility.
 
 Objective
 
@@ -382,7 +382,7 @@ Both gestational age and postnatal age influence TSB, albumin, and B/A ratios; h
 
 ---
 
-### Hypoalbuminemia in acute illness: is there a rationale for intervention? A meta-analysis of cohort studies and controlled trials [^0ec23fdf]. Annals of Surgery (2003). Low credibility.
+### Hypoalbuminemia in acute illness: is there a rationale for intervention? A meta-analysis of cohort studies and controlled trials [^111Nt5EN]. Annals of Surgery (2003). Low credibility.
 
 Objective
 
@@ -406,7 +406,7 @@ Hypoalbuminemia is strongly associated with poor clinical outcomes. Further well
 
 ---
 
-### Serum albumin is an independent predictor of clinical outcomes in critically ill children [^bf39fd22]. Pediatric Critical Care Medicine (2016). Low credibility.
+### Serum albumin is an independent predictor of clinical outcomes in critically ill children [^115tW7YD]. Pediatric Critical Care Medicine (2016). Low credibility.
 
 Objectives
 
@@ -434,7 +434,7 @@ Hypoalbuminemia at admission to a PICU is associated with higher 60-day mortalit
 
 ---
 
-### Electrolytes in sick neonates-which sodium is the right answer? [^b8c6d1b1]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2013). Low credibility.
+### Electrolytes in sick neonates-which sodium is the right answer? [^115iwWAL]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2013). Low credibility.
 
 Introduction
 
@@ -454,7 +454,7 @@ Hypoalbuminaemia is common in sick neonates and monitoring electrolytes using PO
 
 ---
 
-### Association of serum albumin with apnea in infants with bronchiolitis: a secondary analysis of data from the MARC-35 study [^56426a75]. JAMA Network Open (2019). High credibility.
+### Association of serum albumin with apnea in infants with bronchiolitis: a secondary analysis of data from the MARC-35 study [^113CtF7z]. JAMA Network Open (2019). High credibility.
 
 Although using albumin as a variable of apnea or as a component of an apnea prediction tool is promising, the distribution of albumin levels among infants with or without inpatient apnea shows many false-positives (94% of infants with low albumin levels did not have inpatient apnea) and a few false-negatives (0.5% of infants with normal albumin level had inpatient apnea). Until further research is completed, we do not recommend clinicians check albumin levels in infants with bronchiolitis unless otherwise clinically indicated. Replication of this finding in a larger cohort of infants is warranted.
 
@@ -462,13 +462,13 @@ Nonetheless, serum albumin levels may eventually play a role in identifying apne
 
 ---
 
-### Serum albumin and mortality in very low birth weight infants [^6dbd1ca4]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2008). Low credibility.
+### Serum albumin and mortality in very low birth weight infants [^113ohAuy]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2008). Low credibility.
 
 Serum albumin is a predictor of outcome in adults but its role in paediatric patients is unclear. Earliest albumin was not associated with mortality or morbidity in very low birth weight (VLBW) infants. However, the lowest serum albumin had a statistically significant inverse correlation with mortality and potentially plays a prognostic role in VLBW neonates.
 
 ---
 
-### Treatment-related problems in neonates receiving parenteral nutrition: risk factors and implications for practice [^cd52c8df]. BMC Pediatrics (2024). Medium credibility.
+### Treatment-related problems in neonates receiving parenteral nutrition: risk factors and implications for practice [^116FQGYe]. BMC Pediatrics (2024). Medium credibility.
 
 What is new?
 
@@ -478,7 +478,7 @@ Individualized therapy based on neonatal nutritional needs, underlying condition
 
 ---
 
-### Albumin human — albumin — human [^a5d7f827]. FDA (2008). Low credibility.
+### Albumin human — albumin — human [^115EsVvN]. FDA (2008). Low credibility.
 
 Hypoalbuminemia
 
@@ -508,13 +508,13 @@ ALBUMIN (HUMAN) 25% may be administered prior to or during exchange transfusion 
 
 ---
 
-### Multisystem inflammatory syndrome in children associated with severe acute respiratory syndrome coronavirus-2 in an 8-week-old infant [^cf8b0fac]. Journal of the Pediatric Infectious Diseases Society (2020). Medium credibility.
+### Multisystem inflammatory syndrome in children associated with severe acute respiratory syndrome coronavirus-2 in an 8-week-old infant [^116Jh9Ty]. Journal of the Pediatric Infectious Diseases Society (2020). Medium credibility.
 
 We describe an 8-week-old infant with severe gastrointestinal symptoms, significant hypoalbuminemia, and mild carditis following asymptomatic infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The infant's symptoms, including their temporal appearance, were consistent with multisystem inflammatory syndrome in children (MIS-C). A unique finding on colonic histology which may shed light on the pathogenesis of MIS-C was identified. The patient improved significantly following several anti-inflammatory treatments. The lag between the presentation of MIS-C and initial SARS-CoV-2 exposure, which may often be asymptomatic, together with the young age of our patient, makes this a challenging diagnosis. Clinicians should be aware of this entity, even in the neonatal and infantile age groups, to facilitate timely identification and treatment.
 
 ---
 
-### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^df27b36e]. Nature Reviews: Nephrology (2021). High credibility.
+### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^116hqaHB]. Nature Reviews: Nephrology (2021). High credibility.
 
 The following constitutes key background information on nephrotic syndrome in children:
 
@@ -527,7 +527,7 @@ The following constitutes key background information on nephrotic syndrome in ch
 
 ---
 
-### Clarifying the role of serum albumin in hyperbilirubinemia management… [^ccaa32e6]. publications.aap.org (2025). Medium credibility.
+### Clarifying the role of serum albumin in hyperbilirubinemia management… [^116EReEH]. publications.aap.org (2025). Medium credibility.
 
 Their protocol included the measurement of serum albumin concentrations along with glucose-6-phosphate dehydrogenase deficiency screening and other tests for hemolysis in all neonates who had TSB measured as part of that examination. The authors sought to determine the prevalence of serum albumin levels less than 3 g/dL and how often these levels affected management decisions. Of the 935 newborns who had both TSB and albumin levels measured, they found that 250 had a serum albumin concentration of less than 3. 0 g/dL. However, they reported that these low albumin levels seldom affected phototherapy decisions because most neonates with low albumin levels either had other neurotoxicity risk factors or had TSB levels that did not reach the phototherapy threshold for those with neurotoxicity risk factors. 10 was initiated at levels below the recommended thresholds.
 
@@ -538,7 +538,7 @@ It is likely that low albumin levels and resulting lower treatment thresholds co
 
 ---
 
-### Patient survival after human albumin administration. A meta-analysis of randomized, controlled trials [^47e96470]. Annals of Internal Medicine (2001). Low credibility.
+### Patient survival after human albumin administration. A meta-analysis of randomized, controlled trials [^112qcWrj]. Annals of Internal Medicine (2001). Low credibility.
 
 Purpose
 
@@ -566,7 +566,7 @@ Overall, no effect of albumin on mortality was detected; any such effect may the
 
 ---
 
-### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^a392675f]. Chest (2024). Medium credibility.
+### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^115BWA7Q]. Chest (2024). Medium credibility.
 
 Methods
 
@@ -586,13 +586,13 @@ This guideline development process was funded by the Ontario Regional Blood Coor
 
 ---
 
-### Severe nutritional deficiencies in toddlers resulting from health food milk alternatives [^a63d9866]. Pediatrics (2001). Low credibility.
+### Severe nutritional deficiencies in toddlers resulting from health food milk alternatives [^115FTdkh]. Pediatrics (2001). Low credibility.
 
 It is widely appreciated that health food beverages are not appropriate for infants. Because of continued growth, children beyond infancy remain susceptible to nutritional disorders. We report on 2 cases of severe nutritional deficiency caused by consumption of health food beverages. In both cases, the parents were well-educated, appeared conscientious, and their children received regular medical care. Diagnoses were delayed by a low index of suspicion. In addition, nutritional deficiencies are uncommon in the United States and as a result, US physicians may be unfamiliar with their clinical features. Case 1, a 22-month-old male child, was admitted with severe kwashiorkor. He was breastfed until 13 months of age. Because of a history of chronic eczema and perceived milk intolerance, he was started on a rice beverage after weaning. On average, he consumed 1.5 L of this drink daily. Intake of solid foods was very poor. As this rice beverage, which was fallaciously referred to as rice milk, is extremely low in protein content, the resulting daily protein intake of 0.3 g/kg/day was only 25% of the recommended dietary allowance. In contrast, caloric intake was 72% of the recommended energy intake, so the dietary protein to energy ratio was very low. A photograph of the patient after admission illustrates the typical features of kwashiorkor: generalized edema, hyperpigmented and hypopigmented skin lesions, abdominal distention, irritability, and thin, sparse hair. Because of fluid retention, the weight was on the 10th percentile and he had a rotund sugar baby appearance. Laboratory evaluation was remarkable for a serum albumin of 1.0 g/dL (10 g/L), urea nitrogen < 0.5 mg/dL (< 0.2 mmol/L), and a normocytic anemia with marked anisocytosis. Evaluation for other causes of hypoalbuminemia was negative. Therapy for kwashiorkor was instituted, including gradual refeeding, initially via a nasogastric tube because of severe anorexia. Supplements of potassium, phosphorus, multivitamins, zinc, and folic acid were provided. The patient responded dramatically to refeeding with a rising serum albumin and total resolution of the edema within 3 weeks. At follow-up 1 year later he continued to do well on a regular diet supplemented with a milk-based pediatric nutritional supplement. The mortality of kwashiorkor remains high, because of complications such as infection (kwashiorkor impairs cellular immune defenses) and electrolyte imbalances with ongoing diarrhea. Children in industrialized countries have developed kwashiorkor resulting from the use of a nondairy creamer as a milk alternative, but we were unable to find previous reports of kwashiorkor caused by a health food milk alternative. We suspect that cases have been overlooked. Case 2, a 17-month-old black male, was diagnosed with rickets. He was full-term at birth and was breastfed until 10 months of age, when he was weaned to a soy health food beverage, which was not fortified with vitamin D or calcium. Intake of solid foods was good, but included no animal products. Total daily caloric intake was 114% of the recommended dietary allowance. Dietary vitamin D intake was essentially absent because of the lack of vitamin D-fortified milk. The patient lived in a sunny, warm climate, but because of parental career demands, he had limited sun exposure. His dark complexion further reduced ultraviolet light-induced endogenous skin synthesis of vitamin D. The patient grew and developed normally until after his 9-month check-up, when he had an almost complete growth arrest of both height and weight. The parents reported regression in gross motor milestones. On admission the patient was unable to crawl or roll over. He could maintain a sitting position precariously when so placed. Conversely, his language, fine motor-adaptive, and personal-social skills were well-preserved. Generalized hypotonia, weakness, and decreased muscle bulk were present. Clinical features of rickets present on examination included: frontal bossing, an obvious rachitic rosary (photographed), genu varus, flaring of the wrists, and lumbar kyphoscoliosis. The serum alkaline phosphatase was markedly elevated (1879 U/L), phosphorus was low (1.7 mg/dL), and calcium was low normal (8.9 mg/dL). The 25-hydroxy-vitamin D level was low (7.7 pg/mL) and the parathyroid hormone level was markedly elevated (114 pg/mL). The published radiographs are diagnostic of advanced rickets, showing diffuse osteopenia, frayed metaphyses, widened epiphyseal plates, and a pathologic fracture of the ulna. The patient was treated with ergocalciferol and calcium supplements. The published growth chart demonstrates the dramatic response to therapy. Gross motor milestones were fully regained within 6 months. The prominent neuromuscular manifestations shown by this patient serve as a reminder that rickets should be considered in the differential diagnosis of motor delay. (ABSTRACT TRUNCATED)
 
 ---
 
-### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^3882735a]. BMC Pediatrics (2024). Medium credibility.
+### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^112Sn8AV]. BMC Pediatrics (2024). Medium credibility.
 
 Conclusion
 
@@ -600,7 +600,7 @@ Our study highlights the association between postoperative hypoalbuminemia and A
 
 ---
 
-### Risk factor analysis and nomogram prediction model construction for NEC complicated by intestinal perforation [^ff8ef876]. BMC Pediatrics (2024). Medium credibility.
+### Risk factor analysis and nomogram prediction model construction for NEC complicated by intestinal perforation [^117Xss9o]. BMC Pediatrics (2024). Medium credibility.
 
 Hypoalbuminemia, defined as a serum albumin concentration of less than 30 g/L, is usually due to increased bleeding or intestinal loss in patients with NEC. It is also because infants are susceptible to compromise albumin levels in disease states due to their poor ability to synthesize albumin. Our study has showed that hypoalbuminemia was an independent risk factor for the development of intestinal perforation in NEC, and combined hypoalbuminemia increased the nomogram model score by 100 points. At the same time, there are studies that have showed that hypoalbuminemia is associated with poor prognosis in NEC, including increased complications and reduced patient survival. A previous study demonstrated that hypoalbuminemia was a potent, dose-dependent independent predictor of poor prognosis in NEC, with every 10 g/L decreases in serum albumin concentration associated with a 137% increase in mortality, 89% increase in morbidity, and 28% and 71% increases in intensive care unit and hospitalization time, respectively, and that complication rates may be reduced when serum albumin levels are raised above 30 g/L. It has also been noted that an increase or decrease in serum albumin levels is a valuable indicator of disease recovery or deterioration. Therefore, the occurrence of hypoalbuminemia in neonates with NEC in clinical practice needs to be alerted to the development of intestinal perforation, and timely treatment of the primary diseases, albumin infusion, and other interventions for hypoalbuminemia may improve the prognosis of the neonates with NEC.
 
@@ -608,7 +608,7 @@ Patients with NEC commonly exhibit abnormal coagulation. It has been demonstrate
 
 ---
 
-### Hypoalbuminemia: pathogenesis and clinical significance [^3d5dd563]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
+### Hypoalbuminemia: pathogenesis and clinical significance [^112ZymDU]. JPEN: Journal of Parenteral and Enteral Nutrition (2019). Medium credibility.
 
 Synthesis rates in plasma have been shown to increase after nutrition support in healthy individuals. Whether this is also true in critically ill (septic) patients is uncertain. In postsurgical or septic children and adolescents, FSRs were high, but did not increase after nutrition support. 77 In intestinal fistula patients with intra‐abdominal abscesses, serum albumin synthesis rate was found to be decreased. 78 This does not exclude the possibility that in individuals with mild disease activity, nutrition support, especially including protein/amino acids, increases serum albumin synthesis.
 
@@ -616,13 +616,13 @@ A change in the amount of serum albumin also is a function of its rate of breakd
 
 ---
 
-### North American society for pediatric gastroenterology, hepatology, and nutrition position paper on the diagnosis and management of pediatric acute liver failure [^8185b59d]. Journal of Pediatric Gastroenterology and Nutrition (2022). High credibility.
+### North American society for pediatric gastroenterology, hepatology, and nutrition position paper on the diagnosis and management of pediatric acute liver failure [^114K2KDv]. Journal of Pediatric Gastroenterology and Nutrition (2022). High credibility.
 
 Gestational alloimmune liver disease (GALD) — neonatal ALF mechanism and features: GALD results from an intrauterine alloimmune liver injury and is suspected to be the single most common cause of neonatal acute liver failure; characteristic clinical features include an ALF presentation usually at birth and almost always in the first days of life, with the majority (70–90%) of affected infants born premature, and laboratory findings often include refractory hypoglycemia, severe coagulopathy, hypoalbuminemia, and elevated serum ferritin (> 1000 µg/L), while serum aminotransferase levels are normal or near normal and should alert the clinician to the possibility of GALD.
 
 ---
 
-### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^9940ff62]. Chest (2024). Medium credibility.
+### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^114vCwNZ]. Chest (2024). Medium credibility.
 
 Discussion
 
@@ -630,7 +630,7 @@ The evidence-base guiding the use of intravenous albumin was largely instigated 
 
 ---
 
-### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^f2368302]. Heart (2015). Low credibility.
+### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^117C6KAy]. Heart (2015). Low credibility.
 
 The association between hypoalbuminaemia and outcome
 
@@ -642,7 +642,7 @@ ACHD physicians have in the past focused their attention on hypoalbuminaemia mai
 
 ---
 
-### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^339a7d37]. Heart (2015). Low credibility.
+### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^112KWG4e]. Heart (2015). Low credibility.
 
 Introduction
 
@@ -654,7 +654,7 @@ We sought to examine the prevalence and prognostic significance of hypoalbuminae
 
 ---
 
-### Evidence and unknowns for the relevancy of applying current parenteral nutrition support recommendations among infants born less than 750 g or younger than 25 weeks' gestation: a narrative review [^ac7a2fd7]. JPEN: Journal of Parenteral and Enteral Nutrition (2025). Medium credibility.
+### Evidence and unknowns for the relevancy of applying current parenteral nutrition support recommendations among infants born less than 750 g or younger than 25 weeks' gestation: a narrative review [^115Qhus4]. JPEN: Journal of Parenteral and Enteral Nutrition (2025). Medium credibility.
 
 Several significant knowledge gaps exist regarding mineral and trace element requirements in nanopreterm infants. The interpretation of serum calcium levels is complicated by the rapid elevation of parathyroid hormone in response to hypocalcemia, potentially masking true calcium status, whereas hypoalbuminemia can lead to apparent eucalcemia despite reduced available calcium. The optimal timing and dosing of mineral supplementation during different clinical phases remain unclear, particularly during periods of metabolic stress or rapid growth. Furthermore, the impact of various clinical factors on mineral requirements and utilization, such as concurrent medication use, inflammation, and oxidative stress, requires further investigation in this specific population.
 
@@ -667,7 +667,7 @@ Special considerations and proposed recommendations for parenteral nutrition man
 
 ---
 
-### Albumin human — albumin — human [^0bb721a9]. FDA (2008). Low credibility.
+### Albumin human — albumin — human [^111JNNnk]. FDA (2008). Low credibility.
 
 1.1 Hypovolemia
 
@@ -701,7 +701,7 @@ ALBUMIN (HUMAN) 25% is indicated in the treatment of hyperbilirubinemia. It may 
 
 ---
 
-### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^c70e8245]. BMC Pediatrics (2024). Medium credibility.
+### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^11667Qje]. BMC Pediatrics (2024). Medium credibility.
 
 Background
 
@@ -721,7 +721,7 @@ Postoperative hypoalbuminemia was associated with early postoperative AKI follow
 
 ---
 
-### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^2a094e31]. Heart (2015). Low credibility.
+### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^1125Kc7z]. Heart (2015). Low credibility.
 
 Limitations
 
@@ -735,7 +735,7 @@ Future, larger prospective studies are clearly warranted to further investigate 
 
 ---
 
-### Standardised neonatal parenteral nutrition formulations-australasian neonatal parenteral nutrition consensus update 2017 [^7bf183ad]. BMC Pediatrics (2020). Medium credibility.
+### Standardised neonatal parenteral nutrition formulations-australasian neonatal parenteral nutrition consensus update 2017 [^114Akbjz]. BMC Pediatrics (2020). Medium credibility.
 
 Biochemical monitoring on PN
 
@@ -761,13 +761,13 @@ Defined as serum albumin, preterm < 18 g/L in preterm and < 25 g/L in term neona
 
 ---
 
-### New WHO guideline on the prevention and management of acute malnutrition in infants and young children: remaining challenges [^c2750a74]. BMJ Paediatrics Open (2024). High credibility.
+### New WHO guideline on the prevention and management of acute malnutrition in infants and young children: remaining challenges [^115yHuoy]. BMJ Paediatrics Open (2024). High credibility.
 
 The updated WHO guidelines have the potential to dramatically curb the incidence of acute malnutrition and provide comprehensive community-based nutrition care. However, it is essential that the implementation of these guidelines is done thoughtfully and intentionally with full financial and administrative support from local Ministries of Health and implementing partners. These general guidelines not cause clinicians to lose sight of the necessity to individualise care to each child and family, which is essential for the management and prevention of acute malnutrition and which includes a need to act quickly on risk factors and early onset of growth faltering long prior to the diagnosis of MAM and SAM.
 
 ---
 
-### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^55c98049]. Nature Reviews: Nephrology (2021). High credibility.
+### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^113CBdWg]. Nature Reviews: Nephrology (2021). High credibility.
 
 Box 3 Recommendations for fluid and albumin administration
 
@@ -788,19 +788,19 @@ Fluid prescription in patients with CNS should primarily be used to provide adeq
 
 ---
 
-### Practical guidance for the diagnosis and management of secondary hypogammaglobulinemia: a Work group report of the AAAAI primary immunodeficiency and altered immune response committees [^64b11b8a]. The Journal of Allergy and Clinical Immunology (2022). High credibility.
+### Practical guidance for the diagnosis and management of secondary hypogammaglobulinemia: a Work group report of the AAAAI primary immunodeficiency and altered immune response committees [^113aHFWq]. The Journal of Allergy and Clinical Immunology (2022). High credibility.
 
 Protein-losing enteropathy (PLE) with secondary hypogammaglobulinemia (SHG) — evaluation and management: SHG, lymphopenia, and increased risk for frequent infections may occur in PLE, and SHG due to PLE should be suspected in edematous patients with low albumin when other causes of protein loss, suboptimal synthesis, or malnutrition have been excluded; increased clearance of alpha-1 antitrypsin is consistent with a diagnosis of PLE, and reduced serum concentrations of albumin, fibrinogen, cholesterol, transferrin, ceruloplasmin, and fat-soluble vitamins are variably observed. Genetic testing for monogenic causes of very early onset inflammatory bowel disease (VEO-IBD) should be considered in pediatric enteropathy with hypogammaglobulinemia, as well as loss-of-function mutations in SLCO2A1. For treatment evidence, in a report of 2 pediatric patients with severe SHG due to PLE, an infusion of 200 mg/kg IVIG increased serum IgG to approximately 700 mg/dL, but levels were slightly above 350 mg/dL by 7 days post-infusion; it has been suggested that IgG-RT be considered if prophylactic antibiotics are inadequate at preventing infections. SCIG may possibly be preferable for patients with protein-losing conditions, and in a case series of 3 patients with PLE, SCIG led to decreased infections and more stable IgG levels than IVIG; however, SCIG use for non-PI protein-losing conditions would be considered off-label because it is not FDA-approved. Overall, there is insufficient evidence to recommend the routine use of IgG-RT in PLE, and vaccination per CDC guidelines is recommended.
 
 ---
 
-### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^4a8b1b8c]. Chest (2024). High credibility.
+### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^112uWotX]. Chest (2024). High credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to intravenous albumin, ICTMG 2024 guidelines recommend to avoid administering IV albumin for volume replacement in preterm infants (< 32 weeks or < 1,500 g) with or without hypoperfusion.
 
 ---
 
-### Hypoalbuminemia in status epilepticus is a biomarker of short-and long-term mortality: a 9-year cohort study [^5e34d897]. European Journal of Neurology (2025). Medium credibility.
+### Hypoalbuminemia in status epilepticus is a biomarker of short-and long-term mortality: a 9-year cohort study [^113Qfb1p]. European Journal of Neurology (2025). Medium credibility.
 
 FUNDING INFORMATION
 
@@ -808,7 +808,7 @@ This research did not receive any specific grant from funding agencies in the pu
 
 ---
 
-### Small-volume resuscitation with hyperoncotic albumin: a systematic review of randomized clinical trials [^55aeb3dd]. Critical Care (2008). Low credibility.
+### Small-volume resuscitation with hyperoncotic albumin: a systematic review of randomized clinical trials [^113C2dSC]. Critical Care (2008). Low credibility.
 
 Background
 
@@ -828,19 +828,19 @@ In some clinical indications, randomized trial evidence has suggested certain be
 
 ---
 
-### International consensus guidelines for the diagnosis and management of food protein-induced enterocolitis syndrome: executive summary-workgroup report of the adverse reactions to foods committee, American Academy of Allergy, Asthma&Immunology [^8a6087a8]. The Journal of Allergy and Clinical Immunology (2017). Medium credibility.
+### International consensus guidelines for the diagnosis and management of food protein-induced enterocolitis syndrome: executive summary-workgroup report of the adverse reactions to foods committee, American Academy of Allergy, Asthma&Immunology [^114Y9iSj]. The Journal of Allergy and Clinical Immunology (2017). Medium credibility.
 
 Food protein–induced enterocolitis syndrome (FPIES) — laboratory and stool findings note that patients with chronic FPIES can have anemia, hypoalbuminemia, and increased white blood cell count with a left shift and eosinophilia, frequently prompting sepsis evaluation; thrombocytosis was reported in 65% of patients in one acute series; metabolic acidosis and methemoglobinemia have been reported in acute and chronic FPIES; in acute FPIES with diarrhea, stool may contain frank or occult blood, mucus, leukocytes, and increased carbohydrate content, whereas in infants with chronic FPIES with diarrhea, stool examination can reveal occult blood, neutrophils, eosinophils, Charcot-Leyden crystals, and/or reducing substances.
 
 ---
 
-### Non-IgE-mediated gastrointestinal food allergy [^cfded648]. The Journal of Allergy and Clinical Immunology (2015). Low credibility.
+### Non-IgE-mediated gastrointestinal food allergy [^116KBHYs]. The Journal of Allergy and Clinical Immunology (2015). Low credibility.
 
 Non-IgE-mediated gastrointestinal food-induced allergic disorders (non-IgE-GI-FAs) account for an unknown proportion of food allergies and include food protein-induced enterocolitis syndrome (FPIES), food protein-induced allergic proctocolitis (FPIAP), and food protein-induced enteropathy (FPE). Non-IgE-GI-FAs are separate clinical entities but have many overlapping clinical and histologic features among themselves and with eosinophilic gastroenteropathies. Over the past decade, FPIES has emerged as the most actively studied non-IgE-GI-FA, potentially because of acute and distinct clinical features. FPIAP remains among the common causes of rectal bleeding in infants, while classic infantile FPE is rarely diagnosed. The overall most common allergens are cow's milk and soy; in patients with FPIES, rice and oat are also common. The most prominent clinical features of FPIES are repetitive emesis, pallor, and lethargy; chronic FPIES can lead to failure to thrive. FPIAP manifests with bloody stools in well-appearing young breast-fed or formula-fed infants. Features of FPE are nonbloody diarrhea, malabsorption, protein-losing enteropathy, hypoalbuminemia, and failure to thrive. Non-IgE-GI-FAs have a favorable prognosis; the majority resolve by 1 year in patients with FPIAP, 1 to 3 years in patients with FPE, and 1 to 5 years in patients with FPIES, with significant differences regarding specific foods. There is an urgent need to better define the natural history of FPIES and the pathophysiology of non-IgE-GI-FAs to develop biomarkers and novel therapies.
 
 ---
 
-### Albumin human — albumin — human [^6d462033]. FDA (2008). Low credibility.
+### Albumin human — albumin — human [^113o1Cst]. FDA (2008). Low credibility.
 
 2.1 Dosage
 
@@ -862,31 +862,31 @@ Hemodilution may follow administration of ALBUMIN (HUMAN) 25%. If hemorrhage has
 
 ---
 
-### Neonatal nephrotic syndrome: all is not gloomy [^48d2a92b]. BMJ Case Reports (2024). High credibility.
+### Neonatal nephrotic syndrome: all is not gloomy [^112rxsJ2]. BMJ Case Reports (2024). High credibility.
 
 Congenital nephrotic syndrome (CNS) is a rare clinical syndrome with a constellation of proteinuria, hypoalbuminaemia and oedema, presenting within 3months of birth. We present a rare case of neonatal nephrotic syndrome with a probable sepsis induced aetiology. The neonate was referred at day of life 15 with Klebsiella pneumonia sepsis and anasarca. On investigation, the patient had nephrotic range proteinuria, hypoalbuminaemia, generalised anasarca and ascites. The neonate was started on broad-spectrum antibiotics and furosemide. Genetic and other secondary causes of CNS were ruled out. With supportive management and resolution of sepsis, the neonate improved. This case highlights the rare cause of sepsis-induced nephrotic syndrome (NS), which required only supportive treatment without the need for aggressive management of CNS.
 
 ---
 
-### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^ede3db1c]. Chest (2024). High credibility.
+### Use of intravenous albumin: a guideline from the International Collaboration for Transfusion Medicine Guidelines [^1175gbnB]. Chest (2024). High credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to intravenous albumin, ICTMG 2024 guidelines recommend to avoid administering IV albumin to improve respiratory function in preterm infants (< 36 weeks) with low serum albumin levels and respiratory distress.
 
 ---
 
-### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^57e0be4b]. Nature Reviews: Nephrology (2021). High credibility.
+### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^113FHQsU]. Nature Reviews: Nephrology (2021). High credibility.
 
 Congenital nephrotic syndrome (CNS) is a heterogeneous group of disorders characterized by nephrotic-range proteinuria, hypoalbuminaemia and oedema, which manifest in utero or during the first 3 months of life. The main cause of CNS is genetic defects in podocytes; however, it can also be caused, in rare cases, by congenital infections or maternal allo-immune disease. Management of CNS is very challenging because patients are prone to severe complications, such as haemodynamic compromise, infections, thromboses, impaired growth and kidney failure. In this consensus statement, experts from the European Reference Network for Kidney Diseases (ERKNet) and the European Society for Paediatric Nephrology (ESPN) summarize the current evidence and present recommendations for the management of CNS, including the use of renin-angiotensin system inhibitors, diuretics, anticoagulation and infection prophylaxis. Therapeutic management should be adapted to the clinical severity of the condition with the aim of maintaining intravascular euvolaemia and adequate nutrition, while preventing complications and preserving central and peripheral vessels. We do not recommend performing routine early nephrectomies but suggest that they are considered in patients with severe complications despite optimal conservative treatment, and before transplantation in patients with persisting nephrotic syndrome and/or a WT1-dominant pathogenic variant.
 
 ---
 
-### KDOQI US commentary on the 2021 KDIGO clinical practice guideline for the management of glomerular diseases [^1e331c09]. American Journal of Kidney Diseases (2023). High credibility.
+### KDOQI US commentary on the 2021 KDIGO clinical practice guideline for the management of glomerular diseases [^111mmo9a]. American Journal of Kidney Diseases (2023). High credibility.
 
 Diagnosis of nephrotic syndrome in children — urine protein-to-creatinine ratio (UPCR) and albumin thresholds: The substitution of spot UPCR for the 24-hour urine collection has been established as the standard of care for children, with nephrotic-range proteinuria defined as first morning UPCR of ≥ 2 g/g. Whereas the 2012 KDIGO guideline maintained albumin ≤ 2.5 g/dL, the current guideline suggests serum albumin ≤ 3 g/dl; however, we suggest continuing to use the definition of nephrotic syndrome for children in the absence of evidence to support a change to a higher cutoff. It is unknown whether children with nephrotic-range proteinuria and less severe hypoalbuminemia (albumin of 2.6–2.9 g/dL) have similar pathology or treatment responses, and this has not been studied in prospective clinical trials. Practice Point 4.1.1 states that the definitions relating to nephrotic syndrome in children are based on the clinical characteristics outlined in Figure 39.
 
 ---
 
-### Abstracts of ESPR 2013, the European society of paediatric radiology 50th annual meeting and 36th postgraduate course. June 3–7 2013. budapest, Hungary [^7d3b09c5]. Pediatric Radiology (2013). Low credibility.
+### Abstracts of ESPR 2013, the European society of paediatric radiology 50th annual meeting and 36th postgraduate course. June 3–7 2013. budapest, Hungary [^114CfHPA]. Pediatric Radiology (2013). Low credibility.
 
 Introduction: A nephrotic syndrome (NS) is a disease consisting of massive leakage of proteins in urine, potentially lifethreatening due to hypovolemia, hypercoagulability and infections. It is defined by the association of edema, urinary protein > 20 g/L and serum albumin level < 10 g/L. The annual incidence of NS in the USA and Europe is estimated at about 1–7/100.000 births. Most NS result from a dysfunction of the podocytes at the level of glomerular filtration barrier. Treatment ought to be installed as early as possible in order to reduce hypoproteinemia and its secondary effects. Several NS are corticoid-sensitive but many are corticoid-resistant especially among congenital NS.
 
@@ -894,7 +894,7 @@ There are three types of NS, idiopathic (the most common), secondary and congeni
 
 ---
 
-### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^45b43df9]. BMC Pediatrics (2024). Medium credibility.
+### Postoperative hypoalbuminemia and outcomes of pediatric liver transplantation [^112nLgqv]. BMC Pediatrics (2024). Medium credibility.
 
 Discussion
 
@@ -904,7 +904,7 @@ A meta-analysis of adult LT recipients showed that a serum albumin level of less
 
 ---
 
-### Serum albumin assessment in neonatal jaundice: impact on phototherapy decision-making… [^c8b34850]. publications.aap.org (2025). Medium credibility.
+### Serum albumin assessment in neonatal jaundice: impact on phototherapy decision-making… [^1168Yk4o]. publications.aap.org (2025). Medium credibility.
 
 The objective of this study was to investigate the impact of serum albumin assessment on early neonatal jaundice treatment decisions. Out of 935 infants evaluated for hyperbilirubinemia, 250 infants had serum albumin levels less than 3. 0 g/dL. Among 121 infants who received phototherapy at TSB levels meeting the guideline threshold, 49 infants had serum albumin less than 3. 0 g/dL as one of the neurotoxicity risk factors. 1 The most concerning consequence of hyperbilirubinemia is neurological dysfunction, bilirubin encephalopathy, or kernicterus, which may cause disability or death. 2 To prevent complications, it is crucial to regularly monitor newborns for clinical jaundice, promptly assess the total serum bilirubin level, and offer treatment with phototherapy or exchange transfusion when clinically indicated. 5 The AAP guidelines define low serum albumin levels as one of the risk factors for bilirubin neurotoxicity, along with isoimmune hemolytic disease; glucose-6-phosphate dehydrogenase deficiency; or other hemolytic conditions, sepsis, and significant clinical instability in the previous 24 hours. 12 These findings indicate that as many as 50% of newborns born after 35 weeks' gestation may have serum albumin levels less than or equal to 3. 0 g/dL, which contributes to the risk of bilirubin neurotoxicity. Our study found that 26. 7% of all newborns over 35 weeks' gestation assessed for early neonatal jaundice had serum albumin levels less than
 3. 0 g/dL. 14 Yang et al retrospectively assessed 435 term newborns with hyperbilirubinemia over 4 years in southeast China. They found that 9. 7% had G6PD deficiency,
@@ -914,19 +914,19 @@ The low yield of serum albumin to affect any treatment decisions is mostly due t
 
 ---
 
-### Nephrotic syndrome [^c0c0ca8a]. Pediatric Clinics of North America (2019). Medium credibility.
+### Nephrotic syndrome [^115vmNyw]. Pediatric Clinics of North America (2019). Medium credibility.
 
 Nephrotic syndrome is characterized by edema, proteinuria, hypoalbuminemia, and hyperlipidemia. Minimal change disease, the most common cause in childhood, generally responds to corticosteroids, although most patients experience disease relapses. Focal segmental glomerulosclerosis is usually resistant to corticosteroids and carries a significant risk of kidney failure, necessitating renal transplantation. Nephrotic syndrome may also be secondary to gene mutations and systemic diseases such as lupus. Clinical evaluation involves distinguishing primary and secondary causes and monitoring for disease complications, including blood clots and serious infections such as spontaneous bacterial peritonitis. Immunosuppressive medications are used to prevent relapses and treat corticosteroid-resistant disease.
 
 ---
 
-### Low bilirubin kernicterus with sepsis and hypoalbuminaemia [^c34ff28c]. BMJ Case Reports (2013). Medium credibility.
+### Low bilirubin kernicterus with sepsis and hypoalbuminaemia [^115zZSTM]. BMJ Case Reports (2013). Medium credibility.
 
 A near-term female neonate with total serum bilirubin levels not exceeding the exchange transfusion level with hypoalbuminaemia developed abnormal movements while recovering from sepsis. Investigations showed an evidence of kernicterus on brain imaging and bilateral auditory neuropathic changes.
 
 ---
 
-### High protein intake on later outcomes in preterm children: a systematic review and meta-analysis [^5caeb5ac]. Pediatric Research (2025). Medium credibility.
+### High protein intake on later outcomes in preterm children: a systematic review and meta-analysis [^113NQYYb]. Pediatric Research (2025). Medium credibility.
 
 In children born preterm, refeeding syndrome and related electrolyte disturbances are precipitated by the sudden supply of intravenous amino acids and glucose following a period of low nutrition. We found that infants in the high protein group had a higher risk of developing refeeding syndrome and its biochemical components, hypophosphatemia and hypercalcemia. Refeeding syndrome in neonates is associated with mortality and morbidity, including metabolic acidosis, hypernatremia, hypovolemia, ischaemia, respiratory alkalosis, sepsis and chronic lung disease. This suggests possible reasons why high protein intake contributed to the worse developmental outcomes we found in this study. Most of the studies reviewed were conducted in an era when electrolytes such as phosphate were withheld or restricted for the first few days after birth, likely exacerbating the effects of a higher protein intake to precipitate hypophosphatemia, though it is unknown if appropriate monitoring and treatment of electrolyte disturbances to prevent and treat refeeding syndrome may ameliorate these effects.
 
@@ -934,7 +934,7 @@ We found that children in the high protein group might have slightly higher seru
 
 ---
 
-### Diagnosis and treatment of tyrosinemia type I: a US and Canadian consensus group review and recommendations [^88630905]. Genetics in Medicine (2017). Low credibility.
+### Diagnosis and treatment of tyrosinemia type I: a US and Canadian consensus group review and recommendations [^114VCagt]. Genetics in Medicine (2017). Low credibility.
 
 Clinical findings in HT-1
 
@@ -944,7 +944,7 @@ Infants with HT-1 demonstrate acute liver failure as early as a few weeks of age
 
 ---
 
-### Cytomegalovirus infection can mimic genetic nephrotic syndrome: a case report [^7d9ed9ea]. BMC Nephrology (2015). Low credibility.
+### Cytomegalovirus infection can mimic genetic nephrotic syndrome: a case report [^114DEou3]. BMC Nephrology (2015). Low credibility.
 
 Background
 
@@ -954,7 +954,7 @@ However, non-genetic congenital or infantile nephrotic syndromes have been ident
 
 ---
 
-### Factors influencing necrotizing enterocolitis in premature infants in China: a systematic review and meta-analysis [^98f84558]. BMC Pediatrics (2024). Medium credibility.
+### Factors influencing necrotizing enterocolitis in premature infants in China: a systematic review and meta-analysis [^114unWYP]. BMC Pediatrics (2024). Medium credibility.
 
 Background
 
@@ -974,13 +974,13 @@ Septicemia, blood transfusion, neonatal asphyxia, pneumonia, infection, congenit
 
 ---
 
-### Rice nightmare: kwashiorkor in 2 Philadelphia-area infants fed rice dream beverage [^24199997]. Journal of the American Academy of Dermatology (2005). Low credibility.
+### Rice nightmare: kwashiorkor in 2 Philadelphia-area infants fed rice dream beverage [^111vX9sc]. Journal of the American Academy of Dermatology (2005). Low credibility.
 
 A 14-month-old girl and a 7-month-old boy each presented with a diffuse dermatitis, whole body edema, and hypoalbuminemia. The diets of both infants consisted almost entirely of Rice Dream, a rice-based, protein-poor beverage. Both infants were diagnosed with kwashiorkor, which resolved with protein supplementation. Clues from the physical examination, a diet history, appropriate laboratory examinations, and an index of suspicion are crucial in promptly diagnosing and treating infants with kwashiorkor. Manufacturers of rice beverages should appropriately warn parents about the dangers of using their products as infant nourishment.
 
 ---
 
-### Clinical reviewer-ALBUMINEX… [^d2ffed84]. FDA (2025). Medium credibility.
+### Clinical reviewer-ALBUMINEX… [^116PpN4B]. FDA (2025). Medium credibility.
 
 200 No more than 200 No more than 200 No more than 200 Source: STN125655/0 Clinical Overview, p. 12 The following indications are sought for Albuminex 5%:
 
@@ -996,19 +996,19 @@ A 14-month-old girl and a 7-month-old boy each presented with a diffuse dermatit
 
 ---
 
-### IPNA clinical practice recommendations for the diagnosis and management of children with steroid-sensitive nephrotic syndrome [^0e9174c5]. Pediatric Nephrology (2023). High credibility.
+### IPNA clinical practice recommendations for the diagnosis and management of children with steroid-sensitive nephrotic syndrome [^111NbgfE]. Pediatric Nephrology (2023). High credibility.
 
 Regarding medical management for nephrotic syndrome in children, more specifically with respect to management of hypovolemia, IPNA 2023 guidelines recommend to consider administering 4% or 5% albumin without furosemide in cases of hypovolemic shock and/or hypotension.
 
 ---
 
-### Use of albumin: an update [^aec77693]. British Journal of Anaesthesia (2010). Low credibility.
+### Use of albumin: an update [^115U7qte]. British Journal of Anaesthesia (2010). Low credibility.
 
 Human albumin (HA) is widely used for volume replacement or correction of hypoalbuminaemia. The value of HA in the clinical setting continues to be controversial, and it is unclear whether in today's climate of cost consciousness, there is still a place for such a highly priced substance. It is therefore appropriate to update our knowledge of the value of HA. With the exception of women in early pregnancy, there appears to be few indications for the use of HA to correct hypovolaemia. Some studies of traumatic brain injury and intensive care patients suggest negative effects on outcome and organ function of (hyperoncotic) HA. Modern synthetic colloids appear to be a cheaper alternative for maintaining colloid oncotic pressure. The value of using HA to correct hypoalbuminaemia has not been clearly justified. Theoretical and pharmacological benefits of HA, such as oxygen radical scavenging or binding of toxic substances, have not as yet been shown to have beneficial clinical consequences. Experimental data from cell lines or animals do not appear to mimic the clinical setting. Convincing data justifying the use of HA either for treating hypovolaemia or for correcting hypoalbuminaemia are still lacking. A restricted use of HA is recommended.
 
 ---
 
-### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^c1fa8521]. Heart (2015). Low credibility.
+### Hypoalbuminaemia predicts outcome in adult patients with congenital heart disease [^115xakuv]. Heart (2015). Low credibility.
 
 Discussion
 
@@ -1020,7 +1020,7 @@ The aetiology of hypoalbuminaemia in ACHD is likely to be multifactorial. Hypoal
 
 ---
 
-### Hypoalbuminemia in critically ill children… [^78a96d99]. JAMA Network (2007). Excellent credibility.
+### Hypoalbuminemia in critically ill children… [^1145tRYU]. JAMA Network (2007). Excellent credibility.
 
 Typically, hypoalbuminemia is ascribed to diminished synthesis or increased losses. Diversion of synthetic capacity to other proteins is another cause of hypoalbuminemia. Inflammatory disorders can accelerate the catabolism of albumin while simultaneously decreasing its manufacture. During critical illness, capillary permeability increases dramatically and alters albumin exchange between intravascular and extravascular compartments. An analysis of covariance indicated that children in the hypoalbuminemia group had a higher mean number of organ failures compared with those in the normal albumin level group. In the only other comparable study, Durward et al4 found a hypoalbuminemia incidence of 56. 7%.
 
@@ -1030,7 +1030,7 @@ In summary, we found that hypoalbuminemia was a significant marker of morbidity 
 
 ---
 
-### Phenytoin (phenytoin infatabs) [^e399b86e]. FDA (2025). Medium credibility.
+### Phenytoin (phenytoin infatabs) [^116pRpgm]. FDA (2025). Medium credibility.
 
 Data
 
@@ -1064,13 +1064,13 @@ Because the fraction of unbound phenytoin is increased in patients with renal or
 
 ---
 
-### Optimizing nutritional management in children with chronic liver disease [^1cc87e30]. Pediatric Clinics of North America (2009). Low credibility.
+### Optimizing nutritional management in children with chronic liver disease [^111jfzoq]. Pediatric Clinics of North America (2009). Low credibility.
 
 Malnutrition is common in infants and children with chronic liver disease (CLD) and may easily be underestimated by clinical appearance alone. The cause of malnutrition in CLD is multifactorial, although insufficient dietary intake is probably the most important factor and is correctable. Fat malabsorption occurs in cholestatic disorders, and one must also consider any accompanying fat-soluble vitamin and essential fatty acid deficiencies. The clinician should proactively evaluate, treat, and re-evaluate response to treatment of nutritional deficiencies. Because a better nutritional state is associated with better survival before and after liver transplantation, aggressive nutritional management is an important part of the care of these children.
 
 ---
 
-### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^085e5c0a]. Nature Reviews: Nephrology (2021). High credibility.
+### Management of congenital nephrotic syndrome: consensus recommendations of the ERKNet-ESPN working group [^111DQbXX]. Nature Reviews: Nephrology (2021). High credibility.
 
 Treatment with diuretics, RAAS inhibitors and NSAIDs should be stopped in patients with or at risk of hypovolaemia (for example owing to gastrointestinal symptoms or worsening of hypoalbuminaemia) because they increase the risk of AKI and thrombosis in these patients. Parents must be informed of the need to stop diuretics, RAAS inhibitors and NSAIDs if their child has vomiting or diarrhoea.
 
@@ -1085,7 +1085,7 @@ In the case of non-kidney volume losses such as vomiting and diarrhoea, routine 
 
 ---
 
-### Viral hepatitis in pregnancy [^4a9e19cc]. Journal of Viral Hepatitis (2022). Medium credibility.
+### Viral hepatitis in pregnancy [^112udBuV]. Journal of Viral Hepatitis (2022). Medium credibility.
 
 1.2.3 Effects ofon pregnancy
 
@@ -1099,13 +1099,13 @@ Most infants born to mothers with HAV infection were not affected and had normal
 
 ---
 
-### IPNA clinical practice recommendations for the diagnosis and management of children with steroid-sensitive nephrotic syndrome [^8afdbfb2]. Pediatric Nephrology (2023). High credibility.
+### IPNA clinical practice recommendations for the diagnosis and management of children with steroid-sensitive nephrotic syndrome [^114Z4XKF]. Pediatric Nephrology (2023). High credibility.
 
 Regarding medical management for nephrotic syndrome in children, more specifically with respect to management of hypovolemia, IPNA 2023 guidelines recommend to administer 20% or 25% albumin infusions in patients with signs of hypovolemia, including oliguria, AKI, prolonged capillary refill time, tachycardia, and abdominal discomfort. Add furosemide (1–2 mg/kg given IV) in the middle and/or at the end of the infusion if volume has been restored and urine output is insufficient.
 
 ---
 
-### Fosphenytoin sodium (fosphenytoin) [^c2cde660]. FDA (2023). Medium credibility.
+### Fosphenytoin sodium (fosphenytoin) [^115yokvb]. FDA (2023). Medium credibility.
 
 5.13 Renal or Hepatic Disease or Hypoalbuminemia
 
@@ -1129,7 +1129,7 @@ Hyperglycemia, resulting from the inhibitory effect of phenytoin (the active met
 
 ---
 
-### Does ibuprofen increase neonatal hyperbilirubinemia? [^8da9b6f5]. Pediatrics (2009). Low credibility.
+### Does ibuprofen increase neonatal hyperbilirubinemia? [^114d2G3W]. Pediatrics (2009). Low credibility.
 
 Objective
 
@@ -1149,13 +1149,13 @@ Ibuprofen administration was associated with higher peak total serum bilirubin l
 
 ---
 
-### A case of Ménétrier disease in a child [^d140f893]. Pediatric Emergency Care (2012). Low credibility.
+### A case of Ménétrier disease in a child [^116MEEdp]. Pediatric Emergency Care (2012). Low credibility.
 
 Ménétrier disease is a protein-losing gastroenteropathy often misdiagnosed in the pediatric population. The disease is characterized by hypoalbuminemia secondary to protein loss through the gastrointestinal mucosa and resultant peripheral edema. It is important for emergency department practitioners to consider this diagnosis in the differential diagnosis for edema and low albumin levels in pediatric patients. We present a case report of Ménétrier disease in an edematous child and a brief review.
 
 ---
 
-### Morbidity in hospitalized patients receiving human albumin: a meta-analysis of randomized, controlled trials [^04ea67e2]. Critical Care Medicine (2004). Low credibility.
+### Morbidity in hospitalized patients receiving human albumin: a meta-analysis of randomized, controlled trials [^1118Hgim]. Critical Care Medicine (2004). Low credibility.
 
 Objective
 
@@ -1183,7 +1183,7 @@ Albumin reduces morbidity in acutely ill hospitalized patients. Concomitant admi
 
 ---
 
-### Clinical and genetic characterisation of infantile liver failure syndrome type 1, due to recessive mutations in LARS [^11e91154]. Journal of Inherited Metabolic Disease (2015). Low credibility.
+### Clinical and genetic characterisation of infantile liver failure syndrome type 1, due to recessive mutations in LARS [^111TZ5KH]. Journal of Inherited Metabolic Disease (2015). Low credibility.
 
 Background
 
@@ -1203,13 +1203,13 @@ We report the first non-Irish ILFS1 patient, suggesting ILFS1 may be more extens
 
 ---
 
-### Emergency release uncross-matched packed red blood cells for immediate double volume exchange transfusion in neonates with intermediate to advanced acute bilirubin encephalopathy: timely but insufficient? [^4e63768a]. Journal of Perinatology (2018). Low credibility.
+### Emergency release uncross-matched packed red blood cells for immediate double volume exchange transfusion in neonates with intermediate to advanced acute bilirubin encephalopathy: timely but insufficient? [^1131DSgH]. Journal of Perinatology (2018). Low credibility.
 
 Given the urgency of double volume exchange transfusion (ExT) in an infant with intermediate to advanced stages of acute bilirubin encephalopathy (ABE), it has been suggested that emergency release uncross-matched packed red blood cells (ER-PRBC) be used. The efficacy of an ExT in removing bilirubin from the brain, however, is a direct function of the mass of albumin exchanged. The very low albumin content of ER-PRBC may fail to be neuroprotective. Predicted changes in total serum bilirubin (TSB), serum albumin, the bilirubin/albumin (B/A) ratio, plasma volume (PV), and bilirubin equilibration from the extravascular space during ER-PRBC ExT are described. ExT using ER-PRBC is efficacious in lowering the TSB. However, this result is falsely reassuring as significant concurrent serum albumin loss, resultant hypoalbuminemia, contraction of PV, limited bilirubin clearance from the extravascular space, and sustained B/A ratio elevations above recommended ExT treatment thresholds suggest that bilirubin neurotoxicity will continue.
 
 ---
 
-### Fosphenytoin (fosphenytoin sodium) [^54d1cb77]. FDA (2022). Medium credibility.
+### Fosphenytoin (fosphenytoin sodium) [^113AkRoc]. FDA (2022). Medium credibility.
 
 5.13 Renal or Hepatic Disease or Hypoalbuminemia
 
@@ -1233,7 +1233,7 @@ Hyperglycemia, resulting from the inhibitory effect of phenytoin (the active met
 
 ---
 
-### Fosphenytoin sodium [^bd2cbe20]. FDA (2025). Medium credibility.
+### Fosphenytoin sodium [^115qTgvK]. FDA (2025). Medium credibility.
 
 5.13 Renal or Hepatic Disease or Hypoalbuminemia
 
@@ -1257,19 +1257,19 @@ Hyperglycemia, resulting from the inhibitory effect of phenytoin (the active met
 
 ---
 
-### A.S.P.E.N. clinical guidelines: nutrition support of the critically ill child [^7737d067]. JPEN: Journal of Parenteral and Enteral Nutrition (2009). Medium credibility.
+### A.S.P.E.N. clinical guidelines: nutrition support of the critically ill child [^1143kGt6]. JPEN: Journal of Parenteral and Enteral Nutrition (2009). Medium credibility.
 
 Anthropometric changes during pediatric critical illness (Table 3) — mean energy deficits (over a maximum of 14 days) were 27 kcal/kg — Preterm neonates, 20 kcal/kg — Term neonates, and 12 kcal/kg — Older children, and mean protein deficits were 0.6 g/kg/day — Preterm, 0.3 g/kg/day — Term Newborns, and 0.2 g/kg/day — Children; cumulative deficits were related to decrease in weight and arm circumference SD-scores with negative correlation with age, length of stay in the intensive care unit (ICU) and duration of mechanical ventilator support, and at 6 months follow up, almost all children had recovered their nutrition status; prevalence of hypomagnesemia, hypertriglyceridemia, uremia and hypoalbuminemia were 20%, 25%, 30% and 52%, respectively, with no significant associations between biochemical parameters and changes in SD scores; and in another cohort, 65% of patients presented with indices of malnutrition with mortality higher in malnourished individuals (20% vs 12.5%) and 36% of patients showed a decrease in weight-for-height on follow up.
 
 ---
 
-### A case of protein-losing enteropathy caused by intestinal lymphangiectasia in a preterm infant [^2c874236]. Pediatrics (2001). Low credibility.
+### A case of protein-losing enteropathy caused by intestinal lymphangiectasia in a preterm infant [^11291tT7]. Pediatrics (2001). Low credibility.
 
 Intestinal lymphangiectasia is characterized by obstruction of lymph drainage from the small intestine and lacteal dilation that distorts the villus architecture. Lymphatic vessel obstruction and elevated intestinal lymphatic pressure in turn cause lymphatic leakage into the intestinal lumen, thus resulting in malabsorption and protein-losing enteropathy. Intestinal lymphangiectasia can be congenital or secondary to a disease that blocks intestinal lymph drainage. We describe the first case of intestinal lymphangiectasia in a premature infant. The infant presented with peripheral edema and low serum albumin; high fecal concentration of alpha(1)-antitrypsin documented intestinal protein loss. Endoscopy showed white opaque spots on the duodenal mucosa, which indicates dilated lacteal vessels. Histology confirmed dilated lacteals and also showed villus blunting. A formula containing a high concentration of medium chain triglycerides resulted in a rapid clinical improvement and normalization of biochemical variables. These features should alert neonatologists to the possibility of intestinal lymphangiectasia in newborns with hypoalbuminemia and peripheral edema. The intestinal tract should be examined for enteric protein losses if other causes (ie, malnutrition and protein loss from other sites) are excluded. The diagnosis rests on jejunal biopsy demonstrating dilated lymphatic lacteal vessels.
 
 ---
 
-### Association of serum albumin with apnea in infants with bronchiolitis: a secondary analysis of data from the MARC-35 study [^06803bfc]. JAMA Network Open (2019). High credibility.
+### Association of serum albumin with apnea in infants with bronchiolitis: a secondary analysis of data from the MARC-35 study [^111Adzu1]. JAMA Network Open (2019). High credibility.
 
 Key Points
 
@@ -1287,7 +1287,7 @@ Albumin levels may have a role in identifying apnea in bronchiolitis.
 
 ---
 
-### Phenytoin (Dilantin infatabs) [^3da80b65]. FDA (2025). Medium credibility.
+### Phenytoin (Dilantin infatabs) [^112aQgxk]. FDA (2025). Medium credibility.
 
 Data
 
@@ -1321,13 +1321,13 @@ Because the fraction of unbound phenytoin is increased in patients with renal or
 
 ---
 
-### ABM clinical protocol # 24: allergic proctocolitis in the exclusively breastfed infant [^8fdd7c28]. Breastfeeding Medicine (2011). Medium credibility.
+### ABM clinical protocol # 24: allergic proctocolitis in the exclusively breastfed infant [^114gHdB5]. Breastfeeding Medicine (2011). Medium credibility.
 
 Allergic proctocolitis in exclusively breastfed infants — clinical presentation indicates that the most common symptoms associated with food-induced allergic disorders are cutaneous reactions (eczema) and gastrointestinal symptoms, with the most common gastrointestinal symptom being the development of bloody stools. Onset usually occurs between 2 and 6 weeks of age, although some have reported symptoms beginning as early as the first day of life. Severe manifestations of food allergy are extremely rare. Dietary proteins excreted in the mother's milk are responsible for the majority of cases and induce an inflammatory response of the rectum and distal sigmoid colon referred to as allergic proctocolitis, and affected breastfed infants are generally well appearing aside from blood in the stool. Blood loss is typically modest but can occasionally produce anemia and/or hypoalbuminemia, very rare cases may lead to failure to thrive, and systemic manifestations such as emesis, dramatic diarrhea, or abdominal distention are rare and may suggest other allergic gastrointestinal disorders. Additional laboratory studies may be considered but are often unnecessary.
 
 ---
 
-### Phenytoin (Dilantin-125) [^20ffba3f]. FDA (2023). Medium credibility.
+### Phenytoin (Dilantin-125) [^111qvVzW]. FDA (2023). Medium credibility.
 
 Data
 
@@ -1361,13 +1361,13 @@ Because the fraction of unbound phenytoin is increased in patients with renal or
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^46f1cd6f]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^112pBMRG]. Kidney International (2025). High credibility.
 
 Native nephrectomy for pediatric candidates — indications and rationale are described as follows: High urine output is relatively common among children with end-stage kidney disease (ESKD), and these high native-kidney urine volumes may persist following transplantation making fluid management challenging. Infants and very young children may have difficulty maintaining adequate perfusion of an adult donor kidney, and polyuria increases the risk of volume depletion, so some have advocated unilateral or bilateral native nephrectomy prior to or at the time of transplant to maintain adequate volume status and improve graft perfusion. Heavy proteinuria has also been proposed as an indication due to increased risk of graft thrombosis from urinary loss of anti-thrombotic factors, and in nephrotic syndrome with persistent hypoalbuminemia, pre-transplant nephrectomy may allow recovery of normal levels of anticoagulation factors before transplant.
 
 ---
 
-### Fosphenytoin sodium (Cerebyx) [^4320a88b]. FDA (2025). Medium credibility.
+### Fosphenytoin sodium (Cerebyx) [^112iX97p]. FDA (2025). Medium credibility.
 
 5.13 Renal or Hepatic Disease or Hypoalbuminemia
 
@@ -1391,7 +1391,7 @@ Hyperglycemia, resulting from the inhibitory effect of phenytoin (the active met
 
 ---
 
-### Albumin human (Albuminex) [^771d5db4]. FDA (2024). Medium credibility.
+### Albumin human (Albuminex) [^1143bPdd]. FDA (2024). Medium credibility.
 
 1.1	 Hypovolemia
 
@@ -1423,7 +1423,7 @@ ALBUMINEX 25% is indicated in cardiopulmonary bypass procedures as part of the p
 
 ---
 
-### ALBUMIN (HUMAN) [^9e598d7b]. FDA (DailyMed) (2025). Medium credibility.
+### ALBUMIN (HUMAN) [^1153m89p]. FDA (DailyMed) (2025). Medium credibility.
 
 Adults: 25 g Children:
 
@@ -1440,13 +1440,13 @@ If adequate response is not achieved within 15 to 30 minutes, an additional dose
 
 ---
 
-### Nutrient deficiencies in the premature infant [^ff61bf8e]. Pediatric Clinics of North America (2009). Low credibility.
+### Nutrient deficiencies in the premature infant [^117Xcg9j]. Pediatric Clinics of North America (2009). Low credibility.
 
 Premature infants are a population prone to nutrient deficiencies. Because the early diet of these infants is entirely amenable to intervention, understanding the pathophysiology behind these deficiencies is important for both the neonatologists who care for them acutely and for pediatricians who are responsible for their care through childhood. This article reviews the normal accretion of nutrients in the fetus, discusses specific nutrient deficiencies that are exacerbated in the postnatal period, and identifies key areas for future research.
 
 ---
 
-### Phenytoin sodium (Dilantin) [^5e547a36]. FDA (2022). Medium credibility.
+### Phenytoin sodium (Dilantin) [^113QrDF3]. FDA (2022). Medium credibility.
 
 Data
 

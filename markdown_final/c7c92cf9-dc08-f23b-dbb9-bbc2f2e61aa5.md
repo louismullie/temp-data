@@ -17,57 +17,57 @@ According to current guidelines, what is the most appropriate next step in coagu
 
 > Let's see… What do we have here? The user is asking about the most appropriate next step in coagulation support for a 32-year-old male with massive hemorrhage, hypotension, tachycardia, and laboratory evidence of coagulopathy, including INR 1.6 and fibrinogen 1.2 g/L. Let's break this down step-by-step. First, I need to think about the clinical context and whether this meets criteria for massive hemorrhage and trauma-induced coagulopathy. Then, I should verify the key laboratory abnormalities and their implications. Next, I will review guideline-endorsed initial strategies for coagulation support in massive transfusion. After that, I need to compare plasma-based versus fibrinogen concentrate–based approaches and decide which is most appropriate now. Finally, I will consider adjuncts like calcium, platelets, and tranexamic acid, and confirm dosing and monitoring priorities with references.
 
-> Let me first confirm the clinical context. Ongoing massive hemorrhage with hypotension and tachycardia in a trauma patient meets criteria for massive transfusion and raises concern for trauma-induced coagulopathy, which is common early after severe injury and worsens outcomes if uncorrected [^4c44fa40] [^ec8b2037].
+> Let me first confirm the clinical context. Ongoing massive hemorrhage with hypotension and tachycardia in a trauma patient meets criteria for massive transfusion and raises concern for trauma-induced coagulopathy, which is common early after severe injury and worsens outcomes if uncorrected [^112x5ED5] [^1173gotz].
 
-> I need to check the laboratory abnormalities and their significance. Hemoglobin 8.2 g/dL reflects acute blood loss, platelets 110 × 10^9/L is borderline low but not yet at critical thresholds, INR 1.6 indicates coagulation factor depletion or dilution, and fibrinogen 1.2 g/L is below the 1.5–2.0 g/L range associated with impaired clot strength and increased mortality in trauma, so fibrinogen repletion is a priority [^e8e83cd3] [^aa528d96].
+> I need to check the laboratory abnormalities and their significance. Hemoglobin 8.2 g/dL reflects acute blood loss, platelets 110 × 10^9/L is borderline low but not yet at critical thresholds, INR 1.6 indicates coagulation factor depletion or dilution, and fibrinogen 1.2 g/L is below the 1.5–2.0 g/L range associated with impaired clot strength and increased mortality in trauma, so fibrinogen repletion is a priority [^116xJ8jU] [^115MWdAu].
 
-> Hold on, let's not jump to conclusions about plasma-first resuscitation. I should review guideline-endorsed initial strategies. Contemporary European trauma guidelines recommend two acceptable early approaches: plasma-based resuscitation with FFP:RBC in at least a 1:2 ratio, or a factor concentrate–based approach using fibrinogen concentrate with RBC, with the choice tailored to availability and speed of coagulation testing; both are reasonable, but the latter allows faster correction of fibrinogen without the volume and thawing delays of plasma [^e8e83cd3] [^e14679d9] [^4c44fa40].
+> Hold on, let's not jump to conclusions about plasma-first resuscitation. I should review guideline-endorsed initial strategies. Contemporary European trauma guidelines recommend two acceptable early approaches: plasma-based resuscitation with FFP:RBC in at least a 1:2 ratio, or a factor concentrate–based approach using fibrinogen concentrate with RBC, with the choice tailored to availability and speed of coagulation testing; both are reasonable, but the latter allows faster correction of fibrinogen without the volume and thawing delays of plasma [^116xJ8jU] [^116kytPa] [^112x5ED5].
 
-> Wait, let me verify the practical drawbacks of plasma here. FFP requires thawing, which delays therapy, and large volumes can worsen dilutional coagulopathy and fluid overload; moreover, plasma alone may not reliably correct fibrinogen or clot function during active bleeding, whereas fibrinogen concentrate delivers a predictable, rapid increase in fibrinogen with minimal volume, which is advantageous in this scenario [^aa528d96] [^4c44fa40].
+> Wait, let me verify the practical drawbacks of plasma here. FFP requires thawing, which delays therapy, and large volumes can worsen dilutional coagulopathy and fluid overload; moreover, plasma alone may not reliably correct fibrinogen or clot function during active bleeding, whereas fibrinogen concentrate delivers a predictable, rapid increase in fibrinogen with minimal volume, which is advantageous in this scenario [^115MWdAu] [^112x5ED5].
 
-> I should confirm the rationale for prioritizing fibrinogen. Trauma-induced coagulopathy is characterized by low fibrinogen and hyperfibrinolysis; early fibrinogen replacement improves clot firmness and has been associated with reduced transfusion requirements and improved outcomes in observational and algorithm-based studies, and guidelines endorse early fibrinogen administration when fibrinogen is low, ideally guided by viscoelastic testing or a fibrinogen threshold around 1.5 g/L [^e8e83cd3] [^aa528d96] [^2f3bd201].
+> I should confirm the rationale for prioritizing fibrinogen. Trauma-induced coagulopathy is characterized by low fibrinogen and hyperfibrinolysis; early fibrinogen replacement improves clot firmness and has been associated with reduced transfusion requirements and improved outcomes in observational and algorithm-based studies, and guidelines endorse early fibrinogen administration when fibrinogen is low, ideally guided by viscoelastic testing or a fibrinogen threshold around 1.5 g/L [^116xJ8jU] [^115MWdAu] [^112D2We4].
 
-> Let me think about dosing. A pragmatic initial dose of fibrinogen concentrate is 2 g, which approximates the fibrinogen load expected with 4 units of RBC and can raise plasma fibrinogen by roughly 0.5–1.0 g/L depending on patient size and baseline level; this aligns with European guidance and simplified algorithms for centers without immediate viscoelastic testing, and I should be ready to repeat dosing if fibrinogen remains below 1.5–2.0 g/L or if bleeding persists [^4c44fa40] [^a843951b].
+> Let me think about dosing. A pragmatic initial dose of fibrinogen concentrate is 2 g, which approximates the fibrinogen load expected with 4 units of RBC and can raise plasma fibrinogen by roughly 0.5–1.0 g/L depending on patient size and baseline level; this aligns with European guidance and simplified algorithms for centers without immediate viscoelastic testing, and I should be ready to repeat dosing if fibrinogen remains below 1.5–2.0 g/L or if bleeding persists [^112x5ED5] [^115JTcxS].
 
-> Next, I should review adjuncts I must not overlook. I need to ensure ionized calcium is monitored and corrected because hypocalcemia impairs coagulation and is common with massive transfusion; I should also consider early platelet transfusion if the count falls below about 50 × 10^9/L in the setting of massive bleeding, and I should confirm that tranexamic acid has been given within 3 hours of injury, as recommended for trauma with significant hemorrhage [^4fc589af] [^8e6935d7] [^988a4f3d].
+> Next, I should review adjuncts I must not overlook. I need to ensure ionized calcium is monitored and corrected because hypocalcemia impairs coagulation and is common with massive transfusion; I should also consider early platelet transfusion if the count falls below about 50 × 10^9/L in the setting of massive bleeding, and I should confirm that tranexamic acid has been given within 3 hours of injury, as recommended for trauma with significant hemorrhage [^1133GNcN] [^114e8agN] [^114u9aKe].
 
-> But wait, what if viscoelastic testing is available right now. If TEG or ROTEM results are immediately available, I should use them to guide a goal-directed strategy: treat low fibrinogen first, then address prolonged clotting time with PCC if fibrinogen is adequate, and consider FXIII if functional FXIII is low and bleeding continues; this individualized approach can reduce unnecessary plasma and platelet use while targeting specific deficits [^2f3bd201] [^715144b2] [^c5170f45].
+> But wait, what if viscoelastic testing is available right now. If TEG or ROTEM results are immediately available, I should use them to guide a goal-directed strategy: treat low fibrinogen first, then address prolonged clotting time with PCC if fibrinogen is adequate, and consider FXIII if functional FXIII is low and bleeding continues; this individualized approach can reduce unnecessary plasma and platelet use while targeting specific deficits [^112D2We4] [^113tzu5b] [^1163CJkk].
 
-> I should double-check that I am not overpromising on PCC. PCC is not first-line for undifferentiated trauma coagulopathy; it is reserved for evidence of delayed initiation of coagulation or specific indications like VKA reversal, and even then, it should follow fibrinogen correction to avoid masking low fibrinogen and increasing thrombotic risk, so PCC is not the next step here if fibrinogen remains low [^715144b2] [^2f3bd201].
+> I should double-check that I am not overpromising on PCC. PCC is not first-line for undifferentiated trauma coagulopathy; it is reserved for evidence of delayed initiation of coagulation or specific indications like VKA reversal, and even then, it should follow fibrinogen correction to avoid masking low fibrinogen and increasing thrombotic risk, so PCC is not the next step here if fibrinogen remains low [^113tzu5b] [^112D2We4].
 
-> Putting this together, the most appropriate next step is to administer fibrinogen concentrate 2 g intravenously as part of a factor concentrate–based strategy, while continuing RBC transfusion and ensuring calcium, platelets, and tranexamic acid are addressed in parallel, with subsequent dosing guided by repeat fibrinogen measurement and clinical response; this aligns with current European trauma guidelines and addresses the patient's most critical deficit fastest [^e14679d9] [^4c44fa40] [^a843951b].
+> Putting this together, the most appropriate next step is to administer fibrinogen concentrate 2 g intravenously as part of a factor concentrate–based strategy, while continuing RBC transfusion and ensuring calcium, platelets, and tranexamic acid are addressed in parallel, with subsequent dosing guided by repeat fibrinogen measurement and clinical response; this aligns with current European trauma guidelines and addresses the patient's most critical deficit fastest [^116kytPa] [^112x5ED5] [^115JTcxS].
 
 ---
 
-The most appropriate next step is to **give fibrinogen concentrate 2 g IV now** [^4c44fa40] because the patient has fibrinogen 1.2 g/L, which is below the 1.5–2.0 g/L threshold linked to impaired clot formation and higher mortality in trauma [^aa528d96]. Early fibrinogen replacement restores clot strength and reduces bleeding, and is recommended by current European trauma guidelines as part of a goal-directed, concentrate-based strategy [^e14679d9] [^715144b2]. If fibrinogen concentrate is not available, **cryoprecipitate 10 units** is an alternative [^e14679d9] [^e14679d9]. Plasma is not the priority here because it will not reliably correct fibrinogen and risks volume overload; reserve plasma for ongoing coagulopathy after fibrinogen repletion or if INR remains > 1.5 with active bleeding [^aa528d96] [^ea7dc900].
+The most appropriate next step is to **give fibrinogen concentrate 2 g IV now** [^112x5ED5] because the patient has fibrinogen 1.2 g/L, which is below the 1.5–2.0 g/L threshold linked to impaired clot formation and higher mortality in trauma [^115MWdAu]. Early fibrinogen replacement restores clot strength and reduces bleeding, and is recommended by current European trauma guidelines as part of a goal-directed, concentrate-based strategy [^116kytPa] [^113tzu5b]. If fibrinogen concentrate is not available, **cryoprecipitate 10 units** is an alternative [^116kytPa] [^116kytPa]. Plasma is not the priority here because it will not reliably correct fibrinogen and risks volume overload; reserve plasma for ongoing coagulopathy after fibrinogen repletion or if INR remains > 1.5 with active bleeding [^115MWdAu] [^116zeMSF].
 
 ---
 
 ## Rationale for fibrinogen replacement
 
-- **Fibrinogen threshold**: Fibrinogen < 1.5 g/L is independently associated with increased mortality and impaired clot formation in trauma; replacing fibrinogen improves hemostasis and outcomes [^aa528d96] [^4c44fa40].
+- **Fibrinogen threshold**: Fibrinogen < 1.5 g/L is independently associated with increased mortality and impaired clot formation in trauma; replacing fibrinogen improves hemostasis and outcomes [^115MWdAu] [^112x5ED5].
 
-- **Guideline support**: The European guideline (2019) recommends early fibrinogen administration (fibrinogen concentrate or cryoprecipitate) when fibrinogen is < 1.5–2.0 g/L in bleeding trauma patients [^aa528d40] [^e14679d9].
+- **Guideline support**: The European guideline (2019) recommends early fibrinogen administration (fibrinogen concentrate or cryoprecipitate) when fibrinogen is < 1.5–2.0 g/L in bleeding trauma patients [^115MWd9R] [^116kytPa].
 
-- **Advantages of fibrinogen concentrate**: Rapid administration, predictable fibrinogen rise, and minimal volume compared with plasma, which is variable in fibrinogen content and may cause volume overload [^aa528d96] [^4c44fa40].
+- **Advantages of fibrinogen concentrate**: Rapid administration, predictable fibrinogen rise, and minimal volume compared with plasma, which is variable in fibrinogen content and may cause volume overload [^115MWdAu] [^112x5ED5].
 
 ---
 
 ## Clinical evidence supporting fibrinogen replacement
 
-Observational and randomized data show that **early fibrinogen administration** reduces transfusion requirements, improves clot strength, and may reduce mortality in trauma with hypofibrinogenemia [^aa528d96] [^4c44fa40]. A meta-analysis of trauma patients found that **fibrinogen concentrate reduced RBC and plasma transfusions** and improved survival without increasing thrombotic events, supporting its early use in trauma with low fibrinogen [^notfound].
+Observational and randomized data show that **early fibrinogen administration** reduces transfusion requirements, improves clot strength, and may reduce mortality in trauma with hypofibrinogenemia [^115MWdAu] [^112x5ED5]. A meta-analysis of trauma patients found that **fibrinogen concentrate reduced RBC and plasma transfusions** and improved survival without increasing thrombotic events, supporting its early use in trauma with low fibrinogen [^notfound].
 
 ---
 
 ## Alternative options if fibrinogen concentrate is unavailable
 
-If fibrinogen concentrate is unavailable, **cryoprecipitate 10 units** is an acceptable alternative that delivers about 2 g of fibrinogen; however, it requires thawing and crossmatching, which may delay therapy [^e14679d9] [^0f8581fa]. Plasma is not first-line for fibrinogen repletion because of its low and variable fibrinogen content, large volume, and delayed thawing; it should be reserved for ongoing coagulopathy after fibrinogen replacement or if INR remains > 1.5 with active bleeding [^aa528d96] [^ea7dc900].
+If fibrinogen concentrate is unavailable, **cryoprecipitate 10 units** is an acceptable alternative that delivers about 2 g of fibrinogen; however, it requires thawing and crossmatching, which may delay therapy [^116kytPa] [^111Q1fAh]. Plasma is not first-line for fibrinogen repletion because of its low and variable fibrinogen content, large volume, and delayed thawing; it should be reserved for ongoing coagulopathy after fibrinogen replacement or if INR remains > 1.5 with active bleeding [^115MWdAu] [^116zeMSF].
 
 ---
 
 ## Monitoring and follow-up
 
-After fibrinogen administration, **repeat fibrinogen level within 30–60 minutes** and titrate additional dosing to maintain fibrinogen > 1.5–2.0 g/L while bleeding continues [^aa528d96] [^4c44fa40]. Continue **goal-directed coagulation support** using standard laboratory tests (PT/INR, aPTT, platelets) and/or viscoelastic testing (TEG/ROTEM) to guide further therapy, including platelets, plasma, and tranexamic acid as indicated [^af207056] [^502251b4].
+After fibrinogen administration, **repeat fibrinogen level within 30–60 minutes** and titrate additional dosing to maintain fibrinogen > 1.5–2.0 g/L while bleeding continues [^115MWdAu] [^112x5ED5]. Continue **goal-directed coagulation support** using standard laboratory tests (PT/INR, aPTT, platelets) and/or viscoelastic testing (TEG/ROTEM) to guide further therapy, including platelets, plasma, and tranexamic acid as indicated [^115UdjGy] [^1133oY8s].
 
 ---
 
@@ -81,13 +81,13 @@ After fibrinogen administration, **repeat fibrinogen level within 30–60 minute
 
 ---
 
-The most appropriate next step is to **administer fibrinogen concentrate 2 g IV now** to rapidly correct hypofibrinogenemia, restore clot formation, and reduce ongoing bleeding, aligning with current trauma guidelines and evidence [^e14679d9] [^aa528d96].
+The most appropriate next step is to **administer fibrinogen concentrate 2 g IV now** to rapidly correct hypofibrinogenemia, restore clot formation, and reduce ongoing bleeding, aligning with current trauma guidelines and evidence [^116kytPa] [^115MWdAu].
 
 ---
 
 ## References
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^9a014413]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^114wKX4W]. Critical Care (2013). Low credibility.
 
 Key messages
 
@@ -103,7 +103,7 @@ Key messages
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^7cb99f43]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^114Bup9x]. Critical Care (2016). Low credibility.
 
 Key messages
 
@@ -115,7 +115,7 @@ Local adherence to a multidisciplinary, evidence-based treatment protocol should
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^efc2a64b]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^1178TRS2]. Critical Care (2019). Medium credibility.
 
 Key messages
 
@@ -127,7 +127,7 @@ Local adherence to a multidisciplinary, evidence-based treatment protocol should
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^8f71cb12]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^114ffTAq]. Critical Care (2016). Low credibility.
 
 Conclusions
 
@@ -135,7 +135,7 @@ The appropriate management of trauma patients with massive bleeding and coagulop
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^1f257541]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^111oBCUg]. Critical Care (2019). Medium credibility.
 
 Conclusions
 
@@ -143,7 +143,7 @@ The appropriate management of trauma patients with massive bleeding and coagulop
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^dc6b640a]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^116dnM93]. Critical Care (2013). Low credibility.
 
 Conclusions
 
@@ -151,7 +151,7 @@ A multidisciplinary approach to the management of the traumatically injured pati
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^447e4aae]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^112kYaXP]. Critical Care (2013). Low credibility.
 
 Discussion
 
@@ -161,7 +161,7 @@ All of the recommendations presented here were formulated according to a consens
 
 ---
 
-### Management of bleeding following major trauma: an updated European guideline [^58f098dc]. Critical Care (2010). Low credibility.
+### Management of bleeding following major trauma: an updated European guideline [^113Grj1V]. Critical Care (2010). Low credibility.
 
 Introduction
 
@@ -181,7 +181,7 @@ This guideline provides an evidence-based multidisciplinary approach to the mana
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^0d8b4017]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^111M5cUn]. Critical Care (2016). Low credibility.
 
 Background
 
@@ -205,7 +205,7 @@ The online version of this article (doi:10.1186/s13054-016-1265-x) contains supp
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^175d61c5]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^111be5i4]. Critical Care (2019). Medium credibility.
 
 Background
 
@@ -229,7 +229,7 @@ The online version of this article (10.1186/s13054-019-2347-3) contains suppleme
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^0bf9853d]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^111Jkg9i]. Critical Care (2023). Medium credibility.
 
 This guideline is associated with several limitations. First, only a few of the recommendations are based on high-quality evidence, a fact that highlights the need for future research in this area. Second, in order to support a more general approach to the trauma patient, specific recommendations for special populations such as paediatric patients or patients with TBI have not been included. Third, these guidelines are limited to recommendations for which implementation is likely to be feasible within most European healthcare systems. Nevertheless, we are confident that adherence to these European guidelines for the management of the bleeding trauma patient will result in higher patient survival.
 
@@ -237,7 +237,7 @@ In publishing the sixth edition of this guideline, our aim continues to be impro
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^493f1f41]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^112sbJHn]. Critical Care (2016). Low credibility.
 
 Methods
 
@@ -250,7 +250,7 @@ Boolean operators and medical subject headings (MeSH) were applied to structure 
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^a29f2ffd]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^115A6Tsi]. Critical Care (2023). Medium credibility.
 
 Background
 
@@ -274,7 +274,7 @@ The online version contains supplementary material available at 10.1186/s13054-0
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^4902e230]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^112sF4kP]. Critical Care (2013). Low credibility.
 
 Introduction
 
@@ -296,7 +296,7 @@ Please see related letter by Morel et al
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^6c5fe949]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^113mfswN]. Critical Care (2013). Low credibility.
 
 Authors' contributions
 
@@ -304,7 +304,7 @@ All of the authors participated in the formulation of questions to be addressed 
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^2008a217]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^111pVWCv]. Critical Care (2016). Low credibility.
 
 Rationale
 
@@ -322,7 +322,7 @@ We recommend that plasma transfusion be avoided in patients without substantial 
 
 ---
 
-### The clinical use of prothrombin complex concentrate [^1eb3ffed]. The Journal of Emergency Medicine (2013). Low credibility.
+### The clinical use of prothrombin complex concentrate [^111nX68c]. The Journal of Emergency Medicine (2013). Low credibility.
 
 Background
 
@@ -342,7 +342,7 @@ Health care professionals must remain aware of the differences in products and i
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^7390b46d]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^113xLBV6]. Critical Care (2023). Medium credibility.
 
 Training in trauma care should emphasise the key role of coagulation in determining outcome. Increasing clinician knowledge and understanding in this area should be an integral part of the implementation of the algorithm. All trauma care centres should evaluate their own performance using a routine institutional quality management programme. An audit of adherence to best practice, including feedback and practice change where needed, should be included as part of the local implementation of these guidelines. To evaluate the quality of care provided to the patient who is bleeding after major trauma, we suggest that adherence to the following quality standards be assessed (Table 4).
 
@@ -351,7 +351,7 @@ Adherence to the following quality standards may be assessed to evaluate the qua
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^cb60b036]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^116CWxr9]. Critical Care (2019). Medium credibility.
 
 Fig. 1
 Schematic drawing of the factors, including those that are preexisting as well as those related to both trauma and resuscitation measures, that contribute to traumatic coagulopathy. Adapted from
@@ -362,7 +362,7 @@ Although this set of recommendations outlines corridors for diagnosis and treatm
 
 ---
 
-### Trauma-induced coagulopathy: impact of the early coagulation support protocol on blood product consumption, mortality and costs [^82a470f8]. Critical Care (2015). Low credibility.
+### Trauma-induced coagulopathy: impact of the early coagulation support protocol on blood product consumption, mortality and costs [^114LgdD9]. Critical Care (2015). Low credibility.
 
 Introduction
 
@@ -377,7 +377,7 @@ We report the preliminary results of the ongoing study, based on first-year data
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^5138a7da]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^1135R2Zw]. Critical Care (2023). Medium credibility.
 
 Discussion
 
@@ -390,7 +390,7 @@ Summary of treatment modalities for the bleeding trauma patient included in this
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^94b01fc1]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^114oSKt4]. Critical Care (2019). Medium credibility.
 
 Results
 
@@ -412,13 +412,13 @@ Trauma patients in need of emergency surgery for ongoing haemorrhage have increa
 
 ---
 
-### American Society of Hematology / International Society on Thrombosis and Haemostasis 2024 updated guidelines for treatment of venous thromboembolism in pediatric patients [^acafdd69]. Blood Advances (2025). High credibility.
+### American Society of Hematology / International Society on Thrombosis and Haemostasis 2024 updated guidelines for treatment of venous thromboembolism in pediatric patients [^115R1wbW]. Blood Advances (2025). High credibility.
 
 Recommendation strength interpretation — operational definitions: the strength of a recommendation is expressed as either strong ("the guideline panel recommends… ") or conditional ("the guideline panel suggests… "). For a strong recommendation, for patients most individuals in this situation would want the recommended course of action, and only a small proportion would not; for clinicians most individuals should follow the recommended course of action and formal decision aids are not likely to be needed; for policymakers the recommendation can be adopted as policy in most situations and adherence according to the guideline could be used as a quality criterion or performance indicator; for researchers the recommendation is supported by credible research or other convincing judgments, and on occasion a strong recommendation is based on low or very low certainty in the evidence and further research may provide important information that alters the recommendations. For a conditional recommendation, for patients most individuals in this situation would want the suggested course of action, but many would not and decision aids are needed; for clinicians different choices will be appropriate for different patients and clinicians must help each patient arrive at a management decision consistent with patient values and preferences, and decision aids may be useful; for policymakers policy making will require substantial debate and involvement of various stakeholders, policies are more likely to vary across jurisdictions, and performance measures should not be used to evaluate providers; for researchers this recommendation is likely to result in increased attention to the need for more and better research.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^f48f309f]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^117Fa5Kt]. Critical Care (2016). Low credibility.
 
 Rationale
 
@@ -444,7 +444,7 @@ Thromboprophylaxis commenced in accordance with Recommendation 37.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^4c44fa40]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^112x5ED5]. Critical Care (2019). Medium credibility.
 
 Although plasma contains all coagulation factors, administration of plasma to bleeding patients brings no consistent correction of any measure of clot function and may dilute fibrinogen levels, but cannot contribute to a significant increase. Moreover resuscitation with a large amount of plasma is associated with dilution of RBC and platelets. Several authors, mainly in Europe, strongly disagree with the initial transfusion of patients based on an empirical ratio rather than guided by concurrent laboratory data (goal-directed therapy). Only in the absence of rapid near-patient coagulation testing to facilitate goal-directed therapy may initial treatment with blood components in a fixed ratio constitute a reasonable approach. If concurrent coagulation results are available, they should be used to guide therapy.
 
@@ -464,7 +464,7 @@ There is increasing interest in the use of goal-directed strategies guided by ei
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^1a24cdb9]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^111fm3KW]. Critical Care (2016). Low credibility.
 
 Results
 
@@ -486,13 +486,13 @@ Trauma patients in need of emergency surgery for ongoing haemorrhage have increa
 
 ---
 
-### All bleeding stops: how we can help [^136a5d78]. Critical Care (2010). Low credibility.
+### All bleeding stops: how we can help [^111VnVWo]. Critical Care (2010). Low credibility.
 
 Rossaint and colleagues provide the critical care community with a comprehensive review of evidence-based data in an updated European guideline on management of bleeding following major trauma. In addition to reevaluating and grading recommendations carried forward from their previous work, they present new recommendations in areas such as coagulation support and monitoring, tourniquet usage, calcium, and desmopressin. Many of the recommendations are appropriately broad enough to promote the use of clinical judgment in the application of the guidelines.
 
 ---
 
-### Incidence and outcomes of nontraumatic shock in adults using emergency medical services… [^59478ef8]. JAMA Network (2022). Excellent credibility.
+### Incidence and outcomes of nontraumatic shock in adults using emergency medical services… [^113HMw9q]. JAMA Network (2022). Excellent credibility.
 
 Main Outcomes and Measures The primary outcome was 30-day mortality. Secondary outcomes included length of hospital stay, emergency department discharge disposition, rates of coronary angiography and revascularization procedures, and the use of mechanical circulatory support. Results.), increased initial heart rate, prehospital intubation, and preexisting comorbidities. insertion and medication administration and approximately 500 intensive care paramedics capable of endotracheal intubation and a wider scope of medications, who are dispatched for emergencies that include cardiac arrest and suspected acute coronary syndrome. A detailed description of the linkage processes and methodologies employed are described in eMethods in the Supplement.
 
@@ -502,7 +502,7 @@ However, the median time spent at the scene was significantly longer for the car
 
 ---
 
-### Hypotension and adverse outcomes in moderate to severe traumatic brain injury… [^eb60bc9d]. JAMA Network (2024). Excellent credibility.
+### Hypotension and adverse outcomes in moderate to severe traumatic brain injury… [^1171xaov]. JAMA Network (2024). Excellent credibility.
 
 Question Is hypotension associated with adverse outcomes in patients with moderate to severe traumatic brain injury. Findings This systematic review and meta-analysis of 51 studies and 384 329 patients found that patients with TBI and hypotension had significantly increased odds of mortality. Incidence of hypotension was 18%. Meaning These findings highlight the importance of blood pressure management in TBI settings. Importance Traumatic brain injury is a leading cause of death and disability worldwide. Hypotension in patients with TBI is associated with poorer outcomes. A comprehensive review examining adverse outcomes of hypotension in patients with TBI is needed. The overall hypotension incidence was 18%. Conclusions and Relevance This meta-analysis of nearly 400 000 patients with TBI found a significant association of greater than 2-fold odds of mortality in patients with hypotension and TBI.
 
@@ -514,13 +514,13 @@ Mortality was reported as the primary outcome in all studies. The pooled analysi
 
 ---
 
-### American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia [^3cb72bc1]. Blood Advances (2018). Medium credibility.
+### American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia [^112Z1nNC]. Blood Advances (2018). Medium credibility.
 
 Recommendation strength interpretation — application across stakeholders: The strength of a recommendation is expressed as either strong ("the guideline panel recommends… ") or conditional ("the guideline panel suggests… ") and has the following interpretation; for patients, most individuals in this situation would want the recommended course of action, and only a small proportion would not, and for clinicians, most individuals should receive the recommended course of action; for a conditional recommendation, for patients, the majority of individuals in this situation would want the suggested course of action, but many would not, and for clinicians, different choices will be appropriate for individual patients and clinicians must help each patient arrive at a management decision consistent with the patient's values and preferences.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^715144b2]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^113tzu5b]. Critical Care (2023). Medium credibility.
 
 Coagulation factor concentrate-based management
 
@@ -540,7 +540,7 @@ The usefulness of PCC has been demonstrated, with evidence of reduced haematoma 
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^e17fad11]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^116mK6ji]. Critical Care (2016). Low credibility.
 
 Rationale
 
@@ -550,7 +550,7 @@ In May 2005, based on reports from the ongoing conflict in Iraq, an internationa
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^de705d1a]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^116gmzam]. Critical Care (2016). Low credibility.
 
 A new section has been added to specifically recommend a restricted volume replacement strategy (Grade 1B) and the recommendations on fluid therapy have been condensed to generally recommend the initial use, if any, of isotonic crystalloid solutions (Grade 1A), but avoid excessive use of 0.9% NaCl (Grade 2C), colloid solutions (Grade 2C) and hypotonic solutions such as Ringer's lactate in patients with head injury (Grade 1C). The chapter on surgical interventions has been updated with publications that have become available in the interim where appropriate, but the overall recommendations have not changed compared to the previous edition of the guideline.
 
@@ -560,13 +560,13 @@ The present guideline should be viewed as an educational aid to improve and stan
 
 ---
 
-### American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia [^9b9122c6]. Blood Advances (2018). Medium credibility.
+### American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia [^114ydq9w]. Blood Advances (2018). Medium credibility.
 
 ASH 2018 HIT management — interpretation of recommendation strength — describes implications for strong versus conditional recommendations. For strong recommendations, for patients "Most individuals in this situation would want the recommended course of action, and only a small proportion would not", for clinicians "Most individuals should receive the intervention. Formal decision aids are not likely to be needed to help individual patients make decisions consistent with their values and preferences", and for policy makers "The recommendation can be adopted as policy in most situations. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator". For conditional recommendations, for patients "The majority of individuals in this situation would want the suggested course of action, but many would not", for clinicians "Different choices will be appropriate for individual patients; the clinician must help each patient arrive at a management decision consistent with his or her values and preferences. Decision aids may be useful in helping individuals to make decisions consistent with their values and preferences", and for policy makers "Policy-making will require substantial debate and involvement of various stakeholders".
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^4251bedc]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^112hKe8b]. Critical Care (2013). Low credibility.
 
 Results
 
@@ -584,13 +584,13 @@ Trauma patients in need of emergency surgery for ongoing hemorrhage have increas
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^6aaba520]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^113j9Lnb]. Critical Care (2023). High credibility.
 
 Regarding therapeutic procedures for transfusion strategies in critical care, more specifically with respect to massive bleeding, coagulation factor transfusion, ABC-T 2023 guidelines recommend to initiate monitoring and measures to support coagulation immediately upon hospital admission of patients with traumatic hemorrhage.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^d630f21a]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^116UYnr5]. Critical Care (2016). Low credibility.
 
 Rationale
 
@@ -608,19 +608,19 @@ Fibrinogen concentrate and RBC according to Hb level. (Grade 1C)
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^961b1b62]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^114qYFMj]. Critical Care (2023). High credibility.
 
 Regarding diagnostic investigations for transfusion strategies in critical care, more specifically with respect to coagulation and viscoelastic testing, ABC-T 2023 guidelines recommend to initiate monitoring and measures to support coagulation immediately upon hospital admission of patients with traumatic hemorrhage.
 
 ---
 
-### Anticoagulation in adult patients supported with extracorporeal membrane oxygenation: guidance from the scientific and standardization committees on perioperative and critical care haemostasis and thrombosis of the International Society on Thrombosis and Haemostasis [^7b147efc]. Journal of Thrombosis and Haemostasis (2023). Medium credibility.
+### Anticoagulation in adult patients supported with extracorporeal membrane oxygenation: guidance from the scientific and standardization committees on perioperative and critical care haemostasis and thrombosis of the International Society on Thrombosis and Haemostasis [^1149UMxX]. Journal of Thrombosis and Haemostasis (2023). Medium credibility.
 
 Anticoagulation of patients supported by extracorporeal membrane oxygenation is challenging because of a high risk of both bleeding and thrombotic complications, and often empirical. Practice in anticoagulation management is therefore highly variable. The scope of this guidance document is to provide clinicians with practical advice on the choice of an anticoagulant agent, dosing, and the optimal anticoagulant monitoring strategy during extracorporeal membrane oxygenation support in adult patients.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^e8e83cd3]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^116xJ8jU]. Critical Care (2019). Medium credibility.
 
 Rationale
 
@@ -636,13 +636,13 @@ Fibrinogen concentrate and RBC. (Grade 1C)
 
 ---
 
-### Evidence-based guidelines for bleeding in trauma patients: where do we go from here? [^3c4d26a8]. Critical Care (2007). Low credibility.
+### Evidence-based guidelines for bleeding in trauma patients: where do we go from here? [^112YQAw1]. Critical Care (2007). Low credibility.
 
 The development of evidence-based guidelines has gained popularity as a strategy to reduce variation in practice and to orient clinical care around documentable best practices. Based on available data, the new European guidelines for the management of bleeding in the trauma patient do deliver a number of sound recommendations. However, some issues remain controversial and, like many guidelines, the actual translation of these evidence-based recommendations into routine clinical practice protocols continues to leave opportunity for variation. Nevertheless, this consensus guideline provides an excellent starting point. As evidence continues to accumulate, future iterations should provide greater specificity and move us closer to the definitive best practice.
 
 ---
 
-### Management of bleeding following major trauma: a European guideline [^9e6fc05c]. Critical Care (2007). Low credibility.
+### Management of bleeding following major trauma: a European guideline [^1153tacs]. Critical Care (2007). Low credibility.
 
 Introduction
 
@@ -662,7 +662,7 @@ A multidisciplinary approach to the management of the bleeding trauma patient wi
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^ec8b2037]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^1173gotz]. Critical Care (2016). Low credibility.
 
 Background
 
@@ -672,7 +672,7 @@ Over the past decade the specific pathophysiology associated with bleeding follo
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^91d9760f]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^114jEFM8]. Critical Care (2016). Low credibility.
 
 Fig. 1
 Schematic drawing of the factors, both pre-existing and trauma-related, that contribute to traumatic coagulopathy. Adapted from
@@ -685,7 +685,7 @@ Although this set of recommendations outlines corridors for diagnosis and treatm
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^aa528d96]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^115MWdAu]. Critical Care (2019). Medium credibility.
 
 Although plasma transfusion may support coagulation, Khan and Brohi observed that there was no consistent correction of any measure of clot function nor any large increase in the procoagulant factor level when FFP was delivered during the acute phase of ongoing bleeding. Moreover resuscitation with large amounts of plasma is associated with dilution of RBC and platelets. Anaemia may further contribute to a reduction in platelet marginalisation, with a potentially negative impact on platelet activation.
 
@@ -707,19 +707,19 @@ Traumatic coagulopathy is characterised by an increased fibrinolytic activity an
 
 ---
 
-### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^a843951b]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
+### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^115JTcxS]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
 
 Administration of prothrombin complex concentrate (PCC) is proposed as the next step. We recommend PCC as the use of factor concentrates for first-line treatment appears to be superior to fresh frozen plasma (FFP), particularly as PCC can be given immediately compared with the time required to prepare and administer FFP. Additionally, a large volume of FFP is required to significantly increase factor levels, whereas this is not the case for PCC. As there is a lack of data regarding the use of base excess and hemoglobin levels to determine the PCC dose, we have recommended dosing based on body weight. If bleeding persists after PCC administration, a massive transfusion protocol can be initiated. Plasma will only be administered as part of massive transfusion and can be accompanied by platelets if necessary. In severe cases, recommendations are also given for potential further treatment, such as desmopressin, repeated administration of tranexamic acid, and coagulation factors XIII and VIIa. FXIII is known to be an essential contributor to clot strength as it crosslinks and stabilizes fibrinand, in cases of bleeding and low FXIII activity, the European Society of Anaesthesiology (ESA) guidelines recommend its administration (30 IU/kg), hence its inclusion at the end of the algorithm. For rFVIIa, several studies and systematic reviews have demonstrated that rFVIIa administration does not significantly reduce mortality. As such, we only included rFVIIa as ultima ratio if all previous steps were unsuccessful and the requirements for rFVIIa administration were met, in line with the ESA guidelines.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^6ca675a0]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^113n5aKy]. Critical Care (2023). High credibility.
 
 Regarding therapeutic procedures for traumatic hemorrhage, more specifically with respect to coagulation factor transfusion, ABC-T 2023 guidelines recommend to initiate monitoring and measures to support coagulation immediately upon hospital admission.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^2f3bd201]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^112D2We4]. Critical Care (2023). Medium credibility.
 
 VEM is useful to guide individualised goal-directed coagulation therapy in patients with traumatic coagulopathy. In the initial phase, a low fibrinogen concentration is expected. However, thrombin generation is preserved or even increased. Initial treatment should therefore comprise fibrinogen administration, which not only increases the maximum clot firmness in FIBTEM, but also shortens the clotting time in EXTEM. Only if the EXTEM clotting time remains prolonged, despite a fibrinogen level > 1.5 g/L should PCC be administered to normalise the EXTEM clotting time.
 
@@ -731,13 +731,13 @@ Low levels of FXIII have been found in patients with major trauma and coagulopat
 
 ---
 
-### 2020 ACC expert consensus decision pathway on management of bleeding in patients on oral anticoagulants: a report of the American college of cardiology solution set oversight committee [^8e6935d7]. Journal of the American College of Cardiology (2020). High credibility.
+### 2020 ACC expert consensus decision pathway on management of bleeding in patients on oral anticoagulants: a report of the American college of cardiology solution set oversight committee [^114e8agN]. Journal of the American College of Cardiology (2020). High credibility.
 
 Bleeding resuscitation and transfusion thresholds — initial measures and targets: Aggressive volume resuscitation using intravenous isotonic crystalloids such as 0.9% NaCl or Ringer's lactate is recommended, and patients with symptomatic anemia or active bleeding should receive RBC transfusions to maintain a hemoglobin ≥ 7 g/dL; in underlying coronary artery disease, particularly acute coronary syndromes, guidelines recommend a target hemoglobin ≥ 8 g/dL. Platelets should be transfused to maintain a platelet count ≥ 50 x 10^9/L and cryoprecipitate to maintain a fibrinogen > 100 mg/dL. For patients requiring ≥ 3 units of packed RBCs within 1 hour, activation of a massive transfusion protocol should be considered; protocols vary and many centers use goal-directed transfusion with TEG or ROTEM. Ionized calcium levels should be monitored; if abnormal, administration of calcium is indicated. Early administration of tranexamic acid for trauma patients within the first 3 hours is associated with decreased bleeding and overall mortality and should be considered, and the writing committee recommends further resuscitation using a goal-directed strategy guided by laboratory results.
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^75ef3ad3]. Intensive Care Medicine (2021). Medium credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^1141quYW]. Intensive Care Medicine (2021). Medium credibility.
 
 Introduction
 
@@ -749,7 +749,7 @@ Treating bleeding in critically ill patients is a dynamic and complex process wh
 
 ---
 
-### Prehospital tranexamic acid: what is the current evidence? [^988a4f3d]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Prehospital tranexamic acid: what is the current evidence? [^114u9aKe]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Pre-hospital TXA guidance
 
@@ -772,19 +772,19 @@ International Trauma Life Support (ITLS) recommends the following: "ITLS believe
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^af207056]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^115UdjGy]. Critical Care (2023). High credibility.
 
 Regarding medical management for traumatic hemorrhage, more specifically with respect to general principles, ABC-T 2023 guidelines recommend to continue resuscitation measures using a goal-directed strategy guided by standard laboratory coagulation values and/or viscoelastic measures.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^4a914b43]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^112uYtQi]. Critical Care (2023). High credibility.
 
 Regarding diagnostic investigations for red blood cell transfusion, more specifically with respect to coagulation and viscoelastic testing, ABC-T 2023 guidelines recommend to initiate monitoring and measures to support coagulation immediately upon hospital admission of patients with traumatic hemorrhage.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^af263d97]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^115UfgJa]. Critical Care (2016). Low credibility.
 
 Assessment of bleeding control and outcome
 
@@ -794,7 +794,7 @@ We recommend that local clinical quality and safety management systems include p
 
 ---
 
-### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^53cd9b9d]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
+### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^1139F2xL]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
 
 The treatment of hemorrhage after major trauma is a significant challenge in routine clinical practice. Injuries account for over five million deaths each year, with uncontrolled post-traumatic bleeding remaining one of the leading causes of death among these patients. Additionally, up to a third of trauma patients present with signs of coagulopathy at admission to hospital, and trauma-induced coagulopathy is associated with increased transfusion requirements, complications, and mortality. As such, rapid identification and correction of coagulopathy is vital to reduce mortality and improve outcomes for bleeding trauma patients.
 
@@ -806,13 +806,13 @@ We therefore set out to develop a pragmatic and guideline-based treatment algori
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^c5170f45]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^1163CJkk]. Critical Care (2023). High credibility.
 
 Regarding therapeutic procedures for transfusion strategies in critical care, more specifically with respect to massive bleeding, coagulation factor transfusion, ABC-T 2023 guidelines recommend to consider including monitoring of factor XIII in coagulation support algorithms and supplement factor XIII in patients with traumatic bleeding with functional factor XIII deficiency.
 
 ---
 
-### Adverse prehospital events and outcomes after traumatic brain injury… [^a03b50c3]. JAMA Network (2025). Excellent credibility.
+### Adverse prehospital events and outcomes after traumatic brain injury… [^1156Ywea]. JAMA Network (2025). Excellent credibility.
 
 eTable 1. Adverse Prehospital Hypoxia and Hypotension eTable
 2. Individuals Who Required Prehospital Advanced Airway Interventions Beyond Supplemental Oxygen eTable 3. Adjusted Associations Between Composite Hypoxia and Hypotension Exposure and TBI Outcomes, Stratified by Head AIS. Findings In this cohort study of 14 994 adults with confirmed TBI, prehospital hypoxia, hypotension, and hypocarbia were each associated with increased risks of death in the emergency department, hospital death, and unfavorable discharge disposition. Meaning These findings suggest that optimal oxygenation, ventilation, and perfusion are crucial to mitigating secondary injury in prehospital TBI care. Results The analytic cohort included 14 994 patients.
@@ -825,7 +825,7 @@ Among 1068 patients treated with advanced airway management, the median initial 
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^e14679d9]. Critical Care (2023). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^116kytPa]. Critical Care (2023). Medium credibility.
 
 Rationale
 
@@ -843,37 +843,37 @@ In addition, we suggest a high platelet/pRBC ratio (Grade 2B).
 
 ---
 
-### Methodology for the American Society of Hematology VTE guidelines: current best practice, innovations, and experiences [^33e83803]. Blood Advances (2020). High credibility.
+### Methodology for the American Society of Hematology VTE guidelines: current best practice, innovations, and experiences [^112KxNMp]. Blood Advances (2020). High credibility.
 
 Box 1 — criteria to inform prioritization of guideline questions — states: "A question would be considered of priority if it was one: (i) that commonly arises in practice, (ii) for which there is uncertainty in practice regarding how to manage patients, (iii) for which there is new research evidence to consider, (iv) that is associated with variation in practice, (v) that has important consequences for, or is associated with, high resource use or costs, or (vi) that has not been previously or sufficiently addressed (eg, in previous guidelines)".
 
 ---
 
-### AGA clinical practice guideline on the management of coagulation disorders in patients with cirrhosis [^d2e88691]. Gastroenterology (2021). High credibility.
+### AGA clinical practice guideline on the management of coagulation disorders in patients with cirrhosis [^116PgW9N]. Gastroenterology (2021). High credibility.
 
 Certainty of the evidence and clinical implications — The certainty of evidence was very low across all outcomes due to indirectness and few events. Data suggest baseline bleeding risk for common nonsurgical procedures is low in cirrhosis, and there are insufficient data to justify cutoffs of standard coagulation parameters. The technical review stratified procedure-related bleeding risk into low or high using a threshold of 1.5%. In patients with severe thrombocytopenia or coagulopathy undergoing high-risk procedures, decisions about prophylactic blood transfusions should include potential benefits and risks, the threshold for severe thrombocytopenia or coagulopathy could not be clearly defined and remains a matter of clinical judgment, and in many cases care should be managed in collaboration with an expert hematologist.
 
 ---
 
-### A rational approach to coagulation testing [^d99af8ab]. Laboratory Medicine (2022). Medium credibility.
+### A rational approach to coagulation testing [^116ZcNEn]. Laboratory Medicine (2022). Medium credibility.
 
 Quality patient care requires the appropriate selection of laboratory tests. Irrelevant testing must be avoided, whereas pertinent testing is indispensable. The goals of this review are 3-fold: (1) to describe appropriate coagulation test selection for medical and surgical patients, (2) to describe appropriate coagulation testing specifically in individuals infected with SARS-CoV-2 causing COVID-19, and (3) to define the rational use of anticoagulant monitoring.
 
 ---
 
-### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^c9cf6fd0]. The Journal of Heart and Lung Transplantation (2023). High credibility.
+### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^116ACBqZ]. The Journal of Heart and Lung Transplantation (2023). High credibility.
 
 ISHLT — Transfusion and fibrinogen support: Transfusion of coagulation factors is necessary for adequate hemostasis; fresh frozen plasma and platelets should be transfused based on measured levels, and fibrinogen infusion for massive bleeding and inadequate fibrinogen levels is needed to control blood loss (Class IIa, Level of Evidence C).
 
 ---
 
-### International consensus recommendations for anesthetic and intensive care management of lung transplantation. An EACTAIC, SCA, ISHLT, ESOT, ESTS, and AST approved document [^00da3a78]. The Journal of Heart and Lung Transplantation (2021). High credibility.
+### International consensus recommendations for anesthetic and intensive care management of lung transplantation. An EACTAIC, SCA, ISHLT, ESOT, ESTS, and AST approved document [^1112GJS3]. The Journal of Heart and Lung Transplantation (2021). High credibility.
 
 Lung transplantation — postoperative mechanical extracorporeal support: Centers should use a point-of care coagulation transfusion protocol according to the target guideline of the extracorporeal life support organization (ELSO) (Strength: strong consensus Score: 82%).
 
 ---
 
-### American Association for the Surgery of Trauma / American college of surgeons committee on trauma: clinical protocol for damage-control resuscitation for the adult trauma patient [^57ffb3fa]. The Journal of Trauma and Acute Care Surgery (2024). Medium credibility.
+### American Association for the Surgery of Trauma / American college of surgeons committee on trauma: clinical protocol for damage-control resuscitation for the adult trauma patient [^113FTp1o]. The Journal of Trauma and Acute Care Surgery (2024). Medium credibility.
 
 Abstract
 
@@ -881,43 +881,43 @@ Damage-control resuscitation in the care of critically injured trauma patients a
 
 ---
 
-### American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism [^b910e159]. Blood Advances (2018). Medium credibility.
+### American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism [^115jNNzL]. Blood Advances (2018). Medium credibility.
 
 Interpretation of strong and conditional recommendations — For patients, a strong recommendation means "Most individuals in this situation would want the recommended course of action, and only a small proportion would not", whereas a conditional recommendation means "The majority of individuals in this situation would want the suggested course of action, but many would not" and "Decision aids may be useful in helping patients to make decisions consistent with their individual risk, values, and preferences". For clinicians, strong implies "Most individuals should receive the intervention. Formal decision aids are not likely to be needed to help individual patients make decisions consistent with their values and preferences", while conditional notes "Different choices will be appropriate for individual patients, and clinicians must help each patient arrive at a management decision consistent with the patient's values and preferences. Decision aids may be useful in helping individuals to make decisions consistent with their values and preferences". For policy makers, strong means "The recommendation can be adopted as policy in most situations. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator", whereas conditional states "Policymaking will require substantial debate and involvement of various stakeholders. Performance measures should assess if decision-making is appropriate". For researchers, strong indicates "The recommendation is supported by credible research or other convincing judgments that make additional research unlikely to alter the recommendation. On occasion, a strong recommendation is based on low or very low certainty in the evidence. In such instances, further research may provide important information that alters the recommendation", while conditional notes "The recommendation is likely to be strengthened (for future updates or adaptation) by additional research. An evaluation of the conditions and criteria (and the related judgments, research evidence, and additional considerations) that determined the conditional rather than strong recommendation will help identify possible research gaps".
 
 ---
 
-### Practice guidelines for perioperative blood management: an updated report by the American society of anesthesiologists task force on perioperative blood management* [^c61f01fe]. Anesthesiology (2015). Medium credibility.
+### Practice guidelines for perioperative blood management: an updated report by the American society of anesthesiologists task force on perioperative blood management* [^1164ixsw]. Anesthesiology (2015). Medium credibility.
 
 Patient evaluation — recommendations specify to review previous records and interview the patient or family to identify prior transfusion history, drug-induced or congenital coagulopathy, thrombotic events, and organ ischemia risks; to review hemoglobin, hematocrit, and coagulation profiles; to order additional tests based on the medical condition; to perform a focused physical examination for bleeding signs; and to conduct the preoperative evaluation sufficiently in advance (e.g., several days to weeks) to allow preparation.
 
 ---
 
-### American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer [^77886d40]. Blood Advances (2021). High credibility.
+### American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer [^1144DMLs]. Blood Advances (2021). High credibility.
 
 Interpretation of strong and conditional recommendations — Strong recommendation: For patients, "most individuals in this situation would want the recommended course of action, and only a small proportion would not". For clinicians, "most individuals should follow the recommended course of action. Formal decision aids are not likely to be needed to help individual patients make decisions consistent with their values and preferences". For policy makers, "the recommendation can be adopted as policy in most situations. Adherence to this recommendation according to the guideline could be used as a quality criterion or performance indicator". For researchers, "the recommendation is supported by credible research or other convincing judgments that make additional research unlikely to alter the recommendation. On occasion, a strong recommendation is based on low or very low certainty in the evidence. In such instances, further research may provide important information that alters the recommendations". Conditional recommendation: For patients, "the majority of individuals in this situation would want the suggested course of action, but many would not. Decision aids may be useful in helping patients to make decisions consistent with their individual risks, values, and preferences". For clinicians, "recognize that different choices will be appropriate for individual patients and that you must help each patient arrive at a management decision consistent with their values and preferences. Decision aids may be useful in helping individuals to make decisions consistent with their individual risks, values, and preferences". For policy makers, "policy making will require substantial debate and involvement of various stakeholders. Performance measures about the suggested course of action should focus on whether an appropriate decision-making process is duly documented". For researchers, "this recommendation is likely to be strengthened (for future updates or adaptation) by additional research. An evaluation of the conditions and criteria (and the related judgments, research evidence, and additional considerations) that determined the conditional (rather than strong) recommendation will help to identify possible research gaps".
 
 ---
 
-### EASL clinical practical guidelines on the management of acute (fulminant) liver failure [^4f4b163f]. Journal of Hepatology (2017). Medium credibility.
+### EASL clinical practical guidelines on the management of acute (fulminant) liver failure [^1132ZF5G]. Journal of Hepatology (2017). Medium credibility.
 
 Regarding medical management for acute liver failure, more specifically with respect to management of coagulopathy, EASL 2017 guidelines recommend to set a hemoglobin target of 7 g/dL for transfusion.
 
 ---
 
-### Coagulation support during perioperative bleeding management [^b2563956]. Intensive Care Medicine (2023). Medium credibility.
+### Coagulation support during perioperative bleeding management [^115ZPkwX]. Intensive Care Medicine (2023). Medium credibility.
 
 Bleeding is a leading cause of perioperative mortality. In a perioperative setting, damage control surgery with massive transfusion protocols (MTPs) are therapeutic approaches used clinically to manage patients with major bleeding. Massive transfusion is arbitrarily defined as receiving 10 or more red blood cell units in 24 h. MTPs include blood components or whole blood, along with coagulation factor concentrates, including prothrombin complex concentrates (PCCs) and fibrinogen, and are often based on a bleeding management algorithm that may include tranexamic acid, an antifibrinolytic agent. To guide bleeding management, coagulation monitoring includes conventional coagulation tests (e.g. platelet counts, prothrombin time, and fibrinogen level), and/or viscoelastic testing (VET). In addition, haemostatic support is used to optimize haemostasis, while surgeons correct the site-specific bleeding, a strategy that requires collaboration among multiple clinicians, blood services, and in-hospital logistics. In this review, we will examine therapeutic approaches for haemostatic management during perioperative bleeding.
 
 ---
 
-### AGA clinical practice guideline on the management of coagulation disorders in patients with cirrhosis [^c7db9faa]. Gastroenterology (2021). High credibility.
+### AGA clinical practice guideline on the management of coagulation disorders in patients with cirrhosis [^1167JJhF]. Gastroenterology (2021). High credibility.
 
 Certainty of evidence across outcomes — The certainty of evidence was low or very low across the majority of outcomes due to few events leading to serious imprecision, issues with inconsistency (heterogeneity), and issues with indirectness related to outcomes like delayed bleeding or mortality.
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^5b13ac6f]. Intensive Care Medicine (2021). Medium credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^113L2UvA]. Intensive Care Medicine (2021). Medium credibility.
 
 Implementation issues
 
@@ -927,13 +927,13 @@ The PROPPR and Nascimento studies compared high RBC: plasma:platelets ratios 1:1
 
 ---
 
-### American Society of Hematology 2019 guidelines for management of venous thromboembolism: prevention of venous thromboembolism in surgical hospitalized patients [^e6cb91cf]. Blood Advances (2019). High credibility.
+### American Society of Hematology 2019 guidelines for management of venous thromboembolism: prevention of venous thromboembolism in surgical hospitalized patients [^116uAXft]. Blood Advances (2019). High credibility.
 
 Interpretation of recommendation strength — implications for stakeholders: Under a strong recommendation for patients, "Most individuals in this situation would want the recommended course of action, and only a small proportion would not", whereas for a conditional recommendation, "The majority of individuals in this situation would want the suggested course of action, but many would not", and "Decision aids may be useful". For clinicians, strong means "Most individuals should follow the recommended course of action", while conditional means "Different choices will be appropriate for individual patients; clinicians must help each patient arrive at a management decision consistent with the patient's values and preferences". For policy makers, strong indicates "The recommendation can be adopted as policy in most situations", but conditional notes "Policy making will require substantial debate and involvement of various stakeholders". For researchers, strong is "supported by credible research… that make additional research unlikely to alter the recommendation", while conditional states "The recommendation is likely to be strengthened (for future updates or adaptation) by additional research".
 
 ---
 
-### AGA clinical practice update: coagulation in cirrhosis [^3e45ba34]. Gastroenterology (2019). Medium credibility.
+### AGA clinical practice update: coagulation in cirrhosis [^112bKesV]. Gastroenterology (2019). Medium credibility.
 
 Description
 
@@ -945,7 +945,7 @@ This review is framed around the best practice points, which were derived from t
 
 ---
 
-### American Society of Hematology 2018 guidelines for management of venous thromboembolism: optimal management of anticoagulation therapy [^7adf178e]. Blood Advances (2018). Low credibility.
+### American Society of Hematology 2018 guidelines for management of venous thromboembolism: optimal management of anticoagulation therapy [^1149ARZf]. Blood Advances (2018). Low credibility.
 
 Background
 
@@ -969,7 +969,7 @@ Strong recommendations included using patient self-management of international n
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^4fc589af]. Critical Care (2016). Low credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fourth edition [^1133GNcN]. Critical Care (2016). Low credibility.
 
 Early (within minutes of arrival to a trauma centre) administration of plasma, platelets and RBC is also supported by the first RCT designed to evaluate the benefit of blood product ratios (1:1:1 or 1:1:2 FFP:platelets:RBC) on patient outcome. More patients in the 1:1:1 group achieved haemostasis and fewer experienced death as a result of exsanguination at 24 h. However, a 1:1:1 ratio compared to a 1:1:2 ratio did not result in significant differences in all-cause mortality at 24 h or 30 days. Unfortunately, this study did not independently examine the effects of plasma and platelets on outcomes.
 
@@ -983,7 +983,7 @@ We recommend that ionised calcium levels be monitored and maintained within the 
 
 ---
 
-### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^7ce9e139]. Critical Care (2013). Low credibility.
+### Management of bleeding and coagulopathy following major trauma: an updated European guideline [^114CC2Hn]. Critical Care (2013). Low credibility.
 
 Quality management
 
@@ -1020,19 +1020,19 @@ Extended post-discharge follow-up times may be required to provide longer-term o
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^e2bd425c]. Intensive Care Medicine (2021). High credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^116o9mko]. Intensive Care Medicine (2021). High credibility.
 
 Regarding therapeutic procedures for transfusion strategies in critical care, more specifically with respect to massive bleeding, coagulation factor transfusion, ESICM 2021 guidelines recommend to insufficient evidence to support the use of early empiric fibrinogen replacement in critically ill patients with massive bleeding due to trauma.
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^31303d37]. Intensive Care Medicine (2021). High credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^112Fvban]. Intensive Care Medicine (2021). High credibility.
 
 Regarding therapeutic procedures for traumatic hemorrhage, more specifically with respect to coagulation factor transfusion, ESICM 2021 guidelines recommend to insufficient evidence to support the use of early empiric fibrinogen replacement in critically ill patients with massive bleeding due to trauma.
 
 ---
 
-### American Society of Hematology living guidelines on the use of anticoagulation for thromboprophylaxis in patients with COVID-19: may 2021 update on the use of intermediate-intensity anticoagulation in critically ill patients [^3cf91dbc]. Blood Advances (2021). Medium credibility.
+### American Society of Hematology living guidelines on the use of anticoagulation for thromboprophylaxis in patients with COVID-19: may 2021 update on the use of intermediate-intensity anticoagulation in critically ill patients [^112ZPw5m]. Blood Advances (2021). Medium credibility.
 
 Introduction
 
@@ -1057,13 +1057,13 @@ Definition of target population
 
 ---
 
-### Thromboelastography and rotational thromboelastometry in bleeding patients with coagulopathy: practice management guideline from the Eastern Association for the Surgery of Trauma [^502251b4]. The Journal of Trauma and Acute Care Surgery (2020). High credibility.
+### Thromboelastography and rotational thromboelastometry in bleeding patients with coagulopathy: practice management guideline from the Eastern Association for the Surgery of Trauma [^1133oY8s]. The Journal of Trauma and Acute Care Surgery (2020). High credibility.
 
 Regarding diagnostic investigations for transfusion strategies in critical care, more specifically with respect to coagulation and viscoelastic testing, EAST 2020 guidelines recommend to consider using thromboelastography/rotational thromboelastometry-guided strategy in adult trauma or surgical patients or critically ill patients with ongoing hemorrhage and concern for coagulopathy, to reduce blood product transfusions.
 
 ---
 
-### Pre-hospital mass casualty triage and trauma care | ASPR TRACIE… [^8c3e1b04]. asprtracie.hhs.gov (2025). Medium credibility.
+### Pre-hospital mass casualty triage and trauma care | ASPR TRACIE… [^114av8NF]. asprtracie.hhs.gov (2025). Medium credibility.
 
 Pre-Hospital Mass Casualty Triage and Trauma Care Topic Collection June 10, 2025. Topic Collection: Pre-Hospital Mass Casualty Triage and Trauma Care Performing triage and trauma care during a mass casualty incident requires efficiency and coordination among multiple response entities. Efforts may need to be directed toward doing the greatest good for the greatest amount of people, which is counter to day-to-day trauma triage. Simple actions to control bleeding and manage breathing issues can, and do, save lives, and should be part of on-scene care, as appropriate. Research indicates that the most effective triage is performed by experienced providers using their clinical skill. There are many triage tools and protocols such as Simple Triage and Rapid Treatment and Sort, Assess, Lifesaving Interventions, Treatment/Transport.
 
@@ -1077,7 +1077,7 @@ An Evidence-Based Prehospital Guideline for External Hemorrhage Control: America
 
 ---
 
-### Use of extracorporeal membrane oxygenation in adult trauma patients with refractory acute cardiopulmonary failure: guideline from the Chinese society of extracorporeal life support 2025 [^05b55f43]. Critical Care (2025). Medium credibility.
+### Use of extracorporeal membrane oxygenation in adult trauma patients with refractory acute cardiopulmonary failure: guideline from the Chinese society of extracorporeal life support 2025 [^1119Trpi]. Critical Care (2025). Medium credibility.
 
 Justification and implementation considerations. Massive bleeding or hemorrhagic shock is among the primary causes of early death in trauma patients, which may create the traumatic lethal triad in terms of coagulopathy, hypothermia, and acidosis, significantly increasing the mortality risk of patients with massive but potentially survivable injuries. With the advances in anticoagulant strategies and devices, trauma-induced coagulopathy is no longer an absolute contraindication of ECMO, which in turn may provide survival benefits for trauma patients who failed to respond to maximal DCR. Although insufficient data and inherent defects, such as the retrospective nature, high risk of bias, and heterogeneity across the studies, hindered further analyses, considering the high mortality risk of patients with the traumatic lethal triad and the serious concern about the risk of bleeding by physicians and surgeons who are responsible for ECMO management and decisive surgery, the panel issued a best practice statement on the close monitoring and management of patients with a higher ISS or suspected trauma-induced coagulopathy during ECMO therapy. However, in the context of ECMO therapy, the diagnostic indices for coagulopathy should be treated with caution, and the clinical observation, severity of injury, and physician's judgment are still of paramount importance in the early detection of the traumatic lethal triad.
 
@@ -1085,67 +1085,67 @@ Recommendation 10. We suggest that bedside ultrasound be used to optimize fluid 
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^ea7dc900]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^116zeMSF]. Critical Care (2023). High credibility.
 
 Regarding therapeutic procedures for transfusion strategies in critical care, more specifically with respect to massive bleeding (plasma transfusion), ABC-T 2023 guidelines recommend to guide further use of FFP, if a fresh-frozen plasma-based coagulation resuscitation strategy is used in patients with traumatic hemorrhage, by standard laboratory coagulation screening parameters (PT and/or aPTT > 1.5 times normal and/or viscoelastic evidence of a coagulation factor deficiency).
 
 ---
 
-### Evidence-based practice guidelines for plasma transfusion [^a5882090]. Transfusion (2010). Medium credibility.
+### Evidence-based practice guidelines for plasma transfusion [^115EQgUF]. Transfusion (2010). Medium credibility.
 
 Evidence-based plasma transfusion guidelines — scope and outcomes were defined with questions framed by patient groups, plasma transfusion as the intervention, and a comparator most often of "no plasma transfusion", with mortality as the primary outcome; studies using other comparators (e.g., prothrombin complex concentrate) were outside scope, the use of plasma during plasma exchange was not addressed since it had been examined elsewhere, and dosage guidance could not be issued due to data limitations; the systematic review focused on short-term outcomes (up to 30 days), presented both absolute and relative effect measures, and provided tentative GRADE-quality criteria for each outcome.
 
 ---
 
-### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^f9a7f219]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
+### Simplified treatment algorithm for the management of trauma-induced hemorrhage without viscoelastic testing [^117P8L1v]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
 
 Uncontrolled bleeding after major trauma remains a significant cause of death, with up to a third of trauma patients presenting with signs of coagulopathy at hospital admission. Rapid correction of coagulopathy is therefore vital to improve mortality rates and patient outcomes in this population. Early and repeated monitoring of coagulation parameters followed by clear protocols to correct hemostasis is the recommended standard of care for bleeding trauma patients. However, although a number of treatment algorithms are available, these are frequently complex and can rely on the use of viscoelastic testing, which is not available in all treatment centers. We therefore set out to develop a concise and pragmatic algorithm to guide treatment of bleeding trauma patients without the use of point-of-care viscoelastic testing. The algorithm we present here is based on published guidelines and research, includes recommendations regarding treatment and dosing, and is simple and clear enough for even an inexperienced physician to follow. In this way, we have demonstrated that treatment protocols can be developed and adapted to the resources available, to offer clear and relevant guidance to the entire trauma team.
 
 ---
 
-### Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines [^0f8581fa]. Journal of Thrombosis and Haemostasis (2013). Medium credibility.
+### Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines [^111Q1fAh]. Journal of Thrombosis and Haemostasis (2013). Medium credibility.
 
 Regarding medical management for disseminated intravascular coagulation, more specifically with respect to fibrinogen replacement, ISTH 2013 guidelines recommend to consider administering fibrinogen concentrate or cryoprecipitate in actively bleeding patients with persisting severe hypofibrinogenemia (< 1.5 g/L) despite FFP replacement.
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^f4f5a6df]. Intensive Care Medicine (2021). High credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^117GAVSn]. Intensive Care Medicine (2021). High credibility.
 
 Regarding therapeutic procedures for transfusion strategies in critical care, more specifically with respect to massive bleeding, coagulation factor transfusion, ESICM 2021 guidelines recommend to insufficient evidence to support the use of prothrombin complex concentrate versus plasma alone in patients with massive bleeding.
 
 ---
 
-### Emergency transfusions [^f5ca6dd3]. Emergency Medicine Clinics of North America (2020). Medium credibility.
+### Emergency transfusions [^117HPxgJ]. Emergency Medicine Clinics of North America (2020). Medium credibility.
 
 Successful emergency transfusions require early recognition and activation of resources to minimize treatment delays. The initial goals should focus on replacement of blood in a balanced fashion. There is an ongoing debate regarding the best approach to transfusions, with some advocating for resuscitation with a fixed ratio of blood products and others preferring to use viscoelastic assays to guide transfusions. Whole-blood transfusion also is a debated strategy. Despite these different approaches, it generally is accepted that transfusions should be started early and crystalloid infusions limited. As hemodynamic stability is restored, endpoints of resuscitation should be used to guide the resuscitation.
 
 ---
 
-### Hemorrhage and coagulopathy in the critically ill [^a4bf5d26]. Emergency Medicine Clinics of North America (2014). Low credibility.
+### Hemorrhage and coagulopathy in the critically ill [^115DFFHX]. Emergency Medicine Clinics of North America (2014). Low credibility.
 
 Bleeding is the second leading cause of death after trauma. Initial care of the patient with hemorrhage focuses on restoring circulating blood volume and reversing coagulopathy. Trauma and injury can initiate the coagulation cascade. Patients with massive bleeding should be resuscitated with goal-directed therapy. Hemostatic resuscitation in conjunction with ratio-based transfusion and massive transfusion protocols should be utilized while awaiting hemorrhage control. The military initiated massive transfusion protocols in the battlefield. We discuss the coagulation cascade, recent recommendations of goal-directed therapy, massive transfusion protocols, fixed ratios, and the future of transfusion medicine.
 
 ---
 
-### Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines [^948e2465]. Journal of Thrombosis and Haemostasis (2013). Medium credibility.
+### Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines [^114oEurt]. Journal of Thrombosis and Haemostasis (2013). Medium credibility.
 
 Regarding therapeutic procedures for disseminated intravascular coagulation, more specifically with respect to FFP transfusion, ISTH 2013 guidelines recommend to consider administering FFP in patients with active bleeding with either prolonged PT/aPTT (> 1.5 times normal) or decreased fibrinogen (< 1.5 g/dL). Consider administering FFP in patients with DIC requiring an invasive procedure with similar laboratory abnormalities.
 
 ---
 
-### Antithrombotic therapy for VTE disease: CHEST guideline and expert panel report [^f9216fdb]. Chest (2016). Medium credibility.
+### Antithrombotic therapy for VTE disease: CHEST guideline and expert panel report [^117NM9aJ]. Chest (2016). Medium credibility.
 
 Regarding medical management for pulmonary embolism, more specifically with respect to indications for anticoagulation, ACCP 2016 guidelines recommend to consider monitoring clinically, rather than initiating anticoagulation, in patients with subsegmental PE, no involvement of more proximal pulmonary arteries, and no proximal DVT in the legs, and a low risk for recurrent VTE.
 
 ---
 
-### European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage [^13b4d99b]. European Stroke Journal (2025). High credibility.
+### European Stroke Organisation (ESO) and European Association of Neurosurgical Societies (EANS) guideline on stroke due to spontaneous intracerebral haemorrhage [^111WDWbc]. European Stroke Journal (2025). High credibility.
 
 Regarding medical management for intracerebral hemorrhage, more specifically with respect to management of coagulopathy, rFVIIa, EANS/ESO 2025 guidelines recommend to avoid using recombinant activated factor VII routinely in adult patients with spontaneous ICH not associated with antithrombotic drug use. Consider offering patients enrollment in ongoing RCTs.
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^1d915d93]. Critical Care (2019). Medium credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: fifth edition [^111kqU82]. Critical Care (2019). Medium credibility.
 
 It is often misunderstood that the conventional coagulation screens [PT and activated partial thromboplastin time (APTT)] only provide information on levels of coagulation factor. These values, therefore, will typically appear normal during early blood loss, despite the potential for an underlying activation of coagulation and thrombus formation. The turnaround time for results of VEM [TEG®, rotational thromboelastometry (ROTEM®)], as for POC PT/INR, has been shown to be significantly shorter than conventional laboratory testing, with a time saving of 30–60 min. VEM may also be useful in the detection of coagulation abnormalities associated with the use of direct thrombin inhibitors such as dabigatran, argatroban, bivalirudin or hirudin, although these tests cannot discriminate between the effects of inhibitors and the impact of traumatic coagulopathy.
 
@@ -1153,13 +1153,13 @@ VEM provides a rapid assessment of haemostasis to support clinical decision-maki
 
 ---
 
-### The use of viscoelastic haemostatic assays in the management of major bleeding: a British Society for Haematology guideline [^7db97dbd]. British Journal of Haematology (2018). Medium credibility.
+### The use of viscoelastic haemostatic assays in the management of major bleeding: a British Society for Haematology guideline [^114DPktL]. British Journal of Haematology (2018). Medium credibility.
 
 Regarding diagnostic investigations for transfusion strategies in critical care, more specifically with respect to coagulation and viscoelastic testing, BSH 2018 guidelines recommend to recognize that normal viscoelastic hemostatic assay results confer a high negative predictive value for transfusion need in trauma patients, enabling the clinical team to monitor the patient closely without immediate activation of the major hemorrhage protocol.
 
 ---
 
-### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^e88c82b5]. Intensive Care Medicine (2021). Medium credibility.
+### Transfusion strategies in bleeding critically ill adults: a clinical practice guideline from the European Society of Intensive Care Medicine [^116wmKkG]. Intensive Care Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -1179,19 +1179,19 @@ This clinical practice guideline provides evidence-based recommendations for the
 
 ---
 
-### Guidelines for the diagnosis and management of disseminated intravascular coagulation. British Committee for Standards in Haematology [^ca0c7d03]. British Journal of Haematology (2009). Medium credibility.
+### Guidelines for the diagnosis and management of disseminated intravascular coagulation. British Committee for Standards in Haematology [^116AYhDc]. British Journal of Haematology (2009). Medium credibility.
 
 Regarding medical management for disseminated intravascular coagulation, more specifically with respect to prothrombin complex concentrate, BCSH 2009 guidelines recommend to consider administering factor concentrates, such as prothrombin complex concentrate, if transfusion of FFP is not possible in patients with bleeding because of fluid overload, recognizing that these will only partially correct the defect because they contain only selected factors, whereas in DIC there is a global deficiency of coagulation factors.
 
 ---
 
-### COVID-19 coagulopathy and thrombosis: analysis of hospital protocols in response to the rapidly evolving pandemic [^826b6cd5]. Thrombosis Research (2020). Medium credibility.
+### COVID-19 coagulopathy and thrombosis: analysis of hospital protocols in response to the rapidly evolving pandemic [^114LMUSp]. Thrombosis Research (2020). Medium credibility.
 
 As the Coronavirus disease 2019 (COVID-19) pandemic spread to the US, so too did descriptions of an associated coagulopathy and thrombotic complications. Hospitals created institutional protocols for inpatient management of COVID-19 coagulopathy and thrombosis in response to this developing data. We collected and analyzed protocols from 21 US academic medical centers developed between January and May 2020. We found greatest consensus on recommendations for heparin-based pharmacologic venous thromboembolism (VTE) prophylaxis in COVID-19 patients without contraindications. Protocols differed regarding incorporation of D-dimer tests, dosing of VTE prophylaxis, indications for post-discharge pharmacologic VTE prophylaxis, how to evaluate for VTE, and the use of empiric therapeutic anticoagulation. These findings support ongoing efforts to establish international, evidence-based guidelines.
 
 ---
 
-### Emergency medicine | JAMA network… [^4029e07f]. JAMA Network (2025). Excellent credibility.
+### Emergency medicine | JAMA network… [^112e8Gs8]. JAMA Network (2025). Excellent credibility.
 
 Explore the latest in emergency medicine, including prehospital care, resuscitation, trauma, respiratory failure, arrhythmias, and more. This JAMA Patient Page describes the venomous snakes found in the US as well as snakebite symptoms, treatment, and prevention. This cohort study examines factors associated with central vs peripheral vasopressor route selection and assesses safety and clinical outcomes of peripheral vasopressor administration in early sepsis resuscitation. This cross-sectional study assesses the association of postoperative loss of independence and 30-day mortality among patients aged 75 years or older and whether procedural risk level modifies the association. This quality improvement study evaluates the implementation, clinical outcomes, and safety of an electronic health record order set for intravenous weight-based phenobarbital loading for treating alcohol withdrawal syndrome.
 
@@ -1203,6 +1203,6 @@ A 34-year-old woman had recurrent episodes of crampy, diffuse abdominal pain not
 
 ---
 
-### Haematological management of major haemorrhage: a British Society for Haematology guideline [^80ccabd2]. British Journal of Haematology (2022). High credibility.
+### Haematological management of major haemorrhage: a British Society for Haematology guideline [^114HxAPT]. British Journal of Haematology (2022). High credibility.
 
 Regarding therapeutic procedures for red blood cell transfusion, more specifically with respect to transfusion strategies, massive bleeding, BSH 2022 guidelines recommend to administer plasma (in a 1:1 ratio with RBCs) early as part of initial resuscitation in patients with major traumatic hemorrhage until results from coagulation monitoring are available.

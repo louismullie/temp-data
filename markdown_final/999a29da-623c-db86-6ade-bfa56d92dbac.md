@@ -15,23 +15,23 @@ Does diastasis recti occur in men
 
 > Let's see… What do we have here? The user is asking whether diastasis recti occurs in men. Let's break this down step-by-step. First, I need to think about how diastasis recti is defined and diagnosed. Then, I should verify whether the literature explicitly documents cases in men. Next, I will examine the pathophysiology to see if male anatomy and risk factors plausibly allow diastasis. After that, I should quantify how often men appear in surgical series and what that implies about prevalence. Finally, I will synthesize a clear conclusion and note any caveats about measurement and terminology.
 
-> Let me first confirm the definition so I don't jump to conclusions: diastasis recti abdominis is a widening of the inter-rectus distance along the linea alba without a fascial defect, typically diagnosed when the gap exceeds about 2 cm, and it is not a true hernia because there is no rupture of the aponeurosis [^6c6d47ed] [^5a5a47c4].
+> Let me first confirm the definition so I don't jump to conclusions: diastasis recti abdominis is a widening of the inter-rectus distance along the linea alba without a fascial defect, typically diagnosed when the gap exceeds about 2 cm, and it is not a true hernia because there is no rupture of the aponeurosis [^113mkNQC] [^113JxDAb].
 
-> Wait, let me verify whether men are actually represented in the literature. Several surgical series explicitly include men: a minimally invasive repair cohort of 74 patients included 9 men, and a larger series of 172 patients undergoing preaponeurotic endoscopic repair included both sexes, confirming male cases in contemporary practice [^35240fab]. I should also note that a plastic surgery series of 32 patients included 3 men, reinforcing that men are indeed treated for this condition [^2cbb9191].
+> Wait, let me verify whether men are actually represented in the literature. Several surgical series explicitly include men: a minimally invasive repair cohort of 74 patients included 9 men, and a larger series of 172 patients undergoing preaponeurotic endoscopic repair included both sexes, confirming male cases in contemporary practice [^112MnTTx]. I should also note that a plastic surgery series of 32 patients included 3 men, reinforcing that men are indeed treated for this condition [^1129KTXn].
 
-> Hold on, let's not jump to conclusions about causation; I need to check the pathophysiology. Diastasis reflects increased intra-abdominal pressure and linea alba laxity, which can arise from pregnancy in women but also from obesity, chronic cough, heavy lifting, aging, and prior abdominal surgery; these risk factors are not sex-specific, so men are biologically susceptible to the same mechanism of midline separation under load [^6c6d47ed] [^1c393070].
+> Hold on, let's not jump to conclusions about causation; I need to check the pathophysiology. Diastasis reflects increased intra-abdominal pressure and linea alba laxity, which can arise from pregnancy in women but also from obesity, chronic cough, heavy lifting, aging, and prior abdominal surgery; these risk factors are not sex-specific, so men are biologically susceptible to the same mechanism of midline separation under load [^113mkNQC] [^111iqs2X].
 
-> I should double-check whether any authoritative reviews deny male occurrence. The International Endohernia Society guidance discusses diastasis recti broadly and frames indications around functional or cosmetic impairment rather than sex, implicitly acknowledging that men can be affected and may benefit from repair when indicated [^5a5a47c4]. Likewise, a recent systematic review of minimally invasive endoscopic onlay repair explicitly notes that patients presenting with diastasis include middle-aged and elderly obese men, which directly confirms male prevalence in clinical cohorts [^daf4620b].
+> I should double-check whether any authoritative reviews deny male occurrence. The International Endohernia Society guidance discusses diastasis recti broadly and frames indications around functional or cosmetic impairment rather than sex, implicitly acknowledging that men can be affected and may benefit from repair when indicated [^113JxDAb]. Likewise, a recent systematic review of minimally invasive endoscopic onlay repair explicitly notes that patients presenting with diastasis include middle-aged and elderly obese men, which directly confirms male prevalence in clinical cohorts [^116bcPQ6].
 
-> Let me consider prevalence quantification cautiously. While most epidemiologic data focus on women, the inclusion of men in surgical series and the pathophysiologic risk model support that diastasis does occur in men, albeit likely at lower frequency than in women; I should avoid overestimating a male prevalence because high-quality male-specific prevalence studies are sparse, but the existence of male cases is established and clinically meaningful [^35240fab] [^d30aec4f] [^daf4620b].
+> Let me consider prevalence quantification cautiously. While most epidemiologic data focus on women, the inclusion of men in surgical series and the pathophysiologic risk model support that diastasis does occur in men, albeit likely at lower frequency than in women; I should avoid overestimating a male prevalence because high-quality male-specific prevalence studies are sparse, but the existence of male cases is established and clinically meaningful [^112MnTTx] [^116Pt4G6] [^116bcPQ6].
 
-> But wait, what if the question is about measurement thresholds that might differ by sex? I need to ensure I'm not conflating diagnostic cutoffs with occurrence. Normative inter-rectus distances vary by population and measurement method, and some CT-derived norms suggest wider "normal" IRD in asymptomatic adults, yet the clinical entity of diastasis is still defined by abnormal widening of the linea alba; this affects diagnosis, not whether the condition exists in men, and men can meet the same IRD criteria when symptomatic or cosmetically concerned [^258fe9cf] [^6c6d47ed].
+> But wait, what if the question is about measurement thresholds that might differ by sex? I need to ensure I'm not conflating diagnostic cutoffs with occurrence. Normative inter-rectus distances vary by population and measurement method, and some CT-derived norms suggest wider "normal" IRD in asymptomatic adults, yet the clinical entity of diastasis is still defined by abnormal widening of the linea alba; this affects diagnosis, not whether the condition exists in men, and men can meet the same IRD criteria when symptomatic or cosmetically concerned [^111xgt5t] [^113mkNQC].
 
-> In summary, I should confirm the bottom line clearly: yes, diastasis recti does occur in men. It is documented in surgical cohorts, mechanistically plausible given shared risk factors, and recognized in contemporary hernia and abdominal wall literature, even though most prevalence data are derived from women [^35240fab] [^d30aec4f] [^daf4620b] [^5a5a47c4].
+> In summary, I should confirm the bottom line clearly: yes, diastasis recti does occur in men. It is documented in surgical cohorts, mechanistically plausible given shared risk factors, and recognized in contemporary hernia and abdominal wall literature, even though most prevalence data are derived from women [^112MnTTx] [^116Pt4G6] [^116bcPQ6] [^113JxDAb].
 
 ---
 
-Diastasis recti **does occur in men**, though it is less common than in women. It is most often linked to **chronic intra-abdominal pressure** from obesity, heavy lifting, chronic cough, or constipation, and may also follow abdominal surgery or trauma [^6c6d47ed] [^1c393070]. Diagnosis relies on clinical examination and ultrasound, with **IRD > 2 cm** at the umbilicus typically considered abnormal [^a28a8b66] [^6c6d47ed]. Management is individualized: conservative care (weight loss, core strengthening, physical therapy) is first-line, and surgery is reserved for persistent symptoms or cosmetic concerns [^2773fdac] [^5a5a47c4]. Prognosis is generally favorable with treatment, but recurrence is possible without addressing underlying risk factors [^55f5bbd7].
+Diastasis recti **does occur in men**, though it is less common than in women. It is most often linked to **chronic intra-abdominal pressure** from obesity, heavy lifting, chronic cough, or constipation, and may also follow abdominal surgery or trauma [^113mkNQC] [^111iqs2X]. Diagnosis relies on clinical examination and ultrasound, with **IRD > 2 cm** at the umbilicus typically considered abnormal [^1159yXid] [^113mkNQC]. Management is individualized: conservative care (weight loss, core strengthening, physical therapy) is first-line, and surgery is reserved for persistent symptoms or cosmetic concerns [^1121VUgB] [^113JxDAb]. Prognosis is generally favorable with treatment, but recurrence is possible without addressing underlying risk factors [^113CSVEW].
 
 ---
 
@@ -39,10 +39,10 @@ Diastasis recti **does occur in men**, though it is less common than in women. I
 
 Prevalence in men is **lower than in women** and is strongly influenced by age, obesity, and physical activity. Risk factors include:
 
-- **Obesity**: Increased intra-abdominal pressure stretches the linea alba [^6c6d47ed].
-- **Heavy lifting**: Chronic mechanical stress weakens the midline fascia [^1c393070].
+- **Obesity**: Increased intra-abdominal pressure stretches the linea alba [^113mkNQC].
+- **Heavy lifting**: Chronic mechanical stress weakens the midline fascia [^111iqs2X].
 - **Chronic cough or constipation**: Repetitive pressure overloads the abdominal wall.
-- **Previous abdominal surgery**: Weakens fascia and disrupts normal load transfer [^6c6d47ed].
+- **Previous abdominal surgery**: Weakens fascia and disrupts normal load transfer [^113mkNQC].
 - **Aging**: Loss of collagen elasticity and muscle tone contributes to laxity [^notfound].
 
 ---
@@ -51,10 +51,10 @@ Prevalence in men is **lower than in women** and is strongly influenced by age, 
 
 Men with diastasis recti typically present with:
 
-- **Visible midline bulge**: Especially with Valsalva or exertion [^3c122d33].
-- **Core weakness**: Reduced trunk stability and balance [^c1f151b5].
-- **Low back pain**: From altered biomechanics and spinal load [^c1f151b5].
-- **Cosmetic concerns**: Abdominal protrusion affecting body image [^3c122d33].
+- **Visible midline bulge**: Especially with Valsalva or exertion [^112Y4N1x].
+- **Core weakness**: Reduced trunk stability and balance [^115xXffa].
+- **Low back pain**: From altered biomechanics and spinal load [^115xXffa].
+- **Cosmetic concerns**: Abdominal protrusion affecting body image [^112Y4N1x].
 
 ---
 
@@ -64,13 +64,13 @@ Diagnosis is **primarily clinical**, with imaging used to confirm and quantify t
 
 | **Method** | **Description** | **Accuracy** |
 |-|-|-|
-| Clinical examination | Palpation of the midline gap at rest and during contraction | Moderate; operator-dependent [^a28a8b66] |
-| Ultrasound | Non-invasive measurement of inter-rectus distance (IRD) | High; gold standard for IRD [^a28a8b66] |
+| Clinical examination | Palpation of the midline gap at rest and during contraction | Moderate; operator-dependent [^1159yXid] |
+| Ultrasound | Non-invasive measurement of inter-rectus distance (IRD) | High; gold standard for IRD [^1159yXid] |
 | CT/MRI | Detailed assessment of abdominal wall anatomy | High; reserved for complex cases [^notfound] |
 
 ---
 
-An **IRD > 2 cm** at the umbilicus is generally considered abnormal and supports the diagnosis [^6c6d47ed].
+An **IRD > 2 cm** at the umbilicus is generally considered abnormal and supports the diagnosis [^113mkNQC].
 
 ---
 
@@ -83,8 +83,8 @@ Treatment is **individualized** based on severity, symptoms, and patient goals:
 Conservative management is **first-line** and includes:
 
 - **Weight loss**: Reduces intra-abdominal pressure and mechanical stress [^notfound].
-- **Core strengthening**: Focused on transversus abdominis and pelvic floor activation [^1c393070].
-- **Physical therapy**: Postural training and functional rehabilitation [^e5747af8].
+- **Core strengthening**: Focused on transversus abdominis and pelvic floor activation [^111iqs2X].
+- **Physical therapy**: Postural training and functional rehabilitation [^116sBHkj].
 - **Lifestyle modifications**: Avoidance of heavy lifting and straining [^notfound].
 
 ---
@@ -93,29 +93,29 @@ Conservative management is **first-line** and includes:
 
 Surgery is considered for **persistent symptoms**, cosmetic concerns, or failure of conservative therapy:
 
-- **Open plication**: Midline fascial repair with or without mesh reinforcement [^2f4d0602].
-- **Minimally invasive techniques**: Laparoscopic or robotic retrorectus repair with mesh [^daf4620b].
-- **Combined procedures**: Abdominoplasty with diastasis repair for aesthetic and functional outcomes [^c1f151b5].
+- **Open plication**: Midline fascial repair with or without mesh reinforcement [^112D8HnR].
+- **Minimally invasive techniques**: Laparoscopic or robotic retrorectus repair with mesh [^116bcPQ6].
+- **Combined procedures**: Abdominoplasty with diastasis repair for aesthetic and functional outcomes [^115xXffa].
 
-Outcomes are generally favorable, with **low recurrence** and high satisfaction when performed by experienced surgeons [^55f5bbd7].
+Outcomes are generally favorable, with **low recurrence** and high satisfaction when performed by experienced surgeons [^113CSVEW].
 
 ---
 
 ## Prognosis and recurrence
 
-With appropriate treatment, prognosis is **favorable**; however, recurrence can occur if underlying risk factors (e.g. obesity, heavy lifting) are not addressed. Long-term stability is improved with mesh reinforcement in severe cases [^2cbb9191].
+With appropriate treatment, prognosis is **favorable**; however, recurrence can occur if underlying risk factors (e.g. obesity, heavy lifting) are not addressed. Long-term stability is improved with mesh reinforcement in severe cases [^1129KTXn].
 
 ---
 
 ## Conclusion
 
-Diastasis recti **does occur in men**, typically due to chronic intra-abdominal pressure or surgical disruption. It is diagnosed clinically and confirmed with ultrasound, and management spans conservative therapy to surgical repair, with outcomes generally favorable when individualized care is provided [^6c6d47ed] [^a28a8b66] [^5a5a47c4].
+Diastasis recti **does occur in men**, typically due to chronic intra-abdominal pressure or surgical disruption. It is diagnosed clinically and confirmed with ultrasound, and management spans conservative therapy to surgical repair, with outcomes generally favorable when individualized care is provided [^113mkNQC] [^1159yXid] [^113JxDAb].
 
 ---
 
 ## References
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^35240fab]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^112MnTTx]. Surgical Endoscopy (2021). Medium credibility.
 
 Background
 
@@ -139,7 +139,7 @@ The online version contains supplementary material available at 10.1007/s00464-0
 
 ---
 
-### Clinical significance of diastasis recti: literature review and awareness amongst health care professionals [^b6ffe69c]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2023). Medium credibility.
+### Clinical significance of diastasis recti: literature review and awareness amongst health care professionals [^115gJhe3]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2023). Medium credibility.
 
 Background
 
@@ -159,7 +159,7 @@ Current literature is not unanimous on the relation between DR and physical comp
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^12bf198a]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^111Unxzm]. Surgical Endoscopy (2021). Medium credibility.
 
 Methods
 
@@ -175,7 +175,7 @@ All patients were requested to fill out a preoperative questionnaire about sympt
 
 ---
 
-### Treatment of rectus diastasis: should the midline always be reinforced with mesh? A systematic review [^55f5bbd7]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2021). Medium credibility.
+### Treatment of rectus diastasis: should the midline always be reinforced with mesh? A systematic review [^113CSVEW]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2021). Medium credibility.
 
 Background
 
@@ -195,7 +195,7 @@ Durability, safety, and high patient satisfaction support surgical correction of
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^a9adc011]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^115LZGZ6]. British Journal of Sports Medicine (2016). Low credibility.
 
 Introduction
 
@@ -205,7 +205,7 @@ The aims of the present study were: (1) to investigate the prevalence of DRA amo
 
 ---
 
-### Diastasis recti: clinical anatomy [^164a5180]. Plastic and Reconstructive Surgery (2008). Low credibility.
+### Diastasis recti: clinical anatomy [^111a3h3D]. Plastic and Reconstructive Surgery (2008). Low credibility.
 
 Background
 
@@ -225,7 +225,7 @@ Contrary to current thought, abdominal wall protrusions are caused by the stretc
 
 ---
 
-### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^69b63e91]. Surgical Endoscopy (2017). Low credibility.
+### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^113hiuzp]. Surgical Endoscopy (2017). Low credibility.
 
 Methods
 
@@ -246,7 +246,7 @@ The last search was performed on 8 September 2016. The search was performed usin
 
 ---
 
-### Could abdominoplasty with diastasis recti abdominis correction improve stress urinary symptoms? A 1-year follow-up prospective study [^2dbf5623]. Aesthetic Plastic Surgery (2024). Medium credibility.
+### Could abdominoplasty with diastasis recti abdominis correction improve stress urinary symptoms? A 1-year follow-up prospective study [^112ApiDY]. Aesthetic Plastic Surgery (2024). Medium credibility.
 
 Background
 
@@ -270,7 +270,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Short ‑ term outcomes of minimally invasive endoscopic onlay repair for diastasis recti and ventral hernia repair: a systematic review and meta ‑ analysis [^daf4620b]. Surgical Endoscopy (2025). Medium credibility.
+### Short ‑ term outcomes of minimally invasive endoscopic onlay repair for diastasis recti and ventral hernia repair: a systematic review and meta ‑ analysis [^116bcPQ6]. Surgical Endoscopy (2025). Medium credibility.
 
 Diastasis recti (DR) is a condition characterized by an increase of the normal distance between the rectus abdominis muscles, usually exceeding 2.2 cm. Patients presenting with DR typically fall into one of following profiles: middle-aged and elderly obese men or short and thin women after full-term pregnancies. DR often coexists with primary abdominal wall defects, such as umbilical hernias, epigastric hernias, or both, or with incisional hernias. Primary defects and incisional hernias occurring alongside diastasis recti pose a complex challenge in the field of abdominal wall reconstruction. Traditional open sublay repair of midline ventral hernias facilitates convenient anterior diastasis recti plication, but entails cosmetically unattractive large incisions. Laparoscopic intraperitoneal mesh (IPOM) repair offers a minimally invasive alternative, but it requires an ergonomically unfavorable posterior approach for DR plication, that additionally results in the development of an unsightly fold of midline soft tissue.
 
@@ -278,7 +278,7 @@ Emerging minimally invasive surgical (MIS) techniques, including laparoscopic an
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^6c6d47ed]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^113mkNQC]. Surgical Endoscopy (2021). Medium credibility.
 
 Diastasis recti is a very common acquired condition in which the rectus abdominis muscles are separated by an abnormal distance along their lengths. Unlike hernias, there is no fascial defect. The minimum inter-rectus distance to define a diastasis is 2 cm. The condition is due to an increase in intra-abdominal pressure in which the forces applied to the linea alba cause it to stretch, resulting in a widening of the inter-rectus distance. For these reasons, it occurs most frequently after pregnancy, but obesity or previous abdominal surgeries can also be the cause.
 
@@ -290,13 +290,13 @@ Several surgical procedures are available for the management of recti diastasis,
 
 ---
 
-### Reply to the letter regarding "Impact of abdominoplasty with diastasis recti correction on female sexual function" [^31706e6a]. Aesthetic Plastic Surgery (2025). Medium credibility.
+### Reply to the letter regarding "Impact of abdominoplasty with diastasis recti correction on female sexual function" [^112GJA9X]. Aesthetic Plastic Surgery (2025). Medium credibility.
 
 In response to Verma et al. we acknowledge the limitations of our study, including the absence of a control group and the modest sample size, both influenced by ethical and logistical constraints. Despite these factors, improvements in FSFI scores were statistically significant. We concur that larger multicenter studies with standardized measures are needed, and we appreciate this constructive exchange fostering further research on female sexual health after abdominoplasty. Level of Evidence V This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.
 
 ---
 
-### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^c036f3b8]. International Urogynecology Journal (2024). Medium credibility.
+### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^115uy5fD]. International Urogynecology Journal (2024). Medium credibility.
 
 Study Limitations
 
@@ -304,7 +304,7 @@ This scoping review was designed with the objective of systematically mapping re
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^128cf1f9]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^111UW7ua]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Twenty-eight unique studies (n = 1588) from 15 countries reported on diastasis recti abdominis. There were 14 RCTs (n = 626), six non-RCTs (n = 530)and one observational study (n = 84)that explored the chronic effect of exercise on diastasis recti abdominis. Results from five studies were narratively reported due to incomplete reporting of results (one RCT, one non-RCTand three observational studies). Among the 14 RCTs reporting on diastasis recti abdominis, seven were abdominal muscle training studies, four were abdominal muscle training+pelvic floor muscle training interventions, and three were exercise+co-interventions. The co-interventions included using an abdominal binder, abdominal bracing techniquesand kinesiotaping. Among the included RCTs that implemented abdominal muscle training and pelvic floor muscle training interventions, the frequency of exercise ranged from 1 to 7 days per week, and the duration of exercise sessions ranged from 5 to 50 min per session. The start of the exercise interventions varied from the first week postpartum up to 52 weeks postpartum. RCTs that implemented general exercise interventions for diastasis recti abdominis (eg, whole-body aerobic and/or resistance exercise) were not found.
 
@@ -320,7 +320,7 @@ The data from RCTs, as well as a brief summary of results from other study desig
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^81553750]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^114Jk2Vm]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Objective
 
@@ -352,7 +352,7 @@ CRD42022359282.
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^80b39a8b]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^114Hok2v]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Abstract
 
@@ -384,7 +384,7 @@ CRD42022359282.
 
 ---
 
-### Short ‑ term outcomes of minimally invasive endoscopic onlay repair for diastasis recti and ventral hernia repair: a systematic review and meta ‑ analysis [^73ae440e]. Surgical Endoscopy (2025). Medium credibility.
+### Short ‑ term outcomes of minimally invasive endoscopic onlay repair for diastasis recti and ventral hernia repair: a systematic review and meta ‑ analysis [^113xW7P3]. Surgical Endoscopy (2025). Medium credibility.
 
 The average length of hospital stay was 1.3 days, consistent with the ones reported for other minimally invasive diastasis recti and ventral hernia repair methods, both extra- and intraperitoneal. This length of stay is also significantly shorter if compared to the open repair techniques' ones. Additionally, Arias-Espinosa et al. reports that approximately 80% of the ENDOR surgeries were performed as outpatient procedures, highlighting the potential of reduced hospitalization associated with this approach.
 
@@ -392,7 +392,7 @@ The re-operation rate in this systematic review was 1%, that is consistent with 
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^a2777ee7]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^1159s8cn]. Surgical Endoscopy (2021). Medium credibility.
 
 Results
 
@@ -407,7 +407,7 @@ The average duration of surgery was 90 min. When only recti diastasis was correc
 
 ---
 
-### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^2773fdac]. Surgical Endoscopy (2017). Low credibility.
+### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^1121VUgB]. Surgical Endoscopy (2017). Low credibility.
 
 Physiotherapy could be an alternative to surgery for patients who are unable or reluctant to undergo surgical intervention. Surgical treatment only corrects the widening of the linea alba and will not influence the general laxity of the ventral abdominal wall. Therefore, physiotherapy could be a useful addition to surgical intervention for DRAM, to achieve satisfying functional outcome.
 
@@ -417,7 +417,7 @@ Most of the included studies were performed in postpartum women (rectus diastasi
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^294e469e]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^1124EnVT]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Introduction
 
@@ -429,13 +429,13 @@ The present systematic review and meta-analysis was conducted as part of a serie
 
 ---
 
-### Peritoneal dialysis catheter placement with peritoneoscopic technique and successful initiation of peritoneal dialysis in a patient with diastasis recti [^29e8249b]. Seminars in Dialysis (2013). Low credibility.
+### Peritoneal dialysis catheter placement with peritoneoscopic technique and successful initiation of peritoneal dialysis in a patient with diastasis recti [^11258U4i]. Seminars in Dialysis (2013). Low credibility.
 
 Preserved anatomical integrity of the anterior abdominal wall is considered important in the presurgical evaluation of a patient who is being considered for placement of a peritoneal dialysis (PD) catheter. Diastasis recti abdominis (DRA) is the excessive widening or separation between the two bellies of the rectus abdominis muscle. The separation can occur anywhere along the linea alba and at times has been found to span the entire length from the xiphosternal angle to the pubic bone. Presence of DRA can pose a surgical challenge in the peritoneoscopic placement of peritoneal dialysis catheter. In this report, we discuss a case of successful placement of peritoneal dialysis catheter with peritoneoscope technique and successful initiation of peritoneal dialysis in a chronic kidney disease patient with DRA.
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^cc057d03]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^116DUKQn]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Certainty of evidence assessment
 
@@ -445,7 +445,7 @@ Two reviewers independently and systematically assessed ROB of included studies 
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^aa2f4ad8]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^115MJnEj]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Additional considerations
 
@@ -467,7 +467,7 @@ Extracted data included study characteristics (eg, year, study design, country),
 
 ---
 
-### Improvement in back pain following abdominoplasty: results of a 10-year, single-surgeon series [^c1f151b5]. Aesthetic Surgery Journal (2020). Medium credibility.
+### Improvement in back pain following abdominoplasty: results of a 10-year, single-surgeon series [^115xXffa]. Aesthetic Surgery Journal (2020). Medium credibility.
 
 Back pain is one of the most common and physically debilitating conditions in the United States, reported to affect an estimated 84% of adults at some point within their lifetime. Given the frequency of this complaint, it comes as no surprise that the fiscal impact of back pain on the healthcare system is quoted as upwards of US$20 billion annually. Female gender is a known risk factor for the development of chronic lumbar pain, and studies have shown that this may be partially attributable to diastasis recti, separation of the rectus muscles at the midline, a condition that commonly arises with pregnancy or obesity. These physiologic states strain the abdominal wall, weakening the connection between the rectus sheath and the lateral abdominal wall musculature. As many as 15% of women who become pregnant can develop a resultant postpartum diastasis, and although this condition may improve or resolve spontaneously, 39% of these women have symptoms persisting beyond the immediate postpartum period. Diastasis has been shown to limit core strength and functional ability, due to the reduction in stability of the trunk caused by the abnormal length and position of the abdominal wall musculature. Models have been developed to examine the role a functionally tight abdominal wall plays in reducing tension on the spinal musculature and intervertebral joints, and stabilizing the spine.
 
@@ -475,7 +475,7 @@ Given this proven anatomic relationship, several studies have correlated the cor
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^a872b0cb]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^115JjShQ]. Insights Into Imaging (2021). Medium credibility.
 
 Background
 
@@ -485,7 +485,7 @@ Clinically, DRA is evaluated by finger breadth. The widths of the two recti abdo
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^38c976fe]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^112TBydf]. Surgical Endoscopy (2021). Medium credibility.
 
 Conclusions
 
@@ -493,7 +493,7 @@ This procedure was performed on a small number of patients and longer follow-up 
 
 ---
 
-### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^0d0a2f9f]. Surgical Endoscopy (2017). Low credibility.
+### The general surgeon's perspective of rectus diastasis. A systematic review of treatment options [^111LLG6z]. Surgical Endoscopy (2017). Low credibility.
 
 Background
 
@@ -513,7 +513,7 @@ Both plication-based methods and hernia repair methods are used for DRAM repair.
 
 ---
 
-### Diastasis recti abdominis: a practical and effective width-length classification based on ultrasound measurements and its clinical validation [^5bb33d9b]. Journal of Ultrasound in Medicine (2024). Medium credibility.
+### Diastasis recti abdominis: a practical and effective width-length classification based on ultrasound measurements and its clinical validation [^113Lx5Xx]. Journal of Ultrasound in Medicine (2024). Medium credibility.
 
 Objectives
 
@@ -533,7 +533,7 @@ This study proposes a Width-Length classification based on the width and length 
 
 ---
 
-### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^9caab742]. Insights Into Imaging (2023). Medium credibility.
+### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^1151GQmw]. Insights Into Imaging (2023). Medium credibility.
 
 Methods
 
@@ -558,7 +558,7 @@ To identify potentially relevant publications, the PubMed, Embase (Elsevier), an
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^04300a1c]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^1117D61h]. British Journal of Sports Medicine (2025). Medium credibility.
 
 To quantitatively synthesise the evidence on the acute effect of exercise on inter-rectus distance, we used a random effects multilevel meta-analytic approach to account for dependency between effect sizes (ie, the correlation between effect sizes due to multiple measures or submeasures of the same outcome within a study). In such cases, outcome measures and comparisons from the same study were nested within the study first, and variance in observed effect sizes was decomposed into sampling, within-study and between-studies variance. The statistical heterogeneity I² statistic was also estimated in the context of a multilevel meta-analytical approach, that is, within-cluster heterogeneity (multiple arms from the same study) and between-cluster heterogeneity (effect sizes across studies).
 
@@ -574,7 +574,7 @@ Patient preferences were obtained via an online survey to inform decisions made 
 
 ---
 
-### Is it possible to repair diastasis recti and shorten the aponeurosis at the same time? [^156ebcfb]. Aesthetic Plastic Surgery (2014). Low credibility.
+### Is it possible to repair diastasis recti and shorten the aponeurosis at the same time? [^111YmwGn]. Aesthetic Plastic Surgery (2014). Low credibility.
 
 Background
 
@@ -598,7 +598,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Preaponeurotic endoscopic repair (REPA) of diastasis recti: a single surgeon's experience [^d30aec4f]. Surgical Endoscopy (2022). Medium credibility.
+### Preaponeurotic endoscopic repair (REPA) of diastasis recti: a single surgeon's experience [^116Pt4G6]. Surgical Endoscopy (2022). Medium credibility.
 
 Background
 
@@ -618,7 +618,7 @@ REPA is a safe and effective technique for diastasis recti treatment, representi
 
 ---
 
-### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^3c122d33]. International Urogynecology Journal (2024). Medium credibility.
+### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^112Y4N1x]. International Urogynecology Journal (2024). Medium credibility.
 
 Introduction
 
@@ -630,7 +630,7 @@ The abdominal wall plays a significant role in maintaining posture, trunk and pe
 
 ---
 
-### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS)): part B [^5a5a47c4]. Surgical Endoscopy (2019). Medium credibility.
+### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS)): part B [^113JxDAb]. Surgical Endoscopy (2019). Medium credibility.
 
 Indications for surgery
 
@@ -646,7 +646,7 @@ Surgical options for treatment of diastasis recti include linea alba plication, 
 
 ---
 
-### Clarifying the impact: does diastasis recti correction truly alleviate low back pain? [^6afeda0a]. Aesthetic Plastic Surgery (2025). Medium credibility.
+### Clarifying the impact: does diastasis recti correction truly alleviate low back pain? [^113jdHnR]. Aesthetic Plastic Surgery (2025). Medium credibility.
 
 Introduction
 
@@ -670,7 +670,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### An efficient way to correct recurrent rectus diastasis [^a73ff454]. Aesthetic Plastic Surgery (2004). Low credibility.
+### An efficient way to correct recurrent rectus diastasis [^115GxQzf]. Aesthetic Plastic Surgery (2004). Low credibility.
 
 Background
 
@@ -690,7 +690,7 @@ Advancement of the recti muscles seems to be a reliable method for correcting re
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^5177f818]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^1135nJ1m]. British Journal of Sports Medicine (2025). Medium credibility.
 
 We assessed inconsistency across studies using statistical tests and visual inspection of forest plots. We used Cochran's Q (α = 0.05) to detect statistical heterogeneity and I² statistic to quantify the magnitude of statistical heterogeneity between studies. In the case where we observed high statistical heterogeneity (I² > 50%), we considered downgrading the evidence if the direction of the effect was inconsistent across most studies, with minimal overlap of CIs, and if such heterogeneity remained unexplained after conducting meta-regression and/or subgroup analyses. We considered indirectness as 'serious' when PICO criteria differed substantially across studies. Imprecision was considered 'serious' or 'very serious' when the sample size was small (< 300 in each arm or < 100 in each arm, respectively) and/or when the effect estimate was imprecise with wide CI, including the no-effect value, which does not rule out a small harm or negative effect. Publication bias was assessed when at least 10 studies were included in the meta-analysis. Otherwise, it was deemed non-estimable and not rated down. Initially, we planned to have two individuals independently assess the certainty of the evidence across each health outcome. However, it was amended for feasibility reasons. Therefore, one individual evaluated the certainty of the evidence, and a second individual checked the GRADE tables as a quality control measure.
 
@@ -700,7 +700,7 @@ Meta-analyses were conducted using ReviewManager (RevMan) V.5.4 (Cochrane, Londo
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^a851c557]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^115JYPNN]. Surgical Endoscopy (2021). Medium credibility.
 
 In case of moderate to severe diastasis, retrorectus repair reinforcement with sublay mesh, based on the Rives–Stoppa principles, should be considered. The placement of a mesh in a retrorectus plane allows greater improvement in muscular strength and provides the most durable repair, with no adherence to bowel loops. Postoperative complications, include infection, seroma, mesh extrusion, recurrence, nerve injury, postoperative pain, skin necrosis, and visceral injury.
 
@@ -712,7 +712,7 @@ The aim of this study was to evaluate the effectiveness and feasibility of using
 
 ---
 
-### Do abdominal binders prevent seroma formation and recurrent diastasis following abdominoplasty? [^71b2edd1]. Aesthetic Surgery Journal (2022). Medium credibility.
+### Do abdominal binders prevent seroma formation and recurrent diastasis following abdominoplasty? [^113uZhfN]. Aesthetic Surgery Journal (2022). Medium credibility.
 
 Background
 
@@ -736,7 +736,7 @@ The postoperative wearing of abdominal binders was not effective in preventing e
 
 ---
 
-### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS)): part B [^210285c4]. Surgical Endoscopy (2019). Medium credibility.
+### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS)): part B [^111qwSSf]. Surgical Endoscopy (2019). Medium credibility.
 
 Chapter 2. Is there an indication for operative treatment of diastasis recti without hernia formation?
 
@@ -750,7 +750,7 @@ Diastasis recti is a diagnosis that surgeons have to manage on a regular basis. 
 
 ---
 
-### Localized postinflammatory hyperpigmentation with abdominal wall protrusion [^79a4732e]. JAAD Case Reports (2025). Medium credibility.
+### Localized postinflammatory hyperpigmentation with abdominal wall protrusion [^1147Ljqo]. JAAD Case Reports (2025). Medium credibility.
 
 A 73-year-old Caucasian man presented with a 2-week history of right sided abdominal discomfort and swelling. Six weeks prior, he had been treated for a right sided vesicular rash by his primary care doctor. Examination revealed a diffuse, reducible nontender swelling of the right abdominal wall with overlying post inflammatory hyperpigmentation in an 11th – 12th thoracic vertebrae dermatomal distribution (Figs 1 and 2). Hyperesthesia was also noted in this area.
 
@@ -770,7 +770,7 @@ E. Macrocytic lymphatic malformation – Incorrect. This is a benign cystic lesi
 
 ---
 
-### Urinary incontinence and abdominal diastasis: a detailed analysis and surgical outcome in 100 patients undergoing abdominoplasty [^9c493bfc]. Aesthetic Plastic Surgery (2025). Medium credibility.
+### Urinary incontinence and abdominal diastasis: a detailed analysis and surgical outcome in 100 patients undergoing abdominoplasty [^114zhfgX]. Aesthetic Plastic Surgery (2025). Medium credibility.
 
 Background
 
@@ -798,7 +798,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^d85fbd0a]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^116XnV1K]. British Journal of Sports Medicine (2016). Low credibility.
 
 Possible risk factors for DRA 12 months post partum
 
@@ -806,13 +806,13 @@ Our data shows no clear risk factors for DRA 12 months post partum. The wide CI 
 
 ---
 
-### Triangular mattress suture in abdominal diastasis to prevent epigastric bulging [^24979c82]. Annals of Plastic Surgery (2001). Low credibility.
+### Triangular mattress suture in abdominal diastasis to prevent epigastric bulging [^111wFUmo]. Annals of Plastic Surgery (2001). Low credibility.
 
 In the classic abdominoplasty, the treatment of large diastasis recti with simple or vertical mattress sutures may result in a nonaesthetic bulge. The surgeon may produce a craniocaudal bulge deformity by treating the flaccidity in the horizontal plane only, although it occurs in all directions. The authors describe the triangular mattress suture for the treatment of large diastasis recti, and demonstrate the mechanism involved in producing an epigastric bulge. Also presented is their clinical experience with 56 patients, with a 3-year follow-up, using this new plication method. The triangular mattress suture is a simple, quick, and effective way to correct abdominal diastasis and to avoid the epigastric bulge deformity with no added morbidity.
 
 ---
 
-### Surgical management of diastasis recti: a systematic review of insurance coverage in the United States [^f7b8d091]. Annals of Plastic Surgery (2019). Medium credibility.
+### Surgical management of diastasis recti: a systematic review of insurance coverage in the United States [^117LG264]. Annals of Plastic Surgery (2019). Medium credibility.
 
 Background
 
@@ -832,7 +832,7 @@ Insurance company policies do not recognize the spectrum of patients with DR and
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^ca658bb0]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^116B4cCF]. Surgical Endoscopy (2021). Medium credibility.
 
 On postoperative day one and two, 3 g of paracetamol was administered to all patients and 10 mg of ketorolac was administered to patients with persistent pain after surgery. A survey among patients showed a progressive reduction of postoperative pain until its disappearance on postoperative day 7. The median visual analog scale (VAS) score on the first postoperative day was 5.5 ± 2. The average follow-up period was 6 months (range 2–12 months).
 
@@ -845,7 +845,7 @@ Symptoms assessment before and after surgery: UI urinary incontinence, LBP lower
 
 ---
 
-### Obesity indicators and female asthma risk: the mediating role of white blood cell count based on NHANES data analysis [^ab5ac8b0]. BMC Pulmonary Medicine (2025). Medium credibility.
+### Obesity indicators and female asthma risk: the mediating role of white blood cell count based on NHANES data analysis [^115P3NoZ]. BMC Pulmonary Medicine (2025). Medium credibility.
 
 In addition, asthma exhibits notable differences in epidemiological characteristics and pathogenesis between sexes. Globally, asthma prevalence is consistently higher in women than in men, especially after puberty and in adulthood. This difference may be closely related to sex-specific hormonal fluctuations (e.g. estrogen, progesterone), fat distribution patterns (e.g. greater abdominal and subcutaneous fat accumulation), and stronger immune responses. During special physiological stages, such as the menstrual cycle, pregnancy, and menopause, significant hormonal changes may affect airway inflammation, immune regulation, and asthma phenotypes. Furthermore, pregnancy and postpartum conditions, such as diastasis recti, may lead to abnormal fat distribution, altered metabolic status, and immune dysregulation, thereby potentially increasing asthma risk or affecting disease progression.
 
@@ -855,7 +855,7 @@ In summary, this study utilized data from NHANES 2009–2018 to systematically e
 
 ---
 
-### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^1edaeca8]. Insights Into Imaging (2023). Medium credibility.
+### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^111nkASs]. Insights Into Imaging (2023). Medium credibility.
 
 Background
 
@@ -887,7 +887,7 @@ The inter-recti distance measurement procedures using USI differ between studies
 
 ---
 
-### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^0c9a78ac]. Surgical Endoscopy (2021). Medium credibility.
+### A new minimally invasive technique for the repair of diastasis recti: a pilot study [^111Kgjj9]. Surgical Endoscopy (2021). Medium credibility.
 
 Surgical technique (Video included)
 
@@ -904,7 +904,7 @@ Additional trocars are inserted under direct vision in the following locations: 
 
 ---
 
-### Autologous dermal mesh in severe postpregnancy recti muscles diastasis [^33691114]. Aesthetic Plastic Surgery (2021). Medium credibility.
+### Autologous dermal mesh in severe postpregnancy recti muscles diastasis [^112KDfEj]. Aesthetic Plastic Surgery (2021). Medium credibility.
 
 Introduction
 
@@ -924,7 +924,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Robotic-assisted endoscopic onlay repair (R-ENDOR) for concomitant ventral hernias and diastasis recti: initial results and surgical technique [^2b1fc012]. Surgical Endoscopy (2024). Medium credibility.
+### Robotic-assisted endoscopic onlay repair (R-ENDOR) for concomitant ventral hernias and diastasis recti: initial results and surgical technique [^1126w8fT]. Surgical Endoscopy (2024). Medium credibility.
 
 Background
 
@@ -944,7 +944,7 @@ Midline ventral hernias associated to diastasis recti can be managed robotically
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^26ca819e]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^111zWYrH]. British Journal of Sports Medicine (2016). Low credibility.
 
 Statistical analyses
 
@@ -952,7 +952,7 @@ Statistical analyses were performed using SPSS (V.21, Inc, Chicago, Illinois, US
 
 ---
 
-### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^e5747af8]. International Urogynecology Journal (2024). Medium credibility.
+### Diastasis recti abdominis rehabilitation in the postpartum period: a scoping review of current clinical practice [^116sBHkj]. International Urogynecology Journal (2024). Medium credibility.
 
 Introduction and Hypothesis
 
@@ -972,7 +972,7 @@ Reviewed studies provide valuable insights into exercise therapy, but it is impo
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^258fe9cf]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^111xgt5t]. British Journal of Sports Medicine (2025). Medium credibility.
 
 A consensus on an inter-rectus distance cut-off to diagnose diastasis rectus abdominis also does not currently exist in the literature. Ultrasound studies often draw on Beer et al, who classified women to have diastasis recti abdominis if the mean inter-rectus distance (measured at 3 cm above the umbilicus) is greater than the 90th percentile of the normative values reported for nulliparous women (> 2.2 cm). However, more recently, Kaufmann et al conducted a retrospective cross-sectional study to define diastasis recti abdominis in adults using CT and found that an inter-rectus distance at 3 cm above the umbilicus may be considered normal up to 3.4 cm (80th percentile in asymptomatic adults). This is an important finding to reflect on, as the exercise intervention studies in this review included exercise groups with participants who had inter-rectus distances below the 80th percentile, as proposed by Kaufman et al. More research is needed investigating inter-rectus distance in postpartum individuals who present with larger inter-rectus distances (ie, > 5 cm). The clinical significance of an increased inter-rectus distance must be determined before postpartum individuals are prescribed abdominal muscle training to treat diastasis recti abdominis. There is limited evidence suggesting an increased inter-rectus distance is associated with decreased abdominal strength and enduranceand with low back pain severity, which may provide a rationale for abdominal muscle training in the postpartum period; however, more research is needed in this area.
 
@@ -980,7 +980,7 @@ Furthermore, contemporary evidence has proposed that a wide (or increased) inter
 
 ---
 
-### Impact of abdominoplasty with diastasis recti correction on female sexual function: a 1-year prospective follow-up study [^864d7fa8]. Aesthetic Plastic Surgery (2025). Medium credibility.
+### Impact of abdominoplasty with diastasis recti correction on female sexual function: a 1-year prospective follow-up study [^114S7NZM]. Aesthetic Plastic Surgery (2025). Medium credibility.
 
 Background
 
@@ -1008,7 +1008,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Prospective observational study of abdominal wall reconstruction with THT technique in primary midline defects with diastasis recti: clinical and functional outcomes in 110 consecutive patients [^f5fce961]. Surgical Endoscopy (2021). Medium credibility.
+### Prospective observational study of abdominal wall reconstruction with THT technique in primary midline defects with diastasis recti: clinical and functional outcomes in 110 consecutive patients [^117HgvAC]. Surgical Endoscopy (2021). Medium credibility.
 
 Introduction
 
@@ -1028,7 +1028,7 @@ The THT technique proved to be a feasible, safe, and effective alternative for c
 
 ---
 
-### Evaluation of the long-term stability of sheath plication using absorbable sutures in 51 patients with diastasis of the recti muscles: an ultrasonographic study [^86aa98af]. Plastic and Reconstructive Surgery (2012). Low credibility.
+### Evaluation of the long-term stability of sheath plication using absorbable sutures in 51 patients with diastasis of the recti muscles: an ultrasonographic study [^114SeeFQ]. Plastic and Reconstructive Surgery (2012). Low credibility.
 
 Background
 
@@ -1052,7 +1052,7 @@ Therapeutic, II.
 
 ---
 
-### Minimally invasive bilayer suturing technique for the repair of concomitant ventral hernias and diastasis recti [^ba7541f0]. Surgical Endoscopy (2023). Medium credibility.
+### Minimally invasive bilayer suturing technique for the repair of concomitant ventral hernias and diastasis recti [^115mS5n7]. Surgical Endoscopy (2023). Medium credibility.
 
 Background
 
@@ -1072,7 +1072,7 @@ The technique provides effective repair of concomitant diastasis and ventral her
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^b68d2214]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^115fe9nT]. British Journal of Sports Medicine (2016). Low credibility.
 
 Conclusion
 
@@ -1091,7 +1091,7 @@ This study indicates that mild diastasis is not associated with lumbopelvic pain
 
 ---
 
-### A proposed classification and treatment algorithm for rectus diastasis: a prospective study [^579e45e7]. Aesthetic Plastic Surgery (2022). Medium credibility.
+### A proposed classification and treatment algorithm for rectus diastasis: a prospective study [^113Eu5ve]. Aesthetic Plastic Surgery (2022). Medium credibility.
 
 This prospective study is one of the few that includes patient satisfaction and patient-reported outcomes. Moreover, to our knowledge, no prospective study or clinical trial has reported outcomes using only sutures to repair diastasis over 6cm. While there is still no consensus concerning the optimal way to correct RD, our proposal aims to provide surgeons a safe treatment guide. This is the first study to support that a simple suture-based technique that almost every plastic surgeon can use is enough to correct RD. Since RD has been proven that it is not a true hernia, the use of sutures is more than adequate for its correction, and there is no need for extreme measures.
 
@@ -1099,7 +1099,7 @@ It is our hope that our study will be a valuable tool for the plastic surgery so
 
 ---
 
-### Differences in linea alba stiffness and linea alba distortion between women with and without diastasis recti abdominis: the impact of measurement site and task [^ec476abf]. The Journal of Orthopaedic and Sports Physical Therapy (2019). Medium credibility.
+### Differences in linea alba stiffness and linea alba distortion between women with and without diastasis recti abdominis: the impact of measurement site and task [^1173J4pe]. The Journal of Orthopaedic and Sports Physical Therapy (2019). Medium credibility.
 
 Background
 
@@ -1123,7 +1123,7 @@ Diastasis recti abdominis was associated with low LA stiffness and with LA disto
 
 ---
 
-### Impact of exercise on diastasis rectus abdominus |… [^1c393070]. ClinicalTrials (2019). Medium credibility.
+### Impact of exercise on diastasis rectus abdominus |… [^111iqs2X]. ClinicalTrials (2019). Medium credibility.
 
 Impact of Exercise on Diastasis Rectus AbdominusClinicalTrials. gov ID Study Overview Diastasis recti, is a condition where the linea alba becomes stretched, sometimes lax, and creates distance between the rectus abdominis muscle bellies. It occurs most often during and after pregnancy, abdominal weight gain, and sometimes due to straining while performing heavy lifting. If the linea alba becomes thin enough to tear, the person may experience a hernia. Inter-rectus distance > 25mm at one or more locations is considered to be clinically significant for diastasis recti. Pathological diastasis recti is an inter rectus distance widening more than 10mm above the umbilicus, 27mm at the umbilicus, and 9mm below the umbilicus. The prevalence of diastasis recti is significant in the postpartum population.
 
@@ -1133,7 +1133,7 @@ Combined transverse abdominis activation and curl up achieves both narrowing and
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^034fa4ed]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^1115uiSY]. British Journal of Sports Medicine (2025). Medium credibility.
 
 Strengths and limitations
 
@@ -1143,7 +1143,7 @@ Limitations of this systematic review include the high heterogeneity that was no
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^7b5df9ac]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^1149u3T1]. Insights Into Imaging (2021). Medium credibility.
 
 IRD measurement
 
@@ -1161,7 +1161,7 @@ Further assessment of anatomical variations of rectus abdominis muscle diastasis
 
 ---
 
-### Ultrasonography: a useful tool for plastic surgeons [^8c9e80da]. Aesthetic Plastic Surgery (2014). Low credibility.
+### Ultrasonography: a useful tool for plastic surgeons [^114bUWM7]. Aesthetic Plastic Surgery (2014). Low credibility.
 
 Unlabelled
 
@@ -1173,7 +1173,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Single-layer plication for repair of diastasis recti: the most rapid and efficient technique [^0580334d]. Aesthetic Surgery Journal (2017). Low credibility.
+### Single-layer plication for repair of diastasis recti: the most rapid and efficient technique [^11199zxL]. Aesthetic Surgery Journal (2017). Low credibility.
 
 Background
 
@@ -1197,7 +1197,7 @@ Plication of the anterior rectus sheath in a single-layer with a continuous sutu
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^e57f6ce1]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^116sExyn]. British Journal of Sports Medicine (2016). Low credibility.
 
 When comparing women with and without DRA in the present study, no difference was found in the number of women fulfilling the recommendations for general exercise, strength training or specific pelvic floor muscle training 1 year post partum. With a prevalence of DRA of above 30% at 12 months post partum, preventive and treatment strategies are likely to develop. As we did not perform a RCT we cannot, based on our data, advice women on how to prevent or treat the condition. A recent systematic review concluded that, as for now, there are no high-quality RCTs on the effect of abdominal training programmes to guide clinical practice in this area. Further high-quality studies regarding this prevalent condition within women's health and exercise training are therefore warranted.
 
@@ -1205,7 +1205,7 @@ In accordance with Mota et al, our study showed no association between report of
 
 ---
 
-### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^576d73e7]. Insights Into Imaging (2023). Medium credibility.
+### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^113Ecgq4]. Insights Into Imaging (2023). Medium credibility.
 
 Search strategy
 
@@ -1215,7 +1215,7 @@ All search results were saved, and duplicate publications were removed manually.
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^c030a283]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^115uvxbC]. Insights Into Imaging (2021). Medium credibility.
 
 Key points
 
@@ -1225,7 +1225,7 @@ Abdominal muscle elasticity in DRA patients was correlated with inter-rectus dis
 
 ---
 
-### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^09df4726]. Plastic and Reconstructive Surgery (2015). Low credibility.
+### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^111FdtLm]. Plastic and Reconstructive Surgery (2015). Low credibility.
 
 The overwhelming majority of abdominoplasties involve suture manipulation of the abdominal wall and resection of skin as described by Pitanguy in 1967. For the abdominal wall, correction of mild to moderate rectus diastasis by means of suture approximation of the anterior rectus sheath gives excellent results. Small umbilical hernias and epigastric defects are often repaired at the time of abdominoplasty through suture plication.
 
@@ -1235,7 +1235,7 @@ Over the years, we have developed familiarity with the use of prosthetic mesh fo
 
 ---
 
-### Does diastasis recti abdominis weaken pelvic floor function? A cross-sectional study [^e4df390d]. International Urogynecology Journal (2020). Medium credibility.
+### Does diastasis recti abdominis weaken pelvic floor function? A cross-sectional study [^116rK9z4]. International Urogynecology Journal (2020). Medium credibility.
 
 Introduction and Hypothesis
 
@@ -1255,7 +1255,7 @@ Women with DRA were not more likely to have weakened PFMS and increased UI or PO
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^0e5cbf90]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^111NHyq1]. British Journal of Sports Medicine (2016). Low credibility.
 
 Background/aim
 
@@ -1275,7 +1275,7 @@ Prevalence of mild DRA was high both during pregnancy and after childbirth. Wome
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^56328ac2]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^113Cnusf]. Insights Into Imaging (2021). Medium credibility.
 
 Discussion
 
@@ -1285,7 +1285,7 @@ The main purpose of this study was to compare elasticity of abdominal wall muscu
 
 ---
 
-### Understanding belly button hernia repair: long-term results and possible complications… [^1fa44b08]. isrctn.com (2025). Medium credibility.
+### Understanding belly button hernia repair: long-term results and possible complications… [^111ouoRZ]. isrctn.com (2025). Medium credibility.
 
 Plain English Summary Background and study aims Diastasis recti is a very common condition that can occur in female and male patients, causing functional and appearance-related issues. It happens in 30–70% of people and is sometimes linked with belly button hernias. Lately. doctors have been using a less invasive method involving a mesh repair technique combined with fixing the muscle separation, and it's becoming quite common. Who can participate. Patients aged 18
 - 70 years, who underwent elective surgery for small and medium size primary umbilical hernia with diastasis recti.
@@ -1301,7 +1301,7 @@ The risk factors for seromas formation were analyzed: age, gender, diastasis rec
 
 ---
 
-### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^c5b53622]. Plastic and Reconstructive Surgery (2015). Low credibility.
+### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^11647RoP]. Plastic and Reconstructive Surgery (2015). Low credibility.
 
 Rectus Diastasis
 
@@ -1317,7 +1317,7 @@ Midweight macroporous polypropylene uncoated mesh, 7 cm in transverse dimension,
 
 ---
 
-### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^2cbb9191]. Plastic and Reconstructive Surgery (2015). Low credibility.
+### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^1129KTXn]. Plastic and Reconstructive Surgery (2015). Low credibility.
 
 Background:
 
@@ -1341,7 +1341,7 @@ Therapeutic, IV.
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^50eddd9c]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^1134yuYP]. British Journal of Sports Medicine (2016). Low credibility.
 
 Background/Aim
 
@@ -1361,13 +1361,13 @@ Prevalence of mild DRA was high both during pregnancy and after childbirth. Wome
 
 ---
 
-### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^3379453f]. British Journal of Sports Medicine (2025). Medium credibility.
+### Impact of postpartum exercise on pelvic floor disorders and diastasis recti abdominis: a systematic review and meta-analysis [^112KK6ut]. British Journal of Sports Medicine (2025). Medium credibility.
 
 A recent systematic review by Benjamin et al investigated the effect of exercise on diastasis recti abdominis in pregnant and postpartum individuals (up to 3 years postpartum) and found moderate certainty of evidence that abdominal exercises reduced inter-rectus distance (MD −0.43 cm, 95% CI −0.82 to −0.05) compared with usual care. Benjamin et al concluded that conservative interventions do not lead to clinically significant reductions in postpartum inter-rectus distance. The focus of our review was on the first year postpartum and, therefore, did not include studies that included participants exclusively during pregnancy and that were beyond their first year postpartum, as done in the work of Benjamin et al. However, our research builds on the work of Benjamin et al with the addition of six newer RCTs. Although our review produced similar findings in individuals in their first year postpartum, it is important to highlight that a clinically meaningful difference in inter-rectus distance has not been established in the literature and was not defined in the work of Benjamin et al. Therefore, we would argue that the conclusion by Benjamin et al, that conservative interventions do not lead to clinically significant reductions in inter-rectus distance in women postnatally, may be premature.
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^84cad80a]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^114PsVv9]. British Journal of Sports Medicine (2016). Low credibility.
 
 Lumbopelvic pain 12 months post partum
 
@@ -1381,7 +1381,7 @@ Palpation has been found to have moderate inter-rater reliability, and may be co
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^fb3f5ca9]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^117RVB8C]. Insights Into Imaging (2021). Medium credibility.
 
 Demographics and elastographic results
 
@@ -1396,7 +1396,7 @@ As shown in Table 3, the SWS values for the RA, EO, IO, and TrA varied at differ
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^ef938367]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^1178Bb9G]. British Journal of Sports Medicine (2016). Low credibility.
 
 Discussion
 
@@ -1404,7 +1404,7 @@ At gestation week 21, 6 weeks, 6 months and 12 months post partum, the prevalenc
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^dc04e2fb]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^116dBvCS]. British Journal of Sports Medicine (2016). Low credibility.
 
 Measurement of DRA and cut-off value
 
@@ -1414,7 +1414,7 @@ The women were classified into four categories depending on the largest measured
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^4fc9ac40]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^1133HmAf]. Insights Into Imaging (2021). Medium credibility.
 
 Clinical management of DRA is challenging. Based on the pathophysiology described by Baumann et al. the combination of physiotherapy and surgical repair has the potential to improve the anatomical divarication and the laxity of the ventral abdominal muscles. In other words, the preoperative assessment of DRA is not solely a distance measurement problem. Individual preoperative evaluation of physiologic tension is important. Up to now, conventional modalities, including B-mode ultrasound, computed tomography, and magnetic resonance imaging, have been used to assess the IRD, but no functional biomechanical property evaluation was available. Therefore, an objective imaging assessment of the intrinsic abdominal muscle characteristics, such as the elasticity, is needed to predict successful treatment and disease progression.
 
@@ -1424,13 +1424,13 @@ This study aimed to determine the utility of applying SWE to the evaluation of a
 
 ---
 
-### Abdominal wall plication and correction of deformities of the myoaponeurotic layer: focusing on materials and techniques used for synthesis [^2f4d0602]. Aesthetic Surgery Journal (2019). Medium credibility.
+### Abdominal wall plication and correction of deformities of the myoaponeurotic layer: focusing on materials and techniques used for synthesis [^112D8HnR]. Aesthetic Surgery Journal (2019). Medium credibility.
 
 The different types of sutures utilized in plications and for correction of diastasis during abdominoplasty are reviewed and discussed. Because correction of abdominal deformities also involves fascia and muscle advancement, this review also covers the suture materials used in muscle advancement. The selection of specific techniques to treat different types of abdominal wall deformity is also considered. This is important, because the outcome when correcting these deformities depends not only on suture materials but also on employing the optimum technique. A PubMed/Medline search was performed with the following search terms: rectus diastasis, diastasis recti, diastasis recti abdominis, correction of rectus diastasis, abdominoplasty. Relevant articles identifying the type of suture (rapidly absorbable, slowly absorbable, nonabsorbable), monofilament or multifilament sutures, antibiotic-coated sutures, and barbed sutures were evaluated. In addition, articles about surgical technique comparing continuous and interrupted sutures, in both the anterior and posterior aponeurosis, to correct rectus diastasis are discussed. Efficacy of suture materials was evaluated based on the long-term results and recurrence rates reported in these articles. The current literature provides sufficient data to recommend a single-layer continuous suture, with slowly absorbable sutures of 0 polydioxanone or 2–0 nylon, for correction of abdominal diastasis. An interrupted triangular suture is a good alternative to correct the vertical elongation of the myoaponeurotic layer that occurs after pregnancy.
 
 ---
 
-### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^3c94a30c]. Insights Into Imaging (2023). Medium credibility.
+### Technical aspects of inter-recti distance measurement with ultrasonographic imaging for physiotherapy purposes: the scoping review [^112YpBb9]. Insights Into Imaging (2023). Medium credibility.
 
 Data items
 
@@ -1450,13 +1450,13 @@ Characteristics of the examiners, ultrasonographic imaging (USI) systems, and in
 
 ---
 
-### Rectovaginal fistula [^f6714ef8]. The Surgical Clinics of North America (2010). Low credibility.
+### Rectovaginal fistula [^117JN1kb]. The Surgical Clinics of North America (2010). Low credibility.
 
 Despite the prevalence and severe implications of rectovaginal fistula, there is no universally accepted evidence-based approach to surgical management. This article offers a disease-based review of traditional management strategies and highlights the variety of technical approaches that are currently effective for the eradication of this socially disabling condition.
 
 ---
 
-### Rehabilitation of abdominal diastasis after childbirth… [^274bb611]. ClinicalTrials (2024). Medium credibility.
+### Rehabilitation of abdominal diastasis after childbirth… [^1121Fwxt]. ClinicalTrials (2024). Medium credibility.
 
 Study Overview Diastasis Recti Abdominis is the separation of the rectus muscles caused by stretching and thinning of the linea alba during pregnancy and childbirth. It's a common condition, affecting 66–100% of women post-birth and can persist for many years, leading to abdominal protrusion, discomfort, and aesthetic concerns. It might also contribute to back pain, urinary issues, and reduced abdominal strength, impacting quality of life. Recent guidelines propose that conservative management, such as rehabilitation interventions, should be prioritized for DRA. However, there is a lack of consensus among researchers regarding the most effective exercise regimen, resulting in diverse rehabilitation programs. Recent evidence advocates not only for closing the gap but also for achieving optimal function. Current studies often neglect to address functional rehabilitation, underscoring the necessity for robust clinical trials, which is the primary focus of this study.
 
@@ -1478,7 +1478,7 @@ Inclusion Criteria:
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^775e45e5]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^1143yC84]. Insights Into Imaging (2021). Medium credibility.
 
 The maximum separation distance was located at the umbilicus, which is in line with the DRA classification system suggested by Rath et al. Contrary to Liaw's finding, no inter-rectus separation was found among the 24 nulliparous healthy subjects, irrespective of the locations along the midline (M1–M5). Of note, the mean age of the control subjects differed between the two studies (31.9 ± 4. 1 vs. 26.7 ± 4.7 mm). However, both studies complied with the commonly accepted definition of DRA, with no more than 1 to 2 cm separation.
 
@@ -1486,7 +1486,7 @@ Our study is unique in the use of SWE in 10-location settings to better quantify
 
 ---
 
-### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^fb4cc22c]. Plastic and Reconstructive Surgery (2015). Low credibility.
+### Simultaneous prosthetic mesh abdominal wall reconstruction with abdominoplasty for ventral hernia and severe rectus diastasis repairs [^117RZg7M]. Plastic and Reconstructive Surgery (2015). Low credibility.
 
 In a Letter to the Editor, Horndeski and Gonzalez describe a technique of midline hernia repair using the horizontal abdominoplasty skin incision for exposure. They then use a large mesh overlay to cover the entire lower half of the anterior abdominal wall to prevent shearing at the midline and prevent further "biomechanical failure". None of their 14 patients developed a new hernia or infection. All of these three aforementioned studies include use of a mesh overlay, the placement of which, as noted by Marques et al. can obscure normal abdominal muscle contour. The technique described in this study uses a mesh underlay, which allows for the normal muscular contour to be appreciated through the redraped skin flap. In addition, limited undermining preserves both the subtle aesthetics of the semilunar lines and blood flow to the skin flaps.
 
@@ -1496,7 +1496,7 @@ This study, the largest case series to date of abdominoplasty combined with pros
 
 ---
 
-### Long-term outcomes of diastasis recti abdominis in postpartum women: a retrospective cohort study [^bfabdb41]. International Urogynecology Journal (2024). Medium credibility.
+### Long-term outcomes of diastasis recti abdominis in postpartum women: a retrospective cohort study [^115uAMrp]. International Urogynecology Journal (2024). Medium credibility.
 
 Introduction and Hypothesis
 
@@ -1516,7 +1516,7 @@ When using IRD > 2cm as the diagnostic criterion, the impact of DRA is minimal. 
 
 ---
 
-### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^27f7540f]. British Journal of Sports Medicine (2016). Low credibility.
+### Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain [^1122FbLS]. British Journal of Sports Medicine (2016). Low credibility.
 
 Results
 
@@ -1543,7 +1543,7 @@ Report of low back pain and pelvic girdle pain among women with and without dias
 
 ---
 
-### Long-term ultrasonographic evaluation of midline aponeurotic plication during abdominoplasty [^feeb11d8]. Plastic and Reconstructive Surgery (2013). Low credibility.
+### Long-term ultrasonographic evaluation of midline aponeurotic plication during abdominoplasty [^117Wvp79]. Plastic and Reconstructive Surgery (2013). Low credibility.
 
 Background
 
@@ -1567,7 +1567,7 @@ Therapeutic, III.
 
 ---
 
-### Pelvic floor muscle function, pelvic floor dysfunction and diastasis recti abdominis: prospective cohort study [^6318e4f8]. Neurourology and Urodynamics (2017). Low credibility.
+### Pelvic floor muscle function, pelvic floor dysfunction and diastasis recti abdominis: prospective cohort study [^113Xv8t7]. Neurourology and Urodynamics (2017). Low credibility.
 
 Aims
 
@@ -1587,7 +1587,7 @@ Women with diastasis were not more likely to have weaker PFM or more UI or POP. 
 
 ---
 
-### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS))-part a… [^a28a8b66]. Surgical Endoscopy (2019). Medium credibility.
+### Update of guidelines for laparoscopic treatment of ventral and incisional abdominal wall hernias (International Endohernia Society (IEHS))-part a… [^1159yXid]. Surgical Endoscopy (2019). Medium credibility.
 
 Statements rectus diastasis:
 
@@ -1607,7 +1607,7 @@ Another Reliability and validity study promotes the value of extended field of v
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^6a065e44]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^113iBpwD]. Insights Into Imaging (2021). Medium credibility.
 
 Converse to our results in incisional hernia patients, the SWS of the EO muscle in DRA patients decreased in comparison with healthy subjects. This decrease mainly resulted from the biological and physical differences between the two studies. According to the law of Laplace, once a hernia has formed, it will continue to enlarge in size due to the increase in wall tension at that location. The wall tension is greatest at the point of the largest radius and the thinnest wall. Hence, it could be hypothesized that these muscles are more likely to be subjected to higher tension. In this study, no hernia was found among the 36 DRA patients. In addition, the positive correlation between SWS and muscle in the overall dataset (γ = 0.238, p < 0.001) may be explained by the significantly decreased EO muscle thickness (p < 0.001) with less volume of fibers in postpartum women that leads to slower shear wave propagation.
 
@@ -1615,7 +1615,7 @@ Similar to the EO muscle, the mean thickness of the TrA muscle decreased in DRA 
 
 ---
 
-### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^2fbf2035]. Insights Into Imaging (2021). Medium credibility.
+### Muscle elasticity is different in individuals with diastasis recti abdominis than healthy volunteers [^112DncgC]. Insights Into Imaging (2021). Medium credibility.
 
 Shear wave elastography measurement
 
@@ -1625,7 +1625,7 @@ Two locations were identified on each side of the abdomen along the anterior axi
 
 ---
 
-### Comparative analysis of the efficacy and functionality of abdominoplasty versus minimally invasive techniques in the surgical treatment of diastasis rectus abdominis in postpartum women [^57c366c7]. Surgical Endoscopy (2023). Medium credibility.
+### Comparative analysis of the efficacy and functionality of abdominoplasty versus minimally invasive techniques in the surgical treatment of diastasis rectus abdominis in postpartum women [^113F7ZFC]. Surgical Endoscopy (2023). Medium credibility.
 
 Introduction
 
@@ -1645,6 +1645,6 @@ Although current data on minimally invasive approaches is limited, our review re
 
 ---
 
-### Bowel herniation after traumatic symphysis pubis diastasis [^0f1b7b9d]. Journal of Orthopaedic Trauma (2001). Low credibility.
+### Bowel herniation after traumatic symphysis pubis diastasis [^111PQ3dv]. Journal of Orthopaedic Trauma (2001). Low credibility.
 
 The authors describe a patient with small bowel herniation after traumatic symphysis disruption. Although gastrointestinal problems occur rarely with pelvic fractures, in a patient with a pubic diastasis and paralytic ileus, the development of abdominal hernia through torn peritoneum should be considered. Treatment of the patient with a pubic diastasis and a bowel problem should include early careful exploration and management of the gastrointestinal tract during pelvic surgery.

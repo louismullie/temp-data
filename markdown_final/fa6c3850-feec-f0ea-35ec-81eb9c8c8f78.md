@@ -15,23 +15,23 @@ Should baby sllep on side?
 
 > Let's see… What do we have here? The user is asking whether babies should sleep on their side. Let's break this down step-by-step. First, I need to think about the highest-quality evidence and current professional recommendations. Then, I should verify the magnitude of risk associated with side sleeping compared with supine. Next, I will examine the mechanism of harm and whether any exceptions exist. After that, I should review real-world adherence and common misconceptions. Finally, I will synthesize a clear, actionable recommendation with supporting citations.
 
-> Let me first confirm the authoritative guidance. The American Academy of Pediatrics (AAP) 2022 policy explicitly states that infants should be placed for sleep in the supine position for every sleep by every caregiver until 1 year of age, and side sleeping is not safe and is not advised, which aligns with the 2016 AAP policy and technical reports [^81c0ed6f] [^3ac39e5a] [^e3407d4e].
+> Let me first confirm the authoritative guidance. The American Academy of Pediatrics (AAP) 2022 policy explicitly states that infants should be placed for sleep in the supine position for every sleep by every caregiver until 1 year of age, and side sleeping is not safe and is not advised, which aligns with the 2016 AAP policy and technical reports [^114KNCtE] [^112W7zJV] [^116ourKw].
 
-> Wait, let me verify the magnitude of risk so I don't understate it. Multiple case-control studies summarized by the AAP show that side sleeping carries a risk of SIDS comparable to prone in some analyses, with odds ratios around 2.0–2.6 versus supine, and the risk is especially high when infants placed on the side are found prone, with an OR of about 8.7, indicating a very unstable position with frequent rollover to prone [^81c0ed6f] [^3ac39e5a]. I should double-check that these figures are consistent across sources; yes, systematic reviews and summaries report similar ranges, reinforcing that side sleeping is a significant modifiable risk factor for SIDS [^215293df].
+> Wait, let me verify the magnitude of risk so I don't understate it. Multiple case-control studies summarized by the AAP show that side sleeping carries a risk of SIDS comparable to prone in some analyses, with odds ratios around 2.0–2.6 versus supine, and the risk is especially high when infants placed on the side are found prone, with an OR of about 8.7, indicating a very unstable position with frequent rollover to prone [^114KNCtE] [^112W7zJV]. I should double-check that these figures are consistent across sources; yes, systematic reviews and summaries report similar ranges, reinforcing that side sleeping is a significant modifiable risk factor for SIDS [^111rQL3Q].
 
-> I need to check the mechanism next. Side sleeping is inherently unstable; infants placed on the side have a higher probability of rolling to prone than from the back, and once prone, autonomic vulnerability and airway compromise risks rise, particularly in the 2–3 month window when SIDS risk peaks, which helps explain the elevated odds ratios seen in observational data [^81c0ed6f] [^3ac39e5a]. Hold on, I should verify whether any subgroup negates this; the AAP does not identify a subgroup for whom side sleeping is safer for sleep, which supports maintaining a universal supine recommendation for otherwise healthy infants [^81c0ed6f].
+> I need to check the mechanism next. Side sleeping is inherently unstable; infants placed on the side have a higher probability of rolling to prone than from the back, and once prone, autonomic vulnerability and airway compromise risks rise, particularly in the 2–3 month window when SIDS risk peaks, which helps explain the elevated odds ratios seen in observational data [^114KNCtE] [^112W7zJV]. Hold on, I should verify whether any subgroup negates this; the AAP does not identify a subgroup for whom side sleeping is safer for sleep, which supports maintaining a universal supine recommendation for otherwise healthy infants [^114KNCtE].
 
-> But wait, what if there are exceptions for medical conditions like reflux or upper airway anomalies. Let me consider that carefully. The AAP notes that supine does not increase aspiration risk and is safe even for infants with gastroesophageal reflux, and it advises against positional therapy, head elevation, or side/prone positioning to treat reflux during sleep, emphasizing that only rare upper airway anomalies may justify non-supine sleep after specialist evaluation, not routine reflux [^4ed3918c] [^5a9a3f6b]. I should confirm that NICU guidance aligns; yes, even in NICU infants with GER, supine on a flat, noninclined surface is preferred once medically stable, with modeling of safe sleep before discharge [^4e0bdff7] [^20ae2f02].
+> But wait, what if there are exceptions for medical conditions like reflux or upper airway anomalies. Let me consider that carefully. The AAP notes that supine does not increase aspiration risk and is safe even for infants with gastroesophageal reflux, and it advises against positional therapy, head elevation, or side/prone positioning to treat reflux during sleep, emphasizing that only rare upper airway anomalies may justify non-supine sleep after specialist evaluation, not routine reflux [^1131s6fm] [^113KKhML]. I should confirm that NICU guidance aligns; yes, even in NICU infants with GER, supine on a flat, noninclined surface is preferred once medically stable, with modeling of safe sleep before discharge [^112zi2Kg] [^111qT7PX].
 
-> Next, I should review real-world practice to gauge implementation gaps. Surveys and surveillance show that about 17–22% of caregivers still place infants on their side or stomach, and many incorrectly believe side or elevated positions help reflux, which perpetuates unsafe practices and underscores the need for consistent counseling at every visit [^a24446ea] [^04ba0ba1] [^4b488a83]. Hold on, I should verify whether messaging improves adherence; indeed, awareness of correct supine guidance correlates with safer practices, but misinformation about reflux management remains common, reinforcing the need to correct these myths proactively [^4b488a83].
+> Next, I should review real-world practice to gauge implementation gaps. Surveys and surveillance show that about 17–22% of caregivers still place infants on their side or stomach, and many incorrectly believe side or elevated positions help reflux, which perpetuates unsafe practices and underscores the need for consistent counseling at every visit [^1159ZvoB] [^11181Sat] [^112vcSMG]. Hold on, I should verify whether messaging improves adherence; indeed, awareness of correct supine guidance correlates with safer practices, but misinformation about reflux management remains common, reinforcing the need to correct these myths proactively [^112vcSMG].
 
-> I will now examine the evidence hierarchy to ensure I'm not overstating causality. There are no randomized trials for SIDS and sleep position due to ethical constraints, so the best available evidence consists of high-quality case-control studies and meta-analyses, which consistently show increased SIDS risk with nonsupine positions and a population-level reduction in SIDS as supine adoption rose, supporting a strong, Grade A recommendation for supine-only sleep positioning [^13f7d3e9] [^215293df] [^9cbcca9f]. Let me reconsider whether any conflicting data undermine this; the balance of evidence and expert consensus remain firmly supportive of supine as the safest position [^81c0ed6f].
+> I will now examine the evidence hierarchy to ensure I'm not overstating causality. There are no randomized trials for SIDS and sleep position due to ethical constraints, so the best available evidence consists of high-quality case-control studies and meta-analyses, which consistently show increased SIDS risk with nonsupine positions and a population-level reduction in SIDS as supine adoption rose, supporting a strong, Grade A recommendation for supine-only sleep positioning [^111Wc1Rr] [^111rQL3Q] [^1151NUvA]. Let me reconsider whether any conflicting data undermine this; the balance of evidence and expert consensus remain firmly supportive of supine as the safest position [^114KNCtE].
 
-> Putting this together, I should confirm the bottom line. Babies should not sleep on their side. The safest position is supine on a firm, flat, noninclined surface without soft bedding, for every sleep by every caregiver until 1 year of age, because side sleeping increases SIDS risk and is unstable, frequently leading to prone positioning with even higher risk [^81c0ed6f] [^3ac39e5a] [^4ed3918c]. If parents worry about reflux or choking, I need to reassure them that supine does not increase aspiration risk and that positional devices or inclines are not recommended for routine infant sleep, which helps align home practices with evidence-based safety [^4ed3918c] [^5a9a3f6b].
+> Putting this together, I should confirm the bottom line. Babies should not sleep on their side. The safest position is supine on a firm, flat, noninclined surface without soft bedding, for every sleep by every caregiver until 1 year of age, because side sleeping increases SIDS risk and is unstable, frequently leading to prone positioning with even higher risk [^114KNCtE] [^112W7zJV] [^1131s6fm]. If parents worry about reflux or choking, I need to reassure them that supine does not increase aspiration risk and that positional devices or inclines are not recommended for routine infant sleep, which helps align home practices with evidence-based safety [^1131s6fm] [^113KKhML].
 
 ---
 
-Babies should **not sleep on their side** because it increases the risk of SIDS and accidental suffocation [^81c0ed6f]. The **supine position (on the back)** is the only recommended sleep position for all infants until 1 year of age [^e3407d4e] [^3ac39e5a]. Side sleeping is unstable and can easily lead to prone positioning, which carries a 2–13-fold higher SIDS risk [^3ac39e5a] [^215293df]. Even for reflux, supine is safe and preferred; side or prone sleeping is not advised unless specifically directed by a pediatrician for a medical condition [^4ed3918c] [^5a9a3f6b]. Always place babies on their back on a firm, flat surface with no soft bedding or pillows [^9bd500ca] [^83849de1].
+Babies should **not sleep on their side** because it increases the risk of SIDS and accidental suffocation [^114KNCtE]. The **supine position (on the back)** is the only recommended sleep position for all infants until 1 year of age [^116ourKw] [^112W7zJV]. Side sleeping is unstable and can easily lead to prone positioning, which carries a 2–13-fold higher SIDS risk [^112W7zJV] [^111rQL3Q]. Even for reflux, supine is safe and preferred; side or prone sleeping is not advised unless specifically directed by a pediatrician for a medical condition [^1131s6fm] [^113KKhML]. Always place babies on their back on a firm, flat surface with no soft bedding or pillows [^114z2dKF] [^114MyvVv].
 
 ---
 
@@ -39,11 +39,11 @@ Babies should **not sleep on their side** because it increases the risk of SIDS 
 
 Side sleeping is **not recommended** due to the following risks:
 
-- **Increased risk of SIDS**: Side sleeping is associated with a higher risk of SIDS compared to supine sleeping, with odds ratios ranging from 1.3 to 2.0 in various studies [^215293df] [^3ac39e5a].
+- **Increased risk of SIDS**: Side sleeping is associated with a higher risk of SIDS compared to supine sleeping, with odds ratios ranging from 1.3 to 2.0 in various studies [^111rQL3Q] [^112W7zJV].
 
-- **Instability and risk of rolling**: Infants placed on their side are more likely to roll onto their stomach, a position strongly associated with SIDS risk [^3ac39e5a] [^16fffd8c].
+- **Instability and risk of rolling**: Infants placed on their side are more likely to roll onto their stomach, a position strongly associated with SIDS risk [^112W7zJV] [^111b6iJ7].
 
-- **Aspiration risk**: Contrary to common belief, side sleeping does not reduce the risk of aspiration and may actually increase it due to the instability of the position [^4ed3918c] [^5a9a3f6b].
+- **Aspiration risk**: Contrary to common belief, side sleeping does not reduce the risk of aspiration and may actually increase it due to the instability of the position [^1131s6fm] [^113KKhML].
 
 ---
 
@@ -51,9 +51,9 @@ Side sleeping is **not recommended** due to the following risks:
 
 Extensive research and expert consensus support **supine sleeping** as the safest position for infants:
 
-- **Reduced SIDS risk**: Supine sleeping reduces the risk of SIDS by approximately 50% compared to prone or side sleeping positions [^9cbcca9f] [^1f731497].
+- **Reduced SIDS risk**: Supine sleeping reduces the risk of SIDS by approximately 50% compared to prone or side sleeping positions [^1151NUvA] [^111odGge].
 
-- **No increased aspiration risk**: Supine sleeping does not increase the risk of choking or aspiration, even in infants with gastroesophageal reflux (GER) [^4ed3918c] [^5a9a3f6b].
+- **No increased aspiration risk**: Supine sleeping does not increase the risk of choking or aspiration, even in infants with gastroesophageal reflux (GER) [^1131s6fm] [^113KKhML].
 
 - **Long-term safety**: Supine sleeping has been associated with no long-term adverse effects on infant development or health outcomes [^notfound].
 
@@ -63,7 +63,7 @@ Extensive research and expert consensus support **supine sleeping** as the safes
 
 Major pediatric organizations, including the American Academy of Pediatrics (AAP) and the American College of Obstetricians and Gynecologists (ACOG), **uniformly recommend supine sleeping** for infants:
 
-- **AAP recommendations**: The AAP advises that infants be placed on their back for every sleep by every caregiver until the child reaches 1 year of age [^81c0ed6f] [^e3407d4e].
+- **AAP recommendations**: The AAP advises that infants be placed on their back for every sleep by every caregiver until the child reaches 1 year of age [^114KNCtE] [^116ourKw].
 
 - **ACOG recommendations**: ACOG similarly recommends supine sleeping as the safest position for infants, emphasizing the importance of consistent adherence to this practice [^notfound].
 
@@ -73,9 +73,9 @@ Major pediatric organizations, including the American Academy of Pediatrics (AAP
 
 While supine sleeping is the general rule, there are **limited exceptions** where side sleeping may be considered under medical supervision:
 
-- **Medical conditions**: Certain medical conditions, such as severe gastroesophageal reflux disease (GERD) or specific upper airway anomalies, may necessitate alternative positioning. However, these cases require careful evaluation and guidance from a pediatrician [^4ed3918c] [^060644b1].
+- **Medical conditions**: Certain medical conditions, such as severe gastroesophageal reflux disease (GERD) or specific upper airway anomalies, may necessitate alternative positioning. However, these cases require careful evaluation and guidance from a pediatrician [^1131s6fm] [^1119w2or].
 
-- **NICU infants**: Preterm infants in the neonatal intensive care unit (NICU) may be positioned on their side for medical reasons, but this is typically transitioned to supine sleeping before discharge [^20ae2f02] [^1f731497].
+- **NICU infants**: Preterm infants in the neonatal intensive care unit (NICU) may be positioned on their side for medical reasons, but this is typically transitioned to supine sleeping before discharge [^111qT7PX] [^111odGge].
 
 ---
 
@@ -83,97 +83,97 @@ While supine sleeping is the general rule, there are **limited exceptions** wher
 
 To ensure safe sleep for infants, parents and caregivers should **follow these practical tips**:
 
-- **Firm sleep surface**: Use a firm mattress with a fitted sheet, and avoid soft bedding, pillows, or stuffed animals in the crib [^83849de1] [^9bd500ca].
+- **Firm sleep surface**: Use a firm mattress with a fitted sheet, and avoid soft bedding, pillows, or stuffed animals in the crib [^114MyvVv] [^114z2dKF].
 
-- **Room sharing**: Infants should sleep in the same room as their parents, but on a separate sleep surface, ideally for the first 6 months [^c53c4994] [^64127280].
+- **Room sharing**: Infants should sleep in the same room as their parents, but on a separate sleep surface, ideally for the first 6 months [^1163Qp1Z] [^113ZMxZd].
 
-- **Consistent positioning**: Always place the infant on their back for every sleep, including naps and nighttime [^81c0ed6f] [^e3407d4e].
+- **Consistent positioning**: Always place the infant on their back for every sleep, including naps and nighttime [^114KNCtE] [^116ourKw].
 
-- **Avoidance of sleep positioners**: Do not use commercial sleep positioners or wedges, as they have been associated with suffocation and entrapment risks [^6a99fd6f] [^b4037e00].
+- **Avoidance of sleep positioners**: Do not use commercial sleep positioners or wedges, as they have been associated with suffocation and entrapment risks [^113j3Qqc] [^115bswm1].
 
 ---
 
 ## Conclusion and recommendations
 
-In summary, **babies should not sleep on their side** due to the increased risk of SIDS, instability, and potential for accidental suffocation. The supine position (on the back) is the only recommended sleep position for infants until they reach 1 year of age [^81c0ed6f] [^e3407d4e]. Parents and caregivers should consistently adhere to this practice unless specifically instructed otherwise by a pediatrician for medical reasons [^4ed3918c].
+In summary, **babies should not sleep on their side** due to the increased risk of SIDS, instability, and potential for accidental suffocation. The supine position (on the back) is the only recommended sleep position for infants until they reach 1 year of age [^114KNCtE] [^116ourKw]. Parents and caregivers should consistently adhere to this practice unless specifically instructed otherwise by a pediatrician for medical reasons [^1131s6fm].
 
 ---
 
 ## References
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^3ac39e5a]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^112W7zJV]. Pediatrics (2016). Medium credibility.
 
 Infant sleep position — To reduce the risk of sudden infant death syndrome (SIDS), infants should be placed for sleep in the supine position (wholly on the back) for every sleep period by every caregiver until 1 year of age; side sleeping is not safe and is not advised. The prone position places infants at high risk (odds ratio [OR]: 2.3–13.1), and in one US study the side position had risk similar to prone (ORs: 2.0 and 2.6), with a higher population-attributable risk reported for side than prone. Risk is especially high for infants placed on the side and found on the stomach (OR: 8.7), and infants unaccustomed to prone who are placed prone for sleep have greater risk (adjusted OR: 8.7–45.4). The side sleep position is inherently unstable, with a significantly greater probability of rolling to prone than from the back, and it is therefore critically important that every caregiver use the supine sleep position for every sleep period.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^81c0ed6f]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^114KNCtE]. Pediatrics (2022). High credibility.
 
 Infant sleep position — To reduce the risk of sleep-related death, it is recommended that infants be placed for sleep in the supine (back) position for every sleep by every caregiver until the child reaches 1 year of age. Side sleeping is not safe and is not advised. The prone position places infants at high risk for SIDS (odds ratio [OR], 2.3–13.1), and in 1 US study the risk with side position was similar to prone (OR, 2.0 and 2.6, respectively); the risk of SIDS is exceptionally high for infants who are placed on the side and found on the stomach (OR, 8.7), and infants unaccustomed to the prone position who are placed prone are at greater risk (adjusted OR [aOR], 8.7–45.4). The side sleep position is inherently unstable with a higher probability of rolling to prone than from the back, and prone sleeping may alter autonomic control during sleep, particularly at 2 to 3 months of age.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^e3407d4e]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^116ourKw]. Pediatrics (2022). High credibility.
 
 Regarding preventative measures for sudden infant death syndrome, more specifically with respect to sleep position, AAP 2022 guidelines recommend to advise placing infants in a supine (back) position for every sleep by every caregiver until the child reaches 1 year of age to reduce the risk of sleep-related death. Do not advise side sleeping as it is not safe.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^a923b34e]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^115Kku8H]. Pediatrics (2022). High credibility.
 
 Supine sleep positioning and rolling infants — Infants who are rooming in with their parents or carer in a separate newborn nursery should be placed in the supine position for sleep in a noninclined bassinet when not engaged in skin-to-skin care, and there is no evidence that placing infants on their side during the first hours after delivery promotes clearance of amniotic fluid or decreases the risk of aspiration. For older infants, infants who can roll from supine to prone and from prone to supine can be allowed to remain in the sleep position that they assume, but because studies establishing prone and side sleeping as risk factors for SIDS include infants aged up to 1 year, the best evidence suggests that infants should continue to be placed supine until aged 1 year. Because rolling into soft bedding is an important risk factor for sleep-related death, an infant's sleep environment should be clear of everything but a fitted sheet.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^90e146c0]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^114hntKR]. Pediatrics (2022). High credibility.
 
 Side positioning after birth — "Placement of infants on the side after birth by physicians, nurses, or other clinicians continues to be a concern". The document states, "No evidence that such fluid will be cleared more readily while in the side position exists", and warns that "if parents observe physicians, nurses, or other clinicians placing infants in the side or prone position, they are likely to infer that supine positioning is not important". It advises that "Infants who are rooming in with their parents or cared for in a separate newborn nursery should be placed in the supine position as soon as they are ready to be placed in the bassinet".
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^4ed3918c]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^1131s6fm]. Pediatrics (2022). High credibility.
 
 AAP 2022 safe sleep recommendations — supine sleeping and avoidance of side sleeping specify that to reduce the risk of sleep-related death, it is recommended that infants be placed for sleep in a supine (back) position for every sleep by every caregiver until the child reaches 1 year of age. Side sleeping is not safe and is not advised. The supine sleep position on a flat, noninclined surface does not increase the risk of choking and aspiration in infants and is recommended for every sleep, even for infants with gastroesophageal reflux (GER). The American Academy of Pediatrics (AAP) concurs with the North American Society for Pediatric Gastroenterology and Nutrition that no position other than supine position is recommended for infants because of the risk of SIDS.
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^16fffd8c]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^111b6iJ7]. Pediatrics (2016). Medium credibility.
 
 Infant sleep positioning during rolling — recommendations and age-related data: Because data to make specific recommendations as to when it is safe for infants to sleep in the prone position are lacking, the AAP recommends that all infants continue to be placed supine until 1 year of age; once an infant can roll from supine to prone and from prone to supine, the infant may remain in the sleep position that he or she assumes. Rolling generally occurs at 4 to 6 months of age, and observed prone repositioning increases with age, with 6% of 16- to 23-week-old infants found in the prone position and, among infants ≥ 24 weeks of age, 14% of those placed on their backs and 18% of those placed on their sides found in the prone position. Parents and caregivers should continue to keep the infant's sleep environment clear of soft or loose bedding and other objects, and may be reassured that the incidence of SIDS begins to decline after 4 months of age.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^13f7d3e9]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^111Wc1Rr]. Pediatrics (2022). High credibility.
 
 Sleep-related infant deaths — scope and evidence basis: Recommendations are based on studies that include infants aged up to 1 year, and therefore recommendations for sleep position and the sleep environment, unless otherwise specified, are for the first year after birth. Because there are no randomized controlled trials with regard to SIDS and other sleep-related deaths, case-control studies are the best evidence available. When discussing sleep practices, physicians and nonphysician clinicians are encouraged to have open and nonjudgmental conversations with families and others who care for infants, and individual medical conditions may warrant that a clinician recommend otherwise after weighing the relative risks and benefits.
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^fcb0fb89]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^117TdKuz]. Pediatrics (2016). Medium credibility.
 
 Side positioning of newborns in hospitals — evidence and modeling concerns — are highlighted: "Placing infants on the side after birth in newborn nurseries or in mother-infant rooms continues to be a concern", and "No evidence that such fluid will be cleared more readily while in the side position exists"; moreover, if parents observe side or prone positioning by staff, "they are likely to infer that supine positioning is not important" and may copy the practice at home.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^e8226b45]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^116w9gv8]. Pediatrics (2022). High credibility.
 
 Bedside sleepers — standards and option — Bedside sleepers are attached to the side of the parental bed. The CPSC has published safety standards for bedside sleepers, and they may be considered by some parents as an option.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^ed02cf7c]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^1174P1YP]. Pediatrics (2022). High credibility.
 
 Infant rolling and sleep position — age-related data and AAP guidance are as follows: Rolling "generally occurs at 4 to 6 months of age", and one study found that "6% and 12% of 16- and 23-week-old infants placed on their backs or sides, respectively, were found in the prone position; among infants ≥ 24 weeks of age, 14% of those placed on their backs and 18% of those placed on their sides were found in the prone position". The American Academy of Pediatrics (AAP) states that "the AAP recommends that all infants continue to be placed supine until 1 year of age", while "Infants who can roll from supine to prone and from prone to supine can be allowed to remain in the sleep position that they assume". Risk remains notable in later infancy: "the predominant risk factor for sleep-related deaths in infants 4 to 12 months of age was rolling into objects in the sleep area", but "the incidence of SIDS begins to decline after 4 months of age".
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^cc5446b0]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^116DvnKZ]. Pediatrics (2016). Medium credibility.
 
 Recommendations to reduce the risk of SIDS and other sleep-related infant deaths — The recommendations outlined were developed to reduce the risk of SIDS and sleep-related suffocation, asphyxia, and entrapment among infants in the general population and are intended for all who care for infants, with some also directed toward health policy makers, researchers, and professionals. Because certain behaviors can increase infant risk, some recommendations are directed toward women who are pregnant or may become pregnant. The recommendations, along with the strength of the recommendation, are summarized in the accompanying policy statement, and there are no randomized controlled trials with regard to SIDS and other sleep-related deaths; instead, case-control studies are the standard. The recommendations are based on epidemiologic studies that include infants up to 1 year of age; therefore, recommendations for sleep position and the sleep environment, unless otherwise specified, are for the first year after birth. Health care practitioners are encouraged to have open and nonjudgmental conversations with families, and individual medical conditions may warrant different recommendations after weighing the relative risks and benefits.
 
 ---
 
-### Sleep as a driver of pre-and postnatal brain development [^194bcd62]. Pediatric Research (2024). Medium credibility.
+### Sleep as a driver of pre-and postnatal brain development [^111eW9ny]. Pediatric Research (2024). Medium credibility.
 
 Introduction
 
@@ -183,13 +183,13 @@ Recently, technological advances have enabled researchers to automatically quant
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^bd252559]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^115qR8vU]. Pediatrics (2022). High credibility.
 
 Recommendations to reduce the risk of sleep-related infant deaths — scope and inclusivity — are outlined as developed to reduce the risk of sleep-related infant deaths, including SIDS and sleep-related suffocation, asphyxia, and entrapment; risk is defined as the probability that an outcome will occur given the presence of a particular factor or set of factors; although all 19 recommendations are intended for everyone who cares for infants, the last 4 recommendations are directed specifically toward health policy makers, researchers, and professionals who care for or work on behalf of infants; because certain behaviors, such as smoking, can increase risk for the infant, some recommendations are directed toward people who are pregnant or may become pregnant in the near future; and the guidance is intended to be inclusive of all families, noting that gendered language, such as "mothers" and "breastfeeding", is occasionally used.
 
 ---
 
-### Campaigns&toolkits… [^53c8540a]. AAP (2024). Medium credibility.
+### Campaigns&toolkits… [^1139DG6m]. AAP (2024). Medium credibility.
 
 The leading cause of death for infants 1 month to 1 year is Sudden Unexpected Infant Death. This includes sleep related deaths and SIDS. Many of us work to make safe infant sleep the norm. To help guide conversations about safe sleep with families, the American Academy of Pediatrics has developed a suite of materials including posters, infographics, videos and social media messages. Please download, share and post these materials. Link to HealthyChildren. org/SafeSleep in your posts. Suggested hashtag: #SafeSleep. Communication Strategy In creating materials to use with parents, we knew the way to make useful items that resonate would be to talk to parents themselves. Discover what we learned from parents and grandparents around safe sleep messaging. Videos Safe Sleep for Babies SIDS Can Happen to Anyone A Pediatricians Story.
 
@@ -199,25 +199,25 @@ Keeping our babies safe by putting them safely to sleep Articles How to Keep You
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^57cb7551]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^113FAGCp]. Pediatrics (2022). High credibility.
 
 Search strategy and methodology — PubMed search scope and evidence grading are described as follows: Literature searches using PubMed were conducted for each topic concentrating on papers published since 2015, and a total of 159 new studies were judged to be of sufficiently high quality to be included in this technical report. Strength of evidence for recommendations was determined using the Strength-of-Recommendation Taxonomy (SORT), and draft versions were reviewed by American Academy of Pediatrics committees before submission to the AAP Executive Committee for final approval.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^e428bfaf]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^116qFs6v]. Pediatrics (2022). High credibility.
 
 Safe infant sleep — devices marketed for bed sharing — there is insufficient evidence to recommend for or against the use of devices promoted to make bed sharing "safe". There is no evidence that devices marketed to make bed sharing "safe" reduce the risk of sudden infant death syndrome (SIDS) or suffocation or are safe, and there are no peer-reviewed published data demonstrating the safety of products designed for in-bed use. Bedside sleepers, which attach to the side of the parental bed and for which the CPSC published standards in 2013, may be considered by some parents as an option, but at a minimum, to be considered a safe option, any of these devices should adhere to the June 2021 CPSC rule that any infant sleep product must meet existing federal safety standards for cribs, bassinets, play yards, and bedside sleepers.
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^5f40c95c]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^113SDav7]. Pediatrics (2016). Medium credibility.
 
 Newborn care and early postpartum positioning — skin-to-skin and supine placement: As stated in the AAP clinical report, "skin-to-skin care is recommended for all mothers and newborns, regardless of feeding or delivery method, immediately following birth (as soon as the mother is medically stable, awake, and able to respond to her newborn), and to continue for at least an hour", after which infants should be placed supine in a bassinet. There is no evidence that placing infants on their side during the first few hours after delivery improves clearance of amniotic fluid and decreases aspiration risk, and infants in the newborn nursery and those rooming in with parents should be placed in the supine position as soon as they are ready for the bassinet. Because studies establishing prone and side sleeping as SIDS risk factors include infants up to 1 year of age, infants should continue to be placed supine until 1 year of age; once they can roll from supine to prone and from prone to supine, they can be allowed to remain in the sleep position they assume. Because rolling into soft bedding is an important risk factor for SUID after 3 months of age, parents and caregivers should keep the sleep environment clear of soft or loose bedding.
 
 ---
 
-### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^a24446ea]. BMC Pediatrics (2020). Medium credibility.
+### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^1159ZvoB]. BMC Pediatrics (2020). Medium credibility.
 
 Discussion
 
@@ -229,19 +229,19 @@ A significantly increased risk of sudden infant death is reported for babies who
 
 ---
 
-### Sudden infant death syndrome [^9a8dea50]. American Family Physician (2015). Low credibility.
+### Sudden infant death syndrome [^114x8m8b]. American Family Physician (2015). Low credibility.
 
 Sudden infant death syndrome (SIDS) is the sudden unexpected death of a child younger than one year during sleep that cannot be explained after a postmortem evaluation including autopsy, a thorough history, and scene evaluation. The incidence of SIDS has decreased more than 50% in the past 20 years, largely as a result of the Back to Sleep campaign. The most important risk factors relate to the sleep environment. Prone and side sleeping positions are significantly more dangerous than the supine position. Bed sharing with a parent is strongly correlated with an increased risk of SIDS, especially in infants younger than 12 weeks. Apparent life-threatening events are not a risk factor for SIDS. Parents should place infants on their backs to sleep, should not share a bed, and should avoid exposing the infant to tobacco smoke. Other risk-reducing measures include using a firm crib mattress, breastfeeding, keeping vaccinations up to date, avoiding overheating due to overbundling, avoiding soft bedding, and considering the use of a pacifier during sleep once breastfeeding is established. One consequence of the Back to Sleep campaign is a significant increase in the incidence of occipital flattening. Infants who develop a flat spot should be placed with the head facing alternating directions each time he or she is put to bed. Supervised prone positioning while the infant is awake, avoiding excessive use of carriers, and upright positioning while awake are also recommended.
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^38a59330]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^112SyvSb]. Pediatrics (2016). Medium credibility.
 
 SIDS safe sleep — swaddling guidance — "There is no evidence to recommend swaddling as a strategy to reduce the risk of SIDS". If swaddling is used, the policy states "If infants are swaddled, they should always be placed on the back", "When an infant exhibits signs of attempting to roll, swaddling should no longer be used", and "Swaddling should be snug around the chest but allow for ample room at the hips and knees to avoid exacerbation of hip dysplasia", noting "There is a high risk of death if a swaddled infant is placed in or rolls to the prone position", that "There is no evidence with regard to SIDS risk related to the arms swaddled in or out", and that "These decisions about swaddling should be made on an individual basis, depending on the physiologic needs of the infant".
 
 ---
 
-### Vital signs: trends and disparities in infant safe sleep practices-United States, 2009–2015 [^90ad7581]. MMWR: Morbidity and Mortality Weekly Report (2018). Low credibility.
+### Vital signs: trends and disparities in infant safe sleep practices-United States, 2009–2015 [^114hVUqN]. MMWR: Morbidity and Mortality Weekly Report (2018). Low credibility.
 
 Despite recommendations from AAP regarding safe sleep practices for infants, this report demonstrates that placement of infants in a nonsupine sleep position, bed sharing with infants, and use of soft bedding are commonly reported by mothers. Evidence-based interventions that encourage infant safe sleep practices by caregivers, particularly within populations where unsafe infant sleep practices are higher, could help reduce sleep-related infant mortality.
 
@@ -257,13 +257,13 @@ Key Points
 
 ---
 
-### Co-sleeping, an ancient practice: issues of the past and present, and possibilities for the future [^6cbaaf8f]. Sleep Medicine Reviews (2006). Low credibility.
+### Co-sleeping, an ancient practice: issues of the past and present, and possibilities for the future [^113nCNNJ]. Sleep Medicine Reviews (2006). Low credibility.
 
 Co-sleeping-infants sharing the mother's sleep space-has prevailed throughout human evolution, and continued over the centuries of western civilization despite controversy and blame of co-sleeping mothers for the deaths of their infants. By the past century, "crib death" was recognized, later identified as Sudden Infant Death Syndrome (SIDS), and generally found to occur more frequently during bed sharing. Pediatricians warned parents of the dangers of SIDS and other risks of bed sharing, and the frequency of bed sharing decreased markedly over the years. However, during recent decades, bed sharing began to increase, though major issues were raised, including: whether bed sharing actually exacerbates or is protective against the occurrence of SIDS, whether the practice facilitates breast feeding, whether bed sharing is beneficial for an infant's development, and other concerns. Dissention may soon be diminished by use of a crib which opens at the mother's bed-side and is becoming a popular approach to mother-and-infant closeness through the night.
 
 ---
 
-### Back to sleep: good advice for parents but not for hospitals? [^a74052df]. Pediatrics (2001). Low credibility.
+### Back to sleep: good advice for parents but not for hospitals? [^115GxYBx]. Pediatrics (2001). Low credibility.
 
 Background
 
@@ -287,13 +287,13 @@ We conclude that the reasons reported for use of the side position in Iowa mater
 
 ---
 
-### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^1743c563]. BMC Pediatrics (2020). Medium credibility.
+### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^111bVUmY]. BMC Pediatrics (2020). Medium credibility.
 
 One in four infants usually slept in a room alone for night-time sleep with nearly one in two sleeping in a room alone during the day. Studies suggest babies who sleep in a separate room to their caregiver, for both day-time and night sleeps, are at a greater risk of sudden infant death. Sharing the same room as a caregiver permits close monitoring of the sleeping infant and allows for exchange of caregiver-infant sensory signals and cues providing protective and heightened infant arousal. SUDI occurs more frequently in unobserved sleep periods where babies are more likely to be found with bedding covering their head or found prone when they were placed on their side to sleep, compared to babies who did not die and who slept in the same room as their caregiver. Room sharing with an adult caregiver is reported to reduce SUDI risk by up to 50%.
 
 ---
 
-### Randomised trial of infant sleep location on the postnatal ward [^9bd687e7]. Archives of Disease in Childhood (2006). Low credibility.
+### Randomised trial of infant sleep location on the postnatal ward [^114z395Y]. Archives of Disease in Childhood (2006). Low credibility.
 
 Objective
 
@@ -329,13 +329,13 @@ Suckling frequency in the early postpartum period is a well-known predictor of s
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^060644b1]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^1119w2or]. Pediatrics (2016). Medium credibility.
 
 SIDS safe sleep — supine position and airway/GERD considerations: To reduce the risk of sudden infant death syndrome (SIDS), infants should be placed for sleep in a supine position (wholly on the back) for every sleep by every caregiver until the child reaches 1 year of age, and side sleeping is not safe and is not advised. The supine sleep position does not increase the risk of choking and aspiration in infants, even those with gastroesophageal reflux. Therefore, prone positioning is acceptable if the infant is observed and awake, particularly in the postprandial period, but prone positioning during sleep can only be considered in infants with certain upper airway disorders in which the risk of death from gastroesophageal reflux disease (GERD) may outweigh the risk of SIDS, including anatomic abnormalities such as type 3 or 4 laryngeal clefts without prior antireflux surgery. There is no evidence to suggest that infants receiving nasogastric or orogastric feeds are at an increased risk of aspiration if placed in the supine position, and elevating the head of the infant's crib is ineffective in reducing gastroesophageal reflux and is not recommended because it may lead to positions that compromise respiration.
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^8b23b80e]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^114ZHH2u]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 Sleep Questionnaires
 
@@ -347,19 +347,19 @@ Four parents, whose babies slept on their side, reported having to reposition th
 
 ---
 
-### Why babies should never sleep alone: a review of the co-sleeping controversy in relation to SIDS, bedsharing and breast feeding [^a19cc317]. Paediatric Respiratory Reviews (2005). Low credibility.
+### Why babies should never sleep alone: a review of the co-sleeping controversy in relation to SIDS, bedsharing and breast feeding [^1158bfLr]. Paediatric Respiratory Reviews (2005). Low credibility.
 
 There has been much controversy over whether infants should co-sleep or bedshare with an adult caregiver and over whether such practises increase the risk of SIDS or fatal accident. However, despite opposition from medical authorities or the police, many western parents are increasingly adopting night-time infant caregiving patterns that include some co-sleeping, especially by those mothers who choose to breast feed. This review will show that the relationships between infant sleep patterns, infant sleeping arrangements and development both in the short and long term, whether having positive or negative outcomes, is anything but simple and the traditional habit of labelling one sleeping arrangement as being superior to another without an awareness of family, social and ethnic context is not only wrong but possibly harmful. We will show that there are many good reasons to insist that the definitions of different types of co-sleeping and bedsharing be recognised and distinguished. We will examine the conceptual issues related to the biological functions of mother-infant co-sleeping, bedsharing and what relationship each has to SIDS. At very least, we hope that the studies and data described in this paper, which show that co-sleeping at least in the form of roomsharing especially with an actively breast feeding mother saves lives, is a powerful reason why the simplistic, scientifically inaccurate and misleading statement 'never sleep with your baby' needs to be rescinded, wherever and whenever it is published.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^ae735312]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^115Tdajj]. Pediatrics (2022). High credibility.
 
 Inclined sleep products — safety determination and risk threshold are specified: "A flat, noninclined surface is safest for infants". The Consumer Product Safety Commission (CPSC) expert "conducted infant testing to evaluate inclined sleep products and demonstrated that none of these tested products were safe for infant sleep", noting mechanism of harm: "Infants on an inclined surface can more easily flex their trunk and lift their head, facilitating rolling onto the side or prone, at which point they are at higher risk for muscle fatigue and potential suffocation". The report concluded that "products with inclines of more than 10 degrees are unsafe for infant sleep".
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^17e78504]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^111cSUr7]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 At 3 months, 22 parents (11 side-lying, 11 supine) completed the sleep questionnaires. Nine parents still reported their infant had difficulty breathing when asleep, but 5 of these were only when they had a cold. In addition, 4 parents reported that their child had stopped breathing for periods or had pauses in their breathing during their sleep at times (1 everyday; 1 ≤ 3 d/wk; 2 every 1–2 weeks; 3 side-lying, 1 supine). Noisy or snoring breathing, both during the day (41% of parents reported this) and at night time (86% of parents) remained very common.
 
@@ -367,13 +367,13 @@ At 3 months, 3 parents regularly repositioned their baby during sleep; all repor
 
 ---
 
-### The changing concept of sudden infant death syndrome: diagnostic coding shifts, controversies regarding the sleeping environment, and new variables to consider in reducing risk [^cb97e82b]. Pediatrics (2005). Low credibility.
+### The changing concept of sudden infant death syndrome: diagnostic coding shifts, controversies regarding the sleeping environment, and new variables to consider in reducing risk [^116CqWbL]. Pediatrics (2005). Low credibility.
 
 There has been a major decrease in the incidence of sudden infant death syndrome (SIDS) since the American Academy of Pediatrics (AAP) released its recommendation in 1992 that infants be placed down for sleep in a nonprone position. Although the SIDS rate continues to fall, some of the recent decrease of the last several years may be a result of coding shifts to other causes of unexpected infant deaths. Since the AAP published its last statement on SIDS in 2000, several issues have become relevant, including the significant risk of side sleeping position; the AAP no longer recognizes side sleeping as a reasonable alternative to fully supine sleeping. The AAP also stresses the need to avoid redundant soft bedding and soft objects in the infant's sleeping environment, the hazards of adults sleeping with an infant in the same bed, the SIDS risk reduction associated with having infants sleep in the same room as adults and with using pacifiers at the time of sleep, the importance of educating secondary caregivers and neonatology practitioners on the importance of "back to sleep", and strategies to reduce the incidence of positional plagiocephaly associated with supine positioning. This statement reviews the evidence associated with these and other SIDS-related issues and proposes new recommendations for further reducing SIDS risk.
 
 ---
 
-### Swaddling: will it get babies onto their backs for sleep? [^49f2365a]. Clinical Pediatrics (2012). Low credibility.
+### Swaddling: will it get babies onto their backs for sleep? [^112tdTFP]. Clinical Pediatrics (2012). Low credibility.
 
 Introduction
 
@@ -397,13 +397,13 @@ Parents often use swaddling to comfort the infant, and most find it effective. P
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^f8227843]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^117LsWQz]. Pediatrics (2022). High credibility.
 
 Infant sleep surfaces — boxes and cradleboards — have limited usage data and safety concerns; of 1429 mothers receiving a box, 47.9% (685) responded, 51% reported using the box as a sleeping space and 12% as the primary infant sleeping space, and bed-sharing rates at 1 week among recipients were significantly lower for exclusively breastfed infants (rate ratio: 2.0 [1.01–3.15]). Cardboard boxes that do not meet the federal safety standard are described as likely not safe for infant sleep and should not be used; there are no data regarding the safety of cradleboards for sleep, although a Healthy Native Babies Project suggests cradleboards as a culturally appropriate infant sleep surface and advises care to avoid overheating. Parents and caregivers should adhere to manufacturer maximum-weight guidelines for alternative products, and regardless of sleep surface, the American Academy of Pediatrics (AAP) recommends supine positioning, use of a firm, noninclined sleep surface without padded sides, and avoidance of soft objects and loose bedding.
 
 ---
 
-### Obstructive sleep apnea is position dependent in young infants [^bd2f0c9a]. Pediatric Research (2023). Medium credibility.
+### Obstructive sleep apnea is position dependent in young infants [^115qUTrZ]. Pediatric Research (2023). Medium credibility.
 
 Role of sleep positioning in infants
 
@@ -411,7 +411,7 @@ Currently, the supine sleep position is recommended for all infants as part of S
 
 ---
 
-### Infant sleep position: back to sleep… [^c71acc27]. JAMA Network (2009). Excellent credibility.
+### Infant sleep position: back to sleep… [^1166BY8v]. JAMA Network (2009). Excellent credibility.
 
 Customize your JAMA Network experience by selecting one or more topics from the list below. Sleep position is an important safety issue for infants younger than 1 year. This is because sudden infant death syndrome is associated with infants sleeping on their tummies. Sudden infant death syndrome is the leading cause of death for infants younger than 1 year. It most commonly occurs in babies between the ages of 2 and 4 months. Despite more than 15 years of the "back to sleep" educational campaign, some parents still are not provided with appropriate education about the safest sleep position for babies. Can't i put my baby to sleep on his or her tummy once in a while. About 1 in 5 deaths from SIDS happen when an infant is being cared for by someone other than a parent. Many of these deaths occur when babies who are used to sleeping on their backs are then placed to sleep on their tummies by another caregiver. This is called unaccustomed tummy sleeping.
 
@@ -421,13 +421,13 @@ Before leaving your baby with another caretaker, be sure to discuss safe sleep p
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^83849de1]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^114MyvVv]. Pediatrics (2016). Medium credibility.
 
 Sleep surfaces — firm surface and product standards: Infants should be placed on a firm sleep surface (eg, a mattress in a safety-approved crib) covered by a fitted sheet with no other bedding or soft objects to reduce the risk of SIDS and suffocation, and a crib, bassinet, portable crib, or play yard that conforms to the safety standards of the Consumer Product Safety Commission (CPSC) is recommended. Cribs should meet safety standards of the CPSC, including those for slat spacing, snugly fitting and firm mattresses, and no drop sides; the AAP recommends the use of new cribs and, if an older crib is used, care must be taken to check for recalls, intact hardware, and available assembly instructions. Soft mattresses, including memory foam, could create a pocket and increase the chance of rebreathing or suffocation if the infant is placed in or rolls over to the prone position. Mattresses should be firm, maintain shape with the designated fitted sheet so there are no gaps with surrounding walls, and only mattresses designed for the specific product should be used; pillows or cushions should not be used as substitutes or in addition to a mattress, and soft materials or objects should not be placed under a sleeping infant.
 
 ---
 
-### Sudden infant death syndrome prevention [^215293df]. BMC Pediatrics (2021). Medium credibility.
+### Sudden infant death syndrome prevention [^111rQL3Q]. BMC Pediatrics (2021). Medium credibility.
 
 Supine position for sleeping
 
@@ -445,7 +445,7 @@ Supine position does not increase the risk of choking and aspiration. Only infan
 
 ---
 
-### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^5633cf6f]. BMC Pediatrics (2020). Medium credibility.
+### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^113CoLai]. BMC Pediatrics (2020). Medium credibility.
 
 Sleep baby on back
 
@@ -459,31 +459,31 @@ Most parents reported the use of a baby sleep bag or commercially designed sleep
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^1b02a6cb]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^111h3ZGN]. Pediatrics (2022). High credibility.
 
 Birth hospitalization: healthy newborn positioning and skin-to-skin — "During the birth hospitalization, place healthy newborn infants supine and on a flat, noninclined surface for every sleep when they are not engaged in skin-to-skin care or in the arms of an awake or alert individual". In the AAP clinical report, "skin-to-skin care is recommended for all mothers and newborns… immediately following birth… and to continue for at least an hour". "Thereafter, or when the parent needs to sleep or take care of other needs, infants should be placed supine in a noninclined bassinet".
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^784df6af]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^1145Mhft]. Pediatrics (2022). High credibility.
 
 AAP 2022 safe sleep recommendations — swaddling: There is no evidence to recommend swaddling as a strategy to reduce the risk of SIDS. There is a high risk for death if a swaddled infant is placed in or rolls to the prone position; if infants are swaddled, always place them on the back. Swaddling should be snug around the chest but allow for ample room at the hips and knees, and weighted swaddle clothing or weighted objects within swaddles are not safe and therefore not recommended. When an infant exhibits signs of attempting to roll (which usually occurs at age 3 to 4 months but may occur earlier), swaddling is no longer appropriate. There is no evidence with regard to risk of SIDS related to the arms being swaddled in or out, and parents can decide on an individual basis whether to swaddle and whether the arms are swaddled in or out, depending on the behavioral and developmental needs of the infant.
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^a2cc6df9]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^115AMfGC]. Pediatrics (2016). Medium credibility.
 
 Safe infant sleep — high-risk bed-sharing circumstances to avoid: There are specific circumstances that have been shown to substantially increase the risk of SIDS or unintentional injury or death while bed-sharing, and these should be avoided at all times. Bed-sharing is especially dangerous and should be avoided at all times when one or both parents are smokers, even if they are not smoking in bed, when the mother smoked during pregnancy, and when the infant is younger than 4 months of age.
 
 ---
 
-### Suffocation deaths associated with use of infant sleep positioners – United States, 1997–2011 [^b4037e00]. MMWR: Morbidity and Mortality Weekly Report (2012). Low credibility.
+### Suffocation deaths associated with use of infant sleep positioners – United States, 1997–2011 [^115bswm1]. MMWR: Morbidity and Mortality Weekly Report (2012). Low credibility.
 
 Unintentional suffocation is the leading cause of injury death among children aged < 1 year in the United States, accounting for nearly 1,000 infant deaths annually. Since 1984, an estimated fourfold increase has been observed in accidental suffocation and strangulation in bed, with many of these deaths linked to unsafe sleep environments. Infant sleep positioners (ISPs) are devices intended to keep an infant in a specific position while sleeping, yet ISPs have been reported to have been present in the sleep environment in some cases of unintentional infant suffocation. Some specific ISPs have been cleared by the Food and Drug Administration (FDA) for the management of gastroesophageal reflux or plagiocephaly (asymmetry of the skull). However, many unapproved ISPs have been marketed to the general public with claims of preventing sudden infant death syndrome (SIDS), improving health, and enhancing sleep comfort. To characterize infant deaths associated with ISPs, FDA, the U.S. Consumer Product Safety Commission (CPSC), and CDC examined information reported to CPSC about 13 infant deaths in the past 13 years associated with the use of ISPs. In this case series, all infants but one were aged ≤ 3 months, and most were placed on their sides to sleep. Many were found prone (i.e., lying on their abdomens). Accompanying medical issues included prematurity and intercurrent respiratory illnesses. When providing guidance for parents of newborns, health-care providers need to emphasize the importance of placing infants to sleep on their backs in a safe sleep environment. This includes reminders about the American Academy of Pediatrics (AAP) recommendations against side sleep position, ISPs and pillows, comforters, and other soft bedding.
 
 ---
 
-### Vital signs: trends and disparities in infant safe sleep practices-United States, 2009–2015 [^09055f8b]. MMWR: Morbidity and Mortality Weekly Report (2018). Low credibility.
+### Vital signs: trends and disparities in infant safe sleep practices-United States, 2009–2015 [^111ENhDU]. MMWR: Morbidity and Mortality Weekly Report (2018). Low credibility.
 
 Introduction
 
@@ -493,19 +493,19 @@ Although the individual effect of each recommendation on sleep-related infant mo
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^9bd500ca]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^114z2dKF]. Pediatrics (2022). High credibility.
 
 Infant sleep environment — positioning, surfaces, and device use: The AAP recommends supine positioning; use of a firm, noninclined sleep surface without padded sides; and avoidance of soft objects and loose bedding. Some American Indian/Alaska Native communities have promoted cradleboards; there are no data regarding the safety of cradleboards for sleep, the Healthy Native Babies Project suggests cradleboards as a culturally appropriate infant sleep surface, and care should be taken so that infants do not overheat (because of overbundling) in the cradleboard. There is no evidence that special crib mattresses and sleep surfaces claiming to reduce the chance of rebreathing carbon dioxide when the infant is in the prone position reduce the risk of a sleep-related death, although there is no disadvantage to using these mattresses if they meet safety standards. Infants should not be placed for sleep on adult-sized beds or mattresses, and portable bed rails should not be used with infants. The infant sleep area should be kept free of hazards, such as dangling cords, electric wires, and window covering cords, because these may present a strangulation risk. Sitting devices, such as car seats, strollers, swings, infant carriers, and infant slings, are not recommended for routine sleep in the hospital or at home, particularly for infants aged < 4 months; when infants fall asleep in a sitting device, remove them from the product and move them to a crib or other appropriate flat surface as soon as is safe and practical; car seats and similar products are not stable on a crib mattress or other elevated surfaces; do not leave infants unattended in car seats and similar products, and do not place or leave infants in car seats and similar products with the straps unbuckled or partially buckled. When infant slings and cloth carriers are used for carrying, ensure the infant's head is up and above the fabric, the face is visible, and the nose and mouth are clear of obstructions; if the infant's head is covered to facilitate nursing, the infant should be repositioned after feeding so that the head is up, is clear of fabric, and is not against the adult's body or the sling. In short-term emergency situations with displacement and lack of access to an approved safe sleep device/surface, an alternative device with a firm, flat, noninclined surface (eg, box, basket, or dresser drawer) with thin, firm padding may be used temporarily, but this alternative device should be replaced as soon as a CPSC-approved surface is available; the device should contain no pillows or loose or soft objects; government-regulated shelters should have an adequate number of CPSC-approved sleep surfaces, and social service agencies and emergency assistance organizations should provide resources for free or low-cost CPSC-approved surfaces.
 
 ---
 
-### Safe sleep and skin-to-skin care in the neonatal period for healthy term newborns [^a546d8d8]. Pediatrics (2016). Medium credibility.
+### Safe sleep and skin-to-skin care in the neonatal period for healthy term newborns [^115E2kiB]. Pediatrics (2016). Medium credibility.
 
 Implementation suggestions for safe skin-to-skin care (SSC) and rooming-in — part 2: "The following suggestions support safe implementation of these practices:" "Conduct frequent assessments and monitoring of the mother-infant dyad during postpartum rooming-in settings, with particular attention to high-risk situations such as nighttime and early morning hours". "Assess the level of maternal fatigue periodically. If the mother is tired or sleepy, move the infant to a separate sleep surface (eg, side-car or bassinet) next to the mother's bed". "Avoid bed-sharing in the immediate postpartum period by assisting mothers to use a separate sleep surface for the infant". "Promote supine sleep for all infants. SSC may involve the prone or side position of the newborn, especially if the dyad is recumbent; therefore, it is imperative that the mother/ caregiver who is providing SSC be awake and alert". and "Train all health care personnel in standardized methods of providing immediate SSC after delivery, transitioning the mother-infant dyad, and monitoring the dyad during SSC and rooming-in throughout the delivery hospital period".
 
 ---
 
-### Association of supine going-to-sleep position in late pregnancy with reduced birth weight: a secondary analysis of an individual participant data meta-analysis [^0fb9f0be]. JAMA Network Open (2019). High credibility.
+### Association of supine going-to-sleep position in late pregnancy with reduced birth weight: a secondary analysis of an individual participant data meta-analysis [^111QKGe1]. JAMA Network Open (2019). High credibility.
 
 Conclusions
 
@@ -513,13 +513,13 @@ This study found that supine maternal going-to-sleep position is associated with
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^247784fb]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^111w4haA]. Pediatrics (2016). Medium credibility.
 
 Safe infant sleep environment — summary of recommendations with strength. A-level recommendations are as follows: Back to sleep for every sleep; use a firm sleep surface; breastfeeding is recommended; room-sharing with the infant on a separate sleep surface is recommended; keep soft objects and loose bedding away from the infant's sleep area; consider offering a pacifier at naptime and bedtime; avoid smoke exposure during pregnancy and after birth; avoid alcohol and illicit drug use during pregnancy and after birth; avoid overheating; pregnant women should seek and obtain regular prenatal care; infants should be immunized in accordance with AAP and CDC recommendations; do not use home cardiorespiratory monitors as a strategy to reduce the risk of SIDS; health care providers, staff in newborn nurseries and NICUs, and child care providers should endorse and model the SIDS risk-reduction recommendations from birth; media and manufacturers should follow safe sleep guidelines in their messaging and advertising; and continue the "Safe to Sleep" campaign, with pediatricians and other primary care providers actively participating. B-level recommendations are to avoid use of commercial devices that are inconsistent with safe sleep recommendations, and that supervised, awake tummy time is recommended to facilitate development and to minimize development of positional plagiocephaly. C-level recommendations are to continue research and surveillance on SIDS and other sleep-related infant deaths, and that there is no evidence to recommend swaddling as a strategy to reduce the risk of SIDS. Grading definitions state that Level A is good-quality patient-oriented evidence, Level B is inconsistent or limited-quality patient-oriented evidence, and Level C is based on consensus, disease-oriented evidence, usual practice, expert opinion, or case series.
 
 ---
 
-### Vigabatrin (vigabatrin for oral solution) [^4d310594]. FDA (2024). Medium credibility.
+### Vigabatrin (vigabatrin for oral solution) [^112ySWio]. FDA (2024). Medium credibility.
 
 - If you are giving vigabatrin for oral solution to your child, it can be given at the same time as their meal. Vigabatrin for oral solution powder should be mixed with water only.
 
@@ -543,37 +543,37 @@ The following serious side effects happen in adults. It is not known if these si
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^29c95205]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^1124x7bJ]. Pediatrics (2016). Medium credibility.
 
 Safe infant sleep — immunizations: Infants should be immunized in accordance with recommendations of the AAP and Centers for Disease Control and Prevention. There is no evidence that there is a causal relationship between immunizations and SIDS, and recent evidence suggests that vaccination may have a protective effect against SIDS.
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^26dcc2dc]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^111zcgV1]. Pediatrics (2016). Medium credibility.
 
 Infant sleep environment and equipment — safe surfaces, devices, and hazards: A crib, bassinet, portable crib, or play yard that meets Consumer Product Safety Commission (CPSC) standards, including slat spacing less than 2–3/8 inches with snugly fitting and firm mattresses and no drop sides, is recommended. Mattresses should be firm and maintain their shape with the fitted sheet so there are no gaps between the mattress and the crib walls. Pillows or cushions should not be used as substitutes for mattresses, and mattress toppers should not be used for infants younger than 1 year. Soft materials or objects should not be placed under a sleeping infant. Infants should not be placed for sleep on beds, and portable bed rails should not be used with infants. The infant should sleep in an area free of hazards, such as dangling cords, electric wires, and window-covering cords. Sitting devices (car seats, strollers, swings, infant carriers, infant slings) are not recommended for routine sleep; infants who are younger than 4 months are particularly at risk. When slings or cloth carriers are used for carrying, ensure the head is up and above the fabric, the face is visible, and the nose and mouth are clear of obstructions. If an infant falls asleep in a sitting device, he or she should be removed and moved to a crib or other appropriate flat surface as soon as is safe and practical; car seats and similar products are not stable on a crib mattress or other elevated surfaces, and infants should not be left unattended or with straps unbuckled or partially buckled.
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^539fd90f]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^1138yfUi]. Pediatrics (2016). Medium credibility.
 
 Bedside and in-bed sleepers — standards and recommendations: Bedside sleepers are attached to the side of the parental bed, and the CPSC has published safety standards for bedside sleepers and they may be considered by some parents as an option; there are no CPSC safety standards for in-bed sleepers. The task force cannot make a recommendation for or against the use of either bedside sleepers or in-bed sleepers because there have been no studies examining the association between these products and SIDS or unintentional injury and death, including suffocation; studies of in-bed sleepers are underway but results are not yet available. Parents and caregivers should adhere to the manufacturer's guidelines regarding maximum weight of infants who use these products, and with any of these products, other AAP guidelines for safe sleep, including supine positioning and avoidance of soft objects and loose bedding, should be followed; alternate sleep surfaces that meet CPSC standards, such as portable cribs, play yards, and bassinets, can be used and may be more acceptable for some families because they are smaller and more portable.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^5a9a3f6b]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^113KKhML]. Pediatrics (2022). High credibility.
 
 Positional therapy, head elevation, and choking risk in sleeping infants — The guideline advises "not to use positional therapy (ie, head elevation, lateral and prone positioning) to treat symptoms of gastroesophageal reflux disease (GERD) in sleeping infants". It states "There is no evidence to suggest that infants receiving nasogastric or orogastric feeds are at increased risk for aspiration if placed in the supine position". It further notes "Elevating the head of the infant's crib is ineffective in reducing GER and is not recommended". Hazards of inclines are described: "Infants cannot be placed at a 30-degree incline without sliding down, which raises concern that the infant could slide into a position that may compromise respiration", and "Infants sleeping at lesser inclines can more easily flex their trunk and lift their head, facilitating rolling onto the side or prone, at which point they are at higher risk for muscle fatigue and potential suffocation". Additionally, Figure 1 emphasizes that "Back sleeping does not increase the risk of choking".
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^c53c4994]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^1163Qp1Z]. Pediatrics (2022). High credibility.
 
 Sleep location — room sharing on a separate surface: "It is recommended that infants sleep in the parents' room, close to the parents' bed, but on a separate surface designed for infants, ideally for the first 6 mo". The 2016 guideline stated: "It is recommended that infants sleep in the parents' room, close to the parents' bed, but on a separate surface designed for infants, ideally for the first year of life, but at least for the first 6 mo".
 
 ---
 
-### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^b456b507]. BMC Pediatrics (2020). Medium credibility.
+### Infant care practices and parent uptake of safe sleep messages: a cross-sectional survey in queensland, Australia [^115cMtvA]. BMC Pediatrics (2020). Medium credibility.
 
 The development of Australia's SUDI prevention public health programs and dissemination of the evidence-based Safe Sleeping messages is primarily supported by Red Nose (formally SIDS and Kids), a nationally recognised non-governmental organisation. The key recommendations promulgated are based on the modifiable factors parents and health professionals can influence the most. The current public health Safe Sleeping program contains six key messages: 1) Sleep baby on back; 2) Keep head and face uncovered; 3) Keep baby smoke free before and after birth; 4) Safe sleeping environment night and day; 5) Sleep baby in safe cot in parents' room; 6) Breastfeed baby.
 
@@ -581,19 +581,19 @@ Despite Australia's national evidence-based health promotion program, inconsiste
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^d9b70ca6]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^116ZmoF3]. Pediatrics (2016). Medium credibility.
 
 SIDS safe sleep — health care and child care modeling and education — "Health care professionals, staff in newborn nurseries and NICUs, and child care providers should endorse and model the SIDS risk-reduction recommendations from birth". Implementation points include "Staff in NICUs should model and implement all SIDS risk-reduction recommendations as soon as the infant is medically stable and well before anticipated discharge" and "Staff in newborn nurseries should model and implement these recommendations beginning at birth and well before anticipated discharge". Education and counseling directives state "All physicians, nurses, and other health care providers should receive education on safe infant sleep. Health care providers should screen for and recommend safe sleep practices at each visit for infants up to 1 year old", and "Families who do not have a safe sleep space for their infant should be provided with information about low-cost or free cribs or play yards". System-level guidance includes "Hospitals should ensure that hospital policies are consistent with updated safe sleep recommendations and that infant sleep spaces (bassinets, cribs) meet safe sleep standards" and "All state regulatory agencies should require that child care providers receive education on safe infant sleep and implement safe sleep practices. It is preferable that they have written policies".
 
 ---
 
-### ABM clinical protocol # 37: physiological infant care-managing nighttime breastfeeding in young infants [^ff3072db]. Breastfeeding Medicine (2023). High credibility.
+### ABM clinical protocol # 37: physiological infant care-managing nighttime breastfeeding in young infants [^117XL7ia]. Breastfeeding Medicine (2023). High credibility.
 
 ABM Clinical Protocol #37 — daytime strategies to support breastfeeding, sleep, and well-being — advises: Wear your baby in a baby-wrap or baby-carrier. Wearing your baby keeps baby calm. Make sure your baby's back is supported and your baby is held firmly to your body. Your baby's face should be free. Daytime activity may help your baby sleep better at night. Expose your baby to normal daytime light and noises. Include some supervised tummy-time. Nap when your baby naps, if you can. Focus on your baby's behavior cues. Tracking apps are not needed. Ask for help. Other caregivers can change, bathe, and dress your baby. They can help with cooking, cleaning, and older children.
 
 ---
 
-### An individual participant data meta-analysis of maternal going-to-sleep position, interactions with fetal vulnerability, and the risk of late stillbirth [^24481f8c]. EClinicalMedicine (2019). Medium credibility.
+### An individual participant data meta-analysis of maternal going-to-sleep position, interactions with fetal vulnerability, and the risk of late stillbirth [^111vnnDh]. EClinicalMedicine (2019). Medium credibility.
 
 Study eligibility was assessed independently by two reviewers (RC and TS). All potential study investigators were contacted to verify eligibility and invited to participate. If there was no response, co-authors and journal editors were approached. The included studies had a risk of bias assessment using the instrument tool "Risk Of Bias In Non-randomized Studies — of Exposures (ROBINS — E)". Participant level exclusion criteria (multiple pregnancy, major congenital abnormality, gestation < 28 weeks' when going-to-sleep position data during pregnancy was collected, termination of pregnancy at ≥ 28 weeks', and receiving a study intervention that may have affected going-to-sleep position) were applied during the analysis. A detailed data management plan was agreed by CRIBSS investigators prior to the analysis. For the primary analysis, the going-to-sleep position utilised was the last available going-to-sleep position recorded during pregnancy (within two weeks of when the women estimated their baby had died in cases). The position was categorised as left side, right side, variable sides, supine, prone, and propped. Left side was used as the reference group for the analysis. Going-to-sleep position was merged to supine versus non-supine groups in the analysis of interaction.
 
@@ -607,19 +607,19 @@ Two reviewers (RC and AG) independently rated the risk of bias for non-randomise
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^137ee51c]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^111VuPU7]. Pediatrics (2016). Medium credibility.
 
 Immunizations — Infants should be immunized in accordance with AAP and Centers for Disease Control and Prevention recommendations. The incidence of SIDS peaks at a time when infants are receiving numerous immunizations.
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^1070d86e]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^111RNhv5]. Pediatrics (2016). Medium credibility.
 
 Preterm infants — supine sleep and discharge modeling — are addressed with directive language: "Preterm infants should be placed supine as soon as possible", because "Infants born preterm have an increased risk of SIDS" and the prone–SIDS association in preterm/low birth weight infants is "equal to, or perhaps even stronger than" in term infants; accordingly, "preterm infants should be placed supine for sleep as soon as clinical status has stabilized", "preterm infants should be placed supine for sleeping, just as term infants should", and "Hospitalized preterm infants should be kept predominantly in the supine position, at least from the postmenstrual age of 32 weeks onward"; teams "should model the recommendations as soon as the infant is medically stable and significantly before the infant's anticipated discharge", and "NICUs are encouraged to develop and implement policies" to ensure modeling for parents.
 
 ---
 
-### Survey of maternal sleep practices in late pregnancy in a multi-ethnic sample in south auckland, New Zealand [^c3ade395]. BMC Pregnancy and Childbirth (2017). Low credibility.
+### Survey of maternal sleep practices in late pregnancy in a multi-ethnic sample in south auckland, New Zealand [^11616zap]. BMC Pregnancy and Childbirth (2017). Low credibility.
 
 We asked women if they could change their going-to-sleep position to their left side if there were health benefits for the baby. Of the 70% who did not currently settle to sleep on their left side, 86% said they could change to left. The large majority (94%) of these women reported that changing would not be difficult for them.
 
@@ -631,31 +631,31 @@ We undertook multivariable analysis to identify risk factors associated with non
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^eac95ae4]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^11715jf1]. Pediatrics (2022). High credibility.
 
 Sleep-related infant deaths — B and C level recommendations: B level recommendations advise to avoid the use of commercial devices that are inconsistent with safe sleep recommendations. C level recommendations state there is no evidence to recommend swaddling as a strategy to reduce the risk of SIDS and to continue research and surveillance on the risk factors, causes, and pathophysiological mechanisms of sleep-related deaths, with the ultimate goal of eliminating these deaths entirely.
 
 ---
 
-### ABM clinical protocol # 37: physiological infant care-managing nighttime breastfeeding in young infants [^e2f5ceca]. Breastfeeding Medicine (2023). High credibility.
+### ABM clinical protocol # 37: physiological infant care-managing nighttime breastfeeding in young infants [^116oUmQm]. Breastfeeding Medicine (2023). High credibility.
 
 ABM Clinical Protocol #37 — physiologic infant care at night-time — states: Breastfeeding at night stimulates milk production. Night breastfeeding helps your baby grow. Sleep near your baby. Breastfeed at night rather than pump or use bottles, if you can. Your night-time milk contains melatonin. Giving solids or formula before 6 months may decrease milk production. Do not sleep train in the first 6 months. It is not recommended in the first year. Bedsharing safety is very important. Everyone should make their bed safe for baby. Keep the lights off at night. Avoid getting up at night.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^64127280]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^113ZMxZd]. Pediatrics (2022). High credibility.
 
 Room sharing versus separate room and bed/surface sharing risk — The safest place for a baby to sleep is on a separate sleep surface designed for infants close to the parents' bed. Infants sleeping in a separate room are 2.75 to 11.5 times more likely to die suddenly and unexpectedly than infants who are room sharing without bed sharing. When all bed-sharing or surface-sharing circumstances are included in meta-analyses, the risk of dying suddenly and unexpectedly is almost 3 times higher than room sharing without bed sharing.
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^e0e7938e]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^116kS1bb]. Pediatrics (2016). Medium credibility.
 
 Preterm infants — supine positioning and counseling: Preterm infants should be placed supine as soon as possible because they are at an increased risk of SIDS, and the association between prone sleep and SIDS among low birth weight and preterm infants is equal to or stronger than among term infants. The task force concurs that "preterm infants should be placed supine for sleeping, just as term infants should", and parents should be counseled about the importance of supine sleeping in preventing SIDS. Hospitalized preterm infants should be kept predominantly supine from at least the postmenstrual age of 32 weeks onward to acclimate before discharge, and NICU personnel should endorse safe sleep guidelines with parents from admission.
 
 ---
 
-### Sleeping patterns of Swedish women experiencing a stillbirth between 2000-2014-an observational study [^650d3fa1]. BMC Pregnancy and Childbirth (2016). Low credibility.
+### Sleeping patterns of Swedish women experiencing a stillbirth between 2000-2014-an observational study [^113apCZn]. BMC Pregnancy and Childbirth (2016). Low credibility.
 
 Background
 
@@ -675,25 +675,25 @@ Our data indicate that one third of the women went to bed on the left side the m
 
 ---
 
-### Who should have a sleep study for sleep related breathing disorders? [^c86929d8]. Archives of Disease in Childhood (2004). Low credibility.
+### Who should have a sleep study for sleep related breathing disorders? [^11687r7R]. Archives of Disease in Childhood (2004). Low credibility.
 
 By the time children are 5 years old more of their life will have been spent asleep than awake. Sleep medicine is therefore especially relevant in paediatrics. However, one recent survey showed that paediatricians' knowledge of sleep medicine is poor and that few paediatricians enquire about sleep as part of their general consultation.1
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^d581b8d8]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^116TXwDR]. Pediatrics (2016). Medium credibility.
 
 Swaddling and SIDS risk — there is no evidence to recommend swaddling as a strategy to reduce the risk of SIDS, and infants who are swaddled have an increased risk of death if they are placed in or roll to the prone position. If swaddling is used, infants should always be placed on the back, and when an infant exhibits signs of attempting to roll, swaddling should no longer be used. Evidence is mixed, with one study suggesting a decrease in SIDS rate with swaddling if the infant was supine, but an increased risk if placed prone, another study finding a 31-fold increase in SIDS risk with swaddling, and a 12-fold increased risk of SIDS if placed on or rolling to prone when swaddled. If swaddling is used, the infant should be placed wholly supine and swaddling discontinued as soon as rolling attempts begin; commercially available swaddle sacks are an acceptable alternative, and there is no evidence with regard to SIDS risk related to the arms swaddled in or out.
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^c201b4ff]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^115xdAvi]. Pediatrics (2022). High credibility.
 
 Guidance for parents who fall asleep while feeding the infant notes that bed sharing can occur unintentionally if parents fall asleep while feeding their infant or at times when parents are particularly tired, or infants are fussy, and that evidence suggests that it is relatively less hazardous (but still not recommended) to fall asleep with the infant in the adult bed than on a sofa or armchair, should the parent fall asleep. It is advised that no pillows, sheets, blankets, pets, or any soft or loose items that could obstruct infant breathing or cause overheating be in the bed, and because there is evidence that the risk of bed sharing is higher with longer duration, if the parent falls asleep while feeding the infant in bed, the parent is advised to return the infant to a separate sleep surface as soon as the parent awakens.
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^7ba1d36a]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^114AHqHT]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 Results
 
@@ -716,13 +716,13 @@ The majority of parents were unable to carry out the ETCO 2 monitoring as they f
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^bb83cf81]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^115nzxaL]. Pediatrics (2016). Medium credibility.
 
 Swaddling and sudden infant death syndrome (SIDS) risk — Swaddling is recognized as one of many child care practices that can be used to calm infants, promote sleep, and encourage the use of the supine position; however, there is no evidence to recommend routine swaddling as a strategy to reduce the risk of SIDS. The risk of death is high if a swaddled infant is placed in or rolls to the prone position; if infants are swaddled, they should always be placed on the back, and when an infant exhibits signs of attempting to roll, swaddling should no longer be used. Swaddling must be correctly applied to avoid hazards such as hip dysplasia, head covering, and strangulation, and swaddling does not reduce the necessity to follow recommended safe sleep practices. Accumulating evidence suggests that routine swaddling has only minimal effects on arousal, there have been no studies of arousal to hypoxia or hypercapnia, and there is no evidence with regard to SIDS risk related to the arms swaddled in or out.
 
 ---
 
-### Vital signs: trends and disparities in infant safe sleep practices… [^04ba0ba1]. CDC (2023). Medium credibility.
+### Vital signs: trends and disparities in infant safe sleep practices… [^11181Sat]. CDC (2023). Medium credibility.
 
 - Approximately one in five mothers reported placing their infant to sleep on their side or stomach. More than one half reported bed sharing with their infant, and more than one third reported using soft bedding in the infant's sleep environment. Unsafe sleep practices varied by state, race/ethnicity, age, education, and participation in the Special Supplemental Nutrition Program for Women, Infants, and Children.
 - Health care providers and state-based and community-based programs can identify barriers to safe sleep practices and provide culturally appropriate counseling and messaging to improve infant safe sleep practices.
@@ -730,13 +730,13 @@ Swaddling and sudden infant death syndrome (SIDS) risk — Swaddling is recogniz
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^805c28cd]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^114HJNUt]. Pediatrics (2016). Medium credibility.
 
 Postnatal skin-to-skin care and subsequent sleep placement are specified as follows: "skin-to-skin care is recommended for all mothers and newborns, regardless of feeding or delivery method, immediately following birth (as soon as the mother is medically stable, awake, and able to respond to her newborn), and to continue for at least an hour", after which "Thereafter, or when the mother needs to sleep or take care of other needs, infants should be placed supine in a bassinet".
 
 ---
 
-### Background… [^a849828f]. CDC (2024). Medium credibility.
+### Background… [^115JVcSA]. CDC (2024). Medium credibility.
 
 At a glance Expecting or caring for a baby. Take these steps to help baby sleep safely and reduce the risk of sleep-related infant deaths, including sudden infant death syndrome and accidental suffocation. How to create a safe sleep area Place your baby on his or her back for all sleep times — naps and at night. If a baby spits up during sleep, babies' anatomy and gag reflex help prevent them from choking. This is true even while baby is sleeping on their back. Babies who sleep on their backs are much less likely to die of SIDS than babies who sleep on their sides or stomachs. Use a firm, flat sleep surface, such as a mattress in a safety-approved crib covered only by a fitted sheet. Parents and caretakers might feel they should place their baby on a soft surface to help with sleep. Many even feel that the baby will be more comfortable. However, soft surfaces can increase the risk of sleep-related death.
 
@@ -746,31 +746,31 @@ Parents may feel they should add sheets or blankets to their baby's crib to keep
 
 ---
 
-### Population trends in sudden infant death syndrome [^9cbcca9f]. Seminars in Perinatology (2002). Low credibility.
+### Population trends in sudden infant death syndrome [^1151NUvA]. Seminars in Perinatology (2002). Low credibility.
 
 This review documents and assesses recent trends in sudden infant death syndrome. We review medical literature, Internet resources, and national governmental data. A striking reduction in SIDS incidence of more than 50% has been observed in various countries after interventions, particularly during the early 1990s, to reduce the prevalence of prone infant sleeping. A reduction in postneonatal mortality has accompanied these lower rates. Evaluation studies from several countries indicate that the SIDS rate drop is largely attributable to a decline in the proportion of babies sleeping prone. Within countries, the SIDS rate decline has not occurred to the same extent for different ethnic and socio-economic groups. Future public health activities must aim to address this issue. In the post-intervention era, the relative importance of the risk factors of side compared to supine sleeping and soft bedding near the infant's airway have become more evident. Recent death scene data indicate that a substantial proportion of the remaining SIDS deaths could be avoided by supine sleeping and by providing a safe sleeping environment for all infants.
 
 ---
 
-### Transition to a safe home sleep environment for the NICU patient [^1f731497]. Pediatrics (2021). High credibility.
+### Transition to a safe home sleep environment for the NICU patient [^111odGge]. Pediatrics (2021). High credibility.
 
 Sleep position and SIDS risk — since 1992, back sleeping has been recommended for the reduction of sleep-related deaths, and in conjunction with the Back to Sleep campaign in 1994, SIDS rates in the United States decreased by 53% by 1999. Prone and side sleep positions are associated with an increased risk of sudden infant death syndrome (SIDS), and neither are recommended; the risk of SIDS for preterm and low birth weight infants in the prone position is potentially greater than that of healthy term infants. Although nonsupine positioning may be applied in the NICU for potential therapeutic benefit, it can be used as a teachable moment with families regarding eventual readiness for safe infant sleep positioning and environment.
 
 ---
 
-### Speaking out on safe sleep: evidence-based infant sleep recommendations [^321ae5a6]. Breastfeeding Medicine (2014). Low credibility.
+### Speaking out on safe sleep: evidence-based infant sleep recommendations [^112HHR65]. Breastfeeding Medicine (2014). Low credibility.
 
 The American Academy of Pediatrics (AAP) issued recommendations in 2005 and 2011 to reduce sleep-related infant death, which advise against all bedsharing for sleep. These recommendations overemphasize the risks of bedsharing, and this overemphasis has serious unintended consequences. It may result in increased deaths on sofas as tired parents try to avoid feeding their infants in bed. Current evidence shows that other risks are far more potent, such as smoking, shared sleep on sofas, sleeping next to impaired caregivers, and formula feeding. The emphasis on separate sleep is diverting resources away from addressing these critical risk factors. Recommendations to avoid bedsharing may also interfere with breastfeeding. We examine both the evidence behind the AAP recommendations and the evidence omitted from those recommendations. We conclude that the only evidence-based universal advice to date is that sofas are hazardous places for adults to sleep with infants; that exposure to smoke, both prenatal and postnatal, increases the risk of death; and that sleeping next to an impaired caregiver increases the risk of death. No sleep environment is completely safe. Public health efforts must address the reality that tired parents must feed their infants at night somewhere and that sofas are highly risky places for parents to fall asleep with their infants, especially if parents are smokers or under the influence of alcohol or drugs. All messaging must be crafted and reevaluated to avoid unintended negative consequences, including impact on breastfeeding rates, or falling asleep in more dangerous situations than parental beds. We must realign our resources to focus on the greater risk factors, and that may include greater investment in smoking cessation and doing away with aggressive formula marketing. This includes eliminating conflicts of interest between formula marketing companies and organizations dedicated to the health of children.
 
 ---
 
-### The development of sleep during the first months of life [^b631515d]. Sleep Medicine Reviews (2003). Low credibility.
+### The development of sleep during the first months of life [^115f7K5W]. Sleep Medicine Reviews (2003). Low credibility.
 
 The development of sleep during the first months of life is intriguing from a scientific point of view but is interesting to the clinician as well. This review aims at providing data on sleep in "low-risk" premature neonates, neonates born at term, and infants up to the age of 6 months. The various milestones in clinical and polygraphic features of sleep allow for week-to-week assessment of brain function in normal and sick children.
 
 ---
 
-### Current SIDS research: time to resolve conflicting research hypotheses and collaborate [^89c3420a]. Pediatric Research (2023). Medium credibility.
+### Current SIDS research: time to resolve conflicting research hypotheses and collaborate [^114XEtYH]. Pediatric Research (2023). Medium credibility.
 
 Reappraisal of the popular mainstream SIDS research hypothesis
 
@@ -780,7 +780,7 @@ In a different context, the attribution of sleep position with causality has led
 
 ---
 
-### Survey of maternal sleep practices in late pregnancy in a multi-ethnic sample in south auckland, New Zealand [^7bf078ce]. BMC Pregnancy and Childbirth (2017). Low credibility.
+### Survey of maternal sleep practices in late pregnancy in a multi-ethnic sample in south auckland, New Zealand [^114AkFS5]. BMC Pregnancy and Childbirth (2017). Low credibility.
 
 We asked the 263 non-left side sleepers if it would be possible to modify their going-to-sleep position to their left side if this was of benefit to the baby; most (86.3%) responded that they could change with minimal difficulty (Table 2). Only 5.3% reported that the change would be quite or very difficult. Pillows behind the back (35.3%), between the knees (17.8%), and under the abdomen (11.9%) were considered as potentially helpful aids for over half (59.4%) of the 227 women who reported that change was possible. However, 36 women (13.7% of the non-left side sleepers) reported it would not be possible for them to go to sleep on their left side, even if this was better for the baby; the majority (55.5%) of these women were sleeping on their right side and two (5.6%) reported a supine position.
 
@@ -795,19 +795,19 @@ In the multivariable analysis, four factors were significantly associated with r
 
 ---
 
-### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^6a99fd6f]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: evidence base for 2016 updated recommendations for a safe infant sleeping environment [^113j3Qqc]. Pediatrics (2016). Medium credibility.
 
 Commercial devices — Avoid the use of commercial devices that are inconsistent with safe sleep recommendations. Claims that sleep devices, mattresses, or special sleep surfaces reduce SIDS must therefore be supported by epidemiologic evidence, and at a minimum, any devices used should meet safety standards of the CPSC, the Juvenile Product Manufacturers Association, and ASTM International. The AAP concurs with the US Food and Drug Administration and CPSC that manufacturers should not claim protection against SIDS without scientific evidence. Wedges and positioning devices might increase the risk of suffocation, the CPSC has received reports of deaths attributable to suffocation and entrapment with these devices, and most reported deaths occurred when infants were prone or side positioned or after slipping or rolling. Because of the lack of evidence and potential for suffocation and entrapment risk, the AAP concurs with the CPSC and the US Food and Drug Administration in warning against the use of these products, and if positioning devices are used in the hospital as part of physical therapy, they should be removed from the infant sleep area well before discharge. Although models of air‑permeable mattresses show significantly better aeration and substantially lower temperatures, there is no evidence that rebreathing, per se, causes SIDS and no epidemiologic evidence that these mattresses reduce the risk of SIDS.
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^2edb47ac]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^112CU5t7]. Pediatrics (2016). Medium credibility.
 
 SIDS and other sleep-related infant deaths — research, surveillance, messaging, and investigation directives are as follows: Safe sleep messages should be reviewed, revised, and reissued at least every 5 years to address the next generation of new parents and products on the market. Continue research and surveillance on the risk factors, causes, and pathophysiologic mechanisms of SIDS and other sleep-related infant deaths, with the ultimate goal of eliminating these deaths altogether. Education campaigns need to be evaluated, and innovative intervention methods need to be encouraged and funded. Continued research and improved surveillance on the etiology and pathophysiologic basis of SIDS should be funded. Standardized protocols for death scene investigations, as per Centers for Disease Control and Prevention protocol, should continue to be implemented. Comprehensive autopsies, including full external and internal examination of all major organs and tissues including the brain; complete radiographs; metabolic testing; and toxicology screening should be performed. Training about how to conduct a comprehensive death scene investigation offered to medical examiners, coroners, death scene investigators, first responders, and law enforcement should continue; and resources to maintain training and conduct of these investigations need to be allocated. In addition, child death reviews, with involvement of pediatricians and other primary care providers, should be supported and funded. Improved and widespread surveillance of SIDS and SUID cases should be implemented and funded. Federal and private funding agencies should remain committed to all aspects of the aforementioned research.
 
 ---
 
-### Bed-sharing is a risk for sudden unexpected death in infancy [^f22bd254]. Archives of Disease in Childhood (2023). Medium credibility.
+### Bed-sharing is a risk for sudden unexpected death in infancy [^117C2iuq]. Archives of Disease in Childhood (2023). Medium credibility.
 
 Not learning from a past epidemic
 
@@ -817,7 +817,7 @@ We urge the UK governments' policy to follow the lead of health agencies around 
 
 ---
 
-### A randomised trial of placing preterm infants on their back or left side after birth [^8807778a]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2016). Low credibility.
+### A randomised trial of placing preterm infants on their back or left side after birth [^114Ufpo3]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2016). Low credibility.
 
 Background
 
@@ -845,31 +845,31 @@ ISRCTN74486341.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^20ae2f02]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^111qT7PX]. Pediatrics (2022). High credibility.
 
 Preterm and hospitalized infant safe sleep in the neonatal intensive care unit (NICU) — Hospitalized preterm infants "should be placed supine as soon as clinical status has stabilized and they have achieved positional stability, that is, when therapeutic or nonsupine positioning is no longer medically indicated", and "This milestone is usually achieved by 32 weeks' gestational age as the infant's flexion tone and strength develop". Supine positioning "for every sleep should be modeled in the NICU when infants are medically stable", and the AAP reiterates that "preterm infants should be placed supine for sleeping, just as term infants should, and the parents of preterm infants should be counseled about the importance of supine sleeping in preventing SIDS". It further states that "Hospitalized preterm infants should be kept predominantly in the supine position, at least from the postmenstrual age of 32 weeks onward, so that they become acclimated to supine sleeping before discharge", and that even among preterm infants with GER, "safe sleep approaches, including supine positioning on a flat and firm surface and avoidance of commercial devices designed to maintain head elevation in the crib, should be paramount as a model for parents of infants approaching discharge (ie, infants > 32 weeks' postmenstrual age) from the hospital". The guideline adds that "NICU personnel should endorse safe sleeping guidelines with parents of infants from the time of admission to the NICU", and during the birth hospitalization to "place healthy, newborn infants supine on a flat, noninclined surface for every sleep" and that "skin-to-skin care is recommended for all mothers and newborns, regardless of feeding or delivery method, immediately after birth (as soon as the mother is medically stable, awake, and able to respond to her newborn), and to continue for at least an hour".
 
 ---
 
-### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^1c2e76b3]. Pediatrics (2016). Medium credibility.
+### SIDS and other sleep-related infant deaths: updated 2016 recommendations for a safe infant sleeping environment [^111inG5Q]. Pediatrics (2016). Medium credibility.
 
 Safe sleep environment — use of a firm sleep surface: Infants should be placed on a firm sleep surface (eg, mattress in a safety-approved crib) covered by a fitted sheet with no other bedding or soft objects to reduce the risk of SIDS and suffocation. A firm surface maintains its shape and will not indent or conform to the shape of the infant's head when the infant is placed on the surface.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^7e35d541]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^114E7XG4]. Pediatrics (2022). High credibility.
 
 Infant sleep environment — crib bumpers: "Bumper pads or similar products that attach to crib slats or sides are not recommended because they have been implicated in deaths attributable to suffocation, entrapment/wedging, and strangulation", and "With current safety standards for crib slats, bumper pads and similar products are not necessary for safety against head entrapment or to prevent injury".
 
 ---
 
-### Intermittent hypoxia in supine versus side position in term neonates [^6f24dc8f]. Pediatric Research (2009). Low credibility.
+### Intermittent hypoxia in supine versus side position in term neonates [^113qn1QJ]. Pediatric Research (2009). Low credibility.
 
 Supine sleeping, recommended to prevent sudden infant death, should be started in the delivery hospital, but meets concern that neonates may exhibit more intermittent hypoxia in this position. We aimed to demonstrate that intermittent hypoxia is equally rare in supine and side position. We enrolled 609 term neonates in a crossover study. Pulse oximeter saturation (Spo2) was recorded throughout; feeding periods were excluded. The rate of desaturation events to < 80%/h was the primary study variable. Four hundred seventy-six recordings fulfilled study criteria. Mean duration of recording was 4.8 h in side and 4.9 h in supine position (SD 0.8 for both). There was a mean of 0.11 desaturation events per hour in supine and 0.05 per hour in side position. Of the 118 infants with desaturation events, more had such events only in supine position (64 vs. 31 infants). For supine compared with side position, the adjusted odds ratio for at least one desaturation event was 2.0 (95% confidence interval 1.3–3.1). The lowest Spo2 value reached during these events was 56% in supine and 53% in side position. These neonates had more desaturation events while sleeping supine. We speculate, however, that this positional effect likely is too small to affect outcome.
 
 ---
 
-### Sleep environment risks for younger and older infants [^ecf9aee4]. Pediatrics (2014). Low credibility.
+### Sleep environment risks for younger and older infants [^1174Kwj9]. Pediatrics (2014). Low credibility.
 
 Objective
 
@@ -889,7 +889,7 @@ Risk factors for sleep-related infant deaths may be different for different age 
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^438bcc92]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^112j98PT]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 This feasibility study provides the necessary information to enable the design of a future pragmatic study to enable us to develop a better understanding of the importance of sleep position and SDB for infants with CP. Optimizing and standardizing the recommended sleep position for infants with CP has clear potential health advantages, not least in terms of facial development, cognitive functioning, weight gain, and the avoidance of significant cardiorespiratory complications. Clinical nurse specialists support a future study to enable them to provide guidance to parents based on an evidence base. The qualitative findings about parents' perspectives on SDB and sleep provide practitioners with information about the concerns and perspectives of parents, highlighting the need for better patient information to explain SDB and its potential sequelae.
 
@@ -897,7 +897,7 @@ Health care professionals face a clinical dilemma between adhering to standard "
 
 ---
 
-### Bed-sharing is a risk for sudden unexpected death in infancy [^c3f2d72f]. Archives of Disease in Childhood (2023). Medium credibility.
+### Bed-sharing is a risk for sudden unexpected death in infancy [^1161W9sL]. Archives of Disease in Childhood (2023). Medium credibility.
 
 Breast feeding and bed-sharing
 
@@ -907,13 +907,13 @@ We recognise that many parents choose to take baby into bed to feed (breast or b
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^302e513b]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^112ERxrv]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 It is recognized that infant sleep position can affect SDB. Guidance on sleep positioning in the United Kingdom recommends back positioning (supine-lying) in infancy to reduce the incidence of sudden infant death syndrome (SIDS;). However, it is not understood whether this standard sleep positioning advice should be followed by parents of infants with CP. Our survey of practitioners across the United Kingdom demonstrated variability in recommendations given by cleft lip and palate centers (some recommending supine and some side-lying sleep position) and an acknowledgment that further research is needed in this area to determine best practice. Those cleft centers advising side-lying did so based on clinical experience and perception of improved sleep quality in this position. As a result, there is a gap in evidence about the effectiveness of different sleep positions on SDB in infants with CP. Our feasibility study was undertaken to determine the design of a pragmatic study to investigate the effect of the 2 routinely advised sleep positions in infants with CP on oxygen saturations. This feasibility study included (1) Pilot home sleep monitoring — to assess the feasibility of home sleep monitoring (oxygen saturation and ETCO 2) and to enable sample size calculation for a full trial; (2) Sleep Questionnaire — to establish parents perspective of infant's sleep quality/breathing; and (3) Qualitative interviews with parents of infants with CP — to explore parents' observation of their infant's sleep, including their awareness of SDB, their experience in taking part in the feasibility study, and their feedback on future trial design (Davies et al. 2018).
 
 ---
 
-### The midland and north of england stillbirth study (MiNESS) [^5206a8e3]. BMC Pregnancy and Childbirth (2014). Low credibility.
+### The midland and north of england stillbirth study (MiNESS) [^1136cDrJ]. BMC Pregnancy and Childbirth (2014). Low credibility.
 
 Background
 
@@ -945,7 +945,7 @@ NCT02025530.
 
 ---
 
-### Sleeping patterns of Swedish women experiencing a stillbirth between 2000-2014-an observational study [^173dc4c6]. BMC Pregnancy and Childbirth (2016). Low credibility.
+### Sleeping patterns of Swedish women experiencing a stillbirth between 2000-2014-an observational study [^111bTTqF]. BMC Pregnancy and Childbirth (2016). Low credibility.
 
 Methods
 
@@ -963,13 +963,13 @@ The web-based questionnaire was placed on the homepage of the Swedish National I
 
 ---
 
-### Transition to a safe home sleep environment for the NICU patient [^4e0bdff7]. Pediatrics (2021). High credibility.
+### Transition to a safe home sleep environment for the NICU patient [^112zi2Kg]. Pediatrics (2021). High credibility.
 
 Gastroesophageal reflux (GER) and gastroesophageal reflux disease (GERD) — safe sleep and feeding management in NICU infants emphasizes supine sleep and avoidance of inclined sleeping. Therefore, supine positioning is the preferred safe sleep position for infants with GER or GERD, and GER is extremely common in infants in the NICU. Because of the increased risk of SUID, infants should not have the head of the bed elevated, nor should they be laid down on their side or prone. Term infants can be treated with small, frequent feeds; holding the infant upright after feeding; thickened feeds; elemental formula; and removal of the nasogastric or orogastric tube, when appropriate, and if the mother is providing human milk, elimination of all cow milk protein from her diet may be beneficial. Preterm infants can be treated as above, but care should be taken to avoid commercial thickeners because of the association with necrotizing enterocolitis. Safe sleep is paramount during maturation of the lower esophageal sphincter, and for inclined sleep products proposed changes include limiting the seat back angle for sleep to 10 degrees or less, with study data noting infants could more easily roll from supine to prone in an inclined sleeper, would fatigue faster once prone, and that prone positioning on an inclined sleeper places the infant at higher risk of airway obstruction or suffocation.
 
 ---
 
-### Awareness of infant safe sleep messages and associated care practices: findings from an Australian cohort of families with young infants [^4b488a83]. BMJ Paediatrics Open (2021). High credibility.
+### Awareness of infant safe sleep messages and associated care practices: findings from an Australian cohort of families with young infants [^112vcSMG]. BMJ Paediatrics Open (2021). High credibility.
 
 Relationship between message awareness and practice implementation
 
@@ -985,19 +985,19 @@ Placing baby on their back on a firm, flat surface was correctly identified as t
 
 ---
 
-### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^90d6dc55]. Pediatrics (2022). High credibility.
+### Evidence base for 2022 updated recommendations for a safe infant sleeping environment to reduce the risk of sleep-related infant deaths [^114hjPQQ]. Pediatrics (2022). High credibility.
 
 American Academy of Pediatrics (AAP) safe infant sleep — room sharing versus bed sharing: The AAP continues to recommend room sharing until at least 6 months of age. Bed sharing itself is associated with an increased risk of sudden infant death syndrome (SIDS); a meta-analysis of 11 studies showed a summary OR of 2.88 (95% CI, 1.99 to 4.18). Bed sharing in an adult bed not designed for infant safety exposes infants to additional risks for unintentional injury and death including suffocation, asphyxia, entrapment, falls, and strangulation, and infants younger than 4 months and those born preterm and/or with low birth weight are at highest risk. The presence of separate risk factors can lead to a marked increased risk beyond the baseline risk of bed sharing, and given the high rates of bed sharing these risk factors should be thoughtfully discussed with all parents of neonates and infants, not just those who indicate during health care visits that they are bed sharing.
 
 ---
 
-### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^6472f5c0]. Pediatrics (2022). High credibility.
+### Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment [^113ZvNnK]. Pediatrics (2022). High credibility.
 
 Bed sharing devices, couches/armchairs, and separate sleep surface guidance — There is insufficient evidence to recommend for or against the use of devices promoted to make bed sharing "safe", and at a minimum, to be considered a safe option, any of these devices should adhere to the June 2021 CPSC rule that any infant sleep product must meet existing federal safety standards for cribs, bassinets, play yards, and bedside sleepers; Return infants who are brought into the adult bed for feeding or comforting to their own crib or bassinet when the parent is ready to return to sleep; Couches and armchairs are extremely dangerous places for infants and should never be used for infant sleep, with sleeping on couches and armchairs placing infants at extraordinarily high risk (with 22- to 67-fold increased risk) for infant death; The safest place for a baby to sleep is on a separate sleep surface designed for infants close to the parents' bed, and infants sleeping in a separate room are 2.75 to 11.5 times more likely to die suddenly and unexpectedly than infants who are room sharing without bed sharing, with meta-analyses indicating the risk is almost 3 times higher when all bed-sharing or surface-sharing circumstances are included.
 
 ---
 
-### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^e2f459dd]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Does sleep position influence sleep-disordered breathing in infants with cleft palate: a feasibility study? [^116oUH2k]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 Objective:
 

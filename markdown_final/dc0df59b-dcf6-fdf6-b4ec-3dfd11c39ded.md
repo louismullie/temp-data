@@ -15,27 +15,27 @@ What is this a kit non-social fears
 
 > Let's see… What do we have here? The user is asking what "non-social fears" are and how to define them. Let's break this down step-by-step. First, I need to think about the core definition and how "non-social" contrasts with "social" fears. Then, I should verify examples across anxiety disorders and check for any exceptions. Next, I will consider developmental patterns and epidemiology. After that, I should review neurocognitive and psychophysiological distinctions. Finally, I will synthesize a concise, clinically useful definition and note implications for assessment and treatment, making sure I anchor each point to appropriate sources.
 
-> Let me first confirm the basic contrast: "non-social fears" are fears that are not about social evaluation or interpersonal scrutiny, whereas "social fears" center on being negatively judged, embarrassed, or rejected in social or performance situations. This distinction is explicit in ICD-11's organization of anxiety and fear-related disorders by the focus of apprehension, where social anxiety disorder is defined by fear of social scrutiny and specific phobia by fear of objects or situations unrelated to social evaluation [^3545d45a].
+> Let me first confirm the basic contrast: "non-social fears" are fears that are not about social evaluation or interpersonal scrutiny, whereas "social fears" center on being negatively judged, embarrassed, or rejected in social or performance situations. This distinction is explicit in ICD-11's organization of anxiety and fear-related disorders by the focus of apprehension, where social anxiety disorder is defined by fear of social scrutiny and specific phobia by fear of objects or situations unrelated to social evaluation [^112MyoKo].
 
-> I need to check concrete examples to ensure I'm not overgeneralizing. Non-social fears include fear of heights, animals, blood/injection/injury, enclosed spaces, flying, and contamination, which are classic specific phobias; they also include fear of panic-related bodily sensations in panic disorder and fear of being unable to escape or get help in agoraphobia, none of which require the presence of social evaluation as the core threat, even though social contexts can be involved secondarily [^7abbd1fe] [^0cc636b0].
+> I need to check concrete examples to ensure I'm not overgeneralizing. Non-social fears include fear of heights, animals, blood/injection/injury, enclosed spaces, flying, and contamination, which are classic specific phobias; they also include fear of panic-related bodily sensations in panic disorder and fear of being unable to escape or get help in agoraphobia, none of which require the presence of social evaluation as the core threat, even though social contexts can be involved secondarily [^1148xaR3] [^111KwRts].
 
-> Hold on, let's not jump to conclusions about agoraphobia being "social". I initially thought agoraphobia might be social because crowded places are common triggers, but wait, let me verify the core fear. The defining feature is fear of situations where escape might be difficult or help unavailable if panic or embarrassing symptoms occur, not fear of negative evaluation per se, so agoraphobia remains a non-social fear domain despite frequent social-context triggers [^3545d45a] [^0cc636b0].
+> Hold on, let's not jump to conclusions about agoraphobia being "social". I initially thought agoraphobia might be social because crowded places are common triggers, but wait, let me verify the core fear. The defining feature is fear of situations where escape might be difficult or help unavailable if panic or embarrassing symptoms occur, not fear of negative evaluation per se, so agoraphobia remains a non-social fear domain despite frequent social-context triggers [^112MyoKo] [^111KwRts].
 
-> Next, I should review developmental patterns to see if the social versus non-social divide tracks with age of onset. Specific phobias often begin in childhood and peak in midlife, whereas social anxiety disorder typically emerges in late childhood through adolescence; this timing supports the heuristic that many non-social fears appear earlier and social fears consolidate later, though exceptions exist and comorbidity is common [^7abbd1fe] [^8a3cd4b0].
+> Next, I should review developmental patterns to see if the social versus non-social divide tracks with age of onset. Specific phobias often begin in childhood and peak in midlife, whereas social anxiety disorder typically emerges in late childhood through adolescence; this timing supports the heuristic that many non-social fears appear earlier and social fears consolidate later, though exceptions exist and comorbidity is common [^1148xaR3] [^114XwiyD].
 
-> I will now examine epidemiology to ensure the examples reflect real-world patterns. Large adolescent surveys show high prevalence of specific fears, with blood-injection-injury and animal fears among the most common, and a substantial proportion meeting criteria for specific phobia; this aligns with the notion that non-social fears are prevalent and often underrecognized clinically [^39f9661c].
+> I will now examine epidemiology to ensure the examples reflect real-world patterns. Large adolescent surveys show high prevalence of specific fears, with blood-injection-injury and animal fears among the most common, and a substantial proportion meeting criteria for specific phobia; this aligns with the notion that non-social fears are prevalent and often underrecognized clinically [^112Ux4kB].
 
-> Let me consider neurocognitive and psychophysiological distinctions that might separate social from non-social fear processing. In social anxiety, observational learning and amygdala–prefrontal circuits show heightened responses to socially relevant cues, whereas non-social phobias may engage different threat-evaluation pathways; this helps explain why treatments emphasize different targets, such as fear of negative evaluation in SAD versus conditioned fear extinction in specific phobias [^248a39b5] [^da9ec779].
+> Let me consider neurocognitive and psychophysiological distinctions that might separate social from non-social fear processing. In social anxiety, observational learning and amygdala–prefrontal circuits show heightened responses to socially relevant cues, whereas non-social phobias may engage different threat-evaluation pathways; this helps explain why treatments emphasize different targets, such as fear of negative evaluation in SAD versus conditioned fear extinction in specific phobias [^111wAyzc] [^116b7dhi].
 
-> But wait, what if the fear is "fear of the unknown" or a transdiagnostic process like intolerance of uncertainty? I should double-check that these are not themselves non-social fears. Fear of the unknown is a proposed transdiagnostic mechanism underlying multiple anxiety disorders, both social and non-social, so it is not a category of non-social fear per se, even though it can amplify non-social threat appraisals [^86368ede].
+> But wait, what if the fear is "fear of the unknown" or a transdiagnostic process like intolerance of uncertainty? I should double-check that these are not themselves non-social fears. Fear of the unknown is a proposed transdiagnostic mechanism underlying multiple anxiety disorders, both social and non-social, so it is not a category of non-social fear per se, even though it can amplify non-social threat appraisals [^114Ryfe5].
 
-> I should confirm the clinical implications briefly. Non-social fears are typically assessed with disorder-specific measures and treated with exposure-based strategies tailored to the feared stimulus or situation; for example, in vivo exposure for animals or heights, interoceptive exposure for panic, and situational exposure for agoraphobia, whereas social fears additionally target cognitive distortions around evaluation and often use social skills training or video feedback [^da9ec779] [^0cc636b0].
+> I should confirm the clinical implications briefly. Non-social fears are typically assessed with disorder-specific measures and treated with exposure-based strategies tailored to the feared stimulus or situation; for example, in vivo exposure for animals or heights, interoceptive exposure for panic, and situational exposure for agoraphobia, whereas social fears additionally target cognitive distortions around evaluation and often use social skills training or video feedback [^116b7dhi] [^111KwRts].
 
-> Let me synthesize a precise definition, and I will keep checking it against the sources as I go. Non-social fears are fears whose primary focus of apprehension is not social evaluation or interpersonal scrutiny; they include fears of specific objects or situations (e.g., animals, heights, blood/injection, enclosed spaces, contamination), fear of panic-related bodily sensations, and fear of situations where escape is difficult or help unavailable, and they are distinct from social anxiety disorder, which is defined by fear of negative evaluation in social or performance contexts [^3545d45a] [^7abbd1fe] [^b3e434db].
+> Let me synthesize a precise definition, and I will keep checking it against the sources as I go. Non-social fears are fears whose primary focus of apprehension is not social evaluation or interpersonal scrutiny; they include fears of specific objects or situations (e.g., animals, heights, blood/injection, enclosed spaces, contamination), fear of panic-related bodily sensations, and fear of situations where escape is difficult or help unavailable, and they are distinct from social anxiety disorder, which is defined by fear of negative evaluation in social or performance contexts [^112MyoKo] [^1148xaR3] [^115bhSGJ].
 
 ---
 
-Non-social fears are **fears of objects or situations** that do not involve social evaluation or interaction, such as heights, animals, blood, enclosed spaces, or natural disasters [^3545d45a] [^7abbd1fe]. They are typically classified as **specific phobias** and are distinct from social fears, which concern being judged or embarrassed in social settings [^3545d45a]. Non-social fears are common, often begin in childhood, and can cause significant distress and avoidance, but they are highly treatable with exposure-based therapies and, when needed, medication [^7abbd1fe] [^b3e434db].
+Non-social fears are **fears of objects or situations** that do not involve social evaluation or interaction, such as heights, animals, blood, enclosed spaces, or natural disasters [^112MyoKo] [^1148xaR3]. They are typically classified as **specific phobias** and are distinct from social fears, which concern being judged or embarrassed in social settings [^112MyoKo]. Non-social fears are common, often begin in childhood, and can cause significant distress and avoidance, but they are highly treatable with exposure-based therapies and, when needed, medication [^1148xaR3] [^115bhSGJ].
 
 ---
 
@@ -43,13 +43,13 @@ Non-social fears are **fears of objects or situations** that do not involve soci
 
 Non-social fears are defined by the following **characteristics**:
 
-- **Focus of fear**: The fear is directed at specific objects or situations (e.g. heights, animals, blood, enclosed spaces, natural disasters) rather than social interactions or evaluation [^3545d45a].
+- **Focus of fear**: The fear is directed at specific objects or situations (e.g. heights, animals, blood, enclosed spaces, natural disasters) rather than social interactions or evaluation [^112MyoKo].
 
-- **Absence of social evaluation**: These fears do not involve concern about being judged, embarrassed, or negatively evaluated by others [^3545d45a].
+- **Absence of social evaluation**: These fears do not involve concern about being judged, embarrassed, or negatively evaluated by others [^112MyoKo].
 
-- **Physiological response**: Non-social fears often trigger intense physiological arousal, such as increased heart rate, sweating, and hyperventilation [^b3e434db].
+- **Physiological response**: Non-social fears often trigger intense physiological arousal, such as increased heart rate, sweating, and hyperventilation [^115bhSGJ].
 
-- **Avoidance behavior**: Individuals typically avoid the feared object or situation, which can significantly impair daily functioning [^7abbd1fe].
+- **Avoidance behavior**: Individuals typically avoid the feared object or situation, which can significantly impair daily functioning [^1148xaR3].
 
 ---
 
@@ -59,10 +59,10 @@ Common examples of **non-social fears** include:
 
 | **Category** | **Examples** |
 |-|-|
-| Animals | - Dogs <br/> - Cats <br/> - Snakes <br/> - Spiders <br/> - Birds [^7abbd1fe] |
-| Natural environment | - Heights <br/> - Water <br/> - Storms <br/> - Thunder <br/> - Lightning [^7abbd1fe] |
-| Blood-injection-injury | - Needles <br/> - Blood <br/> - Medical procedures <br/> - Injuries [^7abbd1fe] |
-| Situational | - Enclosed spaces (claustrophobia) <br/> - Flying <br/> - Elevators <br/> - Driving [^7abbd1fe] |
+| Animals | - Dogs <br/> - Cats <br/> - Snakes <br/> - Spiders <br/> - Birds [^1148xaR3] |
+| Natural environment | - Heights <br/> - Water <br/> - Storms <br/> - Thunder <br/> - Lightning [^1148xaR3] |
+| Blood-injection-injury | - Needles <br/> - Blood <br/> - Medical procedures <br/> - Injuries [^1148xaR3] |
+| Situational | - Enclosed spaces (claustrophobia) <br/> - Flying <br/> - Elevators <br/> - Driving [^1148xaR3] |
 
 ---
 
@@ -70,9 +70,9 @@ Common examples of **non-social fears** include:
 
 Non-social fears are underpinned by **complex psychological and physiological mechanisms**:
 
-- **Classical conditioning**: Fear responses can be learned through associative learning, where a neutral stimulus becomes associated with a fearful event [^1a46d441].
+- **Classical conditioning**: Fear responses can be learned through associative learning, where a neutral stimulus becomes associated with a fearful event [^111fxUBz].
 
-- **Cognitive biases**: Individuals with non-social fears often exhibit cognitive biases, such as overestimating the danger associated with the feared object or situation [^2808d3f5].
+- **Cognitive biases**: Individuals with non-social fears often exhibit cognitive biases, such as overestimating the danger associated with the feared object or situation [^1122MUFn].
 
 - **Neurobiological factors**: Fear responses involve activation of the amygdala, hypothalamus, and autonomic nervous system, leading to physiological arousal and avoidance behaviors [^notfound].
 
@@ -80,7 +80,7 @@ Non-social fears are underpinned by **complex psychological and physiological me
 
 ## Impact on daily life and functioning
 
-Non-social fears can significantly **impact daily life and functioning** by causing avoidance of everyday activities (e.g. avoiding heights, flying, or medical procedures), impairing occupational performance (e.g. limiting career choices or causing absenteeism), and straining social relationships due to embarrassment or frustration. They also contribute to emotional distress, including anxiety, depression, and reduced quality of life [^7abbd1fe].
+Non-social fears can significantly **impact daily life and functioning** by causing avoidance of everyday activities (e.g. avoiding heights, flying, or medical procedures), impairing occupational performance (e.g. limiting career choices or causing absenteeism), and straining social relationships due to embarrassment or frustration. They also contribute to emotional distress, including anxiety, depression, and reduced quality of life [^1148xaR3].
 
 ---
 
@@ -88,11 +88,11 @@ Non-social fears can significantly **impact daily life and functioning** by caus
 
 Effective treatments for non-social fears include:
 
-- **Exposure therapy**: Gradual exposure to the feared object or situation is the most effective treatment, reducing fear and avoidance behaviors [^7abbd1fe].
+- **Exposure therapy**: Gradual exposure to the feared object or situation is the most effective treatment, reducing fear and avoidance behaviors [^1148xaR3].
 
-- **Cognitive-behavioral therapy (CBT)**: CBT helps individuals identify and challenge irrational beliefs and cognitive biases associated with their fears [^19778a04].
+- **Cognitive-behavioral therapy (CBT)**: CBT helps individuals identify and challenge irrational beliefs and cognitive biases associated with their fears [^111ekqrb].
 
-- **Pharmacotherapy**: Medications such as selective serotonin reuptake inhibitors (SSRIs) and benzodiazepines may be used in severe cases or when anxiety symptoms are significant [^b3e434db].
+- **Pharmacotherapy**: Medications such as selective serotonin reuptake inhibitors (SSRIs) and benzodiazepines may be used in severe cases or when anxiety symptoms are significant [^115bhSGJ].
 
 ---
 
@@ -109,31 +109,31 @@ Non-social fears differ from social fears in several **key ways**:
 
 ---
 
-Non-social fears are **fears of objects or situations** that do not involve social evaluation, causing significant distress and impairment. They are highly treatable with exposure-based therapies and, when needed, medication, allowing individuals to regain functioning and quality of life [^7abbd1fe] [^b3e434db].
+Non-social fears are **fears of objects or situations** that do not involve social evaluation, causing significant distress and impairment. They are highly treatable with exposure-based therapies and, when needed, medication, allowing individuals to regain functioning and quality of life [^1148xaR3] [^115bhSGJ].
 
 ---
 
 ## References
 
-### Social phobia: an update on treatment [^e33e89f3]. The Psychiatric Clinics of North America (2009). Low credibility.
+### Social phobia: an update on treatment [^116ouCKt]. The Psychiatric Clinics of North America (2009). Low credibility.
 
 Social phobia is a prevalent anxiety disorder that may be treated with pharmacotherapy, psychotherapy, or both. This article reviews the empirical evidence for these interventions and discusses new treatment developments. Active ingredients and mechanisms involved in the effectiveness of treatment are discussed. In addition, the elements of social phobia and its treatment that are similar to other anxiety and non-anxiety disorders are considered. Finally, it discusses future efforts to improve diagnosis and treatment for social phobia, including possible revisions to the diagnostic criteria that might be considered in the forthcoming fifth edition of the Diagnostic and Statistical Manual of Mental Disorders, as well as routine care and obstacles for dissemination.
 
 ---
 
-### What explains the failure to identify replicable moderators of symptom change in social anxiety disorder? [^700bb09a]. Journal of Anxiety Disorders (2023). Medium credibility.
+### What explains the failure to identify replicable moderators of symptom change in social anxiety disorder? [^113s7YJM]. Journal of Anxiety Disorders (2023). Medium credibility.
 
 Trials of cognitive behaviour therapy (CBT) for social anxiety disorder (SAD) have struggled to identify replicable moderators of treatment outcome. This could be due to a genuine lack of effects, or a spurious finding caused by methodological factors such as inadequate testing of theory-driven moderators, use of small homogenous samples, failure to model non-linear relationships, and over-reliance on significance testing. We probed explanations for the field's failure to detect moderators by testing whether 15 theory-driven and atheoretical variables moderated treatment outcome in a large heterogeneous sample treated with group CBT for SAD. Moderation was not assessed by only using p-values for linear models, but also by considering effect sizes, plots, and non-linear relationships. Despite using a comprehensive approach to assess moderation, only two variables - the baseline severity of SAD symptoms and fear of negative evaluation (FNE) - were found to moderate social anxiety symptom trajectories. FNE had a non-linear relationship with symptom change that would have been missed using common research methods. Our findings suggest both a genuine lack of effects and limitations of research methods have contributed to the field's inability to identify moderators. We provide suggestions that may increase the likelihood of future researchers detecting genuine effects.
 
 ---
 
-### Reconsolidation-based treatment for fear of public speaking: a systematic pilot study using propranolol [^73cc61b7]. Translational Psychiatry (2020). Medium credibility.
+### Reconsolidation-based treatment for fear of public speaking: a systematic pilot study using propranolol [^113xgE5t]. Translational Psychiatry (2020). Medium credibility.
 
 In conclusion, this systematic pilot study did not achieve reconsolidation-like effects for public speaking anxiety. Consideration of why this was unsuccessful can be instructive. Although we suggest that alternative means of reactivating participants' social-evaluative fears could prove more fruitful, it remains possible that such anxiety disorders are not amenable to pharmacological reconsolidation-based procedures. The outcomes of placebo participants in this study also emphasise the importance of including control participants in studies of reconsolidation-based interventions, as it cannot be assumed that non-specific changes in clinically relevant measures will not occur even with very short interventions. Finally, our findings highlight that despite the great promise of reconsolidation-based interventions, clinical translation is highly complex.
 
 ---
 
-### Social fears and social phobia in the USA: results from the national comorbidity survey replication [^6d68e3e8]. Psychological Medicine (2008). Low credibility.
+### Social fears and social phobia in the USA: results from the national comorbidity survey replication [^113oCt9M]. Psychological Medicine (2008). Low credibility.
 
 Background
 
@@ -153,13 +153,13 @@ Social phobia is a common, under-treated disorder that leads to significant func
 
 ---
 
-### Fear of the unknown: one fear to rule them all? [^86368ede]. Journal of Anxiety Disorders (2016). Low credibility.
+### Fear of the unknown: one fear to rule them all? [^114Ryfe5]. Journal of Anxiety Disorders (2016). Low credibility.
 
 The current review and synthesis was designed to provocatively develop and evaluate the proposition that "fear of the unknown may be a, or possibly the, fundamental fear" (Carleton, 2016) underlying anxiety and therein neuroticism. Identifying fundamental transdiagnostic elements is a priority for clinical theory and practice. Historical criteria for identifying fundamental components of anxiety are described and revised criteria are offered. The revised criteria are based on logical rhetorical arguments using a constituent reductionist postpositivist approach supported by the available empirical data. The revised criteria are then used to assess several fears posited as fundamental, including fear of the unknown. The review and synthesis concludes with brief recommendations for future theoretical discourse as well as clinical and non-clinical research.
 
 ---
 
-### Subtyping social anxiety disorder in developed and developing countries [^0cdf2f6e]. Depression and Anxiety (2010). Low credibility.
+### Subtyping social anxiety disorder in developed and developing countries [^111L5pP7]. Depression and Anxiety (2010). Low credibility.
 
 Background
 
@@ -179,7 +179,7 @@ No evidence is found to support subtyping SAD on the basis of either number of s
 
 ---
 
-### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^4cee436a]. Translational Psychiatry (2021). Medium credibility.
+### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^112y46AM]. Translational Psychiatry (2021). Medium credibility.
 
 Fear
 
@@ -189,19 +189,19 @@ The post-hoc observation that testosterone administration had resulted in steepe
 
 ---
 
-### Novel treatment approaches for refractory anxiety disorders [^5967187f]. Depression and Anxiety (2008). Low credibility.
+### Novel treatment approaches for refractory anxiety disorders [^113HYXYi]. Depression and Anxiety (2008). Low credibility.
 
 The Anxiety Disorders Association of America convened a conference of experts to address treatment-resistant anxiety disorders and review promising novel approaches to the treatment of refractory anxiety disorders. Workgroup leaders and other participants reviewed the literature and considered the presentations and discussions from the conference. Authors placed the emerging literature on new therapeutic approaches into clinical perspective and identified unmet needs and priority areas for future research. There is a relative paucity of efforts addressing inadequate response to anxiety disorder treatment. Systematic efforts to exhaust all therapeutic options and overcome barriers to effective treatment delivery are needed before patients can be considered treatment refractory. Cognitive behavioral therapy, especially in combination with pharmacotherapy, must be tailored to accommodate the effects of clinical context on treatment response. The literature on pharmacologic treatment of refractory anxiety disorders is small but growing and includes studies of augmentation strategies and non-traditional anxiolytics. Research efforts to discover new pharmacologic targets are focusing on neuronal systems that mediate responses to stress and fear. A number of clinical and basic science studies were proposed that would advance the research agenda and improve treatment of patients with anxiety disorders. Significant advances have been made in the development of psychotherapeutic and pharmacologic treatments for anxiety disorders. Unfortunately, many patients remain symptomatic and functionally impaired. Progress in the development of new treatments has great promise, but will only succeed through a concerted research effort that systematically evaluates potential areas of importance and properly uses scarce resources.
 
 ---
 
-### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^41e43847]. Translational Psychiatry (2021). Medium credibility.
+### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^112ggrQ6]. Translational Psychiatry (2021). Medium credibility.
 
 Individuals with a social anxiety disorder (SAD) show hypofunctioning of the hypothalamus-pituitary-gonadal (HPG) axis, which is linked to social fear and avoidance behavior. As testosterone administration has been shown to facilitate social-approach behavior in this population, it may enhance the effectiveness of exposure treatment. In this proof-of-concept study, we performed a randomized clinical assay in which 55 women diagnosed with SAD received two exposure therapy sessions. Session 1 was supplemented with either testosterone (0.50mg) or placebo. Next, transfer effects of testosterone augmentation on within-session subjective fear responses and SAD symptom severity were assessed during a second, unenhanced exposure session (session 2) and at a 1-month follow-up, respectively. The participants having received testosterone showed a more reactive fear pattern, with higher peaks and steeper reductions in fear levels in session 2. Post-hoc exploration of moderating effects of endogenous testosterone levels, revealed that this pattern was specific for women with high basal testosterone, both in the augmented and in the transfer session. In contrast, the participants with low endogenous testosterone showed reduced peak fear levels throughout session 1, again with transfer to the unenhanced session. Testosterone did not significantly affect self-reported anxiety. The effects of testosterone supplementation on fear levels show transfer to non-enhanced exposure, with effects being modulated by endogenous testosterone. These first preliminary results indicate that testosterone may act on important fear mechanisms during exposure, providing the empirical groundwork for further exploration of multi-session testosterone-enhanced exposure treatment for SAD.
 
 ---
 
-### Is there a difference in fear-avoidance, beliefs, anxiety and depression between post-surgery and non-surgical persistent spinal pain syndrome patients? [^2123630e]. Journal of Pain Research (2022). Medium credibility.
+### Is there a difference in fear-avoidance, beliefs, anxiety and depression between post-surgery and non-surgical persistent spinal pain syndrome patients? [^111r8UhB]. Journal of Pain Research (2022). Medium credibility.
 
 Discussion
 
@@ -213,13 +213,13 @@ Studies in patients with CLBP support the conceptual framework of the fear-avoid
 
 ---
 
-### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^0338e6bc]. Translational Psychiatry (2021). Medium credibility.
+### The enhancing effects of testosterone in exposure treatment for social anxiety disorder: a randomized proof-of-concept trial [^1115n5Nb]. Translational Psychiatry (2021). Medium credibility.
 
 Individuals with a social anxiety disorder (SAD) show hypofunctioning of the hypothalamus–pituitary-gonadal (HPG) axis, which is linked to social fear and avoidance behavior. As testosterone administration has been shown to facilitate social-approach behavior in this population, it may enhance the effectiveness of exposure treatment. In this proof-of-concept study, we performed a randomized clinical assay in which 55 women diagnosed with SAD received two exposure therapy sessions. Session 1 was supplemented with either testosterone (0.50 mg) or placebo. Next, transfer effects of testosterone augmentation on within-session subjective fear responses and SAD symptom severity were assessed during a second, unenhanced exposure session (session 2) and at a 1-month follow-up, respectively. The participants having received testosterone showed a more reactive fear pattern, with higher peaks and steeper reductions in fear levels in session 2. Post-hoc exploration of moderating effects of endogenous testosterone levels, revealed that this pattern was specific for women with high basal testosterone, both in the augmented and in the transfer session. In contrast, the participants with low endogenous testosterone showed reduced peak fear levels throughout session 1, again with transfer to the unenhanced session. Testosterone did not significantly affect self-reported anxiety. The effects of testosterone supplementation on fear levels show transfer to non-enhanced exposure, with effects being modulated by endogenous testosterone. These first preliminary results indicate that testosterone may act on important fear mechanisms during exposure, providing the empirical groundwork for further exploration of multi-session testosterone-enhanced exposure treatment for SAD.
 
 ---
 
-### Clinical features and genetic mechanisms of anxiety, fear, and avoidance: a comprehensive review of five anxiety disorders [^da9ec779]. Molecular Psychiatry (2025). Medium credibility.
+### Clinical features and genetic mechanisms of anxiety, fear, and avoidance: a comprehensive review of five anxiety disorders [^116b7dhi]. Molecular Psychiatry (2025). Medium credibility.
 
 Treatment implications by anxiety groups
 
@@ -231,31 +231,31 @@ In the mixed group (PD, SAD), CBT is the preferred treatment. It focuses on both
 
 ---
 
-### Prognostic factors for perceived recovery or functional improvement in non-specific low back pain: secondary analyses of three randomized clinical trials [^f1ff3353]. European Spine Journal (2010). Low credibility.
+### Prognostic factors for perceived recovery or functional improvement in non-specific low back pain: secondary analyses of three randomized clinical trials [^117Bmjd4]. European Spine Journal (2010). Low credibility.
 
 The objective of this study was to report on secondary analyses of a merged trial dataset aimed at exploring the potential importance of patient factors associated with clinically relevant improvements in non-acute, non-specific low back pain (LBP). From 273 predominantly male army workers (mean age 39 ± 10.5 years, range 20–56 years, 4 women) with LBP who were recruited in three randomized clinical trials, baseline individual patient factors, pain-related factors, work-related psychosocial factors, and psychological factors were evaluated as potential prognostic variables in a short-term (post-treatment) and a long-term logistic regression model (6 months after treatment). We found one dominant prognostic factor for improvement directly after treatment as well as 6 months later: baseline functional disability, expressed in Roland–Morris Disability Questionnaire scores. Baseline fear of movement, expressed in Tampa Scale for Kinesiophobia scores, had also significant prognostic value for long-term improvement. Less strongly associated with the outcome, but also included in our final models, were supervisor social support and duration of complaints (short-term model), and co-worker social support and pain radiation (long-term model). Information about initial levels of functional disability and fear-avoidance behaviour can be of value in the treatment of patient populations with characteristics comparable to the current army study population (e.g. predominantly male, physically active, working, moderate but chronic back problems). Individuals at risk for poor long-term LBP recovery, i.e. individuals with high initial level of disability and prominent fear-avoidance behaviour, can be distinguished that may need additional cognitive-behavioural treatment.
 
 ---
 
-### A randomized controlled trial of the effect of D-cycloserine on exposure therapy for spider fear [^cf74f2ca]. Journal of Psychiatric Research (2007). Low credibility.
+### A randomized controlled trial of the effect of D-cycloserine on exposure therapy for spider fear [^116JZig1]. Journal of Psychiatric Research (2007). Low credibility.
 
 Previous research [Hofmann SG, Meuret AE, Smits JA, Simon NM, Pollack MH, Eisenmenger K, et al. Augmentation of exposure therapy for social anxiety disorder with D-cycloserine. Archives of General Psychiatry 2006;63:298–304; Ressler KJ, Rothbaum BO, Tannenbaum L, Anderson P, Graap K, Zimand E, et al. Cognitive enhancers as adjuncts to psychotherapy: use of d-cycloserine in phobic individuals to facilitate extinction of fear. Archives of General Psychiatry 2004;61:1136–44] suggests that d-cycloserine (DCS) facilitates the reduction of clinical fear in humans. We used a well established intervention to evaluate the effectiveness of administering DCS as an adjunct to exposure therapy in a heightened, but sub-clinical, fear population. Over two studies, 100 spider-fearful participants were allocated to DCS or placebo before treatment and were assessed at pre-, immediate post-, and 3.5 weeks post-treatment. Significant treatment effects and return of fear was observed at follow-up, particularly in non-treatment contexts; however, both studies failed to demonstrate any enhancing effects of DCS (50 or 500 mg). DCS did not enhance the reduction of spider fears or the generalisation of treatment of a single session of exposure-based therapy. These results suggest that DCS may not enhance loss of non-clinical levels of fear in human populations.
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^993823fa]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^114v9xph]. Kidney International (2025). High credibility.
 
 Autosomal dominant polycystic kidney disease (ADPKD) psychosocial manifestations, screening, and approaches are outlined as follows: manifestations in patients include depression, anxiety, chronic pain, insomnia, fear, worry, anger, frustration, and confusion, with family members experiencing caregiver stress, loss of family members, distress in family relationship, genetic discrimination, and socio-economic burden, while affected relatives have fear of inheritance and non-affected relatives face organ donation obligation; evaluation includes outpatient screening tools for patient-reported outcome measures (PROMs); and approaches include multidisciplinary team approach, healthy lifestyle recommendations with positive messages, psychological interventions: pharmacologic, non-pharmacologic, patient education, structured self-management program, alleviate uncertainty, and social support with connections to providers of socio-financial support and to ADPKD or patient support groups.
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^c2c81c19]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the evaluation, management, and treatment of autosomal dominant polycystic kidney disease (ADPKD) [^115ymp88]. Kidney International (2025). High credibility.
 
 Psychosocial manifestations, screening, and approach in autosomal dominant polycystic kidney disease (ADPKD) encompass patient symptoms (depression, anxiety, chronic pain, insomnia, fear/worry/anger/frustration, confusion) and family burdens (caregiver stress, genetic discrimination, socio-economic burden, fear of inheritance, organ donation obligation); evaluation includes outpatient screening tools for patient-reported outcome measures (PROMs); and care emphasizes a multidisciplinary team approach with healthy lifestyle recommendations, psychological interventions (pharmacologic and non-pharmacologic), patient education with structured self-management to alleviate uncertainty, and social support linking to socio-financial services and ADPKD or patient support groups.
 
 ---
 
-### Anxiety disorders: a review [^b3e434db]. JAMA (2022). Excellent credibility.
+### Anxiety disorders: a review [^115bhSGJ]. JAMA (2022). Excellent credibility.
 
 Importance
 
@@ -271,7 +271,7 @@ Anxiety disorders affect approximately 34% of adults during their lifetime in th
 
 ---
 
-### Reconsolidation-based treatment for fear of public speaking: a systematic pilot study using propranolol [^b3fe38f1]. Translational Psychiatry (2020). Medium credibility.
+### Reconsolidation-based treatment for fear of public speaking: a systematic pilot study using propranolol [^115brB6Y]. Translational Psychiatry (2020). Medium credibility.
 
 However, we remain largely ignorant of the parameters causing successful reconsolidation-based interventions for naturalistic and clinical fears. Prediction error can be easily operationalised in experimental studies where learning and reactivation are precisely controlled, but not in naturalistic fears. People with specific fears can express a wide range of expectations related to their fear, and it is not clear which — if any — should be focused on in an intervention. Nevertheless, our findings do suggest that merely provoking social-evaluative anxiety in individuals with fear of public speaking is unlikely to be sufficient for inducing reconsolidation.
 
@@ -279,13 +279,13 @@ Though we have focused on the idea that the current means of fear memory reactiv
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^079d657e]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^111CHnJZ]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 Evaluation and diagnostic criteria — Clinically significant anxiety must be distinguished from everyday worries and fears that are common and normative in specific developmental stages, and in DSM-5 mental disorders are defined as "a syndrome characterized by clinically significant disturbance in an individual's cognition, emotion regulation, or behavior that reflects a dysfunction in the psychological, biological, or developmental processes underlying mental functioning". By DSM convention, a mental disorder is diagnosed if all or a threshold of diagnostic criteria for the given disorder are met, and included in most diagnostic criteria sets is the requirement for a specific frequency and duration of symptoms as well as clinically significant distress and functional impairment, along with the caveat that alternative mental, medical, and substance-related explanations for the symptom presentation must have been ruled out before the diagnosis is applied.
 
 ---
 
-### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^f3c1737d]. Depression and Anxiety (2025). Medium credibility.
+### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^117ENyDE]. Depression and Anxiety (2025). Medium credibility.
 
 2.3. Therapists
 
@@ -309,13 +309,13 @@ The BSQ includes 17 body sensations typically associated with autonomic arousal.
 
 ---
 
-### The classification of anxiety and fear-related disorders in the ICD-11 [^3545d45a]. Depression and Anxiety (2016). Low credibility.
+### The classification of anxiety and fear-related disorders in the ICD-11 [^112MyoKo]. Depression and Anxiety (2016). Low credibility.
 
 Anxiety disorders are highly prevalent worldwide and engender substantial economic costs and disability. The World Health Organization is currently developing the Eleventh Revision of the International Classification of Diseases and Related Health Problems (ICD-11), which represents the first opportunity to improve the validity, clinical utility, and global applicability of the classification in more than 25 years. This article describes changes in the organization and diagnostic guidelines for anxiety and fear-related disorders proposed by the ICD-11 Working Group on the Classification of Mood and Anxiety Disorders and the rationale and evidence base for the proposals. In ICD-11, anxiety and fear-related disorders that manifest across the lifespan are brought together under a new grouping, and are partly distinguished by their focus of apprehension. The focus of apprehension is the stimulus or situation that triggers the fear or anxiety and may be highly specific as in specific phobia or relate to a broader class of situations as in social anxiety disorder. The guidelines also clarify the relationship between panic disorder and agoraphobia and a qualifier is provided for panic attacks in the context of other disorders. A standardized format emphasizing essential features of anxiety disorders is intended to improve clinical utility. Guidelines will be further refined based on findings from two types of field studies: those using a case-controlled vignette methodology disseminated via the Internet to practitioners worldwide (http://gcp.network) and clinic-based field trials implemented globally at participating field study centers.
 
 ---
 
-### Cannabinoid regulation of fear and anxiety: an update [^652e00bd]. Current Psychiatry Reports (2019). Medium credibility.
+### Cannabinoid regulation of fear and anxiety: an update [^113b1Cfv]. Current Psychiatry Reports (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -327,13 +327,13 @@ Evidence from preclinical studies has shown that the non-psychotropic phytocanna
 
 ---
 
-### Specific phobias [^7abbd1fe]. The Lancet: Psychiatry (2018). Medium credibility.
+### Specific phobias [^1148xaR3]. The Lancet: Psychiatry (2018). Medium credibility.
 
 Anxiety disorders are among the most prevalent mental disorders, but the subcategory of specific phobias has not been well studied. Phobias involve both fear and avoidance. For people who have specific phobias, avoidance can reduce the constancy and severity of distress and impairment. However, these phobias are important because of their early onset and strong persistence over time. Studies indicate that the lifetime prevalence of specific phobias around the world ranges from 3% to 15%, with fears and phobias concerning heights and animals being the most common. The developmental course of phobias, which progress from fear to avoidance and then to diagnosis, suggests the possibility that interrupting the course of phobias could reduce their prevalence. Although specific phobias often begin in childhood, their incidence peaks during midlife and old age. Phobias persist for several years or even decades in 10–30% of cases, and are strongly predictive of onset of other anxiety, mood, and substance-use disorders. Their high comorbidity with other mental disorders, especially after onset of the phobia, suggests that early treatment of phobias could also alter the risk of other disorders. Exposure therapy remains the treatment of choice, although this approach might be less effective in the long term than previously believed. This Review discusses the literature regarding the prevalence, incidence, course, risk factors, and treatment of specific phobias, and presents epidemiological data from several population-based surveys.
 
 ---
 
-### Paroxetine hydrochloride anhydrous [^6e95f9ec]. FDA (2015). Low credibility.
+### Paroxetine hydrochloride anhydrous [^113px1mm]. FDA (2015). Low credibility.
 
 Social Anxiety Disorder
 
@@ -345,13 +345,13 @@ The effectiveness of paroxetine in long-term treatment of social anxiety disorde
 
 ---
 
-### Non-invasive and minimally invasive management of low back disorders [^58a05426]. Journal of Occupational and Environmental Medicine (2020). High credibility.
+### Non-invasive and minimally invasive management of low back disorders [^113GPmFj]. Journal of Occupational and Environmental Medicine (2020). High credibility.
 
 Non-invasive clinical treatment recommendations — activity levels, exercise, and directional preference exercises should be addressed; nonprescription analgesics may provide sufficient pain relief for most patients with acute and subacute low back pain (LBP), and if the treatment response is inadequate or limitations are more significant, prescribed pharmaceuticals and/or physical methods can be added. Initial care may include exercise, advice on activities, non-steroidal anti-inflammatory drugs (NSAIDs), acetaminophen, heat, cryotherapy, and manipulation; education about LBP should begin at the first visit, and fear avoidance belief training (FABT) is for those with fear avoidance beliefs. Comorbid conditions, invasiveness, adverse effects, cost, and provider and patient preferences help guide recommendations, and throughout treatment phases, any given treatment should be assessed for efficacy and ineffective treatments should be discontinued rather than accumulated. Chronically impaired LBP patients are believed to begin a course towards disability at, or before, their first clinical encounter; those who respond to appropriate treatment should have their treatment, compliance, and psychosocial factors assessed early, and courses beyond a provider's abilities should be referred. The literature largely lacks specification of clear inclusionary and exclusionary criteria for radicular symptoms; most trials do not report lower extremity symptoms or clarify "leg pain", and only a minority reported stratified analyses to detect if such patients responded differently.
 
 ---
 
-### Multidrug-resistant tuberculosis treatment adherence in migrants: a systematic review and meta-analysis [^cf790c9f]. BMC Medicine (2018). Low credibility.
+### Multidrug-resistant tuberculosis treatment adherence in migrants: a systematic review and meta-analysis [^116Jb6Zk]. BMC Medicine (2018). Low credibility.
 
 Discussion
 
@@ -363,7 +363,7 @@ Social risk factors, for example social deprivation, vulnerable housing, mental 
 
 ---
 
-### Over the edge: extending the duration of a reconsolidation intervention for spider fear [^1ba4cd74]. Translational Psychiatry (2022). Medium credibility.
+### Over the edge: extending the duration of a reconsolidation intervention for spider fear [^111hz2Dq]. Translational Psychiatry (2022). Medium credibility.
 
 Introduction
 
@@ -371,7 +371,7 @@ Fear is highly adaptive: it guides our behaviour, protecting us from danger. How
 
 ---
 
-### An investigation of whether patients with post-traumatic stress disorder overestimate the probability and cost of future negative events [^2808d3f5]. Journal of Anxiety Disorders (2008). Low credibility.
+### An investigation of whether patients with post-traumatic stress disorder overestimate the probability and cost of future negative events [^1122MUFn]. Journal of Anxiety Disorders (2008). Low credibility.
 
 1.1 Estimations of probability and cost
 
@@ -385,31 +385,31 @@ The current study has two key aims: first, to investigate whether adults with PT
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^56551fbc]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^113CzXas]. The Spine Journal (2020). High credibility.
 
 Medical & psychological treatment — acute low back pain (LBP) with fear-avoidance beliefs: In a trial using intention-to-treat analysis, disability and pain intensity improved in both groups, with fear-avoidance beliefs significantly improved in the fear-avoidance therapy group and lower than standard therapy at both follow-ups; the work group downgraded the study, concluding it provides Level II evidence that fear-avoidance–based physical therapy can improve outcomes more than standard physical therapy for acute LBP when baseline fear-avoidance is elevated. Assessments included the Oswestry Disability Questionnaire (ODQ; pain intensity on a scale from 0 to 10) and the Fear-Avoidance Beliefs Questionnaire (FABQ).
 
 ---
 
-### Enhancing exposure therapy for anxiety disorders with glucocorticoids: from basic mechanisms of emotional learning to clinical applications [^1a46d441]. Journal of Anxiety Disorders (2010). Low credibility.
+### Enhancing exposure therapy for anxiety disorders with glucocorticoids: from basic mechanisms of emotional learning to clinical applications [^111fxUBz]. Journal of Anxiety Disorders (2010). Low credibility.
 
 Current neurophysiological and psychological accounts view exposure therapy as the clinical analog of extinction learning that results in persistent modifications of the fear memory involved in the pathogenesis, symptomatology, and maintenance of anxiety disorders. Evidence from studies in animals and humans indicate that glucocorticoids have the potential to facilitate the processes that underlie extinction learning during exposure therapy. Particularly, glucocorticoids can restrict retrieval of previous aversive learning episodes and enhance consolidation of memory traces relating to non-fearful responding in feared situations. Thus, glucocorticoid treatment especially in combination with exposure therapy might be a promising approach to optimize treatment of anxiety disorders. This review examines the processes involved in aversive conditioning, fear learning and fear extinction, and how glucocorticoids might enhance restructuring of fear memories during therapy.
 
 ---
 
-### Specific phobia [^4d4f77af]. Child and Adolescent Psychiatric Clinics of North America (2005). Low credibility.
+### Specific phobia [^112ycjrN]. Child and Adolescent Psychiatric Clinics of North America (2005). Low credibility.
 
 This article describes specific phobia of childhood and its clinical presentation, discusses issues related to the differential diagnosis of specific phobia, considers the issue of comorbidity among phobic and anxiety disorders and developmental trends in the manifestation of fears, summarizes the epidemiology, causes, and course of specific phobia, and presents assessment and treatment issues. Finally, a case study is offered that serves to illuminate the major topics outlined in the article.
 
 ---
 
-### Anxiety disorders: diagnoses, clinical features, and epidemiology [^d9356ea0]. The Psychiatric Clinics of North America (2024). Medium credibility.
+### Anxiety disorders: diagnoses, clinical features, and epidemiology [^116Z2G6T]. The Psychiatric Clinics of North America (2024). Medium credibility.
 
 Although anxiety disorders present in many ways, they all share the key features of inappropriately high distress in the form of anxiety and fear responses to stimuli that are not actually dangerous and efforts to avoid or escape such stimuli. Problematic levels of fear and anxiety can result in many negative impacts on people's lives, across social, economic, and physical realms. Anxiety disorders as a whole are very prevalent in today's world, among both youth and adults.
 
 ---
 
-### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^7342fca8]. Depression and Anxiety (2025). Medium credibility.
+### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^113wt5RH]. Depression and Anxiety (2025). Medium credibility.
 
 All analyses were conducted using the multilevel modelling approach implemented in Mplus. The base model was a bivariate multilevel model (with the dependent variables 'expected fear', 'experienced fear', and the 'difference between expected and experienced fear'). The analyses used to evaluate the research hypotheses are described in detail below.
 
@@ -421,13 +421,13 @@ In Hypothesis 4, regression analyses were used to examine the relationship betwe
 
 ---
 
-### Preventing the return of fear in humans using reconsolidation update mechanisms [^c1178162]. Nature (2010). Excellent credibility.
+### Preventing the return of fear in humans using reconsolidation update mechanisms [^115wGWK3]. Nature (2010). Excellent credibility.
 
 Recent research on changing fears has examined targeting reconsolidation. During reconsolidation, stored information is rendered labile after being retrieved. Pharmacological manipulations at this stage result in an inability to retrieve the memories at later times, suggesting that they are erased or persistently inhibited. Unfortunately, the use of these pharmacological manipulations in humans can be problematic. Here we introduce a non-invasive technique to target the reconsolidation of fear memories in humans. We provide evidence that old fear memories can be updated with non-fearful information provided during the reconsolidation window. As a consequence, fear responses are no longer expressed, an effect that lasted at least a year and was selective only to reactivated memories without affecting others. These findings demonstrate the adaptive role of reconsolidation as a window of opportunity to rewrite emotional memories, and suggest a non-invasive technique that can be used safely in humans to prevent the return of fear.
 
 ---
 
-### World guidelines for falls prevention and management for older adults: a global initiative [^fc52ef16]. Age and Ageing (2022). Medium credibility.
+### World guidelines for falls prevention and management for older adults: a global initiative [^117T5jhX]. Age and Ageing (2022). Medium credibility.
 
 Recommendation details and justification
 
@@ -440,13 +440,13 @@ FES-I and Short FES-I are available free of charge in over 30 languages fromand 
 
 ---
 
-### A multidimensional investigation of anxiety sensitivity and depression outcomes in cognitive-behavioral group therapy [^1311b8c8]. Psychiatry Research (2020). Medium credibility.
+### A multidimensional investigation of anxiety sensitivity and depression outcomes in cognitive-behavioral group therapy [^111VGiby]. Psychiatry Research (2020). Medium credibility.
 
 We examined how anxiety sensitivity - the fear of symptoms of anxiety due to their perceived harmful effects - and gender are associated with treatment trajectory and outcomes in a large outpatient sample (N = 278) who received 14-weeks of cognitive-behavioral group therapy (CBGT) for depression. Three dimensions of anxiety sensitivity (cognitive, physical, and social concerns) and depression were assessed at pre-treatment, and the latter was assessed weekly during treatment. Latent growth curve models supported a link between cognitive concerns (fears of losing control over thoughts) and greater improvement in depression near the end of treatment (i.e., weeks 10–14); gender did not moderate trajectory. Gender (i.e., identifying as a woman) and greater physical concerns (fears of physical consequences of arousal symptoms) were associated with completion of < 8 sessions. Results suggest that those with more cognitive concerns might require greater time in treatment and/or benefit most from the focus on maladaptive assumptions and core beliefs in later CBGT sessions. Future research, including investigation of intervening variables, may elucidate the mechanisms through which greater physical concerns and gender are associated with treatment non-completion. Results supported differential associations of anxiety sensitivity dimensions with depression treatment outcomes, though further research attention is needed.
 
 ---
 
-### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^3a8682fc]. Journal of Psychopharmacology (2019). Medium credibility.
+### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^112VmTqu]. Journal of Psychopharmacology (2019). Medium credibility.
 
 Results
 
@@ -461,13 +461,13 @@ Neuropeptide Y (NPY) does not affect acquisition, expression or extinction of so
 
 ---
 
-### APA clinical practice guideline for psychological and other nonpharmacological treatment of chronic musculoskeletal pain in adults [^6822efba]. APA (2024). High credibility.
+### APA clinical practice guideline for psychological and other nonpharmacological treatment of chronic musculoskeletal pain in adults [^113fPSvd]. APA (2024). High credibility.
 
 Psychological and other nonpharmacological treatment of chronic musculoskeletal pain — shared decision making, validation, and education are emphasized. The panel recommends that PWP participate in all decision making about their care and treatment, and decision making about treatment needs to be a shared decision with the PWP as an active participant rather than as a passive patient. The panel encourages HCPs to educate the patient about the potential benefits vs. harms of treatments, and HCP can ask patients to identify their treatment goals. It is critical that HCPs believe PWP's report of pain, and with exercise, "fear of pain" or "fear of failing" are commonly identified impediments that may impact motivation to exercise.
 
 ---
 
-### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^11becf4a]. Journal of Psychopharmacology (2019). Medium credibility.
+### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^111TJt4h]. Journal of Psychopharmacology (2019). Medium credibility.
 
 NPY reduces expression of social fear when administered before social fear extinction
 
@@ -480,7 +480,7 @@ NPY reduces expression of social fear when administered before social fear extin
 
 ---
 
-### Social anxiety and agoraphobia symptoms effectively treated by prompt mental health care versus TAU at 6-and 12-month follow-up: secondary analysis from a randomized controlled trial [^2874dbce]. Depression and Anxiety (2021). Medium credibility.
+### Social anxiety and agoraphobia symptoms effectively treated by prompt mental health care versus TAU at 6-and 12-month follow-up: secondary analysis from a randomized controlled trial [^1122ykry]. Depression and Anxiety (2021). Medium credibility.
 
 1 INTRODUCTION
 
@@ -488,7 +488,7 @@ Social anxiety disorder (SAD) and agoraphobia are two of the most common and dis
 
 ---
 
-### Over the edge: extending the duration of a reconsolidation intervention for spider fear [^299a34dc]. Translational Psychiatry (2022). Medium credibility.
+### Over the edge: extending the duration of a reconsolidation intervention for spider fear [^1124gHjq]. Translational Psychiatry (2022). Medium credibility.
 
 Conclusions
 
@@ -496,7 +496,7 @@ Contrary to expectations, we found that the length of the reactivation procedure
 
 ---
 
-### Sertraline hydrochloride (Zoloft) [^d813e26a]. FDA (2023). Medium credibility.
+### Sertraline hydrochloride (Zoloft) [^116XM1FX]. FDA (2023). Medium credibility.
 
 (1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
 
@@ -510,7 +510,7 @@ In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while
 
 ---
 
-### Sertraline [^f8f99f4d]. FDA (2025). Medium credibility.
+### Sertraline [^117N7mvU]. FDA (2025). Medium credibility.
 
 (1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
 (2) Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
@@ -522,7 +522,7 @@ In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while
 
 ---
 
-### Benzodiazepines versus placebo for panic disorder in adults [^505930fe]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Benzodiazepines versus placebo for panic disorder in adults [^11347y8h]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -554,7 +554,7 @@ Low-quality evidence shows a possible superiority of benzodiazepine over placebo
 
 ---
 
-### Learning from other people's fear: amygdala-based social reference learning in social anxiety disorder [^248a39b5]. Psychological Medicine (2016). Low credibility.
+### Learning from other people's fear: amygdala-based social reference learning in social anxiety disorder [^111wAyzc]. Psychological Medicine (2016). Low credibility.
 
 Background
 
@@ -574,25 +574,25 @@ These results suggest perturbed observational learning in social anxiety disorde
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^0cc636b0]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^111KwRts]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 Core features of DSM-5 pediatric anxiety disorders — According to DSM-5, separation anxiety is characterized by developmentally inappropriate, excessive worry or distress associated with separation from a primary caregiver or major attachment figure, selective mutism is characterized by absence of speech in certain social situations despite the presence of speech in other situations, specific phobia is characterized by excessive fear or worry about a specific object or situation, social anxiety is characterized by excessive fear or worry about being negatively evaluated by others in social or performance situations, panic is characterized by unexpected, recurrent episodes of numerous cognitive manifestations, agoraphobia is characterized by excessive fear or worry being in situations in which the individual may be unable to escape or get help should panic-like or other overwhelming or embarrassing symptoms occur, generalized anxiety is characterized by excessive, uncontrollable worries regarding numerous everyday situations or activities, and substance/medication-induced anxiety and anxiety due to another medical condition are characterized by anxiety occurring in the context of substance/medication use or a physical illness.
 
 ---
 
-### The validity of the brief version of the fear of negative evaluation scale [^3815c7fb]. Journal of Anxiety Disorders (2005). Low credibility.
+### The validity of the brief version of the fear of negative evaluation scale [^112S9d7Y]. Journal of Anxiety Disorders (2005). Low credibility.
 
 The Fear of Negative Evaluation Scale [FNE; J. Consult. Clin. Psychol. 33 (1969) 448] is a commonly used measure of social anxiety. A brief version of the scale (FNEB) is available for convenient administration. Despite being widely advocated for use, the psychometric properties of the FNEB have not been evaluated with clinically anxious samples. The present study addressed the reliability and validity of the FNEB in a clinical sample of individuals with either social phobia (n = 82) or panic disorder (n = 99) presenting for treatment. Factor analysis supported the construct validity of the FNEB. The validity of the FNEB was further demonstrated through significant correlations with social avoidance and depression, and non-significant correlations with agoraphobic avoidance and demographic variables. The scale obtained excellent inter-item reliability (alpha = .97) and 2-week test-retest reliability (r = .94). Discriminant function analysis also supported validity of the FNEB. For example, individuals with social phobia scored significantly higher on the FNEB than those with panic disorder and a group of non-psychiatric community controls (n = 30). The FNEB was sensitive to pre- to post-CBT changes in both social anxiety and panic disorder, and changes on the FNEB correlated significantly with other measures of treatment responsiveness, such as reductions in somatic arousal, depression and other anxiety symptomatology. These research findings strongly support the validity of the FNEB and its clinical utility as an outcome measure in social anxiety treatment.
 
 ---
 
-### Social buffering of human fear is shaped by gender, social concern, and the presence of real vs virtual agents [^154e6f0d]. Translational Psychiatry (2021). Medium credibility.
+### Social buffering of human fear is shaped by gender, social concern, and the presence of real vs virtual agents [^111Yb5w2]. Translational Psychiatry (2021). Medium credibility.
 
 The presence of a partner can attenuate physiological fear responses, a phenomenon known as social buffering. However, not all individuals are equally sociable. Here we investigated whether social buffering of fear is shaped by sensitivity to social anxiety (social concern) and whether these effects are different in females and males. We collected skin conductance responses (SCRs) and affect ratings of female and male participants when they experienced aversive and neutral sounds alone (alone treatment) or in the presence of an unknown person of the same gender (social treatment). Individual differences in social concern were assessed based on a well-established questionnaire. Our results showed that social concern had a stronger effect on social buffering in females than in males. The lower females scored on social concern, the stronger the SCRs reduction in the social compared to the alone treatment. The effect of social concern on social buffering of fear in females disappeared if participants were paired with a virtual agent instead of a real person. Together, these results showed that social buffering of human fear is shaped by gender and social concern. In females, the presence of virtual agents can buffer fear, irrespective of individual differences in social concern. These findings specify factors that shape the social modulation of human fear, and thus might be relevant for the treatment of anxiety disorders.
 
 ---
 
-### Adapting to uncertainty: the role of anxiety and fear of negative evaluation in learning in social and non-social contexts [^68f762a4]. Journal of Affective Disorders (2024). Medium credibility.
+### Adapting to uncertainty: the role of anxiety and fear of negative evaluation in learning in social and non-social contexts [^113gcomD]. Journal of Affective Disorders (2024). Medium credibility.
 
 Background
 
@@ -616,7 +616,7 @@ Individuals with increased fear of negative evaluation may demonstrate heightene
 
 ---
 
-### Sertraline hydrochloride [^8ba67b12]. FDA (2025). Medium credibility.
+### Sertraline hydrochloride [^114a3CUh]. FDA (2025). Medium credibility.
 
 (1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
 
@@ -630,13 +630,13 @@ In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while
 
 ---
 
-### 2012 Canadian guidelines for the diagnosis and management of fibromyalgia syndrome: executive summary [^18bdcefb]. Pain Research & Management (2013). Medium credibility.
+### 2012 Canadian guidelines for the diagnosis and management of fibromyalgia syndrome: executive summary [^111dgTXp]. Pain Research & Management (2013). Medium credibility.
 
 Regarding nonpharmacologic interventions for fibromyalgia, more specifically with respect to psychological interventions, NFGAP 2013 guidelines recommend to offer CBT, even for a short time, to reduce fear of pain and fear of activity.
 
 ---
 
-### Non-disclosure of HIV status and associations with psychological factors, ART non-adherence, and viral load non-suppression among people living with HIV in the UK [^cf0eee0d]. AIDS and Behavior (2017). Low credibility.
+### Non-disclosure of HIV status and associations with psychological factors, ART non-adherence, and viral load non-suppression among people living with HIV in the UK [^116HyTC8]. AIDS and Behavior (2017). Low credibility.
 
 Introduction
 
@@ -650,7 +650,7 @@ Evidence for a link between non-disclosure and non-adherence to ART is also limi
 
 ---
 
-### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^69bc357c]. Depression and Anxiety (2025). Medium credibility.
+### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^113hkvCK]. Depression and Anxiety (2025). Medium credibility.
 
 The present findings support the habituation model, which posits that greater fear reduction during exposure enhances treatment outcomes. Maybe multiple mechanisms of action help explain the effect of exposure therapy, depending on whether patients are more afraid of anxiety symptoms or anxious thoughts. Furthermore, it should be taken into account that many patients fear the panic symptoms themselves. Therefore, future research should not only consider catastrophic events but also catastrophic internal expectations. Given the limited data available on expectancy violation and therapy outcomes, further investigation is clearly warranted.
 
@@ -658,7 +658,7 @@ There was no significant correlation between safety behaviour and prediction acc
 
 ---
 
-### Sertraline hydrochloride (Sertraline) [^de112ab7]. FDA (2017). Low credibility.
+### Sertraline hydrochloride (Sertraline) [^116gE1zv]. FDA (2017). Low credibility.
 
 The effectiveness of Sertraline hydrochloride in long-term use, that is, for more than 3 menstrual cycles, has not been systematically evaluated in controlled trials. Therefore, the physician who elects to use Sertraline hydrochloride for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
@@ -672,7 +672,7 @@ The efficacy of Sertraline hydrochloride in maintaining a response in adult pati
 
 ---
 
-### Sertraline treatment of generalized social phobia: a 20-week, double-blind, placebo-controlled study [^077656f7]. The American Journal of Psychiatry (2001). Low credibility.
+### Sertraline treatment of generalized social phobia: a 20-week, double-blind, placebo-controlled study [^111C4fR8]. The American Journal of Psychiatry (2001). Low credibility.
 
 Objective
 
@@ -692,19 +692,19 @@ Sertraline is an effective treatment for patients with generalized social phobia
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^2e343fa7]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^112BVyrE]. The Spine Journal (2020). High credibility.
 
 Mechanical low back pain prospective cohort findings identify baseline psychosocial predictors of physical health-related quality of life (HRQoL) and health service utilization: at baseline, each participant (n = 160) completed measures including the Hospital Anxiety and Depression Scale (HADS) and Fear-Avoidance Beliefs Questionnaire (FABQ); physical HRQoL was measured at baseline and 6 months after initial assessment using the UK version of the 36-item Short-Form Health Survey (SF-36) Physical Component Score (PCS), and health care utilization was measured for 6 months using the Client Socio-Demographic and Service Receipt Inventory (CSSRI). At 6-month follow-up, duration of pain (β = -0.18, p = 0.04), HADS score (β = -0.27, p = 0.003) and back pain related social difficulties (β = 0.42, p < 0.0005) predicted physical HRQoL, while Fear Avoidance Beliefs about work (IRR = 1.02, p = 0.009), back pain related social difficulties (IRR = 1.16, p = 0.03) and perceived cause of pain (IRR = 1.46, p = 0.03) were independent predictors of number of health care contacts; this study provides Level III evidence that SF-36 scores were improved in patients without fear avoidance behavior before treatment.
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^a948cb36]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^115KyMmF]. The Spine Journal (2020). High credibility.
 
 Acute and subacute low back pain — work‑related factors and sickness absence study design: Employed individuals with acute (< 6 weeks) or subacute (< 12 weeks) LBP (n = 279) completed a questionnaire at baseline and after one year which included the work‑related section of the Fear‑Avoidance Beliefs Questionnaire (FABQ), life satisfaction, job satisfaction, participation in sports and social support at work, and the outcome measure, sickness absence, was self‑reported on the questionnaire as days missed from work due to LBP.
 
 ---
 
-### Judgmental biases of individuals with a fear of blushing: the role of relatively strict social norms [^639711d5]. Clinical Psychology & Psychotherapy (2015). Low credibility.
+### Judgmental biases of individuals with a fear of blushing: the role of relatively strict social norms [^113YeWyS]. Clinical Psychology & Psychotherapy (2015). Low credibility.
 
 Blushing-fearful individuals often expect that others will judge them negatively. In two studies, we tested if this could be explained by having relatively strict beliefs about what is appropriate social behaviour. Study 1 used a student sample (n = 74), whereas study 2 compared a clinical treatment-seeking sample of blushing-fearful individuals (n = 33) with a non-anxious control group (n = 31). In both studies, participants were asked to read descriptions of common behaviours that could be considered as breaching the prevailing social norms but not necessarily so. Participants indicated (i) to what extent they considered these behaviours as violating the prevailing norm and (ii) their expectation of observers' judgments. Study 1 showed that strict norms were indeed related to fear of blushing and that the tendency of fearful participants to expect negative judgments could at least partly explain this relationship. Study 2 showed that high-fearful and low-fearful individuals do indeed differ in the strictness of their norms and that especially the norms that individuals apply to themselves might be relevant. These findings may provide fresh clues for improving available treatment options.
 
@@ -714,7 +714,7 @@ Blushing-fearful individuals attribute relatively strict social norms to other p
 
 ---
 
-### German Society of Neurology guidelines for the diagnosis and treatment of cognitive impairment and affective disorders in people with Parkinson's disease: new spotlights on diagnostic procedures and non-pharmacological interventions [^5c758c1f]. Journal of Neurology (2024). Medium credibility.
+### German Society of Neurology guidelines for the diagnosis and treatment of cognitive impairment and affective disorders in people with Parkinson's disease: new spotlights on diagnostic procedures and non-pharmacological interventions [^113N5Lw8]. Journal of Neurology (2024). Medium credibility.
 
 Apathy
 
@@ -726,7 +726,7 @@ According to the ICD-11, anxiety disorders are defined as mental disorders chara
 
 ---
 
-### Anxiety disorders in children and adolescents… [^19778a04]. AAFP (2022). Medium credibility.
+### Anxiety disorders in children and adolescents… [^111ekqrb]. AAFP (2022). Medium credibility.
 
 PSYCHOLOGICAL THERAPIES For mild to moderate symptoms, strong evidence from randomized trials supports the use of cognitive behavior therapy, delivered individually or in group settings, as a first-line treatment. CBT has two components: modifying thinking patterns and changing behavioral patterns. Cognitive restructuring is an essential aspect of CBT that assists children or adolescents in becoming more aware of their self-talk, providing an opportunity to examine the accuracy of thoughts and replace them with more adaptive ones. The behavioral component uses strategies such as social skills training, relaxation strategies, and exposure techniques to change behavior. Exposure techniques are used to address avoidance behavior, which is known to maintain or worsen anxiety over time. One exposure technique that is commonly used is systematic desensitization, which is a gradual, progressive exposure to feared stimuli.
 15.
@@ -737,7 +737,7 @@ PHARMACOLOGIC THERAPY Although CBT is the preferred treatment for mild to modera
 
 ---
 
-### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^43929c12]. Journal of Psychopharmacology (2019). Medium credibility.
+### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^112jBR4u]. Journal of Psychopharmacology (2019). Medium credibility.
 
 NPY reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors
 
@@ -747,7 +747,7 @@ All mice showed similar investigation of the non-social stimulus during SFC on d
 
 ---
 
-### A qualitative study exploring experiences of treatment in paediatric rheumatology-children' s, young people' s, parents' and carers' perspectives [^8cc7edde]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
+### A qualitative study exploring experiences of treatment in paediatric rheumatology-children' s, young people' s, parents' and carers' perspectives [^114biRPT]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
 
 Social factors
 
@@ -759,7 +759,7 @@ Cognitive factors were feelings, emotions or strongly held beliefs experienced a
 
 ---
 
-### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^b367edce]. Journal of Psychopharmacology (2019). Medium credibility.
+### Neuropeptide Y reduces expression of social fear via simultaneous activation of Y1 and Y2 receptors [^115ayh9F]. Journal of Psychopharmacology (2019). Medium credibility.
 
 SFC paradigm
 
@@ -775,7 +775,7 @@ One day after SFC, mice were exposed in their home cage to three non-social stim
 
 ---
 
-### USPSTF recommendation: screening for anxiety in children and adolescents… [^14d578da]. JAMA Network (2022). Excellent credibility.
+### USPSTF recommendation: screening for anxiety in children and adolescents… [^111XtTQd]. JAMA Network (2022). Excellent credibility.
 
 This recommendation applies to children and adolescents 18 years or younger who do not have a diagnosed anxiety disorder or are not showing recognized signs or symptoms of anxiety. Anxiety disorders are characterized by greater duration or intensity of impairment of a stress response. The Diagnostic and Statistical Manual of Mental Disorders recognizes 7 different types of anxiety disorders in children and adolescents: generalized anxiety disorder, social anxiety disorder, panic disorder, agoraphobia, specific phobias, separation anxiety disorder, and selective mutism.
 2. Anxiety screening instruments that have been assessed by the USPSTF are heterogeneous. Some screening instruments are designed to assess for a specific anxiety disorder, while others are designed to assess several anxiety disorders.
@@ -786,25 +786,25 @@ Broader screening instruments used to identify children with several different a
 
 ---
 
-### The fear of positive evaluation scale: assessing a proposed cognitive component of social anxiety [^46e9c0a6]. Journal of Anxiety Disorders (2008). Low credibility.
+### The fear of positive evaluation scale: assessing a proposed cognitive component of social anxiety [^112p8ebP]. Journal of Anxiety Disorders (2008). Low credibility.
 
 Cognitive-behavioral models propose that fear of negative evaluation is the core feature of social anxiety disorder. However, it may be that fear of evaluation in general is important in social anxiety, including fears of positive as well as negative evaluation. To test this hypothesis, we developed the Fear of Positive Evaluation Scale (FPES) and conducted analyses to examine the psychometric properties of the FPES, as well as test hypotheses regarding the construct of fear of positive evaluation (FPE). Responses from a large (n = 1711) undergraduate sample were utilized. The reliability, construct validity, and factorial validity of the FPES were examined; the distinction of FPE from fear of negative evaluation was evaluated utilizing confirmatory factor analysis; and the ability of FPE to predict social interaction anxiety above and beyond fear of negative evaluation was assessed. Results provide preliminary support for the psychometric properties of the FPES and the validity of the construct of FPE. The implications of FPE with respect to the study and treatment of social anxiety disorder are discussed.
 
 ---
 
-### The management of major depressive disorder: synopsis of the 2022 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^8ad6f8f6]. Annals of Internal Medicine (2022). High credibility.
+### The management of major depressive disorder: synopsis of the 2022 U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^114YqVth]. Annals of Internal Medicine (2022). High credibility.
 
 VA/DoD MDD patient focus group — communication with providers emphasizes that participants reported that open, non-judgmental communication with their providers was a critical component of successful treatment and that they want providers to see them as whole human beings and engage in shared decision making; fear of judgment or stigmatization attenuated willingness to initiate treatment, while open communication assuaged these fears and participants reported "feeling heard", is one of the most important components of a successful treatment plan; one participant reported fearing the implicit biases of her/his provider would adversely impact the care s/he received.
 
 ---
 
-### The effect of singular nonverbal behaviours of experimenters on pain reports [^8001f8fa]. Journal of Pain Research (2024). Medium credibility.
+### The effect of singular nonverbal behaviours of experimenters on pain reports [^114Gn5W1]. Journal of Pain Research (2024). Medium credibility.
 
 Fear of minor pain was negatively associated with the UPR in females, so higher fear of minor pain was associated with a smaller reduction in pain from the pre-test to the conditioning phase. Previous studies have shown that higher levels of fear of pain are associated with lower placebo effects, and this study shows that fear of minor pain in females weakened the UPR amplitude that in turn was associated with a weaker conditioned pain response. In females, fear of minor pain was also negatively associated with the reinforced expectations, suggesting that being more afraid of minor pain inhibited the generation of larger expectations about the effectiveness of the cream, suggesting that negative emotions may inhibit the generation of positive expectations about treatment. It has been previously suggested that negative emotions like anxiety modulate placebo effects. More specifically for females, Colloca et alshowed that compared to males, intranasal inhalation of vasopressin enhanced the placebo analgesic response only in females, and the larger placebo analgesic effects in females were modulated by lower dispositional anxiety levels. Consistently, what our findings add is that the negative emotions may also weaken the UPR and generation of positive expectations in females. Lastly, the negative association between fear of pain and lower reduction in pain can have potential implications in clinical settings with pain patients with tendencies to exhibit maladaptive patterns of pain-related fear and pain catastrophizing, that may eventually reduce the treatment outcome.
 
 ---
 
-### Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear [^cae309ce]. Molecular Psychiatry (2024). Medium credibility.
+### Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear [^116BnkzH]. Molecular Psychiatry (2024). Medium credibility.
 
 Introduction
 
@@ -814,25 +814,25 @@ Although OXT attracts enormous scientific interest due to its capacity to modula
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^ff084410]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^117X6cto]. The Spine Journal (2020). High credibility.
 
 Medical & psychological treatment — subacute LBP: In a randomized trial, patients were assigned to treatment-based classification (TBC) physical therapy alone (n = 36), TBC plus graded activity/exercise (GA) (n = 37), or TBC with graded exposure (GX) (n = 35); questionnaires at baseline, 4 weeks, and 6 months showed improvement in Oswestry Disability Questionnaire (ODQ) scores across groups without significant between-group differences, and all groups improved in Fear-Avoidance Beliefs Questionnaire (FABQ) scores with significant decreases in pain-related fear for TBC and GX (p < 0.01). Completer and intention-to-treat analyses were similar, with 26, 22, and 24 completing 6-month follow-up in TBC, GA, and GX, respectively, and the authors concluded that adding GA or GX to TBC was not effective; this provides Level I evidence that supplementing TBC with GA or GX was not effective for improving outcomes related to development of chronic LBP.
 
 ---
 
-### Transcriptome and chromatin alterations in social fear indicate association of MEG3 with successful extinction of fear [^26f04efb]. Molecular Psychiatry (2022). Medium credibility.
+### Transcriptome and chromatin alterations in social fear indicate association of MEG3 with successful extinction of fear [^111zjFJA]. Molecular Psychiatry (2022). Medium credibility.
 
 Social anxiety disorder is characterized by a persistent fear and avoidance of social situations, but available treatment options are rather unspecific. Using an established mouse social fear conditioning (SFC) paradigm, we profiled gene expression and chromatin alterations after the acquisition and extinction of social fear within the septum, a brain region important for social fear and social behaviors. Here, we particularly focused on the successful versus unsuccessful outcome of social fear extinction training, which corresponds to treatment responsive versus resistant patients in the clinics. Validation of coding and non-coding RNAs revealed specific isoforms of the long non-coding RNA (lncRNA) Meg3 regulated, depending on the success of social fear extinction. Moreover, PI3K/AKT was differentially activated with extinction success in SFC-mice. In vivo knockdown of specific Meg3 isoforms increased baseline activity of PI3K/AKT signaling, and mildly delayed social fear extinction. Using ATAC-Seq and CUT&RUN, we found alterations in the chromatin structure of specific genes, which might be direct targets of lncRNA Meg3.
 
 ---
 
-### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^25780500]. The Spine Journal (2020). High credibility.
+### Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of low back pain [^111xYrbZ]. The Spine Journal (2020). High credibility.
 
 Low back pain (LBP) — work-related resources and sickness absence — Rolli Salathe et al studied employed individuals with acute (< 6 weeks) or subacute (< 12 weeks) LBP (n = 279) who completed a questionnaire at baseline and after one year including the work-related section of the Fear-Avoidance Beliefs Questionnaire (FABQ), life satisfaction, job satisfaction, participation in sports and social support at work to identify work-related resources to predict sickness absence.
 
 ---
 
-### Social buffering of human fear is shaped by gender, social concern, and the presence of real vs virtual agents [^0ac70e26]. Translational Psychiatry (2021). Medium credibility.
+### Social buffering of human fear is shaped by gender, social concern, and the presence of real vs virtual agents [^111GyjjB]. Translational Psychiatry (2021). Medium credibility.
 
 We assessed individual differences in social concern (worries regarding social censure or rejection because of publicly observable reactions) using the Anxiety Sensitivity Index (ASI-3; 22). The ASI-3 is a well-established questionnaire that allows for assessing social concern in parallel with other anxiety dimensions, i.e. physical and cognitive concern (see below for details). The parallel assessment of different anxiety dimensions is important, because it allows us to evaluate the effect of social concern, compared to physical and cognitive concern.
 
@@ -842,7 +842,7 @@ Guided by previous studies, we assumed that the real or virtual presence of anot
 
 ---
 
-### Venlafaxine (venlafaxine hydrochloride) [^b96b8668]. FDA (2025). Medium credibility.
+### Venlafaxine (venlafaxine hydrochloride) [^115jtptf]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -869,7 +869,7 @@ Efficacy of venlafaxine extended-release tablets in the treatment of SAD was est
 
 ---
 
-### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^d91dbae2]. Depression and Anxiety (2025). Medium credibility.
+### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^116YtJLh]. Depression and Anxiety (2025). Medium credibility.
 
 2.5.6. Safety Behaviour During Exposure
 
@@ -895,19 +895,19 @@ Based on the calculations of Rachman and Lopatka, the overprediction bias of fea
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^480381f7]. DoD/VA (2022). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^112qmHdG]. DoD/VA (2022). High credibility.
 
 VA/DoD Clinical Practice Guideline — KQ 4 outcomes list critical outcomes as Functional status and QoL. Important outcomes are Fear avoidance/pain acceptance/pain catastrophization/self-efficacy; healthcare costs/utilization; pain medication use; pain severity; pain interference.
 
 ---
 
-### Understanding social anxiety as a risk for alcohol use disorders: fear of scrutiny, not social interaction fears, prospectively predicts alcohol use disorders [^2fa7d703]. Journal of Psychiatric Research (2009). Low credibility.
+### Understanding social anxiety as a risk for alcohol use disorders: fear of scrutiny, not social interaction fears, prospectively predicts alcohol use disorders [^112Deo2i]. Journal of Psychiatric Research (2009). Low credibility.
 
 Increasing evidence indicates that social anxiety may be a premorbid risk factor for alcohol use disorders (AUD). The aim of this study was to replicate and extend previous work examining whether social anxiety is a risk factor for AUD by evaluating both the temporal antecedence and non-spuriousness of this relationship. We also examined whether social anxiety first-order factors (social interaction anxiety, observation anxieties) served as specific predictors of AUD. A non-referred sample of 404 psychologically healthy young adults (i.e. free from current or past Axis I psychopathology) was prospectively followed over approximately two years. Social anxiety (but not depression or trait anxiety) at baseline significantly predicted subsequent AUD onset. The relationship between social anxiety and AUD remained even after controlling for relevant variables (gender, depression, trait anxiety). Further, social anxiety first-order factors differentially predicted AUD onset, such that observation anxieties (but not social interaction anxiety) were prospectively linked to AUD onset. This study provides further support that social anxiety (and fear of scrutiny specifically) appears to serve as an important and potentially specific AUD-related variable that deserves serious attention as a potential vulnerability factor.
 
 ---
 
-### Evidence for distinct genetic and environmental influences on fear acquisition and extinction [^6740e7c0]. Psychological Medicine (2023). Medium credibility.
+### Evidence for distinct genetic and environmental influences on fear acquisition and extinction [^113e5XV1]. Psychological Medicine (2023). Medium credibility.
 
 Genetic and environmental influences on fear extinction
 
@@ -919,7 +919,7 @@ There are several plausible contributors to variable treatment response over and
 
 ---
 
-### Singular and combined effects of transcranial infrared laser stimulation and exposure therapy on pathological fear: a randomized clinical trial [^b21a7488]. Psychological Medicine (2023). Medium credibility.
+### Singular and combined effects of transcranial infrared laser stimulation and exposure therapy on pathological fear: a randomized clinical trial [^115Z3gYw]. Psychological Medicine (2023). Medium credibility.
 
 Background
 
@@ -939,25 +939,25 @@ TILS to the dlPFC, one of the PFC regions implicated in emotion regulation, resu
 
 ---
 
-### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^c28759e7]. DoD/VA (2022). High credibility.
+### VA / DoD clinical practice guideline for the diagnosis and treatment of low back pain [^115yQ4XQ]. DoD/VA (2022). High credibility.
 
 VA/DoD Clinical Practice Guideline — KQ 2 outcomes list critical outcomes as Functional status and QoL. Important outcomes are Fear avoidance/pain acceptance/pain catastrophization/self-efficacy; healthcare costs/utilization; pain medication use; pain severity; pain interference; serious AEs.
 
 ---
 
-### Assessing the validity of social anxiety disorder subtypes using a nationally representative sample [^0edf4b68]. Journal of Anxiety Disorders (2010). Low credibility.
+### Assessing the validity of social anxiety disorder subtypes using a nationally representative sample [^111P3q5H]. Journal of Anxiety Disorders (2010). Low credibility.
 
 The purpose of this study was to examine and validate social anxiety disorder subtypes using the nationally representative National Comorbidity Survey Replication (N = 9282). Generalized and non-generalized subtypes were defined as fearing at least 8 (i.e., most) and fewer than 7 of 14 possible social situations, respectively, following the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR). Results indicated that in those with social anxiety disorder, the odds of having comorbid major depression, a comorbid anxiety disorder, and suicidal ideation were significantly greater in the generalized subtype. However, differences were no longer significant when adjusting for the number of feared social situations. Results further indicated that the number of feared social situations was significantly associated with comorbid major depression, a comorbid anxiety disorder, and suicidal ideation. These findings call into question the validity of DSM-IV-defined subtypes and provide additional support for the notion that clinicians and researchers should consider viewing this disorder on a single continuum with greater number of feared situations associated with greater clinical severity.
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^8a3cd4b0]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^114XwiyD]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 Children and adolescents with anxiety disorders — prevalence and onset data indicate that anxiety disorders are among the most common psychiatric disorders in children and adolescents; at any given time, nearly 7% of youths worldwide have an anxiety disorder, with estimated lifetime prevalence in the United States approximating 20% to 30%. Among youths 13 to 18 years old, lifetime prevalence rates approximate 20% for specific phobia, 9% for social anxiety, 8% for separation anxiety, and 2% each for agoraphobia, panic, and generalized anxiety. The median age of onset approximates 11 years, and onsets often occur during specific developmental phases: separation anxiety during the preschool/early school-age years, specific phobia in the school-age years, social anxiety in the later school-age and early adolescent years, and generalized anxiety, panic, and agoraphobia in the later adolescent/young adult years. Anxiety disorders (especially generalized anxiety) are highly comorbid with each other and with other psychiatric disorders, and for comorbid occurrences, multifaceted treatment plans likely are necessary.
 
 ---
 
-### Reducing fear and avoidance of memory loss improves mood and social engagement in community-based older adults: a randomized trial [^603f8908]. BMC Geriatrics (2023). Medium credibility.
+### Reducing fear and avoidance of memory loss improves mood and social engagement in community-based older adults: a randomized trial [^113Th9pb]. BMC Geriatrics (2023). Medium credibility.
 
 Outcome measures
 
@@ -969,7 +969,7 @@ Participant feedback. Following the intervention, participants answered debriefi
 
 ---
 
-### Kids FACE FEARS comparative effectiveness research… [^272fe84e]. ClinicalTrials (2018). Low credibility.
+### Kids FACE FEARS comparative effectiveness research… [^11216cJZ]. ClinicalTrials (2018). Low credibility.
 
 Kids FACE FEARS Comparative Effectiveness ResearchClinicalTrials. gov ID Study Overview Clinical anxiety is among the most common and impairing psychiatric conditions affecting children and adolescents. Cognitive Behavioral Therapy is an effective psychological treatment for youth anxiety, with roughly 60% of youth showing considerable clinical response and global improvements in functioning. Regrettably, despite the existence of well-supported treatments, most youth with anxiety disorders do not receive any form of treatment, especially in resource poor settings. Telehealth has been increasingly studied with success as a means to overcome several logistical challenges to traditional brick-and-mortar CBT for youth anxiety and stigma about attending a mental health facility.
 
@@ -981,13 +981,13 @@ The Kids FACE FEARS study design entails a large-scale, streamlined, pragmatic, 
 
 ---
 
-### The fear of positive evaluation scale: psychometric properties in a clinical sample [^5b6a1b39]. Journal of Anxiety Disorders (2009). Low credibility.
+### The fear of positive evaluation scale: psychometric properties in a clinical sample [^113LXWmE]. Journal of Anxiety Disorders (2009). Low credibility.
 
 Cognitive models of social anxiety suggest that fear of negative evaluation (FNE) is the central cognitive dimension underlying the disorder. The Fear of Positive Evaluation Scale (FPES; Weeks, Heimberg, & Rodebaugh, 2008) was recently developed to assess an additional cognitive dimension purported to underlie social anxiety disorder (SAD), but its psychometric properties have yet to be examined in clinical populations. The present study, with 133 treatment-seeking patients, examined the applicability of the FPES with a clinical sample. Results indicated that the FPES was factorially distinct from a measure assessing FNE, and patients with SAD (n = 51) had higher mean scores on the FPES than patients with other anxiety disorders (n = 82). The FPES also showed adequate reliability (internal consistency), good convergent and discriminant validity, acceptable criterion-related validity in predicting social interaction anxiety symptoms, and appropriate sensitivity to treatment. The FPES appears to have good psychometric properties and is a promising new assessment tool for better understanding SAD.
 
 ---
 
-### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^333641b0]. Depression and Anxiety (2025). Medium credibility.
+### How Do patients' fear prediction and fear experience impact exposure-based therapy for panic disorder with agoraphobia? A comprehensive analysis of fear prediction [^112JvbNo]. Depression and Anxiety (2025). Medium credibility.
 
 Overprediction bias may also lead some patients to avoid or drop out of exposure therapy. Approaches like desensitisation or graduated exposure (e.g.) can help by only gradually increasing challenging levels and following a fear hierarchy. Using retrieval cues in new contexts may also help. Care should be taken to ensure that these cues do not inadvertently function as safety behaviours. Despite this risk, such methods may encourage patients to engage in exposure therapy. Context changes during exposure are also recommended.
 
@@ -997,7 +997,7 @@ Several limitations of this study should be acknowledged. The level of anxiety w
 
 ---
 
-### Sertraline [^41fe2bbf]. FDA (2025). Medium credibility.
+### Sertraline [^112gqZxz]. FDA (2025). Medium credibility.
 
 14.5 Social Anxiety Disorder
 
@@ -1014,7 +1014,7 @@ Study SAD-2 was a 20-week, flexible dose study that compared sertraline hydrochl
 
 ---
 
-### Impaired identification of fearful faces in generalised social phobia [^5a2e4653]. Journal of Affective Disorders (2009). Low credibility.
+### Impaired identification of fearful faces in generalised social phobia [^113JhRsG]. Journal of Affective Disorders (2009). Low credibility.
 
 Background
 
@@ -1038,19 +1038,19 @@ Findings indicate a selective impairment in fear identification in GSP. Results 
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^e76feed8]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^116v7jjD]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 AHRQ/Mayo review — scope and methods for treatments of child and adolescent anxiety disorders — The objective of the AHRQ/Mayo review was to evaluate the effectiveness of psychotherapy and pharmacotherapy for the treatment of specific child and adolescent anxiety disorders and to evaluate safety concerns, and it was made available in August 2017 with errata published in July 2018. To be eligible, studies included children and adolescents between 3 and 18 years old with confirmed diagnoses of panic, social anxiety, specific phobia (including school phobia), generalized anxiety, or separation anxiety disorder, who received any psychotherapy or pharmacotherapy (alone or combined), and reported specified outcomes. Specified outcomes included primary anxiety symptoms from patient, parent, or clinician measures; secondary anxiety outcomes such as coping, avoidance, or anxious thoughts; global function; social function; satisfaction with treatment; response to treatment; and remission of the disorder. Both randomized controlled trials and comparative observational studies were included for effectiveness outcomes, and case reports or case series were used to identify adverse events. The key questions were twofold, addressing the comparative effectiveness of treatments for these disorders and the general and potential harms of available treatments. The strength of evidence for each outcome and comparison (e.g., fluoxetine vs. CBT) was rated via a consensus process, with randomized controlled trials starting with high strength of evidence and observational studies starting with low strength, and initial ratings were then raised or lowered based on five additional domains: risk of bias, precision, directness, consistency, and publication bias.
 
 ---
 
-### Transcriptome and chromatin alterations in social fear indicate association of MEG3 with successful extinction of fear [^c1059929]. Molecular Psychiatry (2022). Medium credibility.
+### Transcriptome and chromatin alterations in social fear indicate association of MEG3 with successful extinction of fear [^115wAVTE]. Molecular Psychiatry (2022). Medium credibility.
 
 The mouse model of SFC enables us to investigate underlying neurobiochemical mechanisms of social fear and social avoidance - the major symptoms of SAD. The difficult diagnosis of SAD usually occurs after social phobia has already been manifested. Therefore, from a translational research perspective, we were particularly interested in transcriptional changes accompanying social fear extinction training, which mimics exposure therapy applied in humans with SAD. Importantly, not only resilience and susceptibility for SAD, but also rates of therapeutic responsiveness and relapse show substantial inter-individual differences. However, in previous SFC studies, the naturally occurring variance in the outcome of extinction training performed on day 2 of the SFC paradigm has largely been ignored. Here we show that, indeed, the success of social fear extinction strongly determined the septal expression of the Meg-ex10 isoforms (Fig. 1), and the maintenance of social fear was accompanied by the maintenance of reduced Meg3-ex10 levels. (Fig. 2A, Fig. 1D). This suggests that septal Meg3-ex10 levels are an indicator for successful or unsuccessful fear extinction and, consequently, are inversely correlated to social fear, i.e. higher Meg3-ex10 expression correlates with reduced social fear expression during extinction. In this line, it is well established that fear acquisition and extinction involve distinct processes of learning and memory. Therefore, the opposing regulation of Meg3-ex10 within the septum after social fear acquisition and after successful fear extinction might be based on these different types of learning as also shown for other molecules. Interestingly, septal Meg3-ex10 expression was found to be strictly dependent on social fear extinction learning (Fig. 2B), but independent of social interactions per se (Fig. 2C). However, with our experimental setup we cannot decipher, whether the social component of extinction learning, or the learning process in general including non-social learning, are mandatory for Meg3-ex10 regulation. Considering the fact that the SFC model is based on operant fear conditioning principles, we could not include contextual or cued fear conditioning as an appropriate control. However, a recently published paradigm based on non-social instrumental fear conditioning might be applied as control for future studies to examine social-specificity vs. broader relevance in instrumental fear conditioning of the targets identified in our study.
 
 ---
 
-### Sertraline hydrochloride [^cadd0e6f]. FDA (2025). Medium credibility.
+### Sertraline hydrochloride [^116BkkT8]. FDA (2025). Medium credibility.
 
 14.5 Social Anxiety Disorder
 
@@ -1068,19 +1068,19 @@ Study SAD-2 was a 20-week, flexible dose study that compared sertraline hydrochl
 
 ---
 
-### Standards of care in diabetes – 2025 [^10707bd9]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111RNasS]. Diabetes Care (2025). High credibility.
 
 Regarding nonpharmacologic interventions for diabetes mellitus type 1, more specifically with respect to psychosocial care, ADA 2025 guidelines recommend to implement screening protocols for psychosocial concerns, including diabetes distress, depression, anxiety, fear of hypoglycemia, and disordered eating behaviors. Screen at least annually or when there is a change in disease, treatment, or life circumstances.
 
 ---
 
-### Standards of care in diabetes – 2025 [^4be42779]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^112wWhwN]. Diabetes Care (2025). High credibility.
 
 Regarding nonpharmacologic interventions for diabetes mellitus type 2, more specifically with respect to psychosocial care, ADA 2025 guidelines recommend to implement screening protocols for psychosocial concerns, including diabetes distress, depression, anxiety, fear of hypoglycemia, and disordered eating behaviors. Screen at least annually or when there is a change in disease, treatment, or life circumstances.
 
 ---
 
-### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^1a22f56b]. Geneva: World Health Organization (2023). High credibility.
+### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^111fkRNr]. Geneva: World Health Organization (2023). High credibility.
 
 Regarding nonpharmacologic interventions for generalized anxiety disorder, more specifically with respect to CBT, WHO 2023 guidelines recommend to consider offering the following delivery formats based on available resources as well as individual preferences:
 
@@ -1094,7 +1094,7 @@ Regarding nonpharmacologic interventions for generalized anxiety disorder, more 
 
 ---
 
-### Anxious children and adolescents non-responding to CBT: clinical predictors and families' experiences of therapy [^e3890532]. Clinical Psychology & Psychotherapy (2017). Low credibility.
+### Anxious children and adolescents non-responding to CBT: clinical predictors and families' experiences of therapy [^116pLDLm]. Clinical Psychology & Psychotherapy (2017). Low credibility.
 
 The purpose of the study was to examine clinical predictors of non-response to manualized cognitive behaviour therapy (CBT) among youths (children and adolescents) with anxiety disorders, and to explore families' perspective on therapy, using a mixed methods approach. Non-response to manualized group CBT was determined among 106 youths of Danish ethnicity (7-17years old) with a primary anxiety disorder, identified with the Clinical Global Impression of Improvement Scale at the 3-month follow-up. Twenty-four youths (22.6%) had not responded to treatment, and a logistic regression analysis revealed that youths with a primary diagnosis of social phobia were seven times more likely not to respond, whereas youths with a comorbid mood disorder were almost four times more likely. Families of non-responding youths with primary social phobia and/or a comorbid mood disorder (n = 15) were interviewed, and data were analysed through interpretative phenomenological analysis. Two superordinate themes emerged: youths were not involved in therapy work, and manualized group format posed challenges to families. The mixed methods approach provided new perspectives on the difficulties that may be encountered by families of non-responding youths with a primary social phobia diagnosis and youths with a comorbid mood disorder during manualized group CBT. Clinical implications related to youths' clinical characteristics, and families' experience and suggestions are drawn. Copyright © 2015 John Wiley & Sons, Ltd.
 
@@ -1104,7 +1104,7 @@ Youths with an anxiety disorder, who had a primary social phobia diagnosis and t
 
 ---
 
-### Epidemiology of fears and specific phobia in adolescence: results from the Mexican adolescent mental health survey [^39f9661c]. The Journal of Clinical Psychiatry (2012). Low credibility.
+### Epidemiology of fears and specific phobia in adolescence: results from the Mexican adolescent mental health survey [^112Ux4kB]. The Journal of Clinical Psychiatry (2012). Low credibility.
 
 Background
 
@@ -1124,6 +1124,6 @@ The large percentage of adolescents meeting diagnostic criteria coupled with the
 
 ---
 
-### An empirical analysis of moscovitch's reconceptualised model of social anxiety: how is it different from fear of negative evaluation? [^182ff94b]. Journal of Anxiety Disorders (2016). Low credibility.
+### An empirical analysis of moscovitch's reconceptualised model of social anxiety: how is it different from fear of negative evaluation? [^111crpNN]. Journal of Anxiety Disorders (2016). Low credibility.
 
 Cognitive-behavioural models propose that excessive fear of negative evaluation is central to social anxiety. Moscovitch (2009) instead proposes that perceived deficiencies in three self attributes: fears of showing signs of anxiety, deficits in physical appearance, or deficits in social competence are at the core of social anxiety. However, these attributes are likely to overlap with fear of negative evaluation. Responses to an online survey of 286 participants with a range of social anxiety severity were analysed using hierarchical multiple regression to identify the overall unique predictive value of Moscovitch's model. Altogether, Moscovitch's model provided improvements in the prediction of safety behaviours, types of fears and cognitions; however only the fear of showing anxiety subscale provided unique information. This research supports further investigations into the utility of this revised model, particularly related to utility of explicitly assessing and addressing fears of showing anxiety.

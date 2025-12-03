@@ -17,53 +17,53 @@ Sulbactam dosage in icu
 
 > Let me first confirm the formulations and scope. We are dealing with two distinct sulbactam-based options: sulbactam-durlobactam (SUL-DUR), a fixed-dose combination approved for CRAB HABP/VABP and BSI, and ampicillin-sulbactam, a 2:1 fixed combination where the sulbactam component is dosed to target CRAB activity, often off-label for this purpose, and used when SUL-DUR is not available.
 
-> I need to verify the PK/PD targets that matter. For sulbactam, activity is time-dependent and linked to the percent of time that free drug remains above MIC (%fT > MIC), with bactericidal activity typically associated with at least 50–60% fT > MIC in preclinical models. For durlobactam, the fAUC/MIC ratio predicts β-lactamase inhibition and protection of sulbactam, with a target of roughly fAUC/MIC ≥ 10 in in vivo models, which aligns with clinical efficacy signals in the ATTACK trial [^7cee86b7] [^965587f0].
+> I need to verify the PK/PD targets that matter. For sulbactam, activity is time-dependent and linked to the percent of time that free drug remains above MIC (%fT > MIC), with bactericidal activity typically associated with at least 50–60% fT > MIC in preclinical models. For durlobactam, the fAUC/MIC ratio predicts β-lactamase inhibition and protection of sulbactam, with a target of roughly fAUC/MIC ≥ 10 in in vivo models, which aligns with clinical efficacy signals in the ATTACK trial [^114CDaox] [^114qssYs].
 
-> Next, I should review the highest-quality evidence. The ATTACK phase 3 randomized trial established SUL-DUR 1 g/1 g IV every 6 hours as a 3-hour infusion, always combined with imipenem-cilastatin 1 g/1 g IV every 6 hours, demonstrating noninferior 28-day mortality and substantially less nephrotoxicity than colistin. Importantly, all patients in the trial received combination therapy, so monotherapy efficacy was not tested [^2f5a596f] [^2513c4ff] [^98e5fc3a].
+> Next, I should review the highest-quality evidence. The ATTACK phase 3 randomized trial established SUL-DUR 1 g/1 g IV every 6 hours as a 3-hour infusion, always combined with imipenem-cilastatin 1 g/1 g IV every 6 hours, demonstrating noninferior 28-day mortality and substantially less nephrotoxicity than colistin. Importantly, all patients in the trial received combination therapy, so monotherapy efficacy was not tested [^112DCmPk] [^111wyBZx] [^114ugNJu].
 
-> Hold on, let's not jump to conclusions about monotherapy. I initially thought SUL-DUR monotherapy might be acceptable based on PK/PD reasoning, but wait, I should double-check the trial design. The registrational study exclusively evaluated SUL-DUR plus imipenem-cilastatin, so monotherapy cannot be recommended from that dataset; current IDSA guidance still prefers combination therapy with a carbapenem, and monotherapy remains investigational pending further data [^87726f6b] [^51822430] [^5135cdfe].
+> Hold on, let's not jump to conclusions about monotherapy. I initially thought SUL-DUR monotherapy might be acceptable based on PK/PD reasoning, but wait, I should double-check the trial design. The registrational study exclusively evaluated SUL-DUR plus imipenem-cilastatin, so monotherapy cannot be recommended from that dataset; current IDSA guidance still prefers combination therapy with a carbapenem, and monotherapy remains investigational pending further data [^114TomRU] [^1135qiBh] [^1135Q52V].
 
-> I will now examine dosing for SUL-DUR in adults with normal renal function. The approved regimen is 1 g sulbactam plus 1 g durlobactam IV every 6 hours infused over 3 hours. In patients with creatinine clearance ≥ 130 mL/min, increased clearance warrants shortening the interval to every 4 hours to maintain exposure, and both agents require dose adjustment in renal impairment, including post-dialysis dosing in hemodialysis [^c1bd2d8c] [^191ea956].
+> I will now examine dosing for SUL-DUR in adults with normal renal function. The approved regimen is 1 g sulbactam plus 1 g durlobactam IV every 6 hours infused over 3 hours. In patients with creatinine clearance ≥ 130 mL/min, increased clearance warrants shortening the interval to every 4 hours to maintain exposure, and both agents require dose adjustment in renal impairment, including post-dialysis dosing in hemodialysis [^115xE9sZ] [^111eEzNy].
 
 > Let me consider ampicillin-sulbactam when SUL-DUR is unavailable. IDSA suggests high-dose ampicillin-sulbactam delivering 9 g/day of the sulbactam component as part of combination therapy, typically administered as 3 g ampicillin-sulbactam (2 g ampicillin/1 g sulbactam) every 8 hours as a 4-hour extended infusion, or as a continuous infusion of 27 g/day total ampicillin-sulbactam, to maximize %fT > MIC for sulbactam MICs up to 16–32 mg/L in CRAB.
 
-> I should confirm renal dosing adjustments for ampicillin-sulbactam. Both components are renally cleared, so frequency should be reduced as creatinine clearance declines. Standard tables provide interval adjustments, and in anuric patients on extended dialysis, twice-daily dosing of 2 g/1 g has been studied without accumulation, though clinical validation is limited and PK/PD targets should still guide practice [^80d0e52d].
+> I should confirm renal dosing adjustments for ampicillin-sulbactam. Both components are renally cleared, so frequency should be reduced as creatinine clearance declines. Standard tables provide interval adjustments, and in anuric patients on extended dialysis, twice-daily dosing of 2 g/1 g has been studied without accumulation, though clinical validation is limited and PK/PD targets should still guide practice [^114HyagL].
 
-> But wait, what if there is augmented renal clearance. ARC is common in trauma, burns, and early sepsis and can markedly increase β-lactam clearance, risking underexposure. For SUL-DUR, shortening to every 4 hours when CrCl ≥ 130 mL/min is recommended; for ampicillin-sulbactam, continuous infusion or more frequent dosing with PK/PD monitoring can mitigate underexposure, and pediatric data similarly show ARC reduces sulbactam concentrations, supporting higher or extended dosing in that context [^c1bd2d8c] [^47a66207] [^98591fd6].
+> But wait, what if there is augmented renal clearance. ARC is common in trauma, burns, and early sepsis and can markedly increase β-lactam clearance, risking underexposure. For SUL-DUR, shortening to every 4 hours when CrCl ≥ 130 mL/min is recommended; for ampicillin-sulbactam, continuous infusion or more frequent dosing with PK/PD monitoring can mitigate underexposure, and pediatric data similarly show ARC reduces sulbactam concentrations, supporting higher or extended dosing in that context [^115xE9sZ] [^112qE1Qi] [^114ts47o].
 
-> Next, I should review special populations and administration details. Hepatic impairment does not meaningfully alter SUL-DUR exposure and no dose adjustment is needed. For both SUL-DUR and ampicillin-sulbactam, extended or continuous infusion improves time-dependent PK/PD target attainment and is favored in critical illness. And when using aminoglycosides, separate administration from ampicillin-sulbactam to avoid inactivation [^586f7094] [^3b2120b4] [^4a0b3d80].
+> Next, I should review special populations and administration details. Hepatic impairment does not meaningfully alter SUL-DUR exposure and no dose adjustment is needed. For both SUL-DUR and ampicillin-sulbactam, extended or continuous infusion improves time-dependent PK/PD target attainment and is favored in critical illness. And when using aminoglycosides, separate administration from ampicillin-sulbactam to avoid inactivation [^113G7Lpb] [^112WfQ1R] [^112tmrqD].
 
-> I need to ensure I address what to do when SUL-DUR is not available. In that scenario, high-dose ampicillin-sulbactam (9 g/day sulbactam) combined with at least one other active agent is suggested, with polymyxin B, minocycline, or cefiderocol as preferred partners depending on susceptibilities; tigecycline is less favored due to PK limitations and mortality signals in some analyses, and rifampin is not recommended as part of routine CRAB therapy [^822c5d37] [^4cdc591c] [^28a107fd].
+> I need to ensure I address what to do when SUL-DUR is not available. In that scenario, high-dose ampicillin-sulbactam (9 g/day sulbactam) combined with at least one other active agent is suggested, with polymyxin B, minocycline, or cefiderocol as preferred partners depending on susceptibilities; tigecycline is less favored due to PK limitations and mortality signals in some analyses, and rifampin is not recommended as part of routine CRAB therapy [^114KzHvE] [^112xx59M] [^1123EbQx].
 
-> Let me reconsider the overall hierarchy to avoid overstatement. Preferred therapy is SUL-DUR plus a carbapenem (imipenem-cilastatin or meropenem) for CRAB HABP/VABP or BSI. If SUL-DUR is unavailable, use high-dose ampicillin-sulbactam in combination with another active agent. Monotherapy with either agent is not currently supported by the pivotal trial data for SUL-DUR and remains investigational, though real-world case series describe monotherapy use in select cases; I should emphasize that such practice is off-trial and should be reserved for exceptional circumstances with close monitoring [^87726f6b] [^51822430] [^87b89d7d].
+> Let me reconsider the overall hierarchy to avoid overstatement. Preferred therapy is SUL-DUR plus a carbapenem (imipenem-cilastatin or meropenem) for CRAB HABP/VABP or BSI. If SUL-DUR is unavailable, use high-dose ampicillin-sulbactam in combination with another active agent. Monotherapy with either agent is not currently supported by the pivotal trial data for SUL-DUR and remains investigational, though real-world case series describe monotherapy use in select cases; I should emphasize that such practice is off-trial and should be reserved for exceptional circumstances with close monitoring [^114TomRU] [^1135qiBh] [^114UDLdz].
 
-> Finally, I should double-check practical implementation. Confirm CRAB with susceptibility testing when available, adjust for renal function and ARC, use extended or continuous infusion to optimize %fT > MIC, and consider therapeutic drug monitoring where available to individualize exposure in the most severe cases. These steps align with ICU best practices and the PK/PD rationale underpinning current guidance [^3b2120b4] [^c1bd2d8c].
+> Finally, I should double-check practical implementation. Confirm CRAB with susceptibility testing when available, adjust for renal function and ARC, use extended or continuous infusion to optimize %fT > MIC, and consider therapeutic drug monitoring where available to individualize exposure in the most severe cases. These steps align with ICU best practices and the PK/PD rationale underpinning current guidance [^112WfQ1R] [^115xE9sZ].
 
 ---
 
-In the ICU, **sulbactam is dosed at 9 g/day** (total sulbactam component) as part of combination therapy for CRAB infections, typically as 3 g IV every 8 hours infused over 4 hours or as a continuous infusion of 9 g/day [^822c5d37] [^4cdc591c]. This high-dose, prolonged-infusion strategy maximizes PK/PD target attainment in critically ill patients with altered pharmacokinetics [^47a66207]. Adjust dosing for renal impairment: extend intervals if CrCl < 90 mL/min and reduce dose if CrCl < 30 mL/min [^notfound]. Monitor for neurotoxicity and electrolyte disturbances, and consider therapeutic drug monitoring when available to ensure adequate exposure [^3b2120b4].
+In the ICU, **sulbactam is dosed at 9 g/day** (total sulbactam component) as part of combination therapy for CRAB infections, typically as 3 g IV every 8 hours infused over 4 hours or as a continuous infusion of 9 g/day [^114KzHvE] [^112xx59M]. This high-dose, prolonged-infusion strategy maximizes PK/PD target attainment in critically ill patients with altered pharmacokinetics [^112qE1Qi]. Adjust dosing for renal impairment: extend intervals if CrCl < 90 mL/min and reduce dose if CrCl < 30 mL/min [^notfound]. Monitor for neurotoxicity and electrolyte disturbances, and consider therapeutic drug monitoring when available to ensure adequate exposure [^112WfQ1R].
 
 ---
 
 ## Recommended dosing regimen
 
-- **Standard regimen**: 9 g/day of the sulbactam component, administered as 3 g IV every 8 hours, infused over 4 hours [^822c5d37] [^4cdc591c].
-- **Alternative regimen**: Continuous infusion of 9 g/day of the sulbactam component, particularly in patients with augmented renal clearance or severe infections [^47a66207].
-- **Combination therapy**: Always administer in combination with at least one other active agent (e.g. polymyxin B, minocycline, tigecycline, or cefiderocol) to enhance efficacy and reduce resistance [^ac140a2e] [^4cdc591c].
+- **Standard regimen**: 9 g/day of the sulbactam component, administered as 3 g IV every 8 hours, infused over 4 hours [^114KzHvE] [^112xx59M].
+- **Alternative regimen**: Continuous infusion of 9 g/day of the sulbactam component, particularly in patients with augmented renal clearance or severe infections [^112qE1Qi].
+- **Combination therapy**: Always administer in combination with at least one other active agent (e.g. polymyxin B, minocycline, tigecycline, or cefiderocol) to enhance efficacy and reduce resistance [^115Q7bss] [^112xx59M].
 
 ---
 
 ## Pharmacokinetic and pharmacodynamic considerations
 
-- **PK/PD target**: Sulbactam exhibits time-dependent bactericidal activity, with efficacy correlated to the percentage of time free drug concentrations remain above the MIC (%fT > MIC). A target of 60% fT > MIC is associated with optimal clinical outcomes [^47a66207].
-- **Critical illness considerations**: Critically ill patients often experience altered pharmacokinetics, including increased volume of distribution and augmented renal clearance, necessitating higher doses and prolonged infusions to achieve PK/PD targets [^3b2120b4] [^47a66207].
-- **Prolonged infusion**: Extending infusion time to 4 hours or using continuous infusion improves %fT > MIC and enhances clinical efficacy [^47a66207].
+- **PK/PD target**: Sulbactam exhibits time-dependent bactericidal activity, with efficacy correlated to the percentage of time free drug concentrations remain above the MIC (%fT > MIC). A target of 60% fT > MIC is associated with optimal clinical outcomes [^112qE1Qi].
+- **Critical illness considerations**: Critically ill patients often experience altered pharmacokinetics, including increased volume of distribution and augmented renal clearance, necessitating higher doses and prolonged infusions to achieve PK/PD targets [^112WfQ1R] [^112qE1Qi].
+- **Prolonged infusion**: Extending infusion time to 4 hours or using continuous infusion improves %fT > MIC and enhances clinical efficacy [^112qE1Qi].
 
 ---
 
 ## Clinical evidence supporting high-dose regimens
 
-Evidence from **randomized controlled trials and meta-analyses** demonstrates that high-dose sulbactam regimens (≥ 9 g/day) significantly improve clinical outcomes, including reduced mortality and increased clinical cure rates, compared to standard-dose regimens [^461ddcf6] [^8f59926b]. The **ATTACK trial** showed that sulbactam-durlobactam (which includes sulbactam) was non-inferior to colistin for CRAB infections, with lower nephrotoxicity and favorable clinical outcomes [^2f5a596f] [^2513c4ff].
+Evidence from **randomized controlled trials and meta-analyses** demonstrates that high-dose sulbactam regimens (≥ 9 g/day) significantly improve clinical outcomes, including reduced mortality and increased clinical cure rates, compared to standard-dose regimens [^112nxAWR] [^114fXKJS]. The **ATTACK trial** showed that sulbactam-durlobactam (which includes sulbactam) was non-inferior to colistin for CRAB infections, with lower nephrotoxicity and favorable clinical outcomes [^112DCmPk] [^111wyBZx].
 
 ---
 
@@ -82,7 +82,7 @@ Evidence from **randomized controlled trials and meta-analyses** demonstrates th
 
 - **Neurotoxicity**: Monitor for seizures, encephalopathy, and myoclonus, particularly in patients with renal impairment or high doses [^notfound].
 - **Electrolyte disturbances**: Regularly monitor electrolytes, especially potassium and sodium, due to potential imbalances [^notfound].
-- **Therapeutic drug monitoring (TDM)**: Consider TDM to ensure adequate drug exposure, particularly in patients with altered pharmacokinetics or severe infections [^3b2120b4].
+- **Therapeutic drug monitoring (TDM)**: Consider TDM to ensure adequate drug exposure, particularly in patients with altered pharmacokinetics or severe infections [^112WfQ1R].
 
 ---
 
@@ -99,15 +99,15 @@ Evidence from **randomized controlled trials and meta-analyses** demonstrates th
 
 ## Current guidelines and expert consensus
 
-IDSA guidelines recommend **high-dose sulbactam** (9 g/day) as part of combination therapy for CRAB infections, with dose adjustments based on renal function and clinical response [^822c5d37] [^4cdc591c]. ESCMID guidelines similarly endorse **high-dose sulbactam** for CRAB infections, emphasizing the importance of combination therapy and PK/PD optimization [^44e64811].
+IDSA guidelines recommend **high-dose sulbactam** (9 g/day) as part of combination therapy for CRAB infections, with dose adjustments based on renal function and clinical response [^114KzHvE] [^112xx59M]. ESCMID guidelines similarly endorse **high-dose sulbactam** for CRAB infections, emphasizing the importance of combination therapy and PK/PD optimization [^112m9WQg].
 
 ---
 
 ## Practical implementation in the ICU
 
-- **Dosing strategy**: Implement high-dose, prolonged-infusion regimens (3 g IV every 8 hours over 4 hours or continuous infusion of 9 g/day) [^822c5d37] [^47a66207].
-- **Monitoring**: Regularly assess renal function, electrolytes, and clinical response; adjust dosing accordingly [^4db10c82].
-- **Combination therapy**: Always administer in combination with at least one other active agent to enhance efficacy and reduce resistance [^ac140a2e] [^4cdc591c].
+- **Dosing strategy**: Implement high-dose, prolonged-infusion regimens (3 g IV every 8 hours over 4 hours or continuous infusion of 9 g/day) [^114KzHvE] [^112qE1Qi].
+- **Monitoring**: Regularly assess renal function, electrolytes, and clinical response; adjust dosing accordingly [^112zBWtZ].
+- **Combination therapy**: Always administer in combination with at least one other active agent to enhance efficacy and reduce resistance [^115Q7bss] [^112xx59M].
 - **Education**: Educate healthcare staff on the importance of adherence to dosing protocols and monitoring procedures [^notfound].
 
 ---
@@ -118,7 +118,7 @@ High-dose sulbactam (**9 g/day**) administered as prolonged infusions is the rec
 
 ## References
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^c31d9899]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^115zGXXn]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -128,7 +128,7 @@ The Infectious Diseases Society of America (IDSA) recommends to administer sulba
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^1343b9a1]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^111VZWkG]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 Pharmacokinetics and pharmacodynamics
 
@@ -142,7 +142,7 @@ SUL-DUR is primarily cleared renally, requiring dose adjustments in patients wit
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^914dbf67]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^114iRKWW]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 Purpose Of Review
 
@@ -158,7 +158,7 @@ Combination therapy of SUL-DUR with carbapenems remains the preferred strategy i
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^81defb79]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^114KYJQ8]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 SULBACTAM-DURLOBACTAM CLINICAL EVIDENCE
 
@@ -173,7 +173,7 @@ Phase I trials conducted in healthy volunteers established pharmacokinetic and s
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^87b89d7d]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^114UDLdz]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 This limited therapeutic armamentarium has led to treatment failures in many settings, prompting the need for new, targeted agents with reliable activity against CRAB. In this context, sulbactam-durlobactam (SUL-DUR) has emerged as a promising new β-lactam/β-lactamase inhibitor combination specifically developed for the treatment of CRAB. Based on evidence from the registrational trial, the IDSA Guidance recommends SUL-DUR use in combination with imipenem-cilastatin or meropenem. However, growing clinical reports support the effective use of SUL-DUR both as monotherapy and in combination with other agents.
 
@@ -184,7 +184,7 @@ no caption available
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^98e5fc3a]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^114ugNJu]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 The pivotal phase III trial, known as the ATTACK study was a randomized, noninferiority trial comparing SUL-DUR vs. colistin, both in combination with imipenem-cilastatin, for the treatment of adult patients with severe CRAB infections (e.g. Ventilator-Associated Pneumonia, VAP, Hospital-Acquired Pneumonia, HAP, Bloodstream Infection BSI). The trial was divided into two parts, according to CRAB susceptibility profiles (part A: colistin/polymyxin B susceptible strains; part B: colistin/polymyxin B resistant strains or where these agents were contraindicated due to nephrotoxicity or neuromuscular disorders). In part A, the study enrolled 181 patients, with 125 included in the microbiologically modified intention-to-treat population for efficacy analysis. The primary endpoint was 28-day all-cause mortality. SUL-DUR demonstrated noninferiority to colistin, with a mortality rate of 19% (12 out of 63) vs. 32.3% (20 out of 62), respectively, corresponding to a treatment difference of −13% (95% CI: −30 to 3.5). Notably, nephrotoxicity occurred significantly less frequently in the SUL-DUR arm compared to the colistin group (13% vs. 38%, P < 0.001), highlighting a major safety advantage.
 
@@ -194,13 +194,13 @@ Notably, all patients in the ATTACK trial received combination therapy with imip
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^2513c4ff]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^111wyBZx]. Clinical Infectious Diseases (2023). High credibility.
 
 Sulbactam-durlobactam versus colistin — randomized trial outcomes in carbapenem-resistant Acinetobacter baumannii (CRAB) pneumonia or bloodstream infection: Patients were randomized to sulbactam-durlobactam or colistin and all patients also received imipenem-cilastatin, dosed as 1 g of imipenem every 6 hours; among 125 patients, the primary outcome of 28-days mortality was 19% (12/63) with sulbactam-durlobactam versus 32% (20/62) with colistin, meeting the pre-specified non-inferiority criterion; secondary outcomes favored sulbactam-durlobactam, including clinical cure (62% vs 40%), microbiologic response (68% vs 42%) at test of cure, and a lower risk of nephrotoxicity (13% vs 38%); the comparator regimen of colistin plus imipenem-cilastatin is not preferred for CRAB infections.
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^ef98df0b]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^1178DPXQ]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 Real-world experience
 
@@ -215,7 +215,7 @@ Tiseo et al. described another case of a severely burned patient with VAP due to
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^5135cdfe]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^1135Q52V]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 CONCLUSION
 
@@ -233,7 +233,7 @@ Therefore, until further data are available, combination therapy remains the sta
 
 ---
 
-### Ampicillin and sulbactam [^25a4e408]. FDA (2025). Medium credibility.
+### Ampicillin and sulbactam [^111xovkw]. FDA (2025). Medium credibility.
 
 Impaired Renal Function
 
@@ -243,19 +243,19 @@ When only serum creatinine is available, the following formula (based on sex, we
 
 ---
 
-### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^5a4eca2e]. Clinical Infectious Diseases (2016). Medium credibility.
+### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^113JtMK3]. Clinical Infectious Diseases (2016). Medium credibility.
 
 Acinetobacter species — agent selection rationale and avoidance of tigecycline: The evidence suggests that the carbapenems (including imipenem), ampicillin-sulbactam, and colistin are equally effective at treating Acinetobacter species that are determined by antimicrobial sensitivity testing to be sensitive to those agents, and the panel agreed that carbapenems and ampicillin-sulbactam are preferred due to fewer side effects, whereas colistin should be reserved for species sensitive only to colistin due to the risk of nephrotoxicity. The recommendation to use colistin to treat Acinetobacter species that are sensitive only to colistin was strong despite the low quality of evidence because, for such patients, there are no other therapeutic options, so colistin therapy may be lifesaving. In contrast, adjunctive rifampicin did not improve outcomes and was not recommended because its burdens, costs, and risks clearly exceed the benefits. The evidence synthesis indicated that the current label dose of tigecycline worsened clinical outcomes compared with several other therapies, and the panel's strong recommendation against tigecycline despite low-quality evidence is intended to emphasize the importance of avoiding potentially harmful therapies when alternatives exist.
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^3b7c6362]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^112XC3uT]. FDA (2025). Medium credibility.
 
 The dosage of ampicillin / sulbactam sodium IV for treatment of skin and soft tissue infections in adults is 1.5–3 g IV q6h
 
 ---
 
-### Efficacy and safety of sulbactam-durlobactam versus colistin for the treatment of patients with serious infections caused by Acinetobacter baumannii-calcoaceticus complex: a multicentre, randomised, active-controlled, phase 3, non-inferiority clinical trial (ATTACK) [^2f5a596f]. The Lancet: Infectious Diseases (2023). High credibility.
+### Efficacy and safety of sulbactam-durlobactam versus colistin for the treatment of patients with serious infections caused by Acinetobacter baumannii-calcoaceticus complex: a multicentre, randomised, active-controlled, phase 3, non-inferiority clinical trial (ATTACK) [^112DCmPk]. The Lancet: Infectious Diseases (2023). High credibility.
 
 Background
 
@@ -279,19 +279,19 @@ Entasis Therapeutics and Zai Lab.
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^7aed9f90]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^1149FJf1]. FDA (2025). Medium credibility.
 
 The dosage of ampicillin / sulbactam sodium IV for treatment of gynecological infections adults (serious) is 1.5–3 g IV q6h
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^461ddcf6]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^112nxAWR]. Clinical Infectious Diseases (2023). High credibility.
 
 Carbapenem-resistant Acinetobacter baumannii (CRAB) — evidence for sulbactam-containing regimens includes meta-analyses and trials: Two meta-analyses have evaluated observational and clinical trial data for various treatment regimens against CRAB infections; a meta-analysis published in 2021 included 18 studies and 1835 patients and found that ampicillin-sulbactam (total daily dose of at least 6 grams of the sulbactam component) in combination with a second agent was the most effective regimen to reduce mortality in critically ill patients infected with CRAB, and an earlier meta-analysis published in 2017 included 23 observational studies or clinical trials and 2118 patients with CRAB infections. At least 5 clinical trials evaluating mortality in patients with CRAB infections have included sulbactam in 1 of the treatment arms, and although differences in mortality reached statistical significance in only 1 of these trials, all demonstrate a numerical reduction in mortality in the sulbactam-based arm; however, fewer than 50% of CRAB isolates test susceptible to ampicillin-sulbactam.
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^47a66207]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^112qE1Qi]. Clinical Infectious Diseases (2023). Medium credibility.
 
 SULBACTAM OR BUST FOR TREATMENT OF INVASIVE CRAB INFECTIONS?
 
@@ -299,7 +299,7 @@ A compelling case for the use of ampicillin-sulbactam can be made from the avail
 
 ---
 
-### Ampicillin sodium and sulbactam sodium [^79077cfe]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium [^1146S1yw]. FDA (2025). Medium credibility.
 
 Impaired Renal Function
 
@@ -317,7 +317,7 @@ Females 0.85 × above value
 
 ---
 
-### EMA drug information for vildagliptin [^f3fbc920]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^117EiZfD]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of sepsis in adults is:
 
@@ -326,13 +326,13 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of sepsis in adul
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^2bd3f36e]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^1127yfFj]. Clinical Infectious Diseases (2023). High credibility.
 
 Sulbactam-durlobactam — mechanism, dosing, and susceptibility context: Durlobactam became FDA-approved in May 2023 and is a β-lactamase inhibitor with potent inhibition of class A, C, and D enzymes, while not inhibiting class B metallo-β-lactamases; in Latin America, at least 5% of CRAB isolates from 2017–2019 contained a blaNDM. Sulbactam-durlobactam is administered as 1 gram of sulbactam and 1 gram of durlobactam (2 grams total) every 6 hours as a 3-hour infusion, and this dosing achieves pharmacokinetic/pharmacodynamic (PK/PD) target attainment for greater than 90% of A. baumannii isolates with minimum inhibitory concentrations (MICs) of ≤ 4/4 μg/mL, the FDA and CLSI breakpoint.
 
 ---
 
-### EMA drug information for vildagliptin [^a8aa5c7e]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^115K49FT]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of sepsis in adults is:
 
@@ -341,7 +341,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of sepsis in adul
 
 ---
 
-### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^7c694a97]. Current Opinion in Infectious Diseases (2025). Medium credibility.
+### From clinical trials to daily practice: how to adequately administer sulbactam-durlobactam? alone or combined with imipenem? [^114BSqBk]. Current Opinion in Infectious Diseases (2025). Medium credibility.
 
 In-vitro activity of sulbactam-durlobactam
 
@@ -349,7 +349,7 @@ Multiple investigations have evaluated the in-vitro efficacy of SUL-DUR against 
 
 ---
 
-### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^3bda7c39]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
+### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^112Xjf4c]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -361,7 +361,7 @@ Pharmacokinetic/pharmacodynamic (PK/PD) theory has been often used for dose opti
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^075bf775]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^111BuodN]. FDA (2025). Medium credibility.
 
 DOSAGE AND ADMINISTRATION
 
@@ -373,7 +373,7 @@ The recommended daily dose of ampicillin and sulbactam for injection in pediatri
 
 ---
 
-### Pharmacokinetics of ampicillin / sulbactam in critically ill patients with acute kidney injury undergoing extended dialysis [^80d0e52d]. Clinical Journal of the American Society of Nephrology (2012). Low credibility.
+### Pharmacokinetics of ampicillin / sulbactam in critically ill patients with acute kidney injury undergoing extended dialysis [^114HyagL]. Clinical Journal of the American Society of Nephrology (2012). Low credibility.
 
 Background and Objectives
 
@@ -393,7 +393,7 @@ Our data suggest that in patients treated with ED using a high-flux dialyzer (po
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^3278ea58]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^112HpziK]. FDA (2025). Medium credibility.
 
 Treatment of Hospital-acquired and Ventilator-associated Bacterial Pneumonia Caused by Acinetobacter baumannii-calcoaceticus Complex Organisms
 
@@ -403,7 +403,7 @@ The primary efficacy endpoint for the study was 28-day all-cause mortality in th
 
 ---
 
-### Efficacy and safety of high-dose ampicillin / sulbactam vs. colistin as monotherapy for the treatment of multidrug resistant Acinetobacter baumannii ventilator-associated pneumonia [^f1821892]. The Journal of Infection (2008). Low credibility.
+### Efficacy and safety of high-dose ampicillin / sulbactam vs. colistin as monotherapy for the treatment of multidrug resistant Acinetobacter baumannii ventilator-associated pneumonia [^117B3iPb]. The Journal of Infection (2008). Low credibility.
 
 Objective
 
@@ -423,7 +423,7 @@ Colistin and high-dose ampicillin/sulbactam were comparably safe and effective t
 
 ---
 
-### EMA drug information for vildagliptin [^64eee8a9]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^113ae1Vz]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of respiratory tract infections in adults is:
 
@@ -432,31 +432,31 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of respiratory tr
 
 ---
 
-### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^08e1d462]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
+### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^111EAkmf]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
 
 As a study limitation, although pathophysiologic changes can significantly impact sulbactam PK, covariates such as underlying diseases, treatment indications, and renal function (urea nitrogen and serum creatinine) were not examined due to the lack of data.
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^822c5d37]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^114KzHvE]. Clinical Infectious Diseases (2023). High credibility.
 
 Carbapenem-resistant Acinetobacter baumannii (CRAB) — ampicillin-sulbactam role and dosing are described as follows: High-dose ampicillin-sulbactam, as a component of combination therapy, is suggested as an alternate agent for CRAB, and this approach is suggested only when the susceptibility of sulbactam-durlobactam results are unavailable; the panel suggests high-dose ampicillin-sulbactam (total daily dose of 9 grams of the sulbactam component) as a component of combination therapy for CRAB infections. Pharmacokinetic/pharmacodynamic data indicate that sulbactam total daily dosing of 9 grams is likely to achieve sufficient fT > MIC for A. baumannii isolates with sulbactam MICs of up 16–32 μg/mL; ampicillin-sulbactam uses a 2:1 formulation such that 3 grams of ampicillin-sulbactam is comprised of 2 grams of ampicillin and 1 gram of sulbactam, and ampicillin-sulbactam total daily doses of 27 grams (equivalent to 9 grams of sulbactam) as extended or continuous infusions are suggested (eg, 9 grams [3 grams of sulbactam] of ampicillin-sulbactam IV every 8 hours infused over 4 hours). Insufficient data exist to determine if standard-dose and high-dose ampicillin-sulbactam have equivalent efficacy in infections caused by isolates susceptible to ampicillin-sulbactam, and the panel favors high-dose ampicillin-sulbactam.
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^3236c283]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^112HSmu4]. Clinical Infectious Diseases (2023). High credibility.
 
 Carbapenem-resistant Acinetobacter baumannii (CRAB) infections — Randomized trials of colistin-based combination therapy versus monotherapy: In a large trial, 312 patients with CRAB bacteremia, pneumonia, or urinary tract infections were randomized to colistin alone versus colistin plus meropenem (2 grams IV every 8 hours as a 3-hour infusion), with no difference in 28-day mortality (46% vs 42%). In a second large trial including 329 patients with drug-resistant A. baumannii bloodstream infections or pneumonia, patients received colistin alone or colistin plus meropenem (1 gram IV every 8 hours as a 30-minute infusion), and the 28-day mortality was 46% vs 42% in the monotherapy versus combination arms. In a randomized trial of critically ill patients given colistin alone versus colistin plus rifampicin, there was no difference in 30-day mortality with 43% mortality in both study arms; another rifampin trial in CRAB pneumonia (n = 43) found in-hospital mortality 73% versus 62%, not statistically significant, and a third study in nine patients with colistin-resistant A. baumannii found no difference in 30-day mortality (20% vs 33%). A fosfomycin trial randomized 94 patients to colistin alone versus colistin with fosfomycin with 28-day mortality 57% versus 47%, although IV fosfomycin is not currently available in the United States. A sulbactam trial in 39 CRAB pneumonia patients randomized colistin monotherapy versus colistin plus high-dose sulbactam (total daily dose of 9 grams of the sulbactam component) reported clinical improvement by day five in 16% versus 70% and 28-day mortality 63% versus 50%; investigators were unblinded and patients could transition to other antibiotics after day five, limiting accurate comparison of failure or mortality.
 
 ---
 
-### European society of clinical microbiology and infectious diseases (ESCMID) guidelines for the treatment of infections caused by multidrug-resistant Gram-negative bacilli (endorsed by European Society of Intensive Care Medicine) [^44e64811]. Clinical Microbiology and Infection (2022). High credibility.
+### European society of clinical microbiology and infectious diseases (ESCMID) guidelines for the treatment of infections caused by multidrug-resistant Gram-negative bacilli (endorsed by European Society of Intensive Care Medicine) [^112m9WQg]. Clinical Microbiology and Infection (2022). High credibility.
 
 Regarding medical management for antimicrobial-resistant Gram-negative infections, more specifically with respect to management of A. baumannii infections, carbapenem-resistant, ESCMID 2021 guidelines recommend to consider administering ampicillin/sulbactam for the treatment of hospital-acquired pneumonia/ventilator-associated pneumonia caused by carbapenem-resistant A. baumannii susceptible to sulbactam.
 
 ---
 
-### The role of sulbactam-durlobactam in treating carbapenem-resistant Acinetobacter infections [^8b225727]. Current Opinion in Infectious Diseases (2024). Medium credibility.
+### The role of sulbactam-durlobactam in treating carbapenem-resistant Acinetobacter infections [^114ZGpBG]. Current Opinion in Infectious Diseases (2024). Medium credibility.
 
 Purpose Of Review
 
@@ -472,31 +472,31 @@ Sulbactam-durlobactam is a promising addition to the treatment options for carba
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^51822430]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^1135qiBh]. Clinical Infectious Diseases (2023). High credibility.
 
 Sulbactam-durlobactam — adjunctive carbapenem use and resistance management are described as follows: Based on the available in vitro data, it is suggested that imipenem-cilastatin be administered as adjunctive therapy to sulbactam-durlobactam, and meropenem is likely a reasonable substitute for imipenem-cilastatin given their similar PBP targets; for patients requiring prolonged durations of therapy it may be reasonable to discontinue carbapenem therapy after clinical improvement has occurred. Available data suggest high-level resistance of sulbactam-durlobactam is generally a result of MBL enzymes or PBP3 mutants, and in settings of resistance to sulbactam-durlobactam (ie, MICs ≥ 16/4 μg/mL), the panel suggests considering optimally-dosed non-sulbactam based combinations as sulbactam-based therapy is unlikely to be of substantial therapeutic value; durlobactam is a potent inhibitor of class A, C, and D enzymes commonly produced by CRAB, enabling lower doses of sulbactam which can then successfully reach its PBP targets under the protection of durlobactam.
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^87726f6b]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^114TomRU]. Clinical Infectious Diseases (2023). High credibility.
 
 Question 5.2 — sulbactam-durlobactam for carbapenem-resistant Acinetobacter baumannii (CRAB): Sulbactam-durlobactam is a preferred agent for the treatment of CRAB infections and is suggested to be administered in combination with imipenem-cilastatin or meropenem.
 
 ---
 
-### Infectious Diseases Society of America 2024 guidance on the treatment of antimicrobial-resistant Gram-Negative infections [^7a58c68c]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America 2024 guidance on the treatment of antimicrobial-resistant Gram-Negative infections [^1148PJsM]. Clinical Infectious Diseases (2024). High credibility.
 
 Regarding medical management for antimicrobial-resistant Gram-negative infections, more specifically with respect to management of A. baumannii infections, carbapenem-resistant, IDSA 2024 guidelines recommend to consider administering high-dose ampicillin/sulbactam as a component of combination therapy as an alternate option for the treatment of carbapenem-resistant A. baumannii infections when the unavailability of sulbactam/durlobactam precludes its use.
 
 ---
 
-### Infectious Diseases Society of America 2024 guidance on the treatment of antimicrobial-resistant Gram-Negative infections [^d5e46c43]. Clinical Infectious Diseases (2024). High credibility.
+### Infectious Diseases Society of America 2024 guidance on the treatment of antimicrobial-resistant Gram-Negative infections [^116U764a]. Clinical Infectious Diseases (2024). High credibility.
 
 Regarding medical management for antimicrobial-resistant Gram-negative infections, more specifically with respect to management of A. baumannii infections, carbapenem-resistant, IDSA 2024 guidelines recommend to consider administering an antibiotic regimen including a sulbactam/containing agent, preferably sulbactam/durlobactam in combination with a carbapenem such as imipenem/cilastatin or meropenem, for the treatment of carbapenem-resistant A. baumannii infections. Administer high-dose ampicillin-sulbactam (total daily dose of 9 g of the sulbactam component) in combination with at least one other agent (polymyxin B, minocycline > tigecycline, or cefiderocol) as an alternative option if sulbactam/durlobactam is not available.
 
 ---
 
-### EMA drug information for vildagliptin [^b4a331fe]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^115cob2V]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of intra-abdominal infections in adults is:
 
@@ -505,7 +505,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of intra-abdomina
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^86acf0ca]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^114SfRv9]. FDA (2025). Medium credibility.
 
  Impaired Renal Function
 
@@ -523,7 +523,7 @@ When concomitant therapy with aminoglycosides is indicated, ampicillin and sulba
 
 ---
 
-### EMA drug information for vildagliptin [^cd3613bc]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^116FEdH5]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of urinary tract infections in adults is:
 
@@ -532,7 +532,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of urinary tract 
 
 ---
 
-### EMA drug information for vildagliptin [^2b843107]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^1127WsR8]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of intra-abdominal infections in adults is:
 
@@ -541,7 +541,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of intra-abdomina
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^7cee86b7]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^114CDaox]. FDA (2025). Medium credibility.
 
 12.1	 Mechanism of Action
 
@@ -563,7 +563,7 @@ The pharmacokinetic properties of the components of XACDURO and the pharmacokine
 
 ---
 
-### EMA drug information for vildagliptin [^89063ccd]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^114W9Q8C]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of skin and soft tissue infections in adults is:
 
@@ -572,7 +572,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of skin and soft 
 
 ---
 
-### EMA drug information for vildagliptin [^f589b1ae]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^117H2DYH]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of urinary tract infections in adults is:
 
@@ -581,7 +581,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of urinary tract 
 
 ---
 
-### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^bd1195e8]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
+### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^115qJZrf]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
 
 MATERIAL AND METHODS
 
@@ -591,13 +591,13 @@ Using the terms "sulbactam" and "pediatric (paediatric)", we systematically coll
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^d9521a67]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^116ZBtei]. FDA (2025). Medium credibility.
 
 The dosage of ampicillin / sulbactam sodium IV for treatment of endocarditis in adults (enterococcal, streptococcal) is 3 g IV q6h for 6 weeks if not aminoglycoside resistant; > 6 weeks if aminoglycoside resistant
 
 ---
 
-### EMA drug information for vildagliptin [^15ba90f4]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^111ZDQXD]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IM for treatment of respiratory tract infections in adults is:
 
@@ -606,13 +606,13 @@ The dosage of cefoperazone / sulbactam sodium IM for treatment of respiratory tr
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^8f59926b]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^114fXKJS]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Clinical evidence in support of dose-optimized ampicillin-sulbactam for the treatment of CRAB infections has been mounting over the past 2 decades. The vast majority of clinical data, however, have come from observational studies rather than rigorously controlled randomized trials. As a result, the data are highly heterogeneous and ampicillin-sulbactam dosing regimens vary significantly across studies. In an effort to elucidate important differences across studies, several meta-analyses have been undertaken comparing sulbactam-based combinations with other combinations. The most recent network meta-analysis and systematic review included 7 randomized clinical trials and 11 observational studies to evaluate endpoints of clinical improvement, clinical cure, microbiologic eradication, and all-cause mortality. The investigators found that sulbactam (≥ 6 g/day) plus another active antibiotic (either levofloxacin or tigecycline) resulted in higher rates of clinical improvement when compared with colistin alone, colistin plus a carbapenem, or colistin with another active agent (relative risk [RR] = 2.99 [95% confidence interval (CI): 1.08–8.24], 3.12 [1.14–8.60], and 3.06 [1.13–8.29], respectively); however, no regimen was associated with significant improvements in survival. An earlier Bayesian network meta-analysis of 23 studies across 2118 patients compared 15 treatment regimens for the primary outcome of all-cause mortality. The analysis showed that sulbactam (3–8 g/day) and high-dose sulbactam (≥ 9 g/day) as monotherapy resulted in the highest probability of reducing mortality when compared with other treatments; however, the combination of sulbactam plus colistin ranked as the lowest. In the same study, sulbactam was superior to colistin monotherapy for reducing all-cause mortality by Bayesian posterior probability estimates (odds ratio [OR] = .27; 95% CI:.06–.91), but high-dose sulbactam (OR = .56; 95% CI:.09–3.17) and sulbactam plus colistin (OR = 2.58; 95% CI:.71–9.88) were not. A third network meta-analysis found that colistin-based combinations were associated with lower all-cause mortality than sulbactam-based combinations. These conflicting results add to the mystery of defining the best treatment options against CRAB, particularly when comparing observational studies that do not have standardized methods or standardized dosing of colistin or sulbactam. Thus, some reliance is needed upon individual studies where standardized approaches are used. In an interim analysis of 23 patients randomized to receive colistin plus levofloxacin (n = 11) or continuous infusion ampicillin-sulbactam (24 g daily; equivalent to 8 g of sulbactam) plus levofloxacin (n = 12) for CRAB pneumonia, significantly higher rates of clinical cure (83% vs 27%; P = 0.007) and lower rates of 28-day mortality (42% vs 82%; P = 0.04) were identified among patients randomized to receive ampicillin-sulbactam. Numerically lower rates of death (17% vs 38%) were also reported among 28 patients randomized to continuous infusion ampicillin-sulbactam or colistin (both administered with inhaled colistin) for multidrug-resistant (MDR) Acinetobacter pneumonia.
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^586f7094]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^113G7Lpb]. FDA (2025). Medium credibility.
 
 8.7 Hepatic Impairment
 
@@ -620,7 +620,7 @@ The effects of hepatic impairment on the pharmacokinetics of sulbactam and durlo
 
 ---
 
-### Editorial commentary: polymyxin-resistant Acinetobacter baumannii: urgent action needed [^77f3db75]. Clinical Infectious Diseases (2015). Low credibility.
+### Editorial commentary: polymyxin-resistant Acinetobacter baumannii: urgent action needed [^1144qSFv]. Clinical Infectious Diseases (2015). Low credibility.
 
 WHAT ARE OUR OPTIONS FOR TREATING INVASIVE XDR A. BAUMANNII INFECTIONS?
 
@@ -628,13 +628,13 @@ XDR A. baumannii invasive infections are frequently managed with polymyxins. If 
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^c1bd2d8c]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^115xE9sZ]. Clinical Infectious Diseases (2023). High credibility.
 
 IDSA AMR Treatment Guidance — carbapenems and siderophore/β-lactam dosing in adults with normal renal and hepatic function — includes creatinine clearance (CrCL)–based adjustments. Meropenem is 1 gram IV every 8 h infused over 30 min for uncomplicated cystitis and 2 grams IV every 8 h infused over 3 h (if feasible) for all other infections. Meropenem-vaborbactam is 4 grams IV every 8 h infused over 3 h. Cefiderocol is 2 grams IV every 8 h infused over 3 h, with CrCL ≥ 120 mL/min dosed as 2 grams IV every 6 h infused over 3 h. Sulbactam-durlobactam is sulbactam 1 gram/durlobactam 1 gram (2 grams total) IV every 6 h infused over 3 h, with CrCL ≥ 130 mL/min dosed as sulbactam 1 gram/durlobactam 1 gram (2 grams total) IV every 4 h infused over 3 h.
 
 ---
 
-### Expert clinical pharmacological advice may make an antimicrobial TDM program for emerging candidates more clinically useful in tailoring therapy of critically ill patients [^f6a0f71a]. Critical Care (2022). Medium credibility.
+### Expert clinical pharmacological advice may make an antimicrobial TDM program for emerging candidates more clinically useful in tailoring therapy of critically ill patients [^117Je2BT]. Critical Care (2022). Medium credibility.
 
 We recognize that our study has some limitations. The retrospective nature of the study design and the short duration of the assessment phase must be acknowledged. The relationship between antimicrobial exposure and clinical outcome was not assessed, even if this was out of the aims of our study. The resources provided in this study could seem very generous. No ECPAs were requested for 5 out of the 15 antimicrobials included in the TDM-guided ECPA program. This is in agreement with the fact that all of these antimicrobials are not widely used in the ICU setting. Posaconazole and isavuconazole are commonly used as chronic therapy or long-term prophylaxis of invasive fungal infections in hematological patients. Ampicillin and or ampicillin–sulbactam have a narrower spectrum of activity, not including particularly Pseudomonas aeruginosa. Ceftazidime is preferred over cefepime due to a lower risk of neurotoxicity especially in critically ill renal patients. However, it is worth mentioning that the CPU of our University tertiary hospital has been established with the intent of planning a very ambitious and extensive ECPA program in the metropolitan area of Bologna. The starting core was the ICU settings within our hospital as the critically ill patients have the highest need for prompt optimization of antimicrobial treatment. Indeed, nowadays the ECPA program has just been extended hospital wide, and, in the near future, the project is of furtherly extending it to the other three major city hospitals. Finally, we are aware that using precise MIC value for calculating PK/PD target attainment with antimicrobials may sometimes be imprecise due to some variability associated with MIC determination, especially with automated testing methods. Conversely, the large sample size, the relevant number of delivered ECPAs, and the remarkable proportion of recommended dosing adjustments coupled with the optimal TATs of ECPAS strengthen the feasibility and the clinical usefulness of this novel approach.
 
@@ -642,7 +642,7 @@ In conclusion, our study described for the first time the organizational procedu
 
 ---
 
-### EMA drug information for vildagliptin [^c8fab8ad]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^1168xjor]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of bone and joint infections in adults is:
 
@@ -651,19 +651,19 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of bone and joint
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^4cdc591c]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^112xx59M]. Clinical Infectious Diseases (2023). High credibility.
 
 Carbapenem-resistant Acinetobacter baumannii (CRAB) infections — combination therapy rationale: The general approach is to administer combination therapy with at least 2 agents until an appropriate clinical response is observed, and it is generally suggested that at least 1 agent be sulbactam-based; when high-dose sulbactam is used, combination therapy is suggested even though only 1 of 7 clinical trials showed improved clinical outcomes, and the only trial demonstrating benefit included high-dose ampicillin-sulbactam as the combination arm; when sulbactam-durlobactam is unavailable, an alternative is high-dose ampicillin-sulbactam with a total daily dose of 9 grams of the sulbactam component as part of combination therapy; components to consider include polymyxin B, minocycline, and tigecycline, whereas fosfomycin and rifampin are not suggested; two large trials did not show benefit for high-dose extended-infusion carbapenem therapy with colistin, and meropenem or imipenemcilastatin are not suggested as routine components except when administered with sulbactam-durlobactam; nebulized antibiotics are not suggested as adjunctive therapy for CRAB pneumonia because of lack of benefit, distribution concerns, and potential respiratory complications such as bronchoconstriction.
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^ac140a2e]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^115Q7bss]. Clinical Infectious Diseases (2023). High credibility.
 
 Carbapenem-resistant Acinetobacter baumannii (CRAB) infections — general treatment approach: For moderate-severe CRAB infections, the use of an antibiotic regimen which includes a sulbactam-containing agent is suggested; the preferred regimen is sulbactam-durlobactam in combination with a carbapenem (imipenem-cilastatin or meropenem), and if sulbactam-durlobactam is not available, an alternative is high-dose ampicillin-sulbactam (total daily dose of 9 g of the sulbactam component) in combination with at least 1 other agent (polymyxin B, minocycline > tigecycline, or cefiderocol).
 
 ---
 
-### EMA drug information for vildagliptin [^da635ab0]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^116amg1d]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IM for treatment of intra-abdominal infections in adults is:
 
@@ -672,7 +672,7 @@ The dosage of cefoperazone / sulbactam sodium IM for treatment of intra-abdomina
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^3fadb26a]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^112dQZeH]. FDA (2025). Medium credibility.
 
 6.1 Clinical Trials Experience
 
@@ -692,7 +692,7 @@ Adverse reactions were reported in 88% (80/91) of patients in the XACDURO treatm
 
 ---
 
-### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^3f1d8e2b]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
+### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^112ca9YE]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
 
 CONCLUSIONS
 
@@ -700,7 +700,7 @@ This population PK analysis of sulbactam revealed age-related CL change in pedia
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^19f3c073]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^111fUZiJ]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex (CRAB) remains one of the foremost public health challenges of the 21st century. Largely regarded as a top-priority pathogen globally for new antibiotic development, CRAB are notorious for their ability to survive in hospital environments, evade host immunity, acquire new antibiotic-resistance mechanisms, and defy therapeutic countermeasures. Unlike other antibiotic-resistant pathogens, no available treatments have been shown to substantially lower mortality or significantly improve the outcome of patients with invasive CRAB infections. As a result, 28-day mortality rates among patients enrolled in randomized clinical trials investigating CRAB therapeutics exceed 45% (Figure 1). These data underscore disproportionately increased rates of death associated with CRAB infections when compared with other carbapenem-resistant pathogens. Indeed, CRAB infections are the fourth-leading cause of death attributable to antimicrobial resistance globally.
 
@@ -711,7 +711,7 @@ Beyond its public health relevance, assessment and management of individual pati
 
 ---
 
-### The pharmacokinetics / pharmacodynamic relationship of durlobactam in combination with sulbactam in in vitro and in vivo infection model systems versus Acinetobacter baumannii-calcoaceticus complex [^965587f0]. Clinical Infectious Diseases (2023). Medium credibility.
+### The pharmacokinetics / pharmacodynamic relationship of durlobactam in combination with sulbactam in in vitro and in vivo infection model systems versus Acinetobacter baumannii-calcoaceticus complex [^114qssYs]. Clinical Infectious Diseases (2023). Medium credibility.
 
 SULBACTAM-DURLOBACTAM PK/PD TARGETS FOR EFFICACY
 
@@ -719,13 +719,13 @@ Taken collectively, the in vitro and in vivo data support a 1-log 10 CFU reducti
 
 ---
 
-### The pharmacokinetics / pharmacodynamic relationship of durlobactam in combination with sulbactam in in vitro and in vivo infection model systems versus Acinetobacter baumannii-calcoaceticus complex [^7db39cbc]. Clinical Infectious Diseases (2023). Medium credibility.
+### The pharmacokinetics / pharmacodynamic relationship of durlobactam in combination with sulbactam in in vitro and in vivo infection model systems versus Acinetobacter baumannii-calcoaceticus complex [^114DMnMZ]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Acinetobacter baumannii is increasingly associated with serious nosocomial infections often accompanied by high rates of morbidity and mortality. The majority of A. baumannii isolates are multidrug-resistant (MDR), resulting in limited treatment options. Carbapenem-resistant A. baumannii has been identified as a global threat and has been designated as an urgent unmet medical need, requiring new treatment options. Sulbactam-durlobactam (SUL-DUR) is being developed for the treatment of Acinetobacter baumannii-calcoaceticus complex (ABC) infections, including those caused by MDR A. baumannii.
 
 ---
 
-### Ampicillin sodium and sulbactam sodium [^a7bd8e5f]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium [^115Hgbux]. FDA (2025). Medium credibility.
 
 In patients with impaired renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of ampicillin and sulbactam in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE and ADMINISTRATION section).
 
@@ -743,13 +743,13 @@ The pharmacokinetics of ampicillin and sulbactam in pediatric patients receiving
 
 ---
 
-### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^9b6b7e21]. Clinical Infectious Diseases (2016). Medium credibility.
+### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^114yRBon]. Clinical Infectious Diseases (2016). Medium credibility.
 
 Acinetobacter species HAP/VAP — treatment recommendations are: "In patients with HAP/VAP caused by Acinetobacter species, we suggest treatment with either a carbapenem or ampicillin/sulbactam if the isolate is susceptible to these agents (weak recommendation, low-quality evidence)". For isolates "that is sensitive only to polymyxins, we recommend intravenous polymyxin (colistin or polymyxin B) (strong recommendation, low-quality evidence), and we suggest adjunctive inhaled colistin (weak recommendation, low-quality evidence)". For isolates "that is sensitive only to colistin, we suggest NOT using adjunctive rifampicin (weak recommendation, moderate-quality evidence)". Additionally, "we recommend against the use of tigecycline (strong recommendation, low-quality evidence)". Values and preferences: "These recommendations place a relatively higher value on avoiding potential adverse effects due to the use of combination therapy with rifampicin and colistin, over achieving an increased microbial eradication rate, as eradication rate was not associated with improved clinical outcome". Remarks: "Selection of an appropriate antibiotic for definitive (nonempiric) therapy requires antimicrobial susceptibility testing".
 
 ---
 
-### EMA drug information for vildagliptin [^a603be3d]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^115F8Chi]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IM for treatment of intra-abdominal infections in adults is:
 
@@ -758,7 +758,7 @@ The dosage of cefoperazone / sulbactam sodium IM for treatment of intra-abdomina
 
 ---
 
-### EMA drug information for vildagliptin [^e8bc69a3]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^116x3QxJ]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IM for treatment of skin and soft tissue infections in adults is:
 
@@ -767,13 +767,13 @@ The dosage of cefoperazone / sulbactam sodium IM for treatment of skin and soft 
 
 ---
 
-### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^a9fa0daf]. Clinical Infectious Diseases (2016). Medium credibility.
+### Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society [^115Lzu4S]. Clinical Infectious Diseases (2016). Medium credibility.
 
 Acinetobacter species HAP/VAP — antibiotic recommendations: In patients with HAP/VAP caused by Acinetobacter species, we suggest treatment with either a carbapenem or ampicillin/sulbactam if the isolate is susceptible to these agents (weak recommendation, low-quality evidence). In patients with HAP/VAP caused by Acinetobacter species that is sensitive only to polymyxins, we recommend intravenous polymyxins (colistin or polymyxin B) (strong recommendation, low-quality evidence), and we suggest adjunctive inhaled colistin (weak recommendation, low-quality evidence). In patients with HAP/VAP caused by Acinetobacter species that is sensitive only to colistin, we suggest not using adjunctive rifampicin (weak recommendation, moderate-quality evidence). In patients with HAP/VAP caused by Acinetobacter species, we recommend against the use of tigecycline (strong recommendation, low-quality evidence).
 
 ---
 
-### Therapeutic drug monitoring of high-dose sulbactam in pediatric patients: preliminary data from a prospective observational pharmacokinetic study [^98591fd6]. The Pediatric Infectious Disease Journal (2025). Medium credibility.
+### Therapeutic drug monitoring of high-dose sulbactam in pediatric patients: preliminary data from a prospective observational pharmacokinetic study [^114ts47o]. The Pediatric Infectious Disease Journal (2025). Medium credibility.
 
 Background
 
@@ -793,7 +793,7 @@ HD sulbactam resulted in higher Cmid and PK-PD achievement. ARC significantly co
 
 ---
 
-### Ampicillin sodium, sulbactam sodium (ampicillin sodium and sulbactam sodium) [^98fef814]. FDA (2025). Medium credibility.
+### Ampicillin sodium, sulbactam sodium (ampicillin sodium and sulbactam sodium) [^114upm2s]. FDA (2025). Medium credibility.
 
 In patients with impaired renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of Ampicillin and Sulbactam for Injection in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE and ADMINISTRATION section).
 
@@ -811,7 +811,7 @@ The pharmacokinetics of ampicillin and sulbactam in pediatric patients receiving
 
 ---
 
-### Antimicrobials for the treatment of drug-resistant Acinetobacter baumannii pneumonia in critically ill patients: a systemic review and Bayesian network meta-analysis [^b03720d8]. Critical Care (2017). Low credibility.
+### Antimicrobials for the treatment of drug-resistant Acinetobacter baumannii pneumonia in critically ill patients: a systemic review and Bayesian network meta-analysis [^115WFLas]. Critical Care (2017). Low credibility.
 
 Study characteristics
 
@@ -824,13 +824,13 @@ Abbreviations: AB Acinetobacter baumannii, CAR carbapenem, COL colistin (mostly 
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^d6ec9cf3]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^116VdpuG]. FDA (2025). Medium credibility.
 
 The drug Sulbactam / durlobactam (also known as Xacduro).
 
 ---
 
-### Ampicillin sodium, sulbactam sodium (ampicillin sodium and sulbactam sodium) [^4db10c82]. FDA (2025). Medium credibility.
+### Ampicillin sodium, sulbactam sodium (ampicillin sodium and sulbactam sodium) [^112zBWtZ]. FDA (2025). Medium credibility.
 
 Impaired Renal Function
 
@@ -858,19 +858,19 @@ Ampicillin and Sulbactam for Injection, USP sterile powder for intravenous use m
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^4ab01958]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^112ujEYF]. FDA (2025). Medium credibility.
 
 The drug Ampicillin / sulbactam (also known as Abelcet).
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^85de66ec]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^114RU4Dq]. Clinical Infectious Diseases (2023). Medium credibility.
 
 A similar paradigm was previously established for the treatment of Klebsiella pneumoniae carbapenemase (KPC)–producing Enterobacterales, where the utility of dual carbapenem therapy, or even extremely high doses of meropenem, to overcome KPC-mediated hydrolysis was investigated. While some clinical reports were encouraging, efficacy ultimately depended upon the use of carbapenems in combination with other in vitro active agents when carbapenem MICs were 8 mg/L or less. Even with ideal circumstances, patient outcomes remained poor. These strategies have largely been abandoned since the introduction of novel β-lactamase inhibitors like avibactam, relebactam, and vaborbactam, that inhibit KPC-mediated hydrolysis and protect partner β-lactam agents. Use of these novel agents has led to dramatically improved clinical outcomes and lower mortality for patients with KPC-producing Enterobacterales infections when compared with traditional combination approaches. A compelling hypothesis based on these data can be proposed for sulbactam, such that optimal use of sulbactam against CRAB is to similarly protect this agent from hydrolysis with a β-lactamase inhibitor. Until such options are clinically available and the evidence is fully evaluated, high-dose ampicillin-sulbactam (defined as regimens of at least 9 g/day of sulbactam) should be used in combination with at least 1 other in vitro active agent, and potentially 2 in vitro active agents when sulbactam MICs are either unknown or ≥ 16 mg/L. Which agents to use in combination is best informed by the infection site and patient-specific risk factors as summarized below.
 
 ---
 
-### Flexible development programs for antibacterial drugs to address unmet medical needs [^8de223e6]. Emerging Infectious Diseases (2024). Medium credibility.
+### Flexible development programs for antibacterial drugs to address unmet medical needs [^114dMDJV]. Emerging Infectious Diseases (2024). Medium credibility.
 
 The Example of Sulbactam/Durlobactam
 
@@ -882,7 +882,7 @@ Approval of sulbactam/durlobactam relied primarily on a single phase 3, randomiz
 
 ---
 
-### Ampicillin sodium and sulbactam sodium [^4a0b3d80]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium [^112tmrqD]. FDA (2025). Medium credibility.
 
 COMPATIBILITY, RECONSTITUTION AND STABILITY
 
@@ -890,13 +890,13 @@ When concomitant therapy with aminoglycosides is indicated, ampicillin and sulba
 
 ---
 
-### Multiresistant Acinetobacter infections: a role for sulbactam combinations in overcoming an emerging worldwide problem [^ec8c2c83]. Clinical Microbiology and Infection (2002). Low credibility.
+### Multiresistant Acinetobacter infections: a role for sulbactam combinations in overcoming an emerging worldwide problem [^1173hAKC]. Clinical Microbiology and Infection (2002). Low credibility.
 
 Recent studies have highlighted the emergence of infections involving multiresistant Acinetobacter clinical isolates. Sulbactam offers direct antimicrobial activity against Acinetobacter species. Accordingly, co-administration of sulbactam with ampicillin or cefoperazone offers the potential of effective empirical therapy against Acinetobacter and other bacteria such as Enterobacteriaceae in institutions in which they are susceptible. Many in vitro studies have indicated that Acinetobacter remains fully susceptible to ampicillin-sulbactam or cefoperazone-sulbactam. Furthermore, ampicillin-sulbactam has proven clinically effective and well tolerated in the treatment of severe acinetobacter infections, including bacteremia. Therefore, ampicillin-sulbactam is a sensible option for the treatment of life-threatening acinetobacter infections.
 
 ---
 
-### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^05a22a2b]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
+### Population pharmacokinetic analysis and pharmacodynamic evaluation of sulbactam in pediatric patients: dosing suggestions for Acinetobacter baumannii infections [^1119MQdg]. Journal of the Pediatric Infectious Diseases Society (2025). Medium credibility.
 
 PD Evaluation
 
@@ -910,7 +910,7 @@ Probabilities of Attaining the Bactericidal Target for Sulbactam. Probabilities 
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^d5edd9e3]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^116UAFjp]. FDA (2025). Medium credibility.
 
 General
 
@@ -932,7 +932,7 @@ The pharmacokinetics of ampicillin and sulbactam in pediatric patients receiving
 
 ---
 
-### Drug concentrations in the serum and cerebrospinal fluid of patients treated with cefoperazone / sulbactam after craniotomy [^340646b0]. BMC Anesthesiology (2015). Low credibility.
+### Drug concentrations in the serum and cerebrospinal fluid of patients treated with cefoperazone / sulbactam after craniotomy [^112L8TvX]. BMC Anesthesiology (2015). Low credibility.
 
 Discussion
 
@@ -940,7 +940,7 @@ PK/PD studies in recent years have shown that extension of the single-dose infus
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^89e956d2]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^114XTgRP]. FDA (2025). Medium credibility.
 
 CONTRAINDICATIONS
 
@@ -950,7 +950,7 @@ Ampicillin and sulbactam for injection is contraindicated in patients with a pre
 
 ---
 
-### Antimicrobials for the treatment of drug-resistant Acinetobacter baumannii pneumonia in critically ill patients: a systemic review and Bayesian network meta-analysis [^63dc3d20]. Critical Care (2017). Low credibility.
+### Antimicrobials for the treatment of drug-resistant Acinetobacter baumannii pneumonia in critically ill patients: a systemic review and Bayesian network meta-analysis [^113Z3kVm]. Critical Care (2017). Low credibility.
 
 Background
 
@@ -970,7 +970,7 @@ This Bayesian network meta-analysis demonstrated the comparative effectiveness o
 
 ---
 
-### EMA drug information for vildagliptin [^59be4df5]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^113J3pWg]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IV for treatment of genital tract infections in adults is:
 
@@ -979,14 +979,14 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of genital tract 
 
 ---
 
-### EMA drug information for vildagliptin [^c9edfa76]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^116ANSqT]. FDA. Low credibility.
 
 Regarding the use of cefoperazone / sulbactam IV (also known as Magnex) in patients with eGFR 15–30 mL/min/1.73 m²:
 - Maximal dose of 1,000 mg of sulbactam BID.
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^191ea956]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^111eEzNy]. FDA (2025). Medium credibility.
 
 Specific Populations
 
@@ -1008,7 +1008,7 @@ Sulbactam and durlobactam are primarily cleared renally; therefore, hepatic impa
 
 ---
 
-### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^3eece94b]. FDA (2025). Medium credibility.
+### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^112cHosp]. FDA (2025). Medium credibility.
 
 Labeled indications for Ampicillin / sulbactam (also known as Abelcet) include:
 
@@ -1021,7 +1021,7 @@ Off-label indications for Ampicillin / sulbactam (also known as Abelcet) include
 
 ---
 
-### Sulbactam and durlobactam (Xacduro) [^485f0253]. FDA (2025). Medium credibility.
+### Sulbactam and durlobactam (Xacduro) [^112rJ2DY]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -1047,7 +1047,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 ---
 
-### Optimization of the treatment with β-lactam antibiotics in critically ill patients-guidelines from the French society of pharmacology and therapeutics (sociéTéfrançaise de pharmacologie et Thérapeutique-SFPT) and the French society of anaesthesia and intensive care medicine (sociéTéfrançaise D'anesthésie et Réanimation-SFAR) [^3b2120b4]. Critical Care (2019). Medium credibility.
+### Optimization of the treatment with β-lactam antibiotics in critically ill patients-guidelines from the French society of pharmacology and therapeutics (sociéTéfrançaise de pharmacologie et Thérapeutique-SFPT) and the French society of anaesthesia and intensive care medicine (sociéTéfrançaise D'anesthésie et Réanimation-SFAR) [^112WfQ1R]. Critical Care (2019). Medium credibility.
 
 Background
 
@@ -1057,7 +1057,7 @@ The severity of infections and the frequent resistance in ICU-acquired infection
 
 ---
 
-### Antibiotic prophylaxis of early onset pneumonia in critically ill comatose patients. A randomized study [^95cf39b6]. Intensive Care Medicine (2005). Low credibility.
+### Antibiotic prophylaxis of early onset pneumonia in critically ill comatose patients. A randomized study [^114q6m4q]. Intensive Care Medicine (2005). Low credibility.
 
 Objective
 
@@ -1089,7 +1089,7 @@ Antibiotic prophylaxis with ampicillin-sulbactam significantly reduced the occur
 
 ---
 
-### EMA drug information for vildagliptin [^ae0db200]. FDA. Low credibility.
+### EMA drug information for vildagliptin [^115T3Sqm]. FDA. Low credibility.
 
 The dosage of cefoperazone / sulbactam sodium IM for treatment of bone and joint infections in adults is:
 
@@ -1098,13 +1098,13 @@ The dosage of cefoperazone / sulbactam sodium IM for treatment of bone and joint
 
 ---
 
-### The surgical infection society revised guidelines on the management of intra-abdominal infection [^6a70ed92]. Surgical Infections (2017). Medium credibility.
+### The surgical infection society revised guidelines on the management of intra-abdominal infection [^113ioctR]. Surgical Infections (2017). Medium credibility.
 
 Ampicillin–sulbactam — role in empiric therapy for intra-abdominal infection (IAI): Based on clinical and microbiologic data, the task force concluded that other agents were preferable to ampicillin–sulbactam for the empiric treatment of patients with IAI, noting limited efficacy studies and low susceptibility of Escherichia coli. In the most recent SMART data, only 34% of hospital-associated strains and 45% of community-acquired strains of E. coli were susceptible to this agent, and one study since 2008 found ampicillin–sulbactam inferior to ertapenem. Although ampicillin–sulbactam does have some activity against A. baumannii and may have use in pathogen-directed therapy, the majority of Acinetobacter strains isolated from patients with IAI are not susceptible.
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^cc4a861f]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^116DsWLE]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Abstract
 
@@ -1112,13 +1112,13 @@ Carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex (CRAB) is one
 
 ---
 
-### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^cfd7e7b3]. Clinical Infectious Diseases (2023). High credibility.
+### Infectious Diseases Society of America 2023 guidance on the treatment of antimicrobial resistant Gram-Negative infections [^116K8xWE]. Clinical Infectious Diseases (2023). High credibility.
 
 IDSA 2023 guidance — extended-infusion carbapenems for carbapenem-resistant Acinetobacter baumannii (CRAB): Suggested approach: Meropenem or imipenem-cilastatin are not suggested for the treatment of CRAB infections, with the exception of co-administration with sulbactam-durlobactam. Rationale notes that in vitro data suggest that triple-combination therapies consisting of meropenem, ampicillin-sulbactam, and minocycline or meropenem, ampicillin-sulbactam, and polymyxin B may lead to microbiological efficacy against CRAB.
 
 ---
 
-### Can pharmacokinetic and pharmacodynamic principles Be applied to the treatment of multidrug-resistant Acinetobacter? [^6c773945]. The Annals of Pharmacotherapy (2011). Low credibility.
+### Can pharmacokinetic and pharmacodynamic principles Be applied to the treatment of multidrug-resistant Acinetobacter? [^113moi6p]. The Annals of Pharmacotherapy (2011). Low credibility.
 
 Objective
 
@@ -1142,13 +1142,13 @@ Increased reliance on dosage optimization, combination therapy, and localized de
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^ad83e7df]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^115SFAV4]. Clinical Infectious Diseases (2023). Medium credibility.
 
 Carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex (CRAB) is one of the top-priority pathogens for new antibiotic development. Unlike other antibiotic-resistant threats, none of the available therapies have been shown to consistently reduce mortality or improve patient outcomes in clinical trials. Antibiotic combination therapy is routinely used in clinical practice; however, the preferred combination has not been defined. This narrative review focuses on evidence-based solutions for the treatment of invasive CRAB infections. We dissect the promise and perils of traditional agents used in combination, such as colistin, sulbactam, and the tetracyclines, and offer clinical pearls based on our interpretation of the available data. Next, we investigate the merits of newly developed β-lactam agents like cefiderocol and sulbactam-durlobactam, which have demonstrated contrasting results in recent randomized clinical trials. The review concludes with the authors' perspective on the evolving treatment landscape for CRAB infections, which is complicated by limited clinical data, imperfect treatment options, and a need for future clinical trials. We propose that effective treatment for CRAB infections requires a personalized approach that incorporates host factors, the site of infection, pharmacokinetic-pharmacodynamic principles, local molecular epidemiology of CRAB isolates, and careful interpretation of antibiotic susceptibility testing results. In most clinical scenarios, a dose-optimized, sulbactam-based regimen is recommended with the addition of at least one other in vitro active agent. Should sulbactam-durlobactam receive regulatory approval, recommendations will need to be re-evaluated with the most recent evidence.
 
 ---
 
-### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^28a107fd]. Clinical Infectious Diseases (2023). Medium credibility.
+### Navigating available treatment options for carbapenem-resistant Acinetobacter baumannii-calcoaceticus complex infections [^1123EbQx]. Clinical Infectious Diseases (2023). Medium credibility.
 
 IS THERE A ROLE FOR TETRACYCLINES IN TREATMENT ALGORITHMS FOR INVASIVE CRAB INFECTIONS?
 
@@ -1156,7 +1156,7 @@ Unlike polymyxin- or sulbactam-based combinations, no randomized clinical trials
 
 ---
 
-### Seven versus 14 days of antimicrobial therapy for severe multidrug-resistant Gram-negative bacterial infections in intensive care unit patients (OPTIMISE): a randomised, open-label, non-inferiority clinical trial [^c3e38732]. Critical Care (2024). Medium credibility.
+### Seven versus 14 days of antimicrobial therapy for severe multidrug-resistant Gram-negative bacterial infections in intensive care unit patients (OPTIMISE): a randomised, open-label, non-inferiority clinical trial [^1161R1ZK]. Critical Care (2024). Medium credibility.
 
 Definitions
 

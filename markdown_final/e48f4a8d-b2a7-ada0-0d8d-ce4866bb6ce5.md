@@ -73,19 +73,19 @@ The correct answer is **A. Acceptance of a client relationship**, as it is a req
 
 ## References
 
-### Do hospitalist physicians improve the quality of inpatient care delivery? A systematic review of process, efficiency and outcome measures [^7a1b6cc3]. BMC Medicine (2011). Low credibility.
+### Do hospitalist physicians improve the quality of inpatient care delivery? A systematic review of process, efficiency and outcome measures [^11482hfG]. BMC Medicine (2011). Low credibility.
 
 In this systematic review, we propose a modified version of Donabedian's framework as a simple conceptual map for understanding and synthesizing hospitalist performance, recognizing that an organization's structures, processes, and outcomes are interrelated and influence one another. By organizing these relationships into categories, researchers can logically predict and test relationships between constructs of interest and, in doing so, facilitate progression in the field of hospital medicine and quality initiatives. Structural differences between physician models should correlate with changes in the processes of care delivery, which in turn help drive improvements in operating efficiency and clinical outcomes. The results summarized in this review are important, as they suggest that the identification, labelling, and comparing of physicians as either 'hospitalists', 'traditional academic attending physicians', or 'community-based' providers is not sensitive enough to adequately differentiate the key structural characteristics which define hospitalists as distinct from other inpatient physicians and subsequently drive improvements in patient-level outcomes. The list of structural characteristics included in our conceptual model (Figure 1) quickly makes it apparent that inpatient physicians have access to many of the same resources and supports, regardless of job title, training, or time spent on service. By restricting all organizational aspects of a practice model to a single explanatory dummy variable as the vast majority of hospitalist evaluations have done, we do see evidence of improved performance in operating efficiency; however, we do not have a clear picture of where or how these efficiency gains occur and why we do not see similar improvement in related areas of quality (mainly processes and outcome measures).
 
 ---
 
-### Implementing an effective organization and governance structure for a radiology practice [^65207bde]. Journal of the American College of Radiology (2004). Low credibility.
+### Implementing an effective organization and governance structure for a radiology practice [^113avfJM]. Journal of the American College of Radiology (2004). Low credibility.
 
 Radiology practices that are well organized and effectively governed have a competitive advantage. Decisions are made rapidly, actions are taken decisively and in accordance with established policy, and each group member has a responsibility for practice building. Such groups are perceived by their peers, hospital administration, and community business leaders to be both formidable and effective. This paper details the mechanisms that facilitate planning for and implementing an efficient practice organization and governance structure. The tasks of group leaders are defined, as are the committees necessary for appropriate action. The integral roles of a mission statement and a business plan are discussed. Practices adopting the suggested organizational structure will be best positioned to survive in both good times and bad.
 
 ---
 
-### SARS-CoV-2 wastewater surveillance for public health action [^e63c9bf6]. Emerging Infectious Diseases (2021). Medium credibility.
+### SARS-CoV-2 wastewater surveillance for public health action [^116tLWaZ]. Emerging Infectious Diseases (2021). Medium credibility.
 
 Early in the pandemic, in many municipalities, no organizational structure or identified agency existed to facilitate wastewater surveillance implementation. Because of the multidisciplinary nature of wastewater surveillance, multiple partners have a critical role. However, active working relationships across wastewater and public health agencies rarely exist. Although municipal wastewater agencies are actively engaged in public health disease prevention by treating wastewater, they often are not engaged in infectious disease response efforts. Central to our discussions with public health and wastewater practitioners was an overwhelming desire for an improved organizational structure between the various stakeholders needed to conduct a wastewater surveillance program. In particular, new organizational leadership is needed to improve the efficiency of wastewater surveillance program implementation.
 
@@ -93,19 +93,19 @@ In response to the COVID-19 pandemic, researchers partnered with wastewater and 
 
 ---
 
-### A new era in quality measurement: the development and application of quality measures [^891a5c6c]. Pediatrics (2017). Medium credibility.
+### A new era in quality measurement: the development and application of quality measures [^114WGAAP]. Pediatrics (2017). Medium credibility.
 
 Types of quality measures — categorization and definitions — state that although many quality measures are available, most are categorized into 1 of 3 measure types: structure, process, or outcomes. Structural measures assess "sufficiency of resources and proper system design", including organizational characteristics and the use of specific systems for improving care. Process measures assess the interaction between the patient (and/or his or her family) and the practitioner and the way in which care and services are provided, including assessment, evaluation, diagnosis, and treatment. Outcome measures assess the effect of care delivered on the patient's (and family's) health and function. The Institute of Medicine specified 6 key domains or targets for improving health care quality: safety, timeliness, effectiveness, efficiency, equity, and patient/ family centeredness.
 
 ---
 
-### Organizational effectiveness: a key to R&D productivity [^94449777]. Nature Reviews: Drug Discovery (2016). Medium credibility.
+### Organizational effectiveness: a key to R&D productivity [^114npCyt]. Nature Reviews: Drug Discovery (2016). Medium credibility.
 
 While the pharmaceutical industry overall has faced huge challenges in drug R&D in recent years, some major companies have consistently been much more productive than average. Here, we highlight 'organizational effectiveness' as a key factor underlying this superior performance and explain how it can be enhanced.
 
 ---
 
-### The professional and organizational future of imaging [^b155d06a]. Insights Into Imaging (2010). Low credibility.
+### The professional and organizational future of imaging [^115Xudg5]. Insights Into Imaging (2010). Low credibility.
 
 Possible solutions
 
@@ -117,7 +117,7 @@ The solutions imply that there is wide agreement on a number of starting princip
 
 ---
 
-### PIPELINEs: creating comparable clinical knowledge efficiently by linking trial platforms [^a09a1878]. Clinical Pharmacology and Therapeutics (2016). Low credibility.
+### PIPELINEs: creating comparable clinical knowledge efficiently by linking trial platforms [^11576n7Z]. Clinical Pharmacology and Therapeutics (2016). Low credibility.
 
 Extensions
 
@@ -133,7 +133,7 @@ Developments in allied fields continue advancing rapidly. PIPELINEs must monitor
 
 ---
 
-### National standards for diabetes self-management education and support [^bca5a30a]. Diabetes Care (2014). Low credibility.
+### National standards for diabetes self-management education and support [^115pgJr5]. Diabetes Care (2014). Low credibility.
 
 STANDARD 1
 
@@ -147,7 +147,7 @@ Documentation of an organizational structure that delineates channels of communi
 
 ---
 
-### National standards for diabetes self-management education and support [^c247d5d0]. Diabetes Care (2013). Low credibility.
+### National standards for diabetes self-management education and support [^115y2j8j]. Diabetes Care (2013). Low credibility.
 
 STANDARD 1
 
@@ -161,7 +161,7 @@ Documentation of an organizational structure that delineates channels of communi
 
 ---
 
-### National standards for diabetes self-management education [^6cb2e7fe]. Diabetes Care (2012). Low credibility.
+### National standards for diabetes self-management education [^113n9kow]. Diabetes Care (2012). Low credibility.
 
 STANDARDS
 
@@ -177,25 +177,25 @@ Documentation of the organizational structure, mission statement, and goals can 
 
 ---
 
-### Relationships between volume, efficiency, and quality in surgery – a delicate balance from managerial perspectives [^955ff86c]. World Journal of Surgery (2005). Low credibility.
+### Relationships between volume, efficiency, and quality in surgery – a delicate balance from managerial perspectives [^114pTPeK]. World Journal of Surgery (2005). Low credibility.
 
 Volume, efficiency, and quality in hospital care are often mixed in debate. We analyze how these dimensions are interrelated in surgical hospital management, with particular focus on volume effects: under financial constraints, efficiency is the best form of cost control. External perception of quality is important to attract patients and gain volumes. There are numerous explicit and implicit notions of surgical quality. The relevance of implicit criteria (functionality, reliability, consistency, customaziability, convenience) can change in the time course of hospital competition. Outcome data theoretically are optimal measures of quality, but surgical quality is multifactorially influenced by case mix, surgical technique, indication, process designs, organizational structures, and volume. As quality of surgery is hard to grade, implicit criteria such as customizability currently often overrule functionality (outcome) as the dominant market driver. Activities and volumes are inputs to produce quality. Capability does not translate to ability in a linear function. Adequate process design is important to realize efficiency and quality. Volumes of activities, degree of standardization, specialization, and customer involvement are relevant estimates for process design in services. Flow-orientated management focuses primarily on resource utilization and efficiency, not on surgical quality. The relationship between volume and outcome in surgery is imperfectly understood. Factors involve learning effects both on process efficiency and quality, increased standardization and task specialization, process flow homogeneity, and potential for process integration. Volume is a structural component to develop efficiency and quality. The specific capabilities and process characteristics that contribute to surgical outcome improvement should be defined and exported. Adequate focus should allow even small institutions to benefit from volume-associated effects. All volumes-based learning within standardized processes will finally lead to a plateauing of quality. Only innovations will then further improve quality. Possessing volume can set the optimal ground for continuous process research, subsequent change, innovation, and optimization, while volume itself appears not to be a quality prerequisite.
 
 ---
 
-### 2023 HRS / EHRA / APHRS / LAHRS expert consensus statement on practical management of the remote device clinic [^53460b2c]. Heart Rhythm (2023). High credibility.
+### 2023 HRS / EHRA / APHRS / LAHRS expert consensus statement on practical management of the remote device clinic [^1138TVx7]. Heart Rhythm (2023). High credibility.
 
 Remote monitoring workload and organizational models — supportive evidence: The continued uptake of RM has led to a deluge of data from scheduled and unscheduled RM transmissions, and some institutions report receiving > 100,000 transmissions annually. Although RM transmission volume can be extremely high, RM transmission review can be highly efficient, as long as staff, workflow, and decision trees are in place. A structured organizational model (Italian HomeGuideRegistry) of a primary nurse and physician team to review RM transmissions and manage RM patients was found to be highly effective, safe, and efficient, and subsequent observational studies corroborated structured organizational models with dedicated staff, workflows, and decision trees, showing improvements in patient management, timely detection of actionable events, and gains in clinic efficiencies. Structured workflow with dedicated RM staff may have contributed to improved outcomes in patients on RM in the implant-based multiparameter telemonitoring of patients with HF randomized controlled trial (IN-TIME).
 
 ---
 
-### Inferring neural signalling directionality from undirected structural connectomes [^574df41e]. Nature Communications (2019). High credibility.
+### Inferring neural signalling directionality from undirected structural connectomes [^113ES7BB]. Nature Communications (2019). High credibility.
 
 Neural information flow is inherently directional. To date, investigation of directional communication in the human structural connectome has been precluded by the inability of non-invasive neuroimaging methods to resolve axonal directionality. Here, we demonstrate that decentralized measures of network communication, applied to the undirected topology and geometry of brain networks, can infer putative directions of large-scale neural signalling. We propose the concept of send-receive communication asymmetry to characterize cortical regions as senders, receivers or neutral, based on differences between their incoming and outgoing communication efficiencies. Our results reveal a send-receive cortical hierarchy that recapitulates established organizational gradients differentiating sensory-motor and multimodal areas. We find that send-receive asymmetries are significantly associated with the directionality of effective connectivity derived from spectral dynamic causal modeling. Finally, using fruit fly, mouse and macaque connectomes, we provide further evidence suggesting that directionality of neural signalling is significantly encoded in the undirected architecture of nervous systems.
 
 ---
 
-### Neural network correlates of high-altitude adaptive genetic variants in tibetans: a pilot, exploratory study [^3f60756a]. Human Brain Mapping (2020). Medium credibility.
+### Neural network correlates of high-altitude adaptive genetic variants in tibetans: a pilot, exploratory study [^112cxcvM]. Human Brain Mapping (2020). Medium credibility.
 
 2.7.1 Global whole‐brain organization
 
@@ -207,13 +207,13 @@ Modular structure is an important organizational principle for human brain netwo
 
 ---
 
-### Structurational divergence: a contributing factor to moral injury among health care workers [^77e5be40]. Family Medicine (2025). Medium credibility.
+### Structurational divergence: a contributing factor to moral injury among health care workers [^1144khHy]. Family Medicine (2025). Medium credibility.
 
 To provide quality patient care, health professionals must be able to effectively communicate interpersonally and in team environments. While a lack of communication and conflict negotiation skills certainly can create obstacles to patient care, the organizational structures in which health professionals do their work also can obstruct communication or make it more difficult. Structurational divergence theory helps identify and explain the negative communication cycles that result when individuals must fulfill obligations from multiple competing systems, each with its own social rules. The structure of health care delivery systems also can result in structurational divergence, as health care workers must often navigate the space between their clinician priorities of improved patient health and the corporate priorities of greater efficiency and profit. This divergence creates tension for the clinician that can lead to burnout and moral injury, especially when the clinician feels forced to act outside the patient's best interests. Individual efforts to address moral injury are less likely to be successful than collective group action. However, medical education can take steps to prepare students with the knowledge and tools necessary to navigate competing role demands, systemic obstacles, and ethical dilemmas to ensure quality patient care.
 
 ---
 
-### Reviewing the 95 sociotechnical barriers to the decarbonization of buildings [^068c8d33]. Nature Communications (2025). High credibility.
+### Reviewing the 95 sociotechnical barriers to the decarbonization of buildings [^111Ai8re]. Nature Communications (2025). High credibility.
 
 Treasure instruments in the form of financial "carrots", incentivize efficiency, electrification, and renewable infrastructure through tax credits, subsidies, rebates, or penalties. Financial incentives support both supply-side solutions (e.g. solar panel subsidies, heat pump subsidies, grid infrastructure improvements) and demand-side actions (e.g. rebates for efficient appliances, windows, or energy retrofits). These instruments are especially important when new technologies face high upfront costs compared to incumbent technology.
 
@@ -221,49 +221,49 @@ To realize both regulation and its financial support apparatus, organizational i
 
 ---
 
-### Rationale, considerations, and goals for atrial fibrillation centers of excellence: a Heart Rhythm Society perspective [^87ab0609]. Heart Rhythm (2020). High credibility.
+### Rationale, considerations, and goals for atrial fibrillation centers of excellence: a Heart Rhythm Society perspective [^114U8mrQ]. Heart Rhythm (2020). High credibility.
 
 Atrial fibrillation centers of excellence (AF CoE) — goals and benefits focus on standardizing care and supporting implementation. There is no accepted definition or consensus-based standard to define an AF CoE. The goal of establishing a health care CoE is to standardize the care of patients with a certain condition(s), based on guideline-directed care, in order to achieve the best outcomes. Stated benefits of creating AF CoEs are to establish a pragmatic organizational framework for AF centers, to implement the framework, and to provide a structure for both maintenance and evolution of AF care. The rationale for establishing AF CoEs includes providing the same high-quality patient experience across health care practices, streamlining health care operations and promoting more efficient utilization of resources, and improving quality and outcomes.
 
 ---
 
-### The time is now: formation of true transplant centers [^7727a086]. American Journal of Transplantation (2008). Low credibility.
+### The time is now: formation of true transplant centers [^1143eqXs]. American Journal of Transplantation (2008). Low credibility.
 
 With the advances in the complexity of medical care there is a need to change the way we are organized in order to deliver that care in the most patient-friendly, efficient manner. This need is perhaps most compellingly manifest in the field of whole organ transplantation. Yet we are trying to deliver medical care with an organizational structure that was developed over 100 years ago when medical practice was considerably different. We argue for the development of a vertically integrated organizational structure in academic health centers for certain disciplines like transplantation. While this new arrangement for medical practice could be applied to many areas of medicine, transplantation is one of the best fields to begin making these changes. True transplant centers would bring avoid fragmentation of care and resources, thus bringing together the medical school and hospital into an integrated organization that would be responsible for all aspects of transplantation such as patient care, research, education and fiscal issues.
 
 ---
 
-### The business of emergency medicine: a model for success [^a5b6b93f]. Emergency Medicine Clinics of North America (2004). Low credibility.
+### The business of emergency medicine: a model for success [^115EgLEz]. Emergency Medicine Clinics of North America (2004). Low credibility.
 
 Today's EPOs and their physicians face an array of daunting challenges. Falling reimbursement, rising malpractice costs. ED and hospital crowding, and demands for improving ED efficiency and patient satisfaction all contribute to the challenging and sometimes threatening environment of EM practice. The EP involved in a busy and often hectic ED shift may feel unduly and unnecessarily distracted when required to continuously acknowledge and address the business aspect of the practice. Nevertheless, regardless of the size and structure, fiscal viability ultimately determines the EPO's ability to continue to offer access to care. This article contends that a comprehensive business strategy drives superior financial performance and supports the organization's mission. The business strategy must identify financial and non-financial determinants of the EPO's success and provide a mechanism for understanding how the organization's resources are converted to value for customers. The section offers a framework for developing this strategy, for identifying possible gaps or deficiencies, and for measuring and monitoring progress in achieving strategic objectives and ultimately, the EPO's mission. The importance of the mission and the dynamic EM environment require that the strategy development process be more than an annual exercise for the leadership of the organization. Though key leaders in any size EPO — set the course for the organization, the entire organization must be aware and understand the strategy before they commit themselves and adopt actions and behaviors that promote it. The model presented here provides a graphic display that lends itself well to consistent communication of a comprehensive strategy in a concise way throughout the organization. Furthermore, the balance of the model, across four perspectives, recognizes the value of balanced organizational objectives and lends itself well to the creation of a measurement system that supports cause and effect relation-ships through leading and lagging indicators. This can prevent the imposition of unproven, arbitrary metrics and expectations.EPOs that expend the time and resources required to develop and implement a comprehensive, well balanced strategy make a long-term investment in their patients and themselves. EPOs that go on to develop credible, efficient measurement systems are not only able to drive more commitment and accountability in the organization, they also have a competitive advantage. They can demonstrate performance history and targeted future performance to differentiate themselves from competitors and to stem efforts to impose unbalanced metrics that do not serve well the hospital, the EPO, and ultimately, patients. The power of such measurement systems, internal and external to the organization, strongly point to the need for consistently defined measures across the industry. Ultimately when faced with changes in the environment, the entire industry will be better equipped to respond in specific ways and to communicate its progress to communities or government authorities.
 
 ---
 
-### Sustaining improvement gains [^55a6dcf8]. Current Problems in Pediatric and Adolescent Health Care (2025). Medium credibility.
+### Sustaining improvement gains [^113ByziB]. Current Problems in Pediatric and Adolescent Health Care (2025). Medium credibility.
 
 A "system" as described by W. Edwards Deming, the father of the quality movement, is a set of interdependent components - structures, people, and processes - working together towards a common purpose. 1 Within health systems, the primary intent and common purpose is to promote, restore, and maintain health by focusing on safety, effectiveness, and efficiency. For these reasons, many organizations devote substantial time and resources to build their improvement capability, but these hard-earned improvements fade as the focus changes to other priorities and workers revert to the old system of doing things. To counter this, many health systems are incorporating methods that ensure initiatives continue to help patients in the short term but also become embedded in the system to help future patients. The Institute for Healthcare (IHI) in their 2016 White Paper suggests that the key to sustaining improvements in systems is to "focus on the daily work of frontline managers, supported by a high-performance management system (HPMS) that prescribes standard tasks and responsibilities for these managers at all levels of the organization". 2 Both these factors are interconnected. An HPMS can be categorized into several areas; quality management, quality control, quality improvement, and a culture of high performance. As a practical example, this paper describes how the IHI framework can be employed to achieve sustainability for quality improvements, using an example of improving problem list utilization at discharge for patients.
 
 ---
 
-### Creating a high-value delivery system for health care [^7c4986f9]. Seminars in Thoracic and Cardiovascular Surgery (2009). Low credibility.
+### Creating a high-value delivery system for health care [^114BGANU]. Seminars in Thoracic and Cardiovascular Surgery (2009). Low credibility.
 
 Health care reform that focuses on improving value enhances both the well-being of patients and the professional satisfaction of physicians. Value in health care is the improvement in health outcomes achieved for patients relative to the money spent. Dramatic and ongoing improvement in the value of health care delivered will require fundamental restructuring of the system. Current efforts to improve safety and reduce waste are truly important but not sufficient. The following three structural changes will drive simultaneous improvement in outcomes and efficiency: (1) reorganizing care delivery into clinically integrated teams defined by patient needs over the full cycle of care; (2) measuring and reporting patient outcomes by clinical teams, across the cycle of care and for identified clusters of medical circumstances; and (3) enabling reimbursement tied to value rather than to quantity of services. Many of these changes require physician leadership. We discuss steps on the journey to value-based care delivery.
 
 ---
 
-### National consensus project clinical practice guidelines for quality palliative care guidelines, 4th edition [^945cd571]. Journal of Palliative Medicine (2018). Medium credibility.
+### National consensus project clinical practice guidelines for quality palliative care guidelines, 4th edition [^114nxMFn]. Journal of Palliative Medicine (2018). Medium credibility.
 
 Domain 1: Structure and Processes of Care — continuous quality improvement criteria state that the program measures and improves quality by systematically collecting and analyzing data on care processes and outcomes, setting improvement targets, and planning and implementing change, with an iterative, ongoing cycle until sustained improvement. The IDT considers the six domains of health care quality as defined in 2001 by the Institute of Medicine (safe, effective, patient-centered, timely, efficient and equitable), identifies care coordination measures for integration into CQI initiatives, uses validated and clinically relevant assessment instruments, quality measures, and experience of care surveys across settings or populations, ensures patients, families, clinicians, and other partners participate in evaluation of the IDT, and participates in quality reporting and accountability programs as required or necessary to maintain licensure or accreditation.
 
 ---
 
-### The department of medicine in 2030: a look ahead [^1546f056]. The American Journal of Medicine (2016). Low credibility.
+### The department of medicine in 2030: a look ahead [^111YYZvD]. The American Journal of Medicine (2016). Low credibility.
 
 The authors described the features of a hypothetical academic Department of Medicine in 2030 that would be most effective in improving the public health. Future departments of medicine will be compelled to respond to a projected shortage of physicians through augmented training strategies. The clinical programs will be more decentralized and responsive to patient preferences while demonstrating greater value. Departments will create adaptable, accountable structures in which clinicians working in interdisciplinary teams continuously improve processes and outcomes of care, and clinician and patient satisfaction. The restructuring of health care will afford exciting opportunities to align clinical and scholarly activities. The growing ability to link biological and clinical phenotypic information will lead to more effective and efficient clinical care. In view of the funding constraints and the remarkable opportunities for high-impact research, departmental research programs will become increasingly disciplined. Successful research programs will require durable investments in faculty career development, enabling infrastructure, interdisciplinary research teams, and diverse funding sources. The educational programs will demonstrate proficiency of trainees in the 6 current core competencies, as well as in additional areas critical to health care transformation. To improve organizational effectiveness, departments will create more nimble organizational structures led by individuals with diverse backgrounds. Chairs of departments of medicine will be expected to continuously expand their capacity to meet the evolving needs of their departments and institutions. Members of departments of medicine will be continuously fortified by the privilege and obligations of our profession while embracing the risks necessary to meet the extraordinary opportunities in 2030.
 
 ---
 
-### Relationship of processes and structures of care in general surgery to postoperative outcomes: a descriptive analysis [^3a74e18a]. Journal of the American College of Surgeons (2007). Low credibility.
+### Relationship of processes and structures of care in general surgery to postoperative outcomes: a descriptive analysis [^112VfYNV]. Journal of the American College of Surgeons (2007). Low credibility.
 
 Background
 
@@ -283,7 +283,7 @@ This descriptive analysis provides support for the potential importance of measu
 
 ---
 
-### Organizational characteristics, outcomes, and resource use in 78 Brazilian intensive care units: the ORCHESTRA study [^2828456d]. Intensive Care Medicine (2015). Low credibility.
+### Organizational characteristics, outcomes, and resource use in 78 Brazilian intensive care units: the ORCHESTRA study [^1122Y2pU]. Intensive Care Medicine (2015). Low credibility.
 
 Purpose
 
@@ -303,13 +303,13 @@ In emerging countries such as Brazil, organizational factors, including the impl
 
 ---
 
-### Quality in orthopaedic surgery – an international perspective: AOA critical issues [^426a6f15]. The Journal of Bone and Joint Surgery: American Volume (2013). Low credibility.
+### Quality in orthopaedic surgery – an international perspective: AOA critical issues [^112hTw6k]. The Journal of Bone and Joint Surgery: American Volume (2013). Low credibility.
 
 Quality is a hallmark of health care, although it is difficult to come to a consensus on who gets to define what "quality health care" is. Most health-care workers enter this field with the goal of improving the health of their patients (and the community), and while everyone tries to do the best job possible, we must continuously seek better methods and techniques for achieving better outcomes. The passion for continuous improvement is fundamental, but passion is not sufficient by itself. There is substantial opportunity to improve quality and reduce cost in health care. Multidisciplinary teams that include physicians, nurses, and other ancillary care providers have led to decreased waiting times to see specialists and have also led to better management of chronic disease. By including ancillary care, providers can increase cancer-screening rates and have the potential to decrease readmissions. Moreover, the addition of hospitalists and physician assistants can produce quality and efficiency outcomes that are commensurate with those enjoyed by traditional house staff. However, truly improving performance is difficult due to questions about how we define "quality", design care processes, measure inputs and outputs, develop multi-stakeholder collaborations, and develop incentive programs for delivering "good" care. There is a definite need for more thorough and robust studies of the impact of pay-for-performance programs, with the inclusion of ancillary care providers. Current research has not shown that there is not enough evidence to be able to determine what incentive structure might "work" in a particular health-care system. Payment systems will continue to evolve to incentivize greater collaboration among providers to yield higher-quality, lower-cost care. Future efforts will necessitate the need for strong physician leadership in helping to develop an optimal care team that is as patient-centered as possible. Technology adds dimensions of capability to making improvement real and systematic, as well as providing safer care with fewer errors and better adherence to proven best practices. The drive for quality with technology produces better clinical outcomes and maximizes efficiencies and financial metrics of organizational performance. Technology also adds capabilities for capturing key metrics and reporting them back to clinicians and others. Improved data transparency informs those who can actually do things differently to produce better results and outcomes. While health-care entities strive to focus on quality of care, measuring and reporting such care in a meaningful way are difficult. The best chance of improving overall care for patients is through the adoption of systems that improve coordination and continuity, not by health-care staff working harder. Only through collaboration and integration can health care incorporate a culture for improving quality and patient safety.
 
 ---
 
-### Development and application of' systems thinking' principles for quality improvement [^078ff65a]. BMJ Open Quality (2020). High credibility.
+### Development and application of' systems thinking' principles for quality improvement [^111CDGau]. BMJ Open Quality (2020). High credibility.
 
 Introduction
 
@@ -319,37 +319,37 @@ Systems in healthcare are described as complex. In such systems it can be diffic
 
 ---
 
-### Standards of nutrition care practice and professional performance for nutrition support and generalist nurses [^46178cd6]. Nutrition in Clinical Practice (2016). Medium credibility.
+### Standards of nutrition care practice and professional performance for nutrition support and generalist nurses [^112nv3XB]. Nutrition in Clinical Practice (2016). Medium credibility.
 
 Table 3 competencies — nutrition-related practice and organizational resources enumerate that nurses modify nutrition-related practice to promote positive interaction between patient, care providers, and technology; assist patients and families in identifying and securing appropriate nutrition-related services across the healthcare continuum and in factoring costs, risks, and benefits in decisions about nutrition-related treatment and care; use information related to efficacy, safety, availability, cost, and outcomes to plan, deliver, and evaluate nutrition support care; participate in evaluation of new products and equipment used in the nutrition care (eg, infusion control devices, dressing materials, and feeding formulations) and in the development of organizational policies and procedures designed to provide interdisciplinary and cost-effective nutrition care; serve as a liaison to identify and secure available organizational and community resources to ensure an appropriate level of nutrition care is provided for patients; utilize organizational and community resources to formulate interprofessional plans of nutrition care; formulate innovative solutions for nutrition-related patient care problems that utilize resources effectively and maintains quality; and design nutrition-related evaluation strategies that demonstrate cost-effectiveness, cost-benefit, and efficiency factors associated with nursing practice.
 
 ---
 
-### Translating knowledge into policy: organizational model and minimum requirements for the implementation of a regional pancreas unit network [^a993dba9]. Digestive and Liver Disease (2025). Medium credibility.
+### Translating knowledge into policy: organizational model and minimum requirements for the implementation of a regional pancreas unit network [^115LQa8g]. Digestive and Liver Disease (2025). Medium credibility.
 
 Pancreatic and periampullary cancers pose significant challenges in oncological care due to their complexity and diagnostic difficulties. Global experiences underscore the crucial role of multidisciplinary collaboration and centralized care in improving patient outcomes in this context. Recognizing these challenges, Lombardy, Italy's most populous region, embarked on establishing pancreas units across its territory to enhance clinical outcomes and organizational efficiency. This initiative, driven by a multistakeholder approach involving the Lombardy Welfare Directorate, clinicians, and a patient association, emphasizes the centralization of complex care in high-volume hospitals, adopting a hub-and-spoke model and a multidisciplinary approach. This article outlines the process and criteria set forth for pancreas unit implementation, aiming to provide a structured framework for enhancing pancreatic cancer care. Central to this initiative is the establishment of structured criteria and minimal requirements, not only for surgery but also for other essential components of care, ensuring a comprehensive approach to pancreatic cancer management. The Lombardy model offers a structured framework for enhancing pancreatic cancer care, with potential applicability to other regions and countries seeking to improve their cancer care infrastructure.
 
 ---
 
-### Accounting for healthcare structures when measuring variation in care [^7b1459c3]. Anesthesiology (2025). Medium credibility.
+### Accounting for healthcare structures when measuring variation in care [^1149UK8E]. Anesthesiology (2025). Medium credibility.
 
 Health services research frequently focuses on variation in the structure, process, and outcomes of clinical care. Robust approaches for detection and attribution of variation are foundational to both quality improvement and outcomes research. Describing care in structured healthcare systems across hospitals in which clinicians work to provide care for patients as a multileveled structure allows the impact of organization on practice and outcome to be ascertained. Mixed-effect statistical models can describe both the partitioning of variation among levels of these structures and by inclusion of explanatory variables the valid estimation of the features of health systems, clinicians, or patients, with observed differences in processes or patient outcomes. In this Readers' Toolbox, the authors describe the rationale for considering healthcare structures when assessing clinical practice, outcomes, and sources of variation. They describe statistical considerations and methods for the estimation of analysis of structured data and assessment of variance.
 
 ---
 
-### "The balancing act" – licensed practical nurse experiences of falls and fall prevention: a qualitative study [^c34a3a5d]. BMC Geriatrics (2012). Low credibility.
+### "The balancing act" – licensed practical nurse experiences of falls and fall prevention: a qualitative study [^115zXX2k]. BMC Geriatrics (2012). Low credibility.
 
 In order for learning to be effective, there must be different opportunities for learning within the healthcare organization. Examples include good communication, opportunities for the staff to participate in decision making, and clear organizational goals. To create a safety culture in a nursing home setting, factors as stress level, work climate, efficient work process, and clear organizational goals have been identified. The wards in our study differed in structure. The rehabilitation ward had a clear goal concerning falls and fall prevention whereas the acute ward had many other goals. Studies in primary care settings have shown that learning structures must be designed and implemented at the workplace, otherwise daily clinical routines becomes the priority. The patient safety culture is significantly associated with management commitment to the issue and steps toward implementation have to come from the organizational level.
 
 ---
 
-### ASPEN safe practices for enteral nutrition therapy [formula: see text] [^99671c74]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
+### ASPEN safe practices for enteral nutrition therapy [formula: see text] [^114vRjtF]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
 
 ASPEN safe practices — organizational systems and administrative structures to support a safe enteral nutrition (EN) process: Practice recommendations are to provide leadership and oversight at the healthcare organizational level by competent clinicians knowledgeable in the EN process; develop and implement policies and evidence-based practice guidelines to support the individuals involved in the EN process; develop and implement policies and guidelines collaboratively among all disciplines involved in the EN process, and align policies and procedures from various disciplines, departments, and settings within the organization; and create a formal committee or structure that includes expert clinicians from all disciplines to provide oversight of the EN process. The rationale states that documentation needs to be supported by a strong infrastructure of organizational systems and administrative oversight, that the EN process involves many disciplines and departments, that minimizing risks requires interdisciplinary collaboration, standardization through guidelines, and practice alignment among professions, departments, and settings, and that evidence-based practice guidelines targeted at clinical, departmental, and organizational levels support a safe EN process with aligned and complementary policies to avoid inconsistencies.
 
 ---
 
-### Improving and maintaining radiologic technologist skill using a medical director partnership and technologist coaching model [^bcd1af8d]. AJR: American Journal of Roentgenology (2018). Low credibility.
+### Improving and maintaining radiologic technologist skill using a medical director partnership and technologist coaching model [^115pw6zG]. AJR: American Journal of Roentgenology (2018). Low credibility.
 
 Objective
 
@@ -361,13 +361,13 @@ We have found that a relatively modest investment in medical directorship combin
 
 ---
 
-### PICS / AEPC / APPCS / CSANZ / SCAI / SOLACI: expert consensus statement on cardiac Catheterization for pediatric patients and adults with congenital heart Disease [^6f862f17]. JACC: Cardiovascular Interventions (2024). High credibility.
+### PICS / AEPC / APPCS / CSANZ / SCAI / SOLACI: expert consensus statement on cardiac Catheterization for pediatric patients and adults with congenital heart Disease [^113rLhPt]. JACC: Cardiovascular Interventions (2024). High credibility.
 
 Facility requirements — general considerations state that cardiac catheterization, whether diagnostic or interventional, is an important service in any larger facility providing comprehensive care for pediatric patients and adults with CHD, and while the pediatric and congenital cardiac cath lab is at the center of this service line, it cannot function in isolation and requires a variety of additional care and ancillary services, support structures, organizational arrangements, and administrative support to provide efficient and high-quality care for this patient population. The text emphasizes that there is no single care model that is by default superior to all others and that if facilities recognize potential shortcomings and make appropriate arrangements to address those challenges, then care can successfully be provided in a wide range of different facility models. It further notes that recommendations are influenced by local, regional, and national regulations that often have additional facility requirements, and that those additional requirements need to be accommodated in order to perform cardiac catheterization procedures in pediatric patients and adults with CHD.
 
 ---
 
-### From silos to synergy: integrating academic health informatics with operational IT for healthcare transformation [^2398537c]. NPJ Digital Medicine (2024). Medium credibility.
+### From silos to synergy: integrating academic health informatics with operational IT for healthcare transformation [^111umjR5]. NPJ Digital Medicine (2024). Medium credibility.
 
 Generative AI (GenAI) exemplifies the fundamental advantages of this organizational approach. This disruptive technology has broad applications within an academic medical center, including in research, education, and clinical care delivery. It is also complex and rapidly evolving, requiring significant expertise, oversight, and resources to implement effectively and safely. Furthermore, due to its very nature, GenAI becomes a more powerful tool when it is integrated with data and additional applications. In a traditional structure, innovations using GenAI would be siloed between the various health system functions, with separate efforts occurring for academic investigations, clinical operations improvement projects, and explorations of its value in medical education.
 
@@ -375,7 +375,7 @@ The DHI leveraged its role as an organizational hub to rapidly establish the fir
 
 ---
 
-### A qualitative study exploring the needs related to the health system in women with experience of pregnancy termination due to fetal anomalies in iran [^b99d28a1]. BMC Pregnancy and Childbirth (2020). Medium credibility.
+### A qualitative study exploring the needs related to the health system in women with experience of pregnancy termination due to fetal anomalies in iran [^115kBVqJ]. BMC Pregnancy and Childbirth (2020). Medium credibility.
 
 Results
 
@@ -406,19 +406,19 @@ The statements of the participants included cases that resolving them required t
 
 ---
 
-### Methodology for ACOEM's occupational medicine practice guidelines-2025 revision [^e40d699c]. ACOEM (2025). High credibility.
+### Methodology for ACOEM's occupational medicine practice guidelines-2025 revision [^116q6gYs]. ACOEM (2025). High credibility.
 
 Organizational structure — The ACOEM Board of Directors "has approved the following organizational structure and methods for the development of recommendations for evidence-based practice contained in this update" and "has the opportunity to review and comment on all evidence-based guidelines prior to publication", but "the Board does not officially approve the Guidelines" in order "to maintain editorial independence required of quality guidelines".
 
 ---
 
-### Management of postoperative pain: a clinical practice guideline from the American Pain Society, the American Society of Regional Anesthesia and Pain Medicine, and the American society of anesthesiologists' committee on regional anesthesia, executive committee, and administrative council [^9fb54951]. The Journal of Pain (2016). Medium credibility.
+### Management of postoperative pain: a clinical practice guideline from the American Pain Society, the American Society of Regional Anesthesia and Pain Medicine, and the American society of anesthesiologists' committee on regional anesthesia, executive committee, and administrative council [^1155mvYx]. The Journal of Pain (2016). Medium credibility.
 
 Organizational structure, policies, and procedures — the panel recommends that facilities in which surgery is performed have an organizational structure in place to develop and refine policies and processes for safe and effective delivery of postoperative pain control (strong recommendation, low-quality evidence). Facilities in which surgery is performed should have an organizational structure to oversee the development, implementation, and evaluation of policies and practices to assure safe, evidence-based, and effective postoperative pain control, and measurement-driven models of care through outcomes assessment might be useful to guide quality improvement efforts in postoperative pain control.
 
 ---
 
-### Using a network organisational architecture to support the development of learning healthcare systems [^0372a532]. BMJ Quality & Safety (2018). Medium credibility.
+### Using a network organisational architecture to support the development of learning healthcare systems [^11167UKK]. BMJ Quality & Safety (2018). Medium credibility.
 
 The organisational architecture of Learning Networks
 
@@ -431,19 +431,19 @@ The actor-oriented network organisational form has three components: (1) alignin
 
 ---
 
-### The management of transitional care of patients affected by phenylketonuria in Italy: review and expert opinion [^eac5fc8c]. Molecular Genetics and Metabolism (2022). Medium credibility.
+### The management of transitional care of patients affected by phenylketonuria in Italy: review and expert opinion [^11714c2o]. Molecular Genetics and Metabolism (2022). Medium credibility.
 
 Phenylketonuria (PKU) is a metabolic inherited disorder in which transition from infancy to adult care is particularly difficult and not sufficiently regulated. According to the scientific literature, only few medical centers offer healthcare assistance for adult patients with PKU that are therefore still treated in pediatric settings. This generates psychological, emotional, and organizational discomfort among patients, leading them to discontinue the follow-up. European guidelines and national consensus documents underline this unmet need and the lack of practical recommendations for a structured transitional pathway in PKU. The aim of this review and expert opinion is to propose good practices for managing the transition period of PKU patients, based on the literature and the experience of a panel of Italian experts in PKU. The consensus of the experts was obtained through the administration of three rounds of surveys and one structured interview. The result is the first proposal of a pathway for an efficient transition of PKU patients. Key steps of the proposed pathway are the "a priori" planning involving the pediatric and adult teams, the acceptance of the patient and his/her family to the process, the preliminary definition of appropriate spaces in the structure, the organization of meetings with the joint team, and the appointment of a transition coordinator. For the first time, the involvement of decision makers and patient associations is proposed.
 
 ---
 
-### Evolution of the collaborative pediatric critical care research network [^a8b7778d]. Pediatric Critical Care Medicine (2022). Medium credibility.
+### Evolution of the collaborative pediatric critical care research network [^115K8YZz]. Pediatric Critical Care Medicine (2022). Medium credibility.
 
 The Collaborative Pediatric Critical Care Research Network (CPCCRN) was established by the Eunice Kennedy Shriver National Institute of Child Health and Human Development in May 2005 to develop an infrastructure for collaborative clinical trials and meaningful descriptive studies in pediatric critical care. This article describes the history of CPCCRN, discusses its financial and organizational structure, illustrates how funds were efficiently used to carry out studies, and describes CPCCRN public use datasets and future directions, concluding with the development of the PeRsonalizEd Immunomodulation in PediatriC SepsIS-InducEd MODS study.
 
 ---
 
-### The impact of a prospective survey-based workplace intervention program on employee health, biologic stress markers, and organizational productivity [^22cb989f]. Journal of Occupational and Environmental Medicine (2005). Low credibility.
+### The impact of a prospective survey-based workplace intervention program on employee health, biologic stress markers, and organizational productivity [^111taxxN]. Journal of Occupational and Environmental Medicine (2005). Low credibility.
 
 Objective
 
@@ -463,31 +463,31 @@ Fact-based psychosocial workplace interventions are suggested to be an important
 
 ---
 
-### How I approach: defining the scope of psychosocial care across disciplines in pediatric hematology-oncology [^d131d0dc]. Pediatric Blood & Cancer (2022). Medium credibility.
+### How I approach: defining the scope of psychosocial care across disciplines in pediatric hematology-oncology [^116M99PZ]. Pediatric Blood & Cancer (2022). Medium credibility.
 
 To provide the standard of psychosocial care for children with cancer and hematological disorders and their families, multidisciplinary teams must clearly define their scope and collaborate in ways that optimize the quality and efficiency of care. A new organizational structure was leveraged to delineate roles and scope for each psychosocial discipline at our institution. We developed a document, the scope of psychosocial care (SPC), that serves as a platform for making patient care decisions and provides opportunities for the reevaluation of programming. Herein, we present the process and outcome of the SPC and make recommendations for identifying roles in pediatric psychosocial hematology-oncology.
 
 ---
 
-### Occupational electronic health records: recommendations for the design and implementation of information systems in occupational and environmental medicine practice-ACOEM guidance statement [^52ca8842]. Journal of Occupational and Environmental Medicine (2024). High credibility.
+### Occupational electronic health records: recommendations for the design and implementation of information systems in occupational and environmental medicine practice-ACOEM guidance statement [^1137k1km]. Journal of Occupational and Environmental Medicine (2024). High credibility.
 
 Occupational electronic health records — Conclusions state that a robust, well-designed OEHR should focus on the primary end users (occupational medicine clinicians and the workers who attend their clinics), and simple, efficient user experiences can improve OEM practice quality and promote workplace health and well-being; despite this user focus, OEHR effects can be organization-wide with far‑reaching benefits that improve communication and efficiency across a broad spectrum of occupational health and safety stakeholders; ACOEM has provided 10 specific recommendations that serve as a framework for clinicians and IT professionals to consider in OEHR development, implementation, and optimization; a central foundation for every OEHR is data stewardship and governance ensuring patient privacy and data security via user access controls and permissions management compliant with applicable laws and policies.
 
 ---
 
-### Management of postoperative pain: a clinical practice guideline from the American Pain Society, the American Society of Regional Anesthesia and Pain Medicine, and the American society of anesthesiologists' committee on regional anesthesia, executive committee, and administrative council [^efa7eadb]. The Journal of Pain (2016). Medium credibility.
+### Management of postoperative pain: a clinical practice guideline from the American Pain Society, the American Society of Regional Anesthesia and Pain Medicine, and the American society of anesthesiologists' committee on regional anesthesia, executive committee, and administrative council [^1178JSeW]. The Journal of Pain (2016). Medium credibility.
 
 Regarding quality improvement for postoperative pain, more specifically with respect to hospital policies, APS/ASA/ASRA 2016 guidelines recommend to ensure that facilities performing surgery have an organizational structure in place to develop and refine policies and processes for safe and effective delivery of postoperative pain control.
 
 ---
 
-### Crisis + emergency risk communication. 2012 edition [^66550289]. CDC (2012). Medium credibility.
+### Crisis + emergency risk communication. 2012 edition [^113ciHsW]. CDC (2012). Medium credibility.
 
 Table 7–1 — three perspectives of disaster response coordination — contrasts Bureaucratic, Structural, and Networked approaches by philosophy and example. Bureaucratic emphasizes a "Command-and-control response to chaos in disasters", is "Top-down and centralized", and has a "Rigid, universal, hierarchical structure", with the example "Incident Command System (ICS)". Structural states "Disaster response is a blend of elements of structure (domains and tasks) and agency (resources and activities)" and "A range of different organizational forms created on continuum from formal organizing to collective behavior", with the example "Response to the attacks of September 11, 2001". Networked notes "Networks of organizations are formed to respond to a particular disaster based on needs and situation. Two types: 1. Emergent multi-organizational networks 2. Joint information centers, or JICs" and that "Network structures are flexible and fluid to determine the most successful strategies and organizations necessary", with the example "CDC's JIC".
 
 ---
 
-### An active inference strategy for prompting reliable responses from large language models in medical practice [^137b109f]. NPJ Digital Medicine (2025). Medium credibility.
+### An active inference strategy for prompting reliable responses from large language models in medical practice [^111Vt6rS]. NPJ Digital Medicine (2025). Medium credibility.
 
 Text chunking is a crucial aspect of retrieval in natural language processing, dictating how information is organized and stored for efficient retrieval. The choice of chunk size presents a challenge, with no one-size-fits-all solution. However, various methods exist to enhance retrieval, including improved chunking strategies.
 
@@ -505,19 +505,19 @@ Step 3 is an enhanced search and retrieval. Effective search and retrieval are v
 
 ---
 
-### Multisociety guidance for sterilization and high-level disinfection [^7c5734fe]. Infection Control and Hospital Epidemiology (2025). High credibility.
+### Multisociety guidance for sterilization and high-level disinfection [^114BLksf]. Infection Control and Hospital Epidemiology (2025). High credibility.
 
 Processing structure for sterilization and high-level disinfection (HLD) — centralized versus decentralized: No recommendation can be made for processing structure; however, facilities should assess the role of centralized or decentralized processing structures in minimizing the risk of processing failures, patient risk, and risk to HCP. The structure of processing may be described as centralized or decentralized, some facilities employ a hybrid approach with a portion maintained centrally and a portion decentralized, and the organizational structure chosen can impact risk of processing failures and risks to patients and HCP. Centralized processing conducts all processing in one location or utilizes a common oversight structure (eg, shared leadership, competencies) when processing is done in more than one.
 
 ---
 
-### Consensus statement on advancing research in emergency department operations and its impact on patient care [^c4e5b049]. Academic Emergency Medicine (2015). Low credibility.
+### Consensus statement on advancing research in emergency department operations and its impact on patient care [^1162uivt]. Academic Emergency Medicine (2015). Low credibility.
 
 The consensus conference on "Advancing Research in Emergency Department (ED) Operations and Its Impact on Patient Care", hosted by The ED Operations Study Group (EDOSG), convened to craft a framework for future investigations in this important but understudied area. The EDOSG is a research consortium dedicated to promoting evidence-based clinical practice in emergency medicine. The consensus process format was a modified version of the NIH Model for Consensus Conference Development. Recommendations provide an action plan for how to improve ED operations study design, create a facilitating research environment, identify data measures of value for process and outcomes research, and disseminate new knowledge in this area. Specifically, we call for eight key initiatives: 1) the development of universal measures for ED patient care processes; 2) attention to patient outcomes, in addition to process efficiency and best practice compliance; 3) the promotion of multisite clinical operations studies to create more generalizable knowledge; 4) encouraging the use of mixed methods to understand the social community and human behavior factors that influence ED operations; 5) the creation of robust ED operations research registries to drive stronger evidence-based research; 6) prioritizing key clinical questions with the input of patients, clinicians, medical leadership, emergency medicine organizations, payers, and other government stakeholders; 7) more consistently defining the functional components of the ED care system, including observation units, fast tracks, waiting rooms, laboratories, and radiology subunits; and 8) maximizing multidisciplinary knowledge dissemination via emergency medicine, public health, general medicine, operations research, and nontraditional publications.
 
 ---
 
-### Clinical practice guideline development manual: a quality-driven approach for translating evidence into action [^47860569]. Otolaryngology — Head and Neck Surgery (2009). Low credibility.
+### Clinical practice guideline development manual: a quality-driven approach for translating evidence into action [^112q38x8]. Otolaryngology — Head and Neck Surgery (2009). Low credibility.
 
 Background
 
@@ -533,7 +533,7 @@ As clinical practice guidelines become more prominent as a key metric of quality
 
 ---
 
-### Audit of donor centre: guidelines by the world marrow donor association quality and regulation working group [^c0e13116]. Bone Marrow Transplantation (2022). Medium credibility.
+### Audit of donor centre: guidelines by the world marrow donor association quality and regulation working group [^115vxGCM]. Bone Marrow Transplantation (2022). Medium credibility.
 
 General organisation of a DC
 
@@ -549,25 +549,25 @@ Selecting dependable, quality suppliers who provide services to support DC funct
 
 ---
 
-### Health-care organization characteristics in cancer care delivery: an integrated conceptual framework with content validation [^2338519b]. Journal of the National Cancer Institute (2024). Medium credibility.
+### Health-care organization characteristics in cancer care delivery: an integrated conceptual framework with content validation [^111uDV3Q]. Journal of the National Cancer Institute (2024). Medium credibility.
 
 Context can influence cancer-related outcomes. For example, health-care organization characteristics, including ownership, leadership, and culture, can affect care access, communication, and patient outcomes. Health-care organization characteristics and other contextual factors can also influence whether and how clinical discoveries reduce cancer incidence, morbidity, and mortality. Importantly, policy, market, and technology changes are transforming health-care organization design, culture, and operations across the cancer continuum. Consequently, research is essential to examine when, for whom, and how organizational characteristics influence person-level, organization-level, and population-level cancer outcomes. Understanding organizational characteristics-the structures, processes, and other features of entities involved in health care delivery-and their dynamics is an important yet understudied area of care delivery research across the cancer continuum. Research incorporating organizational characteristics is critical to address health inequities, test care delivery models, adapt interventions, and strengthen implementation. The field lacks conceptual grounding, however, to help researchers identify germane organizational characteristics. We propose a framework identifying organizational characteristics relevant for cancer care delivery research based on conceptual work in health services, organizational behavior, and management science and refined using a systematic review and key informant input. The proposed framework is a tool for organizing existing research and enhancing future cancer care delivery research. Following a 2012 Journal of the National Cancer Institute monograph, this work complements National Cancer Institute efforts to stimulate research addressing the relationship between cancer outcomes and contextual factors at the patient, provider, team, delivery organization, community, and health policy levels.
 
 ---
 
-### Understanding health care organization needs and context. beyond performance gaps [^f04341fd]. Journal of General Internal Medicine (2006). Low credibility.
+### Understanding health care organization needs and context. beyond performance gaps [^1179CcvQ]. Journal of General Internal Medicine (2006). Low credibility.
 
 Significant efforts have been invested in improving our understanding of how to accelerate and magnify the impact of research on clinical practice. While approaches to fostering translation of research into practice are numerous, none appears to be superior and the evidence for their effectiveness is mixed. Lessons learned from formative evaluation have given us a greater appreciation of the contribution of context to successful implementation of quality improvement interventions. While formative evaluation is a powerful tool for addressing context effects during implementation, lessons learned from the social sciences (including management and operations research, sociology, and public health) show us that there are also powerful preimplementation tools available to us. This paper discusses how we might integrate these tools into implementation research. We provide a theoretical framework for our need to understand organizational contexts and how organizational characteristics can alert us to situations where preimplementation tools will prove most valuable.
 
 ---
 
-### Improving the quality and efficiency of conventional in-center hemodialysis [^02af6810]. Seminars in Dialysis (2015). Low credibility.
+### Improving the quality and efficiency of conventional in-center hemodialysis [^1114ytkw]. Seminars in Dialysis (2015). Low credibility.
 
 There is substantial variability at international, national, and regional levels in how effective dialysis providers are in the implementation of well-accepted interventions to deliver better health outcomes at reduced costs to payers. The growing number of dialysis patients within a finite pool of resources has led to searches for more efficient methods to provide patient care without compromising or diminishing quality. We review here some contemporary concepts surrounding quality improvement and operations research that may provide clinician administrators to both improve efficiency and quality in facility based hemodialysis units. The creation of balanced scorecards, utilization of process mapping techniques, and the application of LEAN principles may readily improve how hemodialysis care is delivered in an environment of increasing patient volumes and reduced operating resources.
 
 ---
 
-### A NICE perspective on computable biomedical knowledge [^9ad568c4]. BMJ Health & Care Informatics (2020). High credibility.
+### A NICE perspective on computable biomedical knowledge [^114xYmwq]. BMJ Health & Care Informatics (2020). High credibility.
 
 Issues of risk and responsibility become still more complex when third party developers of decision support systems are involved in the dissemination of guidance. In simple terms there is agreement from most parties that there are issues of safety and issues of inefficiency in sharing guidelines or recommendations from guideline producer to decision support providers. There is also agreement and much research that demonstrates increased structure and coding are a fundamental part of the solution to these issues. There is, however, little clarity currently for NICE or others across the system on what levels of structure and coding are actually needed, who would apply this structure, and what certainty there is across the system that this would actually improve uptake of guidance and improve patient outcomes. In short, the business case for NICE and others across the system to invest in fully computable guidelines remains unclear. This makes it very difficult for anyone to move forwards — this stalemate therefore needs to be addressed as a priority. This challenge is not new, but opportunities provided by novel technologies, alignment across the system regarding approach and the growing need for action present new opportunities to tackle the problem. NICE is keen to help in this regard as part of its 'NICE Connect' programme.
 
@@ -577,19 +577,19 @@ In the future, recommendations will be short, focused and framed within question
 
 ---
 
-### Utilization review in workers' compensation: review of current status and recommendations for future improvement [^e3c05ec2]. Journal of Occupational and Environmental Medicine (2020). High credibility.
+### Utilization review in workers' compensation: review of current status and recommendations for future improvement [^116peoeH]. Journal of Occupational and Environmental Medicine (2020). High credibility.
 
 Outcomes and metrics — The UR process requires continuous or periodic assessment to determine if program goals are being achieved, with desirable goals including contributing to patient recovery and return to work, promoting reasonable and necessary care delivered in a timely manner, avoiding ineffective or unnecessary and potentially harmful treatments, promoting high versus low value care (ie, cost-effective care), and maintaining stakeholder satisfaction. This assessment of system efficacy, impact, or harm requires development of meaningful and measurable outcomes metrics, and stakeholder quality performance has to be measured and tracked on a continuous or sufficiently frequent periodic basis (eg, quarterly) to ensure maintenance of quality and/or opportunity for timely quality improvement. Results need to be carefully analyzed to determine if meaningful quality metrics are being achieved; if not, adopted metrics should be subject to root cause analysis, and used to provide useful feedback to system participants as part of the process of developing action plans to address quality deficiencies (including education, policy, procedural change, and monitoring to prevent recurrence). The analytic process evaluating metrics should determine if there is a need to periodically revise quality targets to further improve performance and outcomes, to assess if there is a need to adopt new metrics or if some measures no longer require tracking due to the effectiveness of designed and implemented system policies and procedures. Redundancy, duplication, and excessive paperwork can be a significant barrier to efficient UR, and an effort should be made to facilitate efficient review of the relevant clinical information wherever possible to help reduce the burden on requesting providers by repeatedly submit the same documentation. "Outcomes based networks" or "Preferred provider status" may allow exemption from or reduction of UR requirements for certain practitioners who comply with network policies and procedures, use evidence-based practice, and have demonstrated better outcomes, and preferred providers can reduce administrative burdens and potential delays of care, improve efficiency, and satisfaction.
 
 ---
 
-### ACC / AHA statement on cost / value methodology in clinical practice guidelines and performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures and task force on practice guidelines [^c9b1b46f]. Circulation (2014). Medium credibility.
+### ACC / AHA statement on cost / value methodology in clinical practice guidelines and performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures and task force on practice guidelines [^116A2CcW]. Circulation (2014). Medium credibility.
 
 Limitations, challenges, and arguments against incorporating resource and value considerations — barriers and gaps are described, including variability in value across settings, integration of long-term costs, and lack of national consensus, while noting hopes for routine cost-effectiveness assessment and acknowledging system-level changes are not addressed. Barriers include "widespread unwillingness to acknowledge that resources are limited, distrust of government and other policy decision makers, and lack of confidence in the science of value determination (cost-effectiveness)". Value "is not constant; it may vary over time and from one location to another", and integrating "long-term costs" like infrastructure into per-treatment costs is challenging. "In the United States, no national consensus has emerged regarding the role of cost-effectiveness considerations in healthcare decision making", but "the writing committee… will encourage routine assessment of cost-effectiveness", and it "recognizes" that a focus on individual procedures "does not address system changes that may improve efficiency of cardiovascular care".
 
 ---
 
-### Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action [^2f113ef9]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
+### Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action [^112CnDDz]. Otolaryngology — Head and Neck Surgery (2013). Low credibility.
 
 Background
 
@@ -605,7 +605,7 @@ As clinical practice guidelines become more prominent as a key metric of quality
 
 ---
 
-### SQUIRE 2.0 (standards for QUality improvement reporting excellence): revised publication guidelines from a detailed consensus process [^45237ea8]. BMJ Quality & Safety (2016). Medium credibility.
+### SQUIRE 2.0 (standards for QUality improvement reporting excellence): revised publication guidelines from a detailed consensus process [^112mW4wR]. BMJ Quality & Safety (2016). Medium credibility.
 
 Initiative
 
@@ -645,7 +645,7 @@ Any 'reason-giving' account that asserts causal relationships between variables 
 
 ---
 
-### Interventions to improve the use of systematic reviews in decision-making by health system managers, policy makers and clinicians [^5554fef4]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Interventions to improve the use of systematic reviews in decision-making by health system managers, policy makers and clinicians [^113BWVoq]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -677,13 +677,13 @@ Mass mailing a printed bulletin which summarises systematic review evidence may 
 
 ---
 
-### Guidelines for foodborne disease outbreak response. 2nd ed [^85ee0ebd]. CDC (2014). Medium credibility.
+### Guidelines for foodborne disease outbreak response. 2nd ed [^114RZKDW]. CDC (2014). Medium credibility.
 
 Incident Command System (ICS) (Section 3.10) describes ICS as an integral part of the Federal Emergency Management Agency's National Incident Management System (NIMS), a widely applicable management system that integrates facilities, equipment, personnel, procedures, and communications within a common organizational structure; notes that the ICS organizational structure is scalable and modular; states that some agencies use an ICS structure and others do not; advises agencies to decide in advance whether and how to apply an ICS and, if applicable, to incorporate it into response planning and training; and specifies that if someone claims food tampering or intentional contamination is suspected, law enforcement officials should be notified, the threat's credibility assessed, and if credible the outbreak will move into a law enforcement realm with activation of the ICS.
 
 ---
 
-### Clinical practice guidelines: towards better quality guidelines and increased international collaboration [^7be9a3a1]. British Journal of Cancer (2003). Low credibility.
+### Clinical practice guidelines: towards better quality guidelines and increased international collaboration [^114AhxKa]. British Journal of Cancer (2003). Low credibility.
 
 RECOMMENDATIONS FOR GUIDELINE DEVELOPERS
 
@@ -694,7 +694,7 @@ Key criteria for good clinical guideline programmes). A recent French 'before–
 
 ---
 
-### Guideline adaptation: an approach to enhance efficiency in guideline development and improve utilisation [^bca641a2]. BMJ Quality & Safety (2011). Medium credibility.
+### Guideline adaptation: an approach to enhance efficiency in guideline development and improve utilisation [^115pgWv5]. BMJ Quality & Safety (2011). Medium credibility.
 
 Background
 
@@ -714,7 +714,7 @@ A comprehensive framework for guideline adaptation has been developed to meet th
 
 ---
 
-### Health policy and systems research: towards a better understanding and review of ethical issues [^db9dabc7]. BMJ Global Health (2017). Medium credibility.
+### Health policy and systems research: towards a better understanding and review of ethical issues [^116cbFPt]. BMJ Global Health (2017). Medium credibility.
 
 Introduction
 
@@ -724,7 +724,7 @@ Health policy and systems research aims to promote generation, dissemination and
 
 ---
 
-### Enhancing capability for continuous organisational improvement and learning in healthcare organisations: a systematic review of the literature 2013–2022 [^a8198fe7]. BMJ Open Quality (2024). High credibility.
+### Enhancing capability for continuous organisational improvement and learning in healthcare organisations: a systematic review of the literature 2013–2022 [^115JDWLN]. BMJ Open Quality (2024). High credibility.
 
 Engaged managers with a strategic approach
 
@@ -742,7 +742,7 @@ The skills related to coaching and facilitation were among the most often descri
 
 ---
 
-### Prioritising quality improvement [^488f3886]. BMJ (2019). Excellent credibility.
+### Prioritising quality improvement [^112raDTT]. BMJ (2019). Excellent credibility.
 
 Where to start?
 
@@ -758,7 +758,7 @@ Improvement won't happen unless people take action. The importance of "starting 
 
 ---
 
-### Reinvigorating stagnant science: implementation laboratories and a meta-laboratory to efficiently advance the science of audit and feedback [^6e683ef9]. BMJ Quality & Safety (2019). High credibility.
+### Reinvigorating stagnant science: implementation laboratories and a meta-laboratory to efficiently advance the science of audit and feedback [^113pgesi]. BMJ Quality & Safety (2019). High credibility.
 
 Why stop there? Let's build the meta-laboratory
 
@@ -777,25 +777,25 @@ Participating implementation laboratories in the A&F MetaLab
 
 ---
 
-### HRS expert consensus statement on remote interrogation and monitoring for cardiovascular implantable electronic devices [^b557651a]. Heart Rhythm (2015). Medium credibility.
+### HRS expert consensus statement on remote interrogation and monitoring for cardiovascular implantable electronic devices [^115dr7bf]. Heart Rhythm (2015). Medium credibility.
 
 Remote interrogation (RI) and remote monitoring (RM) for cardiovascular implantable electronic device (CIED) follow-up were developed as complementary tools to replace some routine follow-up appointments during the long-term phase while maintaining an in-person evaluation (IPE) schedule of at least 6–12 months. Since 2008, randomized controlled trials comparing IPE and remote management strategies have collectively shown the superiority of RI and RM for achieving the follow-up goals of patient adherence to structured follow-up protocols and improvement in device clinic workflow efficiency, and the advent of automatic wireless RM has been critical to these results. Implementation focuses on organizational changes ranging from the occasional replacement of routine appointments to a system of nearly continuous monitoring, with most IPEs initiated in response to alert notifications communicated by RM. The terms RI and RM are often used interchangeably, with RM being the colloquially accepted term for both.
 
 ---
 
-### ACCF / ACR / AHA / ASE / ASNC / HRS / NASCI / RSNA / SAIP / SCAI / SCCT / SCMR 2008 health policy statement on structured reporting in cardiovascular imaging [^4e14029d]. Journal of the American College of Cardiology (2009). Medium credibility.
+### ACCF / ACR / AHA / ASE / ASNC / HRS / NASCI / RSNA / SAIP / SCAI / SCCT / SCMR 2008 health policy statement on structured reporting in cardiovascular imaging [^112zkkp4]. Journal of the American College of Cardiology (2009). Medium credibility.
 
 Cardiovascular imaging structured reporting — introduction, definitions, benefits, and policy stance are outlined as follows: The final report is an essential component of any cardiovascular imaging test, is often the only communication from the interpreting physician to the caregiver, may be used for billing, quality improvement (QI), teaching, and informing patients and their families, may become legal evidence, and producing the highest quality report is an important goal for both optimal outcomes and cost efficiency. In a narrow sense, structured reporting refers to the displayed clinical report of a CV imaging procedure using standardized content and definitions in a coherent, clinically relevant, and predictable format; in a broader sense, it is the process of organizing data by abstracting and integrating all evidence collected to create an integrated and comprehensive clinical report, and for this document the term refers to both the underlying coded structured data and the displayed clinical report. Rationale and benefits include that imaging quality may be improved and QI activities facilitated through consistency, key report components and data elements will not be omitted when elements are listed systematically within a standard template, common lexicons standardize descriptors, redundant testing may be reduced with potential sparing of unnecessary exposures, comparisons between studies facilitated, interoperability with electronic medical record systems is supported, and cost savings may be achieved by added efficiency for imagers, referring physicians, hospital systems, and purchasers of health care. The principles discussed apply broadly to all forms of cardiovascular imaging, though application in vascular imaging and congenital heart disease may require additional consideration. Structured reporting can be seen not only as a quality improvement vital to "best practices" in imaging laboratories, but also as critical to patient care and safety, and the organizations involved call for its use as essential to quality cardiovascular imaging practice, including that imaging laboratories collect data in structured format, physicians practice structured reporting procedures, imaging and information systems support structured data archiving and reporting formats, and reporting software implements structured composition and other required features for interoperability; adherence to structured reporting principles is necessary to societal and professional efforts to measure, report, and improve quality.
 
 ---
 
-### Critical care delivery: the importance of process of care and ICU structure to improved outcomes: an update from the American college of critical care medicine task force on models of critical care [^56da116a]. Critical Care Medicine (2015). Low credibility.
+### Critical care delivery: the importance of process of care and ICU structure to improved outcomes: an update from the American college of critical care medicine task force on models of critical care [^113DmBYV]. Critical Care Medicine (2015). Low credibility.
 
 In 2001, the Society of Critical Care Medicine published practice model guidelines that focused on the delivery of critical care and the roles of different ICU team members. An exhaustive review of the additional literature published since the last guideline has demonstrated that both the structure and process of care in the ICU are important for achieving optimal patient outcomes. Since the publication of the original guideline, several authorities have recognized that improvements in the processes of care, ICU structure, and the use of quality improvement science methodologies can beneficially impact patient outcomes and reduce costs. Herein, we summarize findings of the American College of Critical Care Medicine Task Force on Models of Critical Care: 1) An intensivist-led, high-performing, multidisciplinary team dedicated to the ICU is an integral part of effective care delivery; 2) Process improvement is the backbone of achieving high-quality ICU outcomes; 3) Standardized protocols including care bundles and order sets to facilitate measurable processes and outcomes should be used and further developed in the ICU setting; and 4) Institutional support for comprehensive quality improvement programs as well as tele-ICU programs should be provided.
 
 ---
 
-### Quality of care and abortion: beyond safety [^bb4adf23]. BMJ Sexual & Reproductive Health (2018). Medium credibility.
+### Quality of care and abortion: beyond safety [^115nfqKG]. BMJ Sexual & Reproductive Health (2018). Medium credibility.
 
 In the quality of care literature, quality is further categorised as interpersonal quality, or the healthcare interaction, and technical quality, whether providers meet normative standards for appropriate care or evidence-based criteria. Patient or client experience can assess both interpersonal and technical quality, measures the client-centeredness of care, and "includes any process observable by patients, including subjective experiences (eg, pain was controlled), objective experiences (eg, waited more than 15 minutes past appointment time), and observations of physician, nurse, or staff behaviour (eg, doctor provided all relevant information)". It is important to note that client experience reports are distinct from 'satisfaction' ratings in that they reflect specific components of the care experience in contrast to a global rating.
 
@@ -805,25 +805,25 @@ Evidence exists to guide clinical practice in abortion. However, assessment of c
 
 ---
 
-### Obesity definition, diagnosis, bias, standard operating procedures (SOPs), and telehealth: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^70eb9939]. Obesity Pillars (2022). High credibility.
+### Obesity definition, diagnosis, bias, standard operating procedures (SOPs), and telehealth: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^113tQkPi]. Obesity Pillars (2022). High credibility.
 
 Obesity medicine practice corporate structure — an example organizational chart is presented showing a recommended corporate structure for an obesity medicine practice, with roles such as president and other officers, principal clinicians, and office and business manager included.
 
 ---
 
-### From measures to action: can integrating quality measures provide system-wide insights for quality improvement decision making? [^fb1dd5b5]. BMJ Health & Care Informatics (2023). High credibility.
+### From measures to action: can integrating quality measures provide system-wide insights for quality improvement decision making? [^117RHuxp]. BMJ Health & Care Informatics (2023). High credibility.
 
 General systems theory describes that for systems, such as healthcare systems, with interconnected components, emergent behaviours arise from the system that does not appear in any individual components. For cancer care delivery, and in the typical case of a patient receiving care from multiple specialties across several settings, a change in a healthcare provider's decisions and actions can change the context for other healthcare providers. This phenomenon of complex systems explains why an examination of the parts, such as through quality measures, gives us no information about the coordination of parts and processes. In other words, it is in the coordination and interconnection of information between the parts or processes that higher-level behaviours emerge. It is those behaviours that need to be understood to develop quality improvement interventions that can target them. While very few examples exist of using system-based methodologies such as discrete-event simulation, agent-based modelling and others to develop an understanding of the behaviour of a system from administrative claims data, it is fundamentally in the aggregation of the sequence of delivered care (patient healthcare trajectory) where patterns of systemic interconnection can emerge. Consequently, a systems approach to quality measurement — with the creation of systemic mathematical constructs — is very likely required to make system-level improvement decisions that take into consideration upstream and downstream effects to minimise unintended consequences.
 
 ---
 
-### 2025 AHA / ACC statement on cost / value methodology in clinical practice guidelines (update from 2014 statement): a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^1b0a2530]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 AHA / ACC statement on cost / value methodology in clinical practice guidelines (update from 2014 statement): a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^111h65Fm]. Journal of the American College of Cardiology (2025). High credibility.
 
 Appropriate scope and caveats for cost-effectiveness analyses (CEAs): The intention of CEAs is not to directly influence patient-level decision-making; instead, systematically applying CEAs at the health system level can promote efficient resource use and improve population health outcomes and would ideally be performed across the entire set of options rather than evaluating each intervention in a silo. CEAs can inform the prices of new health technologies entering the market, improving the affordability of and access to novel diagnostic and treatment strategies. Resource allocation is a complex process that, beyond efficiency, depends on political priorities, scalability and affordability of the proposed intervention, and its impact on health equity; this is particularly important in cardiovascular disease given that 1 in 3 US adults received care for a cardiovascular risk factor or condition in 2020. To improve health care efficiency, CEAs have to be updated over the intervention's life cycle and policymakers have to be willing to defund less-efficient programs; adding programs that are "cost-effective" without removing those that are no longer cost-effective continues to drive up health care spending without optimizing efficiency. This statement uses the term CEA for analytic frameworks with effectiveness outcomes that reflect patient or community preferences over health states (eg, quality-adjusted life years [QALYs]).
 
 ---
 
-### A scoping review of evidence-based guidance and guidelines published by general practice professional organizations [^f175fc88]. Family Practice (2024). Medium credibility.
+### A scoping review of evidence-based guidance and guidelines published by general practice professional organizations [^117AyeUf]. Family Practice (2024). Medium credibility.
 
 Clinical and policy implications
 
@@ -831,7 +831,7 @@ This review shows that international GP organizations, despite working in differ
 
 ---
 
-### Pursuing excellence: the power of selection science to provide meaningful data and enhance efficiency in selecting surgical trainees [^793f5f73]. Annals of Surgery (2019). Medium credibility.
+### Pursuing excellence: the power of selection science to provide meaningful data and enhance efficiency in selecting surgical trainees [^1146knhg]. Annals of Surgery (2019). Medium credibility.
 
 Introduction
 
@@ -851,31 +851,31 @@ Applying selection science to the process of choosing surgical trainees is feasi
 
 ---
 
-### Critical care staffing in pandemics and disasters: a consensus report from a subcommittee of the task force for mass critical care-systems strategies to sustain the health care workforce [^dcd0b88b]. Chest (2023). High credibility.
+### Critical care staffing in pandemics and disasters: a consensus report from a subcommittee of the task force for mass critical care-systems strategies to sustain the health care workforce [^116eNPD4]. Chest (2023). High credibility.
 
 Critical care workforce resilience — leadership, communication, and long-term support are emphasized. The document states, "System resilience is also strengthened by the inclusion of HCWs in executive and institutional decisions", and that "Regular training for disaster response, readily available psychological support, and a culture of safety in which staff can communicate concerns without fear of retribution can enhance baseline resilience". It adds, "This decentralization of decision-making can encourage transparency and fairness in policy development". Communication guidance specifies, "Effective communication within an organization is crucial to the resilience of a health care workforce", and that "Information deficits pertaining to PPE availability, rationales for visitation policies, medication and equipment scarcity, and staffing shortages were identified as stressors during the COVID-19 pandemic". Leadership "need to articulate the challenges at hand and the proposed solutions in a transparent and timely manner", and "Any proposed strategies from leadership need to be informed by clinicians' experiences and recommendations", while "communication is most effective when it is multidirectional, fostering vertical communication within the organizational structure as well as horizontal communication within clinical teams". Implementation will require resources: "None of these changes are easy, and many will require financial support from outside of the health systems", and "Long-term resiliency of health systems will require both private and government support and culture shifts". Workforce development is prioritized: "Training pipelines for the next generation of acute care professionals must be supported, with options to include loan repayment programs, tax benefits, and grant funding to increase the pool of clinical educators".
 
 ---
 
-### When is parenteral nutrition appropriate? [^423c9f6e]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
+### When is parenteral nutrition appropriate? [^112hCYdK]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
 
 Regarding quality improvement for parenteral nutrition, more specifically with respect to policies and protocols, ASPEN 2017 guidelines recommend to incorporate measures for reducing the risk of complications into organizational policies and procedures for administering PN.
 
 ---
 
-### Business and continuity of operations: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^a5e2c73e]. Chest (2014). Medium credibility.
+### Business and continuity of operations: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^115Ew8Vj]. Chest (2014). Medium credibility.
 
 Business and continuity of operations — conclusions for health care stress routine preparedness and impact on the critically ill: "Continuity of operations requires effective preparedness planning and is a daily occurrence in health care". Additionally, "Routine challenges to normal day-to-day functioning should provide experience and expertise necessary in contending with similar, although bigger, issues in an actual disaster", and "IT disruptions affect all aspects of patient care, but with disproportionate impact on those patients who are critically ill".
 
 ---
 
-### Standards for neurologic critical care units: a statement for healthcare professionals from the Neurocritical Care Society [^688522a3]. Neurocritical Care (2018). Medium credibility.
+### Standards for neurologic critical care units: a statement for healthcare professionals from the Neurocritical Care Society [^113fxRza]. Neurocritical Care (2018). Medium credibility.
 
 Neurocritical care systems organization — conclusions state that neurocritical care is now a mature field in which stratifying and structuring subspecialized care has become necessary to deliver the best possible care and outcomes, and that the document provides an organizational framework for care delivery in highly resourced and lesser resourced communities in the United States, aiming to afford healthcare providers a framework to gather and coordinate resources, reduce unnecessary variation, and positively impact patient outcomes through delivery of high-quality and high value care.
 
 ---
 
-### Explaining organisational responses to a board-level quality improvement intervention: findings from an evaluation in six providers in the english national health service [^b7589679]. BMJ Quality & Safety (2019). High credibility.
+### Explaining organisational responses to a board-level quality improvement intervention: findings from an evaluation in six providers in the english national health service [^115gpVQC]. BMJ Quality & Safety (2019). High credibility.
 
 Introduction
 
@@ -889,13 +889,13 @@ In their study of the introduction and impact of management interventions in pub
 
 ---
 
-### An official American Thoracic Society workshop report: developing performance measures from clinical practice guidelines [^369e6d46]. Annals of the American Thoracic Society (2014). Medium credibility.
+### An official American Thoracic Society workshop report: developing performance measures from clinical practice guidelines [^112PyYd3]. Annals of the American Thoracic Society (2014). Medium credibility.
 
 Agency for Healthcare Research and Quality performance measure attributes — Desirable features of performance measures include relevance to stakeholders and addressing important aspects of health, with evidence of a need for the measure; evidence should be explicitly stated, results should be reproducible and truly measure what they purport to measure, and specifications should explicitly define the numerator and denominator with understandable data collection requirements; necessary data sources should be available within the measurement timeframe and data collection costs justified by potential improvement in care or health.
 
 ---
 
-### Recognizing that evidence is made, not born [^05d47a9e]. Clinical Pharmacology and Therapeutics (2019). Medium credibility.
+### Recognizing that evidence is made, not born [^1119eJqK]. Clinical Pharmacology and Therapeutics (2019). Medium credibility.
 
 Seppe compared with the existing paradigm
 
@@ -905,13 +905,13 @@ There is at present no comprehensive, systems‐based ability to nip development
 
 ---
 
-### 2025 AHA / ACC statement on cost / value methodology in clinical practice guidelines (update from 2014 statement): a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^d62ef0fa]. Journal of the American College of Cardiology (2025). High credibility.
+### 2025 AHA / ACC statement on cost / value methodology in clinical practice guidelines (update from 2014 statement): a report of the American college of cardiology / American Heart Association joint committee on clinical practice guidelines [^116UY7oF]. Journal of the American College of Cardiology (2025). High credibility.
 
 Cost-effectiveness analyses (CEAs) — scope and caveats emphasize that the intention of CEAs is not to directly influence patient-level decision-making, and systematically applying CEAs at the level of the health system can promote efficient use of resources and improve population health outcomes; they would ideally be performed across the entire set of options available to generate health, rather than evaluating each intervention in a silo, which can be challenging in the United States given the fragmented nature of our health care system. CEAs can inform the prices of new health technologies entering the market, thus improving the affordability of and access to novel diagnostic and treatment strategies, while resource allocation is a complex process based on several considerations in addition to the efficient use of resources, including political priorities, scalability and affordability of the proposed intervention, and its impact on health equity; these considerations are particularly important for the prevention and treatment of cardiovascular disease given the large number of individuals affected — 1 in 3 US adults received care for a cardiovascular risk factor or condition in 2020 — and the substantial economic burden of cardiovascular disease. CEAs have to be updated over the intervention's life cycle as more cost and effectiveness data become available, and policymakers have to be willing to defund less-efficient programs already in place, because adding more programs and interventions that are "cost-effective" without removing interventions that are no longer cost-effective continues to drive up health care spending without optimizing efficiency.
 
 ---
 
-### Sustaining improvement of hospital-wide initiative for patient safety and quality: a systematic scoping review [^4a4e06ce]. BMJ Open Quality (2022). High credibility.
+### Sustaining improvement of hospital-wide initiative for patient safety and quality: a systematic scoping review [^112uAHwB]. BMJ Open Quality (2022). High credibility.
 
 Process: local integration
 
@@ -931,13 +931,13 @@ An established organisation-wide quality management system, comprising a structu
 
 ---
 
-### ACR-RADS programs current state and future opportunities: defining a governance structure to enable sustained success [^68bf8ae3]. Journal of the American College of Radiology (2022). Medium credibility.
+### ACR-RADS programs current state and future opportunities: defining a governance structure to enable sustained success [^113gJ3ri]. Journal of the American College of Radiology (2022). Medium credibility.
 
 In the spring of 2021, the ACR approved a proposal to improve the consistency, transparency, and administrative oversight of the ACR Reporting and Data Systems (RADS). A working group of experts and stakeholders was convened to draft this governance document. Major advances include (1) forming a RADS Steering Committee, (2) establishing minimum requirements and evidence standards for new and existing RADS, and (3) outlining a governance structure and communication strategy for RADS.
 
 ---
 
-### Management controls… [^c9d1e06e]. FDA (2023). Medium credibility.
+### Management controls… [^116AD1NV]. FDA (2023). Medium credibility.
 
 Prior to the start of the inspection, preferably at the time you make the preannouncement of the inspection, you should ask the firm to send you their overall quality system policies, objectives, and procedures. This should include their management review procedures, quality policy, and quality plan. If not received prior to the start of the inspection, you will need to review these documents at the start of your inspection. A review of employee training records to show they have been trained in the firm's quality policy and objectives can also be done. In particular, this should be done for those employees involved in key operations.
 3. Review the firm's established organizational structure to confirm that it includes provisions for responsibilities, authorities and necessary resources. Verify that the management representative is reporting back to the management with executive responsibility on the performance of the quality system.
@@ -949,43 +949,43 @@ During your review of the CAPA subsystem, if you find that there are quality iss
 
 ---
 
-### ENIgMA HALFpipe: interactive, reproducible, and efficient analysis for resting-state and task-based fMRI data [^439407f4]. Human Brain Mapping (2022). Medium credibility.
+### ENIgMA HALFpipe: interactive, reproducible, and efficient analysis for resting-state and task-based fMRI data [^112jBtm1]. Human Brain Mapping (2022). Medium credibility.
 
 The implementation of quality metrics for fMRI data has been an incremental process that has moved steadily toward establishing empirically‐informed best practices. Historically, quality criteria have been applied unevenly across research labs. Recent years have witnessed a heightened awareness about the essential role of applying systematic and principled quality metrics to minimize confounds, for example, motion artifacts (Murphy, Birn, & Bandettini; Power et al; Power, Barnes, Snyder, Schlaggar, & Petersen,), and widespread fMRI signal deflections (Aquino et al.). Automated quality control methods are being developed and adopted with increasing interest, such as the MRI Quality Control software MRIQC (Esteban et al.). HALFpipe has adopted parts of the functionality of MRIQC with an enhanced user experience that generates quality reports via a web‐browser‐based interface to facilitate rapid viewing, screening, and selection of individual subject data for inclusion or exclusion. The application of uniform quality assessment procedures is particularly important when mega‐analyzing and even meta‐analyzing multi‐site/scanner data, as is performed in ENIGMA. That is, study variables that segregate by site are more likely to lead to confounds without the uniform implementation of quality assessment across sites (e.g. Wachinger et al.). With its harmonized quality procedures, HALFpipe aims to minimize such effects.
 
 ---
 
-### Methodologies for the development of CHEST guidelines and expert panel reports [^380f4748]. Chest (2014). Medium credibility.
+### Methodologies for the development of CHEST guidelines and expert panel reports [^112S7SRu]. Chest (2014). Medium credibility.
 
 Finalizing recommendations — recommendations are formulated by content experts informed by the evidence; cost considerations may be included only if published formal cost-benefit analyses are available, with resource consultants or health economists conducting analyses as needed, and when cost constraints exist implementers are encouraged to use ADAPTE strategies; patient values and preferences are reflected in recommendations or remarks and are especially pertinent in weaker recommendations when wide variability in choices is anticipated; recommendations must be specific and actionable with as much detail as evidence allows, and measure developers are cautioned not to convert lower-evidence recommendations into performance measures.
 
 ---
 
-### Towards high-reliability organising in healthcare: a strategy for building organisational capacity [^267d4077]. BMJ Quality & Safety (2017). Medium credibility.
+### Towards high-reliability organising in healthcare: a strategy for building organisational capacity [^111z4bp2]. BMJ Quality & Safety (2017). Medium credibility.
 
 In a high-reliability organisation (HRO), safety and quality (SQ) is an organisational priority, and all workforce members are engaged, continuously learning and improving their work. To build organisational capacity for SQ work, we have developed a role-tailored capacity-building framework that we are currently employing at the Johns Hopkins Armstrong Institute for Patient Safety and Quality as part of an organisational strategy towards HRO. This framework considers organisation-wide competencies for SQ that includes all staff and faculty and is integrated into a broader organisation-wide operating management system for improving quality. In this framework, achieving safe, high-quality care is connected to healthcare workforce preparedness. Capacity-building efforts are tailored to the needs of distinct groups within the workforce that fall within three categories: (1) front-line providers and staff, (2) managers and local improvement personnel and (3) SQ leaders and experts. In this paper we describe this framework, our implementation efforts to date, challenges met and lessons learnt.
 
 ---
 
-### An official multi-society statement: the role of clinical research results in the practice of critical care medicine [^3057acbd]. American Journal of Respiratory and Critical Care Medicine (2012). Medium credibility.
+### An official multi-society statement: the role of clinical research results in the practice of critical care medicine [^112EfrZz]. American Journal of Respiratory and Critical Care Medicine (2012). Medium credibility.
 
 Protocols — scope and utility in the intensive care unit distinguish protocols from clinical practice guidelines by stating that after initiation "the protocol prescribes a specific series of behaviors… or changes in treatment… without the requirement of further clinician input". Protocols may be adopted from research studies, but "this approach is not always appropriate". In the ICU, "protocols may help avoid errors of omission, improve unit efficiency, decrease cost, and maintain standard of care", yet "are not always superior to expert clinician-directed care". They are "particularly useful for setting "default" actions in common decisions", and "are likely to be less valuable when applied to highly variable clinical processes, particularly those with multiple and competing endpoints".
 
 ---
 
-### Institutional ethics committees [^1bfd4d88]. Pediatrics (2019). High credibility.
+### Institutional ethics committees [^111iVkM5]. Pediatrics (2019). High credibility.
 
 Institutional ethics committees — organizational ethics integration: Health care institutions must identify a process for addressing organization-level ethical issues. The integrated ethics model for an IEC includes the traditional case consultation function with an expanded role in proactive policy development and leadership on organizational ethics, and it is based in a focus on ethics as integral to quality of care. The American Academy of Pediatrics (AAP) supports integration of the IEC into an institution's process for establishing and promoting organizational ethics but notes that including organizational ethics in the purview of the IEC raises specific questions about its structure, function, and member qualifications. An IEC whose function includes organizational ethics and policy development should establish standards of membership, process, and self-improvement specific to organizational ethics issues and to the organizational structure of its home institution.
 
 ---
 
-### Business and continuity of operations: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^a48ee465]. Chest (2014). Medium credibility.
+### Business and continuity of operations: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^115Cxxyr]. Chest (2014). Medium credibility.
 
 Business and continuity of operations — information technology (IT) preparedness recommendations emphasize maintaining inventories and planning for shortages: "We suggest hospitals and health systems maintain an inventory of all computer systems, especially servers and memory storage capacity (disk drives), with a predefined hierarchy of 'most-to-least important' in terms of continuity of patient care and financial operations". It also notes, "In extreme shortages, lower prioritized systems may increasingly be repurposed as needed", and "Hospitals should also consider maintaining stockpiles of critical IT equipment".
 
 ---
 
-### Health workforce governance for compassionate and respectful care: a framework for research, policy and practice [^15a35f91]. BMJ Global Health (2022). High credibility.
+### Health workforce governance for compassionate and respectful care: a framework for research, policy and practice [^111Z5cgp]. BMJ Global Health (2022). High credibility.
 
 Towards a research, policy and practice agenda
 
@@ -1005,12 +1005,12 @@ An effective strategy to enhance the health workforce role in the provision of C
 
 ---
 
-### Surge capacity principles: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^0fbafd8d]. Chest (2014). Medium credibility.
+### Surge capacity principles: care of the critically ill and injured during pandemics and disasters: CHEST consensus statement [^111QKd6U]. Chest (2014). Medium credibility.
 
 Service deescalation and engineered failure — We suggest hospitals adopt a process of engineered systems cessation when the staff and/or material resources required for the ongoing critical care of a small number of patients could be used to save a greater number of lives. We suggest hospital cessation of the delivery of critical care services be considered.
 
 ---
 
-### When is parenteral nutrition appropriate? [^dd5ac9e6]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
+### When is parenteral nutrition appropriate? [^116fAkz9]. JPEN: Journal of Parenteral and Enteral Nutrition (2017). Medium credibility.
 
 Regarding quality improvement for parenteral nutrition, more specifically with respect to policies and protocols, ASPEN 2017 guidelines recommend to set up organizational policies delineating circumstances in which initiation of PN can take place outside the acute care setting. Describe patient-centered eligibility criteria for initiating PN safely in the home setting. Develop strict protocols and procedures for initiating PN in the home setting, monitoring response to therapy, and documenting outcomes.

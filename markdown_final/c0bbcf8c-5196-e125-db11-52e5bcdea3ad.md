@@ -15,43 +15,43 @@ hyponatremia workup
 
 > Let's see… What do we have here? The user is asking about the hyponatremia workup. Let's break this down step-by-step. First, I need to think about confirming true hypotonic hyponatremia and excluding pseudohyponatremia. Then, I should classify severity and acuity. Next, I will assess volume status and integrate urine studies. After that, I will build a prioritized differential and outline targeted ancillary tests. Finally, I will consider special populations, documentation, and a concise decision algorithm, while continuously checking for pitfalls and correcting myself if I overstate anything.
 
-> Let me first confirm the diagnosis and exclude pseudohyponatremia, because I need to ensure we are dealing with true hypotonic hyponatremia before proceeding. I should measure serum osmolality and correct measured sodium for hyperglycemia using the standard correction factor of 1.6 mEq/L per 100 mg/dL glucose above 100 mg/dL, since hyperglycemia can artifactually lower measured sodium without true hypotonicity, and I should also consider hyperlipidemia or paraproteinemia as causes of pseudohyponatremia when osmolality is normal or high despite low sodium, which would redirect management entirely away from sodium correction strategies [^0632c300] [^5c2976a5] [^19dbc176].
+> Let me first confirm the diagnosis and exclude pseudohyponatremia, because I need to ensure we are dealing with true hypotonic hyponatremia before proceeding. I should measure serum osmolality and correct measured sodium for hyperglycemia using the standard correction factor of 1.6 mEq/L per 100 mg/dL glucose above 100 mg/dL, since hyperglycemia can artifactually lower measured sodium without true hypotonicity, and I should also consider hyperlipidemia or paraproteinemia as causes of pseudohyponatremia when osmolality is normal or high despite low sodium, which would redirect management entirely away from sodium correction strategies [^111ABycK] [^113Mdnha] [^111fLWER].
 
-> Next, I should review severity and acuity, because symptom risk and correction limits hinge on both. Mild is 130–134 mEq/L, moderate 125–129 mEq/L, and severe less than 125 mEq/L, and I should classify as acute if onset is within 48 hours versus chronic if longer or unknown, since acute severe hyponatremia carries a high risk of cerebral edema and justifies hypertonic therapy, whereas chronic hyponatremia increases the risk of osmotic demyelination if corrected too quickly, so I need to be precise here and not jump to conclusions about chronicity without corroborating history or prior labs [^9f3f9f1f] [^8623e8d2] [^90dd948b].
+> Next, I should review severity and acuity, because symptom risk and correction limits hinge on both. Mild is 130–134 mEq/L, moderate 125–129 mEq/L, and severe less than 125 mEq/L, and I should classify as acute if onset is within 48 hours versus chronic if longer or unknown, since acute severe hyponatremia carries a high risk of cerebral edema and justifies hypertonic therapy, whereas chronic hyponatremia increases the risk of osmotic demyelination if corrected too quickly, so I need to be precise here and not jump to conclusions about chronicity without corroborating history or prior labs [^11556QFp] [^114RsQLR] [^114hmeK4].
 
-> Hold on, let's not jump to conclusions about etiology before I assess volume status, because the therapeutic fork in the road depends on it. I will examine for orthostasis, mucous membranes, edema, jugular venous distension, and lung crackles, and I should double-check for confounders like diuretics, heart failure, cirrhosis, and malignancy, since misclassification of hypovolemia as euvolemia is common and leads to mismanagement, and I should remember that in cancer patients, nearly 40% initially labeled euvolemic were later reclassified as hypo- or hypervolemic, underscoring the need for careful bedside assessment and, when needed, objective markers like fractional uric acid excretion to improve diagnostic accuracy [^45c03e3c] [^7a64bcf8].
+> Hold on, let's not jump to conclusions about etiology before I assess volume status, because the therapeutic fork in the road depends on it. I will examine for orthostasis, mucous membranes, edema, jugular venous distension, and lung crackles, and I should double-check for confounders like diuretics, heart failure, cirrhosis, and malignancy, since misclassification of hypovolemia as euvolemia is common and leads to mismanagement, and I should remember that in cancer patients, nearly 40% initially labeled euvolemic were later reclassified as hypo- or hypervolemic, underscoring the need for careful bedside assessment and, when needed, objective markers like fractional uric acid excretion to improve diagnostic accuracy [^112nQieF] [^1148TKvF].
 
-> I will now examine urine studies, because urine osmolality and sodium refine the differential when combined with volume status. If urine osmolality is 100 mOsm/kg or less, I should consider primary polydipsia or low solute intake, whereas values above 100 mOsm/kg suggest impaired free water excretion and should prompt a urine sodium to distinguish hypovolemic from euvolemic or hypervolemic states, with urine sodium 30 mmol/L or less pointing to hypovolemia or hypervolemic edematous states, and urine sodium above 30 mmol/L supporting SIADH or diuretic effects, though I need to check for recent diuretic use before concluding SIADH [^2791a906] [^4174e596] [^a3af82a4] [^06c7e275].
+> I will now examine urine studies, because urine osmolality and sodium refine the differential when combined with volume status. If urine osmolality is 100 mOsm/kg or less, I should consider primary polydipsia or low solute intake, whereas values above 100 mOsm/kg suggest impaired free water excretion and should prompt a urine sodium to distinguish hypovolemic from euvolemic or hypervolemic states, with urine sodium 30 mmol/L or less pointing to hypovolemia or hypervolemic edematous states, and urine sodium above 30 mmol/L supporting SIADH or diuretic effects, though I need to check for recent diuretic use before concluding SIADH [^1121fSgV] [^112g3Tem] [^115Bfw9m] [^111B44kt].
 
-> Let me think about the differential diagnosis in layers, and I should verify that I am not missing reversible causes. Hypovolemic causes include gastrointestinal losses, diuretics, and third spacing, euvolemic causes include SIADH, glucocorticoid deficiency, hypothyroidism, and primary polydipsia, and hypervolemic causes include heart failure, cirrhosis, and nephrotic syndrome, with medications such as thiazides, SSRIs, carbamazepine, and PPIs frequently implicated, so I need to take a meticulous medication history and consider endocrine testing when clinically indicated [^19dbc176] [^90dd948b].
+> Let me think about the differential diagnosis in layers, and I should verify that I am not missing reversible causes. Hypovolemic causes include gastrointestinal losses, diuretics, and third spacing, euvolemic causes include SIADH, glucocorticoid deficiency, hypothyroidism, and primary polydipsia, and hypervolemic causes include heart failure, cirrhosis, and nephrotic syndrome, with medications such as thiazides, SSRIs, carbamazepine, and PPIs frequently implicated, so I need to take a meticulous medication history and consider endocrine testing when clinically indicated [^111fLWER] [^114hmeK4].
 
-> Wait, let me verify the ancillary tests I should order based on the working diagnosis. For suspected SIADH, I should confirm hypotonicity, inappropriately high urine osmolality, and urine sodium above 30 mmol/L, and I should exclude hypothyroidism and adrenal insufficiency with TSH and morning cortisol, noting that fractional uric acid excretion less than 12% can support SIADH and that copeptin may help distinguish SIADH from other causes in research settings, though it is not routinely available in practice [^68a56514] [^7a64bcf8] [^1d0d0173].
+> Wait, let me verify the ancillary tests I should order based on the working diagnosis. For suspected SIADH, I should confirm hypotonicity, inappropriately high urine osmolality, and urine sodium above 30 mmol/L, and I should exclude hypothyroidism and adrenal insufficiency with TSH and morning cortisol, noting that fractional uric acid excretion less than 12% can support SIADH and that copeptin may help distinguish SIADH from other causes in research settings, though it is not routinely available in practice [^113g9GTd] [^1148TKvF] [^111k51YW].
 
-> I should double-check special populations and contexts so I do not misapply standard algorithms. In pregnancy, physiologic changes and placental vasopressinase alter water handling, so I need to consider pregnancy-specific etiologies and avoid overly rapid correction. In exercise-associated hyponatremia, fluid overload is common and hypertonic saline boluses are first-line for severe cases, with fluid restriction and oral hypertonic solutions for mild cases. In stroke, cerebral salt wasting and SIADH can coexist, so I must integrate neurologic status and urine studies carefully. And in the ICU, frequent monitoring and staged correction are essential given the high risk of both under- and overcorrection [^a504908f] [^102f8b73] [^e5cb7367] [^90dd948b].
+> I should double-check special populations and contexts so I do not misapply standard algorithms. In pregnancy, physiologic changes and placental vasopressinase alter water handling, so I need to consider pregnancy-specific etiologies and avoid overly rapid correction. In exercise-associated hyponatremia, fluid overload is common and hypertonic saline boluses are first-line for severe cases, with fluid restriction and oral hypertonic solutions for mild cases. In stroke, cerebral salt wasting and SIADH can coexist, so I must integrate neurologic status and urine studies carefully. And in the ICU, frequent monitoring and staged correction are essential given the high risk of both under- and overcorrection [^115DeVRg] [^111Qzmkn] [^116sgW5L] [^114hmeK4].
 
-> Next, I should review documentation and safety, because poor documentation and lack of monitoring drive errors. I need to record the exact sodium value, symptom severity, estimated onset, volume status assessment, urine osmolality and sodium, and the working diagnosis, and I should plan serial sodium checks every 4–6 hours initially in severe cases, with a hard stop to reassess if the rise approaches 8–10 mEq/L in 24 hours to mitigate osmotic demyelination risk, especially in chronic hyponatremia [^90dd948b] [^19dbc176].
+> Next, I should review documentation and safety, because poor documentation and lack of monitoring drive errors. I need to record the exact sodium value, symptom severity, estimated onset, volume status assessment, urine osmolality and sodium, and the working diagnosis, and I should plan serial sodium checks every 4–6 hours initially in severe cases, with a hard stop to reassess if the rise approaches 8–10 mEq/L in 24 hours to mitigate osmotic demyelination risk, especially in chronic hyponatremia [^114hmeK4] [^111fLWER].
 
-> Let me reconsider the decision algorithm to ensure it is actionable and safe. If serum osmolality is 275 mOsm/kg or higher, I should stop and reconsider pseudohyponatremia or hypertonic states. If osmolality is less than 275 mOsm/kg, I should classify severity and acuity, assess volume status, obtain urine osmolality and sodium, and then branch to hypovolemic, euvolemic, or hypervolemic pathways, treating severe symptoms immediately with hypertonic saline while continuing the diagnostic workup in parallel to avoid delays in life-saving therapy [^0632c300] [^90dd948b].
+> Let me reconsider the decision algorithm to ensure it is actionable and safe. If serum osmolality is 275 mOsm/kg or higher, I should stop and reconsider pseudohyponatremia or hypertonic states. If osmolality is less than 275 mOsm/kg, I should classify severity and acuity, assess volume status, obtain urine osmolality and sodium, and then branch to hypovolemic, euvolemic, or hypervolemic pathways, treating severe symptoms immediately with hypertonic saline while continuing the diagnostic workup in parallel to avoid delays in life-saving therapy [^111ABycK] [^114hmeK4].
 
-> But wait, what if the urine studies conflict with the clinical picture. I should double-check for assay issues, recent diuretics, or mixed states, and if uncertainty persists, I can use a diagnostic saline trial cautiously in hypovolemic suspects or consider fractional uric acid excretion to refine the call, recognizing that misclassification is common and that expert input or repeat assessment can prevent iatrogenic harm from inappropriate therapy [^7a64bcf8] [^45c03e3c].
+> But wait, what if the urine studies conflict with the clinical picture. I should double-check for assay issues, recent diuretics, or mixed states, and if uncertainty persists, I can use a diagnostic saline trial cautiously in hypovolemic suspects or consider fractional uric acid excretion to refine the call, recognizing that misclassification is common and that expert input or repeat assessment can prevent iatrogenic harm from inappropriate therapy [^1148TKvF] [^112nQieF].
 
 ---
 
-The hyponatremia workup centers on **confirming true hypotonic hyponatremia** with measured serum osmolality and corrected sodium for glucose, then **classifying by volume status** (hypovolemic, euvolemic, hypervolemic) using clinical assessment and urine sodium/osmolality [^0632c300] [^5c2976a5]. Next, **identify the cause** with targeted tests: TSH/cortisol for euvolemic cases; uric acid, CXR, CT/MRI, or medications for SIADH; and evaluation for heart failure, cirrhosis, or nephrotic syndrome in hypervolemic cases [^68a56514] [^90dd948b]. Always **assess symptom severity and acuity** to guide urgency, and monitor sodium closely to avoid rapid correction and osmotic demyelination [^90dd948b] [^8623e8d2].
+The hyponatremia workup centers on **confirming true hypotonic hyponatremia** with measured serum osmolality and corrected sodium for glucose, then **classifying by volume status** (hypovolemic, euvolemic, hypervolemic) using clinical assessment and urine sodium/osmolality [^111ABycK] [^113Mdnha]. Next, **identify the cause** with targeted tests: TSH/cortisol for euvolemic cases; uric acid, CXR, CT/MRI, or medications for SIADH; and evaluation for heart failure, cirrhosis, or nephrotic syndrome in hypervolemic cases [^113g9GTd] [^114hmeK4]. Always **assess symptom severity and acuity** to guide urgency, and monitor sodium closely to avoid rapid correction and osmotic demyelination [^114hmeK4] [^114RsQLR].
 
 ---
 
 ## Step 1: confirm true hypotonic hyponatremia
 
-- **Measured serum osmolality**: Confirm hypotonicity (< 275 mOsm/kg) [^0632c300].
-- **Corrected sodium**: Correct for hyperglycemia (add 1.6 mEq/L per 100 mg/dL glucose > 100 mg/dL) [^5c2976a5].
+- **Measured serum osmolality**: Confirm hypotonicity (< 275 mOsm/kg) [^111ABycK].
+- **Corrected sodium**: Correct for hyperglycemia (add 1.6 mEq/L per 100 mg/dL glucose > 100 mg/dL) [^113Mdnha].
 - **Exclude pseudohyponatremia**: Consider hyperlipidemia or paraproteinemia if osmolality is normal or high [^notfound].
 
 ---
 
 ## Step 2: classify by volume status
 
-Use **clinical assessment** (orthostatics, mucosa, edema, JVP) to assign hypovolemic, euvolemic, or hypervolemic categories [^d9a90efb]. Then obtain **urine studies** — urine sodium and osmolality — to refine the classification [^28477fe5].
+Use **clinical assessment** (orthostatics, mucosa, edema, JVP) to assign hypovolemic, euvolemic, or hypervolemic categories [^116Zh6gJ]. Then obtain **urine studies** — urine sodium and osmolality — to refine the classification [^1122iXCQ].
 
 | **Volume status** | **Urine sodium** | **Urine osmolality** | **Clinical clues** |
 |-|-|-|-|
@@ -71,10 +71,10 @@ Assess for **GI losses**, diuretics, and **adrenal insufficiency** (check cortis
 
 ### Euvolemic hyponatremia
 
-- **SIADH**: Most common; diagnose by exclusion with inappropriately high urine osmolality, normal thyroid/adrenal function, and no diuretics [^68a56514].
+- **SIADH**: Most common; diagnose by exclusion with inappropriately high urine osmolality, normal thyroid/adrenal function, and no diuretics [^113g9GTd].
 - **Hypothyroidism**: Check TSH [^notfound].
 - **Glucocorticoid deficiency**: Check morning cortisol [^notfound].
-- **Medications**: SSRIs, carbamazepine, thiazides, PPIs, MDMA [^e5cb7367].
+- **Medications**: SSRIs, carbamazepine, thiazides, PPIs, MDMA [^116sgW5L].
 
 ---
 
@@ -86,7 +86,7 @@ Evaluate for **heart failure**, **cirrhosis**, and **nephrotic syndrome** [^notf
 
 ## Step 4: assess symptom severity and acuity
 
-Classify as **mild, moderate, or severe** based on symptoms (nausea, confusion, seizures, coma) [^90e56399]. Determine whether the onset is **acute (< 48 h)** or **chronic (≥ 48 h)** to guide correction limits [^8623e8d2].
+Classify as **mild, moderate, or severe** based on symptoms (nausea, confusion, seizures, coma) [^114hpGSU]. Determine whether the onset is **acute (< 48 h)** or **chronic (≥ 48 h)** to guide correction limits [^114RsQLR].
 
 ---
 
@@ -94,37 +94,37 @@ Classify as **mild, moderate, or severe** based on symptoms (nausea, confusion, 
 
 - **TSH**: Hypothyroidism [^notfound].
 - **Morning cortisol**: Adrenal insufficiency [^notfound].
-- **Uric acid**: Low in SIADH [^68a56514].
-- **CXR/CT/MRI**: Lung cancer, CNS lesions [^68a56514].
-- **Medication review**: Identify drug-induced hyponatremia [^e5cb7367].
+- **Uric acid**: Low in SIADH [^113g9GTd].
+- **CXR/CT/MRI**: Lung cancer, CNS lesions [^113g9GTd].
+- **Medication review**: Identify drug-induced hyponatremia [^116sgW5L].
 
 ---
 
 ## Step 6: monitoring and safety considerations
 
-Monitor **serum sodium** every 4–6 hours initially, then daily once stable. Avoid **rapid correction** (> 8–10 mEq/L in 24 h) to prevent osmotic demyelination; use desmopressin and hypotonic fluids if needed [^90dd948b] [^5dbd5c7e].
+Monitor **serum sodium** every 4–6 hours initially, then daily once stable. Avoid **rapid correction** (> 8–10 mEq/L in 24 h) to prevent osmotic demyelination; use desmopressin and hypotonic fluids if needed [^114hmeK4] [^113PyTGH].
 
 ---
 
-The hyponatremia workup proceeds from **confirming true hypotonicity** to **classifying volume status**, identifying the cause, and aligning management with symptom severity and acuity, with vigilant monitoring to prevent overcorrection [^90dd948b].
+The hyponatremia workup proceeds from **confirming true hypotonicity** to **classifying volume status**, identifying the cause, and aligning management with symptom severity and acuity, with vigilant monitoring to prevent overcorrection [^114hmeK4].
 
 ---
 
 ## References
 
-### The challenge of hyponatremia [^e98ac58b]. Journal of the American Society of Nephrology (2012). Low credibility.
+### The challenge of hyponatremia [^116yEj9k]. Journal of the American Society of Nephrology (2012). Low credibility.
 
 Treatment of hypotonic hyponatremia often challenges clinicians on many counts. Despite similar serum sodium concentrations, clinical manifestations can range from mild to life threatening. Some patients require active management, whereas others recover without intervention. Therapeutic measures frequently yield safe correction, yet the same measures can result in osmotic demyelination. To address this challenge, we present a practical approach to managing hyponatremia that centers on two elements: a diagnostic evaluation directed at the pathogenesis and putative causes of hyponatremia, the case-specific clinical and laboratory features, and the associated clinical risk; and a management plan tailored to the diagnostic findings that incorporates quantitative projections of fluid therapy and fluid losses on the patient's serum sodium, balances potential benefits and risks, and emphasizes vigilant monitoring. These principles should enable the clinician to formulate a management plan that addresses expeditiously three critical questions: Which of the determinants of the serum sodium are deranged and what is the underlying culprit? How urgent is the need for intervention? What specific therapy should be instituted and which are the associated pitfalls?
 
 ---
 
-### Management of chronic hyponatremia in the outpatient setting [^f430c9d4]. American Journal of Kidney Diseases (2025). Medium credibility.
+### Management of chronic hyponatremia in the outpatient setting [^117F2NEf]. American Journal of Kidney Diseases (2025). Medium credibility.
 
 The diagnostic evaluation and management of chronic hyponatremia in outpatients can be challenging for several reasons. First, chronic hyponatremia is often mild, leading to uncertainty about whether it is clinically significant and warrants further diagnostic evaluation and treatment. Second, if the initial diagnostic workup does not identify a clear cause, it becomes uncertain how much further investigation is required. Third, when no clear cause is found or the underlying condition cannot be treated, physicians may struggle to choose the most appropriate treatment approach. This review offers practical guidance to navigate these challenges in managing chronic hyponatremia in the outpatient setting.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^81ecfb0a]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^114Kd17F]. BMC Medicine (2014). Low credibility.
 
 Background
 
@@ -150,13 +150,13 @@ The online version of this article (doi:10.1186/s12916-014-0231-1) contains supp
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^0f3b94b5]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^111PapxU]. BMC Medicine (2014). Low credibility.
 
 Clinical practice guidelines and consensus statements provide recommendations to help evidence-based practice by suggesting the most appropriate diagnostic tests and the most appropriate treatments. Over the years, multiple organizations have developed recommendations to assist clinicians in the management of hyponatremia. To be reliable, these recommendations must be based on a systematic review of the evidence, and have a transparent and multidisciplinary development process. Inconsistencies between recommendations may arise from failing to meet development standards and can only add to unwarranted variability in management. In this study, we aimed to explore the scope, content, and consistency of the existing guidance documents on the diagnosis and management of hyponatremia in adults and children.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^cc2b8ddc]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^116Dh6zX]. BMC Medicine (2014). Low credibility.
 
 Background
 
@@ -168,25 +168,25 @@ Hyponatremia may be managed clinically by different specialists, such as endocri
 
 ---
 
-### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^834f4760]. American Family Physician (2023). High credibility.
+### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^114Mg1Pm]. American Family Physician (2023). High credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, adequate response to initial management, AAFP 2023 guidelines recommend to decide on the next steps of the management of hypotonic hyponatremia (true hyponatremia) in the absence of severe hyponatremia based on whether the patient is hypovolemic, euvolemic, or hypervolemic.
 
 ---
 
-### Managing hyponatremia in patients with syndrome of inappropriate antidiuretic hormone secretion [^a879bad9]. Journal of Hospital Medicine (2010). Low credibility.
+### Managing hyponatremia in patients with syndrome of inappropriate antidiuretic hormone secretion [^115JmoqJ]. Journal of Hospital Medicine (2010). Low credibility.
 
 This review will address the management of hyponatremia caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH) in hospitalized patients. To do so requires an understanding of the pathogenesis and diagnosis of SIADH, as well as currently available treatment options. The review will be structured as responses to a series of questions, followed by a presentation of an algorithm for determining the most appropriate treatments for individual patients with SIADH based on their presenting symptoms.
 
 ---
 
-### Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations [^13e94bb6]. The American Journal of Medicine (2013). Low credibility.
+### Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations [^111WX8Kf]. The American Journal of Medicine (2013). Low credibility.
 
 Hyponatremia is a serious, but often overlooked, electrolyte imbalance that has been independently associated with a wide range of deleterious changes involving many different body systems. Untreated acute hyponatremia can cause substantial morbidity and mortality as a result of osmotically induced cerebral edema, and excessively rapid correction of chronic hyponatremia can cause severe neurologic impairment and death as a result of osmotic demyelination. The diverse etiologies and comorbidities associated with hyponatremia pose substantial challenges in managing this disorder. In 2007, a panel of experts in hyponatremia convened to develop the Hyponatremia Treatment Guidelines 2007: Expert Panel Recommendations that defined strategies for clinicians caring for patients with hyponatremia. In the 6 years since the publication of that document, the field has seen several notable developments, including new evidence on morbidities and complications associated with hyponatremia, the importance of treating mild to moderate hyponatremia, and the efficacy and safety of vasopressin receptor antagonist therapy for hyponatremic patients. Therefore, additional guidance was deemed necessary and a panel of hyponatremia experts (which included all of the original panel members) was convened to update the previous recommendations for optimal current management of this disorder. The updated expert panel recommendations in this document represent recommended approaches for multiple etiologies of hyponatremia that are based on both consensus opinions of experts in hyponatremia and the most recent published data in this field.
 
 ---
 
-### Principles of management of severe hyponatremia [^b96fe5fd]. Journal of the American Heart Association (2013). Low credibility.
+### Principles of management of severe hyponatremia [^115jvJ6G]. Journal of the American Heart Association (2013). Low credibility.
 
 Management Principles
 
@@ -197,7 +197,7 @@ Clinical approach to hyponatremia shown as a flow diagram after initial presenta
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^67d79218]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^113ex8gX]. BMC Medicine (2014). Low credibility.
 
 Conclusions
 
@@ -205,31 +205,31 @@ Current guidelines on the assessment and treatment of hyponatremia often fail to
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^25dbb559]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^111y8Lh6]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, adequate response to initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to initiate cause-specific treatment, if available, aiming at least to stabilize sodium concentration.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^ffe69762]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^117YPJ9F]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to manage patients with severely symptomatic hyponatremia in an environment where close biochemical and clinical monitoring can be provided.
 
 ---
 
-### Approach to the patient: hyponatremia and the syndrome of inappropriate antidiuresis (SIAD) [^b3bf34d5]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Approach to the patient: hyponatremia and the syndrome of inappropriate antidiuresis (SIAD) [^115bV1Sk]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Hyponatremia is the most common electrolyte disturbance seen in clinical practice, affecting up to 30% of acute hospital admissions, and is associated with significant adverse clinical outcomes. Acute or severe symptomatic hyponatremia carries a high risk of neurological morbidity and mortality. In contrast, chronic hyponatremia is associated with significant morbidity including increased risk of falls, osteoporosis, fractures, gait instability, and cognitive decline; prolonged hospital admissions; and etiology-specific increase in mortality. In this Approach to the Patient, we review and compare the current recommendations, guidelines, and literature for diagnosis and treatment options for both acute and chronic hyponatremia, illustrated by 2 case studies. Particular focus is concentrated on the diagnosis and management of the syndrome of inappropriate antidiuresis. An understanding of the pathophysiology of hyponatremia, along with a synthesis of the duration of hyponatremia, biochemical severity, symptomatology, and blood volume status, forms the structure to guide the appropriate and timely management of hyponatremia. We present 2 illustrative cases that represent common presentations with hyponatremia and discuss the approach to management of these and other causes of hyponatremia.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^28477fe5]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^1122iXCQ]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to urine osmolality, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to obtain and interpret urine osmolality on a spot urine sample as the initial step in the evaluation of patients with hypotonic hyponatremia.
 
 ---
 
-### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^e6f1a16b]. BMC Medicine (2015). Low credibility.
+### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^116uPKAA]. BMC Medicine (2015). Low credibility.
 
 Guidelines of hyponatraemia treatment
 
@@ -241,13 +241,13 @@ Should we be surprised that individual hyponatraemia guidelines "failed" this te
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^a3515c40]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^115B8Jxo]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (assessment), WMS 2020 guidelines recommend to obtain point-of-care testing in at-risk symptomatic patients when available. Integrate all available clinical and historical information into an assessment of the patient's hydration status (history of fluid intake, food intake, presenting signs and symptoms, body weight if available, and urine output), if testing is unavailable.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^e1611723]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^116m8pt2]. BMC Medicine (2014). Low credibility.
 
 Discussion
 
@@ -255,7 +255,7 @@ We found five clinical practice guidelines and five consensus statements coverin
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^d9a90efb]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^116Zh6gJ]. BMC Medicine (2014). Low credibility.
 
 Approaches to diagnostic strategies for hyponatremia
 
@@ -274,25 +274,25 @@ Most guidance documents proposed additional laboratory tests that could be of va
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^b072557f]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^115WbE1C]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to obtain a follow-up serum sodium concentration 20 minutes after the initial infusion, while administering a second infusion of 150 mL 3% hypertonic saline over the subsequent 20 minutes.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: compilation of the guidelines [^cd2360f3]. Journal of the American Society of Nephrology (2017). Low credibility.
+### Diagnosis and treatment of hyponatremia: compilation of the guidelines [^116F8M1C]. Journal of the American Society of Nephrology (2017). Low credibility.
 
 Hyponatremia is a common water balance disorder that often poses a diagnostic or therapeutic challenge. Therefore, guidelines were developed by professional organizations, one from within the United States (2013) and one from within Europe (2014). This review discusses the diagnosis and treatment of hyponatremia, comparing the two guidelines and highlighting recent developments. Diagnostically, the initial step is to differentiate hypotonic from nonhypotonic hyponatremia. Hypotonic hyponatremia is further differentiated on the basis of urine osmolality, urine sodium level, and volume status. Recently identified parameters, including fractional uric acid excretion and plasma copeptin concentration, may further improve the diagnostic approach. The treatment for hyponatremia is chosen on the basis of duration and symptoms. For acute or severely symptomatic hyponatremia, both guidelines adopted the approach of giving a bolus of hypertonic saline. Although fluid restriction remains the first-line treatment for most forms of chronic hyponatremia, therapy to increase renal free water excretion is often necessary. Vasopressin receptor antagonists, urea, and loop diuretics serve this purpose, but received different recommendations in the two guidelines. Such discrepancies may relate to different interpretations of the limited evidence or differences in guideline methodology. Nevertheless, the development of guidelines has been important in advancing this evolving field.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^7c744fcf]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^114BWXt2]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, adequate response to initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to discontinue hypertonic saline infusion in patients with severely symptomatic hyponatremia displaying an adequate response to initial management.
 
 ---
 
-### Euvolemic hyponatremia in cancer patients. report of the hyponatremia registry: an observational multicenter international study [^45c03e3c]. Supportive Care in Cancer (2017). Low credibility.
+### Euvolemic hyponatremia in cancer patients. report of the hyponatremia registry: an observational multicenter international study [^112nQieF]. Supportive Care in Cancer (2017). Low credibility.
 
 Discussion
 
@@ -302,67 +302,67 @@ Of note, 39% of all cancer patients initially enrolled as euvolemic hyponatremia
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^06c7e275]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^111B44kt]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to urine sodium, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to consider assessing the extracellular fluid status and use of diuretics to further differentiate likely causes of hyponatremia in patients with urine sodium concentration > 30 mmol/L.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^47d06504]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^112qU7s1]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients (inadequate response to initial management), ERA-EDTA/ESE/ESICM 2014 guidelines recommend to continue IV infusion of 3% hypertonic saline in patients with severely symptomatic hyponatremia displaying an inadequate response to initial treatment, aiming for an additional increase in serum sodium concentration by 1 mmol/L per hour.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^4d6473f6]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^112yjngV]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, adequate response to initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to maintain IV access open by infusing the smallest feasible volume of 0.9% saline until cause-specific treatment is started.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^6e34fec2]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^113pPSRo]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to obtain rapid assessment for signs and symptoms of cerebral edema or non-cardiogenic pulmonary edema in all patients with possible exercise-associated hyponatremia.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^8d41f9d0]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^114cRR3m]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypovolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to manage patients with hemodynamic instability in an environment where close biochemical and clinical monitoring can be provided.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^d4610886]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^116Rry73]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of severely symptomatic patients, initial management, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to administer IV infusion of 3% hypertonic saline (150 mL IV, over 20 minutes) promptly in patients with severely symptomatic hyponatremia.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^a3af82a4]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^115Bfw9m]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to urine sodium, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to consider attributing hyponatremia to low effective arterial volume in patients with a urine sodium concentration ≤ 30 mmol/L.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^356e4af8]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^112NDPcb]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypovolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to prioritize rapid fluid resuscitation over concerns regarding an overly rapid rise in serum sodium concentration in patients with hemodynamic instability.
 
 ---
 
-### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^dd7ed4d9]. BMC Medicine (2015). Low credibility.
+### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^116fNs9z]. BMC Medicine (2015). Low credibility.
 
 In the "real world", the non-expert doctor who initially recognises and responds to severe hyponatraemia (serum sodium concentration < 120 mmol/L) in a critically ill patient will often be a junior trainee working "out of routine office hours". In this emergency setting, the doctor may have limited immediate access to important additional diagnostic tests, e.g. serum and urine osmolality and urine electrolytes. Urgent treatment decisions may need to be taken to manage symptoms such as confusion and seizures, with incomplete patient history and diagnostic information. There is a general consensus that hypertonic saline is effective in the immediate management of acute symptomatic hyponatraemia but available guidelines differ on the volumes and rates of saline infusion. Ultimately, it is clinical judgement rather than adherence to a particular guideline that will determine an individual patient's treatment. Intuitive clinical algorithms, with proven efficacy, would help to encourage "best practice" in the diagnosis and management of hyponatraemia.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^2791a906]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^1121fSgV]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to urine osmolality, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to attribute hyponatremia to relative excess water intake in patients with a urine osmolality ≤ 100 mOsm/kg.
 
 ---
 
-### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^41c59f54]. BMC Medicine (2015). Low credibility.
+### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^112gWaK5]. BMC Medicine (2015). Low credibility.
 
 Conclusions
 
@@ -370,7 +370,7 @@ Improving both the accuracy of diagnosis and the appropriate management of hypon
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^8623e8d2]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^114RsQLR]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding classification and risk stratification for hyponatremia, more specifically with respect to classification, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to classify hyponatremia based on the documented duration:
 
@@ -382,49 +382,49 @@ Regarding classification and risk stratification for hyponatremia, more specific
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^4174e596]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^112g3Tem]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to urine sodium, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to measure urine sodium concentration on a spot urine sample (obtained and interpreted with concomitant serum sodium concentration) in patients with urine osmolality > 100 mOsm/kg.
 
 ---
 
-### Hyponatremia in the emergency department [^318aa7b2]. The American Journal of Emergency Medicine (2022). Medium credibility.
+### Hyponatremia in the emergency department [^112GSy2Z]. The American Journal of Emergency Medicine (2022). Medium credibility.
 
 Hyponatremia, defined as a serum sodium < 135 mmol/L, is frequently encountered in patients presenting to the emergency department. Symptoms are often unspecific and include a recent history of falls, weakness and vertigo. Common causes of hyponatremia include diuretics, heart failure as well as Syndrome of Inappropriate Antidiuresis (SIAD) and correct diagnosis can be challenging. Emergency treatment of hyponatremia should be guided by presence of symptoms and focus on distinguishing between acute and chronic hyponatremia.
 
 ---
 
-### Hyponatremia treatment guidelines 2007: expert panel recommendations [^d18691e4]. The American Journal of Medicine (2007). Low credibility.
+### Hyponatremia treatment guidelines 2007: expert panel recommendations [^116MdcXm]. The American Journal of Medicine (2007). Low credibility.
 
 Although hyponatremia is a common, usually mild, and relatively asymptomatic disorder of electrolytes, acute severe hyponatremia can cause substantial morbidity and mortality, particularly in patients with concomitant disease. In addition, overly rapid correction of chronic hyponatremia can cause severe neurologic deficits and death, and optimal treatment strategies for such cases are not established. An expert panel assessed the potential contributions of aquaretic nonpeptide small-molecule arginine vasopressin receptor (AVPR) antagonists to hyponatremia therapies. This review presents their conclusions, including identification of appropriate treatment populations and possible future indications for aquaretic AVPR antagonists.
 
 ---
 
-### Treatment of severe hyponatremia [^12fc5713]. Clinical Journal of the American Society of Nephrology (2018). Low credibility.
+### Treatment of severe hyponatremia [^111V9Y4A]. Clinical Journal of the American Society of Nephrology (2018). Low credibility.
 
 Patients with severe (serum sodium ≤ 120 mEq/L), symptomatic hyponatremia can develop life-threatening or fatal complications from cerebral edema if treatment is inadequate and permanent neurologic disability from osmotic demyelination if treatment is excessive. Unfortunately, as is true of all electrolyte disturbances, there are no randomized trials to guide the treatment of this challenging disorder. Rather, therapeutic decisions rest on physiologic principles, animal models, observational studies, and single-patient reports. European guidelines and recommendations of an American Expert panel have come to similar conclusions on how much correction of hyponatremia is enough and how much is too much, but there are important differences. We review the evidence supporting these recommendations, identifying areas that rest on relatively solid ground and highlighting areas in greatest need of additional data.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^de7550dd]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^116gof4Q]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypervolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to do not implement therapeutic measures aimed solely at increasing the serum sodium concentration in patients with mild or moderate hyponatremia.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^86adf319]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^114SfmaG]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypervolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to consider restricting fluid administration to prevent further fluid overload.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^0632c300]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^111ABycK]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to serum osmolality, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to recognize that hyponatremia with a measured serum osmolality < 275 mOsm/kg reflects hypotonic hyponatremia.
 
 ---
 
-### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^957d6d78]. BMC Nephrology (2017). Low credibility.
+### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^114pdHWw]. BMC Nephrology (2017). Low credibility.
 
 Study limitations
 
@@ -432,7 +432,7 @@ This study had some limitations. First, this was a single-center retrospective s
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^7eb9cd53]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^114EsrDx]. BMC Medicine (2014). Low credibility.
 
 Methods
 
@@ -450,31 +450,31 @@ We developed a draft data extraction form which was piloted and modified as nece
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^a970d691]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^115LCotc]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Exercise-associated hyponatremia (EAH) management principles and heat illness definition — For this guideline, heat illness is defined "as any total body water deficit (> 2% of body weight) that can occur from sweat loss during physical activity in high environmental temperatures". When EAH is confirmed or strongly suspected, "empiric treatment of symptomatic EAH is an acceptable option", and "treatment options should be predicated on the presence (or absence) of neurologic impairment to differentiate mild EAH from severe EAH and guide resuscitative choices". The page notes this algorithmic empiric approach "can be lifesaving and is unlikely (but unconfirmed) to induce harm", and emphasizes that "individuals can rapidly progress from mild to severe EAH", so "initial resuscitation and symptomatic care to minimize morbidity and progression of disease are of paramount importance".
 
 ---
 
-### Treatment guidelines for hyponatremia: stay the course [^8c9ce4c2]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Treatment guidelines for hyponatremia: stay the course [^114bTxzD]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 International guidelines designed to minimize the risk of complications that can occur when correcting severe hyponatremia have been widely accepted for a decade. On the basis of the results of a recent large retrospective study of patients hospitalized with hyponatremia, it has been suggested that hyponatremia guidelines have gone too far in limiting the rate of rise of the serum sodium concentration; the need for therapeutic caution and frequent monitoring of the serum sodium concentration has been questioned. These assertions are reminiscent of a controversy that began many years ago. After reviewing the history of that controversy, the evidence supporting the guidelines, and the validity of data challenging them, we conclude that current safeguards should not be abandoned. To do so would be akin to discarding your umbrella because you remained dry in a rainstorm. The authors of this review, who represent 20 medical centers in nine countries, have all contributed significantly to the literature on the subject. We urge clinicians to continue to treat severe hyponatremia cautiously and to wait for better evidence before adopting less stringent therapeutic limits.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^2d09e87a]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^1129mmi1]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to administer an immediate 100 mL bolus of IV hypertonic saline if signs and symptoms of encephalopathy (with or without non-cardiogenic pulmonary edema) develop and severe exercise-associated hyponatremia is strongly suspected.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^9720b7a0]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^114s47wM]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to avoid administering oral and IV hypotonic or isotonic fluids early in the management of patients with exercise-associated hyponatremia, although, consider using in certain clinical contexts once sodium correction has been initiated or hypovolemia is confirmed.
 
 ---
 
-### Diagnosis and management of hyponatremia: a review [^90dd948b]. JAMA (2022). Excellent credibility.
+### Diagnosis and management of hyponatremia: a review [^114hmeK4]. JAMA (2022). Excellent credibility.
 
 Importance
 
@@ -490,13 +490,13 @@ Hyponatremia affects approximately 5% of adults and 35% of patients who are hosp
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^102f8b73]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^111Qzmkn]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Exercise-associated hyponatremia (EAH) — acute in-hospital treatment recommendations — Oral and IV hypotonic or isotonic hydration should be avoided early in the management of EAH, although it may be appropriate in certain clinical contexts once sodium correction has been initiated or hypovolemia is confirmed. Recommendation grade: 1C. With suspected EAH, and particularly in those with altered mental status, sodium estimation should be obtained as rapidly as possible after hospital arrival. Recommendation grade: 1A. A rapid assessment for signs and symptoms of cerebral edema or noncardiogenic pulmonary edema should be done in all patients with possible EAH. Recommendation grade: 1A. Severe EAH biochemically confirmed or symptomatic EAH should be treated with a 100-mL bolus of IV HTS, which can be repeated twice at 10-min intervals (3 doses in total) or until improvement of neurologic symptoms, with the aim of acutely increasing serum sodium concentration by about 4 to 5 mmol·L−1 and reversing cerebral edema. Recommendation grade: 1A.
 
 ---
 
-### Exercise-associated hyponatremia: updated guidelines… [^5aeb0ecf]. AAFP (2021). Medium credibility.
+### Exercise-associated hyponatremia: updated guidelines… [^113KnqfC]. AAFP (2021). Medium credibility.
 
 Key Points for Practice
 - EAH risk can be reduced by limiting drinking only to respond to thirst with prolonged exertion.
@@ -510,13 +510,13 @@ External cooling can be added, and intravenous hypotonic or isotonic fluid shoul
 
 ---
 
-### Hyponatremia in heart failure: revisiting pathophysiology and therapeutic strategies [^39829cce]. Clinical Cardiology (2010). Low credibility.
+### Hyponatremia in heart failure: revisiting pathophysiology and therapeutic strategies [^112UGAbo]. Clinical Cardiology (2010). Low credibility.
 
 Hyponatremia is frequently encountered in patients with heart failure (HF), and its association with adverse outcomes is well-established in this population. While hyponatremia is an independent marker for severity of HF, it is not certain whether it has a causal impact on the progression of the disease. There are no universally accepted consensus guidelines regarding therapeutic strategies for HF-associated hyponatremia and volume overload; current societal guidelines do not address management of this complication. Whereas thiazide diuretics are known to induce or worsen hyponatremia in this setting through a number of mechanisms, loop diuretics can be considered a readily available first-line pharmacologic therapy. Consistent with pathophysiology of the disease and mechanisms of action of loop diuretics, available clinical evidence supports such an approach provided that patients can be closely monitored. Use of vasopressin receptor antagonists is an emerging therapeutic strategy in this setting, and the efficacy of these agents has so far been shown in a number of clinical studies. These agents can be reserved for patients with HF in whom initial appropriate loop diuretic therapy fails to improve serum sodium levels.
 
 ---
 
-### Principles of management of severe hyponatremia [^f3154383]. Journal of the American Heart Association (2013). Low credibility.
+### Principles of management of severe hyponatremia [^117DP8jL]. Journal of the American Heart Association (2013). Low credibility.
 
 Conclusion
 
@@ -524,25 +524,25 @@ Accurate diagnosis of the cause, pathogenesis and chronicity, and monitoring dur
 
 ---
 
-### A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke [^e5cb7367]. Therapeutic Advances in Endocrinology and Metabolism (2023). Medium credibility.
+### A step-by-step guide for the diagnosis and management of hyponatraemia in patients with stroke [^116sgW5L]. Therapeutic Advances in Endocrinology and Metabolism (2023). Medium credibility.
 
 Hyponatraemia is common in patients with stroke and associated with adverse outcomes and increased mortality risk. The present review presents the underlying causes and provides a thorough algorithm for the diagnosis and management of hyponatraemia in stroke patients. Concomitant diseases and therapies, such as diabetes, chronic kidney disease and heart failure, along with diuretics, antidepressants and proton pump inhibitors are the most common causes of hyponatraemia in community. In the setting of acute stroke, the emergence of hyponatraemia might be attributed to the administration of hypotonic solutions and drugs (ie. mannitol and antiepileptics), poor solute intake, infections, as well as stroke-related conditions or complications, such as the syndrome of inappropriate secretion of antidiuretic hormone, cerebral salt wasting syndrome and secondary adrenal insufficiency. Diagnostically, the initial step is to differentiate hypotonic from non-hypotonic hyponatraemia, usually caused by hyperglycaemia or recent mannitol administration in patients with stroke. Determining urine osmolality, urine sodium level and volume status are the following steps in the differentiation of hypotonic hyponatraemia. Of note, specific parameters, such as fractional uric acid and urea excretion, along with plasma copeptin concentration, may further improve the diagnostic yield. Therapeutic options are based on the duration and symptoms of hyponatremia. In the case of acute or symptomatic hyponatraemia, hypertonic saline administration is recommended. Hypovolaemic chronic hyponatremia is treated with isotonic solution administration. Although fluid restriction remains the first-line treatment for the rest forms of chronic hyponatraemia, therapies increasing renal free water excretion may be necessary. Loop diuretics and urea serve this purpose in patients with stroke, whereas sodium-glucose transport protein-2 inhibitors appear to be a promising therapy. Nevertheless, it is yet unclear whether the appropriate restoration of sodium level improves outcomes in such patients. Randomized trials designed to compare therapeutic strategies in managing hyponatraemia in patients with stroke are required.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^a01b2788]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^1156N96o]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of mildly symptomatic patients (acute setting), ERA-EDTA/ESE/ESICM 2014 guidelines recommend to ensure that the serum sodium concentration has been measured using the same technique used for the previous measurement and that no administrative errors in sample handling have occurred.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^d661a4fe]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^116Uq9aM]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (observation), WMS 2020 guidelines recommend to observe patients for at least 60 minutes after exercise to ensure no decompensation from delayed symptomatic exercise-associated hyponatremia occurs after cessation of exercise.
 
 ---
 
-### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^be330dd8]. BMC Nephrology (2017). Low credibility.
+### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^115ryoA7]. BMC Nephrology (2017). Low credibility.
 
 Risk of overcorrection
 
@@ -550,7 +550,7 @@ Risk factors for ODS included an initial SNa of < 105 mEq/L and overcorrection. 
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^90e56399]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^114hpGSU]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding classification and risk stratification for hyponatremia, more specifically with respect to severity grading (based on symptoms), ERA-EDTA/ESE/ESICM 2014 guidelines recommend to classify hyponatremia based on the symptomatic presentation:
 
@@ -560,7 +560,7 @@ Regarding classification and risk stratification for hyponatremia, more specific
 
 ---
 
-### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^9868e5be]. BMC Nephrology (2017). Low credibility.
+### A low initial serum sodium level is associated with an increased risk of overcorrection in patients with chronic profound hyponatremia: a retrospective cohort analysis [^114txMQH]. BMC Nephrology (2017). Low credibility.
 
 Treatment protocol for Hyponatremia
 
@@ -568,19 +568,19 @@ All patients were treated using our standardized therapeutic protocol for hypona
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^cd45b963]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^116FKt7C]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (outpatient management), WMS 2020 guidelines recommend to advise restricting oral fluids if exercise-associated hyponatremia from fluid overload is associated with mild symptoms. Do not administer hypotonic fluids in patients with suspected exercise-associated hyponatremia.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^a4ada283]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^115D9Htv]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to restrict isotonic fluid intake in patients with known or suspected severe hypervolemic exercise-associated hyponatremia until urination begins.
 
 ---
 
-### Treatment guidelines for hyponatremia: stay the course [^1b780606]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
+### Treatment guidelines for hyponatremia: stay the course [^111hiyrd]. Clinical Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Introduction
 
@@ -588,19 +588,19 @@ For the past decade, most physicians treating severe hyponatremia have followed 
 
 ---
 
-### Current treatment practice and outcomes. report of the hyponatremia registry [^037b6ac2]. Kidney International (2015). Low credibility.
+### Current treatment practice and outcomes. report of the hyponatremia registry [^1116ARCm]. Kidney International (2015). Low credibility.
 
 The HN Registry has a number of limitations, most of which derive from its observational design. Patients with hypovolemic HN were excluded, as were those with hypervolemic HN in the EU cohort. A large number of patients were excluded at the time of adjudication. Sensitivity analysis showed no difference in the major outcomes when patients with suspected hypovolemia were restored to the analysis. We believe that the exclusion of these patients represents a conservative approach. Ascertainment varied from center to center; enrollment of consecutive cases was not required. Consequently, the study provides no information about relative prevalence of different etiologies of HN. Accurate determination of clinical volume status is difficult under the best of circumstances. The selection of diagnostic studies and treatments was left up to the clinicians responsible for patients, and the study relied on treating clinicians to make a diagnosis. Neither a fluid challenge nor a urine sodium determination was required as an entry criterion for putatively euvolemic patients. This limited our ability to exclude hypovolemia and independently confirm the presence of SIADH with precision. Because the study's intent was to capture 'real-world' practice, this limitation did not detract from observing how clinician-diagnosed SIADH is treated. Indeed, a principal conclusion is that diagnostic rigor in the case of SIADH is severely lacking, even in a study situation where some treating physicians were aware that their diagnostic choices were being observed. Some therapies were used too infrequently to assess. For example, urea, a treatment shown to be effective in SIADH, and recommended in recent EU guidelines, was used in only 10 patients. Because of the large number of combinations used at low frequency, analysis focused on monotherapy and initial therapy episodes. The study did not specify, much less randomize, treatment choices. We were unable to determine the rationale for choosing a particular treatment. In particular, we could not determine how often NS was used initially in a diagnostic trial to exclude volume depletion in patients suspected of SIADH, a reasonable strategy for its use. Choice of treatments was likely confounded by indication, and the study cannot accurately assess whether any particular treatment shortened hospital stay. We were not able to fully assess how maneuvers such as discontinuation of a HN-inducing medication or treatment of CHF affected [Na +] changes or the decision to add another treatment maneuver. As a result, even the limited comparisons showing superiority or inferiority of particular treatments that were feasible must be interpreted with much circumspection.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^ce7ab3f1]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^116H7fVr]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to administer a 100 mL bolus of IV hypertonic saline in patients with biochemically confirmed severe exercise-associated hyponatremia or symptomatic exercise-associated hyponatremia. Consider administering repeated boluses twice at 10-min intervals (3 doses in total) or until improvement of neurologic symptoms, with the aim of acutely increasing serum sodium concentration by about 4 to 5 mmol/L and reversing cerebral edema.
 
 ---
 
-### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^657d265c]. Journal of General Internal Medicine (2025). Medium credibility.
+### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^113bTnaX]. Journal of General Internal Medicine (2025). Medium credibility.
 
 Feasibility and Acceptability
 
@@ -614,7 +614,7 @@ Recipients of TACos answered 90% of hyponatremia knowledge questions correctly, 
 
 ---
 
-### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^1d0d0173]. Endocrine Reviews (2023). Medium credibility.
+### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^111k51YW]. Endocrine Reviews (2023). Medium credibility.
 
 Conclusion and Directions for Future Research
 
@@ -636,7 +636,7 @@ Determine the degree to which chronic hyponatremia is a causal mediator of assoc
 
 ---
 
-### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^7d6a53a1]. BMC Medicine (2015). Low credibility.
+### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^114CwAdv]. BMC Medicine (2015). Low credibility.
 
 Background
 
@@ -644,13 +644,13 @@ Hypotonic hyponatraemia (serum sodium concentration < 135 mmol/L with low osmola
 
 ---
 
-### Mild chronic hyponatremia in the ambulatory setting: significance and management [^be299382]. Clinical Journal of the American Society of Nephrology (2015). Low credibility.
+### Mild chronic hyponatremia in the ambulatory setting: significance and management [^115rvcWm]. Clinical Journal of the American Society of Nephrology (2015). Low credibility.
 
 Mild chronic hyponatremia, as defined by a persistent (> 72 hours) plasma sodium concentration between 125 and 135 mEq/L without apparent symptoms, is common in ambulatory patients and generally perceived as being inconsequential. The association between increased mortality and hyponatremia in hospitalized patients in various settings and etiologies is widely recognized. This review analyzes the significance of mild chronic hyponatremia in ambulatory subjects and its effects on mortality and morbidity. It addresses whether this disorder should even be treated and if so, which patients are likely to benefit from treatment. The available approaches to correct hyponatremia in such patients in the context of recently published panel-generated recommendations and guidelines are described.
 
 ---
 
-### Diagnosis and management of hyponatremia: a review [^19dbc176]. JAMA (2022). Excellent credibility.
+### Diagnosis and management of hyponatremia: a review [^111fLWER]. JAMA (2022). Excellent credibility.
 
 The following constitutes key background information on hyponatremia:
 
@@ -662,25 +662,25 @@ The following constitutes key background information on hyponatremia:
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^1e684120]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^111n5eVd]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (inpatient management), WMS 2020 guidelines recommend to do not administer IV hypotonic fluids in patients with suspected fluid overload exercise-associated hyponatremia.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^86d73758]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^114SudWf]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Severe exercise-associated hyponatremia (EAH) — recognition and initial treatment: The presence of altered mental status, coma, seizures, and/or respiratory distress in the absence of obvious hyperthermia supports the diagnosis of severe EAH and should be promptly recognized and treated immediately with an IV bolus of 100 mL of HTS.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^e963f158]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^116y1ghm]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Exercise-associated hyponatremia (EAH) prehospital assessment — point-of-care testing and clinical evaluation: Devices and cartridges require a narrow ambient temperature range of 16 to 30°C (61 to 86°F) to ensure functionality. When testing is unavailable, correct field diagnosis is mostly predicated on obtaining an accurate history of total fluid intake, and supportive features include the absence of major signs and symptoms common to symptomatic hypovolemia, weight gain, and that urine output may be an unreliable differentiator. The guideline states, "When available, point-of-care testing should be done on at-risk, symptomatic patients. If unavailable, integrate all available clinical and historical information into an assessment of the patient's hydration status (history of fluid intake, food intake, preexisting signs and symptoms, body weight if available, and urine output). Recommendation grade: 1C".
 
 ---
 
-### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^576bbfcc]. Journal of General Internal Medicine (2025). Medium credibility.
+### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^113Ec7eB]. Journal of General Internal Medicine (2025). Medium credibility.
 
 Background
 
@@ -720,19 +720,19 @@ The online version contains supplementary material available at 10.1007/s11606-0
 
 ---
 
-### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^ecf0d2d2]. BMC Medicine (2015). Low credibility.
+### Diagnosis and management of hyponatraemia: AGREEing the guidelines [^1174Gy8M]. BMC Medicine (2015). Low credibility.
 
 Hyponatraemia is a common electrolyte disorder associated with significant complications and controversies regarding its optimal management. Clinical practice guidelines and consensus statements have attempted to provide clinicians with evidence-based diagnostic and treatment strategies for hyponatraemia. Recently published guidance documents differ in their methods employed to review the quality of available evidence. Nagler et al. used the Appraisal of Guideline for Research and Evaluation (AGREE II) instrument in a systematic review of guidelines and consensus statements for the diagnosis and management of hyponatraemia. Nagler and colleagues highlighted the variability in methodological rigour applied to guideline development and inconsistencies between publications in relation to management of hyponatraemia (including the recommended rate of correction of a low serum sodium concentration). These differences could cause confusion for practising physicians managing patients with hyponatraemia. Please see related article: http://www.biomedcentral.com/1741-7015/12/231.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^5c2976a5]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^113Mdnha]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding diagnostic investigations for hyponatremia, more specifically with respect to serum glucose, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to measure serum glucose concentration to exclude hyperglycemic hyponatremia, and correct the measured serum sodium concentration for the serum glucose concentration if the latter is increased.
 
 ---
 
-### Plasma osmolality measurement… [^9e2e1ac0]. AAFP (2004). Low credibility.
+### Plasma osmolality measurement… [^1153WXiP]. AAFP (2004). Low credibility.
 
 Total body sodium is primarily extracellular, and any increase results in increased tonicity, which stimulates the thirst center and arginine vasopressin secretion. Arginine vasopressin then acts on the V2 receptors in the renal tubules, causing increased water reabsorption. The opposite occurs with decreased extracellular sodium: a decrease inhibits the thirst center and arginine vasopressin secretion, resulting in diuresis. In most cases, hyponatremia results when the elimination of total body water decreases. The pathophysiology of hyponatremia will be discussed later in this article. Treatment of Schmidt's syndrome involves steroid replacement before thyroxine T4 therapy to avoid precipitating an addisonian crisis. The reset osmostat syndrome occurs when the threshold for antidiuretic hormone secretion is reset downward. Patients with this condition have normal water-load excretion and intact urine-diluting ability after an oral water-loading test.
 
@@ -742,13 +742,13 @@ The condition is chronic — but stable — hyponatremia. 18 It can be caused by
 
 ---
 
-### Current treatment practice and outcomes. report of the hyponatremia registry [^5bef3293]. Kidney International (2015). Low credibility.
+### Current treatment practice and outcomes. report of the hyponatremia registry [^113MJDb8]. Kidney International (2015). Low credibility.
 
 Current management practices for hyponatremia (HN) are incompletely understood. The HN Registry has recorded diagnostic measures, utilization, efficacy, and outcomes of therapy for eu- or hypervolemic HN. To better understand current practices, we analyzed data from 3087 adjudicated adult patients in the registry with serum sodium concentration of 130mEq/l or less from 225 sites in the United States and European Union. Common initial monotherapy treatments were fluid restriction (35%), administration of isotonic (15%) or hypertonic saline (2%), and tolvaptan (5%); 17% received no active agent. Median (interquartile range) mEq/l serum sodium increases during the first day were as follows: no treatment, 1.0 (0.0–4.0); fluid restriction, 2.0 (0.0–4.0); isotonic saline, 3.0 (0.0–5.0); hypertonic saline, 5.0 (1.0–9.0); and tolvaptan, 4.0 (2.0–9.0). Adjusting for initial serum sodium concentration with logistic regression, the relative likelihoods for correction by 5mEq/l or more (referent, fluid restriction) were 1.60 for hypertonic saline and 2.55 for tolvaptan. At discharge, serum sodium concentration was under 135mEq/l in 78% of patients and 130mEq/l or less in 49%. Overly rapid correction occurred in 7.9%. Thus, initial HN treatment often uses maneuvers of limited efficacy. Despite an association with poor outcomes and availability of effective therapy, most patients with HN are discharged from hospital still hyponatremic. Studies to assess short- and long-term benefits of correction of HN with effective therapies are needed.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^758a0619]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^1141Futk]. BMC Medicine (2014). Low credibility.
 
 Six groups included healthcare professionals from different specialties. Multidisciplinary contribution serves to broaden the approach to health-care problems, increase the completeness of evidence-finding strategies, and help to identify hurdles to implementation. When reflecting on approaches to hyponatremia, bringing together several disciplines mirrors the clinical reality of multiple specialty areas dealing with the same problem but looking at it from a different angle. Only one of the development groups reported considering patients' views and experiences, but even then did so to a limited extent. Decisions on clinical care should factor in patient values and preferences. Interventions for chronic hyponatremia, such as fluid restriction, may affect quality of life and patient preference should influence the ultimate recommendations.
 
@@ -756,14 +756,14 @@ Low scores for applicability mostly reflect the absence of describing barriers t
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^6a906f9a]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^113izCiD]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypervolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to do not use vasopressin receptor antagonists
 and demeclocycline in patients with hypervolemic hyponatremia.
 
 ---
 
-### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^8e2940cd]. Endocrine Reviews (2023). Medium credibility.
+### Syndrome of inappropriate antidiuresis: from pathophysiology to management [^114dm6hA]. Endocrine Reviews (2023). Medium credibility.
 
 While there is some preclinical evidence that sex steroids may modulate the secretion of AVP, there is no consistent effect of sex on hyponatremia rates, with some studies reporting a slight male predominance, some a female predominance and others no effect.
 
@@ -771,7 +771,7 @@ In population-based studies, SIAD is the most common attributed cause of hyponat
 
 ---
 
-### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^d7c5084d]. Journal of General Internal Medicine (2025). Medium credibility.
+### Addressing inpatient hyponatremia through targeted automatic E-consults: a pilot randomized trial [^116WtX6C]. Journal of General Internal Medicine (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -785,7 +785,7 @@ The feasibility, acceptability, and clinical effectiveness of targeted, automate
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^17100407]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^111bC6Vc]. BMC Medicine (2014). Low credibility.
 
 Approaches to treatment for hyponatremia
 
@@ -802,13 +802,13 @@ For euvolemic asymptomatic hyponatremia, the majority recommended fluid restrict
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^77f9855a]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^1144sLbT]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with hypovolemic hyponatremia, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to administer IV infusion of a crystalloid solution (0.9% saline or a balanced crystalloid, 0.5–1.0 mL/kg/hour) to restore extracellular volume in patients with hypovolemic hyponatremia.
 
 ---
 
-### Utility and limitations of the traditional diagnostic approach to hyponatremia: a diagnostic study [^7a64bcf8]. The American Journal of Medicine (2010). Low credibility.
+### Utility and limitations of the traditional diagnostic approach to hyponatremia: a diagnostic study [^1148TKvF]. The American Journal of Medicine (2010). Low credibility.
 
 Background
 
@@ -828,25 +828,25 @@ Although the Algorithm performed reasonably well, several shortcomings became ap
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^6605f4f3]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^113cFjnz]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Exercise-associated hyponatremia (EAH) — in-hospital assessment and management: Urgent measurement of blood sodium by the most rapidly available means, assessment for clinical signs suggestive of developing cerebral edema, and obtaining and storing specimens for later analysis of blood serum osmolality and urine sodium and osmolality are advised; provide supplemental oxygen to maintain oxygen saturation above 95%, restrict fluids until onset of urination, and avoid intravenous normal saline until sodium correction is initiated, though normal saline may be required for hypovolemic shock or in renal protection therapy for rhabdomyolysis; in severe cases, administer intravenous 3% sodium chloride as a 100-mL bolus repeated twice at 10-min intervals aiming to reverse cerebral edema, and aim to increase serum sodium by approximately 4 to 5 mmol·L⁻¹ or until neurological symptoms are reversed by active treatment, then allow remaining correction to occur spontaneously via urinary free water excretion.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^69c2c422]. Intensive Care Medicine (2014). Low credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^113ho7wX]. Intensive Care Medicine (2014). Low credibility.
 
 Hyponatraemia, defined as a serum sodium concentration < 135 mmol/L, is the most common disorder of body fluid and electrolyte balance encountered in clinical practice. Hyponatraemia is present in 15–20% of emergency admissions to hospital and occurs in up to 20% of critically ill patients. Symptomatology may vary from subtle to severe or even life threatening. Despite this, the management of patients remains problematic. Against this background, the European Society of Intensive Care Medicine, the European Society of Endocrinology and the European Renal Association-European Dialysis and Transplant Association, represented by European Renal Best Practice have developed a Clinical Practice Guideline on the diagnostic approach and treatment of hyponatraemia as a joint venture of three societies representing specialists with a natural interest in hyponatraemia.
 
 ---
 
-### Approach to the diagnosis and treatment of hyponatremia in pregnancy [^a504908f]. American Journal of Kidney Diseases (2015). Low credibility.
+### Approach to the diagnosis and treatment of hyponatremia in pregnancy [^115DeVRg]. American Journal of Kidney Diseases (2015). Low credibility.
 
 Hyponatremia is the most commonly encountered electrolyte abnormality. Severe hyponatremia in pregnancy poses diagnostic and therapeutic challenges. Pregnancy involves changes in physiology that affect water and sodium homeostasis. Knowledge of these complex physiologic alterations during pregnancy is critical to managing dysnatremias in pregnancy. This teaching case describes a woman with chronic hyponatremia who presented during pregnancy with worsening hyponatremia. She had an activating vasopressin receptor mutation, which was passed on to her child, and her diagnostic workup is described.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^3c391830]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^112YHSCX]. BMC Medicine (2014). Low credibility.
 
 To our knowledge, this is the first attempt to systematically synthesize and appraise clinical guidelines on the diagnosis and treatment of hyponatremia In accordance with the Prisma statement, we conducted a comprehensive literature search and searched an additional 337 websites of specialist societies and guideline organizations (Additional file 6). We used AGREE II, a validated and reliable instrument, and an adequate number of reviewers to individually appraise the guidance documents. On top of the individual appraisals, we included an attempt to resolve major discrepancies and increase consistency by introducing an audiotaped group consensus meeting. During this meeting, reviewers could explain and motivate their scores and adapt them if they wanted to. This mostly resulted only in modest downgrading of domain scores by 1% to 10%. Most of the changes happened because reviewers felt they had scored inconsistently for a same rationale, or because they missed information during the initial appraisal that was in fact available in the document. Although the scores did not change substantially, the group felt the discussion further highlighted the qualitative differences between the guidance documents. In addition, even the reviewers with large deviations from the mean in their initial scores felt they agreed with the conclusion. It means that final average scores were truly a product of consensus rather than a mathematical calculation, as proposed in the original AGREE protocol. We believe that a consensus meeting is valuable in any guideline appraisal process, and particularly useful if reviewer groups have the intention to select a guideline for local use.
 
@@ -854,13 +854,13 @@ This study has its limitations. We based our assessment on what guideline organi
 
 ---
 
-### Hyponatremia demystified: integrating physiology to shape clinical practice [^4781b0ea]. Advances in Kidney Disease and Health (2023). Medium credibility.
+### Hyponatremia demystified: integrating physiology to shape clinical practice [^112q1gbT]. Advances in Kidney Disease and Health (2023). Medium credibility.
 
 Hyponatremia is one of the most common problems encountered in clinical practice and one of the least-understood because accurate diagnosis and management require some familiarity with water homeostasis physiology, making the topic seemingly complex. The prevalence of hyponatremia depends on the nature of the population studied and the criteria used to define it. Hyponatremia is associated with poor outcomes including increased mortality and morbidity. The pathogenesis of hypotonic hyponatremia involves the accumulation of electrolyte-free water caused by either increased intake and/or decrease in kidney excretion. Plasma osmolality, urine osmolality, and urine sodium can help to differentiate among the different etiologies. Brain adaptation to plasma hypotonicity consisting of solute extrusion to mitigate further water influx into brain cells best explains the clinical manifestations of hyponatremia. Acute hyponatremia has an onset within 48 hours, commonly resulting in severe symptoms, while chronic hyponatremia develops over 48 hours and usually is pauci-symptomatic. However, the latter increases the risk of osmotic demyelination syndrome if hyponatremia is corrected rapidly; therefore, extreme caution must be exercised when correcting plasma sodium. Management strategies depend on the presence of symptoms and the cause of hyponatremia and are discussed in this review.
 
 ---
 
-### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^a2b2894e]. BMC Medicine (2014). Low credibility.
+### Diagnosis and treatment of hyponatremia: a systematic review of clinical practice guidelines and consensus statements [^115ACxpd]. BMC Medicine (2014). Low credibility.
 
 Guidelines received the highest scores for scope and purpose (median 62%; range 28% to 92%) and clarity of presentation (median 47%; range 27% to 75%), and lowest scores for applicability (median 19%; range 10% to 68%) and editorial independence (median 19%; range 2% to 79%).
 
@@ -872,7 +872,7 @@ The included guidance documents addressed three major themes: diagnosis, treatme
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^9f3f9f1f]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^11556QFp]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding classification and risk stratification for hyponatremia, more specifically with respect to severity grading (based on sodium concentration), ERA-EDTA/ESE/ESICM 2014 guidelines recommend to classify hyponatremia based on the serum sodium concentration:
 
@@ -884,36 +884,36 @@ Regarding classification and risk stratification for hyponatremia, more specific
 
 ---
 
-### AGA clinical practice update on diagnosis and management of acute hepatic porphyrias: expert review [^a039282d]. Gastroenterology (2023). High credibility.
+### AGA clinical practice update on diagnosis and management of acute hepatic porphyrias: expert review [^1156YDba]. Gastroenterology (2023). High credibility.
 
 AGA Clinical Practice Update — Best Practice Advice 1–6 for acute hepatic porphyrias (AHP) states that women aged 15–50 years with unexplained, recurrent severe abdominal pain after an initial workup should be considered for screening for an AHP; initial diagnosis of AHP should be made by biochemical testing measuring δ-aminolevulinic acid, porphobilinogen, and creatinine on a random urine sample; genetic testing should be used to confirm the diagnosis of AHP in patients with positive biochemical testing; acute attacks of AHP that are severe enough to require hospital admission should be treated with intravenous hemin, given daily, preferably into a high-flow central vein; in addition to intravenous hemin, management of acute attacks of AHP should include pain control, antiemetics, and management of systemic arterial hypertension, tachycardia, hyponatremia, and hypomagnesemia, if present; and patients should be counseled to avoid identifiable triggers such as alcohol and porphyrinogenic medications.
 
 ---
 
-### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^5dbd5c7e]. European Journal of Endocrinology (2014). Medium credibility.
+### Clinical practice guideline on diagnosis and treatment of hyponatraemia [^113PyTGH]. European Journal of Endocrinology (2014). Medium credibility.
 
 Regarding medical management for hyponatremia, more specifically with respect to management of overly rapid correction, ERA-EDTA/ESE/ESICM 2014 guidelines recommend to consider administering an infusion of 10 mL/kg body weight of electrolyte-free water (such as glucose solutions) over 1 hour, in consultation with an expert and under strict monitoring of urine output and fluid balance.
 
 ---
 
-### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^9abf1fb5]. American Family Physician (2015). Low credibility.
+### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^114xRHnt]. American Family Physician (2015). Low credibility.
 
 Hyponatremia and hypernatremia are common findings in the inpatient and outpatient settings. Sodium disorders are associated with an increased risk of morbidity and mortality. Plasma osmolality plays a critical role in the pathophysiology and treatment of sodium disorders. Hyponatremia and hypernatremia are classified based on volume status (hypovolemia, euvolemia, and hypervolemia). Sodium disorders are diagnosed by findings from the history, physical examination, laboratory studies, and evaluation of volume status. Treatment is based on symptoms and underlying causes. In general, hyponatremia is treated with fluid restriction (in the setting of euvolemia), isotonic saline (in hypovolemia), and diuresis (in hypervolemia). A combination of these therapies may be needed based on the presentation. Hypertonic saline is used to treat severe symptomatic hyponatremia. Medications such as vaptans may have a role in the treatment of euvolemic and hypervolemic hyponatremia. The treatment of hypernatremia involves correcting the underlying cause and correcting the free water deficit.
 
 ---
 
-### Clinical and organizational factors in the initial evaluation of patients with lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^68a56514]. Chest (2013). Medium credibility.
+### Clinical and organizational factors in the initial evaluation of patients with lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines [^113g9GTd]. Chest (2013). Medium credibility.
 
 Lung cancer — SIADH: Approximately 10% to 45% of SCLC and 1% of other lung cancer cases produce arginine vasopressin, but only 1% to 5% of patients with lung cancer have symptomatic SIADH; at serum sodium concentrations of 125 to 130 mEq/L patients usually experience symptoms, and when serum sodium levels drop to < 120 mEq/L life-threatening manifestations may ensue. Diagnostic features include hyponatremia (serum sodium < 134 mEq/L), hyposmolality (plasma osmolality, < 275 mosm/kg), inappropriately high urine osmolality (> 500 mosm/kg), inappropriately high urinary sodium concentration (> 20 mEq/L), and absence of hypothyroidism or adrenal insufficiency or volume depletion; further evaluation notes that by assessing effective arterial blood volume with the fractional excretion of urate the accuracy of a diagnostic algorithm for SIADH can approach 95%, and laboratory findings include urine osmolality of > 300 mosm/kg, urinary sodium level of > 40 mEq/L, serum osmolality of < 275 mosm/kg, and serum uric acid concentration of < 4 mg/dL. There are no evidence-based guidelines and recommended management is based on expert opinion; fluid water restriction (< 1 L/d) is a first-line treatment of asymptomatic mild SIADH and a recommended adjunct to other therapy for severe cases, hypertonic 3% saline IV is given in life-threatening or acute symptomatic and severe (< 120 mEq/L) hyponatremia, and demeclocycline, lithium, and vasopressin 2 receptor antagonists (conivaptan, lixivaptan, tolvaptan, and satavaptan) may also be used to correct hyponatremia.
 
 ---
 
-### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^1438df03]. American Family Physician (2023). Medium credibility.
+### Diagnosis and management of sodium disorders: hyponatremia and hypernatremia [^111WyraN]. American Family Physician (2023). Medium credibility.
 
 Hyponatremia and hypernatremia are electrolyte disorders that can be associated with poor outcomes. Hyponatremia is considered mild when the sodium concentration is 130 to 134 mEq per L, moderate when 125 to 129 mEq per L, and severe when less than 125 mEq per L. Mild symptoms include nausea, vomiting, weakness, headache, and mild neurocognitive deficits. Severe symptoms of hyponatremia include delirium, confusion, impaired consciousness, ataxia, seizures, and, rarely, brain herniation and death. Patients with a sodium concentration of less than 125 mEq per L and severe symptoms require emergency infusions with 3% hypertonic saline. Using calculators to guide fluid replacement helps avoid overly rapid correction of sodium concentration, which can cause osmotic demyelination syndrome. Physicians should identify the cause of a patient's hyponatremia, if possible; however, treatment should not be delayed while a diagnosis is pursued. Common causes include certain medications, excessive alcohol consumption, very low-salt diets, and excessive free water intake during exercise. Management to correct sodium concentration is based on whether the patient is hypovolemic, euvolemic, or hypervolemic. Hypovolemic hyponatremia is treated with normal saline infusions. Treating euvolemic hyponatremia includes restricting free water consumption or using salt tablets or intravenous vaptans. Hypervolemic hyponatremia is treated primarily by managing the underlying cause (e.g., heart failure, cirrhosis) and free water restriction. Hypernatremia is less common than hyponatremia. Mild hypernatremia is often caused by dehydration resulting from an impaired thirst mechanism or lack of access to water; however, other causes, such as diabetes insipidus, are possible. Treatment starts with addressing the underlying etiology and correcting the fluid deficit. When sodium is severely elevated, patients are symptomatic, or intravenous fluids are required, hypotonic fluid replacement is necessary.
 
 ---
 
-### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^a1e64d5e]. Wilderness & Environmental Medicine (2020). High credibility.
+### Wilderness Medical Society clinical practice guidelines for the management of exercise-associated hyponatremia: 2019 update [^11592N29]. Wilderness & Environmental Medicine (2020). High credibility.
 
 Regarding specific circumstances for hyponatremia, more specifically with respect to patients with exercise-associated hyponatremia (outpatient management), WMS 2020 guidelines recommend to consider adding oral sodium in hypertonic solutions or advising foods with high sodium content (salty snacks) for increasing serum sodium levels and enhancing symptom relief (over fluid restriction) in patients with mild exercise-associated hyponatremia, if tolerated.

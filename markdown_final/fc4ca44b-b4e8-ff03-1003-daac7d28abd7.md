@@ -15,29 +15,29 @@ my vaginal dryness after childbirth i want a typical lubricant what do i do
 
 > Let's see… What do we have here? The user is asking about selecting and using a typical vaginal lubricant for postpartum vaginal dryness. Let's break this down step-by-step. First, I need to think about the likely causes of postpartum dryness and whether lubricants are appropriate. Then, I should verify the difference between lubricants and moisturizers and when to use each. Next, I will review lubricant types, condom compatibility, and formulation features like pH and osmolality. After that, I should check safety in breastfeeding and postpartum healing. Finally, I will synthesize a practical, stepwise recommendation with product examples and counseling points, making sure I anchor each step to guidelines and trials.
 
-> Let me first confirm the clinical context and whether lubricants are appropriate. Postpartum vaginal dryness is common and often multifactorial, with breastfeeding-associated hypoestrogenism, perineal trauma, and psychosocial contributors all playing roles; importantly, evaluation and management of postpartum sexual dysfunction follow general principles with modifications to avoid therapies contraindicated in breastfeeding, so nonhormonal lubricants are a reasonable first step while we address reversible drivers and healing status [^bfe07e7c] [^f18e3257].
+> Let me first confirm the clinical context and whether lubricants are appropriate. Postpartum vaginal dryness is common and often multifactorial, with breastfeeding-associated hypoestrogenism, perineal trauma, and psychosocial contributors all playing roles; importantly, evaluation and management of postpartum sexual dysfunction follow general principles with modifications to avoid therapies contraindicated in breastfeeding, so nonhormonal lubricants are a reasonable first step while we address reversible drivers and healing status [^116Ry8w3] [^117B7n8W].
 
-> Wait, let me verify the distinction between lubricants and moisturizers because I need to ensure I'm recommending the right product for the right problem. Lubricants are used at the time of sexual activity to reduce friction and dyspareunia, whereas moisturizers are applied regularly to restore vaginal hydration and tissue integrity; guidelines consistently position lubricants and moisturizers as complementary, nonhormonal first-line options for genitourinary symptoms, with moisturizers used proactively and lubricants used as needed during sex [^3dbdac86] [^478243b9] [^5c9233d7].
+> Wait, let me verify the distinction between lubricants and moisturizers because I need to ensure I'm recommending the right product for the right problem. Lubricants are used at the time of sexual activity to reduce friction and dyspareunia, whereas moisturizers are applied regularly to restore vaginal hydration and tissue integrity; guidelines consistently position lubricants and moisturizers as complementary, nonhormonal first-line options for genitourinary symptoms, with moisturizers used proactively and lubricants used as needed during sex [^112aXxLV] [^112q1smS] [^113NEyBU].
 
-> I will now examine lubricant types and compatibility, and I should double-check condom issues. Water-based lubricants are widely available, easy to clean, and compatible with condoms, but they can dry out and may require reapplication; silicone-based lubricants last longer, are also condom-compatible, and are less likely to cause dryness with repeated use; oil-based lubricants are not compatible with latex condoms and can increase breakage risk, so I should avoid recommending oils if condoms are used or if there is concern for barrier integrity [^5c9233d7] [^3dbdac86] [^706540ec].
+> I will now examine lubricant types and compatibility, and I should double-check condom issues. Water-based lubricants are widely available, easy to clean, and compatible with condoms, but they can dry out and may require reapplication; silicone-based lubricants last longer, are also condom-compatible, and are less likely to cause dryness with repeated use; oil-based lubricants are not compatible with latex condoms and can increase breakage risk, so I should avoid recommending oils if condoms are used or if there is concern for barrier integrity [^113NEyBU] [^112aXxLV] [^113sdd9D].
 
-> Hold on, I should verify formulation quality features that affect comfort and safety. The WHO-aligned guidance supports lubricants with osmolality less than 1,200 mOsm/kg and pH around 4.5–7.0 to minimize mucosal irritation; a randomized trial of five water-based lubricants showed that products meeting these criteria improved sexual function and were well tolerated, reinforcing the value of choosing formulations with appropriate osmolality and pH when possible [^e6dbcd3a] [^36c38269].
+> Hold on, I should verify formulation quality features that affect comfort and safety. The WHO-aligned guidance supports lubricants with osmolality less than 1,200 mOsm/kg and pH around 4.5–7.0 to minimize mucosal irritation; a randomized trial of five water-based lubricants showed that products meeting these criteria improved sexual function and were well tolerated, reinforcing the value of choosing formulations with appropriate osmolality and pH when possible [^116uFyu3] [^112QC13n].
 
-> Let me consider safety in breastfeeding and postpartum healing, and I need to ensure I don't overstep. Nonhormonal lubricants are generally considered safe during breastfeeding and postpartum, and there is no evidence that water- or silicone-based lubricants adversely affect infant feeding; however, I should still screen for open wounds, infection, or severe dyspareunia that might warrant delayed sexual activity or additional evaluation, and I should tailor recommendations to healing status and comfort [^d473669a].
+> Let me consider safety in breastfeeding and postpartum healing, and I need to ensure I don't overstep. Nonhormonal lubricants are generally considered safe during breastfeeding and postpartum, and there is no evidence that water- or silicone-based lubricants adversely affect infant feeding; however, I should still screen for open wounds, infection, or severe dyspareunia that might warrant delayed sexual activity or additional evaluation, and I should tailor recommendations to healing status and comfort [^116Ry8w3].
 
-> Next, I should review how to apply lubricant and integrate it with sexual activity. A practical approach is to apply a generous amount to the vulva and vaginal introitus, and to the partner's genitals or condom as needed; reapplication during longer encounters is common with water-based products, and experimenting with amount and timing can optimize comfort; I should also remind that lubricants do not treat the underlying cause, so if dryness persists beyond the early postpartum period or is severe, we should reassess for ongoing hypoestrogenism, pelvic floor dysfunction, or other contributors and consider adding a moisturizer or escalating therapy as appropriate [^5c9233d7] [^e6dbcd3a].
+> Next, I should review how to apply lubricant and integrate it with sexual activity. A practical approach is to apply a generous amount to the vulva and vaginal introitus, and to the partner's genitals or condom as needed; reapplication during longer encounters is common with water-based products, and experimenting with amount and timing can optimize comfort; I should also remind that lubricants do not treat the underlying cause, so if dryness persists beyond the early postpartum period or is severe, we should reassess for ongoing hypoestrogenism, pelvic floor dysfunction, or other contributors and consider adding a moisturizer or escalating therapy as appropriate [^113NEyBU] [^116uFyu3].
 
-> But wait, what if the user is trying to conceive or using fertility-focused intercourse timing. I initially thought lubricants might impair fertility, but I should double-check that; a prospective study found lubricant use during the fertile window did not reduce fecundability, suggesting that typical water- or silicone-based lubricants are acceptable when trying to conceive, though I should still prefer products with appropriate pH and osmolality and avoid spermicidal agents if fertility is the goal [^6734b486].
+> But wait, what if the user is trying to conceive or using fertility-focused intercourse timing. I initially thought lubricants might impair fertility, but I should double-check that; a prospective study found lubricant use during the fertile window did not reduce fecundability, suggesting that typical water- or silicone-based lubricants are acceptable when trying to conceive, though I should still prefer products with appropriate pH and osmolality and avoid spermicidal agents if fertility is the goal [^113e1Roj].
 
-> Let me synthesize a stepwise recommendation, and I will make sure each element is evidence-linked. First, confirm there are no contraindications to sexual activity or lubricant use and screen for ongoing healing or infection. Second, choose a water- or silicone-based lubricant with pH around 4.5–7.0 and osmolality less than 1,200 mOsm/kg when possible, avoiding oil-based products if condoms are used. Third, apply liberally before and during intercourse, and reapply as needed. Fourth, if dryness persists beyond the early postpartum months or is moderate to severe, add a vaginal moisturizer used several times weekly and reassess for additional causes or therapies. Fifth, if breastfeeding and symptoms persist despite optimized nonhormonal measures, consider a cautious, shared decision-making discussion about localized estrogen after lactation, recognizing that many guidelines prioritize nonhormonal options first in breastfeeding patients [^5c9233d7] [^e6dbcd3a] [^478243b9] [^d473669a].
+> Let me synthesize a stepwise recommendation, and I will make sure each element is evidence-linked. First, confirm there are no contraindications to sexual activity or lubricant use and screen for ongoing healing or infection. Second, choose a water- or silicone-based lubricant with pH around 4.5–7.0 and osmolality less than 1,200 mOsm/kg when possible, avoiding oil-based products if condoms are used. Third, apply liberally before and during intercourse, and reapply as needed. Fourth, if dryness persists beyond the early postpartum months or is moderate to severe, add a vaginal moisturizer used several times weekly and reassess for additional causes or therapies. Fifth, if breastfeeding and symptoms persist despite optimized nonhormonal measures, consider a cautious, shared decision-making discussion about localized estrogen after lactation, recognizing that many guidelines prioritize nonhormonal options first in breastfeeding patients [^113NEyBU] [^116uFyu3] [^112q1smS] [^116Ry8w3].
 
-> I should confirm concrete product examples while emphasizing that brand endorsement is not the goal. Examples of water-based lubricants that often meet WHO-aligned parameters include Good Clean Love BioNude, Slippery Stuff, and some formulations from major brands like KY or Durex; silicone-based options such as Pjur Original or Uberlube are long-lasting and condom-compatible; I need to ensure users check labels for osmolality and pH when available and avoid products with fragrances, dyes, or spermicides if they have sensitive mucosa or are trying to conceive [^e6dbcd3a] [^36c38269].
+> I should confirm concrete product examples while emphasizing that brand endorsement is not the goal. Examples of water-based lubricants that often meet WHO-aligned parameters include Good Clean Love BioNude, Slippery Stuff, and some formulations from major brands like KY or Durex; silicone-based options such as Pjur Original or Uberlube are long-lasting and condom-compatible; I need to ensure users check labels for osmolality and pH when available and avoid products with fragrances, dyes, or spermicides if they have sensitive mucosa or are trying to conceive [^116uFyu3] [^112QC13n].
 
-> Finally, I need to ensure counseling addresses expectations and follow-up. Lubricants provide short-term symptom relief and do not reverse underlying atrophic or hormonal changes, so persistent or severe symptoms warrant reassessment of contributing factors and consideration of moisturizers or, when appropriate, local therapies; I should also screen for postpartum mood changes, dyspareunia, and relationship factors that can compound sexual dysfunction, aligning with postpartum sexual health principles and ensuring a holistic plan [^d473669a] [^5c9233d7].
+> Finally, I need to ensure counseling addresses expectations and follow-up. Lubricants provide short-term symptom relief and do not reverse underlying atrophic or hormonal changes, so persistent or severe symptoms warrant reassessment of contributing factors and consideration of moisturizers or, when appropriate, local therapies; I should also screen for postpartum mood changes, dyspareunia, and relationship factors that can compound sexual dysfunction, aligning with postpartum sexual health principles and ensuring a holistic plan [^116Ry8w3] [^113NEyBU].
 
 ---
 
-For postpartum vaginal dryness, **water-based lubricants** are the first-line choice because they are safe, effective, and compatible with condoms and sex toys [^5c9233d7] [^e6dbcd3a]. Silicone-based lubricants are a good alternative for longer-lasting lubrication, but avoid oil-based products as they can damage condoms and irritate sensitive tissues [^5c9233d7] [^706540ec]. Use lubricant liberally during sex and reapply as needed; if dryness persists, add a vaginal moisturizer 2–3 times weekly [^0d6f4a62]. If symptoms continue beyond 3–6 months or are severe, discuss options with your clinician, including low-dose vaginal estrogen if nonhormonal measures are insufficient [^notfound].
+For postpartum vaginal dryness, **water-based lubricants** are the first-line choice because they are safe, effective, and compatible with condoms and sex toys [^113NEyBU] [^116uFyu3]. Silicone-based lubricants are a good alternative for longer-lasting lubrication, but avoid oil-based products as they can damage condoms and irritate sensitive tissues [^113NEyBU] [^113sdd9D]. Use lubricant liberally during sex and reapply as needed; if dryness persists, add a vaginal moisturizer 2–3 times weekly [^111LvDn9]. If symptoms continue beyond 3–6 months or are severe, discuss options with your clinician, including low-dose vaginal estrogen if nonhormonal measures are insufficient [^notfound].
 
 ---
 
@@ -47,12 +47,12 @@ Key characteristics of water-based and silicone-based lubricants:
 
 | **Aspect** | **Water-based lubricants** | **Silicone-based lubricants** |
 |-|-|-|
-| Pros | - Safe with condoms and sex toys <br/> - Easy to clean <br/> - Widely available <br/> - Gentle on sensitive tissues [^5c9233d7] [^e6dbcd3a] | - Longer-lasting <br/> - Water-resistant <br/> - Suitable for prolonged activity or water exposure [^5c9233d7] [^e6dbcd3a] |
-| Cons | - May dry quickly <br/> - May require reapplication [^5c9233d7] | - Not compatible with silicone sex toys <br/> - More difficult to wash off [^notfound] |
+| Pros | - Safe with condoms and sex toys <br/> - Easy to clean <br/> - Widely available <br/> - Gentle on sensitive tissues [^113NEyBU] [^116uFyu3] | - Longer-lasting <br/> - Water-resistant <br/> - Suitable for prolonged activity or water exposure [^113NEyBU] [^116uFyu3] |
+| Cons | - May dry quickly <br/> - May require reapplication [^113NEyBU] | - Not compatible with silicone sex toys <br/> - More difficult to wash off [^notfound] |
 
 ---
 
-Oil-based lubricants (e.g. petroleum jelly, coconut oil) are **not recommended** because they can degrade latex condoms, increase infection risk, and irritate sensitive tissues [^5c9233d7] [^706540ec].
+Oil-based lubricants (e.g. petroleum jelly, coconut oil) are **not recommended** because they can degrade latex condoms, increase infection risk, and irritate sensitive tissues [^113NEyBU] [^113sdd9D].
 
 ---
 
@@ -66,7 +66,7 @@ Oil-based lubricants (e.g. petroleum jelly, coconut oil) are **not recommended**
 
 ## Additional supportive measures
 
-- **Vaginal moisturizers**: Use 2–3 times weekly to improve baseline hydration and tissue health [^0d6f4a62] [^5c9233d7].
+- **Vaginal moisturizers**: Use 2–3 times weekly to improve baseline hydration and tissue health [^111LvDn9] [^113NEyBU].
 - **Hydration**: Maintain adequate fluid intake.
 - **Pelvic floor therapy**: Consider if dryness is accompanied by pain or discomfort.
 
@@ -78,7 +78,7 @@ Consult a clinician if:
 
 - Symptoms persist beyond 3–6 months postpartum.
 - Dryness is severe or accompanied by pain, itching, or discharge.
-- You consider hormonal treatments (e.g. low-dose vaginal estrogen) [^bfe07b7c].
+- You consider hormonal treatments (e.g. low-dose vaginal estrogen) [^115uU36T].
 
 ---
 
@@ -98,19 +98,19 @@ Water-based lubricants are the **preferred first-line option** for postpartum va
 
 ## References
 
-### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^5c9233d7]. Obstetrics and Gynecology (2019). High credibility.
+### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^113NEyBU]. Obstetrics and Gynecology (2019). High credibility.
 
 Lubricants and moisturizers — use, compatibility, and selection: Lubricants and moisturizers do not cure underlying causes of female sexual dysfunction, but they may help reduce or alleviate dyspareunia that is due to vaginal dryness. These products are classified by the Food and Drug Administration (FDA) as cosmetics and may contain skin irritants; commonly used moisturizers include hyaluronic-based and polycarbophil products recommended for regular use two to three times per week. Oils are not compatible with condoms, water-based lubricants may dry out more quickly causing friction and discomfort, silicone-based lubricants do not cause dryness and are compatible with condoms, and there is insufficient evidence to recommend one product type over another, so condom compatibility and patient sensitivities and preferences should be considered.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^98730b16]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^114u1m4R]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, ES 2015 guidelines recommend to consider offering vaginal lubricants in patients with insufficient vaginal secretions for comfortable sexual activity.
 
 ---
 
-### Pregnancy after cancer: FIGO best practice advice [^5a2c6daf]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
+### Pregnancy after cancer: FIGO best practice advice [^113Jgou8]. International Journal of Gynaecology and Obstetrics (2025). Medium credibility.
 
 6 PREVENTION OF FUTURE HEALTH ISSUES
 
@@ -126,43 +126,43 @@ Non‐hormonal options for managing vasomotor symptoms include antidepressants a
 
 ---
 
-### Guideline no. 422b: menopause and genitourinary health [^478243b9]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 422b: menopause and genitourinary health [^112q1smS]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, SOGC 2021 guidelines recommend to offer vaginal lubricants and/or vaginal moisturizers as first-line therapy for genitourinary syndrome of menopause, particularly if patient concerns are limited to vaginal dryness or dyspareunia.
 
 ---
 
-### Guideline no. 422b: menopause and genitourinary health [^59a67cac]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 422b: menopause and genitourinary health [^113HupWX]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, SOGC 2021 guidelines recommend to offer vaginal lubricants and/or vaginal moisturizers as first-line therapy for genitourinary syndrome of menopause, particularly if patient concerns are limited to vaginal dryness or dyspareunia.
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^ab127da5]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^115Nd6RJ]. The Journal of Urology (2025). High credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, AUA/AUGS/SUFU 2025 guidelines recommend to offer vaginal moisturizers and/or lubricants, either alone or in combination with other therapies, to improve vaginal dryness and/or dyspareunia in patients with genitourinary syndrome of menopause.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^150169e7]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^111Y9DTc]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, ES 2015 guidelines recommend to consider offering vaginal lubricants in patients with insufficient vaginal secretions for comfortable sexual activity.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^fe2efd7c]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^117Vqe2F]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Treatment of genitourinary syndrome of menopause — vaginal lubricants: 5.1b For women who do not produce sufficient vaginal secretions for comfortable sexual activity, we suggest vaginal lubricants. (2|⊕⊕○○) Vaginal lubricants are used to enhance the sexual experience in women with symptoms of VVA by alleviating vaginal dryness and preventing dyspareunia, but lubricants do not treat the underlying problem and only briefly alleviate symptoms. Several OTC options are available, and because data do not demonstrate the superiority of one to another, women can experiment with these products. Olive oil is also effective, whereas petroleum jelly has been associated with an increased rate of bacterial vaginosis.
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^e6dbcd3a]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^116uFyu3]. The Journal of Urology (2025). High credibility.
 
 Non-hormonal interventions for genitourinary syndrome of menopause (GSM) — vaginal moisturizers and lubricants — are recommended to manage vaginal dryness and dyspareunia, with product selection considering osmolality and pH. Clinicians should recommend the use of vaginal moisturizers and/or lubricants, either alone or in combination with other therapies, to improve vaginal dryness and/or dyspareunia in patients with GSM. (Moderate Recommendation; Evidence Level: Grade C). The World Health Organization recommends lubricants have an osmolarity of less than 1,200Osm/kg and a pH between 5.0–7.0, and lubricants have both been recommended to help alleviate several symptoms of GSM; regular use has been associated with increase in pleasure and ease of orgasm. Both lubricants and moisturizers can be used in combination with hormonal therapies, and moisturizers are gel products applied regularly while lubricants are used at the time of sexual activity and can be water, silicone, or oil based. The guideline's systematic review looked at six heterogeneous trials compared with placebo or lubricant gels, and all moisturizers, including hyaluronic acid-based moisturizers, were grouped together.
 
 ---
 
-### Impact of contraception on female sexual function [^3783e25b]. Journal of Women's Health (2017). Low credibility.
+### Impact of contraception on female sexual function [^112RJcp2]. Journal of Women's Health (2017). Low credibility.
 
 Background
 
@@ -182,13 +182,13 @@ A review of current contraception is appropriate for women presenting with sexua
 
 ---
 
-### Definition of water-based vaginal lubricant-NCI drug dictionary… [^248621ed]. NCI (2011). Low credibility.
+### Definition of water-based vaginal lubricant-NCI drug dictionary… [^111w9cFv]. NCI (2011). Low credibility.
 
 water-based vaginal lubricant A water-based vaginal lubricant with hydration activity. Upon application to the vagina, the water-based vaginal lubricant provides moisture and may relieve dryness and sexual discomfort. Check for active clinical trials using this agentView this agent in the NCI Thesaurus
 
 ---
 
-### A randomized trial on the effectiveness and safety of 5 water-based personal lubricants [^36c38269]. The Journal of Sexual Medicine (2023). Medium credibility.
+### A randomized trial on the effectiveness and safety of 5 water-based personal lubricants [^112QC13n]. The Journal of Sexual Medicine (2023). Medium credibility.
 
 Background
 
@@ -224,7 +224,7 @@ All 5 lubricants, including those formulated to be compliant with guidelines on 
 
 ---
 
-### A randomized trial on the safety and efficacy of sensate water-based and silicone-based personal lubricants for relief of intimate discomfort associated with vaginal dryness [^8cb7060a]. The Journal of Sexual Medicine (2025). Medium credibility.
+### A randomized trial on the safety and efficacy of sensate water-based and silicone-based personal lubricants for relief of intimate discomfort associated with vaginal dryness [^114bck3K]. The Journal of Sexual Medicine (2025). Medium credibility.
 
 Background
 
@@ -260,55 +260,55 @@ The use of sensate lubricants showed significant improvement in sexual function 
 
 ---
 
-### ACOG practice bulletin no. 141: management of menopausal symptoms [^2b940888]. Obstetrics and Gynecology (2014). Medium credibility.
+### ACOG practice bulletin no. 141: management of menopausal symptoms [^1127cC3H]. Obstetrics and Gynecology (2014). Medium credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, ACOG 2014 guidelines recommend to consider offering nonestrogen water-based or silicone-based vaginal lubricants and moisturizers for vaginal symptoms related to menopause.
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^60525b84]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^113ToUWP]. The Journal of Urology (2025). High credibility.
 
 Vaginal moisturizers — vaginal dryness outcomes — In controlled trials, both vaginal moisturizers and placebo lubricant gel improved vulvovaginal dryness; four trials (n = 418) evaluated vaginal moisturizer versus placebo on vaginal dryness at 12 weeks with mixed results, and nearly all studies showed improvement using different scales.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^0d6f4a62]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^111LvDn9]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, ES 2015 guidelines recommend to consider offering a trial of vaginal moisturizers at least twice weekly in postmenopausal patients with symptoms of vulvovaginal atrophy.
 
 ---
 
-### The osmolality of sex-the science of vaginal moisturizers and lubricants [^3dbdac86]. Journal of Minimally Invasive Gynecology (2025). Medium credibility.
+### The osmolality of sex-the science of vaginal moisturizers and lubricants [^112aXxLV]. Journal of Minimally Invasive Gynecology (2025). Medium credibility.
 
 More than half of women report using vaginal lubricants during their lifetime. Despite such ubiquitous use, most healthcare providers don't ask about their use and may not feel comfortable counseling a patient about how to choose the best product. The purpose of this review is to explain the difference between different vaginal products, address the factors that affect the efficacy of vaginal products, and provide evidence on the use of these products for masturbation and the use of sex toys, penile-vaginal intercourse, anal intercourse, and for couples seeking to become pregnant.
 
 ---
 
-### ACOG practice bulletin no. 141: management of menopausal symptoms [^a093d588]. Obstetrics and Gynecology (2014). Medium credibility.
+### ACOG practice bulletin no. 141: management of menopausal symptoms [^11574g8X]. Obstetrics and Gynecology (2014). Medium credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, ACOG 2014 guidelines recommend to consider offering nonestrogen water-based or silicone-based vaginal lubricants and moisturizers for vaginal symptoms related to menopause.
 
 ---
 
-### ACOG practice bulletin no. 141: management of menopausal symptoms [^8b2f09a7]. Obstetrics and Gynecology (2014). Medium credibility.
+### ACOG practice bulletin no. 141: management of menopausal symptoms [^114ZM5YJ]. Obstetrics and Gynecology (2014). Medium credibility.
 
 Nonhormonal vaginal lubricants and moisturizers for menopausal symptoms: Nonestrogen water-based or silicone-based vaginal lubricants and moisturizers may alleviate vaginal symptoms related to menopause.
 
 ---
 
-### Guideline no. 422d: menopause and sexuality [^c7373086]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
+### Guideline no. 422d: menopause and sexuality [^1166M5G1]. Journal of Obstetrics and Gynaecology Canada (2021). High credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, SOGC 2021 guidelines recommend to consider offering vaginal lubricants and moisturizers for the treatment of vaginal atrophy related to menopause.
 
 ---
 
-### Managing menopause [^5885815c]. Journal of Obstetrics and Gynaecology Canada (2014). Medium credibility.
+### Managing menopause [^113GEkh9]. Journal of Obstetrics and Gynaecology Canada (2014). Medium credibility.
 
 Regarding medical management for menopause, more specifically with respect to management of vulvovaginal atrophy, lubricants and moisturizers, SOGC 2014 guidelines recommend to offer vaginal dilators, lubricants, and moisturizers in patients with signs or symptoms of vulvovaginal atrophy unable to use estrogens.
 
 ---
 
-### A randomized, multicenter, double-blind study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with dyspareunia as the most bothersome symptom [^7a9fd90a]. Menopause (2018). Low credibility.
+### A randomized, multicenter, double-blind study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with dyspareunia as the most bothersome symptom [^1148oBU5]. Menopause (2018). Low credibility.
 
 The reduced estrogen levels that occur after menopause are associated with vulvovaginal atrophy (VVA), a chronic condition that leads to increased vaginal pH, thinning of the vaginal and lower genitourinary epithelial lining, and loss of vaginal elasticity. - Symptoms include dyspareunia, dysuria, and vaginal or vulvar dryness, itching, irritation, and burning, any of which can negatively impact sexual health and quality of life. In the large US REVIVE survey of postmenopausal women, the most commonly reported VVA symptoms were vaginal dryness (55%) and dyspareunia (44%). In addition to these vulvovaginal symptoms, lower urinary tract symptoms can also occur after menopause onset; this led to the 2014 proposal to replace VVA with the more inclusive term genitourinary syndrome of menopause (GSM). For the purposes of this article, the term VVA will be used to avoid inconsistencies in terminology as US prescribing inserts of treatments discussed herein commonly refer to vulvar and vaginal atrophy rather than GSM.
 
@@ -316,7 +316,7 @@ Although there is a high prevalence of VVA (over 50% of postmenopausal women rep
 
 ---
 
-### Vulvovaginal candidiasis-STI treatment guidelines… [^706540ec]. CDC (2021). Medium credibility.
+### Vulvovaginal candidiasis-STI treatment guidelines… [^113sdd9D]. CDC (2021). Medium credibility.
 
 Candida vaginitis is associated with normal vaginal pH. Use of 10% KOH in wet preparations improves the visualization of yeast and mycelia by disrupting cellular material that might obscure the yeast or pseudohyphae. Examination of a wet mount with KOH preparation should be performed for all women with symptoms or signs of VVC, and women with a positive result should be treated. Clotrimazole 1% cream 5 g intravaginally daily for 7–14 days OR Clotrimazole 2% cream 5 g intravaginally daily for 3 days OR Miconazole 2% cream 5 g intravaginally daily for 7 days. OR Miconazole 4% cream 5 g intravaginally daily for 3 days OR Miconazole 100 mg vaginal suppository one suppository daily for 7 days OR Miconazole 200 mg vaginal suppository one suppository for 3 days. OR Miconazole 1, 200 mg vaginal suppository one suppository for 1 day OR Tioconazole 6.
 
@@ -325,19 +325,19 @@ Candida vaginitis is associated with normal vaginal pH. Use of 10% KOH in wet pr
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^cce6045b]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^116Emjai]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, ES 2015 guidelines recommend to consider offering a trial of vaginal moisturizers at least twice weekly in postmenopausal patients with symptoms of vulvovaginal atrophy.
 
 ---
 
-### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^e40c950c]. Obstetrics and Gynecology (2019). High credibility.
+### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^116q6QNf]. Obstetrics and Gynecology (2019). High credibility.
 
 Regarding nonpharmacologic interventions for female sexual dysfunction, more specifically with respect to lubricants and moisturizers, ACOG 2019 guidelines recommend to consider offering lubricants, topical anesthesia, and moisturizers to help reduce or alleviate dyspareunia.
 
 ---
 
-### European Academy of Neurology (EAN) / European federation of autonomic societies (EFAS) / international neuro-urology society (INUS) guidelines for practising neurologists on the assessment and treatment of neurogenic urinary and sexual symptoms (NEUROGED guidelines) [^6a1497db]. European Journal of Neurology (2025). Medium credibility.
+### European Academy of Neurology (EAN) / European federation of autonomic societies (EFAS) / international neuro-urology society (INUS) guidelines for practising neurologists on the assessment and treatment of neurogenic urinary and sexual symptoms (NEUROGED guidelines) [^113iGc4S]. European Journal of Neurology (2025). Medium credibility.
 
 Recommendation: Diagnostic evaluations such as pelvic neurophysiology and MRI are not recommended for individuals with neurological diseases and sexual problems, except in specific clinical situations. (Consensus‐based recommendation; Consensus: 100%).
 
@@ -369,7 +369,7 @@ Evidence on the use of vibrators for individuals with neurological disease is li
 
 ---
 
-### Recommendations on pregnancy, childbirth and aftercare in epidermolysis bullosa: a consensus-based guideline [^1c16c0c1]. The British Journal of Dermatology (2022). Medium credibility.
+### Recommendations on pregnancy, childbirth and aftercare in epidermolysis bullosa: a consensus-based guideline [^111ieJ9v]. The British Journal of Dermatology (2022). Medium credibility.
 
 Recommendations
 
@@ -387,13 +387,13 @@ R2 ↑↑ Offer standard preconception care to women with EB, and provide access
 
 ---
 
-### Managing menopause [^1ca41345]. Journal of Obstetrics and Gynaecology Canada (2014). Medium credibility.
+### Managing menopause [^111jTmLQ]. Journal of Obstetrics and Gynaecology Canada (2014). Medium credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, SOGC 2014 guidelines recommend to offer vaginal dilators, lubricants, and moisturizers in patients with signs or symptoms of vulvovaginal atrophy unable to use estrogens.
 
 ---
 
-### Recommendations on pregnancy, childbirth and aftercare in epidermolysis bullosa: a consensus-based guideline [^5ea8d643]. The British Journal of Dermatology (2022). Medium credibility.
+### Recommendations on pregnancy, childbirth and aftercare in epidermolysis bullosa: a consensus-based guideline [^113RLYhY]. The British Journal of Dermatology (2022). Medium credibility.
 
 R23 ↑↑ Ensure lubrication of the speculum and/or gloves when carrying out speculum or VEs. Internal examinations should only be performed when absolutely necessary.
 
@@ -421,13 +421,13 @@ R27 ↓↓ Avoid unnecessary urinary catheterization, which may damage the ureth
 
 ---
 
-### Management of symptomatic vulvovaginal atrophy: 2013 position statement of the North American Menopause Society [^053c196d]. Menopause (2013). Medium credibility.
+### Management of symptomatic vulvovaginal atrophy: 2013 position statement of the North American Menopause Society [^1118m8Ep]. Menopause (2013). Medium credibility.
 
 Regarding medical management for vulvovaginal atrophy, more specifically with respect to vaginal lubricants and moisturizers, NAMS 2013 guidelines recommend to offer nonhormonal lubricants and long-acting vaginal moisturizers (if indicated) as first-line therapy in patients with symptomatic vulvovaginal atrophy.
 
 ---
 
-### Women's perceptions about lubricant use and vaginal wetness during sexual activities [^38452bf0]. The Journal of Sexual Medicine (2013). Low credibility.
+### Women's perceptions about lubricant use and vaginal wetness during sexual activities [^112SRYMV]. The Journal of Sexual Medicine (2013). Low credibility.
 
 Introduction
 
@@ -455,7 +455,7 @@ Findings suggest that women generally feel positively about lubricants and lubri
 
 ---
 
-### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^4fa44683]. Menopause (2019). Medium credibility.
+### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^11335CcA]. Menopause (2019). Medium credibility.
 
 METHODS
 
@@ -467,7 +467,7 @@ The protocol was reviewed and approved by a central institutional review board, 
 
 ---
 
-### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^75cd7239]. Menopause (2019). Medium credibility.
+### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^1141eZPN]. Menopause (2019). Medium credibility.
 
 Vulvovaginal atrophy (VVA) is a common, chronic, and bothersome condition that results from declining estrogen levels during and after the menopausal transition, and is part of the genitourinary syndrome of menopause. Physiologic changes of VVA include the thinning and drying of the vaginal epithelium, which can result in symptoms such as vaginal dryness, itching, burning, and dyspareunia, all of which can have a substantial impact on quality of life and sexual health. - Of the 40% to 60% of women in the United States and international surveys who reported VVA symptoms, approximately 50% to 60% rated their symptoms as moderate to severe. The most commonly reported symptom in surveys was vaginal dryness, reported by up to 85% of women with VVA. -, The recent cross-sectional, observational, multicenter Atrophy of the vaGina in womAn in posT-menopause in ItAly study (N > 900) also found that vaginal dryness was the most frequently reported VVA symptom. Despite the significant detrimental impact of VVA symptoms, few women seek medical attention. One reason women cite for not discussing VVA symptoms with a healthcare professional is a lack of awareness about available treatment options.
 
@@ -475,43 +475,43 @@ Current treatment options for VVA include nonhormone, over-the-counter lubricant
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^727efb09]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^113vkEue]. The Journal of Urology (2025). High credibility.
 
 Genitourinary syndrome of menopause (GSM) non-hormonal interventions — Clinicians should recommend the use of vaginal moisturizers and/or lubricants, either alone or in combination with other therapies, to improve vaginal dryness and/or dyspareunia in patients with GSM (Moderate Recommendation; Evidence Level: Grade C), clinicians should counsel patients that the evidence does not support the use of alternative supplements in the treatment of GSM (Expert Opinion), and clinicians should counsel patients to avoid vulvovaginal irritants and/or cleansers which may exacerbate the signs and symptoms of GSM (Expert Opinion).
 
 ---
 
-### ACOG practice bulletin no. 141: management of menopausal symptoms [^7046824a]. Obstetrics and Gynecology (2014). Medium credibility.
+### ACOG practice bulletin no. 141: management of menopausal symptoms [^113sTJBs]. Obstetrics and Gynecology (2014). Medium credibility.
 
 Nonhormonal therapies for vaginal dryness and dyspareunia emphasize topical products, stating that vaginal lubricants are intended to relieve friction and dyspareunia and are applied before intercourse, while vaginal moisturizers trap moisture and provide long-term relief; prospective studies have demonstrated that vaginal moisturizers improve vaginal dryness, pH balance, and elasticity and reduce vaginal itching, irritation, and dyspareunia, and many women have found nonhormonal vaginal lubricants and moisturizers to be effective, whereas there are insufficient data to support herbal remedies or soy products for vaginal symptoms.
 
 ---
 
-### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^9d2024d2]. Journal of Women's Health (2018). Low credibility.
+### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^1151wrTT]. Journal of Women's Health (2018). Low credibility.
 
 While the prevalence of postmenopausal women experiencing VVA is over 50%, only 56% of postmenopausal participants with vulvovaginal symptoms in the REVIVE survey reported a discussion of their problem with a healthcare provider, demonstrating that these symptoms are typically underdiagnosed and undertreated. The frequency of vasomotor symptoms such as hot flashes, flushes, and night sweats declines over time without treatment, but vulvovaginal symptoms are chronic and progressive. Nonhormonal treatments such as moisturizers and lubricants can relieve mild symptoms, but fail to reverse many atrophic signs and have a brief window of effectiveness (< 24 hours per use). The 2017 position statement from the North American Menopause Society (NAMS) recommends that estrogen for vulvovaginal symptoms be individualized, offering the most appropriate dose, regimen, duration of use, and route of administration, maximizing benefit and minimizing risk. This approach is consistent with the U.S. Food and Drug Administration (FDA) guidance on estrogen treatment for menopause symptoms that recommends using appropriately low vaginal doses. Topical, localized estrogen treatments using delivery modalities such as vaginal tablets, rings, or creams reduce systemic estrogen exposure. Estradiol vaginal cream 0.01% (Estrace [Allergan USA, Inc. Irvine, CA], 0.1 mg estradiol/g) is an FDA-approved topical treatment for postmenopausal VVA. The objective of this study was to evaluate the efficacy and safety of a very low-dose estradiol vaginal cream (0.003% estradiol; 15 μg estradiol in 0.5 g cream) compared with placebo vaginal cream (consisting of the same ingredients as above with the exception of estradiol) dosed two times per week in postmenopausal women with VVA signs and vaginal dryness.
 
 ---
 
-### Clinical consensus statement: vaginal energy-based devices [^e12df7f7]. Urogynecology (2022). High credibility.
+### Clinical consensus statement: vaginal energy-based devices [^116kqewx]. Urogynecology (2022). High credibility.
 
 Vaginal energy-based devices pre-therapy evaluation and potential indication — clinical trials have typically excluded women with vulvovaginal lesions, cancer, or recent active lesions, infections, or pelvic surgery; it was agreed that all patients should have a focused gynecologic examination (including visual inspection, speculum, bimanual, and rectal examination) within 1 year of initiating treatment, with cervical cytology and human papillomavirus co-testing performed per guidelines; this evaluation should be conducted before EBD therapy based on clinical expert opinion; one potential indication for EBD therapy is inability or unwillingness to use moisturizers, lubricants, or vaginal estrogen for menopausal dyspareunia or vulvovaginal atrophy (VVA); the consensus notes minimal systemic estrogen absorption but no prospective evidence for long-term safety and that the FDA has declined to remove the Black Box warning from vaginal estrogen.
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^4aa62b5d]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^112ufu6U]. The Journal of Urology (2025). High credibility.
 
 Genitourinary syndrome of menopause (GSM) — vaginal and systemic testosterone: There was insufficient evidence to support clinical recommendations of vaginal and systemic testosterone for GSM symptoms. Trials of testosterone therapy (n = 7) included fewer than 100 participants and systemic testosterone was associated with little or no improvements in dyspareunia or vulvovaginal dryness/lubrication. In two vaginal testosterone trials, Fernandes et al. showed FSFI orgasm improvements versus lubricant (3.3 vs 1.8 at 12 weeks (p < 0.001) compared to 1.1 vs 1.7 at baseline), while Davis et al. reported sexual function gains (FSFI satisfaction p = 0.043, FSDS-R p = 0.02, sexual concerns p = 0.001, sexual responsiveness p = 0.001) with no change in serum sex steroid levels. Dyspareunia results varied by follow-up length (12 or 26 weeks): a 12‑week benefit in one study was no longer significant after baseline adjustment, whereas another study showed a statistically significant improvement over 26 weeks using the PFSF 4‑point severity scale. For dryness/lubrication, vaginal testosterone improved vaginal dryness (p = 0.009) with no significant FSFI lubrication change (p = 0.12), while the testosterone arm improved from 1.6 to 3.9 (p = 0.03) versus lubricant 1.9 to 2.9 at week 12. Given these mixed findings, clinicians may choose to offer patients, in the context of SDM, vaginal testosterone, but the Panel cannot recommend this treatment due to the small number of trials.
 
 ---
 
-### Prevalence of and risk factors associated with sexual health issues in primiparous women at 6 and 12 months postpartum; a longitudinal prospective cohort study (the MAMMI study) [^f18e3257]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Prevalence of and risk factors associated with sexual health issues in primiparous women at 6 and 12 months postpartum; a longitudinal prospective cohort study (the MAMMI study) [^117B7n8W]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Little has been published on the influence of breastfeeding on postpartum sexual health, with many studies choosing to focus on breastfeeding as a means of contraception or the influence of breastfeeding on resumption of sexual activity and frequency of sexual activity. In our study, breastfeeding, in association with other related factors, remained significantly present for all three of the outcomes of dyspareunia, a lack of vaginal lubrication and a loss of interest in sexual activity 6 months postpartum. This finding highlights the potential for cognitive dissonance to occur. Cognitive dissonance occurs when people experience inconsistency between cognitions or between cognitions and behaviour. In a professional or practice context that emphasises women-centred care and disclosure, and a policy context that promotes breastfeeding, there is potential for internal conflict to arise. Practitioners may struggle with the professional imperative to inform women of the impact of breastfeeding on sexual activity, dyspareunia and vaginal lubrication at the same time as fearing a decrease in women's willingness to breastfeed if impact is known. However, information regarding breastfeeding needs to take account of these findings, if care is to be 'woman-centred' as opposed to 'breast-feeding centred'. Without this information women may blame themselves for their loss of sexual interest, or struggle alone without information on the array of vaginal lubricants available to alleviate vaginal dryness.
 
 ---
 
-### Sexual health after childbirth in Dutch women: prevalence, associated factors and perceived need for information: a cross-sectional study [^91664880]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Sexual health after childbirth in Dutch women: prevalence, associated factors and perceived need for information: a cross-sectional study [^114iZZVy]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Background
 
@@ -523,13 +523,13 @@ Studies suggest that several medical and postpartum psychosocial factors are rel
 
 ---
 
-### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^fc835f10]. Obstetrics and Gynecology (2019). High credibility.
+### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^117TN1LT]. Obstetrics and Gynecology (2019). High credibility.
 
 ACOG Practice Bulletin No. 213 — Menopausal-related sexual dysfunction uses the term genitourinary syndrome of menopause, introduced in 2014 by the International Society for the Study of Women's Sexual Health and the North American Menopause Society, to describe not only vulvovaginal atrophy but the entire constellation of genital, sexual, and urinary symptoms associated with declining levels of circulating estrogen and other steroid hormones during menopause. Characteristic symptoms include bothersome vaginal dryness, burning, and irritation; and decreased lubrication and pain with intercourse.
 
 ---
 
-### Vaginal dryness: a comparison of prevalence and interventions in 11 countries [^50190ca7]. The Journal of Sexual Medicine (2009). Low credibility.
+### Vaginal dryness: a comparison of prevalence and interventions in 11 countries [^1133kRYi]. The Journal of Sexual Medicine (2009). Low credibility.
 
 Introduction
 
@@ -557,7 +557,7 @@ Women from different countries differ substantially in their experiences, concer
 
 ---
 
-### The genitourinary syndrome of menopause [^5a8c27a4]. Menopause (2021). Medium credibility.
+### The genitourinary syndrome of menopause [^113KExoM]. Menopause (2021). Medium credibility.
 
 Abstract
 
@@ -565,7 +565,7 @@ Genitourinary syndrome of menopause (GSM) refers to a collection of symptoms res
 
 ---
 
-### To lube or not to lube: experiences and perceptions of lubricant use in women with and without dyspareunia [^de5fbe4a]. The Journal of Sexual Medicine (2012). Low credibility.
+### To lube or not to lube: experiences and perceptions of lubricant use in women with and without dyspareunia [^116ggQnu]. The Journal of Sexual Medicine (2012). Low credibility.
 
 Introduction
 
@@ -593,7 +593,7 @@ Women with dyspareunia have more difficulty with natural lubrication; it is cons
 
 ---
 
-### Menopause, skin and common dermatosis. part 3: genital disorders [^12c9e446]. Clinical and Experimental Dermatology (2022). Medium credibility.
+### Menopause, skin and common dermatosis. part 3: genital disorders [^111UrbEu]. Clinical and Experimental Dermatology (2022). Medium credibility.
 
 Topical nonhormonal therapy
 
@@ -607,13 +607,13 @@ Hyaluronic acid (HA) is an important component of the extracellular matrix, and 
 
 ---
 
-### Providing quality family planning services in the United States: recommendations of the U.S. Office of Population Affairs (revised 2024) [^875a6a21]. American Journal of Preventive Medicine (2024). High credibility.
+### Providing quality family planning services in the United States: recommendations of the U.S. Office of Population Affairs (revised 2024) [^114TfhTn]. American Journal of Preventive Medicine (2024). High credibility.
 
 Perimenopausal care — counseling, testing, and treatment: Providers should be able to offer basic guidance about what to expect during perimenopause, counsel on lifestyle changes to help mitigate symptoms, and therapeutic options, either directly or by referral, and should advise that pregnancy can still occur during perimenopause; patients wishing to avoid pregnancy should be offered contraceptive counseling. Perimenopause lasts four years on average and is often associated with irregular menses, vaginal dryness, vasomotor instability, sleep disturbances, mood changes, and other symptoms. Laboratory testing, including testing for follicle-stimulating hormone (FSH) levels, is not helpful in diagnosing menopause or determining fertility and should be avoided. Lifestyle changes include smoking cessation, sleep hygiene, maintaining a lower ambient temperature, and using non-estrogen water- or silicone-based vaginal lubricants. Systemic hormone therapy with estrogen, with or without progestin, has been shown to be the most effective treatment for hot flashes and night sweats, as well as protecting against bone loss; any patient with a uterus who uses systemic estrogen therapy should also use progestin to reduce the risk of endometrial hyperplasia and cancer. Progestin can be administered continuously or intermittently through a variety of delivery systems, including orally or via intrauterine device. Local estrogen is the most effective treatment for genitourinary symptoms of menopause, and clinicians should consider non-hormonal medical management of vasomotor symptoms with medications like paroxetine and fezolinetant for patients who prefer non-hormonal management or those ineligible for hormone therapy. Both NAMS and ACOG also offer fact sheets and other information for patients.
 
 ---
 
-### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^0a774d22]. Menopause (2019). Medium credibility.
+### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^111GWwzh]. Menopause (2019). Medium credibility.
 
 Endometrial safety is an important consideration for products that have estrogenic effects. Endometrial thickness and histology found in this study is consistent with that noted in other studies in which ospemifene was not associated with clinically significant changes in endometrial tissue or other estrogenic effects after 12 or 52 weeks of therapy. No endometrial hyperplasia or cancer was observed in this study. Two 52-week endometrial safety studies, confirmed that ospemifene was associated with minimal endometrial stimulation, with only one case of simple hyperplasia observed, representing a rate (0.3%) substantially lower than the FDA requirement of less than 1%.
 
@@ -621,13 +621,13 @@ This current study has several limitations. First, the duration of the trial was
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^d8b08864]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^116YFd1M]. The Journal of Urology (2025). High credibility.
 
 Genitourinary syndrome of menopause — moisturizers/lubricants for urinary symptoms: To the Panel's knowledge, there are no studies showing that vaginal lubricants or moisturizers improve urinary frequency, urgency, leakage, or prevent recurrent urinary tract infections; data do not support their use as preventative interventions for urinary symptoms of GSM and they should not be considered first line therapy; the Panel therefore recommends that moisturizers and lubricants should be used synergistically with hormonal therapies to treat or to prevent urinary symptoms related to GSM.
 
 ---
 
-### 2024 SOGC, 2024 NCCN, 2022 ESO-ESMO, and 2018 ASCO: a comparison of female cancer survivorship guidelines for the management of sexual health concerns [^9d509a34]. Supportive Care in Cancer (2025). Medium credibility.
+### 2024 SOGC, 2024 NCCN, 2022 ESO-ESMO, and 2018 ASCO: a comparison of female cancer survivorship guidelines for the management of sexual health concerns [^1152E8WF]. Supportive Care in Cancer (2025). Medium credibility.
 
 Purpose
 
@@ -647,13 +647,13 @@ There is consensus among guidelines on certain sexual health recommendations, wi
 
 ---
 
-### Diagnosis and management of vulvar skin disorders: ACOG practice bulletin, number 224 [^6eacf468]. Obstetrics and Gynecology (2020). High credibility.
+### Diagnosis and management of vulvar skin disorders: ACOG practice bulletin, number 224 [^113q5jRq]. Obstetrics and Gynecology (2020). High credibility.
 
 Patient counseling for prevention and control of vulvar disorders — behavioral care instructions: Box 3 lists the following directives verbatim for patients — "Avoid vulvar irritants and allergens. Use mild soaps, but avoid use on the vulva. Cleanse the vulva with water only. Gently pat the vulva dry after bathing. Apply preservative-free, unscented or fragrance-free emollient to hold moisture in the skin and improve barrier function. Use PeriCare bottle to rinse after urination. Use 100% cotton, unscented or fragrance-free menstrual pads. Use adequate lubrication for intercourse (unscented or fragrance-free silicone-based lubricants recommended)".
 
 ---
 
-### Vaginal estrogens for the treatment of dyspareunia [^c84c192d]. The Journal of Sexual Medicine (2011). Low credibility.
+### Vaginal estrogens for the treatment of dyspareunia [^1167x5sr]. The Journal of Sexual Medicine (2011). Low credibility.
 
 Introduction
 
@@ -677,7 +677,7 @@ Women should be informed of the potential benefits and risks of the treatment op
 
 ---
 
-### Simple strategies for vaginal health promotion in cancer survivors [^a58303c0]. The Journal of Sexual Medicine (2011). Low credibility.
+### Simple strategies for vaginal health promotion in cancer survivors [^115ENxsR]. The Journal of Sexual Medicine (2011). Low credibility.
 
 Introduction
 
@@ -705,7 +705,7 @@ Dedicating a small amount of time to educate female cancer survivors about metho
 
 ---
 
-### Factors associated with developing vaginal dryness symptoms in women transitioning through menopause: a longitudinal study [^faea3c2e]. Menopause (2018). Low credibility.
+### Factors associated with developing vaginal dryness symptoms in women transitioning through menopause: a longitudinal study [^117Qzaih]. Menopause (2018). Low credibility.
 
 Objective
 
@@ -725,7 +725,7 @@ In these longitudinal analyses, our data support many clinical observations abou
 
 ---
 
-### Genitourinary syndrome of menopause: a systematic review on prevalence and treatment [^67bbc746]. Menopause (2021). Medium credibility.
+### Genitourinary syndrome of menopause: a systematic review on prevalence and treatment [^113enoFB]. Menopause (2021). Medium credibility.
 
 Importance
 
@@ -749,7 +749,7 @@ GSM is a highly prevalent condition among women. Nevertheless, women are frequen
 
 ---
 
-### Patient acceptability and satisfaction with a low-dose solubilized vaginal estradiol softgel capsule, TX-004HR [^d88036d2]. Menopause (2017). Low credibility.
+### Patient acceptability and satisfaction with a low-dose solubilized vaginal estradiol softgel capsule, TX-004HR [^116XyPgd]. Menopause (2017). Low credibility.
 
 Postmenopausal vulvar and vaginal atrophy (VVA) often results from a decline in circulating estrogen levels experienced at the onset of menopause. VVA is characterized by a constellation of symptoms, including dyspareunia; vaginal dryness, irritation, soreness, stinging pain, and discharge; and dysuria. In 2014, the International Society for the Study of Women's Sexual Health and The North American Menopause Society adopted genitourinary syndrome of menopause as a medically more accurate and all-encompassing term for describing VVA and its urogenitary symptoms; however, this term has yet to be adopted by the United States Food and Drug Administration.
 
@@ -757,25 +757,25 @@ The North American Menopause Society recommends nonhormonal lubricants and vagin
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^224905e9]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^111sq7Bn]. The Journal of Urology (2025). High credibility.
 
 Genitourinary syndrome of menopause (GSM) — therapeutic options and mechanisms summarize that the range of GSM treatments has increased substantially in recent years, with traditional therapies such as vaginal estrogen, moisturizers, and lubricants joined by a broader set of therapeutic options, both hormonal and nonhormonal. Estrogen binds to receptors in the vagina, vulva, urethra, bladder, and pelvic floor, shifts the vaginal cytology toward superficial cells away from parabasal cells, and reduces the vaginal pH; vaginal moisturizers increase the fluid content in the endothelium and reduce the vaginal pH. Personal lubricants can be water-, silicone-, or oil-based and are primarily used to provide short-term lubrication during sexual activity, and lubricants are often used as a placebo or control treatment in clinical trials. Newer hormonal approaches include vaginal dehydroepiandrosterone (DHEA), vaginal oxytocin, selective estrogen receptor modulators (SERMs), and testosterone; DHEA is a precursor to both androgens and estrogens transformed into estradiol and testosterone within vaginal cells, vaginal oxytocin gel has been shown to reduce vaginal pH and increase the proportion of superficial cells in small studies, and among SERMs, ospemifene has unique estrogen receptor agonist activity in vaginal tissue.
 
 ---
 
-### Vaginal cancer, version 5.2025, NCCN clinical practice guidelines in oncology [^f4abc971]. NCCN (2025). High credibility.
+### Vaginal cancer, version 5.2025, NCCN clinical practice guidelines in oncology [^117FjgSU]. NCCN (2025). High credibility.
 
 NCCN Vaginal cancer — gynecologic survivorship care notes that treatment for gynecologic cancer typically involves surgery, chemotherapy, hormone therapy, RT, and/or immunotherapy, which may cause acute, short term, and long-term toxicities, and that use of immunotherapy agents in gynecologic cancers is emerging with long-term effects unknown. Following completion of treatment, all gynecologic cancer survivors should receive regular general medical care that focuses on managing chronic diseases, monitoring cardiovascular risk factors, receiving recommended vaccinations, and encouraging adoption of a healthy lifestyle. To assess the late and long-term effects, clinicians should comprehensively document the patient's history and conduct a thorough physical examination followed by necessary imaging and/or laboratory testing; all patients should be asked about genitourinary symptoms, including vulvovaginal dryness; post-radiation use of vaginal dilators and moisturizers is recommended; and patients should be referred to appropriate specialty providers as needed.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^5607aae7]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^113CYWcW]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Treatment of genitourinary syndrome of menopause — vaginal moisturizers: 5.1a For postmenopausal women with symptoms of VVA, we suggest a trial of vaginal moisturizers to be used at least twice weekly. (2|⊕⊕○○) Vaginal moisturizers, when used regularly (at least twice weekly), may provide an effective nonhormonal approach to alleviating symptoms of vaginal atrophy, but studies have been small, mostly open-labeled, and limited to 12 weeks. Although helpful, these approaches are not likely as effective as vaginal ET. Vaginal moisturizers have not been shown to reduce urinary tract symptoms or asymptomatic bacteriuria, and use of a vaginal moisturizer may not eliminate the need for a vaginal lubricant during intercourse.
 
 ---
 
-### Addressing the needs of breast cancer survivors [^1d3e3dc3]. Current Oncology Reports (2025). Medium credibility.
+### Addressing the needs of breast cancer survivors [^111kMYjL]. Current Oncology Reports (2025). Medium credibility.
 
 The NCCTG N10 C1 (Alliance) was a randomized trial showing improvement in symptoms of vaginal dryness and dyspareunia with vaginal dehydroepiandrosterone use without significantly raising serum estradiol levels. The 2018 American Society of Clinical Oncology Guideline Summary recommends that patients whose symptoms do not respond to non-hormonal treatment may attempt a transient trial of vaginal DHEA or estrogen after a thorough discussion regarding risk versus benefits. Additionally, a gynecologic evaluation to assess for pelvic floor spasm and vaginal stenosis should be strongly considered. Pelvic therapists often are a great resource in assisting with biofeedback, exercise, and manual therapy. The use of vaginal laser for GSM is an area with a paucity of evidence to support benefit. While some previous single-arm cohort studies and recent systemic review suggested some improvement in vaginal symptoms, a randomized double-blind clinical trial showed no significant improvement after laser therapy Currently, there is an ongoing Alliance REVITALIZE study evaluating laser therapy for vaginal dryness and sexual dysfunction in survivors.
 
@@ -783,7 +783,7 @@ In summary, a multimodal approach minimizing the use of irritants, regular moist
 
 ---
 
-### Efficacy, tolerability, and endometrial safety of ospemifene compared with current therapies for the treatment of vulvovaginal atrophy: a systematic literature review and network meta-analysis [^dedc99d2]. Menopause (2023). Medium credibility.
+### Efficacy, tolerability, and endometrial safety of ospemifene compared with current therapies for the treatment of vulvovaginal atrophy: a systematic literature review and network meta-analysis [^116hQMDK]. Menopause (2023). Medium credibility.
 
 Genitourinary syndrome of menopause (GSM) is caused by hypoestrogenism during menopause. A wholly contained subgroup within GSM, vulvovaginal atrophy (VVA) describes the changes in appearance and physiological functions of the genital tissues that may cause vulvovaginal symptoms of GSM, including vaginal dryness, burning, irritation, and sexual symptoms such as lack of lubrication, discomfort, pain, and impaired sexual function. Vulvovaginal symptoms occur in 39% to 51% of women, with 55% to 62% of symptoms categorized as moderate or severe, the most frequent being vaginal dryness and dyspareunia (ie, pain during intercourse).
 
@@ -793,25 +793,25 @@ Ospemifene is a selective estrogen receptor modulator or estrogen agonist/antago
 
 ---
 
-### Atrophic vaginitis [^48f41570]. Dermatologic Therapy (2010). Low credibility.
+### Atrophic vaginitis [^112sA6Rd]. Dermatologic Therapy (2010). Low credibility.
 
 With the loss of estrogen that occurs with menopause, physiologic and structural changes occur within the vulvovaginal mucosa that lead to a condition commonly called atrophic vaginitis. Although mild genital changes occur in most women, 10–47% of postmenopausal women will develop one or more debilitating symptoms that include vulvovaginal dryness, dyspareunia, vulvar itching or pain, recurrent urinary tract infections, as well as abnormal vaginal discharge. Topical estrogen replacement therapies reverse these mucosal changes and are effective treatments for the symptoms of atrophic vaginitis. Vaginal moisturizers and lubricants also provide symptomatic relief for vaginal dryness and dyspareunia, respectively.
 
 ---
 
-### NCCN guidelines® insights: cervical cancer, version 1.2024 [^6023e856]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### NCCN guidelines® insights: cervical cancer, version 1.2024 [^113TXsbB]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 Cervical cancer survivorship — education, sexual health, and vaginal dilator use after radiation therapy (RT) — Education of patients regarding symptoms suggestive of recurrence is recommended, and patients should also be counseled on healthy lifestyle, obesity, nutrition, exercise, sexual health, hormone replacement therapy, and potential long-term and late effects of treatment; smoking cessation and abstinence should be encouraged. Patients who have received RT for cervical cancer may experience vaginal stenosis and dryness and should receive education on important issues regarding sexual health and vaginal health, and providers should inform patients about regular vaginal intercourse and/or vaginal dilator use and on the use of vaginal moisturizers/lubricants. Anecdotal evidence suggests that vaginal dilators may be used to prevent or treat vaginal stenosis, and dilator use can start 2 to 4 weeks after RT is completed and can be performed indefinitely.
 
 ---
 
-### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^d473669a]. Obstetrics and Gynecology (2019). High credibility.
+### Female sexual dysfunction: ACOG practice bulletin clinical management guidelines for obstetrician-gynecologists, number 213 [^116Ry8w3]. Obstetrics and Gynecology (2019). High credibility.
 
 ACOG Practice Bulletin No. 213 — Pregnancy-related sexual dysfunction highlights that any type of sexual dysfunction before pregnancy is a key risk factor for postpartum difficulties, and obstetric trauma such as cesarean delivery, instrumented delivery, episiotomy, and perineal tears increases the risk of postpartum genito–pelvic pain and penetration disorder and related sexual interest and arousal difficulties. Breastfeeding can cause vaginal dryness and thus symptoms of genito–pelvic pain/penetration disorder, and obstetric factors appear to be more significant drivers of postpartum female sexual dysfunction than maternal factors like chronic disrupted sleep, role changes, relational issues, newborn health issues, psychosocial adjustment to parenthood, and body changes. Postpartum depression is associated with decreased sexual desire and sexual frequency and presents a potentially grave health risk that warrants early recognition and intervention, and intimate partner violence that can escalate during pregnancy is a serious risk and is also associated with postpartum sexual dysfunction. Evaluation and management of postpartum female sexual dysfunction are similar to nonpostpartum approaches, with modifications to avoid medical therapies that are contraindicated in a woman who is breastfeeding.
 
 ---
 
-### A novel technique combining human acellular dermal matrix (HADM) and enriched platelet therapy (EPT) for the treatment of vaginal laxity: a single-arm, observational study [^0ed78488]. Aesthetic Plastic Surgery (2022). Medium credibility.
+### A novel technique combining human acellular dermal matrix (HADM) and enriched platelet therapy (EPT) for the treatment of vaginal laxity: a single-arm, observational study [^111P1DZy]. Aesthetic Plastic Surgery (2022). Medium credibility.
 
 Discussion
 
@@ -821,13 +821,13 @@ Surgical methods, namely vaginoplasty and perineoplasty, have been used traditio
 
 ---
 
-### International recommendations for screening and preventative practices for long-term survivors of transplantation and cellular therapy: a 2023 update [^ac9e7120]. Transplantation and Cellular Therapy (2024). High credibility.
+### International recommendations for screening and preventative practices for long-term survivors of transplantation and cellular therapy: a 2023 update [^115Qv6Aj]. Transplantation and Cellular Therapy (2024). High credibility.
 
 Hypogonadism and urogenital GVHD — Timely assessments of hypogonadism and/or urogenital GVHD are advised; gynecology/urology (GYN/GU) referrals should address reversible risk factors relevant to sexual dysfunction, premature ovarian insufficiency (POI) is treated with hormone replacement therapy (HRT) if not otherwise contraindicated, women with vaginal dryness ± cGVHD should be referred to GYN/GU for lubricants, topical estrogens, or dilator therapies, and erectile dysfunction (ED) therapies and testosterone replacement in males may be considered.
 
 ---
 
-### From diagnosis to survivorship addressing the sexuality of women during cancer [^d31513e3]. The Oncologist (2024). Medium credibility.
+### From diagnosis to survivorship addressing the sexuality of women during cancer [^116PwU66]. The Oncologist (2024). Medium credibility.
 
 Genitourinary syndrome of menopause
 
@@ -835,25 +835,25 @@ The genitourinary syndrome of menopause (GSM) includes vaginal and vulvar drynes
 
 ---
 
-### NCCN guidelines® insights: cervical cancer, version 1.2024 [^3a96cfed]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### NCCN guidelines® insights: cervical cancer, version 1.2024 [^112VrwQQ]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 Gynecologic survivorship — post-treatment care emphasizes that treatment for gynecologic cancer typically involves surgery, chemotherapy, hormone therapy, radiation therapy (RT), and/or immunotherapy, which may cause acute, short term, and long-term toxicities. Following completion of treatment, all gynecologic cancer survivors should receive regular general medical care that focuses on managing chronic diseases, monitoring cardiovascular risk factors, receiving recommended vaccinations, and encouraging adoption of a healthy lifestyle. To assess the late and long term effects, clinicians should comprehensively document the patient's history and conduct a thorough physical examination followed by necessary imaging and/or laboratory testing, and because most treatments will cause sexual dysfunction, early menopause, and infertility, special attention to the resultant medical and psychosocial implications is needed. All patients, whether sexually active or not, should be asked about genitourinary symptoms, including vulvovaginal dryness, and post-radiation use of vaginal dilators and moisturizers is recommended. Patients should be referred to appropriate specialty providers as needed, communication and coordination with all clinicians is critical, providing survivors with a summary of their treatment and recommendations for follow up is also recommended, and the SGO has developed templates for survivorship care plans.
 
 ---
 
-### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^bfe07e7c]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
+### Treatment of symptoms of the menopause: an endocrine society clinical practice guideline [^115uU3Kh]. The Journal of Clinical Endocrinology and Metabolism (2015). Medium credibility.
 
 Genitourinary syndrome of menopause (GSM) management — For postmenopausal women with symptoms of vulvovaginal atrophy, we suggest a trial of vaginal moisturizers to be used at least twice weekly, and for women who do not produce sufficient vaginal secretions for comfortable sexual activity, we suggest vaginal lubricants. For women without a history of hormone-(estrogen) dependent cancers whose GSM symptoms, including vulvovaginal atrophy, persist despite using vaginal lubricants and moisturizers, we recommend low-dose vaginal estrogen therapy. In women with a history of breast or endometrial cancer whose symptomatic GSM does not respond to nonhormonal therapies, we suggest a shared decision-making approach that includes the treating oncologist to discuss using low-dose vaginal estrogen therapy. For women taking raloxifene, without a history of hormone- (estrogen) dependent cancers, who develop GSM symptoms that do not respond to nonhormonal therapies, we suggest adding low-dose vaginal estrogen therapy, and for women using low-dose vaginal estrogen therapy, we suggest against adding a progestogen (ie, no need for adding progestogen to prevent endometrial hyperplasia). For women using vaginal estrogen therapy who report postmenopausal bleeding or spotting, we recommend prompt evaluation for endometrial pathology.
 
 ---
 
-### NCCN guidelines® insights: cervical cancer, version 1.2024 [^17e42280]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### NCCN guidelines® insights: cervical cancer, version 1.2024 [^111cRLuV]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 NCCN Cervical cancer — sexual health after radiation therapy (RT): Patients who have received RT may experience vaginal stenosis and dryness and should receive education on sexual and vaginal health; providers should inform patients about regular vaginal intercourse and/or vaginal dilator use and on the use of vaginal moisturizers/lubricants. Anecdotal evidence suggests that vaginal dilators may be used to prevent or treat vaginal stenosis, and dilator use can start 2 to 4 weeks after RT is completed and can be performed indefinitely.
 
 ---
 
-### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^2bbc66ad]. Journal of Women's Health (2018). Low credibility.
+### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^1127qkU4]. Journal of Women's Health (2018). Low credibility.
 
 Materials and Methods
 
@@ -865,13 +865,13 @@ This was a phase 3, randomized, double-blind, placebo-controlled, multicenter st
 
 ---
 
-### ACOG practice bulletin no. 141: management of menopausal symptoms [^d1bb93c5]. Obstetrics and Gynecology (2014). Medium credibility.
+### ACOG practice bulletin no. 141: management of menopausal symptoms [^116MwRCQ]. Obstetrics and Gynecology (2014). Medium credibility.
 
 Level B conclusions on therapies and measures — The following conclusions are based on limited or inconsistent scientific evidence (Level B): Data do not support the use of progestin-only medications, testosterone, or compounded bioidentical hormones for the treatment of vasomotor symptoms; data do not show that phytoestrogens, herbal supplements, and lifestyle modifications are efficacious for the treatment of vasomotor symptoms; nonestrogen water-based or silicone-based vaginal lubricants and moisturizers may alleviate vaginal symptoms related to menopause; and common sense lifestyle solutions such as layering of clothing, maintaining a lower ambient temperature, and consuming cool drinks are reasonable measures for the management of vasomotor symptoms.
 
 ---
 
-### Segesterone acetate and ethinyl estradiol (annovera) [^7d81c066]. FDA (2025). Medium credibility.
+### Segesterone acetate and ethinyl estradiol (annovera) [^114D52zR]. FDA (2025). Medium credibility.
 
 Use with Vaginal Products
 
@@ -901,7 +901,7 @@ Resumption of fertility after discontinuation of ANNOVERA is expected. All women
 
 ---
 
-### Prevalence of and risk factors associated with sexual health issues in primiparous women at 6 and 12 months postpartum; a longitudinal prospective cohort study (the MAMMI study) [^8ba87d50]. BMC Pregnancy and Childbirth (2018). Low credibility.
+### Prevalence of and risk factors associated with sexual health issues in primiparous women at 6 and 12 months postpartum; a longitudinal prospective cohort study (the MAMMI study) [^114a3scT]. BMC Pregnancy and Childbirth (2018). Low credibility.
 
 Conclusion
 
@@ -909,7 +909,7 @@ The findings from this large prospective cohort study of nulliparous demonstrate
 
 ---
 
-### Effect of vaginal lubricants on natural fertility [^6734b486]. Obstetrics and Gynecology (2012). Low credibility.
+### Effect of vaginal lubricants on natural fertility [^113e1Roj]. Obstetrics and Gynecology (2012). Low credibility.
 
 Objective
 
@@ -929,13 +929,13 @@ Lubricants are commonly used by couples during procreative intercourse. Lubrican
 
 ---
 
-### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^4e7d68ea]. Obstetrics and Gynecology (2021). High credibility.
+### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^1131NAAM]. Obstetrics and Gynecology (2021). High credibility.
 
 Nonhormonal approaches — Nonhormonal methods should be considered first-line treatment for urogenital symptoms in individuals with a history of estrogen-dependent breast cancer. Gynecologists should be familiar with different nonhormonal treatment options because trials of multiple options may be needed to find effective treatment for any individual patient. Nonhormonal treatments that have been reported to be effective in treating vulvovaginal symptoms include silicone-, polycarbophil-, and water-based lubricants; hyaluronic acid; polyacrylic acid; and vitamin E and D vaginal suppositories. There are insufficient data to indicate that one approach is superior to others.
 
 ---
 
-### British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease [^094f71e2]. Rheumatology (2025). Medium credibility.
+### British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease [^111EoaFK]. Rheumatology (2025). Medium credibility.
 
 8. In people with SD who have sicca (dryness) symptoms outside the eyes and mouth, what is the most clinically effective topical treatment?
 
@@ -957,19 +957,19 @@ Consider advising topical non-hormonal vaginal moisturizers plus oestrogen cream
 
 ---
 
-### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^0a30b81a]. Menopause (2019). Medium credibility.
+### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^111G7Ewj]. Menopause (2019). Medium credibility.
 
 Results reported here are consistent with the findings from previous randomized, double-blind, placebo-controlled phase 3 studies of ospemifene in postmenopausal women with VVA. - Indeed, in previous studies ospemifene 60 mg daily statistically and clinically significantly improved vaginal physiology including increases in the percentage of superficial cells, decreases in the percentage of parabasal cells, and reductions in vaginal pH. - This study also confirms the onset of effect on these objective coprimary endpoints as 4 weeks of treatment, also as demonstrated in previous studies. - Subjective measures of the MBS of vaginal dryness and the MBS of dyspareunia were also shown here to significantly improve in the ITT and/or PP populations consistent with the previous studies. - A previous study of the MBS of vaginal dryness did not demonstrate significant improvement when ospemifene use was analyzed in women with an MBS of dryness in the ITT population. This may be due to differences in power to detect improvements in vaginal dryness with ospemifene versus placebo between that previous study, which enrolled women with an MBS of vaginal dryness or dyspareunia, and our study, in which all enrolled women had an MBS of vaginal dryness. Different statistical analyses (last observation carried forward) compared with the MMRM approach and GEE modeling of this study may also have contributed to the different ITT results between studies. In addition, a large placebo effect observed by Portman et alwith a similar magnitude of ospemifene effect as the significant improvements reported by Bachmann and Komi, may have also been confounding. Here we report significant improvements in vaginal dryness in women with a vaginal dryness MBS, even with allowing lubricant use, which was similar between the ospemifene and placebo groups.
 
 ---
 
-### British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease [^9cf2f6fc]. Rheumatology (2025). High credibility.
+### British Society for Rheumatology guideline on management of adult and juvenile onset Sjögren disease [^1151ggJF]. Rheumatology (2025). High credibility.
 
 Regarding medical management for Sjögren's disease, more specifically with respect to management of vaginal dryness, BSR 2025 guidelines recommend to consider offering topical non-hormonal vaginal moisturizers in combination with estrogen creams or pessaries in patients in perimenopause or postmenopause experiencing significant vaginal dryness.
 
 ---
 
-### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^07cf3303]. Menopause (2019). Medium credibility.
+### Efficacy and safety of ospemifene in postmenopausal women with moderate-to-severe vaginal dryness: a phase 3, randomized, double-blind, placebo-controlled, multicenter trial [^111CaWYJ]. Menopause (2019). Medium credibility.
 
 Study outcomes
 
@@ -979,13 +979,13 @@ Among the secondary endpoints were changes in percentages of parabasal and super
 
 ---
 
-### NCCN guidelines® insights: uterine neoplasms, version 3.2025 [^67bbef3c]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: uterine neoplasms, version 3.2025 [^113enrHZ]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gynecologic survivorship — treatment for gynecologic cancer typically involves surgery, chemotherapy, hormone therapy, RT, and/or immunotherapy, which may cause acute, short-term, and long-term toxicities. Following completion of treatment, all gynecologic cancer survivors should receive regular general medical care that focuses on managing chronic diseases, monitoring cardiovascular risk factors, receiving recommended vaccinations, and encouraging adoption of a healthy lifestyle. In order to assess the late and long-term effects, clinicians should comprehensively document the patient's history and conduct a thorough physical examination followed by necessary imaging and/or laboratory testing. As most treatments for gynecologic cancers will cause sexual dysfunction, early menopause, and infertility, special attention to the resultant medical and psychosocial implications is needed, and all patients, whether sexually active or not, should be asked about genitourinary symptoms, including vulvovaginal dryness; post-radiation use of vaginal dilators and moisturizers is recommended. Patients should be referred to appropriate specialty providers as needed, communication and coordination with all clinicians involved in the care of survivors is critical, providing survivors with a summary of their treatment and recommendations for follow-up is also recommended, and the SGO has developed templates for gynecologic cancer-specific Survivorship Care Plans to aid in summarizing history, treatments, possible side effects, and recommended follow-up.
 
 ---
 
-### WISDOM survey: attitudes and behaviors of physicians toward vulvar and vaginal atrophy (VVA) treatment in women including those with breast cancer history [^f6f6fd06]. Menopause (2019). Medium credibility.
+### WISDOM survey: attitudes and behaviors of physicians toward vulvar and vaginal atrophy (VVA) treatment in women including those with breast cancer history [^117K8v3f]. Menopause (2019). Medium credibility.
 
 In the United States, 41.7 million women were reaching or were currently of menopausal age in 2010. Menopausal symptoms are common, affecting up to 75% of menopausal women, and can negatively impact women's quality of life, personal and intimate relationships, and productivity. Of the women afflicted with menopausal symptoms, up to 45% experience symptoms of vulvar and vaginal atrophy (VVA), such as vaginal dryness, irritation, itching, dysuria, and pain or bleeding with sexual activity. VVA, a component of the genitourinary syndrome of menopause (GSM), can be progressive and may not resolve without treatment.
 
@@ -997,13 +997,13 @@ In the past decade, many international, large-scale surveys have been aimed towa
 
 ---
 
-### Management of genitourinary syndrome of menopause in female cancer patients: a focus on vaginal hormonal therapy [^69b7d93e]. American Journal of Obstetrics and Gynecology (2020). Medium credibility.
+### Management of genitourinary syndrome of menopause in female cancer patients: a focus on vaginal hormonal therapy [^113hjTFT]. American Journal of Obstetrics and Gynecology (2020). Medium credibility.
 
 Genitourinary syndrome of menopause is a condition describing the hypoestrogenic effects on the female genitals and lower urinary tract leading to symptoms such as vaginal dryness, vulvar and vaginal burning, dyspareunia and dysuria. Genitourinary syndrome of menopause is experienced by over half of postmenopausal women, and is even more pervasive in women with cancer. Due to treatments such as surgery, chemotherapy, radiation, and hormonal therapy, women may experience early menopause resulting in earlier and more severe symptoms. Understanding the scope of this issue in female breast and gynecologic cancer survivors and identifying treatment options for this complex patient population are paramount. Tailored patient treatments include nonhormonal therapies (vaginal moisturizers, lubricants, pelvic floor physical therapy, dilator therapy, counseling), systemic and local hormonal therapies. Consensus recommendations by medical societies and associated evidence are reviewed, with emphasis on safety and efficacy of local vaginal hormonal therapies, and management variations noted depending on cancer type and characteristics. With knowledge and understanding of the unmet need associated with under-recognition and under-treatment of genitourinary syndrome of menopause, providers caring for women with cancer are in a position to improve the quality of life of their patients by providing safe and effective treatments.
 
 ---
 
-### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^c5a5a0cb]. Journal of Women's Health (2018). Low credibility.
+### A randomized, multicenter, double-blind, study to evaluate the safety and efficacy of estradiol vaginal cream 0.003% in postmenopausal women with vaginal dryness as the most bothersome symptom [^11642CDG]. Journal of Women's Health (2018). Low credibility.
 
 Assessments
 
@@ -1017,19 +1017,19 @@ The coprimary outcomes of this study were change from baseline to final assessme
 
 ---
 
-### Clinical consensus statement: vaginal energy-based devices [^fe6f5705]. Urogynecology (2022). High credibility.
+### Clinical consensus statement: vaginal energy-based devices [^117WDFf2]. Urogynecology (2022). High credibility.
 
 Vulvovaginal EBD indications — the following conditions were identified as potential indications for which vulvovaginal EBD is currently used: vaginal dryness/ lack of lubrication, vaginal laxity, vaginal/VVA, dyspareunia, overactive bladder (urge incontinence, urinary urgency, and frequency), SUI, fecal incontinence, dysuria, lichen sclerosus, prolapse, urinary tract infection, labial hypertrophy, vulvodynia/vestibulitis/ vulvar pain, pelvic irradiation, and sexual dysfunction.
 
 ---
 
-### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^87ccef67]. The Journal of Urology (2025). High credibility.
+### The AUA / SUFU / AUGS guideline on genitourinary syndrome of menopause [^114ULAWA]. The Journal of Urology (2025). High credibility.
 
 Genitourinary Syndrome of Menopause: AUA/SUFU/AUGS Guideline — evidence certainty and interventions with or without observed benefit are as follows: the certainty of evidence for most intervention-comparison-outcome combinations was low or very low; COE was moderate or high for only a few comparisons, and the EPC concluded that vaginal estrogen, vaginal DHEA, vaginal moisturizers, and oral ospemifene, may all improve at least some GSM symptoms, primarily vulvovaginal dryness and, to a lesser extent, dyspareunia. No treatment significantly improved vaginal discomfort/irritation or dysuria, the placebo effect was high with lubricating gel or cream placebos, and evidence does not demonstrate the efficacy of energy-based therapies (carbon dioxide [CO2] or Er:YAG laser), vaginal or systemic testosterone, vaginal oxytocin, oral raloxifene, or bazedoxifene for any GSM symptoms.
 
 ---
 
-### The 2020 genitourinary syndrome of menopause position statement of the North American Menopause Society [^0b291bc8]. Menopause (2020). Medium credibility.
+### The 2020 genitourinary syndrome of menopause position statement of the North American Menopause Society [^111HYfxb]. Menopause (2020). Medium credibility.
 
 Objective
 
@@ -1049,19 +1049,19 @@ Clinicians can resolve many distressing genitourinary symptoms and improve sexua
 
 ---
 
-### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^1c9e1aa8]. Obstetrics and Gynecology (2021). High credibility.
+### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^111jRm1R]. Obstetrics and Gynecology (2021). High credibility.
 
 Nonhormonal treatment options for urogenital symptoms — formulations and dosing are presented as follows: Water-, silicone-, and polycarbophil-based lubricants are available with dosing to "See product labeling". Moisturizers include hyaluronic acid, polyacrylic acid, and a polycarbophil-based vaginal moisturizer with regimens of "5 mg daily for 2 weeks, then 3–5 times per week", "3 g daily", and "2.5 g 3 times/week", respectively. Vaginal suppositories include Vitamin E "30–200 international units" and Vitamin D "1,000 international units". For topical anesthesia, "4% aqueous lidocaine" is applied using a "Fully saturated cotton ball applied to the vulvar vestibule for 3 minutes".
 
 ---
 
-### Vaginal cancer, version 5.2025, NCCN clinical practice guidelines in oncology [^8ed17843]. NCCN (2025). High credibility.
+### Vaginal cancer, version 5.2025, NCCN clinical practice guidelines in oncology [^114ejbpN]. NCCN (2025). High credibility.
 
 Principles of gynecologic survivorship — clinical approach and supportive care specify that all gynecologic cancer survivors should receive regular general medical care that focuses on managing chronic disease, monitoring cardiovascular risk factors, providing recommended vaccinations, and encouraging adoption of a healthy lifestyle. To assess late and long-term effects, clinicians should comprehensively document the patient's history, conduct a thorough physical examination, and provide any necessary imaging and/or laboratory testing, and all patients, whether sexually active or not, should be asked about genitourinary symptoms, including vulvovaginal dryness. Referral to appropriate specialty providers is recommended. Post-radiation use of vaginal dilators and moisturizers is recommended, and local vaginal estrogen may be considered if symptomatic. For treatment-related menopause, hormone therapy should be considered. Communication and coordination with all clinicians involved in the care of survivors is critical, and providing cancer survivors with a summary of their treatment and recommendations for follow-up is recommended.
 
 ---
 
-### Management of symptomatic vulvovaginal atrophy: 2013 position statement of the North American Menopause Society [^49bee96c]. Menopause (2013). Low credibility.
+### Management of symptomatic vulvovaginal atrophy: 2013 position statement of the North American Menopause Society [^112tLDqM]. Menopause (2013). Low credibility.
 
 Objective
 
@@ -1081,25 +1081,25 @@ Clinicians can improve the sexual health and QOL of postmenopausal women by educ
 
 ---
 
-### Clinical consensus statement: vaginal energy-based devices [^660ab334]. Urogynecology (2022). High credibility.
+### Clinical consensus statement: vaginal energy-based devices [^113cHLCT]. Urogynecology (2022). High credibility.
 
 Vaginal energy-based devices (EBD) — treatment considerations: Four of the 7 drafted statements reached consensus, the optimal number of treatments for vulvovaginal EBD therapy for various indications has not yet been clearly elucidated, and although there may be a synergistic benefit of EBD therapies with vaginal estrogen for vaginal dryness and menopausal dyspareunia, this symbiotic effect has not been studied in all populations such as women with pelvic irradiation–induced vaginitis and more research is needed to draw further conclusions.
 
 ---
 
-### Clinical consensus statement: vaginal energy-based devices [^fc62d983]. Urogynecology (2022). High credibility.
+### Clinical consensus statement: vaginal energy-based devices [^117TB5mC]. Urogynecology (2022). High credibility.
 
 Vaginal energy-based devices — EBD therapy has shown short-term promise in the treatment of VVA, vaginal dryness, and menopausal dyspareunia.
 
 ---
 
-### Endocrine therapy for the management and risk reduction of hormone receptor positive breast cancer [^141ecfd9]. ASBrS (2024). High credibility.
+### Endocrine therapy for the management and risk reduction of hormone receptor positive breast cancer [^111Wq6uE]. ASBrS (2024). High credibility.
 
 Vaginal symptoms management during endocrine therapy — women should avoid potential irritants and regularly use vaginal moisturizers; options include coconut oil and hyaluronic acid products, and if these are inadequate, patients can consider vaginal estrogen or dehydroepiandrosterone (DHEA). While one longitudinal study showed increased breast cancer recurrence risk with vaginal estrogen for women on aromatase inhibitors (AIs), most data show no impact on cancer recurrence or circulating estrogen levels. The preparation and application of vaginal estrogen can impact systemic absorption, with higher systemic absorption seen with creams, application in the upper 2/3 of the vagina, and with poorer tissue quality; the lowest systemic absorption is seen with 10 mcg estradiol tablets and estradiol vaginal rings. Estrogen deprivation-related changes in pelvic anatomy can be addressed with vaginal dilators, biofeedback, and pelvic floor physical therapy. Lubricants are used on an as-needed basis for sexual intercourse and can be water-, silicone-, or oil-based, and patients using condoms for contraception or infection prevention should confirm compatibility between their lubricant and condom material.
 
 ---
 
-### Local oestrogen for vaginal atrophy in postmenopausal women [^d38672b5]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Local oestrogen for vaginal atrophy in postmenopausal women [^116QbYip]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -1131,7 +1131,7 @@ There was no evidence of a difference in efficacy between the various intravagin
 
 ---
 
-### Association of lubricant use with women's sexual pleasure, sexual satisfaction, and genital symptoms: a prospective daily diary study [^526ee785]. The Journal of Sexual Medicine (2011). Low credibility.
+### Association of lubricant use with women's sexual pleasure, sexual satisfaction, and genital symptoms: a prospective daily diary study [^1137DEha]. The Journal of Sexual Medicine (2011). Low credibility.
 
 Introduction
 
@@ -1159,19 +1159,19 @@ The water- and silicone-based lubricants used in this study were associated with
 
 ---
 
-### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^dae66415]. Obstetrics and Gynecology (2021). High credibility.
+### Treatment of urogenital symptoms in individuals with a history of estrogen-dependent breast cancer: clinical consensus [^116bXgp4]. Obstetrics and Gynecology (2021). High credibility.
 
 Nonhormonal topical treatments — Among breast cancer survivors with urogenital symptoms, a small tamoxifen trial (N = 52) found polyacrylic acid decreased sexual dysfunction from 96% to 24% versus 88.9% to 55.6% with standard lubricant; hyaluronic acid has demonstrated relief, particularly when dosed three to five times per week; a randomized trial (N = 64) reported vitamin D and E suppositories improved urogenital symptoms and lowered vaginal pH versus placebo; and in a double-blind trial of 46 survivors, applying 4% aqueous lidocaine to the introitus for 3 minutes before intercourse reduced dyspareunia 88% versus 38% with saline. Oil-based lubricants should not be used with condoms, whereas most water-based and silicone-based lubricants can be used effectively with barrier methods, and patients should review product package inserts; additional studies report a polycarbophil-based lubricant was superior to water-based for dyspareunia (N = 45) and a silicone-based lubricant provided greater symptomatic relief than water-based (N = 38).
 
 ---
 
-### Clinical consensus statement: vaginal energy-based devices [^a537ed71]. Urogynecology (2022). High credibility.
+### Clinical consensus statement: vaginal energy-based devices [^115Dwk48]. Urogynecology (2022). High credibility.
 
 Efficacy considerations timeframes — Thirteen statements achieved consensus, whereas 8 did not; results were categorized as long, medium, and short term; and long term was considered as more than 3 years, medium term as between 1 and 3 years, and short term as less than 1 year.
 
 ---
 
-### Swedish validation of the pelvic floor questionnaire for pregnant and postpartum women [^5c379961]. International Urogynecology Journal (2022). Medium credibility.
+### Swedish validation of the pelvic floor questionnaire for pregnant and postpartum women [^113MiY5v]. International Urogynecology Journal (2022). Medium credibility.
 
 Out of six women, four commented on the answer options for question 1 in the sexual domain. They felt that the option "sometimes" was missing for the question about vaginal lubrication. To avoid changes in the scoring system, "usually" was added to the wording of the question.
 

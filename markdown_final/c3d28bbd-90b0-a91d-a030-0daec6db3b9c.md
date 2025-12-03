@@ -17,39 +17,39 @@ According to current guidelines, what additional procedure(s) should be performe
 
 > Let's see… What do we have here? The user is asking what additional procedure(s) should be performed before starting perioperative chemotherapy and surgery for a 62-year-old with localized, resectable gastric adenocarcinoma, and how the results should influence surgical planning. Let's break this down step-by-step. First, I need to think about the clinical context and whether the current staging is sufficient to commit to perioperative therapy. Then, I should verify what major guidelines (NCCN, ESMO) mandate for staging laparoscopy and peritoneal cytology. Next, I will examine the evidence base supporting this practice and quantify its yield. After that, I need to consider how positive cytology or occult metastases should alter management. Finally, I will integrate this into a practical, guideline-concordant algorithm and confirm any nuances that could change the plan, such as MSI-H/dMMR considerations or alternative strategies if laparoscopy is not feasible.
 
-> Let me first confirm the clinical context and the gap in staging. The patient has a biopsy-proven gastric adenocarcinoma deemed localized and resectable on contrast-enhanced CT, but cross-sectional imaging has limited sensitivity for peritoneal disease and small-volume metastases, so radiographic staging can understage a meaningful fraction of patients who are otherwise candidates for curative-intent therapy [^37ab49dc] [^e27578dd].
+> Let me first confirm the clinical context and the gap in staging. The patient has a biopsy-proven gastric adenocarcinoma deemed localized and resectable on contrast-enhanced CT, but cross-sectional imaging has limited sensitivity for peritoneal disease and small-volume metastases, so radiographic staging can understage a meaningful fraction of patients who are otherwise candidates for curative-intent therapy [^112RXrUB] [^116njfEL].
 
-> I need to check guideline requirements next. NCCN recommends diagnostic laparoscopy with peritoneal washings for cytology in medically fit patients with potentially resectable stage cT1b or higher locoregional disease when considering perioperative therapy and/or surgery, and it explicitly notes that positive peritoneal cytology without visible implants should be considered M1 disease and that surgery as initial treatment is not recommended in that scenario [^37ab49dc] [^b2de9152]. ESMO similarly recommends diagnostic laparoscopy and peritoneal lavage for cytology in patients with resectable gastric cancer who are candidates for perioperative chemotherapy, underscoring that positive lavage cytology places patients in an uncertain category for curative-intent resection [^f13ba8d4].
+> I need to check guideline requirements next. NCCN recommends diagnostic laparoscopy with peritoneal washings for cytology in medically fit patients with potentially resectable stage cT1b or higher locoregional disease when considering perioperative therapy and/or surgery, and it explicitly notes that positive peritoneal cytology without visible implants should be considered M1 disease and that surgery as initial treatment is not recommended in that scenario [^112RXrUB] [^115aBZ8V]. ESMO similarly recommends diagnostic laparoscopy and peritoneal lavage for cytology in patients with resectable gastric cancer who are candidates for perioperative chemotherapy, underscoring that positive lavage cytology places patients in an uncertain category for curative-intent resection [^117Ae4BD].
 
-> Hold on, let's not jump to conclusions; I should verify the evidentiary basis and quantify benefit. Large series show that laparoscopic staging detects radiographically occult metastases in roughly 20–30% of patients, with Memorial Sloan Kettering data showing M1 disease in 31% and other series reporting similar yields, thereby preventing nontherapeutic laparotomies and informing systemic therapy decisions [^37ab49dc] [^b2de9152]. Systematic reviews and contemporary practice summaries also support staging laparoscopy as a standard element in the workup of locally advanced gastric cancer to improve staging accuracy and guide multimodality therapy [^3c1ecfa9].
+> Hold on, let's not jump to conclusions; I should verify the evidentiary basis and quantify benefit. Large series show that laparoscopic staging detects radiographically occult metastases in roughly 20–30% of patients, with Memorial Sloan Kettering data showing M1 disease in 31% and other series reporting similar yields, thereby preventing nontherapeutic laparotomies and informing systemic therapy decisions [^112RXrUB] [^115aBZ8V]. Systematic reviews and contemporary practice summaries also support staging laparoscopy as a standard element in the workup of locally advanced gastric cancer to improve staging accuracy and guide multimodality therapy [^112Y8cAC].
 
-> Next, I should review how results should influence surgical planning. If peritoneal cytology is positive, even without visible implants, this is M1 disease and curative-intent surgery should not proceed; instead, the patient should be managed with systemic therapy and palliative strategies as appropriate, and enrollment in clinical trials or consideration of peritoneal-directed approaches may be discussed in selected cases, acknowledging limited high-quality evidence for cytoreduction/HIPEC in this setting [^37ab49dc] [^21db9278]. If laparoscopy reveals gross peritoneal disease or unresectable local extension, the plan should pivot to nonoperative management rather than proceeding to gastrectomy [^9e42c5e3].
+> Next, I should review how results should influence surgical planning. If peritoneal cytology is positive, even without visible implants, this is M1 disease and curative-intent surgery should not proceed; instead, the patient should be managed with systemic therapy and palliative strategies as appropriate, and enrollment in clinical trials or consideration of peritoneal-directed approaches may be discussed in selected cases, acknowledging limited high-quality evidence for cytoreduction/HIPEC in this setting [^112RXrUB] [^111sCLum]. If laparoscopy reveals gross peritoneal disease or unresectable local extension, the plan should pivot to nonoperative management rather than proceeding to gastrectomy [^1153dUNN].
 
-> Wait, let me verify the timing and integration with perioperative chemotherapy. Ideally, staging laparoscopy with cytology is performed before any systemic therapy to avoid treating and then discovering occult peritoneal disease, which would change curative intent to palliative and expose patients to morbidity without oncologic benefit; this sequencing is consistently endorsed in NCCN and ESMO guidance and aligns with quality metrics in gastric cancer care [^37ab49dc] [^f13ba8d4]. I should also confirm that if laparoscopy is not feasible due to adhesions or patient factors, the team should document rationale and consider alternative strategies, but this is a deviation from standard and should be exceptional rather than routine [^e247a81a].
+> Wait, let me verify the timing and integration with perioperative chemotherapy. Ideally, staging laparoscopy with cytology is performed before any systemic therapy to avoid treating and then discovering occult peritoneal disease, which would change curative intent to palliative and expose patients to morbidity without oncologic benefit; this sequencing is consistently endorsed in NCCN and ESMO guidance and aligns with quality metrics in gastric cancer care [^112RXrUB] [^117Ae4BD]. I should also confirm that if laparoscopy is not feasible due to adhesions or patient factors, the team should document rationale and consider alternative strategies, but this is a deviation from standard and should be exceptional rather than routine [^116nUGg1].
 
-> I will now examine special scenarios that could modify the plan. For MSI-H/dMMR tumors, perioperative immunotherapy is an emerging consideration; however, even in that subgroup, baseline staging laparoscopy remains appropriate to exclude peritoneal disease before initiating systemic therapy, and response assessment after immunotherapy should include restaging imaging and, when indicated, endoscopic biopsy to confirm pathologic response before surgical decisions are finalized [^f0b68a5e] [^3ac72f14]. But wait, what if the tumor is very early stage, such as cT1a or cT1b without nodal disease? In that narrower context, the threshold for laparoscopy is lower, yet NCCN still allows consideration of laparoscopy in cT1b disease when planning perioperative therapy, so I should individualize based on risk features and institutional practice [^37ab49dc].
+> I will now examine special scenarios that could modify the plan. For MSI-H/dMMR tumors, perioperative immunotherapy is an emerging consideration; however, even in that subgroup, baseline staging laparoscopy remains appropriate to exclude peritoneal disease before initiating systemic therapy, and response assessment after immunotherapy should include restaging imaging and, when indicated, endoscopic biopsy to confirm pathologic response before surgical decisions are finalized [^1179sLow] [^112W9Bm5]. But wait, what if the tumor is very early stage, such as cT1a or cT1b without nodal disease? In that narrower context, the threshold for laparoscopy is lower, yet NCCN still allows consideration of laparoscopy in cT1b disease when planning perioperative therapy, so I should individualize based on risk features and institutional practice [^112RXrUB].
 
-> Let me synthesize the practical, guideline-concordant recommendation. Before starting perioperative chemotherapy, the patient should undergo diagnostic laparoscopy with peritoneal washings for cytology to detect radiographically occult peritoneal disease; positive cytology or visible peritoneal metastases should preclude immediate resection and redirect care to systemic therapy, whereas negative cytology with no unresectable findings supports proceeding with perioperative chemotherapy followed by curative-intent gastrectomy with appropriate nodal dissection, ideally in a high-volume center with D2 expertise [^37ab49dc] [^f13ba8d4] [^e45eaa96]. I should double-check that this approach is consistent with contemporary quality standards and that the MDT documents the staging rationale and plan, which it is [^e247a81a].
+> Let me synthesize the practical, guideline-concordant recommendation. Before starting perioperative chemotherapy, the patient should undergo diagnostic laparoscopy with peritoneal washings for cytology to detect radiographically occult peritoneal disease; positive cytology or visible peritoneal metastases should preclude immediate resection and redirect care to systemic therapy, whereas negative cytology with no unresectable findings supports proceeding with perioperative chemotherapy followed by curative-intent gastrectomy with appropriate nodal dissection, ideally in a high-volume center with D2 expertise [^112RXrUB] [^117Ae4BD] [^116qZyW5]. I should double-check that this approach is consistent with contemporary quality standards and that the MDT documents the staging rationale and plan, which it is [^116nUGg1].
 
-> Final answer: Perform diagnostic laparoscopy with peritoneal washings for cytology before initiating perioperative chemotherapy. Positive peritoneal cytology or occult peritoneal metastases upstage to M1 and should defer surgery in favor of systemic therapy, whereas negative findings support proceeding with perioperative chemotherapy and curative-intent resection, ensuring accurate baseline staging and avoiding nontherapeutic laparotomy [^37ab49dc] [^f13ba8d4] [^3c1ecfa9].
+> Final answer: Perform diagnostic laparoscopy with peritoneal washings for cytology before initiating perioperative chemotherapy. Positive peritoneal cytology or occult peritoneal metastases upstage to M1 and should defer surgery in favor of systemic therapy, whereas negative findings support proceeding with perioperative chemotherapy and curative-intent resection, ensuring accurate baseline staging and avoiding nontherapeutic laparotomy [^112RXrUB] [^117Ae4BD] [^112Y8cAC].
 
 ---
 
-Before starting perioperative chemotherapy, the patient should undergo **diagnostic laparoscopy with peritoneal washings** [^f13ba8d4] to detect radiographically occult peritoneal disease or positive cytology, which would upstage to M1 and preclude curative surgery [^37ab49dc]. This step is recommended by NCCN and ESMO for medically fit patients with cT1b or higher disease being considered for perioperative therapy [^37ab49dc] [^f13ba8d4]. If laparoscopy is positive, management should shift to systemic therapy rather than surgery; if negative, proceed with perioperative chemotherapy and curative-intent resection [^9e42c5e3].
+Before starting perioperative chemotherapy, the patient should undergo **diagnostic laparoscopy with peritoneal washings** [^117Ae4BD] to detect radiographically occult peritoneal disease or positive cytology, which would upstage to M1 and preclude curative surgery [^112RXrUB]. This step is recommended by NCCN and ESMO for medically fit patients with cT1b or higher disease being considered for perioperative therapy [^112RXrUB] [^117Ae4BD]. If laparoscopy is positive, management should shift to systemic therapy rather than surgery; if negative, proceed with perioperative chemotherapy and curative-intent resection [^1153dUNN].
 
 ---
 
 ## Rationale for additional staging procedures
 
-Although CT is standard for initial staging, it has **limited sensitivity for peritoneal disease and small-volume metastases** [^notfound]. Laparoscopy with peritoneal washings detects occult peritoneal spread in 20–30% of patients, preventing nontherapeutic laparotomy and guiding appropriate systemic therapy [^37ab49dc].
+Although CT is standard for initial staging, it has **limited sensitivity for peritoneal disease and small-volume metastases** [^notfound]. Laparoscopy with peritoneal washings detects occult peritoneal spread in 20–30% of patients, preventing nontherapeutic laparotomy and guiding appropriate systemic therapy [^112RXrUB].
 
 ---
 
 ## Recommended additional procedure: diagnostic laparoscopy with peritoneal washings
 
-- **Indication**: Medically fit patients with cT1b or higher locoregional disease being considered for perioperative therapy and/or surgery [^37ab49dc].
-- **Procedure**: Laparoscopic inspection of the peritoneal cavity with biopsies as needed, plus peritoneal washings for cytology [^37ab49dc].
-- **Clinical significance**: Positive cytology (even without visible implants) is M1 disease and surgery as initial treatment is not recommended [^37ab49dc].
+- **Indication**: Medically fit patients with cT1b or higher locoregional disease being considered for perioperative therapy and/or surgery [^112RXrUB].
+- **Procedure**: Laparoscopic inspection of the peritoneal cavity with biopsies as needed, plus peritoneal washings for cytology [^112RXrUB].
+- **Clinical significance**: Positive cytology (even without visible implants) is M1 disease and surgery as initial treatment is not recommended [^112RXrUB].
 
 ---
 
@@ -59,106 +59,106 @@ Laparoscopy with cytology **directly affects surgical decision-making**:
 
 | **Laparoscopy/cytology result** | **Impact on surgical planning** |
 |-|-|
-| Positive for peritoneal disease or malignant cytology | - Upstaged to M1 <br/> - Curative surgery deferred <br/> - Systemic therapy indicated [^37ab49dc] |
-| Negative for peritoneal disease and cytology | - Proceed with perioperative chemotherapy <br/> - Followed by curative-intent resection [^9e42c5e3] |
+| Positive for peritoneal disease or malignant cytology | - Upstaged to M1 <br/> - Curative surgery deferred <br/> - Systemic therapy indicated [^112RXrUB] |
+| Negative for peritoneal disease and cytology | - Proceed with perioperative chemotherapy <br/> - Followed by curative-intent resection [^1153dUNN] |
 
 ---
 
 ## Additional considerations
 
-- **Multidisciplinary review**: Essential to integrate laparoscopy results into the overall plan and ensure guideline-concordant care [^79b51a4f].
+- **Multidisciplinary review**: Essential to integrate laparoscopy results into the overall plan and ensure guideline-concordant care [^1147SLGN].
 - **Alternative strategies**: If laparoscopy is contraindicated, consider PET/CT or MRI, but these are less sensitive for peritoneal disease than laparoscopy [^notfound].
-- **Patient counseling**: Explain that laparoscopy may reveal inoperable disease, altering the treatment course toward systemic therapy [^c6687faf].
+- **Patient counseling**: Explain that laparoscopy may reveal inoperable disease, altering the treatment course toward systemic therapy [^11659ebg].
 
 ---
 
 ## Summary of recommendations
 
-- **Perform diagnostic laparoscopy with peritoneal washings** before perioperative chemotherapy in this patient [^f13ba8d4].
-- **If positive**, defer surgery and initiate systemic therapy; if negative, proceed with perioperative chemotherapy and curative-intent resection [^9e42c5e3].
-- **Use multidisciplinary review** to align care with current standards and patient preferences [^79b51a4f].
+- **Perform diagnostic laparoscopy with peritoneal washings** before perioperative chemotherapy in this patient [^117Ae4BD].
+- **If positive**, defer surgery and initiate systemic therapy; if negative, proceed with perioperative chemotherapy and curative-intent resection [^1153dUNN].
+- **Use multidisciplinary review** to align care with current standards and patient preferences [^1147SLGN].
 
 ---
 
-Diagnostic laparoscopy with peritoneal washings is the **key additional step** before perioperative therapy in localized gastric cancer, as it detects occult peritoneal disease that would change management away from curative surgery [^f13ba8d4].
+Diagnostic laparoscopy with peritoneal washings is the **key additional step** before perioperative therapy in localized gastric cancer, as it detects occult peritoneal disease that would change management away from curative surgery [^117Ae4BD].
 
 ---
 
 ## References
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^3ac72f14]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112W9Bm5]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Response assessment and additional management — additional management options are based on the assessment of response to primary treatment. Chest/abdomen/pelvis CT scan with contrast (oral and IV) should be performed in patients who are medically fit after the completion of perioperative chemotherapy and before surgical intervention, and FDG-PET/CT scan can be performed as clinically indicated. Patients found to have resectable disease on imaging should proceed with surgery (preferred) or palliative management, while those found to have unresectable or metastatic disease after primary treatment should receive palliative management. For those patients with MSI-H/dMMR tumors who received preoperative or perioperative ICI, response assessment should include an FDG-PET/CT (5–8 weeks after therapy) as clinically indicated and EGD and biopsy, and a chest/abdomen CT with oral and IV contrast (including pelvis CT, if clinically indicated) is recommended but not required if FDG-PET/CT is performed. Patients with no evidence of disease should be discussed by a multidisciplinary team and may undergo observation or surgery, patients with persistent local disease have the option of surgery (preferred) or palliative management, and palliative management is recommended for patients with new metastatic disease.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^dfcf5307]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116iosr6]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Principles of systemic therapy — perioperative and postoperative guidance: Perioperative systemic therapy is a category 1 recommendation for localized gastric cancer. Postoperative chemotherapy plus chemoradiation is an alternative option for patients who received less than a D2 lymph node dissection, and postoperative chemotherapy is recommended following primary D2 lymph node dissection.
 
 ---
 
-### Multimodality therapy of localized gastric adenocarcinoma [^e86d6b84]. Journal of the National Comprehensive Cancer Network (2016). Low credibility.
+### Multimodality therapy of localized gastric adenocarcinoma [^116wat43]. Journal of the National Comprehensive Cancer Network (2016). Low credibility.
 
 Surgical resection is the primary method of obtaining a potential cure for patients with gastric adenocarcinoma. However, chemotherapy or chemoradiotherapy offer significant improvement in survival over surgery alone. Much of the difficulty in deciding the optimal treatment strategy is choosing between perioperative chemotherapy or adjuvant chemoradiotherapy. Adding to the complexity is the potential for incorporating treatment strategies based on clinical trials performed in Asia. There is likely a difference in tumor biology between Eastern and Western patients with gastric adenocarcinoma, in addition to the clear differences in screening, pathologic assessment, and surgical technique. Even among tumors in Western populations, heterogeneity of histology, anatomy, and staging among studies make cross-trial comparisons difficult. There is also active controversy surrounding the staging and management of gastroesophageal junction tumors. Lastly, the benefit of extended lymph node dissection is not clear based on the existing studies and has not been firmly established as a surgical standard of care for all patients. Future goals include better classification of gastric cancer, continued pursuit of randomized trials in Western populations, standardization of surgical technique, and incorporation of targeted therapies.
 
 ---
 
-### Novel perspectives for the treatment of gastric cancer: from a global approach to a personalized strategy [^a5f526ee]. Current Oncology Reports (2010). Low credibility.
+### Novel perspectives for the treatment of gastric cancer: from a global approach to a personalized strategy [^115F3JSq]. Current Oncology Reports (2010). Low credibility.
 
 Although recent advances have been made, surgery still remains the mainstay of any curative treatment for gastric cancer patients, with radical gastrectomy representing the procedure of choice. However, patients with locally advanced disease show high rates of locoregional or distant recurrence even after potentially curative resections. According to global results presented in the setting of locally advanced resectable gastric carcinoma, perioperative chemotherapy may be considered a valuable option. On the other hand, clinical trials for advanced gastric cancer seem to suggest that a limit in efficacy has been reached for standard chemotherapy. Interesting data are expected from the development of targeted agents that, similarly to other cancer sites, showed appealing results in gastric cancer as well. Along with new effective therapeutic opportunities, better clinical and molecularly driven patient selection will represent the cornerstone of the global care for these patients.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^9e42c5e3]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1153dUNN]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Primary treatment — patients who are medically fit include ER or surgery as the primary options for localized (cTis or cT1a) tumors, surgery as the treatment option for potentially resectable cT1b tumors, and for cT2 or higher, any N tumors, surgery or perioperative chemotherapy (category 1) are recommended options; for medically fit patients whose locoregional cancer is found to be surgically unresectable after laparoscopic staging, chemoradiation or systemic therapy are the recommended treatment options.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^0342a22c]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1115qLyH]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Additional evaluation — locoregional gastric cancer is classified into the following groups and laparoscopy use is specified: patients may be classified as medically fit with potentially resectable disease, medically fit with surgically unresectable disease, or nonsurgical candidates (medically unable to tolerate major surgery or medically fit but decline surgery); laparoscopy with cytology can be considered for patients who are medically fit with surgically unresectable disease, and it is not indicated if a palliative resection is planned.
 
 ---
 
-### Adjuvant and neoadjuvant options in resectable gastric cancer: is there an optimal treatment approach? [^bfacdc6d]. Current Oncology Reports (2015). Low credibility.
+### Adjuvant and neoadjuvant options in resectable gastric cancer: is there an optimal treatment approach? [^115uAhRv]. Current Oncology Reports (2015). Low credibility.
 
 Gastric cancer is one of the most prevalent and deadliest forms of cancer worldwide. Even though neoadjuvant, perioperative, and adjuvant chemotherapy and/or radiation therapy may improve outcomes compared with surgery alone, the optimal combination of treatment modalities remains controversial. While European and North American trials established perioperative chemotherapy and adjuvant chemoradiation regimens for gastric cancer, Asian countries have focused on the use of adjuvant chemotherapy. This review summarizes results from contemporary randomized controlled trials and meta-analyses to elucidate the relative merits of each treatment approach.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^6afdcbaa]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^113jcwD3]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer — patient grouping and laparoscopy: Laparoscopy with cytology can be considered for patients who are medically fit with surgically unresectable disease, and it is not indicated if a palliative resection is planned. Additional evaluation enables patients with locoregional cancer to be further classified into the following groups: medically fit with potentially resectable disease, medically fit with surgically unresectable disease, and nonsurgical candidates (medically unable to tolerate major surgery or medically fit but decline surgery).
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^d9edf26c]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^116a6EjV]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to management of locoregional disease (perioperative chemotherapy), ESMO 2022 guidelines recommend to offer perioperative (pre- and postoperative) chemotherapy in patients with stage ≥ IB resectable gastric cancer.
 
 ---
 
-### Preoperative treatment and surgery in gastric cancer: friends or foes? [^6ec624b3]. The Lancet: Oncology (2009). Medium credibility.
+### Preoperative treatment and surgery in gastric cancer: friends or foes? [^113qEC9G]. The Lancet: Oncology (2009). Medium credibility.
 
 Until 2006, most reports of preoperative (neoadjuvant) treatments for gastric carcinoma were inconclusive and produced confusing results due to inhomogeneous treatment regimens, selection of patients, and response assessment. Since publication of the results from the MAGIC trial, substantial scientific evidence has suggested the benefits of perioperative (preoperative and postoperative) chemotherapy to locally advanced gastric cancer. To date, this phase III trial, coupled with preliminary data from other published reports on neoadjuvant chemotherapy and radiotherapy, supports the theoretical advantages of preoperative treatment for gastric carcinoma, thus introducing the concept of delayed surgery. Neoadjuvant treatment of resectable, locally advanced tumours might improve patients' outcomes and postpone the need for curative resection, but it also exposes patients to the risk of tumour progression.
 
 ---
 
-### Management of locally advanced gastroesophageal cancer: still a multidisciplinary global challenge? [^b1b29a1a]. Hematology/Oncology Clinics of North America (2017). Low credibility.
+### Management of locally advanced gastroesophageal cancer: still a multidisciplinary global challenge? [^115YSoKw]. Hematology/Oncology Clinics of North America (2017). Low credibility.
 
 The outcome of patients with locally advanced, resectable gastric cancer, or adenocarcinoma of the gastroesophageal junction is poor. In clinical trials, multimodality therapy, such as perioperative chemotherapy, preoperative or postoperative chemoradiation, or adjuvant chemotherapy led to significant increments in survival. Therefore, experts agree that patients with stage II or III disease should be offered a multidisciplinary treatment approach. However, patients are treated somewhat differently in the different regions of the world and survival rates remain far from being satisfactory. Efforts to further improve outcome are highly warranted.
 
 ---
 
-### The perioperative and operative management of esophageal and gastric cancer [^cf9bd9da]. Surgical Oncology Clinics of North America (2023). Medium credibility.
+### The perioperative and operative management of esophageal and gastric cancer [^116JnnZF]. Surgical Oncology Clinics of North America (2023). Medium credibility.
 
 Optimal management of esophageal and gastric cancer during the perioperative period requires a coordinated multidisciplinary treatment effort. Accurate staging guides treatment strategy. Advances in minimally invasive surgery and endoscopy have reduced risks associated with resection while maintaining oncological standards. Although the standard perioperative chemo-and radiotherapy regimens have not yet been established, randomized control trials exploring this subject show promising results.
 
 ---
 
-### American radium society (ARS) appropriate use criteria (AUC) for locoregional gastric adenocarcinoma: systematic review and guidelines [^cb85d28b]. American Journal of Clinical Oncology (2022). Medium credibility.
+### American radium society (ARS) appropriate use criteria (AUC) for locoregional gastric adenocarcinoma: systematic review and guidelines [^116CjSH8]. American Journal of Clinical Oncology (2022). Medium credibility.
 
 Objective
 
@@ -178,55 +178,55 @@ The addition of chemotherapy and/or radiation, either in the neoadjuvant, adjuva
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^3a30b820]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^112VGeUP]. Practical Radiation Oncology (2025). High credibility.
 
 Radiation therapy (RT) for gastric cancer — RT is used in several clinical scenarios across the disease spectrum, and although phase 3 studies have not shown a benefit to preoperative or postoperative chemoradiation with perioperative chemotherapy and surgery, RT may be a therapeutic option depending on the stage, patient performance status, and adequacy and timing of surgery. For patients with locally unresectable and nonmetastatic gastric cancer, RT may have the potential to contribute to meaningful disease control, and RT has been long recognized as an effective tool in palliation of bleeding, pain and obstruction. Like surgery, RT may also play an important role in the treatment of oligometastases, and with innovations in RT (eg, stereotactic body RT, respiratory management, image guidance, adaptive planning, increases in safely deliverable dose) the indications for its use have extended, with robust study alongside novel systemic therapies, including immunotherapy, as well as surgery potentially identifying new therapeutic strategies. Related systemic therapy evidence includes that the MATTERHORN trial has shown that for patients with resectable disease, regardless of PD-L1 or microsatellite stability status, immunotherapy added to perioperative chemotherapy has improved pCR and event-free survival rates, and a trend towards improved OS in MATTERHORN suggests the possibility of statistical significance with longer follow-up.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^4f193ada]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1132GVnH]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Perioperative chemotherapy and chemoradiation — resectable gastric adenocarcinoma — are informed by randomized trials indicating benefit with perioperative fluorouracil and cisplatin and no added benefit to postoperative chemoradiation after preoperative chemotherapy. In FNCLCC ACCORD 07, at a median follow-up of 5.7 years, the 5-year OS rate was 38% for perioperative chemotherapy versus 24% for surgery alone (P = 0.02), with corresponding 5-year DFS rates of 34% and 19%, and the Panel feels perioperative fluorouracil and cisplatin is a viable treatment option for locally advanced resectable gastric cancer (category 1). In the phase III CRITICS trial, at a median follow-up of 61.4 months, median OS was 43 months (95% CI, 31–57) with postoperative chemotherapy versus 37 months (95% CI, 30–48) with postoperative chemoradiation (HR, 1.01; 95% CI, 0.84–1.22; P = 0.90), and after 6.7 years the 5-year OS was 58% versus 46% (HR, 1.62; P = 0.0004), supporting the conclusion that adding RT to postoperative chemotherapy confers no survival benefit following adequate preoperative chemotherapy and surgery. An ongoing phase II trial (CRITICS II) is comparing three preoperative strategies — chemotherapy, concurrent chemoradiation, and sequential chemotherapy and chemoradiation — for resectable gastric cancer (NCT02931890).
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^b9783384]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^115jy5qu]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 GAST-2A perioperative approach — perioperative immunotherapy or surgery alone should be considered in consultation with a multidisciplinary team, and the role of surgery after biopsy proven and radiologic/metabolic complete response on neoadjuvant immunotherapy is unclear; the separate footnote reiterating this and advising careful discussion after a favorable neoadjuvant response is removed.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^48f54238]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112sAVKD]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric Cancer — postoperative therapy for patients who have received systemic therapy states that patients who have received preoperative systemic therapy should receive postoperative systemic therapy (perioperative therapy) following R0 resection (category 1); in the absence of distant metastases, chemoradiation is recommended for patients following R1 or R2 resection, and although this approach has not been evaluated in prospective studies, the Panel feels this is a reasonable treatment option given the significantly worse prognosis associated with margin-positive resections; re-resection, if feasible, can also be considered following R1 resection; and palliative management should be offered to all patients with new metastatic disease and may also be offered to patients with R2 resection, as clinically indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^0a3f600b]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111GCAU2]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN gastric cancer postoperative management — patients who have received preoperative systemic therapy — patients who have received preoperative systemic therapy should receive postoperative systemic therapy (perioperative therapy) following R0 resection (category 1). In the absence of distant metastases, chemoradiation is recommended for patients following R1 or R2 resection; re-resection, if feasible, can also be considered following R1 resection. Palliative management should be offered to all patients with new metastatic disease and may also be offered to patients with R2 resection, as clinically indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^d47f43d0]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116S384f]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Perioperative chemotherapy — fluorouracil plus cisplatin (FNCLCC ACCORD 07): In this trial (n = 224 patients; 25% had gastric adenocarcinoma), perioperative chemotherapy with fluorouracil and cisplatin significantly increased the curative resection rate, DFS, and OS in resectable cancer. At a median follow-up of 5.7 years, the 5-year OS rate was 38% for perioperative chemotherapy versus 24% with surgery alone (P = 0.02), and the corresponding 5-year DFS rates were 34% and 19%, respectively. Although accrual was low, the Panel feels that perioperative fluorouracil and cisplatin is a viable treatment option for patients with locally advanced resectable gastric cancer (category 1).
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^ffc5f1df]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^117YCL8v]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric cancer — additional evaluation states that additional evaluations are warranted to assess a patient's medical condition, their ability to tolerate major surgery, and the feasibility of resection, and that these evaluations may include pulmonary function studies, cardiac testing, and nutritional assessment.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^51559bdb]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1135akcz]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer — additional evaluation notes that additional evaluations are warranted to assess a patient's medical condition, their ability to tolerate major surgery, and the feasibility of resection, and may include pulmonary function studies, cardiac testing, and nutritional assessment; laparoscopy with assessment of cytology with or without biopsies is recommended.
 
 ---
 
-### Multidisciplinary treatment of gastric cancer… [^51febdbb]. JAMA Network (2025). Excellent credibility.
+### Multidisciplinary treatment of gastric cancer… [^1136ZZar]. JAMA Network (2025). Excellent credibility.
 
 Interventions Gastrectomy, perioperative chemotherapy, adjuvant chemoradiation, surveillance endoscopy, and best supportive care. Main Outcomes and Measures Panelists scored 416 scenarios regarding treatment scenarios for appropriateness from 1 to 9. Median appropriateness scores from 1 to 3 were considered inappropriate; 4 to 6, uncertain; and 7 to 9, appropriate. Agreement was reached when 12 of 16 panelists scored the scenario similarly. Appropriate scenarios agreed on were subsequently scored for necessity. Results For patients with T1N0 disease, surgery alone was considered appropriate, while there was no agreement over surgery alone for patients T2N0 disease. Perioperative chemotherapy was appropriate for patients who had T1-2N2-3 or T3-4 GC without major symptoms. Adjuvant chemoradiotherapy was classified as appropriate for T1-2N1-3 or T3-4 proximal GC and necessary for T1-2N2-3 or T3-4 distal GC.
 
@@ -238,13 +238,13 @@ For proximal lesions, adjuvant chemoradiotherapy was deemed appropriate for T1-2
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1a6cc9bf]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111gBDgz]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Post-chemoradiation management — following primary treatment, patients should be restaged to determine whether surgery is an option, and surgery is preferred if appropriate for patients with resectable and medically operable disease after chemoradiation, while those found to still have unresectable or medically inoperable and/or metastatic disease should receive palliative management.
 
 ---
 
-### Leveraging the multidisciplinary tumor board for dissemination of evidence-based recommendations on the staging and treatment of gastric cancer: a pilot study [^ab2ad133]. Annals of Surgical Oncology (2023). Medium credibility.
+### Leveraging the multidisciplinary tumor board for dissemination of evidence-based recommendations on the staging and treatment of gastric cancer: a pilot study [^115NmGLS]. Annals of Surgical Oncology (2023). Medium credibility.
 
 In terms of node dissection, modified D2 lymphadenectomy, preserving the spleen and pancreatic tail, is the established standard of care in curative-intent gastrectomy and improves disease specific survival. It is easier and lower risk, however, to perform a gastrectomy without clearing these nodes. Surgeons trained to perform gastrectomy for benign disease or non-adenocarcinoma indications may not be comfortable with this more extended nodal dissection or even aware of the steps it entails.
 
@@ -256,14 +256,14 @@ Additional barriers reported by multiple sites in this study were "the availabil
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^f13ba8d4]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^117Ae4BD]. Annals of Oncology (2022). High credibility.
 
 Regarding diagnostic procedures for gastric cancer, more specifically with respect to diagnostic laparoscopy and peritoneal lavage, ESMO 2022 guidelines recommend to perform diagnostic laparoscopy and peritoneal washings for cytology in patients with resectable gastric cancer being also candidates for perioperative chemotherapy.
 Recognize that patients with positive lavage cytology are uncertain candidates for curatively-intended surgical resection.
 
 ---
 
-### Impact of postoperative chemotherapy on survival for oesophagogastric adenocarcinoma after preoperative chemotherapy and surgery [^e7a921bb]. The British Journal of Surgery (2022). Medium credibility.
+### Impact of postoperative chemotherapy on survival for oesophagogastric adenocarcinoma after preoperative chemotherapy and surgery [^116vSx3t]. The British Journal of Surgery (2022). Medium credibility.
 
 Introduction
 
@@ -271,31 +271,31 @@ The majority of patients suitable for curative treatment of oesophagogastric ade
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^f0b68a5e]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1179sLow]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer combined modality therapy — perioperative systemic therapy is recommended for localized resectable disease (category 1), postoperative chemoradiation is recommended for patients who received less than a D2 lymph node dissection, and other treatment options include postoperative chemotherapy for patients who have undergone primary D2 lymph node dissection; chemoradiation alone should be reserved for patients with unresectable disease or those who decline surgery, preoperative or perioperative ICIs can be considered for certain patients with an MSI-H/dMMR gastric tumor, a multidisciplinary team should be consulted for perioperative immunotherapy in MSI-H/dMMR tumors, and the role of surgery following biopsy proven and confirmed radiologic/metabolic CR after preoperative immunotherapy is unclear.
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^f2284101]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^117C1XQc]. Practical Radiation Oncology (2025). High credibility.
 
 ASTRO clinical practice guideline — recommendations for radiation therapy (RT) in gastric cancer are based on "a systematic literature review" and "a predefined consensus-based methodology with a system for grading evidence quality and recommendation strength". Multidisciplinary evaluation and decision making are recommended for all patients. For patients with cT2-4 and/or N+ resectable gastric cancer, perioperative chemotherapy is recommended, preferably FLOT (5-fluorouracil, leucovorin, oxaliplatin and docetaxel), and perioperative durvalumab and FLOT has shown a significant improvement in event-free survival versus FLOT only for resectable disease and is now being adopted as a standard of care. Preoperative chemoradiation is recommended for patients who are not candidates for perioperative chemotherapy and conditionally recommended if there is concern for a margin positive (R1) or incomplete (R2) resection. Postoperative chemoradiation is conditionally recommended for patients who are not candidates for perioperative or postoperative chemotherapy or if a suboptimal resection was done for those who proceeded directly to surgery. Definitive chemoradiation may provide durable control for nonmetastatic patients who are inoperable either at initial diagnosis or at the time of locoregional recurrence. For patients with oligometastatic gastric cancer, metastasis-directed therapy along with systemic therapy is conditionally recommended. Palliative RT is efficacious for patients with bleeding, pain, and obstruction, and target coverage goals and dose guidance for normal tissues are provided.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^e64a52d2]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116tR7km]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Principles of radiation therapy — scope statement indicates that "RT has been assessed in randomized trials in both the preoperative and postoperative settings in patients with resectable gastric cancer".
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^481dc0e4]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^112qv6wD]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to general principles, ESMO 2022 guidelines recommend to ensure multidisciplinary treatment planning before any treatment decision.
 
 ---
 
-### Lymphatic, blood vessel and perineural invasion identifies early-stage high-risk radically resected gastric cancer patients [^bdc52e10]. British Journal of Cancer (2006). Low credibility.
+### Lymphatic, blood vessel and perineural invasion identifies early-stage high-risk radically resected gastric cancer patients [^115rLtdu]. British Journal of Cancer (2006). Low credibility.
 
 DISCUSSION
 
@@ -309,7 +309,7 @@ In the present analysis, we found a statistically significant difference in stag
 
 ---
 
-### Quality assurance of surgery in the randomized ST03 trial of perioperative chemotherapy in carcinoma of the stomach and gastro-oesophageal junction [^41f983ce]. The British Journal of Surgery (2019). Medium credibility.
+### Quality assurance of surgery in the randomized ST03 trial of perioperative chemotherapy in carcinoma of the stomach and gastro-oesophageal junction [^112gp1G1]. The British Journal of Surgery (2019). Medium credibility.
 
 Results
 
@@ -327,13 +327,13 @@ Some 159 patients completed preoperative chemotherapy but did not undergo resect
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^764b8fe1]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1142NvKa]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric cancer — postoperative management updates after resection specify that for R0 resection, "Observation (if received preoperative chemoradiation) removed as an option" and "Systemic therapy, if received preoperatively (category 1)". For R1 disease, "Chemoradiation (fluoropyrimidine-based), only if not received preoperatively. Also for R2 resection".
 
 ---
 
-### Meta-analysis of the efficacy of applying reduced surgery for the treatment of asymptomatic unresectable advanced gastric cancer [^b01e74ba]. BMC Gastroenterology (2025). Medium credibility.
+### Meta-analysis of the efficacy of applying reduced surgery for the treatment of asymptomatic unresectable advanced gastric cancer [^115W73vq]. BMC Gastroenterology (2025). Medium credibility.
 
 In conclusion, our analysis suggests that surgery may have a role in selected advanced gastric cancer patients generally considered for palliative systemic therapy alone. However, as no definitive confirmation from randomized trials exists, such an approach cannot be recommended at present in all metastatic patients. The treatment of advanced gastric cancer is slowly but steadily improving thanks to the availability of new therapeutic agents and better supportive measures. It is therefore likely that improving the percentage of patients who achieve disease control in first- and second-line could increase the possibility of reconsidering surgery on primary tumor in a higher number of cases. This will open the way for further prospective research in the field and for the conduction of adequately sized randomized trials. Meanwhile, gastrectomy cannot be considered as a standard approach in asymptomatic GC patients and a case-by-case decision should be based on the multidisciplinary assessment of any single patient.
 
@@ -345,7 +345,7 @@ There are still some shortcomings in this study: (1) the number of original stud
 
 ---
 
-### Stomach cancer treatment by stage-NCI… [^73f44ccb]. NCI (2023). Medium credibility.
+### Stomach cancer treatment by stage-NCI… [^113xudkn]. NCI (2023). Medium credibility.
 
 Treatment of stage 0 stomach cancer Gastrectomy is the main treatment for stage 0 stomach cancer. Endoscopic mucosal resection uses an endoscope to remove abnormal growths or tissue from the lining of the digestive tract without open surgery. It may be done in people with small tumors that have a low risk of spreading to nearby lymph nodes. To learn more about these treatments, visit Stomach Cancer Treatment. Treatment of stage I stomach cancer Gastrectomy is the main treatment for stage I stomach cancer. Some people may receive chemotherapy and/or radiation therapy before or after surgery. Giving chemotherapy at the same time as radiation therapy may help the radiation therapy work better.
 
@@ -362,7 +362,7 @@ The first palliative treatment for HER2-negative tumors might include chemothera
 
 ---
 
-### Perioperative chemo (radio) therapy versus primary surgery for resectable adenocarcinoma of the stomach, gastroesophageal junction, and lower esophagus [^e2ac5249]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
+### Perioperative chemo (radio) therapy versus primary surgery for resectable adenocarcinoma of the stomach, gastroesophageal junction, and lower esophagus [^116o45nG]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
 
 Background
 
@@ -394,13 +394,13 @@ Perioperative chemotherapy for resectable gastroesophageal adenocarcinoma increa
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^9a4c7ae9]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^114wknMN]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 GAST-2 locoregional disease — among medically fit, potentially resectable cases that are cT2 or higher, Any N, preoperative chemoradiation (category 2B) is removed as a primary treatment option.
 
 ---
 
-### Leveraging the multidisciplinary tumor board for dissemination of evidence-based recommendations on the staging and treatment of gastric cancer: a pilot study [^e247a81a]. Annals of Surgical Oncology (2023). Medium credibility.
+### Leveraging the multidisciplinary tumor board for dissemination of evidence-based recommendations on the staging and treatment of gastric cancer: a pilot study [^116nUGg1]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Gastric cancer is the fifth most common cancer and the third leading cause of cancer death worldwide. Although its incidence is relatively low in the United States, the incidence of poorly differentiated, diffuse-type disease is increasing. Multiple clinical trials conducted in recent years have aimed to optimize multidisciplinary treatment (MDT) and outcomes for gastric cancer patients. Despite these studies and subsequent updates to evidence-based treatment guidelines, long-term oncologic outcomes for patients with all but the earliest stage of disease have not improved significantly in decades, particularly in the United States.
 
@@ -410,7 +410,7 @@ Surgical standards for gastric cancer include performance of a staging laparosco
 
 ---
 
-### ASO author reflections: the impact of minimally invasive surgery on the completion rate of the perioperative chemotherapy protocol in gastric cancer [^170cea61]. Annals of Surgical Oncology (2023). Medium credibility.
+### ASO author reflections: the impact of minimally invasive surgery on the completion rate of the perioperative chemotherapy protocol in gastric cancer [^111bB46c]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Future
 
@@ -418,7 +418,7 @@ Studies suggest that the adjuvant component of the perioperative chemotherapy co
 
 ---
 
-### Effect of neoadjuvant chemotherapy followed by surgical resection on survival in patients with limited metastatic gastric or gastroesophageal junction cancer: the AIO-FLOT3 trial [^f8055396]. JAMA Oncology (2017). Medium credibility.
+### Effect of neoadjuvant chemotherapy followed by surgical resection on survival in patients with limited metastatic gastric or gastroesophageal junction cancer: the AIO-FLOT3 trial [^117Lhif7]. JAMA Oncology (2017). Medium credibility.
 
 Importance
 
@@ -454,13 +454,13 @@ clinicaltrials.gov identifier: NCT00849615.
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^f26c9eb6]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^117CQVHX]. Practical Radiation Oncology (2025). High credibility.
 
 Margin-positive resections and chemotherapy candidacy — postoperative therapy guidance: "While no data were found meeting the search criteria supporting postoperative chemoradiation for R1-2 resection, consensus expert opinion of the task force resulted in a conditional recommendation for postoperative chemoradiation for R1-2 disease with or without postoperative chemotherapy and whether or not preoperative systemic therapy was given". "There is insufficient data to comment on whether RT dose escalation is necessary for patients with R1-2 resections". "However, when patients can receive multiagent chemotherapy in the setting of an R0 and D2 dissection, there is no benefit to adding RT, and postoperative chemotherapy alone is recommended". For patients not candidates for perioperative or postoperative multiagent chemotherapy, "postoperative chemoradiation (with concurrent 5-FU or capecitabine) is conditionally recommended".
 
 ---
 
-### Impact of perioperative chemotherapy on oncological outcomes after gastric cancer surgery [^498e525a]. The British Journal of Surgery (2014). Low credibility.
+### Impact of perioperative chemotherapy on oncological outcomes after gastric cancer surgery [^112t3uDs]. The British Journal of Surgery (2014). Low credibility.
 
 Background
 
@@ -480,7 +480,7 @@ Perioperative chemotherapy was completed in less than half of the patients with 
 
 ---
 
-### Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer [^a4389b13]. The New England Journal of Medicine (2006). Excellent credibility.
+### Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer [^115CTyzA]. The New England Journal of Medicine (2006). Excellent credibility.
 
 Background
 
@@ -500,25 +500,25 @@ In patients with operable gastric or lower esophageal adenocarcinomas, a periope
 
 ---
 
-### Controversies in the treatment of local and locally advanced gastric and esophageal cancers [^15e5b627]. Journal of Clinical Oncology (2015). Low credibility.
+### Controversies in the treatment of local and locally advanced gastric and esophageal cancers [^111ZTu4S]. Journal of Clinical Oncology (2015). Low credibility.
 
 Despite overall progress in the therapy of local and locally advanced esophageal, gastroesophageal junction, and gastric adenocarcinomas, death as a result of these tumors remains a common outcome. Most randomized phase III trials on which level-one evidence has been built have included the heterogeneous histologies and locations associated with these tumors. However, the different etiologies, molecular biology, and recurrence patterns associated with gastroesophageal malignancies suggest the need to split rather than lump. Biologic and response differences exist between squamous and adenocarcinomas, as well as diffuse and intestinal histologies. This may be a cause behind conflicting outcomes in similar trials. The accepted standard of chemoradiotherapy for locally advanced esophageal and gastroesophageal junction cancers is based on a few positive trials, with the best chemotherapy and total dose of radiation remaining controversial. In the West, the staging evaluations of locally advanced gastric cancer are not uniform. Yet, these evaluations will inform the results of preoperative and perioperative treatments. Although postoperative chemoradiotherapy for gastric cancer has been an accepted treatment option for the last decade, more recent studies have called into question the need for radiotherapy. In perioperative strategies, it has yet to be determined whether histologic or molecular changes in the operative specimen should inform postoperative treatment. An appropriate place for targeted therapy needs to be found in preoperative and postoperative treatment regimens. Finally, because so much is lost when trials are forced to close for lack of accrual, it is imperative to build multidisciplinary consensus before they are launched.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^c8671762]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116879k5]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Recommendation category — evidence rating: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^ca566c9a]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116AyXc5]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric Cancer — gastrectomy after prior chemoradiation: For unresectable gastric cancer treated with chemoradiation followed by surgery, "Tumor site should be thoroughly sampled for specimens s/p chemoradiation without grossly obvious residual tumor", and "For pathology report, include all elements of resection and assessment of treatment effect".
 
 ---
 
-### Neoadjuvant chemotherapy does not improve survival in cT2N0M0 gastric adenocarcinoma patients: a multicenter propensity score analysis [^6d919c59]. Annals of Surgical Oncology (2024). Medium credibility.
+### Neoadjuvant chemotherapy does not improve survival in cT2N0M0 gastric adenocarcinoma patients: a multicenter propensity score analysis [^113oSZSg]. Annals of Surgical Oncology (2024). Medium credibility.
 
 Methods
 
@@ -536,13 +536,13 @@ Baseline demographic, histological, and treatment data were collected from all e
 
 ---
 
-### Minimally invasive staging surgery for cancer [^3c1ecfa9]. Surgical Oncology Clinics of North America (2019). Medium credibility.
+### Minimally invasive staging surgery for cancer [^112Y8cAC]. Surgical Oncology Clinics of North America (2019). Medium credibility.
 
 Staging laparoscopy (SL) is used to assess for radiographically occult metastatic disease and local resectability in selected patients with gastrointestinal malignancies. SL may avoid nontherapeutic laparotomy in patients with unresectable cancer and is associated with shorter length of hospital stay and time to receipt of systemic therapy compared with nontherapeutic laparotomy. With improvements in preoperative imaging, careful patient selection for SL is imperative. SL and peritoneal washings should be considered for patients with distal gastroesophageal and locally advanced gastric cancer before planned neoadjuvant chemotherapy or resection. SL should be considered in selected high-risk patients with hepatopancreatobiliary malignancies.
 
 ---
 
-### Quality assurance of surgery in the randomized ST03 trial of perioperative chemotherapy in carcinoma of the stomach and gastro-oesophageal junction [^c6687faf]. The British Journal of Surgery (2019). Medium credibility.
+### Quality assurance of surgery in the randomized ST03 trial of perioperative chemotherapy in carcinoma of the stomach and gastro-oesophageal junction [^11659ebg]. The British Journal of Surgery (2019). Medium credibility.
 
 Discussion
 
@@ -554,31 +554,31 @@ Despite comprehensive staging assessments at the time of diagnosis and randomiza
 
 ---
 
-### Gastrectomy for gastric cancer: defining critical elements of patient selection and outcome assessment [^cb08e65e]. Surgical Oncology Clinics of North America (2004). Low credibility.
+### Gastrectomy for gastric cancer: defining critical elements of patient selection and outcome assessment [^116C1UbF]. Surgical Oncology Clinics of North America (2004). Low credibility.
 
 In advanced gastric cancer, palliation of symptoms, rather than cure, is often the most appropriate goal of patient management. There are important differences among patients undergoing non-curative operations for gastric cancer. The literature to date is limited, in part, by imprecise use of the term palliative. In clinical decision-making, the potential benefits of proposed procedure must be balanced against the duration of hospitalization, treatment of complications, and requirements for additional palliation. Studies designed to measure palliative interventions would benefit from precise designations of palliative intent inpatients receiving non-curative operations.
 
 ---
 
-### Surgical considerations in the treatment of gastric cancer [^1cb32c82]. Gastroenterology Clinics of North America (2013). Low credibility.
+### Surgical considerations in the treatment of gastric cancer [^111jYqUm]. Gastroenterology Clinics of North America (2013). Low credibility.
 
 Gastric cancer is one of the most common malignancies in the world and is a leading cause of cancer death. Surgical treatment remains the best treatment option for potential cure and can be beneficial in the palliation of advanced disease. Several neoadjuvant chemotherapy regimens have been recently evaluated as potential adjuncts to surgery. This review describes the current role of surgical therapy in staging, resection, and palliation of gastric cancer.
 
 ---
 
-### Potentially curable pancreatic adenocarcinoma: ASCO clinical practice guideline update [^923280c4]. Journal of Clinical Oncology (2019). High credibility.
+### Potentially curable pancreatic adenocarcinoma: ASCO clinical practice guideline update [^114jkA2F]. Journal of Clinical Oncology (2019). High credibility.
 
 Regarding medical management for pancreatic cancer, more specifically with respect to management of resectable disease, neoadjuvant chemoradiotherapy, ASCO 2019 guidelines recommend to obtain a complete restaging evaluation after completion of preoperative therapy and before final surgical planning.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^0ae2a61c]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111H91J3]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer postoperative management for patients who have received systemic therapy uses surgical outcomes to guide care: for R0 resection, Systemic therapy, P (category 1); for R1 resection, ChemoradiationP, r (fluoropyrimidine-based) or Consider re-resection; for R2 resection, ChemoradiationP, r (fluoropyrimidine-based) or Palliative Management (GAST-9), as clinically indicated; and for ypM1, Palliative Management (GAST-9). Resection status definitions are provided as R0 = No cancer at resection margins, R1 = Microscopic residual cancer, R2 = Macroscopic residual cancer or M1, and The yp prefix is used to indicate cases in which staging is performed following preoperative therapy, with the note that Note: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Oxaliplatin plus capecitabine in the perioperative treatment of locally advanced gastric adenocarcinoma in combination with D2 gastrectomy: NEO-CLASSIC study [^3855adce]. The Oncologist (2019). Medium credibility.
+### Oxaliplatin plus capecitabine in the perioperative treatment of locally advanced gastric adenocarcinoma in combination with D2 gastrectomy: NEO-CLASSIC study [^112SX5wb]. The Oncologist (2019). Medium credibility.
 
 Lessons Learned
 
@@ -602,19 +602,19 @@ These findings suggest that combination therapy with capecitabine and oxaliplati
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^cd344184]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116FE1oH]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Guideline recommendation category — All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^37ab49dc]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112RXrUB]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer — staging laparoscopy and peritoneal cytology — Pretreatment diagnostic laparoscopy can detect occult metastases, with a Memorial Sloan Kettering series of 657 patients staged over a period of 10 years showing metastatic disease (M1) in 31% of patients. Cytology testing of peritoneal fluid can help identify occult carcinomatosis, and positive peritoneal cytology even in the absence of visible implants should be considered as M1 disease, and surgery as initial treatment is not recommended. For patients considered for surgical resection without preoperative therapy, laparoscopy may be useful to detect radiographically occult metastatic disease in T3 and/or N+ tumors. The Panel recommends performing diagnostic laparoscopy to assess the peritoneal cavity (with biopsies as needed) and cytology of peritoneal washings in medically fit patients with potentially resectable stage cT1b or higher locoregional disease when considering perioperative therapy and/or surgery, and laparoscopy with cytology can be considered for medically fit patients with surgically unresectable disease.
 
 ---
 
-### Impact of laparoscopic gastrectomy on the completion rate of the perioperative chemotherapy regimen in gastric cancer: a Swedish nationwide study [^832823ce]. Annals of Surgical Oncology (2023). Medium credibility.
+### Impact of laparoscopic gastrectomy on the completion rate of the perioperative chemotherapy regimen in gastric cancer: a Swedish nationwide study [^114MSruT]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Discussion
 
@@ -624,49 +624,49 @@ Whether the neoadjuvant and adjuvant parts of perioperative chemotherapy regimen
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^79b51a4f]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1147SLGN]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Principles of multidisciplinary team approach for esophagogastric cancers — Category 1 evidence supports the notion that the combined modality therapy is effective for patients with localized esophagogastric cancer, and the combined modality therapy for patients with localized esophagogastric cancer may be optimally delivered when the following elements are in place: frequent meetings (either once a week or once every 2 weeks) are encouraged; optimally at each meeting, all relevant disciplines should be encouraged to participate and these may include: surgical oncology, medical oncology, gastroenterology, radiation oncology, radiology, and pathology, and the presence of nutritional services, social workers, nursing, palliative care specialists, and other supporting disciplines are also desirable; all long-term therapeutic strategies are best developed after adequate staging procedures are completed, but ideally prior to any therapy that is rendered; joint review of the actual medical data is more effective than reading reports for making sound therapy decisions; a brief documentation of the consensus recommendation(s) by the multidisciplinary team for an individual patient may prove useful; the recommendations made by the multidisciplinary team may be considered advisory to the primary group of treating physicians of the particular patient; re-presentation of select patient outcomes after therapy is rendered may be an effective educational method for the entire multidisciplinary team; and a periodic formal review of relevant literature during the course of the multidisciplinary meeting is highly encouraged. Note: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^e79037c0]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116vJago]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer NCCN recommendation category — unless otherwise indicated, all recommendations are category 2A.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^bf25d440]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^115tPLo9]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN gastric cancer — recommendation category: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1cb8f994]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111janVZ]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 National Comprehensive Cancer Network (NCCN) Gastric Cancer recommendations — All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^de802ea9]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116gsJkg]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer guideline recommendation category — All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^87e40c6e]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^114UTvnh]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to management of locoregional disease, surgical resection, ESMO 2022 guidelines recommend to consider performing endoscopic or surgical resection alone in selected patients with very early tumors (stage IA).
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^8a1ddcbd]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^114XmKet]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer — guideline category note states: "Note: All recommendations are category 2A unless otherwise indicated".
 
 ---
 
-### Ten-year survival outcomes of patients with potentially resectable gastric cancer: impact of clinicopathologic and treatment-related risk factors [^0e391fde]. Annals of Gastroenterology (2018). Low credibility.
+### Ten-year survival outcomes of patients with potentially resectable gastric cancer: impact of clinicopathologic and treatment-related risk factors [^111N61pZ]. Annals of Gastroenterology (2018). Low credibility.
 
 Results
 
@@ -687,7 +687,7 @@ Ninety-two of the 132 patients (70%) received adjuvant therapy (chemotherapy or 
 
 ---
 
-### Surgical management of gastric cancer… [^bded4769]. JAMA Network (2022). Excellent credibility.
+### Surgical management of gastric cancer… [^115raMq2]. JAMA Network (2022). Excellent credibility.
 
 Importance Surgery plays a critical role in the management of all stages of gastric cancer. Observations For patients with early gastric cancer and low risk of lymph node metastasis, endoscopic therapy or surgery alone is potentially curative. Novel techniques, such as sentinel lymph node biopsy, may allow for greater use of stomach-sparing procedures that could improve quality of life without compromising oncologic outcomes; however, experience with these techniques is rare outside of East Asia, and studies of long-term outcomes are still ongoing. Patients with later-stage localized gastric cancer benefit from more extensive lymphadenectomy and multimodality therapy, as they are at risk for nodal and distant metastases. There have been recent advances in chemotherapy that have led to improved survival, but the optimal sequencing of multimodality therapy is still being investigated. Better systemic therapy may also increase the role of surgery for patients with oligometastatic disease.
 
@@ -695,37 +695,37 @@ There are ongoing studies examining the efficacy of peritoneal-directed therapie
 
 ---
 
-### Controversies in the surgical management of gastric cancer [^2c45319b]. Journal of the National Comprehensive Cancer Network (2003). Low credibility.
+### Controversies in the surgical management of gastric cancer [^1128dhQN]. Journal of the National Comprehensive Cancer Network (2003). Low credibility.
 
 Although the incidence of gastric adenocarcinoma in the United States has declined steadily since the early 1900s, it remains a significant health problem. Progress has been made during the past few decades in several areas: Lymph node staging has been refined, perioperative mortality has fallen, and plausible adjuvant therapy has emerged. Currently, complete surgical resection is the mainstay of therapy because it is the only potentially curative option; however, considerable controversy remains regarding the specifics of a surgical approach. This article examines 4 major controversies in the management of gastric cancer: extent of gastric resection, role of extended lymph node dissection, value of elective splenectomy for proximal gastric lesions, and current state of adjuvant therapy. Pertinent retrospective and prospective studies are reviewed to help formulate meaningful conclusions.
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^389a02d1]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^112Sv3A8]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to management of locoregional disease (adjuvant chemoradiotherapy), ESMO 2022 guidelines recommend to do not offer postoperative radiotherapy in patients undergoing peri- or postoperative chemotherapy.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^e27578dd]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^116njfEL]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gastric cancer — N category determination and staging workup: Determine extent of disease by CT scan (chest, abdomen, and pelvis) ± EUS (if no metastatic disease seen on CT). In patients being considered for surgical resection without preoperative therapy, laparoscopy may be useful in detecting radiographically occult metastatic disease in patients with cT3 and/or cN+ disease seen on preoperative imaging, and if laparoscopy is planned as a separate procedure, peritoneal washings with cytology should be performed as well. In patients receiving preoperative therapy, a baseline laparoscopy along with peritoneal washings should be considered. Positive peritoneal cytology (performed in the absence of visible peritoneal implants) is associated with poor prognosis and is defined as pM1 disease.
 
 ---
 
-### Surgical treatment for gastric cancer [^6f230bf9]. Gastrointestinal Endoscopy Clinics of North America (2021). Medium credibility.
+### Surgical treatment for gastric cancer [^113qmQ3i]. Gastrointestinal Endoscopy Clinics of North America (2021). Medium credibility.
 
 Surgery is an essential component of curative-intent treatment strategies for gastric cancer. However, the care of each patient with gastric cancer must be individualized based on patient and tumor characteristics. It is important that all physicians who will be caring for patient with gastric cancer understand the current best practices of surgical management to provide patients with the highest quality of care. This article aims to provide this information while acknowledging areas of surgical management that are still controversial.
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^b2f427af]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^115aJogi]. Practical Radiation Oncology (2025). High credibility.
 
 Radiation therapy for gastric cancer (ASTRO) — staging work-up and roles across the disease spectrum: RT is used in several clinical scenarios across the disease spectrum, and patients should undergo full staging work up including history and physical examination, imaging, endoscopy, consideration of diagnostic laparoscopy, and medical evaluation followed by discussion in a multidisciplinary care team; appropriate biomarkers and pathological evaluation should be performed; factors including comorbidities, performance status, and age may be considered when offering different RT approaches because of tolerance and toxicity concerns; the FLOT4 trial has established the curative role of perioperative chemotherapy (3–4 cycles of chemotherapy preoperatively and postoperatively), and the addition of durvalumab for patients receiving perioperative 5-fluorouracil, leucovorin, oxaliplatin and docetaxel (FLOT) has shown superior event-free survival rates versus FLOT only patients; studies have not shown an overall survival (OS) benefit to preoperative or postoperative chemoradiation over perioperative chemotherapy with surgery, and RT may play a therapeutic role depending on the stage, as well as the adequacy and timing of surgery; given prospective and randomized data showing a potential benefit to metastasis-directed therapy (MDT) via metastasectomy including for nonregional para-aortic lymph nodes (eg, nodal stations 16a1 or 16a2), these guidelines assess the data for RT as a MDT; the role of palliative RT in relieving bleeding, obstruction, and pain is also examined.
 
 ---
 
-### Gastric cancer treatment (PDQ ®)-NCI… [^2f396ee5]. NCI (2025). Medium credibility.
+### Gastric cancer treatment (PDQ ®)-NCI… [^112D1i8k]. NCI (2025). Medium credibility.
 
 Treatment Option Overview for Gastric Cancer The standard form of curative therapy for gastric cancer is radical surgery. However, the incidences of local failure in the tumor bed and regional lymph nodes, and distant failures via hematogenous or peritoneal routes, remain high. As such, comprehensive staging and evaluation with a multidisciplinary team to determine roles of neoadjuvant, perioperative, and adjuvant combination chemotherapy, surgery, and external-beam radiation therapies should be considered. Investigators in Europe evaluated the role of perioperative chemotherapy without radiation therapy. Initially, in a randomized phase III trial, patients with stage II or higher adenocarcinoma of the stomach or of the lower third of the esophagus were assigned to receive three cycles of epirubicin, cisplatin, and continuous infusion fluorouracil before and after surgery or to receive surgery alone.
 
@@ -742,7 +742,7 @@ If the lesion is not in the cardioesophageal junction and does not diffusely inv
 
 ---
 
-### Association of preoperative chemosensitivity with postoperative survival in patients with resected gastric adenocarcinoma [^d5524e11]. JAMA Network Open (2021). High credibility.
+### Association of preoperative chemosensitivity with postoperative survival in patients with resected gastric adenocarcinoma [^116TG1TN]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -752,13 +752,13 @@ However, the benefit associated with PC is unclear for all patients, considering
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^e45eaa96]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^116qZyW5]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to management of locoregional disease, surgical resection, ESMO 2022 guidelines recommend to perform D2 resection in high-volume surgical centers.
 
 ---
 
-### Neoadjuvant chemotherapy does not improve survival in cT2N0M0 gastric adenocarcinoma patients: a multicenter propensity score analysis [^967fdb7a]. Annals of Surgical Oncology (2024). Medium credibility.
+### Neoadjuvant chemotherapy does not improve survival in cT2N0M0 gastric adenocarcinoma patients: a multicenter propensity score analysis [^114r868h]. Annals of Surgical Oncology (2024). Medium credibility.
 
 Discussion
 
@@ -770,13 +770,13 @@ The present findings are in contrast with the current European (ESMO)and North A
 
 ---
 
-### Modern surgical considerations for gastric cancer [^89be25b6]. Journal of the National Comprehensive Cancer Network (2008). Low credibility.
+### Modern surgical considerations for gastric cancer [^114XDAyb]. Journal of the National Comprehensive Cancer Network (2008). Low credibility.
 
 Surgical resection remains the mainstay of treatment for localized gastric adenocarcinoma. The type and extent of resection depends on tumor location. Although the incidence of gastric cancer has been declining, a shift has occurred to more tumors involving the proximal compared with the distal stomach. Appropriate treatment depends on a thorough staging process to exclude the presence of distant metastatic disease. Current staging modalities include high-quality CT scan, endoscopic ultrasound, PET, and laparoscopy. The value of peritoneal lavage to detect occult peritoneal disease is under investigation. The principles of surgical resection have always included negative resection margins and adequate lymph node examination. Controversial topics requiring further study include laparoscopic resections and hepatic metastasectomy. This review highlights the salient points of current surgical management of gastric adenocarcinoma.
 
 ---
 
-### Gastr ı C cancer surgery in elderly patients: promising results from a mid-western population [^e1de66f6]. BMC Geriatrics (2023). Medium credibility.
+### Gastr ı C cancer surgery in elderly patients: promising results from a mid-western population [^116mrv9j]. BMC Geriatrics (2023). Medium credibility.
 
 Introduction
 
@@ -788,7 +788,7 @@ The main objective of this study is to evaluate the perioperative results of bot
 
 ---
 
-### Health professional… [^ec5f3f16]. NCI (2024). Medium credibility.
+### Health professional… [^1173S54H]. NCI (2024). Medium credibility.
 
 Stomach Cancer — Health Professional Version Treatment PDQ Treatment Information for Health Professionals Causes & Prevention PDQ Prevention Information for Health Professionals More information Genetics PDQ Genetics Information for Health Professionals Screening PDQ Screening Information for Health Professionals More information. Supportive & Palliative Care We offer evidence-based supportive and palliative care information for health professionals on the assessment and management of cancer-related symptoms and conditions. Cancer Pain Nausea and Vomiting Nutrition in Cancer Care Transition to End-of-Life Care Last Days of Life View all Supportive and Palliative Care Summaries.
 
@@ -796,7 +796,7 @@ Research For People with Inherited Risk of Stomach Cancer, Gastrectomy Has Lasti
 
 ---
 
-### Peri-operative chemotherapy with or without bevacizumab in operable oesophagogastric adenocarcinoma (UK medical research council ST03): primary analysis results of a multicentre, open-label, randomised phase 2–3 trial [^bb196b79]. The Lancet: Oncology (2017). Medium credibility.
+### Peri-operative chemotherapy with or without bevacizumab in operable oesophagogastric adenocarcinoma (UK medical research council ST03): primary analysis results of a multicentre, open-label, randomised phase 2–3 trial [^115nPDv8]. The Lancet: Oncology (2017). Medium credibility.
 
 Introduction
 
@@ -808,7 +808,7 @@ The initial phase 2 stage of the trial focused on safety and feasibility in the 
 
 ---
 
-### Processes of care in the multidisciplinary treatment of gastric cancer: results of a RAND / UCLA expert panel [^180a9b57]. JAMA Surgery (2014). Medium credibility.
+### Processes of care in the multidisciplinary treatment of gastric cancer: results of a RAND / UCLA expert panel [^111ceGQE]. JAMA Surgery (2014). Medium credibility.
 
 Importance
 
@@ -840,25 +840,25 @@ Patients with GC being treated with curative intent should be considered for mul
 
 ---
 
-### Management of gastric adenocarcinoma for general surgeons [^f08dac68]. The Surgical Clinics of North America (2020). Medium credibility.
+### Management of gastric adenocarcinoma for general surgeons [^1179dcf1]. The Surgical Clinics of North America (2020). Medium credibility.
 
 Gastric cancer is one of the most common cancers in the world, despite declining incidence of the disease in the United States. Because of the rare occurrence of the disease in the United States, there is significant treatment variance in use of diagnostic modalities, neoadjuvant/adjuvant therapies, and surgical techniques. The survival of patients with gastric cancer in the United States is significantly lower than those of Asian countries where the diagnosis is made at an earlier stage and uniform high-quality treatment is delivered. This article reviews pearls and pitfalls of multidisciplinary management of the gastric adenocarcinoma for best outcomes.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^c7eeaafb]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^1167Qhht]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric Cancer guidelines — recommendation strength designation is as follows: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^b2de9152]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^115aBZ8V]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Diagnostic laparoscopy and peritoneal cytology — pretreatment diagnostic laparoscopy can be used to detect occult metastases; in a study at a single center, 657 patients underwent laparoscopic staging over a period of 10 years and metastatic disease (M1) was detected in 31% of patients. Cytology testing of peritoneal fluid can help improve laparoscopic staging through identification of occult carcinomatosis, and positive peritoneal cytology even in the absence of visible peritoneal implants should be considered as M1 disease, and surgery as initial treatment is not recommended. In patients being considered for surgical resection without preoperative therapy, laparoscopy may be useful for detecting radiographically occult metastatic disease in patients with T3 and/or N+ tumors identified on preoperative imaging. The Panel recommends performing diagnostic laparoscopy to assess the peritoneal cavity (with biopsies as needed) and cytology of peritoneal washings in medically fit patients with potentially resectable stage cT1b or higher locoregional disease when considering perioperative therapy and/or surgery, and laparoscopy with cytology can be considered for patients who are medically fit with surgically unresectable disease.
 
 ---
 
-### Oncologic outcomes of patients with resectable primary gastric squamous cell carcinoma: a systematic review [^3187238d]. Annals of Gastroenterology (2022). Medium credibility.
+### Oncologic outcomes of patients with resectable primary gastric squamous cell carcinoma: a systematic review [^112GRnXW]. Annals of Gastroenterology (2022). Medium credibility.
 
 The treatment paradigm for this rare disease is the same as for other gastric malignancies. Nonetheless, it is uncertain whether oncologic outcomes in cases of localized disease are the same as in localized, resectable adenocarcinomas. Given the paucity of relevant literature on PGSCCs, we constructed a patient cohort from isolated cases to extrapolate survival data following surgical resection of these lesions. Kaplan-Meier curve analysis demonstrated 3- and 5-year overall survival to be approximately 62.2% and 51.9%, respectively, with even lower 3-year disease-free survival at 38% following curative intent surgery with or without adjuvant therapy. Akce et al, in their study, quote inferior 5-year overall survival rates of 14.7%, in a patient population that was largely managed non-operatively, mainly because of the presence of metastatic disease at presentation. These observations suggest that PSGCC amenable to surgical resection is likely to be associated with enhanced survival and metastatic disease is possibly an important factor influencing long-term oncologic outcomes.
 
@@ -868,97 +868,97 @@ As far as adjuvant therapy is concerned, no standardized treatment regimens have
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^a5b62143]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^115Eg8gA]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Survivorship in gastric cancer — screening and management of long-term sequelae are important, but due to a lack of large randomized trials the Panel's recommendations are based on smaller studies, clinical experience, and other consensus recommendations and guidelines; survivorship care planning should include appropriate timing of transfer of care to a primary care physician and maintenance of a therapeutic relationship, with clearly delineated roles between oncology and primary care, and routine gastric cancer-specific surveillance is not recommended for more than 5 years.
 
 ---
 
-### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^39deada5]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^112Uo6Bn]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 Perioperative chemotherapy for gastric and esophagogastric junction (EGJ) adenocarcinoma — MAGIC, FLOT4, and regimen selection — are summarized as follows: The landmark phase III MAGIC trial comparing perioperative epirubicin/cisplatin/fluorouracil (ECF) to surgery alone established that perioperative chemotherapy improves progression-free survival (PFS) and overall survival (OS) in non-metastatic stage II and higher disease. In FLOT4 phase II, 265 patients were randomized to ECF (n = 137) or FLOT (n = 128); FLOT had higher pCR rates (16%; 95% CI, 10–23 vs. 6%; 95% CI, 3–11; P = 0.02) and fewer grade 3–4 adverse events (40% of patients in the ECF group vs. 25% of patients in the FLOT group). In FLOT4 phase III, 716 patients were randomized to FLOT (n = 356) or ECF (n = 360), and median OS was improved with FLOT (50 vs. 35 months; HR, 0.77; 95% CI, 0.63–0.94) with similar serious chemotherapy-related adverse events (27% in the ECF group vs. 27% in the FLOT group). Accordingly, ECF should no longer be recommended; due to considerable toxicity with FLOT, the panel recommends its use in select patients with good performance status, and the preferred perioperative regimen for most patients with good to moderate performance status is FOLFOX. Additional support comes from the FNCLCC ACCORD 07 trial (n = 224; 75% lower esophagus or EGJ adenocarcinoma), which reported fluorouracil/cisplatin perioperative therapy significantly increased curative resection rate, DFS, and OS, with 5-year OS 38% at a median follow-up of 5.7 years for the perioperative group.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^45677cba]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112mtuYD]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 NCCN Gastric Cancer survivorship — The guideline states that all recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer [^41e73d9a]. Nature Communications (2020). High credibility.
+### White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer [^112ghsFP]. Nature Communications (2020). High credibility.
 
 In the present study, we apply a matched cfDNA and WBC sequencing approach to accurately detect ctDNA alterations after preoperative chemotherapy and after surgery in patients with resectable gastric cancer. We hypothesize that ctDNA detection after completion of preoperative treatment as well as MRD detection after surgery can predict recurrence and survival in patients with resectable gastric cancer treated with multimodal therapeutic regimens. Overall, these analyses evaluate a strategy to distinguish ctDNA alterations from cfDNA variants related to clonal hematopoiesis and investigate whether ctDNA elimination before or after surgery can serve as a predictive biomarker of patient outcome to perioperative treatment.
 
 ---
 
-### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^a3235133]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
+### Esophageal and esophagogastric junction cancers, version 2.2023, NCCN clinical practice guidelines in oncology [^115ArqyC]. Journal of the National Comprehensive Cancer Network (2023). High credibility.
 
 Esophageal and EGJ localized disease management — "ER (with or without ablation) is recommended for patients with early-stage (Tis, T1a, or superficial T1b) tumors". "Esophagectomy is the preferred primary treatment option for patients who are medically fit with T1b–T2, N0 low-risk lesions". For "locally advanced resectable tumors (T2, N0 high-risk lesions, T1b–T2, N+ and T3–T4a, any N tumors), primary treatment options include preoperative chemoradiation (category 1, preferred for adenocarcinoma), perioperative chemotherapy (only for adenocarcinoma) or definitive chemoradiation (only in non-surgical candidates or patients who decline surgery)". "Definitive chemoradiation is the recommended treatment option for patients with T4b (unresectable) tumors, with chemotherapy alone reserved for the setting of invasion into the heart, vertebral body, trachea, or great vessels". "Patients with unresectable or metastatic disease should be offered best supportive care and palliative management with or without systemic therapy, depending on performance status".
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^483f1208]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112r7J15]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Other recommended regimens — fluorouracil and cisplatin are given as 4 cycles preoperative and 4 cycles postoperative with fluorouracil 2000 mg/m² IV continuous infusion over 48 hours on Days 1–2 and cisplatin 50 mg/m² IV on Day 1, cycled every 14 days. All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^0dcad903]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^111MSyTQ]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Staging — The tumor (T), node (N), and metastasis (M) staging system used by the American Joint Committee on Cancer (AJCC) is the internationally accepted standard for cancer staging and is a major factor influencing prognosis and treatment decisions.
 
 ---
 
-### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^3d0053c8]. Annals of Oncology (2022). High credibility.
+### Gastric cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up [^112ZSMZq]. Annals of Oncology (2022). High credibility.
 
 Regarding medical management for gastric cancer, more specifically with respect to management of locoregional disease (adjuvant chemoradiotherapy), ESMO 2022 guidelines recommend to consider offering adjuvant radiotherapy or chemoradiotherapy on an individual basis in patients who have undergone surgery with involved margins (R1).
 
 ---
 
-### Pancreatic adenocarcinoma, version 2.2021, NCCN clinical practice guidelines in oncology [^484ce5f8]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Pancreatic adenocarcinoma, version 2.2021, NCCN clinical practice guidelines in oncology [^112rBwPd]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Pancreatic adenocarcinoma — biopsy strategy and perioperative decision-making state that if a biopsy does not confirm malignancy, at least one repeat biopsy should be performed, and EUS-guided FNA and a core needle biopsy at a high-volume center is preferred. When cancer is not confirmed after two or three biopsies in patients with borderline resectable disease, the Panel recommends referral to a high-volume center for further evaluation. Core needle biopsy is recommended, if possible, for all patients with locally advanced or metastatic or recurrent disease to obtain adequate tissue for potential ancillary studies, including tumor/somatic molecular profiling, and alternative diagnoses including autoimmune pancreatitis should be considered. A positive biopsy is required before administration of chemotherapy, but biopsy proof of malignancy is not required before surgical resection for clearly resectable or borderline resectable disease and a nondiagnostic biopsy should not delay surgical resection when the clinical suspicion for pancreatic cancer is high. The NCCN Pancreatic Adenocarcinoma Panel strongly recommends that all diagnostic and surgical management decisions involve multidisciplinary consultation, and the Panel believes that core biopsies should not replace EUS-guided FNA but rather can be performed in addition to EUS-guided FNA.
 
 ---
 
-### Current status and future directions in gastric cancer with peritoneal dissemination [^21db9278]. Surgical Oncology Clinics of North America (2012). Low credibility.
+### Current status and future directions in gastric cancer with peritoneal dissemination [^111sCLum]. Surgical Oncology Clinics of North America (2012). Low credibility.
 
 Peritoneal carcinomatosis arising from gastric cancer is mostly associated with poor prognosis. Despite the improvement of survival with modern polychemotherapy, the results are still unsatisfactory. Cytoreductive surgery and hyperthermic intraperitoneal chemotherapy might provide an additional therapeutic option for highly selected patients with gastric cancer and peritoneal metastasis leading to improved prognosis. Considering the increased rate of perioperative morbidity and the crucial prognostic role of complete macroscopic cytoreduction, adequate preoperative diagnostics and patient selection are strongly recommended. Further prospective randomized trials are needed to determine the roles of cytoreductive surgery and hyperthermic intraperitoneal chemotherapy as part of an interdisciplinary treatment concept.
 
 ---
 
-### The role of endoscopy in subepithelial lesions of the GI tract [^253347fe]. Gastrointestinal Endoscopy (2017). Medium credibility.
+### The role of endoscopy in subepithelial lesions of the GI tract [^111x9mU1]. Gastrointestinal Endoscopy (2017). Medium credibility.
 
 Regarding specific circumstances for gastric cancer, more specifically with respect to patients with precancerous gastric lesions, surgical resection, ASGE 2017 guidelines recommend to perform surgery for gastric gastrointestinal stromal tumors > 2 cm in size or with high-risk features.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^3e3a0564]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^112bFipB]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 General guidelines — multidisciplinary decision-making: RT treatment recommendations should be made after joint consultation and/or discussion by a multidisciplinary team.
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^3acb67f3]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^112WAc1p]. Practical Radiation Oncology (2025). High credibility.
 
 ASTRO gastric cancer — preoperative chemoradiation (KQ1) states that for patients with cT2-4 and/or N+ resectable gastric cancer who are not candidates for perioperative chemotherapy with FLOT, ECF, or ECX, preoperative chemoradiation with concurrent 5-FU or capecitabine is recommended; an implementation remark notes to limit preoperative chemoradiation to patients with Siewert III GEJ or upper/middle third gastric cancer.
 
 ---
 
-### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^a29c2e7b]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Gastric cancer, version 2.2025, NCCN clinical practice guidelines in oncology [^115A5TKG]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Staging — gastric cancer: The tumor (T), node (N), and metastasis (M) staging system used by the American Joint Committee on Cancer (AJCC) is the internationally accepted standard for cancer staging and is a major factor influencing prognosis and treatment decisions.
 
 ---
 
-### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^c7a6b0b7]. Practical Radiation Oncology (2025). High credibility.
+### Radiation therapy for gastric cancer: an ASTRO clinical practice guideline [^1166zXUA]. Practical Radiation Oncology (2025). High credibility.
 
 Postoperative chemoradiation — positive margin resections (R1-2): For patients with cT2-4 and/or N+ resected gastric cancer with R1-2 resection, postoperative chemoradiation (with concurrent 5-fluorouracil [5-FU] or capecitabine) with or without postoperative chemotherapy is conditionally recommended, whether or not preoperative systemic therapy was given.
 
 ---
 
-### Impact of laparoscopic gastrectomy on the completion rate of the perioperative chemotherapy regimen in gastric cancer: a Swedish nationwide study [^76d0725a]. Annals of Surgical Oncology (2023). Medium credibility.
+### Impact of laparoscopic gastrectomy on the completion rate of the perioperative chemotherapy regimen in gastric cancer: a Swedish nationwide study [^11439Z85]. Annals of Surgical Oncology (2023). Medium credibility.
 
 Methods
 

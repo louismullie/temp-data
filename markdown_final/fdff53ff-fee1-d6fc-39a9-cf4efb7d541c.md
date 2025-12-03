@@ -15,29 +15,29 @@ High dose atorvaststin
 
 > Let's see… What do we have here? The user is asking about high-dose atorvastatin, including its definition, efficacy, safety, guideline-supported indications, special populations, and practical prescribing considerations. Let's break this down step-by-step. First, I need to think about how "high-dose" is defined in contemporary guidelines. Then, I should verify the magnitude of LDL-C lowering and whether there is a dose-response ceiling. Next, I will review outcome data in secondary prevention, acute coronary syndromes, and special populations. After that, I need to examine safety signals, including liver enzymes, myopathy, and rare events. Finally, I will align indications with guidelines and outline monitoring, titration, and alternatives if high-dose therapy is not tolerated, making sure I double-check any conflicting data before concluding.
 
-> Let me first confirm the definition of "high-dose" atorvastatin. Contemporary guidelines categorize high-intensity statin therapy as atorvastatin 40–80 mg daily, which is expected to lower LDL-C by at least 50% on average, whereas moderate-intensity corresponds to 10–20 mg daily with 30–49% LDL-C reduction, and low-intensity to less than 30% reduction, so high-dose atorvastatin in this context means 40–80 mg daily [^1e9724fd] [^180dfb34] [^d4ed0ce5] [^03f70667].
+> Let me first confirm the definition of "high-dose" atorvastatin. Contemporary guidelines categorize high-intensity statin therapy as atorvastatin 40–80 mg daily, which is expected to lower LDL-C by at least 50% on average, whereas moderate-intensity corresponds to 10–20 mg daily with 30–49% LDL-C reduction, and low-intensity to less than 30% reduction, so high-dose atorvastatin in this context means 40–80 mg daily [^111nMPzC] [^111cfQ99] [^116Sfzrg] [^1116swHG].
 
-> Wait, let me verify the dose-response and whether 80 mg adds meaningful LDL-C lowering beyond 40 mg. Cochrane analyses show a linear log-dose relationship for LDL-C reduction across 10–80 mg, with LDL-C decreasing by roughly 37–52% over that range, and doubling the dose yields about a 6% additional LDL-C reduction, which supports the concept that 80 mg achieves greater absolute lowering than 40 mg, albeit with diminishing returns per milligram increase [^4425dee1] [^01f6bb08] [^e93acd3f]. I should also note that rosuvastatin is more potent milligram-for-milligram, so 20–40 mg rosuvastatin achieves comparable or greater LDL-C reductions than atorvastatin 40–80 mg, which matters when choosing between high-intensity agents [^ee9cc814] [^d03a5345].
+> Wait, let me verify the dose-response and whether 80 mg adds meaningful LDL-C lowering beyond 40 mg. Cochrane analyses show a linear log-dose relationship for LDL-C reduction across 10–80 mg, with LDL-C decreasing by roughly 37–52% over that range, and doubling the dose yields about a 6% additional LDL-C reduction, which supports the concept that 80 mg achieves greater absolute lowering than 40 mg, albeit with diminishing returns per milligram increase [^112k2swe] [^1113uryu] [^116xmsDG]. I should also note that rosuvastatin is more potent milligram-for-milligram, so 20–40 mg rosuvastatin achieves comparable or greater LDL-C reductions than atorvastatin 40–80 mg, which matters when choosing between high-intensity agents [^1176kiRR] [^116Ki1tG].
 
-> Next, I should review outcome data in secondary prevention. The IDEAL trial in post-MI patients showed that atorvastatin 80 mg reduced nonfatal MI and major cardiovascular events versus simvastatin 20–40 mg, though the primary composite of major coronary events did not reach statistical significance, and there were more transaminase elevations with 80 mg, which tempers enthusiasm but still supports event reduction in high-risk patients [^afa873a5]. The TNT trial in stable CHD demonstrated a 22% relative risk reduction in major cardiovascular events with atorvastatin 80 mg versus 10 mg, with achieved LDL-C of 77 mg/dL versus 101 mg/dL, reinforcing the benefit of more intensive LDL-C lowering in very high-risk patients [^1b5a9226]. Let me also consider PROVE IT-TIMI 22 in ACS, where atorvastatin 80 mg outperformed pravastatin 40 mg with a 16% reduction in the composite endpoint and lower achieved LDL-C, supporting early, intensive therapy after ACS [^d709a5b3].
+> Next, I should review outcome data in secondary prevention. The IDEAL trial in post-MI patients showed that atorvastatin 80 mg reduced nonfatal MI and major cardiovascular events versus simvastatin 20–40 mg, though the primary composite of major coronary events did not reach statistical significance, and there were more transaminase elevations with 80 mg, which tempers enthusiasm but still supports event reduction in high-risk patients [^115VRR2C]. The TNT trial in stable CHD demonstrated a 22% relative risk reduction in major cardiovascular events with atorvastatin 80 mg versus 10 mg, with achieved LDL-C of 77 mg/dL versus 101 mg/dL, reinforcing the benefit of more intensive LDL-C lowering in very high-risk patients [^111hZ65B]. Let me also consider PROVE IT-TIMI 22 in ACS, where atorvastatin 80 mg outperformed pravastatin 40 mg with a 16% reduction in the composite endpoint and lower achieved LDL-C, supporting early, intensive therapy after ACS [^116VoaXt].
 
-> Hold on, I should verify benefits in older adults and special populations. In TNT, patients aged 65 and older experienced a 19% relative risk reduction in major cardiovascular events with high-dose atorvastatin versus low-dose, without excess persistent CK elevations, supporting intensification even in older secondary prevention patients when tolerated [^1b5a9226]. In diabetes, high-dose atorvastatin achieves greater non-HDL-C goal attainment and modifies atherogenic lipoproteins more than low-dose, aligning with broader evidence that aggressive LDL-C lowering reduces events in diabetes, including older adults [^2881545b] [^30709c22]. For ACS patients undergoing PCI, short-term high-dose atorvastatin pretreatment reduces 30-day MACE and improves TIMI flow, suggesting early pleiotropic and plaque-stabilizing effects in the peri-procedural window [^b552d77d].
+> Hold on, I should verify benefits in older adults and special populations. In TNT, patients aged 65 and older experienced a 19% relative risk reduction in major cardiovascular events with high-dose atorvastatin versus low-dose, without excess persistent CK elevations, supporting intensification even in older secondary prevention patients when tolerated [^111hZ65B]. In diabetes, high-dose atorvastatin achieves greater non-HDL-C goal attainment and modifies atherogenic lipoproteins more than low-dose, aligning with broader evidence that aggressive LDL-C lowering reduces events in diabetes, including older adults [^11233wpE] [^112EpELy]. For ACS patients undergoing PCI, short-term high-dose atorvastatin pretreatment reduces 30-day MACE and improves TIMI flow, suggesting early pleiotropic and plaque-stabilizing effects in the peri-procedural window [^115dpatt].
 
-> I need to check safety carefully. High-dose atorvastatin is generally well tolerated, but liver enzyme elevations are more frequent: persistent ALT > 3× ULN occurred in about 0.6% with 80 mg versus 0.1% with 10 mg in pooled analyses, and serious myopathy and rhabdomyolysis remain rare, with no excess signal for rhabdomyolysis versus lower doses in long-term trials, though vigilance is warranted, especially with interacting drugs or comorbidities [^016d6401] [^138bad97] [^e1ab14a5]. Muscle symptoms occur in roughly 1–3% in trials, but observational cohorts suggest higher rates in practice, so I should counsel patients and reassess if symptoms emerge, keeping in mind that many cases are mild and manageable with dose adjustment or switching agents [^016d6401] [^798805e9]. I should also remember that high-dose simvastatin carries a markedly higher myopathy risk, which is why simvastatin 80 mg is not recommended, whereas atorvastatin 80 mg remains acceptable when indicated and monitored [^1e9724fd] [^69a6f147].
+> I need to check safety carefully. High-dose atorvastatin is generally well tolerated, but liver enzyme elevations are more frequent: persistent ALT > 3× ULN occurred in about 0.6% with 80 mg versus 0.1% with 10 mg in pooled analyses, and serious myopathy and rhabdomyolysis remain rare, with no excess signal for rhabdomyolysis versus lower doses in long-term trials, though vigilance is warranted, especially with interacting drugs or comorbidities [^11137jPE] [^111VygWA] [^116mZgKv]. Muscle symptoms occur in roughly 1–3% in trials, but observational cohorts suggest higher rates in practice, so I should counsel patients and reassess if symptoms emerge, keeping in mind that many cases are mild and manageable with dose adjustment or switching agents [^11137jPE] [^1147BC3S]. I should also remember that high-dose simvastatin carries a markedly higher myopathy risk, which is why simvastatin 80 mg is not recommended, whereas atorvastatin 80 mg remains acceptable when indicated and monitored [^111nMPzC] [^113hdmti].
 
-> But wait, what about intracranial hemorrhage risk at very low LDL-C with high-dose statins. A VA/DoD synthesis notes uncertainty, with one meta-analysis suggesting a possible increase and a larger, more comprehensive analysis showing no significant increase in ICH with high-dose statins, so I should individualize risk, especially in patients with cerebrovascular disease or prior hemorrhagic stroke, and avoid overly aggressive targets in those with high bleeding risk [^3aa334bf]. I should double-check that this does not negate the clear secondary prevention benefit of high-intensity statins in ischemic stroke, where SPARCL showed reduced recurrent stroke with atorvastatin 80 mg, albeit with a small increase in hemorrhagic stroke in a subset, reinforcing the need to balance risk and etiology [^30709c22].
+> But wait, what about intracranial hemorrhage risk at very low LDL-C with high-dose statins. A VA/DoD synthesis notes uncertainty, with one meta-analysis suggesting a possible increase and a larger, more comprehensive analysis showing no significant increase in ICH with high-dose statins, so I should individualize risk, especially in patients with cerebrovascular disease or prior hemorrhagic stroke, and avoid overly aggressive targets in those with high bleeding risk [^112Vw6ra]. I should double-check that this does not negate the clear secondary prevention benefit of high-intensity statins in ischemic stroke, where SPARCL showed reduced recurrent stroke with atorvastatin 80 mg, albeit with a small increase in hemorrhagic stroke in a subset, reinforcing the need to balance risk and etiology [^112EpELy].
 
-> Next, I should review guideline-supported indications. High-intensity atorvastatin is recommended for secondary prevention in clinical ASCVD, for primary prevention in adults with LDL-C ≥ 190 mg/dL, for adults aged 40–75 years with diabetes, and for those with elevated 10-year ASCVD risk using the pooled cohort equations, with the caveat that shared decision-making is essential in older adults and those with borderline or intermediate risk [^1e9724fd] [^180dfb34]. For adults older than 75 years, guidelines support continuation of high-intensity statins for secondary prevention if tolerated, and allow moderate-intensity therapy for primary prevention when risk is elevated, emphasizing function, frailty, and patient preferences [^a02c1e1a] [^b9786881]. I should confirm that diabetes standards endorse high-intensity statins in diabetes unless contraindicated, which they do, including in older adults when appropriate [^6f59290d] [^30709c22].
+> Next, I should review guideline-supported indications. High-intensity atorvastatin is recommended for secondary prevention in clinical ASCVD, for primary prevention in adults with LDL-C ≥ 190 mg/dL, for adults aged 40–75 years with diabetes, and for those with elevated 10-year ASCVD risk using the pooled cohort equations, with the caveat that shared decision-making is essential in older adults and those with borderline or intermediate risk [^111nMPzC] [^111cfQ99]. For adults older than 75 years, guidelines support continuation of high-intensity statins for secondary prevention if tolerated, and allow moderate-intensity therapy for primary prevention when risk is elevated, emphasizing function, frailty, and patient preferences [^1156Tqa1] [^115jy9sn]. I should confirm that diabetes standards endorse high-intensity statins in diabetes unless contraindicated, which they do, including in older adults when appropriate [^113r5aGL] [^112EpELy].
 
-> I will now examine practical prescribing and monitoring. Let me first confirm that atorvastatin 40–80 mg can be initiated based on risk category, with 40 mg reasonable when a gentler high-intensity start is preferred and 80 mg when rapid, maximal LDL-C lowering is prioritized, such as after ACS or in very high-risk patients, with reassessment of LDL-C at 4–12 weeks to gauge response and adherence [^1e9724fd] [^798805e9]. I should check liver enzymes at baseline and if symptoms arise, and consider checking a CK if muscle symptoms are reported, recognizing that routine CK monitoring is not required in asymptomatic patients, and I should review drug interactions, especially CYP3A4 inhibitors, before choosing 80 mg [^e1ab14a5] [^1e9724fd]. If high-dose therapy is not tolerated, I should switch to an alternative high-intensity agent such as rosuvastatin 20–40 mg, or use moderate-intensity therapy with or without ezetimibe, which still yields meaningful risk reduction when high-intensity is not feasible [^1e9724fd] [^4f5a4df4].
+> I will now examine practical prescribing and monitoring. Let me first confirm that atorvastatin 40–80 mg can be initiated based on risk category, with 40 mg reasonable when a gentler high-intensity start is preferred and 80 mg when rapid, maximal LDL-C lowering is prioritized, such as after ACS or in very high-risk patients, with reassessment of LDL-C at 4–12 weeks to gauge response and adherence [^111nMPzC] [^1147BC3S]. I should check liver enzymes at baseline and if symptoms arise, and consider checking a CK if muscle symptoms are reported, recognizing that routine CK monitoring is not required in asymptomatic patients, and I should review drug interactions, especially CYP3A4 inhibitors, before choosing 80 mg [^116mZgKv] [^111nMPzC]. If high-dose therapy is not tolerated, I should switch to an alternative high-intensity agent such as rosuvastatin 20–40 mg, or use moderate-intensity therapy with or without ezetimibe, which still yields meaningful risk reduction when high-intensity is not feasible [^111nMPzC] [^1132eMY7].
 
-> Hold on, I should verify a few nuances. Some Asian datasets suggest higher rates of adverse effects at 80 mg, prompting some trials to cap at 40 mg in certain populations, so I should individualize and consider starting at 40 mg with uptitration if needed and tolerated, balancing efficacy and safety in shared decision-making [^70b51a29]. Also, while pleiotropic effects like CRP lowering and ROCK inhibition are intriguing, the magnitude of clinical benefit tracks closely with LDL-C reduction, so I should not over-attribute non-lipid effects when counseling patients about expected outcomes [^ce39335a] [^f807e7e2].
+> Hold on, I should verify a few nuances. Some Asian datasets suggest higher rates of adverse effects at 80 mg, prompting some trials to cap at 40 mg in certain populations, so I should individualize and consider starting at 40 mg with uptitration if needed and tolerated, balancing efficacy and safety in shared decision-making [^113t6Sic]. Also, while pleiotropic effects like CRP lowering and ROCK inhibition are intriguing, the magnitude of clinical benefit tracks closely with LDL-C reduction, so I should not over-attribute non-lipid effects when counseling patients about expected outcomes [^116GjfQm] [^117LiauX].
 
-> In summary, high-dose atorvastatin at 40–80 mg daily is a guideline-endorsed, evidence-based strategy for high and very high-risk patients, achieving greater LDL-C lowering and reducing cardiovascular events in secondary prevention, ACS, diabetes, and selected older adults, with a safety profile that is acceptable when patients are appropriately selected and monitored, and with alternatives available when intolerance or interactions arise [^1e9724fd] [^afa873a5] [^1b5a9226] [^30709c22] [^016d6401].
+> In summary, high-dose atorvastatin at 40–80 mg daily is a guideline-endorsed, evidence-based strategy for high and very high-risk patients, achieving greater LDL-C lowering and reducing cardiovascular events in secondary prevention, ACS, diabetes, and selected older adults, with a safety profile that is acceptable when patients are appropriately selected and monitored, and with alternatives available when intolerance or interactions arise [^111nMPzC] [^115VRR2C] [^111hZ65B] [^112EpELy] [^11137jPE].
 
 ---
 
-High-dose atorvastatin (40–80 mg/day) is indicated for **high-intensity LDL-C lowering** in patients with clinical ASCVD, LDL-C ≥ 190 mg/dL, or diabetes with elevated ASCVD risk, and is first-line after ACS to reduce recurrent events [^1e9724fd] [^180dfb34] [^6f59290d]. It lowers LDL-C by about **50–60%** and reduces cardiovascular events, but increases the risk of liver enzyme elevations and muscle symptoms; routine monitoring of liver enzymes is recommended, and patients should be counseled on muscle symptoms and drug interactions [^4425dee1] [^afa873a5] [^e1ab14a5]. Use the lowest effective dose, consider drug interactions, and adjust therapy if intolerance occurs [^b750cd86].
+High-dose atorvastatin (40–80 mg/day) is indicated for **high-intensity LDL-C lowering** in patients with clinical ASCVD, LDL-C ≥ 190 mg/dL, or diabetes with elevated ASCVD risk, and is first-line after ACS to reduce recurrent events [^111nMPzC] [^111cfQ99] [^113r5aGL]. It lowers LDL-C by about **50–60%** and reduces cardiovascular events, but increases the risk of liver enzyme elevations and muscle symptoms; routine monitoring of liver enzymes is recommended, and patients should be counseled on muscle symptoms and drug interactions [^112k2swe] [^115VRR2C] [^116mZgKv]. Use the lowest effective dose, consider drug interactions, and adjust therapy if intolerance occurs [^115gmsjj].
 
 ---
 
@@ -45,13 +45,13 @@ High-dose atorvastatin (40–80 mg/day) is indicated for **high-intensity LDL-C 
 
 High-dose atorvastatin is **recommended** for the following clinical scenarios:
 
-- **Clinical ASCVD**: Secondary prevention in patients with established ASCVD (e.g. coronary artery disease, cerebrovascular disease, peripheral arterial disease) [^1e9724fd] [^180dfb34].
+- **Clinical ASCVD**: Secondary prevention in patients with established ASCVD (e.g. coronary artery disease, cerebrovascular disease, peripheral arterial disease) [^111nMPzC] [^111cfQ99].
 
-- **LDL-C ≥ 190 mg/dL**: Primary prevention in patients with severe hypercholesterolemia [^1e9724fd] [^180dfb34].
+- **LDL-C ≥ 190 mg/dL**: Primary prevention in patients with severe hypercholesterolemia [^111nMPzC] [^111cfQ99].
 
-- **Diabetes with elevated ASCVD risk**: Primary prevention in patients aged 40–75 years with diabetes and elevated ASCVD risk [^1e9724fd] [^6f59290d].
+- **Diabetes with elevated ASCVD risk**: Primary prevention in patients aged 40–75 years with diabetes and elevated ASCVD risk [^111nMPzC] [^113r5aGL].
 
-- **Acute coronary syndrome (ACS)**: High-intensity statin therapy is recommended immediately after ACS to reduce recurrent cardiovascular events [^1e9724fd] [^d709a5b3].
+- **Acute coronary syndrome (ACS)**: High-intensity statin therapy is recommended immediately after ACS to reduce recurrent cardiovascular events [^111nMPzC] [^116VoaXt].
 
 ---
 
@@ -61,9 +61,9 @@ High-dose atorvastatin produces **significant reductions** in LDL-C and cardiova
 
 | **Study** | **LDL-C reduction** | **Cardiovascular outcomes** |
 |-|-|-|
-| IDEAL (atorvastatin 80 mg vs simvastatin 20–40 mg) | LDL-C: 81 mg/dL vs 104 mg/dL | - 13% reduction in major coronary events <br/> - 16% reduction in nonfatal MI [^afa873a5] |
+| IDEAL (atorvastatin 80 mg vs simvastatin 20–40 mg) | LDL-C: 81 mg/dL vs 104 mg/dL | - 13% reduction in major coronary events <br/> - 16% reduction in nonfatal MI [^115VRR2C] |
 | TNT (atorvastatin 80 mg vs 10 mg) | LDL-C: 77 mg/dL vs 101 mg/dL | - 22% reduction in major cardiovascular events <br/> - 22% reduction in stroke [^notfound] |
-| PROVE IT-TIMI 22 (atorvastatin 80 mg vs pravastatin 40 mg) | LDL-C: 62 mg/dL vs 95 mg/dL | - 16% reduction in death, MI, UA requiring rehospitalization, revascularization, or stroke [^d709a5b3] |
+| PROVE IT-TIMI 22 (atorvastatin 80 mg vs pravastatin 40 mg) | LDL-C: 62 mg/dL vs 95 mg/dL | - 16% reduction in death, MI, UA requiring rehospitalization, revascularization, or stroke [^116VoaXt] |
 
 ---
 
@@ -75,9 +75,9 @@ These studies demonstrate that high-dose atorvastatin achieves greater LDL-C low
 
 High-dose atorvastatin is generally well tolerated, but clinicians should be aware of the following **adverse effects**:
 
-- **Hepatic effects**: Elevated liver enzymes (ALT/AST) occur in approximately 0.5–2% of patients, typically within the first 3 months of therapy. Persistent elevations > 3× ULN occur in about 0.6% of patients on atorvastatin 80 mg [^016d6401] [^e1ab14a5].
+- **Hepatic effects**: Elevated liver enzymes (ALT/AST) occur in approximately 0.5–2% of patients, typically within the first 3 months of therapy. Persistent elevations > 3× ULN occur in about 0.6% of patients on atorvastatin 80 mg [^11137jPE] [^116mZgKv].
 
-- **Muscle-related effects**: Myalgia occurs in about 1–3% of patients, while rhabdomyolysis is rare (< 0.1%) but can be severe. Risk increases with concomitant CYP3A4 inhibitors, renal impairment, or hypothyroidism [^016d6401] [^e1ab14a5].
+- **Muscle-related effects**: Myalgia occurs in about 1–3% of patients, while rhabdomyolysis is rare (< 0.1%) but can be severe. Risk increases with concomitant CYP3A4 inhibitors, renal impairment, or hypothyroidism [^11137jPE] [^116mZgKv].
 
 - **Other effects**: Rare reports of cognitive impairment, hyperglycemia, and immune-mediated necrotizing myopathy have been described [^notfound].
 
@@ -97,15 +97,15 @@ Regular monitoring and patient counseling are **essential** to minimize adverse 
 
 ## Comparison with other statins
 
-High-dose atorvastatin is **more potent** than moderate-dose simvastatin or pravastatin, achieving greater LDL-C lowering and cardiovascular risk reduction. However, rosuvastatin 20–40 mg achieves comparable or greater LDL-C lowering with a similar safety profile, and the choice between high-dose atorvastatin and rosuvastatin should be individualized based on patient characteristics and tolerability [^ee9cc814] [^ce949a39].
+High-dose atorvastatin is **more potent** than moderate-dose simvastatin or pravastatin, achieving greater LDL-C lowering and cardiovascular risk reduction. However, rosuvastatin 20–40 mg achieves comparable or greater LDL-C lowering with a similar safety profile, and the choice between high-dose atorvastatin and rosuvastatin should be individualized based on patient characteristics and tolerability [^1176kiRR] [^116HGN4Y].
 
 ---
 
 ## Special populations and considerations
 
-- **Elderly patients**: High-dose atorvastatin is effective and generally safe in older adults, but clinicians should monitor closely for adverse effects and consider dose adjustments if intolerance occurs [^1b5a9226] [^a02c1e1a].
+- **Elderly patients**: High-dose atorvastatin is effective and generally safe in older adults, but clinicians should monitor closely for adverse effects and consider dose adjustments if intolerance occurs [^111hZ65B] [^1156Tqa1].
 
-- **Patients with chronic kidney disease (CKD)**: Atorvastatin does not require dose adjustment in CKD, but clinicians should remain vigilant for muscle-related adverse effects [^55d36511].
+- **Patients with chronic kidney disease (CKD)**: Atorvastatin does not require dose adjustment in CKD, but clinicians should remain vigilant for muscle-related adverse effects [^113CExFr].
 
 - **Patients with liver disease**: Atorvastatin is contraindicated in active liver disease or unexplained persistent elevations in liver enzymes [^notfound].
 
@@ -115,11 +115,11 @@ High-dose atorvastatin is **more potent** than moderate-dose simvastatin or prav
 
 Current guidelines emphasize **individualized therapy**, balancing efficacy and safety:
 
-- **High-intensity statins**: Recommended for clinical ASCVD, LDL-C ≥ 190 mg/dL, and diabetes with elevated ASCVD risk, unless contraindicated or not tolerated [^1e9724fd] [^180dfb34].
+- **High-intensity statins**: Recommended for clinical ASCVD, LDL-C ≥ 190 mg/dL, and diabetes with elevated ASCVD risk, unless contraindicated or not tolerated [^111nMPzC] [^111cfQ99].
 
 - **Monitoring**: Regular assessment of adherence, lipid levels, liver enzymes, and clinical symptoms is recommended [^notfound].
 
-- **Alternative therapy**: If high-dose atorvastatin is not tolerated, consider moderate-intensity statins or alternative lipid-lowering therapies (e.g. ezetimibe, PCSK9 inhibitors) [^b750cd86] [^4f5a4df4].
+- **Alternative therapy**: If high-dose atorvastatin is not tolerated, consider moderate-intensity statins or alternative lipid-lowering therapies (e.g. ezetimibe, PCSK9 inhibitors) [^115gmsjj] [^1132eMY7].
 
 ---
 
@@ -129,7 +129,7 @@ High-dose atorvastatin (40–80 mg/day) is effective for **high-intensity LDL-C 
 
 ## References
 
-### Lipid-lowering efficacy of atorvastatin [^4425dee1]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
+### Lipid-lowering efficacy of atorvastatin [^112k2swe]. The Cochrane Database of Systematic Reviews (2015). Low credibility.
 
 Background
 
@@ -162,7 +162,7 @@ This update resulted in no change to the main conclusions of the review but sign
 
 ---
 
-### High-dose atorvastatin is superior to moderate-dose simvastatin in preventing peripheral arterial disease [^ecc9c28a]. Heart (2015). Low credibility.
+### High-dose atorvastatin is superior to moderate-dose simvastatin in preventing peripheral arterial disease [^11743r7B]. Heart (2015). Low credibility.
 
 Objectives
 
@@ -182,7 +182,7 @@ NCT00159835 (URL: http://clinicaltrials.gov/show/NCT00159835).
 
 ---
 
-### Lipid lowering efficacy of atorvastatin [^01f6bb08]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Lipid lowering efficacy of atorvastatin [^1113uryu]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -214,13 +214,13 @@ Blood total cholesterol, LDL-cholesterol and triglyceride lowering effect of ato
 
 ---
 
-### Safety of high-dose atorvastatin therapy [^138bad97]. The American Journal of Cardiology (2005). Low credibility.
+### Safety of high-dose atorvastatin therapy [^111VygWA]. The American Journal of Cardiology (2005). Low credibility.
 
 This article reviews the safety of statins, with emphasis on high-dose atorvastatin (80 mg), the agent with the most efficacy data for clinical outcomes. Although elevated levels of hepatic enzymes were of concern when statins were first introduced, a review of data from large clinical trials shows that elevations in hepatic enzymes are rare and do not lead to clinically significant liver disease. Despite the withdrawal of cerivastatin because of fatal rhabdomyolysis, the risk of this complication with other statins is extremely low. Mild and often transient myalgia is more commonly reported. The safety of high-dose atorvastatin has been evaluated in > 11,000 patients, and rates of clinically significant myopathy and elevated hepatic enzymes were extremely low. Simvastatin at doses up to 40 mg is also associated with low rates of elevated hepatic enzymes and myopathy. However, the 80-mg dose of simvastatin carries a risk of myopathy (muscle symptoms and creatine kinase levels > 10,000 U/L) of approximately 1 in 250. The clinical benefits of preventing vascular events, myocardial infarction, stroke, and need for revascularization outweigh the low rates of adverse events associated with high-dose statin therapy in high- and intermediate-risk patients.
 
 ---
 
-### High-dose atorvastatin vs usual-dose simvastatin for secondary prevention after myocardial infarction: the IDEAL study: a randomized controlled trial [^afa873a5]. JAMA (2005). Excellent credibility.
+### High-dose atorvastatin vs usual-dose simvastatin for secondary prevention after myocardial infarction: the IDEAL study: a randomized controlled trial [^115VRR2C]. JAMA (2005). Excellent credibility.
 
 Context
 
@@ -252,7 +252,7 @@ In this study of patients with previous MI, intensive lowering of LDL-C did not 
 
 ---
 
-### To what extent do high-intensity statins reduce low-density lipoprotein cholesterol in each of the four statin benefit groups identified by the 2013 American college of cardiology / American Heart Association guidelines? A VOYAGER meta-analysis [^ee9cc814]. Atherosclerosis (2015). Low credibility.
+### To what extent do high-intensity statins reduce low-density lipoprotein cholesterol in each of the four statin benefit groups identified by the 2013 American college of cardiology / American Heart Association guidelines? A VOYAGER meta-analysis [^1176kiRR]. Atherosclerosis (2015). Low credibility.
 
 Background
 
@@ -268,7 +268,7 @@ The choice and dose of statin have an impact both on the percentage LDL-C reduct
 
 ---
 
-### A dose-specific meta-analysis of lipid changes in randomized controlled trials of atorvastatin and simvastatin [^a6184d3c]. Clinical Therapeutics (2007). Low credibility.
+### A dose-specific meta-analysis of lipid changes in randomized controlled trials of atorvastatin and simvastatin [^115FF7DV]. Clinical Therapeutics (2007). Low credibility.
 
 Background
 
@@ -292,7 +292,7 @@ In these meta-analyses, atorvastatin was 2 to 4 times as potent as simvastatin i
 
 ---
 
-### Efficacy of high-intensity atorvastatin for Asian patients undergoing percutaneous coronary intervention [^305c1660]. The Annals of Pharmacotherapy (2016). Low credibility.
+### Efficacy of high-intensity atorvastatin for Asian patients undergoing percutaneous coronary intervention [^112EhLXy]. The Annals of Pharmacotherapy (2016). Low credibility.
 
 Background
 
@@ -316,7 +316,7 @@ Whereas stable angina patients derive similar benefit from moderate- and high-in
 
 ---
 
-### Outcomes of using high-or low-dose atorvastatin in patients 65 years of age or older with stable coronary heart disease [^1b5a9226]. Annals of Internal Medicine (2007). Low credibility.
+### Outcomes of using high-or low-dose atorvastatin in patients 65 years of age or older with stable coronary heart disease [^111hZ65B]. Annals of Internal Medicine (2007). Low credibility.
 
 Background
 
@@ -360,7 +360,7 @@ The analysis suggests that additional clinical benefit can be achieved by treati
 
 ---
 
-### Efficacy of short-term high-dose atorvastatin pretreatment in patients with acute coronary syndrome undergoing percutaneous coronary intervention: a meta-analysis of nine randomized controlled trials [^b552d77d]. Clinical Cardiology (2013). Low credibility.
+### Efficacy of short-term high-dose atorvastatin pretreatment in patients with acute coronary syndrome undergoing percutaneous coronary intervention: a meta-analysis of nine randomized controlled trials [^115dpatt]. Clinical Cardiology (2013). Low credibility.
 
 Background
 
@@ -384,7 +384,7 @@ The use of short-term high-dose atorvastatin pretreatment is safe and significan
 
 ---
 
-### Impact of high-dose atorvastatin in coronary heart disease patients age 65 to 78 years [^94d52f5b]. Clinical Cardiology (2009). Low credibility.
+### Impact of high-dose atorvastatin in coronary heart disease patients age 65 to 78 years [^114oemtN]. Clinical Cardiology (2009). Low credibility.
 
 Background
 
@@ -408,13 +408,13 @@ Our data support the efficacy and safety of aggressive lipid management with ato
 
 ---
 
-### A review of high-dose statin therapy: targeting cholesterol and inflammation in atherosclerosis [^19515221]. European Heart Journal (2007). Low credibility.
+### A review of high-dose statin therapy: targeting cholesterol and inflammation in atherosclerosis [^111eY1JY]. European Heart Journal (2007). Low credibility.
 
 Lipid lowering with 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors or 'statins' has dramatically reduced morbidity and mortality in patients with established cardiovascular disease. Recently, there have been multiple studies investigating the role of high-dose statin therapy with more aggressive lipid lowering in this setting. Concomitantly, there is increasing evidence implicating a role of inflammation in the pathogenesis of atherosclerosis. These high-dose statin trials and other studies have also provided a wealth of data suggesting that statins have anti-inflammatory and anti-oxidant properties that go beyond their lipid-lowering effects. In this review, we will provide a brief overview of recent, large-scale, randomized, placebo and active controlled trials of high-dose statin therapy in the setting of stable and unstable coronary artery disease and percutaneous coronary intervention. Further, we will discuss the evidence for effects of high-dose statin therapy on inflammation and C-reactive protein.
 
 ---
 
-### American diabetes association indications for statins in diabetes: is there evidence? [^d709a5b3]. Diabetes Care (2009). Low credibility.
+### American diabetes association indications for statins in diabetes: is there evidence? [^116VoaXt]. Diabetes Care (2009). Low credibility.
 
 SECONDARY PREVENTION: HOW LOW SHOULD WE GO?
 
@@ -430,7 +430,7 @@ Another important trial was the Treating to New Targets (TNT) study. In one arm 
 
 ---
 
-### American diabetes association indications for statins in diabetes: is there evidence? [^bc77fbc2]. Diabetes Care (2009). Low credibility.
+### American diabetes association indications for statins in diabetes: is there evidence? [^115pQySq]. Diabetes Care (2009). Low credibility.
 
 Table 1
 ADA evidence grading system for clinical practice recommendations
@@ -443,7 +443,7 @@ The second question is what is the evidence for the target LDL in secondary prev
 
 ---
 
-### Effect of high-dose atorvastatin on the cardiovascular risk associated with individual components of metabolic syndrome: a subanalysis of the treating to new targets (TNT) study [^992b06af]. Diabetes, Obesity & Metabolism (2016). Low credibility.
+### Effect of high-dose atorvastatin on the cardiovascular risk associated with individual components of metabolic syndrome: a subanalysis of the treating to new targets (TNT) study [^114v5ZLJ]. Diabetes, Obesity & Metabolism (2016). Low credibility.
 
 Aims
 
@@ -463,7 +463,7 @@ Treatment with high-dose atorvastatin to a mean LDL cholesterol level of 2.0mmol
 
 ---
 
-### Effect of individualizing starting doses of a statin according to baseline LDL-cholesterol levels on achieving cholesterol targets: the achieve cholesterol targets fast with atorvastatin stratified titration (ACTFAST) study [^af4c1c9d]. Atherosclerosis (2007). Low credibility.
+### Effect of individualizing starting doses of a statin according to baseline LDL-cholesterol levels on achieving cholesterol targets: the achieve cholesterol targets fast with atorvastatin stratified titration (ACTFAST) study [^115UtQ6Q]. Atherosclerosis (2007). Low credibility.
 
 Aims
 
@@ -479,13 +479,13 @@ This study confirms that individualizing the starting dose of atorvastatin accor
 
 ---
 
-### Combination therapy with statins: who benefits? [^d001222e]. Endocrinology and Metabolism Clinics of North America (2014). Low credibility.
+### Combination therapy with statins: who benefits? [^116KNohX]. Endocrinology and Metabolism Clinics of North America (2014). Low credibility.
 
 Many lipid-lowering drugs improve cardiovascular (CV) outcomes. However, when therapies have been studied in addition to statins, it has been challenging to show an additional clinical benefit in terms of CV event reduction, although overall safety seems acceptable. This debate has been complicated by recent guidelines that emphasize treatment with high-potency statin monotherapy. Combination therapy allows more patients to successfully reach their ideal lipid targets. Further testing of novel therapies may introduce an era of potent low-density lipoprotein decrease without dependence on statins, but until then, they remain the mainstay of therapy.
 
 ---
 
-### Effects of low doses of simvastatin and atorvastatin on high-density lipoprotein cholesterol levels in patients with hypercholesterolemia [^7861c8d6]. Clinical Therapeutics (2001). Low credibility.
+### Effects of low doses of simvastatin and atorvastatin on high-density lipoprotein cholesterol levels in patients with hypercholesterolemia [^1145UMp9]. Clinical Therapeutics (2001). Low credibility.
 
 Background
 
@@ -509,7 +509,7 @@ The findings from this study suggest that the HDL-C-increasing effect of simvast
 
 ---
 
-### Cost-effectiveness of high-dose atorvastatin compared with regular dose simvastatin [^566aa753]. European Heart Journal (2007). Low credibility.
+### Cost-effectiveness of high-dose atorvastatin compared with regular dose simvastatin [^113D7m1t]. European Heart Journal (2007). Low credibility.
 
 Aims
 
@@ -525,7 +525,7 @@ In the prevention of cardiovascular events among patients with a previous MI, hi
 
 ---
 
-### Comparison of the dose-response relationships of 2 lipid-lowering agents: a Bayesian meta-analysis [^d03a5345]. American Heart Journal (2003). Low credibility.
+### Comparison of the dose-response relationships of 2 lipid-lowering agents: a Bayesian meta-analysis [^116Ki1tG]. American Heart Journal (2003). Low credibility.
 
 Background
 
@@ -545,7 +545,7 @@ Bayesian meta-analysis of results from related studies allows the comparison of 
 
 ---
 
-### Differential effects of simvastatin and atorvastatin on high-density lipoprotein cholesterol and apolipoprotein A-I are consistent across hypercholesterolemic patient subgroups [^0b72ca7a]. Clinical Cardiology (2003). Low credibility.
+### Differential effects of simvastatin and atorvastatin on high-density lipoprotein cholesterol and apolipoprotein A-I are consistent across hypercholesterolemic patient subgroups [^111HyRQd]. Clinical Cardiology (2003). Low credibility.
 
 Background
 
@@ -565,13 +565,13 @@ The data presented show that, across different hypercholesterolemic patient subg
 
 ---
 
-### Safety of aggressive lipid management [^49e749c9]. Journal of the American College of Cardiology (2007). Low credibility.
+### Safety of aggressive lipid management [^112tZnRv]. Journal of the American College of Cardiology (2007). Low credibility.
 
 Data from recent clinical trials of high- versus moderate-dose statin therapy support the recommendation to achieve a low-density lipoprotein (LDL) < 100 mg/dl in high-risk patients and reveal that many patients will require a high-dose statin to achieve this goal. Overall, low rates of serious musculoskeletal (< 0.6%) and hepatic (< 1.3%) toxicity have been observed with high-dose statin therapy. In the long-term trials, atorvastatin 80 mg had higher rates of persistent transaminase elevations but rates of myopathy and rhabdomyolysis similar to lower doses of statins. The rate of myopathy and rhabdomyolysis for simvastatin 80 mg, although still low, was about 4x higher than for atorvastatin 80 mg and lower doses of statin. A similar margin of safety would be expected in properly selected patients with characteristics similar to those who participated in the clinical trials. High-dose statin therapy or combination therapy will be required for the large majority of very high-risk patients to achieve the optional LDL goal of < 70 mg/dl. While the combination of ezetimibe, bile-acid sequestering agents, niacin, and fenofibrate with moderate dose statins appears to be reasonably safe, the long-term safety of combination with high-dose statins remains to be established. In order to optimize patient outcomes, clinicians should be aware of specific patient characteristics, such as advancing age, gender, body mass index, or glomerular filtration rate, which predict muscle and hepatic statin toxicity.
 
 ---
 
-### Effect of high-dose statin therapy on drug-eluting stent strut coverage [^83eeee9d]. Arteriosclerosis, Thrombosis, and Vascular Biology (2015). Low credibility.
+### Effect of high-dose statin therapy on drug-eluting stent strut coverage [^114Nbdgx]. Arteriosclerosis, Thrombosis, and Vascular Biology (2015). Low credibility.
 
 Objective
 
@@ -587,13 +587,13 @@ This study suggested that high-dose statin therapy might provide a beneficial ef
 
 ---
 
-### Long-term safety and efficacy of high-dose atorvastatin treatment in patients with familial hypercholesterolemia [^47f2013f]. The American Journal of Cardiology (2005). Low credibility.
+### Long-term safety and efficacy of high-dose atorvastatin treatment in patients with familial hypercholesterolemia [^112qfQeJ]. The American Journal of Cardiology (2005). Low credibility.
 
 In the 2-year Atorvastatin versus Simvastatin on Atherosclerosis Progression extension study, patients with familial hypercholesterolemia who continued to take atorvastatin 80 mg for an additional 2 years had complete arrest of the progression of mean carotid intima-media thickness (0.89 mm at the start vs 0.90 mm at the end of the study, p = 0.58). In contrast, patients previously taking simvastatin 40 mg had significant regression of intima-media thickness (0.95 mm at the start vs 0.92 mm at the end of the study, p = 0.01). Therefore, both placebo- and statin-treated patients with familial hypercholesterolemia are best treated with high-dose atorvastatin, a therapeutic regimen that induces atherosclerosis regression and is safe and well tolerated over a 4-year period.
 
 ---
 
-### 2013 cholesterol guidelines revisited: percent LDL cholesterol reduction or attained LDL cholesterol level or both for prognosis? [^f807e7e2]. The American Journal of Medicine (2016). Low credibility.
+### 2013 cholesterol guidelines revisited: percent LDL cholesterol reduction or attained LDL cholesterol level or both for prognosis? [^117LiauX]. The American Journal of Medicine (2016). Low credibility.
 
 Background
 
@@ -613,13 +613,13 @@ In patients with atherosclerotic cardiovascular disease, percent LDL-C reduction
 
 ---
 
-### National Lipid Association recommendations for patient-centered management of dyslipidemia: part 1 – full report [^d4ed0ce5]. Journal of Clinical Lipidology (2015). Medium credibility.
+### National Lipid Association recommendations for patient-centered management of dyslipidemia: part 1 – full report [^116Sfzrg]. Journal of Clinical Lipidology (2015). Medium credibility.
 
 Table 12 — intensity of statin therapy dosing: High-intensity daily dosage ↓ LDL-C ≥ 50% includes Atorvastatin, 40–80 mg and Rosuvastatin, 20–40 mg, while moderate-intensity daily dosage ↓ LDL-C 30% to < 50% includes Atorvastatin, 10–20 mg, Rosuvastatin, 5–10 mg, and Simvastatin, 20–40 mg; individual responses to statin therapy should be expected to vary in clinical practice, and moderate- or high-intensity statin therapy is preferred unless not tolerated.
 
 ---
 
-### Overuse of statins in older adults… [^260c11fb]. AAFP (2019). Medium credibility.
+### Overuse of statins in older adults… [^111yQare]. AAFP (2019). Medium credibility.
 
 He had a coronary stent placed 15 years ago for asymptomatic coronary artery disease that was detected after an exercise stress test. He has visited a cardiologist since the stent placement and is taking 80 mg of atorvastatin per day to reduce his LDL cholesterol to below 80 mg per dL. His family physician is uncertain if Mr. G benefits from the high-dose statin because his primary two symptoms are fatigue and muscle weakness. Mr. G's cardiologist feels that the dose is appropriate, and that his symptoms are not related to the statin. Mr. G's family physician plans to keep him on a statin indefinitely, because statins are required for anyone older than 21 years with a diagnosis of CAD according to the Centers for Medicare and Medicaid Services quality indicator #438.
 
@@ -629,7 +629,7 @@ Resolution of Case Although the Centers for Medicare and Medicaid Services guide
 
 ---
 
-### Preoperative high-dose atorvastatin for prevention of atrial fibrillation after cardiac surgery: a randomized controlled trial [^81ce715a]. The Journal of Thoracic and Cardiovascular Surgery (2011). Low credibility.
+### Preoperative high-dose atorvastatin for prevention of atrial fibrillation after cardiac surgery: a randomized controlled trial [^114KSkBb]. The Journal of Thoracic and Cardiovascular Surgery (2011). Low credibility.
 
 Objective
 
@@ -649,13 +649,13 @@ High-dose atorvastatin for 7 days before cardiac surgery conferred a nonsignific
 
 ---
 
-### KDOQI US commentary on the 2013 KDIGO clinical practice guideline for lipid management in CKD [^55d36511]. American Journal of Kidney Diseases (2015). Medium credibility.
+### KDOQI US commentary on the 2013 KDIGO clinical practice guideline for lipid management in CKD [^113CExFr]. American Journal of Kidney Diseases (2015). Medium credibility.
 
 KDOQI commentary — KDIGO dose recommendations and SHARP evidence in CKD: The KDIGO guideline did not compare or harmonize their recommendations to other lipid guidelines, and the strongest evidence base cited is SHARP, which enrolled individuals older than 40 years with a serum creatinine level ≥ 1.7 mg/dl and an estimated glomerular filtration rate (eGFR) of 27 ± 13 (SD) mL/min/1.73 m². There is less trial evidence for individuals with CKD who do not meet SHARP entry criteria. A noted difference from ACC/AHA is that KDIGO recommends reducing the dose of statins in individuals with an eGFR < 60 mL/min/1.73 m² (ie, avoiding high-intensity statins). In the absence of studies showing adverse effects with higher doses, the authors caution this may cause confusion for those with CKD and a history of acute coronary syndrome, for whom the recommendation is to treat with a high-intensity statin. They also note that labeling states dose adjustment for kidney disease is not required for atorvastatin and that rosuvastatin labeling does not recommend dose adjustment until creatinine clearance is < 30 mL/min/1.73 m².
 
 ---
 
-### High-dose atorvastatin on the pharmacodynamic effects of double-dose clopidogrel in patients undergoing percutaneous coronary interventions: the ACHIDO (atorvastatin and clopidogrel HIgh DOse in stable patients with residual high platelet activity) study [^60e0c9a2]. JACC: Cardiovascular Interventions (2013). Low credibility.
+### High-dose atorvastatin on the pharmacodynamic effects of double-dose clopidogrel in patients undergoing percutaneous coronary interventions: the ACHIDO (atorvastatin and clopidogrel HIgh DOse in stable patients with residual high platelet activity) study [^113UdKGd]. JACC: Cardiovascular Interventions (2013). Low credibility.
 
 Objectives
 
@@ -679,7 +679,7 @@ High-dose atorvastatin significantly improved the PD effects of double-dose clop
 
 ---
 
-### Potent anti-ischaemic effects of statins in chronic stable angina: incremental benefit beyond lipid lowering? [^0bd59bd9]. European Heart Journal (2010). Low credibility.
+### Potent anti-ischaemic effects of statins in chronic stable angina: incremental benefit beyond lipid lowering? [^111JYcXz]. European Heart Journal (2010). Low credibility.
 
 Effects of atorvastatin
 
@@ -693,7 +693,7 @@ Statins are known to reduce vascular inflammation and oxidative stress and impro
 
 ---
 
-### Treatment with ezetimibe plus low-dose atorvastatin compared with higher-dose atorvastatin alone: is sufficient cholesterol-lowering enough to inhibit platelets? [^bf6d4cdc]. Journal of the American College of Cardiology (2007). Low credibility.
+### Treatment with ezetimibe plus low-dose atorvastatin compared with higher-dose atorvastatin alone: is sufficient cholesterol-lowering enough to inhibit platelets? [^115toMAb]. Journal of the American College of Cardiology (2007). Low credibility.
 
 Objectives
 
@@ -717,7 +717,7 @@ Platelet reactivity and a proinflammatory chemokine were reduced more by the hig
 
 ---
 
-### Efficacy of atorvastatin on renal function in patients with contrast-induced nephropathy after percutaneous coronary intervention [^d2b7c0c2]. Journal of Cardiothoracic Surgery (2024). Medium credibility.
+### Efficacy of atorvastatin on renal function in patients with contrast-induced nephropathy after percutaneous coronary intervention [^116PQ7yb]. Journal of Cardiothoracic Surgery (2024). Medium credibility.
 
 Conclusion
 
@@ -725,13 +725,13 @@ In this work, it was found that high-dose atorvastatin demonstrated significant 
 
 ---
 
-### Effects of maximal doses of atorvastatin versus rosuvastatin on small dense low-density lipoprotein cholesterol levels [^3dbc34aa]. The American Journal of Cardiology (2008). Low credibility.
+### Effects of maximal doses of atorvastatin versus rosuvastatin on small dense low-density lipoprotein cholesterol levels [^112aXTjX]. The American Journal of Cardiology (2008). Low credibility.
 
 Maximal doses of atorvastatin and rosuvastatin are highly effective in lowering low-density lipoprotein (LDL) cholesterol and triglyceride levels; however, rosuvastatin has been shown to be significantly more effective than atorvastatin in lowering LDL cholesterol and in increasing high-density lipoprotein (HDL) and its subclasses. Our purpose in this post hoc subanalysis of an open-label study was to compare the effects of daily oral doses of rosuvastatin 40 mg with atorvastatin 80 mg over a 6-week period on direct LDL cholesterol and small dense LDL (sdLDL) cholesterol in 271 hyperlipidemic men and women versus baseline values. Rosuvastatin was significantly (p < 0.01) more effective than atorvastatin in decreasing sdLDL cholesterol (-53% vs -46%), direct LDL cholesterol (-52% vs -50%), total cholesterol/HDL cholesterol ratio (-46% vs -39%), and non-HDL cholesterol (-51% vs -48%), The magnitude of these differences was modest, and the 2 statins caused similar decreases in triglyceride levels (-24% and -26%). In conclusion, our data indicate that the 2 statins, given at their maximal doses, significantly and beneficially alter the entire spectrum of lipoprotein particles, but that rosuvastatin is significantly more effective than atorvastatin in lowering direct LDL cholesterol and sdLDL cholesterol.
 
 ---
 
-### Statins in elderly patients with acute coronary syndrome: an analysis of dose and class effects in typical practice [^224e9c13]. Heart (2007). Low credibility.
+### Statins in elderly patients with acute coronary syndrome: an analysis of dose and class effects in typical practice [^111srz2E]. Heart (2007). Low credibility.
 
 Objective
 
@@ -763,31 +763,31 @@ This analysis of elderly patients with ACS treated in typical care settings does
 
 ---
 
-### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^5e030d36]. Journal of the American College of Cardiology (2016). Medium credibility.
+### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^113QNrwX]. Journal of the American College of Cardiology (2016). Medium credibility.
 
 High-, moderate-, and low-intensity statin therapy dosing and expected LDL-C reduction (Table 5; used in the RCTs reviewed by the expert panel) are summarized as follows: high-intensity therapy "Daily dose lowers LDL-C, on average, by approximately ≥ 50%", with examples "Atorvastatin (40†)–80 mg" and "Rosuvastatin 20 (40) mg"; moderate-intensity therapy "Daily dose lowers LDL-C, on average, by approximately 30% to < 50%", with examples "Atorvastatin 10 (20) mg", "Simvastatin 20–40 mg†", and "Pitavastatin 2–4 mg"; low-intensity therapy "Daily dose lowers LDL-C, on average, by < 30%", with examples "Simvastatin 10 mg", "Pravastatin 10–20 mg", and "Pitavastatin 1 mg".
 
 ---
 
-### Influence of high-dose highly efficient statins on short-term mortality in patients undergoing percutaneous coronary intervention with stenting for acute coronary syndromes [^fe8f1874]. The American Journal of Cardiology (2014). Low credibility.
+### Influence of high-dose highly efficient statins on short-term mortality in patients undergoing percutaneous coronary intervention with stenting for acute coronary syndromes [^117WPvJf]. The American Journal of Cardiology (2014). Low credibility.
 
 Statins are recommended for prevention of progression of cardiovascular disease after percutaneous coronary intervention (PCI). Although high-dose highly efficient statins are recommended, especially in high-risk patients, clinical data are scarce and further investigation in "real-world" settings is needed. One thousand five hundred twenty-eight consecutive patients, who underwent PCI for acute coronary syndrome, were included in a prospective registry from January 2003 to January 2011. In post hoc analysis, cardiovascular risk factors, co-morbidities, and circulating lipid parameters at the time of intervention were evaluated. As a primary end point, all-cause mortality after a follow-up period of 3 months was investigated. Results were compared between patients receiving high-dose highly effective statins (atorvastatin 80 mg or rosuvastatin 20 mg) versus patients receiving low-dose statins or who were without lipid-lowering therapy at the time of discharge. Nine hundred twenty-six patients (60.6%) received high-dose atorvastatin or rosuvastatin and 602 patients (39.4%) received low-dose statin therapy or were not on statins at discharge. Eight patients (0.9%) receiving high-dose statin therapy and 21 patients (3.5%) taking low-dose statins or no statins at discharge died during the 3-month follow-up (hazard ratio 0.244, 95% confidence interval 0.108 to 0.551, p = 0.001). After propensity score adjustment the results remained significant (adjusted hazard ratio for high-dose statins 0.405, 95% confidence interval 0.176 to 0.931, p = 0.033). In conclusion, in this single-center series of 1,528 real-world patients undergoing PCI for acute coronary syndrome, a significant reduction in short-term all-cause mortality could be demonstrated in patients receiving high-dose highly efficient statins compared with patients receiving low-dose statins or no lipid-lowering therapy.
 
 ---
 
-### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^f1c6b169]. Journal of the American College of Cardiology (2019). High credibility.
+### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^117BSkmW]. Journal of the American College of Cardiology (2019). High credibility.
 
 2018 Cholesterol Clinical Practice Guideline — supportive RCT evidence for moderate-intensity statins in intermediate-risk primary prevention: Prior guidance was "based on 3 large-scale exclusively primary-prevention RCTs that demonstrated that moderate-intensity statin therapy… and high-intensity statin therapy… were associated with ASCVD risk reduction that outweighed the observable risks". Subsequently, "a large-scale RCT… confirmed statin benefit from a moderate-intensity dose… in intermediate-risk patients" enrolling "men ≥ 55 years of age and women ≥ 65 years of age". In that trial's placebo group, "the 10-year risk of 'hard' ASCVD was 8.7%, and the risk of the expanded ASCVD endpoint… was 10%", and "After 5.6 years, those assigned to rosuvastatin 10 mg/d demonstrated significant ARR in both primary endpoints with an acceptable safety record".
 
 ---
 
-### Effect of 80 mg / day simvastatin therapy on cardiovascular outcomes in adults with versus without metabolic syndrome [^3fc9d826]. The American Journal of Cardiology (2006). Low credibility.
+### Effect of 80 mg / day simvastatin therapy on cardiovascular outcomes in adults with versus without metabolic syndrome [^112da1zu]. The American Journal of Cardiology (2006). Low credibility.
 
 It is not known whether high-dose statins can reduce the excess burden (and consequent adverse cardiovascular outcomes) of coronary artery disease in patients with metabolic syndrome compared with those without metabolic syndrome. The results of our study suggest that high-dose simvastatin may be required to reduce excess events in very high-risk cohorts with metabolic syndrome.
 
 ---
 
-### Strong decrease of high sensitivity C-reactive protein with high-dose atorvastatin in patients with type 2 diabetes mellitus [^78118dca]. Atherosclerosis (2003). Low credibility.
+### Strong decrease of high sensitivity C-reactive protein with high-dose atorvastatin in patients with type 2 diabetes mellitus [^11451Qo3]. Atherosclerosis (2003). Low credibility.
 
 Objective
 
@@ -807,7 +807,7 @@ In DM2 patients high dose atorvastatin induced a strong reduction in CRP levels.
 
 ---
 
-### Individualized dose-response to statins associated with cardiovascular disease outcomes [^7a9aa248]. JACC: Advances (2024). Medium credibility.
+### Individualized dose-response to statins associated with cardiovascular disease outcomes [^1148mRtj]. JACC: Advances (2024). Medium credibility.
 
 ASCVD survival analysis
 
@@ -817,13 +817,13 @@ Interestingly in our clinical practice-based data, ED 50 was inversely associate
 
 ---
 
-### High-dose versus low-dose pitavastatin in Japanese patients with stable coronary artery disease (REAL-CAD): a randomized superiority trial [^b9f36e00]. Circulation (2018). Low credibility.
+### High-dose versus low-dose pitavastatin in Japanese patients with stable coronary artery disease (REAL-CAD): a randomized superiority trial [^115kgUXZ]. Circulation (2018). Low credibility.
 
 REAL-CAD is a pragmatic physician-initiated trial exploring the optimal dose of statins for patients with established stable CAD within the range of approved doses in Japan. Despite current guidelines recommendations, rates of use of high-intensity statin therapy (atorvastatin 40/80 mg, rosuvastatin 20/40 mg) in patients with established CAD have been reported to be low in Asia (0%–25%). – It is important to note that the statin dose in the high-dose group (pitavastatin 4 mg/d) in this study is equivalent to atorvastatin 20 mg/d in terms of LDL-C lowering, indicating that high-dose pitavastatin therapy in this study is what is generally considered moderate-intensity statin therapy in the international medical community. Most of the doses of high-intensity statin therapy defined in the American College of Cardiology/American Heart Association guideline are not approved in Japan. Furthermore, maximum approved doses of statins are prescribed very infrequently in Japan, even for secondary prevention. The mean LDL-C before the run-in period was 93 mg/dL with 91% of patients taking statins, which decreased to 88 mg/dL after the run-in period on pitavastatin 1 mg. This minimal decrease in LDL-C during the run-in period suggests that the standard of care in Japan was low-intensity statin therapy, highlighting the results of the present study as practice changing. The present study clearly demonstrated that, even in a dose range lower than the dose levels defined as high-intensity statin therapy, the higher statin dose was associated with greater protection from cardiovascular events than the lower statin dose. Furthermore, the favorable effect of high-dose pitavastatin was observed regardless of the baseline LDL-C level dichotomized as ≥ 95 and < 95 mg/dL.
 
 ---
 
-### Statins for the primary prevention of anthracycline cardiotoxicity: a comprehensive review [^763c562f]. Current Oncology Reports (2024). Medium credibility.
+### Statins for the primary prevention of anthracycline cardiotoxicity: a comprehensive review [^1142Hohx]. Current Oncology Reports (2024). Medium credibility.
 
 Statin Choice and Dose
 
@@ -831,7 +831,7 @@ High-intensity statin regimens were utilized in all the recent RCTs. Atorvastati
 
 ---
 
-### Achievement of 2011 European low-density lipoprotein cholesterol (LDL-C) goals of either [^0f4b65de]. Atherosclerosis (2013). Low credibility.
+### Achievement of 2011 European low-density lipoprotein cholesterol (LDL-C) goals of either [^111Pg96d]. Atherosclerosis (2013). Low credibility.
 
 Objective
 
@@ -851,7 +851,7 @@ These data from VOYAGER highlight the importance of an effective statin at an ap
 
 ---
 
-### Atorvastatin has a dose-dependent beneficial effect on kidney function and associated cardiovascular outcomes: post hoc analysis of 6 double-blind randomized controlled trials [^065fdea4]. Journal of the American Heart Association (2019). Medium credibility.
+### Atorvastatin has a dose-dependent beneficial effect on kidney function and associated cardiovascular outcomes: post hoc analysis of 6 double-blind randomized controlled trials [^111AT8PD]. Journal of the American Heart Association (2019). Medium credibility.
 
 Current evidence indicates that kidney‐protective effects of statins show a heterogeneous picture. Statins reduce, for instance, biomarkers for kidney damage, including albuminuria, 9, 10 but not uniformly so. 11 In addition, various controlled trials show that statins are beneficial by inducing a smaller estimated glomerular filtration rate (eGFR) reduction at the end of the study, 12, 13 and other studies indicate that eGFR may even improve. 14, 15, 16 The heterogeneous effects may depend on both the dose and type of statin used, as also demonstrated by the recent PLANET trials in both diabetic and nondiabetic CKD patients. 11 In PLANET, rosuvastatin negatively influenced kidney function, as expressed by decreased eGFR and increased proteinuria, whereas atorvastatin improved GFR without influencing proteinuria. 11
 
@@ -859,13 +859,13 @@ We set out to address whether the high‐potency statin, atorvastatin, has an ef
 
 ---
 
-### Meta-analysis of comparative efficacy of increasing dose of atorvastatin versus rosuvastatin versus simvastatin on lowering levels of atherogenic lipids (from VOYAGER) [^e93acd3f]. The American Journal of Cardiology (2010). Low credibility.
+### Meta-analysis of comparative efficacy of increasing dose of atorvastatin versus rosuvastatin versus simvastatin on lowering levels of atherogenic lipids (from VOYAGER) [^116xmsDG]. The American Journal of Cardiology (2010). Low credibility.
 
 Statins are the most commonly prescribed agents for lowering levels of low-density lipoprotein (LDL) cholesterol. Although dose-dependent reductions in levels of atherogenic lipids are observed with all statins, the impact of increasing dose has not been fully elucidated. An individual patient data pooled analysis was performed of 32,258 patients in studies comparing the efficacy of rosuvastatin with that of atorvastatin or simvastatin. The impact of increasing dose on lowering LDL cholesterol, triglycerides, non-high-density lipoprotein (HDL) cholesterol, and apolipoprotein B was investigated. Doubling the dose of each statin was accompanied by a 4% to 7% greater degree of lowering of all atherogenic lipids. A stronger correlation was observed between changes in LDL cholesterol and non-HDL cholesterol (r = 0.92, p < 0.001) or apolipoprotein B (r = 0.76, p < 0.001) than triglycerides (r = 0.14, p < 0.001). On multivariate analysis, baseline lipid level (p < 0.0001) and increasing statin dose (p < 0.0001) were strong predictors of achieving treatment goals in high-risk patients. Increasing age was a strong independent predictor of achieving goal for all atherogenic lipids (p < 0.0001). Achieving LDL cholesterol goals was also more likely in women (p < 0.0001), patients with diabetes (p < 0.0001), and patients without atherosclerotic disease (p = 0.0002). In contrast, normal triglyceride levels were more often observed in men (p < 0.0001) and patients without diabetes mellitus (p = 0.03). In conclusion, doubling statin dose was associated with greater lowering of LDL cholesterol by 4% to 6% and non-HDL cholesterol by 3% to 6%. Greater lipid goal achievement with increasing dose supports the use of high-dose statin therapy for more effective cardiovascular prevention.
 
 ---
 
-### Effect of ezetimibe coadministered with atorvastatin in 628 patients with primary hypercholesterolemia: a prospective, randomized, double-blind trial [^4f5a4df4]. Circulation (2003). Low credibility.
+### Effect of ezetimibe coadministered with atorvastatin in 628 patients with primary hypercholesterolemia: a prospective, randomized, double-blind trial [^1132eMY7]. Circulation (2003). Low credibility.
 
 Background
 
@@ -881,7 +881,7 @@ Ezetimibe plus atorvastatin was well tolerated, with a safety profile similar to
 
 ---
 
-### Efficacy and safety of long-term treatment with statins for coronary heart disease: a Bayesian network meta-analysis [^be4cbf5d]. Atherosclerosis (2016). Low credibility.
+### Efficacy and safety of long-term treatment with statins for coronary heart disease: a Bayesian network meta-analysis [^115s8Rhv]. Atherosclerosis (2016). Low credibility.
 
 Background and Aims
 
@@ -901,7 +901,7 @@ Statins significantly reduced levels of blood lipids, with a high dose of atorva
 
 ---
 
-### Twelve-week, multicenter, randomized, open-label comparison of the effects of rosuvastatin 10 mg / D and atorvastatin 10 mg / D in high-risk adults: a DISCOVERY study [^730fd4ac]. Clinical Therapeutics (2004). Low credibility.
+### Twelve-week, multicenter, randomized, open-label comparison of the effects of rosuvastatin 10 mg / D and atorvastatin 10 mg / D in high-risk adults: a DISCOVERY study [^113watpK]. Clinical Therapeutics (2004). Low credibility.
 
 Background
 
@@ -925,13 +925,13 @@ In this study of selected patients at high risk for CHD and with primary hyperch
 
 ---
 
-### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^b750cd86]. Circulation (2023). High credibility.
+### 2023 AHA / ACC / ACCP / ASPC / NLA / PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association / American college of cardiology joint committee on clinical practice guidelines [^115gmsjj]. Circulation (2023). High credibility.
 
 Statin therapy selection and intolerance — although high-intensity statin therapy is preferred, it may not be tolerated or may be contraindicated due to clinically significant drug–drug interactions; statin intolerance is defined as adverse effects that improve or resolve with dose modification or discontinuation and requires a trial of at least 2 statins with one at the lowest approved daily dose; clinicians should also consider the possibility of a "nocebo effect"; for patients unable to tolerate a high-intensity statin, a moderate-intensity statin should be used, and additional strategies (eg, low-intensity statin, alternative daily dosing) may also be used to identify a tolerable regimen, though it is unclear if these strategies reduce ASCVD events.
 
 ---
 
-### Rationale and design of a randomised double-blind 2 × 2 factorial trial comparing the effect of a 3-month intensive statin and antiplatelet therapy for patients with acute mild ischaemic stroke or high-risk TIA with intracranial or extracranial atherosclerosis (INSPIRES) [^3c63d7e6]. Stroke and Vascular Neurology (2023). Medium credibility.
+### Rationale and design of a randomised double-blind 2 × 2 factorial trial comparing the effect of a 3-month intensive statin and antiplatelet therapy for patients with acute mild ischaemic stroke or high-risk TIA with intracranial or extracranial atherosclerosis (INSPIRES) [^112YXo1o]. Stroke and Vascular Neurology (2023). Medium credibility.
 
 Background
 
@@ -951,19 +951,19 @@ NCT03635749.
 
 ---
 
-### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^3aa334bf]. Annals of Internal Medicine (2020). High credibility.
+### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^112Vw6ra]. Annals of Internal Medicine (2020). High credibility.
 
 Intracranial hemorrhage (ICH) with high-dose statins — evidence synthesis: The effect of high-dose statins on the risk for ICH is uncertain; a meta-analysis of seven RCTs reported increased ICH with high-dose statins versus control, while a more comprehensive meta-analysis did not show increased ICH risk (OR: 1.08, 95% CI: 0.88–1.32) regardless of LDL-C reduction or level achieved.
 
 ---
 
-### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^1e9724fd]. Journal of the American College of Cardiology (2019). High credibility.
+### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: a report of the American college of cardiology / American Heart Association task Force on Clinical practice guidelines [^111nMPzC]. Journal of the American College of Cardiology (2019). High credibility.
 
 Table 3 — high-, moderate-, and low-intensity statin therapy — defines intensity by expected low-density lipoprotein cholesterol (LDL-C) lowering and provides representative doses: high-intensity statins typically lower LDL-C by ≥ 50%, moderate-intensity by 30% to 49%, and low-intensity by < 30%; examples include high-intensity Atorvastatin (40 mg) 80 mg and Rosuvastatin 20 mg (40 mg), moderate-intensity Atorvastatin 10 mg (20 mg) and Simvastatin 20–40 mg, and low-intensity Simvastatin 10 mg; initiation or titration of simvastatin 80 mg is not recommended by the FDA because of the increased risk of myopathy, including rhabdomyolysis.
 
 ---
 
-### Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis [^0177cf9f]. BMJ (2022). Excellent credibility.
+### Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis [^1113BEPY]. BMJ (2022). Excellent credibility.
 
 Discussion
 
@@ -973,13 +973,13 @@ This network meta-analysis compared the effectiveness of different statin agents
 
 ---
 
-### KDOQI US commentary on the 2013 KDIGO clinical practice guideline for lipid management in CKD [^fe887d34]. American Journal of Kidney Diseases (2015). Medium credibility.
+### KDOQI US commentary on the 2013 KDIGO clinical practice guideline for lipid management in CKD [^117WMhbq]. American Journal of Kidney Diseases (2015). Medium credibility.
 
 Statin dosing when eGFR is < 60 — In individuals with CKD and eGFR < 60 mL/min/1.73 m² who are not kidney transplant recipients, the KDIGO work group suggests using doses of statins recommended in the general population, but due to concerns of increased toxicity, dose reduction of statins was recommended by KDIGO for individuals with an eGFR < 60 mL/min/1.73 m²; given the positive benefit of high-dose atorvastatin in the TNT Trial, one might consider using general population doses for GFR category G3a (45–59.9 mL/min/1.73 m²) or even a high-intensity statin in individuals with acute coronary syndrome and lower eGFR unless there are significant drug interactions.
 
 ---
 
-### "If it ain' T broke, don't fix it": a commentary on the positive-negative results of the ACCORD lipid study [^2947a8d1]. Cardiovascular Diabetology (2010). Low credibility.
+### "If it ain' T broke, don't fix it": a commentary on the positive-negative results of the ACCORD lipid study [^1124CZbN]. Cardiovascular Diabetology (2010). Low credibility.
 
 Discussion
 
@@ -995,7 +995,7 @@ The 'scores' of these trials where 'positive' means 'in favor of intensive LDL-C
 
 ---
 
-### A comparison of the effects of low-and high-dose atorvastatin on lipoprotein metabolism and inflammatory cytokines in type 2 diabetes: results from the protection against nephropathy in diabetes with atorvastatin (PANDA) randomized trial [^2881545b]. Journal of Clinical Lipidology (2017). Low credibility.
+### A comparison of the effects of low-and high-dose atorvastatin on lipoprotein metabolism and inflammatory cytokines in type 2 diabetes: results from the protection against nephropathy in diabetes with atorvastatin (PANDA) randomized trial [^11233wpE]. Journal of Clinical Lipidology (2017). Low credibility.
 
 Background
 
@@ -1019,19 +1019,19 @@ High-dose atorvastatin is more effective in achieving non-HDL-C therapeutic goal
 
 ---
 
-### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^180dfb34]. Circulation (2019). High credibility.
+### 2018 AHA / ACC / AACVPR / AAPA / ABC / ACPM / ADA / AGS / APhA / ASPC / NLA / PCNA guideline on the management of blood cholesterol: executive summary: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^111cfQ99]. Circulation (2019). High credibility.
 
 Table 3. High-, moderate-, and low-intensity statin therapy — statin therapy is divided into three categories, with high-intensity, moderate-intensity, and low-intensity therapies typically lowering low-density lipoprotein cholesterol (LDL-C) by ≥ 50%, 30%–49%, and < 30%, respectively. Representative high-intensity doses include Atorvastatin (40 mg†) 80 mg and Rosuvastatin 20 mg (40 mg). Moderate-intensity options include Atorvastatin 10 mg (20 mg), Rosuvastatin (5 mg) 10 mg, Simvastatin 20–40 mg§, Pravastatin 40 mg (80 mg), Lovastatin 40 mg (80 mg), Fluvastatin XL 80 mg, Fluvastatin 40 mg BID, and Pitavastatin 1–4 mg; a low-intensity example is Fluvastatin 20–40 mg. Boldface type indicates statins and doses evaluated in randomized controlled trials that demonstrated a reduction in major cardiovascular events. Although simvastatin 80 mg was evaluated, initiation of simvastatin 80 mg or titration to 80 mg is not recommended by the FDA because of the increased risk of myopathy, including rhabdomyolysis. Percent reductions are estimates from large populations and individual responses vary in clinical practice.
 
 ---
 
-### Comparison of benefits and risks of rosuvastatin versus atorvastatin from a meta-analysis of head-to-head randomized controlled trials [^ce949a39]. The American Journal of Cardiology (2008). Low credibility.
+### Comparison of benefits and risks of rosuvastatin versus atorvastatin from a meta-analysis of head-to-head randomized controlled trials [^116HGN4Y]. The American Journal of Cardiology (2008). Low credibility.
 
 The benefit from statin therapy is proportional to the low-density lipoprotein (LDL) cholesterol reduction. However, adverse events appear to be related to dose rather than LDL cholesterol reduction. Although serious side effects are rare, any comparison of statins requires scrutiny of the relation between therapeutic effect and risk of side effects. This report sought to determine whether the additional LDL cholesterol lowering with rosuvastatin over atorvastatin could be obtained without increased risk of short-term adverse events. Twenty-five studies (approximately 20,000 patients) were identified that provided 28 comparisons of 1:1 dose ratios, 20 comparisons of 1:2 dose ratios, and 6 comparisons of 1:4 dose ratios. Treatment difference in benefit (percentage of LDL cholesterol reduction) and risk (odds ratios for myalgia, increased alanine aminotransferase > 3 times the upper limit of normal, creatine kinase > 10 times the upper limit of normal, and percentage of change in glomerular filtration rate, as well as deaths, serious adverse events, and withdrawals caused by adverse events) were estimated using meta-analysis and presented in benefit-risk planes. Rosuvastatin was more efficacious than the same dose of atorvastatin (1:1 dose ratio) or a 2 times higher dose (1:2 dose ratio) of atorvastatin. There was no significant difference between rosuvastatin and a 4 times higher dose of atorvastatin (1:4 dose ratio). There were no significant differences between rosuvastatin and atorvastatin at any dose ratio for adverse events. Percentages of change in GFR improved significantly with both treatments. In conclusion, at 1:1 and 1:2 dose ratios, significant additional decreases in LDL cholesterol were obtained using rosuvastatin compared with atorvastatin at a similar risk of the adverse events presented.
 
 ---
 
-### Effects of rosuvastatin and atorvastatin compared over 52 weeks of treatment in patients with hypercholesterolemia [^316f0a16]. American Heart Journal (2002). Low credibility.
+### Effects of rosuvastatin and atorvastatin compared over 52 weeks of treatment in patients with hypercholesterolemia [^112GHh2m]. American Heart Journal (2002). Low credibility.
 
 Background
 
@@ -1047,13 +1047,13 @@ Compared with atorvastatin, rosuvastatin produced greater reductions in LDL-C, w
 
 ---
 
-### Cardiovascular disease and risk management: standards of care in diabetes – 2025 [^6f59290d]. Diabetes Care (2025). High credibility.
+### Cardiovascular disease and risk management: standards of care in diabetes – 2025 [^113r5aGL]. Diabetes Care (2025). High credibility.
 
 Table 10.1 — high- and moderate-intensity statin dosing: The table defines high-intensity statin therapy as that which "lowers LDL cholesterol by ≥ 50%", listing "Atorvastatin 40–80 mg" and "Rosuvastatin 20–40 mg". Moderate-intensity therapy is defined as that which "lowers LDL cholesterol by 30–49%", listing "Atorvastatin 10–20 mg", "Rosuvastatin 5–10 mg", "Simvastatin 20–40 mg", "Pravastatin 40–80 mg", "Lovastatin 40 mg", "Fluvastatin XL 80 mg", and "Pitavastatin 1–4 mg". The footnote indicates "Once-daily dosing, XL, extended release".
 
 ---
 
-### Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis [^e4bd87eb]. BMJ (2022). Excellent credibility.
+### Comparative effectiveness of statins on non-high density lipoprotein cholesterol in people with diabetes and at risk of cardiovascular disease: systematic review and network meta-analysis [^116r7qcW]. BMJ (2022). Excellent credibility.
 
 The surface under the cumulative ranking curve score provides an overall ranking of each treatment. In reducing levels of non-HDL-C, rosuvastatin at moderate intensity was ranked as the best statin treatment (surface under the cumulative ranking curve 77.5%), the second best treatment was rosuvastatin at high intensity (76.8%), the third best was simvastatin at high intensity (76.7%), followed by atorvastatin at high intensity (76.3%). The treatment with the lowest surface under the cumulative ranking curve score (excluding placebo) was fluvastatin at low intensity (8.5%) (appendix 10).
 
@@ -1064,13 +1064,13 @@ League table of direct comparisons for statin intensities with effect estimates 
 
 ---
 
-### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^69a6f147]. Journal of the American College of Cardiology (2016). Medium credibility.
+### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^113hdmti]. Journal of the American College of Cardiology (2016). Medium credibility.
 
 Statin therapy evidence notes and FDA caution — dose considerations for atorvastatin and simvastatin: All of these randomized controlled trials demonstrated a reduction in major cardiovascular events, and individual responses to statin therapy varied in RCTs and should be expected to vary in clinical practice. Evidence from 1 RCT only supports down-titration if unable to tolerate atorvastatin 80 mg in the IDEAL study. Although simvastatin 80 mg was evaluated in RCTs, initiation of simvastatin 80 mg or titration to 80 mg is not recommended by the FDA because of the increased risk of myopathy, including rhabdomyolysis.
 
 ---
 
-### Plasma coenzyme Q10 predicts lipid-lowering response to high-dose atorvastatin [^107e70f4]. Journal of Clinical Lipidology (2008). Low credibility.
+### Plasma coenzyme Q10 predicts lipid-lowering response to high-dose atorvastatin [^111RTGnP]. Journal of Clinical Lipidology (2008). Low credibility.
 
 Background
 
@@ -1094,7 +1094,7 @@ Baseline CoQ10:LDL-C ratio was associated with the degree of LDL-C response to a
 
 ---
 
-### Individualized dose-response to statins associated with cardiovascular disease outcomes [^4a2f528d]. JACC: Advances (2024). Medium credibility.
+### Individualized dose-response to statins associated with cardiovascular disease outcomes [^112tyyme]. JACC: Advances (2024). Medium credibility.
 
 Background
 
@@ -1118,7 +1118,7 @@ The class-wide association of ED 50 and E max with clinical outcomes indicates t
 
 ---
 
-### Statins have biphasic effects on angiogenesis [^d168411e]. Circulation (2002). Low credibility.
+### Statins have biphasic effects on angiogenesis [^116MTRwK]. Circulation (2002). Low credibility.
 
 Background
 
@@ -1134,7 +1134,7 @@ HMG-CoA reductase inhibition has a biphasic dose-dependent effect on angiogenesi
 
 ---
 
-### Magnitude of HDL cholesterol variation after high-dose atorvastatin is genetically determined at the LDL receptor locus in patients with homozygous familial hypercholesterolemia [^11913bb9]. Arteriosclerosis, Thrombosis, and Vascular Biology (2003). Low credibility.
+### Magnitude of HDL cholesterol variation after high-dose atorvastatin is genetically determined at the LDL receptor locus in patients with homozygous familial hypercholesterolemia [^111T3aAU]. Arteriosclerosis, Thrombosis, and Vascular Biology (2003). Low credibility.
 
 Objective
 
@@ -1150,7 +1150,7 @@ The present study reveals that HDL cholesterol reduction after high-dose atorvas
 
 ---
 
-### The high-dose rosuvastatin once weekly study (the HD-ROWS) [^59955f88]. Journal of Clinical Lipidology (2011). Low credibility.
+### The high-dose rosuvastatin once weekly study (the HD-ROWS) [^113Hp575]. Journal of Clinical Lipidology (2011). Low credibility.
 
 Background
 
@@ -1174,19 +1174,19 @@ Rosuvastatin 80 mg once weekly produced comparable lipid changes to atorvastatin
 
 ---
 
-### Comparative safety of atorvastatin 80 mg versus 10 mg derived from analysis of 49 completed trials in 14, 236 patients [^016d6401]. The American Journal of Cardiology (2006). Low credibility.
+### Comparative safety of atorvastatin 80 mg versus 10 mg derived from analysis of 49 completed trials in 14, 236 patients [^11137jPE]. The American Journal of Cardiology (2006). Low credibility.
 
 Atorvastatin has been shown to reduce coronary events and revascularization procedures in patients with multiple risk factors for coronary heart disease. Recent studies with atorvastatin 80 mg support the overall safety of this dose during long-term treatment. However, physicians appear reluctant to use high doses of statins. A retrospective analysis of pooled data from 49 clinical trials of atorvastatin in 14,236 patients treated for an average period of 2 weeks to 52 months was conducted. The study compared the safety of atorvastatin 10 mg (n = 7,258), atorvastatin 80 mg (n = 4,798), and placebo (n = 2,180) and included analyses on treatment-associated adverse events; nonserious and serious adverse events related to the musculoskeletal, hepatic, and renal systems; the incidence of elevations of creatine kinase > 10 times the upper limit of normal (ULN); and hepatic transaminases > 3 times ULN. Percentages of patients experiencing ≥ 1 adverse event were similar across all 3 groups. Withdrawals due to treatment-related adverse events were observed in 2.4%, 1.8%, and 1.2% of patients in the atorvastatin 10 mg, atorvastatin 80 mg, and placebo groups, respectively. Serious adverse events were rare and seldom led to treatment withdrawal with any dose. Treatment-associated myalgia was observed in 1.4%, 1.5%, and 0.7% of patients in the atorvastatin 10 mg, atorvastatin 80 mg, and placebo groups, respectively. No cases of rhabdomyolysis were reported in any group. Persistent elevations in hepatic transaminases > 3 times ULN were observed in 0.1%, 0.6%, and 0.2% of patients in the atorvastatin 10 mg, atorvastatin 80 mg, and placebo groups, respectively. The incidence of treatment-associated adverse events for atorvastatin 80 mg was similar to that of atorvastatin 10 mg and placebo. In conclusion, the results of this analysis support the positive safety profile of atorvastatin at the highest dose.
 
 ---
 
-### Assessment and management of statin-associated muscle symptoms (SAMS): a clinical perspective from the National Lipid Association [^798805e9]. Journal of Clinical Lipidology (2022). High credibility.
+### Assessment and management of statin-associated muscle symptoms (SAMS): a clinical perspective from the National Lipid Association [^1147BC3S]. Journal of Clinical Lipidology (2022). High credibility.
 
 Atorvastatin dosing and low-density lipoprotein cholesterol (LDL-C) lowering (Figure 5) illustrates approaches to achieving high-intensity statin LDL-C lowering in SAMS, with panel A showing LDL-C lowering with high-intensity atorvastatin and panel B showing LDL-C lowering across atorvastatin dosing ranges; the panel B labels include Atorvastatin 10 mg, Atorvastatin 20 mg (+6%), Atorvastatin 40 mg (+6%), Atorvastatin 80 mg (+6%), alongside percentage labels at baseline of 40%, 46%, 52%, and 58%.
 
 ---
 
-### Atorvaliq [^dffdc044]. FDA (2024). Medium credibility.
+### Atorvaliq [^116j5UK5]. FDA (2024). Medium credibility.
 
 The effect of atorvastatin 10 mg/day on lipid levels was similar to that seen in previous clinical trials.
 
@@ -1198,13 +1198,13 @@ There were 61 deaths in the atorvastatin group vs. 82 deaths in the placebo grou
 
 ---
 
-### National Lipid Association recommendations for patient-centered management of dyslipidemia: part 2 [^b9786881]. Journal of Clinical Lipidology (2015). Medium credibility.
+### National Lipid Association recommendations for patient-centered management of dyslipidemia: part 2 [^115jy9sn]. Journal of Clinical Lipidology (2015). Medium credibility.
 
 United Kingdom National Institute of Care and Health Excellence (NICE) guidance — older adults: Because the Framingham model is not well validated in those > 75 years of age, clinical judgment regarding the use of drug therapy should be used. In secondary prevention, the guideline recommends the use of high intensity statin (i.e., atorvastatin 80 mg), with the option to consider a lower dosage in those with potential drug interactions, high risk of adverse effects, or patient preference. For primary prevention up to age 84 years, the provider should discuss lifestyle modification and optimize other modifiable ASCVD risk factors with repeat assessment; if lifestyle change is ineffective or inappropriate, a moderate intensity statin (i.e., atorvastatin 20 mg) is advised for those with a ≥ 10% 10-year ASCVD risk using QRISK2, in which ASCVD includes CHD (angina and MI), stroke, and transient ischemic attack, but not peripheral arterial disease; QRISK2 has been validated in populations ranging from 30–84 years of age.
 
 ---
 
-### Atorvaliq [^5bd4264e]. FDA (2024). Medium credibility.
+### Atorvaliq [^113M98eq]. FDA (2024). Medium credibility.
 
 Primary Hyperlipidemia in Adults
 
@@ -1222,7 +1222,7 @@ The response to atorvastatin in 64 patients with isolated hypertriglyceridemia t
 
 ---
 
-### Atorvastatin for high-risk statin-naïve patients undergoing noncardiac surgery: the lowering the risk of operative complications using atorvastatin loading dose (LOAD) randomized trial [^3fccfd7c]. American Heart Journal (2017). Low credibility.
+### Atorvastatin for high-risk statin-naïve patients undergoing noncardiac surgery: the lowering the risk of operative complications using atorvastatin loading dose (LOAD) randomized trial [^112db5HV]. American Heart Journal (2017). Low credibility.
 
 Preliminary evidence suggests that statins may prevent major perioperative vascular complications.
 
@@ -1240,13 +1240,13 @@ In contrast to the prior observational and trial data, the LOAD trial has neutra
 
 ---
 
-### LDL cholesterol management simplified in adults-lower for longer is better: guidance from the National Lipid Association [^03f70667]. Journal of Clinical Lipidology (2025). High credibility.
+### LDL cholesterol management simplified in adults-lower for longer is better: guidance from the National Lipid Association [^1116swHG]. Journal of Clinical Lipidology (2025). High credibility.
 
 Statin medicines — categories by intensity and anticipated % low-density lipoprotein cholesterol (LDL-C) reduction include low-intensity statins (Simvastatin 10 mg, Pravastatin 10–20 mg, Lovastatin 20 mg, Fluvastatin 20–40 mg) with anticipated LDL-C reduction < 30%; moderate-intensity options include Atorvastatin 10–20 mg and Rosuvastatin 5–10 mg with 30–49%; and high-intensity statins (Atorvastatin 40–80 mg and Rosuvastatin 20–40 mg) with ≥ 50%.
 
 ---
 
-### Individualized dose-response to statins associated with cardiovascular disease outcomes [^2dd08bfd]. JACC: Advances (2024). Medium credibility.
+### Individualized dose-response to statins associated with cardiovascular disease outcomes [^112AvVW4]. JACC: Advances (2024). Medium credibility.
 
 Background
 
@@ -1270,7 +1270,7 @@ The class-wide association of ED 50 and E max with clinical outcomes indicates t
 
 ---
 
-### Statins inhibit rho kinase activity in patients with atherosclerosis [^cc14f790]. Atherosclerosis (2009). Low credibility.
+### Statins inhibit rho kinase activity in patients with atherosclerosis [^116DZWxf]. Atherosclerosis (2009). Low credibility.
 
 Background
 
@@ -1290,19 +1290,19 @@ These first-in-man findings demonstrate that high-dose atorvastatin rapidly inhi
 
 ---
 
-### Evaluation and treatment of hypertriglyceridemia: an endocrine society clinical practice guideline [^b123e085]. The Journal of Clinical Endocrinology and Metabolism (2012). Medium credibility.
+### Evaluation and treatment of hypertriglyceridemia: an endocrine society clinical practice guideline [^115Xcrpc]. The Journal of Clinical Endocrinology and Metabolism (2012). Medium credibility.
 
 Endocrine Society hypertriglyceridemia — statin recommendation and evidence: "We recommend that statins not be used as monotherapy for severe or very severe hypertriglyceridemia. However, statins may be useful for the treatment of moderate hypertriglyceridemia when indicated to modify cardiovascular risk (1/⊕⊕○○)". Statins have a modest triglyceride-lowering effect, typically about 10–15%, with high-dose regimens such as atorvastatin 80 mg or rosuvastatin 40 mg lowering plasma triglyceride by 25–30%. Statin monotherapy should not be first-line therapy in severe or very severe hypertriglyceridemia (> 1000 mg/dl), while addition of statins can be considered to reduce cardiovascular risk in mild-to-moderate hypertriglyceridemia (> 150 mg/dl and < 1000 mg/dl) with elevated non-HDL cholesterol. Adverse effects occur in about 5–10% of patients, muscle symptoms occur in about 10% of patients, and conditions predisposing to severe myopathy include advanced age, renal failure, polypharmacy, and acute illness.
 
 ---
 
-### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^1f58ff5c]. Journal of the American College of Cardiology (2016). Medium credibility.
+### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^111oUWYj]. Journal of the American College of Cardiology (2016). Medium credibility.
 
 Statin intensity categories and doses specify that high-intensity statin therapy daily dose lowers LDL-C, on average, by approximately ≥ 50% with examples including Atorvastatin (40-) 80 mg and Rosuvastatin 20 (40) mg; moderate-intensity statin therapy daily dose lowers LDL-C, on average, by approximately 30% to < 50% with examples including Simvastatin 20–40 mg‡, Fluvastatin XL 80 mg, and Pitavastatin 2–4 mg; and low-intensity statin therapy daily dose lowers LDL-C, on average, by < 30% with examples including Pravastatin 10–20 mg, Fluvastatin 20–40 mg, and Pitavastatin 1 mg.
 
 ---
 
-### High-dose atorvastatin vs usual-dose simvastatin for secondary prevention after myocardial infarction… [^8489f424]. JAMA Network (2005). Excellent credibility.
+### High-dose atorvastatin vs usual-dose simvastatin for secondary prevention after myocardial infarction… [^114PVhkf]. JAMA Network (2005). Excellent credibility.
 
 Interventions Patients were randomly assigned to receive a high dose of atorvastatin, or usual-dose simvastatin. Main Outcome Measure Occurrence of a major coronary event, defined as coronary death, confirmed nonfatal acute MI, or cardiac arrest with resuscitation. In a recent trial among patients with acute coronary syndromes, incremental benefit was demonstrated with more intensive lowering of LDL-C to well below 100 mg/dL. 2 In the Treating to New Targets study comparing high and low doses of atorvastatin in stable nonacute CHD, a significant improvement in prognosis with respect to cardiovascular disease was demonstrated. 3 In that study, however, the benefit of reduced cardiovascular mortality appeared to have been offset by a higher number of deaths due to noncardiovascular causes. The Third Report of the National Cholesterol Education Program Adult Treatment Panel recently introduced a new target of less than 70 mg/dL for patients at very high risk. 6 The main hypothesis of the current study, the Incremental Decrease in End Points Through Aggressive Lipid Lowering study, was that intensive lowering of LDL-C with atorvastatin at the highest recommended dose would yield incremental benefit compared with the moderate, most widely used dose of simvastatin. At 24 weeks of follow-up, 900 patients in the simvastatin group had their dosage increased to 40 mg/d. At the end of the study, 1034 were prescribed simvastatin, 40 mg/d. In patients allocated to receive atorvastatin, 80 mg/d, 250 had their dosage reduced to 40 mg/d by 24 weeks; in 587 patients, the final dose was 40 mg. This also makes it difficult to make reliable comparisons of reported adverse experiences between the 2 treatment regimens. In the IDEAL study, there was a small and nonsignificant excess of 13 more noncardiovascular deaths in the simvastatin group than in the atorvastatin group.
 
@@ -1310,7 +1310,7 @@ In contrast, atorvastatin, 80 mg/d, was associated with a small and nonsignifica
 
 ---
 
-### Neuroprotective effect of atorvastatin in an experimental model of nerve crush injury [^1059d6f8]. Neurosurgery (2010). Low credibility.
+### Neuroprotective effect of atorvastatin in an experimental model of nerve crush injury [^111REyjD]. Neurosurgery (2010). Low credibility.
 
 Background
 
@@ -1334,7 +1334,7 @@ These findings suggest that a short-term course of high-dose atorvastatin pretre
 
 ---
 
-### Comparative effects of 10-mg versus 80-mg atorvastatin on high-sensitivity C-reactive protein in patients with stable coronary artery disease: results of the CAP (comparative atorvastatin pleiotropic effects) study [^ce39335a]. Clinical Therapeutics (2008). Low credibility.
+### Comparative effects of 10-mg versus 80-mg atorvastatin on high-sensitivity C-reactive protein in patients with stable coronary artery disease: results of the CAP (comparative atorvastatin pleiotropic effects) study [^116GjfQm]. Clinical Therapeutics (2008). Low credibility.
 
 Background
 
@@ -1358,31 +1358,31 @@ In these patients with documented CAD, evidence of low-grade inflammation, and n
 
 ---
 
-### Managing hypercholesterolemia in adults older than 75 years without a history of atherosclerotic cardiovascular disease: an expert clinical consensus from the National Lipid Association and the American Geriatrics Society [^a02c1e1a]. Journal of the American Geriatrics Society (2025). High credibility.
+### Managing hypercholesterolemia in adults older than 75 years without a history of atherosclerotic cardiovascular disease: an expert clinical consensus from the National Lipid Association and the American Geriatrics Society [^1156Tqa1]. Journal of the American Geriatrics Society (2025). High credibility.
 
 Statin intensity (Table 3, 2018 AHA/ACC Multisociety guidelines) defines expected mean low-density lipoprotein cholesterol (LDL-C) lowering and dose ranges: High-Intensity (≥ 50%) includes atorvastatin 40–80 mg and rosuvastatin 20–40 mg; Moderate-Intensity (30 to 49%) includes atorvastatin 10–20 mg, rosuvastatin 5–10 mg, simvastatin 20–40 mg, and pravastatin 40–80 mg; Low-Intensity (< 30%) includes simvastatin 10 mg, pravastatin 10–20 mg, lovastatin 20 mg, and fluvastatin 20–40 mg. These intensity definitions are based on the total adult population and not exclusively patients older than 75 years.
 
 ---
 
-### American association of clinical endocrinology consensus statement: algorithm for management of adults with dyslipidemia-2025 update [^c775e00b]. Endocrine Practice (2025). High credibility.
+### American association of clinical endocrinology consensus statement: algorithm for management of adults with dyslipidemia-2025 update [^1166i8US]. Endocrine Practice (2025). High credibility.
 
 AACE dyslipidemia — statin intensity dosing used in the algorithm lists the following options. High Intensity Statin: atorvastatin 40–80 mg and rosuvastatin 20–40 mg. Moderate-intensity Statin: atorvastatin 10–20 mg, rosuvastatin 5–10 mg, fluvastatin XL 80 mg, fluvastatin 40 mg BID, simvastatin 20–40 mg, and pravastatin 40–80 mg.
 
 ---
 
-### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^e1ab14a5]. Annals of Internal Medicine (2020). High credibility.
+### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^116mZgKv]. Annals of Internal Medicine (2020). High credibility.
 
 High-dose statin safety — evidence summary describes that higher statin doses increase adverse event risk, with Silva et al. (2007) showing high-dose simvastatin and atorvastatin were "associated with more adverse events (OR: 1.44, 95% CI: 1.33–1.55) and more discontinuation due to adverse events (OR: 1.28, 95% CI: 1.18–1.39) than lower dosed statins", and Li et al. (2016) showing "a higher risk for liver transaminase elevation (RR: 4.59, 95% CI: 3.26–6.48) and discontinuation due to adverse events (RR: 1.29, 95% CI: 1.17–1.42) versus placebo or lower dose atorvastatin but no increases in CK, myalgia, or rhabdomyolysis". The page also notes "higher statin doses increase the adverse event risk", and that common adverse events are "elevated liver enzymes" and "muscle symptoms with rare reports of rhabdomyolysis".
 
 ---
 
-### Effects of increasing doses of atorvastatin on the atherogenic lipid subclasses commonly associated with hypertriglyceridemia [^0bfd1c54]. The American Journal of Cardiology (2007). Low credibility.
+### Effects of increasing doses of atorvastatin on the atherogenic lipid subclasses commonly associated with hypertriglyceridemia [^111Jmt6P]. The American Journal of Cardiology (2007). Low credibility.
 
 The increased cardiovascular risk associated with hypertriglyceridemia is thought to be due in part to high levels of triglyceride (TG)-rich lipoproteins and small dense low-density lipoprotein (LDL). In this post hoc analysis, effects of increasing doses of atorvastatin (10, 20, 40, and 80 mg) on atherogenic lipid subclasses commonly associated with hypertriglyceridemia were evaluated in 191 men and women who were candidates for lipid-lowering therapy and had baseline TG levels > 200 mg/dl (2.3 mmol/L). After 8 weeks of treatment, in addition to significantly decreasing LDL cholesterol and TG levels, atorvastatin significantly increased LDL peak particle diameter (p < 0.01) and significantly decreased the concentration of small LDL subclasses IIIa and IIIb (p < 0.0001) from baseline at all doses. These effects were more pronounced with higher compared with lower doses of atorvastatin. Each dose of atorvastatin also significantly lowered levels of very LDL, intermediate-density lipoprotein (p < 0.0001), and small very LDL subclass 3 (p < 0.0001). Greater decreases were achieved by those patients receiving higher doses of atorvastatin (20, 40, and 80 mg). The increase in LDL size correlated with the decrease in TG levels, but not with the decrease in LDL cholesterol levels. However, the decrease in small dense LDL cholesterol concentrations correlated significantly with TG and LDL cholesterol decreases. In conclusion, atorvastatin significantly lowered levels of TG-rich remnant lipoproteins and favorably changed LDL particle size in patients with hypertriglyceridemia. These effects may explain the benefits of statin therapy in high-risk patients with hypertriglyceridemia even when levels of LDL cholesterol are at goal.
 
 ---
 
-### Effect of rosuvastatin versus atorvastatin on new-onset diabetes mellitus in patients treated with high-intensity statin therapy for coronary artery disease: a post-hoc analysis from the LODESTAR randomized clinical trial [^11ac5a7e]. Cardiovascular Diabetology (2024). Medium credibility.
+### Effect of rosuvastatin versus atorvastatin on new-onset diabetes mellitus in patients treated with high-intensity statin therapy for coronary artery disease: a post-hoc analysis from the LODESTAR randomized clinical trial [^111TCgWR]. Cardiovascular Diabetology (2024). Medium credibility.
 
 Introduction
 
@@ -1392,13 +1392,13 @@ Therefore, in this post-hoc analysis of the LODESTAR trial, we evaluated whether
 
 ---
 
-### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^30709c22]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
+### Treatment of diabetes in older adults: an endocrine society* clinical practice guideline [^112EpELy]. The Journal of Clinical Endocrinology and Metabolism (2019). High credibility.
 
 Statin therapy outcomes in older adults with diabetes — Across trials, aggressive LDL-C–lowering therapy reduced recurrent coronary heart disease (CHD) events in patients with diabetes, including those > 65 years, by ~25% to 35%; high-dose atorvastatin (80 mg vs 10 mg) reduced LDL-C to < 70 mg/dL in high-risk patients; in PROSPER, the average age was 75 years and approximately 8% had diabetes with 3 years of pravastatin reducing CVD during the subsequent 8 years; in SPARCL, the average age was 63 years with ~16% diabetes and high-dose atorvastatin reduced recurrent stroke by almost 25%; overall, older patients with diabetes experienced a 35% decrease in CVD events from statins with minimal side effects, and high-dose statins are indicated for all patients with diabetes unless contraindicated.
 
 ---
 
-### A 52-week, multicenter, randomized, parallel-group, double-blind, double-dummy study to assess the efficacy of atorvastatin and simvastatin in reaching low-density lipoprotein cholesterol and triglyceride targets: the Treat-to-target (3T) study [^dc70161d]. Clinical Therapeutics (2003). Low credibility.
+### A 52-week, multicenter, randomized, parallel-group, double-blind, double-dummy study to assess the efficacy of atorvastatin and simvastatin in reaching low-density lipoprotein cholesterol and triglyceride targets: the Treat-to-target (3T) study [^116dovck]. Clinical Therapeutics (2003). Low credibility.
 
 Background
 
@@ -1422,25 +1422,25 @@ Atorvastatin 20 or 40 mg/d for up to 1 year of treatment was significantly more 
 
 ---
 
-### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^d269f084]. Journal of the American College of Cardiology (2016). Medium credibility.
+### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^116Nwz3m]. Journal of the American College of Cardiology (2016). Medium credibility.
 
 Table 5 statin intensity categories and exemplar doses specify that high-intensity therapy daily dose lowers low-density lipoprotein cholesterol (LDL-C), on average, by approximately ≥ 50%, with options including Atorvastatin (40†)–80 mg and Rosuvastatin 20 (40) mg. Moderate-intensity therapy daily dose lowers LDL-C, on average, by approximately 30% to < 50%, with options including Atorvastatin 10 (20) mg, Rosuvastatin (5) 10 mg, Simvastatin 20–40 mg†, Pravastatin 40 (80) mg, Lovastatin 40 mg, Fluvastatin XL 80 mg, Fluvastatin 40 mg BID, and Pitavastatin 2–4 mg. Low-intensity therapy daily dose lowers LDL-C, on average, by < 30%, with options including Simvastatin 10 mg, Pravastatin 10–20 mg, Lovastatin 20 mg, Fluvastatin 20–40 mg, and Pitavastatin 1 mg.
 
 ---
 
-### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^20eaccbf]. Journal of the American College of Cardiology (2016). Medium credibility.
+### 2015 ACC / AHA focused update of secondary prevention lipid performance measures: a report of the American college of cardiology / American Heart Association task force on performance measures [^111qoUHc]. Journal of the American College of Cardiology (2016). Medium credibility.
 
 Table 5 statin intensity categories — high-intensity statin therapy: "Daily dose lowers LDL-C, on average, by approximately ≥ 50%", with examples "Atorvastatin (40†)-80 mg" and "Rosuvastatin 20 (40) mg"; moderate-intensity statin therapy: "Daily dose lowers LDL-C, on average, by approximately 30% to < 50%", with examples "Atorvastatin 10 (20) mg", "Simvastatin 20–40 mg†", and "Pitavastatin 2–4 mg"; low-intensity statin therapy: "Daily dose lowers LDL-C, on average, by < 30%", with examples "Pravastatin 10–20 mg" and "Fluvastatin 20–40 mg".
 
 ---
 
-### A new statin: a new standard [^f32a855f]. Clinical Cardiology (2001). Low credibility.
+### A new statin: a new standard [^117DWGra]. Clinical Cardiology (2001). Low credibility.
 
 Numerous studies have demonstrated that treatments designed to reduce low-density lipoprotein cholesterol (LDL-C) can reduce the risk of coronary heart disease (CHD) events in the setting of either primary or secondary prevention. The rationale for aggressive lowering of LDL-C, supported by large observational studies, is the concept that no threshold exists below which reductions fail to provide additional benefit. The statins are widely considered first-line therapy for preventing CHD events because these agents yield the greatest reductions in LDL-C. However, many patients do not achieve target LDL-C levels with the currently available statins. Newer, more effective statins may permit the benefits of aggressive LDL-C reduction to be extended to larger numbers of patients. A novel, highly efficacious statin, rosuvastatin (Crestor, AstraZeneca group of companies), is currently undergoing clinical investigation. Dose-ranging studies in hypercholesterolemic patients have shdwn that rosuvastatin produces significant, dose-dependent decreases in LDL-C when compared with placebo. Reductions have ranged from 34% at a dose of 1 mg/day to 65% at 80 mg/day. This agent has been found to be well tolerated across the range of doses studied. Phase III studies indicate that rosuvastatin is more effective than atorvastatin, pravastatin, and simvastatin in improving the atherogenic lipid profiles of hypercholesterolemic patients, and more effective than atorvastatin in improving the atherogenic lipid profiles of patients with heterozygous familial hypercholesterolemia. Overall, these findings suggest that rosuvastatin is a promising new medication for the treatment of dyslipidemias.
 
 ---
 
-### Rationale and design of a randomised double-blind 2 × 2 factorial trial comparing the effect of a 3-month intensive statin and antiplatelet therapy for patients with acute mild ischaemic stroke or high-risk TIA with intracranial or extracranial atherosclerosis (INSPIRES) [^70b51a29]. Stroke and Vascular Neurology (2023). Medium credibility.
+### Rationale and design of a randomised double-blind 2 × 2 factorial trial comparing the effect of a 3-month intensive statin and antiplatelet therapy for patients with acute mild ischaemic stroke or high-risk TIA with intracranial or extracranial atherosclerosis (INSPIRES) [^113t6Sic]. Stroke and Vascular Neurology (2023). Medium credibility.
 
 Table 2
 Some randomised controlled trials (RCTs) of lipid-lowering therapy patients who had a stroke
@@ -1451,7 +1451,7 @@ In recent years, some trials have reported the effectiveness of ezetimibe and PS
 
 ---
 
-### Individualized dose-response to statins associated with cardiovascular disease outcomes [^ae5e4d4d]. JACC: Advances (2024). Medium credibility.
+### Individualized dose-response to statins associated with cardiovascular disease outcomes [^115TWXBi]. JACC: Advances (2024). Medium credibility.
 
 Atherosclerotic cardiovascular disease (ASCVD) is one of the leading causes of death globally. Elevated levels of low-density lipoprotein cholesterol (LDL-C) are a known risk factor for the development of ASCVD such as coronary artery disease (CAD), myocardial infarction, and stroke. Statins lower circulating LDL-C levels through their inhibition of 3-hydroxy-3-methylglutaryl coenzyme A, the rate-limiting step in cholesterol biosynthesis. Correspondingly, statins have been demonstrated to be effective for both primary and secondary prevention of ASCVD events. While there is wide variability in LDL-C response to each of the 7 clinically used statins in the United States, all of them have been found to reduce ASCVD events.
 
@@ -1459,13 +1459,13 @@ Despite the robust lipid-lowering efficacy on statins, many individuals on stati
 
 ---
 
-### 2013 ACC / AHA guideline recommends fixed-dose strategies instead of targeted goals to lower blood cholesterol [^73010106]. Journal of the American College of Cardiology (2014). Low credibility.
+### 2013 ACC / AHA guideline recommends fixed-dose strategies instead of targeted goals to lower blood cholesterol [^113wVuy7]. Journal of the American College of Cardiology (2014). Low credibility.
 
 The American College of Cardiology (ACC)/American Heart Association (AHA) Task Force on Practice Guidelines recently issued the 2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults. This new guideline endorses a paradigm shift in strategies for reducing atherosclerotic cardiovascular disease (ASCVD) events by lowering blood cholesterol. Whereas previous guidelines focused on therapy to decrease low-density lipoprotein and non-high-density lipoprotein cholesterol to specific target levels, the new guideline instead proposes implementation of cholesterol-lowering treatment using evidenced-based intensity of statin therapy without such targets. The guideline also provides a new risk estimator for primary prevention decisions, including stroke outcomes and data on African Americans, which will significantly increase the number of patients recommended for outcome-related benefits of cholesterol-lowering therapy. The first section of this paper reviews the process by which the task force developed the new evidence-based guideline, the major findings and recommendations, and their implications. The second section primarily focuses on the question of how much low-density lipoprotein cholesterol should be lowered and on additional considerations in risk assessment.
 
 ---
 
-### Atorvaliq [^70b099fa]. FDA (2024). Medium credibility.
+### Atorvaliq [^113t4w37]. FDA (2024). Medium credibility.
 
 12.1 Mechanism of Action
 
@@ -1487,6 +1487,6 @@ Mean volume of distribution of atorvastatin is approximately 381 liters. Atorvas
 
 ---
 
-### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^e0faf078]. Annals of Internal Medicine (2020). High credibility.
+### Management of dyslipidemia for cardiovascular disease risk reduction: synopsis of the 2020 updated U.S. department of veterans affairs and U.S. department of defense clinical practice guideline [^116kYWpP]. Annals of Internal Medicine (2020). High credibility.
 
 PCSK9 inhibitors — research needs for combination therapy and treatment intensity: There is a need for continued investigation of the long-term safety of treatment with PCSK9 inhibitors combined with statins with or without ezetimibe and the unknown safety of prolonged periods of very low LDL-C; topics include what is the optimal combination of lipid-lowering treatments or achieved LDL-C level for the largest reduction in CV events (e.g., adding a PCSK9 inhibitor to maximally-tolerated statin plus ezetimibe versus moderate-dose statins plus ezetimibe), what is the comparative effectiveness of high-dose statin plus ezetimibe, high-dose statin plus PCSK9 inhibitor, and high-dose statin plus ezetimibe plus PCSK9 inhibitor (triple therapy) in higher risk patients, and what is the optimal duration of more aggressive treatment in higher risk patients including whether ACS patients on high-dose statins should continue indefinitely or be titrated downward after a period of time.

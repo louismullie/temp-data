@@ -15,39 +15,39 @@ PUD treatment
 
 > Let's see… What do we have here? The user is asking about peptic ulcer disease treatment. Let's break this down step-by-step. First, I need to think about the clinical context and epidemiology to anchor decisions. Then, I should verify the etiologic framework and how it drives therapy. Next, I will examine uncomplicated PUD management, followed by complicated disease (bleeding and perforation). After that, I should review special populations and refractory disease. Finally, I will integrate emerging therapies, safety, and a practical algorithm, making sure each step is supported by high-quality evidence and guidelines.
 
-> Let me first confirm the clinical context and epidemiology so I don't jump to conclusions. PUD remains common globally, with a lifetime prevalence around 5–10% and annual incidence roughly 0.1–0.3% in Western countries, though incidence has declined with H. pylori eradication and PPIs; complications still account for 10–20% of cases, and mortality remains substantial, particularly with bleeding and perforation, so I need to keep risk stratification front and center [^afcf66d4] [^748a2eb1] [^1fa2fe8f].
+> Let me first confirm the clinical context and epidemiology so I don't jump to conclusions. PUD remains common globally, with a lifetime prevalence around 5–10% and annual incidence roughly 0.1–0.3% in Western countries, though incidence has declined with H. pylori eradication and PPIs; complications still account for 10–20% of cases, and mortality remains substantial, particularly with bleeding and perforation, so I need to keep risk stratification front and center [^115VeVpw] [^113ymyha] [^111ouN86].
 
-> I need to check the etiologic framework because treatment hinges on it. The two dominant causes are H. pylori infection and NSAID/aspirin exposure, with H. pylori present in about 42% and NSAIDs in about 36% of PUD cases; idiopathic and stress-related ulcers make up the remainder, and this distribution guides whether I prioritize eradication, NSAID modification, or both [^1fa2fe8f] [^748a2eb1]. Hold on, I should verify that H. pylori prevalence varies by region and age, which it does, and that rising antimicrobial resistance complicates empiric choices, reinforcing the need for local resistance data when available [^19992bb4] [^54534083].
+> I need to check the etiologic framework because treatment hinges on it. The two dominant causes are H. pylori infection and NSAID/aspirin exposure, with H. pylori present in about 42% and NSAIDs in about 36% of PUD cases; idiopathic and stress-related ulcers make up the remainder, and this distribution guides whether I prioritize eradication, NSAID modification, or both [^111ouN86] [^113ymyha]. Hold on, I should verify that H. pylori prevalence varies by region and age, which it does, and that rising antimicrobial resistance complicates empiric choices, reinforcing the need for local resistance data when available [^111ex93y] [^113A1vYz].
 
-> Next, I should review uncomplicated PUD management. For H. pylori–positive ulcers, eradication therapy is first-line and reduces recurrence dramatically from roughly 50–60% to 0–2% in trials; standard triple therapy (PPI plus amoxicillin plus clarithromycin) remains appropriate where clarithromycin resistance is low, whereas bismuth-based quadruple therapy or sequential/concomitant regimens are preferred in high-resistance settings or after failure, and I should confirm eradication 4–6 weeks after antibiotics and at least 2 weeks off PPIs using urea breath or stool antigen testing [^1fa2fe8f] [^7c726512] [^0b7e4689] [^3a4876b1]. Wait, let me verify the role of PPIs in healing; PPIs heal most ulcers within 4–8 weeks and are superior to H2RAs for healing, so I should continue PPI therapy for 4–8 weeks after eradication to ensure mucosal healing, especially for larger gastric ulcers [^1fa2fe8f] [^2250248d].
+> Next, I should review uncomplicated PUD management. For H. pylori–positive ulcers, eradication therapy is first-line and reduces recurrence dramatically from roughly 50–60% to 0–2% in trials; standard triple therapy (PPI plus amoxicillin plus clarithromycin) remains appropriate where clarithromycin resistance is low, whereas bismuth-based quadruple therapy or sequential/concomitant regimens are preferred in high-resistance settings or after failure, and I should confirm eradication 4–6 weeks after antibiotics and at least 2 weeks off PPIs using urea breath or stool antigen testing [^111ouN86] [^114BVtY1] [^111J3H9S] [^112VQd3v]. Wait, let me verify the role of PPIs in healing; PPIs heal most ulcers within 4–8 weeks and are superior to H2RAs for healing, so I should continue PPI therapy for 4–8 weeks after eradication to ensure mucosal healing, especially for larger gastric ulcers [^111ouN86] [^111ssVtY].
 
-> For NSAID-associated ulcers, I should confirm that the cornerstone is stopping the NSAID when feasible; discontinuation heals about 95% of ulcers and drops recurrence from 40% to 9%, and if NSAIDs must continue, co-therapy with a PPI is indicated to reduce recurrence and complications, with H. pylori testing and eradication if present to further mitigate risk [^1fa2fe8f] [^748a2eb1]. Hold on, I should verify that this applies to low-dose aspirin as well; yes, even low-dose aspirin increases ulcer risk, so PPI gastroprotection is reasonable in high-risk patients, balancing cardiovascular indications [^748a2eb1].
+> For NSAID-associated ulcers, I should confirm that the cornerstone is stopping the NSAID when feasible; discontinuation heals about 95% of ulcers and drops recurrence from 40% to 9%, and if NSAIDs must continue, co-therapy with a PPI is indicated to reduce recurrence and complications, with H. pylori testing and eradication if present to further mitigate risk [^111ouN86] [^113ymyha]. Hold on, I should verify that this applies to low-dose aspirin as well; yes, even low-dose aspirin increases ulcer risk, so PPI gastroprotection is reasonable in high-risk patients, balancing cardiovascular indications [^113ymyha].
 
-> Now, I will examine bleeding peptic ulcer management, and I need to ensure I sequence steps correctly. Early risk stratification, hemodynamic resuscitation, and urgent upper endoscopy within 24 hours are standard; endoscopic hemostasis for high-risk stigmata (active bleeding, nonbleeding visible vessel, adherent clot) reduces rebleeding, surgery, and mortality, and should be followed by high-dose PPI therapy to stabilize the clot and promote healing [^85c6f554] [^cdbf82c7] [^336cd0b4]. I should double-check the PPI regimen; continuous infusion (e.g., 80 mg bolus then 8 mg/hour for 72 hours) is recommended after successful endoscopic therapy, with transition to oral PPI for a total of 6–8 weeks, and H. pylori testing with eradication is mandatory to prevent recurrence [^8865dce1] [^812fbd1d] [^53df3469]. But wait, what if the patient is on antithrombotics? I need to balance bleeding risk against thrombotic risk, often continuing aspirin and delaying other antiplatelets/anticoagulants briefly after hemostasis, in coordination with cardiology [^748a2eb1].
+> Now, I will examine bleeding peptic ulcer management, and I need to ensure I sequence steps correctly. Early risk stratification, hemodynamic resuscitation, and urgent upper endoscopy within 24 hours are standard; endoscopic hemostasis for high-risk stigmata (active bleeding, nonbleeding visible vessel, adherent clot) reduces rebleeding, surgery, and mortality, and should be followed by high-dose PPI therapy to stabilize the clot and promote healing [^114RLBW3] [^116G2nhk] [^112KEvGK]. I should double-check the PPI regimen; continuous infusion (e.g., 80 mg bolus then 8 mg/hour for 72 hours) is recommended after successful endoscopic therapy, with transition to oral PPI for a total of 6–8 weeks, and H. pylori testing with eradication is mandatory to prevent recurrence [^114VDXmr] [^114JXSNx] [^1139Lwma]. But wait, what if the patient is on antithrombotics? I need to balance bleeding risk against thrombotic risk, often continuing aspirin and delaying other antiplatelets/anticoagulants briefly after hemostasis, in coordination with cardiology [^113ymyha].
 
-> For perforated peptic ulcer, I should confirm that this is a surgical emergency with high morbidity and mortality. Early recognition, aggressive resuscitation with MAP ≥ 65 mmHg, urine output ≥ 0.5 mL/kg/h, and lactate normalization, plus prompt broad-spectrum antibiotics and source control, are essential; minimally invasive repair (laparoscopic omental patch) is preferred when feasible, with open surgery reserved for instability or extensive contamination, and leak rates after repair are 12–17%, necessitating close monitoring and a low threshold for endoscopic or surgical rescue [^ae249b58] [^1f7341dd] [^af806343]. Hold on, I should verify antibiotic duration; short-course therapy (3–5 days or until inflammatory markers normalize) is recommended in perforated cases, and I should tailor operative strategy to ulcer size and location, considering resection for large, suspicious gastric ulcers and pyloric exclusion for complex duodenal leaks [^8b998bc3] [^b22eda7d].
+> For perforated peptic ulcer, I should confirm that this is a surgical emergency with high morbidity and mortality. Early recognition, aggressive resuscitation with MAP ≥ 65 mmHg, urine output ≥ 0.5 mL/kg/h, and lactate normalization, plus prompt broad-spectrum antibiotics and source control, are essential; minimally invasive repair (laparoscopic omental patch) is preferred when feasible, with open surgery reserved for instability or extensive contamination, and leak rates after repair are 12–17%, necessitating close monitoring and a low threshold for endoscopic or surgical rescue [^115TB9CB] [^111odL8U] [^115VBxWe]. Hold on, I should verify antibiotic duration; short-course therapy (3–5 days or until inflammatory markers normalize) is recommended in perforated cases, and I should tailor operative strategy to ulcer size and location, considering resection for large, suspicious gastric ulcers and pyloric exclusion for complex duodenal leaks [^114ZxrVG] [^115ZAXwa].
 
-> I will now examine special populations and contexts. In pregnancy, I should avoid endoscopy unless absolutely necessary and favor antacids, sucralfate, or H2RAs; PPIs can be used if symptoms persist or complications arise, with careful risk–benefit discussion. In pediatrics, H. pylori testing and eradication are recommended when PUD is diagnosed, with PPI monotherapy continued for 2–4 weeks after eradication and confirmation of cure 4–6 weeks later. In the elderly, I need a lower threshold for endoscopy, a higher suspicion for NSAID-related disease, and vigilance for drug interactions with antithrombotics [^27e49d0e] [^3a4876b1] [^748a2eb1]. Hmm, wait a minute, I initially thought PPIs were contraindicated in pregnancy; let me reconsider — they are not absolutely contraindicated and can be used when clinically indicated after conservative measures fail, though H2RAs are often tried first [^27e49d0e].
+> I will now examine special populations and contexts. In pregnancy, I should avoid endoscopy unless absolutely necessary and favor antacids, sucralfate, or H2RAs; PPIs can be used if symptoms persist or complications arise, with careful risk–benefit discussion. In pediatrics, H. pylori testing and eradication are recommended when PUD is diagnosed, with PPI monotherapy continued for 2–4 weeks after eradication and confirmation of cure 4–6 weeks later. In the elderly, I need a lower threshold for endoscopy, a higher suspicion for NSAID-related disease, and vigilance for drug interactions with antithrombotics [^11229Jjw] [^112VQd3v] [^113ymyha]. Hmm, wait a minute, I initially thought PPIs were contraindicated in pregnancy; let me reconsider — they are not absolutely contraindicated and can be used when clinically indicated after conservative measures fail, though H2RAs are often tried first [^11229Jjw].
 
-> Next, I should review refractory and recurrent PUD. I need to ensure I reassess the diagnosis, adherence, and etiology: confirm H. pylori status with appropriate testing off PPIs, review NSAID/aspirin exposure including OTC agents, consider gastrinoma or other acid hypersecretory states, and evaluate for malignancy in gastric ulcers. If H. pylori is positive, use a salvage regimen guided by local resistance; if negative, long-term PPI therapy is appropriate, and surgery is reserved for failure of medical therapy or complications [^799a2713] [^08a3bba3]. Hold on, I should verify that evidence for medical versus surgical management in refractory cases is limited; indeed, high-quality comparative data are sparse, so decisions should be individualized in MDT settings [^08a3bba3].
+> Next, I should review refractory and recurrent PUD. I need to ensure I reassess the diagnosis, adherence, and etiology: confirm H. pylori status with appropriate testing off PPIs, review NSAID/aspirin exposure including OTC agents, consider gastrinoma or other acid hypersecretory states, and evaluate for malignancy in gastric ulcers. If H. pylori is positive, use a salvage regimen guided by local resistance; if negative, long-term PPI therapy is appropriate, and surgery is reserved for failure of medical therapy or complications [^1147HHEa] [^111Dou2i]. Hold on, I should verify that evidence for medical versus surgical management in refractory cases is limited; indeed, high-quality comparative data are sparse, so decisions should be individualized in MDT settings [^111Dou2i].
 
-> I should confirm the role of emerging therapies. Potassium-competitive acid blockers (P-CABs) like vonoprazan and tegoprazan show noninferior healing to PPIs in trials and may enable simpler H. pylori regimens, but current guidance advises against routine first-line use in PUD due to cost, limited experience, and lack of superiority data; they may be considered after PPI failure or in selected contexts, and ongoing trials in bleeding PUD may clarify their niche [^8770b531] [^527eab1d] [^7e7057f5]. Let me verify secondary prophylaxis data; in patients on long-term aspirin or NSAIDs, P-CABs are noninferior to PPIs for preventing ulcer recurrence, which is promising but not yet practice-changing given access and economics [^d66946c1].
+> I should confirm the role of emerging therapies. Potassium-competitive acid blockers (P-CABs) like vonoprazan and tegoprazan show noninferior healing to PPIs in trials and may enable simpler H. pylori regimens, but current guidance advises against routine first-line use in PUD due to cost, limited experience, and lack of superiority data; they may be considered after PPI failure or in selected contexts, and ongoing trials in bleeding PUD may clarify their niche [^114ToBma] [^1137JXor] [^114ETB8x]. Let me verify secondary prophylaxis data; in patients on long-term aspirin or NSAIDs, P-CABs are noninferior to PPIs for preventing ulcer recurrence, which is promising but not yet practice-changing given access and economics [^116UsiFr].
 
-> I need to ensure I address safety and de-prescribing. Long-term PPI use is associated with potential harms including fractures, hypomagnesemia, enteric infections, and possible cardiovascular and renal signals in observational studies; therefore, I should use the lowest effective dose, reassess indication periodically, and attempt de-prescribing when the indication resolves, while recognizing that in high-risk patients (ongoing NSAIDs, prior bleeding), continued PPI prophylaxis is justified [^ebac413b] [^748a2eb1]. Hold on, let's not jump to conclusions; many safety signals are observational and confounded, so I should individualize decisions and document risk–benefit discussions with patients [^ebac413b].
+> I need to ensure I address safety and de-prescribing. Long-term PPI use is associated with potential harms including fractures, hypomagnesemia, enteric infections, and possible cardiovascular and renal signals in observational studies; therefore, I should use the lowest effective dose, reassess indication periodically, and attempt de-prescribing when the indication resolves, while recognizing that in high-risk patients (ongoing NSAIDs, prior bleeding), continued PPI prophylaxis is justified [^1172Px26] [^113ymyha]. Hold on, let's not jump to conclusions; many safety signals are observational and confounded, so I should individualize decisions and document risk–benefit discussions with patients [^1172Px26].
 
-> Finally, I will synthesize a practical algorithm and double-check alignment with guidelines. For all patients with PUD, test for H. pylori and assess NSAID/aspirin exposure; if H. pylori–positive, eradicate and continue PPI for 4–8 weeks with confirmation of cure; if NSAID-related, stop the NSAID when possible and treat with PPI for 4–8 weeks, adding H. pylori eradication if positive; if both are present, address both. For bleeding, add early endoscopy with hemostasis and high-dose PPI infusion. For perforation, resuscitate, give antibiotics, and pursue urgent surgical repair, preferably laparoscopic. For refractory or recurrent disease, re-evaluate etiology, adherence, and consider salvage H. pylori therapy or long-term PPI, with surgery for failures or complications. Throughout, tailor to age, comorbidities, pregnancy, and local resistance patterns, and avoid unnecessary long-term PPIs when indications resolve [^748a2eb1] [^85c6f554] [^1f7341dd] [^812fbd1d].
+> Finally, I will synthesize a practical algorithm and double-check alignment with guidelines. For all patients with PUD, test for H. pylori and assess NSAID/aspirin exposure; if H. pylori–positive, eradicate and continue PPI for 4–8 weeks with confirmation of cure; if NSAID-related, stop the NSAID when possible and treat with PPI for 4–8 weeks, adding H. pylori eradication if positive; if both are present, address both. For bleeding, add early endoscopy with hemostasis and high-dose PPI infusion. For perforation, resuscitate, give antibiotics, and pursue urgent surgical repair, preferably laparoscopic. For refractory or recurrent disease, re-evaluate etiology, adherence, and consider salvage H. pylori therapy or long-term PPI, with surgery for failures or complications. Throughout, tailor to age, comorbidities, pregnancy, and local resistance patterns, and avoid unnecessary long-term PPIs when indications resolve [^113ymyha] [^114RLBW3] [^111odL8U] [^114JXSNx].
 
 ---
 
-Peptic ulcer disease (PUD) management centers on **eradicating H. pylori** [^8197d3c9] when present, stopping NSAIDs [^1fa2fe8f], and using **PPIs** [^c304157f] to heal ulcers and prevent recurrence. For bleeding ulcers, combine **endoscopic hemostasis** [^cdbf82c7] with high-dose PPIs [^8865dce1] to reduce rebleeding and surgery [^8831473e]; for perforation, urgent surgery [^1f7341dd] with antibiotics is required [^8b998bc3]. Most patients heal with medical therapy, but surgery is reserved for refractory cases or complications [^baaeb526].
+Peptic ulcer disease (PUD) management centers on **eradicating H. pylori** [^114K8QBr] when present, stopping NSAIDs [^111ouN86], and using **PPIs** [^115z7xWr] to heal ulcers and prevent recurrence. For bleeding ulcers, combine **endoscopic hemostasis** [^116G2nhk] with high-dose PPIs [^114VDXmr] to reduce rebleeding and surgery [^114UusLy]; for perforation, urgent surgery [^111odL8U] with antibiotics is required [^114ZxrVG]. Most patients heal with medical therapy, but surgery is reserved for refractory cases or complications [^115mmNzh].
 
 ---
 
 ## General principles of PUD treatment
 
-- **Identify and treat underlying causes**: H. pylori infection and NSAID use are the primary drivers; eradicating H. pylori [^8197d3c9] and stopping NSAIDs are essential [^1fa2fe8f].
+- **Identify and treat underlying causes**: H. pylori infection and NSAID use are the primary drivers; eradicating H. pylori [^114K8QBr] and stopping NSAIDs are essential [^111ouN86].
 
-- **Acid suppression**: PPIs are first-line [^c304157f] for healing and preventing recurrence; H2RAs are alternatives if PPIs are unavailable or contraindicated [^notfound].
+- **Acid suppression**: PPIs are first-line [^115z7xWr] for healing and preventing recurrence; H2RAs are alternatives if PPIs are unavailable or contraindicated [^notfound].
 
 - **Lifestyle modifications**: Smoking cessation, alcohol moderation, and dietary adjustments support healing and reduce recurrence [^notfound].
 
@@ -57,23 +57,23 @@ Peptic ulcer disease (PUD) management centers on **eradicating H. pylori** [^819
 
 ### Helicobacter pylori eradication
 
-- **Test-and-treat strategy**: Test all patients with PUD for H. pylori and eradicate if positive [^748a2eb1].
+- **Test-and-treat strategy**: Test all patients with PUD for H. pylori and eradicate if positive [^113ymyha].
 
-- **First-line regimens**: Standard triple therapy (PPI + amoxicillin + clarithromycin) for 10–14 days is recommended where clarithromycin resistance is low [^7c726512]; bismuth quadruple therapy or non-bismuth sequential/concomitant regimens are preferred in high-resistance settings [^0b7e4689].
+- **First-line regimens**: Standard triple therapy (PPI + amoxicillin + clarithromycin) for 10–14 days is recommended where clarithromycin resistance is low [^114BVtY1]; bismuth quadruple therapy or non-bismuth sequential/concomitant regimens are preferred in high-resistance settings [^111J3H9S].
 
-- **Confirmation of eradication**: Test 4–6 weeks after therapy, off PPIs, using urea breath test or stool antigen [^3a4876b1].
+- **Confirmation of eradication**: Test 4–6 weeks after therapy, off PPIs, using urea breath test or stool antigen [^112VQd3v].
 
 ---
 
 ### NSAID-associated ulcers
 
-Stop NSAIDs when possible; if continued, co-prescribe a PPI [^c304157f]. For high-risk patients (prior ulcer, age > 65, multiple NSAIDs, anticoagulants), **PPI prophylaxis** is recommended [^748a2eb1].
+Stop NSAIDs when possible; if continued, co-prescribe a PPI [^115z7xWr]. For high-risk patients (prior ulcer, age > 65, multiple NSAIDs, anticoagulants), **PPI prophylaxis** is recommended [^113ymyha].
 
 ---
 
 ### Acid suppression therapy
 
-PPIs are the most effective agents for ulcer healing and recurrence prevention [^c304157f]; **duration** is typically 4–8 weeks, extending to 8 weeks for large or complicated ulcers [^1fa2fe8f]. H2RAs are less effective but may be used when PPIs are unavailable or contraindicated [^notfound].
+PPIs are the most effective agents for ulcer healing and recurrence prevention [^115z7xWr]; **duration** is typically 4–8 weeks, extending to 8 weeks for large or complicated ulcers [^111ouN86]. H2RAs are less effective but may be used when PPIs are unavailable or contraindicated [^notfound].
 
 ---
 
@@ -81,51 +81,51 @@ PPIs are the most effective agents for ulcer healing and recurrence prevention [
 
 ### Bleeding peptic ulcers
 
-- **Endoscopic therapy**: First-line for active bleeding or high-risk stigmata (Forrest Ia–IIb) [^cdbf82c7]; methods include injection, thermal coagulation, or mechanical clips [^071fe69b].
+- **Endoscopic therapy**: First-line for active bleeding or high-risk stigmata (Forrest Ia–IIb) [^116G2nhk]; methods include injection, thermal coagulation, or mechanical clips [^111BZdT8].
 
-- **High-dose PPI therapy**: Initiate after successful endoscopic hemostasis [^8865dce1] (e.g. 80 mg IV bolus then 8 mg/h infusion for 72 hours) [^9087f3ba], then transition to oral PPI for 6–8 weeks [^812fbd1d].
+- **High-dose PPI therapy**: Initiate after successful endoscopic hemostasis [^114VDXmr] (e.g. 80 mg IV bolus then 8 mg/h infusion for 72 hours) [^114hGt97], then transition to oral PPI for 6–8 weeks [^114JXSNx].
 
-- **Rebleeding management**: Repeat endoscopy is first-line; surgery or interventional radiology is reserved for refractory cases [^33315c50].
+- **Rebleeding management**: Repeat endoscopy is first-line; surgery or interventional radiology is reserved for refractory cases [^112Jtwzf].
 
 ---
 
 ### Perforated peptic ulcers
 
-Immediate resuscitation and early surgical consultation are essential [^9157a45e]. Laparoscopic repair with omental patch is preferred when feasible [^1f7341dd]; open surgery is reserved for unstable patients or complex cases. Antibiotics are given for 3–5 days or until inflammatory markers normalize [^8b998bc3].
+Immediate resuscitation and early surgical consultation are essential [^114iUeGV]. Laparoscopic repair with omental patch is preferred when feasible [^111odL8U]; open surgery is reserved for unstable patients or complex cases. Antibiotics are given for 3–5 days or until inflammatory markers normalize [^114ZxrVG].
 
 ---
 
 ## Surgical management
 
-Surgery is now reserved for **complications or refractory disease** [^baaeb526]. Indications include perforation, uncontrolled bleeding, gastric outlet obstruction, or failure of medical therapy [^baaeb526]. Common procedures include omental patch closure, truncal vagotomy with pyloroplasty, or distal gastrectomy, selected based on patient factors and ulcer location [^b22eda7d].
+Surgery is now reserved for **complications or refractory disease** [^115mmNzh]. Indications include perforation, uncontrolled bleeding, gastric outlet obstruction, or failure of medical therapy [^115mmNzh]. Common procedures include omental patch closure, truncal vagotomy with pyloroplasty, or distal gastrectomy, selected based on patient factors and ulcer location [^115ZAXwa].
 
 ---
 
 ## Emerging therapies and future directions
 
-Potassium-competitive acid blockers (P-CABs) are noninferior to PPIs for healing and may enable simpler H. pylori regimens, but **limited experience and cost limit routine use** [^8770b531] [^d66946c1]. Personalized therapy based on local resistance patterns and patient factors is increasingly emphasized [^f46af66a]. Endoscopic innovations continue to improve hemostasis and reduce recurrence [^notfound].
+Potassium-competitive acid blockers (P-CABs) are noninferior to PPIs for healing and may enable simpler H. pylori regimens, but **limited experience and cost limit routine use** [^114ToBma] [^116UsiFr]. Personalized therapy based on local resistance patterns and patient factors is increasingly emphasized [^117FMuZT]. Endoscopic innovations continue to improve hemostasis and reduce recurrence [^notfound].
 
 ---
 
 ## Follow-up and prevention of recurrence
 
-Confirm H. pylori eradication and document ulcer healing with endoscopy when indicated [^3a4876b1]. For high-risk patients — including those with prior bleeding, ongoing NSAID use, or H. pylori-positive status — **long-term PPI maintenance** may be needed [^748a2eb1]. Educate on adherence, NSAID avoidance, and symptom recognition to reduce recurrence [^1c2495fd].
+Confirm H. pylori eradication and document ulcer healing with endoscopy when indicated [^112VQd3v]. For high-risk patients — including those with prior bleeding, ongoing NSAID use, or H. pylori-positive status — **long-term PPI maintenance** may be needed [^113ymyha]. Educate on adherence, NSAID avoidance, and symptom recognition to reduce recurrence [^111iiweC].
 
 ---
 
-PUD treatment is **multidisciplinary**, combining H. pylori eradication, NSAID management, and acid suppression, with endoscopic or surgical care for complications. Most patients heal with medical therapy, but surgery remains vital for refractory disease or emergencies [^748a2eb1].
+PUD treatment is **multidisciplinary**, combining H. pylori eradication, NSAID management, and acid suppression, with endoscopic or surgical care for complications. Most patients heal with medical therapy, but surgery remains vital for refractory disease or emergencies [^113ymyha].
 
 ---
 
 ## References
 
-### Refractory peptic ulcer disease [^799a2713]. Gastroenterology Clinics of North America (2009). Low credibility.
+### Refractory peptic ulcer disease [^1147HHEa]. Gastroenterology Clinics of North America (2009). Low credibility.
 
 Refractory PUD is a diagnostic and therapeutic challenge. Optimal management of severe or refractory PUD requires a multidisciplinary team approach, using primary care providers, gastroenterologists, and general surgeons. Medical management has become the cornerstone of therapy. Identification and eradication of H pylori infection combined with acid reduction regimens can heal ulceration and also prevent recurrence. Severe, intractable or recurrent PUD and associated complications mandates a careful and methodical evaluation and management strategy to determine the potential etiologies and necessary treatment (medical or surgical) required.
 
 ---
 
-### Management of perforated peptic ulcer: a review [^1f7341dd]. JAMA Surgery (2025). High credibility.
+### Management of perforated peptic ulcer: a review [^111odL8U]. JAMA Surgery (2025). High credibility.
 
 Importance
 
@@ -141,7 +141,7 @@ Despite advances in medical management and surgical techniques, perforated PUD c
 
 ---
 
-### Trends in hospitalizations for peptic ulcer disease, United States, 1998–2005 [^e475871c]. Emerging Infectious Diseases (2010). Low credibility.
+### Trends in hospitalizations for peptic ulcer disease, United States, 1998–2005 [^116qhesu]. Emerging Infectious Diseases (2010). Low credibility.
 
 Peptic ulcer disease (PUD) is a common illness that affects > 6 million persons in the United States each year, causing considerable illness and a large economic cost to the healthcare system. Infection with Helicobacter pylori substantially increases the risk for PUD and its complications. Appropriate antimicrobial drug regimens to eradicate the infection and cure ulcers have been available since Marshall and Warren discovered H. pylori as an etiologic agent of ulcers in the early 1980s. Eradicating these infections prevents recurrence and ulcer complications such as bleeding or perforation. Therefore, a decline in hospitalizations for PUD and its complications could be expected since treatment for H. pylori infection became available.
 
@@ -149,7 +149,7 @@ Although rates of hospitalization for PUD declined in the United States during t
 
 ---
 
-### Alternative treatments to treat perforated peptic ulcer: a systematic review and network meta-analysis of randomized controlled trials [^3202fd9b]. World Journal of Emergency Surgery (2025). Medium credibility.
+### Alternative treatments to treat perforated peptic ulcer: a systematic review and network meta-analysis of randomized controlled trials [^112H9PMU]. World Journal of Emergency Surgery (2025). Medium credibility.
 
 Implications for research
 
@@ -165,19 +165,19 @@ Lastly, studies reporting long-term outcomes, particularly in younger population
 
 ---
 
-### Peptic ulcer and Helicobacter pylori [^98c871e0]. Gastroenterology Clinics of North America (2000). Low credibility.
+### Peptic ulcer and Helicobacter pylori [^114uWSpF]. Gastroenterology Clinics of North America (2000). Low credibility.
 
 Although there has been an explosion of data not only since the discovery of H. pylori in 1982, but also since the first comprehensive review of H. pylori in the Gastroenterology Clinics in 1993, much remains to be learned. In 1993, there were many skeptics doubting the importance of H. pylori in ulcer disease. Although this skepticism has dissipated, many ulcer patients infected with H. pylori still do not receive appropriate therapy. This situation possibly relates to the safety, efficacy, and simplicity of prescribing acid-suppressive therapy in contrast to the confusion regarding anti-H. pylori treatment regimens. Among the many continuing unanswered questions regarding the role of H. pylori and PUD are the still enigmatic nature of host, environmental, and H. pylori-related factors that determine outcome. Why do only some infected individuals (and why do more men than women) develop PUD, and what determines whether gastric ulcers or duodenal ulcers develop? What is the explanation for the seasonal variation in ulcer disease? Although PUD is an infectious disease, are other environmental factors critical for the manifestation of ulcers in association with infection? What factors govern the outcome of the combination of H. pylori infection and NSAID use? Has attention been too focused first on the pathophysiology of acid secretion and now on H. pylori? In curing H. pylori in association with PUD, are clinicians going to displace disease northward, substituting erosions, inflammation, and neoplasia (and associated symptoms) in the esophagus and gastroesophageal junction for an ulcer crater (and its associated symptoms) in the duodenum or stomach? The epidemiology of PUD is changing — in more recent reports of ulcer patients, H. pylori and NSAID use are less prevalent than in earlier reports. These questions and comments should not be misinterpreted as advocating a lack of aggressiveness in diagnosis and treatment of H. pylori in the setting of PUD, however. Nevertheless, the pendulum is swinging.
 
 ---
 
-### Surgical therapy of gastric ulcer disease [^baaeb526]. The Surgical Clinics of North America (2025). Medium credibility.
+### Surgical therapy of gastric ulcer disease [^115mmNzh]. The Surgical Clinics of North America (2025). Medium credibility.
 
 Medical advancements, including Helicobacter pylori eradication and antisecretory agents, have reduced peptic ulcer disease (PUD)-associated hospital admissions, mortality, and surgical interventions over the past 30 years. Surgery plays an important role in the treatment of life-threatening complications of PUD, such as bleeding, perforation, and gastric outlet obstruction, as well as for disease that is refractory to medical management. The article highlights the critical role of surgery in cases where medical therapy is insufficient or in the event of emergency complications arising from PUD.
 
 ---
 
-### The global, regional and national burden of peptic ulcer disease from 1990 to 2019: a population-based study [^afcf66d4]. BMC Gastroenterology (2022). Medium credibility.
+### The global, regional and national burden of peptic ulcer disease from 1990 to 2019: a population-based study [^115VeVpw]. BMC Gastroenterology (2022). Medium credibility.
 
 Background
 
@@ -189,7 +189,7 @@ In this study, we analyzed PUD burdens in 204 countries or territories from 1990
 
 ---
 
-### Advances in the treatment ofinfection in children [^98aa5e5e]. Annals of Gastroenterology (2015). Low credibility.
+### Advances in the treatment ofinfection in children [^114uLLtD]. Annals of Gastroenterology (2015). Low credibility.
 
 Who should be treated?
 
@@ -203,7 +203,7 @@ The finding of H. pylori -associated gastritis in the absence of PUD during diag
 
 ---
 
-### Perforated peptic ulcers in children: a systematic review [^bdccaf19]. BMC Pediatrics (2025). Medium credibility.
+### Perforated peptic ulcers in children: a systematic review [^115rPQpx]. BMC Pediatrics (2025). Medium credibility.
 
 Introduction
 
@@ -217,7 +217,7 @@ PPU in the pediatric population is infrequently reported in the literature, with
 
 ---
 
-### Proton pump inhibitor treatment for acute peptic ulcer bleeding [^8831473e]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Proton pump inhibitor treatment for acute peptic ulcer bleeding [^114UusLy]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -249,19 +249,19 @@ PPI treatment in PU bleeding reduces rebleeding and surgical intervention rates 
 
 ---
 
-### Peptic ulcer disease [^748a2eb1]. Lancet (2024). Excellent credibility.
+### Peptic ulcer disease [^113ymyha]. Lancet (2024). Excellent credibility.
 
 Annual prevalence estimates of peptic ulcer disease range between 0.12% and 1.5%. Peptic ulcer disease is usually attributable to Helicobacter pylori infection, intake of some medications (such as aspirin and non-steroidal anti-inflammatory medications), or being critically ill (stress-related), or it can be idiopathic. The clinical presentation is usually uncomplicated, with peptic ulcer disease management based on eradicating H pylori if present, the use of acid-suppressing medications-most often proton pump inhibitors (PPIs)-or addressing complications, such as with early endoscopy and high-dose PPIs for peptic ulcer bleeding. Special considerations apply to patients on antiplatelet and antithrombotic agents. H pylori treatment has evolved, with the choice of regimen dictated by local antibiotic resistance patterns. Indications for primary and secondary prophylaxis vary across societies; most suggest PPIs for patients at highest risk of developing a peptic ulcer, its complications, or its recurrence. Additional research areas include the use of potassium-competitive acid blockers and H pylori vaccination; the optimal approach for patients at risk of stress ulcer bleeding requires more robust determinations of optimal patient selection and treatment selection, if any. Appropriate continuation of PPI use outweighs most possible side-effects if given for approved indications, while de-prescribing should be trialled when a definitive indication is no longer present.
 
 ---
 
-### Should anti-Helicobacter therapy be different in patients with dyspepsia compared with patients with peptic ulcer diathesis? [^1d91e16f]. European Journal of Gastroenterology & Hepatology (2001). Low credibility.
+### Should anti-Helicobacter therapy be different in patients with dyspepsia compared with patients with peptic ulcer diathesis? [^111kqeA2]. European Journal of Gastroenterology & Hepatology (2001). Low credibility.
 
 Physicians should try to reach an optimal cure rate with initial anti-Helicobacter therapy. Helicobacter pylori infection in patients with peptic ulcer disease (PUD) is more likely to be cured then in patients with 'functional' dyspepsia (FD). Differences in cure rates of 5–15% are usually reported, which is considered to be clinically relevant. Different strains (virulent v. non-virulent) in PUD and FD may induce different alterations in the gastric mucosa, and thereby either facilitate or impair antimicrobial efficacy. A study in this journal showed that triple therapy with ranitidine bismuth citrate (RBC) was superior to triple therapy with a proton pump inhibitor (PPI), but only in the more-difficult-to-cure FD patients. Clinicians should be aware that most published treatment studies have included only PUD patients. This means that in clinical practice the cure rates obtained in patients with FD or even uninvestigated dyspepsia will usually be lower then those reported in the literature. One way to deal with this is to consider prolonging the duration of an initial anti-Helicobacter therapy from 7 to 10 or 14 days in patients without ulcers.
 
 ---
 
-### Management of perforated peptic ulcer: what you need to know [^040550ec]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
+### Management of perforated peptic ulcer: what you need to know [^1116xjhD]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
 
 Abstract
 
@@ -269,13 +269,13 @@ Despite therapeutic advancements and the significant efficacy of medical managem
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^8b998bc3]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114ZxrVG]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to antimicrobial therapy (perforated ulcer), WSES 2020 guidelines recommend to consider completing a short-course (3–5 days or until inflammatory markers normalize) antibiotic therapy in patients with perforated peptic ulcer.
 
 ---
 
-### Clinical profile and outcome of surgical treatment of perforated peptic ulcers in northwestern tanzania: a tertiary hospital experience [^59cea2d4]. World Journal of Emergency Surgery (2011). Low credibility.
+### Clinical profile and outcome of surgical treatment of perforated peptic ulcers in northwestern tanzania: a tertiary hospital experience [^113J9JgB]. World Journal of Emergency Surgery (2011). Low credibility.
 
 Delay in diagnosis and initiation of surgical treatment of perforated PUD has been reported to be associated with high morbidity and mortality after surgery for perforated PUD. Early recognition and prompt surgical treatment of perforated PUD is of paramount importance if morbidity and mortality associated with perforated PUD are to be avoided. A successful outcome is obtained by prompt recognition of the diagnosis, aggressive resuscitation and early institution of surgical management.
 
@@ -283,7 +283,7 @@ Little work has been done on the surgical management of perforated peptic ulcer 
 
 ---
 
-### Diagnosis and treatment of perforated or bleeding peptic ulcers: 2013 WSES position paper [^9087f3ba]. World Journal of Emergency Surgery (2014). Low credibility.
+### Diagnosis and treatment of perforated or bleeding peptic ulcers: 2013 WSES position paper [^114hGt97]. World Journal of Emergency Surgery (2014). Low credibility.
 
 Postendoscopic management
 
@@ -309,55 +309,55 @@ High-dose continuous intravenous PPIs is recommended in patients with PUB and hi
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^33315c50]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^112Jtwzf]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, WSES 2020 guidelines recommend to perform endoscopy as first-line treatment in patients with recurrent bleeding from peptic ulcer.
 
 ---
 
-### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^8770b531]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^114ToBma]. Gastroenterology (2024). High credibility.
 
 Peptic ulcer disease — Best Practice Advice 8 states that clinicians should generally not use potassium-competitive acid blockers (P-CABs) as first-line therapy in the treatment or prophylaxis of peptic ulcer disease (PUD). Randomized trials showed noninferiority of vonoprazan 20 mg vs lansoprazole 30 mg for gastric ulcer healing at 8 weeks (94% vs 94%) and duodenal ulcers at 6 weeks (96% vs 96%), and of tegoprazan 50–100 mg vs lansoprazole 30 mg for gastric ulcer healing at 8 weeks (95% vs 96%). Ulcer etiology may affect treatment success, with observational data of Japanese patients treated with vonoprazan 20 mg for 6–8 weeks finding higher healing rates for HP-associated ulcers compared with idiopathic or nonsteroidal anti-inflammatory drug–related ulcers. Given present higher costs and limited clinical experience, P-CABs may be best reserved for treatments after failure of proton pump inhibitors (PPIs) in patients with PUD.
 
 ---
 
-### Joint ESPGHAN / NASPGHAN guidelines for the management of Helicobacter pylori in children and adolescents (update 2016) [^3a4876b1]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
+### Joint ESPGHAN / NASPGHAN guidelines for the management of Helicobacter pylori in children and adolescents (update 2016) [^112VQd3v]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
 
 Recommendation 3 — testing and treatment in pediatric peptic ulcer disease (PUD) — states: "We recommend that testing for H pylori be performed in children with gastric or duodenal PUD. If H pylori infection is identified then treatment should be administered and eradication confirmed", with "GRADE: Strong recommendation. Quality of evidence: high. Agreement: 100%". Practice points add that H pylori, when detected in erosions/ulcers, "is a chronic active condition" and "Eradication of infection prevents ulcer recurrence", that during endoscopy "biopsies… should be taken to identify the presence of H pylori infection", that "Proton pump inhibitor (PPI) monotherapy may be continued after eradication therapy for another 2 to 4 weeks in patients with PUD", and that "monitoring the success of therapy is mandatory… 4 to 6 weeks after stopping antibiotics and at least 2 weeks after stopping PPI therapy", with "rescue therapy as outlined in Table 5" if eradication fails.
 
 ---
 
-### Diagnosis and treatment of peptic ulcer disease [^9fcdb086]. The American Journal of Medicine (2019). Medium credibility.
+### Diagnosis and treatment of peptic ulcer disease [^1155v7xq]. The American Journal of Medicine (2019). Medium credibility.
 
 Peptic ulcer disease continues to be a source of significant morbidity and mortality worldwide. Approximately two-thirds of patients found to have peptic ulcer disease are asymptomatic. In symptomatic patients, the most common presenting symptom of peptic ulcer disease is epigastric pain, which may be associated with dyspepsia, bloating, abdominal fullness, nausea, or early satiety. Most cases of peptic ulcer disease are associated with Helicobacter pylori infection or the use of nonsteroidal anti-inflammatory drugs (NSAIDs), or both. In this review, we discuss the role of proton pump inhibitors in the management of peptic ulcer disease, highlight the latest guidelines about the diagnosis and management of H. pylori, and discuss the latest evidence in the management of complications related to peptic ulcer disease, including endoscopic intervention for peptic ulcer-related bleeding. Timely diagnosis and treatment of peptic ulcer disease and its sequelae are crucial in order to minimize associated morbidity and mortality, as is prevention of peptic ulcer disease among patients at high risk, including those infected with H. pylori and users of NSAIDs.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^0e0b759c]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^111MpgCB]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to PPIs, WSES 2020 guidelines recommend to initiate PPI therapy as soon as possible in patients with bleeding peptic ulcer.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^af8ce7f7]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^115VGAPY]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to eradication therapy, WSES 2020 guidelines recommend to initiate standard triple therapy after 72–96 hours of IV administration of PPI and complete 14 days of triple therapy.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^812fbd1d]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114JXSNx]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to PPIs, WSES 2020 guidelines recommend to administer PPIs for 6–8 weeks following endoscopic treatment in patients with bleeding peptic ulcer. Avoid administering long-term PPIs unless the patient has ongoing NSAID use.
 
 ---
 
-### Peptic ulcer disease [^df7060dc]. Lancet (2009). Excellent credibility.
+### Peptic ulcer disease [^116iFz9h]. Lancet (2009). Excellent credibility.
 
 Peptic ulcer disease had a tremendous effect on morbidity and mortality until the last decades of the 20th century, when epidemiological trends started to point to an impressive fall in its incidence. Two important developments are associated with the decrease in rates of peptic ulcer disease: the discovery of effective and potent acid suppressants, and of Helicobacter pylori. With the discovery of H pylori infection, the causes, pathogenesis, and treatment of peptic ulcer disease have been rewritten. We focus on this revolution of understanding and management of peptic ulcer disease over the past 25 years. Despite substantial advances, this disease remains an important clinical problem, largely because of the increasingly widespread use of non-steroidal anti-inflammatory drugs (NSAIDs) and low-dose aspirin. We discuss the role of these agents in the causes of ulcer disease and therapeutic and preventive strategies for drug-induced ulcers. The rare but increasingly problematic H pylori-negative NSAID-negative ulcer is also examined.
 
 ---
 
-### Eradication therapy for peptic ulcer disease in Helicobacter pylori positive patients [^8197d3c9]. The Cochrane Database of Systematic Reviews (2006). Low credibility.
+### Eradication therapy for peptic ulcer disease in Helicobacter pylori positive patients [^114K8QBr]. The Cochrane Database of Systematic Reviews (2006). Low credibility.
 
 Background
 
@@ -389,7 +389,7 @@ A 1 to 2 weeks course of H. pylori eradication therapy is an effective treatment
 
 ---
 
-### Eradication therapy for peptic ulcer disease in Helicobacter pylori-positive people [^5acc2a04]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Eradication therapy for peptic ulcer disease in Helicobacter pylori-positive people [^113KcToR]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -421,31 +421,31 @@ Adding a one to two-week course of H. pylori eradication therapy is an effective
 
 ---
 
-### Joint ESPGHAN / NASPGHAN guidelines for the management of Helicobacter pylori in children and adolescents (update 2016) [^809217d1]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
+### Joint ESPGHAN / NASPGHAN guidelines for the management of Helicobacter pylori in children and adolescents (update 2016) [^114HcVCC]. Journal of Pediatric Gastroenterology and Nutrition (2017). Medium credibility.
 
 ESPGHAN/NASPGHAN pediatric Helicobacter pylori — clinical evaluation and symptom management: We recommend that the primary goal of clinical investigation of gastrointestinal symptoms should be to determine the underlying cause of the symptoms and not solely the presence of H pylori infection; in the absence of peptic ulcer disease (PUD) defined as gastric or duodenal ulceration or erosions, eradication of H pylori infection is not expected to result in improvement of symptoms. In cases of abdominal pain in which an organic cause is considered, a diagnostic upper endoscopy rather than noninvasive testing for H pylori should be performed, and based on current evidence, treatment to eliminate H pylori infection is not expected to improve symptoms in children, except in cases of PUD, therefore if peptic lesions are not clinically suspected or identified by endoscopy, invasive diagnostic testing for the sole purpose of detecting H pylori infection should not be undertaken.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^85c6f554]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114RLBW3]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, WSES 2020 guidelines recommend to perform endoscopic treatment in patients with bleeding peptic ulcer to achieve hemostasis and reduce re-bleeding, the need for surgery, and mortality.
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^336cd0b4]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^112KEvGK]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to PPIs, ACG 2021 guidelines recommend to initiate high-dose PPI therapy continuously or intermittently for 3 days after successful endoscopic hemostatic therapy of a bleeding ulcer.
 
 ---
 
-### Management of patients with ulcer bleeding [^b7b11de1]. The American Journal of Gastroenterology (2012). Medium credibility.
+### Management of patients with ulcer bleeding [^115hLE5n]. The American Journal of Gastroenterology (2012). Medium credibility.
 
 Regarding specific circumstances for peptic ulcer disease, more specifically with respect to patients with NSAID-associated ulcer (management), ACG 2012 guidelines recommend to consider initiating long-term daily PPI therapy as secondary prophylaxis.
 
 ---
 
-### Management of perforated peptic ulcer: a review | JAMA surgery… [^af806343]. JAMA Network (2025). Excellent credibility.
+### Management of perforated peptic ulcer: a review | JAMA surgery… [^115VBxWe]. JAMA Network (2025). Excellent credibility.
 
 Arshad SA, Murphy P, Gould JC. Management of Perforated Peptic Ulcer: A Review. JAMA Surg. 2025; 160: 450–454. doi: 10.1001/jamasurg.2024.6724 Importance. Perforated peptic ulcer disease affects 4 million people annually worldwide, with a lifetime prevalence of 5% to 10%. Of those affected, 5% will progress to the point of perforation. Despite advances in the understanding and treatment, perforated PUD continues to have a high rate of morbidity and mortality. This review summarizes the current evidence on management of perforated PUD, including management of failed repairs. Observations Approaches for repair include primary closure and omental patch closure. Omental patch may be most useful in large perforations with friable tissue. Minimally invasive surgery is the preferred approach in perforated PUD, with improved outcomes compared with open techniques. Leak from the ulcer after repair is seen in approximately 12% to 17% of cases.
 
@@ -453,25 +453,25 @@ Approaches to releak include expectant management, radiologic and/or endoscopic 
 
 ---
 
-### Acid peptic disease [^9643ebef]. The Surgical Clinics of North America (2018). Low credibility.
+### Acid peptic disease [^114qmxVU]. The Surgical Clinics of North America (2018). Low credibility.
 
 The management of peptic ulcer disease has radically changed over the last 40 years from primarily surgical treatment to medical therapy nearly eliminating the need for elective surgery in these patients. Although there has been a decline in patients requiring acute surgical intervention for complications of peptic ulcer disease (perforation, bleeding, and obstruction), these patients still make up a significant proportion of hospital admissions every year. The modern acute care surgeon must have significant knowledge of the multiple treatment modalities used to appropriately care for these patients.
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^6e913bba]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^113pvRNZ]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to PPIs, ACG 2021 guidelines recommend to consider continuing PPI therapy BID until 2 weeks after index endoscopy in high-risk patients with upper gastrointestinal bleeding due to ulcers received endoscopic hemostatic therapy followed by short-term high-dose PPI therapy in the hospital.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^53df3469]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^1139Lwma]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to eradication therapy, WSES 2020 guidelines recommend to offer eradication therapy in patients with H. pylori-positive bleeding peptic ulcer to avoid recurrent bleeding.
 
 ---
 
-### WITHDRAWN: proton pump inhibitor treatment for acute peptic ulcer bleeding [^bebce80c]. The Cochrane Database of Systematic Reviews (2010). Low credibility.
+### WITHDRAWN: proton pump inhibitor treatment for acute peptic ulcer bleeding [^115sn6jm]. The Cochrane Database of Systematic Reviews (2010). Low credibility.
 
 Background
 
@@ -503,7 +503,7 @@ PPI treatment in PU bleeding reduces rebleeding and surgery compared with placeb
 
 ---
 
-### Peptic ulcer disease: a review [^1fa2fe8f]. JAMA (2024). Excellent credibility.
+### Peptic ulcer disease: a review [^111ouN86]. JAMA (2024). Excellent credibility.
 
 Importance
 
@@ -519,7 +519,7 @@ Peptic ulcer disease is associated with increased hospitalization rates and mort
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^99bcabcb]. World Journal of Emergency Surgery (2020). Medium credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114vvUj4]. World Journal of Emergency Surgery (2020). Medium credibility.
 
 Notes on the use of the guidelines: aims, targets, and limitations
 
@@ -527,7 +527,7 @@ The Guidelines are aimed to present the state-of-the-art regarding diagnosis and
 
 ---
 
-### Effective and safe proton pump inhibitor therapy in acid-related diseases – A position paper addressing benefits and potential harms of acid suppression [^d5c5838a]. BMC Medicine (2016). Low credibility.
+### Effective and safe proton pump inhibitor therapy in acid-related diseases – A position paper addressing benefits and potential harms of acid suppression [^116TvhuT]. BMC Medicine (2016). Low credibility.
 
 Summary of the current evidence
 
@@ -541,7 +541,7 @@ An effective therapy should be able to eradicate the organism from each of these
 
 ---
 
-### Non-perforated peptic ulcer disease: multidetector CT findings, complications, and differential diagnosis [^bc6cd23b]. Insights Into Imaging (2017). Low credibility.
+### Non-perforated peptic ulcer disease: multidetector CT findings, complications, and differential diagnosis [^115pMDzJ]. Insights Into Imaging (2017). Low credibility.
 
 Introduction
 
@@ -555,19 +555,19 @@ Therefore, this pictorial essay aims to provide radiologists with an increased f
 
 ---
 
-### Current management of peptic ulcer bleeding [^42a3f240]. Nature Clinical Practice: Gastroenterology & Hepatology (2006). Medium credibility.
+### Current management of peptic ulcer bleeding [^112hoFXm]. Nature Clinical Practice: Gastroenterology & Hepatology (2006). Medium credibility.
 
 Peptic ulcer bleeding is a common and potentially fatal condition. It is best managed using a multidisciplinary approach by a team with medical, endoscopic and surgical expertise. The management of peptic ulcer bleeding has been revolutionized in the past two decades with the advent of effective endoscopic hemostasis and potent acid-suppressing agents. A prompt initial clinical and endoscopic assessment should allow patients to be triaged effectively into those who require active therapy, versus those who require monitoring and preventative therapy. A combination of pharmacologic and endoscopic therapy (using a combination of injection and thermal coagulation) offers the best chance of hemostasis for those with active bleeding ulcers. Surgery, being the most effective way to control bleeding, should be considered for treatment failures. The choice between surgery and repeat endoscopic therapy should be based on the pre-existing comorbidities of the patient and the characteristics of the ulcer.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^8865dce1]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114VDXmr]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to PPIs, WSES 2020 guidelines recommend to consider administering high-dose PPI as a continuous infusion for the first 72 hours after successful endoscopic hemostasis in patients with bleeding peptic ulcer.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^2301446b]. World Journal of Emergency Surgery (2020). Medium credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^111ttzYz]. World Journal of Emergency Surgery (2020). Medium credibility.
 
 Conclusions
 
@@ -575,7 +575,7 @@ Peptic ulcer disease is still common among the world population and its incidenc
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^9220ba66]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^114jeBjs]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Introduction
 
@@ -589,7 +589,7 @@ We searched MEDLINE and Embase from Jan 1, 1950, to Dec 31, 2015, for randomised
 
 ---
 
-### Impact of anti-peptic ulcer disease medications on type 2 diabetes mellitus risk in patients with PUD: a population-based retrospective cohort study [^b4ed1179]. Therapeutic Advances in Endocrinology and Metabolism (2025). Medium credibility.
+### Impact of anti-peptic ulcer disease medications on type 2 diabetes mellitus risk in patients with PUD: a population-based retrospective cohort study [^115dEQBr]. Therapeutic Advances in Endocrinology and Metabolism (2025). Medium credibility.
 
 Anti-PUD medications focus on reducing gastric acid and enhancing mucosal defense. H2 receptor antagonists, such as famotidine, cimetidine, nizatidine, ranitidine, and roxatidine, inhibit the H2 receptor, reducing 90% of basal, food-stimulated, and nocturnal acid production. While effective, long-term use often leads to ulcer recurrence.H2 receptor antagonists have additional benefits, such as reducing hunger and postprandial blood glucose levels. Previous studies have reported an inverse relationship between H2 receptor antagonist use and insulin resistance (OR = 0.22, 95% CI = 0.05, 0.95). Cimetidine amplifies insulin secretion and, along with ranitidine, reduces postprandial glucose levels significantly. – In the present study, H2 receptor antagonist treatment was associated with a 34% lower risk of developing T2DM, further highlighting their potential therapeutic benefits.
 
@@ -597,19 +597,19 @@ PPIs, including esomeprazole, lansoprazole, pantoprazole, omeprazole, rabeprazol
 
 ---
 
-### Management of severe peri-operative bleeding: guidelines from the European Society of Anaesthesiology and Intensive Care: second update 2022 [^19dc5b1d]. European Journal of Anaesthesiology (2023). High credibility.
+### Management of severe peri-operative bleeding: guidelines from the European Society of Anaesthesiology and Intensive Care: second update 2022 [^111fLhvc]. European Journal of Anaesthesiology (2023). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ESAIC 2023 guidelines recommend to perform endoscopic therapy combined with high-dose PPIs in patients with upper gastrointestinal bleeding due to peptic ulcer.
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^433b333c]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^112ig4CB]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ACG 2021 guidelines recommend to insufficient evidence to recommend for or against endoscopic therapy in patients with upper gastrointestinal bleeding due to ulcers with adherent clot resistant to vigorous irrigation.
 
 ---
 
-### Comparison of 10-day sequential therapy with 7-day standard triple therapy for Helicobacter pylori eradication in inactive peptic ulcer disease and the efficiency of sequential therapy in inactive peptic ulcer disease and non-ulcer dyspepsia [^e805e2c4]. BMC Gastroenterology (2015). Low credibility.
+### Comparison of 10-day sequential therapy with 7-day standard triple therapy for Helicobacter pylori eradication in inactive peptic ulcer disease and the efficiency of sequential therapy in inactive peptic ulcer disease and non-ulcer dyspepsia [^116vz73Z]. BMC Gastroenterology (2015). Low credibility.
 
 Background
 
@@ -623,13 +623,13 @@ The aim of our study was to compare the efficacy of currently used two-phase seq
 
 ---
 
-### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^d66946c1]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^116UsiFr]. Gastroenterology (2024). High credibility.
 
 Secondary ulcer prophylaxis in prior PUD — Randomized Japanese trials in patients at risk for ulcer recurrence found vonoprazan 10–20 mg noninferior to lansoprazole 15 mg: among those on long-term low-dose aspirin, 24-week ulcer recurrence was 0.5%–1.5% vs 2.8%, with cumulative gastro-duodenal bleeding 0% vs 3% over 24 weeks and low rates over an additional 6 months; among those requiring long-term nonsteroidal anti-inflammatory drug therapy, 24-week ulcer recurrence was 3% vs 6%, with single-blind extension to 104 weeks showing 4%–6% vs 8%. These data suggest that P-CABs are noninferior to PPIs for secondary peptic ulcer prophylaxis, but do not support their routine use as first-line prophylactic therapy.
 
 ---
 
-### Physician perspectives of Helicobacter pylori diagnostic and treatment practices in Canada: results of a Canadian survey [^15a9cc03]. BMC Gastroenterology (2024). Medium credibility.
+### Physician perspectives of Helicobacter pylori diagnostic and treatment practices in Canada: results of a Canadian survey [^111Z7mq4]. BMC Gastroenterology (2024). Medium credibility.
 
 Background
 
@@ -649,31 +649,31 @@ There is variability in practices among both gastroenterologists and family phys
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^0b7e4689]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^111J3H9S]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to eradication therapy, WSES 2020 guidelines recommend to administer a 10-day sequential therapy with four drugs (amoxicillin, clarithromycin, metronidazole, and PPI) in selected patients with H. pylori-positive bleeding peptic ulcer if compliance to the scheduled regimen can be maintained and if clarithromycin high resistance is detected.
 
 ---
 
-### Peptic ulcer disease [^19992bb4]. Lancet (2017). Excellent credibility.
+### Peptic ulcer disease [^111ex93y]. Lancet (2017). Excellent credibility.
 
 The rapidly declining prevalence of Helicobacter pylori infection and widespread use of potent anti-secretory drugs means peptic ulcer disease has become substantially less prevalent than it was two decades ago. Management has, however, become more challenging than ever because of the threat of increasing antimicrobial resistance worldwide and widespread use of complex anti-thrombotic therapy in the ageing population. Peptic ulcers not associated with H pylori infection or the use of non-steroidal anti-inflammatory drugs are now also imposing substantial diagnostic and therapeutic challenges. This Seminar aims to provide a balanced overview of the latest advances in the pathogenetic mechanisms of peptic ulcers, guidelines on therapies targeting H pylori infection, approaches to treatment of peptic ulcer complications associated with anti-inflammatory analgesics and anti-thrombotic agents, and the unmet needs in terms of our knowledge and management of this increasingly challenging condition.
 
 ---
 
-### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^eddb7ab7]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^1175dnbG]. Gastroenterology (2024). High credibility.
 
 Best practice advice for P-CAB use — In foregut disorders focusing on gastroesophageal reflux disease (GERD), Helicobacter pylori (HP) treatment, and peptic ulcer disease (PUD), the guidance categorizes use from the outer circle toward the center as settings where P-CABs "should generally not be used", "may have potential utility pending further data", "may be used", and "should be used in most patients". The document notes, "These statements only apply to settings in which P-CABs represent an available option".
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^7c726512]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114BVtY1]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to eradication therapy, WSES 2020 guidelines recommend to administer standard triple therapy (amoxicillin, clarithromycin, and PPI) as first-line therapy in patients with H. pylori-positive bleeding peptic ulcer if low clarithromycin resistance is present.
 
 ---
 
-### Alternative treatments to treat perforated peptic ulcer: a systematic review and network meta-analysis of randomized controlled trials [^156442a8]. World Journal of Emergency Surgery (2025). Medium credibility.
+### Alternative treatments to treat perforated peptic ulcer: a systematic review and network meta-analysis of randomized controlled trials [^111YiR9Z]. World Journal of Emergency Surgery (2025). Medium credibility.
 
 Conclusions
 
@@ -681,13 +681,13 @@ Minimally invasive techniques, including laparoscopic and endoscopic interventio
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^cdbf82c7]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^116G2nhk]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ACG 2021 guidelines recommend to perform endoscopic therapy in patients with upper gastrointestinal bleeding due to ulcers with active spurting, active oozing, and nonbleeding visible vessels.
 
 ---
 
-### Medical versus surgical treatment for refractory or recurrent peptic ulcer [^08a3bba3]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Medical versus surgical treatment for refractory or recurrent peptic ulcer [^111Dou2i]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -719,13 +719,13 @@ We found no studies that provide the relative benefits and harms of medical vers
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^f7989452]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^117L5C6M]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to eradication therapy, WSES 2020 guidelines recommend to administer a 10-day levofloxacin-amoxicillin triple therapy as second-line therapy in patients with H. pylori-positive bleeding peptic ulcer if first-line therapy has failed.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^846073a4]. World Journal of Emergency Surgery (2020). Medium credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114PFmEK]. World Journal of Emergency Surgery (2020). Medium credibility.
 
 Background
 
@@ -741,13 +741,13 @@ The population considered in these guidelines is adult patients with suspected c
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^8bbec287]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^114aBMUS]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, WSES 2020 guidelines recommend to consider administering pre-endoscopy erythromycin in patients with bleeding peptic ulcer.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^c304157f]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^115z7xWr]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Summary
 
@@ -773,7 +773,7 @@ UK Medical Research Council and the British Heart Foundation.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^9144597d]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^114iNARJ]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Role of the funding source
 
@@ -781,7 +781,7 @@ The funders had no role in study design, data collection, data analysis, data in
 
 ---
 
-### Perforated peptic ulcer [^8befaedb]. Lancet (2015). Excellent credibility.
+### Perforated peptic ulcer [^114aTnaE]. Lancet (2015). Excellent credibility.
 
 Conclusions and future directions
 
@@ -791,7 +791,7 @@ Identification of prognostic factors and pathways of care that may enhance recov
 
 ---
 
-### Physician perspectives of Helicobacter pylori diagnostic and treatment practices in Canada: results of a Canadian survey [^54534083]. BMC Gastroenterology (2024). Medium credibility.
+### Physician perspectives of Helicobacter pylori diagnostic and treatment practices in Canada: results of a Canadian survey [^113A1vYz]. BMC Gastroenterology (2024). Medium credibility.
 
 Background
 
@@ -801,7 +801,7 @@ Previous studies have outlined differing perspectives on H. pylori treatment. A 
 
 ---
 
-### Overuse of intravenous proton-pump inhibitors in the treatment of low-risk upper gastrointestinal bleeding [^e7f684dd]. Journal of Clinical Gastroenterology (2025). Medium credibility.
+### Overuse of intravenous proton-pump inhibitors in the treatment of low-risk upper gastrointestinal bleeding [^116vtwg8]. Journal of Clinical Gastroenterology (2025). Medium credibility.
 
 Background
 
@@ -821,19 +821,19 @@ IV PPIs are grossly overused in patients with UGIB, suggesting that there is sub
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^071fe69b]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^111BZdT8]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ACG 2021 guidelines recommend to perform endoscopic hemostatic therapy with bipolar electrocoagulation, heater probe, or injection of absolute ethanol in patients with upper gastrointestinal bleeding due to ulcers.
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^9e22fa73]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^1153Snxa]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ACG 2021 guidelines recommend to consider using over-the-scope clips as a hemostatic therapy in patients developing recurrent bleeding due to ulcers after previous successful endoscopic hemostasis.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^cac72a8a]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^116BdPzh]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Background
 
@@ -857,7 +857,7 @@ UK Medical Research Council and the British Heart Foundation.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^b9b6a362]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^115kL4DP]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Methods
 
@@ -871,13 +871,13 @@ Review of the data indicated that the published trials had assessed gastroprotec
 
 ---
 
-### Peptic ulcer disease today [^0ad44e43]. Nature Clinical Practice: Gastroenterology & Hepatology (2006). Medium credibility.
+### Peptic ulcer disease today [^111H4BsG]. Nature Clinical Practice: Gastroenterology & Hepatology (2006). Medium credibility.
 
 Over the past few decades, since the introduction of histamine H(2)-receptor antagonists, proton-pump inhibitors, cyclo-oxygenase-2-selective anti-inflammatory drugs (coxibs), and eradication of Helicobacter pylori infection, the incidence of peptic ulcer disease and ulcer complications has decreased. There has, however, been an increase in ulcer bleeding, especially in elderly patients. At present, there are several management issues that need to be solved: how to manage H. pylori infection when eradication failure rates are high; how best to prevent ulcers developing and recurring in nonsteroidal anti-inflammatory drug (NSAID) and aspirin users; and how to treat non-NSAID, non-H. pylori-associated peptic ulcers. Looking for H. pylori infection, the overt or surreptitious use of NSAIDs and/or aspirin, and the possibility of an acid hypersecretory state are important diagnostic considerations that determine the therapeutic approach. Combined treatment with antisecretory therapy and antibiotics for 1–2 weeks is the first-line choice for H. pylori eradication therapy. For patients at risk of developing an ulcer or ulcer complications, it is important to choose carefully which anti-inflammatory drugs, nonselective NSAIDs or coxibs to use, based on a risk assessment of the patient, especially if the high-risk patient also requires aspirin. Testing for and eradicating H. pylori infection in patients is recommended before starting NSAID therapy, and for those currently taking NSAIDs, when there is a history of ulcers or ulcer complications. Understanding the pathophysiology and best treatment strategies for non-NSAID, non-H. pylori-associated peptic ulcers presents a challenge.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^133f585e]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^111VY3RF]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Added value of the study
 
@@ -891,19 +891,19 @@ The most frequent causes of peptic ulcer disease are Helicobacter pylori infecti
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^663d8357]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^113caQ7g]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 We aimed to examine the effects of PPIs, prostaglandin analogues, and H2RAs in different clinical circumstances by doing meta-analyses of tabular data from all relevant unconfounded randomised trials of gastroprotectant drugs. Here we describe the main findings of these analyses.
 
 ---
 
-### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^528a2830]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guideline: upper gastrointestinal and ulcer bleeding [^1137NPd9]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding therapeutic procedures for peptic ulcer disease, more specifically with respect to endoscopic interventions, bleeding ulcer, ACG 2021 guidelines recommend to consider performing endoscopic hemostatic therapy with clips, argon plasma coagulation, or soft monopolar electrocoagulation in patients with upper gastrointestinal bleeding due to ulcers.
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^ebac413b]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^1172Px26]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Fourth, we excluded studies in the critical care setting because this clinical scenario is often not considered to represent typical peptic ulcer disease, so the results of this meta-analysis cannot be generalised to prevention of bleeding from stress-related mucosal disease in this context. However, a systematic review and meta-analysis of critically ill patients has also reported PPIs as being superior to H2RAs in this setting. Interventional radiology is also now commonly used after failed endoscopy, but this approach was introduced after the completion of most of the trials in our meta-analysis.
 
@@ -915,7 +915,7 @@ In conclusion, this meta-analysis of randomised trials summarises the effects of
 
 ---
 
-### Effective and safe proton pump inhibitor therapy in acid-related diseases – A position paper addressing benefits and potential harms of acid suppression [^3c6a75be]. BMC Medicine (2016). Low credibility.
+### Effective and safe proton pump inhibitor therapy in acid-related diseases – A position paper addressing benefits and potential harms of acid suppression [^112Ya1v5]. BMC Medicine (2016). Low credibility.
 
 Summary of the current evidence
 
@@ -929,25 +929,25 @@ FD is widely prevalent in the general population − up to 15% in Italy − so t
 
 ---
 
-### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^527eab1d]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^1137JXor]. Gastroenterology (2024). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to potassium-competitive acid blockers, AGA 2024 guidelines recommend to insufficient evidence to support the use of potassium-competitive acid blockers as first-line therapy in patients with bleeding gastroduodenal ulcers and high-risk stigmata, but their rapid and potent acid inhibition suggests the possibility of their utility in this population.
 
 ---
 
-### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^7e7057f5]. Gastroenterology (2024). High credibility.
+### AGA clinical practice update on integrating potassium-competitive acid blockers into clinical practice: expert review [^114ETB8x]. Gastroenterology (2024). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to potassium-competitive acid blockers, AGA 2024 guidelines recommend to avoid using potassium-competitive acid blockers as first-line therapy in the treatment or prophylaxis of peptic ulcer disease.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^b22eda7d]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^115ZAXwa]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding surgical interventions for peptic ulcer disease, more specifically with respect to choice of surgical intervention (perforated ulcer), WSES 2020 guidelines recommend to consider adopting a tailored approach based upon the location of the ulcer for the treatment of patients with perforated peptic ulcer > 2 cm. Consider performing resection with contextual operative frozen pathologic examination whenever possible in case of large gastric ulcers that raise the suspicion of malignancy. Consider performing resections or repair plus/minus pyloric exclusion/external bile drainage in case of large duodenal ulcers. Repair with duodenostomy only in extreme circumstances.
 
 ---
 
-### Magnitude, outcome, and predictors of mortality in perforated peptic ulcer disease: a retrospective study in jigjiga town, Ethiopia [^1a1b851f]. World Journal of Emergency Surgery (2025). Medium credibility.
+### Magnitude, outcome, and predictors of mortality in perforated peptic ulcer disease: a retrospective study in jigjiga town, Ethiopia [^111fhvTg]. World Journal of Emergency Surgery (2025). Medium credibility.
 
 Introduction
 
@@ -959,7 +959,7 @@ The most common presenting symptom was sudden onset of abdominal pain followed b
 
 ---
 
-### Diagnosis and therapy in the era of antimicrobial stewardship [^5ab5654b]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
+### Diagnosis and therapy in the era of antimicrobial stewardship [^113KUpEe]. Therapeutic Advances in Gastroenterology (2021). Medium credibility.
 
 Introduction
 
@@ -969,7 +969,7 @@ H. pylori infections are typically lifelong and rarely spontaneously disappear u
 
 ---
 
-### When is proton pump inhibitor use appropriate? [^b679b22e]. BMC Medicine (2017). Low credibility.
+### When is proton pump inhibitor use appropriate? [^115fXd7s]. BMC Medicine (2017). Low credibility.
 
 Conclusions
 
@@ -977,25 +977,25 @@ In summary, Scarpignato et al. should be commended for this remarkable effort. I
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^ae249b58]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^115TB9CB]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to initial resuscitation (perforated ulcer), WSES 2020 guidelines recommend to restore physiological parameters in unstable patients with perforated peptic ulcer targeting a mean arterial pressure ≥ 65 mmHg, a urine output ≥ 0.5 mL/kg/h, and lactate normalization.
 
 ---
 
-### Gastric and duodenal ulcers during pregnancy [^27e49d0e]. Gastroenterology Clinics of North America (2003). Low credibility.
+### Gastric and duodenal ulcers during pregnancy [^11229Jjw]. Gastroenterology Clinics of North America (2003). Low credibility.
 
 The frequency, symptoms, and complication rate of PUD seem to decrease during pregnancy. Yet clinicians often have to treat dyspepsia or pyrosis of undetermined origin during pregnancy because the frequency of pyrosis significantly increases during pregnancy, and clinicians reluctantly perform EGD during pregnancy for pyrosis to differentiate reliably between GERD and PUD. Dyspepsia or pyrosis during pregnancy is initially treated with dietary and lifestyle modifications. If the symptoms do not remit with these modifications, sucralfate or antacids, preferably magnesium-containing or aluminum-containing antacids, should be administered. Histamine2 receptor antagonists are recommended when symptoms are refractory to antacid or sucralfate therapy. Ranitidine seems to be a relatively safe H2 receptor antagonist. If symptoms continue despite H2 receptor antagonist therapy, the patient should be evaluated for possible EGD or PPI therapy. Pregnant women with hemodynamically significant upper gastrointestinal bleeding or other worrisome clinical findings should undergo EGD. Indications for surgery include ulcer perforation, ongoing active bleeding from an ulcer requiring transfusion of six or more units of packed erythrocytes, gastric outlet obstruction refractory to intense medical therapy, and a malignant gastric ulcer without evident metastases.
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^4abac158]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^112unp95]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to initial resuscitation (bleeding ulcer), WSES 2020 guidelines recommend to use several resuscitation targets, similar to those of damage control resuscitation in patients with bleeding trauma.
 
 ---
 
-### Peptic ulcer disease [^6e358169]. Current Opinion in Gastroenterology (2004). Low credibility.
+### Peptic ulcer disease [^113pPcNU]. Current Opinion in Gastroenterology (2004). Low credibility.
 
 Purpose Of Review
 
@@ -1011,13 +1011,13 @@ The review period's main "new" information relates to the nonsteroidal antiinfla
 
 ---
 
-### Peptic-ulcer disease [^e0d7bb79]. Lancet (2002). Excellent credibility.
+### Peptic-ulcer disease [^116kLgvt]. Lancet (2002). Excellent credibility.
 
 The discovery of Helicobacter pylori has greatly changed our approach to peptic ulcer disease. Bacterial, host, and environmental factors all have a role in peptic-ulcer disease. Although the prevalence of uncomplicated peptic ulcers is falling, hospital admissions for ulcer complications associated with non-steroidal anti-inflammatory drugs (NSAIDs) are rising. Evidence suggests that prescription of NSAIDs along with potent antiulcer agents and the use of highly selective cyclo-oxygenase-2 inhibitors reduce gastroduodenal ulceration. Whether these therapeutic advances will translate into clinical benefits remains to be seen. The interaction between H pylori and NSAIDs is one of the most controversial issues in peptic ulcer disease. With the fall in rates of H pylori infection, the proportion of ulcers not related to this organism and NSAIDs has risen, which will affect the management of peptic ulcer.
 
 ---
 
-### Turn over the new leaf of the treatment in peptic ulcer bleeding: a review of the literature [^1a02f3de]. Therapeutic Advances in Gastroenterology (2024). Medium credibility.
+### Turn over the new leaf of the treatment in peptic ulcer bleeding: a review of the literature [^111fZfrD]. Therapeutic Advances in Gastroenterology (2024). Medium credibility.
 
 Introduction
 
@@ -1029,7 +1029,7 @@ Common symptoms of peptic ulcers include epigastric pain, bloating, nausea, vomi
 
 ---
 
-### Perforated peptic ulcer [^9157a45e]. Lancet (2015). Excellent credibility.
+### Perforated peptic ulcer [^114iUeGV]. Lancet (2015). Excellent credibility.
 
 Introduction
 
@@ -1037,7 +1037,7 @@ Perforated peptic ulcer (PPU) is a surgical emergency and is associated with sho
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^f70f1d96]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^117KH25j]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 Figure 2
 Prevention trials: effects of gastroprotectants on endoscopic and symptomatic ulcers
@@ -1050,7 +1050,7 @@ Overall, compared with control, allocation to a gastroprotectant drug resulted i
 
 ---
 
-### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^2250248d]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
+### Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials [^111ssVtY]. The Lancet: Gastroenterology & Hepatology (2018). Medium credibility.
 
 In the healing trials, we found that allocation to a gastroprotectant drug more than trebled the odds of endoscopic ulcer healing overall, compared with control (207 trials with median duration 0.9 months [IQR 0.9–1.4]: OR 3.49 [95% CI 3.28–3.72]; absolute benefit 261 [247–274] avoided per 1000 allocated treatment; p < 0.0001; figure 5). Based on trials comparing a gastroprotectant with control, the order of effectiveness of gastroprotectant classes for duodenal and gastric ulcer healing was: PPIs as the most effective, followed by H2RAs and finally prostaglandin analogues (p het < 0.0001 and p het = 0.0325 respectively; figure 5). This order was consistent with the ordering implied by the results of direct comparisons of one gastroprotectant class versus another gastroprotectant class (appendix p 9).
 
@@ -1063,13 +1063,13 @@ Individual PPIs were all effective for endoscopic ulcer healing, but differed in
 
 ---
 
-### Management of Helicobacter pylori infection [^1c2495fd]. American Family Physician (2002). Low credibility.
+### Management of Helicobacter pylori infection [^111iiweC]. American Family Physician (2002). Low credibility.
 
 Helicobacter pylori is the cause of most peptic ulcer disease and a primary risk factor for gastric cancer. Eradication of the organism results in ulcer healing and reduces the risk of ulcer recurrence and complications. Testing and treatment have no clear value in patients with documented nonulcer dyspepsia; however, a test-and-treat strategy is recommended but for patients with undifferentiated dyspepsia who have not undergone endoscopy. In the office setting, initial serology testing is practical and affordable, with endoscopy reserved for use in patients with alarm symptoms for ulcer complications or cancer, or those who do not respond to treatment. Treatment involves 10- to 14-day multidrug regimens including antibiotics and acid suppressants, combined with education about avoidance of other ulcer-causing factors and the need for close follow-up. Follow-up testing (i.e., urea breath or stool antigen test) is recommended for patients who do not respond to therapy or those with a history of ulcer complications or cancer.
 
 ---
 
-### Best treatment approach: should a national consensus be the best consensus? [^f46af66a]. Annals of Gastroenterology (2017). Low credibility.
+### Best treatment approach: should a national consensus be the best consensus? [^117FMuZT]. Annals of Gastroenterology (2017). Low credibility.
 
 Table 1
 Basic conclusive suggestions and data concerning the best approach to H. pylori treatment from the worldwide existing guidelines and consensuses in relation to antibiotic resistance
@@ -1078,7 +1078,7 @@ It seems that the best treatment approach to H. pylori is running at full speed 
 
 ---
 
-### Rabeprazole (rabeprazole sodium) [^3897493a]. FDA (2023). Medium credibility.
+### Rabeprazole (rabeprazole sodium) [^112Su857]. FDA (2023). Medium credibility.
 
 14.5 Helicobacter pylori Eradication in Patients with Peptic Ulcer Disease or Symptomatic Non-Ulcer Disease in Adults
 
@@ -1096,7 +1096,7 @@ The recommended starting dosage of rabeprazole sodium delayed-release tablets is
 
 ---
 
-### Risk of uncomplicated peptic ulcer disease in a cohort of new users of low-dose acetylsalicylic acid for secondary prevention of cardiovascular events [^f8869072]. BMC Gastroenterology (2014). Low credibility.
+### Risk of uncomplicated peptic ulcer disease in a cohort of new users of low-dose acetylsalicylic acid for secondary prevention of cardiovascular events [^117MT8Qq]. BMC Gastroenterology (2014). Low credibility.
 
 To confirm the validity of our case ascertainment further, we sent a questionnaire to the corresponding PCPs requesting confirmation and copies of paper-based records for 100 patients randomly sampled from the definite cases (n = 96) and possible cases (n = 4). We received records for 98 patients. The uncomplicated PUD diagnosis was confirmed by the PCPs for 76 patients. The confirmation rate among the definite cases was 80% and only 25% among possible cases. We retained as cases all definite cases confirmed by a questionnaire (n = 75) and those definite cases for which we did not have a questionnaire (n = 233). Due to the low confirmation rate among possible cases, we only retained the single patient initially classified as possible, whose diagnosis was confirmed by the PCP. The majority of patients who were not retained as uncomplicated PUD cases had a discharge letter with a diagnosis of a complication (e.g. bleeding) not recorded in their computerized file.
 
@@ -1111,13 +1111,13 @@ A date within the study period was generated at random for each member of the st
 
 ---
 
-### Perforated and bleeding peptic ulcer: WSES guidelines [^af083ba9]. World Journal of Emergency Surgery (2020). High credibility.
+### Perforated and bleeding peptic ulcer: WSES guidelines [^115UVbi8]. World Journal of Emergency Surgery (2020). High credibility.
 
 Regarding medical management for peptic ulcer disease, more specifically with respect to initial resuscitation (perforated ulcer), WSES 2020 guidelines recommend to consider using different types of hemodynamic monitoring (invasive or not) to optimize fluids/vasopressor therapy and to individualize the resuscitation strategy.
 
 ---
 
-### Tegoprazan and lansoprazole effectiveness in bleeding peptic… [^d5737642]. ClinicalTrials (2025). Medium credibility.
+### Tegoprazan and lansoprazole effectiveness in bleeding peptic… [^116TT9QV]. ClinicalTrials (2025). Medium credibility.
 
 Tegoprazan And Lansoprazole Effectiveness in Bleeding Peptic Ulcer Treatment ClinicalTrials. gov ID. Peptic ulcer disease is a condition characterized by disruption of the gastric and duodenal mucosal lining due to exposure to gastric acid or pepsin. Major causes include Helicobacter pylori infection, nonsteroidal anti-inflammatory drug use, gastric bypass surgery, lifestyle factors such as smoking and alcohol consumption, and genetic predisposition. PUD affects 5–10% of the global population and poses a significant healthcare burden, with prevalence rising from 6. 43 million to
 8. 09 million cases between 1990 and 2019. Current PUD treatment involves acid-suppressing agents and H. pylori eradication when indicated. Proton pump inhibitors play a key role by irreversibly inhibiting H⁺/K⁺ ATPase in gastric parietal cells, effectively maintaining gastric pH ≥ 4, which is essential for ulcer healing and preventing complications like bleeding.

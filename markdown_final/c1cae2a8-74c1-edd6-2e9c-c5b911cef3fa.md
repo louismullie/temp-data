@@ -17,29 +17,29 @@ Is quetiapine associated with sleep walking?
 
 > Let me first confirm the clinical entity. Sleepwalking, or somnambulism, is a parasomnia arising from partial arousal out of NREM sleep, typically slow-wave sleep, with complex motor behaviors and impaired awareness; it is distinct from REM behavior disorder and from simple confusional arousals, and it carries injury risk during episodes.
 
-> Next, I should review regulatory labeling. Multiple FDA labels for quetiapine explicitly list somnambulism among adverse reactions, albeit with unknown frequency, which establishes a recognized but rare association; this is consistent across immediate-release and extended-release formulations and across different label versions, reinforcing that the signal is not isolated to a single product or dataset [^b3c06160] [^5c89edb3] [^f9ae5613] [^49ebf3df] [^0a19e94c] [^aa2e586f].
+> Next, I should review regulatory labeling. Multiple FDA labels for quetiapine explicitly list somnambulism among adverse reactions, albeit with unknown frequency, which establishes a recognized but rare association; this is consistent across immediate-release and extended-release formulations and across different label versions, reinforcing that the signal is not isolated to a single product or dataset [^115bVQKH] [^113NCBzS] [^117PAUWn] [^112tbMJN] [^111FyacT] [^115MJTnn].
 
-> Hold on, let's not jump to conclusions; I need to check the strength of clinical evidence. A dedicated case series and systematic review identified 28 cases of sleepwalking and/or sleep-related eating linked to atypical antipsychotics, with quetiapine the most frequently implicated agent, and complete resolution of episodes with dose reduction, discontinuation, switching, or treatment of comorbid OSA; this supports a causal, dose-related, and reversible association in susceptible patients [^93fc72bb].
+> Hold on, let's not jump to conclusions; I need to check the strength of clinical evidence. A dedicated case series and systematic review identified 28 cases of sleepwalking and/or sleep-related eating linked to atypical antipsychotics, with quetiapine the most frequently implicated agent, and complete resolution of episodes with dose reduction, discontinuation, switching, or treatment of comorbid OSA; this supports a causal, dose-related, and reversible association in susceptible patients [^114nPyWi].
 
-> I will now examine broader systematic reviews to contextualize. A medication-induced sleepwalking review cataloged antipsychotics among drug classes with case-level evidence, again emphasizing that the signal for quetiapine is based on case reports rather than randomized trials; this aligns with the FDA's "unknown frequency" designation and underscores that the absolute risk appears low but real [^34cf0122].
+> I will now examine broader systematic reviews to contextualize. A medication-induced sleepwalking review cataloged antipsychotics among drug classes with case-level evidence, again emphasizing that the signal for quetiapine is based on case reports rather than randomized trials; this aligns with the FDA's "unknown frequency" designation and underscores that the absolute risk appears low but real [^112MHtRf].
 
-> Let me consider dose and timing, because I need to ensure clinical relevance. Cases and reviews suggest sleepwalking can occur across a range of quetiapine doses, including low doses used off-label for insomnia, and that evening dosing may facilitate episodes by increasing sedation and altering sleep architecture; this fits with quetiapine's prominent H1 antagonism and dose-related somnolence, which can deepen NREM sleep and impair arousal stability [^93fc72bb] [^cd997461] [^5c45be37].
+> Let me consider dose and timing, because I need to ensure clinical relevance. Cases and reviews suggest sleepwalking can occur across a range of quetiapine doses, including low doses used off-label for insomnia, and that evening dosing may facilitate episodes by increasing sedation and altering sleep architecture; this fits with quetiapine's prominent H1 antagonism and dose-related somnolence, which can deepen NREM sleep and impair arousal stability [^114nPyWi] [^116Fp1Jp] [^113MoHdY].
 
-> But wait, what if other factors are driving this? I should double-check predisposing and precipitating conditions. NREM parasomnias require a predisposition plus priming and precipitating factors; medications that increase slow-wave sleep or blunt arousal can prime episodes, and concomitant sleep-disordered breathing, periodic limb movements, alcohol, or sleep deprivation can precipitate them; thus, quetiapine may act as a primer or trigger in genetically susceptible individuals rather than a sole cause in most cases [^daa1c626].
+> But wait, what if other factors are driving this? I should double-check predisposing and precipitating conditions. NREM parasomnias require a predisposition plus priming and precipitating factors; medications that increase slow-wave sleep or blunt arousal can prime episodes, and concomitant sleep-disordered breathing, periodic limb movements, alcohol, or sleep deprivation can precipitate them; thus, quetiapine may act as a primer or trigger in genetically susceptible individuals rather than a sole cause in most cases [^116b8e3f].
 
-> I need to ensure mechanistic plausibility. Quetiapine's high H1 antagonism promotes sedation and can consolidate NREM sleep, while alpha-1 blockade and serotonergic modulation may destabilize arousal thresholds; these pharmacologic effects plausibly facilitate partial arousals from slow-wave sleep with complex behaviors, consistent with observed somnambulism reports and the drug's overall somnolence profile [^773e0ae7] [^cd997461] [^e4354072].
+> I need to ensure mechanistic plausibility. Quetiapine's high H1 antagonism promotes sedation and can consolidate NREM sleep, while alpha-1 blockade and serotonergic modulation may destabilize arousal thresholds; these pharmacologic effects plausibly facilitate partial arousals from slow-wave sleep with complex behaviors, consistent with observed somnambulism reports and the drug's overall somnolence profile [^1143nNDt] [^116Fp1Jp] [^116qL4gR].
 
-> Let me weigh the totality of evidence. The convergence of regulatory labeling, a focused case series/systematic review, and mechanistic plausibility supports a rare but genuine association between quetiapine and sleepwalking; the absence of robust epidemiologic or RCT data means the absolute risk cannot be quantified precisely, but the signal is consistent across sources and resolves with intervention, which strengthens causality inference in clinical practice [^b3c06160] [^93fc72bb] [^34cf0122].
+> Let me weigh the totality of evidence. The convergence of regulatory labeling, a focused case series/systematic review, and mechanistic plausibility supports a rare but genuine association between quetiapine and sleepwalking; the absence of robust epidemiologic or RCT data means the absolute risk cannot be quantified precisely, but the signal is consistent across sources and resolves with intervention, which strengthens causality inference in clinical practice [^115bVQKH] [^114nPyWi] [^112MHtRf].
 
-> Now, I should translate this into practical guidance. Clinicians should counsel patients starting or adjusting quetiapine about rare complex sleep behaviors, advise immediate reporting of sleepwalking or related episodes, and implement safety measures such as removing bedroom hazards and securing access to dangerous areas; if sleepwalking occurs, consider dose reduction, switching to a less sedating antipsychotic or alternative sleep agent, and screen for and treat comorbid OSA or other sleep disorders that may lower arousal thresholds [^93fc72bb] [^ab7513e8] [^daa1c626].
+> Now, I should translate this into practical guidance. Clinicians should counsel patients starting or adjusting quetiapine about rare complex sleep behaviors, advise immediate reporting of sleepwalking or related episodes, and implement safety measures such as removing bedroom hazards and securing access to dangerous areas; if sleepwalking occurs, consider dose reduction, switching to a less sedating antipsychotic or alternative sleep agent, and screen for and treat comorbid OSA or other sleep disorders that may lower arousal thresholds [^114nPyWi] [^115PCD3m] [^116b8e3f].
 
-> Hold on, I should verify special populations and monitoring. In older adults, the risks of falls and cognitive/motor impairment with quetiapine are heightened, so any somnambulism adds injury risk; guidelines already advise caution and close monitoring when antipsychotics are used in elderly patients, and this extends to evaluating sleep-related adverse effects like sleepwalking when they emerge [^f311048c] [^8a8dd992].
+> Hold on, I should verify special populations and monitoring. In older adults, the risks of falls and cognitive/motor impairment with quetiapine are heightened, so any somnambulism adds injury risk; guidelines already advise caution and close monitoring when antipsychotics are used in elderly patients, and this extends to evaluating sleep-related adverse effects like sleepwalking when they emerge [^117DMi1h] [^114YQwMB].
 
-> In summary, yes, quetiapine is associated with sleepwalking, but the association is rare, dose-related, and typically reversible with medication modification and management of contributing sleep disorders; clinicians should maintain vigilance, educate patients, and individualize risk–benefit decisions, especially when using quetiapine for insomnia or in patients with known parasomnia vulnerability [^b3c06160] [^93fc72bb] [^34cf0122].
+> In summary, yes, quetiapine is associated with sleepwalking, but the association is rare, dose-related, and typically reversible with medication modification and management of contributing sleep disorders; clinicians should maintain vigilance, educate patients, and individualize risk–benefit decisions, especially when using quetiapine for insomnia or in patients with known parasomnia vulnerability [^115bVQKH] [^114nPyWi] [^112MHtRf].
 
 ---
 
-Quetiapine is associated with **sleepwalking (somnambulism)** [^93fc72bb], though the risk is low and appears higher with higher doses or when combined with other sedatives [^34cf0122] [^cd997461] [^850806ca]. Sleepwalking has been reported in both immediate-release and extended-release formulations [^b3c06160] [^5c89edb3], and episodes typically resolve with dose reduction, medication change, or treatment of comorbid sleep apnea [^93fc72bb]. Clinicians should counsel patients on sleep safety and monitor for complex sleep behaviors, especially at initiation or dose escalation [^34cf0122].
+Quetiapine is associated with **sleepwalking (somnambulism)** [^114nPyWi], though the risk is low and appears higher with higher doses or when combined with other sedatives [^112MHtRf] [^116Fp1Jp] [^114QE3rH]. Sleepwalking has been reported in both immediate-release and extended-release formulations [^115bVQKH] [^113NCBzS], and episodes typically resolve with dose reduction, medication change, or treatment of comorbid sleep apnea [^114nPyWi]. Clinicians should counsel patients on sleep safety and monitor for complex sleep behaviors, especially at initiation or dose escalation [^112MHtRf].
 
 ---
 
@@ -47,11 +47,11 @@ Quetiapine is associated with **sleepwalking (somnambulism)** [^93fc72bb], thoug
 
 Multiple sources document **quetiapine-associated sleepwalking**, including case reports, case series, and systematic reviews:
 
-- **Case series and systematic review**: A 2020 case series and systematic review identified 28 cases of sleepwalking associated with atypical antipsychotics, with quetiapine the most commonly implicated agent (14 cases) [^93fc72bb]. Episodes resolved with dose reduction, discontinuation, switching medications, or treating comorbid obstructive sleep apnea (OSA) [^93fc72bb].
+- **Case series and systematic review**: A 2020 case series and systematic review identified 28 cases of sleepwalking associated with atypical antipsychotics, with quetiapine the most commonly implicated agent (14 cases) [^114nPyWi]. Episodes resolved with dose reduction, discontinuation, switching medications, or treating comorbid obstructive sleep apnea (OSA) [^114nPyWi].
 
-- **FDA labeling**: The FDA labels for both immediate-release and extended-release quetiapine list somnambulism as an adverse reaction, indicating a recognized association [^b3c06160] [^5c89edb3] [^f9ae5613] [^49ebf3df].
+- **FDA labeling**: The FDA labels for both immediate-release and extended-release quetiapine list somnambulism as an adverse reaction, indicating a recognized association [^115bVQKH] [^113NCBzS] [^117PAUWn] [^112tbMJN].
 
-- **Systematic review of medication-induced sleepwalking**: A 2018 review identified antipsychotics, including quetiapine, as potential triggers for sleepwalking, though evidence is largely based on case reports [^34cf0122].
+- **Systematic review of medication-induced sleepwalking**: A 2018 review identified antipsychotics, including quetiapine, as potential triggers for sleepwalking, though evidence is largely based on case reports [^112MHtRf].
 
 ---
 
@@ -59,11 +59,11 @@ Multiple sources document **quetiapine-associated sleepwalking**, including case
 
 Quetiapine-induced sleepwalking shares features with other medication-induced parasomnias:
 
-- **Dose-relatedness**: Higher doses of quetiapine appear to increase the risk of sleepwalking, consistent with its sedative properties and effects on sleep architecture [^93fc72bb].
+- **Dose-relatedness**: Higher doses of quetiapine appear to increase the risk of sleepwalking, consistent with its sedative properties and effects on sleep architecture [^114nPyWi].
 
 - **Combination with other sedatives**: Concurrent use of other sedating medications, such as benzodiazepines or hypnotics, may exacerbate the risk of sleepwalking [^notfound].
 
-- **Comorbid sleep disorders**: Obstructive sleep apnea and other sleep disorders may predispose patients to sleepwalking when taking quetiapine [^93fc72bb].
+- **Comorbid sleep disorders**: Obstructive sleep apnea and other sleep disorders may predispose patients to sleepwalking when taking quetiapine [^114nPyWi].
 
 ---
 
@@ -71,11 +71,11 @@ Quetiapine-induced sleepwalking shares features with other medication-induced pa
 
 The exact mechanism is not fully understood; proposed explanations include:
 
-- **Sedative effects**: Quetiapine's potent H1 antagonism and alpha-1 adrenergic blockade cause sedation and may destabilize arousal from NREM sleep, facilitating sleepwalking [^773e0ae7].
+- **Sedative effects**: Quetiapine's potent H1 antagonism and alpha-1 adrenergic blockade cause sedation and may destabilize arousal from NREM sleep, facilitating sleepwalking [^1143nNDt].
 
-- **Altered sleep architecture**: Quetiapine increases total sleep time and NREM sleep, potentially increasing slow-wave sleep where sleepwalking occurs [^5c45be37].
+- **Altered sleep architecture**: Quetiapine increases total sleep time and NREM sleep, potentially increasing slow-wave sleep where sleepwalking occurs [^113MoHdY].
 
-- **Interaction with other medications**: CYP3A4 inhibitors can increase quetiapine levels, potentially heightening sedative effects and sleepwalking risk [^850806ca].
+- **Interaction with other medications**: CYP3A4 inhibitors can increase quetiapine levels, potentially heightening sedative effects and sleepwalking risk [^114QE3rH].
 
 ---
 
@@ -83,35 +83,35 @@ The exact mechanism is not fully understood; proposed explanations include:
 
 When sleepwalking occurs with quetiapine, clinicians may consider:
 
-- **Dose reduction**: Lowering the dose or switching to a less sedating antipsychotic may reduce or eliminate episodes [^93fc72bb].
+- **Dose reduction**: Lowering the dose or switching to a less sedating antipsychotic may reduce or eliminate episodes [^114nPyWi].
 
-- **Medication adjustment**: Switching to an alternative antipsychotic with a different pharmacological profile may be beneficial [^93fc72bb].
+- **Medication adjustment**: Switching to an alternative antipsychotic with a different pharmacological profile may be beneficial [^114nPyWi].
 
-- **Addressing comorbid sleep disorders**: Treating obstructive sleep apnea or other sleep disorders can significantly reduce sleepwalking episodes [^93fc72bb].
+- **Addressing comorbid sleep disorders**: Treating obstructive sleep apnea or other sleep disorders can significantly reduce sleepwalking episodes [^114nPyWi].
 
-- **Patient counseling**: Educate patients on sleep safety measures, such as securing the environment, to prevent injury during episodes [^34cf0122].
+- **Patient counseling**: Educate patients on sleep safety measures, such as securing the environment, to prevent injury during episodes [^112MHtRf].
 
 ---
 
 ## Comparison with other antipsychotics
 
-Quetiapine appears to have a **higher association with sleepwalking** than some other antipsychotics, likely due to its pronounced sedative properties. However, sleepwalking has been reported with other atypical antipsychotics as well, albeit less frequently [^93fc72bb].
+Quetiapine appears to have a **higher association with sleepwalking** than some other antipsychotics, likely due to its pronounced sedative properties. However, sleepwalking has been reported with other atypical antipsychotics as well, albeit less frequently [^114nPyWi].
 
 ---
 
 ## Clinical implications and recommendations
 
-Clinicians should be aware of the potential for quetiapine-induced sleepwalking, particularly at higher doses or when combined with other sedatives. Routine monitoring for complex sleep behaviors, especially during initiation and dose escalation, is advisable. Patients should be counseled on sleep safety, and any reported sleepwalking should prompt evaluation of dose, concomitant medications, and comorbid sleep disorders [^34cf0122].
+Clinicians should be aware of the potential for quetiapine-induced sleepwalking, particularly at higher doses or when combined with other sedatives. Routine monitoring for complex sleep behaviors, especially during initiation and dose escalation, is advisable. Patients should be counseled on sleep safety, and any reported sleepwalking should prompt evaluation of dose, concomitant medications, and comorbid sleep disorders [^112MHtRf].
 
 ---
 
-Quetiapine is associated with **sleepwalking**, though the risk is low and appears higher with higher doses or when combined with other sedatives. Clinicians should monitor for complex sleep behaviors, counsel on sleep safety, and adjust therapy as needed if sleepwalking occurs [^93fc72bb].
+Quetiapine is associated with **sleepwalking**, though the risk is low and appears higher with higher doses or when combined with other sedatives. Clinicians should monitor for complex sleep behaviors, counsel on sleep safety, and adjust therapy as needed if sleepwalking occurs [^114nPyWi].
 
 ---
 
 ## References
 
-### Quetiapine fumarate PO side effects [^b3c06160]. FDA (2025). Medium credibility.
+### Quetiapine fumarate PO side effects [^115bVQKH]. FDA (2025). Medium credibility.
 
 Very Common
 - agitation
@@ -202,7 +202,7 @@ Unknown Frequency
 
 ---
 
-### Quetiapine fumarate ER PO side effects [^5c89edb3]. FDA (2025). Medium credibility.
+### Quetiapine fumarate ER PO side effects [^113NCBzS]. FDA (2025). Medium credibility.
 
 Very Common
 - dizziness
@@ -284,7 +284,7 @@ Unknown Frequency
 
 ---
 
-### Sleepwalking and sleep-related eating associated with atypical antipsychotic medications: case series and systematic review of literature [^93fc72bb]. General Hospital Psychiatry (2020). Medium credibility.
+### Sleepwalking and sleep-related eating associated with atypical antipsychotic medications: case series and systematic review of literature [^114nPyWi]. General Hospital Psychiatry (2020). Medium credibility.
 
 Background
 
@@ -304,7 +304,7 @@ Sleep walking (SW), with or without sleep related eating (SRE), can be a rare bu
 
 ---
 
-### Effects of quetiapine on sleep in nonpsychiatric and psychiatric conditions [^bcb0c589]. The Annals of Pharmacotherapy (2009). Low credibility.
+### Effects of quetiapine on sleep in nonpsychiatric and psychiatric conditions [^115pk3ma]. The Annals of Pharmacotherapy (2009). Low credibility.
 
 Objective
 
@@ -328,13 +328,13 @@ Further studies are needed to define the placement, dose, and adverse effects of
 
 ---
 
-### Medication induced sleepwalking: a systematic review [^34cf0122]. Sleep Medicine Reviews (2018). Low credibility.
+### Medication induced sleepwalking: a systematic review [^112MHtRf]. Sleep Medicine Reviews (2018). Low credibility.
 
 Medications that trigger sleepwalking may inadvertently put the patient at risk of injury to themselves and/or others, and contribute to poor treatment adherence. The aim of this study was to systematically review the literature to identify drugs that may increase the risk of sleepwalking. A search of CINAHL, EMBASE, PsycINFO, PubMed, and ScienceDirect was conducted with the keywords 'sleepwalking' OR 'somnambulism'. Of the original 83 sourced papers, 62 met the inclusion criteria and were subsequently included for review. Twenty-nine drugs, primarily in four classes-benzodiazepine receptor agonists and other gamma aminobutyric acid (GABA) modulators, antidepressants and other serotonergic agents, antipsychotics, and β-blockers-were identified as possible triggers for sleepwalking. The strongest evidence for medication-induced sleepwalking was for zolpidem and sodium oxybate. All other associations were based on case reports. This research highlights the importance of considering sleepwalking in risk profiles in clinical trials, particularly for drugs that enhance GABA activity at the GABA A receptor, enhance serotonergic activity, or block the activity of noradrenaline at β receptors. The results also have implications for prescribers to consider sleepwalking as a potential adverse effect and ensure that: 1) the patient is educated about a safe sleep environment; 2) they are encouraged to report the onset or exacerbation of sleepwalking, and 3) alternative treatments are considered if sleepwalking occurs.
 
 ---
 
-### Safety of low doses of quetiapine when used for insomnia [^d962efc8]. The Annals of Pharmacotherapy (2012). Low credibility.
+### Safety of low doses of quetiapine when used for insomnia [^116ZHYbR]. The Annals of Pharmacotherapy (2012). Low credibility.
 
 Objective
 
@@ -358,13 +358,13 @@ There are potential safety concerns when using low-dose quetiapine for treatment
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^f311048c]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^117DMi1h]. DoD/VA (2025). High credibility.
 
 Antipsychotics for chronic insomnia disorder — quetiapine risks and monitoring: Evidence on using low-dose quetiapine is limited to a few studies and case series with short duration, small sample sizes, and vague and incomplete details, making efficacy inconclusive. Doses typically used for insomnia are lower than the FDA-recommended dosage of 150–800 mg/day, and all antipsychotics, including low-dose quetiapine, are known for causing harms; quetiapine has a black box warning indicating a 1.6 to 1.7 fold increase in mortality in elderly populations with dementia-related psychosis. All antipsychotics carry a strong recommendation in the 2023 Beers Criteria to avoid their use in the elderly except in schizophrenia or bipolar disorders due to an increased risk of cerebrovascular accident and a greater rate of cognitive decline and mortality in persons with dementia; anticholinergic effects, including sedating and hypotensive effects, occur with all antipsychotics in varying frequency and severity. It is advised that routine monitoring of metabolic parameters be conducted with all antipsychotics due to the risk of hyperglycemia, dyslipidemia, and weight gain, and active-duty service member use of an antipsychotic may affect deploy ability.
 
 ---
 
-### Quetiapine (quetiapine fumarate) [^b9d9bf5e]. FDA (2025). Medium credibility.
+### Quetiapine (quetiapine fumarate) [^115kXrCV]. FDA (2025). Medium credibility.
 
 Quetiapine extended-release tablets and other medicines may affect each other causing serious side effects. Quetiapine extended-release tablets may affect the way other medicines work, and other medicines may affect how quetiapine extended-release tablets work.
 
@@ -380,13 +380,13 @@ If you miss a dose of quetiapine extended-release tablets, take them as soon as 
 
 ---
 
-### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^53b097ca]. The American Journal of Psychiatry (2007). Medium credibility.
+### American psychiatric association practice guideline for the treatment of patients with Alzheimer's disease and other dementias. second edition [^11395HhT]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Alzheimer's disease and other dementias — administration timing and frequency considerations include leveraging side effects for benefit, evening dosing to address sundowning, and dosing frequency: A more sedating agent may be given at bedtime for patients with insomnia with agitation or psychosis; antipsychotics are most commonly administered in the evening so peak levels align with evening behavioral problems; most have long half-lives so once-a-day dosing is generally sufficient, with quetiapine usually given twice daily, though morning or twice-daily dosing of other agents may help some patients.
 
 ---
 
-### Effects of short-term quetiapine treatment on emotional processing, sleep and circadian rhythms [^1fdaf8ca]. Journal of Psychopharmacology (2016). Low credibility.
+### Effects of short-term quetiapine treatment on emotional processing, sleep and circadian rhythms [^111pEAem]. Journal of Psychopharmacology (2016). Low credibility.
 
 Background
 
@@ -406,7 +406,7 @@ These changes in sleep timing and circadian rhythmicity in healthy volunteers ma
 
 ---
 
-### Quetiapine (quetiapine fumarate) [^1a6b470e]. FDA (2025). Medium credibility.
+### Quetiapine (quetiapine fumarate) [^111gAiGD]. FDA (2025). Medium credibility.
 
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
@@ -439,7 +439,7 @@ Not all antidepressant medicines prescribed for children are FDA approved for us
 
 ---
 
-### Sleep disturbance may impact treatment outcome in bipolar disorder: a preliminary investigation in the context of a large comparative effectiveness trial [^414d57e2]. Journal of Affective Disorders (2018). Low credibility.
+### Sleep disturbance may impact treatment outcome in bipolar disorder: a preliminary investigation in the context of a large comparative effectiveness trial [^112fpB61]. Journal of Affective Disorders (2018). Low credibility.
 
 Background
 
@@ -463,7 +463,7 @@ Baseline sleep disturbance was associated with more severe bipolar symptoms and 
 
 ---
 
-### Consensus clinical management guideline for-associated neurodegeneration (PLAN) [^f5642fd3]. Journal of Child Neurology (2025). Medium credibility.
+### Consensus clinical management guideline for-associated neurodegeneration (PLAN) [^117Gocqg]. Journal of Child Neurology (2025). Medium credibility.
 
 Psychiatric and Behavioral
 
@@ -479,13 +479,13 @@ Environment
 
 ---
 
-### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^3202455f]. Journal of Huntington's Disease (2018). Medium credibility.
+### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^112H99LJ]. Journal of Huntington's Disease (2018). Medium credibility.
 
 Regarding medical management for Huntington's disease, more specifically with respect to management of sleep disorders, HD-EG 2018 guidelines recommend to offer sedating antidepressants (such as mirtazapine or trazodone) or neuroleptics (such as olanzapine and quetiapine) as pharmacologic options for sleep disorders in patients with HD.
 
 ---
 
-### A pooled analysis of two randomised, placebo-controlled studies of extended release quetiapine fumarate adjunctive to antidepressant therapy in patients with major depressive disorder [^9fc616b5]. Journal of Affective Disorders (2010). Low credibility.
+### A pooled analysis of two randomised, placebo-controlled studies of extended release quetiapine fumarate adjunctive to antidepressant therapy in patients with major depressive disorder [^1155sZtQ]. Journal of Affective Disorders (2010). Low credibility.
 
 Background
 
@@ -509,7 +509,7 @@ Adjunctive quetiapine XR is effective in patients with MDD and an inadequate res
 
 ---
 
-### Cognitive functioning and acute sedative effects of risperidone and quetiapine in patients with stable bipolar I disorder: a randomized, double-blind, crossover study [^c1ead4b9]. The Journal of Clinical Psychiatry (2007). Low credibility.
+### Cognitive functioning and acute sedative effects of risperidone and quetiapine in patients with stable bipolar I disorder: a randomized, double-blind, crossover study [^115xVVGL]. The Journal of Clinical Psychiatry (2007). Low credibility.
 
 Objective
 
@@ -533,13 +533,13 @@ ClinicalTrials.gov identifier NCT00097032.
 
 ---
 
-### Topiramate-induced somnambulism in a migraineur: a probable idiosyncratic adverse effect [^2beb08ed]. Journal of Clinical Sleep Medicine (2012). Low credibility.
+### Topiramate-induced somnambulism in a migraineur: a probable idiosyncratic adverse effect [^11287Qy2]. Journal of Clinical Sleep Medicine (2012). Low credibility.
 
 Somnambulism (sleepwalking) is a disorder of arousal that falls under "parasomnia" group and is more common in children. These phenomena occur as primary sleep events or secondary to systemic disease or can be drug induced. Medications that can cause sleepwalking include neuroleptics, hypnotics, lithium, amitriptyline, and β-blockers. This report presents an unusual adverse effect of topiramate on sleep in a patient with migraine.
 
 ---
 
-### Boxed warning for risk of serious injuries caused by sleepwalking… [^2433eedc]. FDA (2022). Medium credibility.
+### Boxed warning for risk of serious injuries caused by sleepwalking… [^111vfztB]. FDA (2022). Medium credibility.
 
 The Food and Drug Administration is advising that rare but serious injuries have happened with certain common prescription insomnia medicines because of sleep behaviors, including sleepwalking, sleep driving, and engaging in other activities while not fully awake. These complex sleep behaviors have also resulted in deaths. These behaviors appear to be more common with eszopiclone, zaleplon, and zolpidem than other prescription medicines used for sleep. Eszopiclone, zaleplon, and zolpidem are medicines used to treat insomnia in adults who have difficulty falling asleep or staying asleep. They are in a class of medicines called sedative-hypnotics and have been approved and on the market for many years. These insomnia medicines work by slowing activity in the brain to allow sleep. Quality sleep can have a positive impact on physical and mental health.
 
@@ -554,7 +554,7 @@ Do not drink alcohol before taking these medicines because the combined effects 
 
 ---
 
-### Quetiapine fumarate [^f9ae5613]. FDA (2025). Medium credibility.
+### Quetiapine fumarate [^117PAUWn]. FDA (2025). Medium credibility.
 
 Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
@@ -576,7 +576,7 @@ Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occu
 
 ---
 
-### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^42c28daa]. Journal of Psychopharmacology (2022). Medium credibility.
+### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^112hyXof]. Journal of Psychopharmacology (2022). Medium credibility.
 
 Side effects with quetiapine
 
@@ -606,7 +606,7 @@ P: sleep and weight gain and I also like my um. the level of uh constipation and
 
 ---
 
-### Quetiapine [^49ebf3df]. FDA (2025). Medium credibility.
+### Quetiapine [^112tbMJN]. FDA (2025). Medium credibility.
 
 Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
@@ -624,7 +624,7 @@ Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle gr
 
 ---
 
-### Low dose quetiapine for drug induced dyskinesias in Parkinson's disease: a double blind cross over study [^3b3bae41]. Journal of Neurology, Neurosurgery, and Psychiatry (2004). Low credibility.
+### Low dose quetiapine for drug induced dyskinesias in Parkinson's disease: a double blind cross over study [^112WpKJQ]. Journal of Neurology, Neurosurgery, and Psychiatry (2004). Low credibility.
 
 Objective
 
@@ -644,7 +644,7 @@ Our study failed to demonstrate an antidyskinetic effect of low dose (25 mg) que
 
 ---
 
-### Unique pharmacological actions of atypical neuroleptic quetiapine: possible role in cell cycle / fate control [^773e0ae7]. Translational Psychiatry (2013). Low credibility.
+### Unique pharmacological actions of atypical neuroleptic quetiapine: possible role in cell cycle / fate control [^1143nNDt]. Translational Psychiatry (2013). Low credibility.
 
 Introduction
 
@@ -654,13 +654,13 @@ Neuroleptics have been in clinical use for schizophrenia since the 1950s. The ha
 
 ---
 
-### Management of sleep problems in Parkinson's disease [^b7e91d8c]. Journal of the Neurological Sciences (2006). Low credibility.
+### Management of sleep problems in Parkinson's disease [^115hf32T]. Journal of the Neurological Sciences (2006). Low credibility.
 
 Patients with Parkinson's disease (PD) frequently complain of sleep problems. These can be due to several factors, and the approach to their management depends on careful consideration of the various possible factors in each case. 1. Older people, in general, require less sleep. After retirement, people may also engage in less physical activity, and this factor is of course even more pronounced in patients with PD because of their illness. 2. Daytime naps, either spontaneous or due to drugs, reduce the need for nocturnal sleep. Explanation of these physiological and circumstantial changes may help those PD patients who manifest these consequences. 3. The existence of a severe progressive disease as well as social isolation have psychologic consequences, such as anxiety and depression, that may manifest as insomnia. Furthermore, depression is part of the disease, frequently antedating the motor manifestations, and may manifest as insomnia. 4. In advanced disease, patients may be immobile and have difficulty in getting up or even turning in bed. This causes great inconvenience, and may impair sleep. Long acting anti-Parkinson drugs such as cabergoline or rotigotine patch may help. 5. In some cases, unpleasant hallucinations may appear which prevent the patient from falling asleep. These may respond to atypical neuroleptics. Clozapine and quetiapine are particularly useful, but require attention to possible adverse effects.
 
 ---
 
-### Quetiapine (quetiapine fumarate) [^cd997461]. FDA (2025). Medium credibility.
+### Quetiapine (quetiapine fumarate) [^116Fp1Jp]. FDA (2025). Medium credibility.
 
 5.16 Potential for Cognitive and Motor Impairment
 
@@ -678,13 +678,13 @@ Esophageal dysmotility and aspiration have been associated with antipsychotic dr
 
 ---
 
-### Increased libido associated with quetiapine [^624e2d98]. Journal of Psychopharmacology (2006). Low credibility.
+### Increased libido associated with quetiapine [^113Wk3ef]. Journal of Psychopharmacology (2006). Low credibility.
 
 We report sexual symptoms in a 44 year old man with schizophrenia who was receiving treatment with the atypical antipsychotic quetiapine. The symptoms consisted of an increased drive to masturbate and spontaneous ejaculations at night time. We discuss the potential neuro-chemical mechanisms for this and argue that quetiapine's unique pharmacological profile may have contributed to the development of his symptoms.
 
 ---
 
-### Quetiapine [^e4354072]. FDA (2025). Medium credibility.
+### Quetiapine [^116qL4gR]. FDA (2025). Medium credibility.
 
 5.16 Potential for Cognitive and Motor Impairment
 
@@ -700,7 +700,7 @@ Esophageal dysmotility and aspiration have been associated with antipsychotic dr
 
 ---
 
-### Efficacy and tolerability of olanzapine, quetiapine, and risperidone in the treatment of early psychosis: a randomized, double-blind 52-week comparison [^f4cb60ac]. The American Journal of Psychiatry (2007). Low credibility.
+### Efficacy and tolerability of olanzapine, quetiapine, and risperidone in the treatment of early psychosis: a randomized, double-blind 52-week comparison [^117FvHsq]. The American Journal of Psychiatry (2007). Low credibility.
 
 Objective
 
@@ -720,13 +720,13 @@ Olanzapine, quetiapine, and risperidone demonstrated comparable effectiveness in
 
 ---
 
-### Behavior, motivational interviewing, eating disorders, and obesity management technologies: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^ab7513e8]. Obesity Pillars (2022). High credibility.
+### Behavior, motivational interviewing, eating disorders, and obesity management technologies: an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2022 [^115PCD3m]. Obesity Pillars (2022). High credibility.
 
 Sleep-related eating disorder (SRED) — diagnosis and management: Patients with SRED may not score differently than night-eating syndrome (NES) on sleep questionnaires and thus diagnosis is mainly a clinical one; the treatment of SRED is dependent on the cause, with drug-induced sleep-related eating disorder best managed by stopping or altering the offending drug (e.g., benzodiazepines, psychotropic medications including clozapine, risperidone, quetiapine, mirtazapine, and zolpidem); patients with SRED should avoid drugs that may worsen the condition; nonpharmacologic measures include stress management and "sleep hygiene", such as allowing sufficient sleep time and removing dangerous items or moving hazards (i.e., furniture) from likely paths to the kitchen to avoid falling; drug treatment includes selective serotonin reuptake inhibitors, topiramate, and (perhaps paradoxically) clonazepam.
 
 ---
 
-### Update on treatments for nonmotor symptoms of Parkinson's disease-an evidence-based medicine review [^bf4e3676]. Movement Disorders (2019). Medium credibility.
+### Update on treatments for nonmotor symptoms of Parkinson's disease-an evidence-based medicine review [^115tcuXs]. Movement Disorders (2019). Medium credibility.
 
 Treatment of Psychosis
 
@@ -744,13 +744,13 @@ Treatment of Disorders of Sleep and Wakefulness
 
 ---
 
-### Treatments for somnambulism in adults: assessing the evidence [^6d151441]. Sleep Medicine Reviews (2009). Low credibility.
+### Treatments for somnambulism in adults: assessing the evidence [^113nijNY]. Sleep Medicine Reviews (2009). Low credibility.
 
 Somnambulism, or sleepwalking, is a parasomnia of non-rapid eye movement (NREM) sleep where movement behaviours usually confined to wakefulness are displayed during sleep. Generally, if sleepwalking is causing distress or danger in spite of safety measures, medical or psychological treatment is indicated. Clinicians will need to assess the evidence for treatment options. MEDLINE, EMBASE, PsycINFO and the Ovid Evidence-Based Medicine Reviews (EBM) multifile databases were searched. No properly powered rigorous controlled trials were found for treatment of sleepwalking in adults. Seven reports described small trials with some kind of control arm, or retrospective case series which included 30 or more patients. With no high quality evidence to underpin recommendations for treatments of somnambulism, full discussion with patients is advised. Adequately powered, well-designed clinical trials are now needed, and multi-centre collaborations may be required to obtain the sample sizes required.
 
 ---
 
-### Quetiapine (Seroquel) [^2c3138f1]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^1128WzL8]. FDA (2025). Medium credibility.
 
 Labeled indications for Quetiapine fumarate (also known as Seroquel) include:
 
@@ -771,25 +771,25 @@ Off-label indications for Quetiapine fumarate (also known as Seroquel) include:
 
 ---
 
-### Low doses of mirtazapine or quetiapine for transient insomnia: a randomised, double-blind, cross-over, placebo-controlled trial [^5c45be37]. Journal of Psychopharmacology (2017). Low credibility.
+### Low doses of mirtazapine or quetiapine for transient insomnia: a randomised, double-blind, cross-over, placebo-controlled trial [^113MoHdY]. Journal of Psychopharmacology (2017). Low credibility.
 
 Low doses of the antidepressant mirtazapine or the neuroleptic quetiapine are often prescribed off-label for insomnia. However, studies on the effects on sleep and hangover effects the following day are scarce. In this randomised, double-blind, cross-over, placebo-controlled trial, the influence of 7.5 mg mirtazapine and 50 mg quetiapine on both normal sleep and sleep disturbed by acoustic stress (traffic noise) as a model for transient insomnia was assessed. Additionally, hangover effects on next-day alertness and cognitive functioning were examined. A total of 19 healthy men without sleep complaints completed three treatment sessions, each session consisting of three consecutive nights in one of the mirtazapine, quetiapine or placebo conditions. Sleep was assessed using polysomnography and the Leeds Sleep Evaluation Questionnaire. Daytime sleepiness and cognitive functioning were assessed using the Leeds Sleep Evaluation Questionnaire, Karolinska Sleepiness Scale, Digit Symbol Substitution Task, Psychomotor Vigilance Task and an addition task. Under acoustic stress, both mirtazapine and quetiapine increased total sleep time by half an hour and reduced the number of awakenings by 35–40% compared to placebo. While quetiapine specifically increased the duration of non-rapid eye movement sleep, stage N2, mirtazapine mainly increased deep sleep stage N3. Subjects reported that both mirtazapine and quetiapine eased getting to sleep and improved sleep quality. Both drugs caused daytime sleepiness and lessened sustained attention. These findings support the use of low doses of mirtazapine and quetiapine for the treatment of insomnia. Further prospective studies on the long-term effects regarding effectiveness and adverse effects are needed.
 
 ---
 
-### Quetiapine (Seroquel) [^a20fe59f]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^1159GLML]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: akathisia, anxiety, arthralgia, back pain, blurred vision, confusion, constipation, decreased libido, dental pain, depression, disorientation, dysarthria, dyspepsia, ear pain, extrapyramidal signs, falls, gastroenteritis, hyperhidrosis, hypersomnia, hypotension, inattention, irritability, lethargy, loss of appetite, migraine, muscle spasms, myalgia, nasal congestion, nausea, neck pain, nightmares, orthostatic hypotension, paresthesia, parkinsonism, polyuria, restless legs syndrome, restlessness, sinusitis, sluggishness, tachycardia, tremor, upper respiratory tract infections, urinary tract infections, vertigo, vomiting and weight gain.
 
 ---
 
-### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^608ccd85]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the management of chronic insomnia disorder and obstructive sleep apnea [^113U977a]. DoD/VA (2025). High credibility.
 
 VA/DoD insomnia management — non-pharmacologic prioritization, duty considerations, and non-benzodiazepine benzodiazepine receptor agonist (non-BZD BzRA) safety state that non-pharmacologic treatments should be considered first before beginning pharmacotherapy, with important subgroup considerations in the active-duty population for which duty limitations may apply with the use of hypnotic medication. Veterans and active-duty personnel may have a commercial driving license or operate heavy machinery, and for service members on active-duty or those with a commercial driver's license, limitation in duties and temporary medical profiles may need to be implemented if a non-benzodiazepine benzodiazepine receptor agonist is prescribed. The Work Group notes resource use as the costs of these medications can vary widely and some of them require prior authorization, and providers may be hesitant to use tricyclic antidepressants (TCAs) in patients with cardiac disease or those who might be susceptible to anticholinergic side effects. Other published literature independent from the strength of this recommendation discusses the potential risk of abuse, dependence, motor vehicle accidents, and diversion, and in April 2019 the FDA released a safety announcement advising of serious injuries from complex sleep behaviors (e.g., sleepwalking, sleep driving, activities while not fully awake) associated with non-BZD BzRAs; these behaviors have at times resulted in deaths and, although rare, have occurred in patients.
 
 ---
 
-### Quetiapine for insomnia associated with refractory depression exacerbated by phenelzine [^bd623119]. The Annals of Pharmacotherapy (2006). Low credibility.
+### Quetiapine for insomnia associated with refractory depression exacerbated by phenelzine [^115qmeC8]. The Annals of Pharmacotherapy (2006). Low credibility.
 
 Objective
 
@@ -809,19 +809,19 @@ This case illustrates that low-dose quetiapine may be an alternative treatment f
 
 ---
 
-### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^f0d0f871]. Journal of Huntington's Disease (2018). Medium credibility.
+### Clinical management of neuropsychiatric symptoms of Huntington disease: expert-based consensus guidelines on agitation, anxiety, apathy, psychosis and sleep disorders [^117A2Dhz]. Journal of Huntington's Disease (2018). Medium credibility.
 
 Regarding specific circumstances for insomnia, more specifically with respect to patients with Huntington's disease, HD-EG 2018 guidelines recommend to offer sedating antidepressants (such as mirtazapine or trazodone) or neuroleptics (such as olanzapine and quetiapine) as pharmacologic options for sleep disorders in patients with Huntington's disease.
 
 ---
 
-### Restless legs syndrome following the use of ziprasidone: a case report [^fdd8705c]. General Psychiatry (2020). Medium credibility.
+### Restless legs syndrome following the use of ziprasidone: a case report [^117VLZsH]. General Psychiatry (2020). Medium credibility.
 
 Restless legs syndrome (RLS) is a common sleep-related movement disorder characterised by an uncomfortable urge to move the legs that occurs during periods of inactivity. Although there have been many case reports on antipsychotic-induced RLS, ziprasidone has never been reported as a cause of RLS. We present a case of a female patient with schizophrenia who presented with symptoms of RLS following the administration of high doses of ziprasidone added to quetiapine and valproate. The patient's symptoms of RLS occurred following the administration and titration of ziprasidone to 160 mg, and were relieved upon reducing the dose to 120 mg/day. Other potential causative medications and differential diagnoses that could have caused similar symptoms were excluded. Clinicians should be aware of the potential for ziprasidone-induced RLS. Dopamine and serotonin interaction could be the mechanism underlying ziprasidone-induced RLS.
 
 ---
 
-### Quetiapine fumarate [^1f31d490]. FDA (2025). Medium credibility.
+### Quetiapine fumarate [^111oFMWX]. FDA (2025). Medium credibility.
 
 RECENT MAJOR CHANGES
 
@@ -829,19 +829,19 @@ Warnings and Precautions (5.15) 1/2025
 
 ---
 
-### Quetiapine (Seroquel) [^0a19e94c]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^111FyacT]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of quetiapine fumarate PO (also known as Seroquel) include: acute generalized exanthematous pustulosis, acute ischemic stroke, acute liver failure, acute pancreatitis, agranulocytosis, amnesia, anaphylaxis, ↑ blood eosinophil count, ↓ blood neutrophil count, bowel obstruction, bradycardia, cardiomyopathy, cognitive impairment, colonic ischemia, confusion, cutaneous vasculitis, DRESS syndrome, dyspnea, falls, galactorrhea, hepatic necrosis, hepatitis, ileus, motor impairment, myocarditis, neuroleptic malignant syndrome, nocturia, ↓ platelet count, priapism, ↑QT interval, rhabdomyolysis, seizure, ↑ serum CK, ↑ serum gamma-glutamyltransferase, ↓ serum sodium, sleep apnea, somnambulism, Stevens-Johnson syndrome, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretions, tardive dyskinesia, toxic epidermal necrolysis, urinary retention and ↓ WBC count.
 
 ---
 
-### Quetiapine (Seroquel) [^aa2e586f]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^115MJTnn]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: acute generalized exanthematous pustulosis, acute ischemic stroke, acute liver failure, acute pancreatitis, agranulocytosis, amnesia, anaphylaxis, ↑ blood eosinophil count, ↓ blood neutrophil count, bowel obstruction, bradycardia, cardiomyopathy, cognitive impairment, colonic ischemia, confusion, cutaneous vasculitis, DRESS syndrome, dyspnea, galactorrhea, hepatic necrosis, hepatitis, ileus, motor impairment, myocarditis, neuroleptic malignant syndrome, nocturia, ↓ platelet count, priapism, ↑QT interval, rhabdomyolysis, seizure, ↑ serum CK, ↑ serum gamma-glutamyltransferase, ↓ serum sodium, sleep apnea, somnambulism, Stevens-Johnson syndrome, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretions, tardive dyskinesia, toxic epidermal necrolysis, urinary retention and ↓ WBC count.
 
 ---
 
-### Quetiapine (Seroquel) [^96d97fc8]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^114reCVm]. FDA (2025). Medium credibility.
 
 The dosage of quetiapine fumarate PO for treatment of insomnia in adults is:
 
@@ -851,13 +851,13 @@ The dosage of quetiapine fumarate PO for treatment of insomnia in adults is:
 
 ---
 
-### Quetiapine (Seroquel) [^1acd431f]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^111gjdA6]. FDA (2025). Medium credibility.
 
 Uncommon adverse reactions (less than 1%) associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: dystonia.
 
 ---
 
-### Antipsychotics for fibromyalgia in adults [^a51546fa]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Antipsychotics for fibromyalgia in adults [^115Dk71j]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -889,13 +889,13 @@ Very low quality evidence suggests that quetiapine may be considered for a time-
 
 ---
 
-### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^eaa71f9d]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
+### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^116ztEmi]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
 
 Other agents for primary insomnia — limited or excluded evidence: For oxazepam, a crossover study of oxazepam 25 mg versus placebo in 28 patients with "insomnia" found subjective interval ratings showed a significant reduction in sleep latency (SL) and significant improvement in quality of sleep (QOS). A quetiapine placebo-controlled study included only 13 subjects; numerical increases in subjective total sleep time (TST) and decreases in subjective SL were not statistically significant. A gabapentin open-label investigation with 18 subjects and no placebo control was excluded. For paroxetine, one variable-dosage trial in 15 patients without placebo was excluded, and another randomized study in 27 older adults evaluated paroxetine 10 mg/20 mg versus placebo with doses pooled for analysis.
 
 ---
 
-### Effect of quetiapine XR on depressive symptoms and sleep quality compared with lithium in patients with bipolar depression [^5e205387]. Journal of Affective Disorders (2014). Low credibility.
+### Effect of quetiapine XR on depressive symptoms and sleep quality compared with lithium in patients with bipolar depression [^113QYhFt]. Journal of Affective Disorders (2014). Low credibility.
 
 Background
 
@@ -919,7 +919,7 @@ Quetiapine XR monotherapy was more effective in treating bipolar depression than
 
 ---
 
-### Quetiapine [^23b37297]. FDA (2025). Medium credibility.
+### Quetiapine [^111uvqnW]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -937,7 +937,7 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 
 ---
 
-### Quetiapine for schizophrenia [^2eaea437]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
+### Quetiapine for schizophrenia [^112CD6Fg]. The Cochrane Database of Systematic Reviews (2004). Low credibility.
 
 Background
 
@@ -969,19 +969,19 @@ Quetiapine is effective for the treatment of schizophrenia, but it is not much d
 
 ---
 
-### Quetiapine (Seroquel) [^8ae8686f]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^114YwMZY]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of quetiapine fumarate ER PO (also known as Seroquel XR) include: dizziness, dry mouth, fatigue, increased appetite and somnolence.
 
 ---
 
-### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^bc36e46a]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
+### Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline [^115p37NH]. Journal of Clinical Sleep Medicine (2017). Medium credibility.
 
 Current hypnotic usage — prescription patterns and population use are summarized across U.S. datasets. Overall frequency of hypnotic prescriptions for insomnia declined during 1970–1990 from 5.3% to 2.5%. In office-based prescribing during 1987–1996, there was an over 50% decline in benzodiazepine (BZD) hypnotic prescriptions accompanied by a nearly 150% increase in trazodone prescriptions, and overall prescriptions for insomnia declined by about 25% during this period. Using National Health and Nutrition Examination Survey (NHANES) 1999–2010 data, just under 3% of the population had used these agents within the past month; BzRAs were most commonly prescribed (1.23% of the population), followed by trazodone (0.97%), BZDs (0.4%), quetiapine (0.32%) and doxepin. The use of antidepressants with poor or limited documentation was only 0.7% in the past month, increasing from 0.2% in the first year sampled to 3.5% in the final year (2009–2010). The 2005 National Sleep Foundation's survey found that 7% of respondents report using a prescription medication to improve sleep at least a few nights per month.
 
 ---
 
-### Restless legs syndrome following the use of ziprasidone: a case report [^98afe890]. General Psychiatry (2020). Medium credibility.
+### Restless legs syndrome following the use of ziprasidone: a case report [^114uNCoq]. General Psychiatry (2020). Medium credibility.
 
 Management and clinical course after the onset of RLS
 
@@ -991,25 +991,25 @@ Given the patient's amelioration of psychotic symptoms with ziprasidone, treatme
 
 ---
 
-### Causes, consequences, and treatments of sleep and circadian disruption in the ICU: an official American Thoracic Society research statement [^9910cc49]. American Journal of Respiratory and Critical Care Medicine (2023). High credibility.
+### Causes, consequences, and treatments of sleep and circadian disruption in the ICU: an official American Thoracic Society research statement [^114uvkNL]. American Journal of Respiratory and Critical Care Medicine (2023). High credibility.
 
 Pharmacologic treatment for intensive care unit (ICU) sleep and circadian disruption (SCD) is characterized by limited guideline support and mixed evidence: There are "no ICU guideline recommendations supporting the use of a pharmacologic treatment to improve ICU SCD", yet medications are "frequently prescribed", with "Melatonin… the most commonly prescribed medication, followed by ramelteon and quetiapine". In ICU sleep-bundle trials, "only two allowed use of pharmacologic sleep aids", and usage was "relatively uncommon" at 16% and 7%, so these studies did not establish sleep impact. Two large randomized controlled trials (RCTs) of melatonin "showed no association… with improvement in delirium and conflicting results regarding sleep outcomes" by RCSQ and nursing observation. Ramelteon has been reported to improve both sleep-related and delirium endpoints, dexmedetomidine shows "mixed" sleep-promotion results potentially related to measurement methods, and suvorexant was associated with a lower incidence of delirium but no differences in sleep endpoints versus no suvorexant after adjustment.
 
 ---
 
-### Varenicline tartrate (Chantix) [^30af57ee]. FDA (2025). Medium credibility.
+### Varenicline tartrate (Chantix) [^112FBJVb]. FDA (2025). Medium credibility.
 
 Unknown frequency adverse reactions associated with the use of varenicline tartrate PO (also known as Chantix) include: angioedema, erythema multiforme, paralytic ileus, seizure and sleepwalking.
 
 ---
 
-### Quetiapine (Seroquel) [^5f35f92e]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^113S9xFw]. FDA (2025). Medium credibility.
 
 Very common adverse reactions (over 10%) associated with the use of quetiapine fumarate PO (also known as Seroquel) include: agitation, constipation, dizziness, dry mouth, headache, ↑ serum cholesterol, ↑ serum triglycerides, somnolence and weight gain.
 
 ---
 
-### Quetiapine in refractory hyperactive and mixed intensive care delirium: a case series [^40e900c6]. Critical Care (2011). Low credibility.
+### Quetiapine in refractory hyperactive and mixed intensive care delirium: a case series [^112fEUJR]. Critical Care (2011). Low credibility.
 
 Key messages
 
@@ -1021,19 +1021,19 @@ Key messages
 
 ---
 
-### Combined treatment with quetiapine and sertindole in therapy refractory insomnia after clozapine discontinuation [^ecd2e023]. Journal of Psychopharmacology (2010). Low credibility.
+### Combined treatment with quetiapine and sertindole in therapy refractory insomnia after clozapine discontinuation [^11746uhC]. Journal of Psychopharmacology (2010). Low credibility.
 
 Insomnia associated with chronic schizophrenia and after clozapine discontinuation represents a common, but mostly not predominant, complaint and often does not respond sufficiently to classical hypnotics. We report the case of a 46-year-old patient with schizophrenia who developed a rebound insomnia confirmed by polysomnography after discontinuation of long-term treatment with clozapine and changing to sertindole therapy. Zolpidem, zolpiclone and chloral hydrate only led to short-term improvement of subjective sleep quality. An add-on therapy with 300 mg quetiapine resulted in improved subjective quality of sleep regarding sleep latency and the number of nocturnal awakenings. The combination of the two neuroleptics did not lead to increased QTc intervals (normal QTc < 450 ms) or metabolic side effects. In conclusion, the combination of sertindole and quetiapine might be a safe and effective combination in therapy-refractory insomnia after clozapine discontinuation in schizophrenia.
 
 ---
 
-### Recommended protocols for the multiple sleep latency test and maintenance of wakefulness test in children: guidance from the American Academy of Sleep Medicine [^01719c43]. Journal of Clinical Sleep Medicine (2024). High credibility.
+### Recommended protocols for the multiple sleep latency test and maintenance of wakefulness test in children: guidance from the American Academy of Sleep Medicine [^111399bG]. Journal of Clinical Sleep Medicine (2024). High credibility.
 
 Medications that may interfere with sleep architecture — drug classes and example agents relevant to Multiple Sleep Latency Test (MSLT) preparation include adenosine modulators (theophylline, theobromine, caffeine), alpha-2 delta ligands (gabapentin), antidepressants including SSRIs (fluoxetine*, escitalopram, sertraline, paroxetine) and SNRIs (venlafaxine, duloxetine), tricyclic antidepressants (nortriptyline, amitriptyline, doxepin), sedating antihistamines (diphenhydramine, doxylamine), antipsychotic agents (quetiapine), alpha antagonists (prazosin), benzodiazepines/NBRAs (flurazepam*, clonazepam, lorazepam, zolpidem, eszopiclone, zaleplon), dopamine agonists (pramipexole, rotigotine, ropinirole), lithium, melatonin agonists (ramelteon, tasimelteon), opioid agonists (morphine, hydrocodone, methadone, fentanyl), oxybates (sodium oxybate; calcium, magnesium, potassium, sodium oxybate), steroids (prednisone), stimulants (methylphenidates, amphetamines), and wake‑promoting agents (armodafinil, modafinil, pitolisant, solriamfetol); for agents with long half-lives, longer washout "(up to 6 weeks) may be needed", and "This list is not exhaustive".
 
 ---
 
-### Rotigotine effects on early morning motor function and sleep in Parkinson's disease: a double-blind, randomized, placebo-controlled study (RECOVER) [^06128a4a]. Movement Disorders (2011). Low credibility.
+### Rotigotine effects on early morning motor function and sleep in Parkinson's disease: a double-blind, randomized, placebo-controlled study (RECOVER) [^111A19tD]. Movement Disorders (2011). Low credibility.
 
 METHODS
 
@@ -1051,13 +1051,13 @@ The study was conducted in accordance with Good Clinical Practice and the Declar
 
 ---
 
-### Quetiapine (Seroquel) [^54d8e1a3]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^113Anorz]. FDA (2025). Medium credibility.
 
 Common adverse reactions (1–10%) associated with the use of quetiapine fumarate PO (also known as Seroquel) include: abdominal pain, akathisia, amblyopia, anxiety, arthralgia, asthenia, ataxia, back pain, ↑ blood glucose, blurred vision, cough, dental pain, depression, dysarthria, dyskinesia, dyspepsia, dysphagia, dystonia, extrapyramidal signs, fatigue, fever, gastroenteritis, gastroesophageal reflux disease, hypersomnia, hypertension, hypertonia, hypoesthesia, hypotension, hypothyroidism, incoordination, increased appetite, infection, irritability, lethargy, ↑ liver enzymes, loss of balance, muscle twitching, nasal congestion, nausea, nightmares, orthostatic hypotension, pain, pain in extremity, palpitations, paresthesia, parkinsonism, peripheral edema, pharyngitis, restless legs syndrome, rhinitis, ↑ serum ALT, ↑ serum AST, ↑ serum prolactin, sinusitis, skin rash, speech disturbance, sweating, syncope, tachycardia, tremor, urinary tract infections and vomiting.
 
 ---
 
-### Off-label use of quetiapine… [^59c49d2f]. JAMA Network (2016). Excellent credibility.
+### Off-label use of quetiapine… [^113J5wRx]. JAMA Network (2016). Excellent credibility.
 
 Off-label use of antipsychotic medication is increasing, particularly the use of quetiapine for sleep, owing to its sedating properties. 1 This is a cause for concern given important adverse effects, including drug-induced diabetes and parkinsonism, weight gain, neuroleptic malignant syndrome, oversedation, and risk of arrhythmia. 2 We describe quetiapine use in a prospective cohort of medical inpatients and the proportion of in-hospital use that is perpetuated on discharge. One of us retrospectively reviewed all medical records for quetiapine dose and indication. In the absence of a documented comorbid psychiatric condition or evidence of delirium it was inferred that once-nightly quetiapine was being given for sleep. Categorical variables were compared using χ² and continuous variables using Wilcoxon rank-sum or the Kruskal-Wallis test as appropriate.
 
@@ -1067,7 +1067,7 @@ The proportion of patients who received quetiapine off-label for sleep was simil
 
 ---
 
-### Sodium oxybate (Xyrem) [^3d761c78]. FDA (2025). Medium credibility.
+### Sodium oxybate (Xyrem) [^112a7vBZ]. FDA (2025). Medium credibility.
 
 5.7 Parasomnias
 
@@ -1083,7 +1083,7 @@ Xyrem has a high salt content. In patients sensitive to salt intake (e.g., those
 
 ---
 
-### Sodium oxybate [^6770a600]. FDA (2025). Medium credibility.
+### Sodium oxybate [^113eMZbV]. FDA (2025). Medium credibility.
 
 5.7 Parasomnias
 
@@ -1099,7 +1099,7 @@ Sodium oxybate oral solution has a high salt content. In patients sensitive to s
 
 ---
 
-### Quetiapine (quetiapine fumarate) [^97231d84]. FDA (2025). Medium credibility.
+### Quetiapine (quetiapine fumarate) [^114s4vew]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -1117,7 +1117,7 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 
 ---
 
-### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^d9a8cb5f]. Journal of Psychopharmacology (2022). Medium credibility.
+### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^116Zh1Xt]. Journal of Psychopharmacology (2022). Medium credibility.
 
 Aligning with prior research, we found that experiences of adverse effects were nearly universal. Importantly, most patients could continue their treatment despite these adverse effects. Several patients assessed both the risks and benefits of their prescribed medication and felt the perceived benefits outweighed the disadvantages of the side effects they encountered. However, for a small portion of participants, adverse effects were overly impairing and, in some instances, this led to early withdrawal. Contrasting with prior studies comparing these drugs, we found that adverse effects were perceived as more challenging with quetiapine than with lithium. Patients described difficulties with appetite increase, weight gain, restlessness and constipation, consistent with previously reported side effects associated with quetiapine. However, the most extensively discussed side effect with quetiapine was sedation. This aligns with findings from, who reported sedation to be the lead cause of discontinuation when comparing the tolerability of lithium and quetiapine in patients with TRD. However, our results also suggest that experiences of sedation may not always be negative; two participants reported positive experiences of sedation due to improvements in sleep. Our findings therefore underline the importance of considering individual patient characteristics and symptom experiences when making treatment decisions.
 
@@ -1127,13 +1127,13 @@ Taken together, our findings indicate that there were a few differences in the p
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^1a5c47b7]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^111g5g6A]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Quetiapine augmentation in obsessive-compulsive disorder (OCD) — across randomized trials, one fixed‑schedule study found superiority over placebo while two others did not; in Denys et al., adjunctive quetiapine for 8 weeks improved Y-BOCS more than placebo (quetiapine 32%; placebo 7%), with 40% responders versus 10% on placebo and frequent adverse effects including somnolence 95%, dry mouth 55%, weight gain 30%, and dizziness 30%; in Carey et al., after 12 weeks of SRI nonresponse, 6 weeks of flexibly dosed quetiapine yielded similar Y-BOCS reductions to placebo (quetiapine 27%; placebo 26%) and responder rates 40% versus 48%, and was "no more effective than placebo" with sedation complaints in 75% versus 33%; in Fineberg et al., after 16 weeks there was no difference (Y-BOCS reduction: quetiapine 14%; placebo 6%), with 3 of 11 versus 1 of 10 meeting YBOCS-25% response.
 
 ---
 
-### Restless legs syndrome following the use of ziprasidone: a case report [^cd9c7444]. General Psychiatry (2020). Medium credibility.
+### Restless legs syndrome following the use of ziprasidone: a case report [^116Fq1k7]. General Psychiatry (2020). Medium credibility.
 
 Introduction
 
@@ -1141,7 +1141,7 @@ Restless legs syndrome (RLS), with prevalence ranging from 2% to 15% in the gene
 
 ---
 
-### Diagnosis and management of dementia with lewy bodies: fourth consensus report of the DLB consortium [^cd859301]. Neurology (2017). Low credibility.
+### Diagnosis and management of dementia with lewy bodies: fourth consensus report of the DLB consortium [^116FhL1N]. Neurology (2017). Low credibility.
 
 Neuropsychiatric symptoms.
 
@@ -1157,7 +1157,7 @@ A wide range of other symptoms can occur in DLB, including autonomic and sleep/w
 
 ---
 
-### Restless legs syndrome following the use of ziprasidone: a case report [^fe288ace]. General Psychiatry (2020). Medium credibility.
+### Restless legs syndrome following the use of ziprasidone: a case report [^117VoUQV]. General Psychiatry (2020). Medium credibility.
 
 Case history
 
@@ -1167,7 +1167,7 @@ Miss Awas a 35-year-old Chinese female patient with a history of known mild inte
 
 ---
 
-### Quetiapine fumarate [^0491a4b0]. FDA (2025). Medium credibility.
+### Quetiapine fumarate [^1117msVH]. FDA (2025). Medium credibility.
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -1195,7 +1195,7 @@ Patients should be advised that elevations in total cholesterol, LDL-cholesterol
 
 ---
 
-### Efficacy and safety of quetiapine in combination with lithium or divalproex for maintenance of patients with bipolar I disorder (international trial 126) [^77bfa920]. Journal of Affective Disorders (2008). Low credibility.
+### Efficacy and safety of quetiapine in combination with lithium or divalproex for maintenance of patients with bipolar I disorder (international trial 126) [^1144XuPM]. Journal of Affective Disorders (2008). Low credibility.
 
 Background
 
@@ -1219,7 +1219,7 @@ Maintenance treatment with quetiapine in combination with lithium/divalproex sig
 
 ---
 
-### Quetiapine (quetiapine fumarate) [^2cf42eb4]. FDA (2025). Medium credibility.
+### Quetiapine (quetiapine fumarate) [^1129eUTV]. FDA (2025). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -1237,7 +1237,7 @@ Quetiapine extended-release tablets overdose may lead to gastric bezoar formatio
 
 ---
 
-### Quetiapine extended-release (quetiapine) [^66e12b37]. FDA (2025). Medium credibility.
+### Quetiapine extended-release (quetiapine) [^113dXNPQ]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -1257,7 +1257,7 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 
 ---
 
-### Quetiapine monotherapy in the treatment of patients with bipolar I or II depression and a rapid-cycling disease course: a randomized, double-blind, placebo-controlled study [^af4a5f0e]. Bipolar Disorders (2007). Low credibility.
+### Quetiapine monotherapy in the treatment of patients with bipolar I or II depression and a rapid-cycling disease course: a randomized, double-blind, placebo-controlled study [^115UspBo]. Bipolar Disorders (2007). Low credibility.
 
 Objectives
 
@@ -1277,13 +1277,13 @@ Quetiapine monotherapy (600 or 300 mg/day) is clinically effective and well tole
 
 ---
 
-### A case of depersonalization-derealization syndrome during treatment with quetiapine [^7b1df05b]. Journal of Psychopharmacology (2001). Low credibility.
+### A case of depersonalization-derealization syndrome during treatment with quetiapine [^1149XXvJ]. Journal of Psychopharmacology (2001). Low credibility.
 
 A case who schizophrenia developed patient male of a 65-year-old is reported depersonalization-derealization syndrome following treatment with quetiapine, an atypical antipsychotic. The literature is reviewed for possible biological mechanisms that may account for this phenomenon.
 
 ---
 
-### Quetiapine in refractory hyperactive and mixed intensive care delirium: a case series [^7c6146d4]. Critical Care (2011). Low credibility.
+### Quetiapine in refractory hyperactive and mixed intensive care delirium: a case series [^114BQ93h]. Critical Care (2011). Low credibility.
 
 Authors' contributions
 
@@ -1291,13 +1291,13 @@ NB and CM devised and supervised the case review. MK and RW conducted the review
 
 ---
 
-### VA / DoD clinical practice guideline for management of bipolar disorder [^22d4780a]. DoD/VA (2023). High credibility.
+### VA / DoD clinical practice guideline for management of bipolar disorder [^111tdwow]. DoD/VA (2023). High credibility.
 
 Acute bipolar depression — quetiapine safety and dosing considerations emphasize sedation management and metabolic risks. Quetiapine can cause significant side effects; avoiding excess sedation at treatment onset might require starting at subtherapeutic doses and titrating up to effective doses. Over the longer term, weight gain, hyperlipidemia, and related metabolic side effects can be significant, but the benefits of treatment outweigh the harms and burdens.
 
 ---
 
-### New pharmacologic agents for insomnia and hypersomnia [^4e783b18]. Current Opinion in Pulmonary Medicine (2020). Medium credibility.
+### New pharmacologic agents for insomnia and hypersomnia [^1131LRGT]. Current Opinion in Pulmonary Medicine (2020). Medium credibility.
 
 Purpose Of Review
 
@@ -1313,7 +1313,7 @@ Recent advancements in the treatment of insomnia includes agents with novel mech
 
 ---
 
-### Mood stabilizers and / or antipsychotics for bipolar disorder in the maintenance phase: a systematic review and network meta-analysis of randomized controlled trials [^e3fc962a]. Molecular Psychiatry (2021). Medium credibility.
+### Mood stabilizers and / or antipsychotics for bipolar disorder in the maintenance phase: a systematic review and network meta-analysis of randomized controlled trials [^116q12kh]. Molecular Psychiatry (2021). Medium credibility.
 
 Results of the second network meta-analysis
 
@@ -1321,19 +1321,19 @@ Results of the second NMA are shown in Supplementary Appendix 3.1–3.11. Aripip
 
 ---
 
-### Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline [^16745026]. Journal of Clinical Sleep Medicine (2025). High credibility.
+### Treatment of restless legs syndrome and periodic limb movement disorder: an American Academy of Sleep Medicine clinical practice guideline [^111aHoAM]. Journal of Clinical Sleep Medicine (2025). High credibility.
 
 Regarding specific circumstances for insomnia, more specifically with respect to patients with periodic limb movements of sleep, AASM 2025 guidelines recommend to avoid offering triazolam or valproic acid in adult patients with periodic limb movements of sleep.
 
 ---
 
-### Low-dose quetiapine for patients with dysregulation of hyperthymic and cyclothymic temperaments [^72ad9d99]. Journal of Psychopharmacology (2010). Low credibility.
+### Low-dose quetiapine for patients with dysregulation of hyperthymic and cyclothymic temperaments [^113w1uRz]. Journal of Psychopharmacology (2010). Low credibility.
 
 Patients with hyperthymic and cyclothymic temperaments often develop symptoms that fail to meet diagnostic criteria for bipolar disorders. These patients can be conceived as having bipolar disorder NOS (not otherwise specified), a bipolar spectrum disorder, cyclothymic disorder or cluster B personality traits. Here, we describe four of these patients with mild to moderate symptoms affecting mood, behaviour, emotional reactivity and sleep. Treatment with low-dose quetiapine (25–75 mg/day at night) lead to sustained symptom remission. Two of them were on quetiapine monotherapy. Such low doses occupy a minority of D2 and 5-HT2 receptors, which may nevertheless be of therapeutic value in mild cases. Alternatively, other mechanisms more likely to occur at low doses, such as antagonism of H1, alpha(1B)-adrenergic and other serotonin receptors, as well as reduction cortisol secretion, may be involved in the therapeutic efficacy of quetiapine.
 
 ---
 
-### Using antipsychotic agents in older patients [^c5bbbce2]. The Journal of Clinical Psychiatry (2004). Low credibility.
+### Using antipsychotic agents in older patients [^11649cwj]. The Journal of Clinical Psychiatry (2004). Low credibility.
 
 Objectives
 
@@ -1353,7 +1353,7 @@ The experts reached a high level of consensus on many of the key treatment quest
 
 ---
 
-### Quetiapine (Seroquel) [^8a8dd992]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^114YQwMB]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of quetiapine fumarate PO (also known as Seroquel):
 - **Anticholinergic syndrome**: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
@@ -1377,7 +1377,7 @@ Warnings and precautions regarding the use of quetiapine fumarate PO (also known
 
 ---
 
-### Practice guideline summary: treatment of restless legs syndrome in adults: report of the guideline development, dissemination, and implementation subcommittee of the American Academy of Neurology [^a019dc3c]. Neurology (2016). Medium credibility.
+### Practice guideline summary: treatment of restless legs syndrome in adults: report of the guideline development, dissemination, and implementation subcommittee of the American Academy of Neurology [^1156MhtX]. Neurology (2016). Medium credibility.
 
 Regarding specific circumstances for insomnia, more specifically with respect to patients with periodic limb movements of sleep, AAN 2016 guidelines recommend to consider offering the following agents in patients with periodic leg movements of sleep, specifically when targeting the Periodic Limb Movement Index as measured by polysomnography:
 
@@ -1395,13 +1395,13 @@ Regarding specific circumstances for insomnia, more specifically with respect to
 
 ---
 
-### Primary care interventions to prevent tobacco use in children and adolescents: U.S. Preventive Services Task Force recommendation statement [^971611d8]. Pediatrics (2013). Medium credibility.
+### Primary care interventions to prevent tobacco use in children and adolescents: U.S. Preventive Services Task Force recommendation statement [^114rzYWK]. Pediatrics (2013). Medium credibility.
 
 USPSTF potential harms of cessation interventions in youth report no evidence on harms from behavioral counseling interventions for tobacco cessation, with harms likely small to none based on absence of reported harms, the noninvasive nature of the interventions, and the low likelihood of serious harms. Evidence on harms from medications is inadequate; none of the published trials reported any serious harms, although study sizes were relatively small. The single trial of NRT found a greater number of headaches, cough, abnormal dreams, muscle pain, and patch-related adverse events with NRT. Bupropion carries a boxed warning for increased risk of suicidality in children, adolescents, and young adults, with other concerns, and varenicline is not indicated in children 16 years and younger; for older populations, labeling includes warnings and precautions including neuropsychiatric adverse events, seizures, interaction with alcohol, cardiovascular events, sleepwalking, angioedema, serious skin reactions, and nausea.
 
 ---
 
-### Quetiapine (Seroquel) [^d256d896]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^116Nqa5T]. FDA (2025). Medium credibility.
 
 17 PATIENT COUNSELING INFORMATION
 
@@ -1419,13 +1419,13 @@ Patients, their families, and their caregivers should be encouraged to be alert 
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^fbb54975]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^117SAnVJ]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Quetiapine augmentation — trial with no efficacy signal reports that in one 16-week, double-blind, placebo-controlled study there was no significant difference between quetiapine and placebo, with a mean final quetiapine dose of 50–400 mg/day and authors noting dosing may have been low.
 
 ---
 
-### Association of low-dose quetiapine and diabetes [^3ae06a61]. JAMA Network Open (2021). High credibility.
+### Association of low-dose quetiapine and diabetes [^112WHfK6]. JAMA Network Open (2021). High credibility.
 
 Introduction
 
@@ -1439,7 +1439,7 @@ As quetiapine occupies H₁- and 5-HT₂C-receptors extensively at low doses, wh
 
 ---
 
-### Quetiapine (Seroquel) [^4e425163]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^11312Jxa]. FDA (2025). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -1457,13 +1457,13 @@ SEROQUEL XR overdose may lead to gastric bezoar formation and appropriate diagno
 
 ---
 
-### Sedation as a side effect of the treatment of mental disorders [^e5a6fef7]. The Journal of Clinical Psychiatry (2008). Low credibility.
+### Sedation as a side effect of the treatment of mental disorders [^116sUFst]. The Journal of Clinical Psychiatry (2008). Low credibility.
 
 Many patients with schizophrenia experience disturbances in their sleep-wake cycle, which may be a result of the disorder itself, of pharmacotherapy, or of a comorbid sleep disorder. These sleep disruptions can seriously impair patients' functioning as well as their quality of life. Therefore, accurate assessment of sleep problems is essential to appropriately treat patients and promote symptomatic remission. The sedative versus therapeutic effects of atypical antipsychotics should be considered in the risk-benefit analysis performed before and while medicating patients.
 
 ---
 
-### Quetiapine (Seroquel) [^1df89c5c]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^111mS9W3]. FDA (2025). Medium credibility.
 
 Warnings and precautions regarding the use of quetiapine fumarate ER PO (also known as Seroquel XR):
 - **Anticholinergic syndrome**: use caution in patients with urinary retention, prostatic hypertrophy, constipation, or taking anticholinergic medications.
@@ -1488,7 +1488,7 @@ Warnings and precautions regarding the use of quetiapine fumarate ER PO (also kn
 
 ---
 
-### Maintenance treatment with quetiapine versus discontinuation after one year of treatment in patients with remitted first episode psychosis: randomised controlled trial [^70816a9e]. BMJ (2010). Excellent credibility.
+### Maintenance treatment with quetiapine versus discontinuation after one year of treatment in patients with remitted first episode psychosis: randomised controlled trial [^113so5oK]. BMJ (2010). Excellent credibility.
 
 Table 6
 Weight and body mass index (BMI) at baseline and changes during study period*
@@ -1503,7 +1503,7 @@ Other reasons for discontinuation included need for a mood stabiliser (n = 3; 2 
 
 ---
 
-### Quetiapine (Seroquel) [^6431d48c]. FDA (2025). Medium credibility.
+### Quetiapine (Seroquel) [^113ZYVxF]. FDA (2025). Medium credibility.
 
 Boxed warnings regarding the use of quetiapine fumarate PO (also known as Seroquel):
 - **Increased risk of mortality**: do not use quetiapine for the management of dementia-related psychosis in elderly patients because of the increased risk of fatal cerebrovascular accidents.
@@ -1511,7 +1511,7 @@ Boxed warnings regarding the use of quetiapine fumarate PO (also known as Seroqu
 
 ---
 
-### Quetiapine [^850806ca]. FDA (2025). Medium credibility.
+### Quetiapine [^114QE3rH]. FDA (2025). Medium credibility.
 
 7.1 Effect of Other Drugs on Quetiapine
 
@@ -1535,13 +1535,13 @@ The potential effects of several concomitant medications on quetiapine pharmacok
 
 ---
 
-### Factors that predispose, prime and precipitate NREM parasomnias in adults: clinical and forensic implications [^daa1c626]. Sleep Medicine Reviews (2007). Low credibility.
+### Factors that predispose, prime and precipitate NREM parasomnias in adults: clinical and forensic implications [^116b8e3f]. Sleep Medicine Reviews (2007). Low credibility.
 
 Sleepwalking and related disorders are the result of factors that predispose, prime and precipitate episodes. In the absence of one or more of these factors sleepwalking is unlikely to occur. Predisposition to sleepwalking is based on genetic susceptibility and has a familial pattern. Priming factors include conditions and substances that increase slow wave sleep (SWS) or make arousal from sleep more difficult. These factors include sleep deprivation, alcohol, medications, situational stress and fever among others. The patient with a genetic predisposition to sleepwalking and with priming factors still requires a precipitating factor or trigger to set the sleepwalking episode in motion. Classical theories of sleepwalking were based primarily on case reports. Recently some of these theories have been tested in the sleep laboratory. Experimental sleep deprivation studies of sleepwalkers generally report an increase in complex behaviors during SWS, although one prominent study reported the opposite effect. However, the generally accepted theory that alcohol and medications can induce sleepwalking episodes remains entirely based on clinical and forensic case reports. Alleged cases of alcohol related sleepwalking often involve individuals lacking the generally accepted characteristics of sleepwalkers but with very high blood alcohol levels that could in and of itself account for complex behaviors noted without the presence of sleepwalking. Further, the effects of high levels of alcohol dramatically decrease SWS, a finding inconsistent with sleepwalking. Case reports of medication-related induction of apparent sleepwalking most often present a complex medical and psychiatric history associated with multiple medications. These patients often lack the clinical history and other criteria currently required for the diagnosis of sleepwalking. The medication-related behaviors may instead represent some other condition in an awake, but impaired patient. Sleep laboratory research has identified sleep disordered breathing, periodic leg movements, noise and touch among others as proximal triggers of sleepwalking episodes. Treatment of these triggers may result in resolution of sleepwalking without medication. Further sleep laboratory research is needed before experimental findings can be used for routine diagnostic and forensic purposes.
 
 ---
 
-### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^42274b76]. Journal of Psychopharmacology (2022). Medium credibility.
+### Patient perspectives of lithium and quetiapine augmentation treatment in treatment-resistant depression: a qualitative assessment [^112h5P89]. Journal of Psychopharmacology (2022). Medium credibility.
 
 Managing side effects
 
@@ -1567,7 +1567,7 @@ Another primary topic of participant discussion surrounded the perceived efficac
 
 ---
 
-### Shared EEG correlates between non-REM parasomnia experiences and dreams [^21ac6e3b]. Nature Communications (2024). High credibility.
+### Shared EEG correlates between non-REM parasomnia experiences and dreams [^111rvWX4]. Nature Communications (2024). High credibility.
 
 Introduction
 
@@ -1575,12 +1575,12 @@ Sleepwalking (somnambulism) and related parasomnias are enigmatic conditions cha
 
 ---
 
-### PLMD-like nocturnal movements with mirtazapine [^7c79993b]. General Hospital Psychiatry (2012). Low credibility.
+### PLMD-like nocturnal movements with mirtazapine [^114BYJsk]. General Hospital Psychiatry (2012). Low credibility.
 
 Mirtazapine is a commonly prescribed antidepressant with sedative properties. We report a case of nocturnal involuntary limb movements developing in an opioid-dependent young man after starting mirtazapine. The involuntary repetitive bilateral leg movements during initial phase of sleep began when mirtazapine was initiated. They continued for 4 days till mirtazapine was stopped and did not recur subsequently. The role of mirtazapine should be considered when a patient on this drug complains of leg movement during early phase of sleep.
 
 ---
 
-### Atypical antipsychotic medication poisoning: an evidence-based consensus guideline for out-of-hospital management [^9e1ec9c8]. Clinical Toxicology (2007). Low credibility.
+### Atypical antipsychotic medication poisoning: an evidence-based consensus guideline for out-of-hospital management [^1153RPL3]. Clinical Toxicology (2007). Low credibility.
 
 The objective of this guideline is to assist poison center personnel in the appropriate out-of-hospital triage and out-of-hospital management of patients with suspected acute ingestions of atypical antipsychotic medications by 1) describing the process by which an ingestion of an atypical antipsychotic medication might be evaluated, 2) identifying the key decision elements in managing cases of atypical antipsychotic medication ingestion, 3) providing clear and practical recommendations that reflect the current state of knowledge, and 4) identifying needs for research. This guideline applies to ingestion of atypical antipsychotic medications alone. Co-ingestion of additional substances could require different referral and management recommendations depending on the combined toxicities of the substances. This guideline is based on an assessment of current scientific and clinical information. The expert consensus panel recognizes that specific patient care decisions might be at variance with this guideline and are the prerogative of the patient and the health professionals providing care, considering all of the circumstances involved. This guideline does not substitute for clinical judgment. The grade of recommendation is in parentheses. 1) Patients with stated or suspected self-harm or the recipient of a potentially malicious administration of an atypical antipsychotic medication should be referred to an emergency department immediately. This activity should be guided by local poison center procedures. In general, this should occur regardless of the dose reported (Grade D). 2) Patients without evidence of self-harm should have further evaluation, including determination of the precise dose ingested, presence of signs or symptoms of toxicity, history of other medical conditions, and the presence of co-ingestants (Grade C). 3) Asymptomatic patients without evidence of attempted self-harm are unlikely to develop symptoms if the interval between the ingestion and the call is greater than 6 hours. These patients do not need referral and should receive follow-up based on local poison center protocols (Grade C). 4) All patients less than 12 years of age who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness (lightly sedated and can be aroused with speaking voice or light touch) can be observed at home unless they have ingested more than four times the initial adult dose for the implicated antipsychotic medication or a dose that is equal to or more than the lowest reported acute dose that resulted in at least moderate toxicity, whichever dose is smaller (i.e., aripiprazole 15 mg, clozapine 50 mg, olanzapine 10 mg, quetiapine 100 mg, risperidone 1 mg, ziprasidone 80 mg) (Grade D). 5) All patients 12 years of age or older who are naïve to atypical antipsychotic medications and are experiencing no more than mild drowsiness can be observed at home unless they have ingested more than five times the initial adult dose for the implicated antipsychotic medication (i.e., aripiprazole 50 mg, clozapine 62.5 mg, olanzapine 25 mg, quetiapine 125 mg, risperidone 5 mg, ziprasidone 100 mg) (Grade D). 6) Patients who use atypical antipsychotic medications on a chronic basis can be observed at home unless they have acutely ingested more than 5 times their current single dose (not daily dose) of the implicated antipsychotic medication (Grade C). 7) Patients who have ingested less than a threshold dose (see Recommendations 4–6) and are exhibiting no more than mild drowsiness can be observed at home with instructions to call the poison center if symptoms develop or worsen. If mild drowsiness is present at the time of the initial call, the poison center should make follow-up calls until at least 6 hours after ingestion. Consideration should be given to the time of day that home observation will take place. Observation during normal sleep hours might not be reliable. Depending on local poison center policy, patients could be referred to an emergency department if the observation would take place during normal sleeping hours of the patient or caretaker (Grade D). 8) Any patient already experiencing any signs or symptoms, other than mild drowsiness, thought to be related to atypical antipsychotic medication toxicity should be transported to an emergency department. Transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department (Grade D). 9) Do not induce emesis (Grade D). 10) There are no specific data to suggest benefit from out-of-hospital administration of activated charcoal in patients exposed to atypical antipsychotic medications. Poison centers should follow local protocols and experience with the out-of-hospital use of activated charcoal in this context. Do not delay transportation in order to administer charcoal (Grade D). 11) For patients who merit evaluation in an emergency department, transportation via ambulance should be considered based on the condition of the patient and the length of time it will take the patient to arrive at the emergency department. Continuous cardiac monitoring should be implemented given reports of conduction disturbances associated with this class of medications. Provide usual supportive care en route to the hospital, including airway management and intravenous fluids for hypotension (Grade D). 12) Depending on the specific circumstances, follow-up calls should be made to determine outcome at appropriate intervals based on the clinical judgment of the poison center staff (Grade D).

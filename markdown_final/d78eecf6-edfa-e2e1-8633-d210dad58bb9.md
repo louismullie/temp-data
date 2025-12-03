@@ -23,7 +23,7 @@ D. T. whippelii infiltration of intestinal villi
 
 > Let me first confirm the clinical syndrome. The child has failure to thrive with good appetite, steatorrhea with bulky, foul-smelling, floating stools, abdominal distention, recurrent sinusitis since infancy, and new snoring, with mild pulmonary findings. This constellation points to a systemic disease with exocrine pancreatic insufficiency and chronic sinopulmonary involvement rather than a purely gastrointestinal or immunologic isolate, so I need to keep a multi-system etiology in mind as I proceed.
 
-> Now, I will examine exocrine pancreatic insufficiency as a candidate. Wait, let me verify the classic features: fat malabsorption with steatorrhea, abdominal distention, and growth failure despite adequate intake are characteristic of EPI, and in pediatrics the most common cause is cystic fibrosis, which also explains chronic sinopulmonary disease and can contribute to upper airway obstruction and snoring via chronic nasal disease and polyps. Guidelines emphasize confirming EPI in CF and monitoring pancreatic sufficiency over time, which fits this presentation well [^58f5df2b] [^58f5df2b] [^7403c540].
+> Now, I will examine exocrine pancreatic insufficiency as a candidate. Wait, let me verify the classic features: fat malabsorption with steatorrhea, abdominal distention, and growth failure despite adequate intake are characteristic of EPI, and in pediatrics the most common cause is cystic fibrosis, which also explains chronic sinopulmonary disease and can contribute to upper airway obstruction and snoring via chronic nasal disease and polyps. Guidelines emphasize confirming EPI in CF and monitoring pancreatic sufficiency over time, which fits this presentation well [^113GtVmU] [^113GtVmU] [^113xzq9R].
 
 > Hold on, let's not jump to conclusions. I should review the competing options. Impaired intestinal amino acid transport would typically present with protein-losing enteropathy or specific transport defects, but I do not see edema, hypoproteinemia, or a pattern that matches Hartnup or lysinuric protein intolerance here, and there is no mention of renal involvement or specific aminoaciduria, so this seems mismatched to the steatorrhea and respiratory phenotype, making it less likely.
 
@@ -31,29 +31,29 @@ D. T. whippelii infiltration of intestinal villi
 
 > I will now examine Whipple's disease. Tropheryma whipplei infiltration is rare in children and classically presents with systemic symptoms, arthralgia, and neurologic signs; steatorrhea can occur, but the absence of the typical systemic and neurologic features and the presence of chronic sinusitis from infancy make Whipple's disease an unlikely fit here, so I should deprioritize it despite its theoretical possibility.
 
-> Let me synthesize. The most parsimonious explanation that unifies steatorrhea, growth failure, and chronic sinopulmonary disease is cystic fibrosis with exocrine pancreatic insufficiency. CF is the leading cause of EPI in children, CRS is highly prevalent in CF and often refractory, and upper airway disease with nasal polyps and obstruction is common, explaining the snoring. Guidelines recommend confirming EPI in CF and recognizing CRS as a modifying comorbidity that should prompt CF screening in refractory cases, which aligns with this case [^58f5df2b] [^7403c540] [^1ce38494].
+> Let me synthesize. The most parsimonious explanation that unifies steatorrhea, growth failure, and chronic sinopulmonary disease is cystic fibrosis with exocrine pancreatic insufficiency. CF is the leading cause of EPI in children, CRS is highly prevalent in CF and often refractory, and upper airway disease with nasal polyps and obstruction is common, explaining the snoring. Guidelines recommend confirming EPI in CF and recognizing CRS as a modifying comorbidity that should prompt CF screening in refractory cases, which aligns with this case [^113GtVmU] [^113xzq9R] [^111jq5JB].
 
-> I should double-check the immediate next steps. I need to confirm EPI with a fecal elastase-1 test and, if positive, pursue CF diagnostic confirmation with sweat chloride testing and CFTR genetic analysis, while also evaluating for fat-soluble vitamin deficiencies and nutritional status. Given the new snoring, I should screen for pediatric obstructive sleep-disordered breathing and consider ENT evaluation for nasal polyps and adenotonsillar hypertrophy, as these are common in CF and can impact growth and sleep [^19e46231] [^7403c540] [^78370473].
+> I should double-check the immediate next steps. I need to confirm EPI with a fecal elastase-1 test and, if positive, pursue CF diagnostic confirmation with sweat chloride testing and CFTR genetic analysis, while also evaluating for fat-soluble vitamin deficiencies and nutritional status. Given the new snoring, I should screen for pediatric obstructive sleep-disordered breathing and consider ENT evaluation for nasal polyps and adenotonsillar hypertrophy, as these are common in CF and can impact growth and sleep [^111fPQKJ] [^113xzq9R] [^1145DzeE].
 
-> But wait, what if the sweat test is normal or only one CFTR variant is found? I need to ensure I consider CFTR-related metabolic syndrome or CF screen positive inconclusive diagnosis, where pancreatic status can fluctuate and guidelines still advise periodic reassessment of exocrine function and clinical evolution, so I should plan longitudinal follow-up if initial testing is equivocal [^23586cf8] [^19e46231].
+> But wait, what if the sweat test is normal or only one CFTR variant is found? I need to ensure I consider CFTR-related metabolic syndrome or CF screen positive inconclusive diagnosis, where pancreatic status can fluctuate and guidelines still advise periodic reassessment of exocrine function and clinical evolution, so I should plan longitudinal follow-up if initial testing is equivocal [^111uQGXy] [^111fPQKJ].
 
-> In summary, after weighing the differential and the strength of evidence linking the phenotype to a single coherent disease, the most likely underlying cause of this child's failure to thrive is exocrine pancreatic insufficiency due to cystic fibrosis, with the steatorrhea reflecting fat malabsorption and the recurrent sinusitis and snoring reflecting CF-related upper airway disease. I should confirm EPI and proceed with CF diagnostics and multidisciplinary management without delay [^047cf577] [^7403c540].
+> In summary, after weighing the differential and the strength of evidence linking the phenotype to a single coherent disease, the most likely underlying cause of this child's failure to thrive is exocrine pancreatic insufficiency due to cystic fibrosis, with the steatorrhea reflecting fat malabsorption and the recurrent sinusitis and snoring reflecting CF-related upper airway disease. I should confirm EPI and proceed with CF diagnostics and multidisciplinary management without delay [^1117evXG] [^113xzq9R].
 
 ---
 
-The most likely cause of this child's failure to thrive is **exocrine pancreatic insufficiency** due to cystic fibrosis [^19e46231], which explains the steatorrhea, abdominal distension, and recurrent sinusitis [^7403c540]; confirm with a fecal elastase-1 test and sweat chloride testing [^23586cf8]. Celiac disease is less likely given the prominent respiratory involvement, and Whipple's disease is rare in children. Impaired amino acid transport does not fit the clinical picture.
+The most likely cause of this child's failure to thrive is **exocrine pancreatic insufficiency** due to cystic fibrosis [^111fPQKJ], which explains the steatorrhea, abdominal distension, and recurrent sinusitis [^113xzq9R]; confirm with a fecal elastase-1 test and sweat chloride testing [^111uQGXy]. Celiac disease is less likely given the prominent respiratory involvement, and Whipple's disease is rare in children. Impaired amino acid transport does not fit the clinical picture.
 
 ---
 
 ## Clinical features and their implications
 
-- **Failure to thrive**: Severe underweight (3rd percentile) and short stature (15th percentile) despite adequate caloric intake suggest malabsorption or increased energy expenditure [^81fe66d3].
+- **Failure to thrive**: Severe underweight (3rd percentile) and short stature (15th percentile) despite adequate caloric intake suggest malabsorption or increased energy expenditure [^114KirVp].
 
 - **Steatorrhea**: Bulky, foul-smelling, floating stools indicate fat malabsorption, characteristic of exocrine pancreatic insufficiency (EPI) [^notfound].
 
 - **Abdominal distension**: Common in EPI due to undigested fats and carbohydrates causing gas and bloating [^notfound].
 
-- **Recurrent sinusitis**: Chronic upper respiratory infections are typical in cystic fibrosis (CF) due to impaired mucociliary clearance and thick secretions [^7403c540].
+- **Recurrent sinusitis**: Chronic upper respiratory infections are typical in cystic fibrosis (CF) due to impaired mucociliary clearance and thick secretions [^113xzq9R].
 
 - **Snoring**: Recent snoring suggests nasal obstruction from chronic sinus disease, common in CF [^notfound].
 
@@ -76,13 +76,13 @@ The most likely cause of this child's failure to thrive is **exocrine pancreatic
 
 ## Exocrine pancreatic insufficiency (EPI) due to cystic fibrosis
 
-- **Pathophysiology**: CFTR mutation causes thick secretions, EPI, and chronic lung disease [^047cf577].
+- **Pathophysiology**: CFTR mutation causes thick secretions, EPI, and chronic lung disease [^1117evXG].
 
 - **Clinical features**: Steatorrhea, abdominal distension, growth failure, recurrent sinusitis, and chronic cough are classic [^notfound].
 
 - **Diagnosis**: Fecal elastase-1 < 100 µg/g confirms EPI; sweat chloride ≥ 60 mmol/L supports CF [^notfound].
 
-- **Management**: Pancreatic enzyme replacement, nutritional support, and CFTR modulators when indicated [^437e3d5c].
+- **Management**: Pancreatic enzyme replacement, nutritional support, and CFTR modulators when indicated [^112j4aEF].
 
 ---
 
@@ -98,7 +98,7 @@ The most likely cause of this child's failure to thrive is **exocrine pancreatic
 
 ## Recommended diagnostic approach
 
-- **Confirm EPI**: Fecal elastase-1 test [^e88e1323].
+- **Confirm EPI**: Fecal elastase-1 test [^116wmrDg].
 
 - **Confirm CF**: Sweat chloride test and CFTR genetic testing [^notfound].
 
@@ -108,37 +108,37 @@ The most likely cause of this child's failure to thrive is **exocrine pancreatic
 
 ---
 
-The most likely cause is **exocrine pancreatic insufficiency** from cystic fibrosis, which best explains the steatorrhea, growth failure, and recurrent sinusitis; confirm with fecal elastase-1 and sweat testing, then initiate CF-directed therapy [^e88e1323].
+The most likely cause is **exocrine pancreatic insufficiency** from cystic fibrosis, which best explains the steatorrhea, growth failure, and recurrent sinusitis; confirm with fecal elastase-1 and sweat testing, then initiate CF-directed therapy [^116wmrDg].
 
 ---
 
 ## References
 
-### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^0cb42735]. HIV.gov (2025). High credibility.
+### Guidelines for the prevention and treatment of opportunistic infections in children with and exposed to HIV [^111KqN3n]. HIV.gov (2025). High credibility.
 
 Giardia clinical manifestations in children are characterized by an incubation period that usually lasts 1 to 2 weeks and averages 7 days, with children usually presenting with short-lasting, acute watery diarrhea with or without low-grade fever, nausea, anorexia, and abdominal pain; others may have a protracted intermittent course with foul-smelling stools, flatulence, abdominal distension, and anorexia. Malabsorption combined with anorexia can lead to significant weight loss, failure to thrive, and malnutrition in children, and stools can initially be profuse and watery and later become greasy and foul smelling with blood, mucus, and fecal leukocytes absent. Post-Giardia infection lactose intolerance can occur in 20% to 40% of patients, asymptomatic Giardia infection is common, and extraintestinal invasion can occur with trophozoites migrating into bile or pancreatic ducts; recent evidence demonstrates that one third of patients will express long term extraintestinal symptoms, including ocular, muscular and metabolic complications, and reactive arthritis has also been associated with giardiasis.
 
 ---
 
-### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^952369ee]. Pediatrics (2025). High credibility.
+### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^114p73uX]. Pediatrics (2025). High credibility.
 
 22q11.2 deletion syndrome — recurrent infection risk and management — T‑lymphocyte immunodeficiency does not appear to translate into increased parasitic infection, and most pediatric patients do not require directed management of an immunodeficiency. Patients of all ages with 22q11.2DS have anatomic and physiologic predispositions to upper and lower respiratory tract infections with a propensity for recurrent or persistent otitis media, sinusitis, and pneumonia. The infectious agents are most likely those common in the community, and standard management regimens should be used; for severe, function‑impacting, or structurally complicated infections, referral to immunology may be warranted, and more aggressive management can include prophylactic antibiotics, intravenous immunoglobulin therapy, or thymic transplantation.
 
 ---
 
-### Guidelines for the use of antiretroviral agents in pediatric HIV infection [^7e6a2b18]. HIV.gov (2025). High credibility.
+### Guidelines for the use of antiretroviral agents in pediatric HIV infection [^114ER6qM]. HIV.gov (2025). High credibility.
 
 CDC pediatric HIV-related symptoms — mildly symptomatic classification applies to children with two or more listed conditions, but none of the Moderately Symptomatic conditions. Conditions include lymphadenopathy defined as lymph nodes ≥ 0.5 cm at more than two sites and/or bilateral at one site, hepatomegaly, splenomegaly, dermatitis, parotitis, and recurrent or persistent upper respiratory tract infection, sinusitis, or otitis media.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^6f42c569]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^113qx464]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to genetic testing, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to recognize that no targeted gene panel is 100% sensitive for the different types of genetic changes that can cause Alport syndrome, with well-designed gene panels achieving a sensitivity of over 85% for COL4A3/4/5 gene analysis in detecting pathogenic variants.
 
 ---
 
-### Diagnosing failure to thrive: 22q11.2 deletion syndrome in identical twins [^8b372cc1]. BMJ Case Reports (2025). High credibility.
+### Diagnosing failure to thrive: 22q11.2 deletion syndrome in identical twins [^114ZPp4g]. BMJ Case Reports (2025). High credibility.
 
 Background
 
@@ -150,43 +150,43 @@ This report details the case of monochorionic monoamniotic identical twin boys, 
 
 ---
 
-### Challenging diagnosis of spherocytosis in early infancy [^8ba1e397]. BMJ Case Reports (2025). High credibility.
+### Challenging diagnosis of spherocytosis in early infancy [^114a1f2N]. BMJ Case Reports (2025). High credibility.
 
 This case report describes an infant who presented to the emergency department with rhinorrhoea and severe mucocutaneous pallor. Laboratory evaluation revealed normocytic anaemia with reticulocytosis and a peripheral blood smear suggestive of peripheral red blood cell (RBC) destruction, although without the presence of spherocytes. Despite the absence of spherocytes on the peripheral blood smear, the clinical evaluation, including family history, led to the consideration of hereditary spherocytosis (HS). The diagnosis was confirmed through genetic testing, revealing a heterozygous pathogenic variant in the ANK1 gene, associated with HS. This case underscores the diagnostic challenges of HS, particularly in the early infancy, and highlights the importance of genetic panels in cases of unexplained haemolytic anaemia.
 
 ---
 
-### AASLD practice statement on the evaluation and management of metabolic dysfunction-associated steatotic liver disease in children [^07e0e309]. Hepatology (2025). High credibility.
+### AASLD practice statement on the evaluation and management of metabolic dysfunction-associated steatotic liver disease in children [^111CgT84]. Hepatology (2025). High credibility.
 
 Pediatric MASLD — obstructive sleep apnea assessment calls for "Symptom screening each visit" and use of validated questionnaires (OSA18 and Pediatric Sleep Questionnaire). Abnormal findings include "Symptoms: frequent snoring, gasping or labored breathing during sleep, disturbed sleep, daytime sleepiness, and inattentive/learning problems at school" and exam signs such as "tonsillar hypertrophy, long open-mouth referred to as adenoid facies, micro- or retrognathia, and a high-arched palate". Initial management states "Polysomnography for children and adolescents with obesity and at least 1 symptom of disordered breathing or referral to pediatric sleep program".
 
 ---
 
-### Familial chylomicronemia syndrome: an expert clinical review from the National Lipid Association [^3b92ed4b]. Journal of Clinical Lipidology (2025). High credibility.
+### Familial chylomicronemia syndrome: an expert clinical review from the National Lipid Association [^112XKcze]. Journal of Clinical Lipidology (2025). High credibility.
 
 Familial chylomicronemia syndrome — pediatrics: In childhood, FCS may present with failure to thrive, abdominal pain, and acute pancreatitis. Infants may require specialized feeding options, such as low-fat, high-MCT formulas, and careful consideration of breast milk alternatives. Essential fatty acids and fat-soluble vitamins must be supplemented to prevent deficiencies while on low fat diets. Ensure intake of 2% to 4% daily caloric intake of LA and ALA. Fibrates, O3FAs, and orlistat have been utilized with limited evidence in case reports and small studies. APOC3 inhibitors have not been approved for use in the pediatric population, but if found to be efficacious and safe, they may be utilized in the future.
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^7471558e]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^113yddcq]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding specific circumstances for exocrine pancreatic insufficiency, more specifically with respect to patients with cystic fibrosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to monitor pancreatic sufficient patients with CFTR-related disorders by annual fecal elastase-1 test during infancy and childhood or additionally in cases of failure to thrive, weight loss, deficiencies in fat-soluble vitamins, and episodes of acute pancreatitis or diarrhea.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^45eede36]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^112ngNyB]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to hearing assessment, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider obtaining a hearing evaluation at diagnosis or upon reaching adulthood in female patients with X-linked alport syndrome, and then every 5 years in the absence of hearing loss symptoms.
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^1ce38494]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^111jq5JB]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Cystic fibrosis (CF) in chronic rhinosinusitis (CRS)/recurrent acute rhinosinusitis (RARS) with polyps — patients with polyps who present before age 18 years or have refractory rhinosinusitis should be screened for underlying CF according to published clinical consensus guidelines, and the common CF mutation is F508del, with an estimated 86% of patients having this as at least one allele. A recent evidence-based review recommends nasal saline rinses, CFTR modulators and endoscopic sinus surgery (ESS) for treatment in CF, and multiple studies have shown that combination therapy with elexacaftor, tezacaftor, and ivacaftor is highly effective in improving sinus symptoms including SNOT-22, CT, and endoscopic scores when appropriate for the patient's underlying mutations.
 
 ---
 
-### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^d51f42be]. BMC Pediatrics (2025). Medium credibility.
+### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^116Sxs2u]. BMC Pediatrics (2025). Medium credibility.
 
 Background
 
@@ -198,7 +198,7 @@ Although sinonasal-related intraorbital abscess has been widely reported, recurr
 
 ---
 
-### Terbinafine hydrochloride [^b8b0baac]. FDA (2025). Medium credibility.
+### Terbinafine hydrochloride [^115ip5pF]. FDA (2025). Medium credibility.
 
 5.1 Hepatotoxicity
 
@@ -222,13 +222,13 @@ Depressive symptoms have occurred during postmarketing use of terbinafine tablet
 
 ---
 
-### A patient with TPCN2-related hypopigmentation and ocular phenotype [^b8876196]. European Journal of Human Genetics (2025). Medium credibility.
+### A patient with TPCN2-related hypopigmentation and ocular phenotype [^115iaCHs]. European Journal of Human Genetics (2025). Medium credibility.
 
 Pigmentation is orchestrated by hundreds of genes involved in cellular functions going from early developmental fate of pigment cells to melanin synthesis. The Two Pore Channel 2 (TPC2) a Ca²⁺ and Na⁺ channel acidifies melanosomal pH and thus inhibits pigmentation. A young patient was recently reported with generalized hypopigmentation but uneventful ocular examination, caused by the de novo heterozygous TPCN2 variant c.628C > T; p. Arg210Cys that constitutively activates TPC2. Here we report a young patient with the same de novo variant presenting with generalized hypopigmentation, and ophthalmologic features including low grade retinal hypopigmentation and foveal hypoplasia, photophobia, mild hypermetropia, and astigmatism, which are features of albinism. Skin fragility and episodes of fever with diarrhea and fatigue were also observed. This extends the phenotype of patients with TPCN2 variants, warranting further investigations in patients with alterations of this gene, and raises the question whether TPCN2 might be considered as an albinism gene.
 
 ---
 
-### Growth faltering in newborns and infants… [^81fe66d3]. AAP (2022). Medium credibility.
+### Growth faltering in newborns and infants… [^114KirVp]. AAP (2022). Medium credibility.
 
 Infants who fall below weight-for-age or weight-for-length percentile or whose rate of weight gain declines across 2 major percentiles should be assessed for growth faltering.
 - Percentiles of weight for age or weight for length may or may not indicate abnormal growth depending on clinical circumstances.
@@ -299,7 +299,7 @@ Keep in mind conditions that require increased energy and those that result in a
 
 ---
 
-### Somatropin (Zomacton) [^9293262e]. FDA (2025). Medium credibility.
+### Somatropin (Zomacton) [^114kJcqj]. FDA (2025). Medium credibility.
 
 5.1 	Increased Mortality in Patients with Acute Critical Illness
 
@@ -311,13 +311,13 @@ There have been reports of sudden death after initiating therapy with somatropin
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^19e46231]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^111fPQKJ]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding specific circumstances for exocrine pancreatic insufficiency, more specifically with respect to patients with cystic fibrosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to monitor pediatric patients with pancreatic sufficiency by annual fecal elastase-1 or additionally in cases of failure to thrive, weight loss, abdominal pain, or diarrhea.
 
 ---
 
-### Cystic fibrosis year in review 2024 [^2591bc45]. Pediatric Pulmonology (2025). Medium credibility.
+### Cystic fibrosis year in review 2024 [^111xhVak]. Pediatric Pulmonology (2025). Medium credibility.
 
 1 Introduction
 
@@ -325,7 +325,7 @@ The cystic fibrosis (CF) community has published many studies across a wide rang
 
 ---
 
-### Somatropin (Humatrope) [^8e86c586]. FDA (2025). Medium credibility.
+### Somatropin (Humatrope) [^114eJWaZ]. FDA (2025). Medium credibility.
 
 5.1 Acute Critical Illness
 
@@ -337,19 +337,19 @@ There have been reports of sudden death after initiating therapy with somatropin
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^047cf577]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^1117evXG]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding specific circumstances for exocrine pancreatic insufficiency, more specifically with respect to patients with cystic fibrosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to recognize that patients with severe biallelic (classes I, II, III, and VI) CFTR mutations develop EPI early in life.
 
 ---
 
-### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^18d7d987]. GOLD (2025). High credibility.
+### Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease (2025 report) [^111dqCra]. GOLD (2025). High credibility.
 
 Chronic obstructive pulmonary disease (COPD) — medical history for a patient known or suspected to have COPD should include the patient's exposure to risk factors (smoking and environmental exposures); past medical history including early life events (prematurity, low birthweight, maternal smoking during pregnancy, passive smoking exposure during infancy), asthma, allergy, sinusitis or nasal polyps, respiratory infections in childhood, HIV, and tuberculosis; family history of COPD or other chronic respiratory disease; the pattern of symptom development (typically adult-onset with increased breathlessness, more frequent or prolonged "winter colds", and some social restriction for years before seeking help); history of exacerbations or previous hospitalizations for respiratory disorder, including awareness of periodic symptom worsening even if not recognized as COPD exacerbations; presence of comorbidities (heart disease, osteoporosis, musculoskeletal disorders, anxiety and depression, and malignancies) that may restrict activity; impact of disease on the patient's life (limitation of activity, missed work and economic impact, effects on family routines, feelings of depression or anxiety, wellbeing, and sexual activity); social and family support; and possibilities for reducing risk factors, especially smoking cessation.
 
 ---
 
-### Somatropin (Genotropin) [^9f348e33]. FDA (2025). Medium credibility.
+### Somatropin (Genotropin) [^11552gft]. FDA (2025). Medium credibility.
 
 5.1	Acute Critical Illness
 
@@ -361,7 +361,7 @@ There have been reports of fatalities after initiating therapy with somatropin i
 
 ---
 
-### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^dd19152a]. BMC Pediatrics (2025). Medium credibility.
+### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^116engvu]. BMC Pediatrics (2025). Medium credibility.
 
 Discussion and conclusions
 
@@ -369,19 +369,19 @@ This rare case demonstrates how an occult medial orbital wall trapdoor fracture 
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^7c51f78f]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^114BJznr]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding specific circumstances for exocrine pancreatic insufficiency, more specifically with respect to patients with cystic fibrosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to obtain evaluation of EPI as part of the workup for CFTR-related disorders at any age. Confirm a positive test result by a second test within 3 months.
 
 ---
 
-### Addressing pain in people living with cystic fibrosis: Cystic Fibrosis Foundation evidence-informed guidelines [^507ccd9a]. Journal of Cystic Fibrosis (2025). High credibility.
+### Addressing pain in people living with cystic fibrosis: Cystic Fibrosis Foundation evidence-informed guidelines [^1134KvuX]. Journal of Cystic Fibrosis (2025). High credibility.
 
 Recommendation 13 — cystic fibrosis foundation guidance on multisystem and extrapulmonary pain — states that The CF Foundation found insufficient CF-specific evidence to recommend discrete treatment modalities for multisystem pain, sinus, headache, GI pain, or arthropathy; therefore, we recommend patient-centered management plans created in accordance with the guiding principles, and more broadly notes that although the evidence to support specific treatment modalities for PLwCF with these extrapulmonary syndromes is insufficient at this time, we suggest careful evaluation and consideration of CF-related causes utilizing guidance from the Cystic Fibrosis consensus recommendations and best practices statements, emphasizing that a multidisciplinary and multimodal approach to management incorporating ongoing, careful assessment and clear communication is especially essential when pain is multisystem, recurrent, or refractory and that, collaboratively creating a plan of care with consultation and input from relevant specialists, evidence-based pain management strategies developed for non-CF populations may be adapted for PLwCF of all ages in the context of patient-specific biopsychosocial and developmental factors.
 
 ---
 
-### Somatropin (omnitrope) [^b6dedcee]. FDA (2025). Medium credibility.
+### Somatropin (omnitrope) [^115g7c1b]. FDA (2025). Medium credibility.
 
 5.1 Acute Critical Illness
 
@@ -393,7 +393,7 @@ There have been reports of fatalities after initiating therapy with somatropin i
 
 ---
 
-### Terbinafine [^67e7afc9]. FDA (2025). Medium credibility.
+### Terbinafine [^113f3YeU]. FDA (2025). Medium credibility.
 
 5.1 Hepatotoxicity
 
@@ -417,19 +417,19 @@ Depressive symptoms have occurred during postmarketing use of terbinafine tablet
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^83d8e425]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^114NUEJG]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Modifying factors in chronic rhinosinusitis (CRS) and recurrent acute rhinosinusitis (RARS) should be evaluated by clinicians, who should assess the patient with CRS or RARS for multiple chronic conditions that would modify management such as asthma, cystic fibrosis, immunocompromised state, aspirin‑exacerbated respiratory disease, and ciliary dyskinesia. This recommendation is based on multiple systematic reviews and observational studies with a preponderance of benefit over harm, and the quality improvement opportunity is to promote effective treatment by identifying comorbid conditions known to accompany CRS and RARS, knowledge of which would improve sinusitis management and, conversely, management of sinusitis may improve the associated chronic condition (asthma).
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^00ae4ba3]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^11121YYr]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic investigations for Alport syndrome, more specifically with respect to genetic testing, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to include COL4A3/4/5 gene testing when obtaining genetic testing to investigate proteinuric kidney disease, unexplained kidney failure, or possible cystic kidney disease.
 
 ---
 
-### Somatropin (nutropin AQ nuSpin 5) [^3dd67325]. FDA (2025). Medium credibility.
+### Somatropin (nutropin AQ nuSpin 5) [^112agH1W]. FDA (2025). Medium credibility.
 
 5.1 Acute Critical Illness
 
@@ -441,19 +441,19 @@ There have been reports of fatalities after initiating therapy with somatropin i
 
 ---
 
-### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^b6dd2b9a]. BMC Pediatrics (2025). Medium credibility.
+### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^115g732y]. BMC Pediatrics (2025). Medium credibility.
 
 Previous studies have confirmed that sinusitis is the most common cause of intraorbital abscess and orbital cellulitis. Jabarin et al. indicated that intraorbital abscess and preseptal cellulitis secondary to sinusitis are frequently encountered clinically, highlighting sinusitis as a key predisposing factor for orbital infections. Eufinger et al. conducted a retrospective analysis of 36 patients with acute suppurative sinusitis and found that most cases of intraorbital abscess were closely linked to sinusitis, with some exhibiting intracranial complications, emphasizing the significance of early surgical intervention and multidisciplinary care. Chaudhry et al. retrospectively reviewed 218 patients with orbital cellulitis and reported that sinusitis was the most common etiology, with roughly half of the cases complicated by intraorbital abscess. Most required surgical drainage, and delayed management could lead to significant vision loss. Furthermore, in the current literature, cases explicitly describing occult medial orbital wall trapdoor fractures leading to recurrent rhinogenic intraorbital abscesses are exceedingly rare. Only a few reports have discussed the potential association between medial orbital wall fractures and rhinogenic intraorbital infections. Simon et al. reported four cases of orbital blowout fractures that subsequently developed orbital cellulitis and intraorbital abscesses; all patients had a history of sinusitis or developed sinusitis shortly after the fracture, suggesting that the fracture may disrupt the bony barrier and create a pathway for infection. Takesue et al. described a patient with orbital fracture accompanied by chronic sinusitis who developed severe intraorbital infection and panophthalmitis postoperatively, indicating that local barrier disruption following fracture may facilitate bacterial invasion. Similarly, Park et al. emphasized that orbital wall fractures associated with sinus pathology or unhealed bony defects could serve as potential risk factors for delayed orbital infection. Kemps et al. reported an 8-year-old girl who developed an orbital floor trapdoor fracture with muscle entrapment after being struck in the face by a soccer ball, highlighting that potential fractures should be highly suspected in pediatric patients even with mild post-traumatic clinical signs. Furthermore, we previously reported three cases of definitively diagnosed medial orbital wall fractures, in which imaging and intraoperative observations confirmed obstruction of the sinus ostia by the fractures, resulting in spread of sinus infection into the orbit. Overall, these studies support our hypothesis that an occult medial orbital wall trapdoor fracture may provide a potential pathway for recurrent invasion of rhinogenic pathogens into the orbit, leading to persistent or recurrent intraorbital abscesses. In the present case, the initial history of facial trauma was overlooked, and the condition was misdiagnosed as acute sinusitis, resulting in a protracted and relapsing course. The uniqueness of this case lies in its chronic, recurrent presentation with subtle radiologic findings, highlighting that occult trapdoor fractures should be considered in pediatric patients with recurrent orbital infections. Clinicians should proactively inquire about prior facial trauma and, when necessary, perform high-resolution bone-window CT to avoid misdiagnosis.
 
 ---
 
-### Standards of care in diabetes – 2025 [^9a2ec52c]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^114waoZD]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypoglycemia, more specifically with respect to elderly patients, ADA 2025 guidelines recommend to individualized goal levels for the treatment of hypertension in most older patients.
 
 ---
 
-### Sleep-disordered breathing-year in review 2024 [^78370473]. Pediatric Pulmonology (2025). Medium credibility.
+### Sleep-disordered breathing-year in review 2024 [^1145DzeE]. Pediatric Pulmonology (2025). Medium credibility.
 
 1 INTRODUCTION
 
@@ -463,13 +463,13 @@ My personal review of last year's literature on oSDB in children focuses on publ
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^e88e1323]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^116wmrDg]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding screening and diagnosis for exocrine pancreatic insufficiency, more specifically with respect to diagnosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to diagnose pancreatic exocrine insufficiency based on a combined assessment of symptoms, nutritional status, and pancreatic function in an appropriate clinical context.
 
 ---
 
-### Haemoptysis caused by the absence of the right pulmonary vein in an 11-year-old child: a case report and literature review [^60f25031]. BMC Pediatrics (2025). Medium credibility.
+### Haemoptysis caused by the absence of the right pulmonary vein in an 11-year-old child: a case report and literature review [^113UjChN]. BMC Pediatrics (2025). Medium credibility.
 
 Case presentation
 
@@ -479,25 +479,25 @@ The patient was hospitalized for pneumonia once 3 years ago, but the specific di
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^671e1bcc]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^113dsqb9]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding screening and diagnosis for exocrine pancreatic insufficiency, more specifically with respect to diagnosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to consider assessing the clinical response to empirical pancreatic enzyme replacement therapy in the appropriate clinical context if the diagnosis of pancreatic exocrine insufficiency cannot be established based on the combined evaluation of symptoms, nutritional status, and pancreatic function.
 
 ---
 
-### Standards of care in diabetes – 2025 [^14753c0e]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111XL8Yu]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus (monitoring of renal function), ADA 2025 guidelines recommend to monitor urinary albumin (such as spot urinary albumin-to-creatinine ratio) and eGFR 1–4 times per year, depending on the stage of the disease, in patients with established diabetic kidney disease.
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^5aeff972]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^113KpVSZ]. European Heart Journal (2025). High credibility.
 
 Regarding medical management for myocarditis, more specifically with respect to management of cardiac arrhythmias, catheter ablation, ESC 2025 guidelines recommend to consider performing catheter ablation in specialized centers for patients with recurrent symptomatic sustained monomorphic VT or ICD shocks post-myocarditis when antiarrhythmic drugs are ineffective, not tolerated, or not desired.
 
 ---
 
-### New treatments are urgently needed for patients with all primary ciliary dyskinesia genotypes [^5a1ed856]. Pediatric Pulmonology (2025). Medium credibility.
+### New treatments are urgently needed for patients with all primary ciliary dyskinesia genotypes [^113JcFGq]. Pediatric Pulmonology (2025). Medium credibility.
 
 We read with interest the letter from Pifferi et al. on lung function decline in patients with primary ciliary dyskinesia (PCD). We congratulate the authors on the good lung function trajectories achieved by many of their PCD patients. We look forward to hearing more about these therapeutic successes. As PCD providers, parents and patient advocates, however, we are concerned that this study as presented is being interpreted by those in industry who are considering the development of new therapeutic options to suggest that market opportunities among may not be robust among PCD patients with certain genotypes. That is to say, there is the thought among some colleagues in industry that investment in PCD therapies may not be needed or worthwhile. I think the authors would agree that this conclusion is incorrect.
 
@@ -509,25 +509,25 @@ Though patients with some genotypes may be less severely affected than others, t
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^7403c540]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^113xzq9R]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Cystic fibrosis (CF) and rhinosinusitis — epidemiology, microbiology, and genetics — show high CRS prevalence, with "CRS reported in 30% to 67% of CF patients over all age groups", and using current criteria, "63% of adult patients with CF have CRS compared to an estimated background prevalence of sinusitis of approximately 11.9%". Airway pathogen patterns are linked as "concordance exists between microorganisms isolated in the upper and lower airways of CF patients with CRS; and upper airway colonization may precede spread of the bacteria to the lower airways". Genetically, "There are more than 2000 CFTR mutations that have been described", and "Classes range from I to VI, with the more high-risk genotypes being associated with Classes I to III and correlating with more severe disease".
 
 ---
 
-### Clinical practice guideline: adult sinusitis update [^bd58bd23]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: adult sinusitis update [^115qiU2v]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Adult sinusitis — definitions and diagnostic criteria for chronic rhinosinusitis (CRS) and recurrent acute rhinosinusitis (RARS) are specified. CRS is defined as inflammation of the sinonasal cavity for more than 12 weeks associated with 2 or more symptoms including nasal obstruction and/or congestion, facial pressure and/or fullness, mucopurulent anterior or posterior nasal discharge, and hyposmia. Symptoms alone cannot affirm the diagnosis of CRS; diagnosing CRS requires that inflammation (polyps, edema, or purulent mucus) be documented by examination of the nasal cavity and/or computed tomography (CT) imaging, in addition to persistent symptoms > 12 weeks. Table criteria further define CRS as twelve weeks or longer of two or more of the following — mucopurulent drainage (anterior, posterior, or both), nasal obstruction (congestion), facial pain-pressure-fullness, or decreased sense of smell — and require that inflammation be documented by one or more findings: purulent mucus or edema in the middle meatus or anterior ethmoid region, polyps in the nasal cavity or middle meatus, or radiographic imaging showing inflammation of the paranasal sinuses. RARS is defined as four or more episodes per year of acute bacterial rhinosinusitis without signs or symptoms between episodes, and each episode of acute bacterial rhinosinusitis should meet diagnostic criteria in Table 4.
 
 ---
 
-### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^d21864ff]. Journal of Clinical Sleep Medicine (2025). High credibility.
+### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^116NUbRY]. Journal of Clinical Sleep Medicine (2025). High credibility.
 
 Regarding respiratory support for central sleep apnea, more specifically with respect to positive airway pressure therapy, AASM 2025 guidelines recommend to consider offering bilevel positive airway pressure with a backup rate in patients with CSA due to primary CSA, CSA due to medication or substance use, treatment-emergent CSA, and CSA due to a medical condition or disorder.
 
 ---
 
-### Somatropin (Norditropin) [^af007af2]. FDA (2025). Medium credibility.
+### Somatropin (Norditropin) [^115USzg1]. FDA (2025). Medium credibility.
 
 5.1 Increased Mortality in Patients with Acute Critical Illness
 
@@ -539,7 +539,7 @@ There have been reports of sudden death after initiating therapy with somatropin
 
 ---
 
-### Proceedings of the 32nd European paediatric rheumatology congress [^a020afb1]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
+### Proceedings of the 32nd European paediatric rheumatology congress [^1156PzsS]. Pediatric Rheumatology Online Journal (2025). Medium credibility.
 
 PU64 Emerging autoimmune features in a pediatric patient with congenital hydronephrosis: a case report
 
@@ -567,19 +567,19 @@ None declared
 
 ---
 
-### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^7958fe78]. Journal of Clinical Sleep Medicine (2025). High credibility.
+### Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline [^1146uPqq]. Journal of Clinical Sleep Medicine (2025). High credibility.
 
 Regarding respiratory support for central sleep apnea, more specifically with respect to positive airway pressure therapy, AASM 2025 guidelines recommend to avoid using bilevel positive airway pressure without a backup rate in patients with CSA due to primary CSA, CSA due to HF, CSA due to medication or substance use, treatment-emergent CSA, and CSA due to a medical condition or disorder.
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^670fb5cb]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^113do15t]. European Heart Journal (2025). High credibility.
 
 Regarding medical management for myocarditis, more specifically with respect to management of cardiac arrhythmias, antiarrhythmic drugs, ESC 2025 guidelines recommend to consider initiating β-blockers, with continuation for at least 6 months, in patients with acute myocarditis, particularly those with elevated troponin levels, to control symptoms and prevent arrhythmias.
 
 ---
 
-### Somatrogon-ghla (Ngenla) [^a1f48b55]. FDA (2025). Medium credibility.
+### Somatrogon-ghla (Ngenla) [^115979Ug]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -589,55 +589,55 @@ NGENLA is a human growth hormone analog indicated for treatment of pediatric pat
 
 ---
 
-### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^b127630d]. BMC Pediatrics (2025). Medium credibility.
+### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^115Xe3CY]. BMC Pediatrics (2025). Medium credibility.
 
 Regarding management, although some pediatric intraorbital abscess may temporarily improve with early medical therapy, based on the Chandler staging system and contemporary expert consensus, patients with intraorbital abscess should undergo surgical intervention within 24 h. For preseptal and orbital cellulitis, conservative management is preferred initially, with surgical drainage considered if the condition deteriorates. Pediatric patients with subperiosteal orbital abscess showing inadequate response to 48 h of conservative therapy should similarly proceed to surgical intervention. Concerning surgical timing, it has been proposed that pediatric patients with abscess volumes exceeding 1.18 mL should be considered for operative management. In our case, the estimated abscess volume was 3.28mL, further supporting the decision for prompt surgical intervention. Compared with conventional external orbital incision drainage, endoscopic transnasal surgery enables precise localization, safe and effective drainage under direct visualization, and concurrent treatment of the primary sinus pathology, including removal of bone fragments, osteophytes, or hyperplastic tissue that mechanically obstruct the sinus ostia, thereby restoring sinus drainage and lowering recurrence risk. In the present case, the pediatric patient underwent endoscopic transnasal complete ethmoidectomy, frontal and sphenoid sinus opening, combined with intraorbital abscess drainage. During nearly six months of follow-up, no recurrence was observed, further demonstrating the effectiveness of early, targeted surgical management.
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^a762cce3]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^115HA7rA]. European Heart Journal (2025). High credibility.
 
 Regarding medical management for myocarditis, more specifically with respect to management of cardiac arrhythmias, cardiac pacing, ESC 2025 guidelines recommend to consider performing temporary transvenous external pacing in patients with acute myocarditis and high-degree conduction disorders as a bridge to recovery.
 
 ---
 
-### Standards of care in diabetes – 2025 [^9ab3236a]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^114xMGJ5]. Diabetes Care (2025). High credibility.
 
 Regarding quality improvement for obesity, more specifically with respect to use of nonjudgmental language, ADA 2025 guidelines recommend to use person-centered, nonjudgmental language fostering collaboration between patients and healthcare professionals, including people-first language (such as "person with obesity" rather than "obese person" and "person with diabetes" rather than "diabetic person").
 
 ---
 
-### Standards of care in diabetes – 2025 [^5c059b62]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^113MRkAD]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with diabetes mellitus, lifestyle modifications, ADA 2025 guidelines recommend to advise lifestyle interventions in patients with BP > 120/80 mmHg, consisting of weight loss when indicated, a DASH-style eating pattern (including reducing sodium and increasing potassium intake), moderation of alcohol intake, smoking cessation, and increased physical activity.
 
 ---
 
-### Standards of care in diabetes – 2025 [^2a4976a0]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1125hA23]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, renin-angiotensin system inhibitors, ADA 2025 guidelines recommend to monitor for increased serum creatinine and for increased serum potassium levels when ACEis, ARBs, or mineralocorticoid receptor antagonists are used, or for hypokalemia when diuretics are used at routine visits and 7–14 days after initiation or after a dose change.
 
 ---
 
-### Standards of care in diabetes – 2025 [^31be65a6]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^112GkM3T]. Diabetes Care (2025). High credibility.
 
 Regarding diagnostic investigations for hypoglycemia, more specifically with respect to screening for cognitive impairment, ADA 2025 guidelines recommend to simplify diabetes treatment plans as much as possible for patients with cognitive impairment and tailor to minimize the risk of hypoglycemia.
 
 ---
 
-### Standards of care in diabetes – 2025 [^1462a151]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111XDt7A]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypoglycemia, more specifically with respect to pregnant patients, ADA 2025 guidelines recommend to offer continuous glucose monitoring to pregnant patients with T1DM. Consider obtaining real-time continuous glucose monitoring to reduce the risk for large-for-gestational-age infants and neonatal hypoglycemia in pregnancy complicated by T1DM, in conjunction with aims to achieve traditional pre- and postprandial glycemic goals.
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^c59a118f]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^1163xK1p]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding diagnostic procedures for Alport syndrome, more specifically with respect to kidney biopsy, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to avoid performing a kidney biopsy in patients with a genetic diagnosis of X-linked Alport syndrome or autosomal recessive Alport syndrome.
 
 ---
 
-### Imerslund-Gräsbeck syndrome presenting with a 12-year history of intermittent proteinuria and anemia: a case from the middle east [^fdc14b1f]. BMC Pediatrics (2025). Medium credibility.
+### Imerslund-Gräsbeck syndrome presenting with a 12-year history of intermittent proteinuria and anemia: a case from the middle east [^117VCnxW]. BMC Pediatrics (2025). Medium credibility.
 
 Introduction
 
@@ -651,7 +651,7 @@ In this report, we present the case of a 15-year-old Iranian boy with a 12-year 
 
 ---
 
-### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^d8df76a9]. BMC Pediatrics (2025). Medium credibility.
+### Occult medial orbital wall trapdoor fracture inducing recurrent rhinogenic intraorbital abscess in a pediatric patient: a case report [^116YXPHr]. BMC Pediatrics (2025). Medium credibility.
 
 Fig. 3
 Intraoperative endoscopic views: a Marked congestion and edema of the paranasal sinus mucosa. b Stepwise removal of the anterior and posterior ethmoid air cells, followed by hemostasis and opening of the frontal and maxillary sinuses. c Clearance of pathological tissue with complete opening of the ethmoid, frontal, and maxillary sinuses, along with thorough drainage of the intraorbital abscess (Yellow arrow). d Completion of the procedure with hemostasis using absorbable hemostatic powder and nasal packing with gelatin sponge
@@ -660,25 +660,25 @@ Postoperatively, the pediatric patient was administered empirical cefazolin for 
 
 ---
 
-### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^4f70b905]. Nephrology, Dialysis, Transplantation (2025). High credibility.
+### Diagnosis, management and treatment of the Alport syndrome-2024 guideline on behalf of ERKNet, ERA and ESPN [^1132mtHA]. Nephrology, Dialysis, Transplantation (2025). High credibility.
 
 Regarding surgical interventions for Alport syndrome, more specifically with respect to eligibility for kidney donation, ERA/ERN ERKNet/ESPN 2025 guidelines recommend to consider using relatives with heterozygous Alport syndrome variants (males or females with heterozygous pathogenic or likely pathogenic variants in COL4A3 or COL4A4 or females with a variant in COL4A5) only as the last possible resource for living kidney donation.
 
 ---
 
-### A 7-year-old boy with prolonged fever [^dc136531]. NEJM Evidence (2025). Medium credibility.
+### A 7-year-old boy with prolonged fever [^116dGnrC]. NEJM Evidence (2025). Medium credibility.
 
 AbstractMorning Report is a time-honored tradition in which physicians-in-training present cases to their colleagues and clinical experts to collaboratively explore a patient's presentation. The Morning Report section continues this tradition by presenting a patient's chief concern and clinical course, inviting readers to develop a differential diagnosis and uncover the final diagnosis alongside the authors. This report details the story of a previously healthy 7-year-old boy who presented with 10 days of fever after travel to Bangladesh. Through targeted history, physical examination, and diagnostic testing, an illness script is developed. As the case progresses, the differential diagnosis is refined until a final diagnosis is established.
 
 ---
 
-### ACG clinical guideline: diagnosis and management of eosinophilic esophagitis [^21f529b1]. The American Journal of Gastroenterology (2025). High credibility.
+### ACG clinical guideline: diagnosis and management of eosinophilic esophagitis [^111sLwTW]. The American Journal of Gastroenterology (2025). High credibility.
 
 Eosinophilic esophagitis (EoE) — pediatric feeding dysfunction and nutrition — feeding dysfunction is often present in children with EoE, with up to 16.5% of pediatric patients having significant feeding disorders and 93.9% exhibiting learned maladaptive feeding behaviors; in a study of 53 young (aged 1–7 years) patients with EoE vs 38 gastroesophageal reflux disease controls there was no difference in mean BMI z score and micronutrient levels were similar, yet up to one-third of pediatric patients may have failure to thrive. Treatment goals in children include growth (height, weight, and BMI), development of eating skills, and nutrition in addition to symptomatic, endoscopic, and histologic improvement; referral to a registered dietician or pediatric feeding program may be required, ensuring EoE is in remission beforehand, and pediatric feeding programs involve multidisciplinary evaluation. For the related recommendation statement, the quality of evidence was very low and the conditional recommendation balances the need to position children with EoE to achieve optimal growth and development milestones.
 
 ---
 
-### Small intestinal bacterial overgrowth and dysbiosis in children with intestinal failure: a descriptive cohort study [^a3df16e8]. JPEN: Journal of Parenteral and Enteral Nutrition (2025). Medium credibility.
+### Small intestinal bacterial overgrowth and dysbiosis in children with intestinal failure: a descriptive cohort study [^115Bwv4w]. JPEN: Journal of Parenteral and Enteral Nutrition (2025). Medium credibility.
 
 The frequency of SIBO in our cohort is in line with a recent systematic review that reported a SIBO prevalence of 57.5% in patients with intestinal failure. However, as the included endoscopic studies used a cutoff of > 10⁵ CFU/ml in duodenal fluid, a direct comparison is not possible. Therefore, it is noteworthy that an optimal threshold of ≥ 10³ CFU/ml duodenal aspirate as used in our study was identified for the diagnosis of SIBO.
 
@@ -686,7 +686,7 @@ Various risk factors for the development of SIBO have been identified, including
 
 ---
 
-### Human secretin (Chirhostim) [^01a1d1f0]. FDA (2025). Medium credibility.
+### Human secretin (Chirhostim) [^1113RLns]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -703,25 +703,25 @@ pancreatic secretions to facilitate the identification of the ampulla of Vater a
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^07ec6ae9]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^111CkKm2]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding screening and diagnosis for exocrine pancreatic insufficiency, more specifically with respect to diagnosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to recognize that the presence of symptoms of malabsorption supports the diagnosis of pancreatic exocrine insufficiency in patients with pancreatic disease or a history of previous pancreatic surgery, but consider obtaining additional nutritional evaluation and pancreatic function testing, as those symptoms are neither sensitive nor specific to pancreatic exocrine insufficiency.
 
 ---
 
-### Colorectal cancer screening and prevention [^c270f773]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^115yGYSN]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, AAFP 2025 guidelines recommend to consider obtaining screening for CRC in adults aged 76–85 years at average risk based on overall health status, prior screening history, and patient preferences.
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^230fe03b]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^111tyu9k]. European Heart Journal (2025). High credibility.
 
 Regarding specific circumstances for acute pericarditis, more specifically with respect to patients with post-cardiac injury syndromes, ESC 2025 guidelines recommend to initiate IL-1 antagonists in patients with refractory post-cardiotomy inflammatory syndrome to prevent recurrences and progression to constriction.
 
 ---
 
-### Cystic fibrosis year in review 2024 [^5420456d]. Pediatric Pulmonology (2025). Medium credibility.
+### Cystic fibrosis year in review 2024 [^1139ioNC]. Pediatric Pulmonology (2025). Medium credibility.
 
 ABSTRACT
 
@@ -729,13 +729,13 @@ In 2024, important advances for people with cystic fibrosis (CF) were published.
 
 ---
 
-### Standards of care in diabetes – 2025 [^1e105a7e]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^111ma83f]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for hypertension, more specifically with respect to patients with diabetes mellitus, pharmacotherapy, ADA 2025 guidelines recommend to include drug classes demonstrated to reduce cardiovascular events in patients with diabetes. Initiate ACEis or ARBs as first-line therapy for HTN in patients with diabetes and coronary artery disease.
 
 ---
 
-### Azithromycin [^06887b6b]. FDA (2025). Medium credibility.
+### Azithromycin [^111AgmaS]. FDA (2025). Medium credibility.
 
 14.1 Adult Patients
 
@@ -757,13 +757,13 @@ From the perspective of evaluating pediatric clinical trials, Days 11 to 14 were
 
 ---
 
-### Is there dietary macronutrient malabsorption in children with environmental enteropathy? [^a32b5d20]. European Journal of Clinical Nutrition (2025). Medium credibility.
+### Is there dietary macronutrient malabsorption in children with environmental enteropathy? [^115AuYjH]. European Journal of Clinical Nutrition (2025). Medium credibility.
 
 Macronutrients are crucial for child growth, given their role as the main source of energy, and protein in particular as a linear growth regulator. Requirements for protein may be increased in the presence of infection and inflammation (as in EE), which can limit its availability for growth. Malabsorption due to EE, can further compromise this nutrient availability. Thus, an understanding of the type and extent of macronutrient malabsorption, in children with EE, is urgently required. The evaluation of EE has been difficult when using only proxy biomarkers that are non- or minimally invasive measures, while histopathological diagnosis on intestinal biopsy is the accepted "gold" standard. The present narrative review, therefore, aims to examine available evidence of malabsorption in EE, preferably when confirmed by biopsy, or by using other proxy measures. The review attempts to answer the following questions with focus on macronutrients; (1) What are the possible mechanisms that impair digestion and/or absorption of carbohydrate, protein, and fat, in EE? (2) Is there experimental evidence for reduced digestion and absorption of these macronutrients in EE? Whether EE-related malabsorption can explain linear growth faltering in children is difficult to establish, as other biological mechanisms (like growth signaling) related to EE but potentially distinct from macronutrient malabsorption can also influence growth and this question is therefore not discussed in this review. The strengths and limitations of the human experimental studies are examined in relation to a battery of tests used to measure digestive and absorptive functions of the gut. Finally, research gaps related to mechanisms and experimental evidence, and directions for future studies using functional measures of the gut are provided.
 
 ---
 
-### Pediatric gastrostomy feeding tube weaning strategies: a scoping review [^d367f320]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
+### Pediatric gastrostomy feeding tube weaning strategies: a scoping review [^116QRJZm]. Journal of Pediatric Gastroenterology and Nutrition (2025). Medium credibility.
 
 3 RESULTS
 
@@ -789,13 +789,13 @@ Some studies had exclusion criteria based on participant age, medical diagnosis,
 
 ---
 
-### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^fce69610]. Pediatrics (2025). High credibility.
+### Health supervision for children with 22q11.2 deletion syndrome: clinical report [^117TwLCP]. Pediatrics (2025). High credibility.
 
 Gastrointestinal problems and growth concerns in 22q11.2 deletion syndrome (22q11.2DS) include high rates of constipation and biliary disease, with "Chronic constipation affects 35% of patients" and "Cholelithiasis has been reported in 19.2% of a cohort of adults with 22q11.2DS, among whom 12.8% required cholecystectomy by a median age of 27.5 years", and both celiac disease and structural bowel anomalies are stated as more common than the general population. Clinical care recommendations are to "Carefully evaluate feeding status of infants, and consider further evaluation for dysphagia with modified barium swallow and/or other studies", that patients with choking, recurrent pulmonary infections or respiratory distress, or reactive airway disease "should be evaluated for aspiration", and that "Dysphagia, chronic constipation, and gastroesophageal reflux are not uncommon". Growth monitoring guidance specifies "Using 22q11.2DS-specific growth charts, monitor weight, height, weight-for-height, and growth velocity closely during infancy, childhood, and through puberty", and nutrition advice to "Adjust caloric intake for best weight-for-height. Do not use weight alone as a measure of growth, as individuals with 22q11.2DS are predisposed to short stature".
 
 ---
 
-### Elexacaftor, tezacaftor, and ivacaftor (Trikafta) [^437e3d5c]. FDA (2025). Medium credibility.
+### Elexacaftor, tezacaftor, and ivacaftor (Trikafta) [^112j4aEF]. FDA (2025). Medium credibility.
 
 1 INDICATIONS AND USAGE
 
@@ -809,7 +809,7 @@ If the patient's genotype is unknown, an FDA-cleared CF mutation test should be 
 
 ---
 
-### Deferoxamine mesylate [^229d9847]. FDA (2025). Medium credibility.
+### Deferoxamine mesylate [^111tKWn2]. FDA (2025). Medium credibility.
 
 5.1 Hypersensitivity Reactions
 
@@ -835,7 +835,7 @@ High doses of deferoxamine mesylate and concomitant low ferritin levels have als
 
 ---
 
-### Osilodrostat (Isturisa) [^cb59f27f]. FDA (2025). Medium credibility.
+### Osilodrostat (Isturisa) [^116CUhXC]. FDA (2025). Medium credibility.
 
 5.1	Hypocortisolism
 
@@ -857,7 +857,7 @@ Use caution in patients with risk factors for QT prolongation, (such as congenit
 
 ---
 
-### Preliminary estimates of the diagnostic accuracy of video clips for obstructive sleep apnea in children [^c45244d0]. Pediatric Pulmonology (2025). Medium credibility.
+### Preliminary estimates of the diagnostic accuracy of video clips for obstructive sleep apnea in children [^11624Cxf]. Pediatric Pulmonology (2025). Medium credibility.
 
 2 Methods
 
@@ -879,13 +879,13 @@ Parents were asked to complete the Pediatric Sleep Questionnaire (PSQ) at baseli
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^e9400eaa]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^116xodbf]. European Heart Journal (2025). High credibility.
 
 Regarding specific circumstances for acute pericarditis, more specifically with respect to patients with neoplastic pericardial disease, ESC 2025 guidelines recommend to perform extended pericardial drainage (3–6 days) in patients with suspected or definite neoplastic pericardial effusion to prevent effusion recurrence.
 
 ---
 
-### Long term sequelae of mild RSV infections in healthy children aged 0–3 years in the primary care setting – A prospective two year follow up observational study [^c03a7e5d]. Journal of Medical Virology (2025). Medium credibility.
+### Long term sequelae of mild RSV infections in healthy children aged 0–3 years in the primary care setting – A prospective two year follow up observational study [^115uzGex]. Journal of Medical Virology (2025). Medium credibility.
 
 1 Introduction
 
@@ -899,13 +899,13 @@ After a mild RSV infection, patients usually recover without any sequelae. Sever
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^70c30235]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^113tB7dv]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding screening and diagnosis for exocrine pancreatic insufficiency, more specifically with respect to diagnosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to recognize that confirmation of pancreatic exocrine insufficiency may not always require pancreatic function tests in patients with a high likelihood of pancreatic exocrine insufficiency, such as with pancreatic head cancer or after pancreaticoduodenectomy or total pancreatectomy.
 
 ---
 
-### Tinidazole (tindazole) [^42b27748]. FDA (2025). Medium credibility.
+### Tinidazole (tindazole) [^112ht8Py]. FDA (2025). Medium credibility.
 
 2.1 Dosing Instructions
 
@@ -935,7 +935,7 @@ Amebic Liver Abscess: The recommended dose in adults is a 2 g dose per day for 3
 
 ---
 
-### Azithromycin dihydrate [^33864338]. FDA (2025). Medium credibility.
+### Azithromycin dihydrate [^112KPU23]. FDA (2025). Medium credibility.
 
 14.1 Adult Patients
 
@@ -957,7 +957,7 @@ From the perspective of evaluating pediatric clinical trials, Days 11 to 14 were
 
 ---
 
-### Dofetilide [^18bda565]. FDA (2025). Medium credibility.
+### Dofetilide [^111dgQNG]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -975,19 +975,19 @@ Dofetilide capsules have not been shown to be effective in patients with paroxys
 
 ---
 
-### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^58f5df2b]. United European Gastroenterology Journal (2025). High credibility.
+### European guidelines for the diagnosis and treatment of pancreatic exocrine insufficiency: UEG, EPC, EDS, ESPEN, ESPGHAN, ESDO, and ESPCG evidence-based recommendations [^113GtVmU]. United European Gastroenterology Journal (2025). High credibility.
 
 Regarding specific circumstances for exocrine pancreatic insufficiency, more specifically with respect to patients with cystic fibrosis, EDS/EPC/ESDO/ESPCG/ESPEN/ESPGHAN/UEG 2025 guidelines recommend to obtain confirmation of EPI as soon as cystic fibrosis is diagnosed. Confirm a positive test result with a second test within 3 months. Do not obtain further testing in patients with clearly established EPI. Monitor patients undergoing equivocal exocrine function tests for pancreatic sufficiency.
 
 ---
 
-### North American society for pediatric gastroenterology, hepatology, and nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children [^f3de65f4]. Journal of Pediatric Gastroenterology and Nutrition (2025). High credibility.
+### North American society for pediatric gastroenterology, hepatology, and nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children [^117EYh9V]. Journal of Pediatric Gastroenterology and Nutrition (2025). High credibility.
 
 Recommendation grading — strength categories are expressed as either strong or conditional, with stakeholder-focused interpretations outlined in Table 1 to guide use of recommendations in practice and policy contexts.
 
 ---
 
-### Dofetilide (Tikosyn) [^a0c0c657]. FDA (2025). Medium credibility.
+### Dofetilide (Tikosyn) [^1157KmeN]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -1005,7 +1005,7 @@ TIKOSYN has not been shown to be effective in patients with paroxysmal atrial fi
 
 ---
 
-### Advances in the restoration of CFTR in children and pwCF with "mild disease" [^80b51e4a]. Pediatric Pulmonology (2025). Medium credibility.
+### Advances in the restoration of CFTR in children and pwCF with "mild disease" [^114HpFYM]. Pediatric Pulmonology (2025). Medium credibility.
 
 As of today, thanks to advances in Cystic fibrosis (CF) diagnosis and treatment, the majority of people with CF (pwCF) worldwide have reached adulthood.
 
@@ -1013,7 +1013,7 @@ Despite the better prognosis, CF is a progressive illness, where symptoms typica
 
 ---
 
-### Cystic fibrosis year in review 2024 [^23586cf8]. Pediatric Pulmonology (2025). Medium credibility.
+### Cystic fibrosis year in review 2024 [^111uQGXy]. Pediatric Pulmonology (2025). Medium credibility.
 
 As extended genetic sequencing is implemented an unintended consequence is the identification of more inconclusive results. In a survey of 108 health care professionals around the world, 80% felt it was more important to have a sensitive approach resulting in fewer CwCF being missed, resulting in more CRMS/CFSPID. CRMS/CFSPID is defined as people with an abnormal CF NBS result and (1) a sweat chloride of < 30 mmol/L and 2 CFTR variants, at least one of which has unclear phenotypic consequences or (2) a sweat chloride of ≥ 30 to 59 mmol/L and one or no CF‐causing variants. The authors note that this differs from the general public, which has been reported to favor a more specific approach (more CwCF being missed and less CRMS/CFSPID).
 
@@ -1021,25 +1021,25 @@ As CF NBS continues to be evaluated, strong communication between the care cente
 
 ---
 
-### 2025 ESC guidelines for the management of myocarditis and pericarditis [^9e44a149]. European Heart Journal (2025). High credibility.
+### 2025 ESC guidelines for the management of myocarditis and pericarditis [^1153e6Yg]. European Heart Journal (2025). High credibility.
 
 Regarding surgical interventions for pericardial effusion, more specifically with respect to pericardial drainage, ESC 2025 guidelines recommend to perform surgical pericardial drainage in patients with pericardial effusion when percutaneous pericardiocentesis is not feasible or in cases of purulent pericardial effusion to ensure complete drainage and prevent constriction.
 
 ---
 
-### Cystic fibrosis year in review 2024 [^5b229c84]. Journal of Cystic Fibrosis (2025). Medium credibility.
+### Cystic fibrosis year in review 2024 [^113L7Vvs]. Journal of Cystic Fibrosis (2025). Medium credibility.
 
 The year 2024 marks a pivotal moment in the field of cystic fibrosis (CF) treatment, characterised by significant advancements in clinical care and an expanding body of literature on CF transmembrane conductance regulator (CFTR) modulators. These CFTR therapies have transformed the landscape of CF management, offered systemic benefits, and established new guidelines for assessing clinical manifestations and therapies. Additionally, progress has been made in newborn screening (NBS), diagnosis, and understanding outcomes for individuals with CF-related metabolic syndrome or inconclusive diagnostic results. However, amidst these clinical milestones, disparities in global access to CFTR modulators (CFTRm) persist, threatening to exacerbate existing inequities in CF care. This review provides a focused overview of the most impactful articles from 2024, highlighting both the clinical advancements and the pressing global accessibility challenges that define this transformative era in CF research and treatment.
 
 ---
 
-### Standards of care in diabetes – 2025 [^ef149bc3]. Diabetes Care (2025). High credibility.
+### Standards of care in diabetes – 2025 [^1177SxqY]. Diabetes Care (2025). High credibility.
 
 Regarding specific circumstances for diabetic nephropathy, more specifically with respect to pediatric patients, ADA 2025 guidelines recommend to determine the eGFR at the time of diagnosis and annually thereafter.
 
 ---
 
-### Multivitamin [^5bc01de3]. FDA (2025). Medium credibility.
+### Multivitamin [^113M2QP4]. FDA (2025). Medium credibility.
 
 WARNING
 
@@ -1049,7 +1049,7 @@ CAUTION: Should be chewed.
 
 ---
 
-### Digoxin [^1836830e]. FDA (2025). Medium credibility.
+### Digoxin [^111cu1k1]. FDA (2025). Medium credibility.
 
 Among the extra-cardiac manifestations, gastrointestinal symptoms (e.g., nausea, vomiting, anorexia) are very common (up to 80% incidence) and precede cardiac manifestations in approximately half of the patients in most literature reports. Neurologic manifestations (e.g., dizziness, various CNS disturbances), fatigue, and malaise are very common. Visual manifestations may also occur with aberration in color vision (predominance of yellow green) the most frequent. Neurological and visual symptoms may persist after other signs of toxicity have resolved. In chronic toxicity, non-specific extra-cardiac symptoms, such as malaise and weakness, may predominate.
 
@@ -1057,7 +1057,7 @@ Children: In pediatric patients, signs and symptoms of toxicity can occur during
 
 ---
 
-### Lumacaftor and ivacaftor (Orkambi) [^de3fe15a]. FDA (2025). Medium credibility.
+### Lumacaftor and ivacaftor (Orkambi) [^116gVi3s]. FDA (2025). Medium credibility.
 
 Changes in sweat chloride in response to lumacaftor/ivacaftor were also evaluated in a 24-week, open-label, clinical trial (Trial 6) in 60 patients with CF, aged 2 through 5 years (homozygous for F508del) who received either lumacaftor 100 mg/ivacaftor 125 mg every 12 hours or lumacaftor 150 mg/ivacaftor 188 mg every 12 hours for 24 weeks. Treatment with lumacaftor/ivacaftor demonstrated a reduction in sweat chloride at Week 4 that was sustained through Week 24. The mean absolute change from baseline in sweat chloride was –31.7 mmol/L (95% CI: -35.7, -27.6) at Week 24. In addition, sweat chloride was also assessed after a 2-week washout period to evaluate the off-drug response. The mean absolute change in sweat chloride from Week 24 at Week 26 following the 2-week washout period was an increase of 33.0 mmol/L (95% CI: 28.9, 37.1; P < 0.0001).
 
@@ -1065,7 +1065,7 @@ Changes in sweat chloride in response to lumacaftor/ivacaftor were evaluated in 
 
 ---
 
-### Deferoxamine mesylate (Desferal) [^ca08f82d]. FDA (2025). Medium credibility.
+### Deferoxamine mesylate (Desferal) [^116AXWfW]. FDA (2025). Medium credibility.
 
 5.1 Hypersensitivity Reactions
 
@@ -1091,13 +1091,13 @@ High doses of Desferal and concomitant low ferritin levels have also been associ
 
 ---
 
-### Clinical practice guideline: surgical management of chronic rhinosinusitis [^efe0c84a]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
+### Clinical practice guideline: surgical management of chronic rhinosinusitis [^1178dYU1]. Otolaryngology — Head and Neck Surgery (2025). High credibility.
 
 Guideline scope and purpose — adult endoscopic sinus surgery (ESS) for chronic rhinosinusitis — state that the clinical practice guideline focuses on the surgical management of CRS for adults and addresses primary surgery and adjuvant therapies in detail with discussion of revision surgery when related to specific topics. The target audience is otolaryngologist-head and neck surgeons managing adults (18 years of age or older) with CRS who are potential candidates for ESS in office-based, ambulatory-based, or hospital-based settings. The guideline does not apply to primary diagnoses of acute rhinosinusitis, recurrent acute rhinosinusitis, rhinosinusitis complicated by intracranial or orbital spread, acute invasive fungal sinusitis, or odontogenic sinusitis; it is not designed to provide directives for patients with genetic disorders or comorbidities such as cystic fibrosis or primary ciliary dyskinesia, or for those with lesions such as inverting papilloma or sinonasal malignancy. It is not intended for pediatric patients (< 18 years of age), and it also does not focus on balloon dilation of the sinuses.
 
 ---
 
-### Phenotyping and endotyping pediatric chronic rhinosinusitis [^9a8f6077]. Otolaryngology — Head and Neck Surgery (2025). Medium credibility.
+### Phenotyping and endotyping pediatric chronic rhinosinusitis [^114x9Fc2]. Otolaryngology — Head and Neck Surgery (2025). Medium credibility.
 
 Objective
 
@@ -1125,6 +1125,6 @@ A phenotype and endotype-based classification system for CRS is evolving for the
 
 ---
 
-### North American society for pediatric gastroenterology, hepatology, and nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children [^9fbe197e]. Journal of Pediatric Gastroenterology and Nutrition (2025). High credibility.
+### North American society for pediatric gastroenterology, hepatology, and nutrition 2025 guidelines on the diagnosis of cyclic vomiting syndrome in children [^1155ptFF]. Journal of Pediatric Gastroenterology and Nutrition (2025). High credibility.
 
 Pediatric cyclic vomiting syndrome prophylaxis — topiramate initiation and counseling: The potential side effects should be fully disclosed to the parents before initiating therapy, and topiramate should be titrated gradually from 25 mg/day or 0.5 mg/kg/day every 2 weeks by 1 mg/kg until a dose of 2 mg/kg/day divided BID is reached.

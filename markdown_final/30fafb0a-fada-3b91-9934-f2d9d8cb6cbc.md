@@ -15,37 +15,37 @@ What is the role of therapeutic hypothermia in deceased kidney donors?
 
 > Let's see… What do we have here? The user is asking about the role of therapeutic hypothermia in deceased kidney donors. Let's break this down step-by-step. First, I need to think about the clinical context and why hypothermia might matter mechanistically. Then, I should verify the highest-quality randomized evidence by donor risk category and preservation strategy. Next, I will examine head-to-head comparisons with machine perfusion and guideline positions. After that, I should consider special populations like DCD and ECD, and finally synthesize practical, risk-stratified recommendations with caveats about implementation and uncertainties.
 
-> Let me first confirm the clinical context and mechanism. Delayed graft function, defined as dialysis in the first week after transplant, is common after deceased donation and is linked to worse early outcomes and costs; ischemia–reperfusion injury is central, and hypothermia reduces cellular metabolism and oxygen demand, which in theory should mitigate injury, though benefits must be balanced against potential harms and competing strategies like machine perfusion [^332109f7] [^ede7f76b].
+> Let me first confirm the clinical context and mechanism. Delayed graft function, defined as dialysis in the first week after transplant, is common after deceased donation and is linked to worse early outcomes and costs; ischemia–reperfusion injury is central, and hypothermia reduces cellular metabolism and oxygen demand, which in theory should mitigate injury, though benefits must be balanced against potential harms and competing strategies like machine perfusion [^112JoU2J] [^1175hyrr].
 
-> Next, I should review the pivotal randomized trial in brain-dead donors. The 2015 NEJM trial showed that mild donor hypothermia (34–35°C) reduced DGF from 39% to 28% versus normothermia, with an odds ratio of 0.62 and early termination for efficacy; importantly, subgroup signals suggested the benefit was concentrated in higher-risk donors, whereas standard-criteria donors showed a smaller, non-significant reduction, which I need to keep in mind as I interpret later studies [^3e8d1e3e] [^934849bd].
+> Next, I should review the pivotal randomized trial in brain-dead donors. The 2015 NEJM trial showed that mild donor hypothermia (34–35°C) reduced DGF from 39% to 28% versus normothermia, with an odds ratio of 0.62 and early termination for efficacy; importantly, subgroup signals suggested the benefit was concentrated in higher-risk donors, whereas standard-criteria donors showed a smaller, non-significant reduction, which I need to keep in mind as I interpret later studies [^112bjdg9] [^114mMTiC].
 
-> Hold on, let's not jump to conclusions; I should verify whether this translates to lower-risk, non–pump-eligible donors. The 2024 JAMA Network Open RCT in low-risk, non–pump-eligible brain-dead donors found no difference in DGF between hypothermia and normothermia (about 17% vs 18%), indicating no benefit in this specific population; this aligns with the earlier signal that SCDs may not derive the same advantage as ECDs from donor hypothermia [^14cab519] [^97ba3a8e] [^934849bd].
+> Hold on, let's not jump to conclusions; I should verify whether this translates to lower-risk, non–pump-eligible donors. The 2024 JAMA Network Open RCT in low-risk, non–pump-eligible brain-dead donors found no difference in DGF between hypothermia and normothermia (about 17% vs 18%), indicating no benefit in this specific population; this aligns with the earlier signal that SCDs may not derive the same advantage as ECDs from donor hypothermia [^111XpqhJ] [^114swgah] [^114mMTiC].
 
-> I will now examine head-to-head comparisons with machine perfusion. The 2023 NEJM three-arm RCT showed that donor hypothermia alone was inferior to hypothermic machine perfusion for DGF (30% vs 19%), and the combination of donor hypothermia plus machine perfusion did not outperform machine perfusion alone; this establishes that when machine perfusion is available, it should be prioritized over donor hypothermia for DGF reduction [^6bf3b0f2] [^ffc9b725] [^b771d7a4].
+> I will now examine head-to-head comparisons with machine perfusion. The 2023 NEJM three-arm RCT showed that donor hypothermia alone was inferior to hypothermic machine perfusion for DGF (30% vs 19%), and the combination of donor hypothermia plus machine perfusion did not outperform machine perfusion alone; this establishes that when machine perfusion is available, it should be prioritized over donor hypothermia for DGF reduction [^113m3Xe9] [^117YDbbS] [^115gxyQ7].
 
-> Wait, let me verify the role of oxygenation during machine perfusion. The COMPARE trial in DCD kidneys demonstrated that oxygenated HMP reduced severe complications and graft failure at 1 year versus non-oxygenated HMP, despite no significant difference in 12-month eGFR in the primary analysis; this supports the concept that oxygenation adds benefit in higher-risk grafts, though timing and duration of oxygenation likely matter and warrant cautious extrapolation to DBD contexts [^3c3bc9ef].
+> Wait, let me verify the role of oxygenation during machine perfusion. The COMPARE trial in DCD kidneys demonstrated that oxygenated HMP reduced severe complications and graft failure at 1 year versus non-oxygenated HMP, despite no significant difference in 12-month eGFR in the primary analysis; this supports the concept that oxygenation adds benefit in higher-risk grafts, though timing and duration of oxygenation likely matter and warrant cautious extrapolation to DBD contexts [^112YJLgv].
 
-> Next, I should review guideline positions to ensure alignment. Contemporary EAU guidance recommends hypothermic machine perfusion where available to reduce DGF and suggests minimizing cold ischemia time; it does not recommend routine donor hypothermia, reflecting the newer evidence base and the superiority of machine perfusion when accessible [^29fdaac5] [^14830188].
+> Next, I should review guideline positions to ensure alignment. Contemporary EAU guidance recommends hypothermic machine perfusion where available to reduce DGF and suggests minimizing cold ischemia time; it does not recommend routine donor hypothermia, reflecting the newer evidence base and the superiority of machine perfusion when accessible [^1125FhPS] [^111XQkqd].
 
-> But wait, what if the donor is an expanded criteria donor or the OPO lacks pumping infrastructure. Let me consider that the original NEJM signal and subsequent analyses suggest donor hypothermia may still be reasonable in ECDs or high-KDPI kidneys when machine perfusion is not available, as a pragmatic strategy to mitigate DGF; however, I should emphasize that this is based on subgroup signals and indirect comparisons rather than definitive RCTs in this exact scenario, so shared decision-making and local protocols are key [^3e8d1e3e] [^934849bd] [^4f8c85bc].
+> But wait, what if the donor is an expanded criteria donor or the OPO lacks pumping infrastructure. Let me consider that the original NEJM signal and subsequent analyses suggest donor hypothermia may still be reasonable in ECDs or high-KDPI kidneys when machine perfusion is not available, as a pragmatic strategy to mitigate DGF; however, I should emphasize that this is based on subgroup signals and indirect comparisons rather than definitive RCTs in this exact scenario, so shared decision-making and local protocols are key [^112bjdg9] [^114mMTiC] [^1132wDrs].
 
-> I should double-check special donor populations. In DCD, warm ischemia time is the dominant modifiable risk factor, and strategies that reduce warm ischemia or provide in-situ or ex-situ perfusion are prioritized; donor hypothermia has not shown a consistent benefit in DCD and is not a substitute for minimizing donor warm ischemia or using perfusion technologies where indicated [^0fa20aca] [^e1086fcf].
+> I should double-check special donor populations. In DCD, warm ischemia time is the dominant modifiable risk factor, and strategies that reduce warm ischemia or provide in-situ or ex-situ perfusion are prioritized; donor hypothermia has not shown a consistent benefit in DCD and is not a substitute for minimizing donor warm ischemia or using perfusion technologies where indicated [^111QBF4d] [^116kd3mY].
 
-> Let me synthesize a practical approach. For low-risk, non–pump-eligible DBD donors, donor hypothermia should not be used routinely because it does not reduce DGF. For pump-eligible donors or when machine perfusion is available, prioritize HMP, ideally continuous and, in higher-risk DCD contexts, consider oxygenated HMP given COMPARE's signal. For ECDs or high-KDPI kidneys when machine perfusion is unavailable, donor hypothermia may be considered as a reasonable, evidence-informed alternative, acknowledging the strength of evidence is weaker in this subgroup [^14cab519] [^6bf3b0f2] [^29fdaac5] [^3c3bc9ef] [^3e8d1e3e].
+> Let me synthesize a practical approach. For low-risk, non–pump-eligible DBD donors, donor hypothermia should not be used routinely because it does not reduce DGF. For pump-eligible donors or when machine perfusion is available, prioritize HMP, ideally continuous and, in higher-risk DCD contexts, consider oxygenated HMP given COMPARE's signal. For ECDs or high-KDPI kidneys when machine perfusion is unavailable, donor hypothermia may be considered as a reasonable, evidence-informed alternative, acknowledging the strength of evidence is weaker in this subgroup [^111XpqhJ] [^113m3Xe9] [^1125FhPS] [^112YJLgv] [^112bjdg9].
 
-> Hold on, I should verify implementation details and limitations. Donor hypothermia requires protocolized temperature management, hemodynamic surveillance, and coordination with procurement timing; benefits appear modest even in favorable subgroups, and there is no demonstrated improvement in long-term graft survival across trials, so expectations should be calibrated accordingly and integrated with broader donor management goals like euvolemia, hormonal resuscitation, and minimizing ischemia times [^3e8d1e3e] [^dd92916c] [^14830188].
+> Hold on, I should verify implementation details and limitations. Donor hypothermia requires protocolized temperature management, hemodynamic surveillance, and coordination with procurement timing; benefits appear modest even in favorable subgroups, and there is no demonstrated improvement in long-term graft survival across trials, so expectations should be calibrated accordingly and integrated with broader donor management goals like euvolemia, hormonal resuscitation, and minimizing ischemia times [^112bjdg9] [^116fVVf1] [^111XQkqd].
 
-> In summary, therapeutic hypothermia in deceased kidney donors has a limited, context-dependent role: it is not beneficial in low-risk, non–pump-eligible DBD donors, is inferior to machine perfusion when available, and may be considered in higher-risk donors when machine perfusion is not an option; current best practice favors machine perfusion and meticulous ischemia minimization rather than routine donor hypothermia [^14cab519] [^6bf3b0f2] [^29fdaac5].
+> In summary, therapeutic hypothermia in deceased kidney donors has a limited, context-dependent role: it is not beneficial in low-risk, non–pump-eligible DBD donors, is inferior to machine perfusion when available, and may be considered in higher-risk donors when machine perfusion is not an option; current best practice favors machine perfusion and meticulous ischemia minimization rather than routine donor hypothermia [^111XpqhJ] [^113m3Xe9] [^1125FhPS].
 
 ---
 
-Therapeutic hypothermia in deceased kidney donors **reduces delayed graft function (DGF)** [^3e8d1e3e] in recipients, with the clearest benefit in **expanded criteria donors (ECDs)** [^934849bd] and when machine perfusion is not used [^4f8c85bc]. It does not improve DGF in **standard criteria donors (SCDs)** [^14cab519] or when kidneys are managed with machine perfusion [^6bf3b0f2], and it is **not superior to machine perfusion** for DGF prevention [^6bf3b0f2]. Hypothermia is **safe and feasible** in donor management, but current guidelines favor machine perfusion when available [^29fdaac5]; thus, donor hypothermia should be reserved for ECDs or settings without machine perfusion.
+Therapeutic hypothermia in deceased kidney donors **reduces delayed graft function (DGF)** [^112bjdg9] in recipients, with the clearest benefit in **expanded criteria donors (ECDs)** [^114mMTiC] and when machine perfusion is not used [^1132wDrs]. It does not improve DGF in **standard criteria donors (SCDs)** [^111XpqhJ] or when kidneys are managed with machine perfusion [^113m3Xe9], and it is **not superior to machine perfusion** for DGF prevention [^113m3Xe9]. Hypothermia is **safe and feasible** in donor management, but current guidelines favor machine perfusion when available [^1125FhPS]; thus, donor hypothermia should be reserved for ECDs or settings without machine perfusion.
 
 ---
 
 ## Physiological rationale for therapeutic hypothermia
 
-Therapeutic hypothermia (34–35°C) **reduces cellular metabolism and oxygen demand**, thereby mitigating ischemia-reperfusion injury (IRI) — a key driver of DGF [^ede7f76b]. It also **attenuates inflammation and oxidative stress**, which are amplified in brain death and contribute to renal injury [^notfound].
+Therapeutic hypothermia (34–35°C) **reduces cellular metabolism and oxygen demand**, thereby mitigating ischemia-reperfusion injury (IRI) — a key driver of DGF [^1175hyrr]. It also **attenuates inflammation and oxidative stress**, which are amplified in brain death and contribute to renal injury [^notfound].
 
 ---
 
@@ -53,13 +53,13 @@ Therapeutic hypothermia (34–35°C) **reduces cellular metabolism and oxygen de
 
 ### Early evidence
 
-The pivotal 2015 NEJM trial [^3e8d1e3e] showed that mild hypothermia in brain-dead donors reduced DGF from 39% to 28% (OR 0.62, 95% CI 0.43–0.92) [^3e8d1e3e]. Subgroup analysis suggested **greater benefit in ECDs** (31% vs 56% DGF; adjusted OR 0.31, 95% CI 0.15–0.68) [^934849bd].
+The pivotal 2015 NEJM trial [^112bjdg9] showed that mild hypothermia in brain-dead donors reduced DGF from 39% to 28% (OR 0.62, 95% CI 0.43–0.92) [^112bjdg9]. Subgroup analysis suggested **greater benefit in ECDs** (31% vs 56% DGF; adjusted OR 0.31, 95% CI 0.15–0.68) [^114mMTiC].
 
 ---
 
 ### Recent evidence
 
-Recent randomized trials show **no benefit in SCDs** [^14cab519] or when machine perfusion is used [^6bf3b0f2]. In low-risk, non–pump-eligible donors, DGF was similar with hypothermia vs normothermia (17% vs 18%; adjusted OR 0.92, 95% CI 0.64–1.33) [^14cab519]. In pump-eligible donors, hypothermia was inferior to machine perfusion (30% vs 19% DGF; adjusted RR 1.72, 95% CI 1.35–2.17) [^6bf3b0f2], and adding hypothermia to machine perfusion did not improve outcomes (22% vs 19% DGF; adjusted RR 1.09, 95% CI 0.85–1.40) [^b771d7a4].
+Recent randomized trials show **no benefit in SCDs** [^111XpqhJ] or when machine perfusion is used [^113m3Xe9]. In low-risk, non–pump-eligible donors, DGF was similar with hypothermia vs normothermia (17% vs 18%; adjusted OR 0.92, 95% CI 0.64–1.33) [^111XpqhJ]. In pump-eligible donors, hypothermia was inferior to machine perfusion (30% vs 19% DGF; adjusted RR 1.72, 95% CI 1.35–2.17) [^113m3Xe9], and adding hypothermia to machine perfusion did not improve outcomes (22% vs 19% DGF; adjusted RR 1.09, 95% CI 0.85–1.40) [^115gxyQ7].
 
 ---
 
@@ -74,27 +74,27 @@ Recent randomized trials show **no benefit in SCDs** [^14cab519] or when machine
 
 ---
 
-Machine perfusion is **superior to static cold storage** [^769ea053] and to donor hypothermia in pump-eligible donors [^6bf3b0f2], whereas donor hypothermia is most relevant when machine perfusion is unavailable [^4f8c85bc].
+Machine perfusion is **superior to static cold storage** [^1142rpYS] and to donor hypothermia in pump-eligible donors [^113m3Xe9], whereas donor hypothermia is most relevant when machine perfusion is unavailable [^1132wDrs].
 
 ---
 
 ## Safety and feasibility
 
-Therapeutic hypothermia is **generally safe** in brain-dead donors, with no significant increase in adverse events in trials [^3e8d1e3e]. Implementation requires protocolized temperature management and close monitoring to avoid complications such as coagulopathy or infection [^notfound].
+Therapeutic hypothermia is **generally safe** in brain-dead donors, with no significant increase in adverse events in trials [^112bjdg9]. Implementation requires protocolized temperature management and close monitoring to avoid complications such as coagulopathy or infection [^notfound].
 
 ---
 
 ## Current clinical guidelines and recommendations
 
-Current guidelines emphasize **machine perfusion** when available [^29fdaac5] and do not recommend routine donor hypothermia. Hypothermia may be considered for ECDs or when machine perfusion is unavailable, but evidence is weaker in these scenarios [^4f8c85bc].
+Current guidelines emphasize **machine perfusion** when available [^1125FhPS] and do not recommend routine donor hypothermia. Hypothermia may be considered for ECDs or when machine perfusion is unavailable, but evidence is weaker in these scenarios [^1132wDrs].
 
 ---
 
 ## Limitations and controversies
 
-- **Donor selection**: Benefit is inconsistent across donor types, with limited evidence in SCDs [^14cab519].
+- **Donor selection**: Benefit is inconsistent across donor types, with limited evidence in SCDs [^111XpqhJ].
 - **Logistics**: Requires specialized equipment and trained staff, which may not be universally available [^notfound].
-- **Long-term outcomes**: Effects on graft survival and function beyond DGF remain uncertain [^87beeeef].
+- **Long-term outcomes**: Effects on graft survival and function beyond DGF remain uncertain [^114UFTj4].
 
 ---
 
@@ -104,13 +104,13 @@ Future work should **identify donor subgroups** (e.g. high KDPI, long cold ische
 
 ---
 
-Therapeutic hypothermia in deceased kidney donors **reduces DGF in ECDs** [^3e8d1e3e] and when machine perfusion is not used, but offers no benefit in SCDs [^14cab519] or when machine perfusion is available [^6bf3b0f2]. It is a **targeted strategy** for ECDs or resource-limited settings, not a universal standard.
+Therapeutic hypothermia in deceased kidney donors **reduces DGF in ECDs** [^112bjdg9] and when machine perfusion is not used, but offers no benefit in SCDs [^111XpqhJ] or when machine perfusion is available [^113m3Xe9]. It is a **targeted strategy** for ECDs or resource-limited settings, not a universal standard.
 
 ---
 
 ## References
 
-### Therapeutic hypothermia in deceased organ donors and kidney-graft function [^3e8d1e3e]. The New England Journal of Medicine (2015). Excellent credibility.
+### Therapeutic hypothermia in deceased organ donors and kidney-graft function [^112bjdg9]. The New England Journal of Medicine (2015). Excellent credibility.
 
 Background
 
@@ -130,7 +130,7 @@ Mild hypothermia, as compared with normothermia, in organ donors after declarati
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^14cab519]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^111XpqhJ]. JAMA Network Open (2024). High credibility.
 
 Importance
 
@@ -166,7 +166,7 @@ ClinicalTrials.gov Identifier: NCT02525510.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^97ba3a8e]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^114swgah]. JAMA Network Open (2024). High credibility.
 
 Key Points
 
@@ -184,7 +184,7 @@ The findings of this study suggest that, in low-risk nonpumped kidneys from brai
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^e1566fc0]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^116m5FKu]. JAMA Network Open (2024). High credibility.
 
 The pathophysiologic factors underlying DGF are thought to be caused by acute tubular necrosis from ischemia reperfusion injury. During organ procurement, blood flow deprivation and ischemia trigger a series of biochemical cascades leading to ischemia reperfusion injury. Cold exposure reduces cellular metabolism and tissue oxygen demands, and tailored hypothermia has been shown to mitigate ischemia-induced tissue injury when used as a method to prevent ischemia reperfusion injury. Ex vivo organ cooling (either static cold storage or hypothermic machine perfusion) has been traditionally considered the cornerstone organ preservation strategy to mitigate hypoxic injury. More recently, deceased donor therapeutic hypothermia has been proposed as a preventive strategy against the development of DGF.
 
@@ -194,7 +194,7 @@ More recently, Malinoski et alreported the results of a follow-up prospective ra
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^1f87aada]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^111okBkV]. JAMA Network Open (2024). High credibility.
 
 Study Participants
 
@@ -204,13 +204,13 @@ Data from the trial were merged with routinely obtained Organ Procurement and Tr
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^025a5eee]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^1114VL8V]. JAMA Network Open (2024). High credibility.
 
 The study Hypothermia in DNDD was published by Madhukar S Patel and colleagues in 2024 in the journal JAMA Netw Open. This study is related to the following diseases: Kidney transplantation. In the Hypothermia in DNDD study, the trial question was: what is the role of therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors? In the Hypothermia in DNDD study, the study design was: multi-center, single blinded, RCT. In the Hypothermia in DNDD study, the population was: 481 patients (176 female, 305 male). The inclusion criteria were brain-dead kidney donors deemed to be low risk and not requiring machine perfusion. The key exclusion criteria were donation after cardiac death donor; coagulopathy; hemodynamic instability; electrolyte deficiencies; pre-existing kidney disease. In the Hypothermia in DNDD study, the interventions were: n = 236 hypothermia (maintenance of therapeutic hypothermia, 34–35 °Celsius) n = 245 normothermia (maintenance of normothermia, 36.5–37.5 °Celsius). In the Hypothermia in DNDD study, the primary outcome was: no significant difference in delayed graft function in kidney transplant recipients (17% vs. 18%; OR 0.92, 95% CI 0.64 to 1.33). In the Hypothermia in DNDD study, the conclusion was: in brain-dead kidney donors deemed to be low risk and not requiring machine perfusion, hypothermia was not superior to normothermia with respect to delayed graft function in kidney transplant recipients.
 
 ---
 
-### Hypothermia or machine perfusion in kidney donors [^6bf3b0f2]. The New England Journal of Medicine (2023). Excellent credibility.
+### Hypothermia or machine perfusion in kidney donors [^113m3Xe9]. The New England Journal of Medicine (2023). Excellent credibility.
 
 Background
 
@@ -230,7 +230,7 @@ Among brain-dead organ donors, therapeutic hypothermia was inferior to machine p
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^934849bd]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^114mMTiC]. JAMA Network Open (2024). High credibility.
 
 Discussion
 
@@ -240,7 +240,7 @@ In 2015, Niemann et alconducted a randomized clinical trial in 2 organ donation 
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^4f8c85bc]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^1132wDrs]. JAMA Network Open (2024). High credibility.
 
 Conclusion
 
@@ -248,19 +248,19 @@ The results of this randomized clinical trial suggest that, for OPOs that select
 
 ---
 
-### Donor organ intervention before kidney transplantation: head-to-head comparison of therapeutic hypothermia, machine perfusion, and donor dopamine pretreatment. what is the evidence? [^87beeeef]. American Journal of Transplantation (2019). Medium credibility.
+### Donor organ intervention before kidney transplantation: head-to-head comparison of therapeutic hypothermia, machine perfusion, and donor dopamine pretreatment. what is the evidence? [^114UFTj4]. American Journal of Transplantation (2019). Medium credibility.
 
 Therapeutic hypothermia, hypothermic pulsatile machine perfusion (MP), and renal-dose dopamine administered to stable brain-dead donors have shown efficacy to reduce the dialysis requirement after kidney transplantation. In a head-to-head comparison of the three major randomized controlled trials in this field, we estimated the number-needed-to-treat for each method, evaluated costs and inquired into special features regarding long-term outcomes. The MP and hypothermia trials used any dialysis requirement during the first postoperative week, whereas the dopamine trial assessed > 1 dialysis session as primary endpoint. Compared to controls, the respective rates declined by 5.7% with MP, 10.9% with hypothermia, and 10.7% with dopamine. Costs to prevent one endpoint in one recipient amount to approximately $17 000 with MP but are negligible with the donor interventions. MP resulted in a borderline significant difference of 4% in 3-year graft survival, but a point of interest is that the preservation method was switched in 25 donors (4.6%) for technical reasons. Graft survival was not improved with dopamine on intention-to-treat but suggested an exposure-response relationship with infusion time. MP was less efficacious and cost-effective to prevent posttransplant dialysis. Whether the benefit on early graft dysfunction achieved with any method will improve long-term graft survival remains to be established.
 
 ---
 
-### Impact of spontaneous donor hypothermia on graft outcomes after kidney transplantation [^f6f46a83]. American Journal of Transplantation (2018). Low credibility.
+### Impact of spontaneous donor hypothermia on graft outcomes after kidney transplantation [^117K83w8]. American Journal of Transplantation (2018). Low credibility.
 
 A previous donor intervention trial found that therapeutic hypothermia reduced delayed graft function (DGF) after kidney transplantation. This retrospective cohort study nested in the randomized dopamine trial (ClinicalTrials.gov identifier: NCT000115115) investigates the effects of spontaneous donor hypothermia (core body temperature < 36°C) on initial kidney graft function, and evaluates 5-year graft survival. Hypothermia assessed by a singular measurement in the intensive care unit 4–20 hours before procurement was associated with less DGF after kidney transplantation (odds ratio [OR] 0.56, 95% confidence interval [CI] 0.34–0.91). The benefit was greater when need for more than a single posttransplant dialysis session was analyzed (OR 0.48, 95%CI 0.28–0.82). Donor dopamine ameliorated dialysis requirement independently from hypothermia in a temporal relationship with exposure (OR 0.93, 95%CI 0.87–0.98, per hour). A lower core body temperature in the donor was associated with lower serum creatinine levels before procurement, which may reflect lower systemic inflammation and attenuated renal injury from brain death. Despite a considerable effect on DGF, our study failed to demonstrate a graft survival advantage (hazard ratio [HR] 0.83, 95%CI 0.54–1.27), whereas dopamine treatment was associated with improved long-term outcome (HR 0.95, 95%CI 0.91–0.99 per hour).
 
 ---
 
-### Hypothermia for expanded criteria organ donors in kidney transplantation in France (HYPOREME): a multicentre, randomised controlled trial [^b74e6c7e]. The Lancet: Respiratory Medicine (2024). High credibility.
+### Hypothermia for expanded criteria organ donors in kidney transplantation in France (HYPOREME): a multicentre, randomised controlled trial [^115gm5Pb]. The Lancet: Respiratory Medicine (2024). High credibility.
 
 Background
 
@@ -284,19 +284,19 @@ French Ministry of Health and French Intensive Care Society.
 
 ---
 
-### Hypothermia or machine perfusion in kidney donors [^e37c59c3]. The New England Journal of Medicine (2023). Excellent credibility.
+### Hypothermia or machine perfusion in kidney donors [^116pFxWv]. The New England Journal of Medicine (2023). Excellent credibility.
 
 The study Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) was published by Darren Malinoski and colleagues in 2023 in the journal N Engl J Med. This study is related to the following diseases: Kidney transplantation and Brain death. In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the trial question was: is hypothermia alone superior to a combination of hypothermia and machine perfusion of the kidney in brain-dead organ donors? In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the study design was: multi-center, double blinded, RCT. In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the population was: 838 patients (317 female, 521 male). The inclusion criteria were adult brain-dead kidney donors. The key exclusion criteria were donation after cardiac death; end-stage kidney disease; or a history of dialysis during terminal hospitalization. In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the interventions were: n = 359 hypothermia (therapeutic hypothermia at 34–35 degree Celsius) n = 479 combination therapy (combination of therapeutic hypothermia and machine perfusion). In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the primary outcome was: significant increase in delayed graft function in kidney transplant recipients (30% vs. 22%; RR 1.57, 95% CI 1.26 to 1.96). In the Therapeutic hypothermia in deceased kidney donors (hypothermia vs. hypothermia plus machine perfusion) study, the conclusion was: in adult brain-dead kidney donors, hypothermia was inferior to combination therapy with respect to delayed graft function in kidney transplant recipients.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^ad3f0ad4]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^115Rr2v7]. JAMA Network Open (2024). High credibility.
 
 More recently, a follow-up prospective randomized trial compared the efficacy of 3 strategies in reducing DGF in pump-eligible donors: donor therapeutic hypothermia (34–35 °C), ex situ hypothermic machine perfusion of the kidney, or their combination. In this trial, only pump-eligible donors were analyzed, and therapeutic hypothermia was found to be inferior to machine perfusion in reducing DGF after kidney transplant (adjusted risk ratio of DGF, 1.72; 95% CI, 1.35–2.17). In the present report, we thus assessed outcomes of the low-risk nonpumped kidneys from brain-dead donors to assess whether there is the benefit of therapeutic hypothermia in this lower-risk group of donors. We expected to see a similar kidney protective pattern of reduction in the rates of DGF in the hypothermia group. However, we found no statistically significant differences in the rates of DGF on univariate and adjusted analyses. The low-risk nonpumped group was predominantly composed of SCDs (472 [98%]), which by definition represented a younger and healthier subset of donors. Thus, despite its potential benefit in ECDs that are unable to undergo machine perfusion, therapeutic hypothermia does not appear to confer a similar benefit in reducing DGF in nonpumped donors.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^dd62e350]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^116fDUmm]. JAMA Network Open (2024). High credibility.
 
 Results
 
@@ -306,13 +306,13 @@ Donor characteristics are presented in Table 1 and were similar between groups. 
 
 ---
 
-### EAU guidelines on renal transplantation [^29fdaac5]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^1125FhPS]. EAU (2025). High credibility.
 
 Regarding therapeutic procedures for kidney transplantation, more specifically with respect to donor kidney preservation, EAU 2025 guidelines recommend to use hypothermic machine-perfusion where available for deceased donor kidneys to reduce delayed graft function. Consider using hypothermic machine-perfusion for standard criteria deceased donor kidneys. Use low pressure values for hypothermic machine perfusion preservation. Ensure hypothermic machine-perfusion is continuous and controlled by pressure and not flow.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^8034da35]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^114H5Aig]. JAMA Network Open (2024). High credibility.
 
 The present study represents the second population of the overarching trial: low-risk non–pump-eligible donors from participating OPOs. In this randomized study, the aim was to determine whether mild hypothermia was superior to normothermia (machine perfusion was not part of the planned interventions). The maximum sample size of 1400 donors for the present study was determined via simulation. The adaptive design report of the trial protocol (Supplement 1) details that a maximum of 1400 donors provided 90% power to detect an absolute improvement of 7.5% in DGF rates for hypothermia vs normothermia and 80% power to detect an absolute improvement of 6% in DGF rates for hypothermia vs normothermia. Due to funding and operational reasons, the trial was stopped before an interim analysis was conducted in the non–pump-eligible population. At the time the overarching trial was stopped, 517 non–pump-eligible donors were enrolled (Figure 1), leading to a total enrollment of 1427 in the overarching trial (including 910 donors from the previously published pump-eligible population), as listed on ClinicalTrials.gov.
 
@@ -321,37 +321,37 @@ Non–Pump-Eligible Donors
 
 ---
 
-### Hypothermia or machine perfusion in kidney donors [^b771d7a4]. The New England Journal of Medicine (2023). Excellent credibility.
+### Hypothermia or machine perfusion in kidney donors [^115gxyQ7]. The New England Journal of Medicine (2023). Excellent credibility.
 
 The study Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) was published by Darren Malinoski and colleagues in 2023 in the journal N Engl J Med. This study is related to the following diseases: Organ donation, Solid organ transplantation and Kidney transplantation. In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the trial question was: is combination of hypothermia and machine perfusion superior to machine perfusion alone of the kidney in brain-dead organ donors? In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the study design was: multi-center, double blinded, RCT. In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the population was: 989 patients (371 female, 618 male). The inclusion criteria were adult brain-dead kidney donors. The key exclusion criteria were donation after cardiac death; end-stage kidney disease; or a history of dialysis during terminal hospitalization. In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the interventions were: n = 479 combination therapy (combination of therapeutic hypothermia and machine perfusion) n = 510 machine perfusion (ex situ kidney hypothermic machine perfusion). In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the primary outcome was: no significant difference in delayed graft function in kidney transplant recipients (22% vs. 19%; RR 1.09, 95% CI 0.85 to 1.4). In the Therapeutic hypothermia in deceased kidney donors (machine perfusion vs. machine perfusion plus hypothermia) study, the conclusion was: in adult brain-dead kidney donors, combination therapy was not superior to machine perfusion with respect to delayed graft function in kidney transplant recipients.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^4769aa90]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^112pscZ5]. JAMA Network Open (2024). High credibility.
 
 The present study aimed to determine whether hypothermia is superior to normothermia in preventing DGF in kidneys that did not receive ex situ hypothermic machine perfusion per OPO protocol, as these donors were most often of lowest risk.
 
 ---
 
-### Hypothermia or machine perfusion in kidney donors [^ffc9b725]. The New England Journal of Medicine (2023). Excellent credibility.
+### Hypothermia or machine perfusion in kidney donors [^117YDbbS]. The New England Journal of Medicine (2023). Excellent credibility.
 
 The study Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) was published by Darren Malinoski and colleagues in 2023 in the journal N Engl J Med. This study is related to the following diseases: Kidney transplantation and Brain death. In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the trial question was: is therapeutic hypothermia noninferior to machine perfusion of the kidney in brain-dead organ donors? In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the study design was: multi-center, double blinded, RCT. In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the population was: 869 patients (335 female, 534 male). The inclusion criteria were adult brain-dead kidney donors. The key exclusion criteria were donation after cardiac death; end-stage kidney disease; or a history of dialysis during terminal hospitalization. In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the interventions were: n = 359 hypothermia (therapeutic hypothermia at 34–35 °C) n = 510 machine perfusion (ex situ kidney hypothermic machine perfusion). In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the primary outcome was: difference exceeding non-inferiority margin in delayed graft function in kidney transplant recipients (30% vs. 19%; RR 1.72, 95% CI 1.35 to 2.17). In the Therapeutic Hypothermia in DKD (hypothermia vs. machine perfusion) study, the conclusion was: in adult brain-dead kidney donors, hypothermia was not noninferior to machine perfusion with respect to delayed graft function in kidney transplant recipients.
 
 ---
 
-### EAU guidelines on renal transplantation [^933ebbbb]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^114mJFa2]. EAU (2025). High credibility.
 
 Regarding therapeutic procedures for kidney transplantation, more specifically with respect to donor kidney preservation, EAU 2025 guidelines recommend to do not discard grafts based only on increased vascular resistance and high perfusate injury marker concentrations during hypothermic machine-perfusion preservation.
 
 ---
 
-### Hypothermia and kidney: a focus on ischaemia-reperfusion injury [^ede7f76b]. Nephrology, Dialysis, Transplantation (2017). Low credibility.
+### Hypothermia and kidney: a focus on ischaemia-reperfusion injury [^1175hyrr]. Nephrology, Dialysis, Transplantation (2017). Low credibility.
 
 Cellular damage after reperfusion of ischaemic tissue is defined as ischaemia–reperfusion injury (IRI). Hypothermia is able to decrease oxygen consumption, preventing a rapid loss of mitochondrial activity. However, even though cooling can help to decrease the deleterious effects of ischaemia, the consequences are not exclusively beneficial, such that hypothermic storage is a compromise between benefits and harm. The present review details the relationship between renal IRI and hypothermia, describing the pathophysiology of IRI and hypothermic protection through experimental evidence. Although experimental models of renal IRI are a valuable tool for understanding the pathophysiology of renal ischaemia–reperfusion, the clinical transfer of experimental results has several limitations, particularly because of anatomical and physiological differences. In this review limitations of animal models but also hypothermia as a strategy to protect the kidney from IRI are discussed. We also attempt to describe three clinical scenarios where hypothermia is used in clinical settings of IRI: transplantation, deceased donors and post-cardiac arrest.
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^75c235f7]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^1141anWA]. JAMA Network Open (2024). High credibility.
 
 Introduction
 
@@ -359,19 +359,19 @@ Delayed graft function (DGF), defined as the need for dialysis within the first 
 
 ---
 
-### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^7e625270]. Nature Medicine (2023). Excellent credibility.
+### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^114ENTyZ]. Nature Medicine (2023). Excellent credibility.
 
 The study EVNP was published by Sarah A Hosgood and colleagues in 2023 in the journal Nat Med. This study is related to the following diseases: Kidney transplantation. In the EVNP study, the trial question was: what is the role of normothermic machine perfusion in donation after circulatory death kidney transplantation? In the EVNP study, the study design was: multi-center, open label, RCT. In the EVNP study, the population was: 290 patients (109 female, 181 male). The inclusion criteria were adult patients undergoing donation after circulatory death kidney transplantation. The key exclusion criteria were donors aged < 18 year; donors in Maastricht Categories I and II; third and subsequent kidney transplant recipients; multi-organ transplants; dual kidney transplants. In the EVNP study, the interventions were: n = 143 normothermic machine perfusion (static cold storage plus 1-hour ex-vivo normothermic perfusion) n = 147 static cold storage (kidney stored using cold storage technique between donation and transplantation). In the EVNP study, the primary outcome was: no significant difference in delayed graft function (60.7% vs. 58.5%; OR 1.13, 95% CI 0.69 to 1.84). In the EVNP study, the secondary outcomes were: no significant difference in primary nonfunction (4% vs. 2%; OR 2.34, 95% CI 0.56 to 9.86) No significant difference in median duration of delayed graft function (4 days vs. 6 days; HR 0.97, 95% CI 0.7 to 1.34) Significant increase in creatinine reduction ratio on post-transplant day 2 (7.97 vs. 1.58; MD 6.59, 95% CI 0.49 to 12.7). In the EVNP study, the safety outcomes were: no significant differences in incidences of biopsy-proven acute rejection, renal artery or venous thrombosis. In the EVNP study, the conclusion was: in adult patients undergoing donation after circulatory death kidney transplantation, normothermic machine perfusion was not superior to static cold storage with respect to delayed graft function.
 
 ---
 
-### Hypothermic oxygenated perfusion in extended criteria donor kidney transplantation – A randomized clinical trial [^0d24f22a]. Clinical Transplantation (2025). Medium credibility.
+### Hypothermic oxygenated perfusion in extended criteria donor kidney transplantation – A randomized clinical trial [^111LVFRs]. Clinical Transplantation (2025). Medium credibility.
 
 The study HOPE for Kidney Transplantation was published by Gerti Dajti and colleagues in 2025 in the journal Clin Transplant. This study is related to the following diseases: Kidney transplantation. In the HOPE for Kidney Transplantation study, the trial question was: what is the role of hypothermic oxygenated perfusion in patients undergoing kidney transplantation with extended criteria donor grafts? In the HOPE for Kidney Transplantation study, the study design was: single center, open label, RCT. In the HOPE for Kidney Transplantation study, the population was: 109 patients (47 female, 62 male). The inclusion criteria were patients undergoing kidney transplantation with extended criteria donor grafts. The key exclusion criteria were donor age < 18 years; combined transplantation and donation after cardiac death grafts; hypothermic oxygenated perfusion already started at graft level; hypothermic oxygenated perfusion decided by investigator. In the HOPE for Kidney Transplantation study, the interventions were: n = 54 hypothermic oxygenated perfusion (kidney grafts perfused through the renal artery at a pressure of 25–30 mmHg) n = 55 static cold storage (grafts preserved with static cold storage alone). In the HOPE for Kidney Transplantation study, the primary outcome was: no significant difference in delayed graft function (57% vs. 67%; ARD -10, 95% CI -28.75 to 8.75). In the HOPE for Kidney Transplantation study, the secondary outcomes were: no significant difference in primary non-function rate (6% vs. 7%; ARD -1, 95% CI -5.86 to 3.86) No significant difference in delayed graft function duration (5 days vs. 8 days; AD -3 days, 95% CI -9.88 to 3.88) No significant difference in acute rejection (7% vs. 15%; ARD -8, 95% CI -20.2 to 4.2). In the HOPE for Kidney Transplantation study, the safety outcomes were: no significant difference in complications. In the HOPE for Kidney Transplantation study, the conclusion was: in patients undergoing kidney transplantation with extended criteria donor grafts, hypothermic oxygenated perfusion was not superior to static cold storage with respect to delayed graft function.
 
 ---
 
-### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^b3c0ee95]. Nature Medicine (2023). Excellent credibility.
+### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^115bVb4Y]. Nature Medicine (2023). Excellent credibility.
 
 Online content
 
@@ -379,7 +379,7 @@ Any methods, additional references, Nature Portfolio reporting summaries, source
 
 ---
 
-### Normothermic and hypothermic machine perfusion preservation versus static cold storage for deceased donor kidney transplantation [^42c501ce]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Normothermic and hypothermic machine perfusion preservation versus static cold storage for deceased donor kidney transplantation [^112hzMc9]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 Background
 
@@ -411,7 +411,7 @@ Continuous non-oxygenated HMP is superior to SCS in deceased donor kidney transp
 
 ---
 
-### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^45bc7604]. JAMA Network Open (2024). High credibility.
+### Therapeutic hypothermia in low-risk nonpumped brain-dead kidney donors: a randomized clinical trial [^112nPSxj]. JAMA Network Open (2024). High credibility.
 
 Methods
 
@@ -421,7 +421,7 @@ A pragmatic (designed to evaluate interventions in routine practice conditions),
 
 ---
 
-### Oxygenated versus standard cold perfusion preservation in kidney transplantation (COMPARE): a randomised, double-blind, paired, phase 3 trial [^3c3bc9ef]. Lancet (2020). Excellent credibility.
+### Oxygenated versus standard cold perfusion preservation in kidney transplantation (COMPARE): a randomised, double-blind, paired, phase 3 trial [^112YJLgv]. Lancet (2020). Excellent credibility.
 
 Background
 
@@ -445,7 +445,7 @@ European Commission 7th Framework Programme.
 
 ---
 
-### Oxygenated end-hypothermic machine perfusion in expanded criteria donor kidney transplant: a randomized clinical trial [^c3519563]. JAMA Surgery (2021). High credibility.
+### Oxygenated end-hypothermic machine perfusion in expanded criteria donor kidney transplant: a randomized clinical trial [^115zZzL2]. JAMA Surgery (2021). High credibility.
 
 Importance
 
@@ -481,25 +481,25 @@ isrctn.org Identifier: ISRCTN63852508.
 
 ---
 
-### EAU guidelines on renal transplantation [^14830188]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^111XQkqd]. EAU (2025). High credibility.
 
 Regarding therapeutic procedures for kidney transplantation, more specifically with respect to donor kidney preservation, EAU 2025 guidelines recommend to minimize ischemia times.
 
 ---
 
-### In silico deceased donor intervention research: a potential accelerant for progress [^161cd72d]. American Journal of Transplantation (2021). Medium credibility.
+### In silico deceased donor intervention research: a potential accelerant for progress [^111ZnR4Q]. American Journal of Transplantation (2021). Medium credibility.
 
 Progress in deceased donor intervention research has been limited. Development of an in silico model of deceased donor physiology may elucidate potential therapeutic targets and provide an efficient mechanism for testing proposed deceased donor interventions. In this study, we report a preliminary in silico model of deceased kidney donor injury built, calibrated, and validated based on data from published animal and human studies. We demonstrate that the in silico model behaves like animal studies of brain death pathophysiology with respect to upstream markers of renal injury including hemodynamics, oxygenation, cytokines expression, and inflammation. Therapeutic hypothermia, a deceased donor intervention studied in human trials, is performed to demonstrate the model's ability to mimic an established clinical trial. Finally, future directions for developing this concept into a functional, clinically applicable model are discussed.
 
 ---
 
-### New strategies to optimize kidney recovery and preservation in transplantation [^f54c70c6]. Nature Reviews: Nephrology (2012). Medium credibility.
+### New strategies to optimize kidney recovery and preservation in transplantation [^117GfeE1]. Nature Reviews: Nephrology (2012). Medium credibility.
 
 Optimizing kidney preservation is a primary issue in transplantation, particularly in relation to new donor sources, such as expanded criteria donors (ECDs) and donation after cardiac death (DCD). Kidneys from these donors are highly sensitive to ischemia-reperfusion injuries — the emblematic lesions encountered during transplantation. Despite years of research, static cold storage, with solutions designed in the 1980s, remains the gold standard in kidney transplantation. This kind of preservation, however, is unable to fully protect an ECD or DCD kidney, highlighting the need for novel strategies to improve kidney preservation or promote kidney recovery. This Review provides an overview of the emerging strategies to prevent ischemia-reperfusion injuries in donor kidneys and describes strategies that are aimed at the donor, organ or recipient to improve graft outcome. These approaches include management of donors, preconditioning of the kidney, improvements in organ preservation solutions, postconditioning and regenerative therapies of the kidney graft following transplantation. In addition, machine perfusion provides an interesting opportunity to evaluate kidney graft quality before transplantation. Overall, a combination of therapeutic approaches seem to provide the best outcome, but preclinical studies using relevant models are needed before these approaches can be incorporated into clinical practice.
 
 ---
 
-### Machine perfusion preservation versus static cold storage for deceased donor kidney transplantation [^f10a999e]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Machine perfusion preservation versus static cold storage for deceased donor kidney transplantation [^117AMaRT]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -531,25 +531,25 @@ HMP is superior to SCS in deceased donor kidney transplantation. This is true fo
 
 ---
 
-### Past, present, and future of dynamic kidney and liver preservation and resuscitation [^badc60b4]. American Journal of Transplantation (2016). Low credibility.
+### Past, present, and future of dynamic kidney and liver preservation and resuscitation [^115n2iio]. American Journal of Transplantation (2016). Low credibility.
 
 The increased demand for organs has led to the increased usage of "higher risk" kidney and liver grafts. These grafts from donation after circulatory death or expanded criteria donors are more susceptible to preservation injury and have a higher risk of unfavorable outcomes. Dynamic, instead of static, preservation could allow for organ optimization, offering a platform for viability assessment, active organ repair and resuscitation. Ex situ machine perfusion and in situ regional perfusion in the donor are emerging as potential tools to preserve and resuscitate vulnerable grafts. Preclinical findings have ignited clinical organ preservation research that investigates dynamic preservation, its various modes (continuous, preimplantation) and temperatures (hypo-, sub, or normothermic). This review outlines the current status of dynamic preservation of kidney and liver grafts and describes ongoing research and emerging clinical trials.
 
 ---
 
-### Kidney grafts from brain dead donors: inferior quality or opportunity for improvement? [^75bb9813]. Kidney International (2007). Low credibility.
+### Kidney grafts from brain dead donors: inferior quality or opportunity for improvement? [^1141YZbg]. Kidney International (2007). Low credibility.
 
 Major improvements in immunosuppressive treatment, surgical techniques, and treatment of post-transplant complications have contributed considerably to improved outcome in renal transplantation over the past decades. Yet, these accomplishments have not led to similar improvements in transplant outcome when the results of living and deceased donors are compared. The enormous demand for donor kidneys has allowed for the increase in acceptance of suboptimal donors. The use of brain dead patients as organ donors has had a tremendous positive influence on the number of renal transplants. Unfortunately, the physiologically abnormal state of brain death has a negative effect on transplant outcome. The fact that transplanted kidneys derived from brain dead donors have a decreased viability indicates that potential grafts are already damaged before retrieval and preservation. In this review, we present an overview of the current knowledge of (patho)-physiological effects of brain death and its relevance for renal transplant outcome. In addition, several options for therapeutic intervention during brain death in the donor with the goal to improve organ viability and transplant outcome are discussed.
 
 ---
 
-### Utilizing pathophysiological concepts of ischemia-reperfusion injury to design renoprotective strategies and therapeutic interventions for normothermic ex vivo kidney perfusion [^bbba053a]. American Journal of Transplantation (2024). Medium credibility.
+### Utilizing pathophysiological concepts of ischemia-reperfusion injury to design renoprotective strategies and therapeutic interventions for normothermic ex vivo kidney perfusion [^115oKAfj]. American Journal of Transplantation (2024). Medium credibility.
 
 Normothermic machine perfusion (NMP) has emerged as a promising tool for the preservation, viability assessment, and repair of deceased-donor kidneys prior to transplantation. These kidneys inevitably experience a period of ischemia during donation, which leads to ischemia-reperfusion injury when NMP is subsequently commenced. Ischemia-reperfusion injury has a major impact on the renal vasculature, metabolism, oxygenation, electrolyte balance, and acid-base homeostasis. With an increased understanding of the underlying pathophysiological mechanisms, renoprotective strategies and therapeutic interventions can be devised to minimize additional injury during normothermic reperfusion, ensure the safe implementation of NMP, and improve kidney quality. This review discusses the pathophysiological alterations in the vasculature, metabolism, oxygenation, electrolyte balance, and acid-base homeostasis of deceased-donor kidneys and delineates renoprotective strategies and therapeutic interventions to mitigate renal injury and improve kidney quality during NMP.
 
 ---
 
-### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^06ef6c70]. Nature Communications (2025). High credibility.
+### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^111BHM3D]. Nature Communications (2025). High credibility.
 
 The Healthy People 2020 initiative is a 10 year national objective for improving the health in the US. The initiative pursues to "Increase the proportion of patients receiving a kidney transplant within 3 years of kidney failure (CKD stage 4–5)". Furthermore, the Advancing American Kidney Health Initiative aims at doubling the number of available organs by 2030. One key objective to comply with this ambition is to increase the number of organs that are transplanted after procurement of deceased donor organs. To increase the number of transplantations, but also guarantee good outcomes, this requires an ability to limit organ injury caused by cold organ storage and to properly assess the donor organ quality and function prior to transplantation.
 
@@ -559,7 +559,7 @@ The fear of transplanting an imperfect organ outweighs the potential benefits. H
 
 ---
 
-### Machine perfusion or cold storage in deceased-donor kidney transplantation [^769ea053]. The New England Journal of Medicine (2009). Excellent credibility.
+### Machine perfusion or cold storage in deceased-donor kidney transplantation [^1142rpYS]. The New England Journal of Medicine (2009). Excellent credibility.
 
 Background
 
@@ -579,13 +579,13 @@ Hypothermic machine perfusion was associated with a reduced risk of delayed graf
 
 ---
 
-### Delayed graft function in kidney transplantation [^332109f7]. Lancet (2004). Excellent credibility.
+### Delayed graft function in kidney transplantation [^112JoU2J]. Lancet (2004). Excellent credibility.
 
 Delayed graft function is a form of acute renal failure resulting in post-transplantation oliguria, increased allograft immunogenicity and risk of acute rejection episodes, and decreased long-term survival. Factors related to the donor and prerenal, renal, or postrenal transplant factors related to the recipient can contribute to this condition. From experimental studies, we have learnt that both ischaemia and reinstitution of blood flow in ischaemically damaged kidneys after hypothermic preservation activate a complex sequence of events that sustain renal injury and play a pivotal part in the development of delayed graft function. Elucidation of the pathophysiology of renal ischaemia and reperfusion injury has contributed to the development of strategies to decrease the rate of delayed graft function, focusing on donor management, organ procurement and preservation techniques, recipient fluid management, and pharmacological agents (vasodilators, antioxidants, anti-inflammatory agents). Several new drugs show promise in animal studies in preventing or ameliorating ischaemia-reperfusion injury and possibly delayed graft function, but definitive clinical trials are lacking. The goal of monotherapy for the prevention or treatment of is perhaps unattainable, and multidrug approaches or single drug targeting multiple signals will be the next step to reduce post-transplantation injury and delayed graft function.
 
 ---
 
-### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^edf34905]. Nature Medicine (2023). Excellent credibility.
+### Normothermic machine perfusion versus static cold storage in donation after circulatory death kidney transplantation: a randomized controlled trial [^1175mnNG]. Nature Medicine (2023). Excellent credibility.
 
 The total number of patients who had biopsy-proven acute rejection was 19 in the SCS group and 24 in the NMP group. The unadjusted mean number of biopsy-proven acute rejection episodes per patient was numerically higher in the NMP arm compared to the SCS arm (0.3 per participant versus 0.2, respectively) but was not statistically different (adjusted rate ratio (95% CI) 1.57 (0.83–2.95) for the MITT population; Table 2 and Supplementary Table 3).
 
@@ -609,7 +609,7 @@ Kaplan–Meier plot for 12-month patient survival (a) and graft survival (b).
 
 ---
 
-### Benefits of active oxygenation during hypothermic machine perfusion of kidneys in a preclinical model of deceased after cardiac death donors [^6cfcb0d1]. The Journal of Surgical Research (2013). Low credibility.
+### Benefits of active oxygenation during hypothermic machine perfusion of kidneys in a preclinical model of deceased after cardiac death donors [^113naYFJ]. The Journal of Surgical Research (2013). Low credibility.
 
 Background
 
@@ -629,7 +629,7 @@ This new MP system is efficient in preserving DCD kidneys, greatly enhancing the
 
 ---
 
-### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^18718bc9]. Critical Care (2015). Low credibility.
+### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^111dEqpU]. Critical Care (2015). Low credibility.
 
 Key messages
 
@@ -641,7 +641,7 @@ The maintenance of trust by health professionals and by the public is a key poin
 
 ---
 
-### Management and investigation of neonatal encephalopathy: 2017 update [^38eeda3e]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2017). Low credibility.
+### Management and investigation of neonatal encephalopathy: 2017 update [^112TQY1B]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2017). Low credibility.
 
 Redirection of care and organ donation
 
@@ -651,7 +651,7 @@ Organ donation, from severely affected HIE donors, is becoming a possibility. In
 
 ---
 
-### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^c601cc9e]. Critical Care (2015). Low credibility.
+### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^1164Z9rM]. Critical Care (2015). Low credibility.
 
 Conclusions
 
@@ -659,25 +659,25 @@ To the best of our knowledge, this is the first systematic review to compare the
 
 ---
 
-### A new approach in organ preservation: potential role of new polymers [^6d0af198]. Kidney International (2008). Low credibility.
+### A new approach in organ preservation: potential role of new polymers [^113nfKvF]. Kidney International (2008). Low credibility.
 
 The storage conditions of the donor kidney may influence the deleterious consequences of ischemia/reperfusion (IR), which remains a major source of complications in clinical practice. Delayed graft function (DGF), seen in 20% to 50% of transplanted cadaver kidneys, is a major risk factor affecting early and long-term graft survival, patient management, and costs of transplantation. Cold preservation plays a key role in this process and is based on hypothermia and high potassium solutions. In this review, the authors focused on the major molecular mechanisms of cold storage (CS) injury at the cellular level, which have been recently evidenced with modern biochemical and cell biologic methods. These newly uncovered aspects of cold preservation injury are often not fully addressed by preservation solutions in current clinical practice. The role of new molecules such as polyethylene glycol (PEG) is presented and their properties are analyzed in the organ preservation context. PEG improves organ function recovery and reduces inflammation and fibrosis development in several models. Because organs shortage is also a real public health problem, organs from non-heart beating donors or marginal donors are now used to expand pool of organs. As a consequence, the development of better organ preservation methods remains a major target and deserves scientific consideration.
 
 ---
 
-### Improving outcomes in kidney transplantation through advances in donor organ perfusion [^5eb2905c]. Nature Reviews: Nephrology (2025). High credibility.
+### Improving outcomes in kidney transplantation through advances in donor organ perfusion [^113RPpCK]. Nature Reviews: Nephrology (2025). High credibility.
 
 The global shortage of suitable donor kidneys is the primary challenge in kidney transplantation, and it is exacerbated by ageing donors with increased numbers of health issues. Improving organ assessment, preservation and conditioning could enhance organ utilization and patient outcomes. Hypothermic machine perfusion (HMP) is associated with better results than static cold storage by reducing delayed graft function and improving short-term graft survival, especially in kidneys recovered from marginal-quality donors. Although HMP is useful for organ preservation, it is difficult to assess organ viability during HMP because of the reduced metabolic activity at low temperatures, and the adoption of HMP has faced logistical challenges. The addition of oxygen during HMP is aimed at reducing ischaemia-reperfusion injury, but has shown mixed results in kidney transplantation, often depending on the duration of perfusion, although some studies found that the addition of oxygen improved outcomes in higher-risk donors. Normothermic machine perfusion helps to restore kidney function by delivering oxygen and nutrients at body temperature, potentially reducing ischaemia-reperfusion injury. Early studies suggest its safety, but clinical benefits remain unproven. Normothermic machine perfusion also holds promise for assessing organ viability pre-transplantation by enabling real-time evaluation. In this Review, we will summarize the different methods of kidney preservation, providing details of the effect that each method has on graft and patient outcomes and the strengths and limitations of each method.
 
 ---
 
-### EAU guidelines on renal transplantation [^95d5401b]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^114q8nSe]. EAU (2025). High credibility.
 
 Regarding therapeutic procedures for kidney transplantation, more specifically with respect to donor kidney preservation, EAU 2025 guidelines recommend to use either the University of Wisconsin or histidine tryptophane ketoglutarate preservation solutions for cold storage. Use the Celsior or Marshall's solution for cold storage if the University of Wisconsin or histidine tryptophane ketoglutarate solutions are not available.
 
 ---
 
-### Molecular profile of urine extracellular vesicles from normo-functional kidneys reveal minimal differences between living and deceased donors [^062ebd38]. BMC Nephrology (2018). Low credibility.
+### Molecular profile of urine extracellular vesicles from normo-functional kidneys reveal minimal differences between living and deceased donors [^111AAdF5]. BMC Nephrology (2018). Low credibility.
 
 Background
 
@@ -687,7 +687,7 @@ KTx may be performed using organs from living (LD) or deceased donors (DD). Alth
 
 ---
 
-### Hypothermia vs normothermia on societal participation and cognitive function at 6 months after OHCA… [^3bd61539]. JAMA Network (2023). Excellent credibility.
+### Hypothermia vs normothermia on societal participation and cognitive function at 6 months after OHCA… [^112XiBJG]. JAMA Network (2023). Excellent credibility.
 
 Question Is there an effect of targeted hypothermia vs targeted normothermia on functional outcome focusing on societal participation and cognitive function in survivors 6 months after out-of-hospital cardiac arrest. Findings In this predefined analysis of a randomized clinical trial, limitations in societal participation and cognitive impairment were common 6 months after out-of-hospital cardiac arrest with no differences between the 2 intervention groups. Younger survivors reported more limitations in societal participation. Meaning In this study, targeted hypothermia had no significant effect on societal participation or cognitive function compared with targeted normothermia at 6 months in survivors of out-of-hospital cardiac arrest. Importance The Targeted Hypothermia vs Targeted Normothermia After Out-of-Hospital Cardiac Arrest trial reported no difference in mortality or poor functional outcome at 6 months after out-of-hospital cardiac arrest.
 
@@ -697,7 +697,7 @@ This predefined exploratory analysis provides more detailed estimation of brain 
 
 ---
 
-### Organ storage in renal transplantation [^92fde445]. Current Opinion in Urology (2024). Medium credibility.
+### Organ storage in renal transplantation [^114kvUMS]. Current Opinion in Urology (2024). Medium credibility.
 
 Purpose Of Review
 
@@ -713,7 +713,7 @@ High-quality evidence backs the use of HMP for deceased donor kidneys. Despite i
 
 ---
 
-### Expanding controlled donation after the circulatory determination of death: statement from an international collaborative [^4adf3dc1]. Intensive Care Medicine (2021). Medium credibility.
+### Expanding controlled donation after the circulatory determination of death: statement from an international collaborative [^112v14wi]. Intensive Care Medicine (2021). Medium credibility.
 
 Ex situ kidney perfusion and repair
 
@@ -731,7 +731,7 @@ NRP has emerged as a strategy to reperfuse and reoxygenate organs in situ using 
 
 ---
 
-### Adopting orphan deceased donor kidneys for transplantation [^912fb2b0]. BMC Nephrology (2025). Medium credibility.
+### Adopting orphan deceased donor kidneys for transplantation [^114iFE6T]. BMC Nephrology (2025). Medium credibility.
 
 Background
 
@@ -755,7 +755,7 @@ Not applicable.
 
 ---
 
-### Anastomosis time and outcomes after donation after circulatory death kidney transplantation [^bf9ef3b3]. Journal of the American College of Surgeons (2022). Medium credibility.
+### Anastomosis time and outcomes after donation after circulatory death kidney transplantation [^115u62Tc]. Journal of the American College of Surgeons (2022). Medium credibility.
 
 Background
 
@@ -775,7 +775,7 @@ Prolonged AT is associated with worse graft outcomes in DCD kidney transplant re
 
 ---
 
-### The future of marginal kidney repair in the context of normothermic machine perfusion [^abb3dc75]. American Journal of Transplantation (2018). Low credibility.
+### The future of marginal kidney repair in the context of normothermic machine perfusion [^115PZJAg]. American Journal of Transplantation (2018). Low credibility.
 
 2 STATE OF RENAL TRANSPLANTATION
 
@@ -783,19 +783,19 @@ The shortage of suitable donor organs remains one of the leading issues facing r
 
 ---
 
-### The American Association for Thoracic Surgery 2023 expert consensus document: adult cardiac transplantation utilizing donors after circulatory death [^67be6f76]. The Journal of Thoracic and Cardiovascular Surgery (2023). High credibility.
+### The American Association for Thoracic Surgery 2023 expert consensus document: adult cardiac transplantation utilizing donors after circulatory death [^113eoh1P]. The Journal of Thoracic and Cardiovascular Surgery (2023). High credibility.
 
 Normothermic regional perfusion (NRP) for donors after circulatory death (DCD) — Historically, "abdominal organs have been recovered after DCD using rapid explantation followed by standard cold storage", a strategy with "an obligatory period of warm ischemia associated with the diagnosis and confirmation of donor death after WLST, plus subsequent ischemia during cold storage", which "has been implicated in worse postoperative outcomes for liver and kidney transplant". DCD heart donation introduced "in situ (within the donor) and ex situ (without the donor) reperfusion techniques". In situ recovery "uses extracorporeal circulation to reperfuse the chest and abdominal organs, thus more rapidly ending their ischemia", with cerebral circulation "excluded by interruption of the aortic arch vessels". Thoracoabdominal NRP (taNRP) "allows for heart recovery and in early clinical series is associated with satisfactory outcomes for heart, liver, and kidney transplant", and "decreases WIT to visceral organs", although "larger studies examining early and late outcomes are necessary to determine if the technique is superior to direct recovery". For planned NRP, "donors have been co-located in recipient hospitals or a mobile team has been sent to donor hospitals", and "The initial experience of New York University and Papworth have stressed co-location of donor and recipient".
 
 ---
 
-### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^35eb0512]. Critical Care Medicine (2015). Medium credibility.
+### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^112NwHVT]. Critical Care Medicine (2015). Medium credibility.
 
 Donation after circulatory determination of death (DCDD) kidney transplantation — Some studies suggest that DCDD kidneys are associated with a significantly higher rate of delayed graft function compared with donation after neurologic determination of death (DNDD) kidneys, while other studies suggest a similar rate of this complication. In one study of recipients with delayed graft function, graft survival in the DCDD recipients was better at 3 years (84%) compared with DNDD recipients (73%) (p < 0.05), and at 6 years (84% vs 62%, respectively). Ischemic exposure influences outcomes: in an evaluation of 100 DCDD donors, warm ischemic time of 30 minutes or more was independently associated with early graft failure but not with 12-month graft survival; in a study of 2,562 DCDD kidney transplants, DCDD donors younger than 50 years old with cold ischemic times less than 12 hours had long-term graft survival similar to that of standard donors, whereas for DCDD kidneys a warm ischemic time of more than 20 min and a cold ischemic time of more than 12 hours were associated with a significantly higher prevalence of primary graft nonfunction. Successful renal transplantation has also been documented in uncontrolled DCDD patients receiving cardiopulmonary resuscitation, irrespective of its duration.
 
 ---
 
-### Effect of donor nephrectomy time during circulatory-dead donor kidney retrieval on transplant graft failure [^b4de9cb3]. The British Journal of Surgery (2020). Medium credibility.
+### Effect of donor nephrectomy time during circulatory-dead donor kidney retrieval on transplant graft failure [^115d9YZQ]. The British Journal of Surgery (2020). Medium credibility.
 
 Background
 
@@ -815,7 +815,7 @@ Prolonged donor nephrectomy time impairs graft outcome in kidneys donated after 
 
 ---
 
-### Determining the impact of timing and of clinical factors during end-of-life decision-making in potential controlled donation after circulatory death donors [^e6ed4029]. American Journal of Transplantation (2020). Medium credibility.
+### Determining the impact of timing and of clinical factors during end-of-life decision-making in potential controlled donation after circulatory death donors [^116uMqqA]. American Journal of Transplantation (2020). Medium credibility.
 
 DISCLOSURE
 
@@ -823,19 +823,19 @@ The authors of this manuscript have no conflicts of interest to disclose as desc
 
 ---
 
-### Peritoneal cooling may provide improved protection for uncontrolled donors after cardiac death: an exploratory porcine study [^e56c1ab2]. American Journal of Transplantation (2009). Low credibility.
+### Peritoneal cooling may provide improved protection for uncontrolled donors after cardiac death: an exploratory porcine study [^116s8UaM]. American Journal of Transplantation (2009). Low credibility.
 
 Uncontrolled donation after cardiac death (DCD) renal transplantation relies on rapid establishment of organ preservation interventions. We have developed a model of the uncontrolled DCD, comparing current in situ perfusion (ISP) techniques with additional peritoneal cooling (PC). Ten pigs were killed and subjected to a 2 h ischemia period. The ISP group modeled current DCD protocols. The PC group (PC) modeled current protocols plus PC. Two animals were used as controls and subjected to 2 h of warm ischemia. Core renal temperature and microdialysis markers of ischemia were measured. Preservation interventions began at 30 min, with rapid laparotomy and kidney recovery performed at 2 h, prior to machine perfusion viability testing. The final mean renal temperature achieved in the ISP group was 26.3 degrees C versus 16.9 degrees C in the PC group (p = 0.0001). A significant cryopreservation benefit was suggested by lower peak microdialysate lactate and glycerol levels (ISP vs. PC, p = 0.0003 and 0.0008), and the superiority of the PC group viability criteria (p = 0.0147). This pilot study has demonstrated significant temperature, ischemia protection and viability assessment benefits with the use of supplementary PC. The data suggests a need for further research to determine the potential for reductions in the rates of ischemia-related clinical phenomena for uncontrolled DCDs.
 
 ---
 
-### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^dd92916c]. Critical Care Medicine (2015). Medium credibility.
+### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^116fVVf1]. Critical Care Medicine (2015). Medium credibility.
 
 Kidney donor — fluid resuscitation strategy: Most studies investigating renal graft function in resuscitated brain-dead organ donors are either retrospective case series or uncontrolled observational studies, but appropriate management of DI, restoration of adequate intravascular volume, and correction for acidosis were all associated with lower rates of delayed graft function and improved serum creatinine levels prior to organ recovery. IV fluids should be administered to maintain euvolemic volume status and addressing ongoing fluid losses and electrolyte disturbances associated with DI.
 
 ---
 
-### Challenges and opportunities in organ donation after circulatory death [^47018ef0]. Journal of Internal Medicine (2025). Medium credibility.
+### Challenges and opportunities in organ donation after circulatory death [^112pGeNK]. Journal of Internal Medicine (2025). Medium credibility.
 
 In a Eurotransplant cohort study analysing 18,065 kidney recipients, of which 1059 received a DCD organ, DCD kidney transplantation was associated with a 28% higher risk of graft failure compared to DBD (hazard ratio [HR] of 1.28 [95% CI 1.10–1.46]), and the duration of the asystolic time was an independent predictive factor for graft failure. Furthermore, for every 10‐min increase in warm ischaemia, there was an increase in the 5‐year rate of graft failure from 10% (asystolic time < 10 min) to 35% if the warm ischaemic time exceeded 20 min. Similar findings were reported for liver transplantation, where the duration of the functional warm ischaemic time is considered the most crucial factor in risk stratification, with an accepted limit of 30 min and pancreas transplantation, where a longer asystolic time significantly increased the risk of graft failure 2.5‐fold (adjusted HR: 2.51, 95% confidence interval 1.16–5.43, p = 0.02).
 
@@ -843,7 +843,7 @@ Several studies demonstrated that mitigation of these risk factors — focused o
 
 ---
 
-### Normothermic regional perfusion experience of organ procurement organizations in the US [^1df3a49a]. JAMA Network Open (2024). High credibility.
+### Normothermic regional perfusion experience of organ procurement organizations in the US [^111mQUim]. JAMA Network Open (2024). High credibility.
 
 Key Points
 
@@ -861,7 +861,7 @@ These results suggest that improved standardization of NRP policies, protocols, 
 
 ---
 
-### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^3f26b21e]. EClinicalMedicine (2018). Low credibility.
+### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^112cdDcH]. EClinicalMedicine (2018). Low credibility.
 
 2 Methods
 
@@ -878,13 +878,13 @@ DCD kidneys were all from controlled circulatory death donors (Maastricht catego
 
 ---
 
-### Response to American college of physician's statement on the ethics of transplant after normothermic regional perfusion [^1f8ed5af]. American Journal of Transplantation (2022). Medium credibility.
+### Response to American college of physician's statement on the ethics of transplant after normothermic regional perfusion [^111onbP4]. American Journal of Transplantation (2022). Medium credibility.
 
 This paper responds to the position statement released by the American College of Physicians (ACP) entitled "Ethics, Determination of Death, and Organ Transplantation in Normothermic Regional Perfusion (NRP) with Controlled Donation after Circulatory Determination of Death (cDCD): American College of Physicians Statement of Concern". The ACP's statement engages with critical ethical issues surrounding cDCD NRP, but several of their conclusions are flawed. Contrary to the statement, the practice respects the dead donor rule and the legal definition of death while honoring the wishes of the deceased and their loved ones to help save the lives of those in need of organ transplants. cDCD NRP is well established in many countries, it can enhance trust in medical practice and organ donation, and will increase the availability of optimal organs for life-saving transplants.
 
 ---
 
-### Hypothermic oxygenated perfusion improves vascular and contractile function by preserving endothelial nitric oxide production in cardiac grafts obtained with donation after circulatory death [^690fd092]. Journal of the American Heart Association (2024). Medium credibility.
+### Hypothermic oxygenated perfusion improves vascular and contractile function by preserving endothelial nitric oxide production in cardiac grafts obtained with donation after circulatory death [^113gm1gm]. Journal of the American Heart Association (2024). Medium credibility.
 
 NO is known to initiate numerous cellular processes, including activation of the soluble guanylyl cyclase–cGMP–protein kinase G pathway and direct protein nitrosylation, some with cardioprotective effects. One of the key effects of NO is the prevention of ischemia–reperfusion‐induced cellular calcium overload by inhibiting the L‐type calcium channel. We measured a lower total tissue calcium in HOPE‐treated hearts compared with all other groups, reaching statistical significance when compared with CSS or HOPE and L‐NAME and bradykinin. In line with these findings, correlations of tissue calcium with several parameters showed statistical significance, including measurements of ventricular function, cell death markers, and the release of cytochrome C. The latter may indicate that the effect of NO associated with HOPE could have an impact on mitochondrial integrity.
 
@@ -892,7 +892,7 @@ In this study, we demonstrate that blocking NO activity during HOPE with L‐NAM
 
 ---
 
-### Do we need a different organ allocation system for kidney transplants using donors after circulatory death? [^133e15c7]. BMC Nephrology (2014). Low credibility.
+### Do we need a different organ allocation system for kidney transplants using donors after circulatory death? [^111VXcsQ]. BMC Nephrology (2014). Low credibility.
 
 Whilst long term outcomes and graft survival are similar between DBDs and DCDs, it has been well established that kidneys from DCD's have higher rates of primary non-function (PNF) and delayed graft function (DGF) than from DBD kidneys. These differences impact on in-hospital stay and overall costs which are consequently much higher in DCD compared to DBD transplants. Primary warm ischemia time (WIT) and haemodynamic events around the retrieval period are likely to be responsible for the increase in DGF/PNF in DCD kidneys and is accepted as an inevitable consequence of use of this donor source. DCD organs are being increasingly utilized due to the shortage of DBD kidneys and the ever expanding number of patients requiring a transplant. In the UK the use of kidneys from DCD donors has risen from 3% of all deceased donors in 2000 to 82% in 2012. Between April 2011 and March 2012, 674 kidney transplants from donors after circulatory death (17% increase compared with the previous year) took place and accounted for one in four of all kidney transplants. Hence, it is important to identify and overcome factors which may adversely affect the outcome of DCD kidney transplants both in terms of patient interest and health care economics.
 
@@ -904,13 +904,13 @@ In this audit we compared the outcomes between paired DCD kidneys within our reg
 
 ---
 
-### The duration of asystolic ischemia determines the risk of graft failure after circulatory-dead donor kidney transplantation: a eurotransplant cohort study [^0fa20aca]. American Journal of Transplantation (2018). Low credibility.
+### The duration of asystolic ischemia determines the risk of graft failure after circulatory-dead donor kidney transplantation: a eurotransplant cohort study [^111QBF4d]. American Journal of Transplantation (2018). Low credibility.
 
 Circulatory death donor (DCD) kidney transplantations are steadily increasing. Consensus reports recommend limiting donor warm ischemia time (DWIT) in DCD donation, although an independent effect on graft outcome has not been demonstrated. We investigated death-censored graft survival in 18 065 recipients of deceased-donor kidney transplants in the Eurotransplant region: 1059 DCD and 17 006 brain-dead donor (DBD) kidney recipients. DWIT was defined as time from circulatory arrest until cold flush. DCD donation was an independent risk factor for graft failure (adjusted hazard ratio [HR] 1.28, 95% CI 1.10–1.46), due to an increased risk of primary nonfunction (62/1059 vs 560/17 006; P < .0001). With DWIT in the model, DCD donation was no longer a risk factor, demonstrating that DWIT explains the inferior graft survival of DCD kidneys. Indeed, DCD transplants with short DWIT have graft survival comparable to that of standard-criteria DBD transplants (P = 0.59). DWIT also associated with graft failure in DCDs (adjusted HR 1.20 per 10-minute increase, 95% CI 1.03–1.42). At 5 years after transplantation, graft failure occurred in 14 of 133 recipients (10.5%) with DWIT < 10 minutes, 139 of 555 recipients (25.0%) with DWIT between 10 and 19 minutes, and 117 of 371 recipients (31.5%) with DWIT ≥ 20 minutes. These findings support the expert opinion-based guidelines to limit DWIT.
 
 ---
 
-### Expanding controlled donation after the circulatory determination of death: statement from an international collaborative [^b8efbe81]. Intensive Care Medicine (2021). Medium credibility.
+### Expanding controlled donation after the circulatory determination of death: statement from an international collaborative [^115jBFSp]. Intensive Care Medicine (2021). Medium credibility.
 
 Perfusion repair for increasing organ transplantation success in cDCDD
 
@@ -928,7 +928,7 @@ Most promising and actively explored methods of ex situ machine perfusion of liv
 
 ---
 
-### Impact of CRRT on graft outcomes in kidney transplantation from deceased donors with severe acute kidney injury [^6bd5380f]. BMC Nephrology (2025). Medium credibility.
+### Impact of CRRT on graft outcomes in kidney transplantation from deceased donors with severe acute kidney injury [^113ksHze]. BMC Nephrology (2025). Medium credibility.
 
 Introduction
 
@@ -944,7 +944,7 @@ Thus, this study aimed to address this knowledge gap by evaluating graft outcome
 
 ---
 
-### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^3733e198]. Critical Care (2015). Low credibility.
+### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^112QqkEB]. Critical Care (2015). Low credibility.
 
 Ethical, legal, and logistic issues
 
@@ -964,7 +964,7 @@ The included studies were carried out at centres in Spain, France, the US, The N
 
 ---
 
-### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^02052641]. EClinicalMedicine (2018). Low credibility.
+### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^1113zhtC]. EClinicalMedicine (2018). Low credibility.
 
 Dutch registry data confirm a higher susceptibility of DCD grafts for prolonged cold-ischemia as also reported for the UK-cohort. Remarkably, detailed exploration of this phenomenon showed that this negative impact is limited to a higher risk for early graft loss: prolonged cold ischemia times did not disproportionately impact early graft loss-censored-graft-survival and rejection episodes. Implying the decisions to accept these grafts should be primarily based on the consequences of early graft loss to the recipient.
 
@@ -974,7 +974,7 @@ Multivariable analyses stressed the impact of the first warm ischemic period on 
 
 ---
 
-### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^e4d81a1b]. EClinicalMedicine (2018). Low credibility.
+### Equivalent long-term transplantation outcomes for kidneys donated after brain death and cardiac death: conclusions from a nationwide evaluation [^116rGmFx]. EClinicalMedicine (2018). Low credibility.
 
 In the light of expressed concerns with regard to a disproportionate impact of longer ischemia times on DCD grafts outcomes, we specifically addressed the impact of prolonged (> 24 h) cold ischemia time on outcome. In fact, prolonged cold ischemia time disproportionally impacted early graft survival (viz. graft loss within 90-days of transplantation) in the DCD group (early graft losses: 17.1 vs. 10.7% in the DCD and DBD group respectively, P = 0.007). However, the similar conditional graft survival for grafts surviving the first 90 days (HR for graft loss (DBD is reference) 1.15 (0.82–1.62); p = 0.41) indicates that the disproportionate effect reflects impaired graft recovery.
 
@@ -984,7 +984,7 @@ The impact of delayed graft function on graft function (estimated clearance) on 
 
 ---
 
-### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^ec43105b]. Nature Communications (2025). High credibility.
+### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^1173Gc1x]. Nature Communications (2025). High credibility.
 
 Table 1
 Indications and current use of organ normothermic preservation devices
@@ -993,7 +993,7 @@ Kidney normothermic machine perfusion holds the promise to replace or shorten co
 
 ---
 
-### Victory out of tragedy: organ donation [^54682bb9]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Victory out of tragedy: organ donation [^113A8x5n]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Resuscitation of potential donors
 
@@ -1025,13 +1025,13 @@ Brain death is associated with numerous complications such as DIC, DI, NPE, hypo
 
 ---
 
-### The American Association for Thoracic Surgery 2023 expert consensus document: adult cardiac transplantation utilizing donors after circulatory death [^aa030c80]. The Journal of Thoracic and Cardiovascular Surgery (2023). High credibility.
+### The American Association for Thoracic Surgery 2023 expert consensus document: adult cardiac transplantation utilizing donors after circulatory death [^115M3vJb]. The Journal of Thoracic and Cardiovascular Surgery (2023). High credibility.
 
 Perfusate — during NRP, a number of potentially beneficial drugs may be administered to mediate oxidative stress and mitigate warm ischemia; current clinical practice includes the use of steroids, N-acetylcysteine, erythropoietin, and mannitol, and there are currently little clinical data regarding the benefits of these agents, but no reports of adverse effects on recovered organs.
 
 ---
 
-### Therapeutic hypothermia in "Expanded criteria" brain-dead donors and kidney-graft function (HYPOREME) [^e2dddf12]. ClinicalTrials (2017). Low credibility.
+### Therapeutic hypothermia in "Expanded criteria" brain-dead donors and kidney-graft function (HYPOREME) [^116oLj6H]. ClinicalTrials (2017). Low credibility.
 
 Study Identification Study Status Sponsor/Collaborators Oversight Study Description Each year, only one third of patients registered on the waiting list receive a kidney transplant. Numerous paths are being explored with the aim of reversing this shortage. The first is to increase the number of organs by developing harvesting from donors in a state of brain-death termed "expanded criteria donors" or from patients deceased from circulatory arrest. Another fundamental factor is to insure the success of the transplant by limiting the dysfunction of donor kidneys, marked by a delayed graft function. The development of techniques to insure correct perfusion of harvested organs, and the optimization of reanimation and intensive care of brain-dead donors constitute important factors in DGF reduction. Therapeutic Hypothermia could to be an attractive care strategy for BD patients.
 
@@ -1047,31 +1047,31 @@ Outcome Measures
 
 ---
 
-### Kidney donation after circulatory death (DCD): state of the art [^a0549fe1]. Kidney International (2015). Low credibility.
+### Kidney donation after circulatory death (DCD): state of the art [^1156hSi4]. Kidney International (2015). Low credibility.
 
 The use of kidneys from controlled donation after circulatory death (DCD) donors has the potential to markedly increase kidney transplants performed. However, this potential is not being realized because of concerns that DCD kidneys are inferior to those from donation after brain-death (DBD) donors. The United Kingdom has developed a large and successful controlled DCD kidney transplant program that has allowed for a substantial increase in kidney transplant numbers. Here we describe recent trends in DCD kidney donor activity in the United Kingdom, outline aspects of the donation process, and describe donor selection and allocation of DCD kidneys. Previous UK Transplant Registry analyses have shown that while DCD kidneys are more susceptible to cold ischemic injury and have a higher incidence of delayed graft function, short- and medium-term transplant outcomes are similar in recipients of kidneys from DCD and DBD donors. We present an updated, extended UK registry analysis showing that longer-term transplant outcomes in DCD donor kidneys are also similar to those for DBD donor kidneys, and that transplant outcomes for kidneys from expanded-criteria DCD donors are no less favorable than for expanded-criteria DBD donors. Accordingly, the selection criteria for use of kidneys from DCD donors should be the same as those used for DBD donors. The UK experience suggests that wider international development of DCD kidney transplantation programs will help address the global shortage of deceased donor kidneys for transplantation.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and care of living kidney donors [^7c2c2bfb]. Transplantation (2017). Medium credibility.
+### KDIGO clinical practice guideline on the evaluation and care of living kidney donors [^114B6JUr]. Transplantation (2017). Medium credibility.
 
 KDIGO living kidney donor guideline — strength of recommendations and overall certainty — states, "The strength of a recommendation is graded as Level 1, "we recommend" or Level 2, "we suggest" (Table 5)". It further notes, "The overall certainty of the evidence was graded (A, B, C, or D — Table 3)".
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and care of living kidney donors [^cbaba9ce]. Transplantation (2017). Medium credibility.
+### KDIGO clinical practice guideline on the evaluation and care of living kidney donors [^116Cx9Uh]. Transplantation (2017). Medium credibility.
 
 KDIGO recommendation grading — graded recommendations are based on a systematic review of the evidence and are graded for strength of the recommendation (level 1, "we recommend" or level 2, "we suggest") and certainty of the evidence (A, "high"; B, "moderate"; C, "low"; or D, "very low"). Practice points are ungraded, consensus-based statements representing the expert judgment of the Work Group, and readers should consider practice points as expert guidance or "good practice statements" and use them as they see fit to inform the care of patients.
 
 ---
 
-### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^23528173]. Critical Care Medicine (2015). Medium credibility.
+### Management of the potential organ donor in the ICU: Society of Critical Care Medicine / American College of Chest Physicians / association of organ procurement organizations consensus statement [^111uNHCn]. Critical Care Medicine (2015). Medium credibility.
 
 Kidney donor resuscitation — vasopressors and inotropes: Based on limited evidence, "selective use of vasopressors and inotropes is justified in the resuscitation of deceased kidney donors".
 
 ---
 
-### Effect of donor age and cold storage time on outcome in recipients of kidneys donated after circulatory death in the UK: a cohort study [^95b51779]. Lancet (2013). Excellent credibility.
+### Effect of donor age and cold storage time on outcome in recipients of kidneys donated after circulatory death in the UK: a cohort study [^114pwywW]. Lancet (2013). Excellent credibility.
 
 Background
 
@@ -1095,13 +1095,13 @@ UK National Health Service Blood and Transplant; Cambridge National Institute fo
 
 ---
 
-### Improving donor organ function-cold to warm preservation [^f35bf8a5]. World Journal of Surgery (2010). Low credibility.
+### Improving donor organ function-cold to warm preservation [^117DntDz]. World Journal of Surgery (2010). Low credibility.
 
 This paper explores the evolution of organ preservation methods from cold preservation to the more sophisticated method of warm preservation. Both methods are detailed, and the benefits and limitations of both methods are discussed.
 
 ---
 
-### Advancing the science of organ donor management [^a6989b15]. Critical Care (2014). Low credibility.
+### Advancing the science of organ donor management [^115FzCnG]. Critical Care (2014). Low credibility.
 
 Though hypothesized, the mechanism for reduced dose and duration of vasopressors with low dose hydrocortisone is still unclear. Similar results have been found with corticosteroid use in other disease states such as septic shock, perhaps as a result of increasing cardiac and vascular sensitivity to catecholamines. Future adoption of best practice in donor management needs to be guided with a deeper understanding of biologic mechanisms and effective interventions. The physiology for organ systems failure after brain death is complex and multifactorial. For example, the documented pro-inflammatory environment in the potential donor has yet to translate into antiflammatory therapies that improve graft function. Optimization of the donor with multimodal approaches including hormonal therapy need to be individualized and based on our increasing knowledge of physiology during the dying process.
 
@@ -1109,31 +1109,31 @@ Current donor management studies often suffer from paradigm challenges. Traditio
 
 ---
 
-### The impact of cold ischemia time on renal transplant outcome [^2c553fed]. Kidney International (2015). Low credibility.
+### The impact of cold ischemia time on renal transplant outcome [^1128j6CU]. Kidney International (2015). Low credibility.
 
 Cold ischemia triggers a cascade of noxious effects, which are amplified by restoration of blood supply reperfusion. These injuries generate inflammatory and immune responses that may potentially result in delayed graft function, enhanced alloimmune reactivity, and development of progressive pathological changes. Debout et al. outline the clinical importance of cold ischemia time in renal transplantation by demonstrating that each additional hour of cold ischemia can increase the risk of allograft failure and death.
 
 ---
 
-### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^f3112771]. Nature Communications (2025). High credibility.
+### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^117DMkfi]. Nature Communications (2025). High credibility.
 
 End stage kidney disease and dialysis are lifetime limiting and lifestyle-defining conditions with enormous costs to the health care system. Despite a severe organ shortage, thousands of organs that are retrieved for transplantation go to waste every year because of the presumed inadequacy of organ quality and/or the limited organ preservation time. Normothermic kidney machine perfusion (NMP) holds the potential to resolve this through improved preservation, prolonged preservation time, kidney quality assessment, reconditioning and treatment. We herein develop a perspective on the potential, but also the hurdles towards the breakthrough of this technology.
 
 ---
 
-### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^66b36ddb]. Critical Care (2015). Low credibility.
+### Protocols for uncontrolled donation after circulatory death: a systematic review of international guidelines, practices and transplant outcomes [^113dG1Ji]. Critical Care (2015). Low credibility.
 
 This systematic review has several limitations. Although organisations provided us with draft protocols or guidelines for uDCD, only fully developed guidelines were included in the review, reducing the overall scope of guidelines to assess. The AGREE II appraisal process was used to assess the quality of guideline development. Though well supported, this tool is not the only accepted method for this purpose. The lack of homogenous data from the studies reporting transplant outcomes also precluded a meta-analysis and prevented the linking of outcomes to specific protocols used for the uDCD process.
 
 ---
 
-### Use and outcomes of kidneys from donation after circulatory death donors in the United States [^40ff73d1]. Journal of the American Society of Nephrology (2017). Low credibility.
+### Use and outcomes of kidneys from donation after circulatory death donors in the United States [^112fN1eg]. Journal of the American Society of Nephrology (2017). Low credibility.
 
 Donation after circulatory death (DCD) donors are an important source of kidneys for transplantation, but DCD donor transplantation is less common in the United States than in other countries. In this study of national data obtained between 2008 and 2015, recovery of DCD kidneys varied substantially among the country's 58 donor service areas, and 25% of DCD kidneys were recovered in only four donor service areas. Overall, 20% of recovered DCD kidneys were discarded, varying from 3% to 33% among donor service areas. Compared with kidneys from neurologically brain dead (NBD) donors, DCD kidneys had a higher adjusted odds ratio of discard that varied from 1.25 (95% confidence interval [95% CI], 1.16 to 1.34) in kidneys with total donor warm ischemic time (WIT) of 10–26 minutes to 2.67 (95% CI, 2.34 to 3.04) in kidneys with total donor WIT > 48 minutes. Among the 12,831 DCD kidneys transplanted, kidneys with WIT ≤ 48 minutes had survival similar to that of NBD kidneys. DCD kidneys with WIT > 48 minutes had a higher risk of allograft failure (hazard ratio, 1.23; 95% CI, 1.07 to 1.41), but this risk was limited to kidneys with cold ischemia time (CIT) > 12 hours. We conclude that donor service area-level variation in the recovery and discard of DCD kidneys is large. Additional national data collection is needed to understand the potential to increase DCD donor transplantation in the United States. Strategies to minimize cold ischemic injury may safely allow increased use of DCD kidneys with WIT > 48 minutes.
 
 ---
 
-### Donor time to death and kidney transplant outcomes in the setting of a 3-hour minimum wait policy [^866f0f43]. JAMA Network Open (2024). High credibility.
+### Donor time to death and kidney transplant outcomes in the setting of a 3-hour minimum wait policy [^114SJeNv]. JAMA Network Open (2024). High credibility.
 
 Methods
 
@@ -1143,13 +1143,13 @@ The primary exposure was TTD, defined as the time from WLST until mechanical asy
 
 ---
 
-### Prolonged warm ischemia time is associated with graft failure and mortality after kidney transplantation [^354aba00]. Kidney International (2016). Low credibility.
+### Prolonged warm ischemia time is associated with graft failure and mortality after kidney transplantation [^112N1Sj9]. Kidney International (2016). Low credibility.
 
 Warm ischemia time is a potentially modifiable insult to transplanted kidneys, but little is known about its effect on long-term outcomes. Here we conducted a study of United States kidney transplant recipients (years 2000–2013) to determine the association between warm ischemia time (the time from organ removal from cold storage to reperfusion with warm blood) and death/graft failure. Times under 10 minutes were potentially attributed to coding error. Therefore, the 10-to-under-20-minute interval was chosen as the reference group. The primary outcome was mortality and graft failure (return to chronic dialysis or preemptive retransplantation) adjusted for recipient, donor, immunologic, and surgical factors. The study included 131,677 patients with 35,901 events. Relative to the reference patients, times of 10 to under 20, 20 to under 30, 30 to under 40, 40 to under 50, 50 to under 60, and 60 and more minutes were associated with hazard ratios of 1.07 (95% confidence interval, 0.99–1.15), 1.13 (1.06–1.22), 1.17 (1.09–1.26), 1.20 (1.12–1.30), and 1.23 (1.15–1.33) for the composite event, respectively. Association between prolonged warm ischemia time and death/graft failure persisted after stratification by donor type (living vs. deceased donor) and delayed graft function status. Thus, warm ischemia time is associated with adverse long-term patient and graft survival after kidney transplantation. Identifying strategies to reduce warm ischemia time is an important consideration for future study.
 
 ---
 
-### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^a1524199]. Nature Communications (2025). High credibility.
+### Opportunities and challenges with the implementation of normothermic machine perfusion in kidney transplantation [^1158AdrQ]. Nature Communications (2025). High credibility.
 
 The importance of developing endpoints for the further development of NMP
 
@@ -1159,13 +1159,13 @@ Learning from the evolution of NMP in other organs such as the liver, the pathwa
 
 ---
 
-### American society of transplant surgeons recommendations on best practices in donation after circulatory death organ procurement [^e1086fcf]. American Journal of Transplantation (2023). Medium credibility.
+### American society of transplant surgeons recommendations on best practices in donation after circulatory death organ procurement [^116kd3mY]. American Journal of Transplantation (2023). Medium credibility.
 
 The American Society of Transplant Surgeons supports efforts to increase the number of organs that are critically needed for patients desperately awaiting transplantation. In the United States, transplantation using organs procured from donation after circulatory death (DCD) donors has continued to increase in number. Despite these increases, substantial variability in the utilization and practices of DCD transplantation still exists. To improve DCD organ utilization, it is important to create a set of best practices for DCD recovery. The following recommendations aim to provide guidance on contemporary issues surrounding DCD organ procurement in the United States. A work group was composed of members of the American Society of Transplant Surgeon Scientific Studies Committee and the Thoracic Organ Transplantation Committee. The following topics were identified by the group either as controversial or lacking standardization: prewithdrawal preparation, definition of donor warm ischemia time, DCD surgical technique, combined thoracic and abdominal procurements, and normothermic regional perfusion. The proposed recommendations were classified on the basis of the grade of available evidence and the strength of the recommendation. This information should be valuable for transplant programs as well as for organ procurement organizations and donor hospitals as they develop robust DCD donor procurement protocols.
 
 ---
 
-### Donor time to death and kidney transplant outcomes in the setting of a 3-hour minimum wait policy [^71356494]. JAMA Network Open (2024). High credibility.
+### Donor time to death and kidney transplant outcomes in the setting of a 3-hour minimum wait policy [^113tqY2F]. JAMA Network Open (2024). High credibility.
 
 Association With Graft Survival
 
@@ -1180,7 +1180,7 @@ All these findings were confirmed on restricted cubic spline modeling (Figure 3 
 
 ---
 
-### Normothermic ex vivo kidney perfusion preserves mitochondrial and graft function after warm ischemia and is further enhanced by AP39 [^c8ae40e8]. Nature Communications (2024). High credibility.
+### Normothermic ex vivo kidney perfusion preserves mitochondrial and graft function after warm ischemia and is further enhanced by AP39 [^1168X46T]. Nature Communications (2024). High credibility.
 
 Introduction
 
@@ -1194,7 +1194,7 @@ In recent years, NEVKP has been recognized as an emerging platform for therapeut
 
 ---
 
-### Analysis of factors that affect outcome after transplantation of kidneys donated after cardiac death in the UK: a cohort study [^e2c80105]. Lancet (2010). Excellent credibility.
+### Analysis of factors that affect outcome after transplantation of kidneys donated after cardiac death in the UK: a cohort study [^116oDP5e]. Lancet (2010). Excellent credibility.
 
 Background
 
@@ -1218,7 +1218,7 @@ UK National Health Service Blood and Transplant, and Cambridge National Institut
 
 ---
 
-### Standardized deceased donor kidney donation rates in the UK reveal marked regional variation and highlight the potential for increasing kidney donation: a prospective cohort study [^82d0616e]. British Journal of Anaesthesia (2014). Low credibility.
+### Standardized deceased donor kidney donation rates in the UK reveal marked regional variation and highlight the potential for increasing kidney donation: a prospective cohort study [^114LwPDX]. British Journal of Anaesthesia (2014). Low credibility.
 
 Editor's key points
 
@@ -1236,7 +1236,7 @@ The introduction of these changes in UK organ donation practice has been associa
 
 ---
 
-### Normothermic human kidney preservation drives iron accumulation and ferroptosis [^7a792323]. Nature Communications (2025). High credibility.
+### Normothermic human kidney preservation drives iron accumulation and ferroptosis [^1148aBKp]. Nature Communications (2025). High credibility.
 
 Given that residual ferroptotic activity persisted despite fHb removal during RBC-based perfusion, we explored cell-free perfusion to circumvent hemolysis-driven injury. To support aerobic metabolism without an oxygen carrier, preservation temperature was reduced from 37 °C to 25 °C, thereby lowering the metabolic rate ensuring adequate oxygen delivery. Our findings indicate that cell-free perfusion prevents hemolysis-induced iron accumulation, phospholipid peroxidation, and ferroptosis gene signature enrichment, when compared to RBC-based perfusion. Hence, this approach establishes a more graft-protective environment for (prolonged) preservation of deceased donor kidneys. Although subnormothermic preservation is often considered a limitation, recent studies demonstrated it supports molecular and cellular repair processes. Moreso, we previously demonstrated that it supports 4 day ex vivo metabolic and functional preservation of human kidneys.
 

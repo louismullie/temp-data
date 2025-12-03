@@ -15,56 +15,56 @@ How do you approach rib fracture
 
 > Let's see… What do we have here? The user is asking how to approach rib fracture management. Let's break this down step-by-step. First, I need to think about initial assessment and risk stratification. Then, I should verify imaging strategy and how it changes management. Next, I will examine pain control and pulmonary hygiene, including regional anesthesia. After that, I need to consider indications and timing for surgical stabilization. Then, I should review special populations, especially older adults. Finally, I will synthesize disposition and follow-up, and close with a concise algorithm that aligns with current guidelines and evidence.
 
-> Let me first confirm the initial assessment priorities: airway, breathing, circulation, and identification of life-threatening thoracic injuries such as tension pneumothorax, massive hemothorax, flail chest, and pulmonary contusion, because these drive immediate interventions and level of care. I should also quantify risk using the number of ribs fractured, age, cardiopulmonary comorbidity, and injury pattern, since mortality and complications rise with three or more ribs, age over 65, and flail chest, and these factors guide ICU admission and analgesic intensity [^8ddf6601] [^32c52c90] [^1b1337b2].
+> Let me first confirm the initial assessment priorities: airway, breathing, circulation, and identification of life-threatening thoracic injuries such as tension pneumothorax, massive hemothorax, flail chest, and pulmonary contusion, because these drive immediate interventions and level of care. I should also quantify risk using the number of ribs fractured, age, cardiopulmonary comorbidity, and injury pattern, since mortality and complications rise with three or more ribs, age over 65, and flail chest, and these factors guide ICU admission and analgesic intensity [^114dLHtU] [^112JGcMM] [^111h97zq].
 
-> Wait, let me verify the imaging approach before I over-order CT. For most stable patients with suspected rib fractures, a chest radiograph is usually sufficient to diagnose fractures and detect pneumothorax or hemothorax; CT is reserved for high-risk patients, those with three or more ribs, suspected flail, or when surgical planning is anticipated, because CT changes management in a meaningful subset and surgeons often grade displacement more severely than radiologists, which can alter SSRF decisions [^5a4e13b8] [^37babcc5].
+> Wait, let me verify the imaging approach before I over-order CT. For most stable patients with suspected rib fractures, a chest radiograph is usually sufficient to diagnose fractures and detect pneumothorax or hemothorax; CT is reserved for high-risk patients, those with three or more ribs, suspected flail, or when surgical planning is anticipated, because CT changes management in a meaningful subset and surgeons often grade displacement more severely than radiologists, which can alter SSRF decisions [^113Jt7Rh] [^112Rd3SL].
 
-> I need to ensure pain control is addressed immediately and aggressively, since pain drives splinting, atelectasis, and pneumonia. Multimodal analgesia with scheduled acetaminophen and NSAIDs is foundational, adding muscle relaxants when appropriate, and escalating to regional anesthesia or opioids as needed; neuraxial techniques are preferred in high-risk patients when not contraindicated, with paravertebral or intercostal blocks as alternatives when epidural is unsafe, and emerging plane blocks like ESP or SAP are promising adjuncts [^a86568a3] [^0d5d7649] [^3600733d] [^11c4e26e].
+> I need to ensure pain control is addressed immediately and aggressively, since pain drives splinting, atelectasis, and pneumonia. Multimodal analgesia with scheduled acetaminophen and NSAIDs is foundational, adding muscle relaxants when appropriate, and escalating to regional anesthesia or opioids as needed; neuraxial techniques are preferred in high-risk patients when not contraindicated, with paravertebral or intercostal blocks as alternatives when epidural is unsafe, and emerging plane blocks like ESP or SAP are promising adjuncts [^115Jeywp] [^111LpETA] [^112P4UzG] [^111TLvQm].
 
-> Hold on, let's not jump to conclusions about opioids; I should double-check the balance of benefit and risk, especially in older adults. While opioids can be effective for breakthrough pain, they increase delirium, respiratory depression, and falls, so I should minimize narcotics and prioritize regional anesthesia and non-opioid strategies whenever feasible, documenting functional goals tied to pain control to justify escalation [^a86568a3] [^0d5d7649].
+> Hold on, let's not jump to conclusions about opioids; I should double-check the balance of benefit and risk, especially in older adults. While opioids can be effective for breakthrough pain, they increase delirium, respiratory depression, and falls, so I should minimize narcotics and prioritize regional anesthesia and non-opioid strategies whenever feasible, documenting functional goals tied to pain control to justify escalation [^115Jeywp] [^111LpETA].
 
-> Next, I should review pulmonary hygiene and respiratory support, because preventing atelectasis and pneumonia is central. Incentive spirometry, cough coaching, and early mobilization are essential; in patients with flail or respiratory compromise, noninvasive ventilation can reduce intubation rates, and in ventilated patients with flail chest, lung-protective strategies with adequate PEEP are standard, with early extubation when feasible to reduce complications [^a6e3ad31] [^b0df100c].
+> Next, I should review pulmonary hygiene and respiratory support, because preventing atelectasis and pneumonia is central. Incentive spirometry, cough coaching, and early mobilization are essential; in patients with flail or respiratory compromise, noninvasive ventilation can reduce intubation rates, and in ventilated patients with flail chest, lung-protective strategies with adequate PEEP are standard, with early extubation when feasible to reduce complications [^115GRRH2] [^115XDkD9].
 
-> I will now examine indications for surgical stabilization of rib fractures, and I need to be precise here. Strong recommendations support SSRF for flail chest, particularly when failing nonoperative management or requiring ventilation, with benefits including reduced mortality, ventilator days, ICU and hospital length of stay, and pneumonia; SSRF is also reasonable for multiple severely displaced ribs, especially ribs 3–10, and for persistent pain or respiratory compromise despite optimized multimodal therapy, with timing ideally within 72 hours when feasible [^996382cd] [^593b89a4] [^5025ca6d] [^22ab9498] [^e6fea2cc].
+> I will now examine indications for surgical stabilization of rib fractures, and I need to be precise here. Strong recommendations support SSRF for flail chest, particularly when failing nonoperative management or requiring ventilation, with benefits including reduced mortality, ventilator days, ICU and hospital length of stay, and pneumonia; SSRF is also reasonable for multiple severely displaced ribs, especially ribs 3–10, and for persistent pain or respiratory compromise despite optimized multimodal therapy, with timing ideally within 72 hours when feasible [^114vQXkG] [^113HHty9] [^1133phmW] [^111tQDEo] [^116uTgXM].
 
-> But wait, what if the patient has non-flail multiple rib fractures without severe displacement; should I still operate? The evidence is weaker here, and guidelines advise individualized decisions based on pain refractory to maximal therapy, functional impairment, and center expertise; I should confirm that nonoperative optimization has been exhausted and that the local team has experience with SSRF before proceeding, recognizing that some contemporary studies suggest potential benefits even outside classic flail indications, though high-quality RCT data remain limited [^51229b46] [^366d7af6] [^31f11537].
+> But wait, what if the patient has non-flail multiple rib fractures without severe displacement; should I still operate? The evidence is weaker here, and guidelines advise individualized decisions based on pain refractory to maximal therapy, functional impairment, and center expertise; I should confirm that nonoperative optimization has been exhausted and that the local team has experience with SSRF before proceeding, recognizing that some contemporary studies suggest potential benefits even outside classic flail indications, though high-quality RCT data remain limited [^1135Hd1w] [^112Ph74q] [^112H3NUv].
 
-> Let me consider special populations, especially older adults, because age modifies risk and thresholds for intervention. Patients over 65 have 2–5 fold higher mortality and complication rates, so I should have a lower threshold for ICU admission, regional anesthesia, and early SSRF when indicated; frailty assessment can refine risk, and geriatric co-management helps address comorbidities and rehabilitation needs, with some centers admitting patients aged 65 or older with three or more ribs directly to the ICU as part of a bundled protocol [^1b1337b2] [^4e9bd361] [^9d5f09c3] [^62f799e7].
+> Let me consider special populations, especially older adults, because age modifies risk and thresholds for intervention. Patients over 65 have 2–5 fold higher mortality and complication rates, so I should have a lower threshold for ICU admission, regional anesthesia, and early SSRF when indicated; frailty assessment can refine risk, and geriatric co-management helps address comorbidities and rehabilitation needs, with some centers admitting patients aged 65 or older with three or more ribs directly to the ICU as part of a bundled protocol [^111h97zq] [^1131YNiC] [^1152Jyjg] [^113XixH4].
 
-> I should confirm disposition criteria and follow-up, and I need to check whether FVC-guided pathways are safe in the ED. An FVC threshold around 1500 mL, in the absence of hemothorax, pneumothorax, or bilateral fractures, has been associated with safe discharge when combined with adequate analgesia and reliable follow-up, though adherence to measuring FVC can be challenging and pain control remains the most common reason for return, so I must ensure a robust pain plan and clear return precautions before discharge [^89e2bb74] [^26b3415b] [^6807248a].
+> I should confirm disposition criteria and follow-up, and I need to check whether FVC-guided pathways are safe in the ED. An FVC threshold around 1500 mL, in the absence of hemothorax, pneumothorax, or bilateral fractures, has been associated with safe discharge when combined with adequate analgesia and reliable follow-up, though adherence to measuring FVC can be challenging and pain control remains the most common reason for return, so I must ensure a robust pain plan and clear return precautions before discharge [^114XRTi3] [^111zNjtE] [^113fE7Tf].
 
-> Next, I should review postoperative care after SSRF to avoid preventable complications. Early mobilization, aggressive pulmonary hygiene with scheduled incentive spirometry and cough support, and multimodal analgesia with scheduled non-narcotics and regional techniques are recommended; follow-up chest radiography at 1–2 weeks and assessment for hardware issues or infection are standard, and patients should be counseled on activity restrictions and pain expectations during recovery [^d4e743f8] [^9296fbea] [^9a6469b7].
+> Next, I should review postoperative care after SSRF to avoid preventable complications. Early mobilization, aggressive pulmonary hygiene with scheduled incentive spirometry and cough support, and multimodal analgesia with scheduled non-narcotics and regional techniques are recommended; follow-up chest radiography at 1–2 weeks and assessment for hardware issues or infection are standard, and patients should be counseled on activity restrictions and pain expectations during recovery [^116Se4AB] [^114kKuYu] [^114wtpbp].
 
-> Let me synthesize a practical algorithm without oversimplifying. High-risk features such as flail chest, three or more ribs with severe displacement, respiratory compromise, or age over 65 with multiple ribs push toward ICU-level care, early regional anesthesia, and consideration of SSRF; intermediate-risk patients warrant admission with multimodal analgesia and close respiratory monitoring; low-risk patients with one or two non-displaced ribs, good pain control, and no pneumothorax or hemothorax may be discharged with strict return precautions and analgesic follow-up, recognizing that local protocols and patient reliability should guide final disposition [^8ddf6601] [^a86568a3] [^89e2bb74].
+> Let me synthesize a practical algorithm without oversimplifying. High-risk features such as flail chest, three or more ribs with severe displacement, respiratory compromise, or age over 65 with multiple ribs push toward ICU-level care, early regional anesthesia, and consideration of SSRF; intermediate-risk patients warrant admission with multimodal analgesia and close respiratory monitoring; low-risk patients with one or two non-displaced ribs, good pain control, and no pneumothorax or hemothorax may be discharged with strict return precautions and analgesic follow-up, recognizing that local protocols and patient reliability should guide final disposition [^114dLHtU] [^115Jeywp] [^114XRTi3].
 
-> Finally, I should double-check that my approach aligns with evidence-based practices shown to improve outcomes. Adherence to neuraxial blockade in older adults with multiple ribs, SSRF for flail chest, ICU admission for high-risk patients, and tube thoracostomy for pneumothorax or hemothorax are associated with reduced mortality, yet real-world adherence remains modest; implementing standardized protocols and multidisciplinary pathways can mitigate this gap and translate evidence into better patient outcomes [^ebddc288].
+> Finally, I should double-check that my approach aligns with evidence-based practices shown to improve outcomes. Adherence to neuraxial blockade in older adults with multiple ribs, SSRF for flail chest, ICU admission for high-risk patients, and tube thoracostomy for pneumothorax or hemothorax are associated with reduced mortality, yet real-world adherence remains modest; implementing standardized protocols and multidisciplinary pathways can mitigate this gap and translate evidence into better patient outcomes [^1172gaTR].
 
 ---
 
-Rib fractures are managed with a **multidisciplinary, protocolized approach** that prioritizes **pain control**, **pulmonary hygiene**, and **early mobilization** to prevent complications [^51519c06] [^a86568a3]. Most patients are managed nonoperatively with **multimodal analgesia** (acetaminophen, NSAIDs, regional anesthesia) and aggressive respiratory therapy; **surgical stabilization** is reserved for flail chest, severe displacement, or failure of nonoperative care [^a86568a3] [^5025ca6d]. Early regional anesthesia (epidural or paravertebral) reduces pain, improves ventilation, and lowers pneumonia risk, especially in older adults or those with multiple fractures [^a86568a3] [^11c4e26e]. Patients with ≥ 3 ribs, age ≥ 65, or cardiopulmonary disease should be admitted for monitoring and escalated care; discharge is appropriate only with adequate pain control, no respiratory compromise, and reliable follow-up [^0d5d7649] [^89e2bb74]. Chronic pain or nonunion may require surgical fixation or pain clinic referral [^c7edfcad] [^7b560608].
+Rib fractures are managed with a **multidisciplinary, protocolized approach** that prioritizes **pain control**, **pulmonary hygiene**, and **early mobilization** to prevent complications [^1135ZQi1] [^115Jeywp]. Most patients are managed nonoperatively with **multimodal analgesia** (acetaminophen, NSAIDs, regional anesthesia) and aggressive respiratory therapy; **surgical stabilization** is reserved for flail chest, severe displacement, or failure of nonoperative care [^115Jeywp] [^1133phmW]. Early regional anesthesia (epidural or paravertebral) reduces pain, improves ventilation, and lowers pneumonia risk, especially in older adults or those with multiple fractures [^115Jeywp] [^111TLvQm]. Patients with ≥ 3 ribs, age ≥ 65, or cardiopulmonary disease should be admitted for monitoring and escalated care; discharge is appropriate only with adequate pain control, no respiratory compromise, and reliable follow-up [^111LpETA] [^114XRTi3]. Chronic pain or nonunion may require surgical fixation or pain clinic referral [^1167QUSY] [^1149rNY7].
 
 ---
 
 ## Initial assessment and risk stratification
 
 - **Airway, breathing, circulation (ABC)**: Stabilize life threats first [^notfound].
-- **Number and pattern of fractures**: ≥ 3 ribs, flail chest, bilateral fractures, or first rib fractures indicate higher risk [^32c52c90] [^c7aec80c].
-- **Patient factors**: Age ≥ 65, cardiopulmonary disease, and frailty increase morbidity and mortality [^1b1337b2] [^4e9bd361] [^9d5f09c3].
-- **Associated injuries**: Pneumothorax, hemothorax, pulmonary contusion, and head/abdominal injuries are common and worsen outcomes [^90a44517] [^32c52c90].
+- **Number and pattern of fractures**: ≥ 3 ribs, flail chest, bilateral fractures, or first rib fractures indicate higher risk [^112JGcMM] [^11673F6b].
+- **Patient factors**: Age ≥ 65, cardiopulmonary disease, and frailty increase morbidity and mortality [^111h97zq] [^1131YNiC] [^1152Jyjg].
+- **Associated injuries**: Pneumothorax, hemothorax, pulmonary contusion, and head/abdominal injuries are common and worsen outcomes [^114hSPpJ] [^112JGcMM].
 
 ---
 
 ## Imaging and diagnostic evaluation
 
-- **Chest radiograph**: First-line to detect fractures and complications (pneumothorax, hemothorax) [^5a4e13b8].
-- **Chest CT**: Gold standard for detailed fracture mapping, displacement, and internal organ injury; guides SSRF decisions [^37babcc5] [^d41e8030].
+- **Chest radiograph**: First-line to detect fractures and complications (pneumothorax, hemothorax) [^113Jt7Rh].
+- **Chest CT**: Gold standard for detailed fracture mapping, displacement, and internal organ injury; guides SSRF decisions [^112Rd3SL] [^116RUcwq].
 - **Ultrasound**: Useful for bedside detection of pneumothorax/hemothorax and pleural effusions [^notfound].
 
 ---
 
 ## Pain management
 
-Pain control is critical to enable breathing and prevent **atelectasis and pneumonia** [^0d5d7649].
+Pain control is critical to enable breathing and prevent **atelectasis and pneumonia** [^111LpETA].
 
 | **Analgesic modality** | **Indications** | **Benefits** | **Limitations** |
 |-|-|-|-|
@@ -80,7 +80,7 @@ Pain control is critical to enable breathing and prevent **atelectasis and pneum
 ## Respiratory management
 
 - **Incentive spirometry**: Encourage 10–15 reps every 1–2 hours while awake [^notfound].
-- **Coughing and deep breathing**: Essential to prevent atelectasis and pneumonia [^d4e743f8].
+- **Coughing and deep breathing**: Essential to prevent atelectasis and pneumonia [^116Se4AB].
 - **Non-invasive ventilation**: Consider for flail chest or respiratory compromise to reduce intubation risk [^notfound].
 - **Mechanical ventilation**: Use lung-protective strategies for flail chest or respiratory failure [^notfound].
 
@@ -88,61 +88,61 @@ Pain control is critical to enable breathing and prevent **atelectasis and pneum
 
 ## Indications for surgical stabilization (SSRF)
 
-SSRF is indicated for select patients after **nonoperative optimization** [^5025ca6d]:
+SSRF is indicated for select patients after **nonoperative optimization** [^1133phmW]:
 
-- **Flail chest**: Especially with respiratory compromise or failure to wean from ventilation [^996382cd] [^593b89a4].
-- **Severe displacement**: Multiple, severely displaced ribs (≥ 3) with impaired mechanics [^5025ca6d] [^593b89a4].
-- **Failure of nonoperative care**: Persistent pain or respiratory compromise despite maximal therapy [^f999b6d1] [^81479250].
-- **Chronic nonunion**: Disabling pain refractory to conservative care [^c7edfcad] [^7b560608].
+- **Flail chest**: Especially with respiratory compromise or failure to wean from ventilation [^114vQXkG] [^113HHty9].
+- **Severe displacement**: Multiple, severely displaced ribs (≥ 3) with impaired mechanics [^1133phmW] [^113HHty9].
+- **Failure of nonoperative care**: Persistent pain or respiratory compromise despite maximal therapy [^117P3YmE] [^114JfSgP].
+- **Chronic nonunion**: Disabling pain refractory to conservative care [^1167QUSY] [^1149rNY7].
 
 ---
 
 ## Timing of surgery
 
-Early fixation within **48–72 hours** reduces ventilator days, ICU stay, pneumonia, and mortality; delayed fixation (> 7 days) is less beneficial and may increase complications [^22ab9498] [^702ed1cb].
+Early fixation within **48–72 hours** reduces ventilator days, ICU stay, pneumonia, and mortality; delayed fixation (> 7 days) is less beneficial and may increase complications [^111tQDEo] [^113sKLgS].
 
 ---
 
 ## Postoperative care and rehabilitation
 
-Postoperative care emphasizes **multimodal analgesia**, aggressive pulmonary hygiene, and early mobilization; physical therapy restores chest wall mechanics and function, and follow-up should monitor for infection, hardware failure, and nonunion [^9296fbea] [^3dd456e1] [^9a6469b7].
+Postoperative care emphasizes **multimodal analgesia**, aggressive pulmonary hygiene, and early mobilization; physical therapy restores chest wall mechanics and function, and follow-up should monitor for infection, hardware failure, and nonunion [^114kKuYu] [^112afZtt] [^114wtpbp].
 
 ---
 
 ## Complications and outcomes
 
-- **Pulmonary complications**: Pneumonia, atelectasis, respiratory failure are common, especially in elderly or multiple fractures [^1b1337b2] [^4e9bd361].
+- **Pulmonary complications**: Pneumonia, atelectasis, respiratory failure are common, especially in elderly or multiple fractures [^111h97zq] [^1131YNiC].
 - **Chronic pain**: Occurs in ~20–50% and may require SSRF or pain clinic referral [^notfound].
-- **Nonunion**: Rare but may cause persistent pain and disability; consider SSRF [^c7edfcad] [^7b560608].
-- **Mortality**: Increases with age, number of ribs, and cardiopulmonary disease; early, protocolized care reduces mortality [^1b1337b2] [^32c52c90] [^ebddc288].
+- **Nonunion**: Rare but may cause persistent pain and disability; consider SSRF [^1167QUSY] [^1149rNY7].
+- **Mortality**: Increases with age, number of ribs, and cardiopulmonary disease; early, protocolized care reduces mortality [^111h97zq] [^112JGcMM] [^1172gaTR].
 
 ---
 
 ## Special considerations
 
-In older adults, **mortality and complications are higher**; use lower thresholds for admission, regional anesthesia, and SSRF [^1b1337b2] [^4e9bd361]. In pediatric patients, conservative management is preferred due to high healing potential; SSRF is rarely indicated. For patients with multiple trauma, coordinate with other teams and tailor analgesia to injuries and hemodynamics [^a86568a3].
+In older adults, **mortality and complications are higher**; use lower thresholds for admission, regional anesthesia, and SSRF [^111h97zq] [^1131YNiC]. In pediatric patients, conservative management is preferred due to high healing potential; SSRF is rarely indicated. For patients with multiple trauma, coordinate with other teams and tailor analgesia to injuries and hemodynamics [^115Jeywp].
 
 ---
 
 ## Follow-up and discharge planning
 
-Discharge is appropriate when pain is controlled, there is no respiratory compromise, and reliable follow-up is assured; arrange **primary care or trauma follow-up** in 1–2 weeks, provide incentive spirometry and activity guidance, and counsel on red flags (dyspnea, fever, worsening pain) [^89e2bb74] [^9a6469b7].
+Discharge is appropriate when pain is controlled, there is no respiratory compromise, and reliable follow-up is assured; arrange **primary care or trauma follow-up** in 1–2 weeks, provide incentive spirometry and activity guidance, and counsel on red flags (dyspnea, fever, worsening pain) [^114XRTi3] [^114wtpbp].
 
 ---
 
-A structured approach to rib fractures — with **risk stratification**, **multimodal analgesia**, **respiratory care**, and **selective SSRF** — improves outcomes. Early regional anesthesia and protocolized care are key, especially in older adults or those with multiple fractures [^51519c06] [^a86568a3].
+A structured approach to rib fractures — with **risk stratification**, **multimodal analgesia**, **respiratory care**, and **selective SSRF** — improves outcomes. Early regional anesthesia and protocolized care are key, especially in older adults or those with multiple fractures [^1135ZQi1] [^115Jeywp].
 
 ---
 
 ## References
 
-### Western Trauma Association critical decisions in trauma: management of rib fractures [^3f2d4dbb]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
+### Western Trauma Association critical decisions in trauma: management of rib fractures [^112cfSLi]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
 
 This is a recommended management algorithm from the Western Trauma Association addressing the management of adult patients with rib fractures. Because there is a paucity of published prospective randomized clinical trials that have generated Class I data, these recommendations are based primarily on published observational studies and expert opinion of Western Trauma Association members. The algorithm and accompanying comments represent a safe and sensible approach that can be followed at most trauma centers. We recognize that there will be patient, personnel, institutional, and situational factors that may warrant or require deviation from the recommended algorithm. We encourage institutions to use this as a guideline to develop their own local protocols.
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^0f84b7ab]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^111Q1Pmk]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Background
 
@@ -150,7 +150,7 @@ Blunt mechanism accounts for the majority of trauma in most centers and for > 15
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^51519c06]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^1135ZQi1]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Summary
 
@@ -158,7 +158,7 @@ Rib fractures are important indicators of injury severity, and patients with mul
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^89e2bb74]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^114XRTi3]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 The blunt trauma patient with rib fractures can present with few or no respiratory symptoms, but within 48–72 hours associated respiratory complications can develop. A CPG enables physicians to use an accepted algorithmic approach to patient care. That model can then be used to place patients into risk categories of a prespecified outcome. Current CPGs and prognostic models that exist for blunt chest trauma are mostly intended for use in patients with multiple injuries. It remains a difficult task to determine the appropriateness of discharging a patient with non-life-threatening blunt chest trauma with rib fractures.
 
@@ -169,7 +169,7 @@ Clinical practice guideline for rib fracture algorithm — emergency department 
 
 ---
 
-### Best available outcomes evidence informing standard of care [^31f11537]. Journal of Orthopaedic Trauma (2024). Medium credibility.
+### Best available outcomes evidence informing standard of care [^112H3NUv]. Journal of Orthopaedic Trauma (2024). Medium credibility.
 
 Summary
 
@@ -177,31 +177,31 @@ Although nonoperative management is the mainstay for rib fracture treatment, sur
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^c7edfcad]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^1167QUSY]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to management of nonunion, RFC 2017 guidelines recommend to perform surgical repair in patients with chronic nonunion experiencing disabling pain refractory to conservative treatment, with thoughtful management of patient expectations.
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^b0582b87]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^115WSSHk]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Rib fractures are common among patients sustaining blunt trauma, and are markers of severe bodily and solid organ injury. They are associated with high morbidity and mortality, including multiple pulmonary complications, and can lead to chronic pain and disability. Clinical and radiographic scoring systems have been developed at several institutions to predict risk of complications. Clinical strategies to reduce morbidity have been studied, including multimodal pain management, catheter-based analgesia, pulmonary hygiene, and operative stabilization. In this article, we review risk factors for morbidity and complications, intervention strategies, and discuss experience with bundled clinical pathways for rib fractures. In addition, we introduce the multidisciplinary rib fracture management protocol used at our level I trauma center.
 
 ---
 
-### New horizons in rib fracture management in the older adult [^1b1337b2]. Age and Ageing (2020). Medium credibility.
+### New horizons in rib fracture management in the older adult [^111h97zq]. Age and Ageing (2020). Medium credibility.
 
 Adults aged ≥ 60 years now represent the majority of patients presenting with major trauma. Falls are the most common cause of injury, accounting for nearly three-quarters of all traumas in this population. Trauma to the thorax represents the second most common site of injury in this population, and is often associated with other serious injuries. Mortality rates are 2–5 times higher in older adults compared to their younger counterparts, often despite equivalent injury severity scores. Risk scoring systems have been developed to identify rib fracture patients at high risk of deterioration. Overall mortality from rib fractures is high, at approximately 10% for all ages. Mortality and morbidity from rib fractures primarily derive from pain-induced hypoventilation, pneumonia and respiratory failure. The main goal of care is therefore to provide sufficient analgesia to allow respiratory rehabilitation and prevent pulmonary complications. The provision of analgesia has evolved to incorporate novel regional anaesthesia techniques into conventional multimodal analgesia. Analgesia algorithms may aid early aggressive management and escalation of pain control. The current role for surgical fixation of rib fractures remains unclear for older adults who have been underrepresented in the research literature. Older adults with rib fractures often have multi-morbidity and frailty which complicate their injuries. Trauma services are evolving, and increasingly geriatricians will be embedded into trauma services to deliver comprehensive geriatric assessment. This review aims to provide an evidence-based overview of the management of rib fractures for the physician treating older patients who have sustained trauma.
 
 ---
 
-### Perioperative considerations for patients undergoing surgical stabilization of rib fractures: a narrative review [^ff1ca357]. Journal of Clinical Anesthesia (2023). Medium credibility.
+### Perioperative considerations for patients undergoing surgical stabilization of rib fractures: a narrative review [^117XDTmx]. Journal of Clinical Anesthesia (2023). Medium credibility.
 
 Surgical stabilization of rib fractures (SSRF) has become an increasingly common management strategy for traumatic rib fractures. Although historically managed with supportive care, patients with multiple rib fractures and flail chest increasingly undergo SSRF, and so the anesthesiologist must be well-versed in the perioperative management and pain control for these patients, as controlling pain in this population is associated with decreased length of stay and improved outcomes. There are multiple modalities that can be used for both pain control and as part of the anesthetic plan in patients undergoing SSRF. This narrative review provides a comprehensive summary of anesthetic considerations for surgical rib fracture patients, covering the preoperative, intraoperative, and postoperative periods. We describe an approach to the assessment of high-risk patients, analgesic and anesthetic techniques including emerging techniques within locoregional anesthesia, ventilation strategies, and potential complications. This review also identifies areas where additional research is needed to ensure optimal anesthetic management for patients undergoing SSRF.
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^2bd5534b]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^1127z82n]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Evidence-based therapeutic interventions
 
@@ -213,7 +213,7 @@ Catheter-based analgesia, including epidural and paravertebral nerve catheters, 
 
 ---
 
-### Expert consensus guidance on respiratory physiotherapy and rehabilitation of patients with rib fractures: an international, multidisciplinary e-Delphi study [^dc89ff8a]. The Journal of Trauma and Acute Care Surgery (2023). Medium credibility.
+### Expert consensus guidance on respiratory physiotherapy and rehabilitation of patients with rib fractures: an international, multidisciplinary e-Delphi study [^116dxdRK]. The Journal of Trauma and Acute Care Surgery (2023). Medium credibility.
 
 The use of surgical stabilization of rib fractures (SSRF) for the treatment of blunt chest wall trauma, as well as supporting research, has increased exponentially over the last 10 years. The role of the physiotherapist in the management of this cohort, however, has not yet been fully investigated, other than one recent study that concluded that a specific physiotherapy protocol for patients undergoing SSRF appeared to be feasible and safe. They further reported a significant decrease in patient-perceived disability, improved shoulder strength, chest expansion, and spirometry compared with immediate postoperative levels.
 
@@ -221,7 +221,7 @@ As a result of this minimal evidence base, there is a lack of understanding acro
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^90a44517]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^114hSPpJ]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Introduction
 
@@ -231,19 +231,19 @@ Rib fractures occur in ∼9–10% of patients with trauma, and are markers of se
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^04c8ba59]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^11186Nd6]. Injury (2017). Medium credibility.
 
 Regarding quality improvement for rib fracture, more specifically with respect to policies and protocols, RFC 2017 guidelines recommend to trauma centers managing patients with rib fracture should possess a standardized rib fracture protocol.
 
 ---
 
-### ACR appropriateness criteriaRib fractures [^5a4e13b8]. Journal of the American College of Radiology (2019). Medium credibility.
+### ACR appropriateness criteriaRib fractures [^113Jt7Rh]. Journal of the American College of Radiology (2019). Medium credibility.
 
 Rib fractures are the most common thoracic injury after minor blunt trauma. Although rib fractures can produce significant morbidity, the diagnosis of injuries to underlying organs is arguably more important as these complications are likely to have the most significant clinical impact. Isolated rib fractures have a relatively low morbidity and mortality and treatment is generally conservative. As such, evaluation with standard chest radiographs is usually sufficient for the diagnosis of rib fractures, and further imaging is generally not appropriate as there is little data that undiagnosed isolated rib fractures after minor blunt trauma affect management or outcomes. Cardiopulmonary resuscitation frequently results in anterior rib fractures and chest radiographs are usually appropriate (and sufficient) as the initial imaging modality in these patients. In patients with suspected pathologic fractures, chest CT or Tc-99m bone scans are usually appropriate and complementary modalities to chest radiography based on the clinical scenario. The American College of Radiology Appropriateness Criteria are evidence-based guidelines for specific clinical conditions that are reviewed annually by a multidisciplinary expert panel. The guideline development and revision include an extensive analysis of current medical literature from peer reviewed journals and the application of well-established methodologies (RAND/UCLA Appropriateness Method and Grading of Recommendations Assessment, Development, and Evaluation or GRADE) to rate the appropriateness of imaging and treatment procedures for specific clinical scenarios. In those instances where evidence is lacking or equivocal, expert opinion may supplement the available evidence to recommend imaging or treatment.
 
 ---
 
-### Contemporary management of patients with multiple rib fractures: what you need to know [^8ddf6601]. The Journal of Trauma and Acute Care Surgery (2024). Medium credibility.
+### Contemporary management of patients with multiple rib fractures: what you need to know [^114dLHtU]. The Journal of Trauma and Acute Care Surgery (2024). Medium credibility.
 
 Abstract
 
@@ -251,7 +251,7 @@ Ten percent of all injured patients and 55% of patients with blunt chest trauma 
 
 ---
 
-### Pain management for hospitalized patients with rib fractures: a systematic review of randomized clinical trials [^11c4e26e]. Journal of Clinical Anesthesia (2024). Medium credibility.
+### Pain management for hospitalized patients with rib fractures: a systematic review of randomized clinical trials [^111TLvQm]. Journal of Clinical Anesthesia (2024). Medium credibility.
 
 Study Objective
 
@@ -271,19 +271,19 @@ This systematic review found that studies are of low quality with diverse method
 
 ---
 
-### Rib fixation: who, what, when? [^eb2eed1e]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Rib fixation: who, what, when? [^1171frRT]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Rib fractures are among the most common traumatic injury found in ∼20% of all patients who suffer thoracic trauma. The majority of these are a result of a blunt mechanism and are often associated with other traumatic injuries. The most common associated injury is lung contusion. Rib fractures impart an increased morbidity and mortality with the highest mortality associated with a flail chest in the elderly population. Flail chest is defined radiographically as 3 or more consecutive ribs fractured in 2 or more places. This often translates to a clinical flail which is associated with paradoxical chest wall movement during respiratory cycles. The mainstay of treatment has been pain control and respiratory support with positive pressure ventilation. However, over the past 2 decades, there has been mounting evidence to suggest that open reduction and internal fixation of ribs benefits patients. The indications remain confined to the most severely injured patients with flail chest or chronic non-unions; however, there remains debate whether or not less severely injured patients would benefit as well. This article will review the current evidence and provide proposed indications based on available evidence and current expert opinion.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^cf1d3e6d]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^116J4G3v]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to management of nonunion, RFC 2017 guidelines recommend to offer modification of risk factors at the time of fracture to decrease the risk of chronic nonunion.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^5025ca6d]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^1133phmW]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, RFC 2017 guidelines recommend to consider performing SSRF in patients:
 
@@ -295,13 +295,13 @@ Regarding surgical interventions for rib fracture, more specifically with respec
 
 ---
 
-### Prognostic factors for outcomes following surgical stabilization of rib fractures: a review of the literature [^78687ceb]. Injury (2024). Medium credibility.
+### Prognostic factors for outcomes following surgical stabilization of rib fractures: a review of the literature [^1145WcQa]. Injury (2024). Medium credibility.
 
 Rib fractures are a common injury following blunt thoracic trauma, often resulting in high levels of morbidity and mortality. With the ageing global population, the incidence of rib fractures is expected to increase, posing a significant burden on healthcare systems worldwide. With advancements in surgical techniques and pioneering research on the topic the use of surgical stabilisation of rib fractures (SSRF) has increased significantly over the past two decades. However, the relationship between certain prognostic factors and patient outcomes following surgery is still contested and there lacks a consensus on definitive indications for the operation. This literature review presents the current research on SSRF outcomes for; patients with flail chest injuries and multiple-non flail rib fractures, optimal timing between injury and operation, and patient age. This article contributes to the ongoing dialogue surrounding chest wall trauma management and may be drawn upon to aid future research and develop clinical practice guidelines.
 
 ---
 
-### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^d41e8030]. World Journal of Emergency Surgery (2024). Medium credibility.
+### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^116RUcwq]. World Journal of Emergency Surgery (2024). Medium credibility.
 
 Background
 
@@ -321,7 +321,7 @@ This consensus document addresses the key focus questions on surgical treatment 
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^387ed7a2]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^112SkusP]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Discussion
 
@@ -331,7 +331,7 @@ This CPG is composed of three components: early measurement of FVC, early identi
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^a7be8c3f]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^115HgwEW]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 This study found that the most common reason for return was inadequate pain control. Due to the current opioid epidemic, there is likely hesitancy among providers to prescribe large amounts of opioid medications for pain control in any patient populations including patients with rib fracture. Including a pain control protocol in our CPG may increase provider comfort with prescribing appropriate amounts of opiates or alternatives to patients with rib fractures and further reduce return visits to the ED.
 
@@ -339,7 +339,7 @@ Pain control in patients with rib fracture has been shown to improve pulmonary f
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^217b87d0]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^111re5sM]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 In addition, there was no significant difference in postoperative pulmonary complications on the EAST guidelines' meta-analysis. In pooled data, they found that epidural analgesia was associated with lower pain scores at 24 and 48 hours, but not at 72 hours; in addition, epidural was associated with fewer ventilator days albeit higher odds of requiring mechanical ventilation, shorter ICU LOS, and no reduction in overall hospital LOS. Overall, there was limited data from randomized controlled trials, variable study quality, and heterogeneous data. The authors note that specific populations may derive greater benefit.
 
@@ -351,7 +351,7 @@ A previous EAST Practice Management Guidelines Work Group published pain managem
 
 ---
 
-### To fix or let them flail: the who, what and when of rib fixation [^395c6fdb]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### To fix or let them flail: the who, what and when of rib fixation [^112U3Lt2]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Conclusion
 
@@ -359,7 +359,7 @@ Rib fractures are a common traumatic injury and are associated with high morbidi
 
 ---
 
-### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^52408f7e]. World Journal of Emergency Surgery (2024). Medium credibility.
+### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^1136wfrD]. World Journal of Emergency Surgery (2024). Medium credibility.
 
 Conclusion
 
@@ -367,31 +367,31 @@ This position paper provides a comprehensive overview of SSRF to address crucial
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^14f6a8b3]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^111Y5bwY]. Injury (2017). Medium credibility.
 
 Regarding quality improvement for rib fracture, more specifically with respect to policies and protocols, RFC 2017 guidelines recommend to insufficient evidence to support regionalization of surgical centers for the management of rib fractures, unless mandated by local policy.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^996382cd]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^114vQXkG]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in all hemodynamically stable patients presenting with a flail chest.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^3dd456e1]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^112afZtt]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to postoperative care, RFC 2017 guidelines recommend to encourage patients undergone SSRF to ambulate and be out of bed in a chair for most of the day as soon as possible. Offer physical and occupational therapy to ensure these measures are met and track the patient's progress.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^593b89a4]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^113HHty9]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in patients with multiple (≥ 3) rib fractures (ribs 3rd to 10th) if they are ipsilateral and severely displaced, and/or if there is a poor response to or impossibility to wean from mechanical ventilation.
 
 ---
 
-### Acute pain management of rib fractures: a narrative review [^3600733d]. Injury (2025). Medium credibility.
+### Acute pain management of rib fractures: a narrative review [^112P4UzG]. Injury (2025). Medium credibility.
 
 Background
 
@@ -415,7 +415,7 @@ Multimodal analgesia - combining pharmacologic, non-pharmacologic and regional a
 
 ---
 
-### Surgical rib fixation of multiple rib fractures and flail chest: a systematic review and meta-analysis [^22ab9498]. The Journal of Surgical Research (2022). Medium credibility.
+### Surgical rib fixation of multiple rib fractures and flail chest: a systematic review and meta-analysis [^111tQDEo]. The Journal of Surgical Research (2022). Medium credibility.
 
 Background
 
@@ -435,7 +435,7 @@ Surgical fixation of flail and multiple rib fractures is associated with a reduc
 
 ---
 
-### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^4554a7cd]. World Journal of Emergency Surgery (2024). Medium credibility.
+### Surgical stabilization of rib fractures (SSRF): the WSES and CWIS position paper [^112mnafe]. World Journal of Emergency Surgery (2024). Medium credibility.
 
 Project rationale and design
 
@@ -447,7 +447,7 @@ These guidelines are evidence-based, with the grades of recommendation based on 
 
 ---
 
-### Surgical management versus non-surgical management of rib fractures in chest trauma: a systematic review and meta-analysis [^22fb9d67]. Journal of Cardiothoracic Surgery (2019). Medium credibility.
+### Surgical management versus non-surgical management of rib fractures in chest trauma: a systematic review and meta-analysis [^111ts6SA]. Journal of Cardiothoracic Surgery (2019). Medium credibility.
 
 Key question
 
@@ -455,37 +455,37 @@ Compare and analyse the recovery rate and rate of complications of rib fractures
 
 ---
 
-### Best practices guidelines for acute pain management in trauma patients [^a86568a3]. ACS (2020). High credibility.
+### Best practices guidelines for acute pain management in trauma patients [^115Jeywp]. ACS (2020). High credibility.
 
 Rib fracture pain management — Management of rib fracture pain requires a multimodal approach; begin scheduled acetaminophen and NSAIDS as soon as possible. If a regional block is likely, select a COX-2 inhibitor to avoid platelet inhibition. Muscle relaxants, if not contraindicated, may help relieve chest wall muscle spasm, and evidence suggests they reduce length of stay and respiratory complications in rib fracture patients. Consider the early use of regional analgesia to avoid the potential complications of opioids. An epidural is preferred for treatment of patients with bilateral rib fractures, but paravertebral blocks can be used when an epidural is contraindicated. Intercostal blocks with liposomal bupivacaine are another option when patients may have contraindications to paravertebral or epidural blocks such as coagulopathy or spine fractures. The addition of opioids begins with oral administration and may include breakthrough rescue doses of intermittent IV opioids with escalation to a PCA if multiple rescue IV doses are required. For continued rib pain, consider operative rib fixation.
 
 ---
 
-### Thoracic trauma [^4478ccd1]. The Surgical Clinics of North America (2017). Low credibility.
+### Thoracic trauma [^112kWjYC]. The Surgical Clinics of North America (2017). Low credibility.
 
 Management of chest trauma is integral to patient outcomes owing to the vital structures held within the thoracic cavity. Understanding traumatic chest injuries and appropriate management plays a pivotal role in the overall well-being of both blunt and penetrating trauma patients. Whether the injury includes rib fractures, associated pulmonary injuries, or tracheobronchial tree injuries, every facet of management may impact the short- and long-term outcomes, including mortality. This article elucidates the workup and management of the thoracic cage, pulmonary and tracheobronchial injuries.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^65a8f68b]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^113biW8S]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, AAST/WSES 2025 guidelines recommend to recognize that advanced age, significant cardiopulmonary comorbidities, active malignancy, or other terminal illnesses represent relative contraindications to SSRFs; a case-by-case evaluation is mandatory.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^17fea004]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^111caEyh]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to obtain a careful evaluation of the risk/benefit ratio before SSRFs in patients with empyema or prior chest radiation.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^1104f982]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^111SEThs]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to place a chest tube if the pleural cavity is open at the time of rib fracture surgical stabilization.
 
 ---
 
-### A meta-analysis and trial sequential analysis of randomised controlled trials comparing nonoperative and operative management of chest trauma with multiple rib fractures [^ec652ea0]. World Journal of Emergency Surgery (2024). Medium credibility.
+### A meta-analysis and trial sequential analysis of randomised controlled trials comparing nonoperative and operative management of chest trauma with multiple rib fractures [^1173U4hD]. World Journal of Emergency Surgery (2024). Medium credibility.
 
 Rating certainty of evidence with the grading of recommendations assessment, development, and evaluation (GRADE) approach
 
@@ -493,7 +493,7 @@ The risks of systematic errors (bias) and random errors were assessed, and the o
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^32c52c90]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^112JGcMM]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 The number of rib fractures sustained correlates with mortality and complication risk in multiple studies. In the 1994–2003 NTDB study described above, patients with single rib fractures had 5.8% mortality, 5 fractured ribs conferred 10% mortality, 6 with 11.4%, 7 with 15%, and 8 or more with 34.4% mortality. Likewise, additional rib fractures were associated with increased risk of death, pneumonia, ARDS, pneumothorax, aspiration pneumonia, empyema, intensive care unit (ICU) length of stay (LOS), and hospital LOS. The level II trauma center study reported 5% mortality among patients with 1–2 ribs fractured, and 29% mortality among those with 7 or more fractures; 52% of their rib fracture patients overall required ICU-level care; additionally, number of rib fractures correlated with mortality, hypotension, and Injury Severity Score (ISS). However, a study from the NTDB showed that number of fractures correlated with mortality on univariate but not multivariable analyses; and a study of 594 patients from one institution found that number of rib fractures was not associated with mortality. However, a meta-analysis showed that higher numbers of rib fractures was associated with mortality, with a combined odds ratio (OR) of 2.02 (95% CI 1.89 to 2.15) for death among patients with three or more rib fractures compared with those with fewer rib fractures.
 
@@ -501,13 +501,13 @@ Rib fracture location and pattern is clinically important. Presence of bilateral
 
 ---
 
-### Best practices guidelines for acute pain management in trauma patients [^0d5d7649]. ACS (2020). High credibility.
+### Best practices guidelines for acute pain management in trauma patients [^111LpETA]. ACS (2020). High credibility.
 
 Multimodal rib fracture pain management — listed components and risk stratification are provided. Recommended components include scheduled acetaminophen, scheduled NSAIDs, muscle relaxants (if not contraindicated), paravertebral block/epidural/intercostal block, consideration of a lidocaine patch if regional analgesia cannot be administered, oral opioids with breakthrough intermittent IV doses, and operative rib fixation. The text links poorly controlled pain and splinting to altered breathing mechanics, hypoventilation, and impaired gas exchange, and states that poorly controlled pain increases risk of pneumonia, acute respiratory distress syndrome, and respiratory failure. Patients who are older than 65 years, have three or more rib fractures, or with underlying cardiopulmonary disease are identified as at greatest risk of morbidity and mortality.
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^62f799e7]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^113XixH4]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Harborview Medical Center rib fracture management protocol
 
@@ -520,25 +520,25 @@ Harborview Medical Center rib fracture management protocol. ICU, intensive care 
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^0d0ab222]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^111LLS33]. Injury (2017). Medium credibility.
 
 Regarding quality improvement for rib fracture, more specifically with respect to policies and protocols, RFC 2017 guidelines recommend to hospitals managing patients with rib fractures should develop protocols for loco-regional pain control taking into account the role of SSRF.
 
 ---
 
-### Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit [^dd63dade]. Critical Care Medicine (2013). Medium credibility.
+### Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit [^116fDocR]. Critical Care Medicine (2013). Medium credibility.
 
 Regarding medical management for rib fracture, more specifically with respect to pain management (epidural analgesia), SCCM 2013 guidelines recommend to consider administering thoracic epidural analgesia in patients with traumatic rib fractures.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^f999b6d1]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^117P3YmE]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in cases of severe pain unresponsive to other treatments.
 
 ---
 
-### Chest wall injury society recommendation for surgical stabilization of nonunited rib fractures to decrease pain, reduce opiate use, and improve patient reported outcomes in patients with rib fracture nonunion after trauma [^7b560608]. The Journal of Trauma and Acute Care Surgery (2023). Medium credibility.
+### Chest wall injury society recommendation for surgical stabilization of nonunited rib fractures to decrease pain, reduce opiate use, and improve patient reported outcomes in patients with rib fracture nonunion after trauma [^1149rNY7]. The Journal of Trauma and Acute Care Surgery (2023). Medium credibility.
 
 Background
 
@@ -562,7 +562,7 @@ Therapeutic/Care Management; Level IV.
 
 ---
 
-### Rib fixation: who, what, when? [^4e543ef3]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Rib fixation: who, what, when? [^11318LDx]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Indications
 
@@ -607,19 +607,19 @@ Once a patient is identified preoperative, CT scan is helpful to plan the incisi
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^23e5eed8]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^111vDoKV]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, technical considerations, RFC 2017 guidelines recommend to do not offer repairment of ribs 1, 2, 11, and 12, as it does not confer additional benefit in terms of either chest wall stability or pain control. Consider repairing fractures of these ribs in highly selected patients with marked displacement, vascular impingement, or localized refractory pain.
 
 ---
 
-### Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline [^b0df100c]. The Journal of Trauma and Acute Care Surgery (2012). Medium credibility.
+### Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline [^115XDkD9]. The Journal of Trauma and Acute Care Surgery (2012). Medium credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, analgesics, EAST 2012 guidelines recommend to administer optimal analgesia to minimize the likelihood of respiratory failure and ensuing ventilatory support. Use epidural catheter as the preferred mode of analgesia delivery in patients with a severe flail chest injury.
 
 ---
 
-### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^6cb51409]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
+### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^113nAV8C]. The Journal of Trauma and Acute Care Surgery (2017). Low credibility.
 
 Background
 
@@ -643,37 +643,37 @@ Systematic review/meta-analysis, level III.
 
 ---
 
-### Clinical management of rib fractures and methods for prevention of pulmonary complications: a review [^a6e3ad31]. Injury (2019). Medium credibility.
+### Clinical management of rib fractures and methods for prevention of pulmonary complications: a review [^115GRRH2]. Injury (2019). Medium credibility.
 
 Rib fractures are common injuries associated with significant morbidity and mortality, largely due to pulmonary complications. Despite equivocal effectiveness data, incentive spirometers are widely utilized to reduce pulmonary complications in the postoperative setting. Few studies have evaluated the effectiveness of incentive spirometry after rib fracture. Multiple investigations have demonstrated incentive spirometry to be an important screening tool to identify high-risk rib fracture patients who could benefit from aggressive, multidisciplinary pulmonary complication prevention strategies. This review evaluates the epidemiology of rib fractures, their associated pulmonary complications, along with the evidence for optimizing their clinical management through the use of incentive spirometry, multimodal analgesia, and surgical fixation.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^8f26499d]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^114fE6Cc]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, RFC 2017 guidelines recommend to evaluate patients with pulmonary contusion or traumatic brain injury for SSRF on an individual case basis.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^02009266]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^1113yAhs]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in all hemodynamically stable patients presenting with a flail chest.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^27858dc2]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^1121bNpy]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, surgical stabilization, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in patients with multiple (≥ 3) rib fractures (ribs 3rd to 10th) if they are ipsilateral and severely displaced, and/or if there is a poor response to or impossibility to wean from mechanical ventilation.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^30d715d0]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^112FQej1]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding medical management for thoracic trauma, more specifically with respect to management of rib fractures, AAST/WSES 2025 guidelines recommend to repair significant chest wall defects with lung herniation or at risk of hernia development.
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^26b3415b]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^111zNjtE]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Background
 
@@ -701,7 +701,7 @@ Therapeutic.
 
 ---
 
-### Beyond guidelines: surgical stabilization of rib fractures in patients with chronic pain [^76e5ecf5]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Beyond guidelines: surgical stabilization of rib fractures in patients with chronic pain [^1143GmZn]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Discussion
 
@@ -713,7 +713,7 @@ This case reminds us that evolving clinical presentations necessitate continuous
 
 ---
 
-### To fix or let them flail: the who, what and when of rib fixation [^e6fea2cc]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### To fix or let them flail: the who, what and when of rib fixation [^116uTgXM]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Indications for SSRF: the 'WHO'
 
@@ -732,25 +732,25 @@ Patients exhibiting paradoxical chest wall movement secondary to FC leading to v
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^d4e743f8]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^116Se4AB]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to postoperative care, RFC 2017 guidelines recommend to implement an aggressive pulmonary toilet regimen, including encouragement of deep breathing, coughing, scheduled nebulizer treatments, incentive spirometry, and intermittent positive pressure.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^31240390]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^112FrVR9]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, AAST/WSES 2025 guidelines recommend to obtain a careful evaluation of the risk/benefit ratio before SSRFs in patients with empyema or prior chest radiation.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^131ed2c3]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^111VM7qk]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in patients with multiple (≥ 3) rib fractures (ribs 3rd to 10th) if they are ipsilateral and severely displaced, and/or if there is a poor response to or impossibility to wean from mechanical ventilation.
 
 ---
 
-### Rib fractures, the evidence supporting their management, and adherence to that evidence base… [^50628d8b]. JAMA Network (2020). Excellent credibility.
+### Rib fractures, the evidence supporting their management, and adherence to that evidence base… [^1134B7Wa]. JAMA Network (2020). Excellent credibility.
 
 However, from this juncture, given that trauma surgeons are wont to form strong but divergent opinions regarding management, the treatment courses vary. Is a chest computed tomographic scan necessary. Should the patient be admitted to an intensive care unit. Which form of analgesia is most appropriate. Should a thoracostomy tube be placed for a modest associated pneumothorax or hemothorax. Does noninvasive ventilation have a role. If there are multiple adjacent rib fractures, should the fractures be operatively stabilized. In their cohort study evaluating more than 625 000 patients with rib fractures at 777 US trauma centers in the National Trauma Data Bank from 2007 to 2014, Tignanelli et al1 waded into the complex but fundamentally central topics of how, from an empirical perspective, trauma surgeons actually manage these patients and how aligned this care is with the available evidence from comparative effectiveness studies.
 
@@ -760,37 +760,37 @@ An appraisal of the quality of evidence cited by Tignanelli et al1 suggests that
 
 ---
 
-### To fix or let them flail: the who, what and when of rib fixation [^db96859b]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### To fix or let them flail: the who, what and when of rib fixation [^116cYr7t]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Rib fractures occur in 10% of traumatic injuries and are a common source of morbidity and mortality. Mortality rates for rib fractures remain alarmingly high. Despite increasing literature in support of surgical stabilization of rib fracture (SSRF), acceptance and incorporation of SSRF as the standard of care has not occurred across trauma centers. This expert review highlights the 'who, what and when' of SSRF and argues for SSRF as the gold standard for the restoration of form and function following chest wall injury.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^6cc7c64c]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^113nGmMm]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, technical considerations, RFC 2017 guidelines recommend to repair rib fractures sequentially rather than in "every other" fashion.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^9296fbea]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^114kKuYu]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to postoperative care, RFC 2017 guidelines recommend to administer a scheduled pain regimen, including scheduled non-narcotic based analgesics, muscle relaxants, locoregional anesthesia, and manual splinting with a pillow, in patients after SSRF. Minimize the use of narcotics whenever possible.
 
 ---
 
-### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^a5d34bfe]. Trauma Surgery & Acute Care Open (2023). High credibility.
+### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^115Eqvtm]. Trauma Surgery & Acute Care Open (2023). High credibility.
 
 Regarding medical management for rib fracture, more specifically with respect to pain management (NSAIDs), AOTA/EAST 2023 guidelines recommend to consider administering NSAIDs (such as ketorolac) for pain management in adult patients with a traumatic fracture.
 
 ---
 
-### Blunt chest trauma in the elderly: an expert practice review [^c594d60b]. Emergency Medicine Journal (2020). Medium credibility.
+### Blunt chest trauma in the elderly: an expert practice review [^1163vZ5U]. Emergency Medicine Journal (2020). Medium credibility.
 
 Trauma in the elderly (> 65 years) is an increasingly common presentation to the ED. A fall from standing height is the most common mechanism after which such patients present, and rib fracture is the most common non-spinal fracture. Thoracic injury in patients aged over 65 is associated with significant morbidity and mortality. There are currently no universally applied guidelines for assessment, investigation and management of such patients. In this expert practice review, we discuss the evidence base and options for clinical management in this vulnerable patient group.
 
 ---
 
-### Surgical stabilization of rib fractures improves survival in functionally dependent trauma patients [^5cbfa6d2]. World Journal of Emergency Surgery (2025). Medium credibility.
+### Surgical stabilization of rib fractures improves survival in functionally dependent trauma patients [^113NWEbs]. World Journal of Emergency Surgery (2025). Medium credibility.
 
 Background
 
@@ -800,7 +800,7 @@ In recent years, surgical stabilization of rib fractures (SSRF) has gained atten
 
 ---
 
-### To fix or let them flail: the who, what and when of rib fixation [^42528240]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### To fix or let them flail: the who, what and when of rib fixation [^112hKu11]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Introduction
 
@@ -810,7 +810,7 @@ Chest wall injuries, particularly rib fractures, significantly impact patient mo
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^4e9bd361]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^1131YNiC]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Elderly patients
 
@@ -818,7 +818,7 @@ Elderly patients have been consistently shown to have poorer outcomes following 
 
 ---
 
-### Rib fixation: who, what, when? [^c4c2ead6]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Rib fixation: who, what, when? [^1162i3Xj]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Figure 1
 Number of articles related to rib fixation on PubMed as of March 1, 2017.
@@ -827,7 +827,7 @@ Various surgeons (trauma, orthopedic, thoracic) have increasingly fixed ribs; ho
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^4eeb7e73]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^113218mp]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to management of nonunion, RFC 2017 guidelines recommend to perform the following procedures during surgical repair of rib fracture chronic nonunion:
 
@@ -843,37 +843,37 @@ Regarding follow-up and surveillance for rib fracture, more specifically with re
 
 ---
 
-### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^0b129f2c]. Trauma Surgery & Acute Care Open (2023). High credibility.
+### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^111HR7t7]. Trauma Surgery & Acute Care Open (2023). High credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, analgesics, AOTA/EAST 2023 guidelines recommend to consider administering NSAIDs (such as ketorolac) for pain management in adult patients with a traumatic fracture.
 
 ---
 
-### Surgical approaches for rib fracture fixation [^19d6f6d7]. Journal of Orthopaedic Trauma (2013). Low credibility.
+### Surgical approaches for rib fracture fixation [^111fJttN]. Journal of Orthopaedic Trauma (2013). Low credibility.
 
 Operative management of thoracic injuries is an increasingly accepted technique, with multiple reports of improved patient outcomes as compared with nonoperative treatment. Despite the evolving support of rib fracture fixation, descriptions of surgical approaches and tactics remain limited. We present this information to allow surgeons to begin or improve treatment of these injuries. In addition, we present the initial treatment results of a series of 21 patients treated with the approaches described within.
 
 ---
 
-### Thoracic trauma WSES-AAST guidelines [^81479250]. World Journal of Emergency Surgery (2025). High credibility.
+### Thoracic trauma WSES-AAST guidelines [^114JfSgP]. World Journal of Emergency Surgery (2025). High credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, AAST/WSES 2025 guidelines recommend to consider performing SSRFs in cases of severe pain unresponsive to other treatments.
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^9a6469b7]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^114wtpbp]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to follow-up, RFC 2017 guidelines recommend to schedule follow-up visits for 1–2 weeks postoperatively. Obtain a follow-up CXR in all patients before the follow-up visit.
 
 ---
 
-### Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline [^9b5316ae]. The Journal of Trauma and Acute Care Surgery (2012). Medium credibility.
+### Management of pulmonary contusion and flail chest: an Eastern Association for the Surgery of Trauma practice management guideline [^114yGzNq]. The Journal of Trauma and Acute Care Surgery (2012). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, EAST 2012 guidelines recommend to consider performing surgical fixation of the flail chest in patients with severe flail chest failing to wean from the ventilator or when thoracotomy is required for other reasons.
 
 ---
 
-### Injury patterns and surgical approaches [^0b06828b]. Journal of Orthopaedic Trauma (2024). Medium credibility.
+### Injury patterns and surgical approaches [^111HM3va]. Journal of Orthopaedic Trauma (2024). Medium credibility.
 
 Summary
 
@@ -881,7 +881,7 @@ Effective management of bony and cartilaginous thoracic injury is a vital part o
 
 ---
 
-### Emergency department management of patients with rib fracture based on a clinical practice guideline [^6807248a]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Emergency department management of patients with rib fracture based on a clinical practice guideline [^113fE7Tf]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 This study has the inherent limitations to all retrospective database studies including accurate data entry, accurate coding, selection bias and inability to account for confounders. One of the main limitations to the study was the poor initial adherence (51%) with obtaining a measured FVC. Multiple reasons identified for the poor adherence include education and familiarity with the outpatient arm of the algorithm by ED providers, lack of available respiratory therapists to measure the FVC and lack of time to implement due to disruption of ED throughput of patients. Several additional limitations to this study include that the inpatient population was not considered or analyzed and patients who were discharged and returned to other facilities would not have been identified in this study. There may have been patients who met the CPG criteria for discharge home, but were admitted due to other variables. These variables would likely not have been addressed by the CPG and, therefore, the CPG may be missing certain patient populations and cannot be generalizable to that demographic. The measurements of FVC and volume goals may not have been optimal. Studies have shown that FVC is significantly related to age and it may be beneficial to include this factor in the CPG. It is also reasonable to consider that young patients were more likely to return to the ED after rib fractures because an FVC close to 1500 mL is a greater degree of impairment compared with an elderly individual with a similar FVC. A better way to quantitate respiratory effort and function may be to calculate the percent predicted of the FVC based on individual patient characteristics to more accurately assess true impairment or adequate function.
 
@@ -893,7 +893,7 @@ This study confirms that the ED discharge pathway of the rib fracture CPG is saf
 
 ---
 
-### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^c7aec80c]. Trauma Surgery & Acute Care Open (2017). Low credibility.
+### Comprehensive approach to the management of the patient with multiple rib fractures: a review and introduction of a bundled rib fracture management protocol [^11673F6b]. Trauma Surgery & Acute Care Open (2017). Low credibility.
 
 Scoring systems
 
@@ -901,7 +901,7 @@ Clinical and radiographic scoring systems have been developed for patients with 
 
 ---
 
-### Investigating the link between frailty and outcomes in geriatric patients with isolated rib fractures [^9d5f09c3]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Investigating the link between frailty and outcomes in geriatric patients with isolated rib fractures [^1152Jyjg]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Conclusion
 
@@ -909,37 +909,37 @@ There is a strong association between frailty, measured by the OFS, and adverse 
 
 ---
 
-### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^f24c7438]. Trauma Surgery & Acute Care Open (2023). High credibility.
+### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^117CDgeB]. Trauma Surgery & Acute Care Open (2023). High credibility.
 
 Regarding medical management for rib fracture, more specifically with respect to pain management (NSAIDs), AOTA/EAST 2023 guidelines recommend to insufficient evidence to recommend the preferential use of either selective NSAIDs (COX-2 inhibitors) or nonselective NSAIDs.
 
 ---
 
-### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^106f1b49]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
+### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^111RN83J]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, EAST 2017 guidelines recommend to consider performing surgical reduction and internal fixation of rib fracture to decrease mortality, shorten the duration of mechanical ventilation, ICU and hospital length of stay, the incidence of pneumonia, and the need for tracheostomy in adult patients with flail chest after blunt trauma.
 
 ---
 
-### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^51229b46]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
+### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^1135Hd1w]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, indications, EAST 2017 guidelines recommend to insufficient evidence to recommend surgical reduction and internal fixation of rib fractures in adult patients with non-flail rib fractures after blunt trauma.
 
 ---
 
-### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^366d7af6]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
+### Operative fixation of rib fractures after blunt trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma [^112Ph74q]. The Journal of Trauma and Acute Care Surgery (2017). Medium credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, surgical stabilization, EAST 2017 guidelines recommend to insufficient evidence to recommend surgical reduction and internal fixation of rib fractures in adult patients with non-flail rib fractures after blunt trauma.
 
 ---
 
-### Rib fracture repair: indications, technical issues, and future directions [^2eae5f35]. World Journal of Surgery (2009). Low credibility.
+### Rib fracture repair: indications, technical issues, and future directions [^112CD116]. World Journal of Surgery (2009). Low credibility.
 
 Rib fracture repair has been performed at selected centers around the world for more than 50 years; however, the operative indications have not been established and are considered controversial. The outcome of a strictly nonoperative approach may not be optimal. Potential indications for rib fracture repair include flail chest, painful, movable rib fractures refractory to conventional pain management, chest wall deformity/defect, rib fracture nonunion, and during thoracotomy for other traumatic indication. Rib fracture repair is technically challenging secondary to the human rib's relatively thin cortex and its tendency to fracture obliquely. Nonetheless, several effective repair systems have been developed. Future directions for progress on this important surgical problem include the development of minimally invasive techniques and the conduct of multicenter, randomized trials.
 
 ---
 
-### Chest trauma clinical practice guideline protects against delirium in patients with rib fractures [^11df1298]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
+### Chest trauma clinical practice guideline protects against delirium in patients with rib fractures [^111TVibZ]. Trauma Surgery & Acute Care Open (2024). Medium credibility.
 
 Introduction
 
@@ -957,13 +957,13 @@ Vancouver General Hospital's chest trauma clinical practice guideline (CTCPG). P
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^eac92964]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^11715ftX]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization (approach), RFC 2017 guidelines recommend to decide on incision based on the fracture pattern. Use muscle sparring techniques whenever possible.
 
 ---
 
-### Association between adherence to evidence-based practices for treatment of patients with traumatic rib… [^ebddc288]. JAMA Network (2020). Excellent credibility.
+### Association between adherence to evidence-based practices for treatment of patients with traumatic rib… [^1172gaTR]. JAMA Network (2020). Excellent credibility.
 
 Objective To examine adherence to 6 EBPs for rib fractures across US trauma centers and the association with in-hospital mortality. Design, Setting, and Participants. Main Outcomes and Measures Six EBPs were defined: neuraxial blockade, intensive care unit admission, pneumatic stabilization, chest computed tomographic scans for older adults with 3 or more rib fractures, surgical rib fixation for flail chest, and tube thoracostomy placement for hemothorax and/or pneumothorax. Conclusions and Relevance Significant variation appears to exist in the delivery of EBPs for rib fractures across US trauma centers. Three EBPs were associated with reduced mortality, but EBP adherence was poor. Multiple factors, including trauma center verification level, appear to be associated with patients receiving EBPs for rib fractures.
 
@@ -973,13 +973,13 @@ Optimal care for patients with rib fractures is complex and requires engaged, mu
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^92b7ae8a]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^114kWtZ7]. Injury (2017). Medium credibility.
 
 Regarding surgical interventions for rib fracture, more specifically with respect to surgical stabilization, technical considerations, RFC 2017 guidelines recommend to consider repairing significant muscle loss or injury during SSRF if there is either visible herniation of lung intraoperatively or a large defect with increased risk of future lung herniation. Attempt repairing these defects primarily with pericostal fixation. Use a mesh if the defect is not amenable to primary repair.
 
 ---
 
-### Discrepancies in rib fracture severity between radiologist and surgeon: a retrospective review [^37babcc5]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
+### Discrepancies in rib fracture severity between radiologist and surgeon: a retrospective review [^112Rd3SL]. The Journal of Trauma and Acute Care Surgery (2021). Medium credibility.
 
 Background
 
@@ -1003,7 +1003,7 @@ Prognostic/Diagnostic Test, level III.
 
 ---
 
-### The effectiveness of early surgical stabilization for multiple rib fractures: a multicenter randomized controlled trial [^702ed1cb]. Journal of Cardiothoracic Surgery (2023). Medium credibility.
+### The effectiveness of early surgical stabilization for multiple rib fractures: a multicenter randomized controlled trial [^113sKLgS]. Journal of Cardiothoracic Surgery (2023). Medium credibility.
 
 Introduction
 
@@ -1015,12 +1015,12 @@ Thus, we suppose that early rib fracture fixation can decrease the length of sta
 
 ---
 
-### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^d69ee6cc]. Injury (2017). Medium credibility.
+### Consensus statement: surgical stabilization of rib fractures Rib Fracture Colloquium clinical practice guidelines [^116VBixb]. Injury (2017). Medium credibility.
 
 Regarding follow-up and surveillance for rib fracture, more specifically with respect to management of nonunion, RFC 2017 guidelines recommend to insufficient evidence to support the use of low-intensity pulsed ultrasound for promoting the healing of rib fracture nonunion.
 
 ---
 
-### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^cda51217]. Trauma Surgery & Acute Care Open (2023). High credibility.
+### Efficacy and safety of non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of acute pain after orthopedic trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma and the orthopedic trauma association [^116FsucA]. Trauma Surgery & Acute Care Open (2023). High credibility.
 
 Regarding medical management for blunt chest trauma, more specifically with respect to management of rib fracture, analgesics, AOTA/EAST 2023 guidelines recommend to insufficient evidence to recommend the preferential use of either selective NSAIDs (COX-2 inhibitors) or nonselective NSAIDs.

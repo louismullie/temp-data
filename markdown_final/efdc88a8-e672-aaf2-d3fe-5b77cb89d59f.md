@@ -15,31 +15,31 @@ how do i diagnose my patient with addisons disease
 
 > Let's see… What do we have here? The user is asking how to diagnose Addison's disease. Let's break this down step-by-step. First, I need to think about when to suspect primary adrenal insufficiency clinically. Then, I should verify the initial screening tests and their pitfalls. Next, I will confirm the gold-standard diagnostic test and its interpretation. After that, I need to determine etiology, especially autoimmune versus other causes. Then, I should assess mineralocorticoid status and associated autoimmune diseases. Finally, I will consider special populations and summarize a practical algorithm, making sure I double-check thresholds and exceptions at each step.
 
-> Let me first confirm the clinical triggers for suspicion, because Addison's disease is rare and often missed. I should keep a high index of suspicion in patients with nonspecific symptoms such as fatigue, weight loss, anorexia, nausea, abdominal pain, orthostatic dizziness, salt craving, and hyperpigmentation, especially if symptoms are chronic or refractory to other explanations, and I must remember that hyperpigmentation reflects elevated ACTH and may be subtle or absent early on [^ffc09635] [^71a95861]. Hold on, let's not jump to conclusions — these symptoms overlap with many conditions, so I need to correlate with labs and context, and I should also consider that up to half of cases are first recognized at adrenal crisis, which underscores the need for a low threshold in acutely ill patients with hypotension, hyponatremia, or hyperkalemia [^9d595895] [^434743b2].
+> Let me first confirm the clinical triggers for suspicion, because Addison's disease is rare and often missed. I should keep a high index of suspicion in patients with nonspecific symptoms such as fatigue, weight loss, anorexia, nausea, abdominal pain, orthostatic dizziness, salt craving, and hyperpigmentation, especially if symptoms are chronic or refractory to other explanations, and I must remember that hyperpigmentation reflects elevated ACTH and may be subtle or absent early on [^117YAXkg] [^113uWUxQ]. Hold on, let's not jump to conclusions — these symptoms overlap with many conditions, so I need to correlate with labs and context, and I should also consider that up to half of cases are first recognized at adrenal crisis, which underscores the need for a low threshold in acutely ill patients with hypotension, hyponatremia, or hyperkalemia [^1152H4qz] [^112ik7E1].
 
-> Next, I should review the initial screening strategy. Wait, let me verify the timing and thresholds. A morning 8 am plasma cortisol with simultaneous ACTH is a reasonable first step; a cortisol less than about 5 mcg/dL is highly suggestive, whereas a cortisol greater than about 19–20 mcg/dL generally excludes primary adrenal insufficiency, though I should confirm that these cutoffs align with the assay and clinical context, and I must remember that a normal cortisol does not rule out early or partial disease [^434743b2] [^b99c4e35]. I should double-check that ACTH is interpreted alongside cortisol: an inappropriately high ACTH with low cortisol supports primary adrenal insufficiency, whereas low or inappropriately normal ACTH suggests secondary causes, and I need to ensure I do not rely on a single random cortisol without ACTH when suspicion is high [^434743b2] [^b99c4e35].
+> Next, I should review the initial screening strategy. Wait, let me verify the timing and thresholds. A morning 8 am plasma cortisol with simultaneous ACTH is a reasonable first step; a cortisol less than about 5 mcg/dL is highly suggestive, whereas a cortisol greater than about 19–20 mcg/dL generally excludes primary adrenal insufficiency, though I should confirm that these cutoffs align with the assay and clinical context, and I must remember that a normal cortisol does not rule out early or partial disease [^112ik7E1] [^115kBDDE]. I should double-check that ACTH is interpreted alongside cortisol: an inappropriately high ACTH with low cortisol supports primary adrenal insufficiency, whereas low or inappropriately normal ACTH suggests secondary causes, and I need to ensure I do not rely on a single random cortisol without ACTH when suspicion is high [^112ik7E1] [^115kBDDE].
 
-> I will now examine the gold-standard diagnostic test. The short cosyntropin stimulation test using 250 mcg IV/IM with cortisol measured at baseline and 30 and 60 minutes is the first-line confirmatory test; a peak cortisol less than about 18 mcg/dL indicates impaired adrenal responsiveness and confirms primary adrenal insufficiency, provided the test is performed correctly and not confounded by recent exogenous glucocorticoids or assay issues [^434743b2] [^698fb806]. Hold on, I should verify alternatives if the standard test is not feasible; a low-dose 1 mcg test can be considered, particularly for suspected secondary adrenal insufficiency, but it requires careful preparation and is not routinely needed for primary disease, so I need to ensure I choose the right test for the right question [^b99c4e35].
+> I will now examine the gold-standard diagnostic test. The short cosyntropin stimulation test using 250 mcg IV/IM with cortisol measured at baseline and 30 and 60 minutes is the first-line confirmatory test; a peak cortisol less than about 18 mcg/dL indicates impaired adrenal responsiveness and confirms primary adrenal insufficiency, provided the test is performed correctly and not confounded by recent exogenous glucocorticoids or assay issues [^112ik7E1] [^113hVyTb]. Hold on, I should verify alternatives if the standard test is not feasible; a low-dose 1 mcg test can be considered, particularly for suspected secondary adrenal insufficiency, but it requires careful preparation and is not routinely needed for primary disease, so I need to ensure I choose the right test for the right question [^115kBDDE].
 
-> Let me consider etiology next, because confirming autoimmune destruction changes management and counseling. I should confirm 21-hydroxylase autoantibodies with a validated assay; positivity supports autoimmune Addison's disease, which accounts for roughly 70–90% of cases in developed settings, and I need to remember that antibody titers can wane over time, so a negative result does not absolutely exclude autoimmunity, especially in long-standing disease [^434743b2] [^ad0e9af7]. If antibodies are negative, I should review other causes such as infections like tuberculosis or HIV, infiltrative diseases, hemorrhage, genetic syndromes, or drug-induced adrenalitis, and I should tailor imaging and targeted testing accordingly, including adrenal CT when indicated [^e230a2d4] [^434743b2].
+> Let me consider etiology next, because confirming autoimmune destruction changes management and counseling. I should confirm 21-hydroxylase autoantibodies with a validated assay; positivity supports autoimmune Addison's disease, which accounts for roughly 70–90% of cases in developed settings, and I need to remember that antibody titers can wane over time, so a negative result does not absolutely exclude autoimmunity, especially in long-standing disease [^112ik7E1] [^115RZmHg]. If antibodies are negative, I should review other causes such as infections like tuberculosis or HIV, infiltrative diseases, hemorrhage, genetic syndromes, or drug-induced adrenalitis, and I should tailor imaging and targeted testing accordingly, including adrenal CT when indicated [^116nLYCK] [^112ik7E1].
 
-> I need to ensure I assess mineralocorticoid deficiency, since aldosterone loss drives hyponatremia, hyperkalemia, and volume depletion. Let me check the pattern: low aldosterone with elevated plasma renin activity confirms mineralocorticoid deficiency, and this should prompt fludrocortisone replacement once the patient is stabilized, with dosing adjusted to blood pressure, electrolytes, and renin over time [^434743b2] [^e9e53177]. But wait, what if potassium is normal early on? Hyperkalemia is not universal, and hyponatremia is more consistent, so I should not dismiss the diagnosis solely for normokalemia, especially in early or partially treated disease [^46c3f280].
+> I need to ensure I assess mineralocorticoid deficiency, since aldosterone loss drives hyponatremia, hyperkalemia, and volume depletion. Let me check the pattern: low aldosterone with elevated plasma renin activity confirms mineralocorticoid deficiency, and this should prompt fludrocortisone replacement once the patient is stabilized, with dosing adjusted to blood pressure, electrolytes, and renin over time [^112ik7E1] [^116ym6ht]. But wait, what if potassium is normal early on? Hyperkalemia is not universal, and hyponatremia is more consistent, so I should not dismiss the diagnosis solely for normokalemia, especially in early or partially treated disease [^112oux63].
 
-> Next, I should review associated autoimmune diseases, because clustering is common and influences surveillance. I should confirm screening for autoimmune thyroid disease, type 1 diabetes, pernicious anemia, vitiligo, celiac disease, and, in women, consider premature ovarian insufficiency and steroidogenic cell antibodies, given their elevated prevalence in autoimmune Addison's disease and the need for lifelong vigilance [^e230a2d4] [^434743b2]. Hold on, I should verify that thyroid testing is interpreted cautiously; TSH may be elevated with untreated adrenal insufficiency and can normalize after glucocorticoid therapy, so I should avoid starting levothyroxine prematurely if adrenal disease is suspected or untreated to avoid precipitating crisis [^3145a79d] [^c1a64946].
+> Next, I should review associated autoimmune diseases, because clustering is common and influences surveillance. I should confirm screening for autoimmune thyroid disease, type 1 diabetes, pernicious anemia, vitiligo, celiac disease, and, in women, consider premature ovarian insufficiency and steroidogenic cell antibodies, given their elevated prevalence in autoimmune Addison's disease and the need for lifelong vigilance [^116nLYCK] [^112ik7E1]. Hold on, I should verify that thyroid testing is interpreted cautiously; TSH may be elevated with untreated adrenal insufficiency and can normalize after glucocorticoid therapy, so I should avoid starting levothyroxine prematurely if adrenal disease is suspected or untreated to avoid precipitating crisis [^112G3nnx] [^115x6TuX].
 
-> I will now examine special populations and pitfalls. In children, congenital adrenal hyperplasia and X-linked adrenal hypoplasia can mimic Addison's disease, so I should confirm with appropriate hormone profiles and genetic testing when indicated, and I should remember that boys with idiopathic Addison's warrant very-long-chain fatty acid testing to screen for adrenoleukodystrophy [^47728767] [^5dee63d9]. In patients with type 1 diabetes, I should double-check for hypoglycemia or falling insulin requirements as early clues to coexisting Addison's disease, and I should maintain a low threshold to screen for adrenal autoantibodies and function in this high-risk group [^4a7c19d8] [^5336d90e]. In acute presentations with shock or severe electrolyte disturbances, I must not delay life-saving hydrocortisone and fluids for testing; diagnosis can be confirmed after stabilization, and I should document any confounders like etomidate or recent steroids that can transiently suppress the axis [^9d595895] [^f71837a3].
+> I will now examine special populations and pitfalls. In children, congenital adrenal hyperplasia and X-linked adrenal hypoplasia can mimic Addison's disease, so I should confirm with appropriate hormone profiles and genetic testing when indicated, and I should remember that boys with idiopathic Addison's warrant very-long-chain fatty acid testing to screen for adrenoleukodystrophy [^112pvbDG] [^113QFvRN]. In patients with type 1 diabetes, I should double-check for hypoglycemia or falling insulin requirements as early clues to coexisting Addison's disease, and I should maintain a low threshold to screen for adrenal autoantibodies and function in this high-risk group [^112uRmY3] [^1138NPuw]. In acute presentations with shock or severe electrolyte disturbances, I must not delay life-saving hydrocortisone and fluids for testing; diagnosis can be confirmed after stabilization, and I should document any confounders like etomidate or recent steroids that can transiently suppress the axis [^1152H4qz] [^117KL5Q6].
 
-> Let me reconsider the diagnostic algorithm to ensure internal consistency. Suspect based on compatible symptoms and signs, screen with morning cortisol and ACTH, confirm with cosyntropin stimulation if cortisol is low or clinical suspicion remains high, determine etiology with 21-hydroxylase antibodies and targeted imaging if negative, assess mineralocorticoid status and start fludrocortisone as indicated, and screen for associated autoimmune diseases with a plan for lifelong surveillance and patient education on stress dosing and emergency management [^434743b2] [^bb79e2f8]. I should double-check that I have emphasized the key takeaway: a high index of suspicion and timely testing prevent delays that too often culminate in adrenal crisis, and a structured approach with the right tests interpreted in the right sequence minimizes missed diagnoses [^9d595895] [^434743b2].
+> Let me reconsider the diagnostic algorithm to ensure internal consistency. Suspect based on compatible symptoms and signs, screen with morning cortisol and ACTH, confirm with cosyntropin stimulation if cortisol is low or clinical suspicion remains high, determine etiology with 21-hydroxylase antibodies and targeted imaging if negative, assess mineralocorticoid status and start fludrocortisone as indicated, and screen for associated autoimmune diseases with a plan for lifelong surveillance and patient education on stress dosing and emergency management [^112ik7E1] [^115nwdEw]. I should double-check that I have emphasized the key takeaway: a high index of suspicion and timely testing prevent delays that too often culminate in adrenal crisis, and a structured approach with the right tests interpreted in the right sequence minimizes missed diagnoses [^1152H4qz] [^112ik7E1].
 
 ---
 
-To diagnose Addison's disease, **confirm primary adrenal insufficiency** with a **short ACTH stimulation test** (250 mcg cosyntropin; peak cortisol < 18 mcg/dL at 30–60 min indicates failure) [^434743b2] [^698fb806]. If unavailable, use **morning cortisol < 5 mcg/dL** with elevated ACTH as a screening triage [^434743b2] [^a573eabc]. Next, **establish autoimmune etiology** with 21-hydroxylase autoantibodies [^434743b2]; if negative, obtain adrenal CT to evaluate for infection, infiltration, or hemorrhage [^e230a2d4]. Assess mineralocorticoid status with renin and aldosterone, and screen for other autoimmune diseases (thyroid, diabetes, pernicious anemia, vitiligo) [^e230a2d4]. In acute crisis, give hydrocortisone and fluids immediately — do not delay for testing [^9d595895] [^f71837a3].
+To diagnose Addison's disease, **confirm primary adrenal insufficiency** with a **short ACTH stimulation test** (250 mcg cosyntropin; peak cortisol < 18 mcg/dL at 30–60 min indicates failure) [^112ik7E1] [^113hVyTb]. If unavailable, use **morning cortisol < 5 mcg/dL** with elevated ACTH as a screening triage [^112ik7E1] [^115EHtk3]. Next, **establish autoimmune etiology** with 21-hydroxylase autoantibodies [^112ik7E1]; if negative, obtain adrenal CT to evaluate for infection, infiltration, or hemorrhage [^116nLYCK]. Assess mineralocorticoid status with renin and aldosterone, and screen for other autoimmune diseases (thyroid, diabetes, pernicious anemia, vitiligo) [^116nLYCK]. In acute crisis, give hydrocortisone and fluids immediately — do not delay for testing [^1152H4qz] [^117KL5Q6].
 
 ---
 
 ## Clinical presentation and initial evaluation
 
-Addison's disease presents with **nonspecific symptoms** — fatigue, weight loss, anorexia, nausea, vomiting, abdominal pain, dizziness, orthostatic hypotension, hyperpigmentation, and salt craving [^ffc09635] [^71a95861]. Because symptoms are nonspecific, maintain a **high index of suspicion**, especially in patients with other autoimmune diseases or unexplained hyponatremia, hyperkalemia, or hypotension [^434743b2] [^46c3f280].
+Addison's disease presents with **nonspecific symptoms** — fatigue, weight loss, anorexia, nausea, vomiting, abdominal pain, dizziness, orthostatic hypotension, hyperpigmentation, and salt craving [^117YAXkg] [^113uWUxQ]. Because symptoms are nonspecific, maintain a **high index of suspicion**, especially in patients with other autoimmune diseases or unexplained hyponatremia, hyperkalemia, or hypotension [^112ik7E1] [^112oux63].
 
 ---
 
@@ -47,14 +47,14 @@ Addison's disease presents with **nonspecific symptoms** — fatigue, weight los
 
 ### Step 1: basal morning cortisol and ACTH
 
-- **Morning cortisol**: Obtain an 8 am serum cortisol; < 5 mcg/dL strongly suggests adrenal insufficiency, whereas > 19 mcg/dL generally excludes it [^434743b2] [^a573eabc].
-- **ACTH measurement**: Concurrently measure plasma ACTH; elevated ACTH (> 2× upper limit of normal) with low cortisol indicates primary adrenal insufficiency [^434743b2] [^b99c4e35].
+- **Morning cortisol**: Obtain an 8 am serum cortisol; < 5 mcg/dL strongly suggests adrenal insufficiency, whereas > 19 mcg/dL generally excludes it [^112ik7E1] [^115EHtk3].
+- **ACTH measurement**: Concurrently measure plasma ACTH; elevated ACTH (> 2× upper limit of normal) with low cortisol indicates primary adrenal insufficiency [^112ik7E1] [^115kBDDE].
 
 ---
 
 ### Step 2: confirmatory testing
 
-The **short ACTH stimulation test** (250 mcg cosyntropin) is the gold standard [^434743b2]. Measure cortisol at baseline and 30–60 minutes; a peak < 18 mcg/dL confirms primary adrenal insufficiency [^434743b2] [^698fb806]. If the test is unavailable, a low-dose (1 mcg) test can be used, particularly for secondary adrenal insufficiency, but it requires careful preparation and is less standardized [^a573eabc].
+The **short ACTH stimulation test** (250 mcg cosyntropin) is the gold standard [^112ik7E1]. Measure cortisol at baseline and 30–60 minutes; a peak < 18 mcg/dL confirms primary adrenal insufficiency [^112ik7E1] [^113hVyTb]. If the test is unavailable, a low-dose (1 mcg) test can be used, particularly for secondary adrenal insufficiency, but it requires careful preparation and is less standardized [^115EHtk3].
 
 ---
 
@@ -62,7 +62,7 @@ The **short ACTH stimulation test** (250 mcg cosyntropin) is the gold standard [
 
 ### Autoimmune etiology
 
-Autoimmune adrenalitis is the **most common cause** in developed countries [^434743b2]. Measure **21-hydroxylase autoantibodies**; their presence confirms autoimmune Addison's disease [^434743b2] [^ad0e9af7].
+Autoimmune adrenalitis is the **most common cause** in developed countries [^112ik7E1]. Measure **21-hydroxylase autoantibodies**; their presence confirms autoimmune Addison's disease [^112ik7E1] [^115RZmHg].
 
 ---
 
@@ -70,18 +70,18 @@ Autoimmune adrenalitis is the **most common cause** in developed countries [^434
 
 If autoantibodies are negative, evaluate for **alternative causes**:
 
-- **Infections**: Tuberculosis, HIV, fungal infections (histoplasmosis, cryptococcus) [^e230a2d4].
-- **Infiltrative diseases**: Metastatic cancer, amyloidosis, hemochromatosis [^e230a2d4].
-- **Genetic disorders**: Congenital adrenal hyperplasia, adrenoleukodystrophy [^47728767].
+- **Infections**: Tuberculosis, HIV, fungal infections (histoplasmosis, cryptococcus) [^116nLYCK].
+- **Infiltrative diseases**: Metastatic cancer, amyloidosis, hemochromatosis [^116nLYCK].
+- **Genetic disorders**: Congenital adrenal hyperplasia, adrenoleukodystrophy [^112pvbDG].
 - **Medications**: Ketoconazole, mitotane, etomidate [^notfound].
 
-Adrenal **CT imaging** is recommended to assess for enlargement, calcifications, or atrophy, which can suggest infectious or infiltrative etiologies [^e230a2d4].
+Adrenal **CT imaging** is recommended to assess for enlargement, calcifications, or atrophy, which can suggest infectious or infiltrative etiologies [^116nLYCK].
 
 ---
 
 ## Assessing mineralocorticoid status
 
-Mineralocorticoid deficiency is a hallmark of primary adrenal insufficiency. Measure **plasma renin activity** (elevated) and **serum aldosterone** (low or inappropriately normal) to confirm mineralocorticoid deficiency [^434743b2] [^58e41d12].
+Mineralocorticoid deficiency is a hallmark of primary adrenal insufficiency. Measure **plasma renin activity** (elevated) and **serum aldosterone** (low or inappropriately normal) to confirm mineralocorticoid deficiency [^112ik7E1] [^113GnXow].
 
 ---
 
@@ -89,11 +89,11 @@ Mineralocorticoid deficiency is a hallmark of primary adrenal insufficiency. Mea
 
 Patients with autoimmune Addison's disease have a high risk of other autoimmune diseases. Screen for:
 
-- **Thyroid disease**: Hypo- or hyperthyroidism [^efa1e0cf].
-- **Type 1 diabetes mellitus** [^e230a2d4].
-- **Pernicious anemia** [^e230a2d4].
-- **Vitiligo** [^e230a2d4].
-- **Premature ovarian insufficiency** in women [^6786619d].
+- **Thyroid disease**: Hypo- or hyperthyroidism [^1178GQza].
+- **Type 1 diabetes mellitus** [^116nLYCK].
+- **Pernicious anemia** [^116nLYCK].
+- **Vitiligo** [^116nLYCK].
+- **Premature ovarian insufficiency** in women [^113eUrz8].
 
 ---
 
@@ -101,13 +101,13 @@ Patients with autoimmune Addison's disease have a high risk of other autoimmune 
 
 ### Acute adrenal crisis
 
-In acute adrenal crisis, **do not delay treatment** for testing. Administer hydrocortisone 100 mg IV bolus followed by 200 mg over 24 hours, plus aggressive isotonic saline and dextrose as needed [^9d595895] [^f71837a3].
+In acute adrenal crisis, **do not delay treatment** for testing. Administer hydrocortisone 100 mg IV bolus followed by 200 mg over 24 hours, plus aggressive isotonic saline and dextrose as needed [^1152H4qz] [^117KL5Q6].
 
 ---
 
 ### Pediatric patients
 
-In children, use a **hydrocortisone dose of ~8 mg/m²/day** divided into three doses, and adjust fludrocortisone based on growth, blood pressure, and electrolytes [^434743b2].
+In children, use a **hydrocortisone dose of ~8 mg/m²/day** divided into three doses, and adjust fludrocortisone based on growth, blood pressure, and electrolytes [^112ik7E1].
 
 ---
 
@@ -121,12 +121,12 @@ During pregnancy, **increase hydrocortisone dose by 50%** in the third trimester
 
 | **Step** | **Test** | **Interpretation** |
 |-|-|-|
-| 1 | Morning cortisol and ACTH | - Cortisol < 5 mcg/dL and elevated ACTH suggest primary adrenal insufficiency [^434743b2] [^a573eabc] |
-| 2 | Short ACTH stimulation test | - Peak cortisol < 18 mcg/dL confirms adrenal insufficiency [^434743b2] [^698fb806] |
-| 3 | 21-hydroxylase autoantibodies | Positive confirms autoimmune etiology [^434743b2] [^ad0e9af7] |
-| 4 | Adrenal CT | Evaluate for infection, infiltration, or hemorrhage if autoantibodies are negative [^e230a2d4] |
-| 5 | Renin and aldosterone | Elevated renin and low aldosterone confirm mineralocorticoid deficiency [^434743b2] [^58e41d12] |
-| 6 | Screening for associated autoimmune diseases | Identify coexisting autoimmune conditions [^e230a2d4] [^efa1e0cf] |
+| 1 | Morning cortisol and ACTH | - Cortisol < 5 mcg/dL and elevated ACTH suggest primary adrenal insufficiency [^112ik7E1] [^115EHtk3] |
+| 2 | Short ACTH stimulation test | - Peak cortisol < 18 mcg/dL confirms adrenal insufficiency [^112ik7E1] [^113hVyTb] |
+| 3 | 21-hydroxylase autoantibodies | Positive confirms autoimmune etiology [^112ik7E1] [^115RZmHg] |
+| 4 | Adrenal CT | Evaluate for infection, infiltration, or hemorrhage if autoantibodies are negative [^116nLYCK] |
+| 5 | Renin and aldosterone | Elevated renin and low aldosterone confirm mineralocorticoid deficiency [^112ik7E1] [^113GnXow] |
+| 6 | Screening for associated autoimmune diseases | Identify coexisting autoimmune conditions [^116nLYCK] [^1178GQza] |
 
 ---
 
@@ -136,13 +136,13 @@ Diagnosing Addison's disease requires a **structured approach**: screen with mor
 
 ## References
 
-### Clinical review 130: Addison's disease 2001 [^ee1d3684]. The Journal of Clinical Endocrinology and Metabolism (2001). Low credibility.
+### Clinical review 130: Addison's disease 2001 [^11761sBh]. The Journal of Clinical Endocrinology and Metabolism (2001). Low credibility.
 
 Whereas it is now more than 150 yr since T. Addison first described the clinical and pathological features of adrenal failure (1), the disease remains underdiagnosed, leading to unnecessary morbidity and mortality. Over the past decade, there have been important advances in elucidating the pathogeneses and underlying genetics of the individual forms of the disease. This review emphasizes the multiple etiologies and the diagnostic steps to be taken with consideration to age at onset and gender and summarizes new genetic insights in the disease.
 
 ---
 
-### April 1, 2014… [^44b22175]. AAFP (2014). Low credibility.
+### April 1, 2014… [^112kqzRr]. AAFP (2014). Low credibility.
 
 ERIC W. EDMONDS, DOUGLAS D. DENGERINK The throwing or striking motion of sports such as baseball, tennis, and volleyball may result in scapular dyskinesis, partial articular-sided supraspinatus avulsions, and posterosuperior labral tears. Physical examination maneuvers and imaging may help diagnose intra. MATTHEW J. SNYDER, JENNIFER BEPKO, MERIMA WHITE Acute pericarditis is diagnosed based on the history and physical examination, as well as electrocardiographic findings. Patients typically present with sharp, pleuritic, retrosternal chest pain that is relieved by sitting or leaning forward. Treatment consists of. AARON MICHELS, NICOLE MICHELS Addison disease, also known as primary adrenal insufficiency, is usually caused by autoimmune destruction of the adrenal cortex. Symptoms often include fatigue, anorexia, and hyperpigmentation. Treatment involves hormone therapy with glucocorticoids and mineralocorticoids. The personal side of medicine told from the patient's perspective.
 
@@ -152,25 +152,25 @@ DAVID SLAWSON Compared with normal saline or hyaluronic acid, multiple intra-art
 
 ---
 
-### Consensus statement on the diagnosis, treatment and follow-up of patients with primary adrenal insufficiency [^bb79e2f8]. Journal of Internal Medicine (2014). Low credibility.
+### Consensus statement on the diagnosis, treatment and follow-up of patients with primary adrenal insufficiency [^115nwdEw]. Journal of Internal Medicine (2014). Low credibility.
 
 Primary adrenal insufficiency (PAI), or Addison's disease, is a rare, potentially deadly, but treatable disease. Most cases of PAI are caused by autoimmune destruction of the adrenal cortex. Consequently, patients with PAI are at higher risk of developing other autoimmune diseases. The diagnosis of PAI is often delayed by many months, and most patients present with symptoms of acute adrenal insufficiency. Because PAI is rare, even medical specialists in this therapeutic area rarely manage more than a few patients. Currently, the procedures for diagnosis, treatment and follow-up of this rare disease vary greatly within Europe. The common autoimmune form of PAI is characterized by the presence of 21-hydroxylase autoantibodies; other causes should be sought if no autoantibodies are detected. Acute adrenal crisis is a life-threatening condition that requires immediate treatment. Standard replacement therapy consists of multiple daily doses of hydrocortisone or cortisone acetate combined with fludrocortisone. Annual follow-up by an endocrinologist is recommended with the focus on optimization of replacement therapy and detection of new autoimmune diseases. Patient education to enable self-adjustment of dosages of replacement therapy and crisis prevention is particularly important in this disease. The authors of this document have collaborated within an EU project (Euadrenal) to study the pathogenesis, describe the natural course and improve the treatment for Addison's disease. Based on a synthesis of this research, the available literature, and the views and experiences of the consortium's investigators and key experts, we now attempt to provide a European Expert Consensus Statement for diagnosis, treatment and follow-up.
 
 ---
 
-### Addison disease in adults: diagnosis and management [^41eb4834]. The American Journal of Medicine (2010). Low credibility.
+### Addison disease in adults: diagnosis and management [^112gjDyu]. The American Journal of Medicine (2010). Low credibility.
 
 Addison disease is a rare but potentially fatal disorder of the adrenal glands. Its manifestations are often confused with many common disorders, and a high index of suspicion is required for the diagnosis. Optimum steroid replacement and patient education are vital for good quality of life and to prevent acute adrenal crisis in this condition.
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^15c38624]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^111ZGR2s]. BMJ Case Reports (2019). High credibility.
 
 A young man endures many years with classic symptoms of Addison's disease due to difficulties in distinguishing this rare condition, whose features are non-specific and insidious in nature. With all facts on hand, the patient's notable history of psychiatric disorders, namely depression, anxiety and social isolation, as well as signs of extreme fatigue and syncope may well have been caused by a gradual onset of primary adrenal insufficiency. Long delays in diagnosis are not uncommon, as in this case where the actual condition was identified just in time when the patient presented with a life-threatening cardiovascular collapse.
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^6a2ab376]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^113iQ2km]. BMJ Case Reports (2019). High credibility.
 
 Background
 
@@ -181,31 +181,31 @@ A 58-year-old man with suspected adrenal disease, suffering from loss of appetit
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^f7498796]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^117Kce5b]. BMJ Case Reports (2019). High credibility.
 
 A young man endures many years with classic symptoms of Addison's disease due to difficulties in distinguishing this rare condition, whose features are non-specific and insidious in nature. With all facts on hand, the patient's notable history of psychiatric disorders, namely depression, anxiety and social isolation, as well as signs of extreme fatigue and syncope may well have been caused by a gradual onset of primary adrenal insufficiency. Long delays in diagnosis are not uncommon, as in this case where the actual condition was identified just in time when the patient presented with a life-threatening cardiovascular collapse.
 
 ---
 
-### The genetics of autoimmune addison disease: past, present and future [^a23bcaf8]. Nature Reviews: Endocrinology (2022). High credibility.
+### The genetics of autoimmune addison disease: past, present and future [^1159X5Wf]. Nature Reviews: Endocrinology (2022). High credibility.
 
 Autoimmune Addison disease is an endocrinopathy that is fatal if not diagnosed and treated in a timely manner. Its rarity has hampered unbiased studies of the predisposing genetic factors. A 2021 genome-wide association study, explaining up to 40% of the genetic susceptibility, has revealed new disease loci and reproduced some of the previously reported associations, while failing to reproduce others. Credible risk loci from both candidate gene and genome-wide studies indicate that, like one of its most common comorbidities, type 1 diabetes mellitus, Addison disease is primarily caused by aberrant T cell behaviour. Here, we review the current understanding of the genetics of autoimmune Addison disease and its position in the wider field of autoimmune disorders. The mechanisms that could underlie the effects on the adrenal cortex are also discussed.
 
 ---
 
-### Addison's disease and its associations [^9e0c4eb9]. BMJ Case Reports (2013). Medium credibility.
+### Addison's disease and its associations [^1153KBJ8]. BMJ Case Reports (2013). Medium credibility.
 
 Addison's disease is a relatively rare endocrine condition resulting from adrenal insufficiency due to various causes. Weight loss is a common feature; however, patients may be seen by a variety of specialists, even requiring acute admission before the diagnosis is made. Addison's disease is commonly associated with other autoimmune diseases. In some cases such as autoimmune polyendocrine syndromes (APS) types 1 and 2, these associations are more commonly found. We present a case of one such patient who presented to the acute medical team having been referred to the gastrointestinal services in the previous year for persistent vomiting and weight loss. On review of history, the cause of vomiting and weight loss was questioned and combined with subsequent biochemical testing a diagnosis of Addison's disease was made. The patient was also noted to have other associated endocrine and autoimmune conditions.
 
 ---
 
-### Addison disease: early detection and treatment principles [^71a95861]. American Family Physician (2014). Low credibility.
+### Addison disease: early detection and treatment principles [^113uWUxQ]. American Family Physician (2014). Low credibility.
 
 Primary adrenal insufficiency, or Addison disease, has many causes, the most common of which is autoimmune adrenalitis. Autoimmune adrenalitis results from destruction of the adrenal cortex, which leads to deficiencies in glucocorticoids, mineralocorticoids, and adrenal androgens. In the United States and Western Europe, the estimated prevalence of Addison disease is one in 20,000 persons; therefore, a high clinical suspicion is needed to avoid misdiagnosing a life-threatening adrenal crisis (i.e., shock, hypotension, and volume depletion). The clinical manifestations before an adrenal crisis are subtle and can include hyperpigmentation, fatigue, anorexia, orthostasis, nausea, muscle and joint pain, and salt craving. Cortisol levels decrease and adrenocorticotropic hormone levels increase. When clinically suspected, patients should undergo a cosyntropin stimulation test to confirm the diagnosis. Treatment of primary adrenal insufficiency requires replacement of mineralocorticoids and glucocorticoids. During times of stress (e.g., illness, invasive surgical procedures), stress-dose glucocorticoids are required because destruction of the adrenal glands prevents an adequate physiologic response. Management of primary adrenal insufficiency or autoimmune adrenalitis requires vigilance for concomitant autoimmune diseases; up to 50% of patients develop another autoimmune disorder during their lifetime.
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^b99c4e35]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^115kBDDE]. BMJ Case Reports (2019). High credibility.
 
 Discussion
 
@@ -213,7 +213,7 @@ This case report highlights many important aspects of adrenal insufficiency and 
 
 ---
 
-### Premature mortality in patients with Addison's disease: a population-based study [^57a07aac]. The Journal of Clinical Endocrinology and Metabolism (2006). Low credibility.
+### Premature mortality in patients with Addison's disease: a population-based study [^113EupuR]. The Journal of Clinical Endocrinology and Metabolism (2006). Low credibility.
 
 Background
 
@@ -233,13 +233,13 @@ Compared with the background population, we observed that the risk ratio for dea
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^0bb70ac8]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^111JNM3m]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Autoimmune Addison disease (AAD) is a rare endocrinopathy characterized by immune-mediated destruction of the adrenal cortex. Without treatment, it is invariably fatal, but once diagnosed health can be maintained with daily glucocorticoid and mineralocorticoid replacement tablets. Symptoms of AAD frequently start months or years before the condition is diagnosed, and current thinking is that it progresses to a "point of no return" where complete adrenocortical steroidogenic failure is inevitable and universal. Despite this assumption, several instances showing apparent spontaneous remission of well-characterized AAD have been reported in patients several years after an initial firm diagnosis. In addition, 1 study reported reduction in adrenal autoantibody titer and improved adrenal function in a presymptomatic individual following high-dose prednisolone therapy for coexisting Graves' orbitopathy. These studies start to suggest that adrenocortical steroidogenesis may exhibit some plasticity both at first presentation of Addison disease, and perhaps persisting postdiagnosis and treatment of AAD. With this in mind, we previously studied 13 patients with established AAD and found that 2 (15%) had detectable steroidogenesis 4 and 8 years postdiagnosis, which was amenable to improvement with high-dose ACTH therapy. One of these individuals remains healthy without steroid medication more than 7 years later, although ACTH remains elevated and adrenal autoantibodies remain detectable.
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^7eb7e280]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^114EsCsZ]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Context
 
@@ -263,7 +263,7 @@ Autoimmune Addison disease is a heterogeneous condition, showing a rapid decline
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^57ead25e]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^113FLoDP]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Abstract
 
@@ -291,7 +291,7 @@ Autoimmune Addison disease is a heterogeneous condition, showing a rapid decline
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^21fdf5c8]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^111sPtqm]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Patients and Methods
 
@@ -301,19 +301,19 @@ In 20 patients, serum cortisol data were captured at first presentation with new
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^9d595895]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^1152H4qz]. BMJ Case Reports (2019). High credibility.
 
 Besides its perplexing presentation and subtle onset, primary adrenal insufficiency is also rare why it is not uncommon that the diagnosis is delayed or missed. In fact, approximately 50% of all cases are first recognised when the patient eventually presents with a life-threatening adrenal crisis. It is, therefore, important to suspect adrenal crisis in all acutely ill patients with cardiovascular collapse. The therapeutic threshold should be low and parenteral administration of 100 mg hydrocortisone should not be delayed awaiting diagnostic measures. Further treatment with an additional 200 mg hydrocortisone distributed over the coming 24 hours, along with fluid replacement and careful electrolyte correction follows. Although recovery usually is quick and miraculous, improvement can sometimes withstand nearly a week, especially in cases where chronic adrenal insufficiency has gone undetected for a longer period of time and finally presents with an affected level of consciousness. Regarding our patient, both the medical history and the lower, yet significant, titres of 21-hydroxylase autoantibodies supports that the disease has existed, but failed to be diagnosed, for a longer period of time. In this specific case, the recovery was extraordinarily slow and even developed into catatonia, which is appreciated to be a result of the patient's extremely serious medical state rather than an expression of a primary psychiatric disease. Even though the patient has a positive family history of psychiatric disorders, the fact that the patient's earlier psychiatric symptoms never responded to psychiatric medications but splendidly subsided with hydrocortisone treatment makes it reasonable to believe that the psychiatric disorders were misinterpretations of adrenal insufficiency all along. The fact that the patient was under severe physical stress may also be depicted by the presence of takotsubo syndrome, and the association between adrenal insufficiency and reversible myocardial systolic dysfunction has been reported in several other cases, for instance by Ukita et al and Elikowski et al. Moreover, it is interesting that the vital steroid treatment of adrenal crisis may in fact worsen cardiac function as the myocardium then becomes even more sensitive, than the cortisone-deprived myocardium itself, to catecholamine-induced cardiomyopathy.
 
 ---
 
-### Adrenal insufficiency [^c93aafe0]. Journal of Clinical Pathology (2022). Medium credibility.
+### Adrenal insufficiency [^1169LDxb]. Journal of Clinical Pathology (2022). Medium credibility.
 
 Adrenal insufficiency (AI), first described by Thomas Addison in 1855, is characterised by inadequate hormonal production by the adrenal gland, which could either be primary, due to destruction of the adrenal cortex, or secondary/tertiary, due to lack of adrenocorticotropic hormone or its stimulation by corticotropin-releasing hormone. This was an invariably fatal condition in Addison's days with most patients dying within a few years of diagnosis. However, discovery of cortisone in the 1940s not only improved the life expectancy of these patients but also had a dramatic effect on their overall quality of life. The diagnosis, easily confirmed by demonstrating inappropriately low cortisol secretion, is often delayed by months, and many patients present with acute adrenal crisis. Sudden withdrawal from chronic glucocorticoid therapy is the most common cause of AI. Currently, there remains a wide variation in the management of this condition across Europe. As primary AI is a relatively rare condition, most medical specialists will only manage a handful of these patients in their career. Despite many advances in recent years, there is currently no curative option, and modern cortisol replacement regimens fail to adequately mimic physiological cortisol rhythm. A number of new approaches including allograft of adrenocortical tissue and stem cell therapy are being tried but remain largely experimental.
 
 ---
 
-### Epidemiology… [^a573eabc]. AAFP (2007). Low credibility.
+### Epidemiology… [^115EHtk3]. AAFP (2007). Low credibility.
 
 Autoimmune polyglandular syndrome, type II is not a common disease, but it has life-threatening consequences when the diagnosis is overlooked. APS II is the combination of chronic autoimmune adrenal insufficiency with autoimmune thyroid disease, type 1 autoimmune diabetes mellitus, or both. Other associated conditions are listed in. Clinical Presentation Symptoms of adrenal insufficiency are non-specific and common to many other conditions, and they may fluctuate in the early stages of the disease. Common signs and symptoms are listed in. A serum cortisol level less than 14 mcg per dL is considered positive and indicates an increased probability of primary or secondary adrenal insufficiency. The test can be done at any time of day. A basal cortisol level is not necessary because the percent of change is not used as diagnostic criteria.
 
@@ -323,7 +323,7 @@ A low-dose test, done with 1 mcg of cosyntropin, performs equally well for prima
 
 ---
 
-### The diagnosis and treatment of Addison's disease… [^2918eb6d]. JAMA Network (2025). Excellent credibility.
+### The diagnosis and treatment of Addison's disease… [^1123vs2c]. JAMA Network (2025). Excellent credibility.
 
 During the past two and one-half years we have treated thirteen cases of Addison's disease by means of the suprarenal cortical extract made according to the method of Swingle and Pfiffner. The diagnosis of each of these cases we have regarded as unequivocal. We have had seven deaths, and six of our patients are now living. All of the seven fatal cases have come to autopsy, and the clinical diagnosis of Addison's disease has in each been proved correct. Four were due to cortical atrophy. Of the three due to tuberculosis, case 1 was the first one in which treatment was given, and in the light of our later experience, adequate amounts of extract were not administered. The other two patients had advanced tuberculous lesions elsewhere in the body which probably caused death. An earlier report appeared in The Journal a year ago.
 
@@ -331,7 +331,7 @@ During the past two and one-half years we have treated thirteen cases of Addison
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^7a9886aa]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^1148kipy]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Results
 
@@ -344,7 +344,7 @@ Newly diagnosed Addison disease. Peak serum cortisol at presentation with autoim
 
 ---
 
-### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^5c788011]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Natural history of adrenal steroidogenesis in autoimmune Addison's disease following diagnosis and treatment [^113N6LTi]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Discussion
 
@@ -352,19 +352,19 @@ AAD has a long latency before presentation in most patients and understanding th
 
 ---
 
-### Adrenal imaging: from addison to algorithms [^e523efd1]. Radiologic Clinics of North America (2011). Low credibility.
+### Adrenal imaging: from addison to algorithms [^116riEe4]. Radiologic Clinics of North America (2011). Low credibility.
 
 Despite their small size, pathologic condition of the adrenal glands is often far from insignificant. Imagers should therefore be familiar with the principles and techniques that underpin the ability of imaging to characterize most lesions. Ignorance of these techniques fails to deliver the necessary imaging value to referrers and patients alike. This article, outlines the range of possible abnormalities encountered in the adrenal gland, the imaging modalities and specialized techniques used to detect and characterize them, the principles based on which these techniques are used, and finally a working imaging algorithm that can be readily used in daily practice.
 
 ---
 
-### Diagnosis and classification of Addison's disease (autoimmune adrenalitis) [^7da9589a]. Autoimmunity Reviews (2014). Low credibility.
+### Diagnosis and classification of Addison's disease (autoimmune adrenalitis) [^114DJLMX]. Autoimmunity Reviews (2014). Low credibility.
 
 Autoimmune adrenalitis, or autoimmune Addison disease (AAD), is the most prevalent cause of primary adrenal insufficiency in the developed world. AAD is rare and can easily be misdiagnosed as other conditions. The diagnosis depends on demonstrating inappropriately low cortisol production and the presence of high titers of adrenal cortex autoantibodies (ACAs), along with excluding other causes of adrenal failure using other tests as necessary. The treatment corticosteroid replacement, and the prognosis following the treatment is the same as the normal population. Spontaneous recovery of adrenal function has been described but is rare.
 
 ---
 
-### Autoimmune primary adrenal insufficiency: understanding the past, present, and future [^4bd12dad]. Endocrine Practice (2025). Medium credibility.
+### Autoimmune primary adrenal insufficiency: understanding the past, present, and future [^112wQLG4]. Endocrine Practice (2025). Medium credibility.
 
 Introduction
 
@@ -380,7 +380,7 @@ This review provides an updated overview of the epidemiology, pathophysiology, a
 
 ---
 
-### Recurrent nocturnal hypoglycaemia as a cause of morning fatigue in treated Addison's disease – favourable response to dietary management: a case report [^8fc70b85]. BMC Endocrine Disorders (2015). Low credibility.
+### Recurrent nocturnal hypoglycaemia as a cause of morning fatigue in treated Addison's disease – favourable response to dietary management: a case report [^114gA61S]. BMC Endocrine Disorders (2015). Low credibility.
 
 Background
 
@@ -388,13 +388,13 @@ Addison's disease or primary adrenal insufficiency (PAI) is managed with adrenal
 
 ---
 
-### First presentation of Addison's disease as hyperkalaemia in acute kidney injury [^e8f84007]. BMJ Case Reports (2016). Medium credibility.
+### First presentation of Addison's disease as hyperkalaemia in acute kidney injury [^116xPWgW]. BMJ Case Reports (2016). Medium credibility.
 
 Addison's disease is a rare endocrine disorder that frequently presents with non-specific symptoms, but may deteriorate rapidly into life-threatening Addisonian crisis if left untreated. Diagnosis can be difficult in patients without a suggestive medical history. We describe a case of a 37-year-old man who was admitted with acute kidney injury and hyperkalaemia, resistant to treatment with insulin/dextrose and calcium gluconate. On clinical examination, he was found to be hyperpigmented; a subsequent random serum cortisol of 49nmol/L affirmed the preliminary diagnosis of Addison's disease. The patient's hyperkalaemia improved on treatment with hydrocortisone, and a follow-up morning adrenocorticotropic hormone of 1051ng/L confirmed the diagnosis.
 
 ---
 
-### Addison's disease in evolution: an illustrative case and literature review [^58e41d12]. Endocrine Practice (2014). Low credibility.
+### Addison's disease in evolution: an illustrative case and literature review [^113GnXow]. Endocrine Practice (2014). Low credibility.
 
 Objective
 
@@ -414,7 +414,7 @@ The present case and literature review reveal that common diagnostic approaches 
 
 ---
 
-### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^11a3734e]. BMJ Case Reports (2019). High credibility.
+### A challenging diagnosis that eventually results in a life-threatening condition: Addison's disease and adrenal crisis [^111T9h4Z]. BMJ Case Reports (2019). High credibility.
 
 Furthermore, this case report also denotes the intricate association between thyroid disease and adrenal insufficiency. On the one hand, in the presence of another autoimmune disease, for example, hypothyroidism, there is an increased risk of adrenalitis and the diagnostic boundary for primary adrenal insufficiency should be lowered. On the other hand, an elevated thyroid-stimulating hormone (TSH) may be a mere feature of adrenal insufficiency, predating many other signs or symptoms. Note that in these cases treatment with levothyroxine may actually precipitate an adrenal crisis. Regarding our patient, he was diagnosed with hypothyroidism a decade ago, based on a slight increase in TSH (5.6 mlU/L), while T4 and antithyroid peroxidase antibodies were normal. As the patient was critically ill suffering from adrenal crisis, thyroidal laboratory results unsurprisingly indicated low T3 syndrome and are thus insignificant. Time will tell whether the patient actually suffers from hypothyroidism in addition to Addison's disease, or if levothyroxine therapy, which already has been halved, can be ceased completely as thyroid hormone status may normalise by hydrocortisone treatment.
 
@@ -422,19 +422,19 @@ This is only one of many cases that depicts the diagnostic struggle of Addison's
 
 ---
 
-### Unusual presentation of Addison's disease in schmidt's syndrome [^a6dcbd9f]. Journal of Pediatric Endocrinology & Metabolism (2003). Low credibility.
+### Unusual presentation of Addison's disease in schmidt's syndrome [^115GP6A2]. Journal of Pediatric Endocrinology & Metabolism (2003). Low credibility.
 
 A patient with Schmidt's syndrome and atypical symptoms of Addison's disease is presented. Autoimmune thyroiditis was diagnosed at the age of 12 years and then at 15 years; a diagnosis of migraine was made following 10 days of headache, visual field defects and dysarthria. One week later the patient was admitted to hospital in critical condition. Addison's disease was diagnosed and replacement therapy was introduced which brought about a rapid clinical improvement. Positive adrenal autoantibodies confirmed the diagnosis. We suggest that patients with organ-specific autoimmune disease undergo annual screening for adrenal activity, and in the event of abnormal results, adrenal autoantibody evaluation should be carried out, to avoid a life-threatening crisis caused by Addison's disease, which is often difficult to recognize due to atypical clinical presentation, as in the patient reported here.
 
 ---
 
-### Newly diagnosed T1 diabetes presenting with hypoglycemia due to simultaneous co-existence of addison disease [^5336d90e]. Pediatric Diabetes (2014). Low credibility.
+### Newly diagnosed T1 diabetes presenting with hypoglycemia due to simultaneous co-existence of addison disease [^1138NPuw]. Pediatric Diabetes (2014). Low credibility.
 
 Type 1 diabetes mellitus (TIDM) classically presents with symptomatic hyperglycemia and many patients develop diabetic ketoacidosis prior to their diagnosis. However, non-classical presentation or co-presentation with associated diseases may delay diagnosis or lead to challenges in acute, clinical management. An 18-yr-old girl presented to hospital with severe, symptomatic hypoglycemia. Clinical history and serum electrolyte concentrations suggested a diagnosis of adrenal insufficiency. She remained hypoglycemic until glucocorticoid replacement was commenced, at which point she developed persistent hyperglycemia requiring insulin therapy. Subsequent follow up confirmed the diagnosis of Addison's disease (AD), the treatment of which unmasked co-existing type 1 diabetes. Autoimmune diseases often cluster together in affected patients and first-degree relatives. Approximately 1 in 200 patients with T1DM develop AD. However, months or more commonly years usually elapse between the presentation of different autoimmune conditions. The co-diagnosis T1DM and AD in the acute setting is rare. Moreover, the first presentation of T1DM with severe hypoglycemia is even more exceptional. This case highlights the need for vigilance during the acute, emergency management of patients with autoimmune conditions and, in particular, to consider the possibility of concurrent antibody-mediated diseases which may need to be addressed during resuscitation.
 
 ---
 
-### Clues for early detection of autoimmune Addison's disease-myths and realities [^46c3f280]. Journal of Internal Medicine (2018). Low credibility.
+### Clues for early detection of autoimmune Addison's disease-myths and realities [^112oux63]. Journal of Internal Medicine (2018). Low credibility.
 
 Background
 
@@ -458,7 +458,7 @@ The most consistent biochemical finding of untreated AAD was low sodium independ
 
 ---
 
-### Latent adrenal insufficiency: concept, clues to detection, and diagnosis [^522b3ed3]. Endocrine Practice (2018). Low credibility.
+### Latent adrenal insufficiency: concept, clues to detection, and diagnosis [^1136pWbc]. Endocrine Practice (2018). Low credibility.
 
 In 1855, Thomas Addison described an illness now known as Addison disease (AD) caused by damage to the adrenal cortex and manifesting in weakness, weight loss, hypotension, gastrointestinal disturbances, and brownish pigmentation of the skin and mucous membranes. Corticosteroid supplementation, corticotropin (adrenocorticotropic hormone [ACTH] of medicinal use) test, and anti-adrenal auto-antibodies (AA) have come into use in the 100 years since Addison's death. Following the methodological innovations, 4 disorders which share impaired response to corticotropin in common have been discovered (i.e., partial AD, apigmented adrenal insufficiency [AI], subclinical AI, and the AA-positive state exclusively in subjects proven to have an impaired response to corticotropin). As they are hidden, potentially serious conditions, these disorders are bound together as latent AI (LAI). Diagnosis of AD is often delayed, which may lead to adrenal crisis. If LAI were widely recognized, such delays would not exist and crises would be averted. The 3 existing guidelines do not refer much to LAI patients outside those in acute situations. To address this, information relevant to clinical manifestations and diagnostic tests of LAI was sought in the literature. Signs and symptoms that are useful clues to begin a diagnostic workup are presented for endocrinologists to identify patients with suspected LAI. The utility of 2 corticotropin test protocols is reviewed. To endorse LAI shown by the corticotropin test, monitoring items following corticosteroid supplementation are cited from the guidelines and supplemented with the author's observations.
 
@@ -468,19 +468,19 @@ AA = anti-adrenal auto-antibodies; Ab = antibodies; ACA = AA detected by immunof
 
 ---
 
-### The importance of testing for adrenoleucodystrophy in males with idiopathic Addison's disease [^47728767]. Archives of Disease in Childhood (2002). Low credibility.
+### The importance of testing for adrenoleucodystrophy in males with idiopathic Addison's disease [^112pvbDG]. Archives of Disease in Childhood (2002). Low credibility.
 
 X linked adrenoleucodystrophy (X-ALD) is considered to be a rare cause of Addison's disease, although several small series suggest a high incidence in young Addisonian males. A survey in the south west of England identified 12 male patients diagnosed with Addison's disease in the period 1987–99. In 10 of these (83%) X-ALD was the underlying cause; the other two were of autoimmune aetiology. Five boys had developed Addison's disease subsequent to the diagnosis of X-ALD. Of the remaining five, in three boys the diagnosis of X-ALD was considerably delayed (by six months to two years from that of Addison's disease) and in two it was only made as a result of this survey. We also identified a patient who presented with Addison's disease at the age of 5 years but was only diagnosed as having X-ALD at the age of 34 years; in the interim his diagnosis of adrenomyeloneuropathy had been missed. Our experience highlights the absolute necessity of measuring very long chain fatty acids in all males with idiopathic Addison's disease.
 
 ---
 
-### Fine tuning for quality of life: 21st century approach to treatment of Addison's disease [^7845d138]. Endocrinology and Metabolism Clinics of North America (2009). Low credibility.
+### Fine tuning for quality of life: 21st century approach to treatment of Addison's disease [^1145Jxy5]. Endocrinology and Metabolism Clinics of North America (2009). Low credibility.
 
 Despite treatment with glucocorticoids and mineralocorticoids, the ability to work and quality of life of patients who have adrenal insufficiency remains low. There are no helpful objective measures of optimal glucocorticoid replacement, so this is best achieved by careful clinical assessment. Adequacy of mineralocorticoid replacement may be judged by assessing postural change in blood pressure, serum electrolytes, and plasma renin activity. Novel delayed-release and sustained-release formulations of hydrocortisone seem to more closely mimic diurnal serum cortisol rhythms than conventional hydrocortisone tablets. Such preparations are currently being evaluated and may play a role in management of patients who have adrenal insufficiency.
 
 ---
 
-### A polygenic risk score to help discriminate primary adrenal insufficiency of different etiologies [^78e9366b]. Journal of Internal Medicine (2023). Medium credibility.
+### A polygenic risk score to help discriminate primary adrenal insufficiency of different etiologies [^1146FrAW]. Journal of Internal Medicine (2023). Medium credibility.
 
 Background
 
@@ -500,25 +500,25 @@ The PRS performed well for case-control differentiation and susceptibility estim
 
 ---
 
-### Hyponatraemia presenting as reversible cerebellar ataxia in Addison's disease [^7f88cbab]. BMJ Case Reports (2019). High credibility.
+### Hyponatraemia presenting as reversible cerebellar ataxia in Addison's disease [^114G5NnN]. BMJ Case Reports (2019). High credibility.
 
 Addison's disease is a common endocrinopathy often diagnosed in patients presenting with hyponatraemia. Cerebellar ataxia as a presentation of hyponatraemia is extremely rare. A 42-year-old man presented with vomiting, fever, ataxic gait and scanning type of dysarthria. Clinical examination revealed signs suggestive of isolated cerebellar involvement. Patient was found to have severe hyponatraemia and serum cortisol was found to be extremely low while MRI brain was found to be normal. Corticosteroid therapy was initiated and cerebellar ataxia was resolved following normalisation of sodium levels.
 
 ---
 
-### 21-hydroxylase autoantibody-negative Addison's disease in a 5-year-old boy with adrenal crisis and type 1 diabetes mellitus [^883d1a73]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
+### 21-hydroxylase autoantibody-negative Addison's disease in a 5-year-old boy with adrenal crisis and type 1 diabetes mellitus [^114UyqiS]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
 
 Patients with type 1 diabetes mellitus (T1DM) have an increased risk of other autoimmune disorders. The combination of Addison's disease with T1DM and/or autoimmune thyroid disease is known as autoimmune polyendocrinopathy type 2 (APS-2). 21-hydroxylase autoantibody (21OHAb) is considered as a valuable marker for identifying patients with autoimmune Addison's disease (AD); however, it is not available in some countries. Here we present a 5-year-old boy with newly diagnosed T1DM, who developed AD with adrenal crisis within only six months, and after 1-year treatment, the test of 21OHAb was negative. This was a rare and the first APS-2 case in Taiwan, because APS-2 affects female adults more often, but not boys. At diagnosis of T1DM, we suggest that checking diurnal cortisol and adrenocorticotropic hormone levels as a baseline evaluations, and if it is available, checking 21OHAb as well. If there is subtle evidence of AD, such as unexplained hypoglycemia or unreasonably reduced insulin requirements, adrenal functions must be studied as soon as possible, even in the 21OHAb-negative T1DM patients. Even if nothing is abnormal, the patient still needs an annual measurement.
 
 ---
 
-### Approach to the patient: the adult with congenital adrenal hyperplasia [^dfeb8edc]. The Journal of Clinical Endocrinology and Metabolism (2013). Low credibility.
+### Approach to the patient: the adult with congenital adrenal hyperplasia [^116iyMtF]. The Journal of Clinical Endocrinology and Metabolism (2013). Low credibility.
 
 The most common form of congenital adrenal hyperplasia is steroid 21-hydroxylase deficiency (21OHD). When the nonclassical (mild) form is included, 21OHD is the most common genetic disease in human beings. With the advent of pharmaceutical preparation of glucocorticoids starting in the 1960s and newborn screening starting in the 1990s, the majority of children with 21OHD are reaching adulthood, which has yielded a cohort of patients with, in essence, a new disease. Only recently have some data emerged from cohorts of adults with 21OHD, and in some centers, experience with the management of these patients is growing. These patients suffer from poor health, infertility, characteristic tumors in the adrenal glands and gonads, and consequences of chronic glucocorticoid therapy. Their care is fragmented and inconsistent, and many stop taking their medications out of frustration. Internal medicine residents and endocrinology fellows receive little training in their care, which further discourages their seeking medical attention. Adults with 21OHD have a different physiology from patients with Addison's disease or other androgen excess states, and their needs are different than those of young children with 21OHD. Consequently, their care requires unorthodox treatment and monitoring strategies foreign to most endocrine practitioners. Our goal for this article is to review their physiology, complications, and needs in order to develop rational and effective treatment and monitoring strategies.
 
 ---
 
-### More, less or both? [^032cd549]. BMJ Case Reports (2018). Medium credibility.
+### More, less or both? [^1115i2GQ]. BMJ Case Reports (2018). Medium credibility.
 
 Discussion
 
@@ -537,13 +537,13 @@ Some clues in our case deserve special mentioning. First, we were puzzled by the
 
 ---
 
-### Acute adrenal insufficiency [^90cbde9b]. Endocrinology and Metabolism Clinics of North America (2006). Low credibility.
+### Acute adrenal insufficiency [^114hfhHC]. Endocrinology and Metabolism Clinics of North America (2006). Low credibility.
 
 Adrenal insufficiency is a rare disorder, usually with gradually evolving clinical symptoms and signs. Occasionally, an acute adrenal insufficiency crisis can become a life-threatening condition because of acute interruption of a normal or hyperfunctioning adrenal or pituitary gland or sudden interruption of a adrenal replacement therapy. Acute stress situations can aggravate the symptomatology. A simple strategy or diagnostic screening and early intervention with sodium chloride-containing fluids and hydrocortisone should be widely implemented for cases with suspicion of an acute Addison disease crisis. In contrast, the chronic replacement dosage for patients with adrenal insufficiency should be as low as possible with clear instructions for dosage adjustments in case of stress or acute emergencies.
 
 ---
 
-### Autoimmune thyroid disorders in autoimmune addison disease [^c1a64946]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Autoimmune thyroid disorders in autoimmune addison disease [^115x6TuX]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Very few patients were observed without treatment, indicating that even if the treatment is started on an uncertain indication, it is rarely reevaluated and stopped. Levothyroxine is one of the most commonly prescribed drugs in the world and often leads to lifelong replacement therapy. A recent systematic review and meta-analysis found that up to one-third of patients remained euthyroid after thyroid hormone discontinuation, with a higher proportion of patients with an initial diagnosis of subclinical hypothyroidism compared to overt hypothyroidism. Our data indicate that more patients can be observed without treatment, especially if TPOAb is negative. However, the number of individuals observed without treatment may be underestimated because of the possibility that those with untreated subclinical disease were not registered as such.
 
@@ -551,7 +551,7 @@ International guidelines state that if TSH is in the range of 4.1 to 10 mU/L and
 
 ---
 
-### Addison disease presenting with acute neurologic deterioration: a rare presentation yields new lessons from old observations in primary adrenal failure [^6ecca6e8]. Endocrine Practice (2010). Low credibility.
+### Addison disease presenting with acute neurologic deterioration: a rare presentation yields new lessons from old observations in primary adrenal failure [^113qGNwZ]. Endocrine Practice (2010). Low credibility.
 
 Objective
 
@@ -571,19 +571,19 @@ The diagnosis of primary adrenal insufficiency may not be suspected in the absen
 
 ---
 
-### Six year old with autoimmune polyglandular syndrome: can genetics tell us the story? [^2754710d]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
+### Six year old with autoimmune polyglandular syndrome: can genetics tell us the story? [^1121Jt3e]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
 
 Children who have diabetes mellitus type 1 (DMT1) are at increased risk of developing other autoimmune diseases. These associated diseases include Hashimoto's thyroiditis, Graves' disease, Celiac disease, and Addison's disease. Since Addison's disease is potentially fatal if undiagnosed and untreated, it would be prudent to effectively screen individuals to determine if they are at risk of developing this disease. We present a case of a 6 year old male with a history of DMT1, who presented in adrenal crisis and was subsequently diagnosed with Addison's disease. HLA-DRB1 404/DR4 is one of the genes involved in the development of Addison's disease in children with DMT1. Our patient later tested positive for this haplotype. Genetic testing is not routinely done in patients with (DMT1) to determine if they will potentially develop other associated conditions. We propose using genetic testing of associated HLA haplotypes to screen children with DMT1 for Addison's disease.
 
 ---
 
-### Newly diagnosed autoimmune Addison's disease in a patient with COVID-19 with autoimmune disseminated encephalomyelitis [^870b509e]. BMJ Case Reports (2022). High credibility.
+### Newly diagnosed autoimmune Addison's disease in a patient with COVID-19 with autoimmune disseminated encephalomyelitis [^114TD8Ud]. BMJ Case Reports (2022). High credibility.
 
 A man in his 20s with a history of acute disseminated encephalomyelitis (ADEM) was brought into the emergency department (ED) after his family found him at home collapsed on the floor unresponsive with a blood glucose of 28mg/dL at the field. In the ED, the patient was tachycardic, tachypnoeic and hypotensive, requiring pressors and intubation at 9hours and 12 hours after arrival, respectively. Laboratory results revealed a positive COVID-19 test, serum sodium of 125mmol/L and persistent hypoglycaemia. The patient was given a high dose of dexamethasone for COVID-19 treatment 1hour before pressors were started. He was then continued on a stress dose of intravenous hydrocortisone with rapid clinical improvement leading to his extubation, and discontinuation of vasopressors and glucose on day 2 of admission. The patient received his last dose of intravenous hydrocortisone on day 4 in the early afternoon with the plan to order adrenal testing the following morning prior to discharge. On day 5, the aldosterone < 3.0ng/dL, adrenocorticotropic hormone (ACTH) level > 1250pg/mL, and ACTH stimulation test showed cortisol levels of 3 and 3 µg/dL at 30 and 60min, respectively. The anti-21-hydroxylase antibody was positive. The patient was discharged on hydrocortisone and fludrocortisone. The patient's symptoms, elevated ACTH, low cortisol and presence of 21-hydroxylase antibodies are consistent with autoimmune Addison's disease. This is the first case reporting autoimmune Addison's disease in a patient with COVID-19 with a history of ADEM. The case highlights the importance of considering adrenal insufficiency as a diagnostic differential in haemodynamically unstable patients with COVID-19.
 
 ---
 
-### The functional and clinical significance of the 24-hour rhythm of circulating glucocorticoids [^38cd3dda]. Endocrine Reviews (2017). Low credibility.
+### The functional and clinical significance of the 24-hour rhythm of circulating glucocorticoids [^112TDFDB]. Endocrine Reviews (2017). Low credibility.
 
 2. Adrenal insufficiency
 
@@ -591,7 +591,7 @@ Primary hypocortisolism, or Addison's disease is mainly due to autoimmune defect
 
 ---
 
-### Severe multisystem organ dysfunction in an adolescent with simultaneous presentation of Addison's and Graves' disease [^36d2cbdc]. Journal of Pediatric Endocrinology & Metabolism (2021). Medium credibility.
+### Severe multisystem organ dysfunction in an adolescent with simultaneous presentation of Addison's and Graves' disease [^112QH8rw]. Journal of Pediatric Endocrinology & Metabolism (2021). Medium credibility.
 
 Objectives
 
@@ -607,19 +607,19 @@ Endocrinopathy should be included in the differential diagnosis of altered menta
 
 ---
 
-### Italian addison network study: update of diagnostic criteria for the etiological classification of primary adrenal insufficiency [^a2c9d12e]. The Journal of Clinical Endocrinology and Metabolism (2004). Low credibility.
+### Italian addison network study: update of diagnostic criteria for the etiological classification of primary adrenal insufficiency [^115ALnNH]. The Journal of Clinical Endocrinology and Metabolism (2004). Low credibility.
 
 Primary adrenal insufficiency (PAI) is clinically evident in one in 8000 individuals. A correct etiological classification is critical for correct disease management. To update the diagnostic criteria for the etiological classification of PAI, a multicentric network was established in Italy, and 222 patients with PAI were studied. Both 21-hydroxylase and adrenal cortex autoantibodies (21OHAb and ACA, respectively) were tested in two independent laboratories on coded samples and found in 65–66% and 58–61% of cases, respectively. Autoimmune polyendocrine syndrome I was diagnosed in 11 of the 222 patients. Of the remaining 211 patients, 38 (18%) had a nonautoimmune form of PAI. In 145 subjects (65%), the presence of adrenal autoantibodies, without signs of other forms of PAI, led to a diagnosis of autoimmune Addison's disease. In six cases (3%), PAI remained idiopathic. Logistic regression analysis showed a 92.2–92.7% probability of correct reclassification for the two 21OHAb assays and 84.5–85.9% for the ACA assays. We conclude that the simultaneous presence of both 21OHAb and ACA permits unambiguous diagnosis of autoimmune Addison's, whereas subjects with low antibody titers should undergo both instrumental and biochemical tests to exclude other causes of PAI. Lastly, we developed a comprehensive flowchart for the classification of PAI for use in routine clinical practice.
 
 ---
 
-### The interpretation of color-an endocrine cause of skin discoloration mimicking cyanosis [^e312c9ab]. Journal of Pediatric Endocrinology & Metabolism (2013). Low credibility.
+### The interpretation of color-an endocrine cause of skin discoloration mimicking cyanosis [^116oeVzA]. Journal of Pediatric Endocrinology & Metabolism (2013). Low credibility.
 
 Primary adrenal insufficiency, or Addison's disease, is very rare in the pediatric population. The diagnosis of Addison's disease is usually suspected in the presence of hyponatremia and hyperkalemia, or when adrenal crisis develops. Pediatricians often are unaware of other presenting symptoms of the disease. As a consequence, diagnosis is often delayed by months and even years. One of the presenting signs of adrenal insufficiency is hyperpigmentation. We present the diagnosis of Addison's disease in an 11-year-old boy complaining of skin color changes that were misinterpreted as "progressive cyanosis". When skin color changes occur in a child, pediatricians should think of hyperpigmentation as a presenting sign of adrenal insufficiency.
 
 ---
 
-### Increased infection risk in Addison's disease and congenital adrenal hyperplasia [^5d351e7e]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Increased infection risk in Addison's disease and congenital adrenal hyperplasia [^113PBh41]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Study population and period
 
@@ -631,7 +631,7 @@ The index date (ie, the date when follow-up commences) was defined as the date o
 
 ---
 
-### Predicting the onset of Addison's disease: ACTH, renin, cortisol and 21-hydroxylase autoantibodies [^e87e253f]. Clinical Endocrinology (2012). Low credibility.
+### Predicting the onset of Addison's disease: ACTH, renin, cortisol and 21-hydroxylase autoantibodies [^116wgVti]. Clinical Endocrinology (2012). Low credibility.
 
 Context
 
@@ -659,7 +659,7 @@ Moderately elevated ACTH is a more useful early indicator of impending AD than 2
 
 ---
 
-### Cytokine autoantibody screening in the Swedish addison registry identifies patients with undiagnosed APS1 [^c2b611e7]. The Journal of Clinical Endocrinology and Metabolism (2018). Low credibility.
+### Cytokine autoantibody screening in the Swedish addison registry identifies patients with undiagnosed APS1 [^115yfkgN]. The Journal of Clinical Endocrinology and Metabolism (2018). Low credibility.
 
 Context
 
@@ -683,20 +683,20 @@ We propose that patients with Addison disease should be routinely screened for c
 
 ---
 
-### More, less or both? [^d88c72a4]. BMJ Case Reports (2018). Medium credibility.
+### More, less or both? [^116Y3W1q]. BMJ Case Reports (2018). Medium credibility.
 
 Second, the low serum creatinine drew our attention, especially in the presence of hypovolaemia and a normal muscle mass. An explanation for this might be long-standing Addison's disease, which can decrease muscle mass due to myopathy. However, thyrotoxicosis itself is associated with a low serum creatinine due to an increase in GFR and decrease in muscle mass. Since urea nitrogen is usually elevated in thyrotoxicosis, a raised urea/creatinine ratio, as was seen in our patient, may point to this diagnosis. Third, the lack of hyperpigmentation was also surprising, but several recent studies show that this is not always present in Addison's disease. The clues in our patient for Addison's disease were weakness, fatigue, gastrointestinal symptoms, hypotension, low sodium, low cortisol, low aldosterone and positive adrenal antibodies. These clues are highly specific for Addison's disease. Finally, we did not perform an ACTH test before starting treatment with hydrocortisone. We had no reasonable doubts with regards to the diagnosis, since we did measure hypocortisolism, hypoaldosteronism and positive adrenal antibodies in a state of hypovolaemia, confirming the diagnosis of an 'adrenal hypocortisolism'. It was not possible to measure ACTH as we had already started treatment. However, we do recommend to always include an ACTH measurement, prior to starting treatment with hydrocortisone, as this gives more strength to the diagnosis, since it rules out a possible coexisting pituitary failure. Furthermore, measurement of ACTH is also important in the follow-up of Addison's disease since the value can give suspicion to over-replacement with corticosteroids. We did not perform a follow-up because the patient quickly returned to her home country after being discharged from the hospital.
 
 ---
 
-### ESHRE guideline: management of women with premature ovarian insufficiency [^49eda499]. Human Reproduction (2016). Medium credibility.
+### ESHRE guideline: management of women with premature ovarian insufficiency [^112tbvEL]. Human Reproduction (2016). Medium credibility.
 
 Regarding diagnostic investigations for amenorrhea, more specifically with respect to evaluation of primary ovarian insufficiency (adrenocortical and thyroid antibodies), ESHRE 2016 guidelines recommend to obtain screening for 21-hydroxylase autoantibodies, or alternatively adrenocortical antibodies, in patients with premature ovarian insufficiency of unknown cause or if an immune disorder is suspected.
 Refer patients with premature ovarian insufficiency with positive 21-hydroxylase autoantibodies/adrenocortical antibodies to an endocrinologist for testing of adrenal function and to rule out Addison's disease.
 
 ---
 
-### Autoimmune thyroid disorders in autoimmune addison disease [^efa1e0cf]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Autoimmune thyroid disorders in autoimmune addison disease [^1178GQza]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Abstract
 
@@ -722,7 +722,7 @@ The true prevalence of hypothyroidism in AAD is lower than reported in the curre
 
 ---
 
-### Approach to the patient: diagnosis of primary adrenal insufficiency in adults [^e230a2d4]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
+### Approach to the patient: diagnosis of primary adrenal insufficiency in adults [^116nLYCK]. The Journal of Clinical Endocrinology and Metabolism (2023). Medium credibility.
 
 The term APS2 is sometimes used for PAI in combination with any organ-specific autoimmune disease, which most commonly includes autoimmune thyroiditis (48%), but other autoimmune diseases such as primary ovarian insufficiency (10%), type 1 diabetes mellitus (10%), vitiligo, pernicious anaemia, alopecia, and celiac disease are also relatively frequent. Nonendocrine autoimmunity such as myasthenia gravis, multiple sclerosis, Sjøgren syndrome, or rheumatoid arthritis can also occur. Diagnosing autoimmune comorbidity requires vigilance both at the time of PAI diagnosis and during long-term follow-up.
 
@@ -736,7 +736,7 @@ Infectious destruction of the adrenal gland is now rare in Western countries. Tu
 
 ---
 
-### Estimated risk for developing autoimmune Addison's disease in patients with adrenal cortex autoantibodies [^21a206b1]. The Journal of Clinical Endocrinology and Metabolism (2006). Low credibility.
+### Estimated risk for developing autoimmune Addison's disease in patients with adrenal cortex autoantibodies [^111rs1pk]. The Journal of Clinical Endocrinology and Metabolism (2006). Low credibility.
 
 Context
 
@@ -756,13 +756,13 @@ These results were used to construct a risk algorithm for estimating the probabi
 
 ---
 
-### Type II polyglandular autoimmune syndrome: a case of Addison's disease precipitated by use of levothyroxine [^e65dc8f5]. BMJ Case Reports (2019). High credibility.
+### Type II polyglandular autoimmune syndrome: a case of Addison's disease precipitated by use of levothyroxine [^116tXett]. BMJ Case Reports (2019). High credibility.
 
 A 46-year-old woman was referred to the endocrinology clinic for evaluation of progressive fatigue, dizziness and treatment-resistant hypothyroidism. Initial laboratory results revealed hypothyroidism, hyponatraemia and hyperkalaemia. Liothyronine sodium (Cytomel) was initiated, which exacerbated her fatigue and dizziness. Suspecting adrenal insufficiency, an 08:00 cortisol level was obtained and found to be low with failure to increase following cosyntropin stimulation test. Diagnosis of primary adrenal insufficiency was confirmed via CT abdomen and pelvis revealing diminutive adrenal glands and elevated 21-hydroxylase antibody. Treatment was initiated with hydrocortisone 10mg every morning and 5mg at 16:00/day, with plan for patient follow-up in 3 weeks to assess need for mineralocorticoid replacement. Polyglandular syndromes are rare and have a wide variety of presentation. Thus, we recommend screening patients with a single autoimmune disorder who do not respond to conventional therapy to prevent possible life-threatening adrenal crisis.
 
 ---
 
-### Residual corticosteroid production in autoimmune addison disease [^26d5a0bd]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Residual corticosteroid production in autoimmune addison disease [^111zaHWt]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Discussion
 
@@ -770,19 +770,19 @@ We found residual GC production in one-third of patients with established AAD, m
 
 ---
 
-### Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association [^3145a79d]. Endocrine Practice (2012). Medium credibility.
+### Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association [^112G3nnx]. Endocrine Practice (2012). Medium credibility.
 
 Autoimmune endocrine comorbidity and hypothyroidism evaluation — Type 1 multiple autoimmune endocrinopathies (MAE) include hypoparathyroidism, Addison's disease, and mucocutaneous candidiasis, with autoimmune thyroiditis present in about 10%-15%; type 2 MAE comprises Addison's disease, autoimmune thyroiditis, and type 1 diabetes. In patients with adrenal insufficiency, the diagnosis of subclinical hypothyroidism should be deferred until after glucocorticoid therapy has been instituted because thyroid-stimulating hormone (TSH) levels may be elevated with untreated adrenal insufficiency and may normalize with glucocorticoid therapy.
 
 ---
 
-### Diagnosis and treatment of primary adrenal insufficiency: an endocrine society clinical practice guideline [^ffc09635]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
+### Diagnosis and treatment of primary adrenal insufficiency: an endocrine society clinical practice guideline [^117YAXkg]. The Journal of Clinical Endocrinology and Metabolism (2016). Medium credibility.
 
 Primary adrenal insufficiency — definition, pathophysiology, and clinical features: PAI is defined by the inability of the adrenal cortex to produce sufficient amounts of glucocorticoids and/or mineralocorticoids and needs to be distinguished from secondary adrenocortical insufficiency due to insufficient production of ACTH and without impact on the renin-angiotensin-aldosterone system. The signs of PAI are mainly based on deficiency of gluco- and mineralocorticoids and include weight loss, orthostatic hypotension due to dehydration, hyponatremia, hyperkalemia, changes in blood count (anemia, eosinophilia, lymphocytosis), and hypoglycemia; enhanced secretion of ACTH and other pro-opiomelanocortin peptides leads to characteristic hyperpigmentation of skin and mucous membranes, and in women loss of adrenal androgens results in loss of axillary and pubic hair. Symptoms are nonspecific and include weakness, fatigue, musculoskeletal pain, weight loss, abdominal pain, depression, and anxiety; diagnosis is frequently delayed with potential presentation as an acute life-threatening adrenal crisis, and even with treatment health-related quality of life in Addison's disease on standard replacement therapy is often reduced.
 
 ---
 
-### Fludrocortisone acetate [^e9e53177]. FDA (2025). Medium credibility.
+### Fludrocortisone acetate [^116ym6ht]. FDA (2025). Medium credibility.
 
 DOSAGE & ADMINISTRATION
 
@@ -800,7 +800,7 @@ The recommended dosage for treating the salt-losing adrenogenital syndrome is 0.
 
 ---
 
-### Cosyntropin [^698fb806]. FDA (2024). Medium credibility.
+### Cosyntropin [^113hVyTb]. FDA (2024). Medium credibility.
 
 INDICATIONS & USAGE
 
@@ -814,7 +814,7 @@ The differentiation of both types is based on the premise that a primarily defec
 
 ---
 
-### Autoimmune thyroid disorders in autoimmune addison disease [^5c4f9f79]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Autoimmune thyroid disorders in autoimmune addison disease [^113Mrc7A]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Materials and Methods
 
@@ -827,7 +827,7 @@ Flowchart of the Autoimmune Addison Disease (AAD) cohort. Flowchart of the inclu
 
 ---
 
-### European Society of Endocrinology and endocrine society joint clinical guideline: diagnosis and therapy of glucocorticoid-induced adrenal insufficiency [^f71837a3]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
+### European Society of Endocrinology and endocrine society joint clinical guideline: diagnosis and therapy of glucocorticoid-induced adrenal insufficiency [^117KL5Q6]. The Journal of Clinical Endocrinology and Metabolism (2024). Medium credibility.
 
 R 3.2 — We suggest that in patients with current or recent glucocorticoid use who did not undergo biochemical testing to rule out glucocorticoid-induced adrenal insufficiency and present with hemodynamic instability, vomiting, or diarrhea, the diagnosis of adrenal crisis should be considered irrespective of the glucocorticoid type, mode of administration, and dose; patients with suspected adrenal crisis should be treated with parenteral glucocorticoids and fluid resuscitation. (Good clinical practice)
 
@@ -843,25 +843,25 @@ Adrenal crisis (also known as acute adrenal insufficiency or Addisonian crisis) 
 
 ---
 
-### Autoantibodies in autoimmune polyendocrine syndrome type II [^de4be9d3]. Endocrinology and Metabolism Clinics of North America (2002). Low credibility.
+### Autoantibodies in autoimmune polyendocrine syndrome type II [^116gZkUS]. Endocrinology and Metabolism Clinics of North America (2002). Low credibility.
 
 The autoimmune polyendocrine syndrome type II (APS-II) is characterized by the association of autoimmune Addison's disease with thyroid autoimmune diseases or type-1 diabetes mellitus. 21-Hydroxylase autoantibodies enable the accurate diagnosis of autoimmune Addison's disease and, in patients with other endocrine autoimmune diseases, identify subjects at high risk for clinical adrenal insufficiency. 17 alpha-Hydroxylase (17OH) and side-chain-cleavage enzyme (P450scc) are target autoantigens of steroid-cell autoantibodies, and in women with Addison's disease, 17OH autoantibodies and P450scc autoantibodies are markers of increased risk for premature ovarian failure. Thyroperoxidase autoantibodies, thyroglobulin autoantibodies, H⁺/K⁺-ATPase autoantibodies, and GAD65 autoantibodies are frequently detected in patients with isolated Addison's or APS-II. Screening for other organ-specific autoimmune diseases should be performed in every patient with at least one major disease component of APS-II.
 
 ---
 
-### Primary ovarian insufficiency in women with Addison's disease [^175f3ced]. The Journal of Clinical Endocrinology and Metabolism (2021). Medium credibility.
+### Primary ovarian insufficiency in women with Addison's disease [^111behsJ]. The Journal of Clinical Endocrinology and Metabolism (2021). Medium credibility.
 
 Autoantibodies towards the steroidogenic enzyme 21OH have repeatedly proven to have the highest sensitivity in diagnosing autoimmune POI in women without AAD, even though this enzyme is exclusively expressed in the adrenal cortex. However, most women with AAD will already have disease-associated 21OH autoantibodies and they can therefore not be used to diagnose POI. Our study confirms SCC as the most sensitive autoantibody for autoimmune POI in AAD. Although the negative predictive value of SCC is high, the positive predictive value is low. Thus, a negative test result predicts that POI is unlikely to develop, while a positive score predicts that it might happen, although many will not develop POI, limiting the use of SCC as a sole screening test. We therefore recommend testing young women with AAD with symptoms of menstrual disturbances or concerns about fertility for autoantibodies against SCC.
 
 ---
 
-### Addison's crisis in adolescent patients with previously diagnosed diabetes mellitus as manifestation of polyglandular autoimmune syndrome type II – report of two patients [^4bbb41f4]. Journal of Pediatric Endocrinology & Metabolism (2004). Low credibility.
+### Addison's crisis in adolescent patients with previously diagnosed diabetes mellitus as manifestation of polyglandular autoimmune syndrome type II – report of two patients [^112wGyD5]. Journal of Pediatric Endocrinology & Metabolism (2004). Low credibility.
 
 We report on two female adolescents — both diagnosed with type 1 diabetes mellitus in early childhood — who presented with signs of severe metabolic decompensation. In both cases recompensation was difficult, and during the stay in hospital increasing discoloration of palmar creases was observed. ACTH testing demonstrated cortisol deficiency in both patients. In addition, autoimmune thyroiditis was diagnosed in one patient. As a polyglandular autoimmune syndrome was suspected, autoantibody studies were performed and the presence of autoantibodies against thyroid and adrenal tissue was established. Polyglandular autoimmune syndrome (PGA) type II can lead to subsequent manifestation of deficiencies of several endocrine glands. Although PGA type II usually presents at a more advanced age, adolescents may also present with the full spectrum of the disease. Especially in the presence of Addison's disease, life-threatening situations can develop rapidly. Coloration of palmar skin creases of patients with known type I diabetes mellitus should serve as a warning sign to be followed up with investigation of endocrine functions.
 
 ---
 
-### Hyperkalemia in a patient with myasthenia gravis: case presentation [^39e1adcf]. BMC Endocrine Disorders (2019). Medium credibility.
+### Hyperkalemia in a patient with myasthenia gravis: case presentation [^112Up6eJ]. BMC Endocrine Disorders (2019). Medium credibility.
 
 Table 2
 Patients with association of myasthenia gravis and Addison's disease
@@ -874,13 +874,13 @@ The three primary causes of hyperkalemia are increased K + intake, K + release f
 
 ---
 
-### Autoimmune adrenal insufficiency and autoimmune polyendocrine syndromes: autoantibodies, autoantigens, and their applicability in diagnosis and disease prediction [^df488879]. Endocrine Reviews (2002). Low credibility.
+### Autoimmune adrenal insufficiency and autoimmune polyendocrine syndromes: autoantibodies, autoantigens, and their applicability in diagnosis and disease prediction [^116i2buJ]. Endocrine Reviews (2002). Low credibility.
 
 Recent progress in the understanding of autoimmune adrenal disease, including a detailed analysis of a group of patients with Addison's disease (AD), has been reviewed. Criteria for defining an autoimmune disease and the main features of autoimmune AD (history, prevalence, etiology, histopathology, clinical and laboratory findings, cell-mediated andhumoral immunity, autoantigens and their autoepitopes, genetics, animal models, associated autoimmune diseases, pathogenesis, natural history, therapy) have been described. Furthermore, the autoimmune polyglandular syndromes (APS) associated with AD (revised classification, animal models, genetics, natural history) have been discussed. Of Italian patients with primary AD (n = 317), 83% had autoimmune AD. At the onset, all patients with autoimmune AD (100%) had detectable adrenal cortex and/or steroid 21-hydroxylase autoantibodies. In the course of natural history of autoimmune AD, the presence of adrenal cortex and/or steroid 21-hydroxylase autoantibodies identified patients at risk to develop AD. Different risks of progression to clinical AD were found in children and adults, and three stages of subclinical hypoadrenalism have been defined. Normal or atrophic adrenal glands have been demonstrated by imaging in patients with clinical or subclinical AD. Autoimmune AD presented in four forms: as APS type 1 (13% of the patients), APS type 2 (41%), APS type 4 (5%), and isolated AD (41%). There were differences in genetics, age at onset, prevalence of adrenal cortex/21-hydroxylase autoantibodies, and associated autoimmune diseases in these groups. "Incomplete" forms of APS have been identified demonstrating that APS are more prevalent than previously reported. A varied prevalence of hypergonadotropic hypogonadism in patients with AD and value of steroid-producing cells autoantibodies reactive with steroid 17alpha-hydroxylase or P450 side-chain cleavage enzyme as markers of this disease has been discussed. In addition, the prevalence, characteristic autoantigens, and autoantibodies of minor autoimmune diseases associated with AD have been described. Imaging of adrenal glands, genetic tests, and biochemical analysis have been shown to contribute to early and correct diagnosis of primary non-autoimmune AD in the cases of hypoadrenalism with undetectable adrenal autoantibodies. An original flow chart for the diagnosis of AD has been proposed.
 
 ---
 
-### Impact of month of birth on the risk of development of autoimmune Addison's disease [^3a835d89]. The Journal of Clinical Endocrinology and Metabolism (2016). Low credibility.
+### Impact of month of birth on the risk of development of autoimmune Addison's disease [^112VkQYp]. The Journal of Clinical Endocrinology and Metabolism (2016). Low credibility.
 
 Subjects and Methods
 
@@ -896,7 +896,7 @@ Data regarding year of birth, year of AAD diagnosis, and the age at diagnosis ar
 
 ---
 
-### Hyperkalemia in a patient with myasthenia gravis: case presentation [^44ee853d]. BMC Endocrine Disorders (2019). Medium credibility.
+### Hyperkalemia in a patient with myasthenia gravis: case presentation [^112mCGv8]. BMC Endocrine Disorders (2019). Medium credibility.
 
 Background
 
@@ -912,13 +912,13 @@ We successfully demonstrated that adrenal insufficiency could be diagnosed, due 
 
 ---
 
-### Diagnosis of Cushing's disease [^e4104c82]. Pituitary (2015). Low credibility.
+### Diagnosis of Cushing's disease [^116q7enD]. Pituitary (2015). Low credibility.
 
 Diagnosis of Cushing's disease frequently remains a challenge. In this review we critically appraise the clinical features, biochemical tests, and imaging modalities used for this purpose. We outline recommendations for approaches to clinical investigation, with a particular focus on developments made within the last two years.
 
 ---
 
-### Addisonian crisis in a young man with atypical anorexia nervosa [^18ba795e]. Nature Reviews: Endocrinology (2011). Medium credibility.
+### Addisonian crisis in a young man with atypical anorexia nervosa [^111dfLa9]. Nature Reviews: Endocrinology (2011). Medium credibility.
 
 Background
 
@@ -938,7 +938,7 @@ Immediate administration of hydrocortisone (100 mg bolus dose followed by 100 mg
 
 ---
 
-### Spontaneous and tetracosactide-induced anti-ACTH antibodies in man [^f07efde7]. Clinical Endocrinology (2016). Low credibility.
+### Spontaneous and tetracosactide-induced anti-ACTH antibodies in man [^1179Ygdk]. Clinical Endocrinology (2016). Low credibility.
 
 Intriguingly, the same autoreactivity has not been reported with soluble synthetic tetracosactide. Indeed, animal studies showed that whilst conjugates of the ACTH 1–24 peptide were antigenic, unconjugated ACTH 1–24 peptide failed to induce an antibody response in rabbits or guinea pigs. 11, 19 The N‐terminal segment (1–24) of ACTH peptide is highly conserved among all species and is believed to have low antigenicity. 10, 12, 20 Hence, it seems likely that the complex of ACTH 1–24 and zinc in the depot tetracosactide formulation preparation may be important in the generation of the humoral immune response.
 
@@ -946,13 +946,13 @@ Interestingly, five of the 13 participants from the RoSA study, who were never p
 
 ---
 
-### Eye care of the patient with diabetes mellitus [^55d8bb09]. AOA (2019). High credibility.
+### Eye care of the patient with diabetes mellitus [^113CGkCx]. AOA (2019). High credibility.
 
 Classification of diabetes mellitus — type 1 diabetes mellitus — Type 1 diabetes (formerly called insulin-dependent or juvenile diabetes) occurs when the body's immune system attacks and destroys insulin-producing beta-cells in the pancreas and accounts for approximately 6 percent of individuals with diabetes in the United States. The primary characteristic of type 1 diabetes is absolute dependence on exogenous insulin to prevent profound hyperglycemia and ketoacidosis. Although more frequently diagnosed in children and young adults, type 1 diabetes can occur at any age; it may be caused by genetic, environmental, or other factors, and currently there is no known way to prevent it. Persons with type 1 diabetes may develop other autoimmune disorders such as Hashimoto's disease, Graves' disease, Addison's disease, myasthenia gravis, and pernicious anemia.
 
 ---
 
-### Residual adrenal function in autoimmune Addison's disease-effect of dual therapy with rituximab and depot tetracosactide [^05a226ff]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Residual adrenal function in autoimmune Addison's disease-effect of dual therapy with rituximab and depot tetracosactide [^1119MQPg]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Patients and Methods
 
@@ -965,7 +965,7 @@ Screening, treatment and monitoring schedule in the RADS2 study. Initial screeni
 
 ---
 
-### Continuous subcutaneous hydrocortisone infusion versus oral hydrocortisone replacement for treatment of Addison's disease: a randomized clinical trial [^2fe91f8d]. The Journal of Clinical Endocrinology and Metabolism (2014). Low credibility.
+### Continuous subcutaneous hydrocortisone infusion versus oral hydrocortisone replacement for treatment of Addison's disease: a randomized clinical trial [^112E2irQ]. The Journal of Clinical Endocrinology and Metabolism (2014). Low credibility.
 
 Context
 
@@ -993,7 +993,7 @@ CSHI safely brought ACTH and cortisol toward normal circadian levels without adv
 
 ---
 
-### Primary ovarian insufficiency in women with Addison's disease [^25fc7df6]. The Journal of Clinical Endocrinology and Metabolism (2021). Medium credibility.
+### Primary ovarian insufficiency in women with Addison's disease [^111yKMNM]. The Journal of Clinical Endocrinology and Metabolism (2021). Medium credibility.
 
 Results
 
@@ -1014,7 +1014,7 @@ Associated autoimmune conditions in women with Addison's disease (AAD) with and 
 
 ---
 
-### X-linked congenital adrenal hypoplasia: a case presentation [^bbc18177]. BMC Endocrine Disorders (2021). Medium credibility.
+### X-linked congenital adrenal hypoplasia: a case presentation [^115oMgVc]. BMC Endocrine Disorders (2021). Medium credibility.
 
 Background
 
@@ -1030,7 +1030,7 @@ The typical early symptoms of AHC are hyperpigmentation and ion disturbance duri
 
 ---
 
-### Multiple disease associations in autoimmune polyglandular syndrome type II [^e4209fac]. Endocrine Practice (2014). Low credibility.
+### Multiple disease associations in autoimmune polyglandular syndrome type II [^116qD8pB]. Endocrine Practice (2014). Low credibility.
 
 Objective
 
@@ -1050,7 +1050,7 @@ A case of a patient with APS II with a dramatic development of 8 autoimmune dise
 
 ---
 
-### Residual corticosteroid production in autoimmune addison disease [^a3857534]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Residual corticosteroid production in autoimmune addison disease [^115BRouM]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Study design
 
@@ -1069,7 +1069,7 @@ The primary endpoint was frequency of residual GC and/ or MC production in patie
 
 ---
 
-### X-linked congenital adrenal hypoplasia: a case presentation [^5dee63d9]. BMC Endocrine Disorders (2021). Medium credibility.
+### X-linked congenital adrenal hypoplasia: a case presentation [^113QFvRN]. BMC Endocrine Disorders (2021). Medium credibility.
 
 A high likelihood of the misdiagnosis of AHC
 
@@ -1077,13 +1077,13 @@ AHC typically manifests as adrenocortical hypofunction in infancy and early chil
 
 ---
 
-### X-linked congenital adrenal hypoplasia: a case presentation [^d5a33c60]. BMC Endocrine Disorders (2021). Medium credibility.
+### X-linked congenital adrenal hypoplasia: a case presentation [^116TjC7h]. BMC Endocrine Disorders (2021). Medium credibility.
 
 In recent years, continuous advances in diagnosis and treatment of AHC have contributed to an increasing number of cases diagnosed, but lack of knowledge regarding AHC may lead to misdiagnosis as congenital adrenal hyperplasia (CAH), aldosterone deficiency, or Addison's disease, which may result in patients experiencing delays in treatment, as well as improperly medicated. We are currently reporting on a male patient who developed systemic pigmentation at age 2 and was initially diagnosed with Addison's disease. At the age of 22, he experienced a slipped capital femoral epiphysis (SCFE). The incidence of SCFE was 1 ~ 24.6/100,000, mostly occurring in children aged 8–15 years. Among its many etiologies, endocrine disorder is an important cause, including changes in the levels of sex hormones, growth hormones, and other hormones. Further genetic testing and auxiliary examinations revealed that the patient had HH and DAX-1 gene disorders, at which time he was diagnosed with AHC complicated by HH. As part of the current investigation related cases have been reviewed and their clinical manifestations, laboratory, and genetic monitoring results have been summarized, with the aim of improving clinicians' understanding of AHC, avoiding misdiagnosis, and providing assistance to family members of patients during prenatal consultations.
 
 ---
 
-### Autoimmune thyroid disorders in autoimmune addison disease [^ba55ab24]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
+### Autoimmune thyroid disorders in autoimmune addison disease [^115mFUNf]. The Journal of Clinical Endocrinology and Metabolism (2022). Medium credibility.
 
 Diagnosis of Autoimmune Hypothyroidism
 
@@ -1107,7 +1107,7 @@ Most of the patients used levothyroxine in monotherapy. Fourteen patients (4%) u
 
 ---
 
-### Premature ovarian failure in patients with autoimmune Addison's disease: clinical, genetic, and immunological evaluation [^6786619d]. The Journal of Clinical Endocrinology and Metabolism (2011). Low credibility.
+### Premature ovarian failure in patients with autoimmune Addison's disease: clinical, genetic, and immunological evaluation [^113eUrz8]. The Journal of Clinical Endocrinology and Metabolism (2011). Low credibility.
 
 Design
 
@@ -1131,13 +1131,13 @@ This study indicates that AD is frequently associated with POF and that steroido
 
 ---
 
-### Autoimmune adrenocortical failure in Norway autoantibodies and human leukocyte antigen class II associations related to clinical features [^ad0e9af7]. The Journal of Clinical Endocrinology and Metabolism (2002). Low credibility.
+### Autoimmune adrenocortical failure in Norway autoantibodies and human leukocyte antigen class II associations related to clinical features [^115RZmHg]. The Journal of Clinical Endocrinology and Metabolism (2002). Low credibility.
 
 Autoimmune destruction of the adrenal cortex is the most common cause of primary adrenocortical insufficiency (Addison's disease) in industrialized countries. We have investigated a large Norwegian cohort of patients with Addison's disease in terms of clinical manifestations, autoantibodies, and human leukocyte antigen (HLA) class II haplotypes. The study comprised 94 patients (54 females) of ages 6–85 yr (mean 45 yr) with, either isolated Addison's disease or part of autoimmune polyendocrine syndrome type II. Among those diagnosed before the age of thirty, 53% were men, while among those diagnosed at 30 or above, 30% were men. Altogether 77 (82%) of the 94 patients had autoantibodies against 21-hydroxylase (21OH). Thirty-eight of the 40 patients with disease duration 5 yr or less had such autoantibodies. This frequency fell to 60% among patients with a disease duration greater than 35 yr. Five women had gonadal failure. This failure correlated with antibodies against side-chain cleavage enzyme (P = 0.03). Antibodies against glutamic acid decarboxylase and IA2 correlated with the presence of type 1 diabetes (P < 0.005 and P = 0.003, respectively). The frequency of the HLA DRB1✱03-DQA1✱05-DQB1✱02 (DR3-DQ2) and DRB1✱04-DQA1✱03-DQB1✱0302 (DR4-DQ8) haplotypes were positively correlated to Addison's disease, whereas the DRB1✱01-DQA1✱0101-DQB1✱0501 (DR1-DQ5) haplotype was negatively correlated. In addition, the DRB1✱04 subtype DRB1✱0404 was increased among Addison patients relative to controls. We verify that autoimmunity is the main cause of Addison's disease in our cohort. In younger patients, the disease is equally common in men and women. Measurement of autoantibodies against 21OH is a valuable tool in establishing the etiological diagnosis, especially in patients with a short disease duration. Addison's disease is associated with the DR3-DQ2 and DR4 (0404)-DQ8 haplotypes. A particularly high risk for disease development is observed when these occur in a heterozygous combination (DR3-DQ2/DR4-DQ8).
 
 ---
 
-### Residual corticosteroid production in autoimmune addison disease [^1a30a212]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
+### Residual corticosteroid production in autoimmune addison disease [^111fq1n1]. The Journal of Clinical Endocrinology and Metabolism (2020). Medium credibility.
 
 Results
 
@@ -1156,7 +1156,7 @@ Correlation between corticosteroids. (A) Correlation between serum cortisol and 
 
 ---
 
-### Nonischemic cardiomyopathy associated with autoimmune polyglandular syndrome type II [^ea84bd1f]. Endocrine Practice (2007). Low credibility.
+### Nonischemic cardiomyopathy associated with autoimmune polyglandular syndrome type II [^116zgguL]. Endocrine Practice (2007). Low credibility.
 
 Objective
 
@@ -1176,13 +1176,13 @@ Although autoimmune cardiomyopathy has been associated with other autoimmune dis
 
 ---
 
-### Endocrine and immunogenetic testing in individuals with type 1 diabetes and 21-hydroxylase autoantibodies: Addison's disease in a high-risk population [^4a7c19d8]. The Journal of Clinical Endocrinology and Metabolism (2005). Low credibility.
+### Endocrine and immunogenetic testing in individuals with type 1 diabetes and 21-hydroxylase autoantibodies: Addison's disease in a high-risk population [^112uRmY3]. The Journal of Clinical Endocrinology and Metabolism (2005). Low credibility.
 
 Individuals with type 1 diabetes mellitus (T1D) at risk for Addison's disease (AD) can be identified with RIAs for autoantibodies to the adrenal antigen 21-hydroxylase (21-OHAA). Screening individuals with T1D for 21OH-AA shows a relatively high prevalence of positive autoantibodies (1.4%, 38 of 2696 subjects). After detection of 21-OHAA, individuals were evaluated with endocrine testing, including baseline cortisol, ACTH, and plasma renin activity and low (1 mug) and high (250 mug) dose cortrosyn stimulation. Typing for DR and DQ alleles and for the major histocompatibility complex class I-related chain A (MICA) gene polymorphisms was performed. Six individuals were diagnosed with AD; five were identified on initial endocrine evaluation. Follow-up over 2.9 yr yielded one additional diagnosis of AD. Endocrine testing showed a correlation between baseline ACTH and peak cortisol (r = -0.61; P < 0.0001), baseline and peak cortisol (r = 0.70; P < 0.0001), and stimulated cortisol after low- and high-dose testing (r = 0.92; P < 0.0001). DR3-DQ2/DR4-DQ8 with DRB1* 0404 was associated with expression of 21-OHAA. At 2 yr, individuals homozygous for MICA5.1 had AD-free survival of 60% compared with 100% AD-free survival in those who were not homozygous for MICA5.1. Homozygosity for MICA5.1 may increase progression to overt AD among 21-OHAA-positive individuals.
 
 ---
 
-### Future directions in the management of classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency [^57ee9421]. The Journal of Clinical Endocrinology and Metabolism (2025). Medium credibility.
+### Future directions in the management of classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency [^113FN4QQ]. The Journal of Clinical Endocrinology and Metabolism (2025). Medium credibility.
 
 Alternative Hydrocortisone Formulations
 
@@ -1192,7 +1192,7 @@ In healthy individuals, cortisol levels increase overnight to an early morning p
 
 ---
 
-### Recurrent nocturnal hypoglycaemia as a cause of morning fatigue in treated Addison's disease – favourable response to dietary management: a case report [^c000723c]. BMC Endocrine Disorders (2015). Low credibility.
+### Recurrent nocturnal hypoglycaemia as a cause of morning fatigue in treated Addison's disease – favourable response to dietary management: a case report [^115uemoR]. BMC Endocrine Disorders (2015). Low credibility.
 
 Late dosing of GCs is sometimes associated with sleep difficulties, presumably due to the known effects of GCs on arousal. Hence, studies of GC regimens have focussed on short-acting GCs given at various frequencies, but avoiding administration 4–6 h before bedtime, in an attempt to mimic circadian plasma cortisol levels and improve short-term non-blinded measures of quality of life. Two studies have shown that circadian cortisol rhythms are closer to physiological if HC is given on a thrice-daily 10/5/5 mg schedule. Weight related dosing reduces inter-individual variation in cortisol levels. Cortisone acetate, which is converted to HC endogenously, has been shown to produce greater ACTH suppression and more physiological cortisol levels in Addison's when given as a thrice rather than twice daily regimen. A four-dose regimen of HC produced more physiological circadian cortisol levels than 2-dose, but quality of life was similar. A practical limitation is the patients reported difficulty in adherence to frequent dose schedules. Overall, although these studies have shown that more frequent GC dosing can more closely mimic physiological cortisol levels there is limited short term data on quality of life and the optimum GC replacement regimen in PAI is not known.
 
@@ -1202,19 +1202,19 @@ Administration of DHEA, an adrenal steroid that is not secreted in appreciable a
 
 ---
 
-### Concomitant presentation of IgG-negative idiopathic retroperitoneal fibrosis and Addison's disease [^bc8472a8]. BMJ Case Reports (2019). High credibility.
+### Concomitant presentation of IgG-negative idiopathic retroperitoneal fibrosis and Addison's disease [^115pVAGo]. BMJ Case Reports (2019). High credibility.
 
 We describe a patient who was admitted to our medical centre with acute renal failure, hyponatraemia and hyperkalaemia. CT of the abdomen and pelvis showed a retroperitoneal mass with bilateral ureteral obstruction. Biopsy revealed fibrosis with inflammatory infiltrate, but rare IgG 4 -positive plasma cells. After placement of bilateral pigtail nephrostomy catheters, renal failure improved but metabolic derangements remained. Morning serum cortisol level was equivocal, but with blunted response on cosyntropin stimulation testing indicating adrenal insufficiency. Serology for 21-hydroxylase antibodies was strongly positive, supporting the diagnosis of Addison's disease. In addition to nephrostomy catheters for obstructive uropathy, idiopathic retroperitoneal fibrosis was treated with mycophenolate mofetil. Physiological doses of hydrocortisone and fludrocortisone for Addison's disease were also initiated. The patient continues to be monitored for regression of the mass. Based on review of the literature, this is the first reported case of IgG 4 -negative idiopathic retroperitoneal fibrosis presenting with autoimmune primary adrenal insufficiency.
 
 ---
 
-### Time course of 21-hydroxylase antibodies and long-term remission of subclinical autoimmune adrenalitis after corticosteroid therapy: case report [^5fec0293]. The Journal of Clinical Endocrinology and Metabolism (2001). Low credibility.
+### Time course of 21-hydroxylase antibodies and long-term remission of subclinical autoimmune adrenalitis after corticosteroid therapy: case report [^113TD6cr]. The Journal of Clinical Endocrinology and Metabolism (2001). Low credibility.
 
 Subclinical Addison's disease is characterized by the presence of adrenal autoantibodies (ACA) and steroid 21-hydroxylase autoantibodies (21OHAb) with or without adrenal function failure. In our previous longitudinal study some patients with high titers of ACA and at stage 2 of subclinical adrenocortical failure showed disappearance of ACA with recovery of normal adrenocortical function after corticosteroid treatment for Graves' ophthalmopathy. To investigate whether corticosteroid-induced modification of the adrenal autoimmune markers can also involve 21OHAb and to evaluate whether the remission of subclinical adrenocortical failure can persist over a long period of time, we followed-up for 100 months the levels of 21OHAb and ACA as well as the metabolic markers of adrenal function in one patient with Graves' ophthalmopathy and at stage 2 of subclinical adrenocortical failure before and after corticosteroid therapy. A 34-yr-old woman with Graves' disease and active ophthalmopathy who was found to be positive for ACA and to have high PRA, low aldosterone levels, and normal basal ACTH and cortisol levels, but impaired cortisol response to ACTH was studied. The patient was treated with oral corticosteroid therapy for 6 months. After corticosteroid therapy, 21OHAb, initially positive, became negative in concomitance with the disappearance of ACA and the restoration of normal adrenal function. The disappearance of both 21OHAb and ACA and their prolonged absence during the follow-up suggest that corticosteroid treatment can induce long-term remission of subclinical adrenal insufficiency and prevent the onset of the clinical phase of the disease. Our pilot study may pave the way to future trials aimed at preventing the onset of the clinical signs of Addison's disease in ACA/21OHAb-positive patients.
 
 ---
 
-### T cell responses to steroid cytochrome P450 21-hydroxylase in patients with autoimmune primary adrenal insufficiency [^8653bc9c]. The Journal of Clinical Endocrinology and Metabolism (2009). Low credibility.
+### T cell responses to steroid cytochrome P450 21-hydroxylase in patients with autoimmune primary adrenal insufficiency [^114S9U5y]. The Journal of Clinical Endocrinology and Metabolism (2009). Low credibility.
 
 Context
 
@@ -1238,7 +1238,7 @@ Patients with autoimmune Addison's disease have circulating 21OH-specific T cell
 
 ---
 
-### X-linked congenital adrenal hypoplasia: a case presentation [^12eb27b8]. BMC Endocrine Disorders (2021). Medium credibility.
+### X-linked congenital adrenal hypoplasia: a case presentation [^111V3mGK]. BMC Endocrine Disorders (2021). Medium credibility.
 
 Background
 
@@ -1254,7 +1254,7 @@ The typical early symptoms of AHC are hyperpigmentation and ion disturbance duri
 
 ---
 
-### Diagnosis and treatment of primary adrenal insufficiency: an endocrine society clinical practice guideline [^434743b2]. The Journal of Clinical Endocrinology and Metabolism (2016). Low credibility.
+### Diagnosis and treatment of primary adrenal insufficiency: an endocrine society clinical practice guideline [^112ik7E1]. The Journal of Clinical Endocrinology and Metabolism (2016). Low credibility.
 
 Objective
 

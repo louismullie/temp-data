@@ -15,29 +15,29 @@ Anterior segment dysgenesis
 
 > Let's see… What do we have here? The user is asking about anterior segment dysgenesis. Let's break this down step-by-step. First, I need to think about defining anterior segment dysgenesis and its embryologic basis. Then, I should classify the major clinical phenotypes and their overlapping features. Next, I will review the molecular genetics, including key genes, inheritance patterns, and genotype–phenotype correlations. After that, I should appraise diagnostic strategies, including imaging and genetic testing. Then, I will examine management principles, especially glaucoma care and surgical considerations. Finally, I will consider special entities, prognosis, and counseling, and close with a concise synthesis that ties mechanism to phenotype to management.
 
-> Let me first confirm the definition and embryology. Anterior segment dysgenesis (ASD) refers to a spectrum of developmental disorders affecting cornea, iris, angle structures, lens, and sometimes posterior segment tissues, arising from abnormal neural crest cell migration and differentiation around the embryonic optic cup, with PITX2 and FOXC1 as central regulators of this process, and with sensitivity to gene dosage that helps explain phenotypic variability [^3b16d190] [^8e8a303a].
+> Let me first confirm the definition and embryology. Anterior segment dysgenesis (ASD) refers to a spectrum of developmental disorders affecting cornea, iris, angle structures, lens, and sometimes posterior segment tissues, arising from abnormal neural crest cell migration and differentiation around the embryonic optic cup, with PITX2 and FOXC1 as central regulators of this process, and with sensitivity to gene dosage that helps explain phenotypic variability [^112WbwAo] [^114eKf9K].
 
-> Hold on, let's not jump to conclusions about discrete categories; I should verify the clinical spectrum. The major phenotypes include Axenfeld–Rieger spectrum (posterior embryotoxon, iris hypoplasia, corectopia/polycoria, high glaucoma risk), Peters anomaly (central corneal opacity with iridocorneal or keratolenticular adhesions), aniridia (iris hypoplasia to complete absence, foveal hypoplasia, progressive corneal opacification), primary congenital glaucoma (buphthalmos, corneal enlargement, Haab's striae), and sclerocornea, with frequent overlap and shared genes blurring boundaries, so I need to emphasize a continuum rather than rigid boxes [^8e8a303a] [^6ecbe415].
+> Hold on, let's not jump to conclusions about discrete categories; I should verify the clinical spectrum. The major phenotypes include Axenfeld–Rieger spectrum (posterior embryotoxon, iris hypoplasia, corectopia/polycoria, high glaucoma risk), Peters anomaly (central corneal opacity with iridocorneal or keratolenticular adhesions), aniridia (iris hypoplasia to complete absence, foveal hypoplasia, progressive corneal opacification), primary congenital glaucoma (buphthalmos, corneal enlargement, Haab's striae), and sclerocornea, with frequent overlap and shared genes blurring boundaries, so I need to emphasize a continuum rather than rigid boxes [^114eKf9K] [^113qG87e].
 
-> Wait, let me verify the genetic architecture before I overgeneralize. PITX2 and FOXC1 account for roughly 40–60% of Axenfeld–Rieger cases, with PITX2 more tightly linked to dental and umbilical anomalies and FOXC1 to hearing and cardiac defects; PAX6 is the principal gene for aniridia; CYP1B1 is classically associated with primary congenital glaucoma but also contributes to Peters anomaly; other contributors include FOXE3, PXDN, CPAMD8, COL4A1/COL4A2, and MAF, reflecting transcription factor, extracellular matrix, and signaling pathway disruption [^8a081bb9] [^a2571790] [^61aa897a] [^8e201d96] [^030c05d7] [^5694f979] [^5f533f55] [^0cba4e57].
+> Wait, let me verify the genetic architecture before I overgeneralize. PITX2 and FOXC1 account for roughly 40–60% of Axenfeld–Rieger cases, with PITX2 more tightly linked to dental and umbilical anomalies and FOXC1 to hearing and cardiac defects; PAX6 is the principal gene for aniridia; CYP1B1 is classically associated with primary congenital glaucoma but also contributes to Peters anomaly; other contributors include FOXE3, PXDN, CPAMD8, COL4A1/COL4A2, and MAF, reflecting transcription factor, extracellular matrix, and signaling pathway disruption [^114Xe1rQ] [^1159gFLs] [^113Vo5fX] [^114di2gM] [^1115X14z] [^113DMyVa] [^113SKnZa] [^111KsRv6].
 
-> I should double-check inheritance patterns and expressivity. Most ASD entities are autosomal dominant with variable expressivity and incomplete penetrance, though recessive forms occur (e.g. CPAMD8, PXDN, CYP1B1-related phenotypes), and de novo variants are not rare, which complicates counseling; moreover, the same variant can manifest differently within families, reinforcing the need for careful phenotyping and segregation analysis [^8a081bb9] [^5694f979] [^030c05d7] [^89566947].
+> I should double-check inheritance patterns and expressivity. Most ASD entities are autosomal dominant with variable expressivity and incomplete penetrance, though recessive forms occur (e.g. CPAMD8, PXDN, CYP1B1-related phenotypes), and de novo variants are not rare, which complicates counseling; moreover, the same variant can manifest differently within families, reinforcing the need for careful phenotyping and segregation analysis [^114Xe1rQ] [^113DMyVa] [^1115X14z] [^114WcL2z].
 
-> Next, I should review diagnostic strategy. Clinically, I need to document corneal diameter, clarity, iris features, angle anatomy, lens position, and IOP; when cornea is opaque, ultrasound biomicroscopy (UBM) or anterior segment OCT are invaluable to define angle structures, synechiae, and lens–cornea relations; gonioscopy remains essential when feasible; and genetic testing with targeted panels or exome/genome, including CNV calling, yields 22–64% depending on phenotype and method, with higher yield in ARS and Peters anomaly and meaningful utility for counseling and surveillance [^4eef4736] [^92269dcf] [^d330e774] [^89566947].
+> Next, I should review diagnostic strategy. Clinically, I need to document corneal diameter, clarity, iris features, angle anatomy, lens position, and IOP; when cornea is opaque, ultrasound biomicroscopy (UBM) or anterior segment OCT are invaluable to define angle structures, synechiae, and lens–cornea relations; gonioscopy remains essential when feasible; and genetic testing with targeted panels or exome/genome, including CNV calling, yields 22–64% depending on phenotype and method, with higher yield in ARS and Peters anomaly and meaningful utility for counseling and surveillance [^11322QVj] [^114jgATG] [^116Q6pC3] [^114WcL2z].
 
-> Let me consider management principles, and I need to ensure I prioritize glaucoma. More than 50% of ASD patients develop glaucoma, often early and refractory; medical therapy is frequently insufficient, and angle surgery (goniotomy/trabeculotomy) may fail when angle anatomy is dysgenic, so trabeculectomy with adjuncts or drainage devices are commonly required; combined trabeculotomy–trabeculectomy can be considered initially when cornea is opaque, acknowledging worse outcomes when ASD features coexist; lifelong IOP surveillance is mandatory given late-onset risk [^8e8a303a] [^8c0a946d] [^8cd75376].
+> Let me consider management principles, and I need to ensure I prioritize glaucoma. More than 50% of ASD patients develop glaucoma, often early and refractory; medical therapy is frequently insufficient, and angle surgery (goniotomy/trabeculotomy) may fail when angle anatomy is dysgenic, so trabeculectomy with adjuncts or drainage devices are commonly required; combined trabeculotomy–trabeculectomy can be considered initially when cornea is opaque, acknowledging worse outcomes when ASD features coexist; lifelong IOP surveillance is mandatory given late-onset risk [^114eKf9K] [^114acpZi] [^114bobLq].
 
-> But wait, what about corneal disease and lens anomalies. For corneal opacities, penetrating keratoplasty or Descemet-stripping procedures may be indicated, though graft survival is challenged by concurrent glaucoma, limbal stem cell dysfunction, and persistent epithelial defects; cataract extraction may be complicated by poor zonular support and iris laxity; refractive amblyopia and strabismus must be aggressively managed in the critical period to optimize visual potential [^6b30e717] [^33f14c6f] [^a2571790] [^ec23ba0e].
+> But wait, what about corneal disease and lens anomalies. For corneal opacities, penetrating keratoplasty or Descemet-stripping procedures may be indicated, though graft survival is challenged by concurrent glaucoma, limbal stem cell dysfunction, and persistent epithelial defects; cataract extraction may be complicated by poor zonular support and iris laxity; refractive amblyopia and strabismus must be aggressively managed in the critical period to optimize visual potential [^113jv6ra] [^112L1RFL] [^1159gFLs] [^117365XB].
 
-> I will now examine special entities and syndromic associations so I don't miss systemic disease. Williams–Beuren syndrome can feature a stellate iris pattern and has been reported with unilateral Peters-like anomalies, though causality remains uncertain; COL4A1/COL4A2 variants can cause anterior segment dysgenesis with cerebral hemorrhage and warrant neuroimaging when suspected; Alagille syndrome (JAG1/NOTCH2) includes posterior embryotoxon and retinal pigmentary changes; and Coffin–Siris syndrome has been reported with Peters-type ASD and glaucoma, underscoring the need for systemic evaluation when ocular findings are atypical or severe [^97bebd17] [^5f533f55] [^52f9ff18] [^54ad580c].
+> I will now examine special entities and syndromic associations so I don't miss systemic disease. Williams–Beuren syndrome can feature a stellate iris pattern and has been reported with unilateral Peters-like anomalies, though causality remains uncertain; COL4A1/COL4A2 variants can cause anterior segment dysgenesis with cerebral hemorrhage and warrant neuroimaging when suspected; Alagille syndrome (JAG1/NOTCH2) includes posterior embryotoxon and retinal pigmentary changes; and Coffin–Siris syndrome has been reported with Peters-type ASD and glaucoma, underscoring the need for systemic evaluation when ocular findings are atypical or severe [^114syCSa] [^113SKnZa] [^11381xS3] [^113AYBgf].
 
-> Hold on, I should verify prognosis and counseling implications. Visual outcomes are highly variable and often limited by corneal opacity, glaucoma, foveal hypoplasia, and amblyopia; bilateral disease and severe phenotypes (e.g., sclerocornea, Peters anomaly) carry higher risks of blindness; genetic counseling must account for autosomal dominant transmission with 50% risk, recessive recurrence risks, and the possibility of de novo dominant variants; prenatal diagnosis may be feasible when the familial variant is known, and early molecular diagnosis can guide surveillance for glaucoma, hearing loss, and systemic anomalies [^4f863e95] [^8e8a303a] [^89566947].
+> Hold on, I should verify prognosis and counseling implications. Visual outcomes are highly variable and often limited by corneal opacity, glaucoma, foveal hypoplasia, and amblyopia; bilateral disease and severe phenotypes (e.g., sclerocornea, Peters anomaly) carry higher risks of blindness; genetic counseling must account for autosomal dominant transmission with 50% risk, recessive recurrence risks, and the possibility of de novo dominant variants; prenatal diagnosis may be feasible when the familial variant is known, and early molecular diagnosis can guide surveillance for glaucoma, hearing loss, and systemic anomalies [^1132u7ZE] [^114eKf9K] [^114WcL2z].
 
-> Let me reconsider the synthesis to ensure coherence. ASD represents a developmental continuum of neural crest–derived anterior segment anomalies driven by transcription factor dysregulation (notably PITX2, FOXC1, PAX6) and extracellular matrix perturbations, with overlapping phenotypes and variable expressivity; diagnosis relies on meticulous phenotyping plus UBM/AS-OCT and targeted genetic testing; management centers on aggressive glaucoma control, selective corneal and lens surgery, and amblyopia therapy, while counseling must address inheritance, systemic risks, and recurrence; emerging data on CPAMD8, PXDN, and COL4A1/COL4A2 expand the genetic landscape and may refine future classifications and therapies [^8e8a303a] [^7f4d2d87] [^5694f979] [^030c05d7] [^5f533f55].
+> Let me reconsider the synthesis to ensure coherence. ASD represents a developmental continuum of neural crest–derived anterior segment anomalies driven by transcription factor dysregulation (notably PITX2, FOXC1, PAX6) and extracellular matrix perturbations, with overlapping phenotypes and variable expressivity; diagnosis relies on meticulous phenotyping plus UBM/AS-OCT and targeted genetic testing; management centers on aggressive glaucoma control, selective corneal and lens surgery, and amblyopia therapy, while counseling must address inheritance, systemic risks, and recurrence; emerging data on CPAMD8, PXDN, and COL4A1/COL4A2 expand the genetic landscape and may refine future classifications and therapies [^114eKf9K] [^114FjMLS] [^113DMyVa] [^1115X14z] [^113SKnZa].
 
 ---
 
-Anterior segment dysgenesis (ASD) is a spectrum of developmental disorders affecting the cornea, iris, angle, and lens, with a **high risk of glaucoma** and vision loss [^8e8a303a]. It is genetically heterogeneous, most commonly due to **FOXC1, PITX2, and PAX6** mutations, and shows variable expressivity and overlap with syndromic forms [^8a081bb9] [^a2571790]. Diagnosis is clinical, supported by imaging (UBM, AS-OCT) and genetic testing, which informs counseling and management [^4eef4736] [^d330e774]. Management is multidisciplinary, prioritizing early glaucoma detection and control, with surgery as needed; prognosis depends on severity and timeliness of care [^8c0a946d].
+Anterior segment dysgenesis (ASD) is a spectrum of developmental disorders affecting the cornea, iris, angle, and lens, with a **high risk of glaucoma** and vision loss [^114eKf9K]. It is genetically heterogeneous, most commonly due to **FOXC1, PITX2, and PAX6** mutations, and shows variable expressivity and overlap with syndromic forms [^114Xe1rQ] [^1159gFLs]. Diagnosis is clinical, supported by imaging (UBM, AS-OCT) and genetic testing, which informs counseling and management [^11322QVj] [^116Q6pC3]. Management is multidisciplinary, prioritizing early glaucoma detection and control, with surgery as needed; prognosis depends on severity and timeliness of care [^114acpZi].
 
 ---
 
@@ -45,13 +45,13 @@ Anterior segment dysgenesis (ASD) is a spectrum of developmental disorders affec
 
 ASD presents with a **broad spectrum of ocular anomalies**, including:
 
-- **Cornea**: microcornea, megalocornea, sclerocornea, corneal opacity, posterior embryotoxon [^9a73001f].
-- **Iris**: hypoplasia, corectopia, polycoria, persistent pupillary membrane [^6b30b717].
-- **Angle**: iridocorneal adhesions, trabecular meshwork dysgenesis, Schlemm's canal anomalies [^686ef968].
-- **Lens**: ectopia lentis, cataract, aphakia [^8e201d96].
-- **Glaucoma**: elevated IOP from impaired aqueous outflow, occurring in ~50% of patients [^8e8a303a].
+- **Cornea**: microcornea, megalocornea, sclerocornea, corneal opacity, posterior embryotoxon [^114wyini].
+- **Iris**: hypoplasia, corectopia, polycoria, persistent pupillary membrane [^113jv3Ci].
+- **Angle**: iridocorneal adhesions, trabecular meshwork dysgenesis, Schlemm's canal anomalies [^113fpzG7].
+- **Lens**: ectopia lentis, cataract, aphakia [^114di2gM].
+- **Glaucoma**: elevated IOP from impaired aqueous outflow, occurring in ~50% of patients [^114eKf9K].
 
-Systemic associations are common, notably in **Axenfeld-Rieger syndrome** (dental, craniofacial, cardiac, hearing) [^b5c45594] and in syndromic forms such as WAGR (Wilms tumor, aniridia, genitourinary anomalies, retardation) [^72004f44] and Alagille syndrome (cholestasis, cardiac, vertebral) [^52f9ff18].
+Systemic associations are common, notably in **Axenfeld-Rieger syndrome** (dental, craniofacial, cardiac, hearing) [^115eUhud] and in syndromic forms such as WAGR (Wilms tumor, aniridia, genitourinary anomalies, retardation) [^113v1hAB] and Alagille syndrome (cholestasis, cardiac, vertebral) [^11381xS3].
 
 ---
 
@@ -61,17 +61,17 @@ ASD is **genetically heterogeneous**, with mutations in multiple genes disruptin
 
 | **Gene** | **Chromosomal location** | **Associated phenotypes** |
 |-|-|-|
-| FOXC1 | 6p25 | - Axenfeld-Rieger syndrome <br/> - Primary congenital glaucoma <br/> - Corneal abnormalities [^8a081bb9] [^8765a923] |
-| PITX2 | 4q25 | - Axenfeld-Rieger syndrome <br/> - Iris hypoplasia <br/> - Dental and umbilical anomalies [^8a081bb9] [^af02fb03] |
-| PAX6 | 11p13 | - Aniridia <br/> - Foveal hypoplasia <br/> - Corneal opacity <br/> - Cataract [^a2571790] [^0b6686b7] |
-| CYP1B1 | 2p22.2 | - Primary congenital glaucoma <br/> - Peters anomaly [^61aa897a] [^4575cac1] |
-| FOXE3 | 1p32.2 | - Cataract <br/> - Microphthalmia <br/> - Aphakia [^8e201d96] |
-| PXDN | 2p25.3 | - Microphthalmia <br/> - Sclerocornea <br/> - Anterior segment dysgenesis [^030c05d7] [^407080c7] |
-| CPAMD8 | 7q36.1 | - Autosomal recessive ASD <br/> - Iris and lens anomalies [^5694f979] [^1e7526b1] |
+| FOXC1 | 6p25 | - Axenfeld-Rieger syndrome <br/> - Primary congenital glaucoma <br/> - Corneal abnormalities [^114Xe1rQ] [^114TjUZ8] |
+| PITX2 | 4q25 | - Axenfeld-Rieger syndrome <br/> - Iris hypoplasia <br/> - Dental and umbilical anomalies [^114Xe1rQ] [^115UTqP8] |
+| PAX6 | 11p13 | - Aniridia <br/> - Foveal hypoplasia <br/> - Corneal opacity <br/> - Cataract [^1159gFLs] [^111HuJUN] |
+| CYP1B1 | 2p22.2 | - Primary congenital glaucoma <br/> - Peters anomaly [^113Vo5fX] [^112myiDe] |
+| FOXE3 | 1p32.2 | - Cataract <br/> - Microphthalmia <br/> - Aphakia [^114di2gM] |
+| PXDN | 2p25.3 | - Microphthalmia <br/> - Sclerocornea <br/> - Anterior segment dysgenesis [^1115X14z] [^112eXzmk] |
+| CPAMD8 | 7q36.1 | - Autosomal recessive ASD <br/> - Iris and lens anomalies [^113DMyVa] [^111n9yk4] |
 
 ---
 
-Mutations cause abnormal neural crest cell migration and differentiation, disrupting normal anterior segment morphogenesis [^3b16d190].
+Mutations cause abnormal neural crest cell migration and differentiation, disrupting normal anterior segment morphogenesis [^112WbwAo].
 
 ---
 
@@ -79,11 +79,11 @@ Mutations cause abnormal neural crest cell migration and differentiation, disrup
 
 Diagnosis relies on **clinical examination**, with imaging and genetics refining classification and counseling:
 
-- **Slit-lamp examination**: iris hypoplasia, corectopia, posterior embryotoxon, corneal opacity [^6b30b717].
+- **Slit-lamp examination**: iris hypoplasia, corectopia, posterior embryotoxon, corneal opacity [^113jv3Ci].
 - **Gonioscopy**: angle abnormalities, iridocorneal adhesions [^notfound].
-- **Ultrasound biomicroscopy (UBM)**: detailed angle, iris, lens, and corneal assessment, especially with corneal opacity [^4eef4736].
-- **Anterior segment OCT**: noninvasive angle and corneal analysis [^92269dcf].
-- **Genetic testing**: targeted panels or exome sequencing to identify causative variants and inform counseling [^d330e774].
+- **Ultrasound biomicroscopy (UBM)**: detailed angle, iris, lens, and corneal assessment, especially with corneal opacity [^11322QVj].
+- **Anterior segment OCT**: noninvasive angle and corneal analysis [^114jgATG].
+- **Genetic testing**: targeted panels or exome sequencing to identify causative variants and inform counseling [^116Q6pC3].
 
 ---
 
@@ -91,69 +91,69 @@ Diagnosis relies on **clinical examination**, with imaging and genetics refining
 
 Management is **multidisciplinary**, prioritizing glaucoma control and visual rehabilitation:
 
-- **Glaucoma management**: medical therapy (beta-blockers, prostaglandin analogs, carbonic anhydrase inhibitors); surgical options include trabeculotomy, trabeculectomy, or drainage devices, often required due to refractory IOP [^8c0a946d].
-- **Corneal disease**: medical management of edema; keratoplasty for severe opacity or decompensation [^0f1672f1].
-- **Lens anomalies**: surgical removal of cataract or aphakic lenses, with careful management of zonular instability [^6b30b717].
-- **Refractive and amblyopia management**: correction of refractive errors, patching, and vision therapy [^ec23ba0e].
-- **Systemic evaluation**: screening for associated anomalies (dental, cardiac, hearing, renal) and genetic counseling [^20312264].
+- **Glaucoma management**: medical therapy (beta-blockers, prostaglandin analogs, carbonic anhydrase inhibitors); surgical options include trabeculotomy, trabeculectomy, or drainage devices, often required due to refractory IOP [^114acpZi].
+- **Corneal disease**: medical management of edema; keratoplasty for severe opacity or decompensation [^111PNMZz].
+- **Lens anomalies**: surgical removal of cataract or aphakic lenses, with careful management of zonular instability [^113jv3Ci].
+- **Refractive and amblyopia management**: correction of refractive errors, patching, and vision therapy [^117365XB].
+- **Systemic evaluation**: screening for associated anomalies (dental, cardiac, hearing, renal) and genetic counseling [^111pj7ET].
 
 ---
 
 ## Prognosis
 
-Prognosis varies with **severity and timeliness of intervention**. Severe corneal opacity, refractory glaucoma, and syndromic forms carry poorer visual outcomes, whereas early glaucoma control and surgical intervention improve prognosis [^4f863e95].
+Prognosis varies with **severity and timeliness of intervention**. Severe corneal opacity, refractory glaucoma, and syndromic forms carry poorer visual outcomes, whereas early glaucoma control and surgical intervention improve prognosis [^1132u7ZE].
 
 ---
 
-Anterior segment dysgenesis is a complex, genetically heterogeneous group of developmental eye disorders with overlapping phenotypes and a high risk of glaucoma. Early, accurate diagnosis and coordinated, multidisciplinary care — including genetic counseling — are essential to optimize visual outcomes and manage systemic associations [^8e8a303a].
+Anterior segment dysgenesis is a complex, genetically heterogeneous group of developmental eye disorders with overlapping phenotypes and a high risk of glaucoma. Early, accurate diagnosis and coordinated, multidisciplinary care — including genetic counseling — are essential to optimize visual outcomes and manage systemic associations [^114eKf9K].
 
 ---
 
 ## References
 
-### Phenotype-genotype correlations and emerging pathways in ocular anterior segment dysgenesis [^8e8a303a]. Human Genetics (2019). Medium credibility.
+### Phenotype-genotype correlations and emerging pathways in ocular anterior segment dysgenesis [^114eKf9K]. Human Genetics (2019). Medium credibility.
 
 Disorders of the anterior segment of the eye encompass a variety of clinical presentations including aniridia, Axenfeld and Rieger anomalies, primary congenital glaucoma, Peters anomaly, as well as syndromal associations. These conditions have a significant impact on vision due to disruption of the visual axis, and also secondary glaucoma which occurs in over 50% of patients. Ocular anterior segment disorders occur due to a complex interplay of developmental, embryological and genetic factors, and often have phenotypic overlaps and genetic heterogeneity. Here we present a review of the clinical features and genes associated with aniridia, Axenfeld and Rieger anomalies, primary congenital glaucoma, Peters anomaly, and syndromic forms of these conditions. We also highlight phenotype-genotype correlations, recent discoveries with next-generation sequencing which broaden known phenotypes, and new anterior segment genes and pathways. We provide a guide towards genetic diagnosis for clinicians investigating patients with anterior segment dysgenesis.
 
 ---
 
-### The molecular genetics of anterior segment dysgenesis [^7f4d2d87]. Experimental Eye Research (2023). Medium credibility.
+### The molecular genetics of anterior segment dysgenesis [^114FjMLS]. Experimental Eye Research (2023). Medium credibility.
 
 Anterior segment dysgenesis is a severe developmental eye disorder that leads to blindness in children. The exact mechanisms underlying this condition remain elusive. Recently, an increasing amount of studies have focused on genes and signal transduction pathways that affect anterior segment dysgenesis; these factors include transcription factors, developmental regulators, extracellular matrix genes, membrane-related proteins, cytoskeleton proteins and other associated genes. To date, dozens of gene variants have been found to cause anterior segment dysgenesis. However, there is still a lack of effective treatments. With a broader and deeper understanding of the molecular mechanisms underlying anterior segment development in the future, gene editing technology and stem cell technology may be new treatments for anterior segment dysgenesis. Further studies on the mechanisms of how different genes influence the onset and progression of anterior segment dysgenesis are still needed.
 
 ---
 
-### Anterior segment dysgenesis and the developmental glaucomas are complex traits [^efe56eb7]. Human Molecular Genetics (2002). Low credibility.
+### Anterior segment dysgenesis and the developmental glaucomas are complex traits [^1178f74J]. Human Molecular Genetics (2002). Low credibility.
 
 Glaucoma refers to a heterogeneous group of disorders that involve retinal ganglion cell death, optic nerve damage, and loss of visual field. Glaucoma is a leading cause of vision loss worldwide, affecting an estimated 67 million people. Elevated intraocular pressure is a major risk factor for glaucoma. Individuals with malformations of structures of the anterior segment of the eye frequently develop elevated intraocular pressure and glaucoma. In this review, we focus on the developmental glaucomas, the subset of glaucomas associated with anterior segment dysgenesis. To minimize overlap with other reviews in this issue and elsewhere, we highlight the complex, multifactorial nature of these diseases and recent advances using mice.
 
 ---
 
-### Molecular and developmental mechanisms of anterior segment dysgenesis [^3b16d190]. Eye (2007). Low credibility.
+### Molecular and developmental mechanisms of anterior segment dysgenesis [^112WbwAo]. Eye (2007). Low credibility.
 
 Anterior segment dysgenesis (ASD) is a failure of the normal development of the tissues of the anterior segment of the eye. It leads to anomalies in the structure of the mature anterior segment, associated with an increased risk of glaucoma and corneal opacity. Several different gene mutations have been identified underlying these anomalies with the majority of ASD genes encoding transcriptional regulators. In this review, the role of the ASD genes, PITX2 and FOXC1, is considered in relation to the embryology of the anterior segment, the biochemical function of these proteins, and their role in development and disease aetiology. The emerging view is that these genes act in concert to specify a population of mesenchymal progenitor cells, mainly of neural crest origin, as they migrate anteriorly around the embryonic optic cup. These same genes then regulate mesenchymal cell differentiation to give rise to distinct anterior segment tissues. Development appears critically sensitive to gene dosage, and variation in the normal level of transcription factor activity causes a range of anterior segment anomalies. Interplay between PITX2 and FOXC1 in the development of different anterior segment tissues may partly explain the phenotypic variability and the genetic heterogeneity characteristic of ASD.
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^1e7526b1]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^111n9yk4]. American Journal of Human Genetics (2016). Low credibility.
 
 Our study has several important implications for understanding the etiology of ASD and the development of the anterior segment. First, we define a unique form of autosomal-recessive ASD, characterized by predominant iris and lens anomalies that don't affect the cornea or posterior segment. Second, we identify mutations in CPAMD8, encoding a protein of unknown function, as the cause of autosomal-recessive ASD. Third, our data demonstrate the spatiotemporal expression of CPAMD8 in the developing human lens, iris, retinal neuroepithelium, and presumptive cornea, suggesting that CPAMD8 might have a potential role in crosstalk between the optic cup peripheral neuroepithelium and the anterior periocular mesenchyme during eye morphogenesis. Finally, phylogenetic analyses show the rodent lineage-specific deletion of CPAMD8, implying functional divergence or complementation of gene function between humans and rodents. In conclusion, our study delineates a clinical entity, and our findings suggest that mutations in CPAMD8 might cause ASD in genetically unresolved individuals.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^f9348265]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^117NTZ8p]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of autosomal recessive anterior segment dysgenesis is estimated at 0.00011 per 100,000 population.
 
 ---
 
-### Childhood glaucoma genes and phenotypes: focus on FOXC1 mutations causing anterior segment dysgenesis and hearing loss [^8765a923]. Experimental Eye Research (2020). Medium credibility.
+### Childhood glaucoma genes and phenotypes: focus on FOXC1 mutations causing anterior segment dysgenesis and hearing loss [^114TjUZ8]. Experimental Eye Research (2020). Medium credibility.
 
 Childhood glaucoma is an important cause of blindness world-wide. Eleven genes are currently known to cause inherited forms of glaucoma with onset before age 20. While all the early-onset glaucoma genes cause severe disease, considerable phenotypic variability is observed among mutations carriers. In particular, FOXC1 genetic variants are associated with a broad range of phenotypes including multiple forms of glaucoma and also systemic abnormalities, especially hearing loss. FOXC1 is a member of the forkhead family of transcription factors and is involved in neural crest development necessary for formation of anterior eye structures and also pharyngeal arches that form the middle ear bones. In this study we review the clinical phenotypes reported for known FOXC1 mutations and show that mutations in patients with reported ocular anterior segment abnormalities and hearing loss primarily disrupt the critically important forkhead domain. These results suggest that optimal care for patients affected with anterior segment dysgenesis should include screening for FOXC1 mutations and also testing for hearing loss.
 
 ---
 
-### Clinical and ultrastructural features of a novel hereditary anterior segment dysgenesis [^38cd10b1]. Ophthalmology (2002). Low credibility.
+### Clinical and ultrastructural features of a novel hereditary anterior segment dysgenesis [^112TDBmr]. Ophthalmology (2002). Low credibility.
 
 Objective
 
@@ -181,7 +181,7 @@ This constellation of autosomal dominantly inherited corneal endothelial and str
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^97bebd17]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^114syCSa]. BMC Ophthalmology (2014). Low credibility.
 
 Background
 
@@ -197,7 +197,7 @@ A diagnosis of Williams-Beuren syndrome was made based on the microdeletion of 7
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^a0cbd823]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^1157PVJA]. American Journal of Human Genetics (2016). Low credibility.
 
 Main Text
 
@@ -205,7 +205,7 @@ Anterior segment dysgeneses (ASDs) are a heterogeneous group of developmental co
 
 ---
 
-### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^ae9c6935]. Genetics in Medicine (2020). Medium credibility.
+### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^115TsPAc]. Genetics in Medicine (2020). Medium credibility.
 
 INTRODUCTION
 
@@ -215,13 +215,13 @@ Despite the successful adoption of next-generation sequencing (NGS) in many gene
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^11c00967]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^111TKHy8]. American Journal of Human Genetics (2016). Low credibility.
 
 In this study, we describe four affected individuals from three unrelated families who had an unusual phenotype that did not fit with any of the previously described ASD criteria. All affected individuals shared predominant iris and lens abnormalities, including iris hypoplasia, iris transillumination defects, ectropion uveae, corectopia, iridodonesis with ectopia lentis, and cataracts. No retinal abnormalities or extra-ocular phenotypes were observed in our cohort (Figure 1 and Table 1). The anterior chamber angle was abnormal in one of the three families, but other phenotypes associated with ARS, such as posterior embryotoxon and extra-ocular phenotypes, were absent. Corneal opacity was absent and the fovea was not affected, distinguishing the condition of these four individuals from PAX 6-associated disorders, which are characterized by reduced vision from foveal hypoplasia and corneal epithelial stem cell failure. One of the affected individuals with an abnormal anterior chamber angle developed increased IOP at the age of 49 years, which was likely exacerbated by lens dislocation and retinal detachment surgery. Other individuals (ranging from 17–50 years of age) had normal IOP (12–18 mmHg), thus distinguishing our cohort from individuals with mutations in FOXC1, PITX2, LTBP2, or CYP1B1, who frequently present with congenital or juvenile-onset increased IOP and glaucoma. The bilateral ocular manifestation of affected individuals also differs from ocular coloboma, which is caused by an aberrant closure of the optic fissure, resulting in a gap in ocular tissues, either unilaterally or bilaterally. The clinical features of affected individuals in this study are summarized in Table 1. All investigations were conducted in accordance with the principles of the Declaration of Helsinki and the study was approved by the local research ethics committee. Informed consent, including permission to publish photographs, was obtained from all participating individuals. Affected individuals and their relatives were clinically assessed by experienced ophthalmologists. Standard evaluation consisted of detailed ophthalmic examination and the additional measurement of the axial length of the eye and imaging of the anterior segment of the eye performed with ocular coherence tomography ([OCT] Visante, Carl Zeiss Meditec), b-scan ultrasonography, and optical interferometry (IOLMaster, Carl Zeiss Meditec).
 
 ---
 
-### Clinical features of anterior segment dysgenesis associated with congenital corneal opacities [^4f863e95]. Cornea (2012). Low credibility.
+### Clinical features of anterior segment dysgenesis associated with congenital corneal opacities [^1132u7ZE]. Cornea (2012). Low credibility.
 
 Purpose
 
@@ -241,13 +241,13 @@ Anterior segment dysgenesis shows diverse clinical features, various severities 
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^b3a6e8e9]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^115bLr7J]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of foveal hypoplasia-optic nerve decussation defect-anterior segment dysgenesis syndrome is estimated at 0.0001 per 100,000 population.
 
 ---
 
-### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^1fee5728]. BMC Ophthalmology (2023). Medium credibility.
+### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^111pLfyy]. BMC Ophthalmology (2023). Medium credibility.
 
 The clinical characteristics of the three patients above are listed in Table 1. Figure 1 A demonstrates the pedigree of the family. The maternal grandfather of the fraternal twins suffered from microcornea and low vision since his childhood, underwent surgical treatment for cataract in his early thirties, and maintain visual acuity around 0.2. No prominent ocular abnormalities were found in the eyes of all his five siblings after comprehensive ophthalmological examinations in local hospitals. Comparing with the boy, the girl and their mother exhibited additional lens abnormity besides FH, with the girl demonstrating mild opacity of the cortex and dislocation of the lenses, and the mother presenting opacity of the cortex and the posterior capsule of the lenses.
 
@@ -258,7 +258,7 @@ Baseline Characteristics of The Family
 
 ---
 
-### A case of atypical WAGR syndrome with anterior segment anomaly and microphthalmos… [^72004f44]. JAMA Network (2001). Excellent credibility.
+### A case of atypical WAGR syndrome with anterior segment anomaly and microphthalmos… [^113v1hAB]. JAMA Network (2001). Excellent credibility.
 
 Customize your JAMA Network experience by selecting one or more topics from the list below. Wilms tumor, aniridia, genitourinary anomalies, and mental retardation are caused by the deletion of chromosome 11p13, which includes the Wilms tumor gene and the aniridia gene. loci. We report a case of atypical WAGR syndrome with anterior segment anomaly and microphthalmos. Report of a Case A 1-month-old boy had microphthalmos bilaterally. A microcornea with a corneal cyst in the right eye and corneal opacity and absent anterior chamber in the. child also had undescended testes and mental retardation. Analysis of G-banded prometaphase chromosomes identified deletion of chromosome 11p13-15. 1 in 1 allele. Chromosomal analysis and physical findings were compatible with WAGR syndrome, but the ocular findings. The G-banded prometaphase chromosomes show deletion of chromosome 11p13-15.
 
@@ -270,7 +270,7 @@ Although aniridia and anterior segment anomalies including the Peter anomaly are
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^d9bddd9e]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^116Zp62y]. BMC Ophthalmology (2014). Low credibility.
 
 Anterior segment dysgenesis (ASD) disorders may display a wide variety of developmental conditions affecting the cornea, iris, ciliary body, anterior chamber and lens. The condition could be isolated or related to a systemic disease. A number of genes have been linked to anterior segment morphogenesis, coding the migration of the neural crest cells, but also regulating mesenchymal cell differentiation of the anterior segment tissues. For instance, a paired-like homeodomain transcription factor 2 (PITX2) is associated with Axenfeld-Rieger syndrome, iridogoniodysgenesis syndrome, and sporadic cases of Peters' anomaly. A forkhead box C1 (FOXC1) is considered to be a cause for primary congenital glaucoma, autosomal dominant iridogoniodysgenesis anomaly and Axenfeld-Rieger anomaly. A paired box gene 6 (PAX6) leads to ocular tissue arrest, such as in aniridia, and has also been associated with Peters' anomaly.
 
@@ -278,13 +278,13 @@ Hereby, we report the case of a 6-year-old girl with a clinical phenotype of WBS
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^5c7ed787]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^113N8U1L]. American Journal of Human Genetics (2016). Low credibility.
 
 Anterior segment dysgeneses (ASDs) comprise a spectrum of developmental disorders affecting the anterior segment of the eye. Here, we describe three unrelated families affected by a previously unclassified form of ASD. Shared ocular manifestations include bilateral iris hypoplasia, ectopia lentis, corectopia, ectropion uveae, and cataracts. Whole-exome sequencing and targeted Sanger sequencing identified mutations in CPAMD8 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8) as the cause of recessive ASD in all three families. A homozygous missense mutation in the evolutionarily conserved alpha-2-macroglobulin (A2M) domain of CPAMD8, c.4351T > C (p. Ser1451Pro), was identified in family 1. In family 2, compound heterozygous frameshift, c.2352_2353insC (p. Arg785Glnfs ∗ 23), and splice-site, c.4549-1G > A, mutations were identified. Two affected siblings in the third family were compound heterozygous for splice-site mutations c.700+1G > T and c.4002+1G > A. CPAMD8 splice-site mutations caused aberrant pre-mRNA splicing in vivo or in vitro. Intriguingly, our phylogenetic analysis revealed rodent lineage-specific CPAMD8 deletion, precluding a developmental expression study in mice. We therefore investigated the spatiotemporal expression of CPAMD8 in the developing human eye. RT-PCR and in situ hybridization revealed CPAMD8 expression in the lens, iris, cornea, and retina early in development, including strong expression in the distal tips of the retinal neuroepithelium that form the iris and ciliary body, thus correlating CPAMD8 expression with the affected tissues. Our study delineates a unique form of recessive ASD and defines a role for CPAMD8, a protein of unknown function, in anterior segment development, implying another pathway for the pathogenicity of ASD.
 
 ---
 
-### Familial juvenile normal-tension glaucoma with anterior segment dysgenesis: a clinical report of a new phenotype [^bf8650f6]. Journal of Glaucoma (2013). Low credibility.
+### Familial juvenile normal-tension glaucoma with anterior segment dysgenesis: a clinical report of a new phenotype [^115twkWy]. Journal of Glaucoma (2013). Low credibility.
 
 Purpose
 
@@ -308,7 +308,7 @@ A new phenotype is presented, characterized by IOP in the normal range, glaucoma
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^bef8f1fd]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^115t8GPW]. BMC Ophthalmology (2014). Low credibility.
 
 Discussion
 
@@ -318,19 +318,19 @@ The previously reported ocular findings in this patient with WBS included a char
 
 ---
 
-### Axenfeld-rieger syndrome: new perspectives [^20312264]. The British Journal of Ophthalmology (2012). Low credibility.
+### Axenfeld-rieger syndrome: new perspectives [^111pj7ET]. The British Journal of Ophthalmology (2012). Low credibility.
 
 Axenfeld-Rieger syndrome is a genetic disease affecting multiple organ systems. In the eye, this condition manifests with varying degrees of anterior segment dysgenesis and carries a high risk of glaucoma. Other associated systemic issues include cardiovascular outflow tract malformations, craniofacial abnormalities and pituitary abnormalities, which can result in severe endocrinological sequelae. Recent advances in molecular genetics have identified two major genes, PITX2 and FOXC1, demonstrating a wide spectrum of mutations, which aids in the molecular diagnosis of the disease, although evidence exists to implicate other loci in this condition. The management of individuals affected by Axenfeld-Rieger syndrome requires a multidisciplinary approach and would include dedicated surveillance and management of glaucoma, sensorineural hearing loss, and cardiac, endocrinological, craniofacial and orthopaedic abnormalities.
 
 ---
 
-### Novel PXDN biallelic variants in patients with microphthalmia and anterior segment dysgenesis [^030c05d7]. Journal of Human Genetics (2020). Medium credibility.
+### Novel PXDN biallelic variants in patients with microphthalmia and anterior segment dysgenesis [^1115X14z]. Journal of Human Genetics (2020). Medium credibility.
 
 Microphthalmia, anophthalmia, and anterior segment dysgenesis are severe ocular developmental defects. There is a wide genetic heterogeneity leading to these ocular malformations. By using whole genome, exome and targeted sequencing in patients with ocular developmental anomalies, six biallelic pathogenic variants (including five novel variants) were identified in the PXDN gene in four families with microphthalmia and anterior segment dysgenesis. Only 11 different mutations (11 families) have been described in this gene to date. The phenotype of these patients is variable in severity, ranging from cataract and developmental glaucoma to complex microphthalmia. Interestingly, two unrelated patients of our series presented with an ocular phenotype including aniridia and microspherophakia. However, despite various phenotypic presentations and types of mutations, no genotype-phenotype correlation could be made. Thus, this work improves our knowledge of the recessive phenotype associated with biallelic variants in this gene and highlights the importance of screening PXDN in patients with anterior segment dysgenesis with or without microphthalmia.
 
 ---
 
-### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^6326fbc6]. BMC Ophthalmology (2023). Medium credibility.
+### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^113XzsMo]. BMC Ophthalmology (2023). Medium credibility.
 
 Methods
 
@@ -344,7 +344,7 @@ FH was distinguished into four grades according to morphology by OCT: grade 1 wi
 
 ---
 
-### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^936888ba]. Clinical Ophthalmology (2023). Medium credibility.
+### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^114mYHv1]. Clinical Ophthalmology (2023). Medium credibility.
 
 ARS Genetics and Pathogenesis
 
@@ -352,13 +352,13 @@ ARS is inherited in an autosomal dominant pattern with eye and systemic findings
 
 ---
 
-### CPAMD8 loss-of-function underlies non-dominant congenital glaucoma with variable anterior segment dysgenesis and abnormal extracellular matrix [^5694f979]. Human Genetics (2020). Medium credibility.
+### CPAMD8 loss-of-function underlies non-dominant congenital glaucoma with variable anterior segment dysgenesis and abnormal extracellular matrix [^113DMyVa]. Human Genetics (2020). Medium credibility.
 
 Abnormal development of the ocular anterior segment may lead to a spectrum of clinical phenotypes ranging from primary congenital glaucoma (PCG) to variable anterior segment dysgenesis (ASD). The main objective of this study was to identify the genetic alterations underlying recessive congenital glaucoma with ASD (CG-ASD). Next-generation DNA sequencing identified rare biallelic CPAMD8 variants in four patients with CG-ASD and in one case with PCG. CPAMD8 is a gene of unknown function and recently associated with ASD. Bioinformatic and in vitro functional evaluation of the variants using quantitative reverse transcription PCR and minigene analysis supported a loss-of-function pathogenic mechanism. Optical and electron microscopy of the trabeculectomy specimen from one of the CG-ASD cases revealed an abnormal anterior chamber angle, with altered extracellular matrix, and apoptotic trabecular meshwork cells. The CPAMD8 protein was immunodetected in adult human ocular fluids and anterior segment tissues involved in glaucoma and ASD (i.e., aqueous humor, non-pigmented ciliary epithelium, and iris muscles), as well as in periocular mesenchyme-like cells of zebrafish embryos. CRISPR/Cas9 disruption of this gene in F0 zebrafish embryos (96 hpf) resulted in varying degrees of gross developmental abnormalities, including microphthalmia, pharyngeal maldevelopment, and pericardial and periocular edemas. Optical and electron microscopy examination of these embryos showed iridocorneal angle hypoplasia (characterized by altered iris stroma cells, reduced anterior chamber, and collagen disorganized corneal stroma extracellular matrix), recapitulating some patients' features. Our data support the notion that CPAMD8 loss-of-function underlies a spectrum of recessive CG-ASD phenotypes associated with extracellular matrix disorganization and provide new insights into the normal and disease roles of this gene.
 
 ---
 
-### Variants of anterior segment dysgenesis and cerebral involvement in a large family with a novel COL4A1 mutation [^5f533f55]. American Journal of Ophthalmology (2013). Low credibility.
+### Variants of anterior segment dysgenesis and cerebral involvement in a large family with a novel COL4A1 mutation [^113SKnZa]. American Journal of Ophthalmology (2013). Low credibility.
 
 Purpose
 
@@ -382,13 +382,13 @@ Among the family members shown to carry the novel COL4A1 mutation, heterogenous 
 
 ---
 
-### Mutations in the human forkhead transcription factor FOXE3 associated with anterior segment ocular dysgenesis and cataracts [^af06dbd4]. Human Molecular Genetics (2001). Low credibility.
+### Mutations in the human forkhead transcription factor FOXE3 associated with anterior segment ocular dysgenesis and cataracts [^115UV8wD]. Human Molecular Genetics (2001). Low credibility.
 
 Dysgenesis of the anterior segment of the eye delineates a spectrum of human developmental disorders that show wide phenotypic and genetic heterogeneity. It is also frequently associated with cataracts and glaucoma resulting in visual disability in childhood. The recently described forkhead transcription factor gene Foxe3 was shown to be involved in the dysgenetic lens phenotype in mice, which is characterized by small cataractic lens and anterior segment anomalies. Here we report an identification and characterization of the human ortholog of this gene, FOXE3. The gene was found to be expressed in the anterior lens epithelium and to be mutated in patients with ocular disorders. An insertion of G in the coding region of the FOXE3 gene that occurred 15 nucleotides upstream of the stop codon was identified in a family with anterior segment ocular dysgenesis and cataracts. The mutation causes a frameshift that results in an abnormal sequence of five terminal amino acids and an addition of 111 amino acids to the predicted protein. The mutation was present in two affected individuals from this family and was not identified in 180 normal control chromosomes.
 
 ---
 
-### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^595ecd8b]. Clinical Ophthalmology (2023). Medium credibility.
+### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^113HVjzS]. Clinical Ophthalmology (2023). Medium credibility.
 
 Introduction
 
@@ -398,7 +398,7 @@ ARS occurs in 1 of 100,000–200,000 live births. Further, there is no gender or
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^91ae46ac]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^114iyk2w]. BMC Ophthalmology (2014). Low credibility.
 
 Background
 
@@ -412,7 +412,7 @@ Approximately 28 transcribed genes have been mapped in the deleted 7q11.23 Willi
 
 ---
 
-### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^426f058b]. BMC Ophthalmology (2023). Medium credibility.
+### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^112hVUUa]. BMC Ophthalmology (2023). Medium credibility.
 
 Background
 
@@ -432,7 +432,7 @@ A novel missense variant in PAX6 gene was detected in a Chinese pedigree demonst
 
 ---
 
-### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^6b30e717]. Clinical Ophthalmology (2023). Medium credibility.
+### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^113jv6ra]. Clinical Ophthalmology (2023). Medium credibility.
 
 Figure 1
 Anterior segment findings in ARS. Six eyes of patients with ARS display characteristic anterior segment findings including pseudopolycoria (A), corectopia (B – D), and posterior embryotoxon with varying degrees of iris bridging strands (arrowheads, B – E). Iris hypoplasia can appear as loss of pigment (A), gray-brown appearance (C and D), and featureless with loss of crypts, furrows, and rings (F). Glaucoma affects over 50% of individuals with ARS and elevated IOP in infants and young children can cause Haab's striae (arrows, C and F). Glaucoma drainage devices (stars, A and D) have been implanted in two of the eyes.
@@ -444,7 +444,7 @@ Posterior segment findings in ARS. Two eyes of patients with ARS show optic nerv
 
 ---
 
-### Clinical utility of genetic testing in 201 preschool children with inherited eye disorders [^d330e774]. Genetics in Medicine (2020). Medium credibility.
+### Clinical utility of genetic testing in 201 preschool children with inherited eye disorders [^116Q6pC3]. Genetics in Medicine (2020). Medium credibility.
 
 Purpose
 
@@ -464,7 +464,7 @@ Genetic testing helped identify an etiological diagnosis in the majority of pres
 
 ---
 
-### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^e2ed9e54]. BMC Ophthalmology (2023). Medium credibility.
+### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^116oS1sR]. BMC Ophthalmology (2023). Medium credibility.
 
 Background
 
@@ -484,7 +484,7 @@ A novel missense variant in PAX6 gene was detected in a Chinese pedigree demonst
 
 ---
 
-### A bird's eye view on the use of whole exome sequencing in rare congenital ophthalmic diseases [^6ecbe415]. Journal of Human Genetics (2024). Medium credibility.
+### A bird's eye view on the use of whole exome sequencing in rare congenital ophthalmic diseases [^113qG87e]. Journal of Human Genetics (2024). Medium credibility.
 
 Introduction
 
@@ -494,13 +494,13 @@ Congenital anterior segment dysgenesis (ASD) refers to a spectrum of congenital 
 
 ---
 
-### Syndromic multisuture craniosynostosis with associated anterior segment dysgenesis, optic nerve hypoplasia, and congenital glaucoma [^c40a386b]. The Cleft Palate-Craniofacial Journal (2019). Medium credibility.
+### Syndromic multisuture craniosynostosis with associated anterior segment dysgenesis, optic nerve hypoplasia, and congenital glaucoma [^1161e1Lv]. The Cleft Palate-Craniofacial Journal (2019). Medium credibility.
 
 Patients with craniosynostosis with subnormal vision due to papilledema and/or exposure-related corneal decompensation are well documented in the literature; however, there is only a single prior documented case of vision compromise secondary to anterior segment dysgenesis and glaucoma in this patient population. This report highlights a case of syndromic craniosynostosis with advanced corneal decompensation and anterior segment dysgenesis that was masked and ultimately delayed the diagnosis of congenital glaucoma.
 
 ---
 
-### Real-world clinical and molecular management of 50 prospective patients with microphthalmia, anophthalmia and / or ocular coloboma [^7a1a3ac4]. The British Journal of Ophthalmology (2023). Medium credibility.
+### Real-world clinical and molecular management of 50 prospective patients with microphthalmia, anophthalmia and / or ocular coloboma [^11482JNf]. The British Journal of Ophthalmology (2023). Medium credibility.
 
 Introduction
 
@@ -512,13 +512,13 @@ This study reports clinical evaluation and genetic testing results of 50 MAC pat
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^cd8a991e]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^116Fj1t1]. American Journal of Human Genetics (2016). Low credibility.
 
 Consistent with the RT-PCR findings, ISH results revealed robust CPAMD8 expression in the developing embryonic neural retina from the seventh to the eighth week, whereas lower expression was detected in the embryonic lens (Figures 4 A and 4B). Notably, ISH revealed strong expression of CPAMD8 in the distal tips of the retinal neuroepithelium that contributes to the development of the iris and ciliary body by the eighth week (Figure 4 D and 4E). Interestingly, ISH did not detect significant embryonic expression of CPAMD8 in the periocular mesenchyme, or in the mesenchyme anterior to the lens, corresponding to the pupillary membrane and developing cornea at CS 23 (Figure 4 E), whereas CPAMD8 expression was readily detected by RT-PCR at later stages in the fetal lens, iris, and cornea. The pupillary membrane contributes to the development of iris stroma and will degenerate during the eighth month of gestation. Thus, the CPAMD8 expression profile in the developing anterior segment of the embryonic and fetal eye correlates with the affected tissues and ocular phenotype, characterized by predominant iris and lens anomalies with the appearance of possible persistent pupillary membrane remnants in one affected individual. Our data imply that impaired CPAMD8 function disrupts the normal development of the lens and iris structures. Signaling from the lens during development has been shown to have an important role in forming the structures of the anterior segment, suggesting that the perturbed CPAMD8 function in the developing lens could be another contributory factor in the maldevelopment of the iris in these individuals.
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^81cd4dc5]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^114KSMzc]. BMC Ophthalmology (2014). Low credibility.
 
 Abbreviations
 
@@ -526,7 +526,7 @@ ASD: Anterior segment dysgenesis; ELN: Elastin; FISH: Fluorescence in-situ hybri
 
 ---
 
-### Anterior segment dysgenesis in a child with factor VII deficiency [^36015e39]. Clinical Ophthalmology (2007). Low credibility.
+### Anterior segment dysgenesis in a child with factor VII deficiency [^112P4nsS]. Clinical Ophthalmology (2007). Low credibility.
 
 Purpose
 
@@ -546,25 +546,25 @@ This observation provide new information on the possible ocular findings in pati
 
 ---
 
-### Genetics of congenital corneal opacification – impact on diagnosis and treatment [^c3c0b0d5]. Cornea (2015). Low credibility.
+### Genetics of congenital corneal opacification – impact on diagnosis and treatment [^1161DJsW]. Cornea (2015). Low credibility.
 
 As our understanding of phenotype has improved with improving anterior segment imaging, it has become increasingly clear that the early genotype-phenotype correlations were largely misled by inaccurate phenotyping. Using a novel classification, congenital or neonatal corneal opacification can be considered to be primary or secondary. Secondary corneal disease may be developmental or acquired. Genetic analysis using this phenotypic classification becomes easier to navigate. Primary corneal disease includes endothelial dystrophies, corneal dermoids, cornea plana, and CYP1B1 cytopathy. Genotyping for all these conditions is reasonably advanced. Secondary developmental corneal disease includes entities that are the least well understood genotypically. These are kerato-irido-lenticular dysgenesis (also known as Peters anomaly, types 1 and 2). The genotyping literature of these conditions is littered with confusion. Iridocorneal adhesions (Peters anomaly 1) are often avascular, whereas keratolenticular adhesions (Peters anomaly 2) are usually vascularized. Children with a known molecular diagnosis can have iridocorneal adhesion in one eye and keratolenticular adhesion in the other eye. This further supports the notion that Peters anomaly 1 or 2 is a sign and not a diagnosis. Further types of kerato-irido-lenticular dysgenesis are those in which the lens fails to form or forms and then degenerates. Genotyping in these cases has been somewhat more fruitful but, as always, not comprehensive. If the lens fails to form or forms partially, the gene involved is FOXE3, which is a lens gene. Not surprisingly, if the lens forms partially or fails to form, this has an effect on the vitreous and the drainage angle. These cases are often associated with severe glaucoma. Other secondary developmental corneal diseases may include Axenfeld-Rieger syndrome, Aniridia, and primary congenital glaucoma, all of which have specific genotypic characterization. Other secondary causes are acquired and include infection, trauma, and metabolic disorders.
 
 ---
 
-### Molecular genetics of axenfeld-rieger malformations [^132f2821]. Human Molecular Genetics (2002). Low credibility.
+### Molecular genetics of axenfeld-rieger malformations [^111VSc3S]. Human Molecular Genetics (2002). Low credibility.
 
 Axenfeld-Rieger (AR) malformations are autosomal dominant developmental defects of the anterior segment of the eye, and often result in glaucomatous blindness. AR malformations are associated with mutations in two transcription factor genes (PITX2 and FOXC1) expressed throughout eye ontogeny. Studies of disease-associated mutant proteins have provided insights into the aetiology of AR malformations, while delineating residues and domains important to DNA binding, transactivation and nuclear localization. The availability of mouse models for both PITX2 and FOXC1 has allowed detailed study of their expression and mutant phenotypes. Dissection of the normal functions and domain structures of these factors will aid in future elucidation of how alterations of the developmental program produce the dysgenic phenotypes seen in AR. There are at least two AR loci still awaiting molecular cloning on chromosomes 13q14 and 16q24. Identification of further genes implicated in aberrations of human ocular development will advance our understanding of the mechanisms whereby pattern is established in the eye, and may be of clinical value in treating the glaucoma that is the most serious consequence of AR malformations.
 
 ---
 
-### Novel mutations in PXDN cause microphthalmia and anterior segment dysgenesis [^407080c7]. European Journal of Human Genetics (2015). Low credibility.
+### Novel mutations in PXDN cause microphthalmia and anterior segment dysgenesis [^112eXzmk]. European Journal of Human Genetics (2015). Low credibility.
 
 We used exome sequencing to study a non-consanguineous family with two children who had anterior segment dysgenesis, sclerocornea, microphthalmia, hypotonia and developmental delays. Sanger sequencing verified two Peroxidasin (PXDN) mutations in both sibs — a maternally inherited, nonsense mutation, c.1021C > T predicting p.(Arg341*), and a paternally inherited, 23-basepair deletion causing a frameshift and premature protein truncation, c.2375_2397del23, predicting p.(Leu792Hisfs*67). We re-examined exome data from 20 other patients with structural eye defects and identified two additional PXDN mutations in a sporadic male with bilateral microphthalmia, cataracts and anterior segment dysgenesis — a maternally inherited, frameshift mutation, c.1192delT, predicting p.(Tyr398Thrfs*40) and a paternally inherited, missense substitution that was predicted to be deleterious, c.947A > C, predicting p.(Gln316Pro). Mutations in PXDN were previously reported in three families with congenital cataracts, microcornea, sclerocornea and developmental glaucoma. The gene is expressed in corneal epithelium and is secreted into the extracellular matrix. Defective peroxidasin has been shown to impair sulfilimine bond formation in collagen IV, a constituent of the basement membrane, implying that the eye defects result because of loss of basement membrane integrity in the developing eye. Our finding of a broader phenotype than previously appreciated for PXDN mutations is typical for exome-sequencing studies, which have proven to be highly effective for mutation detection in patients with atypical presentations. We conclude that PXDN sequencing should be considered in microphthalmia with anterior segment dysgenesis.
 
 ---
 
-### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^6bcccc9f]. BMC Ophthalmology (2023). Medium credibility.
+### A novel missense variant expands the phenotype and genotype of PAX6-associated foveal hypoplasia accompanied by various manifestations of anterior segment dysgenesis [^113kpTxz]. BMC Ophthalmology (2023). Medium credibility.
 
 Meanwhile, in addition to iris changes, all the three patients also demonstrated other anterior segment abnormalities including microcornea, sclerocornea and goniodysgenesis (including abnormal tissue membrane in the fraternal twins and dense comb-like iris roots inserting anterior to the Schwalbe line in the mother), and presenile cataract was observed in the lenses of the two females. That is to say, phenotype of this variant could demonstrate bilateral FH and ASD involving almost all parts of the anterior segment including cornea, iris, anterior chamber and lens, which distinguishes this variant from previously reported ones.
 
@@ -574,7 +574,7 @@ Given the symmetrical dislocation of the pupils and lenses present in the twin-g
 
 ---
 
-### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^686ef968]. Clinical Ophthalmology (2016). Low credibility.
+### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^113fpzG7]. Clinical Ophthalmology (2016). Low credibility.
 
 Glaucoma in mesodermal dysgenesis of the neural crest
 
@@ -584,7 +584,7 @@ Axenfeld–Rieger syndrome is an autosomal-dominant condition associated with mu
 
 ---
 
-### Clinical and genetic features in autosomal recessive bestrophinopathy in Chinese cohort [^80134de9]. BMC Ophthalmology (2024). Medium credibility.
+### Clinical and genetic features in autosomal recessive bestrophinopathy in Chinese cohort [^114Gsu9i]. BMC Ophthalmology (2024). Medium credibility.
 
 Phenotypic presentations
 
@@ -594,7 +594,7 @@ Authors of this study hypothesized that preventive LPI was performed earlier in 
 
 ---
 
-### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^1800c673]. Genetics in Medicine (2020). Medium credibility.
+### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^111caxsC]. Genetics in Medicine (2020). Medium credibility.
 
 Conclusion
 
@@ -602,13 +602,13 @@ We have identified a high diagnostic rate in a cohort of families with ASD, usin
 
 ---
 
-### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^916ec29c]. American Journal of Human Genetics (2016). Low credibility.
+### Mutations in CPAMD8 cause a unique form of autosomal-recessive anterior segment dysgenesis [^114icQeP]. American Journal of Human Genetics (2016). Low credibility.
 
 In family 3, segregation analysis of two heterozygous splice-site variants, c.4002+1G > A and c.700+1G > T, confirmed that both of the affected siblings (II:2 and II:3) are compound heterozygous for the variants, whereas the unaffected mother (I:2) and unaffected granddaughter (III:1) carry the c.700+1G > T variant only (Figure 2 C). Paternal DNA (I:1) was not available for testing. Both c.4002+1G > A and c.700+1G > T variants alter the invariant GT dinucleotide at the splice-donor sites of intron 29 and intron 7, respectively (Figure 3 A), and are predicted to abolish the splice-donor sites. To investigate the effects of these variants on pre-mRNA splicing, RT-PCR (primer sequences are available on request) was performed on RNA extracted from lymphocytes from both affected siblings, which is predicted to produce wild-type and aberrant transcripts given that the affected individuals are compound heterozygous for the splice-site variants. Amplification spanning exons 27–31, encompassing the c.4002+1G > A variant, resulted in two transcripts in both affected siblings. Direct sequencing revealed an abundant aberrant transcript (approximately 470 bp) with exon 29 deleted and a low level of wild-type transcript (Figure 3 D). The mutation therefore rendered the splice donor site inefficient, with only a residual amount of normal splicing. Deletion of exon 29 in the aberrant transcript is predicted to result in an in-frame deletion of 25 aa, (p. Gly1310_Glu1334del), within the highly conserved A2M complement component domain (Figures 3 A and 3D). Amplification of exons 4–10, encompassing the c.700+1G > T variant, revealed several aberrant transcripts and wild-type transcript in both affected siblings. Sequencing revealed a cryptic splice donor site located in intron 7, c.700+142, which is predicted to introduce a premature termination codon 87 bp downstream of exon 7, resulting in a truncated product, p. Gly234Valfs ∗ 30. In addition, two smaller transcripts, corresponding to the skipping of exon 7 alone and both exons 6 and 7, were detected that are predicted to produce truncated products, p. Asp216Alafs ∗ 5 and p. Leu210Alafs ∗ 5, respectively (Figure 3 E). In summary, all splice-site mutations identified in families 2 and 3 caused aberrant pre-mRNA splicing, supporting their likely pathogenicity. Notably, the position of mutations identified in this study implies that only isoforms CPAMD8-1a and/or CPAMD8-1b are important in the pathogenesis of ASD (Figures 3 A and S1).
 
 ---
 
-### Axenfeld-rieger syndrome: more than meets the eye [^130dee23]. Journal of Medical Genetics (2023). Medium credibility.
+### Axenfeld-rieger syndrome: more than meets the eye [^111VFSjk]. Journal of Medical Genetics (2023). Medium credibility.
 
 Materials and methods
 
@@ -620,7 +620,7 @@ Genetic testing was undertaken in our cohort of individuals with anterior segmen
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^f15225cd]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^117AmcHJ]. BMC Ophthalmology (2014). Low credibility.
 
 Figure 1
 Anterior segment photograph, left eye. Figure 1 depicts an anterior segment photograph, presenting a central clouding and vascularized microcornea of the right eye; no pathological findings of the left eye were recorded.
@@ -632,7 +632,7 @@ Present an ultrasound biomicroscopy image (UBM) of both eyes taken with 50 MHz t
 
 ---
 
-### Novel CYP1B1 and known PAX6 mutations in anterior segment dysgenesis (ASD) [^4575cac1]. Journal of Glaucoma (2006). Low credibility.
+### Novel CYP1B1 and known PAX6 mutations in anterior segment dysgenesis (ASD) [^112myiDe]. Journal of Glaucoma (2006). Low credibility.
 
 Purpose
 
@@ -652,13 +652,13 @@ Our results suggest primary congenital glaucoma and the anterior segment dysgene
 
 ---
 
-### PITX2 and FOXC1 spectrum of mutations in ocular syndromes [^af02fb03]. European Journal of Human Genetics (2012). Low credibility.
+### PITX2 and FOXC1 spectrum of mutations in ocular syndromes [^115UTqP8]. European Journal of Human Genetics (2012). Low credibility.
 
 Anterior segment dysgenesis (ASD) encompasses a broad spectrum of developmental conditions affecting anterior ocular structures and associated with an increased risk for glaucoma. Various systemic anomalies are often observed in ASD conditions such as Axenfeld-Rieger syndrome (ARS) and De Hauwere syndrome. We report DNA sequencing and copy number analysis of PITX2 and FOXC1 in 76 patients with syndromic or isolated ASD and related conditions. PITX2 mutations and deletions were found in 24 patients with dental and/or umbilical anomalies seen in all. Seven PITX2-mutant alleles were novel including c.708_730del, the most C-terminal mutation reported to date. A second case of deletion of the distant upstream but not coding region of PITX2 was identified, highlighting the importance of this recently discovered mechanism for ARS. FOXC1 deletions were observed in four cases, three of which demonstrated hearing and/or heart defects, including a patient with De Hauwere syndrome; no nucleotide mutations in FOXC1 were identified. Review of the literature identified several other patients with 6p25 deletions and features of De Hauwere syndrome. The 1.3-Mb deletion of 6p25 presented here defines the critical region for this phenotype and includes the FOXC1, FOXF2, and FOXQ1 genes. In summary, PITX2 or FOXC1 disruptions explained 63% of ARS and 6% of other ASD in our cohort; all affected patients demonstrated additional systemic defects with PITX2 mutations showing a strong association with dental and/or umbilical anomalies and FOXC1 with heart and hearing defects. FOXC1 deletion was also found to be associated with De Hauwere syndrome.
 
 ---
 
-### Allelic heterogeneity contributes to variability in ocular dysgenesis, myopathy and brain malformations caused by col4a1 and col4a2 mutations [^c3cdca60]. Human Molecular Genetics (2014). Low credibility.
+### Allelic heterogeneity contributes to variability in ocular dysgenesis, myopathy and brain malformations caused by col4a1 and col4a2 mutations [^1161Hi5M]. Human Molecular Genetics (2014). Low credibility.
 
 RESULTS
 
@@ -671,13 +671,13 @@ Col4a1 and Col4a2 mutations cause highly penetrant ocular anterior segment dysge
 
 ---
 
-### Congenital pterygium with anterior segment dysgenesis: rare ocular manifestation in rubinstein-taybi syndrome [^f498e58e]. BMJ Case Reports (2024). High credibility.
+### Congenital pterygium with anterior segment dysgenesis: rare ocular manifestation in rubinstein-taybi syndrome [^117FdLRs]. BMJ Case Reports (2024). High credibility.
 
 Pterygium is a benign, wing-shaped fibrovascular overgrowth of subconjunctival tissue that can encroach over the cornea. This condition usually occurs in individuals aged 20–40 years but is rarely seen in children. We report a case of an infant with Rubenstein-Taybi syndrome presenting with nebulo-macular corneal opacity and congenital pterygium. On examination under anaesthesia, bilateral infero-nasal nebulo-macular corneal opacity (6 × 5mm) with a whitish pink tissue originating from nasal bulbar conjunctiva was noticed. The probe test was negative for this tissue. To the best of our knowledge, only two other cases of congenital pterygium have been reported in the literature. The presence of this anomaly supports the hypothesis of genetic factors having a role in the development of pterygium.
 
 ---
 
-### Ophthalmic manifestations of congenital protein C deficiency: a case report and mini review [^dbaff0ed]. BMC Ophthalmology (2020). Medium credibility.
+### Ophthalmic manifestations of congenital protein C deficiency: a case report and mini review [^116chPKr]. BMC Ophthalmology (2020). Medium credibility.
 
 Background
 
@@ -695,7 +695,7 @@ The potential for protein C deficiency should be assessed in all infants with le
 
 ---
 
-### TAD boundary deletion causes PITX2-related cardiac electrical and structural defects [^45527d25]. Nature Communications (2024). High credibility.
+### TAD boundary deletion causes PITX2-related cardiac electrical and structural defects [^112mmrTW]. Nature Communications (2024). High credibility.
 
 Of note, exonic coding mutations in PITX2 and potentially upstream regions can lead to Axenfeld-Rieger syndrome characterized by anterior segment dysgenesis, retina and dental features. Interestingly, the phenotype limited to cardiac tissue observed in this new clinical entity points to new cardiac tissue-specific regulatory mechanisms mediating tissue-specific dysregulation of PITX2 expression in cardiac compartments and compartment-specific PITX2 target gene expression remodeling underlying the complex phenotype observed in deletion carriers.
 
@@ -703,7 +703,7 @@ We show that the deletion of the conserved boundary region between the Pitx2- co
 
 ---
 
-### Combined trabeculotomy and trabeculectomy as an initial procedure in uncomplicated congenital glaucoma… [^8cd75376]. JAMA Network (1999). Excellent credibility.
+### Combined trabeculotomy and trabeculectomy as an initial procedure in uncomplicated congenital glaucoma… [^114bobLq]. JAMA Network (1999). Excellent credibility.
 
 Results Mean preoperative IOP was 31 mm Hg. Average horizontal corneal diameter was 12. 60 mm. Ninety-five eyes had corneal opacification. Twenty-nine eyes had additional anterior segment anomalies, with ectropion uveae, Peters anomaly, and partial aniridia being the most common. Conclusions Primary combined trabeculotomy and trabeculectomy was a useful initial procedure in uncomplicated congenital glaucoma. This was particularly true where corneal opacification, as in nearly all our eyes, precluded goniotomy; however, where other stigmata of anterior segment dysgenesis coexisted, results were significantly poorer. In general, when mitomycin was not used, it was because inadvertent ocular penetration or exposure of choroid or ciliary body was believed to preclude its use. A paracentesis was routinely performed, and viscoelastic material was instilled into the anterior chamber. Further dissection of the scleral trapdoor anteriorly into clear cornea followed.
 
@@ -713,7 +713,7 @@ Follow-up of 1 year is too short to deduce any definitive conclusions on this is
 
 ---
 
-### Mutations of the CYP1B1 gene in congenital anterior staphylomas [^b9f63f12]. Clinical Ophthalmology (2014). Low credibility.
+### Mutations of the CYP1B1 gene in congenital anterior staphylomas [^115khRQD]. Clinical Ophthalmology (2014). Low credibility.
 
 Discussion
 
@@ -721,13 +721,13 @@ Congenital anterior staphyloma is a rare unilateral or bilateral anomaly and may
 
 ---
 
-### Axenfeld-rieger syndrome and spectrum of PITX2 and FOXC1 mutations [^6fda6c22]. European Journal of Human Genetics (2009). Low credibility.
+### Axenfeld-rieger syndrome and spectrum of PITX2 and FOXC1 mutations [^113rpzVX]. European Journal of Human Genetics (2009). Low credibility.
 
 Axenfeld-Rieger syndrome (ARS) is a rare autosomal dominant disorder, which encompasses a range of congential malformations affecting the anterior segment of the eye. ARS shows genetic heterogeneity and mutations of the two genes, PITX2 and FOXC1, are known to be associated with the pathogenesis. There are several excellent reviews dealing with the complexity of the phenotype and genotype of ARS. In this study, we will attempt to give a brief review of the clinical features and the relevant diagnostic approaches, together with a detailed review of published PITX2 and FOXC1 mutations.
 
 ---
 
-### Ophthalmic manifestations of congenital protein C deficiency: a case report and mini review [^e6bc2830]. BMC Ophthalmology (2020). Medium credibility.
+### Ophthalmic manifestations of congenital protein C deficiency: a case report and mini review [^116u5MQj]. BMC Ophthalmology (2020). Medium credibility.
 
 Background
 
@@ -743,7 +743,7 @@ The potential for protein C deficiency should be assessed in all infants with le
 
 ---
 
-### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^e2fd167c]. BMC Ophthalmology (2014). Low credibility.
+### Anterior segment dysgenesis associated with Williams-Beuren syndrome: a case report and review of the literature [^116oXDEj]. BMC Ophthalmology (2014). Low credibility.
 
 The ELN encodes elastin, a component of collagen tissue of the eye that is also present in the iris stoma. Therefore, the stellate pattern of the iris stroma which is seen in almost 50% of WBS could be hypothesized to be linked to the ELN deletion seen in our patient.
 
@@ -753,13 +753,13 @@ In our patient, using UBM, we were able to exclude the initially suspected corne
 
 ---
 
-### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^8a081bb9]. Cornea (2022). Medium credibility.
+### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^114Xe1rQ]. Cornea (2022). Medium credibility.
 
 Axenfeld–Rieger syndrome (ARS, MIM 180500) is a developmental disorder that affects the structures of the anterior segment of the eye, including the cornea, iris, anterior chamber angle, and lens, and in some cases has associated systemic features. ARS includes the disorders such as Axenfeld anomaly, Axenfeld syndrome, Rieger anomaly, and Rieger syndrome. Because these 4 disorders have overlapping ocular and systemic manifestations and result from variants in the same genes, they are considered to be part of a clinical spectrum. ARS is typically inherited as an autosomal dominant disorder showing phenotypic and genetic heterogeneity, with sequence variants (SVs) or copy number variation in the FOXC1 (MIM 601090) and PITX2 genes (MIM 601542) accounting for 40% to 70% of the cases. – FOXC1 is a member of the fork-head/winged-helix family of transcription factors and is expressed in human tissues, including the eye, brain, and kidney. PITX2 is a member of the family of homeobox genes and is expressed in teeth, abdominal organs, brain, heart, and kidneys.
 
 ---
 
-### Phenotype expansion of heterozygous FOXC1 pathogenic variants toward involvement of congenital anomalies of the kidneys and urinary tract (CAKUT) [^3f263e50]. Genetics in Medicine (2020). Medium credibility.
+### Phenotype expansion of heterozygous FOXC1 pathogenic variants toward involvement of congenital anomalies of the kidneys and urinary tract (CAKUT) [^112cd4o9]. Genetics in Medicine (2020). Medium credibility.
 
 Purpose
 
@@ -779,7 +779,7 @@ We thereby expanded the phenotype of FOXC1 pathogenic variants toward involvemen
 
 ---
 
-### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^ec23ba0e]. Clinical Ophthalmology (2023). Medium credibility.
+### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^117365XB]. Clinical Ophthalmology (2023). Medium credibility.
 
 Abstract
 
@@ -787,19 +787,19 @@ Axenfeld-Rieger syndrome (ARS) is a rare congenital disease that is primarily ch
 
 ---
 
-### Aniridia and axenfeld-rieger syndrome: clinical presentations, molecular genetics and current / emerging therapies [^7fa79fd9]. Experimental Eye Research (2019). Medium credibility.
+### Aniridia and axenfeld-rieger syndrome: clinical presentations, molecular genetics and current / emerging therapies [^114GFjNp]. Experimental Eye Research (2019). Medium credibility.
 
 Aniridia and Axenfeld-Rieger Syndrome are related, human ocular disorders that are typically inherited in an autosomal dominant manner. Both result from incorrect development of the eye and have, as their most serious consequences, elevated risk to develop the blinding condition glaucoma. This review will focus on describing the clinical presentations of Aniridia and Axenfeld-Rieger Syndrome as well as the molecular genetics and current and emerging therapies used to treat patients.
 
 ---
 
-### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^61aa897a]. Genetics in Medicine (2020). Medium credibility.
+### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^113Vo5fX]. Genetics in Medicine (2020). Medium credibility.
 
 In addition, three sporadic cases with severe PA were found with homozygous or compound heterozygous pathogenic variants affecting CYP1B1 (patients 29, 30, 38, Table 1. The cyp1b1 deficient mouse model displays marked loss of collagen and degeneration of the trabecular meshwork. This gene was originally identified as a causative disease gene in autosomal recessive PCG, and findings from this study confirm its significant additional contribution to causation in PA. Patient 30 had a very severe Peters phenotype (Fig. 2e), and patient 29 also had severe corneal opacification and iridocorneal adhesions.
 
 ---
 
-### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^4eef4736]. Clinical Ophthalmology (2016). Low credibility.
+### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^11322QVj]. Clinical Ophthalmology (2016). Low credibility.
 
 Conclusion
 
@@ -809,7 +809,7 @@ In the management of glaucoma, UBM is an important tool that greatly assists the
 
 ---
 
-### Long-term risk and prediction of PACS progression… [^0be05ea4]. JAMA Network (2024). Excellent credibility.
+### Long-term risk and prediction of PACS progression… [^111JcEB5]. JAMA Network (2024). Excellent credibility.
 
 Objective To explore baseline predictors and develop prediction models for the 14-year risk of progression from PACS to primary angle closure. Design, Setting, and Participants. -0. 97] per
 0. 1-mm increase), and shallower limbal ACD at baseline were associated with an increased 14-year risk of progression from PACS to PAC. Anterior segment optical coherence tomography is a quantitative, noncontact tool for in vivo assessment of the anterior chamber angle. Based on AS-OCT results, previous reports on the ZAP trial suggested that smaller angle width, iris curvature, and light-to-dark changes of the iris were associated with an increased 6-year risk of progression from PACS to PAC. 7, 8 However, angle closure diseases are more prevalent in the elderly, 9, 10 and those reports7, 8 also found that aging was a risk factor for progression in PACS eyes.
@@ -820,19 +820,19 @@ Anterior segment optical coherence tomography was performed at baseline to quant
 
 ---
 
-### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^b36de0de]. Clinical Ophthalmology (2023). Medium credibility.
+### Ophthalmological manifestations of axenfeld-rieger syndrome: current perspectives [^115b1h3j]. Clinical Ophthalmology (2023). Medium credibility.
 
 Axenfeld-Rieger syndrome (ARS) is a rare congenital disease that is primarily characterized by ocular anterior segment anomalies but is also associated with craniofacial, dental, cardiac, and neurologic abnormalities. Over half of cases are linked with autosomal dominant mutations in either FOXC1 or PITX2, which reflects the molecular role of these genes in regulating neural crest cell contributions to the eye, face, and heart. Within the eye, ARS is classically defined as the combination of posterior embryotoxon with iris bridging strands (Axenfeld anomaly) and iris hypoplasia causing corectopia and pseudopolycoria (Rieger anomaly). Glaucoma due to iridogoniodysgenesis is the main source of morbidity and is typically diagnosed during infancy or childhood in over half of affected individuals. Angle bypass surgery, such as glaucoma drainage devices and trabeculectomies, is often needed to obtain intraocular pressure control. A multi-disciplinary approach including glaucoma specialists and pediatric ophthalmologists produces optimal outcomes as vision is dependent on many factors including glaucoma, refractive error, amblyopia and strabismus. Further, since ophthalmologists often make the diagnosis, it is important to refer patients with ARS to other specialists including dentistry, cardiology, and neurology.
 
 ---
 
-### Prevalence of rare diseases: bibliographic data [^8472754f]. Orphanet Report Series (2024). Medium credibility.
+### Prevalence of rare diseases: bibliographic data [^114PMp2S]. Orphanet Report Series (2024). Medium credibility.
 
 Worldwide, the prevalence of facial dysmorphism-lens dislocation-anterior segment abnormalities-spontaneous filtering blebs syndrome is estimated at 0.00006 per 100,000 population.
 
 ---
 
-### Assessment of the anterior segment of patients with primary congenital glaucoma using handheld optical coherence tomography [^92269dcf]. Eye (2019). Medium credibility.
+### Assessment of the anterior segment of patients with primary congenital glaucoma using handheld optical coherence tomography [^114jgATG]. Eye (2019). Medium credibility.
 
 Another possibility could be that the development of iris structures is prevented after birth due to IOP elevation early in life in PCG. However, in premature babies (example shown in Supplementary Figure 1), we have observed already at the 26th gestational week a well-formed iris structure with a tortuous profile of the anterior limiting layer similar to older subjects. Therefore, iris thinning and other abnormal anterior segment changes, such as anterior iris insertion, are likely to be part of a primary maldevelopment of the AS in PCG. Similarly, a large range of anterior chamber phenotypes have been described within families with identical genetic mutations in anterior segment dysgenesis, such as Axenfeld's, Rieger's, Peters' anomalies, aniridia or PCG.
 
@@ -840,19 +840,19 @@ In adult angle-closure glaucoma, Lai et al. described good visualisation of the 
 
 ---
 
-### Alagille syndrome: pathogenesis, diagnosis and management [^52f9ff18]. European Journal of Human Genetics (2012). Low credibility.
+### Alagille syndrome: pathogenesis, diagnosis and management [^11381xS3]. European Journal of Human Genetics (2012). Low credibility.
 
 Alagille syndrome (ALGS), also known as arteriohepatic dysplasia, is a multisystem disorder due to defects in components of the Notch signalling pathway, most commonly due to mutation in JAG1 (ALGS type 1), but in a small proportion of cases mutation in NOTCH2 (ALGS type 2). The main clinical and pathological features are chronic cholestasis due to paucity of intrahepatic bile ducts, peripheral pulmonary artery stenosis, minor vertebral segmentation anomalies, characteristic facies, posterior embryotoxon/anterior segment abnormalities, pigmentary retinopathy, and dysplastic kidneys. It follows autosomal dominant inheritance, but reduced penetrance and variable expression are common in this disorder, and somatic/germline mosaicism may also be relatively frequent. This review discusses the clinical features of ALGS, including long-term complications, the clinical and molecular diagnosis, and management.
 
 ---
 
-### Domain disruption and mutation of the bZIP transcription factor, MAF, associated with cataract, ocular anterior segment dysgenesis and coloboma [^0cba4e57]. Human Molecular Genetics (2002). Low credibility.
+### Domain disruption and mutation of the bZIP transcription factor, MAF, associated with cataract, ocular anterior segment dysgenesis and coloboma [^111KsRv6]. Human Molecular Genetics (2002). Low credibility.
 
 Human congenital cataract and ocular anterior segment dysgenesis both demonstrate extensive genetic and phenotypic heterogeneity. We identified a family where ocular developmental abnormalities (cataract, anterior segment dysgenesis and microphthalmia) co-segregated with a translocation, t(5;16)(p15.3; q23.2), in both balanced and unbalanced forms. We hypothesized that this altered the expression of a gene of developmental significance in the human lens and ocular anterior segment. Cloning the 16q23.2 breakpoint demonstrated that it transected the genomic-control domain of MAF, a basic region leucine zipper (bZIP) transcription factor, first identified as an oncogene, which is expressed in vertebrate lens development and regulates the expression of the eye lens crystallins. The homozygous null mutant Maf mouse embryo demonstrates defective lens formation and microphthalmia. Through mutation screening of a panel of patients with hereditary congenital cataract we identified a mutation in MAF in a three-generation family with cataract, microcornea and iris coloboma. The mutation results in the substitution of an evolutionarily highly conserved arginine with a proline at residue 288 (R288P) in the basic region of the DNA-binding domain of MAF. Our findings further implicate MAF/Maf in mammalian lens development and highlight the role of the lens in anterior segment development. The 16q23.2 breakpoint transects the common fragile site, FRA16D, providing a molecular demonstration of a germline break in a common fragile site.
 
 ---
 
-### Comprehensive phenotypic and functional analysis of dominant and recessive FOXE3 alleles in ocular developmental disorders [^8e201d96]. Human Molecular Genetics (2021). Medium credibility.
+### Comprehensive phenotypic and functional analysis of dominant and recessive FOXE3 alleles in ocular developmental disorders [^114di2gM]. Human Molecular Genetics (2021). Medium credibility.
 
 Discussion
 
@@ -862,7 +862,7 @@ Including the new families reported here, there are now 27 different recessive F
 
 ---
 
-### A naturally occurring canine model of syndromic congenital microphthalmia [^d4986c07]. G3 (2024). Medium credibility.
+### A naturally occurring canine model of syndromic congenital microphthalmia [^116SBaAS]. G3 (2024). Medium credibility.
 
 The phenotypic variability of microphthalmia can be classified into three main groups: (1) isolated microphthalmia, (2) microphthalmia combined with other ocular defects (cataracts, microphakia, retinal dysplasia or folds, glaucoma, ocular dermoids, and others), and (3) a whole multiorgan condition, including nonocular manifestations consistent with syndromic microphthalmia.
 
@@ -874,7 +874,7 @@ Shaw and colleagues characterized histologic findings of microphthalmia in PWDs,
 
 ---
 
-### Posterior polar cataract is the predominant consequence of a recurrent mutation in the PITX3 gene [^08c36ca8]. The British Journal of Ophthalmology (2005). Low credibility.
+### Posterior polar cataract is the predominant consequence of a recurrent mutation in the PITX3 gene [^111DzYRu]. The British Journal of Ophthalmology (2005). Low credibility.
 
 Background
 
@@ -894,25 +894,25 @@ Mutations in the PITX3 gene in humans result in posterior polar cataract and var
 
 ---
 
-### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^b5c45594]. Cornea (2022). Medium credibility.
+### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^115eUhud]. Cornea (2022). Medium credibility.
 
 ARS is associated with both ocular and systemic manifestations. Ocular features are the main manifestation of ARS and include posterior embryotoxon, iris stromal hypoplasia, corectopia, pseudopolycoria, and iris processes. Posterior embryotoxon is frequently seen in ARS but has been reported to occur as a very mild manifestation in up to 8 to 12% of the normal population. Glaucoma is the most serious ocular consequence of ARS and develops in up to 50% of the patients. ARS-associated glaucoma is believed to occur because of reduced facility of aqueous outflow caused by maldevelopment of the trabecular meshwork and Schlemm canal. In addition to glaucoma, amblyopia and strabismus have also been reported. Systemic manifestations of ARS include craniofacial abnormalities (hypertelorism, telecanthus, maxillary hypoplasia, and prognathism), dental abnormalities (microdontia, hypodontia, and oligodontia), cardiac defects (mitral and tricuspid valve disease, atrial septal defects, and tetralogy of Fallot), – skeletal abnormalities (short stature, club feet, and joint abnormalities), hearing loss, redundant periumbilical skin, umbilical hernia, anal stenosis, and hypospadias. Variants in FOXC1 are more commonly associated with isolated ocular abnormalities, but some reports have described associated heart or hearing defects. Variants in PITX2 have been shown to be associated with ocular, dental, and umbilical abnormalities. Corneal abnormalities are commonly reported in Peter anomaly (corneal opacity, iridocorneal synechiae, and an absence of Descemet membrane and corneal endothelium) but are not a common manifestation in ARS. This study aimed to compare detailed anterior segment phenotypes in individuals with ARS caused by FOXC1 and PITX2 variants.
 
 ---
 
-### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^d3e48487]. Clinical Ophthalmology (2016). Low credibility.
+### A review of the role of ultrasound biomicroscopy in glaucoma associated with rare diseases of the anterior segment [^116R99Lz]. Clinical Ophthalmology (2016). Low credibility.
 
 Ultrasound biomicroscopy is a non-invasive imaging technique, which allows high-resolution evaluation of the anatomical features of the anterior segment of the eye regardless of optical media transparency. This technique provides diagnostically significant information in vivo for the cornea, anterior chamber, chamber angle, iris, posterior chamber, zonules, ciliary body, and lens, and is of great value in assessment of the mechanisms of glaucoma onset. The purpose of this paper is to review the use of ultrasound biomicroscopy in the diagnosis and management of rare diseases of the anterior segment such as mesodermal dysgenesis of the neural crest, iridocorneal endothelial syndrome, phakomatoses, and metabolic disorders.
 
 ---
 
-### Alveolar capillary dysplasia with misalignment of pulmonary veins and anterior segment dysgenesis of the eye: a report of a new association and review of the literature [^19eb7e0e]. Journal of Perinatology (2001). Low credibility.
+### Alveolar capillary dysplasia with misalignment of pulmonary veins and anterior segment dysgenesis of the eye: a report of a new association and review of the literature [^111fRnoo]. Journal of Perinatology (2001). Low credibility.
 
 The association of alveolar capillary dysplasia with misalignment of pulmonary veins (ACD-MPV) and ocular abnormalities has not been previously reported. We present a case of ACD-MPV and anterior segment dysgenesis of the eye in a full-term infant as well as a review of the relevant literature.
 
 ---
 
-### Axenfeld-rieger syndrome: a novel histopathologic finding associated with corneal abnormalities [^0f1672f1]. BMC Ophthalmology (2022). Medium credibility.
+### Axenfeld-rieger syndrome: a novel histopathologic finding associated with corneal abnormalities [^111PNMZz]. BMC Ophthalmology (2022). Medium credibility.
 
 Background
 
@@ -932,7 +932,7 @@ Anterior synechia might be associated with corneal abnormalities in ARS patients
 
 ---
 
-### A novel histopathologic finding in the descemet's membrane of a patient with peters anomaly: a case-report and literature review [^9c273eee]. BMC Ophthalmology (2015). Low credibility.
+### A novel histopathologic finding in the descemet's membrane of a patient with peters anomaly: a case-report and literature review [^114zWFXs]. BMC Ophthalmology (2015). Low credibility.
 
 In Peters anomaly, the corneal opacity is either central or paracentral and it usually does not exhibit vascularization. Histopathology is often diagnostic. Previous histopathologic findings of Peters anomaly described the defects and absence in the endothelium, Descemet's membrane, posterior stroma and the Bowman's membrane of the cornea, which are consistent with our pathologic findings of this patient. However, the "multiple-layer" structure of the Descemet's membrane has not been reported as in association with abnormalities of the cornea tissues in Peters anomaly. The cause of this unusual structure, which may be due to genetic factors, environmental factors, or both, has not been clearly identified in pathologic studies so far.
 
@@ -942,7 +942,7 @@ Peters anomaly shows diverse clinical/pathologic features and visual outcomes. C
 
 ---
 
-### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^89566947]. Genetics in Medicine (2020). Medium credibility.
+### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^114WcL2z]. Genetics in Medicine (2020). Medium credibility.
 
 Implications for genetic information for patients and families, and genomic workflow in ASD
 
@@ -952,7 +952,7 @@ Of clinical utility and importance for families, this approach led to a revision
 
 ---
 
-### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^a038a79c]. Genetics in Medicine (2020). Medium credibility.
+### Revealing hidden genetic diagnoses in the ocular anterior segment disorders [^1156Y3p7]. Genetics in Medicine (2020). Medium credibility.
 
 Fig. 2
 Representative clinical images of this cohort demonstrate broad range of severity across multiple genotypes.
@@ -961,7 +961,7 @@ a Patient 26 with COL4A1 heterozygous variant. Photograph of right eye with Pete
 
 ---
 
-### First observation of secondary childhood glaucoma in coffin-siris syndrome: a case report and literature review [^54ad580c]. BMC Ophthalmology (2021). Medium credibility.
+### First observation of secondary childhood glaucoma in coffin-siris syndrome: a case report and literature review [^113AYBgf]. BMC Ophthalmology (2021). Medium credibility.
 
 Background
 
@@ -973,13 +973,13 @@ This is the first report of secondary childhood glaucoma in Coffin-Siris syndrom
 
 ---
 
-### Aniridia [^a2571790]. European Journal of Human Genetics (2012). Low credibility.
+### Aniridia [^1159gFLs]. European Journal of Human Genetics (2012). Low credibility.
 
 Aniridia is a rare congenital disorder in which there is a variable degree of hypoplasia or the absence of iris tissue associated with multiple other ocular changes, some present from birth and some arising progressively over time. Most cases are associated with dominantly inherited mutations or deletions of the PAX6 gene. This article will review the clinical manifestations, the molecular basis including genotype-phenotype correlations, diagnostic approaches and management of aniridia.
 
 ---
 
-### Axenfeld-rieger syndrome: a novel histopathologic finding associated with corneal abnormalities [^0a31c7fb]. BMC Ophthalmology (2022). Medium credibility.
+### Axenfeld-rieger syndrome: a novel histopathologic finding associated with corneal abnormalities [^111G7bdk]. BMC Ophthalmology (2022). Medium credibility.
 
 Introduction
 
@@ -991,7 +991,7 @@ The characteristic histopathologic features of ARS are prominent, anteriorly dis
 
 ---
 
-### Classifications of anterior segment structure of congenital corneal opacity in infants and toddlers by ultrasound biomicroscopy and slit-lamp microscopic photographs: an observational study [^a466e436]. BMC Ophthalmology (2024). Medium credibility.
+### Classifications of anterior segment structure of congenital corneal opacity in infants and toddlers by ultrasound biomicroscopy and slit-lamp microscopic photographs: an observational study [^115CjXho]. BMC Ophthalmology (2024). Medium credibility.
 
 Vascularization density was associated with UBM classifications (P = 0.014) and anterior segment developmental abnormality (P = 0.047). In addition, eyes with more severe intraocular lesions (P = 0.001 for UBM classifications, P = 0.008 for dysgenesis, and P = 0.003 for angle closure extent) appeared to have a larger range of vascularization. One possible reason was that vascularization in CCO eyes was caused mainly by combined dysgenesis of corneal limbal stem cells. All eyes with dysgenesis in our classification had concomitant iris hypoplasia. Pax6, the major gene controlling ophthalmology development, was found to be responsible for limbal cell deficiency in congenital aniridia eyes. In addition, anterior synechia was observed in eyes with mutations in PITX2, FOXC1, and FOXC2, which are required for anterior segment development and angiogenic privilege. Therefore, abnormal findings in superficial and intraocular examinations may be a corresponding expression of the same pathogen.
 
@@ -999,13 +999,13 @@ Moreover, eyes with bilateral CCO seemed to have more severe intraocular anomali
 
 ---
 
-### Norrie disease: cochlear enhancement and cerebellar signal abnormalities [^efe47360]. AJNR: American Journal of Neuroradiology (2025). Medium credibility.
+### Norrie disease: cochlear enhancement and cerebellar signal abnormalities [^1178emvw]. AJNR: American Journal of Neuroradiology (2025). Medium credibility.
 
 Norrie disease is a rare X-linked condition characterized by early childhood blindness and later onset sensorineural hearing loss. We report two male infants with genetically confirmed Norrie disease and characteristic ocular abnormalities consisting of bilateral funnel retinal detachments, anterior segment dysgenesis, and/or buphthalmos and microphthalmia. MRI demonstrated enhancement of the cranial nerves, cochleae, and cerebellum with cerebellar restricted diffusion. Intracranial findings mimicked meningitis, labyrinthitis, and cerebellitis. Neither infant showed clinical signs of infection. Labyrinthine and cerebellar signal abnormalities have not been previously reported in the context of Norrie disease. Clinicians should consider Norrie disease when encountering such findings and be aware that the described intracranial features of Norrie disease do not necessarily indicate CNS infection.
 
 ---
 
-### Comprehensive phenotypic and functional analysis of dominant and recessive FOXE3 alleles in ocular developmental disorders [^cc4e2bdc]. Human Molecular Genetics (2021). Medium credibility.
+### Comprehensive phenotypic and functional analysis of dominant and recessive FOXE3 alleles in ocular developmental disorders [^116DtjPZ]. Human Molecular Genetics (2021). Medium credibility.
 
 Table 1
 Phenotypic and genetic information for new FOXE3 cases reported in this paper
@@ -1017,19 +1017,19 @@ Ocular features associated with FOXE3 variants. (A – W) Ocular photographs. In
 
 ---
 
-### European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia [^7b911e98]. The European Respiratory Journal (2017). Medium credibility.
+### European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia [^114ACDpT]. The European Respiratory Journal (2017). Medium credibility.
 
 Regarding diagnostic investigations for primary ciliary dyskinesia, more specifically with respect to genetic testing, ERS 2017 guidelines recommend to recognize that genetic diagnosis has to be consistent with the clinical and transmission electron microscopy/immunofluorescence/high-speed videomicroscopy analysis phenotype, or diagnosis reconsidered if the picture is inconsistent.
 
 ---
 
-### A restricted repertoire of De novo mutations in ITPR1 cause gillespie syndrome with evidence for dominant-negative effect [^0b6686b7]. American Journal of Human Genetics (2016). Low credibility.
+### A restricted repertoire of De novo mutations in ITPR1 cause gillespie syndrome with evidence for dominant-negative effect [^111HuJUN]. American Journal of Human Genetics (2016). Low credibility.
 
 The best-studied malformation of the iris is complete aniridia (MIM:), with more than 90% of cases caused by heterozygous loss-of-function (LOF) mutations in the paired- and homeo-domain containing transcription factor PAX6 (MIM:). PAX6 -associated aniridia is, however, a pan-ocular disease typified by foveal hypoplasia, cataracts, and progressive corneal opacification in addition to the iris anomaly. Extraocular disease is rare in PAX6 -associated aniridia although structural brain anomalies and other sensory impairments have been identified. Apparently isolated aniridia has also been reported in association with heterozygous LOF mutations in FOXC1 (MIM:), and PITX2 (MIM:), although these loci are more commonly associated with anterior segment dysgenesis (MIM:). Syndromic forms of aniridia have been described, the best known of which is WAGR (Wilms tumor, aniridia, genital malformations, intellectual disability [retardation] [MIM:]) resulting from a contiguous gene defect encompassing PAX6 and WT1 (MIM:). The other well-known syndromic form of aniridia is Gillespie syndrome (MIM:). Aniridia is, however, an incorrect description of iris malformation in Gillespie syndrome, which is a characteristic form of iris hypoplasia with "scalloping" of the pupillary edge. Gillespie syndrome typically presents as fixed dilated pupils in affected infants. Iridolenticular strands can be seen at regular intervals (Figure 1 B) as can other remnants of the pupillary membrane. From the description of the embryology given above, the iris defect in Gillespie syndrome would thus be consistent with a failure of development or maintenance of the sphincter musculature and the associated stroma. The eye in Gillespie syndrome can be further distinguished from PAX6 -related disease by the absence of foveal hypoplasia and corneal opacification. The key extra-ocular features of Gillespie syndrome are congenital hypotonia, non-progressive cerebellar hypoplasia, and ataxia (Figures 1 B–1D) and variable, usually mild, neurocognitive impairment. The inheritance of Gillespie syndrome has been considered heterogeneous with both autosomal-dominant and autosomal-recessive inheritance being postulated on the basis of convincing patterns in individual families. The clinical features of 13 affected individuals with a confident clinical diagnosis of Gillespie syndrome who were used in the molecular studies reported below are summarized in Table 1. We reviewed the available neuroimaging of each case subject, which showed that the cerebellar vermis atrophy is present early and is progressive particularly in the first 5 years of life (Figures 1 B–1D). The atrophy mainly affected the superior vermis progressing to involve the superior cerebellar hemispheres more than the inferior aspects. Abnormal periventricular increased T2/FLAIR white matter signal was seen adjacent to the frontal horns on all examinations and older individuals also had scattered foci of increased T2/FLAIR signal in the white matter, mainly frontally. Until now the molecular basis of Gillespie syndrome was not known, with causative mutations in PAX6, FOXC1, and PITX2 having been excluded in many reported cases.
 
 ---
 
-### Surgical outcomes of glaucoma associated with axenfeld-rieger syndrome [^8c0a946d]. BMC Ophthalmology (2020). Medium credibility.
+### Surgical outcomes of glaucoma associated with axenfeld-rieger syndrome [^114acpZi]. BMC Ophthalmology (2020). Medium credibility.
 
 Background
 
@@ -1041,7 +1041,7 @@ Glaucoma is reported to complicate approximately 50% of ARS cases and is the mai
 
 ---
 
-### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^9a73001f]. Cornea (2022). Medium credibility.
+### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^114wyini]. Cornea (2022). Medium credibility.
 
 DISCUSSION
 
@@ -1049,24 +1049,24 @@ This study characterizes the detailed corneal phenotypes of individuals with ARS
 
 ---
 
-### Functional interactions between FOXC1 and PITX2 underlie the sensitivity to FOXC1 gene dose in axenfeld-rieger syndrome and anterior segment dysgenesis [^f1cd6615]. Human Molecular Genetics (2006). Low credibility.
+### Functional interactions between FOXC1 and PITX2 underlie the sensitivity to FOXC1 gene dose in axenfeld-rieger syndrome and anterior segment dysgenesis [^117BV1QY]. Human Molecular Genetics (2006). Low credibility.
 
 Axenfeld-Rieger ocular dysgenesis is associated with mutations of the human PITX2 and FOXC1 genes, which encode transcription factors of the homeodomain and forkhead types, respectively. We have identified a functional link between FOXC1 and PITX2 which we propose underpins the similar Axenfeld-Rieger phenotype caused by mutations of these genes. FOXC1 and PITX2A physically interact, and this interaction requires crucial functional domains on both proteins: the C-terminal activation domain of FOXC1 and the homeodomain of PITX2. Immunofluorescence further shows PITX2A and FOXC1 to be colocalized within a common nuclear subcompartment. Furthermore, PITX2A can function as a negative regulator of FOXC1 transactivity. This work ties both proteins into a common pathway and offers an explanation of why increased FOXC1 gene dosage produces a phenotype resembling that of PITX2 deletions and mutations. Ocular phenotypes arise despite the deregulated expression of FOXC1-target genes through mutations in FOXC1 or PITX2. Ultimately, PITX2 loss of function mutations have a compound effect: the reduced expression of PITX2-target genes coupled with the extensive activation of FOXC1-regulated targets. Our findings indicate that the functional interaction between FOXC1 and PITX2A underlies the sensitivity to FOXC1 gene dosage in Axenfeld-Rieger syndrome and related anterior segment dysgeneses.
 
 ---
 
-### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^33f14c6f]. Cornea (2022). Medium credibility.
+### Comparison of anterior segment abnormalities in individuals with FOXC1 and PITX2 variants [^112L1RFL]. Cornea (2022). Medium credibility.
 
 ARS is generally diagnosed by ophthalmologists, and the diagnosis is primarily clinical. Phenotypic and genotypic heterogeneity and overlap of clinical presentations can make diagnosing ARS very challenging, especially in young children who may require an examination under anesthesia to assess angle abnormalities. ARS can present with subtle iris and corneal features and sometimes can be misdiagnosed as primary congenital glaucomaor primary open-angle glaucomawhen ARS ocular features are subtle. Although some would argue that the presence of posterior embryotoxon is essential to make a diagnosis of ARS, our study showed that posterior embryotoxon was not always identified with FOXC1 and PITX2 developmental abnormalities. As a result, genotype–phenotype correlations and the presence of systemic features can assist clinicians in making a correct diagnosis and disease classification. In this study, systemic features were present in more than half of the patients with FOXC1 variants, but in all individuals with PITX2 variants, and this has been reported on an overlapping set of ANZRAG patients in the past. It has been previously reported that while the systemic features are variably expressed between both genes, the ocular features are believed to be similar between both genes. Tumer et al, Strungaru et al, and D'Haene et al previously reported phenotypic differences between the FOXC1 and PITX2 variants, both associated with ARS. Patients with ARS have a 50% to 60% lifetime risk of developing glaucoma, which can occur anytime during infancy, childhood, early adulthood, or middle age. Therefore, patients with ARS should be examined annually for the changes in IOP and the optic nerve head. Patients with ARS with corneal abnormalities and those who have undergone surgical interventions are at risk of developing corneal decompensation. Cataract in ARS could either be developmental or acquired after intervention such as glaucoma drainage surgery. Therefore, these patients should be followed regularly with repeated corneal ECD, corneal morphology, and assessment for cataract.
 
 ---
 
-### Recommendations for genetic testing of inherited eye diseases: report of the American Academy of Ophthalmology task force on genetic testing [^032624d5]. Ophthalmology (2012). Medium credibility.
+### Recommendations for genetic testing of inherited eye diseases: report of the American Academy of Ophthalmology task force on genetic testing [^1115fmwz]. Ophthalmology (2012). Medium credibility.
 
 Monogenic versus complex disease — some inherited diseases are caused by mutations in a single gene, and the detection of the responsible mutations can predict the development of the disease with relatively high accuracy; such monogenic disorders tend to be fairly rare in the population.
 
 ---
 
-### European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia [^4897c658]. The European Respiratory Journal (2017). Medium credibility.
+### European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia [^112rd66s]. The European Respiratory Journal (2017). Medium credibility.
 
 Regarding diagnostic investigations for primary ciliary dyskinesia, more specifically with respect to genetic testing, ERS 2017 guidelines recommend to recognize that in the future genetic testing might be important for genotype specific therapy.

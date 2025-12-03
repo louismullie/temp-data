@@ -29,13 +29,13 @@ What is the ICD-10-CM code for Rubinstein-Taybi syndrome?
 
 ---
 
-The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2** (Other specified congenital malformation syndromes, not elsewhere classified) [^notfound]. This code is used for both CREBBP- and EP300-related forms of the syndrome. Accurate coding supports appropriate care, surveillance, and billing; clinicians should confirm the diagnosis clinically and, when possible, with molecular testing to justify the code [^3902c3d7].
+The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2** (Other specified congenital malformation syndromes, not elsewhere classified) [^notfound]. This code is used for both CREBBP- and EP300-related forms of the syndrome. Accurate coding supports appropriate care, surveillance, and billing; clinicians should confirm the diagnosis clinically and, when possible, with molecular testing to justify the code [^112TXDvv].
 
 ---
 
 ## ICD-10-CM code for Rubinstein-Taybi syndrome
 
-The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2**, defined as "Other specified congenital malformation syndromes, not elsewhere classified" [^notfound]. This code encompasses both CREBBP-related (RTS1) and EP300-related (RTS2) forms of the syndrome [^bfcf82d8].
+The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2**, defined as "Other specified congenital malformation syndromes, not elsewhere classified" [^notfound]. This code encompasses both CREBBP-related (RTS1) and EP300-related (RTS2) forms of the syndrome [^115uNLU7].
 
 ---
 
@@ -43,19 +43,19 @@ The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2**, defined as "Other
 
 Rubinstein-Taybi syndrome is characterized by distinctive clinical features that align with the ICD-10-CM category of congenital malformation syndromes. These features include:
 
-- **Facial dysmorphism**: Broad nasal bridge, low-hanging columella, and a characteristic grimacing smile [^a064951d].
-- **Limb anomalies**: Broad, often angulated thumbs and halluces [^fd352dd0].
-- **Growth retardation**: Short stature and prenatal growth restriction [^e2193e15].
-- **Intellectual disability**: Moderate to severe cognitive impairment [^926d01ba].
-- **Behavioral issues**: Anxiety, repetitive behaviors, and emotional outbursts [^85df8d6a].
+- **Facial dysmorphism**: Broad nasal bridge, low-hanging columella, and a characteristic grimacing smile [^1156nobS].
+- **Limb anomalies**: Broad, often angulated thumbs and halluces [^117UPjJo].
+- **Growth retardation**: Short stature and prenatal growth restriction [^116nCgTE].
+- **Intellectual disability**: Moderate to severe cognitive impairment [^114k5omT].
+- **Behavioral issues**: Anxiety, repetitive behaviors, and emotional outbursts [^114RUSdf].
 - **Ocular abnormalities**: Strabismus, refractive errors, and cataracts [^notfound].
-- **Cardiac and renal anomalies**: Congenital heart defects and renal malformations [^547c92d4].
+- **Cardiac and renal anomalies**: Congenital heart defects and renal malformations [^113AFoZV].
 
 ---
 
 ## Genetic basis and molecular testing
 
-Rubinstein-Taybi syndrome is primarily caused by mutations in the **CREBBP** and **EP300** genes, which encode histone acetyltransferases involved in chromatin remodeling and transcriptional regulation [^5c443422]. Molecular testing for these genes is recommended to confirm the diagnosis and guide genetic counseling [^3902c3d7].
+Rubinstein-Taybi syndrome is primarily caused by mutations in the **CREBBP** and **EP300** genes, which encode histone acetyltransferases involved in chromatin remodeling and transcriptional regulation [^113Mnme9]. Molecular testing for these genes is recommended to confirm the diagnosis and guide genetic counseling [^112TXDvv].
 
 ---
 
@@ -64,8 +64,8 @@ Rubinstein-Taybi syndrome is primarily caused by mutations in the **CREBBP** and
 Accurate ICD-10-CM coding for Rubinstein-Taybi syndrome requires detailed clinical documentation, including:
 
 - **Clinical diagnosis**: Document the clinical features and diagnosis of Rubinstein-Taybi syndrome.
-- **Genetic testing results**: Include results of CREBBP and EP300 genetic testing, if available [^3902c3d7].
-- **Associated anomalies**: Document any associated congenital anomalies, such as cardiac or renal defects [^547c92d4].
+- **Genetic testing results**: Include results of CREBBP and EP300 genetic testing, if available [^112TXDvv].
+- **Associated anomalies**: Document any associated congenital anomalies, such as cardiac or renal defects [^113AFoZV].
 
 ---
 
@@ -73,9 +73,9 @@ Accurate ICD-10-CM coding for Rubinstein-Taybi syndrome requires detailed clinic
 
 Accurate ICD-10-CM coding for Rubinstein-Taybi syndrome has several important implications:
 
-- **Clinical care**: Ensures appropriate medical management, surveillance, and referral to specialists [^547c92d4].
-- **Reimbursement**: Facilitates accurate billing and reimbursement for healthcare services [^439852f4].
-- **Epidemiological tracking**: Enables collection of data for research and public health surveillance [^6cc9d3cb].
+- **Clinical care**: Ensures appropriate medical management, surveillance, and referral to specialists [^113AFoZV].
+- **Reimbursement**: Facilitates accurate billing and reimbursement for healthcare services [^112jDLPm].
+- **Epidemiological tracking**: Enables collection of data for research and public health surveillance [^113nHTMC].
 
 ---
 
@@ -83,9 +83,9 @@ Accurate ICD-10-CM coding for Rubinstein-Taybi syndrome has several important im
 
 Despite the availability of a specific ICD-10-CM code, challenges remain in accurately coding Rubinstein-Taybi syndrome:
 
-- **Diagnostic complexity**: Clinical variability and overlap with other syndromes can complicate diagnosis and coding [^1abbc13f].
-- **Limited awareness**: Clinicians may be unaware of the specific ICD-10-CM code, leading to underreporting or miscoding [^4008fea7].
-- **Genetic testing access**: Limited access to genetic testing may result in reliance on clinical diagnosis alone [^fd14d36f].
+- **Diagnostic complexity**: Clinical variability and overlap with other syndromes can complicate diagnosis and coding [^111gdk62].
+- **Limited awareness**: Clinicians may be unaware of the specific ICD-10-CM code, leading to underreporting or miscoding [^112dwEGW].
+- **Genetic testing access**: Limited access to genetic testing may result in reliance on clinical diagnosis alone [^117UCs26].
 
 ---
 
@@ -97,19 +97,19 @@ The ICD-10-CM code for Rubinstein-Taybi syndrome is **Q87.2**, encompassing both
 
 ## References
 
-### Rubinstein-taybi syndrome [^85af4541]. European Journal of Human Genetics (2006). Low credibility.
+### Rubinstein-taybi syndrome [^114RCE2U]. European Journal of Human Genetics (2006). Low credibility.
 
 In this review a short overview of pertinent clinical and molecular data of the Rubinstein-Taybi syndrome are provided. A diagnostic decision algorithm, and major issues that should be considered in the management of patients are discussed. Suggestions for further research are given.
 
 ---
 
-### Rubinstein-taybi syndrome: presentation in the first month of life [^a8db0180]. The Journal of Pediatrics (2022). Medium credibility.
+### Rubinstein-taybi syndrome: presentation in the first month of life [^115KLUvT]. The Journal of Pediatrics (2022). Medium credibility.
 
 This web-based survey of 311 respondents from 25 countries provides additional information about the early presentation of Rubinstein-Taybi syndrome. Most (86%) infants present during the neonatal period, with 69% of these within 24 hours of life. Prolonged hospital stay is common (61%).
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^e14fdd61]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^116m33JG]. Journal of Medical Genetics (2024). Medium credibility.
 
 Severity score
 
@@ -117,13 +117,13 @@ A major issue for families, especially at the time of diagnosis, is an indicatio
 
 ---
 
-### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^fb8d01f8]. Advances in Wound Care (2013). Low credibility.
+### ICD-9-CM to ICD-10-CM codes: what? Why? How? [^117RwFnX]. Advances in Wound Care (2013). Low credibility.
 
 The wound care industry will gain many benefits when International Classification of Diseases (ICD)-10-Clinical Modification (CM) is implemented. One of the main benefits is that the disease classifications will be consistent with current clinical practice and medical technology advances. The new classification codes will be very granular, which means the level of specificity will greatly improve. Numerous new codes will represent more specific anatomic sites, etiologies, comorbidities, and complications, and will improve the ability to demonstrate severity of illness. For instance, the new feature of laterality is directly built into the new codes: separate codes will distinguish right, left, and bilateral, where needed. The increased granularity will provide better analysis of disease patterns and outbreak of disease. Additionally, the United States will finally be using the same diagnosis coding system as the rest of the world. This article will describe what the ICD-9-CM/ICD-10-CM codes are, why they are so important, and how clinicians and researchers will convert from ICD-9-CM to ICD-10-CM effective October 1, 2014.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^d0daedbb]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^116Ldxgz]. Journal of Medical Genetics (2024). Medium credibility.
 
 Introduction
 
@@ -131,13 +131,13 @@ Rubinstein-Taybi syndrome (RTS) (MIM (Mendelian Inheritance in Man) #180849; #61
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^bfcf82d8]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^115uNLU7]. Journal of Medical Genetics (2024). Medium credibility.
 
 Rubinstein-Taybi syndrome (RTS) is an archetypical genetic syndrome that is characterised by intellectual disability, well-defined facial features, distal limb anomalies and atypical growth, among numerous other signs and symptoms. It is caused by variants in either of two genes (CREBBP, EP300) which encode for the proteins CBP and p300, which both have a function in transcription regulation and histone acetylation. As a group of international experts and national support groups dedicated to the syndrome, we realised that marked heterogeneity currently exists in clinical and molecular diagnostic approaches and care practices in various parts of the world. Here, we outline a series of recommendations that document the consensus of a group of international experts on clinical diagnostic criteria for types of RTS (RTS1: CREBBP; RTS2: EP300), molecular investigations, long-term management of various particular physical and behavioural issues and care planning. The recommendations as presented here will need to be evaluated for improvements to allow for continued optimisation of diagnostics and care.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^006f8296]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^1111eTPj]. Journal of Medical Genetics (2024). Medium credibility.
 
 Figure 1
 Cardinal features of the clinical diagnostic criteria of face and limbs for Rubinstein-Taybi syndrome (RTS).
@@ -149,7 +149,7 @@ We realise that the presence of unusual signs and symptoms is not incorporated i
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^547c92d4]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^113AFoZV]. Journal of Medical Genetics (2024). Medium credibility.
 
 Systemic manifestations
 
@@ -157,7 +157,7 @@ The various systemic manifestations of RTS are described elsewhere in the guidel
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^fd14d36f]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^117UCs26]. Journal of Medical Genetics (2024). Medium credibility.
 
 Clinical diagnostic criteria
 
@@ -169,13 +169,13 @@ Currently, variants in the genes CREBBP and EP300 are known to cause RTS. One ma
 
 ---
 
-### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^71b70a4c]. Pain Physician (2015). Low credibility.
+### The tragedy of the implementation of ICD-10-CM as ICD-10: is the cart before the horse or is there a tragic paradox of misinformation and ignorance? [^113ub5ko]. Pain Physician (2015). Low credibility.
 
 The forced implementation of ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) codes that are specific to the United States, scheduled for implementation October 1, 2015, which is vastly different from ICD-10 (International Classification of Diseases, Tenth Revision), implemented worldwide, which has 14,400 codes, compared to ICD-10-CM with 144,000 codes to be implemented in the United States is a major concern to practicing U.S. physicians and a bonanza for health IT and hospital industry. This implementation is based on a liberal interpretation of the Health Insurance Portability and Accountability Act (HIPAA), which requires an update to ICD-9-CM (International Classification of Diseases, Ninth Revision, Clinical Modification) and says nothing about ICD-10 or beyond. On June 29, 2015, the Supreme Court ruled that the Environmental Protection Agency unreasonably interpreted the Clean Air Act when it decided to set limits on the emissions of toxic pollutants from power plants, without first considering the costs on the industry. Thus, to do so is applicable to the medical industry with the Centers for Medicare and Medicaid Services (CMS) unreasonably interpreting HIPAA and imposing existent extensive regulations without considering the cost. In the United States, ICD-10-CM with a 10-fold increase in the number of codes has resulted in a system which has become so complicated that it no longer compares with any other country. Moreover, most WHO members use the ICD-10 system (not ICD-10-CM) only to record mortality in 138 countries or morbidity in 99 countries. Currently, only 10 countries employ ICD-10 (not ICD-10-CM) in the reimbursement process, 6 of which have a single payer health care system. Development of ICD-10-CM is managed by 4 non-physician groups, known as cooperating parties. They include the Centers for Disease Control and Prevention (CDC), CMS, the American Hospital Association (AHA), and the American Health Information Management Association (AHIMA). The AHIMA has taken the lead with the AHA just behind, both with escalating profits and influence, essentially creating a statutory monopoly for their own benefit. Further, the ICD-10-CM coalition includes 3M which will boost its revenues and profits substantially with its implementation and Blue Cross Blue Shield which has its own agenda. Physician groups are not a party to these cooperating parties or coalitions, having only a peripheral involvement. ICD-10-CM creates numerous deficiencies with 500 codes that are more specific in ICD-9-CM than ICD-10-CM. The costs of an implementation are enormous, along with maintenance costs, productivity, and cash disruptions.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^d66faf54]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^116Uus71]. Journal of Medical Genetics (2024). Medium credibility.
 
 Dermatology
 
@@ -185,13 +185,13 @@ RTS is the syndrome considered to have the highest risk of keloid development. T
 
 ---
 
-### Health policy basics: implementation of the international classification of disease, 10th revision [^489ad2ef]. Annals of Internal Medicine (2015). Low credibility.
+### Health policy basics: implementation of the international classification of disease, 10th revision [^112re7WE]. Annals of Internal Medicine (2015). Low credibility.
 
 The International Classification of Diseases (ICD) standardizes diagnostic codes into meaningful criteria to enable the storage and retrieval of information regarding patient care. Whereas other countries have been using ICD, 10th Revision (ICD-10), for years, the United States will transition from ICD, Ninth Revision, Clinical Modification (ICD-9-CM), to ICD-10, on 1 October 2015. This transition is one of the largest and most technically challenging changes that the medical community has experienced in the past several decades. This article outlines the implications of moving to ICD-10 and recommends resources to facilitate the transition.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^85df8d6a]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^114RUSdf]. Journal of Medical Genetics (2024). Medium credibility.
 
 Behaviour
 
@@ -215,7 +215,7 @@ Repetitive behaviours in individuals with RTS include body, hand and object ster
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^926d01ba]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^114k5omT]. Journal of Medical Genetics (2024). Medium credibility.
 
 Neurodevelopment
 
@@ -230,7 +230,7 @@ Early assessment of cognitive abilities will benefit each child to access care e
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^1abbc13f]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^111gdk62]. Journal of Medical Genetics (2024). Medium credibility.
 
 Genotype-phenotype correlation
 
@@ -242,7 +242,7 @@ RTS shows broad phenotypic overlap with other Mendelian disorders affecting the 
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^a064951d]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^1156nobS]. Journal of Medical Genetics (2024). Medium credibility.
 
 There is no widely accepted set of clinical diagnostic criteria for RTS. We used the largest published set of data on individuals with RTS and either a CREBBP (n = 308) or an EP300 variant (n = 52), to determine the sensitivity of signs and symptoms (table 1).
 
@@ -253,13 +253,13 @@ We used the scored features as available, to avoid a bias. Signs present in at l
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^9ec6d6bd]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^1154PqDe]. Journal of Medical Genetics (2024). Medium credibility.
 
 Subsequently, we evaluated whether the set of diagnostic features allowed establishing the diagnosis reliably in a group of 100 individuals with molecularly confirmed RTS, that had not been part of the group of patients on which the criteria were built (online supplemental table S1). All individuals scored 5 or higher, indicating none would have been missed as having RTS based on clinical criteria (complete sensitivity). Only seven patients scored in the group Possibly RTS, others scored in the group Likely RTS (n = 38) or Definitively RTS (n = 55). Furthermore, we evaluated whether 45 individuals with a specific group of pathological CREBBP or EP300 variants, who have been considered to have a separate entity (Menke-Hennekam syndrome (MKHK); MIM #618332 / #618333), would be correctly distinguished from RTS (online supplemental table S1). Results showed that none scored as definitive or likely RTS, 9 as possibly RTS and 36 as unlikely RTS, so the entities could correctly be discerned. To determine the specificity, we reasoned that three entities that may resemble RTS and are not uncommon, that is, Floating Harbour syndrome (FHS; MIM #136140) (n = 45), Wiedemann-Steiner syndrome (WDSTS; MIM #605130) (n = 46) and Cornelia de Lange syndrome (CDLS; MIM #122470) (n = 100), should be reliably discerned from RTS based on the set of weighted clinical features (online supplemental table S2). Results showed that none of the individuals with FHS and CDLS fulfilled the criteria for a definitive diagnosis of RTS, but one of the patients with WDSTS had such a score. In addition, one of the patients with WDSTS had a score within the Likely RTS group but was found by the present authors to have a classical RTS facial gestalt. This has to be expected as RTS is a chromatinopathy, and variants in other genes acting in the same pathway are likely to have consequences for the phenotype as well and rarely may even alter the phenotype significantly. Further studies to explain this unusual phenotype are planned. Furthermore, 8 of the 46 WDSTS individuals, and 1 of the 100 CDLS individuals fulfilled the criteria for Likely RTS, indicating that specificity was very high, but not complete. Due to the overlap in function of the genes involved in the four entities, this is to be expected. The results are in agreement with our joint clinical experience that, infrequently, discrimination between RTS and WDSTS based on clinical criteria can be extremely difficult. This happens less frequently in patients with CDLS and in FHS, but the phenotypic overlap is still marked. Obviously, this has consequences for the molecular analyses in someone with such scores (see Molecular diagnostic criteria). We realise that prospective studies will be needed to determine more reliable specificity and sensitivity. In addition, such studies should include individuals of non-European descent, to evaluate whether the scoring system will be equally valid as in individuals of European descent.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^a4dd1345]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^115DRE7N]. Journal of Medical Genetics (2024). Medium credibility.
 
 Ophthalmology
 
@@ -269,7 +269,7 @@ Eye abnormalities were reported to be more common in individuals from Asia and L
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^3902c3d7]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^112TXDvv]. Journal of Medical Genetics (2024). Medium credibility.
 
 Diagnostic approach
 
@@ -280,7 +280,7 @@ Molecular diagnostic pathways for Rubinstein-Taybi syndrome. In individuals with
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^b7ad7b35]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^115hK1Fz]. JAMA Network Open (2020). High credibility.
 
 Key Points
 
@@ -298,13 +298,13 @@ These findings suggest that diagnostic classification systems developed with ICD
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^ca0ea875]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^116AZRVE]. Journal of Medical Genetics (2024). Medium credibility.
 
 If the clinical diagnosis cannot be confirmed molecularly, molecular analyses yield a variant of unknown significance, or the phenotype does not fit the molecular finding, analysis of a genome-wide methylation pattern (epigenetic signature) can be performed as individuals with RTS have a specific pattern.
 
@@ -324,7 +324,7 @@ Prenatal testing in families without a previous child with RTS and a known patho
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^0c3ce87b]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^111K9Jy8]. NPJ Genomic Medicine (2021). Medium credibility.
 
 By definition, ICD-9/10 codes are intended to classify diseases or conditions; thus, some ICD-9/10 codes definitively identify specific genetic diseases whereas others indicate clinical presentations that may be an accepted indication to test for a genetic disease. As such, as described previously, ICD-9/10 codes were first categorized into three sets: (1) definite genetic disease; (2) probable genetic disease; and (3) possible genetic disease. The definite category was defined by ICD-9/10 codes that identify specific genetic diseases (e.g. cystic fibrosis, Down syndrome, specific inborn errors of metabolism). Probable genetic diseases were defined as ICD-9/10 codes that describe clinical presentations wherein a genetic etiology is likely to be achieved with appropriate genetic testing in > 30% of patients with these codes (e.g. neonatal intractable epilepsy). Finally, possible genetic diseases were defined as ICD-9/10 codes that describe clinical presentations wherein a genetic etiology is likely to be achieved with appropriate testing in ~10–30% of patients (e.g. most severe birth defects, such as congenital central nervous system, and cardiac malformations). We further identified ICD-9/10 codes where there are established and specific clinical and/or laboratory diagnostic criteria and availability of established and commonly administered targeted diagnostic tests (e.g. cystic fibrosis, sickle cell disorders, neurofibromatosis), and therefore patients with these codes would be less likely to present clinically as an undiagnosed genetic disease. CPT and HCPCS codes were categorized into two categories: (1) genetic tests (e.g. specific single-gene tests, molecular pathology, chromosomal microarray (CMA), ES); and (2) other procedures that are commonly used in the workup of patients with suspected genetic diseases (e.g. electrophysiologic tests, imaging, skin or muscle biopsies, etc), though we acknowledge this second category includes codes that are not specific to the workup of patients with suspected genetic diseases.
 
@@ -332,7 +332,7 @@ We used combinations of this curated code sets to group patients into three non-
 
 ---
 
-### Brain abnormalities in prenatally diagnosed rubinstein-taybi syndrome [^0abc2ed7]. Prenatal Diagnosis (2025). Medium credibility.
+### Brain abnormalities in prenatally diagnosed rubinstein-taybi syndrome [^111Gv5vE]. Prenatal Diagnosis (2025). Medium credibility.
 
 2 Discussion
 
@@ -340,7 +340,7 @@ The diagnosis of RSTS can be made in the newborn because of craniofacial dysmorp
 
 ---
 
-### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^dcd5c1b2]. Journal of Medical Genetics (2024). Medium credibility.
+### Diagnosis and management in rubinstein-taybi syndrome: first international consensus statement [^116eQ5K7]. Journal of Medical Genetics (2024). Medium credibility.
 
 Mutation spectrum
 
@@ -351,7 +351,7 @@ Mutation spectrum of CREBBP and EP300 in individuals with Rubinstein-Taybi syndr
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -365,7 +365,7 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons aged [^b8ef51ff]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
+### Inpatient hospitalization costs associated with birth defects among persons aged [^115jB7Bt]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
 
 * Identified by scanning up to 40 available fields for ICD-10-CM diagnosis codes Q00–Q99: congenital malformations, deformations, and chromosomal abnormalities. Patent ductus arteriosus (Q25.0) and atrial septal defect (Q21.1) were not considered birth defects when occurring in neonates aged < 28 days or with an associated indicator of preterm birth (ICD-10-CM codes P07.2 or P07.3). An additional 23 conditions of lesser clinical importance classified within the Q00–Q99 code range were not considered birth defects.
 
@@ -373,7 +373,7 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^fd352dd0]. BMC Pediatrics (2025). Medium credibility.
+### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^117UPjJo]. BMC Pediatrics (2025). Medium credibility.
 
 Introduction
 
@@ -381,7 +381,7 @@ Rubinstein-Taybi syndrome (RSTS [OMIM# 180849]) is a rare group of syndromes cha
 
 ---
 
-### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^7e3a4a55]. BMC Pediatrics (2025). Medium credibility.
+### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^114E926Y]. BMC Pediatrics (2025). Medium credibility.
 
 In general, benign tumors are more prevalent in patients with RSTS compared to malignant tumors. CREBBP frameshift variants were most frequently observed in RSTS patients with malignant tumors, whereas microdeletions were more commonly found in those with benign tumors. In resource-constrained settings, where molecular genetic testing is often unavailable, the diagnosis and management of RSTS patients may rely solely on clinical grounds, potentially leading to a biased estimation of tumor incidence in this population. The 2024 first international consensus statement on Rubinstein-Taybi syndrome indicates that there is currently insufficient evidence to suggest that RSTS elevates the risk of tumors; therefore, routine tumor screening in patients with RSTS is not recommended. However, given the birth prevalence of RSTS and the global population, this risk cannot be entirely dismissed. At present, RSTS lacks precision medicine approaches, and the quality of life for patients can only be improved through multidisciplinary collaboration.
 
@@ -392,7 +392,7 @@ The report documents 23 cases of variations co-occurring with tumors distributed
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^fd4c4acc]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^117UXVb9]. Genetics in Medicine (2019). Medium credibility.
 
 Similar population definitions have been used in previous studies. A 1997 study by Yoon et al. that reviewed pediatric hospital discharges in two states identified a similar list of 73 ICD-9-CM codes and code ranges that capture birth defects and genetic diseases across 17 disease categories. Our list (Table S2) includes all but 5 of their identified codes. Our code set is also inclusive of the Arth et al. codesassociated with birth defects, and both the Arth et al. analysis and ours derived similar proportions of discharges and costs in this population despite using different data sources. Arth et al. report 556,710 patients under 18 years old using the HCUP 2013 National Inpatient Sample database, resulting in $12.4 billion in aggregate costs; while we observed that 10.3% of discharges (N = 602,028) in the database had a diagnosis code for a congenital anomaly (ICD-9-CM 740.xx–759.xx), resulting in $13.0 billion in aggregate costs in 2012. By using a more comprehensive list of GD-linked codes, we expand on these previous studies and report on an additional 216,357 discharges in 12 other disease categories, representing an aggregate cost of $4.5 billion in 2012.
 
@@ -400,7 +400,7 @@ Generally, patients with more indications of genetic disease, i.e. those with mu
 
 ---
 
-### CBP-HSF2 structural and functional interplay in rubinstein-taybi neurodevelopmental disorder [^5c443422]. Nature Communications (2022). High credibility.
+### CBP-HSF2 structural and functional interplay in rubinstein-taybi neurodevelopmental disorder [^113Mnme9]. Nature Communications (2022). High credibility.
 
 Introduction
 
@@ -408,13 +408,13 @@ Many genes associated with risk for neurodevelopmental disorders (NDDs) encode c
 
 ---
 
-### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^d40700dd]. Ophthalmology (2025). High credibility.
+### Retinal and ophthalmic artery occlusions preferred practice pattern ® [^116RLjBS]. Ophthalmology (2025). High credibility.
 
 Retinal arterial occlusion ICD-10 CM codes — Central retinal artery occlusion includes H34.11, H34.12, and H34.13; arterial branch occlusion includes H34.231, H34.232, and H34.233; partial retinal artery occlusion includes H34.211, H34.212, and H34.213; and transient retinal artery occlusion includes H34.01, H34.02, and H34.03. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality, and if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When the diagnosis code specifies laterality, regardless of which digit it is found in, right is always 1, left is always 2, and bilateral is always 3; ICD = International Classification of Diseases and CM = Clinical Modification used in the United States.
 
 ---
 
-### An aetiological classification of birth defects for epidemiological research [^265f500e]. Journal of Medical Genetics (2005). Low credibility.
+### An aetiological classification of birth defects for epidemiological research [^111ytYYu]. Journal of Medical Genetics (2005). Low credibility.
 
 Background
 
@@ -430,7 +430,7 @@ A robust, hierarchical method of classifying birth defects into eight categories
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^ac0479d3]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^115Q2Nfk]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Study population
 
@@ -438,7 +438,7 @@ Our methodology to define the study populations was developed with the goal of i
 
 ---
 
-### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^439852f4]. JAMA Network Open (2020). High credibility.
+### Diagnostic category prevalence in 3 classification systems across the transition to the international classification of diseases, tenth revision, clinical modification [^112jDLPm]. JAMA Network Open (2020). High credibility.
 
 Introduction
 
@@ -446,19 +446,19 @@ Diagnostic codes are widely used within health care in the US for reimbursement,
 
 ---
 
-### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^c5bd4139]. Ophthalmology (2016). Medium credibility.
+### Primary open-angle glaucoma suspect preferred practice pattern® guidelines [^1164A8Vn]. Ophthalmology (2016). Medium credibility.
 
 ICD-10-CM laterality and 7th-character rules — Certain ICD-10 CM categories have applicable 7th characters, the 7th character must always be the 7th character in the data field, and a placeholder X is required if a code needing a 7th character is not 6 characters. For bilateral sites, the final character of the code indicates laterality; if no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned, with unspecified codes used only when there is no other code option available. When laterality is specified in the diagnosis code, Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### The care of children with congenital heart disease in their primary medical home [^216c5216]. Pediatrics (2017). Medium credibility.
+### The care of children with congenital heart disease in their primary medical home [^111rYyZF]. Pediatrics (2017). Medium credibility.
 
 Implementation considerations for CHD care — This document aims to reinforce best-practice recommendations as they pertain to children with CHD, for which diagnosis codes already exist. Time-based coding to value incremental work may be applied to the processes outlined in this statement.
 
 ---
 
-### Age-and lesion-related comorbidity burden among US adults with congenital heart disease: a population-based study [^f63d2dba]. Journal of the American Heart Association (2019). Medium credibility.
+### Age-and lesion-related comorbidity burden among US adults with congenital heart disease: a population-based study [^117J4WBT]. Journal of the American Heart Association (2019). Medium credibility.
 
 Study Population
 
@@ -473,13 +473,13 @@ Adult CHD cases were frequency matched to adults without CHD within categories j
 
 ---
 
-### Exploring by whole exome sequencing patients with initial diagnosis of rubinstein-taybi syndrome: the interconnections of epigenetic machinery disorders [^320ff974]. Human Genetics (2019). Medium credibility.
+### Exploring by whole exome sequencing patients with initial diagnosis of rubinstein-taybi syndrome: the interconnections of epigenetic machinery disorders [^112HDkJF]. Human Genetics (2019). Medium credibility.
 
 Rubinstein-Taybi syndrome (RSTS) is an autosomal-dominant neurodevelopmental disease affecting 1:125,000 newborns characterized by intellectual disability, growth retardation, facial dysmorphisms and skeletal abnormalities. RSTS is caused by mutations in genes encoding for writers of the epigenetic machinery: CREBBP (~60%) or its homologous EP300 (~10%). No causative mutation is identified in up to 30% of patients. We performed whole-exome sequencing (WES) on eight RSTS-like individuals who had normal high-resolution array CGH testing and were CREBBP- and EP300-mutation -negative, to identify the molecular cause. In four cases, we identified putatively causal variants in three genes (ASXL1, KMT2D and KMT2A) encoding members of the epigenetic machinery known to be associated with the Bohring-Opitz, Kabuki and Wiedemann-Steiner syndromes. Each variant is novel, de novo, fulfills the ACMG criteria and is predicted to result in loss-of-function leading to haploinsufficiency of the epi-gene. In two of the remaining cases, homozygous/compound heterozygous variants in XYLT2 and PLCB4 genes, respectively, associated with spondyloocular and auriculocondylar 2 syndromes and in the latter an additional candidate variant in XRN2, a gene yet unrelated to any disease, were detected, but their pathogenicity remains uncertain. These results underscore the broad clinical spectrum of Mendelian disorders of the epigenetic apparatus and the high rate of WES disclosure of the genetic basis in cases which may pose a challenge for phenotype encompassing distinct syndromes. The overlapping features of distinct intellectual disability syndromes reflect common pathogenic molecular mechanisms affecting the complex regulation of balance between open and closed chromatin.
 
 ---
 
-### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^c2389deb]. Genetics in Medicine (2021). Medium credibility.
+### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^115xwcf4]. Genetics in Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -499,13 +499,13 @@ Pediatric and adult discharges with RDs show substantially higher health-care ut
 
 ---
 
-### Corneal edema and opacification preferred practice pattern ® [^14409d67]. Ophthalmology (2024). High credibility.
+### Corneal edema and opacification preferred practice pattern ® [^111X2TSE]. Ophthalmology (2024). High credibility.
 
 Corneal opacification — ICD-10 CM classifications list minor corneal opacity H17.81-, peripheral corneal opacity H17.82-, central corneal opacity H17.1-, and phthisical cornea A18.59, H44.52-. Certain ICD-10 CM categories have applicable 7th characters; the applicable 7th character is required for all codes within the category, the 7th character must always be the 7th character in the data field, and if a code that requires a 7th character is not 6 characters, a placeholder X must be used to fill in the empty characters. For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality; if no bilateral code is provided and the condition is bilateral, assign separate codes for both the left and right side, and unspecified codes should only be used when there is no other code option available. When the diagnosis code specifies laterality (i.e., 4th digit, 5th digit, or 6th digit), Right is always 1, Left is always 2, and Bilateral is always 3.
 
 ---
 
-### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^03ebdedf]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
+### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^1116pByY]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
 
 Objective
 
@@ -533,7 +533,7 @@ Treacher Collins syndrome is a rare craniofacial disorder requiring complex mult
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^60b2833a]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^113UMmm3]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 †††† Trisomy 21 (758.0), trisomy 13 (758.1), trisomy 18 (758.2), 22q11 deletion syndrome (758.32), Turner syndrome (758.6).
 
@@ -544,7 +544,7 @@ Weighted estimated median cost and interquartile range of birth defect–associa
 
 ---
 
-### A flexible computational pipeline for research analyses of unsolved clinical exome cases [^7574d1f0]. NPJ Genomic Medicine (2020). Medium credibility.
+### A flexible computational pipeline for research analyses of unsolved clinical exome cases [^11418noy]. NPJ Genomic Medicine (2020). Medium credibility.
 
 Pipeline performance for previously unsolved cases
 
@@ -552,13 +552,13 @@ As noted previously, reviewing putative diagnostic variants from ES data is chal
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^68ee46a4]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113gZkJF]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Our study has strengths and limitations. Strengths include the size of the population evaluated — which included over 13 million unique patients from a large commercial health plan population, representative of commercially-insured patients more generally. Our methodology, which included a detailed curation of indicators of genetic disease, allowed us to evaluate several different populations of patients based on different levels of specificity. Finally, our administrative claims-based approach allowed for a comprehensive assessment of direct healthcare-related utilization and costs. Several limitations should be considered in the interpretation of our results. First, as our methodology utilized insurance claims data as opposed to electronic health records, we are limited in our ability to interpret both diagnostic thinking and clinical decision-making. For example, while we observe substantial delays in genetic testing in many patients, the reasons for these delays are unclear and may be clinically warranted based on the unique circumstances of individual patients. Similarly, ICD-9/10 codes do not capture the granularity required to distinguish diagnosed genetic conditions. Human Phenotype Ontology (HPO) provides a deep ontology that relates detailed clinical features to both diseases and genes. Availability of HPO terms in a large data set like this would have improved our specificity in defining populations and HPO coding (or improvements in ICD coding informed by HPO) could contribute to future studies of genetic disease in populations. In addition, while some genetic diseases have specific ICD-9/10 codes, many do not; thus, we are unable to definitively determine the end of a diagnostic odyssey for many individual patients. Second, our definitions of possible, probable and definite genetic disease are based on expert opinion and manual curation. Not all patients with these features would have had a genetic diagnosis even if optimal testing had been performed. This is likely due to additional undescribed disease-causing genes, oligogenic and complex inheritance, and environmental phenocopies. How ICD-9/10 codes are used for insurance billing purposes may not be aligned with the diagnostic thinking of clinicians. Coding systems, including diagnosis and procedure codes, are used for billing purposes and are likely to fail to reflect the variability observed in clinical practice. Furthermore, a level of miscoding is presumed to occur as is inherent in claims database studies (e.g. a coding specialist may select the first code on a list of possible codes as opposed to the most appropriate code). Third, given the substantial health conditions of patients with genetic diseases, patients may transition to public insurance programs, switch between private insurance plans, or for other reasons stopped being observed in the database. Although our continuous enrollment requirements help control for some of this variability, there are inherent limitations to the comprehensiveness of the follow-up, which could also be exacerbated by the severity of the disease. Finally, in our selection of patients, we found a large number of newborns with codes indicating a possible genetic condition but no stay in a NICU. Because we required a stay in a NICU, these patients were excluded from analysis in the critically-ill infant population and were instead included in the pediatric population.
 
 ---
 
-### Comorbidity landscape of the Danish patient population affected by chromosome abnormalities [^7e978c04]. Genetics in Medicine (2019). Medium credibility.
+### Comorbidity landscape of the Danish patient population affected by chromosome abnormalities [^114EgLt3]. Genetics in Medicine (2019). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -575,37 +575,37 @@ a Fewer than five patients were available.
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^35c99e18]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^112Nk4mD]. Genetics in Medicine (2019). Medium credibility.
 
 The maximum number of diagnoses and procedures recorded for each inpatient discharge varies by HCUP member state, but up to 15 diagnoses and 15 procedures were included per discharge in the KID data set and coded in ICD-9-CM. In the HCUP data, the first diagnosis is considered the primary diagnosis, and all other ICD-9-CM codes are considered secondary. Using the 919 ICD-9-CM codes, we identified two sets of criteria by which to define the prevalence range. To establish the upper bound of possible GD discharges, we defined the maximum number of discharges of patients with suspected GD as those for which any diagnosis (up to 15 diagnoses per discharge) was included in the list of 919 codes. For a conservative minimum, discharges with a primary diagnosis in the set of ICD-9-CM codes were selected. In HCUP and other claims data sets, the first listed diagnosis is commonly defined as the condition to be chiefly responsible for inpatient admission and care. To account for variability in coding practice and discharges for newborns, in which "live birth" is often coded first, we considered any diagnosis in our maximum definition, as has been done in similar studies. In addition, we required that the ICD-9-CM diagnosis be a clinical indication for genetic testing given the age at discharge. Specifically, an age cutoff was applied based on estimates of genetic test diagnostic yield for a given ICD-9-CM in neonates versus the remaining pediatric population (Table S2). For example, a diagnosis code indicating scoliosis would only be considered suspected GD if observed in a neonate, but not in an adolescent. For each definition, we consider the background population as those patients represented by discharges with no ICD-9-CM diagnoses codes in the list.
 
 ---
 
-### ACC / AHA 2008 guidelines for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to develop guidelines on the management of adults with congenital heart disease) [^d8a93564]. Circulation (2008). Medium credibility.
+### ACC / AHA 2008 guidelines for the management of adults with congenital heart disease: a report of the American college of cardiology / American Heart Association task force on practice guidelines (writing committee to develop guidelines on the management of adults with congenital heart disease) [^116YDAKV]. Circulation (2008). Medium credibility.
 
 Right-sided heart obstruction due to supravalvular, branch, and peripheral pulmonary artery stenosis — definition and associated lesions explains that "Abnormal narrowing of the main pulmonary artery, the major pulmonary arterial branches, and the peripheral pulmonary arteries can all lead to obstruction of RV outflow". "Supravalvular PS or pulmonary arterial stenosis is caused by narrowing of the main pulmonary trunk, the pulmonary arterial bifurcation, or the primary and/or intrapulmonary branches". Regarding severity, "most clinicians define an angiographically significant lesion to be greater than 50% diameter narrowing", and "These significant lesions would be expected to have a pressure gradient across them and to result in hypertension in the more proximal pulmonary artery". Syndromic associations include that "Central and peripheral pulmonary artery stenosis may be a major cardiovascular feature in the Alagille and Keutel syndromes" and "Pulmonary artery stenoses are also sequelae of the congenital Rubella syndrome, Williams syndrome, or scarring at the site of a previous pulmonary artery band or aortopulmonary shunt".
 
 ---
 
-### Characterization of 14 novel deletions underlying rubinstein-taybi syndrome: an update of the CREBBP deletion repertoire [^2937773c]. Human Genetics (2015). Low credibility.
+### Characterization of 14 novel deletions underlying rubinstein-taybi syndrome: an update of the CREBBP deletion repertoire [^1124787d]. Human Genetics (2015). Low credibility.
 
 Rubinstein-Taybi syndrome (RSTS) is a rare, clinically heterogeneous disorder characterized by cognitive impairment and several multiple congenital anomalies. The syndrome is caused by almost private point mutations in the CREBBP (~55% of cases) and EP300 (~8%) genes. The CREBBP mutational spectrum is variegated and characterized by point mutations (30–50%) and deletions (~10%). The latter are diverse in size and genomic position and remove either the whole CREBBP gene and its flanking regions or only an intragenic portion. Here, we report 14 novel CREBBP deletions ranging from single exons to the whole gene and flanking regions which were identified by applying complementary cytomolecular techniques: fluorescence in situ hybridization, multiplex ligation-dependent probe amplification and array comparative genome hybridization, to a large cohort of RSTS patients. Deletions involving CREBBP account for 23% of our detected CREBBP mutations, making an important contribution to the mutational spectrum. Genotype-phenotype correlations revealed that patients with CREBBP deletions extending beyond this gene did not always have a more severe phenotype than patients harboring CREBBP point mutations, suggesting that neighboring genes play only a limited role in the etiopathogenesis of CREBBP-centerd contiguous gene syndrome. Accordingly, the extent of the deletion is not predictive of the severity of the clinical phenotype.
 
 ---
 
-### International classification of diseases (ICD-11) and neurologic disorders: the future [^cd55411e]. Neurology (2013). Low credibility.
+### International classification of diseases (ICD-11) and neurologic disorders: the future [^116FR6fF]. Neurology (2013). Low credibility.
 
 When the WHO's Topic Advisory Group for Neurology (TAG) started work on revision of the ICD-10 diagnostic codes in June 2009, the issues were daunting. The existing classification was produced a generation ago and the need to move to the digital age was becoming imperative. Appreciating modern advances in genetics and immunology, and the consequent changes in understanding of the pathophysiology of disorders of the nervous system, WHO's charge to the TAG was to produce a comprehensive, up-to-date disease classification, while providing published or consensus evidence for each coding change. In addition, the task would be to focus on ways to reduce the treatment gap while considering the utility of ICD-11 when used in primary care and nonspecialist settings. The project mushroomed over the 3 years since our first meeting and continues to do so. The work was made even more difficult as the group needed to add "content models" for the major codes for the first time (i.e., providing a definition for each disorder, along with appropriate diagnostic tests and outcome). The ICD-11 is meant to be updated as new knowledge develops, rather than waiting some years for another whole-scale revision, but this process has yet to be defined.
 
 ---
 
-### Retinal vein occlusions preferred practice pattern ® [^f45120fb]. Ophthalmology (2025). High credibility.
+### Retinal vein occlusions preferred practice pattern ® [^117FDEH8]. Ophthalmology (2025). High credibility.
 
 Retinal vein occlusion ICD-9 CM/ICD-10 CM codes — International Classification of Diseases (ICD) classifications include: central retinal vein occlusion — ICD-9 CM 362.35; ICD-10 CM H34.811-, H34.812-, H34.813-; venous tributary (branch) occlusion — ICD-9 CM 362.36; ICD-10 CM H34.831-, H34.832-, H34.833-; venous engorgement — ICD-9 CM 362.37; ICD-10 CM H34.821-, H34.822-, H34.823-. For ICD-10 CM laterality, the guidance states: "For bilateral sites, the final character of the codes in the ICD-10 CM indicates laterality. If no bilateral code is provided and the condition is bilateral, separate codes for both the left and right side should be assigned. Unspecified codes should be used only when there is no other code option available". When the diagnosis code specifies laterality, "Right is always 1 Left is always 2 Bilateral is always 3".
 
 ---
 
-### Meningiomas in rubinstein-taybi syndrome: a case report and comprehensive review [^97ba89f4]. Journal of Neuropathology and Experimental Neurology (2025). Medium credibility.
+### Meningiomas in rubinstein-taybi syndrome: a case report and comprehensive review [^114swnd9]. Journal of Neuropathology and Experimental Neurology (2025). Medium credibility.
 
 Literature search and review
 
@@ -620,13 +620,13 @@ The incidence of RTS-associated meningiomas is extremely low, with only 6 RTS pa
 
 ---
 
-### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^9c9cf4f0]. Chest (2012). Low credibility.
+### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^1151Bnj9]. Chest (2012). Low credibility.
 
 The term "children's interstitial lung disease" (chILD) refers to a heterogeneous group of rare and diffuse lung diseases associated with significant morbidity and mortality. These disorders include neuroendocrine cell hyperplasia of infancy, pulmonary interstitial glycogenosis, surfactant dysfunction mutations, and alveolar capillary dysplasia with misalignment of pulmonary veins. Diagnosis can be challenging, which may lead to a delay in recognition and treatment of these disorders. Recently, International Classifications of Diseases, Ninth Revision codes have been added for several of the chILD disorders. The purpose of this article is to give an overview of the chILD disorders and appropriate diagnostic coding.
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^8bb8105e]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^114a972V]. Genetics in Medicine (2019). Medium credibility.
 
 Table 3
 Neonatal health-care utilization for GD discharges by ICD-9-CM category
@@ -639,7 +639,7 @@ Discharges with GD-associated codes show significantly higher health-care utiliz
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons aged [^9fc1629d]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
+### Inpatient hospitalization costs associated with birth defects among persons aged [^1155qzFn]. MMWR: Morbidity and Mortality Weekly Report (2023). Medium credibility.
 
 TABLE 2
 Weighted national estimates of frequencies and mean costs of birth defect–associated hospitalizations * among persons aged < 65 years, by selected specific birth defect and age group — National Inpatient Sample, United States, 2019
@@ -652,7 +652,7 @@ Abbreviations: CNS = central nervous system; GI = gastrointestinal; ICD-10-CM = 
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^7319604b]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113we6mx]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Diagnostic transitions
 
@@ -671,7 +671,7 @@ In the Broad and MCA/ID/DD/E cohorts of the critically-ill newborn population, 5
 
 ---
 
-### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^156348fd]. BMC Pediatrics (2025). Medium credibility.
+### Rubinstein-taybi syndrome with ganglioneuroblastoma: a case report and literature review [^111Yi69a]. BMC Pediatrics (2025). Medium credibility.
 
 Background
 
@@ -687,7 +687,7 @@ We report a case of RSTS co-morbid with GNB and conduct phenotypic and genotypic
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^b0de8688]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^115XDZkB]. Genetics in Medicine (2019). Medium credibility.
 
 Purpose
 
@@ -707,7 +707,7 @@ Pediatric inpatients with diagnostic codes linked to genetic disease have a sign
 
 ---
 
-### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^953a5a45]. Clinical Ophthalmology (2018). Low credibility.
+### The impact of conversion to international classification of diseases, 10th revision (ICD-10) on an academic ophthalmology practice [^114pEknp]. Clinical Ophthalmology (2018). Low credibility.
 
 Introduction
 
@@ -717,7 +717,7 @@ Each ICD-10 code has space for seven characters, an increase from the five avail
 
 ---
 
-### Rubinstein-taybi syndrome and mixed bilateral hypoacousia case report [^d7b8aa5f]. Otology & Neurotology (2007). Low credibility.
+### Rubinstein-taybi syndrome and mixed bilateral hypoacousia case report [^116WpNAS]. Otology & Neurotology (2007). Low credibility.
 
 Objective
 
@@ -745,7 +745,7 @@ We presented a case of a patient with RTS and bilateral mixed hypoacousia who un
 
 ---
 
-### Is the first-trimester combined screening result associated with the phenotype of down syndrome? A population-based cohort study [^39d964df]. Prenatal Diagnosis (2023). Medium credibility.
+### Is the first-trimester combined screening result associated with the phenotype of down syndrome? A population-based cohort study [^112UmKEv]. Prenatal Diagnosis (2023). Medium credibility.
 
 2.2 Outcomes
 
@@ -759,25 +759,25 @@ Childhood morbidity was additionally measured as non‐malformation disorders as
 
 ---
 
-### Use of ICD-10-CM coded hospitalisation and emergency department data for injury surveillance [^6cc9d3cb]. Injury Prevention (2021). Medium credibility.
+### Use of ICD-10-CM coded hospitalisation and emergency department data for injury surveillance [^113nHTMC]. Injury Prevention (2021). Medium credibility.
 
 While the focus of this journal supplement is on the analysis of ICD-10-CM coded hospitalisation and ED administrative (billing) data, ICD-10-CM may also be applied to billing data for other types of medical encounters (eg, clinician's office visits, care provided by emergency medical services), as well as syndromic and registry data. Exploration and publication of how ICD-10-CM functions in each additional data source is important for gaining a fuller picture of injury and the impact of the transition to ICD-10-CM coding for injury surveillance.
 
 ---
 
-### Positive predictive value of, and, codes for identification of congenital heart defects [^33cdf326]. Journal of the American Heart Association (2023). Medium credibility.
+### Positive predictive value of, and, codes for identification of congenital heart defects [^112KoYbf]. Journal of the American Heart Association (2023). Medium credibility.
 
 Background Administrative data permit analysis of large cohorts but rely on International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM), and International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) codes that may not reflect true congenital heart defects (CHDs). Methods and Results CHDs in 1497 cases with at least 1 encounter between January 1, 2010 and December 31, 2019 in 2 health care systems, identified by at least 1 of 87 ICD-9-CM / ICD-10-CM CHD codes were validated through medical record review for the presence of CHD and CHD native anatomy. Interobserver and intraobserver reliability averaged > 95%. Positive predictive value (PPV) of ICD-9-CM / ICD-10-CM codes for CHD was 68.1% (1020/1497) overall, 94.6% (123/130) for cases identified in both health care systems, 95.8% (249/260) for severe codes, 52.6% (370/703) for shunt codes, 75.9% (243/320) for valve codes, 73.5% (119/162) for shunt and valve codes, and 75.0% (39/52) for "other CHD" (7 ICD-9-CM / ICD-10-CM codes). PPV for cases with > 1 unique CHD code was 85.4% (503/589) versus 56.3% (498/884) for 1 CHD code. Of cases with secundum atrial septal defect ICD-9-CM / ICD-10-CM codes 745.5/Q21.1 in isolation, PPV was 30.9% (123/398). Patent foramen ovale was present in 66.2% (316/477) of false positives. True positives had younger mean age at first encounter with a CHD code than false positives (22.4 versus 26.3years; P = 0.0017). Conclusions CHD ICD-9-CM / ICD-10-CM codes have modest PPV and may not represent true CHD cases. PPV was improved by selecting certain features, but most true cases did not have these characteristics. The development of algorithms to improve accuracy may improve accuracy of electronic health records for CHD surveillance.
 
 ---
 
-### Confirmation of EP300 gene mutations as a rare cause of rubinstein-taybi syndrome [^f41d0c66]. European Journal of Human Genetics (2007). Low credibility.
+### Confirmation of EP300 gene mutations as a rare cause of rubinstein-taybi syndrome [^117Eujfs]. European Journal of Human Genetics (2007). Low credibility.
 
 The Rubinstein-Taybi syndrome (RSTS, MIM 180849), a dominant Mendelian disorder with typical face, short stature, skeletal abnormalities, and mental retardation, is usually caused by heterozygous mutations of the CREBBP gene, but recently, EP300 gene mutations were reported in three individuals. Using quantitative PCR (for the CREBBP and EP300 genes) and genomic sequencing (for the EP300 gene), we studied here 13 patients who had shown no mutation after genomic sequencing of the CREBBP gene in a previous investigation. Two new disease-causing mutations were identified, including a partial deletion of CREBBP and a 1-bp deletion in EP300, c.7100delC (p.P2366fsX2401). The 1-bp deletion represents the fourth EP300 mutation reported to date and was identified in a patient with non-classical RSTS. Based on the very similar structure of the CREBBP and EP300 genes and the higher rate of single-nucleotide polymorphisms in EP300 (2.23 per individual) as compared to CREBBP (0.71 per individual) (P > 0.001, Wilcoxon test), it may be assumed that EP300 gene mutations should be as frequent as CREBBP gene mutations. Based on the location of the EP300 gene mutations identified so far (outside the histone acetyl transferase domain) and the observed (although not very striking) phenotypical differences with the EP300 mutations, we propose that most EP300 mutations could be associated with other phenotypes, not classical RSTS.
 
 ---
 
-### Cleft lip sidedness and the association with additional congenital malformations [^d33e9305]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Cleft lip sidedness and the association with additional congenital malformations [^116QBQWQ]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 Additional Congenital Malformations (ACMs)
 
@@ -787,13 +787,13 @@ We did not attempt to remove individuals with a specific genetic and/or syndromi
 
 ---
 
-### Corneal edema and opacification preferred practice pattern ® [^924c2482]. Ophthalmology (2024). High credibility.
+### Corneal edema and opacification preferred practice pattern ® [^114jtmXF]. Ophthalmology (2024). High credibility.
 
 Appendix 2 — International Statistical Classification of Diseases (ICD) codes for corneal edema lists ICD-10 classifications for related entities, including idiopathic corneal edema (H18.22-), secondary corneal edema (H18.23-), bullous keratopathy (H18.11-), corneal edema due to wearing contact lenses (H18.21-), congenital glaucoma (Q15.0), congenital hereditary endothelial dystrophy – autosomal dominant (CHED – AD) (H18.51) and – autosomal recessive (CHED – AR) (H18.51), posterior polymorphous corneal dystrophy (PPCD) (H18.59), intraocular inflammation (H57.8), birth/forceps delivery trauma (P15.3), acute angle-closure glaucoma (H40.21-), Fuchs dystrophy (H18.51), primary hypotony (H44.4-), hypoxia (R09.02), iridocorneal endothelial (ICE) syndrome (H18.89-), infectious keratitis (H16.8), keratoconus – hydrops (H18.62-), pseudophakic or aphakic bullous keratopathy (unilateral or bilateral) (H18.1-), and direct injury (surgical trauma) (T81.31XA); the page notes "CM = Clinical Modification used in the United States; ICD = International Classification of Diseases".
 
 ---
 
-### Hospital-recorded chronic health conditions in children with and without down syndrome in england: a national cohort of births from 2003 to 2019 [^bbbed179]. Archives of Disease in Childhood (2025). Medium credibility.
+### Hospital-recorded chronic health conditions in children with and without down syndrome in england: a national cohort of births from 2003 to 2019 [^115oLn8x]. Archives of Disease in Childhood (2025). Medium credibility.
 
 Methods
 
@@ -809,7 +809,7 @@ We divided the cohort into two groups: children with DS and children without DS.
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^7da3301e]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^114DGGPF]. Genetics in Medicine (2019). Medium credibility.
 
 Purpose
 
@@ -829,7 +829,7 @@ Pediatric inpatients with diagnostic codes linked to genetic disease have a sign
 
 ---
 
-### The high direct medical costs of Prader-Willi syndrome [^c3131857]. The Journal of Pediatrics (2016). Low credibility.
+### The high direct medical costs of Prader-Willi syndrome [^115zCzxN]. The Journal of Pediatrics (2016). Low credibility.
 
 Methods
 
@@ -843,7 +843,7 @@ To account for extraneous coding errors, we included only cases for which there 
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^4ab2a812]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^112uk6N5]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Subset of clinical indications broadly accepted for genetic testing (MCA/ID/DD/E)
 
@@ -860,19 +860,19 @@ Description of cohort identification process. Note that groups are not mutually 
 
 ---
 
-### Brain abnormalities in prenatally diagnosed rubinstein-taybi syndrome [^314c43da]. Prenatal Diagnosis (2025). Medium credibility.
+### Brain abnormalities in prenatally diagnosed rubinstein-taybi syndrome [^112G61a9]. Prenatal Diagnosis (2025). Medium credibility.
 
 Rubinstein-Taybi syndrome (RSTS; OMIM 180849) is a rare autosomal dominant disorder characterized by craniofacial dysmorphism, broad halluces and thumbs, variable structural abnormalities and intellectual disability. It is caused by a pathogenic variant in the CREBBP or EP300 genes. Although distinctive features are described, prenatal diagnosis is rare. We report five prenatally diagnosed cases of RSTS, all with brain abnormalities. On neurosonography, corpus callosum abnormalities were found in 3/5 cases. The remaining two cases had abnormal posterior fossas, one with vermian hypoplasia and the other with Dandy-Walker malformation (DWM). A CREBBP gene mutation was identified in all cases-two on microarray (CMA) and three on Trio-whole-exome-sequencing (Trio-WES). This report will allow for a better understanding of the fetal brain findings associated with RSTS.
 
 ---
 
-### Correction to: expanding the genetic heterogeneity of intellectual disability [^0a956268]. Human Genetics (2018). Low credibility.
+### Correction to: expanding the genetic heterogeneity of intellectual disability [^111Gh44X]. Human Genetics (2018). Low credibility.
 
 Variant nomenclature discrepancy was identified in the article.
 
 ---
 
-### Hospitalizations in people with down syndrome across age groups: a population-based cohort study in Switzerland [^0393f5ee]. EClinicalMedicine (2025). Medium credibility.
+### Hospitalizations in people with down syndrome across age groups: a population-based cohort study in Switzerland [^1116JfMP]. EClinicalMedicine (2025). Medium credibility.
 
 Classification of primary causes of hospitalization and secondary diagnoses
 
@@ -884,7 +884,7 @@ The primary outcome was the number of hospitalizations characterized by the inci
 
 ---
 
-### Meningiomas in rubinstein-taybi syndrome: a case report and comprehensive review [^e2193e15]. Journal of Neuropathology and Experimental Neurology (2025). Medium credibility.
+### Meningiomas in rubinstein-taybi syndrome: a case report and comprehensive review [^116nCgTE]. Journal of Neuropathology and Experimental Neurology (2025). Medium credibility.
 
 INTRODUCTION
 
@@ -894,7 +894,7 @@ Meningiomas are the most common primary tumor of the central nervous system (CNS
 
 ---
 
-### Individuals aged 1–64 years with documented congenital heart defects at healthcare encounters, five U.S. surveillance sites, 2011–2013 [^323b9212]. American Heart Journal (2021). Medium credibility.
+### Individuals aged 1–64 years with documented congenital heart defects at healthcare encounters, five U.S. surveillance sites, 2011–2013 [^112HUPcu]. American Heart Journal (2021). Medium credibility.
 
 Background
 
@@ -918,7 +918,7 @@ CHD cases varied by site, CHD severity, and age. These findings will inform plan
 
 ---
 
-### Description of total population hospital admissions for Treacher Collins syndrome in Australia [^88e8c04c]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
+### Description of total population hospital admissions for Treacher Collins syndrome in Australia [^114VyVgf]. The Cleft Palate-Craniofacial Journal (2022). Medium credibility.
 
 Objective
 
@@ -942,7 +942,7 @@ Findings indicate an increase in hospitalization rates, especially among infants
 
 ---
 
-### The transition to ICD-10-CM: challenges for pediatric practice [^51ad6a56]. Pediatrics (2014). Low credibility.
+### The transition to ICD-10-CM: challenges for pediatric practice [^11366FEM]. Pediatrics (2014). Low credibility.
 
 Background and Objectives
 
@@ -962,7 +962,7 @@ The potential for financial disruption and administrative errors from 8% of reim
 
 ---
 
-### Cleft lip sidedness and the association with additional congenital malformations [^ef2cf36d]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Cleft lip sidedness and the association with additional congenital malformations [^1177b94p]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 Strengths and Limitations
 
@@ -972,7 +972,7 @@ The ICD-10 categorisation system of malformations is advantageous because it is 
 
 ---
 
-### The collective impact of rare diseases in Western Australia: an estimate using a population-based cohort [^4008fea7]. Genetics in Medicine (2017). Low credibility.
+### The collective impact of rare diseases in Western Australia: an estimate using a population-based cohort [^112dwEGW]. Genetics in Medicine (2017). Low credibility.
 
 The whole cohort of this study represents 2.0% of the state population in 2010. This is comparable to a study by Mazzucato et al. that extrapolated prevalence data calculated from a population-based registry to estimate that 1.3 to 2% of the European Union population are living with an RD. However, this is considerably lower than the usually reported estimates of 6–8% of the population living with an RD. Results from this study should be considered as minimum values for reasons that include the following: (i) the RD resource set used in this study contained only 467 of the estimated 6,000 to 8,000 RD, (ii) RD are likely to be incorrectly or insufficiently coded in administrative data sets because physicians may not know or use appropriate codes for certain RD, and (iii) people who used outpatient, general practitioner, emergency, and allied health services without inpatient services were not included. Although it is difficult to estimate the extent, these factors could contribute to a significant underestimate of the number of people in WA with an RD.
 
@@ -980,7 +980,7 @@ Substantial elements of the shortfalls of RD coding internationally will be addr
 
 ---
 
-### Genetic heterogeneity in rubinstein-taybi syndrome: delineation of the phenotype of the first patients carrying mutations in EP300 [^850c7f20]. Journal of Medical Genetics (2007). Low credibility.
+### Genetic heterogeneity in rubinstein-taybi syndrome: delineation of the phenotype of the first patients carrying mutations in EP300 [^114QFYw9]. Journal of Medical Genetics (2007). Low credibility.
 
 Background
 
@@ -1000,13 +1000,13 @@ Part of the clinical variability in RSTS is explained by genetic heterogeneity. 
 
 ---
 
-### Truncating SRCAP variants outside the floating-harbor syndrome locus cause a distinct neurodevelopmental disorder with a specific DNA methylation signature [^04dd83e9]. American Journal of Human Genetics (2021). Medium credibility.
+### Truncating SRCAP variants outside the floating-harbor syndrome locus cause a distinct neurodevelopmental disorder with a specific DNA methylation signature [^1118DMbN]. American Journal of Human Genetics (2021). Medium credibility.
 
 Next, we classified all distal SRCAP subjects (n = 5) using both signature models. Using the FLHS SVM model, all five distal SRCAP subjects classified negatively, demonstrating that these subjects do not have FLHS (Figure 4). Using the proximal SRCAP SVM model, two distal SRCAP subjects classified positively and three classified negatively (Figure 4). This demonstrates that these two distal SRCAP subjects have the same DNAm profile as the proximal SRCAP subjects at the proximal SRCAP DNAm signature sites, possibly indicating that these variants result in the same disorder as the proximal SRCAP variants. Clinical features of the distal SRCAP group are non-specific and do not differentiate the positive from negative classifying case subjects (see below clinical features section). A negative classification typically indicates a benign variant for the condition tested, although it is possible that these variants have another signature distinct from the individuals with proximal SRCAP variants and FLHS. Additionally, all four (Table S2) obtained samples from individuals with different SRCAP missense variants with intellectual disability or multiple congenital anomalies classified negatively using both models (Figure 4). Finally, we classified pathogenic CREBBP and EP300 variants from individuals clinically diagnosed with Rubinstein-Taybi syndrome (n = 10) or Menke-Hennekam syndrome 1 (n = 1), given the similar clinical features to FLHS and the known interactions of the SRCAP complex and CREBBP/EP300; all samples classified negatively using both models (Figure 4).
 
 ---
 
-### ICD-10-CM | Classification of diseases, functioning, and… [^20c2c21c]. CDC (2024). Medium credibility.
+### ICD-10-CM | Classification of diseases, functioning, and… [^111qa2DR]. CDC (2024). Medium credibility.
 
 What to know ICD-10-CM — the International Classification of Diseases, Tenth Revision, Clinical Modification — is used to code and classify medical diagnoses. ICD-10-CM is based on ICD-10, the system used to code and classify mortality data from death certificates. Use our free tool to search for ICD-10-CM codes. Introduction ICD-10-CM is a standardized system used to code diseases and medical conditions data. Healthcare providers use ICD-10-CM codes when diagnosing patients. ICD-10-CM builds on ICD-10 — the system used to code causes of death on death certificates. CDC's National Center for Health Statistics is responsible for the clinical modification of ICD-10 for use in the United States. The World Health Organization, which owns and publishes ICD-10, authorized NCHS to develop ICD-10-CM.
 
@@ -1020,7 +1020,7 @@ All modifications to ICD-10 must conform to WHO's established ICD structure and 
 
 ---
 
-### Congenital heart disease and risk of suicide and self-harm: a Danish nationwide cohort study [^00e3dd80]. Journal of the American Heart Association (2020). Medium credibility.
+### Congenital heart disease and risk of suicide and self-harm: a Danish nationwide cohort study [^1112KYB1]. Journal of the American Heart Association (2020). Medium credibility.
 
 Non‐standard Abbreviations and Acronyms
 
@@ -1032,13 +1032,13 @@ ICD‐8 International Classification of Diseases, Eighth Revision ICD‐10 Inter
 
 ---
 
-### Hand pain and sensory deficits: carpal tunnel syndrome [^c2a8e245]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
+### Hand pain and sensory deficits: carpal tunnel syndrome [^115ybKo2]. The Journal of Orthopaedic and Sports Physical Therapy (2019). High credibility.
 
 Carpal tunnel syndrome (CTS) classification — International Classification of Diseases-10th Revision-Clinical Modification (ICD-10-CM) codes that "could be used when managing individuals with CTS" include G56.00, G56.01, G56.02, M79.641, M79.642, M79.643, M79.644, M79.645, M79.646, R20.1, R20.2, and R20.9, as listed under "ICD-10-CM".
 
 ---
 
-### Duplications of the critical rubinstein-taybi deletion region on chromosome 16p13.3 cause a novel recognisable syndrome [^10b0b530]. Journal of Medical Genetics (2010). Low credibility.
+### Duplications of the critical rubinstein-taybi deletion region on chromosome 16p13.3 cause a novel recognisable syndrome [^111RkA47]. Journal of Medical Genetics (2010). Low credibility.
 
 Background
 
@@ -1058,7 +1058,7 @@ Interstitial 16p13.3 duplications have a recognizable phenotype, characterized b
 
 ---
 
-### Discovering monogenic patients with a confirmed molecular diagnosis in millions of clinical notes with monoMiner [^27f57a23]. Genetics in Medicine (2022). Medium credibility.
+### Discovering monogenic patients with a confirmed molecular diagnosis in millions of clinical notes with monoMiner [^1122EyGe]. Genetics in Medicine (2022). Medium credibility.
 
 Purpose
 
@@ -1078,7 +1078,7 @@ MonoMiner enables the discovery of a large, high-precision cohort of patients wi
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^35d7c334]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^112NppL3]. Genetics in Medicine (2019). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -1092,25 +1092,25 @@ We aimed to identify discharges in which the clinical diagnoses are acceptable i
 
 ---
 
-### Secondary hemophagocytic lymphohystiocytosis in a rubinstein taybi syndrome patient [^ae292916]. Pediatric Hematology and Oncology (2022). Medium credibility.
+### Secondary hemophagocytic lymphohystiocytosis in a rubinstein taybi syndrome patient [^115TCfuX]. Pediatric Hematology and Oncology (2022). Medium credibility.
 
 Rubinstein-Taybi syndrome (RSTS) is an autosomal dominant disorder, caused by variants in CREBBP or EP300. Affected individuals present with distinctive craniofacial features, broad thumbs and/or halluces, intellectual disability and immunodeficiency. Here we report on one RSTS patient who experienced hemophagocytic lymphohystiocytosis (HLH) and disseminated herpes virus 1 (HSV-1) disease. The clinical picture of RSTS is expanding to include autoinflammatory, autoimmune, and infectious complications. Prompt treatment of HLH and disseminated HSV-1 can lower the mortality rate of these life-threatening conditions.
 
 ---
 
-### Genetic heterogeneity in rubinstein-taybi syndrome: mutations in both the CBP and EP300 genes cause disease [^0ca352b7]. American Journal of Human Genetics (2005). Low credibility.
+### Genetic heterogeneity in rubinstein-taybi syndrome: mutations in both the CBP and EP300 genes cause disease [^111KjiAz]. American Journal of Human Genetics (2005). Low credibility.
 
 CREB-binding protein and p300 function as transcriptional coactivators in the regulation of gene expression through various signal-transduction pathways. Both are potent histone acetyl transferases. A certain level of CREB-binding protein is essential for normal development, since inactivation of one allele causes Rubinstein-Taybi syndrome (RSTS). There is a direct link between loss of acetyl transferase activity and RSTS, which indicates that the disorder is caused by aberrant chromatin regulation. We screened the entire CREB-binding protein gene (CBP) for mutations in patients with RSTS by using methods that find point mutations and larger rearrangements. In 92 patients, we were able to identify a total of 36 mutations in CBP. By using multiple ligation-dependent probe amplification, we found not only several deletions but also the first reported intragenic duplication in a patient with RSTS. We extended the search for mutations to the EP300 gene and showed that mutations in EP300 also cause this disorder. These are the first mutations identified in EP300 for a congenital disorder.
 
 ---
 
-### Pediatric application of coding and valuation systems [^da217d43]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116aPYrn]. Pediatrics (2019). High credibility.
 
 Standardized code sets — HIPAA mandate and ICD-10 governance in the United States — are described as follows: Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Secretary of the Department of Health and Human Services mandates use of standardized code sets in support of electronic health care transactions, which include International Classification of Diseases, 10th Revision (ICD-10); Healthcare Common Procedure Coding System (HCPCS); Current Procedural Terminology (CPT); National Drug Codes (NDCs); and Current Dental Terminology. The World Health Organization created the ICD-10 with adaptability for expansion and specificity for enhanced measurement, surveillance, research, and reporting across multiple domains, and it was clinically modified and initiated in the United States on October 1, 2015. The 4 cooperating parties that oversee and manage the ICD-10 in the United States are the Centers for Medicare and Medicaid Services (CMS), the National Center for Health Statistics at the Centers for Disease Control and Prevention, the American Health Information Management Association, and the American Hospital Association.
 
 ---
 
-### Estimating the burden and economic impact of pediatric genetic disease [^d631d180]. Genetics in Medicine (2019). Medium credibility.
+### Estimating the burden and economic impact of pediatric genetic disease [^116UZ5r7]. Genetics in Medicine (2019). Medium credibility.
 
 RESULTS
 
@@ -1133,7 +1133,7 @@ b Missing values and other payment types not displayed. Additional demographics 
 
 ---
 
-### Clinical outcomes in neonates with congenital heart disease with concurrent congenital neurological anomalies [^0fbecfd2]. BMC Pediatrics (2025). Medium credibility.
+### Clinical outcomes in neonates with congenital heart disease with concurrent congenital neurological anomalies [^111QLuYM]. BMC Pediatrics (2025). Medium credibility.
 
 Materials and methods
 
@@ -1149,7 +1149,7 @@ The software tools Stata version 15 and RStudio were used for data analysis and 
 
 ---
 
-### Müllerian agenesis in a patient with rubinstein-taybi syndrome: a case series and review of the overlapping developmental biologic pathways [^1b1e450f]. Journal of Pediatric and Adolescent Gynecology (2024). Medium credibility.
+### Müllerian agenesis in a patient with rubinstein-taybi syndrome: a case series and review of the overlapping developmental biologic pathways [^111hCqK4]. Journal of Pediatric and Adolescent Gynecology (2024). Medium credibility.
 
 Background
 
@@ -1165,7 +1165,7 @@ Gynecologic evaluation should be a part of medical care for females with RSTS, p
 
 ---
 
-### Routinely collected health data to study inherited heart disease: a systematic review (2000–2016) [^cca8c884]. Open Heart (2017). Low credibility.
+### Routinely collected health data to study inherited heart disease: a systematic review (2000–2016) [^116ERAeo]. Open Heart (2017). Low credibility.
 
 Definition of inherited heart disease using routinely collected health data
 

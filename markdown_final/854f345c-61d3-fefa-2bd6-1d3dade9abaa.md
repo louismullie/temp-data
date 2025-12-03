@@ -15,29 +15,29 @@ How does fluoxetine compare to sertraline in terms of anxiety relief?
 
 > Let's see… What do we have here? The user is asking how fluoxetine compares to sertraline in terms of anxiety relief. Let's break this down step-by-step. First, I need to think about the clinical contexts where anxiety relief is relevant, such as generalized anxiety disorder, anxiety symptoms in depression, and anxiety disorders like social anxiety and panic. Then, I should verify the highest-quality comparative evidence, including head-to-head trials and network meta-analyses. Next, I will examine symptom-level and mechanistic data that might differentiate sertraline from fluoxetine. After that, I need to check tolerability and pharmacokinetic factors that influence real-world anxiety outcomes. Finally, I will synthesize practical recommendations and note exceptions where fluoxetine might still be reasonable, anchoring on guidelines and pivotal trials.
 
-> Let me first confirm the clinical contexts. Anxiety relief can mean treating primary generalized anxiety disorder, reducing anxiety symptoms that co-occur with depression, or managing anxiety disorders such as social anxiety and panic disorder, so I need to ensure the evidence base spans these scenarios before drawing conclusions [^de1503c1] [^4d283bd7] [^6f4e2a94].
+> Let me first confirm the clinical contexts. Anxiety relief can mean treating primary generalized anxiety disorder, reducing anxiety symptoms that co-occur with depression, or managing anxiety disorders such as social anxiety and panic disorder, so I need to ensure the evidence base spans these scenarios before drawing conclusions [^116gFJxg] [^112yPZWv] [^113r1t5q].
 
-> Next, I should review the highest-quality comparative evidence. Wait, let me verify the direct head-to-head data. The JAMA primary care trial found no significant differences in effectiveness among sertraline, fluoxetine, and paroxetine across 9 months, including anxiety-related outcomes, which argues against a clinically meaningful efficacy gap between sertraline and fluoxetine in routine care settings [^2604b77b]. But hold on, let's not jump to conclusions; meta-analytic syntheses suggest sertraline may have a slight efficacy edge over fluoxetine in depression trials, with Cochrane analyses showing sertraline outperforming fluoxetine on dichotomous response outcomes, although the absolute differences are modest and not specific to anxiety endpoints [^9d190c63] [^a67bf52a].
+> Next, I should review the highest-quality comparative evidence. Wait, let me verify the direct head-to-head data. The JAMA primary care trial found no significant differences in effectiveness among sertraline, fluoxetine, and paroxetine across 9 months, including anxiety-related outcomes, which argues against a clinically meaningful efficacy gap between sertraline and fluoxetine in routine care settings [^111yN7bg]. But hold on, let's not jump to conclusions; meta-analytic syntheses suggest sertraline may have a slight efficacy edge over fluoxetine in depression trials, with Cochrane analyses showing sertraline outperforming fluoxetine on dichotomous response outcomes, although the absolute differences are modest and not specific to anxiety endpoints [^1151uUE6] [^115Fpafs].
 
-> I will now examine disorder-specific anxiety evidence. For generalized anxiety disorder, a high-quality network meta-analysis indicates that several agents, including duloxetine, pregabalin, venlafaxine, and escitalopram, outperform placebo, whereas sertraline and fluoxetine both show efficacy but with smaller, less precisely estimated effects, and sertraline is not clearly superior to fluoxetine in this context, so I should be cautious not to overstate sertraline's advantage here [^de1503c1]. For panic disorder, sertraline and escitalopram rank among the best-balanced SSRIs for remission and tolerability, while fluoxetine is also effective but does not consistently outperform sertraline in comparative rankings, reinforcing a lack of a decisive advantage for either drug across anxiety indications [^6f4e2a94].
+> I will now examine disorder-specific anxiety evidence. For generalized anxiety disorder, a high-quality network meta-analysis indicates that several agents, including duloxetine, pregabalin, venlafaxine, and escitalopram, outperform placebo, whereas sertraline and fluoxetine both show efficacy but with smaller, less precisely estimated effects, and sertraline is not clearly superior to fluoxetine in this context, so I should be cautious not to overstate sertraline's advantage here [^116gFJxg]. For panic disorder, sertraline and escitalopram rank among the best-balanced SSRIs for remission and tolerability, while fluoxetine is also effective but does not consistently outperform sertraline in comparative rankings, reinforcing a lack of a decisive advantage for either drug across anxiety indications [^113r1t5q].
 
-> Let me consider symptom-level and mechanistic data that might explain perceived differences. The PANDA randomized trial and its secondary analyses show that sertraline's earliest measurable benefit is on anxiety symptoms such as worry and restlessness, with effects emerging by 2 to 6 weeks, whereas depressive symptom gains accrue more slowly; this pattern could make sertraline feel more anxiolytic early in treatment even if overall efficacy is modest [^4d283bd7] [^50564ad9]. Hmm, wait a minute, I initially thought this meant sertraline is categorically more anxiolytic than fluoxetine, but I should double-check; symptom-network findings are hypothesis-generating and do not establish superiority over fluoxetine in head-to-head anxiety outcomes, so I should not over-interpret this as definitive comparative efficacy [^50564ad9].
+> Let me consider symptom-level and mechanistic data that might explain perceived differences. The PANDA randomized trial and its secondary analyses show that sertraline's earliest measurable benefit is on anxiety symptoms such as worry and restlessness, with effects emerging by 2 to 6 weeks, whereas depressive symptom gains accrue more slowly; this pattern could make sertraline feel more anxiolytic early in treatment even if overall efficacy is modest [^112yPZWv] [^11346zf2]. Hmm, wait a minute, I initially thought this meant sertraline is categorically more anxiolytic than fluoxetine, but I should double-check; symptom-network findings are hypothesis-generating and do not establish superiority over fluoxetine in head-to-head anxiety outcomes, so I should not over-interpret this as definitive comparative efficacy [^11346zf2].
 
-> I need to check tolerability and pharmacokinetic factors that influence anxiety outcomes. Sertraline tends to have fewer clinically significant CYP450 interactions than fluoxetine, which can matter in medically complex patients or those on multiple medications, and this may indirectly support smoother anxiety management by reducing adverse effects or drug–drug issues that can worsen anxiety symptoms [^158e66af]. Hold on, I should verify discontinuation risk; fluoxetine's long half-life and active metabolite reduce withdrawal risk, which can be advantageous when tapering, but conversely, its long half-life can prolong adverse effects if they occur, so the net clinical impact depends on the patient's risk profile and prior SSRI experience [^be9118f0].
+> I need to check tolerability and pharmacokinetic factors that influence anxiety outcomes. Sertraline tends to have fewer clinically significant CYP450 interactions than fluoxetine, which can matter in medically complex patients or those on multiple medications, and this may indirectly support smoother anxiety management by reducing adverse effects or drug–drug issues that can worsen anxiety symptoms [^111Yxa7g]. Hold on, I should verify discontinuation risk; fluoxetine's long half-life and active metabolite reduce withdrawal risk, which can be advantageous when tapering, but conversely, its long half-life can prolong adverse effects if they occur, so the net clinical impact depends on the patient's risk profile and prior SSRI experience [^115sXPGb].
 
-> Next, I should review guideline positions to ensure my synthesis aligns with best practice. For perinatal anxiety, ACOG recommends sertraline or escitalopram as reasonable first-line choices due to favorable reproductive safety profiles, whereas fluoxetine is not first-line in pregnancy because of neonatal adaptation concerns, though prior effective use outside pregnancy can justify its continuation; this is a context where sertraline is preferred for anxiety relief in pregnancy and postpartum [^4f4e063c] [^fe4112d4]. For pediatric anxiety, AACAP recommends SSRIs as first-line, with fluoxetine and sertraline both reasonable, and there is no clear hierarchy favoring one over the other for anxiety relief in youth, so either can be selected based on clinical factors and tolerability [^135f7ad0].
+> Next, I should review guideline positions to ensure my synthesis aligns with best practice. For perinatal anxiety, ACOG recommends sertraline or escitalopram as reasonable first-line choices due to favorable reproductive safety profiles, whereas fluoxetine is not first-line in pregnancy because of neonatal adaptation concerns, though prior effective use outside pregnancy can justify its continuation; this is a context where sertraline is preferred for anxiety relief in pregnancy and postpartum [^1132aEJP] [^117VwiKD]. For pediatric anxiety, AACAP recommends SSRIs as first-line, with fluoxetine and sertraline both reasonable, and there is no clear hierarchy favoring one over the other for anxiety relief in youth, so either can be selected based on clinical factors and tolerability [^111ViqT5].
 
-> Let me synthesize the comparative picture. Overall, there is no robust evidence that sertraline is categorically superior to fluoxetine for anxiety relief across disorders, and high-quality pragmatic data show similar effectiveness among SSRIs in primary care, including anxiety-related functional outcomes; where differences emerge, they are modest and context-dependent, with some meta-analyses suggesting a slight efficacy advantage for sertraline over fluoxetine in depression trials, and PANDA suggesting earlier anxiety symptom gains with sertraline, but these findings do not establish a consistent head-to-head advantage for anxiety-specific endpoints [^2604b77b] [^9d190c63] [^4d283bd7]. I should confirm that both remain first-line options for anxiety symptoms in depression and for primary anxiety disorders, which is supported by contemporary guidelines and network meta-analyses [^de1503c1] [^613eb123].
+> Let me synthesize the comparative picture. Overall, there is no robust evidence that sertraline is categorically superior to fluoxetine for anxiety relief across disorders, and high-quality pragmatic data show similar effectiveness among SSRIs in primary care, including anxiety-related functional outcomes; where differences emerge, they are modest and context-dependent, with some meta-analyses suggesting a slight efficacy advantage for sertraline over fluoxetine in depression trials, and PANDA suggesting earlier anxiety symptom gains with sertraline, but these findings do not establish a consistent head-to-head advantage for anxiety-specific endpoints [^111yN7bg] [^1151uUE6] [^112yPZWv]. I should confirm that both remain first-line options for anxiety symptoms in depression and for primary anxiety disorders, which is supported by contemporary guidelines and network meta-analyses [^116gFJxg] [^113VArg2].
 
-> Now, I will translate this into practical selection guidance. If anxiety symptoms are prominent early and rapid anxiolysis is prioritized, sertraline may be a reasonable first choice given the earlier anxiety signal seen in PANDA and its favorable interaction profile, whereas if a patient has previously responded well to fluoxetine or requires a medication with low withdrawal liability, fluoxetine remains appropriate; in pregnancy or when minimizing neonatal exposure is critical, sertraline is preferred over fluoxetine for anxiety treatment [^4d283bd7] [^4f4e063c]. Hold on, I should verify dosing pragmatics; both agents typically start low and titrate to mitigate activation, and in anxious patients, slower titration with consideration of short-term adjuncts can improve adherence while the SSRI effect accrues, which applies regardless of which SSRI is chosen [^6c20743f] [^158e66af].
+> Now, I will translate this into practical selection guidance. If anxiety symptoms are prominent early and rapid anxiolysis is prioritized, sertraline may be a reasonable first choice given the earlier anxiety signal seen in PANDA and its favorable interaction profile, whereas if a patient has previously responded well to fluoxetine or requires a medication with low withdrawal liability, fluoxetine remains appropriate; in pregnancy or when minimizing neonatal exposure is critical, sertraline is preferred over fluoxetine for anxiety treatment [^112yPZWv] [^1132aEJP]. Hold on, I should verify dosing pragmatics; both agents typically start low and titrate to mitigate activation, and in anxious patients, slower titration with consideration of short-term adjuncts can improve adherence while the SSRI effect accrues, which applies regardless of which SSRI is chosen [^113mJZh8] [^111Yxa7g].
 
-> But wait, what if the patient has specific comorbidities or prior SSRI responses. In patients with prominent gastrointestinal symptoms, sertraline's higher diarrhea risk might be a drawback, whereas fluoxetine's activation could exacerbate anxiety early in treatment; conversely, in those with comorbid pain syndromes, sertraline's earlier anxiety benefit may be clinically meaningful even if the absolute effect sizes are modest, so I should individualize based on comorbidity and prior tolerability [^da2b2327] [^4d283bd7]. I should double-check that both drugs remain acceptable first-line options in major anxiety disorders, which is supported by network meta-analyses and guidelines, reinforcing that neither is clearly superior for anxiety relief across the board [^de1503c1] [^613eb123].
+> But wait, what if the patient has specific comorbidities or prior SSRI responses. In patients with prominent gastrointestinal symptoms, sertraline's higher diarrhea risk might be a drawback, whereas fluoxetine's activation could exacerbate anxiety early in treatment; conversely, in those with comorbid pain syndromes, sertraline's earlier anxiety benefit may be clinically meaningful even if the absolute effect sizes are modest, so I should individualize based on comorbidity and prior tolerability [^116aSnpN] [^112yPZWv]. I should double-check that both drugs remain acceptable first-line options in major anxiety disorders, which is supported by network meta-analyses and guidelines, reinforcing that neither is clearly superior for anxiety relief across the board [^116gFJxg] [^113VArg2].
 
-> In conclusion, I need to ensure the bottom line is precise. Sertraline and fluoxetine have broadly similar efficacy for anxiety relief across common clinical contexts, with no consistent head-to-head superiority for either drug; sertraline may offer earlier anxiety symptom improvement and a more favorable interaction profile, while fluoxetine may be preferred for patients with prior good response or when minimizing withdrawal risk is paramount, and in pregnancy sertraline is favored over fluoxetine for anxiety treatment; therefore, the choice should be individualized to symptom profile, comorbidities, prior response, and patient preferences rather than assuming a class-wide advantage for one over the other [^2604b77b] [^4d283bd7] [^4f4e063c] [^de1503c1].
+> In conclusion, I need to ensure the bottom line is precise. Sertraline and fluoxetine have broadly similar efficacy for anxiety relief across common clinical contexts, with no consistent head-to-head superiority for either drug; sertraline may offer earlier anxiety symptom improvement and a more favorable interaction profile, while fluoxetine may be preferred for patients with prior good response or when minimizing withdrawal risk is paramount, and in pregnancy sertraline is favored over fluoxetine for anxiety treatment; therefore, the choice should be individualized to symptom profile, comorbidities, prior response, and patient preferences rather than assuming a class-wide advantage for one over the other [^111yN7bg] [^112yPZWv] [^1132aEJP] [^116gFJxg].
 
 ---
 
-Sertraline and fluoxetine are both effective SSRIs for anxiety relief, but **sertraline may offer faster and greater anxiety improvement** in the first 6 weeks, especially in primary care settings with coexisting depression and anxiety [^4d283bd7]. Fluoxetine remains effective, particularly for long-term maintenance and in pediatric anxiety, but **sertraline is often preferred** for its earlier anxiolytic effect and favorable tolerability profile [^135f7ad0] [^4d283bd7]. Head-to-head trials show no consistent superiority of either drug, so **individual response and side effects should guide selection** [^2604b77b].
+Sertraline and fluoxetine are both effective SSRIs for anxiety relief, but **sertraline may offer faster and greater anxiety improvement** in the first 6 weeks, especially in primary care settings with coexisting depression and anxiety [^112yPZWv]. Fluoxetine remains effective, particularly for long-term maintenance and in pediatric anxiety, but **sertraline is often preferred** for its earlier anxiolytic effect and favorable tolerability profile [^111ViqT5] [^112yPZWv]. Head-to-head trials show no consistent superiority of either drug, so **individual response and side effects should guide selection** [^111yN7bg].
 
 ---
 
@@ -45,54 +45,54 @@ Sertraline and fluoxetine are both effective SSRIs for anxiety relief, but **ser
 
 ### Generalized anxiety disorder (GAD)
 
-- **Sertraline**: Effective for GAD, with benefits emerging within 2–6 weeks; network meta-analyses rank sertraline among the most effective and tolerable SSRIs for GAD [^de1503c1] [^5dffed8f].
-- **Fluoxetine**: Also effective for GAD, but with a slower onset; some analyses suggest slightly lower efficacy than sertraline in acute treatment [^de1503c1] [^5dffed8f].
+- **Sertraline**: Effective for GAD, with benefits emerging within 2–6 weeks; network meta-analyses rank sertraline among the most effective and tolerable SSRIs for GAD [^116gFJxg] [^113QMp62].
+- **Fluoxetine**: Also effective for GAD, but with a slower onset; some analyses suggest slightly lower efficacy than sertraline in acute treatment [^116gFJxg] [^113QMp62].
 
 ---
 
 ### Anxiety symptoms in major depressive disorder (MDD)
 
-- **Sertraline**: In the PANDA trial, sertraline improved anxiety symptoms by 6 weeks even when depressive symptoms were unchanged, indicating earlier anxiolytic benefit [^4d283bd7].
+- **Sertraline**: In the PANDA trial, sertraline improved anxiety symptoms by 6 weeks even when depressive symptoms were unchanged, indicating earlier anxiolytic benefit [^112yPZWv].
 - **Fluoxetine**: Effective for anxiety in MDD, but anxiety improvement may lag behind sertraline in the first 6 weeks [^notfound].
 
 ---
 
 ### Panic disorder
 
-Both sertraline and fluoxetine are **effective for panic disorder**, with sertraline often favored for its balance of efficacy and tolerability [^6f4e2a94].
+Both sertraline and fluoxetine are **effective for panic disorder**, with sertraline often favored for its balance of efficacy and tolerability [^113r1t5q].
 
 ---
 
 ### Social anxiety disorder
 
-Both sertraline and fluoxetine are effective for social anxiety, with sertraline having **FDA approval** for this indication [^de112ab7] [^9e8fd053].
+Both sertraline and fluoxetine are effective for social anxiety, with sertraline having **FDA approval** for this indication [^116gE1zv] [^11545MF8].
 
 ---
 
 ## Onset of action and time to anxiety relief
 
-Sertraline shows **earlier anxiolytic effects**, with clinically meaningful anxiety improvement by 2–6 weeks, whereas fluoxetine may take 6–8 weeks for full anxiolytic benefit [^4d283bd7] [^158e66af].
+Sertraline shows **earlier anxiolytic effects**, with clinically meaningful anxiety improvement by 2–6 weeks, whereas fluoxetine may take 6–8 weeks for full anxiolytic benefit [^112yPZWv] [^111Yxa7g].
 
 ---
 
 ## Tolerability and side effects
 
 - **Sertraline**: Generally well tolerated; common side effects include nausea, diarrhea, and insomnia; lower risk of activation/anxiety early in treatment.
-- **Fluoxetine**: Also well tolerated; common side effects include nausea, insomnia, and activation/anxiety early in treatment, which may transiently worsen anxiety [^158e66af].
+- **Fluoxetine**: Also well tolerated; common side effects include nausea, insomnia, and activation/anxiety early in treatment, which may transiently worsen anxiety [^111Yxa7g].
 
 ---
 
 ## Clinical guidelines and expert recommendations
 
-Guidelines generally recommend either sertraline or fluoxetine as **first-line SSRIs** for anxiety disorders, with sertraline often preferred for its earlier anxiolytic effect and favorable tolerability, especially in primary care settings [^4d283bd7] [^613eb123].
+Guidelines generally recommend either sertraline or fluoxetine as **first-line SSRIs** for anxiety disorders, with sertraline often preferred for its earlier anxiolytic effect and favorable tolerability, especially in primary care settings [^112yPZWv] [^113VArg2].
 
 ---
 
 ## Patient-specific factors influencing choice
 
-- **Comorbidities**: Sertraline may be preferred in patients with coexisting depression and anxiety due to earlier anxiolytic effects [^4d283bd7].
+- **Comorbidities**: Sertraline may be preferred in patients with coexisting depression and anxiety due to earlier anxiolytic effects [^112yPZWv].
 - **Age**: Fluoxetine is often preferred in pediatric populations due to strong evidence base and FDA approval for pediatric anxiety disorders [^notfound].
-- **Drug interactions**: Fluoxetine has more CYP450 interactions, which may influence selection in patients on multiple medications [^158e66af].
+- **Drug interactions**: Fluoxetine has more CYP450 interactions, which may influence selection in patients on multiple medications [^111Yxa7g].
 
 ---
 
@@ -115,13 +115,13 @@ Sertraline and fluoxetine are both effective for anxiety relief, but **sertralin
 
 ## References
 
-### Interactions between fluoxetine, sertraline hydrochloride [^71fb4ca8]. DrugBank (2025). Excellent credibility.
+### Interactions between fluoxetine, sertraline hydrochloride [^113uz1Z1]. DrugBank (2025). Excellent credibility.
 
 The serum concentration of sertraline can be increased when it is combined with fluoxetine.
 
 ---
 
-### Does randomized evidence support sertraline as first-line antidepressant for adults with acute major depression? A systematic review and meta-analysis [^751da99c]. The Journal of Clinical Psychiatry (2008). Low credibility.
+### Does randomized evidence support sertraline as first-line antidepressant for adults with acute major depression? A systematic review and meta-analysis [^113zdWqy]. The Journal of Clinical Psychiatry (2008). Low credibility.
 
 Objective
 
@@ -149,7 +149,7 @@ The results of this review suggest that sertraline may be a candidate as the ini
 
 ---
 
-### Sertraline versus other antidepressive agents for depression [^da2b2327]. The Cochrane Database of Systematic Reviews (2010). Low credibility.
+### Sertraline versus other antidepressive agents for depression [^116aSnpN]. The Cochrane Database of Systematic Reviews (2010). Low credibility.
 
 Background
 
@@ -181,7 +181,7 @@ This systematic review and meta-analysis highlighted a trend in favour of sertra
 
 ---
 
-### Fluoxetine versus other types of pharmacotherapy for depression [^9d190c63]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
+### Fluoxetine versus other types of pharmacotherapy for depression [^1151uUE6]. The Cochrane Database of Systematic Reviews (2005). Low credibility.
 
 Background
 
@@ -213,7 +213,7 @@ There are statistically significant differences in terms of efficacy and tolerab
 
 ---
 
-### Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis [^fbec17dc]. BMJ (2011). Excellent credibility.
+### Efficacy of drug treatments for generalised anxiety disorder: systematic review and meta-analysis [^117SVCCb]. BMJ (2011). Excellent credibility.
 
 Objective
 
@@ -241,7 +241,7 @@ Though the frequentist analysis was inconclusive because of a high level of unce
 
 ---
 
-### Common practical questions-and answers-at the British Association for Psychopharmacology child and adolescent psychopharmacology course [^cae21968]. Journal of Psychopharmacology (2023). Medium credibility.
+### Common practical questions-and answers-at the British Association for Psychopharmacology child and adolescent psychopharmacology course [^116BnShD]. Journal of Psychopharmacology (2023). Medium credibility.
 
 Anxiety and depressive disorders
 
@@ -257,7 +257,7 @@ If the patient truly does have depression, and you have tried all the evidence-b
 
 ---
 
-### Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis [^de1503c1]. Lancet (2019). Excellent credibility.
+### Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis [^116gFJxg]. Lancet (2019). Excellent credibility.
 
 Background
 
@@ -281,7 +281,7 @@ No funding was received for this research.
 
 ---
 
-### Evidence-based somatic treatment of depression in adults [^87c05936]. The Psychiatric Clinics of North America (2012). Low credibility.
+### Evidence-based somatic treatment of depression in adults [^114UFwJ5]. The Psychiatric Clinics of North America (2012). Low credibility.
 
 The efficacy of antidepressants has become a contentious topic over the last decade, and yet a review of the literature shows that they are consistently more effective than placebo. Although the average magnitude of this effect is unclear, many individual patients respond well to a course of antidepressants, and relapse when the medication is discontinued. Choosing the right antidepressant for a given patient remains more art than science, but the studies reviewed here provide some helpful guidance. Table 4 lists the second-generation antidepressants along with potential reasons for choosing one over the other (based on side effects, costs, or possible therapeutic advantages.) Based on these data, the following conclusions can be drawn:
 
@@ -292,7 +292,7 @@ The efficacy of antidepressants has become a contentious topic over the last dec
 
 ---
 
-### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^2dacc6d3]. Thorax (2016). Low credibility.
+### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^112AiUeE]. Thorax (2016). Low credibility.
 
 Pharmacological interventions
 
@@ -302,13 +302,13 @@ When pharmacotherapy is needed, the selective serotonin reuptake inhibitors (SSR
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^7faf44c0]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^114GJJJB]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 AACAP anxiety guideline — combination cognitive-behavioral therapy (CBT) and selective serotonin reuptake inhibitor (SSRI) (recommendation 3) suggests (2C) that combination treatment (CBT and an SSRI) could be offered preferentially over CBT alone or an SSRI alone to patients 6 to 18 years old with social anxiety, generalized anxiety, separation anxiety, or panic disorder. In the AHRQ/Mayo review, two RCTs compared combination treatment to either treatment alone and these 2 studies included 550 patients (52.6% male; mean age 12.2 years, range 7–17 years). Compared to CBT alone and to sertraline alone, combination CBT plus sertraline improved primary anxiety (clinician report), global function, response to treatment, and remission of disorder (all moderate SOE), whereas combination CBT plus fluoxetine did not separate from CBT alone for global function, secondary measures, or response to treatment (all low SOE) and may have reduced remission of disorder compared to CBT alone (low SOE). For adverse effects (AEs), combination CBT plus sertraline did not differ from CBT alone with respect to short-term AEs including suicidal ideation or behavior (all low SOE) but increased AEs related to behavior activation (moderate SOE) and increased any AEs and AEs related to sleep (both low SOE); compared to sertraline alone, combination CBT plus sertraline decreased AEs related to behavior activation and reduced AEs due to fatigue/somnolence (both moderate SOE), and insufficient evidence precluded assessment of AEs related to suicidal ideation or behavior. Because there were only two studies with conflicting results, the AHRQ/Mayo review did not find definitive evidence for the superiority of combination treatment over monotherapy, yet expert consensus generally supports the prioritization of combination treatment; in CAMS, youths who received combination treatment had significantly higher rates of remission than monotherapy with SSRI or CBT or placebo at week 12 and week 24, and in clinical practice, combination treatment may be favored if there is a need for acute symptom reduction in a severe, functionally impairing disorder or a partial response to monotherapy. Combination treatment typically involves concurrent administration of psychotherapy and medication, optimally delivered in the same facility to enhance convenience and provider communication, and naturalistic follow-up (CAMELS) failed to demonstrate long-term maintenance of treatment effects by original randomized treatment while initial response — significantly superior in the combination treatment — was a strong predictor of long-term outcome.
 
 ---
 
-### Generalised anxiety disorder [^16d677cf]. BMJ Clinical Evidence (2011). Medium credibility.
+### Generalised anxiety disorder [^111armNe]. BMJ Clinical Evidence (2011). Medium credibility.
 
 Introduction
 
@@ -328,7 +328,7 @@ In this systematic review, we present information relating to the effectiveness 
 
 ---
 
-### No difference among new antidepressants… [^d0d30446]. AAFP (2006). Low credibility.
+### No difference among new antidepressants… [^116LbJZ3]. AAFP (2006). Low credibility.
 
 Clinical Question: Which of the newer anti-depressants is safer and more effective. Setting: Various Study Design: Meta-analysis. Twenty of these trials found no difference between the two antidepressants they evaluated. Two trials found a difference in at least one outcome: escitalopram produced improved depression scores versus citalopram in one study but not another, and paroxetine was found to be more effective than fluoxetine in one of eight studies comparing the two drugs. In the meta-analysis, combining the results of six studies found no difference between fluoxetine and paroxetine. In five studies, sertraline was slightly more effective than fluoxetine.
 
@@ -338,7 +338,7 @@ Sexual side effects are lower with bupropion, and nausea seems to occur more oft
 
 ---
 
-### Similar effectiveness of paroxetine, fluoxetine, and sertraline in primary care: a randomized trial [^2604b77b]. JAMA (2001). Excellent credibility.
+### Similar effectiveness of paroxetine, fluoxetine, and sertraline in primary care: a randomized trial [^111yN7bg]. JAMA (2001). Excellent credibility.
 
 Context
 
@@ -378,13 +378,13 @@ The SSRI antidepressants paroxetine, fluoxetine, and sertraline were similar in 
 
 ---
 
-### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^50564ad9]. Nature: Mental Health (2025). High credibility.
+### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^11346zf2]. Nature: Mental Health (2025). High credibility.
 
 Depression consists of heterogeneous symptoms that can occur in hundreds of possible combinations. However, intervention studies commonly operationalize depression as a homogeneous condition. Here we adopt a symptom-level approach to test the effects of the selective serotonin reuptake inhibitor sertraline on depression and anxiety symptoms and to test their associations. Using data from the PANDA randomized controlled trial, we use network models to estimate the effects of sertraline at different time points (contemporaneous networks at 2, 6 and 12 weeks) and across time (temporally lagged networks). Results show that sertraline has beneficial effects on core depression and anxiety symptoms as early as after 2 weeks of treatment, counteracted by detrimental effects on somatic symptoms of depression. This intricate pattern of treatment effects is typically masked when measuring depression on a single dimension. Focusing on individual symptoms of depression and anxiety may shed light on the nature, effectiveness and timing of antidepressant action.
 
 ---
 
-### Comparative effectiveness of second-generation antidepressants for accompanying anxiety, insomnia, and pain in depressed patients: a systematic review [^bc3a2d4e]. Depression and Anxiety (2012). Low credibility.
+### Comparative effectiveness of second-generation antidepressants for accompanying anxiety, insomnia, and pain in depressed patients: a systematic review [^115p4DMo]. Depression and Anxiety (2012). Low credibility.
 
 Background
 
@@ -404,7 +404,7 @@ Evidence guiding the selection of an SGA based on accompanying symptoms of depre
 
 ---
 
-### Assessment and management of anxiety disorders in children and adolescents [^c86a7d8c]. Archives of Disease in Childhood (2014). Low credibility.
+### Assessment and management of anxiety disorders in children and adolescents [^11688Hxo]. Archives of Disease in Childhood (2014). Low credibility.
 
 Medication
 
@@ -416,7 +416,7 @@ These recent findings suggest that CBT, sertraline and their combination are all
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^4d283bd7]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^112yPZWv]. The Lancet: Psychiatry (2019). High credibility.
 
 Previous studies have used observer-rated scales to assess depression, such as the Hamilton Depression Scale. Unlike our self-reported scales, these measures allow interviewer discretion and increase the possibility of observer bias. Beneficial effects of sertraline on anxiety and self-reported improvement might therefore lead to a so-called halo effect, such that observers rate depressive symptoms as improved. There is evidence that observer rating can bias results of depression and anxiety assessments. The Hamilton Depression Scale also contains questions on the physical and psychological symptoms of generalised anxiety, which we found were affected by sertraline.
 
@@ -430,19 +430,19 @@ In conclusion, our finding that sertraline affects anxiety more quickly than dep
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^be9118f0]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^115sXPGb]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 Children and adolescents with anxiety disorders — SSRI discontinuation and switching highlight that a discontinuation syndrome has been reported after missed doses or acute discontinuation of shorter-acting SSRIs, notably paroxetine but also (to a lesser extent) fluvoxamine and sertraline; accordingly, these medications warrant close adherence to the prescribed regimen and a slow discontinuation taper. In contrast, fluoxetine is unlikely to be associated with discontinuation syndrome and has not been associated with withdrawal symptoms when doses are missed. For switching, the most conservative approach would entail tapering and discontinuing the first SSRI before adding the second, with a washout interval if the first SSRI is fluoxetine; cross-tapering may avoid these outcomes, but should be closely monitored.
 
 ---
 
-### Anxiety and depression in adult cancer patients: ESMO clinical practice guideline [^f7a6b675]. ESMO Open (2023). High credibility.
+### Anxiety and depression in adult cancer patients: ESMO clinical practice guideline [^117L9wS4]. ESMO Open (2023). High credibility.
 
 Regarding medical management for anxiety and depression in patients with cancer, more specifically with respect to pharmacotherapy, ESMO 2023 guidelines recommend to recognize that SSRIs have few significant drug-drug interactions, with the notable exception of tamoxifen metabolism, which is least affected by escitalopram, sertraline, and venlafaxine. Avoid offering paroxetine in patients taking tamoxifen because of negative clinical outcomes.
 
 ---
 
-### Selective serotonin reuptake inhibitors (SSRIs) for stroke recovery [^26b8722e]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Selective serotonin reuptake inhibitors (SSRIs) for stroke recovery [^111zQV1P]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -474,13 +474,13 @@ We found no reliable evidence that SSRIs should be used routinely to promote rec
 
 ---
 
-### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^4f4e063c]. Obstetrics and Gynecology (2023). High credibility.
+### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^1132aEJP]. Obstetrics and Gynecology (2023). High credibility.
 
 Regarding specific circumstances for generalized anxiety disorder, more specifically with respect to pregnant patients, ACOG 2023 guidelines recommend to offer SSRIs as first-line psychopharmacotherapy for perinatal anxiety. Consider offering SNRIs as reasonable alternatives. Individualize pharmacotherapy based on prior response to treatment if applicable, and if there is no pharmacotherapy history, offer sertraline or escitalopram as reasonable first-line medications.
 
 ---
 
-### Paroxetine versus other anti-depressive agents for depression [^3561e5b9]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Paroxetine versus other anti-depressive agents for depression [^112N9E8Y]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -512,19 +512,19 @@ Some possibly clinically meaningful differences between paroxetine and other ADs
 
 ---
 
-### Incidence of adverse events and comparative tolerability of selective serotonin reuptake inhibitors, and serotonin and norepinephrine reuptake inhibitors for the treatment of anxiety, obsessive-compulsive, and stress disorders: a systematic review and network meta-analysis [^c8f5e2fd]. Psychological Medicine (2023). Medium credibility.
+### Incidence of adverse events and comparative tolerability of selective serotonin reuptake inhibitors, and serotonin and norepinephrine reuptake inhibitors for the treatment of anxiety, obsessive-compulsive, and stress disorders: a systematic review and network meta-analysis [^1168w7cx]. Psychological Medicine (2023). Medium credibility.
 
 Selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) show similar efficacy as treatments for anxiety, obsessive-compulsive, and stress-related disorders. Hence, comparisons of adverse event rates across medications are an essential component of clinical decision-making. We aimed to compare patterns of adverse events associated with SSRIs and SNRIs in the treatment of children and adults diagnosed with these disorders through a network meta-analysis. We searched MEDLINE, PsycINFO, Embase, Cochrane, websites of regulatory agencies, and international registers from inception to 09 September 2022, for randomized controlled trials assessing the efficacy of SSRIs or SNRIs. We analyzed the proportion of participants experiencing at least one adverse event and incidence rates of 17 specific adverse events. We estimated incidence rates and odds ratios through network meta-analysis with random effects and three-level models. We analyzed 799 outcome measures from 80 studies (n = 21 338). Participants in medication groups presented higher rates of adverse events (80.22%, 95% CI 76.13–83.76) when compared to placebo groups (71.21%, 67.00–75.09). Nausea was the most common adverse event (25.71%, CI 23.96–27.54), while weight change was the least common (3.56%, 1.68–7.37). We found higher rates of adverse events of medications over placebo for most medications, except sertraline and fluoxetine. We found significant differences between medications for overall tolerability and for autonomic, gastrointestinal, and sleep-related symptoms. Adverse events are a common reason that patients discontinue SSRIs and SNRIs. Results presented here guide clinical decision-making when clinicians weigh one medication over another. This might improve treatment acceptability and compliance.
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^135f7ad0]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^111ViqT5]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 AACAP anxiety disorders guideline — selective serotonin reuptake inhibitors (SSRIs) in children and adolescents: AACAP recommends (1B) that selective serotonin reuptake inhibitors (SSRIs) be offered to patients 6 to 18 years old with social anxiety, generalized anxiety, separation anxiety, or panic disorder. In the AHRQ/Mayo review, 13 RCTs compared SSRIs to pill placebo; overall, 1,708 patients were included (54.1% male; mean age 11.6 years; range: 6–18 years). Compared to pill placebo, SSRIs as a class improved primary anxiety symptoms (parent and clinician report), response to treatment, and remission of disorder (all moderate SOE), as well as global function (high SOE), but did not separate from pill placebo for primary anxiety symptoms (child report), secondary measures, or social function (all low SOE). For harms, SSRIs as a class did not separate from pill placebo with respect to short-term AEs (all moderate to low SOE); insufficient data precluded assessment of AEs related to suicidal ideation or behavior and of AEs related to neurologic or oral (dry mouth) AEs. This recommendation was supported by the findings from three meta-analyses published since the AHRQ/Mayo review, and no meta-analyses or systematic reviews published since the AHRQ/Mayo review refuted this recommendation. There were no differences of opinion, and the CQI Guideline Writing Group voted unanimously in favor of this recommendation. A medication from the SSRI class should be considered among treatments offered to patients 6 to 18 years old with social anxiety, generalized anxiety, separation anxiety, and panic disorders. Medications from the SSRI class currently marketed in the United States are citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline, and vilazodone; in the AHRQ/Mayo review, the SSRIs for which sufficient data were available for comparisons were fluoxetine, fluvoxamine, paroxetine, and sertraline. Although there is substantial empirical support for the effectiveness and safety of the SSRI class of medications for the treatment of anxiety, no SSRI has U.S. Food and Drug Administration (FDA) approval for this indication.
 
 ---
 
-### Are all antidepressants really the same? The case of fluoxetine: a systematic review [^513cae24]. The Journal of Clinical Psychiatry (2006). Low credibility.
+### Are all antidepressants really the same? The case of fluoxetine: a systematic review [^1135SNyR]. The Journal of Clinical Psychiatry (2006). Low credibility.
 
 Objective
 
@@ -548,13 +548,13 @@ This systematic review highlighted that there are differences between fluoxetine
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^835f79f0]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^114MmSwq]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Obsessive-compulsive disorder — choosing a specific pharmacological treatment — clomipramine, fluoxetine, fluvoxamine, paroxetine, and sertraline, which are approved by the U.S. Food and Drug Administration, are recommended; although meta-analyses of placebo-controlled trials suggest greater efficacy for clomipramine than for fluoxetine, fluvoxamine, and sertraline, head-to-head trials comparing clomipramine and selective serotonin reuptake inhibitors do not support this impression; because selective serotonin reuptake inhibitors have a less troublesome side-effect profile than clomipramine, an SSRI is preferred for a first medication trial; although all SSRIs (including citalopram and escitalopram) appear to be equally effective, individual patients may respond well to one medication and not to another; in choosing among SSRIs, the psychiatrist should consider the safety and acceptability of particular side effects, applicable FDA warnings, potential drug interactions, past treatment response, and co-occurring general medical conditions.
 
 ---
 
-### Comparative effectiveness and safety of cognitive behavioral therapy and pharmacotherapy for childhood anxiety disorders: a systematic review and meta-analysis [^99558824]. JAMA Pediatrics (2017). Medium credibility.
+### Comparative effectiveness and safety of cognitive behavioral therapy and pharmacotherapy for childhood anxiety disorders: a systematic review and meta-analysis [^114vKqQo]. JAMA Pediatrics (2017). Medium credibility.
 
 Importance
 
@@ -590,13 +590,13 @@ Evidence supports the effectiveness of CBT and SSRIs for reducing childhood anxi
 
 ---
 
-### Anxiety and depression in adult cancer patients: ESMO clinical practice guideline [^1582e0f5]. ESMO Open (2023). High credibility.
+### Anxiety and depression in adult cancer patients: ESMO clinical practice guideline [^111YtheC]. ESMO Open (2023). High credibility.
 
 Regarding specific circumstances for generalized anxiety disorder, more specifically with respect to patients with cancer (psychotherapy and pharmacotherapy), ESMO 2023 guidelines recommend to recognize that SSRIs have few significant drug-drug interactions, with the notable exception of tamoxifen metabolism, which is least affected by escitalopram, sertraline, and venlafaxine. Avoid offering paroxetine in patients taking tamoxifen because of negative clinical outcomes.
 
 ---
 
-### Selective serotonin reuptake inhibitor treatment for generalized anxiety disorder: a double-blind, prospective comparison between paroxetine and sertraline [^30a6524e]. The Journal of Clinical Psychiatry (2005). Low credibility.
+### Selective serotonin reuptake inhibitor treatment for generalized anxiety disorder: a double-blind, prospective comparison between paroxetine and sertraline [^112F8GjP]. The Journal of Clinical Psychiatry (2005). Low credibility.
 
 Objective
 
@@ -616,13 +616,13 @@ Both paroxetine and sertraline appear similarly effective and well tolerated for
 
 ---
 
-### Children exposed to maltreatment: assessment and the role of psychotropic medication [^cd1675fb]. Pediatrics (2020). High credibility.
+### Children exposed to maltreatment: assessment and the role of psychotropic medication [^116F41Lv]. Pediatrics (2020). High credibility.
 
 Pharmacologic treatment considerations — anxiety in maltreated children advise to initiate treatment with exposure-based cognitive behavioral therapy (CBT); if CBT is not available, consider other evidence-based psychosocial interventions; if moderate to severe anxiety disorder or inadequate response to CBT, initiate treatment with fluoxetine or sertraline alone or with CBT, noting that treatment with CBT has been shown to be more effective than medication alone; if first trial with fluoxetine or sertraline is not effective and/ or there are treatment-limiting adverse effects, switch to the other SSRI not previously used and initiate or continue CBT; pitfalls to avoid include polypharmacy, antipsychotics, and benzodiazepines.
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^e86bacb6]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^116waJ3w]. The Lancet: Psychiatry (2019). High credibility.
 
 There are marked similarities between the behaviour of doctors and patients in primary care within high-income countries, despite divergent health systems. Antidepressant prescribing has increased in all high-income countries over the past two decades. A similar trial in other high-income countries would probably identify participants over a wide range of depression severities and include many people with anxiety symptoms. Our main conclusions about the benefits of sertraline on anxiety rather than depressive symptoms should be generalisable to other high-income countries.
 
@@ -630,7 +630,7 @@ In the PANDA trial, 115 (46%) participants on sertraline thought they were takin
 
 ---
 
-### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^add383a2]. Nature: Mental Health (2025). High credibility.
+### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^115ShuP7]. Nature: Mental Health (2025). High credibility.
 
 Main
 
@@ -646,19 +646,19 @@ Network analysis is a useful framework that allows for the statistical modeling 
 
 ---
 
-### Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders [^fe40e35c]. BMC Psychiatry (2014). Medium credibility.
+### Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders [^117Vwehh]. BMC Psychiatry (2014). Medium credibility.
 
 Regarding medical management for posttraumatic stress disorder, more specifically with respect to antidepressants, AC 2014 guidelines recommend to offer fluoxetine, paroxetine, sertraline, or venlafaxine XR as first-line therapy in patients with PTSD.
 
 ---
 
-### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^6c20743f]. Obstetrics and Gynecology (2023). High credibility.
+### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^113mJZh8]. Obstetrics and Gynecology (2023). High credibility.
 
 First-line pharmacologic options for mild, moderate, or severe depression, anxiety disorder, and PTSD — starting doses and therapeutic ranges: Sertraline starting 25 mg qAM (every morning) with therapeutic range 50–200 mg; fluoxetine starting 10 mg qAM with therapeutic range 20–80 mg; citalopram starting 10 mg qAM with therapeutic range 20–40 mg; escitalopram starting 5 mg qAM with therapeutic range 10–20 mg. Slower titration (e.g., every 10–14 days) is often needed for antidepressant naïve patients or those with anxiety symptoms.
 
 ---
 
-### Escitalopram therapy for major depression and anxiety disorders [^8de5be83]. The Annals of Pharmacotherapy (2007). Low credibility.
+### Escitalopram therapy for major depression and anxiety disorders [^114dNRWi]. The Annals of Pharmacotherapy (2007). Low credibility.
 
 Background
 
@@ -682,7 +682,7 @@ Based on data from randomized controlled trials involving more than 4000 escital
 
 ---
 
-### Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials [^6f4e2a94]. BMJ (2022). Excellent credibility.
+### Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials [^113r1t5q]. BMJ (2022). Excellent credibility.
 
 Discussion
 
@@ -696,13 +696,13 @@ SSRIs as a drug class have been recommended as the primary treatment for panic d
 
 ---
 
-### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^752bfc3b]. Thorax (2016). Medium credibility.
+### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^113ziKsg]. Thorax (2016). Medium credibility.
 
 Cystic fibrosis mental health — pharmacotherapy notes that when psychological interventions are unavailable, declined or not fully effective, antidepressant treatment should be considered; for individuals with CF ages 12–adulthood and severe anxiety, the ICMH recommends offering exposure-based CBT, and when exposure-based CBT is unavailable, declined or not fully effective, antidepressant medications can be considered; and the ICMH recommends that the SSRIs citalopram, escitalopram, sertraline and fluoxetine are appropriate first-line antidepressants for most individuals with CF, ages 12–adulthood, requiring pharmacotherapy, with monitoring for therapeutic effects, adverse effects, drug–drug interactions and medical comorbidities recommended when selecting and adjusting antidepressants.
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^586e090e]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^113G6sTj]. The Lancet: Psychiatry (2019). High credibility.
 
 We found no evidence that severity or duration of depressive (or anxiety) symptoms affected treatment response, although analyses using interaction terms lacked statistical power. We found that duration of symptoms was not associated with outcome once severity of symptoms had been accounted for, suggesting that an interaction with treatment response is unlikely.
 
@@ -716,19 +716,19 @@ Reliance upon clinical uncertainty will exclude those for whom a clinician is ce
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^41b00fe4]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^112gPLHR]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Obsessive-compulsive disorder acute phase — choosing specific pharmacological treatment: Clomipramine, fluoxetine, fluvoxamine, paroxetine, and sertraline, which are approved by the Food and Drug Administration (FDA) for treatment of OCD, are recommended pharmacological agents. Although meta-analyses and head-to-head trials suggest greater efficacy for clomipramine than for fluoxetine, fluvoxamine, and sertraline, the results of head-to-head trials comparing clomipramine and SSRIs directly do not support this impression. Because SSRIs have a less troublesome side-effect profile than clomipramine, an SSRI is preferred for a first medication trial. Although all SSRIs (including citalopram and escitalopram) appear to be equally effective, individual patients may respond well to one and not to another, and reasons for this patient-specific response are unknown; no demographic or clinical variables are sufficiently accurate predictors of treatment outcome to guide selection. In choosing among SSRIs, the psychiatrist should consider safety and acceptability of particular side effects, applicable FDA warnings, potential drug interactions, past treatment response, and co-occurring general medical conditions; for example, paroxetine, the SSRI most associated with weight gain and the most anticholinergic SSRI, would not be the first choice for patients with obesity, diabetes mellitus, constipation, or urinary hesitancy.
 
 ---
 
-### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^52b6db1c]. Thorax (2016). Medium credibility.
+### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^1137dQRq]. Thorax (2016). Medium credibility.
 
 Cystic fibrosis — pharmacologic management of depression and anxiety prioritizes selective serotonin reuptake inhibitors (SSRIs), which are recommended by virtually all published guidelines as first-line medications for both depression and anxiety; among options, citalopram, escitalopram, sertraline and fluoxetine are described as more likely to be available inexpensively, covered by health plans, have regulatory approvals in a variety of age groups and minimise the potential for medication interactions and side effects. Because the pharmacokinetics of medications may be altered in cystic fibrosis (CF), optimal dose adjustment requires close monitoring of therapeutic benefits, adverse effects and medical status; dose reduction may be required in individuals with renal or hepatic impairment, treatment-emergent adverse effects or drug–drug interactions, whereas dose increases may be required for those with impaired absorption or enhanced hepatic metabolism, partial response to treatment or drug–drug interactions, and therapeutic drug monitoring of blood levels, when available, may supplement clinical monitoring. Clinicians should address the medical and psychiatric history and ensure that patients are informed of medications used for CF; when used with lumacaftor, the doses of citalopram, escitalopram and sertraline may need to be increased. Linezolid is not recommended for use with serotonergic antidepressants when alternatives are readily available; when both are clinically necessary, the lowest effective doses should be used, with informed consent and monitoring for serotonin syndrome. QTc prolongation is more likely with citalopram than other SSRIs, and electrocardiogram (EKG) and electrolyte monitoring can be considered when simultaneous use of multiple medications known to prolong the QTc is clinically necessary.
 
 ---
 
-### Fluoxetine versus other types of pharmacotherapy for depression [^a67bf52a]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
+### Fluoxetine versus other types of pharmacotherapy for depression [^115Fpafs]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
 
 Background
 
@@ -760,7 +760,7 @@ The present study detected differences in terms of efficacy and tolerability bet
 
 ---
 
-### Central neuromodulators in irritable bowel syndrome: why, how, and when [^158e66af]. The American Journal of Gastroenterology (2024). Medium credibility.
+### Central neuromodulators in irritable bowel syndrome: why, how, and when [^111Yxa7g]. The American Journal of Gastroenterology (2024). Medium credibility.
 
 Selective serotonin reuptake inhibitors
 
@@ -779,7 +779,7 @@ Other side effects of SSRIs are agitation, sleep disturbance, nausea, diarrhea, 
 
 ---
 
-### Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders [^42bafe08]. BMC Psychiatry (2014). Medium credibility.
+### Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders [^112hvzWB]. BMC Psychiatry (2014). Medium credibility.
 
 Regarding medical management for panic disorder, more specifically with respect to first-line therapy, AC 2014 guidelines recommend to offer the following options as first-line therapy in patients with PD:
 
@@ -801,7 +801,7 @@ Regarding medical management for panic disorder, more specifically with respect 
 
 ---
 
-### Randomized trial of sertraline versus venlafaxine XR in major depression: efficacy and discontinuation symptoms [^21b2a4c3]. The Journal of Clinical Psychiatry (2005). Low credibility.
+### Randomized trial of sertraline versus venlafaxine XR in major depression: efficacy and discontinuation symptoms [^111rxbZL]. The Journal of Clinical Psychiatry (2005). Low credibility.
 
 Background
 
@@ -825,19 +825,19 @@ Sertraline and venlafaxine XR demonstrated comparable effects on QOL and efficac
 
 ---
 
-### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^9a2938fc]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
+### Clinical practice guideline for the assessment and treatment of children and adolescents with anxiety disorders [^114wYwUo]. Journal of the American Academy of Child and Adolescent Psychiatry (2020). High credibility.
 
 Selective serotonin reuptake inhibitors (SSRIs) in children and adolescents — dosing and response patterns — generally permit single daily dosing, though at low doses of sertraline and at any dose of fluvoxamine, youths may require twice-daily dosing; response may show statistically significant improvement within 2 weeks, clinically significant improvement by week 6, and maximal improvement by week 12 or later, supporting slow up-titration. Most adverse effects emerge within the first few weeks of treatment. At present, there is no clear role for pharmacogenomic testing in medication selection.
 
 ---
 
-### When do you prescribe antidepressants to depressed children? [^d4872fce]. Current Psychiatry Reports (2013). Low credibility.
+### When do you prescribe antidepressants to depressed children? [^116S5nPo]. Current Psychiatry Reports (2013). Low credibility.
 
 Major depressive disorder (MDD) in children and adolescents is a public health problem that requires evidence-based management. Our objective is to review available studies, with a PubMed search, and briefly summarize safety and efficacy results of (mostly SSRI) antidepressants in children and adolescents with MDD. Fluoxetine and escitalopram are safe and effective in the treatment of MDD in children and adolescents both in reduction of symptoms, and in remission/response rates. However, response rates are lower than for non-OCD anxiety. Sertraline also had positive results in one study that pooled results from two studies. The number needed to treat (NNT) for MDD is 10, and the number needed to harm (NNH) for suicidality is 112. Methodological limitations in the studies include, mainly, high placebo response rates, associated with multiple study sites, younger patients, and lower MDD severity. Treatment should be maintained close to 1 year after remission, to prevent relapse. FDA-approved fluoxetine and escitalopram are safe and effective in the treatment of pediatric MDD. Sertraline also has some data supporting its efficacy and safety, but is not FDA-approved. The possible modest increase in suicidal ideation in some patients should be known by clinicians, but the risk/benefit ratio is 1 to 11.2 times favorable to using SSRIs in moderate to severe MDD.
 
 ---
 
-### Similar effectiveness of paroxetine, fluoxetine, and sertraline in primary care… [^24874cc5]. JAMA Network (2001). Excellent credibility.
+### Similar effectiveness of paroxetine, fluoxetine, and sertraline in primary care… [^111w9zzx]. JAMA Network (2001). Excellent credibility.
 
 Context Selective serotonin reuptake inhibitors are the most commonly prescribed class of antidepressant, yet it is not known whether one SSRI is more effective than another. Objective To compare the effectiveness of 3 SSRIs in depressed primary care patients. of adverse effects and discontinuation rates. Conclusions The SSRI antidepressants paroxetine, fluoxetine, and sertraline were similar in effectiveness for depressive symptoms as well as multiple domains of health-related quality of life over the entire 9 months of this trial. Selective serotonin reuptake inhibitors have become the most. health-related quality of life domains. In the entire sample, the proportion of patients who met criteria for major depression dropped from 74% at baseline to 32% at 3 months, and 26% at 9 months. Similarly, depressive symptom severity improved considerably over the 9-month trial: the mean MCS score went from. depressive symptoms from 5.
 
@@ -848,19 +848,19 @@ Finally, the degree of improvement in the mean SF-36 MCS score — 15 points at 
 
 ---
 
-### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^fe4112d4]. Obstetrics and Gynecology (2023). High credibility.
+### Treatment and management of mental health conditions during pregnancy and postpartum: ACOG clinical practice guideline no. 5 [^117VwiKD]. Obstetrics and Gynecology (2023). High credibility.
 
 Perinatal depression and anxiety — pharmacotherapy and psychotherapy selection: ACOG recommends that obstetricians initiate psychopharmacotherapy for perinatal depression or anxiety disorders, refer patients to appropriate behavioral health resources when indicated, or both (STRONG RECOMMENDATION, MODERATE-QUALITY EVIDENCE). In general, SSRIs are considered first-line medications for the treatment of perinatal depression or anxiety disorders; for those who have not taken a medication in the past or for those for whom other medications were not effective, sertraline is often preferred, and escitalopram is a reasonable alternative based on efficacy and acceptability data in the general population. Fluoxetine has a long half-life and active metabolites, which have been associated with an increased risk of neonatal adaptation syndrome and accumulation in breastfed infants; however, these data should not preclude the use of fluoxetine if it has been previously effective outside of pregnancy. Unopposed SSRIs or SNRIs can precipitate mania in individuals with bipolar disorder, and before the use of any pharmacologic agent for the treatment of suspected depression, screening for bipolar disorder is recommended. Psychotherapy is first-line treatment for mild-to-moderate depression and anxiety; thus, establishing timely referral pathways is recommended.
 
 ---
 
-### Clinical practice guideline for management of tinnitus: recommendations from the US VA / DOD clinical practice guideline work group [^efcce357]. JAMA Otolaryngology — Head & Neck Surgery (2025). High credibility.
+### Clinical practice guideline for management of tinnitus: recommendations from the US VA / DOD clinical practice guideline work group [^1178Wrtn]. JAMA Otolaryngology — Head & Neck Surgery (2025). High credibility.
 
 VA/DoD Clinical Practice Guideline — antidepressants (paroxetine, sertraline, fluoxetine, trazodone, nortriptyline) for tinnitus management reports evidence from four randomized controlled trials (RCTs) in a network meta-analysis (NMA) that failed to show a significant benefit in reducing tinnitus functional impact. The use of fluoxetine alone or in combination with alprazolam improved the tinnitus functional impact (THI) and VAS scores compared with placebo in patients with chronic subjective tinnitus at 4 weeks, whereas TSI scores decreased in both treatment groups without a significant difference between the single therapy and the combination treatment. The use of trazodone in a small study (n = 43) showed no difference in quality of life (QoL) compared with placebo in individuals at up to 8 weeks of follow-up, and there was also no difference in QoL after administration of nortriptyline versus placebo. The Work Group developed a Weak against recommendation for the use of antidepressants because of the lack of evidence to support the benefit of using these agents for tinnitus management, with the RCT showing a reduction in the Beck Depression Inventory in the treatment groups while the severity of anxiety in the fluoxetine and control group increased significantly (p = 0.003) and Seven individuals left the combination group as a result of side effects; commonly reported side effects of antidepressants include sexual dysfunction, drowsiness, and dry mouth.
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^f6a10021]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^117Je2sJ]. The Lancet: Psychiatry (2019). High credibility.
 
 Added value of this study
 
@@ -876,13 +876,13 @@ In this study, we report on the clinical effectiveness of sertraline in a large 
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^56c6bd03]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^113DegyG]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Obsessive-compulsive disorder head-to-head SSRI comparisons — Double-blind trials directly comparing clomipramine with fluvoxamine, fluoxetine, and paroxetine showed no difference, while a double-blind comparison with sertraline found sertraline more effective; this latter result was influenced by inappropriately high clomipramine starting doses of 150 mg/day that led to a high dropout rate and low maximum doses. Meta-regression indicated several predictors of treatment magnitude, but after controlling for these factors clomipramine still appeared superior in comparisons across placebo-controlled trials. Abramowitz suggested that clomipramine's apparent superiority may have resulted from more obvious side effects diminishing the integrity of the blind.
 
 ---
 
-### Antidepressants versus placebo for generalised anxiety disorder (GAD) [^d6001486]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Antidepressants versus placebo for generalised anxiety disorder (GAD) [^116UGNsP]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Background
 
@@ -914,13 +914,13 @@ This review added to the growing literature on antidepressants in the treatment 
 
 ---
 
-### APA clinical practice guideline for the treatment of posttraumatic stress disorder (PTSD) in adults [^7aae1c9c]. APA (2025). High credibility.
+### APA clinical practice guideline for the treatment of posttraumatic stress disorder (PTSD) in adults [^1148syMM]. APA (2025). High credibility.
 
 Regarding medical management for posttraumatic stress disorder, more specifically with respect to antidepressants, APA 2025 guidelines recommend to consider offering SSRIs (such as fluoxetine, paroxetine, and sertraline) or SNRIs (such as venlafaxine) in patients with PTSD.
 
 ---
 
-### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^80408d42]. Nature: Mental Health (2025). High credibility.
+### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^114H96eD]. Nature: Mental Health (2025). High credibility.
 
 Methods
 
@@ -936,7 +936,7 @@ Analyses were carried out in R, version 4.2.0 (ref.) and are shown in Extended D
 
 ---
 
-### Do bupropion SR and sertraline differ in their effects on anxiety in depressed patients? [^daac450b]. The Journal of Clinical Psychiatry (2001). Low credibility.
+### Do bupropion SR and sertraline differ in their effects on anxiety in depressed patients? [^116bCAX4]. The Journal of Clinical Psychiatry (2001). Low credibility.
 
 Objective
 
@@ -956,31 +956,31 @@ Bupropion SR and sertraline had comparable antidepressant and anxiolytic effects
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^ead1a1de]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^11718Wuj]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Obsessive-compulsive disorder meta-analyses — Randomized, double-blind comparisons of clomipramine and selective serotonin reuptake inhibitors (SSRIs) have yielded mixed effect sizes: one meta-analysis reported clomipramine Cohen's d 1.84 versus fluoxetine 1.34, whereas a later meta-analysis found fluoxetine 3.45 (seven studies) exceeding clomipramine 3.24 (12 studies) with a lower dropout rate for fluoxetine. Using completer data, effect sizes versus placebo were clomipramine 1.31/0.66 (clinician/patient), fluvoxamine 1.28/0.37, sertraline 0.37/1.09, and fluoxetine 0.68/no patient rating done. An analysis of 32 randomized controlled studies published 1980–2001 enrolling 3,500 subjects reported pre-post effect sizes of 1.55 for clomipramine and 1.36 for sertraline (largest among the SSRIs), while noting that only 80% completed the trials. A meta-regression across 25 randomized controlled trials found clomipramine's superiority over fluoxetine, fluvoxamine, and sertraline in placebo-controlled trials persisted after heterogeneity effects were controlled, with no significant differences among SSRIs versus placebo.
 
 ---
 
-### Comparative efficacy and acceptability of first-line drugs for the acute treatment of generalized anxiety disorder in adults: a network meta-analysis [^5dffed8f]. Journal of Psychiatric Research (2019). Medium credibility.
+### Comparative efficacy and acceptability of first-line drugs for the acute treatment of generalized anxiety disorder in adults: a network meta-analysis [^113QMp62]. Journal of Psychiatric Research (2019). Medium credibility.
 
 The guide recommends SSRI and SNRI drugs as first-line treatments for generalized anxiety disorder (GAD). Therefore, we aimed to update the evidence using network meta-analysis by comparing the efficacy and acceptability of first-line drugs. The relevant electronic databases were searched for placebo-controlled and head-to-head trials of 11 drugs used for the acute treatment of adults with GAD from 1980 up to January 1, 2019. Data on demographics, clinical, and treatment information were extracted from each eligible study. The primary outcomes were efficacy (quantified as the change in the total score on the Hamilton Anxiety Scale from baseline) and acceptability (quantified as treatment discontinuations due to any cause). Overall, the data on 41 RCTs were sufficient or appropriate for inclusion. In terms of efficacy, all of the drugs except fluoxetine and vortioxetine were more effective than placebo, with the weighted mean difference of the Hamilton Anxiety Scale score ranging between -3.2 (95% credible interval [CrI] = -4.2 to -2.2) for escitalopram and -1.8 (95% CrI = -3.1 to -0.55) for vilazodone. For acceptability, only vilazodone (OR = 1.7, 95% CrI = 1.1 to 2.7) were worse than placebo, others did not show significant differences from placebo. In head-to-head comparisons, vortioxetine showed better acceptability and tolerability but worse efficacy and response rate. In conclusion, most drugs are more effective than placebo, and there are few significant differences between the active drugs and placebo on acceptability. Overall, duloxetine and escitalopram showed better efficacy while vortioxetine showed better acceptability.
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^322588d1]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^112HLzKa]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Sertraline for obsessive-compulsive disorder — two placebo-controlled trials demonstrated efficacy, and active-comparator and fixed-dose data clarify dosing effects: "Two double-blind, placebo-controlled trials demonstrated the efficacy of sertraline in treating OCD". In double-blind active-comparator studies, sertraline "appeared comparable in efficacy to fluoxetine", was "superior in efficacy to clomipramine", and, in subjects with co-occurring depression, was "superior to desipramine". In a 12-week, randomized, fixed-dose trial, subjects were assigned to sertraline 50 mg/day (n = 80), 100 mg/day (n = 81), 200 mg/day (n = 80), or placebo (n = 84); sertraline at 50 mg/day and 200 mg/day was significantly superior to placebo for change in Y-BOCS, NIMH-OC, CGI-S, and CGI-I, but at 100 mg/day superiority was limited to NIMH-OC, probably because of a high dropout rate of 33%. At endpoint, CGI-I responder rates were 39% for sertraline and 30% for placebo, and in an open-label trial, responders after 1 year of sertraline experienced further small but noticeable decreases in symptoms when extended to 2 years.
 
 ---
 
-### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^a6e64f6e]. Journal of Psychopharmacology (2014). Medium credibility.
+### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^115GSJay]. Journal of Psychopharmacology (2014). Medium credibility.
 
 Regarding medical management for generalized anxiety disorder, more specifically with respect to antidepressants, BAP 2014 guidelines recommend to consider offering SNRIs as an alternative initial treatment if SSRIs are unsuitable.
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^1bd9bf3b]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^111iHofQ]. The Lancet: Psychiatry (2019). High credibility.
 
 Background
 
@@ -1004,13 +1004,13 @@ National Institute for Health Research.
 
 ---
 
-### Mental health issues and psychological factors in athletes: detection, management, effect on performance, and prevention: American Medical Society for Sports Medicine position statement [^225c7fbc]. Clinical Journal of Sport Medicine (2020). High credibility.
+### Mental health issues and psychological factors in athletes: detection, management, effect on performance, and prevention: American Medical Society for Sports Medicine position statement [^111swecB]. Clinical Journal of Sport Medicine (2020). High credibility.
 
 Depression in athletes — management and treatment considerations — emphasizes early recognition and team-based care, stating that health care providers should recognize that a concern about "performance", whether reported by an athlete or a coach, might be a symptom of depression or anxiety, and that unrecognized or undertreated depression can delay return to play. For the athlete with depression, there should be a multidisciplinary team approach; the team may include an MH care provider, a team physician, an AT, and family and coaching staff. When considering medication, prescribers should be aware of medications that may have a potential negative impact on performance and should also be familiar of side effects that may place an athlete at increased risk, including weight gain, sedation, and adverse cardiac effects; the health care team should also be aware of performance-enhancing effects, banned classes, and documentation needs, and a conservative approach to prescribing medication for depression is preferable. In an athlete without comorbid anxiety, bupropion can be considered; fluoxetine may be helpful if there is a comorbid ED, and there is some research that supports that fluoxetine does not have a negative impact on performance; other selective serotonin reuptake inhibitors may be reasonable options, and if there is an anxiety comorbidity clinicians could also consider SSRIs such as citalopram, sertraline, or fluoxetine. Nonpharmacological treatment can play a critical role; cognitive behavioral therapy, acceptance-based therapy, and mindfulness have all been used, none have been shown to be more effective than others in athletes, and the nonpharmacological approach should be tailored to the individual athlete and their clinical situation.
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^c437d2df]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^1161uKmY]. The Lancet: Psychiatry (2019). High credibility.
 
 Summary
 
@@ -1036,19 +1036,19 @@ National Institute for Health Research.
 
 ---
 
-### The efficacy of selective serotonin reuptake inhibitors in adult social anxiety disorder: a meta-analysis of double-blind, placebo-controlled trials [^9e8fd053]. Journal of Psychopharmacology (2007). Low credibility.
+### The efficacy of selective serotonin reuptake inhibitors in adult social anxiety disorder: a meta-analysis of double-blind, placebo-controlled trials [^11545MF8]. Journal of Psychopharmacology (2007). Low credibility.
 
 Social anxiety disorder is associated with impairment in social and occupational functioning, significant personal distress and a possible economic burden, resulting in a reduction in quality of life. To understand better the efficacy of selective serotonin reuptake inhibitors in social anxiety disorder, randomized, double-blind, placebo-controlled trials were evaluated. Pubmed and PsychINFO electronic databases were searched for social anxiety disorder, social phobia, selective serotonin reuptake inhibitors, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine and sertraline. Fifteen published, randomized, double-blind, placebo-controlled trials of selective serotonin reuptake inhibitors in social anxiety disorder were identified. Design, subject number, drug and dose, trial length, rating instruments, and baseline and end point data were extracted and then verified independently by a second investigator. Effect sizes were calculated from mean changes in drug and placebo groups in the Liebowitz Social Anxiety Scale and the Sheehan Disability Scale, as well as from other scales where available. For the binary data of the Clinical Global Impression of Change scores, Theta log-odds ratios (the effect-size measure appropriate for binary data) were calculated from proportion changes. Effect sizes for the Liebowitz Social Anxiety Scale ranged from -0.029 to 1.214. Effect sizes for the Sheehan Disability Scale ranged from 0.203 to 0.480 for work, 0.237 to 0.786 for social function, and 0.118 to 0.445 for family function. The Theta log-odds ratios for Clinical Global Impression of Change scores ranged from 0.644 to 3.267. Consistent with previous studies, selective serotonin reuptake inhibitors appear more effective than placebo for social anxiety disorder, with improvement extending into social and occupational function.
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^959dffec]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^114ppE59]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Clomipramine as an augmentation agent — Adding clomipramine to a selective serotonin reuptake inhibitor (SSRI) or vice versa is supported by expert opinion and open-label trials, and in a randomized, open-label, 90-day comparison of adding clomipramine to citalopram after adequate 16-week trials of clomipramine and fluoxetine, nine of nine patients met YBOCS-35% responders versus one of seven with citalopram alone; among patients with an inadequate response to 6 months of clomipramine 150 mg/day, adding sertraline 50 mg/day to clomipramine 150 mg/day yielded a better response and fewer side effects than raising clomipramine to 250 mg/day.
 
 ---
 
-### Placebo response in trials with patients with anxiety, obsessive-compulsive and stress disorders across the lifespan: a three-level meta-analysis [^d680f0b4]. BMJ Mental Health (2023). High credibility.
+### Placebo response in trials with patients with anxiety, obsessive-compulsive and stress disorders across the lifespan: a three-level meta-analysis [^116V1fGP]. BMJ Mental Health (2023). High credibility.
 
 Study selection and analysis
 
@@ -1062,13 +1062,13 @@ We searched MEDLINE, PsycINFO, Embase and Cochrane using keywords related to stu
 
 ---
 
-### Establishing non-inferiority in treatment trials in psychiatry: guidelines from an expert consensus meeting [^2a42ba75]. Journal of Psychopharmacology (2008). Low credibility.
+### Establishing non-inferiority in treatment trials in psychiatry: guidelines from an expert consensus meeting [^1125etov]. Journal of Psychopharmacology (2008). Low credibility.
 
 Comparing the efficacy of different treatments in psychiatry is difficult for many reasons, even when they are investigated in "head-to-head" studies. A consensus meeting was, therefore, held to produce best practice guidelines for such studies. This article presents the conclusions of this consensus and illustrates it using published data in the field of antidepressant treatment of generalized anxiety disorder.
 
 ---
 
-### Agomelatine versus other antidepressive agents for major depression [^7f18e2e4]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
+### Agomelatine versus other antidepressive agents for major depression [^114FRncb]. The Cochrane Database of Systematic Reviews (2013). Low credibility.
 
 Background
 
@@ -1100,7 +1100,7 @@ Agomelatine did not seem to provide a significant advantage in efficacy over oth
 
 ---
 
-### Obsessive-compulsive disorder has a reduced placebo (and antidepressant) response compared to other anxiety disorders: a meta-analysis [^049ca74f]. Journal of Affective Disorders (2017). Low credibility.
+### Obsessive-compulsive disorder has a reduced placebo (and antidepressant) response compared to other anxiety disorders: a meta-analysis [^1117qZz6]. Journal of Affective Disorders (2017). Low credibility.
 
 Background
 
@@ -1120,7 +1120,7 @@ Overall pre-post change scores were smaller for OCD compared to other anxiety di
 
 ---
 
-### Combining CBT and sertraline does not enhance outcomes for anxious youth: a double-blind randomised controlled trial [^e89bd588]. Psychological Medicine (2023). Medium credibility.
+### Combining CBT and sertraline does not enhance outcomes for anxious youth: a double-blind randomised controlled trial [^116wrUGo]. Psychological Medicine (2023). Medium credibility.
 
 In a large multi-site study, Walkup and colleagues were the first to evaluate the efficacy of combining psychological and pharmacological treatments in an effort to improve outcomes for anxious children (Walkup et al.). The results showed that CBT + SSRI [i.e. sertraline (SERT)] produced superior outcomes to CBT alone, SSRI alone or placebo. Combining treatments produced more than 20–25% greater improvement than either treatment alone. At the follow-up, combined treatment continued to show enhanced outcomes (Piacentini et al.). Although a fifth arm of this study was not feasible, a significant limitation of this study was the absence of a condition that included CBT and a pill placebo. Families allocated to combined therapy received a greater dose of therapy (including visits with both a psychologist and a psychiatrist) and were aware they were receiving the 'best' dose, markedly increasing the expectancy effects associated with this condition. Although expectancy effects are present for all treatments, the impact of expectancy on response to pharmacological treatments is well established (Colloca & Benedetti). Expectancy effects cannot be ruled out as a plausible alternative explanation for the significantly better outcome following combination treatment. Given the dramatic increase in apparent efficacy of the combined treatment, this research needs to be replicated using a more rigorous design. To date, two small randomised controlled trials using children with obsessive compulsive disorder (OCD) and post-traumatic stress disorder (PTSD) have employed a CBT and pill placebo condition to adequately control for expectancy effects (Cohen, Mannarino, Perel, & Staron; Storch et al.). Both studies failed to detect significant differences between conditions involving CBT + active medication and CBT + placebo.
 
@@ -1128,7 +1128,7 @@ The current study aimed to evaluate the efficacy of combination treatment for yo
 
 ---
 
-### Antidepressants for generalized anxiety disorder [^2fd1daa8]. The Cochrane Database of Systematic Reviews (2003). Low credibility.
+### Antidepressants for generalized anxiety disorder [^112DtuXu]. The Cochrane Database of Systematic Reviews (2003). Low credibility.
 
 Background
 
@@ -1160,13 +1160,13 @@ The available evidence suggests that antidepressants are superior to placebo in 
 
 ---
 
-### Effect of concurrent anxiety on response to sertraline and imipramine in patients with chronic depression [^2a2e2af1]. Depression and Anxiety (2001). Low credibility.
+### Effect of concurrent anxiety on response to sertraline and imipramine in patients with chronic depression [^1125XzFr]. Depression and Anxiety (2001). Low credibility.
 
 Anxiety commonly complicates the clinical presentation of depression and has been associated with poorer long-term outcome, but little information is available on the clinical correlates, and comparative effect on treatment response, of subsyndromic or secondary anxiety. Patients diagnosed with chronic major or double depression were randomized to 12 weeks of double-blind treatment with either sertraline or imipramine in a 2:1 ratio. A high anxiety subgroup was operationally defined by a HAM-D anxiety/somatization factor score ≥ 7. The effect of study treatment was measured utilizing the HAM-D, CGI, HAM-D anxiety/somatization factor, as well as a quality of life measure (Q-LES-Q) and a measure of psychosocial functioning (the MOS-SF-36). Two hundred nine patients were treated with imipramine and 426 patients were treated with sertraline. Thirty-six percent of the total met criteria for the high anxiety subgroup. According to Kaplan-Meier probability estimates, patients with significant concurrent anxiety symptoms were more likely to respond by 12 weeks (66.4%) than those without significant anxiety symptoms (54.2%). There was no significant difference in response rates for sertraline vs. imipramine. Both drugs were effective at treating high baseline levels of anxiety, with 60% of sertraline patients and 58% of imipramine patients having 50% or greater reduction from baseline in HAM-D anxiety/somatization factor scores, and only 4.6% and 9.9%, respectively, reporting treatment-emergent worsening in anxiety at study endpoint. Despite the chronicity of depressive illness, acute treatment with both sertraline and imipramine significantly improved psychosocial and quality of life measures. High baseline levels of anxiety did not reduce overall antidepressant response but did somewhat delay the onset of response to sertraline or imipramine in patients with chronic depression.
 
 ---
 
-### Sertraline hydrochloride (Sertraline) [^039cf9ba]. FDA (2017). Low credibility.
+### Sertraline hydrochloride (Sertraline) [^1116MgyX]. FDA (2017). Low credibility.
 
 Subgroup analyses did not suggest differences in treatment outcome on the basis of gender. There was insufficient information to determine the effect of race or age on outcome.
 
@@ -1174,7 +1174,7 @@ In a longer-term study, patients meeting DSM-IV criteria for social anxiety diso
 
 ---
 
-### Benefits from antidepressants: synthesis of 6-week patient-level outcomes from double-blind placebo-controlled randomized trials of fluoxetine and venlafaxine… [^b6e6900c]. JAMA Network (2012). Excellent credibility.
+### Benefits from antidepressants: synthesis of 6-week patient-level outcomes from double-blind placebo-controlled randomized trials of fluoxetine and venlafaxine… [^115gAC1h]. JAMA Network (2012). Excellent credibility.
 
 Data Synthesis Patients in all age and drug groups had significantly greater improvement relative to control patients receiving placebo. The differential rate of improvement was largest for adults receiving fluoxetine. Youths had the largest treated vs control difference in response rates and remission rates, with adult differences generally in the 15. 6% to
 21. 4% range. In adult studies of fluoxetine, the estimated average rates of change over 6 weeks were −10. 12 HAM-D units for fluoxetine and
@@ -1188,13 +1188,13 @@ Data Synthesis Patients in all age and drug groups had significantly greater imp
 
 ---
 
-### Identification, evaluation, and management of children with autism spectrum disorder [^0920feba]. Pediatrics (2020). High credibility.
+### Identification, evaluation, and management of children with autism spectrum disorder [^111EXyLD]. Pediatrics (2020). High credibility.
 
 Autism spectrum disorder (ASD) — anxiety and depression treatment emphasizes behavioral therapy and cautious medication use. Anxiety relief has been reported in trials of citalopram and buspirone, with fluvoxamine revealing some effect in female patients with ASD, but hyperactivation is an adverse effect of SSRIs in children and youth with ASD that may result in stopping the medication. The anxiety disorders most amenable to treatment are generalized anxiety disorder, separation anxiety disorder, and social phobias. If a mood dysregulation disorder is identified, treatment with a mood stabilizer and/or a second-generation antipsychotic is recommended, although an SSRI may be used to treat comorbid anxiety, OCD, or depression; behavioral activation with hypomanic or manic switches has been reported. First-line treatment is a program of cognitive behavioral therapy to reduce symptoms. Few studies have examined the specific effects for these symptoms; clinicians may consider use of these agents; although SSRIs, SNRIs, and/or buspirone may be effective for the treatment of anxiety in children with ASD, they have not been rigorously evaluated for this purpose. Medications to consider include sertraline, fluoxetine, citalopram, or escitalopram for anxiety symptoms and α-2 agonists (eg, guanfacine and clonidine) and β-blockers such as propranolol for anxiety-related physiologic symptoms and behavioral dysregulation, and a short-acting benzodiazepine, such as lorazepam, could be considered for event related anxiety.
 
 ---
 
-### Antidepressants plus benzodiazepines for adults with major depression [^6c332e3c]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Antidepressants plus benzodiazepines for adults with major depression [^113mQrWo]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -1226,7 +1226,7 @@ Combined antidepressant plus benzodiazepine therapy was more effective than anti
 
 ---
 
-### Sertraline hydrochloride (Sertraline) [^de112ab7]. FDA (2017). Low credibility.
+### Sertraline hydrochloride (Sertraline) [^116gE1zv]. FDA (2017). Low credibility.
 
 The effectiveness of Sertraline hydrochloride in long-term use, that is, for more than 3 menstrual cycles, has not been systematically evaluated in controlled trials. Therefore, the physician who elects to use Sertraline hydrochloride for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
@@ -1240,7 +1240,7 @@ The efficacy of Sertraline hydrochloride in maintaining a response in adult pati
 
 ---
 
-### Long-term treatment outcomes of depression with associated anxiety: efficacy of continuation treatment with fluoxetine [^8461cfa8]. The Journal of Clinical Psychiatry (2004). Low credibility.
+### Long-term treatment outcomes of depression with associated anxiety: efficacy of continuation treatment with fluoxetine [^114PGDiP]. The Journal of Clinical Psychiatry (2004). Low credibility.
 
 Background
 
@@ -1260,31 +1260,31 @@ Although high baseline anxiety does not appear to impact the benefit of continua
 
 ---
 
-### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^f04f7a34]. Journal of Psychopharmacology (2014). Medium credibility.
+### Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology [^1179Giyh]. Journal of Psychopharmacology (2014). Medium credibility.
 
 Regarding specific circumstances for generalized anxiety disorder, more specifically with respect to pediatric patients, treatment, BAP 2014 guidelines recommend to offer the same drugs in pediatric and adolescent as for adult patients, with SSRIs as first-line pharmacotherapy (fluoxetine may be the SSRI with the best balance of potential benefit and risk).
 
 ---
 
-### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^613eb123]. Geneva: World Health Organization (2023). High credibility.
+### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^113VArg2]. Geneva: World Health Organization (2023). High credibility.
 
 Regarding medical management for generalized anxiety disorder, more specifically with respect to antidepressants, WHO 2023 guidelines recommend to consider offering SSRIs in adult patients with GAD.
 
 ---
 
-### Achieving remission with venlafaxine and fluoxetine in major depression: its relationship to anxiety symptoms [^d9587e0e]. Depression and Anxiety (2002). Low credibility.
+### Achieving remission with venlafaxine and fluoxetine in major depression: its relationship to anxiety symptoms [^116ZE389]. Depression and Anxiety (2002). Low credibility.
 
 Venlafaxine, a serotonin and norepinephrine reuptake inhibitor (SNRI), produces significantly higher remission rates in depressed patients than do the selective serotonin reuptake inhibitors (SSRIs). In this analysis of pooled data, we explored the relationship between differences in treatment efficacy, early improvement of symptoms, and severity of baseline anxiety in depressed patients treated with either venlafaxine or fluoxetine. A pooled analysis was performed on data from 1,454 outpatients with major depression from five double-blind, randomized studies comparing the 6-week efficacy of venlafaxine (542 patients) with fluoxetine (555 patients). The Hamilton rating scale for depression (HAM-D) total and item scores were analyzed at different treatment times up to 6 weeks. Venlafaxine and fluoxetine both produced statistically significant higher response and remission rates compared with placebo starting from week 2 for response and weeks 3 to 4 for remission. Venlafaxine was statistically significantly superior to fluoxetine from week 3 until week 6 in respect of response rate, and from week 2 until week 6 for remission rate. After 1 week of treatment, greater improvement in individual symptoms was observed in the depressed mood, suicide, and psychic anxiety items of the HAM-D scale for both venlafaxine- and fluoxetine-treated patients compared with placebo. Improvement in psychic anxiety was statistically significantly greater with venlafaxine than with fluoxetine. The presence of baseline psychic anxiety correlated significantly to treatment outcome when analyzing the remission rates. In depressed patients with moderate anxiety (HAM-D psychic anxiety score ≤ 2), venlafaxine statistically significantly increased remission rates compared with placebo from week 4 until week 6, while a significant effect of fluoxetine on remission rates was observed starting at week 6. Remission rates in the severely anxious depressed patients (score > 2) were statistically significantly higher with venlafaxine than placebo starting from week 3 until the end of the study period, but no difference could be observed between fluoxetine and placebo. Baseline severity of psychic anxiety had a significant impact on remission rates after treatment of patients diagnosed with depression. Venlafaxine's superior remission rates in the more severely anxious patients and its ability to improve psychic anxiety as early as week 1 compared with fluoxetine suggest that venlafaxine's early efficacy on anxiety symptoms may be the basis for its superior efficacy in depression.
 
 ---
 
-### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^15929f51]. Geneva: World Health Organization (2023). High credibility.
+### Mental health gap action programme (mhGAP) guideline for mental, neurological and substance use disorders [^111YyzMN]. Geneva: World Health Organization (2023). High credibility.
 
 Regarding medical management for panic disorder, more specifically with respect to first-line therapy, WHO 2023 guidelines recommend to consider offering SSRIs in adult patients with PD. Consider offering TCAs if SSRIs are not available.
 
 ---
 
-### Citalopram versus other anti-depressive agents for depression [^e3e896cb]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Citalopram versus other anti-depressive agents for depression [^116ptKAr]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -1316,19 +1316,19 @@ Some statistically significant differences between citalopram and other antidepr
 
 ---
 
-### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^9c4271f0]. The American Journal of Psychiatry (2007). Medium credibility.
+### Practice guideline for the treatment of patients with obsessive-compulsive disorder [^114zfPR9]. The American Journal of Psychiatry (2007). Medium credibility.
 
 Fluoxetine — long-term treatment design notes indicate that after a 13-week fixed-dose, placebo-controlled study, responders continued blinded treatment while nonresponders entered a 24-week open-label trial of maximally tolerated doses up to 80 mg/day.
 
 ---
 
-### Pharmacotherapy of social anxiety disorder: what does the evidence tell us? [^0992b866]. The Journal of Clinical Psychiatry (2006). Low credibility.
+### Pharmacotherapy of social anxiety disorder: what does the evidence tell us? [^111FCAsw]. The Journal of Clinical Psychiatry (2006). Low credibility.
 
 The treatment goals for social anxiety disorder (SAD) are to reduce fear, avoidance, physical distress, disability, and comorbidity. This review illustrates some of the primary studies used to evaluate efficacy of treatments for SAD. The selective serotonin reuptake inhibitors (SSRIs) paroxetine, sertraline, fluoxetine, fluvoxamine, and escitalopram and the serotonin-norepinephrine reuptake inhibitor venlafaxine are effective treatments. They have the additional benefit of being able to treat comorbid conditions. For people who do not respond to serotonin reuptake inhibitors, treatment options include benzodiazepines (clonazepam, alprazolam, and bromazepam), alpha2delta calcium-channel blockers (gabapentin and pregabalin), reversible inhibitors of monoamine oxidase A (moclobemide, although agents in this class are not available in the United States), antiepileptics (levetiracetam), and atypical antipsychotics (olanzapine). The irreversible monoamine oxidase inhibitor phenelzine can be considered an effective third-line therapy. Combination treatments may be beneficial, but more research is needed. Benefits of beta-blockers (propranolol and atenolol) are limited to performance anxiety. Botulinum toxin A may be an effective augmentation treatment option for severe axillary hyperhidrosis in patients with SAD. Studies show that patients with SAD who are maintained on paroxetine, sertraline, or clonazepam have a low relapse rate.
 
 ---
 
-### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^adb3a2e6]. Nature: Mental Health (2025). High credibility.
+### The effect of sertraline on networks of mood and anxiety symptoms: secondary analysis of the PANDA randomized controlled trial [^115SXCMK]. Nature: Mental Health (2025). High credibility.
 
 Network studies have suggested that antidepressant treatment is associated with improvements in individual symptoms of depression and anxiety, such as feelings of guilt, anxiety and avoidance, depressed moodand worry. However, few such studies have included a placebo group, which precludes drawing strong conclusions, and most have only compared pre- and posttreatment networks cross-sectionally. neglecting potentially important temporal associations between symptoms. New insights into the effects of sertraline can emerge from modeling temporal associations between symptoms in both treatment and placebo groups.
 
@@ -1336,7 +1336,7 @@ Therefore, this study tests the direct effects of SSRI treatment on symptoms of 
 
 ---
 
-### Does anxiety moderate the effectiveness of mirtazapine in patients with treatment-resistant depression? A secondary analysis of the MIR trial [^f52ba74d]. Journal of Psychopharmacology (2020). Medium credibility.
+### Does anxiety moderate the effectiveness of mirtazapine in patients with treatment-resistant depression? A secondary analysis of the MIR trial [^117GUdUx]. Journal of Psychopharmacology (2020). Medium credibility.
 
 The mirtazapine (MIR) trial investigated the effectiveness of the addition of mirtazapine to an SSRI or SNRI in 480 patients with treatment-resistant depression (TRD) recruited from primary care. Treatment-resistance was defined pragmatically as failure to respond to at least six weeks of an SSRI/SNRI at an adequate dose; in the event, 90% of patients in MIR had been on antidepressants for more than six months. The MIR trial did not find evidence of a meaningful clinical difference between Beck Depression Inventory score (BDI-II) scores at 12 weeks for mirtazapine compared with placebo (adjusted difference between means (ADM) −1.83, 95% confidence interval (CI) −3.92 to 0.27, primary outcome). It did, however, find a small difference in GAD-7 scores at 12 weeks for mirtazapine compared with placebo (ADM 0.98, 95% CI 0.03 to 1.93, secondary outcome), although it is not clear whether this is clinically meaningful. GAD-7 is a questionnaire which captures the features of GAD – a syndrome with the core symptoms of excessive, difficult to control and disruptive anxiety and worry with associated features such as restlessness and lack of sleep. Similarly PANDA, a recent primary care trial of sertraline for depression, showed clear improvements in generalized anxiety, despite less convincing evidence of a superior antidepressant effect compared with placebo.
 
@@ -1344,7 +1344,7 @@ The frequent comorbidity of depression and anxiety means targeted prescribing fo
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^ebe3842b]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^1172iWbk]. The Lancet: Psychiatry (2019). High credibility.
 
 We used a five-item self-report adherence scale developed for the CoBalt study and a binary variable indicating at least 80% adherence. Patients were also asked about serious adverse events at each follow-up visit by use of open-ended questions. Physical symptoms that could be SSRI side-effects were recorded with a modified Toronto scale.
 
@@ -1358,7 +1358,7 @@ Secondary outcomes were analysed as repeated measures across 2-week, 6-week, and
 
 ---
 
-### The impact of published guidance on trends in the pharmacological management of depression in children and adolescents-a whole population e-cohort data linkage study in wales, UK [^03bdddcf]. Psychological Medicine (2025). Medium credibility.
+### The impact of published guidance on trends in the pharmacological management of depression in children and adolescents-a whole population e-cohort data linkage study in wales, UK [^1116Yjk2]. Psychological Medicine (2025). Medium credibility.
 
 Citalopram prescribing was less likely to be associated with secondary care settings and was considerably higher for females compared to Sertraline and Fluoxetine. Fluoxetine was the most popular first-line antidepressant across age groups. However, Citalopram was prescribed in the first instance more often in older age groups (< 5% of first prescriptions in 6–11-year-olds compared with around a fifth in 15–17-year-olds). The reasons why GPs may preferentially prescribe Citalopram to treat adolescent girls is unclear but could reflect prescribing preferences and familiarity for adult patients.
 
@@ -1366,7 +1366,7 @@ The current study further extends previous work (John et al.) demonstrating a co
 
 ---
 
-### Pharmacological treatment in autism: a proposal for guidelines on common co-occurring psychiatric symptoms [^1ca5167e]. BMC Medicine (2025). Medium credibility.
+### Pharmacological treatment in autism: a proposal for guidelines on common co-occurring psychiatric symptoms [^111jU74Z]. BMC Medicine (2025). Medium credibility.
 
 Treatment
 
@@ -1387,13 +1387,13 @@ Buspirone and mirtazapine are preferred first-line medications for anxiety in in
 
 ---
 
-### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^a288333f]. Thorax (2016). Medium credibility.
+### International committee on mental health in cystic fibrosis: Cystic Fibrosis Foundation and European Cystic Fibrosis Society consensus statements for screening and treating depression and anxiety [^1159xk3g]. Thorax (2016). Medium credibility.
 
 Cystic fibrosis — screening and treatment of depression and anxiety (ages 12 — adulthood) uses the Patient Health Questionnaire 9 (PHQ-9) and Generalised Anxiety Disorder 7-item Scale (GAD-7) thresholds to triage care: No Symptoms (PHQ-9 & GAD-7 Scores: 1–4); Mild Depression/Anxiety (PHQ-9/GAD-7 Scores: 5–9) — Supportive intervention, psychoeducation; Rescreen at next clinic visit; Moderate Depression/Anxiety (PHQ-9/GAD-7 Scores: 10–14) — Evidence-based psychological intervention, including CBT or IPT or referral to mental health specialist; Severe Anxiety (GAD-7 Scores: 15+) and Severe Depression (PHQ-9 Scores: 15+), with severe depression managed with Combined evidence-based psychological intervention and SSRI; When prescribing an SSRI, consider prior treatment response, medical status, drug-drug interactions, and local practice patterns, and SSRIs citalopram, escitalopram, sertraline or fluoxetine are usually appropriate.
 
 ---
 
-### Optimising first-and second-line treatment strategies for untreated major depressive disorder-the SUN ☺ D study: a pragmatic, multi-centre, assessor-blinded randomised controlled trial [^269bdbf8]. BMC Medicine (2018). Low credibility.
+### Optimising first-and second-line treatment strategies for untreated major depressive disorder-the SUN ☺ D study: a pragmatic, multi-centre, assessor-blinded randomised controlled trial [^111zEt6K]. BMC Medicine (2018). Low credibility.
 
 Background
 
@@ -1405,7 +1405,7 @@ Once they choose a first-line antidepressant, practitioners must optimise its do
 
 ---
 
-### Combining CBT and sertraline does not enhance outcomes for anxious youth: a double-blind randomised controlled trial [^99dc3290]. Psychological Medicine (2023). Medium credibility.
+### Combining CBT and sertraline does not enhance outcomes for anxious youth: a double-blind randomised controlled trial [^114w74um]. Psychological Medicine (2023). Medium credibility.
 
 Sixty percent of children were excluded from the study because they did not meet study criteria or were not willing to receive medication. This exclusion rate is markedly higher than that in our previously published trials (45.1%) (Hudson et al.) and hence limits the degree to which the findings can be generalised to all children presenting for treatment. The sample is also predominately white, middle class and conducted in a university clinic further limiting generalisability.
 
@@ -1413,7 +1413,7 @@ In conclusion, the findings of the current study suggest that adding an SSRI to 
 
 ---
 
-### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^e07ff9ee]. The Lancet: Psychiatry (2019). High credibility.
+### The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial [^116jqDJd]. The Lancet: Psychiatry (2019). High credibility.
 
 The possibility that adverse effects of antidepressants could lead to unblinding and an inadvertent placebo effect has been raised previously. Such a placebo effect should lead to a difference in all outcomes. In our trial, anxiety, quality of life, and self-reported improvement measures showed greater changes than depressive symptom measures. This observation reduces the likelihood that differences between sertraline and placebo were explained purely by the possibility of unblinding.
 
@@ -1425,7 +1425,7 @@ Our finding that sertraline was not effective for depressive symptoms at 6 weeks
 
 ---
 
-### Obsessive-compulsive disorder in children and adolescents [^66b4eb6e]. Archives of Disease in Childhood (2015). Low credibility.
+### Obsessive-compulsive disorder in children and adolescents [^113dGWLu]. Archives of Disease in Childhood (2015). Low credibility.
 
 Treatment
 
@@ -1437,7 +1437,7 @@ In line with the robust evidence base, there is international consensus that CBT
 
 ---
 
-### Dose-response effects of selective serotonin reuptake inhibitor monotherapy for the treatment of depression: systematic review of reviews and meta-narrative synthesis [^10c797e8]. BMJ Medicine (2022). High credibility.
+### Dose-response effects of selective serotonin reuptake inhibitor monotherapy for the treatment of depression: systematic review of reviews and meta-narrative synthesis [^111RsquH]. BMJ Medicine (2022). High credibility.
 
 Interventions and comparators
 
@@ -1451,7 +1451,7 @@ These outcomes were defined as dose-response effects for efficacy, acceptability
 
 ---
 
-### Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials [^86705c6d]. BMJ (2022). Excellent credibility.
+### Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials [^114SK5jS]. BMJ (2022). Excellent credibility.
 
 Introduction
 
@@ -1461,7 +1461,7 @@ Several drug treatments are available for panic disorder, including tricyclic an
 
 ---
 
-### Combining selective serotonin reuptake inhibitors and cognitive behavioral therapy in youth with depression and anxiety [^2600ffe3]. Journal of Affective Disorders (2022). Medium credibility.
+### Combining selective serotonin reuptake inhibitors and cognitive behavioral therapy in youth with depression and anxiety [^111yLsBY]. Journal of Affective Disorders (2022). Medium credibility.
 
 Background
 

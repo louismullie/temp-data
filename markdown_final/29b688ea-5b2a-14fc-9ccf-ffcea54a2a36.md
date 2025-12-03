@@ -15,31 +15,31 @@ What are the most common causes of elevated WBC and monocyte counts in patients 
 
 > Let's see… What do we have here? The user is asking about the most common causes of elevated WBC and monocyte counts in patients presenting with dizziness and shakiness. Let's break this down step-by-step. First, I need to think about the clinical significance of leukocytosis and monocytosis and how to distinguish reactive from clonal causes. Then, I should verify which entities most plausibly link both hematologic abnormalities with dizziness and shakiness. Next, I will prioritize the differential by prevalence and mechanism, and finally, I will outline a practical diagnostic approach and highlight red flags that warrant urgent hematology referral.
 
-> Let me first confirm the hematologic definitions and thresholds, because I need to ensure we are speaking precisely. Leukocytosis is typically defined as a WBC count above the laboratory upper limit of normal, often around 11 × 10⁹/L, though age- and pregnancy-specific ranges matter, and monocytosis is generally defined as an absolute monocyte count ≥ 1.0 × 10⁹/L or a relative monocyte proportion ≥ 10% of WBCs, with newer classifications recognizing oligomonocytic CMML at 0.5–0.9 × 10⁹/L when other criteria are met [^8517e656] [^e70f3e70] [^d17a35e4].
+> Let me first confirm the hematologic definitions and thresholds, because I need to ensure we are speaking precisely. Leukocytosis is typically defined as a WBC count above the laboratory upper limit of normal, often around 11 × 10⁹/L, though age- and pregnancy-specific ranges matter, and monocytosis is generally defined as an absolute monocyte count ≥ 1.0 × 10⁹/L or a relative monocyte proportion ≥ 10% of WBCs, with newer classifications recognizing oligomonocytic CMML at 0.5–0.9 × 10⁹/L when other criteria are met [^114QKP5w] [^116uZG5D] [^116MZTkX].
 
-> Hold on, let's not jump to conclusions about etiology. I should distinguish reactive from clonal monocytosis. Reactive monocytosis is common and often reflects chronic infection, autoimmune inflammation, stress or recovery from marrow injury, whereas clonal monocytosis suggests a myeloid neoplasm such as CMML or other chronic myeloid disorders; persistent monocytosis for at least 3 months, cytopenias, dysplasia, or clonal mutations push toward CMML rather than a purely reactive process [^b974a8fe] [^cff0961e] [^e70f3e70].
+> Hold on, let's not jump to conclusions about etiology. I should distinguish reactive from clonal monocytosis. Reactive monocytosis is common and often reflects chronic infection, autoimmune inflammation, stress or recovery from marrow injury, whereas clonal monocytosis suggests a myeloid neoplasm such as CMML or other chronic myeloid disorders; persistent monocytosis for at least 3 months, cytopenias, dysplasia, or clonal mutations push toward CMML rather than a purely reactive process [^115jwtrh] [^116KHFLR] [^116uZG5D].
 
-> Next, I should review which conditions plausibly produce both leukocytosis and monocytosis alongside dizziness and shakiness. Let me consider infections first. COVID-19 frequently shows leukocytosis with relative monocytosis and can present with dizziness and systemic symptoms; similarly, human monocytotropic ehrlichiosis can cause leukopenia early but later recovery with monocytosis and neurologic symptoms including dizziness, so timing and geography matter [^b58d66d9] [^5d559ed0] [^de2e82af].
+> Next, I should review which conditions plausibly produce both leukocytosis and monocytosis alongside dizziness and shakiness. Let me consider infections first. COVID-19 frequently shows leukocytosis with relative monocytosis and can present with dizziness and systemic symptoms; similarly, human monocytotropic ehrlichiosis can cause leukopenia early but later recovery with monocytosis and neurologic symptoms including dizziness, so timing and geography matter [^115eAFje] [^113PNcEB] [^116gPsfC].
 
-> I will now examine inflammatory and autoimmune etiologies. Systemic lupus erythematosus and other autoimmune diseases can drive a reactive monocytosis and, when neuropsychiatric, may present with dizziness and tremor or shakiness; I should confirm this with inflammatory markers and targeted serologies if suspected, keeping in mind that monocytosis in SLE is a recognized reactive pattern [^cff0961e] [^56688c44].
+> I will now examine inflammatory and autoimmune etiologies. Systemic lupus erythematosus and other autoimmune diseases can drive a reactive monocytosis and, when neuropsychiatric, may present with dizziness and tremor or shakiness; I should confirm this with inflammatory markers and targeted serologies if suspected, keeping in mind that monocytosis in SLE is a recognized reactive pattern [^116KHFLR] [^113D73zb].
 
-> But wait, what if the monocytosis is clonal rather than reactive. Chronic myelomonocytic leukemia is the prototypical myeloid neoplasm defined by persistent monocytosis and frequently leukocytosis; patients may have constitutional symptoms and, less commonly, neurologic complaints, and dizziness could reflect anemia, cytokine-mediated symptoms, or even hyperviscosity in high tumor burden states, so I should keep CMML high on the list when monocytosis is sustained and unexplained [^e70f3e70] [^7b31aa3b] [^7b8eb0f5].
+> But wait, what if the monocytosis is clonal rather than reactive. Chronic myelomonocytic leukemia is the prototypical myeloid neoplasm defined by persistent monocytosis and frequently leukocytosis; patients may have constitutional symptoms and, less commonly, neurologic complaints, and dizziness could reflect anemia, cytokine-mediated symptoms, or even hyperviscosity in high tumor burden states, so I should keep CMML high on the list when monocytosis is sustained and unexplained [^116uZG5D] [^1149eADQ] [^114ABQWg].
 
-> Let me consider medication effects, because I need to check for iatrogenic contributors. Colony-stimulating factors like sargramostim can cause extreme leukocytosis, and corticosteroids can acutely elevate WBC counts within 24–48 hours; if dizziness and shakiness coincide with recent steroid initiation, a steroid-induced leukocytosis with relative monocytosis is plausible, though I should confirm the timing and dose before attributing causality [^3254db69] [^dad85a13].
+> Let me consider medication effects, because I need to check for iatrogenic contributors. Colony-stimulating factors like sargramostim can cause extreme leukocytosis, and corticosteroids can acutely elevate WBC counts within 24–48 hours; if dizziness and shakiness coincide with recent steroid initiation, a steroid-induced leukocytosis with relative monocytosis is plausible, though I should confirm the timing and dose before attributing causality [^112HctEt] [^116bSyJr].
 
-> I should double-check lifestyle and demographic factors. Tobacco smoking is a common cause of mild leukocytosis and can include monocytosis; cessation leads to measurable reductions in WBC over weeks to months, so a careful smoking history can prevent unnecessary workups in otherwise well patients with mild, stable counts [^e00a16de].
+> I should double-check lifestyle and demographic factors. Tobacco smoking is a common cause of mild leukocytosis and can include monocytosis; cessation leads to measurable reductions in WBC over weeks to months, so a careful smoking history can prevent unnecessary workups in otherwise well patients with mild, stable counts [^116j9cgV].
 
-> Now, prioritizing the differential, I need to ensure I align prevalence with the clinical context. In patients with dizziness and shakiness plus leukocytosis and monocytosis, the most common causes are reactive monocytosis from viral or bacterial infections such as COVID-19 or ehrlichiosis, autoimmune inflammatory states like SLE, medication-induced leukocytosis particularly from corticosteroids, and smoking-related leukocytosis; clonal causes such as CMML are less common but become more likely when monocytosis is persistent, accompanied by cytopenias, dysplasia, or clonal mutations [^b58d66d9] [^5d559ed0] [^cff0961e] [^dad85a13] [^e00a16de] [^e70f3e70].
+> Now, prioritizing the differential, I need to ensure I align prevalence with the clinical context. In patients with dizziness and shakiness plus leukocytosis and monocytosis, the most common causes are reactive monocytosis from viral or bacterial infections such as COVID-19 or ehrlichiosis, autoimmune inflammatory states like SLE, medication-induced leukocytosis particularly from corticosteroids, and smoking-related leukocytosis; clonal causes such as CMML are less common but become more likely when monocytosis is persistent, accompanied by cytopenias, dysplasia, or clonal mutations [^115eAFje] [^113PNcEB] [^116KHFLR] [^116bSyJr] [^116j9cgV] [^116uZG5D].
 
-> Let me outline a practical diagnostic approach, and I should confirm each step against guidelines. First, verify the CBC with differential and a peripheral smear to distinguish reactive from clonal morphology and to look for dysplasia or blasts; second, assess for infection with targeted testing guided by symptoms and exposure risks, including COVID-19 and tick-borne diseases; third, evaluate for autoimmune disease with ESR, CRP, ANA, and organ-specific serologies if indicated; fourth, review medications meticulously for steroids, growth factors, or other offenders; fifth, if monocytosis persists beyond 3 months or is accompanied by cytopenias or dysplasia, pursue bone marrow evaluation and molecular testing to evaluate for CMML or related myeloid neoplasms [^8517e656] [^2580cc30] [^e70f3e70] [^7b31aa3b].
+> Let me outline a practical diagnostic approach, and I should confirm each step against guidelines. First, verify the CBC with differential and a peripheral smear to distinguish reactive from clonal morphology and to look for dysplasia or blasts; second, assess for infection with targeted testing guided by symptoms and exposure risks, including COVID-19 and tick-borne diseases; third, evaluate for autoimmune disease with ESR, CRP, ANA, and organ-specific serologies if indicated; fourth, review medications meticulously for steroids, growth factors, or other offenders; fifth, if monocytosis persists beyond 3 months or is accompanied by cytopenias or dysplasia, pursue bone marrow evaluation and molecular testing to evaluate for CMML or related myeloid neoplasms [^114QKP5w] [^111xbocB] [^116uZG5D] [^1149eADQ].
 
-> Hold on, I should verify red flags that mandate urgent hematology referral. Persistent absolute monocytosis ≥ 1.0 × 10⁹/L for at least 3 months, concurrent cytopenias, blasts on smear, dysplastic morphology, or B symptoms raise concern for CMML or other myeloid malignancy and should prompt hematology input and marrow studies; likewise, extreme leukocytosis, hyperviscosity symptoms, or neurologic deficits with abnormal counts warrant expedited evaluation [^e70f3e70] [^7b31aa3b] [^7b8eb0f5].
+> Hold on, I should verify red flags that mandate urgent hematology referral. Persistent absolute monocytosis ≥ 1.0 × 10⁹/L for at least 3 months, concurrent cytopenias, blasts on smear, dysplastic morphology, or B symptoms raise concern for CMML or other myeloid malignancy and should prompt hematology input and marrow studies; likewise, extreme leukocytosis, hyperviscosity symptoms, or neurologic deficits with abnormal counts warrant expedited evaluation [^116uZG5D] [^1149eADQ] [^114ABQWg].
 
-> In summary, I need to ensure the synthesis remains clinically grounded. In patients with dizziness and shakiness who have elevated WBC and monocyte counts, the most common explanations are reactive monocytosis from infection or autoimmunity, medication-induced leukocytosis particularly corticosteroids, and smoking-related leukocytosis, with CMML and other clonal myeloid neoplasms as important but less frequent considerations when monocytosis is persistent or accompanied by dysplasia or cytopenias; a structured evaluation anchored by smear review, infection and autoimmune screening, medication reconciliation, and selective marrow testing resolves most cases and prevents missed malignancy [^b58d66d9] [^cff0961e] [^dad85a13] [^e00a16de] [^e70f3e70].
+> In summary, I need to ensure the synthesis remains clinically grounded. In patients with dizziness and shakiness who have elevated WBC and monocyte counts, the most common explanations are reactive monocytosis from infection or autoimmunity, medication-induced leukocytosis particularly corticosteroids, and smoking-related leukocytosis, with CMML and other clonal myeloid neoplasms as important but less frequent considerations when monocytosis is persistent or accompanied by dysplasia or cytopenias; a structured evaluation anchored by smear review, infection and autoimmune screening, medication reconciliation, and selective marrow testing resolves most cases and prevents missed malignancy [^115eAFje] [^116KHFLR] [^116bSyJr] [^116j9cgV] [^116uZG5D].
 
 ---
 
-The most common causes of elevated WBC and monocyte counts with dizziness and shakiness are **reactive monocytosis** from chronic infections (tuberculosis, subacute bacterial endocarditis, HIV, COVID-19) [^cff0961e] [^b58d66d9], **autoimmune/inflammatory diseases** (SLE, rheumatoid arthritis, sarcoidosis) [^56688c44], and **hematologic malignancies** (CMML, CML, AML) [^b974a8fe] [^bf39c7b5]. Dizziness and shakiness reflect systemic inflammation, cytokine release, or CNS involvement [^278b780b] [^6caa92d9]. Evaluate with CBC/differential, peripheral smear, infection screening, autoimmune serologies, and consider bone marrow if monocytosis persists or blasts are present [^8517e656] [^2580cc30].
+The most common causes of elevated WBC and monocyte counts with dizziness and shakiness are **reactive monocytosis** from chronic infections (tuberculosis, subacute bacterial endocarditis, HIV, COVID-19) [^116KHFLR] [^115eAFje], **autoimmune/inflammatory diseases** (SLE, rheumatoid arthritis, sarcoidosis) [^113D73zb], and **hematologic malignancies** (CMML, CML, AML) [^115jwtrh] [^115tW3UQ]. Dizziness and shakiness reflect systemic inflammation, cytokine release, or CNS involvement [^1121dN4i] [^113n6xUg]. Evaluate with CBC/differential, peripheral smear, infection screening, autoimmune serologies, and consider bone marrow if monocytosis persists or blasts are present [^114QKP5w] [^111xbocB].
 
 ---
 
@@ -47,13 +47,13 @@ The most common causes of elevated WBC and monocyte counts with dizziness and sh
 
 Several **chronic infections** can cause leukocytosis and monocytosis, with systemic symptoms such as dizziness and shakiness:
 
-- **Tuberculosis**: Chronic infection causing monocytosis and systemic symptoms, including dizziness and fatigue [^cff0961e].
+- **Tuberculosis**: Chronic infection causing monocytosis and systemic symptoms, including dizziness and fatigue [^116KHFLR].
 
-- **Subacute bacterial endocarditis**: Persistent infection leading to monocytosis and systemic symptoms, including dizziness and shakiness [^cff0961e].
+- **Subacute bacterial endocarditis**: Persistent infection leading to monocytosis and systemic symptoms, including dizziness and shakiness [^116KHFLR].
 
 - **HIV infection**: Chronic viral infection causing monocytosis and systemic symptoms, including neurological manifestations [^notfound].
 
-- **COVID-19**: Associated with leukocytosis and monocytosis, and neurological symptoms such as dizziness and fatigue [^b58d66d9] [^a276a84b].
+- **COVID-19**: Associated with leukocytosis and monocytosis, and neurological symptoms such as dizziness and fatigue [^115eAFje] [^1159rrHY].
 
 ---
 
@@ -61,11 +61,11 @@ Several **chronic infections** can cause leukocytosis and monocytosis, with syst
 
 Autoimmune and inflammatory diseases can cause **reactive monocytosis** and systemic symptoms:
 
-- **Systemic lupus erythematosus (SLE)**: Autoimmune disease causing monocytosis and neurological symptoms, including dizziness and tremors [^56688c44] [^915f2415].
+- **Systemic lupus erythematosus (SLE)**: Autoimmune disease causing monocytosis and neurological symptoms, including dizziness and tremors [^113D73zb] [^114iXAMi].
 
-- **Rheumatoid arthritis**: Chronic inflammatory disease associated with monocytosis and systemic symptoms, including dizziness and fatigue [^56688c44].
+- **Rheumatoid arthritis**: Chronic inflammatory disease associated with monocytosis and systemic symptoms, including dizziness and fatigue [^113D73zb].
 
-- **Sarcoidosis**: Granulomatous disease causing monocytosis and systemic symptoms, including neurological manifestations [^56688c44].
+- **Sarcoidosis**: Granulomatous disease causing monocytosis and systemic symptoms, including neurological manifestations [^113D73zb].
 
 ---
 
@@ -73,9 +73,9 @@ Autoimmune and inflammatory diseases can cause **reactive monocytosis** and syst
 
 Certain **hematologic malignancies** present with leukocytosis, monocytosis, and systemic symptoms:
 
-- **Chronic myelomonocytic leukemia (CMML)**: Myeloid neoplasm characterized by persistent monocytosis and systemic symptoms, including fatigue, dizziness, and weight loss [^e70f3e70] [^7b31aa3b].
+- **Chronic myelomonocytic leukemia (CMML)**: Myeloid neoplasm characterized by persistent monocytosis and systemic symptoms, including fatigue, dizziness, and weight loss [^116uZG5D] [^1149eADQ].
 
-- **Chronic myeloid leukemia (CML)**: Myeloproliferative disorder causing leukocytosis and monocytosis, with systemic symptoms including fatigue and dizziness [^bf39c7b5].
+- **Chronic myeloid leukemia (CML)**: Myeloproliferative disorder causing leukocytosis and monocytosis, with systemic symptoms including fatigue and dizziness [^115tW3UQ].
 
 - **Acute myeloid leukemia (AML)**: Rapidly progressive malignancy causing leukocytosis and monocytosis, with systemic symptoms including dizziness, fatigue, and neurological manifestations [^notfound].
 
@@ -85,11 +85,11 @@ Certain **hematologic malignancies** present with leukocytosis, monocytosis, and
 
 The association between elevated WBC and monocyte counts and symptoms such as dizziness and shakiness can be explained by several **mechanisms**:
 
-- **Cytokine release syndrome**: Elevated cytokine levels (e.g. IL-6, TNF-alpha) cause systemic inflammation, leading to dizziness, fatigue, and tremors [^278b780b].
+- **Cytokine release syndrome**: Elevated cytokine levels (e.g. IL-6, TNF-alpha) cause systemic inflammation, leading to dizziness, fatigue, and tremors [^1121dN4i].
 
-- **Hyperviscosity syndrome**: Elevated leukocyte counts increase blood viscosity, impairing cerebral perfusion and causing dizziness and neurological symptoms [^7b8eb0f5].
+- **Hyperviscosity syndrome**: Elevated leukocyte counts increase blood viscosity, impairing cerebral perfusion and causing dizziness and neurological symptoms [^114ABQWg].
 
-- **Direct neurological involvement**: Certain infections and malignancies can directly affect the central nervous system, causing dizziness and neurological symptoms [^6caa92d9].
+- **Direct neurological involvement**: Certain infections and malignancies can directly affect the central nervous system, causing dizziness and neurological symptoms [^113n6xUg].
 
 ---
 
@@ -97,15 +97,15 @@ The association between elevated WBC and monocyte counts and symptoms such as di
 
 A systematic diagnostic approach is essential to identify the **underlying cause**:
 
-- **Complete blood count (CBC) with differential**: Confirms leukocytosis and monocytosis and provides initial clues to etiology [^8517e656].
+- **Complete blood count (CBC) with differential**: Confirms leukocytosis and monocytosis and provides initial clues to etiology [^114QKP5w].
 
-- **Peripheral blood smear**: Assesses cell morphology, identifies abnormal cells, and distinguishes reactive from clonal processes [^2580cc30].
+- **Peripheral blood smear**: Assesses cell morphology, identifies abnormal cells, and distinguishes reactive from clonal processes [^111xbocB].
 
 - **Infection screening**: Tuberculosis testing, HIV testing, COVID-19 testing, and blood cultures to identify infectious etiologies [^notfound].
 
 - **Autoimmune serologies**: ANA, rheumatoid factor, and other autoimmune markers to identify autoimmune diseases [^notfound].
 
-- **Bone marrow biopsy**: Indicated if hematologic malignancy is suspected or if monocytosis persists without identifiable reactive cause [^b03a40da].
+- **Bone marrow biopsy**: Indicated if hematologic malignancy is suspected or if monocytosis persists without identifiable reactive cause [^115WGPTw].
 
 ---
 
@@ -117,7 +117,7 @@ Elevated WBC and monocyte counts with dizziness and shakiness most commonly refl
 
 ## References
 
-### Prospective validation of a biomarker-driven response prediction model to romiplostim in lower-risk myelodysplastic neoplasms-results of the Europe trial by EMSCO [^2d618b69]. Leukemia (2022). Medium credibility.
+### Prospective validation of a biomarker-driven response prediction model to romiplostim in lower-risk myelodysplastic neoplasms-results of the Europe trial by EMSCO [^112AHD1A]. Leukemia (2022). Medium credibility.
 
 Discussion and conclusion
 
@@ -127,13 +127,13 @@ The median duration of HI-P response of 340 days in the whole cohort is very enc
 
 ---
 
-### Why does my patient have leukocytosis? [^63420681]. Hematology/Oncology Clinics of North America (2012). Low credibility.
+### Why does my patient have leukocytosis? [^113Y9xBJ]. Hematology/Oncology Clinics of North America (2012). Low credibility.
 
 Leukocytosis is one of the most common laboratory abnormalities in medicine, and one of the most frequent reasons for hematologic consultation. Effective evaluation of leukocytosis requires an attentive history, careful physical examination, meticulous review of the complete blood count and peripheral blood smear, judicious application of laboratory and radiologic testing, and thoughtful analysis. Definitive diagnosis may require bone marrow aspiration and biopsy, imaging studies, and specialized molecular tests. The differential diagnosis of leukocytosis includes physiologic responses to a broad range of infectious and inflammatory processes, as well as numerous primary hematologic disorders such as leukemias, lymphomas, and myeloproliferative neoplasms.
 
 ---
 
-### Ziprasidone [^ebd8d8df]. FDA (2025). Medium credibility.
+### Ziprasidone [^1172evkN]. FDA (2025). Medium credibility.
 
 Endocrine
 
@@ -165,7 +165,7 @@ Frequent agitation, extrapyramidal syndrome, tremor, dystonia, hypertonia, dyski
 
 ---
 
-### Ziprasidone mesylate [^bd5d0030]. FDA (2025). Medium credibility.
+### Ziprasidone mesylate [^115qju4b]. FDA (2025). Medium credibility.
 
 Endocrine
 
@@ -197,7 +197,7 @@ Musculoskeletal System
 
 ---
 
-### Prochlorperazine (Compro) [^0b2440a4]. FDA (2025). Medium credibility.
+### Prochlorperazine (Compro) [^111HX3Md]. FDA (2025). Medium credibility.
 
 ADVERSE REACTIONS
 
@@ -227,7 +227,7 @@ Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occu
 
 ---
 
-### Plerixafor [^5154a848]. FDA (2025). Medium credibility.
+### Plerixafor [^1135aS5u]. FDA (2025). Medium credibility.
 
 In the randomized studies, 34% of patients with NHL or MM had mild to moderate injection site reactions at the site of subcutaneous administration of plerixafor. These included erythema, hematoma, hemorrhage, induration, inflammation, irritation, pain, paresthesia, pruritus, rash, swelling, and urticaria.
 
@@ -251,7 +251,7 @@ Psychiatric Disorders: Abnormal dreams and nightmares
 
 ---
 
-### Risperidone (Perseris) [^140bafae]. FDA (2025). Medium credibility.
+### Risperidone (Perseris) [^111WigJZ]. FDA (2025). Medium credibility.
 
 5.7 Orthostatic Hypotension and Syncope
 
@@ -273,7 +273,7 @@ Monitor patients with clinically significant neutropenia for fever or other symp
 
 ---
 
-### Plerixafor (Mozobil) [^7cdd3a01]. FDA (2025). Medium credibility.
+### Plerixafor (Mozobil) [^114C7mnY]. FDA (2025). Medium credibility.
 
 In the randomized studies, 34% of patients with NHL or MM had mild to moderate injection site reactions at the site of subcutaneous administration of Mozobil. These included erythema, hematoma, hemorrhage, induration, inflammation, irritation, pain, paresthesia, pruritus, rash, swelling, and urticaria.
 
@@ -297,7 +297,7 @@ Psychiatric Disorders: Abnormal dreams and nightmares
 
 ---
 
-### Exacerbation of mycosis fungoides leading to the diagnosis of chronic myelomonocytic leukemia [^41290476]. JAAD Case Reports (2018). Low credibility.
+### Exacerbation of mycosis fungoides leading to the diagnosis of chronic myelomonocytic leukemia [^112fbyQH]. JAAD Case Reports (2018). Low credibility.
 
 Differential blood count showed a leukocytosis (36,000/μL) with monocytosis (11.000/μL), a microcytic and hypochromic anemia, thrombopenia (88.000/μL), elevated lactate dehydrogenase level (793 U/L) and C-reactive protein (8.8 mg/dL). Repeated bone marrow biopsies and smears found a myelomonocytic infiltrate expressing CD33, lysozyme, and myeloperoxidase compatible with CMML.
 
@@ -310,7 +310,7 @@ A and C, Clinical picture shortly after reintroduction of PUVA treatment. B and 
 
 ---
 
-### Cerebrovascular manifestations in hematological diseases: an update [^6caa92d9]. Journal of Neurology (2021). Medium credibility.
+### Cerebrovascular manifestations in hematological diseases: an update [^113n6xUg]. Journal of Neurology (2021). Medium credibility.
 
 Myeloproliferative neoplasms
 
@@ -320,13 +320,13 @@ Thrombotic complications are frequent in MPN. A recent large study found that th
 
 ---
 
-### Leukemia: an overview for primary care [^776ed487]. American Family Physician (2014). Medium credibility.
+### Leukemia: an overview for primary care [^11444kgW]. American Family Physician (2014). Medium credibility.
 
 Regarding screening and diagnosis for chronic myeloid leukemia, more specifically with respect to differential diagnosis, AAFP 2014 guidelines recommend to take into consideration the common causes, such as infection, inflammation, and stress response, when evaluating patients with leukocytosis.
 
 ---
 
-### Human T-cell lymphotropic virus (HTLV)-associated encephalopathy: an under-recognised cause of acute encephalitis? Case series and literature review [^39007df2]. Journal of Neurology (2018). Low credibility.
+### Human T-cell lymphotropic virus (HTLV)-associated encephalopathy: an under-recognised cause of acute encephalitis? Case series and literature review [^112TWTeZ]. Journal of Neurology (2018). Low credibility.
 
 Patient B
 
@@ -340,7 +340,7 @@ Repeat MRI showed several new scattered focal T2-weighted lesions mainly in the 
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^b974a8fe]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^115jwtrh]. Blood Advances (2022). Medium credibility.
 
 Introduction
 
@@ -348,25 +348,25 @@ Monocytes are part of the myeloid lineage that expands with age and represent ke
 
 ---
 
-### Evaluation of patients with leukocytosis [^8517e656]. American Family Physician (2015). Low credibility.
+### Evaluation of patients with leukocytosis [^114QKP5w]. American Family Physician (2015). Low credibility.
 
 An elevated white blood cell count has many potential etiologies, including malignant and nonmalignant causes. It is important to use age- and pregnancy-specific normal ranges for the white blood cell count. A repeat complete blood count with peripheral smear may provide helpful information, such as types and maturity of white blood cells, uniformity of white blood cells, and toxic granulations. The leukocyte differential may show eosinophilia in parasitic or allergic conditions, or it may reveal lymphocytosis in childhood viral illnesses. Leukocytosis is a common sign of infection, particularly bacterial, and should prompt physicians to identify other signs and symptoms of infection. The peripheral white blood cell count can double within hours after certain stimuli because of the large bone marrow storage and intravascularly marginated pools of neutrophils. Stressors capable of causing an acute leukocytosis include surgery, exercise, trauma, and emotional stress. Other nonmalignant etiologies of leukocytosis include certain medications, asplenia, smoking, obesity, and chronic inflammatory conditions. Symptoms suggestive of a hematologic malignancy include fever, weight loss, bruising, or fatigue. If malignancy cannot be excluded or another more likely cause is not suspected, referral to a hematologist/oncologist is indicated.
 
 ---
 
-### Systemic lupus erythematosus in shwachman-diamond syndrome: a novel phenotype [^915f2415]. Journal of Clinical Immunology (2023). Medium credibility.
+### Systemic lupus erythematosus in shwachman-diamond syndrome: a novel phenotype [^114iXAMi]. Journal of Clinical Immunology (2023). Medium credibility.
 
 At 15 years old, she developed eyelid edema 3 days after respiratory infection and edema of both lower limbs 1 month later. She did not seek medical advice until 9 months later when she developed gaze palsy, salivation, and loss of consciousness for 3 min. After regaining consciousness, she developed headache, dizziness, abnormal gait, and blurred vision and then was admitted by a local hospital. Neurological examinations revealed drunk gait, limited range of abduction of the right eye, and abnormal heel-to-shin test. Laboratory examinations showed leukopenia (3.1 × 10 9 /L), neutropenia (0.9 × 10 9 /L), proteinuria (3 +, 24- h urine protein 2.4 g), hypocomplementemia (C3 0.496 g/L, C4 0.035 g/L), and positive autoantibodies [ANA(+)H1:1000, anti-dsDNA and anti-SSA/Ro antibodies(+), ACL(+)]. Her IgM was slightly lower than normal (0.376 g/L), while her hemoglobin, platelets, lymphocyte subset counts, thyroid function, and electrolyte were normal. Chest CT showed a few small patchy opacities in the right lower lobe, indicating inflammation (Fig. 1a). Video EEG suggested background asymmetry with slow wave activity in the right occipital area. Head MRI showed multiple abnormal signals in the pons, cerebellum, and medulla, indicating inflammatory lesions (Fig. 1b, c). Head MRA and MRV were normal, and cerebral thrombosis was discarded. A lumbar puncture was performed during the acute phase, and the pressure was measured about 100 drops/min. The cerebrospinal fluid examination disclosed a mild CSF pleocytosis (39 cells/uL, 2.6% neutrophils, 97.4% monocytes) with normal glucose, protein, and chloride. Microbial PCR, cultures, and autoimmune panel results were all negative. But she did not perform a renal biopsy. She was diagnosed as SLE with involvement of hematological, renal, and neuropsychiatric systems. She received intravenous methylprednisolone 0.5 g for 3 days for 2 rounds followed by prednisone 60 mg QD and cyclophosphamide (CTX) 1 g every 3 weeks. Most lab data turned normal except her leukocytopenia and ANA status. The prednisone was tapered accordingly, and the CTX was switched to mycophenolate mofetil (MMF) after 9 rounds of treatment. Unfortunately, at 16 years old, she developed pain and lameness of lower extremities, and her hip MRI indicated osteonecrosis of the bilateral femoral head, which was considered as side effects of long-term use of corticosteroids.
 
 ---
 
-### Leukemia: an overview for primary care [^019e472e]. American Family Physician (2014). Medium credibility.
+### Leukemia: an overview for primary care [^1113Q9nd]. American Family Physician (2014). Medium credibility.
 
 Regarding screening and diagnosis for chronic lymphocytic leukemia, more specifically with respect to differential diagnosis, AAFP 2014 guidelines recommend to suspect common causes such as infection, inflammation, and stress response when evaluating a patient with leukocytosis. Obtain peripheral blood smear in patients with a WBC count > 20, 000/mcL and with associated anemia, thrombocytopenia, thrombocytosis, enlarged liver, spleen or lymph nodes, or constitutional symptoms.
 
 ---
 
-### Asenapine maleate (Saphris) [^700c9b59]. FDA (2025). Medium credibility.
+### Asenapine maleate (Saphris) [^113s7rAU]. FDA (2025). Medium credibility.
 
 5.8 Falls
 
@@ -382,13 +382,13 @@ Monitor patients with clinically significant neutropenia for fever or other symp
 
 ---
 
-### Differential diagnosis and workup of monocytosis: a systematic approach to a common hematologic finding [^56688c44]. Current Hematologic Malignancy Reports (2021). Medium credibility.
+### Differential diagnosis and workup of monocytosis: a systematic approach to a common hematologic finding [^113D73zb]. Current Hematologic Malignancy Reports (2021). Medium credibility.
 
 Among other possible causes, monocytosis can be caused by ectoparasitic infestation, chronic inflammatory conditions, infectious mononucleosis, tuberculosis, Hodgkin's lymphoma, multiple myeloma, chronic myeloid leukemia, brucellosis, visceral leishmaniasis, non-Hodgkin lymphoma, ulcerative colitis, systemic lupus erythematosus, sarcoidosis, polyarteritis nodosa, kostmann disease, cyclical neutropenia, rheumatoid arthritis and Crohn's disease. In addition, monocytosis can be caused by medications such as filgrastim.
 
 ---
 
-### Pergolide (Permax) [^6b14b143]. FDA (2007). Low credibility.
+### Pergolide (Permax) [^113jkdGv]. FDA (2007). Low credibility.
 
 Endocrine System — Infrequent: hypothyroidism, adenoma, diabetes mellitus, ADH inappropriate; Rare: endocrine disorder, thyroid adenoma.
 
@@ -402,7 +402,7 @@ Nervous System — Frequent: dyskinesia, dizziness, hallucinations, confusion, s
 
 ---
 
-### Trazodone hydrochoride (trazodone hydrochloride) [^dd3f5a45]. FDA (2010). Low credibility.
+### Trazodone hydrochoride (trazodone hydrochloride) [^116f1YVJ]. FDA (2010). Low credibility.
 
 Clinical Worsening and Suicide Risk
 
@@ -422,7 +422,7 @@ Occasional low white blood cell and neutrophil counts have been noted in patient
 
 ---
 
-### Trifluoperazine [^b79af151]. FDA (2011). Low credibility.
+### Trifluoperazine [^115hCn6c]. FDA (2011). Low credibility.
 
 There is no known effective treatment for tardive dyskinesia;
 anti-parkinsonism agents do not alleviate the symptoms of this syndrome. If
@@ -476,7 +476,7 @@ and lenticular and corneal deposits.
 
 ---
 
-### Clinical and laboratory characteristics in outpatient diagnosis of COVID-19 in healthcare professionals in rio de janeiro, Brazil [^b58d66d9]. Journal of Clinical Pathology (2022). Medium credibility.
+### Clinical and laboratory characteristics in outpatient diagnosis of COVID-19 in healthcare professionals in rio de janeiro, Brazil [^115eAFje]. Journal of Clinical Pathology (2022). Medium credibility.
 
 Aims
 
@@ -500,7 +500,7 @@ From 19 March to 8 April 2020, 1297 patients attended the Polyclinic Piquet Carn
 
 ---
 
-### Expert consensus on prevention and control of COVID-19 in the neurological intensive care unit (first edition) [^a276a84b]. Stroke and Vascular Neurology (2020). Medium credibility.
+### Expert consensus on prevention and control of COVID-19 in the neurological intensive care unit (first edition) [^1159rrHY]. Stroke and Vascular Neurology (2020). Medium credibility.
 
 Clinical characteristics and management
 
@@ -522,19 +522,19 @@ Early chest CT may show multiple small patchy shadows and interstitial changes, 
 
 ---
 
-### Guidelines for prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from CDC, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America [^f49f4840]. MMWR: Recommendations and Reports (2009). Medium credibility.
+### Guidelines for prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from CDC, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America [^117FfUq5]. MMWR: Recommendations and Reports (2009). Medium credibility.
 
 Table 6 — mefloquine, meropenem, and miltefosine adverse reactions specify that mefloquine may cause depression, psychosis, anxiety, rash (reports of TEN and SJS), nausea, vomiting, diarrhea, epigastric pain, agitation, dizziness, headache, insomnia, abnormal dreams, QTc prolongation, arrhythmias (extrasystole, sinus bradycardia), and agranulocytosis/aplastic anemia. Meropenem is generally well‑tolerated; reactions include hypersensitivity reaction (immediate or delayed), nausea, vomiting, diarrhea, C. difficile–associated diarrhea and colitis, thrombophlebitis, headache, bone marrow suppression, and drug fever. Miltefosine can cause nausea, vomiting, diarrhea, headache, motion sickness, leukocytosis, thrombocytosis, nephrotoxicity, retinal degeneration, elevated transaminases and bilirubin, teratogenic potential, and impaired fertility.
 
 ---
 
-### A progressive multifocal neurological syndrome in a 42-year-old woman [^fbe91279]. Brain Pathology (2011). Low credibility.
+### A progressive multifocal neurological syndrome in a 42-year-old woman [^117SUBM2]. Brain Pathology (2011). Low credibility.
 
 This is the case of a 42-year-old female who presented with transient dizziness. Her symptoms and signs progressed to include dysarthria, ataxia and cognitive decline over 2 years, such that she was unable to care for herself. She died 4 years after first presentation without a diagnosis. Investigations revealed a normochromic normocytic anaemia. Cerebrospinal fluid was normal. Serial computed tomography brain showed a wedge-shaped frontal infarct but no progressive changes. Examination at autopsy showed discoloration of the gray and white matter of the brain and spinal cord. Microscopy of leptomeningeal and parenchymal vessels showed they were filled with atypical B lymphocytes confined to the intravascular space with multiple infarcts in the brain, cerebellum and spinal cord. A diagnosis of intravascular B cell lymphoma was made and is discussed.
 
 ---
 
-### Diagnosis of myelodysplastic syndromes: the classic and the novel [^7e755de2]. Haematologica (2025). Medium credibility.
+### Diagnosis of myelodysplastic syndromes: the classic and the novel [^114EUrzm]. Haematologica (2025). Medium credibility.
 
 Laboratory findings
 
@@ -548,13 +548,13 @@ Altogether, the combination of symptoms and laboratory findings along with the e
 
 ---
 
-### Acute confusion in headache with neurologic deficits and cerebrospinal fluid lymphocytosis syndrome [^68ff87d4]. The American Journal of Emergency Medicine (2012). Low credibility.
+### Acute confusion in headache with neurologic deficits and cerebrospinal fluid lymphocytosis syndrome [^113gfYSo]. The American Journal of Emergency Medicine (2012). Low credibility.
 
 Abrupt headaches with focal neurologic deficits usually indicate medical emergencies that require advanced investigations and prompt treatment. The distinct syndrome of "headache with neurologic deficits and cerebrospinal fluid lymphocytosis" (HaNDL) is infrequent and considered a benign, self-limited disorder. We illustrated a 29-year-old man with HaNDL atypically presenting as episodic altered consciousness rather than sensorimotor prodromes. The diagnosis was made carefully by exclusion of other likely entities. It is important for clinical physicians to differentiate HaNDL from other potentially fatal.
 
 ---
 
-### Cytokine release syndrome after radiation therapy: case report and review of the literature [^a64c4c53]. Journal for Immunotherapy of Cancer (2018). Low credibility.
+### Cytokine release syndrome after radiation therapy: case report and review of the literature [^115FYaBt]. Journal for Immunotherapy of Cancer (2018). Low credibility.
 
 Fig. 1
 Computed tomography at the level of the pelvis and maximum intensity profile of 18-fluorodeoxyglucose positron emission tomography demonstrates the primary Merkel cell carcinoma tumor of the right buttock (red circle), as well as in-transit metastases and lymphatic metastases (yellow arrow) before (a) and after (b) radiotherapy. A partial response was noted in the irradiated tumors, with progression of metastases elsewhere
@@ -568,7 +568,7 @@ During the 1 week interval between RT treatments, he noted low grade fever, fati
 
 ---
 
-### Elevation in white blood cell count after corticosteroid use in noninfected hospitalized patients [^dad85a13]. Journal of Hospital Medicine (2025). Medium credibility.
+### Elevation in white blood cell count after corticosteroid use in noninfected hospitalized patients [^116bSyJr]. Journal of Hospital Medicine (2025). Medium credibility.
 
 CONCLUSION
 
@@ -576,25 +576,25 @@ In interpreting WBC counts, physicians should consider recent initiation of ster
 
 ---
 
-### Pediatric acute lymphoblastic leukemia, version 2.2025, NCCN clinical practice guidelines in oncology [^cfd1c36a]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### Pediatric acute lymphoblastic leukemia, version 2.2025, NCCN clinical practice guidelines in oncology [^116K6trV]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Pediatric acute lymphoblastic leukemia — clinical presentation and T-ALL features — Patients with ALL develop symptoms from infiltration of blasts in bone marrow, lymphoid system, and extramedullary sites including central nervous system (CNS) and testicles, with fatigue, constitutional symptoms, dyspnea, dizziness, infections, and easy bruising or bleeding; in children, extremity or joint pain may be the only presenting symptom. Compared to B-ALL, T-ALL generally presents at older ages, is more often male (3:1 male:female predominance), and more often has higher white blood cell (WBC) counts and extramedullary disease including lymphadenopathy, mediastinal mass, and CNS involvement. Mediastinal mass is present in > 50% of patients with T-ALL and can compress adjacent organs causing dyspnea/airway obstruction and venous obstruction/facial edema/thrombosis; pleural and cardiac effusions can also be seen.
 
 ---
 
-### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^cdf8ffd2]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
+### Small cell lung cancer, version 2.2022, NCCN clinical practice guidelines in oncology [^116GN6fj]. Journal of the National Comprehensive Cancer Network (2021). High credibility.
 
 Small cell lung cancer — paraneoplastic syndromes are described across endocrine, neurologic, and hematologic domains, and "Presence does not imply metastases or incurability". Endocrine effects are "Due to ectopic peptide hormone production" and are "Usually reversible with successful anti-tumor therapy". Syndrome of inappropriate antidiuretic hormone secretion (SIADH) involves "Ectopic vasopressin (antidiuretic hormone, ADH) secretion" with "Clinically significant hyponatremia in 5%–10% of SCLC". Cushing syndrome reflects "Ectopic adrenocorticotropic hormone (ACTH) secretion" with possible "High serum cortisol and ACTH, hypernatremia, hypokalemia, alkalosis". Neurologic syndromes are uncommon as "All specific syndromes are rare" and include "Subacute cerebellar degeneration – ataxia, dysarthria", "Encephalomyelitis – confusion, obtundation, dementia", "Sensory neuropathy – pain, sensory loss", "Lambert-Eaton myasthenic syndrome (LEMS) – proximal muscle weakness, autonomic dysfunction", and "Cancer-associated retinopathy – visual loss, photosensitivity". Hematologic associations include "Anemia of chronic disease", "Leukemoid reaction – leukocytosis", and "Trousseau syndrome – migratory thrombophlebitis".
 
 ---
 
-### Myeloproliferative disorders and the hyperviscosity syndrome [^7b8eb0f5]. Emergency Medicine Clinics of North America (2009). Low credibility.
+### Myeloproliferative disorders and the hyperviscosity syndrome [^114ABQWg]. Emergency Medicine Clinics of North America (2009). Low credibility.
 
 Myeloproliferative disorders and the serum hyperviscosity syndrome can rapidly manifest with emergent presentations. Hyperviscosity occurs from pathologic elevations of either the cellular or acellular (protein) fractions of the circulating blood. Classic hyperviscosity syndrome presents with the triad of bleeding diathesis, visual disturbances and focal neurologic signs. Emergency medicine providers should be aware of these conditions and be prepared to rapidly initiate supportive and early definitive management, including plasma exchange and apharesis. Early consultation with a hematologist is essential to managing these complex patients.
 
 ---
 
-### Differential leukocyte count is associated with clinical phenotype in Parkinson's disease [^daeec4ff]. Journal of the Neurological Sciences (2020). Medium credibility.
+### Differential leukocyte count is associated with clinical phenotype in Parkinson's disease [^116baW3G]. Journal of the Neurological Sciences (2020). Medium credibility.
 
 Introduction
 
@@ -614,7 +614,7 @@ Components of peripheral blood leukocytes reflect some clinical symptoms of PD. 
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^f07e0fae]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^1179YNWH]. Blood Advances (2022). Medium credibility.
 
 Conclusions
 
@@ -622,31 +622,31 @@ We identify monocytosis in a substantial proportion of the general aging populat
 
 ---
 
-### Polycythemia vera: an appraisal of the biology and management 10 years after the discovery of JAK2 V617F [^03031eac]. Journal of Clinical Oncology (2015). Low credibility.
+### Polycythemia vera: an appraisal of the biology and management 10 years after the discovery of JAK2 V617F [^1115U1dD]. Journal of Clinical Oncology (2015). Low credibility.
 
 The disease polycythemia vera can be associated with DVT, night sweats, ↑ RBCs, generalized pruritus, ↓ serum EPO, ↑ hematocrit, nosebleed, erythromelalgia, central vein thrombosis, iron deficiency, tinnitus, bone pain, gastrointestinal bleeding, VTE, ICH, easy bruising, paresthesia, ↑ blood hemoglobin, ashkenazi Jews, gout, skin erythema, fever, digital ischemia, difficulty concentrating, abdominal discomfort, ↑ platelet count, fatigue, sweating, visual disturbances, ↑ blood neutrophil count, JAK2 gene mutation, superficial vein thrombosis, splenomegaly, chest pain, TIA, weight loss, stroke, dizziness, blurred vision, splanchnic vein thrombosis, early satiety, abdominal pain, headache, hypertension, aquagenic pruritus, confusion and acquired vWD.
 
 ---
 
-### A 14-year-old boy with fevers, cytopenias, and neurocognitive decline [^ef2cba69]. Pediatrics (2018). Low credibility.
+### A 14-year-old boy with fevers, cytopenias, and neurocognitive decline [^1177b4jA]. Pediatrics (2018). Low credibility.
 
 A 14-year-old boy presented to our institution with a 1-month history of neurocognitive decline and intermittent fevers. His history was significant for fevers, headaches, and a 10-lb weight loss. Previous examinations by multiple medical providers were significant only for bilateral cervical lymphadenopathy. Previous laboratory workup revealed leukopenia, neutropenia, and elevated inflammatory markers. Despite improvement in his laboratory values after his initial presentation, his fevers persisted, and he developed slowed and "jerky" movements, increased sleep, slurred speech, delusions, visual hallucinations, and deterioration in his school performance. A brain MRI performed at an outside hospital before admission at our institution was concerning for patchy, increased T2 and fluid-attenuated inversion recovery signal intensity in multiple areas, including the basal ganglia. After transfer to our institution and admission to the pediatric hospital medicine team, the patient had an acute decompensation. Our subspecialists will discuss the initial evaluation, workup, differential diagnosis, definitive diagnosis, and subsequent management of this patient.
 
 ---
 
-### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^80203b86]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^114GxF1f]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 Gene mutations associated with hereditary myeloid malignancy predisposition syndromes — GATA2 deficiency syndrome: Hematologic findings include bone marrow failure; monocytopenia/AML, MDS; B-/NK-/CD4-cell lymphocytopenia; highly penetrant. Other features include immune deficiency (ie, viral infections, warts, disseminated nontuberculous mycobacterial infections), a wide range of extra-hematopoietic manifestations (eg, lymphedema, sensorineural hearing loss, pulmonary alveolar proteinosis), megakaryocyte atypia, and pediatric MDS w/-7/ del(7q), trisomy 8, or der(1;7); somatic reversion events are possible.
 
 ---
 
-### Malignant or benign leukocytosis [^2580cc30]. Hematology: American Society of Hematology. Education Program (2012). Low credibility.
+### Malignant or benign leukocytosis [^111xbocB]. Hematology: American Society of Hematology. Education Program (2012). Low credibility.
 
 Leukocytosis, or elevated WBC count, is a commonly encountered laboratory finding. Distinguishing malignant from benign leukocytosis is a critical step in the care of a patient, which initiates a vastly different decision tree. Confirmation of the complete blood cell count and the WBC differential is the first step. Examination of the PB smear is essential to confirming the automated blood cell differential or affirming the manual differential performed on the PB smear. Next is separation of the leukocytosis into a myeloid versus a lymphoid process. Distinguishing a reactive lymphoid proliferation from a lymphoproliferative disorder requires examination of lymphocyte morphology for pleomorphic lymphocytes versus a monomorphic population, with the latter favoring a lymphoproliferative neoplasm. Samples suspicious for lymphoproliferative disorders can be confirmed and characterized by flow cytometry, with molecular studies initiated in select cases; precursor lymphoid neoplasms (lymphoblasts) should trigger a BM examination. Myeloid leukocytosis triggers a differential diagnosis of myeloid leukemoid reactions versus myeloid malignancies. The manual differential is key, along with correct enumeration of blasts and blast equivalents, immature granulocytes, basophils, and eosinophils and identifying dysplasia to identify myeloid malignancies. Confirmation and characterization of myeloid malignancies should be performed with a BM examination and the appropriate ancillary studies. Myeloid leukemoid reactions commonly result from infections and show activated neutrophil changes on morphology; these should prompt evaluation for infection. Other causes of reactive myeloid leukocytoses are also discussed herein.
 
 ---
 
-### Transient headache and neurological deficits with cerebrospinal fluid lymphocytosis syndrome: a comprehensive systematic review of 93 patients from 57 studies [^b8c92813]. Cephalalgia (2023). Medium credibility.
+### Transient headache and neurological deficits with cerebrospinal fluid lymphocytosis syndrome: a comprehensive systematic review of 93 patients from 57 studies [^115ixHhU]. Cephalalgia (2023). Medium credibility.
 
 Background
 
@@ -666,7 +666,7 @@ Headache with neurologic deficits and cerebrospinal fluid lymphocytosis tends to
 
 ---
 
-### Lower lymphocyte to monocyte ratio is a potential predictor of poor outcome in patients with cerebral venous sinus thrombosis [^2ed37f32]. Stroke and Vascular Neurology (2019). Medium credibility.
+### Lower lymphocyte to monocyte ratio is a potential predictor of poor outcome in patients with cerebral venous sinus thrombosis [^112CRUFj]. Stroke and Vascular Neurology (2019). Medium credibility.
 
 Methods
 
@@ -688,7 +688,7 @@ All statistical analyses were performed using SPSS V.19.0 software. Continuous v
 
 ---
 
-### Expert perspective: hematologic malignancies and vasculitis [^b03a40da]. Arthritis & Rheumatology (2025). Medium credibility.
+### Expert perspective: hematologic malignancies and vasculitis [^115WGPTw]. Arthritis & Rheumatology (2025). Medium credibility.
 
 Collectively, we consider VEXAS in patients with robust adult‐onset multisystem inflammation with or without vasculitis, especially, though not universally, if cytopenia or macrocytosis is present and the patient is male, with a broader differential diagnosis including myeloid neoplasia with inflammatory features. LVV appears to be an uncommon phenotype. Testing should ideally include whole‐gene UBA1 sequencing, not limited amplicon testing at M41, and is commercially available from companies such as the Genomic Testing Cooperative and Blueprint Genetics. This can currently be performed by rheumatology or hematology/oncology, but in the future, it is most likely to be incorporated into hematologic clinical NGS mutation panels for hematologic malignancy.
 
@@ -698,7 +698,7 @@ Hematology consultation should be pursued in patients with vasculitis and cytope
 
 ---
 
-### Olanzapine (Zyprexa) [^699d1a1d]. FDA (2025). Medium credibility.
+### Olanzapine (Zyprexa) [^113haUBe]. FDA (2025). Medium credibility.
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
 
@@ -722,19 +722,19 @@ Esophageal dysmotility and aspiration have been associated with antipsychotic dr
 
 ---
 
-### Leukocytosis [^6bc75f68]. International Journal of Laboratory Hematology (2014). Low credibility.
+### Leukocytosis [^113kneFH]. International Journal of Laboratory Hematology (2014). Low credibility.
 
 Among other possible causes, increased blood lymphocyte count can be caused by thyrotoxicosis factitia, Chagas disease, Epstein-Barr virus infection, tuberculosis, cytomegalovirus infection, pertussis, hepatitis A virus infection, hepatitis B virus infection, hairy cell leukemia, congenital syphilis, chronic lymphocytic leukemia, multiple myeloma, rubella virus infection, infectious mononucleosis, whooping cough, secondary syphilis, brucellosis, toxoplasma, non-Hodgkin lymphoma, Burkitt's lymphoma, acute lymphoblastic leukemia, serum sickness, X-linked lymphoproliferative disease and Waldenstrom's macroglobulinemia. In addition, increased blood lymphocyte count can be caused by medications such as phenytoin, ethotoin, phenytoin ER, azithromycin, acalabrutinib, bexarotene, idelalisib, venlafaxine, cefaclor, ofloxacin, ibrutinib, ceftazidime, valproic acid, citalopram, emapalumab, ceftriaxone, isoproterenol, mirdametinib, divalproex ER, divalproex DR and valproate.
 
 ---
 
-### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^440f5d63]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
+### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^112juKVc]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
 MDS or MDS/MPN overlap syndromes symptom control and monitoring indicate that hydroxyurea may be helpful in decreasing excessive leukocytosis or thrombocytosis for the subtypes described above (except for BPDCN), and for these patients observation may be considered to document indolent course versus marked progression of severe cytopenia or increase in blasts.
 
 ---
 
-### Chorea and the effectiveness of steroids in a patient with the syndrome of transient headache with neurologic deficits and cerebrospinal fluid lymphocytosis: a case report [^2fd0212a]. Journal of Pain Research (2019). Medium credibility.
+### Chorea and the effectiveness of steroids in a patient with the syndrome of transient headache with neurologic deficits and cerebrospinal fluid lymphocytosis: a case report [^112DtKwF]. Journal of Pain Research (2019). Medium credibility.
 
 Clinical implications
 
@@ -742,7 +742,7 @@ The transient neurological symptoms of HaNDL may include chorea. Short-term use 
 
 ---
 
-### Clinical management of CMML-state of the art [^228fb556]. British Journal of Haematology (2025). Medium credibility.
+### Clinical management of CMML-state of the art [^111tErFF]. British Journal of Haematology (2025). Medium credibility.
 
 Increasingand hyperleucocytosis
 
@@ -758,25 +758,25 @@ Patients who are symptomatic with certain types of inflammation, including non�
 
 ---
 
-### Prognostic value of leukocytosis and lymphopenia for coronavirus disease severity [^de2e82af]. Emerging Infectious Diseases (2020). Medium credibility.
+### Prognostic value of leukocytosis and lymphopenia for coronavirus disease severity [^116gPsfC]. Emerging Infectious Diseases (2020). Medium credibility.
 
 To evaluate lymphopenia as a marker for coronavirus disease severity, we conducted a meta-analysis of 10 studies. Severe illness was associated with lower lymphocyte and higher leukocyte counts. Using these markers for early identification of patients with severe disease may help healthcare providers prioritize the need to obtain therapy.
 
 ---
 
-### ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells [^985d6813]. Biology of Blood and Marrow Transplantation (2019). High credibility.
+### ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells [^114ttVYN]. Biology of Blood and Marrow Transplantation (2019). High credibility.
 
 ASTCT consensus — cytokine release syndrome (CRS) symptom attribution and timing requires that symptoms be linked to immune effector cell engagement, other causes be excluded, and a temporal relationship to cell therapy be present; CRS may have delayed onset but rarely presents beyond 14 days after initiation of therapy, and cases outside this window should be carefully evaluated for other causes.
 
 ---
 
-### Acute bacterial meningitis in adults [^2b958e4b]. Lancet (2016). Excellent credibility.
+### Acute bacterial meningitis in adults [^1127chhc]. Lancet (2016). Excellent credibility.
 
 The disease acute bacterial meningitis can be associated with otitis media with effusion, head trauma, ↓ CSF glucose to serum glucose ratio, vomiting, acute rhinosinusitis, somnolence, lower limb paresis, fever, cranial nerve palsy, nausea, phonophobia, focal neurologic deficit, loss of appetite, anisocoria, headache, difficulty walking, myalgia, ecchymosis, ⊕ CSF gram stain, malaise, ↓ CSF glucose, immunocompromising condition, recent brain surgery, mastoiditis, papilledema, ↑ CSF lactate, ↑ CSF protein, photophobia, ↑ serum CRP, arthralgia, coma, skin rash, jolt accentuation of headache, pneumonia, seizure, ↑ serum lactate, ↑ ESR, shock, neck pain, purpura, ↑ CSF WBC count, confusion, altered mental status, neck stiffness, dizziness, ↑ WBC count and petechiae.
 
 ---
 
-### Treatment of cerebral histiocytosis with low dose of cobimetinib: a report of 2 cases [^c0a2a0d9]. Neurology (2024). Medium credibility.
+### Treatment of cerebral histiocytosis with low dose of cobimetinib: a report of 2 cases [^115vbFMz]. Neurology (2024). Medium credibility.
 
 Case Presentations
 
@@ -791,7 +791,7 @@ The patient presenting with subcortical edematous lesions in T2-weighted cranial
 
 ---
 
-### Lower lymphocyte to monocyte ratio is a potential predictor of poor outcome in patients with cerebral venous sinus thrombosis [^1627e62c]. Stroke and Vascular Neurology (2019). Medium credibility.
+### Lower lymphocyte to monocyte ratio is a potential predictor of poor outcome in patients with cerebral venous sinus thrombosis [^111Zr8Vq]. Stroke and Vascular Neurology (2019). Medium credibility.
 
 Results
 
@@ -801,7 +801,7 @@ The duration of follow-up was 22 months (6–66 months) and 41 patients were def
 
 ---
 
-### Clinical considerations and key issues in the management of patients with Erdheim-Chester disease: a seven case series [^a1b44b3b]. BMC Medicine (2014). Low credibility.
+### Clinical considerations and key issues in the management of patients with Erdheim-Chester disease: a seven case series [^1158jZnA]. BMC Medicine (2014). Low credibility.
 
 Patient #5
 
@@ -809,7 +809,7 @@ A 53-year-old man of Libyan descent sought medical attention in November 2012 du
 
 ---
 
-### Omeprazole [^52cce18d]. FDA (2025). Medium credibility.
+### Omeprazole [^1137koWk]. FDA (2025). Medium credibility.
 
 Infections and Infestations: Clostridium difficile- associated diarrhea
 
@@ -833,7 +833,7 @@ Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutr
 
 ---
 
-### Haloperidol decanoate [^faa88f4e]. FDA (2025). Medium credibility.
+### Haloperidol decanoate [^117QcXG9]. FDA (2025). Medium credibility.
 
 Leukopenia, Neutropenia, and Agranulocytosis
 
@@ -845,13 +845,13 @@ Patients with clinically significant neutropenia should be carefully monitored f
 
 ---
 
-### Pleocytosis in cerebrospinal fluid attributed to ischemic stroke: a review of the literature [^aa99a97a]. Journal of the Neurological Sciences (2023). Medium credibility.
+### Pleocytosis in cerebrospinal fluid attributed to ischemic stroke: a review of the literature [^115MvWV7]. Journal of the Neurological Sciences (2023). Medium credibility.
 
 Among other possible causes, increased cerebrospinal fluid lymphocyte count can be caused by aseptic meningitis, acute viral meningitis, tuberculous meningitis, neurosarcoidosis, Listeria meningitis, cryptococcal meningitis, neurosyphilis, brucellosis, central nervous system toxoplasmosis, leptomeningeal carcinomatosis, poliomyelitis, secondary syphilis, Mycobacterium tuberculosis infection, human monocytotropic ehrlichiosis, West African sleeping sickness, east African sleeping sickness, systemic lupus erythematosus, sarcoidosis, multiple sclerosis, familial histiocytic reticulosis and Lyme disease.
 
 ---
 
-### Penicillamine [^0cce0db8]. FDA (2025). Medium credibility.
+### Penicillamine [^111Kz4dV]. FDA (2025). Medium credibility.
 
 Isolated cases of reactivated peptic ulcer have occurred, as have hepatic dysfunction including hepatic failure, and pancreatitis. Intrahepatic cholestasis and toxic hepatitis have been reported rarely. There have been a few reports of increased serum alkaline phosphatase, lactic dehydrogenase, and positive cephalin flocculation and thymol turbidity tests.
 
@@ -867,7 +867,7 @@ Thrombotic thrombocytopenic purpura, hemolytic anemia, red cell aplasia, monocyt
 
 ---
 
-### Cysteamine bitartrate (Procysbi) [^0f5bfdc2]. FDA (2025). Medium credibility.
+### Cysteamine bitartrate (Procysbi) [^111PmiMw]. FDA (2025). Medium credibility.
 
 5.5 Central Nervous System Symptoms
 
@@ -883,7 +883,7 @@ Benign intracranial hypertension (pseudotumor cerebri; PTC) and/or papilledema h
 
 ---
 
-### Leukocytosis and tobacco use: an observational study of asymptomatic leukocytosis [^e00a16de]. The American Journal of Medicine (2021). Medium credibility.
+### Leukocytosis and tobacco use: an observational study of asymptomatic leukocytosis [^116j9cgV]. The American Journal of Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -903,37 +903,37 @@ Tobacco-induced leukocytosis was characterized by a mild elevation in total whit
 
 ---
 
-### Too many white cells-TAM, JMML, or something else? [^70a86264]. Hematology: American Society of Hematology. Education Program (2023). Medium credibility.
+### Too many white cells-TAM, JMML, or something else? [^113t2AxK]. Hematology: American Society of Hematology. Education Program (2023). Medium credibility.
 
 Leukocytosis is a common finding in pediatric patients, and the differential diagnosis can be broad, including benign reactive leukocytosis and malignant myeloproliferative disorders. Transient abnormal myelopoiesis is a myeloproliferative disorder that occurs in young infants with constitutional trisomy 21 and somatic GATA1 mutations. Most patients are observed, but outcomes span the spectrum from spontaneous resolution to life-threatening complications. Juvenile myelomonocytic leukemia is a highly aggressive myeloproliferative disorder associated with altered RAS-pathway signaling that occurs in infants and young children. Treatment typically involves hematopoietic stem cell transplantation, but certain patients can be observed. Early recognition of these and other myeloproliferative disorders is important and requires a clinician to be aware of these diagnoses and have a clear understanding of their presentations. This paper discusses the presentation and evaluation of leukocytosis when myeloproliferative disorders are part of the differential and reviews different concepts regarding treatment strategies.
 
 ---
 
-### Chronic myeloid leukemia: a review [^bf39c7b5]. JAMA (2025). Excellent credibility.
+### Chronic myeloid leukemia: a review [^115tW3UQ]. JAMA (2025). Excellent credibility.
 
 The disease chronic myeloid leukemia can be associated with fatigue, early satiety, ↑ blood blast cells, ↓ platelet count, dyspnea, immunocompromising condition, retinal hemorrhage, headache, somnolence, confusion, weight loss, bone pain, gastrointestinal bleeding, night sweats, splenomegaly, LUQ pain, malaise, hepatomegaly, anemia, ↑ blood basophils, ↑ blood eosinophil count, arthralgia, abdominal pain, ↑ WBC count, philadelphia chromosome, fever, priapism and BCR-ABL1 fusion gene.
 
 ---
 
-### A cryptic BCR-PDGFRB fusion resulting in a chronic myeloid neoplasm with monocytosis and eosinophilia: a novel finding with treatment implications [^2a16b7bc]. Journal of the National Comprehensive Cancer Network (2020). Medium credibility.
+### A cryptic BCR-PDGFRB fusion resulting in a chronic myeloid neoplasm with monocytosis and eosinophilia: a novel finding with treatment implications [^1125Q7Qw]. Journal of the National Comprehensive Cancer Network (2020). Medium credibility.
 
 RNA-seq was used to identify the partner gene and confirm the presence of a BCR-PDGFRB fusion. Identification of this fusion product resulted in successful treatment and long-term remission of this myeloid neoplasm. Based on our results, we suggest that despite current WHO recommendations, screening for PDGFRB rearrangement in cases of leukocytosis with eosinophilia and no other etiologic explanation is necessary, even if the karyotype is normal.
 
 ---
 
-### How I diagnose and treat chronic myelomonocytic leukemia [^cff0961e]. Haematologica (2022). Medium credibility.
+### How I diagnose and treat chronic myelomonocytic leukemia [^116KHFLR]. Haematologica (2022). Medium credibility.
 
 Reactive monocytosis is very common in practice and while viral infections and recovering bone marrow (from injury, drugs or chemotherapy) are frequent causes, sustained reactive monocytosis is more common in chronic infections such as subacute bacterial endocarditis, tuberculosis, brucellosis, leishmaniasis and leprosy and in autoimmune/inflammatory disorders such as systemic lupus erythematosus, sarcoidosis and mixed connective tissue disorder. Reactive monocytosis can also be seen in the context of metastatic visceral neoplasms, either due to enhanced mobilization of monocytes from the bone marrow, or due to increased monopoiesis mediated by CCL2 (C-C motif chemokine ligand 2).
 
 ---
 
-### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^5d559ed0]. MMWR: Recommendations and Reports (2016). Medium credibility.
+### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^113PNcEB]. MMWR: Recommendations and Reports (2016). Medium credibility.
 
 Ehrlichioses clinical features (Box 4) — Ehrlichia chaffeensis, Ehrlichia ewingii, and Ehrlichia muris-like (EML) agent: Symptoms of E. chaffeensis typically include fever, headache, malaise, myalgia, and gastrointestinal symptoms, with rash present in approximately one third of patients and more common among children than adults; neurologic manifestations are reported for approximately 20% of patients, and increased severity has been associated with increased age (≥ 60 years) and immunosuppression. In E. chaffeensis, leukopenia, thrombocytopenia, and elevated hepatic transaminase levels are characteristic in the first week; E. chaffeensis has a predilection for mononuclear phagocytic cells and morulae might be observed in monocytes of the blood, cerebrospinal fluid (CSF), or bone marrow phagocytes. E. ewingii ehrlichiosis has similar clinical features but rash and gastrointestinal symptoms are less common, and E. ewingii has a predilection for granulocytes with morulae observed in granulocytes of the blood, CSF, or bone marrow. Signs and symptoms of EML agent ehrlichiosis are similar to those of E. ewingii ehrlichiosis, the target cell type is not known, and the case-fatality rate for E. chaffeensis is approximately 3% with no deaths from E. ewingii or EML agent ehrlichiosis reported.
 
 ---
 
-### Prochlorperazine [^1b09e7a9]. FDA (2023). Medium credibility.
+### Prochlorperazine [^111h5zaC]. FDA (2023). Medium credibility.
 
 PRECAUTIONS
 
@@ -947,13 +947,13 @@ The antiemetic action of prochlorperazine may mask the signs and symptoms of ove
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^a48505db]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^115CueiE]. Blood Advances (2022). Medium credibility.
 
 Only a small proportion of older individuals with monocytosis developed a myeloid malignancy. It might be that a long latency period is required for a very early stage of clonal monocytosis to develop into malignant disease. In addition, supported by a higher level of inflammatory marker high-sensitivity C-reactive protein and other WBC counts, a major proportion of individuals in this study probably suffered from reactive monocytosis despite the presence of CH. Clearly, CH in the presence of monocytosis does not directly imply the presence of a clonal monocyte proliferation with malignant potential. This stresses the fact that mutational screening should not be used as an isolated screening tool to distinguish CMML, oligomonocytic CMML, and other potential CMML prestagesfrom a reactive monocytosis, especially when more liberal criteria (eg, concentrations of 0.5 to 1.0 × 10 9 /L) to define a PB monocytosis are applied and other diagnostic criteria are not met. Indeed, this also questions whether all clonal genetic lesions in the presence of unexplained, persistent monocytosis may support a diagnosis of CMML, as it is currently used in the 2016 WHO criteria. For example, we previously described the clonal evolution of a CMML case which was remarkably stable and whose diagnosis could be questioned in hindsight. The combination of TET2 and SRSF2 mutations, in contrast, was associated with clonal expansion of monocytic cells, which confirms the specificity of this mutational spectrum for myelomonocytic disorders.
 
 ---
 
-### Sargramostim (Leukine) [^3254db69]. FDA (2024). Medium credibility.
+### Sargramostim (Leukine) [^112HctEt]. FDA (2024). Medium credibility.
 
 10 OVERDOSAGE
 
@@ -963,7 +963,7 @@ In case of overdosage, discontinue LEUKINE therapy and monitor the patient for W
 
 ---
 
-### Baylisascaris procyonis-associated meningoencephalitis in a previously healthy adult, California, USA [^2111897d]. Emerging Infectious Diseases (2016). Low credibility.
+### Baylisascaris procyonis-associated meningoencephalitis in a previously healthy adult, California, USA [^111r2Ux4]. Emerging Infectious Diseases (2016). Low credibility.
 
 Case Report
 
@@ -976,13 +976,13 @@ Over the next 3 days, the patient sustained precipitous cognitive and functional
 
 ---
 
-### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^7f9000ae]. Academic Emergency Medicine (2023). High credibility.
+### Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): acute dizziness and vertigo in the emergency department [^114G7oBs]. Academic Emergency Medicine (2023). High credibility.
 
 Diagnostic paradigm and terminology — the traditional diagnostic paradigm, developed 50 years ago, based on symptom quality and asking the patient "What do you mean by dizzy?", suggests basing the differential diagnosis and clinical evaluation on the patient's description, but this paradigm was never properly validated, has significant methodological flaws, and does not reliably predict underlying causes; the Barany Society has developed formal international consensus criteria, terminology, and definitions for many vestibular disorders, and the writing committee has tried to use terms aligned with these consensus definitions that make sense to frontline clinicians.
 
 ---
 
-### Prochlorperazine maleate [^5d891aff]. FDA (2025). Medium credibility.
+### Prochlorperazine maleate [^113PfuEn]. FDA (2025). Medium credibility.
 
 PRECAUTIONS
 
@@ -998,7 +998,7 @@ The antiemetic action of prochlorperazine may mask the signs and symptoms of ove
 
 ---
 
-### Progressive neurologic disorder: initial manifestation of hemophagocytic lymphohistiocytosis [^6454bdf1]. Neurology (2016). Low credibility.
+### Progressive neurologic disorder: initial manifestation of hemophagocytic lymphohistiocytosis [^113ZkE64]. Neurology (2016). Low credibility.
 
 Case report.
 
@@ -1006,7 +1006,7 @@ A 14-year-old Caucasian female presented with a 3-month history of headaches, pr
 
 ---
 
-### Isolated congenital asplenia: an overlooked cause of thrombocytosis [^20ae21a0]. American Journal of Hematology (2022). Medium credibility.
+### Isolated congenital asplenia: an overlooked cause of thrombocytosis [^111qT6NT]. American Journal of Hematology (2022). Medium credibility.
 
 1 CASE PRESENTATION
 
@@ -1021,19 +1021,19 @@ During the visit, we performed additional blood tests. A complete blood count re
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^7c262ffa]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^114B4Htu]. Blood Advances (2022). Medium credibility.
 
 This population of community-dwelling individuals, as well as the results from this study, are considerably different from the cohort presented by Cargo and colleaguesthat evaluated patients presenting in hematology practice for the evaluation of monocytosis. In that study, individuals with clinically significant monocytosis but not (yet) meeting WHO criteria were found to have a mutational spectrum and clinical outcome indistinguishable from WHO-defined CMML. The median VAF in our study was 2.7%, compared with 39% in the study by Cargo and colleagues. Although various differences in sequencing technique and sensitivity may be noted between these studies, this is unlikely to explain the substantial differences in the mutational spectrum associated with monocytosis. Our cohort comprised unselected community-dwelling individuals for whom monocytosis was detected incidentally at study inclusion, without known associated health complaints. Indeed, there was a relatively low prevalence of accompanying cytopenias compared with diagnosed CMML patients. The clinical study by Cargo and colleagues probably included individuals with a more advanced stage and more suspect of overt clonal myeloid disease. Thus, the meaning of CH in the context of monocytosis presumably depends on the clinical burden of monocytosis and may very well be a continuum of (stepwise) clonal outgrowth and progression.
 
 ---
 
-### ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells [^b2a29fcf]. Biology of Blood and Marrow Transplantation (2019). High credibility.
+### ASTCT consensus grading for cytokine release syndrome and neurologic toxicity associated with immune effector cells [^115ZqRLa]. Biology of Blood and Marrow Transplantation (2019). High credibility.
 
 ASTCT consensus — laboratory parameters are not included in the definition or grading of CRS; although C-reactive protein (CRP) is widely available, it is not specific for CRS and changes in CRP can lag behind clinical changes by at least 12 hours, so grading favors clinical observation while continued measurement of cytokines, CRP, ferritin, and other parameters is encouraged for future study.
 
 ---
 
-### Proposed diagnostic criteria for classical chronic myelomonocytic leukemia (CMML), CMML variants and pre-CMML conditions [^d17a35e4]. Haematologica (2019). Medium credibility.
+### Proposed diagnostic criteria for classical chronic myelomonocytic leukemia (CMML), CMML variants and pre-CMML conditions [^116MZTkX]. Haematologica (2019). Medium credibility.
 
 Oligomonocytic CMML
 
@@ -1043,19 +1043,19 @@ Whereas several of these cases remain stable without progression, the majority w
 
 ---
 
-### A man in his 40s with headache, lethargy, and altered mental status [^57439f34]. JAMA Neurology (2015). Medium credibility.
+### A man in his 40s with headache, lethargy, and altered mental status [^113ENdu5]. JAMA Neurology (2015). Medium credibility.
 
 A man in his 40s presented with 1 month of worsening confusion, fatigue, and headache. Results from laboratory analyses were notable for a complete white blood cell count of 17 000/μL (31% blast cells), a platelet count of 76 000/μL, and a hemoglobin level of 16.6 g/dL. Imaging studies revealed a large mixed-attenuation subdural collection in the right frontal region with prominent mass effect. The patient underwent an emergency neurosurgical procedure. The differential diagnosis, pathologic findings, and diagnosis are discussed.
 
 ---
 
-### Paraneoplastic hyperleukocytosis mimicking hematologic malignancy revealing a localized lung cancer [^c17d2906]. The Annals of Thoracic Surgery (2020). Medium credibility.
+### Paraneoplastic hyperleukocytosis mimicking hematologic malignancy revealing a localized lung cancer [^115wrei1]. The Annals of Thoracic Surgery (2020). Medium credibility.
 
 Paraneoplastic leukemoid reaction is a challenging differential diagnosis when it presents at the time of diagnosis of cancer. Severe hyperleukocytosis with elevation of blood neutrophils and monocytes counts can evoke myeloid hematologic malignancies. We report the case of a patient who presented with blood and bone marrow features highly suggestive of chronic myelomonocytic leukemia. The diagnosis of primary lung sarcomatoid carcinoma was performed. Surgical removal of this tumor which will always remain the priority led to full normalization of blood cell count.
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^60c13c29]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^113USiaL]. Blood Advances (2022). Medium credibility.
 
 Key Points
 
@@ -1064,7 +1064,7 @@ Few community-based individuals with monocytosis and CH develop myeloid malignan
 
 ---
 
-### Clinical management of CMML-state of the art [^7b31aa3b]. British Journal of Haematology (2025). Medium credibility.
+### Clinical management of CMML-state of the art [^1149eADQ]. British Journal of Haematology (2025). Medium credibility.
 
 Summary
 
@@ -1072,31 +1072,31 @@ Chronic myelomonocytic leukaemias (CMML) are myeloid neoplasms characterized by 
 
 ---
 
-### A new approach to the diagnosis of acute dizziness in adult patients [^157f3d08]. Emergency Medicine Clinics of North America (2016). Low credibility.
+### A new approach to the diagnosis of acute dizziness in adult patients [^111YsUis]. Emergency Medicine Clinics of North America (2016). Low credibility.
 
 Dizziness is a common chief complaint in emergency medicine. The differential diagnosis is broad and includes serious conditions, such as stroke, cardiac arrhythmia, hypovolemic states, and acute toxic and metabolic disturbances. Emergency physicians must distinguish the majority of patients who suffer from benign self-limiting conditions from those with serious illnesses that require acute treatment. Misdiagnoses are frequent and diagnostic test costs high. The traditional approach does not distinguish benign from dangerous causes and is not consistent with best current evidence. This article presents a new approach to the diagnosis of acutely dizzy patients that highly leverages the history and the physical examination.
 
 ---
 
-### Clinical management of CMML-state of the art [^8f21e150]. British Journal of Haematology (2025). Medium credibility.
+### Clinical management of CMML-state of the art [^114fCcLX]. British Journal of Haematology (2025). Medium credibility.
 
 Chronic myelomonocytic leukaemias (CMML) are myeloid neoplasms characterized by a sustained increase in monocyte counts in the peripheral blood, accompanied by dysplasia, abnormal proliferation, chromosomal anomalies and somatic mutations of haematopoietic cells. More than 95% of CMML patients harbour somatic mutations. CMML must be separated from other myeloid neoplasms and reactive monocytosis. The clinical presentation of CMML varies, but most frequently shows signs and symptoms of haematopoietic insufficiency or myeloproliferation. Robust instruments are available for assessing the prognosis of patients with CMML, such as the CMML-specific prognostic scoring system molecular. Treatment options for patients with CMML are still inadequate and generally less effective than those for other myeloid neoplasms. The only curative approach is allogeneic stem cell transplantation. This article explains essential aspects of CMML pathophysiology and provides an overview of diagnostic considerations, prognostic assessment and therapeutic options.
 
 ---
 
-### Prognostic value of leukocytosis and lymphopenia for coronavirus disease severity [^80faa20b]. Emerging Infectious Diseases (2020). Medium credibility.
+### Prognostic value of leukocytosis and lymphopenia for coronavirus disease severity [^114JDbo8]. Emerging Infectious Diseases (2020). Medium credibility.
 
 The incidence of coronavirus disease (COVID-19), caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), has spread rapidly globally; as of March 29, 2020, ≈670,000 cases had been confirmed worldwide. COVID-19 is typically a pulmonary infection that can range from mild illness to acute respiratory distress syndrome and multiple organ failure; however, other symptoms such as myalgias and anorexia have been noted. Although many ongoing studies are investigating measurement of proinflammatory cytokines and other biomarkers as a way to prognosticate infection severity, we investigated use of 2 easily obtained predictors: lymphopenia and leukocytosis.
 
 ---
 
-### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^65979d3a]. MMWR: Recommendations and Reports (2016). Medium credibility.
+### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^113bcg9P]. MMWR: Recommendations and Reports (2016). Medium credibility.
 
 Anaplasmosis — laboratory findings: Characteristic laboratory abnormalities include thrombocytopenia, leukopenia, elevated hepatic transaminase levels, increased immature neutrophils, and mild anemia; lymphocytosis can be present during recovery. Cerebrospinal fluid (CSF) evaluation typically does not reveal abnormalities. Blood smear examination might reveal morulae within granulocytes.
 
 ---
 
-### Prochlorperazine edisylate [^5e8d0a2d]. FDA (2025). Medium credibility.
+### Prochlorperazine edisylate [^113RBDAc]. FDA (2025). Medium credibility.
 
 PRECAUTIONS
 
@@ -1112,7 +1112,7 @@ Prochlorperazine's antiemetic action may mask signs and symptoms of overdosage o
 
 ---
 
-### Comparing malignant monocytosis across the updated WHO and ICC classifications of 2022 [^e70f3e70]. Blood (2024). Medium credibility.
+### Comparing malignant monocytosis across the updated WHO and ICC classifications of 2022 [^116uZG5D]. Blood (2024). Medium credibility.
 
 Introduction
 
@@ -1122,7 +1122,7 @@ Because of constant technological advancement and a rapidly evolving knowledge b
 
 ---
 
-### Human monocytotropic ehrlichiosis, Missouri [^1931b637]. Emerging Infectious Diseases (2003). Low credibility.
+### Human monocytotropic ehrlichiosis, Missouri [^111eMPWW]. Emerging Infectious Diseases (2003). Low credibility.
 
 Our failure to isolate E. chaffeensis from these cases is most likely related to the delay in inoculating the blood samples of patients with HME into cell culture. The interval between blood sampling and inoculation may play a critical role when attempts to obtain isolates of E. chaffeensis are made.
 
@@ -1132,13 +1132,13 @@ Comparison of the case-patient group and the control group revealed the importan
 
 ---
 
-### Clinical reasoning: progressive headache and diplopia in an 89-year-old man [^5eed58fb]. Neurology (2025). Medium credibility.
+### Clinical reasoning: progressive headache and diplopia in an 89-year-old man [^113RjZPp]. Neurology (2025). Medium credibility.
 
 An 89-year-old man presented with a 3-year history of chronic daily headaches that significantly worsened over the past 4 months. Initially episodic, the left-sided headaches became continuous and were accompanied by systemic symptoms such as weight loss and elevated inflammatory markers, specifically C-reactive protein and erythrocyte sedimentation rate. Over subsequent weeks, the neurologic examination revealed new-onset left-sided ophthalmoplegia, ptosis, and marked visual acuity loss. This article explores the differential diagnosis for such a complex clinical presentation and highlights how a systematic diagnostic approach can guide clinicians toward the correct diagnosis.
 
 ---
 
-### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^07af94ca]. Blood Advances (2022). Medium credibility.
+### Monocytosis and its association with clonal hematopoiesis in community-dwelling individuals [^111CPta5]. Blood Advances (2022). Medium credibility.
 
 Figure 1.
 The emergence of monocytosis with aging in community-dwelling individuals. (A) Change in absolute monocyte counts with increasing age for evaluable male (n = 60 088) and female (n = 84 588) participants in the Lifelines cohort. Squares denote means, with error bars representing standard deviations of monocyte counts in the respective age category. (B) Prevalence of monocytosis according to age for the entire evaluable Lifelines cohort (n = 144 676). Bars are colored according to the sex of individuals with monocytosis: male (blue) or female (red). (C) Prevalence of monocytosis according to different proposed cutoff criteria within the entire evaluable younger (< 60 years, n = 122 947) and older (≥ 60 years, n = 21 729) Lifelines cohort.
@@ -1148,13 +1148,13 @@ Characteristics and PB counts of community-dwelling individuals at least 60 year
 
 ---
 
-### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^8c72b381]. MMWR: Recommendations and Reports (2016). Medium credibility.
+### Diagnosis and management of tickborne rickettsial diseases: rocky mountain spotted fever and other spotted fever group rickettsioses, ehrlichioses, and anaplasmosis-United States [^114bDo1i]. MMWR: Recommendations and Reports (2016). Medium credibility.
 
 Ehrlichia chaffeensis ehrlichiosis (human monocytic ehrlichiosis) — clinical features and outcomes include an incubation of 5–14 days with fever, headache, malaise, myalgia, nausea, diarrhea, and vomiting; rash occurs in approximately 30% of adults and 60% of children with a variable pattern that might involve palms and soles and appears a median of 5 days after illness onset; laboratory findings include leukopenia, thrombocytopenia, increased hepatic transaminase levels, hyponatremia, and anemia; estimated case-fatality rate is 3%.
 
 ---
 
-### Myelopoiesis is temporally dynamic and is regulated by lifestyle to modify multiple sclerosis [^e7f5f13d]. Nature Communications (2025). High credibility.
+### Myelopoiesis is temporally dynamic and is regulated by lifestyle to modify multiple sclerosis [^116vtkSY]. Nature Communications (2025). High credibility.
 
 Lifestyle factors are contributing to an increase in MS. While many environmental factors can influence MS — including Epstein-Barr virus or cytomegalovirus infections, smoking, sun exposure, and tobacco use — obesity, hyperlipidemia, and sleep disruption are among the most recognized. There appears to be a critical window during adolescence when high BMI strongly increases the likelihood of MS –. Similarly, shift work, insufficient or disrupted sleep raise the risk of MS –. The mechanistic pathways that link obesity and sleep disruption to MS are unclear. Our data propose myeloid cell generation as one biological process that connects lifestyle factors, including dyslipidemia and sleep disruption, to MS. The mechanisms by which hyperlipidemia or sleep disruption augment myelopoiesis is an area of active research and have not been tested in the setting of MS. Elevated levels of cholesterol can incorporate in the HSC cell membrane disrupting integrity and leading to increased responsiveness to hematopoietic growth factors including IL-3 and M-CSF. Sleep disruption also augments myelopoiesis through its modulation of growth factor signaling. Hypocretin limits the production of M-CSF in the BM by a population of pre-neutrophils. Therefore, when hypocretin levels are low, as occurs during sleep fragmentation, BM M-CSF abundance increases leading to HSC proliferation and monocytosis. These and alternative molecular mechanisms will need to be tested in MS and its murine models.
 
@@ -1164,25 +1164,25 @@ Our data begin to elucidate the temporal dynamics of myelopoiesis in MS and its 
 
 ---
 
-### A child with transient neurologic deficits and headache associated with cerebrospinal fluid pleocytosis [^514c3cf6]. Journal of Child Neurology (2005). Low credibility.
+### A child with transient neurologic deficits and headache associated with cerebrospinal fluid pleocytosis [^1135Xc4m]. Journal of Child Neurology (2005). Low credibility.
 
 We report a case of a 10-year-old girl who had several episodes of severe headache, altered consciousness, and temporary neurologic signs and symptoms within a 2-month period. Cerebrospinal fluid examination showed lymphocytic pleocytosis and increased protein. Extensive microbiologic investigation and neuroimaging studies were negative. Cerebrospinal fluid findings were normalized within a 3-month period, and the patient has not had further episodes through 15 months of follow-up. This combination of symptoms represents a benign, monophasic illness without further progression. The etiology, however, remains unclear.
 
 ---
 
-### Peripheral blood smear reveals human granulocytic anaplasmosis, a rare cause of hemophagocytic lymphohistiocytosis [^6f33e040]. American Journal of Hematology (2025). Medium credibility.
+### Peripheral blood smear reveals human granulocytic anaplasmosis, a rare cause of hemophagocytic lymphohistiocytosis [^113qs3uZ]. American Journal of Hematology (2025). Medium credibility.
 
 The differential diagnosis for secondary hemophagocytic lymphohistiocytosis includes infectious, malignant, and autoimmune causes.
 
 ---
 
-### Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages [^278b780b]. Nature Reviews: Immunology (2020). High credibility.
+### Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages [^1121dN4i]. Nature Reviews: Immunology (2020). High credibility.
 
 The COVID-19 pandemic caused by infection with SARS-CoV-2 has led to more than 200,000 deaths worldwide. Several studies have now established that the hyperinflammatory response induced by SARS-CoV-2 is a major cause of disease severity and death in infected patients. Macrophages are a population of innate immune cells that sense and respond to microbial threats by producing inflammatory molecules that eliminate pathogens and promote tissue repair. However, a dysregulated macrophage response can be damaging to the host, as is seen in the macrophage activation syndrome induced by severe infections, including in infections with the related virus SARS-CoV. Here we describe the potentially pathological roles of macrophages during SARS-CoV-2 infection and discuss ongoing and prospective therapeutic strategies to modulate macrophage activation in patients with COVID-19.
 
 ---
 
-### Omeprazole magnesium (Prilosec) [^d0a05a12]. FDA (2024). Medium credibility.
+### Omeprazole magnesium (Prilosec) [^116LJHXF]. FDA (2024). Medium credibility.
 
 Infections and Infestations: Clostridium difficile -associated diarrhea
 
@@ -1206,13 +1206,13 @@ Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutr
 
 ---
 
-### Coronavirus disease 2019 (COVID-19): focus on peripheral blood cell morphology [^ea9787cd]. British Journal of Haematology (2023). Medium credibility.
+### Coronavirus disease 2019 (COVID-19): focus on peripheral blood cell morphology [^116znzzg]. British Journal of Haematology (2023). Medium credibility.
 
 Numerous studies have shown peculiar morphological anomalies in COVID-19 patients' smears. We searched all the peer-reviewed scientific publications that explicitly reference the cytomorphological alterations on peripheral blood smears of patients with COVID-19. We extracted data from sixty-five publications (case reports, patient group studies, reviews, and erythrocyte morphology studies). The results show that frequent alterations concern the morphology of lymphocytes (large lymphocytes with weakly basophilic cytoplasm, plasmacytoid lymphocytes, large granular lymphocytes). Neutrophils display abnormal nuclei and cytoplasm in a distinctive cytomorphological picture. Besides a left shift in maturation, granulations can be increased (toxic type) or decreased with areas of basophilia. Nuclei are often hyposegmented (pseudo-Pelger-Huёt anomaly). Apoptotic or pycnotic cells are not uncommon. Monocytes typically have a large cytoplasm loaded with heterogeneous and coalescing vacuoles. Platelets show large and giant shapes. The presence of erythrocyte fragments and schistocytes is especially evident in the forms of COVID-19 that are associated with thrombotic microangiopathies. Such atypia of blood cells reflects the generalized activation in severe COVID-19, which has been demonstrated with immunophenotypic, molecular, genetic, and functional methods. Neutrophils, in particular, are involved in the pathophysiology of hyperinflammation with cytokine storm, which characterizes the most unfavorable evolution.
 
 ---
 
-### Tissue-resident myeloid and histiocytic cells in health and disease: novel emerging concepts [^0137b927]. American Journal of Hematology (2025). Medium credibility.
+### Tissue-resident myeloid and histiocytic cells in health and disease: novel emerging concepts [^1112ohrn]. American Journal of Hematology (2025). Medium credibility.
 
 3 Monocytic and Myelomonocytic Leukemias
 

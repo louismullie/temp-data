@@ -15,31 +15,31 @@ Signs of renal transplant rejection
 
 > Let's see… What do we have here? The user is asking about the signs of renal transplant rejection. Let's break this down step-by-step. First, I need to think about the clinical context and why rejection is hard to detect early. Then, I should categorize the types of rejection and their typical timing. Next, I will extract the clinical signs and symptoms, followed by laboratory and imaging markers. After that, I need to review the histopathologic gold standard and Banff criteria. Finally, I will consider emerging biomarkers, special scenarios, and synthesize a practical, prioritized approach to recognition and diagnosis, making sure I double-check thresholds and guideline-backed actions throughout.
 
-> Let me first confirm the clinical context and the diagnostic challenge. Rejection is a leading cause of graft failure, and patients often report it as their most feared outcome, yet many rejection episodes are asymptomatic or present with nonspecific changes in kidney function, which means we frequently detect injury late, after functional decline has begun [^abd4a1ff] [^2d1451c4]. Hold on, let's not jump to conclusions — early rejection can be subclinical, so relying on symptoms alone risks missing treatable injury, reinforcing the need for structured surveillance and timely biopsy when indicated [^a4b79edb].
+> Let me first confirm the clinical context and the diagnostic challenge. Rejection is a leading cause of graft failure, and patients often report it as their most feared outcome, yet many rejection episodes are asymptomatic or present with nonspecific changes in kidney function, which means we frequently detect injury late, after functional decline has begun [^115PkJcN] [^1129qGY3]. Hold on, let's not jump to conclusions — early rejection can be subclinical, so relying on symptoms alone risks missing treatable injury, reinforcing the need for structured surveillance and timely biopsy when indicated [^115DCeS6].
 
-> I need to categorize the types of rejection and their usual timing. Acute T-cell–mediated rejection (TCMR) is common in the first 6 months and often responds to steroids, whereas antibody-mediated rejection (AMR) can occur at any time and is a major driver of late graft loss; chronic active rejection reflects ongoing alloimmune injury with fibrosis and is a key barrier to long-term survival [^9a3d48d2] [^22dc827e] [^2d1451c4]. Wait, let me verify the chronicity framework — yes, contemporary pathology has moved away from the vague term "chronic allograft nephropathy" toward specific entities like chronic active TCMR and chronic active AMR, which better guide therapy and prognosis [^3668748a].
+> I need to categorize the types of rejection and their usual timing. Acute T-cell–mediated rejection (TCMR) is common in the first 6 months and often responds to steroids, whereas antibody-mediated rejection (AMR) can occur at any time and is a major driver of late graft loss; chronic active rejection reflects ongoing alloimmune injury with fibrosis and is a key barrier to long-term survival [^114wfgKK] [^111tgeTX] [^1129qGY3]. Wait, let me verify the chronicity framework — yes, contemporary pathology has moved away from the vague term "chronic allograft nephropathy" toward specific entities like chronic active TCMR and chronic active AMR, which better guide therapy and prognosis [^112PfRAq].
 
-> Next, I should review clinical signs and symptoms. Many patients have no localizing symptoms, but when present, they may include fever, malaise, oliguria or anuria, hematuria, flank or graft tenderness, and occasionally hypertension or edema; these are nonspecific and overlap with infection or obstruction, so I need to keep a broad differential in mind [^f62beafe]. Hold on, I should verify that these symptom descriptions align with guideline-based monitoring advice — yes, guidelines emphasize vigilant assessment for acute rejection, particularly in the first 6 months, while acknowledging that symptoms are unreliable and that objective testing is essential [^9a3d48d2].
+> Next, I should review clinical signs and symptoms. Many patients have no localizing symptoms, but when present, they may include fever, malaise, oliguria or anuria, hematuria, flank or graft tenderness, and occasionally hypertension or edema; these are nonspecific and overlap with infection or obstruction, so I need to keep a broad differential in mind [^117Hxhv5]. Hold on, I should verify that these symptom descriptions align with guideline-based monitoring advice — yes, guidelines emphasize vigilant assessment for acute rejection, particularly in the first 6 months, while acknowledging that symptoms are unreliable and that objective testing is essential [^114wfgKK].
 
-> I will now examine laboratory markers. The most sensitive routinely available marker is a rising serum creatinine, with thresholds of about a 20–25% increase from baseline prompting consideration of biopsy; however, creatinine is insensitive and delayed, so normal values do not exclude rejection, especially early AMR or subclinical TCMR [^f5d93aa9] [^a22b11b6]. Let me double-check the proteinuria signal — new-onset proteinuria, particularly in the nephrotic range, should raise concern for transplant glomerulopathy or recurrent/de novo glomerular disease and warrants biopsy evaluation [^f5d93aa9] [^31c79b96].
+> I will now examine laboratory markers. The most sensitive routinely available marker is a rising serum creatinine, with thresholds of about a 20–25% increase from baseline prompting consideration of biopsy; however, creatinine is insensitive and delayed, so normal values do not exclude rejection, especially early AMR or subclinical TCMR [^117HUw1S] [^1159RTi5]. Let me double-check the proteinuria signal — new-onset proteinuria, particularly in the nephrotic range, should raise concern for transplant glomerulopathy or recurrent/de novo glomerular disease and warrants biopsy evaluation [^117HUw1S] [^112GoSUu].
 
-> Next, I should review imaging. Renal ultrasound with Doppler is first-line to assess perfusion, resistive indices, hydronephrosis, and collections; increased resistive indices can suggest rejection but are nonspecific and can be seen with ATN, obstruction, or compression, so I must interpret findings in clinical context and proceed to biopsy when suspicion remains [^f8639df2] [^c045abca]. Wait, let me verify the role of nuclear medicine — yes, radionuclide studies can provide functional and perfusion data but cannot reliably distinguish rejection from other causes of dysfunction, so they complement rather than replace ultrasound and biopsy in decision-making [^c045abca].
+> Next, I should review imaging. Renal ultrasound with Doppler is first-line to assess perfusion, resistive indices, hydronephrosis, and collections; increased resistive indices can suggest rejection but are nonspecific and can be seen with ATN, obstruction, or compression, so I must interpret findings in clinical context and proceed to biopsy when suspicion remains [^117MFPaq] [^115v42Qh]. Wait, let me verify the role of nuclear medicine — yes, radionuclide studies can provide functional and perfusion data but cannot reliably distinguish rejection from other causes of dysfunction, so they complement rather than replace ultrasound and biopsy in decision-making [^115v42Qh].
 
-> Now, I need to ensure I cover the diagnostic gold standard. Percutaneous kidney allograft biopsy interpreted by an experienced transplant pathologist using Banff criteria remains the definitive test to distinguish TCMR, AMR, mixed rejection, calcineurin inhibitor toxicity, infection, and recurrent disease; obtaining two cores improves diagnostic yield and safety is acceptable with ultrasound guidance [^d43c4b38] [^831f6f7c]. Hold on, I should verify thresholds for biopsy triggers — persistent unexplained creatinine rise, new proteinuria, delayed graft function beyond 48 hours, and failure to achieve expected function by 1–2 months are established indications for biopsy in guidelines and commentaries [^31c79b96] [^f5d93aa9].
+> Now, I need to ensure I cover the diagnostic gold standard. Percutaneous kidney allograft biopsy interpreted by an experienced transplant pathologist using Banff criteria remains the definitive test to distinguish TCMR, AMR, mixed rejection, calcineurin inhibitor toxicity, infection, and recurrent disease; obtaining two cores improves diagnostic yield and safety is acceptable with ultrasound guidance [^116RedMy] [^114MPwL7]. Hold on, I should verify thresholds for biopsy triggers — persistent unexplained creatinine rise, new proteinuria, delayed graft function beyond 48 hours, and failure to achieve expected function by 1–2 months are established indications for biopsy in guidelines and commentaries [^112GoSUu] [^117HUw1S].
 
-> Let me consider the histopathologic signatures by rejection type. TCMR shows tubulitis and interstitial inflammation, whereas AMR features microvascular inflammation (glomerulitis and peritubular capillaritis), C4d deposition in peritubular capillaries, and often circulating donor-specific antibodies; chronic active AMR adds transplant glomerulopathy and arterial intimal fibrosis, reflecting repeated endothelial injury [^e910b1b0] [^b5b2fd96]. I should confirm the evolution of Banff — yes, Banff 2013 and subsequent updates recognized C4d-negative AMR and incorporated molecular classifiers, improving sensitivity for AMR and aligning pathology with outcomes [^2e9b61c8] [^6f1d7cce].
+> Let me consider the histopathologic signatures by rejection type. TCMR shows tubulitis and interstitial inflammation, whereas AMR features microvascular inflammation (glomerulitis and peritubular capillaritis), C4d deposition in peritubular capillaries, and often circulating donor-specific antibodies; chronic active AMR adds transplant glomerulopathy and arterial intimal fibrosis, reflecting repeated endothelial injury [^116xXitX] [^115eNt2R]. I should confirm the evolution of Banff — yes, Banff 2013 and subsequent updates recognized C4d-negative AMR and incorporated molecular classifiers, improving sensitivity for AMR and aligning pathology with outcomes [^112C6d3m] [^113qjXk9].
 
-> But wait, what if we could detect rejection earlier and noninvasively? Emerging biomarkers show promise: a composite urine score using six DNA, protein, and metabolic markers achieved high accuracy for acute rejection and can detect rejection before creatinine rises, while urine CXCL10 correlates with rejection and BKPyV and has been tested prospectively for clinical utility; however, I need to emphasize that these are not yet replacements for biopsy in routine care and require prospective validation and integration into clinical workflows [^13a884da] [^4c8adf84] [^a22b11b6]. Hold on, I should verify the status of urinary nitrate — multiple contemporary studies show no diagnostic utility for nitrate-based assays, so I should not rely on that approach [^0a1084dc] [^90928393].
+> But wait, what if we could detect rejection earlier and noninvasively? Emerging biomarkers show promise: a composite urine score using six DNA, protein, and metabolic markers achieved high accuracy for acute rejection and can detect rejection before creatinine rises, while urine CXCL10 correlates with rejection and BKPyV and has been tested prospectively for clinical utility; however, I need to emphasize that these are not yet replacements for biopsy in routine care and require prospective validation and integration into clinical workflows [^111W9NNM] [^112xUhtF] [^1159RTi5]. Hold on, I should verify the status of urinary nitrate — multiple contemporary studies show no diagnostic utility for nitrate-based assays, so I should not rely on that approach [^111FvRdm] [^114hLRuL].
 
-> I should double-check special scenarios that modify pretest probability. Highly sensitized patients with preformed or de novo donor-specific antibodies are at heightened risk for early and late AMR, and COVID-19 has been associated with endothelial injury and AMR presentations; in these contexts, a lower threshold for biopsy and early DSA testing is prudent even with subtle functional changes [^473f94f5] [^2a7f2e75]. Let me reconsider the role of protocol biopsies — evidence is mixed, but in high-risk recipients or delayed graft function, protocol biopsies can uncover subclinical rejection that may alter management, whereas in low-risk patients on modern regimens, routine protocol biopsies may not improve outcomes; individualized decisions are warranted [^a4b79edb] [^831f6f7c].
+> I should double-check special scenarios that modify pretest probability. Highly sensitized patients with preformed or de novo donor-specific antibodies are at heightened risk for early and late AMR, and COVID-19 has been associated with endothelial injury and AMR presentations; in these contexts, a lower threshold for biopsy and early DSA testing is prudent even with subtle functional changes [^112pdUgc] [^11261CXn]. Let me reconsider the role of protocol biopsies — evidence is mixed, but in high-risk recipients or delayed graft function, protocol biopsies can uncover subclinical rejection that may alter management, whereas in low-risk patients on modern regimens, routine protocol biopsies may not improve outcomes; individualized decisions are warranted [^115DCeS6] [^114MPwL7].
 
-> Next, I should review the practical, stepwise approach to suspected rejection. First, confirm the trend with repeat creatinine and urinalysis, assess volume status, and review adherence and drug levels; second, obtain urgent ultrasound with Doppler to exclude obstruction, thrombosis, or collections; third, if no reversible cause is found and suspicion persists, proceed to percutaneous biopsy with adequate tissue sampling; fourth, send DSA testing when AMR is suspected; finally, tailor therapy to the biopsy diagnosis, including corticosteroids for TCMR and antibody-directed strategies for AMR, and reassess immunosuppression and adherence after any rejection episode [^f8639df2] [^187d5e74] [^98bdf0e1] [^2a746b38] [^e2989ca0]. Hmm, wait a minute, I almost said "treat empirically with steroids if biopsy will be delayed", but I should correct that — guidelines advise biopsy before treatment unless doing so would substantially delay therapy, and blind steroid boluses should be reserved for rare scenarios with strong contraindications to biopsy, not routine practice [^2a746b38] [^6a54765e].
+> Next, I should review the practical, stepwise approach to suspected rejection. First, confirm the trend with repeat creatinine and urinalysis, assess volume status, and review adherence and drug levels; second, obtain urgent ultrasound with Doppler to exclude obstruction, thrombosis, or collections; third, if no reversible cause is found and suspicion persists, proceed to percutaneous biopsy with adequate tissue sampling; fourth, send DSA testing when AMR is suspected; finally, tailor therapy to the biopsy diagnosis, including corticosteroids for TCMR and antibody-directed strategies for AMR, and reassess immunosuppression and adherence after any rejection episode [^117MFPaq] [^111dJp9Z] [^114uSvBa] [^1125warj] [^116nwTom]. Hmm, wait a minute, I almost said "treat empirically with steroids if biopsy will be delayed", but I should correct that — guidelines advise biopsy before treatment unless doing so would substantially delay therapy, and blind steroid boluses should be reserved for rare scenarios with strong contraindications to biopsy, not routine practice [^1125warj] [^113ie4LD].
 
-> In summary, I need to ensure the key messages are explicit. The "signs" of renal transplant rejection span from silent biochemical changes to nonspecific symptoms like fever, oliguria, hematuria, or graft tenderness, but none are reliable enough to obviate objective testing; a rising creatinine remains the most accessible alarm, ultrasound excludes structural causes, and biopsy with Banff classification provides the definitive diagnosis and guides therapy; emerging urine biomarkers may enable earlier detection but are not yet standard of care, so vigilance for subtle functional changes and timely biopsy remain the cornerstones of detection [^9a3d48d2] [^d43c4b38] [^13a884da] [^a22b11b6].
+> In summary, I need to ensure the key messages are explicit. The "signs" of renal transplant rejection span from silent biochemical changes to nonspecific symptoms like fever, oliguria, hematuria, or graft tenderness, but none are reliable enough to obviate objective testing; a rising creatinine remains the most accessible alarm, ultrasound excludes structural causes, and biopsy with Banff classification provides the definitive diagnosis and guides therapy; emerging urine biomarkers may enable earlier detection but are not yet standard of care, so vigilance for subtle functional changes and timely biopsy remain the cornerstones of detection [^114wfgKK] [^116RedMy] [^111W9NNM] [^1159RTi5].
 
 ---
 
-Renal transplant rejection presents with **nonspecific symptoms** such as fever, malaise, oliguria, hematuria, and graft tenderness, but many cases are **asymptomatic** and detected only by rising serum creatinine or new proteinuria [^f62beafe] [^f5d93aa9]. Early rejection is often **silent**, so routine monitoring of creatinine, urine output, and blood pressure is essential [^2e974162]. Ultrasound can show reduced perfusion or resistive indices, but **definitive diagnosis requires biopsy** with Banff criteria [^f8639df2] [^187d5e74]. Prompt recognition and biopsy enable timely treatment and improve outcomes [^2a746b38].
+Renal transplant rejection presents with **nonspecific symptoms** such as fever, malaise, oliguria, hematuria, and graft tenderness, but many cases are **asymptomatic** and detected only by rising serum creatinine or new proteinuria [^117Hxhv5] [^117HUw1S]. Early rejection is often **silent**, so routine monitoring of creatinine, urine output, and blood pressure is essential [^112C5Ef3]. Ultrasound can show reduced perfusion or resistive indices, but **definitive diagnosis requires biopsy** with Banff criteria [^117MFPaq] [^111dJp9Z]. Prompt recognition and biopsy enable timely treatment and improve outcomes [^1125warj].
 
 ---
 
@@ -62,11 +62,11 @@ Laboratory tests are the **primary noninvasive way to detect rejection**:
 
 | **Laboratory parameter** | **Typical findings in rejection** |
 |-|-|
-| Serum creatinine | - Rise > 20–25% from baseline <br/> - Often the earliest sign [^f5d93aa9] |
+| Serum creatinine | - Rise > 20–25% from baseline <br/> - Often the earliest sign [^117HUw1S] |
 | Estimated glomerular filtration rate (eGFR) | Decline from baseline [^notfound] |
 | Urine output | Decreased (< 1,000 mL/day) [^notfound] |
-| Proteinuria | New or increasing proteinuria (> 0.5 g/day) [^67c1dafc] |
-| Donor-specific antibodies (DSA) | Positive in antibody-mediated rejection [^e910b1b0] |
+| Proteinuria | New or increasing proteinuria (> 0.5 g/day) [^113epqdm] |
+| Donor-specific antibodies (DSA) | Positive in antibody-mediated rejection [^116xXitX] |
 | Complete blood count | - Leukocytosis <br/> - Thrombocytopenia may occur [^notfound] |
 
 ---
@@ -75,9 +75,9 @@ Laboratory tests are the **primary noninvasive way to detect rejection**:
 
 Imaging supports the diagnosis but is **not definitive**:
 
-- **Ultrasound**: First-line to assess graft size, perfusion, and complications; increased resistive index (> 0.8) suggests rejection but is nonspecific [^f8639df2] [^c045abca].
-- **Color Doppler**: Reduced perfusion or absent arterial/venous flow raises concern [^c045abca].
-- **Nuclear medicine scans**: Delayed uptake or excretion can suggest rejection but cannot distinguish from other causes [^c045abca].
+- **Ultrasound**: First-line to assess graft size, perfusion, and complications; increased resistive index (> 0.8) suggests rejection but is nonspecific [^117MFPaq] [^115v42Qh].
+- **Color Doppler**: Reduced perfusion or absent arterial/venous flow raises concern [^115v42Qh].
+- **Nuclear medicine scans**: Delayed uptake or excretion can suggest rejection but cannot distinguish from other causes [^115v42Qh].
 
 ---
 
@@ -85,15 +85,15 @@ Imaging supports the diagnosis but is **not definitive**:
 
 Biopsy with Banff classification provides **definitive diagnosis**:
 
-- **T-cell mediated rejection (TCMR)**: Tubulitis, interstitial inflammation, endarteritis [^ae9524bd].
-- **Antibody-mediated rejection (AMR)**: Microvascular inflammation, C4d deposition, donor-specific antibodies [^e910b1b0].
-- **Borderline rejection**: Suspicious changes below TCMR thresholds, associated with worse outcomes if untreated [^6e052c66].
+- **T-cell mediated rejection (TCMR)**: Tubulitis, interstitial inflammation, endarteritis [^115Tpwat].
+- **Antibody-mediated rejection (AMR)**: Microvascular inflammation, C4d deposition, donor-specific antibodies [^116xXitX].
+- **Borderline rejection**: Suspicious changes below TCMR thresholds, associated with worse outcomes if untreated [^113p7NnZ].
 
 ---
 
 ## Timing and clinical context
 
-- **Hyperacute rejection**: Within minutes to hours; rare due to pre-transplant crossmatching [^88729b45].
+- **Hyperacute rejection**: Within minutes to hours; rare due to pre-transplant crossmatching [^114VHp3N].
 - **Acute rejection**: Within days to months; most common in the first 3–6 months [^notfound].
 - **Chronic rejection**: Months to years; progressive decline with proteinuria and hypertension [^notfound].
 
@@ -101,21 +101,21 @@ Biopsy with Banff classification provides **definitive diagnosis**:
 
 ## Summary of key signs
 
-- **Silent course**: Many cases are asymptomatic and detected by labs [^f62beafe].
+- **Silent course**: Many cases are asymptomatic and detected by labs [^117Hxhv5].
 - **Nonspecific symptoms**: Fever, malaise, oliguria, hematuria, graft tenderness, hypertension [^notfound].
-- **Laboratory changes**: Rising creatinine, falling eGFR, new proteinuria, positive DSA [^f5d93aa9] [^e910b1b0].
-- **Imaging**: Ultrasound/Doppler abnormalities suggest rejection but are not diagnostic [^c045abca].
-- **Biopsy**: Gold standard for definitive diagnosis and classification [^d43c4b38].
+- **Laboratory changes**: Rising creatinine, falling eGFR, new proteinuria, positive DSA [^117HUw1S] [^116xXitX].
+- **Imaging**: Ultrasound/Doppler abnormalities suggest rejection but are not diagnostic [^115v42Qh].
+- **Biopsy**: Gold standard for definitive diagnosis and classification [^116RedMy].
 
 ---
 
-Renal transplant rejection often lacks specific symptoms, so **routine monitoring of creatinine, urine output, and blood pressure is critical** [^2e974162]. Early detection via labs and prompt biopsy enable timely therapy and better graft survival [^2a746b38].
+Renal transplant rejection often lacks specific symptoms, so **routine monitoring of creatinine, urine output, and blood pressure is critical** [^112C5Ef3]. Early detection via labs and prompt biopsy enable timely therapy and better graft survival [^1125warj].
 
 ---
 
 ## References
 
-### Noninvasive diagnosis of kidney allograft rejection [^abd4a1ff]. Journal of the American Society of Nephrology (2025). Medium credibility.
+### Noninvasive diagnosis of kidney allograft rejection [^115PkJcN]. Journal of the American Society of Nephrology (2025). Medium credibility.
 
 Abstract
 
@@ -123,49 +123,49 @@ Despite regular conventional monitoring of kidney transplant recipients, allogra
 
 ---
 
-### EAU guidelines on renal transplantation [^9a3d48d2]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^114wfgKK]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to monitor transplant recipients for signs of acute rejection, particularly during the first 6 months after transplantation.
 
 ---
 
-### Transplantation immunology in 2013: new approaches to diagnosis of rejection [^4f548e88]. Nature Reviews: Nephrology (2014). Medium credibility.
+### Transplantation immunology in 2013: new approaches to diagnosis of rejection [^1132cRZZ]. Nature Reviews: Nephrology (2014). Medium credibility.
 
 In 2013, a key theme of research in renal transplantation was the diagnosis of rejection. Data from key studies published in the past year highlight aspects of rejection that warrant further investigation and should prompt the consideration of adjunctive tests to complement traditional histological assessment of allograft biopsy samples.
 
 ---
 
-### Post-transplant monitoring of renal allografts: are we there yet? [^30171cb1]. Current Opinion in Immunology (2009). Low credibility.
+### Post-transplant monitoring of renal allografts: are we there yet? [^112EJAnc]. Current Opinion in Immunology (2009). Low credibility.
 
 Transplantation has emerged as the therapy of choice for many patients with end organ failure. One of the major goals is to tailor immunosuppressive therapy to the individual needs of every patient to balance the risk for rejection and over-immunosuppression. This will require diagnostic tools that can detect harmful processes in the allograft early, and that can be measured repeatedly. This review will consider recent advances in our understanding of the molecular nature of these processes and how this information is being utilized to design novel diagnostic assays to non-invasively monitor allografts. Highlighted is the need for large-scale prospective multi-centre studies to validate assays that show early promise in single centre studies.
 
 ---
 
-### Biomarkers for kidney transplant rejection [^00ea2586]. Nature Reviews: Nephrology (2014). Medium credibility.
+### Biomarkers for kidney transplant rejection [^1112MeYV]. Nature Reviews: Nephrology (2014). Medium credibility.
 
 The immune management of organ transplant recipients is imperfect. Beyond general dosing guidelines for immunosuppressive agents and clinical diagnostic tests for rejection or infection, there are few objective tools to determine the aggregate status of a patient's alloimmune response or protective immune capacity. The lack of prognostic precision significantly contributes to patient morbidity and reduces long-term allograft survival after kidney transplantation. Noninvasive biomarkers that could serve as predictive tools or surrogate end points for rejection might help clinicians individualize immunosuppression and allow for early intervention, ideally prior to clinically evident organ dysfunction. Although the growing understanding of organ rejection has provided numerous candidate biomarkers, none has been confirmed in robust validation studies as sufficiently useful to guide clinical practice independent of traditional clinical methods. In this Review, the general characteristics of biomarkers and surrogate end points; current biomarkers under active clinical investigation; and the prominent barriers to the translation of biomarkers into clinical practice are discussed.
 
 ---
 
-### EAU guidelines on renal transplantation [^f8639df2]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^117MFPaq]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to rule out other potential causes of graft dysfunction immediately in patients with suspected acute rejection. Obtain an ultrasound of the kidney transplant.
 
 ---
 
-### Call for revolution: a new approach to describing allograft deterioration [^ab3a7fa4]. American Journal of Transplantation (2002). Low credibility.
+### Call for revolution: a new approach to describing allograft deterioration [^115NrXqM]. American Journal of Transplantation (2002). Low credibility.
 
 I propose a set of definable entities in the renal transplant course, eliminating the need for the term 'chronic rejection'. The status of a renal transplant can be defined by the presence and extent of rejection (T-cell-mediated or antibody-mediated); allograft nephropathy (parenchymal atrophy, fibrosis, and fibrous intimal thickening in arteries); transplant glomerulopathy; specific diseases; and factors which could accelerate progression. The level of function and the slope of the loss of function should be separately determined. This approach can be applied both in research and in clinical practice, and can be adapted to other organ transplants.
 
 ---
 
-### EAU guidelines on renal transplantation [^6a54765e]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^113ie4LD]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to consider administering 'blind' corticosteroid bolus therapy only if contraindications to renal biopsy are present.
 
 ---
 
-### Do protocol transplant biopsies improve kidney transplant outcomes? [^2dd90c55]. Current Opinion in Nephrology and Hypertension (2012). Low credibility.
+### Do protocol transplant biopsies improve kidney transplant outcomes? [^112AyM7z]. Current Opinion in Nephrology and Hypertension (2012). Low credibility.
 
 Purpose Of Review
 
@@ -181,13 +181,13 @@ This review provides the recent evidence that has convinced many transplant unit
 
 ---
 
-### EAU guidelines on renal transplantation [^187d5e74]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^111dJp9Z]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to perform a renal biopsy, graded according to the most recent Banff criteria, in patients with suspected acute rejection episodes.
 
 ---
 
-### Autoimmune retinopathy after chronic renal allograft rejection… [^42e09299]. JAMA Network (2006). Excellent credibility.
+### Autoimmune retinopathy after chronic renal allograft rejection… [^112i9cdN]. JAMA Network (2006). Excellent credibility.
 
 Customize your JAMA Network experience by selecting one or more topics from the list below. W. RICHARDGREENMD Autoimmune retinopathy, such as carcinoma-associated retinopathy1 and melanoma-associated retinopathy, 2 is characterized by retinal dysfunction and the presence of autoantibodies that can occur in the absence of malignancy. 3 Herein, we report a case of presumed autoimmune retinopathy occurring after chronic renal allograft rejection. Report of a Case A 51-year-old man was referred to us on February 2, 2000. In 1982, he had undergone renal transplantation for chronic renal failure caused by glomerulonephritis that he had had since his childhood. In 1993, he developed chronic renal rejection and underwent a second renal transplantation. However, he developed chronic rejection a third time and has been undergoing continuous ambulatory peritoneal dialysis since June 1998. He noticed "flashing light" in both his eyes in December 1999 and nyctalopia immediately thereafter.
 
@@ -197,49 +197,49 @@ Renal rejection involves dynamic change of humoral mechanisms, and autoantibodie
 
 ---
 
-### Biomarkers of rejection in kidney transplantation [^a22b11b6]. American Journal of Kidney Diseases (2025). Medium credibility.
+### Biomarkers of rejection in kidney transplantation [^1159RTi5]. American Journal of Kidney Diseases (2025). Medium credibility.
 
 Alloimmune injury is a major cause of long-term kidney allograft failure whether due to functionally stable (subclinical) or overt clinical rejection. These episodes may be mediated by immune cells (cellular rejection) or alloantibody (antibody-mediated rejection). Early recognition of immune injury is needed for timely appropriate intervention to maintain graft functional viability. However, the conventional measure of kidney function (ie, serum creatinine) is insufficient for immune monitoring due to limited sensitivity and specificity for rejection. As a result, there is need for biomarkers that more sensitively detect the immune response to the kidney allograft. Recently, several biomarkers have been clinically implemented into the care of kidney transplant recipients. These biomarkers attempt to achieve multiple goals including (1) more sensitive detection of clinical and subclinical rejection, (2) predicting impending rejection, (3) monitoring for the adequacy of treatment response, and (4) facilitating personalized immunosuppression. In this review, we summarize the findings to date in commercially available biomarkers, along with biomarkers approaching clinical implementation. While we discuss the analytical and clinical validity of these biomarkers, we identify the challenges and limitations to widespread biomarker use, including the need for biomarker-guided prospective studies to establish evidence of clinical utility of these new assays.
 
 ---
 
-### The meaning of borderline rejection in kidney transplantation [^6e052c66]. Kidney International (2020). Medium credibility.
+### The meaning of borderline rejection in kidney transplantation [^113p7NnZ]. Kidney International (2020). Medium credibility.
 
 Borderline T cell-mediated rejection is a diagnostic category of the Banff schema that uses a lower diagnostic threshold. Subclinical borderline T cell-mediated rejection detected by surveillance sampling is not entirely benign. Studies demonstrate increased rates of late rejection, progressive nephron loss, functional impairment, donor-specific antibody formation, and allograft failure. It can be conceptualized as a failure to control the cellular alloimmune response. Mixed results are reported for its treatment, and randomized controlled trials are needed.
 
 ---
 
-### Advances in the understanding of transplant glomerulopathy [^b5b2fd96]. American Journal of Kidney Diseases (2013). Low credibility.
+### Advances in the understanding of transplant glomerulopathy [^115eNt2R]. American Journal of Kidney Diseases (2013). Low credibility.
 
 Transplant glomerulopathy is a sign of chronic kidney allograft damage. It has poor survival and no effective therapies. This entity develops as a maladaptive repair/remodeling response to sustained endothelial injury and is characterized by duplication/multilamination of capillary basement membranes. This review provides up-to-date information for transplant glomerulopathy, including new insights into underlying causes and mechanisms, and highlights unmet needs in diagnostics. Transplant glomerulopathy is widely accepted as the principal manifestation of chronic antibody-mediated rejection, mostly with HLA antigen class II antibodies. However, recent data suggest that at least in some patients, there also is an association with hepatitis C virus infection, autoimmunity, and late thrombotic microangiopathy. Furthermore, intragraft molecular studies reveal nonresolving inflammation after sustained endothelial injury as a key mechanism and therapeutic target. Unfortunately, current international criteria rely heavily on light microscopy and miss patients at early stages, when they likely are treatable. Therefore, better tools, such as electron microscopy or molecular probes, are needed to detect patients when kidney injury is in an early active phase. Better understanding of causes and effector mechanisms coupled with early diagnosis can lead to the development of new therapeutics for transplant glomerulopathy and improved kidney outcomes.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^5b33f398]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^113LDKk3]. American Journal of Transplantation (2009). Medium credibility.
 
 Borderline acute rejection — management uncertainty — whether or not to treat borderline acute rejection is controversial, and there are no RCTs addressing whether treatment prolongs graft survival or whether overall benefits outweigh harm.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^bcf55cb7]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^115q962A]. American Journal of Transplantation (2009). Medium credibility.
 
 KDIGO acute rejection treatment — rationale statements include that several causes of decreased kidney function can only be distinguished from acute rejection by biopsy, and treatment of decreased kidney allograft function that is not caused by acute rejection with additional immunosuppressive medication may be harmful. Treating subclinical acute rejection discovered on protocol biopsy may improve graft survival, and treating borderline rejection may prolong graft survival. Most acute cellular rejection responds to treatment with corticosteroids, but treating acute cellular rejection that is unresponsive to corticosteroids or recurs with an anti–T-cell antibody may prolong graft survival. Increasing the amount of immunosuppressive medication after an acute cellular rejection may help prevent further rejection. A number of measures may be effective in treating antibody-mediated rejections, including plasma exchange, intravenous immunoglobulin, anti-CD20 antibody and anti–T-cell antibodies. Although there are no RCTs to establish that obtaining a biopsy improves outcomes of suspected acute rejection, there are alternative diagnoses that might mimic an acute rejection episode.
 
 ---
 
-### EAU guidelines on renal transplantation [^2e974162]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^112C5Ef3]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to obtain regular blood samples in addition to regular monitoring of urine output and ultrasound to detect graft dysfunction during hospitalization.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^b859f6eb]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^115iJwWA]. American Journal of Transplantation (2009). Medium credibility.
 
 Research recommendations — additional RCTs are needed to determine whether treating borderline acute rejection improves outcomes, when protocol biopsies and treatment of subclinical acute rejection are cost-effective, and the optimal treatment for antibody-mediated acute rejection.
 
 ---
 
-### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^473f94f5]. BMC Nephrology (2025). Medium credibility.
+### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^112pdUgc]. BMC Nephrology (2025). Medium credibility.
 
 Background
 
@@ -249,25 +249,25 @@ After kidney transplantation, patients are at risk of complications and infectio
 
 ---
 
-### EAU guidelines on renal transplantation [^e2989ca0]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^116nwTom]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to reassess the immunosuppressive therapy in all patients with rejection, including patient adherence to the medication (particularly important in late rejections).
 
 ---
 
-### EAU guidelines on renal transplantation [^e3cf6f41]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^116pjs84]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to advise patients on appropriate lifestyle changes, potential complications, and the importance of adherence to their immunosuppressive regimen.
 
 ---
 
-### Beyond the biopsy: monitoring immune status in kidney recipients [^d292cf17]. Clinical Journal of the American Society of Nephrology (2021). Medium credibility.
+### Beyond the biopsy: monitoring immune status in kidney recipients [^116PBiFQ]. Clinical Journal of the American Society of Nephrology (2021). Medium credibility.
 
 Improved long-term kidney allograft survival is largely related to better outcomes at 12 months, in association with declining acute rejection rates and more efficacious immunosuppression. Finding the right balance between under- and overimmunosuppression or rejection versus immunosuppression toxicity remains one of transplant's holy grails. In the absence of precise measures of immunosuppression burden, transplant clinicians rely on nonspecific, noninvasive tests and kidney allograft biopsy generally performed for cause. This review appraises recent advances of conventional monitoring strategies and critically examines the plethora of emerging tests utilizing tissue, urine, and blood samples to improve upon the diagnostic precision of allograft surveillance.
 
 ---
 
-### Acute antibody-mediated rejection of renal transplant: pathogenetic and diagnostic considerations [^affbb8bc]. Archives of Pathology & Laboratory Medicine (2007). Low credibility.
+### Acute antibody-mediated rejection of renal transplant: pathogenetic and diagnostic considerations [^115VuPFR]. Archives of Pathology & Laboratory Medicine (2007). Low credibility.
 
 Context
 
@@ -287,49 +287,49 @@ Acute antibody-mediated rejection is mediated by antibodies specific for donor a
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^e910b1b0]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^116xXitX]. American Journal of Transplantation (2009). Medium credibility.
 
 KDIGO acute rejection definitions — borderline acute rejection is defined by histopathological changes that are only 'suspicious for acute rejection' according to the Banff classification schema, and a rejection episode is said to be unresponsive to treatment when graft function does not return to baseline after the last dose of treatment. An antibody-mediated rejection is defined by histological changes caused by a circulating, anti-HLA, donor-specific antibody, and criteria used to determine whether an acute rejection is caused by a donor-specific antibody include staining of peritubular capillaries with C4d (fourth complement fraction), the presence of a circulating, anti-HLA, donor-specific antibody, and histological changes consistent with an antibody-mediated rejection including the presence of polymorphonuclear cells in peritubular capillaries.
 
 ---
 
-### EAU guidelines on renal transplantation [^2d58cef4]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^112AEGou]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to management of acute rejection, EAU 2025 guidelines recommend to administer intensified immunosuppression, high-dose corticosteroids, and eventually T-cell-depleting agents in patients with severe or corticosteroid-resistant rejection.
 
 ---
 
-### EAU guidelines on renal transplantation [^98bdf0e1]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^114uSvBa]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to monitoring for acute rejection, EAU 2025 guidelines recommend to test for anti-HLA antibodies against the graft as soon as possible in patients with acute rejection.
 
 ---
 
-### EAU guidelines on renal transplantation [^91720778]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^114idWL7]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to management of acute rejection, EAU 2025 guidelines recommend to include antibody elimination in the treatment of antibody-mediated rejection.
 
 ---
 
-### EAU guidelines on renal transplantation [^25949b1f]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^111xiTWE]. EAU (2025). High credibility.
 
 Regarding follow-up and surveillance for kidney transplantation, more specifically with respect to management of acute rejection, EAU 2025 guidelines recommend to administer bolus corticosteroids, in addition to ensuring adequate baseline immunosuppression, as first-line therapy in patients with T-cell-mediated rejection.
 
 ---
 
-### Kidney transplantation: graft monitoring and immunosuppression [^db317509]. World Journal of Surgery (2002). Low credibility.
+### Kidney transplantation: graft monitoring and immunosuppression [^116bxuDi]. World Journal of Surgery (2002). Low credibility.
 
 Renal transplantation has become the preferred means of treating end-stage renal disease. Episodes of allograft rejection have become the exception rather than the rule. The development of real-time ultrasound-guided allograft biopsy and adoption of the Banff criteria for histologic evaluation permit safe, accurate monitoring of graft histology. New immunosuppressive agents have drastically reduced the number of episodes of both primary and refractory rejection. Novel biologic agents in the form of monoclonal antibodies and soluble receptor hybrid molecules may serve to reduce the required doses of toxic chemical immunosuppressants and provide more specific immune suppression directed at those elements of the immune system involved in rejection of a given allograft. Development of assays to identify patients who demonstrate donor antigen-specific hyporeactivity is now feasible. Hopefully, these assays will serve as a guide for the reduction and possible removal of immunosuppressive agents from stable renal allograft recipients.
 
 ---
 
-### Diagnosis and prevention of chronic kidney allograft loss [^2d1451c4]. Lancet (2011). Excellent credibility.
+### Diagnosis and prevention of chronic kidney allograft loss [^1129qGY3]. Lancet (2011). Excellent credibility.
 
 Kidney transplantation is the best possible treatment for many patients with end-stage renal failure, but progressive dysfunction and eventual allograft loss with return to dialysis is associated with increased mortality and morbidity. Immune injury from acute or chronic rejection and non-immune causes, such as nephrotoxicity from calcineurin inhibitors, ischaemia-reperfusion injury, recurrent glomerular disease, and allograft BK viral infection, are potential threats. Serial monitoring of renal function enables early recognition of chronic allograft dysfunction, and investigations such as therapeutic drug concentrations, urinalysis, imaging, and a diagnostic biopsy should be undertaken before irreversible nephron loss has occurred. Specific interventions targeting the pathophysiological cause of dysfunction include strengthening of immunosuppression for chronic rejection, or calcineurin inhibitor minimisation, substitution, or elimination if nephrotoxicity dominates. Recommended proactive preventive measures are control of hypertension, proteinuria, dyslipidaemia, diabetes, smoking, and other comorbidities. Strategies to maintain transplant function and improve long-term graft survival are important goals of translational research.
 
 ---
 
-### Individual dynamic prediction and prognostic analysis for long-term allograft survival after kidney transplantation [^79d79dcb]. BMC Nephrology (2022). Medium credibility.
+### Individual dynamic prediction and prognostic analysis for long-term allograft survival after kidney transplantation [^1147dveN]. BMC Nephrology (2022). Medium credibility.
 
 Introduction
 
@@ -341,7 +341,7 @@ In recent years, several prediction models (e.g. the Cox regression model) for p
 
 ---
 
-### Transplant biopsy beyond light microscopy [^c6d05f6f]. BMC Nephrology (2015). Low credibility.
+### Transplant biopsy beyond light microscopy [^1165kYEA]. BMC Nephrology (2015). Low credibility.
 
 Review
 
@@ -353,7 +353,7 @@ To date, the majority of the comprehensive data sets that include clinicopatholo
 
 ---
 
-### Diagnosis and management of antibody-mediated rejection: current status and novel approaches [^300c9992]. American Journal of Transplantation (2014). Low credibility.
+### Diagnosis and management of antibody-mediated rejection: current status and novel approaches [^112EEdzZ]. American Journal of Transplantation (2014). Low credibility.
 
 Advances in multimodal immunotherapy have significantly reduced acute rejection rates and substantially improved 1-year graft survival following renal transplantation. However, long-term (10-year) survival rates have stagnated over the past decade. Recent studies indicate that antibody-mediated rejection (ABMR) is among the most important barriers to improving long-term outcomes. Improved understanding of the roles of acute and chronic ABMR has evolved in recent years following major progress in the technical ability to detect and quantify recipient anti-HLA antibody production. Additionally, new knowledge of the immunobiology of B cells and plasma cells that pertains to allograft rejection and tolerance has emerged. Still, questions regarding the classification of ABMR, the precision of diagnostic approaches, and the efficacy of various strategies for managing affected patients abound. This review article provides an overview of current thinking and research surrounding the pathophysiology and diagnosis of ABMR, ABMR-related outcomes, ABMR prevention and treatment, as well as possible future directions in treatment.
 
@@ -361,13 +361,13 @@ This review addresses the spectrum of antibody-mediated rejection after kidney t
 
 ---
 
-### Common infections in kidney transplant recipients [^ac7e08be]. Clinical Journal of the American Society of Nephrology (2012). Low credibility.
+### Common infections in kidney transplant recipients [^115QjCpD]. Clinical Journal of the American Society of Nephrology (2012). Low credibility.
 
 Infections are a major cause of morbidity and mortality in kidney transplant recipients. To some extent, these may be preventable. Careful pretransplant screening, immunization, and post-transplant prophylactic antimicrobials may all reduce the risk for post-transplant infection. However, because transplant recipients may not manifest typical signs and symptoms of infection, diagnoses may be confounded. Furthermore, treatment regimens may be complicated by drug interactions and the need to maintain immunosuppression to avoid allograft rejection. This article reviews common post-transplant infections, including prophylactic, diagnostic, and treatment strategies, providing guidance regarding care of kidney transplant patients with infection.
 
 ---
 
-### Urinary nitrate concentration as a marker for kidney transplant rejection [^90928393]. BMC Nephrology (2020). Medium credibility.
+### Urinary nitrate concentration as a marker for kidney transplant rejection [^114hLRuL]. BMC Nephrology (2020). Medium credibility.
 
 Conclusion
 
@@ -375,25 +375,25 @@ Measurement of urinary nitrate concentration does not assist in the diagnosis of
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^84dbe65d]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^114PyECC]. American Journal of Transplantation (2009). Medium credibility.
 
 Kidney transplant recipients — protocol biopsies and subclinical acute rejection — evidence from randomized controlled trials (RCTs) is mixed: in patients (N = 72) on CsA, MMF and corticosteroids, detection and treatment resulted in better graft function; a larger multicenter RCT (N = 218) on tacrolimus, MMF and corticosteroids found protocol biopsies and treatment were not beneficial; and a single-center RCT of 102 recipients of living-donor kidneys reported improved graft function, while uncontrolled data suggest low clinical rejection incidence may make protocol biopsies inconvenient and costly.
 
 ---
 
-### Pediatric renal transplant biopsy with ultrasound guidance: the 'core' essentials [^2d3e4e94]. Pediatric Radiology (2017). Low credibility.
+### Pediatric renal transplant biopsy with ultrasound guidance: the 'core' essentials [^112A5NX5]. Pediatric Radiology (2017). Low credibility.
 
 This review provides a comprehensive and practical approach to pediatric percutaneous renal transplant biopsies, highlighting techniques and strategies to optimize adequate sample yield and ensure patient safety. In children with end-stage renal disease, transplantation is the preferred choice of therapy, providing for overall lower long-term morbidity and mortality compared with dialysis. In the ongoing management of renal transplant patients, core tissue sampling via a percutaneous renal biopsy remains the gold standard when transplant dysfunction is suspected. Indications for renal transplant biopsy and techniques/tools for adequate sample yield are discussed. Strategies for common challenges such as poor visualization and renal transplant mobility are addressed. We discuss the clinical signs, techniques and imaging findings for common complications including hematomas, arteriovenous fistulas and pseudoaneurysms. Although the percutaneous renal transplant biopsy procedure is generally safe with rare complications, care must be taken to ensure major complications are promptly recognized and treated. Adequate tissue samples obtained via renal biopsy are imperative to promptly identify transplant rejection to provide valuable information for patient diagnosis, treatment and outcomes. Radiologist and nephrologist attention to proper ultrasound techniques and optimal biopsy tools are critical to ensure tissue adequacy and minimize complications.
 
 ---
 
-### Approach to kidney allograft dysfunction: a brief review [^91479760]. Advances in Kidney Disease and Health (2024). Medium credibility.
+### Approach to kidney allograft dysfunction: a brief review [^114iPFaF]. Advances in Kidney Disease and Health (2024). Medium credibility.
 
 It is important for providers caring for kidney transplant recipients to be familiar with the common causes of allograft dysfunction. Early detection of allograft dysfunction leads to timely management, with the goal of preventing or delaying progression to allograft failure. Although transplant rejection is always a concern, the differential diagnoses for allograft dysfunction are broad and include perioperative complications, infections, recurrent disease, and calcineurin nephrotoxicity. In this review, we will go over early and late causes of allograft dysfunction and discuss the basic workup and principles of management for each condition.
 
 ---
 
-### The Banff 2015 kidney meeting report: current challenges in rejection classification and prospects for adopting molecular pathology [^fbc24952]. American Journal of Transplantation (2017). Low credibility.
+### The Banff 2015 kidney meeting report: current challenges in rejection classification and prospects for adopting molecular pathology [^117SF9jo]. American Journal of Transplantation (2017). Low credibility.
 
 New Challenges in Rejection Diagnosis and Classification
 
@@ -406,7 +406,7 @@ Recent evidence indicates that subclinical ABMR has important clinical implicati
 
 ---
 
-### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.2.1 differential diagnosis of chronic graft dysfunction [^67c1dafc]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
+### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.2.1 differential diagnosis of chronic graft dysfunction [^113epqdm]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
 
 Guidelines
 
@@ -414,7 +414,7 @@ A. Any significant deterioration in graft function should be investigated using 
 
 ---
 
-### Impact of the Banff 2013 classification on the diagnosis of suspicious versus conclusive late antibody-mediated rejection in allografts without acute dysfunction [^0398618b]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
+### Impact of the Banff 2013 classification on the diagnosis of suspicious versus conclusive late antibody-mediated rejection in allografts without acute dysfunction [^1116L9U6]. Nephrology, Dialysis, Transplantation (2016). Low credibility.
 
 Background
 
@@ -434,19 +434,19 @@ The Banff 2013 classification helps in making a diagnosis of late ABMR, identify
 
 ---
 
-### Clinical role of the renal transplant biopsy [^d43c4b38]. Nature Reviews: Nephrology (2012). Medium credibility.
+### Clinical role of the renal transplant biopsy [^116RedMy]. Nature Reviews: Nephrology (2012). Medium credibility.
 
 Percutaneous needle core biopsy is the definitive procedure by which essential diagnostic and prognostic information on acute and chronic renal allograft dysfunction is obtained. The diagnostic value of the information so obtained has endured for over three decades and has proven crucially important in shaping strategies for therapeutic intervention. This Review provides a broad outline of the utility of performing kidney graft biopsies after transplantation, highlighting the relevance of biopsy findings in the immediate and early post-transplant period (from days to weeks after implantation), the first post-transplant year, and the late period (beyond the first year). We focus on how biopsy findings change over time, and the wide variety of pathological features that characterize the major clinical diagnoses facing the clinician. This article also includes a discussion of acute cellular and humoral rejection, the toxic effects of calcineurin inhibitors, and the widely varying etiologies and characteristics of chronic lesions. Emerging technologies based on gene expression analyses and proteomics, the in situ detection of functionally relevant molecules, and new bioinformatic approaches that hold the promise of improving diagnostic precision and developing new, refined molecular pathways for therapeutic intervention are also presented.
 
 ---
 
-### Antibody-mediated rejection criteria-an addition to the Banff 97 classification of renal allograft rejection [^b78e6152]. American Journal of Transplantation (2003). Low credibility.
+### Antibody-mediated rejection criteria-an addition to the Banff 97 classification of renal allograft rejection [^115h8ZMs]. American Journal of Transplantation (2003). Low credibility.
 
 Antibody-mediated rejection (AbAR) is increasingly recognized in the renal allograft population, and successful therapeutic regimens have been developed to prevent and treat AbAR, enabling excellent outcomes even in patients highly sensitized to the donor prior to transplant. It has become critical to develop standardized criteria for the pathological diagnosis of AbAR. This article presents international consensus criteria for and classification of AbAR developed based on discussions held at the Sixth Banff Conference on Allograft Pathology in 2001. This classification represents a working formulation, to be revisited as additional data accumulate in this important area of renal transplantation.
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^831f6f7c]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^114MPwL7]. BMC Nephrology (2017). Low credibility.
 
 Rationale
 
@@ -458,25 +458,25 @@ Biopsy is performed when there is acute graft dysfunction with the aim of provid
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^6aa34ab1]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^113j6Y3z]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 KDIGO recommendations — kidney allograft biopsy state: We recommend kidney allograft biopsy when there is a persistent, unexplained increase in serum creatinine (1C). We suggest kidney allograft biopsy when serum creatinine has not returned to baseline after treatment of acute rejection (2D). We suggest kidney allograft biopsy every 7–10 days during delayed function (2C). We suggest kidney allograft biopsy if expected kidney function is not achieved within the first 1–2 months after transplantation (2D).
 
 ---
 
-### Severe graft rejection, increased immunosuppression, and active CMV infection in renal transplantation [^7ee7e2e7]. Journal of Medical Virology (2006). Low credibility.
+### Severe graft rejection, increased immunosuppression, and active CMV infection in renal transplantation [^114F9L22]. Journal of Medical Virology (2006). Low credibility.
 
 Associations between active cytomegalovirus (CMV) infection, graft rejection, rejection therapy, and clinical signs and symptoms have been shown repeatedly. However, the causes and the sequence of events remain an area of debate. Two hundred twenty five patients with cadaveric renal transplant were included in the present study. Clinical signs and symptoms, and the development of active CMV infections were recorded during the first 3 months after renal transplantation. CMV monitoring by pp65-antigenemia was performed followed by preemptive antiviral therapy. Delayed graft function and severe graft rejection followed by anti T-cell antibody therapy was associated with the development of active CMV infection. In contrast, the induction therapy with anti-T-cell antibodies was not associated with more active CMV infections. Post-transplant morbidity determined by fever, pneumonia, and duration of hospital stay was increased significantly in patients with active CMV infection. However, in times of preemptive antiviral therapy an increased morbidity occurred in association with severe graft rejection and not with active CMV infection alone. In patients with renal transplantation and preemptive antiviral therapy, the morbidity was no more influenced by the CMV serostatus although the prevalence of active CMV infection was obviously different between CMV exposed (D+/R+, D+/R-, D-/R+) and unexposed (D-/R-) patients. Severe graft rejection and increased immunosuppression could stimulate cooperatively active CMV infections whereas immunosuppression alone may not be as effective. Prevention of severe graft rejection may be important to decrease early post-transplant morbidity and also the development of active CMV infections after renal transplantation.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^03163c65]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^1115aS36]. American Journal of Transplantation (2009). Medium credibility.
 
 KDIGO clinical practice guideline for the care of kidney transplant recipients — example evidence profile presents an illustrative table of outcomes and grading domains, listing outcomes such as Mortality, Graft loss, Acute rejection, CAN, NODAT, and Infection, and organizing evidence under columns titled "No. of studies, study design", "No. of participants (follow-up)", "Methodological quality", "Consistency", "Directness of the evidence", "Other considerations", "Quality of the evidence for each outcome", and "Importance of outcome".
 
 ---
 
-### The role of acute cellular rejection in the development of… [^22dc827e]. FDA (2025). Medium credibility.
+### The role of acute cellular rejection in the development of… [^111tgeTX]. FDA (2025). Medium credibility.
 
 only in association with thymus-dependent cells. " "Circulating antibody against donor cells… have been detected, by the use of specially sensitive techniques, while the transplanted organ was still in place, and there seems to be a definite correlation between this finding and the appearance of progressive lesions in the graft, especially vascular lesions. "
 - Hamburger J, Crosnier J, Dormont J, Bach J-F. Renal Transplantation: Theory and Practice, 1972. not associated per se with graft loss… "
@@ -500,7 +500,7 @@ only in association with thymus-dependent cells. " "Circulating antibody against
 
 ---
 
-### Azathioprine [^e362b152]. FDA (2025). Medium credibility.
+### Azathioprine [^116p7LfB]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE:
 
@@ -512,13 +512,13 @@ Rheumatoid Arthritis: Azathioprine Tablets are indicated for the treatment of ac
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^a4b79edb]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^115DCeS6]. American Journal of Transplantation (2009). Medium credibility.
 
 Protocol biopsies — prevalence and outcome associations show that subclinical rejection (Banff grade IA or higher) varies from 13% to 25% at 1–2 weeks, 11–43% at 1–2 months, 3–31% at 2–3 months and 4–50% at 1 year, is associated with CAI and reduced graft survival, and at 14 days correlates with poorer long-term outcomes with graft survival 88%, 99% and 98% at 1 year and 62%, 94% and 96% at 10 years for subclinical, borderline subclinical, or no rejection; RCTs include one with 72 patients allocated to protocol biopsies with treatment at 1, 2, 3, 6 and 12 months versus biopsies at 6 and 12 months without treatment, where the biopsy arm had a significant decrease in acute rejection episodes, reduced 6‑month chronic tubulointerstitial score and lower 2‑year serum creatinine, and another trial with 52 living‑donor KTRs randomized to protocol biopsies and 50 controls to indicated biopsies reporting significantly fewer acute rejection episodes and CAI (17% and 12%; 4% and 10%, respectively) and lower serum creatinine at 6 months (p = 0.0003) and 1 year (p < 0.0001).
 
 ---
 
-### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^0715d375]. BMC Nephrology (2025). Medium credibility.
+### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^111BWFBJ]. BMC Nephrology (2025). Medium credibility.
 
 Background
 
@@ -538,7 +538,7 @@ The qualitative exploration of patient experience of symptoms and impacts carrie
 
 ---
 
-### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^8a261bae]. BMC Nephrology (2025). Medium credibility.
+### A qualitative exploration of the patient disease and treatment burden of end stage renal failure, post-renal transplantation and antibody mediated rejection (AMR) [^114Xp6J9]. BMC Nephrology (2025). Medium credibility.
 
 Background
 
@@ -562,7 +562,7 @@ The online version contains supplementary material available at 10.1186/s12882-0
 
 ---
 
-### Azathioprine (Azasan) [^cdb23761]. FDA (2025). Medium credibility.
+### Azathioprine (Azasan) [^116FxKhr]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE:
 
@@ -574,7 +574,7 @@ Rheumatoid Arthritis: AZASAN is indicated for the treatment of active rheumatoid
 
 ---
 
-### The Banff 2019 kidney meeting report (I): updates on and clarification of criteria for T cell-and antibody-mediated rejection [^ed0c45f9]. American Journal of Transplantation (2020). Medium credibility.
+### The Banff 2019 kidney meeting report (I): updates on and clarification of criteria for T cell-and antibody-mediated rejection [^1174SBtk]. American Journal of Transplantation (2020). Medium credibility.
 
 5 CONCLUSIONS
 
@@ -582,31 +582,31 @@ The international consensus‐building framework provided by the Banff process i
 
 ---
 
-### The Banff 2017 kidney meeting report: revised diagnostic criteria for chronic active T cell-mediated rejection, antibody-mediated rejection, and prospects for integrative endpoints for next-generation clinical trials [^3668748a]. American Journal of Transplantation (2018). Low credibility.
+### The Banff 2017 kidney meeting report: revised diagnostic criteria for chronic active T cell-mediated rejection, antibody-mediated rejection, and prospects for integrative endpoints for next-generation clinical trials [^112PfRAq]. American Journal of Transplantation (2018). Low credibility.
 
 The kidney sessions of the 2017 Banff Conference focused on 2 areas: clinical implications of inflammation in areas of interstitial fibrosis and tubular atrophy (i‐) and its relationship to T cell–mediated rejection, and the continued evolution of molecular diagnostics, particularly in the diagnosis of antibody‐mediated rejection. In confirmation of previous studies, it was independently demonstrated by 2 groups that i‐is associated with reduced graft survival. Furthermore, these groups presented that i‐, particularly when involving > 25% of sclerotic cortex in association with tubulitis, is often a sequela of acutein association with underimmunosuppression. The classification was thus revised to include moderate i‐plus moderate or severe tubulitis as diagnostic of chronic active. Other studies demonstrated that certain molecular classifiers improve diagnosis ofbeyond what is possible with histology, C4d, and detection of donor‐specific antibodies and that both C4d and validated molecular assays can serve as potential alternatives and/or complements toin the diagnosis of. The Banffcriteria are thus updated to include these alternatives. Finally, the present report paves the way for the Banff scheme to be part of an integrative approach for defining surrogate endpoints in next‐generation clinical trials.
 
 ---
 
-### Transplant biopsy beyond light microscopy [^85c9e1b8]. BMC Nephrology (2015). Low credibility.
+### Transplant biopsy beyond light microscopy [^114RMATH]. BMC Nephrology (2015). Low credibility.
 
 Despite its long-standing status as the diagnostic "gold standard", the renal transplant biopsy is limited by a fundamental dependence on descriptive, empirically-derived consensus classification. The recent shift towards personalized medicine has resulted in an increased demand for precise, mechanism-based diagnoses, which is not fully met by the contemporary transplantation pathology standard of care. The expectation is that molecular techniques will provide novel pathogenetic insights that will allow for the identification of more accurate diagnostic, prognostic, and therapeutic targets. Here we review the current state of molecular renal transplantation pathology. Despite significant research activity and progress within the field, routine adoption of clinical molecular testing has not yet been achieved. The recent development of novel molecular platforms suitable for use with formalin-fixed paraffin-embedded tissue will offer potential solution for the major barriers to implementation. The recent incorporation of molecular diagnostic criteria into the 2013 Banff classification is a reflection of progress made and future directions in the area of molecular transplantation pathology. Transcripts related to endothelial injury and NK cell activation have consistently been shown to be associated with antibody-mediated rejection. Prospective multicenter validation and implementation of molecular diagnostics for major entities remains an unmet clinical need in transplantation. It is expected that an integrated system of transplantation pathology diagnosis comprising molecular, morphological, serological, and clinical variables will ultimately provide the greatest diagnostic precision.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^f5d93aa9]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^117HUw1S]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 Kidney transplant biopsy — indications and thresholds: Renal allograft biopsy is the gold standard for diagnosing the cause of a change in renal allograft function, and patients showing a 20%-25% increase in creatinine level above baseline values warrant consideration for biopsy. Delayed graft function lasting longer than 48 hours should be monitored closely and a biopsy performed every 7–10 days until graft function recovers. New-onset proteinuria, protein ≥ 2.0 g/g creatinine or ≥ 2.0 g/24 h, also merits a kidney biopsy. Additional listed triggers include new onset of proteinuria (2C) and unexplained proteinuria ≥ 3.0 g per gram creatinine or ≥ 3.0 g per 24 hours. (2C).
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^3f849016]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^112dAkHb]. BMC Nephrology (2017). Low credibility.
 
 These guidelines cover the care of patients from the period following kidney transplantation until the transplant is no longer working or the patient dies. During the early phase prevention of acute rejection and infection are the priority. After around 3–6 months, the priorities change to preservation of transplant function and avoiding the long-term complications of immunosuppressive medication (the medication used to suppress the immune system to prevent rejection). The topics discussed include organization of outpatient follow up, immunosuppressive medication, treatment of acute and chronic rejection, and prevention of complications. The potential complications discussed include heart disease, infection, cancer, bone disease and blood disorders. There is also a section on contraception and reproductive issues. Immediately after the introduction there is a statement of all the recommendations. These recommendations are written in a language that we think should be understandable by many patients, relatives, carers and other interested people. Consequently we have not reworded or restated them in this lay summary. They are graded 1 or 2 depending on the strength of the recommendation by the authors, and AD depending on the quality of the evidence that the recommendation is based on.
 
 ---
 
-### Azathioprine sodium [^e9af94d3]. FDA (2025). Medium credibility.
+### Azathioprine sodium [^116yT6GA]. FDA (2025). Medium credibility.
 
 INDICATIONS AND USAGE
 
@@ -622,13 +622,13 @@ Azathioprine is indicated for the treatment of active rheumatoid arthritis (RA) 
 
 ---
 
-### A urine score for noninvasive accurate diagnosis and prediction of kidney transplant rejection [^13a884da]. Science Translational Medicine (2020). Medium credibility.
+### A urine score for noninvasive accurate diagnosis and prediction of kidney transplant rejection [^111W9NNM]. Science Translational Medicine (2020). Medium credibility.
 
 Accurate and noninvasive monitoring of renal allograft posttransplant is essential for early detection of acute rejection (AR) and to affect the long-term survival of the transplant. We present the development and validation of a noninvasive, spot urine-based diagnostic assay based on measurements of six urinary DNA, protein, and metabolic biomarkers. The performance of this assay for detecting kidney injury in both native kidneys and renal allografts is presented on a cohort of 601 distinct urine samples. The urinary composite score enables diagnosis of AR, with a receiver-operator characteristic curve area under the curve of 0.99 and an accuracy of 96%. In addition, we demonstrate the clinical utility of this assay for predicting AR before a rise in the serum creatinine, enabling earlier detection of rejection than currently possible by standard of care tests. This noninvasive, sensitive, and quantitative approach is a robust and informative method for the rapid and routine monitoring of renal allografts.
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^b4400f1f]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^115cEHhQ]. BMC Nephrology (2017). Low credibility.
 
 Lay Summary
 
@@ -638,7 +638,7 @@ Immediately after the introduction there is a statement of all the recommendatio
 
 ---
 
-### Azathioprine (Imuran) [^dfb27a4b]. FDA (2024). Medium credibility.
+### Azathioprine (Imuran) [^116ieBsQ]. FDA (2024). Medium credibility.
 
 INDICATIONS AND USAGE:
 
@@ -650,19 +650,19 @@ Rheumatoid Arthritis: IMURAN is indicated for the treatment of active rheumatoid
 
 ---
 
-### EAU guidelines on renal transplantation [^144464f8]. EAU (2025). High credibility.
+### EAU guidelines on renal transplantation [^111X3j4s]. EAU (2025). High credibility.
 
 Regarding diagnostic procedures for kidney transplantation, more specifically with respect to donor kidney biopsy, EAU 2025 guidelines recommend to do not base decisions on the acceptance of a donor organ on histological findings alone, since this might lead to an unnecessary high rate of discarded grafts. Interpret histology in context with clinical parameters of donor and recipient including perfusion parameters where available.
 
 ---
 
-### The revised (2013) Banff classification for antibody-mediated rejection of renal allografts: update, difficulties, and future considerations [^2e9b61c8]. American Journal of Transplantation (2016). Low credibility.
+### The revised (2013) Banff classification for antibody-mediated rejection of renal allografts: update, difficulties, and future considerations [^112C6d3m]. American Journal of Transplantation (2016). Low credibility.
 
 The Banff 2013 classification (Banff 2013) for antibody-mediated rejection (ABMR) in renal allografts represents the first major revision of the original Banff classification for ABMR that was published in 2003. The main impetus for this revision was the need to include C4d-negative ABMR, although this revised classification contains a number of additional features based on findings reported from 2007 to 2013. Since its publication, several studies have examined the validity of different aspects of Banff 2013 and compared it to earlier (2003, 2007) versions of the Banff ABMR classification. Recent evidence, albeit limited, indicates that Banff 2013 represents an improvement over the previous versions, enhancing our ability to accurately diagnose cases of acute/active and chronic active ABMR on renal allograft biopsy. Molecular studies appear to justify the threshold value of glomerulitis plus peritubular capillaritis score ≥ 2 required by Banff 2013 for the diagnosis of C4d-negative ABMR; however, other aspects of the classification, including its overall interobserver reproducibility, the clinical significance of the category of C4d staining without evidence of rejection, and whether surrogate markers might potentially substitute for the requirement for the presence of donor-specific antibodies, require additional investigation.
 
 ---
 
-### Urinary nitrate concentration as a marker for kidney transplant rejection [^f62beafe]. BMC Nephrology (2020). Medium credibility.
+### Urinary nitrate concentration as a marker for kidney transplant rejection [^117Hxhv5]. BMC Nephrology (2020). Medium credibility.
 
 Background
 
@@ -676,7 +676,7 @@ We sought to determine whether urinary nitrate concentration would be a useful t
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^60f6201a]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^113UkUxq]. BMC Nephrology (2017). Low credibility.
 
 These guidelines cover the care of patients from the period following kidney transplantation until the transplant is no longer working or the patient dies. During the early phase prevention of acute rejection and infection are the priority. After around 3–6 months, the priorities change to preservation of transplant function and avoiding the long-term complications of immunosuppressive medication (the medication used to suppress the immune system to prevent rejection). The topics discussed include organization of outpatient follow up, immunosuppressive medication, treatment of acute and chronic rejection, and prevention of complications. The potential complications discussed include heart disease, infection, cancer, bone disease and blood disorders. There is also a section on contraception and reproductive issues.
 
@@ -684,7 +684,7 @@ Immediately after the introduction there is a statement of all the recommendatio
 
 ---
 
-### Diagnosis and management of antibody-mediated rejection: current status and novel approaches [^88729b45]. American Journal of Transplantation (2014). Low credibility.
+### Diagnosis and management of antibody-mediated rejection: current status and novel approaches [^114VHp3N]. American Journal of Transplantation (2014). Low credibility.
 
 Introduction
 
@@ -694,13 +694,13 @@ The ongoing therapeutic challenge is to achieve effective and safe immunosuppres
 
 ---
 
-### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.2.2 chronic graft dysfunction. immunological factors (alloimmunity) [^bfc8c2d9]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
+### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.2.2 chronic graft dysfunction. immunological factors (alloimmunity) [^115uL4y6]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
 
 GUIDELINE: All recipients of an allogeneic kidney graft should take life-long maintenance immunosuppressive medication. Whereas there is no immunological test to diagnose chronic allograft dysfunction, circumstantial evidence suggests that immunological factors play an important role in its pathogenesis. This evidence is based on experimental data, the beneficial effect of sharing HLA antigens between donor and recipient and post-transplantation immunological monitoring studies.
 
 ---
 
-### Late antibody-mediated rejection in a kidney transplant recipient: COVID 19 induced? [^2a7f2e75]. BMC Nephrology (2022). Medium credibility.
+### Late antibody-mediated rejection in a kidney transplant recipient: COVID 19 induced? [^11261CXn]. BMC Nephrology (2022). Medium credibility.
 
 Background
 
@@ -708,7 +708,7 @@ Since the early onset of the COVID-19 pandemic, special considerations were attr
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^09d1b2fd]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^111FZKoi]. BMC Nephrology (2017). Low credibility.
 
 Introduction
 
@@ -726,31 +726,31 @@ It should be noted that other comprehensive guidelines have been published and r
 
 ---
 
-### Renal transplantation: immediate and late complications [^37a2092a]. Radiologic Clinics of North America (2023). Medium credibility.
+### Renal transplantation: immediate and late complications [^112RUkDF]. Radiologic Clinics of North America (2023). Medium credibility.
 
 Kidney grafts are the most common transplanted solid organ. To optimize graft survival, radiologists should be familiar with the anatomy and potential complications unique to transplanted kidneys. In addition to being able to recognize the imaging characteristics to diagnose etiologies of kidney graft dysfunction, an understanding of the pathophysiology is a key to narrowing the differential diagnosis. This article provides a summary of the most common complications based on broad categories of type of complication and posttransplant timing.
 
 ---
 
-### New insights in chronic allograft rejection [^73bd8b87]. Current Opinion in Urology (2002). Low credibility.
+### New insights in chronic allograft rejection [^113xbF3U]. Current Opinion in Urology (2002). Low credibility.
 
 Chronic allograft nephropathy remains the main cause of renal graft failure. Immunologic mechanisms seem mostly responsible for the injury and subsequent fibrogenic tissue response while nonimmune mechanisms act mostly as progression factors. In this article, these factors are reviewed along with the changes that take place in the graft and new insights into possible therapeutic strategies.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^31c79b96]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^112GoSUu]. American Journal of Transplantation (2009). Medium credibility.
 
 KDIGO kidney allograft biopsy — Core recommendations: We recommend kidney allograft biopsy when there is a persistent, unexplained increase in serum creatinine (1C). We suggest kidney allograft biopsy when serum creatinine has not returned to baseline after treatment of acute rejection (2D). We suggest kidney allograft biopsy every 7–10 days during delayed function (2C). We suggest kidney allograft biopsy if expected kidney function is not achieved within the first 1–2 months after transplantation (2D). We suggest kidney allograft biopsy when there is new onset of proteinuria (2C) or unexplained proteinuria ≥ 3.0 g/g creatinine or ≥ 3.0 g per 24 hours (2C).
 
 ---
 
-### Transplanted kidney function evaluation [^5825b554]. Seminars in Nuclear Medicine (2014). Low credibility.
+### Transplanted kidney function evaluation [^113FgaR9]. Seminars in Nuclear Medicine (2014). Low credibility.
 
 The best option for the treatment of end-stage renal disease is kidney transplantation. Prompt diagnosis and management of early posttransplantation complications is of utmost importance for graft survival. Biochemical markers, allograft biopsies, and imaging modalities are used for the timely recognition and management of graft dysfunction. Among several other factors, improvements in imaging modalities have been regarded as one of the factors contributing to increased short-term graft survival. Each imaging procedure has its own unique contribution to the evaluation of renal transplant dysfunction. In the era of multimodality imaging and emerging clinical considerations for the improvement of graft survival, evaluating an imaging modality in its own right may not be relevant and may fall short of expectation. Recognized as being mainly a functional imaging procedure, radionuclide imaging provides valuable information on renal function that cannot be obtained with other imaging modalities. For evaluating and establishing the current place, indications, and potential applications of radionuclide renal transplant imaging, a classification of renal allograft complications based on renal allograft dysfunction is essential. The major factor affecting long-term graft loss is chronic allograft nephropathy. Its association with early posttransplantation delayed graft function and repeated acute rejection episodes is well documented. Long-term graft survival rate have not improve significantly over the years. Imaging procedures are most commonly performed during the early period after transplantation. There seems to be a need for performing more frequent late posttransplantation imaging for the evaluation of acute allograft dysfunction, subclinical pathology, and chronic allograft changes; for understanding their contribution to patient management; and for identification of pathophysiological mechanisms leading to proteinuria and hypertension. With its unique advantage of relating perfusion to function, the potential for radionuclide imaging to replace late protocol biopsies needs to be investigated.
 
 ---
 
-### Randomized trial to assess the clinical utility of renal allograft monitoring by urine CXCL10 chemokine [^4c8adf84]. Journal of the American Society of Nephrology (2023). Medium credibility.
+### Randomized trial to assess the clinical utility of renal allograft monitoring by urine CXCL10 chemokine [^112xUhtF]. Journal of the American Society of Nephrology (2023). Medium credibility.
 
 Introduction
 
@@ -762,7 +762,7 @@ Biomarker development usually consists of three steps: (1) biomarker discovery, 
 
 ---
 
-### Prevention of kidney transplant rejection… [^3cb531a2]. ClinicalTrials (2013). Low credibility.
+### Prevention of kidney transplant rejection… [^112Z17rH]. ClinicalTrials (2013). Low credibility.
 
 Many kidney transplant patients have some type of chronic rejection. Chronic rejection is a disease that causes scarring and damage to the kidney. Over time, chronic rejection can lead to kidney failure, making it necessary for patients to start dialysis and possibly receive another kidney transplant. Doctors would like to see whether irbesartan and pravastatin can slow this damage and prevent kidney failure in patients with signs of chronic rejection. Detailed Description. Renal graft failure due to chronic rejection, also known as chronic allograft nephropathy, is one of the leading causes for repeat renal transplantation. Chronic rejection is characterized by progressive fibrosis and scarring. Renal biopsies of patients undergoing chronic rejection show greater expression of profibrotic cytokines, including TGF-beta and PDGF, than normal kidney tissue. Moreover, the cytokine activity of chronic rejection resembles that of other fibrosing renal diseases.
 
@@ -779,19 +779,19 @@ Study endpoints are death or renal failure manifested by initiation of dialysis 
 
 ---
 
-### Imaging in renal transplants: an update [^c045abca]. Seminars in Nuclear Medicine (2021). Medium credibility.
+### Imaging in renal transplants: an update [^115v42Qh]. Seminars in Nuclear Medicine (2021). Medium credibility.
 
 Renal transplantation has become the best treatment for the patients with chronic renal insufficiency. The surgical procedures, immunosuppressive regiments and patient follow-up have evolved especially in the last 10 years. However, the diagnosis for renal transplantation dysfunction remained the same in these years. Serum creatinine levels and estimated glomerular filtration rate calculated by serum creatinine based equations are used in routine patient follow-up. Pelvic ultrasonography and color Doppler ultrasonography are used as a first-line imaging method. Assessment of allograft functions both qualitatively and quantitatively are possible using nuclear medicine procedures. Surgical complications, acute tubular necrosis, subacute and/or acute rejection, infections, toxicity due to immunosuppressive medications, complications relating the collecting system, chronic rejection are the main causes for renal function impairment. The imaging procedures can diagnose the worsening of renal transplant function; however, they still lack the ability to differentiate types of rejection as histopathology or differentiate rejection from other causes of allograft dysfunction. The transplant biopsy gives detailed diagnosis for allograft dysfunction, guide the treatment and therefore it is the preferred diagnostic choice in recent years. On recent years, literature on radionuclide imaging is focused on perfusion analysis for the early diagnosis of renal transplant dysfunction and prognostic use of perfusion parameters, and then this article will focus on these studies and their outcome.
 
 ---
 
-### Ultra-localization of foxp3 + T cells within renal allografts shows infiltration of tubules mimicking rejection [^74c271af]. The American Journal of Pathology (2007). Low credibility.
+### Ultra-localization of foxp3 + T cells within renal allografts shows infiltration of tubules mimicking rejection [^113z6smQ]. The American Journal of Pathology (2007). Low credibility.
 
 Kidney transplant recipients are monitored for rejection by measurement of serum creatinine and graft biopsies. Biopsy samples are evaluated according to the Banff classification, which states that infiltration of tubules by mononuclear cells is an indicator of acute rejection. However, regulatory T cells play a crucial role in the overall immune response and are also present within transplanted tissue. We hypothesize that infiltration of mononuclear cells within kidney grafts is not always associated with rejection, especially if a high proportion of this infiltrate is regulatory T cells. Using a life-sustaining mouse kidney transplant model, we found that mononuclear cell tubular infiltration can occur in both rejecting and tolerant grafts. However, tolerant kidney grafts demonstrated a higher and sustained level of Foxp3+ regulatory cells. Importantly, a significant proportion of these cells were found within tubules. In cases in which graft function was normal, these cells were not harmful to the kidney and could be said to be mimicking, rather than causing, rejection.
 
 ---
 
-### The kidney transplant: new horizons [^56b01cf4]. Current Opinion in Nephrology and Hypertension (2010). Low credibility.
+### The kidney transplant: new horizons [^113DX6CK]. Current Opinion in Nephrology and Hypertension (2010). Low credibility.
 
 Purpose Of Review
 
@@ -807,31 +807,31 @@ With new diagnostic tools available, a disease-specific approach in renal allogr
 
 ---
 
-### The Banff 2022 kidney meeting work plan: data-driven refinement of the Banff classification for renal allografts [^6ef8146d]. American Journal of Transplantation (2024). Medium credibility.
+### The Banff 2022 kidney meeting work plan: data-driven refinement of the Banff classification for renal allografts [^113qWxyz]. American Journal of Transplantation (2024). Medium credibility.
 
 The XVIth Banff Meeting for Allograft Pathology was held in Banff, Alberta, Canada, from September 19 to 23, 2022, as a joint meeting with the Canadian Society of Transplantation. In addition to a key focus on the impact of microvascular inflammation and biopsy-based transcript analysis on the Banff Classification, further sessions were devoted to other aspects of kidney transplant pathology, in particular T cell-mediated rejection, activity and chronicity indices, digital pathology, xenotransplantation, clinical trials, and surrogate endpoints. Although the output of these sessions has not led to any changes in the classification, the key role of Banff Working Groups in phrasing unanswered questions, and coordinating and disseminating results of investigations addressing these unanswered questions was emphasized. This paper summarizes the key Banff Meeting 2022 sessions not covered in the Banff Kidney Meeting 2022 Report paper and also provides an update on other Banff Working Group activities relevant to kidney allografts.
 
 ---
 
-### The Banff 2015 kidney meeting report: current challenges in rejection classification and prospects for adopting molecular pathology [^5c8d7f54]. American Journal of Transplantation (2017). Low credibility.
+### The Banff 2015 kidney meeting report: current challenges in rejection classification and prospects for adopting molecular pathology [^113NDPX1]. American Journal of Transplantation (2017). Low credibility.
 
 Most disease processes operating in organ transplants represent a spectrum of certain biological processes. Accordingly, our current diagnostic criteria (e.g. for TCMR and ABMR) are built on semiquantitative diagnostic thresholds of lesions associated with a certain phenotype. Such thresholds aim to represent the optimal trade‐off between side effects of enhanced treatment (i.e. overimmunosuppression) and the detrimental impact of further disease progression (i.e. underimmunosuppression). A potential path forward would be to generate consensus in molecular transplant diagnostics regarding which molecules are assessed or quantified in what settings (Table 5) and then to develop clinically relevant diagnostic thresholds through retrospective and prospective multicenter validation studies based on standardized assessment of the same molecular lesions in the same clinical context. This approach would be analogous to the Banff consensus process in 1991 for morphologic lesions. Previous research revealed strong associations between certain molecular pathways and well‐established Banff histologic lesions (Figure 1). These key molecular pathways can be represented and thus assessed by relatively few molecules from each pathway, either through quantification of respective gene sets or through summarizing such genes in weighted equations as diagnostic classifiers. Generating consensus for sets of molecules or classifiers reflecting certain biological or disease processes related to the established histologic Banff lesions would enable us to assess and validate their clinical value. In this regard, the most robust evidence is currently available for the association among antibody‐mediated injury; microcirculation inflammation; and increased expression of endothelial, NK cell, and inflammation‐associated transcripts in the allograft 29, 54, 55.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^1c679252]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^111j7SdP]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 Graft dysfunction evaluation after kidney transplantation — biopsy-based monitoring and pathology expertise are emphasized: The commentary highlights "the need for continued monitoring of KTRs with the use of kidney biopsy to determine causes of graft dysfunction even after the early posttransplant period", and, given recognition of "BK nephropathy and antibody-mediated rejection as important causes for graft dysfunction", states that "it is important to have access to proper processing and interpretation of the transplant biopsy specimen by pathologists with expertise in this area".
 
 ---
 
-### Discrepancy analysis comparing molecular and histology diagnoses in kidney transplant biopsies [^a6a557ae]. American Journal of Transplantation (2020). Medium credibility.
+### Discrepancy analysis comparing molecular and histology diagnoses in kidney transplant biopsies [^115G4Uus]. American Journal of Transplantation (2020). Medium credibility.
 
 Discrepancy analysis comparing two diagnostic platforms offers potential insights into both without assuming either is always correct. Having optimized the Molecular Microscope Diagnostic System (MMDx) in renal transplant biopsies, we studied discrepancies within MMDx (reports and sign-out comments) and between MMDx and histology. Interpathologist discrepancies have been documented previously and were not assessed. Discrepancy cases were classified as "clear" (eg, antibody-mediated rejection [ABMR] vs T cell-mediated rejection [TCMR]), "boundary" (eg, ABMR vs possible ABMR), or "mixed" (eg, Mixed vs ABMR). MMDx report scores showed 99% correlations; sign-out interpretations showed 7% variation between observers, all located around boundaries. Histology disagreed with MMDx in 37% of biopsies, including 315 clear discrepancies, all with implications for therapy. Discrepancies were distributed widely in all histology diagnoses but increased in some scenarios; for example, histology TCMR contained 14% MMDx ABMR and 20% MMDx no rejection. MMDx usually gave unambiguous diagnoses in cases with ambiguous histology, for example, borderline and transplant glomerulopathy. Histology lesions or features associated with more frequent discrepancies (eg, tubulitis, arteritis, and polyomavirus nephropathy) were not associated with increased MMDx uncertainty, indicating that MMDx can clarify biopsies with histologic ambiguity. The patterns of histology-MMDx discrepancies highlight specific histology diagnoses in which MMDx assessment should be considered for guiding therapy.
 
 ---
 
-### The Banff 2022 kidney meeting work plan: data-driven refinement of the Banff classification for renal allografts [^80bfb74a]. American Journal of Transplantation (2024). Medium credibility.
+### The Banff 2022 kidney meeting work plan: data-driven refinement of the Banff classification for renal allografts [^114Hsozy]. American Journal of Transplantation (2024). Medium credibility.
 
 Despite the enthusiasm at the Banff 2019 and Banff 2022 meetings to adopt activity and chronicity indices, concern was also expressed that lesion scores and calculated indices might be erroneously equated with diagnosis. Clinical context (graft function in particular) is also important. In addition, individual lesion scores and activity/chronicity indices do not replace overall assessment of tissue for diagnoses other than rejection that also impact Banff Lesion Scores (eg, pyelonephritis, recurrent glomerulonephritis). In addition, it is important to recall that highly sensitized patients undergoing biopsies early posttransplant may show very "active" AMR with features like thrombotic microangiopathy or severe acute tubular injury, not captured in the activity index. In other words, it should be made clear that activity and chronicity indices do not replace diagnosis but add to it.
 
@@ -839,19 +839,19 @@ In summary, several published studies and the discussions held at the meeting st
 
 ---
 
-### Banff 07 classification of renal allograft pathology: updates and future directions [^7f3a8188]. American Journal of Transplantation (2008). Low credibility.
+### Banff 07 classification of renal allograft pathology: updates and future directions [^114Fd5aX]. American Journal of Transplantation (2008). Low credibility.
 
 The 9th Banff Conference on Allograft Pathology was held in La Coruna, Spain on June 23–29, 2007. A total of 235 pathologists, clinicians and scientists met to address unsolved issues in transplantation and adapt the Banff schema for renal allograft rejection in response to emerging data and technologies. The outcome of the consensus discussions on renal pathology is provided in this article. Major updates from the 2007 Banff Conference were: inclusion of peritubular capillaritis grading, C4d scoring, interpretation of C4d deposition without morphological evidence of active rejection, application of the Banff criteria to zero-time and protocol biopsies and introduction of a new scoring for total interstitial inflammation (ti-score). In addition, emerging research data led to the establishment of collaborative working groups addressing issues like isolated 'v' lesion and incorporation of omics-technologies, paving the way for future combination of graft biopsy and molecular parameters within the Banff process.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^9ed582ba]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^1154Um3o]. Transplantation (2020). High credibility.
 
 Regarding diagnostic investigations for kidney transplantation, more specifically with respect to evaluation for eligibility, general principles, KDIGO 2020 guidelines recommend to inform patients of their option to seek a second opinion from another transplant center if they are declined.
 
 ---
 
-### Investigating the simultaneous effect of longitudinal biomarkers on long-term kidney transplant failure in Iranian kidney transplant patients: a multivariate joint model [^83cefa59]. BMC Nephrology (2025). Medium credibility.
+### Investigating the simultaneous effect of longitudinal biomarkers on long-term kidney transplant failure in Iranian kidney transplant patients: a multivariate joint model [^114NQuAx]. BMC Nephrology (2025). Medium credibility.
 
 Background
 
@@ -859,7 +859,7 @@ The kidneys are essential organs for maintaining the body's health. They purify 
 
 ---
 
-### Study protocol: a pilot study to determine the safety and efficacy of induction-therapy, de novo MPA and delayed mTOR-inhibition in liver transplant recipients with impaired renal function. PATRON-study [^9032bd1c]. BMC Nephrology (2010). Low credibility.
+### Study protocol: a pilot study to determine the safety and efficacy of induction-therapy, de novo MPA and delayed mTOR-inhibition in liver transplant recipients with impaired renal function. PATRON-study [^114gnG3u]. BMC Nephrology (2010). Low credibility.
 
 Background
 
@@ -875,7 +875,7 @@ If a CNI-free-"bottom-up" IS strategy is safe and effective, this may be an inno
 
 ---
 
-### Diagnosis of acute rejection in renal transplant patients by urine… [^ea60ff7a]. ClinicalTrials (2011). Low credibility.
+### Diagnosis of acute rejection in renal transplant patients by urine… [^116zUgch]. ClinicalTrials (2011). Low credibility.
 
 In patients with unexplained renal allograft dysfunction who get an allograft biopsy to clarify if an acute rejection is present, a simultaneous urine sample will be taken. The peptide pattern of this urine sample is analyzed by mass spectrometry and a diagnosis is made based on a pre-defined peptide pattern which was established to detect acute allograft rejection.
 - Sensitivity and specificity of the urine test to diagnose acute renal allograft rejection in subgroups with different severity grades of the rejection
@@ -891,7 +891,7 @@ The perspective of this approach is that the test could be used either in place 
 
 ---
 
-### Evolving criteria for the diagnosis of antibody-mediated rejection in renal allografts [^6f1d7cce]. Current Opinion in Nephrology and Hypertension (2018). Low credibility.
+### Evolving criteria for the diagnosis of antibody-mediated rejection in renal allografts [^113qjXk9]. Current Opinion in Nephrology and Hypertension (2018). Low credibility.
 
 Purpose Of Review
 
@@ -907,7 +907,7 @@ From a consensus reached at the 2017 Banff Conference, updated criteria for diag
 
 ---
 
-### The clinical relevance of the infiltrating immune cell composition in kidney transplant rejection [^ae9524bd]. Journal of the American Society of Nephrology (2024). Medium credibility.
+### The clinical relevance of the infiltrating immune cell composition in kidney transplant rejection [^115Tpwat]. Journal of the American Society of Nephrology (2024). Medium credibility.
 
 Introduction
 
@@ -919,43 +919,43 @@ Cost and technical complexity prohibit the use of single-cell studies in large e
 
 ---
 
-### Allorecognition and the spectrum of kidney transplant rejection [^34591b10]. Kidney International (2022). Medium credibility.
+### Allorecognition and the spectrum of kidney transplant rejection [^112LcHaF]. Kidney International (2022). Medium credibility.
 
 Detection of mismatched human leukocyte antigens by adaptive immune cells is considered as the main cause of transplant rejection, leading to either T-cell mediated rejection or antibody-mediated rejection. This canonical view guided the successful development of immunosuppressive therapies and shaped the diagnostic Banff classification for kidney transplant rejection that is used in clinics worldwide. However, several observations have recently emerged that question this dichotomization between T-cell mediated rejection and antibody-mediated rejection, related to heterogeneity in the serology, histology, and prognosis of the rejection phenotypes. In parallel, novel insights were obtained concerning the dynamics of donor-specific anti-human leukocyte antigen antibodies, the immunogenicity of donor-recipient non-human leukocyte antigen mismatches, and the autoreactivity against self-antigens. Moreover, the potential of innate allorecognition was uncovered, as exemplified by natural killer cell-mediated microvascular inflammation through missing self, and by the emerging evidence on monocyte-driven allorecognition. In this review, we highlight the gaps in the current classification of rejection, provide an overview of the expanding insights into the mechanisms of allorecognition, and critically appraise how these could improve our understanding and clinical approach to kidney transplant rejection. We argue that consideration of the complex interplay of various allorecognition mechanisms can foster a more integrated view of kidney transplant rejection and can lead to improved risk stratification, targeted therapies, and better outcome after kidney transplantation.
 
 ---
 
-### Experimental modeling of desensitization: what have we learned about preventing AMR? [^b135a1a2]. American Journal of Transplantation (2020). Medium credibility.
+### Experimental modeling of desensitization: what have we learned about preventing AMR? [^115Xipho]. American Journal of Transplantation (2020). Medium credibility.
 
 During the past 5 decades, short-term outcomes in kidney transplant have significantly improved, in large part due to reduced rates and severity of acute rejection. Development of better immunosuppressive maintenance agents, as well as new induction therapies, helped make these advances. Nonhuman primate models provided a rigorous testing platform to evaluate candidate biologics during this process. However, antibody-mediated rejection remains a major cause of late failure of kidney allografts despite advances made in pharmacologic immunosuppression and strategies developed to facilitate improved donor-recipient matching. Our laboratory has been actively working to develop strategies to prevent and treat antibody-mediated rejection and immunologic sensitization in organ transplant, relying largely on a nonhuman primate model of kidney transplant. In this review, we will cover outcomes achieved by managing antibody-mediated rejection or sensitization in nonhuman primate models and discuss promises, limitations, and future directions for this model.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^2a746b38]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^1125warj]. American Journal of Transplantation (2009). Medium credibility.
 
 KDIGO acute rejection management — recommendations are as follows: We recommend biopsy before treating acute rejection, unless the biopsy will substantially delay treatment (1C). We suggest treating subclinical and borderline acute rejection (2D). We recommend corticosteroids for the initial treatment of acute cellular rejection (1D), and we suggest adding or restoring maintenance prednisone in patients not on steroids who have a rejection episode (2D). We suggest using lymphocyte-depleting antibodies or OKT3 for acute cellular rejections that do not respond to corticosteroids, and for recurrent acute cellular rejections (2C). We suggest treating antibody-mediated acute rejection with one or more alternatives, with or without corticosteroids (2C): plasma exchange; intravenous immunoglobulin; anti-CD20 antibody; lymphocyte-depleting antibody. For patients who have a rejection episode, we suggest adding mycophenolate if the patient is not receiving mycophenolate or azathioprine, or switching azathioprine to mycophenolate (2D).
 
 ---
 
-### Our approach to a renal transplant biopsy [^27c9d35f]. Journal of Clinical Pathology (2010). Low credibility.
+### Our approach to a renal transplant biopsy [^1121zJsY]. Journal of Clinical Pathology (2010). Low credibility.
 
 Kidney transplantation has become increasingly common in major health centres, making renal allograft evaluation through biopsy a common procedure. Early allograft dysfunction occurs in 30–50% of all transplants, while chronic graft failure is almost uniform at a rate of 2–4% a year. Allograft biopsy remains the gold standard for the diagnosis of graft dysfunction. Rejection, albeit the most important, is only one of many causes of allograft dysfunction. The widely accepted Banff classification has set criteria for the diagnosis of acute and chronic rejection. The major differential diagnoses are acute ischaemic injury, calcineurin inhibitor toxicity (acute and chronic), infections, including pyelonephritis and polyomavirus nephropathy, chronic obstruction/reflux, hypertension, and recurrent and de novo disease. In this review, there is an outline of the Banff criteria and their implications, the various causes of graft dysfunction, and a discussion on morphological guidelines towards the various diagnoses.
 
 ---
 
-### Local complement C3 expression is upregulated in humoral and cellular rejection of renal allografts [^34c41eab]. American Journal of Transplantation (2005). Low credibility.
+### Local complement C3 expression is upregulated in humoral and cellular rejection of renal allografts [^112MEENn]. American Journal of Transplantation (2005). Low credibility.
 
 Evidence on the role of the complement system in transplantation pathology has been accelerated by the discovery of C4d as an in situ marker of antibody-mediated rejection. However, a local or systemic source of complement expression during acute rejection is under discussion. Thus, we quantitatively analyzed local RNA expression of complement component C3 as a pivotal molecule in active humoral and cellular rejection of renal allografts. After laser microdissection, real-time RT-PCR was performed for C3 using RNA extracted from tubuli and glomeruli of 68 paraffin-embedded renal allograft biopsies. Protocol and indication biopsies with signs of humoral and/or cellular rejection were investigated. Quantitative expression analysis of cytokines (IFN gamma, MCP-1, IL2, IL8) potentially influencing local C3 expression was performed. We observed a significant increase in median expression level of C3 mRNA in tubuli of C4d-positive indication biopsies, and in tubuli from indication biopsies with signs of T-cell-mediated cellular rejection. Highest expression levels were found in C4d-positive indication biopsies with signs of cellular rejection. Biopsies with upregulated C3 showed increased IFN gamma expression, suggesting allograft-infiltrating T-cells as potential stimulus for local C3 expression. Therefore, locally synthesized complement component C3 contributes to both humoral and cellular rejection, with tubular epithelial cells being a major source.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^5a53c8a9]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^113Jv2bz]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 KDIGO recommendations — Treatment of acute rejection state: We recommend biopsy before treating acute rejection, unless the biopsy will substantially delay treatment. (1C) We suggest treating subclinical and borderline acute rejection. (2D) We recommend corticosteroids for the initial treatment of acute cellular rejection. (1D) We suggest adding or restoring maintenance prednisone in patients not on steroids who have a rejection episode. (2D) We suggest using lymphocyte-depleting antibodies or OKT3 (muromonab-CD3) for acute cellular rejections that do not respond to corticosteroids, and for recurrent acute cellular rejections. (2C) We suggest treating antibody-mediated acute rejection with one or more of the following alternatives, with or without corticosteroids (2C): plasma exchange; intravenous immunoglobulin; anti-CD20 antibody; lymphocyte-depleting antibody. We suggest adding mycophenolate if the patient is not receiving mycophenolate or azathioprine, or switching azathioprine to mycophenolate. (2D)
 
 ---
 
-### Urinary nitrate concentration as a marker for kidney transplant rejection [^0a1084dc]. BMC Nephrology (2020). Medium credibility.
+### Urinary nitrate concentration as a marker for kidney transplant rejection [^111FvRdm]. BMC Nephrology (2020). Medium credibility.
 
 Background
 

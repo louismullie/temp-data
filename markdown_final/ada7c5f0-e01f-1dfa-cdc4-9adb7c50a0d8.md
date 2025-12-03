@@ -15,25 +15,25 @@
 
 > Let's see… What do we have here? The user is asking about the best primary treatment for a 70-year-old with intermediate-risk chronic-phase CML. Let's break this down step-by-step. First, I need to think about confirming the disease phase and risk stratification. Then, I should verify how age and comorbidities modify first-line TKI selection. Next, I will weigh the trade-offs between second-generation TKIs and imatinib in older adults. After that, I should consider dosing strategies and special situations like lower-dose dasatinib. Finally, I will outline monitoring, milestones, and contingency plans if responses are suboptimal, anchoring to NCCN and ELN guidance.
 
-> Let me first confirm the clinical frame: at age 70, most patients present in chronic phase, and "intermediate CML" implies intermediate risk by Sokal, Hasford/Euro, or ELTS, which should be calculated explicitly before choosing therapy because it informs progression risk and TKI selection, with ELTS particularly predictive of CML-specific mortality on imatinib [^8f5be8d4] [^266f1a67].
+> Let me first confirm the clinical frame: at age 70, most patients present in chronic phase, and "intermediate CML" implies intermediate risk by Sokal, Hasford/Euro, or ELTS, which should be calculated explicitly before choosing therapy because it informs progression risk and TKI selection, with ELTS particularly predictive of CML-specific mortality on imatinib [^114fY6qh] [^111yyrAz].
 
-> Hold on, let's not jump to conclusions about using a second-generation TKI by default; I need to check how age and comorbidities shift the balance. NCCN notes that imatinib may be preferred in older patients or those with cardiovascular comorbidities because of a more favorable toxicity profile, even though 2G TKIs and asciminib achieve faster and deeper responses and reduce progression compared with imatinib, without a proven overall survival advantage in randomized trials [^de9cb156] [^521ad2de] [^63301a54].
+> Hold on, let's not jump to conclusions about using a second-generation TKI by default; I need to check how age and comorbidities shift the balance. NCCN notes that imatinib may be preferred in older patients or those with cardiovascular comorbidities because of a more favorable toxicity profile, even though 2G TKIs and asciminib achieve faster and deeper responses and reduce progression compared with imatinib, without a proven overall survival advantage in randomized trials [^116h2tBX] [^1136izgD] [^113Y3w23].
 
-> I should double-check the magnitude of benefit with 2G TKIs in intermediate-risk disease: randomized data show higher 12-month MMR and deeper molecular responses with dasatinib, nilotinib, and bosutinib, and asciminib achieved higher MMR than imatinib in ASC4FIRST, supporting preference for 2G TKIs or asciminib in intermediate/high-risk patients when toxicity is acceptable [^521ad2de] [^e53c079a].
+> I should double-check the magnitude of benefit with 2G TKIs in intermediate-risk disease: randomized data show higher 12-month MMR and deeper molecular responses with dasatinib, nilotinib, and bosutinib, and asciminib achieved higher MMR than imatinib in ASC4FIRST, supporting preference for 2G TKIs or asciminib in intermediate/high-risk patients when toxicity is acceptable [^1136izgD] [^116rrL1P].
 
-> But wait, what if the patient has cardiovascular disease, diabetes, or is on multiple medications with interaction potential? In that scenario, imatinib's cleaner cardiovascular and interaction profile becomes compelling, and real-world data in older adults show excellent outcomes with imatinib-based strategies and selective switching, reinforcing that imatinib remains a strong first-line choice when comorbidity or frailty is a concern [^de9cb156] [^12f4f856].
+> But wait, what if the patient has cardiovascular disease, diabetes, or is on multiple medications with interaction potential? In that scenario, imatinib's cleaner cardiovascular and interaction profile becomes compelling, and real-world data in older adults show excellent outcomes with imatinib-based strategies and selective switching, reinforcing that imatinib remains a strong first-line choice when comorbidity or frailty is a concern [^116h2tBX] [^111V74UV].
 
-> Let me consider dosing pragmatics for an older adult; I initially thought "standard-dose dasatinib 100 mg daily" would be reasonable, but wait, I should verify age-adjusted options. NCCN highlights that dasatinib 20 mg daily can be an appropriate starting dose in patients 65 years and older, with 50 mg daily also showing efficacy in low/intermediate-risk disease, so starting low and titrating based on response and tolerability is sensible in a 70-year-old to mitigate pleural effusions, bleeding, and cytopenias [^4e204e91] [^8089d26b].
+> Let me consider dosing pragmatics for an older adult; I initially thought "standard-dose dasatinib 100 mg daily" would be reasonable, but wait, I should verify age-adjusted options. NCCN highlights that dasatinib 20 mg daily can be an appropriate starting dose in patients 65 years and older, with 50 mg daily also showing efficacy in low/intermediate-risk disease, so starting low and titrating based on response and tolerability is sensible in a 70-year-old to mitigate pleural effusions, bleeding, and cytopenias [^1127jU3d] [^114HZi4S].
 
-> I need to ensure the monitoring plan is explicit: qPCR on the International Scale at diagnosis, then every 3 months until MMR, then every 3–6 months indefinitely, with cytogenetics if molecular milestones are not met; failure to achieve BCR-ABL1 IS ≤ 10% at 3 months, ≤ 1% at 6 months, or ≤ 0.1% at 12 months should trigger reassessment of adherence, drug interactions, and consideration of switching TKI or mutation testing, though in older adults a more conservative approach may be justified if the absolute risk of progression remains low and toxicity would offset benefit [^4e204e91] [^a016b911].
+> I need to ensure the monitoring plan is explicit: qPCR on the International Scale at diagnosis, then every 3 months until MMR, then every 3–6 months indefinitely, with cytogenetics if molecular milestones are not met; failure to achieve BCR-ABL1 IS ≤ 10% at 3 months, ≤ 1% at 6 months, or ≤ 0.1% at 12 months should trigger reassessment of adherence, drug interactions, and consideration of switching TKI or mutation testing, though in older adults a more conservative approach may be justified if the absolute risk of progression remains low and toxicity would offset benefit [^112zptNU] [^1156LemW].
 
-> Next, I should review contingency planning: if there is true imatinib resistance or intolerance, switching to a 2G TKI or asciminib is appropriate; if there is T315I or failure of two TKIs, ponatinib or asciminib are indicated; and if there is progression to accelerated or blast phase, evaluation for allogeneic transplant and clinical trials should be pursued, recognizing that most 70-year-olds will be evaluated case-by-case for transplant candidacy based on fitness and donor availability [^b8816fcb] [^d3d7053d].
+> Next, I should review contingency planning: if there is true imatinib resistance or intolerance, switching to a 2G TKI or asciminib is appropriate; if there is T315I or failure of two TKIs, ponatinib or asciminib are indicated; and if there is progression to accelerated or blast phase, evaluation for allogeneic transplant and clinical trials should be pursued, recognizing that most 70-year-olds will be evaluated case-by-case for transplant candidacy based on fitness and donor availability [^115iYCUz] [^116R4cQ4].
 
-> Putting this together, my recommendation is to individualize: if the 70-year-old is fit, without significant cardiovascular disease, and values faster deep responses with potential future discontinuation, a 2G TKI such as dasatinib 20–50 mg daily, bosutinib, nilotinib, or asciminib is preferred; if there are cardiovascular comorbidities, polypharmacy, or the patient prioritizes tolerability and cost, imatinib 400 mg daily is an excellent choice with close monitoring and a low threshold to switch if milestones are not met [^521ad2de] [^de9cb156] [^074bc4fb].
+> Putting this together, my recommendation is to individualize: if the 70-year-old is fit, without significant cardiovascular disease, and values faster deep responses with potential future discontinuation, a 2G TKI such as dasatinib 20–50 mg daily, bosutinib, nilotinib, or asciminib is preferred; if there are cardiovascular comorbidities, polypharmacy, or the patient prioritizes tolerability and cost, imatinib 400 mg daily is an excellent choice with close monitoring and a low threshold to switch if milestones are not met [^1136izgD] [^116h2tBX] [^112zptNU].
 
 ---
 
-For a 70-year-old with intermediate-risk chronic-phase CML, **second-generation TKIs (dasatinib, nilotinib, bosutinib) or asciminib are preferred** [^521ad2de] because they achieve faster and deeper molecular responses and reduce progression risk compared with imatinib [^63301a54] [^e53c079a]. Imatinib is a reasonable alternative if comorbidities (especially cardiovascular disease) [^de9cb156], drug interactions, or patient preference favor it [^2598f467]. Therapy should be **individualized** based on comorbidities, toxicity profiles, and patient goals, with close molecular monitoring to guide adjustments [^b4038fbd] [^074bc4fb].
+For a 70-year-old with intermediate-risk chronic-phase CML, **second-generation TKIs (dasatinib, nilotinib, bosutinib) or asciminib are preferred** [^1136izgD] because they achieve faster and deeper molecular responses and reduce progression risk compared with imatinib [^113Y3w23] [^116rrL1P]. Imatinib is a reasonable alternative if comorbidities (especially cardiovascular disease) [^116h2tBX], drug interactions, or patient preference favor it [^111xjvE2]. Therapy should be **individualized** based on comorbidities, toxicity profiles, and patient goals, with close molecular monitoring to guide adjustments [^115bsy7J] [^111BpN5g].
 
 ---
 
@@ -41,24 +41,24 @@ For a 70-year-old with intermediate-risk chronic-phase CML, **second-generation 
 
 According to the NCCN Guidelines (v2.2024), **preferred first-line options** for intermediate-risk CP-CML include:
 
-- **Second-generation TKIs (2G TKIs)**: dasatinib, nilotinib, bosutinib [^521ad2de].
-- **Allosteric TKI**: asciminib (STAMP inhibitor) [^e53c079a].
+- **Second-generation TKIs (2G TKIs)**: dasatinib, nilotinib, bosutinib [^1136izgD].
+- **Allosteric TKI**: asciminib (STAMP inhibitor) [^116rrL1P].
 
-These agents are preferred because they achieve **faster and deeper molecular responses** [^521ad2de] and reduce the risk of progression to advanced-phase CML compared with imatinib [^63301a54].
+These agents are preferred because they achieve **faster and deeper molecular responses** [^1136izgD] and reduce the risk of progression to advanced-phase CML compared with imatinib [^113Y3w23].
 
 ---
 
 ## Clinical evidence supporting second-generation TKIs
 
-Randomized controlled trials and long-term follow-up studies demonstrate that 2G TKIs achieve **higher rates of major molecular response (MMR)** and deep molecular response (DMR) than imatinib, translating into lower progression risk [^521ad2de] [^63301a54]. However, overall survival is similar across TKIs due to effective salvage therapies [^63301a54].
+Randomized controlled trials and long-term follow-up studies demonstrate that 2G TKIs achieve **higher rates of major molecular response (MMR)** and deep molecular response (DMR) than imatinib, translating into lower progression risk [^1136izgD] [^113Y3w23]. However, overall survival is similar across TKIs due to effective salvage therapies [^113Y3w23].
 
 ---
 
 ## Considerations for a 70-year-old patient
 
-In older adults, **treatment selection must balance efficacy with tolerability and comorbidities** [^b4038fbd]:
+In older adults, **treatment selection must balance efficacy with tolerability and comorbidities** [^115bsy7J]:
 
-- **Cardiovascular comorbidities**: Nilotinib and dasatinib carry cardiovascular risks (QT prolongation, ischemia, pleural effusions) [^notfound]; imatinib or asciminib may be safer in patients with significant cardiovascular disease [^de9cb156].
+- **Cardiovascular comorbidities**: Nilotinib and dasatinib carry cardiovascular risks (QT prolongation, ischemia, pleural effusions) [^notfound]; imatinib or asciminib may be safer in patients with significant cardiovascular disease [^116h2tBX].
 - **Pulmonary comorbidities**: Dasatinib-associated pleural effusions may be problematic; consider alternatives if significant lung disease is present.
 - **Hepatic comorbidities**: Nilotinib requires cautious use in hepatic impairment; monitor liver function closely.
 - **Drug interactions**: Nilotinib and bosutinib have CYP3A4 interactions; review concomitant medications carefully [^notfound].
@@ -67,7 +67,7 @@ In older adults, **treatment selection must balance efficacy with tolerability a
 
 ## Role of imatinib in older patients
 
-Imatinib remains a **reasonable first-line option** for older adults, particularly with comorbidities or when a gentler toxicity profile is desired [^de9cb156]. It is effective, well tolerated, and supported by long-term data showing durable responses and near-normal life expectancy [^322e3aad] [^ccaad85c]. However, it may be slower to achieve deep molecular responses, which can limit eligibility for treatment-free remission (TFR) strategies [^521ad2de].
+Imatinib remains a **reasonable first-line option** for older adults, particularly with comorbidities or when a gentler toxicity profile is desired [^116h2tBX]. It is effective, well tolerated, and supported by long-term data showing durable responses and near-normal life expectancy [^112HPui4] [^116ERrpb]. However, it may be slower to achieve deep molecular responses, which can limit eligibility for treatment-free remission (TFR) strategies [^1136izgD].
 
 ---
 
@@ -79,13 +79,13 @@ Regardless of the chosen TKI, **close molecular monitoring is essential**:
 - **Every 3 months**: Until MMR is achieved.
 - **Every 6 months**: Once MMR is stable.
 
-Key milestones include **BCR-ABL1 ≤ 10% at 3 months**, **≤ 1% at 6 months**, and **≤ 0.1% (MMR) at 12 months** [^2ba9b1f4]. Failure to meet these milestones should prompt reassessment of adherence, drug interactions, and consideration of switching therapy [^074bc4fb].
+Key milestones include **BCR-ABL1 ≤ 10% at 3 months**, **≤ 1% at 6 months**, and **≤ 0.1% (MMR) at 12 months** [^1127jU3d]. Failure to meet these milestones should prompt reassessment of adherence, drug interactions, and consideration of switching therapy [^111BpN5g].
 
 ---
 
 ## Treatment discontinuation and treatment-free remission
 
-TFR is a realistic goal for select patients who achieve and maintain **deep molecular response (DMR)** for at least 2 years [^notfound]. TFR is more likely with 2G TKIs or asciminib due to faster DMR kinetics, but older patients should be counseled on the risks and benefits, as relapse can occur and monitoring must remain vigilant [^521ad2de] [^9131f1be].
+TFR is a realistic goal for select patients who achieve and maintain **deep molecular response (DMR)** for at least 2 years [^notfound]. TFR is more likely with 2G TKIs or asciminib due to faster DMR kinetics, but older patients should be counseled on the risks and benefits, as relapse can occur and monitoring must remain vigilant [^1136izgD] [^114iFyrd].
 
 ---
 
@@ -101,13 +101,13 @@ TFR is a realistic goal for select patients who achieve and maintain **deep mole
 
 ## Conclusion and recommendation
 
-For a 70-year-old with intermediate-risk CP-CML, **2G TKIs or asciminib are preferred** for their superior molecular responses and lower progression risk [^521ad2de]. Imatinib is a valid alternative if comorbidities, interactions, or patient preference favor it [^de9cb156]. Therapy should be individualized, with close molecular monitoring and proactive management of adverse effects to optimize outcomes and quality of life [^b4038fbd] [^c9618af6].
+For a 70-year-old with intermediate-risk CP-CML, **2G TKIs or asciminib are preferred** for their superior molecular responses and lower progression risk [^1136izgD]. Imatinib is a valid alternative if comorbidities, interactions, or patient preference favor it [^116h2tBX]. Therapy should be individualized, with close molecular monitoring and proactive management of adverse effects to optimize outcomes and quality of life [^115bsy7J] [^1169ZGvy].
 
 ---
 
 ## References
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^de72bed7]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116gnnz2]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of chronic phase CML, NCCN 2024 guidelines recommend to consider offering the following other recommended regimens for primary treatment in patients with chronic phase chronic myeloid leukemia with intermediate- or high-risk score:
 
@@ -117,13 +117,13 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### Is there a best TKI for chronic phase CML? [^d04add9c]. Hematology: American Society of Hematology. Education Program (2015). Low credibility.
+### Is there a best TKI for chronic phase CML? [^116Koa7m]. Hematology: American Society of Hematology. Education Program (2015). Low credibility.
 
 The development of BCR/ABL1 tyrosine kinase inhibitors (TKIs) over the past 20 years has dramatically improved the outcomes for patients with every stage of Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML). Clinicians now have access to 5 oral, generally well-tolerated, and highly effective TKIs. How should these agents be used for an individual patient to ensure the best possible duration and quality-of-life, to avoid treatment-related complications, and potentially to achieve a cure at an affordable cost? Because CML patients may need to continue TKI therapy indefinitely, the long-term safety of each treatment option must be considered. Evidence-based care requires an understanding of the optimal use of these drugs, their specific early and late toxicities, the prognostic significance of achieving treatment milestones, and the critical importance of molecular monitoring. Efficacy is important, but treatment choice does not depend only on efficacy. Choosing among various treatment options is informed by understanding the distinct benefits and risks of each agent, along with careful consideration of patient-specific factors, such as risk status, age, and comorbidities.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1dcff253]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^111mCVJJ]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of chronic phase CML, NCCN 2024 guidelines recommend to offer the following preferred regimens for primary treatment in patients with chronic phase chronic myeloid leukemia with intermediate- or high-risk score:
 
@@ -133,13 +133,13 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### How I individualize treatment for chronic-phase CML [^e8e8d159]. Blood (2025). Medium credibility.
+### How I individualize treatment for chronic-phase CML [^116xJL32]. Blood (2025). Medium credibility.
 
 Chronic myeloid leukemia (CML) has served as a paradigm for the development of effective initial and next-generation targeted therapies. The availability of five effective and generally well-tolerated BCR::ABL1 tyrosine kinase inhibitors for the treatment of newly diagnosed chronic phase CML offers patients and their treating physicians a welcome luxury of choice. The long-term outlook for newly diagnosed chronic phase CML patients is excellent, with expected survival similar to age-matched controls. However, most patients are expected to require lifelong treatment. As a result, important considerations when choosing frontline treatment include not only treatment efficacy, but also response durability, tolerability, maximizing quality of life, avoidance of serious and irreversible toxicities, the ease of treatment administration and increasingly, the cost of treatment to the patient as well as to society.
 
 ---
 
-### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^dc503ce6]. Leukemia (2022). Medium credibility.
+### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^116ddEA9]. Leukemia (2022). Medium credibility.
 
 What is the appropriate goal of CML therapy?
 
@@ -147,7 +147,7 @@ The optimal goal of CML therapy is cure resulting in normal sex- and age-adjuste
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^b4038fbd]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^115bsy7J]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of chronic phase CML, NCCN 2024 guidelines recommend to take into account the following general treatment considerations for patients with chronic phase chronic myeloid leukemia, independent of risk score:
 
@@ -163,67 +163,67 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^f8196790]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^117LpTou]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CP-CML) — treatment considerations independent of risk score include BCR::ABL1 transcript type, age, comorbidities, toxicity profile of tyrosine kinase inhibitor (TKI), TKI dosing schedule, possible drug interactions, treatment goal, medication cost, and patient preference.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^6926b5e7]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113gthjU]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CP-CML) — primary treatment by risk score specifies that for a low-risk score, preferred options are First-generation (1G) TKI (Imatinib [category 1]) or Second-generation (2G) TKI (alphabetical order) (Bosutinib [category 1] or Dasatinib [category 1] or Nilotinib [category 1]) or Allosteric TKI (Asciminibg [category 1]) or Clinical trial. For an intermediate- or high-risk score, preferred options are 2G TKI (alphabetical order) (Bosutinib [category 1] or Dasatinib [category 1] or Nilotinib [category 1]) or Allosteric TKI (Asciminibg [category 1]), and other recommended therapy is 1G TKI (Imatinib)n or Clinical trial. Both pathways direct to Response Milestones and Treatment Options (CML-3)o, p, and the page notes, Note: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^cb0454b8]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116Bywaf]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase chronic myeloid leukemia (CML) — risk-adapted TKI selection: Based on follow-up data from the BFORE, DASISION, ENESTnd, and ASCEMBL trials, 2G TKIs (bosutinib, dasatinib, and nilotinib) and allosteric TKIs (asciminib) are preferred for patients with an intermediate- or high-risk score. 2G and allosteric TKIs should also be considered for specific subgroups (based on the assessment of treatment goals and benefit/risks), for example, younger patients and those interested in ultimately discontinuing treatment and especially young patients assigned female at birth whose goal is to achieve a deep and rapid molecular response and eventual discontinuation of TKI therapy for family planning purposes.
 
 ---
 
-### Tyrosine kinase inhibitors in chronic myeloid leukaemia: which, when, for whom? [^ccf8a271]. Nature Reviews: Clinical Oncology (2017). Medium credibility.
+### Tyrosine kinase inhibitors in chronic myeloid leukaemia: which, when, for whom? [^116EszHE]. Nature Reviews: Clinical Oncology (2017). Medium credibility.
 
 The therapeutic armamentarium for chronic myeloid leukaemia (CML) comprises mainly tyrosine kinase inhibitors (TKIs), with several agents available for frontline treatment, or for the treatment of disease resistance or intolerance to the first-choice or second-choice drug. The availability of different drugs is a major achievement, but means that choices must be made - which can be difficult and questionable at times. The most important end point considered in decision-making regarding treatment for any cancer is overall survival, but additional factors (such as age, prognostic category, safety, or the possibility of achieving treatment-free remission) should be considered when selecting an agent for frontline treatment. Regardless of the TKI selected for first-line treatment, guidelines that define the importance of reaching specific response indicators and procedures for vigilant follow-up monitoring are established to ensure timely implementation of second-line TKIs. Herein, we discuss the benefits and risks of the different TKIs available for the treatment of patients with CML, and how to decide when to employ these agents at different treatment settings.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^4a057427]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^112tjv6r]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase chronic myeloid leukemia (CML) — recommendation category: All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^ae4eb822]. Leukemia (2025). Medium credibility.
+### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^115TRHcM]. Leukemia (2025). Medium credibility.
 
 In this 5th version of the European LeukemiaNet guidance for adult patients, there are important changes in several areas of management based on evidence available since 2020, including the World Health Organisation's reclassification of CML as a biphasic disease. Previous advice to switch the tyrosine kinase inhibitor (TKI) on failure of molecular milestones, is modified to better account for individual patient circumstances. Our recommendations are summarized in tables designed to be read in conjunction with the text which offers justification and additional advice. We describe decision-making for first-line treatment, both in available drugs and their initial dosing. Similarly we elaborate on dose reduction rather than drug switching to manage toxicities and discuss treatment sequencing. Data have matured for the outcome of treatment discontinuation and for management of parenting for both men and women. We acknowledge that most patients will remain on treatment for many years and emphasize the needs to minimize side effects, manage co-morbidities and optimize quality of life. Recent advances in allogeneic stem cell transplantation have broadened access to alternative donors, and lessened limitations of age and co-morbidities such that transplant remains a valuable option for patients for whom long-term disease control is not achieved through TKI therapy.
 
 ---
 
-### Update on current monitoring recommendations in chronic myeloid leukemia: practical points for clinical practice [^c9618af6]. Hematology: American Society of Hematology. Education Program (2013). Low credibility.
+### Update on current monitoring recommendations in chronic myeloid leukemia: practical points for clinical practice [^1169ZGvy]. Hematology: American Society of Hematology. Education Program (2013). Low credibility.
 
 Excellent therapeutic options exist for the treatment of chronic-phase chronic myeloid leukemia (CML) patients. Therefore, managing CML patients has become a more common practice for many physicians. Most chronic-phase CML patients achieve durable cytogenetic and molecular responses on first-line tyrosine kinase inhibitor therapy. However, careful monitoring and assessment of adherence are essential for successful outcomes and to identify patients at risk for failing therapy. The European LeukemiaNet and National Comprehensive Cancer Network provide guidance and strategies for monitoring and managing patients treated with TKIs. These recommendations continue to evolve as approved treatment options expand to include second- and third-generation tyrosine kinase inhibitors. How measurements of response are defined and data supporting recent recommended changes to monitoring are reviewed here. These changes include increasing recognition of the importance of early response. The relevance of achieving deep molecular responses will also be addressed.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^483b6727]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^112r64Z4]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CML) — initiating lower-dose first-line tyrosine kinase inhibitor (TKI) therapy: In a single-center pilot dasatinib study, 81 evaluable patients, mostly low- or intermediate-risk by Sokal score and with minimum follow-up of 12 months, had cumulative 12‑month responses with major molecular response (MMR), MR4, and MR4.5 of 81%, 55%, and 49%, respectively. In the DAVLEC phase II dasatinib study of older patients, 52 patients aged > 70 years with median follow-up of 366 days achieved MMR at 12 months in 60% of patients. MR4.0 and MR4.5 were defined as MR4.0, ≤ 0.01% BCR::ABL1 IS and MR4.5, ≤ 0.0032% BCR::ABL1 IS.
 
 ---
 
-### Chronic myeloid leukemia: what is the best strategy to start and monitor treatment outside academic centers? [^00658701]. Current Oncology Reports (2018). Low credibility.
+### Chronic myeloid leukemia: what is the best strategy to start and monitor treatment outside academic centers? [^1111b6uv]. Current Oncology Reports (2018). Low credibility.
 
 The introduction of tyrosine kinase inhibitors (TKI) has dramatically changed the outcome of chronic myeloid leukemia (CML). Over the last decade, imatinib positioned itself as the gold standard of care, until second-generation TKIs were introduced as first-line treatment. Multiple therapeutic options available today in CML make the decision of the first-line therapy a difficult choice. However, a gap still exists, in the management of CML outside academic centers. Important advances in molecular monitoring have been developed worldwide; nevertheless, monitoring in the "real world" continues to be a challenge in part because international scale (IS) standardized laboratories are not available worldwide, and also because physicians still have some resource barriers and lack of familiarity restricting guideline adoption and consider optimal molecular monitoring a challenge. This review addresses CML first-line treatment, monitoring aspects and giving practical advice, identifying prognostic factors, and guiding management of CML for non-academic centers.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^8089d26b]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^114HZi4S]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN Chronic Myeloid Leukemia — Table 10: Initiating lower dose first-line tyrosine kinase inhibitor (TKI) therapy summarizes dasatinib outcomes at 12 months. In a single-center pilot study of 81 evaluable patients, the majority had low-risk (n = 55; 66%) or intermediate-risk (n = 21; 25%) disease by Sokal score with minimum follow-up 12 months, and the cumulative rates for major molecular response (MMR), MR4, and MR4.5 at 12 months were 81%, 55%, and 49% of patients, respectively. In DAVLEC (Phase II study), among 52 patients aged > 70 years with median follow-up of 366 days, MMR at 12 months was achieved in 60% of patients.
 
 ---
 
-### Treatment of chronic myelogenous leukemia as a paradigm for solid tumors: how targeted agents in newly diagnosed disease transformed outcomes… [^93699787]. ASCO (2012). Low credibility.
+### Treatment of chronic myelogenous leukemia as a paradigm for solid tumors: how targeted agents in newly diagnosed disease transformed outcomes… [^114mYeXG]. ASCO (2012). Low credibility.
 
 Abstract Overview: Although chronic myelogenous leukemia is rare, with approximately 5000 new cases in the United States annually, it may be the poster child for the future of oncology. Imatinib mesylate, a selective Bcr-Abl tyrosine kinase inhibitor, transformed the course of CML from a rapidly fatal disease to a functionally curable, indolent disease with an estimated median survival of more than 25 years. This transformation can be attributed to several key factors: the identification of a causal and actionable molecular aberration —. BCR-ABL; the development of a potent and selective Bcr-Abl TKI — imatinib; and, importantly the application of imatinib in the earliest phase of CML. In contrast, imatinib, if used in CML blastic phase, improves median survival to only about 1 year.
 
@@ -233,7 +233,7 @@ Patients diagnosed with chronic-phase CML today may be reassured, with our curre
 
 ---
 
-### CML and the WHO: why? [^a02d9657]. ASCO (2024). Medium credibility.
+### CML and the WHO: why? [^1156ULCe]. ASCO (2024). Medium credibility.
 
 With TKI therapy and careful disease monitoring, the incidence of progression to advanced phase disease has decreased, and the 10-year overall survival rate for CML is 80%-90%. The designation of AP has thus become less relevant, where resistance stemming from ABL1 kinase mutations and/or additional cytogenetic abnormalities and the development of BP represent key disease attributes. Accordingly, AP is omitted in the current classification in favor of an emphasis on high-risk features associated with CP progression and resistance to TKIs". Modifying the criteria for AP does not pose a problem; in fact it is expected when new therapies are introduced that transform the landscape as dramatically as imatinib did for CML. However, as practicing oncologists who see patients with CML, we have to consider the clinical utility of the term AP and whether deleting it from the current WHO classification solves or creates a problem.
 
@@ -243,7 +243,7 @@ Why is the substitution — high-risk features associated with CP progression an
 
 ---
 
-### Chronic myeloid leukemia… [^726469f8]. NCI (2025). Medium credibility.
+### Chronic myeloid leukemia… [^113vbKM9]. NCI (2025). Medium credibility.
 
 Treatment of Chronic Phase Chronic Myeloid Leukemia Treatment of chronic phase chronic myeloid leukemia may include:
 
@@ -263,25 +263,25 @@ Treatment of Relapsed Chronic Myeloid Leukemia In relapsed chronic myeloid leuke
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^4bd44007]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^112wRN6r]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Management of chronic phase chronic myeloid leukemia (CP-CML) — first-line tyrosine kinase inhibitor (TKI) therapy: Long-term efficacy data from randomized phase III studies indicate that all TKIs are highly effective as primary treatment with long-term overall survival (OS) expected to be similar to that of age-matched controls, while 2G TKIs (bosutinib, dasatinib, and nilotinib) and asciminib generally result in faster cytogenetic and molecular responses with less progression to advanced phase CML compared to imatinib; as of yet, randomized trials show no significant differences in OS between imatinib and a 2G TKI or asciminib.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^63301a54]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113Y3w23]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Primary treatment of newly diagnosed chronic phase chronic myeloid leukemia (CP-CML) is summarized from randomized phase III data: "all TKIs are highly effective as primary treatment for patients with newly diagnosed CP-CML, with long-term OS expected to be similar to that of aged-matched controls; 2) 2G TKIs (bosutinib, dasatinib and nilotinib) and allosteric TKI (asciminib; STAMP [specifically targeting the ABL myristoyl pocket] inhibitor), generally result in faster cytogenetic and molecular responses, with less progression to advanced phase CML, compared to imatinib; and 3) in randomized clinical trials, as of yet, there are no significant differences in OS between imatinib and a 2G TKI or asciminib". Regarding generics, "Generic versions have been shown to be noninferior to innovator drugs in terms of efficacy with an acceptable toxicity profile", thus "FDA-approved generic versions are appropriate substitutes for innovator drugs", and "Innovator and generic drugs approved by the regulatory authorities based on pharmacokinetic equivalence can be used interchangeably".
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^2a266298]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1125VNe3]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CP-CML) subgroup and toxicity considerations — 2G TKIs and asciminib should also be considered for specific subgroups based on treatment goals and benefit/risks, including younger patients interested in ultimately discontinuing treatment and particularly young patients assigned female at birth aiming for a deep and rapid molecular response to allow eventual TKI discontinuation for family planning. Imatinib may be preferred for older patients with comorbidities, especially cardiovascular comorbidities. All the TKIs are generally well tolerated, and differences in potential toxicity profiles may inform initial agent selection.
 
 ---
 
-### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^893bbefa]. Leukemia (2025). Medium credibility.
+### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^114WTNZ7]. Leukemia (2025). Medium credibility.
 
 Introduction
 
@@ -291,19 +291,19 @@ Our intention is not to repeat in detail previously available information and re
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^04fa1d6d]. Journal of the National Comprehensive Cancer Network (2024). Medium credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1118Nxm2]. Journal of the National Comprehensive Cancer Network (2024). Medium credibility.
 
 Chronic myeloid leukemia (CML) is defined by the presence of Philadelphia chromosome resulting from a reciprocal translocation between chromosomes 9 and 22 [t9;22] that gives rise to a BCR::ABL1 fusion gene. CML occurs in 3 different phases (chronic, accelerated, and blast phase) and is usually diagnosed in the chronic phase in developed countries. Tyrosine kinase inhibitor (TKI) therapy is a highly effective treatment option for patients with chronic phase-CML. The primary goal of TKI therapy in patients with chronic phase-CML is to prevent disease progression to accelerated phase-CML or blast phase-CML. Discontinuation of TKI therapy with careful monitoring is feasible in selected patients. This manuscript discusses the recommendations outlined in the NCCN Guidelines for the diagnosis and management of patients with chronic phase-CML.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^69eec350]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113i3u4s]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN CML — Treatment considerations (CML-4) add "BCR::ABL1 transcript type" as bullet 1.
 
 ---
 
-### Management of chronic myeloid leukemia in 2023-common ground and common sense [^ccaad85c]. Blood Cancer Journal (2023). Medium credibility.
+### Management of chronic myeloid leukemia in 2023-common ground and common sense [^116ERrpb]. Blood Cancer Journal (2023). Medium credibility.
 
 What is the true incidence of resistance to optimal frontline TKI therapy?
 
@@ -311,25 +311,25 @@ It is often stated that the incidence of primary resistance to frontline TKI the
 
 ---
 
-### First-generation vs second-generation tyrosine kinase inhibitors: which is best at diagnosis of chronic phase chronic myeloid leukemia? [^a6efc9cc]. Hematology: American Society of Hematology. Education Program (2020). Medium credibility.
+### First-generation vs second-generation tyrosine kinase inhibitors: which is best at diagnosis of chronic phase chronic myeloid leukemia? [^115GVVET]. Hematology: American Society of Hematology. Education Program (2020). Medium credibility.
 
 In 2020, for the great majority of patients with chronic phase chronic myeloid leukemia (CML), life expectancy is unaffected by a diagnosis of CML because of the unparalleled efficacy of ABL-targeted tyrosine kinase inhibitors (TKIs) in halting disease progression. A wealth of choices exist for first-line treatment selection, including the first-generation TKI imatinib and the second-generation TKIs bosutinib, dasatinib, and nilotinib. How I select first-line therapy between first-generation and second-generation TKIs is discussed in the context of patient-specific CML disease risk, therapy-related risks, and treatment goals. Although rare, identifying patients with CML at higher risk for disease progression or resistance is important and influences first-line TKI selection. I review the impact of first-generation vs second-generation TKI selection on treatment response and outcomes; the ability to achieve, as well as the timing of, treatment-free remission; and the impact of specific TKIs on longer-term health.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^de9cb156]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116h2tBX]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase chronic myeloid leukemia (CML) — older/comorbid patients: Imatinib may be preferred for patients who are older with comorbidities such as cardiovascular disease.
 
 ---
 
-### Current CML guidelines overemphasize second generation TKIs: revisiting the paradigm [^ea96509a]. Blood Cancer Journal (2023). Medium credibility.
+### Current CML guidelines overemphasize second generation TKIs: revisiting the paradigm [^116znbK7]. Blood Cancer Journal (2023). Medium credibility.
 
 Current National Comprehensive Cancer Network guidelines (NCCN version 1.2023) for chronic-phase chronic myeloid leukemia (CML) recommend second-generation tyrosine kinase inhibitors (2G-TKIs) as first-line therapy for patients with intermediate or high-risk Sokal or Euro scores. In this editorial, we discuss why imatinib should be the preferred first-line drug for all risk groups.
 
 ---
 
-### Management of chronic myeloid leukemia in 2023-common ground and common sense [^d90d23d3]. Blood Cancer Journal (2023). Medium credibility.
+### Management of chronic myeloid leukemia in 2023-common ground and common sense [^116Ynj94]. Blood Cancer Journal (2023). Medium credibility.
 
 Introduction
 
@@ -337,7 +337,7 @@ Today, we celebrate two decades of experience with imatinib and later-generation
 
 ---
 
-### Chronic myeloid leukemia treatment (PDQ ®)-NCI… [^edba44f1]. NCI (2025). Medium credibility.
+### Chronic myeloid leukemia treatment (PDQ ®)-NCI… [^1175SdcC]. NCI (2025). Medium credibility.
 
 Hydroxyurea is used primarily to stabilize patients with hyperleukocytosis or as palliative therapy for patients who have not responded to other therapies. Treatment of Chronic-Phase CML Treatment Options for Chronic-Phase CML Treatment options for chronic-phase chronic myeloid leukemia include:
 
@@ -352,55 +352,55 @@ In the first year, it appears that the efficacy of asciminib is equivalent to th
 
 ---
 
-### Update: chronic myelogenous leukemia clinical practice guidelines [^dff194db]. Journal of the National Comprehensive Cancer Network (2003). Low credibility.
+### Update: chronic myelogenous leukemia clinical practice guidelines [^116j1PEJ]. Journal of the National Comprehensive Cancer Network (2003). Low credibility.
 
 Although meetings to update the specific NCCN Clinical Practice Guidelines in Oncology generally occur only once a year, the panel on chronic myelogenous leukemia (CML) met shortly after devising the original guideline. The reason was the incorporation of the then recently U.S. Food and Drug Administration (FDA)-approved tyrosine kinase inhibitor STI-571, or imatinib mesylate, into the guidelines. The treatment of CML has been radically altered by the introduction of imatinib. However, important questions still have not been answered. For example, which patients may be cured with imatinib and which patients should still be offered transplant early in the course of their disease?
 
 ---
 
-### Challenges in management of older patients with chronic myeloid leukemia [^cd9de112]. Leukemia & Lymphoma (2024). Medium credibility.
+### Challenges in management of older patients with chronic myeloid leukemia [^116FqVWH]. Leukemia & Lymphoma (2024). Medium credibility.
 
 Tyrosine kinase inhibitors (TKIs) have significantly improved the survival of patients with chronic myeloid leukemia (CML), however, older patients are often underrepresented in pivotal trials. Approximately 20% of older adults never start treatment and face significant barriers to accomplish favorable outcomes. The treatment goal is to improve survival, prevent progression, and preserve quality of life. This is achieved through optimizing TKI doses and employing discontinuation strategies to attain treatment-free remission (TFR), a goal increasingly pursued by older patients. Imatinib may be favored as the front-line option for older individuals due to its side effect profile and cost. Bosutinib's favorable cardiovascular tolerability makes it a suitable second-line agent, but lower-dose dasatinib may likewise be an attractive option. The prevalence of comorbidities can preclude the use of second generation TKIs in some older patients. Optimal care for older patients with CML centers on personalized treatment, close monitoring, and proactive support.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^6b2f16f7]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113juVY2]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN CML — response milestones and transplant evaluation states that a significant proportion of advanced-phase patients on TKI achieve a major cytogenetic response (MCyR) without a complete hematologic response (CHR) due to persistent cytopenias, which is associated with an inferior outcome; there is a lack of evidence defining optimal response milestones; evaluation for allogeneic HCT should be considered if milestones are not achieved at 3, 6, and 12 months.
 
 ---
 
-### European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia [^074bc4fb]. Leukemia (2020). Medium credibility.
+### European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia [^111BpN5g]. Leukemia (2020). Medium credibility.
 
 The therapeutic landscape of chronic myeloid leukemia (CML) has profoundly changed over the past 7 years. Most patients with chronic phase (CP) now have a normal life expectancy. Another goal is achieving a stable deep molecular response (DMR) and discontinuing medication for treatment-free remission (TFR). The European LeukemiaNet convened an expert panel to critically evaluate and update the evidence to achieve these goals since its previous recommendations. First-line treatment is a tyrosine kinase inhibitor (TKI; imatinib brand or generic, dasatinib, nilotinib, and bosutinib are available first-line). Generic imatinib is the cost-effective initial treatment in CP. Various contraindications and side-effects of all TKIs should be considered. Patient risk status at diagnosis should be assessed with the new EUTOS long-term survival (ELTS)-score. Monitoring of response should be done by quantitative polymerase chain reaction whenever possible. A change of treatment is recommended when intolerance cannot be ameliorated or when molecular milestones are not reached. Greater than 10% BCR-ABL1 at 3 months indicates treatment failure when confirmed. Allogeneic transplantation continues to be a therapeutic option particularly for advanced phase CML. TKI treatment should be withheld during pregnancy. Treatment discontinuation may be considered in patients with durable DMR with the goal of achieving TFR.
 
 ---
 
-### Tyrosine kinase inhibitor treatment for newly diagnosed chronic myeloid leukemia [^1539fe09]. Hematology/Oncology Clinics of North America (2017). Low credibility.
+### Tyrosine kinase inhibitor treatment for newly diagnosed chronic myeloid leukemia [^111YUDha]. Hematology/Oncology Clinics of North America (2017). Low credibility.
 
 Chronic myeloid leukemia (CML) is a myeloproliferative disorder that accounts for approximately 10% of new cases of leukemia. The introduction of tyrosine kinase inhibitors has led to a reduction in mortalities. Thus, the estimated prevalence of CML is increasing. The National Comprehensive Cancer Network and the European Leukemia Net guidelines incorporate frequent molecular monitoring of the fusion BCR-ABL transcript to ensure that patients reach and keep treatment milestones. Most patients with CML are diagnosed in the chronic phase, and approximately 10% to 30% of these patients will at some time in their course meet definition criteria of resistance to imatinib.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^2598f467]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^111xjvE2]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Clinical considerations for selecting first-line TKI therapy in CP-CML: The choice among asciminib, bosutinib, dasatinib, imatinib, or nilotinib should be based on the risk score, toxicity profile and dosing schedule of the TKI, the patient's age, ability to tolerate therapy, the presence of comorbid conditions, patient preference, treatment goals, and medication costs.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^9131f1be]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^114iFyrd]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN Chronic Myeloid Leukemia — discontinuation of tyrosine kinase inhibitor (TKI) therapy general considerations — discontinuation of TKI therapy appears to be safe in select patients with CML, and clinicians should consult with a CML specialist to review appropriateness and risks, with discontinuation performed only in patients who give consent after discussion of risks and benefits. Consultation with an NCCN Panel Member or center of expertise is recommended for any significant adverse event related to treatment discontinuation, if there is progression to AP-CML or BP-CML at any time, or when MMR is not regained after 3 months following treatment reinitiation. Outside of a clinical trial, discontinuation of TKI therapy should be considered only if all of the criteria included in the list below are met, and all recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^458191a5]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^112n3fek]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CML) management of intolerance and primary resistance — Switching to an alternate tyrosine kinase inhibitor (TKI) because of intolerance is appropriate for patients with disease responding to TKI therapy and it might be beneficial for selected patients with acute grade ≥ 3 nonhematologic toxicities or for those with chronic, low-grade nonhematologic toxicities that are not manageable with adequate supportive care; Asciminib and ponatinib are appropriate treatment options for CP-CML with intolerance to prior 2G TKIs. In a significant proportion of patients with TKI-induced toxicities, responses have been observed with doses well below their determined maximum tolerated doses, and short interruptions or dose reductions, when medically necessary, may not have a negative impact on disease control or other outcomes. Aberrant expressions of drug transporters and plasma protein binding of TKI could contribute to primary resistance by altering the intracellular and plasma concentration of TKI.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^91627c95]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^114iYHY8]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of advanced phase CML (blast phase), NCCN 2024 guidelines recommend to offer the following for patients in remission:
 
@@ -410,67 +410,67 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### Tyrosine kinase inhibitor therapy for chronic myeloid leukemia: approach to patients with treatment-naive or refractory chronic-phase disease [^e84d2191]. Hematology: American Society of Hematology. Education Program (2011). Low credibility.
+### Tyrosine kinase inhibitor therapy for chronic myeloid leukemia: approach to patients with treatment-naive or refractory chronic-phase disease [^116wQ31r]. Hematology: American Society of Hematology. Education Program (2011). Low credibility.
 
 The 21st century ushered in the dawn of a new era of targeted therapeutics and a dramatic shift in the management of chronic-phase chronic myeloid leukemia (CP-CML) patients. Groundbreaking scientific and translational studies have led to the rapid development and approval of several effective BCR-ABL tyrosine kinase inhibitors (TKIs). In the United States, there are currently 3 approved BCR-ABL TKIs for newly diagnosed CP-CML patients. It is anticipated that clinical outcomes will continue to improve as more TKIs that address unmet medical needs are approved. However, to achieve this goal, it is critical to carefully monitor and optimally manage patients. To this end, the latest seminal clinical trial results of approved and investigational BCR-ABL TKIs and some of the salient unique features of each of these agents are summarized herein.
 
 ---
 
-### Expert opinion-management of chronic myeloid leukemia after resistance to second-generation tyrosine kinase inhibitors [^c9f2380b]. Leukemia (2020). Medium credibility.
+### Expert opinion-management of chronic myeloid leukemia after resistance to second-generation tyrosine kinase inhibitors [^116APsSz]. Leukemia (2020). Medium credibility.
 
 Regardless of line of therapy, treatment goals in chronic phase chronic myeloid leukemia (CML) are: avoid progression to accelerated phase or blast crisis CML such that patients achieve a life expectancy comparable with that of the general population; avoid adverse events (AEs); and restore and maintain quality of life. The most important prognostic factor for achieving these goals is response to tyrosine kinase inhibitors (TKIs) at key milestones. For patients failing a TKI, a treatment change is mandatory to limit the risk of progression and death. There is currently no precise guideline for patients that fail a second-generation TKI, and there is a paucity of data to guide clinical decision making in this setting. There is, therefore, an unmet need for practical and actionable guidance on how to manage patients who fail a second-generation TKI. Although the term 'failure' includes patients failing for resistance or intolerance, the focus of this paper is failure of a second-generation TKI because of resistance. CML patients who fail their first second-generation TKI for true resistance need a more potent therapy. In these patients, the key issues to consider are the relative appropriateness of early allogeneic hematopoietic stem cell transplantation or the use of a further TKI. Selection of the next line of treatment after second-generation TKI resistance should be individualized and must be based on patient-specific factors including cytogenetics, mutation profile, comorbidities, age, previous history of AEs with prior TKI therapy, and risk profile for AEs on specific TKIs. This expert opinion paper is not in conflict with existing recommendations, but instead represents an evolution of previous notions, based on new data, insights, and clinical experience. We review the treatment options for patients resistant to second-generation TKI therapy and provide our clinical opinions and guidance on key considerations for treatment decision making.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^2b00e70d]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1126kmhe]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia — additional management considerations include referral and testing options and specific situations: Consider referral to a specialized CML center and/or enrollment in a clinical trial. Switching to an alternate TKI for intolerance is appropriate for patients with disease responding to TKI therapy. Consider myeloid mutation panel to identify BCR::ABL1–independent resistance mutations in patients with no BCR::ABL1 kinase domain mutations. Switching from imatinib to a 2G TKI or allosteric TKI may improve response, and the side effect profile of alternative TKIs may differ. Discontinuation of TKI with careful monitoring is feasible in selected patients. All recommendations are category 2A unless otherwise indicated.
 
 ---
 
-### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^f4648a2a]. Annals of Oncology (2017). Medium credibility.
+### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^117FKkS5]. Annals of Oncology (2017). Medium credibility.
 
 Regarding medical management for chronic myeloid leukemia, more specifically with respect to management of chronic phase, front-line regimens, ESMO 2017 guidelines recommend to decide on the choice of TKI based on treatment goals, age, and comorbidities, taking into consideration the adverse event profile of the available drugs.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^6602c4b7]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113cEfgJ]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Advanced phase chronic myeloid leukemia (CML) — the presence of major route ACAs in Ph-positive cells may have a negative prognostic impact on survival; patients who present with accelerated phase at diagnosis should receive a TKI at the FDA-approved dose for accelerated phase followed by evaluation for allogeneic HCT based on response, and evaluation for allogeneic HCT should be considered if response milestones are not achieved at 3, 6, and 12 months.
 
 ---
 
-### Chronic myeloid leukemia in the tyrosine kinase inhibitor era: what is the best therapy? [^e36c2468]. Current Oncology Reports (2009). Low credibility.
+### Chronic myeloid leukemia in the tyrosine kinase inhibitor era: what is the best therapy? [^116pAWkX]. Current Oncology Reports (2009). Low credibility.
 
 Imatinib mesylate, 400 mg/d, is considered standard therapy for managing patients with chronic myeloid leukemia (CML) in chronic phase, yielding high rates of cytogenetic responses that translate into favorable long-term outcomes. However, some patients do not achieve adequate levels of response, lose a previously acquired response, or are forced to discontinue imatinib therapy because of safety reasons. To avoid these outcomes, several approaches are being tested in the frontline setting, including the use of higher imatinib doses or second-generation tyrosine kinase inhibitors such as nilotinib or dasatinib, the latter of which is approved only for managing patients who have imatinib therapy failure. Newer multikinase inhibitors active against multiple ABL1 mutations are also under development for patients in any CML phase who have therapy failure on sequential imatinib and a second-generation tyrosine kinase inhibitor or carry the highly resistant T315I mutation and are not candidates for allogeneic stem cell transplantation. Some of these approaches are expected to improve the outcomes of patients with CML.
 
 ---
 
-### Long-term outcome of patients with newly diagnosed chronic myeloid leukemia: a randomized comparison of stem cell transplantation with drug treatment [^857f3ea1]. Leukemia (2016). Low credibility.
+### Long-term outcome of patients with newly diagnosed chronic myeloid leukemia: a randomized comparison of stem cell transplantation with drug treatment [^114Qv6QY]. Leukemia (2016). Low credibility.
 
 Tyrosine kinase inhibitors represent today's treatment of choice in chronic myeloid leukemia (CML). Allogeneic hematopoietic stem cell transplantation (HSCT) is regarded as salvage therapy. This prospective randomized CML-study IIIA recruited 669 patients with newly diagnosed CML between July 1997 and January 2004 from 143 centers. Of these, 427 patients were considered eligible for HSCT and were randomized by availability of a matched family donor between primary HSCT (group A; N = 166 patients) and best available drug treatment (group B; N = 261). Primary end point was long-term survival. Survival probabilities were not different between groups A and B (10-year survival: 0.76 (95% confidence interval (CI): 0.69–0.82) vs 0.69 (95% CI: 0.61–0.76)), but influenced by disease and transplant risk. Patients with a low transplant risk showed superior survival compared with patients with high- (P < 0.001) and non-high-risk disease (P = 0.047) in group B; after entering blast crisis, survival was not different with or without HSCT. Significantly more patients in group A were in molecular remission (56% vs 39%; P = 0.005) and free of drug treatment (56% vs 6%; P < 0.001). Differences in symptoms and Karnofsky score were not significant. In the era of tyrosine kinase inhibitors, HSCT remains a valid option when both disease and transplant risk are considered.
 
 ---
 
-### Practical monitoring of chronic myelogenous leukemia: when to change treatment [^834e45da]. Journal of the National Comprehensive Cancer Network (2012). Low credibility.
+### Practical monitoring of chronic myelogenous leukemia: when to change treatment [^114Mffo7]. Journal of the National Comprehensive Cancer Network (2012). Low credibility.
 
 In patients with chronic myelogenous leukemia (CML) treated at diagnosis with the standard therapy consisting of imatinib, 400 mg once daily, the failure to achieve a complete cytogenetic response (CCyR) within 12 months from the start of therapy has been shown to be associated with an increased risk of progression and an overall inferior survival. Experts of the European LeukemiaNet and NCCN have indicated what degrees of hematologic, cytogenetic, and molecular responses should be expected at definite time points for patients with CML to have the highest probability of experiencing the final optimal response, defined as the achievement of at least a complete hematologic response with a minor cytogenetic response after 3 months; at least a partial cytogenetic response after 6 months; at least a CCyR after 12 months; and a major molecular response after 18 months of therapy. The last opportunity for a CCyR has been established at 18 months. Because the residual probability of attaining a CCyR is reduced for patients who do not experience a complete hematologic response by 3 months, any cytogenetic response by 6 months, or a major cytogenetic response by 12 months, these conditions are considered treatment failures. At this point, a change in therapy is highly recommended, such as second-line treatment with the second-generation tyrosine kinase inhibitors nilotinib or dasatinib and, in specific situations, a stem cell transplant. The loss of any grade of previously achieved cytogenetic response at any time point is also considered an imatinib failure demanding a change of therapy. Finally, intermediate gradations of response exist between optimal response and failure in which, although not totally compromised, the possibilities of achieving an optimal response later are decreased. The best therapeutic strategies to be followed in these intermediate situations, called suboptimal responses, have not been clearly established and are still under clinical investigation, but for the moment, a change of therapy is not required.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^cdb6377e]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116Fyfe5]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Dasatinib — dosing recommendations and alternatives include: the recommended starting dose is 100 mg once daily for patients with CP-CML; long-term follow-up of a single-arm study (81 evaluable patients) suggest that dasatinib 50 mg once daily may have similar efficacy in low- or intermediate-risk CP-CML; dasatinib 20 mg once daily has been shown to be an appropriate starting dose for patients 65 years and over with newly diagnosed CP-CML; intermittent dosing or dose reduction to 50 mg once daily has been shown to be effective as second-line and subsequent therapy in CP-CML resistant/intolerant to imatinib; dasatinib at 50 mg (20 mg with careful monitoring in selected patients) should be considered for patients with clinically significant intolerance to dasatinib 100 mg once daily to avoid serious adverse events.
 
 ---
 
-### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^c068797d]. Leukemia (2025). Medium credibility.
+### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^115vFiSG]. Leukemia (2025). Medium credibility.
 
 In summary we recommend a comprehensive approach to the health of our patients with referral to other specialties as appropriate. We have recognized some important toxicities only after several years of the use of some of the TKI. There should be a 'best' drug for most patients: one size does not 'fit-all' and carefully considered choices and actions will yield the best results for patients.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^789838b8]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1145neLF]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of advanced phase CML (blast phase), NCCN 2024 guidelines recommend to offer the following treatment options for patients with myeloid blast phase chronic myeloid leukemia:
 
@@ -482,7 +482,7 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^ffc6bb48]. Leukemia (2022). Medium credibility.
+### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^117YCbTu]. Leukemia (2022). Medium credibility.
 
 Aren't most people with CML too old to receive a transplant?
 
@@ -490,7 +490,7 @@ Most studies of CML therapy including transplants are in resource-rich geospaces
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^01d88cee]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1113jj2V]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of advanced phase CML (general principles), NCCN 2024 guidelines recommend to recognize the following criteria for blast phase chronic myeloid leukemia (International Bone Marrow Transplant Registry criteria):
 
@@ -500,19 +500,19 @@ Regarding medical management for chronic myeloid leukemia - NCCN, more specifica
 
 ---
 
-### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^0f63d0cf]. Annals of Oncology (2017). Medium credibility.
+### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^111PpLnz]. Annals of Oncology (2017). Medium credibility.
 
 Regarding medical management for chronic myeloid leukemia, more specifically with respect to management of chronic phase, front-line regimens, ESMO 2017 guidelines recommend to discuss treatment goals with the patient and define them before selecting first-line therapy.
 
 ---
 
-### Monitoring disease response in chronic-phase chronic myeloid leukemia: the age of molecular assays? [^bb59d4b4]. Hematology: American Society of Hematology. Education Program (2012). Low credibility.
+### Monitoring disease response in chronic-phase chronic myeloid leukemia: the age of molecular assays? [^115nkrkB]. Hematology: American Society of Hematology. Education Program (2012). Low credibility.
 
 An 80-year-old man has newly diagnosed chronic myeloid leukemia. His BM and blood examination at diagnosis confirms chronic-phase disease, with the Philadelphia chromosome as the sole cytogenetic abnormality. He has intermediate Sokal and Hasford risk,(1) and is started on imatinib 600 mg once daily. He lives 5 hours away from the nearest specialist hematology service and prefers followup with his local physician, who cannot perform BM examinations. In patients such as this, is it acceptable to monitor his therapeutic response solely with molecular studies of his peripheral blood?
 
 ---
 
-### European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia [^de9b33e6]. Leukemia (2020). Medium credibility.
+### European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia [^116h2P9w]. Leukemia (2020). Medium credibility.
 
 Methods
 
@@ -524,13 +524,13 @@ The definitions of hematologic, cytogenetic, and molecular responses were mainta
 
 ---
 
-### Drug treatment is superior to allografting as first-line therapy in chronic myeloid leukemia [^2902776a]. Blood (2007). Low credibility.
+### Drug treatment is superior to allografting as first-line therapy in chronic myeloid leukemia [^1123oKc5]. Blood (2007). Low credibility.
 
 Early allogeneic hematopoietic stem cell transplantation (HSCT) has been proposed as primary treatment modality for patients with chronic myeloid leukemia (CML). This concept has been challenged by transplantation mortality and improved drug therapy. In a randomized study, primary HSCT and best available drug treatment (IFN based) were compared in newly diagnosed chronic phase CML patients. Assignment to treatment strategy was by genetic randomization according to availability of a matched related donor. Evaluation followed the intention-to-treat principle. Six hundred and twenty one patients with chronic phase CML were stratified for eligibility for HSCT. Three hundred and fifty four patients (62% male; median age, 40 years; range, 11–59 years) were eligible and randomized. One hundred and thirty five patients (38%) had a matched related donor, of whom 123 (91%) received a transplant within a median of 10 months (range, 2–106 months) from diagnosis. Two hundred and nineteen patients (62%) had no related donor and received best available drug treatment. With an observation time up to 11.2 years (median, 8.9 years), survival was superior for patients with drug treatment (P = 0.049), superiority being most pronounced in low-risk patients (P = 0.032). The general recommendation of HSCT as first-line treatment option in chronic phase CML can no longer be maintained. It should be replaced by a trial with modern drug treatment first.
 
 ---
 
-### Older patients with chronic myeloid leukemia face suboptimal molecular testing and tyrosine kinase inhibitor adherence [^9a3403ad]. Blood Advances (2023). Medium credibility.
+### Older patients with chronic myeloid leukemia face suboptimal molecular testing and tyrosine kinase inhibitor adherence [^114wcZik]. Blood Advances (2023). Medium credibility.
 
 Results
 
@@ -541,19 +541,19 @@ Study population and selection flowchart.
 
 ---
 
-### Monitoring chronic myelogenous leukemia in the age of tyrosine kinase inhibitors [^f6519b98]. Journal of the National Comprehensive Cancer Network (2007). Low credibility.
+### Monitoring chronic myelogenous leukemia in the age of tyrosine kinase inhibitors [^117JBNB1]. Journal of the National Comprehensive Cancer Network (2007). Low credibility.
 
 Tyrosine kinase inhibitors (TKIs) are now standard up-front therapy for chronic myeloid leukemia (CML). Patients with newly diagnosed chronic-phase CML treated with the TKI imatinib mesylate typically experience a complete cytogenetic remission. Outcomes for patients with advanced-phase disease are distinctly worse. Unfortunately, a small proportion of chronic-phase patients experience relapse during this therapy, and most with advanced-phase disease develop resistance to imatinib mesylate after months of therapy. Hematopoietic cell transplantation remains the only curative approach for CML and can salvage patients with advanced-phase disease. Therefore, physicians must carefully monitor patients with chronic-phase CML treated with TKIs so that they can undergo hematopoietic cell transplant (or treatment with another TKI or experimental therapy) before frank progression occurs. Fortunately, monitoring CML using cytogenetic and molecular methods (i.e., quantitative polymerase chain reaction) effectively defines end points that correlate highly with outcome.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^4e204e91]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^112zptNU]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Dasatinib — recommended and alternative dosing strategies: The recommended starting dose of dasatinib is 100 mg once daily for patients with CP-CML; a single-arm study (81 evaluable patients) suggests that 50 mg once daily may have similar efficacy in low- or intermediate-risk CP-CML, and 20 mg once daily has been shown to be an appropriate starting dose for patients ≥ 65 years with newly diagnosed CP-CML. Intermittent dosing or dose reduction to 50 mg once daily has been shown effective as second-line and subsequent therapy in CP-CML resistant/intolerant to imatinib. For clinically significant intolerance to dasatinib 100 mg once daily, dasatinib at 50 mg (20 mg with careful monitoring in selected patients) should be considered to avoid serious adverse events necessitating discontinuation.
 
 ---
 
-### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^4d44a770]. Leukemia (2025). Medium credibility.
+### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^112yZ7Bu]. Leukemia (2025). Medium credibility.
 
 Summary
 
@@ -563,25 +563,25 @@ However, for much of the world's population, treatment choices are not only depe
 
 ---
 
-### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^a016b911]. Leukemia (2025). Medium credibility.
+### 2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia [^1156LemW]. Leukemia (2025). Medium credibility.
 
 Second, the lack of a BCR::ABL1 IS < 1% at 12 months has in previous recommendations been defined as 'failure/resistance' with the advice to switch treatment. Two recent studies have challenged this concept, particularly in older patients. In 131 patients with BCR::ABL1 IS > 0.1% after 2 years of TKI therapy, patients with levels > 0.1%–1% or > 1%–10%, had 10-year CML-specific survival rates of > 90%. Patients with levels > 10% had a worse but not very poor outcome with a 10-year survival rate of 80%. Prompted by this observation, landmark survival analyses were performed for 1342 evaluable patients in the German CML IV study, who achieved BCR::ABL1 IS < 0.1%, 0.1%–1%, > 1%–10% or > 10% at 3, 6, 12, and 24 months. Ten-year survivals of patients who would have been termed "treatment failure" because of BCR::ABL1 IS > 10% at 3 and 6 months and/or > 1% at 12 months were approximately 80%, some 10% less than patients with optimal responses. In contrast in patients in whom the RT-qPCR was > 10% at 12 months the OS dropped to 55%. Older patients (defined as > 60 years) understandably had poorer survival than younger patients but were dying largely of non-CML related diseases. These findings need confirmation in other settings but might suggest a more conservative approach in those with co-morbidities (usually the more elderly), whose BCR::ABL1 IS are in the unfavorable categories, but in whom a switch to a drug with more troublesome side effects may cause harm. We are reluctant to recommend different approaches simply because of patient age as management should be individualized and many patients > 60 years will be in good health and without co-morbidities. For these and younger patients who can tolerate more potent drugs without toxicity, and who may be pursuing treatment free remission, a BCR::ABL1 mutation analysis and a switch of TKI remain our recommended approach.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^8f5be8d4]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^114fY6qh]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase CML — risk stratification — uses Sokal and Hasford (Euro) scoring systems to categorize patients into three risk groups (low, intermediate, high), with Sokal based on age, spleen size, platelet count, and peripheral blood blasts, and Euro including eosinophils and basophils; the European Treatment and Outcome Study long-term survival (ELTS) score is based on the same variables as the Sokol score and provides the most useful predictor of CML-related death in first-line imatinib, validated in 1120 patients across six clinical trials; older age, higher peripheral blasts, bigger spleen, and low platelet counts were associated with higher probabilities of dying, with intermediate- and high-risk groups worse than low-risk and different from each other; unlike other systems, ELTS focuses on CML-specific overall survival; determination of risk score using Sokal or Euro or ELTS prior to starting TKI therapy is recommended for CP-CML.
 
 ---
 
-### A population-based study of chronic myeloid leukemia patients treated with imatinib in first line [^12f4f856]. American Journal of Hematology (2017). Low credibility.
+### A population-based study of chronic myeloid leukemia patients treated with imatinib in first line [^111V74UV]. American Journal of Hematology (2017). Low credibility.
 
 Chronic myeloid leukemia (CML) treatment is based on company-sponsored and academic trials testing different tyrosine kinase inhibitors (TKIs) as first-line therapy. These studies included patients selected according to many inclusion-exclusion criteria, particularly age and comorbidities, with specific treatment obligations. In daily clinical practice (real-life), inclusion-exclusion criteria do not exist, and the treatment outcome does not only depend on the choice of first-line TKI but also on second- and third-line TKIs. To investigate in a real-life setting the response and the outcome on first-line imatinib, with switch to second generation TKIs in case of unsatisfying response or intolerance, we analyzed all newly diagnosed patients (N = 236), living in two Italian regions, registered in a prospective study according to population-based criteria and treated front-line with imatinib. A switch from imatinib to second-generation TKIs was reported in 14% of patients for side effects and in 24% for failure or suboptimal response, with an improvement of molecular response in 57% of them. The 5-year overall survival (OS) and leukemia-related survival (LRS) were 85% and 93%, respectively; the 4-year rates of MR 3.0 and MR 4.0 were 75% and 48%, respectively. Cardiovascular complications were reported in 4% of patients treated with imatinib alone and in 6% of patients receiving nilotinib as second-line. Older age (≥ 70 years) affected OS, but not LRS. These data provide an unbiased reference on the CML management and on the results of TKI treatment in real-life, according to ELN recommendations, using imatinib as first-line treatment and second-generation TKIs as second-line therapy. Am. J. Hematol. 92:82–87, 2017. © 2016 Wiley Periodicals, Inc.
 
 ---
 
-### Management of chronic myeloid leukemia in 2023-common ground and common sense [^d06c2e3b]. Blood Cancer Journal (2023). Medium credibility.
+### Management of chronic myeloid leukemia in 2023-common ground and common sense [^116Kzm9L]. Blood Cancer Journal (2023). Medium credibility.
 
 Frontline CML therapy
 
@@ -591,13 +591,13 @@ Four BCR::ABL1 TKIs are approved for frontline therapy: imatinib, dasatinib, bos
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^d3d7053d]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116R4cQ4]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN Chronic myeloid leukemia (CML) — advanced-phase treatment considerations emphasize that participation in clinical trials and evaluation for allogeneic hematopoietic cell transplantation (HCT) is recommended for all patients with accelerated phase CML (AP-CML) and blast phase CML (BP-CML), with worse prognosis when progression occurs on tyrosine kinase inhibitor (TKI) therapy and a high rate of progression to BP-CML after chronic phase (CP-CML) progression on TKI; de novo AP-CML can be initially managed like CP-CML with single-agent TKI followed by HCT evaluation, and a course of alternate 2G or 3G TKI may be used as a bridge to HCT in AP-CML progression.
 
 ---
 
-### Assessment of imatinib as first-line treatment of chronic myeloid leukemia: 10-year survival results of the randomized CML study IV and impact of non-CML determinants [^322e3aad]. Leukemia (2017). Low credibility.
+### Assessment of imatinib as first-line treatment of chronic myeloid leukemia: 10-year survival results of the randomized CML study IV and impact of non-CML determinants [^112HPui4]. Leukemia (2017). Low credibility.
 
 Patients and methods
 
@@ -611,31 +611,31 @@ Initial primary goal of CML-study IV were comparative response probabilities. Lo
 
 ---
 
-### Optimizing outcomes in patients with chronic myeloid leukemia in chronic phase: comparative safety profiles of newer agents [^02d8c83d]. Leukemia & Lymphoma (2010). Low credibility.
+### Optimizing outcomes in patients with chronic myeloid leukemia in chronic phase: comparative safety profiles of newer agents [^1115Dnpc]. Leukemia & Lymphoma (2010). Low credibility.
 
 Imatinib is broadly used in the frontline treatment of chronic myeloid leukemia (CML). Although long-term safety and efficacy have been established, some patients will not respond to imatinib. Nilotinib and dasatinib successfully recapture responses for most patients with imatinib-refractory or -intolerant disease. These drugs have different safety profiles, which are likely associated with their divergent inhibitory targets. The presence of Bcr-Abl mutations and safety profiles of available therapies in relation to patient history should be considered when choosing a second-line agent. This review evaluates the safety and tolerability of agents approved for CML treatment and briefly discusses newer third-line agents.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^f8484a59]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^117M6DDi]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN CML — Mutation-directed recommendations update states that bullet 3 now adds: "Select BCR::ABL1 kinase domain mutations may be more sensitive to certain TKIs based on the IC50 values. See Discussion".
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^521ad2de]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1136izgD]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia — first-line tyrosine kinase inhibitor (TKI) selection by risk score: Asciminib, bosutinib, dasatinib, imatinib, or nilotinib are all appropriate options for first-line TKI therapy for patients with CP-CML across all risk scores. For patients with an intermediate- or high-risk Sokal or Euro score, 2G TKIs and asciminib are associated with a lower risk of disease progression than imatinib and are preferred, and 2G TKIs result in quicker molecular responses with higher rates of MMR (≤ 0.1% BCR::ABL1 IS) and deep molecular response (DMR) (MR4.0 [≤ 0.01% BCR::ABL1 IS] or MR4.5 [≤ 0.0032% BCR::ABL1 IS]). Asciminib resulted in higher rates of MMR versus imatinib with a significant difference (P < .001) and no statistically significant difference versus 2G TKI, supporting that 2G TKIs and asciminib are preferred for patients with an intermediate-risk or high-risk score. 2G TKIs and asciminib should also be considered for specific subgroups (based on the assessment of patient goals and benefit/risks), for example in younger patients who are interested in ultimately discontinuing treatment, while imatinib may be preferred for older patients with comorbidities, especially cardiovascular comorbidities.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^266f1a67]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^111yyrAz]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase CML risk stratification — Sokal and Hasford (Euro) scoring systems have been used to stratify patients into low, intermediate, and high risk groups in clinical trials evaluating TKIs, with the Sokal based on age, spleen size, platelet count, and peripheral blood blast percentage, and the Euro additionally including eosinophils and basophils. The European Treatment and Outcome Study long-term survival (ELTS) score uses the same variables as Sokal and provides the most useful predictor of CML-related death in patients treated with first-line imatinib, has been validated in a cohort of 1120 patients with CP-CML treated with imatinib in six clinical trials, and higher age, higher peripheral blasts, bigger spleen, and low platelet counts were significantly associated with increased probabilities of dying of CML; unlike other scoring systems, ELTS is focused on CML-specific overall survival (OS). Determination of risk score using either the Sokal or Euro or ELTS scoring systems prior to initiation of TKI therapy is recommended for patients diagnosed with CP-CML.
 
 ---
 
-### Chronic myeloid leukemia: 2025 update on diagnosis, therapy, and monitoring [^85316bdf]. American Journal of Hematology (2024). Medium credibility.
+### Chronic myeloid leukemia: 2025 update on diagnosis, therapy, and monitoring [^114QTxHc]. American Journal of Hematology (2024). Medium credibility.
 
 Disease Overview
 
@@ -655,13 +655,13 @@ For CML post-failure on frontline therapy, second-line options include second an
 
 ---
 
-### European LeukemiaNet recommendations for the management of chronic myeloid leukemia: 2013 [^2ba9b1f4]. Blood (2013). Low credibility.
+### European LeukemiaNet recommendations for the management of chronic myeloid leukemia: 2013 [^1127jU3d]. Blood (2013). Low credibility.
 
 Advances in chronic myeloid leukemia treatment, particularly regarding tyrosine kinase inhibitors, mandate regular updating of concepts and management. A European LeukemiaNet expert panel reviewed prior and new studies to update recommendations made in 2009. We recommend as initial treatment imatinib, nilotinib, or dasatinib. Response is assessed with standardized real quantitative polymerase chain reaction and/or cytogenetics at 3, 6, and 12 months. BCR-ABL1 transcript levels ≤ 10% at 3 months, < 1% at 6 months, and ≤ 0.1% from 12 months onward define optimal response, whereas > 10% at 6 months and > 1% from 12 months onward define failure, mandating a change in treatment. Similarly, partial cytogenetic response (PCyR) at 3 months and complete cytogenetic response (CCyR) from 6 months onward define optimal response, whereas no CyR (Philadelphia chromosome-positive [Ph+] > 95%) at 3 months, less than PCyR at 6 months, and less than CCyR from 12 months onward define failure. Between optimal and failure, there is an intermediate warning zone requiring more frequent monitoring. Similar definitions are provided for response to second-line therapy. Specific recommendations are made for patients in the accelerated and blastic phases, and for allogeneic stem cell transplantation. Optimal responders should continue therapy indefinitely, with careful surveillance, or they can be enrolled in controlled studies of treatment discontinuation once a deeper molecular response is achieved.
 
 ---
 
-### Management of chronic myeloid leukemia in 2023-common ground and common sense [^7b31af42]. Blood Cancer Journal (2023). Medium credibility.
+### Management of chronic myeloid leukemia in 2023-common ground and common sense [^1149eAbb]. Blood Cancer Journal (2023). Medium credibility.
 
 How important is it to achieve the landmark optimal responses recommended by the ELN and NCCN?
 
@@ -669,7 +669,7 @@ The ELN recommendations and NCCN guidelines highlight the importance of achievin
 
 ---
 
-### The concept of treatment-free remission in chronic myeloid leukemia [^7d9996e0]. Leukemia (2016). Low credibility.
+### The concept of treatment-free remission in chronic myeloid leukemia [^114DD3PV]. Leukemia (2016). Low credibility.
 
 Impact of stopping CML therapy on patients
 
@@ -681,13 +681,13 @@ A physician cannot practice today without having a global awareness of the price
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^c0a65047]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^115vcVA6]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN Chronic Myeloid Leukemia — INTERIM study of intermittent imatinib in older patients reports that 76 patients (≥ 65 years) on imatinib for ≥ 2 years with a stable complete cytogenetic response (CCyR) and major molecular response (MMR) (minimum follow-up: 6 years) received intermittent imatinib (1 month ON/OFF), and 21% of patients lost CCyR and MMR, with all patients regaining CCyR and MMR after resumption of imatinib.
 
 ---
 
-### Expert opinion-management of chronic myeloid leukemia after resistance to second-generation tyrosine kinase inhibitors [^7a2feb7f]. Leukemia (2020). Medium credibility.
+### Expert opinion-management of chronic myeloid leukemia after resistance to second-generation tyrosine kinase inhibitors [^11489awG]. Leukemia (2020). Medium credibility.
 
 Purpose of this paper and methodology
 
@@ -695,55 +695,55 @@ CML patients who fail their first second-generation TKI for true resistance need
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^a1890e49]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1158V3S8]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding follow-up and surveillance for chronic myeloid leukemia - NCCN, more specifically with respect to assessment of treatment response (criteria and milestones), NCCN 2024 guidelines recommend to recognize that switching to an alternate TKI for intolerance is appropriate for patients with disease responding to TKI therapy.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^d37b4246]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116QXnjo]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Regarding medical management for chronic myeloid leukemia - NCCN, more specifically with respect to management of advanced phase CML (general principles), NCCN 2024 guidelines recommend to use the modified MD Anderson Cancer Center criteria or the International Bone Marrow Transplant Registry criteria for the diagnosis of advanced phase chronic myeloid leukemia, as these definitions have been most commonly utilized in clinical trials conducted during the TKI era. Do not use the ICC or the WHO criteria for the diagnosis of accelerated phase chronic myeloid leukemia and blast phase chronic myeloid leukemia.
 
 ---
 
-### Impact of age on the outcome of patients with chronic myeloid leukemia in late chronic phase: results of a phase II study of the GIMEMA CML working party [^70f5bb2d]. Haematologica (2007). Low credibility.
+### Impact of age on the outcome of patients with chronic myeloid leukemia in late chronic phase: results of a phase II study of the GIMEMA CML working party [^113tU9nt]. Haematologica (2007). Low credibility.
 
 To assess the effect of age on response and compliance to treatment in patients with chronic myeloid leukemia (CML) we performed a sub-analysis within a phase II trial of the GIMEMA CML Working Party (CML/002/STI571). Since the WHO cut-off age to define an older patient is 65 years, among the 284 patients considered, we identified 226 (80%) younger patients (below 65 years) and 58 (20%) older patients (above 65 years) before starting imatinib. Response rates (hematologic and cytogenetic) were lower in the older age group but the probabilities of progression-free survival and overall survival (median observation time 3 years) were the same. Moreover, among complete cytogenetic responders, no differences were found in the level of molecular response between the two age groups. As might be expected, older patients experienced more adverse events, both hematologic and non-hematologic: this worsened compliance did not, however, prevent a long-term outcome similar to that of younger patients.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^7871ef11]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1145ZnRn]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CP-CML) initial dosing and de-escalation — Imatinib 800 mg is not recommended as initial therapy in newly diagnosed CP-CML. Limited small-cohort evidence suggests starting select first-line TKIs (bosutinib, dasatinib, or nilotinib) at lower doses and using dose reduction with close monitoring in patients who achieve optimal responses to reduce long-term toxicities; however, the minimum effective dose or optimal de-escalation of these TKIs has not yet been established in prospective randomized clinical trials.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^6790ae48]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113eYKdq]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CML) risk calculation — The table lists three prognostic scores with risk category thresholds as follows: Sokal score low < 0.8, intermediate 0.8–1.2, and high > 1.2; Hasford (Euro) score low ≤ 780, intermediate > 780 – ≤ 1480, and high > 1480; and EUTOS long-term survival (ELTS) score low ≤ 1.5680, intermediate > 1.5680 but ≤ 2.2185, and high > 2.2185. Calculation resources are provided: Calculation of relative risk based on Sokal or Hasford (Euro) score can be found at the stated Leukemia-Net URL, and an online calculator for the ELTS score can be found at the specified Leukemia-Net URL.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^b8816fcb]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^115iYCUz]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia — switching tyrosine kinase inhibitor: switching to an alternate TKI (based on the BCR::ABL1 kinase domain mutation status) is recommended for patients with disease that is resistant to primary treatment with imatinib; patients with disease that is resistant to primary treatment with asciminib, bosutinib, dasatinib, or nilotinib could be switched to an alternate TKI, but there is no clear evidence to support that switching to an alternate TKI would improve long-term clinical outcome; ponatinib is a treatment option for patients with a T315I mutation in any phase (preferred for AP-CML or BP-CML) and asciminib is a treatment option for patients with CP-CML having a T315I mutation.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^78305a1e]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^1145Bknq]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN Chronic myeloid leukemia — alternate TKI use and options indicate that switching to an alternate TKI (based on the BCR::ABL1 kinase domain mutation status) is recommended for patients with disease resistant to primary imatinib; patients resistant to primary treatment with asciminib, bosutinib, dasatinib, or nilotinib could be switched to an alternate TKI, although there is no clear evidence that switching improves long-term clinical outcome; subsequent therapy with an alternate TKI is expected to be effective only in patients with identifiable BCR::ABL1 mutations that confer resistance, and ponatinib is a treatment option for a T315I mutation in any phase (preferred for AP-CML or BP-CML) while asciminib is a treatment option for CP-CML having a T315I mutation.
 
 ---
 
-### Medical management of CML [^941f6967]. Hematology: American Society of Hematology. Education Program (2007). Low credibility.
+### Medical management of CML [^114nbif8]. Hematology: American Society of Hematology. Education Program (2007). Low credibility.
 
 Management strategies of patients with chronic-phase chronic myeloid leukemia (CML) have been revolutionized by the BCR-ABL-selective kinase inhibitor imatinib, which is substantially improving median survival. However, a proportion of patients suffer progressive disease on imatinib therapy. Importantly, patients who are particularly at risk for developing progressive disease can be identified with appropriate monitoring of disease burden. Many of these patients may benefit from alternative treatment strategies, including second-generation kinase inhibitors such as dasatinib. As a result of improvements in medical therapy, allogeneic stem cell transplantation is increasingly deferred despite its known curative potential. It is anticipated that outcomes with medical therapy will continue to improve with the availability of effective second- and third-generation kinase inhibitors, and the percentage of patients progressing to the advanced phase of the disease is projected to decline. The future of kinase inhibitor therapy for CML may involve combinations of ABL kinase inhibitors.
 
 ---
 
-### Diagnosing and managing advanced chronic myeloid leukemia… [^8ecc6be8]. ASCO (2015). Low credibility.
+### Diagnosing and managing advanced chronic myeloid leukemia… [^114ehuUB]. ASCO (2015). Low credibility.
 
 Defining Advanced Chronic Myeloid Leukemia: Chronic Phase, Accelerated Phase, and Blastic Phase. 18In the case of blastic transformation, TKIs are usually combined with AML- or ALL-type multiagent chemotherapy, whereas this is not typically the case for AP. 19All patients with AP/BP-CML should be considered for an allogeneic stem cell transplant, with TKI therapy used to restore a second chronic phase and bridge the time to transplant. 52, 53Moreover, responses are frequently not durable, raising the question of ponatinib as a more effective and durable salvage therapy. In the Ponatinib Ph +ALL and CML Evaluation trial, 46% of CP-CML patients achieved CCyR, 91% of which were maintained at 12 months. Progression to Accelerated-Phase/Blastic-Phase Chronic Myeloid Leukemia Patients who progress to AP/BP-CML are treated with the appropriate TKI, taking into account prior TKI exposure history and.
 
@@ -754,7 +754,7 @@ The hope is that diverse upstream pathways may activate a limited set of downstr
 
 ---
 
-### Advances in the treatment of chronic myeloid leukemia [^6099d479]. BMC Medicine (2011). Low credibility.
+### Advances in the treatment of chronic myeloid leukemia [^113UDUuN]. BMC Medicine (2011). Low credibility.
 
 Conclusion
 
@@ -762,19 +762,19 @@ The landscape of CML management has changed considerably since approval of imati
 
 ---
 
-### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^a9a7b1f8]. Annals of Oncology (2017). Medium credibility.
+### Chronic myeloid leukaemia: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^115LXEbH]. Annals of Oncology (2017). Medium credibility.
 
 Regarding medical management for chronic myeloid leukemia, more specifically with respect to management of chronic phase, front-line regimens, ESMO 2017 guidelines recommend to offer imatinib 400–800 mg/day, nilotinib 300 mg BID, or dasatinib 100 mg/day as first-line therapy in patients with CML in chronic phase.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^e53c079a]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^116rrL1P]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic myeloid leukemia (CP-CML) first-line tyrosine kinase inhibitor (TKI) selection and risk stratification — Asciminib, bosutinib, dasatinib, imatinib, or nilotinib are all appropriate options across risk scores, and selection should be based on the risk score, toxicity profile, patient's age, ability to tolerate therapy, and comorbid conditions; allogeneic HCT is no longer recommended first line. Second-generation (2G) TKIs are associated with a lower risk of disease progression than imatinib and are preferred for patients with an intermediate- or high-risk Sokal or Euro score; they result in higher rates of MMR (≤ 0.1% BCR::ABL1 IS) and deep molecular response (DMR) (MR4.0 [≤ 0.01% BCR::ABL1 IS] or MR4.5 [≤ 0.0032% BCR::ABL1 IS]) across all risk scores, which may facilitate subsequent discontinuation of TKI therapy in selected patients. In the ASC4FIRST study, asciminib produced higher MMR rates than investigator-selected TKI across risk scores, with a significant difference vs imatinib (P < .001) but no statistically significant difference vs 2G TKI; therefore, 2G TKIs and asciminib are preferred for patients with an intermediate-risk or high-risk score.
 
 ---
 
-### Chronic myeloid leukemia following treatment for primary neoplasms or other medical conditions [^f6e3e946]. American Journal of Clinical Pathology (2018). Low credibility.
+### Chronic myeloid leukemia following treatment for primary neoplasms or other medical conditions [^117K2WPo]. American Journal of Clinical Pathology (2018). Low credibility.
 
 Objectives
 
@@ -794,19 +794,19 @@ Therapy-related CML has a clinical presentation, pathologic features, and cytoge
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^c229a814]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^115xrbCw]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Chronic phase chronic myeloid leukemia (CML) — dose minimization and de-escalation: Limited available evidence from small cohort studies suggests that initiation of first-line TKIs (bosutinib, dasatinib, or nilotinib) at lower doses and dose reduction with close monitoring in patients who achieve optimal responses are appropriate strategies to reduce the risk of long-term toxicities. However, the minimum effective dose or optimal de-escalation of TKI (bosutinib, dasatinib, or nilotinib) has not yet been established in prospective randomized clinical trials.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^5b045019]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^113KwKfe]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 NCCN CML — Response optimization notes that "Switching from imatinib to a 2G TKI or allosteric TKI may improves response" and that "The side effect profile of alternative TKIs may differ".
 
 ---
 
-### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^6cbe67a3]. Leukemia (2022). Medium credibility.
+### Questions concerning tyrosine kinase-inhibitor therapy and transplants in chronic phase chronic myeloid leukaemia [^113nDcpa]. Leukemia (2022). Medium credibility.
 
 Are current recommendations for TKI-therapy appropriate?
 
@@ -816,13 +816,13 @@ There is controversy on how to best use TKIs. Which are the best and most cost-e
 
 ---
 
-### A British Society for Haematology guideline on the diagnosis and management of chronic myeloid leukaemia [^76f9c224]. British Journal of Haematology (2020). High credibility.
+### A British Society for Haematology guideline on the diagnosis and management of chronic myeloid leukaemia [^1143PRwR]. British Journal of Haematology (2020). High credibility.
 
 Regarding medical management for chronic myeloid leukemia, more specifically with respect to management of chronic phase, front-line regimens, BSH 2020 guidelines recommend to offer imatinib as first-line therapy in most adult and pediatric patients with CML in chronic phase.
 
 ---
 
-### Managing chronic myeloid leukaemia in the elderly with intermittent imatinib treatment [^a121ff62]. Blood Cancer Journal (2015). Low credibility.
+### Managing chronic myeloid leukaemia in the elderly with intermittent imatinib treatment [^1157tRhT]. Blood Cancer Journal (2015). Low credibility.
 
 Discussion
 
@@ -830,12 +830,12 @@ The current policies of TKI treatment of chronic phase CML mandate using TKIs at
 
 ---
 
-### Which TKI? An embarrassment of riches for chronic myeloid leukemia patients [^fa671ca7]. Hematology: American Society of Hematology. Education Program (2013). Low credibility.
+### Which TKI? An embarrassment of riches for chronic myeloid leukemia patients [^117QEYEa]. Hematology: American Society of Hematology. Education Program (2013). Low credibility.
 
 With the approval in many countries of nilotinib and dasatinib for frontline therapy in chronic myeloid leukemia, clinicians now have to make a difficult choice. Because none of the 3 available tyrosine kinase inhibitors (TKIs) have shown a clear survival advantage, they all represent reasonable choices. However, in individual patients, the case may be stronger for a particular TKI. In the younger patient, in whom the prospect of eventually achieving treatment-free remission is likely to be of great importance, dasatinib or nilotinib may be preferred, although their advantage over imatinib in this setting remains to be proven. In patients with a higher risk of transformation (which is currently based on prognostic scoring), the more potent TKIs may be preferred because they appear to be more effective at reducing the risk of transformation to BC. However, imatinib still represents an excellent choice for many chronic myeloid leukemia patients. All of these considerations need to be made in the context of the patient's comorbidities, which may lead to one or more TKIs being ruled out of contention. Whatever first choice of TKI is made, treatment failure or intolerance must be recognized early because a prompt switch to another TKI likely provides the best chance of achieving optimal response.
 
 ---
 
-### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^f66d8f3e]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Chronic myeloid leukemia, version 2.2024, NCCN clinical practice guidelines in oncology [^117JLkiZ]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Dose modifications of tyrosine kinase inhibitor (TKI) therapy — Limited available evidence from small cohort studies suggests that initiating select first-line TKIs at lower doses and using dose reduction (with close monitoring) in patients who achieve optimal responses are appropriate strategies to reduce long-term toxicities, but the minimum effective dose or optimal de-escalation of TKIs has not yet been established in prospective randomized clinical trials.

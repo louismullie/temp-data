@@ -17,27 +17,27 @@ Based on current guidelines, what vaccination(s) should be recommended for this 
 
 > Let's see… What do we have here? The user is asking about appropriate pre-transplant vaccination strategies for a 52-year-old man with end-stage renal disease who is VZV seropositive, has never received a herpes zoster vaccine, and lives with two VZV-seronegative household members (wife and adult daughter), with the goal of advising what vaccinations should be recommended for the patient and his household prior to kidney transplantation. Let's break this down step-by-step. First, I need to think about the patient's VZV serostatus and how that changes the indication for zoster vaccination. Then, I should verify the timing of zoster vaccination relative to transplant and whether to use the live versus non-live formulation. Next, I will consider the household members' serostatus and whether they should receive varicella vaccine and, if so, which formulation and timing. After that, I need to check general pre-transplant vaccination principles and whether any delays in transplantation are required. Finally, I will synthesize a practical, guideline-concordant plan and confirm safety nuances, including any exceptions or special circumstances.
 
-> Let me first confirm the patient's risk and indication for herpes zoster vaccination. Because he is VZV seropositive, he has latent VZV and is at increased risk for herpes zoster, which is common and often severe in transplant recipients, so vaccination is indicated to prevent shingles and its complications, and the preferred product is the recombinant zoster vaccine (RZV, Shingrix), which is non-live and can be given to immunocompromised candidates when appropriately timed pre-transplant [^663e49d9] [^a9af8214].
+> Let me first confirm the patient's risk and indication for herpes zoster vaccination. Because he is VZV seropositive, he has latent VZV and is at increased risk for herpes zoster, which is common and often severe in transplant recipients, so vaccination is indicated to prevent shingles and its complications, and the preferred product is the recombinant zoster vaccine (RZV, Shingrix), which is non-live and can be given to immunocompromised candidates when appropriately timed pre-transplant [^113cafDr] [^115LZroM].
 
-> Wait, let me verify the timing and formulation details so I don't overstate anything. KDIGO recommends completing live attenuated vaccines at least 4 weeks before transplantation and delaying transplant by 4 weeks if a live vaccine is given, whereas inactivated vaccines can be given pre- or post-transplant with better immunogenicity when given pre-transplant; importantly, RZV is a non-live recombinant subunit vaccine, so it is not subject to the 4-week transplant delay rule, though giving it pre-transplant maximizes response and is preferred when feasible [^4284a738] [^663e49d9].
+> Wait, let me verify the timing and formulation details so I don't overstate anything. KDIGO recommends completing live attenuated vaccines at least 4 weeks before transplantation and delaying transplant by 4 weeks if a live vaccine is given, whereas inactivated vaccines can be given pre- or post-transplant with better immunogenicity when given pre-transplant; importantly, RZV is a non-live recombinant subunit vaccine, so it is not subject to the 4-week transplant delay rule, though giving it pre-transplant maximizes response and is preferred when feasible [^112hcjtj] [^113cafDr].
 
-> Hold on, I should verify the exact regimen and whether age 52 changes the indication. ACIP recommends a 2-dose RZV series at 0 and 2–6 months for adults aged 50 years and older, and also for immunocompromised adults aged 19 years and older; thus, at 52 years old and as a transplant candidate, he should receive RZV as a 2-dose series, ideally completing both doses before transplantation to optimize immunogenicity, with no need to delay transplant solely for this non-live vaccine [^a9af8214] [^663e49d9].
+> Hold on, I should verify the exact regimen and whether age 52 changes the indication. ACIP recommends a 2-dose RZV series at 0 and 2–6 months for adults aged 50 years and older, and also for immunocompromised adults aged 19 years and older; thus, at 52 years old and as a transplant candidate, he should receive RZV as a 2-dose series, ideally completing both doses before transplantation to optimize immunogenicity, with no need to delay transplant solely for this non-live vaccine [^115LZroM] [^113cafDr].
 
-> Next, I should review the household members' situation. Because his wife and daughter are VZV seronegative, they are susceptible to primary varicella and could serve as a source of exposure to the patient; vaccinating them reduces the risk of household transmission and indirectly protects the future transplant recipient, so they should receive varicella vaccine if they have no contraindications [^5d2cffb3].
+> Next, I should review the household members' situation. Because his wife and daughter are VZV seronegative, they are susceptible to primary varicella and could serve as a source of exposure to the patient; vaccinating them reduces the risk of household transmission and indirectly protects the future transplant recipient, so they should receive varicella vaccine if they have no contraindications [^113P8xre].
 
-> I need to ensure I specify the correct formulation and timing for the household. The varicella vaccine is live-attenuated, so for transplant candidates and their close contacts, it should be given at least 4 weeks before transplantation to avoid viremia around the time of immunosuppression; if the household members cannot complete the series before transplant, they should still be vaccinated, but extra precautions may be needed post-transplant until immunity is established, and the transplant team should coordinate timing accordingly [^8a57dea9] [^5d2cffb3].
+> I need to ensure I specify the correct formulation and timing for the household. The varicella vaccine is live-attenuated, so for transplant candidates and their close contacts, it should be given at least 4 weeks before transplantation to avoid viremia around the time of immunosuppression; if the household members cannot complete the series before transplant, they should still be vaccinated, but extra precautions may be needed post-transplant until immunity is established, and the transplant team should coordinate timing accordingly [^114Y6ojN] [^113P8xre].
 
-> Let me consider the broader pre-transplant vaccination context so I don't miss essentials. Pre-transplant vaccination is most effective when completed early, and inactivated vaccines can be accelerated if needed; candidates should also be up to date on influenza, pneumococcal, hepatitis B, and other age-appropriate inactivated vaccines, while live vaccines must be completed at least 4 weeks pre-transplant with a 4-week transplant delay if given; I should confirm that the team is addressing these concurrently with the VZV-related plan [^8a57dea9] [^4284a738] [^daef4a24].
+> Let me consider the broader pre-transplant vaccination context so I don't miss essentials. Pre-transplant vaccination is most effective when completed early, and inactivated vaccines can be accelerated if needed; candidates should also be up to date on influenza, pneumococcal, hepatitis B, and other age-appropriate inactivated vaccines, while live vaccines must be completed at least 4 weeks pre-transplant with a 4-week transplant delay if given; I should confirm that the team is addressing these concurrently with the VZV-related plan [^114Y6ojN] [^112hcjtj] [^116bagAw].
 
-> But wait, what if the patient is already on significant immunosuppression pre-transplant? I should double-check that RZV is still acceptable. RZV is non-live and can be administered to immunocompromised adults, including transplant candidates, recognizing that immunogenicity may be reduced with more intense immunosuppression; nonetheless, pre-transplant vaccination is still recommended when possible, and antivirals active against VZV do not preclude RZV administration, though coordinating antiviral timing can be considered to optimize response [^a9af8214] [^663e49d9].
+> But wait, what if the patient is already on significant immunosuppression pre-transplant? I should double-check that RZV is still acceptable. RZV is non-live and can be administered to immunocompromised adults, including transplant candidates, recognizing that immunogenicity may be reduced with more intense immunosuppression; nonetheless, pre-transplant vaccination is still recommended when possible, and antivirals active against VZV do not preclude RZV administration, though coordinating antiviral timing can be considered to optimize response [^115LZroM] [^113cafDr].
 
-> I will now examine the household transmission risk to ensure the recommendation is balanced. Household transmission of VZV from susceptible contacts can cause primary varicella in the candidate, which carries higher morbidity in immunocompromised hosts; vaccinating seronegative household members is a recognized strategy to reduce this risk and is endorsed in transplant guidance for solid organ candidates, reinforcing the need to immunize the wife and daughter pre-transplant when feasible [^5d2cffb3] [^be1d5edc].
+> I will now examine the household transmission risk to ensure the recommendation is balanced. Household transmission of VZV from susceptible contacts can cause primary varicella in the candidate, which carries higher morbidity in immunocompromised hosts; vaccinating seronegative household members is a recognized strategy to reduce this risk and is endorsed in transplant guidance for solid organ candidates, reinforcing the need to immunize the wife and daughter pre-transplant when feasible [^113P8xre] [^115rrWjD].
 
-> Let me synthesize the final, actionable plan and make sure I haven't overlooked anything critical. For the 52-year-old VZV-seropositive ESRD patient: administer RZV as a 2-dose series at 0 and 2–6 months, aiming to complete both doses before transplantation; no transplant delay is required for this non-live vaccine, though earlier completion improves immunogenicity. For the 48-year-old wife and 20-year-old daughter: administer the live-attenuated varicella vaccine as a 2-dose series 4–8 weeks apart, ensuring the series is completed at least 4 weeks before transplantation; if this timing cannot be met, coordinate with the transplant team for post-transplant precautions and consider prioritizing completion of the series as soon as possible [^a9af8214] [^663e49d9] [^8a57dea9] [^5d2cffb3].
+> Let me synthesize the final, actionable plan and make sure I haven't overlooked anything critical. For the 52-year-old VZV-seropositive ESRD patient: administer RZV as a 2-dose series at 0 and 2–6 months, aiming to complete both doses before transplantation; no transplant delay is required for this non-live vaccine, though earlier completion improves immunogenicity. For the 48-year-old wife and 20-year-old daughter: administer the live-attenuated varicella vaccine as a 2-dose series 4–8 weeks apart, ensuring the series is completed at least 4 weeks before transplantation; if this timing cannot be met, coordinate with the transplant team for post-transplant precautions and consider prioritizing completion of the series as soon as possible [^115LZroM] [^113cafDr] [^114Y6ojN] [^113P8xre].
 
 ---
 
-Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV, Shingrix)** in a 2-dose series (0, 2–6 months) [^663e49d9] [^a9af8214] because he is VZV-seropositive and at high risk for shingles after transplantation [^23a18fec]. RZV is preferred over the live vaccine because it is **non-live and safe** for immunocompromised candidates [^663e49d9] [^a9af8214]; if the live vaccine is given, transplant must be delayed by 4 weeks [^8a57dea9] [^9c7eb0ed]. His VZV-seronegative wife and daughter should receive the **varicella vaccine** (2 doses, 4–8 weeks apart) [^b70d8bcb] at least 4 weeks before transplant to prevent household transmission [^8a57dea9] [^5d2cffb3]. Live vaccines are contraindicated post-transplant, so completing these now is essential [^06536f90] [^1534ae41].
+Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV, Shingrix)** in a 2-dose series (0, 2–6 months) [^113cafDr] [^115LZroM] because he is VZV-seropositive and at high risk for shingles after transplantation [^111upqMD]. RZV is preferred over the live vaccine because it is **non-live and safe** for immunocompromised candidates [^113cafDr] [^115LZroM]; if the live vaccine is given, transplant must be delayed by 4 weeks [^114Y6ojN] [^11511d72]. His VZV-seronegative wife and daughter should receive the **varicella vaccine** (2 doses, 4–8 weeks apart) [^115gPHUE] at least 4 weeks before transplant to prevent household transmission [^114Y6ojN] [^113P8xre]. Live vaccines are contraindicated post-transplant, so completing these now is essential [^111ANx9m] [^111YSSDn].
 
 ---
 
@@ -45,18 +45,18 @@ Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV
 
 ### Recombinant zoster vaccine (RZV, Shingrix)
 
-- **Indication**: Recommended for immunocompromised adults aged ≥ 19 years, including transplant candidates [^a9af8214].
-- **Schedule**: 2 doses, 2–6 months apart [^a9af8214].
-- **Timing**: Administer before transplantation when feasible; if not, give ≥ 6–12 months post-transplant at stable immunosuppression [^a9af8214].
-- **Rationale**: RZV is non-live and safe for immunocompromised patients; live zoster vaccine is contraindicated post-transplant [^663e49d9] [^06536f90].
+- **Indication**: Recommended for immunocompromised adults aged ≥ 19 years, including transplant candidates [^115LZroM].
+- **Schedule**: 2 doses, 2–6 months apart [^115LZroM].
+- **Timing**: Administer before transplantation when feasible; if not, give ≥ 6–12 months post-transplant at stable immunosuppression [^115LZroM].
+- **Rationale**: RZV is non-live and safe for immunocompromised patients; live zoster vaccine is contraindicated post-transplant [^113cafDr] [^111ANx9m].
 
 ---
 
 ### Alternative: live attenuated zoster vaccine (ZVL, Zostavax)
 
 - **Indication**: Only if RZV is unavailable or contraindicated.
-- **Timing**: ≥ 4 weeks before transplantation; if given, delay transplant by 4 weeks [^8a57dea9] [^9c7eb0ed].
-- **Rationale**: Live vaccine is contraindicated post-transplant due to risk of disseminated infection [^06536f90] [^1534ae41].
+- **Timing**: ≥ 4 weeks before transplantation; if given, delay transplant by 4 weeks [^114Y6ojN] [^11511d72].
+- **Rationale**: Live vaccine is contraindicated post-transplant due to risk of disseminated infection [^111ANx9m] [^111YSSDn].
 
 ---
 
@@ -64,10 +64,10 @@ Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV
 
 ### Varicella vaccine for seronegative household contacts
 
-- **Indication**: Vaccinate VZV-seronegative close contacts (wife and daughter) to prevent household transmission [^5d2cffb3] [^11302d12].
+- **Indication**: Vaccinate VZV-seronegative close contacts (wife and daughter) to prevent household transmission [^113P8xre] [^111SUyLV].
 - **Schedule**: 2 doses, 4–8 weeks apart [^notfound].
-- **Timing**: Complete ≥ 4 weeks before transplantation [^8a57dea9].
-- **Rationale**: Reduces risk of primary varicella in the transplant recipient, which can be severe or fatal [^5d2cffb3] [^11302d12].
+- **Timing**: Complete ≥ 4 weeks before transplantation [^114Y6ojN].
+- **Rationale**: Reduces risk of primary varicella in the transplant recipient, which can be severe or fatal [^113P8xre] [^111SUyLV].
 
 ---
 
@@ -82,42 +82,42 @@ Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV
 
 ## Clinical considerations
 
-- **Immunogenicity**: Vaccine responses are better pre-transplant than post-transplant; prioritize pre-transplant vaccination [^481a4dd0] [^8c7a70c7].
-- **Safety**: RZV is safe in immunocompromised patients; monitor for standard adverse effects [^a9af8214].
-- **Coordination**: Align vaccination with transplant timing to ensure immunity before immunosuppression [^8a57dea9].
+- **Immunogenicity**: Vaccine responses are better pre-transplant than post-transplant; prioritize pre-transplant vaccination [^112qtwjV] [^114bGPne].
+- **Safety**: RZV is safe in immunocompromised patients; monitor for standard adverse effects [^115LZroM].
+- **Coordination**: Align vaccination with transplant timing to ensure immunity before immunosuppression [^114Y6ojN].
 
 ---
 
 ## Conclusion and recommendations
 
-- **Patient**: Receive RZV (Shingrix) as a 2-dose series before transplantation [^663e49d9] [^a9af8214].
-- **Household**: Wife and daughter should complete varicella vaccination ≥ 4 weeks before transplantation [^1105d81e] [^5d2cffb3].
-- **Rationale**: These measures reduce shingles risk in the patient and prevent household varicella transmission, optimizing safety around transplantation [^663e49d9] [^5d2cffb3].
+- **Patient**: Receive RZV (Shingrix) as a 2-dose series before transplantation [^113cafDr] [^115LZroM].
+- **Household**: Wife and daughter should complete varicella vaccination ≥ 4 weeks before transplantation [^111SEkeR] [^113P8xre].
+- **Rationale**: These measures reduce shingles risk in the patient and prevent household varicella transmission, optimizing safety around transplantation [^113cafDr] [^113P8xre].
 
 ---
 
 ## References
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^6b983a6e]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^113kWooK]. American Journal of Transplantation (2009). Medium credibility.
 
 Influenza vaccination in kidney transplant recipients (KTRs) — annual immunization is recommended for KTRs and household contacts, and it is recommended to administer the vaccine prior to the annual influenza season as long as the recipient is at least 1-month posttransplant; vaccination has been demonstrated to be safe and generally effective in organ transplant recipients and there is no proven association with rejection.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^25837161]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^111xch9A]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, KDIGO 2020 guidelines recommend to administer vaccination series using an accelerated schedule, if necessary, before kidney transplantation for any inactivated vaccines.
 Avoid excluding transplant candidates not completed an inactivated vaccine series from kidney transplantation.
 
 ---
 
-### Vaccines and vaccine response in the small bowel transplant patient [^7084c8d1]. Gastroenterology Clinics of North America (2024). Medium credibility.
+### Vaccines and vaccine response in the small bowel transplant patient [^113spDQt]. Gastroenterology Clinics of North America (2024). Medium credibility.
 
 Vaccines should be regularly administered and their efficiency controlled, before and after intestinal transplantation. The household and health care providers should also be immunized, to further prevent transmission. Universal vaccination providing " herd immunity" should be enforced. Recommendations are given about timing, indications, and contraindications of each individual vaccine, before and after transplantation.
 
 ---
 
-### Immunocompromised adults… [^a9af8214]. CDC (2024). Medium credibility.
+### Immunocompromised adults… [^115LZroM]. CDC (2024). Medium credibility.
 
 At a glance ACIP recommends 2 doses of recombinant zoster vaccine for the prevention of shingles and related complications in adults aged ≥ 19 years who are or will be immunodeficient or immunosuppressed because of disease or therapy. The risk of deferring vaccination, and thus not mitigating the increased risk for shingles and related complications in immunocompromised patients, should be weighed against a possible diminished response to RZV if given during periods of more intense immunosuppression. Timing considerations for specific patients Hematopoietic cell transplant recipients
 - **Autologous HCT**: Administer RZV at least 3–12 months after transplantation, depending on timing of discontinuation of prophylactic antiviral therapy; vaccination prior to discontinuation of antiviral therapy is preferred.
@@ -139,20 +139,20 @@ Patients taking antiviral medications Shingles is caused by varicella-zoster vir
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^c07d82eb]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115vNnGS]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (HPV), AST 2019 guidelines recommend to administer HPV vaccination before or after transplantation to at-risk patients meeting specific age criteria.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^b2f6a219]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115aKdxt]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (influenza), AST 2019 guidelines recommend to offer the inactivated influenza vaccine to healthcare workers and close contacts. Administer the live-attenuated influenza vaccine if it is the only option,
 with strict infection prevention precautions, such as frequent handwashing for a 2-week period after vaccination.
 
 ---
 
-### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^9e9e3dd6]. BMC Nephrology (2017). Low credibility.
+### Renal association clinical practice guideline in post-operative care in the kidney transplant recipient [^1154ACKX]. BMC Nephrology (2017). Low credibility.
 
 Kidney Transplant Recipient (KTR): infection complications (Guidelines 8.1–8.7)
 
@@ -184,61 +184,61 @@ Guideline 8.2 – KTR: cytomegalovirus disease
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^23ea04b1]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^111vFAue]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, AST 2019 guidelines recommend to administer live-attenuated vaccines at least 4 weeks before transplantation to ensure that vaccine-related viral replication has resolved before transplantation.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^a390161b]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115BVNxr]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, measles, mumps, rubella, and varicella, AST 2019 guidelines recommend to consider administering measles, mumps, rubella, and varicella vaccinations in carefully selected post-transplant patients with appropriate education and close follow-up.
 
 ---
 
-### Immunization after kidney transplantation-what is necessary and what is safe? [^481a4dd0]. Nature Reviews: Nephrology (2014). Medium credibility.
+### Immunization after kidney transplantation-what is necessary and what is safe? [^112qtwjV]. Nature Reviews: Nephrology (2014). Medium credibility.
 
 Many transplant recipients are not protected against vaccine-preventable illnesses, primarily because vaccination is still an underutilized tool both before and after transplantation. This missed opportunity for protection can result in substantial morbidity, graft loss and mortality. Immunization strategies should be formulated early in the course of renal disease to maximize the likelihood of vaccine-induced immunity, particularly as booster or secondary antibody responses are less affected by immune compromise than are primary or de novo antibody responses in naive vaccine recipients. However, live vaccines should be avoided in immunocompromised hosts. Although some concern has been raised regarding increased HLA sensitization after vaccination, no clinical data to suggest harm currently exists; overall, non-live vaccines seem to be immunogenic, protective and safe. In organ transplant recipients, some vaccines are indicated based on specific risk factors and certain vaccines, such as hepatitis B, can protect against donor-derived infection. Vaccines given to close contacts of renal transplant recipients can provide an additional layer of protection against infectious diseases. In this article, optimal vaccination of adult transplant recipients, including safety, efficacy, indication and timing, is reviewed.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^9c7eb0ed]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^11511d72]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, KDIGO 2020 guidelines recommend to complete the vaccination series before kidney transplantation for any live attenuated vaccines. Delay kidney transplantation for 4 weeks if a live vaccine is administered (such as measles, mumps, and rubella, VZV, shingles, yellow fever, oral typhoid, and oral polio vaccine).
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^06da6a54]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^111BAHmM]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, meningococcal, AST 2019 guidelines recommend to administer meningococcal vaccination (ACWY) to adults with risk factors before or after transplantation.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^ae802041]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115Tht8Y]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (herpes zoster), AST 2019 guidelines recommend to consider administering subunit vaccine in post-transplant patients aged ≥ 50 years.
 
 ---
 
-### Primary varicella after transplantation [^9f1131ad]. American Journal of Kidney Diseases (2002). Low credibility.
+### Primary varicella after transplantation [^1154pomv]. American Journal of Kidney Diseases (2002). Low credibility.
 
 A 51-year-old white woman 6 months status post cadaveric renal transplant developed a mild case of primary varicella-zoster (VZ). It is hypothesized that the limited nature of her illness was due to infection with vaccine-type VZ virus instead of wild-type VZ. Approximately 1 month prior, she had daily household contact with a child who had developed a rash after immunization with live attenuated varicella vaccine. This case highlights several important questions. Should special precautions be undertaken with renal transplant recipients naive to varicella infection after vaccination of household contacts? Should pretransplant immunization with varicella vaccine be performed routinely in naive patients? Should naive patients transplanted and maintained on immunosuppressive therapy be vaccinated? Until there are clinical trials to answer these questions, it may be instructive to consider the recommendations for pediatric and immunocompromised patients.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^7e52caac]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^114EHFRM]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, AST 2019 guidelines recommend to review vaccination status and develop a vaccination plan in all transplant candidates and recipients.
 
 ---
 
-### First case of rapidly fatal mpox from secondary (household) transmission in a kidney transplant recipient [^03d10281]. American Journal of Transplantation (2023). Medium credibility.
+### First case of rapidly fatal mpox from secondary (household) transmission in a kidney transplant recipient [^1116fAgg]. American Journal of Transplantation (2023). Medium credibility.
 
 In 2022, a global outbreak of mpox (formerly known as monkeypox) was reported outside of areas considered endemic for the disease, predominantly in persons identifying as men who have sex with men, gay, or bisexual. To date, 3 cases of mpox in solid organ transplant recipients have been published; however, no instances of secondary transmission among solid organ transplant recipients have been reported. Here, we report a case of a 53-year-old male kidney transplant recipient who contracted mpox while caring for a household contact with the disease. The patient's clinical and laboratory findings during his rapidly fatal course, autopsy findings, and genomics analysis are presented, emphasizing the need for expanded pre-exposure prophylaxis efforts in patient populations without the risk factors prioritized by public health authorities for vaccination.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^272d903e]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^11215pe1]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (other), KDIGO 2020 guidelines recommend to consider administering the following vaccines in candidates at increased risk for the specific diseases due to age, direct exposure, residence or travel to endemic areas, or other epidemiological risk factors:
 
@@ -256,43 +256,43 @@ Regarding preventative measures for kidney transplantation, more specifically wi
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^49472b8c]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^112se15V]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, meningococcal, AST 2019 guidelines recommend to consider administering meningococcal B vaccination in at-risk adolescents and adults.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^aa7b97cd]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115MkQhA]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, AST 2019 guidelines recommend to ensure all transplant candidates are up to date on their routine vaccines as per national guidelines.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^b884a3cd]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^115iZGtL]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, general principles, KDIGO 2020 guidelines recommend to administer pre-transplant pneumococcal, hemophilus, and meningococcal vaccination in splenectomized candidates or candidates at increased risk for post-transplant splenectomy.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^748e5761]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^113yoNit]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, meningococcal, AST 2019 guidelines recommend to administer routine quadrivalent meningococcal vaccine to children as per local guidelines.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^ea96602d]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^116zncVr]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, measles, mumps, rubella, and varicella, AST 2019 guidelines recommend to follow recommendations made by national immunization advisory committees, such as the Advisory Committee on Immunization Practices in the US, for inactivated vaccines in transplant candidates or recipients when no specific data are available.
 
 ---
 
-### Principles of immunisation in children with solid organ transplant [^638bf9d7]. Archives of Disease in Childhood (2021). Medium credibility.
+### Principles of immunisation in children with solid organ transplant [^113YanrJ]. Archives of Disease in Childhood (2021). Medium credibility.
 
 Vaccine-preventable diseases (VPD) are a significant risk to paediatric solid organ transplant (SOT) recipients on lifelong immunosuppressive therapy. Children progressing to end-stage organ dysfunction are unable to mount a robust immune response. Hence, it is important to plan vaccination early in the course of disease, especially if a child is anticipated to be a SOT candidate. Vaccine recommendations need to be individualised in this population based on vaccine history and serology. Catch-up or accelerated schedules may be used to complete vaccinations before transplant. Post-transplant, immunisation is recommenced in consultation with the transplant team taking into context the time since transplant and the intensity of the immunosuppressive regime. Inactivated vaccines are safe post-transplant but postexposure prophylaxis may still be required in children with inadequate immunity to VPD. Specific vaccines may be advised for SOT recipients travelling abroad (in consultation with a travel clinic) or those entering high-risk professions. Additionally, the vaccination status of all household members and close contacts should be reviewed and optimised, offering additional protection to the transplant recipient.
 
 ---
 
-### Herpes virus infections in kidney transplant patients (HINT) [^a2fdf961]. ClinicalTrials (2022). Medium credibility.
+### Herpes virus infections in kidney transplant patients (HINT) [^115AeJU8]. ClinicalTrials (2022). Medium credibility.
 
 Kidney transplantation is a life-saving procedure for patients with kidney failure, and in 2021, 252 kidney transplantations were performed in Denmark. Varicella-zoster virus is a vaccine-preventable disease that causes varicella during primary infection and herpes zoster when reactivated later in life. VZV is one of the most common infections after organ transplantation, and kidney transplant recipients have high risk of herpes zoster. Furthermore, kidney transplant recipients that acquire herpes zoster have high risk of disseminated and severe disease as well as increased risk of post-herpetic neuralgia. Until 2021, the only available VZV/herpes zoster vaccines in Europe were live vaccines, and live vaccines are contraindicated in immunosuppressed individuals due to the risk of infection with the vaccine strain.
 
@@ -304,49 +304,49 @@ The investigators will conduct a prospective observational exploratory study inc
 
 ---
 
-### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^581cfd3a]. Clinical Transplantation (2019). High credibility.
+### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^113FdeZ7]. Clinical Transplantation (2019). High credibility.
 
 Regarding specific circumstances for herpes zoster, more specifically with respect to solid organ transplant recipients (infection control), AST 2019 guidelines recommend to offer the inactive adjuvanted subunit vaccine during the pre- and/or post-transplant periods to caregivers, household members, and family members eligible to receive a VZV vaccine as a measure to help protect patients.
 
 ---
 
-### Practical guide to vaccination in all stages of CKD, including patients treated by dialysis or kidney transplantation [^e5e63932]. American Journal of Kidney Diseases (2020). Medium credibility.
+### Practical guide to vaccination in all stages of CKD, including patients treated by dialysis or kidney transplantation [^116sqVeZ]. American Journal of Kidney Diseases (2020). Medium credibility.
 
 Infection is a major cause of morbidity and mortality in patients with chronic kidney disease (CKD), including those receiving maintenance dialysis or with a kidney transplant. Although responses to vaccines are impaired in these populations, immunizations remain an important component of preventative care due to their favorable safety profiles and the high rate of infection in these patients. Most guidelines for patients with CKD focus on the importance of the hepatitis B, influenza, and pneumococcal vaccines in addition to age-appropriate immunizations. More data are needed to determine the clinical efficacy of these immunizations and others in this population and define optimal dosing and timing for administration. Studies have suggested that there may be a benefit to immunization before the onset of dialysis or transplantation because patients with early-stage CKD generally have higher rates of seroconversion. Because nephrologists often serve as primary care physicians for patients with CKD, it is important to understand the role of vaccinations in the preventive care of this patient population.
 
 ---
 
-### KDOQI US commentary on the 2020 KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^331a1344]. American Journal of Kidney Diseases (2021). High credibility.
+### KDOQI US commentary on the 2020 KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^112Jm8Mq]. American Journal of Kidney Diseases (2021). High credibility.
 
 Vaccination and transplant scheduling — Consultation with a transplant infectious disease specialist will help with timely vaccination. This will allow for better communication between transplant teams to ensure transplantation is delayed for at least 4 weeks after administration of a live attenuated virus vaccine.
 
 ---
 
-### Immunizations for renal transplant candidates and recipients [^75fc7931]. Nature Clinical Practice: Nephrology (2009). Medium credibility.
+### Immunizations for renal transplant candidates and recipients [^1141vMYt]. Nature Clinical Practice: Nephrology (2009). Medium credibility.
 
 Vaccine-preventable diseases are a major cause of morbidity and mortality in renal transplant candidates and recipients. Assessing the need for and providing appropriate vaccinations can greatly reduce the infectious complications associated with solid organ transplantation. This Review outlines the basic tenets of vaccination in solid organ transplant candidates and recipients and summarizes the available literature on the efficacy and safety of the most relevant vaccines for patients who are scheduled for or who have undergone renal transplantation.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^b70d8bcb]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^115gPHUE]. Transplantation (2020). High credibility.
 
 Kidney transplant candidate vaccinations — routine schedules include the following: Pneumococcal vaccination with "one dose of PCV13 followed by one dose of PPV23 with a minimum of 8-week interval in between", with "one booster of PPV23 five years from previous PPV23"; Hepatitis B "three doses at 0, 1, 6 months" with monitoring to "give booster dose if titers decline < 10 IUs/ml"; Hepatitis A "two doses at 0, 2 months"; Human papillomavirus "three doses… (ages 9 to 45)"; Meningococcal quadrivalent conjugate "two doses given 8 weeks apart" and "repeat one dose every five years in patients at risk"; Shingles (herpes zoster subunit) "two doses at 0, 2–6 months for those age ≥ 50 years and VZV IgG positive"; Measles, mumps, rubella and varicella each "two doses given 4 weeks apart" with immunity "after two doses regardless of seroconversion"; Influenza "one dose annually"; the footnote specifies "The herpes zoster subunit inactivated vaccine is preferred over the herpes zoster live vaccine".
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^1105d81e]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^111SEkeR]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, measles, mumps, rubella, and varicella, KDIGO 2020 guidelines recommend to administer varicella vaccination in VZV seronegative candidates at least 4 weeks before transplantation.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^e0e1c49b]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^116kQ4SW]. Transplantation (2020). High credibility.
 
 Measles–mumps–rubella (MMR) immunization — pretransplant guidance: If the candidate is MMR seronegative, consideration should be given to MMR immunization prior to kidney transplant; those born after the introduction of MMR vaccine in their region may be seronegative; since MMR vaccine is live-attenuated, the candidate should defer transplant for at least 4 weeks after immunization; similarly, live virus immunization should not occur pre-transplantation if patient is immunosuppressed for another indication.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^2271d3b9]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^111t4p7S]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (influenza), AST 2019 guidelines recommend to offer influenza vaccination to all transplant candidates
 and recipients.
@@ -354,13 +354,13 @@ Offer either high-dose or booster dosing in the same season in the post-transpla
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^663e49d9]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^113cafDr]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (herpes zoster), AST 2019 guidelines recommend to administer herpes zoster vaccination in transplant candidates aged ≥ 50 years. Prefer subunit vaccination over live-attenuated vaccine to avoid delays in transplantation.
 
 ---
 
-### A comprehensive review of immunization practices in solid organ transplant and hematopoietic stem cell transplant recipients [^2df8d85c]. Clinical Therapeutics (2017). Low credibility.
+### A comprehensive review of immunization practices in solid organ transplant and hematopoietic stem cell transplant recipients [^112BA2aP]. Clinical Therapeutics (2017). Low credibility.
 
 Background
 
@@ -384,19 +384,19 @@ Immunizations remain underutilized in transplantation patients. Although efficac
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^e39f689f]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^116pTjW6]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (influenza), AST 2019 guidelines recommend to consider administering antiviral therapy and subsequent revaccination with an inactivated influenza vaccine if a live-attenuated influenza vaccine is inadvertently given to a transplant recipient.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^cb082215]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^116C1Det]. American Journal of Transplantation (2009). Medium credibility.
 
 Recommended vaccines after kidney transplantation — Table 12 lists: "Diphtheria — pertussis — tetanus; Haemophilus influenza B; Hepatitis A*; Hepatitis B; Pneumovax; Inactivated polio; Influenza types A and B (administer annually); Meningococcus: administer if recipient is in high risk; Typhoid VI", with the footnote "For travel, occupational or other specific risk, and endemic regions", and the interval guidance to "Consider providing booster polysaccharide pneumococcal vaccination every 3–5 years".
 
 ---
 
-### The RECOVAC IR study: the immune response and safety of the mRNA-1273 COVID-19 vaccine in patients with chronic kidney disease, on dialysis or living with a kidney transplant [^6b7a1481]. Nephrology, Dialysis, Transplantation (2021). Medium credibility.
+### The RECOVAC IR study: the immune response and safety of the mRNA-1273 COVID-19 vaccine in patients with chronic kidney disease, on dialysis or living with a kidney transplant [^113kLgTz]. Nephrology, Dialysis, Transplantation (2021). Medium credibility.
 
 Coronavirus disease 2019 (COVID-19) is associated with severe morbidity and mortality in patients with chronic kidney disease (CKD), on dialysis and kidney transplant recipients. Although effective COVID-19 vaccination would lead to great clinical benefit, most studies with the presently available vaccines have excluded the aforementioned patients. The resulting lack of data is a problem, because vaccine efficacy is known to be considerably lower in patients with CKD and renal replacement therapy. Recent reports have suggested that only a minority of kidney transplant recipients developed anti-severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) antibodies after messenger RNA (mRNA) COVID-19 vaccination.
 
@@ -404,32 +404,32 @@ The REnal Patients COVID-19 VACcination Immune Response (RECOVAC IR) study (Clin
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^47e104de]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^112qZhjT]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 Live vaccine and timing of vaccine in kidney transplant recipients — There is no particular reason for a 6-month lag between transplant and vaccination, and in the United States most individuals are on their baseline maintenance immunosuppression therapy by 3 months posttransplant. Recipients also should avoid intimate contact with individuals who have received live vaccines, including contact after children have received oral polio vaccine for 3 weeks, and immunosuppressed individuals are advised to avoid contact for 7 days with individuals who have received live virus nasal sprays for influenza. We concur with the recommendation for flu vaccine, but common practice in the United States is to wait 3–6 months after transplant before it is administered.
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^0bc5fd83]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^111JTNGA]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations (herpes zoster), AST 2019 guidelines recommend to consider administering herpes zoster vaccine in transplant candidates and recipients aged < 50 years.
 recognizing that the long-term benefit of this strategy is unknown, as is the vaccine effectiveness in VZV IgG-negative patients or younger patients who have previously received varicella vaccine.
 
 ---
 
-### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^cb32f783]. The Journal of Heart and Lung Transplantation (2023). High credibility.
+### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^116CFc82]. The Journal of Heart and Lung Transplantation (2023). High credibility.
 
 ISHLT heart transplant recipients — vaccination against COVID-19 notes that the current ISHLT recommendations should be followed, including pre-transplant vaccination of all SOT candidates as a priority whenever feasible; vaccination in SOT recipients and priority for vaccination of their household members and caregivers to reduce exposure risk; continuation of a stable immunosuppression regimen at the time of vaccination to avoid the risk of organ rejection until more comprehensive data are available; and that live viral vaccines even if attenuated should be avoided while vaccines with mRNA technology are safe in immunocompromised patients but efficacy may be reduced; data indicates reduced vaccine efficacy in immunocompromised patients and serum antibody assessments to vaccination should be considered and potentially studied during emerging pathogens. Class I, Level of Evidence: C.
 
 ---
 
-### BNT162b2 mRNA COVID-19 vaccination in immunocompromised patients: a prospective cohort study [^b128e6c1]. EClinicalMedicine (2021). Medium credibility.
+### BNT162b2 mRNA COVID-19 vaccination in immunocompromised patients: a prospective cohort study [^115XeYhn]. EClinicalMedicine (2021). Medium credibility.
 
 We demonstrated that antibody response to the BNT162b2 mRNA vaccine is highly variable among different immunosuppressed patients, and thus individual recommendations should be provided for different immunosuppressed patients. Younger patients – particularly those with HIV infection, those with solid malignancies being treated with immunochemotherapy, those with multiple myeloma, HSCT recipients six months post-transplant without GVHD, liver transplant patients and probably other transplant patients not receiving antimetabolite maintenance immunosuppression – are more likely to develop antibody responses, and vaccination should be encouraged for those patients. In contrast, older patients, particularly those after heart and kidney transplants, are less likely to develop antibody response and should be warned to follow strict infection control measures, particularly vaccination of all other household members. Further studies should be conducted to explore the cellular immune response to the vaccine in ICPs and the effect of additional booster doses of the vaccine.
 
 ---
 
-### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^5d2cffb3]. Clinical Transplantation (2019). High credibility.
+### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^113P8xre]. Clinical Transplantation (2019). High credibility.
 
 Regarding specific circumstances for herpes zoster, more specifically with respect to solid organ transplant recipients (pre-transplant vaccination), AST 2019 guidelines recommend to offer vaccination with the live-attenuated varicella vaccine
 or the adjuvanted subunit vaccine,
@@ -437,73 +437,73 @@ if not contraindicated, in caregivers, household members, and VZV-seronegative f
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^76f40d0c]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^1143MWkT]. Transplantation (2020). High credibility.
 
 Regarding preventative measures for kidney transplantation, more specifically with respect to routine immunizations, meningococcal, KDIGO 2020 guidelines recommend to administer meningococcal vaccination in transplant candidates requiring complement inhibitors perioperatively or post-transplant.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^769c2ee7]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^1142qzwx]. Transplantation (2020). High credibility.
 
 Vaccination — Population is CKD G4-G5 who receive transplants; intervention is Vaccination for/with Pneumovax (Prevnar 13), influenza, HBV, measles, shingles; outcomes include Immunogenicity and post-transplant vaccine effectiveness (disease incidence); study design Any; minimum duration of follow-up None; minimum N of subjects 20.
 
 ---
 
-### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^2276a987]. The Journal of Heart and Lung Transplantation (2023). High credibility.
+### The International Society for Heart and Lung Transplantation (ISHLT) guidelines for the care of heart transplant recipients [^111t6SJr]. The Journal of Heart and Lung Transplantation (2023). High credibility.
 
 Patient management during a pandemic — COVID-19 vaccination guidance for solid organ transplant (SOT) populations includes the ISHLT and other organizations' considerations: pretransplant vaccination of all SOT candidates as a priority whenever feasible; continued SARS-CoV-2 vaccination in SOT recipients and priority for vaccination of their household members and caregivers; continuation of a stable immunosuppression regimen at the time of vaccination to avoid the risk of organ rejection until more comprehensive data are available; and continued adherence of all transplant recipients to masking and social distancing regardless of vaccination status. The guideline notes that antibody response to COVID-19 vaccines are not as robust in transplant recipients as in non-transplant patients and reports a randomized clinical trial in which a third dose of the mRNA-1273 vaccine in transplant recipients who had already received two doses showed enhanced immune response against Covid-19. Based on current evidence, the ISHLT states, "we recommend providing a third dose of mRNA vaccine for SOT recipients that have previously completed a 2-dose mRNA vaccine series if local regulations allow", and that "The use of a third dose should, until further evidence is available, be based on individual patients' unique situation and must depend on local availability of vaccines and local regulations".
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^1534ae41]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^111YSSDn]. American Journal of Transplantation (2009). Medium credibility.
 
 Chapter 12: Vaccination — Timing, live vaccines, and influenza for kidney transplant recipients (KTRs): We suggest avoiding live vaccines in KTRs (2C). We suggest avoiding vaccinations, except influenza vaccination, in the first 6 months following kidney transplantation (2C), and we suggest resuming immunizations once patients are receiving minimal maintenance doses of immunosuppressive medications (2C). We recommend giving all KTRs, who are at least 1-month posttransplant, influenza vaccination prior to the onset of the annual influenza season, regardless of status of immunosuppression (1C). Influenza vaccination needs to be provided on an annual basis in advance of the onset of the annual influenza season, and even while KTRs are receiving high levels of immunosuppression, the benefits of timely vaccination outweigh the risks of delaying vaccination.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^8a57dea9]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^114Y6ojN]. Transplantation (2020). High credibility.
 
 KDIGO kidney transplant candidate vaccinations — We recommend that the vaccination series be commenced using an accelerated schedule, if necessary, prior to kidney transplantation for any inactivated vaccines (1B), and we suggest not excluding candidates who do not complete an inactivated vaccine series prior to kidney transplantation (2D). We recommend that the vaccination series be completed prior to kidney transplantation for any live attenuated vaccines (1B), and we recommend a 4-week delay in kidney transplantation if a live vaccine is administered (eg, MMR, VZV, shingles, yellow fever, oral typhoid, oral polio vaccine) (1B). We recommend that splenectomized candidates or those at increased risk for post-transplant splenectomy receive pretransplant pneumococcal, hemophilus, and meningococcal vaccination (1B), and we recommend that candidates requiring complement inhibitors perioperatively or post-transplant undergo meningococcal vaccination (1B). We suggest administering the following vaccines to candidates who, due to age, direct exposure, residence or travel to endemic areas, or other epidemiological risk factors, are at increased risk for the specific diseases: Rabies (2D), Tick-borne meningoencephalitis (2D), Japanese encephalitis (inactivated) (2D), Meningococcus (2D), Salmonella typhi (inactivated) (2D), and Yellow fever (2D).
 
 ---
 
-### Immunization of solid organ transplant candidates and recipients: a 2022 Update [^3f6009a9]. Infectious Disease Clinics of North America (2023). Medium credibility.
+### Immunization of solid organ transplant candidates and recipients: a 2022 Update [^112cxUik]. Infectious Disease Clinics of North America (2023). Medium credibility.
 
 Immunizations are a relatively safe and cost-effective intervention to prevent morbidity and mortality associated with vaccine preventable infection (VPIs). As such, immunizations are a critical part of the care of pre and posttransplant patients and should be prioritized. New tools are needed to continue to disseminate and implement the most up-to-date vaccine recommendations for the SOT population. These tools will help both primary care providers and multi-disciplinary transplant team members taking care of transplant patients to stay abreast of evidence-based best practices regarding the immunization of the SOT patient.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^8c7a70c7]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^114bGPne]. American Journal of Transplantation (2009). Medium credibility.
 
 Kidney transplant recipients (KTRs) — safety and timing of inactivated vaccines are summarized as follows: Inactivated vaccines are described as safe in KTRs with "no evidence that vaccinations lead to an increased risk of rejection", and "the risk of vaccination with inactivated vaccines is minimal", while infection risk is higher than in the general population; therefore vaccination is "warranted". Because "the response to vaccination in KTRs is diminished compared to immunization prior to transplantation", the "optimal timing" is prior to transplant, though "repeated vaccinations after transplantation are necessary" in some cases. Immunosuppression is highest early after transplant and "some time during the first 6–12 months" it is reduced to maintenance levels, which "is likely to be the best time for vaccination", noting timing may differ if treated for acute rejection.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^ebc5ff96]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^1172YbYZ]. American Journal of Transplantation (2009). Medium credibility.
 
 Research recommendations for immunization in kidney transplant recipients (KTRs) — studies are needed to determine the optimal timing of immunization in KTRs and the durability of immunologic response in KTRs vaccinated before and after transplantation.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^daef4a24]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^116bagAw]. Transplantation (2020). High credibility.
 
 KDIGO kidney transplant candidate vaccinations — Assessment of vaccination status is an integral part of the pre-transplant evaluation, and schedule details include that kidney transplant candidates should receive the conjugate pneumococcal vaccine followed by the polysaccharide pneumococcal vaccine at least 8 weeks later, and transplant candidates should receive the influenza vaccine annually while awaiting transplantation; depending on availability, the MF59 adjuvanted or the high-dose influenza vaccine can be used in transplant candidates ≥ 65 years of age. For hepatitis B vaccination in those with CKD, a 40 μg preparation ('dialysis dose') should be used with a 3-dose interval; anti-HBs should be measured 4–6 weeks after series completion, titers should be checked at regular intervals, and if titers have declined to < 10 IU/mL, a repeat HBV vaccine series can be given. In endemic areas (www.who.int), hepatitis A vaccine should be given to all candidates before transplantation. Meningococcal conjugate vaccine should be given to children as per local guidelines; in adults with risk factors including functional or anatomic asplenia, travelers to meningococcus endemic areas or those likely to require complement inhibitors perioperatively or post-transplant, two doses of quadrivalent vaccine at least 8 weeks apart can be given; in candidates who may receive eculizumab or other complement inhibitors, two doses of quadrivalent meningococcal vaccine (for serogroups A, C, Y, W-135) as well as meningococcal serogroup B vaccine should be administered. Human papillomavirus vaccine is also inactivated and can be given using the 3-dose schedule to males and females over age 9 years. A recombinant subunit inactivated vaccine is available to prevent herpes zoster and can be used in transplant candidates ≥ 50 years of age; in the general population, efficacy of this vaccine is > 97% and it is recommended for those ≥ 50 years. For inactivated vaccines, no specific wait period is required pre-transplantation and candidates can remain active if on a deceased donor waitlist; however, at least two weeks is required for establishment of vaccine immunity.
 
 ---
 
-### Vaccination of solid-organ transplantation candidates [^a38fbb78]. Clinical Infectious Diseases (2009). Low credibility.
+### Vaccination of solid-organ transplantation candidates [^115BVG4o]. Clinical Infectious Diseases (2009). Low credibility.
 
 Verifying immunization status and updating vaccinations are important steps in the evaluation of patients who are solid-organ transplant candidates because the potential benefits of vaccination outweigh the risk of adverse events. Because patients with end-organ disease, such as end-stage renal disease and cirrhosis, have reduced immune responses to many vaccines, vaccination should be performed as early as possible during the course of these diseases. Furthermore, it is particularly important for live vaccines to be updated during the pretransplant assessment because such vaccines are contraindicated once a patient is maintained on immunosuppression. Current information on vaccination for adult solid-organ transplant candidates is reviewed.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^626511a7]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^113Wsjbk]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 KDIGO recommendations in Chapter 12 — general vaccination: We recommend giving all KTRs approved, inactivated vaccines, according to recommended schedules for the general population, except for HBV vaccination (1D). We suggest HBV vaccination (ideally prior to transplantation) and HBsAb titers 6–12 weeks after completing the vaccination series (2D).
 
 ---
 
-### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^daf33931]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
+### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^116bbzor]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
 
 KEY LEARNING POINTS
 
@@ -527,37 +527,37 @@ Our results could help guide future healthcare planning if new virulent COVID-19
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^f3931ab9]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^117E7QJc]. Transplantation (2020). High credibility.
 
 Live and travel vaccines for kidney transplant candidates — live attenuated vaccines "include MMR, varicella, herpes zoster, yellow fever, oral typhoid and oral polio vaccine", and candidates lacking documented MMR immunity "should receive MMR vaccination"; because "viremia can occur after vaccination, transplantation should be delayed by at least 4 weeks". Varicella vaccine "is indicated for persons who are VZV IgG negative", and herpes zoster vaccine is "effective… in those ≥ 50 years of age that are VZV IgG positive", with benefit in CKD that "can reduce the risk of zoster by approximately 2-fold"; for live zoster, "a period of 4 weeks should elapse before transplantation". The inactivated zoster vaccine "is preferred over the live zoster vaccine… and candidates can remain active on the wait-list". Yellow fever vaccination "must be given at least 4 weeks before transplantation", and based on exposure risk, candidates "can safely receive any travel vaccines including both inactivated and live vaccines". Prior guidance notes "All guidelines also recommend screening for HIV, HCV, and HBV prior to transplantation".
 
 ---
 
-### KDOQI US commentary on the 2020 KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^26dc5b44]. American Journal of Kidney Diseases (2021). High credibility.
+### KDOQI US commentary on the 2020 KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^111zcYbm]. American Journal of Kidney Diseases (2021). High credibility.
 
 Kidney transplant candidate vaccination — KDIGO/KDOQI guidance specifies timing for inactivated and live vaccines: We recommend that the vaccination series be commenced using an accelerated schedule, if necessary, prior to kidney transplantation for any inactivated vaccines (1B), and we suggest not excluding candidates who do not complete an inactivated vaccine series prior to kidney transplantation (2D). We recommend that the vaccination series be completed prior to kidney transplantation for any live attenuated vaccines (1B) and we recommend a 4-week delay in kidney transplantation if a live vaccine is administered (eg, MMR, VZV, shingles, yellow fever, oral typhoid, oral polio vaccine) (1B). The guideline recommends completing all necessary live attenuated vaccines prior to transplantation and waiting at least 4 weeks prior to moving forward with transplantation; while inactivated vaccines can be administered posttransplant, it is preferable to administer these pretransplant since responses to immunization are suboptimal posttransplant, and the guideline recommends using an accelerated vaccination schedule for inactivated vaccines if necessary. KDIGO recommends not to delay transplantation just to complete the vaccination series, but exceptions could be considered in situations where patients have no demonstrable antibodies against varicella zoster virus. The KDOQI work group agrees with waiting a minimum of 4 weeks after any live vaccine and notes that asplenic kidney transplant candidates should receive pretransplant pneumococcal, Haemophilus, and meningococcal vaccination, and that patients who may need complement inhibitors in the peri- or posttransplant period should get meningococcal vaccination to reduce the risk of meningitis.
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^4284a738]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^112hcjtj]. Transplantation (2020). High credibility.
 
 KDIGO vaccination in kidney transplant candidates — We recommend the vaccination series be completed for any inactivated vaccines (Table 12) (1B). We suggest not excluding candidates who do not complete an inactivated vaccine series prior to kidney transplantation (2D). We recommend that the vaccination series be completed prior to kidney transplantation for any live attenuated vaccines (Table 12) (1B), and we recommend a 4-week delay in kidney transplantation if a live vaccine is administered (eg, MMR, VZV, shingles, yellow fever, oral typhoid, and polio vaccine) (1B). We recommend that splenectomized candidates or those at increased risk for post-transplant splenectomy receive pretransplant pneumococcal, haemophilus, and meningococcal vaccination (1B), and we recommend that candidates requiring complement inhibitors perioperatively or post-transplant undergo meningococcal vaccination (1B). We suggest administering the following vaccines to candidates with relevant epidemiological risk factors: Rabies (2D); Tick-borne meningoencephalitis (2D); Japanese encephalitis (inactivated) (2D); Meningococcus (2D); Salmonella typhi (inactivated) (2D); Yellow fever (2D).
 
 ---
 
-### Immunization of solid organ transplant candidates and recipients: a 2018 Update [^d71d5830]. Infectious Disease Clinics of North America (2018). Low credibility.
+### Immunization of solid organ transplant candidates and recipients: a 2018 Update [^116VvCGP]. Infectious Disease Clinics of North America (2018). Low credibility.
 
 This article discusses the recommended vaccines used before and after solid organ transplant period, including data regarding vaccine safety and efficacy and travel-related vaccines. Vaccination is an important part of the preparation for solid organ transplantation, because vaccine-preventable diseases contribute to the morbidity and mortality of these patients. A pretransplantation protocol should be encouraged in every transplant center. The main goal of vaccination is to provide seroprotection before transplantation, because iatrogenically immunosuppressed patients posttransplant have a lower seroresponse to vaccines.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^e6a6c727]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^116txAut]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 KDIGO recommendations in Chapter 12 — timing and influenza: We suggest avoiding live vaccines in KTRs (2C). We suggest avoiding vaccinations, except influenza vaccination, in the first 6 months following kidney transplantation (2C), and we suggest resuming immunizations once patients are receiving minimal maintenance doses of immunosuppressive medications (2C). We recommend giving all KTRs, who are at least 1-month post-transplant, influenza vaccination prior to the onset of the annual influenza season, regardless of status of immunosuppression (1C). Live virus vaccines are contraindicated in immunosuppressed KTRs.
 
 ---
 
-### Management of kidney transplant recipients for primary care practitioners [^9a1849b6]. BMC Nephrology (2024). Medium credibility.
+### Management of kidney transplant recipients for primary care practitioners [^114wTFZo]. BMC Nephrology (2024). Medium credibility.
 
 Vaccinations
 
@@ -571,19 +571,19 @@ The American and European transplantation organizations recommend regular skin c
 
 ---
 
-### The use of vaccines in adult patients with renal disease [^65251069]. American Journal of Kidney Diseases (2005). Low credibility.
+### The use of vaccines in adult patients with renal disease [^113axCXi]. American Journal of Kidney Diseases (2005). Low credibility.
 
 In patients with renal disease, infection remains among the most common causes of morbidity and mortality. Alterations in the function of the immune system, as well as unique exposures of this patient population, account for the increased risk. Vaccination is an invaluable tool in preventing many infectious diseases. Unfortunately, responsiveness to vaccination in patients with renal disease can be diminished. In the present review, we examine the available evidence on the use of vaccinations in adult patients at different stages of chronic kidney disease. We address efficacy, clinical outcomes, and potential costs of individual vaccinations and provide our recommendations based on the literature reviewed. We also identify areas in which additional research is needed.
 
 ---
 
-### Advisory committee on immunization practices recommended immunization schedule for adults aged 19 years or older-United States, 2025 [^887b675c]. MMWR: Morbidity and Mortality Weekly Report (2025). High credibility.
+### Advisory committee on immunization practices recommended immunization schedule for adults aged 19 years or older-United States, 2025 [^114VLmRd]. MMWR: Morbidity and Mortality Weekly Report (2025). High credibility.
 
 Influenza vaccination notes — routine vaccination was updated with new recommendations adding aIIV3 and HD-IIV3 as vaccine options that can be administered to solid organ transplant recipients aged 19–64 years who are receiving immunosuppressive medications.
 
 ---
 
-### Changing attitudes toward influenza vaccination in U.S. kidney transplant programs over the past decade [^dcdc7dc3]. Clinical Journal of the American Society of Nephrology (2010). Low credibility.
+### Changing attitudes toward influenza vaccination in U.S. kidney transplant programs over the past decade [^116eSLWn]. Clinical Journal of the American Society of Nephrology (2010). Low credibility.
 
 Background and Objectives
 
@@ -603,13 +603,13 @@ Our study suggests a greater adoption of the Centers for Disease Control and Pre
 
 ---
 
-### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^be1d5edc]. Clinical Transplantation (2019). High credibility.
+### Vaccination of solid organ transplant candidates and recipients: guidelines from the American Society of Transplantation infectious diseases community of practice [^115rrWjD]. Clinical Transplantation (2019). High credibility.
 
 Regarding preventative measures for liver transplantation, more specifically with respect to routine immunizations (measles, mumps, rubella, and varicella), AST 2019 guidelines recommend to offer vaccination against measles, mumps, rubella, and varicella in household and close contacts to prevent exposure of the transplanted patient to wild-type viruses.
 
 ---
 
-### Issues regarding COVID-19 in kidney transplantation in the ERA of the omicron variant: a commentary by the ERA descartes working group [^72f0d98f]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
+### Issues regarding COVID-19 in kidney transplantation in the ERA of the omicron variant: a commentary by the ERA descartes working group [^113wQVG2]. Nephrology, Dialysis, Transplantation (2022). Medium credibility.
 
 WHAT IS THE IMPACT OF COVID-19 ON DECEASED DONOR KIDNEY TRANSPLANTATION AND THE PLANNING OF LIVING DONOR KIDNEY TRANSPLANTATION?
 
@@ -623,25 +623,25 @@ Although kidney donors are healthy before donation, following surgical nephrecto
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^3502ae8e]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^112MbFBb]. American Journal of Transplantation (2009). Medium credibility.
 
 Additional travel and exposure-related vaccines in kidney transplant recipients (KTRs) — KTRs may be at increased risk for vaccine-preventable pathogens; inactivated vaccines recommended for travelers (for example salmonella typhi Vi polysaccharide vaccine or meningococcal vaccine) can be used, and consultation with an infectious disease specialist, travel clinic or public health official is recommended; in contrast, live-attenuated travel vaccines cannot be recommended because safety and efficacy data are unavailable.
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^06536f90]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^111ANx9m]. American Journal of Transplantation (2009). Medium credibility.
 
 Live vaccines after kidney transplantation — use and contraindications are outlined as follows: "A number of live vaccinations licensed for use in the general population are contraindicated in KTRs", and Table 13 lists "Varicella zoster; BCG; Smallpox; Intranasal influenza; Live oral typhoid Ty21a and other newer vaccines; Measles (except during an outbreak); Mumps; Rubella; Oral polio; Live Japanese B encephalitis vaccine; Yellow fever; BCG, Bacillus Calmette-Guérin". Supporting text notes that "the risks outweigh the potential benefits of using live vaccines in KTRs".
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^f1918d0f]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^117B8uUi]. American Journal of Transplantation (2009). Medium credibility.
 
 Chapter 12: Vaccination — Hepatitis B virus (HBV) and routine inactivated vaccines in kidney transplant recipients (KTRs): We recommend giving all KTRs approved, inactivated vaccines, according to recommended schedules for the general population, except for HBV vaccination (1D). We suggest HBV vaccination (ideally prior to transplantation) and checking antibody to hepatitis B surface antigen (HBsAb) titers 6–12 weeks after completing the vaccination series (2D), and we suggest annual HBsAb titers (2D). We suggest revaccination if the antibody titer falls below 10 mIU/ mL (2D). The efficacy of hepatitis B vaccination is determined by the prevention of hepatitis B infection, which is indirectly measured by the development of antibody to hepatitis B surface antigen (HBsAb) titers > 10 mIU/mL.
 
 ---
 
-### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^c5f6291b]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
+### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^1164VF7Q]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
 
 Another Swedish study found an overall excess mortality of 30% among KTRs and 9% among dialysis patients (compared with 8% in the general population) between March 2020 and March 2021. A registry study from the US reported an even greater impact on mortality rates, with an 41% increase above the expected number of deaths among KTRs during the same period. Among KRT patients in Madrid, Spain, a 35% higher mortality was found in 2020 as compared with before the pandemic. The European Renal Registry reported a 28-day COVID-19-attributable mortality rate of ≈20% for both dialysis and transplant recipients. During the second wave the 28-day mortality was slightly lower (19% and 13%, respectively). The protective effect of vaccination in the dialysis group observed in our study has also been reported from other dialysis cohorts and further strengthens the rationale for recommending vaccination in this vulnerable group.
 
@@ -649,7 +649,7 @@ Interestingly, compared with the general population, the SMR for patients on KRT
 
 ---
 
-### Zoster… [^8eae5d6e]. CDC (2025). Medium credibility.
+### Zoster… [^114eXovM]. CDC (2025). Medium credibility.
 
 Herpes Zoster
 - Caused by reactivation of varicella-zoster virus
@@ -675,13 +675,13 @@ Persons with a previous history of shingles may also be vaccinated. Adults 50 ye
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^ef0d737a]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^1177QZQD]. Kidney International (2025). High credibility.
 
 Kidney transplant candidate vaccinations — We suggest not excluding candidates who do not complete an inactivated vaccine series prior to kidney transplantation (2D). We recommend that the vaccination series be completed prior to kidney transplantation for any live attenuated vaccines (1B), and we recommend a 4-week delay in kidney transplantation if a live vaccine is administered (1B). We recommend that splenectomized candidates or those at increased risk for post-transplant splenectomy receive pretransplant pneumococcal, haemophilus, and meningococcal vaccination (1B), and we recommend that candidates requiring complement inhibitors perioperatively or post-transplant undergo meningococcal vaccination (1B). We suggest administering risk-based vaccines when indicated, including rabies, tick-borne meningoencephalitis, Japanese encephalitis (inactivated), meningococcus, Salmonella typhi (inactivated), and yellow fever (each 2D).
 
 ---
 
-### Detection of SARS-CoV-2 antibodies in pediatric kidney transplant patients [^14a2ed45]. BMC Nephrology (2021). Medium credibility.
+### Detection of SARS-CoV-2 antibodies in pediatric kidney transplant patients [^111XbUhz]. BMC Nephrology (2021). Medium credibility.
 
 In a systematic review of 16 articles including children and adults with cancer and kidney, heart, liver and immunodeficiency patients, immunocompromised patients had similar and sometimes more favorable outcomes than the general population. However, this favorable outcome was not observed in cancer patients.
 
@@ -691,25 +691,25 @@ Out of the four patients with documented positive PCR, 75% seroconverted with re
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^1bb9f0c5]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^111i782G]. Kidney International (2025). High credibility.
 
 Vaccinations — kidney transplant candidates: We recommend that the vaccination series be commenced using an accelerated schedule, if necessary, prior to kidney transplantation for any inactivated vaccines (1B), and we suggest not excluding candidates who do not complete an inactivated vaccine series prior to kidney transplantation (2D). We recommend that the vaccination series be completed prior to kidney transplantation for any live attenuated vaccines (1B), and we recommend a 4-week delay in kidney transplantation if a live vaccine is administered (eg, MMR, VZV, shingles, yellow fever, oral typhoid, oral polio vaccine) (1B). We recommend that splenectomized candidates or those at increased risk for post-transplant splenectomy receive pretransplant pneumococcal, hemophilus, and meningococcal vaccination (1B), and we recommend that candidates requiring complement inhibitors perioperatively or post-transplant undergo meningococcal vaccination (1B). We suggest administering additional vaccines to at-risk candidates due to epidemiological factors, specifically rabies (2D), tick-borne meningoencephalitis (2D), Japanese encephalitis (inactivated) (2D), meningococcus (2D), Salmonella typhi (inactivated) (2D), and yellow fever (2D).
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^7b629702]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^1149vbMB]. American Journal of Transplantation (2009). Medium credibility.
 
 Hepatitis B revaccination in kidney transplant recipients (KTRs) — a level above 10 mIU/mL is generally taken to be protective, but transplant recipients with titers less than 100 mIU/mL tend to lose them rapidly; a European Consensus Group suggests booster vaccination at titers below 100 mIU/mL, and although there is no clear evidence to support this recommendation, it seems prudent to assess annually the need for a booster dose; serial HBsAb monitoring to guide boosters has been recommended in dialysis patients and expanded to patients with impaired immune function.
 
 ---
 
-### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^596fdee7]. Clinical Transplantation (2019). High credibility.
+### Varicella zoster virus in solid organ transplantation: guidelines from the American Society of Transplantation infectious diseases community of practice [^113HbUVt]. Clinical Transplantation (2019). High credibility.
 
 Regarding specific circumstances for herpes zoster, more specifically with respect to solid organ transplant recipients (post-transplant vaccination), AST 2019 guidelines recommend to consider offering the adjuvanted subunit vaccine for the prevention of HZ in selected kidney transplant recipients at low risk for rejection.
 
 ---
 
-### Vaccination for the post-kidney transplant population [^b4aa99ee]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
+### Vaccination for the post-kidney transplant population [^115cr5Jm]. Current Opinion in Nephrology and Hypertension (2019). Medium credibility.
 
 Purpose Of Review
 
@@ -725,25 +725,25 @@ Kidney transplant recipients are highly-vulnerable to contracting serious infect
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^e3c513dd]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^116pgPMN]. Kidney International (2025). High credibility.
 
 Kidney transplant candidates — live vaccines and zoster product preference detail schedules and timing: For measles, mumps, rubella, "Two doses given 4 weeks apart. Considered immune after two doses regardless of seroconversion", with the comment "Check serology and provide vaccination if negative"; Varicella uses "Two doses given 4 weeks apart. Considered immune after two doses regardless of seroconversion", with the comment "Check serology and provide vaccination if negative"; Shingles (Herpes Zoster Live) has "One dose in those age ≥ 50 years and VZV IgG positive", with the comment "Unknown if benefit in less than 50 years of age"; the footnote states, "The herpes zoster subunit inactivated vaccine is preferred over the herpes zoster live vaccine. If the herpes zoster live vaccine has already been administered, the transplant candidate can be re-immunized with the inactivated vaccine at a minimum of one year after the live vaccine". In addition, "For transplant candidates at increased risk of developing yellow fever, vaccination must be given at least 4 weeks before transplantation".
 
 ---
 
-### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^37b3939c]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
+### Results of the first nationwide cohort study of outcomes in dialysis and kidney transplant patients before and after vaccination for COVID-19 [^112Radw9]. Nephrology, Dialysis, Transplantation (2023). Medium credibility.
 
 In conclusion, the COVID-19 pandemic in Sweden resulted in increased mortality and hospitalization rates among KRT patients. Both absolute and relative mortality rates were substantially higher in dialysis patients during the first two COVID-19 waves compared with transplanted patients. Following the vaccine rollout, there was a distinct reduction in hospitalization and mortality rates among dialysis patients that was not reflected among the KTRs, who at this time surpassed the dialysis patients in COVID-19 mortality and hospitalization rates. Compared with the general population in Sweden, the monthly SMRs were several times higher but relatively stable in dialysis patients during the follow-up period. In contrast, the SMR for KTRs showed an increasing trend. These results could help guide future healthcare planning if new virulent SARS-CoV-2 strains emerge.
 
 ---
 
-### Clinical guidance for smallpox vaccine use in a postevent vaccination program [^cc0d6a83]. MMWR: Recommendations and Reports (2015). Medium credibility.
+### Clinical guidance for smallpox vaccine use in a postevent vaccination program [^116DWyra]. MMWR: Recommendations and Reports (2015). Medium credibility.
 
 Smallpox postevent vaccination — postexposure vaccination and severe immunodeficiency exceptions states that persons with a known exposure to smallpox virus should be vaccinated with a replication-competent smallpox vaccine unless severely immunodeficient, including bone marrow transplant recipients within 4 months of transplantation, persons infected with HIV with CD4 cell counts < 50 cells/mm³, and those with severe combined immunodeficiency or complete DiGeorge syndrome requiring isolation. Persons exposed include household family members of a case, others spending ≥ 3 hours in the household since the case's onset of fever, and nonhousehold members with ≥ 3 hours of contact at (< 6.5 feet) with a case with rash. Imvamune requires 2 doses administered 4 weeks apart to achieve an immune response comparable to that of replication-competent smallpox vaccines, and its efficacy in preventing smallpox in humans is less certain.
 
 ---
 
-### Clinical overview of shingles (herpes zoster) [^23a18fec]. CDC (2024). Medium credibility.
+### Clinical overview of shingles (herpes zoster) [^111upqMD]. CDC (2024). Medium credibility.
 
 Key points
 - Herpes zoster is caused by the reactivation of varicella-zoster virus and can be prevented with Shingrix vaccine.
@@ -767,31 +767,31 @@ The signs and symptoms of herpes zoster are usually distinctive enough to make a
 
 ---
 
-### KDIGO clinical practice guideline for the care of kidney transplant recipients [^b3ccc6a3]. American Journal of Transplantation (2009). Medium credibility.
+### KDIGO clinical practice guideline for the care of kidney transplant recipients [^115bZZoQ]. American Journal of Transplantation (2009). Medium credibility.
 
 Kidney transplant recipients (KTRs) — vaccine-specific immunogenicity includes the following: For influenza, "30–100% of immunized KTRs will achieve protective hemagglutination-inhibiting serum antibody titers", and "the efficacy of influenza vaccination appears to be superior in pediatric compared to adult KTRs". Data support "the use of the 23-valent polysaccharide pneumococcal vaccine for KTRs > 2 years of age", whereas "hepatitis B vaccine has significantly diminished immunogenicity in organ transplant recipients compared to immunocompetent controls".
 
 ---
 
-### Immune response to SARS-CoV-2 infection and vaccination in patients receiving kidney replacement therapy [^9ecbe6f8]. Kidney International (2021). Medium credibility.
+### Immune response to SARS-CoV-2 infection and vaccination in patients receiving kidney replacement therapy [^1154RXrw]. Kidney International (2021). Medium credibility.
 
 In this issue of Kidney International, the initial experience regarding the immunogenicity of prior coronavirus disease 2019 (COVID-19) infection and the response to the COVID-19 vaccines among patients on maintenance dialysis and kidney transplant recipients is summarized. Preliminary data suggest that there is durability of immune response after COVID-19 infection. Although immune response to the first dose of vaccine is less in infection-naïve patients than healthy individuals in both groups, after the second vaccine dose a significant portion of patients receiving maintenance dialysis develop robust antibody titers, whereas kidney transplant recipients show a less-strong immune response.
 
 ---
 
-### Smallpox vaccination and the patient with an organ transplant [^7ff61cf0]. Clinical Infectious Diseases (2003). Low credibility.
+### Smallpox vaccination and the patient with an organ transplant [^114Gi6TZ]. Clinical Infectious Diseases (2003). Low credibility.
 
 Organ transplant recipients are vulnerable to a variety of infections because of the immunosuppressed state required to prevent organ rejection. We review the recommendations of the Centers for Disease Control and Prevention (Atlanta, Georgia) for smallpox vaccination and the possible complications of vaccination in the population with organ transplants. The risk of these complications is presumably dependent on the extent of deficient cell-mediated immunity.
 
 ---
 
-### Caregiver COVID-19 vaccination for solid organ transplant candidates [^62f349a8]. American Journal of Transplantation (2022). Medium credibility.
+### Caregiver COVID-19 vaccination for solid organ transplant candidates [^113XhWF9]. American Journal of Transplantation (2022). Medium credibility.
 
 An increasing proportion of transplant centers have implemented a mandate for vaccination against COVID-19 for solid organ transplant candidates. There has been comparatively little exploration of the ethical considerations of mandating vaccination of a candidate's primary caregiver, despite a high risk of transmission given the close nature of contact between the candidate and caregiver. We examine how a caregiver mandate can improve overall utility in organ allocation, particularly in circumstances where vaccine effectiveness at preventing transmission and serious disease is low among recipients but high in caregivers. Our analysis reveals how sensitive such mandates must be to the evolving circumstances of disease severity, transmissibility, and vaccine effectiveness: as the facts change, the degree of benefit gained and therefore the degree of infringement on access to transplant and caregiver choice that is tolerated will likewise change.
 
 ---
 
-### Indicators of vaccination status in patients with chronic kidney disease: the importance of recommendations from healthcare providers [^64ee71ce]. BMC Nephrology (2025). Medium credibility.
+### Indicators of vaccination status in patients with chronic kidney disease: the importance of recommendations from healthcare providers [^113adrTP]. BMC Nephrology (2025). Medium credibility.
 
 Conclusions
 
@@ -799,13 +799,13 @@ Influenza and pneumococcus vaccination rates in patients with CKD are below esta
 
 ---
 
-### Prevention and control of seasonal influenza with vaccines: recommendations of the advisory committee on immunization practices-United States, 2024–25 influenza season [^d7f5bf19]. MMWR: Recommendations and Reports (2024). High credibility.
+### Prevention and control of seasonal influenza with vaccines: recommendations of the advisory committee on immunization practices-United States, 2024–25 influenza season [^116XAt7i]. MMWR: Recommendations and Reports (2024). High credibility.
 
 Regarding preventative measures for influenza virus infection, more specifically with respect to influenza vaccination, indications, CDC 2024 guidelines recommend to offer either HD-IIV3 or aIIV3 as acceptable options in solid organ transplant recipients aged 18–64 years receiving immunosuppressive therapy.
 
 ---
 
-### Pneumococcal vaccine for adults aged ≥ 19 years: recommendations of the advisory committee on immunization practices, United States, 2023 [^c0bccfd8]. MMWR: Recommendations and Reports (2023). Medium credibility.
+### Pneumococcal vaccine for adults aged ≥ 19 years: recommendations of the advisory committee on immunization practices, United States, 2023 [^115vk3Td]. MMWR: Recommendations and Reports (2023). Medium credibility.
 
 Persons With Chronic Kidney Disease
 
@@ -821,25 +821,25 @@ Other medical conditions, occupational or environmental exposures, or living con
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^7456652c]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^113yUaod]. Kidney International (2025). High credibility.
 
 Rationale and specific vaccine schedules for transplant candidates: Live-attenuated vaccines should only be given prior to transplantation, while inactivated vaccines can be given pre- or post-transplantation and childhood vaccinations should be updated per local guidelines with accelerated schedules as needed. Transplant recipients have an increased risk for developing invasive pneumococcal disease; as such, kidney transplant candidates should receive the conjugate pneumococcal vaccine followed by the polysaccharide pneumococcal vaccine at least 8 weeks later, and transplant candidates should receive the influenza vaccine annually while awaiting transplantation. Depending on availability, the MF59 adjuvanted or the high-dose influenza vaccine can be used in transplant candidates ≥ 65 years of age. HBV vaccine is recommended for those with CKD; a 40 μg preparation ('dialysis dose') should be used with a 3-dose interval, anti-HBs should be measured 4–6 weeks after series completion, and if titers have declined to < 10 IU/mL, a repeat HBV vaccine series can be given. Meningococcal conjugate vaccine should be given to all candidates before transplantation; in adults, two doses of quadrivalent vaccine at least 8 weeks apart can be given, and in candidates who may receive eculizumab or other complement inhibitors, two doses of quadrivalent meningococcal vaccine (for serogroups A, C, Y, W-135) as well as meningococcal serogroup B vaccine should be administered. Human papillomavirus vaccine is inactivated and can be given using the 3-dose schedule to males and females over age 9 years. A recombinant subunit inactivated vaccine to prevent herpes zoster can be used in transplant candidates ≥ 50 years of age; in the general population, efficacy of this vaccine is > 97% and it is recommended for those ≥ 50 years of age.
 
 ---
 
-### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^7c2d1532]. American Journal of Kidney Diseases (2010). Medium credibility.
+### KDOQI US commentary on the 2009 KDIGO clinical practice guideline for the care of kidney transplant recipients [^114B6cED]. American Journal of Kidney Diseases (2010). Medium credibility.
 
 Posttransplant graft monitoring and infection prevention in kidney transplant recipients (KTRs) — Frequent posttransplant monitoring may improve long-term outcomes by decreasing chronic graft failure or death with a functioning graft, and the work group concurred with routine screening in monitoring kidney allograft function with a low threshold for performing kidney biopsy in cases of graft dysfunction or proteinuria; it is now standard of care to use vaccinations in KTRs as long as the vaccine does not contain live or attenuated virus, and it also is routine to screen for or use prophylaxis to prevent several posttransplant viral infections; although chronic kidney disease in KTRs progresses more slowly than in other patients, the KDIGO guidelines on CKD should be followed in KTRs.
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^918afece]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^114imti9]. DoD/VA (2025). High credibility.
 
 VA/DoD CKD primary care — vaccination: Assess Hepatitis B status and vaccinate, if non-immune; update pneumococcal vaccines; update influenza and COVID vaccination annually; and provide age-appropriate vaccination (e.g. MMR, VZV, Tdap/Td, RSV). Do not administer live vaccines (e.g. MMR, Zostavax) to kidney transplant recipients.
 
 ---
 
-### Susceptibility to SARS-CoV-2 infection and immune responses to COVID-19 vaccination among recipients of solid organ transplants [^e6c2e0dc]. The Journal of Infectious Diseases (2023). Medium credibility.
+### Susceptibility to SARS-CoV-2 infection and immune responses to COVID-19 vaccination among recipients of solid organ transplants [^116u7cMR]. The Journal of Infectious Diseases (2023). Medium credibility.
 
 THE DYNAMIC LANDSCAPE OF COVID-19 VACCINATION GUIDELINES AND CLINICAL PRACTICE FOR SOLID ORGAN TRANSPLANT RECIPIENTS
 
@@ -847,13 +847,13 @@ As the COVID-19 pandemic progressed and vaccines were developed and authorized f
 
 ---
 
-### Vaccination of adults with cancer: ASCO guideline [^11302d12]. Journal of Clinical Oncology (2024). High credibility.
+### Vaccination of adults with cancer: ASCO guideline [^111SUyLV]. Journal of Clinical Oncology (2024). High credibility.
 
 Household and close contacts of adults with cancer — vaccination recommendations state that immunocompetent household members can safely receive all recommended live and nonlive vaccines, with specific exceptions. The Infectious Diseases Society of America (IDSA) guideline recommends against oral polio vaccine for household contacts of immunocompromised patients and also recommends against live-attenuated influenza vaccine in household contacts of patients who have recently received a hematopoietic stem cell transplant (HSCT) or have graft-versus-host disease (GVHD). Clinically, all vaccines recommended by the Advisory Committee on Immunization Practices (ACIP) for both adults and children, including live vaccines such as varicella and measles–mumps–rubella (MMR), can be safely administered to household contacts of patients undergoing cancer treatment except for live attenuated influenza vaccine use in close contacts of HSCT recipients, and close contacts should remain up to date with seasonal vaccines.
 
 ---
 
-### A call to action: current challenges and considerations for COVID-19 vaccination in immunocompromised populations [^4ab107c4]. The Journal of Infectious Diseases (2023). Medium credibility.
+### A call to action: current challenges and considerations for COVID-19 vaccination in immunocompromised populations [^112ujYgb]. The Journal of Infectious Diseases (2023). Medium credibility.
 
 Table 1.
 mRNA-Based COVID-19 Vaccine Recommendations for Immunocompromised Individuals in the United States
@@ -862,7 +862,7 @@ Given the heterogeneity of the immunocompromised population, adoption of nonstan
 
 ---
 
-### Laboratory testing for varicella-zoster virus (VZV)… [^a6d8b47f]. CDC (2025). Medium credibility.
+### Laboratory testing for varicella-zoster virus (VZV)… [^115GMjY2]. CDC (2025). Medium credibility.
 
 Key points
 - This varicella-zoster virus laboratory testing information applies to testing and diagnosis of primary VZV infection and reactivation.
@@ -891,7 +891,7 @@ People with a prior history of vaccination or disease may have very high baselin
 
 ---
 
-### Hepatitis B vaccination status among patients with end-stage kidney disease on haemodialysis in Ethiopia: a multi-center cross-sectional study [^20623d3d]. BMC Nephrology (2024). Medium credibility.
+### Hepatitis B vaccination status among patients with end-stage kidney disease on haemodialysis in Ethiopia: a multi-center cross-sectional study [^111q1bsa]. BMC Nephrology (2024). Medium credibility.
 
 Sample size determination
 
@@ -923,13 +923,13 @@ A structured interviewer-administered questionnaire was prepared after reviewing
 
 ---
 
-### Prophylactic measures in the solid-organ recipient before transplantation [^4cf02a0d]. Clinical Infectious Diseases (2001). Low credibility.
+### Prophylactic measures in the solid-organ recipient before transplantation [^112y4jCG]. Clinical Infectious Diseases (2001). Low credibility.
 
 Pretransplant screening affords an important opportunity to detect and treat preexisting active infection in the solid-organ transplant recipient. In this article, pretransplant strategies for preventing infections after solid-organ transplantation are reviewed. In addition to the search for active preexisting infection in the transplant candidate, immunization remains a cornerstone of preventive practice. Because there is a suboptimal response to vaccinations in patients who are receiving immunosuppressive therapy, as well as in patients with end-stage organ dysfunction, standard immunization of the transplant candidate should be updated as early as possible in the course of the illness, including pneumococcal, influenza, and hepatitis B vaccines. Liver transplant candidates should receive hepatitis A vaccine, and children should receive Haemophilus influenzae type B conjugate vaccine. All nonimmune pretransplant patients should be considered candidates for the varicella vaccine. The management of special risk groups is discussed in detail.
 
 ---
 
-### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.11 paediatrics (specific problems) [^6fda4e86]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
+### European best practice guidelines for renal transplantation. section IV: long-term management of the transplant recipient. IV.11 paediatrics (specific problems) [^113rpxEq]. Nephrology, Dialysis, Transplantation (2002). Low credibility.
 
 Guidelines
 
@@ -937,18 +937,18 @@ A. Kidney transplantation should be the treatment of choice for end-stage renal 
 
 ---
 
-### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^a3dad90a]. Transplantation (2020). High credibility.
+### KDIGO clinical practice guideline on the evaluation and management of candidates for kidney transplantation [^115BvVS9]. Transplantation (2020). High credibility.
 
 Varicella-zoster virus (VZV) and measles–mumps–rubella (MMR) serology and immunization — We recommend screening for VZV with VZV IgG (1C). We recommend varicella immunization for VZV seronegative candidates at least 4 weeks prior to transplantation (1C). We suggest screening for MMR using IgG serology (2C). We suggest MMR immunization for MMR seronegative candidates at least 4 weeks prior to transplantation (2C).
 
 ---
 
-### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^cc91c30b]. Kidney International (2025). High credibility.
+### KDIGO 2025 clinical practice guideline for the management of nephrotic syndrome in children [^116EHSAE]. Kidney International (2025). High credibility.
 
 Kidney transplant candidates — consistency across prior guidelines and pretransplant screening notes that "Our KDIGO infection guidelines are largely consistent with the 2019 AST infectious diseases guidelines in regards to kidney transplant candidate screening and vaccinations", and "All guidelines also recommend screening for HIV, HCV, and HBV prior to transplantation".
 
 ---
 
-### Influenza vaccination in the organ transplant recipient: review and summary recommendations [^8f8ea9d6]. American Journal of Transplantation (2011). Low credibility.
+### Influenza vaccination in the organ transplant recipient: review and summary recommendations [^114fq9c9]. American Journal of Transplantation (2011). Low credibility.
 
 Influenza virus causes a spectrum of illness in transplant recipients with a high rate of lower respiratory disease. Seasonal influenza vaccination is an important public health measure recommended for transplant recipients and their close contacts. Vaccine has been shown to be safe and generally well tolerated in both adult and pediatric transplant recipients. However, responses to vaccine are variable and are dependent on various factors including time from transplantation and specific immunosuppressive medication. Seasonal influenza vaccine has demonstrated safety and no conclusive evidence exists for a link between vaccination and allograft dysfunction. Annually updated trivalent inactivated influenza vaccines have been available and routinely used for several decades, although newer influenza vaccination formulations including high-dose vaccine, adjuvanted vaccine, quadrivalent inactivated vaccine and vaccine by intradermal delivery system are now available or will be available in the near future. Safety and immunogenicity data of these new formulations in transplant recipients requires investigation. In this document, we review the current state of knowledge on influenza vaccines in transplant recipients and make recommendations on the use of vaccine in both adult and pediatric organ transplant recipients.

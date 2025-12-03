@@ -17,35 +17,35 @@ can metformin be used in esrd
 
 > Let me first confirm the definition so I don't anchor on the wrong threshold. ESRD is generally equated with CKD stage 5, which corresponds to eGFR less than 15 mL/min/1.73 m², or the need for chronic dialysis or kidney transplantation, and this is the context in which metformin's renal clearance becomes most problematic.
 
-> Next, I should review the highest-credibility guidance. KDIGO 2022 recommends initiating metformin in T2DM with CKD only when eGFR is at least 30 mL/min/1.73 m², and explicitly advises stopping metformin when eGFR falls below 30 mL/min/1.73 m², with no safety data supporting use below that level, which directly excludes ESRD from approved use [^cfde05b6] [^a645f136]. The FDA labeling aligns with this, stating metformin is contraindicated when eGFR is below 30 mL/min/1.73 m², and this contraindication is reflected across multiple metformin-containing products and combinations, including dapagliflozin/metformin and saxagliptin/metformin, reinforcing that ESRD is off-label and contraindicated territory [^390608ba] [^18cb3d4e] [^18cb3d4e] [^919c03d3].
+> Next, I should review the highest-credibility guidance. KDIGO 2022 recommends initiating metformin in T2DM with CKD only when eGFR is at least 30 mL/min/1.73 m², and explicitly advises stopping metformin when eGFR falls below 30 mL/min/1.73 m², with no safety data supporting use below that level, which directly excludes ESRD from approved use [^116KB1gH] [^115FWSN9]. The FDA labeling aligns with this, stating metformin is contraindicated when eGFR is below 30 mL/min/1.73 m², and this contraindication is reflected across multiple metformin-containing products and combinations, including dapagliflozin/metformin and saxagliptin/metformin, reinforcing that ESRD is off-label and contraindicated territory [^112TYKcm] [^111dkyBs] [^111dkyBs] [^114iscH8].
 
-> Hold on, let's not jump to conclusions without checking the evidence base. I need to check whether any high-quality data contradict this. The JAMA systematic review concluded that while metformin appears safe down to eGFR 30–60 mL/min/1.73 m², there are no randomized trials supporting safety below 30, and observational signals suggest possible harm in advanced CKD, which supports the conservative stance in ESRD [^5f128656]. A large Taiwanese cohort in patients with stage 5 CKD showed increased all-cause mortality with metformin use, and although confounded, it strengthens the precautionary principle in ESRD [^405d8f5f]. Conversely, a recent target-trial emulation suggested that continuing metformin after incident stage 4 CKD might be associated with better survival, but that study did not isolate ESRD and is vulnerable to residual confounding, so I should be cautious about extrapolating it to eGFR less than 15 or dialysis patients [^40fe1670].
+> Hold on, let's not jump to conclusions without checking the evidence base. I need to check whether any high-quality data contradict this. The JAMA systematic review concluded that while metformin appears safe down to eGFR 30–60 mL/min/1.73 m², there are no randomized trials supporting safety below 30, and observational signals suggest possible harm in advanced CKD, which supports the conservative stance in ESRD [^113Rx3fT]. A large Taiwanese cohort in patients with stage 5 CKD showed increased all-cause mortality with metformin use, and although confounded, it strengthens the precautionary principle in ESRD [^112eRdjU]. Conversely, a recent target-trial emulation suggested that continuing metformin after incident stage 4 CKD might be associated with better survival, but that study did not isolate ESRD and is vulnerable to residual confounding, so I should be cautious about extrapolating it to eGFR less than 15 or dialysis patients [^112fMZ4b].
 
-> I should double-check whether any exceptions or low-dose strategies are endorsed. Some authors have proposed very low-dose metformin (for example, 500 mg once daily) in carefully selected patients with eGFR 15–30 mL/min/1.73 m², but this remains off-label, not supported by prospective safety trials, and is not endorsed by KDIGO or FDA, so it cannot be recommended as standard care in ESRD [^f1045941]. Mechanistically, metformin is renally cleared and accumulates as GFR declines, and while lactate levels may remain modest in stable moderate CKD, the risk calculus shifts unfavorably in ESRD where clearance is minimal and intercurrent illness is common [^5f128656] [^097574bb].
+> I should double-check whether any exceptions or low-dose strategies are endorsed. Some authors have proposed very low-dose metformin (for example, 500 mg once daily) in carefully selected patients with eGFR 15–30 mL/min/1.73 m², but this remains off-label, not supported by prospective safety trials, and is not endorsed by KDIGO or FDA, so it cannot be recommended as standard care in ESRD [^117AKUdn]. Mechanistically, metformin is renally cleared and accumulates as GFR declines, and while lactate levels may remain modest in stable moderate CKD, the risk calculus shifts unfavorably in ESRD where clearance is minimal and intercurrent illness is common [^113Rx3fT] [^111F2LmG].
 
-> Let me consider the risk–benefit balance in ESRD specifically. The potential benefit of glycemic control must be weighed against the lack of proven safety and the plausible risk of metformin accumulation and lactic acidosis in the setting of minimal renal clearance, frequent infections, and hemodynamic instability; given the absence of supportive randomized data and the existence of a mortality signal in stage 5 CKD, the balance favors avoidance in ESRD [^405d8f5f] [^5f128656]. I should confirm that this aligns with broader diabetes-in-CKD principles: in advanced CKD, glycemic targets are generally relaxed to mitigate hypoglycemia, and agents with low hypoglycemia risk are prioritized, which further reduces the urgency to expose patients to metformin in ESRD [^4dff1988].
+> Let me consider the risk–benefit balance in ESRD specifically. The potential benefit of glycemic control must be weighed against the lack of proven safety and the plausible risk of metformin accumulation and lactic acidosis in the setting of minimal renal clearance, frequent infections, and hemodynamic instability; given the absence of supportive randomized data and the existence of a mortality signal in stage 5 CKD, the balance favors avoidance in ESRD [^112eRdjU] [^113Rx3fT]. I should confirm that this aligns with broader diabetes-in-CKD principles: in advanced CKD, glycemic targets are generally relaxed to mitigate hypoglycemia, and agents with low hypoglycemia risk are prioritized, which further reduces the urgency to expose patients to metformin in ESRD [^112zdjSf].
 
-> Next, I should review safer, guideline-concordant alternatives for ESRD. Insulin remains the mainstay because dosing can be adjusted to dialysis schedules and nutritional intake, and hypoglycemia risk can be mitigated with close monitoring; GLP-1 receptor agonists with proven cardiovascular benefit can be considered in selected patients, and SGLT2 inhibitors are generally not used for glycemic control in ESRD due to limited efficacy, though some agents have outcome trials extending into lower eGFR ranges for cardiorenal protection rather than glucose lowering [^fe32f368] [^944f3594]. Hold on, I should verify the SGLT2 point: dapagliflozin has evidence down to eGFR around 20–25 in CKD outcome trials, but that is distinct from using it for glycemic control in ESRD, so I need to be clear that SGLT2 use in ESRD is not for HbA1c lowering and is not a substitute for metformin in this context [^f26c57a9] [^944f3594].
+> Next, I should review safer, guideline-concordant alternatives for ESRD. Insulin remains the mainstay because dosing can be adjusted to dialysis schedules and nutritional intake, and hypoglycemia risk can be mitigated with close monitoring; GLP-1 receptor agonists with proven cardiovascular benefit can be considered in selected patients, and SGLT2 inhibitors are generally not used for glycemic control in ESRD due to limited efficacy, though some agents have outcome trials extending into lower eGFR ranges for cardiorenal protection rather than glucose lowering [^117VryBV] [^114nsmq5]. Hold on, I should verify the SGLT2 point: dapagliflozin has evidence down to eGFR around 20–25 in CKD outcome trials, but that is distinct from using it for glycemic control in ESRD, so I need to be clear that SGLT2 use in ESRD is not for HbA1c lowering and is not a substitute for metformin in this context [^117CQPsv] [^114nsmq5].
 
-> Putting this together, I should confirm the bottom line. Metformin should not be used in ESRD because eGFR is below 30 mL/min/1.73 m², there is no supportive safety evidence in this population, and both KDIGO and FDA classify it as contraindicated or not recommended; if a patient with T2DM progresses to ESRD while on metformin, it should be discontinued and alternative therapy instituted, with insulin as the principal option and GLP-1 RAs considered selectively for cardiovascular benefit and low hypoglycemia risk [^cfde05b6] [^390608ba] [^fe32f368].
+> Putting this together, I should confirm the bottom line. Metformin should not be used in ESRD because eGFR is below 30 mL/min/1.73 m², there is no supportive safety evidence in this population, and both KDIGO and FDA classify it as contraindicated or not recommended; if a patient with T2DM progresses to ESRD while on metformin, it should be discontinued and alternative therapy instituted, with insulin as the principal option and GLP-1 RAs considered selectively for cardiovascular benefit and low hypoglycemia risk [^116KB1gH] [^112TYKcm] [^117VryBV].
 
 ---
 
-Metformin is **contraindicated in ESRD** (eGFR < 15 mL/min/1.73 m² or on dialysis) due to the risk of lactic acidosis from drug accumulation [^390608ba] [^922c9018]. Current guidelines and FDA labeling advise stopping metformin when eGFR falls below 30 mL/min/1.73 m² and explicitly prohibit use in ESRD [^e83ab58b] [^cfde05b6] [^390608ba]. Although a few observational studies suggest possible benefit with very low doses, there is **insufficient evidence** to support routine use in ESRD, and metformin should be avoided in this population [^405d8f5f] [^40fe1670] [^f1045941].
+Metformin is **contraindicated in ESRD** (eGFR < 15 mL/min/1.73 m² or on dialysis) due to the risk of lactic acidosis from drug accumulation [^112TYKcm] [^114jiAJK]. Current guidelines and FDA labeling advise stopping metformin when eGFR falls below 30 mL/min/1.73 m² and explicitly prohibit use in ESRD [^116wHr8J] [^116KB1gH] [^112TYKcm]. Although a few observational studies suggest possible benefit with very low doses, there is **insufficient evidence** to support routine use in ESRD, and metformin should be avoided in this population [^112eRdjU] [^112fMZ4b] [^117AKUdn].
 
 ---
 
 ## Pharmacokinetics and risk of lactic acidosis
 
-Metformin is eliminated unchanged by the kidneys; as renal function declines, plasma levels rise and the risk of lactic acidosis increases [^5f128656]. In ESRD, **accumulation is significant**, and even low doses can reach unsafe levels [^097574bb]. Lactic acidosis is rare but potentially fatal, with mortality up to 50% in some series [^notfound].
+Metformin is eliminated unchanged by the kidneys; as renal function declines, plasma levels rise and the risk of lactic acidosis increases [^113Rx3fT]. In ESRD, **accumulation is significant**, and even low doses can reach unsafe levels [^111F2LmG]. Lactic acidosis is rare but potentially fatal, with mortality up to 50% in some series [^notfound].
 
 ---
 
 ## Clinical evidence and guidelines
 
-- **FDA guidance**: Metformin is contraindicated in patients with eGFR < 30 mL/min/1.73 m², including those with ESRD or on dialysis [^390608ba] [^922c9018].
-- **KDIGO 2022**: Recommends metformin only if eGFR ≥ 30 mL/min/1.73 m²; no recommendation for ESRD due to lack of safety data [^cfde05b6] [^d7699c4a].
-- **AACE 2022**: Contraindicates use if eGFR < 30 mL/min/1.73 m² [^7d1f0b31].
+- **FDA guidance**: Metformin is contraindicated in patients with eGFR < 30 mL/min/1.73 m², including those with ESRD or on dialysis [^112TYKcm] [^114jiAJK].
+- **KDIGO 2022**: Recommends metformin only if eGFR ≥ 30 mL/min/1.73 m²; no recommendation for ESRD due to lack of safety data [^116KB1gH] [^116WMp3j].
+- **AACE 2022**: Contraindicates use if eGFR < 30 mL/min/1.73 m² [^114CVt1N].
 
 ---
 
@@ -55,15 +55,15 @@ Observational studies suggest potential benefits with low-dose metformin in adva
 
 | **Study** | **Population** | **Findings** |
 |-|-|-|
-| Taiwan cohort (2015) | Stage 5 CKD (eGFR < 15) | Increased mortality with metformin; dose-dependent risk [^405d8f5f] |
-| Scottish emulation (2025) | Stage 4 CKD (eGFR < 30) | Lower mortality with continued metformin; residual confounding possible [^40fe1670] |
-| Small PK study (2018) | CKD stages 3–4 | Low-dose regimens kept metformin within "safe" levels; no lactic acidosis; small study [^c8cf9f59] |
+| Taiwan cohort (2015) | Stage 5 CKD (eGFR < 15) | Increased mortality with metformin; dose-dependent risk [^112eRdjU] |
+| Scottish emulation (2025) | Stage 4 CKD (eGFR < 30) | Lower mortality with continued metformin; residual confounding possible [^112fMZ4b] |
+| Small PK study (2018) | CKD stages 3–4 | Low-dose regimens kept metformin within "safe" levels; no lactic acidosis; small study [^1168iGB2] |
 
 ---
 
 ## Current clinical practice
 
-In practice, metformin is **generally discontinued** when eGFR falls below 30 mL/min/1.73 m², and alternative therapies (insulin, GLP-1 RAs, or SGLT2 inhibitors where appropriate) are used [^d9dca727] [^fe32f368]. Very low-dose metformin (e.g. 500 mg every other day) has been explored in select cases, but this remains off-label and unsupported by robust evidence [^f1045941].
+In practice, metformin is **generally discontinued** when eGFR falls below 30 mL/min/1.73 m², and alternative therapies (insulin, GLP-1 RAs, or SGLT2 inhibitors where appropriate) are used [^116ZzRpS] [^117VryBV]. Very low-dose metformin (e.g. 500 mg every other day) has been explored in select cases, but this remains off-label and unsupported by robust evidence [^117AKUdn].
 
 ---
 
@@ -75,7 +75,7 @@ Metformin is **contraindicated in ESRD** because of the risk of lactic acidosis 
 
 ## References
 
-### Metformin hydrochloride PO use in renal impairment [^390608ba]. FDA (2025). Medium credibility.
+### Metformin hydrochloride PO use in renal impairment [^112TYKcm]. FDA (2025). Medium credibility.
 
 eGFR < 30 mL/min/1.73 m²
 - Do not use.
@@ -90,7 +90,7 @@ eGFR ≥ 45 mL/min/1.73 m²
 
 ---
 
-### Metformin hydrochloride ER PO use in renal impairment [^922c9018]. FDA (2025). Medium credibility.
+### Metformin hydrochloride ER PO use in renal impairment [^114jiAJK]. FDA (2025). Medium credibility.
 
 eGFR < 30 mL/min/1.73 m²
 - Do not use.
@@ -105,7 +105,7 @@ eGFR 30–45 mL/min/1.73 m²
 
 ---
 
-### Glyburide / metformin hydrochloride PO use in renal impairment [^ab605a2d]. FDA (2025). Medium credibility.
+### Glyburide / metformin hydrochloride PO use in renal impairment [^115P5FHN]. FDA (2025). Medium credibility.
 
 eGFR < 30 mL/min/1.73 m²
 - Do not use.
@@ -119,7 +119,7 @@ eGFR > 45 mL/min/1.73 m²
 
 ---
 
-### Dapagliflozin propanediol / metformin hydrochloride ER PO use in renal impairment [^510e3dc1]. FDA (2025). Medium credibility.
+### Dapagliflozin propanediol / metformin hydrochloride ER PO use in renal impairment [^1135AnGY]. FDA (2025). Medium credibility.
 
 eGFR > 60 mL/min/1.73 m²
 - Use acceptable. No dose adjustment required.
@@ -137,13 +137,13 @@ eGFR 45–60 mL/min/1.73 m²
 
 ---
 
-### Could metformin be used in patients with diabetes and advanced chronic kidney disease? [^25b305f9]. Diabetes, Obesity & Metabolism (2017). Low credibility.
+### Could metformin be used in patients with diabetes and advanced chronic kidney disease? [^111xtg5n]. Diabetes, Obesity & Metabolism (2017). Low credibility.
 
 Diabetes is an important cause of end stage renal failure worldwide. As renal impairment progresses, managing hyperglycaemia can prove increasingly challenging, as many medications are contra-indicated in moderate to severe renal impairment. Whilst evidence for tight glycaemic control reducing progression to renal failure in patients with established renal disease is limited, poor glycaemic control is not desirable, and is likely to lead to progressive complications. Metformin is a first-line therapy in patients with Type 2 diabetes, as it appears to be effective in reducing diabetes related end points and mortality in overweight patients. Cessation of metformin in patients with progressive renal disease may not only lead to deterioration in glucose control, but also to loss of protection from cardiovascular disease in a cohort of patients at particularly high risk. We advocate the need for further study to determine the role of metformin in patients with severe renal disease (chronic kidney disease stage 4–5), as well as patients on dialysis, or pre-/peri-renal transplantation. We explore possible roles of metformin in these circumstances, and suggest potential key areas for further study.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^d7b3cf2b]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^116WnjZC]. Diabetes Care (2011). Low credibility.
 
 Table 1
 Proposed recommendations for use of metformin based on eGFR
@@ -156,19 +156,19 @@ In the future, more research in this important area is needed, including prospec
 
 ---
 
-### Therapy: risk of metformin use in patients with T2DM and advanced CKD [^7a084257]. Nature Reviews: Endocrinology (2015). Medium credibility.
+### Therapy: risk of metformin use in patients with T2DM and advanced CKD [^1147vGHL]. Nature Reviews: Endocrinology (2015). Medium credibility.
 
 In a new study published in The Lancet Diabetes & Endocrinology, metformin use is associated with significantly increased all-cause mortality in patients with type 2 diabetes mellitus and stage 5 chronic kidney disease (CKD). The findings support current recommendations that metformin should not be used in patients with stage 5 CKD.
 
 ---
 
-### Chronic kidney disease: prevention, diagnosis, and treatment [^43f95899]. American Family Physician (2023). High credibility.
+### Chronic kidney disease: prevention, diagnosis, and treatment [^112jmvXz]. American Family Physician (2023). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, AAFP 2023 guidelines recommend to initiate metformin as first-line therapy in patients with CKD stages 1–3 and T2DM.
 
 ---
 
-### Metformin for preventing the progression of chronic kidney disease [^f2cb5342]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Metformin for preventing the progression of chronic kidney disease [^117CxJHw]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 Background
 
@@ -200,31 +200,31 @@ This review highlights the lack of RCTs reporting on the effects of metformin on
 
 ---
 
-### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^b292599b]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
+### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^115ZjxHp]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, ERBP 2015 guidelines recommend to initiate metformin in a dose adapted to renal function as a first-line agent when lifestyle measures alone are insufficient to get HbA1c in the desired range.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^9d517385]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^1152ER3S]. Diabetes Care (2011). Low credibility.
 
 A common clinical conundrum faces all U.S. practitioners treating patients with type 2 diabetes. Today's U.S. Food and Drug Administration prescribing guidelines for metformin contraindicate its use in men and women with serum creatinine concentrations ≥ 1.5 and ≥ 1.4 mg/dL (≥ 132 and ≥ 123 µmol/L), respectively. In a patient tolerating and controlled with this medication, should it automatically be discontinued as the creatinine rises beyond these cut points over time? Stopping metformin often results in poorly controlled glycemia and/or the need for other agents with their own adverse-effect profiles. Moreover, is the now widespread use of estimated glomerular filtration rate (eGFR) in lieu of serum creatinine levels creating even more confusion, especially in those with abnormalities in one but not the other indirect measure of renal function? Indeed, more than a decade and a half after metformin became available in the U.S. debate continues over the best approach in these settings. How many patients are unable to receive this medication on the basis of guidelines which, although well intentioned, are somewhat arbitrary and outdated based on modern assessments of renal status?
 
 ---
 
-### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^e08e8313]. American Journal of Kidney Diseases (2012). Medium credibility.
+### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^116jv6Uz]. American Journal of Kidney Diseases (2012). Medium credibility.
 
 Guideline 2 — Management of hyperglycemia and general diabetes care in chronic kidney disease (CKD) — research recommendations emphasize determining effects of glycemic control on early and late GFR loss and health outcomes of CKD, including evaluating different levels of glycemic control to optimize safety and clinical outcomes such as survival, hospitalization, and cardiovascular disease (CVD) events in advanced CKD and/or end-stage renal disease (ESRD). They also propose performing validation studies of HbA1c, glycated albumin, and other long-term glycemic markers in patients with diabetes and various stages of CKD, and assessing metformin safety in CKD stages 4 and 5.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^21e1ef4d]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^111sEUs6]. Diabetes Care (2011). Low credibility.
 
 Despite these appropriate concerns, most of the available data would suggest that, on average, eGFR declines slowly in diabetes, although it can be accelerated to some degree in the presence of albuminuria. If eGFR is calculated annually (and more frequently in those at high risk for deterioration in renal function), it is unlikely that patients will experience changes in their eGFR levels large enough to rapidly alter the safety of metformin therapy.
 
 ---
 
-### The long-term effects of metformin on patients with type 2 diabetic kidney disease [^6632d190]. Diabetes Care (2020). Medium credibility.
+### The long-term effects of metformin on patients with type 2 diabetic kidney disease [^113cWomh]. Diabetes Care (2020). Medium credibility.
 
 Objective
 
@@ -244,32 +244,32 @@ In the present retrospective study, metformin usage in advanced chronic kidney d
 
 ---
 
-### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^44288f6b]. American Journal of Kidney Diseases (2022). High credibility.
+### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^112k3nLi]. American Journal of Kidney Diseases (2022). High credibility.
 
 Metformin — Recommendation 4.1.1 recommends treating patients with type 2 diabetes (T2D), chronic kidney disease (CKD), and an eGFR ≥ 30 mL/min per 1.73 m2 with metformin (1B), and the guideline notes metformin can be used safely without an increased risk of lactic acidosis down to an eGFR of 30 mL/min/1.73 m2.
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^e83ab58b]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^116wHr8J]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, KDIGO 2020 guidelines recommend to initiate metformin in patients with T2DM and CKD with an eGFR ≥ 30 mL/min/1.73 m²,
 including kidney transplant recipients.
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^953eec6a]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^114pGHqb]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, KDIGO 2020 guidelines recommend to monitor eGFR in patients receiving metformin. Increase the frequency of monitoring when the eGFR is < 60 mL/min/1.73 m². Adjust the dose of metformin when the eGFR is < 45 mL/min/1.73 m² and for some patients when the eGFR is 45–59 mL/min/1.73 m².
 
 ---
 
-### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^f929bd10]. American Journal of Kidney Diseases (2012). Medium credibility.
+### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^117NPwJX]. American Journal of Kidney Diseases (2012). Medium credibility.
 
 Diabetes and CKD — metformin label thresholds and proposed GFR-based stopping: The Food and Drug Administration (FDA) label indicates that metformin should not be used in men with a SCr of ≥ 1.5 mg/dL or in women with a SCr of ≥ 1.4 mg/dL, and a black-box warning exists regarding lactic acidosis; a recent review proposed that metformin use be reevaluated when GFR is < 45 mL/min/1.73 m2 and stopped when < 30 mL/min/1.73 m2.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^eaa8fbfc]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^116zts2K]. Diabetes Care (2011). Low credibility.
 
 Limited data specifically address metformin's long-term safety in patients with mild-to-moderate renal failure. These studies found no increased risks in various degrees of renal insufficiency but were limited by small size and significant methodological shortcomings. Recently, an analysis of the Reduction of Atherothrombosis for Continued Health Registry suggests that the proposed cardiovascular benefits of metformin may extend to patients with established atherosclerosis and moderate CKD. In this large, observational study of > 19,000 subjects with a history of atherothrombotic disease, 1,572 patients were using metformin with eGFR 30–60 mL/min per 1.73 m 2. After adjustment for baseline factors and propensity score, metformin use was associated with a significant reduction in 2-year mortality in the overall population (hazard ratio 0.76 [95% CI 0.65–0.89]), including in those with moderate CKD (0.64 [0.48–0.86]). However, lack of information with respect to the duration of metformin use and HbA 1c, as well as the observational nature of the study, require further confirmation of the mortality benefit in similar patient cohorts in prospective trials.
 
@@ -277,7 +277,7 @@ Although these data are reassuring, we must note that there are no randomized cl
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^e013f78d]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^116jCw7a]. Diabetes Care (2011). Low credibility.
 
 CONCLUSIONS AND RECOMMENDATIONS
 
@@ -287,13 +287,13 @@ We therefore suggest that the current guidelines for metformin use in the U.S. b
 
 ---
 
-### Antidiabetic therapy in end-stage renal disease [^525f4923]. Seminars in Dialysis (2015). Low credibility.
+### Antidiabetic therapy in end-stage renal disease [^11377zRY]. Seminars in Dialysis (2015). Low credibility.
 
 There has been substantial growth in the variety of available antidiabetic agents during the last decade and a half. The role of these newer agents in patients with diabetes and end-stage renal disease (ESRD) population, and their relative benefits and risks in this population compared to patients without ESRD are not yet clear. This stems from the altered state of glucose homeostasis in ESRD, which places patients at high risk for hypoglycemia and, in certain situations, hyperglycemia. In addition, there is a dearth of evidence to support a benefit of tight glycemic control on either micro- or macrovascular outcomes in ESRD patients; furthermore, the metrics by which glycemic control is conventionally measured are less valid in ESRD. In this review, we will discuss noninsulin and insulin-based therapies as well as unique challenges, contraindications, advantages, and disadvantages to their use in ESRD. We will also review issues pertinent to both hemodialysis (HD) and peritoneal dialysis (PD) patients.
 
 ---
 
-### Metformin use and cardiovascular events in patients with type 2 diabetes and chronic kidney disease [^d7cec300]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
+### Metformin use and cardiovascular events in patients with type 2 diabetes and chronic kidney disease [^116Wwndd]. Diabetes, Obesity & Metabolism (2019). Medium credibility.
 
 Aims
 
@@ -313,25 +313,25 @@ Metformin may be safer for use in CKD than previously considered and may lower t
 
 ---
 
-### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^191d3848]. Diabetes Care (2025). High credibility.
+### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^111eEWJ3]. Diabetes Care (2025). High credibility.
 
 Chronic kidney disease in diabetes — metformin use and monitoring thresholds are specified using estimated glomerular filtration rate (eGFR): medication dosing may require modification with eGFR < 60 mL/min/ 1.73 m2, and the U.S. Food and Drug Administration (FDA) guidance recommends using eGFR instead of serum creatinine. The FDA states that metformin is contraindicated with an eGFR < 30 mL/min/1.73 m2, eGFR should be monitored while taking metformin, benefits and risks should be reassessed when eGFR falls to < 45 mL/min/1.73 m2, metformin should not be initiated if eGFR < 45 mL/min/1.73 m2, and it should be temporarily discontinued at the time of or before iodinated contrast imaging when eGFR is 30–60 mL/min/1.73 m2.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^95f1bcf4]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^114qJMRm]. Kidney International (2021). High credibility.
 
 Example treatment recommendation — metformin for type 2 diabetes (T2D) with chronic kidney disease (CKD): We recommend treating patients with T2D, CKD, and an eGFR ≥ 30 ml/min per 1.73 m^2 with metformin (1B). Considerations for implementation: dose adjustments are required, no safety data for patients with eGFR < 30 ml/min/1.73 m^2, and must be discontinued when this level is reached.
 
 ---
 
-### The treatment of type 2 diabetes mellitus in patients with chronic kidney disease: what to expect from new oral hypoglycemic agents [^72f197ea]. Diabetes & Metabolic Syndrome (2017). Low credibility.
+### The treatment of type 2 diabetes mellitus in patients with chronic kidney disease: what to expect from new oral hypoglycemic agents [^113wQjkD]. Diabetes & Metabolic Syndrome (2017). Low credibility.
 
 Worldwide, an estimated 200 million people have chronic kidney disease (CKD), whose most common causes include hypertension, arteriosclerosis, and diabetes. About 40% of patients with diabetes develop CKD and intensive blood glucose control through pharmacological intervention can delay CKD progression. Standard therapies for the treatment of type 2 diabetes mellitus include metformin, sulfonylureas, meglitinides, thiazolidinediones, and insulin. While these drugs have an important role in the management of type 2 diabetes, only the thiazolidinedione pioglitazone can be used across the spectrum of CKD (stages 2–5) and without dose adjustment. Newer therapies, particularly dipeptidyl peptidase-IV inhibitors, glucagon-like peptide-1 receptor agonists, and sodium-glucose cotransporter-2 inhibitors, are increasingly being used in the treatment of type 2 diabetes; however, a major consideration is whether these newer therapies can also be used safely and effectively across the spectrum of renal impairment.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^9a9209e2]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^114xA9Tf]. Diabetes Care (2011). Low credibility.
 
 CLINICAL PRACTICE GUIDELINES
 
@@ -341,13 +341,13 @@ Clinical guidelines outside of the U.S. incorporate the eGFR for determination o
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^ef89f2d9]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^11788Nor]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, general principles of management, KDIGO 2020 guidelines recommend to initiate both metformin and an SGLT-2 inhibitor in most patients with T2DM and CKD with an eGFR ≥ 30 mL/min/1.73 m².
 
 ---
 
-### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^c06431e7]. Diabetes Care (2018). Low credibility.
+### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^115vEH4a]. Diabetes Care (2018). Low credibility.
 
 Regarding the use of metformin PO (also known as Riomet) in patients with eGFR 30–45 mL/min/1.73 m²:
 - Avoid use.
@@ -356,43 +356,43 @@ Regarding the use of metformin PO (also known as Riomet) in patients with eGFR 3
 
 ---
 
-### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^9f233dfb]. DoD/VA (2025). High credibility.
+### VA / DoD clinical practice guideline for the primary care management of chronic kidney disease [^1154vsNz]. DoD/VA (2025). High credibility.
 
 VA/DoD Clinical Practice Guideline — metformin for type 2 diabetes with stage 1 to 3 chronic kidney disease: We suggest offering metformin as a first-line therapy for the treatment of type 2 diabetes in patients with stage 1 to 3 chronic kidney disease to reduce all- cause mortality.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^cfde05b6]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^116KB1gH]. Kidney International (2021). High credibility.
 
 Treatment — We recommend treating patients with T2D, CKD, and an eGFR ≥ 30 ml/min per 1.73 m^2 with metformin (1B). Considerations for implementation note that dose adjustments are required, no safety data for patients with eGFR < 30 ml/min/1.73 m^2, and metformin must be discontinued when this level is reached. Practice point — Treat kidney transplant recipients with T2D and an eGFR ≥ 30 ml/min per 1.73 m^2 with metformin according to recommendations for patients with T2D and CKD.
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^62aac289]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^113XH9Hi]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, general principles of management, KDIGO 2020 guidelines recommend to include lifestyle therapy, first-line treatment with metformin and an SGLT-2 inhibitor, and additional drug therapy as needed for glycemic management of patients with T2DM and CKD.
 
 ---
 
-### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^f1dd216d]. American Journal of Kidney Diseases (2022). High credibility.
+### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^117BaHtQ]. American Journal of Kidney Diseases (2022). High credibility.
 
 Metformin — Dose adjustment and initiation thresholds are specified: the guideline offers a practical point to halve the dose for an eGFR < 45 mL/min/1.73 m2; the FDA recommendation states metformin not be initiated in people with an eGFR < 45 mL/min/1.73 m2, based upon likely progression to an eGFR < 30 mL/min/1.73 m2 where metformin would be contraindicated; KDIGO provides a suggestion to reduce the dose of metformin, even when the eGFR is 45–59 mL/min/1.73 m2, in the presence of conditions that predispose patients to hypoperfusion and hypoxemia; and metformin should be discontinued when most patients are admitted to the hospital.
 
 ---
 
-### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^2961ce69]. American Journal of Kidney Diseases (2007). Medium credibility.
+### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^1124MLyW]. American Journal of Kidney Diseases (2007). Medium credibility.
 
 Diabetes and chronic kidney disease — glycemic management and cardiovascular risk: Emerging data indicate that intensive glycemic control reduces the risk of cardiovascular disease (CVD) events and death, with benefits primarily in long-term intensive glycemia management; in type 2 diabetes, insulin‑sensitizing agents may be beneficial for reducing CVD event rates, although prospective controlled trials should confirm these observations. Observational signals include that pioglitazone may reduce all-cause mortality, myocardial infarction, and stroke in type 2 diabetes, and metformin use was associated with reduced risk of myocardial infarction and death in people with type 2 diabetes; however, caution is advised with use of metformin in patients with chronic kidney disease (CKD). Although studies regarding intensive glycemic control and CVD in people with diabetes and CKD are nonexistent, patients with diabetes and CKD should strive to achieve glucose control as close to normal as possible without excessive episodes of hypoglycemia.
 
 ---
 
-### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^808352d9]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
+### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^114HXXTn]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, ERBP 2015 guidelines recommend to add on a drug with a low risk for hypoglycemia as an additional agent when improvement of glycemic control is deemed appropriate.
 
 ---
 
-### FDA revises warnings regarding use of the diabetes medicine… [^12be802f]. FDA (2025). Medium credibility.
+### FDA revises warnings regarding use of the diabetes medicine… [^111UnmKt]. FDA (2025). Medium credibility.
 
 serious and potentially deadly condition called lactic acidosis, in which too much lactic acid builds up in the blood. We have concluded from the review of studies published in the medical literature that metformin can be used safely in patients with mild impairment in kidney function and in some patients with moderate impairment in kidney function. 3–6 We are requiring changes to the metformin labeling to reflect this new information and provide specific recommendations on the drug's use in patients with mild to moderate kidney impairment. addition to blood creatinine concentration, the glomerular filtration rate takes into account additional parameters that are important, such as the patient's age, gender, race and/or weight.
 - The labeling recommendations on how and when kidney function is measured in patients receiving metformin will include the following information:
@@ -411,7 +411,7 @@ evaluate eGFR 48 hours after the imaging procedure; restart metformin if renal f
 
 ---
 
-### Safety and effectiveness of metformin in patients with reduced renal function: a systematic review [^e4a99523]. Diabetes, Obesity & Metabolism (2021). Medium credibility.
+### Safety and effectiveness of metformin in patients with reduced renal function: a systematic review [^116r18zE]. Diabetes, Obesity & Metabolism (2021). Medium credibility.
 
 Aim
 
@@ -431,7 +431,7 @@ The literature shows metformin to be associated with reduced mortality and no in
 
 ---
 
-### Empagliflozin: role in treatment options for patients with type 2 diabetes mellitus [^580823bf]. Diabetes Therapy (2017). Low credibility.
+### Empagliflozin: role in treatment options for patients with type 2 diabetes mellitus [^113FWeNa]. Diabetes Therapy (2017). Low credibility.
 
 This increased efficacy at higher baseline HbA1c values is also interesting in terms of the open-label arm of this study. Patients who were otherwise eligible but with screening HbA1c > 10.0% were not randomized but instead were all assigned open-label empagliflozin 25 mg. At baseline, mean HbA1c in this group was 11.5%, and by week 24 it had fallen to 7.6%. This mean level is still above the recommended target for most patients, yet 28% of this group reached a goal of HbA1c < 7.0%. Although an open-label study such as this must be interpreted with caution, it suggests that empagliflozin may provide useful glycemic improvements across a range of baseline HbA1c values.
 
@@ -439,7 +439,7 @@ Further phase 3 placebo-controlled trials have shown significant reductions in H
 
 ---
 
-### Risk of acute kidney injury and survival in patients treated with metformin: an observational cohort study [^5254dbb1]. BMC Nephrology (2017). Low credibility.
+### Risk of acute kidney injury and survival in patients treated with metformin: an observational cohort study [^11374VHA]. BMC Nephrology (2017). Low credibility.
 
 Conclusion
 
@@ -447,7 +447,7 @@ Our large cohort of metformin users provides a reassuring message of the safety 
 
 ---
 
-### Warning use metformin in certain patients with reduced kidney function… [^6f54fe14]. FDA (2017). Low credibility.
+### Warning use metformin in certain patients with reduced kidney function… [^113r4B4w]. FDA (2017). Low credibility.
 
 Health care professionals should follow the latest recommendations when prescribing metformin-containing medicines to patients with impaired kidney function. Patients should talk to their health care professionals if they have any questions or concerns about taking metformin. The current drug labeling strongly recommends against metformin use in some patients whose kidneys do not work normally because use of metformin in these patients can increase the risk of developing a serious and potentially deadly condition called lactic acidosis, in which too much lactic acid builds up in the blood. We have concluded from the review of studies published in the medical literature that metformin can be used safely in patients with mild impairment in kidney function and in some patients with moderate impairment in kidney function.
 - The labeling recommendations on how and when kidney function is measured in patients receiving metformin will include the following information:
@@ -467,19 +467,19 @@ Health care professionals should follow the latest recommendations when prescrib
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^7d1f0b31]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^114CVt1N]. Endocrine Practice (2022). High credibility.
 
 AACE 2022 Table 16 — Metformin — chronic kidney disease (CKD) use is restricted by estimated glomerular filtration rate (eGFR) cutoffs: it is contraindicated if eGFR < 30 mL/min/1.73 m2, should not be initiated if eGFR < 45 mL/min/1.73 m2, may be continued once started if stable eGFR > 30 mL/min/1.73 m2, and dose reduction is prudent if eGFR is between 30 and 45 mL/min/1.73 m2.
 
 ---
 
-### Chronic kidney disease: prevention, diagnosis, and treatment [^b1234fc5]. American Family Physician (2023). Medium credibility.
+### Chronic kidney disease: prevention, diagnosis, and treatment [^115Xcfoi]. American Family Physician (2023). Medium credibility.
 
 Chronic kidney disease (CKD) affects approximately 15% of the U.S. population, and many people are unaware of their diagnosis. Screening may be considered for patients with cardiovascular disease, diabetes mellitus, hypertension, age 60 years and older, family history of kidney disease, previous acute kidney injury, or preeclampsia. Diagnosis and staging of CKD are based on estimated glomerular filtration rate (eGFR), excessive urinary albumin excretion, or evidence of kidney parenchymal damage lasting more than three months. eGFR should be determined using the CKD-EPI creatinine equation without the race variable. Risk calculators are available to estimate the risk of progression to end-stage renal disease. When possible, serum cystatin C should be measured to confirm eGFR in patients with CKD. Blood pressure should be maintained at less than 140/90 mm Hg, with a systolic blood pressure target of 120 mm Hg or less for patients tolerant of therapy, using an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker. Sodium-glucose cotransporter-2 inhibitors and metformin should be considered in patients with CKD and type 2 diabetes who have not reached their glycemic goal. Intravenous iodinated contrast media temporarily reduces eGFR and should be avoided in patients with advanced CKD. Interdisciplinary management of patients with CKD is important for reducing morbidity and mortality, and patients at high risk of progression to end-stage renal disease should be referred to a nephrologist.
 
 ---
 
-### Metformin in patients with type 2 diabetes and kidney disease: a systematic review [^5f128656]. JAMA (2014). Excellent credibility.
+### Metformin in patients with type 2 diabetes and kidney disease: a systematic review [^113Rx3fT]. JAMA (2014). Excellent credibility.
 
 Importance
 
@@ -503,7 +503,7 @@ Available evidence supports cautious expansion of metformin use in patients with
 
 ---
 
-### Metformin use and mortality in patients with advanced chronic kidney disease: national, retrospective, observational, cohort study [^405d8f5f]. The Lancet: Diabetes & Endocrinology (2015). Medium credibility.
+### Metformin use and mortality in patients with advanced chronic kidney disease: national, retrospective, observational, cohort study [^112eRdjU]. The Lancet: Diabetes & Endocrinology (2015). Medium credibility.
 
 Background
 
@@ -527,19 +527,19 @@ Taipei Tzu Chi Hospital, Taipei Veterans General Hospital, Foundation for Poison
 
 ---
 
-### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^a6193ae6]. Endocrine Practice (2022). High credibility.
+### American association of clinical endocrinology clinical practice guideline: developing a diabetes mellitus comprehensive care plan-2022 update [^115FFRJV]. Endocrine Practice (2022). High credibility.
 
 Combination therapy thresholds and insulin initiation in type 2 diabetes (T2D) are specified: "For newly diagnosed persons with T2D and an A1C ≥ 9.0% and/or ≥ 1.5% above target, one should initiate, along with lifestyle modifications, oral possibly triple combination pharmacotherapy usually including metformin and considering basal insulin". When there are "significant symptoms of hyperglycemia" or "a very high A1C > 10% (86 mmol/mol) or BG levels (≥ 300 mg/dL [16.7 mmol/L]), insulin is recommended". Metformin can be combined with other agents, but clinicians should "avoid its use in persons with CKD (eGFR < 30 ml/min/1.73 m^2) or GI intolerance".
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^3878cc53]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^112Sit7t]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to metformin, KDIGO 2022 guidelines recommend to initiate metformin in patients with T2DM, CKD, and an eGFR ≥ 30 mL/min/1.73 m².
 
 ---
 
-### 2023 UPDATE: luso-Brazilian evidence-based guideline for the management of antidiabetic therapy in type 2 diabetes [^67cf8d3f]. Diabetology & Metabolic Syndrome (2023). Medium credibility.
+### 2023 UPDATE: luso-Brazilian evidence-based guideline for the management of antidiabetic therapy in type 2 diabetes [^113euSTg]. Diabetology & Metabolic Syndrome (2023). Medium credibility.
 
 Management of antidiabetic therapy in adults with T2D and kidney disease (DKD)
 
@@ -554,19 +554,19 @@ In adults with T2D and eGFR ≥ 60 mL/min/1.73 m 2 plus albuminuria (≥ 200 mg/
 
 ---
 
-### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^4a86aa4e]. American Journal of Kidney Diseases (2022). High credibility.
+### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^112uVKLy]. American Journal of Kidney Diseases (2022). High credibility.
 
 Metformin — KDIGO practice points include (1) the use of metformin in kidney transplant patients with the same eGFR cut point of 30 mL/min/1.73 m2, (2) the suggestion for more than annual monitoring of kidney function when patients reach CKD stage 3 because of the possibility of a more rapid fall in eGFR possibly necessitating modification of metformin dosing, (3) a reduction in dosing of metformin to 1,000 mg/d when the eGFR falls to < 45 mL/min/1.73 m2, and (4) the need to monitor for vitamin B12 deficiency with use of metformin for more than 4 years.
 
 ---
 
-### Metformin and other antidiabetic agents in renal failure patients [^94de4a0e]. Kidney International (2015). Low credibility.
+### Metformin and other antidiabetic agents in renal failure patients [^114ohqFb]. Kidney International (2015). Low credibility.
 
 This review mainly focuses on metformin, and considers oral antidiabetic therapy in kidney transplant patients and the potential benefits and risks of antidiabetic agents other than metformin in patients with chronic kidney disease (CKD). In view of the debate concerning lactic acidosis associated with metformin, this review tries to solve a paradox: metformin should be prescribed more widely because of its beneficial effects, but also less widely because of the increasing prevalence of contraindications to metformin, such as reduced renal function. Lactic acidosis appears either as part of a number of clinical syndromes (i.e., unrelated to metformin), induced by metformin (involving an analysis of the drug's pharmacokinetics and mechanisms of action), or associated with metformin (a more complex situation, as lactic acidosis in a metformin-treated patient is not necessarily accompanied by metformin accumulation, nor does metformin accumulation necessarily lead to lactic acidosis). A critical analysis of guidelines and literature data on metformin therapy in patients with CKD is presented. Following the present focus on metformin, new paradoxical issues can be drawn up, in particular: (i) metformin is rarely the sole cause of lactic acidosis; (ii) lactic acidosis in patients receiving metformin therapy is erroneously still considered a single medical entity, as several different scenarios can be defined, with contrasting prognoses. The prognosis for severe lactic acidosis seems even better in metformin-treated patients than in non-metformin users.
 
 ---
 
-### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^6ed878e2]. Cardiovascular Diabetology (2025). Medium credibility.
+### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^113qLMDb]. Cardiovascular Diabetology (2025). Medium credibility.
 
 Introduction
 
@@ -580,7 +580,7 @@ Therefore, this study aims to evaluate the real-world impact of a combined metfo
 
 ---
 
-### Metformin-associated lactic acidosis: moving towards a new paradigm? [^205e46ce]. Diabetes, Obesity & Metabolism (2017). Low credibility.
+### Metformin-associated lactic acidosis: moving towards a new paradigm? [^111pzGg5]. Diabetes, Obesity & Metabolism (2017). Low credibility.
 
 Recent publications 7, 8 have advocated broadening the use of metformin in patients with more advanced CKD, including patients on dialysis and/or awaiting renal transplant. Treatment options for these patients are limited, and metformin has generally not been widely used for the reasons stated earlier. Although these publications acknowledge the need for controlled clinical trial data, which is currently lacking, they propose that patients with advanced renal disease could be treated with lower doses of metformin to improve glycaemic control without excessive plasma accumulation. Dose reduction in renally impaired patients is a common strategy for renally cleared drugs that act systemically, and while such a strategy would probably result in acceptable exposure in the context of safety, the relationship between metformin plasma exposure and efficacy is not that simple. There is increasing evidence that a substantial contribution to the glycaemic effect of metformin is mediated through the intestine rather than primarily through systemic exposure. 9, 10, 11, 12, 13 Given that the bioavailability of metformin increases with decreasing dose, 14 it is unlikely that the low doses of metformin required to maintain acceptable plasma concentrations would deliver sufficient metformin to the intestine to leverage the gut‐based mechanisms of action. 15
 
@@ -588,13 +588,13 @@ In summary, classification of LA in metformin‐treated patients should acknowle
 
 ---
 
-### Review of SGLT2i for the treatment of renal complications: experience in patients with and without T2D [^284ab693]. Diabetes Therapy (2022). Medium credibility.
+### Review of SGLT2i for the treatment of renal complications: experience in patients with and without T2D [^1122jboY]. Diabetes Therapy (2022). Medium credibility.
 
 The European Society of Cardiology, in collaboration with the European Association for the Study of Diabetes, have updated their guidelines to recommend SGLT2i as first-line therapy for the prevention and management of CKD (eGFR 30 to < 90 mL/min/1.73 m 2) in patients with T2D and albuminuric kidney disease. The Kidney Disease: Improving Global Outcomes (KDIGO) guidelines recommend the use of metformin in combination with SGLT2i (with GFR ≥ 30 mL/min/1.73 m 2) as first-line antihyperglycemic therapy for patients with T2D and CKD. In patients on treatment that have a drop in GFR below 30 mL/min/1.73 m 2, the SGLT2i can be continued until initiation of kidney replacement therapy. Finally, a Scientific Statement from the American Heart Association advocated the use of SGLT2i in patients with earlier stages of CKD and postponement of glucagon-like peptide 1 receptors agonists (GLP-1 RAs) in more advanced CKD because there is more experience with these agents in patients with severe CKD.
 
 ---
 
-### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^4dff1988]. Diabetes Care (2012). Low credibility.
+### Management of hyperglycemia in type 2 diabetes: a patient-centered approach: position statement of the American diabetes association (ADA) and the European Association for the Study of Diabetes (EASD) [^112zdjSf]. Diabetes Care (2012). Low credibility.
 
 Chronic kidney disease.
 
@@ -604,13 +604,13 @@ Current U.S. prescribing guidelines warn against the use of metformin in patient
 
 ---
 
-### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^fb4d99ab]. American Journal of Kidney Diseases (2022). High credibility.
+### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^117RZxWW]. American Journal of Kidney Diseases (2022). High credibility.
 
 Clinical utility — adding SGLT2 inhibitors and metformin considerations: Evidence supports KDIGO practice points that recommend the addition of an SGLT2 inhibitor to existing antihyperglycemic agents unless there is concern for hypoglycemia, in which case it is recommended to reduce the dose or discontinue antihyperglycemic medications other than metformin; the rationale for maintaining metformin is that the vast majority of evidence for SGLT2 inhibitor cardiorenal efficacy in type 2 diabetes is based on trials adding SGLT2 inhibitor to metformin unless the patient is intolerant, and the KDOQI work group agrees with this sentiment while noting there may be room for exceptions.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^097574bb]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^111F2LmG]. Diabetes Care (2011). Low credibility.
 
 These reports have relied on information derived from single doses of metformin, which may not reflect chronic-treatment pharmacokinetics. In contrast, few reports have assessed the impact of renal insufficiency on metformin clearance during long-term use. Indeed, one such study concluded that metformin can be efficiently cleared in mild-to-moderate CKD. In this investigation, 24 older patients (aged 70–88 years) were administered metformin 850 mg/day or 1,700 mg/day based on CrCl of 30–60 mL/min (n = 11) or > 60 mL/min (n = 13), respectively. After 2 months, metformin remained in the therapeutic range and lactate within the reference limits in all participants. In addition, the measured levels of metformin and lactate were not statistically different between those with and without renal impairment.
 
@@ -618,7 +618,7 @@ Another recent study evaluated metformin levels in patients with type 2 diabetes
 
 ---
 
-### Should metformin remain the first-line therapy for treatment of type 2 diabetes? [^26ca3f02]. Therapeutic Advances in Endocrinology and Metabolism (2021). Medium credibility.
+### Should metformin remain the first-line therapy for treatment of type 2 diabetes? [^111zWTnH]. Therapeutic Advances in Endocrinology and Metabolism (2021). Medium credibility.
 
 Metformin in the 21st century
 
@@ -626,7 +626,7 @@ By the end of the 20th century, metformin's ability to safely lower glucose leve
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^a17335cb]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^1158Mhr2]. Diabetes Care (2011). Low credibility.
 
 CURRENT USE OF METFORMIN IN CKD
 
@@ -634,25 +634,25 @@ Given the current contraindications in the U.S. some might consider it a challen
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^a645f136]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^115FWSN9]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetes mellitus type 2, more specifically with respect to management of diabetic nephropathy (metformin), KDIGO 2022 guidelines recommend to initiate metformin in patients with T2DM, CKD, and an eGFR ≥ 30 mL/min/1.73 m².
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^688d5f8f]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^113g1CUv]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to metformin, KDIGO 2022 guidelines recommend to adjust the dose of metformin when the eGFR < 45 mL/min/1.73 m² and when the eGFR is 45–59 mL/min/1.73 m² in some patients.
 
 ---
 
-### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^d7699c4a]. Kidney International (2021). High credibility.
+### KDIGO 2021 clinical practice guideline for the management of blood pressure in chronic kidney Disease [^116WMp3j]. Kidney International (2021). High credibility.
 
 Practice Point 2 — metformin-treated patients with chronic kidney disease — estimated glomerular filtration rate (eGFR) monitoring and dose adjustment are specified as follows: "Monitor eGFR in patients treated with metformin. Increase the frequency of monitoring when eGFR is < 60 ml/min per 1.73 m^2". If "eGFR < 30", "Stop metformin; do not initiate metformin". For dose initiation at eGFR ≥ 60 or eGFR 45–59, immediate release may start with "Initial 500 mg or 850 mg once daily" and be "Titrate upwards by 500 mg/d or 850 mg/d every 7 days until maximum dose"; for gastrointestinal intolerance, extended release uses "Initial 500 mg daily" and "Titrate upwards by 500 mg/d every 7 days until maximum dose". For eGFR 30–44, "Initiate at half the dose and titrate upwards to half of maximum recommended dose". Vitamin B12 monitoring is "Annually if on metformin for more than 4 years or at risk of vitamin B12 deficiency". Kidney function monitoring intervals are "At least annually" or "At least every 3–6 months" depending on eGFR category. For subsequent dose adjustment, at eGFR ≥ 60 "Continue same dose"; at eGFR 45–59 "Continue same dose. Consider dose reduction in certain conditions (see text)"; and at eGFR 30–44 "Half the dose". The figure notes rationale for the practice point, including "Limited evidence to support the guidance" and "No systematic review was conducted".
 
 ---
 
-### Risk of acute kidney injury and survival in patients treated with metformin: an observational cohort study [^6f9ec890]. BMC Nephrology (2017). Low credibility.
+### Risk of acute kidney injury and survival in patients treated with metformin: an observational cohort study [^113rUxdd]. BMC Nephrology (2017). Low credibility.
 
 Background
 
@@ -664,13 +664,13 @@ The present study therefore aimed to examine whether current metformin use was a
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^8a4182fd]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^114XyJAG]. Diabetes Care (2011). Low credibility.
 
 When one considers the imperfect reflection of actual renal function by serum creatinine, metformin is likely used even more frequently in patients with impaired GFR than that suggested by the above studies. In the aforementioned U.S. primary practice setting, where 4.5% of patients were given metformin despite creatinine-based contraindications, 17.7% of women and 13.4% of men receiving metformin actually had an abnormally low eGFR (≤ 60 mL/min per 1.73 m 2). Likewise, in another single U.S. center cross-sectional study, 15.3% of patients with type 2 diabetes and eGFR < 60 mL/min per 1.73 m 2 were receiving metformin. Such frequent "inappropriate" use of metformin in patients is further suggested by data from the National Health and Nutrition Examination Survey (1999–2006). Among individuals with eGFR < 60 mL/min per 1.73 m 2 and diabetes, 32.2% were treated with metformin and had a normal creatinine level (< 1.5 mg/dL), whereas 13.4% were treated with metformin despite a frankly elevated creatinine level (> 1.5 mg/dL). The use of metformin in mild-to-moderate CKD clearly is not at all uncommon.
 
 ---
 
-### Glucagon-like peptide-1 receptor agonist use in people living with type 2 diabetes mellitus and chronic kidney disease: a narrative review of the key evidence with practical considerations [^944f3594]. Diabetes Therapy (2022). Medium credibility.
+### Glucagon-like peptide-1 receptor agonist use in people living with type 2 diabetes mellitus and chronic kidney disease: a narrative review of the key evidence with practical considerations [^114nsmq5]. Diabetes Therapy (2022). Medium credibility.
 
 Treatments for CKD in People Living with T2DM
 
@@ -680,7 +680,7 @@ Both the American Diabetes Association (ADA), in conjunction with the European A
 
 ---
 
-### Comparative effects of glucose-lowering medications on kidney outcomes in type 2 diabetes: the GRADE randomized clinical trial [^90ea3e96]. JAMA Internal Medicine (2023). High credibility.
+### Comparative effects of glucose-lowering medications on kidney outcomes in type 2 diabetes: the GRADE randomized clinical trial [^114hqu2m]. JAMA Internal Medicine (2023). High credibility.
 
 Importance
 
@@ -716,7 +716,7 @@ ClinicalTrials.gov Identifier: NCT01794143.
 
 ---
 
-### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^0acd3805]. Diabetes Care (2018). Low credibility.
+### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^111H1ooa]. Diabetes Care (2018). Low credibility.
 
 Regarding the use of metformin ER PO (also known as Fortamet, Glumetza) in patients with eGFR 30–45 mL/min/1.73 m²:
 - Do not initiate.
@@ -725,7 +725,7 @@ Regarding the use of metformin ER PO (also known as Fortamet, Glumetza) in patie
 
 ---
 
-### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^e888201e]. Cardiovascular Diabetology (2025). Medium credibility.
+### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^116wjrKP]. Cardiovascular Diabetology (2025). Medium credibility.
 
 Discussion
 
@@ -735,7 +735,7 @@ CKD is highly prevalent among patients with T2D, affecting up to 61% of U.S. dia
 
 ---
 
-### Dapagliflozin and metformin hydrochloride [^f26c57a9]. FDA (2024). Medium credibility.
+### Dapagliflozin and metformin hydrochloride [^117CQPsv]. FDA (2024). Medium credibility.
 
 8.6 Renal Impairment
 
@@ -753,7 +753,7 @@ Metformin is substantially excreted by the kidney, and the risk of metformin acc
 
 ---
 
-### Evidence-based treatment of hyperglycaemia with incretin therapies in patients with type 2 diabetes and advanced chronic kidney disease [^f1045941]. Diabetes, Obesity & Metabolism (2020). Medium credibility.
+### Evidence-based treatment of hyperglycaemia with incretin therapies in patients with type 2 diabetes and advanced chronic kidney disease [^117AKUdn]. Diabetes, Obesity & Metabolism (2020). Medium credibility.
 
 2.3 Metformin
 
@@ -763,7 +763,7 @@ Recent evidence suggests that low‐dose metformin (500 mg once‐daily) may be 
 
 ---
 
-### Optimizing multidisciplinary care of patients with chronic kidney disease and type 2 diabetes mellitus [^61e3dc27]. Diabetes Therapy (2023). Medium credibility.
+### Optimizing multidisciplinary care of patients with chronic kidney disease and type 2 diabetes mellitus [^113W8LQW]. Diabetes Therapy (2023). Medium credibility.
 
 a For ADA 2023/KDIGO 2022 guideline recommendations, see references
 
@@ -773,13 +773,13 @@ c KDIGO 2022 guidelines also recommend metformin (first-line; Fig. 2) for blood 
 
 ---
 
-### Comparative effectiveness of incident oral antidiabetic drugs on kidney function [^5c59cef9]. Kidney International (2012). Low credibility.
+### Comparative effectiveness of incident oral antidiabetic drugs on kidney function [^113Mv2Y8]. Kidney International (2012). Low credibility.
 
 Diabetes is a major cause of chronic kidney disease, and oral antidiabetic drugs are the mainstay of therapy for most patients with Type 2 diabetes. Here we evaluated their role on renal outcomes by using a national Veterans Administration database to assemble a retrospective cohort of 93,577 diabetic patients who filled an incident oral antidiabetic drug prescription for metformin, sulfonylurea, or rosiglitazone, and had an estimated glomerular filtration rate (eGFR) of 60ml/min or better. The primary composite outcome was a persistent decline in eGFR from baseline of 25% or more (eGFR event) or a diagnosis of end-stage renal disease (ESRD). The secondary outcome was an eGFR event, ESRD, or death. Sensitivity analyses included using a more stringent definition of the eGFR event requiring an eGFR < 60 ml/min per 1.73 m(2) in addition to the 25% or more decline; controlling for baseline proteinuria thereby restricting data to 15,065 patients; and not requiring persistent treatment with the initial oral antidiabetic drug. Compared to patients using metformin, sulfonylurea users had an increased risk for both the primary and the secondary outcome, each with an adjusted hazard ratio of 1.20. Results of sensitivity analyses were consistent with the main findings. The risk associated with rosiglitazone was similar to metformin for both outcomes. Thus, compared to metformin, oral antidiabetic drug treatment with sulfonylureas increased the risk of a decline in eGFR, ESRD, or death.
 
 ---
 
-### Use of metformin in the setting of mild-to-moderate renal insufficiency [^4387cff3]. Diabetes Care (2011). Low credibility.
+### Use of metformin in the setting of mild-to-moderate renal insufficiency [^112j7nie]. Diabetes Care (2011). Low credibility.
 
 PROGRESSION OF CKD IN PATIENTS WITH DIABETES
 
@@ -789,19 +789,19 @@ Few studies have, however, systematically evaluated the rate of progression of r
 
 ---
 
-### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^5226d0a5]. Circulation (2019). High credibility.
+### 2019 ACC / AHA guideline on the primary prevention of cardiovascular disease: a report of the American college of cardiology / American Heart Association task force on clinical practice guidelines [^1136o2Ha]. Circulation (2019). High credibility.
 
 Metformin in T2DM — effect sizes, role, and cautions: In a UKPDS substudy, "metformin, compared with conventional therapy (i.e., lifestyle modifications alone), resulted in a 32% reduction in microvascular and macrovascular diabetes-related outcomes, a 39% reduction in MI, and a 36% reduction in all-cause mortality rate". A 2016 systematic review and meta-analysis "supported the use of metformin as first-line therapy for T2DM" due to benefits in HbA1c, weight, and ASCVD outcomes; however, "a separate systematic review found no evidence of reduced CVD events or CVD deaths with metformin". Safety notes include that "Metformin carries a small risk of lactic acidosis and must be used with caution in patients with CKD", and for initial management "clinicians can consider a trial of lifestyle therapies for 3 to 6 months before reconsideration of metformin" in younger or mildly elevated HbA1c cases.
 
 ---
 
-### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^d9dca727]. Diabetes Care (2025). High credibility.
+### Chronic kidney disease and risk management: standards of care in diabetes – 2025 [^116ZzRpS]. Diabetes Care (2025). High credibility.
 
 Diabetes with chronic kidney disease — first-line drug therapy from Figure 11.2 includes sodium–glucose cotransporter 2 inhibitor (SGLT2i) initiation if eGFR is ≥ 20; continue until dialysis or transplant, metformin if eGFR is ≥ 30, a renin–angiotensin system (RAS) inhibitor at maximum tolerated dose if albuminuria and/or hypertension (HTN), and a moderate- or high-intensity statin.
 
 ---
 
-### Efficacy and safety of sitagliptin versus glipizide in patients with type 2 diabetes and moderate-to-severe chronic renal insufficiency [^d66d625c]. Diabetes Care (2013). Low credibility.
+### Efficacy and safety of sitagliptin versus glipizide in patients with type 2 diabetes and moderate-to-severe chronic renal insufficiency [^116Uu6HR]. Diabetes Care (2013). Low credibility.
 
 Sitagliptin, a dipeptidyl peptidase-4 inhibitor, is a medication for patients with T2DM that improves glycemic control through enhancement of the incretin axis. A randomized, double-blind study in patients with T2DM and normal to mildly impaired renal function who had inadequate glycemic control on metformin monotherapy showed that the addition of sitagliptin provided similar A1C-lowering efficacy over 52 weeks compared with the addition of the sulfonylurea glipizide; however, patients on glipizide reported > 10 times as many hypoglycemia events as did patients on sitagliptin, and body weight decreased with sitagliptin and increased with glipizide, resulting in a significant between-group difference.
 
@@ -809,7 +809,7 @@ Sitagliptin is cleared primarily by the kidney, with ∼80% of an oral dose excr
 
 ---
 
-### Clinical pharmacology review… [^15edfc44]. FDA (2025). Medium credibility.
+### Clinical pharmacology review… [^111ZWgFM]. FDA (2025). Medium credibility.
 
 Oral Dosage Form: Extended-release suspension Dosage Strength: 100 mg/mL Proposed Dosing Regimen: Adult Dosage for metformin hydrochloride for extended- release oral suspension: o Starting dose: 500 mg orally once daily, with the evening meal. o Increase the dose in increments of 500 mg weekly, up to a maximum dose of 2000 mg once daily, with the evening meal o Patients receiving metformin immediate-release treatment may be switched to metformin hydrochloride for extended-release oral suspension once daily at the. formulation. The proposed dosing regimens are:  Adult Dosage for metformin hydrochloride for extended-release oral suspension: o Starting dose: 500 mg orally once daily, with the evening meal o Increase the dose in increments of 500 mg weekly, up to a maximum dose of 2000.
 
@@ -819,7 +819,7 @@ Sponsor of NDA 21595 has proposed following therapeutic indication: Metformin hy
 
 ---
 
-### Limitations of metformin use in patients with kidney disease: are they warranted? [^9695f205]. Diabetes, Obesity & Metabolism (2010). Low credibility.
+### Limitations of metformin use in patients with kidney disease: are they warranted? [^114rFWSg]. Diabetes, Obesity & Metabolism (2010). Low credibility.
 
 Aim
 
@@ -839,19 +839,19 @@ We conclude that metformin utilization occurs with a higher frequency than predi
 
 ---
 
-### Should restrictions Be relaxed for metformin use in chronic kidney disease? No, we should never again compromise safety! [^19686943]. Diabetes Care (2016). Low credibility.
+### Should restrictions Be relaxed for metformin use in chronic kidney disease? No, we should never again compromise safety! [^111efm94]. Diabetes Care (2016). Low credibility.
 
 Metformin is and has been considered as first-line therapy for type 2 diabetes for over a quarter of a century. Like other biguanides, metformin can cause a lactic acidosis that is exceptionally rare but fatal. The likelihood of metformin-associated lactic acidosis is substantially higher in patients with kidney impairment and also among those with seemingly normal kidney function who are at risk of acute kidney injury (AKI). Hence, regulatory agencies in many industrialized nations have maintained strict renal restrictions surrounding metformin. However, there have been millions of people exposed to metformin for many years, many of them with serum creatinine values at or close to 1.5 mg/dL with estimated glomerular filtration rates (eGFRs) much below 60 mL/min/1.73 m(2) who have not developed lactic acidosis. Thus, there clearly remains controversy in this area, and there has been heightened pressure to remove the renal restrictions of metformin. To provide a discussion on the pros and cons of relaxing the renal restrictions for metformin use, we provide a Point-Counterpoint. In the point narrative below, Drs. Kalantar-Zadeh and Kovesdy provide their argument that although there is little evidence of the potential benefits of metformin in kidney disease, just considering the sheer numbers of metformin users and the high fatality rate of its associated lactic acidosis, the most appropriate practice is to avoid metformin use in people with eGFR < 45 mL/min/1.73 m(2) or in those who are at high risk of AKI irrespective of underlying eGFR. In the following counterpoint narrative, Drs. Bakris and Molitch argue that the data from a very large analysis demonstrate clearly that serum creatinine should be supplanted with eGFR as the criteria for metformin use and that the incidence of lactic acidosis is only elevated in those with a reduced eGFR who become dehydrated for various reasons or in those exposed to some toxin resulting in AKI. Otherwise the data clearly support the use of metformin under normal circumstances down to eGFR > 30 mL/min/1.73 m(2)-William T. CefaluEditor in Chief, Diabetes Care.
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^0df278d9]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^111MgHQC]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to general principles, KDIGO 2022 guidelines recommend to consider initiating both metformin and an SGLT-2 inhibitor in most patients with T2DM, CKD and an eGFR ≥ 30 mL/min/1.73 m².
 
 ---
 
-### Use of metformin in clinical endocrinology [^b8cd21ec]. Endocrine Practice (2016). Low credibility.
+### Use of metformin in clinical endocrinology [^115iydA3]. Endocrine Practice (2016). Low credibility.
 
 Abbreviations
 
@@ -859,13 +859,13 @@ CKD = chronic kidney disease DM = diabetes mellitus eGFR = estimated glomerular 
 
 ---
 
-### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^48334ebb]. American Journal of Kidney Diseases (2022). High credibility.
+### KDOQI US commentary on the KDIGO 2020 clinical practice guideline for diabetes management in CKD [^112r3Lqp]. American Journal of Kidney Diseases (2022). High credibility.
 
 Metformin — Implementation considerations note that the change in the FDA guidance from serum creatinine to eGFR calculations with a cutoff of 30 mL/min/1.73 m2 may reduce challenges because most laboratories now report the actual eGFR when it is < 60 mL/min/1.73 m2, and that measuring the eGFR more frequently than annually when the eGFR is < 60 mL/min/1.73 m2 is reasonable.
 
 ---
 
-### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^ecb94fb2]. Cardiovascular Diabetology (2025). Medium credibility.
+### The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study [^1173xKfP]. Cardiovascular Diabetology (2025). Medium credibility.
 
 Subgroup analysis of the correlation between metformin use and Incidence of kidney disease progression and all-cause mortality
 
@@ -876,13 +876,13 @@ Subgroup analysis of the correlation between metformin use and Incidence of A CK
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^0aef884b]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^111HDLHY]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetes mellitus type 2, more specifically with respect to management of diabetic nephropathy (metformin), KDIGO 2022 guidelines recommend to initiate metformin in kidney transplant recipients with T2DM and an eGFR ≥ 30 mL/min/1.73 m² as in patients with T2DM and CKD.
 
 ---
 
-### Unleash metformin: reconsideration of the contraindication in patients with renal impairment [^f3add9dc]. The Annals of Pharmacotherapy (2013). Low credibility.
+### Unleash metformin: reconsideration of the contraindication in patients with renal impairment [^117EGPNT]. The Annals of Pharmacotherapy (2013). Low credibility.
 
 Objective
 
@@ -906,13 +906,13 @@ Data over the past decade refute the historical contraindication in patients wit
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^5da0f02f]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^113PouYA]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to metformin, KDIGO 2022 guidelines recommend to initiate metformin in kidney transplant recipients with T2DM and an eGFR ≥ 30 mL/min/1.73 m² as in patients with T2DM and CKD.
 
 ---
 
-### Dapagliflozin and metformin hydrochloride [^18cb3d4e]. FDA (2024). Medium credibility.
+### Dapagliflozin and metformin hydrochloride [^111dkyBs]. FDA (2024). Medium credibility.
 
 4 CONTRAINDICATIONS
 
@@ -928,7 +928,7 @@ Metabolic acidosis, including diabetic ketoacidosis. (4)
 
 ---
 
-### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^c8cf9f59]. Diabetes Care (2018). Low credibility.
+### Metformin treatment in patients with type 2 diabetes and chronic kidney disease stages 3A, 3B, or 4 [^1168iGB2]. Diabetes Care (2018). Low credibility.
 
 Objective
 
@@ -948,13 +948,13 @@ Provided that the dose is adjusted for renal function, metformin treatment appea
 
 ---
 
-### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^706b4d6b]. American Journal of Kidney Diseases (2007). Medium credibility.
+### KDOQI clinical practice guidelines and clinical practice recommendations for diabetes and chronic kidney disease [^113sfeyx]. American Journal of Kidney Diseases (2007). Medium credibility.
 
 KDOQI Table 22 — Non-sulfonylurea antihyperglycemic agents in CKD stages 3, 4, or kidney transplant and dialysis: Metformin is Contraindicated with kidney dysfunction defined as SCr ≥ 1.5 mg/dL in men or ≥ 1.4 mg/dL in women and is Avoid in dialysis. Repaglinide requires No dose adjustment necessary for CKD and dialysis, whereas nateglinide should Initiate at low dose, 60 mg before each meal in CKD and is Avoid in dialysis. Acarbose is Not recommended in patients with SCr > 2 mg/dL and miglitol is Not recommended in patients with SCr ≥ 2 mg/dL; both list Avoid for dialysis. Pioglitazone and rosiglitazone have No dose adjustment necessary for CKD and dialysis. Exenatide is Avoid in both settings. Pramlintide has No dose adjustment necessary for GFR ≥ 50 mL/min/1.73 m^2 with No data available for dialysis. The DPP-4 inhibitor sitagliptin requires dose reduction: Reduce dose by 50% (50 mg/day) when GFR < 50 and ≥ 30 mL/min/1.73 m^2 and by 75% (25 mg/day) when GFR < 30 mL/min/1.73 m^2, and for dialysis Reduce dose by 75% (25 mg/day).
 
 ---
 
-### Sitagliptin and metformin hydrochloride (Zituvimet XR) [^d1ad52e0]. FDA (2024). Medium credibility.
+### Sitagliptin and metformin hydrochloride (Zituvimet XR) [^116MrdWw]. FDA (2024). Medium credibility.
 
 Metformin
 
@@ -984,7 +984,7 @@ Studies characterizing the pharmacokinetics of sitagliptin and metformin after a
 
 ---
 
-### Stopping versus continuing metformin in patients with advanced CKD: a nationwide Scottish target trial emulation study [^40fe1670]. American Journal of Kidney Diseases (2025). Medium credibility.
+### Stopping versus continuing metformin in patients with advanced CKD: a nationwide Scottish target trial emulation study [^112fMZ4b]. American Journal of Kidney Diseases (2025). Medium credibility.
 
 Rationale & Objective
 
@@ -1028,7 +1028,7 @@ Current guidance recommends against the use of metformin in people with advanced
 
 ---
 
-### Metformin and cardiorenal outcomes in diabetes: a reappraisal [^e9a003a7]. Diabetes, Obesity & Metabolism (2020). Medium credibility.
+### Metformin and cardiorenal outcomes in diabetes: a reappraisal [^116yMrzS]. Diabetes, Obesity & Metabolism (2020). Medium credibility.
 
 3 METFORMIN IN CHRONIC KIDNEY DISEASE
 
@@ -1044,13 +1044,13 @@ Metformin was contraindicated in people with CKD (estimated GFR [eGFR] < 60 mL/m
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^6aa8e111]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^113j8QuN]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetes mellitus type 2, more specifically with respect to management of diabetic nephropathy, general principles, KDIGO 2022 guidelines recommend to consider initiating both metformin and an SGLT-2 inhibitor in most patients with T2DM, CKD and an eGFR ≥ 30 mL/min/1.73 m².
 
 ---
 
-### Antidiabetic medication use in patients with type 2 diabetes and chronic kidney disease [^ba90e097]. Journal of Diabetes and Its Complications (2019). Medium credibility.
+### Antidiabetic medication use in patients with type 2 diabetes and chronic kidney disease [^115mbMrW]. Journal of Diabetes and Its Complications (2019). Medium credibility.
 
 Aims
 
@@ -1070,31 +1070,31 @@ Prescriptions for metformin were lower than expected among patients with mild to
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^fe32f368]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^117VryBV]. Kidney International (2024). High credibility.
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RA) for adults with T2D and CKD — In adults with T2D and CKD who have not achieved individualized glycemic targets despite use of metformin and SGLT2 inhibitor treatment, or who are unable to use those medications, we recommend a long-acting GLP-1 RA (1B), and the choice of GLP-1 RA should prioritize agents with documented cardiovascular benefits.
 
 ---
 
-### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^304993af]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
+### Clinical practice guideline on management of patients with diabetes and chronic kidney disease stage 3b or higher (eGFR [^112Eb7vN]. Nephrology, Dialysis, Transplantation (2015). Medium credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, ERBP 2015 guidelines recommend to instruct patients to temporarily withdraw metformin in conditions of pending dehydration, contrast media investigations, or in situations with an increased risk for AKI.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^5cd7146a]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^113Ne721]. Kidney International (2024). High credibility.
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RA) — Recommendation 3.9.1 states: In adults with T2D and CKD who have not achieved individualized glycemic targets despite use of metformin and SGLT2 inhibitor treatment, or who are unable to use those medications, we recommend a long-acting GLP-1 RA (1B). Practice Point 3.9.1 adds: The choice of GLP-1 RA should prioritize agents with documented cardiovascular benefits.
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^8ed2b198]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114ek1fM]. Kidney International (2024). High credibility.
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RA) in T2D and CKD — In adults with T2D and CKD who have not achieved individualized glycemic targets despite use of metformin and SGLT2 inhibitor treatment, or who are unable to use those medications, we recommend a long-acting GLP-1 RA (1B). The choice of GLP-1 RA should prioritize agents with documented cardiovascular benefits.
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^7dbddfb9]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^114DREGY]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to general principles, KDIGO 2022 guidelines recommend to include the following in glycemic management of patients with T2DM and CKD:
 
@@ -1106,19 +1106,19 @@ Regarding medical management for diabetic nephropathy, more specifically with re
 
 ---
 
-### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^4e8f023d]. American Journal of Kidney Diseases (2012). Medium credibility.
+### KDOQI clinical practice guideline for diabetes and CKD: 2012 update [^1131U51v]. American Journal of Kidney Diseases (2012). Medium credibility.
 
 KDOQI diabetes and CKD — Meglitinides and metformin for CKD stages 3, 4, and 5 ND indicate: repaglinide "If GFR < 30 mL/min/1.73 m2 start conservatively at 0.5 mg with meals" and nateglinide "If GFR < 30 mL/min/1.73 m2 start conservatively at 60 mg with meals". For metformin, the table notes the "United States FDA label states, 'do not use if SCr ≥ 1.5 mg/dL in men, ≥ 1.4 mg/dL in women'" and that the "British National Formulary and the Japanese Society of Nephrology recommend cessation if eGFR < 30 mL/min/1.73 m2".
 
 ---
 
-### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^48b19be4]. Kidney International (2022). High credibility.
+### KDIGO 2022 clinical practice guideline for diabetes management in chronic kidney disease [^112rmmPh]. Kidney International (2022). High credibility.
 
 Regarding medical management for diabetic nephropathy, more specifically with respect to metformin, KDIGO 2022 guidelines recommend to monitor the eGFR in patients treated with metformin and increase the frequency of monitoring when the eGFR < 60 mL/min/1.73 m².
 
 ---
 
-### Saxagliptin and metformin [^919c03d3]. FDA (2025). Medium credibility.
+### Saxagliptin and metformin [^114iscH8]. FDA (2025). Medium credibility.
 
 8.5 Geriatric Use
 
@@ -1146,18 +1146,18 @@ Metformin is substantially excreted by the kidney, and the risk of metformin acc
 
 ---
 
-### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^90b09e50]. Kidney International (2024). High credibility.
+### KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease [^114hWYPH]. Kidney International (2024). High credibility.
 
 Glucagon-like peptide-1 receptor agonists (GLP-1 RA) — guideline recommendation: In adults with T2D and CKD who have not achieved individualized glycemic targets despite metformin and SGLT2 inhibitor treatment, or who are unable to use those medications, the guideline states, "we recommend a long-acting GLP-1 RA (1B)", and adds that "the choice of GLP-1 RA should prioritize agents with documented cardiovascular benefits".
 
 ---
 
-### Metformin therapy in patients with chronic kidney disease [^6ad5b69b]. Diabetes, Obesity & Metabolism (2012). Low credibility.
+### Metformin therapy in patients with chronic kidney disease [^113jPULr]. Diabetes, Obesity & Metabolism (2012). Low credibility.
 
 Metformin therapy is limited in patients with chronic kidney disease (CKD) due to the potential risk of lactic acidosis. This open-label observational study investigated metformin and lactate concentrations in patients with CKD (n = 22; creatinine clearances 15–40 ml/min) and in two dialysed patients. Patients were prescribed a range of metformin doses (250–2000 mg daily) and metformin concentrations were compared with data from healthy subjects (scaled to 1500 mg twice daily). A subset of patients (n = 7) was controlled on low doses of metformin (250 or 500 mg daily). No correlation between metformin and lactate concentrations was observed. Three patients had high lactate concentrations (> 2.7 mmol/l) and two had high metformin concentrations (3–5 mg/l), but none had any symptoms of lactic acidosis. Reducing metformin dosage and monitoring metformin concentrations will allow the safe use of metformin in CKD, provided that renal function is stable.
 
 ---
 
-### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^7895e407]. Kidney International (2020). High credibility.
+### KDIGO 2020 clinical practice guideline for diabetes management in chronic kidney disease [^1145mrva]. Kidney International (2020). High credibility.
 
 Regarding specific circumstances for chronic kidney disease, more specifically with respect to patients with diabetes mellitus, metformin, KDIGO 2020 guidelines recommend to monitor for vitamin B12 deficiency in patients receiving metformin for > 4 years.

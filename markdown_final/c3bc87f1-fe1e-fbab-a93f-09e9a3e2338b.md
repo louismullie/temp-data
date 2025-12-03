@@ -15,43 +15,43 @@ Outflow stenosis in a fistula
 
 > Let's see… What do we have here? The user is asking about outflow stenosis in an arteriovenous fistula, including how to define it, how to detect it, how to decide when to treat, and what to do about it. Let's break this down step-by-step. First, I need to think about the pathophysiology and why outflow stenosis matters. Then, I should verify the clinical signs and how to distinguish inflow from outflow problems. Next, I will review diagnostic tools, including physical examination, ultrasound, and angiography, and I need to check the thresholds that trigger intervention. After that, I should examine treatment options, including balloons, drug-coated balloons, and stents, and consider special scenarios like central venous stenosis. Finally, I will integrate surveillance, surveillance controversies, and a practical decision framework, making sure I double-check where the evidence is strong versus uncertain.
 
-> Let me first confirm the pathophysiology and why outflow stenosis is clinically important. Outflow stenosis increases resistance and upstream pressure, reducing effective dialysis flow and promoting recirculation, which degrades dialysis adequacy and increases thrombosis risk; this is best understood as an inflow–outflow imbalance rather than a purely anatomic label, and the hemodynamic impact depends on both the degree of narrowing and the access flow rate, so a 50% stenosis in a large vein may be less consequential than a smaller-diameter lesion at the same percentage reduction [^0959cd9b] [^304b3279].
+> Let me first confirm the pathophysiology and why outflow stenosis is clinically important. Outflow stenosis increases resistance and upstream pressure, reducing effective dialysis flow and promoting recirculation, which degrades dialysis adequacy and increases thrombosis risk; this is best understood as an inflow–outflow imbalance rather than a purely anatomic label, and the hemodynamic impact depends on both the degree of narrowing and the access flow rate, so a 50% stenosis in a large vein may be less consequential than a smaller-diameter lesion at the same percentage reduction [^111Es43U] [^112EbfVA].
 
-> Wait, let me verify the clinical signs that point to outflow stenosis. On inspection, I should look for arm swelling, distended collateral veins, and failure of the access to collapse with arm elevation; on palpation, a focal water-hammer pulse with loss of the normal continuous thrill suggests a stenosis; on auscultation, a high-pitched, discontinuous, systolic-only bruit is concerning; during dialysis, high venous pressures, prolonged bleeding, and difficulty achieving target pump flows are red flags, and I should remember that these findings track with KDOQI's clinical indicators of access dysfunction [^605c5270] [^3c744e33] [^1b16fdd5].
+> Wait, let me verify the clinical signs that point to outflow stenosis. On inspection, I should look for arm swelling, distended collateral veins, and failure of the access to collapse with arm elevation; on palpation, a focal water-hammer pulse with loss of the normal continuous thrill suggests a stenosis; on auscultation, a high-pitched, discontinuous, systolic-only bruit is concerning; during dialysis, high venous pressures, prolonged bleeding, and difficulty achieving target pump flows are red flags, and I should remember that these findings track with KDOQI's clinical indicators of access dysfunction [^113Trpdd] [^112YdKir] [^111hAPXA].
 
-> Hold on, let's not jump to conclusions about diagnosis without anchoring it to objective testing. I need to check the performance of physical examination: trained examiners can detect outflow stenosis with high sensitivity and specificity, and the arm elevation test is particularly useful; however, accuracy varies with examiner experience, so abnormal PE findings should prompt confirmatory imaging rather than immediate intervention, and I should double-check that I'm not missing inflow disease masquerading as outflow problems [^908e1ed3] [^23b4851d] [^669f26fb].
+> Hold on, let's not jump to conclusions about diagnosis without anchoring it to objective testing. I need to check the performance of physical examination: trained examiners can detect outflow stenosis with high sensitivity and specificity, and the arm elevation test is particularly useful; however, accuracy varies with examiner experience, so abnormal PE findings should prompt confirmatory imaging rather than immediate intervention, and I should double-check that I'm not missing inflow disease masquerading as outflow problems [^114hJxJv] [^111uwCgC] [^113d9CHG].
 
-> Next, I should review ultrasound because it is noninvasive and widely available. Duplex can visualize the stenosis, quantify peak systolic velocity, and estimate access flow; a PSV greater than about 300 cm/s in the vein with downstream flow reduction is suspicious for a hemodynamically significant lesion, but I need to ensure I correlate with clinical findings because ultrasound criteria are not perfectly standardized and operator dependence is real [^413ef61e].
+> Next, I should review ultrasound because it is noninvasive and widely available. Duplex can visualize the stenosis, quantify peak systolic velocity, and estimate access flow; a PSV greater than about 300 cm/s in the vein with downstream flow reduction is suspicious for a hemodynamically significant lesion, but I need to ensure I correlate with clinical findings because ultrasound criteria are not perfectly standardized and operator dependence is real [^112fjLuT].
 
-> I will now examine angiography, since it remains the gold standard when a lesion is suspected or intervention is planned. Angiography defines anatomy, localizes the stenosis, and allows concurrent treatment; I should confirm that the study spans the arterial inflow, the access itself, and the venous outflow to the central veins, because missing a central venous lesion can doom repeat peripheral interventions [^bf5a6977] [^0ffa6e76].
+> I will now examine angiography, since it remains the gold standard when a lesion is suspected or intervention is planned. Angiography defines anatomy, localizes the stenosis, and allows concurrent treatment; I should confirm that the study spans the arterial inflow, the access itself, and the venous outflow to the central veins, because missing a central venous lesion can doom repeat peripheral interventions [^115th1CA] [^111Qgw2V].
 
-> Let me think about when to treat, and I should double-check the traditional 50% threshold. Historically, a greater than 50% diameter reduction plus clinical or physiologic abnormalities has been used to define a clinically significant stenosis, but wait, I should verify whether this is too simplistic; indeed, percentage stenosis alone correlates poorly with flow impact, and some data support using a higher anatomic threshold, such as about 75%, when guided by physical examination findings like PESOS, to avoid overtreatment while still preventing thrombosis; ultimately, treatment decisions should integrate symptoms, hemodynamics, and the patient's life plan rather than a single percentage [^77b30ee4] [^304b3279] [^8a523f95] [^f6d8cf78].
+> Let me think about when to treat, and I should double-check the traditional 50% threshold. Historically, a greater than 50% diameter reduction plus clinical or physiologic abnormalities has been used to define a clinically significant stenosis, but wait, I should verify whether this is too simplistic; indeed, percentage stenosis alone correlates poorly with flow impact, and some data support using a higher anatomic threshold, such as about 75%, when guided by physical examination findings like PESOS, to avoid overtreatment while still preventing thrombosis; ultimately, treatment decisions should integrate symptoms, hemodynamics, and the patient's life plan rather than a single percentage [^1144TfsR] [^112EbfVA] [^114Y4vDa] [^117Jxn8f].
 
-> I need to ensure I distinguish inflow from outflow disease because management differs. Inflow stenosis typically presents with weak or absent thrill, poor augmentation with manual compression, and low access flows, whereas outflow stenosis shows hyperpulsatility, high venous pressures, and arm swelling; importantly, inflow stenosis can blunt venous pressure signals and delay recognition of outflow stenosis, so I should actively look for both when dysfunction is suspected [^669f26fb] [^23b4851d].
+> I need to ensure I distinguish inflow from outflow disease because management differs. Inflow stenosis typically presents with weak or absent thrill, poor augmentation with manual compression, and low access flows, whereas outflow stenosis shows hyperpulsatility, high venous pressures, and arm swelling; importantly, inflow stenosis can blunt venous pressure signals and delay recognition of outflow stenosis, so I should actively look for both when dysfunction is suspected [^113d9CHG] [^111uwCgC].
 
-> Now, I should review first-line therapy. Standard high-pressure balloon angioplasty remains the initial treatment for most stenoses, with excellent technical success and immediate restoration of flow; I should confirm that resistant lesions may need prolonged inflation or higher-pressure balloons, and I must remember that restenosis is common, so counseling on surveillance and potential reintervention is essential [^f4bbb8ed] [^a039f817].
+> Now, I should review first-line therapy. Standard high-pressure balloon angioplasty remains the initial treatment for most stenoses, with excellent technical success and immediate restoration of flow; I should confirm that resistant lesions may need prolonged inflation or higher-pressure balloons, and I must remember that restenosis is common, so counseling on surveillance and potential reintervention is essential [^117Fq2tU] [^1156YVRG].
 
-> But wait, what if the stenosis recurs quickly or is particularly fibrotic. Drug-coated balloons can reduce restenosis in select scenarios, and although I initially thought the evidence was uniformly strong, I should correct that: data are mixed and largely observational, so DCBs are reasonable for recurrent lesions or high-risk anatomy, but I need to individualize and avoid overuse where standard PTA suffices [^cb4315d4] [^1921847a].
+> But wait, what if the stenosis recurs quickly or is particularly fibrotic. Drug-coated balloons can reduce restenosis in select scenarios, and although I initially thought the evidence was uniformly strong, I should correct that: data are mixed and largely observational, so DCBs are reasonable for recurrent lesions or high-risk anatomy, but I need to individualize and avoid overuse where standard PTA suffices [^116CM28j] [^111eFx25].
 
-> I should confirm when stents are indicated. Covered stents are favored for recurrent venous outflow stenosis, for lesions at the graft–vein junction, and for resistant cephalic arch stenosis where balloon angioplasty often fails; stent grafts may also mitigate neointimal hyperplasia and provide a scaffold in fragile veins, but I need to preserve surgical options and avoid stenting across joints when possible [^f9ac5913] [^567ab1a7] [^2e913949].
+> I should confirm when stents are indicated. Covered stents are favored for recurrent venous outflow stenosis, for lesions at the graft–vein junction, and for resistant cephalic arch stenosis where balloon angioplasty often fails; stent grafts may also mitigate neointimal hyperplasia and provide a scaffold in fragile veins, but I need to preserve surgical options and avoid stenting across joints when possible [^117P9onA] [^113DD9WN] [^112C3D9i].
 
-> Let me consider central venous stenosis, because missing it guarantees repeated failures. Central venous stenosis or occlusion can be silent or present with arm swelling and collateral veins; management ranges from angioplasty with or without stenting to surgical decompression such as medial claviculectomy for thoracic outlet compression, and I should coordinate with a multidisciplinary team to align with the patient's access life plan [^119f66d8] [^891a9f07] [^e5378a9a].
+> Let me consider central venous stenosis, because missing it guarantees repeated failures. Central venous stenosis or occlusion can be silent or present with arm swelling and collateral veins; management ranges from angioplasty with or without stenting to surgical decompression such as medial claviculectomy for thoracic outlet compression, and I should coordinate with a multidisciplinary team to align with the patient's access life plan [^111T8LBq] [^114WGFEN] [^116rppZw].
 
-> Next, I should review surveillance and its controversies. Routine surveillance can detect more stenoses and reduce thrombosis in some studies, but it also increases procedures without clear mortality benefit; KDOQI emphasizes skilled physical examination as the foundation, with selective use of flow or ultrasound, and shared decision-making is key when considering preemptive repair of subclinical lesions [^c9a20d8a] [^acd811cd] [^658a2797].
+> Next, I should review surveillance and its controversies. Routine surveillance can detect more stenoses and reduce thrombosis in some studies, but it also increases procedures without clear mortality benefit; KDOQI emphasizes skilled physical examination as the foundation, with selective use of flow or ultrasound, and shared decision-making is key when considering preemptive repair of subclinical lesions [^1169vwgu] [^115RFSqz] [^113bY9w4].
 
-> Hold on, I should verify a practical decision framework. If clinical indicators suggest outflow stenosis, I obtain confirmatory imaging; if a hemodynamically significant lesion is confirmed, I proceed to angioplasty, escalating to DCB or stent for recurrence or special anatomy; if the access is high flow with symptoms, I consider flow reduction strategies; and throughout, I integrate the patient's goals, alternative access options, and the life plan to avoid futile interventions [^e183e432] [^69040a51] [^f9ac5913].
+> Hold on, I should verify a practical decision framework. If clinical indicators suggest outflow stenosis, I obtain confirmatory imaging; if a hemodynamically significant lesion is confirmed, I proceed to angioplasty, escalating to DCB or stent for recurrence or special anatomy; if the access is high flow with symptoms, I consider flow reduction strategies; and throughout, I integrate the patient's goals, alternative access options, and the life plan to avoid futile interventions [^116mLWrm] [^113gh4JU] [^117P9onA].
 
-> Finally, I need to ensure longitudinal care is explicit. After successful treatment, I arrange follow-up with repeat clinical examination and, when indicated, ultrasound to detect restenosis early; I educate the dialysis team on warning signs, and I maintain a low threshold to re-image if symptoms recur, recognizing that early detection and timely reintervention are the cornerstones of durable access patency [^c9a20d8a] [^347ee215].
+> Finally, I need to ensure longitudinal care is explicit. After successful treatment, I arrange follow-up with repeat clinical examination and, when indicated, ultrasound to detect restenosis early; I educate the dialysis team on warning signs, and I maintain a low threshold to re-image if symptoms recur, recognizing that early detection and timely reintervention are the cornerstones of durable access patency [^1169vwgu] [^112LpyY8].
 
 ---
 
-Outflow stenosis in a fistula is a **narrowing of the venous outflow tract** that increases resistance, reduces access flow, and can cause thrombosis or access failure [^413ef61e]. It is most often due to neointimal hyperplasia at the juxta-anastomotic segment, cephalic arch, or central veins, and is best detected by combining physical examination with duplex ultrasound or fistulography [^413ef61e] [^bf5a6977]. Management is **angioplasty first-line**, with drug-coated balloons or stents for recurrent or resistant lesions, and surgery for refractory cases or central venous obstruction [^f4bbb8ed] [^1921847a] [^891a9f07]. Early recognition and treatment prevent thrombosis, prolong access life, and reduce catheter use and hospitalizations [^1c00ba1e] [^acd811cd].
+Outflow stenosis in a fistula is a **narrowing of the venous outflow tract** that increases resistance, reduces access flow, and can cause thrombosis or access failure [^112fjLuT]. It is most often due to neointimal hyperplasia at the juxta-anastomotic segment, cephalic arch, or central veins, and is best detected by combining physical examination with duplex ultrasound or fistulography [^112fjLuT] [^115th1CA]. Management is **angioplasty first-line**, with drug-coated balloons or stents for recurrent or resistant lesions, and surgery for refractory cases or central venous obstruction [^117Fq2tU] [^111eFx25] [^114WGFEN]. Early recognition and treatment prevent thrombosis, prolong access life, and reduce catheter use and hospitalizations [^111iWu49] [^115RFSqz].
 
 ---
 
 ## Pathophysiology
 
-Outflow stenosis arises from **neointimal hyperplasia** driven by turbulent flow, shear stress, and endothelial injury, leading to smooth muscle proliferation and extracellular matrix deposition [^413ef61e]. Common sites include the juxta-anastomotic vein, cephalic arch, and central veins, with extrinsic compression (e.g. thoracic outlet, mediastinal structures) as a less frequent contributor [^8741f1d6] [^567ab1a7] [^891a9f07].
+Outflow stenosis arises from **neointimal hyperplasia** driven by turbulent flow, shear stress, and endothelial injury, leading to smooth muscle proliferation and extracellular matrix deposition [^112fjLuT]. Common sites include the juxta-anastomotic vein, cephalic arch, and central veins, with extrinsic compression (e.g. thoracic outlet, mediastinal structures) as a less frequent contributor [^114TXUkV] [^113DD9WN] [^114WGFEN].
 
 ---
 
@@ -59,11 +59,11 @@ Outflow stenosis arises from **neointimal hyperplasia** driven by turbulent flow
 
 Typical features include:
 
-- **Arm swelling**: ipsilateral edema from venous hypertension [^605c5270].
-- **Prolonged bleeding**: post-dialysis from elevated venous pressure [^605c5270].
-- **High venous pressures**: > 200 mmHg during dialysis [^413ef61e].
-- **Reduced thrill**: discontinuous or absent, especially with arm elevation [^327148d4].
-- **Difficulty cannulating**: from altered hemodynamics [^605c5270].
+- **Arm swelling**: ipsilateral edema from venous hypertension [^113Trpdd].
+- **Prolonged bleeding**: post-dialysis from elevated venous pressure [^113Trpdd].
+- **High venous pressures**: > 200 mmHg during dialysis [^112fjLuT].
+- **Reduced thrill**: discontinuous or absent, especially with arm elevation [^112HnS3u].
+- **Difficulty cannulating**: from altered hemodynamics [^113Trpdd].
 
 ---
 
@@ -71,7 +71,7 @@ Typical features include:
 
 ### Physical examination
 
-On examination, look for **hyperpulsatility** with a water-hammer pulse and a discontinuous or absent thrill, especially when the arm is elevated (arm elevation test) [^327148d4]. Collateral veins may be prominent, and the access may fail to collapse with elevation, indicating outflow obstruction [^1b16fdd5].
+On examination, look for **hyperpulsatility** with a water-hammer pulse and a discontinuous or absent thrill, especially when the arm is elevated (arm elevation test) [^112HnS3u]. Collateral veins may be prominent, and the access may fail to collapse with elevation, indicating outflow obstruction [^111hAPXA].
 
 ---
 
@@ -79,15 +79,15 @@ On examination, look for **hyperpulsatility** with a water-hammer pulse and a di
 
 | **Modality** | **Advantages** | **Limitations** |
 |-|-|-|
-| Duplex ultrasound | Noninvasive; detects stenosis, flow, and collaterals; high sensitivity/specificity | Operator-dependent; limited by obesity or edema [^e8db6431] |
-| Fistulography | Gold standard; anatomically precise; allows concurrent intervention | Invasive; contrast risks; not for routine screening [^bf5a6977] |
+| Duplex ultrasound | Noninvasive; detects stenosis, flow, and collaterals; high sensitivity/specificity | Operator-dependent; limited by obesity or edema [^116xDpU8] |
+| Fistulography | Gold standard; anatomically precise; allows concurrent intervention | Invasive; contrast risks; not for routine screening [^115th1CA] |
 | CT/MR venography | Useful for central venous stenosis | Costly; limited availability; contrast issues |
 
 ---
 
 ## Hemodynamic significance
 
-A stenosis is **hemodynamically significant** when it causes a pressure drop and flow reduction that impairs dialysis. While a > 50% diameter reduction is commonly used, the clinical impact depends on lesion length, flow, and collaterals; thus, functional assessment (pressures, flow) is essential [^e2eb992e] [^304b3279].
+A stenosis is **hemodynamically significant** when it causes a pressure drop and flow reduction that impairs dialysis. While a > 50% diameter reduction is commonly used, the clinical impact depends on lesion length, flow, and collaterals; thus, functional assessment (pressures, flow) is essential [^116oRLWq] [^112EbfVA].
 
 ---
 
@@ -95,27 +95,27 @@ A stenosis is **hemodynamically significant** when it causes a pressure drop and
 
 ### Endovascular interventions
 
-- **Balloon angioplasty**: first-line for most stenoses; high success and low complication rates [^f4bbb8ed].
+- **Balloon angioplasty**: first-line for most stenoses; high success and low complication rates [^117Fq2tU].
 - **Drug-coated balloons**: reduce restenosis in recurrent lesions [^notfound].
-- **Stent placement**: for elastic recoil, recurrent stenosis, or central venous lesions; covered stents preferred in some scenarios [^f9ac5913] [^2e913949].
+- **Stent placement**: for elastic recoil, recurrent stenosis, or central venous lesions; covered stents preferred in some scenarios [^117P9onA] [^112C3D9i].
 
 ---
 
 ### Surgical interventions
 
-Surgical options include **surgical revision** — such as bypass, vein transposition, or creation of a new anastomosis — for refractory or complex lesions, and **central venous bypass** for recalcitrant central venous stenosis or occlusion [^891a9f07].
+Surgical options include **surgical revision** — such as bypass, vein transposition, or creation of a new anastomosis — for refractory or complex lesions, and **central venous bypass** for recalcitrant central venous stenosis or occlusion [^114WGFEN].
 
 ---
 
 ## Outcomes and complications
 
-Angioplasty yields high technical success and improved access flow, but restenosis is common and may require repeat interventions [^a039f817]. Complications include vessel rupture, thrombosis, and infection, though major adverse events are uncommon with experienced operators [^cb4315d4].
+Angioplasty yields high technical success and improved access flow, but restenosis is common and may require repeat interventions [^1156YVRG]. Complications include vessel rupture, thrombosis, and infection, though major adverse events are uncommon with experienced operators [^116CM28j].
 
 ---
 
 ## Prevention and surveillance
 
-Regular clinical monitoring with physical examination and selective ultrasound detects stenosis early [^c9a20d8a]. Preemptive repair of hemodynamically significant stenosis reduces thrombosis and prolongs access patency, though surveillance strategies should be individualized to balance benefits and procedural risks [^1c00ba1e] [^acd811cd].
+Regular clinical monitoring with physical examination and selective ultrasound detects stenosis early [^1169vwgu]. Preemptive repair of hemodynamically significant stenosis reduces thrombosis and prolongs access patency, though surveillance strategies should be individualized to balance benefits and procedural risks [^111iWu49] [^115RFSqz].
 
 ---
 
@@ -125,7 +125,7 @@ Outflow stenosis is a **common, consequential cause of fistula dysfunction**; ea
 
 ## References
 
-### Management of vascular access inflow-outflow imbalance: a bimodal approach [^69040a51]. The Journal of Vascular Access (2025). Medium credibility.
+### Management of vascular access inflow-outflow imbalance: a bimodal approach [^113gh4JU]. The Journal of Vascular Access (2025). Medium credibility.
 
 Summary
 
@@ -133,7 +133,7 @@ When a dialysis patient presents with clinical indicators suggestive of the pres
 
 ---
 
-### Management of vascular access inflow-outflow imbalance: a bimodal approach [^0959cd9b]. The Journal of Vascular Access (2025). Medium credibility.
+### Management of vascular access inflow-outflow imbalance: a bimodal approach [^111Es43U]. The Journal of Vascular Access (2025). Medium credibility.
 
 Introduction
 
@@ -149,7 +149,7 @@ Reciprocal relationship between total cross-sectional outflow luminal diameter (
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^9c75477b]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^114zxTkE]. BMC Nephrology (2020). Medium credibility.
 
 Discussion
 
@@ -161,13 +161,13 @@ Several recent studies have shown that high shear stress at the stenosis can act
 
 ---
 
-### Clinical practice guidelines for vascular access [^77b30ee4]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^1144TfsR]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Guideline 5. Treatment of fistula complications — indications for intervention specifies that intervention on a fistula should be performed for inadequate flow to support the prescribed dialysis blood flow, hemodynamically significant venous stenosis, aneurysm formation in a primary fistula with correction of postanastomotic stenosis that drives aneurysm and avoidance of cannulation of the aneurysmal segment, and ischemia in the access arm. For preemptive percutaneous transluminal angioplasty (PTA), a fistula with a greater than 50% stenosis in either the venous outflow or arterial inflow, in conjunction with clinical or physiological abnormalities, should be treated with PTA or surgical revision, and abnormalities include reduction in flow, increase in static pressures, access recirculation preempting adequate delivery of dialysis, or abnormal physical findings.
 
 ---
 
-### A UK expert consensus approach for managing symptomatic arteriovenous fistula (AVF) stenosis in haemodialysis patients [^1921847a]. Cardiovascular and Interventional Radiology (2021). Medium credibility.
+### A UK expert consensus approach for managing symptomatic arteriovenous fistula (AVF) stenosis in haemodialysis patients [^111eFx25]. Cardiovascular and Interventional Radiology (2021). Medium credibility.
 
 Purpose
 
@@ -187,19 +187,19 @@ These recommendations aim to provide a practical guide to multidisciplinary team
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^605c5270]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^113Trpdd]. American Journal of Kidney Diseases (2020). High credibility.
 
 KDOQI vascular access guideline — Clinical indicators during monitoring identify potential clinically significant arteriovenous (AV) access lesions and include ipsilateral extremity edema; alterations in the pulse, with a weak or resistant pulse, difficult to compress, in the area of stenosis; abnormal thrill (weak and/or discontinuous) with only a systolic component in the region of stenosis; abnormal bruit (high pitched with a systolic component in the area of stenosis); failure of the fistula to collapse when the arm is elevated (outflow stenosis) and lack of pulse augmentation (inflow stenosis); and excessive collapse of the venous segment upon arm elevation. During dialysis, concerning signs are new difficulty with cannulation when previously not a problem, aspiration of clots, inability to achieve the target dialysis blood flow, prolonged bleeding beyond usual for that patient from the needle puncture sites for 3 consecutive dialysis sessions, and unexplained (> 0.2 units) decrease in the delivered dialysis dose (Kt/V) on a constant dialysis prescription without prolongation of dialysis duration.
 
 ---
 
-### Clinical practice guidelines for vascular access [^3b6f9b57]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^112X7kuL]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Effect of stenosis on hemodynamics — grafts and fistulae are affected at characteristic sites: in grafts, the majority of stenoses develop in the venous outflow, frequently right at or within several centimeters of the venous anastomosis; lesions within the graft also occur, and most accesses have more than 1 lesion at any 1 time, with the pathophysiological state of graft failure arising from neointimal hyperplasia. In a fistula, there may be ischemic effects, as well as injury resulting from recurrent cannulation and subsequent fibrosis, and stenoses in a fistula tend to occur at the surgical swing sites (including the arterial anastomosis) or the puncture zone of the vein.
 
 ---
 
-### Management of vascular access inflow-outflow imbalance: a bimodal approach [^304b3279]. The Journal of Vascular Access (2025). Medium credibility.
+### Management of vascular access inflow-outflow imbalance: a bimodal approach [^112EbfVA]. The Journal of Vascular Access (2025). Medium credibility.
 
 Anatomical indications for treatment
 
@@ -214,7 +214,7 @@ Second, a 50% stenosis occurring in an AVF segment characterized by a diameter o
 
 ---
 
-### UK kidney association clinical practice guideline on vascular access for haemodialysis [^23b4851d]. BMC Nephrology (2025). Medium credibility.
+### UK kidney association clinical practice guideline on vascular access for haemodialysis [^111uwCgC]. BMC Nephrology (2025). Medium credibility.
 
 Clinical evaluation forms the mainstay of the assessment of vascular access dysfunction, with several authors highlighting its value. Asif studied 142 patients referred for angiography, comparing radiological diagnosis with examination findings, such as pulse augmentation (failure of transient fistula compression to augment the pulse indicating inflow stenosis) and arm elevation (failure of arm elevation to reduce fistula fullness indicating outflow stenosis). Examination findings were 85% sensitive and 71% specific for detecting an inflow lesion, and 92% sensitive and 86% specific for detecting an outflow stenosis. Similar support for clinical examination came from Coentrao who also noted the value of specific training in improving the accuracy of clinical skills.
 
@@ -228,13 +228,13 @@ The pathophysiology of AV access circuit stenosis is incompletely understood, in
 
 ---
 
-### Nonmaturing fistulae: epidemiology, possible interventions, and outcomes [^b9234713]. Techniques in Vascular and Interventional Radiology (2017). Low credibility.
+### Nonmaturing fistulae: epidemiology, possible interventions, and outcomes [^115jUZQ6]. Techniques in Vascular and Interventional Radiology (2017). Low credibility.
 
 Autogenous arteriovenous fistulae are the best method for prolonged, successful dialysis access. However, a substantial limitation of dialysis fistulae is their high primary failure rate, estimated to be as high as 70% for radiocephalic fistulae. Fistula maturation is influenced by demographic risk factors as well as anatomical barriers, the latter of which can be readily identified by noninvasive ultrasound imaging and physical examination. These barriers can be categorized as inflow problems (native arterial disease, arteriovenous anastomotic stenosis, and juxta-anastomotic stenosis) or outflow problems (proximal venous stenosis or collateral veins). Venous stenoses represent the most commonly observed barrier to fistula maturation. By treating these barriers with a systematic approach, interventionalists can significantly improve the likelihood of a fistula's usability for dialysis.
 
 ---
 
-### Arteriovenous fistulas and their characteristic sites of stenosis [^8741f1d6]. AJR: American Journal of Roentgenology (2015). Low credibility.
+### Arteriovenous fistulas and their characteristic sites of stenosis [^114TXUkV]. AJR: American Journal of Roentgenology (2015). Low credibility.
 
 Objective
 
@@ -246,7 +246,7 @@ The characteristic sites of stenosis in AVFs used for dialysis share in common s
 
 ---
 
-### Safety and performance of a cell-impermeable endoprosthesis for hemodialysis vascular access outflow stenosis: a Brazilian multicenter retrospective study [^4e6621f5]. Cardiovascular and Interventional Radiology (2024). Medium credibility.
+### Safety and performance of a cell-impermeable endoprosthesis for hemodialysis vascular access outflow stenosis: a Brazilian multicenter retrospective study [^1131ELgk]. Cardiovascular and Interventional Radiology (2024). Medium credibility.
 
 To ensure proper anchoring and contact with the vessel wall, the cell-impermeable endoprosthesis was placed in a 10–25% oversized configuration within the distal segment of the stenosis (compared to the adjacent healthy segment). This configuration included ≥ 1 cm overlap with the healthy vessel or synthetic graft. Devices were then post-dilated using a balloon, with the balloon size not exceeding the diameter of the device. After the procedure, patients were administered antiplatelet and/or anticoagulant therapy. Two centers administered both aspirin and clopidogrel (60 days at one center; 30 days at another), whereas the other two centers exclusively prescribed a 30-day course of either aspirin or clopidogrel.
 
@@ -267,7 +267,7 @@ AVF, arteriovenous fistula; AVG, arteriovenous graft
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^f32b462c]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^117DWXXZ]. BMC Nephrology (2020). Medium credibility.
 
 Methods
 
@@ -279,13 +279,13 @@ The exclusion criteria were 1) an AVF that had failed to mature; 2) an AVF with 
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^4c763245]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^112xMm4x]. American Journal of Kidney Diseases (2020). High credibility.
 
 Arteriovenous fistula background — AVF maturation failure remains an important clinical problem for HD patients, with observational studies reporting a range from 20% to 60%. A multicenter randomized controlled trial in the United States reported that up to 60% of AVFs created failed to mature successfully for dialysis use. Prior guidance recommended a PTA or surgical revision in an AVF with greater than 50% stenosis in either the venous outflow or arterial inflow, in conjunction with clinical or physiologic abnormalities.
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^327148d4]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^112HnS3u]. BMC Nephrology (2020). Medium credibility.
 
 Background
 
@@ -293,13 +293,13 @@ Hemodialysis access outflow stenosis may be diagnosed by palpating the area arou
 
 ---
 
-### Hemodialysis fistula stenosis caused by extrinsic vascular compression: the May-Thurner of fistulas [^56ec2664]. The Journal of Vascular Access (2021). Medium credibility.
+### Hemodialysis fistula stenosis caused by extrinsic vascular compression: the May-Thurner of fistulas [^113DsFoq]. The Journal of Vascular Access (2021). Medium credibility.
 
 Significant venous outflow stenosis of a forearm arteriovenous fistulae caused by an extrinsic vascular compression is a very rare entity (no reported cases in the literature). We report a case of high venous pressures during dialysis, secondary to an extrinsic compression of the underlying brachial artery that was diagnosed with Doppler ultrasound. The stenosis localization resembles the typical and frequent juxta-anastomotic venous outflow stenosis. This similarity can be a confounding factor and can lead to failure of conventional treatments. Careful surgical technique of arteriovenous graft creation and Doppler ultrasound mapping can prevent this entity.
 
 ---
 
-### UK kidney association clinical practice guideline on vascular access for haemodialysis [^119f66d8]. BMC Nephrology (2025). Medium credibility.
+### UK kidney association clinical practice guideline on vascular access for haemodialysis [^111T8LBq]. BMC Nephrology (2025). Medium credibility.
 
 Rationale
 
@@ -312,7 +312,7 @@ Although it may cause symptoms, such as arm swelling following fistula creation,
 
 ---
 
-### Vascular stenosis: biology and interventions [^de659840]. Current Opinion in Nephrology and Hypertension (2007). Low credibility.
+### Vascular stenosis: biology and interventions [^116giNnb]. Current Opinion in Nephrology and Hypertension (2007). Low credibility.
 
 Purpose Of Review
 
@@ -328,19 +328,19 @@ Vascular access dysfunction remains a significant cause of morbidity and mortali
 
 ---
 
-### Clinical practice guidelines for vascular access [^0ffa6e76]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^111Qgw2V]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Access flow for dialysis in fistulae (CPG 3.3) notes that after appropriate physical examination, a fistulogram is the gold standard for evaluating poor maturation if the patient is already on dialysis therapy, while for those not yet on dialysis therapy use of a non-nephrotoxic contrast material, carbon dioxide, or ultrasound should be used; delivery of dialysis is flow dependent, with access flow less than 350 mL/min likely to produce recirculation and inadequate delivery of dialysis. Some centers have used diluted contrast (25%), acceptable images can be obtained, and interventions may include PTA of stenotic lesions, ligation or occlusion of vein branches if the problem is simply > 1 major outflow vein, and/or surgical revision of the anastomosis.
 
 ---
 
-### Clinical practice guidelines for vascular access [^0ab81b47]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^111GtiWA]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Vascular access — surveillance and stenosis assessment in AVFs emphasize that surveillance findings can be observer dependent and an abnormal isolated finding should be supported by abnormal physical symptoms; persistence of abnormal physical findings and surveillance test results requires further diagnostic steps and timely treatment. Repeated failure to deliver the prescribed dialysis dose by using an AVF should result in immediate evaluation. Stenosis grading is by percentage narrowing using the immediately upstream or downstream normal vessel as reference, which can be difficult when the AVF is irregular or aneurysmal or at the confluence of 2 vessels, and severity can also be graded by the drop-off in systolic or mean pressure across the stenosis.
 
 ---
 
-### Deep learning analysis of blood flow sounds to detect arteriovenous fistula stenosis [^129c5f04]. NPJ Digital Medicine (2023). Medium credibility.
+### Deep learning analysis of blood flow sounds to detect arteriovenous fistula stenosis [^111UbJRq]. NPJ Digital Medicine (2023). Medium credibility.
 
 Introduction
 
@@ -350,7 +350,7 @@ Vascular access complications, such as stenosis and thrombosis, are significant 
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^f5d7c17b]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^117HUSJe]. BMC Nephrology (2020). Medium credibility.
 
 Conclusions
 
@@ -358,25 +358,25 @@ The presence of PESOS is a potential sign of ≥ 75% outflow stenosis in an AVF 
 
 ---
 
-### Clinical practice guidelines for vascular access [^7f5afcf5]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^114FozP6]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Stenosis monitoring and definition: Asymptomatic, but hemodynamically significant, stenoses usually are detected through a systematic monitoring and surveillance program, and a functionally significant stenosis is currently defined as a decrease of greater than 50% of normal vessel diameter.
 
 ---
 
-### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^b3560ee7]. Journal of Vascular Surgery (2008). Medium credibility.
+### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^115asgza]. Journal of Vascular Surgery (2008). Medium credibility.
 
 Arteriovenous hemodialysis access — poor venous outflow and early anastomotic stenosis management is guided by surveillance and targeted revision: after an autogenous access is placed, a policy of aggressive re-evaluation should be performed to maintain function, and Revision of a functioning autogenous access to a more proximal arterial and venous location is another strategy to optimize usable segments. Early anastomotic stenoses causing poor outflow should be addressed based on timing: When diagnosed ≤ 7 days of access construction, surgical revision should be performed. When such stenoses are diagnosed later, balloon angioplasty can be performed initially. Procedural safety is emphasized: Care must be taken when approaching the arterial anastomosis. Arterial embolization can result from clot fragmentation or dislodgement of the arterial plug, and intimal dissection can occur from vessel damage caused by the wire or thrombectomy device.
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^e9681015]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^116y34yA]. American Journal of Kidney Diseases (2020). High credibility.
 
 Arteriovenous fistula (AVF) aneurysm definitions and clinical implications are summarized as follows: an AVF aneurysm has been defined as enlargement of all 3 vessel layers with a diameter of > 18 mm or roughly 3 times the diameter of the outflow vein of a mature AVF; aneurysms can occur anywhere in the AV access circuit but typically occur in the outflow vein; pseudoaneurysms usually arise from repeated cannulations and, although they develop in AVFs, are more common in arteriovenous grafts (AVGs); most aneurysms/pseudoaneurysms are asymptomatic but can compromise function and cause life‑threatening hemorrhage, with AV access–related fatal hemorrhage reported as 1 for every 1,000 patient-years; diagnosis is by physical examination corroborated with Duplex ultrasound, which can detect per- access fluid, intraluminal thrombus, and inflow/outflow stenoses and quantitate diameter and intra-access flow; it is critical to determine if the lesion is symptomatic and/or at risk for ulceration and rupture, and it is important to have routine, objective measures of growth with greater frequency if worrisome signs or symptoms develop.
 
 ---
 
-### Imaging of haemodialysis: renal and extrarenal findings [^fc7c32a5]. Insights Into Imaging (2015). Low credibility.
+### Imaging of haemodialysis: renal and extrarenal findings [^117TKbat]. Insights Into Imaging (2015). Low credibility.
 
 Arteriovenous fistulas
 
@@ -394,7 +394,7 @@ Complications of the arterial tract of AVFs are rare. Proximal arterial disease,
 
 ---
 
-### Current role of ultrasound in hemodialysis access evaluation [^413ef61e]. The Journal of Vascular Access (2021). Medium credibility.
+### Current role of ultrasound in hemodialysis access evaluation [^112fjLuT]. The Journal of Vascular Access (2021). Medium credibility.
 
 Evaluation of early and late complications: B-mode and Doppler criteria of stenosis
 
@@ -406,25 +406,25 @@ Arterial stenosis represents only 8% of all vascular access stenosis. It is asso
 
 ---
 
-### Clinical practice guidelines for vascular access [^d53da85c]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^116T95DM]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Inadequate flow (CPG 5.2) management — A primary fistula should be revised when it is unable to sustain adequate hemodialysis (HD) blood flow, manifested by the inability to achieve the prescribed Kt/V within a reasonable HD duration. In case of reduced flow caused by arterial inflow, 2 therapeutic options exist: interventional angioplasty or surgical revision for stenosis of the feeding artery, or a more proximally located new AV anastomosis when the feeding artery is inadequate; for correcting stenoses, PTA is a safe and effective technique with a low rate of reintervention. Reported arterial inflow lesion frequencies include Four of 40 patients with brachial artery lesions contributing to access dysfunction and 41 of 101 fistulae with arterial inflow lesions at the time of therapeutic intervention for dysfunction.
 
 ---
 
-### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^bf5a6977]. Journal of Vascular Surgery (2008). Medium credibility.
+### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^115th1CA]. Journal of Vascular Surgery (2008). Medium credibility.
 
 Diagnostic tests — imaging and intervention sequencing: Although DU can be used as a diagnostic tool, it has limitations; if an etiology for access dysfunction is not identified by DU scanning, an imaging study should be performed, and a contrast angiogram study or other imaging studies such as MRA of the access is the gold standard for documenting stenosis; because it is expensive and invasive, it should be reserved for patients in whom abnormal clinical monitoring or access surveillance has predicted a high likelihood of hemodynamically (> 50%) significant stenosis; this contrast study should include the arterial inflow, the actual access, its outflow vein, and central vein; if a significant stenosis is detected, a balloon angioplasty can be performed at the same sitting; if no obstructing lesion is identified, a physiologic etiology causing low access flow should be investigated by an access flow study.
 
 ---
 
-### Salvage of a severely dysfunctional arteriovenous fistula with a strictured and occluded outflow tract [^2d5adb89]. Seminars in Dialysis (2005). Low credibility.
+### Salvage of a severely dysfunctional arteriovenous fistula with a strictured and occluded outflow tract [^112AExjJ]. Seminars in Dialysis (2005). Low credibility.
 
 Arteriovenous fistulas (AVFs) created for the purpose of hemodialysis are frequently lost due to various vascular lesions. Endovascular therapies with percutaneous transluminal balloon angioplasty have become very valuable in treating AVF dysfunction due to vascular stenosis. Experience with these therapies is relatively limited. In this case report, we present a patient with a severely dysfunctional AVF. The vascular lesions affecting his AVF were numerous and severe. We show how the application of aggressive endovascular treatment succeeded in restoring use of his AVF. Throughout the discussion we share observations and personal experiences that may be useful for interventionalists and health care practitioners involved with the maintenance, use, and treatment of dialysis vascular accesses.
 
 ---
 
-### Measuring the palpable pulsatility length as a physical examination test in defining the severity of inflow stenosis for hemodialysis fistulas [^403e7613]. BMC Nephrology (2019). Medium credibility.
+### Measuring the palpable pulsatility length as a physical examination test in defining the severity of inflow stenosis for hemodialysis fistulas [^112eFBsx]. BMC Nephrology (2019). Medium credibility.
 
 We agree with the contention that whether to treat a stenosis should be based on its hemodynamic impact on the AVF rather than the percentage narrowing detected by angiography. The gold standard for assessing the hemodynamic impact of a stenosis is to measure the volumetric flow rate of AVF (Qa) by the ultrasonic dilution technique. Tessitore et al. proposed that the optimal tests for identifying an inflow stenosis are Qa < 650 mL/min combined with a positive PE or Qa < 650 mL/min alone. However, given that Transonic hemodialysis monitors are not widely available in dialysis units, the augmentation test has been the only available tool that have been reported as useful for assessing AVF inflow problems.
 
@@ -432,7 +432,7 @@ In this study, we defined an inflow stenosis incurring a hemodynamical derangeme
 
 ---
 
-### UK kidney association clinical practice guideline on vascular access for haemodialysis [^f9ac5913]. BMC Nephrology (2025). Medium credibility.
+### UK kidney association clinical practice guideline on vascular access for haemodialysis [^117P9onA]. BMC Nephrology (2025). Medium credibility.
 
 Guideline 4. AV access problems
 
@@ -448,19 +448,19 @@ Guideline 4. AV access problems
 
 ---
 
-### Clinical practice guidelines for vascular access [^b09bd13e]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^115WqAAZ]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Detection of access dysfunction — fistula hemodynamics and surveillance implications using PIA/MAP are outlined: In fistulae, blood entering the venous system returns through multiple collateral veins; as a consequence, PIA/MAP in a fistula is, on average, less than in a graft and may not increase with outlet stenosis, so the test theoretically is less valuable as a surveillance tool for stenosis in fistulae; however, most elbow-level fistulae do not have or lose collaterals and often behave hemodynamically like grafts; in both fistula types, elevation of PIA/MAP indicates venous outflow stenosis and is associated with an increased probability of access failure or need for revision to provide adequate blood flow for hemodialysis (HD).
 
 ---
 
-### Clinical practice guidelines for vascular access [^b90a6a11]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^115jLD2G]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Detection of access dysfunction: monitoring, surveillance, and diagnostic testing — in hemodialysis access, dynamic venous pressure (DVP) at flows of 150 to 225 mL/min has limited or absent utility to predict stenosis or thrombosis in grafts, while flow measurements, duplex Doppler ultrasound (DDU) assessment for stenosis, and static pressure measurements can detect hemodynamically significant stenosis in grafts and fistulae. The Work Group believes there is insufficient evidence to suggest 1 surveillance technique as "preferred" or "acceptable". Recirculation is described as a relatively late predictor of access dysfunction and, if used, has a minor role in fistulae only, and non–urea-based recirculation measurements are very accurate but require specialized devices. Unexplained decreases in delivered dialysis dose measured by Kt/V or urea reduction ratio (URR) frequently are associated with venous outflow stenoses, but many other factors influence Kt/V and URR, making them less sensitive and less specific for detecting access dysfunction.
 
 ---
 
-### Can blood flow surveillance and pre-emptive repair of subclinical stenosis prolong the useful life of arteriovenous fistulae? A randomized controlled study [^1c00ba1e]. Nephrology, Dialysis, Transplantation (2004). Low credibility.
+### Can blood flow surveillance and pre-emptive repair of subclinical stenosis prolong the useful life of arteriovenous fistulae? A randomized controlled study [^111iWu49]. Nephrology, Dialysis, Transplantation (2004). Low credibility.
 
 Background
 
@@ -480,13 +480,13 @@ We provide evidence that active blood flow surveillance and pre-emptive repair o
 
 ---
 
-### Diagnosis of arteriovenous fistula dysfunction [^91df94dc]. Seminars in Dialysis (2012). Low credibility.
+### Diagnosis of arteriovenous fistula dysfunction [^114jGJaf]. Seminars in Dialysis (2012). Low credibility.
 
 Arteriovenous fistula (AVF) dysfunction remains a major contributor to the morbidity and mortality of hemodialysis patients. The failure of a newly created AVF to mature and development of stenosis in an established AVF are two common clinical predicaments. The goal is to identify a dysfunctional AVF early enough to intervene in a timely manner to either assist with the maturation process or to prevent thrombosis. The currently available tools in our armamentarium include clinical evaluation, physical examination of the AVF, and surveillance tests. Physical examination has been recognized as a simple and cost-effective tool, but is often not implemented either because of lack of training or time constraints. Surveillance tests include measurement of access flow or pressure as a surrogate marker of AVF dysfunction. Surveillance tests often require expensive equipment, additional personnel, and are controversial. Currently, there are guidelines and recommendations to include all of these measures while evaluating an AVF. Implementing judicious use of these tools in clinical practice can facilitate early diagnosis for timely intervention in the appropriate population. Furthermore, this strategy may avoid unnecessary interventions and assist with healthcare cost containment.
 
 ---
 
-### In search of an optimal bedside screening program for arteriovenous fistula stenosis [^9c92d916]. Clinical Journal of the American Society of Nephrology (2011). Low credibility.
+### In search of an optimal bedside screening program for arteriovenous fistula stenosis [^11518Pnu]. Clinical Journal of the American Society of Nephrology (2011). Low credibility.
 
 Background and Objectives
 
@@ -506,19 +506,19 @@ This study showed that fistula stenosis can be detected and located during dialy
 
 ---
 
-### Swing segment stenosis: an unresolved challenge [^8c917438]. Seminars in Dialysis (2022). Medium credibility.
+### Swing segment stenosis: an unresolved challenge [^114bQ88F]. Seminars in Dialysis (2022). Medium credibility.
 
 The native arteriovenous fistula is considered the gold standard among all dialysis access options. Compared with alternatives such as grafts and central venous catheters, their use is associated with a lower risk of infective and thrombotic complications. This leads to better patient outcomes and reduced healthcare-associated costs. Recognizing these advantages, there is a global drive to increase the creation and use of such fistulas in hemodialysis patients. Swing segment stenosis is a common problem encountered with the creation and use of these fistulas that can hurt their maturation and longevity. A "swing segment" in an arteriovenous fistula is defined as a segment of vein that pursues a sharp, curved course. Due to poorly understood reasons, these swing segments tend to develop stenotic lesions that are extremely challenging to treat. This review aims to provide an overview of the pathophysiology, incidence, management, and prevention of these swing segment lesions. We believe that such knowledge will be useful for clinicians who deal with dialysis access creation and maintenance.
 
 ---
 
-### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^4013578f]. Journal of Vascular Surgery (2008). Medium credibility.
+### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^112dzhrE]. Journal of Vascular Surgery (2008). Medium credibility.
 
 Arteriovenous access late thrombosis and intimal hyperplasia — lesion patterns and evaluation differ by access type: Prosthetic accesses have a much higher incidence of thrombosis and the access-specific stenotic lesion is more predictably found in a specific location, at the prosthetic venous anastomosis, whereas in autogenous accesses the stenosis can be located anywhere along the access vein used for needle puncture, and multiple stenoses are often present, and both can have stenoses along the venous outflow tract, including central veins on the same side. Because arterial lesions also contribute, evaluation of the arterial inflow from the central arteries to the artery providing inflow to the access is indicated if a venous etiology cannot be found or the quality of the arterial inflow is in question. Regarding prosthetic access failure pathophysiology, In > 90% of cases, prosthetic accesses failure is due to stenosis of the venous anastomosis, draining vein, or central vein.
 
 ---
 
-### Pre-emptive correction for haemodialysis arteriovenous access stenosis [^acd811cd]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
+### Pre-emptive correction for haemodialysis arteriovenous access stenosis [^115RFSqz]. The Cochrane Database of Systematic Reviews (2016). Low credibility.
 
 Background
 
@@ -550,31 +550,31 @@ Pre-emptive correction of a newly identified or known stenosis in a functional A
 
 ---
 
-### Stenosis complicating vascular access for hemodialysis: indications for treatment [^e156557a]. The Journal of Vascular Access (2013). Low credibility.
+### Stenosis complicating vascular access for hemodialysis: indications for treatment [^116m5DKw]. The Journal of Vascular Access (2013). Low credibility.
 
 The aim of the multidisciplinary team committed to the care of vascular access (VA) for hemodialysis is to prolong as much as possible the functional patency of the access. Stenosis is definitely the most frequent complication of arteriovenous VA. Whereas the best surveillance strategy is still a matter of debate, some evidence is now available about treatment indication and options. The available body of evidence on the best strategy facing this complication of VA is reviewed.
 
 ---
 
-### Clinical practice guidelines for vascular access [^92315830]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^114jjmTD]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Fistula surveillance — preferred and acceptable methods: Techniques, not mutually exclusive, that may be used in surveillance for stenosis in AVFs include preferred direct flow measurements (A), physical findings of persistent swelling of the arm, presence of collateral veins, prolonged bleeding after needle withdrawal, or altered characteristics of pulse or thrill in the outflow vein (B), and duplex ultrasound (A); acceptable methods include recirculation using a non-urea-based dilutional method (B) and static pressures (B), direct or derived (B).
 
 ---
 
-### Lower extremity arteriovenous fistula with central venous stenosis iliocaval stenting to treat venous outflow obstruction [^c95dc150]. Journal of Vascular Surgery (2011). Low credibility.
+### Lower extremity arteriovenous fistula with central venous stenosis iliocaval stenting to treat venous outflow obstruction [^1169Y199]. Journal of Vascular Surgery (2011). Low credibility.
 
 Maintenance of hemodialysis access for end-stage renal disease continues to be a major challenge for vascular surgeons, nephrologists, and primary care physicians. This case report highlights the complication and treatment of lower extremity central venous stenosis, allowing continued dialysis access for a patient with limited remaining fistula options. This stenosis resulted from the prolonged use of a lower extremity central venous catheter. This case highlights the importance of imaging the central veins in obstruction of lower extremity fistulas. Once detected, as in the upper extremity, this can be effectively treated using balloon dilation and stenting.
 
 ---
 
-### Clinical practice guidelines for vascular access [^e49a303a]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^116quy5s]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Hemodialysis vascular access surveillance — grafts and fistulae: An initially well-functioning graft with an access flow approaching 2 L/min (usually in the upper arm) decreases in flow as venous outflow stenosis progresses, with hemodynamic simulations showing flow decreases by less than 20% until a 40% to 50% decrease in luminal diameter, after which flow decreases rapidly as stenosis increases to 80%. Because the intimal hyperplasia process progresses with time, its detection requires sequential measurements of flow or pressure or both to detect a threshold at which action should be taken. Access recirculation in grafts is a late manifestation and a poor predictor, occurring in less than 20% of cases, and for this reason, the strong recommendation is made to avoid using recirculation measurements in grafts. In fistulae, recirculation occurs more frequently, with one study reporting about one third with significant recirculation using ultrasound dilution. When measured by the Fresenius Body Thermal Monitor (BTM), detection of fistulae requiring revision had a sensitivity of 81.8% and specificity of 98.6%, though the BTM method does not differentiate access from cardiopulmonary recirculation.
 
 ---
 
-### UK kidney association clinical practice guideline on vascular access for haemodialysis [^e5378a9a]. BMC Nephrology (2025). Medium credibility.
+### UK kidney association clinical practice guideline on vascular access for haemodialysis [^116rppZw]. BMC Nephrology (2025). Medium credibility.
 
 Guideline 7. Central venous stenosis
 
@@ -584,13 +584,13 @@ Guideline 7. Central venous stenosis
 
 ---
 
-### Con: vascular access surveillance in mature fistulas: is it worthwhile? [^658a2797]. Nephrology, Dialysis, Transplantation (2019). Medium credibility.
+### Con: vascular access surveillance in mature fistulas: is it worthwhile? [^113bY9w4]. Nephrology, Dialysis, Transplantation (2019). Medium credibility.
 
 The risks and benefits of hemodialysis arteriovenous (AV) access surveillance have been debated since the introduction of AV access surveillance techniques. The debate is fuelled by the lack of robust, high-quality evidence with consistent and comparable patient-important outcomes. Additionally, there is a lack of clarity regarding the diagnostic cut points for AV access stenosis using the various surveillance techniques, questions about the appropriateness of the 'knee-jerk' response to intervention on a stenosis > 50% regardless of the presence of clinical indicators and whether the intervention results in desired patient-important outcomes. The physiology of the AV access is complex considering the different hemodynamics within an AV fistula, which vary by time of dialysis, location, size of vessels and location of the stenosis. The current evidence suggests that the use of AV access surveillance in an AV fistula does detect more stenosis compared with clinical monitoring alone and leads to an increased number of procedures. It remains uncertain if that leads to improved patient-important outcomes such as prolonged AV fistula patency. Vascular access is an essential component of hemodialysis and further study is needed to clarify this long-standing debate. There needs to be better distinction between the strategies of vascular access surveillance, clinical monitoring with clinical indictors and preemptive intervention and their respective impacts on patient-important outcomes. Randomized controlled studies must be conducted with defined indications for intervention, reproducible methods of intervention and clinically important AV fistula and patient outcomes. The current guidelines need to be challenged and revised to permit these necessary studies to be done.
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^292eedc3]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^11244FoQ]. BMC Nephrology (2020). Medium credibility.
 
 PE has long been an access monitoring tool, and its role is to detect or diagnose stenosis when access dysfunction occurs during hemodialysis. However, PE can only provide "yes" or "no" answers regarding whether there is stenosis in the vascular access circuit. Thus, PE findings cannot be used to quantify the severity of the stenosis and cannot be used as a surveillance tool, because a treatment threshold cannot be set on the basis of such findings. In the present study, as an abnormal PE finding, PESOS indicates ≥ 75% outflow stenosis with high diagnostic accuracy. Moreover, critical PESOS patients have even more severe outflow stenosis (≥ 82%). The diagnostic accuracies of PESOS and critical PESOS for the detection of stenosis were both superior to those of abnormal thrill and pulsatility, as shown in Table 1.
 
@@ -605,7 +605,7 @@ The present study had some limitations. (1) It was a retrospective study with a 
 
 ---
 
-### Association of risk stratification score with dialysis vascular access stenosis [^f0eaaa4a]. The Journal of Vascular Access (2024). Medium credibility.
+### Association of risk stratification score with dialysis vascular access stenosis [^117AArHF]. The Journal of Vascular Access (2024). Medium credibility.
 
 Introduction
 
@@ -615,19 +615,19 @@ Hemodialysis vascular access complications are monitored by either direct clinic
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^c9a20d8a]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^1169vwgu]. American Journal of Kidney Diseases (2020). High credibility.
 
 Arteriovenous access flow dysfunction — monitoring/surveillance emphasizes that physical examination by an experienced individual has high sensitivity and specificity, is easily available, requires minimal training, is cost efficient, and takes minimal equipment and time, and has been used to detect access flow dysfunction (stenosis) in arteriovenous fistula (AVF) or arteriovenous graft (AVG). The value of physical examination is that if AV access flow dysfunction is suspected with appropriate matching clinical indicators, further investigation and preventive intervention (such as angioplasty) could be performed to improve outcomes, including preventing thrombosis. The rationale for surveillance is to detect and correct stenosis before the development of thrombosis to improve patency; clinical indicators include reduced dialysis clearance without other known cause, excessive bleeding after needle withdrawal, high venous and arterial pressures at the prescribed blood flow, and indicators on physical examination. Surveillance modalities studied include AV access flow (Qa) measurement by ultrasound dilution method (UDM) and duplex ultrasound to measure Qa and visualize anatomic abnormalities; dynamic and static venous pressure have also been used, with dynamic venous pressure measures now considered supplementary to clinical monitoring. Key questions posed address diagnostic value for detecting stenosis, validated surveillance thresholds (e.g. Qa, change in Qa/time) that accurately diagnose stenosis that will lead to future thrombosis, factors other than stenosis contributing to abnormal surveillance indicators, and appropriate intervention when stenosis is detected by surveillance in the absence of clinical indicators.
 
 ---
 
-### Sonography of arteriovenous fistulas and grafts [^ce20bf7e]. Seminars in Dialysis (2017). Low credibility.
+### Sonography of arteriovenous fistulas and grafts [^116GbT33]. Seminars in Dialysis (2017). Low credibility.
 
 Arteriovenous fistulas (AVFs) and arteriovenous grafts (AVGs) are the vascular accesses of choice for long-term hemodialysis. Strategies to establish and maintain functioning AVFs and AVGs are essential. In addition to clinical evaluation, ultrasound plays a critical role in the evaluation and maintenance of AVFs and AVGs. AVFs have a high rate of failure to mature which can be reliably diagnosed with ultrasound. Treatable etiologies of the failure to mature can often be diagnosed with ultrasound. Causes of secondary AVG failure can also be diagnosed with ultrasound and treated. AVGs have a relatively short functional life expectancy due to a high rate of AVG thrombosis. Ultrasound is a safe, noninvasive way to diagnose vascular stenosis in both AVFs and AVGs prior to thrombosis, potentially saving the access. Routine surveillance ultrasound of asymptomatic AVFs and AVGs is controversial with conflicting studies on its benefit. Routine surveillance ultrasound of AVFs and AVGs is not common practice.
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^f40faa45]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^117EqEwe]. BMC Nephrology (2020). Medium credibility.
 
 Definitions
 
@@ -637,13 +637,13 @@ The AVF outflow score was derived as follows. Hyper-pulsation upon palpation is 
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^e183e432]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^116mLWrm]. American Journal of Kidney Diseases (2020). High credibility.
 
 KDOQI Guideline 15 — general treatment of clinically significant stenosis or thrombosed AV access — considers it reasonable to use a careful individualized approach to treating failing or thrombosed arteriovenous fistula (AVF) and arteriovenous graft (AVG), surgical or endovascular, based on the operator's best clinical judgment and expertise and considering the patient's ESKD Life-Plan (Expert Opinion).
 
 ---
 
-### Should current criteria for detecting and repairing arteriovenous fistula stenosis be reconsidered? Interim analysis of a randomized controlled trial [^57d51afe]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
+### Should current criteria for detecting and repairing arteriovenous fistula stenosis be reconsidered? Interim analysis of a randomized controlled trial [^113FDW9T]. Nephrology, Dialysis, Transplantation (2014). Low credibility.
 
 Background
 
@@ -663,7 +663,7 @@ Our interim analysis showed that elective repair of subclinical stenosis in AVFs
 
 ---
 
-### Real-world outcomes of 600 drug-coated balloon angioplasties [^cb4315d4]. The Journal of Vascular Access (2025). Medium credibility.
+### Real-world outcomes of 600 drug-coated balloon angioplasties [^116CM28j]. The Journal of Vascular Access (2025). Medium credibility.
 
 Introduction
 
@@ -683,7 +683,7 @@ Drug-coated balloon angioplasty is a safe and effective treatment for vascular a
 
 ---
 
-### Bedside screening for fistula stenosis should be tailored to the site of the arteriovenous anastomosis [^a95ef6b0]. Clinical Journal of the American Society of Nephrology (2011). Low credibility.
+### Bedside screening for fistula stenosis should be tailored to the site of the arteriovenous anastomosis [^115L6ofd]. Clinical Journal of the American Society of Nephrology (2011). Low credibility.
 
 Background and Objectives
 
@@ -703,25 +703,25 @@ Our study shows that an effective bedside screening program with ≥ 85% accurac
 
 ---
 
-### Endovascular management of the "failing to mature" arteriovenous fistula [^b15e2205]. Techniques in Vascular and Interventional Radiology (2008). Low credibility.
+### Endovascular management of the "failing to mature" arteriovenous fistula [^115XxRji]. Techniques in Vascular and Interventional Radiology (2008). Low credibility.
 
 The "failing to mature" arteriovenous fistula (AVF) is frequently encountered among patients in need of hemodialysis (HD). It is essential that its prompt recognition and management are conducted in a timely manner to allow its use in HD. The physical examination is essential in early identification of the "failing to mature" AVF and helps guide initial endovascular management. In most instances, endovascular evaluation successfully identifies all the lesions that have contributed to AVF derangement and retarded its proper maturation. It is common to find juxta-arterial stenosis as well as venous stenosis in the body of the AVF, or its venous outflow tract. However, a wide spectrum of lesions can be seen, and in many instances, multiple lesions coexist in the same deranged AVF. Identifying and understanding the impact of all the lesions is a prerequisite for any intervention. Balloon angioplasty is the mainstay of management of stenotic lesions. Accessory vein obliteration or ligation is necessary in some cases. Procedure-related complications are low and are reduced by caution and experience. Overall, endovascular management is successful in converting the "failing to mature" AVF to usable HD access in the majority of cases, but multiple interventions may be needed in some before the AVF can be used for HD. Once usable, these AVFs have good long-term assisted patency rates. When endovascular management is unsuccessful or not possible, surgical revision of the AVF, or creation of a new AV vascular access is necessary.
 
 ---
 
-### Endovascular treatment to boost AV fistula maturation [^e2719356]. The Journal of Vascular Access (2017). Low credibility.
+### Endovascular treatment to boost AV fistula maturation [^116niMKT]. The Journal of Vascular Access (2017). Low credibility.
 
 Impaired fistula maturation is associated with puncture-related complications, insufficient dialysis and potential permanent access failure. Non-maturation is frequently initiated by stenotic vascular access vessels comprising the outflow veins, the arteriovenous anastomosis and infrequently the inflow artery. Further findings in maturation protraction are central venous stenoses or accessory outflow veins. Depending on the underlying pathology, several endovascular approaches to boost fistula maturation are possible. To date standard balloon angioplasty remains the primary proven treatment option.
 
 ---
 
-### Clinical practice guidelines for vascular access [^1dbcacbd]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^111m61rU]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Static pressure interpretation in hemodialysis vascular access — venous outlet stenosis detection and thresholds are outlined: venous outlet stenosis can be detected with venous PIA alone, and trend analysis is more useful than any single measurement. Detection of intra-access lesions requires simultaneous measurement of pressures from both the arterial and venous needles. Equivalence criteria must be met on each of 2 consecutive weeks to have a high likelihood of a 50% diameter lesion. Patients who develop a progressive and reproducible increase in venous or arterial segment greater than 0.25 units more than their previous baseline are likely to have a hemodynamically significant lesion. Intra-access strictures are characterized by a difference between the arterial and venous pressure ratios greater than 0.5 in grafts or greater than 0.3 in native fistulae, and sequential measurement of conductance at maximum prepump pressure permitted by the system can detect fistula dysfunction and stenosis.
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^5614813d]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^113Ccphi]. BMC Nephrology (2020). Medium credibility.
 
 By integrating the pulsation and stenosis-related thrill characteristic changes, and considering the gravity-enhanced flow acceleration, we developed a PE-based outflow score (Fig. 1) that allowed us to categorize the severity of the outflow stenosis. Within this outflow score, PESOS represents the most severe outflow stenosis that can be detected by PE, whereas a score of 3 indicates good flow status of an AVF, which can usually be detected immediately after successful angioplasty. Thus, although the " PESOS" designation does not refer to "anatomical" stenosis, it is one of the categories included in the AVF outflow score. PESOS was defined as the "lack of thrill in a pulsatile segment of the access outflow when the access-bearing arm was being elevated".
 
@@ -735,13 +735,13 @@ Roadmap angiograms of an AVF with a significant collateral vein (left) and a sma
 
 ---
 
-### Endovascular tools for vascular access stenosis: flow-chart proposal [^ab00e3b1]. The Journal of Vascular Access (2025). Medium credibility.
+### Endovascular tools for vascular access stenosis: flow-chart proposal [^115NXBWx]. The Journal of Vascular Access (2025). Medium credibility.
 
 Stenosis represents the most relevant arteriovenous fistula (AVF) pathology and can affects the entire conduit forming the fistula, from afferent artery to central venous vessels. Correction of vascular access stenosis significantly affects the survival and quality of life for end stage renal disease patients (ESRD) dependent on hemodialysis. Guidelines consider the procedure of percutaneous transluminal angioplasty (PTA) relevant for the primary treatment of these lesions with excellent results in restoring AVF immediately at the end of the procedure. From first AVF angioplasty in 1981 to now, wide scientific innovation has led to development of new devices, composed by different materials and technologies, specific for the site and the type of stenosis to be treated, able to manage resistant stenotic lesion and to reduce stenosis recurrences. International guidelines do not clearly specify all treatment possibilities in the individual case. In this review the authors want to provide specific information on most used devices for stenosis treatment based on literature evidence, showing when and where to use the various tools available with flow-chart treatment proposal.
 
 ---
 
-### The role of Doppler ultrasonography in vascular access surveillance-controversies continue [^e8db6431]. The Journal of Vascular Access (2021). Medium credibility.
+### The role of Doppler ultrasonography in vascular access surveillance-controversies continue [^116xDpU8]. The Journal of Vascular Access (2021). Medium credibility.
 
 Introduction
 
@@ -751,7 +751,7 @@ Stenosis is a vessel narrowing that could cause significant pressure drop and fl
 
 ---
 
-### Hemodynamically significant arterial inflow stenosis in dysfunctional hemodialysis arteriovenous fistulae and grafts [^ea5dfdbd]. The Journal of Vascular Access (2012). Low credibility.
+### Hemodynamically significant arterial inflow stenosis in dysfunctional hemodialysis arteriovenous fistulae and grafts [^116zTg3E]. The Journal of Vascular Access (2012). Low credibility.
 
 Purpose
 
@@ -771,7 +771,7 @@ Hemodynamically significant arterial inflow stenosis occurs and can be detected 
 
 ---
 
-### Measuring the palpable pulsatility length as a physical examination test in defining the severity of inflow stenosis for hemodialysis fistulas [^31c754d0]. BMC Nephrology (2019). Medium credibility.
+### Measuring the palpable pulsatility length as a physical examination test in defining the severity of inflow stenosis for hemodialysis fistulas [^112GoM6X]. BMC Nephrology (2019). Medium credibility.
 
 Conclusions
 
@@ -779,25 +779,25 @@ PPL and API are potentially useful tools in defining the severity of pure inflow
 
 ---
 
-### Clinical practice guidelines for vascular access [^1b16fdd5]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^111hAPXA]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Guidelines for vascular access — Table 5 access physical examination outlines normal and abnormal findings when clinicians look, listen, and feel the access. On inspection of a fistula, normal features include a well developed main venous outflow with areas of straight vein usable for cannulation and the vessel partially collapses when the arm is elevated above head, while a normal arteriovenous graft (AVG) is a uniform sized graft in loop or straight configuration without irregular areas or aneurysm formations. Abnormal visual findings suggesting poor maturation include a fistula with poor maturation — multiple venous outflow veins (accessory veins), poorly defined cannulation areas, and infection signs such as redness, swelling, broken skin, drainage, induration; steal syndrome may show the hand of the access limb discolored due to lack of arterial blood flow with nail bed and skin color changes. On auscultation, a normal bruit is low pitch continuous diastolic and systolic, whereas stenosis presents as high pitch discontinuous systolic only. On palpation, a normal fistula has a thrill at the arterial anastomosis and throughout the entire outflow vein that is easy to compress and a normal AVG has a thrill strongest at the arterial anastomosis but felt over the entire graft and easy to compress; stenosis in a fistula can present as a pulse at the site of a stenotic lesion with a water-hammer feel, infection may be warm to touch with swelling, and for suspected steal syndrome clinicians should feel bilateral limbs and compare temperature, grip strength, range of motion, and any complaint of pain.
 
 ---
 
-### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^57cf0ded]. Journal of Vascular Surgery (2008). Medium credibility.
+### The Society for Vascular Surgery: clinical practice guidelines for the surgical placement and maintenance of arteriovenous hemodialysis access [^113FBUGC]. Journal of Vascular Surgery (2008). Medium credibility.
 
 Hemodialysis access stenosis — KDOQI Guidelines: The KDOQI Guidelines recommend that stenoses in prosthetic or autogenous accesses should be treated prophylactically with percutaneous transluminal angioplasty or surgical revision if the stenosis is > 50% of the lumen diameter and is associated with clinical/physiologic abnormalities. Once access occlusion occurs, prolonged patency is unusual, and the venous anastomotic lesion of an AV graft is a proliferative vascular lesion that is difficult to dilate and has a very high recurrence rate; moreover, the injury caused by angioplasty of the stenotic lesion can itself promote accelerated neointimal hyperplasia.
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^5e25fd9c]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^113QabcF]. American Journal of Kidney Diseases (2020). High credibility.
 
 Arteriovenous fistula (AVF) maturation assessment — clinical examination and ultrasound criteria: An experienced and knowledgeable member of the vascular access team can accurately assess maturity in most AVFs at 4 weeks after creation, and experienced dialysis nurses were able to predict with 80% accuracy the ability to use AVFs for dialysis. Minimum ultrasound criteria have been established to include AVF internal diameter, 4–5 mm; depth of AVF from skin, ≤ 6 mm; and blood flow (brachial artery and AVF blood flow, 400–500 mL/min). Should a correctable cause for AVF immaturity be found (eg, culprit stenosis or collateral vessels), this should be corrected in a timely manner to facilitate AV access maturation.
 
 ---
 
-### Percutaneous transluminal angioplasty… [^6c4d5211]. JAMA Network (2025). Excellent credibility.
+### Percutaneous transluminal angioplasty… [^113mZdmA]. JAMA Network (2025). Excellent credibility.
 
 - A prosthetic arteriovenous fistula is often necessary in patients with chronic renal failure who lack suitable venous anatomy for the construction of an autogenous AV access. Not infrequently, these conduits fail as a result of neointimal hyperplasia obstructing the outflow tract at the venous anastomosis. Six patients underwent one or more attempts at balloon dilation of an anastomotic stenosis. Grafts had either thrombosed, exhibited poor arterial inflow, or developed high venous pressures. Eight of ten dilations were outright failures, while two dilations each provided an additional three months of graft function before surgical revision became necessary. We conclude that percutaneous transluminal angioplasty is of very limited value as a salvage procedure in the failing synthetic vascular access, and should be attempted only as a possible temporizing measure in those individuals in whom definitive surgical correction must be delayed.
 
@@ -805,31 +805,31 @@ Tortolani EC, Tan AHS, Butchart S. Percutaneous Transluminal Angioplasty: An Ine
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^908e1ed3]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^114hJxJv]. American Journal of Kidney Diseases (2020). High credibility.
 
 KDOQI 2019 vascular access — physical examination accuracy for arteriovenous fistula (AVF) dysfunction compares clinical exam with angiography and reports moderate agreement for general nephrologists (kappa = 0.49; 95% CI, 0.40–0.57) and near‑perfect agreement for a trained nephrology resident (kappa = 0.86; 95% CI, 0.77–0.95); in Asif et al (n = 147), exam by an interventional nephrologist showed poor accuracy for central vein and AVF body stenosis, moderate for inflow and coexisting inflow/outflow stenosis, and good for outflow stenosis, with stenosis by angiography defined as 50% luminal narrowing compared with the adjacent normal segment.
 
 ---
 
-### Clinical practice guidelines for vascular access [^fd6b9c33]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^117Ui1iJ]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Arteriovenous fistula (AVF) venous stenosis — management outcomes and surveillance: Treatment of hemodynamically significant venous stenosis prolongs the use-life of the AVF, and a study of 32 patients and 30 controls showed a beneficial effect on AVF survival of prophylactic angioplasty of stenoses. In a larger cohort over 5 years, preemptive treatment decreased the failure rate (P = 0.003), and treatment (P = 0.009) and greater baseline access flow (P = 0.001) were the only variables associated with favorable outcome. In a population of 120 patients with AVFs, UDT measurements were reproducible and highly accurate in detecting stenosis and predicting thrombosis in forearm AVFs. In AVFs, 75% of stenoses producing low flow are at or near the AV anastomosis and 25% are in the outflow track.
 
 ---
 
-### Clinical practice guidelines for vascular access [^eeedfb7e]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^1177DzLm]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Vascular access — angioplasty for AVF stenosis notes that dilation often is painful and may need local anesthesia; outflow venous stenosis may be "rock hard" and require high-pressure balloons (bursting pressures of 25 to 30 atmospheres) with more prolonged inflation, while resistant stenoses are less common, usually less than 1% in forearm and 5% of upper-arm fistulae. The degree of residual effacement tolerated varies, with some demanding no residual unless it is the first PTA ever done; there is no convincing proof that such lesions respond better to cutting balloons because studies have been small and not prospective, and the Work Group recommends that high-pressure balloons be used first because cutting devices have not been tested adequately.
 
 ---
 
-### The role of Doppler ultrasonography in vascular access surveillance-controversies continue [^5865f4ab]. The Journal of Vascular Access (2021). Medium credibility.
+### The role of Doppler ultrasonography in vascular access surveillance-controversies continue [^113G4A4J]. The Journal of Vascular Access (2021). Medium credibility.
 
 Chronic hemodialysis therapy required regular entry into the patient's blood stream with adequate flow. The use of arteriovenous fistulas and grafts is linked with lower morbidity and mortality than the use of catheters. However, these types of accesses are frequently affected by stenoses, which decrease the flow and lead to both inadequate dialysis and access thrombosis. The idea of duplex Doppler ultrasound surveillance is based on the presumption that in-time diagnosis of an asymptomatic significant stenosis and its treatment prolongs access patency. Details of performed trials are conflicting, and current guidelines do not support ultrasound surveillance. This review article summarizes the trials performed and focuses on the reasons of conflicting results. We stress the need of precise standardized criteria of significant access stenosis and the weakness of the metaanalyses performed.
 
 ---
 
-### Should all inflow stenoses be treated in failing autogenous hemodialysis fistulae? [^6eb1a85d]. Journal of Vascular and Interventional Radiology (2014). Low credibility.
+### Should all inflow stenoses be treated in failing autogenous hemodialysis fistulae? [^113q7K3r]. Journal of Vascular and Interventional Radiology (2014). Low credibility.
 
 Purpose
 
@@ -849,7 +849,7 @@ Angioplasty of inflow stenosis in failing autogenous fistulae without an appropr
 
 ---
 
-### Interventions for thrombosed haemodialysis arteriovenous fistulas and grafts [^d49cfef1]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
+### Interventions for thrombosed haemodialysis arteriovenous fistulas and grafts [^116SD7Gc]. The Cochrane Database of Systematic Reviews (2024). Medium credibility.
 
 Background
 
@@ -881,13 +881,13 @@ It remains unclear whether any intervention therapy affects the patency at 30 da
 
 ---
 
-### Cephalic arch stenosis [^567ab1a7]. Seminars in Dialysis (2007). Low credibility.
+### Cephalic arch stenosis [^113DD9WN]. Seminars in Dialysis (2007). Low credibility.
 
 The Kidney Dialysis Outcomes Quality Initiative guidelines and the Fistula First Initiative for vascular access have had a measurable impact on the incidence and prevalence of the type of access used to deliver hemodialysis in the United States. There has been a yearly increase in the placement of arteriovenous fistulas and an exponential increase in endovascular treatment of failing and immature fistulas. Undoubtedly, the predominant cause of fistula malfunction is stenosis within the access system. The stenotic lesions can occur anywhere within the access system from the arteries to the outflow and central veins. One of the relatively common sites for stenosis in patients with brachiocephalic fistulas is the cephalic arch region. While access stenoses at many other sites have been successfully treated with percutaneous balloon angioplasty, the results of this approach in the management of cephalic arch stenosis (CAS) have been rather disappointing. This has been in part due to multiple factors including the resistant nature of the stenosis, the development of early restenosis, as well as poor patency and high vein rupture rates. This article discusses the anatomy, postulated etiology and percutaneous interventions for the treatment of CAS. In addition, the report highlights surgical alternatives to the management of stenosis in this segment of the cephalic vein.
 
 ---
 
-### Evaluating and treating venous outflow stenoses is necessary for the successful open surgical treatment of arteriovenous fistula aneurysms [^09c2b201]. Journal of Vascular Surgery (2015). Low credibility.
+### Evaluating and treating venous outflow stenoses is necessary for the successful open surgical treatment of arteriovenous fistula aneurysms [^111FUHWQ]. Journal of Vascular Surgery (2015). Low credibility.
 
 Background
 
@@ -907,7 +907,7 @@ There is a high association of venous outflow stenoses and AVFA. Comprehensive t
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^8a523f95]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^114Y4vDa]. BMC Nephrology (2020). Medium credibility.
 
 Background
 
@@ -927,13 +927,13 @@ PESOS can be used to diagnose ≥ 75% outflow stenosis in an AVF, with or withou
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^f4bbb8ed]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^117Fq2tU]. American Journal of Kidney Diseases (2020). High credibility.
 
 Guideline 15 — high-pressure balloon angioplasty for clinically significant arteriovenous (AV) access stenosis states that, aside from special circumstances, standard high-pressure balloon angioplasty remains the treatment of choice for the majority of anatomic and clinically significant AV access stenotic lesions; a clinically significant AV access stenotic lesion is one that is accompanied by clinical signs and symptoms and shows > 50% narrowing relative to adjacent normal vein diameter by angiography or ultrasound. Re-stenoses at the initial lesion or elsewhere in the previously treated dialysis circuit occurs up to 60% of the time at 6 months.
 
 ---
 
-### Safety and efficacy of a new covered stent in hemodialysis vascular access outflow stenosis: a Brazilian multicenter retrospective study [^2e913949]. The Journal of Vascular Access (2025). Medium credibility.
+### Safety and efficacy of a new covered stent in hemodialysis vascular access outflow stenosis: a Brazilian multicenter retrospective study [^112C3D9i]. The Journal of Vascular Access (2025). Medium credibility.
 
 Introduction
 
@@ -947,19 +947,19 @@ The use of stent grafts (i.e. covered stents or endoprostheses) has gained signi
 
 ---
 
-### Clinical practice guidelines for vascular access [^e2eb992e]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^116oRLWq]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Hemodynamically significant venous stenosis — The commonly used parameter to characterize hemodynamic relevance is a reduction in vessel diameter exceeding 50% based on angiographic and/or ultrasonographic findings. Because it may be difficult to describe reliably the percentage of narrowing in a native vein due to prestenotic and/or poststenotic aneurysmic enlargement, the hemodynamic relevance of a 50% stenosis in a native AVF therefore should be supported by clinical symptoms, abnormal physical findings, and flow measurements.
 
 ---
 
-### Clinical practice guidelines for vascular access [^0636642f]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^111ADCKY]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Guideline 5 rationale — initial problems describes that physiological swelling disappears within the first week; that persistent swelling requires further attention to exclude major outflow obstruction and noninvasive ultrasound examination helps confirm extravasations and hematomas or purulent infiltrations, as well as strictures/stenoses of the venous outflow tract; that DDU is the preferred diagnostic method because it avoids diagnostic cannulation of the newly created AVF; that if a stenosis is found, it should be treated with a balloon angioplasty; and that persistent hand edema usually follows a side-to-side anastomosis and the lesion should be treated early by ligation of the tributaries.
 
 ---
 
-### Dialysis access maintenance: plain balloon angioplasty [^a039f817]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
+### Dialysis access maintenance: plain balloon angioplasty [^1156YVRG]. Cardiovascular and Interventional Radiology (2023). Medium credibility.
 
 Introduction
 
@@ -969,19 +969,19 @@ Plain balloon angioplasty (PBA), typically with high-pressure balloons, is consi
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^3c744e33]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^112YdKir]. American Journal of Kidney Diseases (2020). High credibility.
 
 Routine physical examination monitoring for arteriovenous fistula (AVF) and arteriovenous graft (AVG) outlines normal findings and abnormalities suggestive of flow-related dysfunction. Normal appearance includes a well-developed main venous outflow with no irregular/dilated areas or aneurysm formations for AVF, and a uniform-sized graft in a loop or straight configuration with no irregular areas or aneurysm or seroma formations for AVG. Abnormal visual signs include AVF with poor maturation with multiple venous outflow veins draining or poorly defined cannulation areas; stenosis indicators include narrowing of the outflow vein, abnormal pulsations, or aneurysm formations; and dilated neck veins or surface collateral veins above the vascular access. On auscultation, normal is low-pitch continuous diastolic and systolic, whereas dysfunction presents as high-pitch discontinuous systolic only; steal syndrome in AVF may have a very strong bruit. On palpation, normal includes a thrill at the arterial anastomosis and throughout the entire outflow vein that is easy to compress for AVF and a thrill strongest at the arterial anastomosis but felt over the entire graft for AVG; with stenosis, a pulse at the lesion may be water-hammer in quality and feel, and in AVG a low intra-access blood flow feels mushy.
 
 ---
 
-### Intimal hyperplasia, stenosis, and arteriovenous fistula maturation failure in the hemodialysis fistula maturation study [^e433bd29]. Journal of the American Society of Nephrology (2017). Low credibility.
+### Intimal hyperplasia, stenosis, and arteriovenous fistula maturation failure in the hemodialysis fistula maturation study [^116qKZD2]. Journal of the American Society of Nephrology (2017). Low credibility.
 
 Intimal hyperplasia and stenosis are often cited as causes of arteriovenous fistula maturation failure, but definitive evidence is lacking. We examined the associations among preexisting venous intimal hyperplasia, fistula venous stenosis after creation, and clinical maturation failure. The Hemodialysis Fistula Maturation Study prospectively observed 602 men and women through arteriovenous fistula creation surgery and their postoperative course. A segment of the vein used to create the fistula was collected intraoperatively for histomorphometric examination. On ultrasounds performed 1 day and 2 and 6 weeks after fistula creation, we assessed fistula venous stenosis using pre-specified criteria on the basis of ratios of luminal diameters and peak blood flow velocities at certain locations along the vessel. We determined fistula clinical maturation using criteria for usability during dialysis. Preexisting venous intimal hyperplasia, expressed per 10% increase in a hyperplasia index (range of 0%-100%), modestly associated with lower fistula blood flow rate (relative change, -2.5%; 95% confidence interval [95% CI], -4.6% to -0.4%; P = 0.02) at 6 weeks but did not significantly associate with stenosis (odds ratio [OR], 1.07; 95% CI, 1.00 to 1.16; P = 0.07) at 6 weeks or failure to mature clinically without procedural assistance (OR, 1.07; 95% CI, 0.99 to 1.15; P = 0.07). Fistula venous stenosis at 6 weeks associated with maturation failure (OR, 1.98; 95% CI, 1.25 to 3.12; P = 0.004) after controlling for case mix factors, dialysis status, and fistula location. These findings suggest that postoperative fistula venous stenosis associates with fistula maturation failure. Preoperative venous hyperplasia may associate with maturation failure but if so, only modestly.
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^fe5ce20d]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^117W745z]. BMC Nephrology (2020). Medium credibility.
 
 Hypothesis 2
 
@@ -1004,25 +1004,25 @@ Comparisons of between critical PESOS and non-critical PESOS
 
 ---
 
-### Clinical practice guidelines for vascular access [^347ee215]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^112LpyY8]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Vascular access monitoring program — surveillance scope and data management: Prospective surveillance of fistulae and grafts for hemodynamically significant stenosis, when combined with correction of the anatomic stenosis, may improve patency rates and may decrease the incidence of thrombosis, and the Work Group recommends an organized monitoring/surveillance approach with regular assessment of clinical parameters of the arteriovenous (AV) access and hemodialysis (HD) adequacy; data from the clinical assessment and HD adequacy measurements should be collected and maintained for each patient's access and made available to all staff, and the data should be tabulated and tracked within each HD center as part of a Quality Assurance (QA)/CQI program.
 
 ---
 
-### KDOQI clinical practice guideline for vascular access: 2019 update [^57704930]. American Journal of Kidney Diseases (2020). High credibility.
+### KDOQI clinical practice guideline for vascular access: 2019 update [^113Ede2K]. American Journal of Kidney Diseases (2020). High credibility.
 
 KDOQI 2019 vascular access — Arteriovenous fistula (AVF) and arteriovenous graft (AVG) stenosis burden and the role of percutaneous transluminal angioplasty (PTA) — notes high dysfunction rates and continued use of angioplasty. A multicenter randomized controlled trial found that up to 60% of AVFs failed to mature, and AVGs have graft–vein junction stenosis leading to thrombosis in 80% of AVGs. Regarding therapy, the guideline states that PTA is the first-line treatment for stenosis in the access circuit and that this generally remains the case, while acknowledging evolving trials and devices that may alter indications and device selection.
 
 ---
 
-### The role of surveillance in mature arteriovenous fistula management [^dd7d55ac]. The Journal of Vascular Access (2006). Low credibility.
+### The role of surveillance in mature arteriovenous fistula management [^116fNMzj]. The Journal of Vascular Access (2006). Low credibility.
 
 The existing guidelines recommend arteriovenous fistulae (AVF) surveillance by access blood flow (Qa) measurement and the correction of hemodynamically significant stenoses to prolong access survival. Unfortunately, many studies supporting these recommendations are inadequate methodologically; therefore, both the optimal criteria for surveillance and the value of preventive stenosis repair in AVF remain controversial. Recent literature confirms that Qa measurement allows an accurate identification of both stenosis (area under the curve (AUC) ranging from 0.80–0.93) and access at risk of failure (AUC ranging from 0.82–0.98) in AVFs and suggests a Qa < 700–1000 ml/min and/or a reduction in Qa > 25% as optimal predictors for stenosis and a Qa < 400 ml/min for incipient thrombosis. Recent prospective studies evaluated whether Qa surveillance could improve AVF patency rates compared to monitoring based on clinical and dialysis-related criteria alone. The majority of studies have historical, rather than concurrent, control groups and provide conflicting results, some showing a reduction and some showing no change in thrombosis rates by Qa monitoring. On the other hand, the few randomized controlled studies available show that Qa surveillance, when coupled with preemptive intervention, reduces the already low thrombosis rate in AVF and suggest that the functional access life can be prolonged. However, there is still the need for additional methodologically adequate studies to understand fully the role of surveillance in AVF management.
 
 ---
 
-### Medial claviculectomy for the treatment of recalcitrant central venous stenosis of hemodialysis patients [^891a9f07]. Journal of Vascular Surgery: Venous and Lymphatic Disorders (2019). Medium credibility.
+### Medial claviculectomy for the treatment of recalcitrant central venous stenosis of hemodialysis patients [^114WGFEN]. Journal of Vascular Surgery: Venous and Lymphatic Disorders (2019). Medium credibility.
 
 Objective
 
@@ -1042,13 +1042,13 @@ Medial claviculectomy is an effective treatment of recalcitrant central venous s
 
 ---
 
-### Clinical practice guidelines for vascular access [^6dc2af86]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^113oj3Vw]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Guideline 6 — Treatment criteria for stenosis without thrombosis in arteriovenous grafts: Stenoses associated with AVGs should be treated with angioplasty or surgical revision if the lesion causes a greater than 50% decrease in the luminal diameter and is associated with abnormal physical findings (B), decreasing intragraft blood flow (< 600 mL/min) (B), or elevated static pressure within the graft (B).
 
 ---
 
-### Association of risk stratification score with dialysis vascular access stenosis [^f34d8ea9]. The Journal of Vascular Access (2024). Medium credibility.
+### Association of risk stratification score with dialysis vascular access stenosis [^117Di3RA]. The Journal of Vascular Access (2024). Medium credibility.
 
 Discussion
 
@@ -1058,7 +1058,7 @@ A brief discussion on clinical monitoring strategy with its inherent limitations
 
 ---
 
-### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^2b6754f7]. BMC Nephrology (2020). Medium credibility.
+### Quantification of the severity of outflow stenosis of hemodialysis fistulas with a pulse-and thrill-based scoring system [^1127MBBk]. BMC Nephrology (2020). Medium credibility.
 
 Hypothesis 1
 
@@ -1078,19 +1078,19 @@ Comparisons of Doppler flow parameters (PSV, EDV, TAMEAN, PI, and RI) and percen
 
 ---
 
-### Dialysis arteriovenous access monitoring and surveillance according to the 2017 Spanish guidelines [^6aadf1fe]. The Journal of Vascular Access (2018). Low credibility.
+### Dialysis arteriovenous access monitoring and surveillance according to the 2017 Spanish guidelines [^113jA7bj]. The Journal of Vascular Access (2018). Low credibility.
 
 The Spanish Multidisciplinary Group on Vascular Access (GEMAV), which includes experts from the five scientific societies involved (nephrology (S.E.N.), vascular surgery (SEACV), interventional radiology (SERAM-SERVEI), infectious diseases (SEIMC), and nephrology nursing (SEDEN)), along with the methodological support of the Iberoamerican Cochrane Centre, has developed the Spanish Clinical Guidelines on Vascular Access for Hemodialysis. This article summarizes the main issues from the guideline's chapter entitled "Monitoring and surveillance of arteriovenous access". We will analyze the current evidence on conflicting topics such as the value of the flow-based screening methods for the arteriovenous access surveillance or the role of Doppler ultrasound as the imaging exploration to confirm suspected stenosis. In addition, the concept of significant stenosis and the criteria to perform the elective intervention for stenosis were reviewed. The adoption of these guidelines will hopefully translate into a reduced risk of thrombosis and increased patency rates for both arteriovenous fistulas and grafts.
 
 ---
 
-### ACR appropriateness criteria® dialysis fistula malfunction [^e6154617]. Journal of the American College of Radiology (2023). High credibility.
+### ACR appropriateness criteria® dialysis fistula malfunction [^116t7JGE]. Journal of the American College of Radiology (2023). High credibility.
 
 Regarding therapeutic procedures for chronic kidney disease, more specifically with respect to RRT (evaluation of fistula malfunction), ACR 2023 guidelines recommend to consider obtaining fluoroscopy fistulography and duplex ultrasound duplex of the hemodialysis access in patients with suspected vascular steal syndrome in the upper or lower extremity, suggested by cardiac failure or ischemic symptoms.
 
 ---
 
-### Inflow stenosis obscures recognition of outflow stenosis by dialysis venous pressure: analysis by a mathematical model [^669f26fb]. Nephrology, Dialysis, Transplantation (2008). Low credibility.
+### Inflow stenosis obscures recognition of outflow stenosis by dialysis venous pressure: analysis by a mathematical model [^113d9CHG]. Nephrology, Dialysis, Transplantation (2008). Low credibility.
 
 Background
 
@@ -1110,6 +1110,6 @@ Inflow stenosis exerts its most important haemodynamic effect through its intera
 
 ---
 
-### Clinical practice guidelines for vascular access [^f6d8cf78]. American Journal of Kidney Diseases (2006). Medium credibility.
+### Clinical practice guidelines for vascular access [^117Jxn8f]. American Journal of Kidney Diseases (2006). Medium credibility.
 
 Hemodialysis access stenosis evaluation and treatment — When a test indicates the likely presence of a stenosis, angiography should be used to definitively establish the presence and degree of stenosis, and the Work Group is in agreement with the Society for Interventional Radiology, which recommends angioplasty if the stenosis is greater than 50% by diameter. There have been no large-scale trials to determine whether correction of only hemodynamically significant lesions is superior to correction of all stenosis greater than 50%, and at the time of intervention, hemodynamic evaluation of each stenosis generally is not carried out. Until such studies are conducted, the Work Group believes that the value of routine use of any technique for detecting anatomic stenosis alone — without concomitant measurement of access flow, venous pressure, recirculation, or other physiological parameters — has not been established. Stenotic lesions should not be repaired merely because they are present, and if such correction is performed, then intraprocedural studies of QA, or PA, before and after PTA should be conducted to show a functional improvement with a "successful" PTA.

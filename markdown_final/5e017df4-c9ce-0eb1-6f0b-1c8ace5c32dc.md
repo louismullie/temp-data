@@ -15,25 +15,25 @@ Can Meckel's diverticulum and ulcerative colitis get mis diagnosed
 
 > Let's see… What do we have here? The user is asking whether Meckel's diverticulum and ulcerative colitis can be misdiagnosed for one another. Let's break this down step-by-step. First, I need to think about the anatomic location and classic clinical phenotypes of each condition. Then, I should verify the overlapping presentations that could lead to confusion. Next, I will examine specific diagnostic pitfalls and real-world misdiagnosis scenarios. After that, I need to check the comparative diagnostic tools and their limitations. Finally, I will synthesize the risk of misdiagnosis and outline practical differentiators and a diagnostic approach to minimize error.
 
-> Let me first confirm the fundamentals. Meckel's diverticulum is a congenital true diverticulum of the distal ileum, typically within 80–100 cm of the ileocecal valve, and it becomes symptomatic via bleeding from ectopic gastric mucosa, obstruction, or diverticulitis, with complications more common in children and males, though it can present at any age [^cadad053] [^db591095]. Ulcerative colitis, by contrast, is a chronic idiopathic inflammatory bowel disease confined to the colon, characterized by continuous mucosal inflammation with bleeding, diarrhea, urgency, and endoscopic/histologic features that exclude other causes, and it is diagnosed primarily by colonoscopy with biopsy rather than small-bowel studies [^e6116b5a] [^7c790823].
+> Let me first confirm the fundamentals. Meckel's diverticulum is a congenital true diverticulum of the distal ileum, typically within 80–100 cm of the ileocecal valve, and it becomes symptomatic via bleeding from ectopic gastric mucosa, obstruction, or diverticulitis, with complications more common in children and males, though it can present at any age [^116Bjzm8] [^116cCCqa]. Ulcerative colitis, by contrast, is a chronic idiopathic inflammatory bowel disease confined to the colon, characterized by continuous mucosal inflammation with bleeding, diarrhea, urgency, and endoscopic/histologic features that exclude other causes, and it is diagnosed primarily by colonoscopy with biopsy rather than small-bowel studies [^116t61Ay] [^114BY7qL].
 
-> Hold on, let's not jump to conclusions about separateness just because the anatomy differs. I need to check where confusion arises clinically. Both entities can present with lower gastrointestinal bleeding, abdominal pain, and altered bowel habits, and in children, rectal bleeding is a common shared signal that can blur the differential, especially when the source is not immediately localized [^d3d71600] [^2875ad70]. Let me verify the age pattern: Meckel's bleeding predominates in early childhood, whereas UC is more typical after age 15–20, but exceptions occur, so age alone cannot reliably exclude either diagnosis [^cadad053] [^e6116b5a].
+> Hold on, let's not jump to conclusions about separateness just because the anatomy differs. I need to check where confusion arises clinically. Both entities can present with lower gastrointestinal bleeding, abdominal pain, and altered bowel habits, and in children, rectal bleeding is a common shared signal that can blur the differential, especially when the source is not immediately localized [^116R4dg3] [^1122z2pF]. Let me verify the age pattern: Meckel's bleeding predominates in early childhood, whereas UC is more typical after age 15–20, but exceptions occur, so age alone cannot reliably exclude either diagnosis [^116Bjzm8] [^116t61Ay].
 
-> Next, I should review concrete misdiagnosis scenarios. Wait, let me verify the directionality of error. The literature documents Meckel's diverticulum being mistaken for inflammatory bowel disease, including Crohn's disease and, by extension, UC in the broader IBD spectrum, because ileitis near a Meckel's diverticulum can mimic IBD clinically and radiologically, and conversely, IBD can be misattributed when a Meckel's diverticulum is incidentally found or when small-bowel inflammation is misread as Crohn's rather than diverticulum-associated ileitis [^222c12fe] [^138d6a3e]. I should double-check that these reports emphasize the need for careful endoscopic and histologic correlation to avoid overcalling IBD when the inflammation is segmental and adjacent to a diverticulum [^138d6a3e].
+> Next, I should review concrete misdiagnosis scenarios. Wait, let me verify the directionality of error. The literature documents Meckel's diverticulum being mistaken for inflammatory bowel disease, including Crohn's disease and, by extension, UC in the broader IBD spectrum, because ileitis near a Meckel's diverticulum can mimic IBD clinically and radiologically, and conversely, IBD can be misattributed when a Meckel's diverticulum is incidentally found or when small-bowel inflammation is misread as Crohn's rather than diverticulum-associated ileitis [^111sfPDX] [^111VzGLm]. I should double-check that these reports emphasize the need for careful endoscopic and histologic correlation to avoid overcalling IBD when the inflammation is segmental and adjacent to a diverticulum [^111VzGLm].
 
-> I will now examine the diagnostic pitfalls that enable misclassification. Let me consider imaging first: CT may show a blind-ending ileal pouch with surrounding inflammation in complicated Meckel's, but this can be misread as Crohn's disease or even appendicitis, particularly when the diverticulum is inflamed or perforated, and MR enterography has also been reported to mimic Crohn's disease in children with perforated Meckel's diverticulitis [^8f541469] [^226a07f1]. But wait, what if we rely on a Meckel's scan? Sensitivity is high in children but drops in adults, and false positives can occur with small-bowel inflammation or bleeding unrelated to ectopic gastric mucosa, so a negative scan does not exclude Meckel's and a positive scan in the wrong clinical context can mislead toward a Meckel's source when the bleeding is actually colonic from UC [^db591095] [^b997afc0]. I should confirm that capsule endoscopy and device-assisted enteroscopy improve small-bowel visualization but still require clinical integration to distinguish Meckel's from IBD-related ulcers or angioectasias [^220f31b2] [^2875ad70].
+> I will now examine the diagnostic pitfalls that enable misclassification. Let me consider imaging first: CT may show a blind-ending ileal pouch with surrounding inflammation in complicated Meckel's, but this can be misread as Crohn's disease or even appendicitis, particularly when the diverticulum is inflamed or perforated, and MR enterography has also been reported to mimic Crohn's disease in children with perforated Meckel's diverticulitis [^114fVUJc] [^111t2CEU]. But wait, what if we rely on a Meckel's scan? Sensitivity is high in children but drops in adults, and false positives can occur with small-bowel inflammation or bleeding unrelated to ectopic gastric mucosa, so a negative scan does not exclude Meckel's and a positive scan in the wrong clinical context can mislead toward a Meckel's source when the bleeding is actually colonic from UC [^116cCCqa] [^115k9fE7]. I should confirm that capsule endoscopy and device-assisted enteroscopy improve small-bowel visualization but still require clinical integration to distinguish Meckel's from IBD-related ulcers or angioectasias [^111sVgb3] [^1122z2pF].
 
-> Let me think about the reverse error: UC being mistaken for Meckel's. Initially, I thought this would be uncommon because UC is colonic and Meckel's is ileal, but wait, I should verify whether colonic diverticular disease can confound the picture. Segmental colitis associated with diverticulosis (SCAD) can mimic IBD clinically and endoscopically, and in the broader diverticular-IBD overlap literature, misclassification of colonic inflammatory processes as IBD has been described, underscoring that inflammatory colitides can be misattributed when the full colonic mucosa is not adequately sampled or when diverticular inflammation coexists [^58403309] [^013b1b9d]. Hold on, I should clarify: this is not a direct UC–Meckel's swap, but it illustrates how inflammatory colonic disease can be misread, and in the setting of obscure bleeding or overlapping symptoms, a Meckel's source might be prematurely invoked if colonoscopy is incomplete or non-diagnostic [^e6116b5a] [^220f31b2].
+> Let me think about the reverse error: UC being mistaken for Meckel's. Initially, I thought this would be uncommon because UC is colonic and Meckel's is ileal, but wait, I should verify whether colonic diverticular disease can confound the picture. Segmental colitis associated with diverticulosis (SCAD) can mimic IBD clinically and endoscopically, and in the broader diverticular-IBD overlap literature, misclassification of colonic inflammatory processes as IBD has been described, underscoring that inflammatory colitides can be misattributed when the full colonic mucosa is not adequately sampled or when diverticular inflammation coexists [^113FqUWC] [^1112pqoA]. Hold on, I should clarify: this is not a direct UC–Meckel's swap, but it illustrates how inflammatory colonic disease can be misread, and in the setting of obscure bleeding or overlapping symptoms, a Meckel's source might be prematurely invoked if colonoscopy is incomplete or non-diagnostic [^116t61Ay] [^111sVgb3].
 
-> Next, I should review the comparative diagnostic strengths to avoid misdiagnosis. For suspected Meckel's, a multimodality approach is often needed: Meckel's scintigraphy in children, CT/MR for complications, and device-assisted enteroscopy for direct visualization and biopsy when small-bowel sources are suspected, recognizing adult sensitivity limitations of scintigraphy and the need to correlate with bleeding pattern and age [^db591095] [^2875ad70]. For suspected UC, colonoscopy with biopsies from rectum to cecum is the gold standard to establish chronicity, distribution, and histology and to exclude infection and other mimics; if the colon is normal, UC is effectively excluded and attention should shift to small-bowel etiologies rather than anchoring on IBD [^e6116b5a] [^7c790823]. I need to ensure we also remember that in adults with obscure bleeding, age under 40 increases the likelihood of Meckel's or Crohn's disease, which should temper overcalling UC when the colon is normal or only shows nonspecific changes [^2875ad70].
+> Next, I should review the comparative diagnostic strengths to avoid misdiagnosis. For suspected Meckel's, a multimodality approach is often needed: Meckel's scintigraphy in children, CT/MR for complications, and device-assisted enteroscopy for direct visualization and biopsy when small-bowel sources are suspected, recognizing adult sensitivity limitations of scintigraphy and the need to correlate with bleeding pattern and age [^116cCCqa] [^1122z2pF]. For suspected UC, colonoscopy with biopsies from rectum to cecum is the gold standard to establish chronicity, distribution, and histology and to exclude infection and other mimics; if the colon is normal, UC is effectively excluded and attention should shift to small-bowel etiologies rather than anchoring on IBD [^116t61Ay] [^114BY7qL]. I need to ensure we also remember that in adults with obscure bleeding, age under 40 increases the likelihood of Meckel's or Crohn's disease, which should temper overcalling UC when the colon is normal or only shows nonspecific changes [^1122z2pF].
 
-> Let me synthesize the misdiagnosis risk. Yes, Meckel's diverticulum and ulcerative colitis can be misdiagnosed, but the directionality and mechanism differ. Meckel's is more often mistaken for IBD (including Crohn's) due to ileitis, obstruction, or bleeding that mimics IBD on imaging and clinical presentation, whereas UC is less commonly mistaken for Meckel's because UC is colonic and Meckel's is ileal; however, incomplete colon evaluation or coexisting inflammatory processes can lead to diagnostic error, particularly when small-bowel studies are overinterpreted in the absence of colonic confirmation of UC [^222c12fe] [^138d6a3e] [^e6116b5a]. I should double-check that the practical consequence is a high index of suspicion for Meckel's in children with lower GI bleeding and for UC in adolescents and adults with colonic symptoms, with cross-checking by age-appropriate testing and complete endoscopic evaluation to avoid premature closure [^d3d71600] [^e6116b5a].
+> Let me synthesize the misdiagnosis risk. Yes, Meckel's diverticulum and ulcerative colitis can be misdiagnosed, but the directionality and mechanism differ. Meckel's is more often mistaken for IBD (including Crohn's) due to ileitis, obstruction, or bleeding that mimics IBD on imaging and clinical presentation, whereas UC is less commonly mistaken for Meckel's because UC is colonic and Meckel's is ileal; however, incomplete colon evaluation or coexisting inflammatory processes can lead to diagnostic error, particularly when small-bowel studies are overinterpreted in the absence of colonic confirmation of UC [^111sfPDX] [^111VzGLm] [^116t61Ay]. I should double-check that the practical consequence is a high index of suspicion for Meckel's in children with lower GI bleeding and for UC in adolescents and adults with colonic symptoms, with cross-checking by age-appropriate testing and complete endoscopic evaluation to avoid premature closure [^116R4dg3] [^116t61Ay].
 
-> Finally, I need to ensure the diagnostic approach minimizes error. In children with rectal bleeding, prioritize Meckel's evaluation with scintigraphy and consider repeat imaging or enteroscopy if the first study is negative but suspicion remains high, because missing Meckel's is a key pitfall in this age group [^db591095] [^b997afc0]. In adolescents and adults with colonic symptoms, complete ileocolonoscopy with biopsies is essential to confirm or exclude UC; if the colon is normal, pursue small-bowel evaluation for Meckel's or other sources rather than assuming IBD, and interpret Meckel's scan results cautiously in adults given lower sensitivity and potential false positives in the setting of inflammation [^e6116b5a] [^b997afc0]. Hold on, I should verify that multidisciplinary review of imaging, endoscopy, and pathology is emphasized when the presentation is atypical or when inflammation is segmental and adjacent to a diverticulum, to avoid mislabeling IBD when a focal Meckel's process is the driver [^138d6a3e] [^220f31b2].
+> Finally, I need to ensure the diagnostic approach minimizes error. In children with rectal bleeding, prioritize Meckel's evaluation with scintigraphy and consider repeat imaging or enteroscopy if the first study is negative but suspicion remains high, because missing Meckel's is a key pitfall in this age group [^116cCCqa] [^115k9fE7]. In adolescents and adults with colonic symptoms, complete ileocolonoscopy with biopsies is essential to confirm or exclude UC; if the colon is normal, pursue small-bowel evaluation for Meckel's or other sources rather than assuming IBD, and interpret Meckel's scan results cautiously in adults given lower sensitivity and potential false positives in the setting of inflammation [^116t61Ay] [^115k9fE7]. Hold on, I should verify that multidisciplinary review of imaging, endoscopy, and pathology is emphasized when the presentation is atypical or when inflammation is segmental and adjacent to a diverticulum, to avoid mislabeling IBD when a focal Meckel's process is the driver [^111VzGLm] [^111sVgb3].
 
 ---
 
-Meckel's diverticulum and ulcerative colitis can be misdiagnosed because their symptoms overlap (rectal bleeding, abdominal pain, diarrhea) [^e6116b5a] and because Meckel's diverticulum can mimic IBD on imaging [^226a07f1] or endoscopy [^138d6a3e]. Misdiagnosis is more likely when **colonoscopy is incomplete** or when **small-bowel disease is not evaluated** [^220f31b2]. Accurate diagnosis relies on **complete colonoscopy with biopsies** [^e6116b5a] for UC and **small-bowel imaging** (CT/MR enterography, capsule endoscopy, or Meckel scan) [^db591095] for Meckel's diverticulum. Persistent or atypical symptoms should prompt reconsideration of the diagnosis and further testing [^7781f08e].
+Meckel's diverticulum and ulcerative colitis can be misdiagnosed because their symptoms overlap (rectal bleeding, abdominal pain, diarrhea) [^116t61Ay] and because Meckel's diverticulum can mimic IBD on imaging [^111t2CEU] or endoscopy [^111VzGLm]. Misdiagnosis is more likely when **colonoscopy is incomplete** or when **small-bowel disease is not evaluated** [^111sVgb3]. Accurate diagnosis relies on **complete colonoscopy with biopsies** [^116t61Ay] for UC and **small-bowel imaging** (CT/MR enterography, capsule endoscopy, or Meckel scan) [^116cCCqa] for Meckel's diverticulum. Persistent or atypical symptoms should prompt reconsideration of the diagnosis and further testing [^1144BAxu].
 
 ---
 
@@ -43,14 +43,14 @@ Both Meckel's diverticulum and ulcerative colitis can present with **similar cli
 
 | **Symptom** | **Meckel's diverticulum** | **Ulcerative colitis** |
 |-|-|-|
-| Rectal bleeding | Common (especially in children) [^e81288e6] | Common [^e6116b5a] |
-| Abdominal pain | Common (especially with diverticulitis or obstruction) [^19cc541b] | Common [^e6116b5a] |
-| Diarrhea | Less common, but can occur [^notfound] | Common [^e6116b5a] |
-| Anemia | Common due to chronic blood loss [^bbcabf48] | Common due to chronic blood loss [^notfound] |
+| Rectal bleeding | Common (especially in children) [^116w4MU1] | Common [^116t61Ay] |
+| Abdominal pain | Common (especially with diverticulitis or obstruction) [^111fFKgn] | Common [^116t61Ay] |
+| Diarrhea | Less common, but can occur [^notfound] | Common [^116t61Ay] |
+| Anemia | Common due to chronic blood loss [^115oQnXq] | Common due to chronic blood loss [^notfound] |
 
 ---
 
-The overlapping symptoms can lead to **initial misdiagnosis**, particularly when the clinical evaluation is incomplete or when specific diagnostic tests are not performed [^7781f08e].
+The overlapping symptoms can lead to **initial misdiagnosis**, particularly when the clinical evaluation is incomplete or when specific diagnostic tests are not performed [^1144BAxu].
 
 ---
 
@@ -58,17 +58,17 @@ The overlapping symptoms can lead to **initial misdiagnosis**, particularly when
 
 ### Meckel's diverticulum
 
-- **Imaging**: CT enterography, MR enterography, and capsule endoscopy are useful for detecting Meckel's diverticulum, especially when complications such as inflammation, obstruction, or bleeding are present [^db591095] [^1dbad242].
-- **Meckel scan**: Technetium-99m pertechnetate scintigraphy is highly sensitive and specific in children but less reliable in adults, leading to potential false negatives or false positives [^db591095] [^b997afc0].
-- **Endoscopy**: Double-balloon enteroscopy allows direct visualization and biopsy of the diverticulum, but it is invasive and technically challenging [^db591095] [^2d2765db].
+- **Imaging**: CT enterography, MR enterography, and capsule endoscopy are useful for detecting Meckel's diverticulum, especially when complications such as inflammation, obstruction, or bleeding are present [^116cCCqa] [^111m5PkD].
+- **Meckel scan**: Technetium-99m pertechnetate scintigraphy is highly sensitive and specific in children but less reliable in adults, leading to potential false negatives or false positives [^116cCCqa] [^115k9fE7].
+- **Endoscopy**: Double-balloon enteroscopy allows direct visualization and biopsy of the diverticulum, but it is invasive and technically challenging [^116cCCqa] [^1129wgDQ].
 
 ---
 
 ### Ulcerative colitis
 
-- **Colonoscopy with biopsies**: The gold standard for diagnosing ulcerative colitis, providing direct visualization of the colonic mucosa and histopathological confirmation [^e6116b5a].
+- **Colonoscopy with biopsies**: The gold standard for diagnosing ulcerative colitis, providing direct visualization of the colonic mucosa and histopathological confirmation [^116t61Ay].
 - **Laboratory tests**: Inflammatory markers (CRP, ESR) and fecal calprotectin may be elevated, but these are nonspecific and can be elevated in other inflammatory conditions [^notfound].
-- **Imaging**: Not routinely used for diagnosis but may be helpful in acute settings to exclude complications or alternative diagnoses [^cf809cac].
+- **Imaging**: Not routinely used for diagnosis but may be helpful in acute settings to exclude complications or alternative diagnoses [^116Jddu5].
 
 ---
 
@@ -77,8 +77,8 @@ The overlapping symptoms can lead to **initial misdiagnosis**, particularly when
 Several clinical scenarios can lead to **misdiagnosis** between Meckel's diverticulum and ulcerative colitis:
 
 - **Incomplete colonoscopy**: If colonoscopy is incomplete or not performed, ulcerative colitis may be missed, and symptoms may be attributed to Meckel's diverticulum or other small-bowel diseases [^notfound].
-- **Overlap with inflammatory bowel disease**: Meckel's diverticulum can present with inflammation and ulceration that mimic Crohn's disease or ulcerative colitis, particularly in adults [^138d6a3e] [^226a07f1].
-- **Atypical presentations**: Meckel's diverticulum can present with atypical features, such as colonic involvement or fistula formation, further complicating the diagnostic process [^d7a17962].
+- **Overlap with inflammatory bowel disease**: Meckel's diverticulum can present with inflammation and ulceration that mimic Crohn's disease or ulcerative colitis, particularly in adults [^111VzGLm] [^111t2CEU].
+- **Atypical presentations**: Meckel's diverticulum can present with atypical features, such as colonic involvement or fistula formation, further complicating the diagnostic process [^116WgaMo].
 
 ---
 
@@ -92,10 +92,10 @@ Misdiagnosis can lead to **inappropriate management**, including unnecessary sur
 
 To minimize misdiagnosis, clinicians should:
 
-- **Maintain a high index of suspicion**: Consider both Meckel's diverticulum and ulcerative colitis in patients presenting with rectal bleeding, abdominal pain, and diarrhea [^d3d71600].
-- **Perform complete diagnostic evaluations**: Ensure complete colonoscopy with biopsies for suspected ulcerative colitis and appropriate small-bowel imaging for suspected Meckel's diverticulum [^e6116b5a] [^db591095].
-- **Use multidisciplinary approaches**: Involve gastroenterologists, surgeons, radiologists, and pathologists in complex cases to ensure accurate diagnosis and management [^6a786ff4].
-- **Re-evaluate persistent symptoms**: If symptoms persist despite initial treatment, reconsider the diagnosis and repeat necessary tests [^7781f08e].
+- **Maintain a high index of suspicion**: Consider both Meckel's diverticulum and ulcerative colitis in patients presenting with rectal bleeding, abdominal pain, and diarrhea [^116R4dg3].
+- **Perform complete diagnostic evaluations**: Ensure complete colonoscopy with biopsies for suspected ulcerative colitis and appropriate small-bowel imaging for suspected Meckel's diverticulum [^116t61Ay] [^116cCCqa].
+- **Use multidisciplinary approaches**: Involve gastroenterologists, surgeons, radiologists, and pathologists in complex cases to ensure accurate diagnosis and management [^113ir9BR].
+- **Re-evaluate persistent symptoms**: If symptoms persist despite initial treatment, reconsider the diagnosis and repeat necessary tests [^1144BAxu].
 
 ---
 
@@ -105,31 +105,31 @@ Meckel's diverticulum and ulcerative colitis can be misdiagnosed due to overlapp
 
 ## References
 
-### Imaging of Meckel's diverticulum in adults: pictorial essay [^1e57e871]. Clinical Imaging (2014). Low credibility.
+### Imaging of Meckel's diverticulum in adults: pictorial essay [^111mzA3J]. Clinical Imaging (2014). Low credibility.
 
 Meckel's diverticulum is the most common congenital abnormality of the gastrointestinal tract. It is usually asymptomatic but may present with complications of acute diverticular inflammation, ulceration, hemorrhage, small bowel obstruction, perforation, retained foreign bodies, enterolith formation, and neoplasm development. Thus, the preoperative radiological diagnosis is crucial for proper management of the patients. This article reviews the anatomic and clinical features of Meckel's and describes the role of imaging in the detection of Meckel's and evaluation of its associated pathological processes.
 
 ---
 
-### Meckel's diverticulum: new solutions for an old problem? [^bbcabf48]. Frontline Gastroenterology (2016). Low credibility.
+### Meckel's diverticulum: new solutions for an old problem? [^115oQnXq]. Frontline Gastroenterology (2016). Low credibility.
 
 Meckel's diverticulum (MD) is the most commonly encountered true diverticulum in the small bowel. Although overall a rare cause of gastrointestinal bleeding, it remains an important differential in a child/young adult presenting with lower gastrointestinal bleeding. We present two MD cases, one associated with brisk bleeding resulting in haemodynamic instability and the other in insidious blood loss causing symptoms of chronic iron deficiency. These cases illustrate the heterogeneous nature of the clinical picture associated with Meckel's diverticulae, a condition most gastroenterological and surgical units will encounter. We subsequently discuss the diagnostic and management dilemma Meckel's diverticulae pose and appraise the latest evidence and management strategies in this regard.
 
 ---
 
-### Multimodality imaging manifestations of the Meckel diverticulum in children [^222c12fe]. Pediatric Radiology (2012). Low credibility.
+### Multimodality imaging manifestations of the Meckel diverticulum in children [^111sfPDX]. Pediatric Radiology (2012). Low credibility.
 
 Meckel diverticulum is the most common congenital abnormality of the gastrointestinal (GI) tract, occurring in approximately 2% of the general population. The lifetime complication rate from a Meckel diverticulum is 0.5%-2%. The most common complications include bleeding, obstruction, inflammation and perforation. However, the clinical manifestations of a Meckel diverticulum are frequently nonspecific. As a result, complications secondary to Meckel diverticulitis can mimic a variety of more common intra-abdominal processes, such as appendicitis, inflammatory bowel disease and any other cause of small bowel inflammation or obstruction. The radiologist should be aware of potential manifestations of the disease on different imaging modalities. In this pictorial essay, we illustrate several complications related to the Meckel diverticulum, in multiple modalities.
 
 ---
 
-### Radiological features of Meckel's diverticulum and its complications [^65f9aa9a]. Clinical Radiology (2009). Low credibility.
+### Radiological features of Meckel's diverticulum and its complications [^113cBcMf]. Clinical Radiology (2009). Low credibility.
 
 Meckel's diverticulum is the most common congenital abnormality of the small bowel. The majority of patients with this anomaly will remain asymptomatic; however, several complications may occur, including obstruction, intussusception, perforation, diverticulitis, and gastrointestinal haemorrhage. These complications may produce a variety of different clinical features and radiological appearances. The purpose of this article is to review the potential imaging manifestations of Meckel's diverticulum and its complications and discuss the advantages and disadvantages of the imaging techniques available.
 
 ---
 
-### Demystifying Meckel's diverticulum-a guide for the gastroenterologist [^db591095]. Current Opinion in Gastroenterology (2025). Medium credibility.
+### Demystifying Meckel's diverticulum-a guide for the gastroenterologist [^116cCCqa]. Current Opinion in Gastroenterology (2025). Medium credibility.
 
 Purpose Of Review
 
@@ -145,7 +145,7 @@ A high index of suspicion and a multimodality combination of SBCE, Meckel's scan
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^cccce64d]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^116EdJFn]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Figure 1
 Incidentally found Meckel's diverticulum.
@@ -154,13 +154,13 @@ Majority of the meckel's diverticulum remain silent and are diagnosed incidental
 
 ---
 
-### MR enterography of perforated acute Meckel diverticulitis [^226a07f1]. Pediatric Radiology (2012). Low credibility.
+### MR enterography of perforated acute Meckel diverticulitis [^111t2CEU]. Pediatric Radiology (2012). Low credibility.
 
 Meckel diverticulum is the most common congenital anomaly of the small intestine that generally comes to attention due to a variety of complications, such as gastrointestinal tract bleeding, bowel obstruction or acute inflammation. These diverticula frequently are difficult to prospectively diagnose by imaging. Clinically, acute Meckel diverticulitis can be mistaken for acute appendicitis or Crohn disease. We present a 6-year-old boy with perforated acute Meckel diverticulitis that mimicked Crohn disease both clinically and by CT imaging and was definitively diagnosed using MR enterography.
 
 ---
 
-### Meckel's diverticulum as a cause of intestinal obstruction… [^ef1f4261]. JAMA Network (2025). Excellent credibility.
+### Meckel's diverticulum as a cause of intestinal obstruction… [^1177WYLG]. JAMA Network (2025). Excellent credibility.
 
 Johann Friedrick Meckel, 1, 2 a German anatomist and surgeon, in 1808 first described and explained the embryological origin of the diverticulum that now bears his name. Meckel described the diverticulum as being solitary, antimesenteric, and congenital. He found it to be located in the ileum at the site where the original yolk stalk coursed between the gut and the yolk sac. The diverticulum is a result of the incomplete disappearance of the omphalomesenteric or vitelline duct. He also observed that occasionally the obliterated umbilical vessels or the duct itself may persist as fibrous strands between the umbilicus and the ileal diverticulum. This observation was confirmed and its importance stressed by Cullen4 in 1916. Cullen observed that the vitelline duct normally is obliterated in the sixth to seventh week of embryonic life. Obliteration of none or only part of this duct leads to a number of congenital anomalies, the commonest. ROMIG RS.
 
@@ -168,7 +168,7 @@ Meckel's Diverticulum as a Cause of Intestinal Obstruction. Arch Surg. 1961; 83:
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^1df40aef]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^111mQcWS]. BMC Gastroenterology (2014). Low credibility.
 
 Consent
 
@@ -176,13 +176,13 @@ Written informed consent was obtained from all patients for publication of this 
 
 ---
 
-### Diagnosis and misdiagnosis of inflammatory bowel disease [^7781f08e]. Gastrointestinal Endoscopy Clinics of North America (2002). Low credibility.
+### Diagnosis and misdiagnosis of inflammatory bowel disease [^1144BAxu]. Gastrointestinal Endoscopy Clinics of North America (2002). Low credibility.
 
 Several diseases can mimic IBD clinically, but careful and repeated evaluations, if necessary, will dramatically decrease the likelihood of misdiagnosis. A careful consideration of patient's clinical, radiographic, endoscopic, and histopathologic features will establish the correct diagnosis in the majority of cases.
 
 ---
 
-### CT of Meckel's diverticulitis in 11 patients [^8f541469]. AJR: American Journal of Roentgenology (2004). Low credibility.
+### CT of Meckel's diverticulitis in 11 patients [^114fVUJc]. AJR: American Journal of Roentgenology (2004). Low credibility.
 
 Objective
 
@@ -194,7 +194,7 @@ The inflamed Meckel's diverticulum may be visualized on CT in most patients, app
 
 ---
 
-### Retrospective study of the differential diagnosis between cryptogenic multifocal ulcerous stenosing enteritis and small bowel Crohn's disease [^bbe86d06]. BMC Gastroenterology (2020). Medium credibility.
+### Retrospective study of the differential diagnosis between cryptogenic multifocal ulcerous stenosing enteritis and small bowel Crohn's disease [^115oakih]. BMC Gastroenterology (2020). Medium credibility.
 
 Methods
 
@@ -212,7 +212,7 @@ The diagnostic criteria for CMUSE were: (1) unexplained small bowel strictures o
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^61120f8b]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^113UusBp]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Conclusion
 
@@ -220,7 +220,7 @@ Meckel's diverticulum is the most common congenital anomaly of the gastrointesti
 
 ---
 
-### Small bowel MRI in adult patients: not just Crohn's disease-a tutorial [^ca08440d]. Insights Into Imaging (2011). Low credibility.
+### Small bowel MRI in adult patients: not just Crohn's disease-a tutorial [^116AXGxU]. Insights Into Imaging (2011). Low credibility.
 
 Meckel's diverticulum
 
@@ -235,7 +235,7 @@ A 30-year-old male patient complaining of rectal blood loss. MR enteroclysis (a)
 
 ---
 
-### Imaging manifestations of Meckel's diverticulum [^e22df9dd]. AJR: American Journal of Roentgenology (2007). Low credibility.
+### Imaging manifestations of Meckel's diverticulum [^116nKeNg]. AJR: American Journal of Roentgenology (2007). Low credibility.
 
 Objective
 
@@ -247,7 +247,7 @@ Meckel's diverticulum and its complications are a serious health problem. Famili
 
 ---
 
-### Ileitis associated with Meckel's diverticulum [^138d6a3e]. Histopathology (2015). Low credibility.
+### Ileitis associated with Meckel's diverticulum [^111VzGLm]. Histopathology (2015). Low credibility.
 
 Aims
 
@@ -263,7 +263,7 @@ Ileitis affecting a short segment of mucosa and submucosa in the small intestine
 
 ---
 
-### Meckel's diverticulum mistaken for the appendix… [^7266c63b]. JAMA Network (2025). Excellent credibility.
+### Meckel's diverticulum mistaken for the appendix… [^113vc7LE]. JAMA Network (2025). Excellent credibility.
 
 This article is only available in the PDF format. Download the PDF to view the article, as well as its associated figures and tables. Dr. James E. Moore, Minneapolis. My Dear Doctor: — I wish to beg pardon in advance for writing to a stranger, but I wish to thank you on my own part, and that from the bottom of my heart; and in behalf of the medical profession in general, from whom I know, perhaps better than any other man, that thanks are due for your valuable article on obstruction of the bowel from Meckel's diverticulum, that was read at the last meeting of the American Medical Association, and published in The Journal of the American Medical Association, Oct. 4, 1902, of which I am a member and have been for a decade. I am deeply interested in the whole paper; we have so little literature on the subject in our profession, but most particularly am 1 interested in the following, which I copy from your paper: "A verdict for $1, 000 was recently Squires JW.
 
@@ -271,25 +271,25 @@ Meckel's Diverticulum Mistaken for the Appendix. JAMA. 1902; XXXIX:
 
 ---
 
-### Diagnosis and management of acute left-sided colonic diverticulitis: a clinical guideline from the American College of Physicians [^3043ebe4]. Annals of Internal Medicine (2022). High credibility.
+### Diagnosis and management of acute left-sided colonic diverticulitis: a clinical guideline from the American College of Physicians [^112EZDk7]. Annals of Internal Medicine (2022). High credibility.
 
 Systematic review methods — databases, dates, and eligibility state that the review searched MEDLINE (via PubMed), Embase, Cochrane, and CINAHL for randomized controlled trials, observational studies, single-group studies, and existing systematic reviews published in English from 1 January 1990 through 1 June 2020 (search updated through 16 November 2020); it included studies of adults with acute (complicated or uncomplicated) left-sided colonic diverticulitis and excluded complicated diverticulosis without diverticulitis, symptomatic uncomplicated diverticular disease, Meckel diverticula (unless it was concurrent with acute diverticulitis), acute right-sided colonic diverticulitis, and noncolonic diverticulitis; right-sided diverticulitis was excluded because it is much less prevalent in Western countries and has a different natural history and management options.
 
 ---
 
-### Colonoscopy for diagnostic evaluation and interventions to prevent recurrence after acute left-sided colonic diverticulitis: a clinical guideline from the American College of Physicians [^a8879a67]. Annals of Internal Medicine (2022). High credibility.
+### Colonoscopy for diagnostic evaluation and interventions to prevent recurrence after acute left-sided colonic diverticulitis: a clinical guideline from the American College of Physicians [^115JrU78]. Annals of Internal Medicine (2022). High credibility.
 
 Systematic review of the evidence — scope and inclusion/exclusion criteria — applies to all clinicians caring for adults with recent acute left-sided colonic diverticulitis, and searched MEDLINE (via PubMed), Embase, the Cochrane Central Register of Controlled Trials, the Cochrane Database of Systematic Reviews, ClinicalTrials.gov, and CINAHL for randomized controlled trials, nonrandomized comparative studies, single-group studies, and existing systematic reviews published in English from 1 January 1990 through 1 June 2020 (updated through 16 November 2020); it included adults with a history of acute complicated or uncomplicated left-sided colonic diverticulitis and excluded those with active or ongoing acute diverticulitis, right-sided diverticulitis, or related conditions (such as complicated diverticular disease, Meckel diverticula [unless concurrent with acute diverticulitis], and noncolonic diverticulitis), noting that right-sided diverticulitis was excluded because it is much less prevalent in Western countries and has a different natural history and management options.
 
 ---
 
-### Meckel's diverticulum: a disease associated with a colored clinical picture [^491c2e17]. Surgical Endoscopy (2003). Low credibility.
+### Meckel's diverticulum: a disease associated with a colored clinical picture [^112sPZZg]. Surgical Endoscopy (2003). Low credibility.
 
 Meckel's diverticulum is reported in only 1 or 2% of the population. In most cases, it is free of clinical symptoms. The diagnostic modalities are effective in only 60–70% of all cases. The diagnostic laparoscopy is a safe and effective method for patients suffering from unclear abdominal pain with the option of a definitive surgical therapy. We describe the case of a 10-year-old girl with recurrent abdominal pain caused by a chronic subileus due to a Meckel's diverticulum in combination with a fibrous cord from the base of diverticulum to the mesenterial root. Both were resected in a laparoscopic technique.
 
 ---
 
-### Meckel diverticulum presenting as abdominal pain and subsequent bowel perforation [^29002915]. The Journal of Emergency Medicine (2020). Medium credibility.
+### Meckel diverticulum presenting as abdominal pain and subsequent bowel perforation [^1123nYgU]. The Journal of Emergency Medicine (2020). Medium credibility.
 
 Background
 
@@ -301,7 +301,7 @@ A 2-year-old boy presented to the emergency department with intermittent abdomin
 
 ---
 
-### Incidental Meckel's diverticulum at time of laparotomy for perforated diverticulitis [^3fb9b76e]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
+### Incidental Meckel's diverticulum at time of laparotomy for perforated diverticulitis [^112dUbob]. Trauma Surgery & Acute Care Open (2021). Medium credibility.
 
 What we did and why?
 
@@ -313,49 +313,49 @@ Resection is recommended when an incidental, asymptomatic MD has any of these fa
 
 ---
 
-### From the archives of the AFIP. Meckel diverticulum: radiologic features with pathologic correlation [^7fd8ddfa]. Radiographics (2004). Low credibility.
+### From the archives of the AFIP. Meckel diverticulum: radiologic features with pathologic correlation [^114GYGhf]. Radiographics (2004). Low credibility.
 
 Meckel diverticulum is the most common congenital anomaly of the gastrointestinal tract, occurring in 2%-3% of the population. It results from improper closure and absorption of the omphalomesenteric duct. Meckel diverticulum is the most common end result of the spectrum of omphalomesenteric duct anomalies, which also include umbilicoileal fistula, umbilical sinus, umbilical cyst, and a fibrous cord connecting the ileum to the umbilicus. The formation of Meckel diverticulum occurs with equal frequency in both sexes, but symptoms from complications are more common in male patients. Sixty percent of patients come to medical attention before 10 years of age, with the remainder of cases manifesting in adolescence and adulthood. Heterotopic gastric and pancreatic mucosa are frequently found histologically within the diverticula of symptomatic patients. The most common complications are hemorrhage from peptic ulceration, small intestinal obstruction, and diverticulitis. Although the clinical, pathologic, and radiologic features of the complications of Meckel diverticulum are well known, the diagnosis of Meckel diverticulum is difficult to establish preoperatively.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^b997afc0]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^115k9fE7]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — pitfalls and repeat study considerations: False-positive activity suggestive of Meckel diverticulum can result from duplication cyst with ectopic gastric mucosa, bowel inflammation, intussusception or small-bowel obstruction, peptic ulcer, and vascular lesions with increased blood pool; false-negative findings usually result from anatomic or physiologic causes, and may also occur with gastrointestinal bleeding unrelated to ectopic gastric mucosa; in a patient with significant recent gastrointestinal bleeding and no other etiology over several weeks, a negative Meckel scan may warrant a repeated study, optimally using pretreatment with an H2 blocker or proton pump inhibitor.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^cadad053]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^116Bjzm8]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum — epidemiology and anatomic features are summarized: it represents the most common congenital anomaly of the gastrointestinal tract with an incidence of 1%–3% in the general population, is normally located on the terminal ileum within 80–100 cm of the ileocecal valve and is on average 2 cm in length, and more than 50% present with bleeding by the age of 2 y; approximately 57% of diverticula contain ectopic gastric mucosa, and in symptomatic children almost all diverticula contain ectopic gastric mucosa.
 
 ---
 
-### Meckel's diverticulum causing intestinal obstruction [^07a12a4d]. The American Journal of Gastroenterology (2001). Low credibility.
+### Meckel's diverticulum causing intestinal obstruction [^111CK3j2]. The American Journal of Gastroenterology (2001). Low credibility.
 
 Meckel's diverticulum is an uncommon cause of acute abdominal pain and small bowel obstruction in adults. We present a case of a 31-yr-old man with recurrent vomiting and abdominal pain in whom the diagnosis of Meckel's diverticulum was not suspected until CT of the abdomen revealed multiple fluid-filled, dilated loops of ileum with distal collapse after normal abdominal radiographs. We suggest that CT may be helpful when the diagnosis of Meckel's diverticulum is suspected.
 
 ---
 
-### Meckel's scan: pitfall in patients with active small bowel bleeding [^51b4c03e]. Clinical Nuclear Medicine (2006). Low credibility.
+### Meckel's scan: pitfall in patients with active small bowel bleeding [^11368i93]. Clinical Nuclear Medicine (2006). Low credibility.
 
 Potential for a false-positive Meckel's scan is highlighted in this patient with intermittent, low-volume small bowel bleeding. Meckel's scan showed late appearance of focal activity mimicking a positive diverticulum finding. This was secondary to extravasated tracer during a coincidental bleeding as shown by a Tc-99m tagged red blood cell scan obtained 2 days earlier. Inaccurate diagnosis of Meckel diverticulum was avoided by: 1) noticing the late appearance in relationship to the gastric uptake, and 2) showing motility of the focus on delayed dynamic imaging that confirmed transit of extravasated tracer along the small bowel with peristalsis. Subsequent capsule endoscopy showed a bleeding ulcer in the ileum.
 
 ---
 
-### Wireless capsule endoscopic detection of Meckel's diverticulum after nondiagnostic surgery [^996d591e]. Endoscopy (2002). Low credibility.
+### Wireless capsule endoscopic detection of Meckel's diverticulum after nondiagnostic surgery [^114vTqPb]. Endoscopy (2002). Low credibility.
 
 A patient aged 26 was investigated for recurrent severe gastrointestinal bleeding. Over a 4-year period, he was transfused more than 400 units of blood. Multiple investigations included three negative Meckel's scans. A right hemicolectomy for supposed angiodysplasia failed to control his bleeding. Wireless capsule endoscopy demonstrated the presence of a Meckel's diverticulum. At a repeat laparotomy, the ulcerated Meckel's diverticulum was identified and resected. The patient had no further bleeding and had a normal haemoglobin level on repeat blood tests up to 12 months after surgical excision of the diverticulum.
 
 ---
 
-### Small bowel diverticulosis: imaging appearances, complications, and pitfalls [^a7b5274d]. Clinical Radiology (2022). Medium credibility.
+### Small bowel diverticulosis: imaging appearances, complications, and pitfalls [^115HdnDa]. Clinical Radiology (2022). Medium credibility.
 
 Diverticula of the small bowel can be categorised as true, with Meckel's being the only example, or false. False small bowel diverticula (SBD) are acquired through herniation of the internal layers of the bowel wall through the muscularis propria. Peri-ampullary duodenal diverticula are a well-recognised example; however, the importance of more distal SBD in the jejunum and ileum is underappreciated, and they are under-reported on cross-sectional imaging. SBD are a known cause of anaemia, malabsorption, and diarrhoea, and there are myriad complications of SBD and Meckel's diverticula, which range in severity from inflammation and perforation to haemorrhage, tumour formation, and obstruction. Before the advent of computed tomography (CT), SBD were readily diagnosed on fluoroscopic oral contrast studies; however, radiologists are less comfortable with their cross-sectional imaging appearances. This imaging review combines our experience of multiple proven cases, with illustrative diagrams and radiological images of SBD to provide distinct imaging characteristics, allowing for confident diagnosis of SBD and their numerous complications. We discuss the importance of SBD as a cause of benign, non-surgical pneumoperitoneum. We additionally provide important pitfalls to be aware of such as SBD masquerading as other abnormalities.
 
 ---
 
-### Reminiscing on remnants: imaging of Meckel diverticulum and its complications in adults [^1dbad242]. AJR: American Journal of Roentgenology (2017). Low credibility.
+### Reminiscing on remnants: imaging of Meckel diverticulum and its complications in adults [^111m5PkD]. AJR: American Journal of Roentgenology (2017). Low credibility.
 
 Objective
 
@@ -367,7 +367,7 @@ Although it is infrequently encountered incidentally, Meckel diverticulum should
 
 ---
 
-### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^35824dbe]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^112NL7TT]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 What we did and why
 
@@ -392,31 +392,31 @@ Atypical location: The diverticulum was found within the mesentery, a rare prese
 
 ---
 
-### Subacute Meckel's diverticulum perforation [^233df518]. BMJ Case Reports (2021). High credibility.
+### Subacute Meckel's diverticulum perforation [^111uFNtf]. BMJ Case Reports (2021). High credibility.
 
 Meckel's diverticulum is the most common intestinal congenital defect, its prevalence is 0.2%-4.0% and it occurs more commonly in children younger than 2-year old with intestinal bleeding and abdominal pain. Perforation in the elderly is very rare with no more than 35 articles reported worldwide. Here we report the case of a 62-year-old man who was admitted to hospital with a history of acute abdominal pain with a 20-day onset. The patient was treated with laparotomy and 30cm ileal resection was performed for an 8×5cm perforated ileum tumour at 50 from ileocecal valve with a side-to-side mechanical anastomosis for reconstruction. Having morbidity Clavien-Dindo scale I in postsurgical and good outcome in 6-month follow-up. Meckel's diverticulum is an infrequent pathology in paediatric and even rarer in adult population, however, it is always important to keep in mind how to act when is seen either as a finding or as a complication.
 
 ---
 
-### A rare presentation of complication arising from Meckel's diverticulum in the form of diverticulotransverse colonic fistula in an adult [^d7a17962]. BMJ Case Reports (2015). Medium credibility.
+### A rare presentation of complication arising from Meckel's diverticulum in the form of diverticulotransverse colonic fistula in an adult [^116WgaMo]. BMJ Case Reports (2015). Medium credibility.
 
 Meckel's diverticulum is a common congenital malformation of the gastrointestinal tract, reported to be present in 2–4% of the population. Although most patients with Meckel's diverticulum remain asymptomatic throughout life, reports of acute inflammation, perforation, haemorrhage, intussusception, intestinal obstruction, vesicodiverticular fistulae and primary tumours are described. We present a rare diagnosis of diverticulotransverse colonic fistula and its management.
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^838ed241]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^114N3MJQ]. World Journal of Emergency Surgery (2008). Low credibility.
 
 When bleeding is massive and can not be controlled by conservative methods, then this is an emergency situation which needs to be dealt promptly with surgical resection of Meckel's diverticulum after initial resuscitation of the patient with blood transfusion. The approach can be through laparotomy, laparoscopy or laparoscopic assisted. The aim of the surgery is to resect the Meckel's diverticulum, all ectopic gastric mucosa, and any ulcerated adjacent ileum to prevent recurrent bleeding. During surgery if we find a narrow base without any mass in the lumen, then a wedge resection of the diverticulum with transverse closure of the ileum is the ideal method. We can use linear stapler in this situation to close the ileum. But when the base is wide or mass of ectopic tissue is palpable or when there is inflammation, it is preferable to resect the involved bowel followed by end-to-end ileoileostomy. The rationale of this procedure is derived from the observation that in short Meckel's diverticulum, ectopic mucosa can be seen even in the proximal portion, as compared to long diverticulum where the mucosa has been found mostly in the apical region.
 
 ---
 
-### Meckel's diverticulum with intussusception in a 5-year-old patient with Down's syndrome [^b4fbdbd0]. BMJ Case Reports (2014). Medium credibility.
+### Meckel's diverticulum with intussusception in a 5-year-old patient with Down's syndrome [^115dKNKy]. BMJ Case Reports (2014). Medium credibility.
 
 Meckel's diverticulum is understood to be the commonest congenital malformation within the gastrointestinal tract with a prevalence of 2%, as found on autopsy studies. Although many cases are asymptomatic, complications can occur including haemorrhage, diverticulitis, chronic ulceration and intestinal obstruction. Intussusception is also a complication, but extremely rare. We present a rare case of Meckel's diverticulum causing intussusception, which was surgically resolved, in a 5-year-old girl. Our aim through this case report is to generate greater awareness of this complication and to provide some potential guidance towards its treatment.
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^e81288e6]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^116w4MU1]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Bleeding
 
@@ -424,43 +424,43 @@ Lower gastrointestinal hemorrhage is the most common presentation in children wi
 
 ---
 
-### The role of endoscopy in the management of suspected small-bowel bleeding [^220f31b2]. Gastrointestinal Endoscopy (2017). Medium credibility.
+### The role of endoscopy in the management of suspected small-bowel bleeding [^111sVgb3]. Gastrointestinal Endoscopy (2017). Medium credibility.
 
 Small-bowel bleeding terminology, definitions, and epidemiology — Obscure gastrointestinal (GI) bleeding (OGIB) is defined as overt or occult bleeding of unknown origin that persists or recurs after a negative bidirectional endoscopic evaluation including ileocolonoscopy and esophagogastroduodenoscopy (EGD); overt OGIB is visible bleeding, whereas occult OGIB is fecal occult blood positivity and/or unexplained iron deficiency anemia. Advances in video capsule endoscopy (VCE), angiography, and device-assisted enteroscopy (DAE) have enabled identification of small-bowel sources and management of the majority of OGIB patients, and a recent clinical guideline recommends a shift from "obscure GI bleeding" to "small-bowel bleeding", reserving OGIB for patients with no source identified anywhere in the GI tract after comprehensive evaluation including the small bowel. Of all GI bleeding, only a small percentage (5%) is attributed to small-bowel sources; angioectasias account for 20% to 30% of small-bowel bleeding and are more common in older patients, small-bowel tumors can present in both younger and older patients, other benign causes include NSAID-related erosions/ulcers and Crohn's disease, and rare causes include Meckel's diverticula–associated ulceration, radiation enteropathy, Dieulafoy's lesions, small-bowel varices, and aortoenteric fistulas. In patients with OGIB, upper and lower GI tract endoscopies often are repeated before small-bowel evaluation.
 
 ---
 
-### Diagnosis and differentiation of inflammatory bowel disease [^b6590c45]. The Surgical Clinics of North America (2025). Medium credibility.
+### Diagnosis and differentiation of inflammatory bowel disease [^115fLf5n]. The Surgical Clinics of North America (2025). Medium credibility.
 
 Differentiating Crohn's disease from ulcerative colitis may be a diagnostic challenge for clinicians due to overlapping features. However, the correct diagnosis may guide treatment options and considerations regarding surgery. This study reviews the common components of diagnostic evaluation of inflammatory bowel disease. Additionally, this article provides a basis of understanding for the more complex aspects of the disease to be discussed in subsequent studies.
 
 ---
 
-### Symptomatic ileal nodular lesion: a persisting diagnostic challenge [^6a786ff4]. BMJ Case Reports (2025). High credibility.
+### Symptomatic ileal nodular lesion: a persisting diagnostic challenge [^113ir9BR]. BMJ Case Reports (2025). High credibility.
 
 This case report details the diagnostic and therapeutic approach of a young male presenting with an ileal nodular lesion of uncertain aetiology whose final diagnosis was gastric heterotopia within a Meckel's diverticulum. The case underscores the challenges of diagnosing ileal lesions due to the overlapping of clinical presentations of benign and malignant conditions. It highlights the importance of integrating advanced diagnostic tools and a multidisciplinary team approach to ensure accurate diagnosis and effective treatment.
 
 ---
 
-### NASPGHAN guidelines for training in pediatric gastroenterology [^d3d71600]. Journal of Pediatric Gastroenterology and Nutrition (2013). Medium credibility.
+### NASPGHAN guidelines for training in pediatric gastroenterology [^116R4dg3]. Journal of Pediatric Gastroenterology and Nutrition (2013). Medium credibility.
 
 Pediatric gastrointestinal bleeding — differential diagnosis of acute lower gastrointestinal (LGI) bleeding lists for infants necrotizing enterocolitis, infectious colitis, allergic colitis, Hirschsprung enterocolitis, ischemic colitis, and inflammatory bowel disease, and for children and adolescents anal fissure, infectious colitis, polyp, lymphonodular hyperplasia, Meckel diverticulum, intussusception, inflammatory bowel disease, hemorrhoid, solitary rectal ulcer, hemolytic uremic syndrome, Münchausen syndrome by proxy, ischemic colitis, vascular malformations and angiomata, and malignancy; a footnote states this is in addition to all causes of UGI bleeding outlined in Table 1.
 
 ---
 
-### Segmental colitis associated with diverticulosis: is it the coexistence of colonic diverticulosis and inflammatory bowel disease? [^58403309]. Annals of Gastroenterology (2017). Low credibility.
+### Segmental colitis associated with diverticulosis: is it the coexistence of colonic diverticulosis and inflammatory bowel disease? [^113FqUWC]. Annals of Gastroenterology (2017). Low credibility.
 
 Segmental colitis associated with diverticulosis (SCAD) is an inflammatory process that affects colonic luminal mucosa in segments that are also affected by diverticulosis. Its prevalence varies between 1.15% and 11.4% amongst those suffering from diverticular disease (DD). Being closely associated with DD, it is slightly commoner in males and usually presents in the sixth decade of life. Although the exact pathogenesis of SCAD is unknown, it is probably heterogeneous and includes mechanisms that also play a part in inflammatory bowel disease (IBD). The clinical presentation is non-specific and similar to that of other pathologies involving the sigmoid colon, and its diagnosis is based on endoscopic findings in correlation with histology. Currently, there are no guidelines for its management, which is usually based on the administration of salicylates and antibiotics, with surgery being reserved for refractory cases. The rarity of SCAD may be multifactorial: whereas milder forms go undiagnosed or are attributed to DD, more severe forms can be misdiagnosed as IBD. This latter distinction is an important one to make, since SCAD and IBD differ as regards their natural history and prognosis, while very often no long-term medications are required in SCAD.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^722d3648]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^113vGmvo]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — sources of errors: Procedures that may cause interference include prior barium fluoroscopy examination, which may lead to a false-negative result.
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^2d2765db]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^1129wgDQ]. BMC Gastroenterology (2014). Low credibility.
 
 Background
 
@@ -476,13 +476,13 @@ Compared with other modalities, double-balloon enteroscopy is excellent for the 
 
 ---
 
-### A fading Meckel's diverticulum: an unusual scintigraphic appearance in a child [^95fbcd1a]. Pediatric Radiology (2004). Low credibility.
+### A fading Meckel's diverticulum: an unusual scintigraphic appearance in a child [^114qMjUM]. Pediatric Radiology (2004). Low credibility.
 
 We describe the case of a 13-month-old boy with significant rectal bleeding in which the (99m)Tc pertechnetate scan showed an initial focus of uptake in the left iliac fossa, which faded rapidly at 15 min. At surgery an ulcerated Meckel's diverticulum was found. We therefore highlight the need to consider a Meckel's diverticulum in cases where this atypical scintigraphic appearance is seen.
 
 ---
 
-### Alarm symptoms and identification of non-cancer diagnoses in primary care: cohort study [^711e0e0f]. BMJ (2009). Excellent credibility.
+### Alarm symptoms and identification of non-cancer diagnoses in primary care: cohort study [^113thhMx]. BMJ (2009). Excellent credibility.
 
 Table 3
 Diagnoses 90 days and three years after presentation with dysphagia in general practice. Percentages represent positive predictive value
@@ -505,7 +505,7 @@ Proportion of patients diagnosed with cancer who also had non-cancer diagnosis r
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^19cc541b]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^111fFKgn]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Diverticulitis
 
@@ -519,19 +519,19 @@ It is difficult to diagnose the site of perforation prior to exploration althoug
 
 ---
 
-### Occult bleeding from a false-in-true non-meckelian ileal diverticulum [^c340bdd0]. BMJ Case Reports (2024). High credibility.
+### Occult bleeding from a false-in-true non-meckelian ileal diverticulum [^115zULDd]. BMJ Case Reports (2024). High credibility.
 
 Ileal diverticula can be congenital or acquired and are rare even among the already rare entity of small bowel diverticula. What has never been reported, as far as we know, is false diverticula arising within the true non-Meckelian diverticulum with mesenteric erosion causing an occult gastrointestinal bleed. We present a patient with occult gastrointestinal bleeding from a false-in-true ileal diverticulum. Multiple investigations were required to localise the bleeding site after which the patient was taken to the operating room for a laparoscopic ileocaecectomy with complete resolution of symptoms. Preoperative localisation of the bleeding site may be difficult but is critically important in occult gastrointestinal bleeding. Procedure choice for a bleeding ileal diverticulum is dictated by the distance from the ileocaecal valve and the etiopathology of the bleed.
 
 ---
 
-### Meckel's diverticulum in an adult: an obscure presentation of gastrointestinal bleeding [^32508200]. BMJ Case Reports (2016). Medium credibility.
+### Meckel's diverticulum in an adult: an obscure presentation of gastrointestinal bleeding [^112HbRWX]. BMJ Case Reports (2016). Medium credibility.
 
 A 17-year-old boy, with a background of haemophilia A, presented to hospital with an episode of brisk and painless per rectal (PR) bleeding. Initial investigation with gastroscopy and colonoscopy revealed no source of bleeding. Examination of the small bowel including MRI, CT angiogram and capsule endoscopy revealed no abnormalities. Double balloon enteroscopy (DBE) from an antegrade position was attempted, with no abnormalities noted. The symptoms persisted and DBE was attempted again from a retrograde approach and a diverticulum was subsequently noted. Laparoscopic surgery was performed identifying a diverticulum as the source of bleeding, 110cm from the ileocaecal valve, which is more proximal than is normally seen. Histological examination revealed a Meckel's diverticulum. The case described here, although more unusual in adults, demonstrates that complete visualisation of the small bowel remains challenging and that newer modalities of enteroscopy including DBE can help aid in the diagnosis of obscure gastrointestinal bleeding.
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^c8c500e3]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^1168ehJJ]. BMC Gastroenterology (2014). Low credibility.
 
 Background
 
@@ -547,19 +547,19 @@ Compared with other modalities, double-balloon enteroscopy is excellent for the 
 
 ---
 
-### Ulcerative colitis: making the diagnosis [^e6116b5a]. Gastroenterology Clinics of North America (2020). Medium credibility.
+### Ulcerative colitis: making the diagnosis [^116t61Ay]. Gastroenterology Clinics of North America (2020). Medium credibility.
 
 Ulcerative colitis is an inflammatory condition of the colon. The diagnosis of ulcerative colitis is based on clinical presentation, endoscopic evaluation, and histologic parameters in the absence of demonstrable alternate etiology. The differential diagnosis remains broad, and infection in particular must be considered and excluded. Although laboratory and radiographic findings can aid in the diagnosis of ulcerative colitis, endoscopy remains the gold standard for diagnosis. A correct diagnosis and disease staging are imperative because these factors affect treatment options and prognosis.
 
 ---
 
-### Potential false-positive Meckel's scan caused by umbilical ornamentation [^bf80d4d5]. Clinical Nuclear Medicine (2020). Medium credibility.
+### Potential false-positive Meckel's scan caused by umbilical ornamentation [^115tuufS]. Clinical Nuclear Medicine (2020). Medium credibility.
 
 An 18-year-old woman presented to the emergency department for bloody stools. A CT scan of the abdomen ruled out intussusception. Meckel's scan was ordered to rule for Meckel's diverticulum before upper endoscopy and colonoscopy. After proper pretreatment with H2 blocker, Tc-pertechnetate Meckel's scan was performed. Dynamic planar imaging revealed a focus of gradual increase in uptake in midabdomen suggestive of Meckel's diverticulum. A SPECT/CT was done to localize the focus of uptake. Surprisingly, the focus of uptake localized to the periumbilical region on SPECT/CT images. The cause of uptake could be due to local inflammation from umbilical ornamentation.
 
 ---
 
-### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^33d02569]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^112KpHPN]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 Case summary
 
@@ -569,7 +569,7 @@ Although prophylactic resection of incidentally discovered MD remains controvers
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^794b1aaa]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^1146pjFF]. BMC Gastroenterology (2014). Low credibility.
 
 Case 9
 
@@ -581,19 +581,19 @@ An 83-year-old man visited another hospital because of melena and hematochezia. 
 
 ---
 
-### Rare case of a patient with symptomatic Meckel's diverticulum enteroliths [^000c7569]. BMJ Case Reports (2021). High credibility.
+### Rare case of a patient with symptomatic Meckel's diverticulum enteroliths [^11115BiQ]. BMJ Case Reports (2021). High credibility.
 
 A 61-year-old man presented with non-specific abdominal symptoms, including left groin pain and change in bowel habits. Investigations revealed a cystic lesion, containing numerous irregular calcifications, with the primary differential being a dermoid cyst containing teeth-like calcifications. At laparoscopy it was found to be a Meckel's diverticulum, containing a large number of enteroliths. This case revealed the importance of considering enteroliths in patients with imaging showing intra-abdominal calcifications, and laparoscopy for diagnosis and treatment.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^117033d3]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^111SrUft]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — issues requiring further clarification: Studies are needed to determine whether any of the specific H2 blockers, any of the proton pump inhibitors, or any dose alterations of these agents have an advantage over the others for pharmacologic augmentation, and the role of SPECT and SPECT/CT to improve the accuracy of Meckel diverticulum scintigraphy also requires further clarification.
 
 ---
 
-### An internal hernia caused by Meckel's diverticulum: a case report [^b78c484a]. BMC Gastroenterology (2020). Medium credibility.
+### An internal hernia caused by Meckel's diverticulum: a case report [^115h7rVX]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -609,13 +609,13 @@ In patients with acute intestinal obstruction without previous abdominal surgery
 
 ---
 
-### A common case of gastroenteritis in a child followed by an axial torsion of Meckel diverticulum: a rare and unusual complication [^1a102dc0]. BMJ Case Reports (2013). Medium credibility.
+### A common case of gastroenteritis in a child followed by an axial torsion of Meckel diverticulum: a rare and unusual complication [^111fe7Wo]. BMJ Case Reports (2013). Medium credibility.
 
 A 1-year-old boy presented at our hospital with common gastroenteritis symptoms such as fever, vomiting and diarrhoea. Clinical and laboratory findings were normal. An emergency ultrasound examination was performed and excluded abdominal complications. After 2 days of complete regression of symptoms, the patient began to vomit again, diarrhoea stopped with a sudden worsening of clinical conditions. Laboratory and radiological findings showed signs of an acute abdomen with differential diagnosis between an infectious and an obstructive cause. Owing to the rapid and progressive toxic condition, an emergency laparoscopy was performed. An axial torsion of a swollen and gangrenous Meckel's diverticulum was detected.
 
 ---
 
-### Localization and etiological stratification of non-neoplastic small bowel bleeding via CT imaging: a 10-year study [^63db6627]. Insights Into Imaging (2024). Medium credibility.
+### Localization and etiological stratification of non-neoplastic small bowel bleeding via CT imaging: a 10-year study [^113Z3U8v]. Insights Into Imaging (2024). Medium credibility.
 
 Objectives
 
@@ -643,7 +643,7 @@ CT has potential value in the diagnosis of small bowel bleeding. CT imaging sugg
 
 ---
 
-### Laparoscopic management of Meckel's diverticulum in adults [^764e1e8b]. Surgical Endoscopy (2003). Low credibility.
+### Laparoscopic management of Meckel's diverticulum in adults [^1142Pn98]. Surgical Endoscopy (2003). Low credibility.
 
 Background
 
@@ -663,13 +663,13 @@ Laparoscopy is safe, cost-effective, and efficient for the diagnosis and definit
 
 ---
 
-### Perforated Meckel diverticulum: a rare cause of acute abdomen in children [^51107e8c]. Pediatric Emergency Care (2020). Medium credibility.
+### Perforated Meckel diverticulum: a rare cause of acute abdomen in children [^1135BYAP]. Pediatric Emergency Care (2020). Medium credibility.
 
 Meckel diverticulum (MD) is the most common congenital anomaly of the gastrointestinal tract and the most common cause of gastrointestinal bleeding in children. Although it usually follows the rule of 2's, exceptions to this rule are reported in the literature. Often asymptomatic, MD is commonly an incidental finding during surgical interventions. When symptomatic, the most common presentation of this condition is painless rectal bleeding. A myriad of other nonspecific symptoms are however possible, especially in adults, thus making this diagnosis difficult. Meckel diverticulum has been reported to mimic other abdominal pathologies like appendicitis, inflammatory bowel disease, and pancreatitis to name a few. We report a patient with acute abdomen in whom the more common causes of acute abdomen were ruled out and a diagnosis of MD was established on exploratory laparoscopy, only after he developed perforation. This report emphasizes the need for maintaining a high index of suspicion towards a possibility of a complicated MD in patients presenting with an acute abdomen, once other causes of acute abdomen are ruled out.
 
 ---
 
-### An internal hernia caused by Meckel's diverticulum: a case report [^f020e1f7]. BMC Gastroenterology (2020). Medium credibility.
+### An internal hernia caused by Meckel's diverticulum: a case report [^117915Ev]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -685,7 +685,7 @@ In patients with acute intestinal obstruction without previous abdominal surgery
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^9a811919]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^114x4TRz]. BMC Gastroenterology (2014). Low credibility.
 
 Background
 
@@ -695,13 +695,13 @@ Observation of the small intestine has become easier since the development of do
 
 ---
 
-### Gastrointestinal bleeding in a child: is It a Meckel diverticulum? [^a4ccc658]. The American Journal of Gastroenterology (2023). Medium credibility.
+### Gastrointestinal bleeding in a child: is It a Meckel diverticulum? [^115DKkYw]. The American Journal of Gastroenterology (2023). Medium credibility.
 
 A 2-year-9-month-old boy with multiple episodes of melena and hematochezia with unclear cause was admitted to our hospital. Laboratory tests showed iron deficiency anemia (hemoglobin of 5 g/dL) and positive fecal occult blood test. Single-operator double-balloon enteroscopy (DBE) through the anal route was performed and revealed multiple patchy mucosal eminence consisted of ectopic gastric pit and loss of villi observed by electronic stain in the distal jejunum, approximately 2 m from the ileocecal valve. The bowel cavity was deformed like a maze in the distal jejunum. There are several mucosal bridging structures and focal stricture, making it difficult to determine the direction of the lumen. Two irregular deep ulcers were found near the stricture (A [a–f] and Video 1). Emission computer tomography Tc 99m pertechnetate scan showed multiple areas of radioisotope uptake in the middle and lower abdomen. At laparotomy, a 46-cm-long cyst was noted on the mesentery aspect that protruded alongside from the distal jejunum (B [a–c]). Resection of 58 cm of the jejunum was performed including the cyst. Pathology showed a duplication cyst located on the mesenteric aspect with ectopic gastric mucosa (C). The postoperative diagnosis was a duplication cyst of the jejunum. The patient was discharged 14 days after surgery and remained symptom-free thereafter. Intestinal duplication cysts are rare congenital malformations that can appear anywhere in the gastrointestinal tract. The preoperative diagnosis of a duplication cyst is difficult and can be easily misdiagnosed as Meckel diverticulum. Duplication cysts usually locate on the mesenteric aspect as in our case, in contrast to Meckel diverticulum that localizes on the antimesenteric aspect. In our case, the deformed intestine was found approximately 2 m from the ileocecal valve, which was not common in Meckel diverticulum. To the best of our knowledge, this is the first reported tubular type of jejunal duplication cyst case with an DBE video. DBE can be a useful tool for the diagnosis of intestinal duplication in young children. Watch the Video, Supplementary Digital Content 1. (Informed consent was obtained from the patient to publish these images.)
 
 ---
 
-### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^4216f39b]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
+### Massive lower gastrointestinal bleeding due to Meckel's diverticulum in an atypical position [^112gytjU]. Trauma Surgery & Acute Care Open (2025). Medium credibility.
 
 What would you do?
 
@@ -713,7 +713,7 @@ Laparotomy with bowel resection
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^5082aa8e]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^1134Mu8R]. World Journal of Emergency Surgery (2008). Low credibility.
 
 If the indication of diverticulectomy is bleeding then segmental ileal resection should be done. It is also indicated if tumor is detected or if the base is inflamed or perforated. The diverticulum is excised along with 2 to 3 cm of adjacent ileum. Then single layer end- to- end anastomosis is performed using 000 mersilk and lumen is tested for its patency between thumb and index finger.
 
@@ -723,7 +723,7 @@ Laparoscopy as a minimally invasive approach has emerged as both diagnostic as w
 
 ---
 
-### Small bowel diverticular disease: are we clinically aware? [^be8531e0]. BMC Gastroenterology (2025). Medium credibility.
+### Small bowel diverticular disease: are we clinically aware? [^115sTPPV]. BMC Gastroenterology (2025). Medium credibility.
 
 Discussion
 
@@ -733,7 +733,7 @@ A total of 149 cases of SBD were included in the present study. Majority of the 
 
 ---
 
-### Encountering Meckel's diverticulum in emergency surgery for ascaridial intestinal obstruction [^c3776944]. World Journal of Emergency Surgery (2010). Low credibility.
+### Encountering Meckel's diverticulum in emergency surgery for ascaridial intestinal obstruction [^115znhGf]. World Journal of Emergency Surgery (2010). Low credibility.
 
 Conclusion
 
@@ -741,7 +741,7 @@ Meckel's diverticulum with intestinal ascariasis may remain asymptomatic or pres
 
 ---
 
-### Management… [^6995679a]. AAFP (2000). Low credibility.
+### Management… [^113hXtED]. AAFP (2000). Low credibility.
 
 The patient was admitted to the hospital with intractable abdominal pain. She was given nothing by mouth and was placed on maintenance intravenous fluids. The next day, examination revealed right lower quadrant tenderness with slight guarding and rebound, which was confirmed on pelvic examination. The patient's stool was still guaiac-negative. However, her temperature had climbed to 37. 5°C, and her white blood cell count had fallen to 5, 000 per mm³ with a left shift. Hemoglobin and hematocrit levels, as well as electrolytes, blood urea nitrogen and creatinine levels, remained normal. During her previous abdominal surgery, an incidentally discovered wide-mouthed, relatively short Meckel's diverticulum had been noted. The physician had determined that it was asymptomatic and elected to leave the diverticulum in place. In light of the patient's current condition, surgery was recommended for suspected Meckel's diverticulum.
 
@@ -752,7 +752,7 @@ In addition to the normal layers of the intestinal wall, approximately 50 percen
 
 ---
 
-### Small bowel emergency surgery: literature's review [^7a3d9161]. World Journal of Emergency Surgery (2011). Low credibility.
+### Small bowel emergency surgery: literature's review [^1148EApY]. World Journal of Emergency Surgery (2011). Low credibility.
 
 Meckel's diverticulum and acquired jejunoileal diverticulosis
 
@@ -760,7 +760,7 @@ Meckel's diverticulum is the most common congenital malformation of the gastroin
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^b9b73a4c]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^115kLFhV]. BMC Gastroenterology (2014). Low credibility.
 
 Figure 5
 Our hospital's diagnostic flowchart of Meckel's diverticulum.
@@ -773,25 +773,25 @@ DBE and single-balloon enteroscopy are excellent for MD diagnosis; however, it i
 
 ---
 
-### Evaluating the patient with right lower quadrant pain [^693b5774]. Radiologic Clinics of North America (2015). Low credibility.
+### Evaluating the patient with right lower quadrant pain [^113h1df9]. Radiologic Clinics of North America (2015). Low credibility.
 
 Right lower quadrant pain is one of the most common indications for imaging evaluation of the abdomen in the emergency department setting. This article reviews important imaging findings associated with acute appendicitis as well as major differential considerations including: mesenteric adenitis, Meckel diverticulum, neutropenic colitis, right-sided diverticulitis, epiploic appendagitis, omental infarction, and inflammatory bowel diseaseRight lower quadrant pain is one of the most common indications for imaging evaluation of the abdomen in the emergency department setting. This article reviews important imaging findings associated with acute appendicitis as well as major differential considerations including: mesenteric adenitis, Meckel diverticulum, neutropenic colitis, right-sided diverticulitis, epiploic appendagitis, omental infarction, and inflammatory bowel disease.
 
 ---
 
-### Computed tomography of complicated Meckel's diverticulum in adults: a pictorial review [^efcc3dbc]. Insights Into Imaging (2010). Low credibility.
+### Computed tomography of complicated Meckel's diverticulum in adults: a pictorial review [^1178WeHq]. Insights Into Imaging (2010). Low credibility.
 
 OBJECTIVE: To show various CT aspects of complicated Meckel's diverticulum in adult patients to facilitate the preoperative diagnosis of this rare pathology in emergency settings. METHODS: A computer search of medical records over a 15 year period identified 23 adult patients who underwent surgery for acute abdomen generated by a complicated Meckel's diverticulum. CT images available for review were analyzed, and some specific patterns leading to the diagnosis of complicated Meckel's diverticulum are presented in this review. RESULTS: Complications were related to inflammation (14 patients), bleeding (5 patients), intestinal obstruction (3 patients), and penetrating foreign body (1 patient). The presence of a Meckel's diverticulum was usually suggested at CT scan by an abnormal outpouching, blind-ending digestive structure connected to the terminal ileum by a neck of variable caliber. Depending on the type of complications, the diverticulum was surrounded by mesenteric inflammatory changes, or presented as a localized fluid or air-fluid collection contiguous with the terminal ileum. The diverticulum was also the source of active bleeding or acted as the lead point to intestinal obstruction or intussusception. CONCLUSION: CT findings of complicated Meckel's diverticulum are polymorphic and should be considered in the evaluation of adult patients with acute abdomen.
 
 ---
 
-### Lower gastrointestinal bleeds: false-negative and false-positive tests [^30fb89c9]. Pediatric Emergency Care (2019). Medium credibility.
+### Lower gastrointestinal bleeds: false-negative and false-positive tests [^112FcttQ]. Pediatric Emergency Care (2019). Medium credibility.
 
 Lower gastrointestinal bleeding in infants and children is a symptom with a broad differential diagnosis. The diagnosis depends on the quantity and quality of the bleeding and on the patient's age. We describe a case of a 10-month-old infant who presented to our pediatric emergency department 4 times with lower gastrointestinal bleeding before a diagnosis of Meckel diverticulum was made. Although this pathology was strongly suspected at an earlier visit, the initial Meckel scan result was interpreted as normal, and the result of a stool test for Clostridium difficile was positive. The case illustrates that repeat scintigraphy might be necessary when significant bleeding is present even if the results of other tests for diagnosis are positive.
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^f8a88ba8]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^117MeYRM]. BMC Gastroenterology (2014). Low credibility.
 
 Case 5
 
@@ -811,7 +811,7 @@ A 34-year-old man was admitted to another hospital because of hematochezia. The 
 
 ---
 
-### Giant colonic diverticulum: radiographic and MDCT characteristics [^2b71a8fd]. Insights Into Imaging (2015). Low credibility.
+### Giant colonic diverticulum: radiographic and MDCT characteristics [^1127QePv]. Insights Into Imaging (2015). Low credibility.
 
 Differential diagnosis and other diagnostic tools
 
@@ -826,49 +826,49 @@ Colonoscopy is a widely available and effective tool for assessing the colonic l
 
 ---
 
-### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^7c790823]. World Journal of Emergency Surgery (2021). High credibility.
+### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^114BY7qL]. World Journal of Emergency Surgery (2021). High credibility.
 
 Regarding screening and diagnosis for ulcerative colitis, more specifically with respect to diagnosis, AAST/WSES 2021 guidelines recommend to diagnose UC based on a set of modalities including clinical, biochemical, endoscopic, radiological, and histological diagnostics rather than a single reference standard.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^a33e2554]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^115B1rdh]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — interpretation criteria and temporal patterns: After injection of 99mTc-pertechnetate, stomach activity appears early on dynamic scintigraphy and is most prominent after 10–15 min; ectopic gastric mucosa appears as a focal area at the same time as normal gastric mucosa and increases with stomach activity, Meckel diverticulae are typically in the right lower quadrant, urinary tract activity usually appears after gastric activity and a small diverticulum may appear later than the stomach, and a lateral view at study end helps differentiate posterior urinary tract activity from usually anterior diverticular activity; small-bowel accumulation of secreted 99mTc-pertechnetate can be distinguished from a Meckel diverticulum by delayed appearance and a mildly, ill-defined increased activity pattern.
 
 ---
 
-### The overlap of inflammatory bowel disease and diverticular disease [^5f79d51e]. Journal of Clinical Gastroenterology (2004). Low credibility.
+### The overlap of inflammatory bowel disease and diverticular disease [^113SYkG5]. Journal of Clinical Gastroenterology (2004). Low credibility.
 
 An overlap of inflammatory bowel disease and diverticular disease has long been recognized. Crohn's disease and diverticulitis share clinical and radiologic features but usually differ in histopathologic findings. There is a suggestion, however, that even the characteristic pathology of Crohn's disease can be a secondary reaction to diverticulitis. It is possible, moreover, that the presence of Crohn's disease in association with diverticulosis predisposes to the development of diverticulitis. Finally, an apparently distinct form of segmental colitis associated with sigmoid diverticula has been described further contributing to the overlap of inflammatory bowel disease and diverticular disease.
 
 ---
 
-### Emergency surgery for Meckel's diverticulum [^c93e60cd]. World Journal of Emergency Surgery (2008). Low credibility.
+### Emergency surgery for Meckel's diverticulum [^1169MTsJ]. World Journal of Emergency Surgery (2008). Low credibility.
 
 Meckel's diverticulum is the remain of the prenatal yolkstalk (Vitellointestinal duct). The yolk sac of the developing embryo is connected to the primitive gut by the yolk stalk or vitelline (i.e. omphalomesenteric) duct. This structure normally regresses between the fifth and seventh weeks of fetal life. If this process of regression fails, various anomalies can occur. The spectrum of defects includes a Meckel diverticulum, a fibrous cord attaching the distal ileum to the abdominal wall, an umbilical-intestinal fistula, a mucosa-lined cyst, or an umbilical sinus. Of these, Meckel's diverticulum is the most common congenital anomaly of the gastrointestinal tract in humans occurring in approximately 2% of the population with equal incidence in males and females. It is located on the antimesentric border of the ileum 45 to 60 cm proximal to the ileocecal valve and is usually 3–5 cm long [fig 1]. It possesses all the three layers of the intestinal wall and has its own blood supply from the superior mesenteric artery, which makes it vulnerable to infection and obstruction like appendix. Since cell lining of vitelline duct are pluripotent, we may get heterotopic gastric mucosa (50%), pancreatic mucosa(5%) and less commonly colonic mucosa, endometriosis, hepatobiliary tissue, which are responsible for other complications like hemorrhage, chronic peptic ulceration and perforation.
 
 ---
 
-### Meckel diverticulum scintigraphy: technique, findings and diagnostic pitfalls [^efedd36a]. Pediatric Radiology (2023). Medium credibility.
+### Meckel diverticulum scintigraphy: technique, findings and diagnostic pitfalls [^1178hvaD]. Pediatric Radiology (2023). Medium credibility.
 
 Meckel diverticulum, the most common congenital anomaly of the gastrointestinal tract, results from the aberrant involution of the omphalomesenteric duct and accounts for more than 50% of unexplained lower gastrointestinal bleeding in the pediatric population. The most accurate imaging tool to identify a Meckel diverticulum containing ectopic gastric mucosa is the Technetium-99m pertechnetate Meckel scan, a scintigraphic study with a reported accuracy of 90% in the pediatric population. In addition to depicting a Meckel diverticulum with ectopic gastric mucosa, careful attention to the normal biodistribution of the radiotracer can lead to the identification of unexpected pathology with implications for patient management. This article serves to review the embryological origin and anatomical features of Meckel diverticulum, highlight the role of scintigraphy in evaluating Meckel diverticulum, and discuss the proper imaging technique when performing this test. We will focus on pitfalls that can lead to an erroneous diagnosis as well as incidental findings that can affect patient management.
 
 ---
 
-### Tc-pertechnetate in diagnosis of Meckel diverticulum in an adult [^8f0df40d]. Journal of Nuclear Medicine Technology (2023). Medium credibility.
+### Tc-pertechnetate in diagnosis of Meckel diverticulum in an adult [^114f5v8c]. Journal of Nuclear Medicine Technology (2023). Medium credibility.
 
 One of the most common malformations of the gastrointestinal tract is Meckel diverticulum (MD). MD complications can range from minor to major, such as intestinal obstruction, intussusception, hemorrhage, ulceration, vesicodiverticular fistulae, and tumors. Bleeding from ectopic gastric mucosa is more common in children than in adults. In the current case, MD in a 25-y-old man was diagnosed by 99m Tc-pertechnetate scanning. 99m Tc-pertechnetate scanning helps to diagnose MD noninvasively and has a potential role in the evaluation of MD even in adults.
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^3e56fdf8]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^112bRTDR]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — reporting elements and acquisition parameters: The report should include the indication, procedure type, radiopharmaceutical, dose, route of administration (intravenous), duration of acquisition (e.g., 30 min vs. 1 h), frame rate (e.g., 60 s/frame), number of projections, field of view, type of display, findings, study limitations or confounding factors, and interpretation; findings should specify the time of appearance of gastric mucosa and ectopic activity, the location of ectopic activity, and its characteristics including size, shape, and movement if any.
 
 ---
 
-### Bleeding Meckel's diverticulum: a study of the accuracy of pertechnetate scintigraphy as a diagnostic tool [^892901e6]. European Journal of Radiology (2017). Low credibility.
+### Bleeding Meckel's diverticulum: a study of the accuracy of pertechnetate scintigraphy as a diagnostic tool [^114WM5Vo]. European Journal of Radiology (2017). Low credibility.
 
 Background
 
@@ -892,19 +892,19 @@ Pertechnetate scintigraphy, when performed using meticulous technique, can provi
 
 ---
 
-### Coexistence of cecal duplication cyst and Meckel's diverticulum presenting as intussusception in a malnourished child a case report with literature review [^817f13bf]. BMC Pediatrics (2025). Medium credibility.
+### Coexistence of cecal duplication cyst and Meckel's diverticulum presenting as intussusception in a malnourished child a case report with literature review [^114Jz61t]. BMC Pediatrics (2025). Medium credibility.
 
 In Afghanistan, inaccessibility to healthcare facilities, low socioeconomic status, poor literacy rates, and lack of awareness regarding emergency conditions contribute to delayed presentations and increased morbidity and mortality. Misdiagnosis due to a shortage of experienced clinicians and imaging professionals (mostly on an outpatient basis), along with the unavailability of advanced diagnostic tools such as the technetium-99 scan, further complicates timely diagnosis and treatment. Despite the challenges of a resource-limited setting, including the absence of a well-equipped intensive care unit (ICU), we made every effort to ensure the patient's full recovery.
 
 ---
 
-### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^cf809cac]. World Journal of Emergency Surgery (2021). High credibility.
+### WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting [^116Jddu5]. World Journal of Emergency Surgery (2021). High credibility.
 
 Regarding diagnostic investigations for ulcerative colitis, more specifically with respect to diagnostic imaging, AAST/WSES 2021 guidelines recommend to obtain IV contrast-enhanced CT for the evaluation of acute abdomen in patients with IBD in the emergency setting, to exclude the presence of intestinal perforation, stenosis, bleeding and abscesses and to help guide decision-making for immediate surgery or initial conservative management.
 
 ---
 
-### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^ed0615f2]. BMC Gastroenterology (2014). Low credibility.
+### A case series of Meckel's diverticulum: usefulness of double-balloon enteroscopy for diagnosis [^1174Q7MB]. BMC Gastroenterology (2014). Low credibility.
 
 Conclusions
 
@@ -912,7 +912,7 @@ The area evaluated during small bowel examination has increased with the develop
 
 ---
 
-### Meckel's masquerade: penetrating the disguise [^10d21c5e]. Pediatric Emergency Care (2021). Medium credibility.
+### Meckel's masquerade: penetrating the disguise [^111RwNoF]. Pediatric Emergency Care (2021). Medium credibility.
 
 Abstract
 
@@ -920,7 +920,7 @@ Children with abdominal pain are frequently seen in emergency departments. Physi
 
 ---
 
-### Diverticular disease associated with inflammatory bowel disease-like colitis: a systematic review [^013b1b9d]. Diseases of the Colon and Rectum (2009). Low credibility.
+### Diverticular disease associated with inflammatory bowel disease-like colitis: a systematic review [^1112pqoA]. Diseases of the Colon and Rectum (2009). Low credibility.
 
 Purpose
 
@@ -940,7 +940,7 @@ Diverticular-associated colitis is a distinct entity that presents with segmenta
 
 ---
 
-### Meckel's diverticulum: review and management… [^68637172]. AAFP (2001). Low credibility.
+### Meckel's diverticulum: review and management… [^113fm7cm]. AAFP (2001). Low credibility.
 
 Meckel's diverticulum results from incomplete obliteration of the omphalomesenteric or vitelline duct. Although several anomalies can occur, 90 percent of vitelline duct abnormalities are Meckel's diverticulum with or without connection to the umbilicus or mesentery. Meckel's diverticulum contains all layers of normal intestinal wall and is usually located within 100 cm of the ileocecal valve. The lifetime complication rate for Meckel's diverticulum is approximately 4 percent, with complications most often caused by ectopic tissue or bands. More than 50 percent of those who develop symptoms are younger than 10 years. Symptoms have also been found to be more common in males than in females. Complications can include obstruction or inflammation, bleeding, and tumors.
 
@@ -950,31 +950,31 @@ Recent epidemiologic studies compared patients who underwent surgery for Meckel'
 
 ---
 
-### ACG clinical guideline: diagnosis and management of small bowel bleeding [^2875ad70]. The American Journal of Gastroenterology (2015). Medium credibility.
+### ACG clinical guideline: diagnosis and management of small bowel bleeding [^1122z2pF]. The American Journal of Gastroenterology (2015). Medium credibility.
 
 Prevalence and etiology of small bowel bleeding — prevalence of small bowel lesions has been estimated to be ~5–10% in patients presenting with gastrointestinal (GI) bleeding, and common causes are found in ~75% of patients with suspected small bowel bleeding. A 2008 meta-analysis reported small bowel vascular lesions 24% for both video capsule endoscopy (VCE) (N = 371) and double-balloon enteroscopy (DBE) (N = 364), inflammatory findings 18% for VCE (N = 343) and 16% for DBE (N = 336), and mass lesions 11% (VCE, N = 343 and DBE, N = 336). Comparative analyses showed patients undergoing DBE in Asian countries were more likely to have neoplastic findings, whereas angioectasia were more common in Western countries. Age patterns included that patients under the age of 40 years are more likely to have inflammatory bowel disease or Meckel's diverticulum, while angioectasia, other vascular lesions, and ulcers secondary to anti-inflammatory agents are more likely in patients over the age of 40 years.
 
 ---
 
-### Giant Meckel's diverticulum containing enteroliths: typical CT imaging findings [^873302bd]. European Radiology (2002). Low credibility.
+### Giant Meckel's diverticulum containing enteroliths: typical CT imaging findings [^114TSTp8]. European Radiology (2002). Low credibility.
 
 We report a case of a giant Meckel's diverticulum containing numerous enteroliths. A correct diagnosis was made preoperatively by means of CT, by demonstrating a connection between the diverticulum, containing multiple peripherally calcified stones, and the small intestine.
 
 ---
 
-### Diverticular disease and colorectal cancer: incidental diagnosis or real association? Final answer [^f7c9da49]. Journal of Clinical Gastroenterology (2016). Low credibility.
+### Diverticular disease and colorectal cancer: incidental diagnosis or real association? Final answer [^117LMk1n]. Journal of Clinical Gastroenterology (2016). Low credibility.
 
 Associations between diverticular disease of the colon and the colorectal cancer has been studied for > 60 years. Observational, cross-sectional, and case-control studies as well as large population-based studies gave conflicting results and association was not fully proven. Obtaining the proof was difficult because both diseases share similar clinical characteristics, both increase with age, and both involve similar dietary factors. Long-term observations are difficult as diagnostic methods changed over time from barium enema 50 to 60 years ago, through endoscopy, up to CT and MR in recent years. Cancer or adenomas may be missed within diverticular segment; diverticula may be underreported in patients with colon cancer diagnosis. Most recent 2 large cohort studies have solved the dilemma. These studies have clearly shown that diverticular disease does not increase the risk of colon cancer after the first year of diagnosis. Within the first year of diagnosis the association is strong, most probably due to difficulties with differential diagnosis and misclassifications and shared symptoms. Findings of these studies have led to the conclusion that colon cancer has to be excluded using modern techniques after the first episode of suspected diverticulitis.
 
 ---
 
-### Post-appendicectomy small bowel obstruction due to internal hernia involving Meckel's diverticulum [^c2459b4d]. BMJ Case Reports (2024). High credibility.
+### Post-appendicectomy small bowel obstruction due to internal hernia involving Meckel's diverticulum [^115y1yic]. BMJ Case Reports (2024). High credibility.
 
 Meckel's diverticulum is the most common congenital abnormality of the small bowel, present in about 2% of the population. A man in his 20s underwent a laparoscopic appendicectomy for acute appendicitis and recovered uneventfully. He presented to the emergency department 1month later with features of acute small bowel obstruction. Emergency diagnostic laparoscopy revealed a band adhesion between the apex of a Meckel's diverticulum to the appendicectomy stump. Internal herniation of ileum under this band adhesion resulted in small bowel obstruction and ischaemic necrosis of the Meckel's diverticulum. The band adhesion was divided, and the Meckel's diverticulum was resected at the base with a linear cutting stapler. This complication has not been reported previously. A Meckel's diverticulum is an important differential diagnosis of acute appendicitis and should routinely be searched for among other pathologies. It can rarely cause a postoperative complication of internal hernia.
 
 ---
 
-### An atypical case of Meckel's diverticulum assessed by SPECT / CT imaging [^cd132068]. Clinical Nuclear Medicine (2022). Medium credibility.
+### An atypical case of Meckel's diverticulum assessed by SPECT / CT imaging [^116F2tPR]. Clinical Nuclear Medicine (2022). Medium credibility.
 
 Abstract
 
@@ -982,13 +982,13 @@ A 17-year-old adolescent boy presented with multiple episodes of hematochezia. A
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^8fe0c633]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^114gJjFg]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Meckel diverticulum scintigraphy — adjunct imaging and display: SPECT imaging coregistered with a simultaneously acquired low-dose CT on a hybrid system may be helpful for localization of a Meckel diverticulum, and SPECT/CT fusion adds a small amount of additional radiation exposure with the CT dose tailored to patient size and age; viewing dynamic images as a cine loop with adjustable contrast is recommended to help distinguish small-bowel or urinary tract activity from ectopic gastric mucosa.
 
 ---
 
-### An internal hernia caused by Meckel's diverticulum: a case report [^4b26f5e4]. BMC Gastroenterology (2020). Medium credibility.
+### An internal hernia caused by Meckel's diverticulum: a case report [^112vRA9Z]. BMC Gastroenterology (2020). Medium credibility.
 
 Case presentation
 
@@ -1004,7 +1004,7 @@ Intraoperative photographs showing the tip of 5 cm long Meckel's diverticulum ad
 
 ---
 
-### Alarm symptoms and identification of non-cancer diagnoses in primary care: cohort study [^210c5d41]. BMJ (2009). Excellent credibility.
+### Alarm symptoms and identification of non-cancer diagnoses in primary care: cohort study [^111qzkBA]. BMJ (2009). Excellent credibility.
 
 In this study we included only patients who had a first ever alarm symptom, with a complete date, recorded between 1 January 1995 and 31 December 2000, and whose data were up to standard at the date of the symptom.
 
@@ -1012,6 +1012,6 @@ We constructed a list of pre-specified, potentially important diagnoses (that is
 
 ---
 
-### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^fba61240]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
+### SNMMI and EANM practice guideline for Meckel diverticulum scintigraphy 2.0 [^117S5g4f]. Journal of Nuclear Medicine Technology (2014). Medium credibility.
 
 Common clinical indications — Meckel scintigraphy is indicated to localize ectopic gastric mucosa in a Meckel diverticulum as the source of unexplained gastrointestinal bleeding; bleeding Meckel diverticulum usually occurs in young children, whereas when bleeding occurs in an older child it is more likely from a benign polyp or small-bowel tumor, and even in young children active bleeding is best studied by radiolabeled red blood cell (RBC) scintigraphy.

@@ -15,27 +15,27 @@ Differential ventilation
 
 > Let's see… What do we have here? The user is asking about differential ventilation. Let's break this down step-by-step. First, I need to think about defining differential ventilation and its core indications. Then, I should verify the pathophysiologic rationale and when it is most compelling. Next, I will review the clinical evidence by scenario, including single-lung transplant, bronchopleural fistula, and ARDS, and I should double-check the strength of evidence in each. After that, I need to examine technical implementation, monitoring, and safety. Finally, I will integrate guideline perspectives, identify knowledge gaps, and outline a cautious, clinically grounded approach with explicit uncertainties and next steps.
 
-> Let me first confirm the definition and scope. Differential ventilation refers to independent control of ventilation parameters to each lung or lung unit when there is marked asymmetry in mechanics, perfusion, or injury, typically via a double-lumen tube, bronchial blocker, or specialized circuits that allow separate tidal volume, PEEP, and frequency settings, with the goal of optimizing gas exchange while minimizing ventilator-induced lung injury in heterogeneous lungs [^d71ce845] [^93463d1e].
+> Let me first confirm the definition and scope. Differential ventilation refers to independent control of ventilation parameters to each lung or lung unit when there is marked asymmetry in mechanics, perfusion, or injury, typically via a double-lumen tube, bronchial blocker, or specialized circuits that allow separate tidal volume, PEEP, and frequency settings, with the goal of optimizing gas exchange while minimizing ventilator-induced lung injury in heterogeneous lungs [^116Vv3kQ] [^114mLmnd].
 
-> Hold on, let's not jump to conclusions about indications. I should verify where the pathophysiologic rationale is strongest: single-lung transplant with native lung hyperinflation, bronchopleural fistula with persistent air leak, and severe asymmetric ARDS with markedly different regional compliance or perfusion are the classic scenarios where differential ventilation has been described, but the evidentiary base varies widely from case series to bench and animal models, so I need to be careful about overgeneralization [^f6c56d0c] [^cc77e80c] [^93463d1e].
+> Hold on, let's not jump to conclusions about indications. I should verify where the pathophysiologic rationale is strongest: single-lung transplant with native lung hyperinflation, bronchopleural fistula with persistent air leak, and severe asymmetric ARDS with markedly different regional compliance or perfusion are the classic scenarios where differential ventilation has been described, but the evidentiary base varies widely from case series to bench and animal models, so I need to be careful about overgeneralization [^117JrGVZ] [^116E8kTM] [^114mLmnd].
 
-> Next, I should review the single-lung transplant evidence. A retrospective series of 13 patients with acute severe native lung hyperinflation after emphysema transplant showed a rapid improvement in PaO2 and suggested that a dynamic compliance ratio of native to donor lung exceeding about 2.7 predicts the need for differential ventilation; importantly, this is low-credibility evidence, so I should treat it as hypothesis-generating rather than definitive [^f6c56d0c]. Let me also confirm guideline positioning: the EACTAIC/SCA/ISHLT consensus advises keeping the double-lumen tube and considering differential ventilation if the patient cannot be extubated and does not tolerate bilateral ventilation with the same settings, which aligns with a cautious, physiology-guided approach in this niche [^bafc09f7].
+> Next, I should review the single-lung transplant evidence. A retrospective series of 13 patients with acute severe native lung hyperinflation after emphysema transplant showed a rapid improvement in PaO2 and suggested that a dynamic compliance ratio of native to donor lung exceeding about 2.7 predicts the need for differential ventilation; importantly, this is low-credibility evidence, so I should treat it as hypothesis-generating rather than definitive [^117JrGVZ]. Let me also confirm guideline positioning: the EACTAIC/SCA/ISHLT consensus advises keeping the double-lumen tube and considering differential ventilation if the patient cannot be extubated and does not tolerate bilateral ventilation with the same settings, which aligns with a cautious, physiology-guided approach in this niche [^115nDMXk].
 
-> I will now examine bronchopleural fistula. Case reports describe successful use of differential ventilation with or without ECMO for traumatic or persistent fistulae, and bench modeling of high-frequency jet ventilation suggests that higher frequencies and lower driving pressures reduce leak, but wait, let me verify the clinical applicability — these are low-credibility data and require careful patient selection and close monitoring for efficacy and complications [^cc77e80c] [^c9dc0838].
+> I will now examine bronchopleural fistula. Case reports describe successful use of differential ventilation with or without ECMO for traumatic or persistent fistulae, and bench modeling of high-frequency jet ventilation suggests that higher frequencies and lower driving pressures reduce leak, but wait, let me verify the clinical applicability — these are low-credibility data and require careful patient selection and close monitoring for efficacy and complications [^116E8kTM] [^116AGRDR].
 
-> For ARDS, I need to check the strength of evidence. Most reports are case-based or experimental, including reexpansion pulmonary edema and surgical contexts, and while personalized ventilation is an emerging theme in ARDS, contemporary guidelines still anchor care in lung-protective strategies and prone positioning rather than routine differential ventilation; thus, any use here should be exceptional and physiology-driven rather than standard [^68f578c0] [^3f8be4d9] [^bac0e04b].
+> For ARDS, I need to check the strength of evidence. Most reports are case-based or experimental, including reexpansion pulmonary edema and surgical contexts, and while personalized ventilation is an emerging theme in ARDS, contemporary guidelines still anchor care in lung-protective strategies and prone positioning rather than routine differential ventilation; thus, any use here should be exceptional and physiology-driven rather than standard [^113gcAUw] [^112dDD7E] [^115msUwt].
 
-> Let me consider the technical implementation details. Double-lumen endotracheal tubes are the conventional approach for lung separation, with bronchial blockers as alternatives when anatomy or timing precludes DLT, and I should confirm that modern devices and standards exist to support safe deployment; indeed, FDA-recognized standards and 510(k) clearances document differential ventilation tubes and accessories, which supports feasibility when indicated [^d71ce845] [^751c1988]. But wait, what if resources are constrained? Emergency ventilator-sharing systems like iSAVE have demonstrated differential PEEP and tidal volume delivery in bench and animal models, yet these remain investigational and require paralysis, sedation, and vigilant monitoring if considered in crisis settings [^904f96e1] [^05edd4cd].
+> Let me consider the technical implementation details. Double-lumen endotracheal tubes are the conventional approach for lung separation, with bronchial blockers as alternatives when anatomy or timing precludes DLT, and I should confirm that modern devices and standards exist to support safe deployment; indeed, FDA-recognized standards and 510(k) clearances document differential ventilation tubes and accessories, which supports feasibility when indicated [^116Vv3kQ] [^113zczQ7]. But wait, what if resources are constrained? Emergency ventilator-sharing systems like iSAVE have demonstrated differential PEEP and tidal volume delivery in bench and animal models, yet these remain investigational and require paralysis, sedation, and vigilant monitoring if considered in crisis settings [^114gwx7A] [^1119npje].
 
-> I should double-check monitoring and safety. Independent pressure and flow monitoring for each lung, serial blood gases, and imaging to assess recruitment and avoid overdistension are essential, and I need to ensure that ventilator displays and sensors accurately reflect delivered volumes because errors can exceed 10% depending on sensor type and location, which can mislead titration in asymmetric lungs [^4180d871]. Let me verify that guidelines emphasize continuous reassessment of driving pressure, plateau pressures, and oxygenation response when personalizing ventilator settings, which is even more critical in differential ventilation [^d9bb686c].
+> I should double-check monitoring and safety. Independent pressure and flow monitoring for each lung, serial blood gases, and imaging to assess recruitment and avoid overdistension are essential, and I need to ensure that ventilator displays and sensors accurately reflect delivered volumes because errors can exceed 10% depending on sensor type and location, which can mislead titration in asymmetric lungs [^112g7URv]. Let me verify that guidelines emphasize continuous reassessment of driving pressure, plateau pressures, and oxygenation response when personalizing ventilator settings, which is even more critical in differential ventilation [^116ZoG9q].
 
-> Next, I should review the broader guideline context to avoid overpromising. Major ARDS guidelines prioritize low tidal volume ventilation, prone positioning in moderate-to-severe disease, and careful PEEP titration, with conditional recommendations for higher PEEP in moderate-to-severe ARDS and explicit cautions about heterogeneity of treatment effects; none endorse routine differential ventilation, reinforcing that it should be reserved for refractory cases with clear asymmetry and after standard measures fail [^d9bb686c] [^3f8be4d9] [^bac0e04b].
+> Next, I should review the broader guideline context to avoid overpromising. Major ARDS guidelines prioritize low tidal volume ventilation, prone positioning in moderate-to-severe disease, and careful PEEP titration, with conditional recommendations for higher PEEP in moderate-to-severe ARDS and explicit cautions about heterogeneity of treatment effects; none endorse routine differential ventilation, reinforcing that it should be reserved for refractory cases with clear asymmetry and after standard measures fail [^116ZoG9q] [^112dDD7E] [^115msUwt].
 
-> Hold on, I should verify the key knowledge gaps. We lack randomized trials of differential ventilation, standardized selection criteria, and validated monitoring thresholds to predict benefit; moreover, the risk of misclassification in ARDS subphenotyping can derail personalized strategies, as highlighted by the LIVE trial, so any future trials of differential ventilation will need robust, real-time phenotyping and careful endpoint selection [^0849b7a6] [^31d9c54a].
+> Hold on, I should verify the key knowledge gaps. We lack randomized trials of differential ventilation, standardized selection criteria, and validated monitoring thresholds to predict benefit; moreover, the risk of misclassification in ARDS subphenotyping can derail personalized strategies, as highlighted by the LIVE trial, so any future trials of differential ventilation will need robust, real-time phenotyping and careful endpoint selection [^111DHfPK] [^112GuYKj].
 
-> Let me synthesize a cautious clinical approach. Differential ventilation is best viewed as a rescue strategy for specific scenarios: single-lung transplant with native lung hyperinflation, refractory bronchopleural fistula, or severe asymmetric ARDS with markedly disparate compliance or perfusion, after exhausting standard lung-protective measures and prone positioning; implementation requires expert airway management, independent lung monitoring, and continuous reassessment of gas exchange, hemodynamics, and ventilator mechanics, with a low threshold to abandon the strategy if no clear benefit emerges [^bafc09f7] [^3f8be4d9] [^d9bb686c].
+> Let me synthesize a cautious clinical approach. Differential ventilation is best viewed as a rescue strategy for specific scenarios: single-lung transplant with native lung hyperinflation, refractory bronchopleural fistula, or severe asymmetric ARDS with markedly disparate compliance or perfusion, after exhausting standard lung-protective measures and prone positioning; implementation requires expert airway management, independent lung monitoring, and continuous reassessment of gas exchange, hemodynamics, and ventilator mechanics, with a low threshold to abandon the strategy if no clear benefit emerges [^115nDMXk] [^112dDD7E] [^116ZoG9q].
 
-> Finally, I need to ensure the bottom line is precise. Differential ventilation is a niche, physiology-guided intervention with low-credibility evidence that can be lifesaving in select contexts but should not replace evidence-based ARDS care; its use should be exceptional, carefully monitored, and ideally embedded in prospective data collection to advance our understanding and define who truly benefits from this approach [^f6c56d0c] [^cc77e80c] [^3f8be4d9].
+> Finally, I need to ensure the bottom line is precise. Differential ventilation is a niche, physiology-guided intervention with low-credibility evidence that can be lifesaving in select contexts but should not replace evidence-based ARDS care; its use should be exceptional, carefully monitored, and ideally embedded in prospective data collection to advance our understanding and define who truly benefits from this approach [^117JrGVZ] [^116E8kTM] [^112dDD7E].
 
 ---
 
@@ -47,16 +47,16 @@ Differential ventilation is a **specialized strategy** for patients with markedl
 
 Differential ventilation is indicated in **select scenarios** with asymmetric lung mechanics or pathology:
 
-- **Single-lung transplantation**: Native lung hyperinflation causing mediastinal shift, impaired venous return, and severe V/Q mismatch [^f6c56d0c].
-- **Bronchopleural fistula**: Persistent air leak despite conservative management, where isolating the affected lung reduces leak and improves ventilation [^cc77e80c].
-- **Severe unilateral lung injury**: Marked asymmetry in compliance or resistance, such as unilateral pneumonia, contusion, or reexpansion pulmonary edema [^68f578c0].
-- **Thoracic surgery**: One-lung ventilation for surgical exposure, with differential ventilation maintaining oxygenation and preventing hyperinflation of the nonoperative lung [^217e581f].
+- **Single-lung transplantation**: Native lung hyperinflation causing mediastinal shift, impaired venous return, and severe V/Q mismatch [^117JrGVZ].
+- **Bronchopleural fistula**: Persistent air leak despite conservative management, where isolating the affected lung reduces leak and improves ventilation [^116E8kTM].
+- **Severe unilateral lung injury**: Marked asymmetry in compliance or resistance, such as unilateral pneumonia, contusion, or reexpansion pulmonary edema [^113gcAUw].
+- **Thoracic surgery**: One-lung ventilation for surgical exposure, with differential ventilation maintaining oxygenation and preventing hyperinflation of the nonoperative lung [^111rf2ge].
 
 ---
 
 ## Physiological rationale
 
-The rationale is to **match ventilation to regional mechanics and perfusion**, thereby improving oxygenation and CO2 removal while limiting VILI. In asymmetric lungs, uniform ventilation can overdistend compliant regions and under-ventilate stiff regions, worsening V/Q mismatch and barotrauma. Differential ventilation allows tailored tidal volumes, PEEP, and respiratory rates to each lung, optimizing recruitment and minimizing injury [^93463d1e].
+The rationale is to **match ventilation to regional mechanics and perfusion**, thereby improving oxygenation and CO2 removal while limiting VILI. In asymmetric lungs, uniform ventilation can overdistend compliant regions and under-ventilate stiff regions, worsening V/Q mismatch and barotrauma. Differential ventilation allows tailored tidal volumes, PEEP, and respiratory rates to each lung, optimizing recruitment and minimizing injury [^114mLmnd].
 
 ---
 
@@ -66,9 +66,9 @@ Differential ventilation requires **specialized equipment and techniques**:
 
 | **Technique** | **Equipment** | **Description** |
 |-|-|-|
-| Double-lumen endotracheal tube (DLT) | - DLT (left or right) <br/> - Fiberoptic bronchoscope | - Most common method <br/> - Allows independent ventilation of each lung <br/> - Requires bronchoscopic confirmation of position [^bafc09f7] |
-| Bronchial blocker | - Arndt or Cohen blocker <br/> - Single-lumen ETT <br/> - Fiberoptic bronchoscope | - Alternative when DLT is contraindicated <br/> - Allows selective lung isolation and ventilation [^07a7997f] |
-| Novel devices | - Selective lobe ventilation systems <br/> - iSAVE ventilator-sharing platform | - Experimental <br/> - Enable differential ventilation with individualized parameters [^93463d1e] [^904f96e1] |
+| Double-lumen endotracheal tube (DLT) | - DLT (left or right) <br/> - Fiberoptic bronchoscope | - Most common method <br/> - Allows independent ventilation of each lung <br/> - Requires bronchoscopic confirmation of position [^115nDMXk] |
+| Bronchial blocker | - Arndt or Cohen blocker <br/> - Single-lumen ETT <br/> - Fiberoptic bronchoscope | - Alternative when DLT is contraindicated <br/> - Allows selective lung isolation and ventilation [^111CMD5Q] |
+| Novel devices | - Selective lobe ventilation systems <br/> - iSAVE ventilator-sharing platform | - Experimental <br/> - Enable differential ventilation with individualized parameters [^114mLmnd] [^114gwx7A] |
 
 ---
 
@@ -76,9 +76,9 @@ Differential ventilation requires **specialized equipment and techniques**:
 
 Evidence is limited but suggests **meaningful benefits** in specific contexts:
 
-- **Improved oxygenation**: Rapid improvement in PaO2/FiO2 in single-lung transplant and severe unilateral lung injury [^f6c56d0c] [^68f578c0].
-- **Reduced air leak**: Effective control of bronchopleural fistula with decreased leak and improved ventilation [^cc77e80c].
-- **Minimized VILI**: Tailored ventilation reduces overdistension and atelectrauma in asymmetric lungs [^93463d1e].
+- **Improved oxygenation**: Rapid improvement in PaO2/FiO2 in single-lung transplant and severe unilateral lung injury [^117JrGVZ] [^113gcAUw].
+- **Reduced air leak**: Effective control of bronchopleural fistula with decreased leak and improved ventilation [^116E8kTM].
+- **Minimized VILI**: Tailored ventilation reduces overdistension and atelectrauma in asymmetric lungs [^114mLmnd].
 
 ---
 
@@ -86,28 +86,28 @@ Evidence is limited but suggests **meaningful benefits** in specific contexts:
 
 Differential ventilation carries **significant risks and limitations**:
 
-- **Technical complexity**: Requires specialized equipment, bronchoscopic expertise, and vigilant monitoring for tube malposition or obstruction [^bafc09f7].
-- **Barotrauma**: Risk of overdistension or rupture in hyperinflated or fragile lung segments [^d9bb686c].
-- **Infection risk**: Prolonged intubation and bronchoscopy increase the risk of VAP [^6282966d].
+- **Technical complexity**: Requires specialized equipment, bronchoscopic expertise, and vigilant monitoring for tube malposition or obstruction [^115nDMXk].
+- **Barotrauma**: Risk of overdistension or rupture in hyperinflated or fragile lung segments [^116ZoG9q].
+- **Infection risk**: Prolonged intubation and bronchoscopy increase the risk of VAP [^113X3efn].
 - **Limited evidence**: Most data are from case series; high-quality RCTs are lacking, limiting widespread adoption [^notfound].
 
 ---
 
 ## Comparison with conventional ventilation strategies
 
-Conventional ventilation applies uniform parameters to both lungs, which can exacerbate V/Q mismatch and VILI in asymmetric disease. Differential ventilation **individualizes settings** to each lung, improving oxygenation and reducing injury, but at the cost of complexity and risk. It is not a replacement for standard lung-protective strategies but a rescue approach for refractory cases [^3f8be4d9].
+Conventional ventilation applies uniform parameters to both lungs, which can exacerbate V/Q mismatch and VILI in asymmetric disease. Differential ventilation **individualizes settings** to each lung, improving oxygenation and reducing injury, but at the cost of complexity and risk. It is not a replacement for standard lung-protective strategies but a rescue approach for refractory cases [^112dDD7E].
 
 ---
 
 ## Current clinical guidelines and expert consensus
 
-Current guidelines do not routinely recommend differential ventilation; it is reserved for **refractory cases** after standard ARDSnet strategies (low tidal volume, adequate PEEP, prone positioning) fail. Expert consensus emphasizes careful patient selection, bronchoscopic confirmation of tube position, and close monitoring for complications [^bafc09f7].
+Current guidelines do not routinely recommend differential ventilation; it is reserved for **refractory cases** after standard ARDSnet strategies (low tidal volume, adequate PEEP, prone positioning) fail. Expert consensus emphasizes careful patient selection, bronchoscopic confirmation of tube position, and close monitoring for complications [^115nDMXk].
 
 ---
 
 ## Future directions and research needs
 
-Key priorities include **randomized controlled trials** to define patient selection, outcomes, and safety, and development of standardized protocols and training. Advances in imaging and monitoring could enable real-time assessment of regional mechanics and perfusion to guide differential ventilation [^934f0de0].
+Key priorities include **randomized controlled trials** to define patient selection, outcomes, and safety, and development of standardized protocols and training. Advances in imaging and monitoring could enable real-time assessment of regional mechanics and perfusion to guide differential ventilation [^114mPjXV].
 
 ---
 
@@ -117,7 +117,7 @@ Differential ventilation is a **targeted rescue strategy** for severe asymmetric
 
 ## References
 
-### Mechanical ventilation in COVID-19: interpreting the current epidemiology [^4bf20c95]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### Mechanical ventilation in COVID-19: interpreting the current epidemiology [^112wbNdi]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Figure 1.
 Mortality with use of invasive mechanical ventilation (IMV) for patients with coronavirus disease (COVID-19). The red line represents the expected increasing mortality associated with COVID-19 as age or number and severity of comorbidities increases; the black line represents the idealized ability to reduce mortality to the same low rate for all, irrespective of patient characteristics. The blue line represents the likely differential impact of IMV with more benefit for those who are younger and healthier at baseline and less benefit for those who are older and with more underlying health issues.
@@ -126,7 +126,7 @@ The decision to place a patient with COVID-19 on a ventilator is not clear-cut a
 
 ---
 
-### Evaluating the effects of protective ventilation on organ-specific cytokine production in porcine experimental postoperative sepsis [^61629dc9]. BMC Pulmonary Medicine (2015). Low credibility.
+### Evaluating the effects of protective ventilation on organ-specific cytokine production in porcine experimental postoperative sepsis [^113VNvY8]. BMC Pulmonary Medicine (2015). Low credibility.
 
 Conclusions
 
@@ -134,7 +134,7 @@ Cytokine output is differential between organs during experimental sepsis. We se
 
 ---
 
-### An update on management of adult patients with acute respiratory distress syndrome: an official American Thoracic Society clinical practice guideline [^3f8be4d9]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
+### An update on management of adult patients with acute respiratory distress syndrome: an official American Thoracic Society clinical practice guideline [^112dDD7E]. American Journal of Respiratory and Critical Care Medicine (2024). Medium credibility.
 
 Discussion
 
@@ -144,13 +144,13 @@ In addition to implementation research, there are several opportunities to addre
 
 ---
 
-### New treatment method for reexpansion pulmonary edema: differential lung ventilation [^68f578c0]. The Annals of Thoracic Surgery (2005). Low credibility.
+### New treatment method for reexpansion pulmonary edema: differential lung ventilation [^113gcAUw]. The Annals of Thoracic Surgery (2005). Low credibility.
 
 Reexpansion pulmonary edema (REPE) is an iatrogenic complication that develops in a lung rapidly reinflated after varied periods of collapse. Though infrequent, it is often lethal. Measures to prevent REPE are well known and mild cases may be reversed with conventional ventilator therapy and medication; however, there is no definitive treatment for this condition in its severest forms. Asynchronous differential lung ventilation is a relatively new therapeutic modality for preoperative, intraoperative, or postoperative treatment of respiratory failure secondary to ventilation-perfusion mismatch. Successful treatment of severe REPE in a 29-year-old male patient is described, using asynchronous differential lung ventilation.
 
 ---
 
-### Reply to kuindersma and spronk: time to tailor the one-size-fits-all approach? [^744ad82a]. American Journal of Respiratory and Critical Care Medicine (2022). Medium credibility.
+### Reply to kuindersma and spronk: time to tailor the one-size-fits-all approach? [^113yQhn1]. American Journal of Respiratory and Critical Care Medicine (2022). Medium credibility.
 
 Despite these limitations, we agree with Kuindersma and Spronk that the results of our analysis merit consideration of how best to personalize care for patients with COVID-19–related ARDS. Given that prospective, randomized controlled trials have shown a benefit for corticosteroid therapy in severe COVID-19, there is a lack of equipoise to withhold its use for patients requiring invasive mechanical ventilation. Nevertheless, a more sophisticated approach to identifying patient populations with differential response to immunomodulatory therapy is appealing, particularly as ongoing studies reveal heterogeneous efficacy of corticosteroids in COVID-19 depending on disease severity, timing of administration, and underlying patient characteristics. Although our study provides one possibility to identifying subgroups with differential treatment response, the best approach to identifying such patients remains uncertain and requires further evaluation. Kuindersma and Spronk's proposed method of incorporating a parsimonious classifier model and SARS-CoV-2 viral load into the decision to initiate corticosteroid therapy may ultimately be an effective strategy pending rigorous prospective studies to validate the process.
 
@@ -158,7 +158,7 @@ To achieve a more precise utilization of corticosteroid therapy in COVID-19–re
 
 ---
 
-### Differential lung ventilation after single-lung transplantation for emphysema [^f6c56d0c]. Journal of Cardiothoracic and Vascular Anesthesia (2002). Low credibility.
+### Differential lung ventilation after single-lung transplantation for emphysema [^117JrGVZ]. Journal of Cardiothoracic and Vascular Anesthesia (2002). Low credibility.
 
 Objective
 
@@ -186,13 +186,13 @@ In addition to previous case reports, this series shows that differential lung v
 
 ---
 
-### Acute respiratory distress syndrome [^f4dc7b4f]. Lancet (2021). Excellent credibility.
+### Acute respiratory distress syndrome [^117G236E]. Lancet (2021). Excellent credibility.
 
 Acute respiratory distress syndrome (ARDS) is an acute respiratory illness characterised by bilateral chest radiographical opacities with severe hypoxaemia due to non-cardiogenic pulmonary oedema. The COVID-19 pandemic has caused an increase in ARDS and highlighted challenges associated with this syndrome, including its unacceptably high mortality and the lack of effective pharmacotherapy. In this Seminar, we summarise current knowledge regarding ARDS epidemiology and risk factors, differential diagnosis, and evidence-based clinical management of both mechanical ventilation and supportive care, and discuss areas of controversy and ongoing research. Although the Seminar focuses on ARDS due to any cause, we also consider commonalities and distinctions of COVID-19-associated ARDS compared with ARDS from other causes.
 
 ---
 
-### Addressing sex as a biological variable in preclinical models of lung disease: an official American Thoracic Society research statement [^7a26a514]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
+### Addressing sex as a biological variable in preclinical models of lung disease: an official American Thoracic Society research statement [^11486UF5]. American Journal of Respiratory and Critical Care Medicine (2025). Medium credibility.
 
 Study of disease phenotypes across puberty
 
@@ -202,13 +202,13 @@ When designing experiments across puberty, researchers should consider that rapi
 
 ---
 
-### Selective lobe ventilation and a novel platform for pulmonary drug delivery [^93463d1e]. Journal of Cardiothoracic and Vascular Anesthesia (2021). Medium credibility.
+### Selective lobe ventilation and a novel platform for pulmonary drug delivery [^114mLmnd]. Journal of Cardiothoracic and Vascular Anesthesia (2021). Medium credibility.
 
 The current methods of mechanical ventilation and pulmonary drug delivery do not account for the heterogeneity of acute respiratory distress syndrome or its dependence on gravity. The severe lung disease caused by severe acute respiratory distress syndrome coronavirus 2, coronavirus disease 2019, is one of the many causes of acute respiratory distress syndrome. Severe acute respiratory distress syndrome coronavirus 2 has caused more than three million deaths worldwide and has challenged all therapeutic options for mechanical ventilation. Thus, new therapies are necessary to prevent deaths and long-term complications of severe lung diseases and prolonged mechanical ventilation. The authors of the present report have developed a novel device that allows selective lobe ventilation and selective lobe recruitment and provides a new platform for pulmonary drug delivery. A major advantage of separating lobes that are mechanically heterogeneous is to allow for customization of ventilator parameters to match the needs of segments with similar compliance, a better overall ventilation perfusion relationship, and prevention of ventilator-induced lung injury of more compliant lobes. This device accounts for lung heterogeneity and is a potential new therapy for acute lung injury by allowing selective lobe mechanical ventilation using two novel modes of mechanical ventilation (differential positive end-expiratory pressure and asynchronous ventilation), and two new modalities of alveolar recruitment (selective lobe recruitment and continuous positive airway pressure of lower lobes with continuous ventilation of upper lobes). Herein the authors report their initial experience with this novel device, including a brief overview of device development; the initial in vitro, ex vivo, and in vivo testing; layout of future research; potential benefits and new therapies; and expected challenges before its uniform implementation into clinical practice.
 
 ---
 
-### Differential lung ventilation for increased oxygenation during one lung ventilation for video assisted lung surgery [^217e581f]. Journal of Cardiothoracic Surgery (2019). Medium credibility.
+### Differential lung ventilation for increased oxygenation during one lung ventilation for video assisted lung surgery [^111rf2ge]. Journal of Cardiothoracic Surgery (2019). Medium credibility.
 
 Conclusions
 
@@ -216,19 +216,19 @@ The use of DLV while ventilating one lung may improve patient's oxygenation, and
 
 ---
 
-### International consensus recommendations for anesthetic and intensive care management of lung transplantation. An EACTAIC, SCA, ISHLT, ESOT, ESTS, and AST approved document [^bafc09f7]. The Journal of Heart and Lung Transplantation (2021). High credibility.
+### International consensus recommendations for anesthetic and intensive care management of lung transplantation. An EACTAIC, SCA, ISHLT, ESOT, ESTS, and AST approved document [^115nDMXk]. The Journal of Heart and Lung Transplantation (2021). High credibility.
 
 Lung transplantation — conclusion of the transplant operation includes addressing substantial intra-operative size mismatch with delayed chest closure and/or lung reduction surgery. If iNO therapy is to be continued in the ICU, administration should be uninterrupted during transit; weaning should only proceed in the presence of senior clinical staff, preferentially during the daytime, and bridging therapy should be implemented to avoid rebound pulmonary hypertension and potential cardiorespiratory instability. Changing from double lumen tube to single lumen tube should be considered as potentially difficult, and use of a tube exchanger is recommended to maintain a secure airway. Keeping the double lumen tube and differential lung ventilation should be considered in emphysema patients following single-lung transplantation if they cannot be extubated and do not tolerate ventilation of both lungs with the same settings. Assessment of vascular anastomoses with TEE should be performed on all patients before leaving the operating room and reassessed in the ICU if unexplained hypoxemia or hemodynamic instability is present, and TEE is recommended during hypotension when transthoracic echocardiogram (TTE) provides poor echocardiographic windows for a complete cardiac exam.
 
 ---
 
-### COVID-19-associated acute respiratory distress syndrome: is a different approach to management warranted? [^7636e21a]. The Lancet: Respiratory Medicine (2020). High credibility.
+### COVID-19-associated acute respiratory distress syndrome: is a different approach to management warranted? [^1142FyTw]. The Lancet: Respiratory Medicine (2020). High credibility.
 
 The COVID-19 pandemic has seen a surge of patients with acute respiratory distress syndrome (ARDS) in intensive care units across the globe. As experience of managing patients with COVID-19-associated ARDS has grown, so too have efforts to classify patients according to respiratory system mechanics, with a view to optimising ventilatory management. Personalised lung-protective mechanical ventilation reduces mortality and has become the mainstay of treatment in ARDS. In this Viewpoint, we address ventilatory strategies in the context of recent discussions on phenotypic heterogeneity in patients with COVID-19-associated ARDS. Although early reports suggested that COVID-19-associated ARDS has distinctive features that set it apart from historical ARDS, emerging evidence indicates that the respiratory system mechanics of patients with ARDS, with or without COVID-19, are broadly similar. In the absence of evidence to support a shift away from the current paradigm of ventilatory management, we strongly recommend adherence to evidence-based management, informed by bedside physiology, as resources permit.
 
 ---
 
-### Severity of hypoxemia and effect of high-frequency oscillatory ventilation in acute respiratory distress syndrome [^89e90a16]. American Journal of Respiratory and Critical Care Medicine (2017). Low credibility.
+### Severity of hypoxemia and effect of high-frequency oscillatory ventilation in acute respiratory distress syndrome [^114XTaah]. American Journal of Respiratory and Critical Care Medicine (2017). Low credibility.
 
 Rationale
 
@@ -252,7 +252,7 @@ HFOV increases mortality for most patients with ARDS but may improve survival am
 
 ---
 
-### A novel inline PEEP valve design for differential multi-ventilation [^70171451]. The American Journal of Emergency Medicine (2020). Medium credibility.
+### A novel inline PEEP valve design for differential multi-ventilation [^113sBNBi]. The American Journal of Emergency Medicine (2020). Medium credibility.
 
 Background
 
@@ -272,43 +272,43 @@ Our novel inline PEEP valve design shows promise as an option for building a saf
 
 ---
 
-### Malignant hyperinflation of the nondependent lung during chest surgery [^756ad5e5]. European Journal of Anaesthesiology (2001). Low credibility.
+### Malignant hyperinflation of the nondependent lung during chest surgery [^11415SJ8]. European Journal of Anaesthesiology (2001). Low credibility.
 
 Unilateral malignant hyperinflation of the lungs during positive pressure mechanical ventilation was described during aggressive respiratory therapy of unilateral lung disease or in situations of significant difference in compliance between the two lungs. We report a case of malignant hyperinflation of the nondependent lung during chest surgery. The differential diagnosis and treatment with differential lung ventilation are described.
 
 ---
 
-### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^72efc42b]. Chest (2006). Medium credibility.
+### Anatomy and neurophysiology of the cough reflex: ACCP evidence-based clinical practice guidelines [^113wQ89g]. Chest (2006). Medium credibility.
 
 Cough versus breathing regulation and chemosensory influences — cough and breathing can be differentially regulated by primary afferent inputs to the brainstem, indicating regulation of cough is customized to the function of the behavior. During cough, ventilation increases significantly and this alteration is necessary to prevent a loss of respiratory muscle excitability as CO2 falls; the depression of cough induced by hypoxia is less well understood and may reflect a shift in priority of the respiratory muscle control system. The permissive/facilitatory effect of SARs on cough is also not well understood but may help optimize respiratory muscle performance and facilitate expulsive airflows when cough is elicited at higher lung volumes.
 
 ---
 
-### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^b34a0030]. PM & R (2025). High credibility.
+### Multidisciplinary collaborative guidance on the assessment and treatment of patients with long COVID: a compendium statement [^115aoe6T]. PM & R (2025). High credibility.
 
 Long COVID — breathing/respiratory symptoms and differentials include dyspnea at rest or disproportionate dyspnea with activity; chest discomfort with pain, tightness, constriction, and/or pressure; inability to take a full deep breath; and new or progressive cough or chest congestion. Differential diagnoses to consider (new, worsening, or underlying) include nonpulmonary contributions (eg, neurologic, cardiovascular, neuromuscular) and other pulmonary and airway conditions (eg, asthma).
 
 ---
 
-### NTCA guidelines for respiratory isolation and restrictions to reduce transmission of pulmonary tuberculosis in community settings [^bd731b7b]. Clinical Infectious Diseases (2024). High credibility.
+### NTCA guidelines for respiratory isolation and restrictions to reduce transmission of pulmonary tuberculosis in community settings [^115qsKjY]. Clinical Infectious Diseases (2024). High credibility.
 
 Respiratory isolation and restrictions — scope, setting, and activity allowances — Extensive restriction is the most restrictive form of RIR that limits movement to an agreed-upon location physically separated from others and avoids shared ventilation; locations may include the individual's home or, if a community setting is unavailable, a hospital airborne-infection isolation (AII) room. When extensive restrictions are implemented, plans should be developed and monitored by public health authorities and the PWTB using a patient-centered approach, and all individuals should have adequate provisions for activities of daily living with support from public health departments when needed. In most circumstances, the location of RIR is preferred to be in the home over hospital settings. In most instances, midlevel restrictions are expected to meet public health goals, allow some movement for activities in lower-risk settings, and because there is differential transmission risk based on setting and ventilation, outdoor or naturally ventilated or UV-light settings are anticipated to reduce exposure, making most outdoor activities permissible within midlevel restrictions.
 
 ---
 
-### Differential lung ventilation in an infant using LMA and a long tracheal tube [^ca632225]. Paediatric Anaesthesia (2003). Low credibility.
+### Differential lung ventilation in an infant using LMA and a long tracheal tube [^116B3oCY]. Paediatric Anaesthesia (2003). Low credibility.
 
 This is a case report of differential lung ventilation in an infant using a conventional laryngeal mask airway (LMATM) and a commercially available longer paediatric tracheal tube. This 2-month-old infant had her left-sided congenital diaphragmatic hernia repaired on the sixth day of her life, and had been mechanically ventilated. The right middle lobe became grossly emphysematous and herniated into the left side of the chest, and the right lower lobe became totally atelectatic. A right middle lobe lobectomy was planned. To avoid hyperinflating the right middle lobe, and to expand the right lower lobe without providing a high airway pressure on the left lung, the dependent lung (i.e. left lung) was ventilated with an LMA, and the right lower lobe was expanded with a long tracheal tube inserted through the LMA via the swivel connector. This combination of a conventional LMA and a commercially available longer paediatric tracheal tube could be another way of providing differential ventilation in infants.
 
 ---
 
-### SNM practice guideline for lung scintigraphy 4.0 [^815d7ddd]. Journal of Nuclear Medicine Technology (2012). Medium credibility.
+### SNM practice guideline for lung scintigraphy 4.0 [^114Jnoic]. Journal of Nuclear Medicine Technology (2012). Medium credibility.
 
 Further interpretive considerations — ventilation–perfusion mismatch, extrapulmonary activity, and the stripe sign are described: Ventilation–perfusion mismatch can result from any cause of pulmonary arterial blood flow obstruction, and although there is a long differential diagnosis, there are few common causes including acute pulmonary embolism, old pulmonary embolism, obstruction of an artery by tumor, and radiation therapy; on perfusion scintigraphy, extrapulmonary activity (which may be seen at the edges of lung images in the thyroid or kidneys) may be the result of right-to-left shunting, free 99mTc-pertechnetate, reduced 99mTc compounds, or another recent nuclear medicine procedure, and an image of the head can be used to differentiate free 99mTc-pertechnetate or reduced 99mTc compounds from a right-to-left shunting; the stripe sign (activity at the periphery of a perfusion defect) suggests nonembolic disease.
 
 ---
 
-### The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening [^37132492]. Nature Communications (2021). High credibility.
+### The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening [^112QekS5]. Nature Communications (2021). High credibility.
 
 Differential rat lung ventilation
 
@@ -320,7 +320,7 @@ Computational clutch model
 
 ---
 
-### Comparability of quantifying relative lung ventilation with inhaledTc-technegas andXe in patients undergoing evaluation for lung transplantation [^83e7bd40]. Journal of Nuclear Medicine (2025). Medium credibility.
+### Comparability of quantifying relative lung ventilation with inhaledTc-technegas andXe in patients undergoing evaluation for lung transplantation [^114NZDZZ]. Journal of Nuclear Medicine (2025). Medium credibility.
 
 Lung ventilation quantification is a critical component in the management of patients with various pulmonary conditions, particularly in the preoperative and postoperative evaluation of those undergoing lung resection and lung transplantation. For instance, the preoperative functional data help guide surgery, with the worse functioning lung removed first in bilateral lung transplantation to avoid the requirement for cardiac bypass. Serial comparison of relative lung ventilation can also help in the assessment of therapeutic effectiveness and determine longitudinal trends in lung function. Forced expiratory volume in 1 s, a common measure of lung ventilation, is an independent predictor of morbidity in patients undergoing lobar or sublobar pulmonary resection or pneumonectomy. However, preoperative measurement of the forced expiratory volume in 1 s does not permit evaluation of differential pulmonary ventilation and does not highlight regional differences, especially in the setting of chronic obstructive pulmonary disease. Traditionally, this quantification has been achieved using 133 Xe, a radioactive gas that has served as the standard for evaluating regional lung function, especially in patients with borderline-low baseline reserves. The distribution of 133 Xe in early wash-in during tidal breathing closely approximates the minute ventilation rate, whereas its distribution at the end of wash-in approximates the lung volume. Notably, quantification of relative lung ventilation with another radiopharmaceutical, aerosolized 99m Tc-diethylenetriamine pentaacetate (99m Tc-DTPA), is challenging, especially because of increased central airway deposition in patients with obstructive lung disease, which leads to suboptimal imaging and limits the accuracy of differential ventilation quantification.
 
@@ -328,7 +328,7 @@ In contrast, 99m Tc-Technegas (Cyclomedica Ltd.), which is composed of ultrafine
 
 ---
 
-### A rapidly deployable individualized system for augmenting ventilator capacity [^904f96e1]. Science Translational Medicine (2020). Medium credibility.
+### A rapidly deployable individualized system for augmenting ventilator capacity [^114gwx7A]. Science Translational Medicine (2020). Medium credibility.
 
 Fig. 3
 Ventilation of two pigs on the iSAVE. (A) Experimental setup for stage 2 and stage 3 of shared ventilation of pig A (74 kg) and pig B (88 kg) with iSAVE using closed-circuit ventilation. (B) Photograph of the experimental setup. Pressure, flow, and volume waveforms for (C) pig A ventilated individually (stage 1), (D) pig B ventilated individually (stage 1), and (E) pigs A and B ventilated together on the iSAVE (stage 3). (F) Table summarizing ventilatory and respiratory parameters and arterial blood gasses for (C-E). Mean ± SD was calculated from 300 breathing cycles. No significant differences were found between the individual and shared ventilation approaches (homoscedastic two-tailed t test, P > 0.05).
@@ -342,7 +342,7 @@ Differential tidal volume and PEEP during ventilation of two pigs on the iSAVE w
 
 ---
 
-### Recognized consensus standards: medical devices… [^d71ce845]. FDA (AccessData) (2023). Medium credibility.
+### Recognized consensus standards: medical devices… [^116Vv3kQ]. FDA (AccessData) (2023). Medium credibility.
 
 Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip to Common Links Recognized Consensus Standards: Medical Devices FDA Home Medical Devices Databases 510 DeNovo Registration & Listing Adverse Events Recalls PMA HDE Classification. Standards CFR Title 21 Radiation-Emitting Products X-Ray Assembler Medsun Reports CLIA TPLC New Search Back To Search Results Part B: Supplementary Information Sheet FR Recognition List Number 060 Date of Entry 05/29/2023. FR Recognition Number 1–161 Standard ISO 16628 Second edition 2022–06 Anaesthetic and respiratory equipment
 - Tracheobronchial tubes Scope/Abstract This document specifies requirements for safety, materials, design and information supplied with tracheobronchial tubes. These devices are used when isolation of the airways of one or both lungs is required. Tracheal tubes that include bronchus blockers are excluded from the scope of this document.
@@ -352,7 +352,7 @@ Extent of Recognition Complete standard Rationale for Recognition This standard 
 
 ---
 
-### Optimal positive end-expiratory pressure (PEEP) settings in differential lung ventilation during simultaneous unilateral pneumothorax and laparoscopy: an experimental study in pigs [^d29530a9]. Surgical Endoscopy (2001). Low credibility.
+### Optimal positive end-expiratory pressure (PEEP) settings in differential lung ventilation during simultaneous unilateral pneumothorax and laparoscopy: an experimental study in pigs [^116PCWdv]. Surgical Endoscopy (2001). Low credibility.
 
 Background
 
@@ -372,7 +372,7 @@ Pneumopleuroperitoneum under positive CO2 insufflation pressure had adverse effe
 
 ---
 
-### A rapidly deployable individualized system for augmenting ventilator capacity [^ac4d0dcd]. Science Translational Medicine (2020). Medium credibility.
+### A rapidly deployable individualized system for augmenting ventilator capacity [^115QSkbv]. Science Translational Medicine (2020). Medium credibility.
 
 MATERIALS AND METHODS
 
@@ -386,7 +386,7 @@ A Philips Trilogy portable ventilator was used as a representative open-circuit 
 
 ---
 
-### Recognized consensus standards: medical… -accessdata.fda.gov… [^816a5b82]. FDA (AccessData) (2016). Low credibility.
+### Recognized consensus standards: medical… -accessdata.fda.gov… [^114Js8N5]. FDA (AccessData) (2016). Low credibility.
 
 Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip to Common Links Recognized Consensus Standards: Medical Devices FDA Home Medical Devices Databases 510 DeNovo Registration & Listing Adverse Events Recalls PMA HDE Classification. Standards CFR Title 21 Radiation-Emitting Products X-Ray Assembler Medsun Reports CLIA TPLC New Search Back To Search Results Part B: Supplementary Information Sheet FR Recognition List Number 046 Date of Entry 12/23/2016. FR Recognition Number 1–119 Standard ISO 14408 Third edition 2016-02-15 Tracheal tubes designed for laser surgery
 - Requirements for marking and accompanying information Scope/Abstract ISO 14408: 2016 specifies marking, labelling, and information to be supplied by the manufacturer for cuffed and uncuffed tracheal tubes and related materials designed to resist ignition by a laser.
@@ -397,7 +397,7 @@ Extent of Recognition Complete standard Rationale for Recognition This standard 
 
 ---
 
-### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^0849b7a6]. Intensive Care Medicine (2023). Medium credibility.
+### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^111DHfPK]. Intensive Care Medicine (2023). Medium credibility.
 
 Domain 2: ARDS phenotyping
 
@@ -419,7 +419,7 @@ Accurate classification of the sub-phenotype is critical as exemplified by the r
 
 ---
 
-### Mechanical ventilation: past lessons and the near future [^687a6ea8]. Critical Care (2013). Low credibility.
+### Mechanical ventilation: past lessons and the near future [^113ftqUs]. Critical Care (2013). Low credibility.
 
 Complexity and clinical trials
 
@@ -427,7 +427,7 @@ Few rules governing mechanical ventilation apply across all phases and severitie
 
 ---
 
-### Lung metabolic activation as an early biomarker of acute respiratory distress syndrome and local gene expression heterogeneity [^bcee859d]. Anesthesiology (2016). Low credibility.
+### Lung metabolic activation as an early biomarker of acute respiratory distress syndrome and local gene expression heterogeneity [^115q6nmA]. Anesthesiology (2016). Low credibility.
 
 Background
 
@@ -447,7 +447,7 @@ Heterogeneous lung metabolic activation precedes increases in lung density in th
 
 ---
 
-### A rapidly deployable individualized system for augmenting ventilator capacity [^8cba6f03]. Science Translational Medicine (2020). Medium credibility.
+### A rapidly deployable individualized system for augmenting ventilator capacity [^114bdtUS]. Science Translational Medicine (2020). Medium credibility.
 
 Benchtop testing of the iSAVE using linear test lungs
 
@@ -462,13 +462,13 @@ Individualized ventilation and management of patient interdependence using artif
 
 ---
 
-### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^0bac6bdc]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^111JJn91]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine ARDS mechanical ventilation guideline — evidence synthesis and recommendation strength follow the GRADE approach: recommendations are either "strong" or "conditional", with the phrases "we recommend" for strong recommendations and "we suggest" for conditional recommendations; the committee weighed GRADE evidence profiles and additional evidence when deliberating. Meta-analyses were performed using random-effects models in RevMan 5.2, binary outcomes are presented as risk ratios and continuous outcomes as weighted mean differences with 95% confidence intervals (CIs), and confidence in effect estimates was assessed with GRADE; randomized trials begin as high-quality evidence and can be rated down or up based on specified factors, and overall confidence was categorized as high, moderate, low, or very low. Primary analyses for each PICO question were limited to RCTs without important cointerventions.
 
 ---
 
-### Short women with severe sepsis-related acute lung injury receive lung protective ventilation less frequently: an observational cohort study [^84a6c82e]. Critical Care (2011). Low credibility.
+### Short women with severe sepsis-related acute lung injury receive lung protective ventilation less frequently: an observational cohort study [^114PfPNd]. Critical Care (2011). Low credibility.
 
 Discussion
 
@@ -480,7 +480,7 @@ Our study showed the ventilatory care in intubated ALI patients was different by
 
 ---
 
-### Endoscopic lung volume reduction in COPD: improvements in gas transfer capacity are associated with improvements in ventilation and perfusion matching [^3c660cbf]. Journal of Bronchology & Interventional Pulmonology (2018). Low credibility.
+### Endoscopic lung volume reduction in COPD: improvements in gas transfer capacity are associated with improvements in ventilation and perfusion matching [^112YYXzv]. Journal of Bronchology & Interventional Pulmonology (2018). Low credibility.
 
 Background
 
@@ -496,19 +496,19 @@ ELVR results in improved KCO for at least 12 months. This may be explained by th
 
 ---
 
-### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^d0070c0e]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^116KQnuT]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 Acute respiratory distress syndrome (ARDS) — conclusions emphasize individualized application of recommendations and research gaps: Significant advances have been made in the ventilatory management of ARDS in the last few decades, and clinicians managing patients with ARDS should personalize decisions for their patients, particularly regarding the conditional recommendations in this guideline, and they should be careful when comparing the relative benefits of one intervention over another if they have the same rating. The potential benefits or synergies of combined or sequential treatments with interventions included in this guideline have not been explicitly studied, and therefore no recommendations have been made, while most recent studies of ventilatory interventions, however, have used LTV ventilation in recognition of supportive clinical and experimental evidence.
 
 ---
 
-### Differential lung ventilation and venovenous extracorporeal membrane oxygenation for traumatic bronchopleural fistula [^cc77e80c]. The Annals of Thoracic Surgery (2013). Low credibility.
+### Differential lung ventilation and venovenous extracorporeal membrane oxygenation for traumatic bronchopleural fistula [^116E8kTM]. The Annals of Thoracic Surgery (2013). Low credibility.
 
 A 16-year-old adolescent boy sustained traumatic bronchopleural fistula, refractory to conventional management, which was treated successfully with differential lung ventilation and extracorporeal membrane oxygenation support. This case highlights a novel approach for managing traumatic bronchopleural fistula in children.
 
 ---
 
-### K200968-510 (k) premarket notification… [^751c1988]. FDA (AccessData) (2020). Medium credibility.
+### K200968-510 (k) premarket notification… [^113zczQ7]. FDA (AccessData) (2020). Medium credibility.
 
 Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip to Common Links 510 Premarket Notification FDA Home Medical Devices Databases 510 DeNovo Registration & Listing Adverse Events Recalls PMA HDE Classification Standards. CFR Title 21 Radiation-Emitting Products X-Ray Assembler Medsun Reports CLIA TPLC New Search Back To Search Results Device Classification Name Tube, Tracheal/Bronchial, Differential Ventilation 510 Number. K200968 Device Name ABC33L, ABC35L, ABC37L, ABC39L, ABC33R, ABC35R, ABC37R, ABC39R Applicant INSUNG MEDICAL CO. LTD. 168, Gieopdosi-Ro, Jijeong-Myeon, Wonju-Si. Gangwon-Do, KR 26354 Applicant Contact Tae-il An Correspondent KMC, Inc. Room no. 904, 27, Digital-ro 27ga-gil, Guro-gu Seoul, KR 08375 Correspondent Contact DongHa Lee Regulation Number.
 868.
@@ -517,7 +517,7 @@ Quick Links: Skip to main page content Skip to Search Skip to Topics Menu Skip t
 
 ---
 
-### Intravenous superoxide dismutase as a protective agent to prevent impairment of lung function induced by high tidal volume ventilation [^252e077d]. BMC Pulmonary Medicine (2017). Low credibility.
+### Intravenous superoxide dismutase as a protective agent to prevent impairment of lung function induced by high tidal volume ventilation [^111x819e]. BMC Pulmonary Medicine (2017). Low credibility.
 
 Lung lavage white blood cell count and differential
 
@@ -528,7 +528,7 @@ HTV ventilation markedly increased lavage content of WBC versus the LTV group. H
 
 ---
 
-### Inner nuclear protein matrin-3 coordinates cell differentiation by stabilizing chromatin architecture [^ab43a600]. Nature Communications (2021). High credibility.
+### Inner nuclear protein matrin-3 coordinates cell differentiation by stabilizing chromatin architecture [^115Nuc63]. Nature Communications (2021). High credibility.
 
 ChIP-seq peak — RNA-seq differential gene association analysis
 
@@ -538,7 +538,7 @@ Chromatin CAPTURE experiment
 
 ---
 
-### Lung ultrasound for identification of patients requiring invasive mechanical ventilation in COVID-19 [^7c1b1095]. Journal of Ultrasound in Medicine (2021). Medium credibility.
+### Lung ultrasound for identification of patients requiring invasive mechanical ventilation in COVID-19 [^114AzZD6]. Journal of Ultrasound in Medicine (2021). Medium credibility.
 
 Conclusions
 
@@ -546,7 +546,7 @@ LUS‐score had only a moderate diagnostic value for identification of requireme
 
 ---
 
-### Nanoparticle delivery of microRNA-146a regulates mechanotransduction in lung macrophages and mitigates injury during mechanical ventilation [^b1fb8215]. Nature Communications (2021). High credibility.
+### Nanoparticle delivery of microRNA-146a regulates mechanotransduction in lung macrophages and mitigates injury during mechanical ventilation [^115YsHet]. Nature Communications (2021). High credibility.
 
 miR-146a −/− mice have increased injury during MV
 
@@ -554,13 +554,13 @@ To assess whether miR-146a plays a protective role in modulating VILI, miR-146a 
 
 ---
 
-### Management of one-lung ventilation [^07a7997f]. Anesthesiology Clinics of North America (2001). Low credibility.
+### Management of one-lung ventilation [^111CMD5Q]. Anesthesiology Clinics of North America (2001). Low credibility.
 
 The practice of thoracic anesthesia requires a clear understanding of the techniques of lung separation and the technical skills necessary to apply such techniques. Customarily they are classified as absolute or relative.
 
 ---
 
-### COVID-19-versus non-COVID-19-related acute respiratory distress syndrome: differences and similarities [^e7756466]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
+### COVID-19-versus non-COVID-19-related acute respiratory distress syndrome: differences and similarities [^116v9a5j]. American Journal of Respiratory and Critical Care Medicine (2020). Medium credibility.
 
 Conclusions
 
@@ -568,13 +568,13 @@ The main features of respiratory mechanics, the response to treatment (such as t
 
 ---
 
-### Living guidance for clinical management of COVID-19 [^bac0e04b]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
+### Living guidance for clinical management of COVID-19 [^115msUwt]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, WHO 2023 guidelines recommend to consider administering a trial of higher PEEP instead of lower PEEP, with a consideration of benefits versus risks, in patients with moderate or severe ARDS. Consider individualizing PEEP where during titration the patient is monitored for effects (beneficial or harmful) and driving pressure.
 
 ---
 
-### Effects of different ventilation strategies on lung injury in newborn rabbits [^c90289aa]. Pediatric Pulmonology (2012). Low credibility.
+### Effects of different ventilation strategies on lung injury in newborn rabbits [^11691N5o]. Pediatric Pulmonology (2012). Low credibility.
 
 Background
 
@@ -594,13 +594,13 @@ Our data demonstrate that different ventilation regimes can induce lung injury a
 
 ---
 
-### Mechanical ventilatory support [^e1a4ed83]. Chest Surgery Clinics of North America (2002). Low credibility.
+### Mechanical ventilatory support [^116mXcTc]. Chest Surgery Clinics of North America (2002). Low credibility.
 
 This chapter reviews the most updated knowledge regarding mechanical ventilation, its' indications and its' features both diagnostic and therapeutic. Further, the various modes of mechanical ventilation are described. The reader will also gain insight into the pathophysiology of various disease processes and the mode of ventilation that may be the most helpful in their treatment. Weaning is also discussed as well as a relatively new type of ventilation, non-invasive.
 
 ---
 
-### ARDS subphenotypes: understanding a heterogeneous syndrome [^31d9c54a]. Critical Care (2020). Medium credibility.
+### ARDS subphenotypes: understanding a heterogeneous syndrome [^112GuYKj]. Critical Care (2020). Medium credibility.
 
 Clinical Phenotyping for Predictive Enrichment
 
@@ -608,7 +608,7 @@ As discussed above, difficulty classifying patients is a pragmatic challenge inh
 
 ---
 
-### The future of mechanical ventilation: lessons from the present and the past [^84c5fac4]. Critical Care (2017). Low credibility.
+### The future of mechanical ventilation: lessons from the present and the past [^114Pqs9m]. Critical Care (2017). Low credibility.
 
 The future of mechanical ventilation
 
@@ -616,19 +616,19 @@ Ideally, mechanical ventilation should be applied so as to avoid all adverse sid
 
 ---
 
-### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^960b49d1]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^114qSwBn]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 Implications of recommendations by stakeholders — Table 1 clarifies how strong versus conditional recommendations should be interpreted: For patients, a strong recommendation means most individuals in this situation would want the recommended course of action and only a small proportion would not, whereas a conditional recommendation means the majority would want the suggested course of action but many would not. For clinicians, a strong recommendation means most individuals should receive the intervention, adherence could be used as a quality criterion or performance indicator, and formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences; a conditional recommendation involves recognizing that different choices will be appropriate for individual patients and helping each patient arrive at a management decision consistent with his or her values and preferences, with decision aids potentially useful. For policy makers, a strong recommendation can be adopted as policy in most situations, whereas a conditional recommendation indicates policy making will require substantial debate and involvement of various stakeholders.
 
 ---
 
-### Which ventilators and modes can be used to deliver noninvasive ventilation? [^c0de0b0e]. Respiratory Care (2009). Low credibility.
+### Which ventilators and modes can be used to deliver noninvasive ventilation? [^115vwCrh]. Respiratory Care (2009). Low credibility.
 
 A wide variety of ventilators and modes can be used to deliver noninvasive ventilation (NIV). To navigate successfully through the many options, the clinician must first have a clear understanding of the goals of mechanical ventilation: namely, safety, comfort, and timely liberation. Examining the specific objectives associated with these goals, we can distinguish priorities for NIV. This paper reviews the methods of achieving those objectives by reviewing the characteristics of ventilation modes and how those characteristics are measured in performance-evaluation studies. This review provides the basis for a simple procedure for selecting the most appropriate NIV technology for the patient and the environment of care.
 
 ---
 
-### The use of exhaled air analysis in discriminating interstitial lung diseases: a pilot study [^3d42ed8f]. Respiratory Research (2022). Medium credibility.
+### The use of exhaled air analysis in discriminating interstitial lung diseases: a pilot study [^112Zpj42]. Respiratory Research (2022). Medium credibility.
 
 Differential diagnosis of ILD ideally relies on the combination of clinical, imaging, alveolar lavage and serological data in the setting of a multidisciplinary discussion. However, this process remains difficult and often requires analysis of surgical lung biopsies. Indeed, surgical lung biopsy is still the single most informative test in cases where both the clinical and HCRT features fail to provide an exclusive diagnosis. However, lung biopsy is often not possible due to a number of contraindications including age, comorbidities and the severity of the disease. There is thus a need for the development of other diagnostic markers that are less or even non-invasive, safe and fast.
 
@@ -636,7 +636,7 @@ A novel and currently untested approach for the non-invasive differential diagno
 
 ---
 
-### List of medical devices… [^bc53fb69]. FDA (2025). Medium credibility.
+### List of medical devices… [^115pCt5n]. FDA (2025). Medium credibility.
 
 CHAMBER, HYPERBARIC 868. 5470 2 Y N CBI TUBE, TRACHEAL/BRONCHIAL, DIFFERENTIAL VENTILATION
 868. 5740 2 Y N CBK. VENTILATOR, CONTINUOUS, FACILITY USE 868. 5895 2 Y N CBO ATTACHMENT, INTERMITANT MANDATORY VENTILATION
@@ -653,13 +653,13 @@ CHAMBER, HYPERBARIC 868. 5470 2 Y N CBI TUBE, TRACHEAL/BRONCHIAL, DIFFERENTIAL V
 
 ---
 
-### Global strategy for asthma management and prevention [^ba5a9531]. GINA (2024). High credibility.
+### Global strategy for asthma management and prevention [^115mH87S]. GINA (2024). High credibility.
 
 Global Strategy for Asthma Management and Prevention — Differential diagnoses and features in young children include Primary ciliary dyskinesia with "Cough and recurrent chest infections; neonatal respiratory distress, chronic ear infections and persistent nasal discharge from birth; poor response to asthma medications; situs inversus occurs in about 50% of children with this condition"; Vascular ring with "Persistently noisy breathing; poor response to asthma medications"; Bronchopulmonary dysplasia with "Infant born prematurely; very low birth weight; needed prolonged mechanical ventilation or supplemental oxygen; difficulty with breathing present from birth"; and Immune deficiency with "Recurrent fever and infections (including non-respiratory); failure to thrive".
 
 ---
 
-### A rapidly deployable individualized system for augmenting ventilator capacity [^ddee694d]. Science Translational Medicine (2020). Medium credibility.
+### A rapidly deployable individualized system for augmenting ventilator capacity [^116g2Lua]. Science Translational Medicine (2020). Medium credibility.
 
 In the second experiment, one 74 kg and one 88 kg female swine were used in a survival approach. These pigs were sedated with 0.25 mg/kg (5 mg/mL) midazolam and 0.03 mg/kg (0.5 mg/mL) dexmedetomidine. The experiment was divided into three stages: Individual ventilation of each animal, PEEP = 0 (stage 1); iSAVE ventilation (differential V T, PEEP = 0) (stage 2); and iSAVE ventilation (differential V T, differential PEEP) (stage 3). Ventilation was performed with the Philips Respironics Esprit ventilator in series with the anesthesia machine. The target tidal volume for each animal was calculated at 10 mL/kg, although ventilation was optimized to maintain SpO₂ > 94% and EtCO₂ ~ 30–35 mmHg in all stages. The PEEP setting on the main ventilator was set to 0 cmH 2 O. After 30 min of stable ventilation, arterial blood gases were measured using an i-STAT handheld blood analyzer (Abbott). Respiratory flow, pressure and volume were continuously logged using the Philips NM3 monitors as well as Biopac systems described above. Reported values represent the mean and standard deviations of 300 breathing cycles. In stage 3, the PEEP settings were changed by adjusting the PEEP valve to enable the animals to be ventilated with differential PEEP values (Pig A: PEEP = 5 cmH₂O, Pig B: PEEP = 10 cmH₂O). Compliance and resistance were measured for each animal by performing an end-inspiratory pause of 1 s to ensure that the iSAVE enabled these measurements. The computed compliance and resistance values matched those which were measured on the monitor. The duration of each stage lasted about 45 min.
 
@@ -669,7 +669,7 @@ Pressure and flow data from the Biopac system was analyzed using MATLAB (2018a).
 
 ---
 
-### A performance assessment of airborne infection isolation rooms [^6f9ffe80]. American Journal of Infection Control (2007). Low credibility.
+### A performance assessment of airborne infection isolation rooms [^113rVNDd]. American Journal of Infection Control (2007). Low credibility.
 
 Background
 
@@ -689,19 +689,19 @@ The results indicate that hospitals are not all maintaining AIIRs to correspond 
 
 ---
 
-### Nanoparticle delivery of microRNA-146a regulates mechanotransduction in lung macrophages and mitigates injury during mechanical ventilation [^675c6562]. Nature Communications (2021). High credibility.
+### Nanoparticle delivery of microRNA-146a regulates mechanotransduction in lung macrophages and mitigates injury during mechanical ventilation [^113eEm3f]. Nature Communications (2021). High credibility.
 
 Mechanical ventilation generates injurious forces that exacerbate lung injury. These forces disrupt lung barrier integrity, trigger proinflammatory mediator release, and differentially regulate genes and non-coding oligonucleotides including microRNAs. In this study, we identify miR-146a as a mechanosensitive microRNA in alveolar macrophages that has therapeutic potential to mitigate lung injury during mechanical ventilation. We use humanized in-vitro systems, mouse models, and biospecimens from patients to elucidate the expression dynamics of miR-146a needed to decrease lung injury during mechanical ventilation. We find that the endogenous increase in miR-146a following injurious ventilation is not sufficient to prevent lung injury. However, when miR-146a is highly overexpressed using a nanoparticle delivery platform it is sufficient to prevent injury. These data indicate that the endogenous increase in microRNA-146a during mechanical ventilation is a compensatory response that partially limits injury and that nanoparticle delivery of miR-146a is an effective strategy for mitigating lung injury during mechanical ventilation.
 
 ---
 
-### Basic modes of mechanical ventilation [^37a9cfbc]. Emergency Medicine Clinics of North America (2022). Medium credibility.
+### Basic modes of mechanical ventilation [^112RXMhD]. Emergency Medicine Clinics of North America (2022). Medium credibility.
 
 Acute respiratory failure requiring invasive mechanical ventilation is a common presentation in the emergency department. Providers can further improve care for these patients by understanding common modes of mechanical ventilation, recognizing changes in respiratory mechanics, and tailoring ventilator settings and therapies accordingly.
 
 ---
 
-### Double impact of cigarette smoke and mechanical ventilation on the alveolar epithelial type II cell [^af9da8ea]. Critical Care (2014). Low credibility.
+### Double impact of cigarette smoke and mechanical ventilation on the alveolar epithelial type II cell [^115VMnn5]. Critical Care (2014). Low credibility.
 
 Results
 
@@ -721,7 +721,7 @@ a NSNV: Nonsmoke/nonventilated; NSV: Ventilation alone; PMN: Polymorphonuclear; 
 
 ---
 
-### Effect of ventilator mode on ventilator-free days in critically ill adults: a randomized clinical trial [^e7e79c37]. Chest (2025). Medium credibility.
+### Effect of ventilator mode on ventilator-free days in critically ill adults: a randomized clinical trial [^116vowEE]. Chest (2025). Medium credibility.
 
 FOR EDITORIAL COMMENT, SEE
 
@@ -739,7 +739,7 @@ To provide invasive mechanical ventilation, clinicians must select a ventilator 
 
 ---
 
-### TPLC-total product life cycle-accessdata.fda.gov… [^4f8d70dc]. FDA (AccessData) (2020). Medium credibility.
+### TPLC-total product life cycle-accessdata.fda.gov… [^1132wXkf]. FDA (AccessData) (2020). Medium credibility.
 
 2019 2020 2021 2022 2023 2024 2025 Back to Search Results Device tube, tracheal/bronchial, differential ventilation Regulation Description Tracheal/bronchial differential ventilation tube. Product Code CBI. Gas/Air Leak 84 84 Leak/Splash 76 76 Inflation Problem 70 70 Deflation Problem 28 28 Crack 11 11 Fracture 10 10 Material Deformation 10 10 Material Rupture 10 10. Component Missing 10 10 Material Separation 8 8 Structural Problem 8 8 Material Twisted/Bent 8 8 Infusion or Flow Problem 7 7 Use of Device Problem 7 7 Mechanical Problem 6 6 Material Puncture/Hole
 6. 6 Failure to Deflate 5 5 Material Split, Cut or Torn 5 5 Incomplete or Missing Packaging 5 5 Separation Failure 5 5 Unsealed Device Packaging 5 5 Obstruction of Flow 5 5 Fluid/Blood Leak 4 4.
@@ -748,13 +748,13 @@ No Clinical Signs, Symptoms or Conditions 450 450 Insufficient Information 53 53
 
 ---
 
-### Guidelines and recommendations for targeted neonatal echocardiography and cardiac point-of-care ultrasound in the neonatal intensive care unit: an update from the American Society of Echocardiography [^2d1335f0]. Journal of the American Society of Echocardiography (2024). High credibility.
+### Guidelines and recommendations for targeted neonatal echocardiography and cardiac point-of-care ultrasound in the neonatal intensive care unit: an update from the American Society of Echocardiography [^1129ptwH]. Journal of the American Society of Echocardiography (2024). High credibility.
 
 Hypoxemic infant — scope and differential diagnosis state that neonatal hypoxemia can result in decreased tissue oxygen delivery and metabolic acidosis, arising from intracardiac right to left shunts and/or intrapulmonary shunt due to ventilation-perfusion mismatch. The differential diagnosis includes CHD with compromised pulmonary blood flow; lung disease such as pneumonia, pneumothorax, and meconium aspiration syndrome; and acute PH due to sepsis, HIE, CDH, or diagnoses such as trisomy 21 and IDM. In any neonate with hypoxemia, it is imperative to rule out CHD, especially conditions requiring acute intervention such as transposition of the great vessels with intact atrial septum or obstructed pulmonary venous return.
 
 ---
 
-### Can normal breath sounds in mechanically ventilated patients be termed vesicular? [^f80a95d9]. Critical Care (2023). Medium credibility.
+### Can normal breath sounds in mechanically ventilated patients be termed vesicular? [^117LjV7E]. Critical Care (2023). Medium credibility.
 
 Table 1
 Differences between vesicular and mechanical breath sounds
@@ -763,31 +763,31 @@ To conclude, we wish to reiterate that the term "vesicular" breath sounds be avo
 
 ---
 
-### A rational framework for selecting modes of ventilation [^982b192d]. Respiratory Care (2013). Low credibility.
+### A rational framework for selecting modes of ventilation [^114tbbTa]. Respiratory Care (2013). Low credibility.
 
 Mechanical ventilation is a life-saving intervention for respiratory failure and thus has become the cornerstone of the practice of critical care medicine. A mechanical ventilation mode describes the predetermined pattern of patient-ventilator interaction. In recent years there has been a dizzying proliferation of mechanical ventilation modes, driven by technological advances and market pressures, rather than clinical data. The comparison of these modes is hampered by the sheer number of combinations that need to be tested against one another, as well as the lack of a coherent, logical nomenclature that accurately describes a mode. In this paper we propose a logical nomenclature for mechanical ventilation modes, akin to biological taxonomy. Accordingly, the control variable, breath sequence, and targeting schemes for the primary and secondary breaths represent the order, family, genus, and species, respectively, for the described mode. To distinguish unique operational algorithms, a fifth level of distinction, termed variety, is utilized. We posit that such coherent ordering would facilitate comparison and understanding of modes. Next we suggest that the clinical goals of mechanical ventilation may be simplified into 3 broad categories: provision of safe gas exchange; provision of comfort; and promotion of liberation from mechanical ventilation. Safety is achieved via optimization of ventilation-perfusion matching and pressure-volume relationship of the lungs. Comfort is provided by fostering patient-ventilator synchrony. Liberation is promoted by optimization of the weaning experience. Then we follow a paradigm that matches the technological capacity of a particular mode to achieving a specific clinical goal. Finally, we provide the reader with a comparison of existing modes based on these principles. The status quo in mechanical ventilation mode nomenclature impedes communication and comparison of existing mechanical ventilation modes. The proposed model, utilizing a systematic nomenclature, provides a useful framework to address this unmet need.
 
 ---
 
-### Guidelines and recommendations for targeted neonatal echocardiography and cardiac point-of-care ultrasound in the neonatal intensive care unit: an update from the American Society of Echocardiography [^9f3c9c00]. Journal of the American Society of Echocardiography (2024). High credibility.
+### Guidelines and recommendations for targeted neonatal echocardiography and cardiac point-of-care ultrasound in the neonatal intensive care unit: an update from the American Society of Echocardiography [^11555PaF]. Journal of the American Society of Echocardiography (2024). High credibility.
 
 Preterm transitional circulation — hemodynamic vulnerability and myocardial immaturity are emphasized: The transition from fetal to postnatal life is more complex in preterm infants with increased risk for hemodynamic compromise, with potential determinants including immaturity of the myocardium, persistence of fetal shunts, inherently smaller pulmonary vascular capacity or adverse cardiovascular effects of lung disease and related ventilation strategies, and differential cytokine and/or pharmacologic responsiveness. The preterm myocardium is composed of underdeveloped contractile mechanisms with disorganized myofibrils, immature calcium handling system, and inadequately compliant collagen, contributing to relatively reduced diastolic performance and compliance, greater intolerance to an abrupt increase in afterload and lack of reserve to cope with reduced preload, and a delay in physiologic drop in PVR secondary to lung disease coupled with failure to increase cardiac outputs and persistence of fetal shunts can contribute to a maladaptive transition.
 
 ---
 
-### Living guidance for clinical management of COVID-19 [^68a60c1c]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
+### Living guidance for clinical management of COVID-19 [^113g9VAs]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, WHO 2023 guidelines recommend to consider airway clearance techniques in patients with excessive secretions, or difficulty clearing secretions. Perform these techniques only if deemed medically appropriate and appropriate infection prevention and control measures are in place.
 
 ---
 
-### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^fb139298]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### An official American Thoracic Society / European Society of Intensive Care Medicine / Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome [^117REU3H]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine ARDS mechanical ventilation guideline — question formulation and evidence identification used structured methods: the panel agreed on six specific questions and rated outcomes from "not important" to "critical" as per GRADE; a medical librarian developed search strategies and databases searched included MEDLINE, EMBASE, Cochrane Register of Controlled Trials, DARE, CINAHL, and Web of Science from the last review to August 2016 without language restrictions. Two independent reviewers screened titles and abstracts, disagreements were resolved by consensus, data were abstracted in duplicate, and risk of bias was assessed with the Cochrane Collaboration instrument across prespecified domains.
 
 ---
 
-### Peripheral blood transcriptomic sub-phenotypes of pediatric acute respiratory distress syndrome [^f405b4f4]. Critical Care (2020). Medium credibility.
+### Peripheral blood transcriptomic sub-phenotypes of pediatric acute respiratory distress syndrome [^117EmtwV]. Critical Care (2020). Medium credibility.
 
 Introduction
 
@@ -799,13 +799,13 @@ Whole blood transcriptomics has led to significant insights into the heterogenei
 
 ---
 
-### Living guidance for clinical management of COVID-19 [^f5ef9379]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
+### Living guidance for clinical management of COVID-19 [^117HcSMv]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, WHO 2023 guidelines recommend to promptly recognize progressive acute hypoxemic respiratory failure when a patient with respiratory distress is failing to respond to standard oxygen therapy and ensure adequate preparation to provide advanced oxygen/ventilatory support.
 
 ---
 
-### Comparability of quantifying relative lung ventilation with inhaledTc-technegas andXe in patients undergoing evaluation for lung transplantation [^98fad34a]. Journal of Nuclear Medicine (2025). Medium credibility.
+### Comparability of quantifying relative lung ventilation with inhaledTc-technegas andXe in patients undergoing evaluation for lung transplantation [^114uoNJm]. Journal of Nuclear Medicine (2025). Medium credibility.
 
 FIGURE 1.
 Study workflow.
@@ -814,19 +814,19 @@ The current study of existing data was approved by the Institutional Review Boar
 
 ---
 
-### Chemoradiation therapy for oesophageal cancer with airway stenosis under mechanical ventilation with light sedation using dexmedetomidine alone [^b612d808]. BMJ Case Reports (2020). High credibility.
+### Chemoradiation therapy for oesophageal cancer with airway stenosis under mechanical ventilation with light sedation using dexmedetomidine alone [^115ew5Q3]. BMJ Case Reports (2020). High credibility.
 
 For malignant tumours, treatment is rarely indicated in cases requiring mechanical ventilation management because such intensive care would engender a decrease in performance status. However, light sedation using dexmedetomidine might enable chemoradiation while accommodating activities of daily living. We experienced two cases of fatal tracheal invasion and airway stenosis of stage Ⅳ oesophageal cancer that were treated with chemoradiation or radiation under mechanical ventilation (one case was differential lung ventilation.) with dexmedetomidine alone and rehabilitation was performed under a ventilator. Early mobilisation by light sedation with dexmedetomidine can inhibit performance status decline attributable to mechanical ventilation. Bridging tracheal intubation with light sedation by dexmedetomidine for temporary chemoradiation therapy to reduce tumour volume might present a good alternative for patients with malignant tumour.
 
 ---
 
-### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^136ecb55]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
+### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^111VoyoS]. American Journal of Respiratory and Critical Care Medicine (2017). Medium credibility.
 
 American Thoracic Society and American College of Chest Physicians liberation from mechanical ventilation guideline — scope, methods, and voting threshold are described: it is the result of a "collaborative effort between the American Thoracic Society and the American College of Chest Physicians", the guideline "addresses six questions related to liberation from mechanical ventilation in critically ill adults", with a "multidisciplinary panel" posing "six clinical questions in a Population, Intervention, Comparator, and Outcomes format", using a "comprehensive literature search and evidence synthesis" with the "Grading of Recommendations, Assessment, Development, and Evaluation" and applying "The Evidence-to-Decision framework", after which "Evidence-based recommendations were formulated and graded initially by subcommittees and then modified after full-panel discussions" and were "confirmed by confidential electronic voting; approval required that at least 80% of the panel members agree with the recommendation".
 
 ---
 
-### Ventilator-associated pneumonia in critically ill patients with COVID-19 [^6282966d]. Critical Care (2021). Medium credibility.
+### Ventilator-associated pneumonia in critically ill patients with COVID-19 [^113X3efn]. Critical Care (2021). Medium credibility.
 
 Discussion
 
@@ -840,13 +840,13 @@ At the lung microbiome level, we observed no difference in the composition of or
 
 ---
 
-### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^298a1d24]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021 [^1124atEF]. Critical Care Medicine (2021). High credibility.
 
 Low tidal volume ventilation in non-ARDS respiratory failure — For adults with sepsis-induced respiratory failure (without acute respiratory distress syndrome [ARDS]), we suggest using low tidal volume ventilation as compared to high tidal volume ventilation. This is a weak recommendation with low quality of evidence. Prior guidance in ARDS specified low tidal volume (Vt 4–8 mL/kg of predicted body weight) versus higher volumes (Vt > 8 mL/kg). Supporting evidence includes a systematic review showing reduced composite ARDS or pneumonia with low versus high tidal volume ventilation (RR, 0.72; 95% CI, 0.52 to 0.98) and an analysis of three RCTs (1,129 patients) showing no mortality difference with low Vt (RR, 1.07; 95% CI, 0.91 to 1.26) with a trend toward lower ARDS risk (RR, 0.59; 95% CI, 0.34 to 1.02). The rationale adds, We therefore suggest that low tidal volume ventilation be used in all patients with sepsis who are receiving mechanical ventilation to avoid underuse or delayed use of this intervention.
 
 ---
 
-### Mechanical ventilation: past lessons and the near future [^11ac1554]. Critical Care (2013). Low credibility.
+### Mechanical ventilation: past lessons and the near future [^111TCbF9]. Critical Care (2013). Low credibility.
 
 Figure 3
 Influence of minute ventilation on breathing frequency for two patients of differing body size. Minute ventilation influences on breathing frequency for two patients of differing body size (50 kg and 85 kg). Using the 6 ml/kg predicted body weight guideline, a small patient would be obligated to breathe at an unacceptably high frequency as minute ventilation increases (15 and 20 l/minute). Observing the commonly used upper limit of 30 breaths/minute, tidal volumes far in excess of the 6 ml/kg criterion would be required to ventilate the smaller patient in this higher range (500 and 670 ml, as opposed to 300 ml). br, breaths; pbw, predicted body weight.
@@ -855,19 +855,19 @@ We should also modify therapy according to the patient's physiological need. For
 
 ---
 
-### Update on modalities of mechanical ventilators [^ed1d95a6]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2002). Low credibility.
+### Update on modalities of mechanical ventilators [^1174Y19F]. Archives of Disease in Childhood: Fetal and Neonatal Edition (2002). Low credibility.
 
 Recent advances in ventilator technology have often not been confirmed by randomised trials and instead serious shortcomings have been highlighted. Ventilation modes should only be introduced into routine clinical practice when proved efficacious in appropriately designed studies and no adverse outcomes identified by long term follow up.
 
 ---
 
-### Ventilation failure with elective tracheostomy during oral cancer surgery: a case of tracheal diverticulum [^8b302838]. BMJ Case Reports (2023). High credibility.
+### Ventilation failure with elective tracheostomy during oral cancer surgery: a case of tracheal diverticulum [^114ZMTM9]. BMJ Case Reports (2023). High credibility.
 
 Tracheal diverticulum is usually detected incidentally. Rarely, it may lead to difficulty in securing the airway intraoperatively. Our patient underwent oncological resection under general anaesthesia for advanced oral cancer. Elective tracheostomy was performed at the end of the surgery, and a cuffed tracheostomy tube (T-tube) of 7.5mm size was inserted through the tracheostoma. Despite repeated attempts at T-tube insertion, ventilation could not be established. However, on advancing the endotracheal tube beyond tracheostoma, ventilation was restored. The T-tube was inserted into the trachea under fibreoptic guidance achieving successful ventilation. A fibreoptic bronchoscopy through the tracheostoma performed after decannulation revealed a mucosalised diverticulum extending behind the posterior wall of the trachea. The bottom of the diverticulum showed mucosa-lined cartilaginous ridge with differentiation into smaller bronchiole-like structures. Tracheal diverticulum should be considered as a possible differential in case of failed ventilation following an otherwise uneventful tracheostomy.
 
 ---
 
-### Diagnostic utility of the soluble triggering receptor expressed on myeloid cells-1 in bronchoalveolar lavage fluid from patients with bilateral lung infiltrates [^ec5f72f2]. Critical Care (2008). Low credibility.
+### Diagnostic utility of the soluble triggering receptor expressed on myeloid cells-1 in bronchoalveolar lavage fluid from patients with bilateral lung infiltrates [^1173S91B]. Critical Care (2008). Low credibility.
 
 Introduction
 
@@ -877,13 +877,13 @@ Triggering receptors expressed on myeloid cells (TREMs) are members of the immun
 
 ---
 
-### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^8068f949]. Intensive Care Medicine (2023). High credibility.
+### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^114HNg8G]. Intensive Care Medicine (2023). High credibility.
 
 Regarding respiratory support for acute respiratory distress syndrome, more specifically with respect to mechanical ventilation, tidal volume targets, ESICM 2023 guidelines recommend to use the same strategy in patients with ARDS due to COVID-19.
 
 ---
 
-### Liberation from mechanical ventilation in critically ill adults: executive summary of an official American College of Chest Physicians / American Thoracic Society clinical practice guideline [^04ff61b7]. Chest (2017). Low credibility.
+### Liberation from mechanical ventilation in critically ill adults: executive summary of an official American College of Chest Physicians / American Thoracic Society clinical practice guideline [^1118QjN6]. Chest (2017). Low credibility.
 
 Background
 
@@ -903,7 +903,7 @@ The panel provides recommendations regarding liberation from mechanical ventilat
 
 ---
 
-### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^6055f381]. American Journal of Respiratory and Critical Care Medicine (2017). Low credibility.
+### Official executive summary of an American Thoracic Society / American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults [^113TpgX2]. American Journal of Respiratory and Critical Care Medicine (2017). Low credibility.
 
 Background
 
@@ -923,7 +923,7 @@ The panel provides recommendations regarding liberation from mechanical ventilat
 
 ---
 
-### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^d9bb686c]. Intensive Care Medicine (2023). Medium credibility.
+### ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies [^116ZoG9q]. Intensive Care Medicine (2023). Medium credibility.
 
 Domain 5: Low tidal volume ventilation
 
@@ -937,13 +937,13 @@ Use of ventilation strategies with low Vt has been shown in animal and human stu
 
 ---
 
-### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^d66b6e41]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^116UtSE4]. Critical Care Medicine (2021). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to noninvasive ventilation, SCCM 2021 guidelines recommend to consider a trial of noninvasive ventilation with close monitoring and short-interval assessment for worsening of respiratory failure in adult patients with COVID-19 and acute hypoxemic respiratory failure, if high-flow nasal cannula is not available and there is no urgent indication for endotracheal intubation.
 
 ---
 
-### Flow dynamics using high-frequency jet ventilation in a model of bronchopleural fistula [^c9dc0838]. British Journal of Anaesthesia (2014). Low credibility.
+### Flow dynamics using high-frequency jet ventilation in a model of bronchopleural fistula [^116AGRDR]. British Journal of Anaesthesia (2014). Low credibility.
 
 Background
 
@@ -963,19 +963,19 @@ These data suggest that gas leak will be minimized and ventilator volumes mainta
 
 ---
 
-### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^feda3106]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^117Wq9Hw]. Critical Care Medicine (2021). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, SCCM 2021 guidelines recommend to consider performing prone ventilation for 12–16 hours in mechanically ventilated adult patients with COVID-19 and moderate-to-severe ARDS.
 
 ---
 
-### Image phenotyping of preterm-born children using hyperpolarizedXe lung magnetic resonance imaging and multiple-breath washout [^636f2b18]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
+### Image phenotyping of preterm-born children using hyperpolarizedXe lung magnetic resonance imaging and multiple-breath washout [^113YR7dh]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
 
 Rationale: Preterm birth is associated with low lung function in childhood, but little is known about the lung microstructure in childhood. Objectives: We assessed the differential associations between the historical diagnosis of bronchopulmonary dysplasia (BPD) and current lung function phenotypes on lung ventilation and microstructure in preterm-born children using hyperpolarized 129 Xe ventilation and diffusion-weighted magnetic resonance imaging (MRI) and multiple-breath washout (MBW). Methods: Data were available from 63 children (aged 9–13 yr), including 44 born preterm (≤ 34 weeks' gestation) and 19 term-born control subjects (⩾37 weeks' gestation). Preterm-born children were classified, using spirometry, as prematurity-associated obstructive lung disease (POLD; FEV 1 < lower limit of normal [LLN] and FEV 1 /FVC < LLN), prematurity-associated preserved ratio of impaired spirometry (FEV 1 < LLN and FEV 1 /FVC⩾LLN), preterm-(FEV 1 ⩾LLN) and term-born control subjects, and those with and without BPD. Ventilation heterogeneity metrics were derived from 129 Xe ventilation MRI and SF 6 MBW. Alveolar microstructural dimensions were derived from 129 Xe diffusion-weighted MRI. Measurements and Main Results: 129 Xe ventilation defect percentage and ventilation heterogeneity index were significantly increased in preterm-born children with POLD. In contrast, mean 129 Xe apparent diffusion coefficient, 129 Xe apparent diffusion coefficient interquartile range, and 129 Xe mean alveolar dimension interquartile range were significantly increased in preterm-born children with BPD, suggesting changes of alveolar dimensions. MBW metrics were all significantly increased in the POLD group compared with preterm- and term-born control subjects. Linear regression confirmed the differential effects of obstructive disease on ventilation defects and BPD on lung microstructure. Conclusion: We show that ventilation abnormalities are associated with POLD, and BPD in infancy is associated with abnormal lung microstructure.
 
 ---
 
-### Influence of compliance and resistance of the test lung on the accuracy of the tidal volume delivered by the ventilator [^4180d871]. BMC Pulmonary Medicine (2024). Medium credibility.
+### Influence of compliance and resistance of the test lung on the accuracy of the tidal volume delivered by the ventilator [^112g7URv]. BMC Pulmonary Medicine (2024). Medium credibility.
 
 Discussion
 
@@ -988,13 +988,13 @@ The working principles of variable orifice flow senor (left) and hot wire anemom
 
 ---
 
-### Mechanical ventilation strategies: what's new and what's worth keeping? [^be7a46fc]. Respiratory Care (2002). Low credibility.
+### Mechanical ventilation strategies: what's new and what's worth keeping? [^115sPihR]. Respiratory Care (2002). Low credibility.
 
 Many technologic and management strategies related to mechanical ventilation have been introduced in recent years. Strategies that avoid intubation and get patients extubated sooner decrease costs related to mechanical ventilation. In general, "people" solutions such as weaning protocols are preferable to "technology" solutions such as new ventilator modes. It must be remembered that mechanical ventilation is supportive-it is not curative-and has the potential to do harm if applied incorrectly. There is an increasing list of examples in which short-term physiologic outcomes such as improvements in blood gas values are not related to patient-important outcomes such as survival. When new mechanical ventilation technology and strategies are introduced, a question we need to ask ourselves is whether these are solutions for problems or whether these are simply solutions in search of problems.
 
 ---
 
-### Development and assessment of the performance of a shared ventilatory system that uses clinically available components to individualize tidal volumes [^05edd4cd]. BMC Anesthesiology (2023). Medium credibility.
+### Development and assessment of the performance of a shared ventilatory system that uses clinically available components to individualize tidal volumes [^1119npje]. BMC Anesthesiology (2023). Medium credibility.
 
 Article Summary
 
@@ -1008,19 +1008,19 @@ The system does allow for measurement of peak and plateau pressures in individua
 
 ---
 
-### An official American Thoracic Society clinical practice guideline: classification, evaluation, and management of childhood interstitial lung disease in infancy [^f8857aea]. American Journal of Respiratory and Critical Care Medicine (2013). Medium credibility.
+### An official American Thoracic Society clinical practice guideline: classification, evaluation, and management of childhood interstitial lung disease in infancy [^117MSmHs]. American Journal of Respiratory and Critical Care Medicine (2013). Medium credibility.
 
 Echocardiography — differential considerations in pediatric diffuse lung disease (DLD) note that pulmonary vascular disease and structural heart disease may masquerade as pediatric DLD, and severity assessment may include echocardiographic evidence of pulmonary hypertension.
 
 ---
 
-### Living guidance for clinical management of COVID-19 [^da830ef0]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
+### Living guidance for clinical management of COVID-19 [^116axKf5]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, WHO 2023 guidelines recommend to use prone ventilation for 12–16 hours/day in adult patients with severe ARDS (PaO2/FiO2 < 150).
 
 ---
 
-### Effects of a catecholamine-induced increase in cardiac output on lung injury after experimental unilateral pulmonary acid instillation [^dbf70a50]. Critical Care Medicine (2007). Low credibility.
+### Effects of a catecholamine-induced increase in cardiac output on lung injury after experimental unilateral pulmonary acid instillation [^116d7GT1]. Critical Care Medicine (2007). Low credibility.
 
 Objectives
 
@@ -1052,13 +1052,13 @@ In the setting of unilateral lung injury and uneven lung perfusion, a dobutamine
 
 ---
 
-### Living guidance for clinical management of COVID-19 [^e10a51f0]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
+### Living guidance for clinical management of COVID-19 [^116kdgTZ]. WHO Living Guidance 2023 Aug 18 (2023). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to noninvasive ventilation, WHO 2023 guidelines recommend to consider administering a trial of noninvasive ventilation (CPAP, bi-level positive airway pressure) in selected patients with COVID-19 and mild ARDS.
 
 ---
 
-### A randomized trial of mesenchymal stromal cells for moderate to severe acute respiratory distress syndrome from COVID-19 [^59eb69f2]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
+### A randomized trial of mesenchymal stromal cells for moderate to severe acute respiratory distress syndrome from COVID-19 [^113JJyK7]. American Journal of Respiratory and Critical Care Medicine (2023). Medium credibility.
 
 Conclusions
 
@@ -1066,13 +1066,13 @@ In our trial, MSC therapy, compared with sham control, in patients with moderate
 
 ---
 
-### SNM practice guideline for lung scintigraphy 4.0 [^2a544142]. Journal of Nuclear Medicine Technology (2012). Medium credibility.
+### SNM practice guideline for lung scintigraphy 4.0 [^1125knFj]. Journal of Nuclear Medicine Technology (2012). Medium credibility.
 
 SNM lung scintigraphy guideline — common clinical indications state that the most common clinical indication for lung scintigraphy is to determine the likelihood of pulmonary embolism, and less common indications include documenting the degree of resolution of pulmonary embolism; quantifying differential pulmonary function before thoracic surgery for lung cancer; evaluating lungs pre transplant; evaluating congenital heart or lung disease such as cardiac shunts, pulmonary arterial stenoses, and arteriovenous fistulae and their treatment; confirming the presence of bronchopleural fistula; evaluating chronic pulmonary parenchymal disorders such as cystic fibrosis; and evaluating the cause of pulmonary hypertension.
 
 ---
 
-### Effects of propofol and desflurane anaesthesia on the alveolar inflammatory response to one-lung ventilation [^da003589]. British Journal of Anaesthesia (2007). Low credibility.
+### Effects of propofol and desflurane anaesthesia on the alveolar inflammatory response to one-lung ventilation [^116aCNWU]. British Journal of Anaesthesia (2007). Low credibility.
 
 Background
 
@@ -1092,24 +1092,24 @@ These data indicate that pro-inflammatory reactions during OLV were influenced b
 
 ---
 
-### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^c67d28bd]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^1165Gb6U]. Critical Care Medicine (2021). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, SCCM 2021 guidelines recommend to avoid the routine use of inhaled nitric oxide in mechanically ventilated adult patients with COVID-19 and ARDS.
 
 ---
 
-### Acute respiratory distress syndrome: we can' T miss regional lung perfusion! [^934f0de0]. BMC Anesthesiology (2015). Low credibility.
+### Acute respiratory distress syndrome: we can' T miss regional lung perfusion! [^114mPjXV]. BMC Anesthesiology (2015). Low credibility.
 
 In adult respiratory distress syndrome (ARDS), life-threatening hypoxemia may occur, dictating the need for differentiated ventilator strategies. Pronounced consolidation and/or atelectasis have been well documented in ARDS, but the contribution of regional perfusion to oxygenation has been poorly addressed. Evidence has accumulated that, in ARDS, regional perfusion is extremely variable and may affect oxygenation, independently from the amount of atelectatic-consolidated lung regions. Thus, the response in oxygenation to different ventilatory settings, both during controlled and assisted mechanical ventilation, should be interpreted with caution. In fact, gas exchange may be not determined solely by changes in aeration, but also redistribution of perfusion. Furthermore, regional perfusion can play an important role in worsening of lung injury due to increased transmural pressures. In addition, distribution of perfusion in lungs might affect the delivery of drugs through the pulmonary circulation, including antibiotics. In recent years, several techniques have been developed to determine pulmonary blood flow with increasing level of spatial resolution, allowing a better understanding of normal physiology and various pathophysiological conditions, but most of them are restricted to experimental or clinical research. Lung ultrasound and novel algorithms for electrical impedance tomography represent new promising techniques that could enable physicians to assess the distribution of pulmonary blood flow at the bedside. In ARDS, we cannot afford missing regional lung perfusion! Please see related article: http://dx.doi.org/10.1186/s12871-015-0013-0.
 
 ---
 
-### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^1b6d2cc4]. Critical Care Medicine (2021). High credibility.
+### Surviving Sepsis Campaign guidelines on the management of adults with coronavirus disease 2019 (COVID-19) in the ICU: first update [^111hfLWP]. Critical Care Medicine (2021). High credibility.
 
 Regarding respiratory support for COVID-19 infection, more specifically with respect to mechanical ventilation, SCCM 2021 guidelines recommend to use low tidal volume ventilation (4–8 mL/kg of predicted body weight) over higher tidal volumes (> 8 mL/kg) in mechanically ventilated adult patients with COVID-19 and ARDS.
 
 ---
 
-### Pediatric pulmonary hypertension: guidelines from the American Heart Association and American Thoracic Society [^22f2ca59]. Circulation (2015). Medium credibility.
+### Pediatric pulmonary hypertension: guidelines from the American Heart Association and American Thoracic Society [^111tp8XA]. Circulation (2015). Medium credibility.
 
 Persistent pulmonary hypertension of the newborn — clinical diagnosis and general care specify that clinical manifestations include labile oxygenation, differential saturation with higher Spo2 in the right upper extremity compared with a lower extremity, or profound hypoxemia despite oxygen and mechanical ventilation; these findings are not specific for PPHN, and echocardiography is required to exclude CHD and thus establish the diagnosis while also determining whether LV dysfunction is present. Management includes optimization of lung volume and function, oxygen delivery, and support of cardiac function; systemic blood pressure should be maintained at normal levels for age with volume and cardiotonic therapy, whereas increasing blood pressure to supraphysiological levels solely to drive a left-to-right shunt across the PDA may transiently improve oxygenation but will not reduce PVR and should be avoided. Oxygen is commonly used, but extreme hyperoxia (Fio2 > 0.6) may be ineffective and may aggravate lung injury; poor lung expansion will exacerbate PPHN, exogenous surfactant may improve lung expansion and reverse PPHN in significant parenchymal disease but did not reduce ECMO use and carries a risk for acute airway obstruction, therefore the use of surfactant should be considered only for infants with severe parenchymal lung disease and poor lung recruitment. Acidosis can induce pulmonary vasoconstriction and should be avoided; forced alkalosis induced by hyperventilation or infusion of sodium bicarbonate yields transient improvements in Pao2 without demonstrated long-term benefit.

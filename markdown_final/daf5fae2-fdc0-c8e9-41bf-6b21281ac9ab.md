@@ -15,53 +15,53 @@ Neonatal respectait distress syndrome treatment
 
 > Let's see… What do we have here? The user is asking about neonatal respiratory distress syndrome (RDS) treatment. Let's break this down step-by-step. First, I need to think about clarifying the clinical entity and pathophysiology. Then, I should verify the overarching treatment goals and principles. Next, I will examine antenatal prevention, followed by delivery room stabilization. After that, I need to review non-invasive respiratory support, surfactant therapy including timing, dosing, and administration methods, and when to escalate to invasive ventilation. I will then consider adjunctive therapies, supportive care, special populations, and finally summarize a practical algorithm with monitoring and quality metrics, ensuring each step is supported by current guidelines and high-quality evidence.
 
-> Let me first confirm the clinical entity and pathophysiology so I don't anchor on a misclassification. Neonatal RDS is primarily a disease of preterm infants due to surfactant deficiency, leading to atelectasis, V/Q mismatch, and respiratory failure; modern management emphasizes early non-invasive support and selective surfactant to minimize ventilator-induced lung injury and BPD, which frames all subsequent decisions [^2caa7f32] [^29e9f607].
+> Let me first confirm the clinical entity and pathophysiology so I don't anchor on a misclassification. Neonatal RDS is primarily a disease of preterm infants due to surfactant deficiency, leading to atelectasis, V/Q mismatch, and respiratory failure; modern management emphasizes early non-invasive support and selective surfactant to minimize ventilator-induced lung injury and BPD, which frames all subsequent decisions [^1129Diws] [^112595Uz].
 
-> I need to state the treatment goals clearly and verify alignment with contemporary guidance. The aims are to maximize survival while minimizing complications such as air leaks and bronchopulmonary dysplasia, using lung-protective strategies that avoid mechanical ventilation when possible and prioritize early non-invasive support and timely surfactant when indicated [^0ef9606e] [^29e9f607].
+> I need to state the treatment goals clearly and verify alignment with contemporary guidance. The aims are to maximize survival while minimizing complications such as air leaks and bronchopulmonary dysplasia, using lung-protective strategies that avoid mechanical ventilation when possible and prioritize early non-invasive support and timely surfactant when indicated [^111PCbCH] [^112595Uz].
 
-> Next, I should review antenatal prevention because this is foundational. A single course of antenatal corticosteroids is recommended for all patients at high risk of preterm delivery from viability up to 34 completed weeks, ideally given at least 24 hours before birth; repeat dosing can be considered once if preterm birth risk persists after 7 days, but regularly scheduled repeat courses should be avoided, and administration is not recommended with chorioamnionitis or in late preterm planned cesarean without a compelling indication [^9c843de2] [^2639e66a] [^6a3f796a] [^c9afc839] [^a8e7f8ad].
+> Next, I should review antenatal prevention because this is foundational. A single course of antenatal corticosteroids is recommended for all patients at high risk of preterm delivery from viability up to 34 completed weeks, ideally given at least 24 hours before birth; repeat dosing can be considered once if preterm birth risk persists after 7 days, but regularly scheduled repeat courses should be avoided, and administration is not recommended with chorioamnionitis or in late preterm planned cesarean without a compelling indication [^11513VEq] [^111yfyhB] [^113iX1T7] [^116A1Z9z] [^115KQqWc].
 
-> Hold on, let's not jump to conclusions about delivery room management; I should confirm the lung-protective approach. For infants at risk of RDS, initiate CPAP or synchronized NIPPV from birth if not requiring intubation for stabilization, titrate oxygen to avoid both hypoxemia and hyperoxia, and maintain normothermia with plastic wrap and servo-controlled incubators to reduce complications [^ac366b11] [^2caa7f32] [^0ef9606e].
+> Hold on, let's not jump to conclusions about delivery room management; I should confirm the lung-protective approach. For infants at risk of RDS, initiate CPAP or synchronized NIPPV from birth if not requiring intubation for stabilization, titrate oxygen to avoid both hypoxemia and hyperoxia, and maintain normothermia with plastic wrap and servo-controlled incubators to reduce complications [^115QK9dA] [^1129Diws] [^111PCbCH].
 
-> I will now examine non-invasive respiratory support as first-line therapy. CPAP reduces treatment failure, need for mechanical ventilation, and mortality compared with supplemental oxygen alone, though pneumothorax risk may increase; synchronized NIPPV can be considered to reduce reventilation needs and BPD, and bilevel devices have not shown advantage over CPAP alone, so device selection should be individualized and protocolized [^2745fcd4] [^4ed2cd9b] [^0ef9606e].
+> I will now examine non-invasive respiratory support as first-line therapy. CPAP reduces treatment failure, need for mechanical ventilation, and mortality compared with supplemental oxygen alone, though pneumothorax risk may increase; synchronized NIPPV can be considered to reduce reventilation needs and BPD, and bilevel devices have not shown advantage over CPAP alone, so device selection should be individualized and protocolized [^1121E2Td] [^1131rqkv] [^111PCbCH].
 
-> Wait, let me verify surfactant indications and timing because this is where practice has evolved. Early rescue surfactant is recommended when RDS is worsening, typically when FᵢO₂ exceeds about 0.30 on CPAP at ≥ 6 cm H₂O or when lung ultrasound suggests surfactant need; in intubated infants, early surfactant within 2 hours reduces mortality, pneumothorax, and chronic lung disease compared with delayed therapy, and animal-derived preparations are preferred over synthetic agents [^6d63443f] [^aaeea214] [^94fa3e6e].
+> Wait, let me verify surfactant indications and timing because this is where practice has evolved. Early rescue surfactant is recommended when RDS is worsening, typically when FᵢO₂ exceeds about 0.30 on CPAP at ≥ 6 cm H₂O or when lung ultrasound suggests surfactant need; in intubated infants, early surfactant within 2 hours reduces mortality, pneumothorax, and chronic lung disease compared with delayed therapy, and animal-derived preparations are preferred over synthetic agents [^113oAzaz] [^115NR3rb] [^114osDrM].
 
-> I should double-check dosing and administration technique. For rescue therapy, an initial dose of 200 mg/kg poractant alfa is recommended over 100 mg/kg poractant or 100 mg/kg beractant; less invasive surfactant administration (LISA/MIST) is preferred in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD, with attention to local expertise, dosing volume, and surfactant type to optimize delivery [^37bf5a09] [^3753bde2] [^5f63c41d].
+> I should double-check dosing and administration technique. For rescue therapy, an initial dose of 200 mg/kg poractant alfa is recommended over 100 mg/kg poractant or 100 mg/kg beractant; less invasive surfactant administration (LISA/MIST) is preferred in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD, with attention to local expertise, dosing volume, and surfactant type to optimize delivery [^112RebLC] [^112R2SvM] [^113SRLNY].
 
-> Let me consider repeat dosing and special indications so I don't miss opportunities. Repeat surfactant is indicated if there is ongoing moderate-to-severe RDS with high oxygen needs after excluding other causes, and surfactant may be considered after pulmonary hemorrhage or in congenital pneumonia when surfactant inactivation is suspected, though evidence varies and decisions should be individualized [^70083e3b] [^5942bfba] [^2375573c].
+> Let me consider repeat dosing and special indications so I don't miss opportunities. Repeat surfactant is indicated if there is ongoing moderate-to-severe RDS with high oxygen needs after excluding other causes, and surfactant may be considered after pulmonary hemorrhage or in congenital pneumonia when surfactant inactivation is suspected, though evidence varies and decisions should be individualized [^113s6P9k] [^113HLKTP] [^111uZyr3].
 
-> Next, I should review when to escalate to invasive ventilation and how to ventilate safely. Mechanical ventilation is reserved for failure of non-invasive support or severe decompensation, and when used, employ lung-protective modes such as volume-targeted ventilation or high-frequency oscillation, minimize duration, and avoid routine sedative infusions like morphine or midazolam that may prolong ventilation without clear benefit [^6e7220f9] [^173ddb6e] [^ff31235b].
+> Next, I should review when to escalate to invasive ventilation and how to ventilate safely. Mechanical ventilation is reserved for failure of non-invasive support or severe decompensation, and when used, employ lung-protective modes such as volume-targeted ventilation or high-frequency oscillation, minimize duration, and avoid routine sedative infusions like morphine or midazolam that may prolong ventilation without clear benefit [^113pjyQc] [^111bTVZF] [^117XLM9c].
 
-> I need to ensure adjunctive therapies are addressed. Caffeine is standard to facilitate extubation and reduce BPD, and for hemodynamically significant PDA, consider pharmacologic closure with indomethacin, ibuprofen, or acetaminophen, favoring acetaminophen if thrombocytopenia or renal concerns exist; fluid management should start around 70–80 mL/kg/day and be individualized to urine output, sodium, and weight loss to avoid edema or dehydration [^0ef9606e] [^6e0e446a] [^6f4233c5].
+> I need to ensure adjunctive therapies are addressed. Caffeine is standard to facilitate extubation and reduce BPD, and for hemodynamically significant PDA, consider pharmacologic closure with indomethacin, ibuprofen, or acetaminophen, favoring acetaminophen if thrombocytopenia or renal concerns exist; fluid management should start around 70–80 mL/kg/day and be individualized to urine output, sodium, and weight loss to avoid edema or dehydration [^111PCbCH] [^113pARww] [^113qws1E].
 
-> But wait, what about supportive care that influences outcomes. Maintain normothermia, initiate parenteral nutrition from birth, and use antibiotics judiciously with early cessation when sepsis is ruled out; these elements reduce complications and improve overall outcomes in RDS care bundles [^0ef9606e] [^acb95cce] [^88c04375].
+> But wait, what about supportive care that influences outcomes. Maintain normothermia, initiate parenteral nutrition from birth, and use antibiotics judiciously with early cessation when sepsis is ruled out; these elements reduce complications and improve overall outcomes in RDS care bundles [^111PCbCH] [^115R58dB] [^114VjtvQ].
 
-> I should confirm special populations and caveats. For infants ≤ 24 weeks, evidence is limited and extrapolation from older gestations should be cautious; in resource-limited settings, prioritizing CPAP and surfactant access yields the greatest mortality impact; in term or near-term infants with surfactant inactivation states such as meconium aspiration, surfactant may reduce ECMO use even if mortality is unchanged, so case-by-case use is reasonable [^0ef9606e] [^c01398e3].
+> I should confirm special populations and caveats. For infants ≤ 24 weeks, evidence is limited and extrapolation from older gestations should be cautious; in resource-limited settings, prioritizing CPAP and surfactant access yields the greatest mortality impact; in term or near-term infants with surfactant inactivation states such as meconium aspiration, surfactant may reduce ECMO use even if mortality is unchanged, so case-by-case use is reasonable [^111PCbCH] [^115umCti].
 
-> Let me synthesize a practical algorithm and sanity-check each step. Antenatally, give steroids when indicated and arrange perinatal center transfer; in the delivery room, stabilize with CPAP/NIPPV, titrate oxygen, and maintain temperature; postnatally, escalate support if FiO2 rises on CPAP and give early rescue surfactant via LISA when indicated; if non-invasive support fails, intubate and use lung-protective ventilation with caffeine; reassess for repeat surfactant, manage PDA and fluids proactively, and wean ventilation as soon as feasible while maintaining supportive care [^0ef9606e] [^29e9f607].
+> Let me synthesize a practical algorithm and sanity-check each step. Antenatally, give steroids when indicated and arrange perinatal center transfer; in the delivery room, stabilize with CPAP/NIPPV, titrate oxygen, and maintain temperature; postnatally, escalate support if FiO2 rises on CPAP and give early rescue surfactant via LISA when indicated; if non-invasive support fails, intubate and use lung-protective ventilation with caffeine; reassess for repeat surfactant, manage PDA and fluids proactively, and wean ventilation as soon as feasible while maintaining supportive care [^111PCbCH] [^112595Uz].
 
-> Finally, I should review monitoring and quality metrics to close the loop. Track antenatal steroid coverage, CPAP initiation rates, surfactant timing and method, mechanical ventilation duration, BPD rates, and neurodevelopmental outcomes; align local protocols with European and WHO guidance and participate in audits to reduce unwarranted variation and continuously improve care [^0ef9606e] [^4554edfa].
+> Finally, I should review monitoring and quality metrics to close the loop. Track antenatal steroid coverage, CPAP initiation rates, surfactant timing and method, mechanical ventilation duration, BPD rates, and neurodevelopmental outcomes; align local protocols with European and WHO guidance and participate in audits to reduce unwarranted variation and continuously improve care [^111PCbCH] [^112mng1P].
 
 ---
 
-Neonatal respiratory distress syndrome (RDS) is best managed with a **lung-protective, stepwise approach** that starts with antenatal corticosteroids to reduce risk, followed by early non-invasive support (CPAP or NIPPV) to stabilize breathing, and timely surfactant when indicated [^9c843de2] [^ac366b11] [^6d63443f]. Early surfactant (within 2 hours) for intubated infants improves survival and reduces air leaks and chronic lung disease [^aaeea214]; **less invasive surfactant administration (LISA/MIST)** is preferred in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD [^3753bde2] [^5f63c41d]. Supportive care includes strict temperature control, judicious fluids, caffeine to facilitate extubation, and antibiotics only when indicated [^0ef9606e] [^6f4233c5] [^88c04375]. Mechanical ventilation is reserved for CPAP failure, using lung-protective modes and minimizing duration to reduce BPD risk [^6e7220f9] [^173ddb6e].
+Neonatal respiratory distress syndrome (RDS) is best managed with a **lung-protective, stepwise approach** that starts with antenatal corticosteroids to reduce risk, followed by early non-invasive support (CPAP or NIPPV) to stabilize breathing, and timely surfactant when indicated [^11513VEq] [^115QK9dA] [^113oAzaz]. Early surfactant (within 2 hours) for intubated infants improves survival and reduces air leaks and chronic lung disease [^115NR3rb]; **less invasive surfactant administration (LISA/MIST)** is preferred in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD [^112R2SvM] [^113SRLNY]. Supportive care includes strict temperature control, judicious fluids, caffeine to facilitate extubation, and antibiotics only when indicated [^111PCbCH] [^113qws1E] [^114VjtvQ]. Mechanical ventilation is reserved for CPAP failure, using lung-protective modes and minimizing duration to reduce BPD risk [^113pjyQc] [^111bTVZF].
 
 ---
 
 ## Antenatal prevention
 
-- **Antenatal corticosteroids**: A single course is recommended for all patients at high risk of preterm delivery from viability to 34 weeks, ideally given at least 24 hours before birth [^9c843de2] [^2b941f7c].
+- **Antenatal corticosteroids**: A single course is recommended for all patients at high risk of preterm delivery from viability to 34 weeks, ideally given at least 24 hours before birth [^11513VEq] [^1127cDnb].
 
-- **Repeat dosing**: Consider a single repeat course if preterm birth risk persists after 7 days, but avoid regular or serial courses [^2639e66a] [^6a3f796a].
+- **Repeat dosing**: Consider a single repeat course if preterm birth risk persists after 7 days, but avoid regular or serial courses [^111yfyhB] [^113iX1T7].
 
-- **Maternal transfer**: Transfer to a perinatal center with appropriate neonatal care capabilities is recommended when feasible [^2caa7f32].
+- **Maternal transfer**: Transfer to a perinatal center with appropriate neonatal care capabilities is recommended when feasible [^1129Diws].
 
 ---
 
 ## Initial stabilization and respiratory support
 
-- **Non-invasive support**: Initiate CPAP or synchronized NIPPV from birth in preterm infants with signs of RDS to reduce mechanical ventilation and BPD [^ac366b11] [^5213bbd1].
+- **Non-invasive support**: Initiate CPAP or synchronized NIPPV from birth in preterm infants with signs of RDS to reduce mechanical ventilation and BPD [^115QK9dA] [^1136gcYx].
 
 - **Oxygen titration**: Use pulse oximetry to target SpO₂ 90–95% to avoid hypoxemia and hyperoxia [^notfound].
 
@@ -71,35 +71,35 @@ Neonatal respiratory distress syndrome (RDS) is best managed with a **lung-prote
 
 ## Surfactant replacement therapy
 
-- **Indications**: Give surfactant early in the course of RDS, typically when FᵢO₂ > 0.30 on CPAP ≥ 6 cm H₂O or if lung ultrasound suggests need [^6d63443f].
+- **Indications**: Give surfactant early in the course of RDS, typically when FᵢO₂ > 0.30 on CPAP ≥ 6 cm H₂O or if lung ultrasound suggests need [^113oAzaz].
 
-- **Timing**: Early surfactant (within 2 hours) in intubated infants reduces mortality, air leaks, and chronic lung disease [^aaeea214] [^9c511d8f].
+- **Timing**: Early surfactant (within 2 hours) in intubated infants reduces mortality, air leaks, and chronic lung disease [^115NR3rb] [^114zkKDg].
 
-- **Preparation**: Animal-derived surfactants (e.g. poractant alfa) are preferred over synthetic preparations [^94fa3e6e].
+- **Preparation**: Animal-derived surfactants (e.g. poractant alfa) are preferred over synthetic preparations [^114osDrM].
 
-- **Dosing**: Use 200 mg/kg poractant alfa for rescue therapy when available [^37bf5a09].
+- **Dosing**: Use 200 mg/kg poractant alfa for rescue therapy when available [^112RebLC].
 
-- **Administration**: Prefer LISA/MIST in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD [^3753bde2] [^5f63c41d].
+- **Administration**: Prefer LISA/MIST in spontaneously breathing infants on CPAP to avoid intubation and reduce BPD [^112R2SvM] [^113SRLNY].
 
-- **Repeat dosing**: Give a second or third dose if ongoing RDS is present and other causes are excluded [^70083e3b].
+- **Repeat dosing**: Give a second or third dose if ongoing RDS is present and other causes are excluded [^113s6P9k].
 
 ---
 
 ## Mechanical ventilation
 
-Reserve mechanical ventilation for **CPAP failure or severe RDS**, and use **lung-protective strategies** — volume-targeted ventilation or high-frequency oscillation — to minimize volutrauma and barotrauma [^6e7220f9] [^173ddb6e]. Minimize the duration of ventilation and use caffeine to facilitate extubation and reduce BPD [^0ef9606e].
+Reserve mechanical ventilation for **CPAP failure or severe RDS**, and use **lung-protective strategies** — volume-targeted ventilation or high-frequency oscillation — to minimize volutrauma and barotrauma [^113pjyQc] [^111bTVZF]. Minimize the duration of ventilation and use caffeine to facilitate extubation and reduce BPD [^111PCbCH].
 
 ---
 
 ## Supportive care
 
-- **Fluid management**: Start IV fluids at 70–80 mL/kg/day and tailor to urine output, sodium, and weight loss [^6f4233c5].
+- **Fluid management**: Start IV fluids at 70–80 mL/kg/day and tailor to urine output, sodium, and weight loss [^113qws1E].
 
-- **Nutrition**: Initiate parenteral nutrition from birth and advance enteral feeds as tolerated [^acb95cce].
+- **Nutrition**: Initiate parenteral nutrition from birth and advance enteral feeds as tolerated [^115R58dB].
 
-- **Patent ductus arteriosus (PDA)**: Treat hemodynamically significant PDA with indomethacin, ibuprofen, or acetaminophen, preferring acetaminophen if thrombocytopenia or renal concerns exist [^6e0e446a].
+- **Patent ductus arteriosus (PDA)**: Treat hemodynamically significant PDA with indomethacin, ibuprofen, or acetaminophen, preferring acetaminophen if thrombocytopenia or renal concerns exist [^113pARww].
 
-- **Antibiotics**: Use judiciously and stop early when sepsis is ruled out [^88c04375].
+- **Antibiotics**: Use judiciously and stop early when sepsis is ruled out [^114VjtvQ].
 
 ---
 
@@ -127,61 +127,61 @@ Effective RDS management requires **coordinated antenatal care, early non-invasi
 
 ## References
 
-### European consensus guidelines on the management of neonatal respiratory distress syndrome in preterm infants – 2013 update [^0db40d86]. Neonatology (2013). Low credibility.
+### European consensus guidelines on the management of neonatal respiratory distress syndrome in preterm infants – 2013 update [^111MKKNm]. Neonatology (2013). Low credibility.
 
 Despite recent advances in the perinatal management of neonatal respiratory distress syndrome (RDS), controversies still exist. We report updated recommendations of a European Panel of expert neonatologists who developed consensus guidelines after critical examination of the most up-to-date evidence in 2007 and 2010. This second update of the guidelines is based upon published evidence up to the end of 2012. Strong evidence exists for the role of antenatal steroids in RDS prevention, but it is still not clear if the benefit of repeated courses on respiratory outcomes outweighs the risk of adverse outcomes in the short and long term. Many practices involved in preterm neonatal stabilization at birth are not evidence based, including oxygen administration and positive pressure lung inflation, and they may at times be harmful. Surfactant replacement therapy is crucial in the management of RDS but the best preparation, optimal dose and timing of administration at different gestations is not completely clear. In addition, use of very early continuous positive airway pressure (CPAP) has altered the indications for prophylactic surfactant administration. Respiratory support in the form of mechanical ventilation may be lifesaving but can cause lung injury, and protocols should be directed at avoiding mechanical ventilation where possible by using non-invasive respiratory support such as CPAP. For babies with RDS to have best outcomes, it is essential that they have optimal supportive care, including maintenance of normal body temperature, proper fluid management, good nutritional support, appropriate management of the ductus arteriosus and support of the circulation to maintain adequate tissue perfusion.
 
 ---
 
-### European consensus guidelines on the management of neonatal respiratory distress syndrome in preterm infants-2010 update [^9371b18e]. Neonatology (2010). Low credibility.
+### European consensus guidelines on the management of neonatal respiratory distress syndrome in preterm infants-2010 update [^114mbNMb]. Neonatology (2010). Low credibility.
 
 Despite recent advances in the perinatal management of neonatal respiratory distress syndrome (RDS), controversies still exist. We report the updated recommendations of a European panel of expert neonatologists who had developed consensus guidelines after critical examination of the most up-to-date evidence in 2007. These updated guidelines are based upon published evidence up to the end of 2009. Strong evidence exists for the role of a single course of antenatal steroids in RDS prevention, but the potential benefit and long-term safety of repeated courses are unclear. Many practices involved in preterm neonatal stabilisation at birth are not evidence-based, including oxygen administration and positive pressure lung inflation, and they may at times be harmful. Surfactant replacement therapy is crucial in the management of RDS, but the best preparation, optimal dose and timing of administration at different gestations is not always clear. Respiratory support in the form of mechanical ventilation may also be lifesaving, but can cause lung injury, and protocols should be directed at avoiding mechanical ventilation where possible by using nasal continuous positive airways pressure or nasal ventilation. For babies with RDS to have best outcomes, it is essential that they have optimal supportive care, including maintenance of a normal body temperature, proper fluid management, good nutritional support, management of the ductus arteriosus and support of the circulation to maintain adequate tissue perfusion.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^a5b16ce9]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^115EeZ2Q]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, CPS 2021 guidelines recommend to consider initiating early surfactant replacement therapy in infants with increasing severity of respiratory distress syndrome, demonstrated by escalating or sustained levels of oxygen requirement and other clinical or radiological indications.
 
 ---
 
-### Management of respiratory distress syndrome: an update [^e7876eaa]. Respiratory Care (2003). Low credibility.
+### Management of respiratory distress syndrome: an update [^116vFdXo]. Respiratory Care (2003). Low credibility.
 
 Respiratory distress syndrome is the most common respiratory disorder in preterm infants. Over the last decade, because of improvements in neonatal care and increased use of antenatal steroids and surfactant replacement therapy, mortality from respiratory distress syndrome has dropped substantially. However, respiratory morbidity, primarily bronchopulmonary dysplasia, remains unacceptably high. The management of respiratory distress syndrome in preterm infants is based on various modalities of respiratory support and the application of fundamental principles of neonatal care. To obtain best results, a multidisciplinary approach is crucial. This review discusses surfactant replacement therapy and some of the current strategies in ventilatory management of preterm infants with respiratory distress syndrome.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome-2016 update [^e02fb9c2]. Neonatology (2017). Low credibility.
+### European consensus guidelines on the management of respiratory distress syndrome-2016 update [^116jNFtu]. Neonatology (2017). Low credibility.
 
 Advances in the management of respiratory distress syndrome (RDS) ensure that clinicians must continue to revise current practice. We report the third update of the European Guidelines for the Management of RDS by a European panel of expert neonatologists including input from an expert perinatal obstetrician based on available literature up to the beginning of 2016. Optimizing the outcome for babies with RDS includes consideration of when to use antenatal steroids, and good obstetric practice includes methods of predicting the risk of preterm delivery and also consideration of whether transfer to a perinatal centre is necessary and safe. Methods for optimal delivery room management have become more evidence based, and protocols for lung protection, including initiation of continuous positive airway pressure and titration of oxygen, should be implemented from soon after birth. Surfactant replacement therapy is a crucial part of the management of RDS, and newer protocols for surfactant administration are aimed at avoiding exposure to mechanical ventilation, and there is more evidence of differences among various surfactants in clinical use. Newer methods of maintaining babies on non-invasive respiratory support have been developed and offer potential for greater comfort and less chronic lung disease. As technology for delivering mechanical ventilation improves, the risk of causing lung injury should decrease although minimizing the time spent on mechanical ventilation using caffeine and if necessary postnatal steroids are also important considerations. Protocols for optimizing the general care of infants with RDS are also essential with good temperature control, careful fluid and nutritional management, maintenance of perfusion and judicious use of antibiotics all being important determinants of best outcome.
 
 ---
 
-### Neonatal mortality from respiratory distress syndrome: lessons for low-resource countries [^1685f528]. Pediatrics (2011). Low credibility.
+### Neonatal mortality from respiratory distress syndrome: lessons for low-resource countries [^111aPiuV]. Pediatrics (2011). Low credibility.
 
 Respiratory distress syndrome (RDS) is a major contributor to neonatal mortality worldwide. However, little information is available regarding rates of RDS-specific mortality in low-income countries, and technologies for RDS treatment are used inconsistently in different health care settings. Our objective was to better understand the interventions that have decreased the rates of RDS-specific mortality in high-income countries over the past 60 years. We then estimated the effects on RDS-specific mortality in low-resource settings. Of the sequential introduction of technologies and therapies for RDS, widespread use of oxygen and continuous positive airway pressure were associated with the time periods that demonstrated the greatest decline in RDS-specific mortality. We argue that these 2 interventions applied widely in low-resource settings, with appropriate supportive infrastructure and general newborn care, will have the greatest impact on decreasing neonatal mortality. This historical perspective can inform policy-makers for the prioritization of scarce resources to improve survival rates for newborns worldwide.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome-2019 update [^2caa7f32]. Neonatology (2019). Medium credibility.
+### European consensus guidelines on the management of respiratory distress syndrome-2019 update [^1129Diws]. Neonatology (2019). Medium credibility.
 
 As management of respiratory distress syndrome (RDS) advances, clinicians must continually revise their current practice. We report the fourth update of "European Guidelines for the Management of RDS" by a European panel of experienced neonatologists and an expert perinatal obstetrician based on available literature up to the end of 2018. Optimising outcome for babies with RDS includes prediction of risk of preterm delivery, need for appropriate maternal transfer to a perinatal centre and timely use of antenatal steroids. Delivery room management has become more evidence-based, and protocols for lung protection including initiation of CPAP and titration of oxygen should be implemented immediately after birth. Surfactant replacement therapy is a crucial part of management of RDS, and newer protocols for its use recommend early administration and avoidance of mechanical ventilation. Methods of maintaining babies on non-invasive respiratory support have been further developed and may cause less distress and reduce chronic lung disease. As technology for delivering mechanical ventilation improves, the risk of causing lung injury should decrease, although minimising time spent on mechanical ventilation using caffeine and, if necessary, postnatal steroids are also important considerations. Protocols for optimising general care of infants with RDS are also essential with good temperature control, careful fluid and nutritional management, maintenance of perfusion and judicious use of antibiotics all being important determinants of best outcome.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^29e9f607]. Neonatology (2023). Medium credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^112595Uz]. Neonatology (2023). Medium credibility.
 
 Respiratory distress syndrome (RDS) care pathways evolve slowly as new evidence emerges. We report the sixth version of "European Guidelines for the Management of RDS" by a panel of experienced European neonatologists and an expert perinatal obstetrician based on available literature up to end of 2022. Optimising outcome for babies with RDS includes prediction of risk of preterm delivery, appropriate maternal transfer to a perinatal centre, and appropriate and timely use of antenatal steroids. Evidence-based lung-protective management includes initiation of non-invasive respiratory support from birth, judicious use of oxygen, early surfactant administration, caffeine therapy, and avoidance of intubation and mechanical ventilation where possible. Methods of ongoing non-invasive respiratory support have been further refined and may help reduce chronic lung disease. As technology for delivering mechanical ventilation improves, the risk of causing lung injury should decrease, although minimising time spent on mechanical ventilation by targeted use of postnatal corticosteroids remains essential. The general care of infants with RDS is also reviewed, including emphasis on appropriate cardiovascular support and judicious use of antibiotics as being important determinants of best outcome. We would like to dedicate this guideline to the memory of Professor Henry Halliday who died on November 12, 2022. These updated guidelines contain evidence from recent Cochrane reviews and medical literature since 2019. Strength of evidence supporting recommendations has been evaluated using the GRADE system. There are changes to some of the previous recommendations as well as some changes to the strength of evidence supporting recommendations that have not changed. This guideline has been endorsed by the European Society for Paediatric Research (ESPR) and the Union of European Neonatal and Perinatal Societies (UENPS).
 
 ---
 
-### Equipoise in research and the development of neonatal interventions for the management of respiratory distress syndrome: a historical perspective [^7e4fce66]. American Journal of Perinatology (2015). Low credibility.
+### Equipoise in research and the development of neonatal interventions for the management of respiratory distress syndrome: a historical perspective [^114EGFG1]. American Journal of Perinatology (2015). Low credibility.
 
 The historical review of how evidence was developed for the management of respiratory distress syndrome in premature infants has not been clearly characterized. Knowledge of this process is essential to understand the role of equipoise and its influence on the decision to evaluate interventions as they were implemented in the practice of medicine. We suspect that errant approaches to clinical equipoise secondary to states of false certainty and false uncertainty have been important barriers to the timely acquisition and implementation of evidence-based knowledge necessary to improve outcomes in this fragile population of infants. When confronted with the decision to test an intervention, physicians should question whether they have lost clinical equipoise based on opinion, expertise, or observational data rather than evidence obtained from methodological inquiry; doing so facilitates reaching clinical equipoise and promotes the application of scientific methodology to answer relevant clinical questions. Timely acquisition of evidence-based knowledge can be viewed as an ethical imperative when the status quo may have negative consequences on outcomes for generations.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^0ef9606e]. Neonatology (2023). Medium credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^111PCbCH]. Neonatology (2023). Medium credibility.
 
 Introduction
 
@@ -191,50 +191,50 @@ RDS is caused by pulmonary immaturity and surfactant deficiency, resulting in re
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^242f1f93]. Neonatology (2023). Medium credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^111vePBY]. Neonatology (2023). Medium credibility.
 
 Respiratory distress syndrome (RDS) care pathways evolve slowly as new evidence emerges. We report the sixth version of "European Guidelines for the Management of RDS" by a panel of experienced European neonatologists and an expert perinatal obstetrician based on available literature up to end of 2022. Optimising outcome for babies with RDS includes prediction of risk of preterm delivery, appropriate maternal transfer to a perinatal centre, and appropriate and timely use of antenatal steroids. Evidence-based lung-protective management includes initiation of non-invasive respiratory support from birth, judicious use of oxygen, early surfactant administration, caffeine therapy, and avoidance of intubation and mechanical ventilation where possible. Methods of ongoing non-invasive respiratory support have been further refined and may help reduce chronic lung disease. As technology for delivering mechanical ventilation improves, the risk of causing lung injury should decrease, although minimising time spent on mechanical ventilation by targeted use of postnatal corticosteroids remains essential. The general care of infants with RDS is also reviewed, including emphasis on appropriate cardiovascular support and judicious use of antibiotics as being important determinants of best outcome. We would like to dedicate this guideline to the memory of Professor Henry Halliday who died on November 12 <sup>, </sup> 2022. These updated guidelines contain evidence from recent Cochrane reviews and medical literature since 2019. Strength of evidence supporting recommendations has been evaluated using the GRADE system. There are changes to some of the previous recommendations as well as some changes to the strength of evidence supporting recommendations that have not changed. This guideline has been endorsed by the European Society for Paediatric Research (ESPR) and the Union of European Neonatal and Perinatal Societies (UENPS).
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^88c04375]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^114VjtvQ]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to antibiotic therapy, ECG-RDS 2023 guidelines recommend to use antibiotics judiciously in infants with respiratory distress syndrome and stop early when sepsis is ruled out.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^6d63443f]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113oAzaz]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, ECG-RDS 2023 guidelines recommend to administer rescue surfactant early in the course of the disease.
 Consider administering surfactant in worsening infants with respiratory distress syndrome with FᵢO₂ requirements > 0.30 on CPAP ≥ 6 cmH₂O or if lung ultrasound suggests surfactant need.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^8d21aebd]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^114cEZvc]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, CPS 2021 guidelines recommend to initiate surfactant replacement therapy in infants with respiratory distress syndrome with FᵢO₂ requirements > 0.5.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^3753bde2]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^112R2SvM]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, mode of administration, CPS 2021 guidelines recommend to prefer noninvasive methods of surfactant administration, such as less invasive surfactant administration or minimally invasive surfactant therapy, in spontaneously breathing infants with respiratory distress syndrome on CPAP. Take into consideration clinician experience, optimal dosage, volume, and the types of surfactant available to optimize the delivery method.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^a8baed3e]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^115K9hyF]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to consider administering a single repeat course of antenatal corticosteroids in pregnant patients < 34 0/7 weeks of gestation at risk of preterm delivery within 7 days if a prior course of antenatal corticosteroids was administered > 14 days previously. Consider administering a rescue course of corticosteroids as early as 7 days from the prior dose if indicated by the clinical scenario.
 
 ---
 
-### Practice bulletin no. 171: management of preterm labor [^031fad5c]. Obstetrics and Gynecology (2016). Medium credibility.
+### Practice bulletin no. 171: management of preterm labor [^1115dby5]. Obstetrics and Gynecology (2016). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2016 guidelines recommend to consider administering a single repeat course of antenatal corticosteroids in pregnant patients at < 34 weeks of gestation at risk of preterm delivery within the next 7 days if the initial course of antenatal corticosteroids was administered > 14 days previously. Consider administering a rescue course of corticosteroids as early as 7 days from the prior dose, if indicated by the clinical scenario.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^481673e6]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^112qsehs]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, WHO 2015 guidelines recommend to administer antenatal corticosteroids in patients at 24–34 weeks of gestation at risk of preterm birth when the following conditions are met:
 
@@ -250,49 +250,49 @@ Regarding preventative measures for neonatal respiratory distress syndrome, more
 
 ---
 
-### Practice bulletin no. 171: management of preterm labor [^6599eb86]. Obstetrics and Gynecology (2016). Medium credibility.
+### Practice bulletin no. 171: management of preterm labor [^113bdT4q]. Obstetrics and Gynecology (2016). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2016 guidelines recommend to consider administering a single course of corticosteroids in pregnant patients at 23 weeks of gestation at risk of preterm delivery within 7 days, irrespective of membrane status.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^5b4d09e2]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^113LMkUh]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to consider administering a single course of corticosteroids in pregnant patients starting at 23 0/7 weeks of gestation at risk of preterm delivery within 7 days, based on the family's decision regarding resuscitation, regardless of membrane rupture status and fetal number.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^2b941f7c]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^1127cDnb]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to administer a single course of corticosteroids in pregnant patients between 24 0/7 and 33 6/7 weeks of gestation at risk of preterm delivery within 7 days, including patients with ruptured membranes and multiple gestations.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^18708a88]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^111dEWF1]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, WHO 2015 guidelines recommend to initiate surfactant replacement therapy in intubated and ventilated infants with respiratory distress syndrome.
 
 ---
 
-### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^659c4402]. Pediatrics (2014). Medium credibility.
+### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^113beEmF]. Pediatrics (2014). Medium credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, AAP 2014 guidelines recommend to initiate surfactant replacement therapy after initial stabilization of preterm infants born at < 30 weeks of gestation requiring mechanical ventilation because of severe respiratory distress syndrome.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^9c511d8f]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^114zkKDg]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, WHO 2015 guidelines recommend to initiate early surfactant replacement therapy (within the first 2 hours after birth) rather than waiting for the symptoms to worsen before giving rescue therapy in intubated preterm infants with respiratory distress syndrome.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^23506638]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^111uMaAj]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, repeat doses, CPS 2021 guidelines recommend to administer repeated doses of surfactant in infants only in the presence of evidence of ongoing moderate-to-severe respiratory distress syndrome.
 
 ---
 
-### Early versus delayed selective surfactant treatment for neonatal respiratory distress syndrome [^aaeea214]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
+### Early versus delayed selective surfactant treatment for neonatal respiratory distress syndrome [^115NR3rb]. The Cochrane Database of Systematic Reviews (2012). Low credibility.
 
 Background
 
@@ -324,7 +324,7 @@ Early selective surfactant administration given to infants with RDS requiring as
 
 ---
 
-### Tocolytic therapy for preterm delivery: systematic review and network meta-analysis [^c177ec23]. BMJ (2012). Excellent credibility.
+### Tocolytic therapy for preterm delivery: systematic review and network meta-analysis [^115wptfc]. BMJ (2012). Excellent credibility.
 
 Neonatal respiratory distress syndrome
 
@@ -336,31 +336,31 @@ The results from the network meta-analysis (table and fig 5) suggested no eviden
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^94fa3e6e]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^114osDrM]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, choice of preparation, ECG-RDS 2023 guidelines recommend to administer animal-derived surfactant preparations in infants with respiratory distress syndrome requiring treatment.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^f1fd0e2f]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^117Bm1qG]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, ECG-RDS 2023 guidelines recommend to initiate surfactant replacement therapy in preterm infants < 30 weeks of gestation requiring intubation for stabilization.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^2375573c]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^111uZyr3]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, secondary causes, ECG-RDS 2023 guidelines recommend to consider initiating surfactant replacement therapy in infants with respiratory distress syndrome complicated by congenital pneumonia.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^7fb8420e]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^114GMKRf]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, CPS 2021 guidelines recommend to administer exogenous surfactant before inter-facility transport of intubated infants with respiratory distress syndrome.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^19774baf]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^111ekm7U]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, WHO 2015 guidelines recommend to administer antenatal corticosteroids in patients with any of the following:
 
@@ -378,25 +378,25 @@ Regarding preventative measures for neonatal respiratory distress syndrome, more
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^9c843de2]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^11513VEq]. Neonatology (2023). High credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ECG-RDS 2023 guidelines recommend to administer a single course of prenatal corticosteroids in all patients at high risk of preterm delivery from when pregnancy is deemed potentially viable up to 34 completed weeks of gestation, ideally at least 24 hours before birth.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^a8e7f8ad]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^115KQqWc]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, WHO 2015 guidelines recommend to administer a repeated single course of antenatal corticosteroids if preterm birth does not occur within 7 days after the initial dose and a subsequent clinical assessment demonstrates a high risk of preterm birth in the next 7 days.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^9a4aa786]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^114wkAnR]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to obtain continued surveillance of long-term outcomes after in utero corticosteroid exposure.
 
 ---
 
-### Core concepts: respiratory distress syndrome… [^5244ae0e]. publications.aap.org (2025). Medium credibility.
+### Core concepts: respiratory distress syndrome… [^1136y46q]. publications.aap.org (2025). Medium credibility.
 
 Respiratory distress syndrome is seen primarily in the preterm neonate and is due mostly to pulmonary surfactant deficiency. Lung atelectasis leads to ventilation-perfusion mismatching, hypoxia, and eventual respiratory failure in the untreated infant who has RDS. RDS is diagnosed by physical findings consistent with respiratory distress and characteristic radiographic findings. Treatment of RDS begins antenatally with the administration of maternal steroids to women at risk of preterm delivery between 24 and 34 weeks' gestation. The use of repeat doses of antenatal steroids is under investigation but is currently not recommended outside of randomized, controlled trials. SRT has been approved for use since 1990 and has been successful in decreasing rates of RDS. Natural surfactant is currently recommended for use, but synthetic surfactant that contains proteins to mimic surfactant proteins is being investigated.
 
@@ -406,87 +406,87 @@ Skip Nav Destination Article navigation Comments.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^9ab9ecf2]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^114xPYXB]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to insufficient evidence to recommend for or against administering a repeat or rescue course of corticosteroids in patients with preterm prelabor rupture of membranes.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^d046b5c3]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^116KnBAA]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to consider administering corticosteroids in pregnant patients during the periviable period at risk of preterm delivery within 7 days based on a family's decision regarding resuscitation.
 
 ---
 
-### WHO recommendations for care of the preterm or low-birth-weight infant [^4554edfa]. Geneva: World Health Organization (2022). High credibility.
+### WHO recommendations for care of the preterm or low-birth-weight infant [^112mng1P]. Geneva: World Health Organization (2022). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to noninvasive positive pressure ventilation, WHO 2022 guidelines recommend to initiate CPAP therapy in preterm infants with clinical signs of respiratory distress syndrome.
 
 ---
 
-### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^465464b9]. Pediatrics (2014). Medium credibility.
+### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^112oGUqv]. Pediatrics (2014). Medium credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, AAP 2014 guidelines recommend to consider initiating CPAP therapy immediately after birth and subsequent selective surfactant therapy as an alternative strategy to routine intubation with prophylactic or early surfactant in preterm infants.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^6f4233c5]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113qws1E]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to hemodynamic control, ECG-RDS 2023 guidelines recommend to initiate IV fluids of 70–80 mL/kg/day in a humidified incubator in most infants. Consider administering more fluids to very immature infants.
 Tailor fluid management individually according to serum sodium levels, urine output, and weight loss.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^70083e3b]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113s6P9k]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, repeat doses, ECG-RDS 2023 guidelines recommend to administer a second and occasionally a third dose of surfactant if there is ongoing evidence of respiratory distress syndrome, such as persistent high oxygen requirement, provided other problems have been excluded.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^5942bfba]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113HLKTP]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, secondary causes, ECG-RDS 2023 guidelines recommend to consider initiating surfactant replacement therapy to improve oxygenation after pulmonary hemorrhage.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^6e7220f9]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113pjyQc]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to invasive ventilation, ECG-RDS 2023 guidelines recommend to initiate mechanical ventilation in infants with respiratory distress syndrome when other methods of respiratory support have failed.
 Minimize the duration of mechanical ventilation.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^173ddb6e]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^111bTVZF]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to invasive ventilation, ECG-RDS 2023 guidelines recommend to use lung-protective modes, such as volume-targeted ventilation or high-frequency oscillation ventilation, as the first choice in infants with respiratory distress syndrome requiring mechanical ventilation.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^16ccf83f]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^111aoaLE]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to encourage quality improvement strategies to optimize appropriate and timely antenatal corticosteroid administration.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^2639e66a]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^111yfyhB]. Neonatology (2023). High credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ECG-RDS 2023 guidelines recommend to consider administering a single repeat course of corticosteroids in threatened preterm birth before 32 weeks of gestation if the first course was administered at least 1–2 weeks earlier.
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^5213bbd1]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^1136gcYx]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to noninvasive positive pressure ventilation, CPS 2021 guidelines recommend to initiate noninvasive respiratory support (CPAP) from birth in preterm infants with respiratory distress syndrome.
 
 ---
 
-### Surfactant replacement therapy in the neonate: beyond respiratory distress syndrome [^9f342f45]. Respiratory Care (2009). Low credibility.
+### Surfactant replacement therapy in the neonate: beyond respiratory distress syndrome [^11552ZSt]. Respiratory Care (2009). Low credibility.
 
 Surfactant-replacement therapy is a life-saving treatment for preterm infants with respiratory distress syndrome, a disorder characterized by surfactant deficiency. Repletion with exogenous surfactant decreases mortality and thoracic air leaks and is a standard practice in the developed world. In addition to respiratory distress syndrome, other neonatal respiratory disorders are characterized by surfactant deficiency, which may result from decreased synthesis or inactivation. Two of these disorders, meconium aspiration syndrome and bronchopulmonary dysplasia, might also be amenable to surfactant-replacement therapy. This paper discusses the use of surfactant-replacement therapy beyond respiratory distress syndrome and examines the evidence to date.
 
 ---
 
-### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^34726a28]. BMC Pregnancy and Childbirth (2009). Low credibility.
+### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^112Lkndd]. BMC Pregnancy and Childbirth (2009). Low credibility.
 
 Sample Size
 
@@ -498,31 +498,31 @@ The initial analysis will examine baseline characteristics of all randomised wom
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^acb95cce]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^115R58dB]. Neonatology (2023). High credibility.
 
 Regarding nonpharmacologic interventions for neonatal respiratory distress syndrome, more specifically with respect to nutritional support, ECG-RDS 2023 guidelines recommend to initiate parenteral nutrition from birth.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^5f63c41d]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113SRLNY]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, mode of administration, ECG-RDS 2023 guidelines recommend to prefer less invasive surfactant administration as the choice of administration method in spontaneously breathing infants on CPAP.
 
 ---
 
-### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^6a3f796a]. Obstetrics and Gynecology (2017). Medium credibility.
+### Committee opinion no. 713: antenatal corticosteroid therapy for fetal maturation [^113iX1T7]. Obstetrics and Gynecology (2017). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, ACOG 2017 guidelines recommend to do not administer regularly scheduled repeat courses or serial courses (> 2).
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^ac366b11]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^115QK9dA]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to noninvasive positive pressure ventilation, ECG-RDS 2023 guidelines recommend to initiate CPAP or synchronized nasal intermittent positive pressure ventilation from birth in all infants at risk of respiratory distress syndrome, such as < 30 weeks of gestation not requiring intubation for stabilization.
 
 ---
 
-### Multiple versus single doses of exogenous surfactant for the prevention or treatment of neonatal respiratory distress syndrome [^a5c78ab7]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
+### Multiple versus single doses of exogenous surfactant for the prevention or treatment of neonatal respiratory distress syndrome [^115EmytS]. The Cochrane Database of Systematic Reviews (2009). Low credibility.
 
 Background
 
@@ -554,7 +554,7 @@ In infants with established respiratory distress, a policy of multiple doses of 
 
 ---
 
-### Exogenous surfactant therapy in 2013: what is next? Who, when and how should we treat newborn infants in the future? [^c4d40f11]. BMC Pediatrics (2013). Low credibility.
+### Exogenous surfactant therapy in 2013: what is next? Who, when and how should we treat newborn infants in the future? [^1162ooUU]. BMC Pediatrics (2013). Low credibility.
 
 Background
 
@@ -570,7 +570,7 @@ The optimization of the uses and methods of surfactant administration will be on
 
 ---
 
-### Ambroxol for women at risk of preterm birth for preventing neonatal respiratory distress syndrome [^aec2bb6f]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Ambroxol for women at risk of preterm birth for preventing neonatal respiratory distress syndrome [^115U6Fiv]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -602,37 +602,37 @@ This review is based on very low to moderate quality evidence from 14 small tria
 
 ---
 
-### Treatment patterns and clinical outcomes in neonates diagnosed with respiratory distress syndrome in a low-income country: a report from Bangladesh [^21612f0a]. Anesthesia and Analgesia (2018). Low credibility.
+### Treatment patterns and clinical outcomes in neonates diagnosed with respiratory distress syndrome in a low-income country: a report from Bangladesh [^111rVEbK]. Anesthesia and Analgesia (2018). Low credibility.
 
 Respiratory distress syndrome remains a leading cause of neonatal mortality worldwide. This retrospective study describes practice patterns for respiratory distress syndrome in a resource-limited setting and seeks to identify both risk factors for mortality and beneficial treatment modalities. Health, demographic, and treatment data were collected. Potential associations were analyzed using univariable and multivariable logistic regression. Of 104 children included for analysis, 38 died. Although most children were initially treated with noninvasive respiratory support, 59 progressed to invasive ventilation. Requirement for invasive ventilation was associated with death. A clear trend toward improved survival in mechanically ventilated patients was seen with surfactant administration.
 
 ---
 
-### Respiratory distress of the term newborn infant [^ad6828b4]. Paediatric Respiratory Reviews (2013). Low credibility.
+### Respiratory distress of the term newborn infant [^115S5qw9]. Paediatric Respiratory Reviews (2013). Low credibility.
 
 Respiratory distress is recognised as any signs of breathing difficulties in neonates. In the early neonatal period respiratory distress is common, occurring in up to 7% of newborn infants, resulting in significant numbers of term-born infants being admitted to neonatal units. Many risk factors are involved; the increasing number of term infants delivered by elective caesarean section has also increased the incidence. Additionally the risk decreases with each advancing week of gestation. At 37 weeks, the chances are three times greater than at 39–40 weeks gestation. Multiple conditions can present with features of respiratory distress. Common causes in term newborn infants include transient tachypnoea of the newborn, respiratory distress syndrome, pneumonia, meconium aspiration syndrome, persistent pulmonary hypertension of the neonate and pneumothorax. Early recognition of respiratory distress and initiation of appropriate treatment is important to ensure optimal outcomes. This review will discuss these common causes of respiratory distress in term-born infants.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^78662003]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^1145VpNe]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to hemodynamic control, ECG-RDS 2023 guidelines recommend to treat hypotension according to the cause in case of evidence of poor tissue perfusion, such as oliguria, acidosis, and poor capillary refill.
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^c9afc839]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^116A1Z9z]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding preventative measures for neonatal respiratory distress syndrome, more specifically with respect to antenatal corticosteroids, WHO 2015 guidelines recommend to do not administer antenatal corticosteroids in patients with chorioamnionitis likely to deliver preterm or in case of planned C-section at late preterm gestations (34–36 6/7 weeks).
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^37bf5a09]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^112RebLC]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to surfactant therapy, indications, respiratory distress syndrome, ECG-RDS 2023 guidelines recommend to administer an initial dose of 200 mg/kg of poractant alfa for rescue therapy rather than 100 mg/kg of poractant alfa or 100 mg/kg beractant.
 
 ---
 
-### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^5fe81e00]. Pediatric Research (2019). Medium credibility.
+### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^113TBnnB]. Pediatric Research (2019). Medium credibility.
 
 Introduction
 
@@ -642,7 +642,7 @@ International consensus guidelines on management of RDS have been published; how
 
 ---
 
-### Surfactant replacement therapy in preterm infants: a European survey [^a548477b]. Neonatology (2011). Low credibility.
+### Surfactant replacement therapy in preterm infants: a European survey [^115E3EcS]. Neonatology (2011). Low credibility.
 
 Background
 
@@ -666,19 +666,19 @@ With the exception of surfactant timing, guidelines on surfactant replacement th
 
 ---
 
-### Respiratory distress in the newborn [^7d7c7581]. American Family Physician (2007). Low credibility.
+### Respiratory distress in the newborn [^114D3FtC]. American Family Physician (2007). Low credibility.
 
 The most common etiology of neonatal respiratory distress is transient tachypnea of the newborn; this is triggered by excessive lung fluid, and symptoms usually resolve spontaneously. Respiratory distress syndrome can occur in premature infants as a result of surfactant deficiency and underdeveloped lung anatomy. Intervention with oxygenation, ventilation, and surfactant replacement is often necessary. Prenatal administration of corticosteroids between 24 and 34 weeks' gestation reduces the risk of respiratory distress syndrome of the newborn when the risk of preterm delivery is high. Meconium aspiration syndrome is thought to occur in utero as a result of fetal distress by hypoxia. The incidence is not reduced by use of amnio-infusion before delivery nor by suctioning of the infant during delivery. Treatment options are resuscitation, oxygenation, surfactant replacement, and ventilation. Other etiologies of respiratory distress include pneumonia, sepsis, pneumothorax, persistent pulmonary hypertension, and congenital malformations; treatment is disease specific. Initial evaluation for persistent or severe respiratory distress may include complete blood count with differential, chest radiography, and pulse oximetry.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^adc31b6b]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^115ScPkE]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to noninvasive positive pressure ventilation, ECG-RDS 2023 guidelines recommend to consider initiating noninvasive ventilation with early rescue surfactant by less invasive surfactant administration technique in infants with respiratory distress syndrome.
 
 ---
 
-### Surfactant therapy guided by tests for lung maturity in preterm infants at risk of respiratory distress syndrome [^7e4501d0]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
+### Surfactant therapy guided by tests for lung maturity in preterm infants at risk of respiratory distress syndrome [^114ECcsh]. The Cochrane Database of Systematic Reviews (2023). Medium credibility.
 
 Background
 
@@ -710,19 +710,19 @@ No studies compared surfactant treatment guided by rapid tests for surfactant de
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^ff31235b]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^117XLM9c]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to invasive ventilation, ECG-RDS 2023 guidelines recommend to do not administer morphine or midazolam infusions routinely in ventilated preterm infants.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^4ed2cd9b]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^1131rqkv]. Neonatology (2023). High credibility.
 
 Regarding respiratory support for neonatal respiratory distress syndrome, more specifically with respect to noninvasive positive pressure ventilation, ECG-RDS 2023 guidelines recommend to recognize that bilevel positive airway pressure devices have no advantage over CPAP alone. Consider initiating synchronized noninvasive positive pressure ventilation, delivered through a ventilator, to reduce the need for ventilation or re-ventilation following extubation and reduce bronchopulmonary dysplasia.
 
 ---
 
-### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^eaacd936]. Journal of Perinatology (2023). Medium credibility.
+### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^116zvAJZ]. Journal of Perinatology (2023). Medium credibility.
 
 Introduction
 
@@ -732,13 +732,13 @@ Guidelines in the US published by the American Association for Respiratory Care 
 
 ---
 
-### Personalized medicine for the management of RDS in preterm neonates [^d0556f41]. Neonatology (2021). Medium credibility.
+### Personalized medicine for the management of RDS in preterm neonates [^116Ks81v]. Neonatology (2021). Medium credibility.
 
 Continuous positive airway pressure and surfactant represent the first- and second-line treatment for respiratory distress syndrome in preterm neonates, as European and American guidelines, since 2013 and 2014, respectively, started to recommend surfactant replacement only when continuous positive airway pressure fails. These recommendations, however, are not personalized to the individual physiopathology. Simple clinical algorithms may have improved the diffusion of neonatal care, but complex medical issues can hardly be addressed with simple solutions. The treatment of respiratory distress syndrome is a complex matter and can be only optimized with personalization. We performed a review of tools to individualize the management of respiratory distress syndrome based on physiopathology and actual patients' need, according to precision medicine principles. Advanced oxygenation metrics, lung ultrasound, electrical impedance tomography, and both quantitative and qualitative surfactant assays were examined. When these techniques were investigated with diagnostic accuracy studies, reliability measures have been meta-analysed. Amongst all these tools, quantitative lung ultrasound seems the more developed for the widespread use and has a higher diagnostic accuracy (meta-analytical AUC = 0.952 [95% CI: 0.951–0.953]). Surfactant adsorption (AUC = 0.840 [95% CI: 0.824–0.856]) and stable microbubble test (AUC = 0.800 [95% CI: 0.788–0.812]) also have good reliability, but need further industrial development. We advocate for a more accurate characterization and a personalized approach of respiratory distress syndrome. With the above-described currently available tools, it should be possible to personalize the treatment of respiratory distress syndrome according to physiopathol-ogy.
 
 ---
 
-### Higher initial doses of surfactant for the prevention or treatment of respiratory distress syndrome in preterm infants [^0cb83450]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Higher initial doses of surfactant for the prevention or treatment of respiratory distress syndrome in preterm infants [^111KriyM]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Objectives
 
@@ -746,7 +746,7 @@ This is a protocol for a Cochrane Review (intervention). The objectives are as f
 
 ---
 
-### Repeat doses of prenatal corticosteroids for women at risk of preterm birth for improving neonatal health outcomes [^a0792d75]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
+### Repeat doses of prenatal corticosteroids for women at risk of preterm birth for improving neonatal health outcomes [^1156uipU]. The Cochrane Database of Systematic Reviews (2022). Medium credibility.
 
 Background
 
@@ -778,13 +778,13 @@ The short-term benefits for babies included less respiratory distress and fewer 
 
 ---
 
-### Surfactant for respiratory distress syndrome: new ideas on a familiar drug with innovative applications [^fc8b819f]. Neonatology (2017). Low credibility.
+### Surfactant for respiratory distress syndrome: new ideas on a familiar drug with innovative applications [^117TQjpS]. Neonatology (2017). Low credibility.
 
 In the last 4 decades, advances in neonatology have led to a significant increase in the survival of preterm infants. One of the biggest advances was the introduction of surfactant replacement therapy for the treatment of respiratory distress syndrome. This is the main cause of respiratory insufficiency in preterm infants and is one of the major causes of perinatal morbidity and mortality. Surfactant replacement therapy is already a well-investigated and established therapy in neonatology. However, surfactant replacement therapy has progressed and been refined over recent decades, especially with the increasing care for preterm infants born before 26 weeks' gestational age and the recent clinical focus on avoiding mechanical ventilation. Clinical evidence is evolving on new types of surfactant, surfactant dosages, co-medication given before, with, or after surfactant replacement, and new technical advances regarding the mode of administration.
 
 ---
 
-### Exogenous surfactant therapy in 2013: what is next? Who, when and how should we treat newborn infants in the future? [^c68caaae]. BMC Pediatrics (2013). Low credibility.
+### Exogenous surfactant therapy in 2013: what is next? Who, when and how should we treat newborn infants in the future? [^1165MoCy]. BMC Pediatrics (2013). Low credibility.
 
 National guidelines for exogenous surfactant administration
 
@@ -797,7 +797,7 @@ A European survey conducted in 2011 has analysed the incorporation of guidelines
 
 ---
 
-### A comparison of 2 doses of antenatal dexamethasone for the prevention of respiratory distress syndrome: an open-label, noninferiority, pragmatic randomized trial [^edcdf9a9]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
+### A comparison of 2 doses of antenatal dexamethasone for the prevention of respiratory distress syndrome: an open-label, noninferiority, pragmatic randomized trial [^1175ZFWY]. American Journal of Obstetrics and Gynecology (2024). Medium credibility.
 
 Background
 
@@ -821,7 +821,7 @@ Our study suggests that a 5-mg dexamethasone dose is noninferior to a standard 6
 
 ---
 
-### Postnatal thyroid hormones for respiratory distress syndrome in preterm infants [^34115cb5]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
+### Postnatal thyroid hormones for respiratory distress syndrome in preterm infants [^112LCBtx]. The Cochrane Database of Systematic Reviews (2007). Low credibility.
 
 Background
 
@@ -853,7 +853,7 @@ There is no evidence from controlled clinical trials that postnatal thyroid horm
 
 ---
 
-### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^f26ce071]. Pediatric Research (2019). Medium credibility.
+### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^117CQaHe]. Pediatric Research (2019). Medium credibility.
 
 Methods
 
@@ -861,7 +861,7 @@ For the purpose of this expert consensus, UK specialists in neonatal respiratory
 
 ---
 
-### Less-invasive surfactant administration for neonatal respiratory distress syndrome: a consensus guideline [^1193f346]. Neonatology (2021). Medium credibility.
+### Less-invasive surfactant administration for neonatal respiratory distress syndrome: a consensus guideline [^111T4V6V]. Neonatology (2021). Medium credibility.
 
 Introduction
 
@@ -881,7 +881,7 @@ LISA has the potential to improve outcomes for preterm infants with RDS and can 
 
 ---
 
-### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^ad7f707f]. BMC Pregnancy and Childbirth (2009). Low credibility.
+### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^115SDfUS]. BMC Pregnancy and Childbirth (2009). Low credibility.
 
 Background
 
@@ -905,7 +905,7 @@ This is a protocol for a randomised trial.
 
 ---
 
-### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^038f2e92]. BMC Pregnancy and Childbirth (2009). Low credibility.
+### Progesterone after previous preterm birth for prevention of neonatal respiratory distress syndrome (PROGRESS): a randomised controlled trial [^1116H4Fj]. BMC Pregnancy and Childbirth (2009). Low credibility.
 
 Follow-up of women in both treatment groups
 
@@ -919,7 +919,7 @@ The primary study outcome is:
 
 ---
 
-### Higher initial doses of surfactant for the prevention or treatment of respiratory distress syndrome in preterm infants [^326163c0]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
+### Higher initial doses of surfactant for the prevention or treatment of respiratory distress syndrome in preterm infants [^112Hh6Pq]. The Cochrane Database of Systematic Reviews (2025). Medium credibility.
 
 Objectives
 
@@ -929,13 +929,13 @@ To assess the effects of higher − compared with standard − initial doses of 
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^9011b83d]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^114gbAng]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to surfactant therapy, indications for respiratory distress syndrome, WHO 2015 guidelines recommend to initiate early surfactant replacement therapy (within the first 2 hours after birth) rather than waiting for the symptoms to worsen before giving rescue therapy in intubated preterm infants with respiratory distress syndrome.
 
 ---
 
-### Continuous positive airway pressure (CPAP) for respiratory distress in preterm infants [^2745fcd4]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
+### Continuous positive airway pressure (CPAP) for respiratory distress in preterm infants [^1121E2Td]. The Cochrane Database of Systematic Reviews (2020). Medium credibility.
 
 Background
 
@@ -963,13 +963,13 @@ In preterm infants with respiratory distress, the application of CPAP is associa
 
 ---
 
-### Guidelines for surfactant replacement therapy in neonates [^1197f6ee]. Paediatrics & Child Health (2021). High credibility.
+### Guidelines for surfactant replacement therapy in neonates [^111T5qJM]. Paediatrics & Child Health (2021). High credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to surfactant therapy, indications for respiratory distress syndrome, CPS 2021 guidelines recommend to consider initiating early surfactant replacement therapy in infants with increasing severity of respiratory distress syndrome, demonstrated by escalating or sustained levels of oxygen requirement and other clinical or radiological indications.
 
 ---
 
-### Surfactant for meconium aspiration syndrome in term and late preterm infants [^c01398e3]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
+### Surfactant for meconium aspiration syndrome in term and late preterm infants [^115umCti]. The Cochrane Database of Systematic Reviews (2014). Low credibility.
 
 Background
 
@@ -1001,7 +1001,7 @@ In infants with MAS, surfactant administration may reduce the severity of respir
 
 ---
 
-### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^2649be25]. Pediatric Research (2019). Medium credibility.
+### Surfactant replacement therapy for respiratory distress syndrome in preterm infants: United Kingdom national consensus [^111ymJLL]. Pediatric Research (2019). Medium credibility.
 
 Key recommendations
 
@@ -1017,13 +1017,13 @@ Early rescue involves surfactant treatment for RDS early in the course of the di
 
 ---
 
-### WHO recommendations on interventions to improve preterm birth outcomes [^c60cbd2a]. Geneva: World Health Organization (2015). Medium credibility.
+### WHO recommendations on interventions to improve preterm birth outcomes [^1164cpyP]. Geneva: World Health Organization (2015). Medium credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to surfactant therapy, indications for respiratory distress syndrome, WHO 2015 guidelines recommend to initiate surfactant replacement therapy in intubated and ventilated infants with respiratory distress syndrome.
 
 ---
 
-### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^b1c86690]. Journal of Perinatology (2023). Medium credibility.
+### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^115Ya7zw]. Journal of Perinatology (2023). Medium credibility.
 
 Variability among these guidelines demonstrates a lack of consensus concerning surfactant use and administration in the neonatal setting. Variation exists at the institutional level in the management of neonates with RDS, including neonates born at increasingly lower gestational ages, mode of administration (as new, less-invasive, methods are being developed), timing of administration, repeat dosing, and infant positioning during administration of surfactant. Gaps in evidence and shortcomings of existing randomized clinical trials (RCTs) further complicate bedside decision-making, leaving clinicians on their own to answer important questions about the patients for whom they care in the NICU.
 
@@ -1031,20 +1031,20 @@ The objective of the Respiratory Distress Syndrome Neonatal Expert Taskforce (RD
 
 ---
 
-### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^623b4646]. Pediatrics (2014). Medium credibility.
+### Surfactant replacement therapy for preterm and term neonates with respiratory distress [^113WdhNu]. Pediatrics (2014). Medium credibility.
 
 Regarding medical management for preterm infant, more specifically with respect to surfactant therapy, indications for respiratory distress syndrome, AAP 2014 guidelines recommend to initiate surfactant replacement therapy after initial stabilization of preterm infants born at < 30 weeks of gestation requiring mechanical ventilation because of severe respiratory distress syndrome.
 
 ---
 
-### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^6e0e446a]. Neonatology (2023). High credibility.
+### European consensus guidelines on the management of respiratory distress syndrome: 2022 update [^113pARww]. Neonatology (2023). High credibility.
 
 Regarding medical management for neonatal respiratory distress syndrome, more specifically with respect to management of patent ductus arteriosus, ECG-RDS 2023 guidelines recommend to consider administering indomethacin, ibuprofen, or acetaminophen when a decision is made to attempt pharmacologic closure of hemodynamically significant patent ductus arteriosus.
 Prefer acetaminophen in the presence of thrombocytopenia or concerns about renal function.
 
 ---
 
-### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^faf1935e]. Journal of Perinatology (2023). Medium credibility.
+### RDS-NExT workshop: consensus statements for the use of surfactant in preterm neonates with RDS [^117R33j3]. Journal of Perinatology (2023). Medium credibility.
 
 Objective
 
@@ -1064,6 +1064,6 @@ These consensus statements provide practical guidance for surfactant administrat
 
 ---
 
-### The role of surfactant therapy in nonrespiratory distress syndrome conditions in neonates [^a9dfdd77]. American Journal of Perinatology (2016). Low credibility.
+### The role of surfactant therapy in nonrespiratory distress syndrome conditions in neonates [^115Lr6sQ]. American Journal of Perinatology (2016). Low credibility.
 
 While treatment of respiratory distress syndrome (RDS) with surfactant in premature neonates is well established, evidence for its use in non-RDS conditions, especially in the term neonate, has been less abundant. The last published review on a PubMed search was in 2001. In this review, we comprehensively and critically evaluated the evidence from the literature regarding the use of surfactant in specific non-RDS disorders in neonates. Surfactant administered as a bolus should be considered in the treatment of meconium aspiration syndrome with progressive respiratory failure. While controversial in congenital diaphragmatic hernia, it should be considered in Group B streptococcal pneumonia. As evidence evolves, we anticipate the broader application and more routine use of surfactant therapy for respiratory failure because of causes other than RDS.

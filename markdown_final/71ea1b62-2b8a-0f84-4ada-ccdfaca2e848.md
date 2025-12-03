@@ -15,27 +15,27 @@ Is knee aspiration appropriate for hematoma
 
 > Let's see… What do we have here? The user is asking whether knee aspiration is appropriate for a hematoma. Let's break this down step-by-step. First, I need to think about what constitutes a knee hematoma and whether we are dealing with intra-articular hemarthrosis versus extra-articular hematoma. Then, I should verify the indications and contraindications for aspiration in each scenario. Next, I will review the evidence base and guideline positions, including AAOS and sports medicine guidance. After that, I need to check safety considerations, especially infection and anticoagulation. Finally, I will synthesize a practical, risk-stratified recommendation and note when image guidance is helpful.
 
-> Let me first confirm the terminology so I don't conflate entities. A knee hematoma can be either an intra-articular hemarthrosis, which is bleeding into the joint space, or an extra-articular soft-tissue hematoma, which is bleeding confined to subcutaneous or periarticular tissues; aspiration is an intra-articular procedure, so it is appropriate for hemarthrosis but not for extra-articular hematomas unless the collection is actually a fluid collection amenable to image-guided drainage, which is a different procedure altogether [^ef4ba8e7] [^d9768044].
+> Let me first confirm the terminology so I don't conflate entities. A knee hematoma can be either an intra-articular hemarthrosis, which is bleeding into the joint space, or an extra-articular soft-tissue hematoma, which is bleeding confined to subcutaneous or periarticular tissues; aspiration is an intra-articular procedure, so it is appropriate for hemarthrosis but not for extra-articular hematomas unless the collection is actually a fluid collection amenable to image-guided drainage, which is a different procedure altogether [^1177mTKk] [^116ZQ7jq].
 
-> Now, I should verify the indications for aspirating a traumatic knee hemarthrosis. The AAOS clinical practice guideline for ACL injuries states that physicians may consider aspirating painful, tense effusions after knee injury, acknowledging that evidence is limited and based on consensus; the rationale includes potential pain reduction, improved early range of motion, and theoretical reduction of proinflammatory cytokines, with the main harm being infection risk, which is low but real [^4dfc9ecd] [^732db016] [^752d7884]. Wait, let me verify the strength of evidence: yes, this is a consensus recommendation due to sparse high-quality data, so shared decision-making is key [^eea6bc86].
+> Now, I should verify the indications for aspirating a traumatic knee hemarthrosis. The AAOS clinical practice guideline for ACL injuries states that physicians may consider aspirating painful, tense effusions after knee injury, acknowledging that evidence is limited and based on consensus; the rationale includes potential pain reduction, improved early range of motion, and theoretical reduction of proinflammatory cytokines, with the main harm being infection risk, which is low but real [^112zcu96] [^113wkvUm] [^113zippB]. Wait, let me verify the strength of evidence: yes, this is a consensus recommendation due to sparse high-quality data, so shared decision-making is key [^1176p4Mj].
 
-> Next, I should review the evidence beyond guidelines. A randomized controlled trial of acute knee effusions showed that aspiration provided only temporary improvement in pain and function, with reaccumulation within a week and no long-term benefit, suggesting that aspiration is reasonable for short-term symptom relief but should not be expected to change medium-term outcomes; this tempers enthusiasm for routine aspiration in all cases [^4cf9db2d]. Hold on, I should also consider emerging data: a recent randomized study of preoperative aspiration before ACL reconstruction did not reduce revision or arthrofibrosis rates, though it delayed the time to arthrofibrosis, implying no clear disease-modifying benefit from aspiration alone [^f40b796d].
+> Next, I should review the evidence beyond guidelines. A randomized controlled trial of acute knee effusions showed that aspiration provided only temporary improvement in pain and function, with reaccumulation within a week and no long-term benefit, suggesting that aspiration is reasonable for short-term symptom relief but should not be expected to change medium-term outcomes; this tempers enthusiasm for routine aspiration in all cases [^112y7z1S]. Hold on, I should also consider emerging data: a recent randomized study of preoperative aspiration before ACL reconstruction did not reduce revision or arthrofibrosis rates, though it delayed the time to arthrofibrosis, implying no clear disease-modifying benefit from aspiration alone [^117EoqJL].
 
-> I will now examine diagnostic indications, because sometimes aspiration is appropriate even if therapeutic benefit is modest. In the setting of acute knee swelling after trauma, aspiration can clarify whether the effusion is purely hemorrhagic or if there is concern for infection, crystal disease, or other pathology; this is particularly relevant when the diagnosis is uncertain or when anticoagulation complicates the picture, and guidelines endorse aspiration for unexplained effusions or when infection is suspected [^29524a44] [^3c82ecd7]. Let me reconsider the anticoagulation point: multiple series suggest that aspiration can be performed safely in anticoagulated patients when clinically indicated, though holding anticoagulation and ensuring normalization of clotting parameters is prudent when feasible [^48288623] [^8d6946d1].
+> I will now examine diagnostic indications, because sometimes aspiration is appropriate even if therapeutic benefit is modest. In the setting of acute knee swelling after trauma, aspiration can clarify whether the effusion is purely hemorrhagic or if there is concern for infection, crystal disease, or other pathology; this is particularly relevant when the diagnosis is uncertain or when anticoagulation complicates the picture, and guidelines endorse aspiration for unexplained effusions or when infection is suspected [^1124G8hH] [^112YiEY6]. Let me reconsider the anticoagulation point: multiple series suggest that aspiration can be performed safely in anticoagulated patients when clinically indicated, though holding anticoagulation and ensuring normalization of clotting parameters is prudent when feasible [^112qyim8] [^114cecgx].
 
-> But wait, what if the "hematoma" is extra-articular rather than intra-articular. I should confirm that aspiration is not indicated for a simple subcutaneous or periarticular hematoma; in those cases, management is conservative with RICE, compression, and observation, and attempting needle aspiration risks dry tap or worsening bleeding without benefit, so I need to ensure we are not mixing these entities up [^notfound]. Hold on, I should verify exceptions: if there is a liquefied, organized collection or a Morel-Lavallée lesion, image-guided drainage may be appropriate, but that is a different clinical problem than a routine hematoma [^cc0a3c48].
+> But wait, what if the "hematoma" is extra-articular rather than intra-articular. I should confirm that aspiration is not indicated for a simple subcutaneous or periarticular hematoma; in those cases, management is conservative with RICE, compression, and observation, and attempting needle aspiration risks dry tap or worsening bleeding without benefit, so I need to ensure we are not mixing these entities up [^notfound]. Hold on, I should verify exceptions: if there is a liquefied, organized collection or a Morel-Lavallée lesion, image-guided drainage may be appropriate, but that is a different clinical problem than a routine hematoma [^116DVutj].
 
-> Next, I should review safety and technique. The main risks of intra-articular aspiration are iatrogenic infection and, in anticoagulated patients, bleeding; infection risk is low in native joints when aseptic technique is used, and large series show very low infection rates after aspiration, though vigilance remains necessary [^ed8cf11d] [^7b21b6d2]. I need to ensure best practice: use sterile technique, consider ultrasound guidance to improve accuracy and reduce attempts, and use larger-bore needles for viscous bloody fluid to maximize yield and minimize clogging [^6a4cba7c] [^eea6bc86]. Let me double-check the guidance strength: multiple systematic reviews and society statements support ultrasound guidance for improved accuracy and patient-centered outcomes in knee arthrocentesis, which is particularly helpful in obese patients or when landmarks are obscured [^f1e1c49e] [^70a6a7ca].
+> Next, I should review safety and technique. The main risks of intra-articular aspiration are iatrogenic infection and, in anticoagulated patients, bleeding; infection risk is low in native joints when aseptic technique is used, and large series show very low infection rates after aspiration, though vigilance remains necessary [^1175BQZJ] [^1149YoU5]. I need to ensure best practice: use sterile technique, consider ultrasound guidance to improve accuracy and reduce attempts, and use larger-bore needles for viscous bloody fluid to maximize yield and minimize clogging [^113ibTfR] [^1176p4Mj]. Let me double-check the guidance strength: multiple systematic reviews and society statements support ultrasound guidance for improved accuracy and patient-centered outcomes in knee arthrocentesis, which is particularly helpful in obese patients or when landmarks are obscured [^117BbrER] [^113t1bGm].
 
-> I should also consider special contexts. In patients with hemophilia or other bleeding disorders, aspiration may be indicated for large, painful hemarthroses after factor replacement and under hematology guidance, but this requires coordinated care to avoid rebleeding and infection; similarly, in postoperative knees with suspected infection, aspiration is a cornerstone of diagnosis and should not be delayed when infection is on the table [^b61d410a]. Hold on, let's not jump to conclusions: in anticoagulated patients, I should confirm that clotting parameters are optimized when possible, but if the diagnosis hinges on synovial fluid, aspiration can proceed with caution given the low complication rates reported in observational cohorts [^48288623].
+> I should also consider special contexts. In patients with hemophilia or other bleeding disorders, aspiration may be indicated for large, painful hemarthroses after factor replacement and under hematology guidance, but this requires coordinated care to avoid rebleeding and infection; similarly, in postoperative knees with suspected infection, aspiration is a cornerstone of diagnosis and should not be delayed when infection is on the table [^115ezaCq]. Hold on, let's not jump to conclusions: in anticoagulated patients, I should confirm that clotting parameters are optimized when possible, but if the diagnosis hinges on synovial fluid, aspiration can proceed with caution given the low complication rates reported in observational cohorts [^112qyim8].
 
-> Putting this together, I should synthesize a practical approach. Aspiration is appropriate for intra-articular hemarthrosis when the effusion is large, tense, and causing significant pain or mechanical limitation, when the diagnosis is uncertain and infection or crystal disease must be excluded, or when anticoagulation-associated hemarthrosis persists despite correction of coagulopathy; it is not indicated for extra-articular hematomas, which should be managed conservatively [^eea6bc86] [^29524a44] [^48288623]. I need to ensure patients understand that benefits are often short-term and that recurrence is common, so expectations should be calibrated accordingly [^4cf9db2d].
+> Putting this together, I should synthesize a practical approach. Aspiration is appropriate for intra-articular hemarthrosis when the effusion is large, tense, and causing significant pain or mechanical limitation, when the diagnosis is uncertain and infection or crystal disease must be excluded, or when anticoagulation-associated hemarthrosis persists despite correction of coagulopathy; it is not indicated for extra-articular hematomas, which should be managed conservatively [^1176p4Mj] [^1124G8hH] [^112qyim8]. I need to ensure patients understand that benefits are often short-term and that recurrence is common, so expectations should be calibrated accordingly [^112y7z1S].
 
-> Final answer: Yes, knee aspiration is appropriate for intra-articular hemarthrosis when clinically indicated for symptom relief, diagnostic clarification, or facilitation of rehabilitation, but it is not appropriate for extra-articular hematomas; use aseptic technique and consider ultrasound guidance to optimize safety and yield, and individualize decisions in patients on anticoagulation or with bleeding disorders [^eea6bc86] [^f1e1c49e] [^48288623] [^d9768044].
+> Final answer: Yes, knee aspiration is appropriate for intra-articular hemarthrosis when clinically indicated for symptom relief, diagnostic clarification, or facilitation of rehabilitation, but it is not appropriate for extra-articular hematomas; use aseptic technique and consider ultrasound guidance to optimize safety and yield, and individualize decisions in patients on anticoagulation or with bleeding disorders [^1176p4Mj] [^117BbrER] [^112qyim8] [^116ZQ7jq].
 
 ---
 
-Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, tense, and causing significant pain or restricted motion, as it provides rapid relief and improves function [^eea6bc86] [^4cf9db2d]. It is also indicated when the diagnosis is unclear — to distinguish hemarthrosis from infection, crystal arthropathy, or other causes — and when anticoagulation is present, after correcting coagulopathy to reduce pain and enable rehabilitation [^8d6946d1] [^48288623]. Routine aspiration of small, non-tense hemarthroses is not recommended, and **ultrasound guidance** improves accuracy and safety, especially in obese patients or when landmarks are obscured [^f1e1c49e] [^70a6a7ca]. The main risks are infection and rebleeding, which are minimized with aseptic technique and careful patient selection [^ed8cf11d] [^48288623].
+Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, tense, and causing significant pain or restricted motion, as it provides rapid relief and improves function [^1176p4Mj] [^112y7z1S]. It is also indicated when the diagnosis is unclear — to distinguish hemarthrosis from infection, crystal arthropathy, or other causes — and when anticoagulation is present, after correcting coagulopathy to reduce pain and enable rehabilitation [^114cecgx] [^112qyim8]. Routine aspiration of small, non-tense hemarthroses is not recommended, and **ultrasound guidance** improves accuracy and safety, especially in obese patients or when landmarks are obscured [^117BbrER] [^113t1bGm]. The main risks are infection and rebleeding, which are minimized with aseptic technique and careful patient selection [^1175BQZJ] [^112qyim8].
 
 ---
 
@@ -43,11 +43,11 @@ Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, 
 
 Knee aspiration is **indicated in the following scenarios**:
 
-- **Large, tense effusions**: Significant pain, swelling, and restricted range of motion due to hemarthrosis [^eea6bc86] [^4cf9db2d].
+- **Large, tense effusions**: Significant pain, swelling, and restricted range of motion due to hemarthrosis [^1176p4Mj] [^112y7z1S].
 
-- **Diagnostic uncertainty**: Differentiate hemarthrosis from infection, crystal arthropathy, or other causes of joint effusion [^29524a44] [^7cc7041e].
+- **Diagnostic uncertainty**: Differentiate hemarthrosis from infection, crystal arthropathy, or other causes of joint effusion [^1124G8hH] [^114BzK6D].
 
-- **Anticoagulation-related hemarthrosis**: After correcting coagulopathy, to relieve pain and facilitate rehabilitation [^8d6946d1] [^48288623].
+- **Anticoagulation-related hemarthrosis**: After correcting coagulopathy, to relieve pain and facilitate rehabilitation [^114cecgx] [^112qyim8].
 
 ---
 
@@ -55,11 +55,11 @@ Knee aspiration is **indicated in the following scenarios**:
 
 While knee aspiration is generally safe, certain **contraindications and precautions** should be considered:
 
-- **Overlying skin infection**: Avoid aspiration to prevent introduction of infection into the joint [^29524a44].
+- **Overlying skin infection**: Avoid aspiration to prevent introduction of infection into the joint [^1124G8hH].
 
-- **Uncorrected coagulopathy**: Increased risk of bleeding; correct coagulopathy before aspiration [^48288623].
+- **Uncorrected coagulopathy**: Increased risk of bleeding; correct coagulopathy before aspiration [^112qyim8].
 
-- **Patient-specific factors**: Consider patient preference, comorbidities, and risk of complications [^11535b01].
+- **Patient-specific factors**: Consider patient preference, comorbidities, and risk of complications [^111Sgngp].
 
 ---
 
@@ -67,11 +67,11 @@ While knee aspiration is generally safe, certain **contraindications and precaut
 
 Knee aspiration provides **several clinical benefits**:
 
-- **Pain relief**: Immediate reduction in intra-articular pressure and inflammation [^4cf9db2d].
+- **Pain relief**: Immediate reduction in intra-articular pressure and inflammation [^112y7z1S].
 
-- **Improved range of motion**: Facilitates rehabilitation and functional recovery [^eea6bc86].
+- **Improved range of motion**: Facilitates rehabilitation and functional recovery [^1176p4Mj].
 
-- **Diagnostic clarity**: Enables analysis of synovial fluid to confirm diagnosis and guide management [^29524a44].
+- **Diagnostic clarity**: Enables analysis of synovial fluid to confirm diagnosis and guide management [^1124G8hH].
 
 ---
 
@@ -79,23 +79,23 @@ Knee aspiration provides **several clinical benefits**:
 
 Knee aspiration carries minimal risks, including:
 
-- **Infection**: Rare but serious complication; strict aseptic technique is essential [^ed8cf11d].
+- **Infection**: Rare but serious complication; strict aseptic technique is essential [^1175BQZJ].
 
-- **Rebleeding**: Particularly in patients with coagulopathy; correct coagulopathy before aspiration [^48288623].
+- **Rebleeding**: Particularly in patients with coagulopathy; correct coagulopathy before aspiration [^112qyim8].
 
-- **Temporary discomfort**: Mild pain or discomfort at the aspiration site [^ff90670c].
+- **Temporary discomfort**: Mild pain or discomfort at the aspiration site [^117XtM3q].
 
 ---
 
 ## Role of ultrasound guidance
 
-Ultrasound guidance significantly improves the **accuracy and safety** of knee aspiration, particularly in patients with obesity, anatomical variations, or difficult landmarks [^f1e1f49e] [^70a6a7ca]. It allows real-time visualization of the needle trajectory, ensuring accurate placement within the joint cavity and reducing the risk of complications [^482bc0be].
+Ultrasound guidance significantly improves the **accuracy and safety** of knee aspiration, particularly in patients with obesity, anatomical variations, or difficult landmarks [^117BbutH] [^113t1bGm]. It allows real-time visualization of the needle trajectory, ensuring accurate placement within the joint cavity and reducing the risk of complications [^112qzofb].
 
 ---
 
 ## Clinical guidelines and expert consensus
 
-Current clinical guidelines and expert consensus support selective use of knee aspiration in hemarthrosis. The American Academy of Orthopaedic Surgeons (AAOS) recommends considering aspiration for **painful, tense effusions** after knee injury, particularly in the context of ACL injuries [^eea6bc86] [^732db016]. Similarly, the American College of Rheumatology (ACR) and the European Society of Musculoskeletal Radiology (ESSR) emphasize the role of image-guided aspirations for diagnostic and therapeutic purposes [^cd97277f] [^70a6a7ca].
+Current clinical guidelines and expert consensus support selective use of knee aspiration in hemarthrosis. The American Academy of Orthopaedic Surgeons (AAOS) recommends considering aspiration for **painful, tense effusions** after knee injury, particularly in the context of ACL injuries [^1176p4Mj] [^113wkvUm]. Similarly, the American College of Rheumatology (ACR) and the European Society of Musculoskeletal Radiology (ESSR) emphasize the role of image-guided aspirations for diagnostic and therapeutic purposes [^116FoEVc] [^113t1bGm].
 
 ---
 
@@ -103,9 +103,9 @@ Current clinical guidelines and expert consensus support selective use of knee a
 
 | **Clinical scenario** | **Aspiration indicated?** | **Rationale** |
 |-|-|-|
-| Large, tense hemarthrosis with significant pain and restricted motion | Yes | Symptomatic relief and improved function [^eea6bc86] [^4cf9db2d] |
-| Diagnostic uncertainty (infection, crystal arthropathy) | Yes | Confirm diagnosis and guide management [^29524a44] [^7cc7041e] |
-| Anticoagulation-related hemarthrosis after correcting coagulopathy | Yes | Reduce pain and facilitate rehabilitation [^8d6946d1] [^48288623] |
+| Large, tense hemarthrosis with significant pain and restricted motion | Yes | Symptomatic relief and improved function [^1176p4Mj] [^112y7z1S] |
+| Diagnostic uncertainty (infection, crystal arthropathy) | Yes | Confirm diagnosis and guide management [^1124G8hH] [^114BzK6D] |
+| Anticoagulation-related hemarthrosis after correcting coagulopathy | Yes | Reduce pain and facilitate rehabilitation [^114cecgx] [^112qyim8] |
 | Small, non-tense hemarthrosis without significant symptoms | No | Unnecessary intervention with potential risks |
 
 ---
@@ -116,43 +116,43 @@ Knee aspiration is appropriate for **hemarthrosis** when the effusion is large, 
 
 ## References
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^eea6bc86]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^1176p4Mj]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
 
 Aspiration of the knee — anterior cruciate ligament (ACL) injury: In the absence of reliable evidence, it is the opinion of the workgroup that physicians may consider aspirating painful, tense effusions after knee injury, with Quality of Evidence: Consensus and Strength of Option: Consensus. The rationale states that no relevant articles have been published in the last 20 years regarding the benefit of aspiration in acutely injured knees. Potential benefits include that acute knee aspiration has the potential to decrease pain and improve early range of motion (ROM) in ACL injured knees and may also decrease the presence of cytokines which may be implicated in the cascade progressing to osteoarthritis following ACL tear, whereas a potential harm is that aspiration of the knee has the potential to introduce infection in an acutely injured knee. Outcome importance is listed as unclear, and resource use is described as minimal cost, and minimal use of resources to perform aspiration. Acceptability notes that if there are positive clinical implications, knee aspiration would be an acceptable treatment for acutely ACL injured knees when indicated. Feasibility notes that knee aspiration in acute ACL tears, if indicated, would be feasible in many situations and that prospective, randomized trials will be needed to determine the effect of aspiration of the hematoma following acute ACL tear in reducing pain and/or improving clinical outcome.
 
 ---
 
-### Aspiration of acute traumatic knee haemarthrosis [^b749a558]. Emergency Medicine Journal (2002). Low credibility.
+### Aspiration of acute traumatic knee haemarthrosis [^115gjUJs]. Emergency Medicine Journal (2002). Low credibility.
 
 A short cut review was carried out to establish whether aspiration of a traumatic knee haemarthrosis improved the patient's symptoms. Altogether 267 papers were found using the reported search, of which none answered the question posed. Further research is needed in this area.
 
 ---
 
-### Knee joint aspiration and injection [^29524a44]. American Family Physician (2002). Low credibility.
+### Knee joint aspiration and injection [^1124G8hH]. American Family Physician (2002). Low credibility.
 
 Knee joint aspiration and injection are performed to aid in diagnosis and treatment of knee joint diseases. The knee joint is the most common and the easiest joint for the physician to aspirate. One approach involves insertion of a needle 1 cm above and 1 cm lateral to the superior lateral aspect of the patella at a 45-degree angle. Once the needle has been inserted 1 to 1 1/2 inches, aspiration aided by local compression is performed. Local corticosteroid injections can provide significant relief and often ameliorate acute exacerbations of knee osteoarthritis associated with significant effusions. Among the indications for arthrocentesis are crystal-induced arthropathy, hemarthrosis, unexplained joint effusion, and symptomatic relief of a large effusion. Contraindications include bacteremia, inaccessible joints, joint prosthesis, and overlying infection in the soft tissue. Large effusions can recur and may require repeat aspiration. Anti-inflammatory medications may prove beneficial in reducing joint inflammation and fluid accumulations.
 
 ---
 
-### Aspiration and injection techniques of the lower extremity [^863c074e]. The Journal of the American Academy of Orthopaedic Surgeons (2018). Low credibility.
+### Aspiration and injection techniques of the lower extremity [^114S1WDK]. The Journal of the American Academy of Orthopaedic Surgeons (2018). Low credibility.
 
 Orthopaedic surgeons frequently use aspirations and injections to both diagnose and treat disorders of the lower extremity. Comprehensive knowledge of regional anatomy, procedural indications, and appropriate techniques are essential. Clinicians must be well versed in a range of musculoskeletal aspiration and injection techniques, including patient positioning, equipment needs, injectable solutions, aspirate analysis, and potential complications. Safe and effective aspiration and injection techniques for the lower extremity, including the hip, knee, foot, and ankle, are reviewed. Image guidance modalities include fluoroscopy, ultrasonography, CT, and MRI.
 
 ---
 
-### Safe and effective aspirations and nerve blocks for the on-call orthopaedic surgeon [^edfbf26c]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
+### Safe and effective aspirations and nerve blocks for the on-call orthopaedic surgeon [^1175ph7R]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
 
 The on-call orthopaedic surgeon is faced with a wide array of orthopaedic pathology for which intra-articular aspiration, injection, and/or nerve/hematoma block may be used. Efficient use of these diagnostic and therapeutic modalities affords better patient care and a more effective on-call period. Often, these interventions are the rate limiting factor in a reduction or diagnosis. In this review, we describe joint aspirations, saline load tests, hematoma blocks, and nerve blocks in detail to include their indications, techniques, related pharmacology, pearls, and pitfalls.
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^732db016]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^113wkvUm]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
 
 American Academy of Orthopaedic Surgeons — aspiration of the knee after injury: In the absence of reliable evidence, it is the opinion of the workgroup that physicians may consider aspirating painful, tense effusions after knee injury. Quality of Evidence: Consensus. Strength of Option: Consensus.
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^752d7884]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^113zippB]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
 
 Aspiration of the Knee
 
@@ -164,13 +164,13 @@ Implication: In the absence of reliable evidence, practitioners should remain al
 
 ---
 
-### Management of anterior cruciate ligament injuries [^4dfc9ecd]. AAOS (2022). High credibility.
+### Management of anterior cruciate ligament injuries [^112zcu96]. AAOS (2022). High credibility.
 
 Regarding therapeutic procedures for anterior cruciate ligament injury, more specifically with respect to knee joint aspiration, AAOS 2022 guidelines recommend to consider performing knee joint aspiration of painful, tense effusions after a knee injury.
 
 ---
 
-### Diagnostic and therapeutic injection of the hip and knee | AAFP… [^f6cb5041]. AAFP (2003). Low credibility.
+### Diagnostic and therapeutic injection of the hip and knee | AAFP… [^117JtFC4]. AAFP (2003). Low credibility.
 
 TIMING AND OTHER CONSIDERATIONS TECHNIQUE Position of Patient The patient is placed in the lateral recumbent position with the knee flexed 20 to 30 degrees. Palpation of Landmarks Along the lateral thigh, follow the course of the iliotibial band across the femoral condyle to its insertion at Gerdy's tubercle. Approach and Needle Entry The needle is inserted at the point of maximal tenderness in the region of the lateral condyle. INDICATIONS Bursitis is manifested by swelling and tenderness anterior to the patella and can be the result of acute trauma. 25, 26 Bursitis-related prepatellar swelling must be differentiated from an intra-articular effusion. Aspiration of an inflamed bursa can be performed for relief of discomfort associated with a bursitis. If the symptoms of prepatellar bursitis are recurrent, corticosteroid injection may be performed.
 
@@ -180,13 +180,13 @@ In general, patients should avoid strenuous activity involving the injected regi
 
 ---
 
-### American Medical Society for Sports Medicine sports ultrasound curriculum for sports medicine fellowships [^03655e24]. Clinical Journal of Sport Medicine (2021). High credibility.
+### American Medical Society for Sports Medicine sports ultrasound curriculum for sports medicine fellowships [^111631eb]. Clinical Journal of Sport Medicine (2021). High credibility.
 
 Sports ultrasound of the thigh — training and essential competencies include the directive that "it is recommended that ultrasound-guided procedures be practiced on an unembalmed cadaveric specimen", and if not feasible fellows "should practice all aspects of needle visualization and tracking" with other media, with "The principles of the procedures listed below should be reviewed in a formal didactic setting". For independent complete regional examinations, "3 separate normal scans should be submitted for review; see Milestones Level 2". Essential pathology cases for review at Milestones Level 3 are "Hamstring muscle tear", "Quadriceps muscle tear", and "Quadriceps contusion", and essential procedures at Milestones Level 2 include "Aspiration/injection of fluid collection (ie, hematoma, Morel-Lavallee lesion)".
 
 ---
 
-### Aspiration of the knee prior to anterior cruciate ligament reconstruction delays the onset of arthrofibrosis [^f40b796d]. The Journal of the American Academy of Orthopaedic Surgeons (2025). Medium credibility.
+### Aspiration of the knee prior to anterior cruciate ligament reconstruction delays the onset of arthrofibrosis [^117EoqJL]. The Journal of the American Academy of Orthopaedic Surgeons (2025). Medium credibility.
 
 Introduction
 
@@ -206,13 +206,13 @@ Preoperative aspiration does not modify rates of subsequent surgery following AC
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^546c40a2]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^113AAKbo]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
 
 American Academy of Orthopaedic Surgeons guideline — drain use after knee arthroplasty: There are no significant barriers to implementation of recommendation, and "Eliminating drain use will decrease cost and improved patient experience". Future research priorities include that "There is a possibility that slightly better range of motion in patients with drains could decrease manipulation under anesthesia", that "A well-designed prospective study would be helpful to see if the use of drains could decrease the incidence of arthrofibrosis", and the role of tranexamic acid, as "Tranexamic acid has been very effective in reducing blood loss after knee arthroplasty", with "Further research is needed to see if tranexamic acid use alone can reduce the hematoma formation and increase range of motion which will completely eliminate the perceived need for use of the drain".
 
 ---
 
-### ESSKA and EBJIS recommendations for the management of infections after anterior cruciate ligament reconstruction (ACL-R): prevention, surgical treatment and rehabilitation [^7b21b6d2]. Knee Surgery, Sports Traumatology, Arthroscopy (2023). Medium credibility.
+### ESSKA and EBJIS recommendations for the management of infections after anterior cruciate ligament reconstruction (ACL-R): prevention, surgical treatment and rehabilitation [^1149YoU5]. Knee Surgery, Sports Traumatology, Arthroscopy (2023). Medium credibility.
 
 Prevention
 
@@ -223,7 +223,7 @@ In cases of native joints, the risk of infection is very low (< 0.01% after arth
 
 ---
 
-### Preoperative diagnosis of periprosthetic joint infection: role of aspiration [^0be3ce02]. AJR: American Journal of Roentgenology (2011). Low credibility.
+### Preoperative diagnosis of periprosthetic joint infection: role of aspiration [^111JdP6R]. AJR: American Journal of Roentgenology (2011). Low credibility.
 
 Objective
 
@@ -235,25 +235,25 @@ The increasing incidence of periprosthetic TKA and THA infection, as well as the
 
 ---
 
-### Editorial commentary: the current evidence in support of tranexamic acid in arthroscopic surgery is poor [^99eb26df]. Arthroscopy (2022). Medium credibility.
+### Editorial commentary: the current evidence in support of tranexamic acid in arthroscopic surgery is poor [^114wC6F8]. Arthroscopy (2022). Medium credibility.
 
 Tranexamic acid (TXA) has been used to treat severe bleeding events for nearly 60 years and is on the list of World Health Organization essential medicines. Initially, it was described to treat heavy menstrual bleeding, but it is now used for a variety of applications. In orthopedic surgery, TXA is commonly used to reduce bleeding after total joint arthroplasty and spine surgery. The use of TXA for joint arthroplasty has been principally endorsed by various orthopedic societies, but they have also criticized a lack of evidence for high-risk patients with a history of pulmonary embolus, vascular stents, stroke, transient ischemic attack, and other cardiac, respiratory, or vascular conditions. TXA may also reduce bleeding complications in arthroscopic surgery, and the findings of recent meta-analyses suggest that intravenous application reduced drainage output and the need for knee joint aspiration and reduced knee swelling. It also had a positive short-term effect on clinical and functional outcomes. However, high risk of bias, low-study quality, and heterogeneity substantially reduced the quality of evidence and the validity of the study conclusions. In my opinion, on the basis of the current evidence, the routine use of TXA in arthroscopic surgery is not recommended.
 
 ---
 
-### American Medical Society for Sports Medicine recommended sports ultrasound curriculum for sports medicine fellowships [^c36cd2aa]. Clinical Journal of Sport Medicine (2015). Medium credibility.
+### American Medical Society for Sports Medicine recommended sports ultrasound curriculum for sports medicine fellowships [^115zj8zd]. Clinical Journal of Sport Medicine (2015). Medium credibility.
 
 AMSSM Sports US Training Curriculum — ultrasound-guided procedures to Perform and appropriately document also include for the hip Intra-articular hip injection, Greater trochanteric bursa injection, and Gluteus medius or minimus peri- or intratendinous injection; for the knee Intra-articular knee injection and Iliotibial band/bursa (distal) injection; for the ankle–foot Intra-articular tibiotalar joint injection, Peroneal tendon sheath injection, and Peri- or intraplantatar fascia injection; and Miscellaneous Aspiration or injection of a cyst.
 
 ---
 
-### That bloody knee! dealing with an organized hemarthrosis [^71a73a90]. Arthroscopy (2003). Low credibility.
+### That bloody knee! dealing with an organized hemarthrosis [^113uVmiw]. Arthroscopy (2003). Low credibility.
 
 The decision to manage an organized hemarthrosis conservatively or surgically is difficult and still controversial, especially in the postoperative patient compared with the trauma patient. We describe a cheap, effective, and readily available technique for the surgeon who elects for a surgical solution to this problem using a Karman catheter (Rocket Medical PLC, Watford, UK) during arthroscopy to complete an irrigation and vacuum circuit.
 
 ---
 
-### Effectiveness of aspiration in knee joint effusion management: a prospective randomized controlled study [^4cf9db2d]. Knee Surgery, Sports Traumatology, Arthroscopy (2014). Low credibility.
+### Effectiveness of aspiration in knee joint effusion management: a prospective randomized controlled study [^112y7z1S]. Knee Surgery, Sports Traumatology, Arthroscopy (2014). Low credibility.
 
 Purpose
 
@@ -273,13 +273,13 @@ Aspiration resulted in only temporary improvement of the outcome in the treatmen
 
 ---
 
-### Spontaneous atraumatic knee haemarthrosis [^0718cbf2]. BMJ Case Reports (2020). High credibility.
+### Spontaneous atraumatic knee haemarthrosis [^111BXF3w]. BMJ Case Reports (2020). High credibility.
 
 Spontaneous knee haemarthrosis is a rare condition, most prevalent in the elderly with osteoarthritis. Recent reports have proposed that the source of bleeding is the peripheral arteries supplying the posterior horn of the lateral meniscus. In this case, a 62-year-old active man presented with acute postero-lateral left knee pain and swelling with limited weight bearing or movement of the knee. No recent history of trauma but history of lateral compartment dominant osteoarthritis and arthroscopic partial lateral meniscectomy of left knee. Aspiration showed a large haemarthrosis and following an MRI scan displaying large areas of full thickness chondral loss, complex tearing of lateral meniscus and loose bodies, the patient had an arthroscopy, washout, debridement of osteochondral tibial defect and diathermy of suspected bleeding point. This report supports the peripheral arteries supplying the posterior horn of the lateral meniscus as the source of bleeding in spontaneous haemarthrosis of the knee.
 
 ---
 
-### Management of haemarthrosis in patients on oral anticoagulants [^8d6946d1]. Geriatric Orthopaedic Surgery & Rehabilitation (2022). Medium credibility.
+### Management of haemarthrosis in patients on oral anticoagulants [^114cecgx]. Geriatric Orthopaedic Surgery & Rehabilitation (2022). Medium credibility.
 
 Conclusion
 
@@ -287,7 +287,7 @@ The current published literature advises anticoagulant-associated haemarthrosis 
 
 ---
 
-### Accuracy and efficacy of intra-articular knee injections / aspirations under ultrasound versus landmark guidance: a systematic review [^f1e1c49e]. American Journal of Physical Medicine & Rehabilitation (2025). Medium credibility.
+### Accuracy and efficacy of intra-articular knee injections / aspirations under ultrasound versus landmark guidance: a systematic review [^117BbrER]. American Journal of Physical Medicine & Rehabilitation (2025). Medium credibility.
 
 Purpose
 
@@ -311,7 +311,7 @@ Level I - systematic review.
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^11535b01]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary: management of anterior cruciate ligament injuries [^111Sgngp]. The Journal of the American Academy of Orthopaedic Surgeons (2023). Medium credibility.
 
 Recommendations
 
@@ -326,7 +326,7 @@ Strength of Recommendation Descriptions
 
 ---
 
-### The use of injectable orthobiologics for knee osteoarthritis: a formal ESSKA-ORBIT consensus. part 2-cell-based therapy [^1077c75b]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
+### The use of injectable orthobiologics for knee osteoarthritis: a formal ESSKA-ORBIT consensus. part 2-cell-based therapy [^111RR2zE]. Knee Surgery, Sports Traumatology, Arthroscopy (2025). Medium credibility.
 
 QUESTION 5
 
@@ -344,25 +344,25 @@ This statement is valid for both POC‐ and Expanded‐CBT.
 
 ---
 
-### Management of severe peri-operative bleeding: guidelines from the European Society of Anaesthesiology and Intensive Care: second update 2022 [^edecebda]. European Journal of Anaesthesiology (2023). High credibility.
+### Management of severe peri-operative bleeding: guidelines from the European Society of Anaesthesiology and Intensive Care: second update 2022 [^1175jePT]. European Journal of Anaesthesiology (2023). High credibility.
 
 Regarding surgical interventions for knee osteoarthritis, more specifically with respect to total knee arthroplasty, intraoperative techniques with no evidence for benefit, ESAIC 2023 guidelines recommend to recognize that the use of drainage in knee arthroplasty may not reduce blood loss.
 
 ---
 
-### Wilderness Medical Society practice guidelines for the treatment of acute pain in remote environments: 2014 update [^09ac988b]. Wilderness & Environmental Medicine (2014). Medium credibility.
+### Wilderness Medical Society practice guidelines for the treatment of acute pain in remote environments: 2014 update [^111FLryY]. Wilderness & Environmental Medicine (2014). Medium credibility.
 
 Wilderness Medical Society acute pain guidelines — local and regional anesthesia: Local anesthesia can provide a safe and effective means of analgesia for the injured patient in the wilderness, with nerve blocks used for fractures, soft tissue trauma, and procedures including removal of foreign bodies and suturing; attention needs to be paid to avoid intravascular injection by aspiration before injection and to stay within recommended dosing to avoid life-threatening toxicity. With appropriate expertise, regional blocks that can be provided include digital block, hematoma block, intercostal block, and distal nerve block, and prehospital femoral nerve blocks for femur fracture have been shown to be a safe and effective method of acute pain control when performed by experienced physicians. Recommendation: Local anesthetics are a safe and effective option for controlling acute pain in the remote or wilderness setting. Recommendation grade: 1B.
 
 ---
 
-### Emergency joint aspiration: a guide for radiologists on call [^11bcb271]. Radiographics (2009). Low credibility.
+### Emergency joint aspiration: a guide for radiologists on call [^111TJAuW]. Radiographics (2009). Low credibility.
 
 Septic arthritis is a disabling and possibly life-threatening disease that requires early diagnosis for optimal management. It is important that clinical and imaging features of septic arthritis be promptly identified. In addition, because other disease entities may have characteristics similar to those of septic arthritis, analysis of a needle biopsy specimen may be necessary for differential diagnosis. Radiologists may be asked to perform emergent aspiration of a possibly infected joint. It is important that those who perform aspiration procedures be familiar with a safe and effective imaging-guided arthrocentesis technique that is tailored to the individual patient and the specific joint affected.
 
 ---
 
-### Does a simple needle stick from a preoperative knee aspiration or non-steroidal injection influence total knee arthroplasty infection risk? A retrospective database analysis [^759f1aa1]. The Journal of Arthroplasty (2025). Medium credibility.
+### Does a simple needle stick from a preoperative knee aspiration or non-steroidal injection influence total knee arthroplasty infection risk? A retrospective database analysis [^1141NzZv]. The Journal of Arthroplasty (2025). Medium credibility.
 
 Background
 
@@ -386,7 +386,7 @@ III.
 
 ---
 
-### Early return to surgery for evacuation of a postoperative hematoma after primary total knee arthroplasty [^81ae5fab]. The Journal of Bone and Joint Surgery: American Volume (2008). Low credibility.
+### Early return to surgery for evacuation of a postoperative hematoma after primary total knee arthroplasty [^114KFyRk]. The Journal of Bone and Joint Surgery: American Volume (2008). Low credibility.
 
 Background
 
@@ -406,19 +406,19 @@ Patients who return to the operating room within thirty days after the index tot
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^70156f55]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^113sAp9a]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Performance standards and indications for ultrasound guidance — For all ultrasound-guided procedures, the usual standards for interventional procedures apply, including review of prior imaging, appropriate informed consent, site marking as appropriate, use of a local anesthetic as appropriate, and use of aseptic technique. Common procedures performed using ultrasound guidance include injection or aspiration of joints, tendons, or tendon sheaths; aspiration of cysts, fluid collections, and abscesses; peripheral nerve blocks/perineural injections; lavage and aspiration of tendon calcifications; fine-needle aspiration and biopsy; and foreign body retrieval. In general, ultrasound guidance is indicated during these procedures when accuracy is paramount for diagnosis, to ensure therapeutic efficacy or procedural success, or to reduce procedural risk.
 
 ---
 
-### The painful total knee arthroplasty [^fba02319]. The Orthopedic Clinics of North America (2016). Low credibility.
+### The painful total knee arthroplasty [^117S3gTS]. The Orthopedic Clinics of North America (2016). Low credibility.
 
 There are many causes of residual pain after total knee arthroplasty (TKA). Evaluation and management begins with a comprehensive history and physical examination, followed by radiographic evaluation of the replaced and adjacent joints, as well as previous films of the replaced joint. Further workup includes laboratory analysis, along with a synovial fluid aspirate to evaluate the white blood cell count with differential as well as culture. Advanced imaging modalities may be beneficial when the diagnosis remains unclear. Revision surgery is not advisable without a clear diagnosis, as it may be associated with poor results.
 
 ---
 
-### Recurrent hemarthrosis after total knee arthroplasty [^711d4a7f]. Knee Surgery, Sports Traumatology, Arthroscopy (2010). Low credibility.
+### Recurrent hemarthrosis after total knee arthroplasty [^113thSUn]. Knee Surgery, Sports Traumatology, Arthroscopy (2010). Low credibility.
 
 Discussion
 
@@ -432,13 +432,13 @@ Unexplained recurrent hemarthrosis after total knee arthroplasty should be treat
 
 ---
 
-### Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, the American Society of Interventional Pain Physicians, and the International Pain and Spine Intervention Society [^18ac70f9]. Regional Anesthesia and Pain Medicine (2025). High credibility.
+### Use and safety of corticosteroid injections in joints and musculoskeletal soft tissue: guidelines from the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, the American Society of Interventional Pain Physicians, and the International Pain and Spine Intervention Society [^111dadC4]. Regional Anesthesia and Pain Medicine (2025). High credibility.
 
 Knee intra-articular corticosteroid injections (IACS) — landmark versus ultrasound guidance performance is summarized: Accuracy for landmark-based approaches was 75% with the anteromedial approach and 93% with the lateral-midpatellar approach. In a randomized comparison of knee aspiration followed by IA CSI, USG injections resulted in greater improvement in pain indexes and better patient satisfaction and quality of life scales after 4 weeks, and USG knee joint aspiration and injection resulted in significantly less procedural pain, less extravasation of fluid, and improved needle joint decompression; similar positive and improved clinical outcomes were noted at 6 months, but USG did not offer better accuracy in the knee joint than landmark techniques.
 
 ---
 
-### Is single-stage revision according to a strict protocol effective in treatment of chronic knee arthroplasty infections? [^b362029d]. Clinical Orthopaedics and Related Research (2015). Low credibility.
+### Is single-stage revision according to a strict protocol effective in treatment of chronic knee arthroplasty infections? [^115awhqW]. Clinical Orthopaedics and Related Research (2015). Low credibility.
 
 A decision to perform surgery was based on either growing a microorganism from the tissue aspiration/biopsies or presence of a sinus tract communicating with the prosthesis. A microorganism was identified preoperatively in all single-stage patients and in 65 of the two-stage patients, whereas the remaining nine patients were identified postoperatively only despite the presence of a discharging sinus in five patients. The remaining four patients had compelling evidence of PJI with elevated inflammatory markers, loose prostheses, and purulence on aspiration of the joints despite the absence of an isolated microorganism.
 
@@ -446,7 +446,7 @@ We graded all patients according to a standardized protocol for chronic hip and 
 
 ---
 
-### Clinical indications for image-guided interventional procedures in the musculoskeletal system: a Delphi-based consensus paper from the European society of musculoskeletal radiology (ESSR)-part V, knee [^15c2bb59]. European Radiology (2022). Medium credibility.
+### Clinical indications for image-guided interventional procedures in the musculoskeletal system: a Delphi-based consensus paper from the European society of musculoskeletal radiology (ESSR)-part V, knee [^111ZG9bn]. European Radiology (2022). Medium credibility.
 
 Introduction
 
@@ -454,13 +454,13 @@ Interventional procedures around the knee are widely utilized to treat different
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^482bc0be]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^112qzofb]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Ultrasound-guided joint aspiration and injection — technique selection states that ultrasound guidance for needle placement into a joint may be performed using a direct or indirect technique, where during the direct technique, the clinician uses real-time ultrasound guidance to place the needle into the joint, and in the indirect technique, the needle is not visualized entering the joint in real time; although the use of either technique may be appropriate in specific clinical circumstances, the direct technique is preferred due to the ability to visualize the needle in real time throughout the procedure.
 
 ---
 
-### Is there an optimal cutoff for aspiration fluid volume in the diagnosis of periprosthetic joint infection? [^0af77c59]. The Journal of Arthroplasty (2020). Medium credibility.
+### Is there an optimal cutoff for aspiration fluid volume in the diagnosis of periprosthetic joint infection? [^111HG1EG]. The Journal of Arthroplasty (2020). Medium credibility.
 
 Background
 
@@ -480,7 +480,7 @@ Aspiration cultures are more likely to correlate with intraoperative cultures wi
 
 ---
 
-### Are orthopaedic residents competent at performing basic nonoperative procedures in an unsupervised setting? A "Pop quiz" of casting, knee arthrocentesis, and pressure checks for compartment syndrome [^cb4700bb]. Journal of Pediatric Orthopedics (2016). Low credibility.
+### Are orthopaedic residents competent at performing basic nonoperative procedures in an unsupervised setting? A "Pop quiz" of casting, knee arthrocentesis, and pressure checks for compartment syndrome [^116CNLTL]. Journal of Pediatric Orthopedics (2016). Low credibility.
 
 Background
 
@@ -504,7 +504,7 @@ Level II — Diagnostic.
 
 ---
 
-### Value of ultrasound before joint aspiration [^4eaef7c4]. AJR: American Journal of Roentgenology (2013). Low credibility.
+### Value of ultrasound before joint aspiration [^1131eodV]. AJR: American Journal of Roentgenology (2013). Low credibility.
 
 Objective
 
@@ -516,13 +516,13 @@ Before joint aspiration, ultrasound assessment of the overlying and surrounding 
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^88c9c7fb]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^114Vo6Li]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
 
 Regarding surgical interventions for knee osteoarthritis, more specifically with respect to total knee arthroplasty, intraoperative techniques with no evidence for benefit, AAOS 2023 guidelines recommend to do not use drains in total knee arthroplasty because there is no significant difference in complications or outcomes.
 
 ---
 
-### 1, 000 consecutive cases of laser-assisted liposuction and suction-assisted lipectomy managed with local anesthesia [^0298e2a6]. Aesthetic Plastic Surgery (2012). Low credibility.
+### 1, 000 consecutive cases of laser-assisted liposuction and suction-assisted lipectomy managed with local anesthesia [^1114rL1b]. Aesthetic Plastic Surgery (2012). Low credibility.
 
 Background
 
@@ -546,7 +546,7 @@ This journal requires that authors assign a level of evidence to each article. F
 
 ---
 
-### Diagnostic testing… [^ef4ba8e7]. AAFP (2000). Low credibility.
+### Diagnostic testing… [^1177mTKk]. AAFP (2000). Low credibility.
 
 10 Recent research using clinical decision rules for the use of radiography in acutely injured knees has identified historical and examination criteria that reduce the need for radiography. 11 These criteria include the inability to bear weight, presence of effusion and ecchymosis. If all these clinical criteria were absent, the sensitivity for excluding fracture was 100 percent. Other groups have developed similar rules, the most well-known being the "Ottawa rule, " which has similar sensitivity.
 12. Diagnostic Testing Arthrocentesis can be used as a diagnostic tool and a therapeutic procedure. Knee swelling within four to six hours of injury is indicative of hemarthrosis. Not all effusions require aspiration, although drainage of the bloody effusion provides symptomatic relief, improves examination accuracy and confirms injury severity.
@@ -557,7 +557,7 @@ The fluid obtained from arthrocentesis should be sent for analysis, although a h
 
 ---
 
-### Clinical indications for image-guided interventional procedures in the musculoskeletal system: a Delphi-based consensus paper from the European society of musculoskeletal radiology (ESSR)-part V, knee [^70a6a7ca]. European Radiology (2022). Medium credibility.
+### Clinical indications for image-guided interventional procedures in the musculoskeletal system: a Delphi-based consensus paper from the European society of musculoskeletal radiology (ESSR)-part V, knee [^113t1bGm]. European Radiology (2022). Medium credibility.
 
 Results
 
@@ -572,13 +572,13 @@ A systematic review reported that image-guided and particularly US-guided knee i
 
 ---
 
-### Injections of the hip and knee [^3c82ecd7]. American Family Physician (2024). Medium credibility.
+### Injections of the hip and knee [^112YiEY6]. American Family Physician (2024). Medium credibility.
 
 Hip and knee injections are useful diagnostic and therapeutic tools for family physicians. This article reviews anatomic landmark-guided and ultrasound-guided injections and aspiration techniques for greater trochanteric pain syndrome, the hip joint, the knee joint, the pes anserine bursa, and the iliotibial band. Indications for injections include acute and chronic inflammatory conditions, such as rheumatoid arthritis; osteoarthritis; overuse; and traumas. Joint aspirations may be performed to aid in the diagnosis of unexplained effusions and to relieve pain. Technique, injectant, and follow-up timing depend on the physician's comfort, experience, and preference. Infections of the skin or soft tissue are the primary contraindications to injections. The most common complications are local inflammatory reactions to the injectant. These reactions usually cause soreness for 24 to 48 hours, then spontaneously resolve. Follow-up after injections is usually scheduled within two to six weeks.
 
 ---
 
-### Ultrasound of musculoskeletal hematomas: relationship of sonographic appearance to age and ease of aspiration [^395bfc46]. AJR: American Journal of Roentgenology (2021). Medium credibility.
+### Ultrasound of musculoskeletal hematomas: relationship of sonographic appearance to age and ease of aspiration [^112U3C5s]. AJR: American Journal of Roentgenology (2021). Medium credibility.
 
 Objective
 
@@ -598,7 +598,7 @@ Ultrasound-guided aspiration of hematomas is a safe and effective procedure. The
 
 ---
 
-### When polyethylene exchange is appropriate for prosthetic knee instability [^3f1ba623]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2019). Medium credibility.
+### When polyethylene exchange is appropriate for prosthetic knee instability [^112cZWQA]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2019). Medium credibility.
 
 Prosthetic knee instability is a common cause of patient dissatisfaction and early failure after total knee arthroplasty (TKA). Technical considerations account for most of these problems. The symptoms of prosthetic knee instability include catching, giving way, anterior knee pain, pes bursitis, and the inability to trust the knee in daily activities. Recurrent effusions are common with a predominance of red blood cells on aspiration. Whereas prosthetic knee instability is a common cause of patient dissatisfaction after knee replacement, strategies to manage such instability are dependent on the recognition of the presenting instability pattern. Some instability patterns require full revision, whereas others can be managed by polyethylene exchange (PE) only.
 
@@ -610,7 +610,7 @@ This study classifies a series of patients where PE only was used to manage an u
 
 ---
 
-### Pediatric sharp foreign body aspiration: revealing unexpected risk factors [^de000c4e]. Otolaryngology — Head and Neck Surgery (2025). Medium credibility.
+### Pediatric sharp foreign body aspiration: revealing unexpected risk factors [^116g8GVs]. Otolaryngology — Head and Neck Surgery (2025). Medium credibility.
 
 Disclosures
 
@@ -624,7 +624,7 @@ None.
 
 ---
 
-### Morel-lavallée lesion: what you need to know [^cc0a3c48]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
+### Morel-lavallée lesion: what you need to know [^116DVutj]. The Journal of Trauma and Acute Care Surgery (2025). Medium credibility.
 
 Abstract
 
@@ -636,31 +636,31 @@ Systematic review; Level I.
 
 ---
 
-### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^a12c5774]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
+### American Academy of Orthopaedic Surgeons clinical practice guideline summary of surgical management of osteoarthritis of the knee [^1157wuDV]. The Journal of the American Academy of Orthopaedic Surgeons (2023). High credibility.
 
 Drains in total knee arthroplasty — drains should not be used with total knee arthroplasty because there is no significant difference in complications or outcomes. Quality of Evidence: High. Strength of Recommendation: Moderate (downgraded).
 
 ---
 
-### Diagnostic and therapeutic injection of the hip and knee [^fd171bf3]. American Family Physician (2003). Low credibility.
+### Diagnostic and therapeutic injection of the hip and knee [^117UDdW2]. American Family Physician (2003). Low credibility.
 
 Joint injection of the hip and knee regions is a useful diagnostic and therapeutic tool for the family physician. In this article, the injection procedure for the greater trochanteric bursa, the knee joint, the pes anserine bursa, the iliotibial band, and the prepatellar bursa is reviewed. Indications for greater trochanteric bursa injection include acute and chronic inflammation associated with osteoarthritis, rheumatoid arthritis, repetitive use, and other traumatic injuries to the area. For the knee joint, aspiration may be performed to aid in the diagnosis of an unexplained effusion and relieve discomfort caused by an effusion. Injection of the knee can be performed for viscosupplementation or corticosteroid therapy. Indications for corticosteroid injection include advanced osteoarthritis and other inflammatory arthritides, such as gout or calcium pyrophosphate deposition disease. Swelling and tenderness of pes anserine or prepatellar bursae can be relieved with aspiration and corticosteroid injection. Persistent pain and disability from iliotibial band syndrome respond to local injection therapy. The proper technique, choice and quantity of pharmaceuticals, and appropriate follow-up are essential for effective outcomes.
 
 ---
 
-### Consensus document for the diagnosis of prosthetic joint infections: a joint paper by the EANM, EBJIS, and ESR (with ESCMID endorsement) [^cd97277f]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
+### Consensus document for the diagnosis of prosthetic joint infections: a joint paper by the EANM, EBJIS, and ESR (with ESCMID endorsement) [^116FoEVc]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
 
 Regarding diagnostic procedures for prosthetic joint infection, more specifically with respect to synovial fluid analysis, EANM/EBJIS/ESCMID/ESR 2019 guidelines recommend to consider using image guidance for joint aspiration.
 
 ---
 
-### Joint and soft tissue injections [^ff90670c]. American Family Physician (2023). Medium credibility.
+### Joint and soft tissue injections [^117XtM3q]. American Family Physician (2023). Medium credibility.
 
 Joint and soft tissue injections can be divided into two primary categories: diagnostic and therapeutic. Diagnostic injections facilitate a diagnosis by using a local anesthetic to identify the site of pain or through fluid aspiration for analysis. Therapeutic injections are categorized by the type of injectate and include corticosteroids, hyaluronic acid, dextrose prolotherapy, and platelet-rich plasma. Diagnostic and therapeutic injections are most accurate under direct visualization. Corticosteroid injections help treat adhesive capsulitis and tenosynovitis but are not recommended for intratendinous injections. Hyaluronic acid has limited benefits for knee osteoarthritis. Dextrose prolotherapy injections treat tendinopathy and degenerative joint pain. Platelet-rich plasma injections effectively treat common extensor tendinopathy and knee arthritis; however, the evidence does not support its use for other soft tissue injuries. Preparation for injections includes patient education, consent, proper patient positioning, and obtaining the necessary supplies. Local infection, fractures, and allergy to injection substrates are contraindications to joint and soft tissue injections. Potential complications include pain, swelling, and redness. Corticosteroid injections into soft tissue may cause atrophy and depigmentation, and repeated injections can cause cartilage and tendon degeneration. Optimizing conservative, noninjection treatments, such as oral and topical analgesics, activity modification, or rehabilitation, is also important.
 
 ---
 
-### Subcutaneous versus intraarticular indwelling closed suction drainage after TKA: a randomized controlled trial [^8d933cb8]. Clinical Orthopaedics and Related Research (2010). Low credibility.
+### Subcutaneous versus intraarticular indwelling closed suction drainage after TKA: a randomized controlled trial [^114cti9V]. Clinical Orthopaedics and Related Research (2010). Low credibility.
 
 Background
 
@@ -688,13 +688,13 @@ Level I, therapeutic study. See Guidelines for Authors for a complete descriptio
 
 ---
 
-### Evaluation of painful total knee arthroplasty [^bc964730]. The Journal of Arthroplasty (2004). Low credibility.
+### Evaluation of painful total knee arthroplasty [^115pb9dh]. The Journal of Arthroplasty (2004). Low credibility.
 
 Numerous conditions exist that may cause pain following total knee arthroplasty (TKA) that can be categorized into articular versus nonarticular etiologies. To critically evaluate the painful TKA, the treating physician must perform a thorough history and physical examination, as well as both laboratory and radiographic testing. Laboratory analysis is directed to differentiate septic versus aseptic etiologies of knee pain and commonly includes assessment of white blood cell count, erythrocyte sedimentation rate, C-reactive protein, and knee aspiration for cell count and cultures. Available radiographic tools include plain radiographs, stress views, arthrography, nuclear scanning, ultrasonography, and magnetic resonance imaging. In cases of unexplained pain, reoperation is unwise and frequently associated with suboptimal results. Periodic repeat evaluations are recommended until the etiology of pain is clearly determined.
 
 ---
 
-### Clinical and molecular associations with outcomes at 2 years after acute knee injury: a longitudinal study in the knee injury cohort at the Kennedy (KICK) [^c26c4a2d]. The Lancet: Rheumatology (2021). High credibility.
+### Clinical and molecular associations with outcomes at 2 years after acute knee injury: a longitudinal study in the knee injury cohort at the Kennedy (KICK) [^115yEyKr]. The Lancet: Rheumatology (2021). High credibility.
 
 Results
 
@@ -704,13 +704,13 @@ Before injury, 114 (76%) of 150 participants were sports professionals (ie, Tegn
 
 ---
 
-### Editorial commentary: synovial fluid white blood cell is the gold standard to detect infection after anterior cruciate ligament reconstruction: don't hesitate to aspirate [^9476234d]. Arthroscopy (2021). Medium credibility.
+### Editorial commentary: synovial fluid white blood cell is the gold standard to detect infection after anterior cruciate ligament reconstruction: don't hesitate to aspirate [^114o6rDi]. Arthroscopy (2021). Medium credibility.
 
 Infection after anterior cruciate ligament reconstruction can have devastating consequences, including potential graft loss, arthrofibrosis, chondral destruction or chondrolysis, and secondary osteoarthritis. Early detection and aggressive management are imperative to improve the chances of infection eradication, graft retention, and to decrease the risk of chondral loss. One must have a high index of suspicion and not shy away from working up a possible infection. Synovial fluid aspiration and cell count, specifically white blood cell count, is the gold standard to diagnose postoperative infection.
 
 ---
 
-### Closed suction drainage for hip and knee arthroplasty. A meta-analysis [^9487fd8f]. The Journal of Bone and Joint Surgery: American Volume (2004). Low credibility.
+### Closed suction drainage for hip and knee arthroplasty. A meta-analysis [^114oCr1t]. The Journal of Bone and Joint Surgery: American Volume (2004). Low credibility.
 
 Background
 
@@ -730,7 +730,7 @@ Studies to date have indicated that closed suction drainage increases the transf
 
 ---
 
-### Methylprednisolone acetate (medroloan SUIK) [^e114e5ff]. FDA (2022). Medium credibility.
+### Methylprednisolone acetate (medroloan SUIK) [^116khEYN]. FDA (2022). Medium credibility.
 
 Suitable sites for intra-articular injection are the knee, ankle, wrist, elbow, shoulder, phalangeal, and hip joints. Since difficulty is not infrequently encountered in entering the hip joint, precautions should be taken to avoid any large blood vessels in the area. Joints not suitable for injection are those that are anatomically inaccessible such as the spinal joints and those like the sacroiliac joints that are devoid of synovial space. Treatment failures are most frequently the result of failure to enter the joint space. Little or no benefit follows injection into surrounding tissue. If failures occur when injections into the synovial spaces are certain, as determined by aspiration of fluid, repeated injections are usually futile.
 
@@ -740,13 +740,13 @@ If a local anesthetic is used prior to injection of methylprednisolone acetate i
 
 ---
 
-### Diagnosis of periprosthetic joint infections of the hip and knee [^b61d410a]. The Journal of the American Academy of Orthopaedic Surgeons (2010). Low credibility.
+### Diagnosis of periprosthetic joint infections of the hip and knee [^115ezaCq]. The Journal of the American Academy of Orthopaedic Surgeons (2010). Low credibility.
 
 No preferred test for diagnosis of periprosthetic joint infection exists, and the algorithm for the workup of patients suspected of infection remains unclear. The work group evaluated the available literature to determine the role of each diagnostic modality and devise a practical algorithm that allows physicians to reach diagnosis of periprosthetic joint infection. Ten of the 15 recommendations have strong or moderate evidence in support. These include matters involving erythrocyte sedimentation rate and C-reactive protein level testing, knee and hip aspiration, and stopping the use of antibiotics prior to obtaining intra-articular cultures. The group recommends against the use of intraoperative Gram stain but does recommend the use of frozen sections of peri-implant tissues in reoperation patients in whom infection has not been established, as well as multiple cultures in reoperation patients being assessed for infection. The group recommends against initiating antibiotic treatment in patients with suspected infection until after joint cultures have been obtained, but recommends that prophylactic preoperative antibiotics not be withheld in patients at lower probability for infection.
 
 ---
 
-### False-positive cultures after native knee aspiration: true or false [^ed8cf11d]. Clinical Orthopaedics and Related Research (2017). Low credibility.
+### False-positive cultures after native knee aspiration: true or false [^1175BQZJ]. Clinical Orthopaedics and Related Research (2017). Low credibility.
 
 Background
 
@@ -774,19 +774,19 @@ Level I, diagnostic study.
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^d9768044]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^116ZQ7jq]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Ultrasound-guided fluid aspiration — definition and indications — is defined as procedures in which real-time ultrasound visualization is used to guide a needle or catheter into a fluid collection (eg, cyst, seroma, ganglion, or abscess) for diagnostic or therapeutic aspiration, with general indications for placing a needle or catheter into a fluid collection including diagnostic aspiration for fluid analysis to exclude infection, metallosis, crystal disease, and other etiologies of abnormal fluid collections; therapeutic aspiration for symptomatic relief or to facilitate resolution of the fluid collection; installation of a catheter for therapeutic drainage of a fluid collection; and installation of therapeutic agents such as corticosteroids and sclerosing agents.
 
 ---
 
-### Total knee arthroplasty infection: significance of delayed aspiration [^e49bbb15]. The Journal of Arthroplasty (2002). Low credibility.
+### Total knee arthroplasty infection: significance of delayed aspiration [^116qvV8g]. The Journal of Arthroplasty (2002). Low credibility.
 
 The records of 35 patients with total knee arthroplasty infection were reviewed to investigate the significance of delayed aspiration and the success of treatment. In 13 patients, aspiration was performed within 3 months after the onset of symptoms of infection. The median duration of treatment was 243 days, and infection was arrested in all patients. In 22 patients, aspiration was performed > 3 months after the onset of symptoms. The duration of treatment was significantly longer in these patients (P < .001). Persistent infection was recorded in 8 patients, and amputation of the involved leg was done in 3 patients. Aspiration within 3 months after the onset of symptoms of infection significantly reduced the duration of treatment and increased the chances of successfully arresting infection.
 
 ---
 
-### Methylprednisolone acetate [^1555ff26]. FDA (2025). Medium credibility.
+### Methylprednisolone acetate [^111YddGZ]. FDA (2025). Medium credibility.
 
 Suitable sites for intra-articular injection are the knee, ankle, wrist, elbow, shoulder, phalangeal, and hip joints. Since difficulty is not infrequently encountered in entering the hip joint, precautions should be taken to avoid any large blood vessels in the area. Joints not suitable for injection are those that are anatomically inaccessible such as the spinal joints and those like the sacroiliac joints that are devoid of synovial space. Treatment failures are most frequently the result of failure to enter the joint space. Little or no benefit follows injection into surrounding tissue. If failures occur when injections into the synovial spaces are certain, as determined by aspiration of fluid, repeated injections are usually futile.
 
@@ -796,25 +796,25 @@ If a local anesthetic is used prior to injection of methylprednisolone acetate i
 
 ---
 
-### AAOS systematic literature review: summary on the management of surgical site infections [^8ce71453]. The Journal of the American Academy of Orthopaedic Surgeons (2019). High credibility.
+### AAOS systematic literature review: summary on the management of surgical site infections [^114bttF4]. The Journal of the American Academy of Orthopaedic Surgeons (2019). High credibility.
 
 Cross-sectional imaging — magnetic resonance imaging (MRI), computed tomography (CT), ultrasonography for suspected orthopaedic surgical site infection: There is a lack of data overall; two moderate quality MRI studies in suspected knee prosthesis infection showed moderate-strong "rule in" agreement but poor-moderate "rule out" agreement. Metallic implants can cause significant artifacts that limit detection of adjacent bone and soft tissue infection on MRI as well as on CT, and cross-sectional imaging can potentially be useful to identify soft-tissue fluid collections or to guide aspiration/biopsy, with the value of a given exam considered on a case-by-case basis.
 
 ---
 
-### Tumors masquerading as hematomas [^e438a8e5]. Clinical Orthopaedics and Related Research (2007). Low credibility.
+### Tumors masquerading as hematomas [^116qMD5E]. Clinical Orthopaedics and Related Research (2007). Low credibility.
 
 Suboptimal patient management can occur when malignant soft tissue tumors with internal hemorrhage masquerade as simple hematomas. We retrospectively reviewed 31 patients with malignancies who had diagnostic delays averaging 6.7 months (range, 1.0–49.3 months). The diagnoses included soft tissue sarcomas (27), metastatic cancers (three), and lymphoma (one). History of subcutaneous ecchymosis was positive in only five patients (three of whom had trauma), negative in 18, and unknown in eight. Ecchymosis was present in two patients, absent in 20, and unknown in nine. Previous treatments included observation and reassurance (21), aspiration (11), incision and drainage (10), unplanned resections (seven), physical therapy (seven), medication administration (six), and arthroscopy (one). Interpretations of initial MRI (21) and ultrasound (four) did not raise suspicion of underlying cancers. Traumatic hemorrhage usually causes subcutaneous ecchymosis. However, intratumoral hemorrhage often is contained by a pseudocapsule, which prevents fascial plane tracking and subcutaneous ecchymosis, thus providing a diagnostic clue. Magnetic resonance imaging and ultrasound studies may not accurately diagnose questionable lesions. Diagnostic delay or inappropriate treatment may result if patients do not receive appropriate followup, biopsy (usually open), or referral whenever the diagnosis is in doubt.
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^6a4cba7c]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^113ibTfR]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Ultrasound-guided joint procedures — equipment and preprocedure evaluation indicate that clinicians should consider using a small-footprint (hockey stick) transducer in the wrist-hand and ankle-foot region if available, and clinicians should physically examine the target joint before aspiration or injection to identify and localize any intra-articular fluid, with preliminary ultrasound scanning seeking to localize intra-articular fluid. Multiple approaches are typically available to enter a joint using ultrasound guidance, clinicians should recognize that many ultrasound-guided joint aspirations and injections do not use the same approaches as traditional non–image-guided techniques, and the choice of joint entry site is situation specific and depends on patient position and regional anatomy, localization of fluid (if any), the proximity of neurovascular structures, and clinician preference. Whereas ultrasound-guided joint injections may be performed with small-gauge needles, larger-gauge needles are recommended for aspiration (eg, 20 gauge or larger).
 
 ---
 
-### Ultrasound-guided tendon debridement improves pain, function and structure in persistent patellar tendinopathy: short term follow-up of a case series [^e0ce759c]. BMJ Open Sport & Exercise Medicine (2020). High credibility.
+### Ultrasound-guided tendon debridement improves pain, function and structure in persistent patellar tendinopathy: short term follow-up of a case series [^116kHaH9]. BMJ Open Sport & Exercise Medicine (2020). High credibility.
 
 Results
 
@@ -835,19 +835,19 @@ There was one knee joint effusion, presenting 1 day after the procedure. This he
 
 ---
 
-### American Medical Society for Sports Medicine position statement: principles for the responsible use of regenerative medicine in sports medicine [^8c56f3f0]. Clinical Journal of Sport Medicine (2021). High credibility.
+### American Medical Society for Sports Medicine position statement: principles for the responsible use of regenerative medicine in sports medicine [^114b4US3]. Clinical Journal of Sport Medicine (2021). High credibility.
 
 Bone marrow aspirate concentrate (BMAC) for knee osteoarthritis — in a randomized controlled trial comparing BMAC with saline in patients with bilateral knee OA and using a within-subjects design, investigators reported similar reductions in pain between the 2 interventions.
 
 ---
 
-### Point-of-care ultrasound-guided drainage of joint effusions in the pediatric emergency setting: a case series [^7b5018a2]. Journal of Ultrasound in Medicine (2022). Medium credibility.
+### Point-of-care ultrasound-guided drainage of joint effusions in the pediatric emergency setting: a case series [^1149pP4d]. Journal of Ultrasound in Medicine (2022). Medium credibility.
 
 Literature supporting the use of point-of-care ultrasound (POCUS) for both identification and aspiration of effusions in large joints in the pediatric emergency department (PED) is sparse. We collected a case series of five patients who presented to the PED from August 2020 to December 2020 with an effusion in the hip, shoulder, knee, or elbow identified and aspirated under POCUS performed by pediatric emergency medicine (PEM) physicians. POCUS confirms effusion location and size and visualization of a completely evacuated effusion. POCUS can also guide the decision to start antibiotics earlier in the course of illness, can prevent unnecessary transfers for formal sonographic imaging or for potentially unnecessary radiographic imaging. This series supports the role of a PEM physician and POCUS guidance in the identification and aspiration of large-joint effusions.
 
 ---
 
-### Results of laboratory evaluation of acute knee effusion after anterior cruciate ligament reconstruction: what is found in patients with a noninfected, painful postoperative knee? [^805a1f7e]. The American Journal of Sports Medicine (2010). Low credibility.
+### Results of laboratory evaluation of acute knee effusion after anterior cruciate ligament reconstruction: what is found in patients with a noninfected, painful postoperative knee? [^114HHgow]. The American Journal of Sports Medicine (2010). Low credibility.
 
 Background
 
@@ -875,7 +875,7 @@ Benign effusion after anterior cruciate ligament reconstruction is common and is
 
 ---
 
-### Current variation in joint aspiration practice for the evaluation of pediatric septic arthritis [^34d833b0]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
+### Current variation in joint aspiration practice for the evaluation of pediatric septic arthritis [^112MLycB]. Journal of the American Academy of Orthopaedic Surgeons: Global Research & Reviews (2020). Medium credibility.
 
 Previous studies have shown that the accuracy of intra-articular aspiration can vary widely depending on the joint in question and the technique used. Our results confirm wide variations in aspiration practices across different anatomic locations, with orthopaedic residents being primarily responsible for aspirations in more superficial joints (knee, ankle, elbow, and wrist) using anatomic landmarks. Previous studies have shown landmark based techniques to have an intra-articular accuracy rate for needle placement between 67% and 91% in the knee,77% to 100% for the ankle, and 25% to 100% for the elbow. The addition of imaging guidance, be it fluoroscopy or ultrasonography, has been shown to further improve these accuracy rates.
 
@@ -885,13 +885,13 @@ Unlike adult patients, using local or no anesthesia is rarely sufficient in pedi
 
 ---
 
-### Approach to knee effusions [^e52b3622]. Pediatric Emergency Care (2009). Low credibility.
+### Approach to knee effusions [^116rkgMw]. Pediatric Emergency Care (2009). Low credibility.
 
 The presence of an intra-articular knee effusion requires an extensive differential diagnosis and a systematic diagnostic approach. Pediatric knee effusions occur most commonly as acute hemarthroses after traumatic injury. However, the knee joint is susceptible to effusions secondary to a wide variety of atraumatic causes. Special attention is required in the atraumatic effusion to distinguish features of infectious, postinfectious, rheumatologic, hematologic, vasculitic, and malignant disease. This review discusses the various etiologies of both traumatic and atraumatic pediatric knee effusions highlighting the historical, physical examination, and laboratory characteristics to aid the emergency provider in diagnosis and initial management.
 
 ---
 
-### Management of haemarthrosis in patients on oral anticoagulants [^48288623]. Geriatric Orthopaedic Surgery & Rehabilitation (2022). Medium credibility.
+### Management of haemarthrosis in patients on oral anticoagulants [^112qyim8]. Geriatric Orthopaedic Surgery & Rehabilitation (2022). Medium credibility.
 
 Discussion
 
@@ -905,13 +905,13 @@ The diagnostic qualities of aspiration and the improvement in patient's symptoms
 
 ---
 
-### ACR appropriateness criteria on percutaneous catheter drainage of infected fluid collections [^0c4efbaa]. Journal of the American College of Radiology (2009). Low credibility.
+### ACR appropriateness criteria on percutaneous catheter drainage of infected fluid collections [^111KFP6Z]. Journal of the American College of Radiology (2009). Low credibility.
 
 Abnormal fluid collections occur throughout the body and represent a wide range of pathologies, including abscesses, pseudocysts, cysts, lymphoceles, seromas, bilomas, hematomas, urinomas, and infected neoplasms. Appropriate management often depends on clinical presentation, location, type of collection, early response to treatment, and the presence of complicating factors such as fistulas, septations, and increased viscosity. Physicians should carefully review clinical and imaging findings and make evidence-based recommendations for the best treatment, which may include antibiotics, needle aspiration, percutaneous drainage, endoscopic drainage, or surgical drainage. This paper addresses percutaneous catheter drainage and alternative treatment options for the management of fluid collections and is the result of evidence-based consensus by the ACR Appropriateness Criteria Expert Panel on Interventional Radiology.
 
 ---
 
-### Low risk of acute iatrogenic periprosthetic joint infection after prosthetic joint aspiration [^ffef954e]. The Journal of Arthroplasty (2023). Medium credibility.
+### Low risk of acute iatrogenic periprosthetic joint infection after prosthetic joint aspiration [^117YSKKT]. The Journal of Arthroplasty (2023). Medium credibility.
 
 Background
 
@@ -931,13 +931,13 @@ While joint aspiration is a procedure with inherent risks, this study shows that
 
 ---
 
-### AAOS clinical practice guideline summary: management of osteoarthritis of the knee (nonarthroplasty), third edition [^ed81ba3a]. The Journal of the American Academy of Orthopaedic Surgeons (2022). High credibility.
+### AAOS clinical practice guideline summary: management of osteoarthritis of the knee (nonarthroplasty), third edition [^11757e5o]. The Journal of the American Academy of Orthopaedic Surgeons (2022). High credibility.
 
 AAOS Clinical Practice Guideline — acceptability, feasibility, and future research for symptomatic knee osteoarthritis notes that intra-articular treatments are a commonly utilized approach and that there should be no issues implementing this recommendation because it does not influence a major change in clinical practice and provides further evidence to support and guide these practices. These recommendations do not interfere with other interventions or clinical practice and are deemed very feasible in patients with symptomatic knee osteoarthritis. For future work, future research in this area should embrace detailed osteoarthritis characterization including sub-group analyses and osteoarthrosis severity stratification; using clinically relevant outcomes and controls for bias are warranted along with cost-effectiveness analysis; and specifically for platelet rich plasma, it will be of outmost importance to include comprehensive platelet rich plasma characterization and description of platelet rich plasma preparation protocol.
 
 ---
 
-### Consensus guidelines on interventional therapies for knee pain (STEP guidelines) from the American Society of Pain and Neuroscience [^e1e3218b]. Journal of Pain Research (2022). Medium credibility.
+### Consensus guidelines on interventional therapies for knee pain (STEP guidelines) from the American Society of Pain and Neuroscience [^116mtWGz]. Journal of Pain Research (2022). Medium credibility.
 
 It is important to discern that all PRP is not equivalent. Factors at minimum that can affect the final PRP product include volume of blood aspirated, baseline platelet count, patient health status and comorbidities, patient medications, anticoagulant of choice, centrifugation parameters, and inclusion/exclusion of leukocytes. Not distinguishing for this variability, we have summarized below the gross evidence evaluating the use of PRP for knee-related pathology.
 
@@ -946,13 +946,13 @@ Intra-articular PRP: Several systematic reviews have analyzed the available lite
 
 ---
 
-### Ultrasound-guided intra-articular knee injection in an obese patient [^becb5664]. American Journal of Physical Medicine & Rehabilitation (2012). Low credibility.
+### Ultrasound-guided intra-articular knee injection in an obese patient [^115srwsq]. American Journal of Physical Medicine & Rehabilitation (2012). Low credibility.
 
 A 35-yr-old woman was referred to our outpatient clinic for a right intra-articular knee aspiration and injection. She had a medical history notable for lymphedema and morbid obesity (Fig. 1). Her body mass index was recently calculated at greater than 60 kg/m². She had a history of four previous nonguided knee joint injections performed elsewhere that provided no significant improvement in pain. On physical examination, it was difficult to localize common knee joint bony landmarks, including the medial and lateral borders of the patella (Fig. 2). Consequently we opted to utilize ultrasound guidance for the knee joint injection via the technique described herein.
 
 ---
 
-### Comparison of endoscopic evacuation, stereotactic aspiration, and craniotomy for treatment of basal ganglia hemorrhage [^4f07af5f]. Journal of Neurointerventional Surgery (2020). Medium credibility.
+### Comparison of endoscopic evacuation, stereotactic aspiration, and craniotomy for treatment of basal ganglia hemorrhage [^1132Abyp]. Journal of Neurointerventional Surgery (2020). Medium credibility.
 
 In the medium and large hematoma subgroups, the mortality of the stereotactic aspiration group was significantly higher than that of the endoscopic aspiration group. In the large hematoma subgroup, a trend towards improved survival was observed in the endoscopic aspiration group compared with the craniotomy group (OR = 8.721, 95% CI, 0.933 to 81.551). This suggested that, with hematoma volumes ≥ 40 mL, stereotactic aspiration is not the ideal choice. With hematoma volumes ≥ 80 mL, endoscopic aspiration may be the optimal surgical choice among the three different techniques. These results may help to better define the appropriate indication for each technique; however, further prospective randomized trials are needed to confirm the findings of this study.
 
@@ -960,7 +960,7 @@ This study has several limitations. First, owing to the retrospective nature of 
 
 ---
 
-### 2019 American College of Rheumatology / arthritis foundation guideline for the management of osteoarthritis of the hand, hip, and knee [^c9181b84]. Arthritis Care & Research (2020). High credibility.
+### 2019 American College of Rheumatology / arthritis foundation guideline for the management of osteoarthritis of the hand, hip, and knee [^11698cJ7]. Arthritis Care & Research (2020). High credibility.
 
 Regarding therapeutic procedures for knee osteoarthritis, more specifically with respect to other intra-articular injections, ACR 2020 guidelines recommend to do not administer the following agents intra-articularly in patients with knee OA:
 
@@ -974,31 +974,31 @@ Regarding therapeutic procedures for knee osteoarthritis, more specifically with
 
 ---
 
-### American Medical Society for Sports Medicine position statement: interventional musculoskeletal ultrasound in sports medicine [^06ddc427]. Clinical Journal of Sport Medicine (2015). Medium credibility.
+### American Medical Society for Sports Medicine position statement: interventional musculoskeletal ultrasound in sports medicine [^111BBR3c]. Clinical Journal of Sport Medicine (2015). Medium credibility.
 
 Interventional musculoskeletal ultrasound — conclusions summarize utilization and evidence: the use of diagnostic and interventional ultrasound has significantly increased over the past decade, a majority of the increased utilization is by nonradiologists, ultrasound is often used to guide aspirations, injections, tenotomies, releases, and hydrodissections and is becoming part of standard sports medicine practice, there is strong evidence USGIs are more accurate than LMGIs, moderate evidence they are more efficacious, and preliminary evidence they are more cost-effective, and USG is required for many new advanced procedures and may enable innovative surgical techniques.
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^a300226c]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^115Af2Z9]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Ultrasound-guided joint aspirations and injections — definition and indications — are defined as procedures in which ultrasound is used to guide a needle into a joint for the purpose of delivering a diagnostic or therapeutic agent or for aspirating fluid, and specifications in this section also apply to periarticular bursas (eg, subacromial bursa in the shoulder and greater trochanteric bursa in the hip). General indications for needle placement into a joint include but are not limited to delivery of diagnostic or therapeutic agents into the joint, removal of fluid before injection of a diagnostic or therapeutic agent, fluid sampling for diagnostic purposes, and removal of fluid for symptomatic relief. Specific indications for ultrasound-guided needle placement into a joint include but are not limited to a failed palpation-guided procedure; diagnostic aspiration in the setting of clinically absent or minimal effusion; diagnostic injection where accurate injectate placement is critical for diagnosis; inability to precisely localize the target using palpation or surface landmarks due to body habitus, congenital, postsurgical, or posttraumatic deformity, or deep location of the target structure (eg, hip joint); therapeutic injection in which therapeutic benefit is predicated on accurate placement; relatively high risk of complications that can be mitigated by ultrasound guidance, including avoidance of inadvertent tendon injection to reduce rupture risk, proximity to neurovascular structures or organs at risk, and bleeding risk secondary to anticoagulants or bleeding diathesis; and in select patients with significant apprehension about arthrocentesis to ameliorate procedure-related pain and/or anxiety. General procedural contraindications apply as discussed earlier in this document.
 
 ---
 
-### Diagnosis and prevention of periprosthetic joint infections [^647353d2]. The Journal of the American Academy of Orthopaedic Surgeons (2020). High credibility.
+### Diagnosis and prevention of periprosthetic joint infections [^113ZvVwX]. The Journal of the American Academy of Orthopaedic Surgeons (2020). High credibility.
 
 Periprosthetic joint infection (PJI) — preoperative aspiration culture for bacteria: Two high, seven moderate and one low quality studies evaluated diagnostic accuracy, and every study used preoperatively-collected synovial fluid except one operatively-collected study. A meta-analysis found a good rule-in effect [pooled positive LR = 10.09 (6.74,15.09)], with rule-out still useful [negative LR = .29 (.22,.40)], and the intraoperatively-collected culture study was strong at ruling in and ruling out PJI.
 
 ---
 
-### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^76879fba]. Journal of Ultrasound in Medicine (2016). Medium credibility.
+### AIUM practice parameter for the performance of selected ultrasound-guided procedures [^1142j6RP]. Journal of Ultrasound in Medicine (2016). Medium credibility.
 
 Ultrasound-guided aspiration — fluid can be aspirated from the target area for diagnostic or therapeutic purposes using ultrasound guidance while avoiding neurovascular structures. In suspected infection, fluid should be sent for analysis and culture because the ultrasound appearance of fluid is an unreliable indicator of infection, and the viscosity of the fluid cannot be predicted by its ultrasound appearance. Use of larger-gauge needles and lavage with sterile normal saline, sterile water, or a local anesthetic can be performed to reduce viscosity and facilitate aspiration, although lavage should be used with caution in suspected cases of infection, as the lavage fluid will dilute bacteria and cells and may inhibit bacterial culture. During aspiration the clinician should reposition the needle to avoid needle clog and optimize fluid aspiration, and in ganglia or other septated fluid collections the clinician can guide the needle into additional compartments to optimize the yield.
 
 ---
 
-### Towards prevention of post-traumatic osteoarthritis: report from an international expert working group on considerations for the design and conduct of interventional studies following acute knee injury [^aae5355d]. Osteoarthritis and Cartilage (2019). Medium credibility.
+### Towards prevention of post-traumatic osteoarthritis: report from an international expert working group on considerations for the design and conduct of interventional studies following acute knee injury [^115NMtFN]. Osteoarthritis and Cartilage (2019). Medium credibility.
 
 Imaging
 
@@ -1016,20 +1016,20 @@ Symptoms of instability could be more reliable than any examination-based measur
 
 ---
 
-### The unstable knee: wobble and buckle [^547af53f]. The Bone & Joint Journal (2014). Low credibility.
+### The unstable knee: wobble and buckle [^113AFG62]. The Bone & Joint Journal (2014). Low credibility.
 
 Instability after total knee replacement (TKR) accounts for 10% to 22% of revision procedures. All patients who present for evaluation of instability require a thorough history to be taken and physical examination, as well as appropriate imaging. Deep periprosthetic infection must be ruled out by laboratory testing and an aspiration of the knee must be carried out. The three main categories of instability include flexion instability, extension instability (symmetric and asymmetric), and genu recurvatum. Most recently, the aetiologies contributing to, and surgical manoeuvres required to correct, flexion instability have been elucidated. While implant design and patient-related factors may certainly contribute to the aetiology, surgical technique is also a significant factor in all forms of post-operative instability.
 
 ---
 
-### 2022 guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association / American stroke association [^15f26fd7]. Stroke (2022). High credibility.
+### 2022 guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association / American stroke association [^111ZYAyC]. Stroke (2022). High credibility.
 
 Regarding surgical interventions for intracerebral hemorrhage, more specifically with respect to indications for surgery, supratentorial hemorrhage, AHA/ASA 2022 guidelines recommend to consider performing minimally invasive hematoma evacuation with endoscopic or stereotactic aspiration with or without thrombolytic use to reduce mortality
 , but not for improving functional outcomes, in patients with a GCS scores of 5–12 and supratentorial ICH of > 20–30 mL volume. Consider performing minimally invasive hematoma evacuation over conventional craniotomy to improve functional outcomes in these patients considered for hematoma evacuation.
 
 ---
 
-### Managing auricular hematoma: an emergency medicine narrative review [^22b34090]. The Journal of Emergency Medicine (2025). Medium credibility.
+### Managing auricular hematoma: an emergency medicine narrative review [^111tSnhM]. The Journal of Emergency Medicine (2025). Medium credibility.
 
 Background
 
@@ -1049,19 +1049,19 @@ Emergency clinicians must be knowledgeable regarding the evaluation and manageme
 
 ---
 
-### 2022 guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association / American stroke association [^84457ca0]. Stroke (2022). High credibility.
+### 2022 guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association / American stroke association [^114P6huq]. Stroke (2022). High credibility.
 
 Surgical interventions — minimally invasive (MIS) evacuation of intracerebral hemorrhage (ICH): For patients with supratentorial ICH of > 20- to 30-mL volume with Glasgow Coma Scale (GCS) scores in the moderate range (5–12), minimally invasive hematoma evacuation with endoscopic or stereotactic aspiration with or without thrombolytic use can be useful to reduce mortality compared with medical management alone (COR 2a, LOE B-R). For patients with supratentorial ICH of > 20- to 30-mL volume with GCS scores in the moderate range (6–12) being considered for hematoma evacuation, it may be reasonable to select minimally invasive hematoma evacuation over conventional craniotomy to improve functional outcomes (COR 2b, LOE B-R). For similar patients, the effectiveness of minimally invasive hematoma evacuation with endoscopic or stereotactic aspiration with or without thrombolytic use to improve functional outcomes is uncertain (COR 2b, LOE B-R).
 
 ---
 
-### Sonographically guided posteromedial approach for intra-articular knee injections: a safe, accurate, and efficient method [^c3b8341f]. Journal of Ultrasound in Medicine (2015). Low credibility.
+### Sonographically guided posteromedial approach for intra-articular knee injections: a safe, accurate, and efficient method [^1161ATXc]. Journal of Ultrasound in Medicine (2015). Low credibility.
 
 Osteoarthritis of the knee can be a debilitating and extremely painful condition. In patients who desire to postpone knee arthroplasty or in those who are not surgical candidates, percutaneous knee injection therapies have the potential to reduce pain and swelling, maintain joint mobility, and minimize disability. Published studies cite poor accuracy of intra-articular knee joint injections without imaging guidance. We present a sonographically guided posteromedial approach to intra-articular knee joint injections with 100% accuracy and no complications in a consecutive series of 67 patients undergoing subsequent computed tomographic or magnetic resonance arthrography. Although many other standard approaches are available, a posteromedial intra-articular technique is particularly useful in patients with a large body habitus and theoretically allows for simultaneous aspiration of Baker cysts with a single sterile preparation and without changing the patient's position. The posteromedial technique described in this paper is not compared or deemed superior to other standard approaches but, rather, is presented as a potentially safe and efficient alternative.
 
 ---
 
-### Diagnosis of periprosthetic joint infection-an algorithm-based approach [^863d2098]. The Journal of Arthroplasty (2017). Low credibility.
+### Diagnosis of periprosthetic joint infection-an algorithm-based approach [^114S1scs]. The Journal of Arthroplasty (2017). Low credibility.
 
 Background
 
@@ -1081,13 +1081,13 @@ The diagnosis of PJI is easily made in our experience in 90% of patients by gett
 
 ---
 
-### ACR-SIR-SPR practice parameter for specifications and performance of imageguided drainage / aspiration of abscesses and fluid collections [^62e7c2f4]. SIR (2023). High credibility.
+### ACR-SIR-SPR practice parameter for specifications and performance of imageguided drainage / aspiration of abscesses and fluid collections [^113XddhM]. SIR (2023). High credibility.
 
 Specifics of the procedure — image-guided percutaneous aspiration: All image-guided percutaneous procedures involving aspiration of fluid collections with or without percutaneous catheter drainage are performed for specific indications, and the examination or procedure should therefore be tailored accordingly. For diagnostic aspirations, initial placement of a small needle (ie, 18–22 gauge) or centesis catheter is advised when appropriate. Diagnostic percutaneous fluid aspiration may lead to therapeutic placement of a percutaneous drainage catheter using modified Seldinger or trocar techniques for definitive drainage.
 
 ---
 
-### Delayed symptomatic presentation of epidural hematoma after epidural catheter anesthesia: case report [^2c8afcd7]. Spine (2007). Low credibility.
+### Delayed symptomatic presentation of epidural hematoma after epidural catheter anesthesia: case report [^1129396e]. Spine (2007). Low credibility.
 
 Study Design
 
@@ -1115,19 +1115,19 @@ In the absence of focal neurologic symptoms, conservative therapy and observatio
 
 ---
 
-### ACOEM OEM core competencies: 2021 [^aa38ab66]. Journal of Occupational and Environmental Medicine (2021). High credibility.
+### ACOEM OEM core competencies: 2021 [^115MMvvH]. Journal of Occupational and Environmental Medicine (2021). High credibility.
 
 Musculoskeletal additional knowledge and skills — some OEM physicians utilize diagnostic imaging such as radiographs or ultrasound for musculoskeletal injuries and pain syndromes; perform diagnostic or therapeutic injections including joint and soft tissue injections (bursal, tendon sheath, nerve sheath), barbotage, tenotomy, and aspiration using aseptic techniques; perform casting and splinting for musculoskeletal disorders and fractures; and apply biomechanics of injury to preventive strategies including ergonomics, prevention programs, and pre/post shift biomechanical training.
 
 ---
 
-### Consensus document for the diagnosis of prosthetic joint infections: a joint paper by the EANM, EBJIS, and ESR (with ESCMID endorsement) [^ba848805]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
+### Consensus document for the diagnosis of prosthetic joint infections: a joint paper by the EANM, EBJIS, and ESR (with ESCMID endorsement) [^115mXDLQ]. European Journal of Nuclear Medicine and Molecular Imaging (2019). High credibility.
 
 Regarding diagnostic procedures for prosthetic joint infection, more specifically with respect to histopathology, EANM/EBJIS/ESCMID/ESR 2019 guidelines recommend to consider performing biopsy of periprosthetic tissue for histology and cultures for preoperative diagnosis, if ESR and/or CRP are positive and aspiration is inconclusive or impossible to test (dry tap).
 
 ---
 
-### The effect of aspiration and corticosteroid injection after ACL injury on postoperative infection rate [^95479322]. The American Journal of Sports Medicine (2023). Medium credibility.
+### The effect of aspiration and corticosteroid injection after ACL injury on postoperative infection rate [^114pKCNu]. The American Journal of Sports Medicine (2023). Medium credibility.
 
 Background
 
@@ -1155,13 +1155,13 @@ Postinjury and preoperative aspiration and CSI is a safe intervention that can b
 
 ---
 
-### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^1d5295f0]. Critical Care (2023). High credibility.
+### The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition [^111kUP59]. Critical Care (2023). High credibility.
 
 Regarding medical management for traumatic hemorrhage, more specifically with respect to general principles, ABC-T 2023 guidelines recommend to minimize the time elapsed between injury and bleeding control.
 
 ---
 
-### Evaluation for septic arthritis of the native adult knee is aided by multivariable assessment [^7cc7041e]. The American Journal of Emergency Medicine (2021). Medium credibility.
+### Evaluation for septic arthritis of the native adult knee is aided by multivariable assessment [^114BzK6D]. The American Journal of Emergency Medicine (2021). Medium credibility.
 
 Introduction
 

@@ -15,7 +15,7 @@ A newborn presents with a narrow thorax, markedly short ribs, and preaxial/posta
 
 > Let's see… What do we have here? The user is asking which ICD-10 code should be assigned for a newborn with a confirmed diagnosis of Short rib-polydactyly syndrome type 4. Let's break this down step-by-step. First, I need to think about the clinical entity and its classification within ICD-10. Then, I should verify whether there is a specific ICD-10 code for SRPS type 4 or if it falls under a broader category. Next, I will check authoritative coding sources and the OMIM-to-ICD mapping literature to confirm the most precise code. Finally, I will consider alternatives if a specific code is not available and ensure the coding rationale is documented clearly.
 
-> Let me first confirm the diagnosis and its nosology. Short rib-polydactyly syndrome type 4, also known as Beemer-Langer syndrome, is a lethal skeletal ciliopathy characterized by a narrow thorax, short ribs, limb shortening, and polydactyly, with multisystem involvement; it is part of the SRPS spectrum and is typically perinatally lethal, which aligns with the clinical description provided [^83b84966] [^7142f651].
+> Let me first confirm the diagnosis and its nosology. Short rib-polydactyly syndrome type 4, also known as Beemer-Langer syndrome, is a lethal skeletal ciliopathy characterized by a narrow thorax, short ribs, limb shortening, and polydactyly, with multisystem involvement; it is part of the SRPS spectrum and is typically perinatally lethal, which aligns with the clinical description provided [^114NHH7T] [^113tv6Nc].
 
 > Now, I need to check whether ICD-10 provides a specific code for SRPS type 4. Wait, let me verify the ICD-10 structure for skeletal dysplasias. The most specific subcategory for osteochondrodysplasias is Q77, and within that, Q77.2 specifically denotes "Short rib-polydactyly syndrome", without a subtype digit for type 4; this means ICD-10 does not offer a more granular code for SRPS subtypes, so Q77.2 is the correct and most specific available code for SRPS, including type 4 [^notfound].
 
@@ -40,13 +40,13 @@ Short rib-polydactyly syndrome type 4 (SRPS type 4), also known as Beemer-Langer
 - **Narrow thorax**: Due to markedly short ribs, leading to severe respiratory compromise.
 - **Polydactyly**: Both preaxial and postaxial polydactyly are common.
 - **Short limbs**: Disproportionate limb shortening, particularly the long bones.
-- **Other anomalies**: May include cleft lip/palate, congenital heart defects, renal anomalies, and brain malformations [^1bf0c181].
+- **Other anomalies**: May include cleft lip/palate, congenital heart defects, renal anomalies, and brain malformations [^111iRXur].
 
 ---
 
 ## Genetic basis of SRPS type 4
 
-SRPS type 4 is inherited in an autosomal recessive manner. Although the exact genetic defect remains unclear, mutations in genes involved in ciliogenesis and intraflagellar transport (IFT) have been implicated in related SRPS subtypes, such as DYNC2H1, WDR60, and IFT52 [^2b8afdcb] [^8cc479a7] [^b15ecd0c]. Genetic testing is essential for confirming the diagnosis and for **prenatal counseling** [^83b84966].
+SRPS type 4 is inherited in an autosomal recessive manner. Although the exact genetic defect remains unclear, mutations in genes involved in ciliogenesis and intraflagellar transport (IFT) have been implicated in related SRPS subtypes, such as DYNC2H1, WDR60, and IFT52 [^1127Z9tW] [^114bhG6i] [^115Xxekb]. Genetic testing is essential for confirming the diagnosis and for **prenatal counseling** [^114NHH7T].
 
 ---
 
@@ -78,7 +78,7 @@ Assigning the correct ICD-10 code (Q77.2) for SRPS type 4 has **important clinic
 
 ## Limitations of ICD-10 coding
 
-While ICD-10 provides a specific code for SRPS (Q77.2), it **does not distinguish between subtypes** (e.g. type 4). This limitation underscores the importance of detailed clinical documentation and the potential utility of ICD-11, which offers greater specificity and post-coordination capabilities for rare diseases [^a9a3b2d2].
+While ICD-10 provides a specific code for SRPS (Q77.2), it **does not distinguish between subtypes** (e.g. type 4). This limitation underscores the importance of detailed clinical documentation and the potential utility of ICD-11, which offers greater specificity and post-coordination capabilities for rare diseases [^115LVtjK].
 
 ---
 
@@ -90,7 +90,7 @@ The ICD-10 code for short rib-polydactyly syndrome type 4 is **Q77.2** (Short ri
 
 ## References
 
-### Cleft and craniofacial coding in ICD-10 [^f2229b68]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
+### Cleft and craniofacial coding in ICD-10 [^117BydQ3]. The Cleft Palate-Craniofacial Journal (2016). Low credibility.
 
 Objective
 
@@ -102,7 +102,7 @@ While seemingly beneficial in certain respects, the newer ICD-10 system remains 
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^a9a3b2d2]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^115LVtjK]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 Implications for phenotype representation
 
@@ -124,13 +124,13 @@ Recognizing the expressive power of post-coordination, one can create a cluster 
 
 ---
 
-### Whole exome sequencing, clinical exome or targeted gene panels: what to choose for suspected lethal skeletal dysplasia (short rib thoracic dysplasia type IV) [^83b84966]. BMJ Case Reports (2022). High credibility.
+### Whole exome sequencing, clinical exome or targeted gene panels: what to choose for suspected lethal skeletal dysplasia (short rib thoracic dysplasia type IV) [^114NHH7T]. BMJ Case Reports (2022). High credibility.
 
 Lethal skeletal dysplasias (SDs) are a heterogeneous group of rare but important genetic disorders characterised by abnormal growth and development of bone and cartilage. The phenotypic variation of SD highlights the complex aetiology for this group of disorders. Short rib polydactyly syndrome (SRPS) types I-IV are a group of rare congenital autosomal recessive types of SD. We report a case of a non-consanguineous couple whose two successive pregnancies were diagnosed with multiple congenital anomalies in fetuses suggestive of lethal SD (likely SRPS type IV) at 24 and 19 weeks period of gestation, respectively. Pregnancy was terminated, and the whole exome sequencing of the abortus for genetic analysis in the second pregnancy confirmed an autosomal recessive type of short rib thoracic dysplasia-4 (SRTD-4) also called SRPS in homozygous condition. Our case is unique as it was also associated with cystic hygroma which is a rare association with SRPS/SRTD-4.
 
 ---
 
-### Cancer risk in individuals with polydactyly: a Swedish population-based cohort study [^69766ef0]. British Journal of Cancer (2024). Medium credibility.
+### Cancer risk in individuals with polydactyly: a Swedish population-based cohort study [^113hMUrj]. British Journal of Cancer (2024). Medium credibility.
 
 Identification of individuals with polydactyly
 
@@ -144,7 +144,7 @@ Cancer in polydactyly was further investigated in relation to additional birth d
 
 ---
 
-### Polydactyly and risk of cancer [^ac06e1a7]. Journal of Pediatric Orthopedics (2025). Medium credibility.
+### Polydactyly and risk of cancer [^115Q3BXt]. Journal of Pediatric Orthopedics (2025). Medium credibility.
 
 Introduction
 
@@ -168,7 +168,7 @@ Retrospective cohort study, level of evidence III.
 
 ---
 
-### Epidemiology of congenital polydactyly and syndactyly in hunan province, China [^7e588bfe]. BMC Pregnancy and Childbirth (2024). Medium credibility.
+### Epidemiology of congenital polydactyly and syndactyly in hunan province, China [^114EKBYH]. BMC Pregnancy and Childbirth (2024). Medium credibility.
 
 Methods
 
@@ -188,13 +188,13 @@ We confirmed that informed consent was obtained from all subjects and/or their l
 
 ---
 
-### NEK1 mutations cause short-rib polydactyly syndrome type majewski [^397dce05]. American Journal of Human Genetics (2011). Low credibility.
+### NEK1 mutations cause short-rib polydactyly syndrome type majewski [^112UEYwN]. American Journal of Human Genetics (2011). Low credibility.
 
 Defects of ciliogenesis have been implicated in a wide range of human phenotypes and play a crucial role in signal transduction and cell-cycle coordination. We used homozygosity mapping in two families with autosomal-recessive short-rib polydactyly syndrome Majewski type to identify mutations in NEK1 as an underlying cause of this lethal osteochondrodysplasia. NEK1 encodes a serine/threonine kinase with proposed function in DNA double-strand repair, neuronal development, and coordination of cell-cycle-associated ciliogenesis. We found that absence of functional full-length NEK1 severely reduces cilia number and alters ciliar morphology in vivo. We further substantiate a proposed digenic diallelic inheritance of ciliopathies by the identification of heterozygous mutations in NEK1 and DYNC2H1 in an additional family. Notably, these findings not only increase the broad spectrum of ciliar disorders, but suggest a correlation between the degree of defective microtubule or centriole elongation and organization and the severity of the resulting phenotype.
 
 ---
 
-### An aetiological classification of birth defects for epidemiological research [^265f500e]. Journal of Medical Genetics (2005). Low credibility.
+### An aetiological classification of birth defects for epidemiological research [^111ytYYu]. Journal of Medical Genetics (2005). Low credibility.
 
 Background
 
@@ -210,7 +210,7 @@ A robust, hierarchical method of classifying birth defects into eight categories
 
 ---
 
-### Phenotypic heterogeneity in-related short-rib thoracic dysplasia: antenatal indicators and postnatal outcomes [^58561ed1]. Journal of Medical Genetics (2025). Medium credibility.
+### Phenotypic heterogeneity in-related short-rib thoracic dysplasia: antenatal indicators and postnatal outcomes [^113FxqZS]. Journal of Medical Genetics (2025). Medium credibility.
 
 Introduction
 
@@ -230,25 +230,25 @@ DYNC2H1 -related SRTD exhibits significant phenotypic variability which cannot b
 
 ---
 
-### Short-rib polydactyly and jeune syndromes are caused by mutations in WDR60 [^8cc479a7]. American Journal of Human Genetics (2013). Low credibility.
+### Short-rib polydactyly and jeune syndromes are caused by mutations in WDR60 [^114bhG6i]. American Journal of Human Genetics (2013). Low credibility.
 
 Short-rib polydactyly syndromes (SRPS I-V) are a group of lethal congenital disorders characterized by shortening of the ribs and long bones, polydactyly, and a range of extraskeletal phenotypes. A number of other disorders in this grouping, including Jeune and Ellis-van Creveld syndromes, have an overlapping but generally milder phenotype. Collectively, these short-rib dysplasias (with or without polydactyly) share a common underlying defect in primary cilium function and form a subset of the ciliopathy disease spectrum. By using whole-exome capture and massive parallel sequencing of DNA from an affected Australian individual with SRPS type III, we detected two novel heterozygous mutations in WDR60, a relatively uncharacterized gene. These mutations segregated appropriately in the unaffected parents and another affected family member, confirming compound heterozygosity, and both were predicted to have a damaging effect on the protein. Analysis of an additional 54 skeletal ciliopathy exomes identified compound heterozygous mutations in WDR60 in a Spanish individual with Jeune syndrome of relatively mild presentation. Of note, these two families share one novel WDR60 missense mutation, although haplotype analysis suggested no shared ancestry. We further show that WDR60 localizes at the base of the primary cilium in wild-type human chondrocytes, and analysis of fibroblasts from affected individuals revealed a defect in ciliogenesis and aberrant accumulation of the GLI2 transcription factor at the centrosome or basal body in the absence of an obvious axoneme. These findings show that WDR60 mutations can cause skeletal ciliopathies and suggest a role for WDR60 in ciliogenesis.
 
 ---
 
-### Mutations in DYNC2LI1 disrupt cilia function and cause short rib polydactyly syndrome [^918d04f1]. Nature Communications (2015). Medium credibility.
+### Mutations in DYNC2LI1 disrupt cilia function and cause short rib polydactyly syndrome [^114ina96]. Nature Communications (2015). Medium credibility.
 
 The short rib polydactyly syndromes (SRPSs) are a heterogeneous group of autosomal recessive, perinatal lethal skeletal disorders characterized primarily by short, horizontal ribs, short limbs and polydactyly. Mutations in several genes affecting intraflagellar transport (IFT) cause SRPS but they do not account for all cases. Here we identify an additional SRPS gene and further unravel the functional basis for IFT. We perform whole-exome sequencing and identify mutations in a new disease-producing gene, cytoplasmic dynein-2 light intermediate chain 1, DYNC2LI1, segregating with disease in three families. Using primary fibroblasts, we show that DYNC2LI1 is essential for dynein-2 complex stability and that mutations in DYNC2LI1 result in variable length, including hyperelongated, cilia, Hedgehog pathway impairment and ciliary IFT accumulations. The findings in this study expand our understanding of SRPS locus heterogeneity and demonstrate the importance of DYNC2LI1 in dynein-2 complex stability, cilium function, Hedgehog regulation and skeletogenesis.
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^77d27c46]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^1144eE85]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 ICD-11 (International Classification of Diseases, 11th Revision) is the next major revision of the ICD by the World Health Organization (WHO). ICD-11 differs dramatically from historical versions, as it is based on an underlying semantic network of terms and meaning, called the Foundation. To function as a mutually exclusive and exhaustive statistical classification, ICD-11 creates derivative linearizations from the network that is a monohierarchy with residual categories such as Not Elsewhere Classified. ICD-11 also introduces the widespread post-coordination of terms, which allows for highly expressive representation of detailed patient descriptions. Phenotyping features are included in many subchapters or the signs and symptoms chapter. Composite phenotype descriptions of specific presentations or syndromes can be represented though post-coordination. Rare diseases are well represented in the Foundation, though not all appear in the relatively shallow linearization hierarchies.
 
 ---
 
-### Surveillance of multiple congenital anomalies; searching for new associations [^b0f82e5d]. European Journal of Human Genetics (2024). Medium credibility.
+### Surveillance of multiple congenital anomalies; searching for new associations [^115XNBZE]. European Journal of Human Genetics (2024). Medium credibility.
 
 Subjects and methods
 
@@ -264,43 +264,43 @@ Thirty-two full-member registries covering 6,599,765 births provided 154,154 cas
 
 ---
 
-### IFT52 mutations destabilize anterograde complex assembly, disrupt ciliogenesis and result in short rib polydactyly syndrome [^b15ecd0c]. Human Molecular Genetics (2016). Low credibility.
+### IFT52 mutations destabilize anterograde complex assembly, disrupt ciliogenesis and result in short rib polydactyly syndrome [^115Xxekb]. Human Molecular Genetics (2016). Low credibility.
 
 The short-rib polydactyly syndromes (SRPS) encompass a radiographically and genetically heterogeneous group of skeletal ciliopathies that are characterized by a long narrow chest, short extremities, and variable occurrence of polydactyly. Radiographic abnormalities include undermineralization of the calvarium, shortened and bowed appendicular bones, trident shaped acetabula and polydactyly. In a case of SRPS we identified compound heterozygosity for mutations in IFT52, which encodes a component of the anterograde intraflagellar transport complex. The IFT52 mutant cells synthesized a significantly reduced amount of IFT52 protein, leading to reduced synthesis of IFT74, IFT81, IFT88 and ARL13B, other key anterograde complex members. Ciliogenesis was also disrupted in the mutant cells, with a 60% reduction in the presence of cilia on mutant cells and loss of cilia length regulation for the cells with cilia. These data demonstrate that IFT52 is essential for anterograde complex integrity and for the biosynthesis and maintenance of cilia. The data identify a new locus for SRPS and show that IFT52 mutations result in a ciliopathy with primary effects on the skeleton.
 
 ---
 
-### Laboratory testing for preconception / prenatal carrier screening: a technical standard of the American College of Medical Genetics and genomics (ACMG) [^7e7a542c]. Genetics in Medicine (2024). High credibility.
+### Laboratory testing for preconception / prenatal carrier screening: a technical standard of the American College of Medical Genetics and genomics (ACMG) [^114EWXfZ]. Genetics in Medicine (2024). High credibility.
 
 ACMG carrier screening Table 2 — Selected entries specify associated conditions, types of variants present, and recommended methodologies. CPT2 is linked to Carnitine Palmitoyltransferase II Deficiency, Infantile; Carnitine Palmitoyltransferase II Deficiency, Lethal Neonatal with types A and B and recommended methodologies Sequencing and Del/Dup. CYP11A1 lists Adrenal Insufficiency, Congenital, With 46, XY Sex Reversal, Partial or Complete with types A, B and C and recommended methodologies Sequencing and Del/Dup. CYP27B1 lists Vitamin D-Dependent Rickets, Type 1 with type A and recommended methodology Sequencing. DHCR7 lists Smith-Lemli-Opitz Syndrome with types A and B and recommended methodologies Sequencing and Del/Dup. DYNC2H1 lists Short-Rib Thoracic Dysplasia 3 With or Without Polydactyly with types A and B and recommended methodologies Sequencing and Del/Dup. FAH lists Tyrosinemia Type I with types A and B and recommended methodologies Sequencing and Del/Dup.
 
 ---
 
-### Naumoff short-rib polydactyly syndrome compounded with mohr oral-facial-digital syndrome [^31c919f6]. Pediatric Radiology (2001). Low credibility.
+### Naumoff short-rib polydactyly syndrome compounded with mohr oral-facial-digital syndrome [^112Gowad]. Pediatric Radiology (2001). Low credibility.
 
 A stillborn baby boy had findings of severe constitutional dwarfism with short limbs, short ribs, and polydactyly that were consistent with Naumoff (type III) short-rib polydactyly syndrome. He also had additional congenital anomalies, including cleft palate, notching of the upper lip, small tongue with accessory sublingual tissue. These oral and pharyngeal anomalies were consistent with Mohr (type II) oral-facial-digital syndrome. We suggest the stillborn infant represented a compound of Naumoff short-rib polydactyly syndrome (SRPS-III) and Mohr oral-facial-digital syndrome (OFDS-II).
 
 ---
 
-### An inactivating mutation in intestinal cell kinase, ICK, impairs Hedgehog signalling and causes short rib-polydactyly syndrome [^d7ccd169]. Human Molecular Genetics (2016). Low credibility.
+### An inactivating mutation in intestinal cell kinase, ICK, impairs Hedgehog signalling and causes short rib-polydactyly syndrome [^116Ww8mN]. Human Molecular Genetics (2016). Low credibility.
 
 The short rib polydactyly syndromes (SRPS) are a group of recessively inherited, perinatal-lethal skeletal disorders primarily characterized by short ribs, shortened long bones, varying types of polydactyly and concomitant visceral abnormalities. Mutations in several genes affecting cilia function cause SRPS, revealing a role for cilia function in skeletal development. To identify additional SRPS genes and discover novel ciliary molecules required for normal skeletogenesis, we performed exome sequencing in a cohort of patients and identified homozygosity for a missense mutation, p.E80K, in Intestinal Cell Kinase, ICK, in one SRPS family. The p.E80K mutation abolished serine/threonine kinase activity, resulting in altered ICK subcellular and ciliary localization, increased cilia length, aberrant cartilage growth plate structure, defective Hedgehog and altered ERK signalling. These data identify ICK as an SRPS-associated gene and reveal that abnormalities in signalling pathways contribute to defective skeletogenesis.
 
 ---
 
-### DYNC2H1 mutations cause asphyxiating thoracic dystrophy and short rib-polydactyly syndrome, type III [^2b8afdcb]. American Journal of Human Genetics (2009). Low credibility.
+### DYNC2H1 mutations cause asphyxiating thoracic dystrophy and short rib-polydactyly syndrome, type III [^1127Z9tW]. American Journal of Human Genetics (2009). Low credibility.
 
 Jeune asphyxiating thoracic dystrophy (ATD) is an autosomal-recessive chondrodysplasia characterized by short ribs and a narrow thorax, short long bones, inconstant polydactyly, and trident acetabular roof. ATD is closely related to the short rib polydactyly syndrome (SRP) type III, which is a more severe condition characterized by early prenatal expression and lethality and variable malformations. We first excluded IFT80 in a series of 26 fetuses and children belonging to 14 families diagnosed with either ATD or SRP type III. Studying a consanguineous family from Morocco, we mapped an ATD gene to chromosome 11q14.3-q23.1 in a 20.4 Mb region and identified homozygous mutations in the cytoplasmic dynein 2 heavy chain 1 (DYNC2H1) gene in the affected children. Compound heterozygosity for DYNC2H1 mutations was also identified in four additional families. Among the five families, 3/5 were diagnosed with ATD and 2/5 included pregnancies terminated for SRP type III. DYNC2H1 is a component of a cytoplasmic dynein complex and is directly involved in the generation and maintenance of cilia. From this study, we conclude that ATD and SRP type III are variants of a single disorder belonging to the ciliopathy group.
 
 ---
 
-### "Duplicate calcaneus": a rare developmental defect observed in several skeletal dysplasias [^182beda9]. Pediatric Radiology (2001). Low credibility.
+### "Duplicate calcaneus": a rare developmental defect observed in several skeletal dysplasias [^111cqTZJ]. Pediatric Radiology (2001). Low credibility.
 
 Duplication of the calcaneus is a rarely observed radiographic finding that probably results from delayed coalescence of two primary calcaneal centers of ossification. We performed a review of 2,500 computerized cases of skeletal dysplasias and syndromes with bone involvement in the International Skeletal Dysplasia Registry, searching for those cases in which a duplicate calcaneus had been recorded. We found that it was a non-random feature of three skeletal dysplasias and groups comprising thanatophoric dysplasia and the chondrodysplasia punctata and short rib (polydactyly) groups. We conclude that duplication of the calcaneus should be considered a consistent feature of these entities and may reflect a more generalized developmental defect.
 
 ---
 
-### Uncovering the heritable components of multimorbidities and disease trajectories using a nationwide cohort [^ad17814e]. Nature Communications (2024). High credibility.
+### Uncovering the heritable components of multimorbidities and disease trajectories using a nationwide cohort [^115Rckfo]. Nature Communications (2024). High credibility.
 
 Heritability and genetic correlation across the full spectrum of diseases
 
@@ -313,7 +313,7 @@ The most heritable disease areas were congenital malformations, endocrine diseas
 
 ---
 
-### Cleft lip sidedness and the association with additional congenital malformations [^ef2cf36d]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
+### Cleft lip sidedness and the association with additional congenital malformations [^1177b94p]. The Cleft Palate-Craniofacial Journal (2025). Medium credibility.
 
 Strengths and Limitations
 
@@ -323,13 +323,13 @@ The ICD-10 categorisation system of malformations is advantageous because it is 
 
 ---
 
-### WDR34 mutations that cause short-rib polydactyly syndrome type III / severe asphyxiating thoracic dysplasia reveal a role for the NF-κ B pathway in cilia [^a1be48c9]. American Journal of Human Genetics (2013). Low credibility.
+### WDR34 mutations that cause short-rib polydactyly syndrome type III / severe asphyxiating thoracic dysplasia reveal a role for the NF-κ B pathway in cilia [^1158nvQg]. American Journal of Human Genetics (2013). Low credibility.
 
 Short-rib polydactyly (SRP) syndrome type III, or Verma-Naumoff syndrome, is an autosomal-recessive chondrodysplasia characterized by short ribs, a narrow thorax, short long bones, an abnormal acetabulum, and numerous extraskeletal malformations and is lethal in the perinatal period. Presently, mutations in two genes, IFT80 and DYNC2H1, have been identified as being responsible for SRP type III. Via homozygosity mapping in three affected siblings, a locus for the disease was identified on chromosome 9q34.11, and homozygosity for three missense mutations in WDR34 were found in three independent families, as well as compound heterozygosity for mutations in one family. WDR34 encodes a member of the WD repeat protein family with five WD40 domains, which acts as a TAK1-associated suppressor of the IL-1R/TLR3/TLR4-induced NF-κB activation pathway. We showed, through structural modeling, that two of the three mutations altered specific structural domains of WDR34. We found that primary cilia in WDR34 mutant fibroblasts were significantly shorter than normal and had a bulbous tip. This report expands on the pathogenesis of SRP type III and demonstrates that a regulator of the NF-κB activation pathway is involved in the pathogenesis of the skeletal ciliopathies.
 
 ---
 
-### NEK1 and DYNC2H1 are both involved in short rib polydactyly majewski type but not in beemer langer cases [^7142f651]. Journal of Medical Genetics (2012). Low credibility.
+### NEK1 and DYNC2H1 are both involved in short rib polydactyly majewski type but not in beemer langer cases [^113tv6Nc]. Journal of Medical Genetics (2012). Low credibility.
 
 Background
 
@@ -349,19 +349,19 @@ This study confirms that NEK1 is one gene causing SRP type II but also reports m
 
 ---
 
-### Neonatal lethal dwarfism with distinct skeletal malformations – a separate entity? [^d07ee392]. Pediatric Radiology (2001). Low credibility.
+### Neonatal lethal dwarfism with distinct skeletal malformations – a separate entity? [^116L73cV]. Pediatric Radiology (2001). Low credibility.
 
 We describe a case of neonatal lethal dwarfism characterised by short trunk, short, stick-like tubular bones, deficient ossification of the axial skeleton and broad, sclerotic horizontal ribs. Two similar cases have previously been reported as examples of the Neu-Laxova syndrome. However, the radiological findings of the Neu-Laxova syndrome, as reported in 16 out of 40 documented cases, show a heterogeneous pattern of minor features, which differ distinctively from those found in the previous two cases and by us. A literature research did not reveal similar cases, and we therefore suggest that our case, together with the two previous cases, may represent a new distinctive form of neonatal lethal dwarfism.
 
 ---
 
-### Prevalence of microcephaly in Europe: population based study [^78a87154]. BMJ (2016). Excellent credibility.
+### Prevalence of microcephaly in Europe: population based study [^1145t6M1]. BMJ (2016). Excellent credibility.
 
 All EUROCAT registries use multiple sources of information to ascertain cases among all live births, late fetal deaths (> 20 weeks' gestation), and terminations of pregnancy for fetal anomaly at any gestation. Data sources, depending on registry, include maternity, neonatal, and paediatric records; fetal medicine, cytogenetic, pathology, and medical genetics records; specialist services including paediatric cardiology; and hospital discharge and child health records. The EUROCAT central database is hosted by the European Commission Joint Research Centre in Ispra, Italy, since 2015. Registries either submit individual anonymised records of cases of congenital anomalies (full members) or submit the same data in aggregate form (associate members). All cases are coded with ICD-9 or ICD-10 (international classification of diseases, ninth or 10th versions) with 1-digit British Paediatric Association (BPA) extension. In each case there can be one syndrome and up to eight malformation codes. All coding is standardised by using the EUROCAT guide (version 1.4) with isolated minor anomalies, such as skin tags, being excluded.
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^9939bc72]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^114vAVub]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 ICD-11
 
@@ -375,7 +375,7 @@ Another novel feature of Foundation terms is that each has a small information m
 
 ---
 
-### Biallelic KIF24 variants are responsible for a spectrum of skeletal disorders ranging from lethal skeletal ciliopathy to severe acromesomelic dysplasia [^4e3828a5]. Journal of Bone and Mineral Research (2022). Medium credibility.
+### Biallelic KIF24 variants are responsible for a spectrum of skeletal disorders ranging from lethal skeletal ciliopathy to severe acromesomelic dysplasia [^112zxu3S]. Journal of Bone and Mineral Research (2022). Medium credibility.
 
 Primary cilia are formed in quiescent cells or cells undergoing terminal differentiation. During this process, the mother centriole of the centrosome docks onto cellular membranes and then elongates to form the axoneme composed of nine doublets of microtubules. This initial step of ciliogenesis is controlled by complex cell cycle–regulated events in which CP110 and its partners, including the microtubule depolymerizing kinesin KIF24, play a crucial role. The ciliary membrane around the axoneme is highly enriched for specific signaling transmembrane proteins and its composition is maintained by a filter‐like region called the transition zone, present at the base of the cilium. Ciliary components, including signaling intermediates, are imported through the transition zone by an active process based on the intraflagellar transport (IFT) machinery, which is composed of two subcomplexes, IFT‐B and IFT‐A, involved in anterograde (import) and retrograde (IFT recycling, export) transport, respectively. IFT is dependent on microtubule‐based motors including Kinesin‐II (anterograde) and cytoplasmic dynein 2 (retrograde) and is required for ciliogenesis. Loss of function of most IFT components results in severe ciliogenesis defects (or very short stunted cilia for retrograde IFT) as well as in very early and severe developmental defects in vertebrates. However, hypomorphic mutations of IFT‐encoding genes are a common cause of ciliopathies in humans, mostly affecting the skeleton.
 
@@ -383,7 +383,7 @@ Skeletal ciliopathies mainly refer to the autosomal recessive group of short‐r
 
 ---
 
-### Risk estimates of recurrent congenital anomalies in the UK: a population-based register study [^3b9363fd]. BMC Medicine (2017). Low credibility.
+### Risk estimates of recurrent congenital anomalies in the UK: a population-based register study [^112XKn2Y]. BMC Medicine (2017). Low credibility.
 
 Identification of recurrent cases
 
@@ -399,7 +399,7 @@ Congenital anomalies occurring in successive pregnancies of the same woman were 
 
 ---
 
-### Shwachman-diamond syndrome: a complex case demonstrating the potential for misdiagnosis as asphyxiating thoracic dystrophy (jeune syndrome) [^5f788963]. BMC Pediatrics (2012). Low credibility.
+### Shwachman-diamond syndrome: a complex case demonstrating the potential for misdiagnosis as asphyxiating thoracic dystrophy (jeune syndrome) [^113SYK1t]. BMC Pediatrics (2012). Low credibility.
 
 Background
 
@@ -409,13 +409,13 @@ ATD was first described by Jeune et al. in a pair of siblings in 1955. It is an 
 
 ---
 
-### Complete loss of IFT27 function leads to a phenotypic spectrum of fetal lethal ciliopathy associated with altered ciliogenesis [^59b26ec8]. European Journal of Human Genetics (2025). Medium credibility.
+### Complete loss of IFT27 function leads to a phenotypic spectrum of fetal lethal ciliopathy associated with altered ciliogenesis [^113HyqEP]. European Journal of Human Genetics (2025). Medium credibility.
 
 Ciliopathies are rare genetic diseases marked by considerable phenotypic heterogeneity and overlap. Among the key mechanisms of cilium biology, its compartmentalization is achieved through gating complexes and active transport such as intraflagellar transport (IFT). Among the IFT components, IFT27 plays a role in BBSome-mediated transport of ciliary membrane proteins required for ciliary signaling. While this gene was first linked to Bardet-Biedl syndrome, we next expanded its phenotypic spectrum to a fetal lethal ciliopathy. Here, we identified a second fetal case with short ribs, polydactyly, hypodysplastic kidneys, imperforate anus, and situs inversus. Genome sequencing identified novel biallelic variants in IFT27. Functional analysis of tissues from both fetal cases revealed that all the identified variants lead to mRNA decay. Immunohistochemistry on fetal kidney sections showed that those variants are associated with altered ciliogenesis. Overall, we showed that complete loss of IFT27 function leads to a severe phenotypic spectrum overlapping with short ribs polydactyly and Pallister-Hall syndromes. In addition, our results argue for a role of IFT27 in ciliogenesis in humans.
 
 ---
 
-### Bardet-Biedl syndrome improved diagnosis criteria and management: inter European reference networks consensus statement and recommendations [^5750b37f]. European Journal of Human Genetics (2024). Medium credibility.
+### Bardet-Biedl syndrome improved diagnosis criteria and management: inter European reference networks consensus statement and recommendations [^113ET2hk]. European Journal of Human Genetics (2024). Medium credibility.
 
 Table 2
 List of the genes related to Bardet-Biedl syndrome (at the date of 08/2023).
@@ -428,13 +428,13 @@ The first replicated genotype-phenotype association was established for BBS16 (S
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^68ee46a4]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113gZkJF]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Our study has strengths and limitations. Strengths include the size of the population evaluated — which included over 13 million unique patients from a large commercial health plan population, representative of commercially-insured patients more generally. Our methodology, which included a detailed curation of indicators of genetic disease, allowed us to evaluate several different populations of patients based on different levels of specificity. Finally, our administrative claims-based approach allowed for a comprehensive assessment of direct healthcare-related utilization and costs. Several limitations should be considered in the interpretation of our results. First, as our methodology utilized insurance claims data as opposed to electronic health records, we are limited in our ability to interpret both diagnostic thinking and clinical decision-making. For example, while we observe substantial delays in genetic testing in many patients, the reasons for these delays are unclear and may be clinically warranted based on the unique circumstances of individual patients. Similarly, ICD-9/10 codes do not capture the granularity required to distinguish diagnosed genetic conditions. Human Phenotype Ontology (HPO) provides a deep ontology that relates detailed clinical features to both diseases and genes. Availability of HPO terms in a large data set like this would have improved our specificity in defining populations and HPO coding (or improvements in ICD coding informed by HPO) could contribute to future studies of genetic disease in populations. In addition, while some genetic diseases have specific ICD-9/10 codes, many do not; thus, we are unable to definitively determine the end of a diagnostic odyssey for many individual patients. Second, our definitions of possible, probable and definite genetic disease are based on expert opinion and manual curation. Not all patients with these features would have had a genetic diagnosis even if optimal testing had been performed. This is likely due to additional undescribed disease-causing genes, oligogenic and complex inheritance, and environmental phenocopies. How ICD-9/10 codes are used for insurance billing purposes may not be aligned with the diagnostic thinking of clinicians. Coding systems, including diagnosis and procedure codes, are used for billing purposes and are likely to fail to reflect the variability observed in clinical practice. Furthermore, a level of miscoding is presumed to occur as is inherent in claims database studies (e.g. a coding specialist may select the first code on a list of possible codes as opposed to the most appropriate code). Third, given the substantial health conditions of patients with genetic diseases, patients may transition to public insurance programs, switch between private insurance plans, or for other reasons stopped being observed in the database. Although our continuous enrollment requirements help control for some of this variability, there are inherent limitations to the comprehensiveness of the follow-up, which could also be exacerbated by the severity of the disease. Finally, in our selection of patients, we found a large number of newborns with codes indicating a possible genetic condition but no stay in a NICU. Because we required a stay in a NICU, these patients were excluded from analysis in the critically-ill infant population and were instead included in the pediatric population.
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^ac0479d3]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^115Q2Nfk]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Study population
 
@@ -442,7 +442,7 @@ Our methodology to define the study populations was developed with the goal of i
 
 ---
 
-### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^11ba64d1]. BMC Pediatrics (2014). Low credibility.
+### Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation [^111THQ32]. BMC Pediatrics (2014). Low credibility.
 
 Background
 
@@ -456,7 +456,7 @@ The original CCC system, now more than a decade old, warranted revision for 3 ma
 
 ---
 
-### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^9af73510]. BMC Pediatrics (2024). Medium credibility.
+### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^114xk8PH]. BMC Pediatrics (2024). Medium credibility.
 
 Background
 
@@ -464,14 +464,14 @@ During normal development, infants are born with 12 pairs of ribs, consistent be
 
 ---
 
-### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^4964c85a]. Journal of Medical Genetics (2013). Low credibility.
+### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^112sowyb]. Journal of Medical Genetics (2013). Low credibility.
 
 Figure 2
 Clinical features of DYNC2H1 patients. (A–E) Hallmarks of Jeune asphyxiating thoracic dystrophy (JATD): (A, JATD-5; B, JATD-16) Small thorax due to short ribs; (A, JATD-5, B, JATD-16, C, JATD-5, D, JATD-14) Small ilia with acetabular spurs; (C, JATD-5, D, JATD-14) Shortening of femurs, accompanied by bowing in (D, JATD-14); (E) 3D reconstruction of CT images of patient JATD-4. (F–I) Severity of the rib shortening varies between different patients from different families carrying DYNC2H1 mutations as well as between affected siblings: while patient JATD-5 presents with extremely shortened ribs (F), patient JATD-18 (UCL62.2) is only mildly affected (G). (H, I) Patient JATD-14 (H, UCL80.1) is markably more severely affected than his sister JATD-14 (I, UCL80.2). (J–L) Additional features: (J) scoliosis in JATD-2, (K) syndactyly in JATD-2, (L) ear malformation in JATD-16. (M–Q) Thoracic narrowing becomes less pronounced with increasing patient age. (M) Shows patient JATD-16 at under 5 years; the same patient is shown a few years later in (N) at under 10 years. (O) Patient JATD-3 in his 20s, (P) patient JATD-2 in his late teens, (Q) patient JATD-1 in his mid-20s these cases have less pronounced thoracic phenotypes compared to birth or infancy, as described in the text. Note also that shortening of the upper limbs seems less severe when JATD patients reach adolescence.
 
 ---
 
-### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^9202e7d7]. Journal of Medical Genetics (2013). Low credibility.
+### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^114jUAkW]. Journal of Medical Genetics (2013). Low credibility.
 
 Introduction
 
@@ -479,7 +479,7 @@ Asphyxiating thoracic dystrophy or Jeune syndrome (Jeune asphyxiating thoracic d
 
 ---
 
-### The rendering of human phenotype and rare diseases in ICD-11 [^28d3d4c4]. Journal of Inherited Metabolic Disease (2018). Low credibility.
+### The rendering of human phenotype and rare diseases in ICD-11 [^1123Xf5M]. Journal of Inherited Metabolic Disease (2018). Low credibility.
 
 Classifications
 
@@ -487,13 +487,13 @@ Classifications are not ontologies, nor are they intended to be. In their most s
 
 ---
 
-### Pediatric application of coding and valuation systems [^449cf18a]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^112kisfo]. Pediatrics (2019). High credibility.
 
 Pediatric diagnostic classification — ICD-10-CM and DC: 0–5 relationship states that although the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) remains the HIPAA-mandated code set for diagnostic selection in electronic transactions, mental health disorders in infancy and early childhood are also addressed by the Diagnostic Classification of Mental and Developmental Disorders of Infancy and Early Childhood (DC: 0–5). DC: 0–5 is "especially relevant to pediatrics", crosswalks to ICD-10-CM exist but are "not one-to-one", and DC: 0–5 "is not intended to represent a claims-based diagnostic set" but "is intended to complement ICD-10-CM" with guidance such as cultural variables. As ICD-10-CM expands yearly with new codes, alignment opportunities between DC: 0–5 and ICD-10-CM may increase.
 
 ---
 
-### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^03ebdedf]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
+### Treacher Collins syndrome in the United States: examining incidence and inpatient interventions [^1116pByY]. The Cleft Palate-Craniofacial Journal (2021). Medium credibility.
 
 Objective
 
@@ -521,7 +521,7 @@ Treacher Collins syndrome is a rare craniofacial disorder requiring complex mult
 
 ---
 
-### LD26.2 syndromes with limb duplication, polydactyly, syndactyly or… [^e3f0bc04]. Find-A-Code (2025). Medium credibility.
+### LD26.2 syndromes with limb duplication, polydactyly, syndactyly or… [^116pw3rb]. Find-A-Code (2025). Medium credibility.
 
 ICD-11 MMS 20 Developmental anomalies Multiple developmental anomalies or syndromes LD26 Syndromes with limb anomalies as a major feature. LD26. 2 Syndromes with limb duplication, polydactyly, syndactyly or triphalangism. International Classification of Diseases for Mortality and Morbidity Statistics, 11th Revision, v2025-01 Any syndrome caused by failure of the limbs to correctly develop during the antenatal period. These syndromes are characterised by supernumerary limbs or digits, fused digits, or supernumerary phalanges. exclusions postcoordination Add Stem and/or Extension codes to form a cluster code which adds detail to the condition. Laterality
 - only one may be selected. synonyms
@@ -555,7 +555,7 @@ ICD-11 MMS 20 Developmental anomalies Multiple developmental anomalies or syndro
 
 ---
 
-### Cell-based assay for ciliopathy patients to improve accurate diagnosis using ALPACA [^ba1ec1d3]. European Journal of Human Genetics (2021). Medium credibility.
+### Cell-based assay for ciliopathy patients to improve accurate diagnosis using ALPACA [^115kw2ca]. European Journal of Human Genetics (2021). Medium credibility.
 
 Introduction
 
@@ -563,7 +563,7 @@ Skeletal ciliopathies are a group of rare congenital disorders caused by dysfunc
 
 ---
 
-### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^e9103ea5]. Journal of Human Genetics (2021). Medium credibility.
+### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^116xXa8k]. Journal of Human Genetics (2021). Medium credibility.
 
 Results
 
@@ -580,19 +580,19 @@ ATD asphyxiating thoracic dystrophy, CED Cranioectodermal dysplasia, d days, DD 
 
 ---
 
-### Inbreeding, native American ancestry and child mortality: linking human selection and paediatric medicine [^194452cc]. Human Molecular Genetics (2022). Medium credibility.
+### Inbreeding, native American ancestry and child mortality: linking human selection and paediatric medicine [^111eTe6P]. Human Molecular Genetics (2022). Medium credibility.
 
 Table 2 shows the estimated SMR for certain conditions originating in the perinatal period and congenital malformations, deformations and chromosomal abnormalities. Bold type is used to highlight SMR with associated probability values lower than 0.002 (0.05/23), and therefore significant after accounting for multiple testing. SROH was associated with an increased mortality due to disorders related to short gestation and low birth weight, not elsewhere classified (ICD-10 code P07, 3% risk increase per Mb in SROH, 95%CI: 1–4%) and to intracranial non-traumatic haemorrhage of foetus and newborn (ICD-10 code P52, 5% risk increase per Mb in SROH, 95%CI: 2–9%). The proportion of Aymara–Quechua ancestry was associated with an increased mortality due to respiratory distress of newborn (ICD-10 code P22, 3% increased risk per 1% ancestry proportion, 95%CI: 1–5%) and to anencephaly and similar malformations (ICD-10 code Q00, 5% increased risk per 1% ancestry proportion, 95%CI: 3–7%), and with a decreased mortality due to Edwards syndrome and Patau syndrome (ICD-10 code Q91, 4% decreased risk per 1% ancestry proportion, 95%CI: −6 to −2%). The proportion of Mapuche–Huilliche ancestry was associated with an increased mortality due to other congenital malformations of brain (ICD-10 code Q04, 7% increased risk per 1% ancestry proportion, 95%CI: 2–12%) and with a decreased mortality due to Edwards syndrome and Patau syndrome (ICD-10 code Q91, 5% decreased risk per 1% ancestry proportion, 95%CI: −8 to −2%).
 
 ---
 
-### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^69944977]. European Journal of Human Genetics (2024). Medium credibility.
+### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^113hXWTG]. European Journal of Human Genetics (2024). Medium credibility.
 
 Orofaciodigital syndrome is a distinctive subtype of skeletal ciliopathies. Disease-causing variants in the genes encoding the CPLANE complex result in a wide variety of skeletal dysplasia with disturbed ciliary functions. The phenotypic spectrum includes orofaciodigital syndrome and short rib polydactyly syndrome. FUZ, as a part of the CPLANE complex, is involved in intraflagellar vesicular trafficking within primary cilia. Previously, the variants, c.98_111+9del and c.851G > T in FUZ were identified in two individuals with a skeletal ciliopathy, manifesting digital anomalies (polydactyly, syndactyly), orofacial cleft, short ribs and cardiac defects. Here, we present two novel variants, c.601G > A and c.625_636del in biallelic state, in two additional subjects exhibiting phenotypic overlap with the previously reported cases. Our findings underscore the association between biallelic loss of function variants in FUZ and skeletal ciliopathy akin to orofaciodigital syndrome.
 
 ---
 
-### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^e9dfea59]. European Journal of Human Genetics (2024). Medium credibility.
+### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^116yjKtL]. European Journal of Human Genetics (2024). Medium credibility.
 
 Introduction
 
@@ -602,7 +602,7 @@ The primary cilia is a non-motile protrusion from the cell surface of most mamma
 
 ---
 
-### An exome sequencing strategy to diagnose lethal autosomal recessive disorders [^72c6b541]. European Journal of Human Genetics (2015). Low credibility.
+### An exome sequencing strategy to diagnose lethal autosomal recessive disorders [^113wALGg]. European Journal of Human Genetics (2015). Low credibility.
 
 Discussion
 
@@ -614,7 +614,7 @@ Heterozygous variants in the RYR1 gene are a known cause of susceptibility to ma
 
 ---
 
-### Leveraging novel diagnostic codes for craniosynostosis by suture type in surgical database research [^b017c5cb]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2025). Medium credibility.
+### Leveraging novel diagnostic codes for craniosynostosis by suture type in surgical database research [^115W4oj8]. Journal of Plastic, Reconstructive & Aesthetic Surgery (2025). Medium credibility.
 
 Background
 
@@ -634,13 +634,13 @@ The release of new diagnostic codes has allowed for the confirmation of known tr
 
 ---
 
-### Child with suspected short stature [^78c75e66]. PES (2020). High credibility.
+### Child with suspected short stature [^11464UqK]. PES (2020). High credibility.
 
 Differential diagnosis of short stature — other causes are organized by category, including endocrine abnormalities (growth hormone deficiency, hypothyroidism, Cushing's syndrome, growth hormone insensitivity), metabolic disease (rickets, diabetes mellitus), and syndromic diagnoses (Turner's syndrome, Noonan's syndrome, Trisomy 21, Russell-Silver Syndrome, Prader-Willi Syndrome).
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^0c3ce87b]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^111K9Jy8]. NPJ Genomic Medicine (2021). Medium credibility.
 
 By definition, ICD-9/10 codes are intended to classify diseases or conditions; thus, some ICD-9/10 codes definitively identify specific genetic diseases whereas others indicate clinical presentations that may be an accepted indication to test for a genetic disease. As such, as described previously, ICD-9/10 codes were first categorized into three sets: (1) definite genetic disease; (2) probable genetic disease; and (3) possible genetic disease. The definite category was defined by ICD-9/10 codes that identify specific genetic diseases (e.g. cystic fibrosis, Down syndrome, specific inborn errors of metabolism). Probable genetic diseases were defined as ICD-9/10 codes that describe clinical presentations wherein a genetic etiology is likely to be achieved with appropriate genetic testing in > 30% of patients with these codes (e.g. neonatal intractable epilepsy). Finally, possible genetic diseases were defined as ICD-9/10 codes that describe clinical presentations wherein a genetic etiology is likely to be achieved with appropriate testing in ~10–30% of patients (e.g. most severe birth defects, such as congenital central nervous system, and cardiac malformations). We further identified ICD-9/10 codes where there are established and specific clinical and/or laboratory diagnostic criteria and availability of established and commonly administered targeted diagnostic tests (e.g. cystic fibrosis, sickle cell disorders, neurofibromatosis), and therefore patients with these codes would be less likely to present clinically as an undiagnosed genetic disease. CPT and HCPCS codes were categorized into two categories: (1) genetic tests (e.g. specific single-gene tests, molecular pathology, chromosomal microarray (CMA), ES); and (2) other procedures that are commonly used in the workup of patients with suspected genetic diseases (e.g. electrophysiologic tests, imaging, skin or muscle biopsies, etc), though we acknowledge this second category includes codes that are not specific to the workup of patients with suspected genetic diseases.
 
@@ -648,13 +648,13 @@ We used combinations of this curated code sets to group patients into three non-
 
 ---
 
-### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^57242efe]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
+### Clinician's primer to ICD-10-CM coding for cleft lip / palate care [^113EC5Rw]. The Cleft Palate-Craniofacial Journal (2017). Low credibility.
 
 On October 1, 2015, the United States required use of the Clinical Modification of the International Classification of Diseases, 10th Revision (ICD-10-CM) for diagnostic coding. This primer was written to assist the cleft care community with understanding and use of ICD-10-CM for diagnostic coding related to cleft lip and/or palate (CL/P).
 
 ---
 
-### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^1bf0c181]. Journal of Human Genetics (2021). Medium credibility.
+### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^111iRXur]. Journal of Human Genetics (2021). Medium credibility.
 
 Introduction
 
@@ -666,7 +666,7 @@ In this study, we report disease-causing variants in nine ciliopathy genes and s
 
 ---
 
-### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^934fd91b]. BMC Pediatrics (2024). Medium credibility.
+### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^114mPzzW]. BMC Pediatrics (2024). Medium credibility.
 
 Statistical analysis
 
@@ -674,7 +674,7 @@ SPSS 22.0 was used for statistical analysis of the data. The data were described
 
 ---
 
-### Congenital Tooth agenesis and risk of early-onset cancer [^889daa20]. JAMA Network Open (2024). High credibility.
+### Congenital Tooth agenesis and risk of early-onset cancer [^114VYGsy]. JAMA Network Open (2024). High credibility.
 
 Cancer Diagnosis
 
@@ -686,13 +686,13 @@ A syndrome diagnosis was defined as either an abnormal karyotype (except balance
 
 ---
 
-### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^8e822702]. Journal of Medical Genetics (2013). Low credibility.
+### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^114eGxbB]. Journal of Medical Genetics (2013). Low credibility.
 
 Mutations in several different genes cause JATD. These genes, IFT80, TTC21B/IFT139, IFT140, WDR19/IFT144 and DYNC2H1 all encode proteins that participate in ciliary intraflagellar transport (IFT), an evolutionarily conserved process which is essential for ciliogenesis and governs a variety of important cell signalling events that are key to normal human development. In IFT, two protein complexes IFT-A and IFT-B are bidirectionally transported in cilia by molecular motors, along with essential ciliary cargos. The IFT80 protein is part of the IFT-B particle that consists of at least 14 proteins, which in association with kinesin-2 motors drives anterograde transport from the ciliary base to the tip while IFT139, IFT140 and IFT144 are all part of the IFT-A particle that consists of six proteins and in association with the cytoplasmic IFT dynein-2/1b motor drives retrograde transport from the ciliary tip to the base. The other three IFT-A members, IFT122, IFT43 and WDR35, are mutated in Sensenbrenner syndrome. Similarly, IFT144 and IFT80 are also mutated in overlapping milder syndromes and in more severe type III short-rib polydactyly. IFT140 mutations were recently described in Mainzer-Saldino syndrome patients, and a subset of JATD patients with early end stage renal disease and frequent retinopathy. Besides DYNC2H1 deficiency underlying JATD, 13 mutations have also been reported in patients with two of the severe short-rib polydactyly subtypes, Majewski syndrome (SRPS type II; MIM 263520)and Verma-Neumoff syndrome (SRPS type III; MIM 263510). One SRPS type II family carrying double heterozygous pathogenic mutations in both NEK1 and DYNC2H1 was also suggestive of possible digenic inheritance.NEK1 dysfunction affects ciliogenesis and since the protein was localised to the basal body and within the cilium, a role in IFT was suggested.
 
 ---
 
-### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^52122b69]. BMC Pediatrics (2024). Medium credibility.
+### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^1136g65e]. BMC Pediatrics (2024). Medium credibility.
 
 Conclusions
 
@@ -700,13 +700,13 @@ In conclusion, the results of this study suggest that children with congenital r
 
 ---
 
-### Pediatric application of coding and valuation systems [^da217d43]. Pediatrics (2019). High credibility.
+### Pediatric application of coding and valuation systems [^116aPYrn]. Pediatrics (2019). High credibility.
 
 Standardized code sets — HIPAA mandate and ICD-10 governance in the United States — are described as follows: Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the Secretary of the Department of Health and Human Services mandates use of standardized code sets in support of electronic health care transactions, which include International Classification of Diseases, 10th Revision (ICD-10); Healthcare Common Procedure Coding System (HCPCS); Current Procedural Terminology (CPT); National Drug Codes (NDCs); and Current Dental Terminology. The World Health Organization created the ICD-10 with adaptability for expansion and specificity for enhanced measurement, surveillance, research, and reporting across multiple domains, and it was clinically modified and initiated in the United States on October 1, 2015. The 4 cooperating parties that oversee and manage the ICD-10 in the United States are the Centers for Medicare and Medicaid Services (CMS), the National Center for Health Statistics at the Centers for Disease Control and Prevention, the American Health Information Management Association, and the American Hospital Association.
 
 ---
 
-### Ellis-van creveld syndrome: clinical and molecular analysis of 50 individuals [^ab3b5b9f]. Journal of Medical Genetics (2023). Medium credibility.
+### Ellis-van creveld syndrome: clinical and molecular analysis of 50 individuals [^115NrpaJ]. Journal of Medical Genetics (2023). Medium credibility.
 
 Background
 
@@ -726,19 +726,19 @@ We confirmed that EVC and EVC2 are the major genes involved in the EVC phenotype
 
 ---
 
-### Ciliary abnormalities due to defects in the retrograde transport protein DYNC2H1 in short-rib polydactyly syndrome [^3112c45a]. American Journal of Human Genetics (2009). Low credibility.
+### Ciliary abnormalities due to defects in the retrograde transport protein DYNC2H1 in short-rib polydactyly syndrome [^112FkhRK]. American Journal of Human Genetics (2009). Low credibility.
 
 The short-rib polydactyly (SRP) syndromes are a heterogeneous group of perinatal lethal skeletal disorders with polydactyly and multisystem organ abnormalities. Homozygosity by descent mapping in a consanguineous SRP family identified a genomic region that contained DYNC2H1, a cytoplasmic dynein involved in retrograde transport in the cilium. Affected individuals in the family were homozygous for an exon 12 missense mutation that predicted the amino acid substitution R587C. Compound heterozygosity for one missense and one null mutation was identified in two additional nonconsanguineous SRP families. Cultured chondrocytes from affected individuals showed morphologically abnormal, shortened cilia. In addition, the chondrocytes showed abnormal cytoskeletal microtubule architecture, implicating an altered microtubule network as part of the disease process. These findings establish SRP as a cilia disorder and demonstrate that DYNC2H1 is essential for skeletogenesis and growth.
 
 ---
 
-### Mesomelic campomelia, polydactyly and dandy-walker cyst in siblings [^6ed9fab3]. Prenatal Diagnosis (2001). Low credibility.
+### Mesomelic campomelia, polydactyly and dandy-walker cyst in siblings [^113qLraW]. Prenatal Diagnosis (2001). Low credibility.
 
 The present report describes two fetuses, one female and one male, with thus far undescribed skeletal malformations. The mother was a gravida 2, para 0. Both pregnancies were terminated in the second trimester because of multiple congenital anomalies diagnosed ultrasonographically resembling a short rib-polydactyly syndrome. Both fetuses were found to have postaxial hexadactyly of the hands and feet, marked bilateral campomelia of the forearm and shank bones, and a Dandy-Walker cyst. In addition, the fourth ventricle was dilated in the first sibling and the second sibling had an inverse intestinal malrotation. A literature search failed to reveal similar observations.
 
 ---
 
-### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^c2be323e]. European Journal of Human Genetics (2024). Medium credibility.
+### Biallelic loss of function variants in FUZ result in an orofaciodigital syndrome [^115yiUzZ]. European Journal of Human Genetics (2024). Medium credibility.
 
 Discussion
 
@@ -752,7 +752,7 @@ Zhang et al. described a bi-allelic splice variant c.98_111+9del leading to fram
 
 ---
 
-### Specialty mediated 30-day complications in first rib resection for thoracic outlet syndrome [^6c6fee9b]. The Journal of Surgical Research (2021). Medium credibility.
+### Specialty mediated 30-day complications in first rib resection for thoracic outlet syndrome [^113mmG3k]. The Journal of Surgical Research (2021). Medium credibility.
 
 Background
 
@@ -772,7 +772,7 @@ The significantly increased operative times and transfusion requirements associa
 
 ---
 
-### Diagnostic yield of panel-based genetic testing in syndromic inherited retinal disease [^a4f0e24d]. European Journal of Human Genetics (2020). Medium credibility.
+### Diagnostic yield of panel-based genetic testing in syndromic inherited retinal disease [^115DXt1r]. European Journal of Human Genetics (2020). Medium credibility.
 
 Referrals with unknown diagnoses
 
@@ -782,7 +782,7 @@ Panel testing identified a probable genetic diagnosis in 13 of these 51 patients
 
 ---
 
-### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^c2389deb]. Genetics in Medicine (2021). Medium credibility.
+### Can you hear us now? The impact of health-care utilization by rare disease patients in the United States [^115xwcf4]. Genetics in Medicine (2021). Medium credibility.
 
 Purpose
 
@@ -802,19 +802,19 @@ Pediatric and adult discharges with RDs show substantially higher health-care ut
 
 ---
 
-### An introduction to standardized clinical nomenclature for dysmorphic features: the elements of morphology project [^b6f0bf85]. BMC Medicine (2010). Low credibility.
+### An introduction to standardized clinical nomenclature for dysmorphic features: the elements of morphology project [^115gDcSY]. BMC Medicine (2010). Low credibility.
 
 Human structural malformations (anomalies or birth defects) have an enormous and complex range of manifestations and severity. The description of these findings can be challenging because the variation of many of the features is continuous and only some of them can be objectively assessed (that is, measured), among other factors. An international group of clinicians resolved to develop a set of terms that could be used to describe human structural malformations, under the general project name 'Elements of Morphology'. Here, the background to the project, progress to date, and the practical implementation of the terminology in research reporting is discussed.
 
 ---
 
-### An exome sequencing strategy to diagnose lethal autosomal recessive disorders [^b79392ad]. European Journal of Human Genetics (2015). Low credibility.
+### An exome sequencing strategy to diagnose lethal autosomal recessive disorders [^115hAJXN]. European Journal of Human Genetics (2015). Low credibility.
 
 Rare disorders resulting in prenatal or neonatal death are genetically heterogeneous. For some conditions, affected fetuses can be diagnosed by ultrasound scan, but this is not usually possible until mid-gestation. There is often limited fetal DNA available for investigation. We investigated a strategy for diagnosing autosomal recessive lethal disorders in non-consanguineous pedigrees with multiple affected fetuses. Exome sequencing was performed to identify genes where each parent is heterozygous for a rare non-synonymous-coding or splicing variant. Putative pathogenic variants were tested for cosegregation in affected fetuses and unaffected siblings. In eight couples of European ancestry, we found on average 1.75 genes (range 0–4) where both parents were heterozygous for rare potentially deleterious variants. A proof-of-principle study detected heterozygous DYNC2H1 variants in a couple whose five fetuses had short-rib polydactyly. Prospective analysis of two couples with multiple pregnancy terminations for fetal akinesia syndrome was performed and a diagnosis was obtained in both the families. The first couple were each heterozygous for a previously reported GLE1 variant, p. Arg569His or p. Val617Met; both were inherited by their two affected fetuses. The second couple were each heterozygous for a novel RYR1 variant, c.14130-2A > G or p. Ser3074Phe; both were inherited by their three affected fetuses but not by their unaffected child. Biallelic GLE1 and RYR1 disease-causing variants have been described in other cases with fetal akinesia syndrome. We conclude that exome sequencing of parental samples can be an effective tool for diagnosing lethal recessive disorders in outbred couples. This permits early prenatal diagnosis in future pregnancies.
 
 ---
 
-### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^e8618a9a]. Journal of Medical Genetics (2013). Low credibility.
+### Exome sequencing identifies DYNC2H1 mutations as a common cause of asphyxiating thoracic dystrophy (jeune syndrome) without major polydactyly, renal or retinal involvement [^116wWte5]. Journal of Medical Genetics (2013). Low credibility.
 
 Variable thoracic phenotype severity in JATD patients with DYNC 2H1 mutations
 
@@ -822,7 +822,7 @@ DYNC2H1 mutations in our genetically defined JATD cohort primarily result in def
 
 ---
 
-### PUF60 variants cause a syndrome of ID, short stature, microcephaly, coloboma, craniofacial, cardiac, renal and spinal features [^30661e67]. European Journal of Human Genetics (2017). Low credibility.
+### PUF60 variants cause a syndrome of ID, short stature, microcephaly, coloboma, craniofacial, cardiac, renal and spinal features [^112Ekhxi]. European Journal of Human Genetics (2017). Low credibility.
 
 Musculoskeletal
 
@@ -834,19 +834,19 @@ Two patients had very narrow and easily occluded external auditory meatus, two h
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^9e909b34]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^11545cgb]. NPJ Genomic Medicine (2021). Medium credibility.
 
 In the newborn population, 29,348 critically-ill newborns met the Broad cohort criteria. This represented 2.3% of the total eligible newborn population (n = 1,303,762) and 44.7% of the total eligible population with a NICU stay (65,695 in the Control and Broad populations). A total of 8723 critically-ill newborns (0.7% of all newborns and 13.3% of all newborns with a NICU stay) had ICD-9/10 codes for MCA/ID/DD/E (primarily MCA and E in this cohort). Finally, 1,924 critically-ill newborns (0.1% of all newborns, and 2.9% of all newborns with a NICU stay) met the Conservative cohort definition which required at least one genetic test (Table 1). There was a sizable number of newborns with a code from our curated list but did not have a qualifying NICU stay (n = 125,719 for the Broad cohort) and were therefore excluded from this population and incorporated into the pediatric population.
 
 ---
 
-### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^9c9cf4f0]. Chest (2012). Low credibility.
+### New coding in the international classification of diseases, ninth revision, for children's interstitial lung disease [^1151Bnj9]. Chest (2012). Low credibility.
 
 The term "children's interstitial lung disease" (chILD) refers to a heterogeneous group of rare and diffuse lung diseases associated with significant morbidity and mortality. These disorders include neuroendocrine cell hyperplasia of infancy, pulmonary interstitial glycogenosis, surfactant dysfunction mutations, and alveolar capillary dysplasia with misalignment of pulmonary veins. Diagnosis can be challenging, which may lead to a delay in recognition and treatment of these disorders. Recently, International Classifications of Diseases, Ninth Revision codes have been added for several of the chILD disorders. The purpose of this article is to give an overview of the chILD disorders and appropriate diagnostic coding.
 
 ---
 
-### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^f07190d7]. Journal of Human Genetics (2021). Medium credibility.
+### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^1179UB5G]. Journal of Human Genetics (2021). Medium credibility.
 
 Molecular findings
 
@@ -863,7 +863,7 @@ ATD asphyxiating thoracic dystrophy, CED cranioectodermal dysplasia, chr chromos
 
 ---
 
-### Outcomes of posterior spinal fusion in pediatric patients with down syndrome [^b28ba4ac]. The Journal of Bone and Joint Surgery: American Volume (2022). Medium credibility.
+### Outcomes of posterior spinal fusion in pediatric patients with down syndrome [^115Zhhdd]. The Journal of Bone and Joint Surgery: American Volume (2022). Medium credibility.
 
 Background
 
@@ -887,13 +887,13 @@ Prognostic Level III. See Instructions for Authors for a complete description of
 
 ---
 
-### Syndromic craniofacial disorders [^e8f5fa77]. Facial Plastic Surgery Clinics of North America (2024). Medium credibility.
+### Syndromic craniofacial disorders [^116xNkRc]. Facial Plastic Surgery Clinics of North America (2024). Medium credibility.
 
 This article reviews the most common craniofacial syndromes encountered in clinical practice. Key physical features of each condition are highlighted to aid in accurate recognition and diagnosis. Optimal individualized treatment approaches are discussed.
 
 ---
 
-### Common genetic variation associated with mendelian disease severity revealed through cryptic phenotype analysis [^2762146a]. Nature Communications (2022). High credibility.
+### Common genetic variation associated with mendelian disease severity revealed through cryptic phenotype analysis [^1121PTjo]. Nature Communications (2022). High credibility.
 
 Aligning rare diseases to structured medical data
 
@@ -907,31 +907,31 @@ Cryptic phenotype analysis (CPA) refers to the process by which a set of symptom
 
 ---
 
-### Diagnosis of lethal or prenatal-onset autosomal recessive disorders by parental exome sequencing [^0f953b7b]. Prenatal Diagnosis (2018). Low credibility.
+### Diagnosis of lethal or prenatal-onset autosomal recessive disorders by parental exome sequencing [^111Q6wWS]. Prenatal Diagnosis (2018). Low credibility.
 
 Similarly, recessive pathogenic IFT122 variants are known to cause Cranioectodermal dysplasia 1, 30 which is a nonlethal condition where patients present with craniofacial, skeletal, and ectodermal abnormalities. One couple has been reported with recurrent pregnancy losses and compound heterozygosity for 2 IFT122 mutations (a missense and frameshift). 31 More recently, IFT122 biallelic variants, a missense and a frameshift, were identified in a male infant born prematurely at 31/40 weeks of gestation with a typical phenotype of short‐rib polydactyly type IV. 32 We found compound heterozygous IFT122 variants in 1 family (case 7) with a skeletal dysplasia. The paternally inherited variant was a large insertion‐deletion in exon 17 of IFT122. In‐frame insertions and deletions in nonrepetitive regions of greater than 1 amino acid are considered more likely to disrupt protein function than a missense variant alone; the larger the deletion or insertion, the more likely it is to be pathogenic. 10 These large in‐frame insertions/deletions are rare in population databases reflecting the fact that they generally have deleterious effects on protein structure and folding, particularly when they overlap or occur within regions of secondary structure. In silico tools predicted aberrant splicing due to a maternal variant, c.3039+4A > G in intron 24, and messenger RNA studies supported that prediction with skipping of exon 24 observed in a maternal blood sample. Thus, evidence suggests that these 2 variants are likely to be pathogenic and provide a plausible explanation of the phenotype seen in their affected offspring. This case also illustrates the extended spectrum of phenotypes associated with known disorders identified due to exome sequencing.
 
 ---
 
-### International classification of diseases (ICD-11) and neurologic disorders: the future [^cd55411e]. Neurology (2013). Low credibility.
+### International classification of diseases (ICD-11) and neurologic disorders: the future [^116FR6fF]. Neurology (2013). Low credibility.
 
 When the WHO's Topic Advisory Group for Neurology (TAG) started work on revision of the ICD-10 diagnostic codes in June 2009, the issues were daunting. The existing classification was produced a generation ago and the need to move to the digital age was becoming imperative. Appreciating modern advances in genetics and immunology, and the consequent changes in understanding of the pathophysiology of disorders of the nervous system, WHO's charge to the TAG was to produce a comprehensive, up-to-date disease classification, while providing published or consensus evidence for each coding change. In addition, the task would be to focus on ways to reduce the treatment gap while considering the utility of ICD-11 when used in primary care and nonspecialist settings. The project mushroomed over the 3 years since our first meeting and continues to do so. The work was made even more difficult as the group needed to add "content models" for the major codes for the first time (i.e., providing a definition for each disorder, along with appropriate diagnostic tests and outcome). The ICD-11 is meant to be updated as new knowledge develops, rather than waiting some years for another whole-scale revision, but this process has yet to be defined.
 
 ---
 
-### Identifying the misshapen head: craniosynostosis and related disorders [^f98c178d]. Pediatrics (2020). High credibility.
+### Identifying the misshapen head: craniosynostosis and related disorders [^117NxyPA]. Pediatrics (2020). High credibility.
 
 Crouzon syndrome — clinical features and genetics include that progressive sutural fusion has been described during the first 2 years of life, craniosynostosis may be variable or absent, and "Syndactyly is notably absent". Rare findings include vertebral fusion, elbow ankylosis, and acanthosis nigricans, while "Cognitive development is often normal, and neurocognitive deficits are uncommon". Inheritance is autosomal-dominant with varying penetrance; pathogenic variants occur in FGFR1 or FGFR2, except Crouzon with acanthosis nigricans, which is caused by FGFR3 variants.
 
 ---
 
-### International consensus guideline on small for gestational age: etiology and management from infancy to early adulthood [^c5e9d29e]. Endocrine Reviews (2023). High credibility.
+### International consensus guideline on small for gestational age: etiology and management from infancy to early adulthood [^1164R6kV]. Endocrine Reviews (2023). High credibility.
 
 Regarding follow-up and surveillance for intrauterine growth restriction, more specifically with respect to postnatal infant surveillance (genetic testing), ICG-SGA 2023 guidelines recommend to consider obtaining genetic testing in children born SGA with persistent short stature with or without skeletal disproportion in the absence of other known causes.
 
 ---
 
-### Positive predictive value of, and, codes for identification of congenital heart defects [^5251385b]. Journal of the American Heart Association (2023). Medium credibility.
+### Positive predictive value of, and, codes for identification of congenital heart defects [^11373GQS]. Journal of the American Heart Association (2023). Medium credibility.
 
 Differences in coding practices between administrative and clinical databases can lead to differences in case ascertainment and, subsequently, prevalence and outcome estimations. A hierarchal algorithm of 17 CHD subgroups found that the concordance statistic for the code hierarchy alone was 0.79 (95% CI, 0.77–0.80) and improved to 0.89 (95% CI, 0.88–0.90) after age, encounter type, and provider type were included in the algorithm. Therefore, algorithms and hierarchies, accounting for limitations of administrative coding are often applied to restrict a cohort to those individuals most likely to have the condition of interest, at the expense of unintentional exclusion of true cases from the data set.
 
@@ -939,7 +939,7 @@ Because of limitations in administrative data, restrictive case definitions may 
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^7319604b]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^113we6mx]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Diagnostic transitions
 
@@ -958,7 +958,7 @@ In the Broad and MCA/ID/DD/E cohorts of the critically-ill newborn population, 5
 
 ---
 
-### Clinical utility of genetic testing in Indian children with kidney diseases [^3813c21b]. BMC Nephrology (2023). Medium credibility.
+### Clinical utility of genetic testing in Indian children with kidney diseases [^112S8whk]. BMC Nephrology (2023). Medium credibility.
 
 Cystic kidney diseases
 
@@ -970,7 +970,7 @@ Of 11 children with nephrolithiasis and/or nephrocalcinosis, clinical diagnoses 
 
 ---
 
-### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^0905c056]. BMC Pediatrics (2024). Medium credibility.
+### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^111ENpah]. BMC Pediatrics (2024). Medium credibility.
 
 Despite the reported literatures, the underlying genetic factors of bifid ribs are still complex and yet to be solved. Some reports considered bifid rib as a pathogenic anomaly, while others have suggested that the presence of bifid ribs is closely related to genetic abnormalities. The frequent co-occurrence of bifid ribs within various genetic syndromes has fueled theories that this structural rib variation is indeed orchestrated by genetic influences. Despite these considerations, the rarity of bifid ribs among the broader population casts doubt on the condition's genetic basis. This dichotomy adds a layer of complexity to our understanding of bifid ribs which show as the most detected deformity of ribs in an array of 658 Chinese pediatric patients, challenging the simplistic notions of its genesis.
 
@@ -978,7 +978,7 @@ In our study, among the 562 cases of solitary rib deformity, 134 children (23.84
 
 ---
 
-### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^60b2833a]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
+### Inpatient hospitalization costs associated with birth defects among persons of all ages-United States, 2013 [^113UMmm3]. MMWR: Morbidity and Mortality Weekly Report (2017). Low credibility.
 
 †††† Trisomy 21 (758.0), trisomy 13 (758.1), trisomy 18 (758.2), 22q11 deletion syndrome (758.32), Turner syndrome (758.6).
 
@@ -989,38 +989,38 @@ Weighted estimated median cost and interquartile range of birth defect–associa
 
 ---
 
-### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^69fc99b4]. Journal of Human Genetics (2021). Medium credibility.
+### High diagnostic yield in skeletal ciliopathies using massively parallel genome sequencing, structural variant screening and RNA analyses [^113i8YeF]. Journal of Human Genetics (2021). Medium credibility.
 
 Fig. 3
 Molecular and radiographic findings of the proband in family 20 with an intragenic deletion of exon 2 in IFT74 (NM_025103.3). A Pedigree of family 20. B – D Radiograms of II:4, please note B handle bar appearance of the clavicles; C – D narrow thorax due to short ribs and pelvis with short craniocaudal diameter of the iliac bones, medial acetabular spur and short ischial bones. E The hand shows mild brachydactyly and no polydactyly. F Fetal CT at GA 33 + 0 shows dolichocephaly, short ribs, short tubular bones and a "star-gazing" position. G Schematic figure of IFT74 transcripts (NCBI RefSeq genes; 1: NM_001099224; 2: NM_001099223; 3: NM_001099222; 4: NM_001349928; 5: NM_025103) shows the deletion in light blue and variant details in black (NC_000009.11:g.26959922_26962969delinsTTA) encompassing the initiation site for all transcripts. Previously reported variants in Bardet–Biedl syndrome are marked in red. H IGV pileup over the genomic region with the deletion (homozygous II:4 in upper part and heterozygous parent I:2 lower part) with absent/decreased coverage and paired-end reads. I Schematic presentation of exons 1 to 3 in IFT74 and cDNA sequence from age-matched control (top) shows normal splicing pattern over exon 1 and 2 (amino acids in green) and cDNA sequence from affected child (bottom) shows homozygous skipping of exon 2 (amino acids in red), leading to a new initiation site (ATG + 1) in exon 3 (in-frame). CT computer tomography, GA gestational age, IGV Integrative Genomics viewer
 
 ---
 
-### Ellis-van creveld syndrome with syndrome X – a rare association from the Indian subcontinent [^72952037]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
+### Ellis-van creveld syndrome with syndrome X – a rare association from the Indian subcontinent [^113vsgLE]. Journal of Pediatric Endocrinology & Metabolism (2010). Low credibility.
 
 Ellis-Van Creveld syndrome or chondroectodermal dysplasia is a form of short-limbed dwarfism that affects the skeleton and skin appendages. Disproportionate dwarfism, postaxial polydactyly, ectodermal dysplasia, a small chest, and a high frequency of congenital heart defects characterize this autosomal recessive syndrome. Metabolic consequences of chondroectodermal dysplasia have not been reported previously from India. We report a case of chondroectodermal dysplasia associated with metabolic disturbances qualifying a diagnosis of syndrome X. To our knowledge, this association has not been previously reported in the medical literature, and helps to unravel the metabolic association of this disorder.
 
 ---
 
-### Practice bulletin no. 162: prenatal diagnostic testing for genetic disorders [^e3604d19]. Obstetrics and Gynecology (2016). Medium credibility.
+### Practice bulletin no. 162: prenatal diagnostic testing for genetic disorders [^116p6Y4x]. Obstetrics and Gynecology (2016). Medium credibility.
 
 Prior child with structural birth defect — recurrence risk for isolated structural abnormalities not associated with a recognized genetic syndrome generally is in the range of 2–3%, though it may be higher depending on the number of affected individuals.
 
 ---
 
-### Occurrence of central polydactyly, syndactyly, and cleft hand in a single family: report of five hands in three cases [^a83e445a]. The Journal of Hand Surgery (2009). Low credibility.
+### Occurrence of central polydactyly, syndactyly, and cleft hand in a single family: report of five hands in three cases [^115JRqQM]. The Journal of Hand Surgery (2009). Low credibility.
 
 Central polydactyly, syndactyly, and cleft hand are categorized separately in the International Federation of Societies for Surgery of the Hand classification. However, some investigators have proposed that these malformations should be classified into a single category: abnormal induction of finger rays. In this article, we report 5 hands with central polydactyly, syndactyly, and cleft hand in 3 patients from the same family and discuss the phenotypes in each hand.
 
 ---
 
-### A pragmatic approach to the radiologic diagnosis of pediatric syndromes and skeletal dysplasias [^07c6e8b0]. Radiologic Clinics of North America (2001). Low credibility.
+### A pragmatic approach to the radiologic diagnosis of pediatric syndromes and skeletal dysplasias [^111CXj2o]. Radiologic Clinics of North America (2001). Low credibility.
 
 This article describes a practical approach to the radiologic evaluation and diagnosis of inherited bone dysplasias and syndromes. Useful references and resource materials are suggested. To illustrate these points, challenge cases are provided. The reader is invited to research each of these examples and arrive at a diagnosis. The correct diagnosis and case discussion follow the figures.
 
 ---
 
-### The diagnostic trajectory of infants and children with clinical features of genetic disease [^4ab2a812]. NPJ Genomic Medicine (2021). Medium credibility.
+### The diagnostic trajectory of infants and children with clinical features of genetic disease [^112uk6N5]. NPJ Genomic Medicine (2021). Medium credibility.
 
 Subset of clinical indications broadly accepted for genetic testing (MCA/ID/DD/E)
 
@@ -1037,7 +1037,7 @@ Description of cohort identification process. Note that groups are not mutually 
 
 ---
 
-### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^df1dc828]. BMC Pediatrics (2024). Medium credibility.
+### Analysis of imaging features and clinical manifestations in children with congenital rib deformities: a retrospective study [^116hnF3M]. BMC Pediatrics (2024). Medium credibility.
 
 Clinical symptoms of single rib deformity
 
@@ -1048,7 +1048,7 @@ The clinical symptoms of the single rib deformity of the study population (n = 5
 
 ---
 
-### Limited accuracy of administrative data for the identification and classification of adult congenital heart disease [^6a3c2917]. Journal of the American Heart Association (2018). Low credibility.
+### Limited accuracy of administrative data for the identification and classification of adult congenital heart disease [^113iVttn]. Journal of the American Heart Association (2018). Low credibility.
 
 Methods
 
@@ -1062,19 +1062,19 @@ Using the available codes, we applied a hierarchical algorithm (1) to determine 
 
 ---
 
-### Acquired temozolomide resistance in MGMT-deficient glioblastoma cells is associated with regulation of DNA repair by DHC2 [^53c465f9]. Brain (2019). Medium credibility.
+### Acquired temozolomide resistance in MGMT-deficient glioblastoma cells is associated with regulation of DNA repair by DHC2 [^1139BwYC]. Brain (2019). Medium credibility.
 
 Our previous studies found that GBM cells with acquired TMZ resistance showed activated autophagy process, significant morphological changes and cytoskeletal rearrangements that were associated with increased expression of DYNC2H1 (dynein, cytoplasmic 2, heavy chain 1, also known as DHC2). DHC2 belongs to the cytoplasmic dynein protein family and encodes the heavy chain of the cytoplasmic dynein-2 motor required for trafficking cargo from the tip to the base of the cilium. Mutations in human DHC2 are associated with the ciliopathic disorders, short rib-polydactyly syndrome type III and Jeune asphyxiating thoracic dystrophy (JATD). An association between DHC2 and TMZ-sensitivity of GBM was confirmed in our previous study, but the mechanism remains elusive. In this study, we used a combination of subcellular proteomics and in vitro analyses to verify DHC2 as a critical regulator of acquired TMZ resistance in MGMT-deficient GBM cells. We also showed that the underlying mechanism involved nuclear transportation of XPC and CBX5, which augmented DNA damage repair activity.
 
 ---
 
-### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^3e57c6d1]. The Journal of Pediatrics (2017). Medium credibility.
+### Diagnosis of cystic fibrosis: consensus guidelines from the Cystic Fibrosis Foundation [^112bRiVv]. The Journal of Pediatrics (2017). Medium credibility.
 
 Newborns with an inconclusive diagnosis — terminology and coding: For newborns, the term CRMS is used in the US for healthcare delivery purposes and CFSPID is used in other countries, but these both describe an inconclusive diagnosis following NBS; newborn infants with a high level of immunoreactive trypsinogen (IRT) and inconclusive CFTR functional and genetic testing may be labeled either CRMS or CFSPID, and CFSPID describes the inconclusive nature of the condition and can be designated by International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) code P09.
 
 ---
 
-### Antenatal detection of skeletal dysplasias [^77cd8baa]. Journal of Ultrasound in Medicine (2003). Low credibility.
+### Antenatal detection of skeletal dysplasias [^1144cZtM]. Journal of Ultrasound in Medicine (2003). Low credibility.
 
 Objective
 
@@ -1094,7 +1094,7 @@ Accurate antenatal diagnosis of skeletal dysplasias is problematic; in this seri
 
 ---
 
-### Phenotype-to-genotype description of prenatal suspected and postnatal discovered upper limb anomalies: a retrospective cohort study [^704ca0b3]. Prenatal Diagnosis (2025). Medium credibility.
+### Phenotype-to-genotype description of prenatal suspected and postnatal discovered upper limb anomalies: a retrospective cohort study [^113sVMPg]. Prenatal Diagnosis (2025). Medium credibility.
 
 3 Results
 

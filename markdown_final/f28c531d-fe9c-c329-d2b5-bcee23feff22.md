@@ -15,35 +15,35 @@ Colon cancer
 
 > Let's see… What do we have here? The user is asking about colon cancer screening. Let's break this down step-by-step. First, I need to think about the clinical context and burden of disease to frame why screening matters. Then, I should verify the strength of evidence and how different guidelines grade benefits and harms. Next, I will examine age-based recommendations for average-risk adults, followed by modality-specific options and their trade-offs. After that, I need to check special populations and risk stratification, including family history, race/ethnicity, and inflammatory bowel disease. Finally, I will integrate implementation and quality considerations, and close with a concise, clinically actionable summary that aligns with major guidelines and evidence syntheses.
 
-> Let me first confirm the clinical context and burden. Colorectal cancer remains the third leading cause of cancer death in the U.S., with an estimated 52,980 deaths projected in 2021, and it is most frequently diagnosed in adults aged 65–74 years, while incidence in adults 40–49 has increased by nearly 15% over recent decades, which helps explain the shift toward earlier screening initiation in some guidelines [^9b6089b1] [^8c722b9b]. Hold on, let's not jump to conclusions; I should verify screening uptake because underuse limits mortality gains. Indeed, in 2016 about 26% of eligible adults had never been screened, and in 2018 about 31% were not up to date, underscoring the need to optimize both access and adherence [^9b6089b1] [^8c722b9b].
+> Let me first confirm the clinical context and burden. Colorectal cancer remains the third leading cause of cancer death in the U.S., with an estimated 52,980 deaths projected in 2021, and it is most frequently diagnosed in adults aged 65–74 years, while incidence in adults 40–49 has increased by nearly 15% over recent decades, which helps explain the shift toward earlier screening initiation in some guidelines [^114yMWPa] [^114bDcft]. Hold on, let's not jump to conclusions; I should verify screening uptake because underuse limits mortality gains. Indeed, in 2016 about 26% of eligible adults had never been screened, and in 2018 about 31% were not up to date, underscoring the need to optimize both access and adherence [^114yMWPa] [^114bDcft].
 
-> Next, I should review the strength of evidence and guideline convergence. The USPSTF concludes with high certainty that screening adults aged 50–75 years yields substantial net benefit, with moderate certainty for ages 45–49, and moderate certainty for selective screening in previously screened adults 76–85 years, which anchors the age-based framework many U.S. clinicians adopt [^9b6089b1] [^5ec46888]. Wait, let me verify the evidentiary base behind colonoscopy specifically; while no randomized trials of screening colonoscopy exist, multiple observational studies and meta-analyses suggest large reductions in incidence and mortality, including meaningful protection in the proximal colon, though the magnitude is smaller than in the distal colon and quality-dependent, which is why colonoscopy remains a first-tier option in several guidelines despite the absence of RCTs [^0d7fc09e] [^089e5591] [^2046db31]. I should also confirm that modeling and comparative effectiveness reviews support the expansion to age 45 and the comparative value of stool-based strategies, which they do, albeit with calls for more head-to-head trials [^9b6089b1] [^35592bd6].
+> Next, I should review the strength of evidence and guideline convergence. The USPSTF concludes with high certainty that screening adults aged 50–75 years yields substantial net benefit, with moderate certainty for ages 45–49, and moderate certainty for selective screening in previously screened adults 76–85 years, which anchors the age-based framework many U.S. clinicians adopt [^114yMWPa] [^113RVoqH]. Wait, let me verify the evidentiary base behind colonoscopy specifically; while no randomized trials of screening colonoscopy exist, multiple observational studies and meta-analyses suggest large reductions in incidence and mortality, including meaningful protection in the proximal colon, though the magnitude is smaller than in the distal colon and quality-dependent, which is why colonoscopy remains a first-tier option in several guidelines despite the absence of RCTs [^111M1kUu] [^111Dn5rY] [^111prQQg]. I should also confirm that modeling and comparative effectiveness reviews support the expansion to age 45 and the comparative value of stool-based strategies, which they do, albeit with calls for more head-to-head trials [^114yMWPa] [^112N6J8d].
 
-> I will now examine age-based recommendations for average-risk adults. For ages 50–75, screening is recommended for all by USPSTF with an A grade, reflecting substantial net benefit across modalities, and this is echoed by multisociety and primary care guidelines, which also emphasize shared decision-making and patient preference [^9b6089b1] [^55c61d1c] [^bd4d0fd0]. For ages 45–49, USPSTF gives a B recommendation based on modeling and epidemiology showing a moderate net benefit, while ESMO and some U.S. societies also support considering screening from 45 in average-risk adults, particularly given rising incidence in this group [^9b6089b1]. For ages 76–85, I should confirm that the balance shifts; USPSTF advises selective screening based on prior screening history, comorbidity, and preferences, with diminishing returns after age 75 in those already adequately screened, and AAFP similarly recommends individualized decisions in this range [^7ada7296] [^c270f773]. But wait, what if the patient has never been screened at 77? In that scenario, a one-time colonoscopy may still yield benefit if life expectancy exceeds about 10 years, which aligns with multisociety guidance to consider screening up to 85 in never-screened individuals [^dca83f5c].
+> I will now examine age-based recommendations for average-risk adults. For ages 50–75, screening is recommended for all by USPSTF with an A grade, reflecting substantial net benefit across modalities, and this is echoed by multisociety and primary care guidelines, which also emphasize shared decision-making and patient preference [^114yMWPa] [^113CAVX9] [^115qeYYf]. For ages 45–49, USPSTF gives a B recommendation based on modeling and epidemiology showing a moderate net benefit, while ESMO and some U.S. societies also support considering screening from 45 in average-risk adults, particularly given rising incidence in this group [^114yMWPa]. For ages 76–85, I should confirm that the balance shifts; USPSTF advises selective screening based on prior screening history, comorbidity, and preferences, with diminishing returns after age 75 in those already adequately screened, and AAFP similarly recommends individualized decisions in this range [^11498s5o] [^115yGYSN]. But wait, what if the patient has never been screened at 77? In that scenario, a one-time colonoscopy may still yield benefit if life expectancy exceeds about 10 years, which aligns with multisociety guidance to consider screening up to 85 in never-screened individuals [^116e8niw].
 
-> Now, I need to check modality-specific options and their trade-offs. Colonoscopy every 10 years is a first-tier option with high sensitivity for cancer and precancerous lesions, one-session diagnosis and treatment, and long negative-test intervals; observational data suggest roughly 40–60% reductions in incidence and mortality, with stronger effects distally and more modest protection proximally, reinforcing the need for high-quality exams and adequate prep [^2046db31] [^0d7fc09e]. FIT annually is a noninvasive first-tier option with good sensitivity and specificity, strong cost-effectiveness, and favorable adherence in mailed programs; it primarily detects cancer rather than preventing it, so colonoscopy follow-up for positives is essential to realize mortality benefits [^92f7bd8a] [^c324d76a]. Flexible sigmoidoscopy every 5–10 years reduces distal CRC incidence and mortality by about 30–45% in RCTs, with limited proximal benefit; combining with annual FIT improves right-colon coverage, and it remains a reasonable alternative when colonoscopy is not preferred or available [^7ee41caa] [^c321812a]. CT colonography every 5 years offers comparable sensitivity to colonoscopy for adenomas ≥ 6 mm but requires bowel prep and colonoscopy for positives; extracolonic findings and radiation exposure are considerations, and long-term mortality data are limited, so shared decision-making is key [^35592bd6] [^7399a824]. Multitarget stool DNA (sDNA-FIT) every 1–3 years improves sensitivity over FIT alone at the cost of specificity and false positives; USPSTF includes it among acceptable options but notes the need for more outcome data and careful counseling about positive results and colonoscopy follow-up [^9b6089b1] [^278b239d].
+> Now, I need to check modality-specific options and their trade-offs. Colonoscopy every 10 years is a first-tier option with high sensitivity for cancer and precancerous lesions, one-session diagnosis and treatment, and long negative-test intervals; observational data suggest roughly 40–60% reductions in incidence and mortality, with stronger effects distally and more modest protection proximally, reinforcing the need for high-quality exams and adequate prep [^111prQQg] [^111M1kUu]. FIT annually is a noninvasive first-tier option with good sensitivity and specificity, strong cost-effectiveness, and favorable adherence in mailed programs; it primarily detects cancer rather than preventing it, so colonoscopy follow-up for positives is essential to realize mortality benefits [^114ktQWu] [^115zJxgZ]. Flexible sigmoidoscopy every 5–10 years reduces distal CRC incidence and mortality by about 30–45% in RCTs, with limited proximal benefit; combining with annual FIT improves right-colon coverage, and it remains a reasonable alternative when colonoscopy is not preferred or available [^114F84VF] [^115zHqg5]. CT colonography every 5 years offers comparable sensitivity to colonoscopy for adenomas ≥ 6 mm but requires bowel prep and colonoscopy for positives; extracolonic findings and radiation exposure are considerations, and long-term mortality data are limited, so shared decision-making is key [^112N6J8d] [^113xPBtF]. Multitarget stool DNA (sDNA-FIT) every 1–3 years improves sensitivity over FIT alone at the cost of specificity and false positives; USPSTF includes it among acceptable options but notes the need for more outcome data and careful counseling about positive results and colonoscopy follow-up [^114yMWPa] [^1121dFe4].
 
-> Hold on, I should verify special populations and risk stratification. For family history, guidelines converge on starting 10 years before the youngest affected first-degree relative or at age 40, whichever is earlier, with colonoscopy preferred in high-risk pedigrees; for example, ACG recommends colonoscopy every 5 years in those with a first-degree relative diagnosed before 60 or with multiple affected relatives, and AGA advises colonoscopy as the strategy of choice in increased-risk individuals [^c8e873bb] [^a9ab3244]. For African American patients, several societies note higher incidence and mortality and support considering earlier initiation, with USPSTF acknowledging disparities and calling for systems-level interventions; while the Task Force did not issue a race-specific start age, clinicians may individualize based on risk and access considerations [^3ea570ce] [^3abc84c0]. For inflammatory bowel disease, colonoscopic surveillance is recommended to reduce CRC-associated mortality, with interval tailored to disease extent and duration, and this applies across BSG and related guidance [^d5b5b860]. I should double-check that these align with NCCN and primary care updates, which they do, reinforcing the need to document family history and apply risk-adapted strategies [^0b00cef9] [^390b568a].
+> Hold on, I should verify special populations and risk stratification. For family history, guidelines converge on starting 10 years before the youngest affected first-degree relative or at age 40, whichever is earlier, with colonoscopy preferred in high-risk pedigrees; for example, ACG recommends colonoscopy every 5 years in those with a first-degree relative diagnosed before 60 or with multiple affected relatives, and AGA advises colonoscopy as the strategy of choice in increased-risk individuals [^1168rbtn] [^115LYQoM]. For African American patients, several societies note higher incidence and mortality and support considering earlier initiation, with USPSTF acknowledging disparities and calling for systems-level interventions; while the Task Force did not issue a race-specific start age, clinicians may individualize based on risk and access considerations [^112bsoWu] [^112W5byy]. For inflammatory bowel disease, colonoscopic surveillance is recommended to reduce CRC-associated mortality, with interval tailored to disease extent and duration, and this applies across BSG and related guidance [^116TqQDm]. I should double-check that these align with NCCN and primary care updates, which they do, reinforcing the need to document family history and apply risk-adapted strategies [^111HK8rL] [^112Ta6ws].
 
-> Next, I should review implementation and quality considerations that determine real-world impact. Adherence and program quality are pivotal; even excellent tests underperform if patients do not complete screening and follow-up, so mailed FIT outreach, reminder systems, and navigation improve uptake and outcomes [^c324d76a] [^b39d3dc2]. Colonoscopy quality metrics matter, including cecal intubation rate, withdrawal time, adenoma detection rate, and polyp retrieval; high ADR correlates with lower post-colonoscopy CRC and better protection, particularly in the proximal colon where miss rates are higher [^5ce7a01b]. Let me reconsider surveillance intervals after negative exams; a normal, high-quality colonoscopy supports repeating in 10 years, whereas patients with hyperplastic polyps limited to the rectum/sigmoid generally return to routine intervals, and those with advanced adenomas require shorter surveillance per multisociety guidance [^a507612b] [^9a7e1ddf]. I need to ensure we also address barriers such as colonoscopy access, sedation logistics, and patient preferences, which is why offering a menu of acceptable options and supporting completion of follow-up are core to effective programs [^c324d76a].
+> Next, I should review implementation and quality considerations that determine real-world impact. Adherence and program quality are pivotal; even excellent tests underperform if patients do not complete screening and follow-up, so mailed FIT outreach, reminder systems, and navigation improve uptake and outcomes [^115zJxgZ] [^115bHbkV]. Colonoscopy quality metrics matter, including cecal intubation rate, withdrawal time, adenoma detection rate, and polyp retrieval; high ADR correlates with lower post-colonoscopy CRC and better protection, particularly in the proximal colon where miss rates are higher [^113NjfMU]. Let me reconsider surveillance intervals after negative exams; a normal, high-quality colonoscopy supports repeating in 10 years, whereas patients with hyperplastic polyps limited to the rectum/sigmoid generally return to routine intervals, and those with advanced adenomas require shorter surveillance per multisociety guidance [^115DfSGJ] [^114x3TMG]. I need to ensure we also address barriers such as colonoscopy access, sedation logistics, and patient preferences, which is why offering a menu of acceptable options and supporting completion of follow-up are core to effective programs [^115zJxgZ].
 
-> I should confirm emerging technologies and research gaps so I don't overstate unproven tools. Blood-based assays are under active evaluation and one is commercially available as a laboratory-developed test, but evidence for mortality impact and longitudinal performance remains limited; modeling and early studies suggest potential to improve adherence if accuracy and cost-effectiveness prove favorable, but they are not yet substitutes for established modalities [^c324d76a]. Colon capsule endoscopy shows promise in comparative studies for significant neoplasia detection but still requires bowel prep and has lower specificity than CTC; its role is evolving and best positioned as an alternative when standard options are unsuitable or declined [^72cf33a2]. USPSTF explicitly highlights gaps needing head-to-head trials of strategies, better data in adults younger than 50, and interventions to close racial disparities, which should temper premature adoption of unproven tests [^f92b4a20] [^3abc84c0].
+> I should confirm emerging technologies and research gaps so I don't overstate unproven tools. Blood-based assays are under active evaluation and one is commercially available as a laboratory-developed test, but evidence for mortality impact and longitudinal performance remains limited; modeling and early studies suggest potential to improve adherence if accuracy and cost-effectiveness prove favorable, but they are not yet substitutes for established modalities [^115zJxgZ]. Colon capsule endoscopy shows promise in comparative studies for significant neoplasia detection but still requires bowel prep and has lower specificity than CTC; its role is evolving and best positioned as an alternative when standard options are unsuitable or declined [^113wDBjw]. USPSTF explicitly highlights gaps needing head-to-head trials of strategies, better data in adults younger than 50, and interventions to close racial disparities, which should temper premature adoption of unproven tests [^117NQTX5] [^112W5byy].
 
-> Let me synthesize a practical, clinically actionable approach while keeping the evidence hierarchy in mind. For average-risk adults, offer screening from age 45–75, with strong preference for ages 50–75; present colonoscopy every 10 years and annual FIT as co–first-line options, and consider flexible sigmoidoscopy every 5–10 years with annual FIT, CTC every 5 years, or sDNA-FIT every 1–3 years based on patient values, comorbidity, and local resources, ensuring colonoscopy follow-up for any positive noninvasive test [^9b6089b1] [^bd4d0fd0] [^3d9018a8]. For adults 76–85, individualize decisions to prior screening, life expectancy, and preferences, recognizing small net benefit in previously screened patients and potentially meaningful benefit in never-screened individuals with reasonable life expectancy [^7ada7296] [^dca83f5c]. For increased risk due to family history, start at 40 or 10 years before the youngest affected relative and use colonoscopy as the preferred strategy, adjusting intervals to risk category and findings [^c8e873bb] [^a9ab3244]. Throughout, embed shared decision-making, address disparities, and monitor quality to translate evidence into mortality reduction at the population level [^c324d76a] [^5ce7a01b].
+> Let me synthesize a practical, clinically actionable approach while keeping the evidence hierarchy in mind. For average-risk adults, offer screening from age 45–75, with strong preference for ages 50–75; present colonoscopy every 10 years and annual FIT as co–first-line options, and consider flexible sigmoidoscopy every 5–10 years with annual FIT, CTC every 5 years, or sDNA-FIT every 1–3 years based on patient values, comorbidity, and local resources, ensuring colonoscopy follow-up for any positive noninvasive test [^114yMWPa] [^115qeYYf] [^112aGeQw]. For adults 76–85, individualize decisions to prior screening, life expectancy, and preferences, recognizing small net benefit in previously screened patients and potentially meaningful benefit in never-screened individuals with reasonable life expectancy [^11498s5o] [^116e8niw]. For increased risk due to family history, start at 40 or 10 years before the youngest affected relative and use colonoscopy as the preferred strategy, adjusting intervals to risk category and findings [^1168rbtn] [^115LYQoM]. Throughout, embed shared decision-making, address disparities, and monitor quality to translate evidence into mortality reduction at the population level [^115zJxgZ] [^113NjfMU].
 
 ---
 
-Colon cancer is **highly preventable** through screening, which detects precancerous polyps and early-stage cancers when treatment is most effective [^39c6121f]. The USPSTF recommends screening for average-risk adults aged 45–75 years [^9b6089b1], with colonoscopy every 10 years or annual FIT as preferred options [^bd4d0fd0]; flexible sigmoidoscopy, CT colonography, and stool DNA tests are alternatives [^7399a824]. Screening reduces incidence and mortality [^0d7fc09e], but **uptake remains suboptimal** [^8c722b9b]; addressing barriers and offering patient-centered options can improve adherence [^b39d3dc2]. For high-risk patients (family history, IBD, hereditary syndromes), earlier and more intensive screening is advised [^c8e873bb] [^d5b5b860].
+Colon cancer is **highly preventable** through screening, which detects precancerous polyps and early-stage cancers when treatment is most effective [^112Uepnz]. The USPSTF recommends screening for average-risk adults aged 45–75 years [^114yMWPa], with colonoscopy every 10 years or annual FIT as preferred options [^115qeYYf]; flexible sigmoidoscopy, CT colonography, and stool DNA tests are alternatives [^113xPBtF]. Screening reduces incidence and mortality [^111M1kUu], but **uptake remains suboptimal** [^114bDcft]; addressing barriers and offering patient-centered options can improve adherence [^115bHbkV]. For high-risk patients (family history, IBD, hereditary syndromes), earlier and more intensive screening is advised [^1168rbtn] [^116TqQDm].
 
 ---
 
 ## Epidemiology and risk factors
 
-Colon cancer is the **third most common cancer** and the **second leading cause of cancer death** in the US [^9b6089b1], with approximately 153,020 new cases and 52,980 deaths expected in 2024 [^notfound]. Incidence rises with age, peaking at 65–74 years, and about 10.5% of cases occur in adults younger than 50 [^9b6089b1]. Major risk factors include:
+Colon cancer is the **third most common cancer** and the **second leading cause of cancer death** in the US [^114yMWPa], with approximately 153,020 new cases and 52,980 deaths expected in 2024 [^notfound]. Incidence rises with age, peaking at 65–74 years, and about 10.5% of cases occur in adults younger than 50 [^114yMWPa]. Major risk factors include:
 
-- **Age**: Incidence increases sharply after 50 [^9b6089b1].
-- **Family history**: First-degree relatives with colorectal cancer or advanced adenomas increase risk [^0b00cef9].
-- **Hereditary syndromes**: Lynch syndrome and familial adenomatous polyposis confer high risk [^0b00cef9].
+- **Age**: Incidence increases sharply after 50 [^114yMWPa].
+- **Family history**: First-degree relatives with colorectal cancer or advanced adenomas increase risk [^111HK8rL].
+- **Hereditary syndromes**: Lynch syndrome and familial adenomatous polyposis confer high risk [^111HK8rL].
 - **Inflammatory bowel disease**: Ulcerative colitis and Crohn's disease increase risk [^notfound].
 - **Lifestyle factors**: Diet high in red/processed meats, obesity, physical inactivity, smoking, and heavy alcohol use increase risk [^notfound].
 
@@ -51,7 +51,7 @@ Colon cancer is the **third most common cancer** and the **second leading cause 
 
 ## Screening guidelines and recommendations
 
-Screening is the **most effective public health strategy** to reduce colon cancer incidence and mortality [^39c6121f]. The USPSTF recommends screening for average-risk adults aged 45–75 years [^9b6089b1], with colonoscopy every 10 years or annual FIT as preferred options [^bd4d0fd0]. Alternative tests include flexible sigmoidoscopy every 5–10 years, CT colonography every 5 years, and stool DNA testing every 1–3 years [^7399a824] [^278b239d]. For adults 76–85, screening should be individualized based on health, prior screening, and preferences [^7ada7296].
+Screening is the **most effective public health strategy** to reduce colon cancer incidence and mortality [^112Uepnz]. The USPSTF recommends screening for average-risk adults aged 45–75 years [^114yMWPa], with colonoscopy every 10 years or annual FIT as preferred options [^115qeYYf]. Alternative tests include flexible sigmoidoscopy every 5–10 years, CT colonography every 5 years, and stool DNA testing every 1–3 years [^113xPBtF] [^1121dFe4]. For adults 76–85, screening should be individualized based on health, prior screening, and preferences [^11498s5o].
 
 ---
 
@@ -67,52 +67,52 @@ Screening is the **most effective public health strategy** to reduce colon cance
 
 ---
 
-Colonoscopy and FIT are **first-line** because of their high sensitivity and strong evidence for mortality reduction [^bd4d0fd0] [^0d7fc09e]. Flexible sigmoidoscopy, CT colonography, and stool DNA are reasonable alternatives when first-line tests are unsuitable or declined [^2bb500b2].
+Colonoscopy and FIT are **first-line** because of their high sensitivity and strong evidence for mortality reduction [^115qeYYf] [^111M1kUu]. Flexible sigmoidoscopy, CT colonography, and stool DNA are reasonable alternatives when first-line tests are unsuitable or declined [^1127oGLR].
 
 ---
 
 ## Benefits and limitations of screening
 
-Benefits include **early detection** of curable cancers and prevention through polyp removal, reducing incidence and mortality [^0d7fc09e]. Limitations include false positives/negatives, procedural risks (e.g. perforation, bleeding), and adherence challenges [^35592bd6].
+Benefits include **early detection** of curable cancers and prevention through polyp removal, reducing incidence and mortality [^111M1kUu]. Limitations include false positives/negatives, procedural risks (e.g. perforation, bleeding), and adherence challenges [^112N6J8d].
 
 ---
 
 ## Barriers to screening and strategies to improve uptake
 
-Despite proven benefits, **uptake remains suboptimal** [^8c722b9b], with 26% of eligible adults never screened and 31% not up to date in 2018 [^9b6089b1]. Barriers include lack of awareness, fear, logistical challenges, and disparities by race, ethnicity, and socioeconomic status [^b39d3dc2]. Effective strategies to improve uptake include:
+Despite proven benefits, **uptake remains suboptimal** [^114bDcft], with 26% of eligible adults never screened and 31% not up to date in 2018 [^114yMWPa]. Barriers include lack of awareness, fear, logistical challenges, and disparities by race, ethnicity, and socioeconomic status [^115bHbkV]. Effective strategies to improve uptake include:
 
-- **Patient education**: Decision aids and culturally tailored messaging [^b39d3dc2].
+- **Patient education**: Decision aids and culturally tailored messaging [^115bHbkV].
 - **Provider reminders**: System prompts and performance feedback [^notfound].
-- **Access improvements**: Mailed FIT, mobile screening, extended hours [^c324d76a].
-- **Shared decision-making**: Aligning tests with patient preferences [^de108fcf].
+- **Access improvements**: Mailed FIT, mobile screening, extended hours [^115zJxgZ].
+- **Shared decision-making**: Aligning tests with patient preferences [^116gDpDC].
 
 ---
 
 ## Special considerations
 
-High-risk individuals (family history, IBD, hereditary syndromes) require **earlier initiation, shorter intervals, and colonoscopy** as the preferred modality [^c8e873bb] [^d5b5b860]. Emerging technologies such as blood-based tests and colon capsule endoscopy are under evaluation but are not yet standard [^c324d76a].
+High-risk individuals (family history, IBD, hereditary syndromes) require **earlier initiation, shorter intervals, and colonoscopy** as the preferred modality [^1168rbtn] [^116TqQDm]. Emerging technologies such as blood-based tests and colon capsule endoscopy are under evaluation but are not yet standard [^115zJxgZ].
 
 ---
 
-Colon cancer screening is a **cornerstone of prevention**, with multiple effective options and strong evidence for mortality reduction [^0d7fc09e]. Optimizing uptake through patient-centered, equitable approaches is essential to realize these benefits [^c324d76a].
+Colon cancer screening is a **cornerstone of prevention**, with multiple effective options and strong evidence for mortality reduction [^111M1kUu]. Optimizing uptake through patient-centered, equitable approaches is essential to realize these benefits [^115zJxgZ].
 
 ---
 
 ## References
 
-### Colon cancer screening strategies [^cb61a00a]. Current Opinion in Gastroenterology (2002). Low credibility.
+### Colon cancer screening strategies [^116CXH6h]. Current Opinion in Gastroenterology (2002). Low credibility.
 
 Screening has been shown to reduce morbidity and mortality related to colorectal cancer. However, the optimal strategy for population screening for colorectal cancer has been a topic of heated debate. Recent studies have challenged the efficacy and cost-effectiveness of current population screening practices. Novel approaches to improve the assessment of an individual's colorectal cancer risk and advances in technology are changing our approach to colorectal screening. This review covers current guidelines for screening for colorectal cancer, recent advances in cancer risk assessment, and the role of endoscopy, virtual colonoscopy, and fecal DNA testing in colorectal cancer screening.
 
 ---
 
-### Strategies for colorectal cancer screening [^39c6121f]. Gastroenterology (2020). Medium credibility.
+### Strategies for colorectal cancer screening [^112Uepnz]. Gastroenterology (2020). Medium credibility.
 
 The incidence of colorectal cancer (CRC) is increasing worldwide. CRC has high mortality when detected at advanced stages, yet it is also highly preventable. Given the difficulties in implementing major lifestyle changes or widespread primary prevention strategies to decrease CRC risk, screening is the most powerful public health tool to reduce mortality. Screening methods are effective but have limitations. Furthermore, many screen-eligible people remain unscreened. We discuss established and emerging screening methods, and potential strategies to address current limitations in CRC screening. A quantum step in CRC prevention might come with the development of new screening strategies, but great gains can be made by deploying the available CRC screening modalities in ways that optimize outcomes while making judicious use of resources.
 
 ---
 
-### Screening for colorectal cancer: U.S. Preventive Services Task Force recommendation statement [^a8b5afe2]. Annals of Internal Medicine (2008). Low credibility.
+### Screening for colorectal cancer: U.S. Preventive Services Task Force recommendation statement [^115K7wtm]. Annals of Internal Medicine (2008). Low credibility.
 
 Description
 
@@ -128,7 +128,7 @@ The USPSTF recommends screening for colorectal cancer using fecal occult blood t
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^9b6089b1]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^114yMWPa]. JAMA (2021). Excellent credibility.
 
 Importance
 
@@ -152,13 +152,13 @@ The USPSTF recommends screening for colorectal cancer in all adults aged 50 to 7
 
 ---
 
-### Screening, surveillance, and prevention of colorectal cancer [^a6f6891a]. Gastrointestinal Endoscopy Clinics of North America (2008). Low credibility.
+### Screening, surveillance, and prevention of colorectal cancer [^115GXkgR]. Gastrointestinal Endoscopy Clinics of North America (2008). Low credibility.
 
 Colon cancer screening can be effective, but only with a high-quality program that assures adherence to all elements of the program. There is evidence in the United States of greater acceptance of screening and decreased incidence and mortality of colorectal cancer. Patient education is a key element of any effective screening program. It is hoped that future screening will develop better risk-stratification tools and enable targeting of screening to high-risk individuals.
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^f3644024]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^117DqfX1]. JAMA (2021). Excellent credibility.
 
 Screening for Colorectal Cancer
 
@@ -170,19 +170,19 @@ Colorectal cancer is the third leading cause of cancer death for both men and wo
 
 ---
 
-### Colorectal cancer screening [^b4852c51]. The Surgical Clinics of North America (2002). Low credibility.
+### Colorectal cancer screening [^115cdW9W]. The Surgical Clinics of North America (2002). Low credibility.
 
 During the past decade we have seen dramatic advances in colon cancer screening. Reduction in mortality in average risk screening for colorectal cancer has now been shown in multiple trials. Efforts to increase public awareness and compliance with evidence-based screening guidelines are underway. Recent guidelines have incorporated family history, as it has been identified as a common risk factor. The genes responsible for the inherited syndromes of colon cancer have been identified and genetic testing is available. Currently, screening the average risk population over the age of 50 would reduce mortality from colon cancer by 50%. Future advances will likely include improved screening tests, and the development of familial genetic testing.
 
 ---
 
-### Committee opinion no 609: colorectal cancer screening strategies [^634a3e6f]. Obstetrics and Gynecology (2014). Low credibility.
+### Committee opinion no 609: colorectal cancer screening strategies [^113YCiHc]. Obstetrics and Gynecology (2014). Low credibility.
 
 Each year, more than 24,000 women die from colorectal cancer, which makes it the third leading cause of cancer death in women after lung cancer and breast cancer. However, screening tests are underused for many segments of the population and are ordered in a manner inconsistent with guidelines. The primary goal of colorectal cancer screening is to reduce mortality through the reduction of advanced disease. The American College of Obstetricians and Gynecologists recommends colonoscopy for colorectal cancer screening every 10 years for average-risk women beginning at age 50 years and at age 45 years for African American women. The American College of Obstetricians and Gynecologists recommends colonoscopy every 10 years as the most effective screening modality. Every screening method has advantages and limitations, which ultimately depend on the quality of the screening test, patient adherence, screening guidelines, and access to timely and appropriate follow-up. Colorectal cancer screening methods should be discussed with patients to identify the method they are most likely to accept and complete.
 
 ---
 
-### Colorectal cancer screening: the time to act is now [^ecabafd3]. BMC Medicine (2015). Low credibility.
+### Colorectal cancer screening: the time to act is now [^1173skEe]. BMC Medicine (2015). Low credibility.
 
 Background
 
@@ -190,19 +190,19 @@ Colorectal cancer (CRC) is the third most common cancer and the fourth most comm
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^3abc84c0]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^112W5byy]. JAMA (2021). Excellent credibility.
 
 USPSTF colorectal cancer screening — research needs and gaps: The statement identifies key gaps including the need for randomized trials that directly compare different colorectal cancer screening strategies (including hybrid strategies that switch between modalities over time) to reduce colorectal cancer mortality, studies on screening effectiveness in adults younger than 50 years and whether strategies should be tailored in these populations, and more research to understand and address factors contributing to increased colorectal cancer incidence and mortality in Black adults, such as access to and availability of care and characteristics of systems providing health care, followed by testing interventions designed to mitigate these differences.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^7ed804e1]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^114F3zu6]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Colorectal cancer screening — methods and evidence grading — describes an English-language literature search across MEDLINE, EMBASE, the Database of Abstracts of Reviews and Effects, and the Cochrane Database of Systematic Reviews, combining colorectal cancer screening with test-specific subject headings, and excluding case reports and studies in inflammatory bowel disease, prior CRC or polyps, or hereditary CRC syndromes; guidance statements were developed by consensus and presented as evidence-based weighted recommendations; the group applies GRADE with a modified qualitative approach without formal meta-analysis, and defines "strong recommendations" as those chosen by most informed patients and "weak recommendations" where patient values may play a larger role, signaling strong with "we recommend" and weak with "we suggest".
 
 ---
 
-### Colorectal cancer screening [^f7b96737]. Current Opinion in Gastroenterology (2010). Low credibility.
+### Colorectal cancer screening [^117LGDYz]. Current Opinion in Gastroenterology (2010). Low credibility.
 
 Purpose Of Review
 
@@ -218,7 +218,7 @@ Colon cancer screening is effective and continues to improve. Refinements of gui
 
 ---
 
-### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^013dc9fa]. Annals of Oncology (2020). High credibility.
+### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^1112qk2d]. Annals of Oncology (2020). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, ESMO 2020 guidelines recommend to obtain a complete colonoscopy every 10 years
 as the modality of choice for CRC screening in 50–74 years old
@@ -226,25 +226,25 @@ average-risk individuals.
 
 ---
 
-### What constitutes evidence? Colorectal cancer screening and the U.S. Preventive Services Task Force [^7186f9fd]. Journal of General Internal Medicine (2022). Medium credibility.
+### What constitutes evidence? Colorectal cancer screening and the U.S. Preventive Services Task Force [^113uJwQ8]. Journal of General Internal Medicine (2022). Medium credibility.
 
 The United States Preventive Services Task Force is perhaps America's best-known source of evidence-based medicine (EBM) recommendations. This paper reviews aspects of the history of one such recommendation-screening for colorectal cancer (CRC)-to explore how the Task Force evaluates the best available evidence to reach its conclusions. Although the Task Force initially believed there was inadequate evidence to recommend CRC screening in the 1980s, it later changed its mind. Indeed, by 2002, it was recommending screening colonoscopy for those aged 50 and older, "extrapolating" from the existing evidence as there were no randomized controlled trials of the procedure. By 2016, due in part to the use of an emerging analytic modality known as modeling, the Task Force supported four additional CRC screening tests that lacked randomized data. Among the reasons the Task Force gave for these decisions was the desire to improve adherence for a strategy-screening healthy, asymptomatic individuals-that it believed saved lives. During these same years, the Task Force diverged from other organizations by declining to advocate screening otherwise healthy Black patients earlier than age 50-despite the fact that such individuals had higher rates of CRC than the general population, higher mortality from the disease and earlier onset of the disease. In declining to extrapolate in this instance, the Task Force underscored the lack of reliable data that proved that the benefits of such testing would outweigh the harms. The history of CRC screening reminds us that scientific evaluation relies not only on methodological sophistication but also on a combination of intellectual, cognitive and social processes. General internists-and their patients-should realize that EBM recommendations are often not definitive but rather thoughtful data-based advice.
 
 ---
 
-### Implementation of colon cancer screening: techniques, costs, and barriers [^0adc9b27]. Gastroenterology Clinics of North America (2008). Low credibility.
+### Implementation of colon cancer screening: techniques, costs, and barriers [^111H6ya6]. Gastroenterology Clinics of North America (2008). Low credibility.
 
 Colorectal cancer and breast cancer are the only cancer sites for which evidence on the efficacy of screening is available from randomized trials. The trials on colon cancer screening in the United States and Europe used the fecal occult blood test as the primary screen, but randomized trial data are not yet available on endoscopy (flexible sigmoidoscopy to 60 cm), and no randomized, controlled trials of colonoscopy as a screening test are in progress. This article reviews colorectal cancer screening from an epidemiologist's perspective to provide the theoretic evidence-based underpinning for the role of the gastroenterologist in colorectal screening.
 
 ---
 
-### Progress and challenges in colorectal cancer screening and surveillance [^94656af4]. Gastroenterology (2010). Low credibility.
+### Progress and challenges in colorectal cancer screening and surveillance [^114o1EV9]. Gastroenterology (2010). Low credibility.
 
 Colorectal cancer is a leading cause of cancer death throughout the world. There is evidence that screening of average-risk individuals can result in mortality reduction with early cancer detection and cancer prevention by detection and removal of cancer precursor lesions. The optimal form of screening is not clear. Fecal screening tests can be performed at home at low initial cost, but current versions lack high sensitivity for cancer precursor lesions, and tests need to be repeated at regular intervals. Adherence to repeat testing for negative tests and referral for colonoscopy for positive tests are important elements of program effectiveness. Structural examinations of the colon are more invasive and may result in detection of both early cancer and cancer precursor lesions. Every screening program has advantages and limitations, but each program ultimately depends on quality and patient adherence.
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^4ad3b83f]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^112uwCVC]. JAMA (2021). Excellent credibility.
 
 USPSTF Assessment of Magnitude of Net Benefit
 
@@ -266,7 +266,7 @@ This recommendation applies to asymptomatic adults 45 years or older who are at 
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^6bad48cc]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^113kdt1H]. JAMA (2021). Excellent credibility.
 
 Supporting Evidence
 
@@ -276,39 +276,39 @@ To update its 2016 recommendation, the USPSTF commissioned a systematic review9,
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^5ec46888]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^113RVoqH]. JAMA (2021). Excellent credibility.
 
 US Preventive Services Task Force colorectal cancer screening — evidence assessment concludes with high certainty that screening for colorectal cancer in adults aged 50 to 75 years has substantial net benefit; concludes with moderate certainty that screening for colorectal cancer in adults aged 45 to 49 years has moderate net benefit; and concludes with moderate certainty that screening for colorectal cancer in adults aged 76 to 85 years who have been previously screened has small net benefit, while noting that adults who have never been screened for colorectal cancer are more likely to benefit.
 
 ---
 
-### Colorectal cancer-patient version-NCI… [^da107290]. NCI (2022). Medium credibility.
+### Colorectal cancer-patient version-NCI… [^116aHprj]. NCI (2022). Medium credibility.
 
 Colorectal Cancer — Patient Version Overview Colorectal cancer often begins as a growth called a polyp inside the colon or rectum. Finding and removing polyps can prevent colorectal cancer. Explore the links on this page to learn more about colorectal cancer prevention, screening, treatment, statistics, research, clinical trials, and more. Treatment PDQ Treatment Information for Patients Causes & Prevention PDQ Prevention Information for Patients Screening PDQ Screening Information for Patients Coping with Cancer The information in this section is meant to help you cope with the many issues and concerns that occur when you have cancer. Emotions and Cancer Adjusting to Cancer Support for Caregivers Survivorship Advanced Cancer Managing Cancer Care
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^2046db31]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^111prQQg]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Colonoscopy — advantages, evidence base, and expected effects include high sensitivity for cancer and all classes of precancerous lesions, single-session diagnosis and treatment, and long intervals between examinations (10 years) in subjects with normal examinations; one or 2 negative examinations may signal lifetime protection against colorectal cancer (CRC); patients who value the highest level of sensitivity in detection of precancerous lesions and are willing to undergo invasive screening should consider choosing colonoscopy; although no randomized trials of colonoscopy for screening have been completed, extensive evidence from adenoma cohorts, cohort studies on incidence and mortality, and case–control studies supports the efficacy of colonoscopy in preventing incident CRC and cancer deaths, including one cohort study and 3 case–control studies performed in screening populations; reductions in incidence and mortality are approximately 80% in the distal colon and 40% to 60% in the proximal colon.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^6e4607c2]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^113pVAJM]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 50–75 years, USMSTF 2017 guidelines recommend to obtain screening for CRC starting at the age of 50 in average-risk individuals.
 Consider discontinuing CRC screening at the age of 75 years or when life expectancy is < 10 years in individuals with up-to-date screening and negative prior screening tests, particularly colonoscopy.
 
 ---
 
-### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^c321812a]. Annals of Oncology (2020). High credibility.
+### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^115zHqg5]. Annals of Oncology (2020). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, alternative choices, ESMO 2020 guidelines recommend to consider obtaining flexible sigmoidoscopy every 5–10 years as an alternative modality in individuals refusing colonoscopy.
 Combine this method with a yearly FOBT to reduce the risk of a right colon tumor.
 
 ---
 
-### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^92f7bd8a]. Annals of Oncology (2020). High credibility.
+### Localised colon cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up [^114ktQWu]. Annals of Oncology (2020). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, alternative choices, ESMO 2020 guidelines recommend to obtain non-colonoscopic tests every year and no later than every 3 years in average-risk individuals from the age of 50 not already taking part in colonoscopic screening programs.
 Prefer FIT over high-resolution guaiac FOBT due to the better detection rate and positive predictive value for adenomas and cancer.
@@ -316,13 +316,13 @@ Obtain a colonoscopy at the earliest convenience if the test results are positiv
 
 ---
 
-### Clinical updates for colon cancer care in 2022 [^42535bea]. Clinical Colorectal Cancer (2022). Medium credibility.
+### Clinical updates for colon cancer care in 2022 [^112hLBZj]. Clinical Colorectal Cancer (2022). Medium credibility.
 
 Colon cancer needs better screening and treatment options. Its incidence in the young population is rising. Recent changes in guidelines recommend beginning screening for colon cancer at the age of 45. Circulating tumor DNA presents an opportunity to select patients for administration of adjuvant chemotherapy. Immunotherapy is an option for patients with a deficiency in mismatch repair proteins. However, its efficacy outside of this group of patients remains a challenge. Targeted therapies such as BRAF inhibitors are an option for patients with poor prognosis, for whom cytotoxic chemotherapy is not as effective. This review presents the recently published evidence regarding screening and treating patients with colon cancer.
 
 ---
 
-### Colon cancer screening and surveillance controversies [^c6f2fef9]. Current Opinion in Gastroenterology (2009). Low credibility.
+### Colon cancer screening and surveillance controversies [^1165xAjz]. Current Opinion in Gastroenterology (2009). Low credibility.
 
 Purpose Of Review
 
@@ -338,13 +338,13 @@ Colorectal cancer screening can reduce both incidence and mortality of colorecta
 
 ---
 
-### Screening for colorectal cancer [^98f15091]. The Surgical Clinics of North America (2024). Medium credibility.
+### Screening for colorectal cancer [^114ukB2Q]. The Surgical Clinics of North America (2024). Medium credibility.
 
 Colorectal cancer remains the third leading cause of cancer death in the United States. Colorectal cancer screening allows for prevention and early detection of precancerous and cancerous lesions, and screening has been shown to be effective in preventing colorectal cancer deaths. Screening recommendations vary by patient risk profile. A variety of screening modalities exist.
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^a8f48b10]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^115KV4Ru]. JAMA (2021). Excellent credibility.
 
 OBJECTIVE
 
@@ -356,7 +356,7 @@ Asymptomatic adults 45 years or older at average risk of colorectal cancer (ie, 
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^f92b4a20]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^117NQTX5]. JAMA (2021). Excellent credibility.
 
 Research Needs and Gaps
 
@@ -368,67 +368,67 @@ Although the benefits of screening for colorectal cancer are well established, t
 
 ---
 
-### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^a3655a8e]. Gastroenterology (2023). High credibility.
+### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^115BF2Tw]. Gastroenterology (2023). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, AGA 2023 guidelines recommend to obtain screening for CRC in individuals at increased risk for colorectal due to having a first-degree relative with CRC, starting 10 years before the age at diagnosis of the youngest affected relative or age 40 years, whichever is earlier.
 
 ---
 
-### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^a9ab3244]. Gastroenterology (2023). High credibility.
+### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^115LYQoM]. Gastroenterology (2023). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, AGA 2023 guidelines recommend to obtain colonoscopy as the screening strategy in patients at increased CRC risk.
 
 ---
 
-### Screening and surveillance for the early detection of colorectal cancer and adenomatous polyps, 2008: a joint guideline from the American cancer society, the Us Multi-society Task Force on Colorectal Cancer, and the American college of radiology [^cdc03d6b]. CA (2008). Low credibility.
+### Screening and surveillance for the early detection of colorectal cancer and adenomatous polyps, 2008: a joint guideline from the American cancer society, the Us Multi-society Task Force on Colorectal Cancer, and the American college of radiology [^116G32uY]. CA (2008). Low credibility.
 
 In the United States, colorectal cancer (CRC) is the third most common cancer diagnosed among men and women and the second leading cause of death from cancer. CRC largely can be prevented by the detection and removal of adenomatous polyps, and survival is significantly better when CRC is diagnosed while still localized. In 2006 to 2007, the American Cancer Society, the US Multi Society Task Force on Colorectal Cancer, and the American College of Radiology came together to develop consensus guidelines for the detection of adenomatous polyps and CRC in asymptomatic average-risk adults. In this update of each organization's guidelines, screening tests are grouped into those that primarily detect cancer early and those that can detect cancer early and also can detect adenomatous polyps, thus providing a greater potential for prevention through polypectomy. When possible, clinicians should make patients aware of the full range of screening options, but at a minimum they should be prepared to offer patients a choice between a screening test that is effective at both early cancer detection and cancer prevention through the detection and removal of polyps and a screening test that primarily is effective at early cancer detection. It is the strong opinion of these 3 organizations that colon cancer prevention should be the primary goal of screening.
 
 ---
 
-### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of colon cancer [^9bce3f55]. Diseases of the Colon and Rectum (2022). High credibility.
+### The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of colon cancer [^114yzMhn]. Diseases of the Colon and Rectum (2022). High credibility.
 
 ASCRS colon cancer guideline methods — the update scope, evidence search, and grading are summarized as follows: The guideline is based on the previous colon cancer parameter published in 2017 and includes 11 new, 10 updated, and 2 excluded recommendations. Searches and screening identified 241 unique Embase titles (with 10 added to qualitative synthesis) plus 35 from embedded references, yielding 7958 unique citations; after screening, 1921 individual citations were selected for potential inclusion and 328 were included in the reference list. Recommendations were assigned using the Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) system, and ASCRS guidelines are updated approximately every five years.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^57f00c59]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^113FNZ2x]. The American Journal of Gastroenterology (2021). High credibility.
 
 ACG Clinical Guidelines: colorectal cancer screening 2021 — methods and scope state that the guideline is "framed around several key questions" and that the authors "conducted a focused literature search and used existing guidelines and technical reviews on CRC screening by key organizations". The grading approach used "a modified Grading of Recommendations, Assessment, Development and Evaluation methodology (GRADE)", with strength language defined as "We used "recommend" for strong recommendations and "suggest" for conditional recommendations". The evidence base and population scope are specified: "We conducted a comprehensive literature search to include studies through October 2020", and "The inclusion criteria were studies of any design with men and women age 40 years and older".
 
 ---
 
-### Screening colonoscopy in balance. issues of implementation [^bfa16604]. Gastroenterology Clinics of North America (2002). Low credibility.
+### Screening colonoscopy in balance. issues of implementation [^115u6r83]. Gastroenterology Clinics of North America (2002). Low credibility.
 
 Although colonoscopy is currently considered an option for colon cancer screening, its choice as a preferred screening test is not supported by data, recommendations, or cost-effectiveness analysis. The use of colonoscopy in postpolypectomy surveillance constitutes a huge potential effort that should be appropriately anticipated and managed. Noninvasive methods for colon cancer screening may reduce the need for colonoscopy in the future.
 
 ---
 
-### Recommendations for follow-up after colonoscopy and polypectomy: a consensus update by the Us Multi-society Task Force on Colorectal Cancer [^a507612b]. Gastrointestinal Endoscopy (2020). High credibility.
+### Recommendations for follow-up after colonoscopy and polypectomy: a consensus update by the Us Multi-society Task Force on Colorectal Cancer [^115DfSGJ]. Gastrointestinal Endoscopy (2020). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, USMSTF 2020 guidelines recommend to obtain repeat colonoscopy in 10 years in patients with normal, high-quality colonoscopy.
 
 ---
 
-### Colorectal cancer screening and prevention [^390b568a]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^112Ta6ws]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, AAFP 2025 guidelines recommend to obtain CRC screening in patients with ≥ 1 first-degree relatives with CRC or adenomatous polyps, starting at 40 years of age or 10 years before the age of the youngest relative at the time of their diagnosis.
 
 ---
 
-### Colorectal cancer screening and prevention [^c270f773]. American Family Physician (2025). High credibility.
+### Colorectal cancer screening and prevention [^115yGYSN]. American Family Physician (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, AAFP 2025 guidelines recommend to consider obtaining screening for CRC in adults aged 76–85 years at average risk based on overall health status, prior screening history, and patient preferences.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^ea429d40]. The American Journal of Gastroenterology (2021). Medium credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^116zJUhD]. The American Journal of Gastroenterology (2021). Medium credibility.
 
 Colorectal cancer (CRC) is the third most common cancer in men and women in the United States. CRC screening efforts are directed toward removal of adenomas and sessile serrated lesions and detection of early-stage CRC. The purpose of this article is to update the 2009 American College of Gastroenterology CRC screening guidelines. The guideline is framed around several key questions. We conducted a comprehensive literature search to include studies through October 2020. The inclusion criteria were studies of any design with men and women age 40 years and older. Detailed recommendations for CRC screening in average-risk individuals and those with a family history of CRC are discussed. We also provide recommendations on the role of aspirin for chemoprevention, quality indicators for colonoscopy, approaches to organized CRC screening and improving adherence to CRC screening. CRC screening must be optimized to allow effective and sustained reduction of CRC incidence and mortality. This can be accomplished by achieving high rates of adherence, quality monitoring and improvement, following evidence-based guidelines, and removing barriers through the spectrum of care from noninvasive screening tests to screening and diagnostic colonoscopy. The development of cost-effective, highly accurate, noninvasive modalities associated with improved overall adherence to the screening process is also a desirable goal.
 
 ---
 
-### Screening for colorectal cancer: updated evidence report and systematic review for the US preventive services task force [^35592bd6]. JAMA (2016). Excellent credibility.
+### Screening for colorectal cancer: updated evidence report and systematic review for the US preventive services task force [^112N6J8d]. JAMA (2016). Excellent credibility.
 
 Importance
 
@@ -464,7 +464,7 @@ Colonoscopy, flexible sigmoidoscopy, CTC, and stool tests have differing levels 
 
 ---
 
-### Communicating benefits and risks of screening for prostate, colon, and breast cancer [^ed148b16]. Family Medicine (2011). Low credibility.
+### Communicating benefits and risks of screening for prostate, colon, and breast cancer [^1174Uy1F]. Family Medicine (2011). Low credibility.
 
 Background
 
@@ -472,37 +472,37 @@ Screening for cancer has become a standard of practice in contemporary health ca
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^c813c5d6]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^1167dAZs]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, USMSTF 2017 guidelines recommend to consider offering sequential screening tests, multiple screening options, or risk-stratified screening as reasonable approaches for CRC screening.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^55c61d1c]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^113CAVX9]. JAMA (2021). Excellent credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 50–75 years, USPSTF 2021 guidelines recommend to obtain screening for CRC in all 50–75 years old individuals.
 
 ---
 
-### Recommendations for follow-up after colonoscopy and polypectomy: a consensus update by the Us Multi-society Task Force on Colorectal Cancer [^9a7e1ddf]. Gastrointestinal Endoscopy (2020). High credibility.
+### Recommendations for follow-up after colonoscopy and polypectomy: a consensus update by the Us Multi-society Task Force on Colorectal Cancer [^114x3TMG]. Gastrointestinal Endoscopy (2020). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, USMSTF 2020 guidelines recommend to obtain repeat colonoscopy in 10 years in patients with ≤ 20 hyperplastic polyps < 10 mm in size in the rectum or sigmoid colon removed at a high-quality examination.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^5d71013a]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^113PXoih]. JAMA (2021). Excellent credibility.
 
 Colorectal cancer epidemiology and screening uptake in the US — Colorectal cancer is the third leading cause of cancer death for both men and women, with an estimated 52 980 persons in the US projected to die of colorectal cancer in 2021, and it is most frequently diagnosed among persons aged 65 to 74 years. It is estimated that 10.5% of new colorectal cancer cases occur in persons younger than 50 years, and incidence in adults aged 40 to 49 years has increased by almost 15% from 2000–2002 to 2014–2016. In 2016, 26% of eligible adults in the US had never been screened for colorectal cancer and in 2018, 31% were not up to date with screening.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^a60b994e]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^115FAqk9]. JAMA (2021). Excellent credibility.
 
 US Preventive Services Task Force colorectal cancer screening — evidence review and modeling objectives included commissioning a systematic review to evaluate the benefits and harms of screening for colorectal cancer in adults 40 years or older and examining whether findings varied by age, sex, or race/ethnicity. In addition, the USPSTF commissioned a report from the Cancer Intervention and Surveillance Modeling Network Colorectal Cancer Working Group to provide comparative modeling on estimated life-years gained, colorectal cancer cases averted, and colorectal cancer deaths averted by different starting and stopping ages for various screening strategies.
 
 ---
 
-### Colon cancer treatment-NCI… [^8669c2ac]. NCI (2025). Medium credibility.
+### Colon cancer treatment-NCI… [^114SGs9D]. NCI (2025). Medium credibility.
 
 Stage II colon cancer Stage II colon cancer is divided into stages IIA, IIB, and IIC.
 - **Stage IIA**: Cancer has spread through the muscle layer of the colon wall to the serosa of the colon wall.
@@ -527,55 +527,55 @@ BRAFgene
 
 ---
 
-### Fecal occult blood test screening for colorectal cancer [^912ca5af]. Gastrointestinal Endoscopy Clinics of North America (2002). Low credibility.
+### Fecal occult blood test screening for colorectal cancer [^114iECfG]. Gastrointestinal Endoscopy Clinics of North America (2002). Low credibility.
 
 In summary, high-quality scientific studies indicate that the use of the FOBT for colorectal cancer screening has a number of important advantages. The test is capable of detecting most early colorectal cancers and many advanced adenomas. It has been shown in randomized, controlled trials to reduce substantially colorectal cancer mortality and incidence. The FOBT is feasible, widely available, and acceptable to most individuals. It has a low up-front cost and is highly cost-effective. Combining annual FOBT with periodic flexible sigmoidoscopy seems to be an especially effective screening option. Limitations of FOBT screening include its low sensitivity for polyps, especially smaller ones. Some of the trials report a relatively low sensitivity for detecting cancers located in the distal colon. The test has a relatively low specificity, so there are many false-positive screens; and for it to be most effective, repetitive screening is necessary. Balancing these advantages and disadvantages, the evidence-based screening guidelines have concluded that FOBT screening has a major role to play in colorectal cancer control and a program of annual FOBT plus flexible sigmoidoscopy every 5 years is a preferred option for screening the asymptomatic, average-risk population for colorectal cancer. Short of doing direct colonoscopy screening for the entire at-risk population, the FOBT currently is the best available method of identifying asymptomatic, average-risk people most likely to benefit from colonoscopy.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^bfe63712]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^115uVxn5]. JAMA (2021). Excellent credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 45–49 years, USPSTF 2021 guidelines recommend to obtain screening for CRC starting in 45–49 years old individuals.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^7ada7296]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^11498s5o]. JAMA (2021). Excellent credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, USPSTF 2021 guidelines recommend to offer screening for CRC selectively in 76–85 years old individuals, taking into account the patient's overall health, prior screening history, and preferences.
 
 ---
 
-### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^3d9018a8]. Gastroenterology (2023). High credibility.
+### AGA clinical practice update on risk stratification for colorectal cancer screening and post-polypectomy surveillance: expert review [^112aGeQw]. Gastroenterology (2023). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, AGA 2023 guidelines recommend to offer the following screening options for individuals at average risk for CRC based on availability and individual preference: colonoscopy, FIT, flexible sigmoidoscopy plus FIT, multitarget stool DNA FIT, and CT colonography.
 
 ---
 
-### Screening for colorectal cancer in asymptomatic average-risk adults: a guidance statement from the American College of Physicians (version 2) [^b8ec2c37]. Annals of Internal Medicine (2023). High credibility.
+### Screening for colorectal cancer in asymptomatic average-risk adults: a guidance statement from the American College of Physicians (version 2) [^115jA3sL]. Annals of Internal Medicine (2023). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, ACP 2023 guidelines recommend to obtain a fecal immunochemical or high-sensitivity guaiac FOBT every 2 years, colonoscopy every 10 years, or flexible sigmoidoscopy every 10 years plus a FIT every 2 years as a screening test for CRC.
 
 ---
 
-### NCCN guidelines® insights: colorectal cancer screening, version 1.2024 [^f70e23db]. Journal of the National Comprehensive Cancer Network (2024). Medium credibility.
+### NCCN guidelines® insights: colorectal cancer screening, version 1.2024 [^117KGh5U]. Journal of the National Comprehensive Cancer Network (2024). Medium credibility.
 
 The NCCN Guidelines for Colorectal Cancer (CRC) Screening describe various colorectal screening modalities as well as recommended screening schedules for patients at average or increased risk of developing sporadic CRC. They are intended to aid physicians with clinical decision-making regarding CRC screening for patients without defined genetic syndromes. These NCCN Guidelines Insights focus on select recent updates to the NCCN Guidelines, including a section on primary and secondary CRC prevention, and provide context for the panel's recommendations regarding the age at which to initiate screening in average-risk individuals and those with increased risk based on personal history of childhood, adolescent, and young adult cancer.
 
 ---
 
-### European guidelines for quality assurance in colorectal cancer screening and diagnosis. first edition – executive summary [^c75c7d76]. Endoscopy (2012). Low credibility.
+### European guidelines for quality assurance in colorectal cancer screening and diagnosis. first edition – executive summary [^1166Zbw3]. Endoscopy (2012). Low credibility.
 
 Multidisciplinary, evidence-based guidelines for quality assurance in colorectal cancer screening and diagnosis have been developed by experts in a project coordinated by the International Agency for Research on Cancer. The full guideline document covers the entire process of population-based screening. It consists of 10 chapters and over 250 recommendations, graded according to the strength of the recommendation and the supporting evidence. The 450-page guidelines and the extensive evidence base have been published by the European Commission. The content of the executive summary is presented here to promote international discussion and collaboration by making the principles and standards recommended in the new EU Guidelines known to a wider professional and scientific community. Following these recommendations has the potential to enhance the control of colorectal cancer through improvement in the quality and effectiveness of screening programmes and services.
 
 ---
 
-### Current and future colorectal cancer screening strategies [^c324d76a]. Nature Reviews: Gastroenterology & Hepatology (2022). High credibility.
+### Current and future colorectal cancer screening strategies [^115zJxgZ]. Nature Reviews: Gastroenterology & Hepatology (2022). High credibility.
 
 Despite strong evidence of effectiveness, colorectal cancer (CRC) screening remains underused. Currently, there are several options for CRC screening, each with its own performance characteristics and considerations for practice. This Review aims to cover current CRC screening guidelines and highlight future blood-based and imaging-based options for screening. In current practice, the leading non-invasive option is the faecal immunochemical test (FIT) based on its high specificity, good sensitivity, low cost and ease of use in mailed outreach programmes. There are currently five blood-based CRC screening tests in varying stages of evaluation, including one that is currently sold in the USA as a laboratory-developed test. There are ongoing studies on the diagnostic accuracy and longitudinal performance of blood tests and they have the potential to disrupt the CRC screening landscape. Imaging-based options, including the colon capsule, MR colonography and the CT capsule, are also being tested in active studies. As the world attempts to recover from the COVID-19 pandemic and adapts to the start of CRC screening among people at average risk starting at age 45 years, non-invasive options will become increasingly important.
 
 ---
 
-### Safe, efficient, and effective screening colonoscopy [^5ce7a01b]. Current Opinion in Gastroenterology (2022). Medium credibility.
+### Safe, efficient, and effective screening colonoscopy [^113NjfMU]. Current Opinion in Gastroenterology (2022). Medium credibility.
 
 Purpose Of Review
 
@@ -591,13 +591,13 @@ Clinicians should be aware of relevant data and literature that continue to impr
 
 ---
 
-### Colon cancer: detection and prevention [^bc832c74]. Gastroenterology Clinics of North America (2002). Low credibility.
+### Colon cancer: detection and prevention [^115pUjT1]. Gastroenterology Clinics of North America (2002). Low credibility.
 
 Recent data have advanced our ability to detect, survey, and manage patients with colonic neoplasia. Current studies and consensus statements increasingly support the role of colonoscopic screening over less invasive testing such as FOBT or FS for appropriately selected individuals. There are many issues, however, that remain unresolved. What is the appropriate surveillance of an individual with a single family member who had colon cancer at an early age? How should family members of suspected HNPCC kindreds be managed? There has yet to be a prospective cohort validation of the Bethesda criteria in directing clinical practice, with the endpoint of mortality reduction. Questions regarding prophylaxis with dietary supplements and medications are exciting areas that are currently under study. As newer technologies become clinically available for molecular diagnostics and screening, and virtual colonoscopy with computed tomography and magnetic resonance disseminates, there will undoubtedly be new questions to be answered regarding their ability to aid in the detection and management of colon cancer.
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^06ddc02f]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^111BBQk6]. JAMA (2021). Excellent credibility.
 
 EVIDENCE ASSESSMENT
 
@@ -605,92 +605,92 @@ The USPSTF concludes with high certainty that screening for colorectal cancer in
 
 ---
 
-### Screening for colorectal cancer: recommendation and rationale [^ce1ed8b1]. Annals of Internal Medicine (2002). Low credibility.
+### Screening for colorectal cancer: recommendation and rationale [^116GaozQ]. Annals of Internal Medicine (2002). Low credibility.
 
 This statement summarizes the current U.S. Preventive Services Task Force (USPSTF) recommendation on screening for colorectal cancer and the supporting scientific evidence and updates the 1995 recommendations contained in the Guide to Clinical Preventive Services, 2nd edition. At that time, the USPSTF recommended screening for colorectal cancer with annual fecal occult blood testing, periodic sigmoidoscopy, or the combination of fecal occult blood testing and sigmoidoscopy but concluded that the evidence was insufficient to recommend for or against colonoscopy or barium enema. The complete USPSTF recommendation and rationale statement on this topic, which includes a brief review of the supporting evidence, is available through the USPSTF Web site (http://www.preventiveservices.ahrq.gov), the National Guideline Clearinghouse (http://www.guideline.gov), and in print through the Agency for Healthcare Research and Quality Publications Clearinghouse (telephone, 800-358-9295; e-mail, ahrqpubs@ahrq.gov). The complete information on which this statement is based, including tables and references, is available in the accompanying article in this issue and in the summary of the evidence and systematic evidence review on the Web sites already mentioned.
 
 ---
 
-### Using quality improvement techniques to increase colon cancer screening [^b39d3dc2]. The American Journal of Medicine (2009). Low credibility.
+### Using quality improvement techniques to increase colon cancer screening [^115bHbkV]. The American Journal of Medicine (2009). Low credibility.
 
 Screening has been shown to be effective and cost-effective in reducing the incidence of, and mortality from, colorectal cancer. Despite its demonstrated efficacy, colon cancer screening remains underused, with fewer than 60% of age-eligible adults reporting being up to date with recommended screening tests. Several factors account for the low rates of utilization, including patient, provider and system-related issues. Several interventions have been shown to be effective in overcoming these barriers, including the use of patient decision aids. Patient decision aids are tools designed to provide information to patients about screening options, help them consider the pros and cons of the alternatives, and assist them to reach a decision consistent with their values. The use of decision aids in clinical practice can increase screening rates by up to 14 percentage points. Mailing the decision aids to patients in advance of office visits appears to be a cost-effective means of implementation.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^d252e582]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^116NpF8m]. JAMA (2021). Excellent credibility.
 
 US Preventive Services Task Force colorectal cancer screening — age-specific recommendations and scope are as follows: for adults aged 50 to 75 years, "Screen all adults aged 50 to 75 years for colorectal cancer. Grade A"; for adults aged 45 to 49 years, "Screen adults aged 45 to 49 years for colorectal cancer. Grade B"; and for adults aged 76 to 85 years, "Selectively screen adults aged 76 to 85 years for colorectal cancer, considering the patient's overall health, prior screening history, and patient's preferences. Grade C". This recommendation applies to "Adults 45 years or older who do not have signs or symptoms of colorectal cancer and who are at average risk for colorectal cancer", and the USPSTF notes an update: "The USPSTF expanded the recommended ages for colorectal cancer screening to 45 to 75 years (previously, it was 50 to 75 years)".
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^8c722b9b]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^114bDcft]. JAMA (2021). Excellent credibility.
 
 Burden and screening gaps — key epidemiology: Colorectal cancer "is the third leading cause of cancer death for both men and women, with an estimated 52 980 persons in the US projected to die of colorectal cancer in 2021". It "is most frequently diagnosed among persons aged 65 to 74 years", and "It is estimated that 10.5% of new colorectal cancer cases occur in persons younger than 50 years". Among adults 40–49 years, incidence "has increased by almost 15% from 2000–2002 to 2014–2016". Screening uptake remains suboptimal: "In 2016, 25.6% of eligible adults in the US had never been screened for colorectal cancer and in 2018, 31.2% were not up to date with screening".
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^bd4d0fd0]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^115qeYYf]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, USMSTF 2017 guidelines recommend to obtain colonoscopy every 10 years or an annual FIT as first-tier options for CRC screening in average-risk individuals.
 
 ---
 
-### British society of gastroenterology guidelines on colorectal surveillance in inflammatory bowel disease [^d5b5b860]. Gut (2025). High credibility.
+### British society of gastroenterology guidelines on colorectal surveillance in inflammatory bowel disease [^116TqQDm]. Gut (2025). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, IBD, BSG 2025 guidelines recommend to obtain colonoscopic surveillance in patients with colonic IBD to reduce CRC-associated mortality through early detection.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^8507d0af]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^114QDyjU]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, USMSTF 2017 guidelines recommend to start CRC screening at age 40 (with the same intervals as for the average-risk population) in individuals with 1 first-degree relative diagnosed with CRC or a documented advanced adenoma at age ≥ 60 years.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^388b58f8]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^112Sq7VR]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Screening targets for colorectal cancer (CRC) emphasize goals and lesion types: "The object of screening is to reduce CRC incidence and mortality", and "To accomplish both aims, tests need to detect early-stage (ie, curable) CRCs and high-risk precancerous lesions". The guideline notes that "Detection and removal of precancerous lesions prevents CRC" and that "The 2 main classes of precancerous lesions in the colon are conventional adenomas and serrated class lesions (Table 2)".
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^7399a824]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^113xPBtF]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, alternative choices, USMSTF 2017 guidelines recommend to obtain CT colonography every 5 years, FIT-fecal DNA every 3 years,
 or flexible sigmoidoscopy every 5–10 years as alternative options.
 
 ---
 
-### Screening for cancer: evaluating the evidence [^697de614]. American Family Physician (2001). Low credibility.
+### Screening for cancer: evaluating the evidence [^113hPzJ7]. American Family Physician (2001). Low credibility.
 
 Many patients expect to undergo screening tests for cancer. In evaluating screening procedures, physicians must take into account the known effects of lead time, length and screening biases, all of which can result in an overestimation of the benefits of screening. The gold standard by which a screening test is evaluated remains the prospective, randomized controlled trial, demonstrating reduced morbidity and mortality. The magnitude of benefit from screening is best expressed in terms of the number of patients needed to screen. This value ranges from approximately 500 to 1,100 for proven screening interventions. These concepts are illustrated by controversies in current screening recommendations for cancers of the cervix, lung, colon, breast and prostate, which together account for more than 50 percent of cancer deaths in the United States.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^7ee41caa]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^114F84VF]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Flexible sigmoidoscopy for CRC screening — effect sizes and intervals are as follows: Randomized controlled trials confirm reductions in distal colon or rectosigmoid cancer incidence and/or mortality of 29% to 76% with flexible sigmoidoscopy, and it can prevent a small fraction (14%) of proximal colon cancers if liberal criteria are used to indicate colonoscopy based on flexible sigmoidoscopy findings. Flexible sigmoidoscopy when used is often recommended at 5-year intervals; there is no clear reason why flexible sigmoidoscopy should not be recommended at 10-year intervals, similar to the recommendation for colonoscopy. The MSTF considers that either 5- or 10-year intervals are acceptable but favors 10-year intervals.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^3ea570ce]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^112bsoWu]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 45–49 years, USMSTF 2017 guidelines recommend to consider obtaining screening for CRC starting at the age of 45 in African Americans.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^c8e873bb]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^1168rbtn]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, ACG 2021 guidelines recommend to consider obtaining screening for CRC (with a colonoscopy, every 5 years) starting at the age of 40 or 10 years before the youngest affected relative, whichever is earlier, in individuals with CRC or advanced polyp in 1 first-degree relative at age < 60 years or CRC or advanced polyp in ≥ 2 first-degree relatives at any age.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^f31fe5bf]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^117DShti]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, primary choice, ACG 2021 guidelines recommend to obtain colonoscopy and FIT as the primary screening modalities for CRC screening.
 
 ---
 
-### Design and evaluation of a colon cancer mobile application [^63a89ef3]. BMC Gastroenterology (2024). Medium credibility.
+### Design and evaluation of a colon cancer mobile application [^113YkQu8]. BMC Gastroenterology (2024). Medium credibility.
 
 Although CRC incidence and mortality have declined steadily over the past few decades among adults over 65 years of age, an opposite trend has occurred in adults younger than 50 years, for whom routine screening is not recommended. The alarming increase in young adults combined with the continuing burden of disease in the general population indicates the need to develop new prevention strategies to complement screening. Due to the preventable nature of the disease, the need for public awareness about prevention and early diagnosis with existing screening methods is very important. Early detection is a critical public health strategy in all settings, especially in high-risk populations. CRC is one of the cancers whose mortality can be reduced by 9–32% with regular screening.
 
@@ -698,7 +698,7 @@ Given the slow progression of the disease from detectable precancerous lesions a
 
 ---
 
-### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^0d7fc09e]. BMJ (2014). Excellent credibility.
+### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^111M1kUu]. BMJ (2014). Excellent credibility.
 
 Objectives To review, summarise, and compare the evidence for effectiveness of screening sigmoidoscopy and screening colonoscopy in the prevention of colorectal cancer occurrence and deaths.
 
@@ -714,31 +714,31 @@ Conclusions Compelling and consistent evidence from randomised controlled trials
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^2f5e9d81]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^112DECVv]. JAMA (2021). Excellent credibility.
 
 US Preventive Services Task Force (USPSTF) colorectal cancer screening — The USPSTF recommends colorectal cancer screening in adults aged 50 to 75 years (A recommendation) and now recommends offering screening starting at age 45 years (B recommendation). Screening in adults aged 76 to 85 years should be an individual decision (C recommendation), and screening should be discontinued after age 85 years.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^21493198]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^111rMBEF]. JAMA (2021). Excellent credibility.
 
 US Preventive Services Task Force colorectal cancer screening — population targeted comprises asymptomatic adults 45 years or older at average risk of colorectal cancer (ie, no prior diagnosis of colorectal cancer, adenomatous polyps, or inflammatory bowel disease; and no personal diagnosis or family history of known genetic disorders that predispose them to a high lifetime risk of colorectal cancer such as Lynch syndrome or familial adenomatous polyposis).
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^dca83f5c]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^116e8niw]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, general population, aged 76–85 years, USMSTF 2017 guidelines recommend to consider continuing CRC screening up to age 85 in individuals without prior screening, depending on consideration of their age and comorbidities.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^30ea26f9]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^112FX4BS]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, USMSTF 2017 guidelines recommend to consider obtaining screening for CRC (with colonoscopy every 5 years beginning 10 years younger than the age at which the youngest first-degree relative was diagnosed or age 40, whichever is earlier) in individuals with 1 first-degree relative with CRC or a documented advanced adenoma diagnosed at age < 60 years or with 2 first-degree relatives with CRC and/or documented advanced adenomas.
 
 ---
 
-### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^10b6f2ff]. BMJ (2014). Excellent credibility.
+### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^111RnFeW]. BMJ (2014). Excellent credibility.
 
 Discussion
 
@@ -752,19 +752,19 @@ In general, randomised controlled trials are considered the gold standard for es
 
 ---
 
-### Screening and surveillance of colorectal cancer [^61b15219]. Gastrointestinal Endoscopy Clinics of North America (2005). Low credibility.
+### Screening and surveillance of colorectal cancer [^113VqMpc]. Gastrointestinal Endoscopy Clinics of North America (2005). Low credibility.
 
 Although colorectal cancer (CRC) is the second leading cause of cancer deaths in the United States, it is preventable. Screening modalities include fecal occult blood testing, flexible sigmoidoscopy, double-contrast barium enema, and colonoscopy. Colonoscopy allows effective detection and removal of precursor adenomatous polyps and is the dominant CRC screening modality. Emerging technologies include CT and MR colonography and fecal DNA tests. Effective and cost-effective surveillance after polypectomy and curative CRC resection requires balancing the protective effect of polypectomy while maximizing intervals between examinations; thus, estimation of the risk of recurrence determines the intensity of surveillance for individual patients.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^44dc8ed8]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^112m6Eym]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, ACG 2021 guidelines recommend to consider obtaining screening for CRC starting at the age of 40 or 10 years before the youngest affected relative and then resuming average-risk screening recommendations for individuals with CRC or advanced polyp in 1 first-degree relative at age ≥ 60 years.
 
 ---
 
-### Screening for colorectal cancer: a guidance statement from the American College of Physicians [^de108fcf]. Annals of Internal Medicine (2012). Low credibility.
+### Screening for colorectal cancer: a guidance statement from the American College of Physicians [^116gDpDC]. Annals of Internal Medicine (2012). Low credibility.
 
 Description
 
@@ -776,7 +776,7 @@ The authors searched the National Guideline Clearinghouse to identify guidelines
 
 ---
 
-### Colorectal cancer screening: the time to act is now [^637896bc]. BMC Medicine (2015). Low credibility.
+### Colorectal cancer screening: the time to act is now [^113YUHAB]. BMC Medicine (2015). Low credibility.
 
 Implications for research and practice
 
@@ -788,19 +788,19 @@ Timely and close monitoring of sex- and age-specific CRC incidence and mortality
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^730abc1c]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^113wZBYF]. JAMA (2021). Excellent credibility.
 
 USPSTF colorectal cancer screening net benefit by age — the USPSTF concludes with moderate certainty that there is a moderate net benefit of screening for colorectal cancer in adults aged 45 to 49 y; with high certainty that the net benefit is substantial in adults aged 50 to 75 y; and with moderate certainty that there is a small net benefit of screening for colorectal cancer in adults aged 76 to 85 y who have been previously screened.
 
 ---
 
-### Screening for colorectal cancer: US preventive services task force recommendation statement [^b255707d]. JAMA (2021). Excellent credibility.
+### Screening for colorectal cancer: US preventive services task force recommendation statement [^115ZPVf2]. JAMA (2021). Excellent credibility.
 
 USPSTF colorectal cancer screening initiation and cessation — the USPSTF recommends offering colorectal cancer screening starting at age 45 years. Although the absolute risk of developing colorectal cancer in adults younger than 50 years is lower, rates are 20.0 new colorectal cancer cases per 100 000 persons aged 40 to 49 years, 47.8 new cases per 100 000 persons aged 50 to 59 years, and 105.2 new cases per 100 000 persons 60 years or older, and modeling suggests that starting colorectal cancer screening at age 45 years may moderately increase life-years gained and decrease colorectal cancer cases and deaths compared with beginning screening at age 50 years. In adults aged 76 to 85 years, the age at which the balance of benefits and harms becomes less favorable and screening should be stopped varies based on health status, prior screening status, and individual preferences; modeling studies estimate that generally, few additional life-years are gained when screening is extended past age 75 years among average-risk adults who have previously received adequate screening; and in adults 86 years or older, evidence on benefits and harms is lacking and competing causes of mortality likely preclude any survival benefit that would outweigh the harms of screening.
 
 ---
 
-### Study protocol: population screening for colorectal cancer by colonoscopy or CT colonography: a randomized controlled trial [^5a3c8dbd]. BMC Gastroenterology (2010). Low credibility.
+### Study protocol: population screening for colorectal cancer by colonoscopy or CT colonography: a randomized controlled trial [^113JnE3W]. BMC Gastroenterology (2010). Low credibility.
 
 Discussion
 
@@ -814,31 +814,31 @@ This study will provide information on the uptake of a population screening by c
 
 ---
 
-### Colon cancer, version 3.2024, NCCN clinical practice guidelines in oncology [^0b00cef9]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
+### Colon cancer, version 3.2024, NCCN clinical practice guidelines in oncology [^111HK8rL]. Journal of the National Comprehensive Cancer Network (2024). High credibility.
 
 Risk assessment — Approximately 20% of colon cancer cases are associated with familial clustering, and first-degree relatives of patients with colorectal adenomas or invasive colorectal cancer (CRC) are at increased risk for CRC; genetic susceptibility includes Lynch syndrome and familial adenomatous polyposis. It is recommended that all patients with colon cancer be queried regarding their family history and considered for risk assessment, as detailed in the NCCN Guidelines for Colorectal Cancer Screening, and results from a randomized controlled trial suggest that most individuals without a personal history of CRC and with one first-degree relative with CRC diagnosed before age 50 years or two first-degree relatives with CRC diagnosed at any age can safely be screened with colonoscopy every 6 years.
 
 ---
 
-### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^665b7927]. The American Journal of Gastroenterology (2017). Medium credibility.
+### Colorectal cancer screening: recommendations for physicians and patients from the U.S. multi-society task force on colorectal cancer [^113ckTne]. The American Journal of Gastroenterology (2017). Medium credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, USMSTF 2017 guidelines recommend to obtain annual FIT in individuals with ≥ 1 first-degree relatives with CRC or documented advanced adenomas and declining colonoscopy.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^d8308908]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^116XWdR1]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, family history, ACG 2021 guidelines recommend to consider obtaining screening for CRC according to average-risk screening recommendations in individuals with 1 second-degree relative with CRC or advanced polyp.
 
 ---
 
-### ACG clinical guidelines: colorectal cancer screening 2021 [^2bb500b2]. The American Journal of Gastroenterology (2021). High credibility.
+### ACG clinical guidelines: colorectal cancer screening 2021 [^1127oGLR]. The American Journal of Gastroenterology (2021). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to choice of screening tests, alternative choices, ACG 2021 guidelines recommend to consider obtaining flexible sigmoidoscopy (every 5–10 years), multitarget stool DNA test (every 3 years), CT colonography (every 5 years), or colon capsule endoscopy (every 5 years) as alternative screening modalities in individuals unable or unwilling to undergo colonoscopy or FIT.
 
 ---
 
-### Colon capsule endoscopy versus CT colonography in FIT-positive colorectal cancer screening subjects: a prospective randomised trial-the VICOCA study [^72cf33a2]. BMC Medicine (2020). Medium credibility.
+### Colon capsule endoscopy versus CT colonography in FIT-positive colorectal cancer screening subjects: a prospective randomised trial-the VICOCA study [^113wDBjw]. BMC Medicine (2020). Medium credibility.
 
 Background
 
@@ -857,13 +857,13 @@ There are different strategies for CRC screening, but the most extensively accep
 
 ---
 
-### AGA white paper: roadmap for the future of colorectal cancer screening in the United States [^0fd951ca]. Clinical Gastroenterology and Hepatology (2020). High credibility.
+### AGA white paper: roadmap for the future of colorectal cancer screening in the United States [^111QVoxD]. Clinical Gastroenterology and Hepatology (2020). High credibility.
 
 Strategy 8 — research on earlier colorectal cancer (CRC) screening states to "support research to better characterize the benefits and risks of initiating colorectal cancer screening at a younger age". "Studies should focus on the cost effectiveness of screening younger patients, the performance characteristics of screening tests in specific cohorts of younger people, and how factors such as BMI, lifestyle, and family history impact risk in younger patients", and "There is also a need for studies to address adherence to different screening test methods by younger patients, as well as their likelihood of screening participation and compliance with recommended surveillance intervals". It further notes that "The increasing incidence of CRC in people younger than age 50 years may be secondary to changes in dietary patterns, activity levels, the gut microbiome, or other factors", and that effects "could be measured with novel assays that assess the colon mucosa for field cancerization or protumorigenic early changes in cancer development".
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^8453282e]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^114PBJE9]. JAMA (2021). Excellent credibility.
 
 Figure 2. Benefits of Colorectal Cancer Screening
 
@@ -871,19 +871,19 @@ A. Benefit: Estimated life-years gained per 1000 individuals screeneda
 
 ---
 
-### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^089e5591]. BMJ (2014). Excellent credibility.
+### Effect of screening sigmoidoscopy and screening colonoscopy on colorectal cancer incidence and mortality: systematic review and meta-analysis of randomised controlled trials and observational studies [^111Dn5rY]. BMJ (2014). Excellent credibility.
 
 In both randomised controlled trials and observational studies on screening sigmoidoscopy the reduction of colorectal cancer incidence and mortality was much stronger or even confined to distal colorectal cancer, which is consistent with expectations given the limited reach of the sigmoidoscope. With a lack of randomised controlled trials and only six observational studies, evidence for the effect of screening colonoscopy is still rather limited, even though it has been substantially strengthened by four most recent studies from the United States, Germany, and Switzerland published in 2012 and 2013. Despite some heterogeneity in results, which was to a large extent due to a less rigorous earlier study, meta-analyses suggest a substantially stronger reduction of colorectal cancer incidence and mortality by screening colonoscopy than by screening sigmoidoscopy, in particular for cancer of the proximal colon. Nevertheless, protection from cancer ofthe proximal colon seems to be less pronounced than for distal colorectal cancer even in cases of screening colonoscopy, which might be explained by lower detection rates of proximal compared with distal neoplasmsas well as differences in tumour biology. Major differences between proximal and distal cancers have also been found in studies not differentiating between screening and other colonoscopies (which were not included in our review), several of which had not found a protective effect of colonoscopy for proximal cancers. Given the still limited data on screening colonoscopy, its impact and relative effectiveness compared with screening sigmoidoscopy should be tackled in further studies. Also, further research is needed in which the incremental effectiveness of screening colonoscopy compared with sigmoidoscopy is weighed against the higher costs, complexity, discomfort, complication rates, and capacities needed compared with screening sigmoidoscopy. Furthermore, effectiveness of screening colonoscopy may strongly depend on qualification of endoscopists. Performing high quality screening with colonoscopy is challenging and requires major resources in terms of colonoscopy capacity, training, and quality assurance that may not be available or may be difficult to establish in many healthcare systems.
 
 ---
 
-### British society of gastroenterology and UK-PSC guidelines for the diagnosis and management of primary sclerosing cholangitis [^90f68a83]. Gut (2019). High credibility.
+### British society of gastroenterology and UK-PSC guidelines for the diagnosis and management of primary sclerosing cholangitis [^114hv2b4]. Gut (2019). High credibility.
 
 Regarding screening and diagnosis for colon cancer, more specifically with respect to indications for screening, high-risk individuals, PSC, BSG 2019 guidelines recommend to consider obtaining less frequent 5-year colonoscopies, or earlier in the advent of new symptoms, in patients with PSC without IBD.
 
 ---
 
-### Final recommendation statement: colorectal cancer: screening [^278b239d]. JAMA (2021). Excellent credibility.
+### Final recommendation statement: colorectal cancer: screening [^1121dFe4]. JAMA (2021). Excellent credibility.
 
 Response to Public Comments
 

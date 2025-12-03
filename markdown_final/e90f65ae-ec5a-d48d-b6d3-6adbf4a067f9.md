@@ -15,43 +15,43 @@ Causes of gastroesophageal varesis
 
 > Let's see… What do we have here? The user is asking about the causes of gastroesophageal varices. Let's break this down step-by-step. First, I need to think about the core pathophysiology and the portal pressure threshold that drives variceal formation. Then, I should verify the predominant etiologies of portal hypertension, distinguishing cirrhotic from non-cirrhotic causes. Next, I will examine less common contributors and clarify what is not a cause. Finally, I will synthesize a concise, hierarchical summary and ensure each assertion is supported by guidelines or high-quality reviews.
 
-> Let me first confirm the fundamental mechanism. Gastroesophageal varices are dilated submucosal collaterals that form when portal pressure rises and the normal hepatic venous outflow is impeded, creating portosystemic shunting at the gastroesophageal junction. Clinically significant portal hypertension is typically defined at a portal pressure gradient of 10 mmHg or higher, which correlates with variceal formation and decompensation risk [^4a28ae53] [^3536b9b6].
+> Let me first confirm the fundamental mechanism. Gastroesophageal varices are dilated submucosal collaterals that form when portal pressure rises and the normal hepatic venous outflow is impeded, creating portosystemic shunting at the gastroesophageal junction. Clinically significant portal hypertension is typically defined at a portal pressure gradient of 10 mmHg or higher, which correlates with variceal formation and decompensation risk [^112twkPC] [^112Mtj5F].
 
-> Hold on, let's not jump to conclusions about etiologies before I verify the major categories. The predominant cause is cirrhosis from chronic liver disease, with alcohol-related liver disease, metabolic dysfunction–associated steatohepatitis, and chronic viral hepatitis (notably HCV) being the most common drivers of fibrosis and increased intrahepatic resistance that lead to portal hypertension and varices [^fe64fbf6] [^4a28ae53].
+> Hold on, let's not jump to conclusions about etiologies before I verify the major categories. The predominant cause is cirrhosis from chronic liver disease, with alcohol-related liver disease, metabolic dysfunction–associated steatohepatitis, and chronic viral hepatitis (notably HCV) being the most common drivers of fibrosis and increased intrahepatic resistance that lead to portal hypertension and varices [^117W9muo] [^112twkPC].
 
-> Wait, let me verify the non-cirrhotic causes so I don't over-attribute everything to cirrhosis. Non-cirrhotic portal hypertension accounts for a meaningful minority and includes portal vein thrombosis, Budd-Chiari syndrome, and idiopathic non-cirrhotic portal hypertension. These entities raise portal pressure via obstruction or microvascular remodeling without advanced fibrosis, thereby promoting variceal collaterals at the gastroesophageal junction [^6c42803a] [^42c39ed3] [^afa98fa6].
+> Wait, let me verify the non-cirrhotic causes so I don't over-attribute everything to cirrhosis. Non-cirrhotic portal hypertension accounts for a meaningful minority and includes portal vein thrombosis, Budd-Chiari syndrome, and idiopathic non-cirrhotic portal hypertension. These entities raise portal pressure via obstruction or microvascular remodeling without advanced fibrosis, thereby promoting variceal collaterals at the gastroesophageal junction [^113mVzyf] [^112hytbL] [^115VRndj].
 
-> I should double-check the contribution of splanchnic inflow and the hyperdynamic circulation. Increased splanchnic blood flow from vasodilation augments portal inflow and, in the setting of fixed outflow resistance, accelerates variceal enlargement and bleeding risk. This hemodynamic component explains why variceal bleeding correlates with the severity of portal hypertension and variceal size rather than liver function alone [^4a28ae53] [^137d06ed].
+> I should double-check the contribution of splanchnic inflow and the hyperdynamic circulation. Increased splanchnic blood flow from vasodilation augments portal inflow and, in the setting of fixed outflow resistance, accelerates variceal enlargement and bleeding risk. This hemodynamic component explains why variceal bleeding correlates with the severity of portal hypertension and variceal size rather than liver function alone [^112twkPC] [^111Vtm5W].
 
-> Let me consider less common or indirect contributors, but I need to be cautious not to overstate them. Chronic infections, thrombophilias, medications, and immunologic or genetic disorders can underlie non-cirrhotic portal hypertension and thus varices; however, these are upstream drivers of portal hypertension rather than direct causes of varices per se, and their prevalence varies geographically, with infections more prominent in Eastern cohorts and thrombophilia in Western cohorts [^42c39ed3].
+> Let me consider less common or indirect contributors, but I need to be cautious not to overstate them. Chronic infections, thrombophilias, medications, and immunologic or genetic disorders can underlie non-cirrhotic portal hypertension and thus varices; however, these are upstream drivers of portal hypertension rather than direct causes of varices per se, and their prevalence varies geographically, with infections more prominent in Eastern cohorts and thrombophilia in Western cohorts [^112hytbL].
 
 > Hmm, wait a minute, I initially thought "gastroesophageal reflux disease might contribute", but hold on, I should verify that. GERD is not a cause of gastroesophageal varices; it is a separate pathophysiologic entity with different mechanisms and complications, so I should explicitly correct that conflation and keep GERD out of the causal pathway for varices.
 
-> I will now examine the strength of evidence to ensure I'm aligning with guidelines. Multiple high-credibility sources converge on the same causal framework: varices result from portal hypertension due to cirrhosis in most cases, with non-cirrhotic portal hypertension as the next most common category. This is reflected in AASLD, EASL, and contemporary reviews, and is reinforced by the diagnostic use of varices themselves as evidence of clinically significant portal hypertension on endoscopy or imaging [^4a28ae53] [^2f364b95] [^983ccc16].
+> I will now examine the strength of evidence to ensure I'm aligning with guidelines. Multiple high-credibility sources converge on the same causal framework: varices result from portal hypertension due to cirrhosis in most cases, with non-cirrhotic portal hypertension as the next most common category. This is reflected in AASLD, EASL, and contemporary reviews, and is reinforced by the diagnostic use of varices themselves as evidence of clinically significant portal hypertension on endoscopy or imaging [^112twkPC] [^112Czf16] [^114thYG5].
 
-> Let me synthesize a concise, hierarchical answer. The primary cause of gastroesophageal varices is portal hypertension, most commonly from cirrhosis due to alcohol-related liver disease, MASH, and chronic hepatitis C. Non-cirrhotic portal hypertension from portal vein thrombosis, Budd-Chiari syndrome, and idiopathic non-cirrhotic portal hypertension are important secondary causes. Less common contributors include chronic infections, thrombophilia, medications, and immunologic or genetic disorders that lead to non-cirrhotic portal hypertension. GERD is not a cause of varices, and the unifying mechanism is a portal pressure gradient of about 10 mmHg or higher that drives portosystemic collateral formation at the gastroesophageal junction [^fe64fbf6] [^4a28ae53] [^6c42803a] [^42c39ed3] [^3536b9b6].
+> Let me synthesize a concise, hierarchical answer. The primary cause of gastroesophageal varices is portal hypertension, most commonly from cirrhosis due to alcohol-related liver disease, MASH, and chronic hepatitis C. Non-cirrhotic portal hypertension from portal vein thrombosis, Budd-Chiari syndrome, and idiopathic non-cirrhotic portal hypertension are important secondary causes. Less common contributors include chronic infections, thrombophilia, medications, and immunologic or genetic disorders that lead to non-cirrhotic portal hypertension. GERD is not a cause of varices, and the unifying mechanism is a portal pressure gradient of about 10 mmHg or higher that drives portosystemic collateral formation at the gastroesophageal junction [^117W9muo] [^112twkPC] [^113mVzyf] [^112hytbL] [^112Mtj5F].
 
 ---
 
-Gastroesophageal varices are caused by **portal hypertension** [^4a28ae53], most often due to **cirrhosis** from chronic liver disease (alcohol, hepatitis B/C, NASH) [^fe64fbf6]. Non-cirrhotic causes include portal vein thrombosis, Budd-Chiari syndrome, and schistosomiasis [^6c42803a] [^42c39ed3]. Varices form when portal pressure exceeds ~10 mmHg [^3536b9b6], forcing collateral veins to enlarge and become fragile, risking life-threatening bleeding [^4a28ae53]. Management focuses on **lowering portal pressure** and preventing hemorrhage [^c0d836b5] [^728a05ad].
+Gastroesophageal varices are caused by **portal hypertension** [^112twkPC], most often due to **cirrhosis** from chronic liver disease (alcohol, hepatitis B/C, NASH) [^117W9muo]. Non-cirrhotic causes include portal vein thrombosis, Budd-Chiari syndrome, and schistosomiasis [^113mVzyf] [^112hytbL]. Varices form when portal pressure exceeds ~10 mmHg [^112Mtj5F], forcing collateral veins to enlarge and become fragile, risking life-threatening bleeding [^112twkPC]. Management focuses on **lowering portal pressure** and preventing hemorrhage [^115vuFHn] [^113vox1r].
 
 ---
 
 ## Pathophysiology
 
-The key mechanism is **portal hypertension** [^4a28ae53], defined as a portal pressure gradient > 5 mmHg; clinically significant portal hypertension (CSPH) is ≥ 10 mmHg and drives variceal formation and bleeding risk [^3536b9b6]. CSPH arises from increased intrahepatic resistance (fibrosis, nodules, microthrombi) and increased splanchnic inflow from vasodilation, producing a hyperdynamic circulation and portosystemic collaterals, including gastroesophageal varices [^4a28ae53].
+The key mechanism is **portal hypertension** [^112twkPC], defined as a portal pressure gradient > 5 mmHg; clinically significant portal hypertension (CSPH) is ≥ 10 mmHg and drives variceal formation and bleeding risk [^112Mtj5F]. CSPH arises from increased intrahepatic resistance (fibrosis, nodules, microthrombi) and increased splanchnic inflow from vasodilation, producing a hyperdynamic circulation and portosystemic collaterals, including gastroesophageal varices [^112twkPC].
 
 ---
 
 ## Cirrhotic causes
 
-Cirrhosis is the **most common cause** of portal hypertension and varices [^fe64fbf6]. Major etiologies include:
+Cirrhosis is the **most common cause** of portal hypertension and varices [^117W9muo]. Major etiologies include:
 
-- **Alcoholic liver disease**: Chronic alcohol use causes fibrosis and cirrhosis, leading to portal hypertension and varices [^fe64fbf6].
+- **Alcoholic liver disease**: Chronic alcohol use causes fibrosis and cirrhosis, leading to portal hypertension and varices [^117W9muo].
 
-- **Chronic viral hepatitis**: HBV and HCV cause progressive fibrosis and cirrhosis, with varices in 50–60% of compensated and up to 85% of decompensated patients [^085a18a0].
+- **Chronic viral hepatitis**: HBV and HCV cause progressive fibrosis and cirrhosis, with varices in 50–60% of compensated and up to 85% of decompensated patients [^111DPAUF].
 
-- **Nonalcoholic steatohepatitis (NASH)**: Metabolic liver disease is a rising cause of cirrhosis and varices [^fe64fbf6].
+- **Nonalcoholic steatohepatitis (NASH)**: Metabolic liver disease is a rising cause of cirrhosis and varices [^117W9muo].
 
 ---
 
@@ -61,10 +61,10 @@ Non-cirrhotic portal hypertension accounts for ~20% of cases and includes:
 
 | **Cause** | **Mechanism** |
 |-|-|
-| Portal vein thrombosis (PVT) | Thrombotic obstruction of the portal vein increases prehepatic resistance [^6c42803a] |
-| Budd-Chiari syndrome | Hepatic vein thrombosis/obstruction increases posthepatic resistance [^afa98fa6] |
+| Portal vein thrombosis (PVT) | Thrombotic obstruction of the portal vein increases prehepatic resistance [^113mVzyf] |
+| Budd-Chiari syndrome | Hepatic vein thrombosis/obstruction increases posthepatic resistance [^115VRndj] |
 | Schistosomiasis | Granulomatous portal fibrosis increases intrahepatic resistance [^notfound] |
-| Idiopathic non-cirrhotic portal hypertension (INCPH) | Unknown; features portal hypertension without cirrhosis [^42c39ed3] |
+| Idiopathic non-cirrhotic portal hypertension (INCPH) | Unknown; features portal hypertension without cirrhosis [^112hytbL] |
 
 ---
 
@@ -72,84 +72,84 @@ Non-cirrhotic portal hypertension accounts for ~20% of cases and includes:
 
 Several factors influence variceal development and bleeding risk:
 
-- **Severity of portal hypertension**: Higher gradients increase variceal size and bleeding risk [^4a28ae53].
+- **Severity of portal hypertension**: Higher gradients increase variceal size and bleeding risk [^112twkPC].
 
-- **Variceal size**: Larger varices bleed more often [^085a18a0].
+- **Variceal size**: Larger varices bleed more often [^111DPAUF].
 
-- **Red wale marks**: Endoscopic stigmata indicate high risk of bleeding [^085a18a0].
+- **Red wale marks**: Endoscopic stigmata indicate high risk of bleeding [^111DPAUF].
 
-- **Child-Pugh class**: Advanced liver disease increases bleeding risk [^085a18a0].
+- **Child-Pugh class**: Advanced liver disease increases bleeding risk [^111DPAUF].
 
 ---
 
 ## Clinical implications
 
-Variceal bleeding is a **major complication** with 6-week mortality ~20% [^fe64fbf6]; risk stratification and prophylaxis are essential [^c0d836b5] [^728a05ad]. Screening endoscopy is recommended at cirrhosis diagnosis, with prophylaxis for medium/large varices using nonselective beta-blockers or band ligation [^a8b70254] [^d930b06b].
+Variceal bleeding is a **major complication** with 6-week mortality ~20% [^117W9muo]; risk stratification and prophylaxis are essential [^115vuFHn] [^113vox1r]. Screening endoscopy is recommended at cirrhosis diagnosis, with prophylaxis for medium/large varices using nonselective beta-blockers or band ligation [^115K8Peb] [^116YzfhC].
 
 ---
 
-Gastroesophageal varices result from portal hypertension, most often due to cirrhosis, with non-cirrhotic causes such as portal vein thrombosis, Budd-Chiari syndrome, and schistosomiasis also contributing [^4a28ae53]. The central mechanism is a **portal pressure gradient ≥ 10 mmHg**, which drives collateral formation and variceal enlargement, creating a high risk of bleeding [^3536b9b6].
+Gastroesophageal varices result from portal hypertension, most often due to cirrhosis, with non-cirrhotic causes such as portal vein thrombosis, Budd-Chiari syndrome, and schistosomiasis also contributing [^112twkPC]. The central mechanism is a **portal pressure gradient ≥ 10 mmHg**, which drives collateral formation and variceal enlargement, creating a high risk of bleeding [^112Mtj5F].
 
 ---
 
 ## References
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^c0d836b5]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115vuFHn]. Hepatology (2017). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, AASLD 2017 guidelines recommend to decide on the choice of treatment based on patient preference and characteristics.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^728a05ad]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113vox1r]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, EASL 2018 guidelines recommend to initiate primary prophylaxis upon detection of high-risk varices, i.e., small varices with red signs, medium or large varices irrespective of Child-Pugh classification, or small varices in Child-Pugh C patients, in patients with decompensated cirrhosis,
 ascites, or an acute intercurrent condition.
 
 ---
 
-### Endoscopic diagnosis and therapy in gastroesophageal variceal bleeding [^c7f5fbd3]. Gastrointestinal Endoscopy Clinics of North America (2015). Low credibility.
+### Endoscopic diagnosis and therapy in gastroesophageal variceal bleeding [^1167TAEE]. Gastrointestinal Endoscopy Clinics of North America (2015). Low credibility.
 
 Gastroesophageal variceal hemorrhage is a medical emergency with high morbidity and mortality. Endoscopic therapy is the mainstay of management of bleeding varices. It requires attention to technique and the appropriate choice of therapy for a given patient at a given point in time. Subjects must be monitored continuously after initiation of therapy for control of bleeding, and second-line definitive therapies must be introduced quickly if endoscopic and pharmacologic treatment fails.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^b43c0d46]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^115cCwdX]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to consider obtaining surveillance endoscopy 1–3 months after esophageal variceal eradication and every 6–12 months to check for recurrence. Attempt additional measures at eradication if recurrent varices are noted on surveillance examinations.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^9bdf8dd1]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^114z6As2]. Gut (2015). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, BSG 2015 guidelines recommend to initiate primary prophylaxis in patients with grade I varices and red signs or grade 2–3 varices, irrespective of the severity of the liver disease.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^096697f1]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^111EwMDi]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for gastroesophageal varices, more specifically with respect to surveillance endoscopy, BSG 2015 guidelines recommend to consider modifying endoscopy intervals if there is clear evidence of disease progression. Offer endoscopy at the time of decompensation.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^93c9734f]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^114n6qzn]. Gut (2015). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, BSG 2015 guidelines recommend to consider banding varices at 2-4-weekly intervals until eradication.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^1dad756a]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^111kzuRK]. Gut (2015). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, BSG 2015 guidelines recommend to obtain surveillance endoscopy at 3 months after successful eradication of the varices, then 6 monthly thereafter. Treat recurrent varices with further variceal band ligation until eradication.
 
 ---
 
-### The treatment of acute variceal bleeding [^008f98cb]. Journal of Clinical Gastroenterology (2007). Low credibility.
+### The treatment of acute variceal bleeding [^1111qEVY]. Journal of Clinical Gastroenterology (2007). Low credibility.
 
 Bleeding from gastroesophageal varices is a frequent and often deadly complication of cirrhosis. Although mortality from an episode of variceal bleeding has decreased in the last 2 decades it is still around 20%. This paper reviews the most recent advancements in the general management and hemostatic treatments of acute variceal bleeding.
 
 ---
 
-### Update on the management of gastrointestinal varices [^fe64fbf6]. World Journal of Gastrointestinal Pharmacology and Therapeutics (2019). Medium credibility.
+### Update on the management of gastrointestinal varices [^117W9muo]. World Journal of Gastrointestinal Pharmacology and Therapeutics (2019). Medium credibility.
 
 The following constitutes key background information on gastroesophageal varices:
 
@@ -161,79 +161,79 @@ The following constitutes key background information on gastroesophageal varices
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^977cfb29]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^114sb7P6]. Hepatology (2017). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, AASLD 2017 guidelines recommend to initiate nonselective β-blockers for the prevention of first variceal hemorrhage in patients with small varices at high risk of bleeding (red wale sign or red spot).
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^89d1496a]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^114XKbqs]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to consider repeating endoscopy at 1- to 8-week intervals for endoscopic variceal ligation for secondary prophylaxis.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^59cd1d71]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^113J8o3W]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to consider performing endoscopic variceal ligation for primary prophylaxis of esophageal varices at 1- to 8-week intervals until variceal eradication is achieved.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^3c794eae]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^112Yf1Ad]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for gastroesophageal varices, more specifically with respect to surveillance endoscopy, BSG 2015 guidelines recommend to consider repeating endoscopy at 2-3-year intervals if no varices are found at the time of the first endoscopy.
 
 ---
 
-### Gastric varices: an updated review of management [^5b8746ca]. Journal of Clinical Gastroenterology (2011). Low credibility.
+### Gastric varices: an updated review of management [^113LhK3X]. Journal of Clinical Gastroenterology (2011). Low credibility.
 
 Gastric varices are less prevalent than esophageal varices, but are associated with an increased mortality with each bleeding episode. This review describes the portal hemodynamics, classification, and management of gastric varices. Management options are outlined based on the most recent literature and according to the clinical presentation of acutely bleeding gastric varices, secondary prophylaxis after bleeding, and primary prophylaxis against an initial bleed. The optimal treatment remains controversial because of the lack of data from large controlled trials. We suggest an algorithm for the management based on the etiology of the gastric varices, severity of the underlying liver disease, and local availability and expertise.
 
 ---
 
-### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^d930b06b]. Endoscopy (2022). High credibility.
+### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^116YzfhC]. Endoscopy (2022). High credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, ESGE 2022 guidelines recommend to perform endoscopic band ligation as the endoscopic prophylactic treatment of choice in patients unable to receive nonselective β-blocker therapy with high-risk esophageal varices on screening upper gastrointestinal endoscopy. Repeat endoscopic band ligation every 2–4 weeks until variceal eradication is achieved. Obtain surveillance upper gastrointestinal endoscopy every 3–6 months in the first year following eradication.
 
 ---
 
-### Primary prophylaxis of variceal bleeding [^9c9ac334]. Gastroenterology Clinics of North America (2014). Low credibility.
+### Primary prophylaxis of variceal bleeding [^1151B3ym]. Gastroenterology Clinics of North America (2014). Low credibility.
 
 Gastroesophageal varices are present in almost half of patients with cirrhosis at the time of initial diagnosis. Variceal bleeding occurs in 25% to 35% of patients with cirrhosis. Effective and timely care can prevent variceal bleeding (primary prophylaxis). For example, clinical studies demonstrate that both beta-blockers and endoscopic variceal ligation are effective in preventing a first episode of variceal bleeding. The major challenge is to screen patients in a timely manner and institute a form of therapy that has the highest chance of success in terms of patient compliance and effectiveness.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^4aa76ba2]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^112ugKU5]. Hepatology (2017). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of gastroesophageal varices, AASLD 2017 guidelines recommend to insufficient evidence to support the use of nonselective β-blockers for the prevention of varices formation.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^fb87f358]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^117RuZGK]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for gastroesophageal varices, more specifically with respect to surveillance endoscopy, BSG 2015 guidelines recommend to consider obtaining endoscopy at yearly intervals in patients with grade 1 varices.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^5bdceb85]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113MC5Wk]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, EASL 2018 guidelines recommend to repeat endoscopy every year in patients without varices on screening endoscopy if the etiological factor persists and/or the state of decompensation continues. Consider prolonging the screening interval in the remaining patients.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^084acc38]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^111DJ2S3]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding screening and diagnosis for gastroesophageal varices, more specifically with respect to indications for screening, EASL 2018 guidelines recommend to report the presence, size, and presence of red wale marks during upper gastrointestinal endoscopy.
 
 ---
 
-### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^a5914c0f]. Hepatology (2007). Medium credibility.
+### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^115ETm7c]. Hepatology (2007). Medium credibility.
 
 Regarding follow-up and surveillance for gastroesophageal varices, more specifically with respect to surveillance endoscopy, AASLD/ACG 2007 guidelines recommend to repeat upper gastrointestinal endoscopy in 3 years in patients with compensated cirrhosis and no varices on the initial endoscopy.
 
 ---
 
-### Gastroesophageal reflux disease… [^69402988]. JAMA Network (2014). Excellent credibility.
+### Gastroesophageal reflux disease… [^113h3Fa7]. JAMA Network (2014). Excellent credibility.
 
 Customize your JAMA Network experience by selecting one or more topics from the list below. Heartburn, acid reflux, and acid indigestion are all terms used to describe a burning feeling in the chest or a backwash of stomach contents into the mouth or the esophagus. If you have these symptoms more than twice a week for more than a few weeks, you may be diagnosed as having gastroesophageal reflux disease. Symptoms The most common symptoms of GERD are a burning feeling in the chest and regurgitating food or liquid into the throat. Other symptoms include dry, chronic cough; wheezing or asthma; sore throat or hoarseness; and tooth erosion.
 
@@ -243,55 +243,55 @@ In some cases, the doctor may recommend weight loss surgery. Complications Left 
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^ebd0bdaa]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^1172cCpq]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to primary prevention of variceal hemorrhage, ASGE 2014 guidelines recommend to perform endoscopic variceal ligation in patients with large esophageal varices unable to tolerate or having contraindications to nonselective β-blockers.
 
 ---
 
-### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^8862244f]. Endoscopy (2022). High credibility.
+### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^114VCHHQ]. Endoscopy (2022). High credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, ESGE 2022 guidelines recommend to perform follow-up endoscopic band ligations at 1- to 4-weekly intervals to eradicate esophageal varices (secondary prophylaxis) in patients who have undergone endoscopic band ligation for acute esophageal variceal hemorrhage.
 
 ---
 
-### ACR appropriateness criteria® radiologic management of gastric varices [^6c42803a]. Journal of the American College of Radiology (2020). Medium credibility.
+### ACR appropriateness criteria® radiologic management of gastric varices [^113mVzyf]. Journal of the American College of Radiology (2020). Medium credibility.
 
 Hemorrhage, resulting from gastric varies, can be challenging to treat, given the various precipitating etiologies. A wide variety of treatment options exist for managing the diverse range of the underlying disease processes. While cirrhosis is the most common cause for gastric variceal bleeding, occlusion of the portal or splenic vein in noncirrhotic states results in a markedly different treatment paradigm. The American College of Radiology Appropriateness Criteria are evidence-based guidelines for specific clinical conditions that are reviewed annually by a multidisciplinary expert panel. The guideline development and revision include an extensive analysis of current medical literature from peer reviewed journals and the application of well-established methodologies (RAND/UCLA Appropriateness Method and Grading of Recommendations Assessment, Development, and Evaluation or GRADE) to rate the appropriateness of imaging and treatment procedures for specific clinical scenarios. In those instances where evidence is lacking or equivocal, expert opinion may supplement the available evidence to recommend imaging or treatment.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^206c97d0]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^111q55af]. Gut (2015). Medium credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, BSG 2015 guidelines recommend to consider performing TIPS creation in patients with rebleed despite combined variceal band ligation and nonselective β-blocker therapy (or when monotherapy with variceal band ligation or nonselective β-blockers is used owing to intolerance or contraindications to combination therapy), and in selected cases owing to patient choice. Use PTFE-covered stents.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^a8b70254]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115K8Peb]. Hepatology (2017). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, AASLD 2017 guidelines recommend to perform screening endoscopy for the diagnosis of gastroesophageal varices when the diagnosis of cirrhosis is made.
 
 ---
 
-### Update on the management of gastrointestinal varices [^1ffbb7cf]. World Journal of Gastrointestinal Pharmacology and Therapeutics (2019). Medium credibility.
+### Update on the management of gastrointestinal varices [^111pRAbg]. World Journal of Gastrointestinal Pharmacology and Therapeutics (2019). Medium credibility.
 
 The disease gastroesophageal varices can be associated with portal hypertension, easy bleeding, hematemesis, jaundice, easy bruising, passing blood in the stools, liver cirrhosis, large varices with red marks, DVT, lightheadedness, parasite infections, alcohol consumption, ascites and loss of consciousness.
 
 ---
 
-### AGA clinical practice update on management of bleeding gastric varices: expert review [^ad90db82]. Clinical Gastroenterology and Hepatology (2021). High credibility.
+### AGA clinical practice update on management of bleeding gastric varices: expert review [^115SKWob]. Clinical Gastroenterology and Hepatology (2021). High credibility.
 
 AGA Clinical Practice Update — conclusions on bleeding gastric varices emphasize that bleeding GV is a rare complication of portal hypertension but is typically more severe with higher mortality than other portal hypertension bleeding. The diagnostic and treatment algorithms of bleeding GV are complex and require a multidisciplinary team approach to management, often at a tertiary care center where multiple options for therapy are available. Given the heterogeneity of prior research and lack of uniform definitions or standardized outcomes in this field, it is difficult to provide strong, evidence-based recommendations. Large studies to define the natural history of GV, risk factors for bleeding, and optimal diagnostic and therapeutic interventions are needed to improve understanding and management of this condition.
 
 ---
 
-### AGA clinical practice update on management of bleeding gastric varices: expert review [^143e43db]. Clinical Gastroenterology and Hepatology (2021). Medium credibility.
+### AGA clinical practice update on management of bleeding gastric varices: expert review [^111X1ff8]. Clinical Gastroenterology and Hepatology (2021). Medium credibility.
 
 Management of bleeding gastric varices (GV) presents a unique challenge for patients with portal hypertension. Despite over thirty years of diagnostic and treatment advances standardized practices for bleeding GV are lacking and unsupported by adequate evidence. There are no definitive natural history studies to help with risk assessment or prospective clinical trials to guide clinical decision making. Available literature on the natural history and management of gastric varices consists of case series, restricted cohort studies, and a few small randomized trials, all of which have significant selection biases. This review summarizes the available data and recommendations based on expert opinion on how best to diagnose and manage bleeding from gastric varices. Table 1 summarizes our recommendations.
 
 ---
 
-### Risk of rebleeding from gastroesophageal varices after initial treatment with cyanoacrylate; a systematic review and pooled analysis [^29025b16]. BMC Gastroenterology (2020). Medium credibility.
+### Risk of rebleeding from gastroesophageal varices after initial treatment with cyanoacrylate; a systematic review and pooled analysis [^1123oHT3]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -301,7 +301,7 @@ From older literature, half of the variceal hemorrhages would stop spontaneously
 
 ---
 
-### Correlation between serum liver fibrosis markers and early gastroesophageal varices among patients with compensated liver cirrhosis: a cross-sectional analysis [^448ea847]. BMC Gastroenterology (2022). Medium credibility.
+### Correlation between serum liver fibrosis markers and early gastroesophageal varices among patients with compensated liver cirrhosis: a cross-sectional analysis [^112ke5MQ]. BMC Gastroenterology (2022). Medium credibility.
 
 Introduction
 
@@ -309,19 +309,19 @@ Portal hypertension, defined as increased pressure in the portal venous system, 
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^3bd99609]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^112XjMYc]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, BSG 2015 guidelines recommend to consider modifying endoscopy intervals if there is clear evidence of disease progression. Offer endoscopy at the time of decompensation.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^4bc31f36]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^112wKcRB]. Hepatology (2017). Medium credibility.
 
 Regarding diagnostic investigations for variceal hemorrhage, more specifically with respect to evaluation for portal hypertension, AASLD 2017 guidelines recommend to diagnose clinically significant portal hypertension based on the presence of gastroesophageal varices on endoscopy.
 
 ---
 
-### Factors impacting physicians' decisions to prevent variceal hemorrhage [^e896b4d2]. BMC Gastroenterology (2015). Low credibility.
+### Factors impacting physicians' decisions to prevent variceal hemorrhage [^116wpkNm]. BMC Gastroenterology (2015). Low credibility.
 
 Background
 
@@ -333,19 +333,19 @@ Editorials and a previous pilot study demonstrate variability in physician prefe
 
 ---
 
-### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^66d3a414]. Hepatology (2007). Medium credibility.
+### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^113dSpqq]. Hepatology (2007). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to primary prevention of gastroesophageal varices, AASLD/ACG 2007 guidelines recommend to do not use nonselective β-blockers to prevent the development of varices in patients with cirrhosis.
 
 ---
 
-### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^71f47d9a]. Endoscopy (2022). High credibility.
+### Endoscopic diagnosis and management of esophagogastric variceal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline [^113uwiuX]. Endoscopy (2022). High credibility.
 
 Regarding medical management for gastroesophageal varices, more specifically with respect to secondary prevention of variceal hemorrhage, ESGE 2022 guidelines recommend to initiate nonselective β-blockers (propranolol or carvedilol) in combination with endoscopic therapy for secondary prophylaxis in esophageal variceal hemorrhage in patients with advanced chronic liver disease.
 
 ---
 
-### Pediatric gastroesophageal varices: treatment strategy and long-term results [^1b5dde51]. Journal of Pediatric Surgery (2006). Low credibility.
+### Pediatric gastroesophageal varices: treatment strategy and long-term results [^111haCKA]. Journal of Pediatric Surgery (2006). Low credibility.
 
 Background/Purpose
 
@@ -365,13 +365,13 @@ The control of gastroesophageal varices by routine EVC was satisfactory. However
 
 ---
 
-### Challenges in the management of esophagogastric varices and variceal hemorrhage in cirrhosis – A narrative review [^79041189]. The American Journal of Medicine (2024). Medium credibility.
+### Challenges in the management of esophagogastric varices and variceal hemorrhage in cirrhosis – A narrative review [^1146QsMr]. The American Journal of Medicine (2024). Medium credibility.
 
 Over the past decade, significant advancements in pharmacological, endoscopic, and radiographic treatments have emerged in the management of patients with cirrhosis and esophagogastric varices or variceal hemorrhage. These advances have been in several areas, including the role of screening and primary prophylaxis (preventing an initial variceal bleed), evaluation and management of acute esophagogastric variceal hemorrhage, and in preventing variceal rebleeding. Therefore, we believe there is a need for an updated, evidence-based "narrative review" on this important clinical topic that will be relevant for internists, hospitalists, intensive care unit physicians, and those in training. We believe the guidance presented in this narrative review will enhance daily medical practice of health care professionals and has the potential to improve quality of care for these complex patients.
 
 ---
 
-### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^f638cabb]. BMC Gastroenterology (2025). Medium credibility.
+### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^117J32in]. BMC Gastroenterology (2025). Medium credibility.
 
 Conclusions
 
@@ -379,7 +379,7 @@ There is a paucity of consensus among endoscopists in both developing and develo
 
 ---
 
-### Efficacy and safety of endoscopic primary prophylaxis of bleeding in children with high-risk gastroesophageal varices [^23715621]. Journal of Pediatric Gastroenterology and Nutrition (2022). Medium credibility.
+### Efficacy and safety of endoscopic primary prophylaxis of bleeding in children with high-risk gastroesophageal varices [^111uYdqS]. Journal of Pediatric Gastroenterology and Nutrition (2022). Medium credibility.
 
 Objectives
 
@@ -399,37 +399,37 @@ Endoscopic primary prophylaxis of variceal bleeding is reasonably effective and 
 
 ---
 
-### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^58b1fe5f]. Hepatology (2007). Medium credibility.
+### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^113GVhPt]. Hepatology (2007). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, AASLD/ACG 2007 guidelines recommend to perform screening upper gastrointestinal endoscopy when a diagnosis of cirrhosis is made in order to assess for the presence of esophageal and/or gastric varices.
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^1b7ae690]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^111hjwuZ]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, ASGE 2014 guidelines recommend to perform screening endoscopy in all patients with a diagnosis of cirrhosis, to assess for esophageal and gastric varices.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^55d3a4c9]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^113CF376]. Hepatology (2017). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, AASLD 2017 guidelines recommend to repeat endoscopy in patients with compensated cirrhosis without varices or with small varices developing decompensation.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^b210e4f4]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^115YzUHq]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, EASL 2018 guidelines recommend to perform screening upper gastrointestinal endoscopy for gastroesophageal varices, if not previously diagnosed and treated, in patients with decompensated cirrhosis.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^8ceb7339]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^114bvMPe]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, BSG 2015 guidelines recommend to perform screening endoscopy in all patients with cirrhosis at the time of diagnosis.
 
 ---
 
-### The role of a multidisciplinary team in the management of portal hypertension [^133da483]. BMC Gastroenterology (2020). Medium credibility.
+### The role of a multidisciplinary team in the management of portal hypertension [^111VXUFU]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -439,67 +439,67 @@ Multidisciplinary team (MDT) comprises of a group of medical experts and special
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^48fdff03]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^112sDRXx]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, ASGE 2014 guidelines recommend to perform yearly upper endoscopy in patients with cirrhosis secondary to alcohol abuse or decompensated liver disease with varices on screening endoscopy.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^4bb38f8b]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^112wEPG6]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, BSG 2015 guidelines recommend to consider repeating endoscopy at 2-3-year intervals if no varices are found at the time of the first endoscopy.
 
 ---
 
-### Endoscopic management of esophageal and gastric lesions with underlying varices [^2308b7ce]. Annals of Gastroenterology (2022). Medium credibility.
+### Endoscopic management of esophageal and gastric lesions with underlying varices [^111twVho]. Annals of Gastroenterology (2022). Medium credibility.
 
 Recent developments in endoscopic techniques have contributed to establishing endoscopy as an essential tool in the management of different types of esophageal and gastric lesions. However, management of these lesions with underlying varices is challenging, considering the technical difficulties and increased risk of bleeding it entails with current endoscopic techniques. Consequently, most endoscopists are hesitant to use this technically challenging procedure. Nevertheless, rare cases of successful endoscopic resection of superficial lesions on or adjacent to varices have been reported. Several endoscopic techniques, including endoscopic mucosal resection, endoscopic submucosal dissection or radiofrequency ablation, have demonstrated safety and feasibility in this setting, sometimes with technical modifications, or in combination with previous variceal eradication procedures that aim to decrease the risk of bleeding. In this review, we summarize the current evidence regarding endoscopic management of gastroesophageal lesions in patients with portal hypertension and underlying varices. It appears that liver cirrhosis, portal hypertension and gastroesophageal varices are not absolute contraindications in selected patients at specialized referral centers. Nevertheless, specific recommendations are lacking and further studies are needed to define the most appropriate endoscopic techniques and to determine which patients may be the best candidates.
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^b0ea709b]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^115XHZra]. Gut (2015). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, BSG 2015 guidelines recommend to consider performing endoscopy at yearly intervals in patients with grade 1 varices.
 
 ---
 
-### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^7c4101ef]. Hepatology (2007). Medium credibility.
+### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^114BDJPp]. Hepatology (2007). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, AASLD/ACG 2007 guidelines recommend to perform upper gastrointestinal endoscopy in patients with hepatic decompensation, and yearly thereafter.
 
 ---
 
-### Endoscopic management of portal hypertension and varices [^41534d36]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
+### Endoscopic management of portal hypertension and varices [^112frBAV]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
 
 Chronic liver disease as well as various other conditions can change vascular resistance in the portal system thereby leading to portal hypertension. Acute gastroesophageal variceal bleeding is a dreaded complication of portal hypertension associated with high morbidity and mortality. Historically, endoscopy in the management of portal hypertension was limited to the prevention and treatment of esophageal varices. However, advancements in endoscopic-ultrasound techniques and availability of new devices have opened a new frontier in the management of gastric varices. Additionally, advancements in endoscopic techniques now allow for a more comprehensive diagnostic approach to portal hypertension. In this review, we summarize the role of endoscopy in the management of portal hypertension and varices.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^b4b348eb]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^115ctzUa]. Hepatology (2017). Medium credibility.
 
 Regarding diagnostic investigations for liver cirrhosis, more specifically with respect to evaluation of portal hypertension, AASLD 2017 guidelines recommend to diagnose clinically significant portal hypertension based on the presence of gastroesophageal varices on endoscopy.
 
 ---
 
-### Clinical pharmacology of portal hypertension [^3536b9b6]. Gastroenterology Clinics of North America (2010). Low credibility.
+### Clinical pharmacology of portal hypertension [^112Mtj5F]. Gastroenterology Clinics of North America (2010). Low credibility.
 
 Portal hypertension is an increase in pressure in the portal vein and its tributaries. It is defined as a portal pressure gradient (the difference in pressure between the portal vein and the hepatic veins) greater than 5 mm Hg. Although this gradient defines portal hypertension, a gradient of 10 mm Hg or greater defines clinically significant portal hypertension, because this pressure gradient predicts the development of varices, decompensation of cirrhosis, and hepatocellular carcinoma. The most direct consequence of portal hypertension is the development of gastroesophageal varices that may rupture and lead to the development of variceal hemorrhage. This article reviews the pathophysiologic bases of the different pharmacologic treatments for portal hypertension in patients with cirrhosis and places them in the context of the natural history of varices and variceal hemorrhage.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^2f364b95]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^112Czf16]. Hepatology (2017). Medium credibility.
 
 Regarding screening and diagnosis for portal hypertension, more specifically with respect to diagnostic criteria, clinical findings, AASLD 2017 guidelines recommend to diagnose clinically significant portal hypertension based on the presence of gastroesophageal varices on endoscopy.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^11efbd70]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^111TbKJX]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, EASL 2018 guidelines recommend to report the presence, size, and presence of red wale marks during upper gastrointestinal endoscopy.
 
 ---
 
-### Gastroesophageal reflux disease | NEJM resident 360… [^400486c0]. resident360.nejm.org (2025). Medium credibility.
+### Gastroesophageal reflux disease | NEJM resident 360… [^112dujDZ]. resident360.nejm.org (2025). Medium credibility.
 
 Literature Clinical Pearls & Morning Reports Published September 28, 2022 Gastroesophageal reflux disease is a condition in which the reflux of stomach contents causes troublesome symptoms and complications. Read the NEJM Clinical Practice Article here. Clinical Pearls Q: Describe the range of manifestations associated with GERD. A: Although heartburn and regurgitation are considered typical, a broad range of manifestations have been associated with GERD, including chronic cough, a globus sensation, wheezing, posterior laryngitis, dental erosions, and idiopathic pulmonary fibrosis. Risk factors for GERD include an age of 50 years or older, current smoking, use of nonsteroidal antiinflammatory drugs, obesity, low socioeconomic status, and female sex. Q: Of patients with GERD, who should undergo upper endoscopy.
 
@@ -510,19 +510,19 @@ In a meta-analysis of randomized, controlled trials of antireflux therapies in p
 
 ---
 
-### Diagnosis and management of ectopic varices in portal hypertension [^6c78df73]. The Lancet: Gastroenterology & Hepatology (2023). High credibility.
+### Diagnosis and management of ectopic varices in portal hypertension [^113mpGEE]. The Lancet: Gastroenterology & Hepatology (2023). High credibility.
 
 Ectopic variceal bleeding is a rare cause of gastrointestinal bleeding that can occur in settings of cirrhotic and non-cirrhotic portal hypertension and is characterised by its development at locations remote from the oesophagus and stomach. Ectopic varices can be difficult to identify and access, and, although a relatively uncommon cause of portal hypertensive bleeding, can represent a difficult diagnostic and therapeutic challenge associated with considerable mortality. Low incidence and variance in variceal anatomy preclude large randomised controlled trials, and clinical practice is based on experience from case reports, case series, and specialist centre expertise. Optimisation of survival outcomes relies on understanding a patient's portal venous anatomy and functional hepatic reserve to guide timely and targeted endoscopic and endovascular interventions to facilitate the rapid control of ectopic variceal bleeding.
 
 ---
 
-### Gastric varices: anatomic considerations and management [^02e024a0]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
+### Gastric varices: anatomic considerations and management [^1115GGDu]. Techniques in Vascular and Interventional Radiology (2025). Medium credibility.
 
 Gastric varices can pose both diagnostic challenges and serious risk of life-threatening hemorrhage in patients with cirrhotic and noncirrhotic portal hypertension. Management requires a multidisciplinary approach, with gastroenterology playing a key role in diagnosis, endoscopic assessment, and initial treatment strategies. Interventional radiology plays a pivotal role in treatment with advanced portal decompression techniques, Together, gastroenterology and Interventional radiology specialties provide an individualized patient tailored approach to optimize diagnostic and treatment strategies in patients with gastric varices. This article offers a descriptive approach to diagnosing and managing GV.
 
 ---
 
-### Carvedilol versus traditional, non-selective β-blockers for adults with cirrhosis and gastroesophageal varices [^0d4dc26a]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
+### Carvedilol versus traditional, non-selective β-blockers for adults with cirrhosis and gastroesophageal varices [^111LixYH]. The Cochrane Database of Systematic Reviews (2018). Low credibility.
 
 Background
 
@@ -554,19 +554,19 @@ We found no clear beneficial or harmful effects of carvedilol versus traditional
 
 ---
 
-### Preventing the development of varices in cirrhosis [^61d3caf1]. Journal of Clinical Gastroenterology (2007). Low credibility.
+### Preventing the development of varices in cirrhosis [^113W2wPe]. Journal of Clinical Gastroenterology (2007). Low credibility.
 
 Gastroesophageal varices are a direct consequence of portal hypertension. Nonselective beta-adrenergic blockers decrease portal pressure and are effective in preventing variceal hemorrhage. However, a large multicenter placebo-controlled trial demonstrates that nonselective beta-adrenergic blockers are not effective in preventing the development of varices and are associated with a significant rate of adverse events. This therapy is, therefore, not recommended in compensated cirrhotic patients without varices at large. In this very compensated group of patients with cirrhosis (stage 1, ie, without varices and without ascites or encephalopathy) the predictive value (both for the development of varices and for the development of clinical decompensation) of a baseline hepatic venous pressure gradient greater than 10 mm Hg is confirmed, supporting this threshold level as one that defines a clinically significant portal hypertension. Importantly, reductions in hepatic venous pressure gradient > 10% are associated with a significant reduction in the development of varices, a therapeutic goal that could be achieved through the use of beta-blockers or other drugs being developed for the treatment of portal hypertension.
 
 ---
 
-### AGA clinical practice update on management of bleeding gastric varices: expert review [^7ef65f3b]. Clinical Gastroenterology and Hepatology (2021). High credibility.
+### AGA clinical practice update on management of bleeding gastric varices: expert review [^114FECDp]. Clinical Gastroenterology and Hepatology (2021). High credibility.
 
 Primary prophylaxis for gastric varices — position statement indicates that while available data are intriguing, without validation of these outcomes, practice guidelines have not supported any form of primary prophylaxis for GV.
 
 ---
 
-### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^bf24b846]. BMC Gastroenterology (2025). Medium credibility.
+### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^115tNyBj]. BMC Gastroenterology (2025). Medium credibility.
 
 Background
 
@@ -578,7 +578,7 @@ Currently, there are discrepancies in medical conditions and professional develo
 
 ---
 
-### Endoscopic management of esophageal and gastric lesions with underlying varices [^612b1ade]. Annals of Gastroenterology (2022). Medium credibility.
+### Endoscopic management of esophageal and gastric lesions with underlying varices [^113V4H65]. Annals of Gastroenterology (2022). Medium credibility.
 
 Concluding remarks
 
@@ -589,13 +589,13 @@ Summary of all endoscopic techniques and technical modifications used for resect
 
 ---
 
-### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^7071e192]. Hepatology (2007). Medium credibility.
+### Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis [^113shs9T]. Hepatology (2007). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, AASLD/ACG 2007 guidelines recommend to repeat upper gastrointestinal endoscopy in 3 years in patients with compensated cirrhosis and no varices on the initial endoscopy.
 
 ---
 
-### Management of varices and variceal hemorrhage in liver cirrhosis: a recent update [^085a18a0]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
+### Management of varices and variceal hemorrhage in liver cirrhosis: a recent update [^111DPAUF]. Therapeutic Advances in Gastroenterology (2022). Medium credibility.
 
 Epidemiology/natural history
 
@@ -603,7 +603,7 @@ Esophageal varices are present in 50–60% of patients with compensated cirrhosi
 
 ---
 
-### Practice patterns in screening for varices: an American survey [^0290e683]. Digestive and Liver Disease (2009). Low credibility.
+### Practice patterns in screening for varices: an American survey [^1114oeTC]. Digestive and Liver Disease (2009). Low credibility.
 
 Background and Aims
 
@@ -623,25 +623,25 @@ Screening for varices is under-implemented. Many screened based on clinical find
 
 ---
 
-### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^4a28ae53]. Hepatology (2024). High credibility.
+### AASLD practice guidance on risk stratification and management of portal hypertension and varices in cirrhosis [^112twkPC]. Hepatology (2024). High credibility.
 
 Pathophysiology of portal hypertension and related complications — mechanisms and sequelae are outlined as follows: Portal hypertension results from maladaptive responses to chronic liver injury and cirrhosis with structural mechanisms (fibrous tissue, regenerative nodules, microthrombi, parenchymal extinction, collapse) increasing intrahepatic vascular resistance; dynamic sinusoidal vasoconstriction contributes to 30% of the total increase in vascular tone. When the portal pressure gradient reaches values of about 10 mm Hg, portal-systemic collaterals form and compensatory splanchnic vasodilation increases portal blood flow and portal pressure. Early consequences include development of portosystemic collaterals in which vascular endothelial growth factor (VEGF)-driven angiogenesis plays an important role; gastroesophageal varices are the most clinically relevant collaterals because of increased risk of bleeding. Variceal bleeding is directly dependent on increased wall tension determined by portal pressure, variceal diameter, and thin wall thickness. Systemic vasodilation produces a hyperdynamic circulatory state with decreased effective arterial blood volume leading to activation of neurohumoral and vasoactive systems, sodium and water retention, and increased cardiac output, culminating in ascites and, at late stages, hepatorenal syndrome due to compensatory renal vasoconstriction. Hepatic encephalopathy is multifactorial, resulting from portosystemic shunting, impaired synthetic liver function, increased bacterial translocation, and muscle wasting (sarcopenia). Pulmonary vascular imbalances yield hepatopulmonary syndrome (increased vasodilation) and portopulmonary hypertension (increased vasoconstriction).
 
 ---
 
-### Varices and variceal hemorrhage in cirrhosis: a new view of an old problem [^2d22da34]. Clinical Gastroenterology and Hepatology (2015). Low credibility.
+### Varices and variceal hemorrhage in cirrhosis: a new view of an old problem [^1129v9fH]. Clinical Gastroenterology and Hepatology (2015). Low credibility.
 
 The management of portal hypertension in cirrhosis has evolved over time, leading to improvements in the care and survival of patients with varices and variceal hemorrhage, particularly in patients who achieve a significant reduction in portal pressure. In addition to better treatment strategies and improved therapeutic options, the issue of risk stratification has become essential to identify different patient subpopulations that require a different treatment. We now recognize that the management of varices and variceal hemorrhage must be taken in the context of other complications of cirrhosis (ascites, encephalopathy, jaundice) and that the goals of therapy should be based on the presence of such complications. Evolving knowledge of the predominant pathophysiological mechanisms at each of the stages of cirrhosis also has evolved and will continue to lead to improvements in therapy. This review focuses on the management of varices and variceal hemorrhage with respect to refinements in the risk stratification of patients with cirrhosis.
 
 ---
 
-### The management of portal hypertension: rational basis, available treatments and future options [^70aaee47]. Journal of Hepatology (2008). Low credibility.
+### The management of portal hypertension: rational basis, available treatments and future options [^113t32Zc]. Journal of Hepatology (2008). Low credibility.
 
 Variceal bleeding is the last step in a chain of events initiated by an increase in portal pressure, followed by the development and progressive dilation of varices until these finally rupture and bleed. This sequence of events might be prevented - and reversed - by achieving a sufficient decrease in portal pressure. A different approach is the use of local endoscopic treatments at the varices. This article reviews the rationale for the management of patients with cirrhosis and portal hypertension, the current recommendations for the prevention and treatment of variceal bleeding, and outlines the unsolved issues and the perspectives for the future opened by new research developments.
 
 ---
 
-### Duodenal variceal bleed: an unusual cause of upper gastrointestinal bleed and a difficult diagnosis to make [^a4cc2552]. BMJ Case Reports (2017). Medium credibility.
+### Duodenal variceal bleed: an unusual cause of upper gastrointestinal bleed and a difficult diagnosis to make [^115DKYJD]. BMJ Case Reports (2017). Medium credibility.
 
 Background
 
@@ -649,19 +649,19 @@ Portal hypertension is the progressive complication of liver cirrhosis, and give
 
 ---
 
-### The role of endoscopy in the management of variceal hemorrhage [^beb54d57]. Gastrointestinal Endoscopy (2014). Medium credibility.
+### The role of endoscopy in the management of variceal hemorrhage [^115sjYbQ]. Gastrointestinal Endoscopy (2014). Medium credibility.
 
 Regarding follow-up and surveillance for portal hypertension, more specifically with respect to surveillance for gastroesophageal varices, ASGE 2014 guidelines recommend to perform yearly upper endoscopy in patients with small varices accompanied by high-risk stigmata (red wale marks or red spots) on screening endoscopy.
 
 ---
 
-### ACG clinical guideline: disorders of the hepatic and mesenteric circulation [^afa98fa6]. The American Journal of Gastroenterology (2020). High credibility.
+### ACG clinical guideline: disorders of the hepatic and mesenteric circulation [^115VRndj]. The American Journal of Gastroenterology (2020). High credibility.
 
 Budd–Chiari syndrome (BCS) — key concepts on consultation and varices: Referral to a hematologist is recommended for the evaluation and treatment of specific underlying prothrombotic disorder. The presence of gastroesophageal varices is not a contraindication to anticoagulation, but primary and secondary prophylaxis for gastroesophageal variceal bleeding should be performed as indicated.
 
 ---
 
-### Use of proton pump inhibitors in the management of gastroesophageal varices: a systematic review [^80fd1a70]. The Annals of Pharmacotherapy (2015). Low credibility.
+### Use of proton pump inhibitors in the management of gastroesophageal varices: a systematic review [^114JERvP]. The Annals of Pharmacotherapy (2015). Low credibility.
 
 Objective
 
@@ -685,7 +685,7 @@ The best available evidence supports the use of short-course (10 days) PPI post-
 
 ---
 
-### The role of a multidisciplinary team in the management of portal hypertension [^5c905a0f]. BMC Gastroenterology (2020). Medium credibility.
+### The role of a multidisciplinary team in the management of portal hypertension [^113NEM8J]. BMC Gastroenterology (2020). Medium credibility.
 
 Background
 
@@ -705,19 +705,19 @@ This study is the first to investigate the role of a multidisciplinary team in t
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^36e41fba]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^112QNxRw]. Gut (2015). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, BSG 2015 guidelines recommend to treat patients with gastroesophageal varices type 1 as for patients with esophageal varices.
 
 ---
 
-### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^21890ff6]. Hepatology (2017). Medium credibility.
+### Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases [^111ridVP]. Hepatology (2017). Medium credibility.
 
 Regarding specific circumstances for variceal hemorrhage, more specifically with respect to patients with compensated cirrhosis, AASLD 2017 guidelines recommend to aim to prevent the development of clinically significant portal hypertension and decompensated cirrhosis in patients with mild, compensated portal hypertension, rather than aiming to prevent the formation of varices.
 
 ---
 
-### Advances and challenges in cirrhosis and portal hypertension [^19ab87f8]. BMC Medicine (2017). Low credibility.
+### Advances and challenges in cirrhosis and portal hypertension [^111f4Jjy]. BMC Medicine (2017). Low credibility.
 
 Compensated versus decompensated cirrhosis: the burden of advanced chronic liver disease (ACLD)
 
@@ -727,13 +727,13 @@ Portal hypertension is the major driver in the transition from the compensated t
 
 ---
 
-### EASL clinical practice guidelines: vascular diseases of the liver [^9236f783]. Journal of Hepatology (2016). Medium credibility.
+### EASL clinical practice guidelines: vascular diseases of the liver [^114jmez6]. Journal of Hepatology (2016). Medium credibility.
 
 Regarding diagnostic procedures for portal vein thrombosis, more specifically with respect to endoscopic variceal screening, EASL 2016 guidelines recommend to screen unrecanalized patients for gastroesophageal varices.
 
 ---
 
-### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^3d70d54b]. BMC Gastroenterology (2025). Medium credibility.
+### Endoscopic treatment for gastroesophageal varices in patients with cirrhosis: a survey comparing between developed and developing countries [^112a69Mk]. BMC Gastroenterology (2025). Medium credibility.
 
 Questionnaire
 
@@ -751,13 +751,13 @@ The fifth part queried the participants about their preferred endoscopic treatme
 
 ---
 
-### Portal hypertension [^137d06ed]. Current Opinion in Gastroenterology (2001). Low credibility.
+### Portal hypertension [^111Vtm5W]. Current Opinion in Gastroenterology (2001). Low credibility.
 
 Portal hypertension is the main complication of cirrhosis and is responsible for its most common complications: variceal hemorrhage, ascites, and portosystemic encephalopathy. Portal hypertension is the result of increased intrahepatic resistance and increased portal venous inflow, which in turn is the result of splanchnic vasodilatation. Vasodilatation (splanchnic and systemic) and hyperdynamic circulation are hemodynamic abnormalities typical of cirrhosis and portal hypertension. Gastroesophageal varices result almost solely from portal hypertension, although the hyperdynamic circulation contributes to variceal growth and hemorrhage. Ascites results from sinusoidal hypertension and sodium retention, which is, in turn, secondary to vasodilatation and activation of neurohumoral systems. The hepatorenal syndrome represents the result of extreme vasodilatation with an extreme decrease in effective blood volume that leads to maximal activation of vasoconstrictive systems, renal vasoconstriction, and renal failure. Spontaneous bacterial peritonitis is a potentially lethal infection of ascites that occurs in the absence of a local source of infection. Portosystemic encephalopathy is a consequence of both portal hypertension (shunting of blood through portosystemic collaterals) and hepatic insufficiency that result in the accumulation of neurotoxins in the brain. This paper reviews the recent advances in the pathophysiology and management of the complications of portal hypertension.
 
 ---
 
-### Partial splenic embolization as a rescue and emergency treatment for portal hypertension and gastroesophageal variceal hemorrhage [^42c39ed3]. BMC Gastroenterology (2023). Medium credibility.
+### Partial splenic embolization as a rescue and emergency treatment for portal hypertension and gastroesophageal variceal hemorrhage [^112hytbL]. BMC Gastroenterology (2023). Medium credibility.
 
 Background
 
@@ -769,13 +769,13 @@ Acute variceal bleeding is treated using pharmacological, endoscopic, and angiog
 
 ---
 
-### AASLD practice guidance on the use of TIPS, variceal embolization, and retrograde transvenous obliteration in the management of variceal hemorrhage [^ae5d6a5a]. Hepatology (2024). High credibility.
+### AASLD practice guidance on the use of TIPS, variceal embolization, and retrograde transvenous obliteration in the management of variceal hemorrhage [^115TWDv1]. Hepatology (2024). High credibility.
 
 Regarding specific circumstances for variceal hemorrhage, more specifically with respect to patients with ectopic varices, AASLD 2023 guidelines recommend to consider performing endoscopic therapy for ectopic varices, when feasible and available, as a bridge to more definitive interventional radiology therapies.
 
 ---
 
-### Randomized controlled trial of scleroligation versus band ligation alone for eradication of gastroesophageal varices [^534a3669]. Gastrointestinal Endoscopy (2017). Low credibility.
+### Randomized controlled trial of scleroligation versus band ligation alone for eradication of gastroesophageal varices [^1138UuAg]. Gastrointestinal Endoscopy (2017). Low credibility.
 
 Background and Aims
 
@@ -795,7 +795,7 @@ Scleroligation appears to achieve a faster rate of eradication with fewer treatm
 
 ---
 
-### The natural history of gastroesophageal varices in children with portal hypertension [^8d7d1274]. Gastroenterology (2025). Medium credibility.
+### The natural history of gastroesophageal varices in children with portal hypertension [^114cmGLT]. Gastroenterology (2025). Medium credibility.
 
 Background and Aims
 
@@ -815,7 +815,7 @@ Worsening of the endoscopic pattern is common in children with portal hypertensi
 
 ---
 
-### Reflux esophagitis: pathogenesis, diagnosis, and management… [^c43eb1fe]. JAMA Network (2025). Excellent credibility.
+### Reflux esophagitis: pathogenesis, diagnosis, and management… [^1161wddw]. JAMA Network (2025). Excellent credibility.
 
 Behar J. Reflux Esophagitis: Pathogenesis, Diagnosis, and Management. Arch Intern Med. 1976; 136: 560–566. doi: 10.1001/archinte.1976.03630050046009 Although the incidence of heartburn. and regurgitation in the general population is not known, symptomatic gastroesophageal reflux is being recognized with increasing frequency as a cause of substantial morbidity. Recent advances in the pathophysiology of gastroesophageal reflux and its consequences indicate that reflux esophagitis is the result of the failure of the lower esophageal sphincter to prevent the regurgitation of gastroduodenal secretions with subsequent esophageal mucosal injury. This new information, as well as the development of new esophageal diagnostic tests, have led to a more precise diagnosis and more rational management of this disease process. This review is concerned mainly with the clinical and the pathophysiologic aspects on which we currently base the diagnosis and management of reflux esophagitis.
 
@@ -823,31 +823,31 @@ SYMPTOMS. Heartburn, the most common symptom of reflux esophagitis, is usually d
 
 ---
 
-### New developments in managing variceal bleeding [^b04cbd70]. Gastroenterology (2018). Low credibility.
+### New developments in managing variceal bleeding [^115WNbcb]. Gastroenterology (2018). Low credibility.
 
 Liver cirrhosis is the end stage of chronic liver disease, independent of etiology, and is characterized by accumulation of fibrotic tissue and conversion of the normal liver parenchyma into abnormal regenerative nodules. Complications include portal hypertension (PH) with gastroesophageal varices, ascites, hepatorenal syndrome, hepatic encephalopathy, bacteremia, and hypersplenism. The most life-threatening complication of liver cirrhosis is acute variceal bleeding (AVB) which is associated with increased mortality that, despite recent progress in management, is still around 20% at 6 weeks. Combined treatment with vasoactive drugs, prophylactic antibiotics, and endoscopic techniques is the recommended standard of care for patients with acute variceal bleeding. There are many promising new modalities including the combination of coil and glue injection for management of bleeding or non-bleeding gastric varices and hemostatic powder application, that requires minimal expertise, when performed early after admission of a cirrhotic patient with AVB and overt hematemesis acting as a bridge therapy till definitive endoscopic therapy can be performed in hemodynamically stable conditions and without acute bleeding.
 
 ---
 
-### AGA clinical practice update on management of bleeding gastric varices: expert review [^6d3544ec]. Clinical Gastroenterology and Hepatology (2021). High credibility.
+### AGA clinical practice update on management of bleeding gastric varices: expert review [^113nuYV9]. Clinical Gastroenterology and Hepatology (2021). High credibility.
 
 Definitive endovascular management of gastric varices — scope and timing — should only be performed to treat proven gastric variceal bleeding and may be done electively or emergently after or during the first sentinel bleed.
 
 ---
 
-### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^5bf3a05c]. Journal of Hepatology (2018). Medium credibility.
+### EASL clinical practice guidelines for the management of patients with decompensated cirrhosis [^113MKhsR]. Journal of Hepatology (2018). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, EASL 2018 guidelines recommend to consider performing TIPS placement with potential embolization to efficiently control bleeding and prevent rebleeding in fundal variceal hemorrhage (gastroesophageal varices type 2 or isolated gastric varices type 1) in appropriate patients.
 
 ---
 
-### AASLD practice guideline on noninvasive liver disease assessment of portal hypertension [^983ccc16]. Hepatology (2025). High credibility.
+### AASLD practice guideline on noninvasive liver disease assessment of portal hypertension [^114thYG5]. Hepatology (2025). High credibility.
 
 Noninvasive assessment context — direct evidence of portal hypertension can obviate further testing: the presence of gastroesophageal varices on endoscopy, portosystemic collaterals, or hepatofugal flow on imaging is sufficient to diagnose CSPH, and in this clinical setting, noninvasive testing is not necessary; although esophageal varices develop only at an HVPG > 10 mmHg, not all patients with this degree of portal hypertension develop esophageal varices; assessment of the presence and size of esophageal varices is subject to substantial interobserver variability.
 
 ---
 
-### Band ligation versus no intervention for primary prevention of upper gastrointestinal bleeding in adults with cirrhosis and oesophageal varices [^232fcf90]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
+### Band ligation versus no intervention for primary prevention of upper gastrointestinal bleeding in adults with cirrhosis and oesophageal varices [^111uAdHy]. The Cochrane Database of Systematic Reviews (2019). Medium credibility.
 
 Background
 
@@ -879,13 +879,13 @@ This review found moderate-certainty evidence that, in patients with cirrhosis, 
 
 ---
 
-### AASLD practice guidance on the use of TIPS, variceal embolization, and retrograde transvenous obliteration in the management of variceal hemorrhage [^78316e1c]. Hepatology (2024). High credibility.
+### AASLD practice guidance on the use of TIPS, variceal embolization, and retrograde transvenous obliteration in the management of variceal hemorrhage [^1145C7o1]. Hepatology (2024). High credibility.
 
 Esophageal varices — classification, bleeding risk, and endoscopic therapy — are most likely to bleed at the gastroesophageal junction because they are more superficial in this location and are unable to decompress through the azygos vein; based on subjective endoscopic appearance, they can be classified into (1) small (straight varices that collapse on insufflation), (2) medium (enlarged, tortuous varices that occupy less than one third of the lumen), or (3) large (coil-shaped varices that occupy more than one third of the lumen), and in practice, medium and large varices are grouped as high-risk varices because they require prophylactic therapy to prevent variceal bleeding; owing to their superficial location, esophageal varices are amenable to endoscopic variceal ligation (EVL) or sclerotherapy.
 
 ---
 
-### Experience with endoscopic management of high-risk gastroesophageal varices, with and without bleeding, in children with biliary atresia [^c2c53028]. Gastroenterology (2013). Low credibility.
+### Experience with endoscopic management of high-risk gastroesophageal varices, with and without bleeding, in children with biliary atresia [^115ykqCs]. Gastroenterology (2013). Low credibility.
 
 Background & Aims
 
@@ -905,7 +905,7 @@ Endoscopic therapy as primary or secondary prophylaxis of bleeding appears to be
 
 ---
 
-### Gastroesophageal reflux… [^d655fe41]. JAMA Network (2025). Excellent credibility.
+### Gastroesophageal reflux… [^116UmEbA]. JAMA Network (2025). Excellent credibility.
 
 Explore the latest in gastroesophageal reflux, including diagnosis, treatment, prevention, and systemic manifestations in children and adults. This cohort study assesses whether patients with nonerosive gastroesophageal reflux disease retain more reflux symptoms after laparoscopic fundoplication than patients with erosive GERD. This retrospective cohort study examines the rates of supraglottoplasty among infants with nonsevere laryngomalacia following treatment with gastroesophageal reflux disease medications or observation alone. This case series investigates possible causes, clinical presentation, and therapeutic outcomes of retrograde cricopharyngeus dysfunction in patients treated with in-office botulinum toxin injection. This cohort study investigates the prevalence of esophageal Candida infection and the association of Candida infection with esophageal cancer risk among patients with achalasia.
 
@@ -915,13 +915,13 @@ This cohort study identifies the clinical outcomes of patients with hormone rece
 
 ---
 
-### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^e731e321]. Gut (2015). Medium credibility.
+### U.K. guidelines on the management of variceal haemorrhage in cirrhotic patients [^116uktyn]. Gut (2015). Medium credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, management of gastric hemorrhage, BSG 2015 guidelines recommend to consider performing initial endoscopic therapy with cyanoacrylate injection for the management of patients with gastroesophageal varices type 2 and isolated gastric varices.
 Consider also administering thrombin.
 
 ---
 
-### EASL clinical practice guidelines on TIPS [^11388fdf]. Journal of Hepatology (2025). High credibility.
+### EASL clinical practice guidelines on TIPS [^111SXni2]. Journal of Hepatology (2025). High credibility.
 
 Regarding medical management for portal hypertension, more specifically with respect to management of variceal hemorrhage, TIPS, EASL 2025 guidelines recommend to consider performing TIPS creation as a first-line alternative to nonselective β-blockers with endoscopic treatment or balloon-occluded retrograde transvenous obliteration to prevent rebleeding in patients with bleeding related to gastric varices or ectopic varices especially if the bleeding is from type 2 gastroesophageal varices or type 1 isolated gastric varices.
