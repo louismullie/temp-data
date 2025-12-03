@@ -49,7 +49,7 @@ Diastolic hypertension is defined as a **DBP ≥ 90 mm Hg** [^1148L8CR]; isolate
 
 Treatment thresholds and targets vary by age and risk:
 
-| **Population** | **Treatment threshold** | **Target dbp** |
+| **Population** | **Treatment threshold** | **Target DBP** |
 |-|-|-|
 | General adult population ≥ 30 years | ≥ 90 mm Hg [^1148L8CR] | < 90 mm Hg [^114TviH6] |
 | Adults ≥ 60 years | ≥ 90 mm Hg [^111xGbJZ] | < 90 mm Hg (with SBP < 150 mm Hg) [^111xGbJZ] |

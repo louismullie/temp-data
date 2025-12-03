@@ -83,7 +83,7 @@ Guidelines recommend spironolactone as **fourth-line therapy** for resistant hyp
 
 ## Blood pressure lowering effects of spironolactone
 
-| **Clinical context** | **Dose (mg/day)** | **Sbp reduction (mmhg)** | **Dbp reduction (mmhg)** |
+| **Clinical context** | **Dose (mg/day)** | **SBP reduction (mmHg)** | **DBP reduction (mmHg)** |
 |-|-|-|-|
 | Resistant hypertension | 25–50 | 12–22 | 6–10 |
 | Essential hypertension | 25–100 | ~10 | ~5 |

@@ -73,7 +73,7 @@ Calcitriol requires **close monitoring** of serum calcium, phosphate, and PTH be
 
 ## Comparison with other vitamin D forms
 
-| **Form of vitamin d** | **Description** | **Clinical use** |
+| **Form of vitamin D** | **Description** | **Clinical use** |
 |-|-|-|
 | Cholecalciferol (vitamin D3) | Parent compound requiring hepatic and renal activation | Routine supplementation |
 | Ergocalciferol (vitamin D2) | Plant-derived parent compound | Routine supplementation |
