@@ -951,7 +951,7 @@ convulsion, paralysis, or spasticity are unusual.
 
 ### Clinical practice guideline for management of tinnitus: recommendations from the US VA / DOD clinical practice guideline work group [^113zw5Tw]. JAMA Otolaryngology — Head & Neck Surgery (2025). High credibility.
 
-Module A: Audiology management for patients without hearing difficulty — patients with bothersome tinnitus without hearing difficulty receive tinnitus educationb, and patients with non-bothersome tinnitus without hearing difficulty receive tinnitus education; after education, patients in the non-bothersome tinnitus without hearing difficulty branch return to usual care provider; then reassess with Is tinnitus still bothersome?; if no, provide routine audiology follow-up care; if yes, proceed to Module B (for additional tinnitus intervention options); refer to other services as needed; footnote b specifies to provide low gain hearing aids, sound generators, or both, as appropriate.
+Module A: Audiology management for patients without hearing difficulty — patients with bothersome tinnitus without hearing difficulty receive tinnitus educationb, and patients with non-bothersome tinnitus without hearing difficulty receive tinnitus education; after education, patients in the non-bothersome tinnitus without hearing difficulty branch return to usual care provider; then reassess with Is tinnitus still bothersome? if no, provide routine audiology follow-up care; if yes, proceed to Module B (for additional tinnitus intervention options); refer to other services as needed; footnote b specifies to provide low gain hearing aids, sound generators, or both, as appropriate.
 
 ---
 
