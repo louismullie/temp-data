@@ -469,7 +469,7 @@ MDS predisposition syndromes in children — epidemiology and evaluation — are
 
 ### NCCN guidelines® insights: myelodysplastic syndromes, version 2.2025 [^111hg4q6]. Journal of the National Comprehensive Cancer Network (2025). High credibility.
 
-Myelodysplastic syndromes — classification pathways list MDS (Classification Systems [MDS-A [1 of 5]] and MDS-B), MDS/myeloproliferative neoplasm (MPN) overlap syndromes (Principles, Classification System, and Management [MDS-A [2 of 5]]), and acute myeloid leukemia (AML) with cross-reference to see NCCN Guidelines for Acute Myeloid Leukemia; if negative for MDS/AML, see Recommendations for Flow Cytometry (MDS-F). The page also states to consider observation to document indolent course vs. marked progression of severe cytopenia or increase in blasts.
+Myelodysplastic syndromes — classification pathways list MDS (Classification Systems MDS-A and MDS-B), MDS/myeloproliferative neoplasm (MPN) overlap syndromes (Principles, Classification System, and Management [MDS-A [2 of 5]]), and acute myeloid leukemia (AML) with cross-reference to see NCCN Guidelines for Acute Myeloid Leukemia; if negative for MDS/AML, see Recommendations for Flow Cytometry (MDS-F). The page also states to consider observation to document indolent course vs. marked progression of severe cytopenia or increase in blasts.
 
 ---
 
