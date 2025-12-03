@@ -33,7 +33,7 @@ how do i diagnose my patient with addisons disease
 
 ---
 
-To diagnose Addison's disease, **confirm primary adrenal insufficiency** with a **short ACTH stimulation test** (250 mcg cosyntropin; peak cortisol < 18 mcg/dL at 30–60 min indicates failure) [^112ik7E1] [^113hVyTb]. If unavailable, use **morning cortisol < 5 mcg/dL** with elevated ACTH as a screening triage [^112ik7E1] [^notfound]. Next, **establish autoimmune etiology** with 21-hydroxylase autoantibodies [^112ik7E1]; if negative, obtain adrenal CT to evaluate for infection, infiltration, or hemorrhage [^116nLYCK]. Assess mineralocorticoid status with renin and aldosterone, and screen for other autoimmune diseases (thyroid, diabetes, pernicious anemia, vitiligo) [^116nLYCK]. In acute crisis, give hydrocortisone and fluids immediately — do not delay for testing [^1152H4qz] [^117KL5Q6].
+To diagnose Addison's disease, **confirm primary adrenal insufficiency** with a **short ACTH stimulation test** (250 mcg cosyntropin; peak cortisol < 18 mcg/dL at 30–60 min indicates failure) [^112ik7E1] [^113hVyTb]. If unavailable, use **morning cortisol < 5 mcg/dL** with elevated ACTH as a screening triage [^112ik7E1] [^112ik7E1]. Next, **establish autoimmune etiology** with 21-hydroxylase autoantibodies [^112ik7E1]; if negative, obtain adrenal CT to evaluate for infection, infiltration, or hemorrhage [^116nLYCK]. Assess mineralocorticoid status with renin and aldosterone, and screen for other autoimmune diseases (thyroid, diabetes, pernicious anemia, vitiligo) [^116nLYCK]. In acute crisis, give hydrocortisone and fluids immediately — do not delay for testing [^1152H4qz] [^117KL5Q6].
 
 ---
 

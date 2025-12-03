@@ -41,7 +41,7 @@ What are the common causes of discordance between HbA1c and blood glucose levels
 
 ---
 
-Discordance between HbA1c and blood glucose in anemia arises from **altered red cell turnover** and **assay interference**. Iron deficiency anemia and chronic kidney disease increase HbA1c by 1–2% due to older erythrocytes and carbamylation, whereas hemolytic anemia, sickle cell disease, and recent transfusions shorten RBC lifespan, lowering HbA1c. Hemoglobin variants (e.g. HbS, HbC, HbE) and certain HPLC methods can also cause spurious results. Clinicians should **use glucose-based criteria** (FPG, OGTT, or CGM) when anemia is present or HbA1c is discordant, and consider fructosamine or glycated albumin when available [^115MFVh2] [^113FtkYW] [^111LkTsy].
+Discordance between HbA1c and blood glucose in anemia arises from **altered red cell turnover** and **assay interference**. Iron deficiency anemia and chronic kidney disease increase HbA1c by 1–2% due to older erythrocytes and carbamylation, whereas hemolytic anemia, sickle cell disease, and recent transfusions shorten RBC lifespan, lowering HbA1c. Hemoglobin variants (e.g. HbS, HbC, HbE) and certain HPLC methods can also cause spurious results. Clinicians should **use glucose-based criteria** (FPG, OGTT, or CGM) when anemia is present or HbA1c is discordant, and consider fructosamine or glycated albumin when available [^115MFVh2] [^113Zgz3p] [^111LkTsy].
 
 ---
 

@@ -39,7 +39,7 @@ Do coarsened interstitial lung markings and rales on physical examination indica
 
 ---
 
-No, coarsened interstitial lung markings and rales are **not specific for tuberculosis** [^1168K54B]; they are nonspecific findings that can occur in many pulmonary conditions, including TB [^1149QsUq], but also interstitial lung disease [^1142Dzgf], pneumonia, heart failure, and other infections. In TB, **more specific radiographic features** include upper lobe infiltrates [^114dF3N7], cavitation [^1138qPDk], and miliary nodules [^115F7Apt], while rales are nonspecific and may be absent or present in many lung diseases [^1142Dzgf]. Definitive TB diagnosis requires **microbiologic confirmation** (sputum smear, culture, or NAAT) [^1147nurL] and clinical correlation [^116udEm9]; these findings alone should prompt further evaluation but are not diagnostic [^114iqCuP].
+No, coarsened interstitial lung markings and rales are **not specific for tuberculosis** [^1168K54B]; they are nonspecific findings that can occur in many pulmonary conditions, including TB [^1149QsUq], but also interstitial lung disease [^1142Dzgf], pneumonia, heart failure, and other infections. In TB, **more specific radiographic features** include upper lobe infiltrates [^114dF3N7], cavitation [^1138qPDk], and miliary nodules [^115F7Apt], while rales are nonspecific and may be absent or present in many lung diseases [^1142Dzgf]. Definitive TB diagnosis requires **microbiologic confirmation** (sputum smear, culture, or NAAT) [^1147nurL] and clinical correlation; these findings alone should prompt further evaluation but are not diagnostic [^114iqCuP].
 
 ---
 

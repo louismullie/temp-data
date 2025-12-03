@@ -41,7 +41,7 @@ Ablation for pain
 
 ---
 
-Radiofrequency ablation (RFA) is a **minimally invasive, image-guided procedure** that uses heat to interrupt pain signals from specific nerves, providing relief for chronic pain when conservative treatments fail [^1116VsRS]. RFA is most effective for facet joint, sacroiliac, and genicular nerve pain, with **average pain relief lasting 6–12 months** and repeatable if pain returns [^111EExyz] [^1162wWvm] [^1129jGjm]. It is generally safe, with low complication rates, and is favored over surgery or long-term opioids for many patients [^114PyXsd] [^117NMWka]. Evidence quality varies by indication, with stronger support for spinal facet and sacroiliac pain than for knee or hip pain, and patient selection — often using diagnostic blocks — is critical for success [^111EExyz] [^116z2HQJ] [^1167Koi6].
+Radiofrequency ablation (RFA) is a **minimally invasive, image-guided procedure** that uses heat to interrupt pain signals from specific nerves, providing relief for chronic pain when conservative treatments fail [^1116VsRS]. RFA is most effective for facet joint, sacroiliac, and genicular nerve pain, with **average pain relief lasting 6–12 months** and repeatable if pain returns [^111EExyz] [^116z2HQJ] [^1129jGjm]. It is generally safe, with low complication rates, and is favored over surgery or long-term opioids for many patients [^114PyXsd] [^117NMWka]. Evidence quality varies by indication, with stronger support for spinal facet and sacroiliac pain than for knee or hip pain, and patient selection — often using diagnostic blocks — is critical for success [^111EExyz] [^116z2HQJ] [^1167Koi6].
 
 ---
 

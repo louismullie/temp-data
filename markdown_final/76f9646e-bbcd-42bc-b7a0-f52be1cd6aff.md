@@ -47,7 +47,7 @@ Vaginal pessaries
 
 > But wait, what about stress urinary incontinence? Pessaries can unmask occult stress incontinence, so I should counsel that new leakage may occur after prolapse support and that options like an incontinence dish or concurrent conservative therapy can be considered, balancing symptom trade-offs [^117Wjh2t].
 
-> I should confirm system-level issues. Training and practice vary widely, many clinicians learn informally, and consensus calls for standardized competencies, with UK and North American surveys highlighting gaps and the need for formal curricula, which I should advocate locally to ensure safe, equitable access [^113bAiGi] [^1128k4U4] [^111iWYXD].
+> I should confirm system-level issues. Training and practice vary widely, many clinicians learn informally, and consensus calls for standardized competencies, with UK and North American surveys highlighting gaps and the need for formal curricula, which I should advocate locally to ensure safe, equitable access [^113bAiGi] [^1128k4U4] [^116m9Ujn].
 
 > Let me synthesize counseling points. I should explain that pessaries improve bulge and urinary symptoms in most users and enhance quality of life, that risks are generally low with adherence to follow-up, that discharge is common but often noninfectious, that self-management is feasible and cost-saving, and that device choice may need iteration over time as anatomy and preferences change [^113amfjc] [^116tJhSY] [^116kNxfL] [^112cjWPh].
 

@@ -45,7 +45,7 @@ Medication for alcohol withdrawal
 
 ---
 
-Benzodiazepines are the **first-line therapy** for alcohol withdrawal [^113V64BP] [^112J8fbU], with **symptom-triggered dosing** preferred when monitoring is available [^112YjTTW] [^113E6nER]. Lorazepam is favored in **liver disease** due to its metabolism profile [^113MV3iC] [^1152gmix]. Phenobarbital is an **alternative or adjunct** in severe or benzodiazepine-resistant cases [^113V64BP] [^115Ktxis], and carbamazepine or gabapentin are options for mild-to-moderate withdrawal or when benzodiazepines are contraindicated [^1113W8sF] [^116tR8BS]. Monitor for oversedation and respiratory depression [^1112UDBW], and adjust dosing for hepatic impairment [^115Fj7cS].
+Benzodiazepines are the **first-line therapy** for alcohol withdrawal [^113V64BP] [^112J8fbU], with **symptom-triggered dosing** preferred when monitoring is available [^112YjTTW] [^113E6nER]. Lorazepam is favored in **liver disease** due to its metabolism profile [^113MV3iC] [^115VHUT8]. Phenobarbital is an **alternative or adjunct** in severe or benzodiazepine-resistant cases [^113V64BP] [^115Ktxis], and carbamazepine or gabapentin are options for mild-to-moderate withdrawal or when benzodiazepines are contraindicated [^1113W8sF] [^116tR8BS]. Monitor for oversedation and respiratory depression [^1112UDBW], and adjust dosing for hepatic impairment [^115Fj7cS].
 
 ---
 

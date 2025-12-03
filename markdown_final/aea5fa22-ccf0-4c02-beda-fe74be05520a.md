@@ -43,7 +43,7 @@ would neurologist handle seizures
 
 ---
 
-Neurologists are the **primary specialists** who handle seizures [^111nUoyE]. They perform the initial evaluation, order and interpret EEG [^112JSftW] and neuroimaging [^115qWu4D], and start antiseizure medications [^1125N4vu]. Neurologists manage acute seizures and status epilepticus [^111JdC5q], and **coordinate care with epilepsy centers** for drug-resistant cases [^113w9mKZ]. They also provide patient education [^1125N4vu], safety counseling, and long-term follow-up to optimize seizure control and quality of life [^112JmHid].
+Neurologists are the **primary specialists** who handle seizures [^111nUoyE]. They perform the initial evaluation, order and interpret EEG [^112JSftW] and neuroimaging [^115qWu4D], and start antiseizure medications [^112JmHid]. Neurologists manage acute seizures and status epilepticus [^111JdC5q], and **coordinate care with epilepsy centers** for drug-resistant cases [^113w9mKZ]. They also provide patient education [^1125N4vu], safety counseling, and long-term follow-up to optimize seizure control and quality of life [^112JmHid].
 
 ---
 

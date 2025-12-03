@@ -35,7 +35,7 @@ Left vs right heart failure
 
 ---
 
-Left heart failure (LHF) is primarily due to **left ventricular dysfunction** [^111Kf4uL] from ischemia, hypertension, or valvular disease, causing pulmonary congestion, dyspnea, and orthopnea [^114RHf6r]. Right heart failure (RHF) is most often **secondary to LHF or pulmonary disease** [^116tf5fc], leading to systemic venous congestion, peripheral edema, and hepatomegaly [^111QuNXY]. LHF is managed with guideline-directed medical therapy (GDMT) [^116P3Mnt], while RHF care focuses on treating the underlying cause, volume control, and selective use of pulmonary vasodilators or mechanical support [^111r6kq6] [^114LSaxU]. RHF carries a **worse prognosis** [^114TdCTM] and is less responsive to standard HF therapies, underscoring the need for early recognition and targeted interventions [^115ZmZjh].
+Left heart failure (LHF) is primarily due to **left ventricular dysfunction** from ischemia, hypertension, or valvular disease, causing pulmonary congestion, dyspnea, and orthopnea [^114RHf6r]. Right heart failure (RHF) is most often **secondary to LHF or pulmonary disease** [^116tf5fc], leading to systemic venous congestion, peripheral edema, and hepatomegaly [^111QuNXY]. LHF is managed with guideline-directed medical therapy (GDMT) [^116P3Mnt], while RHF care focuses on treating the underlying cause, volume control, and selective use of pulmonary vasodilators or mechanical support [^111r6kq6] [^114LSaxU]. RHF carries a **worse prognosis** [^114TdCTM] and is less responsive to standard HF therapies, underscoring the need for early recognition and targeted interventions [^115ZmZjh].
 
 ---
 

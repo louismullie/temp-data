@@ -23,7 +23,7 @@ What is the treatment of hypcalcemia
 
 > For acute symptomatic hypocalcemia, I should act quickly. IV calcium gluconate is preferred over calcium chloride for peripheral administration because chloride is more caustic; typical dosing uses 10% calcium gluconate, 1–2 g IV over 10 minutes, repeated as needed, followed by a continuous infusion of 1–2 g in 1 L saline over 6–8 hours with serial ionized calcium checks, and I should remember that boluses are short-lived so infusions are more effective for sustained correction [^112YeFM1].
 
-> Wait, let me verify pediatric dosing so I don't overgeneralize adult protocols. In children with manifest tetany or seizures, 10–20 mg/kg elemental calcium as IV calcium gluconate over 5–10 minutes is recommended, followed by 30–75 mg/kg/day elemental calcium in divided doses, with calcitriol 20–100 ng/kg/day in 2–3 divided doses until normalization, and I should double-check that I'm using elemental calcium calculations correctly when advising families on oral formulations [^113dopje] [^1161MVWo].
+> Wait, let me verify pediatric dosing so I don't overgeneralize adult protocols. In children with manifest tetany or seizures, 10–20 mg/kg elemental calcium as IV calcium gluconate over 5–10 minutes is recommended, followed by 30–75 mg/kg/day elemental calcium in divided doses, with calcitriol 20–100 ng/kg/day in 2–3 divided doses until normalization, and I should double-check that I'm using elemental calcium calculations correctly when advising families on oral formulations [^notfound] [^1161MVWo].
 
 > I need to ensure I address concurrent hypomagnesemia because low magnesium impairs PTH secretion and action. If magnesium is below about 1.6 mg/dL, I should replete magnesium first or alongside calcium, as magnesium repletion can expedite calcium recovery and reduce refractory hypocalcemia, particularly in postsurgical or critical care settings [^112vxCH5] [^112YeFM1].
 
@@ -47,7 +47,7 @@ What is the treatment of hypcalcemia
 
 ---
 
-Treat hypocalcemia by **correcting ionized calcium** with IV calcium gluconate for symptomatic or severe cases (10% solution, 1–2 g over 10 min, repeat as needed) [^11226jnm], then transition to oral calcium (1–2 g elemental calcium/day) [^112YeFM1] and active vitamin D (calcitriol 0.25–0.5 mcg/day) for maintenance [^112vxCH5]. Always **correct hypomagnesemia first** (≥ 1.6 mg/dL) because it impairs calcium correction [^112vxCH5]. In chronic hypoparathyroidism, use calcium plus active vitamin D, and consider PTH replacement if refractory [^113L92Lm] [^116VHx2w]. Monitor calcium, magnesium, and renal function; avoid overcorrection to prevent hypercalcemia and nephrolithiasis [^111nwcmz].
+Treat hypocalcemia by **correcting ionized calcium** with IV calcium gluconate for symptomatic or severe cases (10% solution, 1–2 g over 10 min, repeat as needed) [^notfound], then transition to oral calcium (1–2 g elemental calcium/day) [^112YeFM1] and active vitamin D (calcitriol 0.25–0.5 mcg/day) for maintenance [^112vxCH5]. Always **correct hypomagnesemia first** (≥ 1.6 mg/dL) because it impairs calcium correction [^112vxCH5]. In chronic hypoparathyroidism, use calcium plus active vitamin D, and consider PTH replacement if refractory [^113L92Lm] [^116VHx2w]. Monitor calcium, magnesium, and renal function; avoid overcorrection to prevent hypercalcemia and nephrolithiasis [^111nwcmz].
 
 ---
 

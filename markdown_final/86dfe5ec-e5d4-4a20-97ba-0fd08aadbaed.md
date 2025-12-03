@@ -39,7 +39,7 @@ causes of burping
 
 ---
 
-Burping (eructation) is the release of gas from the stomach or esophagus through the mouth. The most common cause is **swallowed air (aerophagia)** from eating or drinking too fast, talking while eating, chewing gum, smoking, or anxiety [^11361Ytm]. Other causes include **carbonated beverages**, **gastroesophageal reflux disease (GERD)** [^113JcMmd], and certain medications such as omega-3 fatty acids [^111gULuZ] and proton pump inhibitors [^notfound]. Less common causes include Helicobacter pylori infection, gastroparesis, and retrograde cricopharyngeal dysfunction (RCPD) [^notfound]. Burping is usually benign, but frequent or persistent burping with symptoms like heartburn, nausea, or abdominal pain may indicate an underlying condition and should be evaluated [^116RfmGh].
+Burping (eructation) is the release of gas from the stomach or esophagus through the mouth. The most common cause is **swallowed air (aerophagia)** from eating or drinking too fast, talking while eating, chewing gum, smoking, or anxiety. Other causes include **carbonated beverages**, **gastroesophageal reflux disease (GERD)** [^113JcMmd], and certain medications such as omega-3 fatty acids [^111gULuZ] and proton pump inhibitors [^notfound]. Less common causes include Helicobacter pylori infection, gastroparesis, and retrograde cricopharyngeal dysfunction (RCPD) [^notfound]. Burping is usually benign, but frequent or persistent burping with symptoms like heartburn, nausea, or abdominal pain may indicate an underlying condition and should be evaluated [^116RfmGh].
 
 ---
 

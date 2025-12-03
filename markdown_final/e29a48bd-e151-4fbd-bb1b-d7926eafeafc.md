@@ -45,20 +45,20 @@ What is the differential diagnosis for a sensation of bladder pressure?
 
 > Wait, I should verify methods to measure bladder sensation itself, because relying on single threshold events during cystometry may miss the continuous nature of sensation development. Sensation related diaries, graded scales during cystometry, forced diuresis paradigms, and emerging tablet based sensation meters or neuroimaging can complement history, although there is no single gold standard and reproducibility is a challenge, so repeated measurements in stable conditions are prudent to improve reliability and to track change with therapy [^114VbUWe] [^1128dhur] [^114jMypb].
 
-> Finally, while my main task is differential reasoning, I should confirm initial management anchors because they can clarify diagnosis by response. For OAB like pressure or urgency, start with bladder training and behavioral therapy, which have supportive evidence and minimal harm, and escalate with pharmacotherapy or combination approaches if needed, while tailoring to comorbidities and avoiding retention risks. If functional BOO is suspected, prioritize pelvic floor therapy, and if IC or BPS is likely with pain predominant features, follow guideline based multimodal management rather than antimuscarinic monotherapy meant for OAB [^111QaFRx] [^113RMZBc] [^115y93RK].
+> Finally, while my main task is differential reasoning, I should confirm initial management anchors because they can clarify diagnosis by response. For OAB like pressure or urgency, start with bladder training and behavioral therapy, which have supportive evidence and minimal harm, and escalate with pharmacotherapy or combination approaches if needed, while tailoring to comorbidities and avoiding retention risks. If functional BOO is suspected, prioritize pelvic floor therapy, and if IC or BPS is likely with pain predominant features, follow guideline based multimodal management rather than antimuscarinic monotherapy meant for OAB [^113RMZBc].
 
-> In summary, I need to ensure that pressure as a descriptor is contextualized, because pressure alone often maps to urgency in OAB or to mechanical or compliance phenomena, whereas pressure coupled tightly with pain over time aligns with IC or BPS, and neurogenic, obstructive, inflammatory, functional, systemic, and medication factors all modulate this signal. Let me reconsider each case through this lens, verify the basics first, and deploy targeted testing only when it will change management, staying aligned with contemporary AUA or SUFU, EAU, and ICI-RS guidance to keep the diagnostic pathway safe, efficient, and evidence based [^116uPcAm] [^111jctX1] [^113T13FX] [^114en4r7] [^115y93RK] [^112uhXuT].
+> In summary, I need to ensure that pressure as a descriptor is contextualized, because pressure alone often maps to urgency in OAB or to mechanical or compliance phenomena, whereas pressure coupled tightly with pain over time aligns with IC or BPS, and neurogenic, obstructive, inflammatory, functional, systemic, and medication factors all modulate this signal. Let me reconsider each case through this lens, verify the basics first, and deploy targeted testing only when it will change management, staying aligned with contemporary AUA or SUFU, EAU, and ICI-RS guidance to keep the diagnostic pathway safe, efficient, and evidence based [^116uPcAm] [^111jctX1] [^113T13FX] [^114en4r7] [^115y93RK].
 
 ---
 
 Bladder pressure is influenced by factors such as **detrusor activity**, **bladder compliance**, and **outlet resistance**. The **differential diagnosis** of abnormal bladder pressure includes:
 
 - **Detrusor overactivity**: Involuntary contractions during filling, causing urgency and incontinence.
-- **Detrusor underactivity**: Weak contractions leading to incomplete emptying and retention [^116EEx1q].
+- **Detrusor underactivity**: Weak contractions leading to incomplete emptying and retention.
 - **Bladder outlet obstruction**: Increased resistance from prostate enlargement, urethral stricture, or pelvic organ prolapse [^111QaFRx].
 - **Low compliance bladder**: Reduced elasticity from fibrosis, radiation, or chronic inflammation.
 - **Neurogenic bladder**: Dysfunction from spinal cord injury, multiple sclerosis, or Parkinson's disease [^112uhXuT].
-- **Overactive bladder syndrome**: Urgency, frequency, and nocturia without infection or obstruction [^115sH5HW].
+- **Overactive bladder syndrome**: Urgency, frequency, and nocturia without infection or obstruction.
 - **Interstitial cystitis/bladder pain syndrome**: Chronic bladder pain with pressure and discomfort [^115y93RK].
 
 Evaluation includes **history and physical examination** [^113JpajA], **urinalysis**, measurement of **post-void residual** [^113T13FX], and **urodynamics** [^111fvofq] to distinguish these conditions and guide management.

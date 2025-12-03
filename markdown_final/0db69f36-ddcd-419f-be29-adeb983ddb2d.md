@@ -35,7 +35,7 @@ Which antihypertensive medication is indicated for renal hypertension?
 
 ---
 
-For renal hypertension, ACE inhibitors or ARBs are **first-line** [^1131CjHu] because they lower blood pressure and provide renal protection, especially in proteinuric CKD [^113hhZjA]. Monitor for a **≥ 30% rise in creatinine or hyperkalemia** after starting therapy [^112jEytt], and avoid dual ACEi/ARB use [^111Z3zt7]. Add a **calcium channel blocker or thiazide diuretic** if needed [^116Uiyap], and use loop diuretics in advanced CKD [^notfound]. Beta-blockers or mineralocorticoid receptor antagonists are options for resistant hypertension [^113ehTpj]. Revascularization is reserved for refractory cases or rapid renal decline [^112jEytt], and renal denervation is considered only in resistant hypertension with eGFR > 40 mL/min/1.73 m² [^111b7tZD].
+For renal hypertension, ACE inhibitors or ARBs are **first-line** [^1131CjHu] because they lower blood pressure and provide renal protection, especially in proteinuric CKD [^113hhZjA]. Monitor for a **≥ 30% rise in creatinine or hyperkalemia** after starting therapy [^112jEytt], and avoid dual ACEi/ARB use [^111Z3zt7]. Add a **calcium channel blocker or thiazide diuretic** if needed [^116Uiyap], and use loop diuretics in advanced CKD [^115qWDuQ]. Beta-blockers or mineralocorticoid receptor antagonists are options for resistant hypertension [^113ehTpj]. Revascularization is reserved for refractory cases or rapid renal decline [^112jEytt], and renal denervation is considered only in resistant hypertension with eGFR > 40 mL/min/1.73 m² [^111b7tZD].
 
 ---
 

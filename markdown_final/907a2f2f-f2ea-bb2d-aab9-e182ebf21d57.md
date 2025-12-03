@@ -17,7 +17,7 @@ What is the drug used for cardiac stress test?
 
 > Let me first confirm the clinical context, because I need to ensure I'm not conflating exercise stress testing with pharmacologic stress testing. Exercise stress testing uses physical exertion and is preferred when patients can achieve adequate workload, whereas pharmacologic stress testing is reserved for those who cannot exercise adequately or have contraindications to exercise, and it relies on drugs to simulate ischemia or increase myocardial oxygen demand [^111kSW9j] [^11792Y1q].
 
-> Now, I should verify which drugs are actually approved for pharmacologic stress testing. Regadenoson is FDA-approved specifically for radionuclide myocardial perfusion imaging in patients unable to undergo adequate exercise stress, and it is the most commonly used vasodilator in contemporary practice due to its fixed-dose, rapid bolus administration and favorable operational profile [^1125ReTD] [^115xUeDJ] [^1125ReTD].
+> Now, I should verify which drugs are actually approved for pharmacologic stress testing. Regadenoson is FDA-approved specifically for radionuclide myocardial perfusion imaging in patients unable to undergo adequate exercise stress, and it is the most commonly used vasodilator in contemporary practice due to its fixed-dose, rapid bolus administration and favorable operational profile [^1125ReTD] [^114XBW7j] [^1125ReTD].
 
 > Wait, let me verify the broader pharmacologic landscape so I don't overgeneralize. Vasodilators such as adenosine and dipyridamole are also FDA-approved for pharmacologic stress MPI and remain valid alternatives, though they require continuous infusion and longer monitoring, which can reduce throughput. Dobutamine is used when vasodilators are contraindicated or for viability assessment, but it is not a vasodilator and is typically reserved for specific scenarios like stress echocardiography or when A2A agonists are unsafe [^115Nx7RM] [^115F9CL6] [^114icCH3].
 
@@ -31,7 +31,7 @@ What is the drug used for cardiac stress test?
 
 ---
 
-The drugs used for cardiac stress testing are **vasodilators** (adenosine, dipyridamole, regadenoson) and **dobutamine**. Vasodilators are preferred for myocardial perfusion imaging because they increase coronary flow and reveal ischemia; regadenoson is the most commonly used due to its fixed-dose, single-bolus administration and favorable tolerability [^116VWUJN] [^1125ReTD]. Dobutamine is used when vasodilators are contraindicated or for viability assessment, as it increases heart rate and contractility to induce ischemia [^114icCH3] [^1145ymMw]. Exercise stress testing is preferred when feasible; pharmacologic stress is reserved for patients who cannot exercise adequately [^111kSW9j] [^11792Y1q].
+The drugs used for cardiac stress testing are **vasodilators** (adenosine, dipyridamole, regadenoson) and **dobutamine**. Vasodilators are preferred for myocardial perfusion imaging because they increase coronary flow and reveal ischemia; regadenoson is the most commonly used due to its fixed-dose, single-bolus administration and favorable tolerability [^1122C5p2] [^1125ReTD]. Dobutamine is used when vasodilators are contraindicated or for viability assessment, as it increases heart rate and contractility to induce ischemia [^114icCH3] [^1145ymMw]. Exercise stress testing is preferred when feasible; pharmacologic stress is reserved for patients who cannot exercise adequately [^111kSW9j] [^11792Y1q].
 
 ---
 
