@@ -41,7 +41,7 @@ Sulbactam dosage in icu
 
 ---
 
-In the ICU, **sulbactam is dosed at 9 g/day** (total sulbactam component) as part of combination therapy for CRAB infections, typically as 3 g IV every 8 hours infused over 4 hours or as a continuous infusion of 9 g/day [^822c5d37] [^4cdc591c]. This high-dose, prolonged-infusion strategy maximizes PK/PD target attainment in critically ill patients with altered pharmacokinetics [^47a66207]. Adjust dosing for renal impairment: extend intervals if CrCl < 90 mL/min and reduce dose if CrCl < 30 mL/min [^4db10c82]. Monitor for neurotoxicity and electrolyte disturbances, and consider therapeutic drug monitoring when available to ensure adequate exposure [^3b2120b4].
+In the ICU, **sulbactam is dosed at 9 g/day** (total sulbactam component) as part of combination therapy for CRAB infections, typically as 3 g IV every 8 hours infused over 4 hours or as a continuous infusion of 9 g/day [^822c5d37] [^4cdc591c]. This high-dose, prolonged-infusion strategy maximizes PK/PD target attainment in critically ill patients with altered pharmacokinetics [^47a66207]. Adjust dosing for renal impairment: extend intervals if CrCl < 90 mL/min and reduce dose if CrCl < 30 mL/min [^notfound]. Monitor for neurotoxicity and electrolyte disturbances, and consider therapeutic drug monitoring when available to ensure adequate exposure [^3b2120b4].
 
 ---
 

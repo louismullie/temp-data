@@ -43,7 +43,7 @@ Pmeumoperitoneum and mesenteric venous gas of unknown etiology on exam- differen
 
 ---
 
-Pneumoperitoneum with mesenteric venous gas [^112wxYrb] is most often due to **bowel ischemia/infarction** [^112F2cf6] or **hollow viscus perforation** [^112xVn1L], but can also arise from obstruction, infection, trauma, or iatrogenic causes [^112G48BE] [^115VYqCB]. Immediate management hinges on clinical stability: unstable patients or those with peritonitis require **urgent laparotomy** [^115F6mra], while stable patients without peritonitis may be observed with serial exams and imaging [^1176yaKD]. Contrast-enhanced CT is the **diagnostic gold standard** [^113wBmFQ] to identify the cause and guide intervention [^112xVn1L].
+Pneumoperitoneum with mesenteric venous gas [^112wxYrb] is most often due to **bowel ischemia/infarction** [^112F2cf6] or **hollow viscus perforation** [^112xVn1L], but can also arise from obstruction, infection, trauma, or iatrogenic causes [^112G48BE] [^115VYqCB]. Immediate management hinges on clinical stability: unstable patients or those with peritonitis require **urgent laparotomy** [^115F6mra], while stable patients without peritonitis may be observed with serial exams and imaging [^1176yaKD]. Contrast-enhanced CT is the **diagnostic gold standard** [^114hUp2k] to identify the cause and guide intervention [^112xVn1L].
 
 ---
 

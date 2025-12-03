@@ -21,7 +21,7 @@ Flow chart for emergency IBD managment
 
 > Next, I should review initial stabilization and supportive care. I need to ensure hemodynamic stability with two large-bore IVs, aggressive IV crystalloids, and transfusion thresholds of hemoglobin less than 7 g/dL in stable patients and less than 9 g/dL in massive bleeding or with comorbidities; I should also initiate pharmacologic VTE prophylaxis early given the elevated thrombotic risk in IBD flares and avoid NSAIDs, anticholinergics, and opioids that can precipitate colonic dilation or mask pain [^117QKy8h] [^115KGtuN] [^115z4NFe].
 
-> I will now examine the diagnostic workup and exclusion of mimics. I should double-check that stool studies include C. difficile, bacterial cultures, and CMV PCR, with endoscopic assessment via flexible sigmoidoscopy within 24–72 hours to grade severity and obtain biopsies for CMV; I also need to assess for toxic megacolon with daily abdominal exams and plain radiographs if concern arises, and avoid medications that increase colonic diameter or mask symptoms [^117TBJx5] [^116871JG] [^111CDu6b].
+> I will now examine the diagnostic workup and exclusion of mimics. I should double-check that stool studies include C. difficile, bacterial cultures, and CMV PCR, with endoscopic assessment via flexible sigmoidoscopy within 24–72 hours to grade severity and obtain biopsies for CMV; I also need to assess for toxic megacolon with daily abdominal exams and plain radiographs if concern arises, and avoid medications that increase colonic diameter or mask symptoms [^117TBJx5] [^111CDu6b].
 
 > Let me consider first-line medical therapy and the reassessment window. Intravenous corticosteroids are the cornerstone: methylprednisolone 40–60 mg daily or hydrocortisone 100 mg three to four times daily, with reassessment at day 3 using stool frequency, bleeding, vitals, and CRP; if there is inadequate improvement, I should escalate to rescue therapy rather than prolonging steroids, as delays increase colectomy risk [^111wJKq8] [^117ApoEZ].
 
@@ -35,7 +35,7 @@ Flow chart for emergency IBD managment
 
 > I need to ensure quality metrics and system processes are embedded. Daily multidisciplinary rounds, standardized ASUC order sets, and clear escalation triggers at day 3 improve timeliness of rescue and reduce colectomy delays; ambulatory pathways, where used, must include daily gastroenterology review, rapid access to endoscopy, and explicit safety-net criteria for immediate admission if deterioration occurs [^116ePQ5v] [^117Tp3VY].
 
-> Let me reconsider the overall flow to ensure internal consistency. The sequence is: triage and admission for ASUC, stabilize and exclude infection, start IV corticosteroids with day 3 reassessment, escalate to infliximab or cyclosporine if inadequate response, involve surgery early, and plan maintenance based on the rescue agent used; I should double-check that each branch point aligns with major guidelines and that no step contradicts the evidence base before finalizing the pathway [^111DwWa1] [^116871JG].
+> Let me reconsider the overall flow to ensure internal consistency. The sequence is: triage and admission for ASUC, stabilize and exclude infection, start IV corticosteroids with day 3 reassessment, escalate to infliximab or cyclosporine if inadequate response, involve surgery early, and plan maintenance based on the rescue agent used; I should double-check that each branch point aligns with major guidelines and that no step contradicts the evidence base before finalizing the pathway [^116871JG].
 
 ---
 

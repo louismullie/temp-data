@@ -41,7 +41,7 @@ Overweight causing sleeping issues
 
 ---
 
-Excess weight causes sleep problems primarily through **obstructive sleep apnea (OSA)** [^113NBkuv], which is driven by upper airway collapse from fat deposition around the neck and pharynx, leading to repeated apneas, hypopneas, and oxygen desaturation that fragment sleep and cause daytime sleepiness [^112MXePb]. Obesity also increases **insulin resistance and inflammation** [^115QjfJ1], which disrupt sleep architecture and circadian rhythms, and raises the risk of insomnia and restless legs syndrome. Mechanical factors such as abdominal fat and reduced lung volumes further impair breathing during sleep, while hormonal changes (lower leptin, higher ghrelin) increase appetite and disturb sleep regulation [^112PqYbV]. These sleep disturbances worsen metabolic health, creating a vicious cycle of weight gain and sleep disruption [^114UmuNm].
+Excess weight causes sleep problems primarily through **obstructive sleep apnea (OSA)** [^113NBkuv], which is driven by upper airway collapse from fat deposition around the neck and pharynx, leading to repeated apneas, hypopneas, and oxygen desaturation that fragment sleep and cause daytime sleepiness. Obesity also increases **insulin resistance and inflammation** [^115QjfJ1], which disrupt sleep architecture and circadian rhythms, and raises the risk of insomnia and restless legs syndrome. Mechanical factors such as abdominal fat and reduced lung volumes further impair breathing during sleep, while hormonal changes (lower leptin, higher ghrelin) increase appetite and disturb sleep regulation [^112PqYbV]. These sleep disturbances worsen metabolic health, creating a vicious cycle of weight gain and sleep disruption [^114UmuNm].
 
 ---
 

@@ -29,7 +29,7 @@ cacitrial is 1,25 OH?
 
 > But wait, what if someone meant a different vitamin D form; let me reconsider the alternatives to avoid confusion: calcifediol is 25-hydroxyvitamin D, the circulating prohormone, while cholecalciferol is the parent compound requiring hepatic and renal activation; neither is the 1,25-dihydroxy form, so the "1,25 OH" phrasing points uniquely to calcitriol in this context.
 
-> In summary, I should confirm the bottom line clearly: yes, "cacitrial" appears to be a typographical error for calcitriol, which is 1,25-dihydroxyvitamin D3, the active hormonal form of vitamin D used when renal activation is impaired or when rapid hormonal replacement is clinically indicated, with careful monitoring to prevent hypercalcemia [^1165iBsx] [^116199L9] [^112Tpe7y].
+> In summary, I should confirm the bottom line clearly: yes, "cacitrial" appears to be a typographical error for calcitriol, which is 1,25-dihydroxyvitamin D3, the active hormonal form of vitamin D used when renal activation is impaired or when rapid hormonal replacement is clinically indicated, with careful monitoring to prevent hypercalcemia [^116199L9] [^112Tpe7y].
 
 ---
 

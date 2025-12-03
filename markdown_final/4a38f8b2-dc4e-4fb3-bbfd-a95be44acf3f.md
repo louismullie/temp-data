@@ -29,13 +29,13 @@ D. Voltage-gated chloride channels
 
 > Next, I should review how the action potential diagram informs this. A drug that flattens the phase 0 upstroke, slows Vmax, and broadens the QRS complex corresponds to sodium channel blockade. Flecainide produces QRS prolongation and slow dissociation from the sodium channel, aligning with the expected electrophysiologic signature of class IC blockade on the action potential morphology and surface ECG [^114CiRyQ] [^111pYgJm].
 
-> But wait, what if there are safety nuances I'm overlooking? I need to ensure I acknowledge that class IC agents are contraindicated in patients with structural heart disease or prior myocardial infarction due to increased mortality in CAST and related data, and that pretreatment with AV nodal blockers is advised to mitigate 1:1 atrial flutter conduction. These cautions do not change the channel target but reinforce that the most likely mechanism here remains sodium channel blockade when appropriately selected [^114HDfy3].
+> But wait, what if there are safety nuances I'm overlooking? I need to ensure I acknowledge that class IC agents are contraindicated in patients with structural heart disease or prior myocardial infarction due to increased mortality in CAST and related data, and that pretreatment with AV nodal blockers is advised to mitigate 1:1 atrial flutter conduction. These cautions do not change the channel target but reinforce that the most likely mechanism here remains sodium channel blockade when appropriately selected [^112VxDsL].
 
 > Putting this together, the ECG diagnosis of new-onset atrial fibrillation with consideration of pharmacologic cardioversion, the Vaughan-Williams class IC profile, and the expected action potential effects all converge on voltage-gated sodium channels as the primary target. Therefore, the correct answer is B. Voltage-gated sodium channels [^116cajCg] [^114CiRyQ].
 
 ---
 
-The ECG shows **atrial fibrillation** with absent P waves and irregular RR intervals, indicating disorganized atrial activity and variable AV conduction [^117UJqB5]. The most likely antiarrhythmic is a **class IC agent** (e.g. flecainide), which **blocks voltage-gated sodium channels** [^114CiRyQ] to slow phase 0 depolarization, reduce conduction velocity, and suppress arrhythmogenic activity [^115AaFn6]. Therefore, the correct answer is **B. Voltage-gated sodium channels**.
+The ECG shows **atrial fibrillation** with absent P waves and irregular RR intervals, indicating disorganized atrial activity and variable AV conduction. The most likely antiarrhythmic is a **class IC agent** (e.g. flecainide), which **blocks voltage-gated sodium channels** [^114CiRyQ] to slow phase 0 depolarization, reduce conduction velocity, and suppress arrhythmogenic activity [^115AaFn6]. Therefore, the correct answer is **B. Voltage-gated sodium channels**.
 
 ---
 

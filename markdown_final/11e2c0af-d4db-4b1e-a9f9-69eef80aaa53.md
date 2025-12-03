@@ -45,7 +45,7 @@ AMI management in ER
 
 ---
 
-Emergency management of acute myocardial infarction (AMI) in the ER centers on **rapid ECG within 10 minutes** [^112bG2YX] and **early reperfusion** to limit infarct size and mortality [^116aZPjQ]. For STEMI, activate the cath lab and aim for primary PCI within 90 minutes [^11659J5T]; if PCI is not available within 120 minutes, give fibrinolysis and transfer for PCI [^114AtyXr]. For NSTEMI, use high-sensitivity troponin with 0/1-hour or 0/2-hour algorithms [^116zsNfE] [^116Jcdkb], risk-stratify with HEART or GRACE [^112sX7z8], and pursue early invasive management for high-risk patients [^116f1Uy6]. Start aspirin, P2Y12 inhibitor, anticoagulation, beta-blocker, nitroglycerin, and statin [^113CjF7p]; avoid NSAIDs [^114uMZXu]; and monitor for arrhythmias, heart failure, and cardiogenic shock [^111kmU46] [^112G4T9V].
+Emergency management of acute myocardial infarction (AMI) in the ER centers on **rapid ECG within 10 minutes** [^112bG2YX] and **early reperfusion** to limit infarct size and mortality [^114AtyXr]. For STEMI, activate the cath lab and aim for primary PCI within 90 minutes [^11659J5T]; if PCI is not available within 120 minutes, give fibrinolysis and transfer for PCI [^114AtyXr]. For NSTEMI, use high-sensitivity troponin with 0/1-hour or 0/2-hour algorithms [^116zsNfE] [^116Jcdkb], risk-stratify with HEART or GRACE [^112sX7z8], and pursue early invasive management for high-risk patients [^116f1Uy6]. Start aspirin, P2Y12 inhibitor, anticoagulation, beta-blocker, nitroglycerin, and statin [^113CjF7p]; avoid NSAIDs [^114uMZXu]; and monitor for arrhythmias, heart failure, and cardiogenic shock [^111kmU46] [^112G4T9V].
 
 ---
 

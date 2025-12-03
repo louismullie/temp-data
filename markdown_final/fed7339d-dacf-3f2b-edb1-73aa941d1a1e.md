@@ -25,7 +25,7 @@ A term neonate presents with acrocephaly due to craniosynostosis, postaxial poly
 
 > But wait, what if there is a more specific subcategory I am overlooking? Let me reconsider the Q87 block; Q87.0 covers congenital malformation syndromes predominantly affecting facial appearance, Q87.1 covers syndromes with short stature, Q87.2 covers syndromes with limb anomalies, and Q87.3 covers syndromes with early overgrowth; none of these precisely match the combined acrocephaly plus polydactyly phenotype, so Q87.8 remains the most accurate catch-all for "other specified" syndromes in this context [^notfound].
 
-> Final answer: The primary ICD-10-CM diagnosis code for Acrocephalopolydactylous dysplasia is Q87.8, with consideration of secondary codes Q69.9 and Q75.0 if additional detail is needed for the polydactyly and craniosynostosis components, respectively [^db479acf].
+> Final answer: The primary ICD-10-CM diagnosis code for Acrocephalopolydactylous dysplasia is Q87.8, with consideration of secondary codes Q69.9 and Q75.0 if additional detail is needed for the polydactyly and craniosynostosis components, respectively [^notfound].
 
 ---
 
