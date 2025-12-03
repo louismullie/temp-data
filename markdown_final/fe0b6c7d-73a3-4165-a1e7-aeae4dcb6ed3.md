@@ -41,7 +41,7 @@ cellcept and mental fogginess?
 
 ---
 
-CellCept (mycophenolate mofetil) is not directly linked to "mental fogginess" in clinical trials, but **confusion and somnolence** [^112zAjLJ] are reported and can impair alertness [^1138ra8g]. Cognitive symptoms may also reflect **underlying disease** [^117WTdG6] or other medications [^113jcfEG]. If mental fog occurs, assess for infections [^112bZzBQ], metabolic issues [^117WLDQr], or drug interactions [^1147hRdt], and consider dose adjustment or switching therapy if symptoms persist [^notfound].
+CellCept (mycophenolate mofetil) is not directly linked to "mental fogginess" in clinical trials, but **confusion and somnolence** [^112zAjLJ] are reported and can impair alertness [^1138ra8g]. Cognitive symptoms may also reflect **underlying disease** [^117WTdG6] or other medications [^113jcfEG]. If mental fog occurs, assess for infections [^112bZzBQ], metabolic issues [^117WLDQr], or drug interactions [^1147hRdt], and consider dose adjustment or switching therapy if symptoms persist.
 
 ---
 

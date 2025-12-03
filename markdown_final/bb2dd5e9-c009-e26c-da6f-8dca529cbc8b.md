@@ -31,7 +31,7 @@ Children with mild OSA do not need repeat NPSG. Why
 
 ---
 
-Children with mild OSA (AHI 1–5) generally do not need repeat polysomnography (PSG) because **most cases resolve spontaneously** or remain stable, and **routine repeat PSG rarely changes management** [^112Lipqk] [^notfound]. Repeat PSG is reserved for **persistent or worsening symptoms**, high-risk features (obesity, craniofacial anomalies, neuromuscular disease), or post-treatment assessment [^114Zm4sj] [^111833xQ]. Clinical follow-up with symptom monitoring is sufficient for most children with mild OSA, and repeat PSG should be guided by clinical judgment rather than routine scheduling [^116Uc1N9].
+Children with mild OSA (AHI 1–5) generally do not need repeat polysomnography (PSG) because **most cases resolve spontaneously** or remain stable, and **routine repeat PSG rarely changes management** [^112Lipqk]. Repeat PSG is reserved for **persistent or worsening symptoms**, high-risk features (obesity, craniofacial anomalies, neuromuscular disease), or post-treatment assessment [^114Zm4sj] [^111833xQ]. Clinical follow-up with symptom monitoring is sufficient for most children with mild OSA, and repeat PSG should be guided by clinical judgment rather than routine scheduling [^116Uc1N9].
 
 ---
 

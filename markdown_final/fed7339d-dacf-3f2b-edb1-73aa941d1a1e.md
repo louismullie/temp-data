@@ -29,7 +29,7 @@ A term neonate presents with acrocephaly due to craniosynostosis, postaxial poly
 
 ---
 
-The primary ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8** (Other specified congenital malformation syndromes, not elsewhere classified) [^116c6Lgv]. This code encompasses the syndrome's multisystem features, including acrocephaly, craniosynostosis, polydactyly, and dysmorphic facies. If additional detail is needed, use **Q75.0** for craniosynostosis and **Q69.9** for polydactyly as secondary codes.
+The primary ICD-10 code for acrocephalopolydactylous dysplasia is **Q87.8** (Other specified congenital malformation syndromes, not elsewhere classified) [^notfound]. This code encompasses the syndrome's multisystem features, including acrocephaly, craniosynostosis, polydactyly, and dysmorphic facies. If additional detail is needed, use **Q75.0** for craniosynostosis and **Q69.9** for polydactyly as secondary codes.
 
 ---
 
