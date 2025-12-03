@@ -33,7 +33,7 @@ Can Monas I got it twins be dichorionic diamniotic
 
 ---
 
-Yes, **monozygotic twins can be dichorionic diamniotic (DCDA)** [^115tqtBK] when the embryo splits within the first 3 days after fertilization, before chorion formation, resulting in separate placentas and amniotic sacs [^1169E5TJ] [^114BiAT9]. This early split accounts for about 25–30% of monozygotic twins and is more common with assisted reproductive technologies, especially blastocyst transfer and ICSI [^1169E5TJ] [^1153YQJQ]. DCDA monozygotic twins are genetically identical but have lower risks than monochorionic twins, though they still require standard twin surveillance [^1116KKoN] [^111niXQr].
+Yes, **monozygotic twins can be dichorionic diamniotic (DCDA)** [^115tqtBK] when the embryo splits within the first 3 days after fertilization, before chorion formation, resulting in separate placentas and amniotic sacs [^1169E5TJ] [^114BiAT9]. This early split accounts for about 25–30% of monozygotic twins and is more common with assisted reproductive technologies, especially blastocyst transfer and ICSI [^1169E5TJ] [^115tqtBK]. DCDA monozygotic twins are genetically identical but have lower risks than monochorionic twins, though they still require standard twin surveillance [^1116KKoN] [^111niXQr].
 
 ---
 

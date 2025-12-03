@@ -35,7 +35,7 @@ aspirin carotid endarterectomy
 
 ---
 
-Aspirin is indicated for all patients undergoing carotid endarterectomy [^111VDseK] unless contraindicated, with **75–325 mg daily** [^116wHXk9] recommended by major guidelines [^115idwLZ] to reduce perioperative stroke and cardiovascular events [^1114swow]. Low-dose aspirin (75–162 mg) is preferred [^115ioUzF] because it provides antithrombotic benefit with a lower bleeding risk than higher doses [^111x6MmZ]. Aspirin should be started preoperatively and continued indefinitely postoperatively [^111VDseK]; if not already on aspirin, initiate 75–325 mg daily before surgery when feasible [^111wXwJ9]. Dual antiplatelet therapy is not routinely recommended for CEA [^115MtmdY] due to increased bleeding risk [^116dv2j1] and is reserved for specific cardiac indications or when clopidogrel is already indicated [^notfound].
+Aspirin is indicated for all patients undergoing carotid endarterectomy [^111VDseK] unless contraindicated, with **75–325 mg daily** [^116wHXk9] recommended by major guidelines [^115idwLZ] to reduce perioperative stroke and cardiovascular events [^1114swow]. Low-dose aspirin (75–162 mg) is preferred [^115ioUzF] because it provides antithrombotic benefit with a lower bleeding risk than higher doses [^111x6MmZ]. Aspirin should be started preoperatively and continued indefinitely postoperatively [^111VDseK]; if not already on aspirin, initiate 75–325 mg daily before surgery when feasible [^111wXwJ9]. Dual antiplatelet therapy is not routinely recommended for CEA [^115MtmdY] due to increased bleeding risk [^116dv2j1] and is reserved for specific cardiac indications or when clopidogrel is already indicated [^114yALMR].
 
 ---
 

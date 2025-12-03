@@ -45,7 +45,7 @@ Congenital adrenal hyperplasia (CAH) presents with symptoms due to **cortisol de
 
 - **Classic CAH (severe)**: Neonatal salt-wasting crisis (vomiting, dehydration, hyponatremia, hyperkalemia, shock) [^1114eNNi], ambiguous genitalia in 46, XX infants [^112Go9s2] [^1114eNNi], and early virilization in both sexes [^113gTaHn].
 
-- **Non-classic CAH (mild)**: Later-onset hyperandrogenism [^116hDdRN] (hirsutism, acne, irregular menses, infertility in females [^113PTKDT]; early pubarche, rapid growth, advanced bone age in children) [^113gTaHn].
+- **Non-classic CAH (mild)**: Later-onset hyperandrogenism [^116hDdRN] (hirsutism, acne, irregular menses, infertility in females [^11756sv3]; early pubarche, rapid growth, advanced bone age in children) [^113gTaHn].
 
 - **Long-term complications**: Short stature [^114VFNjH], obesity [^115L4XZZ], hypertension, insulin resistance [^115L4XZZ], osteoporosis, and reduced fertility [^113gTaHn].
 
