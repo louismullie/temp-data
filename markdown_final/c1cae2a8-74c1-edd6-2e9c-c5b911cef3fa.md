@@ -1079,7 +1079,7 @@ Parasomnias, including sleepwalking, also have been reported in the pediatric cl
 
 Xyrem has a high salt content. In patients sensitive to salt intake (e.g., those with heart failure, hypertension, or renal impairment), consider the amount of daily sodium intake in each dose of Xyrem. Table 3 provides the approximate sodium content per Xyrem dose.
 
- Table 3 Approximate Sodium Content per Total Nightly Dose of Xyrem (g = grams)
+Table 3 Approximate Sodium Content per Total Nightly Dose of Xyrem (g = grams)
 
 ---
 

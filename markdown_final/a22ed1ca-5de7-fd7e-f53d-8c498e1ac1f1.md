@@ -1109,7 +1109,7 @@ If metformin-associated lactic acidosis is suspected, immediately discontinue me
 
 WARNING: LACTIC ACIDOSIS
 
- See full prescribing information for complete boxed warning.
+See full prescribing information for complete boxed warning.
 
 Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias. Symptoms included malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Laboratory abnormalities included elevated blood lactate levels, anion gap acidosis, increased lactate/pyruvate ratio; and metformin plasma levels generally > 5 mcg/mL. (5.1)
 Risk factors include renal impairment, concomitant use of certain drugs, age > 65 years old, radiological studies with contrast, surgery and other procedures, hypoxic states, excessive alcohol intake, and hepatic impairment. Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information. (5.1)

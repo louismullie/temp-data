@@ -639,7 +639,7 @@ Minimum requirements demanded to the medical records in aesthetic procedures
 
 * The panel recommends to pay special attention for asking about allergy/hypersensitivity reactions to lidocaine (information may be obtained from previous dental procedures)
 
- According to the panel recommendations, previous aesthetic procedures must be thoroughly assessed. The physician must be sure about the filler/fillers injected
+According to the panel recommendations, previous aesthetic procedures must be thoroughly assessed. The physician must be sure about the filler/fillers injected
 
 * After a dental procedure, such as dental removal, dental cleaning or drilling the panel recommends to wait, at least, 1 month before injecting the fillers
 

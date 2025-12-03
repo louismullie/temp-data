@@ -193,19 +193,19 @@ Chronic coronary disease — phosphodiesterase type 5 inhibitors and nitrates gu
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
- Nitrates
+Nitrates
 
 Physicians should discuss with patients the contraindication of sildenafil with regular and/or intermittent use of nitric oxide donors, such as organic nitrates or organic nitrites in any form [see Contraindications (4.1)].
 
- Guanylate Cyclase (GC) Stimulators
+Guanylate Cyclase (GC) Stimulators
 
 Physicians should discuss with patients the contraindication of sildenafil with use of guanylate cyclase stimulators such as riociguat [see Contraindications (4.3)].
 
- Concomitant Use with Drugs Which Lower Blood Pressure
+Concomitant Use with Drugs Which Lower Blood Pressure
 
 Physicians should advise patients of the potential for sildenafil to augment the blood pressure lowering effect of alpha-blockers and anti-hypertensive medications. Concomitant administration of sildenafil and an alpha - blocker may lead to symptomatic hypotension in some patients. Therefore, when sildenafil is co-administered with alpha-blockers, patients should be stable on alpha-blocker therapy prior to initiating sildenafil treatment and sildenafil should be initiated at the lowest dose [see Warnings and Precautions (5.5)].
 
- Cardiovascular Considerations
+Cardiovascular Considerations
 
 Physicians should discuss with patients the potential cardiac risk of sexual activity in patients with preexisting cardiovascular risk factors. Patients who experience symptoms (e.g., angina pectoris, dizziness, nausea) upon initiation of sexual activity should be advised to refrain from further activity and should discuss the episode with their physician [see Warnings and Precautions (5.1)].
 
@@ -663,7 +663,7 @@ You are breastfeeding.
 
 ### Avanafil [^114EL9P9]. FDA (2024). Medium credibility.
 
- Effects of Avanafil on Blood Pressure When Administered with Nitrates
+Effects of Avanafil on Blood Pressure When Administered with Nitrates
 
 In a clinical pharmacology trial, a single dose of avanafil 200 mg was shown to potentiate the hypotensive effect of nitrates. The use of avanafil in patients taking any form of nitrates is contraindicated [see Contraindications (4.1)].
 
@@ -695,7 +695,7 @@ Ritonavir
 
 The recommended dose for ritonavir-treated patients is 25 mg prior to sexual activity and the recommended maximum dose is 25 mg within a 48 hour period because concomitant administration increased the blood levels of sildenafil by 11-fold [see Warnings and Precautions (5.6), Drug Interactions (7.4), and Clinical Pharmacology (12.3)].
 
- CYP3A4 Inhibitors
+CYP3A4 Inhibitors
 
 Consider a starting dose of 25 mg in patients treated with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, or saquinavir) or erythromycin. Clinical data have shown that co-administration with saquinavir or erythromycin increased plasma levels of sildenafil by about 3 fold [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
 

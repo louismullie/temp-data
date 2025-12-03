@@ -169,31 +169,31 @@ Frequent agitation, extrapyramidal syndrome, tremor, dystonia, hypertonia, dyski
 
 Endocrine
 
- Rare hypothyroidism, hyperthyroidism, thyroiditis
+Rare hypothyroidism, hyperthyroidism, thyroiditis
 
 Hemic and Lymphatic System
 
- Infrequent anemia, ecchymosis, leukocytosis, leukopenia, eosinophilia, lymphadenopathy
+Infrequent anemia, ecchymosis, leukocytosis, leukopenia, eosinophilia, lymphadenopathy
 
- Rare thrombocytopenia, hypochromic anemia, lymphocytosis, monocytosis, basophilia, lymphedema, polycythemia, thrombocythemia
+Rare thrombocytopenia, hypochromic anemia, lymphocytosis, monocytosis, basophilia, lymphedema, polycythemia, thrombocythemia
 
- Metabolic and Nutritional Disorders
+Metabolic and Nutritional Disorders
 
- Infrequent thirst, transaminase increased, peripheral edema, hyperglycemia, creatine phosphokinase increased, alkaline phosphatase increased, hypercholesteremia, dehydration, lactic dehydrogenase increased, albuminuria, hypokalemia
+Infrequent thirst, transaminase increased, peripheral edema, hyperglycemia, creatine phosphokinase increased, alkaline phosphatase increased, hypercholesteremia, dehydration, lactic dehydrogenase increased, albuminuria, hypokalemia
 
- Rare BUN increased, creatinine increased, hyperlipemia, hypocholesteremia, hyperkalemia, hypochloremia, hypoglycemia, hyponatremia, hypoproteinemia, glucose tolerance decreased, gout, hyperchloremia, hyperuricemia, hypocalcemia, hypoglycemicreaction, hypomagnesemia, ketosis, respiratory alkalosis
+Rare BUN increased, creatinine increased, hyperlipemia, hypocholesteremia, hyperkalemia, hypochloremia, hypoglycemia, hyponatremia, hypoproteinemia, glucose tolerance decreased, gout, hyperchloremia, hyperuricemia, hypocalcemia, hypoglycemicreaction, hypomagnesemia, ketosis, respiratory alkalosis
 
 Musculoskeletal System
 
- Frequent myalgia
+Frequent myalgia
 
- Infrequent tenosynovitis
+Infrequent tenosynovitis
 
- Rare myopathy
+Rare myopathy
 
- Nervous System
+Nervous System
 
- Frequent agitation, extrapyramidal syndrome, tremor, dystonia, hypertonia, dyskinesia, hostility, twitching, paresthesia, confusion, vertigo, hypokinesia, hyperkinesia, abnormal gait, oculogyric crisis, hypesthesia, ataxia, amnesia, cogwheel rigidity, delirium, hypotonia, akinesia, dysarthria, withdrawal syndrome, buccoglossal syndrome, choreoathetosis, diplopia, incoordination, neuropathy
+Frequent agitation, extrapyramidal syndrome, tremor, dystonia, hypertonia, dyskinesia, hostility, twitching, paresthesia, confusion, vertigo, hypokinesia, hyperkinesia, abnormal gait, oculogyric crisis, hypesthesia, ataxia, amnesia, cogwheel rigidity, delirium, hypotonia, akinesia, dysarthria, withdrawal syndrome, buccoglossal syndrome, choreoathetosis, diplopia, incoordination, neuropathy
 
 ---
 
@@ -859,11 +859,11 @@ Some patients may report a blunting, diminution, or total loss of taste percepti
 
 Gastrointestinal side effects are usually reversible following cessation of therapy.
 
- Hematological — Penicillamine can cause bone marrow depression (see WARNINGS). Leukopenia (2%) and thrombocytopenia (4%) have occurred. Fatalities have been reported as a result of thrombocytopenia, agranulocytosis, aplastic anemia, and sideroblastic anemia.
+Hematological — Penicillamine can cause bone marrow depression (see WARNINGS). Leukopenia (2%) and thrombocytopenia (4%) have occurred. Fatalities have been reported as a result of thrombocytopenia, agranulocytosis, aplastic anemia, and sideroblastic anemia.
 
 Thrombotic thrombocytopenic purpura, hemolytic anemia, red cell aplasia, monocytosis, leukocytosis, eosinophilia, and thrombocytosis have also been reported.
 
- Renal — Patients on penicillamine therapy may develop proteinuria (6%) and/or hematuria which, in some, may progress to the development of the nephrotic syndrome as a result of an immune complex membranous glomerulopathy (see WARNINGS). Renal failure has been reported.
+Renal — Patients on penicillamine therapy may develop proteinuria (6%) and/or hematuria which, in some, may progress to the development of the nephrotic syndrome as a result of an immune complex membranous glomerulopathy (see WARNINGS). Renal failure has been reported.
 
 ---
 

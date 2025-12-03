@@ -541,7 +541,7 @@ Ondansetron Tablets USP, 8 mg (ondansetron hydrochloride dihydrate equivalent to
 
 NDC 45963-539-30 Bottles of 30
 
- Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature].
 
 ---
 
@@ -1149,17 +1149,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions have been reported in clinical trials of patients treated with ondansetron, the active ingredient of ondansetron tablets. A causal relationship to therapy with ondansetron tablets was unclear in many cases.
 
- Prevention of Chemotherapy-Induced Nausea and Vomiting
+Prevention of Chemotherapy-Induced Nausea and Vomiting
 
 The most common adverse reactions reported in greater than or equal to 4% of 300 adults receiving a single 24 mg dose of ondansetron tablets orally in 2 trials for the prevention of nausea and vomiting associated with highly emetogenic chemotherapy (cisplatin greater than or equal to 50 mg/m2) were: headache (11%) and diarrhea (4%).
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
- Table 3: Most Common Adverse Reactions in Adults for the Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in Adults for the Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 Less Common Adverse Reactions
 
- Central Nervous System: Extrapyramidal reactions (less than 1% of patients).
+Central Nervous System: Extrapyramidal reactions (less than 1% of patients).
 
 ---
 

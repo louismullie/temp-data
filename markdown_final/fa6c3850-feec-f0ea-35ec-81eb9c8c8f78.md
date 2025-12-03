@@ -527,9 +527,9 @@ Safe infant sleep environment — summary of recommendations with strength. A-le
 
 Vigabatrin for oral solution causes sleepiness and tiredness. Adults taking vigabatrin for oral solution should not drive, operate machinery, or perform any hazardous task, unless you and your healthcare provider have decided that you can do these things safely.
 
- What are the possible side effects of vigabatrin for oral solution?
+What are the possible side effects of vigabatrin for oral solution?
 
- Vigabatrin for oral solution can cause serious side effects, including:
+Vigabatrin for oral solution can cause serious side effects, including:
 
 - See "What is the most important information I should know about vigabatrin for oral solution?"
 

@@ -455,7 +455,7 @@ Each BUTRANS system provides delivery of buprenorphine for 7 days. Steady state 
 
 Figure 2
 
- Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of BUTRANS 10 mcg/hour (N = 36 Healthy Subjects)
+Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of BUTRANS 10 mcg/hour (N = 36 Healthy Subjects)
 
 BUTRANS 5, 10, and 20 mcg/hour provide dose-proportional total buprenorphine exposures (AUC) following 7-day applications. BUTRANS single 7-day application and steady-state pharmacokinetic parameters are summarized in Table 7. Plasma buprenorphine concentrations after titration showed no further change over the 60-day period studied.
 

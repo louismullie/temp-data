@@ -932,11 +932,11 @@ IDSA grading of recommendations and evidence — overview of categories: Table 1
 
 Escherichia coli.
 
- Enterobacter aerogenes.
+Enterobacter aerogenes.
 
- Shigella species.
+Shigella species.
 
- Acinetobacter species.
+Acinetobacter species.
 
 Respiratory tract infections caused by Haemophilus influenzae.
 

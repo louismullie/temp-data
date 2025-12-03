@@ -582,15 +582,15 @@ Indications
 
 Recommended:
 
- ≥ 5 rib flail chest requiring mechanical ventilation;
+≥ 5 rib flail chest requiring mechanical ventilation;
 Symptomatic non-union;
 Severe displacement found during a thoracotomy for another reason.
 
 Consider:
 
- ≥ 3 rib flail not requiring mechanical ventilation;
- ≥ 3 ribs with severely displaced fractures (bi-cortical displacement);
- ≥ 3 ribs with mild to moderate displacement and 50% reduction of expected forced vital capacity percent despite optimal pain management.
+≥ 3 rib flail not requiring mechanical ventilation;
+≥ 3 ribs with severely displaced fractures (bi-cortical displacement);
+≥ 3 ribs with mild to moderate displacement and 50% reduction of expected forced vital capacity percent despite optimal pain management.
 
 Absolute contraindications:
 

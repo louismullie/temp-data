@@ -917,7 +917,7 @@ Alcoholic beverages should be avoided when taking tinidazole and for 3 days afte
 
 For those unable to swallow tablets, tinidazole tablets may be crushed in artificial cherry syrup to be taken with food.
 
- Procedure for Extemporaneous Pharmacy Compounding of the Oral Suspension: Pulverize four 500 mg oral tablets with a mortar and pestle. Add approximately 10 mL of cherry syrup to the powder and mix until smooth. Transfer the suspension to a graduated amber container. Use several small rinses of cherry syrup to transfer any remaining drug in the mortar to the final suspension for a final volume of 30 mL. The suspension of crushed tablets in artificial cherry syrup is stable for 7 days at room temperature. When this suspension is used, it should be shaken well before each administration.
+Procedure for Extemporaneous Pharmacy Compounding of the Oral Suspension: Pulverize four 500 mg oral tablets with a mortar and pestle. Add approximately 10 mL of cherry syrup to the powder and mix until smooth. Transfer the suspension to a graduated amber container. Use several small rinses of cherry syrup to transfer any remaining drug in the mortar to the final suspension for a final volume of 30 mL. The suspension of crushed tablets in artificial cherry syrup is stable for 7 days at room temperature. When this suspension is used, it should be shaken well before each administration.
 
 2.3 Trichomoniasis
 

@@ -1139,7 +1139,7 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Distributed by:
 
- Dr. Reddy's Laboratories Inc.
+Dr. Reddy's Laboratories Inc.
 
 princeton, NJ08540
 

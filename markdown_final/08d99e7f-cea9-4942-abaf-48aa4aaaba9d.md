@@ -1293,7 +1293,7 @@ Association of PPI use at 3 months post-discharge and subsequent adverse outcome
 
 * Median months from cohort start to incidence of events, with 1st quartile (Q1) and 3rd quartile (Q3)
 
- For the events of post-hospitalization AKI, the measure is Rate Ratio (RR) with 95% confidence interval (CI)
+For the events of post-hospitalization AKI, the measure is Rate Ratio (RR) with 95% confidence interval (CI)
 
 For the events of progression of kidney disease, the measure is Hazard Ratio (HR) with 95% confidence interval (CI)
 

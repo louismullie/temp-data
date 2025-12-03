@@ -675,17 +675,17 @@ Foodborne disease surveillance and outbreak detection — actions to strengthen 
 
 ### Levetiracetam [^114beYdE]. FDA (2025). Medium credibility.
 
- Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 4
+Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 4
 
 *statistically significant versus placebo
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
- Figure 4: Responder Rate (≥ 50% Reduction from Baseline) in Study 4
+Figure 4: Responder Rate (≥ 50% Reduction from Baseline) in Study 4
 
 *statistically significant versus placebo
 
- Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to < 4 Years of Age
+Effectiveness in Partial-Onset Seizures in Pediatric Patients 1 Month to < 4 Years of Age
 
 The effectiveness of levetiracetam for the treatment of partial-onset seizures in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs). Eligible patients on a stable dose of 1 to 2 AEDs, who experienced at least 2 partial-onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam or placebo. The enrolled population included 116 patients (levetiracetam N = 60, placebo N = 56) with refractory partial-onset seizures, whether or not secondarily generalized. Randomization was stratified by age range as follows: 1 month to less than 6 months of age (N = 4 treated with levetiracetam), 6 months to less than 1 year of age (N = 8 treated with levetiracetam), 1 year to less than 2 years of age (N = 20 treated with levetiracetam), and 2 years to less than 4 years of age (N = 28 treated with levetiracetam). The study consisted of a 5-day evaluation period which included a 1-day titration period followed by a 4-day maintenance period. Levetiracetam dosing was determined by age and weight as follows: children 1 month to less than 6 months old were randomized to a target dose of 40 mg/kg/day, and children 6 months to less than 4 years old were randomized to a target dose of 50 mg/kg/day. The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial-onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG performed during the last two days of the 4-day maintenance period. A total of 109 patients were included in the efficacy analysis. A statistically significant difference between levetiracetam and placebo was observed (see Figure 5). The treatment effect associated with levetiracetam was consistent across age groups.
 

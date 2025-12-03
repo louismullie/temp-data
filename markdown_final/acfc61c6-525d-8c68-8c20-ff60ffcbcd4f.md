@@ -507,7 +507,7 @@ The dosage of cefoperazone / sulbactam sodium IV for treatment of intra-abdomina
 
 ### Ampicillin sodium and sulbactam sodium (ampicillin and sulbactam) [^114SfRv9]. FDA (2025). Medium credibility.
 
- Impaired Renal Function
+Impaired Renal Function
 
 In patients with impairment of renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of ampicillin and sulbactam in such patients should be administered less frequently in accordance with the usual practice for ampicillin and according to the following recommendations:
 

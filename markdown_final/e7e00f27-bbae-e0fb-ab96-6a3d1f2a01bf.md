@@ -516,9 +516,9 @@ Dosage of UTI prophylactic agents used in 1473 nursing home residents; Last colu
 
 * oral daily doses, ** vaginal weekly doses estriol (50–52 μg estradiol weekly), ** 2 residents received 4 mL mixture or 0.5 drinking glass of cranberry juice daily
 
- Evidence grading system as commonly used in clinical practice Guidelines
+Evidence grading system as commonly used in clinical practice Guidelines
 
- Estimated glomerular filtration rate
+Estimated glomerular filtration rate
 
 ---
 

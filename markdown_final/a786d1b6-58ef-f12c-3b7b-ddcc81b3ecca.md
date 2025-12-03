@@ -665,7 +665,7 @@ Dose-Related Adverse Reactions
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related. The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)]. The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
- G. I. Irritation
+G. I. Irritation
 
 Patients who experience G. I. irritation may benefit from administration of the drug with food or by slowly building up the dose from an initial low level.
 
@@ -943,19 +943,19 @@ The concomitant use of meropenem and valproic acid or divalproex sodium is gener
 
 ### Divalproex sodium [^116KxcNG]. FDA (2025). Medium credibility.
 
- Carbamazepine/carbamazepine-10,11-Epoxide
+Carbamazepine/carbamazepine-10,11-Epoxide
 
 Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon coadministration of valproate and CBZ to epileptic patients.
 
- Clonazepam
+Clonazepam
 
 The concomitant use of valproate and clonazepam may induce absence status in patients with a history of absence type seizures.
 
- Diazepam
+Diazepam
 
 Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism. Coadministration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n = 6). Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate. The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
- Ethosuximide
+Ethosuximide
 
 Valproate inhibits the metabolism of ethosuximide. Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n = 6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone. Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
 
@@ -1042,7 +1042,7 @@ Equivalent doses of Valproate Sodium Injection and divalproex sodium yield equiv
 
 ### Divalproex sodium [^114qAvYm]. FDA (2025). Medium credibility.
 
- Data
+Data
 
 Human
 
