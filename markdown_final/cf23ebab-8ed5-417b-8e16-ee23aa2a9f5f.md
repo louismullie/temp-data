@@ -45,7 +45,7 @@ What are the risks or concerns with taking Qsymia and Vyvanse together?
 
 ---
 
-The main problem with taking Qsymia and Vyvanse together is the **additive stimulant effects** from phentermine [^113Qc1jr] and lisdexamfetamine [^113PXM9e], which can cause **increased cardiovascular risk** (hypertension, tachycardia, arrhythmias) and **heightened psychiatric risk** (anxiety, insomnia, psychosis, mania) [^11721Qv8]. Both drugs are **controlled substances with abuse potential**, and combining them increases the risk of dependence and withdrawal symptoms [^112VXyai] [^111aC35Q] [^114itd6u]. There is no established safety or efficacy for this combination, and **coadministration is not recommended** [^112dAy8U].
+The main problem with taking Qsymia and Vyvanse together is the **additive stimulant effects** from phentermine [^113Qc1jr] and lisdexamfetamine [^113PXM9e], which can cause **increased cardiovascular risk** (hypertension, tachycardia, arrhythmias) and **heightened psychiatric risk** (anxiety, insomnia, psychosis, mania) [^11721Qv8]. Both drugs are **controlled substances with abuse potential**, and combining them increases the risk of dependence and withdrawal symptoms [^112VXyai] [^111aC35Q] [^114itd6u]. There is no established safety or efficacy for this combination, and **coadministration is not recommended** [^117Eanwh].
 
 ---
 

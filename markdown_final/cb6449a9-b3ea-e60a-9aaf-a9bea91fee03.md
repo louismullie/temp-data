@@ -177,26 +177,46 @@ Key points
 - Properly treating infected wounds.
 - Penetrating or puncture wounds
 - Wounds containing dirt, soil, feces, or saliva
-- **Wounds containing devitalized tissue**:
-- Burns
-- Compound fractures
-- Crush injuries
-- Frostbite
-- Necrotic or gangrenous wounds
-- **Burns Care Healthcare providers should**:
+- Wounds containing devitalized tissue:
+    - Burns
+    - Compound fractures
+    - Crush injuries
+    - Frostbite
+    - Necrotic or gangrenous wounds
+
+Healthcare providers should:
+
 - Clean all wounds
 - Remove dirt or foreign material
-- Remove or debride necrotic material. Vaccination recommended For all wounds
+- Remove or debride necrotic material.
+
+Vaccination recommended (for all wounds)
+
 - People with an unknown vaccine history
 - Unvaccinated people
-- People with an incomplete tetanus primary series For clean and minor wounds People with a complete tetanus primary series who received their last tetanus vaccine 10 or more years ago. For dirty or major wounds People with a complete tetanus primary series who received their last tetanus vaccine 5 or more years ago. TIG assessment TIG contains antibodies against tetanus toxin and functions as an antitoxin. TIG can provide temporary protection against tetanus by directly binding and neutralizing circulating toxin.
+- People with an incomplete tetanus primary series
 
-TIG cannot neutralize toxin that's already bound to nerve endings. TIG prophylaxis indications For clean and minor wounds TIG is never indicated for clean and minor wounds. For dirty or major wounds
+For clean and minor wounds
+
+People with a complete tetanus primary series who received their last tetanus vaccine 10 or more years ago.
+
+For dirty or major wounds
+
+People with a complete tetanus primary series who received their last tetanus vaccine 5 or more years ago.
+
+TIG assessment
+
+TIG contains antibodies against tetanus toxin and functions as an antitoxin. TIG can provide temporary protection against tetanus by directly binding and neutralizing circulating toxin.
+
+TIG cannot neutralize toxin that's already bound to nerve endings. TIG prophylaxis indications For clean and minor wounds TIG is never indicated for clean and minor wounds. For dirty or major wounds:
+
 - People with an unknown tetanus vaccine history
 - People who have never received tetanus vaccines
 - People with an incomplete tetanus vaccine primary series
 - People with HIV
-- People with a severe immunodeficiency. Care If indicated, administer 250 international units of TIG intramuscularly. TIG is commercially available for purchase. CDC doesn't stockpile or supply TIG.
+- People with a severe immunodeficiency.
+
+If indicated, administer 250 international units of TIG intramuscularly. TIG is commercially available for purchase. CDC doesn't stockpile or supply TIG.
 
 ---
 

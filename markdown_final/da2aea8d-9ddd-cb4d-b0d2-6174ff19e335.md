@@ -875,22 +875,6 @@ If a CNI-free-"bottom-up" IS strategy is safe and effective, this may be an inno
 
 ---
 
-### Diagnosis of acute rejection in renal transplant patients by urine… [^116zUgch]. ClinicalTrials (2011). Low credibility.
-
-In patients with unexplained renal allograft dysfunction who get an allograft biopsy to clarify if an acute rejection is present, a simultaneous urine sample will be taken. The peptide pattern of this urine sample is analyzed by mass spectrometry and a diagnosis is made based on a pre-defined peptide pattern which was established to detect acute allograft rejection.
-- Sensitivity and specificity of the urine test to diagnose acute renal allograft rejection in subgroups with different severity grades of the rejection
-- Sensitivity/specificity measures for the urine test will be determined in subgroups of patients with different severity of the rejection.
-
-Severity grading is based on the pathomorphological classification of the rejection and on the functional impairment of the allograft at the time of rejection diagnosis. Reliable and timely detection of acute rejections in renal transplant patients is important to preserve the graft function and to prevent premature graft failure. The current gold standard for the rejection diagnosis is a renal biopsy which is usually performed upon an unexplained decline in the graft function. Because of the insensitivity of creatinine determinations and the invasiveness of renal biopsies, non-invasive tests have been suggested to diagnose acute rejection including mass spectrometry analysis of urine samples. The aim of the study is to prove that this test is as equally effective as the allograft biopsy to detect acute rejection in patients that undergo a biopsy for unexplained renal dysfunction.
-
-The perspective of this approach is that the test could be used either in place of the biopsy or as decision guidance whether a biopsy is necessary to confirm the presence of rejection. Another perspective is that the MS test could be used in the regular post-transplant surveillance for acute rejection, in place of the relatively insensitive procedure with periodic monitoring of the graft function by creatinine determinations. Detailed Description.
-- **Rejection of Renal Transplant Inclusion Criteria**:
-- Adult patients with a kidney or combined kidney/pancreas transplantation
-- Unexplained renal allograft dysfunction within the first year of transplantation
-- Renal allograft biopsy, which is clinically indicated to verify or exclude an acute rejection Exclusion Criteria:
-
----
-
 ### Evolving criteria for the diagnosis of antibody-mediated rejection in renal allografts [^113qjXk9]. Current Opinion in Nephrology and Hypertension (2018). Low credibility.
 
 Purpose Of Review

@@ -33,7 +33,7 @@ cacitrial is 1,25 OH?
 
 ---
 
-Calcitriol is **1,25-dihydroxyvitamin D** [^1165iBsx], the active form of vitamin D produced by renal 1α-hydroxylation of 25-hydroxyvitamin D [^1167Q1RY]. It is used to treat hypocalcemia in chronic kidney disease, hypoparathyroidism, and vitamin D–dependent rickets, but requires close monitoring for hypercalcemia and hypercalciuria [^112Tpe7y] [^1161JB9B]. Calcitriol is not for routine supplementation because of its short half-life and narrow therapeutic window [^1167Q1RY] [^112Tpe7y].
+Calcitriol is **1,25-dihydroxyvitamin D**, the active form of vitamin D produced by renal 1α-hydroxylation of 25-hydroxyvitamin D [^1167Q1RY]. It is used to treat hypocalcemia in chronic kidney disease, hypoparathyroidism, and vitamin D–dependent rickets, but requires close monitoring for hypercalcemia and hypercalciuria [^112Tpe7y] [^1161JB9B]. Calcitriol is not for routine supplementation because of its short half-life and narrow therapeutic window [^1167Q1RY] [^112Tpe7y].
 
 ---
 

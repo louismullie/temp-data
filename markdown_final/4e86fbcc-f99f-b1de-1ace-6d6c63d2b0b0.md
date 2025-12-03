@@ -740,47 +740,6 @@ Adult sinusitis guideline — viral rhinosinusitis (VRS) supportive care and nat
 
 ---
 
-### Pneumococcal disease symptoms and complications… [^117VpNf9]. CDC (2024). Medium credibility.
-
-Symptoms It usually takes 1 to 3 days for pneumonia symptoms to appear after S. pneumoniae bacteria enter someone's body. Experts don't know how long it takes for symptoms to appear for other types of pneumococcal disease. Keep Reading: Types of pneumococcal disease Symptoms of pneumococcal disease depend on the part of the body that's infected. Generally, the symptoms are similar to other bacterial infections in that part of the body. Serious infections Pneumonia Symptoms of pneumococcal pneumonia, a lung infection, include:
-
-- Chest pain
-- Cough
-- Fever and chills
-- Rapid breathing or difficulty breathing Older adults may experience confusion or low alertness, rather than the more common symptoms listed above.
-
-Meningitis Symptoms of pneumococcal meningitis, an infection of the lining of the brain and spinal cord, include:
-
-- Confusion
-- Fever
-- Headache
-- Photophobia
-- Stiff neck In babies, meningitis may cause poor eating and drinking, low alertness, and vomiting. Bacteremia Symptoms of pneumococcal bacteremia, a bloodstream infection, include:
-
-- Chills
-- Fever
-- Low alertness. Mild infections Ear infection Symptoms of ear infections include:
-
-- A red, swollen ear drum
-- Ear pain
-- Fever
-- **Sleepiness Sinus infection Symptoms of sinus infections include**:
-- Bad breath
-- Cough
-- Facial pain or pressure
-- Headache
-- Post-nasal drip
-- Runny or stuffy nose
-- Sore throat. Complications When to seek medical care Serious infections can result in sepsis, long-term problems, or death.
-
-Sepsis is a life-threatening emergency resulting from the body's extreme response to infection. Pneumonia Pneumonia can cause:
-
-- Airway blockage, collapsed lungs, and lung abscesses
-- Empyema
-- Pericarditis Pneumococcal pneumonia kills about 1 in 20 people who get it. Minor infections Complications are rare and not usually severe for mild infections like ear and sinus infections.
-
----
-
 ### A 51-year-old woman with acute onset of facial pressure, rhinorrhea, and Tooth pain: review of acute rhinosinusitis [^116dMDhJ]. JAMA (2009). Excellent credibility.
 
 Acute rhinosinusitis is a common ailment accounting for millions of office visits annually, including that of Mrs D, a 51-year-old woman presenting with 5 days of upper respiratory illness and facial pain. Her case is used to review the diagnosis and treatment of acute rhinosinusitis. Acute viral rhinosinusitis can be difficult to distinguish from acute bacterial rhinosinusitis, especially during the first 10 days of symptoms. Evidence-based clinical practice guidelines developed to guide diagnosis and treatment of acute viral and bacterial rhinosinusitis recommend that the diagnosis of acute rhinosinusitis be based on the presence of "cardinal symptoms" of purulent rhinorrhea and either facial pressure or nasal obstruction of less than 4 weeks' duration. Antibiotic treatment generally can be withheld during the first 10 days of symptoms for mild to moderate cases, given the likelihood of acute viral rhinosinusitis or of spontaneously resolving acute bacterial rhinosinusitis. After 10 days, the likelihood of acute bacterial rhinosinusitis increases, and initiation of antibiotic therapy is supported by practice guidelines. Complications of sinusitis, though rare, can be serious and require early recognition and treatment.
