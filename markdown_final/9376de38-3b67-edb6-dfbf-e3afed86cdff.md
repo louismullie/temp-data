@@ -33,7 +33,7 @@ What is the treatment of hypcalcemia
 
 > In tumor lysis syndrome, I should avoid treating asymptomatic hypocalcemia because calcium can promote calcium-phosphate precipitation when phosphate is high. If hypocalcemia is symptomatic, a short infusion of calcium gluconate with close monitoring is reasonable, but my priority remains aggressive hydration, rasburicase when indicated, and phosphate control to prevent calcium-phosphate deposition [^112EmJ7F] [^112tkzNB].
 
-> For vitamin D deficiency, I need to check that I'm using the right repletion strategy. Cholecalciferol 50,000 IU weekly for about 4–8 weeks is a common approach, with maintenance at 400–800 IU daily thereafter, and I should pair this with calcium and consider calcitriol if hypocalcemia is severe or malabsorption is present, recognizing that calcitriol helps acutely but does not rebuild vitamin D stores [^notfound] [^113dopje].
+> For vitamin D deficiency, I need to check that I'm using the right repletion strategy. Cholecalciferol 50,000 IU weekly for about 4–8 weeks is a common approach, with maintenance at 400–800 IU daily thereafter, and I should pair this with calcium and consider calcitriol if hypocalcemia is severe or malabsorption is present, recognizing that calcitriol helps acutely but does not rebuild vitamin D stores [^113dopje].
 
 > I should double-check denosumab-related hypocalcemia precautions. Pre-existing hypocalcemia must be corrected before denosumab, all patients should receive calcium and vitamin D supplementation, and in advanced CKD or high-risk patients I should monitor calcium 10–14 days after injection and then periodically, as severe, prolonged hypocalcemia is well documented and may require IV therapy [^113g4RMX] [^116p8nTb].
 
