@@ -85,7 +85,7 @@ Lifestyle therapy is **first-line for all patients** [^111g27S2] and should be c
 
 Add non-statins when LDL-C remains above threshold despite maximally tolerated statins:
 
-| **Agent** | **Mechanism** | **Ldl-c reduction** | **Indications** |
+| **Agent** | **Mechanism** | **LDL-C reduction** | **Indications** |
 |-|-|-|-|
 | Ezetimibe | cholesterol absorption inhibitor | 15–25% | - LDL-C ≥ 70 mg/dL on statin [^112iCCYF] <br/> - Or statin intolerance [^1119L2xg] |
 | PCSK9 inhibitors | monoclonal antibodies | 50–60% | - LDL-C ≥ 70 mg/dL on statin + ezetimibe [^117MtwZS] <br/> - Or statin intolerance [^111jseTm] |
