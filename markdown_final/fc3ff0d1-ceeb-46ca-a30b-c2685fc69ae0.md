@@ -43,7 +43,7 @@ Skin flare-ups associated with complex regional pain syndrome (CRPS)
 
 ---
 
-CRPS skin flare-ups are driven by **neurogenic inflammation** [^111NsCXg] and **autonomic dysregulation** [^114Q5Sev], producing episodic redness, warmth, swelling, and sweating changes that often accompany pain flares [^111Lpee9]. Triggers include minor trauma [^117RCNQ9], stress, temperature shifts [^112yzZnX], and overuse. Management centers on **multidisciplinary care** [^112dKriF] [^111NsCXg], including physical therapy, psychological support, and medications such as NSAIDs, corticosteroids [^111XHd2b], and neuropathic agents [^111xfxme]; sympathetic blocks [^111xfxme] and neuromodulation are options for refractory cases [^113SCH7c]. Early recognition and treatment are essential to limit chronicity and disability [^116Yk6v1].
+CRPS skin flare-ups are driven by **neurogenic inflammation** [^111NsCXg] and **autonomic dysregulation** [^114Q5Sev], producing episodic redness, warmth, swelling, and sweating changes that often accompany pain flares [^111Lpee9]. Triggers include minor trauma [^111NsCXg], stress, temperature shifts [^112yzZnX], and overuse. Management centers on **multidisciplinary care** [^112dKriF] [^111NsCXg], including physical therapy, psychological support, and medications such as NSAIDs, corticosteroids [^111XHd2b], and neuropathic agents [^111xfxme]; sympathetic blocks [^111xfxme] and neuromodulation are options for refractory cases [^113SCH7c]. Early recognition and treatment are essential to limit chronicity and disability [^116Yk6v1].
 
 ---
 

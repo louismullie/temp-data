@@ -35,7 +35,7 @@ Diastolic hypertension treatment
 
 ---
 
-Treat diastolic hypertension by **initiating pharmacologic therapy when DBP is ≥ 90 mm Hg** [^1148L8CR] in adults ≥ 30 years, with a **target DBP < 90 mm Hg** [^114TviH6]. Use first-line agents such as thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^115FQHjS], and add a second agent if the goal is not reached [^115izHe7]. In adults ≥ 60 years, treat to **< 150/90 mm Hg** [^111xGbJZ]; in younger adults, aim for **< 140/90 mm Hg** [^1148L8CR]. Avoid excessive DBP lowering below 60 mm Hg [^11521VcP] due to increased cardiovascular risk [^1142w8Jk]. Combine lifestyle measures — sodium restriction, weight loss, and regular exercise — with medication to optimize control [^117DKjSW].
+Treat diastolic hypertension by **initiating pharmacologic therapy when DBP is ≥ 90 mm Hg** [^1148L8CR] in adults ≥ 30 years, with a **target DBP < 90 mm Hg** [^114TviH6]. Use first-line agents such as thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers [^115izHe7], and add a second agent if the goal is not reached [^115izHe7]. In adults ≥ 60 years, treat to **< 150/90 mm Hg** [^111xGbJZ]; in younger adults, aim for **< 140/90 mm Hg** [^1148L8CR]. Avoid excessive DBP lowering below 60 mm Hg [^11521VcP] due to increased cardiovascular risk [^1142w8Jk]. Combine lifestyle measures — sodium restriction, weight loss, and regular exercise — with medication to optimize control [^117DKjSW].
 
 ---
 

@@ -31,7 +31,7 @@ can metformin be used in esrd
 
 ---
 
-Metformin is **contraindicated in ESRD** (eGFR < 15 mL/min/1.73 m² or on dialysis) due to the risk of lactic acidosis from drug accumulation [^112TYKcm] [^114jiAJK]. Current guidelines and FDA labeling advise stopping metformin when eGFR falls below 30 mL/min/1.73 m² and explicitly prohibit use in ESRD [^116wHr8J] [^116KB1gH] [^112TYKcm]. Although a few observational studies suggest possible benefit with very low doses, there is **insufficient evidence** to support routine use in ESRD, and metformin should be avoided in this population [^112eRdjU] [^112fMZ4b] [^117AKUdn].
+Metformin is **contraindicated in ESRD** (eGFR < 15 mL/min/1.73 m² or on dialysis) due to the risk of lactic acidosis from drug accumulation [^112TYKcm] [^114jiAJK]. Current guidelines and FDA labeling advise stopping metformin when eGFR falls below 30 mL/min/1.73 m² and explicitly prohibit use in ESRD [^116WMp3j] [^116KB1gH] [^112TYKcm]. Although a few observational studies suggest possible benefit with very low doses, there is **insufficient evidence** to support routine use in ESRD, and metformin should be avoided in this population [^112eRdjU] [^112fMZ4b] [^117AKUdn].
 
 ---
 
