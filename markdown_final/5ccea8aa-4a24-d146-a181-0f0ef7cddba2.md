@@ -37,7 +37,7 @@ What are the causes of hypo albumin in infants
 
 ---
 
-Hypoalbuminemia in infants is most often due to **inflammation-driven capillary leak** [^1158KX7a] and **increased protein loss** from renal or gastrointestinal sources [^113pL7qv] [^116KBHYs], rather than reduced synthesis alone [^113Ef2F4]. Key causes include sepsis, NEC, RDS, congenital nephrotic syndrome [^113pL7qv], protein-losing enteropathy [^113aHFWq], and liver disease [^114K2KDv]; prematurity and malnutrition exacerbate risk [^1143kGt6]. Management should target the underlying cause, with albumin infusion reserved for **symptomatic hypovolemia or edema** [^113CBdWg] [^114Z4XKF], as routine use does not improve outcomes [^115nA2R1] [^115orzyi].
+Hypoalbuminemia in infants is most often due to **inflammation-driven capillary leak** [^1158KX7a] and **increased protein loss** from renal or gastrointestinal sources [^113pL7qv] [^116KBHYs], rather than reduced synthesis alone [^113Ef2F4]. Key causes include sepsis, NEC, RDS, congenital nephrotic syndrome [^113pL7qv], protein-losing enteropathy [^113aHFWq], and liver disease [^114K2KDv]; prematurity and malnutrition exacerbate risk [^1143kGt6]. Management should target the underlying cause, with albumin infusion reserved for **symptomatic hypovolemia or edema** [^113CBdWg] [^1143bPdd], as routine use does not improve outcomes [^115nA2R1] [^115orzyi].
 
 ---
 

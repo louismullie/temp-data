@@ -31,7 +31,7 @@ How does stopping an arb reduce gfr?
 
 ---
 
-Stopping an ARB reverses efferent arteriolar vasodilation, restoring intraglomerular pressure and increasing GFR by about 10–20% within days to weeks [^115dXfiw] [^116AyvdY]. This rise is a **hemodynamic rebound**, not structural recovery, and does not improve long-term kidney outcomes [^111RfXyF]. In advanced CKD, stopping ARBs does not slow eGFR decline and may increase risks of kidney failure and cardiovascular events, so **continuation is generally recommended** unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^116PLx1G] [^116hZL7Y].
+Stopping an ARB reverses efferent arteriolar vasodilation, restoring intraglomerular pressure and increasing GFR by about 10–20% within days to weeks [^115dXfiw] [^116pFhiN]. This rise is a **hemodynamic rebound**, not structural recovery, and does not improve long-term kidney outcomes [^111RfXyF]. In advanced CKD, stopping ARBs does not slow eGFR decline and may increase risks of kidney failure and cardiovascular events, so **continuation is generally recommended** unless there is symptomatic hypotension, refractory hyperkalemia, or a need to reduce uremic symptoms [^116PLx1G] [^116hZL7Y].
 
 ---
 

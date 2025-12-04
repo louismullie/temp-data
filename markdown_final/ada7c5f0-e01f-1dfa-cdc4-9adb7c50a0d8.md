@@ -33,7 +33,7 @@
 
 ---
 
-For a 70-year-old with intermediate-risk chronic-phase CML, **second-generation TKIs (dasatinib, nilotinib, bosutinib) or asciminib are preferred** [^1136izgD] because they achieve faster and deeper molecular responses and reduce progression risk compared with imatinib [^113Y3w23] [^116rrL1P]. Imatinib is a reasonable alternative if comorbidities (especially cardiovascular disease) [^116h2tBX], drug interactions, or patient preference favor it [^111xjvE2]. Therapy should be **individualized** based on comorbidities, toxicity profiles, and patient goals, with close molecular monitoring to guide adjustments [^115bsy7J] [^111BpN5g].
+For a 70-year-old with intermediate-risk chronic-phase CML, **second-generation TKIs (dasatinib, nilotinib, bosutinib) or asciminib are preferred** [^1136izgD] because they achieve faster and deeper molecular responses and reduce progression risk compared with imatinib [^113Y3w23] [^116rrL1P]. Imatinib is a reasonable alternative if comorbidities (especially cardiovascular disease) [^116h2tBX], drug interactions, or patient preference favor it [^115bsy7J]. Therapy should be **individualized** based on comorbidities, toxicity profiles, and patient goals, with close molecular monitoring to guide adjustments [^115bsy7J] [^111BpN5g].
 
 ---
 

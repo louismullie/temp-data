@@ -29,7 +29,7 @@ can clindamycin be used in klebsiella infection
 
 > Let me think about appropriate alternatives to ground the recommendation. Aminoglycosides like tobramycin and beta-lactams such as ceftazidime are labeled as active against Klebsiella in serious infections, and guideline-preferred agents should be selected based on site of infection and susceptibilities, with carbapenems for ESBL disease and modern beta-lactam/beta-lactamase inhibitor combinations for CRE when indicated; these are the clinically appropriate paths rather than clindamycin [^114qZV8o] [^11573KMp] [^112T6Th6] [^115ivtWb].
 
-> Bottom line, after verifying labeling, microbiology, guidelines, and safety, I should conclude clearly: clindamycin has no reliable activity against Klebsiella and is not appropriate therapy for Klebsiella infections; if present in a polymicrobial process, it may be used only as an adjunct for anaerobes or gram-positive coverage alongside a drug active against Klebsiella, chosen per susceptibility results and site-specific guidance [^114QPBjx] [^112T6Th6] [^116zAVhn].
+> Bottom line, after verifying labeling, microbiology, guidelines, and safety, I should conclude clearly: clindamycin has no reliable activity against Klebsiella and is not appropriate therapy for Klebsiella infections; if present in a polymicrobial process, it may be used only as an adjunct for anaerobes or gram-positive coverage alongside a drug active against Klebsiella, chosen per susceptibility results and site-specific guidance [^114QPBjx] [^112T6Th6] [^11573KMp].
 
 ---
 

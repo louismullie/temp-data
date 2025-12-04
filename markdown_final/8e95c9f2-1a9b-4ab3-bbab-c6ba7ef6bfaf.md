@@ -35,7 +35,7 @@ How does a birth-control pill affect your FSH and LH levels?
 
 ---
 
-Birth control pills suppress **FSH and LH** through negative feedback on the hypothalamic–pituitary–gonadal axis [^113VnddU], preventing mid-cycle surges and ovulation [^114YCwv5]. FSH and LH remain low during active pills and **rebound during the hormone-free interval**, especially with longer pill-free days [^115YFs53]; shortening the hormone-free interval or adding low-dose estrogen blunts this rebound and improves cycle control [^115kSJDZ]. Progestin-only pills suppress **FSH and LH less consistently**, relying more on cervical and endometrial effects [^114h3bxV] [^116q6A1Q]. Upon stopping pills, FSH and LH typically recover within weeks to months, though recovery may be delayed with long-term use or in older women [^114ardBW] [^113oV3bK].
+Birth control pills suppress **FSH and LH** through negative feedback on the hypothalamic–pituitary–gonadal axis [^111eKWsi], preventing mid-cycle surges and ovulation [^114YCwv5]. FSH and LH remain low during active pills and **rebound during the hormone-free interval**, especially with longer pill-free days [^115YFs53]; shortening the hormone-free interval or adding low-dose estrogen blunts this rebound and improves cycle control [^115kSJDZ]. Progestin-only pills suppress **FSH and LH less consistently**, relying more on cervical and endometrial effects [^114h3bxV] [^116q6A1Q]. Upon stopping pills, FSH and LH typically recover within weeks to months, though recovery may be delayed with long-term use or in older women [^114ardBW] [^113oV3bK].
 
 ---
 

@@ -43,7 +43,7 @@ Is vaginal estrogen appropriate for survivors of ER/PR-positive breast cancer?
 
 ---
 
-Vaginal estrogen is **not first-line** for ER/PR-positive breast cancer survivors due to recurrence concerns [^112Psteu], especially with aromatase inhibitors [^116EqLmJ]. Use only if nonhormonal options fail, **after oncologist consultation and shared decision-making** [^115uKnuE]. If used, prefer ultra-low-dose estriol [^113ybKhy] or 4–10 µg estradiol inserts [^116FzXiz], monitor for early transient absorption [^114GigQu], and limit duration [^112mT1cT]. Avoid in active disease or high-risk patients, and monitor for recurrence and endometrial effects [^115XdSXn].
+Vaginal estrogen is **not first-line** for ER/PR-positive breast cancer survivors due to recurrence concerns [^112Psteu], especially with aromatase inhibitors [^116EqLmJ]. Use only if nonhormonal options fail, **after oncologist consultation and shared decision-making** [^115uKnuE]. If used, prefer ultra-low-dose estriol [^116Kko4B] or 4–10 µg estradiol inserts [^116FzXiz], monitor for early transient absorption [^114GigQu], and limit duration [^112mT1cT]. Avoid in active disease or high-risk patients, and monitor for recurrence and endometrial effects [^115XdSXn].
 
 ---
 

@@ -21,7 +21,7 @@ Modified scarbossa
 
 > Wait, let me verify the performance implications. That high specificity supports cath lab activation when the score is ≥ 3, but the low sensitivity explains frequent missed occlusions, a trade-off that directly influenced guideline shifts away from treating "new LBBB" as a STEMI equivalent in isolation [^1166UAYr] [^1115mhiu].
 
-> Next, I should review the Smith-modified Sgarbossa criteria. The key innovation was replacing the arbitrary " ≥ 5 mm discordant ST elevation" with a proportional rule: discordant ST elevation ≥ 1 mm with ST/S ratio ≤ −0.25 (or ST/S ratio ≥ 0.25 for discordant ST depression), which improved sensitivity substantially while maintaining specificity. The unweighted approach means any single positive criterion is sufficient, which simplifies triage in the ED [^114cW8ip] [^112q8PjH].
+> Next, I should review the Smith-modified Sgarbossa criteria. The key innovation was replacing the arbitrary " ≥ 5 mm discordant ST elevation" with a proportional rule: discordant ST elevation ≥ 1 mm with ST/S ratio ≤ −0.25 (or ST/S ratio ≥ 0.25 for discordant ST depression), which improved sensitivity substantially while maintaining specificity. The unweighted approach means any single positive criterion is sufficient, which simplifies triage in the ED [^114cW8ip] [^114Kq8gj].
 
 > Hold on, I should verify the validation data. The derivation showed sensitivity ~91% and specificity ~90%, and a subsequent validation achieved sensitivity ~80% with specificity ~99%, confirming that the modified rule is more sensitive than the original and retains high specificity, with excellent interobserver agreement in related work [^114cW8ip] [^112q8PjH] [^112Umcds].
 
