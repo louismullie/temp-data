@@ -41,7 +41,7 @@ What complications may arise from transtympanic steroid injections?
 
 ---
 
-Transtympanic steroid injections are generally safe, but clinicians should counsel patients about **persistent tympanic membrane perforation** (about 1–2%) [^114r3D9A] and **transient vertigo or dizziness** (6–33%) [^11575oj3] as the most common complications. Other risks include **otitis media**, **otalgia**, **tinnitus**, and rare events such as perilymphatic fistula [^1114ZFxd] or tympanic membrane breakdown, especially in irradiated ears [^113yLZoc]. Uncommon but possible **systemic steroid effects** can occur with repeated injections [^113nr8zP] [^notfound]. Most complications are **minor and self-limited**, but persistent perforation may require surgical repair [^114r3D9A]; risk is higher with multiple injections, myringotomy [^1161nyAS], or prior radiation [^113yLZoc].
+Transtympanic steroid injections are generally safe, but clinicians should counsel patients about **persistent tympanic membrane perforation** (about 1–2%) [^114r3D9A] and **transient vertigo or dizziness** (6–33%) [^11575oj3] as the most common complications. Other risks include **otitis media**, **otalgia**, **tinnitus**, and rare events such as perilymphatic fistula [^1114ZFxd] or tympanic membrane breakdown, especially in irradiated ears [^113yLZoc]. Uncommon but possible **systemic steroid effects** can occur with repeated injections [^113nr8zP]. Most complications are **minor and self-limited**, but persistent perforation may require surgical repair [^114r3D9A]; risk is higher with multiple injections, myringotomy [^1161nyAS], or prior radiation [^113yLZoc].
 
 ---
 

@@ -37,7 +37,7 @@ Should my patient with suspected deep vein thrombosis (DVT) be started on antico
 
 ---
 
-Start anticoagulation **immediately** for patients with a high clinical suspicion of DVT or when imaging is delayed, as this reduces the risk of PE and thrombus extension [^111SxyZo] [^111xmXAU]. For low-risk patients, **wait for imaging confirmation** — typically with D-dimer and compression ultrasound [^111RvB9e] — to avoid unnecessary anticoagulation and bleeding [^113buXtu] [^notfound]. If imaging is delayed beyond 24 hours in moderate-to-high suspicion cases, initiate anticoagulation while awaiting results [^111SxyZo].
+Start anticoagulation **immediately** for patients with a high clinical suspicion of DVT or when imaging is delayed, as this reduces the risk of PE and thrombus extension [^111SxyZo] [^111xmXAU]. For low-risk patients, **wait for imaging confirmation** — typically with D-dimer and compression ultrasound [^111RvB9e] — to avoid unnecessary anticoagulation and bleeding [^113buXtu]. If imaging is delayed beyond 24 hours in moderate-to-high suspicion cases, initiate anticoagulation while awaiting results [^111SxyZo].
 
 ---
 

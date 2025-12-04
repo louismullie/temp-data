@@ -33,7 +33,7 @@ I have a patient with familial obesity. Lifestyle modifications didn't work. Wha
 
 > But wait, what if the patient is not ready for escalation? I should double-check readiness and use motivational interviewing to revisit goals, barriers, and preferences, and if lifestyle therapy was underdosed, I should first intensify to a higher-intensity program or multidisciplinary care before adding medications, because stepping up intensity can salvage apparent nonresponse and improve outcomes [^115F4kVa] [^115XFZkt].
 
-> Next, I should review longitudinal monitoring and follow-up; I need to ensure visits every 1–3 months initially to track weight, waist, blood pressure, labs reflecting comorbidity control, adherence, and psychosocial functioning, and then transition to quarterly or semiannual visits once stable, with annual reassessment of complications and continuous screening for weight stigma and mental health needs [^notfound] [^notfound].
+> Next, I should review longitudinal monitoring and follow-up; I need to ensure visits every 1–3 months initially to track weight, waist, blood pressure, labs reflecting comorbidity control, adherence, and psychosocial functioning, and then transition to quarterly or semiannual visits once stable, with annual reassessment of complications and continuous screening for weight stigma and mental health needs [^notfound].
 
 > I should confirm that care is coordinated and team-based, integrating primary care, dietitians, behavioral health, physical therapy, and specialty services as indicated, and leveraging community resources and, when available, comprehensive obesity treatment programs to sustain engagement and outcomes over time [^115ADMGj] [^114cCNAv].
 
