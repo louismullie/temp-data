@@ -37,7 +37,7 @@ Based on current guidelines, what vaccination(s) should be recommended for this 
 
 ---
 
-Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV, Shingrix)** in a 2-dose series (0, 2–6 months) [^113cafDr] [^115LZroM] because he is VZV-seropositive and at high risk for shingles after transplantation [^111upqMD]. RZV is preferred over the live vaccine because it is **non-live and safe** for immunocompromised candidates [^113cafDr] [^115LZroM]; if the live vaccine is given, transplant must be delayed by 4 weeks [^114Y6ojN] [^11511d72]. His VZV-seronegative wife and daughter should receive the **varicella vaccine** (2 doses, 4–8 weeks apart) [^115gPHUE] at least 4 weeks before transplant to prevent household transmission [^114Y6ojN] [^113P8xre]. Live vaccines are contraindicated post-transplant, so completing these now is essential [^111ANx9m] [^111YSSDn].
+Pre-transplant, the **patient should receive the recombinant zoster vaccine (RZV, Shingrix)** in a 2-dose series (0, 2–6 months) [^113cafDr] [^115LZroM] because he is VZV-seropositive and at high risk for shingles after transplantation [^111upqMD]. RZV is preferred over the live vaccine because it is **non-live and safe** for immunocompromised candidates [^113cafDr] [^115LZroM]; if the live vaccine is given, transplant must be delayed by 4 weeks [^114Y6ojN] [^11511d72]. His VZV-seronegative wife and daughter should receive the **varicella vaccine** (2 doses, 4–8 weeks apart) [^114VLmRd] at least 4 weeks before transplant to prevent household transmission [^114Y6ojN] [^113P8xre]. Live vaccines are contraindicated post-transplant, so completing these now is essential [^111ANx9m] [^111YSSDn].
 
 ---
 

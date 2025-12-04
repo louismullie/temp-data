@@ -35,7 +35,7 @@ How does rh immune globulin prevent anti -D formation in rh-neg patients?
 
 ---
 
-Rh immune globulin prevents anti-D formation in Rh-negative patients by **coating Rh-positive fetal red cells** that enter maternal circulation, accelerating their clearance by the reticuloendothelial system before the maternal immune system can mount a primary anti-D response [^113dx3Ts]. This **Fc-mediated clearance** and immune modulation suppresses B-cell activation and memory formation, thereby preventing sensitization [^1168f48U]. For optimal effect, administer 300 micrograms within 72 hours of exposure or at 28 weeks' gestation, and dose based on fetomaternal hemorrhage volume after delivery or sensitizing events [^111mqQAh] [^115of1jK].
+Rh immune globulin prevents anti-D formation in Rh-negative patients by **coating Rh-positive fetal red cells** that enter maternal circulation, accelerating their clearance by the reticuloendothelial system before the maternal immune system can mount a primary anti-D response [^113dx3Ts]. This **Fc-mediated clearance** and immune modulation suppresses B-cell activation and memory formation, thereby preventing sensitization [^1168f48U]. For optimal effect, administer 300 micrograms within 72 hours of exposure or at 28 weeks' gestation, and dose based on fetomaternal hemorrhage volume after delivery or sensitizing events [^116LiXLT] [^115of1jK].
 
 ---
 

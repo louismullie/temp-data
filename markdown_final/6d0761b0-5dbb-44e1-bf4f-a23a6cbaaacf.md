@@ -37,7 +37,7 @@ What is the renal dose adjustment for Bactrim?
 
 ---
 
-Bactrim requires renal dose adjustment because both components are renally cleared and accumulate in impairment, increasing toxicity risk [^114KxHnU] [^114ZbKia] [^113Dx8od]. Reduce dose by 50% for CrCl 15–30 mL/min [^115uyNcC] and avoid use if CrCl < 15 mL/min unless benefits clearly outweigh risks and close monitoring is ensured [^111sHFGH]. For hemodialysis or peritoneal dialysis, dose as for CrCl < 15 mL/min [^111AWTKc] [^111FwNvi]; for CRRT, adjust based on modality and flow rates [^116jvTrL] [^1157RDUX] [^113uVBLs]. Monitor renal function [^116dZUzY], potassium, and CBC; watch for hyperkalemia [^116rNx8o] [^116C7QHU], hyponatremia [^114VVtx3], and hematologic toxicity [^114zDsQs].
+Bactrim requires renal dose adjustment because both components are renally cleared and accumulate in impairment, increasing toxicity risk [^114KxHnU] [^114ZbKia] [^113Dx8od]. Reduce dose by 50% for CrCl 15–30 mL/min [^115uyNcC] and avoid use if CrCl < 15 mL/min unless benefits clearly outweigh risks and close monitoring is ensured [^114ENzGZ]. For hemodialysis or peritoneal dialysis, dose as for CrCl < 15 mL/min [^111AWTKc] [^111FwNvi]; for CRRT, adjust based on modality and flow rates [^116jvTrL] [^1157RDUX] [^113uVBLs]. Monitor renal function [^116dZUzY], potassium, and CBC; watch for hyperkalemia [^116rNx8o] [^116C7QHU], hyponatremia [^114VVtx3], and hematologic toxicity [^114zDsQs].
 
 ---
 

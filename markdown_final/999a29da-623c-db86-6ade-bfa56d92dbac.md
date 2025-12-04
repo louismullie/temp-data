@@ -31,7 +31,7 @@ Does diastasis recti occur in men
 
 ---
 
-Diastasis recti **does occur in men**, though it is less common than in women. It is most often linked to **chronic intra-abdominal pressure** from obesity, heavy lifting, chronic cough, or constipation, and may also follow abdominal surgery or trauma [^113mkNQC] [^111iqs2X]. Diagnosis relies on clinical examination and ultrasound, with **IRD > 2 cm** at the umbilicus typically considered abnormal [^1159yXid] [^113mkNQC]. Management is individualized: conservative care (weight loss, core strengthening, physical therapy) is first-line, and surgery is reserved for persistent symptoms or cosmetic concerns [^1121VUgB] [^113JxDAb]. Prognosis is generally favorable with treatment, but recurrence is possible without addressing underlying risk factors [^113CSVEW].
+Diastasis recti **does occur in men**, though it is less common than in women. It is most often linked to **chronic intra-abdominal pressure** from obesity, heavy lifting, chronic cough, or constipation, and may also follow abdominal surgery or trauma [^113mkNQC] [^111iqs2X]. Diagnosis relies on clinical examination and ultrasound, with **IRD > 2 cm** at the umbilicus typically considered abnormal [^112Y4N1x] [^113mkNQC]. Management is individualized: conservative care (weight loss, core strengthening, physical therapy) is first-line, and surgery is reserved for persistent symptoms or cosmetic concerns [^1121VUgB] [^113JxDAb]. Prognosis is generally favorable with treatment, but recurrence is possible without addressing underlying risk factors [^113CSVEW].
 
 ---
 

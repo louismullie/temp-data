@@ -39,7 +39,7 @@ How to discontinue temazepam
 
 ---
 
-Taper temazepam **gradually** to reduce withdrawal risk [^1166t2RW], using a **patient-specific plan** with dose reductions of 5–10% every 2–4 weeks [^111wCmGW] and avoiding reductions > 25% every 2 weeks [^115jvcSM]. Monitor for withdrawal at each step [^115jvcSM]; if symptoms occur, **pause or slow the taper** and consider switching to a longer-acting benzodiazepine (e.g. diazepam) if needed [^116H9FZP]. Provide CBT-I and sleep hygiene [^111EqpPc], and avoid abrupt discontinuation unless there is a compelling safety reason [^113zNPkL]. Taper duration varies with use and dose; for long-term or high-dose use, it may take months to over a year [^1169JqwH] [^116FTYzJ].
+Taper temazepam **gradually** to reduce withdrawal risk [^1166t2RW], using a **patient-specific plan** with dose reductions of 5–10% every 2–4 weeks [^111wCmGW] and avoiding reductions > 25% every 2 weeks [^115jvcSM]. Monitor for withdrawal at each step [^115jvcSM]; if symptoms occur, **pause or slow the taper** and consider switching to a longer-acting benzodiazepine (e.g. diazepam) if needed [^115jvcSM]. Provide CBT-I and sleep hygiene [^111EqpPc], and avoid abrupt discontinuation unless there is a compelling safety reason [^113zNPkL]. Taper duration varies with use and dose; for long-term or high-dose use, it may take months to over a year [^1169JqwH] [^116FTYzJ].
 
 ---
 
